@@ -1,10 +1,10 @@
 # Bi–Sn system
 
-> Bi–Sn system: 2 accepted literature values (invariant reaction 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Sn system: 1 accepted literature values (invariant reaction 1) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-SN.html · Markdown: https://data.orchid-project.org/systems/BI-SN.md
 
-2 accepted literature values from 2 paper(s) (experimental 1, model 1); 6 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (experimental 1); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SN.json) · [CSV](https://data.orchid-project.org/systems/BI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-SN/BiSn-07Viz.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BI-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-SN.html) · [Markdown](https://data.orchid-project.org/systems/BI-SN.md)
 
@@ -13,13 +13,12 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
+| invariant reaction | 1 |
 
 ## Calculated phase diagrams
 
@@ -51,19 +50,17 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Sn system (2)
+Table: Invariant reactions reported in the literature for the Bi–Sn system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 412.15 | eutectic |  | model | [1] Yoon 1998; _cites Massalski 1991_ | p. 2; `ORC-AFFM6EG6VU` | “The Sn-Bi system which is composed of two primary phases at room temperatures, bet (bodycentered-tetragonal)-Sn (P-Sn, from now on) and rhombohedral Bi, is a typical single eutectic alloy, at 139°C \[8\].” |
-| 411.15 | eutectic: L = (Bi) + (Sn) |  | experimental | [2] Hu 2022 | p. 7; `ORC-PZBSCC5S4W` | “The matrix comprises two phases, one white Bi-rich phase and another Sn-rich phase with corrosion pits which resulted from the solidification of a liquid phase through a binary eutectic reaction, L = (Bi) + (Sn) at 138 °C.” |
+| 411.15 | eutectic: L = (Bi) + (Sn) |  | experimental | [1] Hu 2022 | p. 7; `ORC-PZBSCC5S4W` | “The matrix comprises two phases, one white Bi-rich phase and another Sn-rich phase with corrosion pits which resulted from the solidification of a liquid phase through a binary eutectic reaction, L = (Bi) + (Sn) at 138 °C.” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Seung Wook Yoon, Hyuck Mo Lee, A thermodynamic study of phase equilibria in the Sn-Bi-Pb solder system, Calphad 22, 167-178 (1998). [doi:10.1016/s0364-5916(98)00022-4](https://doi.org/10.1016/s0364-5916%2898%2900022-4)
-2. Jingxian Hu, Na Su, Xinming Wang, Fucheng Yin, Xuemei Ouyang, Experimental investigation and thermodynamic calculation of the Co–Sn–Bi ternary system, Calphad 77, 102404 (2022). [doi:10.1016/j.calphad.2022.102404](https://doi.org/10.1016/j.calphad.2022.102404)
+1. Jingxian Hu, Na Su, Xinming Wang, Fucheng Yin, Xuemei Ouyang, Experimental investigation and thermodynamic calculation of the Co–Sn–Bi ternary system, Calphad 77, 102404 (2022). [doi:10.1016/j.calphad.2022.102404](https://doi.org/10.1016/j.calphad.2022.102404)
 
 ## Please cite
 

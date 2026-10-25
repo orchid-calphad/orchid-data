@@ -1,10 +1,10 @@
 # Si–Ta system
 
-> Si–Ta system: 160 accepted literature values (formation 71, invariant reaction 45, phase transition 22, crystal structure 20) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Ta system: 154 accepted literature values (formation 71, invariant reaction 40, phase transition 21, crystal structure 20) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-TA.html · Markdown: https://data.orchid-project.org/systems/SI-TA.md
 
-160 accepted literature values from 4 paper(s) (experimental 62, model 66, DFT 11, unspecified 21); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+154 accepted literature values from 4 paper(s) (experimental 56, model 66, DFT 11, unspecified 21); 4 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TA.json) · [CSV](https://data.orchid-project.org/systems/SI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TA/SiTa-03Che-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SI-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TA.html) · [Markdown](https://data.orchid-project.org/systems/SI-TA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 62 |
+| experimental | 56 |
 | model | 66 |
 | DFT | 11 |
 | unspecified | 21 |
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 45 |
-| phase transition | 22 |
+| invariant reaction | 40 |
+| phase transition | 21 |
 | formation | 71 |
 | heat capacity / entropy / enthalpy | 2 |
 | crystal structure | 20 |
@@ -104,17 +104,16 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Si–Ta system (45)
+Table: Invariant reactions reported in the literature for the Si–Ta system (40)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2823 | L -> βTa5Si3 | βTa5Si3: Si 0.375 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 10; `ORC-RFMZFAUD4S` |  |
-| 2816 | L -> βTa5Si3 | βTa5Si3: Si 0.375 | model | [1] Guo 2009 | Table 4, p. 4, row 9; `ORC-VYVHETVM65` |  |
+| 2823 | congruent melting: L -> βTa5Si3 | βTa5Si3: Si 0.375 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 10; `ORC-RFMZFAUD4S` |  |
+| 2816 | congruent melting: L -> βTa5Si3 | βTa5Si3: Si 0.375 | model | [1] Guo 2009 | Table 4, p. 4, row 9; `ORC-VYVHETVM65` |  |
 | 2786 | (L) + Si5Ta3 -> SiTa2 | L: Ta 0.711; SiTa2: Ta 0.666667 | model | [2] Vahlas 1989 | Table 4, p. 9, row 12; `ORC-EW22MLRCSB` |  |
 | 2714 | Si3Ta5_HT + Liq \<-> SiTa2 | Si3Ta5_HT: Ta 0.625; L: Ta 0.711; SiTa2: Ta 0.666667 | model | [3] Drouelle 2013 | Table 5, p. 4, row 11; `ORC-OMOS7YEWXM` |  |
 | 2713 | L + βTa5Si3 -> Ta2Si | L: Si 0.286; βTa5Si3: Si 0.375; Ta2Si: Si 0.333 | model | [1] Guo 2009 | Table 4, p. 4, row 5; `ORC-44QITCCI6S` |  |
 | 2713 | (L) + Si5Ta3 -> SiTa2 | L: Ta 0.72; SiTa2: Ta 0.666667 | experimental | [2] Vahlas 1989; _cites ref. 30_ | Table 4, p. 9, row 13; `ORC-ASHFKZLBSR` |  |
-| 2713 | peritectic: Si3Ta5_HT + Liq \<-> SiTa2 |  | experimental | [3] Drouelle 2013; _cites Kocherzhinskii 1981_ | p. 2; `ORC-AY6TLAKIR5.6b2491` | “(Ta) at 2533 K and x(Liq,Ta) = 0.83) and two peritectics (Si3Ta5_HT + Liq \<-> SiTa2 at 2713 K and SiTa2 + Liq \<-> SiTa3 at 2613 K).” |
 | 2713 | Si3Ta5_HT + Liq \<-> SiTa2 | Si3Ta5_HT: Ta 0.625; L: Ta 0.72; SiTa2: Ta 0.666667 | experimental | [3] Drouelle 2013; _cites Massalski 1990_ | Table 5, p. 4, row 10; `ORC-RCUXKKXDLQ` |  |
 | 2713 | L + βTa5Si3 -> Ta2Si | L: Si 0.28; βTa5Si3: Si 0.375; Ta2Si: Si 0.333 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 6; `ORC-XCDYRU2GSZ` |  |
 | 2706 | Si3Ta5_HT + Liq \<-> SiTa2 | Si3Ta5_HT: Ta 0.625; L: Ta 0.7534; SiTa2: Ta 0.666667 | model | [3] Drouelle 2013 | Table 5, p. 4, row 12; `ORC-CMLWNR3JGU` |  |
@@ -123,35 +122,31 @@ Table: Invariant reactions reported in the literature for the Si–Ta system (45
 | 2619 | SiTa2 + Liq \<-> SiTa3 | SiTa2: Ta 0.666667; L: Ta 0.7576; SiTa3: Ta 0.75 | model | [3] Drouelle 2013 | Table 5, p. 4, row 14; `ORC-VLNVHIXJXX` |  |
 | 2613 | L + Ta2Si -> Ta3Si | L: Si 0.234; Ta2Si: Si 0.333; Ta3Si: Si 0.25 | model | [1] Guo 2009 | Table 4, p. 4, row 3; `ORC-53CTZJIE2A` |  |
 | 2613 | SiTa2 + Liq \<-> SiTa3 | SiTa2: Ta 0.666667; L: Ta 0.78; SiTa3: Ta 0.75 | experimental | [3] Drouelle 2013; _cites Massalski 1990_ | Table 5, p. 4, row 13; `ORC-AY5R7HRCFV` |  |
-| 2613 | peritectic: SiTa2 + Liq \<-> SiTa3 |  | experimental | [3] Drouelle 2013; _cites Kocherzhinskii 1981_ | p. 2; `ORC-AY6TLAKIR5.ab4b0e` | “(Ta) at 2533 K and x(Liq,Ta) = 0.83) and two peritectics (Si3Ta5_HT + Liq \<-> SiTa2 at 2713 K and SiTa2 + Liq \<-> SiTa3 at 2613 K).” |
 | 2613 | L + Ta2Si -> Ta3Si | L: Si 0.22; Ta2Si: Si 0.333; Ta3Si: Si 0.25 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 4; `ORC-KPXEXFUTDH` |  |
-| 2579 | (L) -> bcc+SiTa3 | L: Ta 0.31; SiTa3: Ta 0.75 | model | [2] Vahlas 1989 | Table 4, p. 9, row 16; `ORC-DP7YEM6JXM` |  |
+| 2579 | eutectic: (L) -> bcc+SiTa3 | L: Ta 0.31; SiTa3: Ta 0.75 | model | [2] Vahlas 1989 | Table 4, p. 9, row 16; `ORC-DP7YEM6JXM` |  |
 | 2533 | Liq \<-> SiTa3 + (Ta) | L: Ta 0.83; SiTa3: Ta 0.75 | experimental | [3] Drouelle 2013; _cites Massalski 1990_ | Table 5, p. 4, row 7; `ORC-2AX7Z2U6G7` |  |
-| 2533 | L -> (Ta) + Ta3Si | L: Si 0.17; (Ta): Si 0.07; Ta3Si: Si 0.25 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 2; `ORC-2VFATOWBCK` |  |
-| 2533 | (L) -> bcc+SiTa3 | L: Ta 0.83; SiTa3: Ta 0.75 | experimental | [2] Vahlas 1989; _cites ref. 30_ | Table 4, p. 9, row 17; `ORC-AFDOJYZLWH` |  |
-| 2533 | eutectic: Liq \<-> SiTa3 + (Ta) |  | experimental | [3] Drouelle 2013; _cites Kocherzhinskii 1981_ | p. 2; `ORC-AY6TLAKIR5.3e47d9` | “(Ta) at 2533 K and x(Liq,Ta) = 0.83) and two peritectics (Si3Ta5_HT + Liq \<-> SiTa2 at 2713 K and SiTa2 + Liq \<-> SiTa3 at 2613 K).” |
-| 2533 | L -> (Ta) + Ta3Si | L: Si 0.177; (Ta): Si 0.07; Ta3Si: Si 0.25 | model | [1] Guo 2009 | Table 4, p. 4, row 1; `ORC-VU3LMII25W` |  |
+| 2533 | eutectic: L -> (Ta) + Ta3Si | L: Si 0.17; (Ta): Si 0.07; Ta3Si: Si 0.25 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 2; `ORC-2VFATOWBCK` |  |
+| 2533 | eutectic: (L) -> bcc+SiTa3 | L: Ta 0.83; SiTa3: Ta 0.75 | experimental | [2] Vahlas 1989; _cites ref. 30_ | Table 4, p. 9, row 17; `ORC-AFDOJYZLWH` |  |
+| 2533 | eutectic: L -> (Ta) + Ta3Si | L: Si 0.177; (Ta): Si 0.07; Ta3Si: Si 0.25 | model | [1] Guo 2009 | Table 4, p. 4, row 1; `ORC-VU3LMII25W` |  |
 | 2526 | Liq \<-> SiTa3 + (Ta) | L: Ta 0.8181; SiTa3: Ta 0.75 | model | [3] Drouelle 2013 | Table 5, p. 4, row 8; `ORC-L2XCHLU5RO` |  |
 | 2508 | Liq \<-> SiTa3 + (Ta) | L: Ta 0.8364; SiTa3: Ta 0.75 | model | [3] Drouelle 2013 | Table 5, p. 4, row 9; `ORC-SXD33CJN5G` |  |
-| 2433 | βTa5Si3 -> αTa5Si3 | βTa5Si3: Si 0.375; αTa5Si3: Si 0.375, Ta 0.625 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 8; `ORC-E4Z3YBP56R` |  |
-| 2433 | βTa5Si3 -> αTa5Si3 | βTa5Si3: Si 0.375; αTa5Si3: Si 0.375, Ta 0.625 | model | [1] Guo 2009 | Table 4, p. 4, row 7; `ORC-SMTQJWJKUK` |  |
-| 2313 | L -> TaSi2 | TaSi2: Si 0.667 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 14; `ORC-PEQOBHO2BM` |  |
-| 2307 | L -> TaSi2 | TaSi2: Si 0.667 | model | [1] Guo 2009 | Table 4, p. 4, row 13; `ORC-F5YM2OZPUO` |  |
-| 2274 | L -> TaSi2 + αTa5Si3 | L: Si 0.602; TaSi2: Si 0.667; αTa5Si3: Si 0.375 | model | [1] Guo 2009 | Table 4, p. 4, row 11; `ORC-NJYIYA7364` |  |
-| 2267 | (L) -> Si2Ta+Si3Ta5 | L: Ta 0.393; Si2Ta: Ta 0.333333; Si3Ta5: Ta 0.625 | model | [2] Vahlas 1989 | Table 4, p. 9, row 8; `ORC-A23N75LGAP` |  |
+| 2433 | polymorphic: βTa5Si3 -> αTa5Si3 | βTa5Si3: Si 0.375; αTa5Si3: Si 0.375, Ta 0.625 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 8; `ORC-E4Z3YBP56R` |  |
+| 2433 | polymorphic: βTa5Si3 -> αTa5Si3 | βTa5Si3: Si 0.375; αTa5Si3: Si 0.375, Ta 0.625 | model | [1] Guo 2009 | Table 4, p. 4, row 7; `ORC-SMTQJWJKUK` |  |
+| 2313 | congruent melting: L -> TaSi2 | TaSi2: Si 0.667 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 14; `ORC-PEQOBHO2BM` |  |
+| 2307 | congruent melting: L -> TaSi2 | TaSi2: Si 0.667 | model | [1] Guo 2009 | Table 4, p. 4, row 13; `ORC-F5YM2OZPUO` |  |
+| 2274 | eutectic: L -> TaSi2 + αTa5Si3 | L: Si 0.602; TaSi2: Si 0.667; αTa5Si3: Si 0.375 | model | [1] Guo 2009 | Table 4, p. 4, row 11; `ORC-NJYIYA7364` |  |
+| 2267 | eutectic: (L) -> Si2Ta+Si3Ta5 | L: Ta 0.393; Si2Ta: Ta 0.333333; Si3Ta5: Ta 0.625 | model | [2] Vahlas 1989 | Table 4, p. 9, row 8; `ORC-A23N75LGAP` |  |
 | 2253 | Liq \<->Si2Ta + Si3Ta5_LT | L: Ta 0.3963; Si2Ta: Ta 0.333333; Si3Ta5_LT: Ta 0.625 | model | [3] Drouelle 2013 | Table 5, p. 4, row 5; `ORC-5JIW7SDKLF` |  |
 | 2238 | Liq \<->Si2Ta + Si3Ta5_LT | L: Ta 0.4153; Si2Ta: Ta 0.333333; Si3Ta5_LT: Ta 0.625 | model | [3] Drouelle 2013 | Table 5, p. 4, row 6; `ORC-UDVW7HMLJN` |  |
-| 2233 | (L) -> Si2Ta+Si3Ta5 | L: Ta 0.38; Si2Ta: Ta 0.333333; Si3Ta5: Ta 0.625 | experimental | [2] Vahlas 1989; _cites ref. 30_ | Table 4, p. 9, row 9; `ORC-B6QHB4MD4W` |  |
-| 2233 | eutectic: Liq \<-> Si2Ta + Si3Ta5_LT |  | experimental | [3] Drouelle 2013; _cites Kocherzhinskii 1981_ | p. 1; `ORC-CZSM4EGWZL.f052af` | “The experimental Si-Ta phase diagram shows three eutectics (Liq \<-> Si + Si2Ta at 1673 K and x(Liq,Ta) = 0.01, Liq \<-> Si2Ta + Si3Ta5_LT at 2233 K and x(Liq,Ta) = 0.38, Liq \<-> SiTa3 +” |
+| 2233 | eutectic: (L) -> Si2Ta+Si3Ta5 | L: Ta 0.38; Si2Ta: Ta 0.333333; Si3Ta5: Ta 0.625 | experimental | [2] Vahlas 1989; _cites ref. 30_ | Table 4, p. 9, row 9; `ORC-B6QHB4MD4W` |  |
 | 2233 | Liq \<->Si2Ta + Si3Ta5_LT | L: Ta 0.38; Si2Ta: Ta 0.333333; Si3Ta5_LT: Ta 0.625 | experimental | [3] Drouelle 2013; _cites Massalski 1990_ | Table 5, p. 4, row 4; `ORC-GTHAIGCD5K` |  |
-| 2233 | L -> TaSi2 + αTa5Si3 | L: Si 0.62; TaSi2: Si 0.667; αTa5Si3: Si 0.375 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 12; `ORC-WHTIZ2G2HN` |  |
+| 2233 | eutectic: L -> TaSi2 + αTa5Si3 | L: Si 0.62; TaSi2: Si 0.667; αTa5Si3: Si 0.375 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 12; `ORC-WHTIZ2G2HN` |  |
 | 1679 | Liq \<-> Si + Si2Ta | L: Ta 0.0168; Si: Ta 0; Si2Ta: Ta 0.333333 | model | [3] Drouelle 2013 | Table 5, p. 4, row 2; `ORC-645RVZY5JE` |  |
-| 1673 | L -> (Si) + TaSi2 | L: Si 0.99; (Si): Si 1; TaSi2: Si 0.667 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 16; `ORC-AJYS6NTAOD` |  |
-| 1673 | eutectic: Liq \<-> Si + Si2Ta |  | experimental | [3] Drouelle 2013; _cites Kocherzhinskii 1981_ | p. 1; `ORC-CZSM4EGWZL.ea7785` | “The experimental Si-Ta phase diagram shows three eutectics (Liq \<-> Si + Si2Ta at 1673 K and x(Liq,Ta) = 0.01, Liq \<-> Si2Ta + Si3Ta5_LT at 2233 K and x(Liq,Ta) = 0.38, Liq \<-> SiTa3 +” |
+| 1673 | eutectic: L -> (Si) + TaSi2 | L: Si 0.99; (Si): Si 1; TaSi2: Si 0.667 | experimental | [1] Guo 2009; _cites Yu 1981_ | Table 4, p. 4, row 16; `ORC-AJYS6NTAOD` |  |
 | 1673 | Liq \<-> Si + Si2Ta | L: Ta 0.01; Si: Ta 0; Si2Ta: Ta 0.333333 | experimental | [3] Drouelle 2013; _cites Massalski 1990_ | Table 5, p. 4, row 1; `ORC-JLZ2YTIJ37` |  |
-| 1673 | (L) -> Si(dia) + Si2Ta | L: Ta 0.02; Si(dia): Ta 0; Si2Ta: Ta 0.333333 | experimental | [2] Vahlas 1989; _cites ref. 30_ | Table 4, p. 9, row 5; `ORC-QTEWYEHAWJ` |  |
-| 1666 | L -> (Si) + TaSi2 | L: Si 0.954; (Si): Si 1; TaSi2: Si 0.667 | model | [1] Guo 2009 | Table 4, p. 4, row 15; `ORC-ACSA7I4EB7` |  |
-| 1662 | (L) -> Si(dia) + Si2Ta | L: Ta 0.052; Si(dia): Ta 0; Si2Ta: Ta 0.333333 | model | [2] Vahlas 1989 | Table 4, p. 9, row 4; `ORC-CP2SC6OEOM` |  |
+| 1673 | eutectic: (L) -> Si(dia) + Si2Ta | L: Ta 0.02; Si(dia): Ta 0; Si2Ta: Ta 0.333333 | experimental | [2] Vahlas 1989; _cites ref. 30_ | Table 4, p. 9, row 5; `ORC-QTEWYEHAWJ` |  |
+| 1666 | eutectic: L -> (Si) + TaSi2 | L: Si 0.954; (Si): Si 1; TaSi2: Si 0.667 | model | [1] Guo 2009 | Table 4, p. 4, row 15; `ORC-ACSA7I4EB7` |  |
+| 1662 | eutectic: (L) -> Si(dia) + Si2Ta | L: Ta 0.052; Si(dia): Ta 0; Si2Ta: Ta 0.333333 | model | [2] Vahlas 1989 | Table 4, p. 9, row 4; `ORC-CP2SC6OEOM` |  |
 | 1624 | Liq \<-> Si + Si2Ta | L: Ta 0.0818; Si: Ta 0; Si2Ta: Ta 0.333333 | model | [3] Drouelle 2013 | Table 5, p. 4, row 3; `ORC-K7OGOFCU7W` |  |
 
 ## Formation enthalpies
@@ -217,7 +212,7 @@ Table: Enthalpies of formation, Si–Ta system (52)
 
 ## Other properties
 
-### Phase transition (22)
+### Phase transition (21)
 
 Table: Phase transition, Si–Ta system
 
@@ -233,7 +228,6 @@ Table: Phase transition, Si–Ta system
 | Phase transition | 2313 K | 2313 | Liq \<->Si2Ta; _L: Ta 0.3333; Si2Ta: Ta 0.333333_ | experimental | [3] Drouelle 2013; _cites Massalski 1990_ | Table 5, p. 4, row 16; `ORC-RCBHQLDBYC` |  |
 | Phase transition | 2313 K | 2313 | congruent transformation | experimental | [3] Drouelle 2013; _cites Kocherzhinskii 1981_ | p. 2; `ORC-UXHTDLRS4S.615c63` | “The two stoichiometric compounds Si2Ta and Si3Ta5_HT melt congruently at 2313 and 2823 K respectively.” |
 | Phase transition | 2431 K | 2431 | Si5Ta3_LT \<-> Si5Ta3_HT; _Si5Ta3_LT: Ta 0.625; Si5Ta3_HT: Ta 0.625_ | model | [3] Drouelle 2013 | Table 5, p. 4, row 24; `ORC-VCI6ZHV5TP` |  |
-| Phase transition | 2433 K | 2433 |  | experimental | [1] Guo 2009 | p. 2; `ORC-QGOSQNYH5F` | “The phase transition from aTa5Si3 to bTa5Si3 occurred at about 2433 K.” |
 | Phase transition | 2433 K | 2433 | Si5Ta3_LT \<-> Si5Ta3_HT; _Si5Ta3_LT: Ta 0.625; Si5Ta3_HT: Ta 0.625_ | model | [3] Drouelle 2013 | Table 5, p. 4, row 23; `ORC-TW2AYTWRNB` |  |
 | Phase transition | 2433 K | 2433 | polymorphic: Si5Ta3_LT \<-> Si5Ta3_HT | experimental | [3] Drouelle 2013 | p. 2; `ORC-JU5H4XESAI` | “The polymorphic transition Si5Ta3_LT \<-> Si5Ta3_HT occurs at 2433 K.” |
 | Phase transition | 2433.5 K | 2433.5 | Si5Ta3_LT \<-> Si5Ta3_HT; _Si5Ta3_LT: Ta 0.625; Si5Ta3_HT: Ta 0.625_ | experimental | [3] Drouelle 2013; _cites Massalski 1990_ | Table 5, p. 4, row 22; `ORC-YXLDCRH5JK` |  |

@@ -1,10 +1,10 @@
 # Ga system
 
-> Ga system: 60 accepted literature values (crystal structure 41, heat capacity / entropy / enthalpy 14, formation 3, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga system: 59 accepted literature values (crystal structure 41, heat capacity / entropy / enthalpy 14, formation 3, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA.html · Markdown: https://data.orchid-project.org/systems/GA.md
 
-60 accepted literature values from 11 paper(s) (experimental 29, model 5, DFT 5, unspecified 21); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+59 accepted literature values from 11 paper(s) (experimental 28, model 5, DFT 5, unspecified 21); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA.json) · [CSV](https://data.orchid-project.org/systems/GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA.html) · [Markdown](https://data.orchid-project.org/systems/GA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
+| experimental | 28 |
 | model | 5 |
 | DFT | 5 |
 | unspecified | 21 |
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
+| phase transition | 1 |
 | formation | 3 |
 | heat capacity / entropy / enthalpy | 14 |
 | crystal structure | 41 |
@@ -40,14 +40,13 @@ Table: Enthalpies of formation, Ga system (3)
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 302.915 K | 302.915 |  | experimental | [2] He 2024; _cites Preston-Thomas 1990_ [doi](https://doi.org/10.1088/0026-1394/27/1/002) | p. 11; `ORC-GXDWJQX6A3` | “The melting temperature of Ga is 302.9146 K and is one of the fixed points in the 1990 International Temperature Scale (ITP-90)\[75\].” |
-| Phase transition | 303.15 K | 303.15 | α-Ga; _alloy: Ga 1_ | model | [3] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 5; `ORC-AUDBHDU6DW` |  |
+| Phase transition | 303.15 K | 303.15 | α-Ga; _alloy: Ga 1_ | model | [2] Perron 2016; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 3, row 5; `ORC-AUDBHDU6DW` |  |
 
 ### Heat capacity / entropy / enthalpy (14)
 
@@ -55,20 +54,20 @@ Table: Heat capacity / entropy / enthalpy, Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S_Ga^ortho(298)_ | 40.83 J/mol (basis unstated)/K | 298.15 | Orthorhombic Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 3; `ORC-LAMB5HTLG7.a4bb89` |  |
-| Entropy; _printed: S_Ga^ortho(298)_ | 40.97 J/mol (basis unstated)/K | 298.15 | Orthorhombic Ga | experimental | [2] He 2024 | Table 4, p. 12, row 4; `ORC-P2OVONLABI.5b2881` |  |
-| Entropy; _printed: S_Ga^ortho(298)_ | 40.83 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 3; `ORC-LAMB5HTLG7.4bb893` |  |
-| Entropy; _printed: S_Ga^ortho(298)_ | 40.97 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [2] He 2024 | Table 4, p. 12, row 4; `ORC-P2OVONLABI.2823c7` |  |
-| Entropy; _printed: S_Ga^liquid(T_m) - S_Ga^ortho(T_m)_ | 18.23 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024 | Table 4, p. 12, row 12; `ORC-KWQPEFDR7E` |  |
-| Entropy; _printed: S_Ga^liquid(T_m) - S_Ga^ortho(T_m)_ | 18.47 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 11; `ORC-W7IHWMFBOI` |  |
-| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024 | Table 4, p. 12, row 14; `ORC-HDW3MOFLAW.2e8cfa` |  |
-| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 13; `ORC-RXEAUAYRQ7.10abdb` |  |
-| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.133 J/mol (basis unstated)/K | 302.915 | Orthorhombic Ga | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 5; `ORC-AME2LSTFLB.ed5939` |  |
-| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.26 J/mol (basis unstated)/K | 302.915 | Orthorhombic Ga | experimental | [2] He 2024 | Table 4, p. 12, row 6; `ORC-Y2UMMEMATZ.0d226e` |  |
-| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.133 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 5; `ORC-AME2LSTFLB.f8dfa2` |  |
-| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024 | Table 4, p. 12, row 14; `ORC-HDW3MOFLAW.1473c4` |  |
-| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 13; `ORC-RXEAUAYRQ7.8b8a62` |  |
-| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.26 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [2] He 2024 | Table 4, p. 12, row 6; `ORC-Y2UMMEMATZ.eb92ea` |  |
+| Entropy; _printed: S_Ga^ortho(298)_ | 40.83 J/mol (basis unstated)/K | 298.15 | Orthorhombic Ga | experimental | [3] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 3; `ORC-LAMB5HTLG7.a4bb89` |  |
+| Entropy; _printed: S_Ga^ortho(298)_ | 40.97 J/mol (basis unstated)/K | 298.15 | Orthorhombic Ga | experimental | [3] He 2024 | Table 4, p. 12, row 4; `ORC-P2OVONLABI.5b2881` |  |
+| Entropy; _printed: S_Ga^ortho(298)_ | 40.83 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [3] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 3; `ORC-LAMB5HTLG7.4bb893` |  |
+| Entropy; _printed: S_Ga^ortho(298)_ | 40.97 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [3] He 2024 | Table 4, p. 12, row 4; `ORC-P2OVONLABI.2823c7` |  |
+| Entropy; _printed: S_Ga^liquid(T_m) - S_Ga^ortho(T_m)_ | 18.23 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [3] He 2024 | Table 4, p. 12, row 12; `ORC-KWQPEFDR7E` |  |
+| Entropy; _printed: S_Ga^liquid(T_m) - S_Ga^ortho(T_m)_ | 18.47 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [3] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 11; `ORC-W7IHWMFBOI` |  |
+| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [3] He 2024 | Table 4, p. 12, row 14; `ORC-HDW3MOFLAW.2e8cfa` |  |
+| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | Liquid Ga | experimental | [3] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 13; `ORC-RXEAUAYRQ7.10abdb` |  |
+| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.133 J/mol (basis unstated)/K | 302.915 | Orthorhombic Ga | experimental | [3] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 5; `ORC-AME2LSTFLB.ed5939` |  |
+| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.26 J/mol (basis unstated)/K | 302.915 | Orthorhombic Ga | experimental | [3] He 2024 | Table 4, p. 12, row 6; `ORC-Y2UMMEMATZ.0d226e` |  |
+| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.133 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [3] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 5; `ORC-AME2LSTFLB.f8dfa2` |  |
+| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [3] He 2024 | Table 4, p. 12, row 14; `ORC-HDW3MOFLAW.1473c4` |  |
+| Heat capacity; _printed: C_P^liquid(T_m)_ | 28.24 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [3] He 2024; _cites Hultgren 1973_ | Table 4, p. 12, row 13; `ORC-RXEAUAYRQ7.8b8a62` |  |
+| Heat capacity; _printed: C_P^ortho(T_m)_ | 26.26 J/mol (basis unstated)/K | 302.915 | UNKNOWN | experimental | [3] He 2024 | Table 4, p. 12, row 6; `ORC-Y2UMMEMATZ.eb92ea` |  |
 
 ### Crystal structure (41)
 
@@ -123,8 +122,8 @@ Table: Crystal structure, Ga system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Arpita Chari, Andres Garay, Raymundo Arróyave, Thermodynamic remodeling of the Co–Ga system, Calphad 34, 189-195 (2010). [doi:10.1016/j.calphad.2010.02.004](https://doi.org/10.1016/j.calphad.2010.02.004)
-2. Zhangting He, Qing Chen, Malin Selleby, Third Generation Calphad for Key Elements, J. Phase Equilib. Diffus. 45, 1163-1181 (2024). [doi:10.1007/s11669-024-01166-z](https://doi.org/10.1007/s11669-024-01166-z)
-3. A. Perron, P.E.A. Turchi, A. Landa, B. Oudot, B. Ravat, F. Delaunay, Thermodynamic assessments and inter-relationships between systems involving Al, Am, Ga, Pu, and U, Journal of Nuclear Materials 482, 187-200 (2016). [doi:10.1016/j.jnucmat.2016.09.012](https://doi.org/10.1016/j.jnucmat.2016.09.012)
+2. A. Perron, P.E.A. Turchi, A. Landa, B. Oudot, B. Ravat, F. Delaunay, Thermodynamic assessments and inter-relationships between systems involving Al, Am, Ga, Pu, and U, Journal of Nuclear Materials 482, 187-200 (2016). [doi:10.1016/j.jnucmat.2016.09.012](https://doi.org/10.1016/j.jnucmat.2016.09.012)
+3. Zhangting He, Qing Chen, Malin Selleby, Third Generation Calphad for Key Elements, J. Phase Equilib. Diffus. 45, 1163-1181 (2024). [doi:10.1007/s11669-024-01166-z](https://doi.org/10.1007/s11669-024-01166-z)
 4. Xi Li, Kaiming Cheng, Xiaoming Yuan, Dongdong Zhao, Jinghua Xin, Weiwei Wang et al., Thermodynamic assessment of the Ga–X (X=B, Ca, Sr, Ba) systems supported by first-principles calculations, Calphad 43, 52-60 (2013). [doi:10.1016/j.calphad.2013.09.002](https://doi.org/10.1016/j.calphad.2013.09.002)
 5. R. W. Olesinski, N. Kanani, G. J. Abbaschian, The Ga−Si (Gallium-Silicon) system, Bulletin of Alloy Phase Diagrams 6, 362-364 (1985). [doi:10.1007/bf02880523](https://doi.org/10.1007/bf02880523)
 6. T.J Anderson, I Ansara, The Ga-In (Gallium-Indium) System, JPE 12, 64-72 (1991). [doi:10.1007/bf02663677](https://doi.org/10.1007/bf02663677)

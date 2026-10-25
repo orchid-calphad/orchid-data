@@ -1,10 +1,10 @@
 # Ag–Hg system
 
-> Ag–Hg system: 6 accepted literature values (invariant reaction 5, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Hg system: 4 accepted literature values (invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-HG.html · Markdown: https://data.orchid-project.org/systems/AG-HG.md
 
-6 accepted literature values from 1 paper(s) (experimental 2, model 4); 1 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 1, model 3); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-HG.json) · [CSV](https://data.orchid-project.org/systems/AG-HG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-HG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-HG/AgHg-12Liu.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-HG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-HG.html) · [Markdown](https://data.orchid-project.org/systems/AG-HG.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 4 |
+| experimental | 1 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
-| phase transition | 1 |
+| invariant reaction | 4 |
 
 ## Calculated phase diagrams
 
@@ -46,25 +45,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Hg system (5)
+Table: Invariant reactions reported in the literature for the Ag–Hg system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 549 | fcc + liq ↔ Ag11Hg9 | Ag11Hg9: Hg 0.45 | experimental | [1] Liu 2012; _cites Murphy 1931_ | Table 2, p. 4, row 2; `ORC-LHYCJ2G24M` |  |
-| 549 | peritectic: fcc + liquid -> Ag11Hg9 |  | experimental | [1] Liu 2012; _cites Murphy 1931_ | p. 4; `ORC-T6KJLGLKYN` | “the peritectic reaction between fcc and liquid to form Ag11 Hg9 , the temperature of which was identified at 549.0 K by Murphy \[5\].” |
 | 548.23 | fcc + liq ↔ Ag11Hg9 | fcc: Hg 0.375; liq: Hg 0.9512; Ag11Hg9: Hg 0.45 | model | [1] Liu 2012 | Table 2, p. 4, row 1; `ORC-B5WRW54UZG` |  |
 | 399.22 | Ag11Hg9 + liq ↔ Ag11Hg15 | Ag11Hg9: Hg 0.9917; Ag11Hg15: Hg 0.576923 | model | [1] Liu 2012 | Table 2, p. 4, row 3; `ORC-WWUHWUCDF5` |  |
 | 234.29 | liq ↔ Ag11Hg15 + (Hg) | Ag11Hg15: Hg 0.576923; (Hg): Hg 0.999868 | model | [1] Liu 2012 | Table 2, p. 4, row 4; `ORC-PBWOAB2N6H` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ag–Hg system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 544.23 K | 544.23 | fcc + liquid -> Ag11Hg9 | model | [1] Liu 2012 | p. 4; `ORC-ET32T33BLQ` | “As noted, the calculated temperature for this invariant reaction, i.e. 544.23 K, is very close to the value proposed by Murphy \[5\].” |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # H–Ni system
 
-> H–Ni system: 29 accepted literature values (mixing / partial 18, invariant reaction 6, phase transition 3, formation 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Ni system: 28 accepted literature values (mixing / partial 18, invariant reaction 6, formation 2, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-NI.html · Markdown: https://data.orchid-project.org/systems/H-NI.md
 
-29 accepted literature values from 2 paper(s) (experimental 23, model 6); 0 calculated phase diagram(s).
+28 accepted literature values from 2 paper(s) (experimental 22, model 6); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-NI.json) · [CSV](https://data.orchid-project.org/systems/H-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-NI) · [phases (5)](https://data.orchid-project.org/phases/pages/H-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-NI.html) · [Markdown](https://data.orchid-project.org/systems/H-NI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 23 |
+| experimental | 22 |
 | model | 6 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 6 |
-| phase transition | 3 |
+| phase transition | 2 |
 | formation | 2 |
 | mixing / partial | 18 |
 
@@ -52,13 +52,12 @@ Table: Enthalpies of formation, H–Ni system (2)
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, H–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 633.15 K | 633.15 | magnetic | experimental | [1] Zeng 1999 | p. 3; `ORC-H32WJVWN5E` | “The more important result was that a discontinuity at the Curie temperature (3608C) was detected in the solubility curve at one atmosphere.” |
 | Phase transition | 1726.15 K | 1726.15 | other | model | [1] Zeng 1999 | p. 10; `ORC-77FHP5D7IU.9953a3` | “At 1 bar, the experimental value is 14558C \[21\], while the calculated is 14538C (see Fig. 1).” |
 | Phase transition | 1728.15 K | 1728.15 | other | experimental | [1] Zeng 1999; _cites Shapovalov 1979_ | p. 10; `ORC-77FHP5D7IU.c58d63` | “At 1 bar, the experimental value is 14558C \[21\], while the calculated is 14538C (see Fig. 1).” |
 

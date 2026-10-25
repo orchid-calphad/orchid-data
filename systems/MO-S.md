@@ -1,10 +1,10 @@
 # Mo–S system
 
-> Mo–S system: 60 accepted literature values (invariant reaction 56, phase transition 3, other property 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–S system: 57 accepted literature values (invariant reaction 56, other property 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-S.html · Markdown: https://data.orchid-project.org/systems/MO-S.md
 
-60 accepted literature values from 1 paper(s) (experimental 37, model 19, unspecified 4); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+57 accepted literature values from 1 paper(s) (experimental 35, model 18, unspecified 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-S.json) · [CSV](https://data.orchid-project.org/systems/MO-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-S/MoS-18Cui.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MO-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-S.html) · [Markdown](https://data.orchid-project.org/systems/MO-S.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
-| model | 19 |
+| experimental | 35 |
+| model | 18 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 56 |
-| phase transition | 3 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -99,14 +98,14 @@ Table: Invariant reactions reported in the literature for the Mo–S system (56)
 | 1853.15 | Boiling point of MoS2 | MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Vasilyeva 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.175) | Table 3, p. 5, row 10; `ORC-FTUQSLFABP` |  |
 | 1848.15 | Boiling point of MoS2 | MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Gibner 1998_ [doi](https://doi.org/10.1023/a:1010115620439) | Table 3, p. 5, row 9; `ORC-PXFQVXGXLY` |  |
 | 1838.15 | Boiling point of MoS2 | MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Isakova 1961_ | Table 3, p. 5, row 8; `ORC-HIOUCMECUM` |  |
-| 1833.15 | α\_Mo2S3 = β\_Mo2S3 | α\_Mo2S3: Mo 0.4, S 0.6; β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Moh 1974_ | Table 3, p. 5, row 54; `ORC-FQ5ZJX4GA5` |  |
-| 1833.15 | α\_Mo2S3 = β\_Mo2S3 | α\_Mo2S3: Mo 0.4, S 0.6; β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Moh 1978_ [doi](https://doi.org/10.1007/bfb0047028) | Table 3, p. 5, row 56; `ORC-MPCYTTAV2X` |  |
-| 1833.15 | α\_Mo2S3 = β\_Mo2S3 | α\_Mo2S3: Mo 0.4, S 0.6; β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Takeno 1977_ | Table 3, p. 5, row 55; `ORC-RK2Q3P3NWU` |  |
+| 1833.15 | polymorphic: α\_Mo2S3 = β\_Mo2S3 | α\_Mo2S3: Mo 0.4, S 0.6; β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Moh 1974_ | Table 3, p. 5, row 54; `ORC-FQ5ZJX4GA5` |  |
+| 1833.15 | polymorphic: α\_Mo2S3 = β\_Mo2S3 | α\_Mo2S3: Mo 0.4, S 0.6; β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Moh 1978_ [doi](https://doi.org/10.1007/bfb0047028) | Table 3, p. 5, row 56; `ORC-MPCYTTAV2X` |  |
+| 1833.15 | polymorphic: α\_Mo2S3 = β\_Mo2S3 | α\_Mo2S3: Mo 0.4, S 0.6; β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Takeno 1977_ | Table 3, p. 5, row 55; `ORC-RK2Q3P3NWU` |  |
 | 1823.15 | Liquid = bcc_A2 + β\_Mo2S3 | Liquid: S 0.42; β\_Mo2S3: Mo 0.4, S 0.6 | model | [1] Cui 2018; _cites Brewer 1980_ | Table 3, p. 5, row 31; `ORC-DHVGODWO6A` |  |
 | 1813.15 | Liquid = bcc_A2 + β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Eremenko 1970_ | Table 3, p. 5, row 30; `ORC-CDP5ZWLCPI` |  |
 | 1813.15 | Liquid = bcc_A2 + β\_Mo2S3 | β\_Mo2S3: Mo 0.4, S 0.6 | unspecified | [1] Cui 2018; _cites Starkov 1987_ | Table 3, p. 5, row 32; `ORC-Q4HMHS3YNT` |  |
 | 1733.15 | Liquid = bcc_A2 + β\_Mo2S3 | Liquid: S 0.48; β\_Mo2S3: Mo 0.4, S 0.6 | experimental | [1] Cui 2018; _cites Patterson 1987_ | Table 3, p. 5, row 27; `ORC-KN3DZMOJ4D` |  |
-| 1273.15 | 3R_MoS2 = 2H_MoS2 | 3R_MoS2: Mo 0.333333, S 0.666667; 2H_MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Johnson 1983_ [doi](https://doi.org/10.1016/0036-9748%2883%2990262-4) | Table 3, p. 5, row 53; `ORC-KTS7HJZMB3` |  |
+| 1273.15 | polymorphic: 3R_MoS2 = 2H_MoS2 | 3R_MoS2: Mo 0.333333, S 0.666667; 2H_MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Johnson 1983_ [doi](https://doi.org/10.1016/0036-9748%2883%2990262-4) | Table 3, p. 5, row 53; `ORC-KTS7HJZMB3` |  |
 | 937.15 | α\_Mo2S3 = bcc_A2 + MoS2 | α\_Mo2S3: Mo 0.4, S 0.6; MoS2: Mo 0.333333, S 0.666667 | model | [1] Cui 2018; _cites Brewer 1980_ | Table 3, p. 5, row 42; `ORC-CXEQW4ZC6C` |  |
 | 937.15 | α\_Mo2S3 = bcc_A2 + MoS2 | α\_Mo2S3: Mo 0.4, S 0.6; MoS2: Mo 0.333333, S 0.666667 | experimental | [1] Cui 2018; _cites Pouillard 1975_ | Table 3, p. 5, row 41; `ORC-ZQQAMNSUZL` |  |
 | 902.15 | α\_Mo2S3 = bcc_A2 + MoS2 | α\_Mo2S3: Mo 0.4, S 0.6; MoS2: Mo 0.333333, S 0.666667 | model | [1] Cui 2018; _cites Shang 2016_ [doi](https://doi.org/10.1021/acs.nanolett.6b02443) | Table 3, p. 5, row 45; `ORC-CRIO3TLLTI` |  |
@@ -121,16 +120,6 @@ Table: Invariant reactions reported in the literature for the Mo–S system (56)
 | 717.15 | S2 (g) = Liquid + MoS2 | MoS2: Mo 0.333333, S 0.666667 | unspecified | [1] Cui 2018; _cites Starkov 1987_ | Table 3, p. 5, row 50; `ORC-JTJFCEQPFM` |  |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Mo–S system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 368.3 K | 368.3 |  | experimental | [1] Cui 2018 | p. 9; `ORC-ZAYUIGSFOV` | “This is more reasonable than the prediction using Neumann-Kopp rule, since pure orthorhombic S is only stable below 95.15 °C.” |
-| Phase transition | 773.15 K | 773.15 | 3R_MoS2 = 2H_MoS2 | experimental | [1] Cui 2018; _cites Clark 1970_ | p. 6; `ORC-XP4YMCIWY7.2d3897` | “For instance, a transition temperature of about 500 °C \[91\] or about 1000 °C \[76\] was reported.” |
-| Phase transition | 1833.15 K | 1833.15 |  | model | [1] Cui 2018 | Table 3, p. 6, row 1; `ORC-QLDRH3XFYI` |  |
 
 ### Other property (1)
 

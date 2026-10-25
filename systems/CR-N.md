@@ -49,8 +49,8 @@ Table: Enthalpies of formation, Cr–N system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -58.6 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 6; `ORC-UEW4XK4I2V` |  |
-| CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -57.3 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991 | Table I, p. 6, row 8; `ORC-JPD7Y6YZHI` |  |
+| CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -58.6 kJ/mol-atom | 1173 | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 6; `ORC-UEW4XK4I2V` |  |
+| CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -57.3 kJ/mol-atom | 1173 | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991 | Table I, p. 6, row 8; `ORC-JPD7Y6YZHI` |  |
 | ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | -43.1 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991 | Table I, p. 6, row 7; `ORC-X5DNFQO4Z2` |  |
 | ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | 41.8 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 5; `ORC-E4DHBOCKS5` |  |
 

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Ni3SiTi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -59.2 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -59.2 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## Sources
 

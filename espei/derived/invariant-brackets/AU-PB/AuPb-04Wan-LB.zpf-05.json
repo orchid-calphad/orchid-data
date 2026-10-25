@@ -248,7 +248,7 @@
     "x0": 0.843,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> AuPb3 + fcc (Pb)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

@@ -1,10 +1,10 @@
 # Gd–Ni system
 
-> Gd–Ni system: 56 accepted literature values (invariant reaction 41, phase transition 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Ni system: 52 accepted literature values (invariant reaction 38, phase transition 14) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-NI.html · Markdown: https://data.orchid-project.org/systems/GD-NI.md
 
-56 accepted literature values from 2 paper(s) (experimental 41, model 12, unspecified 3); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+52 accepted literature values from 2 paper(s) (experimental 37, model 12, unspecified 3); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-NI.json) · [CSV](https://data.orchid-project.org/systems/GD-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-NI/GdNi-15Rah.json) · [phases (14)](https://data.orchid-project.org/phases/pages/GD-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-NI.html) · [Markdown](https://data.orchid-project.org/systems/GD-NI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 41 |
+| experimental | 37 |
 | model | 12 |
 | unspecified | 3 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 41 |
-| phase transition | 15 |
+| invariant reaction | 38 |
+| phase transition | 14 |
 
 ## Calculated phase diagrams
 
@@ -124,7 +124,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Gd–Ni system (41)
+Table: Invariant reactions reported in the literature for the Gd–Ni system (38)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -138,7 +138,6 @@ Table: Invariant reactions reported in the literature for the Gd–Ni system (41
 | 1557 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | Liquid: Ni 0.71; GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 30; `ORC-UA6235BN6W` |  |
 | 1556 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | Liquid: Ni 0.73; GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | model | [1] Rahou 2015 | Table 4, p. 4, row 29; `ORC-2WPLMVZRJE` |  |
 | 1553 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | Liquid: Ni 0.95; GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 42; `ORC-O5UPM2SOLK` |  |
-| 1548.15 | eutectic: L 4 Gd2Ni17 þ fcc-Ni |  | experimental | [1] Rahou 2015; _cites Pan 1986_ | p. 2; `ORC-4ZFKNCBPW7.bb2110` | “Three eutectic reactions occur: L 4 Gd3Ni þ Gd3Ni2 (635 C, ~2 at% Ni), L 4 GdNi2 þ GdNi2 (880 C ~ 56 at% Ni) and L 4 Gd2Ni17 þ fcc-Ni (1275 C, ~95 at% Ni).” |
 | 1548 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Liquid: Ni 0.95; Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 46; `ORC-PPKOHK4ZTJ` |  |
 | 1535.15 | Liquid + bcc (Gd) -> hcp (Gd) |  | model | [2] Huang 2007 | Table 2, p. 6, row 1; `ORC-CZVERIWFLH` |  |
 | 1521 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Liquid: Ni 0.96; Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 47; `ORC-Z2LVDHOKFQ` |  |
@@ -159,7 +158,6 @@ Table: Invariant reactions reported in the literature for the Gd–Ni system (41
 | 1172 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.56; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | model | [1] Rahou 2015 | Table 4, p. 4, row 14; `ORC-GLPPOUNMHS` |  |
 | 1172 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.56; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 15; `ORC-I2WARKCN7U` |  |
 | 1158 | eutectic: Liquid ↔ GdNi + GdNi2 | GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 16; `ORC-R3W5VSUHZV` |  |
-| 1153.15 | eutectic: L 4 GdNi2 þ GdNi2 |  | experimental | [1] Rahou 2015; _cites Pan 1986_ | p. 2; `ORC-4ZFKNCBPW7.2b4e7d` | “Three eutectic reactions occur: L 4 Gd3Ni þ Gd3Ni2 (635 C, ~2 at% Ni), L 4 GdNi2 þ GdNi2 (880 C ~ 56 at% Ni) and L 4 Gd2Ni17 þ fcc-Ni (1275 C, ~95 at% Ni).” |
 | 1153 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.56; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 17; `ORC-T5SICUQ4SO` |  |
 | 1039 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Liquid: Ni 0.3; Gd3Ni_HT: Ni 0.25 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 2; `ORC-D7TS6ZDU55` |  |
 | 1039 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Liquid: Ni 0.32; Gd3Ni_HT: Ni 0.25 | model | [1] Rahou 2015 | Table 4, p. 4, row 1; `ORC-DIBYQWTHOW` |  |
@@ -168,11 +166,10 @@ Table: Invariant reactions reported in the literature for the Gd–Ni system (41
 | 986 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Gd3Ni_HT: Ni 0.25 | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 3; `ORC-WXYGC3VF4Q` |  |
 | 977 | eutectic: Liquid ↔ Gd3Ni_HT + GdNi | Liquid: Ni 0.36; Gd3Ni_HT: Ni 0.25; GdNi: Ni 0.5 | model | [1] Rahou 2015 | Table 4, p. 4, row 8; `ORC-SX6WB2N5G7` |  |
 | 977 | eutectic: Liquid ↔ Gd3Ni_HT + GdNi | Liquid: Ni 0.33; Gd3Ni_HT: Ni 0.25; GdNi: Ni 0.5 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 9; `ORC-YROE6QYJCV` |  |
-| 908.15 | eutectic: L 4 Gd3Ni þ Gd3Ni2 |  | experimental | [1] Rahou 2015; _cites Pan 1986_ | p. 2; `ORC-4ZFKNCBPW7.44fe9c` | “Three eutectic reactions occur: L 4 Gd3Ni þ Gd3Ni2 (635 C, ~2 at% Ni), L 4 GdNi2 þ GdNi2 (880 C ~ 56 at% Ni) and L 4 Gd2Ni17 þ fcc-Ni (1275 C, ~95 at% Ni).” |
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (14)
 
 Table: Phase transition, Gd–Ni system
 
@@ -182,7 +179,6 @@ Table: Phase transition, Gd–Ni system
 | Phase transition | 69 K | 69 | magnetic: GdNi; _alloy: Ni 0.5_ | unspecified | [1] Rahou 2015; _cites Kumar 2008_ | Table 1, p. 2, row 2; `ORC-IDOU2VEWP7` |  |
 | Phase transition | 80 K | 80 | magnetic: GdNi2; _alloy: Ni 0.666667_ | unspecified | [1] Rahou 2015; _cites Gratz 2015_ | Table 1, p. 2, row 3; `ORC-IRFWSN4MLN` |  |
 | Phase transition | 114 K | 114 | magnetic: GdNi3; _alloy: Ni 0.75_ | experimental | [1] Rahou 2015; _cites Kwiecien 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.12.032) | Table 1, p. 2, row 4; `ORC-H2LHPTD73J` |  |
-| Phase transition | 911 K | 911 | polymorphic | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | p. 2; `ORC-3UXHSRGPQG` | “In the work by Xu et al. \[32\], the DSC curve for the Gd20 at% Ni sample exhibits a small pic at 911 K attributed by these authors to an allotropic transformation of Gd3Ni.” |
 | Phase transition | 911 K | 911 | polymorphic: Gd3Ni_LT ↔ Gd3Ni_HT; _Gd3Ni_LT: Ni 0.25; Gd3Ni_HT: Ni 0.25_ | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 7; `ORC-QSKBCFMSQP` |  |
 | Phase transition | 911 K | 911 | polymorphic: Gd3Ni_LT ↔ Gd3Ni_HT; _Gd3Ni_LT: Ni 0.25; Gd3Ni_HT: Ni 0.25_ | model | [1] Rahou 2015 | Table 4, p. 4, row 6; `ORC-Y544GNMOOE` |  |
 | Phase transition | 1238 K | 1238 | congruent melting: Liquid ↔ GdNi; _Liquid: Ni 0.5; GdNi: Ni 0.5_ | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 11; `ORC-KKDULNCJRT` |  |

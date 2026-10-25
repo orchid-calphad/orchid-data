@@ -1,10 +1,10 @@
 # Al–Mo system
 
-> Al–Mo system: 237 accepted literature values (invariant reaction 117, crystal structure 36, phase equilibrium 29, formation 29) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mo system: 203 accepted literature values (invariant reaction 94, crystal structure 36, phase equilibrium 29, formation 29) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MO.html · Markdown: https://data.orchid-project.org/systems/AL-MO.md
 
-237 accepted literature values from 6 paper(s) (experimental 100, model 72, unspecified 65); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+203 accepted literature values from 5 paper(s) (experimental 76, model 62, unspecified 65); 6 calculated phase diagram(s). 35 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MO.json) · [CSV](https://data.orchid-project.org/systems/AL-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MO/AlMo-09Du.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AL-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MO.html) · [Markdown](https://data.orchid-project.org/systems/AL-MO.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 100 |
-| model | 72 |
+| experimental | 76 |
+| model | 62 |
 | unspecified | 65 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 117 |
-| phase transition | 18 |
+| invariant reaction | 94 |
+| phase transition | 7 |
 | phase equilibrium | 29 |
 | formation | 29 |
 | mixing / partial | 8 |
@@ -194,127 +194,104 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Mo system (117)
+Table: Invariant reactions reported in the literature for the Al–Mo system (94)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2896.15 | congruent melting: Mo \<-> L | Mo: Mo 1 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 13; `ORC-TMWO3RWT5X` |  |
 | 2423.15 | peritectic: L + (Mo) \<-> AlMo3 | L: Mo 0.65; (Mo): Mo 0.795; AlMo3: Mo 0.75 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 12; `ORC-EEGMWMZITS` |  |
-| 2423 | peritectic |  | experimental | [2] Cupid 2010; _cites Ham 1951_ | p. 2; `ORC-GZSHGA6YYJ` | “Ham and Herzig \[37\] estimated the peritectic formation of the d-AlMo3 phase at z2423 K.” |
-| 2423 | liq. + bcc(Mo) -> AlMo3 | bcc(Mo): Mo 0.81; AlMo3: Mo 0.755 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 2; `ORC-HATKYHLV7P` |  |
-| 2423 | liq. + bcc(Mo) -> AlMo3 | L: Mo 0.7155; bcc(Mo): Mo 0.7767; AlMo3: Mo 0.752 | model | [3] Du 2009 | Table 2, p. 7, row 1; `ORC-L2VOEPDVK6` |  |
-| 2423 | Liquid + β -> δ-AlMo3 | Liquid: Al 0.3; β: Al 0.195; δ-AlMo3: Al 0.25 | unspecified | [2] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 1; `ORC-MDBPKSJ3TT` |  |
-| 2423 | Liquid + β -> δ-AlMo3 | Liquid: Al 0.255; β: Al 0.211; δ-AlMo3: Al 0.245 | model | [2] Cupid 2010 | Table 2, p. 6, row 3; `ORC-MH5J4J4AII` |  |
-| 2423 | Liquid + β -> δ-AlMo3 | δ-AlMo3: Al 0.25, Mo 0.75 | experimental | [2] Cupid 2010; _cites Ham 1951_ | Table 2, p. 6, row 2; `ORC-YFFFSQ42EQ` |  |
-| 2023 | Liquid -> AlMo | Liquid: Al 0.5; AlMo: Al 0.5 | unspecified | [2] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 4; `ORC-OIOA3PT3GM` |  |
-| 2023 | Liquid -> AlMo | Liquid: Al 0.484; AlMo: Al 0.484 | model | [2] Cupid 2010 | Table 2, p. 6, row 5; `ORC-Z57I75NBHJ` |  |
+| 2423 | liq. + bcc(Mo) -> AlMo3 | bcc(Mo): Mo 0.81; AlMo3: Mo 0.755 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 2; `ORC-HATKYHLV7P` |  |
+| 2423 | liq. + bcc(Mo) -> AlMo3 | L: Mo 0.7155; bcc(Mo): Mo 0.7767; AlMo3: Mo 0.752 | model | [2] Du 2009 | Table 2, p. 7, row 1; `ORC-L2VOEPDVK6` |  |
+| 2423 | Liquid + β -> δ-AlMo3 | Liquid: Al 0.3; β: Al 0.195; δ-AlMo3: Al 0.25 | unspecified | [3] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 1; `ORC-MDBPKSJ3TT` |  |
+| 2423 | Liquid + β -> δ-AlMo3 | Liquid: Al 0.255; β: Al 0.211; δ-AlMo3: Al 0.245 | model | [3] Cupid 2010 | Table 2, p. 6, row 3; `ORC-MH5J4J4AII` |  |
+| 2423 | Liquid + β -> δ-AlMo3 | δ-AlMo3: Al 0.25, Mo 0.75 | experimental | [3] Cupid 2010; _cites Ham 1951_ | Table 2, p. 6, row 2; `ORC-YFFFSQ42EQ` |  |
+| 2023 | congruent melting: Liquid -> AlMo | Liquid: Al 0.5; AlMo: Al 0.5 | unspecified | [3] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 4; `ORC-OIOA3PT3GM` |  |
+| 2023 | congruent melting: Liquid -> AlMo | Liquid: Al 0.484; AlMo: Al 0.484 | model | [3] Cupid 2010 | Table 2, p. 6, row 5; `ORC-Z57I75NBHJ` |  |
 | 1993.15 | peritectic: L + AlMo3 \<-> AlMo | L: Mo 0.45; AlMo3: Mo 0.73; AlMo: Mo 0.54 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 11; `ORC-XK222FP4IA` |  |
-| 1993 | eutectic: liquid / AlMo + d-AlMo3 |  | model | [2] Cupid 2010 | p. 11; `ORC-2KRMXFM6BV` | “The new AleMo description models the Mo-rich b phase and the AlMo phase as a single phase, reproduces the congruent melting of the AlMo phase, and calculates an eutectic reaction between the liquid, AlMo, and d-AlMo3 phases at 1993 K.” |
-| 1993 | Liquid -> δ-AlMo3 + AlMo | Liquid: Al 0.437; δ-AlMo3: Al 0.292; AlMo: Al 0.456 | model | [2] Cupid 2010 | Table 2, p. 6, row 8; `ORC-5TD63XPCXU` |  |
-| 1993 | liq. + AlMo3 -> AlMo | L: Mo 0.4378; AlMo3: Mo 0.7315; AlMo: Mo 0.5523 | model | [3] Du 2009 | Table 2, p. 7, row 3; `ORC-CEIYUT43N6` |  |
-| 1993 | Liquid -> δ-AlMo3 + AlMo | δ-AlMo3: Al 0.25, Mo 0.75; AlMo: Al 0.5, Mo 0.5 | experimental | [2] Cupid 2010; _cites Rexer 1971_ | Table 2, p. 6, row 7; `ORC-ONG5OVQRRL` |  |
-| 1993 | liq. + AlMo3 -> AlMo | L: Mo 0.45; AlMo3: Mo 0.74; AlMo: Mo 0.54 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 4; `ORC-OO3PJOFRE7` |  |
-| 1993 | Liquid -> δ-AlMo3 + AlMo | Liquid: Al 0.37; δ-AlMo3: Al 0.285; AlMo: Al 0.46 | unspecified | [2] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 6; `ORC-UZRAGDAEBV` |  |
-| 1993 | eutectic |  | experimental | [2] Cupid 2010; _cites Rexer 1971_ | p. 2; `ORC-ZJTOQ26LNR.5d3be1` | “He found the congruent melting of AlMo, its eutectoid decomposition at 1733 K to Al8Mo3 and d-AlMo3, the eutectic reaction between liquid, AlMo, and d-AlMo3 phases at z 1993 K, the peritectic formation and eutectoid decomposition of the Al63Mo37 phase at 1843 K and 1763 K respectively, and the eutectic reaction between the liquid, Al8Mo3, and Al63Mo37 phases.” |
-| 1891 | eutectic |  | model | [4] Peng 2016; _cites Zhou 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.03.002) | p. 9; `ORC-IYIYNRPKQY` | “description of Zhou et al. \[17\] indicates the eutectic composition and temperature are 8.4 at.% Mo and 1891 K, which shows a significant deviation from the experimental data \[10,11,14\].” |
-| 1875 | eutectic |  | model | [4] Peng 2016 | p. 9; `ORC-7AOFVJSFWM` | “Our description indicates eutectic composition and temperature are 9.9 at.% Mo and 1875 K, which agrees well with the experimental data.” |
+| 1993 | eutectic: Liquid -> δ-AlMo3 + AlMo | Liquid: Al 0.437; δ-AlMo3: Al 0.292; AlMo: Al 0.456 | model | [3] Cupid 2010 | Table 2, p. 6, row 8; `ORC-5TD63XPCXU` |  |
+| 1993 | liq. + AlMo3 -> AlMo | L: Mo 0.4378; AlMo3: Mo 0.7315; AlMo: Mo 0.5523 | model | [2] Du 2009 | Table 2, p. 7, row 3; `ORC-CEIYUT43N6` |  |
+| 1993 | eutectic: Liquid -> δ-AlMo3 + AlMo | δ-AlMo3: Al 0.25, Mo 0.75; AlMo: Al 0.5, Mo 0.5 | experimental | [3] Cupid 2010; _cites Rexer 1971_ | Table 2, p. 6, row 7; `ORC-ONG5OVQRRL` |  |
+| 1993 | liq. + AlMo3 -> AlMo | L: Mo 0.45; AlMo3: Mo 0.74; AlMo: Mo 0.54 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 4; `ORC-OO3PJOFRE7` |  |
+| 1993 | eutectic: Liquid -> δ-AlMo3 + AlMo | Liquid: Al 0.37; δ-AlMo3: Al 0.285; AlMo: Al 0.46 | unspecified | [3] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 6; `ORC-UZRAGDAEBV` |  |
 | 1850.15 | congruent melting: L \<-> Al8Mo3 | L: Mo 0.273; Al8Mo3: Mo 0.273 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 9; `ORC-2HH557BSSV` |  |
 | 1843.15 | peritectic: L + AlMo \<-> Al63Mo37 | L: Mo 0.35; AlMo: Mo 0.48; Al63Mo37: Mo 0.37 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 10; `ORC-QJBWH34JEL` |  |
-| 1843 | Liquid + AlMo -> Al63Mo37 | Liquid: Al 0.66; AlMo: Al 0.52; Al63Mo37: Al 0.63 | unspecified | [2] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 9; `ORC-DNFTPXDVSW` |  |
-| 1843 | Liquid + AlMo -> Al63Mo37 | Liquid: Al 0.631; AlMo: Al 0.553; Al63Mo37: Al 0.63 | model | [2] Cupid 2010 | Table 2, p. 6, row 11; `ORC-LI6QSBNWRA` |  |
-| 1843 | liq. + AlMo -> Al63Mo37 | L: Mo 0.3546; AlMo: Mo 0.4802; Al63Mo37: Al 0.63, Mo 0.37 | model | [3] Du 2009 | Table 2, p. 7, row 5; `ORC-LM5GWITZVJ` |  |
-| 1843 | liq. + AlMo -> Al63Mo37 | L: Mo 0.35; AlMo: Mo 0.475; Al63Mo37: Al 0.63, Mo 0.37 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 6; `ORC-MJCPTP2HDG` |  |
-| 1843 | Liquid + AlMo -> Al63Mo37 | AlMo: Al 0.5, Mo 0.5; Al63Mo37: Al 0.63, Mo 0.37 | experimental | [2] Cupid 2010; _cites Rexer 1971_ | Table 2, p. 6, row 10; `ORC-UKLQTNEFEW` |  |
-| 1843 | peritectic |  | experimental | [2] Cupid 2010; _cites Rexer 1971_ | p. 2; `ORC-ZJTOQ26LNR.ef531d` | “He found the congruent melting of AlMo, its eutectoid decomposition at 1733 K to Al8Mo3 and d-AlMo3, the eutectic reaction between liquid, AlMo, and d-AlMo3 phases at z 1993 K, the peritectic formation and eutectoid decomposition of the Al63Mo37 phase at 1843 K and 1763 K respectively, and the eutectic reaction between the liquid, Al8Mo3, and Al63Mo37 phases.” |
-| 1828 | Liquid -> Al8Mo3 | Liquid: Al 0.727; Al8Mo3: Al 0.727 | unspecified | [2] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 12; `ORC-OQBYI4WXFI` |  |
-| 1821 | Liquid -> Al8Mo3 | Liquid: Al 0.727; Al8Mo3: Al 0.727 | model | [2] Cupid 2010 | Table 2, p. 6, row 14; `ORC-EFIZPZSYCM` |  |
-| 1819 | Liquid -> Al63Mo37 + Al8Mo3 | Liquid: Al 0.696; Al63Mo37: Al 0.63; Al8Mo3: Al 0.727 | model | [2] Cupid 2010 | Table 2, p. 6, row 17; `ORC-4XRFMMMULS` |  |
-| 1819 | liq. -> Al8Mo3 | L: Al 0.727273, Mo 0.272727; Al8Mo3: Al 0.727273, Mo 0.272727 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 14; `ORC-6WETZ4LDME` |  |
-| 1819 | Liquid -> Al8Mo3 | Liquid: Al 0.727273, Mo 0.272727; Al8Mo3: Al 0.727273, Mo 0.272727 | unspecified | [2] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 6, row 13; `ORC-OC3KJZEJNF` |  |
-| 1819 | liq. -> Al8Mo3 | L: Al 0.727273, Mo 0.272727; Al8Mo3: Al 0.727273, Mo 0.272727 | model | [3] Du 2009 | Table 2, p. 7, row 13; `ORC-PKXSXHBWGZ` |  |
-| 1814 | liq. -> Al8Mo3 + Al63Mo37 | L: Mo 0.3083; Al8Mo3: Al 0.727273, Mo 0.272727; Al63Mo37: Al 0.63, Mo 0.37 | model | [3] Du 2009 | Table 2, p. 7, row 7; `ORC-LPFGEDFC3G` |  |
+| 1843 | Liquid + AlMo -> Al63Mo37 | Liquid: Al 0.66; AlMo: Al 0.52; Al63Mo37: Al 0.63 | unspecified | [3] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 9; `ORC-DNFTPXDVSW` |  |
+| 1843 | Liquid + AlMo -> Al63Mo37 | Liquid: Al 0.631; AlMo: Al 0.553; Al63Mo37: Al 0.63 | model | [3] Cupid 2010 | Table 2, p. 6, row 11; `ORC-LI6QSBNWRA` |  |
+| 1843 | liq. + AlMo -> Al63Mo37 | L: Mo 0.3546; AlMo: Mo 0.4802; Al63Mo37: Al 0.63, Mo 0.37 | model | [2] Du 2009 | Table 2, p. 7, row 5; `ORC-LM5GWITZVJ` |  |
+| 1843 | liq. + AlMo -> Al63Mo37 | L: Mo 0.35; AlMo: Mo 0.475; Al63Mo37: Al 0.63, Mo 0.37 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 6; `ORC-MJCPTP2HDG` |  |
+| 1843 | Liquid + AlMo -> Al63Mo37 | AlMo: Al 0.5, Mo 0.5; Al63Mo37: Al 0.63, Mo 0.37 | experimental | [3] Cupid 2010; _cites Rexer 1971_ | Table 2, p. 6, row 10; `ORC-UKLQTNEFEW` |  |
+| 1828 | congruent melting: Liquid -> Al8Mo3 | Liquid: Al 0.727; Al8Mo3: Al 0.727 | unspecified | [3] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 12; `ORC-OQBYI4WXFI` |  |
+| 1821 | congruent melting: Liquid -> Al8Mo3 | Liquid: Al 0.727; Al8Mo3: Al 0.727 | model | [3] Cupid 2010 | Table 2, p. 6, row 14; `ORC-EFIZPZSYCM` |  |
+| 1819 | eutectic: Liquid -> Al63Mo37 + Al8Mo3 | Liquid: Al 0.696; Al63Mo37: Al 0.63; Al8Mo3: Al 0.727 | model | [3] Cupid 2010 | Table 2, p. 6, row 17; `ORC-4XRFMMMULS` |  |
+| 1819 | congruent melting: liq. -> Al8Mo3 | L: Al 0.727273, Mo 0.272727; Al8Mo3: Al 0.727273, Mo 0.272727 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 14; `ORC-6WETZ4LDME` |  |
+| 1819 | congruent melting: Liquid -> Al8Mo3 | Liquid: Al 0.727273, Mo 0.272727; Al8Mo3: Al 0.727273, Mo 0.272727 | unspecified | [3] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 6, row 13; `ORC-OC3KJZEJNF` |  |
+| 1819 | congruent melting: liq. -> Al8Mo3 | L: Al 0.727273, Mo 0.272727; Al8Mo3: Al 0.727273, Mo 0.272727 | model | [2] Du 2009 | Table 2, p. 7, row 13; `ORC-PKXSXHBWGZ` |  |
+| 1814 | eutectic: liq. -> Al8Mo3 + Al63Mo37 | L: Mo 0.3083; Al8Mo3: Al 0.727273, Mo 0.272727; Al63Mo37: Al 0.63, Mo 0.37 | model | [2] Du 2009 | Table 2, p. 7, row 7; `ORC-LPFGEDFC3G` |  |
 | 1808.15 | eutectic: L \<-> Al8Mo3 + Al63Mo37 | L: Mo 0.285; Al8Mo3: Mo 0.278; Al63Mo37: Mo 0.37 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 8; `ORC-SC7VI3B4K6` |  |
-| 1808 | Liquid -> Al63Mo37 + Al8Mo3 | Liquid: Al 0.715; Al63Mo37: Al 0.63; Al8Mo3: Al 0.727 | unspecified | [2] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 15; `ORC-6O2UNF2ONY` |  |
-| 1808 | liq. -> Al8Mo3 + Al63Mo37 | L: Mo 0.32; Al8Mo3: Al 0.727273, Mo 0.272727; Al63Mo37: Al 0.63, Mo 0.37 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 8; `ORC-7UT5UWTBTD` |  |
-| 1808 | Liquid -> Al63Mo37 + Al8Mo3 | Al63Mo37: Al 0.63, Mo 0.37; Al8Mo3: Al 0.727273, Mo 0.272727 | experimental | [2] Cupid 2010; _cites Rexer 1971_ | Table 2, p. 6, row 16; `ORC-VGJK25FWKY` |  |
+| 1808 | eutectic: Liquid -> Al63Mo37 + Al8Mo3 | Liquid: Al 0.715; Al63Mo37: Al 0.63; Al8Mo3: Al 0.727 | unspecified | [3] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 15; `ORC-6O2UNF2ONY` |  |
+| 1808 | eutectic: liq. -> Al8Mo3 + Al63Mo37 | L: Mo 0.32; Al8Mo3: Al 0.727273, Mo 0.272727; Al63Mo37: Al 0.63, Mo 0.37 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 8; `ORC-7UT5UWTBTD` |  |
+| 1808 | eutectic: Liquid -> Al63Mo37 + Al8Mo3 | Al63Mo37: Al 0.63, Mo 0.37; Al8Mo3: Al 0.727273, Mo 0.272727 | experimental | [3] Cupid 2010; _cites Rexer 1971_ | Table 2, p. 6, row 16; `ORC-VGJK25FWKY` |  |
 | 1763.15 | eutectoid: Al63Mo37 \<-> Al8Mo3 + AlMo | Al63Mo37: Mo 0.37; Al8Mo3: Mo 0.286; AlMo: Mo 0.495 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 7; `ORC-NZILDOLYCE` |  |
-| 1763 | Al63Mo37 -> Al8Mo3 + AlMo | Al63Mo37: Al 0.63, Mo 0.37; Al8Mo3: Al 0.727273, Mo 0.272727; AlMo: Mo 0.4818 | model | [3] Du 2009 | Table 2, p. 7, row 9; `ORC-6WJHXJ67TX` |  |
-| 1763 | Al63Mo37 -> AlMo + Al8Mo3 | Al63Mo37: Al 0.63, Mo 0.37; AlMo: Al 0.5, Mo 0.5; Al8Mo3: Al 0.727273, Mo 0.272727 | experimental | [2] Cupid 2010; _cites Rexer 1971_ | Table 2, p. 6, row 19; `ORC-EBGO3EI5UM` |  |
-| 1763 | Al63Mo37 -> AlMo + Al8Mo3 | Al63Mo37: Al 0.63; AlMo: Al 0.52; Al8Mo3: Al 0.727 | model | [2] Cupid 2010 | Table 2, p. 6, row 20; `ORC-LII7XD5A6E` |  |
-| 1763 | Al63Mo37 -> AlMo + Al8Mo3 | Al63Mo37: Al 0.63; AlMo: Al 0.505; Al8Mo3: Al 0.727 | unspecified | [2] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 18; `ORC-ULCBDIHZOX` |  |
-| 1763 | Al63Mo37 -> Al8Mo3 + AlMo | Al63Mo37: Al 0.63, Mo 0.37; Al8Mo3: Al 0.727273, Mo 0.272727; AlMo: Mo 0.49 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 10; `ORC-VCFQLYAA2H` |  |
-| 1763 | eutectoid |  | experimental | [2] Cupid 2010; _cites Rexer 1971_ | p. 2; `ORC-ZJTOQ26LNR.f0832f` | “He found the congruent melting of AlMo, its eutectoid decomposition at 1733 K to Al8Mo3 and d-AlMo3, the eutectic reaction between liquid, AlMo, and d-AlMo3 phases at z 1993 K, the peritectic formation and eutectoid decomposition of the Al63Mo37 phase at 1843 K and 1763 K respectively, and the eutectic reaction between the liquid, Al8Mo3, and Al63Mo37 phases.” |
+| 1763 | Al63Mo37 -> Al8Mo3 + AlMo | Al63Mo37: Al 0.63, Mo 0.37; Al8Mo3: Al 0.727273, Mo 0.272727; AlMo: Mo 0.4818 | model | [2] Du 2009 | Table 2, p. 7, row 9; `ORC-6WJHXJ67TX` |  |
+| 1763 | Al63Mo37 -> AlMo + Al8Mo3 | Al63Mo37: Al 0.63, Mo 0.37; AlMo: Al 0.5, Mo 0.5; Al8Mo3: Al 0.727273, Mo 0.272727 | experimental | [3] Cupid 2010; _cites Rexer 1971_ | Table 2, p. 6, row 19; `ORC-EBGO3EI5UM` |  |
+| 1763 | Al63Mo37 -> AlMo + Al8Mo3 | Al63Mo37: Al 0.63; AlMo: Al 0.52; Al8Mo3: Al 0.727 | model | [3] Cupid 2010 | Table 2, p. 6, row 20; `ORC-LII7XD5A6E` |  |
+| 1763 | Al63Mo37 -> AlMo + Al8Mo3 | Al63Mo37: Al 0.63; AlMo: Al 0.505; Al8Mo3: Al 0.727 | unspecified | [3] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 18; `ORC-ULCBDIHZOX` |  |
+| 1763 | Al63Mo37 -> Al8Mo3 + AlMo | Al63Mo37: Al 0.63, Mo 0.37; Al8Mo3: Al 0.727273, Mo 0.272727; AlMo: Mo 0.49 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 10; `ORC-VCFQLYAA2H` |  |
 | 1743.15 | eutectoid: AlMo \<-> Al8Mo3 + AlMo3 | AlMo: Mo 0.5; Al8Mo3: Mo 0.287; AlMo3: Mo 0.725 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 6; `ORC-ZFMKYMNMM2` |  |
-| 1743 | AlMo -> δ-AlMo3 + Al8Mo3 | AlMo: Al 0.5; δ-AlMo3: Al 0.27; Al8Mo3: Al 0.727 | unspecified | [2] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 21; `ORC-65WXPPDOY6` |  |
-| 1743 | AlMo -> Al8Mo3 + AlMo3 | AlMo: Mo 0.5; Al8Mo3: Al 0.727273, Mo 0.272727; AlMo3: Mo 0.74 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 12; `ORC-FCSX2GDIF5` |  |
-| 1743 | AlMo -> δ-AlMo3 + Al8Mo3 | AlMo: Al 0.5, Mo 0.5; δ-AlMo3: Al 0.25, Mo 0.75; Al8Mo3: Al 0.727273, Mo 0.272727 | experimental | [2] Cupid 2010; _cites Rexer 1971_ | Table 2, p. 6, row 22; `ORC-J6FVTSOC57` |  |
-| 1743 | AlMo -> δ-AlMo3 + Al8Mo3 | AlMo: Al 0.505; δ-AlMo3: Al 0.291; Al8Mo3: Al 0.727 | model | [2] Cupid 2010 | Table 2, p. 6, row 23; `ORC-MG4EN7LCLJ` |  |
-| 1743 | AlMo -> Al8Mo3 + AlMo3 | AlMo: Mo 0.4914; Al8Mo3: Al 0.727273, Mo 0.272727; AlMo3: Mo 0.7331 | model | [3] Du 2009 | Table 2, p. 7, row 11; `ORC-QYJH2C5CMP` |  |
-| 1733 | eutectoid: AlMo -> Al8Mo3 + d-AlMo3 |  | experimental | [2] Cupid 2010; _cites Rexer 1971_ | p. 2; `ORC-ZJTOQ26LNR.6ac77b` | “He found the congruent melting of AlMo, its eutectoid decomposition at 1733 K to Al8Mo3 and d-AlMo3, the eutectic reaction between liquid, AlMo, and d-AlMo3 phases at z 1993 K, the peritectic formation and eutectoid decomposition of the Al63Mo37 phase at 1843 K and 1763 K respectively, and the eutectic reaction between the liquid, Al8Mo3, and Al63Mo37 phases.” |
-| 1573 | eutectic: Liquid -> fcc + B2 + bcc |  | experimental | [4] Peng 2016; _cites Pearson 1977_ | p. 4; `ORC-LG6N4M6T5O` | “Pearson and Lemkey \[43\] reported the ternary eutectic reaction E: Liquid 4 fcc þ B2 þ bcc occurring at 1573 K.” |
-| 1523 | peritectoid |  | model | [2] Cupid 2010; _cites Tretyachenko 2005_ | p. 4; `ORC-MHQUU5JPGV` | “The s phase forms through a peritectoid reaction at z1523 K \[60\].” |
-| 1495 | peritectic |  | model | [2] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | p. 5; `ORC-EBX6MO5ELN.e14c59` | “The values of the a and b parameters for Al3Mo were chosen to reproduce the peritectic formation of Al3Mo from Al8Mo3 and liquid at 1495 K and the eutectoid decomposition of Al3Mo to Al8Mo3 and the higher Al-containing liquid at 1063 K \[43\].” |
-| 1495 | liq. -> Al8Mo3 + Al3Mo | L: Mo 0.0582; Al8Mo3: Al 0.727273, Mo 0.272727; Al3Mo: Al 0.75, Mo 0.25 | model | [3] Du 2009 | Table 2, p. 7, row 15; `ORC-HPTIQ2LLEY` |  |
-| 1495 | Liquid + Al8Mo3 -> Al3Mo | Al8Mo3: Al 0.727273, Mo 0.272727; Al3Mo: Al 0.75, Mo 0.25 | unspecified | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | Table 2, p. 6, row 24; `ORC-PVH4XY5DT6` |  |
-| 1495 | peritectic |  | experimental | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | p. 3; `ORC-S3Q5KX25MR.83276a` | “The Al3Mo phase was confirmed by Schuster and Ipser \[41\] and is shown to form peritectically at 1495 K and undergoes eutectoid decomposition at 1091 K.” |
-| 1495 | liq. -> Al8Mo3 + Al3Mo | L: Mo 0.055; Al8Mo3: Al 0.727273, Mo 0.272727; Al3Mo: Al 0.75, Mo 0.25 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 16; `ORC-YZFXHWMMAJ` |  |
-| 1495 | Liquid + Al8Mo3 -> Al3Mo | Liquid: Al 0.953; Al8Mo3: Al 0.727273, Mo 0.272727; Al3Mo: Al 0.75, Mo 0.25 | model | [2] Cupid 2010 | Table 2, p. 6, row 25; `ORC-Z3NJU4LRUE` |  |
-| 1425 | liq. + Al3Mo -> Al4Mo | Al3Mo: Mo 0.0227; Al4Mo: Al 0.8, Mo 0.2 | model | [3] Du 2009 | Table 2, p. 7, row 17; `ORC-2NYZ2BDEXB` |  |
-| 1425 | Liquid + Al3Mo -> Al4Mo | Al3Mo: Al 0.75, Mo 0.25; Al4Mo: Al 0.8, Mo 0.2 | unspecified | [2] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 6, row 26; `ORC-CICYCSEDNJ` |  |
-| 1425 | Liquid + Al3Mo -> Al4Mo | Liquid: Al 0.967; Al3Mo: Al 0.75, Mo 0.25; Al4Mo: Al 0.8, Mo 0.2 | model | [2] Cupid 2010 | Table 2, p. 6, row 27; `ORC-MK7TF4PSDT` |  |
-| 1425 | liq. + Al3Mo -> Al4Mo | Al3Mo: Mo 0.035; Al4Mo: Al 0.8, Mo 0.2 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 18; `ORC-ULLOJ34JU4` |  |
+| 1743 | AlMo -> δ-AlMo3 + Al8Mo3 | AlMo: Al 0.5; δ-AlMo3: Al 0.27; Al8Mo3: Al 0.727 | unspecified | [3] Cupid 2010; _cites Schuster 2003_ | Table 2, p. 6, row 21; `ORC-65WXPPDOY6` |  |
+| 1743 | AlMo -> Al8Mo3 + AlMo3 | AlMo: Mo 0.5; Al8Mo3: Al 0.727273, Mo 0.272727; AlMo3: Mo 0.74 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 12; `ORC-FCSX2GDIF5` |  |
+| 1743 | AlMo -> δ-AlMo3 + Al8Mo3 | AlMo: Al 0.5, Mo 0.5; δ-AlMo3: Al 0.25, Mo 0.75; Al8Mo3: Al 0.727273, Mo 0.272727 | experimental | [3] Cupid 2010; _cites Rexer 1971_ | Table 2, p. 6, row 22; `ORC-J6FVTSOC57` |  |
+| 1743 | AlMo -> δ-AlMo3 + Al8Mo3 | AlMo: Al 0.505; δ-AlMo3: Al 0.291; Al8Mo3: Al 0.727 | model | [3] Cupid 2010 | Table 2, p. 6, row 23; `ORC-MG4EN7LCLJ` |  |
+| 1743 | AlMo -> Al8Mo3 + AlMo3 | AlMo: Mo 0.4914; Al8Mo3: Al 0.727273, Mo 0.272727; AlMo3: Mo 0.7331 | model | [2] Du 2009 | Table 2, p. 7, row 11; `ORC-QYJH2C5CMP` |  |
+| 1495 | eutectic: liq. -> Al8Mo3 + Al3Mo | L: Mo 0.0582; Al8Mo3: Al 0.727273, Mo 0.272727; Al3Mo: Al 0.75, Mo 0.25 | model | [2] Du 2009 | Table 2, p. 7, row 15; `ORC-HPTIQ2LLEY` |  |
+| 1495 | Liquid + Al8Mo3 -> Al3Mo | Al8Mo3: Al 0.727273, Mo 0.272727; Al3Mo: Al 0.75, Mo 0.25 | unspecified | [3] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | Table 2, p. 6, row 24; `ORC-PVH4XY5DT6` |  |
+| 1495 | eutectic: liq. -> Al8Mo3 + Al3Mo | L: Mo 0.055; Al8Mo3: Al 0.727273, Mo 0.272727; Al3Mo: Al 0.75, Mo 0.25 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 16; `ORC-YZFXHWMMAJ` |  |
+| 1495 | Liquid + Al8Mo3 -> Al3Mo | Liquid: Al 0.953; Al8Mo3: Al 0.727273, Mo 0.272727; Al3Mo: Al 0.75, Mo 0.25 | model | [3] Cupid 2010 | Table 2, p. 6, row 25; `ORC-Z3NJU4LRUE` |  |
+| 1425 | liq. + Al3Mo -> Al4Mo | Al3Mo: Mo 0.0227; Al4Mo: Al 0.8, Mo 0.2 | model | [2] Du 2009 | Table 2, p. 7, row 17; `ORC-2NYZ2BDEXB` |  |
+| 1425 | Liquid + Al3Mo -> Al4Mo | Al3Mo: Al 0.75, Mo 0.25; Al4Mo: Al 0.8, Mo 0.2 | unspecified | [3] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 6, row 26; `ORC-CICYCSEDNJ` |  |
+| 1425 | Liquid + Al3Mo -> Al4Mo | Liquid: Al 0.967; Al3Mo: Al 0.75, Mo 0.25; Al4Mo: Al 0.8, Mo 0.2 | model | [3] Cupid 2010 | Table 2, p. 6, row 27; `ORC-MK7TF4PSDT` |  |
+| 1425 | liq. + Al3Mo -> Al4Mo | Al3Mo: Mo 0.035; Al4Mo: Al 0.8, Mo 0.2 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 18; `ORC-ULLOJ34JU4` |  |
 | 1403.15 | peritectic: L + Al8Mo3 \<-> Al4Mo | L: Mo 0.03; Al8Mo3: Mo 0.255; Al4Mo: Mo 0.2 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 5; `ORC-7AGIL3SUKL` |  |
 | 1403.15 | peritectic |  | experimental | [1] Ltd. 1997; _cites E Spemer 1959_ | p. 1; `ORC-AZTBPIOYPX` | “\[59Spe\] reported the peritectic formation of AlaMo from AI2Mo at 1130 ~ and the congruent melting of AI2Mo at -2000 ~” |
-| 1403 | peritectic |  | experimental | [2] Cupid 2010; _cites Sperner 1959_ | p. 2; `ORC-IFFC555HMA` | “Walford \[40\] then attributed the peritectic formation of Al3Mo at 1403 K from Sperner \[22\] to the peritectic formation of the Al4Mo phase at 1403 K.” |
-| 1403 | peritectic |  | experimental | [2] Cupid 2010 | p. 2; `ORC-RSMOFFZ24G.27a810` | “Al3Mo was shown to form peritectically at 1403 K and Al2Mo was shown to melt congruently at z2323 K.” |
-| 1307 | peritectic |  | experimental | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | p. 3; `ORC-7TK7R2H2XB.1fbbf8` | “The partial AleMo phase diagram of Schuster and Ipser \[41\] shows the Al12Mo phase, which melts incongruently at 985 K, three modifications of the Al5Mo phase with the high temperature modification melting incongruently at 1119 K, the Al22Mo5 phase which forms peritectically at 1273 K and undergoes eutectoid decomposition at 1104 K, and the Al17Mo4 phase which forms peritectically at 1307 K and ex…” |
-| 1273 | liq. + Al4Mo -> Al17Mo4 | L: Mo 0.03; Al4Mo: Al 0.8, Mo 0.2; Al17Mo4: Al 0.809524, Mo 0.190476 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 20; `ORC-2DXSRN7IMW` |  |
-| 1273 | peritectic |  | experimental | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | p. 3; `ORC-7TK7R2H2XB.589644` | “The partial AleMo phase diagram of Schuster and Ipser \[41\] shows the Al12Mo phase, which melts incongruently at 985 K, three modifications of the Al5Mo phase with the high temperature modification melting incongruently at 1119 K, the Al22Mo5 phase which forms peritectically at 1273 K and undergoes eutectoid decomposition at 1104 K, and the Al17Mo4 phase which forms peritectically at 1307 K and ex…” |
-| 1273 | Liquid + Al4Mo -> Al17Mo4 | Al4Mo: Al 0.8, Mo 0.2; Al17Mo4: Al 0.809524, Mo 0.190476 | unspecified | [2] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 6, row 28; `ORC-L2DLPX73DB` |  |
-| 1270 | Liquid + Al4Mo -> Al17Mo4 | Liquid: Al 0.995; Al4Mo: Al 0.8, Mo 0.2; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [2] Cupid 2010 | Table 2, p. 6, row 29; `ORC-TU3VEUFVCG` |  |
-| 1267 | liq. + Al4Mo -> Al17Mo4 | L: Mo 0.0227; Al4Mo: Al 0.8, Mo 0.2; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [3] Du 2009 | Table 2, p. 7, row 19; `ORC-G4ZSJXD6Y4` |  |
-| 1223 | Liquid + Al17Mo4 -> Al22Mo5 | Al17Mo4: Al 0.809524, Mo 0.190476; Al22Mo5: Al 0.814815, Mo 0.185185 | unspecified | [2] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 6, row 32; `ORC-JV4QYU4UGB` |  |
-| 1223 | liq. + Al17Mo4 -> Al22Mo5 | L: Mo 0.02; Al17Mo4: Al 0.809524, Mo 0.190476; Al22Mo5: Al 0.814815, Mo 0.185185 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 22; `ORC-YODDT2ZUD7` |  |
-| 1218 | liq. + Al17Mo4 -> Al22Mo5 | L: Mo 0.0168; Al17Mo4: Al 0.809524, Mo 0.190476; Al22Mo5: Al 0.814815, Mo 0.185185 | model | [3] Du 2009 | Table 2, p. 7, row 21; `ORC-QU66SM53G4` |  |
-| 1215 | Al4Mo -> Al3Mo + Al17Mo4 | Al4Mo: Al 0.8, Mo 0.2; Al3Mo: Al 0.75, Mo 0.25; Al17Mo4: Al 0.809524, Mo 0.190476 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 24; `ORC-5TX3NSHV24` |  |
-| 1215 | Al4Mo -> Al3Mo + Al17Mo4 | Al4Mo: Al 0.8, Mo 0.2; Al3Mo: Al 0.75, Mo 0.25; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [3] Du 2009 | Table 2, p. 7, row 23; `ORC-ET5WAAF3EY` |  |
-| 1215 | eutectoid |  | experimental | [2] Cupid 2010 | p. 3; `ORC-GXRTILSMCB.8a24f4` | “The Al4Mo phase, which melts incongruently at 1450 K and undergoes eutectoid decomposition at 1215 K, was shown to exist over a homogeneity range that extends to higher Mo compositions.” |
-| 1215 | Al4Mo -> Al3Mo + Al17Mo4 | Al4Mo: Al 0.8, Mo 0.2; Al3Mo: Al 0.75, Mo 0.25; Al17Mo4: Al 0.809524, Mo 0.190476 | unspecified | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | Table 2, p. 6, row 30; `ORC-O3OWCUECML` |  |
-| 1215 | Al4Mo -> Al3Mo + Al17Mo4 | Al4Mo: Al 0.8, Mo 0.2; Al3Mo: Al 0.75, Mo 0.25; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [2] Cupid 2010 | Table 2, p. 6, row 31; `ORC-WZ7267EOTV` |  |
-| 1213 | Liquid + Al17Mo4 -> Al22Mo5 | Liquid: Al 0.994; Al17Mo4: Al 0.809524, Mo 0.190476; Al22Mo5: Al 0.814815, Mo 0.185185 | model | [2] Cupid 2010 | Table 2, p. 6, row 33; `ORC-STCK4LNW2N` |  |
-| 1119 | Liquid + Al22Mo5 -> Al5Mo | Al22Mo5: Al 0.814815, Mo 0.185185; Al5Mo: Al 0.833333, Mo 0.166667 | unspecified | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | Table 2, p. 6, row 34; `ORC-5LTXFBFTVU` |  |
-| 1119 | peritectic |  | experimental | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | p. 3; `ORC-7TK7R2H2XB.1fc989` | “The partial AleMo phase diagram of Schuster and Ipser \[41\] shows the Al12Mo phase, which melts incongruently at 985 K, three modifications of the Al5Mo phase with the high temperature modification melting incongruently at 1119 K, the Al22Mo5 phase which forms peritectically at 1273 K and undergoes eutectoid decomposition at 1104 K, and the Al17Mo4 phase which forms peritectically at 1307 K and ex…” |
-| 1119 | liq. + Al22Mo5 -> Al5Mo | L: Mo 0.01; Al22Mo5: Al 0.814815, Mo 0.185185; Al5Mo: Al 0.833333, Mo 0.166667 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 26; `ORC-G3FPDORWQQ` |  |
-| 1119 | Liquid + Al22Mo5 -> Al5Mo | Liquid: Al 0.998; Al22Mo5: Al 0.814815, Mo 0.185185; Al5Mo: Al 0.833333, Mo 0.166667 | model | [2] Cupid 2010 | Table 2, p. 6, row 35; `ORC-MREUMLKTS4` |  |
-| 1119 | liq. + Al22Mo5 -> Al5Mo | L: Mo 0.0079; Al22Mo5: Al 0.814815, Mo 0.185185; Al5Mo: Al 0.833333, Mo 0.166667 | model | [3] Du 2009 | Table 2, p. 7, row 25; `ORC-UEM5DG4ROO` |  |
-| 1104 | eutectoid |  | experimental | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | p. 3; `ORC-7TK7R2H2XB.55db1e` | “The partial AleMo phase diagram of Schuster and Ipser \[41\] shows the Al12Mo phase, which melts incongruently at 985 K, three modifications of the Al5Mo phase with the high temperature modification melting incongruently at 1119 K, the Al22Mo5 phase which forms peritectically at 1273 K and undergoes eutectoid decomposition at 1104 K, and the Al17Mo4 phase which forms peritectically at 1307 K and ex…” |
-| 1091 | eutectoid |  | experimental | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | p. 3; `ORC-S3Q5KX25MR.f19601` | “The Al3Mo phase was confirmed by Schuster and Ipser \[41\] and is shown to form peritectically at 1495 K and undergoes eutectoid decomposition at 1091 K.” |
-| 1073 | Al3Mo -> Al8Mo3 + Al17Mo4 | Al3Mo: Al 0.75, Mo 0.25; Al8Mo3: Al 0.727273, Mo 0.272727; Al17Mo4: Al 0.809524, Mo 0.190476 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 28; `ORC-DZMLVD5APX` |  |
-| 1073 | Al3Mo -> Al8Mo3 + Al17Mo4 | Al3Mo: Al 0.75, Mo 0.25; Al8Mo3: Al 0.727273, Mo 0.272727; Al17Mo4: Al 0.809524, Mo 0.190476 | unspecified | [2] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 6, row 36; `ORC-NCVZWF3XRJ` |  |
-| 1064 | Al3Mo -> Al8Mo3 + Al17Mo4 | Al3Mo: Al 0.75, Mo 0.25; Al8Mo3: Al 0.727273, Mo 0.272727; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [2] Cupid 2010 | Table 2, p. 6, row 37; `ORC-BW7FX7PUHJ` |  |
-| 1063 | eutectoid |  | model | [2] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | p. 5; `ORC-EBX6MO5ELN.38f1f2` | “The values of the a and b parameters for Al3Mo were chosen to reproduce the peritectic formation of Al3Mo from Al8Mo3 and liquid at 1495 K and the eutectoid decomposition of Al3Mo to Al8Mo3 and the higher Al-containing liquid at 1063 K \[43\].” |
-| 1017 | Al3Mo -> Al8Mo3 + Al17Mo4 | Al3Mo: Al 0.75, Mo 0.25; Al8Mo3: Al 0.727273, Mo 0.272727; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [3] Du 2009 | Table 2, p. 7, row 27; `ORC-GPBLVII3ZP` |  |
+| 1403 | peritectic |  | experimental | [3] Cupid 2010 | p. 2; `ORC-RSMOFFZ24G.27a810` | “Al3Mo was shown to form peritectically at 1403 K and Al2Mo was shown to melt congruently at z2323 K.” |
+| 1273 | liq. + Al4Mo -> Al17Mo4 | L: Mo 0.03; Al4Mo: Al 0.8, Mo 0.2; Al17Mo4: Al 0.809524, Mo 0.190476 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 20; `ORC-2DXSRN7IMW` |  |
+| 1273 | Liquid + Al4Mo -> Al17Mo4 | Al4Mo: Al 0.8, Mo 0.2; Al17Mo4: Al 0.809524, Mo 0.190476 | unspecified | [3] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 6, row 28; `ORC-L2DLPX73DB` |  |
+| 1270 | Liquid + Al4Mo -> Al17Mo4 | Liquid: Al 0.995; Al4Mo: Al 0.8, Mo 0.2; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [3] Cupid 2010 | Table 2, p. 6, row 29; `ORC-TU3VEUFVCG` |  |
+| 1267 | liq. + Al4Mo -> Al17Mo4 | L: Mo 0.0227; Al4Mo: Al 0.8, Mo 0.2; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [2] Du 2009 | Table 2, p. 7, row 19; `ORC-G4ZSJXD6Y4` |  |
+| 1223 | Liquid + Al17Mo4 -> Al22Mo5 | Al17Mo4: Al 0.809524, Mo 0.190476; Al22Mo5: Al 0.814815, Mo 0.185185 | unspecified | [3] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 6, row 32; `ORC-JV4QYU4UGB` |  |
+| 1223 | liq. + Al17Mo4 -> Al22Mo5 | L: Mo 0.02; Al17Mo4: Al 0.809524, Mo 0.190476; Al22Mo5: Al 0.814815, Mo 0.185185 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 22; `ORC-YODDT2ZUD7` |  |
+| 1218 | liq. + Al17Mo4 -> Al22Mo5 | L: Mo 0.0168; Al17Mo4: Al 0.809524, Mo 0.190476; Al22Mo5: Al 0.814815, Mo 0.185185 | model | [2] Du 2009 | Table 2, p. 7, row 21; `ORC-QU66SM53G4` |  |
+| 1215 | Al4Mo -> Al3Mo + Al17Mo4 | Al4Mo: Al 0.8, Mo 0.2; Al3Mo: Al 0.75, Mo 0.25; Al17Mo4: Al 0.809524, Mo 0.190476 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 24; `ORC-5TX3NSHV24` |  |
+| 1215 | Al4Mo -> Al3Mo + Al17Mo4 | Al4Mo: Al 0.8, Mo 0.2; Al3Mo: Al 0.75, Mo 0.25; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [2] Du 2009 | Table 2, p. 7, row 23; `ORC-ET5WAAF3EY` |  |
+| 1215 | Al4Mo -> Al3Mo + Al17Mo4 | Al4Mo: Al 0.8, Mo 0.2; Al3Mo: Al 0.75, Mo 0.25; Al17Mo4: Al 0.809524, Mo 0.190476 | unspecified | [3] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | Table 2, p. 6, row 30; `ORC-O3OWCUECML` |  |
+| 1215 | Al4Mo -> Al3Mo + Al17Mo4 | Al4Mo: Al 0.8, Mo 0.2; Al3Mo: Al 0.75, Mo 0.25; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [3] Cupid 2010 | Table 2, p. 6, row 31; `ORC-WZ7267EOTV` |  |
+| 1213 | Liquid + Al17Mo4 -> Al22Mo5 | Liquid: Al 0.994; Al17Mo4: Al 0.809524, Mo 0.190476; Al22Mo5: Al 0.814815, Mo 0.185185 | model | [3] Cupid 2010 | Table 2, p. 6, row 33; `ORC-STCK4LNW2N` |  |
+| 1119 | Liquid + Al22Mo5 -> Al5Mo | Al22Mo5: Al 0.814815, Mo 0.185185; Al5Mo: Al 0.833333, Mo 0.166667 | unspecified | [3] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | Table 2, p. 6, row 34; `ORC-5LTXFBFTVU` |  |
+| 1119 | liq. + Al22Mo5 -> Al5Mo | L: Mo 0.01; Al22Mo5: Al 0.814815, Mo 0.185185; Al5Mo: Al 0.833333, Mo 0.166667 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 26; `ORC-G3FPDORWQQ` |  |
+| 1119 | Liquid + Al22Mo5 -> Al5Mo | Liquid: Al 0.998; Al22Mo5: Al 0.814815, Mo 0.185185; Al5Mo: Al 0.833333, Mo 0.166667 | model | [3] Cupid 2010 | Table 2, p. 6, row 35; `ORC-MREUMLKTS4` |  |
+| 1119 | liq. + Al22Mo5 -> Al5Mo | L: Mo 0.0079; Al22Mo5: Al 0.814815, Mo 0.185185; Al5Mo: Al 0.833333, Mo 0.166667 | model | [2] Du 2009 | Table 2, p. 7, row 25; `ORC-UEM5DG4ROO` |  |
+| 1073 | Al3Mo -> Al8Mo3 + Al17Mo4 | Al3Mo: Al 0.75, Mo 0.25; Al8Mo3: Al 0.727273, Mo 0.272727; Al17Mo4: Al 0.809524, Mo 0.190476 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 28; `ORC-DZMLVD5APX` |  |
+| 1073 | Al3Mo -> Al8Mo3 + Al17Mo4 | Al3Mo: Al 0.75, Mo 0.25; Al8Mo3: Al 0.727273, Mo 0.272727; Al17Mo4: Al 0.809524, Mo 0.190476 | unspecified | [3] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 6, row 36; `ORC-NCVZWF3XRJ` |  |
+| 1064 | Al3Mo -> Al8Mo3 + Al17Mo4 | Al3Mo: Al 0.75, Mo 0.25; Al8Mo3: Al 0.727273, Mo 0.272727; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [3] Cupid 2010 | Table 2, p. 6, row 37; `ORC-BW7FX7PUHJ` |  |
+| 1017 | Al3Mo -> Al8Mo3 + Al17Mo4 | Al3Mo: Al 0.75, Mo 0.25; Al8Mo3: Al 0.727273, Mo 0.272727; Al17Mo4: Al 0.809524, Mo 0.190476 | model | [2] Du 2009 | Table 2, p. 7, row 27; `ORC-GPBLVII3ZP` |  |
 | 1008.15 | peritectic: L + Al4Mo \<-> Al5Mo | L: Mo 0.001; Al4Mo: Mo 0.2; Al5Mo: Mo 0.167 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 4; `ORC-MEKGNXHCDG` |  |
-| 1008 | peritectic |  | experimental | [2] Cupid 2010; _cites Sperner 1959_ | p. 2; `ORC-EGUG55F6SN.befdc0` | “The peritectic formation of Al5Mo was measured at 976 K \[26\], 1008 K \[22\], and 990 K \[25\], respectively.” |
-| 1008 | peritectic |  | experimental | [2] Cupid 2010; _cites Reimann 1922_ | p. 2; `ORC-ZF373L6HEO` | “Reimann \[28\] confirmed the peritectic formation of Al4Mo through microstructural investigation of a 12 wt.%Mo ascast alloy and, using DTA, measured its peritectic formation temperature as 1008 K.” |
-| 990 | peritectic |  | experimental | [2] Cupid 2010; _cites Kamei 1972_ | p. 2; `ORC-EGUG55F6SN.4d0ede` | “The peritectic formation of Al5Mo was measured at 976 K \[26\], 1008 K \[22\], and 990 K \[25\], respectively.” |
-| 985 | liq. + Al5Mo -> Al12Mo | L: Mo 0.0018; Al5Mo: Al 0.833333, Mo 0.166667; Al12Mo: Al 0.923077, Mo 0.076923 | model | [3] Du 2009 | Table 2, p. 7, row 29; `ORC-2TG5WQBF6K` |  |
-| 985 | Liquid + Al5Mo -> Al12Mo | Al5Mo: Al 0.833333, Mo 0.166667; Al12Mo: Al 0.923077, Mo 0.076923 | unspecified | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | Table 2, p. 6, row 38; `ORC-6RV7L4QCIX` |  |
-| 985 | peritectic |  | experimental | [2] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | p. 3; `ORC-7TK7R2H2XB.ed8fe4` | “The partial AleMo phase diagram of Schuster and Ipser \[41\] shows the Al12Mo phase, which melts incongruently at 985 K, three modifications of the Al5Mo phase with the high temperature modification melting incongruently at 1119 K, the Al22Mo5 phase which forms peritectically at 1273 K and undergoes eutectoid decomposition at 1104 K, and the Al17Mo4 phase which forms peritectically at 1307 K and ex…” |
-| 985 | liq. + Al5Mo -> Al12Mo | L: Mo 0.005; Al5Mo: Al 0.833333, Mo 0.166667; Al12Mo: Al 0.923077, Mo 0.076923 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 30; `ORC-BHO4ADA6SV` |  |
-| 985 | Liquid + Al5Mo -> Al12Mo | Liquid: Al 0.9997; Al5Mo: Al 0.833333, Mo 0.166667; Al12Mo: Al 0.923077, Mo 0.076923 | model | [2] Cupid 2010 | Table 2, p. 6, row 39; `ORC-UDOOMVU6AN` |  |
-| 976 | peritectic |  | experimental | [2] Cupid 2010; _cites Yamaguchi 1940_ | p. 2; `ORC-EGUG55F6SN.9eb2e7` | “The peritectic formation of Al5Mo was measured at 976 K \[26\], 1008 K \[22\], and 990 K \[25\], respectively.” |
-| 976 | peritectic |  | experimental | [2] Cupid 2010; _cites Clare 1960_ | p. 2; `ORC-KXDZTJMGZT.9fb671` | “Al12Mo was also confirmed in the works of Sperner \[22\], Clare \[23\], Pötzschke and Schubert \[24\], and Kamei \[25\] and its peritectic formation temperature was measured at 973 K \[22\], 976 K \[23\], and 957 K \[25\], respectively.” |
-| 973.15 | peritectic |  | experimental | [1] Ltd. 1997; _cites ref. 64Wall_ | p. 1; `ORC-7JI66UYBP5` | “\[64Wall\] reviewed the available data previous to 1964 and put forward the reaction sequence shown in Fig. 3, where four peritectic reactions are postulated at 1130, 800, 735, and 700 ~ This review formed the basis for the reaction sequence given by \[80Bre\].” |
+| 1008 | peritectic |  | experimental | [3] Cupid 2010; _cites Sperner 1959_ | p. 2; `ORC-EGUG55F6SN.befdc0` | “The peritectic formation of Al5Mo was measured at 976 K \[26\], 1008 K \[22\], and 990 K \[25\], respectively.” |
+| 1008 | peritectic |  | experimental | [3] Cupid 2010; _cites Reimann 1922_ | p. 2; `ORC-ZF373L6HEO` | “Reimann \[28\] confirmed the peritectic formation of Al4Mo through microstructural investigation of a 12 wt.%Mo ascast alloy and, using DTA, measured its peritectic formation temperature as 1008 K.” |
+| 990 | peritectic |  | experimental | [3] Cupid 2010; _cites Kamei 1972_ | p. 2; `ORC-EGUG55F6SN.4d0ede` | “The peritectic formation of Al5Mo was measured at 976 K \[26\], 1008 K \[22\], and 990 K \[25\], respectively.” |
+| 985 | liq. + Al5Mo -> Al12Mo | L: Mo 0.0018; Al5Mo: Al 0.833333, Mo 0.166667; Al12Mo: Al 0.923077, Mo 0.076923 | model | [2] Du 2009 | Table 2, p. 7, row 29; `ORC-2TG5WQBF6K` |  |
+| 985 | Liquid + Al5Mo -> Al12Mo | Al5Mo: Al 0.833333, Mo 0.166667; Al12Mo: Al 0.923077, Mo 0.076923 | unspecified | [3] Cupid 2010; _cites Schuster 1991_ [doi](https://doi.org/10.1007/bf02646496) | Table 2, p. 6, row 38; `ORC-6RV7L4QCIX` |  |
+| 985 | liq. + Al5Mo -> Al12Mo | L: Mo 0.005; Al5Mo: Al 0.833333, Mo 0.166667; Al12Mo: Al 0.923077, Mo 0.076923 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 30; `ORC-BHO4ADA6SV` |  |
+| 985 | Liquid + Al5Mo -> Al12Mo | Liquid: Al 0.9997; Al5Mo: Al 0.833333, Mo 0.166667; Al12Mo: Al 0.923077, Mo 0.076923 | model | [3] Cupid 2010 | Table 2, p. 6, row 39; `ORC-UDOOMVU6AN` |  |
+| 976 | peritectic |  | experimental | [3] Cupid 2010; _cites Yamaguchi 1940_ | p. 2; `ORC-EGUG55F6SN.9eb2e7` | “The peritectic formation of Al5Mo was measured at 976 K \[26\], 1008 K \[22\], and 990 K \[25\], respectively.” |
+| 976 | peritectic |  | experimental | [3] Cupid 2010; _cites Clare 1960_ | p. 2; `ORC-KXDZTJMGZT.9fb671` | “Al12Mo was also confirmed in the works of Sperner \[22\], Clare \[23\], Pötzschke and Schubert \[24\], and Kamei \[25\] and its peritectic formation temperature was measured at 973 K \[22\], 976 K \[23\], and 957 K \[25\], respectively.” |
 | 973.15 | peritectic |  | experimental | [1] Ltd. 1997; _cites E Spemer 1959_ | p. 1; `ORC-EVKLZD62RF.19c42d` | “A review of the literature shows that the peritectic at 700 ~ is associated with the formation of All2MO \[59Spe, 60Cla, 72Kam\] and the peritectic at 735 ~ with AIsMo \[52Wac, 59Spe, 72Kam\].” |
 | 973.15 | peritectic: L + Al5Mo \<-> Al12Mo | L: Mo 7.000e-4; Al5Mo: Mo 0.167; Al12Mo: Mo 0.077 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 3; `ORC-MJV2YAQP3P` |  |
-| 973 | peritectic |  | experimental | [2] Cupid 2010; _cites Sperner 1959_ | p. 2; `ORC-KXDZTJMGZT.ce39d2` | “Al12Mo was also confirmed in the works of Sperner \[22\], Clare \[23\], Pötzschke and Schubert \[24\], and Kamei \[25\] and its peritectic formation temperature was measured at 973 K \[22\], 976 K \[23\], and 957 K \[25\], respectively.” |
-| 957.15 | peritectic |  | experimental | [1] Ltd. 1997; _cites ref. 72Kam_ | p. 1; `ORC-YXR2SXOBFJ` | “The peritectic reactions reported by \[72Kam\] at 717 and 684 ~ correspond to those at 735 and 700 ~ but lie -17 ~ lower.” |
-| 957 | peritectic |  | experimental | [2] Cupid 2010; _cites Kamei 1972_ | p. 2; `ORC-KXDZTJMGZT.9fba8f` | “Al12Mo was also confirmed in the works of Sperner \[22\], Clare \[23\], Pötzschke and Schubert \[24\], and Kamei \[25\] and its peritectic formation temperature was measured at 973 K \[22\], 976 K \[23\], and 957 K \[25\], respectively.” |
+| 973 | peritectic |  | experimental | [3] Cupid 2010; _cites Sperner 1959_ | p. 2; `ORC-KXDZTJMGZT.ce39d2` | “Al12Mo was also confirmed in the works of Sperner \[22\], Clare \[23\], Pötzschke and Schubert \[24\], and Kamei \[25\] and its peritectic formation temperature was measured at 973 K \[22\], 976 K \[23\], and 957 K \[25\], respectively.” |
+| 957 | peritectic |  | experimental | [3] Cupid 2010; _cites Kamei 1972_ | p. 2; `ORC-KXDZTJMGZT.9fba8f` | “Al12Mo was also confirmed in the works of Sperner \[22\], Clare \[23\], Pötzschke and Schubert \[24\], and Kamei \[25\] and its peritectic formation temperature was measured at 973 K \[22\], 976 K \[23\], and 957 K \[25\], respectively.” |
 | 934.15 | peritectic: L + Al12Mo \<-> (Al) | L: Mo 3.000e-4; Al12Mo: Mo 0.077; (Al): Mo 0.0064 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 2; `ORC-CWIT74WJF2` |  |
 | 933.6 | congruent melting: Al \<-> L | Al: Mo 0 | unspecified | [1] Ltd. 1997 | Table 1, p. 1, row 1; `ORC-SPQ7U5NZOR` |  |
-| 933 | liq. -> Al12Mo + fcc | L: Mo 5.000e-4; Al12Mo: Al 0.923077, Mo 0.076923 | model | [3] Du 2009 | Table 2, p. 7, row 31; `ORC-3OVQYCO3PM` |  |
-| 933 | liq. -> Al12Mo + fcc | L: Mo 0.002; Al12Mo: Al 0.923077, Mo 0.076923 | experimental | [3] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 32; `ORC-O4FKHJOIYR` |  |
+| 933 | eutectic: liq. -> Al12Mo + fcc | L: Mo 5.000e-4; Al12Mo: Al 0.923077, Mo 0.076923 | model | [2] Du 2009 | Table 2, p. 7, row 31; `ORC-3OVQYCO3PM` |  |
+| 933 | eutectic: liq. -> Al12Mo + fcc | L: Mo 0.002; Al12Mo: Al 0.923077, Mo 0.076923 | experimental | [2] Du 2009; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | Table 2, p. 7, row 32; `ORC-O4FKHJOIYR` |  |
 
 ## Formation enthalpies
 
@@ -338,48 +315,37 @@ Table: Enthalpies of formation, Al–Mo system (29)
 | Mo |  | -3.55 kJ/mol-atom |  | model |  |  | [1] Ltd. 1997 | Table 6, p. 5, row 12; `ORC-3CEYSDAZ3F` |  |
 | Mo |  | -2.26 kJ/mol-atom | 298.15 | experimental |  |  | [1] Ltd. 1997; _cites ref. 82Shi_ | Table 6, p. 5, row 13; `ORC-R6GYDE2BV5` |  |
 | Mo |  | -1.86 kJ/mol-atom |  | model |  |  | [1] Ltd. 1997 | Table 6, p. 5, row 14; `ORC-QXS2DT76ZM` |  |
-| Mo5Al3-D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -22 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [5] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 5; `ORC-CBFYDBTBRQ.96a41e` |  |
-| Mo5Al3-D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -7.3 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [5] Liu 2000 | Table 5, p. 8, row 6; `ORC-MLGRW4L3ME.abc837` |  |
-| Mo5Al3–D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -23 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [6] Guo 2012 | Table 3, p. 8, row 7; `ORC-KRFTD44W63.334d50` |  |
-| Mo5Al3–D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -22 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [6] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 8; `ORC-YE3UC7GJLU.3052ae` |  |
-| Mo5Al3–D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -7.3 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [6] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 9; `ORC-4KJDVHSCSI.653012` |  |
-| MoAl2-C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 1; `ORC-JLZAOGJJBT.328ae1` |  |
-| MoAl2-C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -19 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Liu 2000 | Table 5, p. 8, row 2; `ORC-WVLQ4WISQA.6f33a6` |  |
-| MoAl2-C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -21 kJ/mol-atom |  | model |  | -1.389 (oqmd-1797232) | [5] Liu 2000 | Table 5, p. 8, row 4; `ORC-UESQZ4UUIP.b53865` |  |
-| MoAl2-C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -1.389 (oqmd-1797232) | [5] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 3; `ORC-HHJ4CHRPJJ.298207` |  |
-| MoAl2–C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 2; `ORC-7JSBSYKZ6K.8949c0` |  |
-| MoAl2–C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012 | Table 3, p. 8, row 1; `ORC-ZCVIFQH6NU.a5f740` |  |
-| MoAl2–C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -19 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 3; `ORC-SY7ODGRE2F.89fb87` |  |
-| MoAl2–C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -22.2 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012 | Table 3, p. 8, row 4; `ORC-GP75YYNOIG.471b9e` |  |
-| MoAl2–C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -21 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 6; `ORC-PXZB4QXQFZ.024f01` |  |
-| MoAl2–C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 5; `ORC-6NRRY7GPV3.3db754` |  |
+| Mo5Al3-D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -22 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [4] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 5; `ORC-CBFYDBTBRQ.96a41e` |  |
+| Mo5Al3-D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -7.3 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [4] Liu 2000 | Table 5, p. 8, row 6; `ORC-MLGRW4L3ME.abc837` |  |
+| Mo5Al3–D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -23 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [5] Guo 2012 | Table 3, p. 8, row 7; `ORC-KRFTD44W63.334d50` |  |
+| Mo5Al3–D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -22 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [5] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 8; `ORC-YE3UC7GJLU.3052ae` |  |
+| Mo5Al3–D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -7.3 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [5] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 9; `ORC-4KJDVHSCSI.653012` |  |
+| MoAl2-C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [4] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 1; `ORC-JLZAOGJJBT.328ae1` |  |
+| MoAl2-C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -19 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [4] Liu 2000 | Table 5, p. 8, row 2; `ORC-WVLQ4WISQA.6f33a6` |  |
+| MoAl2-C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -21 kJ/mol-atom |  | model |  | -1.389 (oqmd-1797232) | [4] Liu 2000 | Table 5, p. 8, row 4; `ORC-UESQZ4UUIP.b53865` |  |
+| MoAl2-C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -1.389 (oqmd-1797232) | [4] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 3; `ORC-HHJ4CHRPJJ.298207` |  |
+| MoAl2–C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 2; `ORC-7JSBSYKZ6K.8949c0` |  |
+| MoAl2–C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Guo 2012 | Table 3, p. 8, row 1; `ORC-ZCVIFQH6NU.a5f740` |  |
+| MoAl2–C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -19 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 3; `ORC-SY7ODGRE2F.89fb87` |  |
+| MoAl2–C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -22.2 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Guo 2012 | Table 3, p. 8, row 4; `ORC-GP75YYNOIG.471b9e` |  |
+| MoAl2–C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -21 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 6; `ORC-PXZB4QXQFZ.024f01` |  |
+| MoAl2–C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 5; `ORC-6NRRY7GPV3.3db754` |  |
 
 ## Other properties
 
-### Phase transition (18)
+### Phase transition (7)
 
 Table: Phase transition, Al–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1120 K | 1120 | other | experimental | [3] Du 2009; _cites Ya 1970_ | p. 10; `ORC-ME72ENZBLQ.7d8f27` | “The decomposition temperatures of s1, s2 and e\*(Al5Fe4) are 1120, 1350 and 1353 K, respectively, which are basically in agreement with the experimental temperatures 1120,\[32\] 1344-1368\[45\] and 1358-1368 K.\[45\]” |
-| Phase transition | 1120 K | 1120 | other | model | [3] Du 2009 | p. 10; `ORC-ME72ENZBLQ.ed2e12` | “The decomposition temperatures of s1, s2 and e\*(Al5Fe4) are 1120, 1350 and 1353 K, respectively, which are basically in agreement with the experimental temperatures 1120,\[32\] 1344-1368\[45\] and 1358-1368 K.\[45\]” |
-| Phase transition | 1280 K | 1280 |  | model | [4] Peng 2016 | p. 8; `ORC-4Z3OWD3BKE.422fbc` | “Our calculation predicts the X phase melts at 1280 K, which is close to the 1288 K determined experimentally by Grushko et al. \[38\].” |
-| Phase transition | 1288 K | 1288 |  | experimental | [4] Peng 2016; _cites Grushko 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901800-x) | p. 8; `ORC-4Z3OWD3BKE.f070ee` | “Our calculation predicts the X phase melts at 1280 K, which is close to the 1288 K determined experimentally by Grushko et al. \[38\].” |
-| Phase transition | 1288 K | 1288 | congruent transformation | experimental | [4] Peng 2016; _cites Grushko 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901800-x) | p. 4; `ORC-AFAKSHNMBZ` | “It has a very narrow composition range and melts congruently at 1288 K.” |
-| Phase transition | 1350 K | 1350 | other | model | [3] Du 2009 | p. 10; `ORC-ME72ENZBLQ.aa87a5` | “The decomposition temperatures of s1, s2 and e\*(Al5Fe4) are 1120, 1350 and 1353 K, respectively, which are basically in agreement with the experimental temperatures 1120,\[32\] 1344-1368\[45\] and 1358-1368 K.\[45\]” |
-| Phase transition | 1450 K | 1450 |  | experimental | [2] Cupid 2010 | p. 3; `ORC-GXRTILSMCB.60cbbf` | “The Al4Mo phase, which melts incongruently at 1450 K and undergoes eutectoid decomposition at 1215 K, was shown to exist over a homogeneity range that extends to higher Mo compositions.” |
-| Phase transition | 1540 K | 1540 | b + Al8Mo3 / d + h | model | [2] Cupid 2010 | p. 11; `ORC-LXFGV5ZGLG` | “The reoptimized dataset for the TieAleMo system is in good agreement with the work of Nino et al. \[15\] which shows the continuity of the b phase from the TieMo binary to the AleMo binary, the presence of the single phase b field for several Ti-poor alloys, and the invariant reaction b þ Al8Mo3 / d þ h at 1540 K.” |
-| Phase transition | 1540 K | 1540 | other | experimental | [2] Cupid 2010; _cites Nino 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900049-9) | p. 7; `ORC-U63DKINY4L` | “In the first step, the parameters of the h phase were re-optimized to reproduce the transition reaction b þ Al8Mo3 / d þ h at 1540 K.” |
-| Phase transition | 1540 K | 1540 | other: b + Al8Mo3 -> d + h | experimental | [2] Cupid 2010; _cites Nino 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900049-9) | p. 1; `ORC-EABZHR7BMB` | “However, calculations using this dataset cannot reproduce the phase equilibria determined by Nino et al. \[15\] such as: (1) the continuity of the b phase to the AleMo binary at 1773 K and 50 at.% Al, (2) the b phase solidification of several alloys with Ti compositions from 15 at.% Ti to 17 at.% Ti and Al compositions from 47 at.% Al to 50 at.% Al, and (3) the transition reaction b þ Al8Mo3 / d þ…” |
-| Phase transition | 1540 K | 1540 | other: b + Al8Mo3 -> d + h | experimental | [2] Cupid 2010; _cites Nino 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900049-9) | p. 4; `ORC-TKA6R7S7PU` | “It was also concluded that the transition reaction b þ Al8Mo3 / d þ h should take place at z1540 K.” |
-| Phase transition | 1540 K | 1540 | other: b + Al8Mo3 / d + h | model | [2] Cupid 2010 | p. 7; `ORC-S4RJP5IRL7` | “The LAl;Mo:Ti 1⁄4 L\*:Mo;Ti parameter strongly influenced the b þ Al8Mo3 / d þ h invariant equilibrium, and was used to fit the transition temperature to 1540 K.” |
-| Phase transition | 1540 K | 1540 | other: b þ Al8Mo3 / d þ h | model | [2] Cupid 2010 | p. 9; `ORC-XQBOK5FJMH` | “The calculated isothermal sections at 1541 and 1539 K shown in Fig. 6(a) and 6), respectively indicate that the solid state transition reaction b þ Al8Mo3 / d þ h is calculated to take place at 1540 K.” |
-| Phase transition | 1613 K | 1613 | Liquid þ B2 4 bcc þ L12 | experimental | [4] Peng 2016; _cites Maslenkov 1986_ | p. 3; `ORC-CZJKF6AZI3` | “The temperature of the invariant reaction U1: Liquid þ B2 4 bcc þ L12 was determined by Maslenkov et al. \[10,11\] as 1613 ± 10 K by DTA.” |
-| Phase transition | 1819 K | 1819 | congruent transformation | experimental | [2] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | p. 5; `ORC-RBXX3IWQUV` | “The value of b was assigned to fit the congruent melting of Al8Mo3 at 1819 K measured by Eumann et al. \[43\].” |
-| Phase transition | 1821 K | 1821 | congruent transformation | model | [2] Cupid 2010 | p. 8; `ORC-QPARLX7QBN` | “The congruent melting of Al8Mo3 is calculated at 1821 K, which is in good agreement with the thermal analysis measurements of Schuster and Ipser \[41\] (1828 10 K) and Eumann et al. \[43\] (1819 5 K).” |
-| Phase transition | 2023 K | 2023 | congruent transformation | model | [2] Cupid 2010 | p. 8; `ORC-ZRDKGIRDXH` | “The b phase melts congruently at 2023 K, which is in excellent agreement with the critical evaluation of Schuster \[42\].” |
-| Phase transition | 2323 K | 2323 | congruent transformation | experimental | [2] Cupid 2010 | p. 2; `ORC-RSMOFFZ24G.54a901` | “Al3Mo was shown to form peritectically at 1403 K and Al2Mo was shown to melt congruently at z2323 K.” |
+| Phase transition | 1120 K | 1120 | other | experimental | [2] Du 2009; _cites Ya 1970_ | p. 10; `ORC-ME72ENZBLQ.7d8f27` | “The decomposition temperatures of s1, s2 and e\*(Al5Fe4) are 1120, 1350 and 1353 K, respectively, which are basically in agreement with the experimental temperatures 1120,\[32\] 1344-1368\[45\] and 1358-1368 K.\[45\]” |
+| Phase transition | 1120 K | 1120 | other | model | [2] Du 2009 | p. 10; `ORC-ME72ENZBLQ.ed2e12` | “The decomposition temperatures of s1, s2 and e\*(Al5Fe4) are 1120, 1350 and 1353 K, respectively, which are basically in agreement with the experimental temperatures 1120,\[32\] 1344-1368\[45\] and 1358-1368 K.\[45\]” |
+| Phase transition | 1350 K | 1350 | other | model | [2] Du 2009 | p. 10; `ORC-ME72ENZBLQ.aa87a5` | “The decomposition temperatures of s1, s2 and e\*(Al5Fe4) are 1120, 1350 and 1353 K, respectively, which are basically in agreement with the experimental temperatures 1120,\[32\] 1344-1368\[45\] and 1358-1368 K.\[45\]” |
+| Phase transition | 1819 K | 1819 | congruent transformation | experimental | [3] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | p. 5; `ORC-RBXX3IWQUV` | “The value of b was assigned to fit the congruent melting of Al8Mo3 at 1819 K measured by Eumann et al. \[43\].” |
+| Phase transition | 1821 K | 1821 | congruent transformation | model | [3] Cupid 2010 | p. 8; `ORC-QPARLX7QBN` | “The congruent melting of Al8Mo3 is calculated at 1821 K, which is in good agreement with the thermal analysis measurements of Schuster and Ipser \[41\] (1828 10 K) and Eumann et al. \[43\] (1819 5 K).” |
+| Phase transition | 2023 K | 2023 | congruent transformation | model | [3] Cupid 2010 | p. 8; `ORC-ZRDKGIRDXH` | “The b phase melts congruently at 2023 K, which is in excellent agreement with the critical evaluation of Schuster \[42\].” |
+| Phase transition | 2323 K | 2323 | congruent transformation | experimental | [3] Cupid 2010 | p. 2; `ORC-RSMOFFZ24G.54a901` | “Al3Mo was shown to form peritectically at 1403 K and Al2Mo was shown to melt congruently at z2323 K.” |
 
 ### Phase equilibrium (29)
 
@@ -480,11 +446,10 @@ Table: Crystal structure, Al–Mo system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Thermotech Ltd., N. Saunders, The Al-Mo system (aluminum-molybdenum), JPE 18, 370-378 (1997). [doi:10.1007/s11669-997-0063-1](https://doi.org/10.1007/s11669-997-0063-1)
-2. Damian M. Cupid, Olga Fabrichnaya, Fereshteh Ebrahimi, Hans J. Seifert, Thermodynamic assessment of the Al–Mo system and of the Ti–Al–Mo System from 0 to 20at.% Ti, Intermetallics 18, 1185-1196 (2010). [doi:10.1016/j.intermet.2010.03.010](https://doi.org/10.1016/j.intermet.2010.03.010)
-3. Zhenmin Du, Cuiping Guo, Changrong Li, Weijing Zhang, Thermodynamic Description of the Al-Mo and Al-Fe-Mo Systems, J. Phase Equilib. Diffus. 30, 487-501 (2009). [doi:10.1007/s11669-009-9564-4](https://doi.org/10.1007/s11669-009-9564-4)
-4. Jian Peng, Peter Franke, Dario Manara, Tyson Watkins, Rudy J.M. Konings, Hans J. Seifert, Experimental investigation and thermodynamic re-assessment of the Al–Mo–Ni system, Journal of Alloys and Compounds 674, 305-314 (2016). [doi:10.1016/j.jallcom.2016.03.044](https://doi.org/10.1016/j.jallcom.2016.03.044)
-5. Y Liu, G Shao, P Tsakiropoulos, Thermodynamic reassessment of the Mo–Si and Al–Mo–Si systems, Intermetallics 8, 953-962 (2000). [doi:10.1016/s0966-9795(00)00068-6](https://doi.org/10.1016/s0966-9795%2800%2900068-6)
-6. Cuiping Guo, Changrong Li, Patrick J. Masset, Zhenmin Du, A thermodynamic description of the Al–Mo–Si system, Calphad 36, 100-109 (2012). [doi:10.1016/j.calphad.2011.12.003](https://doi.org/10.1016/j.calphad.2011.12.003)
+2. Zhenmin Du, Cuiping Guo, Changrong Li, Weijing Zhang, Thermodynamic Description of the Al-Mo and Al-Fe-Mo Systems, J. Phase Equilib. Diffus. 30, 487-501 (2009). [doi:10.1007/s11669-009-9564-4](https://doi.org/10.1007/s11669-009-9564-4)
+3. Damian M. Cupid, Olga Fabrichnaya, Fereshteh Ebrahimi, Hans J. Seifert, Thermodynamic assessment of the Al–Mo system and of the Ti–Al–Mo System from 0 to 20at.% Ti, Intermetallics 18, 1185-1196 (2010). [doi:10.1016/j.intermet.2010.03.010](https://doi.org/10.1016/j.intermet.2010.03.010)
+4. Y Liu, G Shao, P Tsakiropoulos, Thermodynamic reassessment of the Mo–Si and Al–Mo–Si systems, Intermetallics 8, 953-962 (2000). [doi:10.1016/s0966-9795(00)00068-6](https://doi.org/10.1016/s0966-9795%2800%2900068-6)
+5. Cuiping Guo, Changrong Li, Patrick J. Masset, Zhenmin Du, A thermodynamic description of the Al–Mo–Si system, Calphad 36, 100-109 (2012). [doi:10.1016/j.calphad.2011.12.003](https://doi.org/10.1016/j.calphad.2011.12.003)
 
 ## Please cite
 

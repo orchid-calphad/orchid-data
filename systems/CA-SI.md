@@ -1,10 +1,10 @@
 # Ca–Si system
 
-> Ca–Si system: 81 accepted literature values (formation 51, invariant reaction 24, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Si system: 78 accepted literature values (formation 51, invariant reaction 21, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-SI.html · Markdown: https://data.orchid-project.org/systems/CA-SI.md
 
-81 accepted literature values from 2 paper(s) (experimental 45, model 29, unspecified 7); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+78 accepted literature values from 2 paper(s) (experimental 42, model 29, unspecified 7); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SI/CaSi-03Gro.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CA-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SI.html) · [Markdown](https://data.orchid-project.org/systems/CA-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 45 |
+| experimental | 42 |
 | model | 29 |
 | unspecified | 7 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 24 |
+| invariant reaction | 21 |
 | phase transition | 6 |
 | formation | 51 |
 
@@ -71,7 +71,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ca–Si system (24)
+Table: Invariant reactions reported in the literature for the Ca–Si system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -79,7 +79,6 @@ Table: Invariant reactions reported in the literature for the Ca–Si system (24
 | 1513.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 8; `ORC-ZCJD7ICEEG` |  |
 | 1509.15 | other: L + Ca2Si = Ca5Si3 | Ca2Si: Si 0.333333; Ca5Si3: Si 0.375 | model | [1] Gröbner 2003 | Table 2, p. 4, row 9; `ORC-IDTHQJREHU` |  |
 | 1508.15 | other: L = Ca5Si3 + CaSi | Ca5Si3: Si 0.375; CaSi: Si 0.5 | model | [1] Gröbner 2003 | Table 2, p. 4, row 11; `ORC-Y3T67CN5L7` |  |
-| 1503.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2; `ORC-5IF3R3R3QH.d70258` | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
 | 1503.15 | other: L = Ca5Si3 + CaSi | Ca5Si3: Si 0.375; CaSi: Si 0.5 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 10; `ORC-IX2WWYFAFN` |  |
 | 1358.15 | other: L + CaSi = Ca14Si19 | CaSi: Si 0.5; Ca14Si19: Si 0.575758 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 12; `ORC-NXYN7NLYT5` |  |
 | 1356.15 | other: L + CaSi = Ca14Si19 | CaSi: Si 0.5; Ca14Si19: Si 0.575758 | model | [1] Gröbner 2003 | Table 2, p. 4, row 13; `ORC-EQ6GOSCBAI` |  |
@@ -88,14 +87,12 @@ Table: Invariant reactions reported in the literature for the Ca–Si system (24
 | 1301.15 | other: L + Ca14Si19 = CaSi2 | Ca14Si19: Si 0.575758; CaSi2: Si 0.666667 | model | [1] Gröbner 2003 | Table 2, p. 4, row 16; `ORC-I66BPZ5SZE` |  |
 | 1297.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | model | [1] Gröbner 2003 | Table 2, p. 4, row 19; `ORC-WLVM54N6QS` |  |
 | 1296.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 17; `ORC-KG24MI3473` |  |
-| 1293.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2; `ORC-5IF3R3R3QH.4dc49d` | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
 | 1293.15 | other: L = CaSi2 + (Si) | CaSi2: Si 0.666667; (Si): Si 1 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 18; `ORC-ZK4F77VQQI` |  |
 | 1210.15 | other: CaSi + Ca14Si19 = Ca3Si4 | CaSi: Si 0.5; Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429 | model | [1] Gröbner 2003 | Table 2, p. 4, row 21; `ORC-ZHJDQR2XSP` |  |
 | 1183.15 | other: CaSi + Ca14Si19 = Ca3Si4 | CaSi: Si 0.5; Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 20; `ORC-LZYBUPL5S5` |  |
 | 1173.15 | other: Ca14Si19 = Ca3Si4 + CaSi2 | Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429; CaSi2: Si 0.666667 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 22; `ORC-U6MVAMWRG4` |  |
 | 1153.15 | other: Ca14Si19 = Ca3Si4 + CaSi2 | Ca14Si19: Si 0.575758; Ca3Si4: Si 0.571429; CaSi2: Si 0.666667 | model | [1] Gröbner 2003 | Table 2, p. 4, row 23; `ORC-R2Z74FXII3` |  |
 | 1071.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | model | [1] Gröbner 2003 | Table 2, p. 4, row 26; `ORC-KU5KZK7OAL` |  |
-| 1068.15 | eutectic |  | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | p. 2; `ORC-5IF3R3R3QH.a5da6e` | “Three eutectics occur in this system: at about 3.5 at% Si and 795 C, 42.5 at% Si and 1230 C, 72.0 at% Si and 1020 C.” |
 | 1068.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | experimental | [1] Gröbner 2003; _cites Manfrinetti 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900112-0) | Table 2, p. 4, row 25; `ORC-AYTXP27UWQ` |  |
 | 1055.15 | other: L = (βCa) + Ca2Si | Ca2Si: Si 0.333333 | experimental | [1] Gröbner 2003; _cites Schurmann 1975_ [doi](https://doi.org/10.1002/srin.197503664) | Table 2, p. 4, row 24; `ORC-JRAA64LBYX` |  |
 | 716.15 | other: (βCa) = (αCa); Ca2Si | Ca2Si: Si 0.333333 | model | [1] Gröbner 2003 | Table 2, p. 4, row 27; `ORC-5CTDDODGNS` |  |

@@ -1,10 +1,10 @@
 # Hg–Te system
 
-> Hg–Te system: 36 accepted literature values (phase equilibrium 11, formation 10, invariant reaction 8, phase transition 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hg–Te system: 34 accepted literature values (phase equilibrium 11, formation 10, invariant reaction 6, phase transition 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HG-TE.html · Markdown: https://data.orchid-project.org/systems/HG-TE.md
 
-36 accepted literature values from 2 paper(s) (experimental 21, model 10, unspecified 5); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+34 accepted literature values from 2 paper(s) (experimental 19, model 10, unspecified 5); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HG-TE.json) · [CSV](https://data.orchid-project.org/systems/HG-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-TE/HgTe-10Gie.json) · [phases (7)](https://data.orchid-project.org/phases/pages/HG-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HG-TE.html) · [Markdown](https://data.orchid-project.org/systems/HG-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
+| experimental | 19 |
 | model | 10 |
 | unspecified | 5 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
+| invariant reaction | 6 |
 | phase transition | 5 |
 | phase equilibrium | 11 |
 | formation | 10 |
@@ -50,16 +50,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hg–Te system (8)
+Table: Invariant reactions reported in the literature for the Hg–Te system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 684 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 9; `ORC-3WUBYWUD2R` |  |
-| 684 | eutectic |  | experimental | [1] Gierlotka 2010 | p. 2; `ORC-OFQFGWZRJU.7ee0a8` | “The system shows 2 invariant reactions: eutectic reaction between liquid, solid Hg and intermetallic compound HgTe at temperature 233 K and another eutectic between liquid, solid tellurium and intermetallic compound at 684 K.” |
 | 683 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 11; `ORC-GKCKR43FBI` |  |
 | 675 | HgTe + Te = L | HgTe: Te 0.5; Te: Te 1 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 12; `ORC-7HKZ6QY3BD` |  |
 | 234 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 2; `ORC-6VZTYAT7X5` |  |
-| 233 | eutectic |  | experimental | [1] Gierlotka 2010 | p. 2; `ORC-OFQFGWZRJU.61020f` | “The system shows 2 invariant reactions: eutectic reaction between liquid, solid Hg and intermetallic compound HgTe at temperature 233 K and another eutectic between liquid, solid tellurium and intermetallic compound at 684 K.” |
 | 233 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | experimental | [1] Gierlotka 2010; _cites Massalski 1986_ | Table 3, p. 4, row 1; `ORC-QUH6KVSAB4` |  |
 | 233 | Hg + HgTe = L | Hg: Te 0; HgTe: Te 0.5 | model | [1] Gierlotka 2010 | Table 3, p. 4, row 4; `ORC-ZEDGTT3OAD` |  |
 

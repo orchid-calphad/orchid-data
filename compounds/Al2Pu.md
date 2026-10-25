@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Al2Pu.html · Markdown: https://data.orchid-project.org/compounds/Al2Pu.md
 
-1 accepted literature formation-enthalpy value(s) (model 1).
+1 accepted literature formation-enthalpy value(s) (DFT 1).
 
 Systems: [Al–Pu](https://data.orchid-project.org/systems/AL-PU.html)
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Al2Pu reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -159.2 kJ/mol (basis unstated) | PuAl2 |  | model |  | [Al–Pu](https://data.orchid-project.org/systems/AL-PU.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.487c6e` |  |
+| -159.2 kJ/mol (basis unstated) | PuAl2 |  | DFT |  | [Al–Pu](https://data.orchid-project.org/systems/AL-PU.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.487c6e` |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Al2Pu
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -159.2 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -159.2 | kJ/mol (basis unstated) |  | 0.05 | 23.89 (dft, calibrated) |  |  |  | 23.89 |
 
 ## Sources
 

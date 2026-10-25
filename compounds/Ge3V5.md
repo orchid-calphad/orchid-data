@@ -31,8 +31,8 @@ Table: Uncertainty budget of the literature values of Ge3V5
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -47.7 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -45.9 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -44.3 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -45.9 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -44.3 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -45.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -43.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -41.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

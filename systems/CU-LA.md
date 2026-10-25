@@ -108,23 +108,23 @@ Table: Invariant reactions reported in the literature for the Cu–La system (19
 |---:|---|---|---|---|---|---|
 | 1147 | liq.+f.c.c.(Cu)->Cu37La3 | L: La 0.0873; Cu37La3: La 0.075 | model | [1] Du 1999 | Table 2, p. 4, row 1; `ORC-B64FX5USEF` |  |
 | 1146 | liq.+f.c.c.(Cu)->Cu37La3 | L: La 0.088; Cu37La3: La 0.075 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 2; `ORC-ZTHOHZL5YS` |  |
-| 1138 | liq.->Cu6La+f.c.c.(Cu) | L: La 0.009; Cu6La: La 0.142857 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 5; `ORC-4Y5W7XI6DU` |  |
-| 1137 | liq.->Cu6La+f.c.c.(Cu) | L: La 0.009; Cu6La: La 0.142857 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 4; `ORC-WB3HMYGUFX` |  |
-| 1135 | liq.->Cu37La3+βCu6La | L: La 0.0963; Cu37La3: La 0.075; βCu6La: La 0.142857 | model | [1] Du 1999 | Table 2, p. 4, row 3; `ORC-FQTVUVC5IZ` |  |
+| 1138 | eutectic: liq.->Cu6La+f.c.c.(Cu) | L: La 0.009; Cu6La: La 0.142857 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 5; `ORC-4Y5W7XI6DU` |  |
+| 1137 | eutectic: liq.->Cu6La+f.c.c.(Cu) | L: La 0.009; Cu6La: La 0.142857 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 4; `ORC-WB3HMYGUFX` |  |
+| 1135 | eutectic: liq.->Cu37La3+βCu6La | L: La 0.0963; Cu37La3: La 0.075; βCu6La: La 0.142857 | model | [1] Du 1999 | Table 2, p. 4, row 3; `ORC-FQTVUVC5IZ` |  |
 | 1093 | Cu37La3->f.c.c.(Cu)+βCu6La | Cu37La3: La 0.075; βCu6La: La 0.142857 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 7; `ORC-DMUJXCANBC` |  |
 | 1093 | Cu37La3->f.c.c.(Cu)+βCu6La | Cu37La3: La 0.075; βCu6La: La 0.142857 | model | [1] Du 1999 | Table 2, p. 4, row 6; `ORC-MJLEJWTDM3` |  |
 | 1078 | liq.+Cu6La->Cu5La | L: La 0.218; Cu6La: La 0.142857; Cu5La: La 0.166667 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 15; `ORC-UKHSEQQDLO` |  |
 | 1073 | liq.+Cu6La->Cu5La | L: La 0.22; Cu6La: La 0.142857; Cu5La: La 0.166667 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 14; `ORC-B2DTOT4RAV` |  |
 | 1073 | liq.+βCu6La->Cu5La | L: La 0.2175; βCu6La: La 0.142857; Cu5La: La 0.166667 | model | [1] Du 1999 | Table 2, p. 4, row 13; `ORC-G6OTAP4MY4` |  |
-| 1018 | liq.->Cu2La+Cu5La | L: La 0.245; Cu2La: La 0.333333; Cu5La: La 0.166667 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 20; `ORC-3Q4JZHC3BG` |  |
+| 1018 | eutectic: liq.->Cu2La+Cu5La | L: La 0.245; Cu2La: La 0.333333; Cu5La: La 0.166667 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 20; `ORC-3Q4JZHC3BG` |  |
 | 1016 | liq.+Cu5La->Cu4La | L: La 0.251; Cu5La: La 0.166667; Cu4La: La 0.2 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 17; `ORC-2OHSMM6M3D` |  |
 | 1015 | liq.+Cu5La->Cu4La | L: La 0.2418; Cu5La: La 0.166667; Cu4La: La 0.2 | model | [1] Du 1999 | Table 2, p. 4, row 16; `ORC-IB4GMMKTMQ` |  |
-| 1011 | liq.->Cu2La+Cu4La | L: La 0.2446; Cu2La: La 0.333333; Cu4La: La 0.2 | model | [1] Du 1999 | Table 2, p. 4, row 18; `ORC-5DWXLCYRIT` |  |
-| 1008 | liq.->Cu2La+Cu4La | L: La 0.255; Cu2La: La 0.333333; Cu4La: La 0.2 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 19; `ORC-7QPOR5YGDL` |  |
+| 1011 | eutectic: liq.->Cu2La+Cu4La | L: La 0.2446; Cu2La: La 0.333333; Cu4La: La 0.2 | model | [1] Du 1999 | Table 2, p. 4, row 18; `ORC-5DWXLCYRIT` |  |
+| 1008 | eutectic: liq.->Cu2La+Cu4La | L: La 0.255; Cu2La: La 0.333333; Cu4La: La 0.2 | experimental | [1] Du 1999; _cites Meyer-Liautaud 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990308-x) | Table 2, p. 4, row 19; `ORC-7QPOR5YGDL` |  |
 | 798 | liq.+Cu2La->CuLa | L: La 0.5909; Cu2La: La 0.333333; CuLa: La 0.5 | model | [1] Du 1999 | Table 2, p. 4, row 23; `ORC-5JC6ALTQ7J` |  |
 | 798 | liq.+Cu2La->CuLa | L: La 0.6; Cu2La: La 0.333333; CuLa: La 0.5 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 24; `ORC-LV5B26WHBP` |  |
-| 748 | liq.->CuLa+f.c.c.(La) | L: La 0.712; CuLa: La 0.5 | model | [1] Du 1999 | Table 2, p. 4, row 25; `ORC-BXQMNPA3Z4` |  |
-| 748 | liq.->CuLa+f.c.c.(La) | L: La 0.71; CuLa: La 0.5 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 26; `ORC-CD3BGC4MOK` |  |
+| 748 | eutectic: liq.->CuLa+f.c.c.(La) | L: La 0.712; CuLa: La 0.5 | model | [1] Du 1999 | Table 2, p. 4, row 25; `ORC-BXQMNPA3Z4` |  |
+| 748 | eutectic: liq.->CuLa+f.c.c.(La) | L: La 0.71; CuLa: La 0.5 | experimental | [1] Du 1999; _cites Cirafici 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990104-7) | Table 2, p. 4, row 26; `ORC-CD3BGC4MOK` |  |
 
 ## Other properties
 

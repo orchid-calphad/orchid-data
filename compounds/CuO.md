@@ -42,19 +42,19 @@ Table: Uncertainty budget of the literature values of CuO
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -80.855 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -80.855 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -80.54 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -78.535 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -78.535 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -77.885 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -77.885 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -77.74 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -77.74 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -76.15 | kJ/mol-atom |  | 0.025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -76.15 | kJ/mol-atom |  | 0.025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -69.08 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -69.08 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -80.855 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -80.855 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -80.54 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -78.535 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -78.535 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -77.885 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -77.885 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -77.74 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -77.74 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -76.15 | kJ/mol-atom |  | 0.025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -76.15 | kJ/mol-atom |  | 0.025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -69.08 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -69.08 | kJ/mol-atom |  | 0.0025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -78.03 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -78.03 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -77.595 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

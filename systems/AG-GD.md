@@ -1,10 +1,10 @@
 # Ag–Gd system
 
-> Ag–Gd system: 42 accepted literature values (invariant reaction 37, phase transition 4, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Gd system: 38 accepted literature values (invariant reaction 33, phase transition 4, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-GD.html · Markdown: https://data.orchid-project.org/systems/AG-GD.md
 
-42 accepted literature values from 2 paper(s) (experimental 28, model 14); 2 calculated phase diagram(s).
+38 accepted literature values from 2 paper(s) (experimental 24, model 14); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-GD.json) · [CSV](https://data.orchid-project.org/systems/AG-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-GD/AgGd-08Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-GD.html) · [Markdown](https://data.orchid-project.org/systems/AG-GD.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
+| experimental | 24 |
 | model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 37 |
+| invariant reaction | 33 |
 | phase transition | 4 |
 | other property | 1 |
 
@@ -65,7 +65,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Gd system (37)
+Table: Invariant reactions reported in the literature for the Ag–Gd system (33)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -82,14 +82,12 @@ Table: Invariant reactions reported in the literature for the Ag–Gd system (37
 | 1235.05 | congruent melting: L ↔ (Ag) | (Ag): Gd 0 | model | [1] Wang 2009 | Table 3, p. 4, row 27; `ORC-W6BEAJXRXE` |  |
 | 1233.65 | congruent melting: L ↔ (Ag) | (Ag): Gd 0 | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 3, p. 4, row 25; `ORC-DZ75AZ4SWC` |  |
 | 1103.15 | peritectic: L + Ag51Gd14 ↔ Ag2Gd | L: Gd 0.35; Ag51Gd14: Gd 0.25; Ag2Gd: Gd 0.333 | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 3, p. 4, row 15; `ORC-GJADGE63LD` |  |
-| 1103.15 | peritectic: L (35 at.% Gd) + Ag3 Gd ↔ Ag2 Gd |  | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | p. 1; `ORC-GLQACAKKII` | “Based on the thermal analysis, microscopical examination and X-ray diffraction, Kiessler et al. \[5\] firstly investigated the phase diagram in the Ag-Gd system and reported three intermetallic compounds (Ag3 Gd, Ag2 Gd and AgGd phases) and the peritectic reaction (L (35 at.% Gd) + Ag3 Gd ↔ Ag2 Gd at 830 ◦ C).” |
 | 1103.15 | peritectic: L + Ag51Gd14 ↔ Ag2Gd | L: Gd 0.35; Ag51Gd14: Gd 0.215; Ag2Gd: Gd 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 3, p. 4, row 16; `ORC-VUMSDCJP5W` |  |
 | 1103 | peritectic: L + Ag51Gd14 -> Ag2Gd | L: Gd 0.35; Ag51Gd14: Gd 0.215385; Ag2Gd: Gd 0.333333 | experimental | [2] Wang 2008; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 2, p. 3, row 5; `ORC-U3QV6EYCIC` |  |
 | 1101.75 | peritectic: L + Ag51Gd14 ↔ Ag2Gd | L: Gd 0.335; Ag51Gd14: Gd 0.215; Ag2Gd: Gd 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 17; `ORC-3375GBRQGO` |  |
 | 1099.75 | eutectic: L ↔ AgGd + Ag2Gd | L: Gd 0.347; AgGd: Gd 0.5; Ag2Gd: Gd 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 14; `ORC-TOEQ374STC` |  |
 | 1099 | peritectic: L + Ag51Gd14 -> Ag2Gd | L: Gd 0.3367; Ag51Gd14: Gd 0.215385; Ag2Gd: Gd 0.333333 | model | [2] Wang 2008 | Table 2, p. 3, row 6; `ORC-LXUPWBXUM4` |  |
 | 1098.15 | eutectic: L ↔ AgGd + Ag2Gd | L: Gd 0.37; AgGd: Gd 0.5; Ag2Gd: Gd 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 3, p. 4, row 13; `ORC-5ZHRNG3Z7S` |  |
-| 1098.15 | eutectic: L (37 at.% Gd) ↔ Ag2 Gd + AgGd |  | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | p. 1; `ORC-D54WE2IBPZ.de626f` | “Kiessler et al. \[5\] also reported the maximum solid solubility of Gd in the fcc (Ag) solution phase to be less than 2 at.% and determined three eutectic reactions: L (11 at.% Gd) ↔ (Ag) + Ag3 Gd at 780 ◦ C, L (37 at.% Gd) ↔ Ag2 Gd + AgGd at 825 ◦ C, and L (77.5 at.% Gd) ↔ AgGd + ␣Gd at 790 ◦ C.” |
 | 1098.15 | eutectic: L ↔ AgGd + Ag2Gd | L: Gd 0.37; AgGd: Gd 0.5; Ag2Gd: Gd 0.333 | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 3, p. 4, row 12; `ORC-JZOI5FP25Z` |  |
 | 1098 | eutectic: L -> Ag2Gd + AgGd | L: Gd 0.375; Ag2Gd: Gd 0.333333; AgGd: Gd 0.5 | experimental | [2] Wang 2008; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 2, p. 3, row 7; `ORC-3LRGP37UA5` |  |
 | 1098 | eutectic: L -> Ag2Gd + AgGd | L: Gd 0.3455; Ag2Gd: Gd 0.333333; AgGd: Gd 0.5 | model | [2] Wang 2008 | Table 2, p. 3, row 8; `ORC-N7EX2UVWDU` |  |
@@ -99,11 +97,9 @@ Table: Invariant reactions reported in the literature for the Ag–Gd system (37
 | 1066 | eutectic: L -> AgGd + Gd | L: Gd 0.71; AgGd: Gd 0.5 | model | [2] Wang 2008 | Table 2, p. 3, row 12; `ORC-RLC6XHWPPO` |  |
 | 1063.15 | eutectic: L ↔ αGd + AgGd | L: Gd 0.775; αGd: Gd 1; AgGd: Gd 0.5 | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 3, p. 4, row 6; `ORC-2LDUZHLZTP` |  |
 | 1063.15 | eutectic: L ↔ αGd + AgGd | L: Gd 0.775; αGd: Gd 1; AgGd: Gd 0.5 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 3, p. 4, row 7; `ORC-6YXZRZ7VJ2` |  |
-| 1063.15 | eutectic: L (77.5 at.% Gd) ↔ AgGd + ␣Gd |  | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | p. 1; `ORC-D54WE2IBPZ.be8b48` | “Kiessler et al. \[5\] also reported the maximum solid solubility of Gd in the fcc (Ag) solution phase to be less than 2 at.% and determined three eutectic reactions: L (11 at.% Gd) ↔ (Ag) + Ag3 Gd at 780 ◦ C, L (37 at.% Gd) ↔ Ag2 Gd + AgGd at 825 ◦ C, and L (77.5 at.% Gd) ↔ AgGd + ␣Gd at 790 ◦ C.” |
 | 1063 | eutectic: L -> AgGd + Gd | L: Gd 0.77; AgGd: Gd 0.5 | experimental | [2] Wang 2008; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 2, p. 3, row 11; `ORC-SCQDTP4JEY` |  |
 | 1059.45 | eutectic: L ↔ αGd + AgGd | L: Gd 0.753; αGd: Gd 1; AgGd: Gd 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 8; `ORC-MTHUHSUM7M` |  |
 | 1055 | eutectic: L -> Fcc(Ag) + Ag51Gd14 | L: Gd 0.087; Ag51Gd14: Gd 0.215385 | model | [2] Wang 2008 | Table 2, p. 3, row 2; `ORC-SUVA2YHGGB` |  |
-| 1053.15 | eutectic: L (11 at.% Gd) ↔ (Ag) + Ag3 Gd |  | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | p. 1; `ORC-D54WE2IBPZ.2f5ab5` | “Kiessler et al. \[5\] also reported the maximum solid solubility of Gd in the fcc (Ag) solution phase to be less than 2 at.% and determined three eutectic reactions: L (11 at.% Gd) ↔ (Ag) + Ag3 Gd at 780 ◦ C, L (37 at.% Gd) ↔ Ag2 Gd + AgGd at 825 ◦ C, and L (77.5 at.% Gd) ↔ AgGd + ␣Gd at 790 ◦ C.” |
 | 1053 | eutectic: L -> Fcc(Ag) + Ag51Gd14 | L: Gd 0.11; Ag51Gd14: Gd 0.215385 | experimental | [2] Wang 2008; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 2, p. 3, row 1; `ORC-5OMEOOHAKY` |  |
 | 1048.15 | eutectic: L ↔ Ag51Gd14 + (Ag) | L: Gd 0.11; Ag51Gd14: Gd 0.25 | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 3, p. 4, row 21; `ORC-IA7WBJZKMI` |  |
 

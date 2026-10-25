@@ -1,10 +1,10 @@
 # Bi–O system
 
-> Bi–O system: 86 accepted literature values (model expression 38, invariant reaction 21, formation 13, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–O system: 81 accepted literature values (model expression 38, invariant reaction 21, formation 11, heat capacity / entropy / enthalpy 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-O.html · Markdown: https://data.orchid-project.org/systems/BI-O.md
 
-86 accepted literature values from 1 paper(s) (experimental 77, model 8, unspecified 1); 1 calculated phase diagram(s).
+81 accepted literature values from 1 paper(s) (experimental 74, model 6, unspecified 1); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-O.json) · [CSV](https://data.orchid-project.org/systems/BI-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-O/BiO-95Ris-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/BI-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-O.html) · [Markdown](https://data.orchid-project.org/systems/BI-O.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 77 |
-| model | 8 |
+| experimental | 74 |
+| model | 6 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 21 |
-| phase transition | 8 |
-| formation | 13 |
+| phase transition | 5 |
+| formation | 11 |
 | heat capacity / entropy / enthalpy | 6 |
 | model expression | 38 |
 
@@ -78,12 +78,10 @@ Table: Invariant reactions reported in the literature for the Bi–O system (21)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Bi–O system (13)
+Table: Enthalpies of formation, Bi–O system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -573.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Ditte 1892_ | p. 5; `ORC-ZYDEPZEBBV.8a32b6` | “The enthalpy of formation of t~-Bi20 3 at 298 K was determined by solution calorimetry \[1892Dit, 09Mix\] and more recently by combustion calorimetry \[61Mah\]. It also was derived from emf measurements \[71Rao, 73Cha, 78Cah, 84Ito, 84Sch\] and mass spectrometry data \[80Sid\]. These results are listed in Table 6. The values from measurements at higher temperatures are relatively scattered, but they are…” |
-| — |  | -570.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | p. 5; `ORC-ZYDEPZEBBV.433200` | “The enthalpy of formation of t~-Bi20 3 at 298 K was determined by solution calorimetry \[1892Dit, 09Mix\] and more recently by combustion calorimetry \[61Mah\]. It also was derived from emf measurements \[71Rao, 73Cha, 78Cah, 84Ito, 84Sch\] and mass spectrometry data \[80Sid\]. These results are listed in Table 6. The values from measurements at higher temperatures are relatively scattered, but they are…” |
 | α-Bi2O3 |  | -590.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 8; `ORC-OV4327JKMU` |  |
 | α-Bi2O3 |  | -587.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Sidorov 1980_ | Table 6, p. 5, row 4; `ORC-J4DSL4K7B4` |  |
 | α-Bi2O3 |  | -581.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Cahen 1978_ | Table 6, p. 5, row 7; `ORC-OJPGWWQJFA` |  |
@@ -98,7 +96,7 @@ Table: Enthalpies of formation, Bi–O system (13)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (5)
 
 Table: Phase transition, Bi–O system
 
@@ -109,9 +107,6 @@ Table: Phase transition, Bi–O system
 | Phase transition | 1098 K | 1098 | congruent melting: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | experimental | [1] Risold 1995; _cites Levin 1965_ [doi](https://doi.org/10.6028/jres.069a.023) | Table I, p. 3, row 2; `ORC-CI2KUOR57N` |  |
 | Phase transition | 1098 K | 1098 | congruent melting: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | model | [1] Risold 1995 | Table I, p. 3, row 5; `ORC-YCR2QBEFCJ` |  |
 | Phase transition | 1101 K | 1101 | congruent melting: L2 -> δ-Bi2O3 (melting point of Bi2O3); _L2: O 0.6; δ-Bi2O3: O 0.6_ | experimental | [1] Risold 1995; _cites Cubicciotti 1967_ [doi](https://doi.org/10.1021/je60035a021) | Table I, p. 3, row 3; `ORC-ANZLVWHAYC` |  |
-| Phase transition | 1668 K | 1668 | Critical point | experimental | [1] Risold 1995; _cites B 1979_ | Table I, p. 3, row 27; `ORC-FX4JKTI6SC` |  |
-| Phase transition | 1677 K | 1677 | Critical point | model | [1] Risold 1995 | Table I, p. 3, row 28; `ORC-7W2K7HA5OX` |  |
-| Phase transition | 1950 K | 1950 | other | model | [1] Risold 1995 | p. 11; `ORC-NJKRNCYIBA` | “An experimental verification of the azeotropic boiling point at 1950 K is desirable.” |
 
 ### Heat capacity / entropy / enthalpy (6)
 

@@ -1,10 +1,10 @@
 # Fe–Pb system
 
-> Fe–Pb system: 28 accepted literature values (phase transition 15, invariant reaction 13) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Pb system: 11 accepted literature values (invariant reaction 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-PB.html · Markdown: https://data.orchid-project.org/systems/FE-PB.md
 
-28 accepted literature values from 1 paper(s) (experimental 6, model 22); 2 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (model 11); 2 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-PB.json) · [CSV](https://data.orchid-project.org/systems/FE-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-PB/FePb-11Vaa.json) · [phases (5)](https://data.orchid-project.org/phases/pages/FE-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-PB.html) · [Markdown](https://data.orchid-project.org/systems/FE-PB.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 22 |
+| model | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 13 |
-| phase transition | 15 |
+| invariant reaction | 11 |
 
 ## Calculated phase diagrams
 
@@ -61,7 +59,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Pb system (13)
+Table: Invariant reactions reported in the literature for the Fe–Pb system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -76,32 +74,6 @@ Table: Invariant reactions reported in the literature for the Fe–Pb system (13
 | 1184.81 | polymorphic: fcc + L2 -> bcc + L2 | fcc: Pb 0; L2: Pb 0.9996 | model | [1] Vaajamo 2011; _cites Hamalainen 1990_ | Table 3, p. 5, row 9; `ORC-VB5AGKNYRF` |  |
 | 1184.8 | polymorphic: fcc + L2 -> bcc + L2 | fcc: Pb 1.000e-5; L2: Pb 0.99981 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 11; `ORC-FCXVEEOE5C` |  |
 | 1184.8 | polymorphic: fcc + L2 -> bcc + L2 | L2: Pb 0.9998 | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 10; `ORC-LGQ4AQVS3N` |  |
-| 600.6 | eutectic |  | model | [1] Vaajamo 2011 | p. 5; `ORC-DIVWY3TSZR.e0b91c` | “The assessed monotectic temperature of 1809.6 K, the monotectic composition of 0.071 at.% Pb, the allotropic transformation temperatures, 1667.5 K and 1184.8 K, and the eutectic temperature of 600.6 K differ less than 1 K from the previous assessments by Onderka et al. \[4\] and Hämäläinen et al. \[6\], even though the experimental data used in this study were a bit different.” |
-| 600 | eutectic |  | experimental | [1] Vaajamo 2011 | p. 2; `ORC-QFJEEZRZBQ.5db0bc` | “The monotectic temperature was determined to be 1798 K and the eutectic temperature, 600 K.” |
-
-## Other properties
-
-### Phase transition (15)
-
-Table: Phase transition, Fe–Pb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 600 K | 600 |  | experimental | [1] Vaajamo 2011; _cites Isaac 1907_ [doi](https://doi.org/10.1002/zaac.19070550104) | p. 2; `ORC-3MPK7MSYLW.5922ce` | “They also measured cooling curves for Fe-Pb melts containing 10, 20, 60, 80 and 90 wt.% Pb (2.9, 6.3, 28.8, 51.9 and 70.8 at.% Pb) from 1873 K and determined the melting points of Fe and Pb to be 1800 ± 5 K and 600 ± 1 K, respectively.” |
-| Phase transition | 600.612 K | 600.612 |  | experimental | [1] Vaajamo 2011; _cites Preston-Thomas 1976_ | p. 1; `ORC-6WKEFQ3DM7` | “The freezing point for Pb is 600.612 K according to IPTS-68 \[2\] taking into account the correction in ITS-90 \[3\].” |
-| Phase transition | 600.612 K | 600.612 |  | model | [1] Vaajamo 2011; _cites MTDATAPhase 2011_ | p. 1; `ORC-ZEFHU4UUJD.16f68b` | “According to SGTE Pure Element Transition Data \[1\] the melting point for pure Fe is 1810.94 K and that for pure Pb is 600.612 K.” |
-| Phase transition | 1183 K | 1183 | Fe(γ) -> Fe(α) | model | [1] Vaajamo 2011; _cites Miller 1960_ | p. 2; `ORC-DQTUBHPURN.719fec` | “The Fe(␦) → Fe(␥) transformation temperature was estimated to be 1673 K and the Fe(␥) → Fe(␣) to be 1183 K.” |
-| Phase transition | 1184.8 K | 1184.8 | polymorphic | model | [1] Vaajamo 2011 | p. 5; `ORC-DIVWY3TSZR.152355` | “The assessed monotectic temperature of 1809.6 K, the monotectic composition of 0.071 at.% Pb, the allotropic transformation temperatures, 1667.5 K and 1184.8 K, and the eutectic temperature of 600.6 K differ less than 1 K from the previous assessments by Onderka et al. \[4\] and Hämäläinen et al. \[6\], even though the experimental data used in this study were a bit different.” |
-| Phase transition | 1667.5 K | 1667.5 | polymorphic | model | [1] Vaajamo 2011 | p. 5; `ORC-DIVWY3TSZR.cc062f` | “The assessed monotectic temperature of 1809.6 K, the monotectic composition of 0.071 at.% Pb, the allotropic transformation temperatures, 1667.5 K and 1184.8 K, and the eutectic temperature of 600.6 K differ less than 1 K from the previous assessments by Onderka et al. \[4\] and Hämäläinen et al. \[6\], even though the experimental data used in this study were a bit different.” |
-| Phase transition | 1673 K | 1673 | Fe(δ) -> Fe(γ) | model | [1] Vaajamo 2011; _cites Miller 1960_ | p. 2; `ORC-DQTUBHPURN.994c80` | “The Fe(␦) → Fe(␥) transformation temperature was estimated to be 1673 K and the Fe(␥) → Fe(␣) to be 1183 K.” |
-| Phase transition | 1798 K | 1798 | other | experimental | [1] Vaajamo 2011 | p. 2; `ORC-QFJEEZRZBQ.231a08` | “The monotectic temperature was determined to be 1798 K and the eutectic temperature, 600 K.” |
-| Phase transition | 1800 K | 1800 |  | experimental | [1] Vaajamo 2011; _cites Isaac 1907_ [doi](https://doi.org/10.1002/zaac.19070550104) | p. 2; `ORC-3MPK7MSYLW.16931c` | “They also measured cooling curves for Fe-Pb melts containing 10, 20, 60, 80 and 90 wt.% Pb (2.9, 6.3, 28.8, 51.9 and 70.8 at.% Pb) from 1873 K and determined the melting points of Fe and Pb to be 1800 ± 5 K and 600 ± 1 K, respectively.” |
-| Phase transition | 1808 K | 1808 | other | model | [1] Vaajamo 2011; _cites Miller 1960_ | p. 2; `ORC-7K3634QHV5` | “Miller and Elliot \[7\] estimated the monotectic temperature to be 1808 K, 1 K below the melting point of pure iron.” |
-| Phase transition | 1809.6 K | 1809.6 | other | model | [1] Vaajamo 2011 | p. 5; `ORC-DIVWY3TSZR.89338a` | “The assessed monotectic temperature of 1809.6 K, the monotectic composition of 0.071 at.% Pb, the allotropic transformation temperatures, 1667.5 K and 1184.8 K, and the eutectic temperature of 600.6 K differ less than 1 K from the previous assessments by Onderka et al. \[4\] and Hämäläinen et al. \[6\], even though the experimental data used in this study were a bit different.” |
-| Phase transition | 1810.94 K | 1810.94 |  | model | [1] Vaajamo 2011; _cites MTDATAPhase 2011_ | p. 1; `ORC-ZEFHU4UUJD.4a054a` | “According to SGTE Pure Element Transition Data \[1\] the melting point for pure Fe is 1810.94 K and that for pure Pb is 600.612 K.” |
-| Phase transition | 2022 K | 2022 | other | experimental | [1] Vaajamo 2011 | p. 1; `ORC-DQ7PMLDEW7` | “Lead has a high vapor pressure and its boiling point at 1 atm is 2022 K.” |
-| Phase transition | 3900 K | 3900 | other | model | [1] Vaajamo 2011; _cites Wypartowicz 1995_ | p. 2; `ORC-QI3MAAN2JE` | “He also calculated the upper consolute temperature of the miscibility gap to be at 3900 K.” |
-| Phase transition | 4277 K | 4277 | other | model | [1] Vaajamo 2011 | p. 5; `ORC-H7IAVMMDQE` | “The critical point of the liquid miscibility gap was calculated to be at 4277 K.” |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Te–Tl system
 
-> Te–Tl system: 58 accepted literature values (invariant reaction 29, formation 22, phase transition 4, other property 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Te–Tl system: 57 accepted literature values (invariant reaction 29, formation 22, other property 3, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TE-TL.html · Markdown: https://data.orchid-project.org/systems/TE-TL.md
 
-58 accepted literature values from 2 paper(s) (experimental 24, model 30, unspecified 4); 0 calculated phase diagram(s).
+57 accepted literature values from 2 paper(s) (experimental 24, model 29, unspecified 4); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TE-TL.json) · [CSV](https://data.orchid-project.org/systems/TE-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TE-TL) · [phases (10)](https://data.orchid-project.org/phases/pages/TE-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TE-TL.html) · [Markdown](https://data.orchid-project.org/systems/TE-TL.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 24 |
-| model | 30 |
+| model | 29 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 29 |
-| phase transition | 4 |
+| phase transition | 3 |
 | formation | 22 |
 | other property | 3 |
 
@@ -93,13 +93,12 @@ Table: Enthalpies of formation, Te–Tl system (19)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (3)
 
 Table: Phase transition, Te–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 577 K | 577 | polymorphic | model | [2] Gierlotka 2010; _cites PURE_ | p. 2; `ORC-PHNN4AQNZ4` | “Moreover, thallium has an allotropic transformation at 577 K, and its structure changes from HCP_A3 to BCC_A2.” |
 | Phase transition | 692 K | 692 | L = TeTl2; _L: Te 0.333333; TeTl2: Te 0.333333_ | model | [2] Gierlotka 2010 | Table III, p. 5, row 9; `ORC-EQ3JRGHBSV` |  |
 | Phase transition | 727.8 K | 727.8 | L = Te3Tl5; _L: Te 0.375; Te3Tl5: Te 0.375_ | model | [2] Gierlotka 2010 | Table III, p. 5, row 7; `ORC-SHJOVEHGNX` |  |
 | Phase transition | 728 K | 728 | L = Te3Tl5; _L: Te 0.375; Te3Tl5: Te 0.375_ | experimental | [2] Gierlotka 2010; _cites Okamoto 2000_ [doi](https://doi.org/10.1361/105497100770339833) | Table III, p. 5, row 8; `ORC-NFJAJ7RF5F` |  |

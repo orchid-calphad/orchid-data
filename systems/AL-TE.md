@@ -1,10 +1,10 @@
 # Al–Te system
 
-> Al–Te system: 37 accepted literature values (invariant reaction 17, formation 9, crystal structure 8, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Te system: 33 accepted literature values (invariant reaction 14, formation 9, crystal structure 8, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-TE.html · Markdown: https://data.orchid-project.org/systems/AL-TE.md
 
-37 accepted literature values from 1 paper(s) (experimental 25, model 12); 2 calculated phase diagram(s).
+33 accepted literature values from 1 paper(s) (experimental 21, model 12); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TE.json) · [CSV](https://data.orchid-project.org/systems/AL-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TE/AlTe-19Shi.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AL-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-TE.html) · [Markdown](https://data.orchid-project.org/systems/AL-TE.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
+| experimental | 21 |
 | model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
-| phase transition | 3 |
+| invariant reaction | 14 |
+| phase transition | 2 |
 | formation | 9 |
 | crystal structure | 8 |
 
@@ -56,7 +56,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Te system (17)
+Table: Invariant reactions reported in the literature for the Al–Te system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -66,14 +66,11 @@ Table: Invariant reactions reported in the literature for the Al–Te system (17
 | 1128.65 | syntectic: L1 + L2 -> AlTe | L1: Te 0.157; L2: Te 0.522; AlTe: Te 0.5 | model | [1] Shi 2019 | Table 7, p. 10, row 6; `ORC-GIU7GUYSFJ` |  |
 | 1120.35 | eutectic: L2 -> AlTe + βAl2Te3 | L2: Te 0.565; AlTe: Te 0.5; βAl2Te3: Te 0.6 | model | [1] Shi 2019 | Table 7, p. 10, row 8; `ORC-LFUFBLNLUP` |  |
 | 1119.45 | eutectic: L2 -> AlTe + βAl2Te3 | L2: Te 0.568; AlTe: Te 0.5; βAl2Te3: Te 0.6 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 7; `ORC-TQUFXV4FUE` |  |
-| 1116.15 | monotectic: L2 ? L1? Al2Te3 |  | experimental | [1] Shi 2019 | p. 4; `ORC-4NTWIZ6NQ4.d2863f` | “Three monotectic reactions, L2 ? L1? Al2Te3, L1 ? (Al) ? Al2Te3, and L2 ? Al2Te3? (Te), were found to exist at about 843 C and 54 ± 1 at.% Te, about 651 C and 2 ± 1 at.% Te, and about 432 C and 90 ± 1 at.% Te.” |
 | 933.25 | eutectic: L1 -> (Al) + AlTe | L1: Te 1.000e-4; (Al): Te 0; AlTe: Te 0.5 | model | [1] Shi 2019 | Table 7, p. 10, row 4; `ORC-BRQ44OR6OQ` |  |
-| 924.15 | monotectic: L1 ? (Al) ? Al2Te3 |  | experimental | [1] Shi 2019 | p. 4; `ORC-4NTWIZ6NQ4.db9ba8` | “Three monotectic reactions, L2 ? L1? Al2Te3, L1 ? (Al) ? Al2Te3, and L2 ? Al2Te3? (Te), were found to exist at about 843 C and 54 ± 1 at.% Te, about 651 C and 2 ± 1 at.% Te, and about 432 C and 90 ± 1 at.% Te.” |
 | 922.15 | eutectic: L1 -> (Al) + AlTe | L1: Te 1.000e-4; (Al): Te 0; AlTe: Te 0.5 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 3; `ORC-MUS6JGE2OL` |  |
 | 738.15 | peritectic: αAl2Te3 + L2 -> Al2Te5 | αAl2Te3: Te 0.6; L2: Te 0.875; Al2Te5: Te 0.714 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 11; `ORC-NIMF6SUIB5` |  |
 | 735.85 | peritectic: αAl2Te3 + L2 -> Al2Te5 | αAl2Te3: Te 0.6; L2: Te 0.884; Al2Te5: Te 0.714 | model | [1] Shi 2019 | Table 7, p. 10, row 12; `ORC-FHZMGXBIST` |  |
 | 708.15 | eutectic: L2 -> Al2Te5 + (Te) | L2: Te 0.882; Al2Te5: Te 0.714; (Te): Te 1 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 9; `ORC-ZAOCBOHBGG` |  |
-| 705.15 | monotectic: L2 ? Al2Te3? (Te) |  | experimental | [1] Shi 2019 | p. 4; `ORC-4NTWIZ6NQ4.7f13df` | “Three monotectic reactions, L2 ? L1? Al2Te3, L1 ? (Al) ? Al2Te3, and L2 ? Al2Te3? (Te), were found to exist at about 843 C and 54 ± 1 at.% Te, about 651 C and 2 ± 1 at.% Te, and about 432 C and 90 ± 1 at.% Te.” |
 | 699.45 | eutectic: L2 -> Al2Te5 + (Te) | L2: Te 0.919; Al2Te5: Te 0.714; (Te): Te 1 | model | [1] Shi 2019 | Table 7, p. 10, row 10; `ORC-QGICA6VXRE` |  |
 | 688.15 | eutectoid: Al2Te5 -> αAl2Te3 + (Te) | Al2Te5: Te 0.714; αAl2Te3: Te 0.6; (Te): Te 1 | experimental | [1] Shi 2019; _cites Kniep 1988_ [doi](https://doi.org/10.1515/znb-1988-0209) | Table 7, p. 10, row 13; `ORC-SBPLGT3XQE` |  |
 | 681.55 | eutectoid: Al2Te5 -> αAl2Te3 + (Te) | Al2Te5: Te 0.714; αAl2Te3: Te 0.6; (Te): Te 1 | model | [1] Shi 2019 | Table 7, p. 10, row 14; `ORC-2DXROSVVDB` |  |
@@ -86,9 +83,9 @@ Table: Enthalpies of formation, Al–Te system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -85.9 kJ/mol-atom | 298.15 | model |  |  | [1] Shi 2019 | p. 9; `ORC-LSZHEMOJES.54584b` | “However, the enthalpy of formation of bAl2Te3 at 25 C obtained in this work (-85.9 kJ/mol-atoms) is less negative than experimental results (-63.8 kJ/mol-atoms\[46\] and \[47\] -52.0 kJ/mol-atoms ).” |
-| — |  | -63.8 kJ/mol-atom | 298.15 | experimental |  |  | [1] Shi 2019; _cites Joel 1967_ | p. 9; `ORC-LSZHEMOJES.05987d` | “However, the enthalpy of formation of bAl2Te3 at 25 C obtained in this work (-85.9 kJ/mol-atoms) is less negative than experimental results (-63.8 kJ/mol-atoms\[46\] and \[47\] -52.0 kJ/mol-atoms ).” |
-| — |  | -52 kJ/mol-atom | 298.15 | experimental |  |  | [1] Shi 2019; _cites Balducci 1997_ | p. 9; `ORC-LSZHEMOJES.47b988` | “However, the enthalpy of formation of bAl2Te3 at 25 C obtained in this work (-85.9 kJ/mol-atoms) is less negative than experimental results (-63.8 kJ/mol-atoms\[46\] and \[47\] -52.0 kJ/mol-atoms ).” |
+| Al2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -85.9 kJ/mol-atom | 298.15 | model | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019 | p. 9; `ORC-LSZHEMOJES.54584b` | “However, the enthalpy of formation of bAl2Te3 at 25 C obtained in this work (-85.9 kJ/mol-atoms) is less negative than experimental results (-63.8 kJ/mol-atoms\[46\] and \[47\] -52.0 kJ/mol-atoms ).” |
+| Al2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -63.8 kJ/mol-atom | 298.15 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Joel 1967_ | p. 9; `ORC-LSZHEMOJES.05987d` | “However, the enthalpy of formation of bAl2Te3 at 25 C obtained in this work (-85.9 kJ/mol-atoms) is less negative than experimental results (-63.8 kJ/mol-atoms\[46\] and \[47\] -52.0 kJ/mol-atoms ).” |
+| Al2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -52 kJ/mol-atom | 298.15 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Balducci 1997_ | p. 9; `ORC-LSZHEMOJES.47b988` | “However, the enthalpy of formation of bAl2Te3 at 25 C obtained in this work (-85.9 kJ/mol-atoms) is less negative than experimental results (-63.8 kJ/mol-atoms\[46\] and \[47\] -52.0 kJ/mol-atoms ).” |
 | Al2Te5 | [Al2Te5](https://data.orchid-project.org/compounds/Al2Te5.html) | -59.1 kJ/mol-atom | 298.15 | model | -60.423 (mp-aaaaanry) | -31.742 (oqmd-1795930) | [1] Shi 2019 | Table 3, p. 3, row 20; `ORC-GMBDFTC6KC.9a3c2c` |  |
 | AlTe | [AlTe](https://data.orchid-project.org/compounds/AlTe.html) | -87.6 kJ/mol-atom | 298.15 | model |  | -37.082 (oqmd-1374663) | [1] Shi 2019 | Table 3, p. 3, row 19; `ORC-EAIHRLMSOO.8f51c6` |  |
 | βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -85.9 kJ/mol-atom | 298.15 | model | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019 | Table 3, p. 3, row 18; `ORC-OAPDX5SKYL.bedb52` |  |
@@ -98,7 +95,7 @@ Table: Enthalpies of formation, Al–Te system (9)
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, Al–Te system
 
@@ -106,7 +103,6 @@ Table: Phase transition, Al–Te system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1138.55 K | 1138.55 | Al2Te3 | model | [1] Shi 2019 | p. 9; `ORC-VTQNTWXAV4.f6fc56` | “The calculated melting temperature of Al2Te3 is 865.4 C, slightly lower than the experimental value (903.0 C).\[35\]” |
 | Phase transition | 1176.15 K | 1176.15 | Al2Te3 | experimental | [1] Shi 2019; _cites Said 2019_ | p. 9; `ORC-VTQNTWXAV4.fad826` | “The calculated melting temperature of Al2Te3 is 865.4 C, slightly lower than the experimental value (903.0 C).\[35\]” |
-| Phase transition | 1230.15 K | 1230.15 |  | experimental | [1] Shi 2019; _cites Said 2019_ | p. 4; `ORC-4NTWIZ6NQ4.dc193b` | “The liquid miscibility gap was observed at 957 ± 8 C and 41 ± 5 at.% Te.\[35\]” |
 
 ### Crystal structure (8)
 

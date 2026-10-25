@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-LI-ZR.html · Markdown: https://data.orchid-project.org/systems/AL-LI-ZR.md
 
-7 accepted literature values from 1 paper(s) (model 4, unspecified 3); 0 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (model 3, DFT 1, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LI-ZR.json) · [CSV](https://data.orchid-project.org/systems/AL-LI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LI-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-LI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/AL-LI-ZR.md)
 
@@ -12,7 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 4 |
+| model | 3 |
+| DFT | 1 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
@@ -31,7 +32,7 @@ Table: Enthalpies of formation, Al–Li–Zr system (2)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | AlLi2Zr |  | -3.8946 kJ/mol (basis unstated) |  | model |  |  | [1] Long 2020 | Table 6, p. 15, row 1; `ORC-7CHFBJN2T2.f88881` |  |
-| AlLi2Zr |  | -3.4662 kJ/mol (basis unstated) |  | model |  |  | [1] Long 2020 | Table 6, p. 15, row 1; `ORC-7CHFBJN2T2.3bb404` |  |
+| AlLi2Zr |  | -3.4662 kJ/mol (basis unstated) |  | DFT |  |  | [1] Long 2020 | Table 6, p. 15, row 1; `ORC-7CHFBJN2T2.3bb404` |  |
 
 ## Other properties
 

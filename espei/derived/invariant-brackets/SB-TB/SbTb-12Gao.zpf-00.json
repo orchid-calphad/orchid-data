@@ -461,7 +461,7 @@
     "x0": 0.008,
     "hyperplane_delta": 0.004,
     "reaction_printed": "L -> (Sb) + Sb2Tb",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -480,7 +480,7 @@
     "x0": 0.008,
     "hyperplane_delta": 0.004,
     "reaction_printed": "L -> (Sb) + Sb2Tb",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -613,7 +613,7 @@
     "x0": 0.86,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (α-Tb) + Sb3Tb5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -632,7 +632,7 @@
     "x0": 0.86,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (α-Tb) + Sb3Tb5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

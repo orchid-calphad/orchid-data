@@ -1,10 +1,10 @@
 # Ga–Zn system
 
-> Ga–Zn system: 52 accepted literature values (phase equilibrium 32, phase transition 7, invariant reaction 7, crystal structure 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Zn system: 50 accepted literature values (phase equilibrium 32, phase transition 7, crystal structure 6, invariant reaction 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-ZN.html · Markdown: https://data.orchid-project.org/systems/GA-ZN.md
 
-52 accepted literature values from 3 paper(s) (experimental 45, model 1, unspecified 6); 2 calculated phase diagram(s).
+50 accepted literature values from 1 paper(s) (experimental 43, model 1, unspecified 6); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-ZN.json) · [CSV](https://data.orchid-project.org/systems/GA-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-ZN/GaZn-00Mat.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GA-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-ZN.html) · [Markdown](https://data.orchid-project.org/systems/GA-ZN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 45 |
+| experimental | 43 |
 | model | 1 |
 | unspecified | 6 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 7 |
+| invariant reaction | 5 |
 | phase transition | 7 |
 | phase equilibrium | 32 |
 | crystal structure | 6 |
@@ -40,17 +40,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ga–Zn system (7)
+Table: Invariant reactions reported in the literature for the Ga–Zn system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 298.55 | eutectic: L -> (Ga) + (Zn) | L: Zn 0.037; (Ga): Zn 0 | experimental | [1] Dutkiewicz 1990; _cites ref. 58Heu_ | Table I, p. 1, row 2; `ORC-YE6XGXHZDM` |  |
 | 298.15 | eutectic: L -> (Ga) + (Zn) | L: Zn 0.053; (Ga): Zn 0 | experimental | [1] Dutkiewicz 1990; _cites ref. 32Pus_ | Table I, p. 1, row 1; `ORC-4EFLEOSDNO` |  |
-| 298.15 | eutectic |  | experimental | [2] Ghasemi 2015 | p. 2; `ORC-EHH5CETSSW` | “The eutectic reaction occurs at 298 K and about 4.0 at.% Zn.” |
 | 298.15 | eutectic: L -> (Ga) + (Zn) | L: Zn 0.037; (Ga): Zn 0 | experimental | [1] Dutkiewicz 1990; _cites Shurai 1976_ | Table I, p. 1, row 4; `ORC-EPAZOLZEBZ` |  |
 | 298.15 | eutectic: L -> (Ga) + (Zn) | L: Zn 0.037; (Ga): Zn 0 | experimental | [1] Dutkiewicz 1990; _cites ref. 63Del_ | Table I, p. 1, row 3; `ORC-LCGAMNBJNN` |  |
 | 297.82 | eutectic: L -> (Ga) + (Zn) | L: Zn 0.0387; (Ga): Zn 0 | model | [1] Dutkiewicz 1990 | Table I, p. 1, row 5; `ORC-RJBHXIWRV5` |  |
-| 297.3 | eutectic |  | experimental | [3] Mathon 2000 | p. 6; `ORC-O6G26UJICD.41fc7b` | “The melting temperature of Ga at 303 K and the Al-Ga binary eutectic at 298.5 K and the Ga-Zn eutectic at 297.3 K, lead to the appearance of two-phases and three-phases fields.” |
 
 ## Other properties
 
@@ -125,8 +123,6 @@ Table: Crystal structure, Ga–Zn system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. J. Dutkiewicz, Z. Moser, L. Zabdyr, D. D. Gohil, T. G. Chart, I. Ansara et al., The Ga-Zn (Gallium-Zinc) system, Bulletin of Alloy Phase Diagrams 11, 77-82 (1990). [doi:10.1007/bf02841587](https://doi.org/10.1007/bf02841587)
-2. Masoomeh Ghasemi, Jonas Johansson, Thermodynamic assessment of the As–Zn and As–Ga–Zn systems, Journal of Alloys and Compounds 638, 95-102 (2015). [doi:10.1016/j.jallcom.2015.03.051](https://doi.org/10.1016/j.jallcom.2015.03.051)
-3. M. Mathon, K. Jardet, E. Aragon, P. Satre, A. Sebaoun, Al-Ga-Zn System: Reassessments of the Three Binary Systems and Discussion on Possible Estimations and on Optimisation of the Ternary System, Calphad 24, 253-284 (2000). [doi:10.1016/s0364-5916(01)00004-9](https://doi.org/10.1016/s0364-5916%2801%2900004-9)
 
 ## Please cite
 

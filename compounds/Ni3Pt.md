@@ -28,9 +28,9 @@ Table: Uncertainty budget of the literature values of Ni3Pt
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -10.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -8.75 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -8.27 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -6.57 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -8.75 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -8.27 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -6.57 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

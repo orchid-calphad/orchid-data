@@ -28,9 +28,9 @@ Table: Uncertainty budget of the literature values of PbYb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -65 | kJ/mol-atom | 2 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -64 | kJ/mol-atom | 2.5 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -57 | kJ/mol-atom | 1 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -65 | kJ/mol-atom | 2 | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -64 | kJ/mol-atom | 2.5 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -57 | kJ/mol-atom | 1 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -62.59 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -62.16 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 

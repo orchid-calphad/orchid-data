@@ -1,10 +1,10 @@
 # Li–Si system
 
-> Li–Si system: 144 accepted literature values (invariant reaction 78, crystal structure 31, mixing / partial 24, phase transition 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Si system: 132 accepted literature values (invariant reaction 69, crystal structure 31, mixing / partial 24, phase transition 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-SI.html · Markdown: https://data.orchid-project.org/systems/LI-SI.md
 
-144 accepted literature values from 4 paper(s) (experimental 87, model 57); 3 calculated phase diagram(s).
+132 accepted literature values from 4 paper(s) (experimental 84, model 48); 3 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-SI.json) · [CSV](https://data.orchid-project.org/systems/LI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-SI/LiSi-13Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/LI-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-SI.html) · [Markdown](https://data.orchid-project.org/systems/LI-SI.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 87 |
-| model | 57 |
+| experimental | 84 |
+| model | 48 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 78 |
-| phase transition | 11 |
+| invariant reaction | 69 |
+| phase transition | 8 |
 | mixing / partial | 24 |
 | crystal structure | 31 |
 
@@ -92,26 +92,26 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Li–Si system (78)
+Table: Invariant reactions reported in the literature for the Li–Si system (69)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1033 | L ↔ Li2Si | L: Li 0.666667, Si 0.333333; Li2Si: Li 0.666667, Si 0.333333 | experimental | [1] Liang 2017; _cites Obinata 1965_ | Table 4, p. 4, row 41; `ORC-ULOG27IZJG` |  |
-| 1027 | L ↔ Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 4, row 42; `ORC-AXXX4WKIFW` |  |
-| 1026.6 | L -> Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 5, row 1; `ORC-XJFADOZ6VV` |  |
-| 1025 | L ↔ Li2Si | L: Li 0.666667, Si 0.333333; Li2Si: Li 0.666667, Si 0.333333 | experimental | [1] Liang 2017; _cites Bo_ | Table 4, p. 4, row 40; `ORC-65UY5A2UF2` |  |
-| 1023.2 | L -> Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 2; `ORC-ZU24FGZOU4` |  |
-| 1023.1 | L -> Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017 | Table 4, p. 5, row 3; `ORC-PERKRHOXOH` |  |
-| 1023 | L ↔ Li2Si | L: Li 0.666667, Si 0.333333; Li2Si: Li 0.666667, Si 0.333333 | experimental | [1] Liang 2017; _cites Pell 1959_ | Table 4, p. 4, row 39; `ORC-MADWW3YIH6` |  |
-| 1017 | L ↔ Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | experimental | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 43; `ORC-AZRR5JRCRC` |  |
-| 1006 | L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017 | Table 4, p. 4, row 33; `ORC-CFLD3SGTOP` |  |
-| 1005.1 | L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 4, row 31; `ORC-J3WWW44Z2L` |  |
+| 1033 | congruent melting: L ↔ Li2Si | L: Li 0.666667, Si 0.333333; Li2Si: Li 0.666667, Si 0.333333 | experimental | [1] Liang 2017; _cites Obinata 1965_ | Table 4, p. 4, row 41; `ORC-ULOG27IZJG` |  |
+| 1027 | congruent melting: L ↔ Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 4, row 42; `ORC-AXXX4WKIFW` |  |
+| 1026.6 | congruent melting: L -> Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 5, row 1; `ORC-XJFADOZ6VV` |  |
+| 1025 | congruent melting: L ↔ Li2Si | L: Li 0.666667, Si 0.333333; Li2Si: Li 0.666667, Si 0.333333 | experimental | [1] Liang 2017; _cites Bo_ | Table 4, p. 4, row 40; `ORC-65UY5A2UF2` |  |
+| 1023.2 | congruent melting: L -> Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 2; `ORC-ZU24FGZOU4` |  |
+| 1023.1 | congruent melting: L -> Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017 | Table 4, p. 5, row 3; `ORC-PERKRHOXOH` |  |
+| 1023 | congruent melting: L ↔ Li2Si | L: Li 0.666667, Si 0.333333; Li2Si: Li 0.666667, Si 0.333333 | experimental | [1] Liang 2017; _cites Pell 1959_ | Table 4, p. 4, row 39; `ORC-MADWW3YIH6` |  |
+| 1017 | congruent melting: L ↔ Li7Si3 | L: Li 0.7, Si 0.3; Li7Si3: Li 0.7, Si 0.3 | experimental | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 43; `ORC-AZRR5JRCRC` |  |
+| 1006 | congruent melting: L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017 | Table 4, p. 4, row 33; `ORC-CFLD3SGTOP` |  |
+| 1005.1 | congruent melting: L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 4, row 31; `ORC-J3WWW44Z2L` |  |
 | 1005 | eutectic: L = L13Si4 + L7Si3 | L: Si 0.243; L13Si4: Si 0.235294; L7Si3: Si 0.3 | model | [2] Wang 2013 | Table 2, p. 6, row 4; `ORC-6B3NSUXFNV` |  |
 | 1004.82 | L ↔ Li13Si4 + Li7Si3 | L: Si 0.243; Li13Si4: Li 0.764706, Si 0.235294; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 4, row 36; `ORC-3NW2D67OPD` |  |
 | 999.7 | L ↔ Li13Si4 + Li7Si3 | L: Si 0.258; Li13Si4: Li 0.764706, Si 0.235294; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017 | Table 4, p. 4, row 38; `ORC-EKNYT24QO7` |  |
-| 995 | L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 4, row 30; `ORC-BCOJGMZ5WW` |  |
-| 993 | L ↔ Li4Si | L: Li 0.8, Si 0.2; Li4Si: Li 0.8, Si 0.2 | experimental | [1] Liang 2017; _cites Pell 1959_ | Table 4, p. 4, row 29; `ORC-A2W4SHK66H` |  |
-| 984.7 | L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 32; `ORC-R2SE72DJ46` |  |
+| 995 | congruent melting: L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 4, row 30; `ORC-BCOJGMZ5WW` |  |
+| 993 | congruent melting: L ↔ Li4Si | L: Li 0.8, Si 0.2; Li4Si: Li 0.8, Si 0.2 | experimental | [1] Liang 2017; _cites Pell 1959_ | Table 4, p. 4, row 29; `ORC-A2W4SHK66H` |  |
+| 984.7 | congruent melting: L ↔ Li13Si4 | L: Li 0.764706, Si 0.235294; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 32; `ORC-R2SE72DJ46` |  |
 | 984.3 | L ↔ Li13Si4 + Li7Si3 | L: Si 0.242; Li13Si4: Li 0.764706, Si 0.235294; Li7Si3: Li 0.7, Si 0.3 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 37; `ORC-MRY34OXGBF` |  |
 | 982 | L ↔ Li13Si4 + Li7Si3 | L: Si 0.26; Li13Si4: Li 0.764706, Si 0.235294; Li7Si3: Li 0.7, Si 0.3 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 4, row 35; `ORC-EN5ZVNCJTJ` |  |
 | 976 | L + Li2Si ↔ Li21Si8 |  | experimental | [1] Liang 2017; _cites Sharma 1976_ [doi](https://doi.org/10.1149/1.2132692) | Table 4, p. 4, row 34; `ORC-2TWWGNCZ4X` |  |
@@ -119,16 +119,14 @@ Table: Invariant reactions reported in the literature for the Li–Si system (78
 | 956.6 | L + Li13Si4 ↔ Li22Si5 | L: Si 0.148; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 4, row 27; `ORC-JZBUOOZARO` |  |
 | 925 | peritectic: L + L7Si3 = L12Si7 | L: Si 0.425; L7Si3: Si 0.3; L12Si7: Si 0.368421 | model | [2] Wang 2013 | Table 2, p. 6, row 6; `ORC-6XFGKEG3C6` |  |
 | 924.6 | L + Li7Si3 -> Li12Si7 | L: Si 0.425; Li7Si3: Li 0.7, Si 0.3; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 5, row 9; `ORC-X5VLUAEB2J` |  |
-| 923 | L -> Li2Si + (Si) | L: Si 0.39 | experimental | [1] Liang 2017; _cites Obinata 1965_ | Table 4, p. 5, row 5; `ORC-E32UP46ZY4` |  |
+| 923 | eutectic: L -> Li2Si + (Si) | L: Si 0.39 | experimental | [1] Liang 2017; _cites Obinata 1965_ | Table 4, p. 5, row 5; `ORC-E32UP46ZY4` |  |
 | 921 | L + Li7Si3 -> Li12Si7 | L: Si 0.39; Li7Si3: Li 0.7, Si 0.3; Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 5, row 7; `ORC-SRVLSL5N6S` |  |
 | 913 | L + Li2Si ↔ Li4Si |  | experimental | [1] Liang 2017; _cites Obinata 1965_ | Table 4, p. 4, row 15; `ORC-7WQAZ4QZSK` |  |
 | 913 | L + Li7Si3 -> Li12Si7 | Li7Si3: Li 0.7, Si 0.3; Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 8; `ORC-A47PJVQQEM` |  |
 | 911 | L + Li7Si3 -> Li12Si7 | L: Si 0.395; Li7Si3: Li 0.7, Si 0.3; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017 | Table 4, p. 5, row 11; `ORC-DPEBGKVRIW` |  |
-| 911 | peritectic |  | model | [1] Liang 2017 | p. 13; `ORC-EV3OKLNY7Z.742c17` | “The calculated congruent melting point of Li7Si3 and the temperature of Liquid þ Li7Si3 4 Li12Si7 peritectic reaction are calculated to be 1023 K and 911 K respectively, close to the values of 1023 K and 909 K calculated by Braga et al. \[5\].” |
 | 909.4 | L + Li7Si3 -> Li12Si7 | L: Si 0.403; Li7Si3: Li 0.7, Si 0.3; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 10; `ORC-LJ3DXSL4RC` |  |
-| 909 | peritectic |  | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | p. 13; `ORC-EV3OKLNY7Z.4631c6` | “The calculated congruent melting point of Li7Si3 and the temperature of Liquid þ Li7Si3 4 Li12Si7 peritectic reaction are calculated to be 1023 K and 911 K respectively, close to the values of 1023 K and 909 K calculated by Braga et al. \[5\].” |
-| 908 | L -> Li2Si + (Si) |  | experimental | [1] Liang 2017; _cites Sharma 1976_ [doi](https://doi.org/10.1149/1.2132692) | Table 4, p. 5, row 6; `ORC-X5B6VV7WQY` |  |
-| 908 | L -> Li2Si + (Si) | L: Si 0.394 | experimental | [1] Liang 2017; _cites Bo_ | Table 4, p. 5, row 4; `ORC-XPN6GDBJEY` |  |
+| 908 | eutectic: L -> Li2Si + (Si) |  | experimental | [1] Liang 2017; _cites Sharma 1976_ [doi](https://doi.org/10.1149/1.2132692) | Table 4, p. 5, row 6; `ORC-X5B6VV7WQY` |  |
+| 908 | eutectic: L -> Li2Si + (Si) | L: Si 0.394 | experimental | [1] Liang 2017; _cites Bo_ | Table 4, p. 5, row 4; `ORC-XPN6GDBJEY` |  |
 | 906 | L + Li2Si ↔ Li4Si |  | experimental | [1] Liang 2017; _cites Bo_ | Table 4, p. 4, row 14; `ORC-CF35MIBG3Q` |  |
 | 902.2 | L + Li13Si4 ↔ Li4.13Si | L: Si 0.146; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 22; `ORC-NHQ3DPEMW2` |  |
 | 901 | L + Li13Si4 ↔ Li22Si5 | L: Si 0.18; Li13Si4: Li 0.764706, Si 0.235294 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 4, row 16; `ORC-5TDMN65RBF` |  |
@@ -139,19 +137,15 @@ Table: Invariant reactions reported in the literature for the Li–Si system (78
 | 891 | L + Li13Si4 ↔ Li4.11Si | Li13Si4: Li 0.764706, Si 0.235294 | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 4, p. 4, row 18; `ORC-BM53V36OOK` |  |
 | 891 | L + Li15Si4 ↔ Li22Si5 | Li15Si4: Li 0.789474, Si 0.210526 | experimental | [1] Liang 2017; _cites Sharma 1976_ [doi](https://doi.org/10.1149/1.2132692) | Table 4, p. 4, row 17; `ORC-EAU3QOSHSM` |  |
 | 889.2 | L + Li4.13Si ↔ Li21Si5 | L: Si 0.133; Li21Si5: Li 0.804114, Si 0.195886 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 28; `ORC-WLJOJOZH3R` |  |
-| 883 | peritectic: Liquid + Li13Si4 M Li21Si5 |  | experimental | [3] Braga 2014; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | p. 11; `ORC-7XQPJCCZEB.f7aeb9` | “Conversely, the formation of Li21Si5 justifies the peak occurring at 883 K (temperature at which it forms after peritectic reaction Liquid + Li13Si4 M Li21Si5) and at 743 K (temperature at which it decomposes to form Li17Si4 and Li4.13Si) while the stability of Li4.13Si is justified by the all the XRD patterns in \[22\].” |
 | 880 | L + Li4.13Si ↔ Li21Si5 (?) | Li21Si5 (?): Li 0.804114, Si 0.195886 | experimental | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 26; `ORC-T5AUUCF64Y` |  |
-| 865.1 | L -> Li12Si7 + (Si) | L: Si 0.441; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017 | Table 4, p. 5, row 18; `ORC-DG7BX3PDQD` |  |
-| 865 | eutectic: L ↔ (Si) + Li12Si7 |  | model | [1] Liang 2017 | p. 13; `ORC-T4KJ6LWQ2U.0ffddb` | “In the present work, the temperature of the eutectic invariant reaction L 4 (Si) þ Li12Si7 is calculated at 865 K, in good agreement with the experimental data by van der Marel et al. \[61\], but slightly higher than calculated value of 857 K by Braga et al. and their scattering experimental data \[5\], as shown in Fig. 8e.” |
-| 865 | L -> Li12Si7 + (Si) | L: Si 0.43; Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 5, row 13; `ORC-T57RF32JT2` |  |
-| 863 | L -> Li12Si7 + (Si) | Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites Evers 1993_ [doi](https://doi.org/10.1002/anie.199314421) | Table 4, p. 5, row 14; `ORC-STD2RPBLRI` |  |
-| 863 | L -> LixSi + (Si) | L: Si 0.42; LixSi: Li 0.5, Si 0.5 | experimental | [1] Liang 2017; _cites Pell 1959_ | Table 4, p. 5, row 12; `ORC-VNWKXDIKRM` |  |
-| 861.4 | L -> Li12Si7 + (Si) | L: Si 0.485; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 5, row 16; `ORC-GPDDJCRFFD` |  |
+| 865.1 | eutectic: L -> Li12Si7 + (Si) | L: Si 0.441; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017 | Table 4, p. 5, row 18; `ORC-DG7BX3PDQD` |  |
+| 865 | eutectic: L -> Li12Si7 + (Si) | L: Si 0.43; Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites C 1985_ | Table 4, p. 5, row 13; `ORC-T57RF32JT2` |  |
+| 863 | eutectic: L -> Li12Si7 + (Si) | Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites Evers 1993_ [doi](https://doi.org/10.1002/anie.199314421) | Table 4, p. 5, row 14; `ORC-STD2RPBLRI` |  |
+| 863 | eutectic: L -> LixSi + (Si) | L: Si 0.42; LixSi: Li 0.5, Si 0.5 | experimental | [1] Liang 2017; _cites Pell 1959_ | Table 4, p. 5, row 12; `ORC-VNWKXDIKRM` |  |
+| 861.4 | eutectic: L -> Li12Si7 + (Si) | L: Si 0.485; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.06.003) | Table 4, p. 5, row 16; `ORC-GPDDJCRFFD` |  |
 | 861 | eutectic: L = L12Si7 + (Li) | L: Si 0.485; L12Si7: Si 0.368421 | model | [2] Wang 2013 | Table 2, p. 6, row 7; `ORC-2YMOHVVKT3` |  |
-| 861 | eutectic: L = (Si) + Li12Si7 |  | model | [2] Wang 2013 | p. 6; `ORC-AA7WMWAG2J` | “In the present work, the temperature of the eutectic invariant reaction L 1⁄4 (Si) þ Li12Si7 was considered a more accurate value, calculated at 861 K in good agreement with the data by van der Marel et al. \[16\].” |
-| 860 | L -> Li12Si7 + (Si) | Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 15; `ORC-EQM7QJXKKW` |  |
-| 857 | L -> Li12Si7 + (Si) | L: Si 0.453; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 17; `ORC-GR2WMPVYXC` |  |
-| 857 | eutectic: L ↔ (Si) + Li12Si7 |  | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | p. 13; `ORC-T4KJ6LWQ2U.9374f9` | “In the present work, the temperature of the eutectic invariant reaction L 4 (Si) þ Li12Si7 is calculated at 865 K, in good agreement with the experimental data by van der Marel et al. \[61\], but slightly higher than calculated value of 857 K by Braga et al. and their scattering experimental data \[5\], as shown in Fig. 8e.” |
+| 860 | eutectic: L -> Li12Si7 + (Si) | Li12Si7: Li 0.631579, Si 0.368421 | experimental | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 15; `ORC-EQM7QJXKKW` |  |
+| 857 | eutectic: L -> Li12Si7 + (Si) | L: Si 0.453; Li12Si7: Li 0.631579, Si 0.368421 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 17; `ORC-GR2WMPVYXC` |  |
 | 804 | L + Li4.11Si ↔ Li17Si4 | Li17Si4: Li 0.809524, Si 0.190476 | experimental | [1] Liang 2017; _cites Thomas 2015_ [doi](https://doi.org/10.1016/j.jct.2015.01.004) | Table 4, p. 4, row 6; `ORC-DCEV5M7VWK` |  |
 | 803.6 | L + Li4.11Si ↔ Li17Si4 | L: Si 0.075; Li17Si4: Li 0.809524, Si 0.190476 | model | [1] Liang 2017 | Table 4, p. 4, row 9; `ORC-GFYE4MNYV7` |  |
 | 800 | L + Li4.11Si ↔ Li17Si4 | Li17Si4: Li 0.809524, Si 0.190476 | experimental | [1] Liang 2017; _cites Thomas 2015_ [doi](https://doi.org/10.1016/j.jct.2015.01.004) | Table 4, p. 4, row 7; `ORC-Y3D5YAHCVW` |  |
@@ -160,14 +154,11 @@ Table: Invariant reactions reported in the literature for the Li–Si system (78
 | 773.4 | Li4.11Si ↔ Li17Si4+ Li13Si4 | Li17Si4: Li 0.809524, Si 0.190476; Li13Si4: Li 0.764706, Si 0.235294 | model | [1] Liang 2017 | Table 4, p. 4, row 13; `ORC-3WHHUIQYB5` |  |
 | 768 | L + Li4.11Si ↔ Li17Si4 | Li17Si4: Li 0.809524, Si 0.190476 | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 4, p. 4, row 4; `ORC-64CNZHQMGC` |  |
 | 768 | Li4.11Si ↔ Li17Si4+ Li13Si4 | Li17Si4: Li 0.809524, Si 0.190476; Li13Si4: Li 0.764706, Si 0.235294 | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 4, p. 4, row 11; `ORC-EUHMC34LFG` |  |
-| 768 | peritectic |  | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | p. 13; `ORC-LYBIE56KO7` | “The peritectic formation reaction of Li17Si4 is prone to supercooling, which is consistent with the much lower value of 768 K from DSC-data on cooling \[7\].” |
 | 758 | Li12Si7 + (Si) -> LiSi | Li12Si7: Li 0.631579, Si 0.368421; LiSi: Li 0.5, Si 0.5 | experimental | [1] Liang 2017; _cites Evers 1997_ | Table 4, p. 5, row 20; `ORC-QBHGBED3AH` |  |
 | 757.4 | L + Li21Si5 ↔ Li17Si4 | L: Si 0.041; Li21Si5: Li 0.804114, Si 0.195886; Li17Si4: Li 0.809524, Si 0.190476 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 8; `ORC-B6WBD5TCGX` |  |
-| 757.4 | peritectic |  | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | p. 13; `ORC-K3YKDTINKT` | “Braga et al. \[5\] assess an even lower value of 757.4 K for the peritectic equilibrium of Li17Si4.” |
 | 757.2 | Li12Si7 + (Si) -> LiSi | Li12Si7: Li 0.631579, Si 0.368421; LiSi: Li 0.5, Si 0.5 | model | [1] Liang 2017 | Table 4, p. 5, row 23; `ORC-ANCYRC2PEH` |  |
 | 757 | Li12Si7 + (Si) -> LiSi | Li12Si7: Li 0.631579, Si 0.368421; LiSi: Li 0.5, Si 0.5 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 5, row 22; `ORC-Y5G7MK73CM` |  |
 | 756 | Li12Si7 + (Si) -> LiSi | Li12Si7: Li 0.631579, Si 0.368421; LiSi: Li 0.5, Si 0.5 | experimental | [1] Liang 2017; _cites Tang 2013_ [doi](https://doi.org/10.1149/2.089308jes) | Table 4, p. 5, row 21; `ORC-PXOGSMK4Z2` |  |
-| 743 | peritectoid |  | model | [2] Wang 2013; _cites Okamoto 2009_ [doi](https://doi.org/10.1007/s11669-008-9431-8) | p. 2; `ORC-TSCXLNKFSV` | “In the recently assessed phase diagram of Ref. \[22\], the LiSi phase was included as a stable phase with a peritectoid equilibrium at 743 K (470 C).” |
 | 743 | Li12Si7 + (Si) -> LiSi | Li12Si7: Li 0.631579, Si 0.368421; LiSi: Li 0.5, Si 0.5 | experimental | [1] Liang 2017; _cites Evers 1993_ [doi](https://doi.org/10.1002/anie.199314421) | Table 4, p. 5, row 19; `ORC-WCSPRCBIOJ` |  |
 | 727.9 | Li21Si5 ↔ Li4.13Si + Li17Si4 | Li21Si5: Li 0.804114, Si 0.195886; Li17Si4: Li 0.809524, Si 0.190476 | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | Table 4, p. 4, row 12; `ORC-QK2IF3FADK` |  |
 | 453.6 | L ↔ (Li) + Li17Si4 | L: Si 8.000e-5; Li17Si4: Li 0.809524, Si 0.190476 | model | [1] Liang 2017 | Table 4, p. 4, row 3; `ORC-5GVOWZGASZ` |  |
@@ -177,21 +168,18 @@ Table: Invariant reactions reported in the literature for the Li–Si system (78
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (8)
 
 Table: Phase transition, Li–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 216.5 K | 216.5 | Li7Si3 | experimental | [2] Wang 2013 | p. 3; `ORC-YWBAJ7DP4G` | “The heat capacity measurements reveal a small phase transition of Li7Si3 at 216.5 K.” |
-| Phase transition | 743 K | 743 |  | experimental | [3] Braga 2014; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | p. 11; `ORC-7XQPJCCZEB.e8b07a` | “Conversely, the formation of Li21Si5 justifies the peak occurring at 883 K (temperature at which it forms after peritectic reaction Liquid + Li13Si4 M Li21Si5) and at 743 K (temperature at which it decomposes to form Li17Si4 and Li4.13Si) while the stability of Li4.13Si is justified by the all the XRD patterns in \[22\].” |
-| Phase transition | 803.6 K | 803.6 |  | model | [1] Liang 2017 | p. 13; `ORC-UYXRKWX7T2` | “For Li17Si4 we assess 803.6 K, in excellent agreement with the original experimental DSC-data on heating \[7,50\] and DSCCp-data \[50\], see Table 4 and Fig. 8d.” |
 | Phase transition | 922 K | 922 | congruent melting | model | [1] Liang 2017 | p. 11; `ORC-X5PPYYA4AV` | “The Li-rich side of the present calculation labeled with all the invariant reaction temperatures is shown in Fig. 8b; superimposed as pink dash-dot lines are the metastable liquidus lines of Li15Si4, exhibiting the metastable congruent melting point at 922 K, and the metastable extension of the liquidus line of (Si).” |
 | Phase transition | 985 K | 985 | congruent transformation | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | p. 13; `ORC-LMWZGRARPP.17f52c` | “For the congruent melting point of Li13Si4 we assess 1006 K, as opposed to 985 K \[5\].” |
 | Phase transition | 1005 K | 1005 | congruent melting: L = L13Si4; _L: Si 0.235294; L13Si4: Si 0.235294_ | model | [2] Wang 2013 | Table 2, p. 6, row 3; `ORC-BRVWTAHGWD` |  |
 | Phase transition | 1005 K | 1005 | congruent transformation | model | [2] Wang 2013 | p. 6; `ORC-RB3P7IRSMD.39d1d8` | “The other more accurate value considered in our assessment is the congruent melting temperature for Li7Si3, calculated at 1027 K, and possibly that of Li13Si4 at 1005 K.” |
 | Phase transition | 1006 K | 1006 | congruent transformation | model | [1] Liang 2017 | p. 13; `ORC-LMWZGRARPP.8aee24` | “For the congruent melting point of Li13Si4 we assess 1006 K, as opposed to 985 K \[5\].” |
-| Phase transition | 1023 K | 1023 | congruent transformation | model | [1] Liang 2017 | p. 13; `ORC-EV3OKLNY7Z.203122` | “The calculated congruent melting point of Li7Si3 and the temperature of Liquid þ Li7Si3 4 Li12Si7 peritectic reaction are calculated to be 1023 K and 911 K respectively, close to the values of 1023 K and 909 K calculated by Braga et al. \[5\].” |
 | Phase transition | 1027 K | 1027 | congruent melting: L = L7Si3; _L: Si 0.3; L7Si3: Si 0.3_ | model | [2] Wang 2013 | Table 2, p. 6, row 5; `ORC-TEJNXA7JSF` |  |
 | Phase transition | 1027 K | 1027 | congruent transformation | model | [2] Wang 2013 | p. 6; `ORC-RB3P7IRSMD.aa7471` | “The other more accurate value considered in our assessment is the congruent melting temperature for Li7Si3, calculated at 1027 K, and possibly that of Li13Si4 at 1005 K.” |
 

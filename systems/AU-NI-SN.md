@@ -1,10 +1,10 @@
 # Au–Ni–Sn system
 
-> Au–Ni–Sn system: 139 accepted literature values (phase equilibrium 83, phase transition 28, invariant reaction 28) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ni–Sn system: 137 accepted literature values (phase equilibrium 83, phase transition 28, invariant reaction 26) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-NI-SN.html · Markdown: https://data.orchid-project.org/systems/AU-NI-SN.md
 
-139 accepted literature values from 2 paper(s) (experimental 79, model 60); 0 calculated phase diagram(s).
+137 accepted literature values from 2 paper(s) (experimental 78, model 59); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-NI-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-NI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-NI-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-NI-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-NI-SN.md)
 
@@ -12,20 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 79 |
-| model | 60 |
+| experimental | 78 |
+| model | 59 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 28 |
+| invariant reaction | 26 |
 | phase transition | 28 |
 | phase equilibrium | 83 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Ni–Sn system (28)
+Table: Invariant reactions reported in the literature for the Au–Ni–Sn system (26)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -40,8 +40,6 @@ Table: Invariant reactions reported in the literature for the Au–Ni–Sn syste
 | 802.55 | peritectic: L + fcc \<=> hcp + SnAu10 (P8) | L: Au 0.793, Ni 5.000e-4 | model | [2] Liu 2005 | Table V, p. 10, row 9; `ORC-I3AFNKVEBC` |  |
 | 802.15 | quasi-peritectic: L + Fcc -> Au10Sn + Hcp | L: Au 0.7921, Ni 0.001 | model | [1] Dong 2013 | Table 3, p. 10, row 4; `ORC-HEOKJDZRR6` |  |
 | 718.45 | peritectic: L + Sn2Ni3 \<=> Sn4Ni3 + SnAu (P7) | L: Au 0.257, Ni 0.0064 | model | [2] Liu 2005 | Table V, p. 10, row 8; `ORC-CRCNPQBSXF` |  |
-| 695.15 | peritectic |  | experimental | [2] Liu 2005; _cites Neumann 1995_ [doi](https://doi.org/10.1016/0022-4596%2895%2980021-g) | p. 4; `ORC-HNPJPW4PR6.51a22f` | “The present DSC results show that this peritectic reaction occurs at 422°C, which is in good agreement with the data reported by Neumann et al.19” |
-| 695.15 | peritectic |  | model | [2] Liu 2005 | p. 7; `ORC-KS3NUWMQVK` | “Figure 6d shows the calculated vertical section including the Sn4AuNi2 ternary compound. It is seen that the ternary compound is stable until 422°C, at which a peritectic reaction occurs.” |
 | 694.85 | peritectic: L + Sn2Ni3 + Sn4Ni3 \<=> Sn4AuNi2 (P6) | L: Au 0.242, Ni 0.0054 | model | [2] Liu 2005 | Table V, p. 10, row 7; `ORC-SXQYMM57E4` |  |
 | 693.39 | peritectic: L + Ni3Sn4 + Ni3Sn2 -> τ | L: Au 0.2379, Ni 0.0027 | model | [1] Dong 2013 | Table 3, p. 10, row 11; `ORC-55CWEBSTF2` |  |
 | 693.15 | peritectic: L Sn4Ni3 Sn2Ni3 ↔ Sn4AuNi2 |  | experimental | [2] Liu 2005; _cites Neumann 1995_ [doi](https://doi.org/10.1016/0022-4596%2895%2980021-g) | p. 4; `ORC-HNPJPW4PR6.d1f64d` | “Neumann et al. studied the crystal structure of the Sn4AuNi2 compound, and reported that it is stable up to 420°C, at which temperature it undergoes the peritectic reaction (L Sn4Ni3 Sn2Ni3 ↔ Sn4AuNi2).19” |

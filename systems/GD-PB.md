@@ -1,10 +1,10 @@
 # Gd–Pb system
 
-> Gd–Pb system: 38 accepted literature values (invariant reaction 27, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Pb system: 32 accepted literature values (invariant reaction 22, phase transition 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-PB.html · Markdown: https://data.orchid-project.org/systems/GD-PB.md
 
-38 accepted literature values from 2 paper(s) (experimental 19, model 19); 2 calculated phase diagram(s).
+32 accepted literature values from 2 paper(s) (experimental 13, model 19); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-PB.json) · [CSV](https://data.orchid-project.org/systems/GD-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-PB/GdPb-13Cui.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GD-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-PB.html) · [Markdown](https://data.orchid-project.org/systems/GD-PB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
+| experimental | 13 |
 | model | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
-| phase transition | 11 |
+| invariant reaction | 22 |
+| phase transition | 10 |
 
 ## Calculated phase diagrams
 
@@ -74,64 +74,58 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Gd–Pb system (27)
+Table: Invariant reactions reported in the literature for the Gd–Pb system (22)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1733.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-WM6CS6POXO.8b0272` | “The compounds Gd5Pb4, Gd11Pb10, Gd6Pb7, GdPb2 and GdPb3 are formed by peritectic reaction at 1460 °C, 1225 °C, 1160 °C, 1010 °C and 969 °C, respectively.” |
-| 1733 | liq.+Gd5Pb3 -> βGd5Pb4 | Gd5Pb3: Pb 0.375; βGd5Pb4: Pb 0.444444 | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 16; `ORC-2THBXMFTWY` |  |
-| 1733 | liq.+Gd5Pb3 -> βGd5Pb4 | Gd5Pb3: Pb 0.375; βGd5Pb4: Pb 0.444444 | model | [2] Cui 2013 | Table 1, p. 2, row 17; `ORC-ALUA4WHWSC` |  |
-| 1498.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-WM6CS6POXO.30363f` | “The compounds Gd5Pb4, Gd11Pb10, Gd6Pb7, GdPb2 and GdPb3 are formed by peritectic reaction at 1460 °C, 1225 °C, 1160 °C, 1010 °C and 969 °C, respectively.” |
-| 1498 | liq.+αGd5Pb4 -> Gd11Pb10 | L: Pb 0.6345; αGd5Pb4: Pb 0.444444; Gd11Pb10: Pb 0.47619 | model | [2] Cui 2013 | Table 1, p. 2, row 24; `ORC-56ZQ3EU7ZV` |  |
-| 1498 | liq.+αGd5Pb4 -> Gd11Pb10 | L: Pb 0.5609; αGd5Pb4: Pb 0.444444; Gd11Pb10: Pb 0.47619 | model | [2] Cui 2013 | Table 1, p. 2, row 23; `ORC-ELQ6UJGDON` |  |
-| 1498 | liq.+αGd5Pb4 -> Gd11Pb10 | L: Pb 0.56; αGd5Pb4: Pb 0.444444; Gd11Pb10: Pb 0.47619 | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 22; `ORC-FEHXGIKSW7` |  |
-| 1485 | βGd -> αGd+liq. | βGd: Pb 0.0044; αGd: Pb 1.000e-4; L: Pb 0.0048 | model | [2] Cui 2013 | Table 1, p. 2, row 9; `ORC-ECJGGKSTT4` |  |
-| 1485 | βGd -> αGd+liq. | βGd: Pb 0.0709; αGd: Pb 0; L: Pb 4.000e-4 | model | [2] Cui 2013 | Table 1, p. 2, row 8; `ORC-QJW2Y6I5CP` |  |
-| 1485 | βGd -> αGd+liq. | βGd: Pb 0.02; αGd: Pb 0; L: Pb 0.08 | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 7; `ORC-QPNPVQ46MK` |  |
-| 1433.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-WM6CS6POXO.c2240a` | “The compounds Gd5Pb4, Gd11Pb10, Gd6Pb7, GdPb2 and GdPb3 are formed by peritectic reaction at 1460 °C, 1225 °C, 1160 °C, 1010 °C and 969 °C, respectively.” |
-| 1433 | liq.+Gd11Pb10 -> Gd6Pb7 | L: Pb 0.59; Gd11Pb10: Pb 0.47619; Gd6Pb7: Pb 0.538462 | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 25; `ORC-EYL4CLAJBX` |  |
-| 1433 | liq.+Gd11Pb10 -> Gd6Pb7 | L: Pb 0.5883; Gd11Pb10: Pb 0.47619; Gd6Pb7: Pb 0.538462 | model | [2] Cui 2013 | Table 1, p. 2, row 26; `ORC-FYZFLRFRE3` |  |
-| 1433 | liq.+Gd11Pb10 -> Gd6Pb7 | L: Pb 0.6587; Gd11Pb10: Pb 0.47619; Gd6Pb7: Pb 0.538462 | model | [2] Cui 2013 | Table 1, p. 2, row 27; `ORC-NCEUMHDJNA` |  |
-| 1393 | liq. -> αGd+Gd5Pb3 | L: Pb 0.0947; αGd: Pb 1.000e-4; Gd5Pb3: Pb 0.375 | model | [2] Cui 2013 | Table 1, p. 2, row 12; `ORC-GAVOCBHGAH` |  |
-| 1393 | liq. -> αGd+Gd5Pb3 | L: Pb 0.1673; αGd: Pb 0; Gd5Pb3: Pb 0.375 | model | [2] Cui 2013 | Table 1, p. 2, row 11; `ORC-RADX6FO5E3` |  |
-| 1393 | liq. -> αGd+Gd5Pb3 | L: Pb 0.145; αGd: Pb 0; Gd5Pb3: Pb 0.375 | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 10; `ORC-TCABTU3SLA` |  |
-| 1283.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-WM6CS6POXO.aab777` | “The compounds Gd5Pb4, Gd11Pb10, Gd6Pb7, GdPb2 and GdPb3 are formed by peritectic reaction at 1460 °C, 1225 °C, 1160 °C, 1010 °C and 969 °C, respectively.” |
-| 1283 | liq.+Gd6Pb7 -> GdPb2 | L: Pb 0.7203; Gd6Pb7: Pb 0.538462; GdPb2: Pb 0.666667 | model | [2] Cui 2013 | Table 1, p. 2, row 30; `ORC-7L6QMRCJC6` |  |
-| 1283 | liq.+Gd6Pb7 -> GdPb2 | L: Pb 0.6924; Gd6Pb7: Pb 0.538462; GdPb2: Pb 0.666667 | model | [2] Cui 2013 | Table 1, p. 2, row 29; `ORC-NVISX5IW3J` |  |
-| 1283 | liq.+Gd6Pb7 -> GdPb2 | L: Pb 0.68; Gd6Pb7: Pb 0.538462; GdPb2: Pb 0.666667 | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 28; `ORC-P6QMLBSN3S` |  |
-| 1242.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-WM6CS6POXO.9d6a53` | “The compounds Gd5Pb4, Gd11Pb10, Gd6Pb7, GdPb2 and GdPb3 are formed by peritectic reaction at 1460 °C, 1225 °C, 1160 °C, 1010 °C and 969 °C, respectively.” |
-| 1242 | liq.+GdPb2 -> GdPb3 | L: Pb 0.76; GdPb2: Pb 0.666667; GdPb3: Pb 0.75 | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 31; `ORC-BW47M2BGGM` |  |
-| 1242 | liq.+GdPb2 -> GdPb3 | L: Pb 0.7724; GdPb2: Pb 0.666667; GdPb3: Pb 0.75 | model | [2] Cui 2013 | Table 1, p. 2, row 32; `ORC-DXMKM67DQY` |  |
-| 1242 | liq.+GdPb2 -> GdPb3 | L: Pb 0.7583; GdPb2: Pb 0.666667; GdPb3: Pb 0.75 | model | [2] Cui 2013 | Table 1, p. 2, row 33; `ORC-U2WEUE3XCI` |  |
-| 601 | liq.+GdPb3 -> Pb | GdPb3: Pb 0.75; Pb: Pb 1 | model | [2] Cui 2013 | Table 1, p. 2, row 36; `ORC-G2IYOFTTH6` |  |
-| 601 | liq.+GdPb3 -> Pb | GdPb3: Pb 0.75; Pb: Pb 1 | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 34; `ORC-ZYBROVR3BF` |  |
+| 1733 | liq.+Gd5Pb3 -> βGd5Pb4 | Gd5Pb3: Pb 0.375; βGd5Pb4: Pb 0.444444 | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 16; `ORC-2THBXMFTWY` |  |
+| 1733 | liq.+Gd5Pb3 -> βGd5Pb4 | Gd5Pb3: Pb 0.375; βGd5Pb4: Pb 0.444444 | model | [1] Cui 2013 | Table 1, p. 2, row 17; `ORC-ALUA4WHWSC` |  |
+| 1498 | liq.+αGd5Pb4 -> Gd11Pb10 | L: Pb 0.6345; αGd5Pb4: Pb 0.444444; Gd11Pb10: Pb 0.47619 | model | [1] Cui 2013 | Table 1, p. 2, row 24; `ORC-56ZQ3EU7ZV` |  |
+| 1498 | liq.+αGd5Pb4 -> Gd11Pb10 | L: Pb 0.5609; αGd5Pb4: Pb 0.444444; Gd11Pb10: Pb 0.47619 | model | [1] Cui 2013 | Table 1, p. 2, row 23; `ORC-ELQ6UJGDON` |  |
+| 1498 | liq.+αGd5Pb4 -> Gd11Pb10 | L: Pb 0.56; αGd5Pb4: Pb 0.444444; Gd11Pb10: Pb 0.47619 | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 22; `ORC-FEHXGIKSW7` |  |
+| 1485 | βGd -> αGd+liq. | βGd: Pb 0.0044; αGd: Pb 1.000e-4; L: Pb 0.0048 | model | [1] Cui 2013 | Table 1, p. 2, row 9; `ORC-ECJGGKSTT4` |  |
+| 1485 | βGd -> αGd+liq. | βGd: Pb 0.0709; αGd: Pb 0; L: Pb 4.000e-4 | model | [1] Cui 2013 | Table 1, p. 2, row 8; `ORC-QJW2Y6I5CP` |  |
+| 1485 | βGd -> αGd+liq. | βGd: Pb 0.02; αGd: Pb 0; L: Pb 0.08 | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 7; `ORC-QPNPVQ46MK` |  |
+| 1433 | liq.+Gd11Pb10 -> Gd6Pb7 | L: Pb 0.59; Gd11Pb10: Pb 0.47619; Gd6Pb7: Pb 0.538462 | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 25; `ORC-EYL4CLAJBX` |  |
+| 1433 | liq.+Gd11Pb10 -> Gd6Pb7 | L: Pb 0.5883; Gd11Pb10: Pb 0.47619; Gd6Pb7: Pb 0.538462 | model | [1] Cui 2013 | Table 1, p. 2, row 26; `ORC-FYZFLRFRE3` |  |
+| 1433 | liq.+Gd11Pb10 -> Gd6Pb7 | L: Pb 0.6587; Gd11Pb10: Pb 0.47619; Gd6Pb7: Pb 0.538462 | model | [1] Cui 2013 | Table 1, p. 2, row 27; `ORC-NCEUMHDJNA` |  |
+| 1393 | eutectic: liq. -> αGd+Gd5Pb3 | L: Pb 0.0947; αGd: Pb 1.000e-4; Gd5Pb3: Pb 0.375 | model | [1] Cui 2013 | Table 1, p. 2, row 12; `ORC-GAVOCBHGAH` |  |
+| 1393 | eutectic: liq. -> αGd+Gd5Pb3 | L: Pb 0.1673; αGd: Pb 0; Gd5Pb3: Pb 0.375 | model | [1] Cui 2013 | Table 1, p. 2, row 11; `ORC-RADX6FO5E3` |  |
+| 1393 | eutectic: liq. -> αGd+Gd5Pb3 | L: Pb 0.145; αGd: Pb 0; Gd5Pb3: Pb 0.375 | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 10; `ORC-TCABTU3SLA` |  |
+| 1283 | liq.+Gd6Pb7 -> GdPb2 | L: Pb 0.7203; Gd6Pb7: Pb 0.538462; GdPb2: Pb 0.666667 | model | [1] Cui 2013 | Table 1, p. 2, row 30; `ORC-7L6QMRCJC6` |  |
+| 1283 | liq.+Gd6Pb7 -> GdPb2 | L: Pb 0.6924; Gd6Pb7: Pb 0.538462; GdPb2: Pb 0.666667 | model | [1] Cui 2013 | Table 1, p. 2, row 29; `ORC-NVISX5IW3J` |  |
+| 1283 | liq.+Gd6Pb7 -> GdPb2 | L: Pb 0.68; Gd6Pb7: Pb 0.538462; GdPb2: Pb 0.666667 | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 28; `ORC-P6QMLBSN3S` |  |
+| 1242 | liq.+GdPb2 -> GdPb3 | L: Pb 0.76; GdPb2: Pb 0.666667; GdPb3: Pb 0.75 | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 31; `ORC-BW47M2BGGM` |  |
+| 1242 | liq.+GdPb2 -> GdPb3 | L: Pb 0.7724; GdPb2: Pb 0.666667; GdPb3: Pb 0.75 | model | [1] Cui 2013 | Table 1, p. 2, row 32; `ORC-DXMKM67DQY` |  |
+| 1242 | liq.+GdPb2 -> GdPb3 | L: Pb 0.7583; GdPb2: Pb 0.666667; GdPb3: Pb 0.75 | model | [1] Cui 2013 | Table 1, p. 2, row 33; `ORC-U2WEUE3XCI` |  |
+| 601 | liq.+GdPb3 -> Pb | GdPb3: Pb 0.75; Pb: Pb 1 | model | [1] Cui 2013 | Table 1, p. 2, row 36; `ORC-G2IYOFTTH6` |  |
+| 601 | liq.+GdPb3 -> Pb | GdPb3: Pb 0.75; Pb: Pb 1 | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 34; `ORC-ZYBROVR3BF` |  |
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (10)
 
 Table: Phase transition, Gd–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 296 K | 296 |  | experimental | [2] Cui 2013; _cites Demel 1969_ [doi](https://doi.org/10.1016/0022-3115%2869%2990130-5) | p. 1; `ORC-3K4HFWGALS` | “In this study, the hcp(Gd)2bcc(Gd) transformation was at 296 K and higher than the accepted value listed in literature of Gschneidner and Calderwood \[10\].” |
-| Phase transition | 600.5 K | 600.5 | liq. -> Pb; _Pb: Pb 1_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 37; `ORC-AQRJIPSDKB` |  |
-| Phase transition | 600.5 K | 600.5 | liq. -> Pb; _Pb: Pb 1_ | model | [2] Cui 2013 | Table 1, p. 2, row 38; `ORC-LHNQ4VL6XY` |  |
-| Phase transition | 1586 K | 1586 | liq. -> βGd; _βGd: Pb 0_ | model | [2] Cui 2013 | Table 1, p. 2, row 3; `ORC-FM6FWHZFIE` |  |
-| Phase transition | 1586 K | 1586 | liq. -> βGd; _βGd: Pb 0_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 1; `ORC-LV7655SU3N` |  |
-| Phase transition | 1683 K | 1683 | βGd5Pb4 -> αGd5Pb4; _βGd5Pb4: Pb 0.444444; αGd5Pb4: Pb 0.444444_ | model | [2] Cui 2013 | Table 1, p. 2, row 20; `ORC-AXOM73FIOV` |  |
-| Phase transition | 1683 K | 1683 | βGd5Pb4 -> αGd5Pb4; _βGd5Pb4: Pb 0.444444; αGd5Pb4: Pb 0.444444_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 19; `ORC-YRV3GKFRBJ` |  |
-| Phase transition | 1942 K | 1942 | liq. -> Gd5Pb3; _Gd5Pb3: Pb 0.375_ | model | [2] Cui 2013 | Table 1, p. 2, row 15; `ORC-OGQYG3UPQG` |  |
-| Phase transition | 1943 K | 1943 | liq. -> Gd5Pb3; _Gd5Pb3: Pb 0.375_ | model | [2] Cui 2013 | Table 1, p. 2, row 14; `ORC-NCSOHZPF6F` |  |
-| Phase transition | 1943 K | 1943 | liq. -> Gd5Pb3; _Gd5Pb3: Pb 0.375_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 13; `ORC-PUJ2XIH5VB` |  |
-| Phase transition | 1943.15 K | 1943.15 | congruent transformation | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-KMO5AZMZDS` | “The Gd5Pb3 phase melts congruently at 1670 °C.” |
+| Phase transition | 600.5 K | 600.5 | liq. -> Pb; _Pb: Pb 1_ | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 37; `ORC-AQRJIPSDKB` |  |
+| Phase transition | 600.5 K | 600.5 | liq. -> Pb; _Pb: Pb 1_ | model | [1] Cui 2013 | Table 1, p. 2, row 38; `ORC-LHNQ4VL6XY` |  |
+| Phase transition | 1586 K | 1586 | liq. -> βGd; _βGd: Pb 0_ | model | [1] Cui 2013 | Table 1, p. 2, row 3; `ORC-FM6FWHZFIE` |  |
+| Phase transition | 1586 K | 1586 | liq. -> βGd; _βGd: Pb 0_ | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 1; `ORC-LV7655SU3N` |  |
+| Phase transition | 1683 K | 1683 | βGd5Pb4 -> αGd5Pb4; _βGd5Pb4: Pb 0.444444; αGd5Pb4: Pb 0.444444_ | model | [1] Cui 2013 | Table 1, p. 2, row 20; `ORC-AXOM73FIOV` |  |
+| Phase transition | 1683 K | 1683 | βGd5Pb4 -> αGd5Pb4; _βGd5Pb4: Pb 0.444444; αGd5Pb4: Pb 0.444444_ | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 19; `ORC-YRV3GKFRBJ` |  |
+| Phase transition | 1942 K | 1942 | liq. -> Gd5Pb3; _Gd5Pb3: Pb 0.375_ | model | [1] Cui 2013 | Table 1, p. 2, row 15; `ORC-OGQYG3UPQG` |  |
+| Phase transition | 1943 K | 1943 | liq. -> Gd5Pb3; _Gd5Pb3: Pb 0.375_ | model | [1] Cui 2013 | Table 1, p. 2, row 14; `ORC-NCSOHZPF6F` |  |
+| Phase transition | 1943 K | 1943 | liq. -> Gd5Pb3; _Gd5Pb3: Pb 0.375_ | experimental | [1] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 13; `ORC-PUJ2XIH5VB` |  |
+| Phase transition | 1943.15 K | 1943.15 | congruent transformation | experimental | [2] Iddaoudi 2014 | p. 2; `ORC-KMO5AZMZDS` | “The Gd5Pb3 phase melts congruently at 1670 °C.” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. A. Iddaoudi, C. Servant, N. Selhaoui, S. Kardellass, K. Mahdouk, L. Bouirden, Thermodynamic modeling of the RE–Pb (RE=Sc, Dy, Gd) systems, Journal of Alloys and Compounds 589, 192-199 (2014). [doi:10.1016/j.jallcom.2013.11.131](https://doi.org/10.1016/j.jallcom.2013.11.131)
-2. Jiaxin Cui, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Gd–Pb system using random solution and associate models, Calphad 42, 1-5 (2013). [doi:10.1016/j.calphad.2013.06.002](https://doi.org/10.1016/j.calphad.2013.06.002)
+1. Jiaxin Cui, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Gd–Pb system using random solution and associate models, Calphad 42, 1-5 (2013). [doi:10.1016/j.calphad.2013.06.002](https://doi.org/10.1016/j.calphad.2013.06.002)
+2. A. Iddaoudi, C. Servant, N. Selhaoui, S. Kardellass, K. Mahdouk, L. Bouirden, Thermodynamic modeling of the RE–Pb (RE=Sc, Dy, Gd) systems, Journal of Alloys and Compounds 589, 192-199 (2014). [doi:10.1016/j.jallcom.2013.11.131](https://doi.org/10.1016/j.jallcom.2013.11.131)
 
 ## Please cite
 

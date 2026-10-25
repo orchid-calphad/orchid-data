@@ -1,21 +1,22 @@
 # MoNi3: enthalpy of formation
 
-> Enthalpy of formation of MoNi3: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of MoNi3: 7 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/MoNi3.html · Markdown: https://data.orchid-project.org/compounds/MoNi3.md
 
-6 accepted literature formation-enthalpy value(s) (DFT 6).
+7 accepted literature formation-enthalpy value(s) (DFT 7).
 
 Systems: [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of MoNi3 reported in the literature (6)
+Table: Enthalpy of formation of MoNi3 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -8.54 kJ/mol (basis unstated) | Ni₃Mo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 42; `ORC-IUGTOAH2WK.4feca7` |  |
 | -4.663 kJ/mol (basis unstated) | Ni₀.₇₅Mo₀.₂₅ | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 33; `ORC-27CKX4VFJC.854b5f` |  |
+| -1.86 kJ/mol-atom | Ni3Mo |  | DFT | first-principles calculations | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [2] Zhou 2009 | Table 6, p. 7, row 38; `ORC-R4AY5X6IM3.70f93a` |  |
 | 2.84 kJ/mol (basis unstated) | Ni₃Mo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 44; `ORC-WMXOYFTBYL.8d7e51` |  |
 | 5.083 kJ/mol (basis unstated) | Ni₀.₇₅Mo₀.₂₅ | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 30; `ORC-2LAKYBCOYE.74c6b0` |  |
 | 17.06 kJ/mol (basis unstated) | Ni₃Mo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 43; `ORC-RXNDKRKMZ6.1e4830` |  |
@@ -29,16 +30,18 @@ Table: Uncertainty budget of the literature values of MoNi3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -8.54 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| -4.663 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| 2.84 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| 5.083 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| 17.06 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| 42.65 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| -8.54 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| -4.663 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -1.86 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 2.84 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| 5.083 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 17.06 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| 42.65 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
 
 ## Sources
 
 1. S.H. Zhou, Y. Wang, C. Jiang, J.Z. Zhu, L.-Q. Chen, Z.-K. Liu, First-principles calculations and thermodynamic modeling of the Ni–Mo system, Materials Science and Engineering: A 397, 288-296 (2005). [doi:10.1016/j.msea.2005.02.037](https://doi.org/10.1016/j.msea.2005.02.037)
+2. S.H. Zhou, Y. Wang, L.-Q. Chen, Z.-K. Liu, R.E. Napolitano, Solution-based thermodynamic modeling of the Ni–Ta and Ni–Mo–Ta systems using first-principle calculations, Calphad 33, 631-641 (2009). [doi:10.1016/j.calphad.2009.06.006](https://doi.org/10.1016/j.calphad.2009.06.006)
 
 ## Please cite
 

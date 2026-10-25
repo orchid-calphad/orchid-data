@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/MgB6.html · Markdown: https://data.orchid-project.org/compounds/MgB6.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 5); experimental median -0.013 kJ/mol-atom (n = 2); OQMD 0.227 kJ/mol-atom (oqmd-1454656).
+5 accepted literature formation-enthalpy value(s) (experimental 5); experimental median -13.39 kJ/mol-atom (n = 2); OQMD 0.227 kJ/mol-atom (oqmd-1454656).
 
 Systems: [B–Mg](https://data.orchid-project.org/systems/B-MG.html)
 
@@ -17,8 +17,8 @@ Table: Enthalpy of formation of MgB6 reported in the literature (5)
 | -15.5 per mol-atom ± 2.1 | MgB6 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 15; `ORC-G5XQAHUA2A.963f3e` |  |
 | -13.4 per mol-atom | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 17; `ORC-KRQXJTFGPA.b008fc` |  |
 | -13.4 per mol-atom ± 0.6 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 16; `ORC-NNE6I23M5C.9c392a` |  |
-| -0.01339 kJ/mol-atom ± 6.000e-4 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 6; `ORC-3LPA54QJQD` |  |
-| -0.01339 kJ/mol-atom ± 3.000e-4 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 9; `ORC-KIP2CJSBMK` |  |
+| -13.39 kJ/mol-atom ± 0.6 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 6; `ORC-3LPA54QJQD` |  |
+| -13.39 kJ/mol-atom ± 0.3 | MgB6 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 9; `ORC-KIP2CJSBMK` |  |
 
 ### Uncertainty budget
 
@@ -31,8 +31,8 @@ Table: Uncertainty budget of the literature values of MgB6
 | -15.5 | per mol-atom | 2.1 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2.1 |
 | -13.4 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -13.4 | per mol-atom | 0.6 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 0.6 |
-| -0.01339 | kJ/mol-atom | 6.000e-4 | 5.000e-6 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -0.01339 | kJ/mol-atom | 3.000e-4 | 5.000e-6 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -13.39 | kJ/mol-atom | 0.6 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -13.39 | kJ/mol-atom | 0.3 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 
 ## DFT formation energies
 

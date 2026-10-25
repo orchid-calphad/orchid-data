@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Be17Ti2.html · Markdown: https://data.orchid-project.org/compounds/Be17Ti2.md
 
-7 accepted literature formation-enthalpy value(s) (model 7); Materials Project -19.177 kJ/mol-atom (mp-aaacqjph); OQMD -19.201 kJ/mol-atom (oqmd-19076).
+7 accepted literature formation-enthalpy value(s) (model 5, DFT 2); Materials Project -19.177 kJ/mol-atom (mp-aaacqjph); OQMD -19.201 kJ/mol-atom (oqmd-19076).
 
 Systems: [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html)
 
@@ -17,10 +17,10 @@ Table: Enthalpy of formation of Be17Ti2 reported in the literature (7)
 | -31.3 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 13; `ORC-UY3FPAGP3J.fca1e3` |  |
 | -26.4 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 14; `ORC-76734UBVQV.8921ab` |  |
 | -24.3 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12; `ORC-2J6N3CRD3V.1ac2be` |  |
-| -22 kJ/mol-atom | βTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 15; `ORC-3ZSN7KM54C.084f65` |  |
 | -22 kJ/mol-atom | βTi2Be17 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 15; `ORC-3ZSN7KM54C.1a64a9` |  |
 | -21.4 kJ/mol-atom | αTi2Be17 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12; `ORC-2J6N3CRD3V.3bbd2c` |  |
-| -21.4 kJ/mol-atom | αTi2Be17 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12; `ORC-2J6N3CRD3V.c87c73` |  |
+| -22 kJ/mol-atom | βTi2Be17 |  | DFT |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 15; `ORC-3ZSN7KM54C.084f65` |  |
+| -21.4 kJ/mol-atom | αTi2Be17 |  | DFT |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 12; `ORC-2J6N3CRD3V.c87c73` |  |
 
 ### Uncertainty budget
 
@@ -34,9 +34,9 @@ Table: Uncertainty budget of the literature values of Be17Ti2
 | -26.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -24.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -22 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -22 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -21.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -21.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -21.4 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Co–Th system
 
-> Co–Th system: 44 accepted literature values (invariant reaction 42, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Th system: 41 accepted literature values (invariant reaction 41) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-TH.html · Markdown: https://data.orchid-project.org/systems/CO-TH.md
 
-44 accepted literature values from 1 paper(s) (experimental 29, model 15); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+41 accepted literature values from 1 paper(s) (experimental 27, model 14); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-TH.json) · [CSV](https://data.orchid-project.org/systems/CO-TH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-TH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-TH/CoTh-08Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CO-TH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-TH.html) · [Markdown](https://data.orchid-project.org/systems/CO-TH.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
-| model | 15 |
+| experimental | 27 |
+| model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 42 |
-| phase transition | 2 |
+| invariant reaction | 41 |
 
 ## Calculated phase diagrams
 
@@ -54,7 +53,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Th system (42)
+Table: Invariant reactions reported in the literature for the Co–Th system (41)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -67,7 +66,6 @@ Table: Invariant reactions reported in the literature for the Co–Th system (42
 | 1710.15 | congruent melting: L \<-> Co5Th | L: Th 0.1667; Co5Th: Co 0.833333, Th 0.166667 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 27; `ORC-72UATHKH3S` |  |
 | 1698.35 | congruent melting: L \<-> Co5Th | L: Th 0.1667; Co5Th: Co 0.833333, Th 0.166667 | model | [1] Wang 2008 | Table 2, p. 3, row 29; `ORC-NPEIJAURB6` |  |
 | 1698.15 | congruent melting: L \<-> Co5Th | L: Th 0.1667; Co5Th: Co 0.833333, Th 0.166667 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 28; `ORC-XDIWKXOSEZ` |  |
-| 1696.95 | eutectic: L ↔ Co5 Th + Co17 Th2 |  | model | [1] Wang 2008 | p. 6; `ORC-NPVQH5MXX2` | “eters, the calculated results show that there exists a eutectic reaction (L ↔ Co5 Th + Co17 Th2 ) at 1423.8 ◦ C, which is more acceptable.” |
 | 1696.95 | eutectic: L \<-> Co5Th + Co17Th2 | L: Th 0.1555; Co5Th: Co 0.833333, Th 0.166667; Co17Th2: Co 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 2, p. 3, row 32; `ORC-SMYZQNYPCP` |  |
 | 1683.15 | eutectic: L \<-> Co17Th2 + αCo | L: Th 0.0501; Co17Th2: Co 0.894737, Th 0.105263; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 37; `ORC-GIKWBNVYZD` |  |
 | 1678.05 | eutectic: L \<-> Co17Th2 + αCo | L: Th 0.0456; Co17Th2: Co 0.894737, Th 0.105263; αCo: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 38; `ORC-PAV5GJWPBD` |  |
@@ -100,17 +98,6 @@ Table: Invariant reactions reported in the literature for the Co–Th system (42
 | 695.15 | polymorphic: αCo \<-> εCo | αCo: Co 0.777778, Th 0.222222; L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 43; `ORC-JUCGQY5M4A` |  |
 | 695.15 | polymorphic: αCo \<-> εCo | αCo: Co 0.777778, Th 0.222222; L: Th 0 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 42; `ORC-W4VI3EMFMR` |  |
 | 694.95 | polymorphic: αCo \<-> εCo | αCo: Co 0.777778, Th 0.222222; L: Th 0 | model | [1] Wang 2008 | Table 2, p. 3, row 44; `ORC-DOQULGOIVO` |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Co–Th system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 415 K | 415 | magnetic | experimental | [1] Wang 2008; _cites Buschow 1971_ [doi](https://doi.org/10.1063/1.1660749) | p. 1; `ORC-QETEPTP6Q5.29ded3` | “The Co17 Th2 and Co5 Th compounds are ferromagnetic phases with the Curie temperatures (TC ) of 1035 and 415 K, respectively, whereas other compounds exhibit a paramagnetic state \[10\].” |
-| Phase transition | 1035 K | 1035 | magnetic | experimental | [1] Wang 2008; _cites Buschow 1971_ [doi](https://doi.org/10.1063/1.1660749) | p. 1; `ORC-QETEPTP6Q5.575db2` | “The Co17 Th2 and Co5 Th compounds are ferromagnetic phases with the Curie temperatures (TC ) of 1035 and 415 K, respectively, whereas other compounds exhibit a paramagnetic state \[10\].” |
 
 ## Sources
 

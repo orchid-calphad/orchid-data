@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of BiNa
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -78.3 | kJ/mol (basis unstated) |  | 0.05 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -78.3 | kJ/mol (basis unstated) |  | 0.05 | 6.4 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.4 |
 | -41.6 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -39.75 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -39.15 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |

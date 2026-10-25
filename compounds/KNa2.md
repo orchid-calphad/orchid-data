@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/KNa2.html · Markdown: https://d
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -0.607 kJ/mol-atom (n = 1); Materials Project 0.954 kJ/mol-atom (mp-aaabgmji); OQMD -7.272 kJ/mol-atom (oqmd-668086).
 
-Systems: [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html)
+Systems: [K–Na](https://data.orchid-project.org/systems/K-NA.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of KNa2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -0.60668 kJ/mol-atom | KNa2 | 298.15 | experimental |  | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31; `ORC-LEJHJ7QKVU.3c23fa` |  |
-| -0.699 kJ/mol-atom | KNa2 | 0 | DFT | first-principle calculations | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-VIZG72UFCV.d3840a` |  |
+| -0.60668 kJ/mol-atom | KNa2 | 298.15 | experimental |  | [K–Na](https://data.orchid-project.org/systems/K-NA.html) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31; `ORC-LEJHJ7QKVU.3c23fa` |  |
+| -0.699 kJ/mol-atom | KNa2 | 0 | DFT | first-principle calculations | [K–Na](https://data.orchid-project.org/systems/K-NA.html) | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-VIZG72UFCV.d3840a` |  |
 
 ### Uncertainty budget
 
@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of KNa2
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -0.60668 | kJ/mol-atom |  | 5.000e-6 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -0.699 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -0.699 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

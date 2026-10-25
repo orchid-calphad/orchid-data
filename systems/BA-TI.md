@@ -1,10 +1,10 @@
 # Ba–Ti system
 
-> Ba–Ti system: 29 accepted literature values (crystal structure 15, mixing / partial 11, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Ti system: 26 accepted literature values (crystal structure 15, mixing / partial 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-TI.html · Markdown: https://data.orchid-project.org/systems/BA-TI.md
 
-29 accepted literature values from 1 paper(s) (experimental 1, model 2, DFT 26); 1 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (DFT 26); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-TI.json) · [CSV](https://data.orchid-project.org/systems/BA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-TI/BaTi-07Sha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-TI.html) · [Markdown](https://data.orchid-project.org/systems/BA-TI.md)
 
@@ -12,15 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 2 |
 | DFT | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
 | mixing / partial | 11 |
 | crystal structure | 15 |
 
@@ -48,16 +45,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | BaTi-07Sha.tdb | 999.92 | BCC_A2 (x(Ti) 0) + LIQUID (x(Ti) 6.000e-5) + HCP_A3 (x(Ti) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BA/BA-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BA/BA-TI.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ba–Ti system (3)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1155 | peritectic: bcc (Ti) + liquid → hcp (Ti) |  | model | [1] Shang 2007 | p. 5; `ORC-7HBDVQOSYT.9b5a7b` | “The invariant reactions in the Ba-Ti system are also listed in Table 4 with the eutectic temperature of the reaction liquid → hcp (Ti) + bcc (Ba) at 1000 K close to the estimation of 1002 K from Chase \[12\], the peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) of 1155 K at the allotropic transformation point between bcc (Ti) and hcp (Ti).” |
-| 1155 | peritectic: bcc (Ti) + liquid → hcp (Ti) |  | experimental | [1] Shang 2007; _cites Alidzhanov 1978_ | p. 1; `ORC-OW64X6QP5W` | “The peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) was measured approximately at 1155 K \[11\], which is close to the allotropic transformation point of bcc (Ti) ↔ hcp (Ti).” |
-| 1000 | eutectic: liquid → hcp (Ti) + bcc (Ba) |  | model | [1] Shang 2007 | p. 5; `ORC-7HBDVQOSYT.c0e3a2` | “The invariant reactions in the Ba-Ti system are also listed in Table 4 with the eutectic temperature of the reaction liquid → hcp (Ti) + bcc (Ba) at 1000 K close to the estimation of 1002 K from Chase \[12\], the peritectic point of the reaction bcc (Ti) + liquid → hcp (Ti) of 1155 K at the allotropic transformation point between bcc (Ti) and hcp (Ti).” |
 
 ## Other properties
 

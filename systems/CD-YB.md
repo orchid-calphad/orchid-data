@@ -1,10 +1,10 @@
 # Cd–Yb system
 
-> Cd–Yb system: 71 accepted literature values (invariant reaction 39, crystal structure 18, formation 9, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Yb system: 55 accepted literature values (invariant reaction 28, crystal structure 18, formation 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-YB.html · Markdown: https://data.orchid-project.org/systems/CD-YB.md
 
-71 accepted literature values from 1 paper(s) (experimental 39, model 24, DFT 8); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+55 accepted literature values from 1 paper(s) (experimental 27, model 20, DFT 8); 1 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-YB.json) · [CSV](https://data.orchid-project.org/systems/CD-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-YB/CdYb-17Kal.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CD-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-YB.html) · [Markdown](https://data.orchid-project.org/systems/CD-YB.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 39 |
-| model | 24 |
+| experimental | 27 |
+| model | 20 |
 | DFT | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 39 |
-| phase transition | 5 |
+| invariant reaction | 28 |
 | formation | 9 |
 | crystal structure | 18 |
 
@@ -64,7 +63,7 @@ Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CD/
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cd–Yb system (39)
+Table: Invariant reactions reported in the literature for the Cd–Yb system (28)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -79,32 +78,21 @@ Table: Invariant reactions reported in the literature for the Cd–Yb system (39
 | 967.03 | polymorphic: βYbCd2 \<-> αYbCd2 | βYbCd2: Cd 0.667; αYbCd2: Cd 0.667 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 27; `ORC-TWJ66UAAAS` |  |
 | 956.26 | eutectic: Liquid \<-> YbCd + αYbCd2 | L: Cd 0.623; YbCd: Cd 0.5; αYbCd2: Cd 0.667 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 9; `ORC-XUDBIPLQL5` |  |
 | 953 | eutectic: Liquid \<-> YbCd + αYbCd2 | L: Cd 0.612; YbCd: Cd 0.5; αYbCd2: Cd 0.667 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 10; `ORC-JEXM63RFIU` |  |
-| 953 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-MTSYPAJL2V.1732f6` | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
 | 930.3 | congruent melting: Liquid \<-> Yb14Cd51 | L: Cd 0.785; Yb14Cd51: Cd 0.785 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 5; `ORC-DRP76ZCUVD` |  |
 | 928 | congruent melting: Liquid \<-> Yb14Cd51 | L: Cd 0.785; Yb14Cd51: Cd 0.785 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 6; `ORC-7YWLUT5CJM` |  |
 | 927 | peritectic: Liquid + βYbCd2 \<-> Yb3Cd8 | L: Cd 0.738; βYbCd2: Cd 0.667; Yb3Cd8: Cd 0.727 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 21; `ORC-5F2ABYJVGT` |  |
-| 927 | peritectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.4a04fa` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
 | 925.92 | peritectic: Liquid + βYbCd2 \<-> Yb3Cd8 | L: Cd 0.732; βYbCd2: Cd 0.667; Yb3Cd8: Cd 0.727 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 20; `ORC-4T6E6EVDEO` |  |
-| 921 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-MTSYPAJL2V.d557a4` | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
 | 921 | eutectic: Liquid \<-> Yb3Cd8 + Yb14Cd51 | L: Cd 0.75; Yb3Cd8: Cd 0.727; Yb14Cd51: Cd 0.785 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 12; `ORC-RQXNKGARV3` |  |
 | 916.16 | eutectic: Liquid \<-> Yb3Cd8 + Yb14Cd51 | L: Cd 0.755; Yb3Cd8: Cd 0.727; Yb14Cd51: Cd 0.785 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 11; `ORC-I4MKEO3MN3` |  |
-| 916.16 | eutectic: Liquid ? Yb3Cd8 ? Yb14Cd51 |  | model | [1] Kali-Ali 2017 | p. 8; `ORC-LISI3EZB2N` | “The calculated eutectic reaction: Liquid ? Yb3Cd8 ? Yb14Cd51 is found 1 K out the experimental uncertainties (at 916.16 K) when the experimental one occurs at 921 ± 4 K.” |
 | 911.13 | congruent melting: Liquid \<-> YbCd5,7 | L: Cd 0.851; YbCd5,7: Cd 0.851 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 7; `ORC-IIQUPHXL6W` |  |
 | 909 | congruent melting: Liquid \<-> YbCd5,7 | L: Cd 0.851; YbCd5,7: Cd 0.851 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 8; `ORC-J7GRQ2O62C` |  |
-| 900 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-MTSYPAJL2V.938ca3` | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
 | 900 | eutectic: Liquid \<-> Yb14Cd51 + YbCd5,7 | L: Cd 0.825; Yb14Cd51: Cd 0.785; YbCd5,7: Cd 0.851 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 14; `ORC-UPBZV4DRAP` |  |
 | 899.93 | eutectic: Liquid \<-> Yb14Cd51 + YbCd5,7 | L: Cd 0.827; Yb14Cd51: Cd 0.785; YbCd5,7: Cd 0.851 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 13; `ORC-YJ6OIAF4LJ` |  |
 | 887.6 | peritectic: Liquid + YbCd5,7 \<-> YbCd6 | L: Cd 0.885; YbCd5,7: Cd 0.851; YbCd6: Cd 0.857 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 22; `ORC-2KCCECQZ2I` |  |
-| 887 | peritectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.0e6709` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
 | 887 | peritectic: Liquid + YbCd5,7 \<-> YbCd6 | L: Cd 0.885; YbCd5,7: Cd 0.851; YbCd6: Cd 0.857 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 23; `ORC-OCBFVVKDCT` |  |
 | 740 | eutectic: Liquid \<-> (βYb) + YbCd | L: Cd 0.223; (βYb): Cd 0; YbCd: Cd 0.5 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 16; `ORC-ACCIIF2IHN` |  |
-| 740 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-MTSYPAJL2V.4abdde` | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
 | 735 | eutectic: Liquid \<-> (βYb) + YbCd | L: Cd 0.223; YbCd: Cd 0.5 | experimental | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | Table 4, p. 6, row 17; `ORC-2YGH7ABSS2` |  |
-| 735 | eutectic |  | model | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | p. 7; `ORC-DAGR4NUKR6.91bbab` | “Also, the eutectic temperature of the invariant reaction: Liquid ? (bYb) ? YbCd determined in this work at 734.6 K, matches well with the value reported by Gschneidner et al.\[19\] (735 K) than of Palenzona\[17\]” |
-| 735 | eutectic |  | model | [1] Kali-Ali 2017; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02890551) | p. 2; `ORC-QAAG7A3FDC` | “Based on the work of Palenzona,\[17\] Gschneidner et al.\[19\] compiled the binary Yb-Cd phase diagram and reported some modifications in the Yb rich side, the eutectic temperature was obtained at 735 K instead of 740 K whereas a significant modification has been made in the catatectic temperature which was 59 K higher than Palenzona's temperature\[17\]; furthermore, according to Gschneidner et al.,\[19…” |
 | 734.6 | eutectic: Liquid \<-> (βYb) + YbCd | L: Cd 0.223; (βYb): Cd 0.023; YbCd: Cd 0.5 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 15; `ORC-27SX5QMCFU` |  |
-| 734.6 | eutectic |  | model | [1] Kali-Ali 2017 | p. 7; `ORC-DAGR4NUKR6.a07d1b` | “Also, the eutectic temperature of the invariant reaction: Liquid ? (bYb) ? YbCd determined in this work at 734.6 K, matches well with the value reported by Gschneidner et al.\[19\] (735 K) than of Palenzona\[17\]” |
-| 590 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-MTSYPAJL2V.a2fb87` | “Five eutectic reactions were obtained at 22.3 at.% of Cd and 740 K, at 61.2 at.% of Cd and 953 K, at 75 at.% of Cd and 921 K, at 82.5 at.% of Cd and 900 K and finally, at about 99.0 at.% of Cd and 590 K.” |
 | 590 | eutectic: Liquid \<-> YbCd6 + (Cd) | L: Cd 0.99; YbCd6: Cd 0.857; (Cd): Cd 1 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 19; `ORC-UFUQSLATNW` |  |
 | 569.07 | eutectic: Liquid \<-> YbCd6 + (Cd) | L: Cd 0.975; YbCd6: Cd 0.857; (Cd): Cd 1 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 18; `ORC-QATJ4V6KGV` |  |
 
@@ -127,18 +115,6 @@ Table: Enthalpies of formation, Cd–Yb system (9)
 | βYbCd2 | [Cd2Yb](https://data.orchid-project.org/compounds/Cd2Yb.html) | -35.58 kJ/mol-atom |  | model |  | -36.261 (oqmd-1377351) | [1] Kali-Ali 2017 | Table 2, p. 4, row 5; `ORC-XPD224GQJM.acccc4` |  |
 
 ## Other properties
-
-### Phase transition (5)
-
-Table: Phase transition, Cd–Yb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 909 K | 909 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.7f1e40` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
-| Phase transition | 928 K | 928 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.1103cf` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
-| Phase transition | 968 K | 968 | polymorphic | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-7YIQW5EAGW` | “A polymorphic transition of YbCd2 was detected at 968 K.” |
-| Phase transition | 976 K | 976 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.51f206` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
-| Phase transition | 1069 K | 1069 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-LRRTU73WAX.297477` | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
 
 ### Crystal structure (18)
 

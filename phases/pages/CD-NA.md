@@ -14,10 +14,10 @@ Table: Phases of the Cd–Na system (6)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cd-na-bcc-a2); _phase:cd-na:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–370.87 K, x(Na) 1–1 | 2 | 1 |
 | [CD11NA2_D8C](#phase-cd-na-cd11na2-d8c); _phase:cd-na:cd11na2-d8c_ | Mg2Zn11 · D8_c · cP39 · Pm-3 (200) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–631.51 K, x(Na) 0.15385–0.15385 | 8 | 1 |
-| [CD2NA](#phase-cd-na-cd2na); _phase:cd-na:cd2na_ | Cd2Na · cF1192 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–653.87 K, x(Na) 0.33333–0.33333 | 8 | 1 |
+| [CD2NA](#phase-cd-na-cd2na); _phase:cd-na:cd2na_ | Cd2Na · cF1192 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–653.87 K, x(Na) 0.33333–0.33333 | 10 | 1 |
 | [FCC_A1](#phase-cd-na-fcc-a1); _phase:cd-na:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-cd-na-hcp-a3); _phase:cd-na:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–605.96 K, x(Na) 0–0 | 3 | 1 |
-| [LIQUID](#phase-cd-na-liquid); _phase:cd-na:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 368.4–2500 K, x(Na) 0–1 | 13 | 1 |
+| [LIQUID](#phase-cd-na-liquid); _phase:cd-na:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 368.4–2500 K, x(Na) 0–1 | 16 | 1 |
 
 ## BCC_A2 (Cd–Na)
 
@@ -90,7 +90,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cd 0.6667, Na 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–653.87 K, x(Na) 0.33333–0.33333
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-na:cd2na)
 
 Names (3): _corpus: _corpus:phase:cd-na:cd2na  
@@ -178,11 +178,11 @@ _cited as the source of values for this phase_
 - Id: `phase:cd-na:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 368.4–2500 K, x(Na) 0–1
-- Literature: 13 values (13 accepted) from 1 papers
+- Literature: 16 values (16 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-na:liquid)
 
-Names (3): _corpus: _corpus:phase:cd-na:liquid  
-_paper: _paper:10.1016/j.jallcom.2008.05.106:L  
+Names (4): _corpus: _corpus:phase:cd-na:liquid  
+_paper: _paper:10.1016/j.jallcom.2008.05.106:L, paper:10.1016/j.jallcom.2008.05.106:liquid  
 _tdb: _tdb:CdNa-09Liu.tdb:LIQUID  
 
 

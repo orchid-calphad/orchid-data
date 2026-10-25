@@ -20,7 +20,7 @@ Table: Phases of the Ni–Yb system (10)
 | [NI2YB_C15](#phase-ni-yb-ni2yb-c15); _phase:ni-yb:ni2yb-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1526.76 K, x(Yb) 0.33333–0.33333 | 11 | 2 |
 | [NI3YB](#phase-ni-yb-ni3yb); _phase:ni-yb:ni3yb_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1576.47 K, x(Yb) 0.25–0.25 | 23 | 2 |
 | [NI5YB_D2D](#phase-ni-yb-ni5yb-d2d); _phase:ni-yb:ni5yb-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1567.45 K, x(Yb) 0.16667–0.16667 | 15 | 2 |
-| [NIYB_HT](#phase-ni-yb-niyb); _phase:ni-yb:niyb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1277.7–1304.18 K, x(Yb) 0.5–0.5 | 3 | 1 |
+| [NIYB_HT](#phase-ni-yb-niyb); _phase:ni-yb:niyb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1277.7–1304.18 K, x(Yb) 0.5–0.5 | 4 | 1 |
 | [NIYB_B27](#phase-ni-yb-niyb-b27); _phase:ni-yb:niyb-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1303.69 K, x(Yb) 0.5–0.5 | 14 | 2 |
 
 ## BCC_A2 (Ni–Yb)
@@ -379,7 +379,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (NiYb) — Hallstedt 2025 mmc2 row for NIYB_HT: NiYb (high T)
 - Stoichiometry: Ni 0.5000, Yb 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 1277.7–1304.18 K, x(Yb) 0.5–0.5
-- Literature: 3 values (3 accepted) from 2 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-yb:niyb)
 
 Names (4): _corpus: _corpus:phase:ni-yb:niyb  
@@ -396,13 +396,15 @@ _tdb: _tdb:NiYb-17Hu.tdb:NIYB_HT
 78: CONST NIYB_HT : NI : YB : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2017.09.004](https://doi.org/10.1016/j.calphad.2017.09.004) Yong-Jie Hu, Yi Wang, Samad A. Firdosy, Kurt E. Star, Jean-Pierre Fleurial, Vilupanur A. Ravi et al., First-principles calculations and thermodynamic modeling of the Yb-Ni binary system, Calphad 59, 207-217 (2017).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-016-5380-3](https://doi.org/10.1007/s10973-016-5380-3) Saïd Kardellass, Colette Servant, Najim Selhaoui, Thermodynamic description of the Ni–Yb and Ni–Eu binary systems, J Therm Anal Calorim 125, 255-269 (2016).  
 _reports values for this phase_
 - [doi:10.1016/0022-5088(73)90188-4](https://doi.org/10.1016/0022-5088%2873%2990188-4) A. Palenzona, S. Cirafici, The ytterbium-nickel system, Journal of the Less Common Metals 33, 361-367 (1973).  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02881421](https://doi.org/10.1007/bf02881421) Nash P. The nickel–ytterbium system. Bull Alloy Phase Diagr. 1989;10(2):129–32.  
 _cited as the source of values for this phase_
 
 ## NIYB_B27 (Ni–Yb)

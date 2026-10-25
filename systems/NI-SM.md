@@ -1,10 +1,10 @@
 # Ni–Sm system
 
-> Ni–Sm system: 95 accepted literature values (invariant reaction 51, formation 27, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sm system: 94 accepted literature values (invariant reaction 48, formation 29, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SM.html · Markdown: https://data.orchid-project.org/systems/NI-SM.md
 
-95 accepted literature values from 2 paper(s) (experimental 40, model 55); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+94 accepted literature values from 2 paper(s) (experimental 39, model 55); 2 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SM.json) · [CSV](https://data.orchid-project.org/systems/NI-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SM/NiSm-16Rah.json) · [phases (15)](https://data.orchid-project.org/phases/pages/NI-SM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SM.html) · [Markdown](https://data.orchid-project.org/systems/NI-SM.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 40 |
+| experimental | 39 |
 | model | 55 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 51 |
+| invariant reaction | 48 |
 | phase transition | 17 |
-| formation | 27 |
+| formation | 29 |
 
 ## Calculated phase diagrams
 
@@ -98,7 +98,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–Sm system (51)
+Table: Invariant reactions reported in the literature for the Ni–Sm system (48)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -110,12 +110,11 @@ Table: Invariant reactions reported in the literature for the Ni–Sm system (51
 | 1555 | Liq.+Ni5Sm->Ni19Sm5 | L: Sm 0.267; Ni5Sm: Sm 0.166667; Ni19Sm5: Sm 0.208333 | model | [2] Su 1998 | Table 2, p. 3, row 15; `ORC-5LYLG34H7J` |  |
 | 1555 | peritectic: Liq + SmNi5 -> Sm5Ni19 | L: Sm 0.261; SmNi5: Sm 0.166667; Sm5Ni19: Sm 0.208333 | model | [1] Rahou 2016 | Table 4, p. 4, row 31; `ORC-KD2UPXI426` |  |
 | 1555 | Liq.+Ni5Sm->Ni19Sm5 | L: Sm 0.283; Ni5Sm: Sm 0.166667; Ni19Sm5: Sm 0.208333 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 16; `ORC-ULKNRC5YDP` |  |
-| 1553 | eutectic: L→Ni 17 Sm 2 1a-Ni(fcc) |  | experimental | [2] Su 1998; _cites Pan 1983_ | p. 2; `ORC-OYLGKD66R7.d3ab57` | “Three eutectic reactions occur: L→Ni 17 Sm 2 1a-Ni(fcc) (1553 K, 94 at% Ni), L→Ni 2 Sm1NiSm (1082 K, 53.5 at% Ni), L→NiSm1NiSm 3 (843 K, \|32at% Ni).” |
-| 1553 | Liq.->α-Ni(fcc)+Ni17Sm2 | L: Sm 0.06; α-Ni(fcc): Sm 0; Ni17Sm2: Sm 0.105263 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 22; `ORC-PRRNFYJRJY` |  |
+| 1553 | eutectic: Liq.->α-Ni(fcc)+Ni17Sm2 | L: Sm 0.06; α-Ni(fcc): Sm 0; Ni17Sm2: Sm 0.105263 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 22; `ORC-PRRNFYJRJY` |  |
 | 1553 | eutectic: Liq -> Fcc + Sm2Ni17 | L: Sm 0.06; Fcc: Sm 0; Sm2Ni17: Sm 0.105263 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 41; `ORC-Y7KUYH24B4` |  |
 | 1548 | eutectic: Liq -> Fcc + Sm2Ni17 | L: Sm 0.071; Fcc: Sm 0; Sm2Ni17: Sm 0.105263 | model | [1] Rahou 2016 | Table 4, p. 4, row 40; `ORC-AUJPZ2VU3M` |  |
 | 1547 | eutectic: Liq -> Fcc + Sm2Ni17 | L: Sm 0.068; Fcc: Sm 0; Sm2Ni17: Sm 0.105263 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 42; `ORC-2OEHPL5YQP` |  |
-| 1547 | Liq.->α-Ni(fcc)+Ni17Sm2 | L: Sm 0.068; α-Ni(fcc): Sm 0; Ni17Sm2: Sm 0.105263 | model | [2] Su 1998 | Table 2, p. 3, row 21; `ORC-UM5UPJHB4D` |  |
+| 1547 | eutectic: Liq.->α-Ni(fcc)+Ni17Sm2 | L: Sm 0.068; α-Ni(fcc): Sm 0; Ni17Sm2: Sm 0.105263 | model | [2] Su 1998 | Table 2, p. 3, row 21; `ORC-UM5UPJHB4D` |  |
 | 1493 | Liq.+Ni19Sm5->Ni7Sm2 | L: Sm 0.313; Ni19Sm5: Sm 0.208333; Ni7Sm2: Sm 0.222222 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 14; `ORC-D6TSNBVTVM` |  |
 | 1493 | Liq.+Ni19Sm5->Ni7Sm2 | L: Sm 0.294; Ni19Sm5: Sm 0.208333; Ni7Sm2: Sm 0.222222 | model | [2] Su 1998 | Table 2, p. 3, row 13; `ORC-FMVDAWX7MD` |  |
 | 1493 | peritectic: Liq + Sm5Ni19 -> Sm2Ni7 | L: Sm 0.285; Sm5Ni19: Sm 0.208333; Sm2Ni7: Sm 0.222222 | model | [1] Rahou 2016 | Table 4, p. 4, row 29; `ORC-KCY7J3DNPR` |  |
@@ -130,10 +129,9 @@ Table: Invariant reactions reported in the literature for the Ni–Sm system (51
 | 1297 | peritectic: Liq + SmNi3 -> SmNi2 | L: Sm 0.338; SmNi3: Sm 0.25; SmNi2: Sm 0.333333 | model | [1] Rahou 2016 | Table 4, p. 4, row 23; `ORC-MXLE7BHDQN` |  |
 | 1094 | eutectic: Liq -> SmNi + SmNi2 | L: Sm 0.407; SmNi: Sm 0.5; SmNi2: Sm 0.333333 | model | [1] Rahou 2016 | Table 4, p. 4, row 20; `ORC-UVJF7JXKNG` |  |
 | 1089 | eutectic: Liq -> SmNi + SmNi2 | L: Sm 0.422; SmNi: Sm 0.5; SmNi2: Sm 0.333333 | model | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 4, p. 4, row 22; `ORC-NGKLPEEMHB` |  |
-| 1089 | Liq.->NiSm+Ni2Sm | L: Sm 0.422; NiSm: Sm 0.5; Ni2Sm: Sm 0.333333 | model | [2] Su 1998 | Table 2, p. 3, row 7; `ORC-QC7I4MRWAD` |  |
+| 1089 | eutectic: Liq.->NiSm+Ni2Sm | L: Sm 0.422; NiSm: Sm 0.5; Ni2Sm: Sm 0.333333 | model | [2] Su 1998 | Table 2, p. 3, row 7; `ORC-QC7I4MRWAD` |  |
 | 1082 | eutectic: Liq -> SmNi + SmNi2 | L: Sm 0.465; SmNi: Sm 0.5; SmNi2: Sm 0.333333 | experimental | [1] Rahou 2016; _cites Pan 1983_ | Table 4, p. 4, row 21; `ORC-DYBMJZPEQY` |  |
-| 1082 | eutectic: L→Ni 2 Sm1NiSm |  | experimental | [2] Su 1998; _cites Pan 1983_ | p. 2; `ORC-OYLGKD66R7.16f467` | “Three eutectic reactions occur: L→Ni 17 Sm 2 1a-Ni(fcc) (1553 K, 94 at% Ni), L→Ni 2 Sm1NiSm (1082 K, 53.5 at% Ni), L→NiSm1NiSm 3 (843 K, \|32at% Ni).” |
-| 1082 | Liq.->NiSm+Ni2Sm | L: Sm 0.465; NiSm: Sm 0.5; Ni2Sm: Sm 0.333333 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 8; `ORC-Z5SXCPH7SA` |  |
+| 1082 | eutectic: Liq.->NiSm+Ni2Sm | L: Sm 0.465; NiSm: Sm 0.5; Ni2Sm: Sm 0.333333 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 8; `ORC-Z5SXCPH7SA` |  |
 | 948 | eutectic: Liq -> β-Sm + Sm3Ni | L: Sm 0.779; β-Sm: Sm 1; Sm3Ni: Sm 0.75 | model | [1] Rahou 2016 | Table 4, p. 4, row 1; `ORC-NPW3DC5SNQ` |  |
 | 948 | eutectic: Liq -> β-Sm + Sm3Ni | L: Sm 0.78; β-Sm: Sm 1; Sm3Ni: Sm 0.75 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 2; `ORC-TGUZTR7QU3` |  |
 | 937 | Liq.+α-Sm(rhom)->NiSm3 | L: Sm 0.74; α-Sm(rhom): Sm 1; NiSm3: Sm 0.75 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 2; `ORC-4F6HPQN5SJ` |  |
@@ -150,15 +148,14 @@ Table: Invariant reactions reported in the literature for the Ni–Sm system (51
 | 890 | eutectoid: Sm7Ni3 -> Sm3Ni + Sm3Ni2 | Sm7Ni3: Sm 0.7; Sm3Ni: Sm 0.75; Sm3Ni2: Sm 0.6 | model | [1] Rahou 2016 | Table 4, p. 4, row 9; `ORC-WWD4X4DZMZ` |  |
 | 873 | eutectoid: Sm3Ni2 -> Sm3Ni + SmNi | Sm3Ni2: Sm 0.6; Sm3Ni: Sm 0.75; SmNi: Sm 0.5 | experimental | [1] Rahou 2016; _cites Borzone 2012_ [doi](https://doi.org/10.1007/s00706-012-0794-5) | Table 4, p. 4, row 16; `ORC-P7EX3O6XI3` |  |
 | 873 | eutectoid: Sm3Ni2 -> Sm3Ni + SmNi | Sm3Ni2: Sm 0.6; Sm3Ni: Sm 0.75; SmNi: Sm 0.5 | model | [1] Rahou 2016 | Table 4, p. 4, row 15; `ORC-Q5KKKHJBAE` |  |
-| 845 | Liq.->NiSm +NiSm3 | L: Sm 0.626; NiSm: Sm 0.5; NiSm3: Sm 0.75 | model | [2] Su 1998 | Table 2, p. 3, row 3; `ORC-7J4WLAKO4N` |  |
-| 843 | Liq.->NiSm +NiSm3 | L: Sm 0.68; NiSm: Sm 0.5; NiSm3: Sm 0.75 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 4; `ORC-BX56I4S3KT` |  |
-| 843 | eutectic: L→NiSm1NiSm 3 |  | experimental | [2] Su 1998; _cites Pan 1983_ | p. 2; `ORC-OYLGKD66R7.75aca7` | “Three eutectic reactions occur: L→Ni 17 Sm 2 1a-Ni(fcc) (1553 K, 94 at% Ni), L→Ni 2 Sm1NiSm (1082 K, 53.5 at% Ni), L→NiSm1NiSm 3 (843 K, \|32at% Ni).” |
+| 845 | eutectic: Liq.->NiSm +NiSm3 | L: Sm 0.626; NiSm: Sm 0.5; NiSm3: Sm 0.75 | model | [2] Su 1998 | Table 2, p. 3, row 3; `ORC-7J4WLAKO4N` |  |
+| 843 | eutectic: Liq.->NiSm +NiSm3 | L: Sm 0.68; NiSm: Sm 0.5; NiSm3: Sm 0.75 | experimental | [2] Su 1998; _cites Pan 1983_ | Table 2, p. 3, row 4; `ORC-BX56I4S3KT` |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Sm system (27)
+Table: Enthalpies of formation, Ni–Sm system (29)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -174,7 +171,7 @@ Table: Enthalpies of formation, Ni–Sm system (27)
 | Sm5Ni19 |  | -36.5 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 21; `ORC-EBM4A4NZHC.d77e2c` |  |
 | Sm5Ni19 |  | -34.5 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 20; `ORC-3FTFHG62AG.c7649e` |  |
 | Sm7Ni3 | [Ni3Sm7](https://data.orchid-project.org/compounds/Ni3Sm7.html) | -19.4 kJ/mol-atom | 300 | model |  | -21.791 (oqmd-1785840) | [1] Rahou 2016 | Table 5, p. 6, row 4; `ORC-R3A2CLR433.ff7185` |  |
-| SmNi | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | -36.4 kJ/mol-atom ± 0.7 | 1473 | experimental | -35.514 (mp-aaacewar) | -36.107 (oqmd-30859) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 8; `ORC-H5OATTV4YI.112d07` |  |
+| SmNi | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | -36.4 kJ/mol-atom ± 0.7 | 298.15 | experimental | -35.514 (mp-aaacewar) | -36.107 (oqmd-30859) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 8; `ORC-H5OATTV4YI.112d07` |  |
 | SmNi | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | -34.2 kJ/mol-atom | 300 | model | -35.514 (mp-aaacewar) | -36.107 (oqmd-30859) | [1] Rahou 2016 | Table 5, p. 6, row 6; `ORC-UFNAP3LNTN.669eb3` |  |
 | SmNi | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | -33 kJ/mol-atom ± 1 | 300 | experimental | -35.514 (mp-aaacewar) | -36.107 (oqmd-30859) | [1] Rahou 2016; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 5, p. 6, row 7; `ORC-TQH35NFF7E.7f567c` |  |
 | SmNi | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | -27.5 kJ/mol-atom |  | model | -35.514 (mp-aaacewar) | -36.107 (oqmd-30859) | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 9; `ORC-4UJCYEEGLP.9f5282` |  |
@@ -188,7 +185,9 @@ Table: Enthalpies of formation, Ni–Sm system (27)
 | SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -35.5 kJ/mol-atom |  | model | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 25; `ORC-5GMPTGCBUF.9876b0` |  |
 | SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -31.6 kJ/mol-atom | 300 | model | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016 | Table 5, p. 6, row 22; `ORC-V44SXNOR6E.944019` |  |
 | SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -30.3 kJ/mol-atom | 300 | experimental | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016; _cites Pasturel 1984_ [doi](https://doi.org/10.1002/pssb.2221250110) | Table 5, p. 6, row 24; `ORC-UHMYIGYWKU.8cb74d` |  |
-| SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -27.4 kJ/mol-atom | 1473 | experimental | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23; `ORC-EENBV6JOTY.018b44` |  |
+| SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -27.4 kJ/mol-atom | 298.15 | experimental | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23; `ORC-EENBV6JOTY.018b44` |  |
+| UNKNOWN |  | -36.4 kJ/mol-atom ± 0.7 | 1473 | experimental |  |  | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 8; `ORC-H5OATTV4YI.99a5c9` |  |
+| UNKNOWN |  | -27.4 kJ/mol-atom | 1473 | experimental |  |  | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23; `ORC-EENBV6JOTY.a7d9ec` |  |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Al–Fe–Nb system
 
-> Al–Fe–Nb system: 123 accepted literature values (phase equilibrium 88, invariant reaction 34, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Fe–Nb system: 122 accepted literature values (phase equilibrium 88, invariant reaction 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-FE-NB.html · Markdown: https://data.orchid-project.org/systems/AL-FE-NB.md
 
-123 accepted literature values from 1 paper(s) (experimental 60, model 63); 0 calculated phase diagram(s).
+122 accepted literature values from 1 paper(s) (experimental 60, model 62); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-NB.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-NB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE-NB.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE-NB.md)
 
@@ -13,14 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 60 |
-| model | 63 |
+| model | 62 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 34 |
-| phase transition | 1 |
 | phase equilibrium | 88 |
 
 ## Invariant reactions (literature)
@@ -65,14 +64,6 @@ Table: Invariant reactions reported in the literature for the Al–Fe–Nb syste
 | 928.15 | quasi-peritectic: L + Al3Nb -> Fe4Al13 + (Al) |  | model | [1] He 2017 | Table 4, p. 12, row 36; `ORC-CCGXJK4Q64` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Al–Fe–Nb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1414.15 K | 1414.15 | other: C14 ? Fe5Al8 $ Al3Nb ? FeAl | model | [1] He 2017 | p. 15; `ORC-3INNZCRI6Y` | “The calculated isopleth in Fig. 7(d) also contains the solid-state invariant reaction U5: C14 ? Fe5Al8 $ Al3Nb ? FeAl at 1141 C.” |
 
 ### Phase equilibrium (88)
 

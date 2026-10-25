@@ -269,7 +269,7 @@
     "x0": 0.005,
     "hyperplane_delta": 0.0025,
     "reaction_printed": "L -> Bi + Bi4Rh",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -288,7 +288,7 @@
     "x0": 0.005,
     "hyperplane_delta": 0.0025,
     "reaction_printed": "L -> Bi + Bi4Rh",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

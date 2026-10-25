@@ -29,8 +29,8 @@ Table: Uncertainty budget of the literature values of Bi2Cs
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -26.2 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -31.027 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -37.753 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -30.442 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -37.753 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -30.442 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

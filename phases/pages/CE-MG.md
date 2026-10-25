@@ -22,7 +22,7 @@ Table: Phases of the Ce–Mg system (14)
 | [DHCP](#phase-ce-mg-dhcp-a3); _phase:ce-mg:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [FCC_A1](#phase-ce-mg-fcc-a1); _phase:ce-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1048.29 K, x(Mg) 0–0.11822 | 1 | 4 |
 | [HCP_A3](#phase-ce-mg-hcp-a3); _phase:ce-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2499.49 K, x(Mg) 0.9983–1 | 3 | 4 |
-| [LIQUID](#phase-ce-mg-liquid); _phase:ce-mg:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 864.31–2500 K, x(Mg) 0–1 | 25 | 4 |
+| [LIQUID](#phase-ce-mg-liquid); _phase:ce-mg:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 864.31–2500 K, x(Mg) 0–1 | 26 | 4 |
 | [MG17R2](#phase-ce-mg-mg17r2); _phase:ce-mg:mg17r2_ | CeMg10 · hP44 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 4 calculated diagram(s): 880–896.13 K, x(Mg) 0.89474–0.89474 | 7 | 4 |
 | [MG41M5](#phase-ce-mg-mg41m5); _phase:ce-mg:mg41m5_ | Ce5Mg41 · tI92 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–905.42 K, x(Mg) 0.8913–0.8913 | 7 | 4 |
 | [MG5M](#phase-ce-mg-mg5m); _phase:ce-mg:mg5m_ |  | needs_review | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -36,7 +36,7 @@ Table: Phases of the Ce–Mg system (14)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:bcc-a2)
 
 Names (9): _corpus: _corpus:phase:ce-mg:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2007.09.020:bcc_A2, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1016/j.jallcom.2007.09.020:bcc_A2, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:CeMg-08Guo.tdb:A2_BCC, tdb:CeMg-08Guo.tdb:BCC_A2, tdb:CeMg-08Zha.tdb:BCC_A2, tdb:CeMg-10Guo.tdb:A2_BCC, tdb:CeMg-10Guo.tdb:BCC_A2, tdb:CeMg-98Cac-LB.tdb:BCC_A2  
 
 
@@ -84,7 +84,7 @@ _tdb: _tdb:CeMg-08Guo.tdb:A2_BCC, tdb:CeMg-08Guo.tdb:BCC_A2, tdb:CeMg-08Zha.tdb:
 35: CONST BCC_A2 : CE% MG : VA% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020) Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -92,8 +92,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110380](https://doi.org/10.3139/146.110380) C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1515/ijmr-1947-380101](https://doi.org/10.1515/ijmr-1947-380101) R. Vogel, T. Heumann, Z. Metallkd. 38 (1947) 1–8.  
 _cited as the source of values for this phase_
 
@@ -186,7 +184,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:c15-mg2m)
 
 Names (8): _corpus: _corpus:phase:ce-mg:c15-mg2m, corpus:phase:ce-mg:mg2m-c15  
-_paper: _paper:10.1016/j.jallcom.2007.09.020:Mg2Ce, paper:10.1016/s0364-5916(98)00037-6:CeMg2  
+_paper: _paper:10.1016/j.jallcom.2007.09.020:Mg2Ce, paper:sha256-85fd53a1a176b694:CeMg2  
 _tdb: _tdb:CeMg-08Guo.tdb:MG2M_C15, tdb:CeMg-08Zha.tdb:MG2M_C15, tdb:CeMg-10Guo.tdb:MG2M_C15, tdb:CeMg-98Cac-LB.tdb:MG2M_C15  
 
 
@@ -220,7 +218,7 @@ _tdb: _tdb:CeMg-08Guo.tdb:MG2M_C15, tdb:CeMg-08Zha.tdb:MG2M_C15, tdb:CeMg-10Guo.
 55: CONST MG2M_C15 : MG : CE : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020) Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -228,8 +226,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110380](https://doi.org/10.3139/146.110380) C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1515/ijmr-1947-380101](https://doi.org/10.1515/ijmr-1947-380101) R. Vogel, T. Heumann, Z. Metallkd. 38 (1947) 1–8.  
 _cited as the source of values for this phase_
 
@@ -243,7 +239,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:cemg-b2)
 
 Names (5): _corpus: _corpus:phase:ce-mg:cemg-b2  
-_paper: _paper:10.1016/j.jallcom.2007.09.020:MgCe, paper:10.1016/s0364-5916(98)00037-6:CeMg  
+_paper: _paper:10.1016/j.jallcom.2007.09.020:MgCe, paper:sha256-85fd53a1a176b694:CeMg  
 _tdb: _tdb:CeMg-08Zha.tdb:CEMG_B2, tdb:CeMg-98Cac-LB.tdb:CEMG_B2  
 
 
@@ -263,12 +259,10 @@ _tdb: _tdb:CeMg-08Zha.tdb:CEMG_B2, tdb:CeMg-98Cac-LB.tdb:CEMG_B2
 50: CONST CEMG_B2 : MG : CE : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020) Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1515/ijmr-1947-380101](https://doi.org/10.1515/ijmr-1947-380101) R. Vogel, T. Heumann, Z. Metallkd. 38 (1947) 1–8.  
 _cited as the source of values for this phase_
 
@@ -283,7 +277,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:d03-mg3m)
 
 Names (8): _corpus: _corpus:phase:ce-mg:d03-mg3m, corpus:phase:ce-mg:mg3m-d03  
-_paper: _paper:10.1016/j.jallcom.2007.09.020:Mg3Ce, paper:10.1016/s0364-5916(98)00037-6:CeMg3  
+_paper: _paper:10.1016/j.jallcom.2007.09.020:Mg3Ce, paper:sha256-85fd53a1a176b694:CeMg3  
 _tdb: _tdb:CeMg-08Guo.tdb:MG3M_D03, tdb:CeMg-08Zha.tdb:MG3M_D03, tdb:CeMg-10Guo.tdb:MG3M_D03, tdb:CeMg-98Cac-LB.tdb:MG3M_D03  
 
 
@@ -317,7 +311,7 @@ _tdb: _tdb:CeMg-08Guo.tdb:MG3M_D03, tdb:CeMg-08Zha.tdb:MG3M_D03, tdb:CeMg-10Guo.
 60: CONST MG3M_D03 : MG : CE : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020) Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -325,8 +319,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110380](https://doi.org/10.3139/146.110380) C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1515/ijmr-1947-380101](https://doi.org/10.1515/ijmr-1947-380101) R. Vogel, T. Heumann, Z. Metallkd. 38 (1947) 1–8.  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(65)90115-3](https://doi.org/10.1016/0022-5088%2865%2990115-3) David H. Wood, Eugene M. Cramer, Phase relations in the magnesium-rich portion of the cerium-magnesium system, Journal of the Less Common Metals 9, 321-337 (1965).  
@@ -344,7 +336,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:d2b-mg12r)
 
 Names (8): _corpus: _corpus:phase:ce-mg:d2b-mg12r, corpus:phase:ce-mg:mg12r-d2b  
-_paper: _paper:10.1016/j.jallcom.2007.09.020:Mg12Ce, paper:10.1016/s0364-5916(98)00037-6:CeMg12  
+_paper: _paper:10.1016/j.jallcom.2007.09.020:Mg12Ce, paper:sha256-85fd53a1a176b694:CeMg12  
 _tdb: _tdb:CeMg-08Guo.tdb:MG12R_D2B, tdb:CeMg-08Zha.tdb:MG12R_D2B, tdb:CeMg-10Guo.tdb:MG12R_D2B, tdb:CeMg-98Cac-LB.tdb:MG12R_D2B  
 
 
@@ -378,7 +370,7 @@ _tdb: _tdb:CeMg-08Guo.tdb:MG12R_D2B, tdb:CeMg-08Zha.tdb:MG12R_D2B, tdb:CeMg-10Gu
 70: CONST MG12R_D2B : MG : CE : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020) Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -386,8 +378,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110380](https://doi.org/10.3139/146.110380) C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## DHCP (Ce–Mg)
 
@@ -449,7 +439,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:fcc-a1)
 
 Names (6): _corpus: _corpus:phase:ce-mg:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:CeMg-08Guo.tdb:FCC_A1, tdb:CeMg-08Zha.tdb:FCC_A1, tdb:CeMg-10Guo.tdb:FCC_A1, tdb:CeMg-98Cac-LB.tdb:FCC_A1  
 
 
@@ -483,7 +473,7 @@ _tdb: _tdb:CeMg-08Guo.tdb:FCC_A1, tdb:CeMg-08Zha.tdb:FCC_A1, tdb:CeMg-10Guo.tdb:
 30: CONST FCC_A1 : CE% MG : VA% : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020) Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008).  
 _assessment that models this phase_
@@ -491,8 +481,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110380](https://doi.org/10.3139/146.110380) C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Ce–Mg)
 
@@ -503,7 +491,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:hcp-a3)
 
 Names (7): _corpus: _corpus:phase:ce-mg:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2007.09.020:hcp_A3, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:10.1016/j.jallcom.2007.09.020:hcp_A3, paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:CeMg-08Guo.tdb:HCP_A3, tdb:CeMg-08Zha.tdb:HCP_A3, tdb:CeMg-10Guo.tdb:HCP_A3, tdb:CeMg-98Cac-LB.tdb:HCP_A3  
 
 
@@ -537,7 +525,7 @@ _tdb: _tdb:CeMg-08Guo.tdb:HCP_A3, tdb:CeMg-08Zha.tdb:HCP_A3, tdb:CeMg-10Guo.tdb:
 40: CONST HCP_A3 : CE MG% : VA% : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020) Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -545,19 +533,17 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110380](https://doi.org/10.3139/146.110380) C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Ce–Mg)
 
 - Id: `phase:ce-mg:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 864.31–2500 K, x(Mg) 0–1
-- Literature: 25 values (25 accepted) from 2 papers
+- Literature: 26 values (26 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:liquid)
 
-Names (7): _corpus: _corpus:phase:ce-mg:liquid  
-_paper: _paper:10.1016/j.jallcom.2007.09.020:L, paper:10.1016/s0364-5916(98)00037-6:L  
+Names (8): _corpus: _corpus:phase:ce-mg:liquid  
+_paper: _paper:10.1016/j.jallcom.2007.09.020:L, paper:10.1016/j.jallcom.2007.09.020:liquid, paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:CeMg-08Guo.tdb:LIQUID, tdb:CeMg-08Zha.tdb:LIQUID, tdb:CeMg-10Guo.tdb:LIQUID, tdb:CeMg-98Cac-LB.tdb:LIQUID  
 
 
@@ -591,7 +577,7 @@ _tdb: _tdb:CeMg-08Guo.tdb:LIQUID, tdb:CeMg-08Zha.tdb:LIQUID, tdb:CeMg-10Guo.tdb:
 25: CONST LIQUID:L : CE MG : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020) Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -599,8 +585,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110380](https://doi.org/10.3139/146.110380) C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1515/ijmr-1947-380101](https://doi.org/10.1515/ijmr-1947-380101) R. Vogel, T. Heumann, Z. Metallkd. 38 (1947) 1–8.  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(65)90115-3](https://doi.org/10.1016/0022-5088%2865%2990115-3) David H. Wood, Eugene M. Cramer, Phase relations in the magnesium-rich portion of the cerium-magnesium system, Journal of the Less Common Metals 9, 321-337 (1965).  
@@ -618,7 +602,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:mg17r2)
 
 Names (7): _corpus: _corpus:phase:ce-mg:mg17r2  
-_paper: _paper:10.1016/j.jallcom.2007.09.020:Mg17Ce2, paper:10.1016/s0364-5916(98)00037-6:Ce2Mg17  
+_paper: _paper:10.1016/j.jallcom.2007.09.020:Mg17Ce2, paper:sha256-85fd53a1a176b694:Ce2Mg17  
 _tdb: _tdb:CeMg-08Guo.tdb:MG17R2, tdb:CeMg-08Zha.tdb:MG17R2, tdb:CeMg-10Guo.tdb:MG17R2, tdb:CeMg-98Cac-LB.tdb:MG17R2  
 
 
@@ -652,7 +636,7 @@ _tdb: _tdb:CeMg-08Guo.tdb:MG17R2, tdb:CeMg-08Zha.tdb:MG17R2, tdb:CeMg-10Guo.tdb:
 75: CONST MG17R2 : MG : CE : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020) Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -660,8 +644,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110380](https://doi.org/10.3139/146.110380) C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/0022-5088(65)90115-3](https://doi.org/10.1016/0022-5088%2865%2990115-3) David H. Wood, Eugene M. Cramer, Phase relations in the magnesium-rich portion of the cerium-magnesium system, Journal of the Less Common Metals 9, 321-337 (1965).  
 _cited as the source of values for this phase_
 
@@ -677,7 +659,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:mg41m5)
 
 Names (7): _corpus: _corpus:phase:ce-mg:mg41m5  
-_paper: _paper:10.1016/j.jallcom.2007.09.020:Mg41Ce5, paper:10.1016/s0364-5916(98)00037-6:Ce5Mg41  
+_paper: _paper:10.1016/j.jallcom.2007.09.020:Mg41Ce5, paper:sha256-85fd53a1a176b694:Ce5Mg41  
 _tdb: _tdb:CeMg-08Guo.tdb:MG41M5, tdb:CeMg-08Zha.tdb:MG41M5, tdb:CeMg-10Guo.tdb:MG41M5, tdb:CeMg-98Cac-LB.tdb:MG41M5  
 
 
@@ -711,7 +693,7 @@ _tdb: _tdb:CeMg-08Guo.tdb:MG41M5, tdb:CeMg-08Zha.tdb:MG41M5, tdb:CeMg-10Guo.tdb:
 65: CONST MG41M5 : MG : CE : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.09.020](https://doi.org/10.1016/j.jallcom.2007.09.020) Hui Zhang, Yi Wang, Shunli Shang, Long-Qing Chen, Zi-Kui Liu, Thermodynamic modeling of Mg–Ca–Ce system by combining first-principles and CALPHAD method, Journal of Alloys and Compounds 463, 294-301 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -719,8 +701,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110380](https://doi.org/10.3139/146.110380) C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/0022-5088(65)90115-3](https://doi.org/10.1016/0022-5088%2865%2990115-3) David H. Wood, Eugene M. Cramer, Phase relations in the magnesium-rich portion of the cerium-magnesium system, Journal of the Less Common Metals 9, 321-337 (1965).  
 _cited as the source of values for this phase_
 

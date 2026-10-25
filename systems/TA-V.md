@@ -1,10 +1,10 @@
 # Ta–V system
 
-> Ta–V system: 131 accepted literature values (crystal structure 105, phase transition 14, invariant reaction 6, formation 5) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ta–V system: 128 accepted literature values (crystal structure 105, phase transition 13, formation 5, invariant reaction 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TA-V.html · Markdown: https://data.orchid-project.org/systems/TA-V.md
 
-131 accepted literature values from 3 paper(s) (experimental 42, model 14, DFT 72, unspecified 3); 5 calculated phase diagram(s).
+128 accepted literature values from 3 paper(s) (experimental 39, model 14, DFT 72, unspecified 3); 5 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TA-V.json) · [CSV](https://data.orchid-project.org/systems/TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TA-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TA-V/TaV-04Dan-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/TA-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TA-V.html) · [Markdown](https://data.orchid-project.org/systems/TA-V.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 42 |
+| experimental | 39 |
 | model | 14 |
 | DFT | 72 |
 | unspecified | 3 |
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
-| phase transition | 14 |
+| invariant reaction | 4 |
+| phase transition | 13 |
 | formation | 5 |
 | mixing / partial | 1 |
 | crystal structure | 105 |
@@ -62,15 +62,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ta–V system (6)
+Table: Invariant reactions reported in the literature for the Ta–V system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1553 | peritectoid |  | experimental | [1] Danon 2004; _cites Savitskii 1972_ | p. 2; `ORC-GCGXVOAZPZ.0d0977` | “The phase diagram displays an eutectoid decomposition of the C14 phase in the V-rich side at 1398 K, a (C15 + C14) two-phase field from 1398 up to 1553 K, a peritectoid decomposition in the Ta-rich side at 1553 K and the congruent transformation of the high-temperature C14 structure at 1693 K, this last value being taken directly from \[11\].” |
 | 1553 | peritectoid: C14 + bcc \<-> C15 | C14: V 0.64; bcc: V 0.45; C15: V 0.63 | experimental | [1] Danon 2004; _cites Savitskii 1972_ | Table 3, p. 6, row 16; `ORC-IR5CIUOXWQ` |  |
 | 1548 | peritectoid: C14 + bcc \<-> C15 | C14: V 0.64; bcc: V 0.496; C15: V 0.626 | model | [1] Danon 2004 | Table 3, p. 6, row 17; `ORC-XUQKKT6RM4` |  |
 | 1400 | eutectoid: C14 \<-> C15 + bcc | C14: V 0.69; C15: V 0.687; bcc: V 0.936 | model | [1] Danon 2004 | Table 3, p. 6, row 19; `ORC-U7LRB7BN6G` |  |
-| 1398 | eutectoid |  | experimental | [1] Danon 2004; _cites Savitskii 1972_ | p. 2; `ORC-GCGXVOAZPZ.268bc7` | “The phase diagram displays an eutectoid decomposition of the C14 phase in the V-rich side at 1398 K, a (C15 + C14) two-phase field from 1398 up to 1553 K, a peritectoid decomposition in the Ta-rich side at 1553 K and the congruent transformation of the high-temperature C14 structure at 1693 K, this last value being taken directly from \[11\].” |
 | 1398 | eutectoid: C14 \<-> C15 + bcc | C14: V 0.71; C15: V 0.69; bcc: V 0.91 | experimental | [1] Danon 2004; _cites Savitskii 1972_ | Table 3, p. 6, row 18; `ORC-NOBTI6MRCP` |  |
 
 ## Formation enthalpies
@@ -89,7 +87,7 @@ Table: Enthalpies of formation, Ta–V system (5)
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (13)
 
 Table: Phase transition, Ta–V system
 
@@ -99,7 +97,6 @@ Table: Phase transition, Ta–V system
 | Phase transition | 1574 K | 1574 | congruent transformation: bcc \<-> C15; _bcc: V 0.667; C15: V 0.667_ | model | [1] Danon 2004; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990004-4) | Table 3, p. 6, row 14; `ORC-Y4JH6ATDKN` |  |
 | Phase transition | 1583 K | 1583 | congruent transformation: bcc \<-> C15; _bcc: V 0.67; C15: V 0.67_ | experimental | [1] Danon 2004; _cites Nefedov 1965_ | Table 3, p. 6, row 13; `ORC-UUELXVBTD7` |  |
 | Phase transition | 1593 K | 1593 | congruent transformation: bcc \<-> C15; _bcc: V 0.67; C15: V 0.67_ | experimental | [1] Danon 2004; _cites Carlson 1959_ | Table 3, p. 6, row 12; `ORC-3T7OUI2OHH` |  |
-| Phase transition | 1693 K | 1693 | congruent transformation | experimental | [1] Danon 2004; _cites Eremenko 1962_ | p. 2; `ORC-GCGXVOAZPZ.4ed6f0` | “The phase diagram displays an eutectoid decomposition of the C14 phase in the V-rich side at 1398 K, a (C15 + C14) two-phase field from 1398 up to 1553 K, a peritectoid decomposition in the Ta-rich side at 1553 K and the congruent transformation of the high-temperature C14 structure at 1693 K, this last value being taken directly from \[11\].” |
 | Phase transition | 1693 K | 1693 | congruent transformation: bcc \<-> C14; _bcc: V 0.67_ | experimental | [1] Danon 2004; _cites Savitskii 1972_ | Table 3, p. 6, row 10; `ORC-7CZJG3NX5U` |  |
 | Phase transition | 1693 K | 1693 | congruent transformation: bcc \<-> C14; _bcc: V 0.67_ | experimental | [1] Danon 2004; _cites Eremenko 1962_ | Table 3, p. 6, row 9; `ORC-TTTSQKX4W7` |  |
 | Phase transition | 1702 K | 1702 | congruent transformation: bcc \<-> C14; _bcc: V 0.673_ | model | [1] Danon 2004 | Table 3, p. 6, row 11; `ORC-DSCATBNH2L` |  |

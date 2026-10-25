@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/PU-TH.html · Markdown: https://data.orchid-project.org/systems/PU-TH.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PU-TH.json) · [CSV](https://data.orchid-project.org/systems/PU-TH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PU-TH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PU-TH/PuTh-14Ben.json) · [phases (9)](https://data.orchid-project.org/phases/pages/PU-TH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PU-TH.html) · [Markdown](https://data.orchid-project.org/systems/PU-TH.md)
 

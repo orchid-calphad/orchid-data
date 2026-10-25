@@ -26,8 +26,8 @@ Table: Uncertainty budget of the literature values of MgY
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -30.3 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -12.6 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -30.3 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -12.6 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -15.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of BiTi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -12.5 | kJ/mol (basis unstated) |  | 0.05 | 25.42 (dft, calibrated) |  |  |  | 25.42 |
+| -12.5 | kJ/mol (basis unstated) |  | 0.05 | 23.89 (dft, calibrated) |  |  |  | 23.89 |
 
 ## Sources
 

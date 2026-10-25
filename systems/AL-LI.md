@@ -1,10 +1,10 @@
 # Al–Li system
 
-> Al–Li system: 99 accepted literature values (formation 47, invariant reaction 30, crystal structure 16, phase transition 6) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Li system: 95 accepted literature values (formation 47, invariant reaction 29, crystal structure 16, phase transition 3) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-LI.html · Markdown: https://data.orchid-project.org/systems/AL-LI.md
 
-99 accepted literature values from 4 paper(s) (experimental 16, model 44, DFT 25, unspecified 14); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+95 accepted literature values from 3 paper(s) (experimental 14, model 47, DFT 25, unspecified 9); 7 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LI.json) · [CSV](https://data.orchid-project.org/systems/AL-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-LI/AlLi-07Hal-condensed.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-LI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-LI.html) · [Markdown](https://data.orchid-project.org/systems/AL-LI.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
-| model | 44 |
+| experimental | 14 |
+| model | 47 |
 | DFT | 25 |
-| unspecified | 14 |
+| unspecified | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 30 |
-| phase transition | 6 |
+| invariant reaction | 29 |
+| phase transition | 3 |
 | formation | 47 |
 | crystal structure | 16 |
 
@@ -122,21 +122,21 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Li system (30)
+Table: Invariant reactions reported in the literature for the Al–Li system (29)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 978 | congruent melting: AlLi -> Liquid | AlLi: Li 0.5; Liquid: Li 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 5; `ORC-Y26UWOHZTX` |  |
+| 978 | congruent melting: AlLi -> Liquid | AlLi: Li 0.5; Liquid: Li 0.5 | model | [1] (ed.) 1998 | Table I, p. 58, row 5; `ORC-Y26UWOHZTX` |  |
 | 876 | L ↔ fcc(Al) + AlLi | L: Li 0.238; fcc(Al): Li 0.131; AlLi: Li 0.456 | model | [2] Long 2020 | Table 3, p. 5, row 10; `ORC-MBIA43UNOF` |  |
 | 876 | L ↔ fcc(Al) + AlLi | L: Li 0.238; fcc(Al): Li 0.131; AlLi: Li 0.456 | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 9; `ORC-W53IOYC56J` |  |
 | 875 | L ↔ fcc(Al) + AlLi | L: Li 0.252; fcc(Al): Li 0.138; AlLi: Li 0.475 | experimental | [2] Long 2020; _cites Schurmann 1981_ | Table 3, p. 5, row 8; `ORC-5QBASPWCER` |  |
 | 873 | L ↔ fcc(Al) + AlLi | AlLi: Li 0.5 | model | [2] Long 2020; _cites Myles 2020_ | Table 3, p. 5, row 7; `ORC-2HA7QWOFNY` |  |
 | 873 | L ↔ fcc(Al) + AlLi | L: Li 0.3; fcc(Al): Li 0.18; AlLi: Li 0.5 | experimental | [2] Long 2020; _cites Grube 1935_ | Table 3, p. 5, row 5; `ORC-74FUJ7XHGF` |  |
 | 871 | L ↔ fcc(Al) + AlLi | L: Li 0.26; AlLi: Li 0.5 | experimental | [2] Long 2020; _cites Shamray 1937_ | Table 3, p. 5, row 6; `ORC-SLGJ6TEXEO` |  |
-| 868.8 | eutectic: Liquid -> fcc-Al + AlLi | Liquid: Li 0.256; AlLi: Li 0.462; fcc-A1: Li 0.155 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 1; `ORC-3JQQVIZKIJ` |  |
+| 868.8 | eutectic: Liquid -> fcc-Al + AlLi | Liquid: Li 0.256; AlLi: Li 0.462; fcc-A1: Li 0.155 | model | [1] (ed.) 1998 | Table I, p. 58, row 1; `ORC-3JQQVIZKIJ` |  |
 | 863 | L ↔ fcc(Al) + AlLi | L: Li 0.234; fcc(Al): Li 0.124; AlLi: Li 0.5 | experimental | [2] Long 2020; _cites Muller 1926_ | Table 3, p. 5, row 4; `ORC-NOKGAXYWXY` |  |
 | 794 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.56; L: Li 0.78; Al2Li3: Li 0.667 | experimental | [2] Long 2020; _cites Grube 1935_ | Table 3, p. 5, row 11; `ORC-RA66IPE7HX` |  |
-| 793.6 | peritectic: Liquid + AlLi -> Al2Li3 | Liquid: Li 0.775; AlLi: Li 0.555; Al2Li3: Li 0.6 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 2; `ORC-E2X7E5M3OR` |  |
+| 793.6 | peritectic: Liquid + AlLi -> Al2Li3 | Liquid: Li 0.775; AlLi: Li 0.555; Al2Li3: Li 0.6 | model | [1] (ed.) 1998 | Table I, p. 58, row 2; `ORC-E2X7E5M3OR` |  |
 | 793 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.567; L: Li 0.745; Al2Li3: Li 0.6 | model | [2] Long 2020 | Table 3, p. 5, row 16; `ORC-DKKIOJCGVH` |  |
 | 793 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.7; Al2Li3: Li 0.6 | experimental | [2] Long 2020; _cites Shamray 1937_ | Table 3, p. 5, row 12; `ORC-J67MWTVMN5` |  |
 | 793 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.567; L: Li 0.745; Al2Li3: Li 0.6 | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 15; `ORC-ST6E2YUNY5` |  |
@@ -147,15 +147,14 @@ Table: Invariant reactions reported in the literature for the Al–Li system (30
 | 608 | Al2Li3 + L ↔ Al4Li9 | Al2Li3: Li 0.6; Al4Li9: Li 0.692 | model | [2] Long 2020; _cites Myles 2020_ | Table 3, p. 5, row 17; `ORC-562NYVNFGR` |  |
 | 608 | Al2Li3 + L ↔ AlLi2 | Al2Li3: Li 0.6; L: Li 0.913; AlLi2: Li 0.651 | model | [2] Long 2020 | Table 3, p. 5, row 26; `ORC-B5PSSHNXKB` |  |
 | 608 | Al2Li3 + L ↔ AlLi2 | Al2Li3: Li 0.6; L: Li 0.895; AlLi2: Li 0.642 | experimental | [2] Long 2020; _cites Puhakainen 2010_ [doi](https://doi.org/10.1016/j.jssc.2010.08.029) | Table 3, p. 5, row 25; `ORC-MUEFNSQVSU` |  |
-| 608 | peritectic: Al2Li3 + liquid -> AlLi2 |  | experimental | [2] Long 2020; _cites Puhakainen 2010_ [doi](https://doi.org/10.1016/j.jssc.2010.08.029) | p. 4; `ORC-YS3DFAYWO7` | “AlLi2 is formed by a peritectic reaction of Al2Li3 with liquid at about 608 K.” |
-| 607.6 | peritectic: Liquid + Al2Li3 -> Al4Li9 | Liquid: Li 0.912; Al2Li3: Li 0.6; Al4Li9: Li 0.692 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 3; `ORC-LOXXLCR6XR` |  |
+| 607.6 | peritectic: Liquid + Al2Li3 -> Al4Li9 | Liquid: Li 0.912; Al2Li3: Li 0.6; Al4Li9: Li 0.692 | model | [1] (ed.) 1998 | Table I, p. 58, row 3; `ORC-LOXXLCR6XR` |  |
 | 545 | L + AlLi2 ↔ Al4Li9 | L: Li 0.963; AlLi2: Li 0.658; Al4Li9: Li 0.692 | model | [2] Long 2020 | Table 3, p. 5, row 28; `ORC-NJLBBTSRV3` |  |
 | 543 | L + AlLi2 ↔ Al4Li9 | L: Li 0.95; AlLi2: Li 0.663; Al4Li9: Li 0.692 | experimental | [2] Long 2020; _cites Puhakainen 2010_ [doi](https://doi.org/10.1016/j.jssc.2010.08.029) | Table 3, p. 5, row 27; `ORC-3XB46JIMSK` |  |
 | 453.6 | L + Al4Li9 ↔ bcc(Li) | Al4Li9: Li 0.692; bcc(Li): Li 0.994 | experimental | [2] Long 2020; _cites Pulham 1994_ [doi](https://doi.org/10.1007/bf02647619) | Table 3, p. 5, row 22; `ORC-JY3ZN7WAT6` |  |
 | 453 | L + Al4Li9 ↔ bcc(Li) | Al4Li9: Li 0.692 | model | [2] Long 2020; _cites Myles 2020_ | Table 3, p. 5, row 21; `ORC-AEJRAOFBIN` |  |
 | 452.3 | L + Al4Li9 ↔ bcc(Li) | L: Li 0.9957; Al4Li9: Li 0.692; bcc(Li): Li 0.9932 | model | [2] Long 2020 | Table 3, p. 5, row 24; `ORC-45EKEUSETE` |  |
 | 452.3 | L + Al4Li9 ↔ bcc(Li) | L: Li 0.9957; Al4Li9: Li 0.692; bcc(Li): Li 0.9932 | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 23; `ORC-K4N7FI3P47` |  |
-| 447.8 | eutectic: Liquid -> Al4Li9 + bcc-A2 | Liquid: Li 0.989; Al4Li9: Li 0.692; bcc-A2: Li 0.999 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 4; `ORC-KVKU5EYDIZ` |  |
+| 447.8 | eutectic: Liquid -> Al4Li9 + bcc-A2 | Liquid: Li 0.989; Al4Li9: Li 0.692; bcc-A2: Li 0.999 | model | [1] (ed.) 1998 | Table I, p. 58, row 4; `ORC-KVKU5EYDIZ` |  |
 
 ## Formation enthalpies
 
@@ -215,15 +214,12 @@ Table: Enthalpies of formation, Al–Li system (47)
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (3)
 
 Table: Phase transition, Al–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 468.15 K | 468.15 | L + Al2 Li3 = Al4 Li9 + (Li) | model | [3] Wang 2011 | p. 7; `ORC-UUPVRVRFUO.b35520` | “In the Li-rich corner without experimental data, the present calculation shows that Al4 Li9 is formed by a transition reaction L + Al2 Li3 = Al4 Li9 + (Li) at 195 °C, which is much lower than the assessed temperature 350 °C by Ghosh \[17\].” |
-| Phase transition | 623.15 K | 623.15 | L + Al2 Li3 = Al4 Li9 + (Li) | model | [3] Wang 2011; _cites Ghosh 2005_ | p. 7; `ORC-UUPVRVRFUO.266251` | “In the Li-rich corner without experimental data, the present calculation shows that Al4 Li9 is formed by a transition reaction L + Al2 Li3 = Al4 Li9 + (Li) at 195 °C, which is much lower than the assessed temperature 350 °C by Ghosh \[17\].” |
-| Phase transition | 853 K | 853 | liq. + AlLi → τ 1 | experimental | [4] Guo 2011; _cites Badaeva 1943_ | p. 10; `ORC-KKXM3ILVUW` | “If the composition of Zn in AlLi is changed from 0.01 at.% (the present result) to 2 at.% at 470 K, the homogeneity range of Zn in AlLi and τ2 will become worse in comparison with the reviewed results \[23\] and the reaction temperature of liq. + AlLi → τ 1 decreases to 820 K, which was 853 K reported by Badaeva and Saldau \[13\].” |
 | Phase transition | 965 K | 965 | L ↔ AlLi; _L: Li 0.5; AlLi: Li 0.5_ | model | [2] Long 2020; _cites Myles 2020_ | Table 3, p. 5, row 1; `ORC-6NRJUYGPET` |  |
 | Phase transition | 970 K | 970 | L ↔ AlLi; _L: Li 0.49; AlLi: Li 0.49_ | experimental | [2] Long 2020; _cites Schurmann 1981_ | Table 3, p. 5, row 2; `ORC-7D74SQUJ54` |  |
 | Phase transition | 975 K | 975 | L ↔ AlLi; _L: Li 0.497; AlLi: Li 0.497_ | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 3; `ORC-XQOS2WNDJA` |  |
@@ -255,10 +251,9 @@ Table: Crystal structure, Al–Li system
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020). [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z)
 3. Peisheng Wang, Yong Du, Shuhong Liu, Thermodynamic optimization of the Li–Mg and Al–Li–Mg systems, Calphad 35, 523-532 (2011). [doi:10.1016/j.calphad.2011.09.003](https://doi.org/10.1016/j.calphad.2011.09.003)
-4. Cuiping Guo, Yu Liang, Changrong Li, Zhenmin Du, Thermodynamic description of the Al–Li–Zn system, Calphad 35, 54-65 (2011). [doi:10.1016/j.calphad.2010.11.006](https://doi.org/10.1016/j.calphad.2010.11.006)
 
 ## Please cite
 

@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of AlV3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -13.03 | kJ/mol (basis unstated) |  | 0.005 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
-| -9.97 | kJ/mol (basis unstated) |  | 0.005 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
-| -9.13 | kJ/mol (basis unstated) |  | 0.005 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
+| -13.03 | kJ/mol (basis unstated) |  | 0.005 | 31.85 (dft, calibrated) |  |  |  | 31.85 |
+| -9.97 | kJ/mol (basis unstated) |  | 0.005 | 31.85 (dft, calibrated) |  |  |  | 31.85 |
+| -9.13 | kJ/mol (basis unstated) |  | 0.005 | 31.85 (dft, calibrated) |  |  |  | 31.85 |
 
 ## Sources
 

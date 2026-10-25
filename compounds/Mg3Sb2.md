@@ -40,7 +40,7 @@ Table: Uncertainty budget of the literature values of Mg3Sb2
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -299 | kJ/mol (basis unstated) | 3 | 0.5 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
-| -285 | kJ/mol (basis unstated) |  | 0.5 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -285 | kJ/mol (basis unstated) |  | 0.5 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 16 |
 | -235 | kJ/mol (basis unstated) | 6 | 0.5 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
 | -47 | kJ/mol-atom | 1.2 | 0.01 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -490 | kJ/mol (basis unstated) |  | 0.5 | 17 (model_calculated, calibrated) |  |  |  | 17 |

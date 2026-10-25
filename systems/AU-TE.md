@@ -1,10 +1,10 @@
 # Au–Te system
 
-> Au–Te system: 43 accepted literature values (phase transition 22, invariant reaction 10, crystal structure 6, formation 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Te system: 42 accepted literature values (phase transition 21, invariant reaction 10, crystal structure 6, formation 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-TE.html · Markdown: https://data.orchid-project.org/systems/AU-TE.md
 
-43 accepted literature values from 2 paper(s) (experimental 40, model 3); 2 calculated phase diagram(s).
+42 accepted literature values from 2 paper(s) (experimental 39, model 3); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-TE.json) · [CSV](https://data.orchid-project.org/systems/AU-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-TE/AuTe-06Wan.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AU-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-TE.html) · [Markdown](https://data.orchid-project.org/systems/AU-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 40 |
+| experimental | 39 |
 | model | 3 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
-| phase transition | 22 |
+| phase transition | 21 |
 | formation | 4 |
 | crystal structure | 6 |
 | other property | 1 |
@@ -77,14 +77,14 @@ Table: Enthalpies of formation, Au–Te system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -4.74 kJ/mol-atom | 298.15 | experimental |  |  | [1] Wang 2006; _cites Andon 1971_ [doi](https://doi.org/10.1039/j19710001788) | p. 3; `ORC-PIT3OT5WS4.0347a2` | “The data for enthalpy of formation of AuTe2 obtained from vapor pressure measurements by Andon et al. \[21\] and Veale and Barrett \[13\] are -4.74 and -3.91 kJ per mole atoms, respectively, at 298 K.” |
-| — |  | -3.91 kJ/mol-atom | 298.15 | experimental |  |  | [1] Wang 2006; _cites Veale 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990110-5) | p. 3; `ORC-PIT3OT5WS4.72d95c` | “The data for enthalpy of formation of AuTe2 obtained from vapor pressure measurements by Andon et al. \[21\] and Veale and Barrett \[13\] are -4.74 and -3.91 kJ per mole atoms, respectively, at 298 K.” |
-| — |  | -3 kJ/mol-atom | 298.15 | experimental |  |  | [1] Wang 2006 | p. 3; `ORC-PAHTSG7EPU` | “They obtained the enthalpy of formation of AuTe2 compound at 298 K (-3.0 kJ per mole of atoms) and the enthalpy of fusion (19.1 kJ per mole of atoms).” |
-| — |  | -2.5 kJ/mol-atom | 728 | experimental |  |  | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | p. 3; `ORC-7O4F7ARINC.45bbae` | “The enthalpy of formation of AuTe2 compound at 728 K is -2.5 kJ per mole of atoms and the enthalpy of fusion at 737 K is 18.6 kJ per mole of atoms, which were measured by direct reaction calorimetry \[3\].” |
+| AuTe2 | [AuTe2](https://data.orchid-project.org/compounds/AuTe2.html) | -4.74 kJ/mol-atom | 298.15 | experimental | -8.675 (mp-aaaabdtz) | -8.029 (oqmd-6956) | [1] Wang 2006; _cites Andon 1971_ [doi](https://doi.org/10.1039/j19710001788) | p. 3; `ORC-PIT3OT5WS4.0347a2` | “The data for enthalpy of formation of AuTe2 obtained from vapor pressure measurements by Andon et al. \[21\] and Veale and Barrett \[13\] are -4.74 and -3.91 kJ per mole atoms, respectively, at 298 K.” |
+| AuTe2 | [AuTe2](https://data.orchid-project.org/compounds/AuTe2.html) | -3.91 kJ/mol-atom | 298.15 | experimental | -8.675 (mp-aaaabdtz) | -8.029 (oqmd-6956) | [1] Wang 2006; _cites Veale 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990110-5) | p. 3; `ORC-PIT3OT5WS4.72d95c` | “The data for enthalpy of formation of AuTe2 obtained from vapor pressure measurements by Andon et al. \[21\] and Veale and Barrett \[13\] are -4.74 and -3.91 kJ per mole atoms, respectively, at 298 K.” |
+| AuTe2 | [AuTe2](https://data.orchid-project.org/compounds/AuTe2.html) | -3 kJ/mol-atom | 298.15 | experimental | -8.675 (mp-aaaabdtz) | -8.029 (oqmd-6956) | [1] Wang 2006 | p. 3; `ORC-PAHTSG7EPU` | “They obtained the enthalpy of formation of AuTe2 compound at 298 K (-3.0 kJ per mole of atoms) and the enthalpy of fusion (19.1 kJ per mole of atoms).” |
+| AuTe2 | [AuTe2](https://data.orchid-project.org/compounds/AuTe2.html) | -2.5 kJ/mol-atom | 728 | experimental | -8.675 (mp-aaaabdtz) | -8.029 (oqmd-6956) | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | p. 3; `ORC-7O4F7ARINC.45bbae` | “The enthalpy of formation of AuTe2 compound at 728 K is -2.5 kJ per mole of atoms and the enthalpy of fusion at 737 K is 18.6 kJ per mole of atoms, which were measured by direct reaction calorimetry \[3\].” |
 
 ## Other properties
 
-### Phase transition (22)
+### Phase transition (21)
 
 Table: Phase transition, Au–Te system
 
@@ -108,7 +108,6 @@ Table: Phase transition, Au–Te system
 | Phase transition | 721.25 K | 721.25 | other: 57 at.% Te; _alloy: Au 0.43, Te 0.57_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 24; `ORC-PHOYCTGPIY` |  |
 | Phase transition | 725 K | 725 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 12; `ORC-EE6MIHNNIY` |  |
 | Phase transition | 736 K | 736 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 13; `ORC-QYBTXIEXAE` |  |
-| Phase transition | 736.75 K | 736.75 | congruent transformation | experimental | [2] Feutelais 1994 | p. 2; `ORC-6H45XRZAFQ` | “Auo.333Te0.667 a congruent melting point at 463.6 ~” |
 | Phase transition | 736.75 K | 736.75 | congruent transformation: 66.67 at.% Te; _alloy: Au 0.3333, Te 0.6667_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 27; `ORC-ENLKL7A667` |  |
 | Phase transition | 737 K | 737 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 11; `ORC-IXK2JBOHZB` |  |
 | Phase transition | 738.4 K | 738.4 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | model | [1] Wang 2006 | Table 2, p. 3, row 14; `ORC-RZLTQYZPHC` |  |

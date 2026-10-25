@@ -59,20 +59,20 @@ Table: Invariant reactions reported in the literature for the Re–Zr system (36
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3264 | Liquid -> Re2Zr | Re2Zr: Re 0.68 | model | [1] Che 2023 | Table 5, p. 8, row 25; `ORC-ONSWACRELG` |  |
-| 3263 | Liquid -> Re2Zr | Liquid: Re 0.666667, Zr 0.333333; Re2Zr: Re 0.666667, Zr 0.333333 | experimental | [1] Che 2023 | Table 5, p. 8, row 24; `ORC-F7YWB7B343` |  |
-| 3170 | Liquid -> Re2Zr | Liquid: Re 0.665; Re2Zr: Re 0.665 | model | [1] Che 2023; _cites Liu 2013_ [doi](https://doi.org/10.1007/s00706-013-1040-5) | Table 5, p. 8, row 23; `ORC-WFBR4TAF6J` |  |
+| 3264 | congruent melting: Liquid -> Re2Zr | Re2Zr: Re 0.68 | model | [1] Che 2023 | Table 5, p. 8, row 25; `ORC-ONSWACRELG` |  |
+| 3263 | congruent melting: Liquid -> Re2Zr | Liquid: Re 0.666667, Zr 0.333333; Re2Zr: Re 0.666667, Zr 0.333333 | experimental | [1] Che 2023 | Table 5, p. 8, row 24; `ORC-F7YWB7B343` |  |
+| 3170 | congruent melting: Liquid -> Re2Zr | Liquid: Re 0.665; Re2Zr: Re 0.665 | model | [1] Che 2023; _cites Liu 2013_ [doi](https://doi.org/10.1007/s00706-013-1040-5) | Table 5, p. 8, row 23; `ORC-WFBR4TAF6J` |  |
 | 3124 | Liquid + Re2Zr -> Re24Zr5 | Liquid: Re 0.8443; Re2Zr: Re 0.7013; Re24Zr5: Re 0.8269 | model | [1] Che 2023 | Table 5, p. 8, row 7; `ORC-FTFIFTEKDH` |  |
-| 3123 | Liquid -> hcp (Re) + Re24Zr5 | Re24Zr5: Re 0.827586, Zr 0.172414 | experimental | [1] Che 2023 | Table 5, p. 8, row 2; `ORC-KMCSG3UTFD` |  |
+| 3123 | eutectic: Liquid -> hcp (Re) + Re24Zr5 | Re24Zr5: Re 0.827586, Zr 0.172414 | experimental | [1] Che 2023 | Table 5, p. 8, row 2; `ORC-KMCSG3UTFD` |  |
 | 3110 | Liquid + Re2Zr -> Re24Zr5 | Re2Zr: Re 0.666667, Zr 0.333333; Re24Zr5: Re 0.827586, Zr 0.172414 | experimental | [1] Che 2023 | Table 5, p. 8, row 6; `ORC-AMI3AHIQMS` |  |
-| 3100 | Liquid -> hcp (Re) + Re24Zr5 | Liquid: Re 0.8831; hcp (Re): Re 0.9999; Re24Zr5: Re 0.8273 | model | [1] Che 2023 | Table 5, p. 8, row 3; `ORC-ZR4NSZCPPA` |  |
-| 3023 | Liquid -> Re2Zr | Liquid: Re 0.666667, Zr 0.333333; Re2Zr: Re 0.666667, Zr 0.333333 | experimental | [1] Che 2023; _cites Okamoto 1990_ | Table 5, p. 8, row 22; `ORC-UEUUUWCZTD` |  |
+| 3100 | eutectic: Liquid -> hcp (Re) + Re24Zr5 | Liquid: Re 0.8831; hcp (Re): Re 0.9999; Re24Zr5: Re 0.8273 | model | [1] Che 2023 | Table 5, p. 8, row 3; `ORC-ZR4NSZCPPA` |  |
+| 3023 | congruent melting: Liquid -> Re2Zr | Liquid: Re 0.666667, Zr 0.333333; Re2Zr: Re 0.666667, Zr 0.333333 | experimental | [1] Che 2023; _cites Okamoto 1990_ | Table 5, p. 8, row 22; `ORC-UEUUUWCZTD` |  |
 | 2800 | Liquid + Re2Zr -> Re24Zr5 | Re2Zr: Re 0.666667, Zr 0.333333; Re24Zr5: Re 0.827586, Zr 0.172414 | experimental | [1] Che 2023; _cites Okamoto 1990_ | Table 5, p. 8, row 4; `ORC-H5QNKD7GHY` |  |
 | 2800 | liq. + Re2Zr -> Re24Zr5 | Re2Zr: Zr 0.333333; Re24Zr5: Zr 0.172414 | experimental | [2] Liu 2013; _cites Massalski 1990_ | Table 2, p. 3, row 2; `ORC-SXDLVNO3XM` |  |
 | 2797 | liq. + Re2Zr -> Re24Zr5 | liq.: Zr 0.1688; Re2Zr: Zr 0.3249; Re24Zr5: Zr 0.1717 | model | [2] Liu 2013 | Table 2, p. 3, row 3; `ORC-JN7HWOQTEO` |  |
 | 2797 | Liquid + Re2Zr -> Re24Zr5 | Liquid: Re 0.8312; Re2Zr: Re 0.6751; Re24Zr5: Re 0.8283 | model | [1] Che 2023; _cites Liu 2013_ [doi](https://doi.org/10.1007/s00706-013-1040-5) | Table 5, p. 8, row 5; `ORC-UUV5KIRM7Z` |  |
-| 2774 | Liquid -> hcp (Re) + Re24Zr5 | Liquid: Re 0.8626; hcp (Re): Re 0.999; Re24Zr5: Re 0.8312 | model | [1] Che 2023; _cites Liu 2013_ [doi](https://doi.org/10.1007/s00706-013-1040-5) | Table 5, p. 8, row 1; `ORC-OSMWSQZNIC` |  |
-| 2774 | liq. -> hcp(Re) + Re24Zr5 | liq.: Zr 0.1374; hcp(Re): Zr 0.001; Re24Zr5: Zr 0.1688 | model | [2] Liu 2013 | Table 2, p. 3, row 1; `ORC-UK35HJ56JQ` |  |
+| 2774 | eutectic: Liquid -> hcp (Re) + Re24Zr5 | Liquid: Re 0.8626; hcp (Re): Re 0.999; Re24Zr5: Re 0.8312 | model | [1] Che 2023; _cites Liu 2013_ [doi](https://doi.org/10.1007/s00706-013-1040-5) | Table 5, p. 8, row 1; `ORC-OSMWSQZNIC` |  |
+| 2774 | eutectic: liq. -> hcp(Re) + Re24Zr5 | liq.: Zr 0.1374; hcp(Re): Zr 0.001; Re24Zr5: Zr 0.1688 | model | [2] Liu 2013 | Table 2, p. 3, row 1; `ORC-UK35HJ56JQ` |  |
 | 2173 | liq. + Re2Zr -> ReZr2 | Re2Zr: Zr 0.333333; ReZr2: Zr 0.666667 | experimental | [2] Liu 2013; _cites Savitskii 1959_ | Table 2, p. 3, row 5; `ORC-DFFOYPPTVR` |  |
 | 2173 | Liquid + Re2Zr -> Re25Zr21 | Re2Zr: Re 0.666667, Zr 0.333333; Re25Zr21: Re 0.543478, Zr 0.456522 | experimental | [1] Che 2023; _cites Savitskii 1961_ [doi](https://doi.org/10.1007/bf01479962) | Table 5, p. 8, row 8; `ORC-DFOHDEWOLL` |  |
 | 1928 | Liquid + Re2Zr -> Re25Zr21 | Liquid: Re 0.2062; Re2Zr: Re 0.6371; Re25Zr21: Re 0.5435 | model | [1] Che 2023 | Table 5, p. 8, row 12; `ORC-FTQRUKXA6U` |  |
@@ -81,14 +81,14 @@ Table: Invariant reactions reported in the literature for the Re–Zr system (36
 | 1913 | liq. + Re2Zr -> ReZr2 | liq.: Zr 0.752; Re2Zr: Zr 0.361; ReZr2: Zr 0.6667 | model | [2] Liu 2013 | Table 2, p. 3, row 6; `ORC-75GV3K7SQY` |  |
 | 1913 | Liquid + Re2Zr -> Re25Zr21 | Re2Zr: Re 0.666667, Zr 0.333333; Re25Zr21: Re 0.543478, Zr 0.456522 | experimental | [1] Che 2023; _cites Okamoto 1990_ | Table 5, p. 8, row 9; `ORC-E3JWRNSD75` |  |
 | 1913 | Liquid + Re2Zr -> Re25Zr21 | Liquid: Re 0.248; Re2Zr: Re 0.639; Re25Zr21: Re 0.3333 | model | [1] Che 2023; _cites Liu 2013_ [doi](https://doi.org/10.1007/s00706-013-1040-5) | Table 5, p. 8, row 10; `ORC-MSUYAGRKCO` |  |
-| 1873 | Liquid -> bcc (Zr) + Re25Zr21 | Liquid: Re 0.1404; Re25Zr21: Re 0.543478, Zr 0.456522 | experimental | [1] Che 2023; _cites Savitskii 1961_ [doi](https://doi.org/10.1007/bf01479962) | Table 5, p. 8, row 14; `ORC-J5P4NWBVJO` |  |
-| 1873 | liq. -> ReZr2 + bcc | liq.: Zr 0.86; ReZr2: Zr 0.666667 | experimental | [2] Liu 2013; _cites Elliot 1965_ | Table 2, p. 3, row 8; `ORC-QDM7KGLNHD` |  |
-| 1873 | liq. -> ReZr2 + bcc | liq.: Zr 0.7776; ReZr2: Zr 0.6667; bcc: Zr 0.9348 | model | [2] Liu 2013 | Table 2, p. 3, row 9; `ORC-TWSKQ3KT62` |  |
-| 1873 | Liquid -> bcc (Zr) + Re25Zr21 | Liquid: Re 0.2224; bcc (Zr): Re 0.0652; Re25Zr21: Re 0.3333 | model | [1] Che 2023; _cites Liu 2013_ [doi](https://doi.org/10.1007/s00706-013-1040-5) | Table 5, p. 8, row 15; `ORC-YMFWRBPBVH` |  |
-| 1866 | Liquid -> bcc (Zr) + Re25Zr21 | Liquid: Re 0.144; bcc (Zr): Re 0.0611; Re25Zr21: Re 0.5435 | model | [1] Che 2023 | Table 5, p. 8, row 17; `ORC-6IX65QQEL5` |  |
-| 1866 | Liquid -> bcc (Zr) + Re25Zr21 | Liquid: Re 0.144; Re25Zr21: Re 0.543478, Zr 0.456522 | experimental | [1] Che 2023 | Table 5, p. 8, row 16; `ORC-A52G4M4ODB` |  |
-| 1866 | liq. -> ReZr2 + bcc | liq.: Zr 0.765; ReZr2: Zr 0.666667 | unspecified | [2] Liu 2013; _cites Massalski 1990_ | Table 2, p. 3, row 7; `ORC-O6FI4MGATG` |  |
-| 1866 | Liquid -> bcc (Zr) + Re25Zr21 | Liquid: Re 0.235; Re25Zr21: Re 0.543478, Zr 0.456522 | unspecified | [1] Che 2023; _cites Okamoto 1990_ | Table 5, p. 8, row 13; `ORC-SSROMRYPMR` |  |
+| 1873 | eutectic: Liquid -> bcc (Zr) + Re25Zr21 | Liquid: Re 0.1404; Re25Zr21: Re 0.543478, Zr 0.456522 | experimental | [1] Che 2023; _cites Savitskii 1961_ [doi](https://doi.org/10.1007/bf01479962) | Table 5, p. 8, row 14; `ORC-J5P4NWBVJO` |  |
+| 1873 | eutectic: liq. -> ReZr2 + bcc | liq.: Zr 0.86; ReZr2: Zr 0.666667 | experimental | [2] Liu 2013; _cites Elliot 1965_ | Table 2, p. 3, row 8; `ORC-QDM7KGLNHD` |  |
+| 1873 | eutectic: liq. -> ReZr2 + bcc | liq.: Zr 0.7776; ReZr2: Zr 0.6667; bcc: Zr 0.9348 | model | [2] Liu 2013 | Table 2, p. 3, row 9; `ORC-TWSKQ3KT62` |  |
+| 1873 | eutectic: Liquid -> bcc (Zr) + Re25Zr21 | Liquid: Re 0.2224; bcc (Zr): Re 0.0652; Re25Zr21: Re 0.3333 | model | [1] Che 2023; _cites Liu 2013_ [doi](https://doi.org/10.1007/s00706-013-1040-5) | Table 5, p. 8, row 15; `ORC-YMFWRBPBVH` |  |
+| 1866 | eutectic: Liquid -> bcc (Zr) + Re25Zr21 | Liquid: Re 0.144; bcc (Zr): Re 0.0611; Re25Zr21: Re 0.5435 | model | [1] Che 2023 | Table 5, p. 8, row 17; `ORC-6IX65QQEL5` |  |
+| 1866 | eutectic: Liquid -> bcc (Zr) + Re25Zr21 | Liquid: Re 0.144; Re25Zr21: Re 0.543478, Zr 0.456522 | experimental | [1] Che 2023 | Table 5, p. 8, row 16; `ORC-A52G4M4ODB` |  |
+| 1866 | eutectic: liq. -> ReZr2 + bcc | liq.: Zr 0.765; ReZr2: Zr 0.666667 | unspecified | [2] Liu 2013; _cites Massalski 1990_ | Table 2, p. 3, row 7; `ORC-O6FI4MGATG` |  |
+| 1866 | eutectic: Liquid -> bcc (Zr) + Re25Zr21 | Liquid: Re 0.235; Re25Zr21: Re 0.543478, Zr 0.456522 | unspecified | [1] Che 2023; _cites Okamoto 1990_ | Table 5, p. 8, row 13; `ORC-SSROMRYPMR` |  |
 | 1016 | bcc (Zr) -> hcp (Zr) + Re25Zr21 | bcc (Zr): Re 0.0539; hcp (Zr): Re 0.0201; Re25Zr21: Re 0.5435 | model | [1] Che 2023 | Table 5, p. 8, row 21; `ORC-M76V6POUK6` |  |
 | 878 | bcc (Zr) -> hcp (Zr) + Re25Zr21 | bcc (Zr): Re 0.0536; hcp (Zr): Re 0.0049; Re25Zr21: Re 0.3333 | model | [1] Che 2023; _cites Liu 2013_ [doi](https://doi.org/10.1007/s00706-013-1040-5) | Table 5, p. 8, row 20; `ORC-G7BGEYIWPK` |  |
 | 878 | bcc -> ReZr2 + hcp(Zr) | bcc: Zr 0.9464; ReZr2: Zr 0.6667; hcp(Zr): Zr 0.9951 | model | [2] Liu 2013 | Table 2, p. 3, row 11; `ORC-UFV5QNDKS7` |  |

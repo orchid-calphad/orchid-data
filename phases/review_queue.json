@@ -3892,7 +3892,7 @@
      "detail": "AlCr-98Sau-LB.tdb: 'Prototype Al4Mn-mu (hP574, P6_3/mmc)'"
     }
    ],
-   "literature_values": 61
+   "literature_values": 63
   },
   {
    "id": "phase:al-cr:al7cr",
@@ -3992,7 +3992,7 @@
      "detail": "AlCr-17Wan.tdb: 'Prototype Al45V7 (mC104, C2/m)'"
     }
    ],
-   "literature_values": 53
+   "literature_values": 54
   },
   {
    "id": "phase:al-cr:al8cr5",
@@ -4056,7 +4056,7 @@
      "detail": "AlCr-98Mur.tdb: 'Prototype Cu5Zn8 (cI52, I-43m), high T'"
     }
    ],
-   "literature_values": 1
+   "literature_values": 3
   },
   {
    "id": "phase:al-cr:al8cr5-gamma",
@@ -6253,7 +6253,7 @@
      "pearson": "hP3",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 16
+     "count": 8
     },
     {
      "source": "name_token",
@@ -6316,7 +6316,7 @@
      "detail": "AlLa-18Lia.tdb: 'Prototype AlB2 (hP3, P6/mmm, AlxLa in Massalski, also Al5La2)'"
     }
    ],
-   "literature_values": 16
+   "literature_values": 8
   },
   {
    "id": "phase:al-li:alli2",
@@ -10532,7 +10532,7 @@
      "detail": "AlTe-93Oh.tdb: 'Prototype Al2Te3 (mP240, P2_1)'"
     }
    ],
-   "literature_values": 2
+   "literature_values": 5
   },
   {
    "id": "phase:al-te:alte",
@@ -32517,7 +32517,7 @@
      "detail": "Hallstedt 2025 mmc2 row for CU7ND2: Cu7Nd2"
     }
    ],
-   "literature_values": 0
+   "literature_values": 1
   },
   {
    "id": "phase:cu-nd:cund",
@@ -37592,7 +37592,7 @@
      "pearson": "hP24",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 2
+     "count": 1
     },
     {
      "source": "name_token",
@@ -37619,7 +37619,7 @@
      "detail": "Hallstedt 2025 mmc2 row for HCP_A3: DyH3, ErH3, GdH3, YH3"
     }
    ],
-   "literature_values": 2
+   "literature_values": 1
   },
   {
    "id": "phase:dy-ni:dy2ni7",
@@ -38765,7 +38765,7 @@
      "detail": "Hallstedt 2025 mmc2 row for HCP_A3: DyH3, ErH3, GdH3, YH3"
     }
    ],
-   "literature_values": 4
+   "literature_values": 0
   },
   {
    "id": "phase:er-ni:er4ni17",
@@ -40266,7 +40266,7 @@
      "detail": "FeNi-19Ohn.tdb: 'Prototype AuCu3 (cP4, Pm-3m, L1_2) and AuCu (tP4, P4/mmm, L1_0)'"
     }
    ],
-   "literature_values": 10
+   "literature_values": 12
   },
   {
    "id": "phase:fe-p:fep4",
@@ -42659,7 +42659,7 @@
      "detail": "FeY-97Du.tdb: 'Prototype Th2Zn17 (hR19, R-3m), low T'"
     }
    ],
-   "literature_values": 134
+   "literature_values": 136
   },
   {
    "id": "phase:fe-y:fe17y2-ht",
@@ -44441,7 +44441,7 @@
      "pearson": "hP24",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 2
+     "count": 1
     },
     {
      "source": "name_token",
@@ -44468,7 +44468,7 @@
      "detail": "Hallstedt 2025 mmc2 row for HCP_A3: DyH3, ErH3, GdH3, YH3"
     }
    ],
-   "literature_values": 2
+   "literature_values": 1
   },
   {
    "id": "phase:gd-mg:gdmg7",
@@ -47489,7 +47489,7 @@
      "pearson": "hP24",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 10
+     "count": 4
     },
     {
      "source": "name_token",
@@ -47516,7 +47516,7 @@
      "detail": "Hallstedt 2025 mmc2 row for HCP_A3: DyH3, ErH3, GdH3, YH3"
     }
    ],
-   "literature_values": 20
+   "literature_values": 12
   },
   {
    "id": "phase:h-zr:zrh2-l2b",
@@ -48564,16 +48564,6 @@
    ],
    "candidates": [
     {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "(In57La43)",
-     "strukturbericht": null,
-     "pearson": "?",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 4
-    },
-    {
      "source": "sgte_mmc2",
      "structure_type": "st:in57la43",
      "prototype": "(In57La43)",
@@ -48583,7 +48573,7 @@
      "detail": "Hallstedt 2025 mmc2 row for IN57LA43: In57La43"
     }
    ],
-   "literature_values": 4
+   "literature_values": 0
   },
   {
    "id": "phase:in-li:inli6",
@@ -51369,7 +51359,7 @@
      "detail": "LaSn-19Li-sub.tdb: 'Prototype Ge4Sm5 (oP36, Pnma)'"
     }
    ],
-   "literature_values": 26
+   "literature_values": 27
   },
   {
    "id": "phase:la-te:late3",
@@ -51733,7 +51723,7 @@
      "detail": "LiSi-17Lia.tdb: 'Prototype Li13Si4 (mP34, Pm)'"
     }
    ],
-   "literature_values": 29
+   "literature_values": 31
   },
   {
    "id": "phase:li-si:li21si5",
@@ -51877,7 +51867,7 @@
      "detail": "LiSn-14Li.tdb: 'Prototype Li17Pb4 (cF420, F-43m)'"
     }
    ],
-   "literature_values": 24
+   "literature_values": 26
   },
   {
    "id": "phase:li-sn:li8sn3",
@@ -57300,7 +57290,7 @@
      "detail": "NdZn-11Qi.tdb: 'Prototype Th2Zn17 (hR19, R-3m), HT'"
     }
    ],
-   "literature_values": 27
+   "literature_values": 28
   },
   {
    "id": "phase:nd-zn:ndzn11-ht",
@@ -59607,7 +59597,7 @@
      "detail": "NiSn-99Gho.tdb: 'Prototype Ni3Sn2 (oP20, Pnma), low T'"
     }
    ],
-   "literature_values": 37
+   "literature_values": 38
   },
   {
    "id": "phase:ni-sn:ni3sn2-lt",
@@ -61363,7 +61353,7 @@
      "detail": "Hallstedt 2025 mmc2 row for NIYB_HT: NiYb (high T)"
     }
    ],
-   "literature_values": 3
+   "literature_values": 4
   },
   {
    "id": "phase:ni-zn:ni2zn15",
@@ -61641,7 +61631,7 @@
      "detail": "NiZr-94Gho-LB.tdb: 'Prototype Hf8Ni21 (aP29, P-1)'"
     }
    ],
-   "literature_values": 66
+   "literature_values": 67
   },
   {
    "id": "phase:ni-zr:ni5zr-c15b",
@@ -61912,7 +61902,7 @@
      "detail": "NiZr-94Gho-LB.tdb: 'Prototype Ni7Zr2 (mC36, C2/m)'"
     }
    ],
-   "literature_values": 74
+   "literature_values": 75
   },
   {
    "id": "phase:ni-zr:nizr2-c16",
@@ -74963,7 +74953,7 @@
      "detail": "Hallstedt 2025 mmc2 row for VZN16: VZN16"
     }
    ],
-   "literature_values": 0
+   "literature_values": 2
   },
   {
    "id": "phase:y-zn:y2zn17",

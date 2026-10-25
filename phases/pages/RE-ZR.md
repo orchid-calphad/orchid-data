@@ -16,10 +16,10 @@ Table: Phases of the Re–Zr system (8)
 | [C14_LAVES](#phase-re-zr-c14-laves); _phase:re-zr:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3263.91 K, x(Zr) 0.29852–0.36282 | 37 | 2 |
 | [FCC_A1](#phase-re-zr-fcc-a1); _phase:re-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-re-zr-hcp-a3); _phase:re-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3542.25 K, x(Zr) 0–1 | 18 | 2 |
-| [LIQUID](#phase-re-zr-liquid); _phase:re-zr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1821.17–4000 K, x(Zr) 0–1 | 41 | 2 |
+| [LIQUID](#phase-re-zr-liquid); _phase:re-zr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1821.17–4000 K, x(Zr) 0–1 | 47 | 2 |
 | [RE24ZR5_A12](#phase-re-zr-re24zr5-a12); _phase:re-zr:re24zr5-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3122.98 K, x(Zr) 0.1699–0.1727 | 18 | 2 |
 | [RE25ZR21](#phase-re-zr-re25zr21); _phase:re-zr:re25zr21_ | Re25Zr21 · hR92 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1933.91 K, x(Zr) 0.45652–0.45801 | 24 | 1 |
-| [REZR2](#phase-re-zr-rezr2); _phase:re-zr:rezr2_ | Re25Zr21 · hR92 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1913 K, x(Zr) 0.66667–0.66667 | 8 | 1 |
+| [REZR2](#phase-re-zr-rezr2); _phase:re-zr:rezr2_ | Re25Zr21 · hR92 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1913 K, x(Zr) 0.66667–0.66667 | 11 | 1 |
 
 ## BCC_A2 (Re–Zr)
 
@@ -179,11 +179,11 @@ _assessment that models this phase; cited as the source of values for this phase
 - Id: `phase:re-zr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1821.17–4000 K, x(Zr) 0–1
-- Literature: 41 values (41 accepted) from 2 papers
+- Literature: 47 values (43 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-zr:liquid)
 
-Names (6): _corpus: _corpus:phase:re-zr:liquid  
-_paper: _paper:10.1007/s00706-013-1040-5:liq., paper:10.1016/j.ijrmhm.2023.106259:Liquid, paper:10.1016/j.ijrmhm.2023.106259:liquid  
+Names (7): _corpus: _corpus:phase:re-zr:liquid  
+_paper: _paper:10.1007/s00706-013-1040-5:liq., paper:10.1007/s00706-013-1040-5:liquid, paper:10.1016/j.ijrmhm.2023.106259:Liquid, paper:10.1016/j.ijrmhm.2023.106259:liquid  
 _tdb: _tdb:ReZr-13Liu.tdb:LIQUID, tdb:ReZr-23Che.tdb:LIQUID  
 
 
@@ -303,11 +303,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Re 0.3333, Zr 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1913 K, x(Zr) 0.66667–0.66667
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 11 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-zr:rezr2)
 
-Names (3): _corpus: _corpus:phase:re-zr:rezr2  
-_paper: _paper:10.1007/s00706-013-1040-5:ReZr2  
+Names (4): _corpus: _corpus:phase:re-zr:rezr2  
+_paper: _paper:10.1007/s00706-013-1040-5:ReZr2, paper:10.1016/j.ijrmhm.2023.106259:ReZr2  
 _tdb: _tdb:ReZr-13Liu.tdb:REZR2  
 
 
@@ -320,12 +320,14 @@ _tdb: _tdb:ReZr-13Liu.tdb:REZR2
 61: CONST REZR2 : RE : ZR : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s00706-013-1040-5](https://doi.org/10.1007/s00706-013-1040-5) Jinming Liu, Yinghui Zhang, Zhixiang Wang, Thermodynamic description of the Re–Zr system, Monatsh Chem 144, 1613-1616 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf01479962](https://doi.org/10.1007/bf01479962) E. M. Savitskii, M. A. Tylkina, I. A. Tsyganova, Phase diagram of the zirconium-rhenium system, The Soviet Journal of Atomic Energy 7, 724-727 (1961).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.ijrmhm.2023.106259](https://doi.org/10.1016/j.ijrmhm.2023.106259) Xuezhen Che, Shengyang Qin, Junkun Huang, Xiangbiao Shi, Dandan Huang, A study on the phase diagram of Re-Zr refractory system, International Journal of Refractory Metals and Hard Materials 114, 106259 (2023).  
+_reports values for this phase_
 - [doi:10.1016/0036-9748(79)90119-4](https://doi.org/10.1016/0036-9748%2879%2990119-4) S.P. Garg, R.J. Ackermann, Zr-Re phase diagram between 1866 to 1913 K, Scripta Metallurgica 13, 611-613 (1979).  
 _cited as the source of values for this phase_
 

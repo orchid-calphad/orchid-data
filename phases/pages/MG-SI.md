@@ -16,7 +16,7 @@ Table: Phases of the Mg–Si system (6)
 | [BCC_A2](#phase-mg-si-bcc-a2); _phase:mg-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [FCC_A1](#phase-mg-si-fcc-a1); _phase:mg-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [HCP_A3](#phase-mg-si-hcp-a3); _phase:mg-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–930.75 K, x(Si) 0–6e-05 | 31 | 7 |
-| [LIQUID](#phase-mg-si-liquid); _phase:mg-si:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 910.24–2500 K, x(Si) 0–1 | 104 | 7 |
+| [LIQUID](#phase-mg-si-liquid); _phase:mg-si:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 910.24–2500 K, x(Si) 0–1 | 105 | 7 |
 | [MG2SI_C1](#phase-mg-si-mg2si-c1); _phase:mg-si:mg2si-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1360.67 K, x(Si) 0.33333–0.33333 | 124 | 7 |
 
 ## DIAMOND_A4 (Mg–Si)
@@ -358,11 +358,11 @@ _cited as the source of values for this phase_
 - Id: `phase:mg-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 910.24–2500 K, x(Si) 0–1
-- Literature: 104 values (102 accepted) from 5 papers
+- Literature: 105 values (103 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-si:liquid)
 
-Names (14): _corpus: _corpus:phase:mg-si:liquid  
-_paper: _paper:10.1016/j.calphad.2009.08.004:L, paper:10.1016/j.calphad.2012.02.001:L, paper:10.1016/j.calphad.2012.02.001:liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid, paper:10.1016/s0925-8388(96)02655-2:liquid, paper:10.1361/105497100770339914:L  
+Names (15): _corpus: _corpus:phase:mg-si:liquid  
+_paper: _paper:10.1016/j.calphad.2009.08.004:L, paper:10.1016/j.calphad.2012.02.001:L, paper:10.1016/j.calphad.2012.02.001:Liquid, paper:10.1016/j.calphad.2012.02.001:liquid, paper:10.1016/s0925-8388(96)02655-2:liquid, paper:10.1361/105497100770339914:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:MgSi-00Yan-LB.tdb:LIQUID, tdb:MgSi-04Kev.tdb:LIQUID, tdb:MgSi-09Yua.tdb:LIQUID, tdb:MgSi-12Sch.tdb:LIQUID, tdb:MgSi-16Lia.tdb:LIQUID, tdb:MgSi-86Lud.tdb:LIQUID, tdb:MgSi-97Feu.tdb:LIQUID  
 
 
@@ -417,7 +417,7 @@ _tdb: _tdb:MgSi-00Yan-LB.tdb:LIQUID, tdb:MgSi-04Kev.tdb:LIQUID, tdb:MgSi-09Yua.t
 27: CONST LIQUID:L : MG SI : !
 ~~~~
 
-Example references (10 of 12; assessments first): 
+Example references (10 of 11; assessments first): 
 
 - [doi:10.1361/105497100770339914](https://doi.org/10.1361/105497100770339914) Xin-Yan Yan, Y. A. Chang, F. Zhang, A thermodynamic analysis of the Mg-Si system, JPE 21, 379-384 (2000).  
 _assessment that models this phase; reports values for this phase_

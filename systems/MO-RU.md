@@ -1,10 +1,10 @@
 # Mo–Ru system
 
-> Mo–Ru system: 13 accepted literature values (invariant reaction 12, other property 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ru system: 10 accepted literature values (invariant reaction 9, other property 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-RU.html · Markdown: https://data.orchid-project.org/systems/MO-RU.md
 
-13 accepted literature values from 1 paper(s) (experimental 6, model 7); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+10 accepted literature values from 1 paper(s) (experimental 3, model 7); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-RU.json) · [CSV](https://data.orchid-project.org/systems/MO-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-RU/MoRu-00Oh-oldsigma.json) · [phases (7)](https://data.orchid-project.org/phases/pages/MO-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-RU.html) · [Markdown](https://data.orchid-project.org/systems/MO-RU.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
+| experimental | 3 |
 | model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
+| invariant reaction | 9 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -53,19 +53,16 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mo–Ru system (12)
+Table: Invariant reactions reported in the literature for the Mo–Ru system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2230 | Liq = bcc + hcp | L: Ru 0.425; bcc: Ru 0.321; hcp: Ru 0.488 | model | [1] Oh 2000 | Table 2, p. 4, row 3; `ORC-YSFEJ4YNZA` |  |
 | 2229 | Liq = bcc + hcp | L: Ru 0.425; bcc: Ru 0.323; hcp: Ru 0.488 | model | [1] Oh 2000 | Table 2, p. 4, row 2; `ORC-IYBQ35IRSP` |  |
 | 2228 | Liq = bcc + hcp | L: Ru 0.42; bcc: Ru 0.324; hcp: Ru 0.485 | experimental | [1] Oh 2000 | Table 2, p. 4, row 1; `ORC-C2UWYVIRMM` |  |
-| 2228 | eutectic |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2; `ORC-VVUQIHBCTA` | “The alloy system was characterized as eutectic type with a reaction temperature of 2228 K and a liquid with about 42 at.% Ru, which is in close agreement with the earlier work by Anderson and Hume-Rothery.” |
 | 2190 | bcc + hcp = σ | bcc: Ru 0.311; hcp: Ru 0.488; σ: Ru 0.38 | model | [1] Oh 2000 | Table 2, p. 4, row 6; `ORC-6RQFUM2DCT` |  |
 | 2190 | bcc + hcp = σ | bcc: Ru 0.313; hcp: Ru 0.488; σ: Ru 0.381 | model | [1] Oh 2000 | Table 2, p. 4, row 5; `ORC-X2T2R64TSF` |  |
-| 2188 | peritectoid |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2; `ORC-RGE2WIDPVW.6ff541` | “The only intermediate s phase occurring between 36.7 and 39.4 at.% Ru was formed by a peritectoid reaction at 2188 K, and was decomposed by a eutectoid reaction at 1416 K.” |
 | 2188 | bcc + hcp = σ | bcc: Ru 0.324; hcp: Ru 0.485; σ: Ru 0.375 | experimental | [1] Oh 2000 | Table 2, p. 4, row 4; `ORC-Y4TGD7SJ44` |  |
-| 1416 | eutectoid |  | experimental | [1] Oh 2000; _cites Kleykamp 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990430-4) | p. 2; `ORC-RGE2WIDPVW.d85a5f` | “The only intermediate s phase occurring between 36.7 and 39.4 at.% Ru was formed by a peritectoid reaction at 2188 K, and was decomposed by a eutectoid reaction at 1416 K.” |
 | 1416 | σ = bcc + hcp | σ: Ru 0.375; bcc: Ru 0.11; hcp: Ru 0.59 | experimental | [1] Oh 2000 | Table 2, p. 4, row 7; `ORC-YRTTJEUMNX` |  |
 | 1414 | σ = bcc + hcp | σ: Ru 0.376; bcc: Ru 0.111; hcp: Ru 0.568 | model | [1] Oh 2000 | Table 2, p. 4, row 9; `ORC-EKS3ZITGNL.499c4a` |  |
 | 1414 | σ = bcc + hcp | σ: Ru 0.378; bcc: Ru 0.11; hcp: Ru 0.568 | model | [1] Oh 2000 | Table 2, p. 4, row 8; `ORC-EKS3ZITGNL.fd5c72` |  |

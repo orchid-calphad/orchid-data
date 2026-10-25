@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Fe2Mn
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | 25.409 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| 21.311 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 21.311 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

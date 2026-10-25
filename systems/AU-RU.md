@@ -1,10 +1,10 @@
 # Au–Ru system
 
-> Au–Ru system: 27 accepted literature values (phase equilibrium 19, phase transition 6, crystal structure 1, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ru system: 25 accepted literature values (phase equilibrium 19, phase transition 5, crystal structure 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-RU.html · Markdown: https://data.orchid-project.org/systems/AU-RU.md
 
-27 accepted literature values from 1 paper(s) (experimental 5, model 21, unspecified 1); 2 calculated phase diagram(s).
+25 accepted literature values from 1 paper(s) (experimental 5, model 19, unspecified 1); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-RU.json) · [CSV](https://data.orchid-project.org/systems/AU-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-RU/AuRu-84Oka.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AU-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-RU.html) · [Markdown](https://data.orchid-project.org/systems/AU-RU.md)
 
@@ -13,15 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 5 |
-| model | 21 |
+| model | 19 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 6 |
+| phase transition | 5 |
 | phase equilibrium | 19 |
 | crystal structure | 1 |
 
@@ -47,17 +46,9 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AU/AU-RU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AU/AU-RU.json) · [CALPHAD hull AuRu-84Oka](https://data.orchid-project.org/hulls/calphad-sgte/AU/AU-RU--AuRu-84Oka.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Au–Ru system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1339.15 | peritectic |  | model | [1] Okamoto 1984 | p. 1; `ORC-JYOTPOX4RI.4e992c` | “The peritectic temperature of 1066 ~ (which is slightly above the melting point of Au, 1064.43 ~ \[81BAP\]) and the maximum solid solubility of 2 at.% Ru in Au have been deduced from these values.” |
-
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (5)
 
 Table: Phase transition, Au–Ru system
 
@@ -67,7 +58,6 @@ Table: Phase transition, Au–Ru system
 | Phase transition | 1065 K | 1065 | UNKNOWN; _alloy: Au 0.981, Ru 0.019_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 1, row 2; `ORC-KDCHHQBMP7` |  |
 | Phase transition | 1065 K | 1065 | UNKNOWN; _alloy: Au 0.943, Ru 0.057_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 1, row 4; `ORC-R2PS7HBBIH` |  |
 | Phase transition | 1066 K | 1066 | UNKNOWN; _alloy: Au 0.962, Ru 0.038_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 1, row 3; `ORC-FMRGLU6AW3` |  |
-| Phase transition | 1337.58 K | 1337.58 |  | model | [1] Okamoto 1984 | p. 1; `ORC-JYOTPOX4RI.ad2e79` | “The peritectic temperature of 1066 ~ (which is slightly above the melting point of Au, 1064.43 ~ \[81BAP\]) and the maximum solid solubility of 2 at.% Ru in Au have been deduced from these values.” |
 | Phase transition | 1337.65 K | 1337.65 | other: 1.0 | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 1, row 5; `ORC-HSEDXLU4TU` |  |
 
 ### Phase equilibrium (19)

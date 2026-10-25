@@ -1,10 +1,10 @@
 # Co–Y system
 
-> Co–Y system: 89 accepted literature values (invariant reaction 62, phase transition 15, formation 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Y system: 85 accepted literature values (invariant reaction 62, formation 12, phase transition 11) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-Y.html · Markdown: https://data.orchid-project.org/systems/CO-Y.md
 
-89 accepted literature values from 2 paper(s) (experimental 31, model 34, DFT 8, unspecified 16); 4 calculated phase diagram(s).
+85 accepted literature values from 2 paper(s) (experimental 29, model 32, DFT 8, unspecified 16); 4 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-Y.json) · [CSV](https://data.orchid-project.org/systems/CO-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-Y/CoY-04Du-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-Y.html) · [Markdown](https://data.orchid-project.org/systems/CO-Y.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
-| model | 34 |
+| experimental | 29 |
+| model | 32 |
 | DFT | 8 |
 | unspecified | 16 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 62 |
-| phase transition | 15 |
+| phase transition | 11 |
 | formation | 12 |
 
 ## Calculated phase diagrams
@@ -170,24 +170,24 @@ Table: Invariant reactions reported in the literature for the Co–Y system (62)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1795 | L -> β-Y | β-Y: Y 1 | experimental | [1] Golumbfskie 2006; _cites Gschneidner 1986_ [doi](https://doi.org/10.1016/s0168-1273%2886%2908004-2) | Table 2, p. 2, row 36; `ORC-I32H7PWU6F` |  |
-| 1795 | L -> β-Y | β-Y: Y 1 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 35; `ORC-MUAJBZ3DJR` |  |
-| 1768 | L -> α-Co | α-Co: Y 0 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 3; `ORC-7QYLVYNY6R` |  |
-| 1768 | L -> α-Co | α-Co: Y 0 | experimental | [1] Golumbfskie 2006; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667566) | Table 2, p. 2, row 4; `ORC-DLKARD623G` |  |
+| 1795 | congruent melting: L -> β-Y | β-Y: Y 1 | experimental | [1] Golumbfskie 2006; _cites Gschneidner 1986_ [doi](https://doi.org/10.1016/s0168-1273%2886%2908004-2) | Table 2, p. 2, row 36; `ORC-I32H7PWU6F` |  |
+| 1795 | congruent melting: L -> β-Y | β-Y: Y 1 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 35; `ORC-MUAJBZ3DJR` |  |
+| 1768 | congruent melting: L -> α-Co | α-Co: Y 0 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 3; `ORC-7QYLVYNY6R` |  |
+| 1768 | congruent melting: L -> α-Co | α-Co: Y 0 | experimental | [1] Golumbfskie 2006; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667566) | Table 2, p. 2, row 4; `ORC-DLKARD623G` |  |
 | 1751 | Liq. + bcc(Y) -> hcp(Y) | L: Y 0.9814; bcc(Y): Y 0.9999; hcp(Y): Y 0.9998 | model | [2] Du 2004 | Table 4, p. 7, row 31; `ORC-RMNGHTW3ND` |  |
 | 1751 | Liq. + bcc(Y) -> hcp(Y) | L: Y 0.98; bcc(Y): Y 1; hcp(Y): Y 1 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 32; `ORC-UYWCXMOXFC` |  |
-| 1630 | L -> β-Co17Y2 | L: Y 0.11; β-Co17Y2: Y 0.11 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 8; `ORC-QABC35TYVI` |  |
-| 1625 | L -> β-Co17Y2 | L: Y 0.106; β-Co17Y2: Y 0.106 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 7; `ORC-6V6M2BZJ3P` |  |
-| 1620 | L -> Co5Y | L: Y 0.153; Co5Y: Y 0.153 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 11; `ORC-VUD56WG274` |  |
-| 1618 | L -> β-Co17Y2 + Co5Y | L: Y 0.1359; β-Co17Y2: Y 0.1102; Co5Y: Y 0.1494 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 9; `ORC-KO5LHXAI4Y` |  |
-| 1618 | L -> Co5Y | L: Y 0.156; Co5Y: Y 0.156 | experimental | [1] Golumbfskie 2006; _cites Khan 1974_ | Table 2, p. 2, row 12; `ORC-KTLGBNC665` |  |
-| 1615 | L -> (α-Co) + β-Co17Y2 | L: Y 0.0702; (α-Co): Y 0; β-Co17Y2: Y 0.0961 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 5; `ORC-OPXV5MSDMM` |  |
+| 1630 | congruent melting: L -> β-Co17Y2 | L: Y 0.11; β-Co17Y2: Y 0.11 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 8; `ORC-QABC35TYVI` |  |
+| 1625 | congruent melting: L -> β-Co17Y2 | L: Y 0.106; β-Co17Y2: Y 0.106 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 7; `ORC-6V6M2BZJ3P` |  |
+| 1620 | congruent melting: L -> Co5Y | L: Y 0.153; Co5Y: Y 0.153 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 11; `ORC-VUD56WG274` |  |
+| 1618 | eutectic: L -> β-Co17Y2 + Co5Y | L: Y 0.1359; β-Co17Y2: Y 0.1102; Co5Y: Y 0.1494 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 9; `ORC-KO5LHXAI4Y` |  |
+| 1618 | congruent melting: L -> Co5Y | L: Y 0.156; Co5Y: Y 0.156 | experimental | [1] Golumbfskie 2006; _cites Khan 1974_ | Table 2, p. 2, row 12; `ORC-KTLGBNC665` |  |
+| 1615 | eutectic: L -> (α-Co) + β-Co17Y2 | L: Y 0.0702; (α-Co): Y 0; β-Co17Y2: Y 0.0961 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 5; `ORC-OPXV5MSDMM` |  |
 | 1613 | Liq.+ fcc (Co) -> Co17Y2^a | L: Y 0.07; fcc(Co): Y 0; Co17Y2: Y 0.1 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 2; `ORC-D32TSKKCQ3` |  |
-| 1613 | Liq. -> Co17Y2 + Co5Y | L: Y 0.1138; Co17Y2: Y 0.1103; Co5Y: Y 0.1374 | model | [2] Du 2004 | Table 4, p. 7, row 5; `ORC-JUJP6XBNR4.9da013` |  |
+| 1613 | eutectic: Liq. -> Co17Y2 + Co5Y | L: Y 0.1138; Co17Y2: Y 0.1103; Co5Y: Y 0.1374 | model | [2] Du 2004 | Table 4, p. 7, row 5; `ORC-JUJP6XBNR4.9da013` |  |
 | 1613 | Liq.+ fcc (Co) -> Co17Y2^a | L: Y 0.1135; fcc(Co): Y 0.001; Co17Y2: Y 0.1058 | model | [2] Du 2004 | Table 4, p. 7, row 1; `ORC-JUJP6XBNR4.ae5c2a` |  |
-| 1613 | L -> (α-Co) + β-Co17Y2 | L: Y 0.07; (α-Co): Y 0.005; β-Co17Y2: Y 0.1 | experimental | [1] Golumbfskie 2006; _cites Pelleg 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990021-4) | Table 2, p. 2, row 6; `ORC-UAMRLAFLL7` |  |
-| 1607 | Liq. -> Co17Y2 + Co5Y | L: Y 0.116; Co17Y2: Y 0.11; Co5Y: Y 0.14 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 6; `ORC-3FOYODQ7BA` |  |
-| 1607 | L -> β-Co17Y2 + Co5Y | L: Y 0.1157; β-Co17Y2: Y 0.11; Co5Y: Y 0.14 | experimental | [1] Golumbfskie 2006; _cites Khan 1974_ | Table 2, p. 2, row 10; `ORC-4CHBWNSPP3` |  |
+| 1613 | eutectic: L -> (α-Co) + β-Co17Y2 | L: Y 0.07; (α-Co): Y 0.005; β-Co17Y2: Y 0.1 | experimental | [1] Golumbfskie 2006; _cites Pelleg 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990021-4) | Table 2, p. 2, row 6; `ORC-UAMRLAFLL7` |  |
+| 1607 | eutectic: Liq. -> Co17Y2 + Co5Y | L: Y 0.116; Co17Y2: Y 0.11; Co5Y: Y 0.14 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 6; `ORC-3FOYODQ7BA` |  |
+| 1607 | eutectic: L -> β-Co17Y2 + Co5Y | L: Y 0.1157; β-Co17Y2: Y 0.11; Co5Y: Y 0.14 | experimental | [1] Golumbfskie 2006; _cites Khan 1974_ | Table 2, p. 2, row 10; `ORC-4CHBWNSPP3` |  |
 | 1593 | L + Co5Y -> Co7Y2 | L: Y 0.29; Co5Y: Y 0.175; Co7Y2: Y 0.222 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 14; `ORC-5Z2SAPWTM4` |  |
 | 1593 | Liq. + Co5Y -> Co7Y2 | L: Y 0.28; Co5Y: Y 0.17; Co7Y2: Y 0.222222 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 12; `ORC-DP5YCUKHQT` |  |
 | 1593 | Liq. + Co5Y -> Co7Y2 | L: Y 0.2358; Co5Y: Y 0.1636; Co7Y2: Y 0.222222 | model | [2] Du 2004 | Table 4, p. 7, row 11; `ORC-WW6WSCPJRI` |  |
@@ -222,10 +222,10 @@ Table: Invariant reactions reported in the literature for the Co–Y system (62)
 | 1013 | Liq. + CoY -> Co5Y8 | L: Y 0.616; CoY: Y 0.5; Co5Y8: Y 0.615385 | model | [2] Du 2004 | Table 4, p. 7, row 23; `ORC-IG6UB4IZYV` |  |
 | 1013 | L + CoY -> Co5Y8 | L: Y 0.633; CoY: Y 0.5; Co5Y8: Y 0.615 | experimental | [1] Golumbfskie 2006; _cites Grover 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990186-2) | Table 2, p. 2, row 28; `ORC-XXFHGD3ZB3` |  |
 | 1012 | L + CoY -> Co5Y8 | L: Y 0.6218; CoY: Co 0.5, Y 0.5; Co5Y8: Co 0.384615, Y 0.615385 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 27; `ORC-24DMG5VR25` |  |
-| 1012 | L -> CoY3 + Co5Y8 | L: Y 0.6253; CoY3: Co 0.25, Y 0.75; Co5Y8: Co 0.384615, Y 0.615385 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 29; `ORC-HPQLIK6HGJ` |  |
-| 1011 | L -> CoY3 + Co5Y8 | L: Y 0.63; CoY3: Y 0.75; Co5Y8: Y 0.615 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 30; `ORC-H2WZFHKWEZ` |  |
-| 1011 | Liq. -> Co5Y8 + CoY3 | L: Y 0.63; Co5Y8: Y 0.615385; CoY3: Y 0.75 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 28; `ORC-NDLYE2RER3` |  |
-| 1011 | Liq. -> Co5Y8 + CoY3 | L: Y 0.6278; Co5Y8: Y 0.615385; CoY3: Y 0.75 | model | [2] Du 2004 | Table 4, p. 7, row 27; `ORC-UQWWHOHNXW` |  |
+| 1012 | eutectic: L -> CoY3 + Co5Y8 | L: Y 0.6253; CoY3: Co 0.25, Y 0.75; Co5Y8: Co 0.384615, Y 0.615385 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 29; `ORC-HPQLIK6HGJ` |  |
+| 1011 | eutectic: L -> CoY3 + Co5Y8 | L: Y 0.63; CoY3: Y 0.75; Co5Y8: Y 0.615 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 30; `ORC-H2WZFHKWEZ` |  |
+| 1011 | eutectic: Liq. -> Co5Y8 + CoY3 | L: Y 0.63; Co5Y8: Y 0.615385; CoY3: Y 0.75 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 28; `ORC-NDLYE2RER3` |  |
+| 1011 | eutectic: Liq. -> Co5Y8 + CoY3 | L: Y 0.6278; Co5Y8: Y 0.615385; CoY3: Y 0.75 | model | [2] Du 2004 | Table 4, p. 7, row 27; `ORC-UQWWHOHNXW` |  |
 | 1005 | Co5Y8 + CoY -> Co3Y4 | Co5Y8: Y 0.615385; CoY: Y 0.5; Co3Y4: Y 0.571429 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 26; `ORC-3NADFUQGXC` |  |
 | 1005 | YCo + Co5Y8 -> Co3Y4 | YCo: Y 0.5; Co5Y8: Y 0.615; Co3Y4: Y 0.571 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 26; `ORC-5RZR5NUGQR` |  |
 | 1005 | YCo + Co5Y8 -> Co3Y4 | YCo: Y 0.615; Co5Y8: Y 0.615; Co3Y4: Co 0.428571, Y 0.571429 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 25; `ORC-EUD5JTHGO6` |  |
@@ -256,7 +256,7 @@ Table: Enthalpies of formation, Co–Y system (12)
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (11)
 
 Table: Phase transition, Co–Y system
 
@@ -271,12 +271,8 @@ Table: Phase transition, Co–Y system
 | Phase transition | 977 K | 977 | magnetic: Co₅Y | experimental | [2] Du 2004 | Table 2, p. 4, row 2; `ORC-NQ6KQL7NNM` |  |
 | Phase transition | 1167 K | 1167 | magnetic: Co₁₇Y₂ | experimental | [2] Du 2004 | Table 2, p. 4, row 1; `ORC-BK5BVJR2DH` |  |
 | Phase transition | 1167 K | 1167 | magnetic: Co₁₇Y₂ | experimental | [1] Golumbfskie 2006 | Table 5, p. 3, row 2; `ORC-RYRKWPO76V` |  |
-| Phase transition | 1613 K | 1613 | liq. + fcc(Co) → Co17 Y2 | model | [2] Du 2004 | p. 6; `ORC-LDTCS23XRX.62ff8e` | “In the present work, it is described as liq. + fcc(Co) → Co17 Y2 at 1613 K instead of liq. → fcc(Co) + Co17 Y2 at 1613 K and liq. → Co17 Y2 at 1630 K reported by Wu et al. \[6\].” |
 | Phase transition | 1618 K | 1618 | Liq. -> Co5Y; _L: Y 0.16; Co5Y: Y 0.166667_ | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 8; `ORC-I3WVVPYDWS` |  |
 | Phase transition | 1618 K | 1618 | Liq. -> Co5Y; _L: Y 0.1547; Co5Y: Y 0.166667_ | model | [2] Du 2004 | Table 4, p. 7, row 7; `ORC-LMHII43CUN` |  |
-| Phase transition | 1618 K | 1618 | congruent transformation | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | p. 2; `ORC-XUJAW5SEYX.f4c666` | “Though some contradictions exist, it has been accepted that Co17 Y2 \[6,8,10\] and Co5 Y \[6,10\] form via congruent melting at approximately 1630 and 1618 K, respectively, and exhibit appreciable solubility ranges.” |
-| Phase transition | 1630 K | 1630 | congruent transformation | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | p. 2; `ORC-XUJAW5SEYX.ea5d28` | “Though some contradictions exist, it has been accepted that Co17 Y2 \[6,8,10\] and Co5 Y \[6,10\] form via congruent melting at approximately 1630 and 1618 K, respectively, and exhibit appreciable solubility ranges.” |
-| Phase transition | 1630 K | 1630 | liq. → Co17 Y2 | model | [2] Du 2004; _cites Conclusions_ | p. 6; `ORC-LDTCS23XRX.66805c` | “In the present work, it is described as liq. + fcc(Co) → Co17 Y2 at 1613 K instead of liq. → fcc(Co) + Co17 Y2 at 1613 K and liq. → Co17 Y2 at 1630 K reported by Wu et al. \[6\].” |
 
 ## Sources
 

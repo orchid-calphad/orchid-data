@@ -1,10 +1,10 @@
 # Er–Ge system
 
-> Er–Ge system: 151 accepted literature values (formation 98, invariant reaction 37, phase transition 16) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Ge system: 142 accepted literature values (formation 98, invariant reaction 29, phase transition 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-GE.html · Markdown: https://data.orchid-project.org/systems/ER-GE.md
 
-151 accepted literature values from 1 paper(s) (experimental 59, model 92); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+142 accepted literature values from 1 paper(s) (experimental 50, model 92); 1 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-GE.json) · [CSV](https://data.orchid-project.org/systems/ER-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-GE/ErGe-17Ach.json) · [phases (16)](https://data.orchid-project.org/phases/pages/ER-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-GE.html) · [Markdown](https://data.orchid-project.org/systems/ER-GE.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 59 |
+| experimental | 50 |
 | model | 92 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 37 |
-| phase transition | 16 |
+| invariant reaction | 29 |
+| phase transition | 15 |
 | formation | 98 |
 
 ## Calculated phase diagrams
@@ -71,27 +71,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Er–Ge system (37)
+Table: Invariant reactions reported in the literature for the Er–Ge system (29)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2151.15 | peritectic: Er5Ge3 -> L + Er5Ge4 | Er5Ge3: Ge 0.375; L: Ge 0.432; Er5Ge4: Ge 0.444444 | model | [1] Achgar 2017 | Table 2, p. 5, row 11; `ORC-FFHF74OYEX` |  |
-| 2148.15 | peritectic |  | experimental | [1] Achgar 2017; _cites Tsuchiya 2006_ [doi](https://doi.org/10.1143/jjap.45.2925) | p. 2; `ORC-5PCBIWD7FO.813908` | “Er5Ge4, Er11Ge10, ErGe, Er2Ge3, ErGe2 and Er2Ge5 formed by peritectic reactions at 1875, 1720, 1451, 1405, 1037, and 890 C, respectively.” |
 | 2148.15 | peritectic: Er5Ge3 -> L + Er5Ge4 | Er5Ge3: Ge 0.375; L: Ge 0.443; Er5Ge4: Ge 0.444444 | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 10; `ORC-W7MW5KQZZS` |  |
 | 2147.15 | peritectic: Er5Ge3 -> L + Er5Ge4 | Er5Ge3: Ge 0.375; L: Ge 0.437; Er5Ge4: Ge 0.444444 | model | [1] Achgar 2017 | Table 2, p. 5, row 12; `ORC-OASNVR2AU2` |  |
 | 1993.15 | peritectic: Er5Ge4 -> L + Er11Ge10 | Er5Ge4: Ge 0.444444; L: Ge 0.479; Er11Ge10: Ge 0.47619 | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 13; `ORC-2CTSNC4ZBM` |  |
-| 1993.15 | peritectic |  | experimental | [1] Achgar 2017; _cites Tsuchiya 2006_ [doi](https://doi.org/10.1143/jjap.45.2925) | p. 2; `ORC-5PCBIWD7FO.1160ad` | “Er5Ge4, Er11Ge10, ErGe, Er2Ge3, ErGe2 and Er2Ge5 formed by peritectic reactions at 1875, 1720, 1451, 1405, 1037, and 890 C, respectively.” |
 | 1992.15 | peritectic: Er5Ge4 -> L + Er11Ge10 | Er5Ge4: Ge 0.444444; L: Ge 0.527; Er11Ge10: Ge 0.47619 | model | [1] Achgar 2017 | Table 2, p. 5, row 15; `ORC-UPTT5UMUMJ` |  |
 | 1991.15 | peritectic: Er5Ge4 -> L + Er11Ge10 | Er5Ge4: Ge 0.444444; L: Ge 0.529; Er11Ge10: Ge 0.47619 | model | [1] Achgar 2017 | Table 2, p. 5, row 14; `ORC-442HUOQIOU` |  |
-| 1724.15 | peritectic |  | experimental | [1] Achgar 2017; _cites Tsuchiya 2006_ [doi](https://doi.org/10.1143/jjap.45.2925) | p. 2; `ORC-5PCBIWD7FO.4c723f` | “Er5Ge4, Er11Ge10, ErGe, Er2Ge3, ErGe2 and Er2Ge5 formed by peritectic reactions at 1875, 1720, 1451, 1405, 1037, and 890 C, respectively.” |
 | 1724.15 | peritectic: Er11Ge10 -> L + Er Ge | Er11Ge10: Ge 0.47619; L: Ge 0.568; Er Ge: Ge 0.5 | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 16; `ORC-X45FPHSIRN` |  |
 | 1722.15 | peritectic: Er11Ge10 -> L + Er Ge | Er11Ge10: Ge 0.47619; L: Ge 0.602; Er Ge: Ge 0.5 | model | [1] Achgar 2017 | Table 2, p. 5, row 17; `ORC-FIY6QJMW22` |  |
 | 1717.15 | peritectic: Er11Ge10 -> L + Er Ge | Er11Ge10: Ge 0.47619; L: Ge 0.602; Er Ge: Ge 0.5 | model | [1] Achgar 2017 | Table 2, p. 5, row 18; `ORC-4KC24F54EV` |  |
-| 1678.15 | peritectic |  | experimental | [1] Achgar 2017; _cites Tsuchiya 2006_ [doi](https://doi.org/10.1143/jjap.45.2925) | p. 2; `ORC-5PCBIWD7FO.a1e065` | “Er5Ge4, Er11Ge10, ErGe, Er2Ge3, ErGe2 and Er2Ge5 formed by peritectic reactions at 1875, 1720, 1451, 1405, 1037, and 890 C, respectively.” |
 | 1678.15 | peritectic: ErGe -> L + HT_Er2Ge3 | ErGe: Ge 0.5; L: Ge 0.633; HT_Er2Ge3: Ge 0.6 | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 31; `ORC-E53EH7EWCE` |  |
 | 1677.15 | peritectic: ErGe -> L + HT_Er2Ge3 | ErGe: Ge 0.5; L: Ge 0.612; HT_Er2Ge3: Ge 0.6 | model | [1] Achgar 2017 | Table 2, p. 5, row 33; `ORC-V5D4775M3H` |  |
 | 1676.15 | peritectic: ErGe -> L + HT_Er2Ge3 | ErGe: Ge 0.5; L: Ge 0.613; HT_Er2Ge3: Ge 0.6 | model | [1] Achgar 2017 | Table 2, p. 5, row 32; `ORC-LOQUFLLWJE` |  |
-| 1640.15 | peritectoid: Er3Ge4 -> ErGe + Er2Ge3 |  | experimental | [1] Achgar 2017; _cites Tsuchiya 2006_ [doi](https://doi.org/10.1143/jjap.45.2925) | p. 2; `ORC-7BKMMDL4QY.94efac` | “Er5Ge3 melts congruently at 1950 C, Er3Ge4 form during the peritectoid reaction and disintegrates into two solid phases ErGe and Er2Ge3 at 1367 C.” |
 | 1640.15 | peritectoid: Er3Ge4 -> Er Ge2 + HT_Er2Ge3 | Er3Ge4: Ge 0.571; Er Ge2: Ge 0.666667; HT_Er2Ge3: Ge 0.6 | model | [1] Achgar 2017 | Table 2, p. 5, row 21; `ORC-MGTJBEKNLJ` |  |
 | 1640.15 | peritectoid: Er3Ge4 -> Er Ge2 + HT_Er2Ge3 | Er3Ge4: Ge 0.571; Er Ge2: Ge 0.666667; HT_Er2Ge3: Ge 0.6 | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 19; `ORC-O2TFZVXUY4` |  |
 | 1639.15 | peritectoid: Er3Ge4 -> Er Ge2 + HT_Er2Ge3 | Er3Ge4: Ge 0.571; Er Ge2: Ge 0.666667; HT_Er2Ge3: Ge 0.6 | model | [1] Achgar 2017 | Table 2, p. 5, row 20; `ORC-ZX4YHZ6OPU` |  |
@@ -101,12 +96,9 @@ Table: Invariant reactions reported in the literature for the Er–Ge system (37
 | 1595.15 | eutectic: L -> Er + Er5Ge3 | L: Ge 0.15; Er5Ge3: Ge 0.375 | model | [1] Achgar 2017 | Table 2, p. 5, row 5; `ORC-OJVVUXAYL5` |  |
 | 1319.15 | peritectic: HT_Er2Ge3 -> L + HT_ErGe2 | HT_Er2Ge3: Ge 0.6; L: Ge 0.757; HT_ErGe2: Ge 0.666667 | model | [1] Achgar 2017 | Table 2, p. 5, row 35; `ORC-MFABRCYL2P` |  |
 | 1315.15 | peritectic: HT_Er2Ge3 -> L + HT_ErGe2 | HT_Er2Ge3: Ge 0.6; L: Ge 0.757; HT_ErGe2: Ge 0.666667 | model | [1] Achgar 2017 | Table 2, p. 5, row 36; `ORC-T7HOP242MC` |  |
-| 1310.15 | peritectic |  | experimental | [1] Achgar 2017; _cites Tsuchiya 2006_ [doi](https://doi.org/10.1143/jjap.45.2925) | p. 2; `ORC-5PCBIWD7FO.da11a4` | “Er5Ge4, Er11Ge10, ErGe, Er2Ge3, ErGe2 and Er2Ge5 formed by peritectic reactions at 1875, 1720, 1451, 1405, 1037, and 890 C, respectively.” |
 | 1310.15 | peritectic: HT_Er2Ge3 -> L + HT_ErGe2 | HT_Er2Ge3: Ge 0.6; L: Ge 0.768; HT_ErGe2: Ge 0.666667 | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 34; `ORC-P66Y2HII7X` |  |
-| 1310 | peritectic |  | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | p. 3; `ORC-WYJVKMQ3V7` | “The ErGe2 intermetellic compound has been determined by Eremenko et al. \[20\] to have three allotropic forms: the high-temperature g-ErGe2 forms peritectically at T 1⁄4 1310 K; gErGe2 transforms to b-ErGe2 at temperatures from 1205 to 1180 K” |
 | 1164.15 | peritectic: LT_ErGe2 -> L + Er2Ge5 | LT_ErGe2: Ge 0.666667; L: Ge 0.826; Er2Ge5: Ge 0.714286 | model | [1] Achgar 2017 | Table 2, p. 5, row 38; `ORC-3UBMNBPV5L` |  |
 | 1164.15 | peritectic: LT_ErGe2 -> L + Er2Ge5 | LT_ErGe2: Ge 0.666667; L: Ge 0.824; Er2Ge5: Ge 0.714286 | model | [1] Achgar 2017 | Table 2, p. 5, row 39; `ORC-ZGA7N2UBRZ` |  |
-| 1163.15 | peritectic |  | experimental | [1] Achgar 2017; _cites Tsuchiya 2006_ [doi](https://doi.org/10.1143/jjap.45.2925) | p. 2; `ORC-5PCBIWD7FO.896104` | “Er5Ge4, Er11Ge10, ErGe, Er2Ge3, ErGe2 and Er2Ge5 formed by peritectic reactions at 1875, 1720, 1451, 1405, 1037, and 890 C, respectively.” |
 | 1163.15 | peritectic: LT_ErGe2 -> L + Er2Ge5 | LT_ErGe2: Ge 0.666667; L: Ge 0.833; Er2Ge5: Ge 0.714286 | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 37; `ORC-OUPOVMIIQC` |  |
 | 1150.15 | eutectic: L -> Er2Ge5 + Ge | L: Ge 0.85; Er2Ge5: Ge 0.714286; Ge: Ge 1 | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 40; `ORC-AKNVMKWN3M` |  |
 | 1150.15 | eutectic |  | experimental | [1] Achgar 2017 | p. 2; `ORC-YMKCQB2CMA` | “The addition of erbium to germanium results in a eutectic reaction among liquid, Er2Ge5 and Ge (diamond_A4) at 877 C and about 85 at. % Ge.” |
@@ -159,7 +151,7 @@ Table: Enthalpies of formation, Er–Ge system (35)
 
 ## Other properties
 
-### Phase transition (16)
+### Phase transition (15)
 
 Table: Phase transition, Er–Ge system
 
@@ -179,7 +171,6 @@ Table: Phase transition, Er–Ge system
 | Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> Er; _L: Ge 0_ | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 1; `ORC-ZNIT6OFX7B` |  |
 | Phase transition | 2221.15 K | 2221.15 | congruent melting: L -> Er5Ge3; _L: Ge 0.375; Er5Ge3: Ge 0.375_ | model | [1] Achgar 2017 | Table 2, p. 5, row 8; `ORC-MRYM5JE7FD` |  |
 | Phase transition | 2223.15 K | 2223.15 | congruent melting: L -> Er5Ge3; _L: Ge 0.375; Er5Ge3: Ge 0.375_ | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 7; `ORC-WBNRTBK2YV` |  |
-| Phase transition | 2223.15 K | 2223.15 | congruent transformation | experimental | [1] Achgar 2017; _cites Tsuchiya 2006_ [doi](https://doi.org/10.1143/jjap.45.2925) | p. 2; `ORC-7BKMMDL4QY.d852ac` | “Er5Ge3 melts congruently at 1950 C, Er3Ge4 form during the peritectoid reaction and disintegrates into two solid phases ErGe and Er2Ge3 at 1367 C.” |
 | Phase transition | 2227.15 K | 2227.15 | congruent melting: L -> Er5Ge3; _L: Ge 0.375; Er5Ge3: Ge 0.375_ | model | [1] Achgar 2017 | Table 2, p. 5, row 9; `ORC-G3FMSSVS3B` |  |
 
 ### Formation (63)

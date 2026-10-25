@@ -1,10 +1,10 @@
 # Nb–O system
 
-> Nb–O system: 7 accepted literature values (phase transition 6, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–O system: 1 accepted literature values (phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-O.html · Markdown: https://data.orchid-project.org/systems/NB-O.md
 
-7 accepted literature values from 1 paper(s) (experimental 6, model 1); 2 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (experimental 1); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-O.json) · [CSV](https://data.orchid-project.org/systems/NB-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-O/NbO-07Jer.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NB-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-O.html) · [Markdown](https://data.orchid-project.org/systems/NB-O.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 1 |
+| experimental | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 6 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -48,28 +46,15 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/NB/NB-O.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/NB/NB-O.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Nb–O system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 2192 | eutectic |  | model | [1] Pérez 2007; _cites Dupin 2005_ | p. 6; `ORC-YVI2PXRXXR` | “This assessment shows that the maximum solubility of oxygen in solid Nb at the eutectic temperature of 2192 K is 9 at.%.” |
-
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (1)
 
 Table: Phase transition, Nb–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1070 K | 1070 | NbO2 | experimental | [1] Pérez 2007; _cites Pynn 1976_ [doi](https://doi.org/10.1103/physrevb.13.2965) | p. 4; `ORC-225JYLDAEX` | “NbO2 undergoes a phase transition at about 1070 K from a high temperature tetragonal phase to a low temperature distorted tetragonal structure \[31\].” |
-| Phase transition | 1074 K | 1074 |  | experimental | [1] Pérez 2007 | p. 4; `ORC-PF43R6S7NU` | “It was shown that the transition temperature of this compound decreased linearly with increasing x according to Tt(x) = Tt(0) 1700x, where Tt(0) = 1074 K.” |
-| Phase transition | 1185 K | 1185 | other | experimental | [1] Pérez 2007 | p. 3; `ORC-GYPTT4QN27.31f117` | “increasing the oxygen content, from about 0.1 wt% to 0.27 wt%, will increase the (a + b)/b transition temperature from 1185 K to 1265 K, while the a/(a + b) temperature varies in the range of 900910 K.” |
-| Phase transition | 1265 K | 1265 | other | experimental | [1] Pérez 2007 | p. 3; `ORC-GYPTT4QN27.40ac38` | “increasing the oxygen content, from about 0.1 wt% to 0.27 wt%, will increase the (a + b)/b transition temperature from 1185 K to 1265 K, while the a/(a + b) temperature varies in the range of 900910 K.” |
-| Phase transition | 2188 K | 2188 |  | experimental | [1] Pérez 2007 | p. 2; `ORC-M2ZGVQVZRJ` | “Introduction of oxygen into niobium lowers the melting point to 2188 K at around 10 at.% O.” |
-| Phase transition | 2741 K | 2741 |  | experimental | [1] Pérez 2007 | p. 2; `ORC-3ZKEFCNOJZ` | “Niobium has a bcc crystal structure with a melting point of 2741 K and a boiling point of 5015 K.” |
 
 ## Sources
 

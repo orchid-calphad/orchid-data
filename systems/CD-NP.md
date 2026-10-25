@@ -1,10 +1,10 @@
 # Cd–Np system
 
-> Cd–Np system: 4 accepted literature values (invariant reaction 3, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Np system: 1 accepted literature values (phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-NP.html · Markdown: https://data.orchid-project.org/systems/CD-NP.md
 
-4 accepted literature values from 1 paper(s) (experimental 1, model 3); 0 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-NP.json) · [CSV](https://data.orchid-project.org/systems/CD-NP.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-NP) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-NP.html) · [Markdown](https://data.orchid-project.org/systems/CD-NP.md)
 
@@ -12,27 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 3 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
 | phase transition | 1 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CD/CD-NP.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CD/CD-NP.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cd–Np system (3)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 758 | peritectic |  | experimental | [1] Kurata 2001; _cites Krumpelt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990117-9) | p. 2; `ORC-EBBJB5AMGU` | “The Cd11Np decomposed peritectically at 758 K into a saturated liquid phase and Cd6Np.” |
-| 756 | peritectic |  | model | [1] Kurata 2001 | p. 4; `ORC-CF2NUTM6EW` | “The peritectic temperature for the Cd11Np decomposition is calculated to be 756 K, only 2 K higher than the” |
-| 750 | peritectic |  | model | [1] Kurata 2001 | p. 7; `ORC-EI2R22BAAN.c407a6` | “A discontinuity is observed in the Np and Pu curves at approximately 750 and 670 K, respectively. This corresponds to the peritectic temperature.” |
 
 ## Other properties
 

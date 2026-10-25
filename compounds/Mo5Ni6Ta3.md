@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Mo5Ni6Ta3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -10.08 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -10.08 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## Sources
 

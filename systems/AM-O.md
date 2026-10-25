@@ -1,10 +1,10 @@
 # Am–O system
 
-> Am–O system: 80 accepted literature values (crystal structure 56, formation 6, heat capacity / entropy / enthalpy 6, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Am–O system: 79 accepted literature values (crystal structure 56, formation 6, heat capacity / entropy / enthalpy 6, phase equilibrium 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AM-O.html · Markdown: https://data.orchid-project.org/systems/AM-O.md
 
-80 accepted literature values from 2 paper(s) (experimental 66, model 14); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+79 accepted literature values from 2 paper(s) (experimental 65, model 14); 2 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AM-O.json) · [CSV](https://data.orchid-project.org/systems/AM-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AM-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-O/AmO-11Got.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AM-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AM-O.html) · [Markdown](https://data.orchid-project.org/systems/AM-O.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 66 |
+| experimental | 65 |
 | model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 4 |
+| phase transition | 3 |
 | phase equilibrium | 3 |
 | formation | 6 |
 | heat capacity / entropy / enthalpy | 6 |
@@ -64,13 +64,12 @@ Table: Enthalpies of formation, Am–O system (6)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (3)
 
 Table: Phase transition, Am–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 620 K | 620 | other | experimental | [2] Epifano 2017; _cites ref. 23_ | p. 3; `ORC-NTPSFFBZK7` | “At lower temperatures, the DTA measurements of Sari and Zamorani23 show another phase transition at around 620 K, in the O/Am > 1.7 domain.” |
 | Phase transition | 1315 K | 1315 | other | model | [2] Epifano 2017 | p. 14; `ORC-WMT32YLSG2` | “The temperature stability for this phase was extended here up to 1315 K.” |
 | Phase transition | 2386 K | 2386 | AmO2-x | experimental | [2] Epifano 2017; _cites ref. 25_ | p. 4; `ORC-2GWV2QJVBC.f10b0f` | “The values are 2481 ± 15 K for A-Am2O3 and 2386 K for AmO2-x (the O/Am ratio reached during the melting process is unknown).” |
 | Phase transition | 2481 K | 2481 | A-Am2O3 | experimental | [2] Epifano 2017; _cites ref. 25_ | p. 4; `ORC-2GWV2QJVBC.7ff341` | “The values are 2481 ± 15 K for A-Am2O3 and 2386 K for AmO2-x (the O/Am ratio reached during the melting process is unknown).” |

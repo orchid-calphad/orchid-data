@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AU.html · Markdown: https://data.orchid-project.org/systems/AU.md
 
-22 accepted literature values from 7 paper(s) (experimental 13, model 6, unspecified 3); 0 calculated phase diagram(s).
+22 accepted literature values from 7 paper(s) (experimental 13, model 5, DFT 1, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU.json) · [CSV](https://data.orchid-project.org/systems/AU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU.html) · [Markdown](https://data.orchid-project.org/systems/AU.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 13 |
-| model | 6 |
+| model | 5 |
+| DFT | 1 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
@@ -56,7 +57,7 @@ Table: Crystal structure, Au system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.157 Å |  | Au; _Au: Au 1_ | model | [3] Shen 2021 | Table 3, p. 6, row 2; `ORC-CWU6N4T7H7.bf9f9f` |  |
+| Lattice a | 4.157 Å |  | Au; _Au: Au 1_ | DFT | [3] Shen 2021 | Table 3, p. 6, row 2; `ORC-CWU6N4T7H7.bf9f9f` |  |
 | Lattice a | 4.0781 Å | 298.15 | (Au); _(Au): Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 40; `ORC-CL6WEMCJ4U.56b808` |  |
 | Lattice a | 4.0784 Å | 298.15 | (Au); _(Au): Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 41; `ORC-UBVR3BSHEE.b15d29` |  |
 | Lattice a | 4.0784 Å | 298.15 | Au; _Au: Au 1_ | model | [4] Moustaine 2016; _cites Gschneidner 1986_ | Table 1, p. 3, row 1; `ORC-47TZEDBEKT` |  |

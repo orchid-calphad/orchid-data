@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of CuPdH2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 2.32 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| 2.32 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## Sources
 

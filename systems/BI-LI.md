@@ -1,10 +1,10 @@
 # Bi–Li system
 
-> Bi–Li system: 30 accepted literature values (invariant reaction 14, formation 12, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Li system: 29 accepted literature values (invariant reaction 13, formation 12, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-LI.html · Markdown: https://data.orchid-project.org/systems/BI-LI.md
 
-30 accepted literature values from 1 paper(s) (experimental 20, model 10); 1 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 19, model 10); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-LI.json) · [CSV](https://data.orchid-project.org/systems/BI-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-LI/BiLi-13Liu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/BI-LI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-LI.html) · [Markdown](https://data.orchid-project.org/systems/BI-LI.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 19 |
 | model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 13 |
 | phase transition | 4 |
 | formation | 12 |
 
@@ -44,14 +44,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Li system (14)
+Table: Invariant reactions reported in the literature for the Bi–Li system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1432 | liq \<-> BiLi | liq: Bi 0.5, Li 0.5; BiLi: Bi 0.5, Li 0.5 | model | [1] Liu 2013 | Table 3, p. 5, row 9; `ORC-5YCQKXJ3VR` |  |
-| 1418 | liq \<-> BiLi | liq: Bi 0.5, Li 0.5; BiLi: Bi 0.5, Li 0.5 | experimental | [1] Liu 2013; _cites Grube 1934_ | Table 3, p. 5, row 10; `ORC-OY3YJ7GJJB` |  |
+| 1432 | congruent melting: liq \<-> BiLi | liq: Bi 0.5, Li 0.5; BiLi: Bi 0.5, Li 0.5 | model | [1] Liu 2013 | Table 3, p. 5, row 9; `ORC-5YCQKXJ3VR` |  |
+| 1418 | congruent melting: liq \<-> BiLi | liq: Bi 0.5, Li 0.5; BiLi: Bi 0.5, Li 0.5 | experimental | [1] Liu 2013; _cites Grube 1934_ | Table 3, p. 5, row 10; `ORC-OY3YJ7GJJB` |  |
 | 693 | liq + BiLi3 \<-> βBiLi | BiLi3: Bi 0.25, Li 0.75; βBiLi: Bi 0.5, Li 0.5 | experimental | [1] Liu 2013; _cites Weppner 1978_ [doi](https://doi.org/10.1149/1.2131401) | Table 3, p. 5, row 8; `ORC-MHROM3DA5A` |  |
-| 693 | peritectic |  | experimental | [1] Liu 2013; _cites Weppner 1978_ [doi](https://doi.org/10.1149/1.2131401) | p. 2; `ORC-UESNTIQM5U` | “From emf measurement, Weppner and Huggins \[9\] obtained a peritectic temperature of about 693 K.” |
 | 688 | liq + BiLi3 \<-> βBiLi | liq: Li 0.36; BiLi3: Bi 0.25, Li 0.75; βBiLi: Bi 0.5, Li 0.5 | experimental | [1] Liu 2013; _cites Grube 1934_ | Table 3, p. 5, row 7; `ORC-PXFVPOHM4S` |  |
 | 688 | peritectic |  | experimental | [1] Liu 2013; _cites Grube 1934_ | p. 2; `ORC-VBOAKWSHM6.2e24c3` | “From both thermal analysis and electrical resistivity measurement, Gruber et al. \[8\] identified two invariant reactions at 688 and 673 K, respectively, which were related with the peritectic melting of BiLi and the allotropic transformation of BiLi, respectively.” |
 | 688 | liq + BiLi3 \<-> βBiLi | liq: Li 0.36; BiLi3: Bi 0.25, Li 0.75; βBiLi: Bi 0.5, Li 0.5 | model | [1] Liu 2013 | Table 3, p. 5, row 6; `ORC-YQNYG7WZCO` |  |

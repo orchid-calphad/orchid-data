@@ -1,10 +1,10 @@
 # Cd–Te system
 
-> Cd–Te system: 24 accepted literature values (phase transition 15, invariant reaction 5, mixing / partial 2, formation 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Te system: 20 accepted literature values (phase transition 11, invariant reaction 5, mixing / partial 2, formation 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-TE.html · Markdown: https://data.orchid-project.org/systems/CD-TE.md
 
-24 accepted literature values from 2 paper(s) (experimental 13, model 9, unspecified 2); 3 calculated phase diagram(s).
+20 accepted literature values from 2 paper(s) (experimental 12, model 6, unspecified 2); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-TE.json) · [CSV](https://data.orchid-project.org/systems/CD-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-TE/CdTe-00Yam-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CD-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-TE.html) · [Markdown](https://data.orchid-project.org/systems/CD-TE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
-| model | 9 |
+| experimental | 12 |
+| model | 6 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase transition | 15 |
+| phase transition | 11 |
 | formation | 2 |
 | mixing / partial | 2 |
 
@@ -62,11 +62,11 @@ Table: Invariant reactions reported in the literature for the Cd–Te system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 720 | liq -> hex + CdTe | liq: Te 0.99; hex: Te 1; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kulwicki 1963_ | Table III, p. 7, row 14; `ORC-54H5OHNIE2` |  |
-| 717.8 | liq -> hex + CdTe | liq: Te 0.981; hex: Te 1; CdTe: Te 0.5 | model | [1] Liu 2009 | Table III, p. 7, row 12; `ORC-2C3U3WQLAW` |  |
-| 710 | liq -> hex + CdTe | liq: Te 0.98; hex: Te 1; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 13; `ORC-RUOGI76S7U` |  |
-| 594.13 | liq -> Cd + CdTe | liq: Te 1.820e-4; Cd: Te 0; CdTe: Te 0.5 | model | [1] Liu 2009 | Table III, p. 7, row 1; `ORC-IGPIY3GP3B` |  |
-| 594 | liq -> Cd + CdTe | Cd: Te 0; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 2; `ORC-GV6UOZTTWM` |  |
+| 720 | eutectic: liq -> hex + CdTe | liq: Te 0.99; hex: Te 1; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kulwicki 1963_ | Table III, p. 7, row 14; `ORC-54H5OHNIE2` |  |
+| 717.8 | eutectic: liq -> hex + CdTe | liq: Te 0.981; hex: Te 1; CdTe: Te 0.5 | model | [1] Liu 2009 | Table III, p. 7, row 12; `ORC-2C3U3WQLAW` |  |
+| 710 | eutectic: liq -> hex + CdTe | liq: Te 0.98; hex: Te 1; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 13; `ORC-RUOGI76S7U` |  |
+| 594.13 | eutectic: liq -> Cd + CdTe | liq: Te 1.820e-4; Cd: Te 0; CdTe: Te 0.5 | model | [1] Liu 2009 | Table III, p. 7, row 1; `ORC-IGPIY3GP3B` |  |
+| 594 | eutectic: liq -> Cd + CdTe | Cd: Te 0; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 2; `ORC-GV6UOZTTWM` |  |
 
 ## Formation enthalpies
 
@@ -81,22 +81,18 @@ Table: Enthalpies of formation, Cd–Te system (2)
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (11)
 
 Table: Phase transition, Cd–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 719.75 K | 719.75 |  | model | [2] Jianrong 1995; _cites ref. 13_ | p. 7; `ORC-DXMFA7XDBG` | “Yu and Brebrick (13) indicate 446.6'C and 98.8 at% Te.” |
-| Phase transition | 720.15 K | 720.15 |  | model | [2] Jianrong 1995 | p. 7; `ORC-B3YCIOM2LM` | “Our optimisations indicate 447°C and 99 at% Te on the tellurium side and 32l.l"C on the cadmium side; in both cases within 1°C of Sharma and Chang's assessment (12).” |
 | Phase transition | 1315 K | 1315 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 4; `ORC-3I4TLIGYS7` |  |
 | Phase transition | 1333 K | 1333 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Gromakov 1964_ | Table III, p. 7, row 10; `ORC-IDQ7VPPQ3A` |  |
 | Phase transition | 1363 K | 1363 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites DeNobel 1959_ | Table III, p. 7, row 6; `ORC-WAZIKNNMTQ` |  |
 | Phase transition | 1365 K | 1365 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Steininger 1970_ [doi](https://doi.org/10.1149/1.2407297) | Table III, p. 7, row 8; `ORC-AC42BQSHTE` |  |
 | Phase transition | 1365 K | 1365 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Lorenz 1962_ [doi](https://doi.org/10.1016/0022-3697%2862%2990151-8) | Table III, p. 7, row 7; `ORC-P6LPGYUWOE` |  |
-| Phase transition | 1366.75 K | 1366.75 |  | experimental | [2] Jianrong 1995; _cites ref. 19_ | p. 7; `ORC-4RO6YUHHJ2.7dadd8` | “The melting point of CdTe is 1095°C and in excellent agreement with the mean of the experimental results (19,20, 21,25,26,27, 28, 64) 1093.6\*7 "C, if the low values of Kobayashi (18) and Gromakov et al. (29) are rejected.” |
 | Phase transition | 1367.15 K | 1367.15 | CdTe | experimental | [2] Jianrong 1995 | p. 1; `ORC-NRDIIUXCVA.e7c812` | “Their assessment predicts 1098'C for the melting point of CdTe compared with the mean experimental value of 1094°C.” |
-| Phase transition | 1368.15 K | 1368.15 |  | model | [2] Jianrong 1995 | p. 7; `ORC-4RO6YUHHJ2.b60346` | “The melting point of CdTe is 1095°C and in excellent agreement with the mean of the experimental results (19,20, 21,25,26,27, 28, 64) 1093.6\*7 "C, if the low values of Kobayashi (18) and Gromakov et al. (29) are rejected.” |
 | Phase transition | 1371 K | 1371 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | model | [1] Liu 2009 | Table III, p. 7, row 3; `ORC-7CNJIIXQLI` |  |
 | Phase transition | 1371 K | 1371 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Mason 1961_ | Table III, p. 7, row 9; `ORC-WN5VKWJSAR` |  |
 | Phase transition | 1371.15 K | 1371.15 | CdTe | model | [2] Jianrong 1995; _cites ref. 12_ | p. 1; `ORC-NRDIIUXCVA.47f9fe` | “Their assessment predicts 1098'C for the melting point of CdTe compared with the mean experimental value of 1094°C.” |

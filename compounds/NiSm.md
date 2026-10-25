@@ -14,7 +14,7 @@ Table: Enthalpy of formation of NiSm reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -36.4 kJ/mol-atom ± 0.7 | SmNi | 1473 | experimental | Direct calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 8; `ORC-H5OATTV4YI.112d07` |  |
+| -36.4 kJ/mol-atom ± 0.7 | SmNi | 298.15 | experimental | Direct calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 8; `ORC-H5OATTV4YI.112d07` |  |
 | -33 kJ/mol-atom ± 1 | SmNi | 300 | experimental | Direct calorimetry | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 5, p. 6, row 7; `ORC-TQH35NFF7E.7f567c` |  |
 | -34.2 kJ/mol-atom | SmNi | 300 | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016 | Table 5, p. 6, row 6; `ORC-UFNAP3LNTN.669eb3` |  |
 | -27.5 kJ/mol-atom | SmNi |  | model | Optimization | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html) | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 9; `ORC-4UJCYEEGLP.9f5282` |  |
@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of NiSm
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -36.4 | kJ/mol-atom | 0.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -33 | kJ/mol-atom | 1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -36.4 | kJ/mol-atom | 0.7 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -33 | kJ/mol-atom | 1 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -34.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -27.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 

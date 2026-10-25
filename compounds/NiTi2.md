@@ -38,7 +38,7 @@ Table: Uncertainty budget of the literature values of NiTi2
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -29.3 | per mol-atom | 500 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 500 |
 | -26.896 | per mol-atom | 2000 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2000 |
-| -26.8 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -26.8 | kJ/mol-atom |  | 5.000e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -35.3 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -33.7 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -30.393 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
@@ -47,8 +47,8 @@ Table: Uncertainty budget of the literature values of NiTi2
 | -26.977 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -26.901 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -25.849 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -33.7 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -28.2 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -33.7 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -28.2 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

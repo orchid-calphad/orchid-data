@@ -33,7 +33,7 @@ Table: Uncertainty budget of the literature values of SrO
 | -643 | kJ/mol (basis unstated) |  | 0.5 | 6 (kems_vapour_second_law, prior) |  |  |  | 6 |
 | -604.3 | kJ/mol (basis unstated) |  | 0.05 | 2 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2 |
 | -595 | kJ/mol (basis unstated) |  | 0.5 | 4 (kems_vapour_third_law, prior) |  |  |  | 4 |
-| -592.15 | kJ/mol (basis unstated) |  | 0.005 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -592.15 | kJ/mol (basis unstated) |  | 0.005 | 6.4 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.4 |
 | -592.15 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -592.04 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -591.01 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |

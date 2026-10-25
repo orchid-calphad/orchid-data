@@ -19,7 +19,7 @@ Table: Phases of the Mg–Nd system (11)
 | [DHCP](#phase-mg-nd-dhcp-a3); _phase:mg-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1284.25 K, x(Nd) 0.91156–1 | 6 | 7 |
 | [FCC_A1](#phase-mg-nd-fcc-a1); _phase:mg-nd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [HCP_A3](#phase-mg-nd-hcp-a3); _phase:mg-nd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–932.95 K, x(Nd) 0–0.00949 | 6 | 7 |
-| [LIQUID](#phase-mg-nd-liquid); _phase:mg-nd:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 817.44–2500 K, x(Nd) 0–1 | 32 | 7 |
+| [LIQUID](#phase-mg-nd-liquid); _phase:mg-nd:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 817.44–2500 K, x(Nd) 0–1 | 33 | 7 |
 | [MG41M5](#phase-mg-nd-mg41m5); _phase:mg-nd:mg41m5_ | Ce5Mg41 · tI92 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–833.27 K, x(Nd) 0.1087–0.1087 | 8 | 5 |
 | [MG41ND5](#phase-mg-nd-mg41nd5); _phase:mg-nd:mg41nd5_ | Ce5Mg41 · tI92 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–832.46 K, x(Nd) 0.10135–0.1087 | 4 | 2 |
 | [MGND_B2](#phase-mg-nd-mgnd-b2); _phase:mg-nd:mgnd-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1078.25 K, x(Nd) 0.48371–0.5 | 0 | 3 |
@@ -591,11 +591,11 @@ _cited as the source of values for this phase_
 - Id: `phase:mg-nd:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 817.44–2500 K, x(Nd) 0–1
-- Literature: 32 values (32 accepted) from 3 papers
+- Literature: 33 values (33 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-nd:liquid)
 
-Names (11): _corpus: _corpus:phase:mg-nd:liquid  
-_paper: _paper:10.1016/j.calphad.2010.07.010:Liquid, paper:10.1016/j.jallcom.2010.07.056:Liquid, paper:10.1016/s1003-6326(07)60051-x:L  
+Names (12): _corpus: _corpus:phase:mg-nd:liquid  
+_paper: _paper:10.1016/j.calphad.2010.07.010:Liquid, paper:10.1016/j.jallcom.2004.09.040:liquid, paper:10.1016/j.jallcom.2010.07.056:Liquid, paper:10.1016/s1003-6326(07)60051-x:L  
 _tdb: _tdb:MgNd-05Gor-RK.tdb:LIQUID, tdb:MgNd-05Gor-ass.tdb:LIQUID, tdb:MgNd-06Guo.tdb:LIQUID, tdb:MgNd-07Men.tdb:LIQUID, tdb:MgNd-08Guo.tdb:LIQUID, tdb:MgNd-10Niu.tdb:LIQUID, tdb:MgNd-11Qi.tdb:LIQUID  
 
 
@@ -659,7 +659,7 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.3139/146.101685](https://doi.org/10.3139/146.101685) Cuiping Guo, Zhenmin Du, Changrong Li, Thermodynamic description of the Ce-Mg-Y and Mg-Nd-Y systems, International Journal of Materials Research 99, 650-688 (2008).  
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2004.09.040](https://doi.org/10.1016/j.jallcom.2004.09.040) S. Gorsse, C.R. Hutchinson, B. Chevalier, J.-F. Nie, A thermodynamic assessment of the Mg–Nd binary system using random solution and associate models for the liquid phase, Journal of Alloys and Compounds 392, 253-262 (2005).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.3139/ijmr-2006-0022](https://doi.org/10.3139/ijmr-2006-0022) C. Guo, Z. Du, Z. Metallkd., 97, 130-35(2006).  
 _assessment that models this phase_
 - [doi:10.1016/s1003-6326(07)60051-x](https://doi.org/10.1016/s1003-6326%2807%2960051-x) Fan-gui MENG, Hua-shan LIU, Li-bin LIU, Zhan-peng JIN, Thermodynamic optimization of Mg-Nd system, Transactions of Nonferrous Metals Society of China 17, 77-81 (2007).  

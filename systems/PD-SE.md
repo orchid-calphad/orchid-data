@@ -1,10 +1,10 @@
 # Pd–Se system
 
-> Pd–Se system: 81 accepted literature values (invariant reaction 41, crystal structure 17, phase transition 17, formation 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Se system: 65 accepted literature values (invariant reaction 35, crystal structure 17, phase transition 7, formation 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-SE.html · Markdown: https://data.orchid-project.org/systems/PD-SE.md
 
-81 accepted literature values from 1 paper(s) (experimental 56, model 19, unspecified 6); 1 calculated phase diagram(s).
+65 accepted literature values from 1 paper(s) (experimental 40, model 19, unspecified 6); 1 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-SE.json) · [CSV](https://data.orchid-project.org/systems/PD-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-SE/PdSe-14Bor.json) · [phases (14)](https://data.orchid-project.org/phases/pages/PD-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-SE.html) · [Markdown](https://data.orchid-project.org/systems/PD-SE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 56 |
+| experimental | 40 |
 | model | 19 |
 | unspecified | 6 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 41 |
-| phase transition | 17 |
+| invariant reaction | 35 |
+| phase transition | 7 |
 | formation | 6 |
 | crystal structure | 17 |
 
@@ -70,28 +70,24 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pd–Se system (41)
+Table: Invariant reactions reported in the literature for the Pd–Se system (35)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 955 | Liq + PdSe2 -> Pd17Se15 | PdSe2: Se 0.666667; Pd17Se15: Se 0.46875 | model | [1] Bordier 2014 | Table 4, p. 8, row 22; `ORC-UPLOEN5E7E` |  |
 | 953 | Liq + PdSe2 -> Pd17Se15 | PdSe2: Se 0.666667; Pd17Se15: Se 0.46875 | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 21; `ORC-FTVOM6VWQX` |  |
-| 910 | Liq -> FCC + Pd9Se2 | Pd9Se2: Se 0.181818 | model | [1] Bordier 2014 | Table 4, p. 8, row 4; `ORC-OOXE3DZRES` |  |
-| 908 | peritectic |  | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 3; `ORC-L6ZI7IGERC.9f78c2` | “The only known result is the maximum solubility of selenium in this FCC phase: about 1.5 at.% Se at the peritectic decomposition of Pd9 Se2 , occuring at 898 K \[4\] or at 908 K \[3\].” |
-| 908 | Liq -> FCC + Pd9Se2 | Pd9Se2: Se 0.181818 | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 2; `ORC-SBVQTDO55S` |  |
-| 908 | Liq -> FCC + Pd9Se2 | Pd9Se2: Se 0.181818 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 3; `ORC-ULQJSOHWJI` |  |
-| 898 | peritectic |  | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | p. 3; `ORC-L6ZI7IGERC.c8370f` | “The only known result is the maximum solubility of selenium in this FCC phase: about 1.5 at.% Se at the peritectic decomposition of Pd9 Se2 , occuring at 898 K \[4\] or at 908 K \[3\].” |
-| 898 | Liq -> FCC + Pd9Se2 | Pd9Se2: Se 0.181818 | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | Table 4, p. 8, row 1; `ORC-M3R4PPLNF2` |  |
+| 910 | eutectic: Liq -> FCC + Pd9Se2 | Pd9Se2: Se 0.181818 | model | [1] Bordier 2014 | Table 4, p. 8, row 4; `ORC-OOXE3DZRES` |  |
+| 908 | eutectic: Liq -> FCC + Pd9Se2 | Pd9Se2: Se 0.181818 | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 2; `ORC-SBVQTDO55S` |  |
+| 908 | eutectic: Liq -> FCC + Pd9Se2 | Pd9Se2: Se 0.181818 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 3; `ORC-ULQJSOHWJI` |  |
+| 898 | eutectic: Liq -> FCC + Pd9Se2 | Pd9Se2: Se 0.181818 | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | Table 4, p. 8, row 1; `ORC-M3R4PPLNF2` |  |
 | 893 | Pd17Se15 + PdSe2 -> PdSe | Pd17Se15: Se 0.46875; PdSe2: Se 0.666667; PdSe: Se 0.5 | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 23; `ORC-6LEZ2DBL6U` |  |
 | 892 | Pd17Se15 + PdSe2 -> PdSe | Pd17Se15: Se 0.46875; PdSe2: Se 0.666667; PdSe: Se 0.5 | model | [1] Bordier 2014 | Table 4, p. 8, row 24; `ORC-RTQFXHWN5B` |  |
 | 818 | Liq + Pd9Se2 -> β-Pd4Se | Pd9Se2: Se 0.181818; β-Pd4Se: Se 0.2 | model | [1] Bordier 2014 | Table 4, p. 8, row 8; `ORC-KF4FYKZLKM` |  |
 | 817 | Liq + Pd9Se2 -> β-Pd4Se | Pd9Se2: Se 0.181818; β-Pd4Se: Se 0.2 | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 6; `ORC-AFDKOFM24F` |  |
 | 816 | Liq + Pd9Se2 -> β-Pd4Se | Pd9Se2: Se 0.181818; β-Pd4Se: Se 0.2 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 7; `ORC-WXR3E3EKBZ` |  |
-| 815 | peritectic |  | experimental | [1] Bordier 2014 | p. 6; `ORC-O23LK6GFUD.31f8a2` | “The DTA response of the 21 at.% Se sample shows three transitions (Fig. 3a). According to the phase diagram, they correspond to the allotropic transition: b-Pd4 Se ! a-Pd4 Se at 797 K; the peritectic decomposition of Pd7 Se2 at 807 K and the peritectic decomposition of b-Pd4 Se at 815 K.” |
 | 811 | Liq + β-Pd4Se -> Pd7Se2 | β-Pd4Se: Se 0.2; Pd7Se2: Se 0.222222 | model | [1] Bordier 2014 | Table 4, p. 8, row 12; `ORC-FH7SH3Z4RD` |  |
 | 811 | Liq + β-Pd4Se -> Pd7Se2 | β-Pd4Se: Se 0.2; Pd7Se2: Se 0.222222 | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 10; `ORC-LP7VAG4YZB` |  |
 | 808 | Liq + β-Pd4Se -> Pd7Se2 | β-Pd4Se: Se 0.2; Pd7Se2: Se 0.222222 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 11; `ORC-KGZZHEC7DH` |  |
-| 807 | peritectic |  | experimental | [1] Bordier 2014 | p. 6; `ORC-O23LK6GFUD.74f4f1` | “The DTA response of the 21 at.% Se sample shows three transitions (Fig. 3a). According to the phase diagram, they correspond to the allotropic transition: b-Pd4 Se ! a-Pd4 Se at 797 K; the peritectic decomposition of Pd7 Se2 at 807 K and the peritectic decomposition of b-Pd4 Se at 815 K.” |
 | 803 | Liq + Pd9Se2 -> β-Pd4Se | Pd9Se2: Se 0.181818; β-Pd4Se: Se 0.2 | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | Table 4, p. 8, row 5; `ORC-EXTGTT6WLJ` |  |
 | 796 | Liq + β-Pd4Se -> Pd7Se2 | β-Pd4Se: Se 0.2; Pd7Se2: Se 0.222222 | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | Table 4, p. 8, row 9; `ORC-QKALFGX3BE` |  |
 | 706 | Liq + Pd7Se2 -> Pd34Se11 | Pd7Se2: Se 0.222222; Pd34Se11: Se 0.244444 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 15; `ORC-DYQ5SA4VDK` |  |
@@ -105,13 +101,11 @@ Table: Invariant reactions reported in the literature for the Pd–Se system (41
 | 674 | Pd9Se2 -> FCC + α-Pd4Se | Pd9Se2: Se 0.181818; α-Pd4Se: Se 0.2 | model | [1] Bordier 2014 | Table 4, p. 8, row 38; `ORC-YAOVQRDGPW` |  |
 | 670 | Pd9Se2 -> FCC + α-Pd4Se | Pd9Se2: Se 0.181818; α-Pd4Se: Se 0.2 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 37; `ORC-56WVQKPTF3` |  |
 | 663 | Pd9Se2 -> FCC + α-Pd4Se | Pd9Se2: Se 0.181818; α-Pd4Se: Se 0.2 | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 36; `ORC-LGPDPM2ZXI` |  |
-| 662 | Liq -> Pd34Se11 + Pd7Se4 | Pd34Se11: Se 0.244444; Pd7Se4: Se 0.363636 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 31; `ORC-BYSXU6BUJA` |  |
-| 662 | eutectic: Liquid -> Pd34Se11 + Pd7Se4 |  | experimental | [1] Bordier 2014 | p. 7; `ORC-UNZBJOJD3R` | “Further DTA experiments revealed another invariant temperature at 662 K. This reaction was assigned to the stable eutectic reaction Liquid ! Pd34 Se11 þ Pd7 Se4 which is in accordance with Olsen et al. \[3\] and Takabatake \[4\] (see Table 4).” |
-| 659 | Liq -> Pd34Se11 + Pd7Se4 | Pd34Se11: Se 0.244444; Pd7Se4: Se 0.363636 | model | [1] Bordier 2014 | Table 4, p. 8, row 32; `ORC-FWCFWJL4KB` |  |
+| 662 | eutectic: Liq -> Pd34Se11 + Pd7Se4 | Pd34Se11: Se 0.244444; Pd7Se4: Se 0.363636 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 31; `ORC-BYSXU6BUJA` |  |
+| 659 | eutectic: Liq -> Pd34Se11 + Pd7Se4 | Pd34Se11: Se 0.244444; Pd7Se4: Se 0.363636 | model | [1] Bordier 2014 | Table 4, p. 8, row 32; `ORC-FWCFWJL4KB` |  |
 | 658 | Pd9Se2 -> FCC + α-Pd4Se | Pd9Se2: Se 0.181818; α-Pd4Se: Se 0.2 | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | Table 4, p. 8, row 35; `ORC-HEIRG74OHI` |  |
-| 658 | Liq -> Pd34Se11 + Pd7Se4 | Pd34Se11: Se 0.244444; Pd7Se4: Se 0.363636 | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 30; `ORC-SJLTELWR3W` |  |
-| 655 | Liq -> Pd34Se11 + Pd7Se4 | Pd34Se11: Se 0.244444; Pd7Se4: Se 0.363636 | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | Table 4, p. 8, row 29; `ORC-4YR6ESY3FT` |  |
-| 648 | eutectic |  | experimental | [1] Bordier 2014 | p. 7; `ORC-6BX4ADSLCD` | “The eutectic reaction at 648 K (Fig. 5a) is slightly lower than the temperatures measured by Olsen et al. \[3\] and Takabarake et al. \[4\]; this value is assigned to a metastable eutectic reaction.” |
+| 658 | eutectic: Liq -> Pd34Se11 + Pd7Se4 | Pd34Se11: Se 0.244444; Pd7Se4: Se 0.363636 | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 30; `ORC-SJLTELWR3W` |  |
+| 655 | eutectic: Liq -> Pd34Se11 + Pd7Se4 | Pd34Se11: Se 0.244444; Pd7Se4: Se 0.363636 | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | Table 4, p. 8, row 29; `ORC-4YR6ESY3FT` |  |
 | 648 | eutectic: Liq -> Pd34Se11 + Pd17Se15 | Pd34Se11: Se 0.244444; Pd17Se15: Se 0.46875 | experimental | [1] Bordier 2014 | Table 4, p. 8, row 33; `ORC-YKJNXJEDN6` |  |
 | 646 | eutectic: Liq -> Pd34Se11 + Pd17Se15 | Pd34Se11: Se 0.244444; Pd17Se15: Se 0.46875 | model | [1] Bordier 2014 | Table 4, p. 8, row 34; `ORC-GOPYP2N5TQ` |  |
 | 468 | PdSe -> PdSe2 + Pd17Se15 | PdSe: Se 0.5; PdSe2: Se 0.666667; Pd17Se15: Se 0.46875 | model | [1] Bordier 2014 | Table 4, p. 8, row 39; `ORC-QFKBWKBT7S` |  |
@@ -133,7 +127,7 @@ Table: Enthalpies of formation, Pd–Se system (6)
 
 ## Other properties
 
-### Phase transition (17)
+### Phase transition (7)
 
 Table: Phase transition, Pd–Se system
 
@@ -142,20 +136,10 @@ Table: Phase transition, Pd–Se system
 | Phase transition | 468 K | 468 | other | model | [1] Bordier 2014 | p. 7; `ORC-Q7YG7Z6MY6.f3bfc5` | “Its low temperature of decomposition is calculated at 468 K, in accordance with the 473 K value recommanded by Vymazalová \[14\].” |
 | Phase transition | 473 K | 473 | other | experimental | [1] Bordier 2014; _cites Vymazalova 2013_ | p. 7; `ORC-Q7YG7Z6MY6.4463b6` | “Its low temperature of decomposition is calculated at 468 K, in accordance with the 473 K value recommanded by Vymazalová \[14\].” |
 | Phase transition | 705 K | 705 | other | experimental | [1] Bordier 2014 | p. 7; `ORC-ERLTT77UY6.69a25b` | “The liquidus at 759 K and the decomposition of Pd34 Se11 measured at 705 K are consistent with Olsen et al. \[3\].” |
-| Phase transition | 759 K | 759 | other | experimental | [1] Bordier 2014 | p. 7; `ORC-ERLTT77UY6.b91a7b` | “The liquidus at 759 K and the decomposition of Pd34 Se11 measured at 705 K are consistent with Olsen et al. \[3\].” |
-| Phase transition | 788 K | 788 | polymorphic | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | p. 3; `ORC-FTDDQQ5XEY.4b7701` | “This compound undergoes a polymorphic phase transition at 800 K \[3\] or 788 K \[4\].” |
 | Phase transition | 788 K | 788 | β-Pd4Se -> α; _β-Pd4Se: Se 0.2; α: Se 0.2_ | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | Table 4, p. 8, row 25; `ORC-TGYT2QOILI` |  |
-| Phase transition | 796 K | 796 |  | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | p. 3; `ORC-2EL5UD2CXM.e7a67f` | “The intermetallic compound Pd7 Se2 is stable up to 811 K \[3\] or 796 K \[4\].” |
-| Phase transition | 797 K | 797 | polymorphic | experimental | [1] Bordier 2014 | p. 6; `ORC-O23LK6GFUD.6991d9` | “The DTA response of the 21 at.% Se sample shows three transitions (Fig. 3a). According to the phase diagram, they correspond to the allotropic transition: b-Pd4 Se ! a-Pd4 Se at 797 K; the peritectic decomposition of Pd7 Se2 at 807 K and the peritectic decomposition of b-Pd4 Se at 815 K.” |
-| Phase transition | 800 K | 800 | polymorphic | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 3; `ORC-FTDDQQ5XEY.4e2077` | “This compound undergoes a polymorphic phase transition at 800 K \[3\] or 788 K \[4\].” |
 | Phase transition | 800 K | 800 | β-Pd4Se -> α; _β-Pd4Se: Se 0.2; α: Se 0.2_ | experimental | [1] Bordier 2014 | Table 4, p. 8, row 27; `ORC-4JXAAWF35R` |  |
 | Phase transition | 800 K | 800 | β-Pd4Se -> α; _β-Pd4Se: Se 0.2; α: Se 0.2_ | model | [1] Bordier 2014 | Table 4, p. 8, row 28; `ORC-IYFLK5VSHU` |  |
 | Phase transition | 800 K | 800 | β-Pd4Se -> α; _β-Pd4Se: Se 0.2; α: Se 0.2_ | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | Table 4, p. 8, row 26; `ORC-MREYKDL5F4` |  |
-| Phase transition | 803 K | 803 |  | experimental | [1] Bordier 2014; _cites Takabatake 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990444-9) | p. 3; `ORC-2G4YI6GYAP.337776` | “It is stable at room temperature and it decomposes at 817 K \[3\] or 803 K \[4\].” |
-| Phase transition | 811 K | 811 |  | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 3; `ORC-2EL5UD2CXM.8d6288` | “The intermetallic compound Pd7 Se2 is stable up to 811 K \[3\] or 796 K \[4\].” |
-| Phase transition | 817 K | 817 |  | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 3; `ORC-2G4YI6GYAP.ebc737` | “It is stable at room temperature and it decomposes at 817 K \[3\] or 803 K \[4\].” |
-| Phase transition | 953 K | 953 |  | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 3; `ORC-HEW3FE4O27` | “First of all, the intermetallic compound Pd17 Se15 is stable up to 953 K.” |
-| Phase transition | 1017 K | 1017 | other | experimental | [1] Bordier 2014; _cites Olsen 1979_ [doi](https://doi.org/10.3891/acta.chem.scand.33a-0251) | p. 7; `ORC-HWIRKS5AAS` | “The attempt to calculate the experimental point \[3\] at xðSeÞ 1⁄4 50 at:% and T 1⁄4 1017 K as a liquidus was unsuccessful.” |
 
 ### Crystal structure (17)
 

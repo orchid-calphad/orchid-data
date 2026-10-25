@@ -1,10 +1,10 @@
 # H–Ti system
 
-> H–Ti system: 88 accepted literature values (crystal structure 42, formation 25, invariant reaction 10, heat capacity / entropy / enthalpy 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Ti system: 86 accepted literature values (crystal structure 42, formation 25, invariant reaction 10, heat capacity / entropy / enthalpy 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-TI.html · Markdown: https://data.orchid-project.org/systems/H-TI.md
 
-88 accepted literature values from 4 paper(s) (experimental 9, model 27, DFT 41, unspecified 11); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+86 accepted literature values from 3 paper(s) (experimental 7, model 27, DFT 41, unspecified 11); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-TI.json) · [CSV](https://data.orchid-project.org/systems/H-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-TI) · [phases (7)](https://data.orchid-project.org/phases/pages/H-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-TI.html) · [Markdown](https://data.orchid-project.org/systems/H-TI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 7 |
 | model | 27 |
 | DFT | 41 |
 | unspecified | 11 |
@@ -22,7 +22,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
-| phase transition | 2 |
 | formation | 25 |
 | heat capacity / entropy / enthalpy | 9 |
 | crystal structure | 42 |
@@ -37,8 +36,8 @@ Table: Invariant reactions reported in the literature for the H–Ti system (10)
 |---:|---|---|---|---|---|---|
 | 1070.33 | δ \<=> β + liquid |  | model | [1] Wang 2010 | Table 4, p. 5, row 9; `ORC-6SLSLDRTQ5` |  |
 | 1070.15 | δ \<=> β + liquid |  | unspecified | [1] Wang 2010; _cites Yuh 1991_ | Table 4, p. 5, row 10; `ORC-QM65AQ5V43` |  |
-| 725.47 | L1 -> L2(H2) + δ |  | model | [1] Wang 2010 | Table 4, p. 5, row 7; `ORC-GEOW6AZWG7` |  |
-| 720 | L1 -> L2(H2) + δ |  | unspecified | [1] Wang 2010; _cites Yuh 1991_ | Table 4, p. 5, row 8; `ORC-VUQTJZK73W` |  |
+| 725.47 | eutectic: L1 -> L2(H2) + δ |  | model | [1] Wang 2010 | Table 4, p. 5, row 7; `ORC-GEOW6AZWG7` |  |
+| 720 | eutectic: L1 -> L2(H2) + δ |  | unspecified | [1] Wang 2010; _cites Yuh 1991_ | Table 4, p. 5, row 8; `ORC-VUQTJZK73W` |  |
 | 586.16 | β \<=> α + δ |  | model | [1] Wang 2010 | Table 4, p. 5, row 1; `ORC-PPX6DOSMOS` |  |
 | 580.16 | β \<=> α + δ |  | unspecified | [1] Wang 2010; _cites Shusuke 2007_ | Table 4, p. 5, row 4; `ORC-W5CH24KX7U` |  |
 | 571.98 | β \<=> α + δ |  | model | [1] Wang 2010; _cites Caian 2008_ | Table 4, p. 5, row 5; `ORC-7XKVKGMNK6` |  |
@@ -79,15 +78,6 @@ Table: Enthalpies of formation, H–Ti system (23)
 | ε-TiH2 |  | -47.3 kJ/mol (basis unstated) |  | model |  |  | [3] Ukita 2007 | Table 2, p. 5, row 3; `ORC-ESYL73AMOA.45a783` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, H–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 573.15 K | 573.15 | bcc -> hcp + fcc | experimental | [4] Kivilahti 1987 | p. 1; `ORC-R5AP33ED5I` | “At the temperature of about 300 'C the bee (8) phase containing 38 at% hydrogen decomposes into the hcp (a) phase and fee (y) conjugate solution phases, the equilibrium compositions of which were estimated to be approximately 8 and 47 at%, respectively.” |
-| Phase transition | 1155 K | 1155 |  | experimental | [4] Kivilahti 1987 | p. 6; `ORC-GB3MKAI7JD` | “Using the equation oGbcc + 2.010-3T2 - 1.367\*10-73f400T-'(9) Ti - 'GFcp= 6082 - 4.902T - 0.35trTlnT for the difference between the chemical potentials of the bee and hcp titanium (281, being based also on recent experimental heat capacity and enthalpy data, and the above functions the o and 13solvi can be calculated near the transformation temperature (1155 K) of pure titanium.” |
 
 ### Formation (2)
 
@@ -170,7 +160,6 @@ Reporting papers the values were read from (a value cited from another work name
 1. Kun Wang, Xiangcheng Kong, Junlin Du, Chonghe Li, Zhilin Li, Zhu Wu, Thermodynamic description of the Ti–H system, Calphad 34, 317-323 (2010). [doi:10.1016/j.calphad.2010.07.001](https://doi.org/10.1016/j.calphad.2010.07.001)
 2. E. Königsberger, G. Eriksson, W.A. Oates, Optimisation of the thermodynamic properties of the Ti–H and Zr–H systems, Journal of Alloys and Compounds 299, 148-152 (2000). [doi:10.1016/s0925-8388(99)00816-6](https://doi.org/10.1016/s0925-8388%2899%2900816-6)
 3. Shusuke Ukita, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ti-H and Zr-H Binary Phase Diagrams, J. Japan Inst. Metals 71, 721-729 (2007). [doi:10.2320/jinstmet.71.721](https://doi.org/10.2320/jinstmet.71.721)
-4. J.K. Kivilahti, J.M. Miettinen, A thermodynamic analysis of the ti-h system, Calphad 11, 187-199 (1987). [doi:10.1016/0364-5916(87)90014-9](https://doi.org/10.1016/0364-5916%2887%2990014-9)
 
 ## Please cite
 

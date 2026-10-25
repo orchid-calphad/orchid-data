@@ -1,10 +1,10 @@
 # B–Mo system
 
-> B–Mo system: 77 accepted literature values (invariant reaction 76, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Mo system: 75 accepted literature values (invariant reaction 75) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-MO.html · Markdown: https://data.orchid-project.org/systems/B-MO.md
 
-77 accepted literature values from 2 paper(s) (experimental 38, model 29, unspecified 10); 0 calculated phase diagram(s).
+75 accepted literature values from 1 paper(s) (experimental 37, model 28, unspecified 10); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-MO.json) · [CSV](https://data.orchid-project.org/systems/B-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-MO) · [phases (17)](https://data.orchid-project.org/phases/pages/B-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-MO.html) · [Markdown](https://data.orchid-project.org/systems/B-MO.md)
 
@@ -12,22 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
-| model | 29 |
+| experimental | 37 |
+| model | 28 |
 | unspecified | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 76 |
-| phase transition | 1 |
+| invariant reaction | 75 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-MO.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-MO.json) · [CALPHAD hull MoB-05Yan](https://data.orchid-project.org/hulls/calphad-sgte/B/B-MO--MoB-05Yan.json) · [CALPHAD hull MoB-09Yam](https://data.orchid-project.org/hulls/calphad-sgte/B/B-MO--MoB-09Yam.json) · [CALPHAD hull MoB-16Wit](https://data.orchid-project.org/hulls/calphad-sgte/B/B-MO--MoB-16Wit.json) · [CALPHAD hull MoB-91Pan-LB](https://data.orchid-project.org/hulls/calphad-sgte/B/B-MO--MoB-91Pan-LB.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Mo system (76)
+Table: Invariant reactions reported in the literature for the B–Mo system (75)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -57,7 +56,6 @@ Table: Invariant reactions reported in the literature for the B–Mo system (76)
 | 2473 | peritectic: L + MoB2 ⇄ Mo2B5 | MoB2: B 0.666667, Mo 0.333333; Mo2B5: B 0.714286, Mo 0.285714 | experimental | [1] Witusiewicz 2016; _cites Portnoy 1967_ | Table 3, p. 5, row 44; `ORC-DRWJYETSKN` |  |
 | 2473 | eutectic: L ⇄ A2Mo + Mo2B | L: B 0.2; A2Mo: B 0.01; Mo2B: B 0.33 | experimental | [1] Witusiewicz 2016; _cites Portnoy 1967_ | Table 3, p. 5, row 34; `ORC-GVHL3HSVP6` |  |
 | 2470 | eutectic: L ⇄ A2Mo + Mo2B | L: B 0.205; A2Mo: B 0.014; Mo2B: B 0.333 | model | [1] Witusiewicz 2016; _cites Yamada 2009_ [doi](https://doi.org/10.2320/jinstmet.73.180) | Table 3, p. 5, row 41; `ORC-NI2W4P7VYB` |  |
-| 2463 | eutectic |  | experimental | [1] Witusiewicz 2016; _cites Zakharov 1971_ | p. 7; `ORC-GWPZ3Z6GJK` | “The authors of \[42\] reported that the B solubility is not exceeding 0.05 wt.% at 1473 K (0.04 and 0.05 wt.% in Refs. \[43,44\]), 0.06e0.07 wt.% B at 1873 K (0.08 and 0.06 wt.% in Refs. \[43\] and \[44\], respectively), 0.08e0.09 wt.% B at 2223 K and about 0.011 wt.% at the eutectic temperature of 2463 K (see Fig. 2).” |
 | 2463 | eutectic: L ⇄ A2Mo + Mo2B | A2Mo: B 0.0097; Mo2B: B 0.333333, Mo 0.666667 | experimental | [1] Witusiewicz 2016; _cites Zakharov 1973_ | Table 3, p. 5, row 37; `ORC-QUPS7P7QMY` |  |
 | 2463 | eutectic: L ⇄ A2Mo + Mo2B | A2Mo: B 0.0097; Mo2B: B 0.333333, Mo 0.666667 | experimental | [1] Witusiewicz 2016; _cites Zakharov 1971_ | Table 3, p. 5, row 36; `ORC-SLFZHWIJHT` |  |
 | 2458 | peritectoid: βMoB + Mo2B ⇄ αMoB | βMoB: B 0.5, Mo 0.5; Mo2B: B 0.333333, Mo 0.666667; αMoB: B 0.5, Mo 0.5 | experimental | [1] Witusiewicz 2016; _cites Rudy 1965_ | Table 3, p. 5, row 25; `ORC-OKGRPTCVFT` |  |
@@ -108,22 +106,11 @@ Table: Invariant reactions reported in the literature for the B–Mo system (76)
 | 1773 | eutectoid: MoB2 ⇄ αMoB + Mo2B5 | MoB2: B 0.666667, Mo 0.333333; αMoB: B 0.5, Mo 0.5; Mo2B5: B 0.714286, Mo 0.285714 | experimental | [1] Witusiewicz 2016; _cites Portnoy 1967_ | Table 3, p. 5, row 69; `ORC-3VOJTKXRYP` |  |
 | 1773 | eutectoid: MoB2 ⇄ αMoB + Mo2B5 | MoB2: B 0.666667, Mo 0.333333; αMoB: B 0.5, Mo 0.5; Mo2B5: B 0.714286, Mo 0.285714 | experimental | [1] Witusiewicz 2016; _cites Rudy 1963_ | Table 3, p. 5, row 67; `ORC-QCJQ2KU7OS` |  |
 
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, B–Mo system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 2200 K | 2200 |  | model | [2] Yang 2005 | p. 2; `ORC-OFF6JMAM3C.6875eb` | “Based on the cooling curves of Mo0.625Si0.125B0.25 and Mo0.72Si0.1B0.18, Schneibel et al. \[12\] estimated that the melting temperature of T2 is about 2400 K and the final freezing of the alloys in the Mo-rich region is about 2200 K.” |
-
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. V.T. Witusiewicz, A.A. Bondar, U. Hecht, O.A. Potazhevska, T.Ya Velikanova, Thermodynamic modelling of the ternary B–Mo–Ti system with refined B–Mo description, Journal of Alloys and Compounds 655, 336-352 (2016). [doi:10.1016/j.jallcom.2015.09.158](https://doi.org/10.1016/j.jallcom.2015.09.158)
-2. Y. Yang, Y.A. Chang, Thermodynamic modeling of the Mo–Si–B system, Intermetallics 13, 121-128 (2005). [doi:10.1016/j.intermet.2004.06.007](https://doi.org/10.1016/j.intermet.2004.06.007)
 
 ## Please cite
 

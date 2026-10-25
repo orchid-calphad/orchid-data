@@ -1,10 +1,10 @@
 # Mg–Tm system
 
-> Mg–Tm system: 13 accepted literature values (invariant reaction 13) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Tm system: 12 accepted literature values (invariant reaction 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-TM.html · Markdown: https://data.orchid-project.org/systems/MG-TM.md
 
-13 accepted literature values from 1 paper(s) (experimental 7, model 6); 1 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 6, model 6); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-TM.json) · [CSV](https://data.orchid-project.org/systems/MG-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-TM/MgTm-04Du-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/MG-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-TM.html) · [Markdown](https://data.orchid-project.org/systems/MG-TM.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 6 |
 | model | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 13 |
+| invariant reaction | 12 |
 
 ## Calculated phase diagrams
 
@@ -49,7 +49,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Tm system (13)
+Table: Invariant reactions reported in the literature for the Mg–Tm system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -63,9 +63,8 @@ Table: Invariant reactions reported in the literature for the Mg–Tm system (13
 | 903 | liquid + MgTm -> Mg2Tm | liquid: Tm 0.18; MgTm: Tm 0.42; Mg2Tm: Tm 0.333333 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 6; `ORC-BPPWOXTJ5A` |  |
 | 863 | liquid +Mg2Tm -> Mg24Tm5 | liquid: Tm 0.151; Mg2Tm: Tm 0.333333; Mg24Tm5: Tm 0.172414 | model | [1] Du 2004 | Table 2, p. 4, row 3; `ORC-7O435JLSXH` |  |
 | 863 | liquid +Mg2Tm -> Mg24Tm5 | liquid: Tm 0.13; Mg2Tm: Tm 0.333333; Mg24Tm5: Tm 0.172414 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 4; `ORC-NJAVRCS2NH` |  |
-| 848 | liquid -> hcp(Mg)+Mg24Tm5 | liquid: Tm 0.11; hcp(Mg): Tm 0.06; Mg24Tm5: Tm 0.172414 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 2; `ORC-2B2KI7D33D` |  |
-| 848 | liquid -> hcp(Mg)+Mg24Tm5 | liquid: Tm 0.1088; hcp(Mg): Tm 0.0443; Mg24Tm5: Tm 0.172414 | model | [1] Du 2004 | Table 2, p. 4, row 1; `ORC-B5U37CCRPB` |  |
-| 844.15 | eutectoid: Mgx Tmy -> hcp (Mg) + Mg24 Tm5 |  | experimental | [1] Du 2004; _cites Rockhlin 1977_ | p. 3; `ORC-LPPC6KONZV` | “Moreover he suggested the existence and eutectoid decomposition of the Mgx Tmy compound, with x/y slightly greater than 24/5, into hcp (Mg) and Mg24 Tm5 at 571 ◦ C.” |
+| 848 | eutectic: liquid -> hcp(Mg)+Mg24Tm5 | liquid: Tm 0.11; hcp(Mg): Tm 0.06; Mg24Tm5: Tm 0.172414 | experimental | [1] Du 2004; _cites Saccone 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906023-1) | Table 2, p. 4, row 2; `ORC-2B2KI7D33D` |  |
+| 848 | eutectic: liquid -> hcp(Mg)+Mg24Tm5 | liquid: Tm 0.1088; hcp(Mg): Tm 0.0443; Mg24Tm5: Tm 0.172414 | model | [1] Du 2004 | Table 2, p. 4, row 1; `ORC-B5U37CCRPB` |  |
 
 ## Sources
 

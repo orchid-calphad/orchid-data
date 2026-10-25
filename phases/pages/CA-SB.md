@@ -14,13 +14,13 @@ Table: Phases of the Ca–Sb system (9)
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-ca-sb-a7-rhombohedral); _phase:ca-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–900 K, x(Sb) 1–1 | 0 | 1 |
 | [BCC_A2](#phase-ca-sb-bcc-a2); _phase:ca-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 716.03–1115 K, x(Sb) 0–0 | 0 | 1 |
-| [CA11SB10](#phase-ca-sb-ca11sb10); _phase:ca-sb:ca11sb10_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1400.21 K, x(Sb) 0.47619–0.47619 | 9 | 1 |
+| [CA11SB10](#phase-ca-sb-ca11sb10); _phase:ca-sb:ca11sb10_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1400.21 K, x(Sb) 0.47619–0.47619 | 11 | 1 |
 | [CA2SB](#phase-ca-sb-ca2sb); _phase:ca-sb:ca2sb_ | La2Sb · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1108.52 K, x(Sb) 0.33333–0.33333 | 6 | 1 |
 | [CA5SB3_D88](#phase-ca-sb-ca5sb3-d88); _phase:ca-sb:ca5sb3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1152.9 K, x(Sb) 0.375–0.375 | 0 | 1 |
 | [CASB2](#phase-ca-sb-casb2); _phase:ca-sb:casb2_ | CaSb2 · mP6 · P2_1/m (11) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–909.28 K, x(Sb) 0.66667–0.66667 | 10 | 1 |
 | [FCC_A1](#phase-ca-sb-fcc-a1); _phase:ca-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–716.03 K, x(Sb) 0–0 | 0 | 1 |
 | [HCP_A3](#phase-ca-sb-hcp-a3); _phase:ca-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [LIQUID](#phase-ca-sb-liquid); _phase:ca-sb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 854.86–2500 K, x(Sb) 0–1 | 0 | 1 |
+| [LIQUID](#phase-ca-sb-liquid); _phase:ca-sb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 854.86–2500 K, x(Sb) 0–1 | 2 | 1 |
 
 ## RHOMBOHEDRAL_A7 (Ca–Sb)
 
@@ -81,7 +81,7 @@ _assessment that models this phase_
 - Structure: Ge10Ho11 · tI84 · I4/mmm (139); type `st:ge10ho11-ti84`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ca 0.5238, Sb 0.4762
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1400.21 K, x(Sb) 0.47619–0.47619
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-sb:ca11sb10)
 
 Names (5): _corpus: _corpus:phase:ca-sb:ca11sb10  
@@ -257,10 +257,11 @@ _assessment that models this phase_
 - Id: `phase:ca-sb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 854.86–2500 K, x(Sb) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-sb:liquid)
 
-Names (2): _corpus: _corpus:phase:ca-sb:liquid  
+Names (3): _corpus: _corpus:phase:ca-sb:liquid  
+_paper: _paper:10.1016/j.calphad.2014.10.008:liquid  
 _tdb: _tdb:CaSb-15Qin.tdb:LIQUID  
 
 
@@ -273,10 +274,12 @@ _tdb: _tdb:CaSb-15Qin.tdb:LIQUID
 26: CONST LIQUID:L : CA SB : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.10.008](https://doi.org/10.1016/j.calphad.2014.10.008) Song Qin, Shuhong Liu, Cong Zhang, Jinghua Xin, Yao Wang, Yong Du, Thermodynamic modeling of the Ca–In and Ca–Sb systems supported with first-principles calculations, Calphad 48, 35-42 (2015).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1515/htmp.1999.18.3.151](https://doi.org/10.1515/htmp.1999.18.3.151) A. Bouhajib,, M. Notin,, A. Nadiri,, A. Yacoubi,, Calorimetric Study Coupled With A Numerical Optimization Technique For The Ca-Sb System, High Temperature Materials and Processes 18, 151-158 (1999).  
+_cited as the source of values for this phase_
 
 ## Please cite
 

@@ -51,9 +51,9 @@ Table: Invariant reactions reported in the literature for the Bi–S system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 996 | liq1 -> Bi2S3 + liq2 | Bi2S3: Bi 0.4, S 0.6; liq1: S 0.703; liq2: S 0.962 | model | [1] Huang 2014 | Table VII, p. 6, row 2; `ORC-OIFBIGHNZZ` |  |
-| 544.5 | liq -> Rho_Bi + Bi2S3 | Bi2S3: Bi 0.4, S 0.6 | model | [1] Huang 2014 | Table VII, p. 6, row 1; `ORC-XRY7Q3TNUR` |  |
-| 388.2 | liq2 -> Bi2S3 + Ort_S | Bi2S3: Bi 0.4, S 0.6 | model | [1] Huang 2014 | Table VII, p. 6, row 3; `ORC-JKHHGJP3IA` |  |
+| 996 | monotectic: liq1 -> Bi2S3 + liq2 | Bi2S3: Bi 0.4, S 0.6; liq1: S 0.703; liq2: S 0.962 | model | [1] Huang 2014 | Table VII, p. 6, row 2; `ORC-OIFBIGHNZZ` |  |
+| 544.5 | eutectic: liq -> Rho_Bi + Bi2S3 | Bi2S3: Bi 0.4, S 0.6 | model | [1] Huang 2014 | Table VII, p. 6, row 1; `ORC-XRY7Q3TNUR` |  |
+| 388.2 | eutectic: liq2 -> Bi2S3 + Ort_S | Bi2S3: Bi 0.4, S 0.6 | model | [1] Huang 2014 | Table VII, p. 6, row 3; `ORC-JKHHGJP3IA` |  |
 
 ## Other properties
 

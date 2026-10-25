@@ -1,10 +1,10 @@
 # Sb–Zn system
 
-> Sb–Zn system: 260 accepted literature values (invariant reaction 108, formation 98, phase transition 24, activity / EMF / Gibbs energy 20) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Zn system: 256 accepted literature values (invariant reaction 108, formation 98, activity / EMF / Gibbs energy 20, phase transition 20) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-ZN.html · Markdown: https://data.orchid-project.org/systems/SB-ZN.md
 
-260 accepted literature values from 5 paper(s) (experimental 136, model 115, unspecified 9); 7 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+256 accepted literature values from 4 paper(s) (experimental 134, model 113, unspecified 9); 7 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-ZN.json) · [CSV](https://data.orchid-project.org/systems/SB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-ZN/SbZn-00Liu-LB.json) · [phases (24)](https://data.orchid-project.org/phases/pages/SB-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-ZN.html) · [Markdown](https://data.orchid-project.org/systems/SB-ZN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 136 |
-| model | 115 |
+| experimental | 134 |
+| model | 113 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 108 |
-| phase transition | 24 |
+| phase transition | 20 |
 | phase equilibrium | 5 |
 | formation | 98 |
 | activity / EMF / Gibbs energy | 20 |
@@ -152,22 +152,22 @@ Table: Invariant reactions reported in the literature for the Sb–Zn system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 863.15 | L ↔ β-Zn9Sb7 | L: Zn 0.571; β-Zn9Sb7: Zn 0.571 | experimental | [1] Zhang 2022; _cites Dobryden 1983_ | Table 7, p. 12, row 20; `ORC-7RFWQASPU5` |  |
-| 858.15 | L ↔ β-Zn3Sb2 | L: Zn 0.6; β-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Dobryden 1983_ | Table 7, p. 12, row 3; `ORC-POSG52LJIJ` |  |
-| 854.15 | L ↔ β-Zn3Sb2 | L: Zn 0.593; β-Zn3Sb2: Zn 0.593 | experimental | [1] Zhang 2022; _cites Lo 2017_ [doi](https://doi.org/10.1021/acs.chemmater.7b01214) | Table 7, p. 12, row 5; `ORC-KWH2QWJO3R` |  |
-| 854.15 | L ↔ β-Zn9Sb7 | L: Zn 0.548; β-Zn9Sb7: Zn 0.548 | experimental | [1] Zhang 2022; _cites He 2015_ [doi](https://doi.org/10.1039/c5dt03509k) | Table 7, p. 12, row 21; `ORC-L6H5PQASW6` |  |
+| 863.15 | congruent melting: L ↔ β-Zn9Sb7 | L: Zn 0.571; β-Zn9Sb7: Zn 0.571 | experimental | [1] Zhang 2022; _cites Dobryden 1983_ | Table 7, p. 12, row 20; `ORC-7RFWQASPU5` |  |
+| 858.15 | congruent melting: L ↔ β-Zn3Sb2 | L: Zn 0.6; β-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Dobryden 1983_ | Table 7, p. 12, row 3; `ORC-POSG52LJIJ` |  |
+| 854.15 | congruent melting: L ↔ β-Zn3Sb2 | L: Zn 0.593; β-Zn3Sb2: Zn 0.593 | experimental | [1] Zhang 2022; _cites Lo 2017_ [doi](https://doi.org/10.1021/acs.chemmater.7b01214) | Table 7, p. 12, row 5; `ORC-KWH2QWJO3R` |  |
+| 854.15 | congruent melting: L ↔ β-Zn9Sb7 | L: Zn 0.548; β-Zn9Sb7: Zn 0.548 | experimental | [1] Zhang 2022; _cites He 2015_ [doi](https://doi.org/10.1039/c5dt03509k) | Table 7, p. 12, row 21; `ORC-L6H5PQASW6` |  |
 | 853.15 | L + β-Zn9Sb7 ↔ SbZn | β-Zn9Sb7: Zn 0.571; SbZn: Zn 0.5 | experimental | [1] Zhang 2022; _cites Dobryden 1983_ | Table 7, p. 12, row 30; `ORC-7J43QH2VQV` |  |
-| 852.65 | L ↔ β-Zn3Sb2 | L: Zn 0.593; β-Zn3Sb2: Zn 0.593 | model | [1] Zhang 2022 | Table 7, p. 12, row 6; `ORC-INOYOR2USG` |  |
-| 852.45 | L ↔ β-Zn9Sb7 | L: Zn 0.551; β-Zn9Sb7: Zn 0.551 | model | [1] Zhang 2022 | Table 7, p. 12, row 22; `ORC-42C4HFQX3Y` |  |
+| 852.65 | congruent melting: L ↔ β-Zn3Sb2 | L: Zn 0.593; β-Zn3Sb2: Zn 0.593 | model | [1] Zhang 2022 | Table 7, p. 12, row 6; `ORC-INOYOR2USG` |  |
+| 852.45 | congruent melting: L ↔ β-Zn9Sb7 | L: Zn 0.551; β-Zn9Sb7: Zn 0.551 | model | [1] Zhang 2022 | Table 7, p. 12, row 22; `ORC-42C4HFQX3Y` |  |
 | 851.55 | L ↔ β-Zn9Sb7 + β-Zn3Sb2 | L: Zn 0.572; β-Zn9Sb7: Zn 0.551; β-Zn3Sb2: Zn 0.593 | model | [1] Zhang 2022 | Table 7, p. 12, row 27; `ORC-YVO3FNJKLJ` |  |
 | 848.15 | L ↔ β-Zn9Sb7 + β-Zn3Sb2 | β-Zn9Sb7: Zn 0.548; β-Zn3Sb2: Zn 0.593 | experimental | [1] Zhang 2022; _cites Lo 2018_ [doi](https://doi.org/10.1039/c8dt02521e) | Table 7, p. 12, row 26; `ORC-BBNKFL77W4` |  |
 | 842.15 | L + β-Zn9Sb7 ↔ SbZn | β-Zn9Sb7: Zn 0.548; SbZn: Zn 0.5 | experimental | [1] Zhang 2022; _cites Lo 2018_ [doi](https://doi.org/10.1039/c8dt02521e) | Table 7, p. 12, row 32; `ORC-TO733BRX5U` |  |
-| 841.15 | L ↔ β-Zn3Sb2 | L: Zn 0.596; β-Zn3Sb2: Zn 0.596 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 4; `ORC-3XMOCGOFNR` |  |
-| 841.15 | L ↔ β-Zn3Sb2 | L: Zn 0.558; β-Zn3Sb2: Zn 0.558 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 1; `ORC-CRQ2QQ7PRZ` |  |
-| 841.15 | L ↔ β-Zn9Sb7 | L: Zn 0.558; β-Zn9Sb7: Zn 0.558 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 19; `ORC-RECCULIHI3` |  |
-| 839.15 | L ↔ β-Zn9Sb7 | L: Zn 0.57; β-Zn9Sb7: Zn 0.57 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 18; `ORC-4RUN5E7U2M` |  |
+| 841.15 | congruent melting: L ↔ β-Zn3Sb2 | L: Zn 0.596; β-Zn3Sb2: Zn 0.596 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 4; `ORC-3XMOCGOFNR` |  |
+| 841.15 | congruent melting: L ↔ β-Zn3Sb2 | L: Zn 0.558; β-Zn3Sb2: Zn 0.558 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 1; `ORC-CRQ2QQ7PRZ` |  |
+| 841.15 | congruent melting: L ↔ β-Zn9Sb7 | L: Zn 0.558; β-Zn9Sb7: Zn 0.558 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 19; `ORC-RECCULIHI3` |  |
+| 839.15 | congruent melting: L ↔ β-Zn9Sb7 | L: Zn 0.57; β-Zn9Sb7: Zn 0.57 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 18; `ORC-4RUN5E7U2M` |  |
 | 839.15 | L ↔ β-Zn9Sb7 + β-Zn3Sb2 | L: Zn 0.559; β-Zn9Sb7: Zn 0.558; β-Zn3Sb2: Zn 0.595 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 24; `ORC-HCRSEBKFSJ` |  |
-| 839.15 | L ↔ β-Zn3Sb2 | L: Zn 0.6; β-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 7, p. 12, row 2; `ORC-HSUV7ZAJKQ` |  |
+| 839.15 | congruent melting: L ↔ β-Zn3Sb2 | L: Zn 0.6; β-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 7, p. 12, row 2; `ORC-HSUV7ZAJKQ` |  |
 | 839 | eutectic: L -> δ'Sb3Zn4 + ξSb2Zn3 | L: Zn 0.559; δ'Sb3Zn4: Zn 0.558; ξSb2Zn3: Zn 0.595 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 15; `ORC-BKR5IDQHJG` |  |
 | 838.85 | L + β-Zn9Sb7 ↔ SbZn | L: Zn 0.465; β-Zn9Sb7: Zn 0.551; SbZn: Zn 0.5 | model | [1] Zhang 2022 | Table 7, p. 12, row 34; `ORC-I5ZHDN223U` |  |
 | 836.15 | L ↔ β-Zn9Sb7 + β-Zn3Sb2 | β-Zn9Sb7: Zn 0.57; β-Zn3Sb2: Zn 0.596 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 25; `ORC-SNDKJIJXCS` |  |
@@ -250,16 +250,16 @@ Table: Invariant reactions reported in the literature for the Sb–Zn system (10
 | 677.45 | α-Zn3Sb2 ↔ β-Zn13Sb10 + Hcp(Zn) | α-Zn3Sb2: Zn 0.6; β-Zn13Sb10: Zn 0.5652; Hcp(Zn): Zn 1 | model | [1] Zhang 2022 | Table 7, p. 12, row 56; `ORC-4H4DJ4RW5Z` |  |
 | 677.15 | α-Zn3Sb2 ↔ β-Zn13Sb10 + Hcp(Zn) | α-Zn3Sb2: Zn 0.6; β-Zn13Sb10: Zn 0.57; Hcp(Zn): Zn 1 | experimental | [1] Zhang 2022; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 7, p. 12, row 53; `ORC-ORFXMYD5KZ` |  |
 | 677 | eutectoid: ηSb2Zn3 -> εSb3Zn4 + Zn | ηSb2Zn3: Zn 0.6; εSb3Zn4: Zn 0.57; Zn: Zn 1 | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 42; `ORC-YTZNLBFFD6` |  |
-| 256.15 | β-Zn13Sb10 ↔ α-Zn13Sb10 | β-Zn13Sb10: Zn 0.5652; α-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Mozharivskyj 2004_ [doi](https://doi.org/10.1021/cm035274a) | Table 7, p. 12, row 62; `ORC-QV7SINT6UG` |  |
-| 256.15 | α-Zn13Sb10 ↔ β-Zn13Sb10 | α-Zn13Sb10: Zn 0.5652; β-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Mozharivskyj 2004_ [doi](https://doi.org/10.1021/cm035274a) | Table 7, p. 12, row 61; `ORC-YVMYB3LTN2` |  |
+| 256.15 | polymorphic: β-Zn13Sb10 ↔ α-Zn13Sb10 | β-Zn13Sb10: Zn 0.5652; α-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Mozharivskyj 2004_ [doi](https://doi.org/10.1021/cm035274a) | Table 7, p. 12, row 62; `ORC-QV7SINT6UG` |  |
+| 256.15 | polymorphic: α-Zn13Sb10 ↔ β-Zn13Sb10 | α-Zn13Sb10: Zn 0.5652; β-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Mozharivskyj 2004_ [doi](https://doi.org/10.1021/cm035274a) | Table 7, p. 12, row 61; `ORC-YVMYB3LTN2` |  |
 | 253.85 | α-Zn13Sb10 + SbZn ↔ β-Zn13Sb10 | α-Zn13Sb10: Zn 0.5652; SbZn: Zn 0.5; β-Zn13Sb10: Zn 0.5652 | model | [1] Zhang 2022 | Table 7, p. 12, row 68; `ORC-HT7O3JZL7Z` |  |
 | 253.85 | α-Zn13Sb10 ↔ β-Zn13Sb10 + Hcp(Zn) | α-Zn13Sb10: Zn 0.5652; β-Zn13Sb10: Zn 0.5652; Hcp(Zn): Zn 1 | model | [1] Zhang 2022 | Table 7, p. 12, row 67; `ORC-MGXNSP3G4O` |  |
-| 253.85 | β-Zn13Sb10 ↔ α-Zn13Sb10 | β-Zn13Sb10: Zn 0.5652; α-Zn13Sb10: Zn 0.5652 | model | [1] Zhang 2022 | Table 7, p. 12, row 63; `ORC-VAM2DLED66` |  |
+| 253.85 | polymorphic: β-Zn13Sb10 ↔ α-Zn13Sb10 | β-Zn13Sb10: Zn 0.5652; α-Zn13Sb10: Zn 0.5652 | model | [1] Zhang 2022 | Table 7, p. 12, row 63; `ORC-VAM2DLED66` |  |
 | 234.35 | α-Zn13Sb10 ↔ α'-Zn13Sb10 + SbZn | α-Zn13Sb10: Zn 0.5652; SbZn: Zn 0.5 | model | [1] Zhang 2022 | Table 7, p. 12, row 70; `ORC-AP4YR6ZTS4` |  |
 | 234.35 | α-Zn13Sb10 + Hcp(Zn) ↔ α'-Zn13Sb10 | α-Zn13Sb10: Zn 0.5652; Hcp(Zn): Zn 1 | model | [1] Zhang 2022 | Table 7, p. 12, row 69; `ORC-CSC2U6SA66` |  |
-| 234.35 | α-Zn13Sb10 ↔ α'-Zn13Sb10 | α-Zn13Sb10: Zn 0.5652 | model | [1] Zhang 2022 | Table 7, p. 12, row 66; `ORC-R2SF3CPC4R` |  |
-| 232.15 | α-Zn13Sb10 ↔ α'-Zn13Sb10 | α-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Mozharivskyj 2004_ [doi](https://doi.org/10.1021/cm035274a) | Table 7, p. 12, row 65; `ORC-JRB2NYZYXS` |  |
-| 232.15 | α'-Zn13Sb10 ↔ α-Zn13Sb10 | α'-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Mozharivskyj 2004_ [doi](https://doi.org/10.1021/cm035274a) | Table 7, p. 12, row 64; `ORC-S6YNVBCDSP` |  |
+| 234.35 | polymorphic: α-Zn13Sb10 ↔ α'-Zn13Sb10 | α-Zn13Sb10: Zn 0.5652 | model | [1] Zhang 2022 | Table 7, p. 12, row 66; `ORC-R2SF3CPC4R` |  |
+| 232.15 | polymorphic: α-Zn13Sb10 ↔ α'-Zn13Sb10 | α-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Mozharivskyj 2004_ [doi](https://doi.org/10.1021/cm035274a) | Table 7, p. 12, row 65; `ORC-JRB2NYZYXS` |  |
+| 232.15 | polymorphic: α'-Zn13Sb10 ↔ α-Zn13Sb10 | α'-Zn13Sb10: Zn 0.5652 | experimental | [1] Zhang 2022; _cites Mozharivskyj 2004_ [doi](https://doi.org/10.1021/cm035274a) | Table 7, p. 12, row 64; `ORC-S6YNVBCDSP` |  |
 
 ## Formation enthalpies
 
@@ -330,7 +330,7 @@ Table: Enthalpies of formation, Sb–Zn system (58)
 
 ## Other properties
 
-### Phase transition (24)
+### Phase transition (20)
 
 Table: Phase transition, Sb–Zn system
 
@@ -342,16 +342,12 @@ Table: Phase transition, Sb–Zn system
 | Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.224, Zn 0.776_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 13; `ORC-QOIDNA2KNQ` |  |
 | Phase transition | 683.15 K | 683.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.187, Zn 0.813_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 14; `ORC-WOCE7Z454X` |  |
 | Phase transition | 717.65 K | 717.65 | congruent transformation: ξSb2Zn3 -> ηSb2Zn3; _ξSb2Zn3: Zn 0.6; ηSb2Zn3: Zn 0.6_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 33; `ORC-CI6MM3X4UF` |  |
-| Phase transition | 720 K | 720 |  | experimental | [5] Zabdyr 1997 | p. 1; `ORC-2H446Y3KWA.1e0cbc` | “The following phases exist in the Cd-Sb-Zn system: ternary liquid, L; two hcp terminal solid solutions: (Cd) and (Zn); rhombohedraf (Sb); orthorombic (Cd,,Zn,)Sb solid solution - ternary phase cc; binary compound y-Sb,Zn, of unknown structure transforming at 766 K to low temperature f3-Sb,Zn, of structure defined as monoclinic or hexsagonaf, high temperature orthorhombic binary compound rf-Sb,Zn,…” |
 | Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.276, Zn 0.724_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 6; `ORC-AAROKHQYRP` |  |
 | Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.166, Zn 0.834_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 10; `ORC-BHQXUMQFBQ` |  |
 | Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.224, Zn 0.776_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 8; `ORC-FM2RBAZ6RQ` |  |
 | Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.236, Zn 0.764_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 7; `ORC-PC6A76JUDU` |  |
 | Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.187, Zn 0.813_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 9; `ORC-WN3ZAH5YOE` |  |
 | Phase transition | 765.25 K | 765.25 | congruent transformation: δSb3Zn4 -> εSb3Zn4; _δSb3Zn4: Zn 0.571; εSb3Zn4: Zn 0.571_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 27; `ORC-N2WFMXG67Y` |  |
-| Phase transition | 766 K | 766 |  | experimental | [5] Zabdyr 1997 | p. 1; `ORC-2H446Y3KWA.7a9d6a` | “The following phases exist in the Cd-Sb-Zn system: ternary liquid, L; two hcp terminal solid solutions: (Cd) and (Zn); rhombohedraf (Sb); orthorombic (Cd,,Zn,)Sb solid solution - ternary phase cc; binary compound y-Sb,Zn, of unknown structure transforming at 766 K to low temperature f3-Sb,Zn, of structure defined as monoclinic or hexsagonaf, high temperature orthorhombic binary compound rf-Sb,Zn,…” |
-| Phase transition | 767 K | 767 | ␧ → ␦ | model | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | p. 1; `ORC-SLDZVI7AWZ.fa31e7` | “The most recent one \[3\] shows two phase transformations for ␧-Sb3 Zn4 occurring at 767 K (␧ → ␦) and at about 800 K (␦ → ␦ ), respectively.” |
-| Phase transition | 800 K | 800 | ␦ → ␦  | model | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | p. 1; `ORC-SLDZVI7AWZ.d5e7b8` | “The most recent one \[3\] shows two phase transformations for ␧-Sb3 Zn4 occurring at 767 K (␧ → ␦) and at about 800 K (␦ → ␦ ), respectively.” |
 | Phase transition | 835.75 K | 835.75 | congruent melting: L -> δSb3Zn4; _L: Zn 0.571; δSb3Zn4: Zn 0.571_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 10; `ORC-6NL4J47C6E` |  |
 | Phase transition | 836.15 K | 836.15 | congruent melting: L -> ξSb2Zn3; _L: Zn 0.6; ξSb2Zn3: Zn 0.6_ | model | [2] Li 2007; _cites Liu 2000_ [doi](https://doi.org/10.1361/105497100770339608) | Table 2, p. 3, row 18; `ORC-GKCB2EIZEM` |  |
 | Phase transition | 836.2 K | 836.2 | congruent melting: L -> δ'Sb3Zn4; _L: Zn 0.558; δ'Sb3Zn4: Zn 0.558_ | model | [2] Li 2007 | Table 2, p. 3, row 12; `ORC-W3Y52BXABU` |  |
@@ -467,7 +463,6 @@ Reporting papers the values were read from (a value cited from another work name
 2. Jing-Bo Li, Marie-Christine Record, Jean-Claude Tedenac, A thermodynamic assessment of the Sb–Zn system, Journal of Alloys and Compounds 438, 171-177 (2007). [doi:10.1016/j.jallcom.2006.08.035](https://doi.org/10.1016/j.jallcom.2006.08.035)
 3. Ya Liu, Jean-Claude Tedenac, Thermodynamic modeling of the Cd–Sb–Zn ternary system, Calphad 33, 684-694 (2009). [doi:10.1016/j.calphad.2009.08.006](https://doi.org/10.1016/j.calphad.2009.08.006)
 4. X. J. Liu, C. P. Wang, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the phase diagrams of the Cu-Sb and Sb-Zn systems, JPE 21, 432-442 (2000). [doi:10.1361/105497100770339608](https://doi.org/10.1361/105497100770339608)
-5. Leszek A. Zabdyr, Phase equilibria in ternary Cd-Sb-Zn system, Calphad 21, 349-358 (1997). [doi:10.1016/s0364-5916(97)00036-9](https://doi.org/10.1016/s0364-5916%2897%2900036-9)
 
 ## Please cite
 

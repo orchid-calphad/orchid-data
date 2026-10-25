@@ -1,10 +1,10 @@
 # Al–Co system
 
-> Al–Co system: 145 accepted literature values (invariant reaction 55, formation 28, phase transition 28, phase equilibrium 15) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Co system: 123 accepted literature values (invariant reaction 47, formation 27, phase equilibrium 15, phase transition 15) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CO.html · Markdown: https://data.orchid-project.org/systems/AL-CO.md
 
-145 accepted literature values from 6 paper(s) (experimental 63, model 11, DFT 44, unspecified 27); 13 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+123 accepted literature values from 5 paper(s) (experimental 43, model 9, DFT 44, unspecified 27); 13 calculated phase diagram(s). 27 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO.json) · [CSV](https://data.orchid-project.org/systems/AL-CO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CO/AlCo-13Ste.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-CO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 63 |
-| model | 11 |
+| experimental | 43 |
+| model | 9 |
 | DFT | 44 |
 | unspecified | 27 |
 
@@ -21,10 +21,10 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 55 |
-| phase transition | 28 |
+| invariant reaction | 47 |
+| phase transition | 15 |
 | phase equilibrium | 15 |
-| formation | 28 |
+| formation | 27 |
 | mixing / partial | 14 |
 | crystal structure | 5 |
 
@@ -326,24 +326,21 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Co system (55)
+Table: Invariant reactions reported in the literature for the Al–Co system (47)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1673.15 | peritectic: Liq -> CoAl + (αCo)pm | CoAl: Co 0.5 | experimental | [1] Stein 2013; _cites McAlister 1989_ [doi](https://doi.org/10.1007/bf02877635) | Table 4, p. 7, row 3; `ORC-4UDRKY3AIE` |  |
-| 1673.15 | eutectic: liquid -> CoAl + (aCo) |  | model | [1] Stein 2013; _cites McAlister 1989_ [doi](https://doi.org/10.1007/bf02877635) | p. 5; `ORC-EBJZPZOPML` | “Above 60 at.% Co, the solidus and liquidus temperatures measured by Kimura et al. \[20\] fairly well lie on the extrapolated lines of the present solidus and liquidus data to the eutectic CoAl þ (aCo) reaction at 1400 C and 81.0 at.% Co (and a CoAl composition of 78.5 at.% Co) \[13\], whereas the values of Gwyer \[5\], especially at the higher temperatures, do not fit well.” |
-| 1673 | Liq => AlCo + (αCo) | AlCo: Co 0.5 | unspecified | [2] Wang 2017; _cites ref. 41_ | Table 9, p. 50, row 3; `ORC-4FRYRDNTGG` |  |
-| 1672.6 | Liq => AlCo + (αCo) | AlCo: Co 0.5 | unspecified | [2] Wang 2017; _cites ref. 17_ | Table 9, p. 50, row 2; `ORC-XTT4Z6WFQ5` |  |
+| 1673 | eutectic: Liq => AlCo + (αCo) | AlCo: Co 0.5 | unspecified | [2] Wang 2017; _cites ref. 41_ | Table 9, p. 50, row 3; `ORC-4FRYRDNTGG` |  |
+| 1672.6 | eutectic: Liq => AlCo + (αCo) | AlCo: Co 0.5 | unspecified | [2] Wang 2017; _cites ref. 17_ | Table 9, p. 50, row 2; `ORC-XTT4Z6WFQ5` |  |
 | 1672.15 | peritectic: Liq -> CoAl + (αCo)pm | CoAl: Co 0.5 | unspecified | [1] Stein 2013 | Table 4, p. 7, row 4; `ORC-KEVGSVKYUX` |  |
-| 1669.3 | Liq => AlCo + (αCo) | AlCo: Co 0.5 | model | [2] Wang 2017 | Table 9, p. 50, row 1; `ORC-KFPFL3STCK` |  |
+| 1669.3 | eutectic: Liq => AlCo + (αCo) | AlCo: Co 0.5 | model | [2] Wang 2017 | Table 9, p. 50, row 1; `ORC-KFPFL3STCK` |  |
 | 1461.15 | peritectic: Liq + CoAl -> Al5Co2 | CoAl: Co 0.5; Al5Co2: Co 0.285714 | experimental | [1] Stein 2013; _cites Grushko 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902045-4) | Table 4, p. 7, row 7; `ORC-HFMBN7QJCI` |  |
 | 1461 | Liq + AlCo => Al5Co2 | AlCo: Co 0.5; Al5Co2: Co 0.285714 | unspecified | [2] Wang 2017; _cites ref. 47_ | Table 9, p. 50, row 7; `ORC-4UNCTB4YYP` |  |
 | 1455.15 | peritectic: Liq + CoAl -> Al5Co2 | CoAl: Co 0.5; Al5Co2: Co 0.285714 | experimental | [1] Stein 2013; _cites Godecke 1996_ [doi](https://doi.org/10.1515/ijmr-1996-871107) | Table 4, p. 7, row 6; `ORC-J7HUQAZ7CW` |  |
 | 1455 | Liq + AlCo => Al5Co2 | AlCo: Co 0.5; Al5Co2: Co 0.285714 | unspecified | [2] Wang 2017; _cites ref. 43_ | Table 9, p. 50, row 6; `ORC-NSZ6BBPHSQ` |  |
 | 1454.15 | peritectic |  | experimental | [1] Stein 2013 | p. 5; `ORC-7DATXN4HWZ.89e2b1` | “DTA curves show a distinct peak at this peritectic reaction with onset temperatures of 1180 and 1181 C, respectively.” |
-| 1454.15 | peritectic: L þ CoAl 4 Al5Co2 |  | experimental | [1] Stein 2013 | p. 10; `ORC-BDK2537ZKY.df1fcc` | “For the peritectic reactions L þ CoAl 4 Al5Co2 and L þ Al5Co2 4 Al3Co, temperatures of 1181 and 1153 C were measured in good agreement with literature values.” |
 | 1454.15 | peritectic: Liq + CoAl -> Al5Co2 | CoAl: Co 0.5; Al5Co2: Co 0.285714 | experimental | [1] Stein 2013 | Table 4, p. 7, row 5; `ORC-U2DPMW7XSQ` |  |
-| 1454.15 | peritectic: L þ AlCo / Al5Co2 |  | experimental | [1] Stein 2013 | p. 6; `ORC-ZFJQHRUV5Z.91f528` | “In the Al-rich part, the present experimental data on the peritectic reactions L þ AlCo / Al5Co2 (occurring at 1181 C) and L þ Al5Co2 / Al3Co (occurring at 1153 C) were considered in the assessment work (see also section 2.5 above).” |
 | 1453.15 | peritectic: Liq + CoAl -> Al5Co2 | CoAl: Co 0.5; Al5Co2: Co 0.285714 | experimental | [1] Stein 2013; _cites McAlister 1989_ [doi](https://doi.org/10.1007/bf02877635) | Table 4, p. 7, row 8; `ORC-34YTOIXXA2` |  |
 | 1453.15 | peritectic |  | experimental | [1] Stein 2013 | p. 5; `ORC-7DATXN4HWZ.befc64` | “DTA curves show a distinct peak at this peritectic reaction with onset temperatures of 1180 and 1181 C, respectively.” |
 | 1453.15 | peritectic: Liq + CoAl -> Al5Co2 | CoAl: Co 0.5; Al5Co2: Co 0.285714 | unspecified | [1] Stein 2013 | Table 4, p. 7, row 9; `ORC-X3J7VQ2MPC` |  |
@@ -352,19 +349,15 @@ Table: Invariant reactions reported in the literature for the Al–Co system (55
 | 1450 | Liq + AlCo => Al5Co2 | AlCo: Co 0.5; Al5Co2: Co 0.285714 | model | [2] Wang 2017 | Table 9, p. 50, row 4; `ORC-MVWVP7QQHO` |  |
 | 1431.15 | peritectic: Liq + Al5Co2 -> Al3Co | Al5Co2: Co 0.285714; Al3Co: Co 0.25 | experimental | [1] Stein 2013; _cites Grushko 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902045-4) | Table 4, p. 7, row 12; `ORC-JHRGHTJ56L` |  |
 | 1431 | Liq + Al5Co2=> Al3Co | Al5Co2: Co 0.285714; Al3Co: Co 0.25 | unspecified | [2] Wang 2017; _cites ref. 47_ | Table 9, p. 50, row 12; `ORC-7WOXKKIE4D` |  |
-| 1427.15 | peritectic |  | experimental | [3] Ostrowska 2019; _cites Priputen 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.05.248) | p. 2; `ORC-CMQD6N2NFO.1d02a9` | “6) CoAl3, at about 25.5 at% Co, with the highest Co content, decomposes peritectically at about 1154 C.” |
 | 1426.3 | Liq + Al5Co2=> Al3Co | Al5Co2: Co 0.285714; Al3Co: Co 0.25 | model | [2] Wang 2017 | Table 9, p. 50, row 9; `ORC-X5YQFIUY7F` |  |
 | 1426.15 | peritectic: Liq + Al5Co2 -> Al3Co | Al5Co2: Co 0.285714; Al3Co: Co 0.25 | unspecified | [1] Stein 2013 | Table 4, p. 7, row 14; `ORC-AGPZIOREM4.ae884b` |  |
 | 1426.15 | peritectic: Liq + Al5Co2 -> Al3Co | Al5Co2: Co 0.285714; Al3Co: Co 0.25 | experimental | [1] Stein 2013 | Table 4, p. 7, row 10; `ORC-AGPZIOREM4.b27b4b` |  |
-| 1426.15 | peritectic: L þ Al5Co2 4 Al3Co |  | experimental | [1] Stein 2013 | p. 10; `ORC-BDK2537ZKY.815a86` | “For the peritectic reactions L þ CoAl 4 Al5Co2 and L þ Al5Co2 4 Al3Co, temperatures of 1181 and 1153 C were measured in good agreement with literature values.” |
 | 1426.15 | peritectic: Liq + Al5Co2 -> Al3Co | Al5Co2: Co 0.285714; Al3Co: Co 0.25 | experimental | [1] Stein 2013; _cites Godecke 1996_ [doi](https://doi.org/10.1515/ijmr-1996-871107) | Table 4, p. 7, row 11; `ORC-DQ2ITHBDM4` |  |
 | 1426.15 | peritectic |  | experimental | [1] Stein 2013 | p. 5; `ORC-JGZEROFPGX` | “The small peak with an onset temperature of 1153 C belongs to the peritectic decomposition reaction of Al3Co.” |
-| 1426.15 | peritectic: L þ Al5Co2 / Al3Co |  | experimental | [1] Stein 2013 | p. 6; `ORC-ZFJQHRUV5Z.3b01d3` | “In the Al-rich part, the present experimental data on the peritectic reactions L þ AlCo / Al5Co2 (occurring at 1181 C) and L þ Al5Co2 / Al3Co (occurring at 1153 C) were considered in the assessment work (see also section 2.5 above).” |
 | 1426 | Liq + Al5Co2=> Al3Co | Al5Co2: Co 0.285714; Al3Co: Co 0.25 | unspecified | [2] Wang 2017; _cites ref. 43_ | Table 9, p. 50, row 11; `ORC-7JG4NZ7VQP` |  |
 | 1426 | Liq + Al5Co2=> Al3Co | Al5Co2: Co 0.285714; Al3Co: Co 0.25 | unspecified | [2] Wang 2017; _cites ref. 41_ | Table 9, p. 50, row 13; `ORC-NBCQNT4OHY` |  |
 | 1425.7 | Liq + Al5Co2=> Al3Co | Al5Co2: Co 0.285714; Al3Co: Co 0.25 | unspecified | [2] Wang 2017; _cites ref. 17_ | Table 9, p. 50, row 10; `ORC-JBASLDAGOF` |  |
 | 1408.15 | peritectic: Liq + Al5Co2 -> Al3Co | Al5Co2: Co 0.285714; Al3Co: Co 0.25 | experimental | [1] Stein 2013; _cites McAlister 1989_ [doi](https://doi.org/10.1007/bf02877635) | Table 4, p. 7, row 13; `ORC-OZKXXR57FI` |  |
-| 1402.15 | peritectic |  | experimental | [3] Ostrowska 2019; _cites Priputen 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.05.248) | p. 2; `ORC-CMQD6N2NFO.51fa2a` | “4) Y-Co4Al13 which decomposes peritectically at about 1129 C.” |
 | 1402 | Liq + Al3Co => y-Al13Co4 | Al3Co: Co 0.25; y-Al13Co4: Co 0.235294 | unspecified | [2] Wang 2017; _cites ref. 48_ | Table 9, p. 50, row 17; `ORC-2X62HPLCME` |  |
 | 1401.4 | Liq + Al3Co => y-Al13Co4 | Al3Co: Co 0.25; y-Al13Co4: Co 0.235294 | model | [2] Wang 2017 | Table 9, p. 50, row 14; `ORC-HZR6NYFEQP` |  |
 | 1400 | Liq + Al3Co => y-Al13Co4 | Al3Co: Co 0.25; y-Al13Co4: Co 0.235294 | unspecified | [2] Wang 2017; _cites ref. 43_ | Table 9, p. 50, row 15; `ORC-CUFOOBO3TE` |  |
@@ -376,7 +369,6 @@ Table: Invariant reactions reported in the literature for the Al–Co system (55
 | 1366 | Liq + y-Al13Co4 => o-Al13Co4 | y-Al13Co4: Co 0.235294; o-Al13Co4: Co 0.235294 | unspecified | [2] Wang 2017; _cites ref. 17_ | Table 9, p. 50, row 19; `ORC-LXEKADM5M4` |  |
 | 1365.7 | Liq + y-Al13Co4 => o-Al13Co4 | y-Al13Co4: Co 0.235294; o-Al13Co4: Co 0.235294 | model | [2] Wang 2017 | Table 9, p. 50, row 18; `ORC-EB3AMZPWQW` |  |
 | 1365 | Liq + y-Al13Co4 => o-Al13Co4 | y-Al13Co4: Co 0.235294; o-Al13Co4: Co 0.235294 | unspecified | [2] Wang 2017; _cites ref. 43_ | Table 9, p. 50, row 21; `ORC-DOPLDU7TDX` |  |
-| 1363.15 | peritectic |  | experimental | [3] Ostrowska 2019; _cites Priputen 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.05.248) | p. 1; `ORC-3EXUBGY53V` | “1) O0 -Co4Al13, at lower Co content (around 24 at% Co) stable at T higher than about 1000 C and decomposing peritectically at about 1090 C.” |
 | 1363 | Liq + y-Al13Co4 => o-Al13Co4 | y-Al13Co4: Co 0.235294; o-Al13Co4: Co 0.235294 | unspecified | [2] Wang 2017; _cites ref. 48_ | Table 9, p. 50, row 23; `ORC-HVO5SQ27ED` |  |
 | 1243.15 | peritectic: Liq + Al13Co4 -> Al9Co2 | Al13Co4: Co 0.235294; Al9Co2: Co 0.181818 | unspecified | [1] Stein 2013 | Table 4, p. 7, row 18; `ORC-ML2FUXAIZP` |  |
 | 1243.15 | peritectic: Liq + Al13Co4 -> Al9Co2 | Al13Co4: Co 0.235294; Al9Co2: Co 0.181818 | experimental | [1] Stein 2013; _cites McAlister 1989_ [doi](https://doi.org/10.1007/bf02877635) | Table 4, p. 7, row 17; `ORC-WCPVY2XRCD` |  |
@@ -390,11 +382,10 @@ Table: Invariant reactions reported in the literature for the Al–Co system (55
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Co system (28)
+Table: Enthalpies of formation, Al–Co system (27)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | 2 kJ/mol-atom | 473 | experimental |  |  | [4] Liu 2016; _cites ref. 14_ | p. 19; `ORC-WZTDJRY5HT` | “This corresponds to enthalpies of formation much lower than those measured by Downie et al. at 473 K \[14\], which range between +2 to +7 kJ/mol-atom around the composition range where σ is present.” |
 | Al5Co2 |  | -44.57 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 7; `ORC-KBZS4CVLYM` |  |
 | Al5Co2 |  | -44.38 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 5; `ORC-BFN3HD2JG3` |  |
 | Al5Co2 |  | -44.28 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 6; `ORC-GTSUOAVHF2` |  |
@@ -425,36 +416,23 @@ Table: Enthalpies of formation, Al–Co system (28)
 
 ## Other properties
 
-### Phase transition (28)
+### Phase transition (15)
 
 Table: Phase transition, Al–Co system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1350.15 K | 1350.15 |  | experimental | [3] Ostrowska 2019; _cites Priputen 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.05.248) | p. 2; `ORC-ZMMVDDHZU6` | “3) M-Co4Al13, at slightly higher Co content (about 24.5 at% Co), stable up to about 1077 C. At this temperature transforms into Y-Co4Al13.” |
-| Phase transition | 1423 K | 1423 | other | model | [5] Liu 2015 | p. 13; `ORC-OMLJ3Y6ZPB` | “The A2+B2+γ three phase triangle is predicted to disappear at 1423 K measurements by Ishikawa et al. \[13\] at 1473 K.” |
 | Phase transition | 1431.15 K | 1431.15 | Al3Co | experimental | [1] Stein 2013; _cites Grushko 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902045-4) | p. 5; `ORC-RSCVCGCMKK` | “The same value for this reaction was also measured by Gödecke and Ellner \[9\] and once again the respective value reported by Grushko et al. \[11\] is a little bit higher (1158 C).” |
-| Phase transition | 1453.15 K | 1453.15 |  | experimental | [1] Stein 2013; _cites Godecke 1971_ | p. 5; `ORC-7EF2JF3S4N` | “In his first study of the AleCo phase diagram, Gödecke \[31\] reported a measured value of 1180 C.” |
 | Phase transition | 1453.15 K | 1453.15 | other: 30; _alloy: Al 0.695, Co 0.305_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 1; `ORC-QDOWN72SV4` |  |
 | Phase transition | 1454.15 K | 1454.15 | other: 40; _alloy: Al 0.593, Co 0.407_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 3; `ORC-R7SKBF4I2E` |  |
-| Phase transition | 1455.15 K | 1455.15 |  | experimental | [1] Stein 2013; _cites Godecke 1996_ | p. 5; `ORC-KVX3HMAIIG` | “This temperature was also used by McAlister in his assessment \[13\], but was slightly changed to 1182 C in a later publication of Gödecke and Ellner \[9\].” |
-| Phase transition | 1461.15 K | 1461.15 |  | experimental | [1] Stein 2013; _cites Grushko 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902045-4) | p. 5; `ORC-FBDUIXP6CY` | “A higher value of 1188 C was reported by Grushko et al. \[11\].” |
-| Phase transition | 1653.15 K | 1653.15 | L = >Co + CoAl + Co7W6 | experimental | [6] Zhu 2014; _cites Dmitrieva 2008_ | p. 2; `ORC-PHRAKLLZQA.fbad48` | “A liquidus projection including four primary phase regions: Co, CoAl, Co7W6 and W, was reported and two four-phase invariant reactions with participation of liquid were established: L = >Co + CoAl + Co7W6 at 1380 C and L + W = > CoAl + Co7W6 at 1490 C.” |
-| Phase transition | 1763.15 K | 1763.15 | L + W = > CoAl + Co7W6 | experimental | [6] Zhu 2014; _cites Dmitrieva 2008_ | p. 2; `ORC-PHRAKLLZQA.ae5aff` | “A liquidus projection including four primary phase regions: Co, CoAl, Co7W6 and W, was reported and two four-phase invariant reactions with participation of liquid were established: L = >Co + CoAl + Co7W6 at 1380 C and L + W = > CoAl + Co7W6 at 1490 C.” |
 | Phase transition | 1798.15 K | 1798.15 | other: 60; _alloy: Al 0.406, Co 0.594_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 15; `ORC-LOIJKWRT5P` |  |
 | Phase transition | 1838.15 K | 1838.15 | other: 57; _alloy: Al 0.428, Co 0.572_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 13; `ORC-4UTFDO3ZWM` |  |
 | Phase transition | 1871.15 K | 1871.15 | other: 55; _alloy: Al 0.444, Co 0.556_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 11; `ORC-YGIEOOJG7Q` |  |
-| Phase transition | 1893.15 K | 1893.15 |  | experimental | [1] Stein 2013; _cites Koster 1938_ | p. 1; `ORC-CCYNSMPXPU` | “However, five years later he gives the maximum temperature as 1620 C \[7\].” |
 | Phase transition | 1901.15 K | 1901.15 | CoAl + liquid | experimental | [1] Stein 2013; _cites Gwyer 1908_ | p. 5; `ORC-LGKWCJM2M4.6cb806` | “The new value of 1673 C for the stoichiometric melting point of CoAl obviously is significantly higher than those reported by Gwyer (1628 C) \[5\] and assessed by McAlister (1640 C) \[13\].” |
-| Phase transition | 1901.15 K | 1901.15 | other | experimental | [1] Stein 2013 | p. 1; `ORC-7LAMP57TUK` | “For a nearly stoichiometric CoAl alloy with a composition of 49.9 at.% Co, he obtained a liquidus temperature of 1628 C.” |
 | Phase transition | 1902.15 K | 1902.15 | other: 48; _alloy: Al 0.514, Co 0.486_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 5; `ORC-KWIGZZ4L42` |  |
 | Phase transition | 1913.15 K | 1913.15 | CoAl + liquid | model | [1] Stein 2013; _cites McAlister 1989_ [doi](https://doi.org/10.1007/bf02877635) | p. 5; `ORC-LGKWCJM2M4.e853f4` | “The new value of 1673 C for the stoichiometric melting point of CoAl obviously is significantly higher than those reported by Gwyer (1628 C) \[5\] and assessed by McAlister (1640 C) \[13\].” |
-| Phase transition | 1918.15 K | 1918.15 |  | experimental | [1] Stein 2013; _cites Panteleimonov 1974_ | p. 1; `ORC-FE7WKKKO3I` | “In 1974, Panteleimonov et al. \[8\] presented a complete phase diagram of the binary system indicating a melting temperature of 1645 C for CoAl.” |
-| Phase transition | 1923.15 K | 1923.15 | other | experimental | [1] Stein 2013; _cites Koster 1933_ [doi](https://doi.org/10.1002/srin.193300046) | p. 1; `ORC-HKBJEXWVV5` | “The same value for the maximum melting temperature of CoAl was reported in 1933 in the text of a paper by Köster \[6\] even though a figure in his article, which shows the partial phase diagram 51.7e100 at.% Co, indicates a higher liquidus temperature of approximately 1650 C.” |
 | Phase transition | 1944.15 K | 1944.15 | congruent melting: Liq -> CoAl; _Liq: Co 0.5; CoAl: Co 0.5_ | unspecified | [1] Stein 2013 | Table 4, p. 7, row 2; `ORC-7RKHOYT5VH` |  |
 | Phase transition | 1944.15 K | 1944.15 | congruent transformation | model | [1] Stein 2013 | p. 8; `ORC-FQJNWBN2ML` | “The calculated CoAl phase has a congruent melting point at xCo 1⁄4 0.5003 and 1671 C.” |
-| Phase transition | 1946.15 K | 1946.15 |  | experimental | [1] Stein 2013 | p. 1; `ORC-DTEK4W3W5S` | “The melting temperatures of CoAl were found to be significantly higher than previously reported in the literature; for the stoichiometric compound a value of 1673 C was obtained.” |
-| Phase transition | 1946.15 K | 1946.15 |  | experimental | [3] Ostrowska 2019; _cites Stein 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.03.011) | p. 1; `ORC-RJB7VP3JJQ` | “They used differential thermal analysis (DTA), scanning electron microscopy (SEM) and electron-probe microanalysis (EPMA) to determine the melting temperature of the B2 phase (at 1673 C), the liquid þ B2 two-phase field and the Al-rich solubility limit of B2-CoAl.” |
 | Phase transition | 1946.15 K | 1946.15 | CoAl + liquid | experimental | [1] Stein 2013 | p. 5; `ORC-LGKWCJM2M4.6721d3` | “The new value of 1673 C for the stoichiometric melting point of CoAl obviously is significantly higher than those reported by Gwyer (1628 C) \[5\] and assessed by McAlister (1640 C) \[13\].” |
 | Phase transition | 1946.15 K | 1946.15 | congruent melting: Liq -> CoAl; _Liq: Co 0.5; CoAl: Co 0.5_ | experimental | [1] Stein 2013 | Table 4, p. 7, row 1; `ORC-45FXN3R7Y7` |  |
 | Phase transition | 1946.15 K | 1946.15 | other: 49; _alloy: Al 0.502, Co 0.498_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 7; `ORC-54U56IOUWA` |  |
@@ -524,7 +502,6 @@ Reporting papers the values were read from (a value cited from another work name
 3. Marlena Ostrowska, Gabriele Cacciamani, Critical evaluation and thermodynamic modeling of the Al-Co-Fe system, Journal of Alloys and Compounds 794, 553-568 (2019). [doi:10.1016/j.jallcom.2019.04.170](https://doi.org/10.1016/j.jallcom.2019.04.170)
 4. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
 5. Xuan L. Liu, Thomas Gheno, Bonnie B. Lindahl, Greta Lindwall, Brian Gleeson, Zi-Kui Liu, First-Principles Calculations, Experimental Study, and Thermodynamic Modeling of the Al-Co-Cr System, PLoS ONE 10, e0121386 (2015). [doi:10.1371/journal.pone.0121386](https://doi.org/10.1371/journal.pone.0121386)
-6. J. Zhu, M. S. Titus, T. M. Pollock, Experimental Investigation and Thermodynamic Modeling of the Co-Rich Region in the Co-Al-Ni-W Quaternary System, J. Phase Equilib. Diffus. 35, 595-611 (2014). [doi:10.1007/s11669-014-0327-5](https://doi.org/10.1007/s11669-014-0327-5)
 
 ## Please cite
 

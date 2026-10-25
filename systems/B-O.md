@@ -1,10 +1,10 @@
 # B–O system
 
-> B–O system: 6 accepted literature values (phase transition 5, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–O system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-O.html · Markdown: https://data.orchid-project.org/systems/B-O.md
 
-6 accepted literature values from 1 paper(s) (model 6); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-O.json) · [CSV](https://data.orchid-project.org/systems/B-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#B-O/BO-23Pha.json) · [phases (7)](https://data.orchid-project.org/phases/pages/B-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-O.html) · [Markdown](https://data.orchid-project.org/systems/B-O.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 6 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 5 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -45,27 +44,15 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-O.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-O.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the B–O system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 2115 | eutectic |  | model | [1] Pham 2023 | p. 7; `ORC-NJMFCVZENA` | “The eutectic composition is found at an oxygen mole fraction of 0.586 and 2115 K, shown in the figure insert.” |
-
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (1)
 
 Table: Phase transition, B–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 724 K | 724 | congruent transformation | model | [1] Pham 2023 | p. 7; `ORC-F3FHXPT45D` | “B2 O3 melts congruently at 724 K and becomes a gas at 2134 K.” |
-| Phase transition | 1063 K | 1063 | B6O -> α-B + liquid | model | [1] Pham 2023 | p. 7; `ORC-VIAWG4DHQO` | “The model predicts the decomposition of B6 O at ambient pressure at 1063 K.” |
-| Phase transition | 1067 K | 1067 |  | model | [1] Pham 2023 | p. 5; `ORC-KNWB22NO3P` | “The standard enthalpy of formation is obtained from Makarov and Ugai,43 and the entropy of formation is estimated using zero-order interaction parameters with B6 O existing as a line compound and a decomposition temperature of 1067 K.” |
-| Phase transition | 2348 K | 2348 |  | model | [1] Pham 2023; _cites Duschanek 1998_ | p. 9; `ORC-7WXZSRSJ2E.c96adc` | “At 2433 K (Figure 8B), there is a small phase discrepancy with respect to the β-B and liquid equilibria as Duschanek et al.18 has a modeled melting point for β-B of 2348 K, and Saengdeejing et al.31 is slightly higher at 2358 K.” |
-| Phase transition | 2358 K | 2358 |  | model | [1] Pham 2023; _cites Saengdeejing 2012_ | p. 9; `ORC-7WXZSRSJ2E.0ae6f9` | “At 2433 K (Figure 8B), there is a small phase discrepancy with respect to the β-B and liquid equilibria as Duschanek et al.18 has a modeled melting point for β-B of 2348 K, and Saengdeejing et al.31 is slightly higher at 2358 K.” |
 
 ## Sources
 

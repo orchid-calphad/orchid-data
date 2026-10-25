@@ -1,10 +1,10 @@
 # C–Zr system
 
-> C–Zr system: 48 accepted literature values (phase transition 17, invariant reaction 17, phase equilibrium 8, formation 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Zr system: 49 accepted literature values (phase transition 17, invariant reaction 17, phase equilibrium 8, formation 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-ZR.html · Markdown: https://data.orchid-project.org/systems/C-ZR.md
 
-48 accepted literature values from 2 paper(s) (experimental 32, model 13, unspecified 3); 0 calculated phase diagram(s).
+49 accepted literature values from 2 paper(s) (experimental 33, model 13, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-ZR.json) · [CSV](https://data.orchid-project.org/systems/C-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-ZR) · [phases (6)](https://data.orchid-project.org/phases/pages/C-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-ZR.html) · [Markdown](https://data.orchid-project.org/systems/C-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 32 |
+| experimental | 33 |
 | model | 13 |
 | unspecified | 3 |
 
@@ -24,6 +24,7 @@ Table: Accepted values by property group
 | phase transition | 17 |
 | phase equilibrium | 8 |
 | formation | 6 |
+| crystal structure | 1 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-ZR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-ZR.json)
 
@@ -106,6 +107,14 @@ Table: Phase equilibrium, C–Zr system
 | Phase composition |  | 1152.5 | α + β + γ; _α: C 0.01, Zr 0.99; β: C 0.015, Zr 0.985; γ: C 0.375, Zr 0.625_ | experimental | [1] Guillermet 1995; _cites Storms 1967_ | Table 6, p. 13, row 5; `ORC-SEOKLN2BKF` |  |
 | Phase composition |  | 1159 | α + β + γ; _α: C 0.0073, Zr 0.9927; β: C 1.400e-5, Zr 0.999986; γ: C 0.379, Zr 0.621_ | model | [1] Guillermet 1995 | Table 6, p. 13, row 9; `ORC-TE234XCSZK` |  |
 | Phase composition |  | 1173 | α + β + γ; _α: C 0.01, Zr 0.99; β: C 0.02, Zr 0.98; γ: C 0.36, Zr 0.64_ | experimental | [1] Guillermet 1995; _cites Benesovsky 1960_ | Table 6, p. 13, row 2; `ORC-N4CO2RCU46` |  |
+
+### Crystal structure (1)
+
+Table: Crystal structure, C–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.6983 Å | 298.15 | ZrC1-x; _ZrC1-x: C 0.49_ | experimental | [2] Bittermann 2002; _cites Storms 1967_ | Table 1, p. 4, row 19; `ORC-TRJ67IUJFU` |  |
 
 ## Sources
 

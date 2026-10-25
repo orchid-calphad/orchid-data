@@ -1,10 +1,10 @@
 # Hg–Pb system
 
-> Hg–Pb system: 26 accepted literature values (phase equilibrium 13, phase transition 11, invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hg–Pb system: 24 accepted literature values (phase equilibrium 13, phase transition 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HG-PB.html · Markdown: https://data.orchid-project.org/systems/HG-PB.md
 
-26 accepted literature values from 1 paper(s) (experimental 21, model 5); 1 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 20, model 4); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HG-PB.json) · [CSV](https://data.orchid-project.org/systems/HG-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-PB/HgPb-02Mai-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/HG-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HG-PB.html) · [Markdown](https://data.orchid-project.org/systems/HG-PB.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
-| model | 5 |
+| experimental | 20 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
 | phase transition | 11 |
 | phase equilibrium | 13 |
 
@@ -41,15 +40,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | HgPb-02Mai-LB.tdb | 429.07 | LIQUID (x(Pb) 0.48601) + HGPB2_L10 (x(Pb) 0.66667) + FCC_A1 (x(Pb) 0.69512) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/HG/HG-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/HG/HG-PB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Hg–Pb system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 429 | peritectic |  | model | [1] Maitre 2002 | p. 5; `ORC-VEXC4VI43F.19b2eb` | “From the present work, it can be noted that the Pb2Hg phase decomposes peritectic at 429.0 K, contradicting the results of the earlier study\[28\] (418 K).” |
-| 418 | peritectic |  | experimental | [1] Maitre 2002; _cites Yang 1967_ | p. 5; `ORC-VEXC4VI43F.a9cf4f` | “From the present work, it can be noted that the Pb2Hg phase decomposes peritectic at 429.0 K, contradicting the results of the earlier study\[28\] (418 K).” |
 
 ## Other properties
 

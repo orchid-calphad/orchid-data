@@ -1,24 +1,12 @@
 # Ag–Ru system
 
-> Ag–Ru system: 1 accepted literature values (invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ru system: 0 accepted literature values (none) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-RU.html · Markdown: https://data.orchid-project.org/systems/AG-RU.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 2 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-RU.json) · [CSV](https://data.orchid-project.org/systems/AG-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-RU/AgRu-86Kar.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-RU.html) · [Markdown](https://data.orchid-project.org/systems/AG-RU.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
 
 ## Calculated phase diagrams
 
@@ -42,20 +30,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AgRu-98Spe-LB.tdb | 1201.25 | FCC_A1 (x(Ru) 3.000e-5) + LIQUID (x(Ru) 0.03122) + HCP_A3 (x(Ru) 0.99994) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-RU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-RU.json) · [CALPHAD hull AgRu-86Kar](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-RU--AgRu-86Kar.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ag–Ru system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1193.15 | eutectic |  | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 2; `ORC-D3OE5Q3XIU` | “The eutectic point is at about 3.1 at.% Ru and 920 ~ \[59Rud\].” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. I. Karakaya, W. T. Thompson, The Ag−Ru (Silver-Ruthenium) system, Bulletin of Alloy Phase Diagrams 7, 365-368 (1986). [doi:10.1007/bf02873024](https://doi.org/10.1007/bf02873024)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Cu–Si system
 
-> Cu–Si system: 155 accepted literature values (invariant reaction 133, crystal structure 14, phase transition 8) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Si system: 146 accepted literature values (invariant reaction 130, crystal structure 14, phase transition 2) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SI.html · Markdown: https://data.orchid-project.org/systems/CU-SI.md
 
-155 accepted literature values from 4 paper(s) (experimental 76, model 69, unspecified 10); 9 calculated phase diagram(s).
+146 accepted literature values from 4 paper(s) (experimental 71, model 65, unspecified 10); 9 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SI.json) · [CSV](https://data.orchid-project.org/systems/CU-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SI/CuSi-00Yan.json) · [phases (17)](https://data.orchid-project.org/phases/pages/CU-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SI.html) · [Markdown](https://data.orchid-project.org/systems/CU-SI.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 76 |
-| model | 69 |
+| experimental | 71 |
+| model | 65 |
 | unspecified | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 133 |
-| phase transition | 8 |
+| invariant reaction | 130 |
+| phase transition | 2 |
 | crystal structure | 14 |
 
 ## Calculated phase diagrams
@@ -202,7 +202,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Si system (133)
+Table: Invariant reactions reported in the literature for the Cu–Si system (130)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -262,8 +262,6 @@ Table: Invariant reactions reported in the literature for the Cu–Si system (13
 | 1075.15 | eutectic: L -> (Si)+η | L: Si 0.307; (Si): Si 1; η: Si 0.24 | model | [3] Yan 2000 | Table 1, p. 3, row 16; `ORC-IBQRRXL66Q` |  |
 | 1075 | L = Diamond_A4(Si) + η | L: Si 0.307; Diamond_A4(Si): Si 1; η: Si 0.24 | experimental | [2] Gierlotka 2013; _cites Xinyan 2013_ | Table 4, p. 5, row 34; `ORC-FEOIDWXNA4` |  |
 | 1075 | L = Diamond_A4(Si) + η | L: Si 0.301; Diamond_A4(Si): Si 1; η: Si 0.249 | experimental | [2] Gierlotka 2013; _cites Smith 1940_ | Table 4, p. 5, row 35; `ORC-G2G6PPIWWX` |  |
-| 1075 | eutectic: L = Cu3Si + Si |  | experimental | [2] Gierlotka 2013 | p. 4; `ORC-SVSHWBNWMS.9095ac` | “The composition of the calculated eutectic (L = Cu3Si + Si) is equal to 0.32 mol fraction of Si when the measured value is equal to 0.3 mol fraction of Si, at the same temperature T = 1075 K.” |
-| 1075 | eutectic: L = Cu3Si + Si |  | model | [2] Gierlotka 2013 | p. 4; `ORC-SVSHWBNWMS.99858b` | “The composition of the calculated eutectic (L = Cu3Si + Si) is equal to 0.32 mol fraction of Si when the measured value is equal to 0.3 mol fraction of Si, at the same temperature T = 1075 K.” |
 | 1074.15 | eutectic: L -> (Si)+η | L: Si 0.306; (Si): Si 1; η: Si 0.24 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 18; `ORC-C7CA6XGUFP` |  |
 | 1074 | L = Diamond_A4(Si) + η | L: Si 0.32; Diamond_A4(Si): Si 1; η: Si 0.25 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 33; `ORC-2XWQ3HEOFC` |  |
 | 1074 | L = Diamond_A4(Si) + η | L: Si 0.306; Diamond_A4(Si): Si 1; η: Si 0.24 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 36; `ORC-7IGM6M4GSF` |  |
@@ -292,7 +290,7 @@ Table: Invariant reactions reported in the literature for the Cu–Si system (13
 | 1008 | δ = κ + γ | δ: Si 0.175; κ: Si 0.121; γ: Si 0.164 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 21; `ORC-LSVYSOLJL3` |  |
 | 1008 | δ = κ + γ | δ: Si 0.169; κ: Si 0.137; γ: Si 0.175 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 22; `ORC-SDAOZD2SOS.4f4faf` |  |
 | 1008 | δ = ε + γ | δ: Si 0.179; ε: Si 0.21; γ: Si 0.174 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 17; `ORC-SDAOZD2SOS.ae1547` |  |
-| 1007.35 | δ -> γ | δ: Si 0.175; γ: Si 0.175 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 26; `ORC-U5W3KXR2AI` |  |
+| 1007.35 | polymorphic: δ -> γ | δ: Si 0.175; γ: Si 0.175 | model | [1] Kroupa 2024; _cites Hallstedt 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.03.002) | Table 2, p. 6, row 26; `ORC-U5W3KXR2AI` |  |
 | 1007.15 | eutectoid: δ -> γ + κ | δ: Si 0.169; γ: Si 0.175; κ: Si 0.132 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 27; `ORC-GBVOBHCVKC` |  |
 | 1006.95 | peritectoid: δ + ε -> κ | δ: Si 0.174; ε: Si 0.211; κ: Si 0.176 | model | [1] Kroupa 2024 | Table 2, p. 6, row 24; `ORC-SYQQ3XCRQV` |  |
 | 1005.05 | eutectoid: δ -> γ + κ | δ: Si 0.172; γ: Si 0.175; κ: Si 0.131 | model | [1] Kroupa 2024 | Table 2, p. 6, row 28; `ORC-C4NEKBLPK4` |  |
@@ -308,7 +306,6 @@ Table: Invariant reactions reported in the literature for the Cu–Si system (13
 | 983 | δ = ε + γ | δ: Si 0.182; ε: Si 0.212; γ: Si 0.176 | experimental | [2] Gierlotka 2013; _cites Smith 1929_ | Table 4, p. 5, row 15; `ORC-EDYZUZFPTO` |  |
 | 956.15 | eutectoid: δ -> ε+γ | δ: Si 0.175; ε: Si 0.2; γ: Si 0.164 | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 6; `ORC-T6PHYCYZO4` |  |
 | 956 | δ = ε + γ | δ: Si 0.175; ε: Si 0.2; γ: Si 0.164 | unspecified | [2] Gierlotka 2013; _cites Buhler 1998_ | Table 4, p. 5, row 16; `ORC-V6J5PM5CDL` |  |
-| 893.15 | peritectic |  | experimental | [1] Kroupa 2024 | p. 2; `ORC-ZM6VKJ4HIZ` | “The orthorhombic g-phase is formed by peritectic reaction at 620 C.” |
 | 892 | ε + η = η′ | ε: Si 0.21; η: Si 0.242; η′: Si 0.241 | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 4, p. 5, row 12; `ORC-4YJSW3NTYP` |  |
 | 892 | ε + η = η′ | ε: Si 0.21; η: Si 0.243; η′: Si 0.242 | model | [2] Gierlotka 2013 | Table 4, p. 5, row 11; `ORC-LZMDTLZVDI` |  |
 | 891.15 | peritectoid: ε + η -> η′ | ε: Si 0.211; η: Si 0.242 | experimental | [1] Kroupa 2024; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | Table 2, p. 6, row 29; `ORC-GI3ICFUEXH` |  |
@@ -342,20 +339,14 @@ Table: Invariant reactions reported in the literature for the Cu–Si system (13
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (2)
 
 Table: Phase transition, Cu–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 218 K | 218 |  | model | [2] Gierlotka 2013 | p. 6; `ORC-HIX6UAEIXJ` | “After introducing the correction from ab initio calculation \[48\], we found that the temperature of melting of the Si in FCC_A1 structure is equal T = 218 K.” |
-| Phase transition | 840.15 K | 840.15 |  | model | [1] Kroupa 2024; _cites Witusiewicz 2004_ | p. 2; `ORC-46IQOAB3HR.99f4b8` | “The b-phase decomposes by a eutectoid reaction to (Cu) solid solution and the c0 -phase at a temperature of 567 C and melts congruently at 1049 C according to.\[14\]” |
-| Phase transition | 1008 K | 1008 | polymorphic | experimental | [2] Gierlotka 2013 | p. 1; `ORC-NKWEAQBHE4` | “According to the newest information, the phases d and c were treated as phases with a polymorphic transformation at T = 1008 K.” |
-| Phase transition | 1008 K | 1008 | polymorphic | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | p. 2; `ORC-TAYPIY4GTW` | “Moreover, they \[27\] found that the phases d and c have the same composition thus in this optimization the phases were treated as one phase with a polymorphic transformation at T = 1008 K.” |
-| Phase transition | 1008 K | 1008 | polymorphic | experimental | [2] Gierlotka 2013; _cites Sufryd 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.05.017) | p. 4; `ORC-VYIWRUPPDS` | “According to Sufryd et al. \[27\], the phases c and d have the same stoichiometry and their polymorphic transformation occurs at T = 1008 K.” |
 | Phase transition | 1132.15 K | 1132.15 | congruent melting: L -> η; _L: Si 0.24; η: Si 0.24_ | model | [3] Yan 2000 | Table 1, p. 3, row 31; `ORC-BEEEIGBSNB` |  |
 | Phase transition | 1132.15 K | 1132.15 | congruent melting: L -> η; _L: Si 0.24; η: Si 0.24_ | experimental | [3] Yan 2000; _cites Buhler 1998_ | Table 1, p. 3, row 32; `ORC-RK5OC4HXNO` |  |
-| Phase transition | 1322.15 K | 1322.15 | congruent transformation | model | [1] Kroupa 2024; _cites Witusiewicz 2004_ | p. 2; `ORC-46IQOAB3HR.2bba07` | “The b-phase decomposes by a eutectoid reaction to (Cu) solid solution and the c0 -phase at a temperature of 567 C and melts congruently at 1049 C according to.\[14\]” |
 
 ### Crystal structure (14)
 

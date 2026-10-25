@@ -1,10 +1,10 @@
 # Co–Er system
 
-> Co–Er system: 26 accepted literature values (invariant reaction 18, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Er system: 24 accepted literature values (invariant reaction 18, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-ER.html · Markdown: https://data.orchid-project.org/systems/CO-ER.md
 
-26 accepted literature values from 1 paper(s) (experimental 14, model 12); 1 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 12, model 12); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-ER.json) · [CSV](https://data.orchid-project.org/systems/CO-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-ER/CoEr-09Wan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CO-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-ER.html) · [Markdown](https://data.orchid-project.org/systems/CO-ER.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
+| experimental | 12 |
 | model | 12 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 18 |
-| phase transition | 8 |
+| phase transition | 6 |
 
 ## Calculated phase diagrams
 
@@ -86,7 +86,7 @@ Table: Invariant reactions reported in the literature for the Co–Er system (18
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (6)
 
 Table: Phase transition, Co–Er system
 
@@ -94,12 +94,10 @@ Table: Phase transition, Co–Er system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1096.15 K | 1096.15 | congruent melting: L -> Co7Er12; _L: Er 0.632; Co7Er12: Er 0.632_ | model | [1] Wang 2009 | Table 4, p. 4, row 19; `ORC-XPVQAOSKVY` |  |
 | Phase transition | 1098.15 K | 1098.15 | congruent melting: L -> Co7Er12; _L: Er 0.64; Co7Er12: Er 0.64_ | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 20; `ORC-BS43VOXHBC` |  |
-| Phase transition | 1628.15 K | 1628.15 | congruent transformation | experimental | [1] Wang 2009; _cites Buschow 1971_ | p. 2; `ORC-SSEEXETPDI.4202f3` | “The major differences between them are as follows: (1) Wu et al. \[19\] and Buschow \[16\] reported the congruent melting point of the Co17 Er2 compound is about 1442 ◦ C and 1355 ◦ C, respectively; (2) Wu et al. observed that the Co3 Er4 phase is metastable phase \[19\], while Buschow included the Co3 Er4 phase in the stable phase diagram \[16\]; (3) Wu et al. identified that the phase near 64 at.% Er i…” |
 | Phase transition | 1645.15 K | 1645.15 | congruent melting: L -> Co17Er2; _L: Er 0.105; Co17Er2: Er 0.105_ | model | [1] Wang 2009 | Table 4, p. 4, row 3; `ORC-QG5NDOG4BY` |  |
 | Phase transition | 1668.15 K | 1668.15 | congruent melting: L -> Co3Er; _L: Er 0.25; Co3Er: Er 0.25_ | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 14; `ORC-W57DK25HRN` |  |
 | Phase transition | 1670.15 K | 1670.15 | congruent melting: L -> Co3Er; _L: Er 0.25; Co3Er: Er 0.25_ | model | [1] Wang 2009 | Table 4, p. 4, row 13; `ORC-FQX4752KBV` |  |
 | Phase transition | 1715.15 K | 1715.15 | congruent melting: L -> Co17Er2; _L: Er 0.105; Co17Er2: Er 0.105_ | experimental | [1] Wang 2009; _cites Wu 1993_ | Table 4, p. 4, row 4; `ORC-LXKBUT4YTB` |  |
-| Phase transition | 1715.15 K | 1715.15 | congruent transformation | experimental | [1] Wang 2009; _cites Wu 1993_ | p. 2; `ORC-SSEEXETPDI.0ab259` | “The major differences between them are as follows: (1) Wu et al. \[19\] and Buschow \[16\] reported the congruent melting point of the Co17 Er2 compound is about 1442 ◦ C and 1355 ◦ C, respectively; (2) Wu et al. observed that the Co3 Er4 phase is metastable phase \[19\], while Buschow included the Co3 Er4 phase in the stable phase diagram \[16\]; (3) Wu et al. identified that the phase near 64 at.% Er i…” |
 
 ## Sources
 

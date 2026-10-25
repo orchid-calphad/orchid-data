@@ -1,25 +1,12 @@
 # Bi–Pd system
 
-> Bi–Pd system: 2 accepted literature values (invariant reaction 1, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Pd system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-PD.html · Markdown: https://data.orchid-project.org/systems/BI-PD.md
 
-2 accepted literature values from 1 paper(s) (experimental 2); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-PD.json) · [CSV](https://data.orchid-project.org/systems/BI-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-PD/BiPd-06Vre-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/BI-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-PD.html) · [Markdown](https://data.orchid-project.org/systems/BI-PD.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -48,30 +35,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | BiPd-06Vre-LB.tdb | 518.05 | RHOMBOHEDRAL_A7 (x(Pd) 4.000e-5) + LIQUID (x(Pd) 0.0737) + BI2PD (x(Pd) 0.33333) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BI/BI-PD.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BI/BI-PD.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Bi–Pd system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 851.15 | eutectic |  | experimental | [1] Vřešt’ál 2006 | p. 2; `ORC-B44HPRGIYB.1b3d55` | “The melting temperature of PdBi was found to be 624 ◦ C and the eutectic temperature on the palladium side was 578 ◦ C.” |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Bi–Pd system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 897.15 K | 897.15 |  | experimental | [1] Vřešt’ál 2006 | p. 2; `ORC-B44HPRGIYB.671620` | “The melting temperature of PdBi was found to be 624 ◦ C and the eutectic temperature on the palladium side was 578 ◦ C.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. J. Vřešt’ál, J. Pinkas, A. Watson, A. Scott, J. Houserová, A. Kroupa, Assessment of the thermodynamic properties and phase diagram of the Bi–Pd system, Calphad 30, 14-17 (2006). [doi:10.1016/j.calphad.2005.12.001](https://doi.org/10.1016/j.calphad.2005.12.001)
 
 ## Please cite
 

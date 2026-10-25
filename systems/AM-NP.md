@@ -1,24 +1,12 @@
 # Am–Np system
 
-> Am–Np system: 1 accepted literature values (invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Am–Np system: 0 accepted literature values (none) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AM-NP.html · Markdown: https://data.orchid-project.org/systems/AM-NP.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 2 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AM-NP.json) · [CSV](https://data.orchid-project.org/systems/AM-NP.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AM-NP) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-NP/AmNp-10Kur.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AM-NP.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AM-NP.html) · [Markdown](https://data.orchid-project.org/systems/AM-NP.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
 
 ## Calculated phase diagrams
 
@@ -49,20 +37,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AmNp-93Oga.tdb | 555.03 | DHCP (x(Np) 0) + ORTHO_AC (x(Np) 1) + TETRAG_AD (x(Np) 1) |
 
 Convex hulls: [CALPHAD hull AmNp-93Oga](https://data.orchid-project.org/hulls/calphad-sgte/AM/AM-NP--AmNp-93Oga.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Am–Np system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1250 | peritectic |  | experimental | [1] Kurata 2010; _cites Gibson 1992_ | p. 4; `ORC-56RPVRRQTU` | “The thermal analysis data suggest a peritectic reaction among BCC, FCC, and liquid at around 1250 K.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. M Kurata, Thermodynamic database on U-Pu-Zr-Np-Am-Fe alloy system II — Evaluation of Np, Am, and Fe containing systems-, IOP Conf. Ser.: Mater. Sci. Eng. 9, 012023 (2010). [doi:10.1088/1757-899x/9/1/012023](https://doi.org/10.1088/1757-899x/9/1/012023)
 
 ## Please cite
 

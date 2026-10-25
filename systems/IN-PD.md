@@ -1,10 +1,10 @@
 # In–Pd system
 
-> In–Pd system: 29 accepted literature values (invariant reaction 22, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Pd system: 28 accepted literature values (invariant reaction 22, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-PD.html · Markdown: https://data.orchid-project.org/systems/IN-PD.md
 
-29 accepted literature values from 1 paper(s) (experimental 15, model 14); 1 calculated phase diagram(s).
+28 accepted literature values from 1 paper(s) (experimental 14, model 14); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-PD.json) · [CSV](https://data.orchid-project.org/systems/IN-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-PD/InPd-02Jia-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/IN-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-PD.html) · [Markdown](https://data.orchid-project.org/systems/IN-PD.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 14 |
 | model | 14 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 22 |
-| phase transition | 7 |
+| phase transition | 6 |
 
 ## Calculated phase diagrams
 
@@ -88,13 +88,12 @@ Table: Invariant reactions reported in the literature for the In–Pd system (22
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (6)
 
 Table: Phase transition, In–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 420 K | 420 | other | experimental | [1] Jiang 2002; _cites Perring 2001_ [doi](https://doi.org/10.1016/s0040-6031%2800%2900731-0) | p. 2; `ORC-6NSP4ZTDG2` | “They found that the sample with the nominal composition In75Pd25 undergoes premature melting at around 420 K, much lower than the expected peritectic decomposition temperature of the previously thought In3Pd compound.” |
 | Phase transition | 1558 K | 1558 | Liquid = InPd; _L: Pd 0.5; InPd: Pd 0.5_ | experimental | [1] Jiang 2002; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table II, p. 4, row 8; `ORC-N2FHR334NB` |  |
 | Phase transition | 1561 K | 1561 | Liquid = InPd; _L: Pd 0.53; InPd: Pd 0.53_ | model | [1] Jiang 2002 | Table II, p. 4, row 7; `ORC-DSKCCTULHS` |  |
 | Phase transition | 1607 K | 1607 | Liquid = βInPd2; _L: Pd 0.66; βInPd2: Pd 0.66_ | model | [1] Jiang 2002 | Table II, p. 4, row 11; `ORC-64JVGHJIT2` |  |

@@ -98,14 +98,14 @@ Table: Invariant reactions reported in the literature for the Al–Gd system (28
 | 1213 | Liquid + AlGd -> Al2Gd3 | AlGd: Gd 0.5; Al2Gd3: Gd 0.6 | model | [1] Bo 2014; _cites Jin 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.004) | Table 2, p. 4, row 19; `ORC-LFXTYBGFL2` |  |
 | 1211 | Liquid + Al2Gd3 -> AlGd2 | Liquid: Gd 0.6674; Al2Gd3: Gd 0.6; AlGd2: Gd 0.667 | model | [1] Bo 2014 | Table 2, p. 4, row 24; `ORC-LC6G6RPL4Z` |  |
 | 1187 | Liquid + Al2Gd3 -> AlGd2 | Al2Gd3: Gd 0.6; AlGd2: Gd 0.666667 | model | [1] Bo 2014; _cites Jin 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.004) | Table 2, p. 4, row 23; `ORC-742GMZ3FEM` |  |
-| 1141 | Liquid -> AlGd2 + hcp_Gd | Liquid: Gd 0.766; AlGd2: Gd 0.667; hcp_Gd: Gd 0.9998 | model | [1] Bo 2014 | Table 2, p. 4, row 28; `ORC-7LY7LYARB5` |  |
-| 1141 | Liquid -> AlGd2 + hcp_Gd | Liquid: Gd 0.77; AlGd2: Gd 0.667; hcp_Gd: Gd 0.9999 | model | [1] Bo 2014; _cites Cacciamani 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900151-1) | Table 2, p. 4, row 26; `ORC-GE5UTQ6OZC` |  |
-| 1141 | Liquid -> AlGd2 + hcp_Gd | AlGd2: Gd 0.666667 | model | [1] Bo 2014; _cites Jin 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.004) | Table 2, p. 4, row 27; `ORC-XFV3ABIEQF` |  |
-| 1138 | Liquid -> AlGd2 + hcp_Gd | Liquid: Gd 0.77; AlGd2: Gd 0.666667 | unspecified | [1] Bo 2014; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02883166) | Table 2, p. 4, row 25; `ORC-O7VZE7UWKI` |  |
-| 923 | Liquid -> fcc_Al + Al3Gd | Liquid: Gd 0.05; Al3Gd: Gd 0.25 | unspecified | [1] Bo 2014; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02883166) | Table 2, p. 4, row 1; `ORC-EVYGZM7R6P` |  |
-| 907 | Liquid -> fcc_Al + Al3Gd | Al3Gd: Gd 0.25 | model | [1] Bo 2014; _cites Jin 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.004) | Table 2, p. 4, row 3; `ORC-5KATJSNBJR` |  |
-| 906 | Liquid -> fcc_Al + Al3Gd | Liquid: Gd 0.0274; fcc_Al: Gd 0; Al3Gd: Gd 0.25 | model | [1] Bo 2014 | Table 2, p. 4, row 4; `ORC-GEDEYIY24D` |  |
-| 903 | Liquid -> fcc_Al + Al3Gd | Liquid: Gd 0.032; fcc_Al: Gd 0; Al3Gd: Gd 0.25 | model | [1] Bo 2014; _cites Cacciamani 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900151-1) | Table 2, p. 4, row 2; `ORC-7GSKIYC4PU` |  |
+| 1141 | eutectic: Liquid -> AlGd2 + hcp_Gd | Liquid: Gd 0.766; AlGd2: Gd 0.667; hcp_Gd: Gd 0.9998 | model | [1] Bo 2014 | Table 2, p. 4, row 28; `ORC-7LY7LYARB5` |  |
+| 1141 | eutectic: Liquid -> AlGd2 + hcp_Gd | Liquid: Gd 0.77; AlGd2: Gd 0.667; hcp_Gd: Gd 0.9999 | model | [1] Bo 2014; _cites Cacciamani 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900151-1) | Table 2, p. 4, row 26; `ORC-GE5UTQ6OZC` |  |
+| 1141 | eutectic: Liquid -> AlGd2 + hcp_Gd | AlGd2: Gd 0.666667 | model | [1] Bo 2014; _cites Jin 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.004) | Table 2, p. 4, row 27; `ORC-XFV3ABIEQF` |  |
+| 1138 | eutectic: Liquid -> AlGd2 + hcp_Gd | Liquid: Gd 0.77; AlGd2: Gd 0.666667 | unspecified | [1] Bo 2014; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02883166) | Table 2, p. 4, row 25; `ORC-O7VZE7UWKI` |  |
+| 923 | eutectic: Liquid -> fcc_Al + Al3Gd | Liquid: Gd 0.05; Al3Gd: Gd 0.25 | unspecified | [1] Bo 2014; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02883166) | Table 2, p. 4, row 1; `ORC-EVYGZM7R6P` |  |
+| 907 | eutectic: Liquid -> fcc_Al + Al3Gd | Al3Gd: Gd 0.25 | model | [1] Bo 2014; _cites Jin 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.004) | Table 2, p. 4, row 3; `ORC-5KATJSNBJR` |  |
+| 906 | eutectic: Liquid -> fcc_Al + Al3Gd | Liquid: Gd 0.0274; fcc_Al: Gd 0; Al3Gd: Gd 0.25 | model | [1] Bo 2014 | Table 2, p. 4, row 4; `ORC-GEDEYIY24D` |  |
+| 903 | eutectic: Liquid -> fcc_Al + Al3Gd | Liquid: Gd 0.032; fcc_Al: Gd 0; Al3Gd: Gd 0.25 | model | [1] Bo 2014; _cites Cacciamani 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900151-1) | Table 2, p. 4, row 2; `ORC-7GSKIYC4PU` |  |
 
 ## Other properties
 

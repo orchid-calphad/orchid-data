@@ -1,24 +1,12 @@
 # Mn–P system
 
-> Mn–P system: 1 accepted literature values (phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–P system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-P.html · Markdown: https://data.orchid-project.org/systems/MN-P.md
 
-1 accepted literature values from 1 paper(s) (model 1); 3 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-P.json) · [CSV](https://data.orchid-project.org/systems/MN-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-P/MnP-01Mie.json) · [phases (13)](https://data.orchid-project.org/phases/pages/MN-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-P.html) · [Markdown](https://data.orchid-project.org/systems/MN-P.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -89,22 +77,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | MnP-14Mie.tdb | 980 | CBCC_A12 (x(P) 0) + CUB_A13 (x(P) 0) + MN3P_D0E (x(P) 0.25) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MN/MN-P.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MN/MN-P.json) · [CALPHAD hull MnP-01Mie](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-P--MnP-01Mie.json) · [CALPHAD hull MnP-07Tok](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-P--MnP-07Tok.json)
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Mn–P system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 600 K | 600 | other | model | [1] Miettinen 2014 | p. 4; `ORC-ZJZ6JP4UGO` | “Finally, it is of worth noting that the formation of a liquid phase miscibility gap in the phosphorus-rich corner of the ternary system, at about 600 K, has been predicted.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Jyrki Miettinen, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P Systems. Part 3: Fe-Mn-P, J. Phase Equilib. Diffus. 35, 587-594 (2014). [doi:10.1007/s11669-014-0328-4](https://doi.org/10.1007/s11669-014-0328-4)
 
 ## Please cite
 

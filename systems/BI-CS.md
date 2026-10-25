@@ -1,10 +1,10 @@
 # Bi–Cs system
 
-> Bi–Cs system: 75 accepted literature values (crystal structure 33, invariant reaction 26, formation 15, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Cs system: 73 accepted literature values (crystal structure 33, invariant reaction 24, formation 15, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-CS.html · Markdown: https://data.orchid-project.org/systems/BI-CS.md
 
-75 accepted literature values from 1 paper(s) (experimental 25, model 37, DFT 7, unspecified 6); 1 calculated phase diagram(s).
+73 accepted literature values from 1 paper(s) (experimental 23, model 37, DFT 7, unspecified 6); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-CS.json) · [CSV](https://data.orchid-project.org/systems/BI-CS.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-CS) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-CS/BiCs-15Dja.json) · [phases (9)](https://data.orchid-project.org/phases/pages/BI-CS.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-CS.html) · [Markdown](https://data.orchid-project.org/systems/BI-CS.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
+| experimental | 23 |
 | model | 37 |
 | DFT | 7 |
 | unspecified | 6 |
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 26 |
+| invariant reaction | 24 |
 | phase transition | 1 |
 | formation | 15 |
 | crystal structure | 33 |
@@ -50,7 +50,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Cs system (26)
+Table: Invariant reactions reported in the literature for the Bi–Cs system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -63,10 +63,8 @@ Table: Invariant reactions reported in the literature for the Bi–Cs system (26
 | 868 | congruent melting: L -> Bi2Cs | L: Cs 0.333; Bi2Cs: Cs 0.333 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 7; `ORC-SMKO7SRRDF` |  |
 | 854.9 | congruent melting: L -> Bi2Cs | L: Cs 0.333; Bi2Cs: Cs 0.333 | model | [1] Djaballah 2015 | Table 4, p. 5, row 8; `ORC-CPZQVOFVRG` |  |
 | 774 | peritectic: L + BiCs3 -> Bi2Cs3 | BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 15; `ORC-6Y6RFRFWQO` |  |
-| 774 | peritectic: L+BiCs3->Bi2Cs3 |  | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | p. 3; `ORC-NBIYI4OUPV.a04b75` | “All reactions are reproduced with experiment uncertainties, except the peritectic reaction LþBiCs32Bi2Cs3 proposed by Zhuravlev \[16\] at 763 K and by Gnutzmann and Klemm \[17\] at 774 K.” |
 | 773 | peritectic: L + BiCs3 -> Bi2Cs3 | L: Cs 0.599; BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 16; `ORC-LPZAM75A6E` |  |
 | 763 | peritectic: L + BiCs3 -> Bi2Cs3 | BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | Table 4, p. 5, row 14; `ORC-BWMHVVYLDU` |  |
-| 763 | peritectic: L+BiCs3->Bi2Cs3 |  | experimental | [1] Djaballah 2015; _cites Zhuravlev 1958_ | p. 3; `ORC-NBIYI4OUPV.d08c61` | “All reactions are reproduced with experiment uncertainties, except the peritectic reaction LþBiCs32Bi2Cs3 proposed by Zhuravlev \[16\] at 763 K and by Gnutzmann and Klemm \[17\] at 774 K.” |
 | 758.1 | congruent melting: L -> Bi2Cs3 | L: Cs 0.6; Bi2Cs3: Cs 0.6 | model | [1] Djaballah 2015 | Table 4, p. 5, row 18; `ORC-PZAVJSMLFF` |  |
 | 754.95 | eutectic: L + BiCs3 -> Bi2Cs3 | L: Cs 0.616; BiCs3: Cs 0.75; Bi2Cs3: Cs 0.6 | model | [1] Djaballah 2015 | Table 4, p. 5, row 17; `ORC-TCZ6ZM3OIM` |  |
 | 691 | peritectic: L + Bi2Cs3 -> Bi4Cs5 | L: Cs 0.54; Bi2Cs3: Cs 0.6; Bi4Cs5: Cs 0.556 | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 4, p. 5, row 12; `ORC-KIA2NT7K7U` |  |

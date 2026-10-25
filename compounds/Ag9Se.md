@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Ag9Se
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 149.37 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| 149.37 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| 150.532 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| 150.532 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| 149.37 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| 149.37 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| 150.532 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| 150.532 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## Sources
 

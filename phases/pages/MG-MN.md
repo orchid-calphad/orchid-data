@@ -28,7 +28,7 @@ Table: Phases of the Mg–Mn system (6)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-mn:bcc-a2)
 
 Names (4): _corpus: _corpus:phase:mg-mn:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:MgMn-05Gro.tdb:BCC_A2, tdb:MgMn-98Tib-LB.tdb:BCC_A2  
 
 
@@ -48,12 +48,10 @@ _tdb: _tdb:MgMn-05Gro.tdb:BCC_A2, tdb:MgMn-98Tib-LB.tdb:BCC_A2
 36: CONST BCC_A2 : MG MN% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1361/15477030523544](https://doi.org/10.1361/15477030523544) J. Gröbner, D. Mirkovic, M. Ohno, R. Schmid-Fetzer, Experimental Investigation and Thermodynamic Calculation of Binary Mg-Mn Phase Equilibria, Journal of Phase Equilibria &amp; Diffusion 26, 234-239 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CBCC_A12 (Mg–Mn)
 
@@ -64,7 +62,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-mn:cbcc-a12)
 
 Names (4): _corpus: _corpus:phase:mg-mn:cbcc-a12  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:cbcc-A12  
+_paper: _paper:sha256-85fd53a1a176b694:cbcc-A12  
 _tdb: _tdb:MgMn-05Gro.tdb:CBCC_A12, tdb:MgMn-98Tib-LB.tdb:CBCC_A12  
 
 
@@ -84,12 +82,10 @@ _tdb: _tdb:MgMn-05Gro.tdb:CBCC_A12, tdb:MgMn-98Tib-LB.tdb:CBCC_A12
 46: CONST CBCC_A12 : MG MN% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1361/15477030523544](https://doi.org/10.1361/15477030523544) J. Gröbner, D. Mirkovic, M. Ohno, R. Schmid-Fetzer, Experimental Investigation and Thermodynamic Calculation of Binary Mg-Mn Phase Equilibria, Journal of Phase Equilibria &amp; Diffusion 26, 234-239 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CUB_A13 (Mg–Mn)
 
@@ -100,7 +96,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-mn:cub-a13)
 
 Names (4): _corpus: _corpus:phase:mg-mn:cub-a13  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:cub-A13  
+_paper: _paper:sha256-85fd53a1a176b694:cub-A13  
 _tdb: _tdb:MgMn-05Gro.tdb:CUB_A13, tdb:MgMn-98Tib-LB.tdb:CUB_A13  
 
 
@@ -120,12 +116,10 @@ _tdb: _tdb:MgMn-05Gro.tdb:CUB_A13, tdb:MgMn-98Tib-LB.tdb:CUB_A13
 51: CONST CUB_A13 : MG MN% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1361/15477030523544](https://doi.org/10.1361/15477030523544) J. Gröbner, D. Mirkovic, M. Ohno, R. Schmid-Fetzer, Experimental Investigation and Thermodynamic Calculation of Binary Mg-Mn Phase Equilibria, Journal of Phase Equilibria &amp; Diffusion 26, 234-239 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Mg–Mn)
 
@@ -136,7 +130,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-mn:fcc-a1)
 
 Names (4): _corpus: _corpus:phase:mg-mn:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:MgMn-05Gro.tdb:FCC_A1, tdb:MgMn-98Tib-LB.tdb:FCC_A1  
 
 
@@ -156,12 +150,10 @@ _tdb: _tdb:MgMn-05Gro.tdb:FCC_A1, tdb:MgMn-98Tib-LB.tdb:FCC_A1
 31: CONST FCC_A1 : MG MN% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1361/15477030523544](https://doi.org/10.1361/15477030523544) J. Gröbner, D. Mirkovic, M. Ohno, R. Schmid-Fetzer, Experimental Investigation and Thermodynamic Calculation of Binary Mg-Mn Phase Equilibria, Journal of Phase Equilibria &amp; Diffusion 26, 234-239 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Mg–Mn)
 
@@ -172,7 +164,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-mn:hcp-a3)
 
 Names (4): _corpus: _corpus:phase:mg-mn:hcp-a3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:MgMn-05Gro.tdb:HCP_A3, tdb:MgMn-98Tib-LB.tdb:HCP_A3  
 
 
@@ -192,12 +184,10 @@ _tdb: _tdb:MgMn-05Gro.tdb:HCP_A3, tdb:MgMn-98Tib-LB.tdb:HCP_A3
 41: CONST HCP_A3 : MG% MN : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1361/15477030523544](https://doi.org/10.1361/15477030523544) J. Gröbner, D. Mirkovic, M. Ohno, R. Schmid-Fetzer, Experimental Investigation and Thermodynamic Calculation of Binary Mg-Mn Phase Equilibria, Journal of Phase Equilibria &amp; Diffusion 26, 234-239 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Mg–Mn)
 
@@ -208,7 +198,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-mn:liquid)
 
 Names (4): _corpus: _corpus:phase:mg-mn:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Liquid'  
+_paper: _paper:sha256-85fd53a1a176b694:Liquid'  
 _tdb: _tdb:MgMn-05Gro.tdb:LIQUID, tdb:MgMn-98Tib-LB.tdb:LIQUID  
 
 
@@ -228,12 +218,10 @@ _tdb: _tdb:MgMn-05Gro.tdb:LIQUID, tdb:MgMn-98Tib-LB.tdb:LIQUID
 26: CONST LIQUID:L : MG MN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1361/15477030523544](https://doi.org/10.1361/15477030523544) J. Gröbner, D. Mirkovic, M. Ohno, R. Schmid-Fetzer, Experimental Investigation and Thermodynamic Calculation of Binary Mg-Mn Phase Equilibria, Journal of Phase Equilibria &amp; Diffusion 26, 234-239 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

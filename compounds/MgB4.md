@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/MgB4.html · Markdown: https://data.orchid-project.org/compounds/MgB4.md
 
-15 accepted literature formation-enthalpy value(s) (experimental 11, model 4); experimental median -14.4 kJ/mol-atom (n = 7); Materials Project -13.395 kJ/mol-atom (mp-aaaaaaob); OQMD -13.876 kJ/mol-atom (oqmd-4315).
+15 accepted literature formation-enthalpy value(s) (experimental 11, model 4); experimental median -14.73 kJ/mol-atom (n = 7); Materials Project -13.395 kJ/mol-atom (mp-aaaaaaob); OQMD -13.876 kJ/mol-atom (oqmd-4315).
 
 Systems: [B–Mg](https://data.orchid-project.org/systems/B-MG.html)
 
@@ -18,13 +18,13 @@ Table: Enthalpy of formation of MgB4 reported in the literature (15)
 | -29.9 kJ/mol-atom ± 2 | MgB4 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 7; `ORC-BBS5QJWESM.c4284a` |  |
 | -17.6 per mol-atom ± 3.8 | MgB4 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 10; `ORC-YXGP7HACWX.5e50aa` |  |
 | -17.6 kJ/mol-atom ± 3.8 | MgB4 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 10; `ORC-YXGP7HACWX.bd63e9` |  |
+| -17.57 kJ/mol-atom ± 3.85 | MgB4 | 298.15 | experimental | vapor pressure | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 2; `ORC-X2SXXKZOB3` |  |
+| -14.73 kJ/mol-atom ± 0.5 | MgB4 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 8; `ORC-R6NR5W7CED` |  |
 | -14.7 per mol-atom | MgB4 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 12; `ORC-UI3WEXKPCB.6c3cc9` |  |
 | -14.7 kJ/mol-atom | MgB4 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 12; `ORC-UI3WEXKPCB.ac1885` |  |
 | -14.4 per mol-atom ± 0.8 | MgB4 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 11; `ORC-GVFN7QIKSZ.95264b` |  |
 | -14.4 kJ/mol-atom ± 0.8 | MgB4 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 11; `ORC-GVFN7QIKSZ.96de4b` |  |
-| -0.01757 kJ/mol-atom ± 0.00385 | MgB4 | 298.15 | experimental | vapor pressure | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 2; `ORC-X2SXXKZOB3` |  |
-| -0.01473 kJ/mol-atom ± 5.000e-4 | MgB4 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 8; `ORC-R6NR5W7CED` |  |
-| -0.01439 kJ/mol-atom ± 7.500e-4 | MgB4 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 5; `ORC-VCABWHTXUT` |  |
+| -14.39 kJ/mol-atom ± 0.75 | MgB4 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [2] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 5; `ORC-VCABWHTXUT` |  |
 | -25.5 kJ/mol-atom | MgB4 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 8; `ORC-T733N4EIL3.24deaa` |  |
 | -25.5 per mol-atom | MgB4 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 8; `ORC-T733N4EIL3.49ce03` |  |
 | -18.4 per mol-atom | MgB4 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 9; `ORC-ZDO3KQSJW5.7929a6` |  |
@@ -39,16 +39,16 @@ Table: Uncertainty budget of the literature values of MgB4
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -29.9 | per mol-atom | 2 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2 |
-| -29.9 | kJ/mol-atom | 2 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -29.9 | kJ/mol-atom | 2 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -17.6 | per mol-atom | 3.8 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 3.8 |
-| -17.6 | kJ/mol-atom | 3.8 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -17.6 | kJ/mol-atom | 3.8 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -17.57 | kJ/mol-atom | 3.85 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -14.73 | kJ/mol-atom | 0.5 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -14.7 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -14.7 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -14.7 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -14.4 | per mol-atom | 0.8 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 0.8 |
-| -14.4 | kJ/mol-atom | 0.8 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -0.01757 | kJ/mol-atom | 0.00385 | 5.000e-6 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -0.01473 | kJ/mol-atom | 5.000e-4 | 5.000e-6 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -0.01439 | kJ/mol-atom | 7.500e-4 | 5.000e-6 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -14.4 | kJ/mol-atom | 0.8 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -14.39 | kJ/mol-atom | 0.75 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -25.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -25.5 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -18.4 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |

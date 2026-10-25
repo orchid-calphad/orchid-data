@@ -324,7 +324,7 @@
     "x0": 0.241,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq.->α-Ce(fcc) + Co11Ce24",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -343,7 +343,7 @@
     "x0": 0.34,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq.->Co11Ce24 + Co2Ce",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

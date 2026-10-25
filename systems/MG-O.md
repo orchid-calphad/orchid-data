@@ -1,10 +1,10 @@
 # Mg–O system
 
-> Mg–O system: 36 accepted literature values (phase equilibrium 26, formation 5, heat capacity / entropy / enthalpy 3, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–O system: 35 accepted literature values (phase equilibrium 26, formation 5, heat capacity / entropy / enthalpy 3, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-O.html · Markdown: https://data.orchid-project.org/systems/MG-O.md
 
-36 accepted literature values from 3 paper(s) (experimental 8, model 21, DFT 3, unspecified 4); 2 calculated phase diagram(s).
+35 accepted literature values from 3 paper(s) (experimental 8, model 20, DFT 3, unspecified 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-O.json) · [CSV](https://data.orchid-project.org/systems/MG-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-O/MgO-18Lia.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MG-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-O.html) · [Markdown](https://data.orchid-project.org/systems/MG-O.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 21 |
+| model | 20 |
 | DFT | 3 |
 | unspecified | 4 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
+| phase transition | 1 |
 | phase equilibrium | 26 |
 | formation | 5 |
 | heat capacity / entropy / enthalpy | 3 |
@@ -55,13 +55,12 @@ Table: Enthalpies of formation, Mg–O system (5)
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Mg–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3249.2 K | 3249.2 | L (49.98 at.% O) = Gas (8.7 at.% O) + MgO(s) | model | [3] Liang 2018 | p. 11; `ORC-DU7JUZQIJY` | “At 3249.2 K the three-phase equilibrium, L (49.98 at.% O) = Gas (8.7 at.% O) + MgO(s) is calculated in” |
 | Phase transition | 3249.6 K | 3249.6 | congruent transformation | model | [3] Liang 2018 | p. 11; `ORC-YZVMY6AYNL` | “This stable range of liquid oxide extends from 49.98 to 50.01 at.% O at 1 bar with a calculated congruent melting point of MgO at 3249.6 K.” |
 
 ### Phase equilibrium (26)

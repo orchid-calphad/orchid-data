@@ -1,26 +1,12 @@
 # Ce–Ti system
 
-> Ce–Ti system: 4 accepted literature values (invariant reaction 2, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Ti system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-TI.html · Markdown: https://data.orchid-project.org/systems/CE-TI.md
 
-4 accepted literature values from 1 paper(s) (experimental 2, model 2); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-TI.json) · [CSV](https://data.orchid-project.org/systems/CE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-TI/CeTi-18Yao.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CE-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-TI.html) · [Markdown](https://data.orchid-project.org/systems/CE-TI.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 2 |
-| model | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 2 |
-| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -43,32 +29,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CeTi-18Yao.tdb | 990.76 | FCC_A1 (x(Ti) 0) + BCC_A2 (x(Ti) 0.0034) + HCP_A3 (x(Ti) 0.9934) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CE/CE-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CE/CE-TI.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ce–Ti system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1063.15 | eutectic: Liquid#1 $ (dCe) ? (aTi) |  | experimental | [1] Yao 2018 | p. 6; `ORC-KSDAWGYXBB.d4772c` | “The temperatures of peritectic reaction Liquid#1 ? (bTi) $ (aTi) and eutectic reaction Liquid#1 $ (dCe) ? (aTi) are calculated to be 906 and 787 °C, which are consistent with the experimental ones 910 ± 10 and 790 ± 20 °C, respectively.” |
-| 1060.15 | eutectic: Liquid#1 $ (dCe) ? (aTi) |  | model | [1] Yao 2018 | p. 6; `ORC-KSDAWGYXBB.35eefe` | “The temperatures of peritectic reaction Liquid#1 ? (bTi) $ (aTi) and eutectic reaction Liquid#1 $ (dCe) ? (aTi) are calculated to be 906 and 787 °C, which are consistent with the experimental ones 910 ± 10 and 790 ± 20 °C, respectively.” |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Ce–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 983.15 K | 983.15 | other: (dCe) $ (cCe) ? (aTi) | experimental | [1] Yao 2018 | p. 6; `ORC-OCHD7HTFMF.1c6440` | “The calculated temperature of the eutectoid reaction (dCe) $ (cCe) ? (aTi) is to be 718 °C, which also agree well with the experimental one 710 ± 20 °C.” |
-| Phase transition | 991.15 K | 991.15 | other: (dCe) $ (cCe) ? (aTi) | model | [1] Yao 2018 | p. 6; `ORC-OCHD7HTFMF.ae0e8e` | “The calculated temperature of the eutectoid reaction (dCe) $ (cCe) ? (aTi) is to be 718 °C, which also agree well with the experimental one 710 ± 20 °C.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Bin Yao, Biao Hu, Anan Zhang, Jingrui Zhao, Jiong Wang, Yong Du, Thermodynamic Assessment of the Ti-RE (RE = Ce, Er, Tm, Y) Binary Systems, J. Phase Equilib. Diffus. 39, 44-50 (2018). [doi:10.1007/s11669-017-0605-0](https://doi.org/10.1007/s11669-017-0605-0)
 
 ## Please cite
 

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of TiZn3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -27 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -27 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## Sources
 

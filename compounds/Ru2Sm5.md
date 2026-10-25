@@ -35,8 +35,8 @@ Table: Uncertainty budget of the literature values of Ru2Sm5
 | -25.9792 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -23.4727 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -23.457 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -25.922 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -25.055 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -25.922 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -25.055 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

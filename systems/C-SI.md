@@ -1,10 +1,10 @@
 # C–Si system
 
-> C–Si system: 13 accepted literature values (heat capacity / entropy / enthalpy 9, invariant reaction 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Si system: 11 accepted literature values (heat capacity / entropy / enthalpy 9, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-SI.html · Markdown: https://data.orchid-project.org/systems/C-SI.md
 
-13 accepted literature values from 3 paper(s) (experimental 4, model 6, unspecified 3); 0 calculated phase diagram(s).
+11 accepted literature values from 2 paper(s) (experimental 2, model 6, unspecified 3); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-SI.json) · [CSV](https://data.orchid-project.org/systems/C-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-SI) · [phases (8)](https://data.orchid-project.org/phases/pages/C-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-SI.html) · [Markdown](https://data.orchid-project.org/systems/C-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 2 |
 | model | 6 |
 | unspecified | 3 |
 
@@ -20,21 +20,19 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 4 |
+| invariant reaction | 2 |
 | heat capacity / entropy / enthalpy | 9 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-SI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-SI.json) · [CALPHAD hull SiC-17Lia](https://data.orchid-project.org/hulls/calphad-sgte/C/C-SI--SiC-17Lia.json) · [CALPHAD hull SiC-91Lac](https://data.orchid-project.org/hulls/calphad-sgte/C/C-SI--SiC-91Lac.json) · [CALPHAD hull SiC-96Gro-LB](https://data.orchid-project.org/hulls/calphad-sgte/C/C-SI--SiC-96Gro-LB.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–Si system (4)
+Table: Invariant reactions reported in the literature for the C–Si system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3100 | peritectic |  | experimental | [1] Gröbner 1996 | p. 1; `ORC-WQ6V3Y3VED.9652a2` | “For the peritectic formation of Sic all authors except (60Dol\] (2813 K) agree with a value of about 3100 K.” |
-| 3096.4 | peritectic: Liquid + graphite -> SiC | Liquid: Si 0.826; graphite: Si 0; SiC: Si 0.5 | model | [2] Hämäläinen 1998 | Table I, p. 149, row 2; `ORC-P2GFCEIP5M` |  |
-| 2813 | peritectic |  | experimental | [1] Gröbner 1996; _cites ref. 60Dol_ | p. 1; `ORC-WQ6V3Y3VED.131c3e` | “For the peritectic formation of Sic all authors except (60Dol\] (2813 K) agree with a value of about 3100 K.” |
-| 1687 | other: Liquid -> diamond + SiC | Liquid: Si 1; diamond: Si 1; SiC: Si 0.5 | model | [2] Hämäläinen 1998 | Table I, p. 149, row 1; `ORC-7DAZSGSQHG` |  |
+| 3096.4 | peritectic: Liquid + graphite -> SiC | Liquid: Si 0.826; graphite: Si 0; SiC: Si 0.5 | model | [1] (ed.) 1998 | Table I, p. 149, row 2; `ORC-P2GFCEIP5M` |  |
+| 1687 | other: Liquid -> diamond + SiC | Liquid: Si 1; diamond: Si 1; SiC: Si 0.5 | model | [1] (ed.) 1998 | Table I, p. 149, row 1; `ORC-7DAZSGSQHG` |  |
 
 ## Other properties
 
@@ -44,23 +42,22 @@ Table: Heat capacity / entropy / enthalpy, C–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298K_ | 8.5 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017 | Table 5, p. 8, row 28; `ORC-KMV7KYOKJT` |  |
-| Entropy; _printed: S°298K_ | 8.25 J/mol-atom/K ± 0.1 | 298.15 | SiC; _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Kubaschewski 1993_ | Table 5, p. 8, row 24; `ORC-KXNTVGQ2SC` |  |
-| Entropy; _printed: S°298K_ | 8.35 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Paek 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.02.007) | Table 5, p. 8, row 27; `ORC-MLVWFJE4CQ` |  |
-| Entropy; _printed: S°298K_ | 8.3 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Lacaze 1991_ [doi](https://doi.org/10.1007/bf02664987) | Table 5, p. 8, row 25; `ORC-QEN4OEX6MI` |  |
-| Entropy; _printed: S°298K_ | 8.45 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Gro 1996_ | Table 5, p. 8, row 26; `ORC-TOE6CPMLCS` |  |
-| Entropy; _printed: S°298K_ | 8.24 J/mol-atom/K ± 0.04 | 298.15 | αSiC(Hex); _alloy: Si 0.5_ | experimental | [3] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 15; `ORC-BOPH4LJCD6` |  |
-| Entropy; _printed: S°298K_ | 8.2425 J/mol-atom/K ± 0.065 | 298.15 | αSiC(Hex); _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 22; `ORC-IG7ADIKB3L` |  |
-| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.04 | 298.15 | βSiC(Cubic); _alloy: Si 0.5_ | experimental | [3] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 16; `ORC-HHNIMW2TJQ` |  |
-| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.065 | 298.15 | βSiC(Cubic); _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 23; `ORC-KQLLTX7JX5` |  |
+| Entropy; _printed: S°298K_ | 8.5 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [2] Liang 2017 | Table 5, p. 8, row 28; `ORC-KMV7KYOKJT` |  |
+| Entropy; _printed: S°298K_ | 8.25 J/mol-atom/K ± 0.1 | 298.15 | SiC; _alloy: Si 0.5_ | unspecified | [2] Liang 2017; _cites Kubaschewski 1993_ | Table 5, p. 8, row 24; `ORC-KXNTVGQ2SC` |  |
+| Entropy; _printed: S°298K_ | 8.35 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [2] Liang 2017; _cites Paek 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.02.007) | Table 5, p. 8, row 27; `ORC-MLVWFJE4CQ` |  |
+| Entropy; _printed: S°298K_ | 8.3 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [2] Liang 2017; _cites Lacaze 1991_ [doi](https://doi.org/10.1007/bf02664987) | Table 5, p. 8, row 25; `ORC-QEN4OEX6MI` |  |
+| Entropy; _printed: S°298K_ | 8.45 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [2] Liang 2017; _cites Gro 1996_ | Table 5, p. 8, row 26; `ORC-TOE6CPMLCS` |  |
+| Entropy; _printed: S°298K_ | 8.24 J/mol-atom/K ± 0.04 | 298.15 | αSiC(Hex); _alloy: Si 0.5_ | experimental | [2] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 15; `ORC-BOPH4LJCD6` |  |
+| Entropy; _printed: S°298K_ | 8.2425 J/mol-atom/K ± 0.065 | 298.15 | αSiC(Hex); _alloy: Si 0.5_ | unspecified | [2] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 22; `ORC-IG7ADIKB3L` |  |
+| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.04 | 298.15 | βSiC(Cubic); _alloy: Si 0.5_ | experimental | [2] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 16; `ORC-HHNIMW2TJQ` |  |
+| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.065 | 298.15 | βSiC(Cubic); _alloy: Si 0.5_ | unspecified | [2] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 23; `ORC-KQLLTX7JX5` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Joachim Gröbner, Hans Leo Lukas, Fritz Aldinger, Thermodynamic calculation of the ternary system Al-Si-C, Calphad 20, 247-254 (1996). [doi:10.1016/s0364-5916(96)00027-2](https://doi.org/10.1016/s0364-5916%2896%2900027-2)
-2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-3. Song-Mao Liang, Martin Drüe, Artem Kozlov, Markus Rettenmayr, Rainer Schmid-Fetzer, Key experiments and challenging thermodynamic modeling of the Li-Si-C system, Journal of Alloys and Compounds 698, 743-753 (2017). [doi:10.1016/j.jallcom.2016.12.271](https://doi.org/10.1016/j.jallcom.2016.12.271)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
+2. Song-Mao Liang, Martin Drüe, Artem Kozlov, Markus Rettenmayr, Rainer Schmid-Fetzer, Key experiments and challenging thermodynamic modeling of the Li-Si-C system, Journal of Alloys and Compounds 698, 743-753 (2017). [doi:10.1016/j.jallcom.2016.12.271](https://doi.org/10.1016/j.jallcom.2016.12.271)
 
 ## Please cite
 

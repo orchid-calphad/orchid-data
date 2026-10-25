@@ -1,10 +1,10 @@
 # Bi–Ti system
 
-> Bi–Ti system: 35 accepted literature values (invariant reaction 18, crystal structure 14, formation 2, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Ti system: 30 accepted literature values (crystal structure 14, invariant reaction 14, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-TI.html · Markdown: https://data.orchid-project.org/systems/BI-TI.md
 
-35 accepted literature values from 2 paper(s) (experimental 12, model 13, DFT 6, unspecified 4); 2 calculated phase diagram(s).
+30 accepted literature values from 2 paper(s) (experimental 8, model 12, DFT 6, unspecified 4); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-TI.json) · [CSV](https://data.orchid-project.org/systems/BI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-TI/BiTi-13Cao.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BI-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-TI.html) · [Markdown](https://data.orchid-project.org/systems/BI-TI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 13 |
+| experimental | 8 |
+| model | 12 |
 | DFT | 6 |
 | unspecified | 4 |
 
@@ -21,8 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 18 |
-| phase transition | 1 |
+| invariant reaction | 14 |
 | formation | 2 |
 | crystal structure | 14 |
 
@@ -82,23 +81,19 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Ti system (18)
+Table: Invariant reactions reported in the literature for the Bi–Ti system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1616 | L + (βTi) = BiTi3 | BiTi3: Ti 0.75 | model | [1] Huang 2014 | Table 5, p. 5, row 2; `ORC-7RHNZ3KGVM` |  |
-| 1613.15 | peritectic: liquid + (βTi) = BiTi3 |  | experimental | [2] Cao 2013; _cites Obinata 1960_ | p. 2; `ORC-QRN54XE4QF.d1b37d` | “According to the work by Obinata et al. \[15\], an eutectoid reaction (βTi) = (αTi) + BiTi3 occurred at 725 °C ± 10 °C and 8.6 at.% Bi and a peritectic reaction liquid + (βTi) = BiTi3 occurred at 1340°C ± 20 °C.” |
 | 1613 | L + (βTi) = BiTi3 | BiTi3: Ti 0.75 | experimental | [1] Huang 2014; _cites Obinata 1960_ | Table 5, p. 5, row 1; `ORC-GWJBTCJRZX` |  |
 | 1433 | L + BiTi3 = BiTi2 | BiTi3: Ti 0.75; BiTi2: Ti 0.666667 | model | [1] Huang 2014 | Table 5, p. 5, row 6; `ORC-F2PSCOKUJS` |  |
 | 1247 | L + BiTi2 = Bi2Ti3 | BiTi2: Ti 0.666667; Bi2Ti3: Ti 0.6 | model | [1] Huang 2014 | Table 5, p. 5, row 8; `ORC-VA2W6TIEDC` |  |
 | 1243 | L + BiTi2 = Bi2Ti3 | BiTi2: Ti 0.666667; Bi2Ti3: Ti 0.6 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 7; `ORC-P5JIXL7FZC` |  |
 | 1203 | L + Bi2Ti3 = Bi9Ti8 | Bi2Ti3: Ti 0.6; Bi9Ti8: Ti 0.470588 | model | [1] Huang 2014 | Table 5, p. 5, row 10; `ORC-2OSVWTNRAP` |  |
 | 1203 | L + Bi2Ti3 = Bi9Ti8 | Bi2Ti3: Ti 0.6; Bi9Ti8: Ti 0.470588 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 9; `ORC-OKI6VZ6VPH` |  |
-| 998.15 | eutectoid: (βTi) = (αTi) + Ti3Bi |  | experimental | [2] Cao 2013; _cites Obinata 1960_ | p. 3; `ORC-M6453LNMCJ.ff468e` | “The calculated eutectoid point of reaction (βTi) = (αTi) + Ti3Bi lies at 719.47 °C, 6.03 at.% Bi, while the experimental \[15\] one lies at 725 °C, 8.6 at.% Bi.” |
-| 998.15 | eutectoid: (βTi) = (αTi) + BiTi3 |  | experimental | [2] Cao 2013; _cites Obinata 1960_ | p. 2; `ORC-QRN54XE4QF.4c9654` | “According to the work by Obinata et al. \[15\], an eutectoid reaction (βTi) = (αTi) + BiTi3 occurred at 725 °C ± 10 °C and 8.6 at.% Bi and a peritectic reaction liquid + (βTi) = BiTi3 occurred at 1340°C ± 20 °C.” |
 | 998 | (βTi) = (αTi) + BiTi3 | BiTi3: Ti 0.75 | experimental | [1] Huang 2014; _cites Obinata 1960_ | Table 5, p. 5, row 3; `ORC-5M4P5NERCA` |  |
 | 993 | (βTi) = (αTi) + BiTi3 | BiTi3: Ti 0.75 | model | [1] Huang 2014 | Table 5, p. 5, row 4; `ORC-YUKKG2HWTY` |  |
-| 992.62 | eutectoid: (βTi) = (αTi) + Ti3Bi |  | model | [2] Cao 2013 | p. 3; `ORC-M6453LNMCJ.cd6dac` | “The calculated eutectoid point of reaction (βTi) = (αTi) + Ti3Bi lies at 719.47 °C, 6.03 at.% Bi, while the experimental \[15\] one lies at 725 °C, 8.6 at.% Bi.” |
 | 698.5 | L + Bi9Ti8 = Bi2Ti | Bi9Ti8: Ti 0.470588; Bi2Ti: Ti 0.333333 | model | [1] Huang 2014 | Table 5, p. 5, row 12; `ORC-A6MHFWWU6Z` |  |
 | 698 | L + Bi9Ti8 = Bi2Ti | Bi9Ti8: Ti 0.470588; Bi2Ti: Ti 0.333333 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 11; `ORC-Z7VO67HZRE` |  |
 | 544.55 | Liquid=Bi2Ti+(Bi) | Liquid: Bi 0.999; Bi2Ti: Bi 0.667; (Bi): Bi 1 | model | [2] Cao 2013 | Table 3, p. 5, row 2; `ORC-6A4FIL25YS` |  |
@@ -117,14 +112,6 @@ Table: Enthalpies of formation, Bi–Ti system (2)
 | BiTi2 |  | -12.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Huang 2014 | Table 4, p. 5, row 2; `ORC-6J7PIVW23J` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Bi–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 544 K | 544 |  | experimental | [1] Huang 2014 | p. 5; `ORC-L5BAY7S7I5` | “The observed phase (Bi) should be a product of solidified liquid which is an equilibrium phase at 773 K because the melting point of Bi is 544 K.” |
 
 ### Crystal structure (14)
 

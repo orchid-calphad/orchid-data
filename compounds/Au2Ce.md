@@ -33,16 +33,16 @@ Table: Uncertainty budget of the literature values of Au2Ce
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -73 | kJ/mol-atom |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -71.5 | kJ/mol-atom | 2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -70.6 | kJ/mol-atom | 2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -57.5 | kJ/mol-atom | 4.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.7 |
-| -57.5 | kJ/mol-atom | 4.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.7 |
+| -73 | kJ/mol-atom |  | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -71.5 | kJ/mol-atom | 2 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -70.6 | kJ/mol-atom | 2 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -57.5 | kJ/mol-atom | 4.7 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.7 |
+| -57.5 | kJ/mol-atom | 4.7 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.7 |
 | -70 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -70 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -66 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -71.46 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -71.46 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -71.46 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -71.46 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

@@ -50,7 +50,7 @@ _tdb: _tdb:AlSn-98Fri-LB.tdb:DIAMOND_A4
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sn:a5-bct)
 
 Names (6): _corpus: _corpus:phase:al-sn:a5-bct, corpus:phase:al-sn:bct-a5  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bct-A5  
+_paper: _paper:sha256-85fd53a1a176b694:bct-A5  
 _tdb: _tdb:AlSn-19Che.tdb:BCT_A5, tdb:AlSn-79Ans.tdb:BCT_A5, tdb:AlSn-98Fri-LB.tdb:BCT_A5  
 
 
@@ -77,14 +77,12 @@ _tdb: _tdb:AlSn-19Che.tdb:BCT_A5, tdb:AlSn-79Ans.tdb:BCT_A5, tdb:AlSn-98Fri-LB.t
 49: CONST BCT_A5 : AL SN% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/0364-5916(79)90006-3](https://doi.org/10.1016/0364-5916%2879%2990006-3) I. Ansara, J.P. Bros, M. Gambino, Thermodynamic analysis of the germanium-based ternary systems (AlGaGe, AlGeSn, GaGeSn), Calphad 3, 225-233 (1979).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.01.005](https://doi.org/10.1016/j.calphad.2019.01.005) T. Cheng, Y. Tang, L. Zhang, Calphad, 64, 354-63(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_A2 (Al–Sn)
 
@@ -137,7 +135,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sn:fcc-a1)
 
 Names (5): _corpus: _corpus:phase:al-sn:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:AlSn-19Che.tdb:FCC_A1, tdb:AlSn-79Ans.tdb:FCC_A1, tdb:AlSn-98Fri-LB.tdb:FCC_A1  
 
 
@@ -164,14 +162,12 @@ _tdb: _tdb:AlSn-19Che.tdb:FCC_A1, tdb:AlSn-79Ans.tdb:FCC_A1, tdb:AlSn-98Fri-LB.t
 29: CONST FCC_A1 : AL% SN : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/0364-5916(79)90006-3](https://doi.org/10.1016/0364-5916%2879%2990006-3) I. Ansara, J.P. Bros, M. Gambino, Thermodynamic analysis of the germanium-based ternary systems (AlGaGe, AlGeSn, GaGeSn), Calphad 3, 225-233 (1979).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.01.005](https://doi.org/10.1016/j.calphad.2019.01.005) T. Cheng, Y. Tang, L. Zhang, Calphad, 64, 354-63(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Al–Sn)
 
@@ -224,7 +220,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sn:liquid)
 
 Names (5): _corpus: _corpus:phase:al-sn:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlSn-19Che.tdb:LIQUID, tdb:AlSn-79Ans.tdb:LIQUID, tdb:AlSn-98Fri-LB.tdb:LIQUID  
 
 
@@ -251,14 +247,12 @@ _tdb: _tdb:AlSn-19Che.tdb:LIQUID, tdb:AlSn-79Ans.tdb:LIQUID, tdb:AlSn-98Fri-LB.t
 24: CONST LIQUID:L : AL SN : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/0364-5916(79)90006-3](https://doi.org/10.1016/0364-5916%2879%2990006-3) I. Ansara, J.P. Bros, M. Gambino, Thermodynamic analysis of the germanium-based ternary systems (AlGaGe, AlGeSn, GaGeSn), Calphad 3, 225-233 (1979).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.01.005](https://doi.org/10.1016/j.calphad.2019.01.005) T. Cheng, Y. Tang, L. Zhang, Calphad, 64, 354-63(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

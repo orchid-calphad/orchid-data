@@ -153,16 +153,16 @@ Table: Invariant reactions reported in the literature for the Ce–Co system (39
 | 1293 | Liq. + Co3Ce->Co2Ce | Co3Ce: Co 0.75; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 19; `ORC-MQC53JVULU` |  |
 | 1023 | Co5Ce->Co19Ce5 + Co17Ce2 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667; Co17Ce2: Co 0.894737 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 41; `ORC-H7CJNQHOWJ` |  |
 | 1023 | Co5Ce->Co19Ce5 + Co17Ce2 | Co5Ce: Co 0.833333; Co19Ce5: Co 0.791667; Co17Ce2: Co 0.894737 | model | [1] Su 1998 | Table 3, p. 5, row 39; `ORC-ZKSQR4WQWB.1c00be` |  |
-| 716 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.34; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 14; `ORC-PXBUO3JTIU` |  |
-| 713 | Liq.->Co11Ce24 + Co2Ce | Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 13; `ORC-NU4G5WGJXD` |  |
-| 710 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.341; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 12; `ORC-M4J3REQYAP` |  |
-| 708 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.34; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 15; `ORC-3AE5ZTK7FB` |  |
-| 708 | Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.348; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 11; `ORC-RXH7AS65PO` |  |
-| 697 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.241; Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 4; `ORC-GITDX2QDMA` |  |
-| 697 | Liq.->α-Ce(fcc) + Co11Ce24 | Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 3; `ORC-ZA32PL22ZB` |  |
-| 695 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.237; Co11Ce24: Co 0.314286 | model | [1] Su 1998 | Table 3, p. 5, row 2; `ORC-IKXKO2SVX2` |  |
-| 694 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.237; Co11Ce24: Co 0.314286 | model | [1] Su 1998 | Table 3, p. 5, row 1; `ORC-HE6QQEHZXC` |  |
-| 691 | Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.241; Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 5; `ORC-PTRVBCEDMC` |  |
+| 716 | eutectic: Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.34; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 14; `ORC-PXBUO3JTIU` |  |
+| 713 | eutectic: Liq.->Co11Ce24 + Co2Ce | Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 13; `ORC-NU4G5WGJXD` |  |
+| 710 | eutectic: Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.341; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 12; `ORC-M4J3REQYAP` |  |
+| 708 | eutectic: Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.34; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 15; `ORC-3AE5ZTK7FB` |  |
+| 708 | eutectic: Liq.->Co11Ce24 + Co2Ce | Liq.: Co 0.348; Co11Ce24: Co 0.314286; Co2Ce: Co 0.666667 | model | [1] Su 1998 | Table 3, p. 5, row 11; `ORC-RXH7AS65PO` |  |
+| 697 | eutectic: Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.241; Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Ray 1973_ | Table 3, p. 5, row 4; `ORC-GITDX2QDMA` |  |
+| 697 | eutectic: Liq.->α-Ce(fcc) + Co11Ce24 | Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Buschow 1971_ | Table 3, p. 5, row 3; `ORC-ZA32PL22ZB` |  |
+| 695 | eutectic: Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.237; Co11Ce24: Co 0.314286 | model | [1] Su 1998 | Table 3, p. 5, row 2; `ORC-IKXKO2SVX2` |  |
+| 694 | eutectic: Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.237; Co11Ce24: Co 0.314286 | model | [1] Su 1998 | Table 3, p. 5, row 1; `ORC-HE6QQEHZXC` |  |
+| 691 | eutectic: Liq.->α-Ce(fcc) + Co11Ce24 | Liq.: Co 0.241; Co11Ce24: Co 0.314286 | experimental | [1] Su 1998; _cites Wu 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820806) | Table 3, p. 5, row 5; `ORC-PTRVBCEDMC` |  |
 
 ## Other properties
 

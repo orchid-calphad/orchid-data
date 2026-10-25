@@ -1,10 +1,10 @@
 # Au–Pt–Sn system
 
-> Au–Pt–Sn system: 75 accepted literature values (invariant reaction 63, phase equilibrium 5, formation 4, heat capacity / entropy / enthalpy 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Pt–Sn system: 74 accepted literature values (invariant reaction 63, phase equilibrium 5, formation 3, heat capacity / entropy / enthalpy 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-PT-SN.html · Markdown: https://data.orchid-project.org/systems/AU-PT-SN.md
 
-75 accepted literature values from 2 paper(s) (experimental 56, model 14, unspecified 5); 0 calculated phase diagram(s).
+74 accepted literature values from 1 paper(s) (experimental 56, model 13, unspecified 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-PT-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-PT-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-PT-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-PT-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-PT-SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 56 |
-| model | 14 |
+| model | 13 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 63 |
 | phase equilibrium | 5 |
-| formation | 4 |
+| formation | 3 |
 | heat capacity / entropy / enthalpy | 3 |
 
 ## Invariant reactions (literature)
@@ -99,11 +99,10 @@ Table: Invariant reactions reported in the literature for the Au–Pt–Sn syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Au–Pt–Sn system (3)
+Table: Enthalpies of formation, Au–Pt–Sn system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -15.69 kJ/mol (basis unstated) | 78 | model |  |  | [2] Hu 2022; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | p. 4; `ORC-ZBM64AUPWR` | “In order to compare the accuracy of two results, Dong et al \[13\] took BCT-type Sn as the reference state and the experimental value of AuSn at 78K was set to -15.69 kJ mol-1 but there was still a certain deviation from the calculated value of -18.77 kJ mol-1.” |
 | Au1.17Pt1.82Sn4 |  | -40.11 kJ/mol-atom | 298.15 | experimental |  |  | [1] Grolier 2008; _cites Torgersen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2900887-2) | Table VI, p. 13, row 3; `ORC-LFQXWOBTIC.055362` |  |
 | AuPt2Sn4 |  | -44 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Grolier 2008 | Table VI, p. 13, row 4; `ORC-5MONUPBGIV.3fd000` |  |
 
@@ -144,7 +143,6 @@ Table: Heat capacity / entropy / enthalpy, Au–Pt–Sn system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Vincent Grolier, Rainer Schmid-Fetzer, Experimental Study of Au-Pt-Sn Phase Equilibria and Thermodynamic Assessment of the Au-Pt and Au-Pt-Sn Systems, Journal of Elec Materi 37, 264-278 (2008). [doi:10.1007/s11664-007-0352-9](https://doi.org/10.1007/s11664-007-0352-9)
-2. Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022). [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f)
 
 ## Please cite
 

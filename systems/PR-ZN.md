@@ -1,10 +1,10 @@
 # Pr–Zn system
 
-> Pr–Zn system: 84 accepted literature values (invariant reaction 52, formation 17, phase transition 15) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pr–Zn system: 79 accepted literature values (invariant reaction 51, formation 17, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PR-ZN.html · Markdown: https://data.orchid-project.org/systems/PR-ZN.md
 
-84 accepted literature values from 2 paper(s) (experimental 48, model 36); 2 calculated phase diagram(s).
+79 accepted literature values from 2 paper(s) (experimental 43, model 36); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PR-ZN.json) · [CSV](https://data.orchid-project.org/systems/PR-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PR-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PR-ZN/PrZn-08Hua.json) · [phases (16)](https://data.orchid-project.org/phases/pages/PR-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PR-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PR-ZN.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 48 |
+| experimental | 43 |
 | model | 36 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 52 |
-| phase transition | 15 |
+| invariant reaction | 51 |
+| phase transition | 11 |
 | formation | 17 |
 
 ## Calculated phase diagrams
@@ -96,7 +96,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pr–Zn system (52)
+Table: Invariant reactions reported in the literature for the Pr–Zn system (51)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -140,7 +140,6 @@ Table: Invariant reactions reported in the literature for the Pr–Zn system (52
 | 849.15 | eutectic: L ↔ bcc_A2 + PrZn | L: Zn 0.225; PrZn: Zn 0.5 | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 1; `ORC-HI2SQZXMOD` |  |
 | 849 | eutectic: L -> bcc + PrZn | L: Zn 0.228; PrZn: Pr 0.5, Zn 0.5 | model | [1] Huang 2008 | Table 3, p. 4, row 3; `ORC-4C5Y3QD6XQ` |  |
 | 849 | eutectic: L -> bcc + PrZn | L: Zn 0.225; PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 2; `ORC-5RYGX4DHNI` |  |
-| 849 | eutectic |  | experimental | [1] Huang 2008 | p. 1; `ORC-64GDQTO6E6` | “They found three eutectics, five peritectics, one eutectoid reactions and the maximum solid solubility of Zn in bcc A2(␤Pr) to be 11 at.% Zn at the eutectic temperature of 849 K in this system.” |
 | 845.15 | eutectic: L ↔ bcc_A2 + PrZn | L: Zn 0.217; bcc_A2: Zn 0.125; PrZn: Zn 0.5 | model | [2] Wang 2008 | Table 7, p. 6, row 3; `ORC-QKRZRCJGSF` |  |
 | 843.15 | eutectic: L ↔ bcc_A2 + PrZn | L: Zn 0.215; bcc_A2: Zn 0.14; PrZn: Zn 0.5 | experimental | [2] Wang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 7, p. 6, row 2; `ORC-I56SII6BO5` |  |
 | 843 | eutectic: L -> bcc + PrZn | L: Zn 0.215; PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 3, p. 4, row 1; `ORC-WFG74RC5J3` |  |
@@ -151,11 +150,11 @@ Table: Invariant reactions reported in the literature for the Pr–Zn system (52
 | 823.15 | eutectoid: dhcp + PrZn ↔ bcc_A2 | dhcp: Zn 0.02; PrZn: Zn 0.5; bcc_A2: Zn 0.11 | experimental | [2] Wang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 7, p. 6, row 19; `ORC-TPK3WLSEFZ` |  |
 | 823 | eutectoid: Bcc -> dhcp + PrZn | PrZn: Pr 0.5, Zn 0.5 | experimental | [1] Huang 2008; _cites Saccone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901378-5) | Table 3, p. 4, row 4; `ORC-TL2FYL52JX` |  |
 | 693 | eutectic: L -> hcp + PrZn11 | L: Zn 0.01; PrZn11: Pr 0.083333, Zn 0.916667 | model | [1] Huang 2008 | Table 3, p. 4, row 31; `ORC-I3E3VOOZH2` |  |
-| 693 | L -> hcp + PrZn11 | PrZn11: Pr 0.083333, Zn 0.916667 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 30; `ORC-LB63FDPLA7` |  |
+| 693 | eutectic: L -> hcp + PrZn11 | PrZn11: Pr 0.083333, Zn 0.916667 | experimental | [1] Huang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 3, p. 4, row 30; `ORC-LB63FDPLA7` |  |
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (11)
 
 Table: Phase transition, Pr–Zn system
 
@@ -163,17 +162,13 @@ Table: Phase transition, Pr–Zn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 823.15 K | 823.15 | polymorphic: βPrZn2 ↔ αPrZn2; _βPrZn2: Zn 0.666667; αPrZn2: Zn 0.666667_ | experimental | [2] Wang 2008; _cites Mason 1970_ [doi](https://doi.org/10.1007/bf02643424) | Table 7, p. 6, row 21; `ORC-CXTQX3Z5IX` |  |
 | Phase transition | 823.15 K | 823.15 | polymorphic: βPrZn2 ↔ αPrZn2; _βPrZn2: Zn 0.666667; αPrZn2: Zn 0.666667_ | model | [2] Wang 2008 | Table 7, p. 6, row 22; `ORC-YJ53O2UBAD` |  |
-| Phase transition | 1048 K | 1048 |  | experimental | [1] Huang 2008 | p. 1; `ORC-HP2BXOC7ND` | “Pr2 Zn17 transforms from low-temperature hexagonal structure (Th2 Ni17 -type) to high-temperature Rhombohedral structure (Th2 Zn17 -type) at 1048 K.” |
 | Phase transition | 1048.15 K | 1048.15 | polymorphic: βPr2Zn17 ↔ αPr2Zn17; _βPr2Zn17: Zn 0.894737; αPr2Zn17: Zn 0.894737_ | model | [2] Wang 2008 | Table 7, p. 6, row 24; `ORC-K77XSEQKHQ` |  |
 | Phase transition | 1048.15 K | 1048.15 | polymorphic: βPr2Zn17 ↔ αPr2Zn17; _βPr2Zn17: Zn 0.894737; αPr2Zn17: Zn 0.894737_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 23; `ORC-MFCL33QTHM` |  |
-| Phase transition | 1155 K | 1155 | congruent transformation | experimental | [1] Huang 2008 | p. 1; `ORC-OOMHBWGTCP.2d6b5e` | “Among them, PrZn, PrZn2 and Pr2 Zn17 melt congruently at 1155, 1171 and 1251 K, respectively, and the rest of them melt incongruently.” |
 | Phase transition | 1155.15 K | 1155.15 | congruent melting: L ↔ PrZn; _L: Zn 0.5; PrZn: Zn 0.5_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 25; `ORC-IVI3UN6VGC` |  |
 | Phase transition | 1157.15 K | 1157.15 | congruent melting: L ↔ PrZn; _L: Zn 0.5; PrZn: Zn 0.5_ | model | [2] Wang 2008 | Table 7, p. 6, row 27; `ORC-HAGQBA6PCX` |  |
-| Phase transition | 1171 K | 1171 | congruent transformation | experimental | [1] Huang 2008 | p. 1; `ORC-OOMHBWGTCP.725707` | “Among them, PrZn, PrZn2 and Pr2 Zn17 melt congruently at 1155, 1171 and 1251 K, respectively, and the rest of them melt incongruently.” |
 | Phase transition | 1171.15 K | 1171.15 | congruent melting: L ↔ PrZn2; _L: Zn 0.666667; PrZn2: Zn 0.666667_ | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 28; `ORC-6B244DF42I` |  |
 | Phase transition | 1171.15 K | 1171.15 | congruent melting: L ↔ PrZn2; _L: Zn 0.666667; PrZn2: Zn 0.666667_ | model | [2] Wang 2008 | Table 7, p. 6, row 29; `ORC-SASJYJ5N4H` |  |
 | Phase transition | 1173.15 K | 1173.15 | congruent melting: L ↔ PrZn; _L: Zn 0.5; PrZn: Zn 0.5_ | experimental | [2] Wang 2008; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 7, p. 6, row 26; `ORC-VSTT5PC7JD` |  |
-| Phase transition | 1251 K | 1251 | congruent transformation | experimental | [1] Huang 2008 | p. 1; `ORC-OOMHBWGTCP.fa4d14` | “Among them, PrZn, PrZn2 and Pr2 Zn17 melt congruently at 1155, 1171 and 1251 K, respectively, and the rest of them melt incongruently.” |
 | Phase transition | 1251.15 K | 1251.15 | congruent melting: L ↔ Pr2Zn17 | experimental | [2] Wang 2008; _cites Johnson 1970_ [doi](https://doi.org/10.1007/bf02811772) | Table 7, p. 6, row 30; `ORC-AUIPFCPW33` |  |
 | Phase transition | 1251.15 K | 1251.15 | congruent melting: L ↔ Pr2Zn17 | model | [2] Wang 2008 | Table 7, p. 6, row 31; `ORC-YHJQOKMQWY` |  |
 

@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of Be5Zr
 | -33.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -28.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -28.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -32.3 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -32.3 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

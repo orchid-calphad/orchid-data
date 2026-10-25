@@ -33,8 +33,8 @@ Table: Uncertainty budget of the literature values of CoGa3
 | -29 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -29 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -28.666 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -32.4 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -25.9 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -32.4 | kJ/mol-atom |  | 5.000e-5 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -25.9 | kJ/mol-atom |  | 5.000e-5 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

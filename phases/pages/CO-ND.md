@@ -13,7 +13,7 @@ Table: Phases of the Co–Nd system (16)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-co-nd-bcc-a2); _phase:co-nd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1127.95–2499.2 K, x(Nd) 0.99995–1 | 2 | 1 |
-| [CO17ND2](#phase-co-nd-co17nd2); _phase:co-nd:co17nd2_ | Th2Zn17 · hR19 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1578.98 K, x(Nd) 0.10526–0.10526 | 7 | 1 |
+| [CO17ND2](#phase-co-nd-co17nd2); _phase:co-nd:co17nd2_ | Th2Zn17 · hR19 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1578.98 K, x(Nd) 0.10526–0.10526 | 8 | 1 |
 | [CO19ND5](#phase-co-nd-co19nd5); _phase:co-nd:co19nd5_ | Ce5Co19 · hR24 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1424.57 K, x(Nd) 0.20833–0.20833 | 5 | 1 |
 | [CO2ND_C15](#phase-co-nd-co2nd-c15); _phase:co-nd:co2nd-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1322.68 K, x(Nd) 0.33333–0.33333 | 5 | 1 |
 | [CO2ND5](#phase-co-nd-co2nd5); _phase:co-nd:co2nd5_ | Mn5C2 · mC28 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–869.26 K, x(Nd) 0.71429–0.71429 | 4 | 1 |
@@ -66,7 +66,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Co 0.8947, Nd 0.1053
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1578.98 K, x(Nd) 0.10526–0.10526
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-nd:co17nd2)
 
 Names (3): _corpus: _corpus:phase:co-nd:co17nd2  

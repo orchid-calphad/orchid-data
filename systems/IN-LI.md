@@ -1,10 +1,10 @@
 # In–Li system
 
-> In–Li system: 26 accepted literature values (invariant reaction 20, phase transition 5, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Li system: 22 accepted literature values (invariant reaction 20, phase transition 1, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-LI.html · Markdown: https://data.orchid-project.org/systems/IN-LI.md
 
-26 accepted literature values from 1 paper(s) (experimental 17, model 9); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+22 accepted literature values from 1 paper(s) (experimental 14, model 8); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-LI.json) · [CSV](https://data.orchid-project.org/systems/IN-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-LI/InLi-20Zho.json) · [phases (11)](https://data.orchid-project.org/phases/pages/IN-LI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-LI.html) · [Markdown](https://data.orchid-project.org/systems/IN-LI.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 9 |
+| experimental | 14 |
+| model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 20 |
-| phase transition | 5 |
+| phase transition | 1 |
 | phase equilibrium | 1 |
 
 ## Calculated phase diagrams
@@ -62,14 +62,14 @@ Table: Invariant reactions reported in the literature for the In–Li system (20
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 907 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 4; `ORC-NGTPWY4BLH` |  |
-| 903 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | Table 3, p. 6, row 8; `ORC-2ZQOBBWMEX` |  |
-| 903 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Schneider 1956_ [doi](https://doi.org/10.1002/zaac.19562860302) | Table 3, p. 6, row 7; `ORC-QRJDFLJGAT` |  |
-| 902 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | Table 3, p. 6, row 6; `ORC-PVNEWIJO5Q` |  |
-| 898 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 9; `ORC-QIJBBXO653` |  |
-| 898 | Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | Table 3, p. 6, row 5; `ORC-TOBI3JYBHT` |  |
-| 733 | InLi ⇄ InLi2 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 12; `ORC-E3JVL55ZWT` |  |
-| 732 | InLi ⇄ InLi2 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 13; `ORC-OWJCNHTUB6` |  |
+| 907 | congruent melting: Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 4; `ORC-NGTPWY4BLH` |  |
+| 903 | congruent melting: Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | Table 3, p. 6, row 8; `ORC-2ZQOBBWMEX` |  |
+| 903 | congruent melting: Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Schneider 1956_ [doi](https://doi.org/10.1002/zaac.19562860302) | Table 3, p. 6, row 7; `ORC-QRJDFLJGAT` |  |
+| 902 | congruent melting: Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | Table 3, p. 6, row 6; `ORC-PVNEWIJO5Q` |  |
+| 898 | congruent melting: Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 9; `ORC-QIJBBXO653` |  |
+| 898 | congruent melting: Liquid ⇄ InLi | Liquid: In 0.5, Li 0.5; InLi: In 0.5, Li 0.5 | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | Table 3, p. 6, row 5; `ORC-TOBI3JYBHT` |  |
+| 733 | polymorphic: InLi ⇄ InLi2 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 12; `ORC-E3JVL55ZWT` |  |
+| 732 | polymorphic: InLi ⇄ InLi2 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 13; `ORC-OWJCNHTUB6` |  |
 | 673 | InLi+Liquid ⇄ In3Li13 | InLi: In 0.5, Li 0.5; In3Li13: In 0.1875, Li 0.8125 | experimental | [1] Gierlotka 2022; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02663671) | Table 3, p. 6, row 15; `ORC-UR6VAJUZPH` |  |
 | 668 | InLi+Liquid ⇄ In3Li13 | InLi: In 0.5, Li 0.5; In3Li13: In 0.1875, Li 0.8125 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 16; `ORC-DII2PGJLAM` |  |
 | 647 | InLi ⇄ InLi2+In3Li13 | InLi: In 0.5, Li 0.5; InLi2: In 0.333333, Li 0.666667; In3Li13: In 0.1875, Li 0.8125 | model | [1] Gierlotka 2022 | Table 3, p. 6, row 14; `ORC-C76UQYNDSS` |  |
@@ -85,17 +85,13 @@ Table: Invariant reactions reported in the literature for the In–Li system (20
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (1)
 
 Table: Phase transition, In–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 680 K | 680 | other | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | p. 5; `ORC-CVTO4MM5IF.2cecb8` | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
-| Phase transition | 730 K | 730 | other | experimental | [1] Gierlotka 2022; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | p. 5; `ORC-CVTO4MM5IF.5cd7bc` | “For example, the liquidus line determined for the concentration xLi equal to 0.2 mole fraction varies from 680 K to 730 K, according to Lamprecht and Crowther \[7\] and Thummel and Klemm \[9\], respectively.” |
-| Phase transition | 898 K | 898 | congruent transformation | model | [1] Gierlotka 2022 | p. 6; `ORC-HEH5U24BBZ` | “The calculated congruent melting occurs at the temperature 898 K and the composition equals 0.544 mole fraction of Li.” |
 | Phase transition | 898 K | 898 | congruent transformation | experimental | [1] Gierlotka 2022; _cites Grube 1935_ | p. 1; `ORC-XY7TDUFYJV` | “Grube and Wolf \[6\] measured the congruent melting temperature of the InLi phase at 898 K and determined the liquidus line as well.” |
-| Phase transition | 902 K | 902 |  | experimental | [1] Gierlotka 2022; _cites Lamprecht 1969_ | p. 1; `ORC-QRTYAFMNDB` | “Based on the experimental results, they concluded that, in the binary In - Li system, InLi and InLi4 phases exist, and also that the melting temperature of the InLi phase equals 902 K.” |
 
 ### Phase equilibrium (1)
 

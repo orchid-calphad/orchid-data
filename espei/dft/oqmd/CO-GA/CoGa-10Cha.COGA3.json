@@ -87,14 +87,14 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-GA",
-     "n": 119,
+     "n": 118,
      "sigma_robust_kJ": 5.102,
      "bias_median_kJ_not_applied": -0.486,
      "ci95_sigma_robust_kJ_full_stratum": [
-      3.88,
-      6.002
+      3.941,
+      6.129
      ],
-     "n_full_stratum": 125
+     "n_full_stratum": 124
     },
     "weight_used": 0.098001,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -114,7 +114,7 @@
      "sigma_effective": 5102.0,
      "method_class": "dft_oqmd",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 119,
+     "method_n_pairs": 118,
      "method_entry": "dft/CALIBRATION.json#lso/oqmd|polymorph_ambiguous|magnetic_3d|CO-GA"
     }
    }

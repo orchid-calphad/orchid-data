@@ -1,10 +1,10 @@
 # Ge–Mn system
 
-> Ge–Mn system: 63 accepted literature values (invariant reaction 48, phase transition 15) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Mn system: 44 accepted literature values (invariant reaction 44) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-MN.html · Markdown: https://data.orchid-project.org/systems/GE-MN.md
 
-63 accepted literature values from 1 paper(s) (experimental 48, model 15); 2 calculated phase diagram(s).
+44 accepted literature values from 1 paper(s) (experimental 29, model 15); 2 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-MN.json) · [CSV](https://data.orchid-project.org/systems/GE-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-MN/GeMn-14Ber.json) · [phases (14)](https://data.orchid-project.org/phases/pages/GE-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-MN.html) · [Markdown](https://data.orchid-project.org/systems/GE-MN.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 48 |
+| experimental | 29 |
 | model | 15 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 48 |
-| phase transition | 15 |
+| invariant reaction | 44 |
 
 ## Calculated phase diagrams
 
@@ -77,82 +76,54 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Mn system (48)
+Table: Invariant reactions reported in the literature for the Ge–Mn system (44)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1435 | Liquid + BCC_A2 = FCC_A1 | Liquid: Mn 0.91; BCC_A2: Mn 0.97; FCC_A1: Mn 0.93 | experimental | [1] Berche 2014; _cites Zwicker 1951_ | Table 2, p. 3, row 43; `ORC-CPX4THTQS5` |  |
 | 1414 | Liquid + BCC_A2 = FCC_A1 | Liquid: Mn 0.925; BCC_A2: Mn 0.969; FCC_A1: Mn 0.964 | model | [1] Berche 2014 | Table 2, p. 3, row 44; `ORC-DSECU4XVY2` |  |
-| 1239 | Liquid = Mn5Ge3 | Liquid: Mn 0.625; Mn5Ge3: Mn 0.625 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 10; `ORC-DUH4CCQXAL` |  |
-| 1238 | Liquid = Mn2Ge | Liquid: Mn 0.666; Mn2Ge: Mn 0.666 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 15; `ORC-RHMYF72DD2` |  |
-| 1235 | Liquid = Mn5Ge3 | Liquid: Mn 0.625; Mn5Ge3: Mn 0.625 | model | [1] Berche 2014 | Table 2, p. 3, row 11; `ORC-5BHUGYHJJ5` |  |
-| 1234 | Liquid = Mn2Ge | Liquid: Mn 0.663; Mn2Ge: Mn 0.663 | model | [1] Berche 2014 | Table 2, p. 3, row 16; `ORC-KE65FGXUTM` |  |
+| 1239 | congruent melting: Liquid = Mn5Ge3 | Liquid: Mn 0.625; Mn5Ge3: Mn 0.625 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 10; `ORC-DUH4CCQXAL` |  |
+| 1238 | congruent melting: Liquid = Mn2Ge | Liquid: Mn 0.666; Mn2Ge: Mn 0.666 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 15; `ORC-RHMYF72DD2` |  |
+| 1235 | congruent melting: Liquid = Mn5Ge3 | Liquid: Mn 0.625; Mn5Ge3: Mn 0.625 | model | [1] Berche 2014 | Table 2, p. 3, row 11; `ORC-5BHUGYHJJ5` |  |
+| 1234 | congruent melting: Liquid = Mn2Ge | Liquid: Mn 0.663; Mn2Ge: Mn 0.663 | model | [1] Berche 2014 | Table 2, p. 3, row 16; `ORC-KE65FGXUTM` |  |
 | 1229 | Liquid = Mn5Ge3 + Mn2Ge | Liquid: Mn 0.648; Mn5Ge3: Mn 0.625; Mn2Ge: Mn 0.661 | model | [1] Berche 2014 | Table 2, p. 3, row 14; `ORC-SKDHAA3JGQ` |  |
-| 1226 | Liquid = Mn5Ge2 | Liquid: Mn 0.715; Mn5Ge2: Mn 0.715 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 25; `ORC-JO43LTKLYY` |  |
-| 1223 | Liquid = Mn5Ge2 | Liquid: Ge 0.285714, Mn 0.714286; Mn5Ge2: Ge 0.285714, Mn 0.714286 | experimental | [1] Berche 2014; _cites Gupta 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990030-5) | Table 2, p. 3, row 26; `ORC-IASTXVHNPR` |  |
-| 1220 | Liquid = Mn5Ge2 | Liquid: Mn 0.718; Mn5Ge2: Mn 0.718 | model | [1] Berche 2014 | Table 2, p. 3, row 27; `ORC-QLONLEYCDR` |  |
+| 1226 | congruent melting: Liquid = Mn5Ge2 | Liquid: Mn 0.715; Mn5Ge2: Mn 0.715 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 25; `ORC-JO43LTKLYY` |  |
+| 1223 | congruent melting: Liquid = Mn5Ge2 | Liquid: Ge 0.285714, Mn 0.714286; Mn5Ge2: Ge 0.285714, Mn 0.714286 | experimental | [1] Berche 2014; _cites Gupta 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990030-5) | Table 2, p. 3, row 26; `ORC-IASTXVHNPR` |  |
+| 1220 | congruent melting: Liquid = Mn5Ge2 | Liquid: Mn 0.718; Mn5Ge2: Mn 0.718 | model | [1] Berche 2014 | Table 2, p. 3, row 27; `ORC-QLONLEYCDR` |  |
 | 1219 | Liquid = Mn5Ge3 + Mn2Ge | Liquid: Mn 0.644; Mn5Ge3: Mn 0.628; Mn2Ge: Mn 0.655 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 13; `ORC-UVNJBOVBJF` |  |
 | 1213 | Liquid = Mn2Ge + Mn5Ge2 | Liquid: Mn 0.699; Mn2Ge: Mn 0.675; Mn5Ge2: Mn 0.711 | model | [1] Berche 2014 | Table 2, p. 3, row 21; `ORC-FL7IVWVK2Y` |  |
 | 1208 | Liquid = Mn2Ge + Mn5Ge2 | Liquid: Mn 0.695; Mn2Ge: Mn 0.68; Mn5Ge2: Mn 0.706 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 19; `ORC-VO3SXYKKFF` |  |
-| 1205 | Liquid = Mn5Ge3 | Liquid: Mn 0.625; Mn5Ge3: Mn 0.625 | experimental | [1] Berche 2014; _cites Zwicker 1949_ | Table 2, p. 3, row 9; `ORC-327FEW4LHJ` |  |
-| 1203 | Liquid = Mn3Ge | Liquid: Mn 0.777; Mn3Ge: Mn 0.777 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 35; `ORC-B5EXN3KKMV` |  |
-| 1203 | eutectic |  | experimental | [1] Berche 2014; _cites Gupta 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990030-5) | p. 2; `ORC-VKNIWQ6HO3.183e74` | “This phase melts congruently at 1203 K \[7\] or decomposes via an eutectic reaction at 1173 K \[8\] or around 1203 K \[13\].” |
+| 1205 | congruent melting: Liquid = Mn5Ge3 | Liquid: Mn 0.625; Mn5Ge3: Mn 0.625 | experimental | [1] Berche 2014; _cites Zwicker 1949_ | Table 2, p. 3, row 9; `ORC-327FEW4LHJ` |  |
+| 1203 | congruent melting: Liquid = Mn3Ge | Liquid: Mn 0.777; Mn3Ge: Mn 0.777 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 35; `ORC-B5EXN3KKMV` |  |
 | 1198 | Liquid = Mn2Ge + Mn5Ge2 | Mn2Ge: Ge 0.333333, Mn 0.666667; Mn5Ge2: Ge 0.285714, Mn 0.714286 | experimental | [1] Berche 2014; _cites Gupta 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990030-5) | Table 2, p. 3, row 20; `ORC-IEF3PPIMCJ` |  |
-| 1198 | Liquid = Mn3Ge | Liquid: Mn 0.768; Mn3Ge: Mn 0.768 | model | [1] Berche 2014 | Table 2, p. 3, row 36; `ORC-V36WSMA2GJ` |  |
+| 1198 | congruent melting: Liquid = Mn3Ge | Liquid: Mn 0.768; Mn3Ge: Mn 0.768 | model | [1] Berche 2014 | Table 2, p. 3, row 36; `ORC-V36WSMA2GJ` |  |
 | 1195 | Liquid = Mn5Ge2 + Mn3Ge | Mn5Ge2: Ge 0.285714, Mn 0.714286; Mn3Ge: Ge 0.25, Mn 0.75 | experimental | [1] Berche 2014; _cites Gupta 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990030-5) | Table 2, p. 3, row 33; `ORC-5HDCE7KGPD` |  |
 | 1194 | Liquid = Mn5Ge2 + Mn3Ge | Liquid: Mn 0.753; Mn5Ge2: Mn 0.734; Mn3Ge: Mn 0.762 | model | [1] Berche 2014 | Table 2, p. 3, row 34; `ORC-GLO3CTAX3V` |  |
-| 1193 | Liquid = Mn5Ge2 | Liquid: Ge 0.285714, Mn 0.714286; Mn5Ge2: Ge 0.285714, Mn 0.714286 | experimental | [1] Berche 2014; _cites Zwicker 1949_ | Table 2, p. 3, row 24; `ORC-7MNNYOYXKM` |  |
+| 1193 | congruent melting: Liquid = Mn5Ge2 | Liquid: Ge 0.285714, Mn 0.714286; Mn5Ge2: Ge 0.285714, Mn 0.714286 | experimental | [1] Berche 2014; _cites Zwicker 1949_ | Table 2, p. 3, row 24; `ORC-7MNNYOYXKM` |  |
 | 1189 | Liquid = Mn3Ge + FCC_A1 | Liquid: Mn 0.776; Mn3Ge: Mn 0.772 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 40; `ORC-F6MUAAPX5J` |  |
 | 1187 | Liquid = Mn3Ge + FCC_A1 | Liquid: Mn 0.793; Mn3Ge: Mn 0.783; FCC_A1: Mn 0.904 | model | [1] Berche 2014 | Table 2, p. 3, row 42; `ORC-T73SJPYKCM` |  |
 | 1185 | Liquid = Mn5Ge2 + Mn3Ge | Liquid: Mn 0.76; Mn5Ge2: Mn 0.765; Mn3Ge: Mn 0.732 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 32; `ORC-YFEGPALMZT` |  |
 | 1182 | Liquid = Mn3Ge + FCC_A1 | Mn3Ge: Ge 0.25, Mn 0.75 | experimental | [1] Berche 2014; _cites Zwicker 1951_ | Table 2, p. 3, row 41; `ORC-5HH5ZFRO3R` |  |
 | 1173 | Liquid = Mn3Ge + FCC_A1 | Mn3Ge: Ge 0.25, Mn 0.75 | experimental | [1] Berche 2014; _cites Zwicker 1949_ | Table 2, p. 3, row 39; `ORC-LSMYSD7HEU` |  |
-| 1173 | eutectic |  | experimental | [1] Berche 2014; _cites Zwicker 1949_ | p. 2; `ORC-VKNIWQ6HO3.f42623` | “This phase melts congruently at 1203 K \[7\] or decomposes via an eutectic reaction at 1173 K \[8\] or around 1203 K \[13\].” |
 | 1170 | Liquid = Mn5Ge3 + Mn2Ge | Mn5Ge3: Ge 0.375, Mn 0.625; Mn2Ge: Ge 0.333333, Mn 0.666667 | experimental | [1] Berche 2014; _cites Zwicker 1949_ | Table 2, p. 3, row 12; `ORC-CPENXN4TFN` |  |
 | 1170 | Liquid = Mn5Ge2 + Mn3Ge | Mn5Ge2: Ge 0.285714, Mn 0.714286; Mn3Ge: Ge 0.25, Mn 0.75 | experimental | [1] Berche 2014; _cites Zwicker 1949_ | Table 2, p. 3, row 31; `ORC-DPFYY3H7UT` |  |
 | 1070 | Liquid + Mn5Ge3 = Mn11Ge8 | Liquid: Mn 0.485; Mn5Ge3: Mn 0.625; Mn11Ge8: Mn 0.579 | model | [1] Berche 2014 | Table 2, p. 3, row 8; `ORC-T4MHH4ETKL` |  |
 | 1069 | Liquid + Mn5Ge3 = Mn11Ge8 | Liquid: Mn 0.48; Mn5Ge3: Mn 0.625; Mn11Ge8: Mn 0.6 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 7; `ORC-FUQ66TNHXJ` |  |
-| 1069 | peritectic |  | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1; `ORC-X2Y7YKZ6KU.6acfa2` | “It decomposes via a peritectic transition into liquid and Mn5Ge3 at 1069 K \[7\] or 1018 K \[8\].” |
 | 1066 | Mn2Ge = Mn5Ge3 + Mn5Ge2 | Mn2Ge: Mn 0.67; Mn5Ge3: Mn 0.625; Mn5Ge2: Mn 0.711 | model | [1] Berche 2014 | Table 2, p. 3, row 18; `ORC-ZPTHYE4M32` |  |
 | 1063 | Mn2Ge = Mn5Ge3 + Mn5Ge2 | Mn2Ge: Mn 0.667; Mn5Ge3: Mn 0.628; Mn5Ge2: Mn 0.716 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 17; `ORC-HZS4I6O6FB` |  |
 | 1018 | Liquid + Mn5Ge3 = Mn11Ge8 | Liquid: Mn 0.495; Mn5Ge3: Mn 0.625; Mn11Ge8: Mn 0.6 | experimental | [1] Berche 2014; _cites Zwicker 1949_ | Table 2, p. 3, row 6; `ORC-V7LVLC5MRI` |  |
-| 1018 | peritectic |  | experimental | [1] Berche 2014; _cites Zwicker 1949_ | p. 1; `ORC-X2Y7YKZ6KU.007dfd` | “It decomposes via a peritectic transition into liquid and Mn5Ge3 at 1069 K \[7\] or 1018 K \[8\].” |
 | 1005 | Liquid = DIAMOND + Mn11Ge8 | Mn11Ge8: Mn 0.58 | experimental | [1] Berche 2014; _cites Laridjani 1970_ | Table 2, p. 3, row 4; `ORC-ZR6RNOD7QM` |  |
 | 993 | Liquid = DIAMOND + Mn11Ge8 | Liquid: Mn 0.43; DIAMOND: Mn 0; Mn11Ge8: Mn 0.6 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 3; `ORC-H6K6YJQ74V` |  |
 | 993 | Liquid = DIAMOND + Mn11Ge8 | Liquid: Mn 0.36; Mn11Ge8: Ge 0.421053, Mn 0.578947 | experimental | [1] Berche 2014; _cites Downing 1951_ [doi](https://doi.org/10.1021/ja01152a518) | Table 2, p. 3, row 2; `ORC-HDIHLT22IK` |  |
 | 991 | Liquid = DIAMOND + Mn11Ge8 | Liquid: Mn 0.416; DIAMOND: Mn 0; Mn11Ge8: Mn 0.579 | model | [1] Berche 2014 | Table 2, p. 3, row 5; `ORC-G3TKVFYJJ6` |  |
 | 970 | Liquid = DIAMOND + Mn11Ge8 | Liquid: Mn 0.475; DIAMOND: Mn 0; Mn11Ge8: Mn 0.6 | experimental | [1] Berche 2014; _cites Zwicker 1949_ | Table 2, p. 3, row 1; `ORC-KHVJDKYZHR` |  |
 | 963 | Mn5Ge3 + Mn5Ge2 = LT_Mn5Ge2 | Mn5Ge3: Mn 0.628; Mn5Ge2: Mn 0.717; LT_Mn5Ge2: Mn 0.7 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 22; `ORC-SBMOALENUK` |  |
-| 953 | Mn3Ge = LT_Mn3Ge | Mn3Ge: Mn 0.777; LT_Mn3Ge: Mn 0.777 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 37; `ORC-5FTZXNPD54` |  |
+| 953 | polymorphic: Mn3Ge = LT_Mn3Ge | Mn3Ge: Mn 0.777; LT_Mn3Ge: Mn 0.777 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 37; `ORC-5FTZXNPD54` |  |
 | 951 | Mn3Ge = LT_Mn3Ge + FCC_A1 | Mn3Ge: Mn 0.758; LT_Mn3Ge: Mn 0.75; FCC_A1: Mn 0.89 | model | [1] Berche 2014 | Table 2, p. 3, row 38; `ORC-ACTCQONERS` |  |
 | 934 | Mn5Ge3 + Mn5Ge2 = LT_Mn5Ge2 | Mn5Ge3: Mn 0.625; Mn5Ge2: Mn 0.714; LT_Mn5Ge2: Mn 0.714 | model | [1] Berche 2014 | Table 2, p. 3, row 23; `ORC-AIL2TPMT7T` |  |
 | 910 | Mn5Ge2 = LT_Mn5Ge2 + LT_Mn3Ge | Mn5Ge2: Mn 0.717; LT_Mn5Ge2: Mn 0.714; LT_Mn3Ge: Mn 0.75 | model | [1] Berche 2014 | Table 2, p. 3, row 30; `ORC-NJLZXQKTTT` |  |
 | 903 | Mn5Ge2 = LT_Mn5Ge2 + LT_Mn3Ge | Mn5Ge2: Ge 0.285714, Mn 0.714286; LT_Mn5Ge2: Ge 0.285714, Mn 0.714286; LT_Mn3Ge: Ge 0.25, Mn 0.75 | experimental | [1] Berche 2014; _cites Zwicker 1949_ | Table 2, p. 3, row 28; `ORC-RJNOQN3QZY` |  |
 | 893 | Mn5Ge2 = LT_Mn5Ge2 + LT_Mn3Ge | Mn5Ge2: Mn 0.718; LT_Mn5Ge2: Mn 0.7; LT_Mn3Ge: Mn 0.765 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | Table 2, p. 3, row 29; `ORC-2VQZAK7HZA` |  |
-
-## Other properties
-
-### Phase transition (15)
-
-Table: Phase transition, Ge–Mn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 300 K | 300 | magnetic | experimental | [1] Berche 2014; _cites Arras 2011_ [doi](https://doi.org/10.1103/physrevb.83.174103) | p. 1; `ORC-BQC3WOY6ZI` | “Its Curie temperature is of 300 K according to Arras \[11\].” |
-| Phase transition | 365 K | 365 | magnetic | experimental | [1] Berche 2014; _cites Arras 2011_ [doi](https://doi.org/10.1103/physrevb.83.174103) | p. 2; `ORC-3RRZDSHWTA` | “Its Curie temperature is measured at 365 K according to Arras \[11\].” |
-| Phase transition | 773 K | 773 |  | experimental | [1] Berche 2014; _cites Ohoyama 1961_ [doi](https://doi.org/10.1143/jpsj.16.1995) | p. 2; `ORC-KEIWDNE62H.3f8bf0` | “This phase transforms into Mn3Ge at 953 K \[7\], at 903 K \[8\], around 773 K \[18\] or higher than 850 K \[15\].” |
-| Phase transition | 903 K | 903 |  | experimental | [1] Berche 2014; _cites Zwicker 1949_ | p. 2; `ORC-KEIWDNE62H.5b55ad` | “This phase transforms into Mn3Ge at 953 K \[7\], at 903 K \[8\], around 773 K \[18\] or higher than 850 K \[15\].” |
-| Phase transition | 953 K | 953 |  | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 2; `ORC-KEIWDNE62H.bd0e7c` | “This phase transforms into Mn3Ge at 953 K \[7\], at 903 K \[8\], around 773 K \[18\] or higher than 850 K \[15\].” |
-| Phase transition | 963 K | 963 | LT-Mn5Ge2 -> Mn5Ge2 + Mn5Ge3 | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1; `ORC-SK5ORHD7AS` | “It transforms into Mn5Ge2 and Mn5Ge3 at 963 K \[7\].” |
-| Phase transition | 1063 K | 1063 |  | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1; `ORC-NAHHPYSXJR` | “On cooling, this phase decomposes into Mn5Ge3 and Mn5Ge2 at 1063 K \[7\].” |
-| Phase transition | 1193 K | 1193 | congruent transformation | experimental | [1] Berche 2014; _cites Zwicker 1949_ | p. 1; `ORC-Z4J6755HR7.f7da51` | “It melts congruently at 1226 K \[7\], 1223 K \[13\] or 1193 K \[8\].” |
-| Phase transition | 1203 K | 1203 | congruent transformation | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 2; `ORC-VKNIWQ6HO3.7c7849` | “This phase melts congruently at 1203 K \[7\] or decomposes via an eutectic reaction at 1173 K \[8\] or around 1203 K \[13\].” |
-| Phase transition | 1205 K | 1205 | congruent transformation | experimental | [1] Berche 2014; _cites Zwicker 1949_ | p. 1; `ORC-VJKKJETF43.88b1f1` | “It melts congruently at 1239 K \[7\] or 1205 K \[8\].” |
-| Phase transition | 1219 K | 1219 | congruent transformation | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1; `ORC-7R4OPAIMFP` | “It melts congruently for xMn 1⁄4 0.666 at 1219 K \[7\].” |
-| Phase transition | 1223 K | 1223 | congruent transformation | experimental | [1] Berche 2014; _cites Gupta 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990030-5) | p. 1; `ORC-Z4J6755HR7.d883ae` | “It melts congruently at 1226 K \[7\], 1223 K \[13\] or 1193 K \[8\].” |
-| Phase transition | 1226 K | 1226 | congruent transformation | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1; `ORC-Z4J6755HR7.14a5e8` | “It melts congruently at 1226 K \[7\], 1223 K \[13\] or 1193 K \[8\].” |
-| Phase transition | 1230 K | 1230 |  | experimental | [1] Berche 2014; _cites Downing 1951_ [doi](https://doi.org/10.1021/ja01152a518) | p. 2; `ORC-3IE2W7PBOA` | “They use 99.9% germanium which freezing point is measured at 1230 K.” |
-| Phase transition | 1239 K | 1239 | congruent transformation | experimental | [1] Berche 2014; _cites Wachtel 1969_ | p. 1; `ORC-VJKKJETF43.cad46b` | “It melts congruently at 1239 K \[7\] or 1205 K \[8\].” |
 
 ## Sources
 

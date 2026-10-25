@@ -40,9 +40,9 @@ Table: Uncertainty budget of the literature values of Ce16Ru9
 | -25.897 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -25.7403 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -21.4321 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -31.908 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -29.329 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -7.9048 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -31.908 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -29.329 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -7.9048 | kJ/mol-atom |  | 5.000e-5 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

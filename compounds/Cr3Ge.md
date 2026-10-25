@@ -27,7 +27,7 @@ Table: Uncertainty budget of the literature values of Cr3Ge
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -19.3 | kJ/mol-atom | 2.5 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -19.3 | kJ/mol-atom | 2.5 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -19.12 | kJ/mol-atom |  | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -19.3 | unspecified | 2.5 | 0.05 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 2.5 |
 | -15.33 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

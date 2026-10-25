@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Be3Ti.html · Markdown: https://data.orchid-project.org/compounds/Be3Ti.md
 
-7 accepted literature formation-enthalpy value(s) (model 7); Materials Project -19.76 kJ/mol-atom (mp-aaackuiz); OQMD -20.401 kJ/mol-atom (oqmd-28705).
+7 accepted literature formation-enthalpy value(s) (model 5, DFT 2); Materials Project -19.76 kJ/mol-atom (mp-aaackuiz); OQMD -20.401 kJ/mol-atom (oqmd-28705).
 
 Systems: [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html)
 
@@ -16,11 +16,11 @@ Table: Enthalpy of formation of Be3Ti reported in the literature (7)
 |---:|---|---:|---|---|---|---|---|---|
 | -29.7 kJ/mol-atom | TiBe3 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 10; `ORC-UMUT4EYFY5.43a00e` |  |
 | -28 kJ/mol-atom | TiBe3 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 9; `ORC-XWTF427LW7.8a872d` |  |
-| -27.9 kJ/mol-atom | TiBe3 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 9; `ORC-XWTF427LW7.54859a` |  |
 | -27.9 kJ/mol-atom | TiBe3 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 9; `ORC-XWTF427LW7.62e239` |  |
 | -26 kJ/mol-atom | TiBe3 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 11; `ORC-PGDWINWFAG.ae3662` |  |
-| -12.8 kJ/mol-atom | TiBe3(D03) |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 5; `ORC-MRO5QWSMU4.d830da` |  |
 | -12.8 kJ/mol-atom | TiBe3(D03) | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 5; `ORC-MRO5QWSMU4.ef1a01` |  |
+| -27.9 kJ/mol-atom | TiBe3 |  | DFT |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 9; `ORC-XWTF427LW7.54859a` |  |
+| -12.8 kJ/mol-atom | TiBe3(D03) |  | DFT |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 5; `ORC-MRO5QWSMU4.d830da` |  |
 
 ### Uncertainty budget
 
@@ -33,10 +33,10 @@ Table: Uncertainty budget of the literature values of Be3Ti
 | -29.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -28 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -27.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -27.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -26 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -12.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -12.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -27.9 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -12.8 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

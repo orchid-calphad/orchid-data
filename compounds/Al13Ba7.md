@@ -30,11 +30,11 @@ Table: Uncertainty budget of the literature values of Al13Ba7
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -45.93 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -45.93 | kJ/mol-atom |  | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -45.93 | kJ/mol-atom |  | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -53.874 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -51.72 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -23.896 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -21.795 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -21.795 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

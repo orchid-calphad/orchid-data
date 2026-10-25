@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of Cr5Ge3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -15.7 | kJ/mol-atom | 1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -12.3 | kJ/mol-atom | 2.5 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -15.7 | kJ/mol-atom | 1 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -12.3 | kJ/mol-atom | 2.5 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -16.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -12.3 | unspecified | 2.5 | 0.05 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 2.5 |
 

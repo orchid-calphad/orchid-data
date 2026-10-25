@@ -30,11 +30,11 @@ Table: Uncertainty budget of the literature values of Cs2Mo2O7
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -209.309 | kJ/mol-atom | 1.355 | 0.004545 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -209.309 | kJ/mol-atom | 1.355 | 0.004545 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -209.309 | kJ/mol-atom | 0.1909 | 0.004545 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -209.258 | kJ/mol-atom | 0.2155 | 4.545e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -209.258 | kJ/mol-atom | 1.37 | 4.545e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -209.236 | kJ/mol-atom | 1.409 | 0.004545 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -209.258 | kJ/mol-atom | 1.37 | 4.545e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -209.236 | kJ/mol-atom | 1.409 | 0.004545 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -209.236 | kJ/mol-atom | 0.4273 | 0.004545 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -209.291 | kJ/mol-atom |  | 0.004545 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 

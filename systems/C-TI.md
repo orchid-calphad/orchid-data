@@ -1,10 +1,10 @@
 # C–Ti system
 
-> C–Ti system: 96 accepted literature values (crystal structure 33, formation 32, invariant reaction 20, phase transition 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Ti system: 86 accepted literature values (crystal structure 33, formation 32, invariant reaction 13, heat capacity / entropy / enthalpy 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-TI.html · Markdown: https://data.orchid-project.org/systems/C-TI.md
 
-96 accepted literature values from 5 paper(s) (experimental 59, model 33, unspecified 4); 0 calculated phase diagram(s).
+86 accepted literature values from 5 paper(s) (experimental 49, model 37); 0 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-TI.json) · [CSV](https://data.orchid-project.org/systems/C-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-TI) · [phases (6)](https://data.orchid-project.org/phases/pages/C-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-TI.html) · [Markdown](https://data.orchid-project.org/systems/C-TI.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 59 |
-| model | 33 |
-| unspecified | 4 |
+| experimental | 49 |
+| model | 37 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 20 |
-| phase transition | 6 |
+| invariant reaction | 13 |
+| phase transition | 3 |
 | formation | 32 |
 | heat capacity / entropy / enthalpy | 5 |
 | crystal structure | 33 |
@@ -30,30 +29,23 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–Ti system (20)
+Table: Invariant reactions reported in the literature for the C–Ti system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3338 | congruent melting: fcc-A1 -> Liquid | fcc-A1: Ti 0.554; Liquid: Ti 0.554 | unspecified | [1] Hämäläinen 1998 | Table I, p. 151, row 4; `ORC-MAFFMTWR5D` |  |
+| 3338 | congruent melting: fcc-A1 -> Liquid | fcc-A1: Ti 0.554; Liquid: Ti 0.554 | model | [1] (ed.) 1998 | Table I, p. 151, row 4; `ORC-MAFFMTWR5D` |  |
 | 3049.6 | L \<-> TiC + C | L: C 0.6643; TiC: C 0.5; C: C 1 | model | [2] Seifert 1996 | Table 4, p. 5, row 3; `ORC-YOU3SG2JNO` |  |
-| 3049 | eutectic |  | experimental | [2] Seifert 1996; _cites Rudy 1965_ [doi](https://doi.org/10.21236/ada470307) | p. 2; `ORC-B2ZQYZOHD4.c8fa15` | “According to \[65Rud\], two eutectic reactions appear in the system, L TiC + C at 3049 K and L ~ \[3Ti + TiC at 1923 K.” |
 | 3049 | L \<-> TiC + C | L: C 0.63; TiC: C 0.5; C: C 1 | experimental | [2] Seifert 1996; _cites Rudy 1965_ [doi](https://doi.org/10.21236/ada470307) | Table 4, p. 5, row 4; `ORC-HGKMVLKQBQ` |  |
-| 3044 | eutectic: Liquid -> graphite + fcc-A1 | Liquid: Ti 0.349; graphite: Ti 0; fcc-A1: Ti 0.515 | unspecified | [1] Hämäläinen 1998 | Table I, p. 151, row 3; `ORC-3NGJYMQHUW` |  |
-| 2023 | peritectic |  | experimental | [2] Seifert 1996 | p. 3; `ORC-J65ZF2OK2V.369733` | “The authors gave a peritectic reaction at 2023 K and a peritectoid reaction at 1193 K.” |
-| 1925.2 | eutectic: Liquid -> fcc-A1\* + bcc-A2 | Liquid: Ti 0.968; fcc-A1\*: Ti 0.687; bcc-A2: Ti 0.974 | unspecified | [1] Hämäläinen 1998 | Table I, p. 151, row 1; `ORC-LTV5XEYYCW` |  |
-| 1923 | eutectic |  | experimental | [2] Seifert 1996; _cites Rudy 1965_ [doi](https://doi.org/10.21236/ada470307) | p. 2; `ORC-B2ZQYZOHD4.186331` | “According to \[65Rud\], two eutectic reactions appear in the system, L TiC + C at 3049 K and L ~ \[3Ti + TiC at 1923 K.” |
+| 3044 | eutectic: Liquid -> graphite + fcc-A1 | Liquid: Ti 0.349; graphite: Ti 0; fcc-A1: Ti 0.515 | model | [1] (ed.) 1998 | Table I, p. 151, row 3; `ORC-3NGJYMQHUW` |  |
+| 1925.2 | eutectic: Liquid -> fcc-A1\* + bcc-A2 | Liquid: Ti 0.968; fcc-A1\*: Ti 0.687; bcc-A2: Ti 0.974 | model | [1] (ed.) 1998 | Table I, p. 151, row 1; `ORC-LTV5XEYYCW` |  |
 | 1923 | L \<-> βTi + TiC | L: C 0.015; TiC: C 0.5 | experimental | [2] Seifert 1996; _cites Rudy 1965_ [doi](https://doi.org/10.21236/ada470307) | Table 4, p. 5, row 6; `ORC-FLWMW4YFQV` |  |
 | 1919.7 | L \<-> βTi + TiC | L: C 0.0132; TiC: C 0.5 | model | [2] Seifert 1996 | Table 4, p. 5, row 5; `ORC-LGEEV6AZ2K` |  |
-| 1918 | eutectic |  | experimental | [2] Seifert 1996; _cites ref. 59Bic_ | p. 3; `ORC-ERIM4UWQOE` | “The eutectic point was at 4.5 at.% C and 1918 K.” |
 | 1918 | L \<-> βTi + TiC | L: C 0.0439; TiC: C 0.5 | experimental | [2] Seifert 1996; _cites ref. 59Bic_ | Table 4, p. 5, row 7; `ORC-XFCRTT2N24` |  |
-| 1893 | eutectic |  | experimental | [2] Seifert 1996; _cites Bhatt 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990590-x) | p. 3; `ORC-7OPVI3P33K` | “\[87Bha\] found the eutectic temperature on the Ti-rich side of the phase diagram to be 1893 K; that is 30 K lower than reported by \[65Rud\].” |
 | 1205.15 | peritectoid: βTi + TiC1-x -> αTi | βTi: C 0.004; TiC1-x: C 0.344; αTi: C 0.021 | model | [3] Duschanek 1995; _cites Jonsson 1992_ | Table 1, p. 3, row 17; `ORC-GNTG4NFQCF` |  |
 | 1193.2 | βTi + TiC \<-> αTi | βTi: C 0.0061; TiC: C 0.5 | model | [2] Seifert 1996 | Table 4, p. 5, row 8; `ORC-CKOZ5KIT76` |  |
 | 1193 | βTi + TiC \<-> αTi | TiC: C 0.5 | experimental | [2] Seifert 1996; _cites EC 1956_ | Table 4, p. 5, row 10; `ORC-7QR5RO4BKA` |  |
 | 1193 | βTi + TiC \<-> αTi | βTi: C 0.006; TiC: C 0.5 | experimental | [2] Seifert 1996; _cites Cadoff 1953_ | Table 4, p. 5, row 9; `ORC-APGUNF2YPZ` |  |
-| 1193 | peritectoid |  | experimental | [2] Seifert 1996 | p. 3; `ORC-J65ZF2OK2V.f7e809` | “The authors gave a peritectic reaction at 2023 K and a peritectoid reaction at 1193 K.” |
-| 1193 | peritectoid |  | experimental | [2] Seifert 1996; _cites Cadoff 1953_ | p. 2; `ORC-KMXWJ6JMOC` | “At 1193 K, the peritectoid reaction \[3Ti + TiC ~ ~Ti occurs \[53Cad, 56Wag\].” |
-| 1190 | peritectoid: fcc-A1\* + bcc-A2 -> hcp-A3 | fcc-A1\*: Ti 0.655; bcc-A2: Ti 0.996; hcp-A3: Ti 0.984 | unspecified | [1] Hämäläinen 1998 | Table I, p. 151, row 2; `ORC-LHSSMVAIO6` |  |
+| 1190 | peritectoid: fcc-A1\* + bcc-A2 -> hcp-A3 | fcc-A1\*: Ti 0.655; bcc-A2: Ti 0.996; hcp-A3: Ti 0.984 | model | [1] (ed.) 1998 | Table I, p. 151, row 2; `ORC-LHSSMVAIO6` |  |
 
 ## Formation enthalpies
 
@@ -98,15 +90,12 @@ Table: Enthalpies of formation, C–Ti system (32)
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (3)
 
 Table: Phase transition, C–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1155 K | 1155 | polymorphic | experimental | [2] Seifert 1996 | p. 2; `ORC-JBM7EOQL2R` | “Pure titanium exists in two allotropic modifications, ctTi with close-packed hexagonal (cph) structure is stable up to 1155 K.” |
-| Phase transition | 1940 K | 1940 |  | experimental | [2] Seifert 1996; _cites ref. 59Bic_ | p. 3; `ORC-A7YT5JKTEE` | “Melting experiments with the same equipment gave the Ti melting point at 1940 K.” |
-| Phase transition | 1943 K | 1943 |  | experimental | [2] Seifert 1996 | p. 2; `ORC-Q6KNKXUGPY` | “The melting point of Ti is 1943 K.” |
 | Phase transition | 3338.9 K | 3338.9 | L \<-> TiC; _L: C 0.4453; TiC: C 0.5_ | model | [2] Seifert 1996 | Table 4, p. 5, row 1; `ORC-AZR5KXNHEB` |  |
 | Phase transition | 3340 K | 3340 | L \<-> TiC; _L: C 0.44; TiC: C 0.5_ | experimental | [2] Seifert 1996; _cites Rudy 1965_ [doi](https://doi.org/10.21236/ada470307) | Table 4, p. 5, row 2; `ORC-TQINZCOLAA` |  |
 | Phase transition | 3340 K | 3340 | congruent transformation | experimental | [2] Seifert 1996 | p. 2; `ORC-3CJDBD4MG6` | “TiC shows a large homogeneity region and melts congruently at 3340 K with a C content of 44 at.%.” |
@@ -167,7 +156,7 @@ Table: Crystal structure, C–Ti system
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. H. J. Seifert, H. L. Lukas, G. Petzow, Thermodynamic optimization of the Ti-C system, JPE 17, 24-35 (1996). [doi:10.1007/bf02648366](https://doi.org/10.1007/bf02648366)
 3. H. Duschanek, P. Rogl, H. L. Lukas, A critical assessment and thermodynamic calculation of the boron-carbon-titanium (B-C-Ti) ternary system, JPE 16, 46-60 (1995). [doi:10.1007/bf02646248](https://doi.org/10.1007/bf02646248)
 4. Karin Frisk, A revised thermodynamic description of the Ti–C system, Calphad 27, 367-373 (2003). [doi:10.1016/j.calphad.2004.01.004](https://doi.org/10.1016/j.calphad.2004.01.004)

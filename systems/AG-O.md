@@ -1,10 +1,10 @@
 # Ag–O system
 
-> Ag–O system: 63 accepted literature values (model expression 19, invariant reaction 16, formation 11, heat capacity / entropy / enthalpy 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–O system: 58 accepted literature values (model expression 19, invariant reaction 16, formation 9, heat capacity / entropy / enthalpy 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-O.html · Markdown: https://data.orchid-project.org/systems/AG-O.md
 
-63 accepted literature values from 1 paper(s) (experimental 38, model 25); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+58 accepted literature values from 1 paper(s) (experimental 35, model 23); 1 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-O.json) · [CSV](https://data.orchid-project.org/systems/AG-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-O/AgO-97Ass-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AG-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-O.html) · [Markdown](https://data.orchid-project.org/systems/AG-O.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
-| model | 25 |
+| experimental | 35 |
+| model | 23 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
-| phase transition | 5 |
-| formation | 11 |
+| phase transition | 2 |
+| formation | 9 |
 | heat capacity / entropy / enthalpy | 7 |
 | activity / EMF / Gibbs energy | 5 |
 | model expression | 19 |
@@ -71,12 +71,10 @@ Table: Invariant reactions reported in the literature for the Ag–O system (16)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ag–O system (11)
+Table: Enthalpies of formation, Ag–O system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -29.99 kJ/mol (basis unstated) | 446 | model |  |  | [1] Assal 1997 | p. 7; `ORC-OM53WRWA4X.6e0d5f` | “Also, by calculation, we find that DHf is equal to -29.99 kJ/mol at T 4 446 K and -25.81 kJ/mol at T 4 773 K.” |
-| — |  | -25.81 kJ/mol (basis unstated) | 773 | model |  |  | [1] Assal 1997 | p. 7; `ORC-OM53WRWA4X.dfe677` | “Also, by calculation, we find that DHf is equal to -29.99 kJ/mol at T 4 446 K and -25.81 kJ/mol at T 4 773 K.” |
 | Ag2O |  | -31.1 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Assal 1997; _cites Kubaschewski 1993_ | Table V, p. 6, row 4; `ORC-YKHQTP4PHB` |  |
 | Ag2O |  | -30.68 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Assal 1997 | Table V, p. 6, row 6; `ORC-B54EZ7YTTE` |  |
 | Ag2O |  | -30.54 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Assal 1997; _cites Pitzer 1937_ | Table V, p. 6, row 3; `ORC-GTVWBTH2DK` |  |
@@ -89,17 +87,14 @@ Table: Enthalpies of formation, Ag–O system (11)
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (2)
 
 Table: Phase transition, Ag–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 420 K | 420 | other | experimental | [1] Assal 1997 | p. 1; `ORC-F2RW6T4YUS` | “In air, it decomposes to silver and oxygen gas at 420 K.” |
 | Phase transition | 1060 K | 1060 | Ag2O | model | [1] Assal 1997 | p. 6; `ORC-2IP5JVUFM4` | “Below the calculated melting temperature of Ag2O (Tm 4 1060 K), stoichiometric Ag2O is described by SER °GAg2O - 2HSER = A + BT + CT ln T + DT 2 + FT -1 Ag - HO” |
 | Phase transition | 1060.2 K | 1060.2 | L -> Ag2O; _L: O 0.3333_ | model | [1] Assal 1997 | Table III, p. 3, row 4; `ORC-MJNFPKLVYA` |  |
-| Phase transition | 1224 K | 1224 | other | experimental | [1] Assal 1997 | p. 1; `ORC-QF6R25XCOC.b6606f` | “His results show that the liquidus temperature decreases from 1234 K in an oxygenfree atmosphere to 1224 K in air and to 1211 K in 0.99 bar O2 (9.9 × 104 Pa).” |
-| Phase transition | 1234 K | 1234 | other | experimental | [1] Assal 1997 | p. 1; `ORC-QF6R25XCOC.c086a6` | “His results show that the liquidus temperature decreases from 1234 K in an oxygenfree atmosphere to 1224 K in air and to 1211 K in 0.99 bar O2 (9.9 × 104 Pa).” |
 
 ### Heat capacity / entropy / enthalpy (7)
 

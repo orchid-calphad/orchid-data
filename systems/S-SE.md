@@ -1,10 +1,10 @@
 # S–Se system
 
-> S–Se system: 31 accepted literature values (phase transition 9, other property 8, invariant reaction 8, crystal structure 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> S–Se system: 14 accepted literature values (other property 8, crystal structure 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/S-SE.html · Markdown: https://data.orchid-project.org/systems/S-SE.md
 
-31 accepted literature values from 1 paper(s) (experimental 12, model 6, DFT 13); 1 calculated phase diagram(s).
+14 accepted literature values from 1 paper(s) (experimental 1, DFT 13); 1 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/S-SE.json) · [CSV](https://data.orchid-project.org/systems/S-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#S-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#S-SE/SSe-17Gua.json) · [phases (6)](https://data.orchid-project.org/phases/pages/S-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/S-SE.html) · [Markdown](https://data.orchid-project.org/systems/S-SE.md)
 
@@ -12,16 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 6 |
+| experimental | 1 |
 | DFT | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
-| phase transition | 9 |
 | crystal structure | 6 |
 | other property | 8 |
 
@@ -44,38 +41,7 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/S/S-SE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/S/S-SE.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the S–Se system (8)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 433.16 | peritectic |  | experimental | [1] Guan 2017; _cites Ringer 1902_ [doi](https://doi.org/10.1002/zaac.19020320126) | p. 8; `ORC-YQGKNNEHH3.a7c528` | “The peritectic reaction temperature predicted by this assessment is 433.1 K, which is in excellent agreement with the value observed by Ringer \[13\] (433.16 K).” |
-| 433.15 | peritectic: L + d = X |  | experimental | [1] Guan 2017; _cites Ringer 1902_ [doi](https://doi.org/10.1002/zaac.19020320126) | p. 2; `ORC-STEJX32JGI` | “For the peritectic reaction (L þ d 1⁄4 X), Ringer \[13\] reported a temperature of 160 C and compositions 73.5, 83.0 and 87.0 at.% Se for the L, X and d phases, respectively.” |
-| 433.1 | peritectic |  | model | [1] Guan 2017 | p. 8; `ORC-YQGKNNEHH3.a4eb7c` | “The peritectic reaction temperature predicted by this assessment is 433.1 K, which is in excellent agreement with the value observed by Ringer \[13\] (433.16 K).” |
-| 378.16 | eutectic |  | experimental | [1] Guan 2017; _cites Ringer 1902_ [doi](https://doi.org/10.1002/zaac.19020320126) | p. 8; `ORC-QNTP5J2DCI.746736` | “The predicted eutectic reaction temperature, 372.3 K, is slightly lower than the values reported by Ringer \[13\] (378.16 K) and by Boctor and Kullerud \[16\] (375.16 ± 1 K).” |
-| 378.15 | eutectic: L = b + X |  | experimental | [1] Guan 2017; _cites Ringer 1902_ [doi](https://doi.org/10.1002/zaac.19020320126) | p. 2; `ORC-PTVSZCBIOQ` | “Ringer \[13\] also investigated the eutectic reaction (L 1⁄4 b þ X) and reported an invariant temperature of 105 C and compositions of 29.0, 40.0 and 48.7 at.% Se of b, L and X, respectively.” |
-| 372.3 | eutectic |  | model | [1] Guan 2017 | p. 8; `ORC-QNTP5J2DCI.e4d5e0` | “The predicted eutectic reaction temperature, 372.3 K, is slightly lower than the values reported by Ringer \[13\] (378.16 K) and by Boctor and Kullerud \[16\] (375.16 ± 1 K).” |
-| 348.16 | eutectoid |  | experimental | [1] Guan 2017; _cites Ringer 1902_ [doi](https://doi.org/10.1002/zaac.19020320126) | p. 8; `ORC-GCXF3ESFBA.a97d14` | “The predicted eutectoid reaction temperature, 337.7 K, is lower than that observed by Ringer \[13\] (348.16 K).” |
-| 337.7 | eutectoid |  | model | [1] Guan 2017 | p. 8; `ORC-GCXF3ESFBA.545422` | “The predicted eutectoid reaction temperature, 337.7 K, is lower than that observed by Ringer \[13\] (348.16 K).” |
-
 ## Other properties
-
-### Phase transition (9)
-
-Table: Phase transition, S–Se system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 198 K | 198 | other | experimental | [1] Guan 2017; _cites Goldsmith 1977_ [doi](https://doi.org/10.1021/ja00465a029) | p. 2; `ORC-BQTO6ULQEI` | “the monoclinic b phase (ordered \[17\] below 198 K with space group P21 and disordered \[17,18\] above 198 K with space group P2/c) on the S-rich side, the hexagonal d phase with space group P3121 on the Se-rich side, and an intermediate X phase with an unknown structure.” |
-| Phase transition | 198 K | 198 | other | experimental | [1] Guan 2017; _cites Goldsmith 1977_ [doi](https://doi.org/10.1021/ja00465a029) | p. 3; `ORC-EDJE6B2EYC` | “It was reported that there is an order-disorder transition at about 198 K \[17,18,46\].” |
-| Phase transition | 348.15 K | 348.15 | b = a + X | experimental | [1] Guan 2017; _cites Ringer 1902_ [doi](https://doi.org/10.1002/zaac.19020320126) | p. 2; `ORC-545MH7DCDQ` | “In the case of the eutectoid reaction (b 1⁄4 a þ X), Ringer \[13\] reported a temperature of 75 C and compositions of 12.0, 16.5, and 50.0 at.% Se of a, b and X, respectively, whereas the results by” |
-| Phase transition | 369 K | 369 |  | experimental | [1] Guan 2017 | p. 1; `ORC-M5OECXK3MG.a9708c` | “The prediction of the transition temperature between a-S and b-S (428 K) is close to the experimental value (369 K).” |
-| Phase transition | 369 K | 369 |  | experimental | [1] Guan 2017; _cites Hampton 1974_ [doi](https://doi.org/10.1080/14786437408222069) | p. 5; `ORC-PVII4LMCGV.947d2a` | “The a-S/b-S transition temperature is predicted to be 428 K, which is reasonably close to the experimental value, 369 K \[74\].” |
-| Phase transition | 388 K | 388 |  | experimental | [1] Guan 2017 | p. 5; `ORC-VROSSTO3NX` | “The agreement for TEC \[73\] in the low-temperature range is also good, but deviates in the high-temperature range (above 300 K, note that the melting temperature of sulfur is 388 K).” |
-| Phase transition | 428 K | 428 |  | model | [1] Guan 2017 | p. 1; `ORC-M5OECXK3MG.b431b3` | “The prediction of the transition temperature between a-S and b-S (428 K) is close to the experimental value (369 K).” |
-| Phase transition | 428 K | 428 |  | model | [1] Guan 2017 | p. 5; `ORC-PVII4LMCGV.41633a` | “The a-S/b-S transition temperature is predicted to be 428 K, which is reasonably close to the experimental value, 369 K \[74\].” |
-| Phase transition | 1029 K | 1029 | congruent transformation | model | [1] Guan 2017 | p. 8; `ORC-KC43T7GXU5` | “The present assessment indicates a congruent volatilization temperature at 1029 K and composition 76 at.% Se at 1 bar, which is suitable for experimental verification as well as evaluating the accuracy of the present description of the gas phase.” |
 
 ### Crystal structure (6)
 

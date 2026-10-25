@@ -148,12 +148,10 @@ Table: Heat capacity / entropy / enthalpy, Ca–O–Si system
 | Heat content; _printed: HT-H298K_ | 108431 J mol-1 ± 3617.9 | 972.86 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 2; `ORC-BMBRKUTEX2.d863e6` |  |
 | Heat content; _printed: HT-H298K_ | 180037 J mol−1 K−1 ± 4109.9 | 972.95 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 3; `ORC-MYYX7E63YF.1e7051` |  |
 | Heat content; _printed: HT-H298K_ | 180037 J mol-1 K-1 ± 4109.9 | 972.95 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 3; `ORC-MYYX7E63YF.3fc5c0` |  |
-| Heat content; _printed: HT - H293.15_ | 28503.1 J mol^-1 ± 761 | 973.15 | wollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites H 1933_ | Table A.2, p. 13, row 17; `ORC-GMY76YUVXV` |  |
 | Heat content; _printed: HT-H298K_ | 123307 J mol^-1 ± 3251.5 | 1072.09 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 3; `ORC-IT6TAZ3EWE.ac8465` |  |
 | Heat content; _printed: HT-H298K_ | 123307 J mol-1 ± 3251.5 | 1072.09 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 3; `ORC-IT6TAZ3EWE.5027f8` |  |
 | Heat content; _printed: HT-H298K_ | 206086 J mol−1 K−1 ± 5517.3 | 1072.35 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 4; `ORC-U5RWJ64D7G.b5cc16` |  |
 | Heat content; _printed: HT-H298K_ | 206086 J mol-1 K-1 ± 5517.3 | 1072.35 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 4; `ORC-U5RWJ64D7G.9f0664` |  |
-| Heat content; _printed: HT - H273.15_ | 57803 J mol^-1 ± 2000 | 1152.4 | cyclowollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | unspecified | [1] Abdul 2023; _cites Richet 1991_ [doi](https://doi.org/10.1029/90jb02172) | Table A.2, p. 13, row 25; `ORC-O666O3ZHIX` |  |
 | Heat content; _printed: HT-H298K_ | 148802 J mol^-1 ± 3879.2 | 1171.39 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 4; `ORC-WFAGEJZWN4.e864e5` |  |
 | Heat content; _printed: HT-H298K_ | 148802 J mol-1 ± 3879.2 | 1171.39 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 4; `ORC-WFAGEJZWN4.37db15` |  |
 | Heat content; _printed: HT - H298.15_ | 148229 J mol^-1 ± 3574.7 | 1172.05 | rankinite-Ca3Si2O7; _alloy: O 0.583333, Si 0.166667_ | unspecified | [1] Abdul 2023 | Table A.2, p. 13, row 10; `ORC-RCPU7RZXHA` |  |
@@ -167,11 +165,13 @@ Table: Heat capacity / entropy / enthalpy, Ca–O–Si system
 | Heat content; _printed: HT-H298K_ | 293304 J mol-1 K-1 ± 7690.3 | 1370.85 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 7; `ORC-I7VLW5NRKT.745546` |  |
 | Heat content; _printed: HT-H298K_ | 187890 J mol^-1 ± 4479.1 | 1371.05 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 6; `ORC-TOX2L54ZAP.502275` |  |
 | Heat content; _printed: HT-H298K_ | 187890 J mol-1 ± 4479.1 | 1371.05 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 6; `ORC-TOX2L54ZAP.c19639` |  |
-| Heat content; _printed: HT - H273.15_ | 92588 J mol^-1 ± 2000 | 1454.4 | cyclowollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites Courtial 2000_ [doi](https://doi.org/10.1007/s002690050253) | Table A.2, p. 13, row 26; `ORC-QZETOYXSHJ` |  |
 | Heat content; _printed: HT-H298K_ | 212360 J mol^-1 ± 6444.6 | 1471.05 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 7; `ORC-5AEJOMPQVX.c7a7b8` |  |
 | Heat content; _printed: HT-H298K_ | 212360 J mol-1 ± 6444.6 | 1471.05 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 7; `ORC-5AEJOMPQVX.0ae1b9` |  |
 | Heat content; _printed: HT-H298K_ | 322841 J mol−1 K−1 ± 6913.1 | 1471.65 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 8; `ORC-ZY2AV66DJM.c1b04e` |  |
 | Heat content; _printed: HT-H298K_ | 322841 J mol-1 K-1 ± 6913.1 | 1471.65 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 8; `ORC-ZY2AV66DJM.e98f82` |  |
+| heat content from base t; _printed: HT - H293.15_ | 28503.1 J mol^-1 ± 761 | 973.15 | wollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites H 1933_ | Table A.2, p. 13, row 17; `ORC-GMY76YUVXV` |  |
+| heat content from base t; _printed: HT - H273.15_ | 57803 J mol^-1 ± 2000 | 1152.4 | cyclowollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | unspecified | [1] Abdul 2023; _cites Richet 1991_ [doi](https://doi.org/10.1029/90jb02172) | Table A.2, p. 13, row 25; `ORC-O666O3ZHIX` |  |
+| heat content from base t; _printed: HT - H273.15_ | 92588 J mol^-1 ± 2000 | 1454.4 | cyclowollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites Courtial 2000_ [doi](https://doi.org/10.1007/s002690050253) | Table A.2, p. 13, row 26; `ORC-QZETOYXSHJ` |  |
 
 ### Activity / EMF / Gibbs energy (4)
 

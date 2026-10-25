@@ -1,10 +1,10 @@
 # Hf–Ni–Ti system
 
-> Hf–Ni–Ti system: 17 accepted literature values (invariant reaction 16, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Ni–Ti system: 16 accepted literature values (invariant reaction 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-NI-TI.html · Markdown: https://data.orchid-project.org/systems/HF-NI-TI.md
 
-17 accepted literature values from 1 paper(s) (model 17); 0 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (model 16); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NI-TI.json) · [CSV](https://data.orchid-project.org/systems/HF-NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NI-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NI-TI.html) · [Markdown](https://data.orchid-project.org/systems/HF-NI-TI.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 17 |
+| model | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
-| phase transition | 1 |
 
 ## Invariant reactions (literature)
 
@@ -43,16 +42,6 @@ Table: Invariant reactions reported in the literature for the Hf–Ni–Ti syste
 | 1155.75 | quasi-peritectic: Liquid + beta-HfNi -> TiNi + Hf7Ni10 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 14; `ORC-RBKMXKUU66` |  |
 | 1150.85 | eutectic: Liquid -> TiNi + Hf7Ni10 + TiNi3 |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 15; `ORC-F7ARJHGHAB` |  |
 | 1088.45 | eutectic: Liquid -> bcc-(Hf, Ti) + beta-HfNi + Ti2Ni |  | model | [1] Cacciamani 2011 | Table 13, p. 15, row 16; `ORC-4L34KX4QW2` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Hf–Ni–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1523.15 K | 1523.15 | other | model | [1] Cacciamani 2011 | p. 15; `ORC-DAFSPDSJVU` | “No CALPHAD assessment is available in the literature, the system has been assessed in this work with the only condition, taken from \[86\], that the liquidus in the HfNi-TiNi section has a minimum of about 1250 °C and 30 at.% Ti.” |
 
 ## Sources
 

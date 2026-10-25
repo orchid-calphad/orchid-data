@@ -110,7 +110,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:c14-laves)
 
 Names (10): _corpus: _corpus:phase:mg-zn:c14-laves  
-_paper: _paper:10.1016/j.calphad.2010.07.010:MgZn2, paper:10.1016/j.calphad.2013.07.007:Laves_C14, paper:10.1016/s0364-5916(98)00037-6:Laves-C14, paper:10.1016/s0364-5916(98)00037-6:MgZn2  
+_paper: _paper:10.1016/j.calphad.2010.07.010:MgZn2, paper:10.1016/j.calphad.2013.07.007:Laves_C14, paper:sha256-85fd53a1a176b694:Laves-C14, paper:sha256-85fd53a1a176b694:MgZn2  
 _tdb: _tdb:MgZn-10Niu.tdb:C14_LAVES, tdb:MgZn-14Yua.tdb:C14_LAVES, tdb:MgZn-20Hay.tdb:C14_LAVES, tdb:MgZn-22Li.tdb:C14_LAVES, tdb:MgZn-98Lia-LB.tdb:C14_LAVES  
 
 
@@ -151,7 +151,7 @@ _tdb: _tdb:MgZn-10Niu.tdb:C14_LAVES, tdb:MgZn-14Yua.tdb:C14_LAVES, tdb:MgZn-20Ha
 65: CONST C14_LAVES : MG ZN% : MG% ZN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -163,8 +163,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase_
 - [doi:10.2320/jinstmet.JBW201905](https://doi.org/10.2320/jinstmet.JBW201905) N. Hayashi, K. Nakashima, M. Enoki, H. Ohtani, J. Jpn. Inst. Met. Mater., 84, 141-50(2020).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Mg–Zn)
 
@@ -246,7 +244,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:hcp-a3)
 
 Names (12): _corpus: _corpus:phase:mg-zn:hcp-a3  
-_paper: _paper:10.1016/j.calphad.2010.07.010:hcp_A3, paper:10.1016/j.calphad.2013.07.007:(Mg), paper:10.1016/j.calphad.2013.07.007:(Zn), paper:10.1016/j.jallcom.2010.08.124:hcp(Mg), paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:10.1016/j.calphad.2010.07.010:hcp_A3, paper:10.1016/j.calphad.2013.07.007:(Mg), paper:10.1016/j.calphad.2013.07.007:(Zn), paper:10.1016/j.jallcom.2010.08.124:hcp(Mg), paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:MgZn-10Niu.tdb:HCP_A3, tdb:MgZn-14Yua.tdb:HCP_A3, tdb:MgZn-20Hay.tdb:HCP_A3, tdb:MgZn-22Li.tdb:HCP_A3, tdb:MgZn-92Aga.tdb:HCP_A3, tdb:MgZn-98Lia-LB.tdb:HCP_A3  
 
 
@@ -294,7 +292,7 @@ _tdb: _tdb:MgZn-10Niu.tdb:HCP_A3, tdb:MgZn-14Yua.tdb:HCP_A3, tdb:MgZn-20Hay.tdb:
 44: CONST HCP_A3 : MG% ZN : VA% : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2010.07.010](https://doi.org/10.1016/j.calphad.2010.07.010) Chunju Niu, Miao Liu, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic description on the miscibility gap of the Mg-based solid solution in the Mg–Zn, Mg–Nd and Mg–Zn–Nd systems, Calphad 34, 428-433 (2010).  
 _assessment that models this phase; reports values for this phase_
@@ -308,8 +306,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/jinstmet.JBW201905](https://doi.org/10.2320/jinstmet.JBW201905) N. Hayashi, K. Nakashima, M. Enoki, H. Ohtani, J. Jpn. Inst. Met. Mater., 84, 141-50(2020).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/j.jallcom.2010.08.124](https://doi.org/10.1016/j.jallcom.2010.08.124) F.G. Meng, J. Wang, L.B. Liu, Z.P. Jin, Thermodynamic modeling of the Mg–Sn–Zn ternary system, Journal of Alloys and Compounds 508, 570-581 (2010).  
 _reports values for this phase_
 
@@ -322,7 +318,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:liquid)
 
 Names (12): _corpus: _corpus:phase:mg-zn:liquid  
-_paper: _paper:10.1016/j.calphad.2010.07.010:Liquid, paper:10.1016/j.calphad.2013.07.007:L, paper:10.1016/j.jallcom.2010.08.124:L, paper:10.1016/s0364-5916(98)00037-6:Liquid, paper:10.2320/jinstmet.jbw201905:L  
+_paper: _paper:10.1016/j.calphad.2010.07.010:Liquid, paper:10.1016/j.calphad.2013.07.007:L, paper:10.1016/j.jallcom.2010.08.124:L, paper:10.2320/jinstmet.jbw201905:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:MgZn-10Niu.tdb:LIQUID, tdb:MgZn-14Yua.tdb:LIQUID, tdb:MgZn-20Hay.tdb:LIQUID, tdb:MgZn-22Li.tdb:LIQUID, tdb:MgZn-92Aga.tdb:LIQUID, tdb:MgZn-98Lia-LB.tdb:LIQUID  
 
 
@@ -370,7 +366,7 @@ _tdb: _tdb:MgZn-10Niu.tdb:LIQUID, tdb:MgZn-14Yua.tdb:LIQUID, tdb:MgZn-20Hay.tdb:
 29: CONST LIQUID:L : MG ZN : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -384,8 +380,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1992-830402](https://doi.org/10.1515/ijmr-1992-830402) R. Agarwal, S.G. Fries, H.L. Lukas, G. Petzow, F. Sommer, T.G. Chart, G. Effenberg, Z. Metallkd., 83, 216-23(1992).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/j.jallcom.2010.08.124](https://doi.org/10.1016/j.jallcom.2010.08.124) F.G. Meng, J. Wang, L.B. Liu, Z.P. Jin, Thermodynamic modeling of the Mg–Sn–Zn ternary system, Journal of Alloys and Compounds 508, 570-581 (2010).  
 _reports values for this phase_
 
@@ -401,7 +395,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:mg12zn13)
 
 Names (10): _corpus: _corpus:phase:mg-zn:mg12zn13  
-_paper: _paper:10.1016/j.calphad.2010.07.010:MgZn, paper:10.1016/j.calphad.2013.07.007:Mg12Zn13, paper:10.1016/s0364-5916(98)00037-6:MgZn, paper:10.2320/jinstmet.jbw201905:Mg12Zn13  
+_paper: _paper:10.1016/j.calphad.2010.07.010:MgZn, paper:10.1016/j.calphad.2013.07.007:Mg12Zn13, paper:10.2320/jinstmet.jbw201905:Mg12Zn13, paper:sha256-85fd53a1a176b694:MgZn  
 _tdb: _tdb:MgZn-10Niu.tdb:MG12ZN13, tdb:MgZn-14Yua.tdb:MG12ZN13, tdb:MgZn-20Hay.tdb:MG12ZN13, tdb:MgZn-22Li.tdb:MG12ZN13, tdb:MgZn-98Lia-LB.tdb:MG12ZN13  
 
 
@@ -442,7 +436,7 @@ _tdb: _tdb:MgZn-10Niu.tdb:MG12ZN13, tdb:MgZn-14Yua.tdb:MG12ZN13, tdb:MgZn-20Hay.
 55: CONST MG12ZN13 : MG : ZN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2010.07.010](https://doi.org/10.1016/j.calphad.2010.07.010) Chunju Niu, Miao Liu, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic description on the miscibility gap of the Mg-based solid solution in the Mg–Zn, Mg–Nd and Mg–Zn–Nd systems, Calphad 34, 428-433 (2010).  
 _assessment that models this phase; reports values for this phase_
@@ -454,8 +448,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2022.102479](https://doi.org/10.1016/j.calphad.2022.102479) X. Li, S. Liu, D. Huang, Y. Du, Calphad, 79, 102479(2022).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MG2ZN11_D8C (Mg–Zn)
 
@@ -470,7 +462,7 @@ _reports values for this phase_
 Names (12): _corpus: _corpus:phase:mg-zn:mg2zn11-d8c  
 _mp: _mp:mp-aaaabtoa  
 _oqmd: _oqmd:oqmd-17667  
-_paper: _paper:10.1016/j.calphad.2010.07.010:Mg2Zn11, paper:10.1016/j.calphad.2013.07.007:Mg2Zn11, paper:10.1016/s0364-5916(98)00037-6:Mg2Zn11  
+_paper: _paper:10.1016/j.calphad.2010.07.010:Mg2Zn11, paper:10.1016/j.calphad.2013.07.007:Mg2Zn11, paper:sha256-85fd53a1a176b694:Mg2Zn11  
 _tdb: _tdb:MgZn-10Niu.tdb:MG2ZN11_D8C, tdb:MgZn-14Yua.tdb:MG2ZN11_D8C, tdb:MgZn-20Hay.tdb:MG2ZN11_D8C, tdb:MgZn-22Li.tdb:MG2ZN11_D8C, tdb:MgZn-92Aga.tdb:MG2ZN11_D8C, tdb:MgZn-98Lia-LB.tdb:MG2ZN11_D8C  
 
 
@@ -518,7 +510,7 @@ _tdb: _tdb:MgZn-10Niu.tdb:MG2ZN11_D8C, tdb:MgZn-14Yua.tdb:MG2ZN11_D8C, tdb:MgZn-
 70: CONST MG2ZN11_D8C : MG : ZN : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.calphad.2010.07.010](https://doi.org/10.1016/j.calphad.2010.07.010) Chunju Niu, Miao Liu, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic description on the miscibility gap of the Mg-based solid solution in the Mg–Zn, Mg–Nd and Mg–Zn–Nd systems, Calphad 34, 428-433 (2010).  
 _assessment that models this phase; reports values for this phase_
@@ -532,8 +524,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/jinstmet.JBW201905](https://doi.org/10.2320/jinstmet.JBW201905) N. Hayashi, K. Nakashima, M. Enoki, H. Ohtani, J. Jpn. Inst. Met. Mater., 84, 141-50(2020).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MG2ZN3 (Mg–Zn)
 
@@ -547,7 +537,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:mg2zn3)
 
 Names (12): _corpus: _corpus:phase:mg-zn:mg2zn3  
-_paper: _paper:10.1016/j.actamat.2015.02.044:Mg2Zn3, paper:10.1016/j.calphad.2006.03.005:Mg2Zn3, paper:10.1016/j.calphad.2010.07.010:Mg2Zn3, paper:10.1016/j.calphad.2013.07.007:Mg2Zn3, paper:10.1016/s0364-5916(98)00037-6:Mg2Zn3  
+_paper: _paper:10.1016/j.actamat.2015.02.044:Mg2Zn3, paper:10.1016/j.calphad.2006.03.005:Mg2Zn3, paper:10.1016/j.calphad.2010.07.010:Mg2Zn3, paper:10.1016/j.calphad.2013.07.007:Mg2Zn3, paper:sha256-85fd53a1a176b694:Mg2Zn3  
 _tdb: _tdb:MgZn-10Niu.tdb:MG2ZN3, tdb:MgZn-14Yua.tdb:MG2ZN3, tdb:MgZn-20Hay.tdb:MG2ZN3, tdb:MgZn-22Li.tdb:MG2ZN3, tdb:MgZn-92Aga.tdb:MG2ZN3, tdb:MgZn-98Lia-LB.tdb:MG2ZN3  
 
 
@@ -595,7 +585,7 @@ _tdb: _tdb:MgZn-10Niu.tdb:MG2ZN3, tdb:MgZn-14Yua.tdb:MG2ZN3, tdb:MgZn-20Hay.tdb:
 60: CONST MG2ZN3 : MG : ZN : !
 ~~~~
 
-Example references (10 of 13; assessments first): 
+Example references (10 of 12; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -630,7 +620,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:mg51zn20)
 
 Names (10): _corpus: _corpus:phase:mg-zn:mg51zn20  
-_paper: _paper:10.1016/j.calphad.2010.07.010:Mg7Zn3, paper:10.1016/j.calphad.2013.07.007:Mg51Zn20, paper:10.1016/s0364-5916(98)00037-6:Mg51Zn20, paper:10.2320/jinstmet.jbw201905:Mg51Zn20  
+_paper: _paper:10.1016/j.calphad.2010.07.010:Mg7Zn3, paper:10.1016/j.calphad.2013.07.007:Mg51Zn20, paper:10.2320/jinstmet.jbw201905:Mg51Zn20, paper:sha256-85fd53a1a176b694:Mg51Zn20  
 _tdb: _tdb:MgZn-10Niu.tdb:MG51ZN20, tdb:MgZn-14Yua.tdb:MG51ZN20, tdb:MgZn-20Hay.tdb:MG51ZN20, tdb:MgZn-22Li.tdb:MG51ZN20, tdb:MgZn-98Lia-LB.tdb:MG51ZN20  
 
 
@@ -671,7 +661,7 @@ _tdb: _tdb:MgZn-10Niu.tdb:MG51ZN20, tdb:MgZn-14Yua.tdb:MG51ZN20, tdb:MgZn-20Hay.
 50: CONST MG51ZN20 : MG : ZN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2010.07.010](https://doi.org/10.1016/j.calphad.2010.07.010) Chunju Niu, Miao Liu, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic description on the miscibility gap of the Mg-based solid solution in the Mg–Zn, Mg–Nd and Mg–Zn–Nd systems, Calphad 34, 428-433 (2010).  
 _assessment that models this phase; reports values for this phase_
@@ -683,8 +673,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2022.102479](https://doi.org/10.1016/j.calphad.2022.102479) X. Li, S. Liu, D. Huang, Y. Du, Calphad, 79, 102479(2022).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MG7ZN3 (Mg–Zn)
 

@@ -1,10 +1,10 @@
 # B–Pr system
 
-> B–Pr system: 40 accepted literature values (invariant reaction 32, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Pr system: 39 accepted literature values (invariant reaction 31, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-PR.html · Markdown: https://data.orchid-project.org/systems/B-PR.md
 
-40 accepted literature values from 2 paper(s) (experimental 20, model 20); 0 calculated phase diagram(s).
+39 accepted literature values from 2 paper(s) (experimental 19, model 20); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-PR.json) · [CSV](https://data.orchid-project.org/systems/B-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-PR) · [phases (10)](https://data.orchid-project.org/phases/pages/B-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-PR.html) · [Markdown](https://data.orchid-project.org/systems/B-PR.md)
 
@@ -12,21 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 19 |
 | model | 20 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 32 |
+| invariant reaction | 31 |
 | phase transition | 8 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-PR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-PR.json) · [CALPHAD hull PrB-13Wan](https://data.orchid-project.org/hulls/calphad-sgte/B/B-PR--PrB-13Wan.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Pr system (32)
+Table: Invariant reactions reported in the literature for the B–Pr system (31)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -47,7 +47,6 @@ Table: Invariant reactions reported in the literature for the B–Pr system (32)
 | 2300 | eutectic: liq. -> PrB6 + rhombo(B) | liq.: B 0.978; PrB6: B 0.857143, Pr 0.142857 | model | [1] Chen 2020; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 4, p. 9, row 11; `ORC-BXHBHTFXXE` |  |
 | 2298.15 | eutectic: L↔B6Pr+(βB) | L: B 0.981; B6Pr: B 0.857; (βB): B 1 | experimental | [2] Wang 2013; _cites Moffatt 1976_ | Table 5, p. 5, row 18; `ORC-REWLYYEV54` |  |
 | 2298.15 | eutectic: L↔B6Pr+(βB) | B6Pr: B 0.857; (βB): B 1 | experimental | [2] Wang 2013; _cites Spear 1976_ | Table 5, p. 5, row 17; `ORC-RG3V7RJTT6` |  |
-| 2298 | eutectic: liq. → REB6 + rhombo(B) |  | experimental | [1] Chen 2020; _cites Spear 1977_ | p. 3; `ORC-5PJPP32MBH` | “The eutectic reaction temperature of liq. → REB6 + rhombo(B) (RE = La, Ce and Pr) was estimated to be 2298 K in Ref. \[32\], and the uncertainty of this reaction temperature might be even larger than 200 K.” |
 | 2298 | eutectic: liq. -> PrB6 + rhombo(B) | PrB6: B 0.857143, Pr 0.142857 | experimental | [1] Chen 2020; _cites Spear 1977_ | Table 4, p. 9, row 10; `ORC-Z65HQF6YWI` |  |
 | 2273.15 | peritectic: L+B4Pr↔B5Pr2 | L: B 0.66; B4Pr: B 0.807; B5Pr2: B 0.72 | experimental | [2] Wang 2013; _cites Spear 1976_ | Table 5, p. 5, row 9; `ORC-5FS3IHOPLO` |  |
 | 1187 | eutectic: liq. -> Pr2B5 + bcc(Pr) | liq.: B 0.01; Pr2B5: B 0.714286, Pr 0.285714 | model | [1] Chen 2020; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 4, p. 9, row 14; `ORC-XRVE2SWJGV` |  |

@@ -1,10 +1,10 @@
 # Ti–V system
 
-> Ti–V system: 14 accepted literature values (crystal structure 12, phase transition 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti–V system: 13 accepted literature values (crystal structure 12, phase transition 1) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI-V.html · Markdown: https://data.orchid-project.org/systems/TI-V.md
 
-14 accepted literature values from 3 paper(s) (experimental 1, model 1, DFT 12); 6 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+13 accepted literature values from 2 paper(s) (model 1, DFT 12); 6 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TI-V.json) · [CSV](https://data.orchid-project.org/systems/TI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-V/TiV-02Gho-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/TI-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI-V.html) · [Markdown](https://data.orchid-project.org/systems/TI-V.md)
 
@@ -12,7 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
 | model | 1 |
 | DFT | 12 |
 
@@ -20,7 +19,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
+| phase transition | 1 |
 | crystal structure | 12 |
 
 ## Calculated phase diagrams
@@ -42,14 +41,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Ti–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1881 K | 1881 | congruent melting: bcc-A2 -> Liquid; _bcc-A2: V 0.333; Liquid: V 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 314, row 1; `ORC-GXWRGMKGYN` |  |
-| Phase transition | 1881 K | 1881 | other | experimental | [2] Ghosh 2002; _cites Rudy 1969_ | p. 3; `ORC-3R7NSM54SW` | “The liquidus and solidus have a minima at 31 at.% V and 1881 ± 5 K \[1969Rud, 1975Col\].” |
+| Phase transition | 1881 K | 1881 | congruent melting: bcc-A2 -> Liquid; _bcc-A2: V 0.333; Liquid: V 0.333_ | model | [1] (ed.) 1998 | Table I, p. 314, row 1; `ORC-GXWRGMKGYN` |  |
 
 ### Crystal structure (12)
 
@@ -57,26 +55,25 @@ Table: Crystal structure, Ti–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.252 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 3; `ORC-7N2ST4T2MQ.014bd6` |  |
-| Lattice a | 3.259 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 3; `ORC-7N2ST4T2MQ.218c4c` |  |
-| Lattice a | 4.115 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 4; `ORC-QHAVP7W2SP.2c513d` |  |
-| Lattice a | 4.109 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 4; `ORC-QHAVP7W2SP.5e0e21` |  |
-| Lattice a | 2.939 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.0f3a6e` |  |
-| Lattice a | 2.933 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.3de565` |  |
-| Lattice a | 4.577 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.602a6e` |  |
-| Lattice a | 4.572 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.fbaef0` |  |
-| Lattice c | 4.641 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.7dcc0a` |  |
-| Lattice c | 4.657 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.d0303d` |  |
-| Lattice c | 2.828 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.5344b3` |  |
-| Lattice c | 2.829 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.b57911` |  |
+| Lattice a | 3.252 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 3; `ORC-7N2ST4T2MQ.014bd6` |  |
+| Lattice a | 3.259 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 3; `ORC-7N2ST4T2MQ.218c4c` |  |
+| Lattice a | 4.115 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 4; `ORC-QHAVP7W2SP.2c513d` |  |
+| Lattice a | 4.109 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 4; `ORC-QHAVP7W2SP.5e0e21` |  |
+| Lattice a | 2.939 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.0f3a6e` |  |
+| Lattice a | 2.933 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.3de565` |  |
+| Lattice a | 4.577 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.602a6e` |  |
+| Lattice a | 4.572 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.fbaef0` |  |
+| Lattice c | 4.641 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.7dcc0a` |  |
+| Lattice c | 4.657 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.d0303d` |  |
+| Lattice c | 2.828 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.5344b3` |  |
+| Lattice c | 2.829 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.b57911` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-2. G. Ghosh, Thermodynamic and kinetic modeling of the Cr-Ti-V system, JPE 23, 310-328 (2002). [doi:10.1361/105497102770331569](https://doi.org/10.1361/105497102770331569)
-3. Biao Hu, Soumya Sridar, Liangyan Hao, Wei Xiong, A new thermodynamic modeling of the Ti–V system including the metastable ω phase, Intermetallics 122, 106791 (2020). [doi:10.1016/j.intermet.2020.106791](https://doi.org/10.1016/j.intermet.2020.106791)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
+2. Biao Hu, Soumya Sridar, Liangyan Hao, Wei Xiong, A new thermodynamic modeling of the Ti–V system including the metastable ω phase, Intermetallics 122, 106791 (2020). [doi:10.1016/j.intermet.2020.106791](https://doi.org/10.1016/j.intermet.2020.106791)
 
 ## Please cite
 

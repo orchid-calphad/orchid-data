@@ -1,10 +1,10 @@
 # Co–Si system
 
-> Co–Si system: 89 accepted literature values (invariant reaction 55, phase transition 28, formation 5, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Si system: 87 accepted literature values (invariant reaction 54, phase transition 27, formation 5, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-SI.html · Markdown: https://data.orchid-project.org/systems/CO-SI.md
 
-89 accepted literature values from 2 paper(s) (experimental 64, model 13, unspecified 12); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+87 accepted literature values from 2 paper(s) (experimental 62, model 13, unspecified 12); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-SI.json) · [CSV](https://data.orchid-project.org/systems/CO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SI/CoSi-06Zha.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CO-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-SI.html) · [Markdown](https://data.orchid-project.org/systems/CO-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 64 |
+| experimental | 62 |
 | model | 13 |
 | unspecified | 12 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 55 |
-| phase transition | 28 |
+| invariant reaction | 54 |
+| phase transition | 27 |
 | formation | 5 |
 | other property | 1 |
 
@@ -72,7 +72,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Si system (55)
+Table: Invariant reactions reported in the literature for the Co–Si system (54)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -104,7 +104,6 @@ Table: Invariant reactions reported in the literature for the Co–Si system (55
 | 1532.15 | eutectic: L -> CoSi2 + (Si) | L: Si 0.775; CoSi2: Si 0.667; (Si): Si 0.979 | experimental | [1] Zhang 2006; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.3_135) | Table 5, p. 9, row 28; `ORC-2PQKQKB4BX` |  |
 | 1532.15 | L=CoSi2+Si | L: Si 0.775; CoSi2: Si 0.667; Si: Si 1 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 1; `ORC-6DWHMR366U` |  |
 | 1530.85 | L=CoSi2+Si | L: Si 0.789; CoSi2: Si 0.667; Si: Si 1 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 2; `ORC-SMHMB6CYDR` |  |
-| 1523.15 | peritectic |  | experimental | [1] Zhang 2006; _cites Koster 1973_ | p. 2; `ORC-5637522G5N.d4ce16` | “According to Köster et al. \[19\], (εCo) is stable up to the peritectic temperature of 1523.15 K and the maximum Si solubility in (εCo) is 18.4 at.% Si at the eutectic temperature (L ↔ Co2 Si+ (εCo)) of 1777.15 K.” |
 | 1523.15 | peritectic: L + (αCo) -> (εCo) | L: Si 0.214; (αCo): Si 0.165; (εCo): Si 0.175 | experimental | [1] Zhang 2006; _cites Koster 1973_ | Table 5, p. 9, row 1; `ORC-6CNGCWPCXD` |  |
 | 1523.15 | α-Co+L=ε-Co | α-Co: Si 0.165; L: Si 0.214; ε-Co: Si 0.175 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 13; `ORC-LVZ4Q5SX2X` |  |
 | 1520.55 | α-Co+L=ε-Co | α-Co: Si 0.162; L: Si 0.22; ε-Co: Si 0.168 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 14; `ORC-4IXWIIZOMK` |  |
@@ -134,7 +133,7 @@ Table: Invariant reactions reported in the literature for the Co–Si system (55
 
 ## Other properties
 
-### Phase transition (28)
+### Phase transition (27)
 
 Table: Phase transition, Co–Si system
 
@@ -167,7 +166,6 @@ Table: Phase transition, Co–Si system
 | Phase transition | 1670 K | 1670 | other: 1 DTA signal; _alloy: Co 0.88, Si 0.12_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 10; `ORC-Y3N3MEIGZ5` |  |
 | Phase transition | 1728.25 K | 1728.25 | L=CoSi; _CoSi: Si 0.5_ | model | [2] Soon-Don 1992 | Table 3, p. 7, row 18; `ORC-2D4ZRDO5IM` |  |
 | Phase transition | 1733.15 K | 1733.15 | L=CoSi; _CoSi: Si 0.5_ | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 17; `ORC-3ZJT7NNECE` |  |
-| Phase transition | 1777.15 K | 1777.15 | L ↔ Co2 Si+ (εCo) | experimental | [1] Zhang 2006; _cites Koster 1973_ | p. 2; `ORC-5637522G5N.4483b7` | “According to Köster et al. \[19\], (εCo) is stable up to the peritectic temperature of 1523.15 K and the maximum Si solubility in (εCo) is 18.4 at.% Si at the eutectic temperature (L ↔ Co2 Si+ (εCo)) of 1777.15 K.” |
 
 ### Formation (5)
 

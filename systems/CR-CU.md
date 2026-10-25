@@ -1,10 +1,10 @@
 # Cr–Cu system
 
-> Cr–Cu system: 26 accepted literature values (invariant reaction 17, phase transition 7, mixing / partial 1, activity / EMF / Gibbs energy 1) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Cu system: 17 accepted literature values (invariant reaction 15, mixing / partial 1, activity / EMF / Gibbs energy 1) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-CU.html · Markdown: https://data.orchid-project.org/systems/CR-CU.md
 
-26 accepted literature values from 4 paper(s) (experimental 14, model 11, unspecified 1); 6 calculated phase diagram(s).
+17 accepted literature values from 2 paper(s) (experimental 9, model 8); 6 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-CU.json) · [CSV](https://data.orchid-project.org/systems/CR-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-CU/CrCu-00Jac.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-CU.html) · [Markdown](https://data.orchid-project.org/systems/CR-CU.md)
 
@@ -12,16 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 11 |
-| unspecified | 1 |
+| experimental | 9 |
+| model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
-| phase transition | 7 |
+| invariant reaction | 15 |
 | mixing / partial | 1 |
 | activity / EMF / Gibbs energy | 1 |
 
@@ -57,43 +55,27 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Cu system (17)
+Table: Invariant reactions reported in the literature for the Cr–Cu system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1350 | eutectic |  | experimental | [1] Zeng 1995 | p. 2; `ORC-E4XWUCWBGW` | “The solubiity of Cu in (Cr) is negligible below the eutectic temperature (1350 K).” |
-| 1350 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0156; (Cu): Cr 0.0089 | model | [2] Turchanin 2006; _cites Chakrabarti 1984_ | Table 1, p. 3, row 10; `ORC-IOXY6M4J72` |  |
-| 1350 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0156; (Cu): Cr 0.0081; (Cr): Cr 0.9992 | model | [2] Turchanin 2006; _cites Saunders 1987_ [doi](https://doi.org/10.1179/026708387790329469) | Table 1, p. 3, row 11; `ORC-RPH3W7EIYP` |  |
-| 1350 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0152; (Cu): Cr 0.0084; (Cr): Cr 0.9991 | model | [2] Turchanin 2006 | Table 1, p. 3, row 16; `ORC-VT2HAVOGX6` |  |
-| 1349.6 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.015; (Cu): Cr 0.0077; (Cr): Cr 0.9992 | model | [2] Turchanin 2006; _cites Jakob 2000_ | Table 1, p. 3, row 15; `ORC-3JPKDLJV3V` |  |
-| 1349.6 | eutectic |  | experimental | [1] Zeng 1995 | p. 2; `ORC-S4M6AN35VK` | “The liquidus and eutectic temperature were measured by thermal analysis. The determined eutectic temperature, 1349.6 K, agrees well with the results of \[OIHin, 23Sie, 3OCor, 48Hib, 67Zak, 77Kuz, 86Leo\].” |
-| 1349 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0183 | experimental | [2] Turchanin 2006; _cites Siedschlag 1923_ [doi](https://doi.org/10.1002/zaac.19231310113) | Table 1, p. 3, row 2; `ORC-HITXKPZJKY` |  |
-| 1349 | eutectic: L -> (Cu) + (Cr) |  | experimental | [2] Turchanin 2006; _cites Li 2000_ [doi](https://doi.org/10.1361/105497100770340183) | Table 1, p. 3, row 9; `ORC-RSZI2TAJ7C` |  |
-| 1348 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.016; (Cu): Cr 0.008 | model | [2] Turchanin 2006; _cites Ivanchenko 1996_ [doi](https://doi.org/10.1007/bf01389605) | Table 1, p. 3, row 14; `ORC-7WQV3LDD7Y` |  |
-| 1348 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0156 | experimental | [2] Turchanin 2006; _cites Doi 1957_ | Table 1, p. 3, row 5; `ORC-BILE7OEJ6S` |  |
-| 1348 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0164; (Cu): Cr 0.007; (Cr): Cr 0.9992 | model | [2] Turchanin 2006; _cites Hamalainen 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990014-q) | Table 1, p. 3, row 12; `ORC-GES2APSAB3` |  |
-| 1348 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0181; (Cu): Cr 0.0082 | model | [2] Turchanin 2006; _cites Zeng 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900010-c) | Table 1, p. 3, row 13; `ORC-LCWYLGFGGO` |  |
-| 1348 | eutectic: L -> (Cu) + (Cr) |  | experimental | [2] Turchanin 2006; _cites Hindrichs 1908_ [doi](https://doi.org/10.1002/zaac.19080590136) | Table 1, p. 3, row 1; `ORC-SEQ7VOCQMH` |  |
-| 1347.9 | eutectic: Liquid -> bcc-A2 + fcc-A1 | Liquid: Cu 0.982; bcc-A2: Cu 0; fcc-A1: Cu 0.992 | unspecified | [3] Hämäläinen 1998 | Table I, p. 158, row 1; `ORC-JTBXCXT4BR` |  |
-| 1347 | eutectic: L -> (Cu) + (Cr) |  | experimental | [2] Turchanin 2006; _cites Leonov 1986_ | Table 1, p. 3, row 8; `ORC-AI7WKSZJHX` |  |
-| 1346 | eutectic: L -> (Cu) + (Cr) |  | experimental | [2] Turchanin 2006; _cites Zakharov 1967_ | Table 1, p. 3, row 6; `ORC-WZM6IJ4IP6` |  |
-| 1343 | eutectic: L -> (Cu) + (Cr) |  | experimental | [2] Turchanin 2006; _cites Hibbard 1948_ | Table 1, p. 3, row 4; `ORC-U7UJ4XDQDS` |  |
+| 1350 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0156; (Cu): Cr 0.0089 | model | [1] Turchanin 2006; _cites Chakrabarti 1984_ | Table 1, p. 3, row 10; `ORC-IOXY6M4J72` |  |
+| 1350 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0156; (Cu): Cr 0.0081; (Cr): Cr 0.9992 | model | [1] Turchanin 2006; _cites Saunders 1987_ [doi](https://doi.org/10.1179/026708387790329469) | Table 1, p. 3, row 11; `ORC-RPH3W7EIYP` |  |
+| 1350 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0152; (Cu): Cr 0.0084; (Cr): Cr 0.9991 | model | [1] Turchanin 2006 | Table 1, p. 3, row 16; `ORC-VT2HAVOGX6` |  |
+| 1349.6 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.015; (Cu): Cr 0.0077; (Cr): Cr 0.9992 | model | [1] Turchanin 2006; _cites Jakob 2000_ | Table 1, p. 3, row 15; `ORC-3JPKDLJV3V` |  |
+| 1349 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0183 | experimental | [1] Turchanin 2006; _cites Siedschlag 1923_ [doi](https://doi.org/10.1002/zaac.19231310113) | Table 1, p. 3, row 2; `ORC-HITXKPZJKY` |  |
+| 1349 | eutectic: L -> (Cu) + (Cr) |  | experimental | [1] Turchanin 2006; _cites Li 2000_ [doi](https://doi.org/10.1361/105497100770340183) | Table 1, p. 3, row 9; `ORC-RSZI2TAJ7C` |  |
+| 1348 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.016; (Cu): Cr 0.008 | model | [1] Turchanin 2006; _cites Ivanchenko 1996_ [doi](https://doi.org/10.1007/bf01389605) | Table 1, p. 3, row 14; `ORC-7WQV3LDD7Y` |  |
+| 1348 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0156 | experimental | [1] Turchanin 2006; _cites Doi 1957_ | Table 1, p. 3, row 5; `ORC-BILE7OEJ6S` |  |
+| 1348 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0164; (Cu): Cr 0.007; (Cr): Cr 0.9992 | model | [1] Turchanin 2006; _cites Hamalainen 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990014-q) | Table 1, p. 3, row 12; `ORC-GES2APSAB3` |  |
+| 1348 | eutectic: L -> (Cu) + (Cr) | L: Cr 0.0181; (Cu): Cr 0.0082 | model | [1] Turchanin 2006; _cites Zeng 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900010-c) | Table 1, p. 3, row 13; `ORC-LCWYLGFGGO` |  |
+| 1348 | eutectic: L -> (Cu) + (Cr) |  | experimental | [1] Turchanin 2006; _cites Hindrichs 1908_ [doi](https://doi.org/10.1002/zaac.19080590136) | Table 1, p. 3, row 1; `ORC-SEQ7VOCQMH` |  |
+| 1347.9 | eutectic: Liquid -> bcc-A2 + fcc-A1 | Liquid: Cu 0.982; bcc-A2: Cu 0; fcc-A1: Cu 0.992 | model | [2] (ed.) 1998 | Table I, p. 158, row 1; `ORC-JTBXCXT4BR` |  |
+| 1347 | eutectic: L -> (Cu) + (Cr) |  | experimental | [1] Turchanin 2006; _cites Leonov 1986_ | Table 1, p. 3, row 8; `ORC-AI7WKSZJHX` |  |
+| 1346 | eutectic: L -> (Cu) + (Cr) |  | experimental | [1] Turchanin 2006; _cites Zakharov 1967_ | Table 1, p. 3, row 6; `ORC-WZM6IJ4IP6` |  |
+| 1343 | eutectic: L -> (Cu) + (Cr) |  | experimental | [1] Turchanin 2006; _cites Hibbard 1948_ | Table 1, p. 3, row 4; `ORC-U7UJ4XDQDS` |  |
 
 ## Other properties
-
-### Phase transition (7)
-
-Table: Phase transition, Cr–Cu system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1823 K | 1823 | other | experimental | [1] Zeng 1995; _cites ref. 82Tim_ | p. 2; `ORC-H6KQRVKNGY` | “Using very high purity metals (99.999 wt.% Cu and 99.998 wt.% Cr), \[82Tim\] determined one liquidus point: 1823 K at 42&2 at.% Cr, by a high temperature mass spectrometric technique.” |
-| Phase transition | 1823.15 K | 1823.15 |  | experimental | [4] Saunders 1987; _cites HINDRICHS 1908_ | p. 2; `ORC-JLO4N5L7UN` | “In fact the melting point of chromium measured by Hindrichs2 was 1550°C, rather than the most recently assessed4 value of 1906°C.” |
-| Phase transition | 1824 K | 1824 | other | model | [2] Turchanin 2006 | p. 8; `ORC-4QTDV3UBKA` | “The critical point of the binodal has the coordinates xCr = 0.473 and T = 1824 K, and it is 12 K below the corresponding part of the liquidus line.” |
-| Phase transition | 1829 K | 1829 | other | model | [2] Turchanin 2006 | p. 8; `ORC-2WQH6AADYN` | “Coordinates of the retrograde point of the (Cr)-phase solidus line were xCr = 0.997 and T = 1829 K.” |
-| Phase transition | 2040 K | 2040 | other | experimental | [1] Zeng 1995; _cites ref. 86Leo_ | p. 2; `ORC-2EABI56WNO` | “Their results show an invariant reaction at 2040 K which was interpreted as a monotectic reaction.” |
-| Phase transition | 2040 K | 2040 | other | model | [2] Turchanin 2006 | p. 2; `ORC-ILNDPCEO7A` | “It is difficult to connect this reason with the isothermal arrest at 2040 K for specimens with 0.543 ≤ xCr ≤ 0.958 in \[12\].” |
-| Phase transition | 2179.15 K | 2179.15 |  | model | [4] Saunders 1987; _cites ANDERSSON 1985_ | p. 2; `ORC-OSWVF5LOMJ` | “The assessment for the thermodynamic properties of chromium4 shows that the melting point should be taken as 1906°C, 50 K higher than that used by Chakrabarti and Laughlin.!” |
 
 ### Mixing / partial (1)
 
@@ -101,7 +83,7 @@ Table: Mixing / partial, Cr–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: ΔH \<∞Cr >_ | 90 unspecified ± 17 | 1373 |  | experimental | [2] Turchanin 2006; _cites Watanabe 1984_ [doi](https://doi.org/10.1007/bf02667340) | p. 4; `ORC-HIBTOLPHAT` | “In \[23\] the enthalpy of dissolution of chromium in copper at 1373 K was studied. At this temperature the solubility of chromium did not exceed xCr = 0.02, and therefore the authors obtained only a value of the first enthalpy of mixing ΔH \<∞Cr > = 90 ± 17 kJ/mole.” |
+| Partial enthalpy; _printed: ΔH \<∞Cr >_ | 90 unspecified ± 17 | 1373 |  | experimental | [1] Turchanin 2006; _cites Watanabe 1984_ [doi](https://doi.org/10.1007/bf02667340) | p. 4; `ORC-HIBTOLPHAT` | “In \[23\] the enthalpy of dissolution of chromium in copper at 1373 K was studied. At this temperature the solubility of chromium did not exceed xCr = 0.02, and therefore the authors obtained only a value of the first enthalpy of mixing ΔH \<∞Cr > = 90 ± 17 kJ/mole.” |
 
 ### Activity / EMF / Gibbs energy (1)
 
@@ -109,16 +91,14 @@ Table: Activity / EMF / Gibbs energy, Cr–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity; _printed: aCr_ | 0.15 unspecified | 1300 |  | experimental | [2] Turchanin 2006; _cites Gachon 1980_ [doi](https://doi.org/10.1016/0001-6160%2880%2990139-x) | p. 5; `ORC-OP3NL2FK77` | “Using the emf method with a solid electrolyte authors of \[27\] established the value for thermodynamic activity of BCC-chromium in a solid solution based on copper: aCr = 0.15 for alloy with xCr = 0.001 at 1300 K.” |
+| Activity; _printed: aCr_ | 0.15 unspecified | 1300 |  | experimental | [1] Turchanin 2006; _cites Gachon 1980_ [doi](https://doi.org/10.1016/0001-6160%2880%2990139-x) | p. 5; `ORC-OP3NL2FK77` | “Using the emf method with a solid electrolyte authors of \[27\] established the value for thermodynamic activity of BCC-chromium in a solid solution based on copper: aCr = 0.15 for alloy with xCr = 0.001 at 1300 K.” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Kejun Zeng, Marko Hämäläinen, Thermodynamic analysis of stable and metastable equilibria in the Cu-Cr system, Calphad 19, 93-104 (1995). [doi:10.1016/0364-5916(95)00010-c](https://doi.org/10.1016/0364-5916%2895%2900010-c)
-2. M. A. Turchanin, Phase equilibria and thermodynamics of binary copper systems with 3d-metals. III. Copper-chromium system, Powder Metall Met Ceram 45, 457-467 (2006). [doi:10.1007/s11106-006-0106-x](https://doi.org/10.1007/s11106-006-0106-x)
-3. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-4. N. Saunders, Thermodynamic characterization of Cu–Cr system, Materials Science and Technology 3, 671-673 (1987). [doi:10.1179/mst.1987.3.8.671](https://doi.org/10.1179/mst.1987.3.8.671)
+1. M. A. Turchanin, Phase equilibria and thermodynamics of binary copper systems with 3d-metals. III. Copper-chromium system, Powder Metall Met Ceram 45, 457-467 (2006). [doi:10.1007/s11106-006-0106-x](https://doi.org/10.1007/s11106-006-0106-x)
+2. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 
 ## Please cite
 

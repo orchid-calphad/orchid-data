@@ -1,24 +1,12 @@
 # Li–Sc system
 
-> Li–Sc system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Sc system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-SC.html · Markdown: https://data.orchid-project.org/systems/LI-SC.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-SC.json) · [CSV](https://data.orchid-project.org/systems/LI-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-SC/LiSc-12Bu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/LI-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-SC.html) · [Markdown](https://data.orchid-project.org/systems/LI-SC.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -39,22 +27,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | LiSc-12Bu.tdb | 453.27 | BCC_A2 (x(Sc) 1.000e-4) + LIQUID (x(Sc) 6.800e-4) + HCP_A3 (x(Sc) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/LI/LI-SC.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/LI/LI-SC.json)
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Li–Sc system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 453.15 K | 453.15 | Liquid#1 + (aSc) = (bLi) | experimental | [1] Bu 2012 | p. 1; `ORC-MZOVSBPM2X` | “One is Liquid#2 = Liquid#1 + (aSc) occurring at 970 °C and 58.3 at.% Sc for the Liquid#2 and another one is Liquid#1 + (aSc) = (bLi) occurring at 180 °C and 0.07 at.% Sc for the Liquid#1.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. M. J. Bu, Y. B. Peng, M. Wang, Y. Du, H. H. Xu, D. D. Zhao et al., Thermodynamic Optimization of the Sc-X (X = La, Li, Ca, Cr) Systems, J. Phase Equilib. Diffus. 33, 40-45 (2012). [doi:10.1007/s11669-011-9978-7](https://doi.org/10.1007/s11669-011-9978-7)
 
 ## Please cite
 

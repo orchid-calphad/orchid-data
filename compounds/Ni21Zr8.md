@@ -33,8 +33,8 @@ Table: Uncertainty budget of the literature values of Ni21Zr8
 | -47.443 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -42.821 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -42.235 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -47.655 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -41.392 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -47.655 | kJ/mol-atom |  | 5.000e-5 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -41.392 | kJ/mol-atom |  | 5.000e-5 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

@@ -52,7 +52,7 @@ Table: Uncertainty budget of the literature values of BiEr
 | -103 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -103 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -101.3 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -90 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -90 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -90 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -90 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -83.62 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
@@ -62,11 +62,11 @@ Table: Uncertainty budget of the literature values of BiEr
 | -75 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -75 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -75 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -82.069 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -82.069 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -80.274 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -80.005 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -77.576 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -82.069 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -82.069 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -80.274 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -80.005 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -77.576 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

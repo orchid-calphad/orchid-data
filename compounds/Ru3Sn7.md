@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Ru3Sn7
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -23.7 | kJ/mol (basis unstated) | 1.6 | 5.000e-5 | 24.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 24.5 |
-| -20.8 | kJ/mol (basis unstated) | 2.9 | 5.000e-5 | 39.2 (kems_vapour, cleaned_below_threshold) |  |  |  | 39.2 |
-| -18.7 | kJ/mol (basis unstated) |  | 5.000e-5 | 24.5 (unknown, calibrated) |  |  |  | 24.5 |
-| -25.4 | kJ/mol (basis unstated) | 0.8 | 5.000e-5 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
-| -25.4 | kJ/mol (basis unstated) |  | 5.000e-4 | 24.5 (unknown, calibrated) |  |  |  | 24.5 |
+| -23.7 | kJ/mol (basis unstated) | 1.6 | 5.000e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -20.8 | kJ/mol (basis unstated) | 2.9 | 5.000e-5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -18.7 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -25.4 | kJ/mol (basis unstated) | 0.8 | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -25.4 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## Sources
 

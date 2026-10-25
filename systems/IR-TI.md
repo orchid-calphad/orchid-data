@@ -1,10 +1,10 @@
 # Ir–Ti system
 
-> Ir–Ti system: 32 accepted literature values (invariant reaction 31, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ir–Ti system: 29 accepted literature values (invariant reaction 29) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IR-TI.html · Markdown: https://data.orchid-project.org/systems/IR-TI.md
 
-32 accepted literature values from 1 paper(s) (experimental 25, model 7); 1 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 22, model 7); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IR-TI.json) · [CSV](https://data.orchid-project.org/systems/IR-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IR-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IR-TI/IrTi-14Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/IR-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IR-TI.html) · [Markdown](https://data.orchid-project.org/systems/IR-TI.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
+| experimental | 22 |
 | model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 31 |
-| phase transition | 1 |
+| invariant reaction | 29 |
 
 ## Calculated phase diagrams
 
@@ -49,12 +48,11 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ir–Ti system (31)
+Table: Invariant reactions reported in the literature for the Ir–Ti system (29)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2588.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.695; (Ir): Ir 0.882; TiIr3: Ir 0.751 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 6; `ORC-WAXNHP3Z4H` |  |
-| 2588.15 | peritectic |  | experimental | [1] Wang 2014; _cites Eremenko 1970_ | p. 1; `ORC-YZZOFRVBOR.3ccf4c` | “Based on microstructural evidence, Croeni et al.\[12\] and Eremenko et al.\[7\] reported that TiIr3 precipitated from the liquid by a peritectic reaction. However, there is a large discrepancy in their reported peritectic temperatures, i.e. 2115 °C\[12\] and 2315 °C.\[7\]” |
 | 2413.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 1; `ORC-463PVB523A` |  |
 | 2403.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.476 | model | [1] Wang 2014 | Table 3, p. 5, row 4; `ORC-5KI534Q6XH` |  |
 | 2403.15 | congruent melting: L -> γTiIr | γTiIr: Ir 0.5 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 3; `ORC-HI5TNQOHIS` |  |
@@ -62,7 +60,6 @@ Table: Invariant reactions reported in the literature for the Ir–Ti system (31
 | 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.74; (Ir): Ir 0.89; TiIr3: Ir 0.77 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 7; `ORC-73S2KV2BHO` |  |
 | 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.697; (Ir): Ir 0.86; TiIr3: Ir 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 5; `ORC-NQVY5QFOX3` |  |
 | 2388.15 | peritectic: L + (Ir) -> TiIr3 | L: Ir 0.728; (Ir): Ir 0.9; TiIr3: Ir 0.773 | model | [1] Wang 2014 | Table 3, p. 5, row 8; `ORC-TNNMYL4DWT` |  |
-| 2388.15 | peritectic |  | experimental | [1] Wang 2014; _cites Croeni 1962_ | p. 1; `ORC-YZZOFRVBOR.68b042` | “Based on microstructural evidence, Croeni et al.\[12\] and Eremenko et al.\[7\] reported that TiIr3 precipitated from the liquid by a peritectic reaction. However, there is a large discrepancy in their reported peritectic temperatures, i.e. 2115 °C\[12\] and 2315 °C.\[7\]” |
 | 2274.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.619; γTiIr: Ir 0.573; TiIr3: Ir 0.722 | model | [1] Wang 2014 | Table 3, p. 5, row 12; `ORC-TPIMFMOKO4` |  |
 | 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.575; TiIr3: Ir 0.73 | experimental | [1] Wang 2014; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667568) | Table 3, p. 5, row 11; `ORC-CBPHOD733R` |  |
 | 2273.15 | eutectic: L -> γTiIr + TiIr3 | L: Ir 0.6; γTiIr: Ir 0.584; TiIr3: Ir 0.695 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 10; `ORC-O7SBYMR6U4` |  |
@@ -84,16 +81,6 @@ Table: Invariant reactions reported in the literature for the Ir–Ti system (31
 | 973.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Kandarpa 1977_ | Table 3, p. 5, row 27; `ORC-OF73ZSQDZ7` |  |
 | 773.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.05; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Eremenko 1970_ | Table 3, p. 5, row 26; `ORC-EH6DC7X5Y6` |  |
 | 773.15 | eutectoid: (βTi) -> (αTi) + Ti3Ir | (βTi): Ir 0.1; Ti3Ir: Ir 0.25, Ti 0.75 | experimental | [1] Wang 2014; _cites Croeni 1962_ | Table 3, p. 5, row 25; `ORC-WWVHCPMQOF` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ir–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 993.15 K | 993.15 | (bTi) M (aTi) + Ti3Ir | experimental | [1] Wang 2014; _cites Kandarpa 1977_ | p. 1; `ORC-MAC56BHGQK` | “Based on the metallographic and x-ray diffraction means, Kandarpa et al.\[13\] reported the temperature of the eutectoid reaction ((bTi) M (aTi) + Ti3Ir) and its eutectoid composition point are 720 °C and 5 at.% Ir, respectively.” |
 
 ## Sources
 

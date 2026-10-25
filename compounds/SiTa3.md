@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of SiTa3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43.332 | kJ/mol-atom |  | 5.000e-4 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -43.332 | kJ/mol-atom |  | 5.000e-4 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -43.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -43 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -42.2237 | kJ/mol-atom |  | 5.000e-8 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

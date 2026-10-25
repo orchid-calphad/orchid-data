@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Si9Y15C
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -70.8 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -70.8 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## Sources
 

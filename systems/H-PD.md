@@ -1,10 +1,10 @@
 # H–Pd system
 
-> H–Pd system: 2 accepted literature values (formation 1, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Pd system: 1 accepted literature values (formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-PD.html · Markdown: https://data.orchid-project.org/systems/H-PD.md
 
-2 accepted literature values from 2 paper(s) (model 1, DFT 1); 0 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (DFT 1); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-PD.json) · [CSV](https://data.orchid-project.org/systems/H-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-PD) · [phases (5)](https://data.orchid-project.org/phases/pages/H-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-PD.html) · [Markdown](https://data.orchid-project.org/systems/H-PD.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
 | DFT | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
 | formation | 1 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/H/H-PD.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/H/H-PD.json) · [CALPHAD hull PdH-07Hua](https://data.orchid-project.org/hulls/calphad-sgte/H/H-PD--PdH-07Hua.json)
@@ -34,22 +32,11 @@ Table: Enthalpies of formation, H–Pd system (1)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | PdH bcc |  | -11.45 kJ/mol-atom | 298.15 | DFT |  |  | [1] Huang 2007 | Table 2, p. 6, row 1; `ORC-WYNO4QUY65.45e37a` |  |
 
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, H–Pd system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 566 K | 566 | other | model | [2] Joubert 2009 | p. 5; `ORC-ZFS5JVTZJO` | “The estimated critical point is located at xc = 0.190, TC = 566 K, in good agreement with experimental data (see 2.1.1).” |
-
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Weiming Huang, Susanne M. Opalka, Da Wang, Ted B. Flanagan, Thermodynamic modelling of the Cu–Pd–H system, Calphad 31, 315-329 (2007). [doi:10.1016/j.calphad.2007.02.002](https://doi.org/10.1016/j.calphad.2007.02.002)
-2. J.-M. Joubert, S. Thiébaut, Thermodynamic assessment of the Pd–H–D–T system, Journal of Nuclear Materials 395, 79-88 (2009). [doi:10.1016/j.jnucmat.2009.09.021](https://doi.org/10.1016/j.jnucmat.2009.09.021)
 
 ## Please cite
 

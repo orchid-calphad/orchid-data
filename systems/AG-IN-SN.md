@@ -1,10 +1,10 @@
 # Ag–In–Sn system
 
-> Ag–In–Sn system: 7 accepted literature values (phase transition 6, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–In–Sn system: 6 accepted literature values (phase transition 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-IN-SN.html · Markdown: https://data.orchid-project.org/systems/AG-IN-SN.md
 
-7 accepted literature values from 1 paper(s) (experimental 7); 0 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (experimental 6); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-IN-SN.json) · [CSV](https://data.orchid-project.org/systems/AG-IN-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-IN-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-IN-SN.html) · [Markdown](https://data.orchid-project.org/systems/AG-IN-SN.md)
 
@@ -12,22 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | phase transition | 6 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ag–In–Sn system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 387.15 | eutectic |  | experimental | [1] Korhonen 1998; _cites Artaki 1995_ [doi](https://doi.org/10.1108/eb037896) | p. 9; `ORC-7AH2T2YW4B` | “A similar extra peak has also been reported34 for a commercial Sn-In-Ag solder. The DSC graph showed a very sharp peak at about 114°C, due to melting at the eutectic temperature, and another peak with a maximum at the liquidus temperature.” |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Ni–Sb system
 
-> Ni–Sb system: 120 accepted literature values (invariant reaction 114, formation 4, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sb system: 118 accepted literature values (invariant reaction 114, formation 4) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SB.html · Markdown: https://data.orchid-project.org/systems/NI-SB.md
 
-120 accepted literature values from 3 paper(s) (experimental 96, model 24); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+118 accepted literature values from 3 paper(s) (experimental 94, model 24); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SB.json) · [CSV](https://data.orchid-project.org/systems/NI-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SB/NiSb-08Cao.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SB.html) · [Markdown](https://data.orchid-project.org/systems/NI-SB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 96 |
+| experimental | 94 |
 | model | 24 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 114 |
-| phase transition | 2 |
 | formation | 4 |
 
 ## Calculated phase diagrams
@@ -82,30 +81,30 @@ Table: Invariant reactions reported in the literature for the Ni–Sb system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1444 | L \<-> Ni3Sb_HT | L: Sb 0.285; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Panteleimonov 1964_ | Table 3, p. 6, row 12; `ORC-ET7ZISA7SU` |  |
+| 1444 | congruent melting: L \<-> Ni3Sb_HT | L: Sb 0.285; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Panteleimonov 1964_ | Table 3, p. 6, row 12; `ORC-ET7ZISA7SU` |  |
 | 1443 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.29; (βNi5Sb2): Sb 0.29 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 21; `ORC-3T6BRDCB7T` |  |
 | 1443 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.29; (βNi5Sb2): Sb 0.29 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 22; `ORC-DYZ5ZUNZFE` |  |
-| 1443 | L \<-> Ni3Sb_HT | L: Sb 0.283; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 10; `ORC-L4L6P6SX74` |  |
+| 1443 | congruent melting: L \<-> Ni3Sb_HT | L: Sb 0.283; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 10; `ORC-L4L6P6SX74` |  |
 | 1443 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.283; (βNi5Sb2): Sb 0.283 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 19; `ORC-N6LGBAW2UY` |  |
-| 1443 | L \<-> Ni3Sb_HT | L: Sb 0.267; Ni3Sb_HT: Ni 0.75, Sb 0.25 | model | [1] CAO 2008 | Table 3, p. 6, row 14; `ORC-TVLJITCI3F` |  |
-| 1438 | L \<-> NiSb | L: Sb 0.475; NiSb: Ni 0.5, Sb 0.5 | model | [1] CAO 2008 | Table 3, p. 6, row 32; `ORC-ZSGIICVIEU` |  |
+| 1443 | congruent melting: L \<-> Ni3Sb_HT | L: Sb 0.267; Ni3Sb_HT: Ni 0.75, Sb 0.25 | model | [1] CAO 2008 | Table 3, p. 6, row 14; `ORC-TVLJITCI3F` |  |
+| 1438 | congruent melting: L \<-> NiSb | L: Sb 0.475; NiSb: Ni 0.5, Sb 0.5 | model | [1] CAO 2008 | Table 3, p. 6, row 32; `ORC-ZSGIICVIEU` |  |
 | 1435 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.293; (βNi5Sb2): Sb 0.293 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 4, row 20; `ORC-QTTGSTRO2T` |  |
-| 1435 | L \<-> Ni3Sb_HT | L: Sb 0.279; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 11; `ORC-U44E4V3IYT` |  |
+| 1435 | congruent melting: L \<-> Ni3Sb_HT | L: Sb 0.279; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 11; `ORC-U44E4V3IYT` |  |
 | 1434 | congruent melting: L ↔ (βNi3Sb) | L: Sb 0.2627; (βNi3Sb): Sb 0.2627 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 25; `ORC-2NNDACOZ73` |  |
 | 1434 | congruent melting: L ↔ (βNi5Sb2) | L: Sb 0.279; (βNi5Sb2): Sb 0.279 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 4, row 24; `ORC-6SI33UL42Y` |  |
 | 1434 | congruent melting: L ↔ (βNi3Sb) | L: Sb 0.279; (βNi3Sb): Sb 0.279 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 4, row 23; `ORC-IF3KLL3CFX` |  |
-| 1434 | L \<-> Ni3Sb_HT | L: Sb 0.279; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 13; `ORC-VU4YOPPQ4Q` |  |
+| 1434 | congruent melting: L \<-> Ni3Sb_HT | L: Sb 0.279; Ni3Sb_HT: Ni 0.75, Sb 0.25 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 13; `ORC-VU4YOPPQ4Q` |  |
 | 1432 | congruent melting: L ↔ (γNiSb) | L: Sb 0.47; γNiSb: Sb 0.47 | experimental | [2] Zhang 2008; _cites Leubolt 1986_ [doi](https://doi.org/10.1002/zaac.19865330226) | Table 3, p. 5, row 3; `ORC-PAJDW7T2UN` |  |
-| 1432 | L \<-> NiSb | L: Sb 0.47; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Leubolt 1986_ | Table 3, p. 6, row 30; `ORC-ZMIHMY6Y5T` |  |
+| 1432 | congruent melting: L \<-> NiSb | L: Sb 0.47; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Leubolt 1986_ | Table 3, p. 6, row 30; `ORC-ZMIHMY6Y5T` |  |
 | 1431 | congruent melting: L ↔ (γNiSb) | L: Sb 0.4965; γNiSb: Sb 0.4965 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 5, row 1; `ORC-5S6MBF7ZKY` |  |
-| 1431 | L \<-> NiSb | L: Sb 0.497; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 27; `ORC-Q4QNG5BRF4` |  |
-| 1426 | L \<-> NiSb | L: Sb 0.494; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 28; `ORC-I5CQ76DA5H` |  |
+| 1431 | congruent melting: L \<-> NiSb | L: Sb 0.497; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Lossew 1906_ | Table 3, p. 6, row 27; `ORC-Q4QNG5BRF4` |  |
+| 1426 | congruent melting: L \<-> NiSb | L: Sb 0.494; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 28; `ORC-I5CQ76DA5H` |  |
 | 1426 | congruent melting: L ↔ (γNiSb) | L: Sb 0.484; γNiSb: Sb 0.484 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 5, row 2; `ORC-SQPZ2RKOFQ` |  |
 | 1420 | congruent melting: L ↔ (γNiSb) | L: Sb 0.4838; γNiSb: Sb 0.4838 | model | [2] Zhang 2008 | Table 3, p. 5, row 6; `ORC-7X3EUOIVW4` |  |
 | 1420 | congruent melting: L ↔ (γNiSb) | L: Sb 0.489; γNiSb: Sb 0.489 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 5, row 5; `ORC-KMCNXSVRCB` |  |
 | 1420 | congruent melting: L ↔ (γNiSb) | L: Sb 0.489; γNiSb: Sb 0.489 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 5, row 4; `ORC-SY4JJPG7YI` |  |
-| 1420 | L \<-> NiSb | L: Sb 0.489; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 31; `ORC-TPLHOVXKZE` |  |
-| 1413 | L \<-> NiSb | L: Sb 0.47; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Chen 1978_ | Table 3, p. 6, row 29; `ORC-FG7V6JNBW7` |  |
+| 1420 | congruent melting: L \<-> NiSb | L: Sb 0.489; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 31; `ORC-TPLHOVXKZE` |  |
+| 1413 | congruent melting: L \<-> NiSb | L: Sb 0.47; NiSb: Ni 0.5, Sb 0.5 | experimental | [1] CAO 2008; _cites Chen 1978_ | Table 3, p. 6, row 29; `ORC-FG7V6JNBW7` |  |
 | 1375 | eutectic: L ↔ (αNi) + (βNi5Sb2) | (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Panteleimonov 1964_ | Table 3, p. 4, row 6; `ORC-D4BQZABKZB` |  |
 | 1375 | eutectic: L ↔ (αNi) + (βNi5Sb2) | L: Sb 0.213; (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Eremenko 1951_ | Table 3, p. 4, row 5; `ORC-NGEKZOFIG5` |  |
 | 1373 | eutectic: L ↔ (αNi) + (βNi5Sb2) | (αNi): Sb 0.0367; (βNi5Sb2): Ni 0.714286, Sb 0.285714 | experimental | [2] Zhang 2008; _cites Lossew 1906_ [doi](https://doi.org/10.1002/zaac.19060490107) | Table 3, p. 4, row 3; `ORC-3PSLNX5PLO` |  |
@@ -209,17 +208,6 @@ Table: Enthalpies of formation, Ni–Sb system (4)
 | ζ(NiSb) |  | -32.659 kJ/mol (basis unstated) | 1060 | model |  |  | [3] Cao 2013 | Table IV, p. 9, row 4; `ORC-QBMBSSVL7S` |  |
 | ζ(NiSb) |  | -32.543 kJ/mol (basis unstated) ± 0.494 | 1060 | experimental |  |  | [3] Cao 2013; _cites Predel 1978_ [doi](https://doi.org/10.1016/0040-6031%2878%2985146-6) | Table IV, p. 9, row 3; `ORC-64UDB5YW55.8b29a9` |  |
 | ζ(NiSb) |  | -32.171 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Cao 2013 | Table IV, p. 9, row 2; `ORC-GQGFCXOC6L` |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Ni–Sb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 958 K | 958 | other | experimental | [2] Zhang 2008 | p. 2; `ORC-6RJGIXFU65` | “The phase (βNi5 Sb2 ) decomposed into the phase (β 0 Ni5 Sb2 ) (monoclinic) and an unidentified phase which was near the stoichiometric δNi3 Sb during tempering at high temperature, and the compound δNi3 Sb decomposed peritectoidically at 958 K.” |
-| Phase transition | 1413 K | 1413 | congruent transformation | experimental | [2] Zhang 2008; _cites Chen 1978_ [doi](https://doi.org/10.1016/0022-0248%2878%2990362-7) | p. 2; `ORC-WKLPD2NAF4` | “Chen et al. \[27\] and Leubolt et al. \[28\] investigated the phase equilibria near the congruent melting point of (γ NiSb), which was 47 at.% Sb at 1413 K \[27\] and 47 at.% Sb at 1432 ± 5 K \[28\].” |
 
 ## Sources
 

@@ -442,7 +442,7 @@
     "x0": 0.779,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->AgPr+α-Pr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -461,7 +461,7 @@
     "x0": 0.779,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->AgPr+α-Pr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -480,7 +480,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->AgPr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -498,7 +498,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->AgPr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -516,7 +516,7 @@
     "x0": 0.395,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ag2Pr+AgPr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -535,7 +535,7 @@
     "x0": 0.395,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ag2Pr+AgPr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -573,7 +573,7 @@
     "x0": 0.215385,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ag51Pr14",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -591,7 +591,7 @@
     "x0": 0.215385,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ag51Pr14",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -628,7 +628,7 @@
     "x0": 0.092,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ag+Ag5Pr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -647,7 +647,7 @@
     "x0": 0.092,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ag+Ag5Pr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

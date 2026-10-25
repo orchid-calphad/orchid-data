@@ -1,10 +1,10 @@
 # Gd–Pd system
 
-> Gd–Pd system: 54 accepted literature values (invariant reaction 26, formation 20, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Pd system: 55 accepted literature values (invariant reaction 26, formation 20, phase transition 8, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-PD.html · Markdown: https://data.orchid-project.org/systems/GD-PD.md
 
-54 accepted literature values from 2 paper(s) (experimental 17, model 37); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+55 accepted literature values from 2 paper(s) (experimental 17, model 38); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-PD.json) · [CSV](https://data.orchid-project.org/systems/GD-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-PD/GdPd-00Du.json) · [phases (14)](https://data.orchid-project.org/phases/pages/GD-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-PD.html) · [Markdown](https://data.orchid-project.org/systems/GD-PD.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 17 |
-| model | 37 |
+| model | 38 |
 
 Table: Accepted values by property group
 
@@ -22,6 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 26 |
 | phase transition | 8 |
 | formation | 20 |
+| mixing / partial | 1 |
 
 ## Calculated phase diagrams
 
@@ -68,20 +69,20 @@ Table: Invariant reactions reported in the literature for the Gd–Pd system (26
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1593 | liq. -> βGdPd + βGd3Pd4 | L: Pd 0.53; βGdPd: Pd 0.49; βGd3Pd4: Pd 0.571429 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 12; `ORC-LONOHEKYSK` |  |
-| 1589 | liq. -> βGdPd + βGd3Pd4 | L: Pd 0.5441; βGdPd: Pd 0.4999; βGd3Pd4: Pd 0.571429 | model | [1] Du 2000 | Table 3, p. 5, row 11; `ORC-XRTJCCASSS` |  |
+| 1593 | eutectic: liq. -> βGdPd + βGd3Pd4 | L: Pd 0.53; βGdPd: Pd 0.49; βGd3Pd4: Pd 0.571429 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 12; `ORC-LONOHEKYSK` |  |
+| 1589 | eutectic: liq. -> βGdPd + βGd3Pd4 | L: Pd 0.5441; βGdPd: Pd 0.4999; βGd3Pd4: Pd 0.571429 | model | [1] Du 2000 | Table 3, p. 5, row 11; `ORC-XRTJCCASSS` |  |
 | 1563 | liq. + bcc(Gd) -> hcp(Gd) | L: Pd 0.04; bcc(Gd): Pd 0.01; hcp(Gd): Pd 0.02 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 2; `ORC-7ITAWS7DPA` |  |
 | 1563 | liq. + bcc(Gd) -> hcp(Gd) | L: Pd 0.0293; bcc(Gd): Pd 0.0129; hcp(Gd): Pd 0.0204 | model | [1] Du 2000 | Table 3, p. 5, row 1; `ORC-LY5QDOCOKZ` |  |
 | 1500 | liq. + GdPd3 -> GdPd2 | L: Pd 0.65; GdPd3: Pd 0.75; GdPd2: Pd 0.666667 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 28; `ORC-L6YNSJAYD5` |  |
 | 1499 | liq. + GdPd3 -> GdPd2 | L: Pd 0.6545; GdPd3: Pd 0.75; GdPd2: Pd 0.666667 | model | [1] Du 2000 | Table 3, p. 5, row 27; `ORC-DKTMWJ44AI` |  |
 | 1433 | liq. + βGd3Pd4 -> Gd2Pd3 | L: Pd 0.635; βGd3Pd4: Pd 0.571429; Gd2Pd3: Pd 0.6 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 22; `ORC-LY6OJBCLUN` |  |
 | 1433 | liq. + βGd3Pd4 -> Gd2Pd3 | L: Pd 0.6286; βGd3Pd4: Pd 0.571429; Gd2Pd3: Pd 0.6 | model | [1] Du 2000 | Table 3, p. 5, row 21; `ORC-ZNJWRL4KY6` |  |
-| 1428 | liq. -> Gd2Pd3 + GdPd2 | L: Pd 0.6299; Gd2Pd3: Pd 0.6; GdPd2: Pd 0.666667 | model | [1] Du 2000 | Table 3, p. 5, row 23; `ORC-4GCSAVCEUE` |  |
-| 1425 | liq. -> Gd2Pd3 + GdPd2 | L: Pd 0.64; Gd2Pd3: Pd 0.6; GdPd2: Pd 0.666667 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 24; `ORC-34CRK6UHC2` |  |
+| 1428 | eutectic: liq. -> Gd2Pd3 + GdPd2 | L: Pd 0.6299; Gd2Pd3: Pd 0.6; GdPd2: Pd 0.666667 | model | [1] Du 2000 | Table 3, p. 5, row 23; `ORC-4GCSAVCEUE` |  |
+| 1425 | eutectic: liq. -> Gd2Pd3 + GdPd2 | L: Pd 0.64; Gd2Pd3: Pd 0.6; GdPd2: Pd 0.666667 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 24; `ORC-34CRK6UHC2` |  |
 | 1403 | Gd2Pd3 -> αGd3Pd4 + GdPd2 | Gd2Pd3: Pd 0.6; αGd3Pd4: Pd 0.571429; GdPd2: Pd 0.666667 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 26; `ORC-AS2R6QT4DO` |  |
 | 1403 | Gd2Pd3 -> αGd3Pd4 + GdPd2 | Gd2Pd3: Pd 0.6; αGd3Pd4: Pd 0.571429; GdPd2: Pd 0.666667 | model | [1] Du 2000 | Table 3, p. 5, row 25; `ORC-YX4TPEBXNL` |  |
-| 1401 | liq. -> GdPd3 + fcc(Pd) | L: Pd 0.8506; GdPd3: Pd 0.7847; fcc(Pd): Pd 0.8846 | model | [1] Du 2000 | Table 3, p. 5, row 31; `ORC-IGISWQRRHS` |  |
-| 1401 | liq. -> GdPd3 + fcc(Pd) | L: Pd 0.86; GdPd3: Pd 0.79; fcc(Pd): Pd 0.88 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 32; `ORC-IXDS7S7OS5` |  |
+| 1401 | eutectic: liq. -> GdPd3 + fcc(Pd) | L: Pd 0.8506; GdPd3: Pd 0.7847; fcc(Pd): Pd 0.8846 | model | [1] Du 2000 | Table 3, p. 5, row 31; `ORC-IGISWQRRHS` |  |
+| 1401 | eutectic: liq. -> GdPd3 + fcc(Pd) | L: Pd 0.86; GdPd3: Pd 0.79; fcc(Pd): Pd 0.88 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 32; `ORC-IXDS7S7OS5` |  |
 | 1311 | liq. + βGdPd -> αGdPd | L: Pd 0.3869; βGdPd: Pd 0.4937; αGdPd: Pd 0.4934 | model | [1] Du 2000 | Table 3, p. 5, row 13; `ORC-U5ARVDPXEH` |  |
 | 1311 | liq. + βGdPd -> αGdPd | L: Pd 0.36; βGdPd: Pd 0.48; αGdPd: Pd 0.48 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 14; `ORC-XFISH6CNQX` |  |
 | 1278 | βGdPd -> αGdPd + αGd3Pd4 | βGdPd: Pd 0.49; αGdPd: Pd 0.49; αGd3Pd4: Pd 0.571429 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 16; `ORC-L65I6L2Y5F` |  |
@@ -90,8 +91,8 @@ Table: Invariant reactions reported in the literature for the Gd–Pd system (26
 | 1155 | liq. + αGdPd -> Gd3Pd2 | L: Pd 0.3634; αGdPd: Pd 0.4914; Gd3Pd2: Pd 0.4 | model | [1] Du 2000 | Table 3, p. 5, row 7; `ORC-D33NHVKN3D` |  |
 | 1085 | liq. + Gd3Pd2 -> Gd7Pd3 | Gd3Pd2: Pd 0.4; Gd7Pd3: Pd 0.3019 | model | [1] Du 2000 | Table 3, p. 5, row 5; `ORC-FKGHSJT4P4` |  |
 | 1085 | liq. + Gd3Pd2 -> Gd7Pd3 | L: Pd 0.27; Gd3Pd2: Pd 0.4; Gd7Pd3: Pd 0.3 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 6; `ORC-JCYXY6WU4V` |  |
-| 1058 | liq. -> hcp(Gd) + Gd7Pd3 | L: Pd 0.24; hcp(Gd): Pd 0.014; Gd7Pd3: Pd 0.3 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 4; `ORC-225VHWZTMP` |  |
-| 1058 | liq. -> hcp(Gd) + Gd7Pd3 | L: Pd 0.2339; hcp(Gd): Pd 0.0318; Gd7Pd3: Pd 0.3 | model | [1] Du 2000 | Table 3, p. 5, row 3; `ORC-D4VX76QIDG` |  |
+| 1058 | eutectic: liq. -> hcp(Gd) + Gd7Pd3 | L: Pd 0.24; hcp(Gd): Pd 0.014; Gd7Pd3: Pd 0.3 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 4; `ORC-225VHWZTMP` |  |
+| 1058 | eutectic: liq. -> hcp(Gd) + Gd7Pd3 | L: Pd 0.2339; hcp(Gd): Pd 0.0318; Gd7Pd3: Pd 0.3 | model | [1] Du 2000 | Table 3, p. 5, row 3; `ORC-D4VX76QIDG` |  |
 | 810 | GdPd3 + fcc(Pd) -> GdPd7 | GdPd3: Pd 0.77; fcc(Pd): Pd 0.892; GdPd7: Pd 0.875 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 34; `ORC-K3B4XFL4TN` |  |
 | 810 | GdPd3 + fcc(Pd) -> GdPd7 | GdPd3: Pd 0.7713; fcc(Pd): Pd 0.8879; GdPd7: Pd 0.875 | model | [1] Du 2000 | Table 3, p. 5, row 33; `ORC-PYPUFYE4ZH` |  |
 
@@ -138,15 +139,23 @@ Table: Formation, Gd–Pd system
 | Entropy of formation | 7.63 J/mol-atom/K | 298.15 | Pd3Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 4; `ORC-EQJV6OCDE2.4c20d9` |  |
 | Entropy of formation; _printed: ΔfS_ | 9.402 J/mol-atom/K | 298.15 | Pd3Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74; `ORC-KHWSXTSBER.4ccfc0` |  |
 | Entropy of formation; _printed: ΔfS_ | 5.79 J/mol-atom/K | 298.15 | Pd4Gd3; _alloy: Gd 0.428571, Pd 0.571429_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 36; `ORC-6S4N26GZRB.791f8c` |  |
-| Entropy of formation | 9.402 J/mol-atom/K | 298.15 | Pd7Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74; `ORC-KHWSXTSBER.540568` |  |
+| Entropy of formation | 9.402 J/mol-atom/K | 298.15 | Pd7Gd; _alloy: Gd 0.125, Pd 0.875_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74; `ORC-KHWSXTSBER.540568` |  |
 | Entropy of formation; _printed: Entropies of formation_ | 9.402 J/mol-atom/K | 298.15 | Pd7RE; _alloy: Gd 0.125, Pd 0.875_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 8; `ORC-RNR2L7XGGV.116310` |  |
 | Entropy of formation | 8.684 J/mol-atom/K | 298.15 | PdGd; _alloy: Gd 0.5, Pd 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 24; `ORC-F7EFDR7TEK.88987a` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -82.4199 kJ/mol-atom | 298.15 | Pd2Gd; _alloy: Gd 0.333333, Pd 0.666667_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 62; `ORC-2AYD4MHXSZ.a2dd4e` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -80.3529 kJ/mol-atom | 298.15 | Pd3Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 4; `ORC-EQJV6OCDE2.382ae7` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -51.1382 kJ/mol-atom | 298.15 | Pd3Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74; `ORC-KHWSXTSBER.a03db2` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -84.2493 kJ/mol-atom | 298.15 | Pd4Gd3; _alloy: Gd 0.428571, Pd 0.571429_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 36; `ORC-6S4N26GZRB.41f6c6` |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -51.1382 kJ/mol-atom | 298.15 | Pd7Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74; `ORC-KHWSXTSBER.115c5e` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -51.1382 kJ/mol-atom | 298.15 | Pd7Gd; _alloy: Gd 0.125, Pd 0.875_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74; `ORC-KHWSXTSBER.115c5e` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -87.8541 kJ/mol-atom | 298.15 | PdGd; _alloy: Gd 0.5, Pd 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 24; `ORC-F7EFDR7TEK.0f8400` |  |
+
+### Mixing / partial (1)
+
+Table: Mixing / partial, Gd–Pd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -51.1382 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Gd 0.125, Pd 0.875_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 8; `ORC-RNR2L7XGGV.3ceb59` |  |
 
 ## Sources
 

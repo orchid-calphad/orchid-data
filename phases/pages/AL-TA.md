@@ -87,7 +87,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ta:al3ta-d022)
 
 Names (10): _corpus: _corpus:phase:al-ta:al3ta-d022  
-_paper: _paper:10.1007/bf02665557:Al3Ta, paper:10.1016/j.intermet.2009.06.015:ε, paper:10.1016/s0364-5916(98)00037-6:Al3Ta\*, paper:10.1016/s0364-5916(98)00037-6:AlM-D0\*22  
+_paper: _paper:10.1007/bf02665557:Al3Ta, paper:10.1016/j.intermet.2009.06.015:ε, paper:sha256-85fd53a1a176b694:Al3Ta\*, paper:sha256-85fd53a1a176b694:AlM-D0\*22  
 _system_alias: _system_alias:al-ta:epsilon  
 _tdb: _tdb:AlTa-10Wit.tdb:AL3TA_D022, tdb:AlTa-90Kat.tdb:AL3TA_D022, tdb:AlTa-96Du-LB.tdb:AL3TA_D022, tdb:AlTa-98Sau.tdb:AL3TA_D022  
 
@@ -122,14 +122,12 @@ _tdb: _tdb:AlTa-10Wit.tdb:AL3TA_D022, tdb:AlTa-90Kat.tdb:AL3TA_D022, tdb:AlTa-96
 47: CONST AL3TA_D022 : TA : AL : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.intermet.2009.06.015](https://doi.org/10.1016/j.intermet.2009.06.015) V.T. Witusiewicz, A.A. Bondar, U. Hecht, J. Zollinger, V.M. Petyukh, O.S. Fomichov et al., Experimental study and thermodynamic re-assessment of the binary Al–Ta system, Intermetallics 18, 92-106 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02665557](https://doi.org/10.1007/BF02665557) Y. Du, R. Schmid-Fetzer, J. Phase Equilib., 17, 311-324(1996).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL3TA2 (Al–Ta)
 
@@ -319,7 +317,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ta:bcc-a2)
 
 Names (7): _corpus: _corpus:phase:al-ta:bcc-a2  
-_paper: _paper:10.1007/bf02665557:bcc (Ta), paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1007/bf02665557:bcc (Ta), paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:AlTa-10Wit.tdb:BCC_A2, tdb:AlTa-90Kat.tdb:BCC_A2, tdb:AlTa-96Du-LB.tdb:BCC_A2, tdb:AlTa-98Sau.tdb:BCC_A2  
 
 
@@ -353,14 +351,12 @@ _tdb: _tdb:AlTa-10Wit.tdb:BCC_A2, tdb:AlTa-90Kat.tdb:BCC_A2, tdb:AlTa-96Du-LB.td
 37: CONST BCC_A2 : AL TA% : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/BF02665557](https://doi.org/10.1007/BF02665557) Y. Du, R. Schmid-Fetzer, J. Phase Equilib., 17, 311-324(1996).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2009.06.015](https://doi.org/10.1016/j.intermet.2009.06.015) V.T. Witusiewicz, A.A. Bondar, U. Hecht, J. Zollinger, V.M. Petyukh, O.S. Fomichov et al., Experimental study and thermodynamic re-assessment of the binary Al–Ta system, Intermetallics 18, 92-106 (2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SIGMA_D8B (Al–Ta)
 
@@ -374,7 +370,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ta:d8b-sigma)
 
 Names (10): _corpus: _corpus:phase:al-ta:d8b-sigma, corpus:phase:al-ta:sigma-d8b  
-_paper: _paper:10.1007/bf02665557:AlTa2, paper:10.1007/bf02665557:σAlTa2, paper:10.1016/j.intermet.2009.06.015:σ, paper:10.1016/s0364-5916(98)00037-6:σ  
+_paper: _paper:10.1007/bf02665557:AlTa2, paper:10.1007/bf02665557:σAlTa2, paper:10.1016/j.intermet.2009.06.015:σ, paper:sha256-85fd53a1a176b694:σ  
 _tdb: _tdb:AlTa-10Wit.tdb:SIGMA_D8B, tdb:AlTa-90Kat.tdb:SIGMA_D8B, tdb:AlTa-96Du-LB.tdb:SIGMA_D8B, tdb:AlTa-98Sau.tdb:SIGMA_D8B  
 
 
@@ -408,14 +404,12 @@ _tdb: _tdb:AlTa-10Wit.tdb:SIGMA_D8B, tdb:AlTa-90Kat.tdb:SIGMA_D8B, tdb:AlTa-96Du
 62: CONST SIGMA_D8B : AL : TA : AL TA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.intermet.2009.06.015](https://doi.org/10.1016/j.intermet.2009.06.015) V.T. Witusiewicz, A.A. Bondar, U. Hecht, J. Zollinger, V.M. Petyukh, O.S. Fomichov et al., Experimental study and thermodynamic re-assessment of the binary Al–Ta system, Intermetallics 18, 92-106 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02665557](https://doi.org/10.1007/BF02665557) Y. Du, R. Schmid-Fetzer, J. Phase Equilib., 17, 311-324(1996).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Al–Ta)
 
@@ -426,7 +420,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ta:fcc-a1)
 
 Names (8): _corpus: _corpus:phase:al-ta:fcc-a1  
-_paper: _paper:10.1007/bf02665557:fcc (Al), paper:10.1016/j.intermet.2009.06.015:(αAl), paper:10.1016/s0364-5916(98)00037-6:fcc-Al  
+_paper: _paper:10.1007/bf02665557:fcc (Al), paper:10.1016/j.intermet.2009.06.015:(αAl), paper:sha256-85fd53a1a176b694:fcc-Al  
 _tdb: _tdb:AlTa-10Wit.tdb:FCC_A1, tdb:AlTa-90Kat.tdb:FCC_A1, tdb:AlTa-96Du-LB.tdb:FCC_A1, tdb:AlTa-98Sau.tdb:FCC_A1  
 
 
@@ -460,14 +454,12 @@ _tdb: _tdb:AlTa-10Wit.tdb:FCC_A1, tdb:AlTa-90Kat.tdb:FCC_A1, tdb:AlTa-96Du-LB.td
 32: CONST FCC_A1 : AL% TA : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.intermet.2009.06.015](https://doi.org/10.1016/j.intermet.2009.06.015) V.T. Witusiewicz, A.A. Bondar, U. Hecht, J. Zollinger, V.M. Petyukh, O.S. Fomichov et al., Experimental study and thermodynamic re-assessment of the binary Al–Ta system, Intermetallics 18, 92-106 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02665557](https://doi.org/10.1007/BF02665557) Y. Du, R. Schmid-Fetzer, J. Phase Equilib., 17, 311-324(1996).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Al–Ta)
 
@@ -527,7 +519,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ta:liquid)
 
 Names (9): _corpus: _corpus:phase:al-ta:liquid  
-_paper: _paper:10.1007/bf02665557:Liquid, paper:10.1007/bf02665557:liquid, paper:10.1016/j.intermet.2009.06.015:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1007/bf02665557:Liquid, paper:10.1007/bf02665557:liquid, paper:10.1016/j.intermet.2009.06.015:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlTa-10Wit.tdb:LIQUID, tdb:AlTa-90Kat.tdb:LIQUID, tdb:AlTa-96Du-LB.tdb:LIQUID, tdb:AlTa-98Sau.tdb:LIQUID  
 
 
@@ -561,14 +553,12 @@ _tdb: _tdb:AlTa-10Wit.tdb:LIQUID, tdb:AlTa-90Kat.tdb:LIQUID, tdb:AlTa-96Du-LB.td
 27: CONST LIQUID:L : AL TA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/BF02665557](https://doi.org/10.1007/BF02665557) Y. Du, R. Schmid-Fetzer, J. Phase Equilib., 17, 311-324(1996).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2009.06.015](https://doi.org/10.1016/j.intermet.2009.06.015) V.T. Witusiewicz, A.A. Bondar, U. Hecht, J. Zollinger, V.M. Petyukh, O.S. Fomichov et al., Experimental study and thermodynamic re-assessment of the binary Al–Ta system, Intermetallics 18, 92-106 (2010).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

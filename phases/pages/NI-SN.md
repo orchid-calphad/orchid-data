@@ -17,10 +17,10 @@ Table: Phases of the Ni–Sn system (12)
 | [BCC_A2](#phase-ni-sn-bcc-a2); _phase:ni-sn:bcc-a2_ |  | needs_review | stable in 2 of 11 calculated diagram(s): 1184.63–1455.71 K, x(Sn) 0.23911–0.26653 | 0 | 11 |
 | [FCC_A1](#phase-ni-sn-fcc-a1); _phase:ni-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1734.24 K, x(Sn) 0–0.13456 | 19 | 11 |
 | [HCP_A3](#phase-ni-sn-hcp-a3); _phase:ni-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 11 calculated diagram(s): 504.61–504.61 K, x(Sn) 0.99054–0.99054 | 0 | 11 |
-| [LIQUID](#phase-ni-sn-liquid); _phase:ni-sn:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 503.85–2500 K, x(Sn) 0–1 | 67 | 11 |
+| [LIQUID](#phase-ni-sn-liquid); _phase:ni-sn:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 503.85–2500 K, x(Sn) 0–1 | 68 | 11 |
 | [NI3SN_D019](#phase-ni-sn-ni3sn-d019); _phase:ni-sn:ni3sn-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1246.08 K, x(Sn) 0.23917–0.25541 | 51 | 11 |
 | [NI3SN_D03](#phase-ni-sn-ni3sn-d03); _phase:ni-sn:ni3sn-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 1090–1462.98 K, x(Sn) 0.09–0.27263 | 39 | 9 |
-| [NI3SN2_LT](#phase-ni-sn-ni3sn2); _phase:ni-sn:ni3sn2_ |  | needs_review | stable in 11 of 11 calculated diagram(s): 300–1553.78 K, x(Sn) 0.37716–0.43985 | 37 | 11 |
+| [NI3SN2_LT](#phase-ni-sn-ni3sn2); _phase:ni-sn:ni3sn2_ |  | needs_review | stable in 11 of 11 calculated diagram(s): 300–1553.78 K, x(Sn) 0.37716–0.43985 | 38 | 11 |
 | [NI3SN2_B82](#phase-ni-sn-ni3sn2-b82); _phase:ni-sn:ni3sn2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 414.67–1552.95 K, x(Sn) 0.37102–0.4511 | 18 | 7 |
 | [NI3SN2-LT](#phase-ni-sn-ni3sn2-lt); _phase:ni-sn:ni3sn2-lt_ |  | needs_review | no calculated diagram | 10 | 0 |
 | [NI3SN4](#phase-ni-sn-ni3sn4); _phase:ni-sn:ni3sn4_ | Ni3Sn4 · mC14 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 11 of 11 calculated diagram(s): 300–1075.85 K, x(Sn) 0.52691–0.58093 | 33 | 11 |
@@ -602,11 +602,11 @@ _assessment that models this phase_
 - Id: `phase:ni-sn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 11 of 11 calculated diagram(s): 503.85–2500 K, x(Sn) 0–1
-- Literature: 67 values (67 accepted) from 3 papers
+- Literature: 68 values (68 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:liquid)
 
-Names (16): _corpus: _corpus:phase:ni-sn:liquid  
-_paper: _paper:10.1007/s00706-012-0778-5:L, paper:10.1007/s00706-012-0778-5:Liquid, paper:10.1016/j.calphad.2003.10.001:Liq, paper:10.1016/j.calphad.2004.12.002:L  
+Names (17): _corpus: _corpus:phase:ni-sn:liquid  
+_paper: _paper:10.1007/s00706-012-0778-5:L, paper:10.1007/s00706-012-0778-5:Liquid, paper:10.1007/s11661-999-0085-x:liquid, paper:10.1016/j.calphad.2003.10.001:Liq, paper:10.1016/j.calphad.2004.12.002:L  
 _tdb: _tdb:NiSn-03Mie.tdb:LIQUID, tdb:NiSn-04Liu.tdb:LIQUID, tdb:NiSn-05Liu.tdb:LIQUID, tdb:NiSn-12Zem.tdb:LIQUID, tdb:NiSn-13Don.tdb:LIQUID, tdb:NiSn-13Liu-fractional.tdb:LIQUID, tdb:NiSn-13Liu.tdb:LIQUID, tdb:NiSn-16Ber.tdb:LIQUID, tdb:NiSn-21Zha.tdb:LIQUID, tdb:NiSn-22Lia.tdb:LIQUID, tdb:NiSn-99Gho.tdb:LIQUID  
 
 
@@ -710,7 +710,7 @@ _assessment that models this phase_
 - [doi:10.3139/146.110827](https://doi.org/10.3139/146.110827) J. Liu, C. Guo, C. Li, Z. Du, Int. J. Mater. Res., 104, 51-59(2013).  
 _assessment that models this phase_
 - [doi:10.1007/s11661-999-0085-x](https://doi.org/10.1007/s11661-999-0085-x) G. Ghosh, Thermodynamic modeling of the nickel-lead-tin system, Metall Mater Trans A 30, 1481-1494 (1999).  
-_cited as the source of values for this phase_
+_cited as the source of values for this phase; reports values for this phase_
 
 ## NI3SN_D019 (Ni–Sn)
 
@@ -957,11 +957,11 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): Ni3Sn2 · oP20 · Pnma (62) — Hallstedt 2025 mmc2 row for NI3SN2_LT: Ni3Sn2 (low T)
 - Candidate (tdb_comment): InNi2 · hP6 · P6_3/mmc — NiSn-03Mie.tdb: 'Prototype InNi2 (hP6, P6_3/mmc), high T and'
 - Stability: stable in 11 of 11 calculated diagram(s): 300–1553.78 K, x(Sn) 0.37716–0.43985
-- Literature: 37 values (37 accepted) from 2 papers
+- Literature: 38 values (38 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:ni3sn2)
 
-Names (14): _corpus: _corpus:phase:ni-sn:ni3sn2  
-_paper: _paper:10.1007/s00706-012-0778-5:Ni3Sn2, paper:10.1016/j.calphad.2003.10.001:Ni3Sn2(η)  
+Names (15): _corpus: _corpus:phase:ni-sn:ni3sn2  
+_paper: _paper:10.1007/s00706-012-0778-5:Ni3Sn2, paper:10.1007/s11661-999-0085-x:Ni3Sn2, paper:10.1016/j.calphad.2003.10.001:Ni3Sn2(η)  
 _tdb: _tdb:NiSn-03Mie.tdb:NI3SN2, tdb:NiSn-04Liu.tdb:NI3SN2_LT, tdb:NiSn-05Liu.tdb:NI3SN2, tdb:NiSn-12Zem.tdb:NI3SN2, tdb:NiSn-13Don.tdb:NI3SN2, tdb:NiSn-13Liu-fractional.tdb:NI3SN2_LT, tdb:NiSn-13Liu.tdb:NI3SN2_LT, tdb:NiSn-16Ber.tdb:NI3SN2_LT, tdb:NiSn-21Zha.tdb:NI3SN2_LT, tdb:NiSn-22Lia.tdb:NI3SN2_LT, tdb:NiSn-99Gho.tdb:NI3SN2_LT  
 
 

@@ -1,25 +1,12 @@
 # Nb–Y system
 
-> Nb–Y system: 3 accepted literature values (phase transition 2, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Y system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-Y.html · Markdown: https://data.orchid-project.org/systems/NB-Y.md
 
-3 accepted literature values from 1 paper(s) (model 3); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-Y.json) · [CSV](https://data.orchid-project.org/systems/NB-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-Y/NbY-08Mat.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NB-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-Y.html) · [Markdown](https://data.orchid-project.org/systems/NB-Y.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 3 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
-| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -41,31 +28,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | NbY-08Mat.tdb | 1741.32 | BCC_A2 (x(Y) 3.000e-5) + LIQUID (x(Y) 0.9765) + HCP_A3 (x(Y) 0.99999) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/NB/NB-Y.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/NB/NB-Y.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Nb–Y system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1743.15 | eutectic |  | model | [1] Mattern 2008; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645717) | p. 7; `ORC-2XETEZWOYC.516897` | “Using regular and subregular interaction parameters for the liquid phase, it was possible to obtain a good fit of the eutectic and monotectic temperatures, 1470 ± 10 C and 2400 C, respectively.\[16\]” |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Nb–Y system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1751.15 K | 1751.15 | polymorphic | model | [1] Mattern 2008; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645717) | p. 7; `ORC-TIJAPKI4MF` | “The calculated solid solubilities of Y in Nb and vice versa are around 0.1 at.% in agreement with experimental reports,\[16\] while niobium has virtually no effect on the temperature of polymorphic cph M bcc transformation in yttrium metal (1478 C).” |
-| Phase transition | 2673.15 K | 2673.15 | other | model | [1] Mattern 2008; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645717) | p. 7; `ORC-2XETEZWOYC.af8ae2` | “Using regular and subregular interaction parameters for the liquid phase, it was possible to obtain a good fit of the eutectic and monotectic temperatures, 1470 ± 10 C and 2400 C, respectively.\[16\]” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. N. Mattern, M. Zinkevich, W. Löser, G. Behr, J. Acker, Experimental and Thermodynamic Assessment of the Nb-Ni-Y System, J Phs Eqil and Diff 29, 141-155 (2008). [doi:10.1007/s11669-007-9243-2](https://doi.org/10.1007/s11669-007-9243-2)
 
 ## Please cite
 

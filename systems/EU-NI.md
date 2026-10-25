@@ -128,7 +128,7 @@ Table: Heat capacity / entropy / enthalpy, Eu–Ni system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: Entropies of formation_ | 37.79 J/mol (basis unstated)/K |  | Ni17Eu2; _alloy: Ni 0.894737_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 1; `ORC-UXZ7KE63PM.045e19` |  |
-| Entropy; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8; `ORC-4F2EYUKZH7.91623b` |  |
+| Entropy; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Eu 0.333333, Ni 0.666667_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8; `ORC-4F2EYUKZH7.91623b` |  |
 | Entropy; _printed: Entropies of formation_ | 49.55 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Ni 0.666667_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 6; `ORC-A6KOMUBVA5.327710` |  |
 | Entropy; _printed: Entropies of formation_ | 41.19 J/mol (basis unstated)/K |  | Ni5Eu; _alloy: Ni 0.833333_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 4; `ORC-AYACNSRBQF.6b17b6` |  |
 | Entropy; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | NiEu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8; `ORC-4F2EYUKZH7.9ea394` |  |

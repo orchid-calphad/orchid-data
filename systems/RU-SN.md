@@ -1,10 +1,10 @@
 # Ru–Sn system
 
-> Ru–Sn system: 244 accepted literature values (mixing / partial 148, activity / EMF / Gibbs energy 67, phase equilibrium 10, formation 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ru–Sn system: 242 accepted literature values (mixing / partial 148, activity / EMF / Gibbs energy 67, phase equilibrium 10, formation 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RU-SN.html · Markdown: https://data.orchid-project.org/systems/RU-SN.md
 
-244 accepted literature values from 2 paper(s) (experimental 46, model 194, unspecified 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+242 accepted literature values from 2 paper(s) (experimental 44, model 194, unspecified 4); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RU-SN.json) · [CSV](https://data.orchid-project.org/systems/RU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-SN/RuSn-12Lon.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RU-SN.html) · [Markdown](https://data.orchid-project.org/systems/RU-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
+| experimental | 44 |
 | model | 194 |
 | unspecified | 4 |
 
@@ -20,8 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
-| phase transition | 1 |
+| invariant reaction | 8 |
 | phase equilibrium | 10 |
 | formation | 9 |
 | mixing / partial | 148 |
@@ -59,7 +58,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ru–Sn system (9)
+Table: Invariant reactions reported in the literature for the Ru–Sn system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -69,7 +68,6 @@ Table: Invariant reactions reported in the literature for the Ru–Sn system (9)
 | 1530 | congruent melting: L -> Ru3Sn7 | L: Ru 0.3, Sn 0.7; Ru3Sn7: Ru 0.3, Sn 0.7 | model | [1] Long 2012 | Table 3, p. 6, row 8; `ORC-S7THESTDOB` |  |
 | 1528 | eutectic: L -> Ru2Sn3 + Ru3Sn7 | L: Sn 0.67; Ru2Sn3: Ru 0.4, Sn 0.6; Ru3Sn7: Ru 0.3, Sn 0.7 | model | [1] Long 2012 | Table 3, p. 6, row 4; `ORC-7RNYFTXV5C` |  |
 | 1528 | eutectic: L -> Ru2Sn3 + Ru3Sn7 | L: Sn 0.67; Ru2Sn3: Ru 0.4, Sn 0.6; Ru3Sn7: Ru 0.3, Sn 0.7 | experimental | [1] Long 2012; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 6, row 3; `ORC-UR3MJPABAK` |  |
-| 1513 | peritectic |  | experimental | [1] Long 2012; _cites Susz 1976_ | p. 2; `ORC-6CAVV5XAB7.a46452` | “According to Susz et al.,\[14\] Ru2Sn3 decomposes peritectically at 1513 K, while Ru3Sn7 melts congruently at 1548 K.” |
 | 506 | eutectic: L -> Ru3Sn7 + bct(Sn) | L: Sn 0.99; Ru3Sn7: Ru 0.3, Sn 0.7 | experimental | [1] Long 2012; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 6, row 5; `ORC-ETKEC54KNZ` |  |
 | 505 | eutectic: L -> Ru3Sn7 + bct(Sn) | L: Sn 0.99; Ru3Sn7: Ru 0.3, Sn 0.7 | model | [1] Long 2012 | Table 3, p. 6, row 6; `ORC-MPJOBZOMLP` |  |
 
@@ -92,14 +90,6 @@ Table: Enthalpies of formation, Ru–Sn system (9)
 | Ru0.4Sn0.6 |  | -21.1 kJ/mol (basis unstated) ± 2.5 | 298.15 | experimental |  |  | [2] Charles 1999; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 1, p. 1, row 7; `ORC-WRCG5F65ZG` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ru–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1548 K | 1548 | congruent transformation | experimental | [1] Long 2012; _cites Susz 1976_ | p. 2; `ORC-6CAVV5XAB7.20f1ea` | “According to Susz et al.,\[14\] Ru2Sn3 decomposes peritectically at 1513 K, while Ru3Sn7 melts congruently at 1548 K.” |
 
 ### Phase equilibrium (10)
 

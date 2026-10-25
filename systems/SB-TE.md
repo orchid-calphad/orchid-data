@@ -1,10 +1,10 @@
 # Sb–Te system
 
-> Sb–Te system: 43 accepted literature values (invariant reaction 24, phase transition 11, heat capacity / entropy / enthalpy 6, formation 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Te system: 42 accepted literature values (invariant reaction 23, phase transition 11, heat capacity / entropy / enthalpy 6, formation 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-TE.html · Markdown: https://data.orchid-project.org/systems/SB-TE.md
 
-43 accepted literature values from 1 paper(s) (experimental 20, model 22, unspecified 1); 3 calculated phase diagram(s).
+42 accepted literature values from 1 paper(s) (experimental 19, model 22, unspecified 1); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-TE.json) · [CSV](https://data.orchid-project.org/systems/SB-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-TE/SbTe-14Guo.json) · [phases (14)](https://data.orchid-project.org/phases/pages/SB-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-TE.html) · [Markdown](https://data.orchid-project.org/systems/SB-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 19 |
 | model | 22 |
 | unspecified | 1 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 24 |
+| invariant reaction | 23 |
 | phase transition | 11 |
 | formation | 2 |
 | heat capacity / entropy / enthalpy | 6 |
@@ -65,11 +65,10 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sb–Te system (24)
+Table: Invariant reactions reported in the literature for the Sb–Te system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 833.15 | peritectic |  | experimental | [1] Guo 2014; _cites Eckerlin 1966_ | p. 2; `ORC-VTW557KG7D` | “Eckerlin and Stegherr38 measured the phase equilibria between Sb and Sb2Te3 using thermal analysis, metallography and XRD techniques. A peritectic reaction at 560C was confirmed.” |
 | 833 | liq. + Sb2Te3 -> gamma | liq.: Te 0.4064; Sb2Te3: Te 0.6; gamma: Te 0.4859 | model | [1] Guo 2014 | Table II, p. 4, row 20; `ORC-46M5FEMYWN` |  |
 | 832 | liq. + Sb2Te3 -> gamma | liq.: Te 0.4123; Sb2Te3: Te 0.6; gamma: Te 0.4859 | model | [1] Guo 2014 | Table II, p. 4, row 19; `ORC-FNFC3YMFMF` |  |
 | 831 | liq. + Sb2Te3 -> gamma | liq.: Te 0.41; Sb2Te3: Te 0.6; gamma: Te 0.55 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 16; `ORC-ITDOG77KGI` |  |
@@ -85,14 +84,14 @@ Table: Invariant reactions reported in the literature for the Sb–Te system (24
 | 821 | liq. + gamma -> delta | liq.: Te 0.37; gamma: Te 0.42; delta: Te 0.39 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 11; `ORC-ZSTO3IRCT3` |  |
 | 820 | liq. + gamma -> delta | liq.: Te 0.3514; gamma: Te 0.4257; delta: Te 0.3949 | model | [1] Guo 2014 | Table II, p. 4, row 14; `ORC-2GAAA4ZKJY` |  |
 | 819 | liq. + gamma -> delta | liq.: Te 0.308; gamma: Te 0.411; delta: Te 0.368 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 13; `ORC-MATFZEHB2D` |  |
-| 725 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Pelabon 1906_ | Table II, p. 4, row 31; `ORC-E23YCN6DQC` |  |
-| 719 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Fay 1902_ | Table II, p. 4, row 30; `ORC-JQFDCKGDJN` |  |
-| 715 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Kimata 1915_ | Table II, p. 4, row 29; `ORC-AAGDLKY2SC` |  |
-| 697 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.89; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Brown 1962_ [doi](https://doi.org/10.1016/0022-3697%2862%2990242-1) | Table II, p. 4, row 28; `ORC-TXLSWDRWK4` |  |
-| 695 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9208; Sb2Te3: Te 0.6; hex(Te): Te 1 | model | [1] Guo 2014 | Table II, p. 4, row 33; `ORC-EGQLX6HLAU` |  |
-| 695 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.926; Sb2Te3: Te 0.6; hex(Te): Te 1 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 32; `ORC-VQQFG3OOZG` |  |
-| 693 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.91; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 27; `ORC-MX3SYJTVZP` |  |
-| 688 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9262; Sb2Te3: Te 0.6; hex(Te): Te 1 | model | [1] Guo 2014 | Table II, p. 4, row 34; `ORC-E3HRI6EG7D` |  |
+| 725 | eutectic: liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Pelabon 1906_ | Table II, p. 4, row 31; `ORC-E23YCN6DQC` |  |
+| 719 | eutectic: liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Fay 1902_ | Table II, p. 4, row 30; `ORC-JQFDCKGDJN` |  |
+| 715 | eutectic: liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Kimata 1915_ | Table II, p. 4, row 29; `ORC-AAGDLKY2SC` |  |
+| 697 | eutectic: liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.89; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Brown 1962_ [doi](https://doi.org/10.1016/0022-3697%2862%2990242-1) | Table II, p. 4, row 28; `ORC-TXLSWDRWK4` |  |
+| 695 | eutectic: liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9208; Sb2Te3: Te 0.6; hex(Te): Te 1 | model | [1] Guo 2014 | Table II, p. 4, row 33; `ORC-EGQLX6HLAU` |  |
+| 695 | eutectic: liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.926; Sb2Te3: Te 0.6; hex(Te): Te 1 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 32; `ORC-VQQFG3OOZG` |  |
+| 693 | eutectic: liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.91; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 27; `ORC-MX3SYJTVZP` |  |
+| 688 | eutectic: liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9262; Sb2Te3: Te 0.6; hex(Te): Te 1 | model | [1] Guo 2014 | Table II, p. 4, row 34; `ORC-E3HRI6EG7D` |  |
 
 ## Formation enthalpies
 

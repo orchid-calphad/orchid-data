@@ -1,10 +1,10 @@
 # Ag–Pb system
 
-> Ag–Pb system: 396 accepted literature values (heat capacity / entropy / enthalpy 342, mixing / partial 45, invariant reaction 6, phase transition 3) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Pb system: 387 accepted literature values (heat capacity / entropy / enthalpy 342, mixing / partial 45) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-PB.html · Markdown: https://data.orchid-project.org/systems/AG-PB.md
 
-396 accepted literature values from 1 paper(s) (experimental 389, model 7); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+387 accepted literature values from 1 paper(s) (experimental 386, model 1); 7 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-PB.json) · [CSV](https://data.orchid-project.org/systems/AG-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-PB/AgPb-00Luk-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-PB.html) · [Markdown](https://data.orchid-project.org/systems/AG-PB.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 389 |
-| model | 7 |
+| experimental | 386 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
-| phase transition | 3 |
 | mixing / partial | 45 |
 | heat capacity / entropy / enthalpy | 342 |
 
@@ -54,30 +52,7 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-PB.json) · [CALPHAD hull AgPb-00Luk-LB](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-PB--AgPb-00Luk-LB.json) · [CALPHAD hull AgPb-00Luk-SGSOL](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-PB--AgPb-00Luk-SGSOL.json) · [CALPHAD hull AgPb-10Has](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-PB--AgPb-10Has.json) · [CALPHAD hull AgPb-86Hay](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-PB--AgPb-86Hay.json) · [CALPHAD hull AgPb-94Lee](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-PB--AgPb-94Lee.json) · [CALPHAD hull AgPb-98Luk](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-PB--AgPb-98Luk.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ag–Pb system (6)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 707 | peritectic |  | model | [1] Hassam 2010 | p. 2; `ORC-DTZ6PYY6OX.3cc0fa` | “Four invariant reactions occur in the Au-Pb system: three peritectic reactions at 707, 526 and 495 K, respectively, and one eutectic reaction at 488 K.” |
-| 577.15 | eutectic |  | model | [1] Hassam 2010 | p. 2; `ORC-ZPKLHRYWM5` | “The calculated eutectic composition and temperature are 95.5 at.% Pb and 577.15 K, respectively.” |
-| 576.8 | eutectic |  | model | [1] Hassam 2010 | p. 5; `ORC-A255G37VUJ` | “The calculated eutectic composition and temperature are xAg = 0.045 and 576.8 K, respectively.” |
-| 526 | peritectic |  | model | [1] Hassam 2010 | p. 2; `ORC-DTZ6PYY6OX.602dc4` | “Four invariant reactions occur in the Au-Pb system: three peritectic reactions at 707, 526 and 495 K, respectively, and one eutectic reaction at 488 K.” |
-| 495 | peritectic |  | model | [1] Hassam 2010 | p. 2; `ORC-DTZ6PYY6OX.59a39c` | “Four invariant reactions occur in the Au-Pb system: three peritectic reactions at 707, 526 and 495 K, respectively, and one eutectic reaction at 488 K.” |
-| 488 | eutectic |  | model | [1] Hassam 2010 | p. 2; `ORC-DTZ6PYY6OX.ef9c5f` | “Four invariant reactions occur in the Au-Pb system: three peritectic reactions at 707, 526 and 495 K, respectively, and one eutectic reaction at 488 K.” |
-
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Ag–Pb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 482.5 K | 482.5 |  | experimental | [1] Hassam 2010; _cites Hassam 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.087) | p. 2; `ORC-K4KAH3AIT2.f062bb` | “They confirmed the three ternary invariants U1 , U2 and E at 491, 487 and 482.5 K, respectively.” |
-| Phase transition | 487 K | 487 |  | experimental | [1] Hassam 2010; _cites Hassam 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.087) | p. 2; `ORC-K4KAH3AIT2.265d19` | “They confirmed the three ternary invariants U1 , U2 and E at 491, 487 and 482.5 K, respectively.” |
-| Phase transition | 491 K | 491 |  | experimental | [1] Hassam 2010; _cites Hassam 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.087) | p. 2; `ORC-K4KAH3AIT2.10b74a` | “They confirmed the three ternary invariants U1 , U2 and E at 491, 487 and 482.5 K, respectively.” |
 
 ### Mixing / partial (45)
 

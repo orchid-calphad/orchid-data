@@ -20,7 +20,7 @@ Table: Phases of the Al–Nb system (15)
 | [SIGMA_DIS](#phase-al-nb-dis-sigma); _phase:al-nb:dis-sigma_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-al-nb-fcc-a1); _phase:al-nb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–934.57 K, x(Nb) 0–0.00166 | 16 | 6 |
 | [HCP_A3](#phase-al-nb-hcp-a3); _phase:al-nb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
-| [LIQUID](#phase-al-nb-liquid); _phase:al-nb:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 927.57–4000 K, x(Nb) 0–1 | 67 | 6 |
+| [LIQUID](#phase-al-nb-liquid); _phase:al-nb:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 927.57–4000 K, x(Nb) 0–1 | 69 | 6 |
 | [SIGMA_OLD](#phase-al-nb-old-sigma); _phase:al-nb:old-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2237.63 K, x(Nb) 0.59625–0.72251 | 0 | 1 |
 | [SIG2SL](#phase-al-nb-sig2sl); _phase:al-nb:sig2sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2210 K, x(Nb) 0.55259–0.69154 | 0 | 1 |
 | [SIG2SL3](#phase-al-nb-sig2sl3); _phase:al-nb:sig2sl3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300.39–2210 K, x(Nb) 0.55259–0.69154 | 0 | 1 |
@@ -41,7 +41,7 @@ Table: Phases of the Al–Nb system (15)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nb:al3nb-d022)
 
 Names (11): _corpus: _corpus:phase:al-nb:al3nb-d022  
-_paper: _paper:10.1016/j.jallcom.2008.05.008:ε, paper:10.1016/j.jallcom.2015.02.182:NbAl3, paper:10.1016/s0364-5916(98)00037-6:Al3Nb\*  
+_paper: _paper:10.1016/j.jallcom.2008.05.008:ε, paper:10.1016/j.jallcom.2015.02.182:NbAl3, paper:sha256-85fd53a1a176b694:Al3Nb\*  
 _system_alias: _system_alias:al-nb:epsilon  
 _tdb: _tdb:AlNb-08Zhu.tdb:AL3NB_D022, tdb:AlNb-09Wit.tdb:AL3NB_D022, tdb:AlNb-15He.tdb:AL3NB_D022, tdb:AlNb-23Fio.tdb:AL3NB_D022, tdb:AlNb-97Ser-LB.tdb:AL3NB_D022, tdb:AlNb-98Sau.tdb:AL3NB_D022  
 
@@ -90,7 +90,7 @@ _tdb: _tdb:AlNb-08Zhu.tdb:AL3NB_D022, tdb:AlNb-09Wit.tdb:AL3NB_D022, tdb:AlNb-15
 58: CONST AL3NB_D022 : AL : NB% : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.05.008](https://doi.org/10.1016/j.jallcom.2008.05.008) V.T. Witusiewicz, A.A. Bondar, U. Hecht, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 472, 133-161 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -102,8 +102,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase_
 - [doi:10.1002/bbpc.19981020923](https://doi.org/10.1002/bbpc.19981020923) C. Servant, I. Ansara, Thermodynamic assessment of the Al‐Nb‐Ti system, Ber Bunsenges Phys Chem 102, 1189-1205 (1998).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1051/jcp/1997940869](https://doi.org/10.1051/jcp/1997940869) C Servant, I Ansara, Thermodynamic assessment of the Al-Nb system, J. Chim. Phys. 94, 869-888 (1997).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(80)90120-4](https://doi.org/10.1016/0022-5088%2880%2990120-4) J.L. Jorda, R. Flükiger, J. Muller, A New metallurgical investigation of the niobium-aluminium system, Journal of the Less Common Metals 75, 227-239 (1980).  
@@ -125,7 +123,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nb:alnb3-a15)
 
 Names (10): _corpus: _corpus:phase:al-nb:alnb3-a15  
-_paper: _paper:10.1016/j.jallcom.2008.05.008:δ, paper:10.1016/j.jallcom.2015.02.182:Nb3Al, paper:10.1016/s0364-5916(98)00037-6:AlNb3\*\*  
+_paper: _paper:10.1016/j.jallcom.2008.05.008:δ, paper:10.1016/j.jallcom.2015.02.182:Nb3Al, paper:sha256-85fd53a1a176b694:AlNb3\*\*  
 _tdb: _tdb:AlNb-08Zhu.tdb:ALNB3_A15, tdb:AlNb-09Wit.tdb:ALNB3_A15, tdb:AlNb-15He.tdb:ALNB3_A15, tdb:AlNb-23Fio.tdb:ALNB3_A15, tdb:AlNb-97Ser-LB.tdb:ALNB3_A15, tdb:AlNb-98Sau.tdb:ALNB3_A15  
 
 
@@ -173,7 +171,7 @@ _tdb: _tdb:AlNb-08Zhu.tdb:ALNB3_A15, tdb:AlNb-09Wit.tdb:ALNB3_A15, tdb:AlNb-15He
 68: CONST ALNB3_A15 : AL% NB : NB : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.05.008](https://doi.org/10.1016/j.jallcom.2008.05.008) V.T. Witusiewicz, A.A. Bondar, U. Hecht, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 472, 133-161 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -187,8 +185,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(80)90120-4](https://doi.org/10.1016/0022-5088%2880%2990120-4) J.L. Jorda, R. Flükiger, J. Muller, A New metallurgical investigation of the niobium-aluminium system, Journal of the Less Common Metals 75, 227-239 (1980).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1051/jcp/1997940869](https://doi.org/10.1051/jcp/1997940869) C Servant, I Ansara, Thermodynamic assessment of the Al-Nb system, J. Chim. Phys. 94, 869-888 (1997).  
 _cited as the source of values for this phase_
 
@@ -201,7 +197,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nb:bcc-a2)
 
 Names (14): _corpus: _corpus:phase:al-nb:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2008.05.008:β, paper:10.1016/j.jallcom.2015.02.182:(Nb), paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1016/j.jallcom.2008.05.008:β, paper:10.1016/j.jallcom.2015.02.182:(Nb), paper:sha256-85fd53a1a176b694:bcc-A2  
 _system_alias: _system_alias:al-nb:beta  
 _tdb: _tdb:AlNb-08Zhu.tdb:A2_BCC, tdb:AlNb-08Zhu.tdb:BCC_A2, tdb:AlNb-09Wit.tdb:A2_BCC, tdb:AlNb-09Wit.tdb:BCC_A2, tdb:AlNb-15He.tdb:BCC_A2, tdb:AlNb-23Fio.tdb:BCC_A2, tdb:AlNb-97Ser-LB.tdb:BCC_A2, tdb:AlNb-98Sau.tdb:A2_BCC, tdb:AlNb-98Sau.tdb:BCC_A2  
 
@@ -271,7 +267,7 @@ _tdb: _tdb:AlNb-08Zhu.tdb:A2_BCC, tdb:AlNb-08Zhu.tdb:BCC_A2, tdb:AlNb-09Wit.tdb:
 38: CONST BCC_A2 : AL NB : VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.05.008](https://doi.org/10.1016/j.jallcom.2008.05.008) V.T. Witusiewicz, A.A. Bondar, U. Hecht, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 472, 133-161 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -285,8 +281,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(80)90120-4](https://doi.org/10.1016/0022-5088%2880%2990120-4) J.L. Jorda, R. Flükiger, J. Muller, A New metallurgical investigation of the niobium-aluminium system, Journal of the Less Common Metals 75, 227-239 (1980).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1051/jcp/1997940869](https://doi.org/10.1051/jcp/1997940869) C Servant, I Ansara, Thermodynamic assessment of the Al-Nb system, J. Chim. Phys. 94, 869-888 (1997).  
 _cited as the source of values for this phase_
 
@@ -352,7 +346,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nb:d8b-sigma)
 
 Names (10): _corpus: _corpus:phase:al-nb:d8b-sigma, corpus:phase:al-nb:sigma-d8b  
-_paper: _paper:10.1016/j.jallcom.2008.05.008:σ, paper:10.1016/j.jallcom.2015.02.182:Nb2Al, paper:10.1016/s0364-5916(98)00037-6:σ  
+_paper: _paper:10.1016/j.jallcom.2008.05.008:σ, paper:10.1016/j.jallcom.2015.02.182:Nb2Al, paper:sha256-85fd53a1a176b694:σ  
 _tdb: _tdb:AlNb-08Zhu.tdb:SIGMA_D8B, tdb:AlNb-09Wit.tdb:SIGMA_D8B, tdb:AlNb-15He.tdb:SIGMA_D8B, tdb:AlNb-23Fio.tdb:SIGMA_D8B, tdb:AlNb-97Ser-LB.tdb:SIGMA_D8B  
 
 
@@ -393,7 +387,7 @@ _tdb: _tdb:AlNb-08Zhu.tdb:SIGMA_D8B, tdb:AlNb-09Wit.tdb:SIGMA_D8B, tdb:AlNb-15He
 54: CONST SIGMA_D8B : AL NB : NB : AL NB : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.05.008](https://doi.org/10.1016/j.jallcom.2008.05.008) V.T. Witusiewicz, A.A. Bondar, U. Hecht, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 472, 133-161 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -407,8 +401,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(80)90120-4](https://doi.org/10.1016/0022-5088%2880%2990120-4) J.L. Jorda, R. Flükiger, J. Muller, A New metallurgical investigation of the niobium-aluminium system, Journal of the Less Common Metals 75, 227-239 (1980).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1051/jcp/1997940869](https://doi.org/10.1051/jcp/1997940869) C Servant, I Ansara, Thermodynamic assessment of the Al-Nb system, J. Chim. Phys. 94, 869-888 (1997).  
 _cited as the source of values for this phase_
 
@@ -448,7 +440,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nb:fcc-a1)
 
 Names (10): _corpus: _corpus:phase:al-nb:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2008.05.008:(αAl), paper:10.1016/j.jallcom.2015.02.182:(Al), paper:10.1016/s0364-5916(98)00037-6:fcc-Al  
+_paper: _paper:10.1016/j.jallcom.2008.05.008:(αAl), paper:10.1016/j.jallcom.2015.02.182:(Al), paper:sha256-85fd53a1a176b694:fcc-Al  
 _tdb: _tdb:AlNb-08Zhu.tdb:FCC_A1, tdb:AlNb-09Wit.tdb:FCC_A1, tdb:AlNb-15He.tdb:FCC_A1, tdb:AlNb-23Fio.tdb:FCC_A1, tdb:AlNb-97Ser-LB.tdb:FCC_A1, tdb:AlNb-98Sau.tdb:FCC_A1  
 
 
@@ -496,7 +488,7 @@ _tdb: _tdb:AlNb-08Zhu.tdb:FCC_A1, tdb:AlNb-09Wit.tdb:FCC_A1, tdb:AlNb-15He.tdb:F
 33: CONST FCC_A1 : AL NB : VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.05.008](https://doi.org/10.1016/j.jallcom.2008.05.008) V.T. Witusiewicz, A.A. Bondar, U. Hecht, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 472, 133-161 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -508,8 +500,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase_
 - [doi:10.1002/bbpc.19981020923](https://doi.org/10.1002/bbpc.19981020923) C. Servant, I. Ansara, Thermodynamic assessment of the Al‐Nb‐Ti system, Ber Bunsenges Phys Chem 102, 1189-1205 (1998).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1051/jcp/1997940869](https://doi.org/10.1051/jcp/1997940869) C Servant, I Ansara, Thermodynamic assessment of the Al-Nb system, J. Chim. Phys. 94, 869-888 (1997).  
 _cited as the source of values for this phase_
 - [doi:10.1149/1.2124218](https://doi.org/10.1149/1.2124218) I. Shilo, H. F. Franzen, R. A. Schiffman, Enthalpies of Formation of Niobium Aluminides as Determined by the Knudsen Effusion Method, J. Electrochem. Soc. 129, 1608-1613 (1982).  
@@ -587,11 +577,11 @@ _assessment that models this phase_
 - Id: `phase:al-nb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 927.57–4000 K, x(Nb) 0–1
-- Literature: 67 values (67 accepted) from 4 papers
+- Literature: 69 values (69 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nb:liquid)
 
-Names (11): _corpus: _corpus:phase:al-nb:liquid  
-_paper: _paper:10.1016/j.jallcom.2007.06.033:liquid, paper:10.1016/j.jallcom.2008.05.008:L, paper:10.1016/j.jallcom.2015.02.182:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+Names (12): _corpus: _corpus:phase:al-nb:liquid  
+_paper: _paper:10.1016/j.jallcom.2007.06.033:liquid, paper:10.1016/j.jallcom.2008.05.008:L, paper:10.1016/j.jallcom.2015.02.182:L, paper:10.1016/j.jallcom.2015.02.182:liquid, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlNb-08Zhu.tdb:LIQUID, tdb:AlNb-09Wit.tdb:LIQUID, tdb:AlNb-15He.tdb:LIQUID, tdb:AlNb-23Fio.tdb:LIQUID, tdb:AlNb-97Ser-LB.tdb:LIQUID, tdb:AlNb-98Sau.tdb:LIQUID  
 
 
@@ -639,7 +629,7 @@ _tdb: _tdb:AlNb-08Zhu.tdb:LIQUID, tdb:AlNb-09Wit.tdb:LIQUID, tdb:AlNb-15He.tdb:L
 28: CONST LIQUID:L : AL NB : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.05.008](https://doi.org/10.1016/j.jallcom.2008.05.008) V.T. Witusiewicz, A.A. Bondar, U. Hecht, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 472, 133-161 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -651,8 +641,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase_
 - [doi:10.1002/bbpc.19981020923](https://doi.org/10.1002/bbpc.19981020923) C. Servant, I. Ansara, Thermodynamic assessment of the Al‐Nb‐Ti system, Ber Bunsenges Phys Chem 102, 1189-1205 (1998).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1051/jcp/1997940869](https://doi.org/10.1051/jcp/1997940869) C Servant, I Ansara, Thermodynamic assessment of the Al-Nb system, J. Chim. Phys. 94, 869-888 (1997).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(80)90120-4](https://doi.org/10.1016/0022-5088%2880%2990120-4) J.L. Jorda, R. Flükiger, J. Muller, A New metallurgical investigation of the niobium-aluminium system, Journal of the Less Common Metals 75, 227-239 (1980).  

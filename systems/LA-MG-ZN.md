@@ -1,10 +1,10 @@
 # La–Mg–Zn system
 
-> La–Mg–Zn system: 25 accepted literature values (invariant reaction 25) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Mg–Zn system: 23 accepted literature values (invariant reaction 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-MG-ZN.html · Markdown: https://data.orchid-project.org/systems/LA-MG-ZN.md
 
-25 accepted literature values from 1 paper(s) (experimental 4, model 21); 0 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (experimental 2, model 21); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/LA-MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MG-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/LA-MG-ZN.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 2 |
 | model | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 25 |
+| invariant reaction | 23 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–Mg–Zn system (25)
+Table: Invariant reactions reported in the literature for the La–Mg–Zn system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -46,12 +46,10 @@ Table: Invariant reactions reported in the literature for the La–Mg–Zn syste
 | 628 | peritectic: L + La2(Mg,Zn)17 + Mg2Zn3 -> T1 |  | model | [1] Qi 2010 | Table 3, p. 6, row 17; `ORC-Y3KIFK5WSX` |  |
 | 627 | quasi-peritectic: L + La2(Mg,Zn)17 -> HCP(Mg) + T1 |  | model | [1] Qi 2010 | Table 3, p. 6, row 18; `ORC-ZTRGLZ2WKF` |  |
 | 623 | quasi-peritectic: L + La2(Mg,Zn)17 -> HCP(Mg) + T1 |  | experimental | [1] Qi 2010; _cites Dobatkina 1987_ | Table 3, p. 6, row 19; `ORC-KW4AYQTYEI` |  |
-| 623 | eutectic |  | experimental | [1] Qi 2010; _cites Dobatkina 1987_ | p. 2; `ORC-V7SSNT7HRF.a4416d` | “Invariant eutectic and peritectic reactions at 623 K and 613 K have also been determined.” |
 | 620 | quasi-peritectic: L + Mg2Zn3 -> T1 + MgZn |  | model | [1] Qi 2010 | Table 3, p. 6, row 20; `ORC-2I4WNRCPTN` |  |
 | 614 | eutectic: L -> T1 + MgZn + Mg7Zn3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 23; `ORC-6YHR33VEK5` |  |
 | 614 | quasi-peritectic: L + HCP(Mg) -> T1 + Mg7Zn3 |  | model | [1] Qi 2010 | Table 3, p. 6, row 21; `ORC-I7TGJYAB5T` |  |
 | 613 | quasi-peritectic: L + HCP(Mg) -> T1 + Mg7Zn3 |  | experimental | [1] Qi 2010; _cites Dobatkina 1987_ | Table 3, p. 6, row 22; `ORC-F2QH6PF6PC` |  |
-| 613 | peritectic |  | experimental | [1] Qi 2010; _cites Dobatkina 1987_ | p. 2; `ORC-V7SSNT7HRF.187a9c` | “Invariant eutectic and peritectic reactions at 623 K and 613 K have also been determined.” |
 
 ## Sources
 

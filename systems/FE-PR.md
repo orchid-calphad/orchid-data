@@ -1,24 +1,12 @@
 # Fe–Pr system
 
-> Fe–Pr system: 2 accepted literature values (invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Pr system: 0 accepted literature values (none) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-PR.html · Markdown: https://data.orchid-project.org/systems/FE-PR.md
 
-2 accepted literature values from 1 paper(s) (experimental 2); 2 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-PR.json) · [CSV](https://data.orchid-project.org/systems/FE-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-PR/FePr-16Che.json) · [phases (6)](https://data.orchid-project.org/phases/pages/FE-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-PR.html) · [Markdown](https://data.orchid-project.org/systems/FE-PR.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 2 |
 
 ## Calculated phase diagrams
 
@@ -62,21 +50,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | FePr-95Bae-LB.tdb | 938.01 | FE17PR2 (x(Pr) 0.10526) + LIQUID (x(Pr) 0.81803) + DHCP (x(Pr) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/FE/FE-PR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/FE/FE-PR.json) · [CALPHAD hull FePr-95Bae-LB](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-PR--FePr-95Bae-LB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Fe–Pr system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1359 | eutectic: liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 |  | experimental | [1] Chen 2020 | p. 14; `ORC-2KGHLQUXHM` | “On the heating curve of the alloy #1, the peak at 1359 K is corresponding to the eutectic reaction of liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 at the Fe-rich part.” |
-| 1358 | eutectic: liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 |  | experimental | [1] Chen 2020 | p. 14; `ORC-RVN2OH3C3P` | “The eutectic temperature of liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4 was set as 1358 K by averaging the obtained temperatures of the two” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Taili Chen, Cuiping Guo, Changrong Li, Zhenmin Du, Experimental investigation and thermodynamic description of the Pr–Fe–B system, Journal of Magnetism and Magnetic Materials 497, 165983 (2020). [doi:10.1016/j.jmmm.2019.165983](https://doi.org/10.1016/j.jmmm.2019.165983)
 
 ## Please cite
 

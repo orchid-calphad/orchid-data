@@ -1,10 +1,10 @@
 # Ge–Y system
 
-> Ge–Y system: 62 accepted literature values (invariant reaction 30, formation 23, phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Y system: 60 accepted literature values (invariant reaction 28, formation 23, phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-Y.html · Markdown: https://data.orchid-project.org/systems/GE-Y.md
 
-62 accepted literature values from 1 paper(s) (experimental 28, model 34); 1 calculated phase diagram(s).
+60 accepted literature values from 1 paper(s) (experimental 26, model 34); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-Y.json) · [CSV](https://data.orchid-project.org/systems/GE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-Y/GeY-13Idb.json) · [phases (14)](https://data.orchid-project.org/phases/pages/GE-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-Y.html) · [Markdown](https://data.orchid-project.org/systems/GE-Y.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
+| experimental | 26 |
 | model | 34 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 30 |
+| invariant reaction | 28 |
 | phase transition | 9 |
 | formation | 23 |
 
@@ -68,7 +68,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Y system (30)
+Table: Invariant reactions reported in the literature for the Ge–Y system (28)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -86,9 +86,8 @@ Table: Invariant reactions reported in the literature for the Ge–Y system (30)
 | 1707 | Ge1.5Y-HT + GeY -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.303; GeY: Y 0.5; Ge1.5Y-LT: Y 0.4 | model | [1] Idbenali 2013 | Table 3, p. 4, row 30; `ORC-WAFP7PTHPL` |  |
 | 1703 | Ge1.5Y-HT + Liq -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.4; L: Y 0.366; Ge1.5Y-LT: Y 0.4 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 27; `ORC-223JF5SMDC` |  |
 | 1703 | Ge1.5Y-HT + GeY -> Ge1.5Y-LT | Ge1.5Y-HT: Y 0.384; GeY: Y 0.5; Ge1.5Y-LT: Y 0.4 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 29; `ORC-JZGVORVATA` |  |
-| 1553 | Liq -> HCP + Ge3Y5 | L: Y 0.88; Ge3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 23; `ORC-KOIDVHK3EJ` |  |
-| 1553 | eutectic |  | experimental | [1] Idbenali 2013 | p. 1; `ORC-YHL3IRC5KO` | “The maximum solubility of Ge in (Y) is below 1.0 at% at the eutectic temperature (1553 K) and \*0.3 at% at 1073 K.” |
-| 1550 | Liq -> HCP + Ge3Y5 | L: Y 0.905; Ge3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 3, p. 4, row 24; `ORC-DJZWAR26PV` |  |
+| 1553 | eutectic: Liq -> HCP + Ge3Y5 | L: Y 0.88; Ge3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 23; `ORC-KOIDVHK3EJ` |  |
+| 1550 | eutectic: Liq -> HCP + Ge3Y5 | L: Y 0.905; Ge3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 3, p. 4, row 24; `ORC-DJZWAR26PV` |  |
 | 1181 | Ge5Y3 -> Liq + Ge1.5Y-LT | Ge5Y3: Y 0.375; L: Y 0.164; Ge1.5Y-LT: Y 0.4 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 11; `ORC-ANW2VSXSZF` |  |
 | 1177 | Ge5Y3 -> Liq + Ge1.5Y-LT | Ge5Y3: Y 0.375; L: Y 0.161; Ge1.5Y-LT: Y 0.4 | model | [1] Idbenali 2013 | Table 3, p. 4, row 12; `ORC-4GB6AEOCRR` |  |
 | 1163 | Ge2Y -> Liq + Ge5Y3 | Ge2Y: Y 0.333333; L: Y 0.152; Ge5Y3: Y 0.375 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 9; `ORC-JUVDUPRXXM` |  |
@@ -96,7 +95,6 @@ Table: Invariant reactions reported in the literature for the Ge–Y system (30)
 | 1133 | Ge7Y2 -> Ge2Y + Liq | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; L: Y 0.142 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 7; `ORC-LH4J25DVW3` |  |
 | 1132 | Ge7Y2 -> Ge2Y + Liq | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; L: Y 0.15 | model | [1] Idbenali 2013 | Table 3, p. 4, row 8; `ORC-PRD7BQDVUP` |  |
 | 1113 | (Ge) + Ge7Y2 -> Liq | (Ge): Y 0; Ge7Y2: Y 0.222222; L: Y 0.137 | model | [1] Idbenali 2013 | Table 3, p. 4, row 2; `ORC-NFCTOUWI5H` |  |
-| 1093 | eutectic |  | experimental | [1] Idbenali 2013 | p. 1; `ORC-VELIZNFUAO` | “The maximum solubility of Y in (Ge) is \\0.5 at% at the eutectic temperature (1093 K) and almost zero at 873 K.” |
 | 1093 | (Ge) + Ge7Y2 -> Liq | (Ge): Y 0; Ge7Y2: Y 0.222222; L: Y 0.119 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 1; `ORC-YARWBXQ6SC` |  |
 | 1033 | Ge7Y2 -> Ge2Y + (Ge) | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; (Ge): Y 0 | experimental | [1] Idbenali 2013; _cites Schmidt 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990008-2) | Table 3, p. 4, row 5; `ORC-RGRXIZAJOF` |  |
 | 1031 | Ge7Y2 -> Ge2Y + (Ge) | Ge7Y2: Y 0.222222; Ge2Y: Y 0.333333; (Ge): Y 0 | model | [1] Idbenali 2013 | Table 3, p. 4, row 6; `ORC-4ADVCGE7LW` |  |

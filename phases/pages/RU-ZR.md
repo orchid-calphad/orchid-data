@@ -16,7 +16,7 @@ Table: Phases of the Ru–Zr system (7)
 | [C14_LAVES](#phase-ru-zr-c14-laves); _phase:ru-zr:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1567.76–2068.2 K, x(Zr) 0.33333–0.33334 | 11 | 1 |
 | [FCC_A1](#phase-ru-zr-fcc-a1); _phase:ru-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-ru-zr-hcp-a3); _phase:ru-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2620.93 K, x(Zr) 0–1 | 6 | 2 |
-| [LIQUID](#phase-ru-zr-liquid); _phase:ru-zr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1494.38–4000 K, x(Zr) 0–1 | 8 | 2 |
+| [LIQUID](#phase-ru-zr-liquid); _phase:ru-zr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1494.38–4000 K, x(Zr) 0–1 | 10 | 2 |
 | [RU2ZR_C14](#phase-ru-zr-ru2zr-c14); _phase:ru-zr:ru2zr-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1558.48–2109.89 K, x(Zr) 0.33333–0.33333 | 0 | 1 |
 | [RUZR_B2](#phase-ru-zr-ruzr-b2); _phase:ru-zr:ruzr-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2401.63 K, x(Zr) 0.5–0.51181 | 19 | 2 |
 
@@ -164,11 +164,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ru-zr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1494.38–4000 K, x(Zr) 0–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-zr:liquid)
 
-Names (4): _corpus: _corpus:phase:ru-zr:liquid  
-_paper: _paper:10.1007/s11669-007-9084-z:L  
+Names (5): _corpus: _corpus:phase:ru-zr:liquid  
+_paper: _paper:10.1007/s11669-007-9084-z:L, paper:10.1007/s11669-007-9084-z:liquid  
 _tdb: _tdb:RuZr-05Che-LB.tdb:LIQUID, tdb:RuZr-07Idb.tdb:LIQUID  
 
 

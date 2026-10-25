@@ -365,22 +365,22 @@
     "sigma_basis": "not printed",
     "budget": {
      "sigma_printed": null,
-     "sigma_reading": 0.5,
-     "sigma_reading_mu_J_per_mol": 7525.212254,
+     "sigma_reading": 0.0,
+     "sigma_reading_mu_J_per_mol": 0.0,
      "sigma_method": 0.1927,
      "sigma_method_mu_J_per_mol": 2900.216803,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 0.5,
-     "sigma_effective_mu_J_per_mol": 7525.212254,
+     "sigma_effective": 0.1927,
+     "sigma_effective_mu_J_per_mol": 2900.216803,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
      "method_n_pairs": 9,
      "method_entry": "value_types/ACTIVITY/classes/unknown"
     },
-    "sigma_effective_used": 7525.212254,
-    "weight_per_value_equivalent": 0.066443,
+    "sigma_effective_used": 2900.216803,
+    "weight_per_value_equivalent": 0.172401,
     "weight_used": 0.172414
    }
   ]

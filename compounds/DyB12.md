@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of DyB12
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -24.212 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| 24.038 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| 24.038 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

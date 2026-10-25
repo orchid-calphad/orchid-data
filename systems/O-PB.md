@@ -1,10 +1,10 @@
 # O–Pb system
 
-> O–Pb system: 218 accepted literature values (model expression 65, invariant reaction 46, phase transition 39, formation 33) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Pb system: 207 accepted literature values (model expression 65, invariant reaction 44, heat capacity / entropy / enthalpy 33, phase transition 32) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-PB.html · Markdown: https://data.orchid-project.org/systems/O-PB.md
 
-218 accepted literature values from 1 paper(s) (experimental 155, model 40, unspecified 23); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+207 accepted literature values from 1 paper(s) (experimental 147, model 37, unspecified 23); 0 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-PB.json) · [CSV](https://data.orchid-project.org/systems/O-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PB) · [phases (13)](https://data.orchid-project.org/phases/pages/O-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-PB.html) · [Markdown](https://data.orchid-project.org/systems/O-PB.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 155 |
-| model | 40 |
+| experimental | 147 |
+| model | 37 |
 | unspecified | 23 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 46 |
-| phase transition | 39 |
-| formation | 33 |
+| invariant reaction | 44 |
+| phase transition | 32 |
+| formation | 31 |
 | heat capacity / entropy / enthalpy | 33 |
 | activity / EMF / Gibbs energy | 2 |
 | model expression | 65 |
@@ -31,7 +31,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the O–Pb system (46)
+Table: Invariant reactions reported in the literature for the O–Pb system (44)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -42,12 +42,10 @@ Table: Invariant reactions reported in the literature for the O–Pb system (46)
 | 1159 | L2 + PbO-M + Pb3O4-T | L2: Pb 0.5 | model | [1] Risold 1998 | Table 8, p. 8, row 19; `ORC-OOAC2S26UY` |  |
 | 1159 | L2 = L1 + PbO-M | L1: Pb 0.9905 | experimental | [1] Risold 1998; _cites ref. 55Ric_ | Table 8, p. 8, row 6; `ORC-SMSFEUTM4X` |  |
 | 1157 | L2 = L1 + PbO-M | L2: Pb 0.501; L1: Pb 0.991 | model | [1] Risold 1998 | Table 8, p. 8, row 15; `ORC-ZZGUAEU2WE` |  |
-| 1149 | eutectic |  | experimental | [1] Risold 1998; _cites White 1964_ | p. 8; `ORC-VTMMEFH2SC` | “\[64Whi\] and \[65Roy\] reported the eutectic reaction L 2 = P b O - M + Pb304-T at 1149 K and a pressure corresponding to 124 bar 0 2.” |
 | 1148 | L2 + PbO-M + Pb3O4-T |  | experimental | [1] Risold 1998; _cites White 1964_ [doi](https://doi.org/10.1111/j.1151-2916.1964.tb14404.x) | Table 8, p. 8, row 18; `ORC-AWGBBTTUQX` |  |
 | 1146 | L2 = L1 + PbO-M | L2: Pb 0.501; L1: Pb 0.99485 | experimental | [1] Risold 1998; _cites Kuxmann 1974_ | Table 8, p. 8, row 9; `ORC-NUIVIU5ARL` |  |
 | 1145 | L2 = L1 + PbO-M | L1: Pb 0.9916 | experimental | [1] Risold 1998; _cites Taskinen 1979_ | Table 8, p. 8, row 12; `ORC-5UFPGVAFEH` |  |
 | 1145 | L2 = L1 + PbO-M | L1: Pb 0.9915 | experimental | [1] Risold 1998; _cites Wriedt 1994_ | Table 8, p. 8, row 14; `ORC-VFONN2R2BK` |  |
-| 1143 | monotectic |  | experimental | [1] Risold 1998 | p. 17; `ORC-ECJSRQJLZ6` | “It was therefore almost impossible to impose any variation in the calculated value of the monotectic temperature. Nevertheless, the experimental evidences for a value around 1143 K are strong, and the present discrepancy may be due to the influence of the oxygen nonstoichiometry in PbO-M, which was neglected here.” |
 | 1143 | L2 = L1 + PbO-M | L2: Pb 0.501; L1: Pb 0.9911 | experimental | [1] Risold 1998; _cites Isecke 1977_ | Table 8, p. 8, row 11; `ORC-HUHR7R6G6I` |  |
 | 1143 | L2 = L1 + PbO-M | L1: Pb 0.9911 | experimental | [1] Risold 1998; _cites Charl 1976_ | Table 8, p. 8, row 10; `ORC-KWFZFX77JO` |  |
 | 1142 | L2 = L1 + PbO-M |  | experimental | [1] Risold 1998; _cites Ya 1981_ | Table 8, p. 8, row 13; `ORC-OSPPWKJ523` |  |
@@ -86,12 +84,10 @@ Table: Invariant reactions reported in the literature for the O–Pb system (46)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, O–Pb system (15)
+Table: Enthalpies of formation, O–Pb system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -718.7 unspecified ± 6.3 | 298.15 | experimental |  |  | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | p. 10; `ORC-V3KB7ZJOPH` | “The enthalpy of formation at 298 K has been determined by \[70Esp\] as -718.7 \_+6.3 kJ/mol.” |
-| — |  | -274.5 unspecified ± 3 | 298.15 | experimental |  |  | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | p. 12; `ORC-26USR453KW` | “The enthalpy of formation at 298 K was determined by \[70Esp\] as -274.5 + 3 kJ/mol.” |
 | Pb12O17 |  | -104.58 kJ/mol-atom | 298.15 | model |  |  | [1] Risold 1998 | Table 1, p. 1, row 17; `ORC-T6L73NMWAY.13d2d0` |  |
 | Pb12O19 |  | -100.368 kJ/mol-atom | 298.15 | model |  |  | [1] Risold 1998 | Table 1, p. 1, row 18; `ORC-GBISJLEMBL.0f5ba0` |  |
 | Pb3O4-T | [Pb3O4](https://data.orchid-project.org/compounds/Pb3O4.html) | -104.839 kJ/mol-atom | 298.15 | model | -139.612 (mp-aaaabhmn) | -123.983 (oqmd-669607) | [1] Risold 1998 | Table 1, p. 1, row 14; `ORC-Y2WSRB4DLG.15a3c1` |  |
@@ -108,29 +104,23 @@ Table: Enthalpies of formation, O–Pb system (15)
 
 ## Other properties
 
-### Phase transition (39)
+### Phase transition (32)
 
 Table: Phase transition, O–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 423 K | 423 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Le 1940_ | Table 2, p. 3, row 6; `ORC-PBQKVALFVC` |  |
-| Phase transition | 690 K | 690 | other | model | [1] Risold 1998; _cites Chase 1985_ | p. 10; `ORC-EQYOY3VLHZ` | “The decomposition temperature of Pb304-T into PbO-M is calculated at 690 K in 1 bar 02 \[85Cha\].” |
 | Phase transition | 760.5 K | 760.5 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites ref. 46Kam_ | Table 2, p. 3, row 9; `ORC-XPFXSB3SXC` |  |
 | Phase transition | 761 K | 761 | polymorphic: PbO-L \<-> PbO-M | unspecified | [1] Risold 1998; _cites ref. 46Pam_ | Table 2, p. 3, row 10; `ORC-4445LXWCMN` |  |
-| Phase transition | 762 K | 762 |  | model | [1] Risold 1998 | p. 3; `ORC-WO7G7527KT` | “As PbO-L and PbO-M are approximated as stoichiometric compounds, the authors use the value of 762 K in agreement with many thermodynamic compilations, such as \[85Cha\], due to the excellent agreement found between several studies at this temperature and because this value is not excluded from the” |
-| Phase transition | 762 K | 762 | PbO-L = PbO-M | experimental | [1] Risold 1998; _cites Cohen 1934_ [doi](https://doi.org/10.1515/zpch-1934-16813) | p. 3; `ORC-73CSDACLVH` | “The lowest temperatures reported for this reaction are in good agreement among each other around 762 K \[34Coh, 41Pet, 46Kam, 46Pam, 68Cou\].” |
 | Phase transition | 762 K | 762 | polymorphic: PbO-L \<-> PbO-M | model | [1] Risold 1998 | Table 2, p. 3, row 16; `ORC-J472Z632GQ` |  |
 | Phase transition | 762 K | 762 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Cohen 1934_ [doi](https://doi.org/10.1515/zpch-1934-16813) | Table 2, p. 3, row 4; `ORC-LHBGT63OEY` |  |
 | Phase transition | 762 K | 762 | polymorphic: PbO-L \<-> PbO-M | model | [1] Risold 1998; _cites Chase 1985_ | Table 2, p. 3, row 14; `ORC-WWDIT4HNXZ` |  |
 | Phase transition | 763 K | 763 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Coussaert 1968_ | Table 2, p. 3, row 12; `ORC-4NUDISKVXK` |  |
 | Phase transition | 763 K | 763 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Peterson 1941_ | Table 2, p. 3, row 8; `ORC-A75U4IAVCR` |  |
-| Phase transition | 802 K | 802 |  | experimental | [1] Risold 1998; _cites Rooymans 1968_ [doi](https://doi.org/10.1016/0022-0248%2868%2990187-5) | p. 3; `ORC-RZNEQDJNRT` | “On the other hand, however, \[68Roo\] measured a decrease in the transformation temperature from 825 to 802 K as the oxygen content in PbO increased from 1.000 to 1.001.” |
 | Phase transition | 803 K | 803 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites ref. 36Ren1_ | Table 2, p. 3, row 5; `ORC-UTB7JEHQVI` |  |
-| Phase transition | 813 K | 813 |  | model | [1] Risold 1998; _cites Wriedt 1994_ | p. 4; `ORC-MOVEI27UCW` | “The higher value of 813 K was preferred in the review of \[88Wri\].” |
 | Phase transition | 813 K | 813 | polymorphic: PbO-L \<-> PbO-M | model | [1] Risold 1998; _cites Wriedt 1994_ | Table 2, p. 3, row 15; `ORC-LBIKMAEXIG` |  |
 | Phase transition | 813.5 K | 813.5 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Rooymans 1968_ [doi](https://doi.org/10.1016/0022-0248%2868%2990187-5) | Table 2, p. 3, row 13; `ORC-B7IFFWH7EK` |  |
-| Phase transition | 816 K | 816 |  | experimental | [1] Risold 1998; _cites White 1961_ | p. 3; `ORC-XVKCTUYWRK` | “The extrapolation from \[61Whi\] to ambient pressure gives a value of 816 K in agreement with the results of \[36Ren1\], \[36Ren2\], and \[68Roo\].” |
 | Phase transition | 816 K | 816 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites White 1961_ | Table 2, p. 3, row 11; `ORC-TMF4QHZDT6` |  |
 | Phase transition | 823 K | 823 | polymorphic: PbO-L \<-> PbO-M | experimental | [1] Risold 1998; _cites Le 1940_ | Table 2, p. 3, row 7; `ORC-NLCKFAM4SN` |  |
 | Phase transition | 853 K | 853 | polymorphic: PbO-L \<-> PbO-M | unspecified | [1] Risold 1998; _cites ref. 1897Lec_ | Table 2, p. 3, row 1; `ORC-O2BHLGEWEL` |  |
@@ -152,7 +142,6 @@ Table: Phase transition, O–Pb system
 | Phase transition | 1161 K | 1161 | congruent transformation: \[09Coo\] | unspecified | [1] Risold 1998; _cites ref. 09Coo_ | Table 5, p. 5, row 3; `ORC-7PL43ZKQEG` |  |
 | Phase transition | 1161 K | 1161 | congruent transformation: \[12Kro\] | experimental | [1] Risold 1998; _cites Kroll 1912_ [doi](https://doi.org/10.1002/zaac.19120780107) | Table 5, p. 5, row 5; `ORC-43EJQOIEKQ` |  |
 | Phase transition | 1170 K | 1170 | congruent transformation: \[61Rod\] | experimental | [1] Risold 1998; _cites Rodigina 1961_ | Table 5, p. 5, row 12; `ORC-VAX2K37QO6` |  |
-| Phase transition | 1808 K | 1808 | other | experimental | [1] Risold 1998 | p. 13; `ORC-DCI3DPQATN` | “The boiling point of PbO has been determined by \[64Kna\] as 1808 K.” |
 
 ### Formation (18)
 

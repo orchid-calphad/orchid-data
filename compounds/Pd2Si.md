@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Pd2Si
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -64.2 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -65.1 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
+| -65.1 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
 
 ## Sources
 

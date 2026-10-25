@@ -31,10 +31,10 @@ Table: Uncertainty budget of the literature values of AuEr
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -90.2 | kJ/mol-atom | 1.9 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -85.1 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -90.9 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -88.6 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -87.7 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -77 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -90.9 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -88.6 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -87.7 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -77 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

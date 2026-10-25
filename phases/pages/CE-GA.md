@@ -23,7 +23,7 @@ Table: Phases of the Ce–Ga system (12)
 | [DHCP](#phase-ce-ga-dhcp-a3); _phase:ce-ga:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ce-ga-fcc-a1); _phase:ce-ga:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1000 K, x(Ga) 0–0 | 7 | 2 |
 | [HCP_A3](#phase-ce-ga-hcp-a3); _phase:ce-ga:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ce-ga-liquid); _phase:ce-ga:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 300.44–2500 K, x(Ga) 0–1 | 48 | 2 |
+| [LIQUID](#phase-ce-ga-liquid); _phase:ce-ga:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 300.44–2500 K, x(Ga) 0–1 | 49 | 2 |
 
 ## ORTHORHOMBIC_A11 (Ce–Ga)
 
@@ -451,11 +451,11 @@ _assessment that models this phase_
 - Id: `phase:ce-ga:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300.44–2500 K, x(Ga) 0–1
-- Literature: 48 values (48 accepted) from 2 papers
+- Literature: 49 values (49 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-ga:liquid)
 
-Names (5): _corpus: _corpus:phase:ce-ga:liquid  
-_paper: _paper:10.1007/s00706-019-02420-8:L, paper:10.1007/s11669-013-0261-y:Liq  
+Names (6): _corpus: _corpus:phase:ce-ga:liquid  
+_paper: _paper:10.1007/s00706-019-02420-8:L, paper:10.1007/s11669-013-0261-y:Liq, paper:10.1007/s11669-013-0261-y:liquid  
 _tdb: _tdb:CeGa-13Idb.tdb:LIQUID, tdb:CeGa-19Liu.tdb:LIQUID  
 
 

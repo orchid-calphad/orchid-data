@@ -29,7 +29,7 @@ Table: Phases of the B–Si system (7)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-si:a4-diamond)
 
 Names (9): _corpus: _corpus:phase:b-si:a4-diamond, corpus:phase:b-si:diamond-a4  
-_paper: _paper:10.1016/j.jallcom.2009.03.044:(Si), paper:10.1016/s0364-5916(98)00037-6:diamond, paper:10.1361/105497101770338798:(Si)  
+_paper: _paper:10.1016/j.jallcom.2009.03.044:(Si), paper:10.1361/105497101770338798:(Si), paper:sha256-85fd53a1a176b694:diamond  
 _tdb: _tdb:SiB-01Tok.tdb:DIAMOND_A4, tdb:SiB-03Tok.tdb:DIAMOND_A4, tdb:SiB-09Che.tdb:DIAMOND_A4, tdb:SiB-95Lim-LB.tdb:DIAMOND_A4  
 
 
@@ -63,7 +63,7 @@ _tdb: _tdb:SiB-01Tok.tdb:DIAMOND_A4, tdb:SiB-03Tok.tdb:DIAMOND_A4, tdb:SiB-09Che
 33: CONST DIAMOND_A4 : B SI : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2009.03.044](https://doi.org/10.1016/j.jallcom.2009.03.044) H.M. Chen, H.Y. Qi, F. Zheng, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the B–C–Si system, Journal of Alloys and Compounds 481, 182-189 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -75,8 +75,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase_
 - [doi:10.1007/bf02872900](https://doi.org/10.1007/bf02872900) R. W. Olesinski, G. J. Abbaschian, The B−Si (Boron-Silicon) system, Bulletin of Alloy Phase Diagrams 5, 478-484 (1984).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/0022-5088(81)90225-3](https://doi.org/10.1016/0022-5088%2881%2990225-3) B Armas, G Male, D Salanoubat, C Chatillon, M Allibert, Determination of the boron-rich side of the BSi phase diagram, Journal of the Less Common Metals 82, 245-254 (1981).  
 _cited as the source of values for this phase_
 
@@ -132,7 +130,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-si:b-beta-rhombo)
 
 Names (9): _corpus: _corpus:phase:b-si:b-beta-rhombo, corpus:phase:b-si:beta-rhombo-b  
-_paper: _paper:10.1016/j.jallcom.2009.03.044:(B), paper:10.1016/s0364-5916(98)00037-6:β-rhombo-B, paper:10.1361/105497101770338798:(B)  
+_paper: _paper:10.1016/j.jallcom.2009.03.044:(B), paper:10.1361/105497101770338798:(B), paper:sha256-85fd53a1a176b694:β-rhombo-B  
 _tdb: _tdb:SiB-01Tok.tdb:BETA_RHOMBO_B, tdb:SiB-03Tok.tdb:BETA_RHOMBO_B, tdb:SiB-09Che.tdb:BETA_RHOMBO_B, tdb:SiB-95Lim-LB.tdb:BETA_RHOMBO_B  
 
 
@@ -166,7 +164,7 @@ _tdb: _tdb:SiB-01Tok.tdb:BETA_RHOMBO_B, tdb:SiB-03Tok.tdb:BETA_RHOMBO_B, tdb:SiB
 38: CONST BETA_RHOMBO_B : B : B SI : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2009.03.044](https://doi.org/10.1016/j.jallcom.2009.03.044) H.M. Chen, H.Y. Qi, F. Zheng, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the B–C–Si system, Journal of Alloys and Compounds 481, 182-189 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -180,8 +178,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(81)90225-3](https://doi.org/10.1016/0022-5088%2881%2990225-3) B Armas, G Male, D Salanoubat, C Chatillon, M Allibert, Determination of the boron-rich side of the BSi phase diagram, Journal of the Less Common Metals 82, 245-254 (1981).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (B–Si)
 
@@ -192,7 +188,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-si:liquid)
 
 Names (8): _corpus: _corpus:phase:b-si:liquid  
-_paper: _paper:10.1016/j.jallcom.2009.03.044:L, paper:10.1016/s0364-5916(98)00037-6:L, paper:10.1361/105497101770338798:L  
+_paper: _paper:10.1016/j.jallcom.2009.03.044:L, paper:10.1361/105497101770338798:L, paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:SiB-01Tok.tdb:LIQUID, tdb:SiB-03Tok.tdb:LIQUID, tdb:SiB-09Che.tdb:LIQUID, tdb:SiB-95Lim-LB.tdb:LIQUID  
 
 
@@ -226,7 +222,7 @@ _tdb: _tdb:SiB-01Tok.tdb:LIQUID, tdb:SiB-03Tok.tdb:LIQUID, tdb:SiB-09Che.tdb:LIQ
 28: CONST LIQUID:L : B SI : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2009.03.044](https://doi.org/10.1016/j.jallcom.2009.03.044) H.M. Chen, H.Y. Qi, F. Zheng, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the B–C–Si system, Journal of Alloys and Compounds 481, 182-189 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -240,8 +236,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(81)90225-3](https://doi.org/10.1016/0022-5088%2881%2990225-3) B Armas, G Male, D Salanoubat, C Chatillon, M Allibert, Determination of the boron-rich side of the BSi phase diagram, Journal of the Less Common Metals 82, 245-254 (1981).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SIB24 (B–Si)
 
@@ -254,7 +248,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-si:sib24)
 
 Names (7): _corpus: _corpus:phase:b-si:sib24  
-_paper: _paper:10.1016/j.jallcom.2009.03.044:SiBn, paper:10.1016/s0364-5916(98)00037-6:BnSi, paper:10.1361/105497101770338798:SiBn  
+_paper: _paper:10.1016/j.jallcom.2009.03.044:SiBn, paper:10.1361/105497101770338798:SiBn, paper:sha256-85fd53a1a176b694:BnSi  
 _tdb: _tdb:SiB-01Tok.tdb:SIB24, tdb:SiB-03Tok.tdb:SIB24, tdb:SiB-09Che.tdb:SIB24  
 
 
@@ -281,7 +275,7 @@ _tdb: _tdb:SiB-01Tok.tdb:SIB24, tdb:SiB-03Tok.tdb:SIB24, tdb:SiB-09Che.tdb:SIB24
 53: CONST SIB24 : B : SI : B SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.jallcom.2009.03.044](https://doi.org/10.1016/j.jallcom.2009.03.044) H.M. Chen, H.Y. Qi, F. Zheng, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the B–C–Si system, Journal of Alloys and Compounds 481, 182-189 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -293,8 +287,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(81)90225-3](https://doi.org/10.1016/0022-5088%2881%2990225-3) B Armas, G Male, D Salanoubat, C Chatillon, M Allibert, Determination of the boron-rich side of the BSi phase diagram, Journal of the Less Common Metals 82, 245-254 (1981).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SIB3_D1G (B–Si)
 
@@ -312,7 +304,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-si:sib3-d1g)
 
 Names (8): _corpus: _corpus:phase:b-si:sib3-d1g  
-_paper: _paper:10.1016/j.jallcom.2009.03.044:SiB3, paper:10.1016/s0364-5916(98)00037-6:B3Si, paper:10.1361/105497101770338798:SiB3  
+_paper: _paper:10.1016/j.jallcom.2009.03.044:SiB3, paper:10.1361/105497101770338798:SiB3, paper:sha256-85fd53a1a176b694:B3Si  
 _tdb: _tdb:SiB-01Tok.tdb:SIB3_D1G, tdb:SiB-03Tok.tdb:SIB3_D1G, tdb:SiB-09Che.tdb:SIB3_D1G, tdb:SiB-95Lim-LB.tdb:SIB3_D1G  
 
 
@@ -346,7 +338,7 @@ _tdb: _tdb:SiB-01Tok.tdb:SIB3_D1G, tdb:SiB-03Tok.tdb:SIB3_D1G, tdb:SiB-09Che.tdb
 48: CONST SIB3_D1G : B : SI : B SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.jallcom.2009.03.044](https://doi.org/10.1016/j.jallcom.2009.03.044) H.M. Chen, H.Y. Qi, F. Zheng, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the B–C–Si system, Journal of Alloys and Compounds 481, 182-189 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -358,8 +350,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02872900](https://doi.org/10.1007/bf02872900) R. W. Olesinski, G. J. Abbaschian, The B−Si (Boron-Silicon) system, Bulletin of Alloy Phase Diagrams 5, 478-484 (1984).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SIB6 (B–Si)
 
@@ -372,7 +362,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-si:sib6)
 
 Names (8): _corpus: _corpus:phase:b-si:sib6  
-_paper: _paper:10.1016/j.jallcom.2009.03.044:SiB6, paper:10.1016/s0364-5916(98)00037-6:B6Si, paper:10.1361/105497101770338798:SiB6  
+_paper: _paper:10.1016/j.jallcom.2009.03.044:SiB6, paper:10.1361/105497101770338798:SiB6, paper:sha256-85fd53a1a176b694:B6Si  
 _tdb: _tdb:SiB-01Tok.tdb:SIB6, tdb:SiB-03Tok.tdb:SIB6, tdb:SiB-09Che.tdb:SIB6, tdb:SiB-95Lim-LB.tdb:SIB6  
 
 
@@ -406,7 +396,7 @@ _tdb: _tdb:SiB-01Tok.tdb:SIB6, tdb:SiB-03Tok.tdb:SIB6, tdb:SiB-09Che.tdb:SIB6, t
 53: CONST SIB6 : B : SI : B SI : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.jallcom.2009.03.044](https://doi.org/10.1016/j.jallcom.2009.03.044) H.M. Chen, H.Y. Qi, F. Zheng, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the B–C–Si system, Journal of Alloys and Compounds 481, 182-189 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -420,8 +410,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(81)90225-3](https://doi.org/10.1016/0022-5088%2881%2990225-3) B Armas, G Male, D Salanoubat, C Chatillon, M Allibert, Determination of the boron-rich side of the BSi phase diagram, Journal of the Less Common Metals 82, 245-254 (1981).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1023/a:1015457114818](https://doi.org/10.1023/a:1015457114818) A. I. Zaitsev, Thermodynamic Properties and Phase Equilibria in the Si-B System, Russian Journal of General Chemistry 72, 183-192 (2002).  
 _cited as the source of values for this phase_
 

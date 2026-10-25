@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Al3Ni.html · Markdown: https://data.orchid-project.org/compounds/Al3Ni.md
 
-13 accepted literature formation-enthalpy value(s) (experimental 3, model 9, DFT 1); experimental median -38.5 kJ/mol-atom (n = 3); Materials Project -39.068 kJ/mol-atom (mp-aaabjkld); OQMD -39.608 kJ/mol-atom (oqmd-10517).
+13 accepted literature formation-enthalpy value(s) (experimental 4, model 8, DFT 1); experimental median -38.5 kJ/mol-atom (n = 3); Materials Project -39.068 kJ/mol-atom (mp-aaabjkld); OQMD -39.608 kJ/mol-atom (oqmd-10517).
 
 Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) · [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html)
 
@@ -14,6 +14,7 @@ Table: Enthalpy of formation of Al3Ni reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -43.2 unspecified ± 1.1 | Al3Ni | 1073 | experimental | direct reaction calorimetry | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Chrifi-Alaoui 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900493-6) | p. 4; `ORC-G5IDBHNJUQ` | “The enthalpy of formation of the Al3 Ni phase has recently been determined by Chrifi-Alaoui et al. using direct reaction calorimetry \[16\]. It was reported to be -43.2 ± 1.1 kJ/mol-atoms relative to fcc Al and fcc Ni at 1073 K, by adopting the heat content of pure elements from Barin and Platzki \[17\].” |
 | -41 kJ/mol-atom | Al3Ni | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Chrifi-Alaoui 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900493-6) | Table 1, p. 4, row 1; `ORC-43MKXK7KYX` |  |
 | -38.5 kJ/mol-atom | Al3Ni | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Oelsen 1937_ | Table 1, p. 4, row 2; `ORC-SAPSRXAR5G` |  |
 | -37.7 kJ/mol-atom | Al3Ni | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 1, p. 4, row 3; `ORC-XC6DYN3A4N` |  |
@@ -25,7 +26,6 @@ Table: Enthalpy of formation of Al3Ni reported in the literature (13)
 | -37.656 kJ/mol (basis unstated) | Al0.75Ni0.25 | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [2] Ansara 1988; _cites Hultgren 1973_ | Table 1, p. 5, row 10; `ORC-7FIH4WZZ6H` |  |
 | -22.9 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [3] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 19; `ORC-UAJQ6SM4CJ.891017` |  |
 | -21.6 kJ/mol (basis unstated) | L12-Al3Ni |  | model | CALPHAD | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [4] Yang 2022 | Table 3, p. 5, row 1; `ORC-TBJ5X5DFVS` |  |
-| -21.175 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [3] Liu 2016 | Table 4, p. 38, row 18; `ORC-BHYSNHAPXI.0f07b4` |  |
 | -21.919 kJ/mol (basis unstated) | L12-Al3Ni |  | DFT | DFT (OQMD) | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [4] Yang 2022 | Table 3, p. 5, row 2; `ORC-NDLWOFTDFI` |  |
 
 ### Uncertainty budget
@@ -36,19 +36,19 @@ Table: Uncertainty budget of the literature values of Al3Ni
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -43.2 | unspecified | 1.1 | 0.05 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 1.1 |
 | -41 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -38.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -37.7 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -69.8016 | kJ/mol (basis unstated) |  | 5.000e-5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -69.8016 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -48 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -42.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -40.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -39.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -37.656 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -37.656 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -22.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -21.6 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
-| -21.175 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -21.919 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| -21.919 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
 
 ## DFT formation energies
 

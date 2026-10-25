@@ -5,6 +5,7 @@
   "VA"
  ],
  "phases": [
+  "DIAMOND_A4",
   "LI12SI7",
   "LI13SI4",
   "LI7SI3",
@@ -19,7 +20,8 @@
    1005.0,
    943.0,
    899.0,
-   887.0
+   887.0,
+   843.0
   ]
  },
  "output": "ZPF",
@@ -244,6 +246,44 @@
      0.44
     ]
    ]
+  ],
+  [
+   [
+    "LI12SI7",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "DIAMOND_A4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.42
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.44
+    ]
+   ]
   ]
  ],
  "reference": "Liang 2017, doi:10.1016/j.intermet.2017.02.024",
@@ -271,7 +311,7 @@
     "x0": 0.235294,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L ↔ Li13Si4",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -308,7 +348,7 @@
     "x0": 0.3,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L ↔ Li7Si3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -326,7 +366,7 @@
     "x0": 0.3,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L ↔ Li7Si3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -382,7 +422,26 @@
     "x0": 0.43,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Li12Si7 + (Si)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "LI12SI7",
+     "DIAMOND_A4"
+    ]
+   },
+   {
+    "source_observation": "ORC-T57RF32JT2",
+    "side": "below",
+    "T_invariant_K": 865.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+    "x0": 0.43,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Li12Si7 + (Si)",
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -484,6 +543,22 @@
    },
    {
     "source_observation": "ORC-SRVLSL5N6S",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 11.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 22.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-T57RF32JT2",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": null,

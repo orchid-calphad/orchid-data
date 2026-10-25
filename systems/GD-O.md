@@ -1,10 +1,10 @@
 # Gd–O system
 
-> Gd–O system: 44 accepted literature values (phase transition 19, heat capacity / entropy / enthalpy 11, crystal structure 7, other property 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–O system: 43 accepted literature values (phase transition 18, heat capacity / entropy / enthalpy 11, crystal structure 7, other property 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-O.html · Markdown: https://data.orchid-project.org/systems/GD-O.md
 
-44 accepted literature values from 2 paper(s) (experimental 19, model 22, DFT 3); 2 calculated phase diagram(s).
+43 accepted literature values from 2 paper(s) (experimental 19, model 21, DFT 3); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-O.json) · [CSV](https://data.orchid-project.org/systems/GD-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-O/GdO-14McM.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GD-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-O.html) · [Markdown](https://data.orchid-project.org/systems/GD-O.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 19 |
-| model | 22 |
+| model | 21 |
 | DFT | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 19 |
+| phase transition | 18 |
 | formation | 2 |
 | heat capacity / entropy / enthalpy | 11 |
 | crystal structure | 7 |
@@ -52,14 +52,13 @@ Table: Enthalpies of formation, Gd–O system (2)
 
 ## Other properties
 
-### Phase transition (19)
+### Phase transition (18)
 
 Table: Phase transition, Gd–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1425 K | 1425 | polymorphic: C \<=> B; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 3; `ORC-RZ3RDUYWUV` |  |
-| Phase transition | 1823.15 K | 1823.15 | other | model | [2] McMurray 2014 | p. 2; `ORC-DLAJUOA7VX` | “High temperature X-ray diffraction measurements in the ULaO system suggest the d phase is stable at least up to 1550 °C exhibiting some degree of oxygen non-stoichiometry \[17\] but the limited extent and significant scatter in the reported data does not sufficiently describe a homogeneity range; therefore, it is assumed that UGd6O12 is a stoichiometric compound.” |
 | Phase transition | 2353 K | 2353 | polymorphic: B ⟺ A; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 65; `ORC-PONHHVL4G3` |  |
 | Phase transition | 2443 K | 2443 | polymorphic: B \<=> A; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 9; `ORC-D6YILG2IH6` |  |
 | Phase transition | 2443 K | 2443 | polymorphic: B ⟺ A; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Rykova 1976_ | Table 2.1, p. 6, row 73; `ORC-IUPUBKLX7S` |  |

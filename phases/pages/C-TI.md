@@ -17,7 +17,7 @@ Table: Phases of the C–Ti system (6)
 | [BCC_A2](#phase-c-ti-bcc-a2); _phase:c-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1129.99–1955.98 K, x(C) 0–0.03018 | 8 | 5 |
 | [FCC_A1](#phase-c-ti-fcc-a1); _phase:c-ti:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 5 of 5 calculated diagram(s): 300–3368.23 K, x(C) 0.31029–0.5 | 31 | 5 |
 | [HCP_A3](#phase-c-ti-hcp-a3); _phase:c-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1220 K, x(C) 0–0.02091 | 4 | 5 |
-| [LIQUID](#phase-c-ti-liquid); _phase:c-ti:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1910–4000 K, x(C) 0–0.80493 | 10 | 5 |
+| [LIQUID](#phase-c-ti-liquid); _phase:c-ti:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1910–4000 K, x(C) 0–0.80493 | 11 | 5 |
 
 ## DIAMOND_A4 (C–Ti)
 
@@ -154,7 +154,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ti:bcc-a2)
 
 Names (8): _corpus: _corpus:phase:c-ti:bcc-a2  
-_paper: _paper:10.1007/bf02648366:βTi, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1007/bf02648366:βTi, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:TiC-03Fri.tdb:BCC_A2, tdb:TiC-95Dus.tdb:BCC_A2, tdb:TiC-96Jon.tdb:BCC_A2, tdb:TiC-96Sei.tdb:BCC_A2, tdb:TiC-99Dum-LB.tdb:BCC_A2  
 
 
@@ -195,7 +195,7 @@ _tdb: _tdb:TiC-03Fri.tdb:BCC_A2, tdb:TiC-95Dus.tdb:BCC_A2, tdb:TiC-96Jon.tdb:BCC
 31: CONST BCC_A2 : TI% : C VA% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02648366](https://doi.org/10.1007/BF02648366) H.J. Seifert, H.L. Lukas, G. Petzow, J. Phase Equilib., 17, 24-35(1996).  
 _assessment that models this phase; reports values for this phase_
@@ -207,8 +207,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1999-900712](https://doi.org/10.1515/ijmr-1999-900712) L.F.S. Dumitrescu, M. Hillert, B. Sundman, Z. Metallkd., 90, 534-41(1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.21236/ada470307](https://doi.org/10.21236/ada470307) Erwin Rudy, Austin Y. Chang, Stefan Windisch, Ternary Phase Equilibria in Transition Metal-Boron-Carbon-Silicon Systems. Part 1. Related Binary Systems. Volume 1. Mo-C System, (1965).  
 _cited as the source of values for this phase_
 
@@ -221,7 +219,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ti:fcc-a1)
 
 Names (11): _corpus: _corpus:phase:c-ti:fcc-a1  
-_paper: _paper:10.1007/bf02648366:TiC, paper:10.1016/j.calphad.2004.01.004:TiC, paper:10.1016/s0364-5916(98)00037-6:fcc-A1, paper:10.1016/s0364-5916(98)00037-6:fcc-A1\*, paper:10.2355/isijinternational.isijint-2019-274:TiC  
+_paper: _paper:10.1007/bf02648366:TiC, paper:10.1016/j.calphad.2004.01.004:TiC, paper:10.2355/isijinternational.isijint-2019-274:TiC, paper:sha256-85fd53a1a176b694:fcc-A1, paper:sha256-85fd53a1a176b694:fcc-A1\*  
 _tdb: _tdb:TiC-03Fri.tdb:FCC_A1, tdb:TiC-95Dus.tdb:FCC_A1, tdb:TiC-96Jon.tdb:FCC_A1, tdb:TiC-96Sei.tdb:FCC_A1, tdb:TiC-99Dum-LB.tdb:FCC_A1  
 
 
@@ -262,7 +260,7 @@ _tdb: _tdb:TiC-03Fri.tdb:FCC_A1, tdb:TiC-95Dus.tdb:FCC_A1, tdb:TiC-96Jon.tdb:FCC
 26: CONST FCC_A1 : TI : C VA% : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1007/BF02648366](https://doi.org/10.1007/BF02648366) H.J. Seifert, H.L. Lukas, G. Petzow, J. Phase Equilib., 17, 24-35(1996).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -276,8 +274,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.isijint-2019-274](https://doi.org/10.2355/isijinternational.isijint-2019-274) Michitoshi Saeki, Takako Yamashita, Hiroshi Ohtani, Thermodynamic Study on Solubility Products of Ti&lt;sub&gt;4&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;2&lt;/sub&gt; in Fe Using First-Principles Calculations, ISIJ Int. 60, 745-755 (2020).  
 _reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.21236/ada470307](https://doi.org/10.21236/ada470307) Erwin Rudy, Austin Y. Chang, Stefan Windisch, Ternary Phase Equilibria in Transition Metal-Boron-Carbon-Silicon Systems. Part 1. Related Binary Systems. Volume 1. Mo-C System, (1965).  
 _cited as the source of values for this phase_
 
@@ -290,7 +286,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ti:hcp-a3)
 
 Names (8): _corpus: _corpus:phase:c-ti:hcp-a3  
-_paper: _paper:10.1007/bf02648366:αTi, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:10.1007/bf02648366:αTi, paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:TiC-03Fri.tdb:HCP_A3, tdb:TiC-95Dus.tdb:HCP_A3, tdb:TiC-96Jon.tdb:HCP_A3, tdb:TiC-96Sei.tdb:HCP_A3, tdb:TiC-99Dum-LB.tdb:HCP_A3  
 
 
@@ -331,7 +327,7 @@ _tdb: _tdb:TiC-03Fri.tdb:HCP_A3, tdb:TiC-95Dus.tdb:HCP_A3, tdb:TiC-96Jon.tdb:HCP
 36: CONST HCP_A3 : TI% : C VA% : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02648366](https://doi.org/10.1007/BF02648366) H.J. Seifert, H.L. Lukas, G. Petzow, J. Phase Equilib., 17, 24-35(1996).  
 _assessment that models this phase; reports values for this phase_
@@ -343,19 +339,17 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1999-900712](https://doi.org/10.1515/ijmr-1999-900712) L.F.S. Dumitrescu, M. Hillert, B. Sundman, Z. Metallkd., 90, 534-41(1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (C–Ti)
 
 - Id: `phase:c-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 1910–4000 K, x(C) 0–0.80493
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ti:liquid)
 
-Names (8): _corpus: _corpus:phase:c-ti:liquid  
-_paper: _paper:10.1007/bf02648366:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+Names (9): _corpus: _corpus:phase:c-ti:liquid  
+_paper: _paper:10.1007/bf02648366:L, paper:10.1007/bf02648366:liquid, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:TiC-03Fri.tdb:LIQUID, tdb:TiC-95Dus.tdb:LIQUID, tdb:TiC-96Jon.tdb:LIQUID, tdb:TiC-96Sei.tdb:LIQUID, tdb:TiC-99Dum-LB.tdb:LIQUID  
 
 
@@ -396,7 +390,7 @@ _tdb: _tdb:TiC-03Fri.tdb:LIQUID, tdb:TiC-95Dus.tdb:LIQUID, tdb:TiC-96Jon.tdb:LIQ
 21: CONST LIQUID:L : C TI : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02648366](https://doi.org/10.1007/BF02648366) H.J. Seifert, H.L. Lukas, G. Petzow, J. Phase Equilib., 17, 24-35(1996).  
 _assessment that models this phase; reports values for this phase_
@@ -408,8 +402,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1999-900712](https://doi.org/10.1515/ijmr-1999-900712) L.F.S. Dumitrescu, M. Hillert, B. Sundman, Z. Metallkd., 90, 534-41(1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.21236/ada470307](https://doi.org/10.21236/ada470307) Erwin Rudy, Austin Y. Chang, Stefan Windisch, Ternary Phase Equilibria in Transition Metal-Boron-Carbon-Silicon Systems. Part 1. Related Binary Systems. Volume 1. Mo-C System, (1965).  
 _cited as the source of values for this phase_
 

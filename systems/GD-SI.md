@@ -1,10 +1,10 @@
 # Gd–Si system
 
-> Gd–Si system: 29 accepted literature values (invariant reaction 23, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Si system: 22 accepted literature values (invariant reaction 21, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-SI.html · Markdown: https://data.orchid-project.org/systems/GD-SI.md
 
-29 accepted literature values from 2 paper(s) (experimental 22, model 7); 1 calculated phase diagram(s).
+22 accepted literature values from 2 paper(s) (experimental 15, model 7); 1 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-SI.json) · [CSV](https://data.orchid-project.org/systems/GD-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-SI/GdSi-07Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GD-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-SI.html) · [Markdown](https://data.orchid-project.org/systems/GD-SI.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
+| experimental | 15 |
 | model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 23 |
-| phase transition | 6 |
+| invariant reaction | 21 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -59,13 +59,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Gd–Si system (23)
+Table: Invariant reactions reported in the literature for the Gd–Si system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2108.15 | Liquid -> GdSi |  | model | [1] Huang 2007 | Table 2, p. 6, row 11; `ORC-JY7DOFVWAB` |  |
-| 2108.15 | Liquid -> GdSi |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 12; `ORC-SABIOZW45Z` |  |
-| 2103.15 | Liquid -> GdSi |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 13; `ORC-WIIZLJCMQT` |  |
+| 2108.15 | congruent melting: Liquid -> GdSi |  | model | [1] Huang 2007 | Table 2, p. 6, row 11; `ORC-JY7DOFVWAB` |  |
+| 2108.15 | congruent melting: Liquid -> GdSi |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 12; `ORC-SABIOZW45Z` |  |
+| 2103.15 | congruent melting: Liquid -> GdSi |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 13; `ORC-WIIZLJCMQT` |  |
 | 2047.15 | Liquid + GdSi -> Gd5Si4 |  | model | [1] Huang 2007 | Table 2, p. 6, row 8; `ORC-2SD5664SYG` |  |
 | 2043.15 | Liquid + GdSi -> Gd5Si4 |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 9; `ORC-FTVPYIJWYC` |  |
 | 2023.15 | Liquid + Gd5Si4 -> Gd5Si3 |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 6; `ORC-MSWKAJDAV7` |  |
@@ -79,27 +79,20 @@ Table: Invariant reactions reported in the literature for the Gd–Si system (23
 | 1873.15 | Liquid + Gd3Si5 -> GdSi2-x |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 18; `ORC-GSOLCVIGOZ` |  |
 | 1863.15 | Liquid + Gd3Si5 -> GdSi2-x |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 19; `ORC-PTC544OEDX` |  |
 | 1503.15 | Liquid + GdSi2-x -> diamond (Si) |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 22; `ORC-4MC3ZKCLXK` |  |
-| 1503.15 | eutectic |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | p. 3; `ORC-FLCP7Y6BWY.6498e9` | “The DTA result in Fig. 1(a) indicates a thermal event at 1227 ◦ C on the heating curve for the eutectic reaction liquid ↔ GdSi2-x + Si, which is in good agreement with temperature of 1230 ◦ C reported by Eremenko et al. \[5\].” |
 | 1500.15 | Liquid + GdSi2-x -> diamond (Si) |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 21; `ORC-37HF6NFB7H` |  |
-| 1500.15 | eutectic |  | experimental | [1] Huang 2007 | p. 3; `ORC-FLCP7Y6BWY.62b891` | “The DTA result in Fig. 1(a) indicates a thermal event at 1227 ◦ C on the heating curve for the eutectic reaction liquid ↔ GdSi2-x + Si, which is in good agreement with temperature of 1230 ◦ C reported by Eremenko et al. \[5\].” |
 | 1499.15 | Liquid + GdSi2-x -> diamond (Si) |  | model | [1] Huang 2007 | Table 2, p. 6, row 20; `ORC-C7NL5SOT5Y` |  |
-| 1361.15 | Liquid -> Gd5Si3 + hcp (Gd) |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 3; `ORC-74233AXOT4` |  |
-| 1360.15 | Liquid -> Gd5Si3 + hcp (Gd) |  | model | [1] Huang 2007 | Table 2, p. 6, row 2; `ORC-4B5W6WCH47` |  |
-| 1353.15 | Liquid -> Gd5Si3 + hcp (Gd) |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 4; `ORC-SH5MWQJCES` |  |
+| 1361.15 | eutectic: Liquid -> Gd5Si3 + hcp (Gd) |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 3; `ORC-74233AXOT4` |  |
+| 1360.15 | eutectic: Liquid -> Gd5Si3 + hcp (Gd) |  | model | [1] Huang 2007 | Table 2, p. 6, row 2; `ORC-4B5W6WCH47` |  |
+| 1353.15 | eutectic: Liquid -> Gd5Si3 + hcp (Gd) |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 4; `ORC-SH5MWQJCES` |  |
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (1)
 
 Table: Phase transition, Gd–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 708.15 K | 708.15 |  | experimental | [1] Huang 2007 | p. 3; `ORC-J6UPA6HBF5.19dfde` | “Therefore, DSC was used to investigate the reaction as shown in Fig. 1(b), indicating a thermal event with an onset temperature and peak temperature at 435 and 487 ◦ C, respectively, which are lower than the reported data of 500 ◦ C \[5\].” |
-| Phase transition | 760.15 K | 760.15 |  | experimental | [1] Huang 2007 | p. 3; `ORC-J6UPA6HBF5.12702e` | “Therefore, DSC was used to investigate the reaction as shown in Fig. 1(b), indicating a thermal event with an onset temperature and peak temperature at 435 and 487 ◦ C, respectively, which are lower than the reported data of 500 ◦ C \[5\].” |
-| Phase transition | 773.15 K | 773.15 | polymorphic | experimental | [1] Huang 2007; _cites Eremenko 1991_ | p. 3; `ORC-S3UNVO3SSU` | “A polymorphic phase transformation for GdSi2-x was reported by Eremenko et al. \[5\] at 500 ◦ C.” |
-| Phase transition | 910.15 K | 910.15 |  | experimental | [1] Huang 2007 | p. 3; `ORC-5VA4RT5YHT.bd571a` | “Fig. 3 shows the DSC results of Gd-63 at.% Si alloy, which has a single thermal event with an onset and peak temperature at 637 and 649 ◦ C, respectively, which are lower than the reported data of 700 ◦ C and no peak was found at 425 ◦ C \[5\].” |
-| Phase transition | 922.15 K | 922.15 |  | experimental | [1] Huang 2007 | p. 3; `ORC-5VA4RT5YHT.0d0f47` | “Fig. 3 shows the DSC results of Gd-63 at.% Si alloy, which has a single thermal event with an onset and peak temperature at 637 and 649 ◦ C, respectively, which are lower than the reported data of 700 ◦ C and no peak was found at 425 ◦ C \[5\].” |
 | Phase transition | 2003.15 K | 2003.15 | congruent transformation | experimental | [2] Xu 2020; _cites ref. 18_ | p. 2; `ORC-HZSTM25QU2.823960` | “Bulanova et al18 reported that the α-GdSi2 structure formed at 1730°C by congruent reaction while the α-ThSi2 structure formed by peritectic reaction at about 1600°C.” |
 
 ## Sources

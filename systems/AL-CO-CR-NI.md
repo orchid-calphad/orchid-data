@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-CO-CR-NI.html · Markdown: https://data.orchid-project.org/systems/AL-CO-CR-NI.md
 
-94 accepted literature values from 1 paper(s) (experimental 21, model 33, DFT 40); 0 calculated phase diagram(s).
+94 accepted literature values from 1 paper(s) (experimental 21, model 8, DFT 65); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-CR-NI.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-CR-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-CR-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO-CR-NI.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO-CR-NI.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 21 |
-| model | 33 |
-| DFT | 40 |
+| model | 8 |
+| DFT | 65 |
 
 Table: Accepted values by property group
 
@@ -37,18 +37,18 @@ Table: Enthalpies of formation, Al–Co–Cr–Ni system (45)
 | B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -66.4 kJ/mol-atom ± 2 | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.8d90bb` |  |
 | B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -66.1 kJ/mol-atom ± 1.3 | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 6; `ORC-GEAL46TYRL.c8a88f` |  |
 | B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -66 kJ/mol-atom ± 0.13 | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.b07d0a` |  |
-| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -64.211 kJ/mol-atom | 298.15 | model | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016 | Table 4, p. 38, row 5; `ORC-AGMM4WVXYR.b8e1fa` |  |
+| B2 |  | -64.211 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 5; `ORC-AGMM4WVXYR.b8e1fa` |  |
 | B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -62 kJ/mol-atom | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.bce74c` |  |
 | B2 | [AlCo](https://data.orchid-project.org/compounds/AlCo.html) | -60.7 kJ/mol-atom ± 0.5 | 298.15 | experimental | -58.998 (mp-aaaaaaky) | -58.889 (oqmd-10411) | [1] Liu 2016; _cites ref. 82_ | Table 4, p. 38, row 3; `ORC-WVZQPXXYGJ.0d3cd4` |  |
 | B2 | [AlCo](https://data.orchid-project.org/compounds/AlCo.html) | -59.5 kJ/mol-atom | 298.15 | experimental | -58.998 (mp-aaaaaaky) | -58.889 (oqmd-10411) | [1] Liu 2016; _cites ref. 81_ | Table 4, p. 38, row 2; `ORC-IAB2LXFNOY.55268e` |  |
 | B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -58.3 kJ/mol-atom ± 1.1 | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.47e6a8` |  |
-| B2 | [AlCo](https://data.orchid-project.org/compounds/AlCo.html) | -57.673 kJ/mol-atom | 298.15 | model | -58.998 (mp-aaaaaaky) | -58.889 (oqmd-10411) | [1] Liu 2016 | Table 4, p. 38, row 1; `ORC-KVJ737FTEB.64d8f9` |  |
-| B2 | [AlCr](https://data.orchid-project.org/compounds/AlCr.html) | -2.776 kJ/mol-atom | 298.15 | model |  | -3.776 (oqmd-305196) | [1] Liu 2016 | Table 4, p. 38, row 4; `ORC-DHM3L6FQNW.d10fd6` |  |
+| B2 |  | -57.673 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 1; `ORC-KVJ737FTEB.64d8f9` |  |
+| B2 |  | -2.776 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 4; `ORC-DHM3L6FQNW.d10fd6` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -47 kJ/mol-atom | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.0759bb` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -46.39 kJ/mol-atom | 298.15 | model | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 84_ | Table 4, p. 38, row 25; `ORC-G47W2O6YVC.c159cd` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -45.6 kJ/mol-atom ± 1.1 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24; `ORC-M2X72TAQEQ.c95868` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -42.38 kJ/mol-atom | 298.15 | model | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 26; `ORC-W2ORY4WT4W.8fc6c4` |  |
-| γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -42.126 kJ/mol-atom | 298.15 | model | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016 | Table 4, p. 38, row 20; `ORC-NQD4Z3IV5Z.14c693` |  |
+| γ'-L12 |  | -42.126 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 20; `ORC-NQD4Z3IV5Z.14c693` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -41.3 kJ/mol-atom ± 1.3 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 22; `ORC-RBFFWS6ZQH.8da9a7` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -40.6 kJ/mol-atom ± 1 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 25_ | Table 4, p. 38, row 21; `ORC-COMWLLIR2L.4ebb85` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -40.6 kJ/mol-atom ± 1 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.690228` |  |
@@ -56,12 +56,12 @@ Table: Enthalpies of formation, Al–Co–Cr–Ni system (45)
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -37.6 kJ/mol-atom ± 4.2 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.d37d98` |  |
 | γ'-L12 | [Al3Ni](https://data.orchid-project.org/compounds/Al3Ni.html) | -22.9 kJ/mol-atom | 298.15 | model | -39.068 (mp-aaabjkld) | -21.441 (oqmd-344444) | [1] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 19; `ORC-UAJQ6SM4CJ.891017` |  |
 | γ'-L12 | [Al3Co](https://data.orchid-project.org/compounds/Al3Co.html) | -22.6 kJ/mol-atom | 298.15 | model | -39.153 (mp-aaacrxmd) | -20.871 (oqmd-349288) | [1] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 13; `ORC-XLXYXK24GA.6151be` |  |
-| γ'-L12 | [Al3Ni](https://data.orchid-project.org/compounds/Al3Ni.html) | -21.175 kJ/mol-atom | 298.15 | model | -39.068 (mp-aaabjkld) | -21.441 (oqmd-344444) | [1] Liu 2016 | Table 4, p. 38, row 18; `ORC-BHYSNHAPXI.0f07b4` |  |
-| γ'-L12 | [Al3Co](https://data.orchid-project.org/compounds/Al3Co.html) | -20.035 kJ/mol-atom | 298.15 | model | -39.153 (mp-aaacrxmd) | -20.871 (oqmd-349288) | [1] Liu 2016 | Table 4, p. 38, row 12; `ORC-TUUJIMUBHE.9d62d8` |  |
+| γ'-L12 |  | -21.175 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 18; `ORC-BHYSNHAPXI.0f07b4` |  |
+| γ'-L12 |  | -20.035 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 12; `ORC-TUUJIMUBHE.9d62d8` |  |
 | γ'-L12 | [AlCo3](https://data.orchid-project.org/compounds/AlCo3.html) | -19.9 kJ/mol-atom | 298.15 | model | -17.651 (mp-aaacfybt) | -18.566 (oqmd-345882) | [1] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 15; `ORC-B5ZN3QE6GA.8b77ae` |  |
-| γ'-L12 | [AlCo3](https://data.orchid-project.org/compounds/AlCo3.html) | -17.345 kJ/mol-atom | 298.15 | model | -17.651 (mp-aaacfybt) | -18.566 (oqmd-345882) | [1] Liu 2016 | Table 4, p. 38, row 14; `ORC-F373OKUOF4.30fbac` |  |
-| γ'-L12 | [AlCr3](https://data.orchid-project.org/compounds/AlCr3.html) | -12.94 kJ/mol-atom | 298.15 | model |  | 15.904 (oqmd-344563) | [1] Liu 2016 | Table 4, p. 38, row 17; `ORC-CMHURMYZWQ.65f634` |  |
-| γ'-L12 | [Al3Cr](https://data.orchid-project.org/compounds/Al3Cr.html) | -9.197 kJ/mol-atom | 298.15 | model | -13.545 (mp-aaabxjse) | -10.122 (oqmd-349777) | [1] Liu 2016 | Table 4, p. 38, row 16; `ORC-UJ4HMQJTOB.9547b2` |  |
+| γ'-L12 |  | -17.345 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 14; `ORC-F373OKUOF4.30fbac` |  |
+| γ'-L12 |  | -12.94 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 17; `ORC-CMHURMYZWQ.65f634` |  |
+| γ'-L12 |  | -9.197 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 16; `ORC-UJ4HMQJTOB.9547b2` |  |
 | σ |  | -33.053 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 5, p. 39, row 13; `ORC-GKVYAUPYI6.c54040` |  |
 | σ |  | -29.5 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 5, p. 39, row 12; `ORC-4E4NLXOJUE.4e64ea` |  |
 | σ |  | -24.582 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 5, p. 39, row 11; `ORC-4X7TANOC4K.bf48b1` |  |
@@ -85,15 +85,15 @@ Table: Formation, Al–Co–Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS298_ | -4.241 J/mol-atom/K | 298.15 | B2; _alloy: Co 0, Cr 0, Ni 0.5_ | model | [1] Liu 2016 | Table 4, p. 38, row 5; `ORC-AGMM4WVXYR.f46a39` |  |
-| Entropy of formation; _printed: ΔfS298_ | -6.449 J/mol-atom/K | 298.15 | B2; _alloy: Co 0, Cr 0.5, Ni 0_ | model | [1] Liu 2016 | Table 4, p. 38, row 4; `ORC-DHM3L6FQNW.0b1b59` |  |
-| Entropy of formation; _printed: ΔfS298_ | -8.231 J/mol-atom/K | 298.15 | B2; _alloy: Co 0.5, Cr 0, Ni 0_ | model | [1] Liu 2016 | Table 4, p. 38, row 1; `ORC-KVJ737FTEB.11d6ba` |  |
-| Entropy of formation; _printed: ΔfS298_ | -1.268 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.25_ | model | [1] Liu 2016 | Table 4, p. 38, row 18; `ORC-BHYSNHAPXI.ebade5` |  |
-| Entropy of formation; _printed: ΔfS298_ | 4.043 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.75, Cr 0, Ni 0_ | model | [1] Liu 2016 | Table 4, p. 38, row 14; `ORC-F373OKUOF4.7ee964` |  |
+| Entropy of formation; _printed: ΔfS298_ | -4.241 J/mol-atom/K | 298.15 | B2; _alloy: Co 0, Cr 0, Ni 0.5_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 5; `ORC-AGMM4WVXYR.f46a39` |  |
+| Entropy of formation; _printed: ΔfS298_ | -6.449 J/mol-atom/K | 298.15 | B2; _alloy: Co 0, Cr 0.5, Ni 0_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 4; `ORC-DHM3L6FQNW.0b1b59` |  |
+| Entropy of formation; _printed: ΔfS298_ | -8.231 J/mol-atom/K | 298.15 | B2; _alloy: Co 0.5, Cr 0, Ni 0_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 1; `ORC-KVJ737FTEB.11d6ba` |  |
+| Entropy of formation; _printed: ΔfS298_ | -1.268 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 18; `ORC-BHYSNHAPXI.ebade5` |  |
+| Entropy of formation; _printed: ΔfS298_ | 4.043 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.75, Cr 0, Ni 0_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 14; `ORC-F373OKUOF4.7ee964` |  |
 | Entropy of formation; _printed: ΔfS298_ | -4.05 J/mol-atom/K ± 1.2 | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | experimental | [1] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24; `ORC-M2X72TAQEQ.0c03a2` |  |
-| Entropy of formation; _printed: ΔfS298_ | -2.187 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | model | [1] Liu 2016 | Table 4, p. 38, row 20; `ORC-NQD4Z3IV5Z.138874` |  |
-| Entropy of formation; _printed: ΔfS298_ | -5.627 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.25, Cr 0, Ni 0_ | model | [1] Liu 2016 | Table 4, p. 38, row 12; `ORC-TUUJIMUBHE.9e1d7d` |  |
-| Entropy of formation; _printed: ΔfS298_ | -6.699 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0, Cr 0.25, Ni 0_ | model | [1] Liu 2016 | Table 4, p. 38, row 16; `ORC-UJ4HMQJTOB.6d33ea` |  |
+| Entropy of formation; _printed: ΔfS298_ | -2.187 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 20; `ORC-NQD4Z3IV5Z.138874` |  |
+| Entropy of formation; _printed: ΔfS298_ | -5.627 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.25, Cr 0, Ni 0_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 12; `ORC-TUUJIMUBHE.9e1d7d` |  |
+| Entropy of formation; _printed: ΔfS298_ | -6.699 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 16; `ORC-UJ4HMQJTOB.6d33ea` |  |
 | Entropy of formation; _printed: ΔfS298_ | 3.597 unknown | 298.15 | σ | DFT | [1] Liu 2016 | Table 5, p. 39, row 3; `ORC-2CSS3RWCSA.250e9a` |  |
 | Entropy of formation; _printed: ΔfS298_ | -0.119 unknown | 298.15 | σ | DFT | [1] Liu 2016 | Table 5, p. 39, row 12; `ORC-4E4NLXOJUE.65396c` |  |
 | Entropy of formation; _printed: ΔfS298_ | -4.048 unknown | 298.15 | σ | DFT | [1] Liu 2016 | Table 5, p. 39, row 11; `ORC-4X7TANOC4K.9c7620` |  |
@@ -105,18 +105,18 @@ Table: Formation, Al–Co–Cr–Ni system
 | Entropy of formation; _printed: ΔfS298_ | 3.533 unknown | 298.15 | σ | DFT | [1] Liu 2016 | Table 5, p. 39, row 14; `ORC-PEX3KSZJ2L.9ea145` |  |
 | Entropy of formation; _printed: ΔfS298_ | 0.157 unknown | 298.15 | σ | DFT | [1] Liu 2016 | Table 5, p. 39, row 5; `ORC-R2DXGUWV3Y.f94802` |  |
 | Entropy of formation; _printed: ΔfS298_ | 1.456 unknown | 298.15 | σ | DFT | [1] Liu 2016 | Table 5, p. 39, row 15; `ORC-YJRPILY4UR.56d362` |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -62.947 kJ/mol-atom | 298.15 | B2; _alloy: Co 0, Cr 0, Ni 0.5_ | model | [1] Liu 2016 | Table 4, p. 38, row 5; `ORC-AGMM4WVXYR.0e5404` |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -0.854 kJ/mol-atom | 298.15 | B2; _alloy: Co 0, Cr 0.5, Ni 0_ | model | [1] Liu 2016 | Table 4, p. 38, row 4; `ORC-DHM3L6FQNW.4ba847` |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -55.22 kJ/mol-atom | 298.15 | B2; _alloy: Co 0.5, Cr 0, Ni 0_ | model | [1] Liu 2016 | Table 4, p. 38, row 1; `ORC-KVJ737FTEB.3ecc22` |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -20.798 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.25_ | model | [1] Liu 2016 | Table 4, p. 38, row 18; `ORC-BHYSNHAPXI.f265ab` |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -18.55 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.75, Cr 0, Ni 0_ | model | [1] Liu 2016 | Table 4, p. 38, row 14; `ORC-F373OKUOF4.091243` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -62.947 kJ/mol-atom | 298.15 | B2; _alloy: Co 0, Cr 0, Ni 0.5_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 5; `ORC-AGMM4WVXYR.0e5404` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -0.854 kJ/mol-atom | 298.15 | B2; _alloy: Co 0, Cr 0.5, Ni 0_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 4; `ORC-DHM3L6FQNW.4ba847` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -55.22 kJ/mol-atom | 298.15 | B2; _alloy: Co 0.5, Cr 0, Ni 0_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 1; `ORC-KVJ737FTEB.3ecc22` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -20.798 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.25_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 18; `ORC-BHYSNHAPXI.f265ab` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -18.55 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.75, Cr 0, Ni 0_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 14; `ORC-F373OKUOF4.091243` |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -34.2 kJ/mol-atom ± 0.33 | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | experimental | [1] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24; `ORC-M2X72TAQEQ.8a1e5a` |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -36.2 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | experimental | [1] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24; `ORC-M2X72TAQEQ.ad4d3f` |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -41.9 kJ/mol-atom ± 0.2 | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | experimental | [1] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24; `ORC-M2X72TAQEQ.d019cc` |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -47.5 kJ/mol-atom ± 1.1 | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | experimental | [1] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24; `ORC-M2X72TAQEQ.ecef70` |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -41.474 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | model | [1] Liu 2016 | Table 4, p. 38, row 20; `ORC-NQD4Z3IV5Z.db92c2` |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -18.358 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.25, Cr 0, Ni 0_ | model | [1] Liu 2016 | Table 4, p. 38, row 12; `ORC-TUUJIMUBHE.abfe8b` |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -7.2 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0, Cr 0.25, Ni 0_ | model | [1] Liu 2016 | Table 4, p. 38, row 16; `ORC-UJ4HMQJTOB.8a9748` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -41.474 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0, Cr 0, Ni 0.75_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 20; `ORC-NQD4Z3IV5Z.db92c2` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -18.358 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.25, Cr 0, Ni 0_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 12; `ORC-TUUJIMUBHE.abfe8b` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -7.2 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0, Cr 0.25, Ni 0_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 16; `ORC-UJ4HMQJTOB.8a9748` |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | 8.543 kJ/mol-atom | 298.15 | σ | DFT | [1] Liu 2016 | Table 5, p. 39, row 3; `ORC-2CSS3RWCSA.28ef59` |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -29.208 kJ/mol-atom | 298.15 | σ | DFT | [1] Liu 2016 | Table 5, p. 39, row 12; `ORC-4E4NLXOJUE.fed53f` |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -23.375 kJ/mol-atom | 298.15 | σ | DFT | [1] Liu 2016 | Table 5, p. 39, row 11; `ORC-4X7TANOC4K.876784` |  |

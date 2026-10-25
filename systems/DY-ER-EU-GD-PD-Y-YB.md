@@ -1,10 +1,10 @@
 # Dy–Er–Eu–Gd–Pd–Y–Yb system
 
-> Dy–Er–Eu–Gd–Pd–Y–Yb system: 12 accepted literature values (mixing / partial 10, formation 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Er–Eu–Gd–Pd–Y–Yb system: 3 accepted literature values (formation 2, mixing / partial 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-Y-YB.html · Markdown: https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-Y-YB.md
 
-12 accepted literature values from 1 paper(s) (model 12); 0 calculated phase diagram(s).
+3 accepted literature values from 1 paper(s) (model 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-ER-EU-GD-PD-Y-YB.json) · [CSV](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-Y-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-ER-EU-GD-PD-Y-YB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-ER-EU-GD-PD-Y-YB.html) · [Markdown](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-Y-YB.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 12 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 2 |
-| mixing / partial | 10 |
+| mixing / partial | 1 |
 
 ## Formation enthalpies
 
@@ -41,22 +41,13 @@ Table: Formation, Dy–Er–Eu–Gd–Pd–Y–Yb system
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: Entropies of formation_ | 8.268 J/mol-atom/K | 298.15 | Pd7RE; _alloy: Er 0, Eu 0, Gd 0, Pd 0.875, Y 0, Yb 0_ | model | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 9; `ORC-DHBCNKBI5I.1db9aa` |  |
 
-### Mixing / partial (10)
+### Mixing / partial (1)
 
 Table: Mixing / partial, Dy–Er–Eu–Gd–Pd–Y–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -62.047 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Er 0, Eu 0, Gd 0, Pd 0.875, Y 0.125, Yb 0_ | model | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 6; `ORC-2AZOM5DHZS.44c074` |  |
 | Gibbs energy of mixing; _printed: Gibbs free Energies_ | -50.7911 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Er 0, Eu 0, Gd 0, Pd 0.875, Y 0, Yb 0_ | model | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 9; `ORC-DHBCNKBI5I.3240ad` |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -42.421 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Er 0, Eu 0, Gd 0, Pd 0.875, Y 0, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 11; `ORC-LLDPTN33PJ.b7a6a0` |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -57.9494 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Er 0.125, Eu 0, Gd 0, Pd 0.875, Y 0, Yb 0_ | model | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 10; `ORC-N5IRJB22KH.f7c680` |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -51.1382 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Er 0, Eu 0, Gd 0.125, Pd 0.875, Y 0, Yb 0_ | model | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 8; `ORC-RNR2L7XGGV.3ceb59` |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -53.0245 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Er 0, Eu 0.125, Gd 0, Pd 0.875, Y 0, Yb 0_ | model | [1] Kardellass 2020; _cites Du 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901411-6) | Table 3, p. 6, row 7; `ORC-VU47UWWOUU.07f1fa` |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -32.6317 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Er 0, Eu 0, Gd 0, Pd 0.875, Y 0, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 12; `ORC-YVBQB74GA5.b6928f` |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -56.9506 kJ/mol-atom | 298.15 | PdRE3; _alloy: Er 0, Eu 0, Gd 0, Pd 0.25, Y 0, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 3; `ORC-42MOQC3OUN.f2bb75` |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -66.3953 kJ/mol-atom | 298.15 | PdRE3; _alloy: Er 0, Eu 0, Gd 0, Pd 0.25, Y 0.75, Yb 0_ | model | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 1; `ORC-4NLQEFFGDH.73191c` |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -55.951 kJ/mol-atom | 298.15 | PdRE3; _alloy: Er 0, Eu 0, Gd 0, Pd 0.25, Y 0, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 2; `ORC-KCVGOUHNWB.d91366` |  |
 
 ## Sources
 

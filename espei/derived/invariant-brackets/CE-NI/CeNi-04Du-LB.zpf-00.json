@@ -480,7 +480,7 @@
     "x0": 0.22,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> fcc (Ce) + Ce7Ni3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -499,7 +499,7 @@
     "x0": 0.3,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> Ce7Ni3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -517,7 +517,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> CeNi",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -611,7 +611,7 @@
     "x0": 0.83,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> CeNi5",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -629,7 +629,7 @@
     "x0": 0.83,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> CeNi5",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -647,7 +647,7 @@
     "x0": 0.91,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> Ce2Ni7 + fcc (Ni)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

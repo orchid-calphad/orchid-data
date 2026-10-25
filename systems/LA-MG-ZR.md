@@ -1,10 +1,10 @@
 # La–Mg–Zr system
 
-> La–Mg–Zr system: 12 accepted literature values (phase equilibrium 9, invariant reaction 2, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Mg–Zr system: 9 accepted literature values (phase equilibrium 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-MG-ZR.html · Markdown: https://data.orchid-project.org/systems/LA-MG-ZR.md
 
-12 accepted literature values from 1 paper(s) (experimental 9, model 3); 0 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (experimental 9); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MG-ZR.json) · [CSV](https://data.orchid-project.org/systems/LA-MG-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MG-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MG-ZR.html) · [Markdown](https://data.orchid-project.org/systems/LA-MG-ZR.md)
 
@@ -13,34 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 9 |
-| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
-| phase transition | 1 |
 | phase equilibrium | 9 |
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the La–Mg–Zr system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1032.15 | eutectic: L/Hcp(Zr)þLaMg3 |  | model | [1] Zhu 2018 | p. 8; `ORC-3LTVRNAPX2` | “According to Fig. 9(c), Zr particles precipitated firstly and then LaMg3 precipitated from liquid by a eutectic reaction L/Hcp(Zr)þLaMg3 at 759 C.” |
-| 943.15 | eutectic: L/Hcp(Zr)þLa2Mg17 |  | model | [1] Zhu 2018 | p. 8; `ORC-BDP6MDIC7H` | “In Fig. 9(e), La2Mg17 in grey and hcp(Zr) in black are precipitated from liquid by a eutectic reaction L/Hcp(Zr)þLa2Mg17 at 670 C.” |
-
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, La–Mg–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 888.15 K | 888.15 | other: LþHcp(Zr)/LaMg12þHcp(Mg) | model | [1] Zhu 2018 | p. 8; `ORC-RASLSNJZAS` | “The suspended Zr particles can form nuclei for the invariant reactions LþHcp(Zr)/LaMg12þHcp(Mg) at 615 C, during which the primary precipitated Zr particles can act as grain refiner by inhibiting the Mg grain's growth.” |
 
 ### Phase equilibrium (9)
 

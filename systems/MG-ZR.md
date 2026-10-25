@@ -1,10 +1,10 @@
 # Mg–Zr system
 
-> Mg–Zr system: 34 accepted literature values (mixing / partial 19, invariant reaction 11, heat capacity / entropy / enthalpy 2, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Zr system: 32 accepted literature values (mixing / partial 19, invariant reaction 11, heat capacity / entropy / enthalpy 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-ZR.html · Markdown: https://data.orchid-project.org/systems/MG-ZR.md
 
-34 accepted literature values from 3 paper(s) (experimental 5, model 16, DFT 13); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+32 accepted literature values from 3 paper(s) (experimental 5, model 14, DFT 13); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ZR.json) · [CSV](https://data.orchid-project.org/systems/MG-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-ZR/MgZr-05Arr.json) · [phases (4)](https://data.orchid-project.org/phases/pages/MG-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-ZR.html) · [Markdown](https://data.orchid-project.org/systems/MG-ZR.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 5 |
-| model | 16 |
+| model | 14 |
 | DFT | 13 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 11 |
-| phase transition | 2 |
 | mixing / partial | 19 |
 | heat capacity / entropy / enthalpy | 2 |
 
@@ -61,9 +60,9 @@ Table: Invariant reactions reported in the literature for the Mg–Zr system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2121.16 | L -> L#2 + bcc(Zr) | L: Zr 0.00822; L#2: Zr 0.992; bcc(Zr): Zr 0.996 | model | [1] Arroyave 2005 | Table 4, p. 8, row 7; `ORC-YWDVPDNTB4` |  |
-| 2104.8 | monotectic: Liquid" -> Liquid' + bcc-A2 | Liquid": Zr 0.985; Liquid': Zr 0.015; bcc-A2: Zr 0.999 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 2; `ORC-BBIPEPZDMO` |  |
-| 1154.6 | peritectic: Liquid' + bcc-A2 -> hcp-A3 | Liquid': Zr 0.003; bcc-A2: Zr 1; hcp-A3: Zr 0.993 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 1; `ORC-JE27P7HHO7` |  |
+| 2121.16 | monotectic: L -> L#2 + bcc(Zr) | L: Zr 0.00822; L#2: Zr 0.992; bcc(Zr): Zr 0.996 | model | [1] Arroyave 2005 | Table 4, p. 8, row 7; `ORC-YWDVPDNTB4` |  |
+| 2104.8 | monotectic: Liquid" -> Liquid' + bcc-A2 | Liquid": Zr 0.985; Liquid': Zr 0.015; bcc-A2: Zr 0.999 | model | [2] (ed.) 1998 | Table I, p. 251, row 2; `ORC-BBIPEPZDMO` |  |
+| 1154.6 | peritectic: Liquid' + bcc-A2 -> hcp-A3 | Liquid': Zr 0.003; bcc-A2: Zr 1; hcp-A3: Zr 0.993 | model | [2] (ed.) 1998 | Table I, p. 251, row 1; `ORC-JE27P7HHO7` |  |
 | 1139.55 | L + bcc(Zr) -> hcp(Zr) | L: Zr 0.00221; bcc(Zr): Zr 0.986 | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 4, p. 8, row 6; `ORC-XZT7EZ6RWN` |  |
 | 1137.15 | L + bcc(Zr) -> hcp(Zr) | L: Zr 0.00198 | experimental | [1] Arroyave 2005; _cites Nayeb-Hashemi 1985_ [doi](https://doi.org/10.1007/bf02880408) | Table 4, p. 8, row 4; `ORC-WTEJGZL7AP` |  |
 | 1137.1 | L + bcc(Zr) -> hcp(Zr) | L: Zr 0.00227; bcc(Zr): Zr 0.998 | model | [1] Arroyave 2005 | Table 4, p. 8, row 5; `ORC-MMQQXUW6O4` |  |
@@ -71,18 +70,9 @@ Table: Invariant reactions reported in the literature for the Mg–Zr system (11
 | 926.75 | L + hcp(Zr) -> hcp(Mg) | L: Zr 0.00119; hcp(Zr): Zr 0.994; hcp(Mg): Zr 0.00576 | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 4, p. 8, row 3; `ORC-5MANJOQTCM` |  |
 | 926.75 | L + hcp(Zr) -> hcp(Mg) | L: Zr 0.00161; hcp(Mg): Zr 0.01042 | experimental | [1] Arroyave 2005; _cites Nayeb-Hashemi 1985_ [doi](https://doi.org/10.1007/bf02880408) | Table 4, p. 8, row 1; `ORC-BIUOJBFDTY` |  |
 | 926.65 | peritectic: hcp(Zr) + liquid → hcp(Mg) |  | experimental | [1] Arroyave 2005; _cites Mellor 1950_ | p. 3; `ORC-V2SYC25N6S` | “By using thermal analysis, metallography, acidic dilution and resistivity measurements, several researchers \[30,32,33, 36,39\] determined the temperature and phase compositions at the peritectic reaction hcp(Zr) + liquid → hcp(Mg). The temperature for this reaction has been confidently determined to be 653.5 ± 0.5 ◦ C.” |
-| 926.6 | peritectic: Liquid' + hcp-A3" -> hcp-A3' | Liquid': Zr 0.001; hcp-A3": Zr 0.997; hcp-A3': Zr 0.006 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 3; `ORC-KFU2V2M26D` |  |
+| 926.6 | peritectic: Liquid' + hcp-A3" -> hcp-A3' | Liquid': Zr 0.001; hcp-A3": Zr 0.997; hcp-A3': Zr 0.006 | model | [2] (ed.) 1998 | Table I, p. 251, row 3; `ORC-KFU2V2M26D` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Mg–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 923 K | 923 |  | model | [2] Hämäläinen 1998; _cites ref. 91Din_ | p. 2; `ORC-ODUKOYQMPC.51a431` | “The melting point of magnesium was assessed at 923 K and zirconium at 2128 K \[91Din\].” |
-| Phase transition | 2128 K | 2128 |  | model | [2] Hämäläinen 1998; _cites ref. 91Din_ | p. 2; `ORC-ODUKOYQMPC.fbf1ed` | “The melting point of magnesium was assessed at 923 K and zirconium at 2128 K \[91Din\].” |
 
 ### Mixing / partial (19)
 
@@ -124,7 +114,7 @@ Table: Heat capacity / entropy / enthalpy, Mg–Zr system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. R. Arroyave, D. Shin, Z.K. Liu, Modification of the thermodynamic model for the Mg–Zr system, Calphad 29, 230-238 (2005). [doi:10.1016/j.calphad.2005.07.004](https://doi.org/10.1016/j.calphad.2005.07.004)
-2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+2. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 3. Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018). [doi:10.1016/j.jallcom.2017.10.013](https://doi.org/10.1016/j.jallcom.2017.10.013)
 
 ## Please cite

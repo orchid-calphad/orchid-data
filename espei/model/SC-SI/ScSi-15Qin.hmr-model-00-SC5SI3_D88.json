@@ -72,8 +72,7 @@
   "dois": [
    "10.1007/s10973-014-4216-2"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/ScSi-15Qin/hmr-model-00.json",
-  "values_dropped": 2
+  "source_dataset": "db-v2.1/general/espei-model/ScSi-15Qin/hmr-model-00.json"
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",

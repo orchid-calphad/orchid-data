@@ -1,10 +1,10 @@
 # Mo–Si system
 
-> Mo–Si system: 243 accepted literature values (formation 165, invariant reaction 45, phase transition 29, phase equilibrium 4) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Si system: 230 accepted literature values (formation 164, invariant reaction 42, phase transition 20, phase equilibrium 4) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-SI.html · Markdown: https://data.orchid-project.org/systems/MO-SI.md
 
-243 accepted literature values from 4 paper(s) (experimental 97, model 145, DFT 1); 7 calculated phase diagram(s).
+230 accepted literature values from 3 paper(s) (experimental 87, model 142, DFT 1); 7 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-SI.json) · [CSV](https://data.orchid-project.org/systems/MO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-SI/MoSi-00Liu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MO-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-SI.html) · [Markdown](https://data.orchid-project.org/systems/MO-SI.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 97 |
-| model | 145 |
+| experimental | 87 |
+| model | 142 |
 | DFT | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 45 |
-| phase transition | 29 |
+| invariant reaction | 42 |
+| phase transition | 20 |
 | phase equilibrium | 4 |
-| formation | 165 |
+| formation | 164 |
 
 ## Calculated phase diagrams
 
@@ -104,7 +104,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mo–Si system (45)
+Table: Invariant reactions reported in the literature for the Mo–Si system (42)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -115,7 +115,7 @@ Table: Invariant reactions reported in the literature for the Mo–Si system (45
 | 2323 | peritectic: bcc + liquid\<->Mo3Si | Mo3Si: Si 0.25 | experimental | [2] Liu 2000; _cites Zotov 1980_ | Table 4, p. 7, row 19; `ORC-BZJXIWQBT2` |  |
 | 2323 | peritectic: bcc + liquid\<->Mo3Si | liquid: Si 0.2746; Mo3Si: Si 0.25 | experimental | [2] Liu 2000; _cites Kieer 1952_ | Table 4, p. 7, row 16; `ORC-T6ZF7D46KL` |  |
 | 2301 | β + L -> Mo3Si | L: Si 0.248; Mo3Si: Si 0.25 | model | [3] Czerny 2024 | Table 7, p. 9, row 1; `ORC-UL4PSHBPI2.244059` |  |
-| 2301 | L -> Mo3Si + Mo5Si3 | L: Si 0.25; Mo3Si: Si 0.25; Mo5Si3: Si 0.375 | model | [3] Czerny 2024 | Table 7, p. 9, row 3; `ORC-UL4PSHBPI2.c62637` |  |
+| 2301 | eutectic: L -> Mo3Si + Mo5Si3 | L: Si 0.25; Mo3Si: Si 0.25; Mo5Si3: Si 0.375 | model | [3] Czerny 2024 | Table 7, p. 9, row 3; `ORC-UL4PSHBPI2.c62637` |  |
 | 2298.15 | L + Bcc \<-> Mo3Si | Mo3Si: Si 0.25 | experimental | [1] Geng 2010; _cites Schlesinger 1993_ | Table 1, p. 5, row 10; `ORC-NPHKIFIQIT` |  |
 | 2298 | peritectic: bcc + liquid\<->Mo3Si | liquid: Si 0.2572; Mo3Si: Si 0.25 | experimental | [2] Liu 2000; _cites Svechnikov 1971_ | Table 4, p. 7, row 17; `ORC-GNLFNPXILJ` |  |
 | 2298 | β + L -> Mo3Si | L: Si 0.257; Mo3Si: Si 0.25 | experimental | [3] Czerny 2024; _cites Svechnikov 1971_ | Table 7, p. 9, row 2; `ORC-LYK4WENRAA` |  |
@@ -126,18 +126,15 @@ Table: Invariant reactions reported in the literature for the Mo–Si system (45
 | 2293.15 | L \<-> Mo3Si + Mo5Si3 | Mo3Si: Si 0.25; Mo5Si3: Si 0.375 | experimental | [1] Geng 2010; _cites Schlesinger 1993_ | Table 1, p. 5, row 1; `ORC-TABLGW5W56` |  |
 | 2293 | eutectic: Liquid\<->Mo3Si + Mo5Si3 | Liquid: Si 0.264; Mo3Si: Si 0.25; Mo5Si3: Si 0.375 | experimental | [2] Liu 2000; _cites Svechnikov 1971_ | Table 4, p. 7, row 1; `ORC-7WH4YE7YOQ` |  |
 | 2293 | eutectic: Liquid\<->Mo3Si + Mo5Si3 | Liquid: Si 0.26; Mo3Si: Si 0.25; Mo5Si3: Si 0.375 | experimental | [2] Liu 2000; _cites Brewer 1980_ | Table 4, p. 7, row 2; `ORC-EKZMS55JHZ` |  |
-| 2293 | L -> Mo3Si + Mo5Si3 | L: Si 0.264; Mo3Si: Si 0.25; Mo5Si3: Si 0.375 | experimental | [3] Czerny 2024; _cites Svechnikov 1971_ | Table 7, p. 9, row 4; `ORC-GJX3DQFZKJ` |  |
+| 2293 | eutectic: L -> Mo3Si + Mo5Si3 | L: Si 0.264; Mo3Si: Si 0.25; Mo5Si3: Si 0.375 | experimental | [3] Czerny 2024; _cites Svechnikov 1971_ | Table 7, p. 9, row 4; `ORC-GJX3DQFZKJ` |  |
 | 2293 | eutectic: Liquid\<->Mo3Si + Mo5Si3 | Liquid: Si 0.264; Mo3Si: Si 0.25; Mo5Si3: Si 0.37 | experimental | [2] Liu 2000; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | Table 4, p. 7, row 3; `ORC-TSFA7DSIDW` |  |
-| 2293 | eutectic: L ⇄ Mo3 SiþMo5 Si3 |  | experimental | [3] Czerny 2024 | p. 3; `ORC-XPBEENP66O.c259ee` | “For once, the eutectic reaction L ⇄ Mo3 SiþMo5 Si3 occurs at 2293 K and 26.4 at% according to Svechnikov et al. while Kieffer and Cerwenka reported a temperature of 2200 K and a Si concentration of 32.4 at% in the liquid phase.” |
-| 2200 | eutectic: L ⇄ Mo3 SiþMo5 Si3 |  | experimental | [3] Czerny 2024 | p. 3; `ORC-XPBEENP66O.a3068c` | “For once, the eutectic reaction L ⇄ Mo3 SiþMo5 Si3 occurs at 2293 K and 26.4 at% according to Svechnikov et al. while Kieffer and Cerwenka reported a temperature of 2200 K and a Si concentration of 32.4 at% in the liquid phase.” |
 | 2196.15 | L \<-> Mo5Si3 + MoSi2 | Mo5Si3: Si 0.375; MoSi2: Si 0.666667 | model | [1] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 1, p. 5, row 8; `ORC-B3RCXYEUEL` |  |
 | 2196 | eutectic: Liquid\<->Mo5Si3 + MoSi2 | Liquid: Si 0.548; Mo5Si3: Si 0.398; MoSi2: Si 0.667 | model | [2] Liu 2000 | Table 4, p. 7, row 15; `ORC-FKIJFQ7SXY` |  |
-| 2181 | L -> Mo5Si3 + MoSi2 | L: Si 0.543; Mo5Si3: Si 0.375; MoSi2: Si 0.666667 | model | [3] Czerny 2024 | Table 7, p. 9, row 7; `ORC-QQZHVQCPDT` |  |
+| 2181 | eutectic: L -> Mo5Si3 + MoSi2 | L: Si 0.543; Mo5Si3: Si 0.375; MoSi2: Si 0.666667 | model | [3] Czerny 2024 | Table 7, p. 9, row 7; `ORC-QQZHVQCPDT` |  |
 | 2179.15 | L \<-> Mo5Si3 + MoSi2 | Mo5Si3: Si 0.375; MoSi2: Si 0.666667 | model | [1] Geng 2010 | Table 1, p. 5, row 9; `ORC-5SFOAEXNRM` |  |
-| 2173.15 | eutectic |  | experimental | [3] Czerny 2024; _cites Cherniak 1964_ | p. 3; `ORC-47R5FLNEEV.34b078` | “In this publication, they reported the melting points of Mo5 Si3 and MoSi2 to be 2358.15 and 2253.15 K, respectively, and the eutectic temperature involving Mo5 Si3 and MoSi2 to be 2173.15 K.” |
 | 2173.15 | L \<-> Mo5Si3 + MoSi2 | Mo5Si3: Si 0.375; MoSi2: Si 0.666667 | experimental | [1] Geng 2010; _cites Schlesinger 1993_ | Table 1, p. 5, row 7; `ORC-ONDMZSXAUO` |  |
 | 2173 | eutectic: Liquid\<->Mo5Si3 + MoSi2 | Liquid: Si 0.54; Mo5Si3: Si 0.375; MoSi2: Si 0.666667 | experimental | [2] Liu 2000; _cites Svechnikov 1971_ | Table 4, p. 7, row 11; `ORC-2AMBL4T5CC` |  |
-| 2173 | L -> Mo5Si3 + MoSi2 | L: Si 0.54; Mo5Si3: Si 0.375; MoSi2: Si 0.666667 | experimental | [3] Czerny 2024; _cites Svechnikov 1971_ | Table 7, p. 9, row 8; `ORC-LIDWGTHPYO` |  |
+| 2173 | eutectic: L -> Mo5Si3 + MoSi2 | L: Si 0.54; Mo5Si3: Si 0.375; MoSi2: Si 0.666667 | experimental | [3] Czerny 2024; _cites Svechnikov 1971_ | Table 7, p. 9, row 8; `ORC-LIDWGTHPYO` |  |
 | 2173 | eutectic: Liquid\<->Mo5Si3 + MoSi2 | Liquid: Si 0.53; Mo5Si3: Si 0.375; MoSi2: Si 0.666667 | experimental | [2] Liu 2000; _cites Brewer 1980_ | Table 4, p. 7, row 12; `ORC-OOBZHIFSQY` |  |
 | 2173 | eutectic: Liquid\<->Mo5Si3 + MoSi2 | Mo5Si3: Si 0.375; MoSi2: Si 0.666667 | experimental | [2] Liu 2000; _cites Cherniack 1964_ [doi](https://doi.org/10.1111/j.1151-2916.1964.tb14372.x) | Table 4, p. 7, row 10; `ORC-W3HODEVHAU` |  |
 | 2173 | eutectic: Liquid\<->Mo5Si3 + MoSi2 | Liquid: Si 0.54; Mo5Si3: Si 0.4; MoSi2: Si 0.667 | experimental | [2] Liu 2000; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | Table 4, p. 7, row 14; `ORC-ZLHTBAL63J` |  |
@@ -147,12 +144,12 @@ Table: Invariant reactions reported in the literature for the Mo–Si system (45
 | 1680.15 | L \<-> diamond + MoSi2 | diamond: Si 1; MoSi2: Si 0.666667 | model | [1] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 1, p. 5, row 5; `ORC-DLV6TBQDGF` |  |
 | 1680 | eutectic: Liquid\<->diamond + MoSi2 | Liquid: Si 0.985; diamond: Si 1; MoSi2: Si 0.667 | model | [2] Liu 2000 | Table 4, p. 7, row 9; `ORC-ZPU6JOITZ5` |  |
 | 1679.15 | L \<-> diamond + MoSi2 | diamond: Si 1; MoSi2: Si 0.666667 | model | [1] Geng 2010 | Table 1, p. 5, row 6; `ORC-UFQOXQJREI` |  |
-| 1674 | L -> Si + MoSi2 | L: Si 0.975; Si: Si 1; MoSi2: Si 0.666667 | model | [3] Czerny 2024 | Table 7, p. 9, row 11; `ORC-H7S7TCIZL5` |  |
+| 1674 | eutectic: L -> Si + MoSi2 | L: Si 0.975; Si: Si 1; MoSi2: Si 0.666667 | model | [3] Czerny 2024 | Table 7, p. 9, row 11; `ORC-H7S7TCIZL5` |  |
 | 1673.15 | L \<-> diamond + MoSi2 | diamond: Si 1; MoSi2: Si 0.666667 | experimental | [1] Geng 2010; _cites Schlesinger 1993_ | Table 1, p. 5, row 4; `ORC-ZHCU2LBXXE` |  |
 | 1673 | eutectic: Liquid\<->diamond + MoSi2 | Liquid: Si 0.979; diamond: Si 1; MoSi2: Si 0.666667 | experimental | [2] Liu 2000; _cites Brewer 1980_ | Table 4, p. 7, row 7; `ORC-BZ5EHWB2F3` |  |
 | 1673 | eutectic: Liquid\<->diamond + MoSi2 | Liquid: Si 0.985; diamond: Si 1; MoSi2: Si 0.666667 | experimental | [2] Liu 2000; _cites Svechnikov 1971_ | Table 4, p. 7, row 6; `ORC-LTBVXPRYZA` |  |
 | 1673 | eutectic: Liquid\<->diamond + MoSi2 | Liquid: Si 0.983; diamond: Si 1; MoSi2: Si 0.667 | experimental | [2] Liu 2000; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | Table 4, p. 7, row 8; `ORC-PPW5XV42RW` |  |
-| 1673 | L -> Si + MoSi2 | L: Si 0.985; Si: Si 1; MoSi2: Si 0.666667 | experimental | [3] Czerny 2024; _cites Svechnikov 1971_ | Table 7, p. 9, row 12; `ORC-YVY64WQPQV` |  |
+| 1673 | eutectic: L -> Si + MoSi2 | L: Si 0.985; Si: Si 1; MoSi2: Si 0.666667 | experimental | [3] Czerny 2024; _cites Svechnikov 1971_ | Table 7, p. 9, row 12; `ORC-YVY64WQPQV` |  |
 
 ## Formation enthalpies
 
@@ -245,20 +242,14 @@ Table: Enthalpies of formation, Mo–Si system (80)
 
 ## Other properties
 
-### Phase transition (29)
+### Phase transition (20)
 
 Table: Phase transition, Mo–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1110 K | 1110 |  | experimental | [2] Liu 2000 | p. 2; `ORC-3AVQWKIDKG` | “Retained MoSi2-C40 phase in plasma sprayed samples exhibited an irreversible transformation to MoSi2-C11b at T1110 K.” |
-| Phase transition | 2173 K | 2173 | polymorphic | experimental | [3] Czerny 2024 | p. 3; `ORC-3HLBQCFAJP` | “The authors also included a presumed polymorphic transformation of the MoSi2 phase at 2173 K, from a tetragonal C11b structure to a hexagonal C40 structure (notation according to the Strukturbericht).” |
-| Phase transition | 2173 K | 2173 | polymorphic | experimental | [2] Liu 2000; _cites Svechnikov 1969_ | p. 1; `ORC-QQWFBNRZAZ` | “Svechnikov et al. \[17±19\] reported that the MoSi2 phase undergoes a polymorphic transformation from a low-temperature tetragonal C11b structure to a hightemperature hexagonal C40 structure at about 2173 K.” |
-| Phase transition | 2173.15 K | 2173.15 | polymorphic | experimental | [1] Geng 2010; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | p. 2; `ORC-R54CY3EDIS` | “Gokhale and Abbaschian \[23\] and Svechnikov et al. \[25\] reported that the MoSi2 phase undergoes a polymorphic transformation from a low-temperature tetragonal α MoSi2 structure to a high-temperature hexagonal β MoSi2 structure at about T α-β = 1900 °C.” |
 | Phase transition | 2253 K | 2253 | congruent melting: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | experimental | [2] Liu 2000; _cites Cherniack 1964_ [doi](https://doi.org/10.1111/j.1151-2916.1964.tb14372.x) | Table 4, p. 7, row 27; `ORC-77IUZL26R7` |  |
-| Phase transition | 2253.15 K | 2253.15 |  | experimental | [3] Czerny 2024; _cites Cherniak 1964_ | p. 3; `ORC-47R5FLNEEV.b372f8` | “In this publication, they reported the melting points of Mo5 Si3 and MoSi2 to be 2358.15 and 2253.15 K, respectively, and the eutectic temperature involving Mo5 Si3 and MoSi2 to be 2173.15 K.” |
 | Phase transition | 2292 K | 2292 | L -> MoSi2; _L: Si 0.666; MoSi2: Si 0.666667_ | model | [3] Czerny 2024 | Table 7, p. 9, row 9; `ORC-X2CXYDSWNU` |  |
-| Phase transition | 2293 K | 2293 |  | model | [2] Liu 2000; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | p. 1; `ORC-VKXF3SQJWM` | “The need for materials for high temperature (T>1773 K) applications has led to the development of materials based on molybdenum disilicide in view of its favorable properties, which include high melting point (2293 K \[1\]), excellent oxidation resistance at high temperatures and reasonable density (6.24 g/cm3 \[2\]).” |
 | Phase transition | 2293 K | 2293 | L -> MoSi2; _L: Si 0.666; MoSi2: Si 0.666667_ | experimental | [3] Czerny 2024; _cites Svechnikov 1971_ | Table 7, p. 9, row 10; `ORC-VZEWVF7ZTH` |  |
 | Phase transition | 2293 K | 2293 | congruent melting: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | model | [2] Liu 2000 | Table 4, p. 7, row 31; `ORC-5KORBBPXKK` |  |
 | Phase transition | 2293 K | 2293 | congruent melting: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | experimental | [2] Liu 2000; _cites Gokhale 1991_ [doi](https://doi.org/10.1007/bf02645979) | Table 4, p. 7, row 30; `ORC-ZAVK6GGVUB` |  |
@@ -266,10 +257,8 @@ Table: Phase transition, Mo–Si system
 | Phase transition | 2293.15 K | 2293.15 | L \<-> MoSi2; _L: Si 0.666667; MoSi2: Si 0.666667_ | model | [1] Geng 2010 | Table 1, p. 5, row 18; `ORC-KVIR7OJAXK` |  |
 | Phase transition | 2293.15 K | 2293.15 | L \<-> MoSi2; _L: Si 0.666667; MoSi2: Si 0.666667_ | experimental | [1] Geng 2010; _cites Schlesinger 1993_ | Table 1, p. 5, row 16; `ORC-SZRQB52E3R` |  |
 | Phase transition | 2294.15 K | 2294.15 | L \<-> MoSi2; _L: Si 0.666667; MoSi2: Si 0.666667_ | model | [1] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 1, p. 5, row 17; `ORC-XNPYCPMED5` |  |
-| Phase transition | 2299 K | 2299 |  | experimental | [2] Liu 2000 | p. 2; `ORC-7B47AHQXLG` | “The authors pointed out that the metastable melting point of MoSi2-C40 was 2299 K.” |
 | Phase transition | 2303 K | 2303 | congruent melting: MoSi2\<->liquid; _MoSi2: Si 0.667; liquid: Si 0.667_ | experimental | [2] Liu 2000; _cites Brewer 1980_ | Table 4, p. 7, row 29; `ORC-2X4VWGX5X6` |  |
 | Phase transition | 2358 K | 2358 | congruent melting: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | experimental | [2] Liu 2000; _cites Cherniack 1964_ [doi](https://doi.org/10.1111/j.1151-2916.1964.tb14372.x) | Table 4, p. 7, row 22; `ORC-LZFTICME7T` |  |
-| Phase transition | 2358.15 K | 2358.15 |  | experimental | [3] Czerny 2024; _cites Cherniak 1964_ | p. 3; `ORC-47R5FLNEEV.163883` | “In this publication, they reported the melting points of Mo5 Si3 and MoSi2 to be 2358.15 and 2253.15 K, respectively, and the eutectic temperature involving Mo5 Si3 and MoSi2 to be 2173.15 K.” |
 | Phase transition | 2441 K | 2441 | congruent melting: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | model | [2] Liu 2000 | Table 4, p. 7, row 26; `ORC-3Y6K2FWYLF` |  |
 | Phase transition | 2441.15 K | 2441.15 | L \<-> Mo5Si3; _L: Si 0.375; Mo5Si3: Si 0.375_ | model | [1] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 1, p. 5, row 14; `ORC-AQLVUCGK7S` |  |
 | Phase transition | 2452 K | 2452 | L -> Mo5Si3; _L: Si 0.375; Mo5Si3: Si 0.375_ | model | [3] Czerny 2024 | Table 7, p. 9, row 5; `ORC-A4JWXYGN7D` |  |
@@ -279,7 +268,6 @@ Table: Phase transition, Mo–Si system
 | Phase transition | 2453.15 K | 2453.15 | L \<-> Mo5Si3; _L: Si 0.375; Mo5Si3: Si 0.375_ | model | [1] Geng 2010 | Table 1, p. 5, row 15; `ORC-3FR5LYKSC3` |  |
 | Phase transition | 2453.15 K | 2453.15 | L \<-> Mo5Si3; _L: Si 0.375; Mo5Si3: Si 0.375_ | experimental | [1] Geng 2010; _cites Schlesinger 1993_ | Table 1, p. 5, row 13; `ORC-EONQZMCM6Y` |  |
 | Phase transition | 2463 K | 2463 | congruent melting: Mo5Si3\<->liquid; _Mo5Si3: Si 0.375; liquid: Si 0.375_ | experimental | [2] Liu 2000; _cites Brewer 1980_ | Table 4, p. 7, row 24; `ORC-AWMI7WQYKA` |  |
-| Phase transition | 3800 K | 3800 | other | model | [4] Guo 2012; _cites Geng 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.07.003) | p. 2; `ORC-QPVJMCOMQO` | “But the miscibility gap in liquid in Ref. \[26\] occurs at about 3800 K.” |
 
 ### Phase equilibrium (4)
 
@@ -292,13 +280,12 @@ Table: Phase equilibrium, Mo–Si system
 | Phase composition |  | 1573.15 | bcc + Mo3Si; _bcc: Mo 0.982, Si 0.018; Mo3Si: Mo 0.759, Si 0.241_ | experimental | [3] Czerny 2024 | Table 6, p. 7, row 1; `ORC-EQ3TF5DIYD` |  |
 | Phase composition |  | 1573.15 | bcc + Mo3Si; _bcc: Mo 0.985, Si 0.015; Mo3Si: Mo 0.773, Si 0.227_ | experimental | [3] Czerny 2024 | Table 6, p. 7, row 2; `ORC-KJ4JCPAWO2` |  |
 
-### Formation (85)
+### Formation (84)
 
 Table: Formation, Mo–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: entropies of formation_ | 0.446 J mol 1K 1 | 298.15 |  | model | [3] Czerny 2024; _cites King 1958_ | p. 4; `ORC-NSSVFSLC3V` | “For the system Mo-Si, this is possible using the data from Callanan et al.\[40\] for MoSi2 and King and Christensen\[41\] for Mo3 Si, respectively. From these experiments, the derived entropies of formation at 298 K (referring to 1 mole of atoms) are 0.446 J mol1K1 for Mo3 Si and 1.57 J mol1 K1 for MoSi2 .” |
 | Entropy of formation; _printed: ΔSf_ | 0.6177 per mol-atom | 298.15 | Mo3Si; _alloy: Mo 0.75, Si 0.25_ | model | [2] Liu 2000; _cites Bai 1999_ | Table 3, p. 6, row 8; `ORC-2SHR2GR3UZ` |  |
 | Entropy of formation; _printed: entropy of formation_ | 0.42 per mol-atom ± 1.3 | 298.15 | Mo3Si; _alloy: Si 0.25_ | experimental | [3] Czerny 2024; _cites Chart 1974_ | Table 9, p. 10, row 8; `ORC-57UVFPSSQP.fc7a41` |  |
 | Entropy of formation; _printed: ΔSf_ | 0.42 per mol-atom ± 1.3 | 298.15 | Mo3Si; _alloy: Mo 0.75, Si 0.25_ | experimental | [2] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 3, p. 6, row 2; `ORC-6ASP6P4PJR` |  |
@@ -391,7 +378,6 @@ Reporting papers the values were read from (a value cited from another work name
 1. Tai Geng, Changrong Li, Xinqing Zhao, Huibin Xu, Zhenmin Du, Cuiping Guo, Thermodynamic assessment of the Nb–Si–Mo system, Calphad 34, 363-376 (2010). [doi:10.1016/j.calphad.2010.07.003](https://doi.org/10.1016/j.calphad.2010.07.003)
 2. Y Liu, G Shao, P Tsakiropoulos, Thermodynamic reassessment of the Mo–Si and Al–Mo–Si systems, Intermetallics 8, 953-962 (2000). [doi:10.1016/s0966-9795(00)00068-6](https://doi.org/10.1016/s0966-9795%2800%2900068-6)
 3. Andreas Klaus Czerny, Wenhao Ma, Clemens Simon Hausner, Peter Franke, Magnus Rohde, Hans Jürgen Seifert, Thermodynamic Assessment of the Mo–Si System, Adv Eng Mater 26 (2024). [doi:10.1002/adem.202302085](https://doi.org/10.1002/adem.202302085)
-4. Cuiping Guo, Changrong Li, Patrick J. Masset, Zhenmin Du, A thermodynamic description of the Al–Mo–Si system, Calphad 36, 100-109 (2012). [doi:10.1016/j.calphad.2011.12.003](https://doi.org/10.1016/j.calphad.2011.12.003)
 
 ## Please cite
 

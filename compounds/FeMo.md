@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of FeMo
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | 4.218 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| 4.34 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| 4.998 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 4.34 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 4.998 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

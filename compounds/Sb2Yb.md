@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Sb2Yb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -68.29 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -68.29 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## Sources
 

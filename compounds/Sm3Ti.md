@@ -29,11 +29,11 @@ Table: Uncertainty budget of the literature values of Sm3Ti
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 21.825 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| 22.2013 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| 22.2109 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| 28.4149 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| 31.5121 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| 21.825 | kJ/mol-atom |  | 0.004824 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| 22.2013 | kJ/mol-atom |  | 0.004824 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| 22.2109 | kJ/mol-atom |  | 0.004824 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| 28.4149 | kJ/mol-atom |  | 0.004824 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| 31.5121 | kJ/mol-atom |  | 0.004824 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 | 12.7457 | kJ/mol-atom |  | 0.004824 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies

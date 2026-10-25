@@ -1,10 +1,10 @@
 # Ga–Sn system
 
-> Ga–Sn system: 164 accepted literature values (phase equilibrium 124, mixing / partial 18, phase transition 16, crystal structure 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Sn system: 154 accepted literature values (phase equilibrium 124, mixing / partial 18, phase transition 8, crystal structure 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-SN.html · Markdown: https://data.orchid-project.org/systems/GA-SN.md
 
-164 accepted literature values from 2 paper(s) (experimental 154, model 2, unspecified 8); 2 calculated phase diagram(s).
+154 accepted literature values from 1 paper(s) (experimental 146, unspecified 8); 2 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-SN.json) · [CSV](https://data.orchid-project.org/systems/GA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SN/GaSn-79Ans.json) · [phases (7)](https://data.orchid-project.org/phases/pages/GA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-SN.html) · [Markdown](https://data.orchid-project.org/systems/GA-SN.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 154 |
-| model | 2 |
+| experimental | 146 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
-| phase transition | 16 |
+| invariant reaction | 1 |
+| phase transition | 8 |
 | phase equilibrium | 124 |
 | mixing / partial | 18 |
 | crystal structure | 3 |
@@ -41,30 +40,20 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ga–Sn system (3)
+Table: Invariant reactions reported in the literature for the Ga–Sn system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 293.81 | eutectic |  | model | [1] Anderson 1992 | p. 5; `ORC-GD4OJM73KZ` | “The values measured for the eutectic temperature are in close agreement, and the assessed value obtained from a thermodynamic calculation is 20.66 \*C.” |
 | 293.65 | eutectic: L -> (αGa) + (βSn) | L: Sn 0.077; (αGa): Sn 2.000e-4; (βSn): Sn 0.936 | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 1; `ORC-YD7LIP6NOS` |  |
-| 293.6 | eutectic |  | experimental | [2] Ansara 1979; _cites MATHIEU 1966_ | p. 3; `ORC-KWULBC7A44` | “PUSCHIN (20) and PRBDEL (2l)have determined the gallium-tin phase diagram, shown in figure 3, by means of thermal analysis, X-ray and dilatometric measurements. The eutectic point is at 8.5 at % Sn and 293.6K.” |
 
 ## Other properties
 
-### Phase transition (16)
+### Phase transition (8)
 
 Table: Phase transition, Ga–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 293.15 K | 293.15 | eutectic | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 3, p. 5, row 1; `ORC-3EAIK4W3AC` |  |
-| Phase transition | 293.15 K | 293.15 | eutectic | experimental | [1] Anderson 1992; _cites Siede 1963_ | Table 3, p. 5, row 4; `ORC-VQQ7A4ZPPM` |  |
-| Phase transition | 293.35 K | 293.35 | eutectic | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 3, p. 5, row 7; `ORC-U4FBJOELKC` |  |
-| Phase transition | 293.55 K | 293.55 | eutectic | experimental | [1] Anderson 1992; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | Table 3, p. 5, row 3; `ORC-ZH5NZ3W6NL` |  |
-| Phase transition | 293.65 K | 293.65 | eutectic | experimental | [1] Anderson 1992; _cites Ph 1962_ | Table 3, p. 5, row 2; `ORC-LJBBEQIWRU` |  |
-| Phase transition | 293.75 K | 293.75 | eutectic | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 3, p. 5, row 6; `ORC-MBWU2UJCZ6` |  |
-| Phase transition | 293.75 K | 293.75 | eutectic | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 3, p. 5, row 5; `ORC-SUZTW4LJ76` |  |
-| Phase transition | 293.81 K | 293.81 | eutectic | model | [1] Anderson 1992 | Table 3, p. 5, row 8; `ORC-NFIVBC6WQ7` |  |
 | Phase transition | 302.924 K | 302.924 | congruent melting: L -> αGa; _αGa: Sn 0_ | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 2; `ORC-5S4AAK2PLP` |  |
 | Phase transition | 454.15 K | 454.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 1; `ORC-Z7VBLFUR4S` |  |
 | Phase transition | 463.15 K | 463.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 2; `ORC-YQKN7NV66O` |  |
@@ -245,7 +234,6 @@ Table: Crystal structure, Ga–Sn system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. T. J. Anderson, I. Ansara, The Ga-Sn (gallium-tin) system, JPE 13, 181-189 (1992). [doi:10.1007/bf02667485](https://doi.org/10.1007/bf02667485)
-2. I. Ansara, J.P. Bros, M. Gambino, Thermodynamic analysis of the germanium-based ternary systems (AlGaGe, AlGeSn, GaGeSn), Calphad 3, 225-233 (1979). [doi:10.1016/0364-5916(79)90006-3](https://doi.org/10.1016/0364-5916%2879%2990006-3)
 
 ## Please cite
 

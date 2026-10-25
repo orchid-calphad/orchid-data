@@ -21,7 +21,7 @@ Table: Phases of the Gd–Sb system (10)
 | [GDSB_B1](#phase-gd-sb-gdsb-b1); _phase:gd-sb:gdsb-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2113.15 K, x(Sb) 0.5–0.5 | 6 | 1 |
 | [GDSB_BETA](#phase-gd-sb-gdsb-beta); _phase:gd-sb:gdsb-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 2113.15–2400.73 K, x(Sb) 0.5–0.5 | 4 | 1 |
 | [HCP_A3](#phase-gd-sb-hcp-a3); _phase:gd-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1508.15 K, x(Sb) 0–0.04024 | 0 | 1 |
-| [LIQUID](#phase-gd-sb-liquid); _phase:gd-sb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 902.91–2500 K, x(Sb) 0–1 | 16 | 1 |
+| [LIQUID](#phase-gd-sb-liquid); _phase:gd-sb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 902.91–2500 K, x(Sb) 0–1 | 18 | 1 |
 
 ## RHOMBOHEDRAL_A7 (Gd–Sb)
 
@@ -295,11 +295,11 @@ _assessment that models this phase_
 - Id: `phase:gd-sb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 902.91–2500 K, x(Sb) 0–1
-- Literature: 16 values (16 accepted) from 1 papers
+- Literature: 18 values (18 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-sb:liquid)
 
-Names (3): _corpus: _corpus:phase:gd-sb:liquid  
-_paper: _paper:10.1016/j.intermet.2007.04.003:L  
+Names (4): _corpus: _corpus:phase:gd-sb:liquid  
+_paper: _paper:10.1016/j.intermet.2007.04.003:L, paper:10.1016/j.intermet.2007.04.003:liquid  
 _tdb: _tdb:GdSb-07Li.tdb:LIQUID  
 
 

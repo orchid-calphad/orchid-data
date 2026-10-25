@@ -294,7 +294,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-si:liquid)
 
 Names (8): _corpus: _corpus:phase:al-si:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlSi-12Tan.tdb:LIQUID, tdb:AlSi-14Lia.tdb:LIQUID, tdb:AlSi-24Zob-3g.tdb:LIQUID, tdb:AlSi-86Mey.tdb:LIQUID, tdb:AlSi-96Jac.tdb:LIQUID, tdb:AlSi-97Feu-LB.tdb:LIQUID  
 
 
@@ -342,7 +342,7 @@ _tdb: _tdb:AlSi-12Tan.tdb:LIQUID, tdb:AlSi-14Lia.tdb:LIQUID, tdb:AlSi-24Zob-3g.t
 25: CONST LIQUID:L : AL SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.actamat.2014.02.042](https://doi.org/10.1016/j.actamat.2014.02.042) Song-Mao Liang, Rainer Schmid-Fetzer, Phosphorus in Al–Si cast alloys: Thermodynamic prediction of the AlP and eutectic (Si) solidification sequence validated by microstructure and nucleation undercooling data, Acta Materialia 72, 41-56 (2014).  
 _assessment that models this phase_
@@ -354,8 +354,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0925-8388(96)02655-2](https://doi.org/10.1016/S0925-8388%2896%2902655-2) H. Feufel, T. Goedecke, H.L. Lukas, F. Aldinger, J. Alloys Compd., 247, 31-42(1997).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

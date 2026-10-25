@@ -1,10 +1,10 @@
 # Cu–Se–Te system
 
-> Cu–Se–Te system: 65 accepted literature values (phase equilibrium 55, invariant reaction 8, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Se–Te system: 63 accepted literature values (phase equilibrium 55, invariant reaction 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SE-TE.html · Markdown: https://data.orchid-project.org/systems/CU-SE-TE.md
 
-65 accepted literature values from 1 paper(s) (experimental 55, model 10); 0 calculated phase diagram(s).
+63 accepted literature values from 1 paper(s) (experimental 55, model 8); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SE-TE.json) · [CSV](https://data.orchid-project.org/systems/CU-SE-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SE-TE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SE-TE.html) · [Markdown](https://data.orchid-project.org/systems/CU-SE-TE.md)
 
@@ -13,14 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 55 |
-| model | 10 |
+| model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 8 |
-| phase transition | 2 |
 | phase equilibrium | 55 |
 
 ## Invariant reactions (literature)
@@ -39,15 +38,6 @@ Table: Invariant reactions reported in the literature for the Cu–Se–Te syste
 | 615.15 | eutectic: Hexagonal_A8 + τ2 + α-CuTe -> Liquid | Liquid: Cu 0.3172, Se 0.0242, Te 0.6586 | model | [1] Hutabalian 2023 | Table 5, p. 17, row 8; `ORC-BNRK3J4QQ3` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Cu–Se–Te system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1285.15 K | 1285.15 |  | model | [1] Hutabalian 2023; _cites Glazov 1975_ | p. 5; `ORC-2FZAC2FG5N` | “Moreover, the Cu2SeCu2Te isopleth section forms a minimum point at 1012 C and 0.47 mol fraction of Cu2Se.\[10\]” |
-| Phase transition | 1285.15 K | 1285.15 | other | model | [1] Hutabalian 2023; _cites Glazov 1975_ | p. 18; `ORC-MUR4NKRHSB` | “The Cu2Se-Cu2Te isopleth section shows a solid solution with a minimum point at 1012 C and 0.47 mol fraction of Cu2Se.\[10\]” |
 
 ### Phase equilibrium (55)
 

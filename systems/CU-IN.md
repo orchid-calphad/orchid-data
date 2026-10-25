@@ -1,10 +1,10 @@
 # Cu–In system
 
-> Cu–In system: 136 accepted literature values (formation 95, invariant reaction 16, activity / EMF / Gibbs energy 13, heat capacity / entropy / enthalpy 9) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–In system: 132 accepted literature values (formation 95, invariant reaction 14, activity / EMF / Gibbs energy 13, heat capacity / entropy / enthalpy 9) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-IN.html · Markdown: https://data.orchid-project.org/systems/CU-IN.md
 
-136 accepted literature values from 3 paper(s) (experimental 70, model 45, unspecified 21); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+132 accepted literature values from 3 paper(s) (experimental 68, model 43, unspecified 21); 5 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-IN.json) · [CSV](https://data.orchid-project.org/systems/CU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-IN/CuIn-02Her.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CU-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-IN.html) · [Markdown](https://data.orchid-project.org/systems/CU-IN.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 70 |
-| model | 45 |
+| experimental | 68 |
+| model | 43 |
 | unspecified | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
-| phase transition | 2 |
+| invariant reaction | 14 |
 | formation | 95 |
 | heat capacity / entropy / enthalpy | 9 |
 | activity / EMF / Gibbs energy | 13 |
@@ -123,26 +122,24 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–In system (16)
+Table: Invariant reactions reported in the literature for the Cu–In system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 983.7 | L + α -> β |  | model | [1] Kao 1993 | Table 4, p. 7, row 2; `ORC-BIDKMPR2SX` |  |
 | 983 | L + α -> β |  | experimental | [1] Kao 1993; _cites ref. 1_ | Table 4, p. 7, row 1; `ORC-KM52SEA7P2` |  |
-| 983 | peritectic: ␤ ↔ ␣ + L |  | experimental | [2] Hertz 2002 | p. 5; `ORC-R2KNW4OHW4.a34b9b` | “The peritectic (␤ ↔ ␣ + L) temperature is calculated at 982 K (experimental 983 K) and the (␤ ↔ ␣ + ␦) eutectoid temperature at 852.5 K (experimental 847 K).” |
-| 982 | peritectic: ␤ ↔ ␣ + L |  | model | [2] Hertz 2002 | p. 5; `ORC-R2KNW4OHW4.ad04c5` | “The peritectic (␤ ↔ ␣ + L) temperature is calculated at 982 K (experimental 983 K) and the (␤ ↔ ␣ + ␦) eutectoid temperature at 852.5 K (experimental 847 K).” |
-| 959.7 | L -> γ | L: Cu 0.7, In 0.3 (basis unresolved); γ: Cu 0.7, In 0.3 (basis unresolved) | model | [1] Kao 1993 | Table 4, p. 7, row 4; `ORC-YJZSPEH2AX` |  |
-| 957 | L -> γ | L: Cu 0.7, In 0.3 (basis unresolved); γ: Cu 0.7, In 0.3 (basis unresolved) | experimental | [1] Kao 1993; _cites ref. 1_ | Table 4, p. 7, row 3; `ORC-3EX3DXNGMC` |  |
-| 951 | L -> β + γ | γ: Cu 0.7, In 0.3 (basis unresolved) | experimental | [1] Kao 1993; _cites ref. 1_ | Table 4, p. 7, row 5; `ORC-SXX3DXNS3J` |  |
-| 950.7 | L -> β + γ | γ: Cu 0.7, In 0.3 (basis unresolved) | model | [1] Kao 1993 | Table 4, p. 7, row 6; `ORC-ZVZ3IH4FME` |  |
+| 959.7 | congruent melting: L -> γ | L: Cu 0.7, In 0.3 (basis unresolved); γ: Cu 0.7, In 0.3 (basis unresolved) | model | [1] Kao 1993 | Table 4, p. 7, row 4; `ORC-YJZSPEH2AX` |  |
+| 957 | congruent melting: L -> γ | L: Cu 0.7, In 0.3 (basis unresolved); γ: Cu 0.7, In 0.3 (basis unresolved) | experimental | [1] Kao 1993; _cites ref. 1_ | Table 4, p. 7, row 3; `ORC-3EX3DXNGMC` |  |
+| 951 | eutectic: L -> β + γ | γ: Cu 0.7, In 0.3 (basis unresolved) | experimental | [1] Kao 1993; _cites ref. 1_ | Table 4, p. 7, row 5; `ORC-SXX3DXNS3J` |  |
+| 950.7 | eutectic: L -> β + γ | γ: Cu 0.7, In 0.3 (basis unresolved) | model | [1] Kao 1993 | Table 4, p. 7, row 6; `ORC-ZVZ3IH4FME` |  |
 | 940.3 | L + γ -> η | γ: Cu 0.7, In 0.3 (basis unresolved); η: Cu 0.666667, In 0.333333 (basis unresolved) | model | [1] Kao 1993 | Table 4, p. 7, row 8; `ORC-JQR3R3J3DP` |  |
 | 940 | L + γ -> η | γ: Cu 0.7, In 0.3 (basis unresolved); η: Cu 0.666667, In 0.333333 (basis unresolved) | experimental | [1] Kao 1993; _cites ref. 1_ | Table 4, p. 7, row 7; `ORC-FIMBOTVTBH` |  |
 | 847.1 | β -> α + δ2 |  | model | [1] Kao 1993 | Table 4, p. 7, row 10; `ORC-FTIZXLIT77` |  |
 | 847 | β -> α + δ2 |  | experimental | [1] Kao 1993; _cites ref. 1_ | Table 4, p. 7, row 9; `ORC-W3VWNMLUGK` |  |
 | 580.1 | L + η -> Cu11In9 | η: Cu 0.666667, In 0.333333 (basis unresolved); Cu11In9: Cu 0.55, In 0.45 (basis unresolved) | model | [1] Kao 1993 | Table 4, p. 7, row 12; `ORC-7FJVCYKQVH` |  |
 | 580 | L + η -> Cu11In9 | η: Cu 0.666667, In 0.333333 (basis unresolved); Cu11In9: Cu 0.55, In 0.45 (basis unresolved) | experimental | [1] Kao 1993; _cites ref. 1_ | Table 4, p. 7, row 11; `ORC-YRWDGS25PU` |  |
-| 427.7 | L -> Cu11In9 + (In) | Cu11In9: Cu 0.55, In 0.45 (basis unresolved) | experimental | [1] Kao 1993; _cites ref. 1_ | Table 4, p. 7, row 13; `ORC-7WLMSESQ6L` |  |
-| 426.1 | L -> Cu11In9 + (In) | Cu11In9: Cu 0.55, In 0.45 (basis unresolved) | model | [1] Kao 1993 | Table 4, p. 7, row 14; `ORC-SMK7RIZ2HM` |  |
+| 427.7 | eutectic: L -> Cu11In9 + (In) | Cu11In9: Cu 0.55, In 0.45 (basis unresolved) | experimental | [1] Kao 1993; _cites ref. 1_ | Table 4, p. 7, row 13; `ORC-7WLMSESQ6L` |  |
+| 426.1 | eutectic: L -> Cu11In9 + (In) | Cu11In9: Cu 0.55, In 0.45 (basis unresolved) | model | [1] Kao 1993 | Table 4, p. 7, row 14; `ORC-SMK7RIZ2HM` |  |
 
 ## Formation enthalpies
 
@@ -152,59 +149,59 @@ Table: Enthalpies of formation, Cu–In system (95)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| β |  | -2.423 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 5; `ORC-4MBOFEDRGH` |  |
+| β |  | -2.423 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 5; `ORC-4MBOFEDRGH` |  |
 | β |  | -2.423 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 3; `ORC-H3WRU4CYPY.9d518b` |  |
-| β |  | -1.487 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 6; `ORC-VYQ5MAGKPV` |  |
-| β |  | -1.33 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 4; `ORC-EKUUXSHJ27` |  |
+| β |  | -1.487 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 6; `ORC-VYQ5MAGKPV` |  |
+| β |  | -1.33 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 4; `ORC-EKUUXSHJ27` |  |
 | β |  | -0.976 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 4; `ORC-RJTB2GLTJH.6c6d27` |  |
 | β |  | -0.949 kJ/mol (basis unstated) | 941 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 6; `ORC-CW224BZKU3.2c0d97` |  |
-| β |  | -0.464 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 3; `ORC-EKGIVT3MEO` |  |
+| β |  | -0.464 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 3; `ORC-EKGIVT3MEO` |  |
 | β |  | -0.464 kJ/mol (basis unstated) | 941 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 5; `ORC-M2FN67YQ54.affb1b` |  |
 | β |  | -0.431 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 1; `ORC-3L2HVUAOJL.83c1e9` |  |
-| β |  | -0.431 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 1; `ORC-ECMRBHIE5W` |  |
-| β |  | -0.431 kJ/mol (basis unstated) | 903 | experimental |  |  | [2] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 1; `ORC-MJWVB6DGPV` |  |
-| β |  | -0.048 kJ/mol (basis unstated) | 903 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 2; `ORC-24BYGTWAM5` |  |
+| β |  | -0.431 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 1; `ORC-ECMRBHIE5W` |  |
+| β |  | -0.431 kJ/mol (basis unstated) | 903 | experimental |  |  | [3] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 1; `ORC-MJWVB6DGPV` |  |
+| β |  | -0.048 kJ/mol (basis unstated) | 903 | model |  |  | [3] Hertz 2002 | Table 2, p. 5, row 2; `ORC-24BYGTWAM5` |  |
 | γ |  | -6.774 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 8; `ORC-H2PP26IPEN.4926bd` |  |
 | γ |  | -6.734 kJ/mol (basis unstated) | 941 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 10; `ORC-RKRSICZE4A.e400ce` |  |
-| γ |  | -6.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 13; `ORC-LXDT7SG2FU` |  |
-| γ |  | -6.088 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 15; `ORC-UEW3SB3L4H` |  |
-| γ |  | -5.667 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 14; `ORC-UEWPBAWA7C` |  |
+| γ |  | -6.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 13; `ORC-LXDT7SG2FU` |  |
+| γ |  | -6.088 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 15; `ORC-UEW3SB3L4H` |  |
+| γ |  | -5.667 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 14; `ORC-UEWPBAWA7C` |  |
 | γ |  | -5.665 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 7; `ORC-LIOFZA5XCA.40393c` |  |
-| γ |  | -5.542 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 12; `ORC-JYEMXQXD57` |  |
-| γ |  | -5.23 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 7; `ORC-MM3YG3SYPF` |  |
-| γ |  | -5.147 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 10; `ORC-FOG433DS2L` |  |
+| γ |  | -5.542 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 12; `ORC-JYEMXQXD57` |  |
+| γ |  | -5.23 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 7; `ORC-MM3YG3SYPF` |  |
+| γ |  | -5.147 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 10; `ORC-FOG433DS2L` |  |
 | γ |  | -4.424 kJ/mol (basis unstated) | 941 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 9; `ORC-V4EROTCDHF.964f1b` |  |
-| γ |  | -4.218 kJ/mol (basis unstated) | 935 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 4; `ORC-KND6T6P5YH` |  |
-| γ |  | -3.874 kJ/mol (basis unstated) | 941 | experimental |  |  | [2] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 3; `ORC-SSQ47THIWN` |  |
-| γ |  | -3.874 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 11; `ORC-YZC5D53752` |  |
-| γ |  | -3.31 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 9; `ORC-5Y64ZZHYK2` |  |
-| δ |  | -8.745 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Hertz 2002; _cites Vinakurova 1976_ | Table 2, p. 5, row 5; `ORC-ZSLFIIJ5QA` |  |
+| γ |  | -4.218 kJ/mol (basis unstated) | 935 | model |  |  | [3] Hertz 2002 | Table 2, p. 5, row 4; `ORC-KND6T6P5YH` |  |
+| γ |  | -3.874 kJ/mol (basis unstated) | 941 | experimental |  |  | [3] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 3; `ORC-SSQ47THIWN` |  |
+| γ |  | -3.874 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 11; `ORC-YZC5D53752` |  |
+| γ |  | -3.31 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Kang 1976_ | Table 3, p. 6, row 9; `ORC-5Y64ZZHYK2` |  |
+| δ |  | -8.745 kJ/mol (basis unstated) | 723 | experimental |  |  | [3] Hertz 2002; _cites Vinakurova 1976_ | Table 2, p. 5, row 5; `ORC-ZSLFIIJ5QA` |  |
 | δ |  | -8.68 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 13; `ORC-NII74K4MTD.baadfb` |  |
 | δ |  | -8.65 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 15; `ORC-3VYYE7S4NS.0d72f9` |  |
-| δ |  | -8.62 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Dichi 2000_ | Table 3, p. 6, row 18; `ORC-FATIJNCM3J` |  |
-| δ |  | -8.62 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Hertz 2002; _cites Dichi 2000_ | Table 2, p. 5, row 7; `ORC-GTI2ESZAMD` |  |
-| δ |  | -8.535 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Hertz 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 2, p. 5, row 9; `ORC-33WTFR77NM` |  |
-| δ |  | -8.52 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 8; `ORC-2XQ6EV7K2Y` |  |
-| δ |  | -8.52 kJ/mol (basis unstated) | 723 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 6; `ORC-EHRBSSXUZE` |  |
+| δ |  | -8.62 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Dichi 2000_ | Table 3, p. 6, row 18; `ORC-FATIJNCM3J` |  |
+| δ |  | -8.62 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Hertz 2002; _cites Dichi 2000_ | Table 2, p. 5, row 7; `ORC-GTI2ESZAMD` |  |
+| δ |  | -8.535 kJ/mol (basis unstated) | 723 | experimental |  |  | [3] Hertz 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 2, p. 5, row 9; `ORC-33WTFR77NM` |  |
+| δ |  | -8.52 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Hertz 2002 | Table 2, p. 5, row 8; `ORC-2XQ6EV7K2Y` |  |
+| δ |  | -8.52 kJ/mol (basis unstated) | 723 | model |  |  | [3] Hertz 2002 | Table 2, p. 5, row 6; `ORC-EHRBSSXUZE` |  |
 | δ |  | -8.5 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 10_ | Table 3, p. 5, row 11; `ORC-TMMG5LDHPB.026294` |  |
-| δ |  | -7.991 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 19; `ORC-ALKQ7M5K4H.f6c158` |  |
+| δ |  | -7.991 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 19; `ORC-ALKQ7M5K4H.f6c158` |  |
 | δ |  | -6.962 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 12; `ORC-GNV6OGUUE4.fb7bb8` |  |
 | δ |  | -6.909 kJ/mol (basis unstated) | 773 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 16; `ORC-SKJRPUGMQR.22ba95` |  |
-| η |  | -8.211 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites ref. 200_ | Table 3, p. 6, row 37; `ORC-FJMU4S6JFD` |  |
-| η |  | -8.211 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Hertz 2002; _cites Dichi 2000_ | Table 2, p. 5, row 17; `ORC-ZFBEKKGX56` |  |
-| η |  | -8.117 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 38; `ORC-JTOLQDRMCG` |  |
+| η |  | -8.211 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites ref. 200_ | Table 3, p. 6, row 37; `ORC-FJMU4S6JFD` |  |
+| η |  | -8.211 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Hertz 2002; _cites Dichi 2000_ | Table 2, p. 5, row 17; `ORC-ZFBEKKGX56` |  |
+| η |  | -8.117 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 38; `ORC-JTOLQDRMCG` |  |
 | η |  | -8 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 10_ | Table 3, p. 5, row 17; `ORC-7TLYRUY52S.975293` |  |
 | η |  | -7.78 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 21; `ORC-GLS5CMBI5B.743f9b` |  |
 | η |  | -7.7 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 10_ | Table 3, p. 5, row 19; `ORC-6DHJCORELC.991fab` |  |
 | η |  | -7.7 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 23; `ORC-XP4DVD3AVE.2c0ca4` |  |
 | η |  | -7.55 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 29; `ORC-6CU6IF6PAJ.ba2285` |  |
-| η |  | -7.548 kJ/mol (basis unstated) | 773 | experimental |  |  | [2] Hertz 2002; _cites Vinakurova 1976_ | Table 2, p. 5, row 15; `ORC-TEKSXGSW7S` |  |
-| η |  | -7.531 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Hertz 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 2, p. 5, row 21; `ORC-TUFJQNT5IA` |  |
+| η |  | -7.548 kJ/mol (basis unstated) | 773 | experimental |  |  | [3] Hertz 2002; _cites Vinakurova 1976_ | Table 2, p. 5, row 15; `ORC-TEKSXGSW7S` |  |
+| η |  | -7.531 kJ/mol (basis unstated) | 723 | experimental |  |  | [3] Hertz 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 2, p. 5, row 21; `ORC-TUFJQNT5IA` |  |
 | η |  | -7.47 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 25; `ORC-VWETXDHCIY.52ed5f` |  |
 | η |  | -7.47 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 35; `ORC-WDAAEF2RGY.82ca08` |  |
 | η |  | -7.45 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 31; `ORC-SK5IL73TN3.7c876d` |  |
 | η |  | -7.42 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 33; `ORC-YJH5SEOT5Z.4099b7` |  |
-| η |  | -7.382 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Hertz 2002; _cites Vinakurova 1976_ | Table 2, p. 5, row 19; `ORC-NL74PDAATB` |  |
+| η |  | -7.382 kJ/mol (basis unstated) | 723 | experimental |  |  | [3] Hertz 2002; _cites Vinakurova 1976_ | Table 2, p. 5, row 19; `ORC-NL74PDAATB` |  |
 | η |  | -7.38 kJ/mol (basis unstated) | 723 | experimental |  |  | [1] Kao 1993; _cites ref. 22_ | Table 3, p. 5, row 27; `ORC-IHHL7E5BOM.31e9c0` |  |
 | η |  | -7.185 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 24; `ORC-DQXS5QOZ3W.c69128` |  |
 | η |  | -7.132 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 26; `ORC-6DIU7WP7MN.64009a` |  |
@@ -218,46 +215,37 @@ Table: Enthalpies of formation, Cu–In system (95)
 | η |  | -6.839 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 28; `ORC-O3ZSLJMOBX.b6d241` |  |
 | η |  | -6.774 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 8; `ORC-H2PP26IPEN.d75a53` |  |
 | η |  | -6.734 kJ/mol (basis unstated) | 941 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 10; `ORC-RKRSICZE4A.935e85` |  |
-| η |  | -6.636 kJ/mol (basis unstated) | 903 | experimental |  |  | [2] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 11; `ORC-J647Y6OBDK` |  |
+| η |  | -6.636 kJ/mol (basis unstated) | 903 | experimental |  |  | [3] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 11; `ORC-J647Y6OBDK` |  |
 | η |  | -6.636 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 37; `ORC-ZG775ORZNA.391b66` |  |
 | η |  | -6.591 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 40; `ORC-VZXPITVM2O.234113` |  |
 | η |  | -6.573 kJ/mol (basis unstated) | 723 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 18; `ORC-YGURBQ3WVF.cc3525` |  |
-| η |  | -6.54 kJ/mol (basis unstated) | 723 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 20; `ORC-735MMV3EHC` |  |
+| η |  | -6.54 kJ/mol (basis unstated) | 723 | model |  |  | [3] Hertz 2002 | Table 2, p. 5, row 20; `ORC-735MMV3EHC` |  |
 | η |  | -6.477 kJ/mol (basis unstated) | 903 | unspecified |  |  | [1] Kao 1993 | Table 3, p. 5, row 38; `ORC-QISET4NSYN.38ec45` |  |
-| η |  | -6.402 kJ/mol (basis unstated) | 903 | experimental |  |  | [2] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 13; `ORC-BMMHBUUEJI` |  |
+| η |  | -6.402 kJ/mol (basis unstated) | 903 | experimental |  |  | [3] Hertz 2002; _cites Kang 1976_ | Table 2, p. 5, row 13; `ORC-BMMHBUUEJI` |  |
 | η |  | -6.402 kJ/mol (basis unstated) | 903 | experimental |  |  | [1] Kao 1993; _cites ref. 14_ | Table 3, p. 5, row 39; `ORC-OERCT72HAG.4e5b93` |  |
-| η |  | -5.916 kJ/mol (basis unstated) | 903 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 14; `ORC-VPPJK2QCKL` |  |
-| η |  | -5.837 kJ/mol (basis unstated) | 903 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 12; `ORC-DADDKLMJQS` |  |
-| η + δ |  | -7.519 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 18; `ORC-RUFEFL2VAF.802811` |  |
-| η + δ |  | -7.055 kJ/mol (basis unstated) | 773 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 16; `ORC-XRSCY6FXPD.6188d8` |  |
-| η' |  | -7.78 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 26; `ORC-3MNC6RGAU5.424ae3` |  |
-| η' |  | -7.757 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 22; `ORC-2KRPBGKFL2.1318c5` |  |
-| η' |  | -7.66 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 3, p. 6, row 21; `ORC-4GSQLFPPI6.623ae0` |  |
-| η' |  | -7.548 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 24; `ORC-BOGMTJY2BU.700a3d` |  |
-| η' |  | -7.445 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 27; `ORC-DVBUOEQ5FE.d46a77` |  |
-| η' |  | -7.382 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 23; `ORC-KTQWKYPZEJ.2d00a8` |  |
-| η' |  | -7.264 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 31; `ORC-BGZLTU4ZGK.24fefc` |  |
-| η' |  | -6.636 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 33; `ORC-VRK7FWZVWE.6eb06a` |  |
-| η' |  | -6.402 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 35; `ORC-VLYWSRGNZ4.b86131` |  |
-| η′ |  | -8.011 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 3, p. 6, row 20; `ORC-UCRQTVZ2L3.178447` |  |
-| η′ |  | -7.504 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 30; `ORC-R3DA7ZJNFS.3f749d` |  |
-| η′ |  | -7.463 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 32; `ORC-AB7TXN6XQV.1ec2b3` |  |
-| η′ |  | -7.422 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 29; `ORC-3D5CE2CRFZ.7c8707` |  |
-| η′ |  | -7.417 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 28; `ORC-QYRXYVPWVT.1ceebf` |  |
-| η′ |  | -7.267 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 25; `ORC-AJDCCGI2L5.217ed7` |  |
-| η′ |  | -7.113 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 36; `ORC-RS5Y6UUXEQ.35587d` |  |
-| η′ |  | -6.915 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 34; `ORC-OS2D7AL2MX.20e631` |  |
+| η |  | -5.916 kJ/mol (basis unstated) | 903 | model |  |  | [3] Hertz 2002 | Table 2, p. 5, row 14; `ORC-VPPJK2QCKL` |  |
+| η |  | -5.837 kJ/mol (basis unstated) | 903 | model |  |  | [3] Hertz 2002 | Table 2, p. 5, row 12; `ORC-DADDKLMJQS` |  |
+| η + δ |  | -7.519 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Hertz 2002 | Table 2, p. 5, row 18; `ORC-RUFEFL2VAF.802811` |  |
+| η + δ |  | -7.055 kJ/mol (basis unstated) | 773 | model |  |  | [3] Hertz 2002 | Table 2, p. 5, row 16; `ORC-XRSCY6FXPD.6188d8` |  |
+| η' |  | -7.78 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 26; `ORC-3MNC6RGAU5.424ae3` |  |
+| η' |  | -7.757 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 22; `ORC-2KRPBGKFL2.1318c5` |  |
+| η' |  | -7.66 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 3, p. 6, row 21; `ORC-4GSQLFPPI6.623ae0` |  |
+| η' |  | -7.548 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 24; `ORC-BOGMTJY2BU.700a3d` |  |
+| η' |  | -7.445 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 27; `ORC-DVBUOEQ5FE.d46a77` |  |
+| η' |  | -7.382 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 23; `ORC-KTQWKYPZEJ.2d00a8` |  |
+| η' |  | -7.264 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 31; `ORC-BGZLTU4ZGK.24fefc` |  |
+| η' |  | -6.636 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 33; `ORC-VRK7FWZVWE.6eb06a` |  |
+| η' |  | -6.402 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 35; `ORC-VLYWSRGNZ4.b86131` |  |
+| η′ |  | -8.011 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 3, p. 6, row 20; `ORC-UCRQTVZ2L3.178447` |  |
+| η′ |  | -7.504 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 30; `ORC-R3DA7ZJNFS.3f749d` |  |
+| η′ |  | -7.463 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 32; `ORC-AB7TXN6XQV.1ec2b3` |  |
+| η′ |  | -7.422 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 29; `ORC-3D5CE2CRFZ.7c8707` |  |
+| η′ |  | -7.417 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 28; `ORC-QYRXYVPWVT.1ceebf` |  |
+| η′ |  | -7.267 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 25; `ORC-AJDCCGI2L5.217ed7` |  |
+| η′ |  | -7.113 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 36; `ORC-RS5Y6UUXEQ.35587d` |  |
+| η′ |  | -6.915 kJ/mol (basis unstated) |  | model |  |  | [2] Liu 2002 | Table 3, p. 6, row 34; `ORC-OS2D7AL2MX.20e631` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Cu–In system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 847 K | 847 | ␤ ↔ ␣ + ␦ | experimental | [2] Hertz 2002 | p. 5; `ORC-R2KNW4OHW4.93f183` | “The peritectic (␤ ↔ ␣ + L) temperature is calculated at 982 K (experimental 983 K) and the (␤ ↔ ␣ + ␦) eutectoid temperature at 852.5 K (experimental 847 K).” |
-| Phase transition | 852.5 K | 852.5 | ␤ ↔ ␣ + ␦ | model | [2] Hertz 2002 | p. 5; `ORC-R2KNW4OHW4.b85d07` | “The peritectic (␤ ↔ ␣ + L) temperature is calculated at 982 K (experimental 983 K) and the (␤ ↔ ␣ + ␦) eutectoid temperature at 852.5 K (experimental 847 K).” |
 
 ### Heat capacity / entropy / enthalpy (9)
 
@@ -281,19 +269,19 @@ Table: Activity / EMF / Gibbs energy, Cu–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG_ | -7642 J/mol |  | δ; _alloy: Cu 0.7, In 0.3_ | model | [3] Liu 2002 | Table 3, p. 6, row 19; `ORC-ALKQ7M5K4H.1e9879` |  |
-| Gibbs energy; _printed: ΔG_ | -7714 J/mol |  | δ; _alloy: Cu 0.7, In 0.3_ | experimental | [3] Liu 2002; _cites Kutsenok 1983_ | Table 3, p. 6, row 17; `ORC-N3QMPBJEJW` |  |
-| Gibbs energy; _printed: ΔG_ | -7251 J/mol |  | η'; _alloy: Cu 0.648, In 0.352_ | model | [3] Liu 2002 | Table 3, p. 6, row 25; `ORC-AJDCCGI2L5.46634f` |  |
-| Gibbs energy; _printed: ΔG_ | -5584 J/mol |  | η'; _alloy: Cu 0.625, In 0.375_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 31; `ORC-BGZLTU4ZGK.28cce2` |  |
-| Gibbs energy; _printed: ΔG_ | -5601 J/mol |  | η'; _alloy: Cu 0.61, In 0.39_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 23; `ORC-KTQWKYPZEJ.b87f6a` |  |
-| Gibbs energy; _printed: ΔG_ | -7259 J/mol |  | η'; _alloy: Cu 0.642, In 0.358_ | model | [3] Liu 2002 | Table 3, p. 6, row 28; `ORC-QYRXYVPWVT.20b6ab` |  |
-| Gibbs energy; _printed: ΔG_ | -7251 J/mol |  | η'; _alloy: Cu 0.635, In 0.365_ | model | [3] Liu 2002 | Table 3, p. 6, row 30; `ORC-R3DA7ZJNFS.6a0150` |  |
-| Gibbs energy; _printed: ΔG_ | -5712 J/mol |  | η′; _alloy: Cu 0.635, In 0.365_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 22; `ORC-2KRPBGKFL2.2456e1` |  |
-| Gibbs energy; _printed: ΔG_ | -5600 J/mol |  | η′; _alloy: Cu 0.635, In 0.365_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 29; `ORC-3D5CE2CRFZ.1c4310` |  |
-| Gibbs energy; _printed: ΔG_ | -5738 J/mol |  | η′; _alloy: Cu 0.642, In 0.358_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 26; `ORC-3MNC6RGAU5.6fbd68` |  |
-| Gibbs energy; _printed: ΔG_ | -7211 J/mol |  | η′; _alloy: Cu 0.625, In 0.375_ | model | [3] Liu 2002 | Table 3, p. 6, row 32; `ORC-AB7TXN6XQV.6ff4b3` |  |
-| Gibbs energy; _printed: ΔG_ | -5608 J/mol |  | η′; _alloy: Cu 0.648, In 0.352_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 24; `ORC-BOGMTJY2BU.b5d470` |  |
-| Gibbs energy; _printed: ΔG_ | -5624 J/mol |  | η′; _alloy: Cu 0.642, In 0.358_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 27; `ORC-DVBUOEQ5FE.2f6ef7` |  |
+| Gibbs energy; _printed: ΔG_ | -7642 J/mol |  | δ; _alloy: Cu 0.7, In 0.3_ | model | [2] Liu 2002 | Table 3, p. 6, row 19; `ORC-ALKQ7M5K4H.1e9879` |  |
+| Gibbs energy; _printed: ΔG_ | -7714 J/mol |  | δ; _alloy: Cu 0.7, In 0.3_ | experimental | [2] Liu 2002; _cites Kutsenok 1983_ | Table 3, p. 6, row 17; `ORC-N3QMPBJEJW` |  |
+| Gibbs energy; _printed: ΔG_ | -7251 J/mol |  | η'; _alloy: Cu 0.648, In 0.352_ | model | [2] Liu 2002 | Table 3, p. 6, row 25; `ORC-AJDCCGI2L5.46634f` |  |
+| Gibbs energy; _printed: ΔG_ | -5584 J/mol |  | η'; _alloy: Cu 0.625, In 0.375_ | experimental | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 31; `ORC-BGZLTU4ZGK.28cce2` |  |
+| Gibbs energy; _printed: ΔG_ | -5601 J/mol |  | η'; _alloy: Cu 0.61, In 0.39_ | experimental | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 23; `ORC-KTQWKYPZEJ.b87f6a` |  |
+| Gibbs energy; _printed: ΔG_ | -7259 J/mol |  | η'; _alloy: Cu 0.642, In 0.358_ | model | [2] Liu 2002 | Table 3, p. 6, row 28; `ORC-QYRXYVPWVT.20b6ab` |  |
+| Gibbs energy; _printed: ΔG_ | -7251 J/mol |  | η'; _alloy: Cu 0.635, In 0.365_ | model | [2] Liu 2002 | Table 3, p. 6, row 30; `ORC-R3DA7ZJNFS.6a0150` |  |
+| Gibbs energy; _printed: ΔG_ | -5712 J/mol |  | η′; _alloy: Cu 0.635, In 0.365_ | experimental | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 22; `ORC-2KRPBGKFL2.2456e1` |  |
+| Gibbs energy; _printed: ΔG_ | -5600 J/mol |  | η′; _alloy: Cu 0.635, In 0.365_ | experimental | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 29; `ORC-3D5CE2CRFZ.1c4310` |  |
+| Gibbs energy; _printed: ΔG_ | -5738 J/mol |  | η′; _alloy: Cu 0.642, In 0.358_ | experimental | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 26; `ORC-3MNC6RGAU5.6fbd68` |  |
+| Gibbs energy; _printed: ΔG_ | -7211 J/mol |  | η′; _alloy: Cu 0.625, In 0.375_ | model | [2] Liu 2002 | Table 3, p. 6, row 32; `ORC-AB7TXN6XQV.6ff4b3` |  |
+| Gibbs energy; _printed: ΔG_ | -5608 J/mol |  | η′; _alloy: Cu 0.648, In 0.352_ | experimental | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 24; `ORC-BOGMTJY2BU.b5d470` |  |
+| Gibbs energy; _printed: ΔG_ | -5624 J/mol |  | η′; _alloy: Cu 0.642, In 0.358_ | experimental | [2] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 27; `ORC-DVBUOEQ5FE.2f6ef7` |  |
 
 ### Other property (1)
 
@@ -301,15 +289,15 @@ Table: Other property, Cu–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: ⌬Hmelt_ | 8340 unspecified ± 168 | 955.5 |  | experimental | [2] Hertz 2002; _cites Bahari 1999_ | p. 5; `ORC-L254Y6PNFT.273f6a` | “According to Bahari et al. \[1999Bah\] the measured enthalpy of melting of the ␥ phase at 955.5 K is ⌬Hmelt(␥, xIn ⳱ 0.300) ⳱ 8340 ± 168 J/mol; while the model gives ⌬Hmelt(␥, xIn ⳱ 0.300) ⳱ 11 325 J/mol.” |
+| Other; _printed: ⌬Hmelt_ | 8340 unspecified ± 168 | 955.5 |  | experimental | [3] Hertz 2002; _cites Bahari 1999_ | p. 5; `ORC-L254Y6PNFT.273f6a` | “According to Bahari et al. \[1999Bah\] the measured enthalpy of melting of the ␥ phase at 955.5 K is ⌬Hmelt(␥, xIn ⳱ 0.300) ⳱ 8340 ± 168 J/mol; while the model gives ⌬Hmelt(␥, xIn ⳱ 0.300) ⳱ 11 325 J/mol.” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. C. R. Kao, A. Bolccwage, S. -L. Chen, S. W. Chen, Y. A. Chang, A. D. Romig, Phase equilibria of the cu-in system II: Thermodynamic assessment and calculation of phase diagram, JPE 14, 22-30 (1993). [doi:10.1007/bf02652158](https://doi.org/10.1007/bf02652158)
-2. Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002). [doi:10.1361/105497102770331163](https://doi.org/10.1361/105497102770331163)
-3. H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002). [doi:10.1361/105497102770331352](https://doi.org/10.1361/105497102770331352)
+2. H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002). [doi:10.1361/105497102770331352](https://doi.org/10.1361/105497102770331352)
+3. Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002). [doi:10.1361/105497102770331163](https://doi.org/10.1361/105497102770331163)
 
 ## Please cite
 

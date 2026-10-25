@@ -17,7 +17,7 @@ Table: Phases of the Pt–Sn system (11)
 | [BCC_A2](#phase-pt-sn-bcc-a2); _phase:pt-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [FCC_A1](#phase-pt-sn-fcc-a1); _phase:pt-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2048.86 K, x(Sn) 0–0.12769 | 11 | 4 |
 | [HCP_A3](#phase-pt-sn-hcp-a3); _phase:pt-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [LIQUID](#phase-pt-sn-liquid); _phase:pt-sn:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 504.27–2500 K, x(Sn) 0–1 | 99 | 4 |
+| [LIQUID](#phase-pt-sn-liquid); _phase:pt-sn:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 504.27–2500 K, x(Sn) 0–1 | 101 | 4 |
 | [PT2SN3](#phase-pt-sn-pt2sn3); _phase:pt-sn:pt2sn3_ | Pt2Sn3 · hP10 · P6_3/mmc (194) | tier B: DFT-supported (unique MP + OQMD match) | stable in 4 of 4 calculated diagram(s): 300–1176.06 K, x(Sn) 0.6–0.6 | 36 | 4 |
 | [PT3SN_L12](#phase-pt-sn-pt3sn-l12); _phase:pt-sn:pt3sn-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1684.88 K, x(Sn) 0.25–0.25 | 41 | 4 |
 | [PTSN_B81](#phase-pt-sn-ptsn-b81); _phase:pt-sn:ptsn-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1553.29 K, x(Sn) 0.5–0.5 | 46 | 4 |
@@ -305,11 +305,11 @@ _assessment that models this phase_
 - Id: `phase:pt-sn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 504.27–2500 K, x(Sn) 0–1
-- Literature: 99 values (99 accepted) from 3 papers
+- Literature: 101 values (99 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-sn:liquid)
 
-Names (9): _corpus: _corpus:phase:pt-sn:liquid  
-_paper: _paper:10.1016/j.jallcom.2006.11.027:Liq, paper:10.1016/j.jallcom.2020.157064:Liquid, paper:10.1016/j.jallcom.2020.157064:liquid, paper:10.1016/s0925-8388(01)01201-4:Liq.  
+Names (10): _corpus: _corpus:phase:pt-sn:liquid  
+_paper: _paper:10.1016/j.jallcom.2006.11.027:Liq, paper:10.1016/j.jallcom.2020.157064:Liquid, paper:10.1016/j.jallcom.2020.157064:liquid, paper:10.1016/s0925-8388(01)01201-4:Liq., paper:10.1016/s0925-8388(01)01201-4:liquid  
 _tdb: _tdb:PtSn-01Su.tdb:LIQUID, tdb:PtSn-08Gro.tdb:LIQUID, tdb:PtSn-21Cui.tdb:LIQUID, tdb:PtSn-22Hu.tdb:LIQUID  
 
 

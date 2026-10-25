@@ -1,24 +1,12 @@
 # Cr–Na system
 
-> Cr–Na system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Na system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NA.html · Markdown: https://data.orchid-project.org/systems/CR-NA.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NA.json) · [CSV](https://data.orchid-project.org/systems/CR-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NA/CrNa-12Hao.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NA.html) · [Markdown](https://data.orchid-project.org/systems/CR-NA.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -38,22 +26,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CrNa-12Hao.tdb | 370.87 | BCC_A2#2 (x(Na) 0) + LIQUID (x(Na) 1) + BCC_A2 (x(Na) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CR/CR-NA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CR/CR-NA.json)
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Cr–Na system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 371.05 K | 371.05 | Liquid ↔ Bcc_A2(Na) + Bcc_A2(Cr) | model | [1] Hao 2012 | p. 8; `ORC-PIVY3TBVFS` | “The temperatures of the three invariant reactions, Acknowledgements Liquid(Cr) ↔ Gas + Bcc_A2(Cr), Gas + Bcc_A2(Cr) ↔ Liquid, and Liquid ↔ The financial support from the National Basic Bcc_A2(Na) + Bcc_A2(Cr), are calculated Research Program of China (Grant No. to be 1906 °C, 886 °C, and 97.9 °C 2011CB610401) and the National Natural respectively.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. D. Hao, M. Bu, Y. Wang, Y. Tang, Q. Gao, M. Wang et al., Thermodynamic modeling of the Na-X (X = Si, Ag, Cu, Cr) systems, J min metall B Metall 48, 273-282 (2012). [doi:10.2298/jmmb120113024h](https://doi.org/10.2298/jmmb120113024h)
 
 ## Please cite
 

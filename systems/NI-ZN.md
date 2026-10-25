@@ -1,10 +1,10 @@
 # Ni–Zn system
 
-> Ni–Zn system: 106 accepted literature values (invariant reaction 91, phase transition 15) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Zn system: 103 accepted literature values (invariant reaction 91, phase transition 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-ZN.html · Markdown: https://data.orchid-project.org/systems/NI-ZN.md
 
-106 accepted literature values from 3 paper(s) (experimental 57, model 43, unspecified 6); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+103 accepted literature values from 3 paper(s) (experimental 56, model 41, unspecified 6); 4 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-ZN.json) · [CSV](https://data.orchid-project.org/systems/NI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-ZN/NiZn-02Su.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-ZN.html) · [Markdown](https://data.orchid-project.org/systems/NI-ZN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 57 |
-| model | 43 |
+| experimental | 56 |
+| model | 41 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 91 |
-| phase transition | 15 |
+| phase transition | 12 |
 
 ## Calculated phase diagrams
 
@@ -102,20 +102,20 @@ Table: Invariant reactions reported in the literature for the Ni–Zn system (91
 | 1310 | L + (Ni) -> β | L: Zn 0.5157; (Ni): Zn 0.3897; β: Zn 0.487 | model | [1] Su 2002 | Table 2, p. 5, row 1; `ORC-ZMKHSQFJJX` |  |
 | 1308 | L + (Ni) -> β | L: Zn 0.523; (Ni): Zn 0.384; β: Zn 0.473 | experimental | [1] Su 2002; _cites Tafel 1907_ | Table 2, p. 5, row 2; `ORC-A62RYTELYY` |  |
 | 1307 | peritectic: L + (Ni) = β | L: Zn 0.516; (Ni): Zn 0.379; β: Zn 0.478 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 1; `ORC-W5J6M6JDN7` |  |
-| 1156 | L -> γ | L: Zn 0.7403; γ: Ni 0.153846, Zn 0.846154 | model | [1] Su 2002 | Table 2, p. 5, row 20; `ORC-B2GTUUAAOG` |  |
+| 1156 | congruent melting: L -> γ | L: Zn 0.7403; γ: Ni 0.153846, Zn 0.846154 | model | [1] Su 2002 | Table 2, p. 5, row 20; `ORC-B2GTUUAAOG` |  |
 | 1149 | peritectoid: L = β + Γ | L: Zn 0.7; β: Zn 0.575; Γ: Zn 0.723 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 11; `ORC-3H5KNQKIYP` |  |
 | 1148 | eutectic |  | experimental | [1] Su 2002; _cites Tamaru 1932_ | p. 3; `ORC-CQT2GXRKT6` | “The ␤ phase has a relatively wide homogeneity range \[1932Tam, 1934Tam\] with a maximum at a temperature of 1148K \[1932Tam, 1933Hei\] where the eutectic reaction involving the ␥ phase occurs.” |
 | 1148 | Liq–bcc–γ | Liq: Zn 0.688; bcc: Zn 0.584; γ: Zn 0.698 | experimental | [3] Miettinen 2003; _cites Heike 1936_ | Table 4, p. 5, row 7; `ORC-DXNV4SGPV4` |  |
-| 1148 | L -> β + γ | L: Zn 0.6941; β: Zn 0.564; γ: Zn 0.7219 | model | [1] Su 2002 | Table 2, p. 5, row 16; `ORC-HXYVPSBWZO` |  |
+| 1148 | eutectic: L -> β + γ | L: Zn 0.6941; β: Zn 0.564; γ: Zn 0.7219 | model | [1] Su 2002 | Table 2, p. 5, row 16; `ORC-HXYVPSBWZO` |  |
 | 1148 | peritectoid: L = β + Γ | L: Zn 0.694; β: Zn 0.564; Γ: Zn 0.722 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 12; `ORC-KFR43MS4ZU` |  |
 | 1148 | peritectoid: L = β + Γ | L: Zn 0.688; β: Zn 0.584; Γ: Zn 0.698 | experimental | [2] Xiong 2011; _cites Heike 1933_ | Table 5, p. 7, row 15; `ORC-LB7A3YADIA` |  |
-| 1148 | L -> β + γ | L: Zn 0.695; β: Zn 0.585; γ: Zn 0.7 | experimental | [1] Su 2002; _cites Heike 1933_ | Table 2, p. 5, row 18; `ORC-NETPFDWXYD` |  |
+| 1148 | eutectic: L -> β + γ | L: Zn 0.695; β: Zn 0.585; γ: Zn 0.7 | experimental | [1] Su 2002; _cites Heike 1933_ | Table 2, p. 5, row 18; `ORC-NETPFDWXYD` |  |
 | 1148 | Liq–bcc–γ | Liq: Zn 0.694; bcc: Zn 0.564; γ: Zn 0.722 | model | [3] Miettinen 2003; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 4, p. 5, row 9; `ORC-RBVKK33TEL` |  |
-| 1148 | L -> β + γ | L: Zn 0.69; β: Zn 0.585; γ: Zn 0.7 | experimental | [1] Su 2002; _cites Hansen 1936_ [doi](https://doi.org/10.1007/978-3-642-47516-0) | Table 2, p. 5, row 19; `ORC-X2J5SG4I4F` |  |
+| 1148 | eutectic: L -> β + γ | L: Zn 0.69; β: Zn 0.585; γ: Zn 0.7 | experimental | [1] Su 2002; _cites Hansen 1936_ [doi](https://doi.org/10.1007/978-3-642-47516-0) | Table 2, p. 5, row 19; `ORC-X2J5SG4I4F` |  |
 | 1146 | Liq–bcc–γ | Liq: Zn 0.7; bcc: Zn 0.554; γ: Zn 0.723 | model | [3] Miettinen 2003; _cites Vassilev 2000_ [doi](https://doi.org/10.1361/105497100770340075) | Table 4, p. 5, row 8; `ORC-AHXPC5JW46` |  |
 | 1145 | Liq–bcc–γ | Liq: Zn 0.698; bcc: Zn 0.599; γ: Zn 0.75 | experimental | [3] Miettinen 2003; _cites Tamaru 1932_ | Table 4, p. 5, row 6; `ORC-CS54IQZQTT` |  |
 | 1145 | peritectoid: L = β + Γ | L: Zn 0.698; β: Zn 0.5993; Γ: Zn 0.846154 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 14; `ORC-D5IY27YJCZ` |  |
-| 1145 | L -> β + γ | L: Zn 0.7; β: Zn 0.599; γ: Zn 0.73 | experimental | [1] Su 2002; _cites Tamaru 1932_ | Table 2, p. 5, row 17; `ORC-SJPWLHZ4HZ` |  |
+| 1145 | eutectic: L -> β + γ | L: Zn 0.7; β: Zn 0.599; γ: Zn 0.73 | experimental | [1] Su 2002; _cites Tamaru 1932_ | Table 2, p. 5, row 17; `ORC-SJPWLHZ4HZ` |  |
 | 1144 | peritectoid: L = β + Γ | L: Zn 0.703; β: Zn 0.551; Γ: Zn 0.739 | model | [2] Xiong 2011; _cites Miettinen 2003_ [doi](https://doi.org/10.1016/j.calphad.2003.09.002) | Table 5, p. 7, row 13; `ORC-L532FFVE22` |  |
 | 1144 | Liq–bcc–γ | Liq: Zn 0.703; bcc: Zn 0.551; γ: Zn 0.739 | model | [3] Miettinen 2003 | Table 4, p. 5, row 10; `ORC-U3X2L5GIFC` |  |
 | 1088 | peritectoid: β + (Ni) = β1 | β: Zn 0.465; (Ni): Zn 0.353; β1: Zn 0.454 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 6; `ORC-6PPQ6WQD5E` |  |
@@ -165,14 +165,14 @@ Table: Invariant reactions reported in the literature for the Ni–Zn system (91
 | 763 | Liq–γ–δ | Liq: Zn 0.991; γ: Zn 0.853; δ: Zn 0.882 | experimental | [3] Miettinen 2003; _cites Heike 1933_ | Table 4, p. 5, row 22; `ORC-RI2KFGLNEB` |  |
 | 763 | L + γ -> δ | L: Zn 0.9896; γ: Zn 0.8459; δ: Zn 0.8824 | model | [1] Su 2002 | Table 2, p. 5, row 21; `ORC-VERFIBVMKC` |  |
 | 762 | Liq–γ–δ | Liq: Zn 0.986; γ: Zn 0.862; δ: Zn 0.889 | model | [3] Miettinen 2003; _cites Vassilev 2000_ [doi](https://doi.org/10.1361/105497100770340075) | Table 4, p. 5, row 23; `ORC-PJXOJ6HZBZ` |  |
-| 692.1 | L -> δ + Zn(hcp) | L: Zn 0.89; δ: Zn 0.997; Zn(hcp): Zn 1 | model | [1] Su 2002 | Table 2, p. 5, row 26; `ORC-CM44IBB5PF` |  |
+| 692.1 | eutectic: L -> δ + Zn(hcp) | L: Zn 0.89; δ: Zn 0.997; Zn(hcp): Zn 1 | model | [1] Su 2002 | Table 2, p. 5, row 26; `ORC-CM44IBB5PF` |  |
 | 692 | Liq–δ–hcp(Zn) | Liq: Zn 0.997; δ: Zn 0.882; hcp(Zn): Zn 0.999 | experimental | [3] Miettinen 2003; _cites Heike 1933_ | Table 4, p. 5, row 27; `ORC-5XI3YII5AV` |  |
 | 692 | eutectic: L = δ + (Zn) | δ: Zn 0.88 | experimental | [2] Xiong 2011; _cites Tamaru 1932_ | Table 5, p. 7, row 29; `ORC-N2VZZWLQ2F` |  |
 | 692 | eutectic: L = δ + (Zn) | L: Zn 0.999; δ: Zn 0.889; (Zn): Zn 1 | unspecified | [2] Xiong 2011 | Table 5, p. 7, row 26; `ORC-QVU7VVWH7I` |  |
 | 692 | Liq–δ–hcp(Zn) | Liq: Zn 1; δ: Zn 0.88; hcp(Zn): Zn 1 | experimental | [3] Miettinen 2003; _cites Tamaru 1932_ | Table 4, p. 5, row 26; `ORC-Z7HW74IJ4G` |  |
-| 691.6 | L -> δ + Zn(hcp) | L: Zn 0.889; δ: Zn 0.997; Zn(hcp): Zn 1 | experimental | [1] Su 2002; _cites Hansen 1936_ [doi](https://doi.org/10.1007/978-3-642-47516-0) | Table 2, p. 5, row 25; `ORC-KHZGYGCSK2` |  |
+| 691.6 | eutectic: L -> δ + Zn(hcp) | L: Zn 0.889; δ: Zn 0.997; Zn(hcp): Zn 1 | experimental | [1] Su 2002; _cites Hansen 1936_ [doi](https://doi.org/10.1007/978-3-642-47516-0) | Table 2, p. 5, row 25; `ORC-KHZGYGCSK2` |  |
 | 691.5 | eutectic: L = δ + (Zn) | L: Zn 0.9967; δ: Zn 0.882; (Zn): Zn 0.999 | experimental | [2] Xiong 2011; _cites Heike 1933_ | Table 5, p. 7, row 30; `ORC-LIPDY6WAXV` |  |
-| 691.1 | L -> δ + Zn(hcp) | L: Zn 0.889; δ: Zn 0.997; Zn(hcp): Zn 0.9997 | model | [1] Su 2002 | Table 2, p. 5, row 24; `ORC-ZYNDJFIT3U` |  |
+| 691.1 | eutectic: L -> δ + Zn(hcp) | L: Zn 0.889; δ: Zn 0.997; Zn(hcp): Zn 0.9997 | model | [1] Su 2002 | Table 2, p. 5, row 24; `ORC-ZYNDJFIT3U` |  |
 | 691 | Liq–δ–hcp(Zn) | Liq: Zn 0.989; δ: Zn 0.882; hcp(Zn): Zn 1 | model | [3] Miettinen 2003; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 4, p. 5, row 29; `ORC-F6OF3QHHHS` |  |
 | 691 | eutectic: L = δ + (Zn) | L: Zn 0.997; δ: Zn 0.889; (Zn): Zn 0.9997 | model | [2] Xiong 2011; _cites Su 2002_ [doi](https://doi.org/10.1361/1054971023604125) | Table 5, p. 7, row 27; `ORC-RQ6WUVFDJB` |  |
 | 690 | Liq–δ–hcp(Zn) | Liq: Zn 0.995; δ: Zn 0.889; hcp(Zn): Zn 1 | model | [3] Miettinen 2003; _cites Vassilev 2000_ [doi](https://doi.org/10.1361/105497100770340075) | Table 4, p. 5, row 28; `ORC-ZFIBQFW2MU` |  |
@@ -181,14 +181,12 @@ Table: Invariant reactions reported in the literature for the Ni–Zn system (91
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (12)
 
 Table: Phase transition, Ni–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 633 K | 633 | magnetic | experimental | [1] Su 2002 | p. 2; `ORC-RCPRGLZKFL` | “where Tc,Ni is the ferromagnetic transition temperature for pure nickel and its value is 633K.” |
-| Phase transition | 692.68 K | 692.68 |  | model | [2] Xiong 2011; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-ATXRMNC3H6.d49481` | “However, due to the large difference of the melting temperatures between Ni (1728 K) and Zn (692.68 K) \[24\], the sample preparation of the Ni-Zn alloys is a severe challenge.” |
 | Phase transition | 1053 K | 1053 | beta1 | experimental | [1] Su 2002; _cites Tafel 1907_ | p. 3; `ORC-BVGOORO7WZ.0df7ec` | “The ␤1 phase is stable at low temperatures and forms by a peritectoid reaction at 1053 K \[1907Taf\], 1077 K \[1932Tam\], or 1083 K \[1932Hei\].” |
 | Phase transition | 1077 K | 1077 | beta1 | experimental | [1] Su 2002; _cites Tamaru 1932_ | p. 3; `ORC-BVGOORO7WZ.90bc7e` | “The ␤1 phase is stable at low temperatures and forms by a peritectoid reaction at 1053 K \[1907Taf\], 1077 K \[1932Tam\], or 1083 K \[1932Hei\].” |
 | Phase transition | 1083 K | 1083 | beta1 | experimental | [1] Su 2002; _cites Heike 1932_ | p. 3; `ORC-BVGOORO7WZ.cebf92` | “The ␤1 phase is stable at low temperatures and forms by a peritectoid reaction at 1053 K \[1907Taf\], 1077 K \[1932Tam\], or 1083 K \[1932Hei\].” |
@@ -201,7 +199,6 @@ Table: Phase transition, Ni–Zn system
 | Phase transition | 1308 K | 1308 | beta | experimental | [1] Su 2002; _cites Tafel 1907_ | p. 3; `ORC-IKUIBDF7M2.4fd108` | “The reported values are 1308 K \[1907Taf\], 1313 K \[1932Hei\], and 1316 K \[1932Tam\].” |
 | Phase transition | 1313 K | 1313 | beta | experimental | [1] Su 2002; _cites Heike 1932_ | p. 3; `ORC-IKUIBDF7M2.953937` | “The reported values are 1308 K \[1907Taf\], 1313 K \[1932Hei\], and 1316 K \[1932Tam\].” |
 | Phase transition | 1316 K | 1316 | beta | experimental | [1] Su 2002; _cites Tamaru 1932_ | p. 3; `ORC-IKUIBDF7M2.e7fee3` | “The reported values are 1308 K \[1907Taf\], 1313 K \[1932Hei\], and 1316 K \[1932Tam\].” |
-| Phase transition | 1728 K | 1728 |  | model | [2] Xiong 2011; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-ATXRMNC3H6.033595` | “However, due to the large difference of the melting temperatures between Ni (1728 K) and Zn (692.68 K) \[24\], the sample preparation of the Ni-Zn alloys is a severe challenge.” |
 
 ## Sources
 

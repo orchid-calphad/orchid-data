@@ -1,10 +1,10 @@
 # Mo–Zr system
 
-> Mo–Zr system: 51 accepted literature values (invariant reaction 43, phase transition 5, formation 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Zr system: 43 accepted literature values (invariant reaction 40, formation 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-ZR.html · Markdown: https://data.orchid-project.org/systems/MO-ZR.md
 
-51 accepted literature values from 3 paper(s) (experimental 30, model 19, DFT 1, unspecified 1); 4 calculated phase diagram(s).
+43 accepted literature values from 2 paper(s) (experimental 23, model 18, DFT 1, unspecified 1); 4 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-ZR.json) · [CSV](https://data.orchid-project.org/systems/MO-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-ZR/MoZr-02Zin.json) · [phases (7)](https://data.orchid-project.org/phases/pages/MO-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-ZR.html) · [Markdown](https://data.orchid-project.org/systems/MO-ZR.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 30 |
-| model | 19 |
+| experimental | 23 |
+| model | 18 |
 | DFT | 1 |
 | unspecified | 1 |
 
@@ -21,8 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 43 |
-| phase transition | 5 |
+| invariant reaction | 40 |
 | formation | 3 |
 
 ## Calculated phase diagrams
@@ -61,7 +60,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mo–Zr system (43)
+Table: Invariant reactions reported in the literature for the Mo–Zr system (40)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -73,7 +72,6 @@ Table: Invariant reactions reported in the literature for the Mo–Zr system (43
 | 2194 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.457; Mobcc: Zr 0.098; Mo2Zr: Zr 0.335 | model | [1] Pérez 2003 | Table 1, p. 3, row 9; `ORC-GRHQ6Y3FLQ` |  |
 | 2193 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.42; Mo: Zr 0.12; Mo2Zr: Zr 0.33 | experimental | [2] Zinkevich 2002; _cites Prima 1984_ | Table 1, p. 3, row 4; `ORC-FFZQCKXNVD` |  |
 | 2193 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.42; Mobcc: Zr 0.12; Mo2Zr: Zr 0.33 | unspecified | [1] Pérez 2003; _cites Prima 1984_ | Table 1, p. 3, row 7; `ORC-ND5PFPFBMN` |  |
-| 2191.15 | peritectic: Mo (bcc) + liquid = Mo2 Zr |  | experimental | [3] Jiang 2020; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | p. 2; `ORC-BECRAKLTK5` | “In addition to the liquid, bcc, and hcp solution phases, an intermetallic compound Mo2 Zr with cubic C15 Laves structure (space group Fd-3m) also exists in this system, which is formed from the peritectic reaction "Mo (bcc) + liquid = Mo2 Zr" at around 1918 °C \[21\].” |
 | 2191 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.46; Mobcc: Zr 0.06; Mo2Zr: Zr 0.333 | experimental | [1] Pérez 2003; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 3, row 5; `ORC-QRJCULA3SQ` |  |
 | 2191 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.46; Mo: Zr 0.06; Mo2Zr: Zr 0.333 | experimental | [2] Zinkevich 2002; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 3, row 3; `ORC-W7MJXD5IDL` |  |
 | 2188.4 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.4728; Mo: Zr 0.0661; Mo2Zr: Zr 0.3431 | model | [2] Zinkevich 2002 | Table 1, p. 3, row 7; `ORC-U566KNCLIF` |  |
@@ -82,13 +80,11 @@ Table: Invariant reactions reported in the literature for the Mo–Zr system (43
 | 2178 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.41; Mo: Zr 0.1; Mo2Zr: Zr 0.32 | experimental | [2] Zinkevich 2002; _cites Svechnikov 1967_ | Table 1, p. 3, row 2; `ORC-QCHUSRHX3D` |  |
 | 2153 | peritectic: L + Mobcc -> Mo2Zr | L: Zr 0.43; Mo2Zr: Zr 0.3333 | experimental | [1] Pérez 2003; _cites Domagala 1953_ | Table 1, p. 3, row 1; `ORC-4UYDELH3NE` |  |
 | 2153 | peritectic: Liquid + Mo -> Mo2Zr (Peritectic) | Liquid: Zr 0.43; Mo2Zr: Zr 0.3333 | experimental | [2] Zinkevich 2002; _cites Domagala 1953_ | Table 1, p. 3, row 1; `ORC-FOTPDXITOR` |  |
-| 2102 | peritectic |  | experimental | [1] Pérez 2003; _cites Bhatt 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2900678-2) | p. 3; `ORC-BKLJOT5GMT` | “Below the peritectic temperature at 2102 K \[47\] found a very low solubility of Zr in Mo-bcc, i.e. 2 at.% Zr, using EPMA measurements.” |
 | 1868 | peritectic: L + Mo2Zr -> Zrbcc | L: Zr 0.68; Mo2Zr: Zr 0.34; Zrbcc: Zr 0.655 | experimental | [1] Pérez 2003; _cites Rudy 1969_ | Table 1, p. 3, row 10; `ORC-5QPF7ISUQ2` |  |
 | 1849.1 | eutectic: Liquid -> bcc-Zr + Mo2Zr (Eutectic) | Liquid: Zr 0.7039; bcc-Zr: Zr 0.8193; Mo2Zr: Zr 0.3726 | model | [2] Zinkevich 2002 | Table 1, p. 3, row 12; `ORC-2UEAQW52WL` |  |
 | 1849 | eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.704; Zrbcc: Zr 0.819; Mo2Zr: Zr 0.373 | model | [1] Pérez 2003; _cites Zinkevich 2002_ [doi](https://doi.org/10.1361/1054971023604242) | Table 1, p. 3, row 16; `ORC-4H2GVIKEED` |  |
 | 1846 | peritectic: L + Mo2Zr -> Zrbcc | L: Zr 0.68; Mo2Zr: Mo 0.666667, Zr 0.333333; Zrbcc: Zr 0.68 | model | [1] Pérez 2003; _cites Brewer 1980_ | Table 1, p. 3, row 11; `ORC-XJ43R4MTZD` |  |
 | 1825 | eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.717; Zrbcc: Zr 0.77; Mo2Zr: Zr 0.343 | model | [1] Pérez 2003 | Table 1, p. 3, row 17; `ORC-ZSHZNVFUZH` |  |
-| 1824.15 | eutectic: liquid = Mo2 Zr + Zr (bcc) |  | experimental | [3] Jiang 2020; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | p. 2; `ORC-55G5U52PKV` | “At the Zr-rich side, liquid will eutectically decompose into a mixture of Mo2 Zr and bcc via the reaction "liquid = Mo2 Zr + Zr (bcc)" at around 1551 °C \[21\].” |
 | 1824 | eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.71; Zrbcc: Zr 0.77; Mo2Zr: Zr 0.36 | experimental | [1] Pérez 2003; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 3, row 15; `ORC-HZOTY63IRD` |  |
 | 1824 | eutectic: Liquid -> bcc-Zr + Mo2Zr (Eutectic) | Liquid: Zr 0.71; bcc-Zr: Zr 0.77; Mo2Zr: Zr 0.36 | experimental | [2] Zinkevich 2002; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 3, row 10; `ORC-WWOWLZCQTJ` |  |
 | 1823 | eutectic: L -> Zrbcc + Mo2Zr | L: Zr 0.52; Zrbcc: Zr 0.59; Mo2Zr: Zr 0.37 | model | [1] Pérez 2003; _cites Kubaschewski_ | Table 1, p. 3, row 14; `ORC-LEXIU6KQH3` |  |
@@ -121,27 +117,12 @@ Table: Enthalpies of formation, Mo–Zr system (3)
 | Mo2Zr (Laves_c15) | [Mo2Zr](https://data.orchid-project.org/compounds/Mo2Zr.html) | -9.3 kJ/mol-atom |  | model | -13.443 (mp-aaaaadav) | -13.282 (oqmd-17718) | [1] Pérez 2003; _cites Brewer 1980_ | Table 2, p. 7, row 1; `ORC-X3CLYRSF46` |  |
 | Mo2Zr (Laves_c15) | [Mo2Zr](https://data.orchid-project.org/compounds/Mo2Zr.html) | -7.49 kJ/mol-atom | 298.15 | model | -13.443 (mp-aaaaadav) | -13.282 (oqmd-17718) | [1] Pérez 2003; _cites De 1988_ | Table 2, p. 7, row 2; `ORC-626JDV4I2M` |  |
 
-## Other properties
-
-### Phase transition (5)
-
-Table: Phase transition, Mo–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1011 K | 1011 |  | experimental | [1] Pérez 2003; _cites Zinkevich 2002_ | p. 6; `ORC-NN7MSQONJX.529a2d` | “In the recent assessment of Mo-Zr by Zinkevich and Mattern \[52\] a lower eutectoid temperature, T = 1011 ± 30 K by \[25\], was fitted instead of 1053 K reported by \[3, 11\].” |
-| Phase transition | 1053 K | 1053 |  | experimental | [1] Pérez 2003; _cites Domagala 1953_ | p. 6; `ORC-NN7MSQONJX.879aee` | “In the recent assessment of Mo-Zr by Zinkevich and Mattern \[52\] a lower eutectoid temperature, T = 1011 ± 30 K by \[25\], was fitted instead of 1053 K reported by \[3, 11\].” |
-| Phase transition | 1053.15 K | 1053.15 | other: Zr (bcc) = Mo2 Zr + Zr (hcp) | experimental | [3] Jiang 2020; _cites Domagala 1953_ | p. 2; `ORC-BR5X5RRQLG` | “The third invariant reaction is the eutectoid reaction "Zr (bcc) = Mo2 Zr + Zr (hcp)" that occurs at around 780 °C \[22\].” |
-| Phase transition | 1136 K | 1136 |  | model | [1] Pérez 2003; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 5; `ORC-O5JKW2LJOD` | “At low temperatures pure zirconium has a hexagonal closed packed (hcp) structure as stable state called α-Zr, above 1136 K this phase transforms to a body centred cubic (bcc) or β-Zr.” |
-| Phase transition | 2730 K | 2730 | other | experimental | [2] Zinkevich 2002; _cites Zakharov 1970_ | p. 3; `ORC-VX5JPOVUNU` | “Several works reported the experimental determination of Mo-solidus \[1970Zak, 1977Gar, 1984Pri, 2000Bha\] ranging from the peritectic temperature up to 2730 K, about 160 K lower than the melting point of pure molybdenum.” |
-
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Rosa Jerlerud Pérez, Bo Sundman, Thermodynamic assessment of the Mo–Zr binary phase diagram, Calphad 27, 253-262 (2003). [doi:10.1016/j.calphad.2003.09.003](https://doi.org/10.1016/j.calphad.2003.09.003)
 2. M. Zinkevich, N. Mattern, Thermodynamic assessment of the Mo-Zr system, JPE 23, 156-162 (2002). [doi:10.1361/1054971023604242](https://doi.org/10.1361/1054971023604242)
-3. Chao Jiang, Robert D. Mariani, Cynthia A. Adkins, Ab initio investigation and thermodynamic modeling of the Mo–Ti–Zr system, Materialia 10, 100701 (2020). [doi:10.1016/j.mtla.2020.100701](https://doi.org/10.1016/j.mtla.2020.100701)
 
 ## Please cite
 

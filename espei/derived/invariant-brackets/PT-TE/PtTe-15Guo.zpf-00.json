@@ -312,7 +312,7 @@
     "x0": 0.4,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> fcc(Pt) + PtTe",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -331,7 +331,7 @@
     "x0": 0.4,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> fcc(Pt) + PtTe",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -388,7 +388,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> PtTe2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -406,7 +406,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> PtTe2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

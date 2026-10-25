@@ -21,7 +21,7 @@ Table: Phases of the Ge–Sc system (10)
 | [GE4SC5](#phase-ge-sc-ge4sc5); _phase:ge-sc:ge4sc5_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2142.83 K, x(Sc) 0.55556–0.55556 | 4 | 1 |
 | [GESC_B33](#phase-ge-sc-gesc-b33); _phase:ge-sc:gesc-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1464.72 K, x(Sc) 0.5–0.5 | 6 | 1 |
 | [HCP_A3](#phase-ge-sc-hcp-a3); _phase:ge-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1607.4 K, x(Sc) 0.97555–1 | 0 | 1 |
-| [LIQUID](#phase-ge-sc-liquid); _phase:ge-sc:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1165.55–2500 K, x(Sc) 0–1 | 21 | 1 |
+| [LIQUID](#phase-ge-sc-liquid); _phase:ge-sc:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1165.55–2500 K, x(Sc) 0–1 | 22 | 1 |
 
 ## DIAMOND_A4 (Ge–Sc)
 
@@ -299,7 +299,7 @@ _assessment that models this phase_
 - Id: `phase:ge-sc:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1165.55–2500 K, x(Sc) 0–1
-- Literature: 21 values (21 accepted) from 1 papers
+- Literature: 22 values (22 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-sc:liquid)
 
 Names (3): _corpus: _corpus:phase:ge-sc:liquid  

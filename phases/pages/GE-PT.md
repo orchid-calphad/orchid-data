@@ -20,7 +20,7 @@ Table: Phases of the Ge–Pt system (11)
 | [GE3PT2](#phase-ge-pt-ge3pt2); _phase:ge-pt:ge3pt2_ | Ge3Pt2 · oP20 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1151.04 K, x(Pt) 0.4–0.4 | 9 | 1 |
 | [GEPT_B31](#phase-ge-pt-gept-b31); _phase:ge-pt:gept-b31_ | MnP · B31 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1340.02 K, x(Pt) 0.5–0.5 | 9 | 1 |
 | [GEPT2_C22](#phase-ge-pt-gept2-c22); _phase:ge-pt:gept2-c22_ | Fe2P · C22 · hP9 · P-62m (189) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1064.21 K, x(Pt) 0.66667–0.66667 | 3 | 1 |
-| [GEPT3](#phase-ge-pt-gept3); _phase:ge-pt:gept3_ | GePt3 · mC16 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1222.52 K, x(Pt) 0.75604–0.77907 | 8 | 1 |
+| [GEPT3](#phase-ge-pt-gept3); _phase:ge-pt:gept3_ | GePt3 · mC16 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1222.52 K, x(Pt) 0.75604–0.77907 | 9 | 1 |
 | [HCP_A3](#phase-ge-pt-hcp-a3); _phase:ge-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ge-pt-liquid); _phase:ge-pt:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1052.95–2500 K, x(Pt) 0–1 | 23 | 1 |
 
@@ -291,7 +291,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1222.52 K, x(Pt) 0.75604–0.77907
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-pt:gept3)
 
 Names (3): _corpus: _corpus:phase:ge-pt:gept3  
@@ -308,11 +308,13 @@ _tdb: _tdb:GePt-09Wan.tdb:GEPT3
 72: CONST GEPT3 : GE% PT : PT : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.05.002](https://doi.org/10.1016/j.calphad.2009.05.002) J.S. Wang, S. Jin, W.J. Zhu, H.Q. Dong, X.M. Tao, H.S. Liu et al., First-principles calculations assisted thermodynamic assessment of the Pt–Ga–Ge ternary system, Calphad 33, 561-569 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1103/physrevb.54.11169](https://doi.org/10.1103/physrevb.54.11169) G. Kresse, J. Furthmüller, Efficient iterative schemes for \<i>ab initio\</i> total-energy calculations using a plane-wave basis set, Phys. Rev. B 54, 11169-11186 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(80)90022-3](https://doi.org/10.1016/0022-5088%2880%2990022-3) Miroslav Ellner, Bruno Predel, Durch extrem rasche abkühlung von schmelzen erzielbare phasen in den systemen Ni-Ge, Pd-Ge und Pt-Ge, Journal of the Less Common Metals 76, 181-197 (1980).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(93)90056-s](https://doi.org/10.1016/0925-8388%2893%2990056-s) Rachid Lbibb, Robert Castanet, Calorimetric determination of the enthalpies of formation of the solid compounds of the PtGe system, Journal of Alloys and Compounds 191, L13-L15 (1993).  
 _cited as the source of values for this phase_

@@ -1,10 +1,10 @@
 # Hf–Nb system
 
-> Hf–Nb system: 31 accepted literature values (crystal structure 15, formation 8, model expression 4, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Nb system: 27 accepted literature values (crystal structure 15, formation 8, model expression 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-NB.html · Markdown: https://data.orchid-project.org/systems/HF-NB.md
 
-31 accepted literature values from 2 paper(s) (experimental 5, model 2, DFT 24); 2 calculated phase diagram(s).
+27 accepted literature values from 1 paper(s) (experimental 3, DFT 24); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NB.json) · [CSV](https://data.orchid-project.org/systems/HF-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-NB/HfNb-02Gho.json) · [phases (4)](https://data.orchid-project.org/phases/pages/HF-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NB.html) · [Markdown](https://data.orchid-project.org/systems/HF-NB.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
-| model | 2 |
+| experimental | 3 |
 | DFT | 24 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 4 |
 | formation | 8 |
 | crystal structure | 15 |
 | model expression | 4 |
@@ -56,17 +54,6 @@ Table: Enthalpies of formation, Hf–Nb system (8)
 | HfNb3 |  | 25.358 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5; `ORC-IFOE633UIP.310e67` |  |
 
 ## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Hf–Nb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 2016 K | 2016 |  | model | [1] Ghosh 2002 | p. 11; `ORC-QYKC55Z3I6` | “Above 2016 K, Hf and Nb form continuous bee solid solution, while the solubility of Nb in hcp-Hf is rather limited.” |
-| Phase transition | 2338 K | 2338 | other | model | [2] Guillermet 1996 | p. 3; `ORC-4X6TWGNTWW` | “The present calculation places the minimum at 36.5 at.% Nb and 2338 K.” |
-| Phase transition | 2338 K | 2338 | other | experimental | [2] Guillermet 1996; _cites Kubaschewski-von 1981_ | p. 3; `ORC-5D6W7TZL47` | “The most recent reviews of the phase diagram \[18,19\] propose similar values, viz, 42 at% Nb and 2338 K.” |
-| Phase transition | 2373 K | 2373 | other | experimental | [1] Ghosh 2002 | p. 11; `ORC-Q2K2Z2OHBZ` | “For example, the solidus and liquidus boundaries determined by \[1964Sie\], The minimum melting point was reported to be: (i) \[ 1964Tay\], \[ 1964Tyl\], and \[1969Rud\] differ significantly. at 25 at. % and 2373 K \[1964Sie\], (ii) between 32.5 at'.% and 55 at.% and 2353\*25 K \[1964Tyl\], and (iii) at 42 at.% and 2353+10 K \[1969Rud\].” |
 
 ### Crystal structure (15)
 
@@ -106,7 +93,6 @@ Table: Model expression, Hf–Nb system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. G. Ghosh, A. van de Walle, M. Asta, G.B. Olson, Phase stability of the Hf-Nb system: From first-principles to CALPHAD, Calphad 26, 491-511 (2002). [doi:10.1016/s0364-5916(02)80003-7](https://doi.org/10.1016/s0364-5916%2802%2980003-7)
-2. A. Fernández Guillermet, Gibbs energy coupling of phase stability and thermochemistry in the HfNb system, Journal of Alloys and Compounds 234, 111-118 (1996). [doi:10.1016/0925-8388(95)01973-1](https://doi.org/10.1016/0925-8388%2895%2901973-1)
 
 ## Please cite
 

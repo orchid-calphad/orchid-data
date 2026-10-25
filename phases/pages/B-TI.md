@@ -18,7 +18,7 @@ Table: Phases of the B–Ti system (10)
 | [MB2_C32](#phase-b-ti-c32-mb2); _phase:b-ti:c32-mb2_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–3488.99 K, x(B) 0.66667–0.66667 | 0 | 1 |
 | [FCC_A1](#phase-b-ti-fcc-a1); _phase:b-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [HCP_A3](#phase-b-ti-hcp-a3); _phase:b-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1157.68 K, x(B) 0–0.00164 | 6 | 7 |
-| [LIQUID](#phase-b-ti-liquid); _phase:b-ti:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1780–4000 K, x(B) 0–1 | 63 | 7 |
+| [LIQUID](#phase-b-ti-liquid); _phase:b-ti:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1780–4000 K, x(B) 0–1 | 64 | 7 |
 | [TI3B4_D7B](#phase-b-ti-ti3b4-d7b); _phase:b-ti:ti3b4-d7b_ | Ta3B4 · D7_b · oI14 · Immm (71) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2481.63 K, x(B) 0.57143–0.57143 | 19 | 7 |
 | [TIB_B27](#phase-b-ti-tib-b27); _phase:b-ti:tib-b27_ | FeB · B27 · oP8 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–2459.71 K, x(B) 0.48221–0.5 | 32 | 5 |
 | [TIB2_C32](#phase-b-ti-tib2-c32); _phase:b-ti:tib2-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–3496.05 K, x(B) 0.63954–0.6769 | 48 | 6 |
@@ -156,7 +156,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ti:bcc-a2)
 
 Names (12): _corpus: _corpus:phase:b-ti:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2011.10.003:bcc-Ti, paper:10.1016/j.jallcom.2003.09.017:(βTi), paper:10.1016/j.jallcom.2006.10.034:bcc, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1016/j.calphad.2011.10.003:bcc-Ti, paper:10.1016/j.jallcom.2003.09.017:(βTi), paper:10.1016/j.jallcom.2006.10.034:bcc, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:TiB-04Ma.tdb:BCC_A2, tdb:TiB-08Wit.tdb:BCC_A2, tdb:TiB-09Nak.tdb:BCC_A2, tdb:TiB-11Cac.tdb:BCC_A2, tdb:TiB-16Wit.tdb:BCC_A2, tdb:TiB-19Wit.tdb:BCC_A2, tdb:TiB-94Bat-LB.tdb:BCC_A2  
 
 
@@ -211,7 +211,7 @@ _tdb: _tdb:TiB-04Ma.tdb:BCC_A2, tdb:TiB-08Wit.tdb:BCC_A2, tdb:TiB-09Nak.tdb:BCC_
 33: CONST BCC_A2 : TI% : B VA% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.10.034](https://doi.org/10.1016/j.jallcom.2006.10.034) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 448, 185-194 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -225,8 +225,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/matertrans.MC200820](https://doi.org/10.2320/matertrans.MC200820) Y. Nakama, H. Ohtani, M. Hasebe, Mater. Trans. (JIM), 50, 984-93(2009).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MB2_C32 (B–Ti)
 
@@ -342,7 +340,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ti:hcp-a3)
 
 Names (11): _corpus: _corpus:phase:b-ti:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2003.09.017:(αTi), paper:10.1016/j.jallcom.2006.10.034:hcp, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:10.1016/j.jallcom.2003.09.017:(αTi), paper:10.1016/j.jallcom.2006.10.034:hcp, paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:TiB-04Ma.tdb:HCP_A3, tdb:TiB-08Wit.tdb:HCP_A3, tdb:TiB-09Nak.tdb:HCP_A3, tdb:TiB-11Cac.tdb:HCP_A3, tdb:TiB-16Wit.tdb:HCP_A3, tdb:TiB-19Wit.tdb:HCP_A3, tdb:TiB-94Bat-LB.tdb:HCP_A3  
 
 
@@ -397,7 +395,7 @@ _tdb: _tdb:TiB-04Ma.tdb:HCP_A3, tdb:TiB-08Wit.tdb:HCP_A3, tdb:TiB-09Nak.tdb:HCP_
 38: CONST HCP_A3 : TI% : B VA% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.10.034](https://doi.org/10.1016/j.jallcom.2006.10.034) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 448, 185-194 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -411,19 +409,17 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/matertrans.MC200820](https://doi.org/10.2320/matertrans.MC200820) Y. Nakama, H. Ohtani, M. Hasebe, Mater. Trans. (JIM), 50, 984-93(2009).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (B–Ti)
 
 - Id: `phase:b-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 1780–4000 K, x(B) 0–1
-- Literature: 63 values (62 accepted) from 5 papers
+- Literature: 64 values (63 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ti:liquid)
 
 Names (14): _corpus: _corpus:phase:b-ti:liquid  
-_paper: _paper:10.1007/bf02646757:L, paper:10.1016/j.calphad.2011.10.003:L, paper:10.1016/j.jallcom.2003.09.017:L, paper:10.1016/j.jallcom.2003.09.017:liquid, paper:10.1016/j.jallcom.2006.10.034:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1007/bf02646757:L, paper:10.1016/j.calphad.2011.10.003:L, paper:10.1016/j.jallcom.2003.09.017:L, paper:10.1016/j.jallcom.2003.09.017:liquid, paper:10.1016/j.jallcom.2006.10.034:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:TiB-04Ma.tdb:LIQUID, tdb:TiB-08Wit.tdb:LIQUID, tdb:TiB-09Nak.tdb:LIQUID, tdb:TiB-11Cac.tdb:LIQUID, tdb:TiB-16Wit.tdb:LIQUID, tdb:TiB-19Wit.tdb:LIQUID, tdb:TiB-94Bat-LB.tdb:LIQUID  
 
 
@@ -478,7 +474,7 @@ _tdb: _tdb:TiB-04Ma.tdb:LIQUID, tdb:TiB-08Wit.tdb:LIQUID, tdb:TiB-09Nak.tdb:LIQU
 23: CONST LIQUID:L : B TI : !
 ~~~~
 
-Example references (10 of 11; assessments first): 
+Example references (10 of 10; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.10.034](https://doi.org/10.1016/j.jallcom.2006.10.034) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 448, 185-194 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -492,13 +488,13 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/matertrans.MC200820](https://doi.org/10.2320/matertrans.MC200820) Y. Nakama, H. Ohtani, M. Hasebe, Mater. Trans. (JIM), 50, 984-93(2009).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1002/zaac.19522680308](https://doi.org/10.1002/zaac.19522680308) R. Kieffer, F. Benesovsky, E. R. Honak, Über ein neues Verfahren zur Herstellung von Metallboriden der Übergangsmetalle, insbesondere von Titan‐und Zirkonborid, Zeitschrift anorg allge chemie 268, 191-200 (1952).  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02646757](https://doi.org/10.1007/bf02646757) H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system boron-hafnium-titanium (B-Hf-Ti), JPE 18, 24-47 (1997).  
 _reports values for this phase_
 - [doi:10.1016/0001-6160(54)90090-5](https://doi.org/10.1016/0001-6160%2854%2990090-5) Benjamin Post, Frank W. Glaser, David Moskowitz, Transition metal diborides, Acta Metallurgica 2, 20-25 (1954).  
+_cited as the source of values for this phase_
+- [doi:10.1116/1.573700](https://doi.org/10.1116/1.573700) H. Holleck, Material selection for hard coatings, Journal of Vacuum Science &amp; Technology A: Vacuum, Surfaces, and Films 4, 2661-2669 (1986).  
 _cited as the source of values for this phase_
 
 ## TI3B4_D7B (B–Ti)
@@ -514,7 +510,7 @@ _cited as the source of values for this phase_
 Names (15): _corpus: _corpus:phase:b-ti:ti3b4-d7b  
 _mp: _mp:mp-aaacginq  
 _oqmd: _oqmd:oqmd-28622  
-_paper: _paper:10.1016/j.calphad.2011.10.003:Ti3B4, paper:10.1016/j.jallcom.2003.09.017:Ti3B4, paper:10.1016/j.jallcom.2006.10.034:Ti3B4, paper:10.1016/s0364-5916(98)00037-6:B4Ti3, paper:10.2320/matertrans.mc200820:Ti3B4  
+_paper: _paper:10.1016/j.calphad.2011.10.003:Ti3B4, paper:10.1016/j.jallcom.2003.09.017:Ti3B4, paper:10.1016/j.jallcom.2006.10.034:Ti3B4, paper:10.2320/matertrans.mc200820:Ti3B4, paper:sha256-85fd53a1a176b694:B4Ti3  
 _tdb: _tdb:TiB-04Ma.tdb:TI3B4_D7B, tdb:TiB-08Wit.tdb:TI3B4_D7B, tdb:TiB-09Nak.tdb:TI3B4_D7B, tdb:TiB-11Cac.tdb:TI3B4_D7B, tdb:TiB-16Wit.tdb:TI3B4_D7B, tdb:TiB-19Wit.tdb:TI3B4_D7B, tdb:TiB-94Bat-LB.tdb:TI3B4_D7B  
 
 
@@ -569,7 +565,7 @@ _tdb: _tdb:TiB-04Ma.tdb:TI3B4_D7B, tdb:TiB-08Wit.tdb:TI3B4_D7B, tdb:TiB-09Nak.td
 53: CONST TI3B4_D7B : TI : B : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.10.034](https://doi.org/10.1016/j.jallcom.2006.10.034) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 448, 185-194 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -583,8 +579,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2019.05.341](https://doi.org/10.1016/j.jallcom.2019.05.341) V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/j.jallcom.2007.02.030](https://doi.org/10.1016/j.jallcom.2007.02.030) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 456, 143-150 (2008).  
 _cited as the source of values for this phase_
 
@@ -599,7 +593,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ti:tib-b27)
 
 Names (10): _corpus: _corpus:phase:b-ti:tib-b27  
-_paper: _paper:10.1016/j.jallcom.2003.09.017:TiB, paper:10.1016/j.jallcom.2006.10.034:TiB, paper:10.1016/s0364-5916(98)00037-6:BTi, paper:10.2320/matertrans.mc200820:TiB  
+_paper: _paper:10.1016/j.jallcom.2003.09.017:TiB, paper:10.1016/j.jallcom.2006.10.034:TiB, paper:10.2320/matertrans.mc200820:TiB, paper:sha256-85fd53a1a176b694:BTi  
 _tdb: _tdb:TiB-04Ma.tdb:TIB_B27, tdb:TiB-08Wit.tdb:TIB_B27, tdb:TiB-09Nak.tdb:TIB_B27, tdb:TiB-16Wit.tdb:TIB_B27, tdb:TiB-19Wit.tdb:TIB_B27  
 
 
@@ -640,7 +634,7 @@ _tdb: _tdb:TiB-04Ma.tdb:TIB_B27, tdb:TiB-08Wit.tdb:TIB_B27, tdb:TiB-09Nak.tdb:TI
 50: CONST TIB_B27 : B TI% : B% TI : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.10.034](https://doi.org/10.1016/j.jallcom.2006.10.034) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 448, 185-194 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -652,8 +646,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2019.05.341](https://doi.org/10.1016/j.jallcom.2019.05.341) V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1021/j100814a027](https://doi.org/10.1021/j100814a027) P. O. Schissel, O. C. Trulson, MASS SPECTROMETRIC STUDY OF THE VAPORIZATION OF THE TITANIUM-BORON SYSTEM\<sup>1\</sup>, J. Phys. Chem. 66, 1492-1496 (1962).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2007.02.030](https://doi.org/10.1016/j.jallcom.2007.02.030) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 456, 143-150 (2008).  
@@ -672,7 +664,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ti:tib2-c32)
 
 Names (12): _corpus: _corpus:phase:b-ti:tib2-c32  
-_paper: _paper:10.1016/j.calphad.2011.10.003:TiB2, paper:10.1016/j.jallcom.2003.09.017:TiB2, paper:10.1016/j.jallcom.2006.10.034:TiB2, paper:10.1016/s0364-5916(98)00037-6:B2Ti, paper:10.2320/matertrans.mc200820:TiB2  
+_paper: _paper:10.1016/j.calphad.2011.10.003:TiB2, paper:10.1016/j.jallcom.2003.09.017:TiB2, paper:10.1016/j.jallcom.2006.10.034:TiB2, paper:10.2320/matertrans.mc200820:TiB2, paper:sha256-85fd53a1a176b694:B2Ti  
 _tdb: _tdb:TiB-04Ma.tdb:TIB2_C32, tdb:TiB-08Wit.tdb:TIB2_C32, tdb:TiB-09Nak.tdb:TIB2_C32, tdb:TiB-11Cac.tdb:TIB2_C32, tdb:TiB-16Wit.tdb:TIB2_C32, tdb:TiB-19Wit.tdb:TIB2_C32  
 
 
@@ -720,7 +712,7 @@ _tdb: _tdb:TiB-04Ma.tdb:TIB2_C32, tdb:TiB-08Wit.tdb:TIB2_C32, tdb:TiB-09Nak.tdb:
 60: CONST TIB2_C32 : B TI% : B% TI : !
 ~~~~
 
-Example references (10 of 14; assessments first): 
+Example references (10 of 13; assessments first): 
 
 - [doi:10.1016/j.jallcom.2003.09.017](https://doi.org/10.1016/j.jallcom.2003.09.017) Xiaoyan Ma, Changrong Li, Zhenmin Du, Weijing Zhang, Thermodynamic assessment of the Ti–B system, Journal of Alloys and Compounds 370, 149-158 (2004).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -734,13 +726,13 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2019.05.341](https://doi.org/10.1016/j.jallcom.2019.05.341) V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1002/zaac.19522680308](https://doi.org/10.1002/zaac.19522680308) R. Kieffer, F. Benesovsky, E. R. Honak, Über ein neues Verfahren zur Herstellung von Metallboriden der Übergangsmetalle, insbesondere von Titan‐und Zirkonborid, Zeitschrift anorg allge chemie 268, 191-200 (1952).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0001-6160(54)90090-5](https://doi.org/10.1016/0001-6160%2854%2990090-5) Benjamin Post, Frank W. Glaser, David Moskowitz, Transition metal diborides, Acta Metallurgica 2, 20-25 (1954).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0042-207x(95)00080-1](https://doi.org/10.1016/0042-207x%2895%2900080-1) L Guzman, M Elena, A Miotello, PM Ossi, DC Kothari, Phase formation in the N-B-Ti system, Vacuum 46, 951-954 (1995).  
+_cited as the source of values for this phase_
+- [doi:10.1021/j100814a027](https://doi.org/10.1021/j100814a027) P. O. Schissel, O. C. Trulson, MASS SPECTROMETRIC STUDY OF THE VAPORIZATION OF THE TITANIUM-BORON SYSTEM\<sup>1\</sup>, J. Phys. Chem. 66, 1492-1496 (1962).  
 _cited as the source of values for this phase_
 
 ## Please cite

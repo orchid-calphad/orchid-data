@@ -21,8 +21,6 @@
    683.0,
    612.0,
    622.0,
-   547.0,
-   559.0,
    734.0,
    722.0,
    764.0,
@@ -140,64 +138,6 @@
   ],
   [
    [
-    "AU7GA3_HT",
-    [
-     "GA"
-    ],
-    [
-     0.3
-    ]
-   ],
-   [
-    "AU7GA2_HT",
-    [
-     "GA"
-    ],
-    [
-     0.222222
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GA"
-    ],
-    [
-     0.261111
-    ]
-   ]
-  ],
-  [
-   [
-    "AU7GA3_HT",
-    [
-     "GA"
-    ],
-    [
-     0.3
-    ]
-   ],
-   [
-    "AUGA_B31",
-    [
-     "GA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GA"
-    ],
-    [
-     0.4
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "GA"
@@ -302,7 +242,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UO6H2FBUUX ORC-UK2LCCIZGZ ORC-6IW6KPFEKZ ORC-MAPVCQ4XGH ORC-7VJCRO5M7F ORC-TAVVGCFGU2 ORC-I2FGOM24DL ORC-DXTGOWBTNL ORC-G5MXIQHTNS ORC-KBLQBNYNBA",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UO6H2FBUUX ORC-UK2LCCIZGZ ORC-6IW6KPFEKZ ORC-MAPVCQ4XGH ORC-I2FGOM24DL ORC-DXTGOWBTNL ORC-G5MXIQHTNS ORC-KBLQBNYNBA",
  "bibtex": "cooke1966_87489d",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -328,18 +268,6 @@
    },
    {
     "id": "ORC-MAPVCQ4XGH",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2010.08.044",
-    "measured_in": "doi:10.1016/0022-5088(66)90044-0"
-   },
-   {
-    "id": "ORC-7VJCRO5M7F",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2010.08.044",
-    "measured_in": "doi:10.1016/0022-5088(66)90044-0"
-   },
-   {
-    "id": "ORC-TAVVGCFGU2",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2010.08.044",
     "measured_in": "doi:10.1016/0022-5088(66)90044-0"
@@ -426,8 +354,8 @@
    "10.1016/j.jallcom.2010.08.044"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AuGa-10Liu/zpf-00.json",
-  "e3_merged": 6,
-  "values_dropped": 2
+  "values_dropped": 4,
+  "e3_merged": 6
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",
@@ -446,7 +374,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4914,
+      "method_n_pairs": 4918,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -459,7 +387,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3022,
+      "method_n_pairs": 3014,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -478,7 +406,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4914,
+      "method_n_pairs": 4918,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -491,7 +419,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3022,
+      "method_n_pairs": 3014,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -510,7 +438,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4914,
+      "method_n_pairs": 4918,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -523,7 +451,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3022,
+      "method_n_pairs": 3014,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -542,7 +470,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4914,
+      "method_n_pairs": 4918,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -555,7 +483,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3022,
+      "method_n_pairs": 3014,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -574,39 +502,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4914,
-      "method_entry": "value_types/T_INVARIANT/classes/unknown"
-     },
-     "composition_mole_fraction": {
-      "sigma_printed": null,
-      "sigma_reading": 5e-07,
-      "sigma_method": 0.011,
-      "sigma_composition": null,
-      "sigma_scatter": null,
-      "sigma_conversion": null,
-      "sigma_effective": 0.011,
-      "method_class": "unknown",
-      "method_basis": "calibrated",
-      "method_n_pairs": 3022,
-      "method_entry": "value_types/X_PHASE/classes/unknown"
-     }
-    }
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "budget": {
-     "temperature_K": {
-      "sigma_printed": null,
-      "sigma_reading": 0.05,
-      "sigma_method": 11.0,
-      "sigma_composition": null,
-      "sigma_scatter": null,
-      "sigma_conversion": null,
-      "sigma_effective": 11.0,
-      "method_class": "unknown",
-      "method_basis": "calibrated",
-      "method_n_pairs": 4914,
+      "method_n_pairs": 4918,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -619,7 +515,7 @@
       "sigma_effective": 0.05,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3022,
+      "method_n_pairs": 3014,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -638,39 +534,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4914,
-      "method_entry": "value_types/T_INVARIANT/classes/unknown"
-     },
-     "composition_mole_fraction": {
-      "sigma_printed": null,
-      "sigma_reading": 0.05,
-      "sigma_method": 0.011,
-      "sigma_composition": null,
-      "sigma_scatter": null,
-      "sigma_conversion": null,
-      "sigma_effective": 0.05,
-      "method_class": "unknown",
-      "method_basis": "calibrated",
-      "method_n_pairs": 3022,
-      "method_entry": "value_types/X_PHASE/classes/unknown"
-     }
-    }
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "budget": {
-     "temperature_K": {
-      "sigma_printed": null,
-      "sigma_reading": 0.05,
-      "sigma_method": 11.0,
-      "sigma_composition": null,
-      "sigma_scatter": null,
-      "sigma_conversion": null,
-      "sigma_effective": 11.0,
-      "method_class": "unknown",
-      "method_basis": "calibrated",
-      "method_n_pairs": 4914,
+      "method_n_pairs": 4918,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -683,7 +547,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3022,
+      "method_n_pairs": 3014,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -702,7 +566,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4914,
+      "method_n_pairs": 4918,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -715,7 +579,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3022,
+      "method_n_pairs": 3014,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -734,7 +598,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4914,
+      "method_n_pairs": 4918,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -747,7 +611,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3022,
+      "method_n_pairs": 3014,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -756,7 +620,7 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 8,
+  "line_compound_vertices_null": 7,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  },
@@ -782,16 +646,6 @@
    },
    {
     "id": "ORC-MAPVCQ4XGH",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-7VJCRO5M7F",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-TAVVGCFGU2",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

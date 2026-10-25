@@ -35,8 +35,8 @@ Table: Uncertainty budget of the literature values of Ni3Yb
 | -30 | kJ/mol-atom |  | 0.5 | 2 (dsc_dta, prior) |  |  |  | 2 |
 | -30 | unknown |  | 0.5 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
 | -26 | unknown | 4.8 | 0.5 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 4.8 |
-| -26 | kJ/mol-atom | 4.8 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -24.8 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -26 | kJ/mol-atom | 4.8 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.8 |
+| -24.8 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -28.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -23.42 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 

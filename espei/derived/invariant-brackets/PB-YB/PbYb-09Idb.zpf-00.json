@@ -223,7 +223,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq ↔Pb3Yb",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -241,7 +241,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq ↔Pb3Yb",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -259,7 +259,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq ↔βPbYb",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -277,7 +277,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq ↔βPbYb",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -295,7 +295,7 @@
     "x0": 0.666667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq ↔PbYb2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -313,7 +313,7 @@
     "x0": 0.666667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq ↔PbYb2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

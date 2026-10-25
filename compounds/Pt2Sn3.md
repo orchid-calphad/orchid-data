@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Pt2Sn3.html · Markdown: https://data.orchid-project.org/compounds/Pt2Sn3.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, model 4); experimental median -54.45 kJ/mol-atom (n = 2); Materials Project -48.526 kJ/mol-atom (mp-aaaabtqk); OQMD -54.42 kJ/mol-atom (oqmd-18003).
+6 accepted literature formation-enthalpy value(s) (experimental 2, model 3, DFT 1); experimental median -54.45 kJ/mol-atom (n = 2); Materials Project -48.526 kJ/mol-atom (mp-aaaabtqk); OQMD -54.42 kJ/mol-atom (oqmd-18003).
 
 Systems: [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html)
 
@@ -16,10 +16,10 @@ Table: Enthalpy of formation of Pt2Sn3 reported in the literature (6)
 |---:|---|---:|---|---|---|---|---|---|
 | -54.5 kJ/mol-atom | Pt2Sn3 | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 20; `ORC-ZVCXMD3N6Q` |  |
 | -54.4 kJ/mol-atom | Pt2Sn3 | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 19; `ORC-RKWRFSOERU` |  |
-| -52.32 kJ/mol-atom | Pt2Sn3 |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 3; `ORC-7NHWJLWLJX.fcad53` |  |
 | -52.2778 kJ/mol-atom | Pt2Sn3 |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 3; `ORC-7NHWJLWLJX.e633a1` |  |
 | -51.8 kJ/mol-atom | Pt2Sn3 | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 18; `ORC-XHKVLT6SJV` |  |
 | -51.7 kJ/mol-atom | Pt2Sn3 | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 17; `ORC-FJL477GZQI` |  |
+| -52.32 kJ/mol-atom | Pt2Sn3 |  | DFT |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 3; `ORC-7NHWJLWLJX.fcad53` |  |
 
 ### Uncertainty budget
 
@@ -31,10 +31,10 @@ Table: Uncertainty budget of the literature values of Pt2Sn3
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -54.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -54.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -52.32 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -52.2778 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -51.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -51.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52.32 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Al–Be system
 
-> Al–Be system: 5 accepted literature values (activity / EMF / Gibbs energy 3, invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Be system: 3 accepted literature values (activity / EMF / Gibbs energy 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-BE.html · Markdown: https://data.orchid-project.org/systems/AL-BE.md
 
-5 accepted literature values from 1 paper(s) (experimental 4, model 1); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+3 accepted literature values from 1 paper(s) (experimental 2, model 1); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-BE.json) · [CSV](https://data.orchid-project.org/systems/AL-BE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-BE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-BE/AlBe-04Pan-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AL-BE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-BE.html) · [Markdown](https://data.orchid-project.org/systems/AL-BE.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 2 |
 | model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
 | activity / EMF / Gibbs energy | 3 |
 
 ## Calculated phase diagrams
@@ -41,15 +40,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AlBe-04Pan-LB.tdb | 916.52 | FCC_A1 (x(Be) 0.00134) + LIQUID (x(Be) 0.0268) + HCP_A3 (x(Be) 0.99977) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-BE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-BE.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–Be system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 920.15 | eutectic |  | experimental | [1] Pan 2004; _cites Haas 1930_ | p. 3; `ORC-VGM3TE2VZK.59f9d6` | “By means of thermal analysis and optical microscopy, Kroll \[13\] as well as Haas and Uno \[14\] reported the eutectic point to be at 640 ◦ C and 4.1 at.% Be, and at 647 ◦ C and 4.1 at.% Be, respectively.” |
-| 913.15 | eutectic |  | experimental | [1] Pan 2004; _cites Kroll 1926_ | p. 3; `ORC-VGM3TE2VZK.7d36ec` | “By means of thermal analysis and optical microscopy, Kroll \[13\] as well as Haas and Uno \[14\] reported the eutectic point to be at 640 ◦ C and 4.1 at.% Be, and at 647 ◦ C and 4.1 at.% Be, respectively.” |
 
 ## Other properties
 

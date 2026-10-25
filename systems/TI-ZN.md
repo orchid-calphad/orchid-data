@@ -1,10 +1,10 @@
 # Ti–Zn system
 
-> Ti–Zn system: 4 accepted literature values (formation 2, invariant reaction 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti–Zn system: 3 accepted literature values (formation 2, invariant reaction 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI-ZN.html · Markdown: https://data.orchid-project.org/systems/TI-ZN.md
 
-4 accepted literature values from 1 paper(s) (model 2, DFT 2); 4 calculated phase diagram(s).
+3 accepted literature values from 1 paper(s) (model 1, DFT 2); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TI-ZN.json) · [CSV](https://data.orchid-project.org/systems/TI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-ZN/TiZn-06Doi.json) · [phases (13)](https://data.orchid-project.org/phases/pages/TI-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI-ZN.html) · [Markdown](https://data.orchid-project.org/systems/TI-ZN.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 2 |
+| model | 1 |
 | DFT | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
+| invariant reaction | 1 |
 | formation | 2 |
 
 ## Calculated phase diagrams
@@ -125,12 +125,11 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ti–Zn system (2)
+Table: Invariant reactions reported in the literature for the Ti–Zn system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 923.15 | peritectic: L + TiZn2 ↔ TiZn3 |  | model | [1] Doi 2006; _cites Phase 1987_ | p. 4; `ORC-HTDET26CH7` | “According to the present experimental results, Murray's peritectic reaction, L + TiZn2 ↔ TiZn3 occurring at 650 °C,\[8\] was not observed.” |
-| 465.55 | eutectic |  | model | [1] Doi 2006 | p. 1; `ORC-3RUIEZHDEY.72d174` | “The ternary eutectic point falls at 0.0009 mass% Ti and 8.69 mass% Zn, at T = 192.40 °C, which is slightly lower than the calculated eutectic point of Sn-Zn binary alloy (T= 192.41 °C).” |
 
 ## Formation enthalpies
 

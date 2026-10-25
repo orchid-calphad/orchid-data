@@ -42,7 +42,7 @@ Table: Uncertainty budget of the literature values of Fe2Ho
 | -2.97 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -2.9 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -2.65 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -9.5 | kJ/mol (basis unstated) |  | 0.05 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| -9.5 | kJ/mol (basis unstated) |  | 0.05 | 12.5 (dft, calibrated) |  |  |  | 12.5 |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Nb–V system
 
-> Nb–V system: 36 accepted literature values (phase equilibrium 28, phase transition 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–V system: 28 accepted literature values (phase equilibrium 28) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-V.html · Markdown: https://data.orchid-project.org/systems/NB-V.md
 
-36 accepted literature values from 1 paper(s) (experimental 31, model 5); 2 calculated phase diagram(s).
+28 accepted literature values from 1 paper(s) (experimental 28); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-V.json) · [CSV](https://data.orchid-project.org/systems/NB-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-V/NbV-18Gao.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NB-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-V.html) · [Markdown](https://data.orchid-project.org/systems/NB-V.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
-| model | 5 |
+| experimental | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 8 |
 | phase equilibrium | 28 |
 
 ## Calculated phase diagrams
@@ -36,21 +34,6 @@ Table: Assessments with a calculated phase diagram
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/NB/NB-V.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/NB/NB-V.json) · [CALPHAD hull NbV-94Har-LB](https://data.orchid-project.org/hulls/calphad-sgte/NB/NB-V--NbV-94Har-LB.json)
 
 ## Other properties
-
-### Phase transition (8)
-
-Table: Phase transition, Nb–V system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 653.15 K | 653.15 | other | model | [1] Gao 2018; _cites Molokanov 1977_ | p. 2; `ORC-4ZA5HFKJ36` | “Moreover, Molokanov et al. \[10\] further predicted that there is a miscibility gap in the solid state, and its critical point is at 380 C and 50 at.% V, which was suspected to be questionable.” |
-| Phase transition | 950.15 K | 950.15 | other | model | [1] Gao 2018 | p. 2; `ORC-WAGS44HJIX` | “When both the constituent strain and the phonon are added, the calculated Tc turns to be 677 C.” |
-| Phase transition | 1077.15 K | 1077.15 | other | model | [1] Gao 2018 | p. 6; `ORC-IJF7R67V5D.880b79` | “The minimum point of the congruent melting alloy and the critical point of the miscibility gap are calculated, which are 1867 C at 78 at.% V and 804 C at 50 at.% V, respectively.” |
-| Phase transition | 1250.15 K | 1250.15 | other | model | [1] Gao 2018 | p. 2; `ORC-4SHBMFVDFZ` | “When the conventional cluster expansion is used, the calculated maximum/critical temperature Tc of the miscibility gap is 977 C.” |
-| Phase transition | 1993.15 K | 1993.15 | congruent transformation | experimental | [1] Gao 2018; _cites Baron 1960_ | p. 1; `ORC-PG7LKBKZGS.6f31ee` | “For example, the minimum congruent melting point was determined to be 1810 C and 77 at.% V from Wilhelm et al. \[7\] and 1720 C and 73.2 at.% V from Baron et al. \[8\].” |
-| Phase transition | 2083.15 K | 2083.15 | congruent transformation | experimental | [1] Gao 2018; _cites Wilhelm 1954_ | p. 1; `ORC-PG7LKBKZGS.3d34ff` | “For example, the minimum congruent melting point was determined to be 1810 C and 77 at.% V from Wilhelm et al. \[7\] and 1720 C and 73.2 at.% V from Baron et al. \[8\].” |
-| Phase transition | 2133.15 K | 2133.15 | congruent transformation | experimental | [1] Gao 2018; _cites Rudy 1969_ | p. 1; `ORC-EQIJVOAI67` | “In this phase diagram, at 1860 C and 78 at.% V there exists a minimum congruent melting point, and the solid phase is a continuous solid solution consisting of Nb and V in the body centered cubic structure (BCC_A2).” |
-| Phase transition | 2140.15 K | 2140.15 | congruent transformation | model | [1] Gao 2018 | p. 6; `ORC-IJF7R67V5D.5c9c3c` | “The minimum point of the congruent melting alloy and the critical point of the miscibility gap are calculated, which are 1867 C at 78 at.% V and 804 C at 50 at.% V, respectively.” |
 
 ### Phase equilibrium (28)
 

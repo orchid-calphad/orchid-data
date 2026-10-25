@@ -1,10 +1,10 @@
 # In–La system
 
-> In–La system: 28 accepted literature values (invariant reaction 20, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–La system: 27 accepted literature values (invariant reaction 20, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-LA.html · Markdown: https://data.orchid-project.org/systems/IN-LA.md
 
-28 accepted literature values from 1 paper(s) (experimental 15, model 13); 1 calculated phase diagram(s).
+27 accepted literature values from 1 paper(s) (experimental 14, model 13); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-LA.json) · [CSV](https://data.orchid-project.org/systems/IN-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-LA/InLa-02Wei-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/IN-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-LA.html) · [Markdown](https://data.orchid-project.org/systems/IN-LA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 14 |
 | model | 13 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 20 |
-| phase transition | 8 |
+| phase transition | 7 |
 
 ## Calculated phase diagrams
 
@@ -66,10 +66,10 @@ Table: Invariant reactions reported in the literature for the In–La system (20
 |---:|---|---|---|---|---|---|
 | 1426 | L+La3In5->LaIn2 | L: La 0.32; La3In5: La 0.375; LaIn2: La 0.333333 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 20; `ORC-DQ4K3VCMHK` |  |
 | 1424 | L+La3In5->LaIn2 | L: La 0.3243; La3In5: La 0.375; LaIn2: La 0.333333 | model | [1] Wei 2002 | Table 1, p. 2, row 19; `ORC-4FLJLVSD73` |  |
-| 1397 | L->LaIn2+LaIn3 | L: La 0.2842; LaIn2: La 0.333333; LaIn3: La 0.25 | model | [1] Wei 2002 | Table 1, p. 2, row 21; `ORC-OELIMIYJIJ` |  |
-| 1393 | L->LaIn2+LaIn3 | L: La 0.288; LaIn2: La 0.333333; LaIn3: La 0.25 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 22; `ORC-OKSBECS6M2` |  |
-| 1376 | L->LaIn+La3In5 | L: La 0.464; LaIn: La 0.5; La3In5: La 0.375 | model | [1] Wei 2002 | Table 1, p. 2, row 11; `ORC-AZA4J2PYXC` |  |
-| 1359 | L->LaIn+La3In5 | L: La 0.46; LaIn: La 0.5; La3In5: La 0.375 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 12; `ORC-2QDQ4LSV3D` |  |
+| 1397 | eutectic: L->LaIn2+LaIn3 | L: La 0.2842; LaIn2: La 0.333333; LaIn3: La 0.25 | model | [1] Wei 2002 | Table 1, p. 2, row 21; `ORC-OELIMIYJIJ` |  |
+| 1393 | eutectic: L->LaIn2+LaIn3 | L: La 0.288; LaIn2: La 0.333333; LaIn3: La 0.25 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 22; `ORC-OKSBECS6M2` |  |
+| 1376 | eutectic: L->LaIn+La3In5 | L: La 0.464; LaIn: La 0.5; La3In5: La 0.375 | model | [1] Wei 2002 | Table 1, p. 2, row 11; `ORC-AZA4J2PYXC` |  |
+| 1359 | eutectic: L->LaIn+La3In5 | L: La 0.46; LaIn: La 0.5; La3In5: La 0.375 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 12; `ORC-2QDQ4LSV3D` |  |
 | 1346 | La3In5+LaIn->LaInx | La3In5: La 0.375; LaIn: La 0.5; LaInx: La 0.5 | model | [1] Wei 2002 | Table 1, p. 2, row 13; `ORC-NIGZ5SXIAS` |  |
 | 1346 | La3In5+LaIn->LaInx | La3In5: La 0.375; LaIn: La 0.5; LaInx: La 0.5 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 14; `ORC-S5YAMWR77X` |  |
 | 1228 | L+LaIn->La2In | L: La 0.704; LaIn: La 0.5; La2In: La 0.666667 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 8; `ORC-IQCIGL63PO` |  |
@@ -78,16 +78,16 @@ Table: Invariant reactions reported in the literature for the In–La system (20
 | 1178 | LaInx->La3In5+LaIn | LaInx: La 0.5; La3In5: La 0.375; LaIn: La 0.5 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 16; `ORC-XEJDBUGMOO` |  |
 | 1089 | L+La2In->La3In | L: La 0.809; La2In: La 0.666667; La3In: La 0.75 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 6; `ORC-R2QGM3BKZF` |  |
 | 1087 | L+La2In->La3In | L: La 0.7955; La2In: La 0.666667; La3In: La 0.75 | model | [1] Wei 2002 | Table 1, p. 2, row 5; `ORC-J4BKF4JZUT` |  |
-| 1019 | L->γ-La(bcc)+La3In | L: La 0.8563; La3In: La 0.75 | model | [1] Wei 2002 | Table 1, p. 2, row 1; `ORC-CHGKQM7RM4` |  |
-| 1015 | L->γ-La(bcc)+La3In | L: La 0.865; La3In: La 0.75 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 2; `ORC-6GPKYRI65A` |  |
+| 1019 | eutectic: L->γ-La(bcc)+La3In | L: La 0.8563; La3In: La 0.75 | model | [1] Wei 2002 | Table 1, p. 2, row 1; `ORC-CHGKQM7RM4` |  |
+| 1015 | eutectic: L->γ-La(bcc)+La3In | L: La 0.865; La3In: La 0.75 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 2; `ORC-6GPKYRI65A` |  |
 | 979.3 | γ-La(bcc)->β-La(fcc)+La3In | γ-La(bcc): La 0.9269; La3In: La 0.75 | model | [1] Wei 2002 | Table 1, p. 2, row 3; `ORC-TSNTDUYPL4` |  |
 | 975 | γ-La(bcc)->β-La(fcc)+La3In | γ-La(bcc): La 0.919; La3In: La 0.75 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 4; `ORC-6FCJ4T7QS3` |  |
-| 428 | L->In(tetragonal)+LaIn3 | L: La 0.005; In(tetragonal): La 0; LaIn3: La 0.25 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 26; `ORC-QEMWX2CGPX` |  |
-| 427.4 | L->In(tetragonal)+LaIn3 | L: La 0.004; In(tetragonal): La 0; LaIn3: La 0.25 | model | [1] Wei 2002 | Table 1, p. 2, row 25; `ORC-IJFKH4AACI` |  |
+| 428 | eutectic: L->In(tetragonal)+LaIn3 | L: La 0.005; In(tetragonal): La 0; LaIn3: La 0.25 | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 26; `ORC-QEMWX2CGPX` |  |
+| 427.4 | eutectic: L->In(tetragonal)+LaIn3 | L: La 0.004; In(tetragonal): La 0; LaIn3: La 0.25 | model | [1] Wei 2002 | Table 1, p. 2, row 25; `ORC-IJFKH4AACI` |  |
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (7)
 
 Table: Phase transition, In–La system
 
@@ -100,7 +100,6 @@ Table: Phase transition, In–La system
 | Phase transition | 1454 K | 1454 | L->La3In5; _L: La 0.375; La3In5: La 0.375_ | model | [1] Wei 2002 | Table 1, p. 2, row 17; `ORC-ZWHDYOVMQH` |  |
 | Phase transition | 1458 K | 1458 | L->La3In5; _L: La 0.375; La3In5: La 0.375_ | experimental | [1] Wei 2002; _cites McMasters 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990057-5) | Table 1, p. 2, row 18; `ORC-ZISAEPC3HW` |  |
 | Phase transition | 1458 K | 1458 | congruent transformation | experimental | [1] Wei 2002; _cites Novozhenov 1975_ | p. 2; `ORC-NX6IMRJVVS.75c2a5` | “Novozhenov et al. \[8\] found that LaIn 3 melts at 1498 K and the La 2 In 3 phase melts congruently at 1458 K.” |
-| Phase transition | 1498 K | 1498 |  | experimental | [1] Wei 2002; _cites Novozhenov 1975_ | p. 2; `ORC-NX6IMRJVVS.59390a` | “Novozhenov et al. \[8\] found that LaIn 3 melts at 1498 K and the La 2 In 3 phase melts congruently at 1458 K.” |
 
 ## Sources
 

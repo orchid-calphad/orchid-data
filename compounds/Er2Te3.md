@@ -34,9 +34,9 @@ Table: Uncertainty budget of the literature values of Er2Te3
 | -158.62 | kJ/mol-atom | 2.5 | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -159.1 | kJ/mol-atom | 10 | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 10 |
 | -136.475 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -157.965 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -133.951 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -133.731 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -157.965 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -133.951 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -133.731 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

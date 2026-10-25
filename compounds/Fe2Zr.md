@@ -1,16 +1,16 @@
 # Fe2Zr: enthalpy of formation
 
-> Enthalpy of formation of Fe2Zr: 29 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Fe2Zr: 31 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe2Zr.html · Markdown: https://data.orchid-project.org/compounds/Fe2Zr.md
 
-29 accepted literature formation-enthalpy value(s) (experimental 8, model 21); experimental median -30.165 kJ/mol-atom (n = 8); Materials Project -27.082 kJ/mol-atom (mp-aaaaacoc); OQMD -26.998 kJ/mol-atom (oqmd-18350).
+31 accepted literature formation-enthalpy value(s) (experimental 8, model 23); experimental median -30.165 kJ/mol-atom (n = 8); Materials Project -27.082 kJ/mol-atom (mp-aaaaacoc); OQMD -26.998 kJ/mol-atom (oqmd-18350).
 
 Systems: [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe2Zr reported in the literature (29)
+Table: Enthalpy of formation of Fe2Zr reported in the literature (31)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -29,7 +29,9 @@ Table: Enthalpy of formation of Fe2Zr reported in the literature (29)
 | -34 kJ/mol-atom | Fe2Zr |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 5, row 33; `ORC-JRQ4ST6VFA.1d1154` |  |
 | -33.7333 kJ/mol-atom | Fe2Zr | 1673 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 8; `ORC-NKDSP6HSRG` |  |
 | -31.93 kJ/mol-atom | Fe2Zr | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites ref. 1995_ | Table 2, p. 5, row 19; `ORC-X2DJAVDVFR.85d140` |  |
+| -31.632 kJ/mol-atom | Fe2Zr | 1673 | model |  | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Guo 2008 | p. 12; `ORC-V55WN735HR.751838` | “The calculated enthalpies of formation of Fe2 Zr are -31.135 kJ/mol of atoms at 1760 K and -31.632 kJ/mol of atoms at 1673 K, which are in good agreement with the experimental data -29.7 kJ/mol of atoms \[50\] and -30.63/-32.43 kJ/mol of atoms \[48\] respectively.” |
 | -31.197 kJ/mol-atom | Fe2Zr | 1673.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 15; `ORC-4YWPNV5PQJ.05e0b3` |  |
+| -31.135 kJ/mol-atom | Fe2Zr | 1760 | model |  | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Guo 2008 | p. 12; `ORC-V55WN735HR.f74c34` | “The calculated enthalpies of formation of Fe2 Zr are -31.135 kJ/mol of atoms at 1760 K and -31.632 kJ/mol of atoms at 1673 K, which are in good agreement with the experimental data -29.7 kJ/mol of atoms \[50\] and -30.63/-32.43 kJ/mol of atoms \[48\] respectively.” |
 | -30.846 kJ/mol-atom | Fe2Zr | 1760.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001 | Table 2, p. 5, row 11; `ORC-53MJNDGMQW.1ea7eb` |  |
 | -30.65 kJ/mol-atom | Fe2Zr | 1673 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 7; `ORC-WZSOFV53W4` |  |
 | -30.65 kJ/mol-atom | Fe2Zr | 1673.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 14; `ORC-X3N3H6KUF4.361048` |  |
@@ -52,12 +54,12 @@ Table: Uncertainty budget of the literature values of Fe2Zr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -32.43 | kJ/mol-atom |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -32.43 | kJ/mol-atom |  | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -30.63 | kJ/mol-atom |  | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -30.63 | kJ/mol-atom |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -29.7 | kJ/mol-atom | 1.7 | 1.667e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -29.7 | kJ/mol-atom | 1.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -32.43 | kJ/mol-atom |  | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -32.43 | kJ/mol-atom |  | 1.667e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -30.63 | kJ/mol-atom |  | 1.667e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -30.63 | kJ/mol-atom |  | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -29.7 | kJ/mol-atom | 1.7 | 1.667e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -29.7 | kJ/mol-atom | 1.7 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -24.7 | kJ/mol-atom | 3.5 | 0.05 | 3.5 (equilibration_other, calibrated) |  |  |  | 3.5 |
 | -24.7 | kJ/mol-atom | 3.5 | 1.667e-4 | 3.5 (equilibration_other, calibrated) |  |  |  | 3.5 |
 | -40.7 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
@@ -67,7 +69,9 @@ Table: Uncertainty budget of the literature values of Fe2Zr
 | -34 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -33.7333 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -31.93 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -31.632 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -31.197 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -31.135 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -30.846 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -30.65 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -30.65 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
@@ -99,6 +103,7 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 1. M. Jiang, K. Oikawa, T. Ikeshoji, L. Wulff, K. Ishida, Thermodynamic calculations of Fe-Zr and Fe-Zr-C systems, JPE 22, 406-417 (2001). [doi:10.1361/105497101770332965](https://doi.org/10.1361/105497101770332965)
 2. C. Servant, C. Gueneau, I. Ansara, Experimental and thermodynamic assessment of the FeZr system, Journal of Alloys and Compounds 220, 19-26 (1995). [doi:10.1016/0925-8388(94)06036-3](https://doi.org/10.1016/0925-8388%2894%2906036-3)
+3. Cuiping Guo, Zhenmin Du, Changrong Li, Baoliang Zhang, Mei Tao, Thermodynamic description of the Al–Fe–Zr system, Calphad 32, 637-649 (2008). [doi:10.1016/j.calphad.2008.08.007](https://doi.org/10.1016/j.calphad.2008.08.007)
 
 ## Please cite
 

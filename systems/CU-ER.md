@@ -1,10 +1,10 @@
 # Cu–Er system
 
-> Cu–Er system: 35 accepted literature values (invariant reaction 18, formation 8, crystal structure 5, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Er system: 29 accepted literature values (invariant reaction 12, formation 8, crystal structure 5, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-ER.html · Markdown: https://data.orchid-project.org/systems/CU-ER.md
 
-35 accepted literature values from 2 paper(s) (experimental 19, model 8, DFT 3, unspecified 5); 1 calculated phase diagram(s).
+29 accepted literature values from 2 paper(s) (experimental 13, model 8, DFT 3, unspecified 5); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-ER.json) · [CSV](https://data.orchid-project.org/systems/CU-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-ER/CuEr-08Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CU-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-ER.html) · [Markdown](https://data.orchid-project.org/systems/CU-ER.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
+| experimental | 13 |
 | model | 8 |
 | DFT | 3 |
 | unspecified | 5 |
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 18 |
+| invariant reaction | 12 |
 | phase transition | 4 |
 | formation | 8 |
 | crystal structure | 5 |
@@ -62,7 +62,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Er system (18)
+Table: Invariant reactions reported in the literature for the Cu–Er system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -70,20 +70,14 @@ Table: Invariant reactions reported in the literature for the Cu–Er system (18
 | 1273 | peritectic: L + Cu9Er2 -> Cu5Er | L: Er 0.164; Cu9Er2: Er 0.181818; Cu5Er: Er 0.166667 | model | [1] Zhang 2008 | Table 3, p. 6, row 4; `ORC-OUUZWLKTHK` |  |
 | 1213 | peritectic: L + Cu9Er2 -> Cu7Er2 | Cu9Er2: Er 0.181818; Cu7Er2: Er 0.222222 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 7; `ORC-2YWEPITB4O` |  |
 | 1210 | peritectic: L + Cu9Er2 -> Cu7Er2 | L: Er 0.259; Cu9Er2: Er 0.181818; Cu7Er2: Er 0.222222 | model | [1] Zhang 2008 | Table 3, p. 6, row 8; `ORC-AHN35SAOSN` |  |
-| 1178.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1; `ORC-QSRSUWKLVM.e92d77` | “His investigation indicated the occurrence of four eutectic reactions: Cu-Cu5 Er (895 ◦ C, 9.5 at.% Er); Cux Er-Cu2 Er (885 ◦ C, 30 at.% Er); Cu2 Er-CuEr (905 ◦ C, 40 at.% Er); and CuEr-Hcp_Er (880 ◦ C, 69.5 at.% Er).” |
 | 1178 | eutectic: L -> Cu2Er + CuEr | L: Er 0.385; Cu2Er: Er 0.333333; CuEr: Er 0.5 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 11; `ORC-PPYYL2LB6O` |  |
 | 1173 | eutectic: L -> Cu2Er + CuEr | L: Er 0.344; Cu2Er: Er 0.333333; CuEr: Er 0.5 | model | [1] Zhang 2008 | Table 3, p. 6, row 12; `ORC-BHGX3TZH4S` |  |
-| 1168.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1; `ORC-QSRSUWKLVM.60fd67` | “His investigation indicated the occurrence of four eutectic reactions: Cu-Cu5 Er (895 ◦ C, 9.5 at.% Er); Cux Er-Cu2 Er (885 ◦ C, 30 at.% Er); Cu2 Er-CuEr (905 ◦ C, 40 at.% Er); and CuEr-Hcp_Er (880 ◦ C, 69.5 at.% Er).” |
 | 1168 | eutectic: L -> Fcc_Cu + Cu5Er | L: Er 0.095; Cu5Er: Er 0.166667 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 1; `ORC-6QZUTHESW2` |  |
 | 1162 | eutectic: L -> Fcc_Cu + Cu5Er | L: Er 0.0815; Cu5Er: Er 0.166667 | model | [1] Zhang 2008 | Table 3, p. 6, row 2; `ORC-XYIXNDUKHU` |  |
 | 1160 | eutectic: L -> Cu7Er2 + Cu2Er | L: Er 0.293; Cu7Er2: Er 0.222222; Cu2Er: Er 0.333333 | model | [1] Zhang 2008 | Table 3, p. 6, row 10; `ORC-G3B4X5MKQA` |  |
-| 1158.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1; `ORC-QSRSUWKLVM.e4f9b3` | “His investigation indicated the occurrence of four eutectic reactions: Cu-Cu5 Er (895 ◦ C, 9.5 at.% Er); Cux Er-Cu2 Er (885 ◦ C, 30 at.% Er); Cu2 Er-CuEr (905 ◦ C, 40 at.% Er); and CuEr-Hcp_Er (880 ◦ C, 69.5 at.% Er).” |
 | 1158 | eutectic: L -> Cu7Er2 + Cu2Er | L: Er 0.3; Cu7Er2: Er 0.222222; Cu2Er: Er 0.333333 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 9; `ORC-Y5O7O6MYVA` |  |
-| 1153.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1; `ORC-QSRSUWKLVM.0673cf` | “His investigation indicated the occurrence of four eutectic reactions: Cu-Cu5 Er (895 ◦ C, 9.5 at.% Er); Cux Er-Cu2 Er (885 ◦ C, 30 at.% Er); Cu2 Er-CuEr (905 ◦ C, 40 at.% Er); and CuEr-Hcp_Er (880 ◦ C, 69.5 at.% Er).” |
 | 1153 | eutectic: L -> CuEr + Hcp_Er | L: Er 0.695; CuEr: Er 0.5 | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 15; `ORC-GGZY3HSXMH` |  |
 | 1152 | eutectic: L -> CuEr + Hcp_Er | L: Er 0.699; CuEr: Er 0.5 | model | [1] Zhang 2008 | Table 3, p. 6, row 16; `ORC-26KFSSUVP6` |  |
-| 1133.15 | eutectic |  | experimental | [1] Zhang 2008; _cites Love 1960_ | p. 1; `ORC-I76YRRXE5G.3c2c0d` | “According to Love \[10\], the eutectic temperature was found to be 860 ◦ C and the composition was 75.5 at.% Er, while these were given as 845 ◦ C and 71.8 at.% Er by Kato and Copeland \[11\].” |
-| 1118.15 | eutectic |  | experimental | [1] Zhang 2008; _cites Kato 1961_ | p. 1; `ORC-I76YRRXE5G.f670fd` | “According to Love \[10\], the eutectic temperature was found to be 860 ◦ C and the composition was 75.5 at.% Er, while these were given as 845 ◦ C and 71.8 at.% Er by Kato and Copeland \[11\].” |
 
 ## Formation enthalpies
 

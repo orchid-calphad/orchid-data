@@ -1,10 +1,10 @@
 # Ag–Cu system
 
-> Ag–Cu system: 11 accepted literature values (invariant reaction 9, phase transition 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Cu system: 5 accepted literature values (invariant reaction 5) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CU.html · Markdown: https://data.orchid-project.org/systems/AG-CU.md
 
-11 accepted literature values from 3 paper(s) (experimental 4, model 7); 6 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+5 accepted literature values from 1 paper(s) (experimental 1, model 4); 6 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CU.json) · [CSV](https://data.orchid-project.org/systems/AG-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CU/AgCu-00Moo.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CU.html) · [Markdown](https://data.orchid-project.org/systems/AG-CU.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
-| model | 7 |
+| experimental | 1 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
-| phase transition | 2 |
+| invariant reaction | 5 |
 
 ## Calculated phase diagrams
 
@@ -52,7 +51,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Cu system (9)
+Table: Invariant reactions reported in the literature for the Ag–Cu system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -61,29 +60,12 @@ Table: Invariant reactions reported in the literature for the Ag–Cu system (9)
 | 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.403; (Ag): Cu 0.131; (Cu): Cu 0.955 | model | [1] Witusiewicz 2004; _cites Kusoffsky 2002_ | Table 8, p. 8, row 6; `ORC-GU6PIWJYIV` |  |
 | 1053 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.398; (Ag): Cu 0.121; (Cu): Cu 0.953 | model | [1] Witusiewicz 2004 | Table 8, p. 8, row 7; `ORC-YB73KO2RVJ` |  |
 | 1050 | eutectic: Liquid \<-> (Ag) + (Cu) | L: Cu 0.361; (Ag): Cu 0.129; (Cu): Cu 0.948 | model | [1] Witusiewicz 2004; _cites S-S 1997_ | Table 8, p. 8, row 5; `ORC-OXHBOWIZPS` |  |
-| 490.35 | eutectic |  | experimental | [2] Moon 2000 | p. 12; `ORC-CRLWXBC7LC` | “The present results indicate the eutectic composition to be 3.5 wt.% Ag ± 0.3 wt.% Ag and 0.9 wt.% Cu ± 0.2 wt.% at 217.2 °C ± 0.2 °C.” |
-| 490.35 | eutectic |  | experimental | [2] Moon 2000 | p. 1; `ORC-EEO7BLCLTM` | “The ternary eutectic is confirmed to be at a composition of 3.5 wt.% Ag, 0.9 wt.% Cu at a temperature of 217.2 ± 0.2°C (2σ).” |
-| 490.15 | eutectic |  | experimental | [2] Moon 2000; _cites Miller 1994_ [doi](https://doi.org/10.1007/bf02653344) | p. 1; `ORC-6YTJA3SRPA` | “In 1994, Miller et al.,5 using DTA, found a ternary eutectic at 217°C and placed its composition at 4.7 wt.% Ag, 1.7 wt.% Cu.” |
-| 490.05 | eutectic |  | model | [2] Moon 2000 | p. 9; `ORC-Z6ER4BOPQ3` | “The extrapolation from these assessments gave a ternary eutectic at 216.9°C and Sn-3.42 wt.% Ag-0.67 wt.% Cu.” |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Ag–Cu system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 489.45 K | 489.45 |  | model | [2] Moon 2000 | p. 1; `ORC-PCXG4VOOPR` | “The best fit to the experimental data is 3.66 wt.% Ag and 0.91 wt.% Cu at a temperature of 216.3°C.” |
-| Phase transition | 835 K | 835 | other | model | [3] Jönsson 1988 | p. 10; `ORC-3QF5VNEFM7` | “Following line A from high temperatures downwards its intersection with the calculated nucleation temperature line (broken-dotted line) occurs at xcu = 0.12 and T = 835 K.” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004). [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126)
-2. K. -W. Moon, W. J. Boettinger, U. R. Kattner, F. S. Biancaniello, C. A. Handwerker, Experimental and thermodynamic assessment of Sn-Ag-Cu solder alloys, Journal of Elec Materi 29, 1122-1136 (2000). [doi:10.1007/s11664-000-0003-x](https://doi.org/10.1007/s11664-000-0003-x)
-3. Björn Jönsson, John Ågren, Thermodynamic and kinetic aspects of crystallization of supercooled AgCu liquids, Journal of the Less Common Metals 145, 153-166 (1988). [doi:10.1016/0022-5088(88)90272-x](https://doi.org/10.1016/0022-5088%2888%2990272-x)
 
 ## Please cite
 

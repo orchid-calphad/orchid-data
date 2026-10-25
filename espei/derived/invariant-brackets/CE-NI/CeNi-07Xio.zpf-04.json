@@ -121,7 +121,7 @@
     "x0": 0.225,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (γCe) + Ce7Ni3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -140,7 +140,7 @@
     "x0": 0.53,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> CeNi + CeNi2",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

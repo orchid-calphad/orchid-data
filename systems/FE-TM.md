@@ -1,10 +1,10 @@
 # Fe–Tm system
 
-> Fe–Tm system: 93 accepted literature values (heat capacity / entropy / enthalpy 41, formation 26, invariant reaction 20, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Tm system: 92 accepted literature values (heat capacity / entropy / enthalpy 41, formation 26, invariant reaction 20, phase transition 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TM.html · Markdown: https://data.orchid-project.org/systems/FE-TM.md
 
-93 accepted literature values from 2 paper(s) (experimental 19, model 73, DFT 1); 2 calculated phase diagram(s).
+92 accepted literature values from 1 paper(s) (experimental 18, model 73, DFT 1); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TM.json) · [CSV](https://data.orchid-project.org/systems/FE-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TM/FeTm-14Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TM.html) · [Markdown](https://data.orchid-project.org/systems/FE-TM.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
+| experimental | 18 |
 | model | 73 |
 | DFT | 1 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 20 |
-| phase transition | 6 |
+| phase transition | 5 |
 | formation | 26 |
 | heat capacity / entropy / enthalpy | 41 |
 
@@ -138,13 +138,12 @@ Table: Enthalpies of formation, Fe–Tm system (25)
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (5)
 
 Table: Phase transition, Fe–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1573 K | 1573 | congruent transformation | experimental | [2] Ye 2023; _cites ref. 89_ | p. 4; `ORC-YMYAMAFVMD` | “Fe2Tm is formed congruently from liquid phase at 1573 K, while Fe17Tm2, Fe23Tm6, and Fe3Tm form by three peritectic transformation.” |
 | Phase transition | 1573.15 K | 1573.15 | congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 23; `ORC-K7VPHZWOX5` |  |
 | Phase transition | 1575.15 K | 1575.15 | congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 25; `ORC-3EW4P6DHVJ` |  |
 | Phase transition | 1576.15 K | 1576.15 | congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 24; `ORC-Q4USDRH2IS` |  |
@@ -181,23 +180,23 @@ Table: Heat capacity / entropy / enthalpy, Fe–Tm system
 | Entropy; _printed: ΔfS_ | 45.03 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 15; `ORC-RTODDWTW2Z.60c4e6` |  |
 | Entropy; _printed: ΔfS_ | 42.72 J/mol-atom/K | 300 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22; `ORC-NUHO6HHWO3.8dcb77` |  |
 | Heat capacity; _printed: Cp_ | 27.77 J/mol-atom/K | 290 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21; `ORC-3DFCHE5IR2.11713e` |  |
-| Heat capacity; _printed: 0C298.15 p mag_ | 4.88 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 12; `ORC-D45F3HMZDK.edcd13` |  |
 | Heat capacity; _printed: Cp_ | 29.36 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 5; `ORC-H4NKUXML7D.669e30` |  |
 | Heat capacity; _printed: Cp_ | 24.7 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 6; `ORC-KVZPQN4KHH.60972e` |  |
-| Heat capacity; _printed: 0C298.15 p mag_ | 4.66 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 11; `ORC-YZ6SXWRMVS.47cf3d` |  |
-| Heat capacity; _printed: 0C298.15 p mag_ | 2.12 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 13; `ORC-5LVOXXRZEE.ba16da` |  |
 | Heat capacity; _printed: Cp_ | 27.08 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 9; `ORC-FJFK6YCWPH.78a7cc` |  |
-| Heat capacity; _printed: 0C298.15 p mag_ | 2.07 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 14; `ORC-IPOZDFKGUU.b3d4dd` |  |
 | Heat capacity; _printed: Cp_ | 24.96 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 10; `ORC-PV2TBSQX43.0e1a95` |  |
-| Heat capacity; _printed: 0C298.15 p mag_ | 1.36 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 18; `ORC-HXYWUWZTXW.630f53` |  |
 | Heat capacity; _printed: Cp_ | 26.64 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 24; `ORC-R3WXFRC5LR.bd106c` |  |
 | Heat capacity; _printed: Cp_ | 25.29 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 25; `ORC-WPCS2KBO5J.88df97` |  |
-| Heat capacity; _printed: 0C298.15 p mag_ | 1.35 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 17; `ORC-XWHBMO527K.e07c3e` |  |
-| Heat capacity; _printed: 0C298.15 p mag_ | 0.97 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 16; `ORC-CWGB64NWWM.142750` |  |
 | Heat capacity; _printed: Cp_ | 26.09 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 14; `ORC-IAH3PPW35K.01ae08` |  |
 | Heat capacity; _printed: Cp_ | 25.07 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 15; `ORC-RTODDWTW2Z.531fa1` |  |
-| Heat capacity; _printed: 0C298.15 p mag_ | 1.02 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 15; `ORC-UEKBFOMXT5.d10ad5` |  |
 | Heat capacity; _printed: Cp_ | 28.07 J/mol-atom/K | 300 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22; `ORC-NUHO6HHWO3.b76be8` |  |
+| cpm contribution; _printed: 0C298.15 p mag_ | 4.88 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 12; `ORC-D45F3HMZDK.edcd13` |  |
+| cpm contribution; _printed: 0C298.15 p mag_ | 4.66 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 11; `ORC-YZ6SXWRMVS.47cf3d` |  |
+| cpm contribution; _printed: 0C298.15 p mag_ | 2.12 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 13; `ORC-5LVOXXRZEE.ba16da` |  |
+| cpm contribution; _printed: 0C298.15 p mag_ | 2.07 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 14; `ORC-IPOZDFKGUU.b3d4dd` |  |
+| cpm contribution; _printed: 0C298.15 p mag_ | 1.36 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 18; `ORC-HXYWUWZTXW.630f53` |  |
+| cpm contribution; _printed: 0C298.15 p mag_ | 1.35 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 17; `ORC-XWHBMO527K.e07c3e` |  |
+| cpm contribution; _printed: 0C298.15 p mag_ | 0.97 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 16; `ORC-CWGB64NWWM.142750` |  |
+| cpm contribution; _printed: 0C298.15 p mag_ | 1.02 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 15; `ORC-UEKBFOMXT5.d10ad5` |  |
 | sm magnetic; _printed: 0S298.15 mag_ | -0.89 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 12; `ORC-D45F3HMZDK.b01e39` |  |
 | sm magnetic; _printed: 0S298.15 mag_ | -0.43 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 11; `ORC-YZ6SXWRMVS.a7936e` |  |
 | sm magnetic; _printed: 0S298.15 mag_ | -3.23 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 13; `ORC-5LVOXXRZEE.d1c92c` |  |
@@ -212,7 +211,6 @@ Table: Heat capacity / entropy / enthalpy, Fe–Tm system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. S. Kardellass, C. Servant, N. Selhaoui, A. Iddaoudi, Thermodynamic evaluations of the iron–lutetium and iron–thulium systems, Calphad 46, 42-54 (2014). [doi:10.1016/j.calphad.2014.01.003](https://doi.org/10.1016/j.calphad.2014.01.003)
-2. Hongjian Ye, Maohua Rong, Qing Chen, Qingrong Yao, Jiang Wang, Guanghui Rao et al., Assessment of phase equilibria and thermodynamic properties in the Fe-RE (RE = rare earth metals) binary systems, J Mater Inf 3 (2023). [doi:10.20517/jmi.2023.08](https://doi.org/10.20517/jmi.2023.08)
 
 ## Please cite
 

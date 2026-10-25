@@ -1,10 +1,10 @@
 # Ag–Sb system
 
-> Ag–Sb system: 17 accepted literature values (invariant reaction 13, phase transition 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Sb system: 9 accepted literature values (invariant reaction 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-SB.html · Markdown: https://data.orchid-project.org/systems/AG-SB.md
 
-17 accepted literature values from 1 paper(s) (experimental 3, model 11, unspecified 3); 3 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (experimental 3, model 3, unspecified 3); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SB.json) · [CSV](https://data.orchid-project.org/systems/AG-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SB/AgSb-07Zor.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AG-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-SB.html) · [Markdown](https://data.orchid-project.org/systems/AG-SB.md)
 
@@ -13,15 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 3 |
-| model | 11 |
+| model | 3 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 13 |
-| phase transition | 4 |
+| invariant reaction | 9 |
 
 ## Calculated phase diagrams
 
@@ -54,7 +53,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Sb system (13)
+Table: Invariant reactions reported in the literature for the Ag–Sb system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -63,27 +62,10 @@ Table: Invariant reactions reported in the literature for the Ag–Sb system (13
 | 967.7 | L + α \<-> ζ | L: Sb 0.1608; α: Sb 0.0543; ζ: Sb 0.08 | model | [1] Zoro 2007 | Table 1, p. 2, row 1; `ORC-GGCGZD6NTS` |  |
 | 835.6 | L + ζ \<-> ε | L: Sb 0.2767; ζ: Sb 0.1527; ε: Sb 0.2201 | unspecified | [1] Zoro 2007; _cites Oh 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902191-4) | Table 1, p. 2, row 5; `ORC-QC6PWDXROD` |  |
 | 835.2 | L + ζ \<-> ε | L: Sb 0.25; ζ: Sb 0.164; ε: Sb 0.211 | experimental | [1] Zoro 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02671976) | Table 1, p. 2, row 6; `ORC-4OOFBCGA7E` |  |
-| 829.5 | peritectic |  | model | [1] Zoro 2007 | p. 1; `ORC-C5ELK6F5MK` | “The calculated liquid compositions obtained for the peritectic reaction at 829.5 K and the eutectic reaction are compromise values between those of Okamoto\[9\] and Oh\[8\], (Table 1).” |
 | 829.5 | L + ζ \<-> ε | L: Sb 0.2651; ζ: Sb 0.1381; ε: Sb 0.2167 | model | [1] Zoro 2007 | Table 1, p. 2, row 4; `ORC-G5O4F6SD7P` |  |
 | 758.2 | L \<-> ε + (Sb) | L: Sb 0.41; ε: Sb 0.25; (Sb): Sb 1 | experimental | [1] Zoro 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02671976) | Table 1, p. 2, row 9; `ORC-A6RB3GXHQQ` |  |
 | 755.8 | L \<-> ε + (Sb) | L: Sb 0.4231; ε: Sb 0.2717; (Sb): Sb 1 | model | [1] Zoro 2007 | Table 1, p. 2, row 7; `ORC-FT3VSI2Q5Y` |  |
 | 753.2 | L \<-> ε + (Sb) | L: Sb 0.4361; ε: Sb 0.2557; (Sb): Sb 1 | unspecified | [1] Zoro 2007; _cites Oh 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902191-4) | Table 1, p. 2, row 8; `ORC-UCPAA337O7` |  |
-| 663.1 | eutectic |  | model | [1] Zoro 2007 | p. 7; `ORC-3WUUUCKMBW.c0d625` | “However, a small maximum of temperature then exists on the valleys: e2 (630.7 K)-max. (664.3 K)-E2 (663.1 K) and E1 (661.8 K)-max. (667.9 K)-E2 (663.1 K) and both reactions remain eutectic.” |
-| 661.8 | eutectic |  | model | [1] Zoro 2007 | p. 7; `ORC-3WUUUCKMBW.39f543` | “However, a small maximum of temperature then exists on the valleys: e2 (630.7 K)-max. (664.3 K)-E2 (663.1 K) and E1 (661.8 K)-max. (667.9 K)-E2 (663.1 K) and both reactions remain eutectic.” |
-| 630.7 | eutectic |  | model | [1] Zoro 2007 | p. 7; `ORC-3WUUUCKMBW.91a8d3` | “However, a small maximum of temperature then exists on the valleys: e2 (630.7 K)-max. (664.3 K)-E2 (663.1 K) and E1 (661.8 K)-max. (667.9 K)-E2 (663.1 K) and both reactions remain eutectic.” |
-
-## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Ag–Sb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 663.6 K | 663.6 |  | model | [1] Zoro 2007 | p. 7; `ORC-QSWG2AEJSZ.fe5336` | “A slight change in the value of the optimized enthalpy term (noted as a) of the thermodynamic parameter G:Ag:Sb: of the phase (Ag,Au)Sb2 (a decrease from 2641.1228 (see Table 3) to 1400 J/mol) moves the order of occurrence of the U2 (E1) and U3 (E2) reactions, respectively, at 663.7 and 663.6 K.” |
-| Phase transition | 663.7 K | 663.7 |  | model | [1] Zoro 2007 | p. 7; `ORC-QSWG2AEJSZ.da5c6d` | “A slight change in the value of the optimized enthalpy term (noted as a) of the thermodynamic parameter G:Ag:Sb: of the phase (Ag,Au)Sb2 (a decrease from 2641.1228 (see Table 3) to 1400 J/mol) moves the order of occurrence of the U2 (E1) and U3 (E2) reactions, respectively, at 663.7 and 663.6 K.” |
-| Phase transition | 664.7 K | 664.7 |  | model | [1] Zoro 2007 | p. 7; `ORC-XFKROW35GC.2769b3` | “When the change in a is somewhat larger (a = 150 J/mol), U2 occurs at 668.3 K and U3 at 664.7 K.” |
-| Phase transition | 668.3 K | 668.3 |  | model | [1] Zoro 2007 | p. 7; `ORC-XFKROW35GC.e0c69e` | “When the change in a is somewhat larger (a = 150 J/mol), U2 occurs at 668.3 K and U3 at 664.7 K.” |
 
 ## Sources
 

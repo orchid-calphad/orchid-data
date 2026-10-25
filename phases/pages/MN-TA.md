@@ -18,7 +18,7 @@ Table: Phases of the Mn–Ta system (8)
 | [CUB_A13](#phase-mn-ta-cub-a13); _phase:mn-ta:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 970.44–1382.2 K, x(Ta) 0–0.00936 | 0 | 2 |
 | [FCC_A1](#phase-mn-ta-fcc-a1); _phase:mn-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1347.37–1478.5 K, x(Ta) 0–0.01739 | 0 | 2 |
 | [HCP_A3](#phase-mn-ta-hcp-a3); _phase:mn-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-mn-ta-liquid); _phase:mn-ta:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1457.71–4000 K, x(Ta) 0–1 | 1 | 2 |
+| [LIQUID](#phase-mn-ta-liquid); _phase:mn-ta:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1457.71–4000 K, x(Ta) 0–1 | 2 | 2 |
 | [MN2TA_C14](#phase-mn-ta-mn2ta-c14); _phase:mn-ta:mn2ta-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1939.38 K, x(Ta) 0.33333–0.33333 | 0 | 1 |
 
 ## BCC_A2 (Mn–Ta)
@@ -228,7 +228,7 @@ _assessment that models this phase_
 - Id: `phase:mn-ta:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1457.71–4000 K, x(Ta) 0–1
-- Literature: 1 values (0 accepted) from 1 papers
+- Literature: 2 values (0 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ta:liquid)
 
 Names (4): _corpus: _corpus:phase:mn-ta:liquid  

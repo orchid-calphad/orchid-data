@@ -301,7 +301,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-ti:liquid)
 
 Names (8): _corpus: _corpus:phase:si-ti:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:SiTi-04Tok.tdb:LIQUID, tdb:SiTi-16Li.tdb:LIQUID, tdb:SiTi-89Vah.tdb:LIQUID, tdb:SiTi-96Sei-LB.tdb:LIQUID, tdb:SiTi-96Sei-alt.tdb:LIQUID, tdb:SiTi-98Sei.tdb:LIQUID  
 
 
@@ -349,7 +349,7 @@ _tdb: _tdb:SiTi-04Tok.tdb:LIQUID, tdb:SiTi-16Li.tdb:LIQUID, tdb:SiTi-89Vah.tdb:L
 21: CONST LIQUID:L : SI TI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/0364-5916(89)90007-2](https://doi.org/10.1016/0364-5916%2889%2990007-2) C. Vahlas, P.Y. Chevalier, E. Blanquet, A thermodynamic evaluation of four Si-M (M = Mo, Ta, Ti, W) binary systems, Calphad 13, 273-292 (1989).  
 _assessment that models this phase_
@@ -359,8 +359,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507) Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SI2TI_C54 (Si–Ti)
 
@@ -520,7 +518,7 @@ _assessment that models this phase_
 Names (10): _corpus: _corpus:phase:si-ti:si4ti5  
 _mp: _mp:mp-aaabctvj  
 _oqmd: _oqmd:oqmd-7987  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Si4Ti5  
+_paper: _paper:sha256-85fd53a1a176b694:Si4Ti5  
 _tdb: _tdb:SiTi-04Tok.tdb:SI4TI5, tdb:SiTi-16Li.tdb:SI4TI5, tdb:SiTi-89Vah.tdb:SI4TI5, tdb:SiTi-96Sei-LB.tdb:SI4TI5, tdb:SiTi-96Sei-alt.tdb:SI4TI5, tdb:SiTi-98Sei.tdb:SI4TI5  
 
 
@@ -568,7 +566,7 @@ _tdb: _tdb:SiTi-04Tok.tdb:SI4TI5, tdb:SiTi-16Li.tdb:SI4TI5, tdb:SiTi-89Vah.tdb:S
 56: CONST SI4TI5 : SI : TI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/0364-5916(89)90007-2](https://doi.org/10.1016/0364-5916%2889%2990007-2) C. Vahlas, P.Y. Chevalier, E. Blanquet, A thermodynamic evaluation of four Si-M (M = Mo, Ta, Ti, W) binary systems, Calphad 13, 273-292 (1989).  
 _assessment that models this phase_
@@ -578,8 +576,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507) Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SITI_B27 (Si–Ti)
 
@@ -664,7 +660,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-ti:siti3)
 
 Names (8): _corpus: _corpus:phase:si-ti:siti3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:SiTi3  
+_paper: _paper:sha256-85fd53a1a176b694:SiTi3  
 _tdb: _tdb:SiTi-04Tok.tdb:SITI3, tdb:SiTi-16Li.tdb:SITI3, tdb:SiTi-89Vah.tdb:SITI3, tdb:SiTi-96Sei-LB.tdb:SITI3, tdb:SiTi-96Sei-alt.tdb:SITI3, tdb:SiTi-98Sei.tdb:SITI3  
 
 
@@ -712,7 +708,7 @@ _tdb: _tdb:SiTi-04Tok.tdb:SITI3, tdb:SiTi-16Li.tdb:SITI3, tdb:SiTi-89Vah.tdb:SIT
 66: CONST SITI3 : SI : TI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/0364-5916(89)90007-2](https://doi.org/10.1016/0364-5916%2889%2990007-2) C. Vahlas, P.Y. Chevalier, E. Blanquet, A thermodynamic evaluation of four Si-M (M = Mo, Ta, Ti, W) binary systems, Calphad 13, 273-292 (1989).  
 _assessment that models this phase_
@@ -722,8 +718,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507) Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

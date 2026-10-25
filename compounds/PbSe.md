@@ -30,11 +30,11 @@ Table: Uncertainty budget of the literature values of PbSe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -105 | kJ/mol (basis unstated) |  | 0.5 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -105 | kJ/mol (basis unstated) |  | 0.5 | 6.4 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.4 |
 | -100.3 | kJ/mol (basis unstated) |  | 0.05 | 9.2 (emf, cleaned_below_threshold) |  |  |  | 9.2 |
 | -99.5 | kJ/mol (basis unstated) |  | 0.05 | 9.2 (emf, cleaned_below_threshold) |  |  |  | 9.2 |
-| -99.26 | kJ/mol (basis unstated) |  | 0.005 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
-| -96.3 | kJ/mol (basis unstated) |  | 0.05 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -99.26 | kJ/mol (basis unstated) |  | 0.005 | 6.4 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.4 |
+| -96.3 | kJ/mol (basis unstated) |  | 0.05 | 6.4 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.4 |
 | -95.1 | kJ/mol (basis unstated) |  | 0.05 | 9.2 (emf, cleaned_below_threshold) |  |  |  | 9.2 |
 | -99.78 | kJ/mol (basis unstated) |  | 0.005 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 

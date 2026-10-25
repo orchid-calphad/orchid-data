@@ -282,7 +282,7 @@
     "x0": 0.06,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (Cu) + Cu5Hf",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -301,7 +301,7 @@
     "x0": 0.06,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (Cu) + Cu5Hf",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -320,7 +320,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Cu51Hf14",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -338,7 +338,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Cu51Hf14",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -375,7 +375,7 @@
     "x0": 0.366,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Cu8Hf3 + Cu10Hf7",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

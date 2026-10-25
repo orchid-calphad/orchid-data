@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Nb5C2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -15.8511 | kJ/mol-atom |  | 5.000e-6 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -15.8511 | kJ/mol-atom |  | 5.000e-6 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## Sources
 

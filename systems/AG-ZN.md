@@ -1,10 +1,10 @@
 # Ag–Zn system
 
-> Ag–Zn system: 13 accepted literature values (invariant reaction 12, phase transition 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Zn system: 12 accepted literature values (invariant reaction 12) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-ZN.html · Markdown: https://data.orchid-project.org/systems/AG-ZN.md
 
-13 accepted literature values from 1 paper(s) (experimental 6, model 7); 5 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 6, model 6); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-ZN.json) · [CSV](https://data.orchid-project.org/systems/AG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-ZN/AgZn-02Fri-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AG-ZN.md)
 
@@ -13,14 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 7 |
+| model | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 12 |
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -92,16 +91,6 @@ Table: Invariant reactions reported in the literature for the Ag–Zn system (12
 | 547 | β + γ -> ζ | ζ: Zn 0.504; γ: Zn 0.585 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 11; `ORC-GBUV6RPBAV` |  |
 | 538 | β -> α + ζ | α: Zn 0.403; β: Zn 0.449; ζ: Zn 0.46 | model | [1] Gómez-Acebo 1998 | Table 1, p. 3, row 10; `ORC-THFIZ7CUZO` |  |
 | 531 | β -> α + ζ | α: Zn 0.402; ζ: Zn 0.456 | experimental | [1] Gómez-Acebo 1998; _cites ref. 90Mas_ | Table 1, p. 3, row 9; `ORC-MK2OOW2RTI` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ag–Zn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 650 K | 650 |  | model | [1] Gómez-Acebo 1998 | p. 8; `ORC-SZD77DV4ZA` | “This has led to an approximate value of 650 K.” |
 
 ## Sources
 

@@ -38,7 +38,7 @@ Table: Phases of the Al–V system (13)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-v:al10v)
 
 Names (3): _corpus: _corpus:phase:al-v:al10v  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al10V  
+_paper: _paper:sha256-85fd53a1a176b694:Al10V  
 _tdb: _tdb:AlV-98Sau-LB.tdb:AL10V  
 
 
@@ -50,11 +50,6 @@ _tdb: _tdb:AlV-98Sau-LB.tdb:AL10V
 47: PHASE AL10V % 2 10 1 !
 48: CONST AL10V : AL : V : !
 ~~~~
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL21V2 (Al–V)
 
@@ -149,7 +144,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-v:al23v4)
 
 Names (10): _corpus: _corpus:phase:al-v:al23v4  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al23V4  
+_paper: _paper:sha256-85fd53a1a176b694:Al23V4  
 _tdb: _tdb:AlV-04Gon.tdb:AL23V4, tdb:AlV-15Lin-mod.tdb:AL23V4, tdb:AlV-15Lin.tdb:AL23V4, tdb:AlV-17Kro.tdb:AL23V4, tdb:AlV-18Ber.tdb:AL23V4, tdb:AlV-23Wan.tdb:AL23V4, tdb:AlV-24Li.tdb:AL23V4, tdb:AlV-98Sau-LB.tdb:AL23V4  
 
 
@@ -211,7 +206,7 @@ _tdb: _tdb:AlV-04Gon.tdb:AL23V4, tdb:AlV-15Lin-mod.tdb:AL23V4, tdb:AlV-15Lin.tdb
 58: CONST AL23V4 : AL : V : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.calphad.2015.07.002](https://doi.org/10.1016/j.calphad.2015.07.002) B. Lindahl, X.L. Liu, Z.-K. Liu, M. Selleby, Calphad, 51, 75-88(2015).  
 _assessment that models this phase_
@@ -225,8 +220,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2004-0180](https://doi.org/10.3139/ijmr-2004-0180) W. Gong, Y. Du, B. Huang, R. Schmid-Fetzer, C. Zhang, H. Xu, Z. Metallkd., 95, 978-86(2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL3M_D022 (Al–V)
 
@@ -240,7 +233,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-v:al3m-d022)
 
 Names (10): _corpus: _corpus:phase:al-v:al3m-d022  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:AlM-D0\*22  
+_paper: _paper:sha256-85fd53a1a176b694:AlM-D0\*22  
 _tdb: _tdb:AlV-04Gon.tdb:AL3M_D022, tdb:AlV-15Lin-mod.tdb:AL3M_D022, tdb:AlV-15Lin.tdb:AL3M_D022, tdb:AlV-17Kro.tdb:AL3M_D022, tdb:AlV-18Ber.tdb:AL3M_D022, tdb:AlV-23Wan.tdb:AL3M_D022, tdb:AlV-24Li.tdb:AL3M_D022, tdb:AlV-98Sau-LB.tdb:AL3M_D022  
 
 
@@ -302,7 +295,7 @@ _tdb: _tdb:AlV-04Gon.tdb:AL3M_D022, tdb:AlV-15Lin-mod.tdb:AL3M_D022, tdb:AlV-15L
 63: CONST AL3M_D022 : AL : V : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.calphad.2015.07.002](https://doi.org/10.1016/j.calphad.2015.07.002) B. Lindahl, X.L. Liu, Z.-K. Liu, M. Selleby, Calphad, 51, 75-88(2015).  
 _assessment that models this phase_
@@ -316,8 +309,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2004-0180](https://doi.org/10.3139/ijmr-2004-0180) W. Gong, Y. Du, B. Huang, R. Schmid-Fetzer, C. Zhang, H. Xu, Z. Metallkd., 95, 978-86(2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL45V7 (Al–V)
 
@@ -331,7 +322,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-v:al45v7)
 
 Names (10): _corpus: _corpus:phase:al-v:al45v7  
-_paper: _paper:10.1016/j.jmst.2018.01.004:Al45V7, paper:10.1016/s0364-5916(98)00037-6:Al7V  
+_paper: _paper:10.1016/j.jmst.2018.01.004:Al45V7, paper:sha256-85fd53a1a176b694:Al7V  
 _tdb: _tdb:AlV-04Gon.tdb:AL45V7, tdb:AlV-15Lin-mod.tdb:AL45V7, tdb:AlV-15Lin.tdb:AL45V7, tdb:AlV-17Kro.tdb:AL45V7, tdb:AlV-18Ber.tdb:AL45V7, tdb:AlV-23Wan.tdb:AL45V7, tdb:AlV-24Li.tdb:AL45V7  
 
 
@@ -386,7 +377,7 @@ _tdb: _tdb:AlV-04Gon.tdb:AL45V7, tdb:AlV-15Lin-mod.tdb:AL45V7, tdb:AlV-15Lin.tdb
 55: CONST AL45V7 : AL : V : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.calphad.2015.07.002](https://doi.org/10.1016/j.calphad.2015.07.002) B. Lindahl, X.L. Liu, Z.-K. Liu, M. Selleby, Calphad, 51, 75-88(2015).  
 _assessment that models this phase_
@@ -401,8 +392,6 @@ _assessment that models this phase_
 - [doi:10.3139/ijmr-2004-0180](https://doi.org/10.3139/ijmr-2004-0180) W. Gong, Y. Du, B. Huang, R. Schmid-Fetzer, C. Zhang, H. Xu, Z. Metallkd., 95, 978-86(2004).  
 _assessment that models this phase_
 - [doi:10.1016/j.jmst.2018.01.004](https://doi.org/10.1016/j.jmst.2018.01.004) Qun Luo, Kang Li, Qian Li, Thermodynamic investigation of phase equilibria in Al–Si–V system, Journal of Materials Science &amp; Technology 34, 1592-1601 (2018).  
-_reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 - [doi:10.3139/146.018057](https://doi.org/10.3139/146.018057) Weiping Gong, Yong Du, Baiyun Huang, Rainer Schmid-Fetzer, Chuanfu Zhang, Honghui Xu, Thermodynamic reassessment of the Al – V system, MEKU 95, 978-986 (2004).  
 _cited as the source of values for this phase_
@@ -446,7 +435,7 @@ _tdb: _tdb:AlV-98Sau-LB.tdb:AL7V
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-v:al8v5-d82)
 
 Names (9): _corpus: _corpus:phase:al-v:al8v5-d82  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al8V5  
+_paper: _paper:sha256-85fd53a1a176b694:Al8V5  
 _tdb: _tdb:AlV-04Gon.tdb:AL8V5_D82, tdb:AlV-15Lin.tdb:AL8V5_D82, tdb:AlV-17Kro.tdb:AL8V5_D82, tdb:AlV-18Ber.tdb:AL8V5_D82, tdb:AlV-23Wan.tdb:AL8V5_D82, tdb:AlV-24Li.tdb:AL8V5_D82, tdb:AlV-98Sau-LB.tdb:AL8V5_D82  
 
 
@@ -501,7 +490,7 @@ _tdb: _tdb:AlV-04Gon.tdb:AL8V5_D82, tdb:AlV-15Lin.tdb:AL8V5_D82, tdb:AlV-17Kro.t
 68: CONST AL8V5_D82 : AL : V : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.calphad.2015.07.002](https://doi.org/10.1016/j.calphad.2015.07.002) B. Lindahl, X.L. Liu, Z.-K. Liu, M. Selleby, Calphad, 51, 75-88(2015).  
 _assessment that models this phase_
@@ -515,8 +504,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2004-0180](https://doi.org/10.3139/ijmr-2004-0180) W. Gong, Y. Du, B. Huang, R. Schmid-Fetzer, C. Zhang, H. Xu, Z. Metallkd., 95, 978-86(2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## ALV3_A15 (Al–V)
 
@@ -564,7 +551,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-v:bcc-a2)
 
 Names (10): _corpus: _corpus:phase:al-v:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:AlV-04Gon.tdb:BCC_A2, tdb:AlV-15Lin-mod.tdb:BCC_A2, tdb:AlV-15Lin.tdb:BCC_A2, tdb:AlV-17Kro.tdb:BCC_A2, tdb:AlV-18Ber.tdb:BCC_A2, tdb:AlV-23Wan.tdb:BCC_A2, tdb:AlV-24Li.tdb:BCC_A2, tdb:AlV-98Sau-LB.tdb:BCC_A2  
 
 
@@ -626,7 +613,7 @@ _tdb: _tdb:AlV-04Gon.tdb:BCC_A2, tdb:AlV-15Lin-mod.tdb:BCC_A2, tdb:AlV-15Lin.tdb
 38: CONST BCC_A2 : AL V% : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.calphad.2015.07.002](https://doi.org/10.1016/j.calphad.2015.07.002) B. Lindahl, X.L. Liu, Z.-K. Liu, M. Selleby, Calphad, 51, 75-88(2015).  
 _assessment that models this phase_
@@ -640,8 +627,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2004-0180](https://doi.org/10.3139/ijmr-2004-0180) W. Gong, Y. Du, B. Huang, R. Schmid-Fetzer, C. Zhang, H. Xu, Z. Metallkd., 95, 978-86(2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## GAMMA_D82 (Al–V)
 
@@ -678,7 +663,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-v:fcc-a1)
 
 Names (10): _corpus: _corpus:phase:al-v:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:fcc-Al  
+_paper: _paper:sha256-85fd53a1a176b694:fcc-Al  
 _tdb: _tdb:AlV-04Gon.tdb:FCC_A1, tdb:AlV-15Lin-mod.tdb:FCC_A1, tdb:AlV-15Lin.tdb:FCC_A1, tdb:AlV-17Kro.tdb:FCC_A1, tdb:AlV-18Ber.tdb:FCC_A1, tdb:AlV-23Wan.tdb:FCC_A1, tdb:AlV-24Li.tdb:FCC_A1, tdb:AlV-98Sau-LB.tdb:FCC_A1  
 
 
@@ -740,7 +725,7 @@ _tdb: _tdb:AlV-04Gon.tdb:FCC_A1, tdb:AlV-15Lin-mod.tdb:FCC_A1, tdb:AlV-15Lin.tdb
 33: CONST FCC_A1 : AL% V : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.calphad.2015.07.002](https://doi.org/10.1016/j.calphad.2015.07.002) B. Lindahl, X.L. Liu, Z.-K. Liu, M. Selleby, Calphad, 51, 75-88(2015).  
 _assessment that models this phase_
@@ -754,8 +739,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2004-0180](https://doi.org/10.3139/ijmr-2004-0180) W. Gong, Y. Du, B. Huang, R. Schmid-Fetzer, C. Zhang, H. Xu, Z. Metallkd., 95, 978-86(2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Al–V)
 
@@ -851,7 +834,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-v:liquid)
 
 Names (10): _corpus: _corpus:phase:al-v:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlV-04Gon.tdb:LIQUID, tdb:AlV-15Lin-mod.tdb:LIQUID, tdb:AlV-15Lin.tdb:LIQUID, tdb:AlV-17Kro.tdb:LIQUID, tdb:AlV-18Ber.tdb:LIQUID, tdb:AlV-23Wan.tdb:LIQUID, tdb:AlV-24Li.tdb:LIQUID, tdb:AlV-98Sau-LB.tdb:LIQUID  
 
 
@@ -913,7 +896,7 @@ _tdb: _tdb:AlV-04Gon.tdb:LIQUID, tdb:AlV-15Lin-mod.tdb:LIQUID, tdb:AlV-15Lin.tdb
 28: CONST LIQUID:L : AL V : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.calphad.2015.07.002](https://doi.org/10.1016/j.calphad.2015.07.002) B. Lindahl, X.L. Liu, Z.-K. Liu, M. Selleby, Calphad, 51, 75-88(2015).  
 _assessment that models this phase_
@@ -927,8 +910,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2004-0180](https://doi.org/10.3139/ijmr-2004-0180) W. Gong, Y. Du, B. Huang, R. Schmid-Fetzer, C. Zhang, H. Xu, Z. Metallkd., 95, 978-86(2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

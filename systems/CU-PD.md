@@ -1,10 +1,10 @@
 # Cu–Pd system
 
-> Cu–Pd system: 13 accepted literature values (invariant reaction 6, phase transition 5, formation 1, mixing / partial 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Pd system: 12 accepted literature values (invariant reaction 6, phase transition 4, formation 1, mixing / partial 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-PD.html · Markdown: https://data.orchid-project.org/systems/CU-PD.md
 
-13 accepted literature values from 2 paper(s) (experimental 7, model 5, DFT 1); 2 calculated phase diagram(s).
+12 accepted literature values from 2 paper(s) (experimental 6, model 5, DFT 1); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-PD.json) · [CSV](https://data.orchid-project.org/systems/CU-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-PD/CuPd-07Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-PD.html) · [Markdown](https://data.orchid-project.org/systems/CU-PD.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 6 |
 | model | 5 |
 | DFT | 1 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 6 |
-| phase transition | 5 |
+| phase transition | 4 |
 | formation | 1 |
 | mixing / partial | 1 |
 
@@ -69,7 +69,7 @@ Table: Enthalpies of formation, Cu–Pd system (1)
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (4)
 
 Table: Phase transition, Cu–Pd system
 
@@ -79,7 +79,6 @@ Table: Phase transition, Cu–Pd system
 | Phase transition | 781 K | 781 | fcc -> Cu3Pd; _fcc: Pd 0.1582; Cu3Pd: Pd 0.1582_ | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 4; `ORC-OWTFUVGVOH` |  |
 | Phase transition | 871 K | 871 | fcc -> CuPd; _fcc: Pd 0.4047; CuPd: Pd 0.4047_ | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 2; `ORC-QZGMAAQ7TP` |  |
 | Phase transition | 871 K | 871 | fcc -> CuPd; _fcc: Pd 0.407; CuPd: Pd 0.407_ | model | [1] Li 2008 | Table 3, p. 6, row 1; `ORC-VMW4QSB4C5` |  |
-| Phase transition | 873.15 K | 873.15 | other | experimental | [2] Huang 2007; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | p. 7; `ORC-3DWOFI7KOZ` | “According to the experimental enthalpies of formation of the Cu0.60 Pd0.40 alloy \[11\], the order/disorder transformation occurs at 600 ◦ C with practically no enthalpy and entropy” |
 
 ### Mixing / partial (1)
 

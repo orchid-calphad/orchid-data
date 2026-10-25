@@ -1,10 +1,10 @@
 # Ge–Yb system
 
-> Ge–Yb system: 122 accepted literature values (formation 56, invariant reaction 54, phase transition 10, heat capacity / entropy / enthalpy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Yb system: 120 accepted literature values (formation 56, invariant reaction 52, phase transition 10, heat capacity / entropy / enthalpy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-YB.html · Markdown: https://data.orchid-project.org/systems/GE-YB.md
 
-122 accepted literature values from 2 paper(s) (experimental 48, model 66, DFT 8); 2 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+120 accepted literature values from 2 paper(s) (experimental 46, model 66, DFT 8); 2 calculated phase diagram(s). 20 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-YB.json) · [CSV](https://data.orchid-project.org/systems/GE-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-YB/GeYb-18Ach.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GE-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-YB.html) · [Markdown](https://data.orchid-project.org/systems/GE-YB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 48 |
+| experimental | 46 |
 | model | 66 |
 | DFT | 8 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 54 |
+| invariant reaction | 52 |
 | phase transition | 10 |
 | formation | 56 |
 | heat capacity / entropy / enthalpy | 2 |
@@ -85,7 +85,7 @@ Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GE/
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Yb system (54)
+Table: Invariant reactions reported in the literature for the Ge–Yb system (52)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -130,7 +130,6 @@ Table: Invariant reactions reported in the literature for the Ge–Yb system (54
 | 1087.15 | eutectic: L -> γLa + Yb2Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 8; `ORC-PPDVNZJVWH` |  |
 | 1086.15 | eutectic: L -> γLa + Yb2Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 9; `ORC-6Q5EJ57L2M` |  |
 | 1083.15 | eutectic: L -> γLa + Yb2Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 7; `ORC-6WPZUYIPT4` |  |
-| 1083.15 | eutectic |  | experimental | [2] Achgar 2018 | p. 3; `ORC-JMF67KSM4G` | “Ytterbium results in eutectic reaction among liquid, Yb (bcc_A2), and Yb2Ge at 810 C and \\1 at.% Ge.” |
 | 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 22; `ORC-4UZVLNPCNP` |  |
 | 1083 | eutectic: Liq $ Yb2Ge CBcc_A2(Yb) |  | experimental | [1] Dai-man 2018 | p. 3; `ORC-7MO7NP3TOT.1fbfd6` | “Two eutectic transformations are defined, Liq$Diamond_A4(Ge)C Yb3Ge8 at 1003 K and » 2.1 at.% Yb, and Liq $ Yb2Ge CBcc_A2(Yb) at 1083 K and more than 99.0 at.% Yb.” |
 | 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 23; `ORC-LFQFZQ5QBQ` |  |
@@ -138,7 +137,6 @@ Table: Invariant reactions reported in the literature for the Ge–Yb system (54
 | 1014.15 | eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 30; `ORC-MBW75ZEZ3S` |  |
 | 1007.15 | eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 29; `ORC-ZFXN42BF5L` |  |
 | 1003.15 | eutectic: L -> Yb3Ge8 + Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 28; `ORC-FTOWUAQS2I` |  |
-| 1003.15 | eutectic |  | experimental | [2] Achgar 2018; _cites Eremenko 1983_ | p. 3; `ORC-TXP7BLLYXR` | “In Gerich part, the addition of Ytterbium to Germanium results in a eutectic reaction among liquid, Yb3Ge8, and Ge (diamond_A4) at 730 C and about 80 at.% Ge, in accordance with Eremenko \[15\].” |
 | 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.8411; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | model | [1] Dai-man 2018 | Table 1, p. 3, row 3; `ORC-4AHYPZ23Z4` |  |
 | 1003 | eutectic: Liq$Diamond_A4(Ge)C Yb3Ge8 |  | experimental | [1] Dai-man 2018 | p. 3; `ORC-7MO7NP3TOT.d7ef39` | “Two eutectic transformations are defined, Liq$Diamond_A4(Ge)C Yb3Ge8 at 1003 K and » 2.1 at.% Yb, and Liq $ Yb2Ge CBcc_A2(Yb) at 1083 K and more than 99.0 at.% Yb.” |
 | 1003 | eutectic: Liq -> (Ge)+Yb3Ge8 | L: Ge 0.81; (Ge): Ge 1; Yb3Ge8: Ge 0.7273 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 2; `ORC-JWV3AJQDXF` |  |

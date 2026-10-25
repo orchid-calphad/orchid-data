@@ -67,14 +67,14 @@ Table: Activity / EMF / Gibbs energy, Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 67; `ORC-UL4OKJU2TF.1f96d9` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 67; `ORC-UL4OKJU2TF.f069f1` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 61; `ORC-4KUTAWURSF.82e830` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 61; `ORC-4KUTAWURSF.b0c3c0` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 73; `ORC-P5Z2DIPDXA.89697b` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 73; `ORC-P5Z2DIPDXA.b2c657` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 78; `ORC-FIH56J6SQW.1cdb94` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 78; `ORC-FIH56J6SQW.96a7c8` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 67; `ORC-UL4OKJU2TF.1f96d9` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 67; `ORC-UL4OKJU2TF.f069f1` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 61; `ORC-4KUTAWURSF.82e830` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 61; `ORC-4KUTAWURSF.b0c3c0` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 73; `ORC-P5Z2DIPDXA.89697b` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 73; `ORC-P5Z2DIPDXA.b2c657` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 78; `ORC-FIH56J6SQW.1cdb94` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Re 1_ | model | [5] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 78; `ORC-FIH56J6SQW.96a7c8` |  |
 
 ### Crystal structure (22)
 

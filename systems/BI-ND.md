@@ -1,10 +1,10 @@
 # Bi–Nd system
 
-> Bi–Nd system: 23 accepted literature values (invariant reaction 19, phase transition 3, activity / EMF / Gibbs energy 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Nd system: 18 accepted literature values (invariant reaction 15, phase transition 2, activity / EMF / Gibbs energy 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-ND.html · Markdown: https://data.orchid-project.org/systems/BI-ND.md
 
-23 accepted literature values from 2 paper(s) (experimental 14, model 9); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+18 accepted literature values from 2 paper(s) (experimental 10, model 8); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-ND.json) · [CSV](https://data.orchid-project.org/systems/BI-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-ND/BiNd-10Wan.json) · [phases (12)](https://data.orchid-project.org/phases/pages/BI-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-ND.html) · [Markdown](https://data.orchid-project.org/systems/BI-ND.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 9 |
+| experimental | 10 |
+| model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 19 |
-| phase transition | 3 |
+| invariant reaction | 15 |
+| phase transition | 2 |
 | activity / EMF / Gibbs energy | 1 |
 
 ## Calculated phase diagrams
@@ -81,7 +81,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Nd system (19)
+Table: Invariant reactions reported in the literature for the Bi–Nd system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -97,23 +97,18 @@ Table: Invariant reactions reported in the literature for the Bi–Nd system (19
 | 1108.15 | eutectoid: (βNd) -> (αNd) + BiNd2 | (αNd): Nd 1; BiNd2: Nd 0.667 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 6; `ORC-BC4DORVDFM` |  |
 | 933.15 | peritectic: L + BiNd -> Bi2Nd | L: Nd 0.084; BiNd: Nd 0.5; Bi2Nd: Nd 0.333 | model | [1] Wang 2010 | Table 3, p. 4, row 5; `ORC-S4WINOAD4G` |  |
 | 933.15 | peritectic: L + BiNd -> Bi2Nd | BiNd: Nd 0.5; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 4; `ORC-YTWDIQFPOE` |  |
-| 932 | peritectic: L + NdBi = NdBi2 |  | experimental | [2] Im 2022 | p. 6; `ORC-OLS7UUWVSJ.34feaf` | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
-| 774 | peritectic: L + NdBi2 = Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 6; `ORC-OLS7UUWVSJ.b80bfb` | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
-| 774 | peritectic: liquid + NdBi2 = Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 1; `ORC-PPVN7Z7RLQ` | “A new peritectic reaction of \[liquid + NdBi2 = Nd3 Bi7 \] at 774 K was confirmed using differential scanning calorimetry, structural (X-ray diffraction), and microstructural (scanning electron microscopy) analyses.” |
 | 544.15 | eutectic: L -> (Bi) + Bi2Nd | L: Nd 0.004; (Bi): Nd 0; Bi2Nd: Nd 0.333 | model | [1] Wang 2010 | Table 3, p. 4, row 3; `ORC-YUUAXAOKXV` |  |
 | 542.15 | eutectic: L -> (Bi) + Bi2Nd | (Bi): Nd 0; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 1; `ORC-WKFRH2NT4Z` |  |
-| 539 | eutectic: L = Bi + Nd3 Bi7 |  | experimental | [2] Im 2022 | p. 6; `ORC-OLS7UUWVSJ.501833` | “Three characteristic transition reactions (I-III), were observed: eutectic reaction \[I: L = Bi + Nd3 Bi7 \] at 539 K, peritectic reaction \[II: L + NdBi2 = Nd3 Bi7 \] at 774 K, and peritectic reaction \[III: L + NdBi = NdBi2 \] at 932 K (Table S3).” |
 | 538.15 | eutectic: L -> (Bi) + Bi2Nd | (Bi): Nd 0; Bi2Nd: Nd 0.333 | experimental | [1] Wang 2010; _cites Okamoto 2010_ | Table 3, p. 4, row 2; `ORC-7BT65L7ARA` |  |
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, Bi–Nd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1124 K | 1124 | (β Nd of DHCP solution) ↔ (α Nd of BCC solution) + Nd2 Bi | model | [2] Im 2022 | p. 8; `ORC-FOOC2HO75I` | “The present work calculated the eutectoid reaction of \[(β Nd of DHCP solution) ↔ (α Nd of BCC solution) + Nd2 Bi\] at 1124 K, slightly higher than the measured temperature at 1108 ± 10 K \[7\].” |
 | Phase transition | 2048.15 K | 2048.15 | congruent melting: L -> BiNd; _L: Nd 0.5; BiNd: Nd 0.5_ | experimental | [1] Wang 2010; _cites Abulkhaev 2001_ | Table 3, p. 4, row 16; `ORC-4V2A56NBWT` |  |
 | Phase transition | 2048.15 K | 2048.15 | congruent melting: L -> BiNd; _L: Nd 0.5; BiNd: Nd 0.5_ | model | [1] Wang 2010 | Table 3, p. 4, row 17; `ORC-OXDPOTU5RS` |  |
 

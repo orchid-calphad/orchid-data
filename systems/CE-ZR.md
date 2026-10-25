@@ -1,10 +1,10 @@
 # Ce–Zr system
 
-> Ce–Zr system: 12 accepted literature values (invariant reaction 7, phase transition 4, phase equilibrium 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Zr system: 7 accepted literature values (invariant reaction 6, phase equilibrium 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-ZR.html · Markdown: https://data.orchid-project.org/systems/CE-ZR.md
 
-12 accepted literature values from 2 paper(s) (experimental 7, model 4, unspecified 1); 1 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (experimental 3, model 3, unspecified 1); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-ZR.json) · [CSV](https://data.orchid-project.org/systems/CE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-ZR/CeZr-14Mat.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CE-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-ZR.html) · [Markdown](https://data.orchid-project.org/systems/CE-ZR.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
-| model | 4 |
+| experimental | 3 |
+| model | 3 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 7 |
-| phase transition | 4 |
+| invariant reaction | 6 |
 | phase equilibrium | 1 |
 
 ## Calculated phase diagrams
@@ -46,30 +45,18 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Zr system (7)
+Table: Invariant reactions reported in the literature for the Ce–Zr system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1763.15 | eutectic |  | experimental | [1] Dixon 1998; _cites ref. 1964_ | p. 5; `ORC-SCRHEY23AV` | “2Subsequent to this work: R. Harris and G. V. Raynor, Journal of Less Common Metals,( 1964), 6 p70 indicated a eutectic xt 1490°C at which temperature the solubility of cerium in p zirconium was ci 4 at%; in addition the solubility in a zirconium was given as 6% at 850°C.” |
-| 1113 | bcc-Zr -> L + hcp-Zr |  | experimental | [2] Mattern 2014 | Table 3, p. 6, row 2; `ORC-GLYAM2MWNP` |  |
-| 1109 | bcc-Zr -> L + hcp-Zr | bcc-Zr: Zr 0.9564; L: Zr 0.0257; hcp-Zr: Zr 0.9692 | model | [2] Mattern 2014 | Table 3, p. 6, row 1; `ORC-W3FHGH3FG6` |  |
-| 1065 | L -> bcc-Ce + hcp-Zr | L: Zr 0.0203; bcc-Ce: Zr 0.0156; hcp-Zr: Zr 0.9729 | model | [2] Mattern 2014 | Table 3, p. 6, row 3; `ORC-CAD5ZMR226` |  |
-| 1053 | L -> bcc-Ce + hcp-Zr |  | experimental | [2] Mattern 2014 | Table 3, p. 6, row 4; `ORC-D4TA2GDDYZ` |  |
-| 988 | bcc-Ce -> fcc-Ce + hcp-Zr | bcc-Ce: Zr 0.0112; fcc-Ce: Zr 0.0064; hcp-Zr: Zr 0.9799 | model | [2] Mattern 2014 | Table 3, p. 6, row 5; `ORC-Y74OSEZL2M.3cb8dd` |  |
-| 988 | bcc-Ce -> fcc-Ce + hcp-Zr |  | experimental | [2] Mattern 2014 | Table 3, p. 6, row 6; `ORC-Y74OSEZL2M.d0e628` |  |
+| 1113 | bcc-Zr -> L + hcp-Zr |  | experimental | [1] Mattern 2014 | Table 3, p. 6, row 2; `ORC-GLYAM2MWNP` |  |
+| 1109 | bcc-Zr -> L + hcp-Zr | bcc-Zr: Zr 0.9564; L: Zr 0.0257; hcp-Zr: Zr 0.9692 | model | [1] Mattern 2014 | Table 3, p. 6, row 1; `ORC-W3FHGH3FG6` |  |
+| 1065 | eutectic: L -> bcc-Ce + hcp-Zr | L: Zr 0.0203; bcc-Ce: Zr 0.0156; hcp-Zr: Zr 0.9729 | model | [1] Mattern 2014 | Table 3, p. 6, row 3; `ORC-CAD5ZMR226` |  |
+| 1053 | eutectic: L -> bcc-Ce + hcp-Zr |  | experimental | [1] Mattern 2014 | Table 3, p. 6, row 4; `ORC-D4TA2GDDYZ` |  |
+| 988 | bcc-Ce -> fcc-Ce + hcp-Zr | bcc-Ce: Zr 0.0112; fcc-Ce: Zr 0.0064; hcp-Zr: Zr 0.9799 | model | [1] Mattern 2014 | Table 3, p. 6, row 5; `ORC-Y74OSEZL2M.3cb8dd` |  |
+| 988 | bcc-Ce -> fcc-Ce + hcp-Zr |  | experimental | [1] Mattern 2014 | Table 3, p. 6, row 6; `ORC-Y74OSEZL2M.d0e628` |  |
 
 ## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Ce–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1109 K | 1109 | other: bcc-Zr -> L + hcp-Zr | experimental | [2] Mattern 2014 | p. 6; `ORC-5WRVOXHMCP.e98527` | “The calculated temperature (1113 K) and Ce solubility in bcc-Zr (4.4 at%) for the catatectic reaction bccZr2L þhcp-Zr agrees well with the present experimental results of 1109 K and 5 at%, respectively.” |
-| Phase transition | 1113 K | 1113 | Lþ hcp-Zr(Ce)2bcc-Zr(Ce) | experimental | [2] Mattern 2014 | p. 4; `ORC-XXOKXNXVGM` | “The DSC event (3) at T1⁄4 1113 K corresponds to the phase reaction Lþ hcp-Zr(Ce)2bcc-Zr(Ce).” |
-| Phase transition | 1113 K | 1113 | other: bcc-Zr -> L + hcp-Zr | model | [2] Mattern 2014 | p. 6; `ORC-5WRVOXHMCP.cdb463` | “The calculated temperature (1113 K) and Ce solubility in bcc-Zr (4.4 at%) for the catatectic reaction bccZr2L þhcp-Zr agrees well with the present experimental results of 1109 K and 5 at%, respectively.” |
-| Phase transition | 1773.15 K | 1773.15 | other | experimental | [1] Dixon 1998 | p. 5; `ORC-TXVBT2AYNU` | “d) Heat treatments in the region of the solidus showed it to fall to 1500°C at about 3.5 at% cerium and then return towards the zirconium side of the diagram.” |
 
 ### Phase equilibrium (1)
 
@@ -77,14 +64,13 @@ Table: Phase equilibrium, Ce–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 283 | polymorphic: dhcp↔fcc; _dhcp-Ce: Zr 0; β(Ce): Zr 0_ | unspecified | [2] Mattern 2014; _cites Gschneidner 1999_ [doi](https://doi.org/10.1361/105497199770340590) | Table 1, p. 3, row 3; `ORC-GZOHBIA6OO` |  |
+| Phase composition |  | 283 | polymorphic: dhcp↔fcc; _dhcp-Ce: Zr 0; β(Ce): Zr 0_ | unspecified | [1] Mattern 2014; _cites Gschneidner 1999_ [doi](https://doi.org/10.1361/105497199770340590) | Table 1, p. 3, row 3; `ORC-GZOHBIA6OO` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. P.R. Dixon, B.B. Argent, T.G. Chart, The alloy systems zirconium-cerium and zirconium-lead, Calphad 22, 397-416 (1998). [doi:10.1016/s0364-5916(98)00039-x](https://doi.org/10.1016/s0364-5916%2898%2900039-x)
-2. N. Mattern, Y. Yokoyama, A. Mizuno, J.H. Han, O. Fabrichnaya, H. Wendrock et al., Experimental and thermodynamic assessment of the Ce–Zr system, Calphad 46, 213-219 (2014). [doi:10.1016/j.calphad.2014.05.002](https://doi.org/10.1016/j.calphad.2014.05.002)
+1. N. Mattern, Y. Yokoyama, A. Mizuno, J.H. Han, O. Fabrichnaya, H. Wendrock et al., Experimental and thermodynamic assessment of the Ce–Zr system, Calphad 46, 213-219 (2014). [doi:10.1016/j.calphad.2014.05.002](https://doi.org/10.1016/j.calphad.2014.05.002)
 
 ## Please cite
 

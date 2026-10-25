@@ -571,7 +571,7 @@
     "x0": 0.16,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (Ge) + Ge2Sr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -590,7 +590,7 @@
     "x0": 0.16,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (Ge) + Ge2Sr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -609,7 +609,7 @@
     "x0": 0.333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Ge2Sr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -627,7 +627,7 @@
     "x0": 0.333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Ge2Sr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -645,7 +645,7 @@
     "x0": 0.39,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Ge2Sr + GeSr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -664,7 +664,7 @@
     "x0": 0.39,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Ge2Sr + GeSr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -683,7 +683,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> GeSr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -701,7 +701,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> GeSr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -719,7 +719,7 @@
     "x0": 0.58,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> GeSr + Ge3Sr5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -738,7 +738,7 @@
     "x0": 0.58,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> GeSr + Ge3Sr5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -795,7 +795,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> GeSr2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -813,7 +813,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> GeSr2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -831,7 +831,7 @@
     "x0": 0.95,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> GeSr2 + (βSr)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -850,7 +850,7 @@
     "x0": 0.95,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> GeSr2 + (βSr)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

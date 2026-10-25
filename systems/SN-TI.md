@@ -1,10 +1,10 @@
 # Sn–Ti system
 
-> Sn–Ti system: 71 accepted literature values (invariant reaction 42, formation 14, phase transition 13, phase equilibrium 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Ti system: 62 accepted literature values (invariant reaction 38, formation 14, phase transition 8, phase equilibrium 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-TI.html · Markdown: https://data.orchid-project.org/systems/SN-TI.md
 
-71 accepted literature values from 4 paper(s) (experimental 44, model 17, unspecified 10); 5 calculated phase diagram(s).
+62 accepted literature values from 4 paper(s) (experimental 35, model 17, unspecified 10); 5 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-TI.json) · [CSV](https://data.orchid-project.org/systems/SN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-TI/SnTi-05Liu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/SN-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-TI.html) · [Markdown](https://data.orchid-project.org/systems/SN-TI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 44 |
+| experimental | 35 |
 | model | 17 |
 | unspecified | 10 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 42 |
-| phase transition | 13 |
+| invariant reaction | 38 |
+| phase transition | 8 |
 | phase equilibrium | 2 |
 | formation | 14 |
 
@@ -100,51 +100,47 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sn–Ti system (42)
+Table: Invariant reactions reported in the literature for the Sn–Ti system (38)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1943.15 | congruent melting: L \<-> Ti3Sn | Ti3Sn: Sn 0.25 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 6; `ORC-RRVC3QH654` |  |
 | 1936.15 | congruent melting: L \<-> Ti3Sn | Ti3Sn: Sn 0.0205 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 5; `ORC-IDZ6WIRDFL` |  |
-| 1880.15 | eutectic: L ↔ (βTi) + Ti3 Sn |  | experimental | [1] Yin 2007 | p. 2; `ORC-27FUIJ626C.e03192` | “The two following eutectic reactions occur: L ↔ (βTi) + Ti3 Sn (1607 ◦ C), L ↔ Ti5 Sn3 + Ti6 Sn5 (1475 ◦ C).” |
 | 1880.15 | eutectic: L \<-> (βTi) + Ti3Sn | L: Sn 0.18; (βTi): Sn 0.16; Ti3Sn: Sn 0.25 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 2; `ORC-RX2YVTCNVV` |  |
-| 1879.8 | eutectic: Liquid -> SnTi3 + bcc-A2 | L: Ti 0.828; SnTi3: Ti 0.777; bcc-A2: Ti 0.846 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 2; `ORC-ZNW6Y4SMMZ` |  |
+| 1879.8 | eutectic: Liquid -> SnTi3 + bcc-A2 | L: Ti 0.828; SnTi3: Ti 0.777; bcc-A2: Ti 0.846 | model | [2] (ed.) 1998 | Table I, p. 302, row 2; `ORC-ZNW6Y4SMMZ` |  |
 | 1863.15 | eutectic: L \<-> (βTi) + Ti3Sn | L: Sn 0.16; (βTi): Sn 0.13; Ti3Sn: Sn 0.224 | experimental | [1] Yin 2007; _cites McQuillan 1957_ | Table 1, p. 3, row 1; `ORC-XWUGP32RNG` |  |
 | 1848.15 | eutectic: L \<-> (βTi) + Ti3Sn | Ti3Sn: Sn 0.25, Ti 0.75 | experimental | [1] Yin 2007; _cites Bondar 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.010) | Table 1, p. 3, row 3; `ORC-AAEJIGG7UU` |  |
 | 1848.15 | eutectic: L ↔ (βTi) + Ti3 Sn |  | experimental | [1] Yin 2007; _cites Bondar 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.010) | p. 2; `ORC-UNFFB3XS7X` | “More recently, Bondar et al. \[24\] investigated the phase transformation of Ti81.5 Sn18.5 alloy by DTA and found the temperature of eutectic reaction of L ↔ (βTi) + Ti3 Sn is 1575 ◦ C, which is much lower than that of Pietrokowsky and Frink \[17\].” |
 | 1847.15 | eutectic: L \<-> (βTi) + Ti3Sn | L: Sn 0.159; (βTi): Sn 0.136; Ti3Sn: Sn 0.228 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 4; `ORC-W5CUII5CJE` |  |
-| 1835.9 | peritectic: Liquid + SnTi3 -> SnTi2 | L: Ti 0.659; SnTi3: Ti 0.75; SnTi2: Ti 0.667 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 4; `ORC-B3TEP6NGFN` |  |
+| 1835.9 | peritectic: Liquid + SnTi3 -> SnTi2 | L: Ti 0.659; SnTi3: Ti 0.75; SnTi2: Ti 0.667 | model | [2] (ed.) 1998 | Table I, p. 302, row 4; `ORC-B3TEP6NGFN` |  |
 | 1825.15 | peritectic: L + Ti3Sn \<-> Ti2Sn | L: Sn 0.355; Ti3Sn: Sn 0.25; Ti2Sn: Sn 0.327 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 17; `ORC-NKYRNHHZSS` |  |
-| 1825.15 | peritectic |  | experimental | [1] Yin 2007 | p. 2; `ORC-RI2BIHWR7D.bc09a9` | “Ti2 Sn and Ti5 Sn3 are formed by peritectic reaction at 1552 ◦ C and 1510 ◦ C.” |
 | 1821.15 | peritectic: L + Ti3Sn \<-> Ti2Sn | L: Sn 0.35; Ti3Sn: Sn 0.232; Ti2Sn: Sn 0.327 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 18; `ORC-CSJ6WKIDQP` |  |
 | 1784.15 | peritectic: L + Ti2Sn \<-> Ti5Sn3 | L: Sn 0.401; Ti2Sn: Sn 0.355; Ti5Sn3: Sn 0.375 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 20; `ORC-77J6ZDUXAS` |  |
 | 1783.15 | peritectic: L + Ti2Sn \<-> Ti5Sn3 | L: Sn 0.38; Ti2Sn: Sn 0.359; Ti5Sn3: Sn 0.375 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 19; `ORC-HRH5QWBCAM` |  |
-| 1783.15 | peritectic |  | experimental | [1] Yin 2007 | p. 2; `ORC-RI2BIHWR7D.dbfb5e` | “Ti2 Sn and Ti5 Sn3 are formed by peritectic reaction at 1552 ◦ C and 1510 ◦ C.” |
-| 1774.7 | peritectic: Liquid + SnTi2 -> + Sn3Ti5 | L: Ti 0.589; SnTi2: Ti 0.667; Sn3Ti5: Ti 0.625 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 5; `ORC-GKQH4ZSNJI` |  |
+| 1774.7 | peritectic: Liquid + SnTi2 -> + Sn3Ti5 | L: Ti 0.589; SnTi2: Ti 0.667; Sn3Ti5: Ti 0.625 | model | [2] (ed.) 1998 | Table I, p. 302, row 5; `ORC-GKQH4ZSNJI` |  |
 | 1767.15 | congruent melting: L \<-> Ti6Sn5 | Ti6Sn5: Sn 0.455 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 23; `ORC-U2HASA23HU` |  |
 | 1763.15 | congruent melting: L \<-> Ti6Sn5 | Ti6Sn5: Sn 0.455 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 24; `ORC-TT5H457OFU` |  |
 | 1760.15 | eutectic: L \<-> Ti5Sn3 + Ti6Sn5 | L: Sn 0.437; Ti5Sn3: Sn 0.375; Ti6Sn5: Sn 0.455 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 22; `ORC-V6RTIC7RCG` |  |
-| 1748.15 | eutectic: L ↔ Ti5 Sn3 + Ti6 Sn5 |  | experimental | [1] Yin 2007 | p. 2; `ORC-27FUIJ626C.8c0bc8` | “The two following eutectic reactions occur: L ↔ (βTi) + Ti3 Sn (1607 ◦ C), L ↔ Ti5 Sn3 + Ti6 Sn5 (1475 ◦ C).” |
 | 1748.15 | eutectic: L \<-> Ti5Sn3 + Ti6Sn5 | L: Sn 0.39; Ti5Sn3: Sn 0.375; Ti6Sn5: Sn 0.455 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 21; `ORC-MX6JK4FGIM` |  |
-| 1746.9 | eutectic: Liquid -> Sn5Ti6 + Sn3Ti5 | L: Ti 0.561; Sn5Ti6: Ti 0.545; Sn3Ti5: Ti 0.625 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 6; `ORC-QLGUFYAQRL` |  |
+| 1746.9 | eutectic: Liquid -> Sn5Ti6 + Sn3Ti5 | L: Ti 0.561; Sn5Ti6: Ti 0.545; Sn3Ti5: Ti 0.625 | model | [2] (ed.) 1998 | Table I, p. 302, row 6; `ORC-QLGUFYAQRL` |  |
 | 1213.15 | (βTi) + Ti3Sn \<-> (αTi) | (βTi): Sn 0.083; Ti3Sn: Sn 0.23; (αTi): Sn 0.087 | experimental | [1] Yin 2007; _cites Finlay 1954_ | Table 1, p. 3, row 10; `ORC-36E6UKVRCZ` |  |
 | 1213.15 | (βTi) + Ti3Sn \<-> (αTi) | (βTi): Sn 0.09; Ti3Sn: Sn 0.23; (αTi): Sn 0.125 | experimental | [1] Yin 2007; _cites McQuillan 1955_ | Table 1, p. 3, row 7; `ORC-R3IOQBOZIY` |  |
-| 1163.3 | peritectic: bcc-A2 + SnTi3 -> hcp-A3 | bcc-A2: Ti 0.913; SnTi3: Ti 0.75; hcp-A3: Ti 0.912 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 1; `ORC-SAUBTGHNUZ` |  |
+| 1163.3 | peritectic: bcc-A2 + SnTi3 -> hcp-A3 | bcc-A2: Ti 0.913; SnTi3: Ti 0.75; hcp-A3: Ti 0.912 | model | [2] (ed.) 1998 | Table I, p. 302, row 1; `ORC-SAUBTGHNUZ` |  |
 | 1158.15 | (βTi) + Ti3Sn \<-> (αTi) | Ti3Sn: Sn 0.25, Ti 0.75 | experimental | [1] Yin 2007; _cites Bondar 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.010) | Table 1, p. 3, row 8; `ORC-5EUNU2OA2W` |  |
 | 1154.15 | (βTi) + Ti3Sn \<-> (αTi) | (βTi): Sn 0.108; Ti3Sn: Sn 0.239; (αTi): Sn 0.114 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 12; `ORC-TUOXYPXZRI` |  |
 | 1153.15 | (βTi) + Ti3Sn \<-> (αTi) | (βTi): Sn 0.105; Ti3Sn: Sn 0.25 | experimental | [1] Yin 2007; _cites Worner 1953_ | Table 1, p. 3, row 9; `ORC-V3D5U7ZLSX` |  |
 | 1137.15 | (βTi) + Ti3Sn \<-> (αTi) | (βTi): Sn 0.095; Ti3Sn: Sn 0.25; (αTi): Sn 0.085 | experimental | [1] Yin 2007; _cites Pietrokowsky 1958_ | Table 1, p. 3, row 11; `ORC-Y6A6LUKAKE` |  |
-| 1118.15 | (βTi) \<-> (αTi) | (αTi): Sn 0.065 | experimental | [1] Yin 2007; _cites McQuillan 1957_ | Table 1, p. 3, row 14; `ORC-B5S2JX7RL2` |  |
-| 1118.15 | (βTi) \<-> (αTi) | (αTi): Sn 0.05 | experimental | [1] Yin 2007; _cites Worner 1953_ | Table 1, p. 3, row 13; `ORC-STD4B4GG2I` |  |
-| 1115.15 | (βTi) \<-> (αTi) | (αTi): Sn 0.067 | experimental | [1] Yin 2007; _cites Glazova 1960_ | Table 1, p. 3, row 15; `ORC-7QIPFBDUUX` |  |
-| 1114.15 | (βTi) \<-> (αTi) | (αTi): Sn 0.058 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 16; `ORC-3Z66JNWLOK` |  |
+| 1118.15 | polymorphic: (βTi) \<-> (αTi) | (αTi): Sn 0.065 | experimental | [1] Yin 2007; _cites McQuillan 1957_ | Table 1, p. 3, row 14; `ORC-B5S2JX7RL2` |  |
+| 1118.15 | polymorphic: (βTi) \<-> (αTi) | (αTi): Sn 0.05 | experimental | [1] Yin 2007; _cites Worner 1953_ | Table 1, p. 3, row 13; `ORC-STD4B4GG2I` |  |
+| 1115.15 | polymorphic: (βTi) \<-> (αTi) | (αTi): Sn 0.067 | experimental | [1] Yin 2007; _cites Glazova 1960_ | Table 1, p. 3, row 15; `ORC-7QIPFBDUUX` |  |
+| 1114.15 | polymorphic: (βTi) \<-> (αTi) | (αTi): Sn 0.058 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 16; `ORC-3Z66JNWLOK` |  |
 | 1063.15 | peritectic: L + Ti6Sn5 \<-> Ti2Sn3 | L: Sn 0.8; Ti6Sn5: Sn 0.454545, Ti 0.545455; Ti2Sn3: Sn 0.6, Ti 0.4 | experimental | [1] Yin 2007; _cites Eremenko 1962_ | Table 1, p. 3, row 26; `ORC-V3WJDLPMHK` |  |
 | 1024.15 | peritectic: L + Ti6Sn5 \<-> Ti2Sn3 | L: Sn 0.867; Ti6Sn5: Sn 0.455; Ti2Sn3: Sn 0.6 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 28; `ORC-JVLKJJOOEE` |  |
 | 1023.15 | peritectic: L + Ti6Sn5 \<-> Ti2Sn3 | L: Sn 0.86; Ti6Sn5: Sn 0.454545, Ti 0.545455; Ti2Sn3: Sn 0.6, Ti 0.4 | experimental | [1] Yin 2007 | Table 1, p. 3, row 27; `ORC-EYJMPTBCZP` |  |
 | 1023.15 | peritectic: L + Ti6Sn5 \<-> Ti2Sn3 | L: Sn 0.8; Ti6Sn5: Sn 0.454545, Ti 0.545455; Ti2Sn3: Sn 0.6 | experimental | [1] Yin 2007; _cites Ch 1998_ | Table 1, p. 3, row 25; `ORC-OY3IXFBDHG` |  |
 | 505.95 | eutectic: L \<-> Ti2Sn3 + (Sn) | Ti2Sn3: Sn 0.6, Ti 0.4 | experimental | [1] Yin 2007 | Table 1, p. 3, row 30; `ORC-CORCRSANQC` |  |
 | 505.05 | eutectic: L \<-> Ti2Sn3 + (Sn) | L: Sn 0.9999; Ti2Sn3: Sn 0.455; (Sn): Sn 1 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 31; `ORC-YAGWQKFR7E` |  |
-| 504.8 | other: Liquid -> bct-A5 + Sn5Ti6 | L: Ti 0.001; bct-A5: Ti 0; Sn5Ti6: Ti 0.545 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 8; `ORC-P5J5TWMJBC` |  |
+| 504.8 | other: Liquid -> bct-A5 + Sn5Ti6 | L: Ti 0.001; bct-A5: Ti 0; Sn5Ti6: Ti 0.545 | model | [2] (ed.) 1998 | Table I, p. 302, row 8; `ORC-P5J5TWMJBC` |  |
 | 504.15 | eutectic: L \<-> Ti2Sn3 + (Sn) | L: Sn 0.995; Ti2Sn3: Sn 0.455; (Sn): Sn 0.9998 | experimental | [1] Yin 2007; _cites Eremenko 1962_ | Table 1, p. 3, row 29; `ORC-PSKKXIEFTM` |  |
 
 ## Formation enthalpies
@@ -172,7 +168,7 @@ Table: Enthalpies of formation, Sn–Ti system (14)
 
 ## Other properties
 
-### Phase transition (13)
+### Phase transition (8)
 
 Table: Phase transition, Sn–Ti system
 
@@ -182,15 +178,10 @@ Table: Phase transition, Sn–Ti system
 | Phase transition | 504.65 K | 504.65 | eutectic: L ↔ Ti2Sn3 + (Sn); _alloy: Sn 0.85, Ti 0.15_ | experimental | [1] Yin 2007 | Table 2, p. 3, row 4; `ORC-MOTMVSM7HE` |  |
 | Phase transition | 1022.65 K | 1022.65 | peritectic: L + Ti6Sn5 ↔ Ti2Sn3; _alloy: Sn 0.8, Ti 0.2_ | experimental | [1] Yin 2007 | Table 2, p. 3, row 2; `ORC-EB4KNT2K2F` |  |
 | Phase transition | 1023.75 K | 1023.75 | peritectic: L + Ti6Sn5 ↔ Ti2Sn3; _alloy: Sn 0.85, Ti 0.15_ | experimental | [1] Yin 2007 | Table 2, p. 3, row 5; `ORC-6MYN2QBDMM` |  |
-| Phase transition | 1063.15 K | 1063.15 | polymorphic | experimental | [1] Yin 2007; _cites Vucht 1964_ | p. 2; `ORC-DTSYKEDCZZ` | “They determined an invariant transformation occurring about 790 ◦ C, but they did not establish its nature, which was believed to be the polymorphic transformation in Ti6 Sn5 by Vucht et al. \[26\].” |
-| Phase transition | 1115 K | 1115 | congruent transformation | experimental | [3] Liu 2005; _cites McQuillan 1955_ | p. 2; `ORC-GVBB26TYZX` | “Although the Ti-rich side is studied by different techniques \[8-12\], it can be concluded that -Ti transforms congruently into -Ti at about 6.7 at.% Sn and 1115 K \[10\].” |
 | Phase transition | 1137.15 K | 1137.15 | other: (βTi) ↔ (αTi) + Ti3 Sn | experimental | [1] Yin 2007 | p. 2; `ORC-OYBETOKB4H` | “They reported a eutectoid reaction, (βTi) ↔ (αTi) + Ti3 Sn, occurring at 864 ◦ C.” |
-| Phase transition | 1163 K | 1163 |  -Ti þ SnTi3 , -Ti | experimental | [3] Liu 2005; _cites Kornilov 1960_ | p. 2; `ORC-EV3YQ5TM56` | “The value 1163 K, obtained from the thermal analysis and the metallographic studies \[12\], is preferred and used in the present work.” |
-| Phase transition | 1750 K | 1750 | congruent melting: Sn5Ti6 -> Liquid; _Sn5Ti6: Ti 0.545; L: Ti 0.545_ | model | [2] Hämäläinen 1998 | Table I, p. 302, row 7; `ORC-CCUU3KWUSJ` |  |
-| Phase transition | 1767.15 K | 1767.15 | congruent transformation | experimental | [1] Yin 2007 | p. 2; `ORC-C2HISE735W.6bb8e0` | “Ti3 Sn and Ti6 Sn5 are congruently melting at 1663 ◦ C and 1494 ◦ C.” |
+| Phase transition | 1750 K | 1750 | congruent melting: Sn5Ti6 -> Liquid; _Sn5Ti6: Ti 0.545; L: Ti 0.545_ | model | [2] (ed.) 1998 | Table I, p. 302, row 7; `ORC-CCUU3KWUSJ` |  |
 | Phase transition | 1848.15 K | 1848.15 | L ↔ bcc(Ti)+ SnTi3 | experimental | [4] Wang 2011; _cites Bondar 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.010) | p. 5; `ORC-GOCUM3PEZI` | “Recently, Bondar et al. \[70\] determined the invariant reaction, L ↔ bcc(Ti)+ SnTi3 at 1575 °C through the Sn-81.5 at.% Ti alloy with the DTA method.” |
-| Phase transition | 1936.15 K | 1936.15 | congruent transformation | experimental | [1] Yin 2007 | p. 2; `ORC-C2HISE735W.599992` | “Ti3 Sn and Ti6 Sn5 are congruently melting at 1663 ◦ C and 1494 ◦ C.” |
-| Phase transition | 1947 K | 1947 | congruent melting: SnTi3 -> Liquid; _SnTi3: Ti 0.75; L: Ti 0.75_ | model | [2] Hämäläinen 1998 | Table I, p. 302, row 3; `ORC-7VHYJIEIY3` |  |
+| Phase transition | 1947 K | 1947 | congruent melting: SnTi3 -> Liquid; _SnTi3: Ti 0.75; L: Ti 0.75_ | model | [2] (ed.) 1998 | Table I, p. 302, row 3; `ORC-7VHYJIEIY3` |  |
 
 ### Phase equilibrium (2)
 
@@ -206,7 +197,7 @@ Table: Phase equilibrium, Sn–Ti system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Fucheng Yin, Jean-Claude Tedenac, Franck Gascoin, Thermodynamic modelling of the Ti–Sn system and calculation of the Co–Ti–Sn system, Calphad 31, 370-379 (2007). [doi:10.1016/j.calphad.2007.01.003](https://doi.org/10.1016/j.calphad.2007.01.003)
-2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+2. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 3. Chunlei Liu, Ulrich E. Klotz, Peter J. Uggowitzer, Jörg F. Löffler, Thermodynamic Assessment of the Sn–Ti System, Monatsh. Chem. 136, 1921-1930 (2005). [doi:10.1007/s00706-005-0392-x](https://doi.org/10.1007/s00706-005-0392-x)
 4. Jiang Wang, Chunlei Liu, Christian Leinenbach, Ulrich E. Klotz, Peter J. Uggowitzer, Jörg F. Löffler, Experimental investigation and thermodynamic assessment of the Cu–Sn–Ti ternary system, Calphad 35, 82-94 (2011). [doi:10.1016/j.calphad.2010.12.006](https://doi.org/10.1016/j.calphad.2010.12.006)
 

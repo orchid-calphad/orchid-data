@@ -47,14 +47,14 @@ Table: Uncertainty budget of the literature values of Si3Ta5
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -54.937 | kJ/mol-atom |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -52.423 | kJ/mol-atom |  | 5.000e-5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -41.9 | kJ/mol-atom |  | 5.000e-5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -52.423 | kJ/mol-atom |  | 5.000e-5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -41.9 | kJ/mol-atom |  | 5.000e-5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -41.8 | kJ/mol-atom | 7.8 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 7.8 |
 | -39.7 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -39.7 | kJ/mol-atom |  | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -39.7 | kJ/mol-atom |  | 5.000e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -38.1 | kJ/mol-atom | 1.7 | 5.000e-5 | 2 (dsc_dta, prior) |  |  |  | 2 |
 | -38.1 | kJ/mol-atom | 1.7 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -38.1 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -38.1 | kJ/mol-atom |  | 5.000e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -37.7 | kJ/mol-atom | 4.7 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 4.7 |
 | -37.7 | kJ/mol-atom |  | 5.000e-4 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -56.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
@@ -65,7 +65,7 @@ Table: Uncertainty budget of the literature values of Si3Ta5
 | -52.3807 | kJ/mol-atom |  | 5.000e-8 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -52.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -51.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -56.15 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -56.15 | kJ/mol-atom |  | 5.000e-5 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 | -59.8 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -55.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -48.1 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |

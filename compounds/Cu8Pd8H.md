@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Cu8Pd8H
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -12.52 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -12.52 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## Sources
 

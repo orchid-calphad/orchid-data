@@ -1,10 +1,10 @@
 # In–Ni–Sb system
 
-> In–Ni–Sb system: 25 accepted literature values (invariant reaction 25) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Ni–Sb system: 23 accepted literature values (invariant reaction 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-NI-SB.html · Markdown: https://data.orchid-project.org/systems/IN-NI-SB.md
 
-25 accepted literature values from 1 paper(s) (experimental 10, model 15); 0 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (experimental 9, model 14); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-NI-SB.json) · [CSV](https://data.orchid-project.org/systems/IN-NI-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-NI-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-NI-SB.html) · [Markdown](https://data.orchid-project.org/systems/IN-NI-SB.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
-| model | 15 |
+| experimental | 9 |
+| model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 25 |
+| invariant reaction | 23 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the In–Ni–Sb system (25)
+Table: Invariant reactions reported in the literature for the In–Ni–Sb system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -39,11 +39,9 @@ Table: Invariant reactions reported in the literature for the In–Ni–Sb syste
 | 1078.15 | quasi-peritectic: L + γ = ε + ζ | L: In 0.53, Ni 0.36 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 11; `ORC-WLKOGSRBV4` |  |
 | 1077.15 | quasi-peritectic: L + γ = ε + ζ | L: In 0.65, Ni 0.26 | model | [1] Cao 2013 | Table VI, p. 13, row 10; `ORC-BC45RXOMJT` |  |
 | 795.15 | eutectic: L = InSb + ζ | L: In 0.484, Ni 0.016 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 13; `ORC-QLQ35EWMMG` |  |
-| 793.15 | eutectic: quasibinary eutectic reaction between stoichiometric NiSb and InSb |  | experimental | [1] Cao 2013; _cites Muller 1967_ [doi](https://doi.org/10.1016/0025-5408%2867%2990074-8) | p. 2; `ORC-WVUYZVCP2R` | “Müller and Wilhelm26 studied a vertical section of the system at 50 at.% Sb and reported a quasibinary eutectic reaction between stoichiometric NiSb and InSb at 520C.” |
 | 790.15 | quasi-peritectic: L + ζ = InSb + NiSb2 | L: In 0.357, Ni 0.015 | model | [1] Cao 2013 | Table VI, p. 13, row 14; `ORC-OABUMZNMW6` |  |
 | 777.15 | quasi-peritectic: L + ζ = InSb + NiSb2 | L: In 0.335, Ni 0.015 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 15; `ORC-SBANIU2PAP` |  |
 | 773.15 | eutectic: L = InSb + ζ | L: In 0.38, Ni 0.016 | model | [1] Cao 2013 | Table VI, p. 13, row 12; `ORC-5IHOLMLJJZ` |  |
-| 773.15 | eutectic |  | model | [1] Cao 2013 | p. 11; `ORC-ZRDIZZAEUS` | “Figure 10 shows the calculated vertical section of NiSb-InSb at 50 at.% Sb. A quasibinary eutectic reaction is obtained at 500C, which is lower than the experimental data.26” |
 | 773.15 | eutectic: L = InSb + NiSb2 + Sb | L: In 0.29, Ni 0.0095 | model | [1] Cao 2013 | Table VI, p. 13, row 16; `ORC-ZSNVYGMRBB` |  |
 | 765.15 | eutectic: L = InSb + NiSb2 + Sb | L: In 0.31, Ni 0.01 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 17; `ORC-7BWR5X5S2P` |  |
 | 721.15 | peritectic: ζ + ε + L = η | L: In 0.9, Ni 0.05 | experimental | [1] Cao 2013; _cites Richter 1998_ [doi](https://doi.org/10.1016/s0921-5107%2898%2900191-3) | Table VI, p. 13, row 19; `ORC-4ZQKEU7BYX` |  |

@@ -241,7 +241,7 @@
     "x0": 0.0689,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (Al) + Al3Pd",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

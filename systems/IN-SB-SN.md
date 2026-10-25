@@ -1,10 +1,10 @@
 # In–Sb–Sn system
 
-> In–Sb–Sn system: 19 accepted literature values (invariant reaction 15, phase transition 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Sb–Sn system: 15 accepted literature values (invariant reaction 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-SB-SN.html · Markdown: https://data.orchid-project.org/systems/IN-SB-SN.md
 
-19 accepted literature values from 1 paper(s) (experimental 8, model 11); 0 calculated phase diagram(s).
+15 accepted literature values from 1 paper(s) (experimental 7, model 8); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SB-SN.json) · [CSV](https://data.orchid-project.org/systems/IN-SB-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SB-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-SB-SN.html) · [Markdown](https://data.orchid-project.org/systems/IN-SB-SN.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 11 |
+| experimental | 7 |
+| model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 15 |
-| phase transition | 4 |
 
 ## Invariant reactions (literature)
 
@@ -43,19 +42,6 @@ Table: Invariant reactions reported in the literature for the In–Sb–Sn syste
 | 413 | quasi-peritectic: L+(In)->InSb+(βInSn) | L: Sb 0.002, Sn 0.144 | model | [1] Lysenko 2019 | Table 3, p. 7, row 12; `ORC-LZDR6UWYBY` |  |
 | 392 | eutectic: L->InSb+(βInSn)+(γInSn) |  | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | Table 3, p. 7, row 15; `ORC-K22EOLAGIS` |  |
 | 391 | eutectic: L->InSb+(βInSn)+(γInSn) | L: Sb 0.001, Sn 0.476 | model | [1] Lysenko 2019 | Table 3, p. 7, row 14; `ORC-NBKFFPFTBT` |  |
-
-## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, In–Sb–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 512 K | 512 | Lþ(Sb2Sn3)4 InSbþ(Sn) | model | [1] Lysenko 2019 | p. 7; `ORC-FQ5WULQJOP.b9aaed` | “The calculated solubility of In in the (Sb2Sn3) phase, which participate in some of these equilibria, is equal to 4.0 at. % (Lþ(SbSn)4InSbþ(Sb2Sn3), 603 K) and 1.7 at. % (Lþ(Sb2Sn3)4 InSbþ(Sn), 512 K).” |
-| Phase transition | 603 K | 603 | Lþ(SbSn)4InSbþ(Sb2Sn3) | model | [1] Lysenko 2019 | p. 7; `ORC-FQ5WULQJOP.74789b` | “The calculated solubility of In in the (Sb2Sn3) phase, which participate in some of these equilibria, is equal to 4.0 at. % (Lþ(SbSn)4InSbþ(Sb2Sn3), 603 K) and 1.7 at. % (Lþ(Sb2Sn3)4 InSbþ(Sn), 512 K).” |
-| Phase transition | 663 K | 663 | L + (Sb) = InSb + (SbSn) | model | [1] Lysenko 2019; _cites Manasijevi 2008_ | p. 2; `ORC-GT3CZCRYTK.f121a1` | “In addition, the liquidus surface projection for the In-Sb-Sn system was not reported in Ref. \[12\] and information on the invariant equilibria in this system was also not given, except the equilibrium Lþ(Sb)4InSbþ(SbSn). According to Table 6 and Fig. 3b of \[12\], the temperature of this equilibria is 663 K that differs significantly from the value determined in Ref. \[20\] (680 K).” |
-| Phase transition | 680 K | 680 | L + (Sb) = InSb + (SbSn) | experimental | [1] Lysenko 2019; _cites Legendre 2001_ | p. 2; `ORC-GT3CZCRYTK.6d69ea` | “In addition, the liquidus surface projection for the In-Sb-Sn system was not reported in Ref. \[12\] and information on the invariant equilibria in this system was also not given, except the equilibrium Lþ(Sb)4InSbþ(SbSn). According to Table 6 and Fig. 3b of \[12\], the temperature of this equilibria is 663 K that differs significantly from the value determined in Ref. \[20\] (680 K).” |
 
 ## Sources
 

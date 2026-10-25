@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of Bi4Cs5
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -38.3 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -34.933 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -36.683 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -36.683 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

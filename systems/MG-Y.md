@@ -1,10 +1,10 @@
 # Mg–Y system
 
-> Mg–Y system: 55 accepted literature values (invariant reaction 27, crystal structure 12, formation 10, activity / EMF / Gibbs energy 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Y system: 53 accepted literature values (invariant reaction 25, crystal structure 12, formation 10, activity / EMF / Gibbs energy 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-Y.html · Markdown: https://data.orchid-project.org/systems/MG-Y.md
 
-55 accepted literature values from 5 paper(s) (experimental 22, model 23, unspecified 10); 4 calculated phase diagram(s).
+53 accepted literature values from 5 paper(s) (experimental 20, model 28, unspecified 5); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-Y.json) · [CSV](https://data.orchid-project.org/systems/MG-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-Y/MgY-03Fab-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MG-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-Y.html) · [Markdown](https://data.orchid-project.org/systems/MG-Y.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
-| model | 23 |
-| unspecified | 10 |
+| experimental | 20 |
+| model | 28 |
+| unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
+| invariant reaction | 25 |
 | formation | 10 |
 | activity / EMF / Gibbs energy | 6 |
 | crystal structure | 12 |
@@ -84,36 +84,34 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Y system (27)
+Table: Invariant reactions reported in the literature for the Mg–Y system (25)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1215 | peritectic: L + (βY) -> Y1-xMg | L: Y 0.472; (βY): Y 0.58; Y1-xMg: Y 0.498 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 2; `ORC-2N5GWYYYM6` |  |
-| 1213.3 | peritectic: Liquid + bcc-A2 -> MgY | L: Y 0.466; bcc-A2: Y 0.588; MgY: Y 0.494 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 1; `ORC-M4CVV44NGQ` |  |
+| 1213.3 | peritectic: Liquid + bcc-A2 -> MgY | L: Y 0.466; bcc-A2: Y 0.588; MgY: Y 0.494 | model | [2] (ed.) 1998 | Table I, p. 242, row 1; `ORC-M4CVV44NGQ` |  |
 | 1213 | peritectic: L + (βY) -> Y1-xMg | L: Y 0.466; (βY): Y 0.588; Y1-xMg: Y 0.494 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 1; `ORC-PG3CQZ6MKZ` |  |
-| 1213 | liq. -> MgY + bcc(Y) | liq.: Y 0.45; MgY: Y 0.5; bcc(Y): Y 0.605 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 4; `ORC-RUALSANOWZ` |  |
-| 1213 | liq. -> MgY + bcc(Y) | liq.: Y 0.4805; MgY: Y 0.5; bcc(Y): Y 0.6023 | model | [3] Guo 2007 | Table 2, p. 8, row 3; `ORC-SHKLQ3BHYP` |  |
-| 1058.5 | peritectic: Liquid + MgY -> Mg2Y | L: Y 0.276; MgY: Y 0.474; Mg2Y: Y 0.333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 2; `ORC-6FFFRWZSC3` |  |
+| 1213 | eutectic: liq. -> MgY + bcc(Y) | liq.: Y 0.45; MgY: Y 0.5; bcc(Y): Y 0.605 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 4; `ORC-RUALSANOWZ` |  |
+| 1213 | eutectic: liq. -> MgY + bcc(Y) | liq.: Y 0.4805; MgY: Y 0.5; bcc(Y): Y 0.6023 | model | [3] Guo 2007 | Table 2, p. 8, row 3; `ORC-SHKLQ3BHYP` |  |
+| 1058.5 | peritectic: Liquid + MgY -> Mg2Y | L: Y 0.276; MgY: Y 0.474; Mg2Y: Y 0.333 | model | [2] (ed.) 1998 | Table I, p. 242, row 2; `ORC-6FFFRWZSC3` |  |
 | 1058 | peritectic: L + Y1-xMg -> Y1-xMg2 | L: Y 0.276; Y1-xMg: Y 0.474; Y1-xMg2: Y 0.333 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 3; `ORC-QKDL2FZDIY` |  |
 | 1058 | liq. + MgY -> Mg2Y | liq.: Y 0.3096; MgY: Y 0.463; Mg2Y: Y 0.3278 | model | [3] Guo 2007 | Table 2, p. 8, row 5; `ORC-UJWJV4WZ2C` |  |
 | 1056 | peritectic: L + Y1-xMg -> Y1-xMg2 | L: Y 0.289; Y1-xMg: Y 0.466; Y1-xMg2: Y 0.323 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 4; `ORC-NZWAQ6WUD2` |  |
 | 1053 | liq. + MgY -> Mg2Y | liq.: Y 0.263; MgY: Y 0.48; Mg2Y: Y 0.333 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 6; `ORC-7M7U7FCPYG` |  |
-| 1048.15 | eutectic |  | experimental | [4] Shakhshir 2006 | p. 3; `ORC-4THV5QWOUC.e38810` | “A eutectic reaction was identified at 74 wt.% Mg and 567 °C, and a eutectoid reaction associated with an allotropic transformation in Y at 11 wt.% Mg and 775 °C.” |
 | 1048 | bcc(Y) -> MgY + hcp(Y) | bcc(Y): Y 0.69; MgY: Y 0.5; hcp(Y): Y 0.84 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 2; `ORC-5P2NNWKCZS` |  |
-| 1048 | eutectoid: bcc-A2 -> MgY + hcp-A3 | bcc-A2: Y 0.717; MgY: Y 0.499; hcp-A3: Y 0.841 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 5; `ORC-ASST75ANHJ` |  |
+| 1048 | eutectoid: bcc-A2 -> MgY + hcp-A3 | bcc-A2: Y 0.717; MgY: Y 0.499; hcp-A3: Y 0.841 | model | [2] (ed.) 1998 | Table I, p. 242, row 5; `ORC-ASST75ANHJ` |  |
 | 1048 | eutectoid: (βY) -> (αY) + Y1-xMg | (βY): Y 0.717; (αY): Y 0.841; Y1-xMg: Y 0.499 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 5; `ORC-OCPY52HA6I` |  |
 | 1048 | bcc(Y) -> MgY + hcp(Y) | bcc(Y): Y 0.6876; MgY: Y 0.508; hcp(Y): Y 0.7717 | model | [3] Guo 2007 | Table 2, p. 8, row 1; `ORC-RSLBJKCSEW` |  |
 | 1047 | eutectoid: (βY) -> (αY) + Y1-xMg | (βY): Y 0.69; (αY): Y 0.797; Y1-xMg: Y 0.505 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 6; `ORC-KTZKOVBDUM` |  |
 | 890 | peritectic: L + Y1-xMg2 -> Y5-xMg24 | L: Y 0.146; Y1-xMg2: Y 0.26; Y5-xMg24: Y 0.163 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 7; `ORC-52SKPQHGYX` |  |
 | 890 | liq. + Mg2Y -> Mg24Y5 | liq.: Y 0.125; Mg2Y: Y 0.26; Mg24Y5: Y 0.172 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 8; `ORC-P2ZSUNE4VE` |  |
-| 889.4 | peritectic: Liquid+ Mg2Y -> Mg24Y5 | L: Y 0.146; Mg2Y: Y 0.333; Mg24Y5: Y 0.163 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 3; `ORC-6GMPET4UDS` |  |
+| 889.4 | peritectic: Liquid+ Mg2Y -> Mg24Y5 | L: Y 0.146; Mg2Y: Y 0.333; Mg24Y5: Y 0.163 | model | [2] (ed.) 1998 | Table I, p. 242, row 3; `ORC-6GMPET4UDS` |  |
 | 889 | liq. + Mg2Y -> Mg24Y5 | liq.: Y 0.1448; Mg2Y: Y 0.2659; Mg24Y5: Y 0.163 | model | [3] Guo 2007 | Table 2, p. 8, row 7; `ORC-75RDNUD7JW` |  |
 | 881 | peritectic: L + Y1-xMg2 -> Y5-xMg24 | L: Y 0.141; Y1-xMg2: Y 0.264; Y5-xMg24: Y 0.16 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 8; `ORC-ADARSIZUWL` |  |
-| 847.6 | eutectic: Liquid -> hcp-A3 + Mg24Y5 | L: Y 0.082; hcp-A3: Y 0.042; Mg24Y5: Y 0.136 | unspecified | [2] Hämäläinen 1998 | Table I, p. 242, row 4; `ORC-PYC2MC5W7H` |  |
+| 847.6 | eutectic: Liquid -> hcp-A3 + Mg24Y5 | L: Y 0.082; hcp-A3: Y 0.042; Mg24Y5: Y 0.136 | model | [2] (ed.) 1998 | Table I, p. 242, row 4; `ORC-PYC2MC5W7H` |  |
 | 845 | eutectic: L -> Y5-xMg24 + (Mg) | L: Y 0.082; Y5-xMg24: Y 0.135; (Mg): Y 0.035 | model | [1] Fabrichnaya 2003 | Table 3, p. 4, row 10; `ORC-4YKJPHSBVX` |  |
-| 841 | liq. -> Mg24Y5 + hcp(Mg) | liq.: Y 0.0845; Mg24Y5: Y 0.141; hcp(Mg): Y 0.0363 | model | [3] Guo 2007 | Table 2, p. 8, row 9; `ORC-BBX5RTGV7Z` |  |
-| 840.15 | eutectic |  | experimental | [4] Shakhshir 2006 | p. 3; `ORC-4THV5QWOUC.5b9a26` | “A eutectic reaction was identified at 74 wt.% Mg and 567 °C, and a eutectoid reaction associated with an allotropic transformation in Y at 11 wt.% Mg and 775 °C.” |
-| 839 | liq. -> Mg24Y5 + hcp(Mg) | liq.: Y 0.089; Mg24Y5: Y 0.14; hcp(Mg): Y 0.038 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 10; `ORC-B643XZGLXZ` |  |
+| 841 | eutectic: liq. -> Mg24Y5 + hcp(Mg) | liq.: Y 0.0845; Mg24Y5: Y 0.141; hcp(Mg): Y 0.0363 | model | [3] Guo 2007 | Table 2, p. 8, row 9; `ORC-BBX5RTGV7Z` |  |
+| 839 | eutectic: liq. -> Mg24Y5 + hcp(Mg) | liq.: Y 0.089; Mg24Y5: Y 0.14; hcp(Mg): Y 0.038 | experimental | [3] Guo 2007; _cites Nayeb-Hashemi 1988_ | Table 2, p. 8, row 10; `ORC-B643XZGLXZ` |  |
 | 839 | eutectic: L -> Y5-xMg24 + (Mg) | L: Y 0.089; Y5-xMg24: Y 0.135; (Mg): Y 0.0375 | experimental | [1] Fabrichnaya 2003; _cites Fabrichnaya_ | Table 3, p. 4, row 9; `ORC-FL5TISBU26` |  |
 
 ## Formation enthalpies
@@ -156,28 +154,28 @@ Table: Crystal structure, Mg–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 11.257 Å | 298.15 | Mg24Y5 (ε); _alloy: Y 0.172414_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 1; `ORC-CLNULQGL5Y` |  |
-| Lattice a | 6.037 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.0631ad` |  |
-| Lattice a | 3.796 Å | 298.15 | MgY; _alloy: Y 0.5_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 3; `ORC-LBTYM2GOGU` |  |
-| Lattice a | 3.81 Å | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.4967c8` |  |
-| Lattice a | 3.81 Å | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.9fbf52` |  |
-| Lattice c | 9.752 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.b7aaf8` |  |
-| lattice alpha | 90 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.f888a6` |  |
-| lattice beta | 90 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.145c69` |  |
-| lattice gamma | 120 ° | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.98f087` |  |
-| lattice gamma | 120 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.0967f3` |  |
-| lattice unspecified angle | 120 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.065832` |  |
-| lattice unspecified angle | 90 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.0744c4` |  |
+| Lattice a | 11.257 Å | 298.15 | Mg24Y5 (ε); _alloy: Y 0.172414_ | unspecified | [4] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 1; `ORC-CLNULQGL5Y` |  |
+| Lattice a | 6.037 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [4] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.0631ad` |  |
+| Lattice a | 3.796 Å | 298.15 | MgY; _alloy: Y 0.5_ | unspecified | [4] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 3; `ORC-LBTYM2GOGU` |  |
+| Lattice a | 3.81 Å | 298.15 | UNKNOWN | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.4967c8` |  |
+| Lattice a | 3.81 Å | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.9fbf52` |  |
+| Lattice c | 9.752 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [4] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.b7aaf8` |  |
+| lattice alpha | 90 ° | 298.15 | UNKNOWN | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.f888a6` |  |
+| lattice beta | 90 ° | 298.15 | UNKNOWN | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.145c69` |  |
+| lattice gamma | 120 ° | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [4] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.98f087` |  |
+| lattice gamma | 120 ° | 298.15 | UNKNOWN | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.0967f3` |  |
+| lattice unspecified angle | 120 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.065832` |  |
+| lattice unspecified angle | 90 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.0744c4` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. O.B Fabrichnaya, H.L Lukas, G Effenberg, F Aldinger, Thermodynamic optimization in the Mg–Y system, Intermetallics 11, 1183-1188 (2003). [doi:10.1016/s0966-9795(03)00156-0](https://doi.org/10.1016/s0966-9795%2803%2900156-0)
-2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+2. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 3. Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Y system, Calphad 31, 75-88 (2007). [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004)
-4. S. Al Shakhshir, M. Medraj, Computational thermodynamic model for the Mg−Al−Y system, JPED 27, 231-244 (2006). [doi:10.1361/154770306x109782](https://doi.org/10.1361/154770306x109782)
-5. G. Shao, V. Varsani, Z. Fan, Thermodynamic modelling of the Y–Zn and Mg–Zn–Y systems, Calphad 30, 286-295 (2006). [doi:10.1016/j.calphad.2006.03.005](https://doi.org/10.1016/j.calphad.2006.03.005)
+4. G. Shao, V. Varsani, Z. Fan, Thermodynamic modelling of the Y–Zn and Mg–Zn–Y systems, Calphad 30, 286-295 (2006). [doi:10.1016/j.calphad.2006.03.005](https://doi.org/10.1016/j.calphad.2006.03.005)
+5. S. Al Shakhshir, M. Medraj, Computational thermodynamic model for the Mg−Al−Y system, JPED 27, 231-244 (2006). [doi:10.1361/154770306x109782](https://doi.org/10.1361/154770306x109782)
 
 ## Please cite
 

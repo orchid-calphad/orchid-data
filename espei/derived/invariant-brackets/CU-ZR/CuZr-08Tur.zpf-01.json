@@ -231,7 +231,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <=> CuZr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -249,7 +249,7 @@
     "x0": 0.6667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <=> CuZr2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -267,7 +267,7 @@
     "x0": 0.2154,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <=> Cu51Zr14",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -285,7 +285,7 @@
     "x0": 0.2154,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <=> Cu51Zr14",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

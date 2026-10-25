@@ -1,26 +1,12 @@
 # Nd–Sr system
 
-> Nd–Sr system: 4 accepted literature values (phase transition 2, invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nd–Sr system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ND-SR.html · Markdown: https://data.orchid-project.org/systems/ND-SR.md
 
-4 accepted literature values from 1 paper(s) (experimental 1, model 3); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ND-SR.json) · [CSV](https://data.orchid-project.org/systems/ND-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-SR/NdSr-13Xu.json) · [phases (5)](https://data.orchid-project.org/phases/pages/ND-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-SR.html) · [Markdown](https://data.orchid-project.org/systems/ND-SR.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-| model | 3 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 2 |
-| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -44,32 +30,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | NdSr-13Xu.tdb | 819.82 | DHCP (x(Sr) 0.01695) + BCC_A2 (x(Sr) 0.99997) + FCC_A1 (x(Sr) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/ND/ND-SR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/ND/ND-SR.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Nd–Sr system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1048 | eutectic: Liq fi DHCP + BCC_A2 |  | model | [1] Xu 2013 | p. 5; `ORC-UIUFNUCIOP.2d4aae` | “The reaction Liq fi DHCP + BCC_A2 is predicted to occur at 1048 K (775 C) rather than 1013 K (740 C) in order to avoid an ''improper'' deep eutectic valley\[13\] lying extremely close to pure Sr in view of an updated melting temperature of 1050 K (777 C) for Sr.\[14\]” |
-| 1013 | eutectic: Liq fi DHCP + BCC_A2 |  | model | [1] Xu 2013; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | p. 5; `ORC-UIUFNUCIOP.f91d55` | “The reaction Liq fi DHCP + BCC_A2 is predicted to occur at 1048 K (775 C) rather than 1013 K (740 C) in order to avoid an ''improper'' deep eutectic valley\[13\] lying extremely close to pure Sr in view of an updated melting temperature of 1050 K (777 C) for Sr.\[14\]” |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Nd–Sr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 860 K | 860 |  | experimental | [1] Xu 2013 | p. 3; `ORC-KGC76HHT56` | “The DSC curve in Figure 3(b) confirms that this alloy starts to melt at 860 K (587 C) higher than the melting temperature 839 K (566 C) of Alloy” |
-| Phase transition | 1050 K | 1050 |  | model | [1] Xu 2013; _cites SGTE 2001_ | p. 5; `ORC-UIUFNUCIOP.3a48cc` | “The reaction Liq fi DHCP + BCC_A2 is predicted to occur at 1048 K (775 C) rather than 1013 K (740 C) in order to avoid an ''improper'' deep eutectic valley\[13\] lying extremely close to pure Sr in view of an updated melting temperature of 1050 K (777 C) for Sr.\[14\]” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Guanglong Xu, Yuwen Cui, Lijun Zeng, Xiaoma Tao, Libin Liu, Zhanpeng Jin, Experimental Investigation and Thermodynamic Modeling for the Mg-Nd-Sr System, Metall Mater Trans A 44, 5634-5641 (2013). [doi:10.1007/s11661-013-2038-7](https://doi.org/10.1007/s11661-013-2038-7)
 
 ## Please cite
 

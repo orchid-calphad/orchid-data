@@ -1,10 +1,10 @@
 # Cr–Ti system
 
-> Cr–Ti system: 191 accepted literature values (invariant reaction 83, crystal structure 76, phase equilibrium 15, phase transition 12) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ti system: 190 accepted literature values (invariant reaction 83, crystal structure 76, phase equilibrium 15, phase transition 11) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-TI.html · Markdown: https://data.orchid-project.org/systems/CR-TI.md
 
-191 accepted literature values from 3 paper(s) (experimental 74, model 50, DFT 60, unspecified 7); 8 calculated phase diagram(s).
+190 accepted literature values from 3 paper(s) (experimental 73, model 50, DFT 60, unspecified 7); 8 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-TI.json) · [CSV](https://data.orchid-project.org/systems/CR-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-TI/CrTi-00Zhu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CR-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-TI.html) · [Markdown](https://data.orchid-project.org/systems/CR-TI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 74 |
+| experimental | 73 |
 | model | 50 |
 | DFT | 60 |
 | unspecified | 7 |
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 83 |
-| phase transition | 12 |
+| phase transition | 11 |
 | phase equilibrium | 15 |
 | formation | 5 |
 | crystal structure | 76 |
@@ -97,26 +97,26 @@ Table: Invariant reactions reported in the literature for the Cr–Ti system (83
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1688.15 | Liquid -> bcc |  | experimental | [1] Flores 2024; _cites Ohsaka 1992_ [doi](https://doi.org/10.1063/1.106450) | Table 4, p. 10, row 6; `ORC-TPHUBX7OYJ` |  |
-| 1685.15 | Liquid -> bcc |  | experimental | [1] Flores 2024; _cites Rudy 1969_ | Table 4, p. 10, row 5; `ORC-APWBGHUWKX` |  |
+| 1688.15 | congruent melting: Liquid -> bcc |  | experimental | [1] Flores 2024; _cites Ohsaka 1992_ [doi](https://doi.org/10.1063/1.106450) | Table 4, p. 10, row 6; `ORC-TPHUBX7OYJ` |  |
+| 1685.15 | congruent melting: Liquid -> bcc |  | experimental | [1] Flores 2024; _cites Rudy 1969_ | Table 4, p. 10, row 5; `ORC-APWBGHUWKX` |  |
 | 1685 | L -> β(Cr,Ti) | L: Ti 0.5645; β(Cr,Ti): Cr 0.5, Ti 0.5 | model | [2] Ghosh 2002 | Table 3, p. 8, row 4; `ORC-ZFGB7QVHMV` |  |
 | 1683 | L -> β(Cr,Ti) | L: Ti 0.56; β(Cr,Ti): Cr 0.5, Ti 0.5 | model | [2] Ghosh 2002; _cites Zhuang 2002_ | Table 3, p. 8, row 3; `ORC-BXKVWYI7EU` |  |
 | 1683 | L -> β(Cr,Ti) | L: Ti 0.56; β(Cr,Ti): Cr 0.5, Ti 0.5 | model | [2] Ghosh 2002; _cites Murray 1987_ | Table 3, p. 8, row 1; `ORC-W5H3QFKYSY` |  |
 | 1677 | L -> β(Cr,Ti) | L: Ti 0.573; β(Cr,Ti): Cr 0.5, Ti 0.5 | model | [2] Ghosh 2002; _cites Saunders 1994_ | Table 3, p. 8, row 2; `ORC-XC7OPOY44R` |  |
-| 1673.15 | Liquid -> bcc |  | experimental | [1] Flores 2024; _cites Kornilov 1957_ | Table 4, p. 10, row 4; `ORC-46KHCAIQ7I` |  |
-| 1673.15 | Liquid -> bcc |  | experimental | [1] Flores 2024; _cites Cuff 1952_ | Table 4, p. 10, row 3; `ORC-CU3SDYSMZE` |  |
-| 1673.15 | Liquid -> bcc |  | experimental | [1] Flores 2024; _cites McQuillan 1951_ | Table 4, p. 10, row 1; `ORC-M4CTDISIGD` |  |
-| 1653.15 | Liquid -> bcc |  | experimental | [1] Flores 2024; _cites R 2024_ | Table 4, p. 10, row 2; `ORC-KHF2MYDLDT` |  |
-| 1648.15 | bcc -> C14 |  | experimental | [1] Flores 2024; _cites Baumann 2012_ | Table 4, p. 10, row 12; `ORC-UARILV624E` |  |
-| 1645 | (βTi) -> γ-Cr2Ti | (βTi): Ti 0.333; γ-Cr2Ti: Cr 0.666667, Ti 0.333333 | model | [2] Ghosh 2002; _cites Saunders 1994_ | Table 3, p. 8, row 6; `ORC-UVLHYS4PKX` |  |
-| 1643 | (βTi) -> γ-Cr2Ti | (βTi): Ti 0.34; γ-Cr2Ti: Cr 0.666667, Ti 0.333333 | model | [2] Ghosh 2002; _cites Murray 1987_ | Table 3, p. 8, row 5; `ORC-7JQ2MZYBFY` |  |
-| 1643 | (βTi) -> γ-Cr2Ti | (βTi): Ti 0.3578; γ-Cr2Ti: Cr 0.666667, Ti 0.333333 | model | [2] Ghosh 2002 | Table 3, p. 8, row 8; `ORC-J5W4JFHOLE` |  |
-| 1638.15 | bcc -> C14 |  | experimental | [1] Flores 2024; _cites Farrar 1963_ | Table 4, p. 10, row 10; `ORC-TJ6LKOLS4B` |  |
-| 1633.15 | bcc -> C14 |  | experimental | [1] Flores 2024; _cites Svechnikov 1970_ | Table 4, p. 10, row 11; `ORC-PTUUKQTIRK` |  |
-| 1633.15 | bcc -> C14 |  | experimental | [1] Flores 2024; _cites McQuillan 1951_ | Table 4, p. 10, row 7; `ORC-S44JX4RGDK` |  |
-| 1632 | (βTi) -> γ-Cr2Ti | (βTi): Ti 0.354; γ-Cr2Ti: Cr 0.666667, Ti 0.333333 | model | [2] Ghosh 2002; _cites Zhuang 2002_ | Table 3, p. 8, row 7; `ORC-LSBV2YZNRX` |  |
-| 1623.15 | bcc -> C14 |  | experimental | [1] Flores 2024; _cites Cuff 1952_ | Table 4, p. 10, row 9; `ORC-4GNEMLIQXI` |  |
-| 1623.15 | bcc -> C14 |  | experimental | [1] Flores 2024; _cites R 2024_ | Table 4, p. 10, row 8; `ORC-FKWVSSJ7GO` |  |
+| 1673.15 | congruent melting: Liquid -> bcc |  | experimental | [1] Flores 2024; _cites Kornilov 1957_ | Table 4, p. 10, row 4; `ORC-46KHCAIQ7I` |  |
+| 1673.15 | congruent melting: Liquid -> bcc |  | experimental | [1] Flores 2024; _cites Cuff 1952_ | Table 4, p. 10, row 3; `ORC-CU3SDYSMZE` |  |
+| 1673.15 | congruent melting: Liquid -> bcc |  | experimental | [1] Flores 2024; _cites McQuillan 1951_ | Table 4, p. 10, row 1; `ORC-M4CTDISIGD` |  |
+| 1653.15 | congruent melting: Liquid -> bcc |  | experimental | [1] Flores 2024; _cites R 2024_ | Table 4, p. 10, row 2; `ORC-KHF2MYDLDT` |  |
+| 1648.15 | polymorphic: bcc -> C14 |  | experimental | [1] Flores 2024; _cites Baumann 2012_ | Table 4, p. 10, row 12; `ORC-UARILV624E` |  |
+| 1645 | polymorphic: (βTi) -> γ-Cr2Ti | (βTi): Ti 0.333; γ-Cr2Ti: Cr 0.666667, Ti 0.333333 | model | [2] Ghosh 2002; _cites Saunders 1994_ | Table 3, p. 8, row 6; `ORC-UVLHYS4PKX` |  |
+| 1643 | polymorphic: (βTi) -> γ-Cr2Ti | (βTi): Ti 0.34; γ-Cr2Ti: Cr 0.666667, Ti 0.333333 | model | [2] Ghosh 2002; _cites Murray 1987_ | Table 3, p. 8, row 5; `ORC-7JQ2MZYBFY` |  |
+| 1643 | polymorphic: (βTi) -> γ-Cr2Ti | (βTi): Ti 0.3578; γ-Cr2Ti: Cr 0.666667, Ti 0.333333 | model | [2] Ghosh 2002 | Table 3, p. 8, row 8; `ORC-J5W4JFHOLE` |  |
+| 1638.15 | polymorphic: bcc -> C14 |  | experimental | [1] Flores 2024; _cites Farrar 1963_ | Table 4, p. 10, row 10; `ORC-TJ6LKOLS4B` |  |
+| 1633.15 | polymorphic: bcc -> C14 |  | experimental | [1] Flores 2024; _cites Svechnikov 1970_ | Table 4, p. 10, row 11; `ORC-PTUUKQTIRK` |  |
+| 1633.15 | polymorphic: bcc -> C14 |  | experimental | [1] Flores 2024; _cites McQuillan 1951_ | Table 4, p. 10, row 7; `ORC-S44JX4RGDK` |  |
+| 1632 | polymorphic: (βTi) -> γ-Cr2Ti | (βTi): Ti 0.354; γ-Cr2Ti: Cr 0.666667, Ti 0.333333 | model | [2] Ghosh 2002; _cites Zhuang 2002_ | Table 3, p. 8, row 7; `ORC-LSBV2YZNRX` |  |
+| 1623.15 | polymorphic: bcc -> C14 |  | experimental | [1] Flores 2024; _cites Cuff 1952_ | Table 4, p. 10, row 9; `ORC-4GNEMLIQXI` |  |
+| 1623.15 | polymorphic: bcc -> C14 |  | experimental | [1] Flores 2024; _cites R 2024_ | Table 4, p. 10, row 8; `ORC-FKWVSSJ7GO` |  |
 | 1555.15 | C14 -> bcc + C36 (Ti-rich) |  | model | [1] Flores 2024; _cites Pavlu 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.03.003) | Table 6, p. 13, row 16; `ORC-V7M2BVQOST` |  |
 | 1553.15 | C14 -> bcc + C36 (Cr-rich) |  | model | [1] Flores 2024; _cites Pavlu 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.03.003) | Table 6, p. 13, row 11; `ORC-QPI3M3XGW6` |  |
 | 1551.15 | C14 -> bcc + C36 (Cr-rich) |  | model | [1] Flores 2024; _cites Sun 2022_ [doi](https://doi.org/10.1016/j.calphad.2022.102505) | Table 6, p. 13, row 13; `ORC-Q5IIPO2PLQ` |  |
@@ -197,13 +197,12 @@ Table: Enthalpies of formation, Cr–Ti system (5)
 
 ## Other properties
 
-### Phase transition (12)
+### Phase transition (11)
 
 Table: Phase transition, Cr–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1155.15 K | 1155.15 | polymorphic | experimental | [1] Flores 2024 | p. 3; `ORC-KZ6HRSG3GU` | “Ti has two allotropic structures, hcp at low temperature and bcc above 882 C, which is stable up to the melting point.” |
 | Phase transition | 1624.15 K | 1624.15 | bcc -> C14 | model | [1] Flores 2024; _cites Sun 2022_ [doi](https://doi.org/10.1016/j.calphad.2022.102505) | Table 6, p. 13, row 8; `ORC-FLQHVYDBUO` |  |
 | Phase transition | 1629.15 K | 1629.15 | bcc -> C14 | model | [1] Flores 2024; _cites Pavlu 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.03.003) | Table 6, p. 13, row 6; `ORC-5NQ5FD63SX` |  |
 | Phase transition | 1638.15 K | 1638.15 | bcc -> C14 | model | [1] Flores 2024; _cites Cupid 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.031) | Table 6, p. 13, row 7; `ORC-QLULVJHKXI` |  |

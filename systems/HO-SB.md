@@ -1,10 +1,10 @@
 # Ho–Sb system
 
-> Ho–Sb system: 71 accepted literature values (invariant reaction 47, formation 14, phase transition 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ho–Sb system: 50 accepted literature values (invariant reaction 38, formation 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HO-SB.html · Markdown: https://data.orchid-project.org/systems/HO-SB.md
 
-71 accepted literature values from 2 paper(s) (experimental 21, model 33, DFT 6, unspecified 11); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+50 accepted literature values from 2 paper(s) (experimental 13, model 20, DFT 6, unspecified 11); 2 calculated phase diagram(s). 23 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HO-SB.json) · [CSV](https://data.orchid-project.org/systems/HO-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-SB/HoSb-12Liu.json) · [phases (11)](https://data.orchid-project.org/phases/pages/HO-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-SB.html) · [Markdown](https://data.orchid-project.org/systems/HO-SB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
-| model | 33 |
+| experimental | 13 |
+| model | 20 |
 | DFT | 6 |
 | unspecified | 11 |
 
@@ -21,9 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 47 |
-| phase transition | 10 |
-| formation | 14 |
+| invariant reaction | 38 |
+| formation | 12 |
 
 ## Calculated phase diagrams
 
@@ -75,7 +74,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ho–Sb system (47)
+Table: Invariant reactions reported in the literature for the Ho–Sb system (38)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -90,14 +89,10 @@ Table: Invariant reactions reported in the literature for the Ho–Sb system (47
 | 2123.15 | polymorphic: βHoSb ↔ αHoSb | βHoSb: Ho 0.5, Sb 0.5; αHoSb: Sb 0.5 | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | Table 4, p. 4, row 1; `ORC-MAX7XZOHLS` |  |
 | 2123 | polymorphic: β-HoSb -> α-HoSb | β-HoSb: Ho 0.5, Sb 0.5; α-HoSb: Ho 0.5, Sb 0.5 | unspecified | [1] Wang 2013; _cites Abdusalyamova 1984_ | Table 2, p. 2, row 18; `ORC-C45FECVFGT` |  |
 | 2103.15 | peritectic: L + αHoSb ↔ βHo4Sb3 | L: Sb 0.353; αHoSb: Sb 0.5; βHo4Sb3: Sb 0.429 | model | [2] Liu 2012 | Table 4, p. 4, row 5; `ORC-5ZX4DBYCYI` |  |
-| 2103.15 | peritectic |  | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | p. 1; `ORC-SIFRNDMYY5.dae80d` | “The compounds Ho5 Sb3 , Ho4 Sb3 , and HoSb2 are formed by peritectic reactions at 1680 °C, 1830 °C and 670 °C, respectively.” |
 | 2103.15 | peritectic: L + αHoSb ↔ βHo4Sb3 | αHoSb: Sb 0.5; βHo4Sb3: Sb 0.429 | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | Table 4, p. 4, row 4; `ORC-ZUO7SYQE7M` |  |
-| 2103 | peritectic |  | model | [1] Wang 2013 | p. 2; `ORC-2I7L5ESGAR.93ad20` | “The compounds Ho5 Sb3 , ␤-Ho4 Sb3 , and HoSb2 are formed by the peritectic reactions, L + ␤-Ho4 Sb3 ↔ Ho5 Sb3 at 1953 K, L + ␣HoSb ↔ ␤-Ho4 Sb3 at 2103 K, and L + ␣-HoSb ↔ HoSb2 at 943 K, respectively.” |
 | 2103 | peritectic: L + α-HoSb -> β-Ho4Sb3 | L: Sb 0.36; α-HoSb: Ho 0.5, Sb 0.5; β-Ho4Sb3: Ho 0.571429, Sb 0.428571 | unspecified | [1] Wang 2013; _cites Abdusalyamova 1984_ | Table 2, p. 2, row 5; `ORC-ERBURWZEMM` |  |
 | 2103 | peritectic: L + α-HoSb -> β-Ho4Sb3 | L: Sb 0.35; α-HoSb: Ho 0.5, Sb 0.5; β-Ho4Sb3: Ho 0.571429, Sb 0.428571 | model | [1] Wang 2013 | Table 2, p. 2, row 6; `ORC-N4NDJOL4MI` |  |
 | 1953.15 | peritectic: L + βHo4Sb3 ↔ Ho5Sb3 | βHo4Sb3: Sb 0.429; Ho5Sb3: Sb 0.375 | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | Table 4, p. 4, row 6; `ORC-3EUKYLKSGK` |  |
-| 1953.15 | peritectic |  | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | p. 1; `ORC-SIFRNDMYY5.e75266` | “The compounds Ho5 Sb3 , Ho4 Sb3 , and HoSb2 are formed by peritectic reactions at 1680 °C, 1830 °C and 670 °C, respectively.” |
-| 1953 | peritectic |  | model | [1] Wang 2013 | p. 2; `ORC-2I7L5ESGAR.61f7fc` | “The compounds Ho5 Sb3 , ␤-Ho4 Sb3 , and HoSb2 are formed by the peritectic reactions, L + ␤-Ho4 Sb3 ↔ Ho5 Sb3 at 1953 K, L + ␣HoSb ↔ ␤-Ho4 Sb3 at 2103 K, and L + ␣-HoSb ↔ HoSb2 at 943 K, respectively.” |
 | 1953 | peritectic: L + β-Ho4Sb3 -> Ho5Sb3 | L: Sb 0.317; β-Ho4Sb3: Ho 0.571429, Sb 0.428571; Ho5Sb3: Ho 0.625, Sb 0.375 | unspecified | [1] Wang 2013; _cites Abdusalyamova 1984_ | Table 2, p. 2, row 3; `ORC-LEQ763M2BO` |  |
 | 1953 | peritectic: L + β-Ho4Sb3 -> Ho5Sb3 | L: Sb 0.31; β-Ho4Sb3: Ho 0.571429, Sb 0.428571; Ho5Sb3: Ho 0.625, Sb 0.375 | model | [1] Wang 2013 | Table 2, p. 2, row 4; `ORC-STVTVLMLU7` |  |
 | 1952.95 | peritectic: L + βHo4Sb3 ↔ Ho5Sb3 | L: Sb 0.304; βHo4Sb3: Sb 0.429; Ho5Sb3: Sb 0.375 | model | [2] Liu 2012 | Table 4, p. 4, row 7; `ORC-CITCY3KBPQ` |  |
@@ -111,32 +106,25 @@ Table: Invariant reactions reported in the literature for the Ho–Sb system (47
 | 1722 | eutectoid: α-Ho4Sb3 -> α-HoSb + Ho5Sb3 | α-Ho4Sb3: Ho 0.571429, Sb 0.428571; α-HoSb: Ho 0.5, Sb 0.5; Ho5Sb3: Ho 0.625, Sb 0.375 | model | [1] Wang 2013 | Table 2, p. 2, row 17; `ORC-QXRYWOOJMO` |  |
 | 1443.85 | eutectic: L ↔ (Ho) + Ho5Sb3 | L: Sb 0.15; (Ho): Sb 0; Ho5Sb3: Sb 0.375 | model | [2] Liu 2012 | Table 4, p. 4, row 12; `ORC-J5D6IDCIHE` |  |
 | 1443.15 | eutectic: L ↔ (Ho) + Ho5Sb3 | L: Sb 0.15; (Ho): Sb 0; Ho5Sb3: Sb 0.375 | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | Table 4, p. 4, row 11; `ORC-5DQSIENXG5` |  |
-| 1443.15 | eutectic |  | experimental | [2] Liu 2012 | p. 1; `ORC-QWIY4V3XZF` | “The Ho-rich eutectic reaction occurs at about 1170 °C and at 15 at.% Sb.” |
 | 1443 | eutectic: L -> Ho5Sb3 + Hcp_A3 (Ho) | L: Sb 0.149; Ho5Sb3: Ho 0.625, Sb 0.375 | model | [1] Wang 2013 | Table 2, p. 2, row 2; `ORC-42OKRSPGSO` |  |
 | 1443 | eutectic: L -> Ho5Sb3 + Hcp_A3 (Ho) | L: Sb 0.15; Ho5Sb3: Ho 0.625, Sb 0.375 | unspecified | [1] Wang 2013; _cites Abdusalyamova 1984_ | Table 2, p. 2, row 1; `ORC-EG2KY3HRKV` |  |
-| 1443 | eutectic: L ↔ Hcp A3 (Ho) + Ho5 Sb3 |  | model | [1] Wang 2013 | p. 4; `ORC-XUMHJROI6H.3539d3` | “Two reversible polymorphic transitions ␤-HoSb ↔ ␣-HoSb and ␤-Ho4 Sb3 ↔ ␣-Ho4 Sb3 were, respectively, obtained at 2153 and 1893 K in the calculated results, the peritectic temperatures of the intermetallic compounds, Ho5 Sb3 , ␤-Ho4 Sb3 , and HoSb2 , are 1953, 2103, and 943 K, respectively, and the congruent melting temperature of ␤-HoSb is 2434 K, the eutectic reactions, L ↔ Hcp A3 (Ho) + Ho5 Sb3…” |
 | 943.15 | peritectic: L + αHoSb ↔ HoSb2 | L: Sb 0.986; αHoSb: Sb 0.5; HoSb2: Sb 0.6666 | model | [2] Liu 2012 | Table 4, p. 4, row 14; `ORC-4B6H7R2WQW` |  |
 | 943.15 | peritectic: L + αHoSb ↔ HoSb2 | αHoSb: Sb 0.5; HoSb2: Sb 0.6666 | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | Table 4, p. 4, row 13; `ORC-7KWNMPRAF3` |  |
-| 943.15 | peritectic |  | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | p. 1; `ORC-SIFRNDMYY5.ce9f04` | “The compounds Ho5 Sb3 , Ho4 Sb3 , and HoSb2 are formed by peritectic reactions at 1680 °C, 1830 °C and 670 °C, respectively.” |
-| 943 | peritectic |  | model | [1] Wang 2013 | p. 2; `ORC-2I7L5ESGAR.d0739a` | “The compounds Ho5 Sb3 , ␤-Ho4 Sb3 , and HoSb2 are formed by the peritectic reactions, L + ␤-Ho4 Sb3 ↔ Ho5 Sb3 at 1953 K, L + ␣HoSb ↔ ␤-Ho4 Sb3 at 2103 K, and L + ␣-HoSb ↔ HoSb2 at 943 K, respectively.” |
 | 943 | peritectic: L + α-HoSb -> HoSb2 | L: Sb 0.98; α-HoSb: Ho 0.5, Sb 0.5; HoSb2: Ho 0.333333, Sb 0.666667 | unspecified | [1] Wang 2013; _cites Abdusalyamova 1984_ | Table 2, p. 2, row 9; `ORC-2RIETEWJ6X` |  |
 | 943 | peritectic: L + α-HoSb -> HoSb2 | L: Sb 0.977; α-HoSb: Ho 0.5, Sb 0.5; HoSb2: Ho 0.333333, Sb 0.666667 | model | [1] Wang 2013 | Table 2, p. 2, row 10; `ORC-U6SMS2HMCY` |  |
 | 897.25 | eutectic: L ↔ (Sb) + HoSb2 | L: Sb 0.99; (Sb): Sb 1; HoSb2: Sb 0.6666 | model | [2] Liu 2012 | Table 4, p. 4, row 16; `ORC-LLI3Y5MNYW` |  |
 | 897.15 | eutectic: L ↔ (Sb) + HoSb2 | L: Sb 0.99; (Sb): Sb 1; HoSb2: Sb 0.6666 | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | Table 4, p. 4, row 15; `ORC-QHQOIXLCBJ` |  |
 | 897 | eutectic: L -> HoSb2 + Rhomb_A7 (Sb) | L: Sb 0.99; HoSb2: Ho 0.333333, Sb 0.666667 | unspecified | [1] Wang 2013; _cites Abdusalyamova 1984_ | Table 2, p. 2, row 11; `ORC-UCT2NGQLFN` |  |
 | 895.6 | eutectic: L -> HoSb2 + Rhomb_A7 (Sb) | L: Sb 0.984; HoSb2: Ho 0.333333, Sb 0.666667 | model | [1] Wang 2013 | Table 2, p. 2, row 12; `ORC-CGRLLHJPBE` |  |
-| 895.6 | eutectic: L ↔ Rhomb (Sb) + HoSb2 |  | model | [1] Wang 2013 | p. 4; `ORC-XUMHJROI6H.f192e0` | “Two reversible polymorphic transitions ␤-HoSb ↔ ␣-HoSb and ␤-Ho4 Sb3 ↔ ␣-Ho4 Sb3 were, respectively, obtained at 2153 and 1893 K in the calculated results, the peritectic temperatures of the intermetallic compounds, Ho5 Sb3 , ␤-Ho4 Sb3 , and HoSb2 , are 1953, 2103, and 943 K, respectively, and the congruent melting temperature of ␤-HoSb is 2434 K, the eutectic reactions, L ↔ Hcp A3 (Ho) + Ho5 Sb3…” |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ho–Sb system (14)
+Table: Enthalpies of formation, Ho–Sb system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -126 kJ/mol-atom | 773 | model |  |  | [2] Liu 2012 | p. 3; `ORC-3N2ZPNEQHV.2f392a` | “The enthalpies of formation of the Ho-Sb intermetallic compounds calculated at 773 K compared with the experimental data \[18\] are presented in Fig. 4. It is seen that the calculated enthalpies of formation of the HoSb phase (-126 kJ (mol at.)-1 ) and the HoSb2 phase (-84.38 kJ (mol at.)-1 ) are in agreement with the experimental data (-126.5 kJ (mol at.)-1 for the HoSb phase, -84.4 kJ (mol at.)-1…” |
-| — |  | -84.38 kJ/mol-atom | 773 | model |  |  | [2] Liu 2012 | p. 3; `ORC-3N2ZPNEQHV.667f78` | “The enthalpies of formation of the Ho-Sb intermetallic compounds calculated at 773 K compared with the experimental data \[18\] are presented in Fig. 4. It is seen that the calculated enthalpies of formation of the HoSb phase (-126 kJ (mol at.)-1 ) and the HoSb2 phase (-84.38 kJ (mol at.)-1 ) are in agreement with the experimental data (-126.5 kJ (mol at.)-1 for the HoSb phase, -84.4 kJ (mol at.)-1…” |
 | Ho5Sb3 |  | -88.488 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 9; `ORC-TX5D2RF7WF` |  |
 | Ho5Sb3 |  | -82 kJ/mol (basis unstated) | 0 | model |  |  | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 10; `ORC-NPESAANARQ` |  |
 | HoSb |  | -126.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2013; _cites Goryacheva 1981_ | Table 3, p. 3, row 12; `ORC-W4T6SRCA2N` |  |
@@ -149,25 +137,6 @@ Table: Enthalpies of formation, Ho–Sb system (14)
 | HoSb2 |  | -64.551 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 17; `ORC-3ACIROX7IH` |  |
 | HoSb2 |  | -64.546 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 16; `ORC-QXDKQXVFPR` |  |
 | HoSb2 |  | -19.679 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 15; `ORC-YNBXTY2HNM` |  |
-
-## Other properties
-
-### Phase transition (10)
-
-Table: Phase transition, Ho–Sb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1723 K | 1723 | other: ␣-Ho4 Sb3 ↔ ␣-HoSb + Ho5 Sb3 | model | [1] Wang 2013 | p. 2; `ORC-G7ZXLIY56J.746849` | “The Ho4 Sb3 has a reversible polymorphic transition ␤-Ho4 Sb3 ↔ ␣-Ho4 Sb3 at 1893 K, and the latter decomposes by the eutectoid reaction, ␣-Ho4 Sb3 ↔ ␣-HoSb + Ho5 Sb3 at 1723 ± 100 K.” |
-| Phase transition | 1723.15 K | 1723.15 | other: Ho4Sb3 -> Ho5Sb3 + HoSb | experimental | [2] Liu 2012 | p. 1; `ORC-XFVI324X7R.07dfbd` | “Ho4 Sb3 has a reversible polymorphic transition at about 1620 °C, and decomposes by a eutectoidal reaction at 1450 ± 100 °C to Ho5 Sb3 and HoSb, and Abdusaljamova \[16\] reported that Ho4 Sb3 decomposes eutectoidally into Ho5 Sb3 and HoSb at 1450 ± 50 °C.” |
-| Phase transition | 1893 K | 1893 | polymorphic: ␤-Ho4 Sb3 ↔ ␣-Ho4 Sb3 | model | [1] Wang 2013 | p. 2; `ORC-G7ZXLIY56J.726099` | “The Ho4 Sb3 has a reversible polymorphic transition ␤-Ho4 Sb3 ↔ ␣-Ho4 Sb3 at 1893 K, and the latter decomposes by the eutectoid reaction, ␣-Ho4 Sb3 ↔ ␣-HoSb + Ho5 Sb3 at 1723 ± 100 K.” |
-| Phase transition | 1893.15 K | 1893.15 | polymorphic | experimental | [2] Liu 2012 | p. 1; `ORC-XFVI324X7R.55a80a` | “Ho4 Sb3 has a reversible polymorphic transition at about 1620 °C, and decomposes by a eutectoidal reaction at 1450 ± 100 °C to Ho5 Sb3 and HoSb, and Abdusaljamova \[16\] reported that Ho4 Sb3 decomposes eutectoidally into Ho5 Sb3 and HoSb at 1450 ± 50 °C.” |
-| Phase transition | 1893.35 K | 1893.35 | polymorphic: α Ho4 Sb3 ↔ β Ho4 Sb3 | model | [2] Liu 2012 | p. 3; `ORC-ERMOWRFOH2.2787db` | “Two reversible polymorphic transitions α HoSb ↔ β HoSb and α Ho4 Sb3 ↔ β Ho4 Sb3 were respectively obtained at 1880 and 1620.2 °C in the calculated results, which are in a good agreement with the experimental data \[8,9\].” |
-| Phase transition | 2153 K | 2153 | polymorphic: ␤-HoSb ↔ ␣-HoSb | model | [1] Wang 2013 | p. 2; `ORC-3XWBZY2ZDQ` | “Abdusalyamova et al. \[12\] and Abdusalyamova \[13\] also reported the more accurate data for ␣Ho4 Sb3 ↔ ␣-HoSb + Ho5 Sb3 at 1723 ± 50 K and ␤-HoSb ↔ ␣-HoSb at 2153 K.” |
-| Phase transition | 2153.15 K | 2153.15 | polymorphic | experimental | [2] Liu 2012; _cites Abdusaljamova 1993_ | p. 1; `ORC-XCENHFK65Z.e5d800` | “HoSb melts at about 2160 °C, and it has a reversible polymorphic transition at a temperature in the range 1850-2100 °C \[15\], and Abdusaljamova \[16\] also reported that HoSb exhibited a reversible polymorphic transition at 1880 °C.” |
-| Phase transition | 2153.15 K | 2153.15 | polymorphic: α HoSb ↔ β HoSb | model | [2] Liu 2012 | p. 3; `ORC-ERMOWRFOH2.60e16f` | “Two reversible polymorphic transitions α HoSb ↔ β HoSb and α Ho4 Sb3 ↔ β Ho4 Sb3 were respectively obtained at 1880 and 1620.2 °C in the calculated results, which are in a good agreement with the experimental data \[8,9\].” |
-| Phase transition | 2433.15 K | 2433.15 |  | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | p. 1; `ORC-XCENHFK65Z.57ee38` | “HoSb melts at about 2160 °C, and it has a reversible polymorphic transition at a temperature in the range 1850-2100 °C \[15\], and Abdusaljamova \[16\] also reported that HoSb exhibited a reversible polymorphic transition at 1880 °C.” |
-| Phase transition | 2434 K | 2434 | congruent transformation | model | [1] Wang 2013 | p. 4; `ORC-XUMHJROI6H.91acab` | “Two reversible polymorphic transitions ␤-HoSb ↔ ␣-HoSb and ␤-Ho4 Sb3 ↔ ␣-Ho4 Sb3 were, respectively, obtained at 2153 and 1893 K in the calculated results, the peritectic temperatures of the intermetallic compounds, Ho5 Sb3 , ␤-Ho4 Sb3 , and HoSb2 , are 1953, 2103, and 943 K, respectively, and the congruent melting temperature of ␤-HoSb is 2434 K, the eutectic reactions, L ↔ Hcp A3 (Ho) + Ho5 Sb3…” |
 
 ## Sources
 

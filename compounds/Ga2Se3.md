@@ -32,12 +32,12 @@ Table: Uncertainty budget of the literature values of Ga2Se3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -92.048 | kJ/mol-atom |  | 0.001 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -87.864 | kJ/mol-atom |  | 0.001 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -92.048 | kJ/mol-atom |  | 0.001 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -87.864 | kJ/mol-atom |  | 0.001 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -81.7554 | kJ/mol-atom |  | 1.000e-4 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -81.002 | kJ/mol-atom |  | 0.001 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -75.312 | kJ/mol-atom |  | 0.001 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -73.722 | kJ/mol-atom |  | 0.001 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -75.312 | kJ/mol-atom |  | 0.001 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -73.722 | kJ/mol-atom |  | 0.001 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -81.7554 | kJ/mol-atom |  | 1.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -81.7554 | kJ/mol-atom |  | 1.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -79.7396 | kJ/mol-atom |  | 1.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

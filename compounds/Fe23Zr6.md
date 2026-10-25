@@ -35,18 +35,18 @@ Table: Uncertainty budget of the literature values of Fe23Zr6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -21.8 | kJ/mol-atom | 0.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -21.8 | kJ/mol-atom | 0.7 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -30.164 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -23.2862 | kJ/mol-atom |  | 1.724e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -23.286 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -22.364 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -19 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -16.705 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -16.21 | kJ/mol (basis unstated) |  | 0.005 | 19.42 (dft, calibrated) |  |  |  | 19.42 |
-| -16 | kJ/mol (basis unstated) |  | 0.5 | 19.42 (dft, calibrated) |  |  |  | 19.42 |
-| 19 | kJ/mol (basis unstated) |  | 0.5 | 19.42 (dft, calibrated) |  |  |  | 19.42 |
-| 34.71 | kJ/mol (basis unstated) |  | 0.005 | 19.42 (dft, calibrated) |  |  |  | 19.42 |
-| 45.12 | kJ/mol (basis unstated) |  | 0.005 | 19.42 (dft, calibrated) |  |  |  | 19.42 |
+| -16.21 | kJ/mol (basis unstated) |  | 0.005 | 20.83 (dft, calibrated) |  |  |  | 20.83 |
+| -16 | kJ/mol (basis unstated) |  | 0.5 | 20.83 (dft, calibrated) |  |  |  | 20.83 |
+| 19 | kJ/mol (basis unstated) |  | 0.5 | 20.83 (dft, calibrated) |  |  |  | 20.83 |
+| 34.71 | kJ/mol (basis unstated) |  | 0.005 | 20.83 (dft, calibrated) |  |  |  | 20.83 |
+| 45.12 | kJ/mol (basis unstated) |  | 0.005 | 20.83 (dft, calibrated) |  |  |  | 20.83 |
 
 ## DFT formation energies
 

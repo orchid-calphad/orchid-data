@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of LaSb
 | -148.197 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -130.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -118 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -123.511 | kJ/mol (basis unstated) |  | 5.000e-4 | 20.38 (dft, calibrated) |  |  |  | 20.38 |
+| -123.511 | kJ/mol (basis unstated) |  | 5.000e-4 | 20.02 (dft, calibrated) |  |  |  | 20.02 |
 
 ## Sources
 

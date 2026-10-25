@@ -1,10 +1,10 @@
 # Al–La–Ni system
 
-> Al–La–Ni system: 54 accepted literature values (crystal structure 45, phase equilibrium 8, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–La–Ni system: 53 accepted literature values (crystal structure 45, phase equilibrium 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-LA-NI.html · Markdown: https://data.orchid-project.org/systems/AL-LA-NI.md
 
-54 accepted literature values from 1 paper(s) (experimental 9, DFT 39, unspecified 6); 0 calculated phase diagram(s).
+53 accepted literature values from 1 paper(s) (experimental 8, DFT 39, unspecified 6); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/AL-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LA-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-LA-NI.html) · [Markdown](https://data.orchid-project.org/systems/AL-LA-NI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 8 |
 | DFT | 39 |
 | unspecified | 6 |
 
@@ -20,17 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | phase equilibrium | 8 |
 | crystal structure | 45 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–La–Ni system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 898.15 | eutectic: Liq → Fcc + Al11La3 + Al3Ni |  | experimental | [1] Liao 2018; _cites ref. 42_ | p. 3; `ORC-H5RYUOKUFM` | “A vertical vertical section Al90La-Al90Ni was determined by Gödecke et al. using a metallographic section Al was determined bya ternary Gödecke et al. using metallographic observation and 90 La-Al observation and90aNi DTA method \[42\], and eutectic reactiona Liq → Fcc + Al11La3 + Al 3Ni at ◦ C was a DTA method \[42\], and a ternary eutectic reaction Liq → Fcc + Al La + Al Ni at 625 11 3 3 625 °C was…” |
 
 ## Other properties
 

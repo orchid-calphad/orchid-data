@@ -590,7 +590,7 @@
     "x0": 0.375,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Gd5Ge3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -608,7 +608,7 @@
     "x0": 0.375,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Gd5Ge3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

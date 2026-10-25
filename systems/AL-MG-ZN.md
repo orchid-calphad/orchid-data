@@ -1,10 +1,10 @@
 # Al–Mg–Zn system
 
-> Al–Mg–Zn system: 182 accepted literature values (invariant reaction 82, phase equilibrium 78, phase transition 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg–Zn system: 175 accepted literature values (phase equilibrium 78, invariant reaction 76, phase transition 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG-ZN.html · Markdown: https://data.orchid-project.org/systems/AL-MG-ZN.md
 
-182 accepted literature values from 3 paper(s) (experimental 115, model 46, unspecified 21); 0 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+175 accepted literature values from 3 paper(s) (experimental 108, model 46, unspecified 21); 0 calculated phase diagram(s). 15 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/AL-MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AL-MG-ZN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 115 |
+| experimental | 108 |
 | model | 46 |
 | unspecified | 21 |
 
@@ -20,24 +20,21 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 82 |
-| phase transition | 22 |
+| invariant reaction | 76 |
+| phase transition | 21 |
 | phase equilibrium | 78 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Mg–Zn system (82)
+Table: Invariant reactions reported in the literature for the Al–Mg–Zn system (76)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 808 | other: L + MgZn2 -> τ |  | unspecified | [1] Liang 1998; _cites Petrov 1993_ | Table 8, p. 18, row 1; `ORC-WCVBFNMFSK` |  |
 | 803.35 | other: L + MgZn2 -> τ | L: Al 0.2179, Mg 0.3714, Zn 0.4107; MgZn2: Al 0.0715, Mg 0.3343, Zn 0.5942; τ: Al 0.1822, Mg 0.3624, Zn 0.4554 | model | [1] Liang 1998 | Table 8, p. 18, row 3; `ORC-SSWZOIGW22` |  |
-| 800 | peritectic: L‡MgZn2„t |  | experimental | [1] Liang 1998 | p. 6; `ORC-TUZ4PDBG6W.82b362` | “Table 3 shows the DSC and DTA results: (i) The invariant pseudo-binary peritectic reaction LMgZn2t is experimentally determined at about 800 K by DTA for two alloys, Al 20 Mg 36 Zn 44 (799 K) and Al 18 Mg 36 Zn 46 (800 K); (ii) The invariant pseudo-binary eutectic reaction L(Al)t is experimentally determined by DSC at 756 K for the alloy Al30Mg32Zn38; (iii) The peritectic formation of the -p…” |
 | 800 | other: L + MgZn2 -> τ |  | experimental | [1] Liang 1998 | Table 8, p. 18, row 2; `ORC-UQV36A7COG` |  |
-| 799 | peritectic: L‡MgZn2„t |  | experimental | [1] Liang 1998 | p. 6; `ORC-TUZ4PDBG6W.280166` | “Table 3 shows the DSC and DTA results: (i) The invariant pseudo-binary peritectic reaction LMgZn2t is experimentally determined at about 800 K by DTA for two alloys, Al 20 Mg 36 Zn 44 (799 K) and Al 18 Mg 36 Zn 46 (800 K); (ii) The invariant pseudo-binary eutectic reaction L(Al)t is experimentally determined by DSC at 756 K for the alloy Al30Mg32Zn38; (iii) The peritectic formation of the -p…” |
 | 770.66 | peritectic: L + C14 + Mg2Zn3 -> τ | L: Mg 0.2943, Zn 0.3457; Mg2Zn3: Al 0, Mg 0.4, Zn 0.6 | unspecified | [2] Hayashi 2020 | Table 3, p. 9, row 11; `ORC-2FMFRHEWXI` |  |
 | 762 | other: L \<=> (Al) + τ |  | unspecified | [1] Liang 1998; _cites Petrov 1993_ | Table 8, p. 18, row 4; `ORC-PFZRTE2NWM` |  |
-| 756 | eutectic: L„(Al)‡t |  | experimental | [1] Liang 1998 | p. 6; `ORC-TUZ4PDBG6W.cc7b28` | “Table 3 shows the DSC and DTA results: (i) The invariant pseudo-binary peritectic reaction LMgZn2t is experimentally determined at about 800 K by DTA for two alloys, Al 20 Mg 36 Zn 44 (799 K) and Al 18 Mg 36 Zn 46 (800 K); (ii) The invariant pseudo-binary eutectic reaction L(Al)t is experimentally determined by DSC at 756 K for the alloy Al30Mg32Zn38; (iii) The peritectic formation of the -p…” |
 | 756 | other: L \<=> (Al) + τ |  | experimental | [1] Liang 1998 | Table 8, p. 18, row 5; `ORC-YGL7NOHPHF` |  |
 | 752.84 | other: L \<=> (Al) + τ | L: Al 0.5119, Mg 0.2148, Zn 0.2733; (Al): Al 0.9019, Mg 0.0422, Zn 0.0559; τ: Al 0.2329, Mg 0.3382, Zn 0.4289 | model | [1] Liang 1998 | Table 8, p. 18, row 6; `ORC-J6Q2NIG245` |  |
 | 752 | other: L + τ \<=> (Al) + MgZn2 |  | experimental | [1] Liang 1998 | Table 8, p. 18, row 8; `ORC-QD7EHFBQBV` |  |
@@ -68,14 +65,11 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Zn syste
 | 667.71 | quasi-peritectic: L + τ -> AlMg-γ + ϕ | L: Mg 0.7064, Zn 0.1356 | unspecified | [2] Hayashi 2020 | Table 3, p. 9, row 6; `ORC-34DKWQO7CI` |  |
 | 667.07 | quasi-peritectic: L + AlMg-γ -> (Mg) + ϕ | L: Mg 0.7082, Zn 0.1365 | unspecified | [2] Hayashi 2020 | Table 3, p. 9, row 7; `ORC-NRYPCEMZ3R` |  |
 | 666 | peritectic: L + γ + τ \<=> Φ | Φ: Al 0.222222, Mg 0.555556, Zn 0.222222 | unspecified | [1] Liang 1998; _cites Petrov 1993_ | Table 8, p. 18, row 21; `ORC-EGLC7Y4P3P` |  |
-| 665 | peritectic: L‡g‡t„  |  | experimental | [1] Liang 1998 | p. 6; `ORC-TUZ4PDBG6W.07bf86` | “Table 3 shows the DSC and DTA results: (i) The invariant pseudo-binary peritectic reaction LMgZn2t is experimentally determined at about 800 K by DTA for two alloys, Al 20 Mg 36 Zn 44 (799 K) and Al 18 Mg 36 Zn 46 (800 K); (ii) The invariant pseudo-binary eutectic reaction L(Al)t is experimentally determined by DSC at 756 K for the alloy Al30Mg32Zn38; (iii) The peritectic formation of the -p…” |
 | 663 | peritectic: L + γ + τ \<=> Φ | Φ: Al 0.222222, Mg 0.555556, Zn 0.222222 | experimental | [1] Liang 1998 | Table 8, p. 18, row 22; `ORC-D5LE77AGDL` |  |
-| 663 | peritectic: L‡g‡t„  |  | experimental | [1] Liang 1998 | p. 6; `ORC-TUZ4PDBG6W.0068d1` | “Table 3 shows the DSC and DTA results: (i) The invariant pseudo-binary peritectic reaction LMgZn2t is experimentally determined at about 800 K by DTA for two alloys, Al 20 Mg 36 Zn 44 (799 K) and Al 18 Mg 36 Zn 46 (800 K); (ii) The invariant pseudo-binary eutectic reaction L(Al)t is experimentally determined by DSC at 756 K for the alloy Al30Mg32Zn38; (iii) The peritectic formation of the -p…” |
 | 661.7 | L+AlMgZn\_τ+AlMg\_γ->ϕ | L: Al 0.174, Mg 0.657, Zn 0.169; ϕ: Al 0.222222, Mg 0.555556, Zn 0.222222 | model | [3] Yuan 2014 | Table 3, p. 6, row 10; `ORC-EIJLKRU4HP` |  |
 | 660.52 | peritectic: L + γ + τ \<=> Φ | L: Al 0.1727, Mg 0.6589, Zn 0.1683; γ: Al 0.3405, Mg 0.5814, Zn 0.0781; τ: Al 0.3003, Mg 0.4405, Zn 0.2592; Φ: Al 0.2629, Mg 0.5454, Zn 0.1917 | model | [1] Liang 1998 | Table 8, p. 18, row 23; `ORC-QY5VLMCLKG` |  |
 | 660.5 | L+AlMgZn\_τ+AlMg\_γ->ϕ | L: Al 0.173, Mg 0.659, Zn 0.168; ϕ: Al 0.222222, Mg 0.555556, Zn 0.222222 | model | [3] Yuan 2014; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 6, row 9; `ORC-6SC5D42KHK` |  |
 | 659.79 | peritectic: L + Mg2Zn3 + τ -> Mg12Zn13 | L: Mg 0.6905, Zn 0.2677; Mg2Zn3: Al 0, Mg 0.4, Zn 0.6 | unspecified | [2] Hayashi 2020 | Table 3, p. 9, row 12; `ORC-4AQ4NYRKCV` |  |
-| 659 | peritectic: L‡g‡t„  |  | experimental | [1] Liang 1998 | p. 6; `ORC-TUZ4PDBG6W.dffb47` | “Table 3 shows the DSC and DTA results: (i) The invariant pseudo-binary peritectic reaction LMgZn2t is experimentally determined at about 800 K by DTA for two alloys, Al 20 Mg 36 Zn 44 (799 K) and Al 18 Mg 36 Zn 46 (800 K); (ii) The invariant pseudo-binary eutectic reaction L(Al)t is experimentally determined by DSC at 756 K for the alloy Al30Mg32Zn38; (iii) The peritectic formation of the -p…” |
 | 642.08 | quasi-peritectic: L + τ -> Mg12Zn13 + ϕ | L: Mg 0.7121, Zn 0.2558 | unspecified | [2] Hayashi 2020 | Table 3, p. 9, row 8; `ORC-ZQ76LC626F` |  |
 | 640.1 | L+AlMg\_γ->ϕ+(Mg) | L: Al 0.138, Mg 0.696, Zn 0.166; ϕ: Al 0.222222, Mg 0.555556, Zn 0.222222 | model | [3] Yuan 2014 | Table 3, p. 6, row 12; `ORC-ZMGKIHIYSJ` |  |
 | 639.33 | other: L + γ \<=> (Mg) + Φ | L: Al 0.1372, Mg 0.6979, Zn 0.1648; γ: Al 0.3198, Mg 0.6009, Zn 0.0793; (Mg): Al 0.0589, Mg 0.9232, Zn 0.0179; Φ: Al 0.2567, Mg 0.5454, Zn 0.1979 | model | [1] Liang 1998 | Table 8, p. 18, row 26; `ORC-LKXADP6FEW` |  |
@@ -115,7 +109,7 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Zn syste
 
 ## Other properties
 
-### Phase transition (22)
+### Phase transition (21)
 
 Table: Phase transition, Al–Mg–Zn system
 
@@ -124,7 +118,6 @@ Table: Phase transition, Al–Mg–Zn system
 | Phase transition | 630 K | 630 | UNKNOWN; _alloy: Al 0.2, Mg 0.44, Zn 0.36_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 16; `ORC-BLCT5I6PAO` |  |
 | Phase transition | 632 K | 632 | UNKNOWN; _alloy: Al 0.2, Mg 0.6, Zn 0.2_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 13; `ORC-NPZMTX7REQ` |  |
 | Phase transition | 633 K | 633 | UNKNOWN; _alloy: Al 0.25, Mg 0.55, Zn 0.2_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 12; `ORC-UZ35QLJQOA` |  |
-| Phase transition | 633 K | 633 | other: L‡g„(Mg)‡  | experimental | [1] Liang 1998 | p. 6; `ORC-TUZ4PDBG6W.aa7e51` | “Table 3 shows the DSC and DTA results: (i) The invariant pseudo-binary peritectic reaction LMgZn2t is experimentally determined at about 800 K by DTA for two alloys, Al 20 Mg 36 Zn 44 (799 K) and Al 18 Mg 36 Zn 46 (800 K); (ii) The invariant pseudo-binary eutectic reaction L(Al)t is experimentally determined by DSC at 756 K for the alloy Al30Mg32Zn38; (iii) The peritectic formation of the -p…” |
 | Phase transition | 634 K | 634 | UNKNOWN; _alloy: Al 0.2, Mg 0.48, Zn 0.32_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 15; `ORC-BGGP4OWJ4Z` |  |
 | Phase transition | 649 K | 649 | UNKNOWN; _alloy: Al 0.2, Mg 0.54, Zn 0.26_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 14; `ORC-ANUW53AA3I` |  |
 | Phase transition | 663 K | 663 | UNKNOWN; _alloy: Al 0.28, Mg 0.54, Zn 0.18_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 10; `ORC-M7KEIFUAW5` |  |

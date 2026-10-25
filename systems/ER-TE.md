@@ -1,10 +1,10 @@
 # Er–Te system
 
-> Er–Te system: 71 accepted literature values (crystal structure 24, formation 21, invariant reaction 17, phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Te system: 70 accepted literature values (crystal structure 24, formation 21, invariant reaction 16, phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-TE.html · Markdown: https://data.orchid-project.org/systems/ER-TE.md
 
-71 accepted literature values from 1 paper(s) (experimental 43, model 4, DFT 24); 1 calculated phase diagram(s).
+70 accepted literature values from 1 paper(s) (experimental 42, model 4, DFT 24); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-TE.json) · [CSV](https://data.orchid-project.org/systems/ER-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-TE/ErTe-22Ben.json) · [phases (8)](https://data.orchid-project.org/phases/pages/ER-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-TE.html) · [Markdown](https://data.orchid-project.org/systems/ER-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
+| experimental | 42 |
 | model | 4 |
 | DFT | 24 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
+| invariant reaction | 16 |
 | phase transition | 9 |
 | formation | 21 |
 | crystal structure | 24 |
@@ -48,7 +48,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Er–Te system (17)
+Table: Invariant reactions reported in the literature for the Er–Te system (16)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -68,7 +68,6 @@ Table: Invariant reactions reported in the literature for the Er–Te system (17
 | 718 | eutectic: L -> (Te) +ErTe3 | L: Te 0.9956; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 3; `ORC-BUGPJMREDA` |  |
 | 718 | eutectic: L -> (Te) +ErTe3 | L: Te 0.9956; (Te): Te 1; ErTe3: Te 0.75 | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | Table 7, p. 10, row 2; `ORC-EIXCE2KVJ4` |  |
 | 718 | eutectic |  | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | p. 2; `ORC-VSSM67E7I7` | “A degenerate eutectic exists between ErTe2 and Te at 718 K.” |
-| 603 | eutectic |  | experimental | [1] Bennoui 2022 | p. 2; `ORC-CSJVVJY75F.8c3f26` | “The eutectic between Er and ErTe is given at 87 at.% Er and 1551 K, while the second eutectic on the Te-rich side is at about 3 at.% Er and 603 K (Fig. 2).” |
 
 ## Formation enthalpies
 

@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of Fe3Mo2
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | 4.037 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| 2.297 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| 3.773 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 2.297 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 3.773 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## Sources
 

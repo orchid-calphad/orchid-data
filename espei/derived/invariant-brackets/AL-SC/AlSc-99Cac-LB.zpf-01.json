@@ -111,7 +111,7 @@
     "x0": 0.00313,
     "hyperplane_delta": 0.00042500000000000003,
     "reaction_printed": "L->(Al)+ScAl3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -130,7 +130,7 @@
     "x0": 0.00313,
     "hyperplane_delta": 0.00042500000000000003,
     "reaction_printed": "L->(Al)+ScAl3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

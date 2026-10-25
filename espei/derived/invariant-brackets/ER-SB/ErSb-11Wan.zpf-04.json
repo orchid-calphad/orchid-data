@@ -352,7 +352,7 @@
     "x0": 0.155,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> hcp + Er5Sb3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -371,7 +371,7 @@
     "x0": 0.155,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> hcp + Er5Sb3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -428,7 +428,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> βErSb",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -446,7 +446,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> βErSb",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -483,7 +483,7 @@
     "x0": 0.994,
     "hyperplane_delta": 0.0030000000000000027,
     "reaction_printed": "liq. -> ErSb2 + rhom",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -502,7 +502,7 @@
     "x0": 0.994,
     "hyperplane_delta": 0.0030000000000000027,
     "reaction_printed": "liq. -> ErSb2 + rhom",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

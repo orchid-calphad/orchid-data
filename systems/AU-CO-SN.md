@@ -1,10 +1,10 @@
 # Au–Co–Sn system
 
-> Au–Co–Sn system: 31 accepted literature values (phase equilibrium 16, invariant reaction 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Co–Sn system: 30 accepted literature values (phase equilibrium 16, invariant reaction 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-CO-SN.html · Markdown: https://data.orchid-project.org/systems/AU-CO-SN.md
 
-31 accepted literature values from 1 paper(s) (experimental 9, model 14, unspecified 8); 0 calculated phase diagram(s).
+30 accepted literature values from 1 paper(s) (experimental 8, model 14, unspecified 8); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-CO-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-CO-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-CO-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-CO-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-CO-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 8 |
 | model | 14 |
 | unspecified | 8 |
 
@@ -20,12 +20,12 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 15 |
+| invariant reaction | 14 |
 | phase equilibrium | 16 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Co–Sn system (15)
+Table: Invariant reactions reported in the literature for the Au–Co–Sn system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -34,7 +34,6 @@ Table: Invariant reactions reported in the literature for the Au–Co–Sn syste
 | 761.5 | eutectic: L -> Au + αCo + ζ |  | model | [1] Dong 2009 | Table V, p. 11, row 10; `ORC-EW6WXF76UV` |  |
 | 697.1 | peritectic: L + αCo + ζ -> εCo |  | model | [1] Dong 2009 | Table V, p. 11, row 13; `ORC-TQ4HGJVRCO` |  |
 | 696.7 | quasi-peritectic: L + αCo -> βCo3Sn2 + εCo |  | model | [1] Dong 2009 | Table V, p. 11, row 2; `ORC-EEBIHVCZ47` |  |
-| 668.15 | peritectic: s1 ! L þ CoSn þ Au15 Co41 Sn44 |  | experimental | [1] Dong 2009; _cites Neumann 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902302-x) | p. 2; `ORC-HPEWKLKD3R` | “A ternary compound phase (denoted s1) was detected; it melted peritectically at 395°C (668 K): s1 ! L þ CoSn þ Au15 Co41 Sn44 ; where Au15Co41Sn44 belongs to the bCo3Sn2 phase with ternary solubility of Au.” |
 | 667.9 | peritectic: L + AuSn + CoSn -> τ1 |  | model | [1] Dong 2009 | Table V, p. 11, row 14; `ORC-IYRTABR2DS` |  |
 | 660.6 | quasi-peritectic: L + CoSn -> CoSn2 + τ1 |  | model | [1] Dong 2009 | Table V, p. 11, row 3; `ORC-RPNZKJU6KQ` |  |
 | 654.2 | quasi-peritectic: L + εCo -> ζ + βCo3Sn2 |  | model | [1] Dong 2009 | Table V, p. 11, row 4; `ORC-QNCYETV6ZT` |  |

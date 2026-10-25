@@ -1,10 +1,10 @@
 # Sm–Ti system
 
-> Sm–Ti system: 34 accepted literature values (formation 28, invariant reaction 5, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sm–Ti system: 33 accepted literature values (formation 28, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SM-TI.html · Markdown: https://data.orchid-project.org/systems/SM-TI.md
 
-34 accepted literature values from 1 paper(s) (experimental 1, model 5, DFT 21, unspecified 7); 1 calculated phase diagram(s).
+33 accepted literature values from 1 paper(s) (model 5, DFT 21, unspecified 7); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SM-TI.json) · [CSV](https://data.orchid-project.org/systems/SM-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SM-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SM-TI/SmTi-21Sae.json) · [phases (5)](https://data.orchid-project.org/phases/pages/SM-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SM-TI.html) · [Markdown](https://data.orchid-project.org/systems/SM-TI.md)
 
@@ -12,7 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
 | model | 5 |
 | DFT | 21 |
 | unspecified | 7 |
@@ -22,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase transition | 1 |
 | formation | 28 |
 
 ## Calculated phase diagrams
@@ -100,16 +98,6 @@ Table: Enthalpies of formation, Sm–Ti system (28)
 | hP5 Sm₃Ti₂ |  | 40.0607 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 42; `ORC-2HXDZABP4Z.098561` |  |
 | hR SmTi₂ |  | 27.3632 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 37; `ORC-4LYRMDI33R.7e837a` |  |
 | hR Sm₂Ti |  | 26.3791 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 38; `ORC-DF7YVVIKAK.d24e0b` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Sm–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1347 K | 1347 |  | experimental | [1] Saengdeejing 2021; _cites Barin 1995_ | p. 8; `ORC-ICJSCS4SQI` | “During the experiment, Sm (m.p. 1347 K)\[36\] melted to contact with the inner wall of the Ti crucible.” |
 
 ## Sources
 

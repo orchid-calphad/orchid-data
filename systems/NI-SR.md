@@ -1,24 +1,12 @@
 # Ni–Sr system
 
-> Ni–Sr system: 1 accepted literature values (invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sr system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SR.html · Markdown: https://data.orchid-project.org/systems/NI-SR.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SR.json) · [CSV](https://data.orchid-project.org/systems/NI-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SR/NiSr-11Pen.json) · [phases (5)](https://data.orchid-project.org/phases/pages/NI-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SR.html) · [Markdown](https://data.orchid-project.org/systems/NI-SR.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
 
 ## Calculated phase diagrams
 
@@ -43,20 +31,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | NiSr-11Pen.tdb | 820 | NISR (x(Sr) 0.5) + FCC_A1 (x(Sr) 1) + BCC_A2 (x(Sr) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/NI/NI-SR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/NI/NI-SR.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ni–Sr system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1133.15 | peritectic |  | experimental | [1] Peng 2011; _cites Takeuchi 1966_ | p. 1; `ORC-3JEP7OERUM` | “The peritectic melting point of NiSr is about 860 C.\[14\]” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Yingbiao Peng, Dongdong Zhao, Biao Hu, Liangcai Zhou, Yong Du, Tie Gang et al., Thermodynamic Modeling of the Sr-M (M = Fe, Mn, Ni, Ti, V) Systems, J. Phase Equilib. Diffus. 32, 42-47 (2011). [doi:10.1007/s11669-010-9818-1](https://doi.org/10.1007/s11669-010-9818-1)
 
 ## Please cite
 

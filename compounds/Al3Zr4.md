@@ -65,12 +65,12 @@ Table: Uncertainty budget of the literature values of Al3Zr4
 | -40.894 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -39 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -47.555 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -47.555 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -47.555 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 | -46.21 | unknown |  | 0.005 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -46.21 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -46.21 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 | -44.875 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -44.875 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -39 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -44.875 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -39 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

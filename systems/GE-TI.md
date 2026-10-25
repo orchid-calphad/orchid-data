@@ -1,10 +1,10 @@
 # Ge–Ti system
 
-> Ge–Ti system: 56 accepted literature values (invariant reaction 48, phase transition 6, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Ti system: 54 accepted literature values (invariant reaction 46, phase transition 6, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-TI.html · Markdown: https://data.orchid-project.org/systems/GE-TI.md
 
-56 accepted literature values from 2 paper(s) (experimental 33, model 11, unspecified 12); 2 calculated phase diagram(s).
+54 accepted literature values from 2 paper(s) (experimental 33, model 9, unspecified 12); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-TI.json) · [CSV](https://data.orchid-project.org/systems/GE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-TI/GeTi-11Liu.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GE-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-TI.html) · [Markdown](https://data.orchid-project.org/systems/GE-TI.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 33 |
-| model | 11 |
+| model | 9 |
 | unspecified | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 48 |
+| invariant reaction | 46 |
 | phase transition | 6 |
 | formation | 2 |
 
@@ -70,7 +70,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Ti system (48)
+Table: Invariant reactions reported in the literature for the Ge–Ti system (46)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -80,7 +80,6 @@ Table: Invariant reactions reported in the literature for the Ge–Ti system (48
 | 1939 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.466; Ge3Ti5: Ti 0.625; Ge5Ti6: Ti 0.545 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 6; `ORC-5KJC7AKIEV` |  |
 | 1923 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.471; Ge3Ti5: Ti 0.625; Ge5Ti6: Ti 0.546 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 5; `ORC-GIE5NCSNJT` |  |
 | 1923 | peritectic: L + Ti5Ge3 -> Ti6Ge5 | L: Ge 0.529; Ti5Ge3: Ge 0.375; Ti6Ge5: Ge 0.454 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 3; `ORC-VEWQT5QNZB` |  |
-| 1923 | peritectic |  | model | [2] Zobač 2023 | p. 2; `ORC-WEKV4HS7HN` | “Ge5Ti6 phase is a stoichiometric binary phase formed by the peritectic reaction at 1923 K.” |
 | 1923 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.472; Ge3Ti5: Ti 0.605; Ge5Ti6: Ti 0.545 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 7; `ORC-XXOEPASYJY` |  |
 | 1922.9 | peritectic: L + Ge3Ti5 ↔ Ge5Ti6 | L: Ti 0.418; Ge3Ti5: Ti 0.61; Ge5Ti6: Ti 0.5455 | model | [2] Zobač 2023 | Table 2, p. 3, row 8; `ORC-HAY3POZTDP` |  |
 | 1900 | peritectoid: Ge5Ti6 + Ge3Ti5 ↔ Ge4Ti5 | Ge5Ti6: Ti 0.545; Ge3Ti5: Ti 0.605; Ge4Ti5: Ti 0.56 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 9; `ORC-YSPXTNVYMO` |  |
@@ -100,7 +99,6 @@ Table: Invariant reactions reported in the literature for the Ge–Ti system (48
 | 1392 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.248; Ge5Ti6: Ti 0.545; Ge2Ti: Ti 0.333 | unspecified | [2] Zobač 2023; _cites Liu 2011_ [doi](https://doi.org/10.1016/j.tca.2011.04.017) | Table 2, p. 3, row 16; `ORC-VS543Y2TGK` |  |
 | 1388 | peritectic: L + Ti6Ge5 -> TiGe2 | Ti6Ge5: Ge 0.454545, Ti 0.545455; TiGe2: Ge 0.666667, Ti 0.333333 | experimental | [1] Liu 2011 | Table 5, p. 6, row 13; `ORC-S5KIJUO2OO` |  |
 | 1383 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.127; Ge5Ti6: Ti 0.5455; Ge2Ti: Ti 0.333 | experimental | [2] Zobač 2023; _cites Bittner 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.114) | Table 2, p. 3, row 17; `ORC-2NQNQUIK6I` |  |
-| 1383 | peritectic |  | model | [2] Zobač 2023 | p. 2; `ORC-YB26FB2L6G` | “The stoichiometric Ge2Ti phase (structure type TiSi2) melts by a peritectic reaction at 1383 K.\[2\]” |
 | 1382.7 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.15; Ge5Ti6: Ti 0.546; Ge2Ti: Ti 0.333 | model | [2] Zobač 2023 | Table 2, p. 3, row 18; `ORC-337EPU2X3W` |  |
 | 1348 | peritectic: L + Ge5Ti6 ↔ Ge2Ti | L: Ti 0.178; Ge5Ti6: Ti 0.545; Ge2Ti: Ti 0.333 | experimental | [2] Zobač 2023; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 2, p. 3, row 15; `ORC-6KCDWOSGLY` |  |
 | 1348 | peritectic: L + Ti6Ge5 -> TiGe2 | L: Ge 0.822; Ti6Ge5: Ge 0.454; TiGe2: Ge 0.667 | experimental | [1] Liu 2011; _cites Rudometkina 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990197-5) | Table 5, p. 6, row 12; `ORC-AGCBDR7NL2` |  |

@@ -1,10 +1,10 @@
 # Ga–N system
 
-> Ga–N system: 8 accepted literature values (phase transition 7, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–N system: 5 accepted literature values (phase transition 4, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-N.html · Markdown: https://data.orchid-project.org/systems/GA-N.md
 
-8 accepted literature values from 1 paper(s) (experimental 5, model 3); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+5 accepted literature values from 1 paper(s) (experimental 4, model 1); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-N.json) · [CSV](https://data.orchid-project.org/systems/GA-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-N/GaN-03Unl.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GA-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-N.html) · [Markdown](https://data.orchid-project.org/systems/GA-N.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
-| model | 3 |
+| experimental | 4 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 7 |
+| phase transition | 4 |
 | formation | 1 |
 
 ## Calculated phase diagrams
@@ -56,7 +56,7 @@ Table: Enthalpies of formation, Ga–N system (1)
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (4)
 
 Table: Phase transition, Ga–N system
 
@@ -64,11 +64,8 @@ Table: Phase transition, Ga–N system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1043 K | 1043 | other: GaN, Dynamic oscillation TGA, first heating cycle; _alloy: N 0.5_ | experimental | [1] Unland 2003 | Table 4, p. 5, row 1; `ORC-FK57YZZHWC` |  |
 | Phase transition | 1085 K | 1085 | other: GaN, fast heating TGA (in ramp before 1275 K, 24 h); _alloy: N 0.5_ | experimental | [1] Unland 2003 | Table 4, p. 5, row 2; `ORC-QQ5EJWD4AD` |  |
-| Phase transition | 1110 K | 1110 | other | experimental | [1] Unland 2003 | p. 1; `ORC-55QNUK2WUL` | “A reproducible mass gain at slightly lower temperature suggests the equilibrium temperature to be at 1110710 K under 1 bar of nitrogen.” |
 | Phase transition | 1110 K | 1110 | other: GaN (+ in situ Ga) Isothermal stepping TGA, samples #1, #2, #3, assessed value; _alloy: N 0.5_ | experimental | [1] Unland 2003 | Table 4, p. 5, row 4; `ORC-QUBP5YRWM6` |  |
-| Phase transition | 2700 K | 2700 |  | model | [1] Unland 2003 | p. 13; `ORC-2XGMYDHKV6` | “The finally assessed value of Tm=2700 K agrees with all three constraints and the resulting value of 0;L Ga;N is given in Table 5.” |
 | Phase transition | 2700 K | 2700 | liquid | model | [1] Unland 2003 | p. 15; `ORC-JWKRDOKSBK` | “The experimental solubility data are compared to the calculated phase boundary based on Tm=2700 K in Fig. 8.” |
-| Phase transition | 2791 K | 2791 |  | model | [1] Unland 2003; _cites Van 1973_ [doi](https://doi.org/10.1103/physrevb.7.1479) | p. 13; `ORC-WGXS7XZ3SG` | “It is also in reasonable agreement with the melting point at 2791 K predicted from the semi-empirical theory of electronegativity \[53\].” |
 
 ## Sources
 

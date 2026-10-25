@@ -1,10 +1,10 @@
 # B–Ce system
 
-> B–Ce system: 128 accepted literature values (invariant reaction 68, formation 21, phase transition 20, phase equilibrium 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Ce system: 126 accepted literature values (invariant reaction 67, formation 21, phase transition 19, phase equilibrium 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-CE.html · Markdown: https://data.orchid-project.org/systems/B-CE.md
 
-128 accepted literature values from 3 paper(s) (experimental 64, model 44, DFT 8, unspecified 12); 0 calculated phase diagram(s).
+126 accepted literature values from 3 paper(s) (experimental 62, model 44, DFT 8, unspecified 12); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-CE.json) · [CSV](https://data.orchid-project.org/systems/B-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-CE) · [phases (8)](https://data.orchid-project.org/phases/pages/B-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-CE.html) · [Markdown](https://data.orchid-project.org/systems/B-CE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 64 |
+| experimental | 62 |
 | model | 44 |
 | DFT | 8 |
 | unspecified | 12 |
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 68 |
-| phase transition | 20 |
+| invariant reaction | 67 |
+| phase transition | 19 |
 | phase equilibrium | 13 |
 | formation | 21 |
 | crystal structure | 6 |
@@ -31,15 +31,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Ce system (68)
+Table: Invariant reactions reported in the literature for the B–Ce system (67)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2818.15 | congruent melting: L -> B6Ce | L: B 0.857; B6Ce: B 0.857 | experimental | [1] Premović 2017; _cites Stecher 1965_ | Table 2, p. 2, row 9; `ORC-WZHOJHUFNS` |  |
 | 2648.15 | peritectic: L + B6Ce -> B4Ce | L: B 0.744; B6Ce: B 0.857; B4Ce: B 0.8 | experimental | [1] Premović 2017; _cites Stecher 1965_ | Table 2, p. 2, row 20; `ORC-EMFT3RUDLY` |  |
 | 2643.15 | peritectic: L + B6Ce -> B4Ce | L: B 0.742; B6Ce: B 0.857; B4Ce: B 0.8 | experimental | [1] Premović 2017; _cites Benesovsky 1967_ | Table 2, p. 2, row 19; `ORC-NE4OJJELJD` |  |
-| 2604.95 | L -> B6Ce | L: B 0.857; B6Ce: B 0.857 | model | [1] Premović 2017 | Table 7, p. 9, row 5; `ORC-TWBGSDZYPO` |  |
-| 2603.15 | L -> B6Ce | L: B 0.857; B6Ce: B 0.857 | experimental | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 7, p. 9, row 6; `ORC-FPXLDL54FJ` |  |
+| 2604.95 | congruent melting: L -> B6Ce | L: B 0.857; B6Ce: B 0.857 | model | [1] Premović 2017 | Table 7, p. 9, row 5; `ORC-TWBGSDZYPO` |  |
+| 2603.15 | congruent melting: L -> B6Ce | L: B 0.857; B6Ce: B 0.857 | experimental | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 7, p. 9, row 6; `ORC-FPXLDL54FJ` |  |
 | 2603.15 | congruent melting: L -> B6Ce | L: B 0.857; B6Ce: B 0.857 | unspecified | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 2, p. 2, row 8; `ORC-MINWUU6QPP` |  |
 | 2473.15 | eutectic: L -> B6Ce + β(B) | L: B 0.99; B6Ce: B 0.857; β(B): B 1 | experimental | [1] Premović 2017; _cites Stecher 1965_ | Table 2, p. 2, row 25; `ORC-W6AUHMUZZZ` |  |
 | 2463.15 | congruent melting: L -> B6Ce |  | experimental | [1] Premović 2017; _cites Samsonov 1961_ | Table 2, p. 2, row 10; `ORC-2N2DI4NM6U` |  |
@@ -57,40 +57,39 @@ Table: Invariant reactions reported in the literature for the B–Ce system (68)
 | 2298.15 | eutectic: L -> B6Ce + β(B) | L: B 0.99; B6Ce: B 0.857; β(B): B 1 | experimental | [1] Premović 2017; _cites Spear 1976_ | Table 2, p. 2, row 24; `ORC-QRQSEPE5PI` |  |
 | 2278.4 | eutectic: L -> CeB6 + β-B | L: B 0.967; CeB6: B 0.857143; β-B: B 1 | model | [3] Li 2020 | Table 7, p. 29, row 15; `ORC-VQJZINXLUS` |  |
 | 2273.15 | eutectic: L->B6Ce+(βB) | L: B 0.967; B6Ce: B 0.857; (βB): B 1 | model | [2] Wang 2013 | Table 3, p. 4, row 14; `ORC-23DEBRVLOW` |  |
-| 2273.15 | L -> B6Ce + β(B) | L: B 0.967; B6Ce: B 0.857; β(B): B 1 | model | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 7, p. 9, row 20; `ORC-CG6N2OZ4EH` |  |
+| 2273.15 | eutectic: L -> B6Ce + β(B) | L: B 0.967; B6Ce: B 0.857; β(B): B 1 | model | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 7, p. 9, row 20; `ORC-CG6N2OZ4EH` |  |
 | 2273.15 | eutectic: L->B6Ce+(βB) | L: B 0.96; B6Ce: B 0.857; (βB): B 1 | experimental | [2] Wang 2013; _cites Seybolt 1960_ | Table 3, p. 4, row 13; `ORC-JECTH64KG3` |  |
 | 2273.15 | eutectic: L -> B6Ce + β(B) | L: B 0.96; B6Ce: B 0.857; β(B): B 1 | experimental | [1] Premović 2017; _cites Seybolt 1960_ | Table 2, p. 2, row 22; `ORC-JZSC7PZKIF` |  |
 | 2273.15 | eutectic: L -> B6Ce + β(B) | L: B 0.967; B6Ce: B 0.857; β(B): B 1 | model | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 2, p. 2, row 23; `ORC-KL4QGJ3KBC` |  |
-| 2273.15 | L -> B6Ce + β(B) | L: B 0.96; B6Ce: B 0.857; β(B): B 1 | experimental | [1] Premović 2017; _cites Seybolt 1960_ | Table 7, p. 9, row 19; `ORC-OC4AQMOVYO` |  |
+| 2273.15 | eutectic: L -> B6Ce + β(B) | L: B 0.96; B6Ce: B 0.857; β(B): B 1 | experimental | [1] Premović 2017; _cites Seybolt 1960_ | Table 7, p. 9, row 19; `ORC-OC4AQMOVYO` |  |
 | 2273 | eutectic: L -> CeB6 + β-B | L: B 0.99; CeB6: B 0.857143; β-B: B 1 | experimental | [3] Li 2020; _cites ref. 23_ | Table 7, p. 29, row 11; `ORC-Q4UO6CCVBX` |  |
 | 2273 | eutectic: L -> CeB6 + β-B | L: B 0.967; CeB6: B 0.857143; β-B: B 1 | model | [3] Li 2020; _cites ref. 21_ | Table 7, p. 29, row 13; `ORC-RHCGW4XMIE` |  |
-| 2270.85 | L -> B6Ce + β(B) | L: B 0.964; B6Ce: B 0.857; β(B): B 1 | model | [1] Premović 2017 | Table 7, p. 9, row 17; `ORC-ANYP3UF57U` |  |
+| 2270.85 | eutectic: L -> B6Ce + β(B) | L: B 0.964; B6Ce: B 0.857; β(B): B 1 | model | [1] Premović 2017 | Table 7, p. 9, row 17; `ORC-ANYP3UF57U` |  |
 | 2270.7 | eutectic: L -> CeB6 + β-B | L: B 0.964; CeB6: B 0.857143; β-B: B 1 | model | [3] Li 2020; _cites ref. 22_ | Table 7, p. 29, row 14; `ORC-II3UM5P3PQ` |  |
-| 2263.15 | L -> B6Ce + β(B) | L: B 0.99; B6Ce: B 0.857; β(B): B 1 | experimental | [1] Premović 2017; _cites Liao 1997_ [doi](https://doi.org/10.1007/bf02647853) | Table 7, p. 9, row 18; `ORC-LHIFK47D7S` |  |
+| 2263.15 | eutectic: L -> B6Ce + β(B) | L: B 0.99; B6Ce: B 0.857; β(B): B 1 | experimental | [1] Premović 2017; _cites Liao 1997_ [doi](https://doi.org/10.1007/bf02647853) | Table 7, p. 9, row 18; `ORC-LHIFK47D7S` |  |
 | 2263.15 | eutectic: L -> B6Ce + β(B) | L: B 0.99; B6Ce: B 0.857; β(B): B 1 | experimental | [1] Premović 2017; _cites Liao 1997_ [doi](https://doi.org/10.1007/bf02647853) | Table 2, p. 2, row 21; `ORC-PRHT46B2YE` |  |
 | 2263.15 | eutectic: L->B6Ce+(βB) | L: B 0.99; B6Ce: B 0.857; (βB): B 1 | experimental | [2] Wang 2013; _cites Liao 1997_ [doi](https://doi.org/10.1007/bf02647853) | Table 3, p. 4, row 12; `ORC-QH22D4LQOA` |  |
 | 2263 | eutectic: L -> CeB6 + β-B | L: B 0.99; CeB6: B 0.857143; β-B: B 1 | unspecified | [3] Li 2020; _cites ref. 24_ | Table 7, p. 29, row 12; `ORC-VXAATKKAN2` |  |
 | 2237.8 | peritectic: L + CeB6 -> CeB4 | L: B 0.744; CeB6: B 0.857143; CeB4: B 0.8 | model | [3] Li 2020; _cites ref. 21_ | Table 7, p. 29, row 8; `ORC-HKXF4CDHYI` |  |
-| 1286.15 | eutectic |  | experimental | [1] Premović 2017; _cites Rexer 1970_ | p. 3; `ORC-BCVNZVXF2J` | “Rexer and Petzow \[57\] studied liquidus by thermal analysis and reported information of eutectic reaction to be 1013 °C with composition 13.3 at. % B and the maximum solubility of Cu in β(B) at 950 °C to be 2.8 at.%.” |
-| 1071.95 | L -> δ(Ce) | L: B 0; δ(Ce): B 0 | model | [1] Premović 2017 | Table 7, p. 9, row 1; `ORC-DBWZNSLJ7R` |  |
+| 1071.95 | congruent melting: L -> δ(Ce) | L: B 0; δ(Ce): B 0 | model | [1] Premović 2017 | Table 7, p. 9, row 1; `ORC-DBWZNSLJ7R` |  |
 | 1071.15 | eutectic: L -> B4Ce + δ(Ce) | L: B 0.01; B4Ce: B 0.8; δ(Ce): B 0 | experimental | [1] Premović 2017; _cites Liao 1997_ [doi](https://doi.org/10.1007/bf02647853) | Table 2, p. 2, row 16; `ORC-DTVRGVTJCA` |  |
 | 1071.15 | congruent melting: L -> δ(Ce) | L: B 0; δ(Ce): B 0 | unspecified | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 2, p. 2, row 7; `ORC-QYULHLTUCP` |  |
-| 1071.15 | L -> δ(Ce) | L: B 0; δ(Ce): B 0 | experimental | [1] Premović 2017; _cites Massalski 1990_ | Table 7, p. 9, row 2; `ORC-VPWNQMYV6L` |  |
+| 1071.15 | congruent melting: L -> δ(Ce) | L: B 0; δ(Ce): B 0 | experimental | [1] Premović 2017; _cites Massalski 1990_ | Table 7, p. 9, row 2; `ORC-VPWNQMYV6L` |  |
 | 1063.45 | eutectic: L -> B4Ce + δ(Ce) | L: B 0.006; B4Ce: B 0.8; δ(Ce): B 0 | model | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 2, p. 2, row 15; `ORC-PBZB75LTD6` |  |
 | 1063.45 | eutectic: L->(δCe)+B4Ce | L: B 0.006; (δCe): B 0; B4Ce: B 0.8 | model | [2] Wang 2013 | Table 3, p. 4, row 7; `ORC-WQKF5AI7Q7` |  |
-| 1063.45 | L -> δ(Ce) + B4Ce | L: B 0.006; δ(Ce): B 0; B4Ce: B 0.8 | model | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 7, p. 9, row 13; `ORC-YNC5TT62QE` |  |
+| 1063.45 | eutectic: L -> δ(Ce) + B4Ce | L: B 0.006; δ(Ce): B 0; B4Ce: B 0.8 | model | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 7, p. 9, row 13; `ORC-YNC5TT62QE` |  |
 | 1063.3 | eutectic: L -> δ-Ce + CeB4 | L: B 0.006; CeB4: B 0.8 | model | [3] Li 2020; _cites ref. 22_ | Table 7, p. 29, row 19; `ORC-WLTPWCSXHO` |  |
 | 1063.15 | eutectic: L->(δCe)+B4Ce | L: B 0.01; (δCe): B 0; B4Ce: B 0.8 | experimental | [2] Wang 2013; _cites Brewer 1951_ [doi](https://doi.org/10.1111/j.1151-2916.1951.tb11631.x) | Table 3, p. 4, row 6; `ORC-3YHAUGBE7D` |  |
-| 1063.15 | L -> δ(Ce) + B4Ce | L: B 0.01; δ(Ce): B 0; B4Ce: B 0.8 | experimental | [1] Premović 2017; _cites Liao 1990_ | Table 7, p. 9, row 12; `ORC-7IK2QW7DFN` |  |
+| 1063.15 | eutectic: L -> δ(Ce) + B4Ce | L: B 0.01; δ(Ce): B 0; B4Ce: B 0.8 | experimental | [1] Premović 2017; _cites Liao 1990_ | Table 7, p. 9, row 12; `ORC-7IK2QW7DFN` |  |
 | 1063.15 | eutectic: L -> B4Ce + δ(Ce) | L: B 0.01; B4Ce: B 0.8; δ(Ce): B 0 | unspecified | [1] Premović 2017; _cites Liao 1990_ | Table 2, p. 2, row 14; `ORC-VSUN6QU53V` |  |
 | 1063.15 | eutectic: L->(δCe)+B4Ce | L: B 0.01; (δCe): B 0; B4Ce: B 0.8 | experimental | [2] Wang 2013; _cites Liao 1997_ [doi](https://doi.org/10.1007/bf02647853) | Table 3, p. 4, row 5; `ORC-WAA5IB7UXY` |  |
 | 1063 | eutectic: L -> δ-Ce + CeB4 | L: B 0.01; CeB4: B 0.8 | experimental | [3] Li 2020; _cites ref. 23_ | Table 7, p. 29, row 16; `ORC-BWCBJIZY7K` |  |
 | 1063 | eutectic: L -> δ-Ce + CeB4 | L: B 0.01; CeB4: B 0.8 | unspecified | [3] Li 2020; _cites ref. 24_ | Table 7, p. 29, row 17; `ORC-CE3WWG5NO7` |  |
-| 1061.95 | L -> δ(Ce) + B4Ce | L: B 0.005; δ(Ce): B 0; B4Ce: B 0.8 | model | [1] Premović 2017 | Table 7, p. 9, row 10; `ORC-DIRLEFLWTY` |  |
+| 1061.95 | eutectic: L -> δ(Ce) + B4Ce | L: B 0.005; δ(Ce): B 0; B4Ce: B 0.8 | model | [1] Premović 2017 | Table 7, p. 9, row 10; `ORC-DIRLEFLWTY` |  |
 | 1061.8 | eutectic: L -> δ-Ce + CeB4 | L: B 0.01; CeB4: B 0.8 | model | [3] Li 2020; _cites ref. 21_ | Table 7, p. 29, row 18; `ORC-73LQCF5WPU` |  |
 | 1058.3 | eutectic: L -> δ-Ce + CeB4 | L: B 0.006; CeB4: B 0.8 | model | [3] Li 2020 | Table 7, p. 29, row 20; `ORC-T25TEFJZV7` |  |
 | 1058.15 | eutectic: L -> B4Ce + δ(Ce) | L: B 0.01; B4Ce: B 0.8; δ(Ce): B 0 | experimental | [1] Premović 2017; _cites Brewer 1951_ | Table 2, p. 2, row 13; `ORC-3DPCXOCQ6T` |  |
-| 1058.15 | L -> δ(Ce) + B4Ce | L: B 0.01; δ(Ce): B 0; B4Ce: B 0.8 | experimental | [1] Premović 2017; _cites Brewer 1951_ | Table 7, p. 9, row 11; `ORC-OOTM4FJLV6` |  |
+| 1058.15 | eutectic: L -> δ(Ce) + B4Ce | L: B 0.01; δ(Ce): B 0; B4Ce: B 0.8 | experimental | [1] Premović 2017; _cites Brewer 1951_ | Table 7, p. 9, row 11; `ORC-OOTM4FJLV6` |  |
 | 1000 | δ(Ce) + B4Ce -> γ(Ce) | δ(Ce): B 0; B4Ce: B 0.8 | model | [1] Premović 2017 | Table 7, p. 9, row 7; `ORC-5A6YQK5ECA` |  |
 | 999.95 | peritectoid: δ(Ce) + B4Ce -> γ(Ce) | δ(Ce): B 0; B4Ce: B 0.8 | model | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 2, p. 2, row 12; `ORC-F5LCMKUHPR` |  |
 | 999.95 | peritectic: L+(δCe)->(γCe) | L: B 0.001; (δCe): B 0; (γCe): B 0 | model | [2] Wang 2013 | Table 3, p. 4, row 4; `ORC-IHL4RXIFSQ` |  |
@@ -136,7 +135,7 @@ Table: Enthalpies of formation, B–Ce system (21)
 
 ## Other properties
 
-### Phase transition (20)
+### Phase transition (19)
 
 Table: Phase transition, B–Ce system
 
@@ -152,7 +151,6 @@ Table: Phase transition, B–Ce system
 | Phase transition | 1061.95 K | 1061.95 | eutectic: L → B4Ce + δ(Ce); _alloy: B 0.049, Ce 0.951_ | experimental | [1] Premović 2017 | Table 4, p. 5, row 2; `ORC-C3OQAURJDY` |  |
 | Phase transition | 1071.15 K | 1071.15 | congruent melting: L->(δCe); _(δCe): B 0_ | experimental | [2] Wang 2013; _cites Liao 1997_ [doi](https://doi.org/10.1007/bf02647853) | Table 3, p. 4, row 1; `ORC-VHRCK5SZ4B` |  |
 | Phase transition | 1071.95 K | 1071.95 | congruent melting: L->(δCe); _(δCe): B 0_ | model | [2] Wang 2013 | Table 3, p. 4, row 2; `ORC-AKUUZEP6EP` |  |
-| Phase transition | 2329.15 K | 2329.15 |  | experimental | [1] Premović 2017; _cites Kimpel 1968_ [doi](https://doi.org/10.1021/je60037a028) | p. 2; `ORC-SNIB6FSXD6` | “Kimpel and Moss \[34\] reported that melting point of boron within the nominal purity range of 99-99.6% boron varies from 2056 °C to 2074 ± 19 °C, respectively.” |
 | Phase transition | 2348.15 K | 2348.15 | congruent melting: L->(βB); _(βB): B 1_ | model | [2] Wang 2013 | Table 3, p. 4, row 16; `ORC-5TR3MDV3CH` |  |
 | Phase transition | 2365.15 K | 2365.15 | congruent melting: L->(βB); _(βB): B 1_ | experimental | [2] Wang 2013; _cites M 1932_ | Table 3, p. 4, row 15; `ORC-6M3C7JJVET` |  |
 | Phase transition | 2603 K | 2603 | congruent melting: L -> CeB6; _L: B 0.857; CeB6: B 0.857143_ | unspecified | [3] Li 2020; _cites ref. 24_ | Table 7, p. 29, row 2; `ORC-CGMGAQPINH` |  |

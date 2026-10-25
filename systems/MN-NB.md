@@ -1,10 +1,10 @@
 # Mn–Nb system
 
-> Mn–Nb system: 86 accepted literature values (crystal structure 65, phase equilibrium 19, invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Nb system: 85 accepted literature values (crystal structure 64, phase equilibrium 19, invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-NB.html · Markdown: https://data.orchid-project.org/systems/MN-NB.md
 
-86 accepted literature values from 2 paper(s) (experimental 38, model 1, DFT 47); 3 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+85 accepted literature values from 2 paper(s) (experimental 37, model 1, DFT 47); 3 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-NB.json) · [CSV](https://data.orchid-project.org/systems/MN-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-NB/MnNb-12Liu-alt.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MN-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-NB.html) · [Markdown](https://data.orchid-project.org/systems/MN-NB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
+| experimental | 37 |
 | model | 1 |
 | DFT | 47 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | phase equilibrium | 19 |
-| crystal structure | 65 |
+| crystal structure | 64 |
 
 ## Calculated phase diagrams
 
@@ -96,7 +96,7 @@ Table: Phase equilibrium, Mn–Nb system
 | Phase composition |  | 1223.15 | Matrix + Second phase: Small + η-Nb-Mn-O; _Matrix: Mn 0.994, Nb 0.006; η-Nb-Mn-O: Mn 0.486, Nb 0.47_ | experimental | [2] Yan 2021 | Table 4, p. 10, row 5; `ORC-5CNNQNPMLA` |  |
 | Phase composition |  | 1223.15 | Matrix + η-Nb-Mn-O + overall (EDX); _overall (EDX): Mn 0.98, Nb 0.02; Matrix: Mn 0.994, Nb 0.006; η-Nb-Mn-O: Mn 0.543, Nb 0.449_ | experimental | [2] Yan 2021 | Table 4, p. 10, row 3; `ORC-WNZAAB3IGW` |  |
 
-### Crystal structure (65)
+### Crystal structure (64)
 
 Table: Crystal structure, Mn–Nb system
 
@@ -117,7 +117,6 @@ Table: Crystal structure, Mn–Nb system
 | Lattice a | 0.48824 not_printed ± 1.000e-5 | 150 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 3; `ORC-IMUETBYVN6.fb9b3e` |  |
 | Lattice a | 0.48834 not_printed ± 1.000e-5 | 200 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 2; `ORC-XT5HMRSZ6D.3f86ff` |  |
 | Lattice a | 4.89376 Å ± 4.000e-5 | 298.15 | Nb1.08Mn1.92; _alloy: Mn 0.6, Nb 0.4_ | experimental | [2] Yan 2021 | Table 3, p. 9, row 1; `ORC-TLDC4BHCAX.b94780` |  |
-| Lattice a | 11.3415 Å ± 2.000e-4 | 298.15 | Nb2.86Mn3.14O0.31; _alloy: Mn 0.6, Nb 0.4_ | experimental | [2] Yan 2021 | Table 3, p. 9, row 2; `ORC-O7NWCRV6L2.115963` |  |
 | Lattice a | 0.48898 not_printed ± 1.000e-5 | 298.15 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 1; `ORC-KGVQ2GBBWR.e78d59` |  |
 | Lattice a | 4.8898 Å ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 5; `ORC-XMVXEW2F2E.bee461` |  |
 | Lattice b | 0.48801 not_printed ± 1.000e-5 | 100 | NbMn2; _alloy: Nb 0.333333_ | experimental | [2] Yan 2021 | Table 2, p. 6, row 4; `ORC-ZLYJ2TYSIO.a11da6` |  |

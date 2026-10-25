@@ -401,7 +401,7 @@
     "x0": 0.444444,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ce5Sn4",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -419,7 +419,7 @@
     "x0": 0.444444,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ce5Sn4",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -513,7 +513,7 @@
     "x0": 0.625,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ce3Sn5",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -531,7 +531,7 @@
     "x0": 0.625,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ce3Sn5",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -568,7 +568,7 @@
     "x0": 0.75,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->CeSn3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -586,7 +586,7 @@
     "x0": 0.75,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->CeSn3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

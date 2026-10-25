@@ -1,10 +1,10 @@
 # Cd–Pb–Te system
 
-> Cd–Pb–Te system: 10 accepted literature values (invariant reaction 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Pb–Te system: 6 accepted literature values (invariant reaction 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-PB-TE.html · Markdown: https://data.orchid-project.org/systems/CD-PB-TE.md
 
-10 accepted literature values from 1 paper(s) (experimental 7, model 3); 0 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (experimental 3, model 3); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-PB-TE.json) · [CSV](https://data.orchid-project.org/systems/CD-PB-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-PB-TE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-PB-TE.html) · [Markdown](https://data.orchid-project.org/systems/CD-PB-TE.md)
 
@@ -12,25 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 3 |
 | model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 10 |
+| invariant reaction | 6 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cd–Pb–Te system (10)
+Table: Invariant reactions reported in the literature for the Cd–Pb–Te system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1157 | eutectic |  | experimental | [1] Liu 2009 | p. 3; `ORC-7UIOKIJSR5` | “The eutectic temperature and composition in the pseudo-binary CdTe-PbTe section were determined to be at 1157 K around 18.34 at.% Cd.” |
-| 1143 | eutectic |  | experimental | [1] Liu 2009 | p. 3; `ORC-OIWWTVGSDW` | “The eutectic point was shown to be at 1143 K and about 17.5 at.% Cd.” |
-| 1139 | eutectic |  | experimental | [1] Liu 2009 | p. 3; `ORC-NYIHT3KZ7U` | “The eutectic temperature was found at 1139 K.” |
-| 1113 | eutectic |  | experimental | [1] Liu 2009; _cites Hirai 1968_ [doi](https://doi.org/10.2320/matertrans1960.9.301) | p. 3; `ORC-I3SQTJTEP5` | “Hirai and Kurata81 investigated the CdTe-PbTe pseudo-binary phase diagram by cooling curves, where the eutectic temperature and composition were determined to be at 1113 K and about 20 at.% Cd, respectively.” |
 | 686 | liq -> CdTe + PbTe + hex |  | experimental | [1] Liu 2009; _cites Morgant 1980_ | Table VIII, p. 12, row 2; `ORC-C624IDOMJO` |  |
 | 684.39 | liq -> CdTe + PbTe + hex |  | model | [1] Liu 2009 | Table VIII, p. 12, row 1; `ORC-PZYANPC4UI` |  |
 | 600 | liq -> CdTe + PbTe + fcc |  | experimental | [1] Liu 2009; _cites Morgant 1980_ | Table VIII, p. 12, row 4; `ORC-LP3BRQUFMW` |  |

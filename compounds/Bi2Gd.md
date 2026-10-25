@@ -38,11 +38,11 @@ Table: Uncertainty budget of the literature values of Bi2Gd
 | -67 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -67 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -67 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -56.8759 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -56.8396 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -54.0316 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -53.812 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -21.5319 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -56.8759 | kJ/mol-atom |  | 5.000e-6 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -56.8396 | kJ/mol-atom |  | 5.000e-6 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -54.0316 | kJ/mol-atom |  | 5.000e-6 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -53.812 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -21.5319 | kJ/mol-atom |  | 5.000e-6 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

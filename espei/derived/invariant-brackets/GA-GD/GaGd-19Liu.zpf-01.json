@@ -279,7 +279,7 @@
     "x0": 0.3333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. → Ga2Gd",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -297,7 +297,7 @@
     "x0": 0.3333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. → Ga2Gd",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

@@ -46,12 +46,12 @@ Table: Uncertainty budget of the literature values of Nb3Sn
 | -32.06 | kJ/mol (basis unstated) | 1.97 | 0.005 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
 | -32.06 | kJ/mol (basis unstated) | 1.97 | 5.000e-4 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
 | -16.7 | unspecified | 1.8 | 0.05 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 1.8 |
-| -16.7 | kJ/mol (basis unstated) | 1.8 | 0.05 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -16.7 | kJ/mol (basis unstated) | 1.8 | 0.05 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
 | -16.57 | kJ/mol (basis unstated) |  | 0.005 | 12 (kems_vapour_second_law, prior) |  |  |  | 12 |
 | -16.57 | kJ/mol (basis unstated) |  | 5.000e-4 | 12 (kems_vapour_second_law, prior) |  |  |  | 12 |
 | -16.19 | kJ/mol (basis unstated) |  | 0.005 | 8 (kems_vapour_third_law, prior) |  |  |  | 8 |
 | -16.19 | kJ/mol (basis unstated) |  | 5.000e-4 | 8 (kems_vapour_third_law, prior) |  |  |  | 8 |
-| -15.2 | kJ/mol (basis unstated) | 2.3 | 0.05 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -15.2 | kJ/mol (basis unstated) | 2.3 | 0.05 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
 | -18.307 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -18.241 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -17.876 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

@@ -1,10 +1,10 @@
 # Mn–Sm system
 
-> Mn–Sm system: 22 accepted literature values (invariant reaction 21, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Sm system: 22 accepted literature values (invariant reaction 19, formation 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-SM.html · Markdown: https://data.orchid-project.org/systems/MN-SM.md
 
-22 accepted literature values from 2 paper(s) (experimental 14, model 8); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+22 accepted literature values from 3 paper(s) (experimental 14, model 8); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-SM.json) · [CSV](https://data.orchid-project.org/systems/MN-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-SM/MnSm-09Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/MN-SM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-SM.html) · [Markdown](https://data.orchid-project.org/systems/MN-SM.md)
 
@@ -19,8 +19,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 21 |
-| formation | 1 |
+| invariant reaction | 19 |
+| formation | 3 |
 
 ## Calculated phase diagrams
 
@@ -79,7 +79,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mn–Sm system (21)
+Table: Invariant reactions reported in the literature for the Mn–Sm system (19)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -91,9 +91,7 @@ Table: Invariant reactions reported in the literature for the Mn–Sm system (21
 | 1368.15 | peritectic: L + γMn ↔ βMn | γMn: Sm 0; βMn: Sm 0 | experimental | [1] Wang 2009; _cites Kirchmayr 1970_ [doi](https://doi.org/10.1515/ijmr-1970-610106) | Table 3, p. 3, row 15; `ORC-NAG2BBZGOJ` |  |
 | 1298.15 | peritectic: L + βMn ↔ Mn23Sm6 | L: Sm 0.3956; βMn: Sm 0; Mn23Sm6: Sm 0.2069 | model | [1] Wang 2009 | Table 3, p. 3, row 13; `ORC-AHZQR6RO3I` |  |
 | 1298.15 | peritectic: L + βMn ↔ Mn23Sm6 | βMn: Sm 0; Mn23Sm6: Sm 0.2069 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 12; `ORC-GSIG6XLJDX` |  |
-| 1298 | peritectic: L þ cub-Mn ↔ Mn23Sm6 |  | experimental | [2] Ye 2024; _cites Kim 2012_ | p. 5; `ORC-7GASFHKW37.3cc148` | “Two intermetallic compounds Mn23Sm6 and Mn2Sm were confirmed, which were formed by peritectic reactions (L þ cub-Mn ↔ Mn23Sm6 at 1298 K and L þ Mn23Sm6 ↔ Mn2Sm at 1203 K).” |
 | 1203.15 | peritectic: L + Mn23Sm6 ↔ Mn2Sm | Mn23Sm6: Sm 0.2069; Mn2Sm: Sm 0.3333 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 10; `ORC-PC4H33GTDW` |  |
-| 1203 | peritectic: L þ Mn23Sm6 ↔ Mn2Sm |  | experimental | [2] Ye 2024; _cites Kim 2012_ | p. 5; `ORC-7GASFHKW37.3d449f` | “Two intermetallic compounds Mn23Sm6 and Mn2Sm were confirmed, which were formed by peritectic reactions (L þ cub-Mn ↔ Mn23Sm6 at 1298 K and L þ Mn23Sm6 ↔ Mn2Sm at 1203 K).” |
 | 1202.15 | peritectic: L + Mn23Sm6 ↔ Mn2Sm | L: Sm 0.5259; Mn23Sm6: Sm 0.2069; Mn2Sm: Sm 0.3333 | model | [1] Wang 2009 | Table 3, p. 3, row 11; `ORC-XOZSOFWCNK` |  |
 | 1195.15 | peritectic: L + γSm ↔ βSm | L: Sm 0.836; γSm: Sm 1; βSm: Sm 1 | model | [1] Wang 2009 | Table 3, p. 3, row 9; `ORC-I62WTCPICZ` |  |
 | 1195.15 | peritectic: L + γSm ↔ βSm | γSm: Sm 1; βSm: Sm 1 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 3, row 7; `ORC-TT75UJEC7X` |  |
@@ -109,18 +107,21 @@ Table: Invariant reactions reported in the literature for the Mn–Sm system (21
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mn–Sm system (1)
+Table: Enthalpies of formation, Mn–Sm system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -92 unspecified ± 5 | 1320 | experimental |  |  | [2] Ye 2024; _cites Shilov 1983_ | p. 5; `ORC-IFDVP2YZP4` | “Using high-temperature isoperibolic calorimetry, Shilov et al.\[62\] determined the enthalpy of formation of Mn23Sm6 at 1320 K to be -92 � 5 kJ/mol.” |
+| Mn23RE6 |  | -3.17 kJ/mol-atom | 1320 | experimental |  |  | [2] Gröbner 2001; _cites Shilov 1983_ | Table 2, p. 3, row 1; `ORC-PNIDQR52CL.2d37c6` |  |
+| Mn23Sm6 |  | -92 unspecified ± 5 | 1320 | experimental |  |  | [3] Ye 2024; _cites Shilov 1983_ | p. 5; `ORC-IFDVP2YZP4` | “Using high-temperature isoperibolic calorimetry, Shilov et al.\[62\] determined the enthalpy of formation of Mn23Sm6 at 1320 K to be -92 � 5 kJ/mol.” |
+| Mn23Sm6 | [Mn23Sm6](https://data.orchid-project.org/compounds/Mn23Sm6.html) | -3.17 kJ/mol-atom | 1320 | experimental | 10.805 (mp-aaacpxjn) | 18.915 (oqmd-656273) | [2] Gröbner 2001; _cites Shilov 1983_ | Table 2, p. 3, row 1; `ORC-PNIDQR52CL.cf24ce` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. C.P. Wang, H.L. Zhang, S.L. Wang, Z. Lin, X.J. Liu, A.T. Tang et al., Thermodynamic assessments of the Mn–Sm and Mn–Ho systems, Journal of Alloys and Compounds 481, 291-295 (2009). [doi:10.1016/j.jallcom.2009.03.121](https://doi.org/10.1016/j.jallcom.2009.03.121)
-2. Hongjian Ye, Jiang Wang, Qing Chen, Guanghui Rao, Huaiying Zhou, Development of thermodynamic database of the Mn‐RE (RE = rare earth metals) binary systems, Materials Genome Engineering Advances 2 (2024). [doi:10.1002/mgea.39](https://doi.org/10.1002/mgea.39)
+2. J. Gröbner, A. Pisch, R. Schmid-Fetzer, Thermodynamic optimization of the systems Mn–Gd and Mn–Y using new experimental results, Journal of Alloys and Compounds 317-318, 433-437 (2001). [doi:10.1016/s0925-8388(00)01364-5](https://doi.org/10.1016/s0925-8388%2800%2901364-5)
+3. Hongjian Ye, Jiang Wang, Qing Chen, Guanghui Rao, Huaiying Zhou, Development of thermodynamic database of the Mn‐RE (RE = rare earth metals) binary systems, Materials Genome Engineering Advances 2 (2024). [doi:10.1002/mgea.39](https://doi.org/10.1002/mgea.39)
 
 ## Please cite
 

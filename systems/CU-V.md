@@ -1,10 +1,10 @@
 # Cu–V system
 
-> Cu–V system: 12 accepted literature values (phase transition 4, invariant reaction 4, phase equilibrium 2, mixing / partial 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–V system: 11 accepted literature values (invariant reaction 4, phase transition 3, phase equilibrium 2, mixing / partial 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-V.html · Markdown: https://data.orchid-project.org/systems/CU-V.md
 
-12 accepted literature values from 1 paper(s) (experimental 10, model 2); 2 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 10, model 1); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-V.json) · [CSV](https://data.orchid-project.org/systems/CU-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-V/CuV-08Zha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-V.html) · [Markdown](https://data.orchid-project.org/systems/CU-V.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 10 |
-| model | 2 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 4 |
-| phase transition | 4 |
+| phase transition | 3 |
 | phase equilibrium | 2 |
 | mixing / partial | 2 |
 
@@ -59,7 +59,7 @@ Table: Invariant reactions reported in the literature for the Cu–V system (4)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (3)
 
 Table: Phase transition, Cu–V system
 
@@ -67,7 +67,6 @@ Table: Phase transition, Cu–V system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1356.55 K | 1356.55 | peritectic: 2; _alloy: Cu 0.985, V 0.015_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 3; `ORC-24G6QEDB7X` |  |
 | Phase transition | 1357.75 K | 1357.75 | peritectic: 2; _alloy: Cu 0.985, V 0.015_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 4; `ORC-5VKL7IOLOH` |  |
-| Phase transition | 1360.15 K | 1360.15 |  | model | [1] Zhao 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-DJ6L2JIKEA` | “The degenerated equilibrium temperature was placed at 1087 ± 2 ◦ C by calibrating to the melting point of Cu assessed by Dinsdale \[20\].” |
 | Phase transition | 1360.25 K | 1360.25 | 3; _alloy: Cu 0.5, V 0.5_ | experimental | [1] Zhao 2008 | Table 2, p. 3, row 5; `ORC-U6UNJ2A7VS` |  |
 
 ### Phase equilibrium (2)

@@ -1,16 +1,16 @@
 # AuSb2: enthalpy of formation
 
-> Enthalpy of formation of AuSb2: 14 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of AuSb2: 15 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AuSb2.html · Markdown: https://data.orchid-project.org/compounds/AuSb2.md
 
-14 accepted literature formation-enthalpy value(s) (experimental 7, model 7).
+15 accepted literature formation-enthalpy value(s) (experimental 7, model 8).
 
 Systems: [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AuSb2 reported in the literature (14)
+Table: Enthalpy of formation of AuSb2 reported in the literature (15)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -27,6 +27,7 @@ Table: Enthalpy of formation of AuSb2 reported in the literature (14)
 | -5.5 kJ/mol (basis unstated) | AuSb2 | 298.15 | model |  | [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html) | [1] Gierlotka 2013; _cites Kim 2002_ [doi](https://doi.org/10.1007/s11664-002-0125-4) | Table 2, p. 2, row 5; `ORC-K6LKSCUPDV` |  |
 | -5.41 kJ/mol (basis unstated) | AuSb2 | 298.15 | model |  | [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html) | [1] Gierlotka 2013; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table 2, p. 2, row 2; `ORC-4T2EX3FKWH` |  |
 | -5.41 kJ/mol (basis unstated) | AuSb2 | 298.15 | model |  | [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html) | [2] Kim 2002; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table III, p. 4, row 4; `ORC-FPBFDILKWN` |  |
+| -5.40955 kJ/mol (basis unstated) | AuSb2 | 298.15 | model |  | [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html) | [3] Wang 2011 | p. 5; `ORC-VD4C6PJR6U.2b5ea6` | “The enthalpy of formation of AuSb2 referred to fcc A1(Au) and rhombohedral A7(Sb) at 298 K is calculated to be -5409.55 J/mol, which agrees well with the experimental values measured by Hayer and Castanet \[41\] (-5400 ± 600 J/mol) as well as the assessed values by Liu et al. \[20\] (-4962 J/mol) and Kim et al. \[32\] (-5500 J/mol).” |
 | -5.148 kJ/mol (basis unstated) | AuSb2 | 298.15 | model |  | [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html) | [1] Gierlotka 2013 | Table 2, p. 2, row 7; `ORC-3T7A4QOXU7` |  |
 
 ### Uncertainty budget
@@ -50,12 +51,14 @@ Table: Uncertainty budget of the literature values of AuSb2
 | -5.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -5.41 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -5.41 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -5.40955 | kJ/mol (basis unstated) |  | 5.000e-6 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -5.148 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 
 ## Sources
 
 1. Wojciech Gierlotka, Thermodynamic description of the binary Au–Sb and ternary Au–In–Sb systems, Journal of Alloys and Compounds 579, 533-539 (2013). [doi:10.1016/j.jallcom.2013.04.186](https://doi.org/10.1016/j.jallcom.2013.04.186)
 2. Jong Hoon Kim, Sang Won Jeong, Hyuck Mo Lee, A thermodynamic study of phase equilibria in the Au-Sb-Sn solder system, Journal of Elec Materi 31, 557-563 (2002). [doi:10.1007/s11664-002-0125-4](https://doi.org/10.1007/s11664-002-0125-4)
+3. J. Wang, Y.J. Liu, L.B. Liu, H.Y. Zhou, Z.P. Jin, Thermodynamic modeling of the Au–Sb–Si ternary system, Journal of Alloys and Compounds 509, 3057-3064 (2011). [doi:10.1016/j.jallcom.2010.11.199](https://doi.org/10.1016/j.jallcom.2010.11.199)
 
 ## Please cite
 

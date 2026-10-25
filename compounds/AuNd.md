@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of AuNd
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -70.2 | kJ/mol-atom | 3.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.7 |
+| -70.2 | kJ/mol-atom | 3.7 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.7 |
 | -79.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -79 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -76.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

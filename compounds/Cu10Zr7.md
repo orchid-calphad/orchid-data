@@ -41,8 +41,8 @@ Table: Uncertainty budget of the literature values of Cu10Zr7
 | -20.466 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -14.2206 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -6.73512 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -18.75 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -16.13 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -18.75 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -16.13 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

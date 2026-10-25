@@ -1,10 +1,10 @@
 # Hf–Si system
 
-> Hf–Si system: 63 accepted literature values (invariant reaction 39, crystal structure 14, formation 7, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Si system: 62 accepted literature values (invariant reaction 38, crystal structure 14, formation 7, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-SI.html · Markdown: https://data.orchid-project.org/systems/HF-SI.md
 
-63 accepted literature values from 2 paper(s) (experimental 25, model 21, unspecified 17); 3 calculated phase diagram(s).
+62 accepted literature values from 2 paper(s) (experimental 24, model 21, unspecified 17); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-SI.json) · [CSV](https://data.orchid-project.org/systems/HF-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-SI/HfSi-00Zha-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/HF-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-SI.html) · [Markdown](https://data.orchid-project.org/systems/HF-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
+| experimental | 24 |
 | model | 21 |
 | unspecified | 17 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 39 |
+| invariant reaction | 38 |
 | phase transition | 2 |
 | phase equilibrium | 1 |
 | formation | 7 |
@@ -112,14 +112,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hf–Si system (39)
+Table: Invariant reactions reported in the literature for the Hf–Si system (38)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2753.15 | L->Hf3Si2 | L: Si 0.4; Hf3Si2: Hf 0.6, Si 0.4 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 21; `ORC-DQXMHMYEPN` |  |
-| 2736.15 | L->Hf3Si2 | L: Si 0.4; Hf3Si2: Hf 0.6, Si 0.4 | model | [1] Yang 2003 | Table 3, p. 3, row 20; `ORC-NM74MT6ONK` |  |
+| 2753.15 | congruent melting: L->Hf3Si2 | L: Si 0.4; Hf3Si2: Hf 0.6, Si 0.4 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 21; `ORC-DQXMHMYEPN` |  |
+| 2736.15 | congruent melting: L->Hf3Si2 | L: Si 0.4; Hf3Si2: Hf 0.6, Si 0.4 | model | [1] Yang 2003 | Table 3, p. 3, row 20; `ORC-NM74MT6ONK` |  |
 | 2633.15 | L+Hf3Si2->Hf5Si3 | Hf3Si2: Hf 0.6, Si 0.4; Hf5Si3: Hf 0.625, Si 0.375 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 7; `ORC-2CQHYEOYAE` |  |
-| 2633.15 | peritectic: L + Hf3Si2 ↔ Hf5Si3 |  | experimental | [2] Zhao 2000; _cites Brukl 1968_ | p. 1; `ORC-LRWF53FSEB` | “The upper stability temperature of the Hf5Si3 phase was estimated at 2360 ± 30 °C, based on the incipient melting and collapsing data of Brukl \[1968Bru\]. The incipient melting and collapsing data exhibited a small plateau in the phase diagram while there was an invariant reaction, as shown in Fig. 1. It seems that there was a plateau at about 2360 ± 30 °C in the composition region close to Hf5Si3…” |
 | 2633.15 | peritectic: L + Hf3Si2 -> Hf5Si3 | Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [2] Zhao 2000 | Table 2, p. 2, row 7; `ORC-VHBKKZEWW6` |  |
 | 2630.15 | peritectic: L + Hf3Si2 -> Hf5Si3 | L: Si 0.277; Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [2] Zhao 2000 | Table 2, p. 2, row 8; `ORC-AVOEOJDPZI` |  |
 | 2628.15 | L+Hf3Si2->Hf5Si3 | L: Si 0.303; Hf3Si2: Si 0.4; Hf5Si3: Si 0.375 | model | [1] Yang 2003 | Table 3, p. 3, row 6; `ORC-WULEIWIIBV` |  |
@@ -141,19 +140,19 @@ Table: Invariant reactions reported in the literature for the Hf–Si system (39
 | 2198.15 | Hf5Si3->Hf2Si+Hf3Si2 | Hf5Si3: Hf 0.625, Si 0.375; Hf2Si: Hf 0.666667, Si 0.333333; Hf3Si2: Si 0.4 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 9; `ORC-NOCQ4FOP3B` |  |
 | 2198.15 | eutectoid: Hf5Si3 ↔ Hf2Si + Hf3Si2 |  | experimental | [2] Zhao 2000 | p. 3; `ORC-PO4HMQJLBW` | “Based on the above data, it is clear that the eutectoid reaction, Hf5Si3 ↔ Hf2Si + Hf3Si2, exists at 1925 ± 25 °C.” |
 | 2197.15 | eutectoid: Hf5Si3 -> Hf2Si + Hf3Si2 | Hf5Si3: Si 0.375; Hf2Si: Si 0.333333; Hf3Si2: Si 0.4 | model | [2] Zhao 2000 | Table 2, p. 2, row 10; `ORC-RQL2F54TO4` |  |
-| 2104.15 | L->bcc(Hf)+Hf2Si | L: Si 0.115; Hf2Si: Hf 0.666667, Si 0.333333 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 2; `ORC-25R37SRK3W` |  |
+| 2104.15 | eutectic: L->bcc(Hf)+Hf2Si | L: Si 0.115; Hf2Si: Hf 0.666667, Si 0.333333 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 2; `ORC-25R37SRK3W` |  |
 | 2104.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.115; Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 1; `ORC-AKI5TVHLB7` |  |
 | 2101.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.111; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 2; `ORC-65PMR7I7UG` |  |
-| 2100.15 | L->bcc(Hf)+Hf2Si | L: Si 0.12; bcc(Hf): Si 0; Hf2Si: Si 0.333 | model | [1] Yang 2003 | Table 3, p. 3, row 1; `ORC-FJWGWYT7K5` |  |
+| 2100.15 | eutectic: L->bcc(Hf)+Hf2Si | L: Si 0.12; bcc(Hf): Si 0; Hf2Si: Si 0.333 | model | [1] Yang 2003 | Table 3, p. 3, row 1; `ORC-FJWGWYT7K5` |  |
 | 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 4; `ORC-EXIAXQ3DVI` |  |
 | 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 3; `ORC-VNGYTCEOCN` |  |
 | 1819.15 | peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; L: Si 0.808; HfSi2: Si 0.666667 | model | [2] Zhao 2000 | Table 2, p. 2, row 18; `ORC-TGND66FJPY` |  |
 | 1816.15 | peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; HfSi2: Si 0.666667 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 17; `ORC-EWSMTAZE3V` |  |
 | 1816.15 | L+HfSi->HfSi2 | HfSi: Hf 0.5, Si 0.5; HfSi2: Hf 0.333333, Si 0.666667 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 15; `ORC-VLFUIXB7CY` |  |
 | 1814.15 | L+HfSi->HfSi2 | L: Si 0.762; HfSi: Si 0.5; HfSi2: Si 0.667 | model | [1] Yang 2003 | Table 3, p. 3, row 14; `ORC-VK76LKTZIN` |  |
-| 1603.15 | L->HfSi2+(Si) | L: Si 0.91; HfSi2: Hf 0.333333, Si 0.666667 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 17; `ORC-6RBWCTLYHD` |  |
+| 1603.15 | eutectic: L->HfSi2+(Si) | L: Si 0.91; HfSi2: Hf 0.333333, Si 0.666667 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 17; `ORC-6RBWCTLYHD` |  |
 | 1603.15 | eutectic: L -> HfSi2 + diamond_A4 (Si) | L: Si 0.91; HfSi2: Si 0.666667; diamond_A4 (Si): Si 1 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 19; `ORC-II2T7VPYPT` |  |
-| 1603.15 | L->HfSi2+(Si) | L: Si 0.893; HfSi2: Si 0.667; (Si): Si 1 | model | [1] Yang 2003 | Table 3, p. 3, row 16; `ORC-SHNFFIRUSD` |  |
+| 1603.15 | eutectic: L->HfSi2+(Si) | L: Si 0.893; HfSi2: Si 0.667; (Si): Si 1 | model | [1] Yang 2003 | Table 3, p. 3, row 16; `ORC-SHNFFIRUSD` |  |
 | 1598.15 | eutectic: L -> HfSi2 + diamond_A4 (Si) | L: Si 0.908; HfSi2: Si 0.666667; diamond_A4 (Si): Si 1 | model | [2] Zhao 2000 | Table 2, p. 2, row 20; `ORC-G53DU67IYP` |  |
 
 ## Formation enthalpies

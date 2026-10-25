@@ -1,10 +1,10 @@
 # Co–Hf system
 
-> Co–Hf system: 70 accepted literature values (invariant reaction 33, heat capacity / entropy / enthalpy 20, formation 8, phase transition 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Hf system: 60 accepted literature values (invariant reaction 31, heat capacity / entropy / enthalpy 20, formation 8, other property 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-HF.html · Markdown: https://data.orchid-project.org/systems/CO-HF.md
 
-70 accepted literature values from 2 paper(s) (experimental 52, model 18); 3 calculated phase diagram(s).
+60 accepted literature values from 2 paper(s) (experimental 42, model 18); 3 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-HF.json) · [CSV](https://data.orchid-project.org/systems/CO-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-HF/CoHf-06Bra.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CO-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-HF.html) · [Markdown](https://data.orchid-project.org/systems/CO-HF.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 52 |
+| experimental | 42 |
 | model | 18 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 33 |
-| phase transition | 8 |
+| invariant reaction | 31 |
 | formation | 8 |
 | heat capacity / entropy / enthalpy | 20 |
 | other property | 1 |
@@ -81,7 +80,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Hf system (33)
+Table: Invariant reactions reported in the literature for the Co–Hf system (31)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -92,13 +91,11 @@ Table: Invariant reactions reported in the literature for the Co–Hf system (33
 | 1893.15 | congruent melting: Liquid -> Co2Hf | Liquid: Hf 0.3333; Co2Hf: Hf 0.3333 | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | Table 3, p. 6, row 4; `ORC-MGBTQCAY2J` |  |
 | 1839.15 | eutectic: Liquid -> Co2Hf + CoHf | Liquid: Hf 0.4153; Co2Hf: Hf 0.3468; CoHf: Hf 0.4821 | model | [1] Lu 2015 | Table 3, p. 6, row 7; `ORC-GDJVHZXDML` |  |
 | 1823.15 | eutectic: Liquid -> Co2Hf + CoHf | Liquid: Hf 0.435; Co2Hf: Hf 0.375; CoHf: Hf 0.49 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 6; `ORC-AKOGIQ4W7J` |  |
-| 1823.15 | eutectic: L $ Co2Hf + CoHf |  | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | p. 2; `ORC-RT6XBNAU25.63b86f` | “CoHf was claimed to melt congruently at 1640 C, and a eutectic reaction, L $ Co2Hf + CoHf, was reported at 1550 C by Svechnikov et al. \[14\].” |
 | 1823.15 | eutectic: Liquid -> Co2Hf + CoHf | Liquid: Hf 0.4191; Co2Hf: Hf 0.3428; CoHf: Hf 0.4716 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 8; `ORC-ZPOUPIEDC2` |  |
 | 1623.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Co2Hf: Co 0.666667, Hf 0.333333; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 10; `ORC-EW6NAKCDIL` |  |
 | 1623.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Liquid: Hf 0.135; Co2Hf: Hf 0.27; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | Table 3, p. 6, row 9; `ORC-XHVSLO6ASH` |  |
 | 1600.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Liquid: Hf 0.1454; Co2Hf: Hf 0.2501; Co23Hf6: Hf 0.2069 | model | [1] Lu 2015 | Table 3, p. 6, row 12; `ORC-KHTBVXPD3I` |  |
 | 1599.15 | peritectic: Liquid + Co2Hf -> Co23Hf6 | Co2Hf: Co 0.666667, Hf 0.333333; Co23Hf6: Co 0.793103, Hf 0.206897 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 11; `ORC-JS2A7AZIT2` |  |
-| 1588.15 | peritectic: L + CoHf $ CoHf2 |  | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | p. 2; `ORC-GREKJO7LRU` | “According to the experimental observations, CoHf2 was confirmed to melt through a peritectic reaction L + CoHf $ CoHf2 around 1315 C, but the eutectic composition for the reaction L $ CoHf2 + (bHf) was modified to be around 71.5 at.% Hf.” |
 | 1588.15 | peritectic: Liquid + CoHf -> CoHf2 | Liquid: Hf 0.84; CoHf: Hf 0.505; CoHf2: Hf 0.71 | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 13; `ORC-RAZRYUCKXW` |  |
 | 1585.95 | peritectic: Liquid + CoHf -> CoHf2 | Liquid: Hf 0.69; CoHf: Co 0.5, Hf 0.5; CoHf2: Co 0.333333, Hf 0.666667 | experimental | [1] Lu 2015; _cites Lu 2015_ [doi](https://doi.org/10.1016/j.jallcom.2014.11.206) | Table 3, p. 6, row 14; `ORC-T7LRTPMNAB` |  |
 | 1580.15 | peritectic: Liquid + CoHf -> CoHf2 | Liquid: Hf 0.6795; CoHf: Hf 0.5141; CoHf2: Hf 0.6594 | model | [1] Lu 2015 | Table 3, p. 6, row 15; `ORC-22SQ6YPT35` |  |
@@ -137,21 +134,6 @@ Table: Enthalpies of formation, Co–Hf system (8)
 | CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -38 kJ/mol-atom | 298.15 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 16; `ORC-N5HZ3J43KZ` |  |
 
 ## Other properties
-
-### Phase transition (8)
-
-Table: Phase transition, Co–Hf system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 593.15 K | 593.15 | other | experimental | [1] Lu 2015; _cites Ivanovic 1995_ [doi](https://doi.org/10.1007/bf00349909) | p. 3; `ORC-RGKHK25N7R` | “By means of DTA, Ivanovic et al. \[20\] measured the specific heat of CoHf2 in the temperature range of 2-467 C. It first increases from 27 to 31 J/mole-atoms-K, and then a pronounced drop starts around 320 C. This deviation was supposed to be associated with the second order diffuse transition and attributed to the contribution of defect arising preferentially around the 16c position of the NiTi2-…” |
-| Phase transition | 758.15 K | 758.15 | other | experimental | [1] Lu 2015; _cites Buschow 1979_ [doi](https://doi.org/10.1063/1.325724) | p. 8; `ORC-LAFY26DCDB.b93f10` | “technique and DSC, Buschow and Beekmans \[10\] prepared three Co-Hf amorphous alloys, Co91Hf9, Co40Hf60 and Co22Hf78 (at.%) and measured the crystallization temperatures (Tx) to be 555, 550 and 485 C, respectively.” |
-| Phase transition | 800.15 K | 800.15 | other | experimental | [1] Lu 2015; _cites Politis 1988_ [doi](https://doi.org/10.1524/zpch.1988.157.part_1.209) | p. 9; `ORC-EVELWGXQ7A` | “Therefore, the glass transition temperature of Co-Hf amorphous alloys was approximated to be 527 C (800 K) according to the measurements by Politis \[9\].” |
-| Phase transition | 823.15 K | 823.15 | other | experimental | [1] Lu 2015; _cites Buschow 1979_ [doi](https://doi.org/10.1063/1.325724) | p. 8; `ORC-LAFY26DCDB.d9d62b` | “technique and DSC, Buschow and Beekmans \[10\] prepared three Co-Hf amorphous alloys, Co91Hf9, Co40Hf60 and Co22Hf78 (at.%) and measured the crystallization temperatures (Tx) to be 555, 550 and 485 C, respectively.” |
-| Phase transition | 828.15 K | 828.15 | other | experimental | [1] Lu 2015; _cites Buschow 1979_ [doi](https://doi.org/10.1063/1.325724) | p. 8; `ORC-LAFY26DCDB.8e0478` | “technique and DSC, Buschow and Beekmans \[10\] prepared three Co-Hf amorphous alloys, Co91Hf9, Co40Hf60 and Co22Hf78 (at.%) and measured the crystallization temperatures (Tx) to be 555, 550 and 485 C, respectively.” |
-| Phase transition | 1893.15 K | 1893.15 |  | experimental | [1] Lu 2015; _cites Buschow 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990111-x) | p. 2; `ORC-OIJOKKICAO.a2d619` | “The melting point of Co2Hf was reported to be 1670 and 1620 C by Svechnikov et al. \[14\] and Buschow et al. \[12\], respectively.” |
-| Phase transition | 1913.15 K | 1913.15 | congruent transformation | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | p. 2; `ORC-RT6XBNAU25.9a31cc` | “CoHf was claimed to melt congruently at 1640 C, and a eutectic reaction, L $ Co2Hf + CoHf, was reported at 1550 C by Svechnikov et al. \[14\].” |
-| Phase transition | 1943.15 K | 1943.15 |  | experimental | [1] Lu 2015; _cites Svechnikov 1969_ | p. 2; `ORC-OIJOKKICAO.293640` | “The melting point of Co2Hf was reported to be 1670 and 1620 C by Svechnikov et al. \[14\] and Buschow et al. \[12\], respectively.” |
 
 ### Heat capacity / entropy / enthalpy (20)
 

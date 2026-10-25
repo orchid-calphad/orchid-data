@@ -1,10 +1,10 @@
 # Fe–Zn system
 
-> Fe–Zn system: 138 accepted literature values (invariant reaction 78, formation 42, crystal structure 14, phase transition 3) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Zn system: 127 accepted literature values (invariant reaction 70, formation 42, crystal structure 14, activity / EMF / Gibbs energy 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-ZN.html · Markdown: https://data.orchid-project.org/systems/FE-ZN.md
 
-138 accepted literature values from 5 paper(s) (experimental 59, model 63, unspecified 16); 5 calculated phase diagram(s).
+127 accepted literature values from 4 paper(s) (experimental 50, model 61, unspecified 16); 5 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-ZN.json) · [CSV](https://data.orchid-project.org/systems/FE-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-ZN/FeZn-00Reu-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-ZN.html) · [Markdown](https://data.orchid-project.org/systems/FE-ZN.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 59 |
-| model | 63 |
+| experimental | 50 |
+| model | 61 |
 | unspecified | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 78 |
-| phase transition | 3 |
+| invariant reaction | 70 |
 | formation | 42 |
 | activity / EMF / Gibbs energy | 1 |
 | crystal structure | 14 |
@@ -79,7 +78,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Zn system (78)
+Table: Invariant reactions reported in the literature for the Fe–Zn system (70)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -89,7 +88,6 @@ Table: Invariant reactions reported in the literature for the Fe–Zn system (78
 | 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.418; L: Zn 0.918; Γ: Zn 0.721 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 2; `ORC-57LIAQ557C` |  |
 | 1055.15 | L + α-Fe(b.c.c.) -> Γ | L: Zn 0.92; α-Fe(b.c.c.): Zn 0.42; Γ: Zn 0.72 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 2; `ORC-6UYE2NBN54` |  |
 | 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.42; L: Zn 0.92; Γ: Zn 0.72 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 5; `ORC-B4OFMOSCLB` |  |
-| 1055.15 | peritectic |  | experimental | [3] Su 2001; _cites Truesdale 1936_ | p. 3; `ORC-BRVXHX26G6` | “The G phase melts peritectically at 7828C \[31,36,37\] and has a relatively wide homogeneity range, which maximizes at the temperature when the peritectic reaction involving the d phase occurs \[29,36,14,37,27\].” |
 | 1055.15 | L + α-Fe(b.c.c.) -> Γ | Γ: Fe 0.3, Zn 0.7 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 3; `ORC-KLSD6GPSF2` |  |
 | 1055.15 | (αFe)+L -> Γ | (αFe): Zn 0.423; L: Zn 0.92; Γ: Zn 0.726 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 2; `ORC-LOR4B7S4CG` |  |
 | 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.423; L: Zn 0.92; Γ: Zn 0.726 | model | [2] Xiong 2009 | Table 5, p. 6, row 1; `ORC-NKRQV4PF5Y` |  |
@@ -97,12 +95,10 @@ Table: Invariant reactions reported in the literature for the Fe–Zn system (78
 | 1055.15 | peritectic: (αFe) + L = Γ | Γ: Fe 0.3, Zn 0.7 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 4; `ORC-PXM5U6QAPT` |  |
 | 1055.15 | (αFe)+L -> Γ | (αFe): Zn 0.432; L: Zn 0.9249; Γ: Zn 0.7316 | model | [1] Tang 2011 | Table 3, p. 7, row 1; `ORC-TNRRCYGA3E` |  |
 | 1055.15 | peritectic: (αFe) + L = Γ | (αFe): Zn 0.415; L: Zn 0.912; Γ: Zn 0.732 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 3; `ORC-UHWKUCOGHR` |  |
-| 1055 | peritectic: bcc-Fe + Liquid -> G1 |  | experimental | [4] Reumont 2000 | p. 1; `ORC-FVNIBM3I4V.48851d` | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
 | 1038.15 | L + α-Fe(b.c.c.) -> Γ | Γ: Fe 0.3, Zn 0.7 | experimental | [3] Su 2001; _cites Hansen 1936_ | Table 2, p. 5, row 5; `ORC-54JI6KXOIM` |  |
 | 945.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [3] Su 2001; _cites Truesdale 1936_ | Table 2, p. 5, row 10; `ORC-344UBE3TKM` |  |
 | 945.15 | peritectic: Γ + L = δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [2] Xiong 2009; _cites Schramm 1936_ | Table 5, p. 6, row 10; `ORC-4LCN2I4WWE` |  |
 | 945.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 8; `ORC-52RUZBFJPJ` |  |
-| 945.15 | peritectic |  | experimental | [3] Su 2001; _cites Bastin 1977_ | p. 3; `ORC-AZNOJH7LAT` | “DTA measurements, X-ray diffraction, microscopic investigation and microhardness measurements all support the conclusion that there exists only one d phase forming peritectically at 6728C \[16,17,37\].” |
 | 945.15 | peritectic: Γ + L = δ | Γ: Zn 0.825; L: Zn 0.965; δ: Zn 0.865 | model | [2] Xiong 2009; _cites Burton 1993_ | Table 5, p. 6, row 13; `ORC-ENWGNLLJO4` |  |
 | 945.15 | L+Γ -> δ | L: Zn 0.965; Γ: Zn 0.825; δ: Zn 0.865 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 6; `ORC-FRKUDYFKEV` |  |
 | 945.15 | peritectic: Γ + L = δ | Γ: Zn 0.825; L: Zn 0.964; δ: Zn 0.866 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 8; `ORC-G4TF5WRI6H` |  |
@@ -112,7 +108,6 @@ Table: Invariant reactions reported in the literature for the Fe–Zn system (78
 | 945.15 | peritectic: Γ + L = δ | Γ: Zn 0.807; L: Zn 0.964; δ: Zn 0.869 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 9; `ORC-W3CZ7LBYB6` |  |
 | 945.15 | L + Γ -> δ | Γ: Fe 0.3, Zn 0.7; δ: Fe 0.090909, Zn 0.909091 | experimental | [3] Su 2001; _cites Schramm 1936_ | Table 2, p. 5, row 9; `ORC-YJ6XQPGNOM` |  |
 | 945.15 | L + Γ -> δ | L: Zn 0.965; Γ: Zn 0.813; δ: Zn 0.87 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 7; `ORC-YPFQHSS2ZO` |  |
-| 945 | peritectic: G1 + Liquid -> d1 |  | experimental | [4] Reumont 2000 | p. 1; `ORC-FVNIBM3I4V.81e844` | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
 | 941.15 | peritectic: Γ + L = δ | Γ: Zn 0.827; L: Zn 0.973; δ: Zn 0.856 | model | [2] Xiong 2009 | Table 5, p. 6, row 7; `ORC-5HI663YDEV` |  |
 | 941.15 | L+Γ -> δ | L: Zn 0.973; Γ: Zn 0.827; δ: Zn 0.856 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 5; `ORC-XPQPAP2W2D` |  |
 | 938.15 | peritectic: Γ + L = δ | Γ: Zn 0.825; L: Zn 0.975; δ: Zn 0.865 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 12; `ORC-XW5JG5JGDN` |  |
@@ -129,20 +124,17 @@ Table: Invariant reactions reported in the literature for the Fe–Zn system (78
 | 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.778; δ: Zn 0.869; Γ1: Zn 0.801 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 16; `ORC-T6EO2N3UA4` |  |
 | 823.15 | Γ+δ -> Γ1 | Γ: Zn 0.768; δ: Zn 0.856; Γ1: Zn 0.81 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 8; `ORC-V5D7EXCXGL` |  |
 | 823.15 | peritectoid: Γ + δ = Γ1 | Γ: Zn 0.765; δ: Zn 0.865; Γ1: Zn 0.81 | model | [2] Xiong 2009; _cites Burton 1993_ | Table 5, p. 6, row 19; `ORC-XBVAMZIYCG` |  |
-| 823 | peritectoid: G1 + d1 -> G2 |  | experimental | [4] Reumont 2000 | p. 1; `ORC-FVNIBM3I4V.257618` | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
 | 803.85 | δ+L -> ζ | δ: Zn 0.913; L: Zn 0.9974; ζ: Zn 0.9294 | model | [1] Tang 2011 | Table 3, p. 7, row 10; `ORC-U35JI6VHUR` |  |
 | 803.15 | δ+L -> ζ | δ: Zn 0.92; L: Zn 0.995; ζ: Zn 0.927 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 12; `ORC-2NZQ4XQ43A` |  |
 | 803.15 | L + δ -> ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Schramm 1936_ | Table 2, p. 5, row 15; `ORC-3EDJD64YDY` |  |
 | 803.15 | peritectic: δ + L = ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 24; `ORC-6U3WS3F3DX` |  |
 | 803.15 | peritectic: δ + L = ζ | δ: Zn 0.92; L: Zn 0.995; ζ: Zn 0.927 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 25; `ORC-7QC6ZNQ3K5` |  |
 | 803.15 | peritectic: δ + L = ζ | δ: Zn 0.914; L: Zn 0.996; ζ: Zn 0.928 | model | [2] Xiong 2009; _cites Conclusions_ | Table 5, p. 6, row 21; `ORC-EF2JZUGUHO` |  |
-| 803.15 | peritectic |  | model | [3] Su 2001 | p. 3; `ORC-LW7LEAU33G` | “The z (FeZn 13 ) phase melts peritectically at 5308C.” |
 | 803.15 | L + δ -> ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 14; `ORC-MV4FYUGRD2` |  |
 | 803.15 | L + δ -> ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 13; `ORC-OMXXHC5R2A` |  |
 | 803.15 | peritectic: δ + L = ζ | δ: Zn 0.914; L: Zn 0.996; ζ: Zn 0.929 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 22; `ORC-RIMDGHQM5D` |  |
 | 803.15 | L + δ -> ζ | L: Zn 0.997; δ: Zn 0.914; ζ: Fe 0.071429, Zn 0.928571 | model | [3] Su 2001 | Table 2, p. 5, row 12; `ORC-W2YFN6RYDK` |  |
 | 803.15 | peritectic: δ + L = ζ | δ: Fe 0.090909, Zn 0.909091; ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Schramm 1936_ | Table 5, p. 6, row 23; `ORC-WXQEBP7ADK` |  |
-| 803 | peritectic: d1 + Liquid -> z |  | experimental | [4] Reumont 2000 | p. 1; `ORC-FVNIBM3I4V.a4c97d` | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
 | 799.15 | δ+L -> ζ | δ: Zn 0.914; L: Zn 0.9985; ζ: Zn 0.93 | model | [1] Tang 2011; _cites Xiong 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.01.002) | Table 3, p. 7, row 11; `ORC-GGED4GDZGI` |  |
 | 799.15 | peritectic: δ + L = ζ | δ: Zn 0.914; L: Zn 0.9985; ζ: Zn 0.93 | model | [2] Xiong 2009 | Table 5, p. 6, row 20; `ORC-UTGQKX5OKV` |  |
 | 692.68 | eutectic: L = ζ + (Zn) | L: Zn 0.99989; ζ: Zn 0.94; (Zn): Zn 1 | model | [2] Xiong 2009; _cites Kubaschewski 1982_ | Table 5, p. 6, row 32; `ORC-OGLIYFKYC7` |  |
@@ -151,16 +143,15 @@ Table: Invariant reactions reported in the literature for the Fe–Zn system (78
 | 692.65 | L+ζ -> (Zn) | L: Zn 0.99988; ζ: Zn 0.9388; (Zn): Zn 0.999886 | model | [1] Tang 2011 | Table 3, p. 7, row 13; `ORC-PAYVTX4YSI` |  |
 | 692.63 | eutectic: L = ζ + (Zn) | L: Zn 0.999981; ζ: Zn 0.939; (Zn): Zn 0.999886 | model | [2] Xiong 2009 | Table 5, p. 6, row 26; `ORC-V7CM4FSGHZ` |  |
 | 692.61 | eutectic: L = ζ + (Zn) | L: Zn 0.999878; ζ: Zn 0.929; (Zn): Zn 1 | model | [2] Xiong 2009; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901273-7) | Table 5, p. 6, row 28; `ORC-BONMLLF3HH` |  |
-| 692.6 | L -> ζ + Zn(h.c.p.) | L: Zn 0.9999; ζ: Fe 0.071429, Zn 0.928571 | model | [3] Su 2001 | Table 2, p. 5, row 16; `ORC-BMCX2NRRQH` |  |
+| 692.6 | eutectic: L -> ζ + Zn(h.c.p.) | L: Zn 0.9999; ζ: Fe 0.071429, Zn 0.928571 | model | [3] Su 2001 | Table 2, p. 5, row 16; `ORC-BMCX2NRRQH` |  |
 | 692.55 | eutectic: L = ζ + (Zn) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Gellings 1980_ | Table 5, p. 6, row 31; `ORC-3K2JT5T4AT` |  |
-| 692.55 | L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 18; `ORC-BZ2KC2CDFG` |  |
+| 692.55 | eutectic: L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | unspecified | [3] Su 2001; _cites Gellings 1980_ | Table 2, p. 5, row 18; `ORC-BZ2KC2CDFG` |  |
 | 692.55 | eutectic: L = ζ + (Zn) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [2] Xiong 2009; _cites Schramm 1936_ | Table 5, p. 6, row 30; `ORC-C3NGD3YJKQ` |  |
-| 692.55 | L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Schramm 1936_ | Table 2, p. 5, row 19; `ORC-DVHRJP4QF3` |  |
-| 692.55 | L -> ζ + Zn(h.c.p.) | L: Zn 0.9998; ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Truesdale 1936_ | Table 2, p. 5, row 20; `ORC-ETA3HZ7AA5` |  |
+| 692.55 | eutectic: L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Schramm 1936_ | Table 2, p. 5, row 19; `ORC-DVHRJP4QF3` |  |
+| 692.55 | eutectic: L -> ζ + Zn(h.c.p.) | L: Zn 0.9998; ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Truesdale 1936_ | Table 2, p. 5, row 20; `ORC-ETA3HZ7AA5` |  |
 | 692.55 | eutectic: L = ζ + (Zn) | L: Zn 0.99979; ζ: Fe 0.071429, Zn 0.928571; (Zn): Zn 0.99997 | experimental | [2] Xiong 2009; _cites Truesdale 1936_ | Table 5, p. 6, row 29; `ORC-OLJHNUKTCO` |  |
-| 692.55 | L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 17; `ORC-W6CKSEE5BW` |  |
+| 692.55 | eutectic: L -> ζ + Zn(h.c.p.) | ζ: Fe 0.071429, Zn 0.928571 | experimental | [3] Su 2001; _cites Burton 1993_ | Table 2, p. 5, row 17; `ORC-W6CKSEE5BW` |  |
 | 692.55 | L+ζ -> (Zn) | L: Zn 0.99989; ζ: Zn 0.94; (Zn): Zn 1 | experimental | [1] Tang 2011; _cites Gellings 1980_ [doi](https://doi.org/10.1515/ijmr-1980-710303) | Table 3, p. 7, row 15; `ORC-WPLGLDFRM3` |  |
-| 692 | eutectic: Liquid -> z + hcp-Zn |  | experimental | [4] Reumont 2000 | p. 1; `ORC-FVNIBM3I4V.787133` | “As foreseeable from the large differences between melting points of the pure elements, the equilibrium diagram contains three invariant peritectics, one eutectic, and one peritectoid reaction forming G2: • bcc-Fe 1 Liquid → G1 at 1055 K (peritectic) • G1 1 Liquid → d1 at 945 K (peritectic) • d1 1 Liquid → z at 803 K (peritectic) • Liquid → z 1 hcp-Zn at 692 K (eutectic) • G1 1 d1 → G2 at 823 K (p…” |
 
 ## Formation enthalpies
 
@@ -184,16 +175,6 @@ Table: Enthalpies of formation, Fe–Zn system (12)
 | ζ |  | -9.008 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 20; `ORC-6H3DTKSVCF` |  |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Fe–Zn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 823.15 K | 823.15 | G 1 d → G1 | experimental | [3] Su 2001; _cites Gellings 1980_ | p. 3; `ORC-HDSK3SNNQF` | “They suggested that the G1 phase forms through the following peritectoid reaction at 5508C. G 1 d → G1” |
-| Phase transition | 1043 K | 1043 | magnetic | experimental | [5] Su 2005 | p. 2; `ORC-AXFXOOSQPX` | “where Tc,Fe is the ferromagnetic transition temperature of 1043 K for the pure ␣-Fe.” |
-| Phase transition | 1043 K | 1043 | magnetic | model | [3] Su 2001 | p. 2; `ORC-QXAPFTVEXE` | “where T c,Fe is the ferromagnetic transition temperature for pure a-iron and its value is 1043 K.” |
 
 ### Formation (30)
 
@@ -269,7 +250,6 @@ Reporting papers the values were read from (a value cited from another work name
 2. Wei Xiong, Yi Kong, Yong Du, Zi-Kui Liu, Malin Selleby, Wei-Hua Sun, Thermodynamic investigation of the galvanizing systems, I: Refinement of the thermodynamic description for the Fe–Zn system, Calphad 33, 433-440 (2009). [doi:10.1016/j.calphad.2009.01.002](https://doi.org/10.1016/j.calphad.2009.01.002)
 3. Xuping Su, Nai-Yong Tang, Jim M. Toguri, Thermodynamic evaluation of the Fe–Zn system, Journal of Alloys and Compounds 325, 129-136 (2001). [doi:10.1016/s0925-8388(01)01273-7](https://doi.org/10.1016/s0925-8388%2801%2901273-7)
 4. G. Reumont, P. Perrot, J. M. Fiorani, J. Hertz, Thermodynamic assessment of the Fe-Zn system, JPE 21, 371-378 (2000). [doi:10.1361/105497100770339905](https://doi.org/10.1361/105497100770339905)
-5. Xuping Su, Fucheng Yin, Zhi Li, Nai-Yong Tang, Manxiu Zhao, Thermodynamic calculation of the Fe–Zn–Si system, Journal of Alloys and Compounds 396, 156-163 (2005). [doi:10.1016/j.jallcom.2004.12.031](https://doi.org/10.1016/j.jallcom.2004.12.031)
 
 ## Please cite
 

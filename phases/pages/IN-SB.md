@@ -18,7 +18,7 @@ Table: Phases of the In–Sb system (7)
 | [BCC_A2](#phase-in-sb-bcc-a2); _phase:in-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [FCC_A1](#phase-in-sb-fcc-a1); _phase:in-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [HCP_A3](#phase-in-sb-hcp-a3); _phase:in-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
-| [LIQUID](#phase-in-sb-liquid); _phase:in-sb:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 426.32–2500 K, x(Sb) 0–1 | 0 | 5 |
+| [LIQUID](#phase-in-sb-liquid); _phase:in-sb:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 426.32–2500 K, x(Sb) 0–1 | 1 | 5 |
 
 ## TETRAGONAL_A6 (In–Sb)
 
@@ -389,10 +389,11 @@ _assessment that models this phase_
 - Id: `phase:in-sb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 426.32–2500 K, x(Sb) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-sb:liquid)
 
-Names (6): _corpus: _corpus:phase:in-sb:liquid  
+Names (7): _corpus: _corpus:phase:in-sb:liquid  
+_paper: _paper:10.1007/s11661-019-05288-9:liquid  
 _tdb: _tdb:InSb-03Liu.tdb:LIQUID, tdb:InSb-13Cao.tdb:LIQUID, tdb:InSb-19Gie.tdb:LIQUID, tdb:InSb-94Ans-LB.tdb:LIQUID, tdb:InSb-97Xie.tdb:LIQUID  
 
 
@@ -436,7 +437,7 @@ _tdb: _tdb:InSb-03Liu.tdb:LIQUID, tdb:InSb-13Cao.tdb:LIQUID, tdb:InSb-19Gie.tdb:
 Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s11661-019-05288-9](https://doi.org/10.1007/s11661-019-05288-9) Wojciech Gierlotka, Sinn-wen Chen, Ssu-ming Tseng, Po-han Lin, Co-In-Sb Ternary System (II): Isoplethal Section and Thermodynamic Modeling, Metall Mater Trans A 50, 3891-3902 (2019).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-003-0240-x](https://doi.org/10.1007/s11664-003-0240-x) H. S. Liu, C. L. Liu, C. Wang, Z. P. Jin, K. Ishida, Thermodynamic modeling of the Au-In-Sb ternary system, Journal of Elec Materi 32, 81-88 (2003).  
 _assessment that models this phase_
 - [doi:10.1007/s11664-013-2599-7](https://doi.org/10.1007/s11664-013-2599-7) Zhanmin Cao, Wei Xie, Kunpeng Wang, Guangwei Du, Zhiyu Qiao, Thermodynamic Assessment of the In-Ni-Sb System and Predictions for Thermally Stable Contacts to InSb, Journal of Elec Materi 42, 2615-2629 (2013).  

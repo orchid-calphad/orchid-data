@@ -1,10 +1,10 @@
 # Hg–Tl system
 
-> Hg–Tl system: 13 accepted literature values (crystal structure 6, invariant reaction 5, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hg–Tl system: 9 accepted literature values (crystal structure 6, invariant reaction 2, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HG-TL.html · Markdown: https://data.orchid-project.org/systems/HG-TL.md
 
-13 accepted literature values from 1 paper(s) (experimental 13); 1 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (experimental 9); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HG-TL.json) · [CSV](https://data.orchid-project.org/systems/HG-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-TL/HgTl-06Gie.json) · [phases (5)](https://data.orchid-project.org/phases/pages/HG-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HG-TL.html) · [Markdown](https://data.orchid-project.org/systems/HG-TL.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
+| experimental | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
-| phase transition | 2 |
+| invariant reaction | 2 |
+| phase transition | 1 |
 | crystal structure | 6 |
 
 ## Calculated phase diagrams
@@ -36,25 +36,21 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hg–Tl system (5)
+Table: Invariant reactions reported in the literature for the Hg–Tl system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 273.9 | eutectic: L -> (β-Tl) + gamma | L: Tl 0.405; Hg5Tl2: Tl 0.285714 | experimental | [1] Gierlotka 2006; _cites Richter 1973_ [doi](https://doi.org/10.1016/0001-6160%2873%2990195-8) | Table 3, p. 3, row 3; `ORC-4VFOSJNDII` |  |
-| 273.9 | eutectic |  | experimental | [1] Gierlotka 2006; _cites Richter 1973_ [doi](https://doi.org/10.1016/0001-6160%2873%2990195-8) | p. 3; `ORC-N6UNGKPTPT.5be2a0` | “The results of \[2\] suggest a concentration of thallium in the eutectic point of 40.5 at. % at 273.4 K, while Richter and Pistorius \[13\] reported a slightly higher temperature, 273.9 K.” |
-| 273.4 | eutectic |  | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3; `ORC-N6UNGKPTPT.552600` | “The results of \[2\] suggest a concentration of thallium in the eutectic point of 40.5 at. % at 273.4 K, while Richter and Pistorius \[13\] reported a slightly higher temperature, 273.9 K.” |
-| 213 | eutectic |  | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3; `ORC-NHOCYV4CEZ` | “The eutectic point near pure Hg was determined by Claire and Rey \[2\], who reported a temperature of 213 K and 8.7 at. % Tl.” |
 | 213 | eutectic: L -> (α-Hg) + gamma | L: Tl 0.086; (αHg): Tl 0; Hg5Tl2: Tl 0.285714 | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | Table 3, p. 3, row 2; `ORC-VRM23KFNH3` |  |
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Hg–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 287.3 K | 287.3 | congruent transformation | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3; `ORC-C2A3ZPTOJR` | “They described also the congruent melting point of the Gamma phase as 28.6 at. % of Tl at 287.3 K.” |
 | Phase transition | 291 K | 291 | congruent melting: L -> gamma; _L: Tl 0.286; γ: Tl 0.286_ | experimental | [1] Gierlotka 2006; _cites Hansen 1958_ | Table 3, p. 3, row 1; `ORC-LOJB53BEAO` |  |
 
 ### Crystal structure (6)

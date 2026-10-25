@@ -1,10 +1,10 @@
 # K–Na system
 
-> K–Na system: 17 accepted literature values (invariant reaction 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> K–Na system: 21 accepted literature values (invariant reaction 15, crystal structure 4, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/K-NA.html · Markdown: https://data.orchid-project.org/systems/K-NA.md
 
-17 accepted literature values from 1 paper(s) (experimental 15, DFT 2); 2 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (experimental 16, DFT 5); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/K-NA.json) · [CSV](https://data.orchid-project.org/systems/K-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#K-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#K-NA/KNa-06Zha.json) · [phases (5)](https://data.orchid-project.org/phases/pages/K-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/K-NA.html) · [Markdown](https://data.orchid-project.org/systems/K-NA.md)
 
@@ -12,14 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
-| DFT | 2 |
+| experimental | 16 |
+| DFT | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
+| invariant reaction | 15 |
+| formation | 2 |
+| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -36,13 +38,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the K–Na system (17)
+Table: Invariant reactions reported in the literature for the K–Na system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 280.5 | Liquid = bcc (Na) + KNa2 | Liquid: Na 0.6; bcc (Na): Na 0.97; KNa2: Na 0.667 | experimental | [1] Zhang 2006; _cites MacDonald 1956_ [doi](https://doi.org/10.1139/p56-045) | Table 6, p. 9, row 7; `ORC-BFRPDYUOEN` |  |
 | 280.07 | Liquid = bcc (Na) + KNa2 | Liquid: Na 0.598; bcc (Na): Na 0.992; KNa2: Na 0.667 | experimental | [1] Zhang 2006; _cites Ott 1969_ [doi](https://doi.org/10.1039/tf9696502870) | Table 6, p. 9, row 6; `ORC-NZTTVXCRQN` |  |
-| 280.07 | peritectic |  | experimental | [1] Zhang 2006 | p. 2; `ORC-S433QMQQRF.8e3493` | “The temperature and compositions for the eutectic and peritectic reactions was obtained as 260.53 K, 31.9 at.% Na and 280.07 K, 59.8 at.% Na, respectively.” |
 | 280.058 | Liquid = bcc (Na) + KNa2 | KNa2: K 0.333333, Na 0.666667 | experimental | [1] Zhang 2006; _cites Krier 1957_ [doi](https://doi.org/10.1021/j150551a004) | Table 6, p. 9, row 8; `ORC-KCD35STR4G` |  |
 | 280.053 | Liquid = bcc (Na) + KNa2 | Liquid: Na 0.593; bcc (Na): Na 0.993; KNa2: Na 0.667 | DFT | [1] Zhang 2006 | Table 6, p. 9, row 1; `ORC-B5UIJVI2RW` |  |
 | 280.05 | Liquid = bcc (Na) + KNa2 | Liquid: Na 0.58; KNa2: Na 0.667 | experimental | [1] Zhang 2006; _cites G 1912_ | Table 6, p. 9, row 3; `ORC-KNDE3X332H` |  |
@@ -55,8 +56,31 @@ Table: Invariant reactions reported in the literature for the K–Na system (17)
 | 260.65 | Liquid + bcc (K) = KNa2 | Liquid: Na 0.3336; KNa2: Na 0.667 | experimental | [1] Zhang 2006; _cites Kurnakow 1902_ [doi](https://doi.org/10.1002/zaac.19020300105) | Table 6, p. 9, row 10; `ORC-VU5FQ3FDHU` |  |
 | 260.55 | Liquid + bcc (K) = KNa2 | KNa2: K 0.333333, Na 0.666667 | experimental | [1] Zhang 2006; _cites G 1912_ | Table 6, p. 9, row 11; `ORC-L2F7KIVN6O` |  |
 | 260.53 | Liquid + bcc (K) = KNa2 | Liquid: Na 0.319; bcc (K): Na 0.046; KNa2: Na 0.667 | experimental | [1] Zhang 2006; _cites Ott 1969_ [doi](https://doi.org/10.1039/tf9696502870) | Table 6, p. 9, row 13; `ORC-DPPEKJRGZB` |  |
-| 260.53 | eutectic |  | experimental | [1] Zhang 2006 | p. 2; `ORC-S433QMQQRF.fd4d4f` | “The temperature and compositions for the eutectic and peritectic reactions was obtained as 260.53 K, 31.9 at.% Na and 280.07 K, 59.8 at.% Na, respectively.” |
 | 260.51 | Liquid + bcc (K) = KNa2 | KNa2: K 0.333333, Na 0.666667 | experimental | [1] Zhang 2006; _cites Krier 1957_ [doi](https://doi.org/10.1021/j150551a004) | Table 6, p. 9, row 15; `ORC-365Y5GGPCB` |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, K–Na system (2)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| KNa2 |  | -0.699 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-VIZG72UFCV.d3840a` |  |
+| KNa2 | [KNa2](https://data.orchid-project.org/compounds/KNa2.html) | -0.60668 kJ/mol-atom | 298.15 | experimental | 0.954 (mp-aaabgmji) | -7.272 (oqmd-668086) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31; `ORC-LEJHJ7QKVU.3c23fa` |  |
+
+## Other properties
+
+### Crystal structure (4)
+
+Table: Crystal structure, K–Na system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: Lattice constant a_ | 7.394 Å | 0 | KNa2; _alloy: Na 0.667_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-CA6ODY6QX2.3383f6` |  |
+| Lattice a; _printed: Lattice constant a_ | 7.5 Å |  | KNa2; _alloy: Na 0.667_ | experimental | [1] Zhang 2006; _cites Laves 1943_ | Table 2, p. 3, row 14; `ORC-JMVBNXNQW2.6ec8d6` |  |
+| Lattice c; _printed: Lattice constant c_ | 12.083 Å | 0 | KNa2; _alloy: Na 0.667_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-CA6ODY6QX2.cee42d` |  |
+| Lattice c; _printed: Lattice constant c_ | 12.31 Å |  | KNa2; _alloy: Na 0.667_ | experimental | [1] Zhang 2006; _cites Laves 1943_ | Table 2, p. 3, row 14; `ORC-JMVBNXNQW2.4aabb9` |  |
 
 ## Sources
 

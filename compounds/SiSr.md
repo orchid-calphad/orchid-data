@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/SiSr.html · Markdown: https://data.orchid-project.org/compounds/SiSr.md
 
-9 accepted literature formation-enthalpy value(s) (experimental 2, model 3, DFT 3, unspecified 1); experimental median -51.7 kJ/mol-atom (n = 2); Materials Project -41.601 kJ/mol-atom (mp-aaaaadyj); OQMD -45.381 kJ/mol-atom (oqmd-14241).
+9 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 4, unspecified 1); experimental median -51.7 kJ/mol-atom (n = 2); Materials Project -41.601 kJ/mol-atom (mp-aaaaadyj); OQMD -45.381 kJ/mol-atom (oqmd-14241).
 
 Systems: [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html)
 
@@ -18,9 +18,9 @@ Table: Enthalpy of formation of SiSr reported in the literature (9)
 | -51.7 kJ/mol-atom | SrSi | 298.15 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 16; `ORC-O4XZBZ3GQN.cc5da3` |  |
 | -67 kJ/mol-atom | SrSi | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 11; `ORC-SD5WFVS3IA.d6c52f` |  |
 | -53.1 kJ/mol-atom | SiSr | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 9; `ORC-VDSFOJ7ZWT.428991` |  |
-| -46.9 kJ/mol-atom | SiSr | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 8; `ORC-ZFGCMVYTPX.bdc602` |  |
 | -53.1 kJ/mol-atom | SrSi | 298.15 | DFT | first-principles LDA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 13; `ORC-R5R6OJDLAW.254b80` |  |
 | -46.9 kJ/mol-atom | SrSi | 298.15 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 14; `ORC-5VW6EUBSRK.174c2f` |  |
+| -46.9 kJ/mol-atom | SiSr | 298.15 | DFT |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 8; `ORC-ZFGCMVYTPX.bdc602` |  |
 | -46.7 kJ/mol-atom | SrSi | 298.15 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 15; `ORC-NKXN5K3V73.1dcd40` |  |
 | -43.5 kJ/mol-atom | SrSi | 298.15 | unspecified |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 12; `ORC-GOP7ZK75B7.bdcec9` |  |
 
@@ -36,10 +36,10 @@ Table: Uncertainty budget of the literature values of SiSr
 | -51.7 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -67 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -53.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -46.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -53.1 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -46.9 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -46.7 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -53.1 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -46.9 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -46.9 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -46.7 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 | -43.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies

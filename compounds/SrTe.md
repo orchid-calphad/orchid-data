@@ -29,10 +29,10 @@ Table: Uncertainty budget of the literature values of SrTe
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -168 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -187.88 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -174 | kJ/mol-atom |  | 0.5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -167.98 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -167.97 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -187.88 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -174 | kJ/mol-atom |  | 0.5 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -167.98 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -167.97 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

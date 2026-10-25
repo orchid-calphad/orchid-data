@@ -1,10 +1,10 @@
 # Ca–Sr system
 
-> Ca–Sr system: 7 accepted literature values (crystal structure 4, formation 2, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Sr system: 6 accepted literature values (crystal structure 4, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-SR.html · Markdown: https://data.orchid-project.org/systems/CA-SR.md
 
-7 accepted literature values from 2 paper(s) (experimental 1, unspecified 6); 2 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (unspecified 6); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SR.json) · [CSV](https://data.orchid-project.org/systems/CA-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SR/CaSr-03Zho.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CA-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SR.html) · [Markdown](https://data.orchid-project.org/systems/CA-SR.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
 | formation | 2 |
 | crystal structure | 4 |
 
@@ -49,14 +47,6 @@ Table: Enthalpies of formation, Ca–Sr system (2)
 
 ## Other properties
 
-### Phase transition (1)
-
-Table: Phase transition, Ca–Sr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1011.15 K | 1011.15 | other | experimental | [2] Zhong 2003; _cites Schottmiller 1958_ [doi](https://doi.org/10.1021/j150569a024) | p. 1; `ORC-SRG6UJHWZH` | “Schottmiller et al. \[1958Sch\] determined the liquidus and solidus by thermal analysis with an uncertainty about ±2 °C. They prepared alloys from 99.8 wt.% Ca and doubly distilled 99.7 wt.% Sr in Fe crucibles in an argon atmosphere. The liquidus has a minimum at about 738 °C and 62 at.% Sr.” |
-
 ### Crystal structure (4)
 
 Table: Crystal structure, Ca–Sr system
@@ -73,7 +63,6 @@ Table: Crystal structure, Ca–Sr system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Yu Zhong, Jorge O. Sofo, Alan A. Luo, Zi-Kui Liu, Thermodynamics modeling of the Mg–Sr and Ca–Mg–Sr systems, Journal of Alloys and Compounds 421, 172-178 (2006). [doi:10.1016/j.jallcom.2005.09.076](https://doi.org/10.1016/j.jallcom.2005.09.076)
-2. Yu Zhong, Koray Ozturk, Zi-Kui Liu, Thermodynamic modeling of the Ca-Sr-Zn ternary system, JPE 24, 340-346 (2003). [doi:10.1361/105497103770330325](https://doi.org/10.1361/105497103770330325)
 
 ## Please cite
 

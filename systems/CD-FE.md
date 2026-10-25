@@ -1,24 +1,12 @@
 # Cd–Fe system
 
-> Cd–Fe system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Fe system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-FE.html · Markdown: https://data.orchid-project.org/systems/CD-FE.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-FE.json) · [CSV](https://data.orchid-project.org/systems/CD-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-FE/CdFe-14Qin.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CD-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-FE.html) · [Markdown](https://data.orchid-project.org/systems/CD-FE.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -43,22 +31,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CdFe-14Qin.tdb | 594.23 | LIQUID (x(Fe) 0) + HCP_A3 (x(Fe) 2.000e-5) + BCC_A2 (x(Fe) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CD/CD-FE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CD/CD-FE.json)
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Cd–Fe system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1811.6 K | 1811.6 | other | model | [1] Qin 2014 | p. 8; `ORC-55MVDANXUO` | “According to this work, a miscibility gap of the liquid phase appears at 1811.6 K.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Aning Qin, Rong Wang, Yaru Wang, Jiong Wang, Shuhong Liu, Kaiming Cheng et al., Thermodynamic assessment of the Cd–X (X=Sn, Mn, Fe) systems, Calphad 47, 83-91 (2014). [doi:10.1016/j.calphad.2014.06.006](https://doi.org/10.1016/j.calphad.2014.06.006)
 
 ## Please cite
 

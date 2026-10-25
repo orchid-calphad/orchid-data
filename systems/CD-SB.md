@@ -1,10 +1,10 @@
 # Cd–Sb system
 
-> Cd–Sb system: 41 accepted literature values (invariant reaction 22, phase transition 19) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Sb system: 36 accepted literature values (invariant reaction 22, phase transition 14) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-SB.html · Markdown: https://data.orchid-project.org/systems/CD-SB.md
 
-41 accepted literature values from 3 paper(s) (experimental 25, model 14, unspecified 2); 3 calculated phase diagram(s).
+36 accepted literature values from 2 paper(s) (experimental 25, model 9, unspecified 2); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-SB.json) · [CSV](https://data.orchid-project.org/systems/CD-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-SB/CdSb-09Liu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CD-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-SB.html) · [Markdown](https://data.orchid-project.org/systems/CD-SB.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 25 |
-| model | 14 |
+| model | 9 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 22 |
-| phase transition | 19 |
+| phase transition | 14 |
 
 ## Calculated phase diagrams
 
@@ -86,7 +86,7 @@ Table: Invariant reactions reported in the literature for the Cd–Sb system (22
 
 ## Other properties
 
-### Phase transition (19)
+### Phase transition (14)
 
 Table: Phase transition, Cd–Sb system
 
@@ -94,13 +94,8 @@ Table: Phase transition, Cd–Sb system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 594.11 K | 594.11 | congruent melting: L \<-> (Cd); _L: Sb 0; (Cd): Sb 0_ | experimental | [2] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 5, p. 5, row 10; `ORC-CRGDCOTEG4` |  |
 | Phase transition | 594.258 K | 594.258 | congruent melting: L -> (Cd); _(Cd): Sb 0_ | experimental | [1] Zabdyr 1993; _cites ref. 37_ | Table 1, p. 2, row 1; `ORC-VJ3PJWIZJQ` |  |
-| Phase transition | 670 K | 670 |  | model | [3] Zabdyr 1997 | p. 6; `ORC-3QXVS2ZWV6.cd8ecf` | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
-| Phase transition | 670 K | 670 | congruent transformation | model | [2] Liu 2009; _cites Zabdyr 1997_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900036-9) | p. 2; `ORC-DHJJBEP3BV.ab3e01` | “In the calculated metastable phase diagram, the congruent melting points for Cd3 Sb2 and Cd4 Sb3 are 670 K and 688 K respectively.” |
-| Phase transition | 688 K | 688 |  | model | [3] Zabdyr 1997 | p. 6; `ORC-3QXVS2ZWV6.b8ad6c` | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
-| Phase transition | 688 K | 688 | congruent transformation | model | [2] Liu 2009; _cites Zabdyr 1997_ [doi](https://doi.org/10.1016/s0364-5916%2897%2900036-9) | p. 2; `ORC-DHJJBEP3BV.1cb41f` | “In the calculated metastable phase diagram, the congruent melting points for Cd3 Sb2 and Cd4 Sb3 are 670 K and 688 K respectively.” |
 | Phase transition | 693.15 K | 693.15 | congruent melting: Cd4Sb3 = liquid | experimental | [1] Zabdyr 1993; _cites ref. 16_ | p. 3; `ORC-IBAJ4NCHDT` | “The medium superheating (over 5OOOC) cauges the crystallization of Cd4Sb3 congruent phase with melting point at 420 C.” |
 | Phase transition | 728.15 K | 728.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 2_ | Table 1, p. 2, row 11; `ORC-UQDWUV2HWB` |  |
-| Phase transition | 729 K | 729 |  | model | [3] Zabdyr 1997 | p. 6; `ORC-3QXVS2ZWV6.c9328d` | “Calculated melting points of the metastable phases: Cd,Sb, and Cd,Sb, are 670 K and 688 K, respectively, whereas stable CdSb melts at 729 K.” |
 | Phase transition | 729.15 K | 729.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | model | [1] Zabdyr 1993 | Table 1, p. 2, row 16; `ORC-25BWOISZL3` |  |
 | Phase transition | 729.15 K | 729.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 10_ | Table 1, p. 2, row 13; `ORC-LNZTXOUTF3` |  |
 | Phase transition | 730 K | 730 | L \<-> ω-CdSb; _L: Sb 0.5; ω-CdSb: Sb 0.5_ | experimental | [2] Liu 2009; _cites Record 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900157-2) | Table 5, p. 5, row 2; `ORC-MKVIEMB2TH` |  |
@@ -118,7 +113,6 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Leszek A. Zabdyr, Equilibrium diagram and thermodynamic properties of cadmium — antimony binary alloys. Critical assessment, Calphad 17, 125-132 (1993). [doi:10.1016/0364-5916(93)90012-z](https://doi.org/10.1016/0364-5916%2893%2990012-z)
 2. Ya Liu, Jean-Claude Tedenac, Thermodynamic modeling of the Cd–Sb–Zn ternary system, Calphad 33, 684-694 (2009). [doi:10.1016/j.calphad.2009.08.006](https://doi.org/10.1016/j.calphad.2009.08.006)
-3. Leszek A. Zabdyr, Phase equilibria in ternary Cd-Sb-Zn system, Calphad 21, 349-358 (1997). [doi:10.1016/s0364-5916(97)00036-9](https://doi.org/10.1016/s0364-5916%2897%2900036-9)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Te–Yb system
 
-> Te–Yb system: 11 accepted literature values (invariant reaction 8, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Te–Yb system: 6 accepted literature values (invariant reaction 4, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TE-YB.html · Markdown: https://data.orchid-project.org/systems/TE-YB.md
 
-11 accepted literature values from 1 paper(s) (experimental 6, model 5); 0 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (experimental 3, model 3); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TE-YB.json) · [CSV](https://data.orchid-project.org/systems/TE-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TE-YB) · [phases (6)](https://data.orchid-project.org/phases/pages/TE-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TE-YB.html) · [Markdown](https://data.orchid-project.org/systems/TE-YB.md)
 
@@ -12,43 +12,38 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 5 |
+| experimental | 3 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
-| phase transition | 3 |
+| invariant reaction | 4 |
+| phase transition | 2 |
 
 Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/TE/TE-YB.json) · [CALPHAD hull YbTe-15Wan](https://data.orchid-project.org/hulls/calphad-sgte/TE/TE-YB--YbTe-15Wan.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Te–Yb system (8)
+Table: Invariant reactions reported in the literature for the Te–Yb system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1093 | eutectic: Liq -> (γYb) + TeYb | (γYb): Te 0; TeYb: Te 0.5 | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 5; `ORC-TOSSOPGGYT` |  |
-| 1093 | eutectic |  | experimental | [1] Ghamri 2015; _cites Kh 1970_ | p. 2; `ORC-W6W2LFSJTW.1a0e7a` | “The two reactions between TeYb and (Te, Yb), which their temperatures reported to be 726 and 1093 K, respectively, by Abrikosov et al. \[18\] may be eutectic reactions and the liquidus of TeYb may be flat near the melting point (Fig. 3).” |
-| 1090 | eutectic |  | model | [1] Ghamri 2015 | p. 6; `ORC-G42PZIMY3L.5dba3b` | “The reactions between TeYb and (Te,Yb) are calculated to be eutectic at 721.7 and 1090 K, respectively.” |
 | 1090 | eutectic: Liq -> (γYb) + TeYb | L: Te 0.005; (γYb): Te 0; TeYb: Te 0.5 | model | [1] Ghamri 2015 | Table 5, p. 6, row 6; `ORC-LS5LBW26TA` |  |
 | 726 | eutectic: Liq -> (Te) + TeYb | (Te): Te 1; TeYb: Te 0.5 | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 1; `ORC-4R67FNHY4U` |  |
-| 726 | eutectic |  | experimental | [1] Ghamri 2015; _cites Kh 1970_ | p. 2; `ORC-W6W2LFSJTW.d3e699` | “The two reactions between TeYb and (Te, Yb), which their temperatures reported to be 726 and 1093 K, respectively, by Abrikosov et al. \[18\] may be eutectic reactions and the liquidus of TeYb may be flat near the melting point (Fig. 3).” |
-| 721.7 | eutectic |  | model | [1] Ghamri 2015 | p. 6; `ORC-G42PZIMY3L.134a3c` | “The reactions between TeYb and (Te,Yb) are calculated to be eutectic at 721.7 and 1090 K, respectively.” |
 | 721.7 | eutectic: Liq -> (Te) + TeYb | L: Te 0.9967; (Te): Te 1; TeYb: Te 0.5 | model | [1] Ghamri 2015 | Table 5, p. 6, row 2; `ORC-ICVRHJXPBF` |  |
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, Te–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2003 K | 2003 | congruent melting: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 3; `ORC-NC54NZTUNU` |  |
-| Phase transition | 2003 K | 2003 | congruent transformation | experimental | [1] Ghamri 2015 | p. 2; `ORC-MKUC2QTC3Z` | “This later melts congruently at about 2003 K.” |
 | Phase transition | 2003.46 K | 2003.46 | congruent melting: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | model | [1] Ghamri 2015 | Table 5, p. 6, row 4; `ORC-I5VFHQNYDG` |  |
 
 ## Sources

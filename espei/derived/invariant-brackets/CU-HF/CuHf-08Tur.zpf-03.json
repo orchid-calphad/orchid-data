@@ -181,7 +181,7 @@
     "x0": 0.0775,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (Cu) + Cu5Hf",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -200,7 +200,7 @@
     "x0": 0.0775,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (Cu) + Cu5Hf",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

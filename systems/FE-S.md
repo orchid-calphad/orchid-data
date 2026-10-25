@@ -1,10 +1,10 @@
 # Fe–S system
 
-> Fe–S system: 2 accepted literature values (phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–S system: 1 accepted literature values (phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-S.html · Markdown: https://data.orchid-project.org/systems/FE-S.md
 
-2 accepted literature values from 1 paper(s) (experimental 2); 4 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+1 accepted literature values from 1 paper(s) (experimental 1); 4 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-S.json) · [CSV](https://data.orchid-project.org/systems/FE-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-S/FeS-07Lee.json) · [phases (9)](https://data.orchid-project.org/phases/pages/FE-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-S.html) · [Markdown](https://data.orchid-project.org/systems/FE-S.md)
 
@@ -12,13 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
+| experimental | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -75,14 +75,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Fe–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1016 K | 1016 | pyrite | experimental | [1] Guillermet 1981 | p. 8; `ORC-TPUTFKUF7E` | “Values of the Gibbs energy of formation of FeS 2 were evaluated using reported composition values of pyrrhotite in equilibrium with pyrite 1:.4~-47and the incongruent melting point of pyrite at 1016 K. 4~” |
-| Phase transition | 1463 K | 1463 | congruent transformation | experimental | [1] Guillermet 1981; _cites Jensen 1942_ [doi](https://doi.org/10.2475/ajs.240.10.695) | p. 4; `ORC-HLQVDCLG63` | “When the result was used to calculate the sulfur activity at the experimental point of congruent melting, x s = 0.52 at 1463 K (Ref. 18), a value of 0.49 was obtained whereas experiments in the liquid just above the melting point have suggested a value of about 0.6.13,19-21” |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Be–Cu system
 
-> Be–Cu system: 36 accepted literature values (invariant reaction 27, crystal structure 6, phase transition 2, formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Be–Cu system: 31 accepted literature values (invariant reaction 25, crystal structure 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BE-CU.html · Markdown: https://data.orchid-project.org/systems/BE-CU.md
 
-36 accepted literature values from 1 paper(s) (experimental 19, model 11, unspecified 6); 1 calculated phase diagram(s).
+31 accepted literature values from 1 paper(s) (experimental 19, model 6, unspecified 6); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BE-CU.json) · [CSV](https://data.orchid-project.org/systems/BE-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-CU/BeCu-18Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/BE-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BE-CU.html) · [Markdown](https://data.orchid-project.org/systems/BE-CU.md)
 
@@ -13,16 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 19 |
-| model | 11 |
+| model | 6 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
-| phase transition | 2 |
-| formation | 1 |
+| invariant reaction | 25 |
 | crystal structure | 6 |
 
 ## Calculated phase diagrams
@@ -54,25 +52,23 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Be–Cu system (27)
+Table: Invariant reactions reported in the literature for the Be–Cu system (25)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1512 | Liquid ↔ δ |  | experimental | [1] Liu 2018; _cites Losana 1942_ | Table 4, p. 9, row 22; `ORC-GYT6NODWFV` |  |
-| 1492 | Liquid ↔ δ | Liquid: Be 0.78 | experimental | [1] Liu 2018; _cites Jonsson 1982_ | Table 4, p. 9, row 24; `ORC-2AWQ3CLFZQ` |  |
-| 1488 | Liquid ↔ δ |  | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 23; `ORC-3XB25XD256` |  |
+| 1512 | congruent melting: Liquid ↔ δ |  | experimental | [1] Liu 2018; _cites Losana 1942_ | Table 4, p. 9, row 22; `ORC-GYT6NODWFV` |  |
+| 1492 | congruent melting: Liquid ↔ δ | Liquid: Be 0.78 | experimental | [1] Liu 2018; _cites Jonsson 1982_ | Table 4, p. 9, row 24; `ORC-2AWQ3CLFZQ` |  |
+| 1488 | congruent melting: Liquid ↔ δ |  | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 23; `ORC-3XB25XD256` |  |
 | 1474.6 | Liquid ↔ δ + (βBe) | Liquid: Be 0.808; δ: Be 0.785; (βBe): Be 0.837 | model | [1] Liu 2018 | Table 4, p. 9, row 17; `ORC-JDPFF6OJY6` |  |
 | 1472 | Liquid ↔ δ + (βBe) | (βBe): Be 0.827 | experimental | [1] Liu 2018; _cites Jonsson 1982_ | Table 4, p. 9, row 16; `ORC-LX22URCQWT` |  |
-| 1471.3 | Liquid ↔ δ | Liquid: Be 0.765 | model | [1] Liu 2018 | Table 4, p. 9, row 25; `ORC-ENZY4VHD3C` |  |
+| 1471.3 | congruent melting: Liquid ↔ δ | Liquid: Be 0.765 | model | [1] Liu 2018 | Table 4, p. 9, row 25; `ORC-ENZY4VHD3C` |  |
 | 1393 | (βBe) ↔ δ + (αBe) | (βBe): Be 0.872; δ: Be 0.803; (αBe): Be 0.914 | model | [1] Liu 2018 | Table 4, p. 9, row 21; `ORC-HUIGPIHOG5` |  |
 | 1390 | (βBe) ↔ δ + (αBe) |  | experimental | [1] Liu 2018; _cites Gelles 1963_ | Table 4, p. 9, row 19; `ORC-LUJDRBNY3S` |  |
 | 1382 | (βBe) ↔ δ + (αBe) | (αBe): Be 0.905 | experimental | [1] Liu 2018; _cites Jonsson 1982_ | Table 4, p. 9, row 20; `ORC-2IB4SBXHRS` |  |
 | 1363 | (βBe) ↔ δ + (αBe) |  | experimental | [1] Liu 2018; _cites Jacobson 1966_ | Table 4, p. 9, row 18; `ORC-FWXD5WE4RI` |  |
 | 1208.1 | Liquid + δ ↔ γ | Liquid: Be 0.456; δ: Be 0.642; γ: Be 0.497 | model | [1] Liu 2018 | Table 4, p. 9, row 15; `ORC-LJ44CKOVYO` |  |
 | 1206 | Liquid + δ ↔ γ |  | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 14; `ORC-4MGUFQSSW6` |  |
-| 1203 | peritectic |  | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6; `ORC-GXTO7VGZHD.520a2d` | “In the phase diagram assessed by Chakrabarti and Tanner \[28\], there is a b (bcc_A2) phase, which is stable in the Cu-rich side with two peritectic equilibria: one among d, liquid, and c (bcc_B2) at 1203 K in the middle of the system and the other among b (bcc_A2), liquid, and (Cu) at 1139 K in the Cu-rich side.” |
 | 1143 | Liquid ↔ (Cu) + β | (Cu): Be 0.166 | experimental | [1] Liu 2018; _cites Abrikosov 1952_ | Table 4, p. 9, row 3; `ORC-57NG4AHYJN` |  |
-| 1139 | peritectic |  | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6; `ORC-GXTO7VGZHD.126903` | “In the phase diagram assessed by Chakrabarti and Tanner \[28\], there is a b (bcc_A2) phase, which is stable in the Cu-rich side with two peritectic equilibria: one among d, liquid, and c (bcc_B2) at 1203 K in the middle of the system and the other among b (bcc_A2), liquid, and (Cu) at 1139 K in the Cu-rich side.” |
 | 1139 | Liquid ↔ (Cu) + β | (Cu): Be 0.137; β: Be 0.254 | experimental | [1] Liu 2018; _cites Iwase 1941_ | Table 4, p. 9, row 2; `ORC-HMDAYLLMKQ` |  |
 | 1138 | Liquid ↔ (Cu) + β | (Cu): Be 0.169; β: Be 0.241 | experimental | [1] Liu 2018; _cites Borchers 1932_ | Table 4, p. 9, row 1; `ORC-244YA77HZJ` |  |
 | 1132.1 | Liquid ↔ (Cu) + β | Liquid: Be 0.254; (Cu): Be 0.148; β: Be 0.276 | model | [1] Liu 2018 | Table 4, p. 9, row 4; `ORC-R3AFXYMBHM` |  |
@@ -86,26 +82,7 @@ Table: Invariant reactions reported in the literature for the Be–Cu system (27
 | 851 | β ↔ (Cu) + γ | β: Be 0.31 | experimental | [1] Liu 2018; _cites Losana 1942_ | Table 4, p. 9, row 7; `ORC-SL76LQG4PR` |  |
 | 846 | β ↔ (Cu) + γ | β: Be 0.318; (Cu): Be 0.097; γ: Be 0.476 | experimental | [1] Liu 2018; _cites Iwase 1941_ | Table 4, p. 9, row 6; `ORC-LUXN3O7JTH` |  |
 
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Be–Cu system (1)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -9.29 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2018 | p. 9; `ORC-Y67XBMVAGJ` | “The calculated enthalpy of formation for c (bcc_B2) phase at 298 K using the present thermodynamic parameters is - 9.29 kJ/mol of atom, which is in a good agreement with the DFT calculated value, - 9.88 kJ/mol of atom.” |
-
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Be–Cu system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1082 K | 1082 |  | model | [1] Liu 2018; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6; `ORC-VGY6R7WES6` | “However, the SGTE unary database \[7\] provides a melting point for the metastable pure bcc_A2 Cu at 1082 K, which is lower than the experimental three-phase equilibrium (Cu) ? liquid ? b.” |
-| Phase transition | 1133 K | 1133 | other | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6; `ORC-KOZIRO4GH7` | “Chakrabarti and Tanner \[28\] proposed a minimum at 1133 K in the liquidus line between these two peritectic equilibria.” |
 
 ### Crystal structure (6)
 

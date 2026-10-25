@@ -48,13 +48,13 @@ Table: Invariant reactions reported in the literature for the Sn–Te system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 677 | liq -> hex + SnTe | L: Te 0.84; hex: Te 1; SnTe: Te 0.5 | experimental | [1] Liu 2010; _cites Biltz 1909_ [doi](https://doi.org/10.1002/zaac.19090640117) | Table III, p. 7, row 10; `ORC-USQYIMZZTT` |  |
-| 676 | liq -> hex + SnTe | L: Te 0.86; hex: Te 1; SnTe: Te 0.5 | experimental | [1] Liu 2010; _cites LeBouteiller 1977_ | Table III, p. 7, row 12; `ORC-56AHDZLUHR` |  |
-| 674 | liq -> hex + SnTe | L: Te 0.857; hex: Te 1; SnTe: Te 0.5 | model | [1] Liu 2010 | Table III, p. 7, row 9; `ORC-KRS7QMQ6MV` |  |
-| 674 | liq -> hex + SnTe | hex: Te 1; SnTe: Te 0.5 | experimental | [1] Liu 2010; _cites Kurosawa 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990280-5) | Table III, p. 7, row 14; `ORC-LISBEAJFKR` |  |
-| 673.5 | liq -> hex + SnTe | hex: Te 1; SnTe: Te 0.5 | experimental | [1] Liu 2010; _cites Rakotomavo 1981_ [doi](https://doi.org/10.1007/bf02654315) | Table III, p. 7, row 13; `ORC-PQL6R65ZDY` |  |
-| 666.5 | liq -> hex + SnTe | L: Te 0.85; hex: Te 1; SnTe: Te 0.5 | experimental | [1] Liu 2010; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 11; `ORC-ZDSJU3ZO5W` |  |
-| 505 | liq -> bct + SnTe | L: Te 2.470e-4; bct: Te 0; SnTe: Te 0.5 | model | [1] Liu 2010 | Table III, p. 7, row 1; `ORC-ODELV4WXVI` |  |
+| 677 | eutectic: liq -> hex + SnTe | L: Te 0.84; hex: Te 1; SnTe: Te 0.5 | experimental | [1] Liu 2010; _cites Biltz 1909_ [doi](https://doi.org/10.1002/zaac.19090640117) | Table III, p. 7, row 10; `ORC-USQYIMZZTT` |  |
+| 676 | eutectic: liq -> hex + SnTe | L: Te 0.86; hex: Te 1; SnTe: Te 0.5 | experimental | [1] Liu 2010; _cites LeBouteiller 1977_ | Table III, p. 7, row 12; `ORC-56AHDZLUHR` |  |
+| 674 | eutectic: liq -> hex + SnTe | L: Te 0.857; hex: Te 1; SnTe: Te 0.5 | model | [1] Liu 2010 | Table III, p. 7, row 9; `ORC-KRS7QMQ6MV` |  |
+| 674 | eutectic: liq -> hex + SnTe | hex: Te 1; SnTe: Te 0.5 | experimental | [1] Liu 2010; _cites Kurosawa 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990280-5) | Table III, p. 7, row 14; `ORC-LISBEAJFKR` |  |
+| 673.5 | eutectic: liq -> hex + SnTe | hex: Te 1; SnTe: Te 0.5 | experimental | [1] Liu 2010; _cites Rakotomavo 1981_ [doi](https://doi.org/10.1007/bf02654315) | Table III, p. 7, row 13; `ORC-PQL6R65ZDY` |  |
+| 666.5 | eutectic: liq -> hex + SnTe | L: Te 0.85; hex: Te 1; SnTe: Te 0.5 | experimental | [1] Liu 2010; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 11; `ORC-ZDSJU3ZO5W` |  |
+| 505 | eutectic: liq -> bct + SnTe | L: Te 2.470e-4; bct: Te 0; SnTe: Te 0.5 | model | [1] Liu 2010 | Table III, p. 7, row 1; `ORC-ODELV4WXVI` |  |
 
 ## Formation enthalpies
 

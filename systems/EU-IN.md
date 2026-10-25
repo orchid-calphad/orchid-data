@@ -1,10 +1,10 @@
 # Eu–In system
 
-> Eu–In system: 25 accepted literature values (invariant reaction 15, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Eu–In system: 17 accepted literature values (invariant reaction 12, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/EU-IN.html · Markdown: https://data.orchid-project.org/systems/EU-IN.md
 
-25 accepted literature values from 1 paper(s) (experimental 11, model 12, unspecified 2); 1 calculated phase diagram(s).
+17 accepted literature values from 1 paper(s) (experimental 6, model 9, unspecified 2); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/EU-IN.json) · [CSV](https://data.orchid-project.org/systems/EU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-IN/EuIn-11Gao.json) · [phases (10)](https://data.orchid-project.org/phases/pages/EU-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-IN.html) · [Markdown](https://data.orchid-project.org/systems/EU-IN.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 12 |
+| experimental | 6 |
+| model | 9 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 15 |
-| phase transition | 10 |
+| invariant reaction | 12 |
+| phase transition | 5 |
 
 ## Calculated phase diagrams
 
@@ -58,16 +58,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Eu–In system (15)
+Table: Invariant reactions reported in the literature for the Eu–In system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1136.15 | eutectic: L ↔ InEu + In2 Eu |  | model | [1] Gao 2011 | p. 3; `ORC-4XKH2FGYV5.4a8df0` | “The calculated eutectic point of L ↔ InEu + In2 Eu is at 58.2 at.% In and 863 °C, which has a slight deviation with the results (53.5 at.% and 860 °C) reported by Yatsenko et al. \[11\].” |
 | 1136.15 | L ↔ InEu+In2Eu | L: In 0.582; InEu: In 0.5; In2Eu: In 0.667 | model | [1] Gao 2011 | Table 1, p. 2, row 5; `ORC-WCLMGL4B34` |  |
 | 1133.15 | L ↔ InEu+In2Eu | L: In 0.535; InEu: In 0.5; In2Eu: In 0.667 | experimental | [1] Gao 2011; _cites Yatsenko 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990121-2) | Table 1, p. 2, row 6; `ORC-3OCQN5RO6J` |  |
-| 1133.15 | eutectic: L ↔ InEu + In2 Eu |  | model | [1] Gao 2011; _cites Yatsenko 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990121-2) | p. 3; `ORC-4XKH2FGYV5.74b7f6` | “The calculated eutectic point of L ↔ InEu + In2 Eu is at 58.2 at.% In and 863 °C, which has a slight deviation with the results (53.5 at.% and 860 °C) reported by Yatsenko et al. \[11\].” |
 | 985.15 | L+InEu ↔ βInEu2 | L: In 0.333; InEu: In 0.5; βInEu2: In 0.3333 | model | [1] Gao 2011 | Table 1, p. 2, row 3; `ORC-SMO7IH6NMQ` |  |
-| 983.15 | peritectic |  | experimental | [1] Gao 2011; _cites Yatsenko 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990121-2) | p. 1; `ORC-I5DA4SGJLM.dcf15c` | “Thermal analysis data indicated the existence of an allotropic transformation in InEu2 , α InEu2 ↔ β InEu2 at 660 °C, and the peritectic melting point of β InEu2 was 710 °C \[11\].” |
 | 983.15 | L+InEu ↔ βInEu2 | L: In 0.333; InEu: In 0.5; βInEu2: In 0.333 | unspecified | [1] Gao 2011; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf02841697) | Table 1, p. 2, row 4; `ORC-IZEXI63IHT` |  |
 | 893.15 | eutectic: L ↔ (Eu)+ In2 Eu |  | experimental | [1] Gao 2011; _cites Yatsenko 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990121-2) | p. 1; `ORC-6GU452HWRU` | “Yatsenko et al. \[11\] also found another eutectic reaction in this system, L ↔ (Eu)+ In2 Eu, and determined the eutectic point was at about 15 at.% In and 620 °C.” |
 | 893.15 | L ↔ (Eu)+αInEu2 | L: In 0.161; (Eu): In 0; αInEu2: In 0.3333 | model | [1] Gao 2011 | Table 1, p. 2, row 1; `ORC-EMHY55EONE` |  |
@@ -80,17 +77,12 @@ Table: Invariant reactions reported in the literature for the Eu–In system (15
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (5)
 
 Table: Phase transition, Eu–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 429.15 K | 429.15 | L ↔ (In) + In4 Eu | experimental | [1] Gao 2011; _cites Koster 1965_ | p. 1; `ORC-OPNO5QNFXJ.e6d806` | “of the In-Eu binary system in the composition range from 50 to 100 at.% In proposed earlier by Koster and Meixner \[9\], who determined three invariant reactions: L ↔ InEu + In2 Eu at 860 °C, L ↔ (In) + In4 Eu at 156 °C, and L + In2 Eu ↔ In4 Eu at 445 °C.” |
-| Phase transition | 718.15 K | 718.15 | L + In2 Eu ↔ In4 Eu | experimental | [1] Gao 2011; _cites Koster 1965_ | p. 1; `ORC-OPNO5QNFXJ.bf4654` | “of the In-Eu binary system in the composition range from 50 to 100 at.% In proposed earlier by Koster and Meixner \[9\], who determined three invariant reactions: L ↔ InEu + In2 Eu at 860 °C, L ↔ (In) + In4 Eu at 156 °C, and L + In2 Eu ↔ In4 Eu at 445 °C.” |
-| Phase transition | 933.15 K | 933.15 | polymorphic: α InEu2 ↔ β InEu2 | model | [1] Gao 2011 | p. 3; `ORC-CSZPOSPBLN` | “The allotropic transformation (α InEu2 ↔ β InEu2 ) at 660 °C reappears in the present work, as shown in Fig. 1.” |
-| Phase transition | 933.15 K | 933.15 | polymorphic: α InEu2 ↔ β InEu2 | experimental | [1] Gao 2011; _cites Yatsenko 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990121-2) | p. 1; `ORC-I5DA4SGJLM.2bc2e4` | “Thermal analysis data indicated the existence of an allotropic transformation in InEu2 , α InEu2 ↔ β InEu2 at 660 °C, and the peritectic melting point of β InEu2 was 710 °C \[11\].” |
-| Phase transition | 1133.15 K | 1133.15 | L ↔ InEu + In2 Eu | experimental | [1] Gao 2011; _cites Koster 1965_ | p. 1; `ORC-OPNO5QNFXJ.57f811` | “of the In-Eu binary system in the composition range from 50 to 100 at.% In proposed earlier by Koster and Meixner \[9\], who determined three invariant reactions: L ↔ InEu + In2 Eu at 860 °C, L ↔ (In) + In4 Eu at 156 °C, and L + In2 Eu ↔ In4 Eu at 445 °C.” |
 | Phase transition | 1181.15 K | 1181.15 | congruent transformation | experimental | [1] Gao 2011; _cites Koster 1965_ | p. 1; `ORC-2I2TA7DGN5.29b810` | “The congruent melting temperature of InEu was reported to be 908 °C by Koster et al. \[9\] and 920 °C by Yatsenko et al. \[11\].” |
 | Phase transition | 1193.15 K | 1193.15 | congruent transformation | model | [1] Gao 2011; _cites Yatsenko 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990121-2) | p. 1; `ORC-2I2TA7DGN5.e56153` | “The congruent melting temperature of InEu was reported to be 908 °C by Koster et al. \[9\] and 920 °C by Yatsenko et al. \[11\].” |
 | Phase transition | 1193.15 K | 1193.15 | congruent transformation | model | [1] Gao 2011 | p. 3; `ORC-NVKF6NMB4Y.bd6193` | “The calculated congruent melting temperatures of the InEu and In2 Eu phases are 920 °C and 980 °C, agreeing with the experimental data \[9,11\].” |

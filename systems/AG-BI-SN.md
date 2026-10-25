@@ -1,10 +1,10 @@
 # Ag–Bi–Sn system
 
-> Ag–Bi–Sn system: 18 accepted literature values (invariant reaction 17, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Bi–Sn system: 17 accepted literature values (invariant reaction 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-BI-SN.html · Markdown: https://data.orchid-project.org/systems/AG-BI-SN.md
 
-18 accepted literature values from 2 paper(s) (experimental 3, model 15); 0 calculated phase diagram(s).
+17 accepted literature values from 2 paper(s) (experimental 3, model 14); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-BI-SN.json) · [CSV](https://data.orchid-project.org/systems/AG-BI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-BI-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-BI-SN.html) · [Markdown](https://data.orchid-project.org/systems/AG-BI-SN.md)
 
@@ -13,14 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 3 |
-| model | 15 |
+| model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 17 |
-| phase transition | 1 |
 
 ## Invariant reactions (literature)
 
@@ -45,16 +44,6 @@ Table: Invariant reactions reported in the literature for the Ag–Bi–Sn syste
 | 414.35 | eutectic: E: L -> Ag3Sn+(Bi)+(Sn) |  | model | [1] Li 2008 | Table 3, p. 11, row 8; `ORC-AMQZEAGRNP` |  |
 | 411.55 | eutectic: L -> Ag3Sn + (Sn) + (Bi) | L: Ag 0.015, Bi 0.4214, Sn 0.5636 | experimental | [1] Li 2008; _cites Hassam 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900617-8) | Table 2, p. 5, row 6; `ORC-7HPM44KCPD` |  |
 | 409.65 | L->Ag3Sn+(Sn) +(Bi) | L: Ag 0.0108, Bi 0.4169, Sn 0.5723; Ag3Sn: Ag 0.75, Bi 0, Sn 0.25; (Sn): Ag 5.000e-4, Bi 0.1305, Sn 0.869; (Bi): Ag 0, Bi 0.9889, Sn 0.0111; Liquid: Ag 0.0108, Bi 0.4169, Sn 0.5723 | model | [2] Kattner 1994 | Table III, p. 4, row 3; `ORC-JFVZSHMHJX` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ag–Bi–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 492.95 K | 492.95 |  | model | [2] Kattner 1994 | p. 6; `ORC-WOBHQMUPMZ` | “Such a solidification calculation was carried out for an alloy with the composition of 95.54 at.% Sn, 1.14 at.% Bi, and 3.32 at.% Ag. Solidification of this alloy begins at 219.8~ with the precipitation of (Sn) with a composition of 99.65 at.% Sn, 0.38 at.% Bi, and 0.07 at.% Ag.” |
 
 ## Sources
 

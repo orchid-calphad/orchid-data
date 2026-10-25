@@ -1,10 +1,10 @@
 # Bi–Mn system
 
-> Bi–Mn system: 31 accepted literature values (invariant reaction 26, phase transition 4, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Mn system: 20 accepted literature values (invariant reaction 18, phase transition 1, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-MN.html · Markdown: https://data.orchid-project.org/systems/BI-MN.md
 
-31 accepted literature values from 2 paper(s) (experimental 19, model 12); 2 calculated phase diagram(s).
+20 accepted literature values from 2 paper(s) (experimental 10, model 10); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-MN.json) · [CSV](https://data.orchid-project.org/systems/BI-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-MN/BiMn-11Oik.json) · [phases (9)](https://data.orchid-project.org/phases/pages/BI-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-MN.html) · [Markdown](https://data.orchid-project.org/systems/BI-MN.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
-| model | 12 |
+| experimental | 10 |
+| model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 26 |
-| phase transition | 4 |
+| invariant reaction | 18 |
+| phase transition | 1 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -74,7 +74,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Mn system (26)
+Table: Invariant reactions reported in the literature for the Bi–Mn system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -87,36 +87,25 @@ Table: Invariant reactions reported in the literature for the Bi–Mn system (26
 | 1360.15 | peritectic: L + γMn ↔ βMn | L: Mn 0.551; γMn: Mn 1; βMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 13; `ORC-VFXZHEIKNY` |  |
 | 1000.15 | peritectic: L + βMn ↔ αMn | βMn: Mn 1; αMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 10; `ORC-SUOTXN7VR7` |  |
 | 980.15 | peritectic: L + βMn ↔ αMn | L: Mn 0.343; βMn: Mn 1; αMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 11; `ORC-AMCF5LVVXY` |  |
-| 719.15 | peritectic |  | experimental | [1] Wang 2011; _cites Seybolt 1956_ | p. 2; `ORC-LGTDFR3VF4.b9d531` | “In the work of Seybolt et al. \[28\], there was an eutectic reaction L M (Bi) + BiMn at 264 °C together with a peritectic reaction of the L + aMn M BiMn at 446 °C.” |
 | 719.15 | peritectic: L + αMn ↔ βBiMn | L: Mn 0.208; αMn: Mn 1; βBiMn: Mn 0.519 | model | [1] Wang 2011 | Table 5, p. 5, row 9; `ORC-SXLSX4G6MV` |  |
 | 719.15 | peritectic: L + αMn ↔ βBiMn | αMn: Mn 1; βBiMn: Mn 0.519 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 8; `ORC-YK4W4DS3UZ` |  |
-| 719 | peritectic |  | experimental | [2] Oikawa 2011; _cites Seybolt 1956_ [doi](https://doi.org/10.1007/bf03377740) | p. 2; `ORC-YPAF2NKIMJ.19198f` | “The peritectic temperature of BiMn from a Mn + Bi-rich liquid is TP2 1⁄4 719 K and that of BiMn from a BiMn + Bi-rich liquid is TP1 1⁄4 628 K.24)” |
 | 631.15 | peritectic: L + βBiMn ↔ αBiMn | L: Mn 0.116; βBiMn: Mn 0.519; αBiMn: Mn 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 7; `ORC-M3PQCMNB5O` |  |
 | 628.15 | peritectic: L + βBiMn ↔ αBiMn | βBiMn: Mn 0.519; αBiMn: Mn 0.5 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 6; `ORC-DU7QHGUM4I` |  |
-| 628 | peritectic |  | experimental | [2] Oikawa 2011 | p. 7; `ORC-TXPYR5V62U` | “The eutectoid temperature at 613 K, as shown in Fig. 2, is also suspect because the calculated entropy change at the peritectic reaction at 628 K is quite large compared with those obtained from the magnetic measurements and DSC, as mentioned in Section 4.1.” |
-| 628 | peritectic |  | experimental | [2] Oikawa 2011; _cites Seybolt 1956_ [doi](https://doi.org/10.1007/bf03377740) | p. 2; `ORC-YPAF2NKIMJ.38f266` | “The peritectic temperature of BiMn from a Mn + Bi-rich liquid is TP2 1⁄4 719 K and that of BiMn from a BiMn + Bi-rich liquid is TP1 1⁄4 628 K.24)” |
 | 613.15 | eutectoid: βBiMn ↔ αBiMn + αMn | βBiMn: Mn 0.519; αBiMn: Mn 0.5; αMn: Mn 1 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 4; `ORC-MLTE6MPFN2` |  |
-| 613 | eutectoid |  | model | [2] Oikawa 2011 | p. 6; `ORC-PAPNP4XD37` | “Therefore, the eutectoid reaction at 613 K shown in Fig. 3 vanished in Fig. 8.” |
-| 613 | eutectoid |  | experimental | [2] Oikawa 2011; _cites Chen 1974_ [doi](https://doi.org/10.1016/0022-0248%2874%2990357-1) | p. 3; `ORC-Y35KXPDEXF` | “In addition to the experimental data listed in Table 1, the eutectoid temperature TE2 1⁄4 613 K was also considered for the thermodynamic assessment applied to Model I in the BiMn phase.27)” |
 | 610.15 | eutectoid: βBiMn ↔ αBiMn + αMn | βBiMn: Mn 0.519; αBiMn: Mn 0.5; αMn: Mn 1 | model | [1] Wang 2011 | Table 5, p. 5, row 5; `ORC-ZWSSDGY6SL` |  |
 | 539.15 | eutectic: L ↔ (Bi) + αBiMn | L: Mn 0.0277; (Bi): Mn 0.0038; αBiMn: Mn 0.5 | model | [1] Wang 2011 | Table 5, p. 5, row 3; `ORC-3JQ3D3J23L` |  |
 | 538.25 | eutectic: L ↔ (Bi) + αBiMn | L: Mn 0.0269; (Bi): Mn 0.0042; αBiMn: Mn 0.5 | experimental | [1] Wang 2011; _cites Pirich 1980_ [doi](https://doi.org/10.1007/bf02700456) | Table 5, p. 5, row 2; `ORC-WGZXDCQVIQ` |  |
-| 538 | eutectic |  | experimental | [2] Oikawa 2011; _cites Pirich 1980_ [doi](https://doi.org/10.1007/bf02700456) | p. 2; `ORC-YPAF2NKIMJ.218a87` | “The eutectic temperature of the Birich liquid into Bi solid + BiMn is TE1 1⁄4 538 K.26)” |
-| 537.15 | eutectic |  | experimental | [1] Wang 2011; _cites Seybolt 1956_ | p. 2; `ORC-LGTDFR3VF4.fa0048` | “In the work of Seybolt et al. \[28\], there was an eutectic reaction L M (Bi) + BiMn at 264 °C together with a peritectic reaction of the L + aMn M BiMn at 446 °C.” |
 | 535.15 | eutectic: L ↔ (Bi) + αBiMn | L: Mn 0.022; (Bi): Mn 0; αBiMn: Mn 0.5 | experimental | [1] Wang 2011; _cites Massalski 1990_ | Table 5, p. 5, row 1; `ORC-YR6XMCIYKQ` |  |
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (1)
 
 Table: Phase transition, Bi–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 613 K | 613 | other | experimental | [2] Oikawa 2011; _cites Chen 1974_ [doi](https://doi.org/10.1016/0022-0248%2874%2990357-1) | p. 2; `ORC-YPAF2NKIMJ.1f4443` | “Both compounds BiMn and BiMn were described as stoichiometric compounds in previous studies:24,25) however, Chen27) reported that the chemical formula of BiMn was Bi1 Mn1:08 and that the eutectoid temperature of BiMn into BiMn + Mn was TE2 1⁄4 613 K.” |
-| Phase transition | 628 K | 628 |  | experimental | [2] Oikawa 2011; _cites Robert 1956_ [doi](https://doi.org/10.3406/reg.1956.3429) | p. 1; `ORC-WBZLN67YJD` | “However, with an increase in temperature, the BiMn phase undergoes a phase transformation from the ferromagnetic state to the paramagnetic state at 628 K, accompanied by a structural transformation from a NiAs-type structure to a disordered Ni2 In-type hexagonal structure (BiMn).5)” |
 | Phase transition | 720 K | 720 | magnetic | model | [2] Oikawa 2011; _cites Huberman 1975_ [doi](https://doi.org/10.1103/physrevb.12.2741) | p. 2; `ORC-PWDZYWB5J5` | “TC of BiMn were evaluated as TC 1⁄4 720 K by using the magnetic mean field model.35)” |
-| Phase transition | 1000 K | 1000 | other | model | [2] Oikawa 2011; _cites Chen 1974_ [doi](https://doi.org/10.1016/0022-0248%2874%2990357-1) | p. 7; `ORC-KWE5ZHY77H` | “According to the previous phase diagram,9) the liquidus lines break at 1000 K, as shown in Fig. 2.” |
 
 ### Other property (1)
 

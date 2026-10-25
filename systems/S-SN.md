@@ -1,10 +1,10 @@
 # S–Sn system
 
-> S–Sn system: 27 accepted literature values (invariant reaction 24, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> S–Sn system: 23 accepted literature values (invariant reaction 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/S-SN.html · Markdown: https://data.orchid-project.org/systems/S-SN.md
 
-27 accepted literature values from 1 paper(s) (experimental 18, model 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+23 accepted literature values from 1 paper(s) (experimental 16, model 7); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/S-SN.json) · [CSV](https://data.orchid-project.org/systems/S-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#S-SN) · [phases (13)](https://data.orchid-project.org/phases/pages/S-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/S-SN.html) · [Markdown](https://data.orchid-project.org/systems/S-SN.md)
 
@@ -12,21 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
-| model | 9 |
+| experimental | 16 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 24 |
-| phase transition | 3 |
+| invariant reaction | 23 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/S/S-SN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/S/S-SN.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the S–Sn system (24)
+Table: Invariant reactions reported in the literature for the S–Sn system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -48,24 +47,11 @@ Table: Invariant reactions reported in the literature for the S–Sn system (24)
 | 978 | L2 \<=> beta-SnS + Sn2S3 | beta-SnS: S 0.5; Sn2S3: S 0.6, Sn 0.4 | experimental | [1] Lindwall 2016; _cites ref. Christensen 1958_ | Table 1, p. 4, row 10; `ORC-AWANO2U2VA` |  |
 | 967 | L2 \<=> beta-SnS + Sn2S3 | L2: S 0.55; beta-SnS: S 0.5, Sn 0.5; Sn2S3: S 0.6 | experimental | [1] Lindwall 2016; _cites ref. Schol 1961_ | Table 1, p. 4, row 14; `ORC-HFPXMGXBVB` |  |
 | 967 | L2 \<=> beta-SnS + Sn2S3 | L2: S 0.557; beta-SnS: S 0.5; Sn2S3: S 0.6 | model | [1] Lindwall 2016 | Table 1, p. 4, row 9; `ORC-MWZLMPW3PI` |  |
-| 967 | eutectic |  | model | [1] Lindwall 2016 | p. 3; `ORC-ORCAPP3KGA` | “Another transition that shows a difference between the experimental and assessed values but within the experimental uncertainty is the measured temperature for the eutectic reaction L2 M SnS + Sn2S3 at 55 at.% sulfur (Albers and Schol, 1961; Karakhanova et al., 1966; Moh, 1969), with the three measured values higher than the calculated one (967 K).” |
 | 967 | L2 \<=> beta-SnS + Sn2S3 | L2: S 0.55; beta-SnS: S 0.5, Sn 0.5; Sn2S3: S 0.57 | experimental | [1] Lindwall 2016; _cites ref. Karakhanova 1966_ | Table 1, p. 4, row 13; `ORC-VXHFQOHAVJ` |  |
 | 505 | L1 \<=> betaSn + alpha-SnS | betaSn: S 0; alpha-SnS: S 0.5 | model | [1] Lindwall 2016 | Table 1, p. 4, row 1; `ORC-WDZ2SXY2C2` |  |
 | 504 | L1 \<=> betaSn + alpha-SnS | alpha-SnS: S 0.5 | experimental | [1] Lindwall 2016; _cites ref. Chang 1986_ | Table 1, p. 4, row 2; `ORC-HYKGDV3SHD` |  |
 | 388 | L3 \<=> SnS2 + betaS | L3: S 1; SnS2: S 0.6667; betaS: S 1; βS: S 1 | model | [1] Lindwall 2016 | Table 1, p. 4, row 21; `ORC-ZALGHP4GAD` |  |
 | 385 | L3 \<=> SnS2 + betaS | SnS2: S 0.6667 | experimental | [1] Lindwall 2016; _cites ref. Moh 1969_ | Table 1, p. 4, row 22; `ORC-IGH7CRRSSH` |  |
-
-## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, S–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 717.8 K | 717.8 | other | experimental | [1] Lindwall 2016; _cites ref. Meyer 1976_ | p. 3; `ORC-P5EO6Y5UPX` | “For the pressure of 1 bar (Fig. 2a), the gas phase is stable above 735 K on the S-rich side, which is a temperature similar to the experimentally measured boiling temperature for pure sulfur (717.8 K) (Meyer, 1976).” |
-| Phase transition | 1114 K | 1114 | L2 M L3 + SnS2 | experimental | [1] Lindwall 2016; _cites ref. Moh 1969_ | p. 3; `ORC-C2SMD4KSKE.e74011` | “The invariant reaction associated with liquid (L) and SnS2, on the S-rich side of the diagram (i.e. L2 M L3 + SnS2 in Fig. 1) shows a slightly higher calculated temperature (1133 K) than the measured value (1114 K) (Moh, 1969).” |
-| Phase transition | 1133 K | 1133 | L2 M L3 + SnS2 | model | [1] Lindwall 2016 | p. 3; `ORC-C2SMD4KSKE.767dec` | “The invariant reaction associated with liquid (L) and SnS2, on the S-rich side of the diagram (i.e. L2 M L3 + SnS2 in Fig. 1) shows a slightly higher calculated temperature (1133 K) than the measured value (1114 K) (Moh, 1969).” |
 
 ## Sources
 

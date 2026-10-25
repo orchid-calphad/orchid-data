@@ -19,7 +19,7 @@ Table: Phases of the In–Ir system (8)
 | [IN2IR_CB](#phase-in-ir-in2ir-cb); _phase:in-ir:in2ir-cb_ | CuMg2 · C_b · oF48 · Fddd (70) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1461.07 K, x(Ir) 0.30808–0.38395 | 17 | 1 |
 | [IN3IR_HT](#phase-in-ir-in3ir); _phase:in-ir:in3ir_ | In3Ir · tP16 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 620.57–1254.08 K, x(Ir) 0.23657–0.24999 | 15 | 1 |
 | [IN3IR_D011](#phase-in-ir-in3ir-d011); _phase:in-ir:in3ir-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–634 K, x(Ir) 0.23822–0.25 | 15 | 1 |
-| [LIQUID](#phase-in-ir-liquid); _phase:in-ir:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 429.75–4000 K, x(Ir) 0–1 | 25 | 1 |
+| [LIQUID](#phase-in-ir-liquid); _phase:in-ir:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 429.75–4000 K, x(Ir) 0–1 | 26 | 1 |
 
 ## TETRAGONAL_A6 (In–Ir)
 
@@ -237,7 +237,7 @@ _cited as the source of values for this phase_
 - Id: `phase:in-ir:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 429.75–4000 K, x(Ir) 0–1
-- Literature: 25 values (23 accepted) from 1 papers
+- Literature: 26 values (23 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-ir:liquid)
 
 Names (4): _corpus: _corpus:phase:in-ir:liquid  

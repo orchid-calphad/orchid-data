@@ -1,10 +1,10 @@
 # Ag–Tb system
 
-> Ag–Tb system: 30 accepted literature values (invariant reaction 27, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Tb system: 25 accepted literature values (invariant reaction 22, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-TB.html · Markdown: https://data.orchid-project.org/systems/AG-TB.md
 
-30 accepted literature values from 1 paper(s) (experimental 23, model 7); 1 calculated phase diagram(s).
+25 accepted literature values from 1 paper(s) (experimental 18, model 7); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-TB.json) · [CSV](https://data.orchid-project.org/systems/AG-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-TB/AgTb-09Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-TB.html) · [Markdown](https://data.orchid-project.org/systems/AG-TB.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 23 |
+| experimental | 18 |
 | model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
+| invariant reaction | 22 |
 | phase transition | 3 |
 
 ## Calculated phase diagrams
@@ -51,7 +51,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Tb system (27)
+Table: Invariant reactions reported in the literature for the Ag–Tb system (22)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -64,21 +64,16 @@ Table: Invariant reactions reported in the literature for the Ag–Tb system (27
 | 1188.15 | congruent melting: L ↔ Ag2Tb | L: Tb 0.333; Ag2Tb: Tb 0.333 | experimental | [1] Wang 2009; _cites Delfino 1976_ | Table 3, p. 4, row 10; `ORC-ELRYJ3NST2` |  |
 | 1188.15 | congruent melting: L ↔ Ag2Tb | L: Tb 0.333; Ag2Tb: Tb 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869230) | Table 3, p. 4, row 11; `ORC-Z4E5OZSR7Z` |  |
 | 1186.45 | congruent melting: L ↔ Ag2Tb | L: Tb 0.333; Ag2Tb: Tb 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 12; `ORC-DQMYATATPR` |  |
-| 1173.15 | eutectic: L ↔ Ag2 Tb + AgTb |  | experimental | [1] Wang 2009; _cites Delfino 1976_ | p. 1; `ORC-BVNE55F5KV.89902e` | “Later, based on metallography, X-ray diffraction, chemical analysis and differential thermal analysis, Delfino et al. \[8\] investigated the phase diagram in the Ag-Tb system, and reported three stoichiometry compounds of the Ag51 Tb14 (melting point, 985 ◦ C), Ag2 Tb (melting point, 915 ◦ C) and AgTb (melting point, 1145 ◦ C), and also determined four eutectic reactions: L ↔ (Ag) + Ag51 Tb14 at 80…” |
 | 1173.15 | eutectic: L ↔ AgTb + Ag2Tb | L: Tb 0.35; AgTb: Tb 0.5; Ag2Tb: Tb 0.333 | experimental | [1] Wang 2009; _cites Delfino 1976_ | Table 3, p. 4, row 7; `ORC-PD2IP3JO4L` |  |
 | 1173.15 | eutectic: L ↔ AgTb + Ag2Tb | L: Tb 0.35; AgTb: Tb 0.5; Ag2Tb: Tb 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869230) | Table 3, p. 4, row 8; `ORC-YXCUDUPCYM` |  |
 | 1171.65 | eutectic: L ↔ AgTb + Ag2Tb | L: Tb 0.363; AgTb: Tb 0.5; Ag2Tb: Tb 0.333 | model | [1] Wang 2009 | Table 3, p. 4, row 9; `ORC-VRQOS3L47G` |  |
 | 1162.75 | eutectic: L ↔ Ag2Tb + Ag51Tb14 | L: Tb 0.297; Ag2Tb: Tb 0.333; Ag51Tb14: Tb 0.227 | model | [1] Wang 2009 | Table 3, p. 4, row 15; `ORC-EAJ7ANMBJR` |  |
-| 1158.15 | eutectic: L ↔ Ag51 Tb14 + Ag2 Tb |  | experimental | [1] Wang 2009; _cites Delfino 1976_ | p. 1; `ORC-BVNE55F5KV.0b86b4` | “Later, based on metallography, X-ray diffraction, chemical analysis and differential thermal analysis, Delfino et al. \[8\] investigated the phase diagram in the Ag-Tb system, and reported three stoichiometry compounds of the Ag51 Tb14 (melting point, 985 ◦ C), Ag2 Tb (melting point, 915 ◦ C) and AgTb (melting point, 1145 ◦ C), and also determined four eutectic reactions: L ↔ (Ag) + Ag51 Tb14 at 80…” |
 | 1158.15 | eutectic: L ↔ Ag2Tb + Ag51Tb14 | L: Tb 0.315; Ag2Tb: Tb 0.333; Ag51Tb14: Tb 0.215 | experimental | [1] Wang 2009; _cites Delfino 1976_ | Table 3, p. 4, row 13; `ORC-LQXPUMD4YJ` |  |
 | 1158.15 | eutectic: L ↔ Ag2Tb + Ag51Tb14 | L: Tb 0.315; Ag2Tb: Tb 0.333; Ag51Tb14: Tb 0.255 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869230) | Table 3, p. 4, row 14; `ORC-UJ2EW2QY7T` |  |
 | 1134.15 | eutectic: L ↔ αTb + AgTb | L: Tb 0.751; αTb: Tb 1; AgTb: Tb 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 3; `ORC-EXVMJIO6CO` |  |
 | 1133.15 | eutectic: L ↔ αTb + AgTb | L: Tb 0.75; αTb: Tb 1; AgTb: Tb 0.5 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869230) | Table 3, p. 4, row 2; `ORC-5WKV7WNUM3` |  |
-| 1133.15 | eutectic: L ↔ AgTb + ␣Tb |  | experimental | [1] Wang 2009; _cites Delfino 1976_ | p. 1; `ORC-BVNE55F5KV.936275` | “Later, based on metallography, X-ray diffraction, chemical analysis and differential thermal analysis, Delfino et al. \[8\] investigated the phase diagram in the Ag-Tb system, and reported three stoichiometry compounds of the Ag51 Tb14 (melting point, 985 ◦ C), Ag2 Tb (melting point, 915 ◦ C) and AgTb (melting point, 1145 ◦ C), and also determined four eutectic reactions: L ↔ (Ag) + Ag51 Tb14 at 80…” |
 | 1133.15 | eutectic: L ↔ αTb + AgTb | L: Tb 0.75; αTb: Tb 1; AgTb: Tb 0.5 | experimental | [1] Wang 2009; _cites Delfino 1976_ | Table 3, p. 4, row 1; `ORC-N2CAXQE2DD` |  |
 | 1078.15 | eutectic: L ↔ Ag51Tb14 + (Ag) | L: Tb 0.11; Ag51Tb14: Tb 0.215; (Ag): Tb 0.011 | experimental | [1] Wang 2009; _cites Delfino 1976_ | Table 3, p. 4, row 20; `ORC-BR5RYYBGJL` |  |
-| 1078.15 | eutectic: L ↔ (Ag) + Ag51 Tb14 |  | experimental | [1] Wang 2009; _cites Delfino 1976_ | p. 1; `ORC-BVNE55F5KV.e3230a` | “Later, based on metallography, X-ray diffraction, chemical analysis and differential thermal analysis, Delfino et al. \[8\] investigated the phase diagram in the Ag-Tb system, and reported three stoichiometry compounds of the Ag51 Tb14 (melting point, 985 ◦ C), Ag2 Tb (melting point, 915 ◦ C) and AgTb (melting point, 1145 ◦ C), and also determined four eutectic reactions: L ↔ (Ag) + Ag51 Tb14 at 80…” |
-| 1074.15 | eutectic: L ↔ (Ag) + Ag51 Tb14 |  | experimental | [1] Wang 2009; _cites Gschneidner 1970_ | p. 1; `ORC-5CZI57NRRO` | “Based on the X-ray parametric method, Gschneidner et al. \[7\] determined the temperature of the eutectic reaction of the L ↔ (Ag) + Ag51 Tb14 (801 ± 3 ◦ C) and the maximum solid solubility of Tb in the fcc (Ag) solution phase (1.12 at.%).” |
 | 1074.15 | eutectic: L ↔ Ag51Tb14 + (Ag) | Ag51Tb14: Tb 0.215; (Ag): Tb 0.011 | experimental | [1] Wang 2009; _cites Gschneidner 1970_ | Table 3, p. 4, row 19; `ORC-M3LURJLJAN` |  |
 | 1074.15 | eutectic: L ↔ Ag51Tb14 + (Ag) | L: Tb 0.11; Ag51Tb14: Tb 0.215; (Ag): Tb 0.011 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869230) | Table 3, p. 4, row 21; `ORC-PJ2TUH3Z5P` |  |
 | 1074.05 | eutectic: L ↔ Ag51Tb14 + (Ag) | L: Tb 0.107; Ag51Tb14: Tb 0.215; (Ag): Tb 0.016 | model | [1] Wang 2009 | Table 3, p. 4, row 22; `ORC-FUDFBDPS4A` |  |

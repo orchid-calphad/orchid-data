@@ -1,10 +1,10 @@
 # Np–Zr system
 
-> Np–Zr system: 18 accepted literature values (invariant reaction 14, phase transition 4) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Np–Zr system: 15 accepted literature values (invariant reaction 14, phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NP-ZR.html · Markdown: https://data.orchid-project.org/systems/NP-ZR.md
 
-18 accepted literature values from 2 paper(s) (experimental 11, model 7); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+15 accepted literature values from 1 paper(s) (experimental 8, model 7); 4 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NP-ZR.json) · [CSV](https://data.orchid-project.org/systems/NP-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NP-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NP-ZR/NpZr-10Kur.json) · [phases (8)](https://data.orchid-project.org/phases/pages/NP-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NP-ZR.html) · [Markdown](https://data.orchid-project.org/systems/NP-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
+| experimental | 8 |
 | model | 7 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 14 |
-| phase transition | 4 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -88,23 +88,19 @@ Table: Invariant reactions reported in the literature for the Np–Zr system (14
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (1)
 
 Table: Phase transition, Np–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 823 K | 823 | other | experimental | [2] Xiong 2014; _cites Okamoto 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902009-8) | p. 2; `ORC-GQIO2XZ3R5` | “Okamoto et al. \[14\] also estimated the decomposition temperature of the d phase to be around 823 K.” |
 | Phase transition | 823.15 K | 823.15 | other | experimental | [1] Bajaj 2011; _cites Okamoto 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902009-8) | p. 2; `ORC-H5DGOWCIK7` | “A decomposition temperature of 550 °C was assigned and it was concluded that this phase formed from c-Np and a-Zr.” |
-| Phase transition | 912.15 K | 912.15 |  | experimental | [1] Bajaj 2011; _cites Freeman 1984_ | p. 1; `ORC-DQ5VMT4ZUH.f685d6` | “The melting points of Np, Pu and U are relatively low for nuclear fuel applications (Tfus\[Np\] = 639 °C, Tfus\[Pu\] = 640 °C, Tfus\[U\] = 1135 °C \[3,4\]) which could pose a limitation to their use.” |
-| Phase transition | 1408.15 K | 1408.15 |  | experimental | [1] Bajaj 2011; _cites Freeman 1984_ | p. 1; `ORC-DQ5VMT4ZUH.7a8326` | “The melting points of Np, Pu and U are relatively low for nuclear fuel applications (Tfus\[Np\] = 639 °C, Tfus\[Pu\] = 640 °C, Tfus\[U\] = 1135 °C \[3,4\]) which could pose a limitation to their use.” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Saurabh Bajaj, Andres Garay, Alexander Landa, Per Söderlind, Patrice Turchi, Raymundo Arróyave, Thermodynamic study of the Np–Zr system, Journal of Nuclear Materials 409, 1-8 (2011). [doi:10.1016/j.jnucmat.2010.10.085](https://doi.org/10.1016/j.jnucmat.2010.10.085)
-2. Wei Xiong, Wei Xie, Dane Morgan, Thermodynamic evaluation of the Np–Zr system using CALPHAD and ab initio methods, Journal of Nuclear Materials 452, 569-577 (2014). [doi:10.1016/j.jnucmat.2014.06.023](https://doi.org/10.1016/j.jnucmat.2014.06.023)
 
 ## Please cite
 

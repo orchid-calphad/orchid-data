@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-U.html · Markdown: https://data.orchid-project.org/systems/AL-U.md
 
-48 accepted literature values from 3 paper(s) (experimental 15, model 33); 3 calculated phase diagram(s).
+48 accepted literature values from 3 paper(s) (experimental 15, model 17, DFT 16); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-U.json) · [CSV](https://data.orchid-project.org/systems/AL-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-U/AlU-08Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AL-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-U.html) · [Markdown](https://data.orchid-project.org/systems/AL-U.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 15 |
-| model | 33 |
+| model | 17 |
+| DFT | 16 |
 
 Table: Accepted values by property group
 
@@ -109,9 +110,9 @@ Table: Enthalpies of formation, Al–U system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UAl2 |  | -86.1 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.bc1b6b` |  |
-| UAl3 |  | -87 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.9be73b` |  |
-| UAl4 |  | -91.4 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.244cc8` |  |
+| UAl2 |  | -86.1 kJ/mol (basis unstated) |  | DFT |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.bc1b6b` |  |
+| UAl3 |  | -87 kJ/mol (basis unstated) |  | DFT |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.9be73b` |  |
+| UAl4 |  | -91.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.244cc8` |  |
 
 ## Other properties
 
@@ -121,8 +122,8 @@ Table: Formation, Al–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS°298_ | -1.1 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.2f4240` |  |
-| Entropy of formation; _printed: ΔfS°298_ | -13.1 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.95d6c3` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -1.1 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.2f4240` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -13.1 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.95d6c3` |  |
 
 ### Heat capacity / entropy / enthalpy (11)
 
@@ -130,17 +131,17 @@ Table: Heat capacity / entropy / enthalpy, Al–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298 (ph.)_ | 101.2 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.d5528a` |  |
-| Entropy; _printed: S°298 (el.)_ | 4.5 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.e33b02` |  |
-| Entropy; _printed: S°298 (ph.)_ | 117.5 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.613532` |  |
-| Entropy; _printed: S°298 (el.)_ | 4.4 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.aa8542` |  |
-| Entropy; _printed: S°298 (el.)_ | 5.7 J/mol (basis unstated)/K | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.22d1ca` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.67 kJ mol^-1 | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.1460d1` |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 24.2 kJ mol^-1 | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.99d0f9` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.65 kJ mol^-1 | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.ea4941` |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 32.3 kJ mol^-1 | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.f45e55` |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 1 kJ mol−1 | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.2fefc5` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 1 kJ mol^-1 | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.bab04f` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 0.67 kJ mol^-1 | 298.15 | UAl2; _alloy: U 0.333333_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.1460d1` |  |
+| heat content contribution; _printed: H°298 - H°0 (ph.)_ | 24.2 kJ mol^-1 | 298.15 | UAl2; _alloy: U 0.333333_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.99d0f9` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 0.65 kJ mol^-1 | 298.15 | UAl3; _alloy: U 0.25_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.ea4941` |  |
+| heat content contribution; _printed: H°298 - H°0 (ph.)_ | 32.3 kJ mol^-1 | 298.15 | UAl3; _alloy: U 0.25_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.f45e55` |  |
+| heat content contribution; _printed: H°298 − H°0 (el.)_ | 1 kJ mol−1 | 298.15 | UAl4; _alloy: U 0.2_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.2fefc5` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 1 kJ mol^-1 | 298.15 | UAl4; _alloy: U 0.2_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.bab04f` |  |
+| sm contribution; _printed: S°298 (ph.)_ | 101.2 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.d5528a` |  |
+| sm contribution; _printed: S°298 (el.)_ | 4.5 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 1; `ORC-MZ2XRS7TQV.e33b02` |  |
+| sm contribution; _printed: S°298 (ph.)_ | 117.5 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.613532` |  |
+| sm contribution; _printed: S°298 (el.)_ | 4.4 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.aa8542` |  |
+| sm contribution; _printed: S°298 (el.)_ | 5.7 J/mol (basis unstated)/K | 298.15 | UAl4; _alloy: U 0.2_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.22d1ca` |  |
 
 ### Crystal structure (12)
 

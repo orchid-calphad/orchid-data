@@ -91,8 +91,8 @@ Table: Invariant reactions reported in the literature for the Sn–Y system (22)
 | 1873 | liq.+Sn4Y5->Sn10Y11 | L: Y 0.4252; Sn4Y5: Y 0.5556; Sn10Y11: Y 0.5238 | model | [1] LÜ 2014 | Table 2, p. 4, row 9; `ORC-IGDXFKZKEF` |  |
 | 1633 | bcc(Y)->liq.+hcp(Y) | bcc(Y): Y 0.95; L: Y 0.92; hcp(Y): Y 0.975 | experimental | [1] LÜ 2014; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 2, p. 4, row 18; `ORC-E2XP4MDSN3` |  |
 | 1633 | bcc(Y)->liq.+hcp(Y) | bcc(Y): Y 0.9766; L: Y 0.9227; hcp(Y): Y 0.9964 | model | [1] LÜ 2014 | Table 2, p. 4, row 17; `ORC-SV27FTIQ7H` |  |
-| 1533 | liq.-> Sn3Y5+hcp(Y) | L: Y 0.89; Sn3Y5: Y 0.625; hcp(Y): Y 0.9948 | model | [1] LÜ 2014 | Table 2, p. 4, row 15; `ORC-PJTLDBLM4O` |  |
-| 1533 | liq.-> Sn3Y5+hcp(Y) | L: Y 0.89; Sn3Y5: Y 0.625; hcp(Y): Y 0.98 | experimental | [1] LÜ 2014; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 2, p. 4, row 16; `ORC-XXNMQLQPB6` |  |
+| 1533 | eutectic: liq.-> Sn3Y5+hcp(Y) | L: Y 0.89; Sn3Y5: Y 0.625; hcp(Y): Y 0.9948 | model | [1] LÜ 2014 | Table 2, p. 4, row 15; `ORC-PJTLDBLM4O` |  |
+| 1533 | eutectic: liq.-> Sn3Y5+hcp(Y) | L: Y 0.89; Sn3Y5: Y 0.625; hcp(Y): Y 0.98 | experimental | [1] LÜ 2014; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 2, p. 4, row 16; `ORC-XXNMQLQPB6` |  |
 | 1413 | liq.+Sn10Y11->Sn2Y | L: Y 0.3036; Sn10Y11: Y 0.5238; Sn2Y: Y 0.3333 | model | [1] LÜ 2014 | Table 2, p. 4, row 7; `ORC-27JEBZXQEO` |  |
 | 1413 | liq.+Sn10Y11->Sn2Y | L: Y 0.32; Sn10Y11: Y 0.524; Sn2Y: Y 0.333 | experimental | [1] LÜ 2014; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 2, p. 4, row 8; `ORC-NQ6VCJGLBP` |  |
 | 798.15 | Liquid + Sn2Y ↔ Sn5Y2 | Liquid: Sn 0.9955; Sn2Y: Sn 0.6667; Sn5Y2: Sn 0.7143 | model | [2] Tang 2012 | Table 1, p. 2, row 27; `ORC-PNVLBBXEQX` |  |
@@ -104,8 +104,8 @@ Table: Invariant reactions reported in the literature for the Sn–Y system (22)
 | 703 | liq.+Sn5Y2-> Sn3Y | L: Y 0.016; Sn5Y2: Y 0.286; Sn3Y: Y 0.25 | experimental | [1] LÜ 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 2, p. 4, row 4; `ORC-K5I4YTNKTU` |  |
 | 504.15 | Liquid ↔ Sn3Y + (βSn) | Liquid: Sn 1; Sn3Y: Sn 0.75; (βSn): Sn 1 | model | [2] Tang 2012 | Table 1, p. 2, row 32; `ORC-VMGUB6QPHU` |  |
 | 503.15 | Liquid ↔ Sn3Y + (βSn) | Liquid: Sn 1; Sn3Y: Sn 0.75; (βSn): Sn 1 | experimental | [2] Tang 2012; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 1, p. 2, row 31; `ORC-UYF5OOSFRX` |  |
-| 503 | liq.->Sn3Y+bct(Sn) | L: Y 0.005; Sn3Y: Y 0.25; bct(Sn): Y 0 | experimental | [1] LÜ 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 2, p. 4, row 2; `ORC-DI44KTG44S` |  |
-| 503 | liq.->Sn3Y+bct(Sn) | L: Y 0.0052; Sn3Y: Y 0.25; bct(Sn): Y 0 | model | [1] LÜ 2014 | Table 2, p. 4, row 1; `ORC-DOVR2E6IBH` |  |
+| 503 | eutectic: liq.->Sn3Y+bct(Sn) | L: Y 0.005; Sn3Y: Y 0.25; bct(Sn): Y 0 | experimental | [1] LÜ 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 2, p. 4, row 2; `ORC-DI44KTG44S` |  |
+| 503 | eutectic: liq.->Sn3Y+bct(Sn) | L: Y 0.0052; Sn3Y: Y 0.25; bct(Sn): Y 0 | model | [1] LÜ 2014 | Table 2, p. 4, row 1; `ORC-DOVR2E6IBH` |  |
 | 502.15 | Liquid ↔ Sn3Y + (βSn) | Liquid: Sn 0.9938; Sn3Y: Sn 0.75 | experimental | [2] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 30; `ORC-L4GCGDMU7V` |  |
 
 ## Formation enthalpies

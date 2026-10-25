@@ -1,10 +1,10 @@
 # Au–Si–Sn system
 
-> Au–Si–Sn system: 24 accepted literature values (invariant reaction 23, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Si–Sn system: 21 accepted literature values (invariant reaction 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-SI-SN.html · Markdown: https://data.orchid-project.org/systems/AU-SI-SN.md
 
-24 accepted literature values from 1 paper(s) (experimental 10, model 14); 0 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (experimental 8, model 13); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SI-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-SI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SI-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-SI-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-SI-SN.md)
 
@@ -12,27 +12,24 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
-| model | 14 |
+| experimental | 8 |
+| model | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 23 |
-| phase transition | 1 |
+| invariant reaction | 21 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Si–Sn system (23)
+Table: Invariant reactions reported in the literature for the Au–Si–Sn system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 763 | quasi-peritectic: L + β -> (Au) + ζ | L: Au 0.777 | experimental | [1] Meng 2007; _cites Legendre 1985_ | Table 3, p. 4, row 2; `ORC-HHTH52ACQW` |  |
 | 746 | quasi-peritectic: L + β -> (Au) + ζ | L: Au 0.792, Si 0.062 | model | [1] Meng 2007 | Table 3, p. 4, row 1; `ORC-ZW7DPDG6HG` |  |
-| 691.8 | eutectic |  | experimental | [1] Meng 2007 | p. 2; `ORC-7NNHGGYOR3` | “It was shown that the section AuSn-Si is a pseudobinary eutectic, with an etuectic temperature of 691.8 K and a composition of 0.3 at.% Si.” |
 | 691.6 | other: L -> (Si) + AuSn |  | experimental | [1] Meng 2007; _cites Legendre 1985_ | Table 3, p. 4, row 4; `ORC-RUXZW47I6U` |  |
-| 691.5 | eutectic |  | model | [1] Meng 2007 | p. 4; `ORC-OTVI3CZ5B2` | “The calculated results show that AuSn-Si section is a pseudobinary system, with a eutectic temperature of 691.5 K and a composition of 0.1 at.% Si (Fig. 9 and Table 3), which is in good agreement with Legendre et al. \[27\].” |
 | 691.5 | other: L -> (Si) + AuSn | L: Si 0.001 | model | [1] Meng 2007 | Table 3, p. 4, row 3; `ORC-RIS477KYNT` |  |
 | 629.7 | quasi-peritectic: L + (Au) -> (Si) + ζ | L: Au 0.756 | experimental | [1] Meng 2007; _cites Legendre 1985_ | Table 3, p. 4, row 6; `ORC-WBOFGG4GIH` |  |
 | 629 | quasi-peritectic: L + (Au) -> (Si) + ζ | L: Au 0.78, Si 0.161 | model | [1] Meng 2007 | Table 3, p. 4, row 5; `ORC-RX5TL4PUAN` |  |
@@ -51,16 +48,6 @@ Table: Invariant reactions reported in the literature for the Au–Si–Sn syste
 | 451 | quasi-peritectic: ζ + AuSn -> γ + (Si) |  | model | [1] Meng 2007 | Table 3, p. 4, row 19; `ORC-N6ASCAKXX2` |  |
 | 448 | quasi-peritectic: ζ + AuSn -> γ + (Si) |  | experimental | [1] Meng 2007; _cites Legendre 1985_ | Table 3, p. 4, row 20; `ORC-63FC6BNR3I` |  |
 | 301 | quasi-peritectic: β + (Si) -> (Au) + ζ |  | model | [1] Meng 2007 | Table 3, p. 4, row 21; `ORC-ZGPODMA3FD` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Au–Si–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 448 K | 448 | AuSn + ␨ → (Si) + ␥ | experimental | [1] Meng 2007; _cites Legendre 1985_ | p. 2; `ORC-6F4USL3CMF` | “In addition, a solid state reaction was detected at approximately 448 K. It was speculated that the reaction may be AuSn + ␨ → (Si) + ␥.” |
 
 ## Sources
 

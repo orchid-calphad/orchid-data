@@ -49,7 +49,7 @@ Table: Invariant reactions reported in the literature for the Ca–Na system (4)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 983.9 | monotectic: Liquid1 -> bcc(Ca) + liquid2 | Liquid1: Na 0.221; bcc(Ca): Na 0.102; liquid2: Na 0.959 | model | [1] Zhang 2003 | Table 2, p. 3, row 1; `ORC-HRO73SOOT2` |  |
-| 983 | Liquid1 -> bcc(Ca) + liquid2 | Liquid1: Na 0.221; liquid2: Na 0.959 | experimental | [1] Zhang 2003; _cites Rinck 1931_ | Table 2, p. 3, row 2; `ORC-H3DMMHFPD4` |  |
+| 983 | monotectic: Liquid1 -> bcc(Ca) + liquid2 | Liquid1: Na 0.221; liquid2: Na 0.959 | experimental | [1] Zhang 2003; _cites Rinck 1931_ | Table 2, p. 3, row 2; `ORC-H3DMMHFPD4` |  |
 | 707.3 | Bcc(Ca) -> fcc(Ca) + liquid2 | Bcc(Ca): Na 0.00563; liquid2: Na 0.995 | model | [1] Zhang 2003 | Table 2, p. 3, row 3; `ORC-UPCHZ4556T` |  |
 | 370.9 | eutectic: Liquid2 -> fcc(Ca) + bcc(Na) | Liquid2: Na 0.99998; fcc(Ca): Na 5.200e-5; bcc(Na): Na 0.99999 | model | [1] Zhang 2003 | Table 2, p. 3, row 4; `ORC-RW4RAHC6Q4` |  |
 

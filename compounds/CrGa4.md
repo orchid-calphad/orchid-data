@@ -31,7 +31,7 @@ Table: Uncertainty budget of the literature values of CrGa4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -14.5 | kJ/mol (basis unstated) | 1 | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -14.5 | kJ/mol (basis unstated) | 1 | 0.05 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 16 |
 | -7.6 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
 | -7.6 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -13.3 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |

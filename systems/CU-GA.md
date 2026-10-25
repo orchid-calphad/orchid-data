@@ -1,6 +1,6 @@
 # Cu–Ga system
 
-> Cu–Ga system: 93 accepted literature values (invariant reaction 85, activity / EMF / Gibbs energy 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Ga system: 93 accepted literature values (invariant reaction 85, activity / EMF / Gibbs energy 4, model expression 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-GA.html · Markdown: https://data.orchid-project.org/systems/CU-GA.md
 
@@ -20,7 +20,8 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 85 |
-| activity / EMF / Gibbs energy | 8 |
+| activity / EMF / Gibbs energy | 4 |
+| model expression | 4 |
 
 ## Calculated phase diagrams
 
@@ -157,20 +158,27 @@ Table: Invariant reactions reported in the literature for the Cu–Ga system (85
 
 ## Other properties
 
-### Activity / EMF / Gibbs energy (8)
+### Activity / EMF / Gibbs energy (4)
 
 Table: Activity / EMF / Gibbs energy, Cu–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | EMF; _printed: σ_ | 5.900e-4 V |  | UNKNOWN; _alloy: Cu 0, Ga 1_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 1; `ORC-HTTCR7QL5E.2bbd15` |  |
-| EMF; _printed: a_ | 0.486 V |  | UNKNOWN; _alloy: Cu 0, Ga 1_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 1; `ORC-HTTCR7QL5E.dc3060` |  |
 | EMF; _printed: σ_ | 0.018 V |  | UNKNOWN; _alloy: Cu 0.68, Ga 0.32_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 3; `ORC-KBPIDUXNJB.860be3` |  |
-| EMF; _printed: a_ | 0.717 V |  | UNKNOWN; _alloy: Cu 0.68, Ga 0.32_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 3; `ORC-KBPIDUXNJB.fcc0be` |  |
-| EMF; _printed: a_ | 0.195 V |  | UNKNOWN; _alloy: Cu 0.9, Ga 0.1_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 4; `ORC-SI3MNWFVHG.1dbda2` |  |
 | EMF; _printed: σ_ | 8.600e-4 V |  | UNKNOWN; _alloy: Cu 0.9, Ga 0.1_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 4; `ORC-SI3MNWFVHG.96c6e3` |  |
-| EMF; _printed: a_ | 0.464 V |  | UNKNOWN; _alloy: Cu 0.25, Ga 0.75_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 2; `ORC-VQV3XXH7M3.58b7ce` |  |
 | EMF; _printed: σ_ | 0.00158 V |  | UNKNOWN; _alloy: Cu 0.25, Ga 0.75_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 2; `ORC-VQV3XXH7M3.885460` |  |
+
+### Model expression (4)
+
+Table: Model expression, Cu–Ga system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| emf expression term; _printed: a_ | 0.486 V |  | UNKNOWN; _alloy: Cu 0, Ga 1_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 1; `ORC-HTTCR7QL5E.dc3060` |  |
+| emf expression term; _printed: a_ | 0.717 V |  | UNKNOWN; _alloy: Cu 0.68, Ga 0.32_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 3; `ORC-KBPIDUXNJB.fcc0be` |  |
+| emf expression term; _printed: a_ | 0.195 V |  | UNKNOWN; _alloy: Cu 0.9, Ga 0.1_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 4; `ORC-SI3MNWFVHG.1dbda2` |  |
+| emf expression term; _printed: a_ | 0.464 V |  | UNKNOWN; _alloy: Cu 0.25, Ga 0.75_ | experimental | [1] Jendrzejczyk-Handzlik 2015 | Table 2, p. 2, row 2; `ORC-VQV3XXH7M3.58b7ce` |  |
 
 ## Sources
 

@@ -36,7 +36,7 @@ Table: Uncertainty budget of the literature values of Cu8Zr3
 | -14.788 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -13.4603 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -3.24593 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -18.21 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -18.21 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

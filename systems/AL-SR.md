@@ -1,10 +1,10 @@
 # Al–Sr system
 
-> Al–Sr system: 123 accepted literature values (invariant reaction 75, formation 43, phase transition 4, activity / EMF / Gibbs energy 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sr system: 112 accepted literature values (invariant reaction 65, formation 43, phase transition 3, activity / EMF / Gibbs energy 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SR.html · Markdown: https://data.orchid-project.org/systems/AL-SR.md
 
-123 accepted literature values from 3 paper(s) (experimental 52, model 28, DFT 43); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+112 accepted literature values from 3 paper(s) (experimental 43, model 26, DFT 43); 4 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SR.json) · [CSV](https://data.orchid-project.org/systems/AL-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SR/AlSr-03Wan-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SR.html) · [Markdown](https://data.orchid-project.org/systems/AL-SR.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 52 |
-| model | 28 |
+| experimental | 43 |
+| model | 26 |
 | DFT | 43 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 75 |
-| phase transition | 4 |
+| invariant reaction | 65 |
+| phase transition | 3 |
 | formation | 43 |
 | activity / EMF / Gibbs energy | 1 |
 
@@ -104,7 +104,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Sr system (75)
+Table: Invariant reactions reported in the literature for the Al–Sr system (65)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -134,7 +134,6 @@ Table: Invariant reactions reported in the literature for the Al–Sr system (75
 | 1196.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014 | Table 5, p. 6, row 25; `ORC-57OD4V3FYL` |  |
 | 1195.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 23; `ORC-VKZ54WUNEV` |  |
 | 1194.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved); SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 24; `ORC-3CJCI4U6JD` |  |
-| 1193.15 | peritectic: L + SrAl4 = SrAl2 |  | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | p. 5; `ORC-3DSML3DTY3` | “That agrees with the present assessment, the peritectic reaction L + SrAl4 = SrAl2 occurs at 923 °C, close to the experimentally observed 920 °C \[8\].” |
 | 1193.15 | peritectic: SrAl4+L->SrAl2 | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.344; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [2] Wang 2003; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 1, p. 2, row 10; `ORC-75JBATHUHG` |  |
 | 1193.15 | peritectic: Liquid + SrAl4 = SrAl2 | SrAl4: Al 0.8, Sr 0.2; SrAl2: Al 0.666667, Sr 0.333333 | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 5, p. 6, row 21; `ORC-QOZH3E2JAE` |  |
 | 1193 | peritectic |  | experimental | [3] Zhong 2004 | p. 3; `ORC-GOVNTBMVDU.ad9360` | “The melting point of the Al4 Sr compound was given as 1298 K, the peritectic reactions of the Al2 Sr and ÔAlSrÕ (instead of the ÔAl2 Sr3 Õ in \[7\]) compounds at 1193 and 937 K, respectively.” |
@@ -153,21 +152,14 @@ Table: Invariant reactions reported in the literature for the Al–Sr system (75
 | 937 | peritectic |  | experimental | [3] Zhong 2004 | p. 3; `ORC-GOVNTBMVDU.55f9ee` | “The melting point of the Al4 Sr compound was given as 1298 K, the peritectic reactions of the Al2 Sr and ÔAlSrÕ (instead of the ÔAl2 Sr3 Õ in \[7\]) compounds at 1193 and 937 K, respectively.” |
 | 936.15 | peritectic: Liquid + SrAl2 = Sr8Al7 | SrAl2: Al 0.666667, Sr 0.333333 (basis unresolved); Sr8Al7: Al 0.466667, Sr 0.533333 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 31; `ORC-JLBLGKTW6J` |  |
 | 928.75 | eutectic |  | experimental | [1] Liang 2014 | p. 3; `ORC-4HTGI45Z64` | “Preference is given to the data at slow heating rate and the value of 655.6 °C is determined for the (Al)-SrAl4 eutectic temperature.” |
-| 928.75 | eutectic |  | experimental | [1] Liang 2014 | p. 1; `ORC-I2G4GWTOB5` | “The temperature of the (Al)-SrAl4 eutectic reaction is determined to be 655.6 °C by carefully calibrated and controlled differential scanning calorimetry (DSC) experiments.” |
 | 928.75 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 | experimental | [1] Liang 2014 | Table 5, p. 6, row 9; `ORC-LL6X7FXMQN` |  |
-| 928.75 | eutectic: L = (Al) + SrAl4 |  | experimental | [1] Liang 2014 | p. 7; `ORC-LR475AZ3VQ` | “The temperature of the L = (Al) + SrAl4 eutectic reaction was experimentally determined to be 655.6 °C by carefully controlled differential scanning calorimetry, revealing also the enthalpy data.” |
-| 928.55 | eutectic |  | model | [1] Liang 2014 | p. 5; `ORC-2V3V5PHKXY` | “The present work determines the highest eutectic temperature, 655.4 °C (assessed), combined with the lowest eutectic liquid composition value of 2.15 wt.% Sr compared to all the calculations in Table 5.” |
 | 928.55 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014 | Table 5, p. 6, row 10; `ORC-6PZ33CORZT` |  |
-| 928.55 | eutectic |  | model | [1] Liang 2014 | p. 5; `ORC-ZAHXQQ437N` | “The calculated (Al)-SrAl4 eutectic temperature based on the present work is 655.4 °C, which is close to our DSC result and also agrees within less than 2 K with other more recent experimental work \[7,8\] determined by the cooling curves of the thermal analysis” |
 | 928.05 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 8; `ORC-IG7TDBFJNE` |  |
 | 927.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.01; SrAl4: Al 0.8, Sr 0.2 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 18; `ORC-MOM26ONOAK` |  |
 | 927.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Sato 1985_ | Table 5, p. 6, row 4; `ORC-STG37C24ZR` |  |
 | 927.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 5, p. 6, row 5; `ORC-XRTUZGDFBU` |  |
-| 927 | eutectic |  | experimental | [3] Zhong 2004; _cites Sato 1985_ | p. 3; `ORC-FZUNNXBS3K` | “Sato et al. \[13\] studied the Al-rich part of the system up to 7.2 at.% Sr by thermal analysis, XRD, and optical microscopy and found the eutectic at 0.85 at.% Sr and 927 K.” |
-| 927 | eutectic |  | experimental | [3] Zhong 2004; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | p. 3; `ORC-JZVDVDZGI7` | “Closset et al. \[15\] confirmed the eutectic reaction on Alrich side (reported at 927 K and 2.4 wt% Sr (0.75 at.% Sr)).” |
 | 926.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | experimental | [1] Liang 2014; _cites Hanna 1983_ | Table 5, p. 6, row 3; `ORC-BLHDBR7U33` |  |
 | 926.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.013; SrAl4: Al 0.8, Sr 0.2 | experimental | [2] Wang 2003; _cites Hanna 1983_ | Table 1, p. 2, row 15; `ORC-LJU2VSIJE6` |  |
-| 926 | eutectic |  | experimental | [3] Zhong 2004; _cites Hanna 1982_ | p. 3; `ORC-ENB2JTNXE7` | “Hanna and Hellawell \[10\] studied the Al-rich part of the system up to 2 at.% Sr by thermal analysis. The temperature and composition of the eutectic point were found to be 926 K and 1.3 at.% Sr.” |
 | 925.15 | eutectic: L->(Al)+SrAl4 | L: Sr 0.0116; SrAl4: Al 0.8, Sr 0.2 | model | [2] Wang 2003 | Table 1, p. 2, row 19; `ORC-Z4PW27INDV` |  |
 | 925.15 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Wang 2003_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900046-x) | Table 5, p. 6, row 6; `ORC-ZD7MEILJZA` |  |
 | 925.05 | eutectic: Liquid = (Al) + SrAl4 | SrAl4: Al 0.8, Sr 0.2 (basis unresolved) | model | [1] Liang 2014; _cites Zhong 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.022) | Table 5, p. 6, row 7; `ORC-HGF3EWO752` |  |
@@ -179,10 +171,8 @@ Table: Invariant reactions reported in the literature for the Al–Sr system (75
 | 863.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.818; Sr8Al7: Al 0.466667, Sr 0.533333 | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 29; `ORC-IDEHMBFOLB` |  |
 | 853.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.735; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 1, p. 2, row 28; `ORC-PEYUEC76UZ` |  |
 | 853.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.77; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Vakhobov 1979_ | Table 1, p. 2, row 27; `ORC-XJHIQFPLSG` |  |
-| 853 | eutectic |  | experimental | [3] Zhong 2004 | p. 3; `ORC-UWLPIVRPM7` | “The eutectic reaction on the Sr side was shown at 853 K and 90 wt% Sr (73.5 at.% Sr).” |
 | 852.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.736; Sr8Al7: Al 0.466667, Sr 0.533333 | model | [2] Wang 2003 | Table 1, p. 2, row 30; `ORC-XC45CMBRQG` |  |
 | 833.15 | eutectic: L->Sr8Al7+(βSr) | L: Sr 0.7; Sr8Al7: Al 0.466667, Sr 0.533333 | experimental | [2] Wang 2003; _cites Burylev 1974_ | Table 1, p. 2, row 25; `ORC-5Y5JUNUS5M` |  |
-| 833 | eutectic |  | experimental | [3] Zhong 2004; _cites Vakhobov 1979_ | p. 3; `ORC-2UBFKGTGHM.e5dc55` | “Particularly, their results agree well with the phase diagram drawn from the results of Bruzzone and Merlo \[7\]: the eutectic reaction on the Sr side was shown at about 77 at.% Sr and 833 K, the melting point of Al4 Sr coincides with the value of Bruzzone and Merlo \[7\]; and the peritectic reactions of formation of Al2 Sr and ÔAl2 Sr3 Õ were given as occurring at 1213 and 951 K, respectively.” |
 
 ## Formation enthalpies
 
@@ -238,7 +228,7 @@ Table: Enthalpies of formation, Al–Sr system (43)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (3)
 
 Table: Phase transition, Al–Sr system
 
@@ -246,7 +236,6 @@ Table: Phase transition, Al–Sr system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 928.75 K | 928.75 | eutectic: (Al)-SrAl4 eutectic; _alloy: Al 0, Sr 1_ | experimental | [1] Liang 2014 | Table 2, p. 4, row 6; `ORC-A5WPLXK25V` |  |
 | Phase transition | 929.05 K | 929.05 | eutectic: (Al)-SrAl4 eutectic; _alloy: Al 0, Sr 1_ | experimental | [1] Liang 2014 | Table 2, p. 4, row 2; `ORC-3IMKZVSEU4` |  |
-| Phase transition | 933.25 K | 933.25 |  | experimental | [1] Liang 2014 | p. 3; `ORC-BGSKORRRCB.fe8acb` | “also measured the melting point of pure Al (99.999%, same purity as used for the ingots) and the obtained value is 660.1 °C which is only 0.2 °K lower than the standard 660.3 °C.” |
 | Phase transition | 1298 K | 1298 | Al4Sr | experimental | [3] Zhong 2004 | p. 3; `ORC-GOVNTBMVDU.94f3db` | “The melting point of the Al4 Sr compound was given as 1298 K, the peritectic reactions of the Al2 Sr and ÔAlSrÕ (instead of the ÔAl2 Sr3 Õ in \[7\]) compounds at 1193 and 937 K, respectively.” |
 
 ### Activity / EMF / Gibbs energy (1)

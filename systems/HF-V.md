@@ -1,10 +1,10 @@
 # Hf–V system
 
-> Hf–V system: 29 accepted literature values (invariant reaction 14, phase transition 7, formation 4, mixing / partial 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–V system: 24 accepted literature values (invariant reaction 12, formation 4, mixing / partial 4, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-V.html · Markdown: https://data.orchid-project.org/systems/HF-V.md
 
-29 accepted literature values from 1 paper(s) (experimental 12, model 17); 1 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+24 accepted literature values from 1 paper(s) (experimental 8, model 16); 1 calculated phase diagram(s). 15 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-V.json) · [CSV](https://data.orchid-project.org/systems/HF-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-V/HfV-05Ser.json) · [phases (5)](https://data.orchid-project.org/phases/pages/HF-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-V.html) · [Markdown](https://data.orchid-project.org/systems/HF-V.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 17 |
+| experimental | 8 |
+| model | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
-| phase transition | 7 |
+| invariant reaction | 12 |
+| phase transition | 4 |
 | formation | 4 |
 | mixing / partial | 4 |
 
@@ -46,17 +46,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hf–V system (14)
+Table: Invariant reactions reported in the literature for the Hf–V system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2266.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 3, p. 3, row 15; `ORC-ULYMJRGWAE` |  |
-| 1819.15 | peritectic |  | experimental | [1] Servant 2005; _cites Guzei 1968_ | p. 1; `ORC-PYAR7UG346.588c57` | “Conflicting information is provided in Ref 19 and 20, studies in which the Laves phase formation was reported to occur as result of a peritectic reaction at either 1546 °C (Ref 19) or 1490 °C (Ref 20).” |
 | 1808.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 3, p. 3, row 5; `ORC-BDLVB33T7V` |  |
 | 1804.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 2, p. 3, row 6; `ORC-LV434AGVKP` |  |
 | 1793.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 3, p. 3, row 7; `ORC-3G73AJRGW2` |  |
 | 1793.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 8; `ORC-HRCGT35BXK` |  |
-| 1763.15 | peritectic |  | experimental | [1] Servant 2005; _cites Cunnigham 1963_ | p. 1; `ORC-PYAR7UG346.045a2e` | “Conflicting information is provided in Ref 19 and 20, studies in which the Laves phase formation was reported to occur as result of a peritectic reaction at either 1546 °C (Ref 19) or 1490 °C (Ref 20).” |
 | 1733.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 3, p. 3, row 9; `ORC-CGT2S2IPDK` |  |
 | 1731.15 | eutectic: L -> bcc_A2 + C15-Laves |  | model | [1] Servant 2005 | Table 2, p. 3, row 10; `ORC-CJRPIXGBRC` |  |
 | 1729.15 | eutectic: L -> bcc_A2 + C15-Laves |  | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 12; `ORC-FPTWLCXDMG` |  |
@@ -80,7 +78,7 @@ Table: Enthalpies of formation, Hf–V system (4)
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (4)
 
 Table: Phase transition, Hf–V system
 
@@ -89,10 +87,7 @@ Table: Phase transition, Hf–V system
 | Phase transition | 1805.65 K | 1805.65 | congruent melting: L -> C15 Laves | model | [1] Servant 2005 | Table 3, p. 3, row 2; `ORC-L3XCVYIOSY` |  |
 | Phase transition | 1809.15 K | 1809.15 | congruent melting: L -> C15 Laves | model | [1] Servant 2005 | Table 3, p. 3, row 1; `ORC-4IK4OX7EUJ` |  |
 | Phase transition | 1823.15 K | 1823.15 | congruent melting: L -> C15 Laves | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 4; `ORC-ERC4LMJTDP` |  |
-| Phase transition | 1823.15 K | 1823.15 | congruent transformation | model | [1] Servant 2005; _cites Smith 1990_ | p. 1; `ORC-TU4TT2VK2J.65f1ba` | “The C15-Laves phase melts congruently at a temperature of 1552 °C (Ref 16) and 1550 °C (Ref 17), and has a homogeneity range.” |
 | Phase transition | 1825.15 K | 1825.15 | congruent melting: L -> C15 Laves | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 3, p. 3, row 3; `ORC-QJFT5ZQRXW` |  |
-| Phase transition | 1825.15 K | 1825.15 | congruent transformation | experimental | [1] Servant 2005; _cites Rudy 1968_ | p. 1; `ORC-TU4TT2VK2J.d8f83a` | “The C15-Laves phase melts congruently at a temperature of 1552 °C (Ref 16) and 1550 °C (Ref 17), and has a homogeneity range.” |
-| Phase transition | 2446.15 K | 2446.15 |  | experimental | [1] Servant 2005; _cites Komjathy 1961_ | p. 1; `ORC-UTY24JICXO` | “On the other hand, according to Komjathy (Ref 18), its melting point is higher (2173 °C) and the phase is stoichiometric.” |
 
 ### Mixing / partial (4)
 

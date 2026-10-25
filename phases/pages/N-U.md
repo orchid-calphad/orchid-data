@@ -13,12 +13,12 @@ Table: Phases of the N–U system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A20](#phase-n-u-a20-orthorhombic); _phase:n-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–942.02 K, x(N) 0–0 | 0 | 1 |
-| [BCC_A2](#phase-n-u-bcc-a2); _phase:n-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1048.99–1407.88 K, x(N) 0–0 | 11 | 1 |
+| [BCC_A2](#phase-n-u-bcc-a2); _phase:n-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1048.99–1407.88 K, x(N) 0–0 | 9 | 1 |
 | [FCC_A1](#phase-n-u-fcc-a1); _phase:n-u:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_B1](#phase-n-u-fcc-b1); _phase:n-u:fcc-b1_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–3066.3 K, x(N) 0.49679–0.5 | 113 | 1 |
 | [GAS](#phase-n-u-gas); _phase:n-u:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300.02–4000 K, x(N) 0.96215–1 | 13 | 1 |
 | [HCP_A3](#phase-n-u-hcp-a3); _phase:n-u:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [LIQUID](#phase-n-u-liquid); _phase:n-u:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1407.88–4000 K, x(N) 0–0.42477 | 36 | 1 |
+| [LIQUID](#phase-n-u-liquid); _phase:n-u:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1407.88–4000 K, x(N) 0–0.42477 | 37 | 1 |
 | [N2GAS](#phase-n-u-n2gas); _phase:n-u:n2gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–2171.26 K, x(N) 1–1 | 0 | 1 |
 | [TETRAGONAL_U](#phase-n-u-u-tetragonal); _phase:n-u:u-tetragonal_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 942.02–1048.99 K, x(N) 0–0 | 0 | 1 |
 | [U2N3_ALPHA](#phase-n-u-u2n3-alpha); _phase:n-u:u2n3-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1175.02 K, x(N) 0.6–0.60684 | 10 | 1 |
@@ -56,11 +56,11 @@ _assessment that models this phase_
 - Id: `phase:n-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1048.99–1407.88 K, x(N) 0–0
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-u:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:n-u:bcc-a2  
-_paper: _paper:10.1016/s0022-3115(00)00043-x:N0.587U0.413 (β-N3U2), paper:10.1016/s0022-3115(00)00043-x:γ-U(bcc_A2)  
+Names (3): _corpus: _corpus:phase:n-u:bcc-a2  
+_paper: _paper:10.1016/s0022-3115(00)00043-x:γ-U(bcc_A2)  
 _tdb: _tdb:UN-00Che.tdb:BCC_A2  
 
 
@@ -73,15 +73,13 @@ _tdb: _tdb:UN-00Che.tdb:BCC_A2
 42: CONST BCC_A2 : U : N VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/S0022-3115(00)00043-X](https://doi.org/10.1016/S0022-3115%2800%2900043-X) P.-Y. Chevalier, E. Fischer, B. Cheynet, J. Nucl. Mater., 280, 136-50(2000).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02646768](https://doi.org/10.1007/bf02646768) H. Okamoto, N-U (Nitrogen-Uranium), JPE 18, 107-107 (1997).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0021-9614(81)90127-0](https://doi.org/10.1016/0021-9614%2881%2990127-0) Gerald K Johnson, E.H.P Cordfunke, The enthalpies of formation of uranium mononitride and α- and β-uranium sesquinitride by fluorine bomb calorimetry, The Journal of Chemical Thermodynamics 13, 273-282 (1981).  
 _cited as the source of values for this phase_
 
 ## FCC_A1 (N–U)
@@ -211,11 +209,11 @@ _assessment that models this phase_
 - Id: `phase:n-u:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1407.88–4000 K, x(N) 0–0.42477
-- Literature: 36 values (36 accepted) from 1 papers
+- Literature: 37 values (37 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-u:liquid)
 
-Names (3): _corpus: _corpus:phase:n-u:liquid  
-_paper: _paper:10.1016/s0022-3115(00)00043-x:L  
+Names (4): _corpus: _corpus:phase:n-u:liquid  
+_paper: _paper:10.1016/s0022-3115(00)00043-x:L, paper:10.1016/s0022-3115(00)00043-x:liquid  
 _tdb: _tdb:UN-00Che.tdb:LIQUID  
 
 

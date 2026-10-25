@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Cd6Pr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -24.7 | kJ/mol-atom | 2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -24.7 | kJ/mol-atom | 2 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 
 ## DFT formation energies
 

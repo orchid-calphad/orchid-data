@@ -1,10 +1,10 @@
 # N–Zr system
 
-> N–Zr system: 37 accepted literature values (formation 26, crystal structure 6, heat capacity / entropy / enthalpy 3, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> N–Zr system: 35 accepted literature values (formation 26, crystal structure 6, heat capacity / entropy / enthalpy 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/N-ZR.html · Markdown: https://data.orchid-project.org/systems/N-ZR.md
 
-37 accepted literature values from 1 paper(s) (experimental 24, model 1, DFT 12); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+35 accepted literature values from 1 paper(s) (experimental 22, model 1, DFT 12); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/N-ZR.json) · [CSV](https://data.orchid-project.org/systems/N-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-ZR) · [phases (6)](https://data.orchid-project.org/phases/pages/N-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/N-ZR.html) · [Markdown](https://data.orchid-project.org/systems/N-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
+| experimental | 22 |
 | model | 1 |
 | DFT | 12 |
 
@@ -20,21 +20,11 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
 | formation | 26 |
 | heat capacity / entropy / enthalpy | 3 |
 | crystal structure | 6 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/N/N-ZR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/N/N-ZR.json) · [CALPHAD hull ZrN-04Ma](https://data.orchid-project.org/hulls/calphad-sgte/N/N-ZR--ZrN-04Ma.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the N–Zr system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 2261 | peritectic: liquid + ZrNy ↔ (␣Zr) |  | experimental | [1] Ma 2004; _cites Domagala 1956_ | p. 2; `ORC-H67XNK4HRH.9d6bc7` | “Using metallographic, X-rays, and incipient melting analysis, Domagala et al. \[12\] studied the nitrogen diffusion in (␤Zr), (␣Zr), and ZrNy phases and determined the temperatures and compositions for the peritectic reactions: Liquid + (␣Zr) ↔ (␤Zr) at 2156 K with compositions of 4.4 ± 0.7 at.% N, 16.8 ± 0.7 at.% N and 5.0 ± 1.1 at.% N, respectively; and liquid + ZrNy ↔ (␣Zr) at 2261 K with compos…” |
-| 2156 | peritectic: Liquid + (␣Zr) ↔ (␤Zr) |  | experimental | [1] Ma 2004; _cites Domagala 1956_ | p. 2; `ORC-H67XNK4HRH.7a4d3c` | “Using metallographic, X-rays, and incipient melting analysis, Domagala et al. \[12\] studied the nitrogen diffusion in (␤Zr), (␣Zr), and ZrNy phases and determined the temperatures and compositions for the peritectic reactions: Liquid + (␣Zr) ↔ (␤Zr) at 2156 K with compositions of 4.4 ± 0.7 at.% N, 16.8 ± 0.7 at.% N and 5.0 ± 1.1 at.% N, respectively; and liquid + ZrNy ↔ (␣Zr) at 2261 K with compos…” |
 
 ## Formation enthalpies
 

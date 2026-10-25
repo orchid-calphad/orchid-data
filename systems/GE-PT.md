@@ -1,10 +1,10 @@
 # Ge–Pt system
 
-> Ge–Pt system: 43 accepted literature values (invariant reaction 21, formation 18, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Pt system: 42 accepted literature values (invariant reaction 21, formation 18, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-PT.html · Markdown: https://data.orchid-project.org/systems/GE-PT.md
 
-43 accepted literature values from 1 paper(s) (experimental 23, model 14, DFT 6); 1 calculated phase diagram(s).
+42 accepted literature values from 1 paper(s) (experimental 22, model 14, DFT 6); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-PT.json) · [CSV](https://data.orchid-project.org/systems/GE-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-PT/GePt-09Wan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GE-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-PT.html) · [Markdown](https://data.orchid-project.org/systems/GE-PT.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 23 |
+| experimental | 22 |
 | model | 14 |
 | DFT | 6 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 21 |
-| phase transition | 4 |
+| phase transition | 3 |
 | formation | 18 |
 
 ## Calculated phase diagrams
@@ -113,13 +113,12 @@ Table: Enthalpies of formation, Ge–Pt system (18)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (3)
 
 Table: Phase transition, Ge–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 948 K | 948 | polymorphic | experimental | [1] Wang 2009; _cites K 1966_ | p. 1; `ORC-SUNTUYAZSP` | “It was reported that six intermetallic compounds, Ge2 Pt, Ge3 Pt2 , GePt, Ge2 Pt3 , GePt2 and GePt3 , exist in this system, among which Ge2 Pt3 carries a polymorphic transformation at 948 K \[13\].” |
 | Phase transition | 1340 K | 1340 | congruent melting: L -> GePt; _L: Pt 0.5; GePt: Pt 0.5_ | model | [1] Wang 2009 | Table 3, p. 6, row 12; `ORC-HRGBA4BUDA` |  |
 | Phase transition | 1343 K | 1343 | congruent melting: L -> GePt; _L: Pt 0.5; GePt: Pt 0.5_ | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 11; `ORC-5JNVS5UI64` |  |
 | Phase transition | 1348 K | 1348 | congruent melting: L -> GePt; _L: Pt 0.5; GePt: Pt 0.5_ | experimental | [1] Wang 2009; _cites Diaz 2005_ [doi](https://doi.org/10.1016/j.molcata.2004.09.050) | Table 3, p. 6, row 10; `ORC-D3NRC36LLG` |  |

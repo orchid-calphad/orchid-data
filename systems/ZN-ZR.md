@@ -94,10 +94,10 @@ Table: Invariant reactions reported in the literature for the Zn–Zr system (40
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1461.15 | L -> Zn2Zr | L: Zr 0.333; Zn2Zr: Zr 0.333 | model | [1] Arroyave 2006 | Table 4, p. 7, row 4; `ORC-N72XUKIHP4` |  |
-| 1457.15 | L -> Zn2Zr | L: Zr 0.333; Zn2Zr: Zr 0.333 | model | [1] Arroyave 2006 | Table 4, p. 7, row 2; `ORC-LN52QYGWE5` |  |
-| 1455.15 | L -> Zn2Zr | L: Zr 0.333; Zn2Zr: Zr 0.333 | model | [1] Arroyave 2006 | Table 4, p. 7, row 3; `ORC-KLVFXXNNZ7` |  |
-| 1453.15 | L -> Zn2Zr | L: Zr 0.333; Zn2Zr: Zr 0.333 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 1; `ORC-NF4VBMUZXG` |  |
+| 1461.15 | congruent melting: L -> Zn2Zr | L: Zr 0.333; Zn2Zr: Zr 0.333 | model | [1] Arroyave 2006 | Table 4, p. 7, row 4; `ORC-N72XUKIHP4` |  |
+| 1457.15 | congruent melting: L -> Zn2Zr | L: Zr 0.333; Zn2Zr: Zr 0.333 | model | [1] Arroyave 2006 | Table 4, p. 7, row 2; `ORC-LN52QYGWE5` |  |
+| 1455.15 | congruent melting: L -> Zn2Zr | L: Zr 0.333; Zn2Zr: Zr 0.333 | model | [1] Arroyave 2006 | Table 4, p. 7, row 3; `ORC-KLVFXXNNZ7` |  |
+| 1453.15 | congruent melting: L -> Zn2Zr | L: Zr 0.333; Zn2Zr: Zr 0.333 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 1; `ORC-NF4VBMUZXG` |  |
 | 1383.15 | L + Zn2Zr -> ZnZr | L: Zr 0.518; Zn2Zr: Zr 0.333; ZnZr: Zr 0.5 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 9; `ORC-V6LN5UVZEK` |  |
 | 1379.15 | L + Zn2Zr -> ZnZr | L: Zr 0.501; Zn2Zr: Zr 0.333; ZnZr: Zr 0.5 | model | [1] Arroyave 2006 | Table 4, p. 7, row 11; `ORC-5FNJ7AQ3QU` |  |
 | 1374.15 | L + Zn2Zr -> Zn3Zr h | L: Zr 0.186; Zn2Zr: Zr 0.333; Zn3Zr h: Zr 0.25 | model | [1] Arroyave 2006 | Table 4, p. 7, row 15; `ORC-HVUHA222BT` |  |
@@ -106,13 +106,13 @@ Table: Invariant reactions reported in the literature for the Zn–Zr system (40
 | 1373.15 | L + Zn2Zr -> Zn3Zr h | L: Zr 0.186; Zn2Zr: Zr 0.333; Zn3Zr h: Zr 0.25 | model | [1] Arroyave 2006 | Table 4, p. 7, row 16; `ORC-SXGWGT2B5M` |  |
 | 1369.15 | L + Zn2Zr -> ZnZr | L: Zr 0.485; Zn2Zr: Zr 0.333; ZnZr: Zr 0.5 | model | [1] Arroyave 2006 | Table 4, p. 7, row 10; `ORC-VEH3Y4N44V` |  |
 | 1368.15 | L + Zn2Zr -> ZnZr | L: Zr 0.497; Zn2Zr: Zr 0.333; ZnZr: Zr 0.5 | model | [1] Arroyave 2006 | Table 4, p. 7, row 12; `ORC-6J7DUXPKI4` |  |
-| 1305.15 | L -> ZnZr + bcc | L: Zr 0.624; ZnZr: Zr 0.5; bcc: Zr 0.731 | model | [1] Arroyave 2006 | Table 4, p. 7, row 8; `ORC-OTY62CNC5B` |  |
-| 1295.15 | L -> ZnZr + bcc | L: Zr 0.627; ZnZr: Zr 0.5; bcc: Zr 0.715 | model | [1] Arroyave 2006 | Table 4, p. 7, row 6; `ORC-NKEPZVOROQ` |  |
-| 1290.15 | L -> ZnZr + bcc | L: Zr 0.625; ZnZr: Zr 0.5; bcc: Zr 0.719 | model | [1] Arroyave 2006 | Table 4, p. 7, row 7; `ORC-7DEUSXAO2K` |  |
-| 1288.15 | L -> ZnZr + bcc | L: Zr 0.615; ZnZr: Zr 0.5; bcc: Zr 0.73 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 5; `ORC-RXXB2BUERT` |  |
-| 1183.15 | Zn3Zr h -> Zn3Zr l | Zn3Zr h: Zr 0.25; Zn3Zr l: Zr 0.25 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 17; `ORC-364JAIFHNA` |  |
-| 1183.15 | Zn3Zr h -> Zn3Zr l | Zn3Zr h: Zr 0.25; Zn3Zr l: Zr 0.25 | model | [1] Arroyave 2006 | Table 4, p. 7, row 18; `ORC-GZTPDKYEIK` |  |
-| 1181.15 | Zn3Zr h -> Zn3Zr l | Zn3Zr h: Zr 0.25; Zn3Zr l: Zr 0.25 | model | [1] Arroyave 2006 | Table 4, p. 7, row 20; `ORC-RTKQUTUV2C` |  |
+| 1305.15 | eutectic: L -> ZnZr + bcc | L: Zr 0.624; ZnZr: Zr 0.5; bcc: Zr 0.731 | model | [1] Arroyave 2006 | Table 4, p. 7, row 8; `ORC-OTY62CNC5B` |  |
+| 1295.15 | eutectic: L -> ZnZr + bcc | L: Zr 0.627; ZnZr: Zr 0.5; bcc: Zr 0.715 | model | [1] Arroyave 2006 | Table 4, p. 7, row 6; `ORC-NKEPZVOROQ` |  |
+| 1290.15 | eutectic: L -> ZnZr + bcc | L: Zr 0.625; ZnZr: Zr 0.5; bcc: Zr 0.719 | model | [1] Arroyave 2006 | Table 4, p. 7, row 7; `ORC-7DEUSXAO2K` |  |
+| 1288.15 | eutectic: L -> ZnZr + bcc | L: Zr 0.615; ZnZr: Zr 0.5; bcc: Zr 0.73 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 5; `ORC-RXXB2BUERT` |  |
+| 1183.15 | polymorphic: Zn3Zr h -> Zn3Zr l | Zn3Zr h: Zr 0.25; Zn3Zr l: Zr 0.25 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 17; `ORC-364JAIFHNA` |  |
+| 1183.15 | polymorphic: Zn3Zr h -> Zn3Zr l | Zn3Zr h: Zr 0.25; Zn3Zr l: Zr 0.25 | model | [1] Arroyave 2006 | Table 4, p. 7, row 18; `ORC-GZTPDKYEIK` |  |
+| 1181.15 | polymorphic: Zn3Zr h -> Zn3Zr l | Zn3Zr h: Zr 0.25; Zn3Zr l: Zr 0.25 | model | [1] Arroyave 2006 | Table 4, p. 7, row 20; `ORC-RTKQUTUV2C` |  |
 | 1027.15 | bcc + ZnZr -> ZnZr2 | bcc: Zr 0.855; ZnZr: Zr 0.5; ZnZr2: Zr 0.667 | model | [1] Arroyave 2006 | Table 4, p. 7, row 26; `ORC-PGUHL6B4MO` |  |
 | 1025.15 | bcc + ZnZr -> ZnZr2 | bcc: Zr 0.86; ZnZr: Zr 0.5; ZnZr2: Zr 0.667 | model | [1] Arroyave 2006 | Table 4, p. 7, row 28; `ORC-WDPZ73IUKD` |  |
 | 1023.15 | L + Zn3Zr l -> Zn39Zr5 | L: Zr 0.044; Zn3Zr l: Zr 0.25; Zn39Zr5: Zr 0.114 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 21; `ORC-FGRV5ALVWS` |  |
@@ -132,8 +132,8 @@ Table: Invariant reactions reported in the literature for the Zn–Zr system (40
 | 817.15 | L + Zn39Zr5 -> Zn22Zr | L: Zr 0.001; Zn39Zr5: Zr 0.114; Zn22Zr: Zr 0.0435 | model | [1] Arroyave 2006 | Table 4, p. 7, row 38; `ORC-C4QCMZGSGJ` |  |
 | 816.15 | L + Zn39Zr5 -> Zn22Zr | L: Zr 0.002; Zn39Zr5: Zr 0.114; Zn22Zr: Zr 0.0435 | model | [1] Arroyave 2006 | Table 4, p. 7, row 40; `ORC-CC4T2YGXAC` |  |
 | 813.15 | L + Zn39Zr5 -> Zn22Zr | L: Zr 0.001; Zn39Zr5: Zr 0.114; Zn22Zr: Zr 0.0435 | model | [1] Arroyave 2006 | Table 4, p. 7, row 39; `ORC-VY7FBPZP6Y` |  |
-| 693.15 | L -> hcp + Zn22Zr | L: Zr 0; hcp: Zr 0; Zn22Zr: Zr 0.0435 | model | [1] Arroyave 2006 | Table 4, p. 7, row 44; `ORC-DTYDBTAZIR` |  |
-| 692.15 | L -> hcp + Zn22Zr | L: Zr 1.000e-4; hcp: Zr 1.000e-4; Zn22Zr: Zr 0.0435 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 41; `ORC-ZIJMPXV7UJ` |  |
+| 693.15 | eutectic: L -> hcp + Zn22Zr | L: Zr 0; hcp: Zr 0; Zn22Zr: Zr 0.0435 | model | [1] Arroyave 2006 | Table 4, p. 7, row 44; `ORC-DTYDBTAZIR` |  |
+| 692.15 | eutectic: L -> hcp + Zn22Zr | L: Zr 1.000e-4; hcp: Zr 1.000e-4; Zn22Zr: Zr 0.0435 | experimental | [1] Arroyave 2006; _cites Lustman 1955_ | Table 4, p. 7, row 41; `ORC-ZIJMPXV7UJ` |  |
 
 ## Formation enthalpies
 

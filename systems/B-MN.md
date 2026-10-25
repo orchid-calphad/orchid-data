@@ -1,10 +1,10 @@
 # B–Mn system
 
-> B–Mn system: 67 accepted literature values (invariant reaction 42, crystal structure 22, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Mn system: 61 accepted literature values (invariant reaction 39, crystal structure 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-MN.html · Markdown: https://data.orchid-project.org/systems/B-MN.md
 
-67 accepted literature values from 1 paper(s) (experimental 11, model 56); 0 calculated phase diagram(s).
+61 accepted literature values from 1 paper(s) (experimental 7, model 54); 0 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-MN.json) · [CSV](https://data.orchid-project.org/systems/B-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-MN) · [phases (13)](https://data.orchid-project.org/phases/pages/B-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-MN.html) · [Markdown](https://data.orchid-project.org/systems/B-MN.md)
 
@@ -12,33 +12,32 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 56 |
+| experimental | 7 |
+| model | 54 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 42 |
-| phase transition | 3 |
+| invariant reaction | 39 |
 | crystal structure | 22 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-MN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-MN.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Mn system (42)
+Table: Invariant reactions reported in the literature for the B–Mn system (39)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2263.15 | L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 25; `ORC-OWAETBNUH6` |  |
-| 2163.15 | L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 15; `ORC-4PLYELZ2SG` |  |
-| 2163.15 | L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 16; `ORC-QFP33DT7S3` |  |
-| 2163.15 | L ↔ MnB | MnB: B 0.5 | experimental | [1] Sun 2010; _cites Markovskii 1967_ | Table 4, p. 5, row 14; `ORC-ZVKC7GLAOY` |  |
-| 2161.15 | L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010 | Table 4, p. 5, row 13; `ORC-P67AZGMU67` |  |
-| 2107.15 | L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010 | Table 4, p. 5, row 23; `ORC-MRMI7FWINO` |  |
+| 2263.15 | congruent melting: L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 25; `ORC-OWAETBNUH6` |  |
+| 2163.15 | congruent melting: L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 15; `ORC-4PLYELZ2SG` |  |
+| 2163.15 | congruent melting: L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 16; `ORC-QFP33DT7S3` |  |
+| 2163.15 | congruent melting: L ↔ MnB | MnB: B 0.5 | experimental | [1] Sun 2010; _cites Markovskii 1967_ | Table 4, p. 5, row 14; `ORC-ZVKC7GLAOY` |  |
+| 2161.15 | congruent melting: L ↔ MnB | MnB: B 0.5 | model | [1] Sun 2010 | Table 4, p. 5, row 13; `ORC-P67AZGMU67` |  |
+| 2107.15 | congruent melting: L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010 | Table 4, p. 5, row 23; `ORC-MRMI7FWINO` |  |
 | 2100.15 | L + MnB ↔ Mn3B4 | L: B 0.573; MnB: B 0.5; Mn3B4: B 0.571 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 18; `ORC-D45UZXWHWD` |  |
-| 2100.15 | L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 24; `ORC-DXIHZFZCLJ` |  |
+| 2100.15 | congruent melting: L ↔ MnB2 | MnB2: B 0.667 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 24; `ORC-DXIHZFZCLJ` |  |
 | 2079.15 | L + MnB ↔ Mn3B4 | L: B 0.573; MnB: B 0.5; Mn3B4: B 0.571 | model | [1] Sun 2010 | Table 4, p. 5, row 17; `ORC-UBXYURORVK` |  |
 | 2073.15 | L ↔ MnB2 + βB | L: B 0.8; MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 28; `ORC-YTTWXA7NU2` |  |
 | 2061.15 | L ↔ Mn3B4 + MnB2 | L: B 0.611; Mn3B4: B 0.571; MnB2: B 0.667 | model | [1] Sun 2010 | Table 4, p. 5, row 20; `ORC-YNALYFTQXG` |  |
@@ -47,10 +46,10 @@ Table: Invariant reactions reported in the literature for the B–Mn system (42)
 | 2003.15 | L ↔ MnB2 + βB | L: B 0.8; MnB2: B 0.667; βB: B 1 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 27; `ORC-BPJYALXNPD` |  |
 | 1977.15 | L ↔ MnB2 + βB | L: B 0.77; MnB2: B 0.667; βB: B 0.959 | model | [1] Sun 2010 | Table 4, p. 5, row 26; `ORC-3DRMAGBQJX` |  |
 | 1903.15 | L ↔ Mn3B4 + MnB2 | Mn3B4: B 0.571; MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 22; `ORC-XA5IZ5ZA52` |  |
-| 1853.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 8; `ORC-6UMTM3FFAA` |  |
-| 1853.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | experimental | [1] Sun 2010; _cites Markovskii 1967_ | Table 4, p. 5, row 6; `ORC-JHYRL4BAEC` |  |
-| 1853.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 7; `ORC-R7E5BDIE3V` |  |
-| 1819.15 | L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010 | Table 4, p. 5, row 5; `ORC-LJDY7JWBO7` |  |
+| 1853.15 | congruent melting: L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 8; `ORC-6UMTM3FFAA` |  |
+| 1853.15 | congruent melting: L ↔ t-Mn2B | t-Mn2B: B 0.333 | experimental | [1] Sun 2010; _cites Markovskii 1967_ | Table 4, p. 5, row 6; `ORC-JHYRL4BAEC` |  |
+| 1853.15 | congruent melting: L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 7; `ORC-R7E5BDIE3V` |  |
+| 1819.15 | congruent melting: L ↔ t-Mn2B | t-Mn2B: B 0.333 | model | [1] Sun 2010 | Table 4, p. 5, row 5; `ORC-LJDY7JWBO7` |  |
 | 1818.15 | L ↔ t-Mn2B + MnB | L: B 0.343; t-Mn2B: B 0.333; MnB: B 0.5 | model | [1] Sun 2010 | Table 4, p. 5, row 9; `ORC-7BCMZEDNUZ` |  |
 | 1783.15 | L ↔ t-Mn2B + MnB | L: B 0.39; t-Mn2B: B 0.333; MnB: B 0.5 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 11; `ORC-2XSU5OM6DQ` |  |
 | 1783.15 | L ↔ t-Mn2B + MnB | L: B 0.37; t-Mn2B: B 0.333; MnB: B 0.5 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 12; `ORC-H2OKIKGT6T` |  |
@@ -59,13 +58,10 @@ Table: Invariant reactions reported in the literature for the B–Mn system (42)
 | 1648.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 39; `ORC-N37CE3EB6Q` |  |
 | 1648.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667; βB: B 0.965 | model | [1] Sun 2010 | Table 4, p. 5, row 36; `ORC-Q3JXJZPCRG` |  |
 | 1623.15 | MnB4 ↔ MnB2 + βB | MnB4: B 0.8; MnB2: B 0.667 | experimental | [1] Sun 2010; _cites Andersson 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1791) | Table 4, p. 5, row 37; `ORC-MAOBUPE3VK` |  |
-| 1484.15 | eutectic: L M dMn + t-Mn2B |  | experimental | [1] Sun 2010; _cites Pradelli 1974_ | p. 2; `ORC-5LGU35MZ2E.0659f5` | “By means of chemical analysis, XRD, differential thermal analysis (DTA), and microscopy, Pradelli and Gianoglio\[19\] reinvestigated this part of the phase diagram and proposed an eutectic reaction (L M dMn + t-Mn2B at 1211 C) and a peritectoid reaction (Mn4B M cMn + t-Mn2B at 1124 C).” |
 | 1484.15 | L ↔ δMn + t-Mn2B | L: B 0.143; t-Mn2B: B 0.333 | experimental | [1] Sun 2010; _cites Pradelli 1974_ | Table 4, p. 5, row 2; `ORC-IEHJ7OA4UT` |  |
 | 1484.15 | L ↔ δMn + t-Mn2B | L: B 0.143; t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | Table 4, p. 5, row 4; `ORC-U5BME2MCVT` |  |
-| 1484.15 | eutectic: L M dMn + t-Mn2B |  | model | [1] Sun 2010 | p. 6; `ORC-UYLNILP43S` | “Since we keep the temperature for L M dMn + t-Mn2B around 1211 C and make the dMn\\L liquidus monotonic as B content increases, the calculated eutectic composition at 8.9 at.% B instead of 14.3 at.% B can be accepted.” |
 | 1480.15 | L ↔ δMn + t-Mn2B | L: B 0.15; δMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 3; `ORC-JM2ZI5SQN4` |  |
 | 1477.15 | L ↔ δMn + t-Mn2B | L: B 0.089; δMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010 | Table 4, p. 5, row 1; `ORC-LNHXMRMQ3S` |  |
-| 1397.15 | peritectoid: Mn4B M cMn + t-Mn2B |  | experimental | [1] Sun 2010; _cites Pradelli 1974_ | p. 2; `ORC-5LGU35MZ2E.a045d8` | “By means of chemical analysis, XRD, differential thermal analysis (DTA), and microscopy, Pradelli and Gianoglio\[19\] reinvestigated this part of the phase diagram and proposed an eutectic reaction (L M dMn + t-Mn2B at 1211 C) and a peritectoid reaction (Mn4B M cMn + t-Mn2B at 1124 C).” |
 | 1397.15 | o-Mn2B0.982 ↔ γMn + t-Mn2B | o-Mn2B0.982: B 0.329; γMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010 | Table 4, p. 5, row 29; `ORC-63TETUVSMP` |  |
 | 1397.15 | o-Mn2B0.982 ↔ γMn + t-Mn2B | t-Mn2B: B 0.333 | experimental | [1] Sun 2010; _cites Pradelli 1974_ | Table 4, p. 5, row 30; `ORC-TV6OO3TCKQ` |  |
 | 1393.15 | o-Mn2B0.982 ↔ γMn + t-Mn2B | o-Mn2B0.982: B 0.25; γMn: B 0; t-Mn2B: B 0.333 | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 4, p. 5, row 31; `ORC-UEJUZ53SC2` |  |
@@ -75,16 +71,6 @@ Table: Invariant reactions reported in the literature for the B–Mn system (42)
 | 1323.15 | MnB2 ↔ Mn3B4 + MnB4 | MnB2: B 0.667; Mn3B4: B 0.571; MnB4: B 0.8 | experimental | [1] Sun 2010; _cites Andersson 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1791) | Table 4, p. 5, row 33; `ORC-BGKM2OL5ES` |  |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, B–Mn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1323.15 K | 1323.15 |  | model | [1] Sun 2010; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02652172) | p. 3; `ORC-3HAAPTSVIO` | “For the MnB compound, Okamoto\[4\] reported that it has two structures. aMnB is stable at low temperature and transforms to bMnB at 1050 C.” |
-| Phase transition | 1453.15 K | 1453.15 | L M Mn4B + a(Mn) | experimental | [1] Sun 2010; _cites Markovskii 1967_ | p. 2; `ORC-WY63WSV5K3.9c154b` | “In the composition range from pure Mn to t-Mn2B, Markovskii and Bezruk\[11\] reported two reactions: L M Mn4B + a(Mn) at 1180 C and L + t-Mn2B M Mn4B at 1285 C.” |
-| Phase transition | 1558.15 K | 1558.15 | L + t-Mn2B M Mn4B | experimental | [1] Sun 2010; _cites Markovskii 1967_ | p. 2; `ORC-WY63WSV5K3.243979` | “In the composition range from pure Mn to t-Mn2B, Markovskii and Bezruk\[11\] reported two reactions: L M Mn4B + a(Mn) at 1180 C and L + t-Mn2B M Mn4B at 1285 C.” |
 
 ### Crystal structure (22)
 

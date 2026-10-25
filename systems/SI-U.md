@@ -1,10 +1,10 @@
 # Si–U system
 
-> Si–U system: 46 accepted literature values (formation 24, phase transition 14, phase equilibrium 5, invariant reaction 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–U system: 41 accepted literature values (formation 24, phase transition 12, phase equilibrium 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-U.html · Markdown: https://data.orchid-project.org/systems/SI-U.md
 
-46 accepted literature values from 1 paper(s) (experimental 29, model 17); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+41 accepted literature values from 1 paper(s) (experimental 24, model 17); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-U.json) · [CSV](https://data.orchid-project.org/systems/SI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-U/SiU-04Che-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/SI-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-U.html) · [Markdown](https://data.orchid-project.org/systems/SI-U.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
+| experimental | 24 |
 | model | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
-| phase transition | 14 |
+| phase transition | 12 |
 | phase equilibrium | 5 |
 | formation | 24 |
 
@@ -103,16 +102,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/SI/SI-U.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SI/SI-U.json) · [CALPHAD hull SiU-04Che-LB](https://data.orchid-project.org/hulls/calphad-sgte/SI/SI-U--SiU-04Che-LB.json) · [CALPHAD hull SiU-98AEA](https://data.orchid-project.org/hulls/calphad-sgte/SI/SI-U--SiU-98AEA.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Si–U system (3)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1813 | eutectic: liquid = USi + U3Si2 |  | experimental | [1] Berche 2009; _cites Vaugoyeau 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990153-x) | p. 3; `ORC-BAM3Z6PBXB` | “According to Vaugoyeau et al. \[6\], the composition of the liquid during the eutectic transition 'liquid = USi + U3Si2' (on cooling) is of 46 at.% Si at 1813 K.” |
-| 1267 | eutectic |  | experimental | [1] Berche 2009 | p. 3; `ORC-RKYYPJEDSG` | “The eutectic temperature of transition 'liquid = U3Si2 + bcc-U' was measured at 1267 ± 3 K in this alloy.” |
-| 1261 | eutectic |  | experimental | [1] Berche 2009 | p. 3; `ORC-CTWPXSURR2` | “The temperature of the eutectic transition 'liquid = U3Si2 + bcc-U' was measured at 1261 ± 3 K.” |
-
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
@@ -148,7 +137,7 @@ Table: Enthalpies of formation, Si–U system (24)
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (12)
 
 Table: Phase transition, Si–U system
 
@@ -160,14 +149,12 @@ Table: Phase transition, Si–U system
 | Phase transition | 1258 K | 1258 | eutectic: 9 at.% Si; _alloy: Si 0.0869, U 0.9131_ | experimental | [1] Berche 2009; _cites Katz 1951_ | Table 1, p. 2, row 9; `ORC-BB5GWOSFYW` |  |
 | Phase transition | 1261 K | 1261 | eutectic: 9 at.% Si; _alloy: Si 0.0869, U 0.9131_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 10; `ORC-JKQ2ANSPRO` |  |
 | Phase transition | 1267 K | 1267 | eutectic: 4 at.% Si; _alloy: Si 0.0397, U 0.9603_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 4; `ORC-2QAVKHIVDY` |  |
-| Phase transition | 1340 K | 1340 | other | experimental | [1] Berche 2009 | p. 3; `ORC-LTOQV5RXEV` | “The liquidus transition was measured at 1340 ± 5 K.” |
 | Phase transition | 1405 K | 1405 | congruent transformation: 0 at.% Si; _alloy: U 0_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 2; `ORC-ZTVRVXW27U` |  |
 | Phase transition | 1408 K | 1408 | congruent transformation: 0 at.% Si; _alloy: U 0_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 1; `ORC-62PX3GHE6X` |  |
 | Phase transition | 1783 K | 1783 | peritectic: 75 at.% Si; _alloy: Si 0.7468, U 0.2532_ | experimental | [1] Berche 2009; _cites Katz 1951_ | Table 1, p. 2, row 17; `ORC-3DIECBBUKQ` |  |
 | Phase transition | 1813 K | 1813 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009; _cites Vaugoyeau 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990153-x) | Table 1, p. 2, row 12; `ORC-LFR5HGFJKR` |  |
 | Phase transition | 1820 K | 1820 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | experimental | [1] Berche 2009 | Table 1, p. 2, row 13; `ORC-YXSHYFV7KT` |  |
 | Phase transition | 1840 K | 1840 | eutectic: 46 at.% Si; _alloy: Si 0.4632, U 0.5368_ | model | [1] Berche 2009 | Table 1, p. 2, row 14; `ORC-6KUQ6GARJG` |  |
-| Phase transition | 1867 K | 1867 | other | experimental | [1] Berche 2009 | p. 4; `ORC-VO26ZDQGOG` | “Although, DTA analysis performed on heating at different rates revealed the presence of a liquidus transition at 1867 ± 15 K (Fig. 5).” |
 
 ### Phase equilibrium (5)
 

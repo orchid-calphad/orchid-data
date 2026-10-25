@@ -1,10 +1,10 @@
 # Pd–Sb system
 
-> Pd–Sb system: 29 accepted literature values (invariant reaction 22, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Sb system: 28 accepted literature values (invariant reaction 22, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-SB.html · Markdown: https://data.orchid-project.org/systems/PD-SB.md
 
-29 accepted literature values from 1 paper(s) (experimental 15, model 14); 1 calculated phase diagram(s).
+28 accepted literature values from 1 paper(s) (experimental 14, model 14); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-SB.json) · [CSV](https://data.orchid-project.org/systems/PD-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-SB/PdSb-10Han.json) · [phases (13)](https://data.orchid-project.org/phases/pages/PD-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-SB.html) · [Markdown](https://data.orchid-project.org/systems/PD-SB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 14 |
 | model | 14 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 22 |
-| phase transition | 7 |
+| phase transition | 6 |
 
 ## Calculated phase diagrams
 
@@ -93,7 +93,7 @@ Table: Invariant reactions reported in the literature for the Pd–Sb system (22
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (6)
 
 Table: Phase transition, Pd–Sb system
 
@@ -103,7 +103,6 @@ Table: Phase transition, Pd–Sb system
 | Phase transition | 952 K | 952 | congruent melting: L→ PdSb2; _L: Sb 0.667; PdSb2: Sb 0.667_ | model | [1] Han 2010 | Table 1, p. 2, row 26; `ORC-RX53PC6JFA` |  |
 | Phase transition | 1067 K | 1067 | congruent melting: L→ PdSb; _L: Sb 0.5; PdSb: Sb 0.5_ | model | [1] Han 2010 | Table 1, p. 2, row 22; `ORC-XU5BFNVF2B` |  |
 | Phase transition | 1067 K | 1067 | congruent melting: L→ PdSb; _L: Sb 0.5; PdSb: Sb 0.5_ | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 21; `ORC-YLSISRGLJQ` |  |
-| Phase transition | 1320 K | 1320 | other | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | p. 1; `ORC-AOFSG3UKP6` | “The maximum solid solubility of antimony was reported to be xSb = 0.167 at 1320 K.” |
 | Phase transition | 1479 K | 1479 | congruent melting: L→ Pd3Sb; _L: Sb 0.264; Pd3Sb: Sb 0.264_ | experimental | [1] Han 2010; _cites Durussel 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990023-o) | Table 1, p. 2, row 3; `ORC-CGERYE6DFJ` |  |
 | Phase transition | 1480 K | 1480 | congruent melting: L→ Pd3Sb; _L: Sb 0.25; Pd3Sb: Sb 0.25_ | model | [1] Han 2010 | Table 1, p. 2, row 4; `ORC-XPGSBBH6DY` |  |
 

@@ -1,16 +1,16 @@
 # TiB2: enthalpy of formation
 
-> Enthalpy of formation of TiB2: 18 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of TiB2: 20 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/TiB2.html · Markdown: https://data.orchid-project.org/compounds/TiB2.md
 
-18 accepted literature formation-enthalpy value(s) (experimental 8, model 1, DFT 9).
+20 accepted literature formation-enthalpy value(s) (experimental 8, model 1, DFT 11).
 
 Systems: [B–Ti](https://data.orchid-project.org/systems/B-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of TiB2 reported in the literature (18)
+Table: Enthalpy of formation of TiB2 reported in the literature (20)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -32,6 +32,8 @@ Table: Enthalpy of formation of TiB2 reported in the literature (18)
 | -46.4 kJ/mol (basis unstated) | TiB2 | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 3, p. 6, row 14; `ORC-JLUPVVRQUU.ecc2a4` |  |
 | -32.1 kJ/mol (basis unstated) | TiB2 | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 3, p. 6, row 6; `ORC-YGN43ZTDKN.e65f5a` |  |
 | -21.7 kJ/mol (basis unstated) | TiB2 | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 3, p. 6, row 15; `ORC-OAP5KRTSD6.2f3b9b` |  |
+| 35 kJ/mol (basis unstated) | TiB2 | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 3, p. 6, row 5; `ORC-56Q6CELU3R.5c5328` |  |
+| 68.1 kJ/mol (basis unstated) | TiB2 | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 3, p. 6, row 16; `ORC-MSD3PBGDPM.ac36b6` |  |
 
 ### Uncertainty budget
 
@@ -45,20 +47,22 @@ Table: Uncertainty budget of the literature values of TiB2
 | -319.788 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (equilibration_other, calibrated) |  |  |  | 10.5 |
 | -314.754 | kJ/mol (basis unstated) | 17.56 | 5.000e-4 | 9 (kems_vapour_second_law, prior) |  |  |  | 17.56 |
 | -305.34 | kJ/mol (basis unstated) | 6.72 | 5.000e-4 | 6 (kems_vapour_third_law, prior) |  |  |  | 6.72 |
-| -300.96 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.8 (kems_vapour, cleaned_below_threshold) |  |  |  | 16.8 |
+| -300.96 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.6 (kems_vapour, calibrated) |  |  |  | 12.6 |
 | -298.2 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (equilibration_other, calibrated) |  |  |  | 10.5 |
 | -292.6 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (equilibration_other, calibrated) |  |  |  | 10.5 |
-| -217.32 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.8 (kems_vapour, cleaned_below_threshold) |  |  |  | 16.8 |
+| -217.32 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.6 (kems_vapour, calibrated) |  |  |  | 12.6 |
 | -109.7 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -105.2 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -83.1 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -78.9 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -68.2 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -56.6 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -46.4 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -32.1 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -21.7 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
+| -105.2 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -83.1 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -78.9 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -68.2 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -56.6 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -46.4 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -32.1 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -21.7 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| 35 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| 68.1 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
 
 ## Sources
 

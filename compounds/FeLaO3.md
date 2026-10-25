@@ -26,8 +26,8 @@ Table: Uncertainty budget of the literature values of FeLaO3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -274.696 | kJ/mol-atom | 0.522 | 0.001 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -266.94 | kJ/mol-atom |  | 0.01 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -274.696 | kJ/mol-atom | 0.522 | 0.001 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -266.94 | kJ/mol-atom |  | 0.01 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -273.64 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources

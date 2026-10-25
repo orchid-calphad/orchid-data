@@ -70,7 +70,7 @@
     "x0": 0.86,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> ReZr2 + bcc",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

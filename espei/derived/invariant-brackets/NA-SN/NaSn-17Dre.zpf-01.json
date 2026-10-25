@@ -219,7 +219,7 @@
     "x0": 0.383,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Na9Sn4 + Na4Sn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -238,7 +238,7 @@
     "x0": 0.383,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Na9Sn4 + Na4Sn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

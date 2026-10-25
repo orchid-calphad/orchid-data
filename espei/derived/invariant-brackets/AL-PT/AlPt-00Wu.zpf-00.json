@@ -531,7 +531,7 @@
     "x0": 0.795,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> AlPt3 + (Pt)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -550,7 +550,7 @@
     "x0": 0.795,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> AlPt3 + (Pt)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -569,7 +569,7 @@
     "x0": 0.44700000000000006,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Al3Pt2 + AlPt",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -588,7 +588,7 @@
     "x0": 0.44700000000000006,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Al3Pt2 + AlPt",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -759,7 +759,7 @@
     "x0": 0.004,
     "hyperplane_delta": 0.002,
     "reaction_printed": "L -> (Al) + Al21Pt5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -778,7 +778,7 @@
     "x0": 0.004,
     "hyperplane_delta": 0.002,
     "reaction_printed": "L -> (Al) + Al21Pt5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

@@ -60,10 +60,10 @@ Table: Invariant reactions reported in the literature for the Ag–Co system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1762 | L2 -> L1 + fcc (Co) | L2: Co 0.9964; L1: Co 0.0388 | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 1; `ORC-L27FMMU3HQ` |  |
-| 1762 | L1 -> L2 + FCC(Co) | L1: Co 0.0388; L2: Co 0.9964 | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 1; `ORC-MW2XGSLPMD` |  |
-| 1760 | L2 -> L1 + fcc (Co) | L2: Co 0.995; L1: Co 0.0139; fcc (Co): Co 1 | model | [1] Deng 2021 | Table 3, p. 9, row 2; `ORC-F43LO6EDXE` |  |
-| 1759 | L1 -> L2 + FCC(Co) | L1: Co 0.041; L2: Co 0.9936; FCC(Co): Co 0.9995 | model | [2] Zhu 2009 | Table 4, p. 3, row 2; `ORC-55DWRIJOXS` |  |
+| 1762 | monotectic: L2 -> L1 + fcc (Co) | L2: Co 0.9964; L1: Co 0.0388 | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 1; `ORC-L27FMMU3HQ` |  |
+| 1762 | monotectic: L1 -> L2 + FCC(Co) | L1: Co 0.0388; L2: Co 0.9964 | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 1; `ORC-MW2XGSLPMD` |  |
+| 1760 | monotectic: L2 -> L1 + fcc (Co) | L2: Co 0.995; L1: Co 0.0139; fcc (Co): Co 1 | model | [1] Deng 2021 | Table 3, p. 9, row 2; `ORC-F43LO6EDXE` |  |
+| 1759 | monotectic: L1 -> L2 + FCC(Co) | L1: Co 0.041; L2: Co 0.9936; FCC(Co): Co 0.9995 | model | [2] Zhu 2009 | Table 4, p. 3, row 2; `ORC-55DWRIJOXS` |  |
 | 1241 | L + fcc (Co) -> fcc (Ag) | L: Co 3.000e-4; fcc (Co): Co 1; fcc (Ag): Co 0.0057 | model | [1] Deng 2021 | Table 3, p. 9, row 4; `ORC-3E3OC47YU5` |  |
 | 1240 | L + fcc (Co) -> fcc (Ag) | L: Co 0.0049; fcc (Ag): Co 0.0081 | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 3; `ORC-26PV7B4WGF` |  |
 | 1240 | L + FCC(Co) -> FCC(Ag) | L: Co 0.0049; FCC(Ag): Co 0.0081 | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 3; `ORC-NYLHELEDBH` |  |

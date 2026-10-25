@@ -163,7 +163,7 @@
     "x0": 0.333333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "β-Cd2Gd -> α-Cd2Gd",
-    "reaction_type": null,
+    "reaction_type": "polymorphic",
     "phases_above": [
      "CD2GD_HT"
     ],
@@ -181,7 +181,7 @@
     "x0": 0.333333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "β-Cd2Gd -> α-Cd2Gd",
-    "reaction_type": null,
+    "reaction_type": "polymorphic",
     "phases_above": [
      "CD2GD_HT"
     ],
@@ -199,7 +199,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> CdGd",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -217,7 +217,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> CdGd",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

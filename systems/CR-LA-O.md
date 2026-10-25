@@ -32,9 +32,9 @@ Table: Enthalpies of formation, Cr–La–O system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -233 kJ/mol-atom ± 11.7 | 298.15 | experimental |  |  | [1] Povoden 2009; _cites Tsyrenova_ | p. 2; `ORC-NASIHCQLC3` | “The enthalpy of formation of La2(CrO4)3 from the elements at 298 K was proposed by Tsyrenova et al.\[29\] to be -3961 ± 11.7 kJ mol-1.” |
 | La2(CrO4)3 |  | -3961 kJ/mol (basis unstated) ± 11.7 | 298.15 | model |  |  | [1] Povoden 2009; _cites Tsyrenova_ | Table 1, p. 3, row 20; `ORC-JN4C2PPUJ4.0f14af` |  |
 | La2(CrO4)3 |  | -3845 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 19; `ORC-L7HXY5H7MV` |  |
+| La2(CrO4)3 |  | -233 kJ/mol-atom ± 11.7 | 298.15 | experimental |  |  | [1] Povoden 2009; _cites Tsyrenova_ | p. 2; `ORC-NASIHCQLC3` | “The enthalpy of formation of La2(CrO4)3 from the elements at 298 K was proposed by Tsyrenova et al.\[29\] to be -3961 ± 11.7 kJ mol-1.” |
 | Rhombohedral LaCrO3 |  | -273.64 kJ/mol-atom | 298.15 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 1; `ORC-2DIL2TDAIV.e5ab26` |  |
 
 ## Other properties

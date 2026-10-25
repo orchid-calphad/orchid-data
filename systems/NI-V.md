@@ -1,10 +1,10 @@
 # Ni–V system
 
-> Ni–V system: 34 accepted literature values (invariant reaction 26, phase transition 8) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–V system: 30 accepted literature values (invariant reaction 24, phase transition 6) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-V.html · Markdown: https://data.orchid-project.org/systems/NI-V.md
 
-34 accepted literature values from 2 paper(s) (experimental 16, model 18); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+30 accepted literature values from 2 paper(s) (experimental 14, model 16); 6 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-V.json) · [CSV](https://data.orchid-project.org/systems/NI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-V/NiV-01Wat.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-V.html) · [Markdown](https://data.orchid-project.org/systems/NI-V.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
-| model | 18 |
+| experimental | 14 |
+| model | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 26 |
-| phase transition | 8 |
+| invariant reaction | 24 |
+| phase transition | 6 |
 
 ## Calculated phase diagrams
 
@@ -104,7 +104,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–V system (26)
+Table: Invariant reactions reported in the literature for the Ni–V system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -116,12 +116,10 @@ Table: Invariant reactions reported in the literature for the Ni–V system (26)
 | 1476.5 | eutectic: L -> fcc + σ | L: V 0.485; fcc: V 0.4305; σ: V 0.5901 | model | [2] Kabanova 2010 | Table 1, p. 3, row 2; `ORC-QA3YQPWCMJ` |  |
 | 1475.15 | L = fcc-(Ni) + σ | L: V 0.51; fcc-(Ni): V 0.43; σ: V 0.55 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 2; `ORC-B6YVKBTZ3D` |  |
 | 1475 | eutectic: L -> fcc + σ | L: V 0.512; fcc: V 0.43; σ: V 0.56 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 1; `ORC-EGVUQZDK3E` |  |
-| 1475 | eutectic |  | model | [2] Kabanova 2010; _cites Smith 1982_ | p. 1; `ORC-URZJO6NSEC.7bc347` | “The eutectic temperature was 1473 ± 5 K, which agreed well with the published data (1475 K) \[1\].” |
-| 1473 | eutectic |  | experimental | [2] Kabanova 2010 | p. 1; `ORC-URZJO6NSEC.26b510` | “The eutectic temperature was 1473 ± 5 K, which agreed well with the published data (1475 K) \[1\].” |
-| 1325.15 | fcc-(Ni) = Ni3V | fcc-(Ni): V 0.247; Ni3V: V 0.247 | model | [1] Pan 2018 | Table 3, p. 6, row 11; `ORC-BFY3MGL34E` |  |
-| 1318.15 | fcc-(Ni) = Ni3V | fcc-(Ni): V 0.25; Ni3V: V 0.25 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 12; `ORC-IBCB6YQA4C` |  |
-| 1206.15 | fcc-(Ni) = Ni2V | fcc-(Ni): V 0.333; Ni2V: V 0.333 | model | [1] Pan 2018 | Table 3, p. 6, row 13; `ORC-WCOZ45EXGR` |  |
-| 1195.15 | fcc-(Ni) = Ni2V | fcc-(Ni): V 0.333; Ni2V: V 0.333 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 14; `ORC-OJMQOWS65J` |  |
+| 1325.15 | polymorphic: fcc-(Ni) = Ni3V | fcc-(Ni): V 0.247; Ni3V: V 0.247 | model | [1] Pan 2018 | Table 3, p. 6, row 11; `ORC-BFY3MGL34E` |  |
+| 1318.15 | polymorphic: fcc-(Ni) = Ni3V | fcc-(Ni): V 0.25; Ni3V: V 0.25 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 12; `ORC-IBCB6YQA4C` |  |
+| 1206.15 | polymorphic: fcc-(Ni) = Ni2V | fcc-(Ni): V 0.333; Ni2V: V 0.333 | model | [1] Pan 2018 | Table 3, p. 6, row 13; `ORC-WCOZ45EXGR` |  |
+| 1195.15 | polymorphic: fcc-(Ni) = Ni2V | fcc-(Ni): V 0.333; Ni2V: V 0.333 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 14; `ORC-OJMQOWS65J` |  |
 | 1183 | eutectoid: fcc -> Ni3V + Ni2V | fcc: V 0.323; Ni3V: V 0.283; Ni2V: V 0.333 | model | [2] Kabanova 2010 | Table 1, p. 3, row 10; `ORC-KWYUZZDNOH` |  |
 | 1181.15 | fcc-(Ni) = Ni3V + Ni2V | fcc-(Ni): V 0.325; Ni3V: V 0.285; Ni2V: V 0.33 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 6; `ORC-IUK6CMJWXK` |  |
 | 1181 | eutectoid: fcc -> Ni3V + Ni2V | fcc: V 0.325; Ni3V: V 0.285; Ni2V: V 0.33 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 9; `ORC-M4SF572YK5` |  |
@@ -137,19 +135,17 @@ Table: Invariant reactions reported in the literature for the Ni–V system (26)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (6)
 
 Table: Phase transition, Ni–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 291 K | 291 |  | model | [1] Pan 2018 | p. 6; `ORC-JMHYAAYNJH.24a0f9` | “According to the present calculation, there are phase decompositions of the Ni2V phase at 291 K and a phase separation of the liquid phase at 6011 K, as can be seen in Fig. 2.” |
 | Phase transition | 1192 K | 1192 | other: fcc -> Ni2V; _fcc: V 0.333; Ni2V: V 0.333_ | model | [2] Kabanova 2010 | Table 1, p. 3, row 8; `ORC-V6UDF2BZC7` |  |
 | Phase transition | 1195 K | 1195 | fcc + Ni3V | model | [2] Kabanova 2010; _cites Smith 1982_ | p. 3; `ORC-RFYH23QDFR` | “The Ni3V phase was, however, exper imentally ascertained to be formed in the Ni-V sys tem by the ordering of fcc solid solution based on nickel at 1195 K \[1\].” |
 | Phase transition | 1195 K | 1195 | other: fcc -> Ni2V; _fcc: V 0.333; Ni2V: V 0.333_ | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 7; `ORC-BJJKZUSUAW` |  |
 | Phase transition | 1303.5 K | 1303.5 | other: fcc -> Ni3V; _fcc: V 0.258; Ni3V: V 0.258_ | model | [2] Kabanova 2010 | Table 1, p. 3, row 6; `ORC-MHQHHYNQWB` |  |
 | Phase transition | 1318 K | 1318 | other: fcc -> Ni3V; _fcc: V 0.25; Ni3V: V 0.25_ | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 5; `ORC-Z5KYKA5F65` |  |
-| Phase transition | 1714.15 K | 1714.15 | other | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | p. 5; `ORC-67U4M2T73R` | “For the bcc-(V) solidus, the data point at 82.2 at.% V and 1441 °C \[5\] did not fit well.” |
 | Phase transition | 6011 K | 6011 | phase separation of the liquid phase | model | [1] Pan 2018 | p. 6; `ORC-JMHYAAYNJH.750f39` | “According to the present calculation, there are phase decompositions of the Ni2V phase at 291 K and a phase separation of the liquid phase at 6011 K, as can be seen in Fig. 2.” |
 
 ## Sources

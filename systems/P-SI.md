@@ -1,10 +1,10 @@
 # P–Si system
 
-> P–Si system: 76 accepted literature values (invariant reaction 24, formation 14, heat capacity / entropy / enthalpy 12, phase equilibrium 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> P–Si system: 69 accepted literature values (invariant reaction 20, formation 14, heat capacity / entropy / enthalpy 12, phase equilibrium 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/P-SI.html · Markdown: https://data.orchid-project.org/systems/P-SI.md
 
-76 accepted literature values from 3 paper(s) (experimental 40, model 27, unspecified 9); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+69 accepted literature values from 3 paper(s) (experimental 33, model 27, unspecified 9); 0 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/P-SI.json) · [CSV](https://data.orchid-project.org/systems/P-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-SI) · [phases (10)](https://data.orchid-project.org/phases/pages/P-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/P-SI.html) · [Markdown](https://data.orchid-project.org/systems/P-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 40 |
+| experimental | 33 |
 | model | 27 |
 | unspecified | 9 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 24 |
-| phase transition | 7 |
+| invariant reaction | 20 |
+| phase transition | 4 |
 | phase equilibrium | 7 |
 | formation | 14 |
 | heat capacity / entropy / enthalpy | 12 |
@@ -33,7 +33,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the P–Si system (24)
+Table: Invariant reactions reported in the literature for the P–Si system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -50,12 +50,8 @@ Table: Invariant reactions reported in the literature for the P–Si system (24)
 | 1404.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | model | [1] Liang 2014 | Table 4, p. 7, row 5; `ORC-HBPYQYPWNN` |  |
 | 1404.15 | eutectic: Eutectic L = (Si) + SiP | L: P 0.32807, Si 0.67193; SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Giessen 1959_ | Table 4, p. 7, row 1; `ORC-J4UNSTBMW3` |  |
 | 1404.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Ugai 1987_ | Table 4, p. 7, row 2; `ORC-VBQKNR6IV4` |  |
-| 1404 | eutectic |  | experimental | [2] Favre 2024 | p. 12; `ORC-4DCW2RGVW4` | “Conventional thermal analysis TGA-DTA experiment of Safarian and Tangstad \[6\] previously mentioned in this paper is able to determine the low phosphorus composition of the Si(s. sat. P) in equilibrium with liquid eutectic as mentioned above: indeed at XP = 0.0094 a thermal event occurs at 1400K slightly lower than the eutectic plateau at 1404K.” |
-| 1404 | eutectic |  | experimental | [2] Favre 2024; _cites ref. 43_ | p. 32; `ORC-7UYQGAIBLK` | “We retain P activity values from Blitz\[43\] and Korb and Hein\[44\] as thermodynamic data for the diphasic Si-SiP up to the eutectic temperature at 1404K.” |
 | 1404 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5 | unspecified | [2] Favre 2024; _cites ref. 12_ | Table 9, p. 50, row 2; `ORC-LUQUQLSFDS` |  |
 | 1404 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5 | unspecified | [2] Favre 2024; _cites as well as Safarian and Tangstad\[6\] namely for liquidus retained data_ | Table 9, p. 50, row 1; `ORC-OT3ACPUAUY` |  |
-| 1404 | eutectic |  | experimental | [2] Favre 2024 | p. 6; `ORC-R2IUWIXS5O` | “The mean value of the eutectic temperature is therefore close to that adopted by other authors at 1404K.” |
-| 1404 | eutectic |  | experimental | [2] Favre 2024 | p. 5; `ORC-W5FMZIAX3R` | “Eutectic temperature plateau is found at 1404 ± 2 K with an extrapolated molar fraction XP ≈ 0.35 ± 0.03.” |
 | 1402.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | experimental | [1] Liang 2014; _cites Safarian 2011_ [doi](https://doi.org/10.1557/jmr.2011.130) | Table 4, p. 7, row 3; `ORC-7LCFIXRLQ5` |  |
 | 1402 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5 | unspecified | [2] Favre 2024; _cites ref. 6_ | Table 9, p. 50, row 4; `ORC-TTEH7ZEXXN` |  |
 | 1400.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 4; `ORC-M6BNO3MRCF` |  |
@@ -76,18 +72,18 @@ Table: Enthalpies of formation, P–Si system (14)
 | SiP | [SiP](https://data.orchid-project.org/compounds/SiP.html) | -31.65 kJ/mol-atom | 298.15 | model | -13.047 (mp-aaaaaedq) | -26.653 (oqmd-1784005) | [1] Liang 2014; _cites ref. 2012Jun_ | Table 5, p. 8, row 6; `ORC-ZCELURSFSI.3c97fc` |  |
 | SiP | [SiP](https://data.orchid-project.org/compounds/SiP.html) | -31.61 kJ/mol-atom | 298.15 | model | -13.047 (mp-aaaaaedq) | -26.653 (oqmd-1784005) | [1] Liang 2014; _cites ref. 2011Aru_ | Table 5, p. 8, row 5; `ORC-53YAL3Y255.04280c` |  |
 | SiP | [SiP](https://data.orchid-project.org/compounds/SiP.html) | -30.95 kJ/mol-atom | 298.15 | unspecified | -13.047 (mp-aaaaaedq) | -26.653 (oqmd-1784005) | [1] Liang 2014; _cites ref. 1977Bar_ | Table 5, p. 8, row 2; `ORC-JQBKPARQEG.6cb2a5` |  |
-| SiP(liq) |  | -63.746 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1; `ORC-GBOLDEHYJP.ca21e1` |  |
-| SiP(liq) |  | -46.893 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2; `ORC-YTEX2VAE7M.504f46` |  |
-| SiP(liq) |  | 36.202 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024 | Table 3, p. 35, row 3; `ORC-L7YZYDWIKI.ca9bcb` |  |
-| SiP(s) |  | -246.525 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1; `ORC-GBOLDEHYJP.a19123` |  |
-| SiP(s) |  | -147.253 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2; `ORC-YTEX2VAE7M.5f63f9` |  |
-| SiP(s) |  | -66.425 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024 | Table 3, p. 35, row 3; `ORC-L7YZYDWIKI.c9e067` |  |
+| SiP(liq) |  | -63.746 kJ/mol (basis unstated) | 1443 | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1; `ORC-GBOLDEHYJP.ca21e1` |  |
+| SiP(liq) |  | -46.893 kJ/mol (basis unstated) | 1443 | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2; `ORC-YTEX2VAE7M.504f46` |  |
+| SiP(liq) |  | 36.202 kJ/mol (basis unstated) | 1418 | model |  |  | [2] Favre 2024 | Table 3, p. 35, row 3; `ORC-L7YZYDWIKI.ca9bcb` |  |
+| SiP(s) |  | -246.525 kJ/mol (basis unstated) | 1443 | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1; `ORC-GBOLDEHYJP.a19123` |  |
+| SiP(s) |  | -147.253 kJ/mol (basis unstated) | 1443 | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2; `ORC-YTEX2VAE7M.5f63f9` |  |
+| SiP(s) |  | -66.425 kJ/mol (basis unstated) | 1418 | model |  |  | [2] Favre 2024 | Table 3, p. 35, row 3; `ORC-L7YZYDWIKI.c9e067` |  |
 | SiP2 | [SiP2](https://data.orchid-project.org/compounds/SiP2.html) | -26.69 kJ/mol-atom | 298.15 | model | -12.072 (mp-aaaaaoum) | -27.964 (oqmd-7989) | [1] Liang 2014 | Table 5, p. 8, row 9; `ORC-THR5BHMMLZ.0b24fe` |  |
 | SiP2 | [SiP2](https://data.orchid-project.org/compounds/SiP2.html) | -26.43 kJ/mol-atom | 298.15 | model | -12.072 (mp-aaaaaoum) | -27.964 (oqmd-7989) | [1] Liang 2014; _cites ref. 2012Jun_ | Table 5, p. 8, row 8; `ORC-27U45J3KDP.5aacdd` |  |
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (4)
 
 Table: Phase transition, P–Si system
 
@@ -96,10 +92,7 @@ Table: Phase transition, P–Si system
 | Phase transition | 1237.15 K | 1237.15 | other | experimental | [1] Liang 2014 | p. 2; `ORC-HRX4SYSFEP` | “Differential thermal analysis in static air from room temperature to 1015 C shows heating signals in the range 964-990 C but no thermal activity was seen upon cooling.” |
 | Phase transition | 1375 K | 1375 | other | model | [2] Favre 2024 | p. 48; `ORC-XVP6TYZ4B5` | “We observed that applying a 1 bar pressure, the SiP compound decomposes at 1375K before melting - equilibrium with 1 bar pressure of P2(g) + P4(g).” |
 | Phase transition | 1410.15 K | 1410.15 | congruent melting | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | p. 9; `ORC-GIVOT6PXH5` | “They chose 1137 C as congruent melting temperature of SiP, but it is noted that the pressure-discrepancy increases in their Gas + SiP + liquid range.\[5\]” |
-| Phase transition | 1413.15 K | 1413.15 | other | experimental | [1] Liang 2014; _cites Zumbusch 1939_ [doi](https://doi.org/10.1002/zaac.19392420304) | p. 6; `ORC-C2QMQXV64H` | “In the original paper,\[44\] the main focus was on germanium phosphide, GeP, while the thermal decomposition temperature of SiP phase was only mentioned at one atmosphere to be 1140 C and another Ref 25 was given, which is also cited by Korb et al.\[24\] but the original source is not available.” |
 | Phase transition | 1443.15 K | 1443.15 | congruent melting | experimental | [1] Liang 2014; _cites Ugai 1987_ | p. 9; `ORC-VN3BGEVYTZ.704482` | “It was found impossible to reconcile in a consistent thermodynamic assessment the experimentally determined\[34\] high congruent melting temperature of SiP (1170 C, Fig. 2) with the low experimental pressure value at that point from the same group of authors\[26\] (2.7 bar, Fig. 4); the calculated values are 1161 C and 13 bar.” |
-| Phase transition | 1443.15 K | 1443.15 | congruent transformation | experimental | [1] Liang 2014; _cites Ugai 1987_ | p. 10; `ORC-YHNIRIEZ5O` | “The only direct experimental value of 1170 C by Ugai et al.\[34\] is reflected better by the current modeling; the calculated congruent melting temperature is 24 K above that of.\[5\]” |
-| Phase transition | 1685 K | 1685 |  | experimental | [2] Favre 2024 | p. 6; `ORC-N5H6GMVXBR` | “In addition, in order to match the current melting temperature of silicon (1685 K), temperatures taken from the work of Giessen and Vogel \[10\] are increased by +6 K for the liquidus as well as for the eutectic temperatures (see more information in Supplementary Elements_Item I).” |
 
 ### Phase equilibrium (7)
 

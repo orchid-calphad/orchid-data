@@ -13,7 +13,7 @@ Table: Phases of the O–Ti system (22)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [HALITE_B1](#phase-o-ti-b1-halite); _phase:o-ti:b1-halite_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1211.07–2500 K, x(O) 0.33412–0.50744 | 0 | 1 |
-| [B1_OXIDE](#phase-o-ti-b1-oxide); _phase:o-ti:b1-oxide_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 8 | 4 |
+| [B1_OXIDE](#phase-o-ti-b1-oxide); _phase:o-ti:b1-oxide_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 4 |
 | [BCC_A2](#phase-o-ti-bcc-a2); _phase:o-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1140–2016.42 K, x(O) 0–0.07978 | 2 | 5 |
 | [RUTILE_C4](#phase-o-ti-c4-rutile); _phase:o-ti:c4-rutile_ | TiO2 · C4 · tP6 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 2 calculated diagram(s): 300–2142.05 K, x(O) 0.66441–0.66667 | 2 | 5 |
 | [CORUNDUM_D51](#phase-o-ti-d51-corundum); _phase:o-ti:d51-corundum_ | alpha-Al2O3 · D5_1 · hR10 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 2 calculated diagram(s): 300–415 K, x(O) 0.6–0.6 | 10 | 5 |
@@ -61,11 +61,10 @@ _tdb: _tdb:TiO-94Lee.tdb:HALITE_B1
 - Id: `phase:o-ti:b1-oxide`; status `assigned`
 - Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; tier A: standard phase name; confidence high
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-ti:b1-oxide)
 
-Names (6): _corpus: _corpus:phase:o-ti:b1-oxide  
-_paper: _paper:10.1016/j.calphad.2007.01.009:TiOx  
+Names (5): _corpus: _corpus:phase:o-ti:b1-oxide  
 _tdb: _tdb:TiO-07Can.tdb:B1_OXIDE, tdb:TiO-15Ham.tdb:B1_OXIDE, tdb:TiO-17Ila.tdb:B1_OXIDE, tdb:TiO-17Yan.tdb:B1_OXIDE  
 
 
@@ -99,18 +98,16 @@ _tdb: _tdb:TiO-07Can.tdb:B1_OXIDE, tdb:TiO-15Ham.tdb:B1_OXIDE, tdb:TiO-17Ila.tdb
 79: CONST B1_OXIDE:I : TI TI+2% TI+3 VA : O-2% VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.calphad.2007.01.009](https://doi.org/10.1016/j.calphad.2007.01.009) M. Cancarevic, M. Zinkevich, F. Aldinger, Thermodynamic description of the Ti–O system using the associate model for the liquid phase, Calphad 31, 330-342 (2007).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-016-0509-4](https://doi.org/10.1007/s11669-016-0509-4) Mariia Ilatovskaia, Galina Savinykh, Olga Fabrichnaya, Thermodynamic Description of the Ti-Al-O System Based on Experimental Data, J. Phase Equilib. Diffus. 38, 175-184 (2017).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2007.01.009](https://doi.org/10.1016/j.calphad.2007.01.009) M. Cancarevic, M. Zinkevich, F. Aldinger, Thermodynamic description of the Ti–O system using the associate model for the liquid phase, Calphad 31, 330-342 (2007).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2017.05.326](https://doi.org/10.1016/j.jallcom.2017.05.326) Yang Yang, Huahai Mao, Hai-Lin Chen, Malin Selleby, An assessment of the Ti-V-O system, Journal of Alloys and Compounds 722, 365-374 (2017).  
 _assessment that models this phase_
 - [doi:10.3139/146.111210](https://doi.org/10.3139/146.111210) M. Hampl, R. Schmid-Fetzer, Int. J. Mater. Res., 106, 439-53(2015).  
 _assessment that models this phase_
-- [doi:10.1007/bf02873201](https://doi.org/10.1007/bf02873201) J. L. Murray, H. A. Wriedt, The O−Ti (Oxygen-Titanium) system, JPE 8, 148-165 (1987).  
-_cited as the source of values for this phase_
 
 ## BCC_A2 (O–Ti)
 

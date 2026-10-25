@@ -1,10 +1,10 @@
 # La–O system
 
-> La–O system: 53 accepted literature values (phase transition 25, formation 17, heat capacity / entropy / enthalpy 8, crystal structure 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–O system: 47 accepted literature values (phase transition 19, formation 17, heat capacity / entropy / enthalpy 8, crystal structure 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-O.html · Markdown: https://data.orchid-project.org/systems/LA-O.md
 
-53 accepted literature values from 2 paper(s) (experimental 34, model 17, unspecified 2); 2 calculated phase diagram(s).
+47 accepted literature values from 2 paper(s) (experimental 31, model 14, unspecified 2); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-O.json) · [CSV](https://data.orchid-project.org/systems/LA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-O/LaO-01Gru.json) · [phases (15)](https://data.orchid-project.org/phases/pages/LA-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-O.html) · [Markdown](https://data.orchid-project.org/systems/LA-O.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 34 |
-| model | 17 |
+| experimental | 31 |
+| model | 14 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 25 |
+| phase transition | 19 |
 | formation | 17 |
 | heat capacity / entropy / enthalpy | 8 |
 | crystal structure | 3 |
@@ -78,7 +78,7 @@ Table: Enthalpies of formation, La–O system (17)
 
 ## Other properties
 
-### Phase transition (25)
+### Phase transition (19)
 
 Table: Phase transition, La–O system
 
@@ -86,8 +86,6 @@ Table: Phase transition, La–O system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2113 K | 2113 | other: \[1913Ruf\] | experimental | [2] Grundy 2001; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 1, p. 2, row 1; `ORC-MVNC3YU6GD` |  |
 | Phase transition | 2303 K | 2303 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 17; `ORC-PYAPMTFHGZ` |  |
-| Phase transition | 2313 K | 2313 | A-La2O3 -> H-La2O3 | model | [2] Grundy 2001 | p. 1; `ORC-TENPVFXHAE.be9267` | “Neutron diffraction \[1979Ald\] and x-ray diffraction \[1966Foe\] studies at very high temperatures and analysis of cooling curves \[1965Foe\] show that A-La2O3 transforms to partially ordered hexagonal H-La2O3 at 2313 K, then to cubic X-La2O3 at 2383 K.” |
-| Phase transition | 2313 K | 2313 | polymorphic | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4; `ORC-UAIN6LM6VV.23113f` | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
 | Phase transition | 2313 K | 2313 | polymorphic: A \<=> H; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 10; `ORC-MF3RAQWG2I` |  |
 | Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 13; `ORC-3ASW63ZSKL` |  |
 | Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Molodkin 1982_ | Table 2.1, p. 6, row 19; `ORC-MFLU6J3IPY` |  |
@@ -97,15 +95,11 @@ Table: Phase transition, La–O system
 | Phase transition | 2373 K | 2373 | polymorphic: H \<=> X; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 24; `ORC-PAVKTIBCHT` |  |
 | Phase transition | 2373 K | 2373 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 14; `ORC-F3K2VHKS46` |  |
 | Phase transition | 2373 K | 2373 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 18; `ORC-NXEEMXM73I` |  |
-| Phase transition | 2383 K | 2383 | H-La2O3 -> X-La2O3 | model | [2] Grundy 2001 | p. 1; `ORC-TENPVFXHAE.263ffb` | “Neutron diffraction \[1979Ald\] and x-ray diffraction \[1966Foe\] studies at very high temperatures and analysis of cooling curves \[1965Foe\] show that A-La2O3 transforms to partially ordered hexagonal H-La2O3 at 2313 K, then to cubic X-La2O3 at 2383 K.” |
-| Phase transition | 2383 K | 2383 | polymorphic | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4; `ORC-UAIN6LM6VV.c1013e` | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
 | Phase transition | 2383 K | 2383 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 12; `ORC-ZS4HHIIL64` |  |
 | Phase transition | 2413 K | 2413 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 16; `ORC-H26XJKV6VC` |  |
 | Phase transition | 2490 K | 2490 | other: \[1967Mor\] | experimental | [2] Grundy 2001; _cites Mordovin 1967_ | Table 1, p. 2, row 4; `ORC-6R32EVWYOC` |  |
 | Phase transition | 2529 K | 2529 | other: \[1967Nog\] | experimental | [2] Grundy 2001; _cites Noguchi 1968_ | Table 1, p. 2, row 5; `ORC-L6E3ZVYAH7` |  |
 | Phase transition | 2577 K | 2577 | other: \[1966Sat\] | experimental | [2] Grundy 2001; _cites Sata 1966_ | Table 1, p. 2, row 3; `ORC-UY72IKXCSB` |  |
-| Phase transition | 2583 K | 2583 |  | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4; `ORC-UAIN6LM6VV.e56099` | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
-| Phase transition | 2586 K | 2586 |  | model | [2] Grundy 2001 | p. 1; `ORC-OXCTB7TXMW` | “The average of these three measurements is 2586 K. This is the value adopted by the SGTE substance database \[1997SGT\] and is used for this study.” |
 | Phase transition | 2586 K | 2586 | other: \[1997SGT\], this study | unspecified | [2] Grundy 2001 | Table 1, p. 2, row 7; `ORC-DEVXRI5KWB` |  |
 | Phase transition | 2588 K | 2588 | other: \[1932War\] | unspecified | [2] Grundy 2001; _cites ref. 1932War_ | Table 1, p. 2, row 2; `ORC-GCXUEW4SS2` |  |
 | Phase transition | 2593 K | 2593 | other: \[1975Cou\] | experimental | [2] Grundy 2001; _cites Coutures 1975_ | Table 1, p. 2, row 6; `ORC-DHXCMV7LWD` |  |

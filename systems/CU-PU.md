@@ -1,10 +1,10 @@
 # Cu–Pu system
 
-> Cu–Pu system: 16 accepted literature values (invariant reaction 16) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Pu system: 14 accepted literature values (invariant reaction 14) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-PU.html · Markdown: https://data.orchid-project.org/systems/CU-PU.md
 
-16 accepted literature values from 1 paper(s) (experimental 8, model 8); 1 calculated phase diagram(s).
+14 accepted literature values from 1 paper(s) (experimental 7, model 7); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-PU.json) · [CSV](https://data.orchid-project.org/systems/CU-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-PU/CuPu-09Wan.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CU-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-PU.html) · [Markdown](https://data.orchid-project.org/systems/CU-PU.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 8 |
+| experimental | 7 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 14 |
 
 ## Calculated phase diagrams
 
@@ -61,7 +61,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Pu system (16)
+Table: Invariant reactions reported in the literature for the Cu–Pu system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -71,9 +71,7 @@ Table: Invariant reactions reported in the literature for the Cu–Pu system (16
 | 1174.15 | peritectic: Cu17Pu4 + L -> Cu4Pu | Cu17Pu4: Pu 0.191; L: Pu 0.265; Cu4Pu: Pu 0.2 | model | [1] Wang 2009 | Table 5, p. 5, row 14; `ORC-V2ITLETVTU` |  |
 | 1154.15 | eutectic: L -> (Cu) + Cu6Pu | L: Pu 0.09; (Cu): Pu 0; Cu6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 9; `ORC-U6DJG4X77I` |  |
 | 1149.15 | eutectic: L -> (Cu) + Cu6Pu | L: Pu 0.079; (Cu): Pu 0; Cu6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 5, p. 5, row 10; `ORC-GISJCTZP2A` |  |
-| 1130.15 | eutectic: L -> Cu4Pu + Cu2Pu |  | model | [1] Wang 2009; _cites Kutaitsev 1967_ | p. 4; `ORC-AMWFUDXEXK.4c6ba9` | “The calculated temperature of this eutectic reaction is 857 °C, however, Rhinehammer et al. \[26\] reported this eutectic temperature to be 849 °C, and Kutaitsev et al. \[27\] gave an estimated value (857 °C).” |
 | 1130.15 | eutectic: L -> Cu4Pu + Cu2Pu | L: Pu 0.306; Cu4Pu: Pu 0.2; Cu2Pu: Pu 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 8; `ORC-YTL24IKTDN` |  |
-| 1122.15 | eutectic: L -> Cu4Pu + Cu2Pu |  | experimental | [1] Wang 2009; _cites This_ | p. 4; `ORC-AMWFUDXEXK.42d557` | “The calculated temperature of this eutectic reaction is 857 °C, however, Rhinehammer et al. \[26\] reported this eutectic temperature to be 849 °C, and Kutaitsev et al. \[27\] gave an estimated value (857 °C).” |
 | 1122.15 | eutectic: L -> Cu4Pu + Cu2Pu | L: Pu 0.295; Cu4Pu: Pu 0.2; Cu2Pu: Pu 0.333 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 7; `ORC-XTHMGHXWJO` |  |
 | 899.15 | eutectic: L -> Cu2Pu + εPu | L: Pu 0.94; Cu2Pu: Pu 0.333; εPu: Pu 0.97 | experimental | [1] Wang 2009; _cites This_ | Table 5, p. 5, row 5; `ORC-MIT6FWOCKH` |  |
 | 899.15 | eutectic: L -> Cu2Pu + εPu | L: Pu 0.94; Cu2Pu: Pu 0.333; εPu: Pu 0.955 | model | [1] Wang 2009 | Table 5, p. 5, row 6; `ORC-ZCKWDRDJGT` |  |

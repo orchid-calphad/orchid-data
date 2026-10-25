@@ -65,13 +65,13 @@ Table: Invariant reactions reported in the literature for the Ru–U system (64)
 |---:|---|---|---|---|---|---|
 | 2123.15 | Liquid + hcp -> Ru3U | Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 3; `ORC-NUWL5KXSGC` |  |
 | 2123 | Liquid + hcp \<=> Ru3U | Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 35; `ORC-J2C7F4QUH3` |  |
-| 1998.15 | Liquid -> Ru3U | L: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 4; `ORC-NDGQBI6KN3` |  |
-| 1998 | Liquid \<=> Ru3U | Liquid: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 36; `ORC-VYTF6MTXH7` |  |
-| 1938.15 | Liquid -> Ru3U | L: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 5; `ORC-VATAVCXU5R` |  |
-| 1938 | Liquid \<=> Ru3U | Liquid: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 37; `ORC-AU5XUQO4QN` |  |
-| 1861.15 | Liquid -> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 2; `ORC-ZK4P46QY6V` |  |
+| 1998.15 | congruent melting: Liquid -> Ru3U | L: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 4; `ORC-NDGQBI6KN3` |  |
+| 1998 | congruent melting: Liquid \<=> Ru3U | Liquid: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 36; `ORC-VYTF6MTXH7` |  |
+| 1938.15 | congruent melting: Liquid -> Ru3U | L: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 5; `ORC-VATAVCXU5R` |  |
+| 1938 | congruent melting: Liquid \<=> Ru3U | Liquid: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 37; `ORC-AU5XUQO4QN` |  |
+| 1861.15 | eutectic: Liquid -> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 2; `ORC-ZK4P46QY6V` |  |
 | 1861 | Liquid \<=> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 34; `ORC-NKXMHLS6CR` |  |
-| 1849.15 | Liquid -> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 1; `ORC-ZMWZNROX3V` |  |
+| 1849.15 | eutectic: Liquid -> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 1; `ORC-ZMWZNROX3V` |  |
 | 1849 | Liquid \<=> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 33; `ORC-KPPZ4LAFAP` |  |
 | 1466.15 | Liquid + Ru3U -> Ru5U3 | Ru3U: Ru 0.75, U 0.25; Ru5U3: Ru 0.625, U 0.375 | model | [1] Berche 2011 | Table 6, p. 12, row 6; `ORC-4JOLKGJMH6` |  |
 | 1466 | Liquid + Ru3U \<=> Ru5U3 | Ru3U: Ru 0.75, U 0.25; Ru5U3: Ru 0.625, U 0.375 | model | [1] Berche 2011 | Table 6, p. 12, row 38; `ORC-JJK63Q4WMS` |  |
@@ -85,28 +85,28 @@ Table: Invariant reactions reported in the literature for the Ru–U system (64)
 | 1439 | Liquid + Ru5U3 \<=> Ru4U3 | Ru5U3: Ru 0.625, U 0.375; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 42; `ORC-VWL25W2ED5` |  |
 | 1436.15 | Liquid + Ru5U3 -> Ru4U3 | Ru5U3: Ru 0.625, U 0.375; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 11; `ORC-SIFGDWVDPW` |  |
 | 1436 | Liquid + Ru5U3 \<=> Ru4U3 | Ru5U3: Ru 0.625, U 0.375; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 43; `ORC-4Y2W3NPX3V` |  |
-| 1431.15 | Liquid -> RuU-H | L: Ru 0.48, U 0.52; RuU-H: Ru 0.48, U 0.52 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 17; `ORC-YE24SVVGFN` |  |
-| 1431 | Liquid \<=> RuU-H | Liquid: Ru 0.48, U 0.52; RuU-H: Ru 0.48, U 0.52 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 49; `ORC-7SND6GE674` |  |
-| 1421.15 | Liquid -> RuU-H + Ru4U3 | RuU-H: Ru 0.48, U 0.52; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 13; `ORC-GDDBQL5Z5P` |  |
+| 1431.15 | congruent melting: Liquid -> RuU-H | L: Ru 0.48, U 0.52; RuU-H: Ru 0.48, U 0.52 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 17; `ORC-YE24SVVGFN` |  |
+| 1431 | congruent melting: Liquid \<=> RuU-H | Liquid: Ru 0.48, U 0.52; RuU-H: Ru 0.48, U 0.52 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 49; `ORC-7SND6GE674` |  |
+| 1421.15 | eutectic: Liquid -> RuU-H + Ru4U3 | RuU-H: Ru 0.48, U 0.52; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 13; `ORC-GDDBQL5Z5P` |  |
 | 1421 | Liquid \<=> RuU-H + Ru4U3 | RuU-H: Ru 0.48, U 0.52; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 45; `ORC-SNHGZ7P2JD` |  |
-| 1414 | Liquid \<=> RuU-H | Liquid: Ru 0.48, U 0.52; RuU-H: Ru 0.48, U 0.52 | model | [1] Berche 2011 | Table 6, p. 12, row 48; `ORC-26UUWBR2CQ` |  |
-| 1413.15 | Liquid -> RuU-H | L: Ru 0.48, U 0.52; RuU-H: Ru 0.48, U 0.52 | model | [1] Berche 2011 | Table 6, p. 12, row 16; `ORC-JJXBTLQ4IY` |  |
+| 1414 | congruent melting: Liquid \<=> RuU-H | Liquid: Ru 0.48, U 0.52; RuU-H: Ru 0.48, U 0.52 | model | [1] Berche 2011 | Table 6, p. 12, row 48; `ORC-26UUWBR2CQ` |  |
+| 1413.15 | congruent melting: Liquid -> RuU-H | L: Ru 0.48, U 0.52; RuU-H: Ru 0.48, U 0.52 | model | [1] Berche 2011 | Table 6, p. 12, row 16; `ORC-JJXBTLQ4IY` |  |
 | 1412 | Liquid \<=> RuU-H + Ru4U3 | RuU-H: Ru 0.48, U 0.52; Ru4U3: Ru 0.571429, U 0.428571 | model | [1] Berche 2011 | Table 6, p. 12, row 44; `ORC-RBSFVOZNQ3` |  |
-| 1411.15 | Liquid -> RuU-H + Ru4U3 | RuU-H: Ru 0.48, U 0.52; Ru4U3: Ru 0.571429, U 0.428571 | model | [1] Berche 2011 | Table 6, p. 12, row 12; `ORC-T5WHSBNIGX` |  |
+| 1411.15 | eutectic: Liquid -> RuU-H + Ru4U3 | RuU-H: Ru 0.48, U 0.52; Ru4U3: Ru 0.571429, U 0.428571 | model | [1] Berche 2011 | Table 6, p. 12, row 12; `ORC-T5WHSBNIGX` |  |
 | 1218.15 | Liquid + RuU-H -> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | model | [1] Berche 2011 | Table 6, p. 12, row 18; `ORC-3YRA5A5CBE` |  |
 | 1218 | Liquid + RuU-H \<=> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | model | [1] Berche 2011 | Table 6, p. 12, row 50; `ORC-BUZQYNNSEG` |  |
 | 1210.15 | Liquid + RuU-H -> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 19; `ORC-JAT7UODV7L` |  |
 | 1210 | Liquid + RuU-H \<=> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 51; `ORC-MRYVUJSEYY` |  |
 | 1170.15 | Liquid + RuU-H -> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Berndt 1965_ | Table 6, p. 12, row 20; `ORC-SSVBDZXFUS` |  |
 | 1170 | Liquid + RuU-H \<=> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Berndt 1965_ | Table 6, p. 12, row 52; `ORC-V352TF7SI7` |  |
-| 1159.15 | Liquid -> bcc + RuU2 | RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 22; `ORC-TALXVGBJNZ` |  |
+| 1159.15 | eutectic: Liquid -> bcc + RuU2 | RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 22; `ORC-TALXVGBJNZ` |  |
 | 1159 | Liquid \<=> bcc + RuU2 | RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 54; `ORC-TTIO2JU47P` |  |
-| 1149.15 | Liquid -> bcc + RuU2 | RuU2: Ru 0.333333, U 0.666667 | model | [1] Berche 2011 | Table 6, p. 12, row 21; `ORC-4HIHIJ6U37` |  |
+| 1149.15 | eutectic: Liquid -> bcc + RuU2 | RuU2: Ru 0.333333, U 0.666667 | model | [1] Berche 2011 | Table 6, p. 12, row 21; `ORC-4HIHIJ6U37` |  |
 | 1149 | Liquid \<=> bcc + RuU2 | RuU2: Ru 0.333333, U 0.666667 | model | [1] Berche 2011 | Table 6, p. 12, row 53; `ORC-Z7AOAWFHUA` |  |
-| 1068.15 | RuU-H -> RuU-L | RuU-H: Ru 0.48, U 0.52; RuU-L: Ru 0.48, U 0.52 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 15; `ORC-VWPRQZSR5E` |  |
-| 1068 | RuU-H \<=> RuU-L | RuU-H: Ru 0.48, U 0.52; RuU-L: Ru 0.48, U 0.52 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 47; `ORC-2G2VSJMCNK` |  |
-| 1060.15 | RuU-H -> RuU-L | RuU-H: Ru 0.48, U 0.52; RuU-L: Ru 0.48, U 0.52 | model | [1] Berche 2011 | Table 6, p. 12, row 14; `ORC-75LUASK5HL` |  |
-| 1060 | RuU-H \<=> RuU-L | RuU-H: Ru 0.48, U 0.52; RuU-L: Ru 0.48, U 0.52 | model | [1] Berche 2011 | Table 6, p. 12, row 46; `ORC-4MNNBSWMRS` |  |
+| 1068.15 | polymorphic: RuU-H -> RuU-L | RuU-H: Ru 0.48, U 0.52; RuU-L: Ru 0.48, U 0.52 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 15; `ORC-VWPRQZSR5E` |  |
+| 1068 | polymorphic: RuU-H \<=> RuU-L | RuU-H: Ru 0.48, U 0.52; RuU-L: Ru 0.48, U 0.52 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 47; `ORC-2G2VSJMCNK` |  |
+| 1060.15 | polymorphic: RuU-H -> RuU-L | RuU-H: Ru 0.48, U 0.52; RuU-L: Ru 0.48, U 0.52 | model | [1] Berche 2011 | Table 6, p. 12, row 14; `ORC-75LUASK5HL` |  |
+| 1060 | polymorphic: RuU-H \<=> RuU-L | RuU-H: Ru 0.48, U 0.52; RuU-L: Ru 0.48, U 0.52 | model | [1] Berche 2011 | Table 6, p. 12, row 46; `ORC-4MNNBSWMRS` |  |
 | 983.15 | bcc -> β-U + RuU2 | RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Hills 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990044-9) | Table 6, p. 12, row 25; `ORC-DFY4QNGA5W` |  |
 | 983 | bcc \<=> β-U + RuU2 | RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Hills 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990044-9) | Table 6, p. 12, row 57; `ORC-F5MTO4K4DW` |  |
 | 966.15 | bcc -> β-U + RuU2 | RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Dwight 1958_ | Table 6, p. 12, row 24; `ORC-VIZJ2HDFNG` |  |

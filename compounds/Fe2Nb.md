@@ -32,15 +32,15 @@ Table: Uncertainty budget of the literature values of Fe2Nb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -23.7 | kJ/mol (basis unstated) |  | 0.05 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
-| -20.5 | kJ/mol (basis unstated) |  | 0.05 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
-| -23.67 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -23.41 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -22.5 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -21 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -17.9 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -17.87 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -12.24 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -23.7 | kJ/mol (basis unstated) |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -20.5 | kJ/mol (basis unstated) |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -23.67 | kJ/mol (basis unstated) |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -23.41 | kJ/mol (basis unstated) |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22.5 | kJ/mol (basis unstated) |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -21 | kJ/mol (basis unstated) |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.9 | kJ/mol (basis unstated) |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.87 | kJ/mol (basis unstated) |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -12.24 | kJ/mol (basis unstated) |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

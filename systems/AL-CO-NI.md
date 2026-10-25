@@ -1,10 +1,10 @@
 # Al–Co–Ni system
 
-> Al–Co–Ni system: 13 accepted literature values (mixing / partial 12, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Co–Ni system: 12 accepted literature values (mixing / partial 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CO-NI.html · Markdown: https://data.orchid-project.org/systems/AL-CO-NI.md
 
-13 accepted literature values from 2 paper(s) (model 1, DFT 12); 0 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (DFT 12); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-NI.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO-NI.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO-NI.md)
 
@@ -12,25 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
 | DFT | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
 | mixing / partial | 12 |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Al–Co–Ni system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1632.15 K | 1632.15 | L + c¢ = > b + c | model | [1] Zhu 2014 | p. 15; `ORC-TQAFRKUYIN` | “The c¢ phase has a small primary phase region and an invariant reaction L + c¢ = > b + c occurs at 1359 C.” |
 
 ### Mixing / partial (12)
 
@@ -38,25 +28,24 @@ Table: Mixing / partial, Al–Co–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -23.59 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [2] Liu 2016 | Table 6, p. 40, row 25; `ORC-3D4W5TGD42` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -20.43 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [2] Liu 2016 | Table 6, p. 40, row 24; `ORC-7GQJDWDHJQ` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -25.81 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [2] Liu 2016 | Table 6, p. 40, row 23; `ORC-RNMZLTA3EG` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -26.94 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [2] Liu 2016 | Table 8, p. 42, row 14; `ORC-74RBDPJKYV` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -68.64 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [2] Liu 2016 | Table 8, p. 42, row 11; `ORC-WT7PXP52PW` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -33.61 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [2] Liu 2016 | Table 8, p. 42, row 17; `ORC-Z7PJJFOXX3` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -17.13 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [2] Liu 2016 | Table 7, p. 41, row 24; `ORC-56UQQ3KDZU` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -21.68 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [2] Liu 2016 | Table 7, p. 41, row 25; `ORC-MZSAEGOTBR` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -21.66 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [2] Liu 2016 | Table 7, p. 41, row 23; `ORC-P4ZSEXFBEG` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -25.03 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.375, Ni 0.25_ | DFT | [2] Liu 2016 | Table 9, p. 43, row 17; `ORC-HRT7A33QUN` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -29.84 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.375, Ni 0.375_ | DFT | [2] Liu 2016 | Table 9, p. 43, row 11; `ORC-XMHR27DSFK` |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -28.12 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.25, Ni 0.375_ | DFT | [2] Liu 2016 | Table 9, p. 43, row 14; `ORC-ZRJTZFU5YP` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -23.59 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 25; `ORC-3D4W5TGD42` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -20.43 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 24; `ORC-7GQJDWDHJQ` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -25.81 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 6, p. 40, row 23; `ORC-RNMZLTA3EG` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -26.94 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 14; `ORC-74RBDPJKYV` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -68.64 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 11; `ORC-WT7PXP52PW` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -33.61 kJ/mol-atom | 0 | B2; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 17; `ORC-Z7PJJFOXX3` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -17.13 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.5, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 24; `ORC-56UQQ3KDZU` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.68 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.25, Ni 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 25; `ORC-MZSAEGOTBR` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.66 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.25, Ni 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 23; `ORC-P4ZSEXFBEG` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -25.03 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.375, Ni 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 17; `ORC-HRT7A33QUN` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -29.84 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.375, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 11; `ORC-XMHR27DSFK` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -28.12 kJ/mol-atom | 0 | γ’; _alloy: Al 0.375, Co 0.25, Ni 0.375_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 14; `ORC-ZRJTZFU5YP` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. J. Zhu, M. S. Titus, T. M. Pollock, Experimental Investigation and Thermodynamic Modeling of the Co-Rich Region in the Co-Al-Ni-W Quaternary System, J. Phase Equilib. Diffus. 35, 595-611 (2014). [doi:10.1007/s11669-014-0327-5](https://doi.org/10.1007/s11669-014-0327-5)
-2. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
+1. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
 
 ## Please cite
 

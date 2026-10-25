@@ -1,10 +1,10 @@
 # Sn–Zr system
 
-> Sn–Zr system: 68 accepted literature values (invariant reaction 36, formation 20, phase equilibrium 5, phase transition 3) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Zr system: 63 accepted literature values (invariant reaction 34, formation 20, phase equilibrium 5, crystal structure 2) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-ZR.html · Markdown: https://data.orchid-project.org/systems/SN-ZR.md
 
-68 accepted literature values from 3 paper(s) (experimental 19, model 27, unspecified 22); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+63 accepted literature values from 3 paper(s) (experimental 14, model 33, unspecified 16); 7 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-08Jer.json) · [phases (13)](https://data.orchid-project.org/phases/pages/SN-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-ZR.html) · [Markdown](https://data.orchid-project.org/systems/SN-ZR.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
-| model | 27 |
-| unspecified | 22 |
+| experimental | 14 |
+| model | 33 |
+| unspecified | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 36 |
-| phase transition | 3 |
+| invariant reaction | 34 |
 | phase equilibrium | 5 |
 | formation | 20 |
 | mixing / partial | 2 |
@@ -114,7 +113,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sn–Zr system (36)
+Table: Invariant reactions reported in the literature for the Sn–Zr system (34)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -123,10 +122,10 @@ Table: Invariant reactions reported in the literature for the Sn–Zr system (36
 | 2261 | congruent melting: L = Zr5Sn3 | L: Sn 0.375, Zr 0.625; Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 12; `ORC-LT6Q6VROMX` |  |
 | 2260 | congruent melting: L = Zr5Sn3 | Zr5Sn3: Sn 0.4 | model | [2] Subasic 1998 | Table 1, p. 3, row 11; `ORC-GK4OKD2FDP` |  |
 | 2258 | congruent melting: η \<-> Liq | η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 10; `ORC-VW47UG4E2T` |  |
-| 2245 | congruent melting: Liquid -> Sn3Zr5 | Liquid: Zr 0.625; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 6; `ORC-EVQOCKYJL7` |  |
+| 2245 | congruent melting: Liquid -> Sn3Zr5 | Liquid: Zr 0.625; Sn3Zr5: Zr 0.625 | model | [3] (ed.) 1998 | Table I, p. 308, row 6; `ORC-EVQOCKYJL7` |  |
 | 2128 | congruent melting: L = β Zr | β Zr: Sn 0 | model | [2] Subasic 1998 | Table 1, p. 3, row 13; `ORC-ISEHRRQSBR` |  |
 | 2128 | congruent melting: L = β Zr |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 14; `ORC-SSJUME7TJC` |  |
-| 1868.5 | eutectic: Liquid -> bcc-A2 + Sn3Zr5 | Liquid: Zr 0.892; bcc-A2: Zr 0.844; Sn3Zr5: Zr 0.625 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 1; `ORC-QU644NHWJB` |  |
+| 1868.5 | eutectic: Liquid -> bcc-A2 + Sn3Zr5 | Liquid: Zr 0.892; bcc-A2: Zr 0.844; Sn3Zr5: Zr 0.625 | model | [3] (ed.) 1998 | Table I, p. 308, row 1; `ORC-QU644NHWJB` |  |
 | 1865 | eutectic: L = β Zr + Zr5Sn3 | Zr5Sn3: Sn 0.375, Zr 0.625 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 2; `ORC-I2F56TW6OY` |  |
 | 1863 | eutectic: Liq \<-> βZr + η | Liq: Sn 0.191; βZr: Sn 0.17; η: Sn 0.375 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 1; `ORC-P5JMFHPF5A` |  |
 | 1859 | eutectic: Liq \<-> βZr + η | Liq: Sn 0.19; βZr: Sn 0.171; η: Sn 0.381 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 2; `ORC-4RCTNTS4CX` |  |
@@ -134,26 +133,24 @@ Table: Invariant reactions reported in the literature for the Sn–Zr system (36
 | 1600 | peritectoid: β Zr + Zr5Sn3 = Zr4Sn | Zr5Sn3: Sn 0.375, Zr 0.625; Zr4Sn: Sn 0.2, Zr 0.8 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 4; `ORC-Q3MLW5CSMA` |  |
 | 1598 | peritectoid: βZr + η \<-> A15 | βZr: Sn 0.12; η: Sn 0.375; A15: Sn 0.2 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 3; `ORC-B4P5DPUCI7` |  |
 | 1596 | peritectoid: βZr + η \<-> A15 | βZr: Sn 0.121; η: Sn 0.376; A15: Sn 0.205 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 4; `ORC-HIXTATI7VJ` |  |
-| 1595.5 | peritectoid: bcc-A2 + Sn3Zr5 -> SnZr4 | bcc-A2: Zr 0.891; Sn3Zr5: Zr 0.625; SnZr4: Zr 0.8 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 2; `ORC-KEUUNKG25W` |  |
+| 1595.5 | peritectoid: bcc-A2 + Sn3Zr5 -> SnZr4 | bcc-A2: Zr 0.891; Sn3Zr5: Zr 0.625; SnZr4: Zr 0.8 | model | [3] (ed.) 1998 | Table I, p. 308, row 2; `ORC-KEUUNKG25W` |  |
 | 1593 | peritectoid: β Zr + Zr5Sn3 = Zr4Sn | β Zr: Sn 0.118; Zr5Sn3: Sn 0.4; Zr4Sn: Sn 0.2 | model | [2] Subasic 1998 | Table 1, p. 3, row 3; `ORC-QK5FQWGLKL` |  |
-| 1433.3 | peritectoid: Liquid + Sn3Zr5 -> Sn2Zr | Liquid: Zr 0.189; Sn3Zr5: Zr 0.625; Sn2Zr: Zr 0.333 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 4; `ORC-CJBMDYCRRS` |  |
+| 1433.3 | peritectoid: Liquid + Sn3Zr5 -> Sn2Zr | Liquid: Zr 0.189; Sn3Zr5: Zr 0.625; Sn2Zr: Zr 0.333 | model | [3] (ed.) 1998 | Table I, p. 308, row 4; `ORC-CJBMDYCRRS` |  |
 | 1415 | peritectic: Zr5Sn3 + L = ZrSn2 | Zr5Sn3: Sn 0.375, Zr 0.625; ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 6; `ORC-IYMZPKKEDE` |  |
 | 1413 | peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.367; Liq: Sn 0.7896; ZrSn2: Sn 0.667 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 8; `ORC-A37RID3FIJ` |  |
 | 1412 | peritectic: Zr5Sn3 + L = ZrSn2 | Zr5Sn3: Sn 0.4; L: Sn 0.79; ZrSn2: Sn 0.666 | model | [2] Subasic 1998 | Table 1, p. 3, row 5; `ORC-ALJOFWWF55` |  |
 | 1400 | peritectic: η + Liq \<-> ZrSn2 | η: Sn 0.443; Liq: Sn 0.7876; ZrSn2: Sn 0.667 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 9; `ORC-73VCUSHMO3` |  |
 | 1255 | peritectoid: β Zr + Zr4Sn = α Zr | Zr4Sn: Sn 0.2, Zr 0.8 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 8; `ORC-J3GQPADJ3O` |  |
-| 1254 | peritectoid: bcc-A2 + SnZr4 -> hcp-A3 | bcc-A2: Zr 0.968; SnZr4: Zr 0.8; hcp-A3: Zr 0.941 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 3; `ORC-WP2FWRCFXC` |  |
+| 1254 | peritectoid: bcc-A2 + SnZr4 -> hcp-A3 | bcc-A2: Zr 0.968; SnZr4: Zr 0.8; hcp-A3: Zr 0.941 | model | [3] (ed.) 1998 | Table I, p. 308, row 3; `ORC-WP2FWRCFXC` |  |
 | 1253 | peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.051; A15: Sn 0.2; αZr: Sn 0.071 | experimental | [1] Pérez 2008; _cites McPherson 1953_ | Table 5, p. 8, row 5; `ORC-XHHHIMHDEM` |  |
 | 1252 | peritectoid: β Zr + Zr4Sn = α Zr | β Zr: Sn 0.049; Zr4Sn: Sn 0.2; α Zr: Sn 0.073 | model | [2] Subasic 1998 | Table 1, p. 3, row 7; `ORC-6GNT6TICU5` |  |
-| 1216 | peritectoid: βZr + A15 ↔ αZr |  | experimental | [1] Pérez 2008 | p. 9; `ORC-3WB7FAYAD7` | “- The temperature of the peritectoid reaction βZr + A15 ↔ αZr was measured at 1216 K, 40 K below the previously reported values.” |
 | 1216 | peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.045; A15: Sn 0.195; αZr: Sn 0.065 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 7; `ORC-5RJERXXUFV` |  |
 | 1216 | peritectoid: βZr + A15 \<-> αZr | A15: Sn 0.2, Zr 0.8 | experimental | [1] Pérez 2008 | Table 5, p. 8, row 6; `ORC-7ERMFCRLO5` |  |
-| 1216 | peritectoid: A15 + βZr ↔ αZr |  | experimental | [1] Pérez 2008 | p. 5; `ORC-TUPLY75HXB` | “However, we used the temperature of the peritectoid reaction A15 + βZr ↔ αZr determined in the present work, 1216 ± 5 K, which is 40◦ lower than the value reported in Ref. \[1\] and adopted in previous assessments.” |
 | 505 | congruent melting: L = β Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 18; `ORC-IKIJQ763SQ` |  |
 | 504 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 10; `ORC-4GJVC6THQJ` |  |
 | 503 | congruent melting: L = β Sn | β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 17; `ORC-RNQ32FOXFS` |  |
 | 503 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666; β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 9; `ORC-YYT2ZW5FR2` |  |
-| 502 | eutectic: Liquid -> Sn2Zr + bct-A5 | Liquid: Zr 0.0056; Sn2Zr: Zr 0.333; bct-A5: Zr 0 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 5; `ORC-UNHBHIVLVQ` |  |
+| 502 | eutectic: Liquid -> Sn2Zr + bct-A5 | Liquid: Zr 0.0056; Sn2Zr: Zr 0.333; bct-A5: Zr 0 | model | [3] (ed.) 1998 | Table I, p. 308, row 5; `ORC-UNHBHIVLVQ` |  |
 
 ## Formation enthalpies
 
@@ -185,16 +182,6 @@ Table: Enthalpies of formation, Sn–Zr system (20)
 | ZrSn2 |  | -42.905 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 16; `ORC-MCTPON6QTP` |  |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Sn–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 505 K | 505 |  | experimental | [2] Subasic 1998 | p. 2; `ORC-NTW4KLUGEN.7d4984` | “The diamond (A4) modification of tin, here denoted a-Sn, is stable below 286 K, and body - centered tetragonal (A5). here denoted P-Sn, is stable up to melting point which is 505 K.” |
-| Phase transition | 2128 K | 2128 |  | experimental | [2] Subasic 1998 | p. 2; `ORC-AAFDO4EZYI` | “The high temperature form p-Zr is stable to the melting point of zirconium, which is 2128 K.” |
-| Phase transition | 2263 K | 2263 | congruent transformation | experimental | [1] Pérez 2008; _cites Kwon 1992_ [doi](https://doi.org/10.1021/cm00019a035) | p. 2; `ORC-JWYEFRBSWB` | “The phase melts congruently at 2263 K and x = 0.3.” |
 
 ### Phase equilibrium (5)
 
@@ -232,7 +219,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. R. Jerlerud Pérez, C. Toffolon-Masclet, J.-M. Joubert, B. Sundman, The Zr–Sn binary system: New experimental results and thermodynamic assessment, Calphad 32, 593-601 (2008). [doi:10.1016/j.calphad.2008.04.001](https://doi.org/10.1016/j.calphad.2008.04.001)
 2. Nihad Subasic, Thermodynamic evaluation of Sn-Zr phase diagram, Calphad 22, 157-165 (1998). [doi:10.1016/s0364-5916(98)00021-2](https://doi.org/10.1016/s0364-5916%2898%2900021-2)
-3. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+3. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 
 ## Please cite
 

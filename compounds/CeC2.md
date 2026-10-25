@@ -31,14 +31,14 @@ Table: Uncertainty budget of the literature values of CeC2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -40.03 | kJ/mol-atom | 3.7 | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -34.9 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -40.03 | kJ/mol-atom | 3.7 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -34.9 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -32.4 | kJ/mol-atom | 1.8 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1.8 |
 | -31.3 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -29.5 | kJ/mol-atom | 3.5 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -27.2 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -25.4 | kJ/mol-atom | 1.4 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -20.9 | kJ/mol-atom | 7 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 7 |
+| -27.2 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -25.4 | kJ/mol-atom | 1.4 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -20.9 | kJ/mol-atom | 7 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 7 |
 
 ## DFT formation energies
 

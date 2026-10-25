@@ -1,10 +1,10 @@
 # Au–Er system
 
-> Au–Er system: 73 accepted literature values (crystal structure 25, invariant reaction 25, formation 18, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Er system: 68 accepted literature values (crystal structure 25, invariant reaction 25, formation 18) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-ER.html · Markdown: https://data.orchid-project.org/systems/AU-ER.md
 
-73 accepted literature values from 1 paper(s) (experimental 22, model 14, DFT 37); 1 calculated phase diagram(s).
+68 accepted literature values from 1 paper(s) (experimental 20, model 11, DFT 37); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-ER.json) · [CSV](https://data.orchid-project.org/systems/AU-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-ER/AuEr-11Don.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AU-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-ER.html) · [Markdown](https://data.orchid-project.org/systems/AU-ER.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
-| model | 14 |
+| experimental | 20 |
+| model | 11 |
 | DFT | 37 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 25 |
-| phase transition | 5 |
 | formation | 18 |
 | crystal structure | 25 |
 
@@ -117,18 +116,6 @@ Table: Enthalpies of formation, Au–Er system (18)
 | βAuEr | [AuEr](https://data.orchid-project.org/compounds/AuEr.html) | -85.1 kJ/mol-atom | 298.15 | experimental | -86.805 (mp-aaaaaqql) | -86.693 (oqmd-10719) | [1] Dong 2011 | Table 1, p. 3, row 21; `ORC-MTFVAZOC6H.a0e43d` |  |
 
 ## Other properties
-
-### Phase transition (5)
-
-Table: Phase transition, Au–Er system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1583 K | 1583 |  | experimental | [1] Dong 2011; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | p. 5; `ORC-36FE7UNJ3Z.f73ec7` | “The values 1623 K and 1583 K reported in Ref. \[6\] were based on the cooling curve of the DTA analysis.” |
-| Phase transition | 1601 K | 1601 |  | model | [1] Dong 2011 | p. 5; `ORC-4RPOBKOSVJ.22d31e` | “As for the temperature of the two reactions involving Au10 Er7 reported in Ref. \[6\] these were modified to be 1640 K and 1601 K, respectively.” |
-| Phase transition | 1623 K | 1623 |  | experimental | [1] Dong 2011; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | p. 5; `ORC-36FE7UNJ3Z.af01c5` | “The values 1623 K and 1583 K reported in Ref. \[6\] were based on the cooling curve of the DTA analysis.” |
-| Phase transition | 1640 K | 1640 |  | model | [1] Dong 2011 | p. 5; `ORC-4RPOBKOSVJ.f60efb` | “As for the temperature of the two reactions involving Au10 Er7 reported in Ref. \[6\] these were modified to be 1640 K and 1601 K, respectively.” |
-| Phase transition | 1983 K | 1983 |  | model | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | p. 2; `ORC-O2DHBLAG47` | “Later, in 1971, McMasters et al. \[12\] reported the crystal structures of the intermetallic compounds in the Au-Er system, except for that of Au10 Er7 and further established the melting point of AuEr as 1983 ± 10 K.” |
 
 ### Crystal structure (25)
 

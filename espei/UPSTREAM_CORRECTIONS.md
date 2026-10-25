@@ -556,8 +556,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-35KKCWXTVK.ce70bf | ORC-35KKCWXTVK.ce70bf | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r02#equilibrium_property |
 | ORC-TQH35NFF7E.7f567c | ORC-TQH35NFF7E.7f567c | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r07#equilibrium_property |
 | ORC-C6LZ36ISCC.714909 | ORC-C6LZ36ISCC.714909 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r11#equilibrium_property |
-| ORC-H5OATTV4YI.112d07 | ORC-H5OATTV4YI.112d07 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r08#equilibrium_property |
-| ORC-EENBV6JOTY.018b44 | ORC-EENBV6JOTY.018b44 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r23#equilibrium_property |
 | ORC-UHMYIGYWKU.8cb74d | ORC-UHMYIGYWKU.8cb74d | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r24#equilibrium_property |
 | ORC-QE7M3FV2JX.2483a3 | ORC-QE7M3FV2JX.2483a3 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r02#equilibrium_property |
 | ORC-MAQJCN6KZA.38a97c | ORC-MAQJCN6KZA.38a97c | doi:10.1007/s10973-016-5380-3/p5/tab-2/r08#equilibrium_property |
@@ -736,7 +734,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-5EJ2FPR4WK.65e58d | ORC-5EJ2FPR4WK.65e58d | doi:10.1007/s11669-022-00947-8/p6/tab-3/r13#equilibrium_property |
 | ORC-UFI35ARGNT.33d659 | ORC-UFI35ARGNT.33d659 | doi:10.1007/s11669-022-00947-8/p6/tab-3/r14#equilibrium_property |
 | ORC-74E3X52I5V.051343 | ORC-74E3X52I5V.051343 | doi:10.1007/s11669-022-00947-8/p6/tab-3/r15#equilibrium_property |
-| ORC-RNQLUP2DQ2.750eda | ORC-RNQLUP2DQ2.750eda | doi:10.1007/s11669-022-00947-8/p6/tab-3/r16#equilibrium_property |
 | ORC-PI4ZPT7CTE.d7bbce | ORC-PI4ZPT7CTE.d7bbce | doi:10.1007/s11669-022-00947-8/p6/tab-3/r17#equilibrium_property |
 | ORC-QFM5YOHCMB.7da6f4 | ORC-QFM5YOHCMB.7da6f4 | doi:10.1007/s11669-022-00947-8/p6/tab-3/r18#equilibrium_property |
 | ORC-YREA7LF56F.58970b | ORC-YREA7LF56F.58970b | doi:10.1007/s11669-022-00947-8/p6/tab-3/r19#equilibrium_property |
@@ -1285,29 +1282,10 @@ Composition copied from another table row, or a per-formula label on a solution 
 
 | ORCHID id | corpus dataset |
 |---|---|
-| ORC-2CEFS6VVEV.f2095c | general/espei/SnSe-96Feu-LB/hmr-08.json |
-| ORC-6N2AN7HUCW.19aede | general/espei/CaSi-03Gro/hmr-06.json |
-| ORC-6N2AN7HUCW.3066cd | general/espei/CaSi-03Gro/hmr-06.json |
-| ORC-6N2AN7HUCW.51fc9a | general/espei/CaSi-03Gro/hmr-06.json |
-| ORC-6N2AN7HUCW.94409a | general/espei/CaSi-03Gro/hmr-06.json |
-| ORC-6N2AN7HUCW.98b465 | general/espei/CaSi-03Gro/hmr-06.json |
 | ORC-6RAGQTDH2R | general/espei-model/NiSc-13Kar/hmr-model-00.json |
 | ORC-75UNXMBK5U | general/espei-model/NiSc-13Kar/hmr-model-00.json |
-| ORC-A4XBUGH2M5.bd8f2b | general/espei-model/ScSi-15Qin/hmr-model-00.json |
-| ORC-A4XBUGH2M5.d499f5 | general/espei-model/ScSi-15Qin/hmr-model-00.json |
-| ORC-ATSWCPLHI3.ae4c69 | general/espei/NiSi-03Tok/hmr-02.json |
 | ORC-CFKKFJWLEZ.044e9f | general/espei/NiSc-15Zhu/hmr-00.json |
-| ORC-DYBIVMPQDE.50f636 | general/espei/NiSi-03Tok/hmr-00.json |
-| ORC-DYBIVMPQDE.730676 | general/espei/NiSi-03Tok/hmr-00.json |
-| ORC-DYBIVMPQDE.879c78 | general/espei/NiSi-03Tok/hmr-00.json |
-| ORC-DYBIVMPQDE.adbac0 | general/espei/NiSi-03Tok/hmr-00.json |
-| ORC-DYBIVMPQDE.d24349 | general/espei/NiSi-03Tok/hmr-00.json |
-| ORC-F6T2FC7SLV.3a2f60 | general/espei/CaSi-03Gro/hmr-00.json |
-| ORC-F6T2FC7SLV.a78679 | general/espei/CaSi-03Gro/hmr-00.json |
-| ORC-FU4YYPX6NM.31244a | general/espei-model/SnSe-96Feu-LB/hmr-model-00.json |
 | ORC-G4FXYKGDFO | general/espei/NiSc-13Kar/hmr-01.json |
-| ORC-GKI2CB5HSS.528a27 | general/espei/CaSi-03Gro/hmr-04.json |
-| ORC-GZV46W4OLK.6592b0 | general/espei/ScSi-15Qin/hmr-02.json |
 | ORC-JKJIPZOKQZ | general/espei/NiSc-15Zhu/hmr-01.json |
 | ORC-K2FNO4L6GZ | general/espei-model/NiSc-13Kar/hmr-model-01.json |
 | ORC-K3LQZVOONG.cc5000 | general/espei/NiSi-01Tok/hmr-03.json |
@@ -1316,15 +1294,6 @@ Composition copied from another table row, or a per-formula label on a solution 
 | ORC-LDGZFSD3Z2 | general/espei-model/NiSc-13Kar/hmr-model-01.json |
 | ORC-N7GFJ7U2E6 | general/espei-model/NiSc-13Kar/hmr-model-00.json |
 | ORC-O3EIOQGIFV | general/espei-model/NiSc-15Zhu/hmr-model-00.json |
-| ORC-O66YRHEN77.0fbdc8 | general/espei-model/CaSi-03Gro/hmr-model-00.json |
-| ORC-O66YRHEN77.3cc744 | general/espei-model/CaSi-03Gro/hmr-model-00.json |
-| ORC-O66YRHEN77.4524a8 | general/espei-model/CaSi-03Gro/hmr-model-00.json |
-| ORC-O66YRHEN77.aeccce | general/espei-model/CaSi-03Gro/hmr-model-00.json |
-| ORC-O66YRHEN77.c117fe | general/espei-model/CaSi-03Gro/hmr-model-00.json |
-| ORC-SB22WLDX3O.1df120 | general/espei/ScSi-15Qin/hmr-00.json |
-| ORC-SB22WLDX3O.c0fe37 | general/espei/ScSi-15Qin/hmr-00.json |
-| ORC-SXCESCRLPN.cb8c38 | general/espei/SnSe-96Feu-LB/hmr-02.json |
 | ORC-T5CSM3YHCE | general/espei-model/NiSc-13Kar/hmr-model-01.json |
 | ORC-TEJNLXIZH4 | general/espei/NiSc-13Kar/hmr-00.json |
-| ORC-V7VHHJ5GSB.6a43c7 | general/espei/SnSe-96Feu-LB/hmr-05.json |
 | ORC-YU5EUIDIP5 | general/espei-model/NiSc-13Kar/hmr-model-01.json |

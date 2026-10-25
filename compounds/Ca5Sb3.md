@@ -32,7 +32,7 @@ Table: Uncertainty budget of the literature values of Ca5Sb3
 | -96 | per mol-atom | 5 | 0.5 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 5 |
 | -86 | kJ/mol-atom | 6 | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 6 |
 | -84.44 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -96.14 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -96.14 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

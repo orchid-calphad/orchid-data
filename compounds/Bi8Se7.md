@@ -30,9 +30,9 @@ Table: Uncertainty budget of the literature values of Bi8Se7
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -28.607 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -28.612 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -51.813 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -31.136 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -28.656 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -51.813 | kJ/mol-atom |  | 5.000e-5 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -31.136 | kJ/mol-atom |  | 5.000e-5 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -28.656 | kJ/mol-atom |  | 5.000e-5 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

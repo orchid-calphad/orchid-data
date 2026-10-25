@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Hf7Ni10
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -49.99 | kJ/mol (basis unstated) |  | 0.005 | 19.42 (dft, calibrated) |  |  |  | 19.42 |
+| -49.99 | kJ/mol (basis unstated) |  | 0.005 | 20.83 (dft, calibrated) |  |  |  | 20.83 |
 
 ## Sources
 

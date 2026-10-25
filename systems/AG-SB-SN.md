@@ -1,10 +1,10 @@
 # Ag–Sb–Sn system
 
-> Ag–Sb–Sn system: 7 accepted literature values (invariant reaction 5, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Sb–Sn system: 5 accepted literature values (invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-SB-SN.html · Markdown: https://data.orchid-project.org/systems/AG-SB-SN.md
 
-7 accepted literature values from 1 paper(s) (experimental 3, model 4); 0 calculated phase diagram(s).
+5 accepted literature values from 1 paper(s) (experimental 2, model 3); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SB-SN.json) · [CSV](https://data.orchid-project.org/systems/AG-SB-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SB-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-SB-SN.html) · [Markdown](https://data.orchid-project.org/systems/AG-SB-SN.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
-| model | 4 |
+| experimental | 2 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase transition | 2 |
 
 ## Invariant reactions (literature)
 
@@ -33,17 +32,6 @@ Table: Invariant reactions reported in the literature for the Ag–Sb–Sn syste
 | 601.9 | L + ε + SbSn = Sb2Sn3 | L: Ag 0.095, Sb 0.282, Sn 0.623; ε: Ag 0.75, Sb 0.043, Sn 0.207; SbSn: Ag 0, Sb 0.542, Sn 0.458; Sb2Sn3: Ag 0, Sb 0.4, Sn 0.6 | model | [1] Oh 1996 | Table 3, p. 11, row 3; `ORC-3IRMRBF7RD` |  |
 | 508 | L + SbSn = ε + (Sn) | L: Ag 0.05, Sb 0.06, Sn 0.89; SbSn: Ag 0, Sb 0.08, Sn 0.92; ε: Ag 0.74, Sb 0.01, Sn 0.25; (Sn): Ag 0, Sb 0.42, Sn 0.58 | experimental | [1] Oh 1996; _cites Masson 1986_ [doi](https://doi.org/10.1007/bf02661884) | Table 3, p. 11, row 5; `ORC-G3CBLDAZ2J` |  |
 | 504.6 | L + Sb2Sn3 = ε + (Sn) | L: Ag 0.04, Sb 0.074, Sn 0.886; Sb2Sn3: Ag 0, Sb 0.4, Sn 0.6; ε: Ag 0.75, Sb 0.005, Sn 0.245; (Sn): Ag 0.002, Sb 0.093, Sn 0.905 | model | [1] Oh 1996 | Table 3, p. 11, row 4; `ORC-6GXCM6BJWT` |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Ag–Sb–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 502.8 K | 502.8 | other | model | [1] Oh 1996 | p. 10; `ORC-HVOX5GY62D.a63d7a` | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
-| Phase transition | 503 K | 503 | other | experimental | [1] Oh 1996; _cites Loomans 1994_ [doi](https://doi.org/10.1007/bf02651368) | p. 10; `ORC-HVOX5GY62D.6240cb` | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
 
 ## Sources
 

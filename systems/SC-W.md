@@ -1,10 +1,10 @@
 # Sc–W system
 
-> Sc–W system: 4 accepted literature values (mixing / partial 2, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–W system: 2 accepted literature values (mixing / partial 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-W.html · Markdown: https://data.orchid-project.org/systems/SC-W.md
 
-4 accepted literature values from 1 paper(s) (experimental 1, model 3); 2 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (model 2); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-W.json) · [CSV](https://data.orchid-project.org/systems/SC-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-W/ScW-00Kri.json) · [phases (4)](https://data.orchid-project.org/phases/pages/SC-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-W.html) · [Markdown](https://data.orchid-project.org/systems/SC-W.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 3 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
 | mixing / partial | 2 |
 
 ## Calculated phase diagrams
@@ -45,15 +43,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | ScW-15Wan.tdb | 1612.81 | BCC_A2#2 (x(W) 3.000e-5) + HCP_A3 (x(W) 9.300e-4) + BCC_A2 (x(W) 0.99997) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/SC/SC-W.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SC/SC-W.json) · [CALPHAD hull ScW-00Kri](https://data.orchid-project.org/hulls/calphad-sgte/SC/SC-W--ScW-00Kri.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Sc–W system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1783.25 | eutectic: L M bSc + (W) |  | model | [1] Wang 2015 | p. 5; `ORC-EKOZVJPXXD` | “According to the calculation, the temperature and composition of the eutectic reaction (L M bSc + (W)) are 1510.1 °C and 98.35 at.% Sc, which are the same as the experimental data\[17\] basically.” |
-| 1783.15 | eutectic: L -> (W) + bSc |  | experimental | [1] Wang 2015; _cites Dennison 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990089-0) | p. 2; `ORC-UQSHOLRBMO` | “By means of equilibration and quenching method, Dennison et al.\[17\] reported some solubility data of W in liquid Sc and indicated a eutectic reaction: L (98.67 at.% Sc) M (W) + bSc at 1510 °C.” |
 
 ## Other properties
 

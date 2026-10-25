@@ -580,7 +580,7 @@
     "x0": 0.2,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Ru + Ru2Y",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -599,7 +599,7 @@
     "x0": 0.2,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Ru + Ru2Y",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -618,7 +618,7 @@
     "x0": 0.3333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Ru2Y",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -636,7 +636,7 @@
     "x0": 0.3333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Ru2Y",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -730,7 +730,7 @@
     "x0": 0.66,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Ru25Y44 + Ru2Y5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -749,7 +749,7 @@
     "x0": 0.66,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Ru25Y44 + Ru2Y5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -768,7 +768,7 @@
     "x0": 0.7142,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Ru2Y5",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -786,7 +786,7 @@
     "x0": 0.7142,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Ru2Y5",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -842,7 +842,7 @@
     "x0": 0.85,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> RuY3 + αY",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -861,7 +861,7 @@
     "x0": 0.85,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> RuY3 + αY",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

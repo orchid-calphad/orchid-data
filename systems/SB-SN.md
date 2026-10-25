@@ -1,10 +1,10 @@
 # Sb–Sn system
 
-> Sb–Sn system: 96 accepted literature values (invariant reaction 59, phase equilibrium 20, phase transition 17) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Sn system: 67 accepted literature values (invariant reaction 44, phase equilibrium 20, phase transition 3) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-SN.html · Markdown: https://data.orchid-project.org/systems/SB-SN.md
 
-96 accepted literature values from 6 paper(s) (experimental 70, model 20, unspecified 6); 7 calculated phase diagram(s).
+67 accepted literature values from 4 paper(s) (experimental 47, model 14, unspecified 6); 7 calculated phase diagram(s). 29 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-SN.json) · [CSV](https://data.orchid-project.org/systems/SB-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-SN/SbSn-07Kro.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SB-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-SN.html) · [Markdown](https://data.orchid-project.org/systems/SB-SN.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 70 |
-| model | 20 |
+| experimental | 47 |
+| model | 14 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 59 |
-| phase transition | 17 |
+| invariant reaction | 44 |
+| phase transition | 3 |
 | phase equilibrium | 20 |
 
 ## Calculated phase diagrams
@@ -101,7 +101,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sb–Sn system (59)
+Table: Invariant reactions reported in the literature for the Sb–Sn system (44)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -115,81 +115,52 @@ Table: Invariant reactions reported in the literature for the Sb–Sn system (59
 | 698 | L + Rhombohedral_A7 = SbSn | SbSn: Sb 0.5, Sn 0.5 | experimental | [1] Gierlotka 2020; _cites Iwase 1931_ | Table 2, p. 7, row 16; `ORC-TGW6HBIO34` |  |
 | 697.5 | L + Rhombohedral_A7 = SbSn | L: Sb 0.489; Rhombohedral_A7: Sb 0.869; SbSn: Sb 0.674 | model | [1] Gierlotka 2020 | Table 2, p. 7, row 14; `ORC-PZQO2ALOW5` |  |
 | 697.25 | L + Sb = β-SnSb | L: Sn 0.505; Sb: Sn 0.121; β-SnSb: Sn 0.372 | model | [3] Chen 2008 | Table V, p. 10, row 2; `ORC-WXYKAD6FVD` |  |
-| 697.15 | peritectic: L + Sb = b-SnSb |  | model | [3] Chen 2008 | p. 10; `ORC-KKE3CIAUFY.8a175c` | “The temperatures of the three peritectic reactions, L + Sb = b-SnSb, L + b-SnSb = Sn3Sb2, and L + Sn3Sb2 = Sn, are 424C, 323C, and 243C, and the compositions of the b-SnSb phase at the peritectic reactions at 424C and 323C are 62.8 at.%Sb and 47.0 at.%Sb, respectively.” |
 | 697.15 | L + Sb = β-SnSb | β-SnSb: Sn 0.5 | experimental | [3] Chen 2008 | Table V, p. 10, row 1; `ORC-LMNQ67LKGV` |  |
-| 697.15 | peritectic: L + Sb = b-SnSb |  | experimental | [3] Chen 2008 | p. 4; `ORC-SPOTKCB5T5.828f3a` | “Figure 2d shows the DTA heating and cooling curves of the Sn-75.0wt.%Sb alloy. Two reaction peaks are observed, at reaction temperatures of 424C and 549C. The liquidus temperature is 549C, and 424C is the temperature of the L + Sb = b-SnSb peritectic reaction.” |
-| 697.15 | peritectic: L + Sb = b-SnSb |  | model | [3] Chen 2008 | p. 1; `ORC-YHVPXDXYXM.9600d1` | “There are three peritectic reactions in the Sn-Sb system, L + Sb = b-SnSb, L + b-SnSb = Sn3Sb2, and L + Sn3Sb2 = Sn, and their temperatures are 424C, 323C, and 243C, respectively.” |
 | 697 | L + (αSb) ↔ SbSn | L: Sn 0.507; (αSb): Sn 0.119; SbSn: Sn 0.373 | model | [2] Dreval 2017; _cites Chen 2008_ [doi](https://doi.org/10.1007/s11664-008-0464-x) | Table 2, p. 4, row 4; `ORC-3GNGWV4RXH` |  |
 | 697 | L + (αSb) ↔ SbSn | SbSn: Sb 0.5, Sn 0.5 | experimental | [2] Dreval 2017; _cites Chen 2008_ [doi](https://doi.org/10.1007/s11664-008-0464-x) | Table 2, p. 4, row 1; `ORC-FTJ57GXJQQ` |  |
 | 695 | L + Rhombohedral_A7 = SbSn | SbSn: Sb 0.5, Sn 0.5 | experimental | [1] Gierlotka 2020; _cites Loebe 1911_ | Table 2, p. 7, row 19; `ORC-2ASTBEGQDG` |  |
 | 599 | L + SbSn = Sb3Sn4 | SbSn: Sb 0.5, Sn 0.5; Sb3Sn4: Sb 0.428 | unspecified | [1] Gierlotka 2020; _cites Schmetterer 2020_ | Table 2, p. 7, row 13; `ORC-PVMUXWYM3T` |  |
-| 599 | peritectic |  | experimental | [1] Gierlotka 2020 | p. 2; `ORC-YR2WPV4ROX` | “This particular phase is believed to be stable at room temperature and decomposed at peritectic reaction liquid ? SbSn = Sb3Sn4 at 599 K.” |
 | 598 | L + SbSn = Sb3Sn4 | SbSn: Sb 0.5, Sn 0.5; Sb3Sn4: Sb 0.428571, Sn 0.571429 | experimental | [1] Gierlotka 2020; _cites Iwase 1931_ | Table 2, p. 7, row 10; `ORC-7F5J2H7C7H` |  |
 | 598 | L + SbSn ↔ Sb2Sn3 | L: Sn 0.783; SbSn: Sn 0.508; Sb2Sn3: Sn 0.6 | model | [2] Dreval 2017; _cites COST531 Thermodynamic Database Version 3 2008_ | Table 2, p. 4, row 10; `ORC-AGUC67TPP4` |  |
 | 598 | L + SbSn ↔ Sb2Sn3 | SbSn: Sb 0.5, Sn 0.5; Sb2Sn3: Sb 0.4, Sn 0.6 | experimental | [2] Dreval 2017; _cites Iwase 1931_ | Table 2, p. 4, row 8; `ORC-OB2RSM7QK2` |  |
 | 598 | L + SbSn = Sb3Sn4 | SbSn: Sb 0.5, Sn 0.5; Sb3Sn4: Sb 0.428571, Sn 0.571429 | experimental | [1] Gierlotka 2020; _cites Vassiliev 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901243-3) | Table 2, p. 7, row 12; `ORC-OPM4AJPCX2` |  |
-| 598 | peritectic |  | experimental | [1] Gierlotka 2020; _cites Predel 1971_ | p. 2; `ORC-VIMZMY4OHB` | “The Sn3Sb2 phase was decomposed by a peritectic reaction at 598 K.” |
-| 597 | peritectic |  | experimental | [4] Kim 2002; _cites Predel 1971_ | p. 5; `ORC-6C5CXTIBWF.d20e77` | “The Sb2Sn3 forms peritectically at 597 K and transforms by eutectoidal reaction at 515 K into (␣Sn) ⫹ SbSn.” |
 | 597 | L + SbSn = Sb3Sn4 | L: Sb 0.21; SbSn: Sb 0.5, Sn 0.5; Sb3Sn4: Sb 0.43 | experimental | [1] Gierlotka 2020; _cites Predel 1971_ | Table 2, p. 7, row 11; `ORC-6HTIWJDT2O` |  |
 | 597 | L + SbSn ↔ Sb2Sn3 | L: Sn 0.79; SbSn: Sn 0.523; Sb2Sn3: Sn 0.6 | experimental | [2] Dreval 2017; _cites Predel 1971_ | Table 2, p. 4, row 7; `ORC-QLKMX6MGAI` |  |
 | 596.15 | L + β-SnSb = Sn3Sb2 | β-SnSb: Sn 0.5; Sn3Sb2: Sn 0.6 | experimental | [3] Chen 2008 | Table V, p. 10, row 3; `ORC-FEL4FEQYN2` |  |
-| 596.15 | peritectic: L + b-SnSb = Sn3Sb2 |  | model | [3] Chen 2008 | p. 10; `ORC-KKE3CIAUFY.11e34d` | “The temperatures of the three peritectic reactions, L + Sb = b-SnSb, L + b-SnSb = Sn3Sb2, and L + Sn3Sb2 = Sn, are 424C, 323C, and 243C, and the compositions of the b-SnSb phase at the peritectic reactions at 424C and 323C are 62.8 at.%Sb and 47.0 at.%Sb, respectively.” |
-| 596.15 | peritectic: L + b-SnSb = Sn3Sb2 |  | model | [3] Chen 2008 | p. 1; `ORC-YHVPXDXYXM.896f26` | “There are three peritectic reactions in the Sn-Sb system, L + Sb = b-SnSb, L + b-SnSb = Sn3Sb2, and L + Sn3Sb2 = Sn, and their temperatures are 424C, 323C, and 243C, respectively.” |
 | 596 | L + SbSn ↔ Sb2Sn3 | SbSn: Sb 0.5, Sn 0.5; Sb2Sn3: Sn 0.57 | experimental | [2] Dreval 2017; _cites Chen 2008_ [doi](https://doi.org/10.1007/s11664-008-0464-x) | Table 2, p. 4, row 6; `ORC-I7Y5JSFSIR` |  |
 | 596 | L + SbSn ↔ Sb2Sn3 | L: Sn 0.817; SbSn: Sn 0.53; Sb2Sn3: Sn 0.57 | model | [2] Dreval 2017; _cites Chen 2008_ [doi](https://doi.org/10.1007/s11664-008-0464-x) | Table 2, p. 4, row 9; `ORC-ZAO3FPZJSL` |  |
 | 595.65 | L + β-SnSb = Sn3Sb2 | L: Sn 0.815; β-SnSb: Sn 0.53; Sn3Sb2: Sn 0.57 | model | [3] Chen 2008 | Table V, p. 10, row 4; `ORC-W3HLEV4TC4` |  |
 | 595.6 | L + SbSn = Sb3Sn4 | L: Sb 0.194; SbSn: Sb 0.462; Sb3Sn4: Sb 0.428 | model | [1] Gierlotka 2020 | Table 2, p. 7, row 8; `ORC-JFZUR27VT5` |  |
 | 583 | L + SbSn = Sb3Sn4 | SbSn: Sb 0.5, Sn 0.5; Sb3Sn4: Sb 0.428571, Sn 0.571429 | unspecified | [1] Gierlotka 2020; _cites Compliance_ | Table 2, p. 7, row 9; `ORC-CNPP5NKRH3` |  |
-| 523 | peritectic: L þ Sb2Sn3 4 (bSn) |  | experimental | [2] Dreval 2017 | p. 4; `ORC-ALOLKRWCSY` | “The peritectic reaction L þ Sb2Sn3 4 (bSn) occurs at 523 K.” |
 | 523 | L + Sb2Sn3 ↔ (βSn) | L: Sn 0.935; Sb2Sn3: Sn 0.6; (βSn): Sn 0.9 | experimental | [2] Dreval 2017; _cites Predel 1971_ | Table 2, p. 4, row 12; `ORC-CPAAGAZ5JM` |  |
 | 523 | L + Sb3Sn4 = BCT_A5 | L: Sb 0.06; Sb3Sn4: Sb 0.428571, Sn 0.571429; BCT_A5: Sb 0.1 | experimental | [1] Gierlotka 2020; _cites Predel 1971_ | Table 2, p. 7, row 4; `ORC-UXTDQ7DAZC` |  |
-| 522 | peritectic: L þ Sb2Sn3 4 (bSn) |  | experimental | [2] Dreval 2017; _cites Allen 1990_ [doi](https://doi.org/10.1016/0956-716x%2890%2990513-g) | p. 5; `ORC-WU46Z7SY6J` | “On the other hand, Allen and Perepezko \[69\] mentioned that the minimum on the DTA heating curves, 522 K, which corresponds to the completion of the (bSn) melting, is in good agreement with a temperature of the peritectic reaction L þ Sb2Sn3 4 (bSn) detected by Predel and Schwermann \[67\].” |
 | 519 | L + Sb3Sn4 = BCT_A5 | Sb3Sn4: Sb 0.428571, Sn 0.571429 | experimental | [1] Gierlotka 2020; _cites Iwase 1931_ | Table 2, p. 7, row 3; `ORC-D3G6WWVARI` |  |
 | 519 | L + Sb2Sn3 ↔ (βSn) | Sb2Sn3: Sb 0.4, Sn 0.6 | experimental | [2] Dreval 2017; _cites Iwase 1985_ [doi](https://doi.org/10.1016/0021-9614%2885%2990113-2) | Table 2, p. 4, row 11; `ORC-KYUL22ONF2` |  |
 | 519 | L + Sb2Sn3 ↔ (βSn) | L: Sn 0.91; Sb2Sn3: Sn 0.6; (βSn): Sn 0.892 | model | [2] Dreval 2017; _cites COST531 Thermodynamic Database Version 3 2008_ | Table 2, p. 4, row 16; `ORC-YRXNOOSCYB` |  |
 | 518 | L + Sb2Sn3 ↔ (βSn) | Sb2Sn3: Sb 0.4, Sn 0.6 | experimental | [2] Dreval 2017; _cites Allen 1990_ [doi](https://doi.org/10.1016/0956-716x%2890%2990513-g) | Table 2, p. 4, row 13; `ORC-ABHU4L5TJC` |  |
 | 518 | L + Sb2Sn3 ↔ (βSn) | L: Sn 0.936; Sb2Sn3: Sn 0.57; (βSn): Sn 0.892 | model | [2] Dreval 2017; _cites Chen 2008_ [doi](https://doi.org/10.1007/s11664-008-0464-x) | Table 2, p. 4, row 15; `ORC-HQNDI3NPNJ` |  |
-| 518 | eutectic |  | experimental | [1] Gierlotka 2020; _cites Stead 1919_ | p. 2; `ORC-WLT2AY2GVF` | “The eutectic reaction at 518 K in the Sb-Sn system was reported by Stead and Spencer \[12\].” |
 | 518 | L + Sb3Sn4 = BCT_A5 | Sb3Sn4: Sb 0.428571, Sn 0.571429 | experimental | [1] Gierlotka 2020; _cites Vassiliev 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901243-3) | Table 2, p. 7, row 5; `ORC-XRCCKFBC3U` |  |
 | 517.2 | L + Sb3Sn4 = BCT_A5 | L: Sb 0.071; Sb3Sn4: Sb 0.428; BCT_A5: Sb 0.098 | model | [1] Gierlotka 2020 | Table 2, p. 7, row 1; `ORC-P245YVQDZ4` |  |
 | 517 | L + Sb3Sn4 = BCT_A5 | Sb3Sn4: Sb 0.428571, Sn 0.571429 | experimental | [1] Gierlotka 2020; _cites Loebe 1911_ | Table 2, p. 7, row 6; `ORC-BKKEEW2XBB` |  |
 | 517 | L + Sb3Sn4 = BCT_A5 | Sb3Sn4: Sb 0.428 | unspecified | [1] Gierlotka 2020; _cites Schmetterer 2020_ | Table 2, p. 7, row 7; `ORC-YOESY73W3O` |  |
 | 516.15 | L + Sn3Sb2 = Sn | Sn3Sb2: Sn 0.6 | experimental | [3] Chen 2008 | Table V, p. 10, row 5; `ORC-5SR6QGKVSW` |  |
-| 516.15 | peritectic: L + Sn3Sb2 = Sn |  | model | [3] Chen 2008 | p. 10; `ORC-KKE3CIAUFY.992b05` | “The temperatures of the three peritectic reactions, L + Sb = b-SnSb, L + b-SnSb = Sn3Sb2, and L + Sn3Sb2 = Sn, are 424C, 323C, and 243C, and the compositions of the b-SnSb phase at the peritectic reactions at 424C and 323C are 62.8 at.%Sb and 47.0 at.%Sb, respectively.” |
-| 516.15 | peritectic: L + Sn3Sb2 = Sn |  | model | [3] Chen 2008 | p. 1; `ORC-YHVPXDXYXM.fb6417` | “There are three peritectic reactions in the Sn-Sb system, L + Sb = b-SnSb, L + b-SnSb = Sn3Sb2, and L + Sn3Sb2 = Sn, and their temperatures are 424C, 323C, and 243C, respectively.” |
 | 516.05 | L + Sn3Sb2 = Sn | L: Sn 0.938; Sn3Sb2: Sn 0.57; Sn: Sn 0.9 | model | [3] Chen 2008 | Table V, p. 10, row 6; `ORC-XU6PDVTGPD` |  |
 | 516 | L + Sb3Sn4 = BCT_A5 | Sb3Sn4: Sb 0.428571, Sn 0.571429 | unspecified | [1] Gierlotka 2020; _cites Compliance_ | Table 2, p. 7, row 2; `ORC-KRZDVSUDI4` |  |
-| 516 | peritectic: L þ Sb2Sn3 4 (bSn) |  | experimental | [2] Dreval 2017 | p. 5; `ORC-ROPQUM4BKG` | “The reaction temperature of 516 K was interpreted as a peritectic reaction L þ Sb2Sn3 4 (bSn).” |
 | 516 | Sb2Sn3 ↔ SbSn + (βSn) | Sb2Sn3: Sn 0.6; SbSn: Sn 0.545; (βSn): Sn 0.896 | model | [2] Dreval 2017; _cites COST531 Thermodynamic Database Version 3 2008_ | Table 2, p. 4, row 18; `ORC-UHMBFPM4GL` |  |
 | 516 | L + Sb2Sn3 ↔ (βSn) | Sb2Sn3: Sn 0.57 | experimental | [2] Dreval 2017; _cites Chen 2008_ [doi](https://doi.org/10.1007/s11664-008-0464-x) | Table 2, p. 4, row 14; `ORC-UHYRFUBRSB` |  |
-| 515 | eutectoid: Sb2Sn3 4 SbSn þ (bSn) |  | experimental | [2] Dreval 2017; _cites Predel 1971_ | p. 5; `ORC-MRJZ7I7ERE` | “In the case of phase diagram of Chen et al. \[12\], such a reaction is absent, while the diagram of Predel and Schwermann \[67\] gives the eutectoid Sb2Sn3 4 SbSn þ (bSn) equilibrium at 515 K.” |
 | 515 | Sb2Sn3 ↔ SbSn + (βSn) | Sb2Sn3: Sn 0.6; SbSn: Sn 0.57; (βSn): Sn 0.906 | experimental | [2] Dreval 2017; _cites Predel 1971_ | Table 2, p. 4, row 17; `ORC-VRRIUIJD6B` |  |
 
 ## Other properties
 
-### Phase transition (17)
+### Phase transition (3)
 
 Table: Phase transition, Sb–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 514.4 K | 514.4 |  | experimental | [5] Lysenko 2019; _cites Vassiliev 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901243-3) | p. 2; `ORC-UYEUCWUSRV.9ae7bb` | “Their study of Sb0.45Sn0.55 alloy gave three peaks with temperatures of 514.4, 517.3 and 683 K.” |
-| Phase transition | 515 K | 515 | (Sn) + SbSn = Sn3Sb2 | experimental | [1] Gierlotka 2020; _cites Predel 1971_ | p. 2; `ORC-SCL5RCGN5M` | “Predel and Schwermann \[22\] improved the phase diagram and added a Sn3Sb2 compound that was formed at 515 K from (Sn) and SbSn phase.” |
-| Phase transition | 515 K | 515 | Sb2Sn3 -> (␣Sn) + SbSn | experimental | [4] Kim 2002; _cites Predel 1971_ | p. 5; `ORC-6C5CXTIBWF.2c023f` | “The Sb2Sn3 forms peritectically at 597 K and transforms by eutectoidal reaction at 515 K into (␣Sn) ⫹ SbSn.” |
-| Phase transition | 515 K | 515 | other | experimental | [2] Dreval 2017; _cites Predel 1971_ | p. 4; `ORC-BIM77KSRIG` | “According to differential thermal analysis (DTA) measurements \[67\], Sb2Sn3 exists in a narrow temperature range and decomposes at 515 K (Table 2).” |
-| Phase transition | 517 K | 517 | Sb2Sn3=(SbSn)+(Sn) | experimental | [5] Lysenko 2019; _cites Legendre 2001_ | p. 3; `ORC-KOIARPPT6A.c905f3` | “The molar Gibbs energy of formation of the compound Sb0.4Sn0.6 (Sb0.4Sn0.6 1⁄4 1/5 Sb2Sn3) was found by using the values of temperatures of the invariant reactions LþSb2Sn34(Sn) and Sb2Sn34(SbSn)þ(Sn) (519 K and 517 K, respectively \[20,38\]):” |
-| Phase transition | 517.3 K | 517.3 |  | experimental | [5] Lysenko 2019; _cites Vassiliev 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901243-3) | p. 2; `ORC-UYEUCWUSRV.9ecfbf` | “Their study of Sb0.45Sn0.55 alloy gave three peaks with temperatures of 514.4, 517.3 and 683 K.” |
-| Phase transition | 519 K | 519 | L+Sb2Sn3=(Sn) | experimental | [5] Lysenko 2019; _cites Legendre 2001_ | p. 3; `ORC-KOIARPPT6A.ad9611` | “The molar Gibbs energy of formation of the compound Sb0.4Sn0.6 (Sb0.4Sn0.6 1⁄4 1/5 Sb2Sn3) was found by using the values of temperatures of the invariant reactions LþSb2Sn34(Sn) and Sb2Sn34(SbSn)þ(Sn) (519 K and 517 K, respectively \[20,38\]):” |
-| Phase transition | 588 K | 588 | other | experimental | [6] Jönsson 1986; _cites GALLAGHER 1906_ | p. 2; `ORC-MQN5LZCRNA` | “Furthermore, they suggested that the transition was an ordinary first-order transition, in contrast with an earlier study14 in which a higher-order transition at 588 K was reported.” |
-| Phase transition | 593 K | 593 |  | experimental | [2] Dreval 2017; _cites Iwase 1931_ | p. 4; `ORC-HOM3CVHYOV` | “In an earlier study of Iwase et al. \[68\] using DTA, XRD, and metallographic methods, a structural transformation was suggested for the SbSn phase at around 593 K.” |
-| Phase transition | 593 K | 593 | polymorphic | experimental | [6] Jönsson 1986; _cites IWASE 1931_ | p. 2; `ORC-HVLWKYWORH` | “They concluded that there was a compound, SbSn, which had two allotropic modifications and a transition temperature of 593 K.” |
-| Phase transition | 597 K | 597 |  | experimental | [2] Dreval 2017; _cites Predel 1971_ | p. 4; `ORC-GZKETXTXG2` | “The exact composition of this phase was derived by Predel and Schwermann \[67\] from a quantitative evaluation of the thermal effects at a temperature of incongruent melting (597 K) of the phase.” |
-| Phase transition | 598 K | 598 |  | experimental | [1] Gierlotka 2020; _cites Iwase 1931_ | p. 2; `ORC-H7XVIECNBJ` | “In the same work, Iwase et al. \[16\] reported a thermal effect at 598 K and interpreted it as a phase transformation in SbSn.” |
-| Phase transition | 598 K | 598 |  | experimental | [1] Gierlotka 2020; _cites Blondel 1935_ | p. 2; `ORC-K7OIGVYDOJ` | “The phase transformation at 598 K was confirmed by Blondel and Laffitte \[17\], but in contrast to Iwase et al. \[16\] they reported phase transformation in Sb2Sn3.” |
-| Phase transition | 630.35 K | 630.35 | other | experimental | [3] Chen 2008 | p. 4; `ORC-BRQ25SAHN4` | “Figure 2b shows the DTA heating and cooling curves of the Sn-30.0wt.%Sb (Sn-29.5at.%Sb) alloy. Three reaction peaks are observed, at temperatures of 357.2C, 322.6C, and 243.1C, respectively. The reaction temperature of 357.2C is the liquidus temperature.” |
-| Phase transition | 683 K | 683 |  | experimental | [5] Lysenko 2019; _cites Vassiliev 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901243-3) | p. 2; `ORC-UYEUCWUSRV.8d1f9e` | “Their study of Sb0.45Sn0.55 alloy gave three peaks with temperatures of 514.4, 517.3 and 683 K.” |
-| Phase transition | 708 K | 708 | other | model | [6] Jönsson 1986 | p. 4; `ORC-P5JEQKMX5M` | “The SbSn phase is partially ordered with a critical temperature, 708 K for a transition to the state without long-range order, just above the peritectic temperature.” |
-| Phase transition | 822.15 K | 822.15 | other | experimental | [3] Chen 2008 | p. 4; `ORC-SPOTKCB5T5.d8a758` | “Figure 2d shows the DTA heating and cooling curves of the Sn-75.0wt.%Sb alloy. Two reaction peaks are observed, at reaction temperatures of 424C and 549C. The liquidus temperature is 549C, and 424C is the temperature of the L + Sb = b-SnSb peritectic reaction.” |
+| Phase transition | 588 K | 588 | other | experimental | [4] Jönsson 1986; _cites GALLAGHER 1906_ | p. 2; `ORC-MQN5LZCRNA` | “Furthermore, they suggested that the transition was an ordinary first-order transition, in contrast with an earlier study14 in which a higher-order transition at 588 K was reported.” |
+| Phase transition | 593 K | 593 | polymorphic | experimental | [4] Jönsson 1986; _cites IWASE 1931_ | p. 2; `ORC-HVLWKYWORH` | “They concluded that there was a compound, SbSn, which had two allotropic modifications and a transition temperature of 593 K.” |
+| Phase transition | 708 K | 708 | other | model | [4] Jönsson 1986 | p. 4; `ORC-P5JEQKMX5M` | “The SbSn phase is partially ordered with a critical temperature, 708 K for a transition to the state without long-range order, just above the peritectic temperature.” |
 
 ### Phase equilibrium (20)
 
@@ -225,9 +196,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. Wojciech Gierlotka, On the binary Sb–Sn system: ab initio calculation and thermodynamic remodeling, J Mater Sci 55, 347-357 (2020). [doi:10.1007/s10853-019-03934-6](https://doi.org/10.1007/s10853-019-03934-6)
 2. Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017). [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003)
 3. Sinn-Wen Chen, Chih-Chi Chen, Wojcieh Gierlotka, An-Ren Zi, Po-Yin Chen, Hsin-Jay Wu, Phase Equilibria of the Sn-Sb Binary System, Journal of Elec Materi 37, 992-1002 (2008). [doi:10.1007/s11664-008-0464-x](https://doi.org/10.1007/s11664-008-0464-x)
-4. Jong Hoon Kim, Sang Won Jeong, Hyuck Mo Lee, A thermodynamic study of phase equilibria in the Au-Sb-Sn solder system, Journal of Elec Materi 31, 557-563 (2002). [doi:10.1007/s11664-002-0125-4](https://doi.org/10.1007/s11664-002-0125-4)
-5. V.A. Lysenko, Thermodynamic reassessment of the Sb-Sn and In-Sb-Sn systems, Journal of Alloys and Compounds 776, 850-857 (2019). [doi:10.1016/j.jallcom.2018.10.223](https://doi.org/10.1016/j.jallcom.2018.10.223)
-6. B. Jönsson, J. Ågren, Thermodynamic assessment of Sb–Sn system, Materials Science and Technology 2, 913-916 (1986). [doi:10.1179/mst.1986.2.9.913](https://doi.org/10.1179/mst.1986.2.9.913)
+4. B. Jönsson, J. Ågren, Thermodynamic assessment of Sb–Sn system, Materials Science and Technology 2, 913-916 (1986). [doi:10.1179/mst.1986.2.9.913](https://doi.org/10.1179/mst.1986.2.9.913)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Ni–Pt system
 
-> Ni–Pt system: 26 accepted literature values (formation 17, crystal structure 6, phase transition 2, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Pt system: 24 accepted literature values (formation 17, crystal structure 6, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-PT.html · Markdown: https://data.orchid-project.org/systems/NI-PT.md
 
-26 accepted literature values from 2 paper(s) (experimental 6, model 8, DFT 12); 1 calculated phase diagram(s).
+24 accepted literature values from 2 paper(s) (experimental 4, model 4, DFT 16); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-PT.json) · [CSV](https://data.orchid-project.org/systems/NI-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-PT/NiPt-09Lu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/NI-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-PT.html) · [Markdown](https://data.orchid-project.org/systems/NI-PT.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 8 |
-| DFT | 12 |
+| experimental | 4 |
+| model | 4 |
+| DFT | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
 | formation | 17 |
 | mixing / partial | 1 |
 | crystal structure | 6 |
@@ -76,15 +75,6 @@ Table: Enthalpies of formation, Ni–Pt system (17)
 
 ## Other properties
 
-### Phase transition (2)
-
-Table: Phase transition, Ni–Pt system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 853.15 K | 853.15 | other | experimental | [1] Lu 2009; _cites Oriani 1953_ [doi](https://doi.org/10.1016/0001-6160%2853%2990069-8) | p. 2; `ORC-RDVEUYHZ23` | “Oriani and Jones \[10\] determined that the ordering reaction takes place at 580 ◦ C in 25.07 at.% Pt alloy.” |
-| Phase transition | 918.15 K | 918.15 | other | experimental | [1] Lu 2009; _cites Esch 1944_ | p. 2; `ORC-G65GS7RBKI` | “The critical temperature of NiPt was first reported to be 645 ◦ C at the stoichiometric composition by Esch and Schneider \[6\].” |
-
 ### Mixing / partial (1)
 
 Table: Mixing / partial, Ni–Pt system
@@ -99,12 +89,12 @@ Table: Crystal structure, Ni–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.659 Å |  | Ni3Pt; _alloy: Pt 0.25_ | model | [2] Kim 2011 | Table 4, p. 4, row 1; `ORC-PXT3VQMXPM.13c23b` |  |
-| Lattice a; _printed: a_ | 3.844 Å |  | NiPt; _alloy: Pt 0.5_ | model | [2] Kim 2011 | Table 4, p. 4, row 1; `ORC-PXT3VQMXPM.8d4aa5` |  |
+| Lattice a; _printed: a_ | 3.659 Å |  | Ni3Pt; _alloy: Pt 0.25_ | DFT | [2] Kim 2011 | Table 4, p. 4, row 1; `ORC-PXT3VQMXPM.13c23b` |  |
+| Lattice a; _printed: a_ | 3.844 Å |  | NiPt; _alloy: Pt 0.5_ | DFT | [2] Kim 2011 | Table 4, p. 4, row 1; `ORC-PXT3VQMXPM.8d4aa5` |  |
 | Lattice a; _printed: a_ | 3.873 Å |  | NiPt; _alloy: Pt 0.5_ | experimental | [2] Kim 2011; _cites Esch 1944_ | Table 4, p. 4, row 2; `ORC-UQOKJ4NKDP` |  |
-| Lattice a; _printed: a_ | 3.88 Å |  | NiPt3; _alloy: Pt 0.75_ | model | [2] Kim 2011 | Table 4, p. 4, row 1; `ORC-PXT3VQMXPM.602221` |  |
+| Lattice a; _printed: a_ | 3.88 Å |  | NiPt3; _alloy: Pt 0.75_ | DFT | [2] Kim 2011 | Table 4, p. 4, row 1; `ORC-PXT3VQMXPM.602221` |  |
 | Lattice c; _printed: c_ | 3.589 Å |  | NiPt; _alloy: Pt 0.5_ | experimental | [2] Kim 2011; _cites Esch 1944_ | Table 4, p. 4, row 4; `ORC-X4VNVF4ENN` |  |
-| Lattice c; _printed: c_ | 3.625 Å |  | NiPt; _alloy: Pt 0.5_ | model | [2] Kim 2011 | Table 4, p. 4, row 3; `ORC-ZBEUROCPAF` |  |
+| Lattice c; _printed: c_ | 3.625 Å |  | NiPt; _alloy: Pt 0.5_ | DFT | [2] Kim 2011 | Table 4, p. 4, row 3; `ORC-ZBEUROCPAF` |  |
 
 ## Sources
 

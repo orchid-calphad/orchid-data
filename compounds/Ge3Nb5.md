@@ -29,8 +29,8 @@ Table: Uncertainty budget of the literature values of Ge3Nb5
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -42.892 | kJ/mol (basis unstated) |  | 5.000e-4 | 27.2 (model_calculated, calibrated) |  |  |  | 27.2 |
 | -42 | kJ/mol (basis unstated) |  | 0.5 | 27.2 (model_calculated, calibrated) |  |  |  | 27.2 |
-| -46.63 | kJ/mol (basis unstated) |  | 0.005 | 67.78 (dft, calibrated) |  |  |  | 67.78 |
-| -46.53 | kJ/mol (basis unstated) |  | 0.005 | 67.78 (dft, calibrated) |  |  |  | 67.78 |
+| -46.63 | kJ/mol (basis unstated) |  | 0.005 | 63.7 (dft, calibrated) |  |  |  | 63.7 |
+| -46.53 | kJ/mol (basis unstated) |  | 0.005 | 63.7 (dft, calibrated) |  |  |  | 63.7 |
 
 ## Sources
 

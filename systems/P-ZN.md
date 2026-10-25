@@ -1,10 +1,10 @@
 # P–Zn system
 
-> P–Zn system: 92 accepted literature values (formation 34, phase transition 30, invariant reaction 20, crystal structure 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> P–Zn system: 85 accepted literature values (formation 34, phase transition 25, invariant reaction 18, crystal structure 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/P-ZN.html · Markdown: https://data.orchid-project.org/systems/P-ZN.md
 
-92 accepted literature values from 3 paper(s) (experimental 43, model 36, unspecified 13); 0 calculated phase diagram(s).
+85 accepted literature values from 3 paper(s) (experimental 37, model 35, unspecified 13); 0 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/P-ZN.json) · [CSV](https://data.orchid-project.org/systems/P-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-ZN) · [phases (13)](https://data.orchid-project.org/phases/pages/P-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/P-ZN.html) · [Markdown](https://data.orchid-project.org/systems/P-ZN.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
-| model | 36 |
+| experimental | 37 |
+| model | 35 |
 | unspecified | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 20 |
-| phase transition | 30 |
+| invariant reaction | 18 |
+| phase transition | 25 |
 | formation | 34 |
 | crystal structure | 8 |
 
@@ -29,7 +29,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the P–Zn system (20)
+Table: Invariant reactions reported in the literature for the P–Zn system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -39,10 +39,8 @@ Table: Invariant reactions reported in the literature for the P–Zn system (20)
 | 1256.15 | eutectic: L -> βZn3P2 + αZnP2 | L: P 0.56; βZn3P2: P 0.4; αZnP2: P 0.666 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 21; `ORC-5FZG5XPQ3X` |  |
 | 1255.15 | eutectic: L -> βZn3P2 + αZnP2 | L: P 0.56; βZn3P2: P 0.4; αZnP2: P 0.666 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 23; `ORC-L6TQJF5OOW` |  |
 | 1253.15 | eutectic: L -> βZn3P2 + αZnP2 | L: P 0.55; βZn3P2: P 0.4; αZnP2: P 0.666 | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 19; `ORC-BO6LTQWKJF` |  |
-| 1253.15 | eutectic |  | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | p. 2; `ORC-KKEULPQYSB.445087` | “The eutectic temperatures measured by authors of Refs. \[35,36\] are 980 ∘ C and 950 ∘ C, respectively.” |
 | 1253.15 | eutectic: L -> ZnP2 + Zn3P2 | L: P 0.0055; ZnP2: P 0.666667; Zn3P2: P 0.4 | experimental | [1] Liu 2016; _cites Dutkiewlcz 1991_ [doi](https://doi.org/10.1007/bf02645963) | Table 5, p. 6, row 10; `ORC-L46VR7ZA2V` |  |
 | 1223.15 | eutectic: L -> βZn3P2 + αZnP2 | βZn3P2: P 0.4; αZnP2: P 0.666667 | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 20; `ORC-B2WW45SSL5` |  |
-| 1223.15 | eutectic |  | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | p. 2; `ORC-KKEULPQYSB.d0efc7` | “The eutectic temperatures measured by authors of Refs. \[35,36\] are 980 ∘ C and 950 ∘ C, respectively.” |
 | 692.3 | eutectic: L -> (Zn) + αZn3P2 | L: P 7.000e-4; (Zn): P 0; αZn3P2: P 0.4 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 5; `ORC-2V3ZOULXYR` |  |
 | 692.15 | eutectic: L -> (Zn) + αZn3P2 | L: P 0.0066; (Zn): P 0; αZn3P2: P 0.4 | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 2; `ORC-SCRFRWHFTM` |  |
 | 690.9 | eutectic: L -> (Zn) + αZn3P2 | L: P 0.0034; (Zn): P 0; αZn3P2: P 0.4 | model | [2] Ghasemi 2019 | Table 4, p. 6, row 4; `ORC-OGUVAMLDYQ` |  |
@@ -85,24 +83,20 @@ Table: Enthalpies of formation, P–Zn system (20)
 
 ## Other properties
 
-### Phase transition (30)
+### Phase transition (25)
 
 Table: Phase transition, P–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 692.65 K | 692.65 |  | experimental | [1] Liu 2016 | p. 2; `ORC-6NKUKBQLYD.6704bc` | “Large difference in melting points (Zn: 419.5 °C, Si: 1410 °C and P: 590 °C) and low solubility of Si or P in liquid zinc below 1100 °C made it rather difficult to prepare the ternary Zn-Si-P alloys from direct combination of the three elements.” |
-| Phase transition | 863.15 K | 863.15 |  | experimental | [1] Liu 2016 | p. 2; `ORC-6NKUKBQLYD.746a65` | “Large difference in melting points (Zn: 419.5 °C, Si: 1410 °C and P: 590 °C) and low solubility of Si or P in liquid zinc below 1100 °C made it rather difficult to prepare the ternary Zn-Si-P alloys from direct combination of the three elements.” |
 | Phase transition | 1113.15 K | 1113.15 | congruent melting: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Ugai 1968_ | Table 4, p. 6, row 15; `ORC-IBPYZBIGYK` |  |
 | Phase transition | 1118.15 K | 1118.15 | polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Pistorius 1977_ | Table 4, p. 6, row 8; `ORC-XGOCL4GYNI` |  |
 | Phase transition | 1123.15 K | 1123.15 | polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 7; `ORC-GTLLG6A3IR` |  |
 | Phase transition | 1123.15 K | 1123.15 | polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 11; `ORC-JNYOUFZYMX.38acb1` |  |
-| Phase transition | 1123.15 K | 1123.15 | αZn3P2 -> βZn3P2 | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | p. 2; `ORC-P5CTS5K3KL.2786c3` | “The α → β transformation of this phase occurs at 850 ∘ C, while the melting of βZn3 P2 occurs at 1160 ∘ C and according to Schneider and Krumnacker \[36\].” |
 | Phase transition | 1153.15 K | 1153.15 | polymorphic: αZn3P2 -> βZn3P2; _αZn3P2: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 9; `ORC-WUJJT5243Q` |  |
 | Phase transition | 1261.15 K | 1261.15 | polymorphic: αZnP2 -> βZnP2; _αZnP2: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 26; `ORC-ACGSJZXKHZ` |  |
 | Phase transition | 1263.15 K | 1263.15 | polymorphic: αZnP2 -> βZnP2; _αZnP2: P 0.666; βZnP2: P 0.666667_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 24; `ORC-K43AVFS6WB` |  |
 | Phase transition | 1263.15 K | 1263.15 | polymorphic: αZnP2 -> βZnP2; _αZnP2: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 25; `ORC-WRTZW4POX3.7b4950` |  |
-| Phase transition | 1263.15 K | 1263.15 | αZnP2 -> βZnP2 | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | p. 3; `ORC-57BHKU3KY2.9e14d5` | “Furthermore, βZnP2 melts at 1040 ∘ C and undergoes the α → β transformation at 990 ∘ C as reported by Berak and Pruchnik \[35\].” |
 | Phase transition | 1307.15 K | 1307.15 | congruent melting: L -> ZnP2; _L: P 0.00667; ZnP2: P 0.666667_ | unspecified | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 5, p. 6, row 12; `ORC-HVCN7YAVZ6` |  |
 | Phase transition | 1311.15 K | 1311.15 | congruent melting: L -> βZnP2; _L: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 30; `ORC-YC5SEWQGAQ` |  |
 | Phase transition | 1311.55 K | 1311.55 | congruent melting: L -> ZnP2; _L: P 0.00667; ZnP2: P 0.666667_ | unspecified | [1] Liu 2016 | Table 5, p. 6, row 11; `ORC-LFVTWBMQZ5` |  |
@@ -111,7 +105,6 @@ Table: Phase transition, P–Zn system
 | Phase transition | 1313.15 K | 1313.15 | congruent melting: L -> βZnP2; _L: P 0.666; βZnP2: P 0.666_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 28; `ORC-XHYKPYHTYS` |  |
 | Phase transition | 1313.15 K | 1313.15 | congruent melting: L -> βZnP2; _L: P 0.666667; βZnP2: P 0.666667_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 31; `ORC-YYRJ2BOT42` |  |
 | Phase transition | 1313.15 K | 1313.15 | βZnP2 + liquid | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | p. 3; `ORC-57BHKU3KY2.9c7950` | “Furthermore, βZnP2 melts at 1040 ∘ C and undergoes the α → β transformation at 990 ∘ C as reported by Berak and Pruchnik \[35\].” |
-| Phase transition | 1413.15 K | 1413.15 | other | model | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | p. 4; `ORC-TAZIG7ZT4A` | “The calculated phase diagram using the optimized parameters by Tu et al. \[13\] shows an inverted miscibility gap in the liquid phase appearing at about 1140 ∘ C with no maximum temperature (Fig. 1(a)).” |
 | Phase transition | 1433.15 K | 1433.15 | congruent melting: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | Table 4, p. 6, row 13; `ORC-YXHAVLOBHQ` |  |
 | Phase transition | 1433.15 K | 1433.15 | βZn3P2 + liquid | experimental | [2] Ghasemi 2019; _cites Schneider 1973_ | p. 2; `ORC-P5CTS5K3KL.ad95e2` | “The α → β transformation of this phase occurs at 850 ∘ C, while the melting of βZn3 P2 occurs at 1160 ∘ C and according to Schneider and Krumnacker \[36\].” |
 | Phase transition | 1436.15 K | 1436.15 | congruent melting: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | model | [2] Ghasemi 2019 | Table 4, p. 6, row 18; `ORC-HH4W5H77OI` |  |

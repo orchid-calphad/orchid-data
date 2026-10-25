@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of Bi3Gd5
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -87.4 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -76 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -74.2502 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -74.2502 | kJ/mol-atom |  | 5.000e-6 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

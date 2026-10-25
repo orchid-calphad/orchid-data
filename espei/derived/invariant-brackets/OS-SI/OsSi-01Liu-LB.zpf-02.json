@@ -321,7 +321,7 @@
     "x0": 0.6,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid = Os2Si3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -339,7 +339,7 @@
     "x0": 0.6,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid = Os2Si3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

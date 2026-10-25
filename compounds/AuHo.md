@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of AuHo
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -81.8 | kJ/mol-atom | 3.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.6 |
+| -81.8 | kJ/mol-atom | 3.6 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.6 |
 | -86 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -67.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -87.5 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -64.1 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -87.5 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -64.1 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

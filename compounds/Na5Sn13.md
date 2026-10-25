@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Na5Sn13
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -2.025 | eV |  | 5.000e-4 | 0.6147 (dft, calibrated) |  |  |  | 0.6147 |
-| -1.843 | eV |  | 5.000e-4 | 0.6147 (dft, calibrated) |  |  |  | 0.6147 |
+| -2.025 | eV |  | 5.000e-4 | 0.5776 (dft, calibrated) |  |  |  | 0.5776 |
+| -1.843 | eV |  | 5.000e-4 | 0.5776 (dft, calibrated) |  |  |  | 0.5776 |
 
 ## Sources
 

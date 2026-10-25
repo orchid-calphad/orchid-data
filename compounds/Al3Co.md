@@ -1,21 +1,20 @@
 # Al3Co: enthalpy of formation
 
-> Enthalpy of formation of Al3Co: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al3Co: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al3Co.html · Markdown: https://data.orchid-project.org/compounds/Al3Co.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -39.153 kJ/mol-atom (mp-aaacrxmd); OQMD -20.871 kJ/mol-atom (oqmd-349288).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -39.153 kJ/mol-atom (mp-aaacrxmd); OQMD -20.871 kJ/mol-atom (oqmd-349288).
 
 Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al3Co reported in the literature (2)
+Table: Enthalpy of formation of Al3Co reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -22.6 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 13; `ORC-XLXYXK24GA.6151be` |  |
-| -20.035 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 12; `ORC-TUUJIMUBHE.9d62d8` |  |
 
 ### Uncertainty budget
 
@@ -26,7 +25,6 @@ Table: Uncertainty budget of the literature values of Al3Co
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -22.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -20.035 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

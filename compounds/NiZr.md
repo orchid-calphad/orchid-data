@@ -44,9 +44,9 @@ Table: Uncertainty budget of the literature values of NiZr
 | -48.369 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -48.243 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -46.23 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -48.384 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -48.137 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -43.997 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -48.384 | kJ/mol-atom |  | 5.000e-5 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -48.137 | kJ/mol-atom |  | 5.000e-5 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -43.997 | kJ/mol-atom |  | 5.000e-5 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

@@ -70,7 +70,7 @@
     "x0": 0.69,
     "hyperplane_delta": 0.0050000000000000044,
     "reaction_printed": "L -> β + γ",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

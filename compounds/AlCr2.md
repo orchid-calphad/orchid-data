@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AlCr2.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -10.878 kJ/mol-atom (n = 1); Materials Project -11.845 kJ/mol-atom (mp-aaaaacnj); OQMD -13.209 kJ/mol-atom (oqmd-10426).
 
-Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) · [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)
+Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)
 
 ## Literature values
 
@@ -15,7 +15,7 @@ Table: Enthalpy of formation of AlCr2 reported in the literature (2)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -10.878 kJ/mol-atom | AlCr2 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 6; `ORC-EETNVIZ5K6.6a6052` |  |
-| -12.954 kJ/mol-atom | AlCr2 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 7; `ORC-NY6PFXQEED.3bc9c7` |  |
+| -12.954 kJ/mol-atom | AlCr2 | 1 | model |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986 | Table 4, p. 8, row 7; `ORC-NY6PFXQEED.3bc9c7` |  |
 
 ### Uncertainty budget
 

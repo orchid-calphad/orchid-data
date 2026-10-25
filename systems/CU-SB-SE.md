@@ -1,10 +1,10 @@
 # Cu–Sb–Se system
 
-> Cu–Sb–Se system: 52 accepted literature values (crystal structure 33, invariant reaction 16, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sb–Se system: 49 accepted literature values (crystal structure 33, invariant reaction 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SB-SE.html · Markdown: https://data.orchid-project.org/systems/CU-SB-SE.md
 
-52 accepted literature values from 1 paper(s) (experimental 36, model 16); 0 calculated phase diagram(s).
+49 accepted literature values from 1 paper(s) (experimental 33, model 16); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SB-SE.json) · [CSV](https://data.orchid-project.org/systems/CU-SB-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SB-SE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SB-SE.html) · [Markdown](https://data.orchid-project.org/systems/CU-SB-SE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 36 |
+| experimental | 33 |
 | model | 16 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
-| phase transition | 3 |
 | crystal structure | 33 |
 
 ## Invariant reactions (literature)
@@ -47,16 +46,6 @@ Table: Invariant reactions reported in the literature for the Cu–Sb–Se syste
 | 672 | eutectic: L2 = Cu3SbSe4(r) + Sb2Se3 + L3 |  | model | [1] Liu 2023 | Table 3, p. 8, row 17; `ORC-FR5ADL7N3O` |  |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Cu–Sb–Se system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 752 K | 752 |  | experimental | [1] Liu 2023; _cites Shtykova 2022_ [doi](https://doi.org/10.1016/j.jallcom.2022.164384) | p. 13; `ORC-AISKYWXOOM.67f655` | “The melting temperatures of A(Cu3SbSe3), B(CuSbSe2), and C(CuSb3Se5) are 803, 752 and 800 K, respectively, and were measured by Shtykova et al.\[53\] by DTA.” |
-| Phase transition | 800 K | 800 |  | experimental | [1] Liu 2023; _cites Shtykova 2022_ [doi](https://doi.org/10.1016/j.jallcom.2022.164384) | p. 13; `ORC-AISKYWXOOM.6dfeb2` | “The melting temperatures of A(Cu3SbSe3), B(CuSbSe2), and C(CuSb3Se5) are 803, 752 and 800 K, respectively, and were measured by Shtykova et al.\[53\] by DTA.” |
-| Phase transition | 803 K | 803 |  | experimental | [1] Liu 2023; _cites Shtykova 2022_ [doi](https://doi.org/10.1016/j.jallcom.2022.164384) | p. 13; `ORC-AISKYWXOOM.5155a6` | “The melting temperatures of A(Cu3SbSe3), B(CuSbSe2), and C(CuSb3Se5) are 803, 752 and 800 K, respectively, and were measured by Shtykova et al.\[53\] by DTA.” |
 
 ### Crystal structure (33)
 

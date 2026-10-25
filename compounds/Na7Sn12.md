@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Na7Sn12
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -3.421 | eV |  | 5.000e-4 | 0.7025 (dft, calibrated) |  |  |  | 0.7025 |
-| -3.335 | eV |  | 5.000e-4 | 0.7025 (dft, calibrated) |  |  |  | 0.7025 |
+| -3.421 | eV |  | 5.000e-4 | 0.6602 (dft, calibrated) |  |  |  | 0.6602 |
+| -3.335 | eV |  | 5.000e-4 | 0.6602 (dft, calibrated) |  |  |  | 0.6602 |
 
 ## Sources
 

@@ -1,24 +1,12 @@
 # Nb–Sb system
 
-> Nb–Sb system: 3 accepted literature values (phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Sb system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-SB.html · Markdown: https://data.orchid-project.org/systems/NB-SB.md
 
-3 accepted literature values from 1 paper(s) (experimental 3); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-SB.json) · [CSV](https://data.orchid-project.org/systems/NB-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-SB/NbSb-22Li.json) · [phases (8)](https://data.orchid-project.org/phases/pages/NB-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-SB.html) · [Markdown](https://data.orchid-project.org/systems/NB-SB.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 3 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 3 |
 
 ## Calculated phase diagrams
 
@@ -45,24 +33,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | NbSb-22Li.tdb | 902.75 | NBSB2 (x(Sb) 0.66667) + LIQUID (x(Sb) 0.99701) + RHOMBOHEDRAL_A7 (x(Sb) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/NB/NB-SB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/NB/NB-SB.json)
-
-## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Nb–Sb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1353 K | 1353 | other | experimental | [1] Li 2022; _cites Failamani 2015_ [doi](https://doi.org/10.1016/j.intermet.2015.05.006) | p. 5; `ORC-VCGHUCB5FB.d6bc1a` | “This research verified that the system only contained three compounds (Nb3 Sb, Nb5 Sb4 , and NbSb2 ), and the corresponding decomposition temperature is 2023 K, 1593 K and 1353 K, respectively.” |
-| Phase transition | 1593 K | 1593 | other | experimental | [1] Li 2022; _cites Failamani 2015_ [doi](https://doi.org/10.1016/j.intermet.2015.05.006) | p. 5; `ORC-VCGHUCB5FB.fcdeee` | “This research verified that the system only contained three compounds (Nb3 Sb, Nb5 Sb4 , and NbSb2 ), and the corresponding decomposition temperature is 2023 K, 1593 K and 1353 K, respectively.” |
-| Phase transition | 2023 K | 2023 | other | experimental | [1] Li 2022; _cites Failamani 2015_ [doi](https://doi.org/10.1016/j.intermet.2015.05.006) | p. 5; `ORC-VCGHUCB5FB.023592` | “This research verified that the system only contained three compounds (Nb3 Sb, Nb5 Sb4 , and NbSb2 ), and the corresponding decomposition temperature is 2023 K, 1593 K and 1353 K, respectively.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Xiaofang Li, Zhou Li, Sichen Duan, Dandan Qin, Qingmei Wang, Chen Chen et al., Thermodynamic approaches to determine the vacancy concentration in defective Nb1-CoSb half-Heusler thermoelectric materials, Acta Materialia 228, 117736 (2022). [doi:10.1016/j.actamat.2022.117736](https://doi.org/10.1016/j.actamat.2022.117736)
 
 ## Please cite
 

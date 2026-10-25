@@ -382,7 +382,7 @@
     "x0": 0.214286,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Al11La3-β",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -495,7 +495,7 @@
     "x0": 0.214286,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Al11La3-β -> Al11La3-α",
-    "reaction_type": null,
+    "reaction_type": "polymorphic",
     "phases_above": [
      "AL11LA3_D13"
     ],
@@ -513,7 +513,7 @@
     "x0": 0.214286,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Al11La3-β -> Al11La3-α",
-    "reaction_type": null,
+    "reaction_type": "polymorphic",
     "phases_above": [
      "AL11LA3_D13"
     ],

@@ -1,10 +1,10 @@
 # Eu–Te system
 
-> Eu–Te system: 23 accepted literature values (invariant reaction 20, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Eu–Te system: 12 accepted literature values (invariant reaction 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/EU-TE.html · Markdown: https://data.orchid-project.org/systems/EU-TE.md
 
-23 accepted literature values from 1 paper(s) (experimental 12, model 11); 2 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 7, model 5); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/EU-TE.json) · [CSV](https://data.orchid-project.org/systems/EU-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-TE/EuTe-15Gha.json) · [phases (6)](https://data.orchid-project.org/phases/pages/EU-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-TE.html) · [Markdown](https://data.orchid-project.org/systems/EU-TE.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 11 |
+| experimental | 7 |
+| model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 20 |
-| phase transition | 3 |
+| invariant reaction | 12 |
 
 ## Calculated phase diagrams
 
@@ -60,42 +59,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Eu–Te system (20)
+Table: Invariant reactions reported in the literature for the Eu–Te system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1806 | congruent melting: Liq \<-> (EuTe) | Liq: Te 0.5; (EuTe): Te 0.5 | experimental | [1] Ghamri 2015; _cites Sadovskaya 1970_ | Table 3, p. 4, row 5; `ORC-CZCLW5ROZH` |  |
 | 1799.09 | congruent melting: Liq \<-> (EuTe) | Liq: Te 0.5; (EuTe): Te 0.5 | model | [1] Ghamri 2015 | Table 3, p. 4, row 6; `ORC-7MSTEFFLXR` |  |
 | 1799 | congruent melting: Liq \<-> (EuTe) | Liq: Te 0.5; (EuTe): Te 0.5 | experimental | [1] Ghamri 2015; _cites Okamoto 1990_ | Table 3, p. 4, row 4; `ORC-EBXFHAXBRN` |  |
-| 1071 | eutectic: L -> (Eu) + (EuTe) |  | experimental | [1] Ghamri 2015; _cites Sadovskaya 1970_ | p. 1; `ORC-335X44KJXU.234b21` | “The congruent melting temperature of (EuTe) and the temperature of the eutectic reaction: L M (Eu) + (EuTe) were reported to be 1806 K and 1071 K by Sadovskaya and Yarembash \[7\], while Okamoto \[6\] speculated them to be 1799 K and (1053 ± 5) K, respectively.” |
 | 1071 | eutectic: Liq \<-> (Eu) + (EuTe) | (Eu): Te 0; (EuTe): Te 0.5 | experimental | [1] Ghamri 2015; _cites Sadovskaya 1970_ | Table 3, p. 4, row 2; `ORC-LF6KJKKQAO` |  |
 | 1053.19 | eutectic: Liq \<-> (Eu) + (EuTe) | Liq: Te 0.0282; (Eu): Te 0; (EuTe): Te 0.5 | model | [1] Ghamri 2015 | Table 3, p. 4, row 3; `ORC-ER5V3BOXTB` |  |
-| 1053.19 | eutectic: L -> (Eu) + (EuTe) |  | model | [1] Ghamri 2015 | p. 6; `ORC-IEBGSTS6R6.8f0ed3` | “It is indicated that the temperatures of the congruent melting point and the eutectic reaction: L M (Eu) + (EuTe) are calculated to be 1799.09 and 1053.19 K, respectively, instead of 1806 and 1071 K proposed by Sadovskaya and Yarembash \[7\].” |
 | 1053 | eutectic: Liq \<-> (Eu) + (EuTe) | (Eu): Te 0; (EuTe): Te 0.5 | experimental | [1] Ghamri 2015; _cites Okamoto 1990_ | Table 3, p. 4, row 1; `ORC-QFSQMZK4KT` |  |
 | 793.2 | peritectic: Liq + (EuTe) \<-> Eu4Te7 | Liq: Te 0.9268; (EuTe): Te 0.571; Eu4Te7: Te 0.714 | model | [1] Ghamri 2015 | Table 3, p. 4, row 8; `ORC-HIH32OIFKO` |  |
-| 793.2 | peritectic |  | model | [1] Ghamri 2015 | p. 6; `ORC-ZVYMAQSCVR.31fcda` | “The calculated peritectic temperatures of the compounds Eu4Te7 and Eu3Te7 are 793.20 and 703.09 K, respectively, and the calculated temperature of the eutectic reaction: L M (Te) + Eu3Te7 is 683.23 K.” |
 | 793 | peritectic: Liq + (EuTe) \<-> Eu4Te7 | (EuTe): Te 0.571; Eu4Te7: Te 0.714 | experimental | [1] Ghamri 2015; _cites Sadovskaya 1970_ | Table 3, p. 4, row 7; `ORC-MGOA3HNQOH` |  |
-| 793 | peritectic |  | experimental | [1] Ghamri 2015; _cites Okamoto 1990_ | p. 1; `ORC-SKZZG5F4BC.f62414` | “The (EuTe) phase melts congruently and exhibits an appreciable solubility range \[6-8\], whereas the Eu4Te7 and Eu3Te7 phases form as stoichiometric compounds as a product of peritectic reactions at about 793 K and 703 K, respectively.” |
 | 703.09 | peritectic: Liq + Eu4Te7 \<-> Eu3Te7 | Liq: Te 0.9551; Eu4Te7: Te 0.636; Eu3Te7: Te 0.7 | model | [1] Ghamri 2015 | Table 3, p. 4, row 10; `ORC-HIINJLMXNF` |  |
-| 703.09 | peritectic |  | model | [1] Ghamri 2015 | p. 6; `ORC-ZVYMAQSCVR.7c6d66` | “The calculated peritectic temperatures of the compounds Eu4Te7 and Eu3Te7 are 793.20 and 703.09 K, respectively, and the calculated temperature of the eutectic reaction: L M (Te) + Eu3Te7 is 683.23 K.” |
 | 703 | peritectic: Liq + Eu4Te7 \<-> Eu3Te7 | Eu4Te7: Te 0.636; Eu3Te7: Te 0.7 | experimental | [1] Ghamri 2015; _cites Sadovskaya 1970_ | Table 3, p. 4, row 9; `ORC-6HAGDLRAYG` |  |
-| 703 | peritectic |  | experimental | [1] Ghamri 2015; _cites Okamoto 1990_ | p. 1; `ORC-SKZZG5F4BC.a00751` | “The (EuTe) phase melts congruently and exhibits an appreciable solubility range \[6-8\], whereas the Eu4Te7 and Eu3Te7 phases form as stoichiometric compounds as a product of peritectic reactions at about 793 K and 703 K, respectively.” |
 | 683.23 | eutectic: Liq \<-> (Te) + Eu3Te7 | Liq: Te 0.9616; (Te): Te 1; Eu3Te7: Te 0.7 | model | [1] Ghamri 2015 | Table 3, p. 4, row 12; `ORC-QAYXZHYVS5` |  |
-| 683.23 | eutectic: L -> (Te) + Eu3Te7 |  | model | [1] Ghamri 2015 | p. 6; `ORC-ZVYMAQSCVR.d370a1` | “The calculated peritectic temperatures of the compounds Eu4Te7 and Eu3Te7 are 793.20 and 703.09 K, respectively, and the calculated temperature of the eutectic reaction: L M (Te) + Eu3Te7 is 683.23 K.” |
 | 683 | eutectic: Liq \<-> (Te) + Eu3Te7 | (Te): Te 1; Eu3Te7: Te 0.7 | experimental | [1] Ghamri 2015; _cites Sadovskaya 1970_ | Table 3, p. 4, row 11; `ORC-CLFDKA6OEN` |  |
-| 683 | eutectic: L -> (Te) + (Eu3Te7) |  | experimental | [1] Ghamri 2015 | p. 1; `ORC-LFG5EZAVQM` | “There are two eutectic reactions: L M (Eu) + (EuTe) and L M (Te) + (Eu3Te7), the second one occurring at about 683 K.” |
-
-## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Eu–Te system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1799 K | 1799 | congruent transformation | model | [1] Ghamri 2015; _cites Okamoto 1990_ | p. 1; `ORC-335X44KJXU.d261ad` | “The congruent melting temperature of (EuTe) and the temperature of the eutectic reaction: L M (Eu) + (EuTe) were reported to be 1806 K and 1071 K by Sadovskaya and Yarembash \[7\], while Okamoto \[6\] speculated them to be 1799 K and (1053 ± 5) K, respectively.” |
-| Phase transition | 1799.09 K | 1799.09 | congruent transformation | model | [1] Ghamri 2015 | p. 6; `ORC-IEBGSTS6R6.0b0ed1` | “It is indicated that the temperatures of the congruent melting point and the eutectic reaction: L M (Eu) + (EuTe) are calculated to be 1799.09 and 1053.19 K, respectively, instead of 1806 and 1071 K proposed by Sadovskaya and Yarembash \[7\].” |
-| Phase transition | 1806 K | 1806 | congruent transformation | experimental | [1] Ghamri 2015; _cites Sadovskaya 1970_ | p. 1; `ORC-335X44KJXU.c94fa3` | “The congruent melting temperature of (EuTe) and the temperature of the eutectic reaction: L M (Eu) + (EuTe) were reported to be 1806 K and 1071 K by Sadovskaya and Yarembash \[7\], while Okamoto \[6\] speculated them to be 1799 K and (1053 ± 5) K, respectively.” |
 
 ## Sources
 

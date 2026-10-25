@@ -1,10 +1,10 @@
 # Cr–P system
 
-> Cr–P system: 3 accepted literature values (activity / EMF / Gibbs energy 2, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–P system: 2 accepted literature values (activity / EMF / Gibbs energy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-P.html · Markdown: https://data.orchid-project.org/systems/CR-P.md
 
-3 accepted literature values from 1 paper(s) (model 3); 2 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (model 2); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-P.json) · [CSV](https://data.orchid-project.org/systems/CR-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-P/CrP-14Mie.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CR-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-P.html) · [Markdown](https://data.orchid-project.org/systems/CR-P.md)
 
@@ -12,13 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 3 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | activity / EMF / Gibbs energy | 2 |
 
 ## Calculated phase diagrams
@@ -46,14 +45,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CrP-99Mie-LB.tdb | 1644.99 | BCC_A2 (x(P) 1.000e-4) + LIQUID (x(P) 0.13374) + M3P_D0E (x(P) 0.25) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CR/CR-P.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CR/CR-P.json) · [CALPHAD hull CrP-99Mie-LB](https://data.orchid-project.org/hulls/calphad-sgte/CR/CR-P--CrP-99Mie-LB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cr–P system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1645.15 | eutectic |  | model | [1] Miettinen 1999 | p. 4; `ORC-YSJBG7JW4S` | “'Gcrp = 2'Gcrbcc+ oGpwhite-p -159530+5T gave a low solubility of phosphorus in the bee phase (O.OOSwt%at Here, the bee interaction parameter, Lc,,rbCC, the calculated eutectic temperature of 1372'C) which agrees reasonably well with the "very slow" solubility suggested by experimental studies (6,7).” |
 
 ## Other properties
 

@@ -252,7 +252,7 @@
     "x0": 0.017,
     "hyperplane_delta": 0.0085,
     "reaction_printed": "Liquid -> (Ga) + Ga14Li3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -271,7 +271,7 @@
     "x0": 0.017,
     "hyperplane_delta": 0.0085,
     "reaction_printed": "Liquid -> (Ga) + Ga14Li3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

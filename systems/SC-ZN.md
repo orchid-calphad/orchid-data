@@ -1,10 +1,10 @@
 # Sc–Zn system
 
-> Sc–Zn system: 38 accepted literature values (crystal structure 22, invariant reaction 14, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–Zn system: 37 accepted literature values (crystal structure 22, invariant reaction 13, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-ZN.html · Markdown: https://data.orchid-project.org/systems/SC-ZN.md
 
-38 accepted literature values from 1 paper(s) (experimental 18, model 9, DFT 11); 1 calculated phase diagram(s).
+37 accepted literature values from 1 paper(s) (experimental 18, model 8, DFT 11); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-ZN.json) · [CSV](https://data.orchid-project.org/systems/SC-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-ZN/ScZn-12Tan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/SC-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-ZN.html) · [Markdown](https://data.orchid-project.org/systems/SC-ZN.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 18 |
-| model | 9 |
+| model | 8 |
 | DFT | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 13 |
 | phase transition | 2 |
 | crystal structure | 22 |
 
@@ -57,14 +57,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sc–Zn system (14)
+Table: Invariant reactions reported in the literature for the Sc–Zn system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1607.15 | eutectic: βSc -> Liquid+αSc | βSc: Zn 0.0016; L: Zn 0.0977; αSc: Zn 0.0014 | model | [1] Tang 2012 | Table 3, p. 6, row 1; `ORC-UPB2MI7EIT` |  |
 | 1298.15 | peritectic: Liquid+ScZn -> ScZn2 | L: Zn 0.6893; ScZn: Zn 0.5; ScZn2: Zn 0.6667 | model | [1] Tang 2012 | Table 3, p. 6, row 5; `ORC-ERUFYSMC4W` |  |
 | 1298.15 | peritectic: Liquid+ScZn -> ScZn2 | ScZn: Zn 0.5; ScZn2: Zn 0.666667 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 4; `ORC-L65ZWIMIMA` |  |
-| 1223.15 | eutectic: liquid = ScZn+αSc |  | model | [1] Tang 2012 | p. 6; `ORC-6BXQXI6IQG` | “According to the present calculation, the computed eutectic reaction: liquid = ScZn+αSc is located at 950 oC and 77.45 at.% Sc.” |
 | 1223.15 | eutectic: Liquid -> ScZn+Hcp_A3 | L: Zn 0.2455; ScZn: Zn 0.5; Hcp_A3: Zn 0.0024 | model | [1] Tang 2012 | Table 3, p. 6, row 7; `ORC-CA4QR65O2Z` |  |
 | 1223.15 | eutectic: Liquid -> ScZn+Hcp_A3 | ScZn: Zn 0.5 | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 6; `ORC-COM27GRCV3` |  |
 | 1093.15 | peritectic: Liquid+ScZn2 -> Sc13Zn58 | L: Zn 0.8392; ScZn2: Zn 0.6667; Sc13Zn58: Zn 0.8169 | model | [1] Tang 2012 | Table 3, p. 6, row 9; `ORC-MAF4T4LLFW` |  |

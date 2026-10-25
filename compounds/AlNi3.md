@@ -1,16 +1,16 @@
 # AlNi3: enthalpy of formation
 
-> Enthalpy of formation of AlNi3: 30 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AlNi3: 29 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AlNi3.html · Markdown: https://data.orchid-project.org/compounds/AlNi3.md
 
-30 accepted literature formation-enthalpy value(s) (experimental 17, model 12, DFT 1); experimental median -40.6 kJ/mol-atom (n = 7); Materials Project -41.884 kJ/mol-atom (mp-aaaaadvt); OQMD -42.323 kJ/mol-atom (oqmd-17890).
+29 accepted literature formation-enthalpy value(s) (experimental 17, model 11, DFT 1); experimental median -40.6 kJ/mol-atom (n = 7); Materials Project -41.884 kJ/mol-atom (mp-aaaaadvt); OQMD -42.323 kJ/mol-atom (oqmd-17890).
 
 Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) · [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AlNi3 reported in the literature (30)
+Table: Enthalpy of formation of AlNi3 reported in the literature (29)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -39,7 +39,6 @@ Table: Enthalpy of formation of AlNi3 reported in the literature (30)
 | -42.9 per mol-atom | Ni3Al | 1123 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 10; `ORC-4LEVKOVO63.0e7b4d` |  |
 | -42.38 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 26; `ORC-W2ORY4WT4W.8fc6c4` |  |
 | -42.3 per mol-atom | Ni3Al | 521 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 4; `ORC-QGU6KXRRJ5.9ed92b` |  |
-| -42.126 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016 | Table 4, p. 38, row 20; `ORC-NQD4Z3IV5Z.14c693` |  |
 | -42 per mol-atom | Ni3Al | 300 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998 | Table 3, p. 9, row 2; `ORC-KUPM7HOVHD.72785e` |  |
 | -41.7 kJ/mol (basis unstated) | γ′ (Ni3Al) | 1600 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997 | Table 5, p. 9, row 1; `ORC-XALLY2TC5Z.d46bfa` |  |
 | -40.6 kJ/mol (basis unstated) | γ′ (Ni3Al) | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997 | Table 5, p. 9, row 5; `ORC-G7EJRHY3WP.01ec29` |  |
@@ -78,11 +77,10 @@ Table: Uncertainty budget of the literature values of AlNi3
 | -42.9 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -42.38 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -42.3 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -42.126 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -42 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -41.7 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
 | -40.6 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
-| -43.45 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| -43.45 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
 
 ## DFT formation energies
 

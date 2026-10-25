@@ -552,7 +552,7 @@
     "x0": 0.09,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni5Pr + fcc (Ni)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -571,7 +571,7 @@
     "x0": 0.09,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni5Pr + fcc (Ni)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -590,7 +590,7 @@
     "x0": 0.166667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni5Pr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -608,7 +608,7 @@
     "x0": 0.166667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni5Pr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -740,7 +740,7 @@
     "x0": 0.47,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni2Pr + NiPr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -759,7 +759,7 @@
     "x0": 0.47,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni2Pr + NiPr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -778,7 +778,7 @@
     "x0": 0.75,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> NiPr3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -796,7 +796,7 @@
     "x0": 0.75,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> NiPr3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -814,7 +814,7 @@
     "x0": 0.85,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> NiPr3 + dhcp (Pr)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

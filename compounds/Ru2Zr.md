@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of Ru2Zr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -32 | kJ/mol (basis unstated) | 0.9 | 0.5 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -32 | kJ/mol (basis unstated) | 0.9 | 0.5 | 9.6 (solution_reaction_calorimetry, calibrated) |  |  |  | 9.6 |
 | -78 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -49 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -32.08 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |

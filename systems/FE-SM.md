@@ -1,10 +1,10 @@
 # Fe–Sm system
 
-> Fe–Sm system: 22 accepted literature values (heat capacity / entropy / enthalpy 13, invariant reaction 8, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Sm system: 21 accepted literature values (heat capacity / entropy / enthalpy 13, invariant reaction 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-SM.html · Markdown: https://data.orchid-project.org/systems/FE-SM.md
 
-22 accepted literature values from 1 paper(s) (experimental 11, model 7, unspecified 4); 2 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (experimental 10, model 7, unspecified 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-SM.json) · [CSV](https://data.orchid-project.org/systems/FE-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-SM/FeSm-02Zin.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-SM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-SM.html) · [Markdown](https://data.orchid-project.org/systems/FE-SM.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
+| experimental | 10 |
 | model | 7 |
 | unspecified | 4 |
 
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 8 |
-| phase transition | 1 |
 | heat capacity / entropy / enthalpy | 13 |
 
 ## Calculated phase diagrams
@@ -93,14 +92,6 @@ Table: Invariant reactions reported in the literature for the Fe–Sm system (8)
 | 993 | eutectic: Liquid -> Fe2Sm + α-Sm | Liquid: Sm 0.75; Fe2Sm: Sm 0.333333 | experimental | [1] Zinkevich 2002; _cites Buschow 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990124-x) | Table 6, p. 13, row 7; `ORC-CFELKFH3DN` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Fe–Sm system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 923 K | 923 | Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 | experimental | [1] Zinkevich 2002; _cites Zhao 1995_ [doi](https://doi.org/10.1016/0304-8853%2895%2900021-6) | p. 3; `ORC-ENONNBG67V.a5fe55` | “The equilibrium temperature of the invariant recombination reaction: Fe 1 SmH 26x ⇒ Fe 17 Sm 2 1 H 2 depends on the hydrogen partial pressure in the gas phase increasing from 923 K for vacuum conditions \[30\] up to 1313 K for 101 325 Pa H 2 \[61\].” |
 
 ### Heat capacity / entropy / enthalpy (13)
 

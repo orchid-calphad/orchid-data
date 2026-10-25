@@ -1,10 +1,10 @@
 # Mg–Zn system
 
-> Mg–Zn system: 63 accepted literature values (invariant reaction 35, crystal structure 25, phase transition 3) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Zn system: 62 accepted literature values (invariant reaction 35, crystal structure 25, phase transition 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-ZN.html · Markdown: https://data.orchid-project.org/systems/MG-ZN.md
 
-63 accepted literature values from 7 paper(s) (experimental 8, model 35, unspecified 20); 6 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+62 accepted literature values from 7 paper(s) (experimental 8, model 42, unspecified 12); 6 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-ZN/MgZn-10Niu.json) · [phases (12)](https://data.orchid-project.org/phases/pages/MG-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/MG-ZN.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 35 |
-| unspecified | 20 |
+| model | 42 |
+| unspecified | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 35 |
-| phase transition | 3 |
+| phase transition | 2 |
 | crystal structure | 25 |
 
 ## Calculated phase diagrams
@@ -122,51 +122,50 @@ Table: Invariant reactions reported in the literature for the Mg–Zn system (35
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 864 | congruent melting: Liquid -> MgZn2 | Liquid: Zn 0.667; MgZn2: Zn 0.667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 5; `ORC-HIWOLOLM4U` |  |
+| 864 | congruent melting: Liquid -> MgZn2 | Liquid: Zn 0.667; MgZn2: Zn 0.667 | model | [1] (ed.) 1998 | Table I, p. 248, row 5; `ORC-HIWOLOLM4U` |  |
 | 691 | peritectic: L+Laves_C14 -> Mg2Zn3 | L: Zn 0.362; Mg2Zn3: Zn 0.6 | model | [2] Yuan 2014 | Table 1, p. 4, row 7; `ORC-MP23CA4KRO` |  |
 | 689 | peritectic: L+Laves_C14 -> Mg2Zn3 | L: Zn 0.35; Mg2Zn3: Zn 0.6 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 8; `ORC-FKI32Z4NSK` |  |
 | 689 | Liquid + MgZn2 -> Mg2Zn3 | Liquid: Zn 0.356; MgZn2: Zn 0.661; Mg2Zn3: Zn 0.6 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 2; `ORC-I6JHDDO4SD` |  |
 | 689 | Liquid + MgZn2 -> Mg2Zn3 | Liquid: Zn 0.356; MgZn2: Zn 0.661; Mg2Zn3: Zn 0.6 | model | [3] Niu 2010 | Table 3, p. 3, row 1; `ORC-LYITDZNRDT` |  |
-| 688.9 | peritectic: Liquid + Laves-C14 -> Mg2Zn3 | Liquid: Zn 0.356; Laves-C14: Zn 0.661; Mg2Zn3: Zn 0.6 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 4; `ORC-M6WC4DVLNU` |  |
+| 688.9 | peritectic: Liquid + Laves-C14 -> Mg2Zn3 | Liquid: Zn 0.356; Laves-C14: Zn 0.661; Mg2Zn3: Zn 0.6 | model | [1] (ed.) 1998 | Table I, p. 248, row 4; `ORC-M6WC4DVLNU` |  |
 | 654.4 | Liquid + MgZn2 -> Mg2Zn11 | Liquid: Zn 0.913; MgZn2: Zn 0.67; Mg2Zn11: Zn 0.846 | model | [3] Niu 2010 | Table 3, p. 3, row 3; `ORC-34EV5VDW3C` |  |
-| 654.4 | peritectic: Liquid + Laves-C14 -> Mg2Zn11 | Liquid: Zn 0.913; Laves-C14: Zn 0.661; Mg2Zn11: Zn 0.846 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 6; `ORC-LQR7DQNMY7` |  |
+| 654.4 | peritectic: Liquid + Laves-C14 -> Mg2Zn11 | Liquid: Zn 0.913; Laves-C14: Zn 0.661; Mg2Zn11: Zn 0.846 | model | [1] (ed.) 1998 | Table I, p. 248, row 6; `ORC-LQR7DQNMY7` |  |
 | 654 | peritectic: L+Laves_C14 -> Mg2Zn11 | L: Zn 0.91; Mg2Zn11: Zn 0.846154 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 12; `ORC-I3RUBD5DMA` |  |
 | 654 | Liquid + MgZn2 -> Mg2Zn11 | Liquid: Zn 0.913; MgZn2: Zn 0.67; Mg2Zn11: Zn 0.846 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 4; `ORC-PG7E546RZC` |  |
 | 653 | peritectic: L+Laves_C14 -> Mg2Zn11 | L: Zn 0.912; Mg2Zn11: Zn 0.846154 | model | [2] Yuan 2014 | Table 1, p. 4, row 11; `ORC-3FPR6HQMV7` |  |
-| 640.4 | Liquid -> Mg2Zn11 + hcp_A3 | Liquid: Zn 0.93; Mg2Zn11: Zn 0.846; hcp_A3: Zn 0.997 | model | [3] Niu 2010 | Table 3, p. 3, row 5; `ORC-KREYZSLHUO` |  |
-| 640.4 | Liquid -> Mg2Zn11 + hcp_A3 | Liquid: Zn 0.93; Mg2Zn11: Zn 0.846; hcp_A3: Zn 0.997 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 6; `ORC-LBZPO6HLI7` |  |
+| 640.4 | eutectic: Liquid -> Mg2Zn11 + hcp_A3 | Liquid: Zn 0.93; Mg2Zn11: Zn 0.846; hcp_A3: Zn 0.997 | model | [3] Niu 2010 | Table 3, p. 3, row 5; `ORC-KREYZSLHUO` |  |
+| 640.4 | eutectic: Liquid -> Mg2Zn11 + hcp_A3 | Liquid: Zn 0.93; Mg2Zn11: Zn 0.846; hcp_A3: Zn 0.997 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 6; `ORC-LBZPO6HLI7` |  |
 | 640 | eutectic: L -> Mg2Zn11+(Zn) | L: Zn 0.929; Mg2Zn11: Zn 0.846154 | model | [2] Yuan 2014 | Table 1, p. 4, row 13; `ORC-Q62Z3HYGF3` |  |
-| 637.3 | eutectic: Liquid -> Mg2Zn11 + hcp-A3 | Liquid: Zn 0.926; Mg2Zn11: Zn 0.846; hcp-A3: Zn 0.997 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 7; `ORC-FJZYXFSZBG` |  |
+| 637.3 | eutectic: Liquid -> Mg2Zn11 + hcp-A3 | Liquid: Zn 0.926; Mg2Zn11: Zn 0.846; hcp-A3: Zn 0.997 | model | [1] (ed.) 1998 | Table I, p. 248, row 7; `ORC-FJZYXFSZBG` |  |
 | 637 | eutectic: L -> Mg2Zn11+(Zn) | L: Zn 0.92; Mg2Zn11: Zn 0.846154 | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 14; `ORC-F7EMNZHXLC` |  |
 | 620.2 | Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.296; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 7; `ORC-Q4Z62ZHHD5` |  |
 | 620.2 | Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.296; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 8; `ORC-WR2NBGJ6HW` |  |
-| 620.1 | peritectic: Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.196; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 3; `ORC-MMQZJ4DRSM` |  |
+| 620.1 | peritectic: Liquid + Mg2Zn3 -> MgZn | Liquid: Zn 0.196; Mg2Zn3: Zn 0.6; MgZn: Zn 0.52 | model | [1] (ed.) 1998 | Table I, p. 248, row 3; `ORC-MMQZJ4DRSM` |  |
 | 619 | peritectic: L+Mg2Zn3 -> Mg12Zn13 | L: Zn 0.3; Mg2Zn3: Zn 0.6; Mg12Zn13: Zn 0.52 | model | [2] Yuan 2014 | Table 1, p. 4, row 5; `ORC-YPNGXFLWI2` |  |
 | 617.82 | eutectic: L -> (Mg) + Mg12Zn13 + Mg51Zn20 | L: Mg 0.7145, Zn 0.2852 | unspecified | [4] Hayashi 2020 | Table 3, p. 9, row 2; `ORC-NBRVVV4QMA` |  |
 | 614.2 | Liquid + hcp_A3 -> Mg7Zn3 | Liquid: Zn 0.29; hcp_A3: Zn 0.034; Mg7Zn3: Zn 0.282 | model | [3] Niu 2010 | Table 3, p. 3, row 11; `ORC-R6YTPSCEK7` |  |
 | 614.2 | Liquid + hcp_A3 -> Mg7Zn3 | Liquid: Zn 0.29; hcp_A3: Zn 0.03; Mg7Zn3: Zn 0.282 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 12; `ORC-VDWCQCQUXL` |  |
-| 614.1 | Liquid -> Mg7Zn3 + MgZn | Liquid: Zn 0.29; Mg7Zn3: Zn 0.282; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 10; `ORC-6XBOV5D5PR` |  |
-| 614.1 | eutectic: Liquid -> Mg51Zn20 + MgZn | Liquid: Zn 0.281; Mg51Zn20: Zn 0.29; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 2; `ORC-MQ4UTC3G77` |  |
-| 614.1 | peritectic: Liquid + hcp-A3 -> Mg51Zn20 | Liquid: Zn 0.295; hcp-A3: Zn 0.029; Mg51Zn20: Zn 0.289 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 1; `ORC-P2ATEY2IEY` |  |
-| 614.1 | Liquid -> Mg7Zn3 + MgZn | Liquid: Zn 0.29; Mg7Zn3: Zn 0.282; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 9; `ORC-SXXKCITRLY` |  |
+| 614.1 | eutectic: Liquid -> Mg7Zn3 + MgZn | Liquid: Zn 0.29; Mg7Zn3: Zn 0.282; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 10; `ORC-6XBOV5D5PR` |  |
+| 614.1 | eutectic: Liquid -> Mg51Zn20 + MgZn | Liquid: Zn 0.281; Mg51Zn20: Zn 0.29; MgZn: Zn 0.52 | model | [1] (ed.) 1998 | Table I, p. 248, row 2; `ORC-MQ4UTC3G77` |  |
+| 614.1 | peritectic: Liquid + hcp-A3 -> Mg51Zn20 | Liquid: Zn 0.295; hcp-A3: Zn 0.029; Mg51Zn20: Zn 0.289 | model | [1] (ed.) 1998 | Table I, p. 248, row 1; `ORC-P2ATEY2IEY` |  |
+| 614.1 | eutectic: Liquid -> Mg7Zn3 + MgZn | Liquid: Zn 0.29; Mg7Zn3: Zn 0.282; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 9; `ORC-SXXKCITRLY` |  |
 | 614 | eutectic: L -> hcp(Mg) + MgZn + Mg7Zn3 | L: Mg 0.7097, Zn 0.2896 | model | [5] Meng 2010 | Table 3, p. 4, row 12; `ORC-BXAPWM5KZU` |  |
-| 613.9 | Liquid -> MgZn + hcp_A3 | Liquid: Zn 0.29; MgZn: Zn 0.52; hcp_A3: Zn 0.034 | model | [3] Niu 2010 | Table 3, p. 3, row 13; `ORC-NJWB5ELDLC` |  |
-| 613.6 | Liquid -> MgZn + hcp_A3 | Liquid: Zn 0.29; MgZn: Zn 0.52; hcp_A3: Zn 0.03 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 14; `ORC-NAOFIXJWLB` |  |
+| 613.9 | eutectic: Liquid -> MgZn + hcp_A3 | Liquid: Zn 0.29; MgZn: Zn 0.52; hcp_A3: Zn 0.034 | model | [3] Niu 2010 | Table 3, p. 3, row 13; `ORC-NJWB5ELDLC` |  |
+| 613.6 | eutectic: Liquid -> MgZn + hcp_A3 | Liquid: Zn 0.29; MgZn: Zn 0.52; hcp_A3: Zn 0.03 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 14; `ORC-NAOFIXJWLB` |  |
 | 612.1 | peritectic: L+(Mg) -> Mg51Zn20 | L: Zn 0.282; Mg51Zn20: Zn 0.28169 | model | [2] Yuan 2014 | Table 1, p. 4, row 1; `ORC-7JLGUDFDMP` |  |
 | 612 | eutectic: L -> Mg51Zn20+Mg12Zn13 | L: Zn 0.293; Mg51Zn20: Zn 0.28169; Mg12Zn13: Zn 0.52 | model | [2] Yuan 2014 | Table 1, p. 4, row 3; `ORC-6CR5CDEYRU` |  |
 | 598.5 | Mg7Zn3 -> hcp_A3 + MgZn | Mg7Zn3: Zn 0.282; hcp_A3: Zn 0.03; MgZn: Zn 0.52 | model | [3] Niu 2010 | Table 3, p. 3, row 15; `ORC-YIJ77G4DGB` |  |
 | 598.2 | Mg7Zn3 -> hcp_A3 + MgZn | Mg7Zn3: Zn 0.282; hcp_A3: Zn 0.027; MgZn: Zn 0.52 | model | [3] Niu 2010; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 3, row 16; `ORC-L7YYBQNU2V` |  |
-| 598.1 | eutectoid: Mg51Zn20 -> hcp-A3 + MgZn | Mg51Zn20: Zn 0.282; hcp-A3: Zn 0.027; MgZn: Zn 0.52 | unspecified | [1] Hämäläinen 1998 | Table I, p. 248, row 8; `ORC-7UCZDWNYAO` |  |
+| 598.1 | eutectoid: Mg51Zn20 -> hcp-A3 + MgZn | Mg51Zn20: Zn 0.282; hcp-A3: Zn 0.027; MgZn: Zn 0.52 | model | [1] (ed.) 1998 | Table I, p. 248, row 8; `ORC-7UCZDWNYAO` |  |
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, Mg–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 581.5 K | 581.5 | other | model | [3] Niu 2010 | p. 3; `ORC-NHMBBXE6BZ.b2e006` | “The calculated critical temperatures of the miscibility gaps are 581.5 K for the Mg-Zn system and 790.6 K for the Mg-Nd system.” |
 | Phase transition | 857 K | 857 | congruent melting: L -> Laves_C14; _L: Zn 0.666; Laves_C14: Zn 0.666_ | model | [2] Yuan 2014 | Table 1, p. 4, row 9; `ORC-FFQZFM6LZN` |  |
 | Phase transition | 861 K | 861 | congruent melting: L -> Laves_C14; _L: Zn 0.67; Laves_C14: Zn 0.67_ | experimental | [2] Yuan 2014; _cites Massalski 2014_ | Table 1, p. 4, row 10; `ORC-G4EP7FXOH4` |  |
 
@@ -206,7 +205,7 @@ Table: Crystal structure, Mg–Zn system
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014). [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007)
 3. Chunju Niu, Miao Liu, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic description on the miscibility gap of the Mg-based solid solution in the Mg–Zn, Mg–Nd and Mg–Zn–Nd systems, Calphad 34, 428-433 (2010). [doi:10.1016/j.calphad.2010.07.010](https://doi.org/10.1016/j.calphad.2010.07.010)
 4. Naohiro Hayashi, Kazuki Nakashima, Masanori Enoki, Hiroshi Ohtani, Thermodynamic Analysis of the Al-Mg-Zn Ternary System, J. Japan Inst. Metals 84, 141-150 (2020). [doi:10.2320/jinstmet.jbw201905](https://doi.org/10.2320/jinstmet.jbw201905)

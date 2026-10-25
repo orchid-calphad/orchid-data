@@ -15,7 +15,7 @@ Table: Phases of the Mg–Zr system (4)
 | [BCC_A2](#phase-mg-zr-bcc-a2); _phase:mg-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 794.01–3999.9 K, x(Zr) 0.26–1 | 8 | 3 |
 | [FCC_A1](#phase-mg-zr-fcc-a1); _phase:mg-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-mg-zr-hcp-a3); _phase:mg-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1154.63 K, x(Zr) 0–1 | 9 | 3 |
-| [LIQUID](#phase-mg-zr-liquid); _phase:mg-zr:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 860.5–4000 K, x(Zr) 0–1 | 11 | 3 |
+| [LIQUID](#phase-mg-zr-liquid); _phase:mg-zr:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 860.5–4000 K, x(Zr) 0–1 | 12 | 3 |
 
 ## BCC_A2 (Mg–Zr)
 
@@ -26,7 +26,7 @@ Table: Phases of the Mg–Zr system (4)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zr:bcc-a2)
 
 Names (7): _corpus: _corpus:phase:mg-zr:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2005.07.004:bcc, paper:10.1016/j.calphad.2005.07.004:bcc(Zr), paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1016/j.calphad.2005.07.004:bcc, paper:10.1016/j.calphad.2005.07.004:bcc(Zr), paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:MgZr-05Arr.tdb:BCC_A2, tdb:MgZr-98Ham-LB.tdb:BCC_A2, tdb:MgZr-98Ham-alt.tdb:BCC_A2  
 
 
@@ -58,7 +58,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.calphad.2005.07.004](https://doi.org/10.1016/j.calphad.2005.07.004) R. Arroyave, D. Shin, Z.K. Liu, Modification of the thermodynamic model for the Mg–Zr system, Calphad 29, 230-238 (2005).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0364-5916(98)00037-6](https://doi.org/10.1016/S0364-5916%2898%2900037-6) M. Hamalainen, COST 507, Final report round 2, 1998.  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/bf02880408](https://doi.org/10.1007/bf02880408) A.A. Nayeb-Hashemi, J.B. Clark, Bull. Alloy Phase Diagr. 6 (3) (1985) 246–250.  
 _cited as the source of values for this phase_
 
@@ -113,7 +113,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zr:hcp-a3)
 
 Names (7): _corpus: _corpus:phase:mg-zr:hcp-a3  
-_paper: _paper:10.1016/j.calphad.2005.07.004:hcp, paper:10.1016/j.calphad.2005.07.004:hcp(Mg), paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:10.1016/j.calphad.2005.07.004:hcp, paper:10.1016/j.calphad.2005.07.004:hcp(Mg), paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:MgZr-05Arr.tdb:HCP_A3, tdb:MgZr-98Ham-LB.tdb:HCP_A3, tdb:MgZr-98Ham-alt.tdb:HCP_A3  
 
 
@@ -145,7 +145,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.calphad.2005.07.004](https://doi.org/10.1016/j.calphad.2005.07.004) R. Arroyave, D. Shin, Z.K. Liu, Modification of the thermodynamic model for the Mg–Zr system, Calphad 29, 230-238 (2005).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0364-5916(98)00037-6](https://doi.org/10.1016/S0364-5916%2898%2900037-6) M. Hamalainen, COST 507, Final report round 2, 1998.  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/bf02880408](https://doi.org/10.1007/bf02880408) A.A. Nayeb-Hashemi, J.B. Clark, Bull. Alloy Phase Diagr. 6 (3) (1985) 246–250.  
 _cited as the source of values for this phase_
 
@@ -154,11 +154,11 @@ _cited as the source of values for this phase_
 - Id: `phase:mg-zr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 860.5–4000 K, x(Zr) 0–1
-- Literature: 11 values (10 accepted) from 2 papers
+- Literature: 12 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zr:liquid)
 
 Names (9): _corpus: _corpus:phase:mg-zr:liquid, corpus:phase:mg-zr:liquid-2  
-_paper: _paper:10.1016/j.calphad.2005.07.004:L, paper:10.1016/j.calphad.2005.07.004:L#2, paper:10.1016/j.calphad.2005.07.004:liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid'  
+_paper: _paper:10.1016/j.calphad.2005.07.004:L, paper:10.1016/j.calphad.2005.07.004:L#2, paper:10.1016/j.calphad.2005.07.004:liquid, paper:sha256-85fd53a1a176b694:Liquid'  
 _tdb: _tdb:MgZr-05Arr.tdb:LIQUID, tdb:MgZr-98Ham-LB.tdb:LIQUID, tdb:MgZr-98Ham-alt.tdb:LIQUID  
 
 
@@ -185,13 +185,17 @@ _tdb: _tdb:MgZr-05Arr.tdb:LIQUID, tdb:MgZr-98Ham-LB.tdb:LIQUID, tdb:MgZr-98Ham-a
 24: CONST LIQUID:L : MG ZR : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2005.07.004](https://doi.org/10.1016/j.calphad.2005.07.004) R. Arroyave, D. Shin, Z.K. Liu, Modification of the thermodynamic model for the Mg–Zr system, Calphad 29, 230-238 (2005).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0364-5916(98)00037-6](https://doi.org/10.1016/S0364-5916%2898%2900037-6) M. Hamalainen, COST 507, Final report round 2, 1998.  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/bf02880408](https://doi.org/10.1007/bf02880408) A.A. Nayeb-Hashemi, J.B. Clark, Bull. Alloy Phase Diagr. 6 (3) (1985) 246–250.  
+_cited as the source of values for this phase_
+- [doi:10.1002/zaac.19472550115](https://doi.org/10.1002/zaac.19472550115) F. Sauerwald, Das Zustandsdiagramm Magnesium‐Zirkonium, Z. Anorg. Chem. 255, 212-220 (1947).  
+_cited as the source of values for this phase_
+- [doi:10.6028/jres.049.017](https://doi.org/10.6028/jres.049.017) J.H. Schaum, H.C. Burnett, Magnesium-rich side of the magnesium-zirconium constitution diagram, J. RES. NATL. BUR. STAN. 49, 155 (1952).  
 _cited as the source of values for this phase_
 
 ## Please cite

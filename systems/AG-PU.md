@@ -1,10 +1,10 @@
 # Ag–Pu system
 
-> Ag–Pu system: 23 accepted literature values (invariant reaction 21, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Pu system: 22 accepted literature values (invariant reaction 21, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-PU.html · Markdown: https://data.orchid-project.org/systems/AG-PU.md
 
-23 accepted literature values from 1 paper(s) (experimental 12, model 11); 1 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (experimental 12, model 10); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-PU.json) · [CSV](https://data.orchid-project.org/systems/AG-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-PU/AgPu-20Zho.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AG-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-PU.html) · [Markdown](https://data.orchid-project.org/systems/AG-PU.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| model | 11 |
+| model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 21 |
-| phase transition | 2 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -79,14 +79,13 @@ Table: Invariant reactions reported in the literature for the Ag–Pu system (21
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Ag–Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1250.15 K | 1250.15 | Ag51Pu14 | experimental | [1] Zhou 2020; _cites Wood 1970_ [doi](https://doi.org/10.2172/4104255) | p. 5; `ORC-2K6FSTSWJN.d05f5b` | “Later, Wood et al.\[46\] reported two stoichiometric compounds, i.e. Ag51Pu14 (melting point 977 C) and Ag2Pu (peritectic formation at 817 C) based on a combination of XRD, thermal analysis and microscope methods.” |
-| Phase transition | 1918.15 K | 1918.15 |  | model | [1] Zhou 2020 | p. 10; `ORC-3WDK6563FI` | “calculated critical point of the liquid miscibility gap locates at 1645 C and 80.6 at.% Pu.” |
 
 ## Sources
 

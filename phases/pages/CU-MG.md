@@ -413,7 +413,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-mg:liquid)
 
 Names (9): _corpus: _corpus:phase:cu-mg:liquid  
-_paper: _paper:10.1007/s11669-007-9022-0:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1007/s11669-007-9022-0:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:CuMg-07Zho.tdb:LIQUID, tdb:CuMg-16Hal.tdb:LIQUID, tdb:CuMg-91Cou-alt.tdb:LIQUID, tdb:CuMg-91Cou.tdb:LIQUID, tdb:CuMg-93Zuo.tdb:LIQUID, tdb:CuMg-98Lia-LB.tdb:LIQUID  
 
 
@@ -461,7 +461,7 @@ _tdb: _tdb:CuMg-07Zho.tdb:LIQUID, tdb:CuMg-16Hal.tdb:LIQUID, tdb:CuMg-91Cou-alt.
 25: CONST LIQUID:L : CU MG : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1007/s11669-007-9022-0](https://doi.org/10.1007/s11669-007-9022-0) Shihuai Zhou, Yi Wang, Frank G. Shi, Ferdinand Sommer, Long-Qing Chen, Zi-Kui Liu et al., Modeling of Thermodynamic Properties and Phase Equilibria for the Cu-Mg Binary System, J Phs Eqil and Diff 28, 158-166 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -477,8 +477,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19080570102](https://doi.org/10.1002/zaac.19080570102) R. Sahmen, Über die Legierungen des Kupfers mit Kobalt, Eisen, Mangan und Magnesium, Z. Anorg. Chem. 57, 1-33 (1908).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

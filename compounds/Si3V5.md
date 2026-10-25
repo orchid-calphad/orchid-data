@@ -43,15 +43,15 @@ Table: Uncertainty budget of the literature values of Si3V5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -59 | kJ/mol-atom | 2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -59 | kJ/mol-atom | 2 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -59 | kJ/mol-atom | 2 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -59 | kJ/mol-atom | 2 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -58.1 | kJ/mol-atom | 3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -58.1 | kJ/mol-atom | 3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -58.1 | kJ/mol-atom | 3 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -54.2 | kJ/mol-atom | 2 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -54.2 | kJ/mol-atom | 2 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -50.5 | kJ/mol-atom | 1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -50.48 | kJ/mol-atom | 1 | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -50.48 | kJ/mol-atom | 1 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -55.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -55.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -53.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
@@ -60,8 +60,8 @@ Table: Uncertainty budget of the literature values of Si3V5
 | -43.584 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -17.465 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -10.955 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -57.6 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -53.73 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -57.6 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -53.73 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 | -57.6 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies

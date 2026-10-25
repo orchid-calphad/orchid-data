@@ -33,7 +33,7 @@ Table: Phases of the Cu–Zn system (11)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-zn:bcc-a2)
 
 Names (23): _corpus: _corpus:phase:cu-zn:bcc-a2  
-_paper: _paper:10.1007/bf02671961:β, paper:10.1007/bf02671961:δ, paper:10.1016/j.calphad.2011.02.001:β, paper:10.1016/j.calphad.2011.02.001:δ, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1361/105497103770330541:β, paper:10.1361/105497103770330541:δ, paper:10.1557/jmr.2008.0035:β, paper:10.1557/jmr.2008.0035:δ  
+_paper: _paper:10.1007/bf02671961:β, paper:10.1007/bf02671961:δ, paper:10.1016/j.calphad.2011.02.001:β, paper:10.1016/j.calphad.2011.02.001:δ, paper:10.1361/105497103770330541:β, paper:10.1361/105497103770330541:δ, paper:10.1557/jmr.2008.0035:β, paper:10.1557/jmr.2008.0035:δ, paper:sha256-85fd53a1a176b694:bcc-A2  
 _system_alias: _system_alias:cu-zn:beta, system_alias:cu-zn:delta  
 _tdb: _tdb:CuZn-03Dav.tdb:A2_BCC, tdb:CuZn-03Dav.tdb:BCC_A2, tdb:CuZn-05Jia.tdb:A2_BCC, tdb:CuZn-05Jia.tdb:BCC_A2, tdb:CuZn-08Gie.tdb:BCC_A2, tdb:CuZn-11Wan.tdb:A2_BCC, tdb:CuZn-11Wan.tdb:BCC_A2, tdb:CuZn-15Lia.tdb:A2_BCC, tdb:CuZn-15Lia.tdb:BCC_A2, tdb:CuZn-93Kow-LB.tdb:A2_BCC, tdb:CuZn-93Kow-LB.tdb:BCC_A2  
 
@@ -117,7 +117,7 @@ _tdb: _tdb:CuZn-03Dav.tdb:A2_BCC, tdb:CuZn-03Dav.tdb:BCC_A2, tdb:CuZn-05Jia.tdb:
 36: CONST BCC_A2 : CU ZN : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02671961](https://doi.org/10.1007/BF02671961) M. Kowalski, P.J. Spencer, J. Phase Equilib., 14, 432-38 (1993).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -130,8 +130,6 @@ _assessment that models this phase_
 - [doi:10.1016/j.jpcs.2004.08.039](https://doi.org/10.1016/j.jpcs.2004.08.039) M. Jiang, C.P. Wang, X.J. Liu, I. Ohnuma, R. Kainuma, G.P. Vassilev, K. Ishida, J. Phys. Chem. Solids, 66, 246-50(2005).  
 _assessment that models this phase_
 - [doi:10.1557/jmr.2008.0035](https://doi.org/10.1557/jmr.2008.0035) Wojciech Gierlotka, Sinn-wen Chen, Thermodynamic descriptions of the Cu–Zn system, J. Mater. Res. 23, 258-263 (2008).  
-_reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 
 ## B2_BCC (Cu–Zn)
@@ -219,7 +217,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-zn:cu5zn8-d82)
 
 Names (12): _corpus: _corpus:phase:cu-zn:cu5zn8-d82  
-_paper: _paper:10.1007/bf02671961:γ, paper:10.1016/j.calphad.2011.02.001:γ, paper:10.1016/s0364-5916(98)00037-6:CuZn-γ, paper:10.1361/105497103770330541:γ, paper:10.1557/jmr.2008.0035:γ  
+_paper: _paper:10.1007/bf02671961:γ, paper:10.1016/j.calphad.2011.02.001:γ, paper:10.1361/105497103770330541:γ, paper:10.1557/jmr.2008.0035:γ, paper:sha256-85fd53a1a176b694:CuZn-γ  
 _system_alias: _system_alias:cu-zn:gamma  
 _tdb: _tdb:CuZn-03Dav.tdb:CU5ZN8_D82, tdb:CuZn-05Jia.tdb:CU5ZN8_D82, tdb:CuZn-08Gie.tdb:CU5ZN8_D82, tdb:CuZn-11Wan.tdb:CU5ZN8_D82, tdb:CuZn-93Kow-LB.tdb:CU5ZN8_D82  
 
@@ -261,7 +259,7 @@ _tdb: _tdb:CuZn-03Dav.tdb:CU5ZN8_D82, tdb:CuZn-05Jia.tdb:CU5ZN8_D82, tdb:CuZn-08
 61: CONST CU5ZN8_D82 : CU% ZN : CU ZN% : CU : ZN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02671961](https://doi.org/10.1007/BF02671961) M. Kowalski, P.J. Spencer, J. Phase Equilib., 14, 432-38 (1993).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -272,8 +270,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jpcs.2004.08.039](https://doi.org/10.1016/j.jpcs.2004.08.039) M. Jiang, C.P. Wang, X.J. Liu, I. Ohnuma, R. Kainuma, G.P. Vassilev, K. Ishida, J. Phys. Chem. Solids, 66, 246-50(2005).  
 _assessment that models this phase_
 - [doi:10.1557/jmr.2008.0035](https://doi.org/10.1557/jmr.2008.0035) Wojciech Gierlotka, Sinn-wen Chen, Thermodynamic descriptions of the Cu–Zn system, J. Mater. Res. 23, 258-263 (2008).  
-_reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 
 ## CUZN_B2 (Cu–Zn)
@@ -363,7 +359,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-zn:fcc-a1)
 
 Names (13): _corpus: _corpus:phase:cu-zn:fcc-a1  
-_paper: _paper:10.1007/bf02671961:(Cu), paper:10.1016/j.calphad.2011.02.001:α, paper:10.1016/s0364-5916(98)00037-6:fcc-A1, paper:10.1361/105497103770330541:α, paper:10.1557/jmr.2008.0035:(Cu)  
+_paper: _paper:10.1007/bf02671961:(Cu), paper:10.1016/j.calphad.2011.02.001:α, paper:10.1361/105497103770330541:α, paper:10.1557/jmr.2008.0035:(Cu), paper:sha256-85fd53a1a176b694:fcc-A1  
 _system_alias: _system_alias:cu-zn:alpha  
 _tdb: _tdb:CuZn-03Dav.tdb:FCC_A1, tdb:CuZn-05Jia.tdb:FCC_A1, tdb:CuZn-08Gie.tdb:FCC_A1, tdb:CuZn-11Wan.tdb:FCC_A1, tdb:CuZn-15Lia.tdb:FCC_A1, tdb:CuZn-93Kow-LB.tdb:FCC_A1  
 
@@ -412,7 +408,7 @@ _tdb: _tdb:CuZn-03Dav.tdb:FCC_A1, tdb:CuZn-05Jia.tdb:FCC_A1, tdb:CuZn-08Gie.tdb:
 31: CONST FCC_A1 : CU% ZN : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02671961](https://doi.org/10.1007/BF02671961) M. Kowalski, P.J. Spencer, J. Phase Equilib., 14, 432-38 (1993).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -425,8 +421,6 @@ _assessment that models this phase_
 - [doi:10.1016/j.jpcs.2004.08.039](https://doi.org/10.1016/j.jpcs.2004.08.039) M. Jiang, C.P. Wang, X.J. Liu, I. Ohnuma, R. Kainuma, G.P. Vassilev, K. Ishida, J. Phys. Chem. Solids, 66, 246-50(2005).  
 _assessment that models this phase_
 - [doi:10.1557/jmr.2008.0035](https://doi.org/10.1557/jmr.2008.0035) Wojciech Gierlotka, Sinn-wen Chen, Thermodynamic descriptions of the Cu–Zn system, J. Mater. Res. 23, 258-263 (2008).  
-_reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 
 ## GAS (Cu–Zn)
@@ -473,7 +467,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-zn:hcp-a3)
 
 Names (13): _corpus: _corpus:phase:cu-zn:hcp-a3  
-_paper: _paper:10.1007/bf02671961:(Zn), paper:10.1016/j.calphad.2011.02.001:(Zn), paper:10.1016/s0364-5916(98)00037-6:hcp-Zn, paper:10.1361/105497103770330541:η, paper:10.1557/jmr.2008.0035:(Zn)  
+_paper: _paper:10.1007/bf02671961:(Zn), paper:10.1016/j.calphad.2011.02.001:(Zn), paper:10.1361/105497103770330541:η, paper:10.1557/jmr.2008.0035:(Zn), paper:sha256-85fd53a1a176b694:hcp-Zn  
 _system_alias: _system_alias:cu-zn:eta  
 _tdb: _tdb:CuZn-03Dav.tdb:HCP_A3, tdb:CuZn-05Jia.tdb:HCP_A3, tdb:CuZn-08Gie.tdb:HCP_A3, tdb:CuZn-11Wan.tdb:HCP_A3, tdb:CuZn-15Lia.tdb:HCP_A3, tdb:CuZn-93Kow-LB.tdb:HCP_A3  
 
@@ -522,7 +516,7 @@ _tdb: _tdb:CuZn-03Dav.tdb:HCP_A3, tdb:CuZn-05Jia.tdb:HCP_A3, tdb:CuZn-08Gie.tdb:
 51: CONST HCP_A3 : CU ZN : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02671961](https://doi.org/10.1007/BF02671961) M. Kowalski, P.J. Spencer, J. Phase Equilib., 14, 432-38 (1993).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -535,8 +529,6 @@ _assessment that models this phase_
 - [doi:10.1016/j.jpcs.2004.08.039](https://doi.org/10.1016/j.jpcs.2004.08.039) M. Jiang, C.P. Wang, X.J. Liu, I. Ohnuma, R. Kainuma, G.P. Vassilev, K. Ishida, J. Phys. Chem. Solids, 66, 246-50(2005).  
 _assessment that models this phase_
 - [doi:10.1557/jmr.2008.0035](https://doi.org/10.1557/jmr.2008.0035) Wojciech Gierlotka, Sinn-wen Chen, Thermodynamic descriptions of the Cu–Zn system, J. Mater. Res. 23, 258-263 (2008).  
-_reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 
 ## HCP_IM_A3 (Cu–Zn)
@@ -623,7 +615,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-zn:liquid)
 
 Names (12): _corpus: _corpus:phase:cu-zn:liquid  
-_paper: _paper:10.1007/bf02671961:L, paper:10.1016/j.calphad.2011.02.001:L, paper:10.1016/s0364-5916(98)00037-6:Liquid, paper:10.1361/105497103770330541:L, paper:10.1557/jmr.2008.0035:L  
+_paper: _paper:10.1007/bf02671961:L, paper:10.1016/j.calphad.2011.02.001:L, paper:10.1361/105497103770330541:L, paper:10.1557/jmr.2008.0035:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:CuZn-03Dav.tdb:LIQUID, tdb:CuZn-05Jia.tdb:LIQUID, tdb:CuZn-08Gie.tdb:LIQUID, tdb:CuZn-11Wan.tdb:LIQUID, tdb:CuZn-15Lia.tdb:LIQUID, tdb:CuZn-93Kow-LB.tdb:LIQUID  
 
 
@@ -671,7 +663,7 @@ _tdb: _tdb:CuZn-03Dav.tdb:LIQUID, tdb:CuZn-05Jia.tdb:LIQUID, tdb:CuZn-08Gie.tdb:
 26: CONST LIQUID:L : CU ZN : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02671961](https://doi.org/10.1007/BF02671961) M. Kowalski, P.J. Spencer, J. Phase Equilib., 14, 432-38 (1993).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -684,8 +676,6 @@ _assessment that models this phase_
 - [doi:10.1016/j.jpcs.2004.08.039](https://doi.org/10.1016/j.jpcs.2004.08.039) M. Jiang, C.P. Wang, X.J. Liu, I. Ohnuma, R. Kainuma, G.P. Vassilev, K. Ishida, J. Phys. Chem. Solids, 66, 246-50(2005).  
 _assessment that models this phase_
 - [doi:10.1557/jmr.2008.0035](https://doi.org/10.1557/jmr.2008.0035) Wojciech Gierlotka, Sinn-wen Chen, Thermodynamic descriptions of the Cu–Zn system, J. Mater. Res. 23, 258-263 (2008).  
-_reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 
 ## Please cite

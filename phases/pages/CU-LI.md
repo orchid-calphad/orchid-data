@@ -27,7 +27,7 @@ Table: Phases of the Cu–Li system (5)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-li:bcc-a2)
 
 Names (5): _corpus: _corpus:phase:cu-li:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:CuLi-09Gas.tdb:BCC_A2, tdb:CuLi-16Li.tdb:BCC_A2, tdb:CuLi-98Sau-LB.tdb:BCC_A2  
 
 
@@ -54,14 +54,12 @@ _tdb: _tdb:CuLi-09Gas.tdb:BCC_A2, tdb:CuLi-16Li.tdb:BCC_A2, tdb:CuLi-98Sau-LB.td
 34: CONST BCC_A2 : CU LI% : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.10.006](https://doi.org/10.1016/j.calphad.2008.10.006) W. Gąsior, B. Onderka, Z. Moser, A. Dębski, T. Gancarz, Thermodynamic evaluation of Cu–Li phase diagram from EMF measurements and DTA study, Calphad 33, 215-220 (2009).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2016.04.003](https://doi.org/10.1016/j.calphad.2016.04.003) D. Li, S. Fuertauer, H. Flandorfer, D.M. Cupid, Calphad, 53, 105-15(2016).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CU2LI3 (Cu–Li)
 
@@ -100,7 +98,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-li:fcc-a1)
 
 Names (6): _corpus: _corpus:phase:cu-li:fcc-a1  
-_paper: _paper:10.1016/j.calphad.2008.10.006:fcc-(Cu), paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:10.1016/j.calphad.2008.10.006:fcc-(Cu), paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:CuLi-09Gas.tdb:FCC_A1, tdb:CuLi-16Li.tdb:FCC_A1, tdb:CuLi-98Sau-LB.tdb:FCC_A1  
 
 
@@ -127,14 +125,12 @@ _tdb: _tdb:CuLi-09Gas.tdb:FCC_A1, tdb:CuLi-16Li.tdb:FCC_A1, tdb:CuLi-98Sau-LB.td
 29: CONST FCC_A1 : CU% LI : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.10.006](https://doi.org/10.1016/j.calphad.2008.10.006) W. Gąsior, B. Onderka, Z. Moser, A. Dębski, T. Gancarz, Thermodynamic evaluation of Cu–Li phase diagram from EMF measurements and DTA study, Calphad 33, 215-220 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2016.04.003](https://doi.org/10.1016/j.calphad.2016.04.003) D. Li, S. Fuertauer, H. Flandorfer, D.M. Cupid, Calphad, 53, 105-15(2016).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Cu–Li)
 
@@ -187,7 +183,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-li:liquid)
 
 Names (6): _corpus: _corpus:phase:cu-li:liquid  
-_paper: _paper:10.1016/j.calphad.2008.10.006:liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1016/j.calphad.2008.10.006:liquid, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:CuLi-09Gas.tdb:LIQUID, tdb:CuLi-16Li.tdb:LIQUID, tdb:CuLi-98Sau-LB.tdb:LIQUID  
 
 
@@ -214,14 +210,12 @@ _tdb: _tdb:CuLi-09Gas.tdb:LIQUID, tdb:CuLi-16Li.tdb:LIQUID, tdb:CuLi-98Sau-LB.td
 24: CONST LIQUID:L : CU LI : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.10.006](https://doi.org/10.1016/j.calphad.2008.10.006) W. Gąsior, B. Onderka, Z. Moser, A. Dębski, T. Gancarz, Thermodynamic evaluation of Cu–Li phase diagram from EMF measurements and DTA study, Calphad 33, 215-220 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2016.04.003](https://doi.org/10.1016/j.calphad.2016.04.003) D. Li, S. Fuertauer, H. Flandorfer, D.M. Cupid, Calphad, 53, 105-15(2016).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

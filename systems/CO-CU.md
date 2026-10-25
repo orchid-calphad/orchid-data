@@ -1,10 +1,10 @@
 # Co–Cu system
 
-> Co–Cu system: 75 accepted literature values (mixing / partial 29, activity / EMF / Gibbs energy 23, invariant reaction 11, phase equilibrium 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Cu system: 74 accepted literature values (mixing / partial 29, activity / EMF / Gibbs energy 23, invariant reaction 11, phase equilibrium 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-CU.html · Markdown: https://data.orchid-project.org/systems/CO-CU.md
 
-75 accepted literature values from 3 paper(s) (experimental 62, model 13); 4 calculated phase diagram(s).
+74 accepted literature values from 2 paper(s) (experimental 62, model 12); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CU.json) · [CSV](https://data.orchid-project.org/systems/CO-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-CU/CoCu-00Kub-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-CU.html) · [Markdown](https://data.orchid-project.org/systems/CO-CU.md)
 
@@ -13,14 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 62 |
-| model | 13 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 11 |
-| phase transition | 1 |
 | phase equilibrium | 10 |
 | mixing / partial | 29 |
 | heat capacity / entropy / enthalpy | 1 |
@@ -74,30 +73,22 @@ Table: Invariant reactions reported in the literature for the Co–Cu system (11
 
 ## Other properties
 
-### Phase transition (1)
-
-Table: Phase transition, Co–Cu system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1556 K | 1556 | other | model | [2] Palumbo 2006 | p. 6; `ORC-FAYP44PESL` | “It is noteworthy that the maximum of the miscibility gap occurs at a lower temperature (1556 K and 58.5 at%) according to our new assessment in comparison with previous assessments.” |
-
 ### Phase equilibrium (10)
 
 Table: Phase equilibrium, Co–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  |  | Co-rich phase; _Co-rich phase: Co 0.9492, Cu 0.0508_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 10; `ORC-EHRURO7JYC` |  |
-| Phase composition |  |  | Co-rich phase; _Co-rich phase: Co 0.9848, Cu 0.0152_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 9; `ORC-NBYG3TKQRN` |  |
-| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9274, Cu 0.0726; Cu-rich phase: Co 0.1065, Cu 0.8935_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 6; `ORC-2YW7RDR72Q` |  |
-| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.8992, Cu 0.1008; Cu-rich phase: Co 0.0715, Cu 0.9285_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 4; `ORC-45RLZRH3A2` |  |
-| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9198, Cu 0.0802; Cu-rich phase: Co 0.04, Cu 0.96_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 1; `ORC-FNSVAJVLBO` |  |
-| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9088, Cu 0.0912; Cu-rich phase: Co 0.1131, Cu 0.8869_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 7; `ORC-JHZPDIRHER` |  |
-| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9111, Cu 0.0889; Cu-rich phase: Co 0.0784, Cu 0.9216_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 5; `ORC-OTFKXDWJPF` |  |
-| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9004, Cu 0.0996; Cu-rich phase: Co 0.0751, Cu 0.9249_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 2; `ORC-RGY6VB6V6I` |  |
-| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9325, Cu 0.0675; Cu-rich phase: Co 0.1225, Cu 0.8775_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 8; `ORC-SRCCJASYDW` |  |
-| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9131, Cu 0.0869; Cu-rich phase: Co 0.0715, Cu 0.9285_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 3; `ORC-T54NDEJ4AW` |  |
+| Phase composition |  |  | Co-rich phase; _Co-rich phase: Co 0.9492, Cu 0.0508_ | experimental | [2] Kubišta 2000 | Table 1, p. 3, row 10; `ORC-EHRURO7JYC` |  |
+| Phase composition |  |  | Co-rich phase; _Co-rich phase: Co 0.9848, Cu 0.0152_ | experimental | [2] Kubišta 2000 | Table 1, p. 3, row 9; `ORC-NBYG3TKQRN` |  |
+| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9274, Cu 0.0726; Cu-rich phase: Co 0.1065, Cu 0.8935_ | experimental | [2] Kubišta 2000 | Table 1, p. 3, row 6; `ORC-2YW7RDR72Q` |  |
+| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.8992, Cu 0.1008; Cu-rich phase: Co 0.0715, Cu 0.9285_ | experimental | [2] Kubišta 2000 | Table 1, p. 3, row 4; `ORC-45RLZRH3A2` |  |
+| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9198, Cu 0.0802; Cu-rich phase: Co 0.04, Cu 0.96_ | experimental | [2] Kubišta 2000 | Table 1, p. 3, row 1; `ORC-FNSVAJVLBO` |  |
+| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9088, Cu 0.0912; Cu-rich phase: Co 0.1131, Cu 0.8869_ | experimental | [2] Kubišta 2000 | Table 1, p. 3, row 7; `ORC-JHZPDIRHER` |  |
+| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9111, Cu 0.0889; Cu-rich phase: Co 0.0784, Cu 0.9216_ | experimental | [2] Kubišta 2000 | Table 1, p. 3, row 5; `ORC-OTFKXDWJPF` |  |
+| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9004, Cu 0.0996; Cu-rich phase: Co 0.0751, Cu 0.9249_ | experimental | [2] Kubišta 2000 | Table 1, p. 3, row 2; `ORC-RGY6VB6V6I` |  |
+| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9325, Cu 0.0675; Cu-rich phase: Co 0.1225, Cu 0.8775_ | experimental | [2] Kubišta 2000 | Table 1, p. 3, row 8; `ORC-SRCCJASYDW` |  |
+| Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9131, Cu 0.0869; Cu-rich phase: Co 0.0715, Cu 0.9285_ | experimental | [2] Kubišta 2000 | Table 1, p. 3, row 3; `ORC-T54NDEJ4AW` |  |
 
 ### Mixing / partial (29)
 
@@ -105,35 +96,35 @@ Table: Mixing / partial, Co–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH^E_ | 5.575 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3; `ORC-3RZGRHX4QP.5eca3d` |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 7.828 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7; `ORC-3X4RSXHHJB.1883b3` |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 6.733 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8; `ORC-66G22ACQWU.e8c717` |  |
-| Enthalpy of mixing; _printed: ΔH^E_ | 3.186 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 2; `ORC-7Q6GTFL6KA.5bb55e` |  |
-| Enthalpy of mixing; _printed: HE_ | 8.294 kJ/mol (basis unstated) | 1810.15 | liquid | model | [3] Kubišta 2000 | p. 3; `ORC-ILEYL6ODWZ.3b8ee0` | “Liquid Co-Cu alloys are characterized by positive values of the molar excess Gibbs energies GE at 1537 °C (Fig. 2, Table 4), positive values of the molar excess entropies SE (Table 4), and endothermic molar heat of mixing HE (Fig. 3, Table 4). At that temperature, the maximum HE value is 8294 J·mol-1 at 50at.%Cu, the maximum SE value is 1.00 J·mol-1·K-1 at 40at.%Cu, and the maximum GE value is 65…” |
-| Enthalpy of mixing; _printed: ΔHE_ | 2.785 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 10; `ORC-KO7WAXW372.97dc89` |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 8.294 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6; `ORC-PTBBESK7CF.2edb73` |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 7.201 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4; `ORC-ROR6FAZ425.90d29e` |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 5.04 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9; `ORC-S3GQ53FH2A.1e0ce8` |  |
-| Enthalpy of mixing; _printed: ΔH^E_ | 8.096 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5; `ORC-VBBQTFHUJL.dc0890` |  |
+| Enthalpy of mixing; _printed: ΔH^E_ | 5.575 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 3; `ORC-3RZGRHX4QP.5eca3d` |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 7.828 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 7; `ORC-3X4RSXHHJB.1883b3` |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 6.733 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 8; `ORC-66G22ACQWU.e8c717` |  |
+| Enthalpy of mixing; _printed: ΔH^E_ | 3.186 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 2; `ORC-7Q6GTFL6KA.5bb55e` |  |
+| Enthalpy of mixing; _printed: HE_ | 8.294 kJ/mol (basis unstated) | 1810.15 | liquid | model | [2] Kubišta 2000 | p. 3; `ORC-ILEYL6ODWZ.3b8ee0` | “Liquid Co-Cu alloys are characterized by positive values of the molar excess Gibbs energies GE at 1537 °C (Fig. 2, Table 4), positive values of the molar excess entropies SE (Table 4), and endothermic molar heat of mixing HE (Fig. 3, Table 4). At that temperature, the maximum HE value is 8294 J·mol-1 at 50at.%Cu, the maximum SE value is 1.00 J·mol-1·K-1 at 40at.%Cu, and the maximum GE value is 65…” |
+| Enthalpy of mixing; _printed: ΔHE_ | 2.785 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 10; `ORC-KO7WAXW372.97dc89` |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 8.294 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 6; `ORC-PTBBESK7CF.2edb73` |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 7.201 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 4; `ORC-ROR6FAZ425.90d29e` |  |
+| Enthalpy of mixing; _printed: ΔHE_ | 5.04 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 9; `ORC-S3GQ53FH2A.1e0ce8` |  |
+| Enthalpy of mixing; _printed: ΔH^E_ | 8.096 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 5; `ORC-VBBQTFHUJL.dc0890` |  |
 | Enthalpy of mixing; _printed: mixing enthalpy_ | 9.7 kJ/mol (basis unstated) | 1834 |  | experimental | [1] Turchanin 2007; _cites ref. 17_ | p. 2; `ORC-TWNJLLQJYM` | “The integral mixing enthalpies were determined in \[17\] for 10 alloys of xCo = 0.092-0.931 by mixing metals heated to an experimental temperature of 1834 K in an isothermal calorimeter. It is established that the mixing enthalpy of the system is endothermic and is maximum (9.7 kJ/mole) near the equiatomic composition (Fig. 2).” |
-| Entropy of mixing; _printed: ΔS^E_ | 0.779 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3; `ORC-3RZGRHX4QP.98de70` |  |
-| Entropy of mixing; _printed: ΔSE_ | 0.847 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7; `ORC-3X4RSXHHJB.6ba597` |  |
-| Entropy of mixing; _printed: ΔSE_ | 0.671 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8; `ORC-66G22ACQWU.9c030b` |  |
-| Entropy of mixing; _printed: ΔS^E_ | 0.468 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 2; `ORC-7Q6GTFL6KA.fad00f` |  |
-| Entropy of mixing; _printed: ΔSE_ | 0.227 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 10; `ORC-KO7WAXW372.57885c` |  |
-| Entropy of mixing; _printed: ΔSE_ | 0.966 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6; `ORC-PTBBESK7CF.4df24f` |  |
-| Entropy of mixing; _printed: ΔSE_ | 0.952 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4; `ORC-ROR6FAZ425.d75a32` |  |
-| Entropy of mixing; _printed: ΔSE_ | 0.457 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9; `ORC-S3GQ53FH2A.ac5ff8` |  |
-| Entropy of mixing; _printed: ΔS^E_ | 1.008 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5; `ORC-VBBQTFHUJL.a374af` |  |
-| Gibbs energy of mixing; _printed: ΔG^E_ | 4.165 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3; `ORC-3RZGRHX4QP.d05f14` |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 6.295 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7; `ORC-3X4RSXHHJB.e21fee` |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 5.519 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8; `ORC-66G22ACQWU.910498` |  |
-| Gibbs energy of mixing; _printed: ΔG^E_ | 2.339 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 2; `ORC-7Q6GTFL6KA.8a5ede` |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 2.374 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 10; `ORC-KO7WAXW372.c8644e` |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 6.545 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6; `ORC-PTBBESK7CF.6e079f` |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 5.477 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4; `ORC-ROR6FAZ425.6e6fca` |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 4.213 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9; `ORC-S3GQ53FH2A.e0c90c` |  |
-| Gibbs energy of mixing; _printed: ΔG^E_ | 6.272 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5; `ORC-VBBQTFHUJL.0249b3` |  |
+| Entropy of mixing; _printed: ΔS^E_ | 0.779 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 3; `ORC-3RZGRHX4QP.98de70` |  |
+| Entropy of mixing; _printed: ΔSE_ | 0.847 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 7; `ORC-3X4RSXHHJB.6ba597` |  |
+| Entropy of mixing; _printed: ΔSE_ | 0.671 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 8; `ORC-66G22ACQWU.9c030b` |  |
+| Entropy of mixing; _printed: ΔS^E_ | 0.468 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 2; `ORC-7Q6GTFL6KA.fad00f` |  |
+| Entropy of mixing; _printed: ΔSE_ | 0.227 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 10; `ORC-KO7WAXW372.57885c` |  |
+| Entropy of mixing; _printed: ΔSE_ | 0.966 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 6; `ORC-PTBBESK7CF.4df24f` |  |
+| Entropy of mixing; _printed: ΔSE_ | 0.952 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 4; `ORC-ROR6FAZ425.d75a32` |  |
+| Entropy of mixing; _printed: ΔSE_ | 0.457 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 9; `ORC-S3GQ53FH2A.ac5ff8` |  |
+| Entropy of mixing; _printed: ΔS^E_ | 1.008 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 5; `ORC-VBBQTFHUJL.a374af` |  |
+| Gibbs energy of mixing; _printed: ΔG^E_ | 4.165 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 3; `ORC-3RZGRHX4QP.d05f14` |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 6.295 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 7; `ORC-3X4RSXHHJB.e21fee` |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 5.519 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 8; `ORC-66G22ACQWU.910498` |  |
+| Gibbs energy of mixing; _printed: ΔG^E_ | 2.339 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 2; `ORC-7Q6GTFL6KA.8a5ede` |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 2.374 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 10; `ORC-KO7WAXW372.c8644e` |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 6.545 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 6; `ORC-PTBBESK7CF.6e079f` |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 5.477 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 4; `ORC-ROR6FAZ425.6e6fca` |  |
+| Gibbs energy of mixing; _printed: ΔGE_ | 4.213 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 9; `ORC-S3GQ53FH2A.e0c90c` |  |
+| Gibbs energy of mixing; _printed: ΔG^E_ | 6.272 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 5; `ORC-VBBQTFHUJL.0249b3` |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 
@@ -141,7 +132,7 @@ Table: Heat capacity / entropy / enthalpy, Co–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| sm excess; _printed: SE_ | 1 J·mol-1·K-1 | 1810.15 | liquid | model | [3] Kubišta 2000 | p. 3; `ORC-ILEYL6ODWZ.2d38c5` | “Liquid Co-Cu alloys are characterized by positive values of the molar excess Gibbs energies GE at 1537 °C (Fig. 2, Table 4), positive values of the molar excess entropies SE (Table 4), and endothermic molar heat of mixing HE (Fig. 3, Table 4). At that temperature, the maximum HE value is 8294 J·mol-1 at 50at.%Cu, the maximum SE value is 1.00 J·mol-1·K-1 at 40at.%Cu, and the maximum GE value is 65…” |
+| sm excess; _printed: SE_ | 1 J·mol-1·K-1 | 1810.15 | liquid | model | [2] Kubišta 2000 | p. 3; `ORC-ILEYL6ODWZ.2d38c5` | “Liquid Co-Cu alloys are characterized by positive values of the molar excess Gibbs energies GE at 1537 °C (Fig. 2, Table 4), positive values of the molar excess entropies SE (Table 4), and endothermic molar heat of mixing HE (Fig. 3, Table 4). At that temperature, the maximum HE value is 8294 J·mol-1 at 50at.%Cu, the maximum SE value is 1.00 J·mol-1·K-1 at 40at.%Cu, and the maximum GE value is 65…” |
 
 ### Activity / EMF / Gibbs energy (23)
 
@@ -149,37 +140,36 @@ Table: Activity / EMF / Gibbs energy, Co–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity Co; _printed: a_Co_ | 0.856 1 | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3; `ORC-3RZGRHX4QP.853002` |  |
-| Activity Co; _printed: aCo_ | 0.746 1 | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7; `ORC-3X4RSXHHJB.5ad3c2` |  |
-| Activity Co; _printed: aCo_ | 0.703 1 | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8; `ORC-66G22ACQWU.923eda` |  |
-| Activity Co; _printed: a_Co_ | 0.915 1 | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 2; `ORC-7Q6GTFL6KA.8134fe` |  |
-| Activity Co; _printed: aCo_ | 0.413 1 | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 10; `ORC-KO7WAXW372.b551bf` |  |
-| Activity Co; _printed: aCo_ | 0.769 1 | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6; `ORC-PTBBESK7CF.eca613` |  |
-| Activity Co; _printed: aCo_ | 0.816 1 | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4; `ORC-ROR6FAZ425.6961aa` |  |
-| Activity Co; _printed: aCo_ | 0.61 1 | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9; `ORC-S3GQ53FH2A.b85ce4` |  |
-| Activity Co; _printed: a_Co_ | 1 1 | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 1; `ORC-TR6KLBVTSD.4dbe74` |  |
-| Activity Co; _printed: a_Co_ | 0.79 1 | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5; `ORC-VBBQTFHUJL.5d4d1c` |  |
-| Activity Co; _printed: aCo_ | 0 1 | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 11; `ORC-XFCMBPD5UQ.f42952` |  |
-| Activity Cu; _printed: a_Cu_ | 0.608 1 | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3; `ORC-3RZGRHX4QP.34b1f4` |  |
-| Activity Cu; _printed: aCu_ | 0.796 1 | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7; `ORC-3X4RSXHHJB.883689` |  |
-| Activity Cu; _printed: aCu_ | 0.821 1 | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8; `ORC-66G22ACQWU.c521c6` |  |
-| Activity Cu; _printed: a_Cu_ | 0.406 1 | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 2; `ORC-7Q6GTFL6KA.086175` |  |
-| Activity Cu; _printed: aCu_ | 0.916 1 | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 10; `ORC-KO7WAXW372.c7f577` |  |
-| Activity Cu; _printed: aCu_ | 0.776 1 | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6; `ORC-PTBBESK7CF.6e41b8` |  |
-| Activity Cu; _printed: aCu_ | 0.705 1 | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4; `ORC-ROR6FAZ425.62ae41` |  |
-| Activity Cu; _printed: aCu_ | 0.859 1 | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9; `ORC-S3GQ53FH2A.f54536` |  |
-| Activity Cu; _printed: a_Cu_ | 0 1 | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 1; `ORC-TR6KLBVTSD.3d2e76` |  |
-| Activity Cu; _printed: a_Cu_ | 0.751 1 | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5; `ORC-VBBQTFHUJL.091f08` |  |
-| Activity Cu; _printed: aCu_ | 1 1 | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 11; `ORC-XFCMBPD5UQ.c49e11` |  |
-| Gibbs energy; _printed: GE_ | 6545 J·mol-1 | 1810.15 | liquid | model | [3] Kubišta 2000 | p. 3; `ORC-ILEYL6ODWZ.65d744` | “Liquid Co-Cu alloys are characterized by positive values of the molar excess Gibbs energies GE at 1537 °C (Fig. 2, Table 4), positive values of the molar excess entropies SE (Table 4), and endothermic molar heat of mixing HE (Fig. 3, Table 4). At that temperature, the maximum HE value is 8294 J·mol-1 at 50at.%Cu, the maximum SE value is 1.00 J·mol-1·K-1 at 40at.%Cu, and the maximum GE value is 65…” |
+| Activity Co; _printed: a_Co_ | 0.856 1 | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 3; `ORC-3RZGRHX4QP.853002` |  |
+| Activity Co; _printed: aCo_ | 0.746 1 | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 7; `ORC-3X4RSXHHJB.5ad3c2` |  |
+| Activity Co; _printed: aCo_ | 0.703 1 | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 8; `ORC-66G22ACQWU.923eda` |  |
+| Activity Co; _printed: a_Co_ | 0.915 1 | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 2; `ORC-7Q6GTFL6KA.8134fe` |  |
+| Activity Co; _printed: aCo_ | 0.413 1 | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 10; `ORC-KO7WAXW372.b551bf` |  |
+| Activity Co; _printed: aCo_ | 0.769 1 | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 6; `ORC-PTBBESK7CF.eca613` |  |
+| Activity Co; _printed: aCo_ | 0.816 1 | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 4; `ORC-ROR6FAZ425.6961aa` |  |
+| Activity Co; _printed: aCo_ | 0.61 1 | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 9; `ORC-S3GQ53FH2A.b85ce4` |  |
+| Activity Co; _printed: a_Co_ | 1 1 | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 1; `ORC-TR6KLBVTSD.4dbe74` |  |
+| Activity Co; _printed: a_Co_ | 0.79 1 | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 5; `ORC-VBBQTFHUJL.5d4d1c` |  |
+| Activity Co; _printed: aCo_ | 0 1 | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 11; `ORC-XFCMBPD5UQ.f42952` |  |
+| Activity Cu; _printed: a_Cu_ | 0.608 1 | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 3; `ORC-3RZGRHX4QP.34b1f4` |  |
+| Activity Cu; _printed: aCu_ | 0.796 1 | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 7; `ORC-3X4RSXHHJB.883689` |  |
+| Activity Cu; _printed: aCu_ | 0.821 1 | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 8; `ORC-66G22ACQWU.c521c6` |  |
+| Activity Cu; _printed: a_Cu_ | 0.406 1 | 1810.15 | liquid; _alloy: Co 0.9, Cu 0.1_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 2; `ORC-7Q6GTFL6KA.086175` |  |
+| Activity Cu; _printed: aCu_ | 0.916 1 | 1810.15 | liquid; _alloy: Co 0.1, Cu 0.9_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 10; `ORC-KO7WAXW372.c7f577` |  |
+| Activity Cu; _printed: aCu_ | 0.776 1 | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 6; `ORC-PTBBESK7CF.6e41b8` |  |
+| Activity Cu; _printed: aCu_ | 0.705 1 | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 4; `ORC-ROR6FAZ425.62ae41` |  |
+| Activity Cu; _printed: aCu_ | 0.859 1 | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 9; `ORC-S3GQ53FH2A.f54536` |  |
+| Activity Cu; _printed: a_Cu_ | 0 1 | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 1; `ORC-TR6KLBVTSD.3d2e76` |  |
+| Activity Cu; _printed: a_Cu_ | 0.751 1 | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 5; `ORC-VBBQTFHUJL.091f08` |  |
+| Activity Cu; _printed: aCu_ | 1 1 | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [2] Kubišta 2000 | Table 4, p. 4, row 11; `ORC-XFCMBPD5UQ.c49e11` |  |
+| Gibbs energy; _printed: GE_ | 6545 J·mol-1 | 1810.15 | liquid | model | [2] Kubišta 2000 | p. 3; `ORC-ILEYL6ODWZ.65d744` | “Liquid Co-Cu alloys are characterized by positive values of the molar excess Gibbs energies GE at 1537 °C (Fig. 2, Table 4), positive values of the molar excess entropies SE (Table 4), and endothermic molar heat of mixing HE (Fig. 3, Table 4). At that temperature, the maximum HE value is 8294 J·mol-1 at 50at.%Cu, the maximum SE value is 1.00 J·mol-1·K-1 at 40at.%Cu, and the maximum GE value is 65…” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. M. A. Turchanin, P. G. Agraval, Phase equilibria and thermodynamics of binary copper systems with 3d-metals. V. Copper-cobalt system, Powder Metall Met Ceram 46, 77-89 (2007). [doi:10.1007/s11106-007-0013-9](https://doi.org/10.1007/s11106-007-0013-9)
-2. Mauro Palumbo, Stefano Curiotto, Livio Battezzati, Thermodynamic analysis of the stable and metastable Co–Cu and Co–Cu–Fe phase diagrams, Calphad 30, 171-178 (2006). [doi:10.1016/j.calphad.2005.10.007](https://doi.org/10.1016/j.calphad.2005.10.007)
-3. Jaroslav Kubišta, Jan Vřešt’ál, Thermodynamics of the liquid Co-Cu system and calculation of phase diagram, JPE 21, 125-129 (2000). [doi:10.1361/105497100770340165](https://doi.org/10.1361/105497100770340165)
+2. Jaroslav Kubišta, Jan Vřešt’ál, Thermodynamics of the liquid Co-Cu system and calculation of phase diagram, JPE 21, 125-129 (2000). [doi:10.1361/105497100770340165](https://doi.org/10.1361/105497100770340165)
 
 ## Please cite
 

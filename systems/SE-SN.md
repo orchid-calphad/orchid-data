@@ -1,10 +1,10 @@
 # Se–Sn system
 
-> Se–Sn system: 142 accepted literature values (phase transition 49, phase equilibrium 39, invariant reaction 37, formation 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Se–Sn system: 133 accepted literature values (phase transition 41, phase equilibrium 39, invariant reaction 37, formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SE-SN.html · Markdown: https://data.orchid-project.org/systems/SE-SN.md
 
-142 accepted literature values from 1 paper(s) (experimental 115, model 12, unspecified 15); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+133 accepted literature values from 1 paper(s) (experimental 108, model 10, unspecified 15); 0 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SE-SN.json) · [CSV](https://data.orchid-project.org/systems/SE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SE-SN) · [phases (7)](https://data.orchid-project.org/phases/pages/SE-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SE-SN.html) · [Markdown](https://data.orchid-project.org/systems/SE-SN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 115 |
-| model | 12 |
+| experimental | 108 |
+| model | 10 |
 | unspecified | 15 |
 
 Table: Accepted values by property group
@@ -21,9 +21,9 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 37 |
-| phase transition | 49 |
+| phase transition | 41 |
 | phase equilibrium | 39 |
-| formation | 17 |
+| formation | 16 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/SE/SE-SN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SE/SE-SN.json)
 
@@ -75,11 +75,10 @@ Table: Invariant reactions reported in the literature for the Se–Sn system (37
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Se–Sn system (17)
+Table: Enthalpies of formation, Se–Sn system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -45 unspecified | 1175 | experimental |  |  | [1] Feutelais 1996; _cites Kotchi 1987_ | p. 4; `ORC-5ZW5KTKUWL` | “As explained by these authors, the large negative enthalpy of formation (-45 kJ/g-atom at T = 1175 K) located at Xse = 0.5 indicates the presence of short-range order based on ~SnSe.” |
 | SnSe | [SnSe](https://data.orchid-project.org/compounds/SnSe.html) | -54.7 kJ/mol-atom | 298.15 | model | -64.505 (mp-aaaaabap) | -46.56 (oqmd-3656) | [1] Feutelais 1996 | Table 9, p. 8, row 11; `ORC-FU4YYPX6NM.a7871b` |  |
 | SnSe | [SnSe](https://data.orchid-project.org/compounds/SnSe.html) | -47.5 kJ/mol-atom ± 1 | 298.15 | experimental | -64.505 (mp-aaaaabap) | -46.56 (oqmd-3656) | [1] Feutelais 1996; _cites ref. 71Mel_ | Table 9, p. 8, row 6; `ORC-V7VHHJ5GSB.b91536` |  |
 | SnSe | [SnSe](https://data.orchid-project.org/compounds/SnSe.html) | -47 kJ/mol-atom ± 1.5 | 298.15 | experimental | -64.505 (mp-aaaaabap) | -46.56 (oqmd-3656) | [1] Feutelais 1996; _cites Boone 1992_ [doi](https://doi.org/10.1016/0040-6031%2892%2987043-a) | Table 9, p. 8, row 9; `ORC-2CEFS6VVEV.afeb02` |  |
@@ -99,7 +98,7 @@ Table: Enthalpies of formation, Se–Sn system (17)
 
 ## Other properties
 
-### Phase transition (49)
+### Phase transition (41)
 
 Table: Phase transition, Se–Sn system
 
@@ -126,10 +125,8 @@ Table: Phase transition, Se–Sn system
 | Phase transition | 787.15 K | 787.15 | polymorphic: \[74Bla1\] | experimental | [1] Feutelais 1996; _cites ref. 74Bla1_ | Table 5, p. 3, row 4; `ORC-FNTNIZIRU2` |  |
 | Phase transition | 787.15 K | 787.15 | polymorphic: \[74Bla2\] | experimental | [1] Feutelais 1996; _cites Blachnik 1974_ | Table 5, p. 3, row 5; `ORC-4PSCCXZEGX` |  |
 | Phase transition | 792.05 K | 792.05 | other: Invariants; _alloy: Se 0.59, Sn 0.41_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 53; `ORC-OLBHDSCMHH` |  |
-| Phase transition | 792.75 K | 792.75 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 6; `ORC-N5VTQQW2LP` |  |
 | Phase transition | 792.75 K | 792.75 | other: Invariants; _alloy: Se 0.6, Sn 0.4_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 56; `ORC-MNWLXOT5FV` |  |
 | Phase transition | 792.85 K | 792.85 | other: Invariants; _alloy: Se 0.56, Sn 0.44_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 44; `ORC-5RX7IVOLDE` |  |
-| Phase transition | 793.15 K | 793.15 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 2; `ORC-H5TXLHH6E5` |  |
 | Phase transition | 793.15 K | 793.15 | other: Invariants; _alloy: Se 0.63, Sn 0.37_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 61; `ORC-BFEUI7MI3B` |  |
 | Phase transition | 793.15 K | 793.15 | other: Invariants; _alloy: Se 0.57, Sn 0.43_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 47; `ORC-D2BQFG7WKM` |  |
 | Phase transition | 793.15 K | 793.15 | other: Invariants; _alloy: Se 0.58, Sn 0.42_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 50; `ORC-GCYHPDWXH5` |  |
@@ -139,9 +136,6 @@ Table: Phase transition, Se–Sn system
 | Phase transition | 794.15 K | 794.15 | other: Solidus; _alloy: Se 0.505, Sn 0.495_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 33; `ORC-RB6QG2NEZP` |  |
 | Phase transition | 794.25 K | 794.25 | other: Solidus; _alloy: Se 0.51, Sn 0.49_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 36; `ORC-6XZQXRNA2A` |  |
 | Phase transition | 797.45 K | 797.45 | other: Solidus; _alloy: Se 0.495, Sn 0.505_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 27; `ORC-Q6BMGUXVSZ` |  |
-| Phase transition | 799.15 K | 799.15 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 3; `ORC-ME7OX7SJNB` |  |
-| Phase transition | 799.25 K | 799.25 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 5; `ORC-7FMKVI3W7F` |  |
-| Phase transition | 799.65 K | 799.65 |  | experimental | [1] Feutelais 1996 | Table 6, p. 4, row 1; `ORC-MIXS57UPM4` |  |
 | Phase transition | 803.15 K | 803.15 | polymorphic: \[76Rou\] | experimental | [1] Feutelais 1996; _cites Rouland 1976_ | Table 5, p. 3, row 6; `ORC-I74OZ6U4MS` |  |
 | Phase transition | 813.15 K | 813.15 | polymorphic: \[66Kar\] | experimental | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 5, p. 3, row 3; `ORC-YFRMOZ73GL` |  |
 | Phase transition | 814.15 K | 814.15 | polymorphic: \[61Zhd\] | experimental | [1] Feutelais 1996; _cites Zhdanova 1961_ | Table 5, p. 3, row 1; `ORC-XPUIYXHXZM` |  |
@@ -150,9 +144,6 @@ Table: Phase transition, Se–Sn system
 | Phase transition | 902.55 K | 902.55 | other: Invariants; _alloy: Se 0.51, Sn 0.49_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 37; `ORC-Q7KBJUSAG7` |  |
 | Phase transition | 902.55 K | 902.55 | other: Invariants; _alloy: Se 0.65, Sn 0.35_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 64; `ORC-VRB7MWE7WL` |  |
 | Phase transition | 918.15 K | 918.15 | other: Invariants; _alloy: Se 0.667, Sn 0.333_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 65; `ORC-PEGIU6CFVS` |  |
-| Phase transition | 1114 K | 1114 | other | model | [1] Feutelais 1996 | p. 7; `ORC-YHKJZKYL54.807fd5` | “The calculated critical temperature of the miscibility gap, 1141 K, is in reasonable agreement with the proposed value of \[87Kot\] (1114 K).” |
-| Phase transition | 1141 K | 1141 | other | model | [1] Feutelais 1996 | p. 7; `ORC-YHKJZKYL54.51da54` | “The calculated critical temperature of the miscibility gap, 1141 K, is in reasonable agreement with the proposed value of \[87Kot\] (1114 K).” |
-| Phase transition | 1145.65 K | 1145.65 |  | experimental | [1] Feutelais 1996 | p. 2; `ORC-CNFNBTJJ5P` | “The melting temperature obtained for the intermetallic compound 13SnSe is 1145.65 K, which agrees well with the most recently reported value \[94Yam\].” |
 | Phase transition | 1145.65 K | 1145.65 | other: Invariants; _alloy: Se 0.5, Sn 0.5_ | experimental | [1] Feutelais 1996 | Table 2, p. 2, row 31; `ORC-WS4MPZ5OCJ` |  |
 
 ### Phase equilibrium (39)

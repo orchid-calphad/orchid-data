@@ -33,7 +33,7 @@ Table: Uncertainty budget of the literature values of SiTa2
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -55.969 | kJ/mol-atom |  | 5.000e-5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -52.117 | kJ/mol-atom |  | 5.000e-4 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -52.117 | kJ/mol-atom |  | 5.000e-4 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -56 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -52.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -52.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

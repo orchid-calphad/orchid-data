@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/CU-PT.html · Markdown: https://data.orchid-project.org/systems/CU-PT.md
 
-20 accepted literature values from 1 paper(s) (experimental 2, model 14, DFT 4); 1 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 2, model 11, DFT 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-PT.json) · [CSV](https://data.orchid-project.org/systems/CU-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-PT/CuPt-06Abe.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CU-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-PT.html) · [Markdown](https://data.orchid-project.org/systems/CU-PT.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 2 |
-| model | 14 |
-| DFT | 4 |
+| model | 11 |
+| DFT | 7 |
 
 Table: Accepted values by property group
 
@@ -50,7 +50,7 @@ Table: Enthalpies of formation, Cu–Pt system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| L10-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -13 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | 3.241 (oqmd-339324) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.3f6ebd` |  |
+| L10-CuPt |  | -13 kJ/mol-atom |  | DFT |  |  | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.3f6ebd` |  |
 | L10-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -11 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | 3.241 (oqmd-339324) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3; `ORC-DGXLGCDH4A.af3e23` |  |
 | L10-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -9.6 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | 3.241 (oqmd-339324) | [1] Abe 2006 | Table 2, p. 7, row 7; `ORC-X346LL47CP.f44c89` |  |
 | L10-CuPt |  | -9.5 kJ/mol-atom |  | DFT |  |  | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2; `ORC-K7FCATJG6W.d0d800` |  |
@@ -59,13 +59,13 @@ Table: Enthalpies of formation, Cu–Pt system (20)
 | L11-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -16 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | -16.326 (oqmd-18532) | [1] Abe 2006 | Table 2, p. 7, row 7; `ORC-X346LL47CP.593f3e` |  |
 | L11-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -15.6 kJ/mol-atom | 298.15 | experimental | -15.37 (mp-aaabkrdf) | -16.326 (oqmd-18532) | [1] Abe 2006; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | Table 2, p. 7, row 6; `ORC-6DJQSZYYIL` |  |
 | L11-CuPt |  | -12.4 kJ/mol-atom |  | DFT |  |  | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2; `ORC-K7FCATJG6W.2a4f5d` |  |
-| L12-Cu3Pt | [Cu3Pt](https://data.orchid-project.org/compounds/Cu3Pt.html) | -14 kJ/mol-atom |  | model | -13.404 (mp-aaaaarww) | -13.595 (oqmd-29766) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.79b506` |  |
+| L12-Cu3Pt |  | -14 kJ/mol-atom |  | DFT |  |  | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.79b506` |  |
 | L12-Cu3Pt | [Cu3Pt](https://data.orchid-project.org/compounds/Cu3Pt.html) | -13 kJ/mol-atom |  | model | -13.404 (mp-aaaaarww) | -13.595 (oqmd-29766) | [1] Abe 2006; _cites FR 1988_ | Table 2, p. 7, row 4; `ORC-BUGOBEY2SA.2c5368` |  |
 | L12-Cu3Pt |  | -11.2 kJ/mol-atom |  | DFT |  |  | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2; `ORC-K7FCATJG6W.806c89` |  |
 | L12-Cu3Pt | [Cu3Pt](https://data.orchid-project.org/compounds/Cu3Pt.html) | -11 kJ/mol-atom |  | model | -13.404 (mp-aaaaarww) | -13.595 (oqmd-29766) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3; `ORC-DGXLGCDH4A.c8d9d8` |  |
 | L12-Cu3Pt | [Cu3Pt](https://data.orchid-project.org/compounds/Cu3Pt.html) | -11 kJ/mol-atom |  | model | -13.404 (mp-aaaaarww) | -13.595 (oqmd-29766) | [1] Abe 2006 | Table 2, p. 7, row 7; `ORC-X346LL47CP.434514` |  |
 | L12-Cu3Pt | [Cu3Pt](https://data.orchid-project.org/compounds/Cu3Pt.html) | -10.8 kJ/mol-atom | 298.15 | experimental | -13.404 (mp-aaaaarww) | -13.595 (oqmd-29766) | [1] Abe 2006; _cites Meschel 2006_ | Table 2, p. 7, row 5; `ORC-XZY5MJMHQE` |  |
-| L12-CuPt3 | [CuPt3](https://data.orchid-project.org/compounds/CuPt3.html) | -14 kJ/mol-atom |  | model | 232.783 (mp-aaacrban) | -11.337 (oqmd-349751) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.ee7e04` |  |
+| L12-CuPt3 |  | -14 kJ/mol-atom |  | DFT |  |  | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.ee7e04` |  |
 | L12-CuPt3 | [CuPt3](https://data.orchid-project.org/compounds/CuPt3.html) | -13 kJ/mol-atom |  | model | 232.783 (mp-aaacrban) | -11.337 (oqmd-349751) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3; `ORC-DGXLGCDH4A.307a73` |  |
 | L12-CuPt3 | [CuPt3](https://data.orchid-project.org/compounds/CuPt3.html) | -10 kJ/mol-atom |  | model | 232.783 (mp-aaacrban) | -11.337 (oqmd-349751) | [1] Abe 2006; _cites FR 1988_ | Table 2, p. 7, row 4; `ORC-BUGOBEY2SA.8253a8` |  |
 | L12-CuPt3 |  | -9.3 kJ/mol-atom |  | DFT |  |  | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2; `ORC-K7FCATJG6W.a1c35e` |  |

@@ -1,12 +1,12 @@
 # Compounds: enthalpies of formation
 
-> 1441 compounds with literature formation-enthalpy values, compared with Materials Project and OQMD DFT (ORCHID).
+> 1460 compounds with literature formation-enthalpy values, compared with Materials Project and OQMD DFT (ORCHID).
 
 HTML: https://data.orchid-project.org/compounds/index.html · Markdown: https://data.orchid-project.org/compounds/index.md
 
 Compound ids are reduced formulas (metals first, then alphabetical). Experimental values with the per-atom basis known are in kJ/mol-atom; DFT columns give the lowest-energy entry at the composition.
 
-Table: Compounds (1441)
+Table: Compounds (1460)
 
 | Compound | Literature values | Experimental kJ/mol-atom values | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Systems |
 |---|---:|---:|---:|---:|---|
@@ -29,13 +29,13 @@ Table: Compounds (1441)
 | [AgEr](https://data.orchid-project.org/compounds/AgEr.html) | 3 | 1 | -33.42 | -33.553 | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html)  |
 | [AgSm](https://data.orchid-project.org/compounds/AgSm.html) | 5 | 1 | -26.737 | -28.228 | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html)  |
 | [Al107Zr](https://data.orchid-project.org/compounds/Al107Zr.html) | 3 | 0 |  |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
-| [Al11Cr2](https://data.orchid-project.org/compounds/Al11Cr2.html) | 4 | 2 |  | 10.793 | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)  |
+| [Al11Cr2](https://data.orchid-project.org/compounds/Al11Cr2.html) | 4 | 2 |  | 10.793 | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)  |
 | [Al11La3](https://data.orchid-project.org/compounds/Al11La3.html) | 1 | 0 |  |  | [Al–La](https://data.orchid-project.org/systems/AL-LA.html)  |
 | [Al11Mn4](https://data.orchid-project.org/compounds/Al11Mn4.html) | 5 | 2 | -26.725 | -26.617 | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html)  |
 | [Al12W](https://data.orchid-project.org/compounds/Al12W.html) | 3 | 0 |  |  | [Al–W](https://data.orchid-project.org/systems/AL-W.html)  |
 | [Al13Ba7](https://data.orchid-project.org/compounds/Al13Ba7.html) | 6 | 2 | -20.981 | -20.651 | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html)  |
 | [Al13Co4](https://data.orchid-project.org/compounds/Al13Co4.html) | 1 | 0 |  |  | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html)  |
-| [Al13Cr2](https://data.orchid-project.org/compounds/Al13Cr2.html) | 3 | 1 |  |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)  |
+| [Al13Cr2](https://data.orchid-project.org/compounds/Al13Cr2.html) | 3 | 1 |  |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)  |
 | [Al13Fe4](https://data.orchid-project.org/compounds/Al13Fe4.html) | 2 | 0 | -31.526 | -31.902 | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)  |
 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | 5 | 0 |  | -57.448 | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html)  |
 | [Al13Ru4](https://data.orchid-project.org/compounds/Al13Ru4.html) | 2 | 0 | -51.776 | -51.227 | [Al–Ru](https://data.orchid-project.org/systems/AL-RU.html)  |
@@ -47,7 +47,7 @@ Table: Compounds (1441)
 | [Al255Zr](https://data.orchid-project.org/compounds/Al255Zr.html) | 3 | 0 |  |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
 | [Al2Au](https://data.orchid-project.org/compounds/Al2Au.html) | 2 | 2 | -40.818 | -40.918 | [Al–Au](https://data.orchid-project.org/systems/AL-AU.html)  |
 | [Al2Ca](https://data.orchid-project.org/compounds/Al2Ca.html) | 18 | 8 | -32.104 | -32.307 | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html)  |
-| [Al2Fe](https://data.orchid-project.org/compounds/Al2Fe.html) | 4 | 1 |  | -34.734 | [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)  |
+| [Al2Fe](https://data.orchid-project.org/compounds/Al2Fe.html) | 4 | 1 |  | -34.734 | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)  |
 | [Al2Hf](https://data.orchid-project.org/compounds/Al2Hf.html) | 4 | 1 | -42.633 | -42.842 | [Al–Hf](https://data.orchid-project.org/systems/AL-HF.html)  |
 | [Al2Hf3](https://data.orchid-project.org/compounds/Al2Hf3.html) | 3 | 0 | -31.894 | -31.931 | [Al–Hf](https://data.orchid-project.org/systems/AL-HF.html)  |
 | [Al2Li3](https://data.orchid-project.org/compounds/Al2Li3.html) | 5 | 1 | -17.867 | -18.525 | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html)  |
@@ -64,20 +64,19 @@ Table: Compounds (1441)
 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | 8 | 2 | -131.06 | -118.658 | [Al–S](https://data.orchid-project.org/systems/AL-S.html)  |
 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | 5 | 2 | -108.385 | -82.526 | [Al–Se](https://data.orchid-project.org/systems/AL-SE.html)  |
 | [Al2Sr](https://data.orchid-project.org/compounds/Al2Sr.html) | 14 | 0 |  |  | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html)  |
-| [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | 4 | 3 | -67.973 | -43.474 | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html)  |
+| [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | 7 | 5 | -67.973 | -43.474 | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html)  |
 | [Al2Te5](https://data.orchid-project.org/compounds/Al2Te5.html) | 1 | 0 | -60.423 | -31.742 | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html)  |
 | [Al2Ti](https://data.orchid-project.org/compounds/Al2Ti.html) | 6 | 0 | -41.623 | -43.383 | [Al–Ti](https://data.orchid-project.org/systems/AL-TI.html)  |
 | [Al2U](https://data.orchid-project.org/compounds/Al2U.html) | 1 | 0 |  |  | [Al–U](https://data.orchid-project.org/systems/AL-U.html)  |
 | [Al2W](https://data.orchid-project.org/compounds/Al2W.html) | 1 | 0 |  |  | [Al–W](https://data.orchid-project.org/systems/AL-W.html)  |
 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | 3 | 2 | -51.266 | -51.513 | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html)  |
 | [Al2Y3](https://data.orchid-project.org/compounds/Al2Y3.html) | 2 | 1 | -34.207 | -34.421 | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html)  |
-| [Al2Zr](https://data.orchid-project.org/compounds/Al2Zr.html) | 50 | 12 | -51.892 | -52.115 | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
-| [Al2Zr3](https://data.orchid-project.org/compounds/Al2Zr3.html) | 41 | 5 | -38.78 | -38.797 | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
+| [Al2Zr](https://data.orchid-project.org/compounds/Al2Zr.html) | 50 | 12 | -51.892 | -52.115 | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
+| [Al2Zr3](https://data.orchid-project.org/compounds/Al2Zr3.html) | 41 | 5 | -38.78 | -38.797 | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
 | [Al30Mg23](https://data.orchid-project.org/compounds/Al30Mg23.html) | 1 | 0 |  |  | [Al–Mg](https://data.orchid-project.org/systems/AL-MG.html)  |
 | [Al31Zr](https://data.orchid-project.org/compounds/Al31Zr.html) | 3 | 0 |  |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
 | [Al3Ca8](https://data.orchid-project.org/compounds/Al3Ca8.html) | 9 | 2 | -14.913 | -16.15 | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html)  |
-| [Al3Co](https://data.orchid-project.org/compounds/Al3Co.html) | 2 | 0 | -39.153 | -20.871 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)  |
-| [Al3Cr](https://data.orchid-project.org/compounds/Al3Cr.html) | 1 | 0 | -13.545 | -10.122 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)  |
+| [Al3Co](https://data.orchid-project.org/compounds/Al3Co.html) | 1 | 0 | -39.153 | -20.871 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)  |
 | [Al3Hf](https://data.orchid-project.org/compounds/Al3Hf.html) | 5 | 2 | -38.14 | -38.236 | [Al–Hf](https://data.orchid-project.org/systems/AL-HF.html)  |
 | [Al3Hf2](https://data.orchid-project.org/compounds/Al3Hf2.html) | 4 | 1 | -41.152 | -41.101 | [Al–Hf](https://data.orchid-project.org/systems/AL-HF.html)  |
 | [Al3Hf4](https://data.orchid-project.org/compounds/Al3Hf4.html) | 3 | 0 | -38 | -37.785 | [Al–Hf](https://data.orchid-project.org/systems/AL-HF.html)  |
@@ -85,6 +84,7 @@ Table: Compounds (1441)
 | [Al3Li](https://data.orchid-project.org/compounds/Al3Li.html) | 9 | 0 | -9.552 | -9.616 | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html)  |
 | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | 5 | 0 |  | 0.223 | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html)  |
 | [Al3Ni](https://data.orchid-project.org/compounds/Al3Ni.html) | 13 | 3 | -39.068 | -39.608 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html)  |
+| [Al3Ni2](https://data.orchid-project.org/compounds/Al3Ni2.html) | 4 | 3 | -59.167 | -59.715 | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html)  |
 | [Al3Ni2Pr](https://data.orchid-project.org/compounds/Al3Ni2Pr.html) | 4 | 0 |  |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html)  |
 | [Al3Ni2Y](https://data.orchid-project.org/compounds/Al3Ni2Y.html) | 3 | 1 |  |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html)  |
 | [Al3NiY](https://data.orchid-project.org/compounds/Al3NiY.html) | 1 | 0 |  |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html)  |
@@ -98,16 +98,16 @@ Table: Compounds (1441)
 | [Al3V](https://data.orchid-project.org/compounds/Al3V.html) | 3 | 1 | -27.874 | -27.24 | [Al–V](https://data.orchid-project.org/systems/AL-V.html)  |
 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | 3 | 2 | -42.248 | -42.348 | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html)  |
 | [Al3Y5](https://data.orchid-project.org/compounds/Al3Y5.html) | 1 | 0 | -28.525 | -28.827 | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html)  |
-| [Al3Zr](https://data.orchid-project.org/compounds/Al3Zr.html) | 64 | 9 | -47.013 | -47.081 | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
-| [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | 42 | 5 | -50.307 | -50.271 | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
+| [Al3Zr](https://data.orchid-project.org/compounds/Al3Zr.html) | 64 | 9 | -47.013 | -47.081 | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
+| [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | 42 | 5 | -50.307 | -50.271 | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
 | [Al3Zr4](https://data.orchid-project.org/compounds/Al3Zr4.html) | 24 | 0 | -44.408 | -44.415 | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
-| [Al3Zr5](https://data.orchid-project.org/compounds/Al3Zr5.html) | 30 | 4 | -36.102 | -36.236 | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
+| [Al3Zr5](https://data.orchid-project.org/compounds/Al3Zr5.html) | 30 | 4 | -36.102 | -36.236 | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
 | [Al45Ir13](https://data.orchid-project.org/compounds/Al45Ir13.html) | 5 | 0 |  |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html)  |
 | [Al45V7](https://data.orchid-project.org/compounds/Al45V7.html) | 3 | 0 | -14.721 | -14.588 | [Al–V](https://data.orchid-project.org/systems/AL-V.html)  |
 | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | 12 | 8 | -23.27 | -22.888 | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html)  |
 | [Al4C3](https://data.orchid-project.org/compounds/Al4C3.html) | 25 | 1 | -8.807 | -9.446 | [Al–C](https://data.orchid-project.org/systems/AL-C.html)  |
 | [Al4Ca](https://data.orchid-project.org/compounds/Al4Ca.html) | 22 | 6 | -18.794 | -18.472 | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html)  |
-| [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.html) | 4 | 2 |  | -6.536 | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)  |
+| [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.html) | 4 | 2 |  | -6.536 | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)  |
 | [Al4Li9](https://data.orchid-project.org/compounds/Al4Li9.html) | 5 | 1 | -13.974 | -15.411 | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html)  |
 | [Al4Mn](https://data.orchid-project.org/compounds/Al4Mn.html) | 5 | 2 |  |  | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html)  |
 | [Al4NiPr](https://data.orchid-project.org/compounds/Al4NiPr.html) | 4 | 0 |  |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html)  |
@@ -116,7 +116,7 @@ Table: Compounds (1441)
 | [Al4Pu](https://data.orchid-project.org/compounds/Al4Pu.html) | 1 | 0 |  |  | [Al–Pu](https://data.orchid-project.org/systems/AL-PU.html)  |
 | [Al4U](https://data.orchid-project.org/compounds/Al4U.html) | 1 | 0 |  |  | [Al–U](https://data.orchid-project.org/systems/AL-U.html)  |
 | [Al4W](https://data.orchid-project.org/compounds/Al4W.html) | 1 | 0 |  |  | [Al–W](https://data.orchid-project.org/systems/AL-W.html)  |
-| [Al4Zr5](https://data.orchid-project.org/compounds/Al4Zr5.html) | 39 | 4 | -40.375 | -40.389 | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
+| [Al4Zr5](https://data.orchid-project.org/compounds/Al4Zr5.html) | 39 | 4 | -40.375 | -40.389 | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
 | [Al5Ba3](https://data.orchid-project.org/compounds/Al5Ba3.html) | 3 | 0 | -22.211 | -22.16 | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html)  |
 | [Al5Ba4](https://data.orchid-project.org/compounds/Al5Ba4.html) | 6 | 2 | -21.401 | -21.61 | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html)  |
 | [Al5Co2](https://data.orchid-project.org/compounds/Al5Co2.html) | 7 | 0 |  |  | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html)  |
@@ -131,12 +131,12 @@ Table: Compounds (1441)
 | [Al7Ni2Pr](https://data.orchid-project.org/compounds/Al7Ni2Pr.html) | 2 | 0 |  |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html)  |
 | [Al7Ni3Y2](https://data.orchid-project.org/compounds/Al7Ni3Y2.html) | 1 | 0 |  |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html)  |
 | [Al7Sr8](https://data.orchid-project.org/compounds/Al7Sr8.html) | 3 | 0 |  |  | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html)  |
-| [Al8Cr5](https://data.orchid-project.org/compounds/Al8Cr5.html) | 2 | 1 | -5.217 | -9.087 | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)  |
+| [Al8Cr5](https://data.orchid-project.org/compounds/Al8Cr5.html) | 2 | 1 | -5.217 | -9.087 | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)  |
 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | 8 | 5 | -19.01 | -18.934 | [Al–Mn](https://data.orchid-project.org/systems/AL-MN.html)  |
 | [Al8Mo3](https://data.orchid-project.org/compounds/Al8Mo3.html) | 2 | 1 | -32.395 | -32.317 | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html)  |
 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | 8 | 1 | -21.333 | -6.349 | [Al–V](https://data.orchid-project.org/systems/AL-V.html)  |
 | [Al9Co2](https://data.orchid-project.org/compounds/Al9Co2.html) | 6 | 0 |  |  | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html)  |
-| [Al9Cr4](https://data.orchid-project.org/compounds/Al9Cr4.html) | 2 | 1 |  | 11.421 | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)  |
+| [Al9Cr4](https://data.orchid-project.org/compounds/Al9Cr4.html) | 2 | 1 |  | 11.421 | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)  |
 | [Al9Ir2](https://data.orchid-project.org/compounds/Al9Ir2.html) | 1 | 0 |  |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html)  |
 | [Al9Ni3Y](https://data.orchid-project.org/compounds/Al9Ni3Y.html) | 3 | 1 |  |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html)  |
 | [Al9Sr5](https://data.orchid-project.org/compounds/Al9Sr5.html) | 2 | 0 |  |  | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html)  |
@@ -148,12 +148,10 @@ Table: Compounds (1441)
 | [AlCa](https://data.orchid-project.org/compounds/AlCa.html) | 1 | 0 |  | -25.348 | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html)  |
 | [AlCa2](https://data.orchid-project.org/compounds/AlCa2.html) | 4 | 0 |  |  | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html)  |
 | [AlCe3](https://data.orchid-project.org/compounds/AlCe3.html) | 1 | 0 |  |  | [Al–Ce](https://data.orchid-project.org/systems/AL-CE.html)  |
-| [AlCo](https://data.orchid-project.org/compounds/AlCo.html) | 6 | 2 | -58.998 | -58.889 | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)  |
-| [AlCo3](https://data.orchid-project.org/compounds/AlCo3.html) | 2 | 0 | -17.651 | -18.566 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)  |
-| [AlCr](https://data.orchid-project.org/compounds/AlCr.html) | 1 | 0 |  | -3.776 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)  |
-| [AlCr2](https://data.orchid-project.org/compounds/AlCr2.html) | 2 | 1 | -11.845 | -13.209 | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)  |
-| [AlCr3](https://data.orchid-project.org/compounds/AlCr3.html) | 1 | 0 |  | 15.904 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)  |
-| [AlFe3](https://data.orchid-project.org/compounds/AlFe3.html) | 8 | 0 |  |  | [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)  |
+| [AlCo](https://data.orchid-project.org/compounds/AlCo.html) | 5 | 2 | -58.998 | -58.889 | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)  |
+| [AlCo3](https://data.orchid-project.org/compounds/AlCo3.html) | 1 | 0 | -17.651 | -18.566 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)  |
+| [AlCr2](https://data.orchid-project.org/compounds/AlCr2.html) | 2 | 1 | -11.845 | -13.209 | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)  |
+| [AlFe3](https://data.orchid-project.org/compounds/AlFe3.html) | 8 | 0 |  |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)  |
 | [AlHf](https://data.orchid-project.org/compounds/AlHf.html) | 4 | 1 | -38.759 | -38.774 | [Al–Hf](https://data.orchid-project.org/systems/AL-HF.html)  |
 | [AlHf2](https://data.orchid-project.org/compounds/AlHf2.html) | 3 | 0 | -25.526 | -25.508 | [Al–Hf](https://data.orchid-project.org/systems/AL-HF.html)  |
 | [AlIr](https://data.orchid-project.org/compounds/AlIr.html) | 3 | 1 | -92.527 | -91.306 | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html)  |
@@ -164,11 +162,11 @@ Table: Compounds (1441)
 | [AlLi3](https://data.orchid-project.org/compounds/AlLi3.html) | 9 | 0 | -7.688 | -8.815 | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html)  |
 | [AlMo](https://data.orchid-project.org/compounds/AlMo.html) | 2 | 1 |  | -18.854 | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html)  |
 | [AlMo3](https://data.orchid-project.org/compounds/AlMo3.html) | 2 | 1 | -23.552 | -22.704 | [Al–Mo](https://data.orchid-project.org/systems/AL-MO.html)  |
-| [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | 12 | 7 | -63.568 | -64.592 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html)  |
+| [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | 11 | 7 | -63.568 | -64.592 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html)  |
 | [AlNi2Pr2](https://data.orchid-project.org/compounds/AlNi2Pr2.html) | 4 | 0 |  |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html)  |
 | [AlNi2Pt](https://data.orchid-project.org/compounds/AlNi2Pt.html) | 1 | 0 |  |  | [Al–Ni–Pt](https://data.orchid-project.org/systems/AL-NI-PT.html)  |
 | [AlNi2Y2](https://data.orchid-project.org/compounds/AlNi2Y2.html) | 3 | 1 |  |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html)  |
-| [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | 30 | 7 | -41.884 | -42.323 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html)  |
+| [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | 29 | 7 | -41.884 | -42.323 | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html)  |
 | [AlNi3Y2](https://data.orchid-project.org/compounds/AlNi3Y2.html) | 1 | 0 |  |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html)  |
 | [AlNi8Pr3](https://data.orchid-project.org/compounds/AlNi8Pr3.html) | 3 | 0 |  |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html)  |
 | [AlNi8Y3](https://data.orchid-project.org/compounds/AlNi8Y3.html) | 3 | 1 |  |  | [Al–Ni–Y](https://data.orchid-project.org/systems/AL-NI-Y.html)  |
@@ -186,9 +184,9 @@ Table: Compounds (1441)
 | [AlV3](https://data.orchid-project.org/compounds/AlV3.html) | 3 | 0 |  |  | [Al–V](https://data.orchid-project.org/systems/AL-V.html)  |
 | [AlY](https://data.orchid-project.org/compounds/AlY.html) | 2 | 1 | -40.364 | -42.255 | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html)  |
 | [AlY2](https://data.orchid-project.org/compounds/AlY2.html) | 1 | 0 | -30.364 | -30.446 | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html)  |
-| [AlZr](https://data.orchid-project.org/compounds/AlZr.html) | 42 | 5 | -45.406 | -45.296 | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
-| [AlZr2](https://data.orchid-project.org/compounds/AlZr2.html) | 36 | 1 | -34.549 | -34.681 | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
-| [AlZr3](https://data.orchid-project.org/compounds/AlZr3.html) | 36 | 1 | -29.168 | -28.879 | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
+| [AlZr](https://data.orchid-project.org/compounds/AlZr.html) | 42 | 5 | -45.406 | -45.296 | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
+| [AlZr2](https://data.orchid-project.org/compounds/AlZr2.html) | 36 | 1 | -34.549 | -34.681 | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
+| [AlZr3](https://data.orchid-project.org/compounds/AlZr3.html) | 36 | 1 | -29.168 | -28.879 | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)  |
 | [Am2O3](https://data.orchid-project.org/compounds/Am2O3.html) | 3 | 0 |  |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html)  |
 | [AmO2](https://data.orchid-project.org/compounds/AmO2.html) | 3 | 0 |  |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html)  |
 | [As2Ge](https://data.orchid-project.org/compounds/As2Ge.html) | 5 | 1 | -3.963 | -4.725 | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html)  |
@@ -231,10 +229,12 @@ Table: Compounds (1441)
 | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | 7 | 1 | -77.988 | -78.106 | [Au–Nd](https://data.orchid-project.org/systems/AU-ND.html)  |
 | [AuNd2](https://data.orchid-project.org/compounds/AuNd2.html) | 2 | 0 | -53.288 | -53.295 | [Au–Nd](https://data.orchid-project.org/systems/AU-ND.html)  |
 | [AuPt2Sn4](https://data.orchid-project.org/compounds/AuPt2Sn4.html) | 1 | 0 |  |  | [Au–Pt–Sn](https://data.orchid-project.org/systems/AU-PT-SN.html)  |
-| [AuSb2](https://data.orchid-project.org/compounds/AuSb2.html) | 14 | 0 |  |  | [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html)  |
-| [AuSn](https://data.orchid-project.org/compounds/AuSn.html) | 4 | 0 |  |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html)  |
+| [AuSb](https://data.orchid-project.org/compounds/AuSb.html) | 3 | 3 |  | -5.168 | [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html)  |
+| [AuSb2](https://data.orchid-project.org/compounds/AuSb2.html) | 15 | 0 |  |  | [Au–Sb](https://data.orchid-project.org/systems/AU-SB.html)  |
+| [AuSn](https://data.orchid-project.org/compounds/AuSn.html) | 5 | 0 | -17.782 | -22.154 | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html)  |
 | [AuSn2](https://data.orchid-project.org/compounds/AuSn2.html) | 4 | 0 | -12.827 | -18.403 | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html)  |
 | [AuSn4](https://data.orchid-project.org/compounds/AuSn4.html) | 2 | 0 | -7.214 | -13.929 | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html)  |
+| [AuTe2](https://data.orchid-project.org/compounds/AuTe2.html) | 4 | 4 | -8.675 | -8.029 | [Au–Te](https://data.orchid-project.org/systems/AU-TE.html)  |
 | [AuTm](https://data.orchid-project.org/compounds/AuTm.html) | 5 | 1 | -87.323 | -87.084 | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html)  |
 | [AuTm2](https://data.orchid-project.org/compounds/AuTm2.html) | 2 | 0 | -63.921 | -64.161 | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html)  |
 | [Ba0.425Pb0.575](https://data.orchid-project.org/compounds/Ba0.425Pb0.575.html) | 3 | 1 |  |  | [Ba–Pb](https://data.orchid-project.org/systems/BA-PB.html)  |
@@ -280,7 +280,7 @@ Table: Compounds (1441)
 | [Bi2Ce](https://data.orchid-project.org/compounds/Bi2Ce.html) | 3 | 1 |  | -65.432 | [Bi–Ce](https://data.orchid-project.org/systems/BI-CE.html)  |
 | [Bi2Cs](https://data.orchid-project.org/compounds/Bi2Cs.html) | 4 | 1 | -29.714 | -29.789 | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html)  |
 | [Bi2Cs3](https://data.orchid-project.org/compounds/Bi2Cs3.html) | 4 | 1 | -31.375 | -34.17 | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html)  |
-| [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | 22 | 0 |  | -46.37 | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html)  |
+| [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | 23 | 0 |  | -46.37 | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html)  |
 | [Bi2FeTi4](https://data.orchid-project.org/compounds/Bi2FeTi4.html) | 1 | 0 |  |  | [Bi–Fe–Ti](https://data.orchid-project.org/systems/BI-FE-TI.html)  |
 | [Bi2Gd](https://data.orchid-project.org/compounds/Bi2Gd.html) | 10 | 0 |  | -55.782 | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html)  |
 | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | 5 | 2 | -32.149 | -30.659 | [Bi–K](https://data.orchid-project.org/systems/BI-K.html)  |
@@ -378,7 +378,7 @@ Table: Compounds (1441)
 | [CaIn](https://data.orchid-project.org/compounds/CaIn.html) | 2 | 0 | -45.305 | -47.119 | [Ca–In](https://data.orchid-project.org/systems/CA-IN.html)  |
 | [CaIn2](https://data.orchid-project.org/compounds/CaIn2.html) | 2 | 0 | -40.983 | -43.57 | [Ca–In](https://data.orchid-project.org/systems/CA-IN.html)  |
 | [CaLi2](https://data.orchid-project.org/compounds/CaLi2.html) | 2 | 0 |  |  | [Ca–Li](https://data.orchid-project.org/systems/CA-LI.html)  |
-| [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | 13 | 7 | -10.24 | -12.167 | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html)  |
+| [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | 15 | 9 | -10.24 | -12.167 | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html)  |
 | [CaMgSn](https://data.orchid-project.org/compounds/CaMgSn.html) | 2 | 0 |  |  | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html)  |
 | [CaO](https://data.orchid-project.org/compounds/CaO.html) | 6 | 0 | -318.981 | -308.324 | [Ca–O](https://data.orchid-project.org/systems/CA-O.html)  |
 | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | 4 | 0 | -212.9 | -219.972 | [Ca–O](https://data.orchid-project.org/systems/CA-O.html)  |
@@ -452,28 +452,25 @@ Table: Compounds (1441)
 | [Co17Y2](https://data.orchid-project.org/compounds/Co17Y2.html) | 2 | 1 | -9.092 | -10.589 | [Co–Y](https://data.orchid-project.org/systems/CO-Y.html)  |
 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | 4 | 1 | -21.687 | -13.87 | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html)  |
 | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | 3 | 1 | -35.622 | -36.917 | [Co–Hf](https://data.orchid-project.org/systems/CO-HF.html)  |
+| [Co2Mg](https://data.orchid-project.org/compounds/Co2Mg.html) | 1 | 1 | -3.198 | -3.729 | [Co–Mg](https://data.orchid-project.org/systems/CO-MG.html)  |
 | [Co2Ti](https://data.orchid-project.org/compounds/Co2Ti.html) | 2 | 0 |  |  | [Co–Ti](https://data.orchid-project.org/systems/CO-TI.html)  |
 | [Co2Y](https://data.orchid-project.org/compounds/Co2Y.html) | 2 | 1 | -17.069 | -18.206 | [Co–Y](https://data.orchid-project.org/systems/CO-Y.html)  |
 | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | 3 | 1 | -30.045 | -31 | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html)  |
-| [Co3Cr](https://data.orchid-project.org/compounds/Co3Cr.html) | 1 | 0 | 6.073 | 4.759 | [Co–Cr](https://data.orchid-project.org/systems/CO-CR.html)  |
-| [Co3Ni](https://data.orchid-project.org/compounds/Co3Ni.html) | 1 | 0 | 0.008 | -0.771 | [Co–Ni](https://data.orchid-project.org/systems/CO-NI.html)  |
 | [Co3O4](https://data.orchid-project.org/compounds/Co3O4.html) | 3 | 0 | -125.536 | -129.587 | [Co–O](https://data.orchid-project.org/systems/CO-O.html)  |
 | [Co3V](https://data.orchid-project.org/compounds/Co3V.html) | 16 | 0 |  |  | [Co–V](https://data.orchid-project.org/systems/CO-V.html)  |
 | [Co3W](https://data.orchid-project.org/compounds/Co3W.html) | 3 | 0 |  |  | [Co–W](https://data.orchid-project.org/systems/CO-W.html)  |
 | [Co4Y](https://data.orchid-project.org/compounds/Co4Y.html) | 2 | 1 |  |  | [Co–Y](https://data.orchid-project.org/systems/CO-Y.html)  |
 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | 26 | 7 |  | -16.532 | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html)  |
-| [CoCr](https://data.orchid-project.org/compounds/CoCr.html) | 1 | 0 | 14.816 | 15.834 | [Co–Cr](https://data.orchid-project.org/systems/CO-CR.html)  |
-| [CoCr3](https://data.orchid-project.org/compounds/CoCr3.html) | 1 | 0 | 24.326 | 17.209 | [Co–Cr](https://data.orchid-project.org/systems/CO-CR.html)  |
+| [CoCr](https://data.orchid-project.org/compounds/CoCr.html) | 1 | 1 | 14.816 | 2.922 | [Co–Cr](https://data.orchid-project.org/systems/CO-CR.html)  |
 | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | 5 | 4 | -27.209 | -27.73 | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html)  |
 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | 6 | 2 | -25.895 | -25.771 | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html)  |
 | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | 7 | 1 | -20.979 | -22.291 | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html)  |
 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | 7 | 1 | -14.777 | -15.207 | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html)  |
 | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | 3 | 1 | -38.703 | -41.963 | [Co–Hf](https://data.orchid-project.org/systems/CO-HF.html)  |
 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | 2 | 0 | -28.174 | -30.133 | [Co–Hf](https://data.orchid-project.org/systems/CO-HF.html)  |
-| [CoNi](https://data.orchid-project.org/compounds/CoNi.html) | 1 | 0 | 14.703 | 14.332 | [Co–Ni](https://data.orchid-project.org/systems/CO-NI.html)  |
-| [CoNi3](https://data.orchid-project.org/compounds/CoNi3.html) | 1 | 0 | 1.048 | 0.954 | [Co–Ni](https://data.orchid-project.org/systems/CO-NI.html)  |
+| [CoHo3](https://data.orchid-project.org/compounds/CoHo3.html) | 1 | 0 |  |  | [Co–Ho](https://data.orchid-project.org/systems/CO-HO.html)  |
 | [CoO](https://data.orchid-project.org/compounds/CoO.html) | 7 | 3 | -123.923 | -123.858 | [Co–O](https://data.orchid-project.org/systems/CO-O.html)  |
-| [CoPt](https://data.orchid-project.org/compounds/CoPt.html) | 2 | 0 | -8.269 | -9.462 | [Co–Pt](https://data.orchid-project.org/systems/CO-PT.html)  |
+| [CoPt](https://data.orchid-project.org/compounds/CoPt.html) | 2 | 0 |  |  | [Co–Pt](https://data.orchid-project.org/systems/CO-PT.html)  |
 | [CoPt3](https://data.orchid-project.org/compounds/CoPt3.html) | 1 | 0 |  |  | [Co–Pt](https://data.orchid-project.org/systems/CO-PT.html)  |
 | [CoTi2](https://data.orchid-project.org/compounds/CoTi2.html) | 2 | 0 | -27.489 | -32.436 | [Co–Ti](https://data.orchid-project.org/systems/CO-TI.html)  |
 | [CoV3](https://data.orchid-project.org/compounds/CoV3.html) | 4 | 0 |  |  | [Co–V](https://data.orchid-project.org/systems/CO-V.html)  |
@@ -493,8 +490,7 @@ Table: Compounds (1441)
 | [Cr3C2](https://data.orchid-project.org/compounds/Cr3C2.html) | 17 | 0 |  |  | [C–Cr](https://data.orchid-project.org/systems/C-CR.html)  |
 | [Cr3Ga](https://data.orchid-project.org/compounds/Cr3Ga.html) | 15 | 1 | -4.035 | -5.328 | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html)  |
 | [Cr3Ge](https://data.orchid-project.org/compounds/Cr3Ge.html) | 4 | 2 | -10.8 | -12.732 | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html)  |
-| [Cr3La2O12](https://data.orchid-project.org/compounds/Cr3La2O12.html) | 2 | 0 |  |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html)  |
-| [Cr3Ni](https://data.orchid-project.org/compounds/Cr3Ni.html) | 1 | 0 | 14.506 | 13.921 | [Cr–Ni](https://data.orchid-project.org/systems/CR-NI.html)  |
+| [Cr3La2O12](https://data.orchid-project.org/compounds/Cr3La2O12.html) | 3 | 1 |  |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html)  |
 | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | 7 | 1 | -31.155 | -34.888 | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html)  |
 | [Cr5B3](https://data.orchid-project.org/compounds/Cr5B3.html) | 4 | 0 | -40.104 | -40.349 | [B–Cr](https://data.orchid-project.org/systems/B-CR.html)  |
 | [Cr5Ga6](https://data.orchid-project.org/compounds/Cr5Ga6.html) | 7 | 1 |  |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html)  |
@@ -507,8 +503,6 @@ Table: Compounds (1441)
 | [CrLaO3](https://data.orchid-project.org/compounds/CrLaO3.html) | 1 | 0 |  |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html)  |
 | [CrN](https://data.orchid-project.org/compounds/CrN.html) | 2 | 0 | -66.723 | -59.652 | [Cr–N](https://data.orchid-project.org/systems/CR-N.html)  |
 | [CrNb2](https://data.orchid-project.org/compounds/CrNb2.html) | 3 | 0 |  |  | [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html)  |
-| [CrNi](https://data.orchid-project.org/compounds/CrNi.html) | 1 | 0 | 24.772 | 24.862 | [Cr–Ni](https://data.orchid-project.org/systems/CR-NI.html)  |
-| [CrNi3](https://data.orchid-project.org/compounds/CrNi3.html) | 1 | 0 | -0.568 | -0.58 | [Cr–Ni](https://data.orchid-project.org/systems/CR-NI.html)  |
 | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | 7 | 1 | -24.637 | -27.832 | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html)  |
 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | 8 | 2 | -31.349 | -35.843 | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html)  |
 | [CrTa2](https://data.orchid-project.org/compounds/CrTa2.html) | 3 | 0 |  |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html)  |
@@ -642,7 +636,7 @@ Table: Compounds (1441)
 | [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.html) | 4 | 2 | -0.552 | -0.034 | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html)  |
 | [Fe17Ho2](https://data.orchid-project.org/compounds/Fe17Ho2.html) | 4 | 0 |  |  | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html)  |
 | [Fe17Tm2](https://data.orchid-project.org/compounds/Fe17Tm2.html) | 6 | 1 | -2.217 | -2.548 | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html)  |
-| [Fe17Y2](https://data.orchid-project.org/compounds/Fe17Y2.html) | 31 | 3 | -0.76 | -1.077 | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html)  |
+| [Fe17Y2](https://data.orchid-project.org/compounds/Fe17Y2.html) | 32 | 3 | -0.76 | -1.077 | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html)  |
 | [Fe23Gd6](https://data.orchid-project.org/compounds/Fe23Gd6.html) | 2 | 0 | 119.903 | -1.306 | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html)  |
 | [Fe23Ho6](https://data.orchid-project.org/compounds/Fe23Ho6.html) | 4 | 0 |  |  | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html)  |
 | [Fe23Tm6](https://data.orchid-project.org/compounds/Fe23Tm6.html) | 4 | 0 | -8.309 | -7.986 | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html)  |
@@ -660,16 +654,17 @@ Table: Compounds (1441)
 | [Fe2Tm](https://data.orchid-project.org/compounds/Fe2Tm.html) | 10 | 3 | -13.808 | -13.506 | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html)  |
 | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | 14 | 3 | -9.82 | -8.017 | [Fe–U](https://data.orchid-project.org/systems/FE-U.html)  |
 | [Fe2Y](https://data.orchid-project.org/compounds/Fe2Y.html) | 27 | 2 | -6.024 | -6.077 | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html)  |
-| [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | 29 | 8 | -27.082 | -26.998 | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)  |
+| [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | 31 | 8 | -27.082 | -26.998 | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)  |
 | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | 4 | 2 |  | -3.613 | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html)  |
 | [Fe3Ho](https://data.orchid-project.org/compounds/Fe3Ho.html) | 2 | 0 |  |  | [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.html)  |
 | [Fe3Mo2](https://data.orchid-project.org/compounds/Fe3Mo2.html) | 3 | 0 |  |  | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html)  |
-| [Fe3Ni](https://data.orchid-project.org/compounds/Fe3Ni.html) | 1 | 0 |  |  | [Fe–Ni](https://data.orchid-project.org/systems/FE-NI.html)  |
+| [Fe3Ni](https://data.orchid-project.org/compounds/Fe3Ni.html) | 2 | 0 |  |  | [Fe–Ni](https://data.orchid-project.org/systems/FE-NI.html)  |
 | [Fe3O4](https://data.orchid-project.org/compounds/Fe3O4.html) | 1 | 0 | -157.23 | -160.234 | [Fe–O](https://data.orchid-project.org/systems/FE-O.html)  |
 | [Fe3Pt](https://data.orchid-project.org/compounds/Fe3Pt.html) | 1 | 0 |  |  | [Fe–Pt](https://data.orchid-project.org/systems/FE-PT.html)  |
 | [Fe3Ta10](https://data.orchid-project.org/compounds/Fe3Ta10.html) | 1 | 0 |  |  | [Fe–Ta](https://data.orchid-project.org/systems/FE-TA.html)  |
 | [Fe3Tm](https://data.orchid-project.org/compounds/Fe3Tm.html) | 5 | 0 | -11.021 | -11.055 | [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.html)  |
 | [Fe3Y](https://data.orchid-project.org/compounds/Fe3Y.html) | 26 | 2 | -5.882 | -6.168 | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html)  |
+| [Fe3Zr](https://data.orchid-project.org/compounds/Fe3Zr.html) | 1 | 1 |  | -19.722 | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)  |
 | [Fe4Sn10Zr9](https://data.orchid-project.org/compounds/Fe4Sn10Zr9.html) | 2 | 0 |  |  | [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html)  |
 | [Fe4Sn4Zr3](https://data.orchid-project.org/compounds/Fe4Sn4Zr3.html) | 2 | 0 |  |  | [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html)  |
 | [Fe56.24Sn28.13Zr15.63](https://data.orchid-project.org/compounds/Fe56.24Sn28.13Zr15.63.html) | 1 | 0 |  |  | [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html)  |
@@ -689,10 +684,11 @@ Table: Compounds (1441)
 | [FePd3](https://data.orchid-project.org/compounds/FePd3.html) | 2 | 0 | -10.445 | -10.407 | [Fe–Pd](https://data.orchid-project.org/systems/FE-PD.html)  |
 | [FePt](https://data.orchid-project.org/compounds/FePt.html) | 1 | 0 |  |  | [Fe–Pt](https://data.orchid-project.org/systems/FE-PT.html)  |
 | [FePt3](https://data.orchid-project.org/compounds/FePt3.html) | 1 | 0 |  |  | [Fe–Pt](https://data.orchid-project.org/systems/FE-PT.html)  |
+| [FeSb](https://data.orchid-project.org/compounds/FeSb.html) | 1 | 0 |  |  | [Fe–Sb](https://data.orchid-project.org/systems/FE-SB.html)  |
 | [FeSn2Zr6](https://data.orchid-project.org/compounds/FeSn2Zr6.html) | 2 | 0 |  |  | [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html)  |
 | [FeTa12](https://data.orchid-project.org/compounds/FeTa12.html) | 1 | 0 |  |  | [Fe–Ta](https://data.orchid-project.org/systems/FE-TA.html)  |
 | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | 50 | 10 | -40.604 | -43.34 | [Fe–Ti](https://data.orchid-project.org/systems/FE-TI.html)  |
-| [FeU6](https://data.orchid-project.org/compounds/FeU6.html) | 6 | 0 |  |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html)  |
+| [FeU6](https://data.orchid-project.org/compounds/FeU6.html) | 7 | 0 |  |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html)  |
 | [FeY](https://data.orchid-project.org/compounds/FeY.html) | 9 | 0 |  | 0.618 | [Fe–Y](https://data.orchid-project.org/systems/FE-Y.html)  |
 | [FeZr2](https://data.orchid-project.org/compounds/FeZr2.html) | 12 | 0 | -13.424 | -13.55 | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)  |
 | [FeZr3](https://data.orchid-project.org/compounds/FeZr3.html) | 13 | 0 | -10.562 | -11.724 | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)  |
@@ -756,9 +752,12 @@ Table: Compounds (1441)
 | [Gd2O3](https://data.orchid-project.org/compounds/Gd2O3.html) | 2 | 0 | -375.849 | -365.932 | [Gd–O](https://data.orchid-project.org/systems/GD-O.html)  |
 | [Gd2Tl](https://data.orchid-project.org/compounds/Gd2Tl.html) | 1 | 0 | -29.904 | -26.624 | [Gd–Tl](https://data.orchid-project.org/systems/GD-TL.html)  |
 | [Gd3Pd4](https://data.orchid-project.org/compounds/Gd3Pd4.html) | 1 | 0 |  | -87.901 | [Gd–Pd](https://data.orchid-project.org/systems/GD-PD.html)  |
+| [Gd3Ru](https://data.orchid-project.org/compounds/Gd3Ru.html) | 6 | 0 |  | -27.234 | [Gd–Ru](https://data.orchid-project.org/systems/GD-RU.html)  |
 | [Gd3Tl5](https://data.orchid-project.org/compounds/Gd3Tl5.html) | 1 | 0 |  | -31.319 | [Gd–Tl](https://data.orchid-project.org/systems/GD-TL.html)  |
+| [Gd5Ge3](https://data.orchid-project.org/compounds/Gd5Ge3.html) | 1 | 0 |  |  | [Gd–Ge](https://data.orchid-project.org/systems/GD-GE.html)  |
 | [Gd5Tl3](https://data.orchid-project.org/compounds/Gd5Tl3.html) | 1 | 0 |  | -30.501 | [Gd–Tl](https://data.orchid-project.org/systems/GD-TL.html)  |
 | [Gd6Mn23](https://data.orchid-project.org/compounds/Gd6Mn23.html) | 1 | 0 | 89.384 | 12.168 | [Gd–Mn](https://data.orchid-project.org/systems/GD-MN.html)  |
+| [GdMg](https://data.orchid-project.org/compounds/GdMg.html) | 2 | 2 | -10.248 | -8.947 | [Gd–Mg](https://data.orchid-project.org/systems/GD-MG.html)  |
 | [GdMn12](https://data.orchid-project.org/compounds/GdMn12.html) | 1 | 0 | 2.068 | 1.557 | [Gd–Mn](https://data.orchid-project.org/systems/GD-MN.html)  |
 | [GdMn2](https://data.orchid-project.org/compounds/GdMn2.html) | 1 | 0 | 21.064 | 9.268 | [Gd–Mn](https://data.orchid-project.org/systems/GD-MN.html)  |
 | [GdPd](https://data.orchid-project.org/compounds/GdPd.html) | 1 | 0 | -85.094 | -86.932 | [Gd–Pd](https://data.orchid-project.org/systems/GD-PD.html)  |
@@ -815,7 +814,7 @@ Table: Compounds (1441)
 | [GeHf2](https://data.orchid-project.org/compounds/GeHf2.html) | 3 | 1 | -63.356 | -63.208 | [Ge–Hf](https://data.orchid-project.org/systems/GE-HF.html)  |
 | [GeHf3](https://data.orchid-project.org/compounds/GeHf3.html) | 3 | 1 | -45.349 | -45.623 | [Ge–Hf](https://data.orchid-project.org/systems/GE-HF.html)  |
 | [GeLi](https://data.orchid-project.org/compounds/GeLi.html) | 4 | 1 | -27.093 | -27.619 | [Ge–Li](https://data.orchid-project.org/systems/GE-LI.html)  |
-| [GeMg2](https://data.orchid-project.org/compounds/GeMg2.html) | 2 | 1 | -25.946 | -26.833 | [Ge–Mg](https://data.orchid-project.org/systems/GE-MG.html)  |
+| [GeMg2](https://data.orchid-project.org/compounds/GeMg2.html) | 4 | 1 | -25.946 | -26.833 | [Ge–Mg](https://data.orchid-project.org/systems/GE-MG.html)  |
 | [GeNb3](https://data.orchid-project.org/compounds/GeNb3.html) | 4 | 0 |  |  | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html)  |
 | [GeNi](https://data.orchid-project.org/compounds/GeNi.html) | 2 | 1 | -29.425 | -30.317 | [Ge–Ni](https://data.orchid-project.org/systems/GE-NI.html)  |
 | [GeNi2](https://data.orchid-project.org/compounds/GeNi2.html) | 1 | 0 |  |  | [Ge–Ni](https://data.orchid-project.org/systems/GE-NI.html)  |
@@ -850,7 +849,7 @@ Table: Compounds (1441)
 | [Hf9Ni11](https://data.orchid-project.org/compounds/Hf9Ni11.html) | 1 | 0 |  |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html)  |
 | [HfB](https://data.orchid-project.org/compounds/HfB.html) | 2 | 1 | -39.896 | -40.239 | [B–Hf](https://data.orchid-project.org/systems/B-HF.html)  |
 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | 7 | 6 | -98.211 | -98.749 | [B–Hf](https://data.orchid-project.org/systems/B-HF.html)  |
-| [HfC](https://data.orchid-project.org/compounds/HfC.html) | 5 | 0 |  |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html)  |
+| [HfC](https://data.orchid-project.org/compounds/HfC.html) | 6 | 0 |  |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html)  |
 | [HfC0.621](https://data.orchid-project.org/compounds/HfC0.621.html) | 1 | 0 |  |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html)  |
 | [HfC0.67](https://data.orchid-project.org/compounds/HfC0.67.html) | 1 | 0 |  |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html)  |
 | [HfC0.93](https://data.orchid-project.org/compounds/HfC0.93.html) | 1 | 0 |  |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html)  |
@@ -858,14 +857,13 @@ Table: Compounds (1441)
 | [HfC0.97](https://data.orchid-project.org/compounds/HfC0.97.html) | 1 | 0 |  |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html)  |
 | [HfC0.98](https://data.orchid-project.org/compounds/HfC0.98.html) | 1 | 0 |  |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html)  |
 | [HfMo2](https://data.orchid-project.org/compounds/HfMo2.html) | 4 | 0 | -16.577 | -16.409 | [Hf–Mo](https://data.orchid-project.org/systems/HF-MO.html)  |
+| [HfN](https://data.orchid-project.org/compounds/HfN.html) | 1 | 0 |  |  | [Hf–N](https://data.orchid-project.org/systems/HF-N.html)  |
 | [HfNb](https://data.orchid-project.org/compounds/HfNb.html) | 4 | 0 |  |  | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html)  |
 | [HfNb3](https://data.orchid-project.org/compounds/HfNb3.html) | 2 | 0 |  |  | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html)  |
 | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | 4 | 0 | -50.09 | -50.079 | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html)  |
 | [HfNi2](https://data.orchid-project.org/compounds/HfNi2.html) | 1 | 0 |  |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html)  |
-| [HfNi2Sn](https://data.orchid-project.org/compounds/HfNi2Sn.html) | 3 | 0 |  |  | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html)  |
 | [HfNi3](https://data.orchid-project.org/compounds/HfNi3.html) | 2 | 0 | -51.918 | -49.866 | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html)  |
 | [HfNi5](https://data.orchid-project.org/compounds/HfNi5.html) | 3 | 0 | -33.322 | -33.745 | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html)  |
-| [HfNiSn](https://data.orchid-project.org/compounds/HfNiSn.html) | 4 | 0 |  |  | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html)  |
 | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | 3 | 2 | -75.502 | -79.13 | [Hf–Si](https://data.orchid-project.org/systems/HF-SI.html)  |
 | [HfSn](https://data.orchid-project.org/compounds/HfSn.html) | 9 | 0 |  |  | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html)  |
 | [HfSn2](https://data.orchid-project.org/compounds/HfSn2.html) | 1 | 0 |  |  | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html)  |
@@ -895,6 +893,7 @@ Table: Compounds (1441)
 | [In3Y5](https://data.orchid-project.org/compounds/In3Y5.html) | 1 | 0 |  |  | [In–Y](https://data.orchid-project.org/systems/IN-Y.html)  |
 | [In5Sr](https://data.orchid-project.org/compounds/In5Sr.html) | 2 | 0 | -13.592 | -14.676 | [In–Sr](https://data.orchid-project.org/systems/IN-SR.html)  |
 | [In5Y3](https://data.orchid-project.org/compounds/In5Y3.html) | 1 | 0 |  |  | [In–Y](https://data.orchid-project.org/systems/IN-Y.html)  |
+| [InMn3](https://data.orchid-project.org/compounds/InMn3.html) | 1 | 0 |  |  | [In–Mn](https://data.orchid-project.org/systems/IN-MN.html)  |
 | [InN](https://data.orchid-project.org/compounds/InN.html) | 9 | 0 |  |  | [In–N](https://data.orchid-project.org/systems/IN-N.html)  |
 | [InNi2](https://data.orchid-project.org/compounds/InNi2.html) | 6 | 0 |  |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html)  |
 | [InSb](https://data.orchid-project.org/compounds/InSb.html) | 4 | 0 |  |  | [In–Sb](https://data.orchid-project.org/systems/IN-SB.html)  |
@@ -906,18 +905,23 @@ Table: Compounds (1441)
 | [InY](https://data.orchid-project.org/compounds/InY.html) | 1 | 0 |  |  | [In–Y](https://data.orchid-project.org/systems/IN-Y.html)  |
 | [InY2](https://data.orchid-project.org/compounds/InY2.html) | 1 | 0 |  |  | [In–Y](https://data.orchid-project.org/systems/IN-Y.html)  |
 | [KF](https://data.orchid-project.org/compounds/KF.html) | 2 | 1 | -283.123 | -281.083 | [F–K](https://data.orchid-project.org/systems/F-K.html)  |
-| [KNa2](https://data.orchid-project.org/compounds/KNa2.html) | 2 | 1 | 0.954 | -7.272 | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html)  |
+| [KNa2](https://data.orchid-project.org/compounds/KNa2.html) | 2 | 1 | 0.954 | -7.272 | [K–Na](https://data.orchid-project.org/systems/K-NA.html)  |
 | [La2C3](https://data.orchid-project.org/compounds/La2C3.html) | 1 | 1 | -15.983 | -16.43 | [C–La](https://data.orchid-project.org/systems/C-LA.html)  |
 | [La2O3](https://data.orchid-project.org/compounds/La2O3.html) | 17 | 0 | -373.797 | -358.204 | [La–O](https://data.orchid-project.org/systems/LA-O.html)  |
 | [La2Pt7](https://data.orchid-project.org/compounds/La2Pt7.html) | 2 | 1 |  |  | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html)  |
 | [La2Sb](https://data.orchid-project.org/compounds/La2Sb.html) | 4 | 0 |  |  | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html)  |
 | [La3Pt2](https://data.orchid-project.org/compounds/La3Pt2.html) | 2 | 1 | -93.829 | -94.305 | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html)  |
 | [La3Pt4](https://data.orchid-project.org/compounds/La3Pt4.html) | 2 | 1 | -110.164 | -110.878 | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html)  |
+| [La3Ru](https://data.orchid-project.org/compounds/La3Ru.html) | 1 | 0 | -22.718 | -22.581 | [La–Ru](https://data.orchid-project.org/systems/LA-RU.html)  |
 | [La7Pt3](https://data.orchid-project.org/compounds/La7Pt3.html) | 2 | 1 | -75.213 | -75.267 | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html)  |
+| [La7Ru3](https://data.orchid-project.org/compounds/La7Ru3.html) | 1 | 0 | -27.093 | -25.251 | [La–Ru](https://data.orchid-project.org/systems/LA-RU.html)  |
 | [LaC2](https://data.orchid-project.org/compounds/LaC2.html) | 6 | 6 | -15.461 | -16.27 | [C–La](https://data.orchid-project.org/systems/C-LA.html)  |
+| [LaMg](https://data.orchid-project.org/compounds/LaMg.html) | 1 | 1 | -10.633 | -11.149 | [La–Mg](https://data.orchid-project.org/systems/LA-MG.html)  |
+| [LaMg3](https://data.orchid-project.org/compounds/LaMg3.html) | 1 | 1 | -12.786 | -13.107 | [La–Mg](https://data.orchid-project.org/systems/LA-MG.html)  |
 | [LaPt](https://data.orchid-project.org/compounds/LaPt.html) | 2 | 1 | -114.088 | -114.565 | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html)  |
 | [LaPt2](https://data.orchid-project.org/compounds/LaPt2.html) | 11 | 6 | -103.825 | -104.329 | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html)  |
 | [LaPt5](https://data.orchid-project.org/compounds/LaPt5.html) | 2 | 1 | -72.559 | -73.375 | [La–Pt](https://data.orchid-project.org/systems/LA-PT.html)  |
+| [LaRu2](https://data.orchid-project.org/compounds/LaRu2.html) | 3 | 2 | -12.73 | -13.105 | [La–Ru](https://data.orchid-project.org/systems/LA-RU.html)  |
 | [LaSb](https://data.orchid-project.org/compounds/LaSb.html) | 4 | 0 |  |  | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html)  |
 | [Li10Pb3](https://data.orchid-project.org/compounds/Li10Pb3.html) | 1 | 0 |  |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html)  |
 | [Li13Sn5](https://data.orchid-project.org/compounds/Li13Sn5.html) | 6 | 0 |  |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html)  |
@@ -954,9 +958,11 @@ Table: Compounds (1441)
 | [Mg2Ni](https://data.orchid-project.org/compounds/Mg2Ni.html) | 13 | 5 | -16.707 | -18.281 | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html)  |
 | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | 20 | 0 |  |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html)  |
 | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | 32 | 18 | -12.42 | -15.603 | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html)  |
+| [Mg2Sm](https://data.orchid-project.org/compounds/Mg2Sm.html) | 2 | 2 | -8.453 | -9.092 | [Mg–Sm](https://data.orchid-project.org/systems/MG-SM.html)  |
 | [Mg2Sr](https://data.orchid-project.org/compounds/Mg2Sr.html) | 2 | 1 | -7.73 | -10.194 | [Mg–Sr](https://data.orchid-project.org/systems/MG-SR.html)  |
 | [Mg2Y](https://data.orchid-project.org/compounds/Mg2Y.html) | 4 | 3 | -8.564 | -9.233 | [Mg–Y](https://data.orchid-project.org/systems/MG-Y.html)  |
 | [Mg38Sr9](https://data.orchid-project.org/compounds/Mg38Sr9.html) | 1 | 0 | -5.716 | -6.185 | [Mg–Sr](https://data.orchid-project.org/systems/MG-SR.html)  |
+| [Mg3Pr](https://data.orchid-project.org/compounds/Mg3Pr.html) | 1 | 1 | -12.164 | -12.509 | [Mg–Pr](https://data.orchid-project.org/systems/MG-PR.html)  |
 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | 16 | 1 | -43.056 | -36.528 | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html)  |
 | [Mg4B](https://data.orchid-project.org/compounds/Mg4B.html) | 1 | 1 |  |  | [B–Mg](https://data.orchid-project.org/systems/B-MG.html)  |
 | [MgB12](https://data.orchid-project.org/compounds/MgB12.html) | 3 | 1 |  | -0.392 | [B–Mg](https://data.orchid-project.org/systems/B-MG.html)  |
@@ -965,11 +971,16 @@ Table: Compounds (1441)
 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | 15 | 7 | -13.395 | -13.876 | [B–Mg](https://data.orchid-project.org/systems/B-MG.html)  |
 | [MgB6](https://data.orchid-project.org/compounds/MgB6.html) | 5 | 2 |  | 0.227 | [B–Mg](https://data.orchid-project.org/systems/B-MG.html)  |
 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | 7 | 4 | -12.598 | -13.076 | [B–Mg](https://data.orchid-project.org/systems/B-MG.html)  |
+| [MgNd](https://data.orchid-project.org/compounds/MgNd.html) | 1 | 1 | -10.505 | -11.091 | [Mg–Nd](https://data.orchid-project.org/systems/MG-ND.html)  |
 | [MgNi2](https://data.orchid-project.org/compounds/MgNi2.html) | 13 | 5 | -21.279 | -22.517 | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html)  |
 | [MgO](https://data.orchid-project.org/compounds/MgO.html) | 5 | 0 | -294.608 | -284.268 | [Mg–O](https://data.orchid-project.org/systems/MG-O.html)  |
+| [MgPr](https://data.orchid-project.org/compounds/MgPr.html) | 1 | 1 | -10.891 | -11.519 | [Mg–Pr](https://data.orchid-project.org/systems/MG-PR.html)  |
+| [MgSm](https://data.orchid-project.org/compounds/MgSm.html) | 1 | 1 | -9.611 | -10.074 | [Mg–Sm](https://data.orchid-project.org/systems/MG-SM.html)  |
 | [MgSr2](https://data.orchid-project.org/compounds/MgSr2.html) | 1 | 0 | 9.104 | 7.951 | [Mg–Sr](https://data.orchid-project.org/systems/MG-SR.html)  |
+| [MgTl](https://data.orchid-project.org/compounds/MgTl.html) | 1 | 0 |  |  | [Mg–Tl](https://data.orchid-project.org/systems/MG-TL.html)  |
 | [MgY](https://data.orchid-project.org/compounds/MgY.html) | 3 | 2 | -10.689 | -10.582 | [Mg–Y](https://data.orchid-project.org/systems/MG-Y.html)  |
 | [Mn23C6](https://data.orchid-project.org/compounds/Mn23C6.html) | 5 | 2 | -9.077 | -9.296 | [C–Mn](https://data.orchid-project.org/systems/C-MN.html)  |
+| [Mn23Sm6](https://data.orchid-project.org/compounds/Mn23Sm6.html) | 2 | 1 | 10.805 | 18.915 | [Mn–Sm](https://data.orchid-project.org/systems/MN-SM.html)  |
 | [Mn2C](https://data.orchid-project.org/compounds/Mn2C.html) | 3 | 0 |  | -4.319 | [C–Mn](https://data.orchid-project.org/systems/C-MN.html)  |
 | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | 18 | 4 | -194.313 | -195.424 | [Mn–O](https://data.orchid-project.org/systems/MN-O.html)  |
 | [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.html) | 6 | 1 | -26.259 | -27.684 | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html)  |
@@ -986,16 +997,17 @@ Table: Compounds (1441)
 | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | 10 | 0 | -34.8 | -32.521 | [Mo–N](https://data.orchid-project.org/systems/MO-N.html)  |
 | [Mo2Re](https://data.orchid-project.org/compounds/Mo2Re.html) | 1 | 0 |  | 41.296 | [Mo–Re](https://data.orchid-project.org/systems/MO-RE.html)  |
 | [Mo2Zr](https://data.orchid-project.org/compounds/Mo2Zr.html) | 3 | 0 | -13.443 | -13.282 | [Mo–Zr](https://data.orchid-project.org/systems/MO-ZR.html)  |
-| [Mo3Ni](https://data.orchid-project.org/compounds/Mo3Ni.html) | 2 | 0 |  |  | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)  |
+| [Mo3Ni](https://data.orchid-project.org/compounds/Mo3Ni.html) | 3 | 0 |  |  | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)  |
 | [Mo3Ni6Ta5](https://data.orchid-project.org/compounds/Mo3Ni6Ta5.html) | 1 | 0 |  |  | [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html)  |
 | [Mo3Si](https://data.orchid-project.org/compounds/Mo3Si.html) | 31 | 9 | -30.345 | -29.355 | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html)  |
+| [Mo3Ta](https://data.orchid-project.org/compounds/Mo3Ta.html) | 1 | 0 |  |  | [Mo–Ta](https://data.orchid-project.org/systems/MO-TA.html)  |
 | [Mo5Ni6Ta3](https://data.orchid-project.org/compounds/Mo5Ni6Ta3.html) | 1 | 0 |  |  | [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html)  |
 | [Mo5Re](https://data.orchid-project.org/compounds/Mo5Re.html) | 1 | 0 |  |  | [Mo–Re](https://data.orchid-project.org/systems/MO-RE.html)  |
 | [Mo5Si3](https://data.orchid-project.org/compounds/Mo5Si3.html) | 25 | 8 | -38.65 | -38.421 | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html)  |
 | [MoN](https://data.orchid-project.org/compounds/MoN.html) | 11 | 0 | -52.788 | -45.43 | [Mo–N](https://data.orchid-project.org/systems/MO-N.html)  |
 | [MoNi](https://data.orchid-project.org/compounds/MoNi.html) | 8 | 0 |  |  | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)  |
 | [MoNi2](https://data.orchid-project.org/compounds/MoNi2.html) | 1 | 0 |  |  | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)  |
-| [MoNi3](https://data.orchid-project.org/compounds/MoNi3.html) | 6 | 0 |  |  | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)  |
+| [MoNi3](https://data.orchid-project.org/compounds/MoNi3.html) | 7 | 0 |  |  | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)  |
 | [MoNi4](https://data.orchid-project.org/compounds/MoNi4.html) | 1 | 0 |  |  | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)  |
 | [MoNi8](https://data.orchid-project.org/compounds/MoNi8.html) | 1 | 0 |  |  | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)  |
 | [MoPt2](https://data.orchid-project.org/compounds/MoPt2.html) | 9 | 0 |  |  | [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.html)  |
@@ -1004,6 +1016,7 @@ Table: Compounds (1441)
 | [MoRe5](https://data.orchid-project.org/compounds/MoRe5.html) | 1 | 0 |  | 6.962 | [Mo–Re](https://data.orchid-project.org/systems/MO-RE.html)  |
 | [MoSi2](https://data.orchid-project.org/compounds/MoSi2.html) | 24 | 7 | -48.078 | -47.919 | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html)  |
 | [MoTa](https://data.orchid-project.org/compounds/MoTa.html) | 1 | 0 |  |  | [Mo–Ta](https://data.orchid-project.org/systems/MO-TA.html)  |
+| [MoTa3](https://data.orchid-project.org/compounds/MoTa3.html) | 1 | 0 |  |  | [Mo–Ta](https://data.orchid-project.org/systems/MO-TA.html)  |
 | [Na2Te](https://data.orchid-project.org/compounds/Na2Te.html) | 2 | 0 |  |  | [Na–Te](https://data.orchid-project.org/systems/NA-TE.html)  |
 | [Na2U2O7](https://data.orchid-project.org/compounds/Na2U2O7.html) | 4 | 1 |  |  | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html)  |
 | [Na2UO4](https://data.orchid-project.org/compounds/Na2UO4.html) | 5 | 2 |  |  | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html)  |
@@ -1044,6 +1057,9 @@ Table: Compounds (1441)
 | [NbZn2](https://data.orchid-project.org/compounds/NbZn2.html) | 2 | 0 |  |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html)  |
 | [NbZn3](https://data.orchid-project.org/compounds/NbZn3.html) | 2 | 0 |  |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html)  |
 | [Nd2O3](https://data.orchid-project.org/compounds/Nd2O3.html) | 1 | 0 | -364.863 | -349.317 | [Nd–O](https://data.orchid-project.org/systems/ND-O.html)  |
+| [Nd3Ru](https://data.orchid-project.org/compounds/Nd3Ru.html) | 8 | 0 | -18.787 | -18.159 | [Nd–Ru](https://data.orchid-project.org/systems/ND-RU.html)  |
+| [Nd7Ru3](https://data.orchid-project.org/compounds/Nd7Ru3.html) | 6 | 0 |  | -20.935 | [Nd–Ru](https://data.orchid-project.org/systems/ND-RU.html)  |
+| [NdRu2](https://data.orchid-project.org/compounds/NdRu2.html) | 3 | 0 | -15.122 | -13.816 | [Nd–Ru](https://data.orchid-project.org/systems/ND-RU.html)  |
 | [Ni10Zr7](https://data.orchid-project.org/compounds/Ni10Zr7.html) | 12 | 3 | -43.278 | -43.841 | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html)  |
 | [Ni11Se6](https://data.orchid-project.org/compounds/Ni11Se6.html) | 1 | 0 |  |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html)  |
 | [Ni11Zr9](https://data.orchid-project.org/compounds/Ni11Zr9.html) | 6 | 0 | -36.55 | -37.159 | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html)  |
@@ -1059,7 +1075,6 @@ Table: Compounds (1441)
 | [Ni2Si](https://data.orchid-project.org/compounds/Ni2Si.html) | 4 | 2 | -53.015 | -53.941 | [Ni–Si](https://data.orchid-project.org/systems/NI-SI.html)  |
 | [Ni2Sm](https://data.orchid-project.org/compounds/Ni2Sm.html) | 4 | 1 | -35.037 | -35.32 | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html)  |
 | [Ni2Sm3](https://data.orchid-project.org/compounds/Ni2Sm3.html) | 1 | 0 |  | -28.208 | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html)  |
-| [Ni2SnTi](https://data.orchid-project.org/compounds/Ni2SnTi.html) | 3 | 0 |  |  | [Ni–Sn–Ti](https://data.orchid-project.org/systems/NI-SN-TI.html)  |
 | [Ni2Ta](https://data.orchid-project.org/compounds/Ni2Ta.html) | 2 | 0 |  |  | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html)  |
 | [Ni2Tb](https://data.orchid-project.org/compounds/Ni2Tb.html) | 5 | 1 | -41.721 | -20.948 | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html)  |
 | [Ni2Tb3](https://data.orchid-project.org/compounds/Ni2Tb3.html) | 4 | 0 | -33.392 | 3.407 | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html)  |
@@ -1114,7 +1129,6 @@ Table: Compounds (1441)
 | [NiSiTi](https://data.orchid-project.org/compounds/NiSiTi.html) | 1 | 0 |  |  | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html)  |
 | [NiSm](https://data.orchid-project.org/compounds/NiSm.html) | 4 | 2 | -35.514 | -36.107 | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html)  |
 | [NiSm3](https://data.orchid-project.org/compounds/NiSm3.html) | 3 | 1 | -18.685 | -19.412 | [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.html)  |
-| [NiSnTi](https://data.orchid-project.org/compounds/NiSnTi.html) | 4 | 0 |  |  | [Ni–Sn–Ti](https://data.orchid-project.org/systems/NI-SN-TI.html)  |
 | [NiTa2](https://data.orchid-project.org/compounds/NiTa2.html) | 2 | 0 |  |  | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html)  |
 | [NiTa3](https://data.orchid-project.org/compounds/NiTa3.html) | 2 | 0 |  |  | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html)  |
 | [NiTb](https://data.orchid-project.org/compounds/NiTb.html) | 5 | 1 | -42.212 | -11.216 | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html)  |
@@ -1140,7 +1154,7 @@ Table: Compounds (1441)
 | [PbPd](https://data.orchid-project.org/compounds/PbPd.html) | 4 | 0 | -25.205 | -24.877 | [Pb–Pd](https://data.orchid-project.org/systems/PB-PD.html)  |
 | [PbPd3](https://data.orchid-project.org/compounds/PbPd3.html) | 4 | 0 | -28.939 | -28.912 | [Pb–Pd](https://data.orchid-project.org/systems/PB-PD.html)  |
 | [PbSe](https://data.orchid-project.org/compounds/PbSe.html) | 7 | 0 |  |  | [Pb–Se](https://data.orchid-project.org/systems/PB-SE.html)  |
-| [PbTe](https://data.orchid-project.org/compounds/PbTe.html) | 18 | 3 | -39.148 | -39.511 | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html)  |
+| [PbTe](https://data.orchid-project.org/compounds/PbTe.html) | 10 | 3 | -39.148 | -39.511 | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html)  |
 | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | 5 | 3 |  | -54.442 | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html)  |
 | [PbYb2](https://data.orchid-project.org/compounds/PbYb2.html) | 4 | 3 |  | -54.999 | [Pb–Yb](https://data.orchid-project.org/systems/PB-YB.html)  |
 | [Pd1.133Se](https://data.orchid-project.org/compounds/Pd1.133Se.html) | 3 | 0 |  |  | [Pd–Se](https://data.orchid-project.org/systems/PD-SE.html)  |
@@ -1206,7 +1220,8 @@ Table: Compounds (1441)
 | [PuC0.87](https://data.orchid-project.org/compounds/PuC0.87.html) | 1 | 0 |  |  | [C–Pu](https://data.orchid-project.org/systems/C-PU.html)  |
 | [PuC0.878](https://data.orchid-project.org/compounds/PuC0.878.html) | 1 | 0 |  |  | [C–Pu](https://data.orchid-project.org/systems/C-PU.html)  |
 | [PuC0.88](https://data.orchid-project.org/compounds/PuC0.88.html) | 1 | 0 |  |  | [C–Pu](https://data.orchid-project.org/systems/C-PU.html)  |
-| [PuO](https://data.orchid-project.org/compounds/PuO.html) | 6 | 0 | -270.318 | -276.45 | [O–Pu](https://data.orchid-project.org/systems/O-PU.html)  |
+| [PuO1.52](https://data.orchid-project.org/compounds/PuO1.52.html) | 2 | 0 |  |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html)  |
+| [PuO1.61](https://data.orchid-project.org/compounds/PuO1.61.html) | 4 | 0 |  |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html)  |
 | [PuO2](https://data.orchid-project.org/compounds/PuO2.html) | 6 | 0 | -352.148 | -314.622 | [O–Pu](https://data.orchid-project.org/systems/O-PU.html)  |
 | [Re2B5](https://data.orchid-project.org/compounds/Re2B5.html) | 1 | 1 |  |  | [B–Re](https://data.orchid-project.org/systems/B-RE.html)  |
 | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | 10 | 3 | 12.813 | -21.934 | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html)  |
@@ -1221,6 +1236,7 @@ Table: Compounds (1441)
 | [Ru25Y44](https://data.orchid-project.org/compounds/Ru25Y44.html) | 2 | 0 |  |  | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html)  |
 | [Ru2Si](https://data.orchid-project.org/compounds/Ru2Si.html) | 4 | 0 | -39.077 | -38.314 | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html)  |
 | [Ru2Si3](https://data.orchid-project.org/compounds/Ru2Si3.html) | 12 | 5 | -61.195 | -60.271 | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html)  |
+| [Ru2Sm](https://data.orchid-project.org/compounds/Ru2Sm.html) | 9 | 0 | -21.247 | -20.066 | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html)  |
 | [Ru2Sm5](https://data.orchid-project.org/compounds/Ru2Sm5.html) | 7 | 0 | -25.912 | -25.094 | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html)  |
 | [Ru2Sn3](https://data.orchid-project.org/compounds/Ru2Sn3.html) | 4 | 0 |  |  | [Ru–Sn](https://data.orchid-project.org/systems/RU-SN.html)  |
 | [Ru2Y](https://data.orchid-project.org/compounds/Ru2Y.html) | 3 | 1 | -30.337 | -29.461 | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html)  |
@@ -1231,6 +1247,7 @@ Table: Compounds (1441)
 | [Ru4Si3](https://data.orchid-project.org/compounds/Ru4Si3.html) | 6 | 2 | -53.041 | -52.175 | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html)  |
 | [RuO2](https://data.orchid-project.org/compounds/RuO2.html) | 7 | 0 |  |  | [O–Ru](https://data.orchid-project.org/systems/O-RU.html)  |
 | [RuSi](https://data.orchid-project.org/compounds/RuSi.html) | 18 | 8 | -62.629 | -61.662 | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html)  |
+| [RuSm3](https://data.orchid-project.org/compounds/RuSm3.html) | 7 | 0 | -23.003 | -22.27 | [Ru–Sm](https://data.orchid-project.org/systems/RU-SM.html)  |
 | [RuY3](https://data.orchid-project.org/compounds/RuY3.html) | 2 | 0 | -29.533 | -29.107 | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html)  |
 | [RuZr](https://data.orchid-project.org/compounds/RuZr.html) | 9 | 0 |  |  | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html)  |
 | [Sb10Yb11](https://data.orchid-project.org/compounds/Sb10Yb11.html) | 1 | 0 |  |  | [Sb–Yb](https://data.orchid-project.org/systems/SB-YB.html)  |
@@ -1332,7 +1349,7 @@ Table: Compounds (1441)
 | [Sn3Sr5](https://data.orchid-project.org/compounds/Sn3Sr5.html) | 2 | 0 | -61.137 | -64.807 | [Sn–Sr](https://data.orchid-project.org/systems/SN-SR.html)  |
 | [Sn3Ti2](https://data.orchid-project.org/compounds/Sn3Ti2.html) | 1 | 0 | -29.714 | -37.635 | [Sn–Ti](https://data.orchid-project.org/systems/SN-TI.html)  |
 | [Sn3Ti5](https://data.orchid-project.org/compounds/Sn3Ti5.html) | 3 | 1 | -33.586 | -40.265 | [Sn–Ti](https://data.orchid-project.org/systems/SN-TI.html)  |
-| [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | 8 | 6 | -12.058 | -19.098 | [Sn–U](https://data.orchid-project.org/systems/SN-U.html)  |
+| [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | 14 | 6 | -12.058 | -19.098 | [Sn–U](https://data.orchid-project.org/systems/SN-U.html)  |
 | [Sn3Y](https://data.orchid-project.org/compounds/Sn3Y.html) | 1 | 1 | -41.857 | -47.736 | [Sn–Y](https://data.orchid-project.org/systems/SN-Y.html)  |
 | [Sn3Y5](https://data.orchid-project.org/compounds/Sn3Y5.html) | 2 | 2 | -74.299 | -77.681 | [Sn–Y](https://data.orchid-project.org/systems/SN-Y.html)  |
 | [Sn3Yb](https://data.orchid-project.org/compounds/Sn3Yb.html) | 7 | 2 |  | -49.687 | [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.html)  |
@@ -1350,7 +1367,7 @@ Table: Compounds (1441)
 | [SnSe](https://data.orchid-project.org/compounds/SnSe.html) | 6 | 5 | -64.505 | -46.56 | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html)  |
 | [SnSe2](https://data.orchid-project.org/compounds/SnSe2.html) | 10 | 8 | -63.078 | -36.161 | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html)  |
 | [SnSr](https://data.orchid-project.org/compounds/SnSr.html) | 2 | 0 | -65.229 | -70.078 | [Sn–Sr](https://data.orchid-project.org/systems/SN-SR.html)  |
-| [SnSr2](https://data.orchid-project.org/compounds/SnSr2.html) | 2 | 0 | -59.752 | -63.382 | [Sn–Sr](https://data.orchid-project.org/systems/SN-SR.html)  |
+| [SnSr2](https://data.orchid-project.org/compounds/SnSr2.html) | 3 | 1 | -59.752 | -63.382 | [Sn–Sr](https://data.orchid-project.org/systems/SN-SR.html)  |
 | [SnTe](https://data.orchid-project.org/compounds/SnTe.html) | 4 | 3 | -47.968 | -32.026 | [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html)  |
 | [SnTi2](https://data.orchid-project.org/compounds/SnTi2.html) | 3 | 1 | -32.143 | -40.203 | [Sn–Ti](https://data.orchid-project.org/systems/SN-TI.html)  |
 | [SnTi3](https://data.orchid-project.org/compounds/SnTi3.html) | 3 | 1 | -28.912 | -35.677 | [Sn–Ti](https://data.orchid-project.org/systems/SN-TI.html)  |
@@ -1376,7 +1393,7 @@ Table: Compounds (1441)
 | [Ti2CS](https://data.orchid-project.org/compounds/Ti2CS.html) | 3 | 0 |  |  | [C–S–Ti](https://data.orchid-project.org/systems/C-S-TI.html)  |
 | [Ti3B4](https://data.orchid-project.org/compounds/Ti3B4.html) | 2 | 0 |  |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html)  |
 | [TiB](https://data.orchid-project.org/compounds/TiB.html) | 11 | 0 | -80.281 | -82.177 | [B–Ti](https://data.orchid-project.org/systems/B-TI.html)  |
-| [TiB2](https://data.orchid-project.org/compounds/TiB2.html) | 18 | 0 |  |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html)  |
+| [TiB2](https://data.orchid-project.org/compounds/TiB2.html) | 20 | 0 |  |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html)  |
 | [TiC](https://data.orchid-project.org/compounds/TiC.html) | 11 | 0 | -78.062 | -77.586 | [C–Ti](https://data.orchid-project.org/systems/C-TI.html)  |
 | [TiH](https://data.orchid-project.org/compounds/TiH.html) | 1 | 0 |  |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html)  |
 | [TiH2](https://data.orchid-project.org/compounds/TiH2.html) | 14 | 0 |  |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html)  |
@@ -1403,6 +1420,8 @@ Table: Compounds (1441)
 | [UO3](https://data.orchid-project.org/compounds/UO3.html) | 12 | 9 | -348.521 | -302.1 | [O–U](https://data.orchid-project.org/systems/O-U.html)  |
 | [V5B6](https://data.orchid-project.org/compounds/V5B6.html) | 1 | 0 | -80.098 | -78.876 | [B–V](https://data.orchid-project.org/systems/B-V.html)  |
 | [VH2](https://data.orchid-project.org/compounds/VH2.html) | 1 | 0 |  |  | [H–V](https://data.orchid-project.org/systems/H-V.html)  |
+| [VN](https://data.orchid-project.org/compounds/VN.html) | 1 | 0 |  |  | [N–V](https://data.orchid-project.org/systems/N-V.html)  |
+| [VZn16](https://data.orchid-project.org/compounds/VZn16.html) | 1 | 0 |  |  | [V–Zn](https://data.orchid-project.org/systems/V-ZN.html)  |
 | [W2B](https://data.orchid-project.org/compounds/W2B.html) | 7 | 0 |  |  | [B–W](https://data.orchid-project.org/systems/B-W.html)  |
 | [W2B5](https://data.orchid-project.org/compounds/W2B5.html) | 5 | 0 |  |  | [B–W](https://data.orchid-project.org/systems/B-W.html)  |
 | [WB](https://data.orchid-project.org/compounds/WB.html) | 7 | 0 |  |  | [B–W](https://data.orchid-project.org/systems/B-W.html)  |
@@ -1442,7 +1461,7 @@ Table: Compounds (1441)
 | [Zr6O](https://data.orchid-project.org/compounds/Zr6O.html) | 2 | 0 |  | -82.626 | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html)  |
 | [ZrB](https://data.orchid-project.org/compounds/ZrB.html) | 4 | 0 |  |  | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html)  |
 | [ZrB12](https://data.orchid-project.org/compounds/ZrB12.html) | 2 | 0 |  |  | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html)  |
-| [ZrB2](https://data.orchid-project.org/compounds/ZrB2.html) | 5 | 0 |  |  | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html)  |
+| [ZrB2](https://data.orchid-project.org/compounds/ZrB2.html) | 6 | 0 |  |  | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html)  |
 | [ZrC](https://data.orchid-project.org/compounds/ZrC.html) | 2 | 0 | -77.578 | -78.347 | [C–Zr](https://data.orchid-project.org/systems/C-ZR.html)  |
 | [ZrC3](https://data.orchid-project.org/compounds/ZrC3.html) | 2 | 0 |  | 75.506 | [C–Zr](https://data.orchid-project.org/systems/C-ZR.html)  |
 | [ZrH](https://data.orchid-project.org/compounds/ZrH.html) | 2 | 0 |  |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html)  |

@@ -1,10 +1,10 @@
 # H–Mg–Mn system
 
-> H–Mg–Mn system: 11 accepted literature values (phase equilibrium 10, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Mg–Mn system: 10 accepted literature values (phase equilibrium 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-MG-MN.html · Markdown: https://data.orchid-project.org/systems/H-MG-MN.md
 
-11 accepted literature values from 1 paper(s) (experimental 6, unspecified 5); 0 calculated phase diagram(s).
+10 accepted literature values from 1 paper(s) (experimental 5, unspecified 5); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-MG-MN.json) · [CSV](https://data.orchid-project.org/systems/H-MG-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-MG-MN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-MG-MN.html) · [Markdown](https://data.orchid-project.org/systems/H-MG-MN.md)
 
@@ -12,25 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
+| experimental | 5 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
 | phase equilibrium | 10 |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, H–Mg–Mn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 670.15 K | 670.15 | other | experimental | [1] Liang 2018; _cites Goto 2003_ [doi](https://doi.org/10.1016/s1468-6996%2803%2900057-3) | p. 2; `ORC-PPA3UTUIDP` | “The decomposition of Mg3MnH7 occurred in a broad step covering the temperature range from 257 to 367 °C under 0.1 MPa hydrogen\[26\] and 397 °C at 0.05 MPa Ar flow.\[27\]” |
 
 ### Phase equilibrium (10)
 

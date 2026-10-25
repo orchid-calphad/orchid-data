@@ -1,10 +1,10 @@
 # Ga–U system
 
-> Ga–U system: 59 accepted literature values (invariant reaction 28, phase equilibrium 17, crystal structure 12, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–U system: 56 accepted literature values (invariant reaction 25, phase equilibrium 17, crystal structure 12, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-U.html · Markdown: https://data.orchid-project.org/systems/GA-U.md
 
-59 accepted literature values from 2 paper(s) (experimental 53, unspecified 6); 2 calculated phase diagram(s).
+56 accepted literature values from 2 paper(s) (experimental 50, unspecified 6); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-U.json) · [CSV](https://data.orchid-project.org/systems/GA-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-U/GaU-08Wan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GA-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-U.html) · [Markdown](https://data.orchid-project.org/systems/GA-U.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 53 |
+| experimental | 50 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 28 |
+| invariant reaction | 25 |
 | phase transition | 2 |
 | phase equilibrium | 17 |
 | crystal structure | 12 |
@@ -64,7 +64,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ga–U system (28)
+Table: Invariant reactions reported in the literature for the Ga–U system (25)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -79,23 +79,20 @@ Table: Invariant reactions reported in the literature for the Ga–U system (28)
 | 1545 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 3; `ORC-3IWASTEG5N` |  |
 | 1533.15 | peritectic: L + Ga2U -> Ga3U2 | L: Ga 0.483; Ga2U: Ga 0.667; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 4; `ORC-GQKV4LF5FD` |  |
 | 1533.15 | peritectic: L + Ga2U -> Ga3U2 | L: Ga 0.445; Ga2U: Ga 0.667; Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 3; `ORC-MBYS7ZCOAR` |  |
-| 1533 | peritectic: U-richest phase -> UGa2 + liquid |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2; `ORC-5VNQT377YG` | “According to \[15\] this U-richest phase has a peritectic decomposition at 1533 K yielding UGa2 and liquid.” |
 | 1523.15 | peritectic: L + Ga2U -> Ga3U | L: Ga 0.815; Ga2U: Ga 0.667; Ga3U: Ga 0.75 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 7; `ORC-6PRRACJLIZ` |  |
 | 1523.15 | peritectic: L + Ga2U -> Ga3U | L: Ga 0.815; Ga2U: Ga 0.667; Ga3U: Ga 0.75 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 8; `ORC-W2SA2F5V6P` |  |
-| 1523 | peritectic: UGa3 -> UGa2 + L |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2; `ORC-E6X57PN4KQ` | “According to \[15\] it decomposes by peritectic reaction at 1523 K as UGa3 / UGa2 þ L.” |
 | 1509 | U3Ga5 -> UGa2 + L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved); UGa2: Ga 0.666667, U 0.333333 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 10; `ORC-BHMZECDBXK` |  |
 | 1411 | liquidus |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 15; `ORC-7GDGIU37FQ` |  |
 | 1303.15 | eutectic: L -> γ (U) + Ga3U2 | L: Ga 0.214; γ (U): Ga 0.099; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 2; `ORC-2W6XIAO72G` |  |
 | 1303.15 | eutectic: L -> γ (U) + Ga3U2 | L: Ga 0.22; γ (U): Ga 0.092; Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 1; `ORC-WQIIBZR5CQ` |  |
-| 1303 | eutectic |  | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | p. 2; `ORC-QURSODLIGC` | “The liquidus was drawn by joining the experimental points measured by DTA \[15\] revealing an eutectic composition at about 22 at.% Ga with a melting point about 1303 K.” |
 | 1293 | U3Ga5 + γU -> L | U3Ga5: Ga 0.625, U 0.375 (basis unresolved) | experimental | [2] Moussa 2018 | Table 3, p. 4, row 14; `ORC-PJTKP7ETM3` |  |
-| 1009 | βU -> γU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 8; `ORC-WS3FY3PK7R` |  |
+| 1009 | polymorphic: βU -> γU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 8; `ORC-WS3FY3PK7R` |  |
 | 1008.15 | eutectoid: γ (U) -> Ga3U2 + β (U) | γ (U): Ga 0.01; Ga3U2: Ga 0.6; β (U): Ga 0.001 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 9; `ORC-3FQMPSEWFS` |  |
-| 1008 | βU -> γU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 13; `ORC-L2BKUDZ5BU` |  |
+| 1008 | polymorphic: βU -> γU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 13; `ORC-L2BKUDZ5BU` |  |
 | 1007.15 | eutectoid: γ (U) -> Ga3U2 + β (U) | γ (U): Ga 0.03; Ga3U2: Ga 0.6; β (U): Ga 0.001 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 10; `ORC-HZBZJNGTRU` |  |
 | 933.15 | eutectoid: β (U) -> Ga3U2 + α (U) | β (U): Ga 5.000e-4; Ga3U2: Ga 0.6 | unspecified | [1] Wang 2008 | Table 3, p. 5, row 12; `ORC-5GW2ZYNJVZ` |  |
 | 933.15 | eutectoid: β (U) -> Ga3U2 + α (U) | Ga3U2: Ga 0.6 | experimental | [1] Wang 2008; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 3, p. 5, row 11; `ORC-IJJQA6O2O2` |  |
-| 932 | αU -> βU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 7; `ORC-2R6CA7RA6I` |  |
+| 932 | polymorphic: αU -> βU |  | experimental | [2] Moussa 2018 | Table 3, p. 4, row 7; `ORC-2R6CA7RA6I` |  |
 
 ## Other properties
 

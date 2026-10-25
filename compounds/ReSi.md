@@ -33,8 +33,8 @@ Table: Uncertainty budget of the literature values of ReSi
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -25.4 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -25.4 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -25.4 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -25.4 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -32.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -28 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -28 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

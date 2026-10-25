@@ -597,7 +597,7 @@
     "x0": 0.279,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <-> Ni3Sb_HT",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -615,7 +615,7 @@
     "x0": 0.279,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <-> Ni3Sb_HT",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -709,7 +709,7 @@
     "x0": 0.489,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <-> NiSb",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -727,7 +727,7 @@
     "x0": 0.489,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <-> NiSb",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

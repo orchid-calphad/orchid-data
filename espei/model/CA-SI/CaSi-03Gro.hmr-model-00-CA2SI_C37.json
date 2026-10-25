@@ -73,8 +73,7 @@
   "dois": [
    "10.1016/j.intermet.2003.07.001"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/CaSi-03Gro/hmr-model-00.json",
-  "values_dropped": 5
+  "source_dataset": "db-v2.1/general/espei-model/CaSi-03Gro/hmr-model-00.json"
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",

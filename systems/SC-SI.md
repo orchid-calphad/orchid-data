@@ -74,18 +74,18 @@ Table: Invariant reactions reported in the literature for the Sc–Si system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2333.15 | L -> Sc5Si3 | L: Si 0.375; Sc5Si3: Si 0.375 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 13; `ORC-BF4OWCWJ5X` |  |
-| 2330.15 | L -> Sc5Si3 | L: Si 0.375; Sc5Si3: Si 0.375 | model | [1] Qin 2015 | Table 4, p. 5, row 14; `ORC-IHBPNX6LXO` |  |
+| 2333.15 | congruent melting: L -> Sc5Si3 | L: Si 0.375; Sc5Si3: Si 0.375 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 13; `ORC-BF4OWCWJ5X` |  |
+| 2330.15 | congruent melting: L -> Sc5Si3 | L: Si 0.375; Sc5Si3: Si 0.375 | model | [1] Qin 2015 | Table 4, p. 5, row 14; `ORC-IHBPNX6LXO` |  |
 | 2058.15 | L + Sc5Si3 -> ScSi | Sc5Si3: Si 0.375; ScSi: Si 0.5 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 3; `ORC-WYKTNDZZAU` |  |
 | 2057.15 | L + Sc5Si3 -> ScSi | L: Si 0.5045; Sc5Si3: Si 0.375; ScSi: Si 0.5 | model | [1] Qin 2015 | Table 4, p. 5, row 4; `ORC-MPG4EF34BE` |  |
-| 1548.15 | L -> (αSc) + Sc5Si3 | L: Si 0.12; (αSc): Si 0; Sc5Si3: Si 0.375 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 1; `ORC-R7L6SCZX4M` |  |
-| 1547.15 | L -> (αSc) + Sc5Si3 | L: Si 0.101; (αSc): Si 0; Sc5Si3: Si 0.375 | model | [1] Qin 2015 | Table 4, p. 5, row 2; `ORC-R2M4T4OZ7J` |  |
+| 1548.15 | eutectic: L -> (αSc) + Sc5Si3 | L: Si 0.12; (αSc): Si 0; Sc5Si3: Si 0.375 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 1; `ORC-R7L6SCZX4M` |  |
+| 1547.15 | eutectic: L -> (αSc) + Sc5Si3 | L: Si 0.101; (αSc): Si 0; Sc5Si3: Si 0.375 | model | [1] Qin 2015 | Table 4, p. 5, row 2; `ORC-R2M4T4OZ7J` |  |
 | 1536.15 | L + ScSi -> βSc3Si5 | L: Si 0.711; ScSi: Si 0.5; βSc3Si5: Si 0.625 | model | [1] Qin 2015 | Table 4, p. 5, row 6; `ORC-2GKXU2UQB4` |  |
 | 1533.15 | L + ScSi -> βSc3Si5 | ScSi: Si 0.5; βSc3Si5: Si 0.6 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 5; `ORC-YMSQ23JBYN` |  |
-| 1428.15 | L -> (βSc3Si5) + (Si) | L: Si 0.77; (βSc3Si5): Si 0.6; (Si): Si 1 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 7; `ORC-AXBNWQ4KUA` |  |
-| 1424.15 | L -> (βSc3Si5) + (Si) | L: Si 0.761; (βSc3Si5): Si 0.625; (Si): Si 1 | model | [1] Qin 2015 | Table 4, p. 5, row 8; `ORC-SO32SN4QWM` |  |
-| 1343.15 | βSc3Si5 -> αSc3Si5 | βSc3Si5: Si 0.625; αSc3Si5: Si 0.625 | model | [1] Qin 2015 | Table 4, p. 5, row 12; `ORC-JM2E2PIIN3` |  |
-| 1343.15 | βSc3Si5 -> αSc3Si5 | βSc3Si5: Si 0.6; αSc3Si5: Si 0.6 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 11; `ORC-KQBB62IPBY` |  |
+| 1428.15 | eutectic: L -> (βSc3Si5) + (Si) | L: Si 0.77; (βSc3Si5): Si 0.6; (Si): Si 1 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 7; `ORC-AXBNWQ4KUA` |  |
+| 1424.15 | eutectic: L -> (βSc3Si5) + (Si) | L: Si 0.761; (βSc3Si5): Si 0.625; (Si): Si 1 | model | [1] Qin 2015 | Table 4, p. 5, row 8; `ORC-SO32SN4QWM` |  |
+| 1343.15 | polymorphic: βSc3Si5 -> αSc3Si5 | βSc3Si5: Si 0.625; αSc3Si5: Si 0.625 | model | [1] Qin 2015 | Table 4, p. 5, row 12; `ORC-JM2E2PIIN3` |  |
+| 1343.15 | polymorphic: βSc3Si5 -> αSc3Si5 | βSc3Si5: Si 0.6; αSc3Si5: Si 0.6 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 11; `ORC-KQBB62IPBY` |  |
 | 1199.15 | αSc3Si5 -> ScSi + (Si) | αSc3Si5: Si 0.625; ScSi: Si 0.5; (Si): Si 1 | model | [1] Qin 2015 | Table 4, p. 5, row 10; `ORC-PDTNDEOHYF` |  |
 | 1198.15 | αSc3Si5 -> ScSi + (Si) | αSc3Si5: Si 0.6; ScSi: Si 0.5; (Si): Si 1 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 9; `ORC-I5I6DC2SDZ` |  |
 

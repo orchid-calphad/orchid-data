@@ -397,7 +397,7 @@
     "x0": 0.789,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> bcc + χ",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -416,7 +416,7 @@
     "x0": 0.789,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> bcc + χ",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

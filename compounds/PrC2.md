@@ -25,7 +25,7 @@ Table: Uncertainty budget of the literature values of PrC2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -29.4 | kJ/mol-atom | 1.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -29.4 | kJ/mol-atom | 1.6 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -28.2 | kJ/mol-atom | 3.5 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 
 ## DFT formation energies

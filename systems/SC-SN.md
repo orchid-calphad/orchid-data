@@ -1,10 +1,10 @@
 # Sc–Sn system
 
-> Sc–Sn system: 41 accepted literature values (invariant reaction 22, formation 10, phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–Sn system: 28 accepted literature values (invariant reaction 13, formation 10, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-SN.html · Markdown: https://data.orchid-project.org/systems/SC-SN.md
 
-41 accepted literature values from 1 paper(s) (experimental 25, model 10, unspecified 6); 1 calculated phase diagram(s).
+28 accepted literature values from 1 paper(s) (experimental 17, model 5, unspecified 6); 1 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-SN.json) · [CSV](https://data.orchid-project.org/systems/SC-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-SN/ScSn-13Idd.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SC-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-SN.html) · [Markdown](https://data.orchid-project.org/systems/SC-SN.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 10 |
+| experimental | 17 |
+| model | 5 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 22 |
-| phase transition | 9 |
+| invariant reaction | 13 |
+| phase transition | 5 |
 | formation | 10 |
 
 ## Calculated phase diagrams
@@ -58,31 +58,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sc–Sn system (22)
+Table: Invariant reactions reported in the literature for the Sc–Sn system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1728 | peritectic |  | experimental | [1] Iddaoudi 2013; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 1; `ORC-7W26EGC4ZC.8a98ec` | “For the Sc5Sn3 compound a congruent melting was determined at 2073 K, while the Sc6Sn5, ScSn and ScSn2 compounds, a peritectic formation was reported, respectively, at 1728, 1218 and 1168 K.” |
 | 1728 | Liq + Sc6Sn5 \<-> α-Sc5Sn3 | Sc6Sn5: Sn 0.454545; α-Sc5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2013; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | Table 3, p. 3, row 9; `ORC-F3JZDIHSUJ` |  |
 | 1645 | Liq + Sc6Sn5 \<-> α-Sc5Sn3 | Sc6Sn5: Sn 0.454545; α-Sc5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2013 | Table 3, p. 3, row 11; `ORC-DAU47JOHMX` |  |
-| 1643 | peritectic |  | model | [1] Iddaoudi 2013; _cites Okamoto 2013_ | p. 1; `ORC-43DHJMJED7.a84a6f` | “For the Sc5Sn3 compound a congruent melting was estimated at 2073 K, Sc6Sn5, Sc11Sn10 and ScSn2 compounds, a peritectic formation were reported respectively at 1643, 1238 and 1148 K.” |
 | 1643 | Liq + Sc6Sn5 \<-> α-Sc5Sn3 | Sc6Sn5: Sn 0.454545; α-Sc5Sn3: Sn 0.375 | unspecified | [1] Iddaoudi 2013; _cites Podarevskaya 2005_ [doi](https://doi.org/10.1007/s11106-006-0010-4) | Table 3, p. 3, row 10; `ORC-QHNVTA5B7X` |  |
-| 1643 | peritectic |  | experimental | [1] Iddaoudi 2013; _cites Podarevskaya 2005_ [doi](https://doi.org/10.1007/s11106-006-0010-4) | p. 1; `ORC-TL7P5LJVRV.eae61c` | “For the Sc5Sn3 compound a congruent melting was described at 2073 K, while the Sc5Sn4 and Sc11Sn10 compounds, a peritectic formation were reported, respectively, at 1643 and 1238 K.” |
 | 1543 | Liq \<-> Sc + α-Sc5Sn3 | α-Sc5Sn3: Sn 0.375 | unspecified | [1] Iddaoudi 2013; _cites Podarevskaya 2005_ [doi](https://doi.org/10.1007/s11106-006-0010-4) | Table 3, p. 3, row 17; `ORC-DJ63RIBDI3` |  |
 | 1543 | Liq \<-> Sc + α-Sc5Sn3 | α-Sc5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2013 | Table 3, p. 3, row 18; `ORC-OEGCSNYOMM` |  |
-| 1238 | peritectic |  | model | [1] Iddaoudi 2013; _cites Okamoto 2013_ | p. 1; `ORC-43DHJMJED7.445cfc` | “For the Sc5Sn3 compound a congruent melting was estimated at 2073 K, Sc6Sn5, Sc11Sn10 and ScSn2 compounds, a peritectic formation were reported respectively at 1643, 1238 and 1148 K.” |
 | 1238 | Liq + Sc11Sn10 \<-> Sc6Sn5 | Sc11Sn10: Sn 0.47619; Sc6Sn5: Sn 0.454545 | unspecified | [1] Iddaoudi 2013; _cites Podarevskaya 2005_ [doi](https://doi.org/10.1007/s11106-006-0010-4) | Table 3, p. 3, row 7; `ORC-FMT6UZ7XPE` |  |
-| 1238 | peritectic |  | experimental | [1] Iddaoudi 2013; _cites Podarevskaya 2005_ [doi](https://doi.org/10.1007/s11106-006-0010-4) | p. 1; `ORC-TL7P5LJVRV.3b92c4` | “For the Sc5Sn3 compound a congruent melting was described at 2073 K, while the Sc5Sn4 and Sc11Sn10 compounds, a peritectic formation were reported, respectively, at 1643 and 1238 K.” |
 | 1238 | Liq + Sc11Sn10 \<-> Sc6Sn5 | Sc11Sn10: Sn 0.47619; Sc6Sn5: Sn 0.454545 | experimental | [1] Iddaoudi 2013 | Table 3, p. 3, row 8; `ORC-VXOLD7A2XK` |  |
 | 1218 | Liq + Sc11Sn10 \<-> Sc6Sn5 | Sc11Sn10: Sn 0.47619; Sc6Sn5: Sn 0.454545 | experimental | [1] Iddaoudi 2013; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | Table 3, p. 3, row 6; `ORC-6R4ZPWOXC3` |  |
-| 1218 | peritectic |  | experimental | [1] Iddaoudi 2013; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 1; `ORC-7W26EGC4ZC.652bac` | “For the Sc5Sn3 compound a congruent melting was determined at 2073 K, while the Sc6Sn5, ScSn and ScSn2 compounds, a peritectic formation was reported, respectively, at 1728, 1218 and 1168 K.” |
-| 1168 | peritectic |  | experimental | [1] Iddaoudi 2013; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 1; `ORC-7W26EGC4ZC.ca9e16` | “For the Sc5Sn3 compound a congruent melting was determined at 2073 K, while the Sc6Sn5, ScSn and ScSn2 compounds, a peritectic formation was reported, respectively, at 1728, 1218 and 1168 K.” |
 | 1163 | Liq + ScSn2 \<-> Sc11Sn10 | ScSn2: Sn 0.666667; Sc11Sn10: Sn 0.47619 | experimental | [1] Iddaoudi 2013; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | Table 3, p. 3, row 3; `ORC-JBDHKRZ2BW` |  |
-| 1148 | peritectic |  | model | [1] Iddaoudi 2013; _cites Okamoto 2013_ | p. 1; `ORC-43DHJMJED7.4552a3` | “For the Sc5Sn3 compound a congruent melting was estimated at 2073 K, Sc6Sn5, Sc11Sn10 and ScSn2 compounds, a peritectic formation were reported respectively at 1643, 1238 and 1148 K.” |
 | 1148 | Liq + ScSn2 \<-> Sc11Sn10 | ScSn2: Sn 0.666667; Sc11Sn10: Sn 0.47619 | unspecified | [1] Iddaoudi 2013; _cites Podarevskaya 2005_ [doi](https://doi.org/10.1007/s11106-006-0010-4) | Table 3, p. 3, row 4; `ORC-GXMKTZYXUV` |  |
 | 1147 | Liq + ScSn2 \<-> Sc11Sn10 | ScSn2: Sn 0.666667; Sc11Sn10: Sn 0.47619 | experimental | [1] Iddaoudi 2013 | Table 3, p. 3, row 5; `ORC-MCVQNSVFNK` |  |
 | 504.7 | Liq \<-> Sn + ScSn2 | Sn: Sn 1; ScSn2: Sn 0.666667 | experimental | [1] Iddaoudi 2013 | Table 3, p. 3, row 2; `ORC-7XEMYTAZ3Z` |  |
-| 504 | eutectic: Liq -> Sn + ScSn2 |  | model | [1] Iddaoudi 2013 | p. 3; `ORC-TFCPVNVGK5` | “The temperature of this Liq2SnþScSn2 eutectic reaction is calculated at 504 K.” |
 | 498 | Liq \<-> Sn + ScSn2 | Sn: Sn 1; ScSn2: Sn 0.666667 | experimental | [1] Iddaoudi 2013; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | Table 3, p. 3, row 1; `ORC-WLGTTUGISP` |  |
 
 ## Formation enthalpies
@@ -106,21 +97,17 @@ Table: Enthalpies of formation, Sc–Sn system (10)
 
 ## Other properties
 
-### Phase transition (9)
+### Phase transition (5)
 
 Table: Phase transition, Sc–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1988 K | 1988 | polymorphic | experimental | [1] Iddaoudi 2013; _cites Podarevskaya 2005_ [doi](https://doi.org/10.1007/s11106-006-0010-4) | p. 1; `ORC-ISPKL2WHXF` | “A polymorphic transition a-Sc5Sn32b-Sc5Sn3 was determined at 1988 K for Sc5Sn3.” |
 | Phase transition | 1988 K | 1988 | α-Sc5Sn3 \<-> β-Sc5Sn3; _α-Sc5Sn3: Sn 0.375; β-Sc5Sn3: Sn 0.375_ | experimental | [1] Iddaoudi 2013 | Table 3, p. 3, row 13; `ORC-HSIM5RYU6L` |  |
 | Phase transition | 1988 K | 1988 | α-Sc5Sn3 \<-> β-Sc5Sn3; _α-Sc5Sn3: Sn 0.375; β-Sc5Sn3: Sn 0.375_ | unspecified | [1] Iddaoudi 2013; _cites Podarevskaya 2005_ [doi](https://doi.org/10.1007/s11106-006-0010-4) | Table 3, p. 3, row 12; `ORC-LIQOK4LZ6Z` |  |
 | Phase transition | 2070 K | 2070 | Liq \<-> β-Sc5Sn3; _Liq: Sn 0.375; β-Sc5Sn3: Sn 0.375_ | experimental | [1] Iddaoudi 2013 | Table 3, p. 3, row 16; `ORC-72HWEZ4T6M` |  |
 | Phase transition | 2073 K | 2073 | Liq \<-> β-Sc5Sn3; _Liq: Sn 0.375; β-Sc5Sn3: Sn 0.375_ | experimental | [1] Iddaoudi 2013; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | Table 3, p. 3, row 14; `ORC-GN2CLP3AO7` |  |
 | Phase transition | 2073 K | 2073 | Liq \<-> β-Sc5Sn3; _Liq: Sn 0.375; β-Sc5Sn3: Sn 0.375_ | unspecified | [1] Iddaoudi 2013; _cites Podarevskaya 2005_ [doi](https://doi.org/10.1007/s11106-006-0010-4) | Table 3, p. 3, row 15; `ORC-MWYE3OQQNR` |  |
-| Phase transition | 2073 K | 2073 | congruent transformation | model | [1] Iddaoudi 2013; _cites Okamoto 2013_ | p. 1; `ORC-43DHJMJED7.8b8d94` | “For the Sc5Sn3 compound a congruent melting was estimated at 2073 K, Sc6Sn5, Sc11Sn10 and ScSn2 compounds, a peritectic formation were reported respectively at 1643, 1238 and 1148 K.” |
-| Phase transition | 2073 K | 2073 | congruent transformation | experimental | [1] Iddaoudi 2013; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 1; `ORC-7W26EGC4ZC.9b27ec` | “For the Sc5Sn3 compound a congruent melting was determined at 2073 K, while the Sc6Sn5, ScSn and ScSn2 compounds, a peritectic formation was reported, respectively, at 1728, 1218 and 1168 K.” |
-| Phase transition | 2073 K | 2073 | congruent transformation | experimental | [1] Iddaoudi 2013; _cites Podarevskaya 2005_ [doi](https://doi.org/10.1007/s11106-006-0010-4) | p. 1; `ORC-TL7P5LJVRV.f2f63d` | “For the Sc5Sn3 compound a congruent melting was described at 2073 K, while the Sc5Sn4 and Sc11Sn10 compounds, a peritectic formation were reported, respectively, at 1643 and 1238 K.” |
 
 ## Sources
 

@@ -17,7 +17,7 @@ Table: Phases of the Ni–Sc system (10)
 | [C15_LAVES](#phase-ni-sc-c15-laves); _phase:ni-sc:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1581.16 K, x(Sc) 0.27895–0.3499 | 31 | 3 |
 | [FCC_A1](#phase-ni-sc-fcc-a1); _phase:ni-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1770.42 K, x(Sc) 0–0.00706 | 15 | 3 |
 | [HCP_A3](#phase-ni-sc-hcp-a3); _phase:ni-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1882.97 K, x(Sc) 0.98992–1 | 22 | 3 |
-| [LIQUID](#phase-ni-sc-liquid); _phase:ni-sc:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1112.71–2500 K, x(Sc) 0–1 | 108 | 3 |
+| [LIQUID](#phase-ni-sc-liquid); _phase:ni-sc:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1112.71–2500 K, x(Sc) 0–1 | 110 | 3 |
 | [NI5SC_D2D](#phase-ni-sc-ni5sc-d2d); _phase:ni-sc:ni5sc-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1455.72 K, x(Sc) 0.16667–0.16667 | 26 | 3 |
 | [NI7SC2](#phase-ni-sc-ni7sc2); _phase:ni-sc:ni7sc2_ | Ce2Ni7 · hP36 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1564.33 K, x(Sc) 0.22222–0.22222 | 34 | 3 |
 | [NISC_B2](#phase-ni-sc-nisc-b2); _phase:ni-sc:nisc-b2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1542.73 K, x(Sc) 0.53–0.53 | 20 | 2 |
@@ -257,7 +257,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ni-sc:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1112.71–2500 K, x(Sc) 0–1
-- Literature: 108 values (108 accepted) from 3 papers
+- Literature: 110 values (110 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sc:liquid)
 
 Names (8): _corpus: _corpus:phase:ni-sc:liquid  

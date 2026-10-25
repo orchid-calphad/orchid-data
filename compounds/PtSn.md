@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/PtSn.html · Markdown: https://data.orchid-project.org/compounds/PtSn.md
 
-11 accepted literature formation-enthalpy value(s) (experimental 5, model 6); experimental median -58.8 kJ/mol-atom (n = 5); Materials Project -55.215 kJ/mol-atom (mp-aaaabdjs); OQMD -60.58 kJ/mol-atom (oqmd-7829).
+11 accepted literature formation-enthalpy value(s) (experimental 5, model 5, DFT 1); experimental median -58.8 kJ/mol-atom (n = 5); Materials Project -55.215 kJ/mol-atom (mp-aaaabdjs); OQMD -60.58 kJ/mol-atom (oqmd-7829).
 
 Systems: [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html)
 
@@ -22,9 +22,9 @@ Table: Enthalpy of formation of PtSn reported in the literature (11)
 | -74.2 kJ/mol-atom | PtSn | 1354.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 8; `ORC-XNIV7NZWXM` |  |
 | -74 kJ/mol-atom | PtSn | 1354.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 9; `ORC-TI4LDG5LQM` |  |
 | -58.9466 kJ/mol-atom | PtSn |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 2; `ORC-4BCCJZK3NB.48bbc7` |  |
-| -58.944 kJ/mol-atom | PtSn |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 2; `ORC-4BCCJZK3NB.8c730a` |  |
 | -58.7 kJ/mol-atom | PtSn | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 11; `ORC-AZ4I7RTXPT` |  |
 | -58.5 kJ/mol-atom | PtSn | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 12; `ORC-HJEB3CEWOJ` |  |
+| -58.944 kJ/mol-atom | PtSn |  | DFT |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 2; `ORC-4BCCJZK3NB.8c730a` |  |
 
 ### Uncertainty budget
 
@@ -42,9 +42,9 @@ Table: Uncertainty budget of the literature values of PtSn
 | -74.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -74 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -58.9466 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -58.944 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -58.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -58.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -58.944 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

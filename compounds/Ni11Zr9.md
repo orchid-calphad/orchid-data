@@ -32,9 +32,9 @@ Table: Uncertainty budget of the literature values of Ni11Zr9
 | -46.745 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -41.68 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -25.215 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -41.466 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -39.7 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -37.147 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -41.466 | kJ/mol-atom |  | 5.000e-5 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -39.7 | kJ/mol-atom |  | 5.000e-5 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -37.147 | kJ/mol-atom |  | 5.000e-5 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

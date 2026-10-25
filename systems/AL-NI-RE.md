@@ -1,38 +1,12 @@
 # Al–Ni–Re system
 
-> Al–Ni–Re system: 1 accepted literature values (invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ni–Re system: 0 accepted literature values (none) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NI-RE.html · Markdown: https://data.orchid-project.org/systems/AL-NI-RE.md
 
-1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI-RE.json) · [CSV](https://data.orchid-project.org/systems/AL-NI-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI-RE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NI-RE.html) · [Markdown](https://data.orchid-project.org/systems/AL-NI-RE.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–Ni–Re system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1910 | eutectic |  | model | [1] Huang 1999 | p. 5; `ORC-OJ32YXKMNX` | “It gives a eutectic reaction at 2 at.% Re and 1910 K.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. W. Huang, Y.A. Chang, A thermodynamic description of the Ni–Al–Cr–Re system, Materials Science and Engineering: A 259, 110-119 (1999). [doi:10.1016/s0921-5093(98)00875-2](https://doi.org/10.1016/s0921-5093%2898%2900875-2)
 
 ## Please cite
 

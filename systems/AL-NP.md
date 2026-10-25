@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-NP.html · Markdown: https://data.orchid-project.org/systems/AL-NP.md
 
-18 accepted literature values from 1 paper(s) (model 18); 1 calculated phase diagram(s).
+18 accepted literature values from 1 paper(s) (DFT 18); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NP.json) · [CSV](https://data.orchid-project.org/systems/AL-NP.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NP) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-NP/AlNp-10Sed.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-NP.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NP.html) · [Markdown](https://data.orchid-project.org/systems/AL-NP.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 18 |
+| DFT | 18 |
 
 Table: Accepted values by property group
 
@@ -53,9 +53,9 @@ Table: Enthalpies of formation, Al–Np system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| NpAl2 |  | -110.2 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.771663` |  |
-| NpAl3 |  | -122.9 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.3dbd0b` |  |
-| NpAl4 |  | -105.6 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.10f4d8` |  |
+| NpAl2 |  | -110.2 kJ/mol (basis unstated) |  | DFT |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.771663` |  |
+| NpAl3 |  | -122.9 kJ/mol (basis unstated) |  | DFT |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.3dbd0b` |  |
+| NpAl4 |  | -105.6 kJ/mol (basis unstated) |  | DFT |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.10f4d8` |  |
 
 ## Other properties
 
@@ -65,9 +65,9 @@ Table: Formation, Al–Np system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS°298_ | -2.3 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.c17dc6` |  |
-| Entropy of formation; _printed: ΔfS°298_ | -12.1 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.116bfa` |  |
-| Entropy of formation; _printed: ΔfS°298_ | -8.1 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.910022` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -2.3 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.c17dc6` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -12.1 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.116bfa` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -8.1 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.910022` |  |
 
 ### Heat capacity / entropy / enthalpy (12)
 
@@ -75,18 +75,18 @@ Table: Heat capacity / entropy / enthalpy, Al–Np system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298 (el.)_ | 5.2 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.51c254` |  |
-| Entropy; _printed: S°298 (ph.)_ | 99.5 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.a40735` |  |
-| Entropy; _printed: S°298 (ph.)_ | 120.6 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.929885` |  |
-| Entropy; _printed: S°298 (el.)_ | 2.6 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.b02fa5` |  |
-| Entropy; _printed: S°298 (ph.)_ | 152.1 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.a9231d` |  |
-| Entropy; _printed: S°298 (el.)_ | 3.4 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.d47891` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.78 kJ mol^-1 | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.0e9937` |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 24.2 kJ mol^-1 | 298.15 | NpAl2; _alloy: Np 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.5c0b4d` |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 32.1 kJ mol^-1 | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.00d8ef` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.39 kJ mol^-1 | 298.15 | NpAl3; _alloy: Np 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.f58e98` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.51 kJ mol^-1 | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.63befd` |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 40.5 kJ mol^-1 | 298.15 | NpAl4; _alloy: Np 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.697eb5` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 0.78 kJ mol^-1 | 298.15 | NpAl2; _alloy: Np 0.333333_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.0e9937` |  |
+| heat content contribution; _printed: H°298 - H°0 (ph.)_ | 24.2 kJ mol^-1 | 298.15 | NpAl2; _alloy: Np 0.333333_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.5c0b4d` |  |
+| heat content contribution; _printed: H°298 - H°0 (ph.)_ | 32.1 kJ mol^-1 | 298.15 | NpAl3; _alloy: Np 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.00d8ef` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 0.39 kJ mol^-1 | 298.15 | NpAl3; _alloy: Np 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.f58e98` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 0.51 kJ mol^-1 | 298.15 | NpAl4; _alloy: Np 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.63befd` |  |
+| heat content contribution; _printed: H°298 - H°0 (ph.)_ | 40.5 kJ mol^-1 | 298.15 | NpAl4; _alloy: Np 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.697eb5` |  |
+| sm contribution; _printed: S°298 (el.)_ | 5.2 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.51c254` |  |
+| sm contribution; _printed: S°298 (ph.)_ | 99.5 J/mol (basis unstated)/K | 298.15 | NpAl2; _alloy: Np 0.333333_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 2; `ORC-AZTCA3FNXM.a40735` |  |
+| sm contribution; _printed: S°298 (ph.)_ | 120.6 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.929885` |  |
+| sm contribution; _printed: S°298 (el.)_ | 2.6 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.b02fa5` |  |
+| sm contribution; _printed: S°298 (ph.)_ | 152.1 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.a9231d` |  |
+| sm contribution; _printed: S°298 (el.)_ | 3.4 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.d47891` |  |
 
 ## Sources
 

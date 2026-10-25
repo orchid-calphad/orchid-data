@@ -1,10 +1,10 @@
 # Pb–Tl system
 
-> Pb–Tl system: 6 accepted literature values (invariant reaction 4, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Tl system: 3 accepted literature values (invariant reaction 2, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-TL.html · Markdown: https://data.orchid-project.org/systems/PB-TL.md
 
-6 accepted literature values from 1 paper(s) (model 6); 1 calculated phase diagram(s).
+3 accepted literature values from 1 paper(s) (model 3); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-TL.json) · [CSV](https://data.orchid-project.org/systems/PB-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-TL/PbTl-01Fri-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PB-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-TL.html) · [Markdown](https://data.orchid-project.org/systems/PB-TL.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 6 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 4 |
-| phase transition | 2 |
+| invariant reaction | 2 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -42,25 +42,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pb–Tl system (4)
+Table: Invariant reactions reported in the literature for the Pb–Tl system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 585 | peritectic |  | model | [1] Fries 2001 | p. 1; `ORC-2TLWAZB2OX.d1f6f3` | “The bcc solid solution forms peritectically at 585 K from Tl-rich liquid and fcc phases and decomposes eutectoidally at about 453 K into Tl-rich fcc and hcp phases.” |
 | 585 | peritectic: liquid+fcc⇌bcc | liquid: Tl 0.944; fcc: Tl 0.889; bcc: Tl 0.937 | model | [1] Fries 2001 | Table 4, p. 4, row 2; `ORC-VOUAKGHASI` |  |
-| 453 | eutectoid |  | model | [1] Fries 2001 | p. 1; `ORC-2TLWAZB2OX.4e3999` | “The bcc solid solution forms peritectically at 585 K from Tl-rich liquid and fcc phases and decomposes eutectoidally at about 453 K into Tl-rich fcc and hcp phases.” |
 | 443.2 | eutectoid: bcc⇌hcp+fcc | bcc: Tl 0.949; hcp: Tl 0.957; fcc: Tl 0.902 | model | [1] Fries 2001 | Table 4, p. 4, row 3; `ORC-PHFXKS5MVM` |  |
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Pb–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 651.1 K | 651.1 | congruent melting: liquid⇌fcc; _liquid: Tl 0.625; fcc: Tl 0.625_ | model | [1] Fries 2001 | Table 4, p. 4, row 1; `ORC-J74RTKVZPR` |  |
-| Phase transition | 653 K | 653 | congruent transformation | model | [1] Fries 2001 | p. 1; `ORC-TFA644YZ47` | “The liquidus presents a maximum, where the fcc phase melts congruently at 653 K and x Tl 50.625.” |
 
 ## Sources
 

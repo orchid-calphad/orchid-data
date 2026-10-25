@@ -1,10 +1,10 @@
 # Cr–Ni–Ti system
 
-> Cr–Ni–Ti system: 31 accepted literature values (invariant reaction 31) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ni–Ti system: 29 accepted literature values (invariant reaction 29) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NI-TI.html · Markdown: https://data.orchid-project.org/systems/CR-NI-TI.md
 
-31 accepted literature values from 2 paper(s) (experimental 11, model 20); 0 calculated phase diagram(s).
+29 accepted literature values from 2 paper(s) (experimental 9, model 20); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NI-TI.json) · [CSV](https://data.orchid-project.org/systems/CR-NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NI-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NI-TI.html) · [Markdown](https://data.orchid-project.org/systems/CR-NI-TI.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
+| experimental | 9 |
 | model | 20 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 31 |
+| invariant reaction | 29 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Ni–Ti system (31)
+Table: Invariant reactions reported in the literature for the Cr–Ni–Ti system (29)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -31,7 +31,6 @@ Table: Invariant reactions reported in the literature for the Cr–Ni–Ti syste
 | 1662.15 | peritectic: L + (Cr, βTi) = γCr2Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 1; `ORC-QNYMCPVXC5` |  |
 | 1621.55 | eutectic: L = NiTi + γCr2Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 4; `ORC-KNJSW36WRZ` |  |
 | 1496.15 | eutectic: L = (Cr, βTi) + Ni3Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 5; `ORC-473VGX2B2T` |  |
-| 1493.15 | eutectic |  | experimental | [1] Hu 2014; _cites Haour 1978_ | p. 2; `ORC-DHYEF3NWED` | “Haour et al. \[8\] reported a ternary eutectic at the composition of Cr3.7 Ni61 Ti35.3 (at.%) with a melting temperature of 1220 ◦ C.” |
 | 1489.35 | eutectic: L = (Cr, βTi) + Ni3Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 6; `ORC-2FHT6NJHDI` |  |
 | 1489.15 | eutectic: L = (Ni) + (Cr, βTi) + Ni3Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 8; `ORC-CH6LMAVYDE` |  |
 | 1489.15 | eutectic: L = (Ni) + (Cr, βTi) + Ni3Ti |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 7; `ORC-JDMGVLKXLT` |  |
@@ -51,7 +50,6 @@ Table: Invariant reactions reported in the literature for the Cr–Ni–Ti syste
 | 1162 | L + Laves_C15 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 5; `ORC-CYZ24PAFDK` |  |
 | 927 | L -> Laves_C14 + NiTi + NiTi2 | NiTi: Ti 0.5; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 6; `ORC-3KSBXKXFNV` |  |
 | 926 | L -> Laves_C15 + NiTi + NiTi2 | NiTi: Ti 0.5; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 7; `ORC-XIABKTE5ZR` |  |
-| 923.15 | eutectoid: (Cr, ␤Ti) = (␣Ti) + NiTi2 + ␣Cr2 Ti |  | experimental | [1] Hu 2014; _cites Nartova 1988_ | p. 2; `ORC-6VPVEJ53AZ` | “Within the investigated composition range, a eutectoid reaction (Cr, ␤Ti) = (␣Ti) + NiTi2 + ␣Cr2 Ti at 650 ◦ C is observed.” |
 | 923.15 | eutectic: (Cr, βTi) = (αTi) + NiTi2 + αCr2Ti |  | experimental | [1] Hu 2014; _cites Nartova 1988_ | Table 3, p. 7, row 17; `ORC-VIMSZX2U3E` |  |
 | 916.25 | eutectic: (Cr, βTi) = (αTi) + NiTi2 + αCr2Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 18; `ORC-TUHSLS4KJE` |  |
 | 828 | L + Laves_C15 -> Laves_C36 + Ni3Ti | Ni3Ti: Ti 0.25 | model | [2] Huang 2018 | Table 4, p. 6, row 8; `ORC-3EXTH7I2NN` |  |

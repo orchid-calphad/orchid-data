@@ -51,10 +51,10 @@ Table: Invariant reactions reported in the literature for the La–Mo system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2820.15 | L2 -> L1 + bcc (Mo) | L2: Mo 0.96; L1: Mo 0.21; bcc (Mo): Mo 0.9987 | experimental | [1] Wang 2008; _cites Brewer 1980_ | Table 3, p. 5, row 1; `ORC-ZVUU3AR6HU` |  |
-| 2819.15 | L2 -> L1 + bcc (Mo) | L2: Mo 0.95; L1: Mo 0.21; bcc (Mo): Mo 0.9987 | model | [1] Wang 2008 | Table 3, p. 5, row 2; `ORC-GHDO2PYHTO` |  |
-| 1191.15 | L1 -> bcc (La) + bcc (Mo) | L1: Mo 9.000e-4; bcc (La): Mo 0; bcc (Mo): Mo 1 | experimental | [1] Wang 2008; _cites Brewer 1980_ | Table 3, p. 5, row 3; `ORC-MUHCWUD5XK` |  |
-| 1190.15 | L1 -> bcc (La) + bcc (Mo) | L1: Mo 8.500e-4; bcc (Mo): Mo 1 | model | [1] Wang 2008 | Table 3, p. 5, row 4; `ORC-DEMMVRCSZV` |  |
+| 2820.15 | monotectic: L2 -> L1 + bcc (Mo) | L2: Mo 0.96; L1: Mo 0.21; bcc (Mo): Mo 0.9987 | experimental | [1] Wang 2008; _cites Brewer 1980_ | Table 3, p. 5, row 1; `ORC-ZVUU3AR6HU` |  |
+| 2819.15 | monotectic: L2 -> L1 + bcc (Mo) | L2: Mo 0.95; L1: Mo 0.21; bcc (Mo): Mo 0.9987 | model | [1] Wang 2008 | Table 3, p. 5, row 2; `ORC-GHDO2PYHTO` |  |
+| 1191.15 | eutectic: L1 -> bcc (La) + bcc (Mo) | L1: Mo 9.000e-4; bcc (La): Mo 0; bcc (Mo): Mo 1 | experimental | [1] Wang 2008; _cites Brewer 1980_ | Table 3, p. 5, row 3; `ORC-MUHCWUD5XK` |  |
+| 1190.15 | eutectic: L1 -> bcc (La) + bcc (Mo) | L1: Mo 8.500e-4; bcc (Mo): Mo 1 | model | [1] Wang 2008 | Table 3, p. 5, row 4; `ORC-DEMMVRCSZV` |  |
 
 ## Sources
 

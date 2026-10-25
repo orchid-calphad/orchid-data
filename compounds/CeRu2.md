@@ -37,7 +37,7 @@ Table: Uncertainty budget of the literature values of CeRu2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -27.9 | kJ/mol-atom | 1.5 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -27.9 | kJ/mol-atom | 1.5 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -41.9778 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -32.2203 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -29.721 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
@@ -45,12 +45,12 @@ Table: Uncertainty budget of the literature values of CeRu2
 | -22.5988 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -18.9068 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -14.6208 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -30.848 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -28.0524 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -27.281 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -27.2586 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -27.1978 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -27.1978 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -30.848 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -28.0524 | kJ/mol-atom |  | 5.000e-5 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -27.281 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -27.2586 | kJ/mol-atom |  | 5.000e-6 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -27.1978 | kJ/mol-atom |  | 5.000e-6 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -27.1978 | kJ/mol-atom |  | 5.000e-6 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

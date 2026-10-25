@@ -28,7 +28,7 @@ Table: Phases of the Ce–O system (19)
 | [H_R2O3](#phase-ce-o-h-r2o3); _phase:ce-o:h-r2o3_ | H-La2O3 · hP10 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2417.9 K, x(O) 0.5–0.6 | 0 | 2 |
 | [HCP_A3](#phase-ce-o-hcp-a3); _phase:ce-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [ION](#phase-ce-o-ion); _phase:ce-o:ion_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1072.01–2500 K, x(O) 0–0.61459 | 0 | 2 |
-| [LIQUID](#phase-ce-o-liquid); _phase:ce-o:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1692.18–2500 K, x(O) 0.05324–0.63936 | 22 | 2 |
+| [LIQUID](#phase-ce-o-liquid); _phase:ce-o:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1692.18–2500 K, x(O) 0.05324–0.63936 | 23 | 2 |
 | [O2GAS](#phase-ce-o-o2gas); _phase:ce-o:o2gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 300–1185 K, x(O) 1–1 | 0 | 2 |
 | [X_R2O3](#phase-ce-o-r2o3-x); _phase:ce-o:r2o3-x_ | Nd2O3 · cI26 · Im-3m (229) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(O) 0.5–0.59253 | 1 | 2 |
 
@@ -650,7 +650,7 @@ _assessment that models this phase_
 - Id: `phase:ce-o:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1692.18–2500 K, x(O) 0.05324–0.63936
-- Literature: 22 values (22 accepted) from 2 papers
+- Literature: 23 values (23 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-o:liquid)
 
 Names (5): _corpus: _corpus:phase:ce-o:liquid  

@@ -28,9 +28,9 @@ Table: Uncertainty budget of the literature values of Sc5Si3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -161.1 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -161.1 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -102.8 | kJ/mol-atom | 3.8 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -89.9 | kJ/mol-atom | 4.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.3 |
+| -89.9 | kJ/mol-atom | 4.3 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.3 |
 | -90.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | 4.236 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 

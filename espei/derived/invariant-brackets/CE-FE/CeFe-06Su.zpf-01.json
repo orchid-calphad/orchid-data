@@ -219,7 +219,7 @@
     "x0": 0.17,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq. -> Ce2Fe17 + (γCe)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -238,7 +238,7 @@
     "x0": 0.17,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq. -> Ce2Fe17 + (γCe)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

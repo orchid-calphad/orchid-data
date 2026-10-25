@@ -1,10 +1,10 @@
 # Ag–Nd system
 
-> Ag–Nd system: 79 accepted literature values (invariant reaction 64, phase transition 14, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Nd system: 78 accepted literature values (invariant reaction 64, phase transition 13, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-ND.html · Markdown: https://data.orchid-project.org/systems/AG-ND.md
 
-79 accepted literature values from 2 paper(s) (experimental 55, model 17, unspecified 7); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+78 accepted literature values from 2 paper(s) (experimental 54, model 17, unspecified 7); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-ND.json) · [CSV](https://data.orchid-project.org/systems/AG-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-ND/AgNd-09Hua.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AG-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-ND.html) · [Markdown](https://data.orchid-project.org/systems/AG-ND.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 55 |
+| experimental | 54 |
 | model | 17 |
 | unspecified | 7 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 64 |
-| phase transition | 14 |
+| phase transition | 13 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -141,13 +141,12 @@ Table: Invariant reactions reported in the literature for the Ag–Nd system (64
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (13)
 
 Table: Phase transition, Ag–Nd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 893 K | 893 | polymorphic | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | p. 1; `ORC-DOTYKXS5SZ` | “The transformation temperature between these two allotropic modifications was determined to be 893 K.” |
 | Phase transition | 893 K | 893 | polymorphic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | experimental | [2] Huang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 2, p. 3, row 30; `ORC-COBVSF4HUM` |  |
 | Phase transition | 893 K | 893 | polymorphic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | model | [2] Huang 2009 | Table 2, p. 3, row 28; `ORC-SDTRIVK63H` |  |
 | Phase transition | 893 K | 893 | polymorphic: α-Ag2Nd -> β-Ag2Nd; _α-Ag2Nd: Nd 0.333333; β-Ag2Nd: Nd 0.333333_ | experimental | [2] Huang 2009; _cites Stape 1978_ | Table 2, p. 3, row 31; `ORC-YKMQXGKBQB` |  |

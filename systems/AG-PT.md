@@ -1,10 +1,10 @@
 # Ag–Pt system
 
-> Ag–Pt system: 70 accepted literature values (phase equilibrium 43, crystal structure 20, invariant reaction 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Pt system: 68 accepted literature values (phase equilibrium 43, crystal structure 20, invariant reaction 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-PT.html · Markdown: https://data.orchid-project.org/systems/AG-PT.md
 
-70 accepted literature values from 1 paper(s) (experimental 29, model 41); 2 calculated phase diagram(s).
+68 accepted literature values from 1 paper(s) (experimental 28, model 40); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-PT.json) · [CSV](https://data.orchid-project.org/systems/AG-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-PT/AgPt-87Kar.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-PT.html) · [Markdown](https://data.orchid-project.org/systems/AG-PT.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
-| model | 41 |
+| experimental | 28 |
+| model | 40 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 7 |
+| invariant reaction | 5 |
 | phase equilibrium | 43 |
 | crystal structure | 20 |
 
@@ -45,13 +45,11 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Pt system (7)
+Table: Invariant reactions reported in the literature for the Ag–Pt system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1459.15 | peritectic: L + (Pt) -> (Ag) | L: Pt 0.201; (Pt): Pt 0.779; (Ag): Pt 0.406 | model | [1] Karakaya 1987 | Table 1, p. 1, row 1; `ORC-DQN7ZTJ7KH` |  |
-| 1459.15 | peritectic |  | model | [1] Karakaya 1987 | p. 3; `ORC-HXNHJ6YS7X` | “The assessed peritectic is between liquid with 20.1 at.% Pt a n d fcc solid solutions of 40.6 at.% Pt a n d 77.9 at.% Pt at 1186 ~” |
-| 1457.15 | peritectic: liquid + Pt-rich solid solution -> Ag-rich solid solution |  | experimental | [1] Karakaya 1987; _cites ref. 07Doe_ | p. 3; `ORC-M5RFAXNET2` | “The measured peritectic t e m p e r a t u r e is 1184 ~ \[07Doe\[, b u t this has a precision of only -+5 ~” |
 | 1173.15 | eutectoid: (Ag) -> α' + (Pt) | (Ag): Pt 0.344; α': Pt 0.325; (Pt): Pt 0.843; α′: Pt 0.325 | model | [1] Karakaya 1987 | Table 1, p. 1, row 2; `ORC-QLHRIVOBWI` |  |
 | 1013.15 | peritectoid: α' + (Pt) -> β | α': Pt 0.31; (Pt): Pt 0.85; β: Pt 0.5; α′: Pt 0.31 | model | [1] Karakaya 1987 | Table 1, p. 1, row 3; `ORC-O3CIA4ZH6U` |  |
 | 973.15 | peritectoid: β + (Pt) -> γ | β: Pt 0.53; (Pt): Pt 0.915; γ: Pt 0.75 | model | [1] Karakaya 1987 | Table 1, p. 1, row 4; `ORC-4VPLKQ6YIY` |  |

@@ -452,7 +452,7 @@
     "x0": 0.9,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Ga2Te5 + (Te)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -471,7 +471,7 @@
     "x0": 0.9,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Ga2Te5 + (Te)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

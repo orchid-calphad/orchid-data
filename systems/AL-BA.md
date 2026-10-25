@@ -1,10 +1,10 @@
 # Al–Ba system
 
-> Al–Ba system: 141 accepted literature values (invariant reaction 66, formation 34, crystal structure 24, phase transition 17) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ba system: 130 accepted literature values (invariant reaction 56, formation 34, crystal structure 24, phase transition 16) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-BA.html · Markdown: https://data.orchid-project.org/systems/AL-BA.md
 
-141 accepted literature values from 3 paper(s) (experimental 67, model 52, DFT 16, unspecified 6); 3 calculated phase diagram(s).
+130 accepted literature values from 3 paper(s) (experimental 59, model 49, DFT 16, unspecified 6); 3 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-BA.json) · [CSV](https://data.orchid-project.org/systems/AL-BA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-BA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-BA/AlBa-16Bao.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-BA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-BA.html) · [Markdown](https://data.orchid-project.org/systems/AL-BA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 67 |
-| model | 52 |
+| experimental | 59 |
+| model | 49 |
 | DFT | 16 |
 | unspecified | 6 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 66 |
-| phase transition | 17 |
+| invariant reaction | 56 |
+| phase transition | 16 |
 | formation | 34 |
 | crystal structure | 24 |
 
@@ -83,14 +83,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Ba system (66)
+Table: Invariant reactions reported in the literature for the Al–Ba system (56)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1197 | peritectic: Liquid ? Al4Ba $ Al13Ba7 |  | model | [1] Benhafid 2019 | p. 9; `ORC-A5YZ4S4WOS.b7de98` | “the peritectic temperature of the invariant reaction: Liquid ? Al4Ba $ Al13Ba7 determined in this work at 1197 K was higher than the experimental one at 1187 K.” |
 | 1197 | peritectic: Liq + Al4Ba -> Al13Ba7 | L: Ba 0.3544; Al4Ba: Ba 0.2; Al13Ba7: Ba 0.35 | model | [1] Benhafid 2019 | Table 5, p. 6, row 13; `ORC-BQE7CHYI5M` |  |
 | 1187 | peritectic: Liq + Al4Ba -> Al13Ba7 | L: Ba 0.37; Al4Ba: Ba 0.2; Al13Ba7: Ba 0.35 | unspecified | [1] Benhafid 2019; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 5, p. 6, row 11; `ORC-6I3ZFB7EMJ` |  |
-| 1187 | peritectic: Liquid ? Al4Ba $ Al13Ba7 |  | experimental | [1] Benhafid 2019 | p. 9; `ORC-A5YZ4S4WOS.40218b` | “the peritectic temperature of the invariant reaction: Liquid ? Al4Ba $ Al13Ba7 determined in this work at 1197 K was higher than the experimental one at 1187 K.” |
 | 1187 | Liquid + Al4Ba \<-> Al13Ba7 | Liquid: Ba 0.347; Al4Ba: Ba 0.2; Al13Ba7: Ba 0.345 | experimental | [2] Bao 2016; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 2, p. 3, row 8; `ORC-GR2RNY2YAC` |  |
 | 1187 | peritectic |  | model | [1] Benhafid 2019; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | p. 2; `ORC-OFJWWF62AP.480bbb` | “The most recent information on this binary phase diagram was taken from the phase diagram evaluated by Itkin and Alcock\[14\] which included four intermetallic compounds: Al4Ba melting congruently at 1377 K and Al13Ba7, Al5Ba3 and Al5Ba4 formed by peritectic reactions at 1187, 1023 and 1003 K, respectively.” |
 | 1187 | Liquid + Al4Ba \<-> Al13Ba7 | Liquid: Ba 0.37; Al4Ba: Ba 0.2; Al13Ba7: Ba 0.35 | experimental | [2] Bao 2016; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 2, p. 3, row 9; `ORC-ULGQROBETV` |  |
@@ -113,24 +111,19 @@ Table: Invariant reactions reported in the literature for the Al–Ba system (66
 | 1003 | peritectic: Liq + Al5Ba3 -> Al5Ba4 | Al5Ba3: Ba 0.375; Al5Ba4: Ba 0.445 | experimental | [1] Benhafid 2019; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 5, p. 6, row 18; `ORC-N7BXEXU6BO` |  |
 | 1003 | peritectic |  | model | [1] Benhafid 2019; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | p. 2; `ORC-OFJWWF62AP.2bc807` | “The most recent information on this binary phase diagram was taken from the phase diagram evaluated by Itkin and Alcock\[14\] which included four intermetallic compounds: Al4Ba melting congruently at 1377 K and Al13Ba7, Al5Ba3 and Al5Ba4 formed by peritectic reactions at 1187, 1023 and 1003 K, respectively.” |
 | 1003 | Liquid + Al13Ba7 \<-> Al5Ba4 | Liquid: Ba 0.523; Al13Ba7: Ba 0.345; Al5Ba4: Ba 0.444 | experimental | [2] Bao 2016; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 2, p. 3, row 11; `ORC-VE7ROHS53O` |  |
-| 1003 | peritectic: Liq + Al5 Ba3 ⇔ Al5 Ba4 |  | experimental | [3] Azza 2017; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | p. 5; `ORC-W7VKIAJZWM.c141f0` | “They are in satisfactory agreement with the experimental values, except for the calculated peritectic reaction temperature of 1000 K (Liq + Al5 Ba3 ⇔ Al5 Ba4 ), which has a temperature close to the calculated one of 998 K by Flanigen et al. \[16\] but is somewhat lower than the experimental temperature of 1003 K found by Srikanth et al. \[6\].” |
 | 1003 | peritectic |  | experimental | [3] Azza 2017; _cites Predel 2006_ | p. 2; `ORC-WDKMM7EHPZ.7987ac` | “For the Al4 Ba compound a congruent melting was determined at 1377 K, while for Al13 B7 , Al5 B3 and Al5 B4 compounds undergo a peritectic formation respectively at 1187, 1023 and 1003 K.” |
 | 1003 | peritectic: Liq + Al5Ba3 -> Al5Ba4 | L: Ba 0.523; Al5Ba3: Ba 0.375; Al5Ba4: Ba 0.445 | experimental | [1] Benhafid 2019; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | Table 5, p. 6, row 19; `ORC-XFB47H7AFF` |  |
 | 1003 | Liquid + Al13Ba7 \<-> Al5Ba4 | Liquid: Ba 0.523; Al13Ba7: Ba 0.35; Al5Ba4: Ba 0.444 | experimental | [2] Bao 2016; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 2, p. 3, row 12; `ORC-XO4VWFNQX3` |  |
 | 1000 | peritectic: Liq + Al5Ba3 -> Al5Ba4 | L: Ba 0.528; Al5Ba3: Ba 0.375; Al5Ba4: Ba 0.444444 | model | [3] Azza 2017 | Table 3, p. 5, row 12; `ORC-M4ZPLR2GJI` |  |
-| 1000 | peritectic: Liq + Al5 Ba3 ⇔ Al5 Ba4 |  | model | [3] Azza 2017 | p. 5; `ORC-W7VKIAJZWM.10c925` | “They are in satisfactory agreement with the experimental values, except for the calculated peritectic reaction temperature of 1000 K (Liq + Al5 Ba3 ⇔ Al5 Ba4 ), which has a temperature close to the calculated one of 998 K by Flanigen et al. \[16\] but is somewhat lower than the experimental temperature of 1003 K found by Srikanth et al. \[6\].” |
 | 998 | peritectic: Liq + Al5Ba3 -> Al5Ba4 | L: Ba 0.525; Al5Ba3: Ba 0.375; Al5Ba4: Ba 0.444444 | experimental | [3] Azza 2017; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | Table 3, p. 5, row 11; `ORC-6HXLSZF4V3` |  |
-| 998 | peritectic: Liq + Al5 Ba3 ⇔ Al5 Ba4 |  | model | [3] Azza 2017; _cites Flanigen 1952_ | p. 5; `ORC-W7VKIAJZWM.f6629b` | “They are in satisfactory agreement with the experimental values, except for the calculated peritectic reaction temperature of 1000 K (Liq + Al5 Ba3 ⇔ Al5 Ba4 ), which has a temperature close to the calculated one of 998 K by Flanigen et al. \[16\] but is somewhat lower than the experimental temperature of 1003 K found by Srikanth et al. \[6\].” |
 | 995 | Liquid + Al13Ba7 \<-> Al5Ba4 | Liquid: Ba 0.572; Al13Ba7: Ba 0.35; Al5Ba4: Ba 0.444 | model | [2] Bao 2016 | Table 2, p. 3, row 10; `ORC-5IP2WSN4PJ` |  |
 | 995 | peritectic: Liq + Al5Ba3 -> Al5Ba4 | L: Ba 0.572; Al5Ba3: Ba 0.375; Al5Ba4: Ba 0.445 | model | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 5, p. 6, row 21; `ORC-VW722TUXIM` |  |
 | 991 | peritectic: Liq + Al5Ba3 -> Al5Ba4 | Al5Ba3: Ba 0.375; Al5Ba4: Ba 0.445 | experimental | [1] Benhafid 2019; _cites Flanigen 1952_ | Table 5, p. 6, row 17; `ORC-IQNF5VIKWF` |  |
-| 934 | eutectic |  | experimental | [2] Bao 2016 | p. 1; `ORC-EYXYZ6VX4N` | “And a eutectic reaction between liquid, Fcc_Al and Al4Ba at 934 K was indicated in this work.” |
 | 933 | eutectic: Liq -> Al + Al4Ba | Al: Ba 0; Al4Ba: Ba 0.2 | experimental | [1] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 5, p. 6, row 5; `ORC-4BM6TLJZMX` |  |
 | 933 | eutectic: Liq -> Al + Al4Ba | Al: Ba 0; Al4Ba: Ba 0.2 | experimental | [1] Benhafid 2019; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 5, p. 6, row 3; `ORC-INKQDWZXA2` |  |
 | 933 | Liquid \<-> (Al)+Al4Ba | Liquid: Ba 0.002; (Al): Ba 0; Al4Ba: Ba 0.2 | experimental | [2] Bao 2016; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 2, p. 3, row 3; `ORC-N35CG5UNKD` |  |
 | 933 | Liquid \<-> (Al)+Al4Ba | Liquid: Ba 0.002; (Al): Ba 0; Al4Ba: Ba 0.2 | experimental | [2] Bao 2016; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 2, p. 3, row 2; `ORC-O77OOPGXEG` |  |
 | 932 | eutectic: Liq -> Al + Al4Ba | L: Ba 0.002; Al: Ba 0; Al4Ba: Ba 0.2 | unspecified | [1] Benhafid 2019; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | Table 5, p. 6, row 4; `ORC-7G7HMG2K2A` |  |
-| 932 | eutectic |  | experimental | [1] Benhafid 2019 | p. 2; `ORC-AJJFNA4VXY.27fdc1` | “The position of the eutectic point at the Al-rich side was adopted as 932 K and 0.2 at.% Ba and the eutectic point at the Ba-rich region occurred at 71.5 at.% Ba and 811 K.” |
 | 932 | eutectic: Liq -> Al + Al4Ba | Al: Ba 0.002; Al4Ba: Ba 0.2 | experimental | [3] Azza 2017; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | Table 3, p. 5, row 3; `ORC-BX7C52VBX5` |  |
 | 932 | Liquid \<-> (Al)+Al4Ba | Liquid: Ba 0.002; (Al): Ba 0; Al4Ba: Ba 0.2 | model | [2] Bao 2016 | Table 2, p. 3, row 1; `ORC-R2RS25YVOF` |  |
 | 931 | eutectic: Liq -> Al + Al4Ba | Al: Ba 0.002; Al4Ba: Ba 0.2 | model | [3] Azza 2017 | Table 3, p. 5, row 4; `ORC-BANHMP7UAV` |  |
@@ -140,13 +133,10 @@ Table: Invariant reactions reported in the literature for the Al–Ba system (66
 | 924 | eutectic |  | experimental | [1] Benhafid 2019 | p. 2; `ORC-VJFCIYFUQX` | “The eutectic reaction between liquid, Fcc_A1 Al and Al4Ba was detected at 0.4 at.% Ba and 924 K.” |
 | 813 | eutectic: Liq -> Ba + Al5Ba4 | L: Ba 0.72; Ba: Ba 1; Al5Ba4: Ba 0.445 | model | [1] Benhafid 2019 | Table 5, p. 6, row 29; `ORC-KTJVVQDUAH` |  |
 | 812 | eutectic: Liq -> Ba + Al5Ba4 | L: Ba 0.706; Al5Ba4: Ba 0.444444 | model | [3] Azza 2017 | Table 3, p. 5, row 14; `ORC-LHKMWY4SQR` |  |
-| 811 | eutectic |  | experimental | [1] Benhafid 2019 | p. 2; `ORC-AJJFNA4VXY.90f793` | “The position of the eutectic point at the Al-rich side was adopted as 932 K and 0.2 at.% Ba and the eutectic point at the Ba-rich region occurred at 71.5 at.% Ba and 811 K.” |
 | 811 | eutectic: Liq -> Ba + Al5Ba4 | L: Ba 0.715; Ba: Ba 1; Al5Ba4: Ba 0.445 | experimental | [1] Benhafid 2019; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | Table 5, p. 6, row 26; `ORC-AO7IXPOOCB` |  |
-| 811 | eutectic |  | experimental | [2] Bao 2016; _cites Flanigen 1952_ | p. 1; `ORC-SSHRZREMDP` | “And the eutectic reaction between liquid, Al2Ba and Ba at 811 K was confirmed in his work.” |
 | 811 | eutectic: Liq -> Ba + Al5Ba4 | L: Ba 0.715; Ba: Ba 1; Al5Ba4: Ba 0.445 | experimental | [1] Benhafid 2019; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 5, p. 6, row 25; `ORC-T6AAOBF2NM` |  |
 | 808 | eutectic: Liq -> Ba + Al5Ba4 | L: Ba 0.71; Al5Ba4: Ba 0.444444 | experimental | [3] Azza 2017; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | Table 3, p. 5, row 13; `ORC-HYH5JHIYOU` |  |
 | 804 | eutectic: Liq -> Ba + Al5Ba4 | L: Ba 0.726; Ba: Ba 1; Al5Ba4: Ba 0.445 | experimental | [1] Benhafid 2019; _cites Flanigen 1952_ | Table 5, p. 6, row 23; `ORC-35Z2KG2RQQ` |  |
-| 804 | eutectic |  | experimental | [1] Benhafid 2019; _cites Flanigen 1952_ | p. 2; `ORC-6KBYSIYUGN` | “The phase diagram between 44 to 100 at.% Ba was examined by Flanigen.\[6\] The eutectic point of Ba-rich side detected at 72.6 at.% Ba and 804 K.” |
 | 801 | eutectic: Liq -> Ba + Al5Ba4 | L: Ba 0.7; Ba: Ba 1; Al5Ba4: Ba 0.445 | experimental | [1] Benhafid 2019; _cites Lida 1953_ | Table 5, p. 6, row 24; `ORC-2ACFU4AJLZ` |  |
 | 801 | Liquid + Al5Ba4 \<-> (Ba) | Liquid: Ba 0.715; Al5Ba4: Ba 0.444; (Ba): Ba 1 | experimental | [2] Bao 2016; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 2, p. 3, row 14; `ORC-GSNWFNVKDD` |  |
 | 801 | eutectic: Liq -> Ba + Al5Ba4 | L: Ba 0.72; Ba: Ba 1; Al5Ba4: Ba 0.445 | experimental | [1] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 5, p. 6, row 27; `ORC-WVMCNHEDDR` |  |
@@ -192,7 +182,7 @@ Table: Enthalpies of formation, Al–Ba system (27)
 
 ## Other properties
 
-### Phase transition (17)
+### Phase transition (16)
 
 Table: Phase transition, Al–Ba system
 
@@ -202,7 +192,6 @@ Table: Phase transition, Al–Ba system
 | Phase transition | 933 K | 933 | congruent melting: Liq -> Al; _Al: Ba 0_ | model | [3] Azza 2017 | Table 3, p. 5, row 2; `ORC-ZPFFEGRZJU` |  |
 | Phase transition | 1000 K | 1000 | congruent melting: Liq -> Ba; _Ba: Ba 1_ | experimental | [3] Azza 2017; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | Table 3, p. 5, row 15; `ORC-IOAOQNSO4Z` |  |
 | Phase transition | 1000 K | 1000 | congruent melting: Liq -> Ba; _Ba: Ba 1_ | model | [3] Azza 2017 | Table 3, p. 5, row 16; `ORC-P5QRE24BVG` |  |
-| Phase transition | 1118 K | 1118 |  | experimental | [2] Bao 2016; _cites Flanigen 1952_ | p. 1; `ORC-W7U4735CX3` | “The Ba-rich region compound was determined as Al2Ba, which formed from pertectic reaction at 1118 K.” |
 | Phase transition | 1370 K | 1370 | congruent melting: Liq -> Al4Ba; _L: Ba 0.2; Al4Ba: Ba 0.2_ | experimental | [1] Benhafid 2019; _cites Lida 1953_ | Table 5, p. 6, row 7; `ORC-4LCPWSE6SQ` |  |
 | Phase transition | 1370 K | 1370 | congruent transformation | experimental | [1] Benhafid 2019; _cites Lida 1953_ | p. 2; `ORC-7BIVUQ74KG` | “With thermal analysis and metallographic techniques, Iida\[7\] confirmed the existence of the Al4Ba compound, which melts congruently at 1370 K.” |
 | Phase transition | 1377 K | 1377 | Liquid \<-> Al4Ba; _Al4Ba: Ba 0.2_ | experimental | [2] Bao 2016; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 2, p. 3, row 5; `ORC-BFDQAVA57J` |  |

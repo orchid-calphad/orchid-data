@@ -17,10 +17,10 @@ neither raw measurements nor model values, and they are kept separable at fittin
 | points | 23,129 (centroid 21,616, pole of inaccessibility 1,513) |
 | points by number of phases | 1-phase 4,639, 2-phase 18,490 |
 | two-phase points with / without a tie_line block | 11,961 / 6,529 |
-| SGTE cross-check (point x assessment) | 30,769 comparisons: 21,495 comparable (17,874 agree, 3,621 disagree; agreement 0.8315 of comparable), 9,274 not comparable (counted separately, reasons in `sgte_not_comparable.csv`) |
-| SGTE cross-check (points) | 9,440 points with a comparable assessment; 8,331 (0.8825) agree with at least one SGTE assessment; median system agreement 0.8889 (889 systems with >= 5 comparable comparisons) |
+| SGTE cross-check (point x assessment) | 30,769 comparisons: 21,491 comparable (17,874 agree, 3,617 disagree; agreement 0.8317 of comparable), 9,278 not comparable (counted separately, reasons in `sgte_not_comparable.csv`) |
+| SGTE cross-check (points) | 9,436 points with a comparable assessment; 8,331 (0.8829) agree with at least one SGTE assessment; median system agreement 0.8889 (889 systems with >= 5 comparable comparisons) |
 | boundary basis (lines bounding the point's field along its isotherm and isopleth) | printed_solid 20,782, mixed 1,292, dashed_estimated 1,028, none 27 |
-| ESPEI datasets (one per diagram) | 1,068 default, 1,068 with tie-lines; 9,895 points exported, 13,234 excluded (phase without TDB name) |
+| ESPEI datasets (one per diagram) | 1,068 default, 1,068 with tie-lines; 9,890 points exported, 13,239 excluded (phase without TDB name) |
 
 Points by basis:
 

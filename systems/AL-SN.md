@@ -1,10 +1,10 @@
 # Al–Sn system
 
-> Al–Sn system: 2 accepted literature values (invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sn system: 1 accepted literature values (invariant reaction 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SN.html · Markdown: https://data.orchid-project.org/systems/AL-SN.md
 
-2 accepted literature values from 2 paper(s) (experimental 1, unspecified 1); 3 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (model 1); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SN.json) · [CSV](https://data.orchid-project.org/systems/AL-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SN/AlSn-19Che.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AL-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SN.html) · [Markdown](https://data.orchid-project.org/systems/AL-SN.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| unspecified | 1 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
+| invariant reaction | 1 |
 
 ## Calculated phase diagrams
 
@@ -49,19 +48,17 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Sn system (2)
+Table: Invariant reactions reported in the literature for the Al–Sn system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 502.4 | eutectic: Liquid -> fcc-A1 + bct-A5 | Liquid: Sn 0.98; fcc-A1: Sn 0; bct-A5: Sn 0.99 | unspecified | [1] Hämäläinen 1998 | Table I, p. 98, row 1; `ORC-DJW2DK3FQA` |  |
-| 501.3 | eutectic |  | experimental | [2] Ansara 1979; _cites ref. 30_ | p. 5; `ORC-3IATH2AQRD` | “The aluminium-tin phase diagram presents a eutectic (xA1 = 0.022, at T, = 501.3K) and has been investigated by different authors using thermal analysis or e.m.f. measurements (30 to 34).” |
+| 502.4 | eutectic: Liquid -> fcc-A1 + bct-A5 | Liquid: Sn 0.98; fcc-A1: Sn 0; bct-A5: Sn 0.99 | model | [1] (ed.) 1998 | Table I, p. 98, row 1; `ORC-DJW2DK3FQA` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-2. I. Ansara, J.P. Bros, M. Gambino, Thermodynamic analysis of the germanium-based ternary systems (AlGaGe, AlGeSn, GaGeSn), Calphad 3, 225-233 (1979). [doi:10.1016/0364-5916(79)90006-3](https://doi.org/10.1016/0364-5916%2879%2990006-3)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # La–Si system
 
-> La–Si system: 69 accepted literature values (crystal structure 37, invariant reaction 26, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Si system: 65 accepted literature values (crystal structure 37, invariant reaction 24, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-SI.html · Markdown: https://data.orchid-project.org/systems/LA-SI.md
 
-69 accepted literature values from 2 paper(s) (experimental 29, model 12, unspecified 28); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+65 accepted literature values from 2 paper(s) (experimental 26, model 11, unspecified 28); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SI.json) · [CSV](https://data.orchid-project.org/systems/LA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SI/LaSi-10Zho.json) · [phases (13)](https://data.orchid-project.org/phases/pages/LA-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SI.html) · [Markdown](https://data.orchid-project.org/systems/LA-SI.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
-| model | 12 |
+| experimental | 26 |
+| model | 11 |
 | unspecified | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 26 |
-| phase transition | 6 |
+| invariant reaction | 24 |
+| phase transition | 4 |
 | crystal structure | 37 |
 
 ## Calculated phase diagrams
@@ -86,7 +86,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–Si system (26)
+Table: Invariant reactions reported in the literature for the La–Si system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -95,7 +95,6 @@ Table: Invariant reactions reported in the literature for the La–Si system (26
 | 1899 | congruent melting: L -> LaSi | L: Si 0.5; LaSi: La 0.5, Si 0.5 | model | [1] Zhou 2010 | Table 3, p. 5, row 13; `ORC-OSDZJTCJHH` |  |
 | 1893 | congruent melting: L -> LaSi | L: Si 0.5; LaSi: La 0.5, Si 0.5 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 12; `ORC-6JYMRTPAHS` |  |
 | 1873 | peritectic: L + LaSi2-α1 -> LaSi2-α2 |  | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 18; `ORC-EQJBHNMGYT` |  |
-| 1873 | peritectic |  | experimental | [1] Zhou 2010 | p. 2; `ORC-F3CY76YIVS` | “While La5 Si3 , La3 Si2 , La5 Si4 and LaSi2-a2 are formed by peritectic reactions at 1533, 1743, 1843 and ∼1873 K, respectively.” |
 | 1873 | peritectic: L + LaSi2-α1 -> LaSi2-α2 | L: Si 0.7096 | model | [1] Zhou 2010 | Table 3, p. 5, row 19; `ORC-U3K356MOFC` |  |
 | 1843.15 | peritectic |  | experimental | [2] Xu 2020 | p. 2; `ORC-46LOCBAEBC.5e9a0d` | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
 | 1843 | peritectic: L + LaSi -> La5Si4 | LaSi: La 0.5, Si 0.5; La5Si4: La 0.555556, Si 0.444444 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 10; `ORC-562QMRPTMO` |  |
@@ -112,14 +111,13 @@ Table: Invariant reactions reported in the literature for the La–Si system (26
 | 1477 | eutectic: L -> LaSi2-α2 + Diamond(Si) | L: Si 0.8166 | model | [1] Zhou 2010 | Table 3, p. 5, row 21; `ORC-XB5HMVJ43S` |  |
 | 1088 | metatectic/catatectic: BCC -> FCC + L |  | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 1; `ORC-2BV3A7CKLM` |  |
 | 1088 | metatectic/catatectic: BCC -> FCC + L | L: Si 0.07461 | model | [1] Zhou 2010 | Table 3, p. 5, row 2; `ORC-6OPTK6STD6` |  |
-| 1083.15 | eutectic: L⇌ (C) + SiC + La3Si2C2 |  | model | [2] Xu 2020 | p. 9; `ORC-E46AGCGTYG.d6c9f2` | “During sintering processes, RE3Si2C2 will react with SiC and transform into liquid via different ternary eutectic reactions: L⇌ (C) + SiC + La3Si2C2 at 810°C, L⇌(C) + SiC + Ce3Si2C2 at 747°C, and L⇌(C) + SiC + Pr3Si2C2 at 1148°C respectively.” |
 | 995 | eutectic: L -> FCC + La5Si3 | L: Si 0.11; La5Si3: La 0.625, Si 0.375 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 3; `ORC-3OB4T3EYRR` |  |
 | 995 | eutectic: L -> FCC + La5Si3 | L: Si 0.121; La5Si3: La 0.625, Si 0.375 | model | [1] Zhou 2010 | Table 3, p. 5, row 4; `ORC-QXGVABD5HN` |  |
 | 540 | eutectoid: FCC -> La5Si3 + DHCP | La5Si3: La 0.625, Si 0.375 | model | [1] Zhou 2010 | Table 3, p. 5, row 5; `ORC-2HJR3YGUPD` |  |
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (4)
 
 Table: Phase transition, La–Si system
 
@@ -128,9 +126,7 @@ Table: Phase transition, La–Si system
 | Phase transition | 1773.15 K | 1773.15 | other | experimental | [2] Xu 2020; _cites ref. 25_ | p. 2; `ORC-LPQP7IEJ4I.cd3a8b` | “The melting temperature of the LaSi2 phase was reported to be 1500°C,25 1520°C,26 and 1580°C27 respectively.” |
 | Phase transition | 1793.15 K | 1793.15 | other | experimental | [2] Xu 2020; _cites ref. 26_ | p. 2; `ORC-LPQP7IEJ4I.26840e` | “The melting temperature of the LaSi2 phase was reported to be 1500°C,25 1520°C,26 and 1580°C27 respectively.” |
 | Phase transition | 1853.15 K | 1853.15 | other | experimental | [2] Xu 2020; _cites ref. 27_ | p. 2; `ORC-LPQP7IEJ4I.bd8a28` | “The melting temperature of the LaSi2 phase was reported to be 1500°C,25 1520°C,26 and 1580°C27 respectively.” |
-| Phase transition | 1893 K | 1893 | congruent transformation | experimental | [1] Zhou 2010 | p. 2; `ORC-JTAKLJMTW3.e64251` | “Among them, LaSi and LaSi2-a1 melt congruently at 1893 and 2003 K.” |
 | Phase transition | 1898.15 K | 1898.15 | congruent transformation | experimental | [2] Xu 2020 | p. 2; `ORC-46LOCBAEBC.e44e66` | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
-| Phase transition | 2003 K | 2003 | congruent transformation | experimental | [1] Zhou 2010 | p. 2; `ORC-JTAKLJMTW3.c6b26f` | “Among them, LaSi and LaSi2-a1 melt congruently at 1893 and 2003 K.” |
 
 ### Crystal structure (37)
 

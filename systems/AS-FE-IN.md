@@ -1,10 +1,10 @@
 # As–Fe–In system
 
-> As–Fe–In system: 14 accepted literature values (invariant reaction 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> As–Fe–In system: 13 accepted literature values (invariant reaction 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AS-FE-IN.html · Markdown: https://data.orchid-project.org/systems/AS-FE-IN.md
 
-14 accepted literature values from 1 paper(s) (model 14); 0 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (model 13); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AS-FE-IN.json) · [CSV](https://data.orchid-project.org/systems/AS-FE-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-FE-IN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-FE-IN.html) · [Markdown](https://data.orchid-project.org/systems/AS-FE-IN.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 14 |
+| model | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 13 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the As–Fe–In system (14)
+Table: Invariant reactions reported in the literature for the As–Fe–In system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -31,7 +31,6 @@ Table: Invariant reactions reported in the literature for the As–Fe–In syste
 | 1228 | quasi-peritectic: L1 + AsFe \<-> L2 + AsFe2 | L: Fe 0.011, In 0.747 | model | [1] Ohno 2009 | Table 4, p. 4, row 15; `ORC-46N66LKOGD` |  |
 | 1228 | quasi-peritectic: L1 + AsFe -> L2 + AsFe2 | L: Fe 0.586, In 0.016 | model | [1] Ohno 2009 | Table 4, p. 4, row 5; `ORC-STWMETHSHF` |  |
 | 1205 | L -> AsFe + InAs | L: Fe 0.015, In 0.485 | model | [1] Ohno 2009 | Table 4, p. 4, row 6; `ORC-AVLS3AD362` |  |
-| 1205 | eutectic: L $ AsFe þ InAs |  | model | [1] Ohno 2009 | p. 3; `ORC-RTENDCJUG7` | “The calculated result demonstrates that in this section, the eutectic reaction L $ AsFe þ InAs occurs at 1205 K.” |
 | 1203 | quasi-peritectic: L + AsFe -> As2Fe + InAs | L: Fe 0.018, In 0.435 | model | [1] Ohno 2009 | Table 4, p. 4, row 7; `ORC-7H5DMLPGIG` |  |
 | 1174 | L1 -> L2 + As2Fe3 + AsFe2 | L: Fe 0.646, In 0.011 | model | [1] Ohno 2009 | Table 4, p. 4, row 9; `ORC-5URGQRPYLL` |  |
 | 1174 | other: L1 \<-> L2 + As2Fe3 + AsFe2 | L: Fe 0.006, In 0.881 | model | [1] Ohno 2009 | Table 4, p. 4, row 16; `ORC-Y7TKF7JMDP` |  |

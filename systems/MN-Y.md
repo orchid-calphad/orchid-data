@@ -1,24 +1,12 @@
 # Mn–Y system
 
-> Mn–Y system: 3 accepted literature values (invariant reaction 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Y system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-Y.html · Markdown: https://data.orchid-project.org/systems/MN-Y.md
 
-3 accepted literature values from 1 paper(s) (model 3); 3 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-Y.json) · [CSV](https://data.orchid-project.org/systems/MN-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-Y/MnY-01Gro-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/MN-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-Y.html) · [Markdown](https://data.orchid-project.org/systems/MN-Y.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 3 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 3 |
 
 ## Calculated phase diagrams
 
@@ -87,22 +75,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | MnY-97Fla.tdb | 444.53 | MN12Y_D2B (x(Y) 0.07692) + MN23Y6_D8A (x(Y) 0.2069) + MN2Y_C15 (x(Y) 0.33333) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MN/MN-Y.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MN/MN-Y.json) · [CALPHAD hull MnY-01Gro-LB](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-Y--MnY-01Gro-LB.json) · [CALPHAD hull MnY-97Fla](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-Y--MnY-97Fla.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Mn–Y system (3)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1370.1 | eutectic: L ↔ Mn2Y þ Mn23Y6 |  | model | [1] Ye 2024 | p. 22; `ORC-QSFZEOSOG5.63e359` | “The calculated compositions and temperatures of the three eutectic reactions (L ↔ Mn12Y þ Mn23Y6, L ↔ Mn2Y þ Mn23Y6, and L ↔ Mn2Y þ hcp-Y) are 11.9 at.% Y and 1353.4 K, 29.1 at.% Y and 1370.1 K, and 60.6 at.% Y and 1151.7 K, respectively.” |
-| 1353.4 | eutectic: L ↔ Mn12Y þ Mn23Y6 |  | model | [1] Ye 2024 | p. 22; `ORC-QSFZEOSOG5.4bb1e2` | “The calculated compositions and temperatures of the three eutectic reactions (L ↔ Mn12Y þ Mn23Y6, L ↔ Mn2Y þ Mn23Y6, and L ↔ Mn2Y þ hcp-Y) are 11.9 at.% Y and 1353.4 K, 29.1 at.% Y and 1370.1 K, and 60.6 at.% Y and 1151.7 K, respectively.” |
-| 1151.7 | eutectic: L ↔ Mn2Y þ hcp-Y |  | model | [1] Ye 2024 | p. 22; `ORC-QSFZEOSOG5.3ba00d` | “The calculated compositions and temperatures of the three eutectic reactions (L ↔ Mn12Y þ Mn23Y6, L ↔ Mn2Y þ Mn23Y6, and L ↔ Mn2Y þ hcp-Y) are 11.9 at.% Y and 1353.4 K, 29.1 at.% Y and 1370.1 K, and 60.6 at.% Y and 1151.7 K, respectively.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Hongjian Ye, Jiang Wang, Qing Chen, Guanghui Rao, Huaiying Zhou, Development of thermodynamic database of the Mn‐RE (RE = rare earth metals) binary systems, Materials Genome Engineering Advances 2 (2024). [doi:10.1002/mgea.39](https://doi.org/10.1002/mgea.39)
 
 ## Please cite
 

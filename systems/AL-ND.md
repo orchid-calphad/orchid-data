@@ -1,10 +1,10 @@
 # Al–Nd system
 
-> Al–Nd system: 26 accepted literature values (invariant reaction 17, phase transition 5, other property 4) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Nd system: 14 accepted literature values (invariant reaction 10, other property 4) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-ND.html · Markdown: https://data.orchid-project.org/systems/AL-ND.md
 
-26 accepted literature values from 3 paper(s) (experimental 14, model 2, unspecified 10); 7 calculated phase diagram(s).
+14 accepted literature values from 2 paper(s) (experimental 4, model 10); 7 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-ND.json) · [CSV](https://data.orchid-project.org/systems/AL-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-ND/AlNd-01Cac.json) · [phases (16)](https://data.orchid-project.org/phases/pages/AL-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-ND.html) · [Markdown](https://data.orchid-project.org/systems/AL-ND.md)
 
@@ -12,16 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 2 |
-| unspecified | 10 |
+| experimental | 4 |
+| model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
-| phase transition | 5 |
+| invariant reaction | 10 |
 | other property | 4 |
 
 ## Calculated phase diagrams
@@ -197,41 +195,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Nd system (17)
+Table: Invariant reactions reported in the literature for the Al–Nd system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1758 | congruent melting: Al2Nd -> Liquid | Al2Nd: Nd 0.333; Liquid: Nd 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 9; `ORC-FBEXOPRGHA` |  |
-| 1506.6 | peritectic: Liquid + Laves-C15\* -> Al11Nd3-H | Liquid: Nd 0.17; Laves-C15\*: Nd 0.333; Al11Nd3-H: Nd 0.214 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 2; `ORC-2G5APLSYG5` |  |
-| 1475.8 | peritectic: Al11Nd3-H + Al2Nd \* -> Al3Nd | Al11Nd3-H: Nd 0.214; Al2Nd \*: Nd 0.333; Al3Nd: Nd 0.25 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 3; `ORC-ZY54JIPTKX` |  |
-| 1224.7 | polymorphic: Al11Nd3-L -> Al11Nd3-H | Al11Nd3-L: Nd 0.214; Al11Nd3-H: Nd 0.214 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 10; `ORC-PQB2LGQANU` |  |
-| 1220.3 | peritectic: Liquid + AlNd -> Al2Nd | Liquid: Nd 0.643; AlNd: Nd 0.5; Al2Nd: Nd 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 4; `ORC-5BHUDMLR64` |  |
-| 1122.2 | peritectic: Liquid + AlNd -> AlNd2 | Liquid: Nd 0.696; AlNd: Nd 0.5; AlNd2: Nd 0.667 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 5; `ORC-AL3MHSCZ6S` |  |
-| 1053.15 | peritectic |  | experimental | [2] Gao 2005; _cites Saccone 1996_ | p. 9; `ORC-WGWMXUHZLN.95cc8c` | “The AlNd3 phase was reported to melt peritectically at 675 °C\[7\] and at 780 °C.\[17\]” |
-| 1037.9 | peritectic: Liquid + AlNd2 -> AlNd3-L | Liquid: Nd 0.78; AlNd2: Nd 0.667; AlNd3-L: Nd 0.75 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 6; `ORC-EDO24VXDMV` |  |
-| 1008.9 | eutectic: Liquid -> AlNd3-L + bcc-A2 | Liquid: Nd 0.815; AlNd3-L: Nd 0.75; bcc-A2: Nd 0.92 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 7; `ORC-CEMK635KJA` |  |
-| 1000.15 | eutectic: Liq 4 Nd AlNd3 |  | model | [2] Gao 2005; _cites Cacciamani 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900009-3) | p. 9; `ORC-3GDHUL5RKD` | “Indeed, in Cacciamani's assessment,\[18\] the reaction Liq 4 Nd AlNd3 was optimized to occur at 727 °C (37 °C higher than the experimental value\[17\]), with a eutectic point of 82.8 at. pct Nd.” |
-| 963.15 | eutectic: Liq 4 Nd AlNd3 |  | experimental | [2] Gao 2005; _cites Saccone 1996_ | p. 9; `ORC-WGWMXUHZLN.ade595` | “Saccone et al.\[17\] also proposed a eutectoid reaction of Nd 4 Nd AlNd3 at 650 °C, and a eutectic reaction of Liq 4 Nd AlNd3 at 690 °C, with a eutectic point of 81 at. pct Nd.” |
-| 948.15 | peritectic |  | experimental | [2] Gao 2005; _cites Buschow 1965_ | p. 9; `ORC-WGWMXUHZLN.711a42` | “The AlNd3 phase was reported to melt peritectically at 675 °C\[7\] and at 780 °C.\[17\]” |
-| 923.15 | eutectoid: Nd 4 Nd AlNd3 |  | experimental | [2] Gao 2005; _cites Saccone 1996_ | p. 9; `ORC-WGWMXUHZLN.dd10f2` | “Saccone et al.\[17\] also proposed a eutectoid reaction of Nd 4 Nd AlNd3 at 650 °C, and a eutectic reaction of Liq 4 Nd AlNd3 at 690 °C, with a eutectic point of 81 at. pct Nd.” |
-| 908 | eutectic |  | experimental | [3] Jixin 1996; _cites ref. 65Bus_ | p. 1; `ORC-4F7YDRTMSK.858f39` | “eutectics occur: one at 905K (2.5 at.% Nd) and one at 908K (85 at.% Nd) according to \[9OKon\] and \[65Bus\] respectively.” |
-| 905 | eutectic |  | experimental | [3] Jixin 1996; _cites ref. 9_ | p. 1; `ORC-4F7YDRTMSK.b6b1a0` | “eutectics occur: one at 905K (2.5 at.% Nd) and one at 908K (85 at.% Nd) according to \[9OKon\] and \[65Bus\] respectively.” |
-| 898.6 | eutectic: Liquid -> Al11Nd3-L + fcc-Al | Liquid: Nd 0.03; Al11Nd3-L: Nd 0.214; fcc-A1: Nd 0 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 1; `ORC-HDR74FA7XB` |  |
-| 855.3 | eutectoid: bcc-A2 -> AlNd3-L + dhcp | bcc-A2: Nd 0.939; AlNd3-L: Nd 0.75; dhcp: Nd 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 8; `ORC-ANSUBU6KNN` |  |
+| 1758 | congruent melting: Al2Nd -> Liquid | Al2Nd: Nd 0.333; Liquid: Nd 0.333 | model | [1] (ed.) 1998 | Table I, p. 93, row 9; `ORC-FBEXOPRGHA` |  |
+| 1506.6 | peritectic: Liquid + Laves-C15\* -> Al11Nd3-H | Liquid: Nd 0.17; Laves-C15\*: Nd 0.333; Al11Nd3-H: Nd 0.214 | model | [1] (ed.) 1998 | Table I, p. 93, row 2; `ORC-2G5APLSYG5` |  |
+| 1475.8 | peritectic: Al11Nd3-H + Al2Nd \* -> Al3Nd | Al11Nd3-H: Nd 0.214; Al2Nd \*: Nd 0.333; Al3Nd: Nd 0.25 | model | [1] (ed.) 1998 | Table I, p. 93, row 3; `ORC-ZY54JIPTKX` |  |
+| 1224.7 | polymorphic: Al11Nd3-L -> Al11Nd3-H | Al11Nd3-L: Nd 0.214; Al11Nd3-H: Nd 0.214 | model | [1] (ed.) 1998 | Table I, p. 93, row 10; `ORC-PQB2LGQANU` |  |
+| 1220.3 | peritectic: Liquid + AlNd -> Al2Nd | Liquid: Nd 0.643; AlNd: Nd 0.5; Al2Nd: Nd 0.333 | model | [1] (ed.) 1998 | Table I, p. 93, row 4; `ORC-5BHUDMLR64` |  |
+| 1122.2 | peritectic: Liquid + AlNd -> AlNd2 | Liquid: Nd 0.696; AlNd: Nd 0.5; AlNd2: Nd 0.667 | model | [1] (ed.) 1998 | Table I, p. 93, row 5; `ORC-AL3MHSCZ6S` |  |
+| 1037.9 | peritectic: Liquid + AlNd2 -> AlNd3-L | Liquid: Nd 0.78; AlNd2: Nd 0.667; AlNd3-L: Nd 0.75 | model | [1] (ed.) 1998 | Table I, p. 93, row 6; `ORC-EDO24VXDMV` |  |
+| 1008.9 | eutectic: Liquid -> AlNd3-L + bcc-A2 | Liquid: Nd 0.815; AlNd3-L: Nd 0.75; bcc-A2: Nd 0.92 | model | [1] (ed.) 1998 | Table I, p. 93, row 7; `ORC-CEMK635KJA` |  |
+| 898.6 | eutectic: Liquid -> Al11Nd3-L + fcc-Al | Liquid: Nd 0.03; Al11Nd3-L: Nd 0.214; fcc-A1: Nd 0 | model | [1] (ed.) 1998 | Table I, p. 93, row 1; `ORC-HDR74FA7XB` |  |
+| 855.3 | eutectoid: bcc-A2 -> AlNd3-L + dhcp | bcc-A2: Nd 0.939; AlNd3-L: Nd 0.75; dhcp: Nd 1 | model | [1] (ed.) 1998 | Table I, p. 93, row 8; `ORC-ANSUBU6KNN` |  |
 
 ## Other properties
-
-### Phase transition (5)
-
-Table: Phase transition, Al–Nd system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1161.15 K | 1161.15 |  | experimental | [2] Gao 2005 | p. 3; `ORC-DAHNGDXRIB` | “The first thermal event occurs at 888 °C (indicated by the arrow), and may correspond to the /Al3Nd phase transition.” |
-| Phase transition | 1161.15 K | 1161.15 | polymorphic | model | [2] Gao 2005 | p. 1; `ORC-TCWKCWY6XP.63cd82` | “Based on current differential thermal analysis (DTA) measurements and theoretical calculations, it is also proposed that there is an /Al3Ce polymorphous transition occurring at 973 °C in the Al-Ce system and an /Al3Nd polymorphous transition occurring at 888 °C in the Al-Nd system.” |
-| Phase transition | 1161.15 K | 1161.15 | polymorphic | experimental | [2] Gao 2005 | p. 7; `ORC-WPWRWN7O6P.5eebd4` | “From the DTA measurements, it is shown that there is a high probability that an /Al3Ce polymorphous transition will occur at 973 °C in the Al-Ce system and, likewise, that an /Al3Nd transition will occur at 888 °C in the Al-Nd system.” |
-| Phase transition | 1207.15 K | 1207.15 | Al4Nd 4 Liq Al11Nd3 | experimental | [2] Gao 2005 | p. 9; `ORC-XUQWCW4WS4` | “A eutectic reaction Liq 4 Al Al11Nd3 occurs at 641 °C, and the reaction Al4Nd 4 Liq Al11Nd3 occurs at 934 °C.” |
-| Phase transition | 1548.15 K | 1548.15 | other | experimental | [2] Gao 2005 | p. 3; `ORC-KXEJA7DBG7` | “The final liquidus is estimated at 1275 °C, which corresponds to the melting of Al2Nd.” |
 
 ### Other property (4)
 
@@ -248,9 +227,8 @@ Table: Other property, Al–Nd system
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. Michael C. Gao, Necip Ünlü, G. J. Shiflet, Marek Mihalkovic, Michael Widom, Reassessment of Al-Ce and Al-Nd binary systems supported by critical experiments and first-principles energy calculations, Metall Mater Trans A 36, 3269-3279 (2005). [doi:10.1007/s11661-005-0001-y](https://doi.org/10.1007/s11661-005-0001-y)
-3. Wang Jixin, Thermodynamic evaluation of Al-Nd system, Calphad 20, 135-138 (1996). [doi:10.1016/s0364-5916(96)00020-x](https://doi.org/10.1016/s0364-5916%2896%2900020-x)
 
 ## Please cite
 

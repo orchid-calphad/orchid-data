@@ -257,7 +257,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-ti:liquid)
 
 Names (8): _corpus: _corpus:phase:n-ti:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:L  
+_paper: _paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:TiN-08And-A.tdb:LIQUID, tdb:TiN-08And-B.tdb:LIQUID, tdb:TiN-90Oht.tdb:LIQUID, tdb:TiN-91Vah.tdb:LIQUID, tdb:TiN-96Jon-LB.tdb:LIQUID, tdb:TiN-96Zen.tdb:LIQUID  
 
 
@@ -305,7 +305,7 @@ _tdb: _tdb:TiN-08And-A.tdb:LIQUID, tdb:TiN-08And-B.tdb:LIQUID, tdb:TiN-90Oht.tdb
 25: CONST LIQUID:L : N TI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/0040-6031(91)80371-O](https://doi.org/10.1016/0040-6031%2891%2980371-O) C. Vahlas, B. Drouin Ladouce, P.Y. Chevalier, C. Bernard, L. Vandenbulcke, Thermochim. Acta, 180, 23-37(1991).  
 _assessment that models this phase_
@@ -317,8 +317,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1996-870903](https://doi.org/10.1515/ijmr-1996-870903) S. Jonsson, Z. Metallkd., 87, 691-702(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## N2GAS (N–Ti)
 
@@ -473,7 +471,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-ti:ti3n2)
 
 Names (3): _corpus: _corpus:phase:n-ti:ti3n2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Ti3N2  
+_paper: _paper:sha256-85fd53a1a176b694:Ti3N2  
 _tdb: _tdb:TiN-96Zen.tdb:TI3N2  
 
 
@@ -486,12 +484,10 @@ _tdb: _tdb:TiN-96Zen.tdb:TI3N2
 50: CONST TI3N2 : TI : N : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1515/ijmr-1996-870706](https://doi.org/10.1515/ijmr-1996-870706) K. Zeng, R. Schmid-Fetzer, Z. Metallkd., 87, 540-54(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## TI4N3 (N–Ti)
 
@@ -504,7 +500,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-ti:ti4n3)
 
 Names (3): _corpus: _corpus:phase:n-ti:ti4n3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Ti4N3  
+_paper: _paper:sha256-85fd53a1a176b694:Ti4N3  
 _tdb: _tdb:TiN-96Zen.tdb:TI4N3  
 
 
@@ -517,12 +513,10 @@ _tdb: _tdb:TiN-96Zen.tdb:TI4N3
 55: CONST TI4N3 : TI : N : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1515/ijmr-1996-870706](https://doi.org/10.1515/ijmr-1996-870706) K. Zeng, R. Schmid-Fetzer, Z. Metallkd., 87, 540-54(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## TI5N3 (N–Ti)
 

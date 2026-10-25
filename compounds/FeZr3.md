@@ -44,11 +44,11 @@ Table: Uncertainty budget of the literature values of FeZr3
 | -13.157 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | 13158 | not printed |  | 0.05 | unit 'not printed' not convertible to kJ/mol-atom |  |  |  | unit 'not printed' not convertible to kJ/mol-atom |
 | 13158 | not printed |  | 0.5 | unit 'not printed' not convertible to kJ/mol-atom |  |  |  | unit 'not printed' not convertible to kJ/mol-atom |
-| -14.23 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| -11.77 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| 1.26 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| 8.14 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| 11.61 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| -14.23 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| -11.77 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| 1.26 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| 8.14 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| 11.61 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
 
 ## DFT formation energies
 

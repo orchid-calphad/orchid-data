@@ -1,10 +1,10 @@
 # C–V system
 
-> C–V system: 44 accepted literature values (invariant reaction 25, phase transition 14, phase equilibrium 4, crystal structure 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–V system: 40 accepted literature values (invariant reaction 23, phase transition 12, phase equilibrium 4, crystal structure 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-V.html · Markdown: https://data.orchid-project.org/systems/C-V.md
 
-44 accepted literature values from 2 paper(s) (experimental 22, model 19, unspecified 3); 0 calculated phase diagram(s).
+40 accepted literature values from 2 paper(s) (experimental 22, model 15, unspecified 3); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-V.json) · [CSV](https://data.orchid-project.org/systems/C-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-V) · [phases (10)](https://data.orchid-project.org/phases/pages/C-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-V.html) · [Markdown](https://data.orchid-project.org/systems/C-V.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 22 |
-| model | 19 |
+| model | 15 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 25 |
-| phase transition | 14 |
+| invariant reaction | 23 |
+| phase transition | 12 |
 | phase equilibrium | 4 |
 | crystal structure | 1 |
 
@@ -29,14 +29,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–V system (25)
+Table: Invariant reactions reported in the literature for the C–V system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3073 | VCx \<-> liquid | VCx: C 0.475 | experimental | [1] Hu 2006; _cites Tretyachenko 1966_ | Table 2, p. 3, row 19; `ORC-DSODOQKV6N` |  |
-| 2931 | VCx \<-> liquid | VCx: C 0.433 | model | [1] Hu 2006 | Table 2, p. 3, row 20; `ORC-N43KFHLUUG` |  |
+| 3073 | congruent melting: VCx \<-> liquid | VCx: C 0.475 | experimental | [1] Hu 2006; _cites Tretyachenko 1966_ | Table 2, p. 3, row 19; `ORC-DSODOQKV6N` |  |
+| 2931 | congruent melting: VCx \<-> liquid | VCx: C 0.433 | model | [1] Hu 2006 | Table 2, p. 3, row 20; `ORC-N43KFHLUUG` |  |
 | 2923 | Liquid \<-> VCx + graphite | Liquid: C 0.46 | experimental | [1] Hu 2006; _cites Storms 1962_ [doi](https://doi.org/10.1021/j100814a007) | Table 2, p. 3, row 21; `ORC-625YCSY677` |  |
-| 2921 | VCx \<-> liquid | VCx: C 0.43 | experimental | [1] Hu 2006; _cites Storms 1962_ [doi](https://doi.org/10.1021/j100814a007) | Table 2, p. 3, row 18; `ORC-JVQBTMHRFK` |  |
+| 2921 | congruent melting: VCx \<-> liquid | VCx: C 0.43 | experimental | [1] Hu 2006; _cites Storms 1962_ [doi](https://doi.org/10.1021/j100814a007) | Table 2, p. 3, row 18; `ORC-JVQBTMHRFK` |  |
 | 2898 | Liquid \<-> VCx + graphite | Liquid: C 0.46; VCx: C 0.495 | experimental | [1] Hu 2006; _cites Rudy 1968_ | Table 2, p. 3, row 22; `ORC-WUIHSQXC3C` |  |
 | 2879 | Liquid \<-> VCx + graphite | Liquid: C 0.452; VCx: C 0.495 | model | [1] Hu 2006 | Table 2, p. 3, row 23; `ORC-TALU6B3HNX` |  |
 | 2466 | Liquid + VCx \<-> V2C | Liquid: C 0.258; VCx: C 0.371; V2C: C 0.325 | model | [1] Hu 2006 | Table 2, p. 3, row 17; `ORC-D22OTMJCVZ` |  |
@@ -51,17 +51,15 @@ Table: Invariant reactions reported in the literature for the C–V system (25)
 | 1903 | Liquid \<-> V2C + bcc-(V) | Liquid: C 0.087; V2C: C 0.25 | experimental | [1] Hu 2006; _cites Storms 1962_ [doi](https://doi.org/10.1021/j100814a007) | Table 2, p. 3, row 10; `ORC-J4ZVQ7MCFQ` |  |
 | 1540 | V4C3-x \<-> V2C + VCx | V4C3-x: C 0.379; V2C: C 0.35; VCx: C 0.419 | experimental | [1] Hu 2006; _cites Wiesenberger 1998_ [doi](https://doi.org/10.1016/s1359-6454%2897%2900204-8) | Table 2, p. 3, row 3; `ORC-UAVCLGVT44` |  |
 | 1535 | V4C3-x \<-> V2C + VCx | V4C3-x: C 0.379; V2C: C 0.333; VCx: C 0.421 | model | [1] Hu 2006 | Table 2, p. 3, row 4; `ORC-RKTZ6Q7DLN` |  |
-| 1397 | V8C7 \<-> VCx | V8C7: C 0.467 | experimental | [1] Hu 2006; _cites Shacklette 1973_ [doi](https://doi.org/10.1103/physrevb.7.5041) | Table 2, p. 3, row 6; `ORC-L5XCWV2JTO` |  |
-| 1385 | V8C7 \<-> VCx | V8C7: C 0.467 | unspecified | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 2, p. 3, row 5; `ORC-DBWI6JC7LS` |  |
-| 1383 | V8C7 \<-> VCx | V8C7: C 0.467 | model | [1] Hu 2006 | Table 2, p. 3, row 7; `ORC-ZUFOATHZL7` |  |
+| 1397 | polymorphic: V8C7 \<-> VCx | V8C7: C 0.467 | experimental | [1] Hu 2006; _cites Shacklette 1973_ [doi](https://doi.org/10.1103/physrevb.7.5041) | Table 2, p. 3, row 6; `ORC-L5XCWV2JTO` |  |
+| 1385 | polymorphic: V8C7 \<-> VCx | V8C7: C 0.467 | unspecified | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 2, p. 3, row 5; `ORC-DBWI6JC7LS` |  |
+| 1383 | polymorphic: V8C7 \<-> VCx | V8C7: C 0.467 | model | [1] Hu 2006 | Table 2, p. 3, row 7; `ORC-ZUFOATHZL7` |  |
 | 1331 | VCx \<-> V6C5 + V8C7 | VCx: C 0.46; V6C5: C 0.454545, V 0.545455; V8C7: C 0.467 | unspecified | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 2, p. 3, row 8; `ORC-ZSH7WJLDVH` |  |
-| 1331 | eutectic: VCx ↔ V6 C5 + V8 C7 |  | model | [1] Hu 2006 | p. 6; `ORC-ZWIMNSMLCI.ca9b40` | “The eutectic reaction: VCx ↔ V6 C5 + V8 C7 occurs at 1329 K with the compositions of 0.459 at.% C, 0.451 at.% C and 0.467 at.% C, respectively; this results is very close to the estimate by Lipatnikov et al., T ≈ 1331 K and at.% C ≈ 0.460 for VCx .” |
 | 1329 | VCx \<-> V6C5 + V8C7 | VCx: C 0.459; V6C5: C 0.451; V8C7: C 0.467 | model | [1] Hu 2006 | Table 2, p. 3, row 9; `ORC-TPXDACUIAN` |  |
-| 1329 | eutectic: VCx ↔ V6 C5 + V8 C7 |  | model | [1] Hu 2006 | p. 6; `ORC-ZWIMNSMLCI.2d4339` | “The eutectic reaction: VCx ↔ V6 C5 + V8 C7 occurs at 1329 K with the compositions of 0.459 at.% C, 0.451 at.% C and 0.467 at.% C, respectively; this results is very close to the estimate by Lipatnikov et al., T ≈ 1331 K and at.% C ≈ 0.460 for VCx .” |
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (12)
 
 Table: Phase transition, C–V system
 
@@ -78,8 +76,6 @@ Table: Phase transition, C–V system
 | Phase transition | 1450 K | 1450 | order-disorder: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | model | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 21; `ORC-N6ZYND34EK` |  |
 | Phase transition | 1457 K | 1457 | order-disorder: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 1, p. 2, row 20; `ORC-WIR35Y567N` |  |
 | Phase transition | 1473 K | 1473 | order-disorder: VCx \<-> V6C5 + VCx; _alloy: V 0.545455_ | experimental | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 1, p. 2, row 18; `ORC-QRBUAQX6GT` |  |
-| Phase transition | 1485 K | 1485 | VCx + V2 C ↔ V6 C5 | model | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | p. 6; `ORC-HF6AC33OHP.1d0ce9` | “The calculated temperature for VCx + V2 C ↔ V6 C5 is 1512 K, which is higher than 1485K calculated by Lipatnikov et al.” |
-| Phase transition | 1512 K | 1512 | VCx + V2 C ↔ V6 C5 | model | [1] Hu 2006 | p. 6; `ORC-HF6AC33OHP.a5c26c` | “The calculated temperature for VCx + V2 C ↔ V6 C5 is 1512 K, which is higher than 1485K calculated by Lipatnikov et al.” |
 | Phase transition | 2183 K | 2183 | bcc | experimental | [1] Hu 2006 | p. 4; `ORC-SSUJ3O3L5Z` | “However, in order to avoid a kink in CP due to the change in the description of ◦ Gbcc V at the melting point (2183 K), it is decided to replace ◦ Gbcc V in Eqs. (7) and (8) with a quantity ◦ Ghyp , which is identical to ◦ Gbcc except that the expression for V V φ 790 to 2183 K is used extensively up to 4000 K \[2\].” |
 
 ### Phase equilibrium (4)

@@ -54,12 +54,12 @@ Table: Invariant reactions reported in the literature for the K–Te system (11)
 | 902 | Na5Te3 -> liq + K2Te |  | experimental | [1] Chen 2014; _cites Schewe-Miller_ | Table 5, p. 6, row 5; `ORC-HADLCAJ5VL` |  |
 | 688 | KTe -> liq + K5Te3 |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 7; `ORC-SJNEHFAZ76` |  |
 | 685 | KTe -> liq + K5Te3 | KTe: Te 0.53 | model | [1] Chen 2014 | Table 5, p. 6, row 6; `ORC-RENFX6Y2XV` |  |
-| 669 | liq -> K2Te3 + KTe | liq: Te 0.55 | model | [1] Chen 2014 | Table 5, p. 6, row 8; `ORC-IBQR5QAVWC` |  |
-| 660 | liq -> K2Te3 + KTe |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 9; `ORC-BHQVGKFPH3` |  |
-| 526 | liq -> K2Te3 + Te | liq: Te 0.76 | model | [1] Chen 2014 | Table 5, p. 6, row 10; `ORC-UB5WP7FQJM` |  |
-| 525 | liq -> K2Te3 + Te |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 11; `ORC-FEOW765WF3` |  |
-| 336 | liq -> K + K2Te |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 2; `ORC-WFCHJAB5FD` |  |
-| 335 | liq -> K + K2Te | K: Te 1.000e-4 | model | [1] Chen 2014 | Table 5, p. 6, row 1; `ORC-VI6BC6F2TB` |  |
+| 669 | eutectic: liq -> K2Te3 + KTe | liq: Te 0.55 | model | [1] Chen 2014 | Table 5, p. 6, row 8; `ORC-IBQR5QAVWC` |  |
+| 660 | eutectic: liq -> K2Te3 + KTe |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 9; `ORC-BHQVGKFPH3` |  |
+| 526 | eutectic: liq -> K2Te3 + Te | liq: Te 0.76 | model | [1] Chen 2014 | Table 5, p. 6, row 10; `ORC-UB5WP7FQJM` |  |
+| 525 | eutectic: liq -> K2Te3 + Te |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 11; `ORC-FEOW765WF3` |  |
+| 336 | eutectic: liq -> K + K2Te |  | experimental | [1] Chen 2014; _cites Khavachev 1998_ | Table 5, p. 6, row 2; `ORC-WFCHJAB5FD` |  |
+| 335 | eutectic: liq -> K + K2Te | K: Te 1.000e-4 | model | [1] Chen 2014 | Table 5, p. 6, row 1; `ORC-VI6BC6F2TB` |  |
 
 ## Sources
 

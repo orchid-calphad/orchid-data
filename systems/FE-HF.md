@@ -1,10 +1,10 @@
 # Fe–Hf system
 
-> Fe–Hf system: 34 accepted literature values (invariant reaction 14, formation 12, phase transition 7, heat capacity / entropy / enthalpy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Hf system: 32 accepted literature values (invariant reaction 14, formation 12, phase transition 5, heat capacity / entropy / enthalpy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-HF.html · Markdown: https://data.orchid-project.org/systems/FE-HF.md
 
-34 accepted literature values from 1 paper(s) (experimental 13, model 21); 1 calculated phase diagram(s).
+32 accepted literature values from 1 paper(s) (experimental 13, model 19); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-HF.json) · [CSV](https://data.orchid-project.org/systems/FE-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-HF/FeHf-08Idb.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-HF.html) · [Markdown](https://data.orchid-project.org/systems/FE-HF.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 13 |
-| model | 21 |
+| model | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 14 |
-| phase transition | 7 |
+| phase transition | 5 |
 | formation | 12 |
 | heat capacity / entropy / enthalpy | 1 |
 
@@ -67,12 +67,12 @@ Table: Invariant reactions reported in the literature for the Fe–Hf system (14
 |---:|---|---|---|---|---|---|
 | 1914.15 | Liq + λ -> βFe2Hf | Liq: Hf 0.5016; λ: Hf 0.3209 | model | [1] Idbenali 2008 | Table 4, p. 5, row 14; `ORC-FLVU3Q5RFZ` |  |
 | 1913.15 | Liq + λ -> βFe2Hf | Liq: Hf 0.482; λ: Hf 0.0327 | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 13; `ORC-TMGCFDBQMW` |  |
-| 1663.15 | Liq -> (δFe) + λ | Liq: Hf 0.079; (δFe): Hf 0.0145; λ: Hf 0.251 | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 11; `ORC-PX5CNIW4RK` |  |
-| 1662.15 | Liq -> (δFe) + λ | Liq: Hf 0.0604; (δFe): Hf 0.00288; λ: Hf 0.2454 | model | [1] Idbenali 2008 | Table 4, p. 5, row 12; `ORC-DZXILFULF7` |  |
+| 1663.15 | eutectic: Liq -> (δFe) + λ | Liq: Hf 0.079; (δFe): Hf 0.0145; λ: Hf 0.251 | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 11; `ORC-PX5CNIW4RK` |  |
+| 1662.15 | eutectic: Liq -> (δFe) + λ | Liq: Hf 0.0604; (δFe): Hf 0.00288; λ: Hf 0.2454 | model | [1] Idbenali 2008 | Table 4, p. 5, row 12; `ORC-DZXILFULF7` |  |
 | 1608.15 | (γFe) -> (δFe) + λ | (γFe): Hf 0.0022; (δFe): Hf 1.800e-4; λ: Hf 0.245 | model | [1] Idbenali 2008 | Table 4, p. 5, row 10; `ORC-QNNBNFBJY7` |  |
 | 1603.15 | (γFe) -> (δFe) + λ | (γFe): Hf 0.00835; (δFe): Hf 0.0051; λ: Hf 0.257 | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 9; `ORC-I6AKBQRSUR` |  |
-| 1574.15 | Liq -> (βHf) + βFe2Hf | Liq: Hf 0.6472; (βHf): Hf 0.8788 | model | [1] Idbenali 2008 | Table 4, p. 5, row 8; `ORC-OARPXQ2EGY` |  |
-| 1573.15 | Liq -> (βHf) + βFe2Hf | Liq: Hf 0.639; (βHf): Hf 0.955 | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 7; `ORC-6BAA5VZO2O` |  |
+| 1574.15 | eutectic: Liq -> (βHf) + βFe2Hf | Liq: Hf 0.6472; (βHf): Hf 0.8788 | model | [1] Idbenali 2008 | Table 4, p. 5, row 8; `ORC-OARPXQ2EGY` |  |
+| 1573.15 | eutectic: Liq -> (βHf) + βFe2Hf | Liq: Hf 0.639; (βHf): Hf 0.955 | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 7; `ORC-6BAA5VZO2O` |  |
 | 1533.15 | (βHf) + βFe2Hf -> FeHF2 | (βHf): Hf 0.964 | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 5; `ORC-FHRPCPEV3R` |  |
 | 1533.15 | (βHf) + βFe2Hf -> FeHF2 | (βHf): Hf 0.879 | model | [1] Idbenali 2008 | Table 4, p. 5, row 6; `ORC-YCEM5ZHRTD` |  |
 | 1509.15 | (βHf) -> (αHf) + FeHF2 | (βHf): Hf 0.8828; (αHf): Hf 1 | model | [1] Idbenali 2008 | Table 4, p. 5, row 4; `ORC-4H57ZGOV4R` |  |
@@ -103,7 +103,7 @@ Table: Enthalpies of formation, Fe–Hf system (12)
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (5)
 
 Table: Phase transition, Fe–Hf system
 
@@ -112,8 +112,6 @@ Table: Phase transition, Fe–Hf system
 | Phase transition | 1473 K | 1473 | Fe2Hf LT + Fe2Hf HT | model | [1] Idbenali 2008; _cites Okamoto 2000_ | p. 1; `ORC-W2XX4IJVLR` | “According to the evaluation by Okamoto \[4\], the stoichiometric Fe2 Hf phase presents a crystalline transition at 1473 K from C15 (noted as ␣Fe2 Hf or Fe2 Hf cub or Fe2 Hf LT (low temperature), Cu2 Mg type) to C36 type (␤Fe2 Hf or Fe2 Hf hex2 or Fe2 Hf HT (high temperature), Ni2 Mg type).” |
 | Phase transition | 1473.15 K | 1473.15 | Fe2Hf-LT -> Fe2Hf-HT; _Fe2Hf-LT: Hf 0.3333_ | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 1; `ORC-NTG4DX7LBA` |  |
 | Phase transition | 1473.15 K | 1473.15 | Fe2Hf-LT -> Fe2Hf-HT; _Fe2Hf-LT: Hf 0.3333_ | model | [1] Idbenali 2008 | Table 4, p. 5, row 2; `ORC-Y66VLDRW44` |  |
-| Phase transition | 1473.15 K | 1473.15 | polymorphic | model | [1] Idbenali 2008; _cites Okamoto 2000_ | p. 2; `ORC-N7NAMGDWTM` | “We had to optimize the enthalpy of formation of the low temperature polytype in order to calculate the transition temperature at 1200 ◦ C \[4\] between the two polytypes.” |
-| Phase transition | 1473.15 K | 1473.15 | polymorphic | model | [1] Idbenali 2008; _cites Okamoto 2000_ | p. 6; `ORC-SSPLXVRGX7` | “optimized temperature of the polymorphic transition (1200 ◦ C) of Fe2 Hf HT ↔ Fe2 Hf LT was chosen in \[4\].” |
 | Phase transition | 2093.15 K | 2093.15 | (Liq -> λ; _Liq: Hf 0.298_ | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 15; `ORC-JZ4QETKMLT` |  |
 | Phase transition | 2094.15 K | 2094.15 | (Liq -> λ; _Liq: Hf 0.3_ | model | [1] Idbenali 2008 | Table 4, p. 5, row 16; `ORC-F5BHTO36OM` |  |
 

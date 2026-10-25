@@ -32,7 +32,7 @@ Table: Phases of the Mg–Y system (10)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:bcc-a2)
 
 Names (13): _corpus: _corpus:phase:mg-y:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2006.10.004:bcc(Y), paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1016/s0966-9795(03)00156-0:(βY)  
+_paper: _paper:10.1016/j.calphad.2006.10.004:bcc(Y), paper:10.1016/s0966-9795(03)00156-0:(βY), paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:MgY-03Fab-LB.tdb:A2_BCC, tdb:MgY-03Fab-LB.tdb:BCC_A2, tdb:MgY-07Guo.tdb:A2_BCC, tdb:MgY-07Guo.tdb:BCC_A2, tdb:MgY-07Men.tdb:A2_BCC, tdb:MgY-07Men.tdb:BCC_A2, tdb:MgY-20Wu.tdb:A2_BCC, tdb:MgY-20Wu.tdb:BCC_A2, tdb:MgY-98Luk.tdb:BCC_A2  
 
 
@@ -101,7 +101,7 @@ _tdb: _tdb:MgY-03Fab-LB.tdb:A2_BCC, tdb:MgY-03Fab-LB.tdb:BCC_A2, tdb:MgY-07Guo.t
 34: CONST BCC_A2 : MG Y% : VA% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004) Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Y system, Calphad 31, 75-88 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -111,8 +111,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/0925-8388(94)90731-5](https://doi.org/10.1016/0925-8388%2894%2990731-5) M. Giovannini, R. Marazza, A. Saccone, R. Ferro, Isothermal section from 50 to 75 at.% Mg of the ternary system YLaMg, Journal of Alloys and Compounds 203, 177-180 (1994).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## B2_BCC (Mg–Y)
 
@@ -131,7 +129,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:bcc-b2)
 
 Names (9): _corpus: _corpus:phase:mg-y:bcc-b2, corpus:phase:mg-y:b2-bcc  
-_paper: _paper:10.1016/j.calphad.2006.10.004:MgY, paper:10.1016/s0364-5916(98)00037-6:MgY, paper:10.1016/s0966-9795(03)00156-0:Y1-xMg  
+_paper: _paper:10.1016/j.calphad.2006.10.004:MgY, paper:10.1016/s0966-9795(03)00156-0:Y1-xMg, paper:sha256-85fd53a1a176b694:MgY  
 _tdb: _tdb:MgY-03Fab-LB.tdb:B2_BCC, tdb:MgY-07Guo.tdb:B2_BCC, tdb:MgY-07Men.tdb:B2_BCC, tdb:MgY-20Wu.tdb:B2_BCC  
 
 
@@ -165,7 +163,7 @@ _tdb: _tdb:MgY-03Fab-LB.tdb:B2_BCC, tdb:MgY-07Guo.tdb:B2_BCC, tdb:MgY-07Men.tdb:
 40: CONST B2_BCC : MG% Y : MG Y% : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004) Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Y system, Calphad 31, 75-88 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -175,8 +173,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/0925-8388(94)90731-5](https://doi.org/10.1016/0925-8388%2894%2990731-5) M. Giovannini, R. Marazza, A. Saccone, R. Ferro, Isothermal section from 50 to 75 at.% Mg of the ternary system YLaMg, Journal of Alloys and Compounds 203, 177-180 (1994).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## C14_LAVES (Mg–Y)
 
@@ -191,7 +187,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:c14-laves)
 
 Names (8): _corpus: _corpus:phase:mg-y:c14-laves  
-_paper: _paper:10.1016/j.calphad.2006.10.004:Mg2Y, paper:10.1016/s0364-5916(98)00037-6:Mg2Y, paper:10.1016/s0966-9795(03)00156-0:Y1-xMg2  
+_paper: _paper:10.1016/j.calphad.2006.10.004:Mg2Y, paper:10.1016/s0966-9795(03)00156-0:Y1-xMg2, paper:sha256-85fd53a1a176b694:Mg2Y  
 _tdb: _tdb:MgY-03Fab-LB.tdb:C14_LAVES, tdb:MgY-07Guo.tdb:C14_LAVES, tdb:MgY-07Men.tdb:C14_LAVES, tdb:MgY-20Wu.tdb:C14_LAVES  
 
 
@@ -225,7 +221,7 @@ _tdb: _tdb:MgY-03Fab-LB.tdb:C14_LAVES, tdb:MgY-07Guo.tdb:C14_LAVES, tdb:MgY-07Me
 60: CONST C14_LAVES : MG% Y : MG Y% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004) Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Y system, Calphad 31, 75-88 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -235,8 +231,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/0925-8388(94)90731-5](https://doi.org/10.1016/0925-8388%2894%2990731-5) M. Giovannini, R. Marazza, A. Saccone, R. Ferro, Isothermal section from 50 to 75 at.% Mg of the ternary system YLaMg, Journal of Alloys and Compounds 203, 177-180 (1994).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Mg–Y)
 
@@ -305,7 +299,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:hcp-a3)
 
 Names (12): _corpus: _corpus:phase:mg-y:hcp-a3  
-_paper: _paper:10.1016/j.calphad.2006.10.004:hcp(Mg), paper:10.1016/j.calphad.2006.10.004:hcp(Y), paper:10.1016/s0364-5916(98)00037-6:hcp-A3, paper:10.1016/s0966-9795(03)00156-0:(Mg), paper:10.1016/s0966-9795(03)00156-0:(αY)  
+_paper: _paper:10.1016/j.calphad.2006.10.004:hcp(Mg), paper:10.1016/j.calphad.2006.10.004:hcp(Y), paper:10.1016/s0966-9795(03)00156-0:(Mg), paper:10.1016/s0966-9795(03)00156-0:(αY), paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:MgY-03Fab-LB.tdb:HCP_A3, tdb:MgY-07Guo.tdb:HCP_A3, tdb:MgY-07Men.tdb:HCP_A3, tdb:MgY-20Wu.tdb:A3_HCP, tdb:MgY-20Wu.tdb:HCP_A3, tdb:MgY-98Luk.tdb:HCP_A3  
 
 
@@ -353,7 +347,7 @@ _tdb: _tdb:MgY-03Fab-LB.tdb:HCP_A3, tdb:MgY-07Guo.tdb:HCP_A3, tdb:MgY-07Men.tdb:
 39: CONST HCP_A3 : MG% Y% : VA% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004) Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Y system, Calphad 31, 75-88 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -363,8 +357,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/0925-8388(94)90731-5](https://doi.org/10.1016/0925-8388%2894%2990731-5) M. Giovannini, R. Marazza, A. Saccone, R. Ferro, Isothermal section from 50 to 75 at.% Mg of the ternary system YLaMg, Journal of Alloys and Compounds 203, 177-180 (1994).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Mg–Y)
 
@@ -375,7 +367,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:liquid)
 
 Names (9): _corpus: _corpus:phase:mg-y:liquid  
-_paper: _paper:10.1016/j.calphad.2006.10.004:liq., paper:10.1016/s0364-5916(98)00037-6:L, paper:10.1016/s0966-9795(03)00156-0:L  
+_paper: _paper:10.1016/j.calphad.2006.10.004:liq., paper:10.1016/s0966-9795(03)00156-0:L, paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:MgY-03Fab-LB.tdb:LIQUID, tdb:MgY-07Guo.tdb:LIQUID, tdb:MgY-07Men.tdb:LIQUID, tdb:MgY-20Wu.tdb:LIQUID, tdb:MgY-98Luk.tdb:LIQUID  
 
 
@@ -416,7 +408,7 @@ _tdb: _tdb:MgY-03Fab-LB.tdb:LIQUID, tdb:MgY-07Guo.tdb:LIQUID, tdb:MgY-07Men.tdb:
 24: CONST LIQUID:L : MG Y : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004) Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Y system, Calphad 31, 75-88 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -426,8 +418,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/0925-8388(94)90731-5](https://doi.org/10.1016/0925-8388%2894%2990731-5) M. Giovannini, R. Marazza, A. Saccone, R. Ferro, Isothermal section from 50 to 75 at.% Mg of the ternary system YLaMg, Journal of Alloys and Compounds 203, 177-180 (1994).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MG24Y5_A12 (Mg–Y)
 
@@ -438,7 +428,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:mg24y5-a12)
 
 Names (9): _corpus: _corpus:phase:mg-y:mg24y5-a12  
-_paper: _paper:10.1016/j.calphad.2006.10.004:Mg24Y5, paper:10.1016/s0364-5916(98)00037-6:Mg24Y5, paper:10.1016/s0966-9795(03)00156-0:Y5-xMg24  
+_paper: _paper:10.1016/j.calphad.2006.10.004:Mg24Y5, paper:10.1016/s0966-9795(03)00156-0:Y5-xMg24, paper:sha256-85fd53a1a176b694:Mg24Y5  
 _tdb: _tdb:MgY-03Fab-LB.tdb:MG24Y5_A12, tdb:MgY-07Guo.tdb:MG24Y5_A12, tdb:MgY-07Men.tdb:MG24Y5_A12, tdb:MgY-20Wu.tdb:MG24Y5_A12, tdb:MgY-98Luk.tdb:MG24Y5_A12  
 
 
@@ -479,7 +469,7 @@ _tdb: _tdb:MgY-03Fab-LB.tdb:MG24Y5_A12, tdb:MgY-07Guo.tdb:MG24Y5_A12, tdb:MgY-07
 55: CONST MG24Y5_A12 : MG : MG Y% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004) Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Y system, Calphad 31, 75-88 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -489,8 +479,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/0925-8388(94)90731-5](https://doi.org/10.1016/0925-8388%2894%2990731-5) M. Giovannini, R. Marazza, A. Saccone, R. Ferro, Isothermal section from 50 to 75 at.% Mg of the ternary system YLaMg, Journal of Alloys and Compounds 203, 177-180 (1994).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MG2Y_C14 (Mg–Y)
 

@@ -1,26 +1,12 @@
 # Pb–Sc system
 
-> Pb–Sc system: 4 accepted literature values (invariant reaction 2, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Sc system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-SC.html · Markdown: https://data.orchid-project.org/systems/PB-SC.md
 
-4 accepted literature values from 1 paper(s) (experimental 2, model 2); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-SC.json) · [CSV](https://data.orchid-project.org/systems/PB-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-SC/PbSc-14Idd.json) · [phases (6)](https://data.orchid-project.org/phases/pages/PB-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-SC.html) · [Markdown](https://data.orchid-project.org/systems/PB-SC.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 2 |
-| model | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 2 |
-| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -46,32 +32,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | PbSc-14Idd.tdb | 600.54 | FCC_A1 (x(Sc) 0) + LIQUID (x(Sc) 1.100e-4) + PB5SC6 (x(Sc) 0.54545) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/PB/PB-SC.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/PB/PB-SC.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Pb–Sc system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1563.15 | peritectic |  | experimental | [1] Iddaoudi 2014; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 2; `ORC-WDHTUH7YHL.7ce1e3` | “For the Sc5Pb3 compound a congruent melting was determined at 1700 °C, while for the Sc6Pb5 compound a peritectic formation was reported, at 1290 °C.” |
-| 1469.15 | eutectic: Liq M Sc5Pb3 + (aSc) |  | model | [1] Iddaoudi 2014 | p. 5; `ORC-HFHBLUAO3K.a4d38c` | “For the Sc-rich part of this system we suggested the eutectic reaction of Liq M Sc5Pb3 + (aSc) at 1196 °C and the catatectic reaction Liq + aSc) M (bSc) at 1272 °C according to the literature data of Dy-rich part of Dy-Pb system and presented in Fig. 5.” |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Pb–Sc system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1545.15 K | 1545.15 | other: Liq + aSc) M (bSc) | model | [1] Iddaoudi 2014 | p. 5; `ORC-HFHBLUAO3K.fa9a09` | “For the Sc-rich part of this system we suggested the eutectic reaction of Liq M Sc5Pb3 + (aSc) at 1196 °C and the catatectic reaction Liq + aSc) M (bSc) at 1272 °C according to the literature data of Dy-rich part of Dy-Pb system and presented in Fig. 5.” |
-| Phase transition | 1973.15 K | 1973.15 | congruent transformation | experimental | [1] Iddaoudi 2014; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906014-2) | p. 2; `ORC-WDHTUH7YHL.df1714` | “For the Sc5Pb3 compound a congruent melting was determined at 1700 °C, while for the Sc6Pb5 compound a peritectic formation was reported, at 1290 °C.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. A. Iddaoudi, C. Servant, N. Selhaoui, S. Kardellass, K. Mahdouk, L. Bouirden, Thermodynamic modeling of the RE–Pb (RE=Sc, Dy, Gd) systems, Journal of Alloys and Compounds 589, 192-199 (2014). [doi:10.1016/j.jallcom.2013.11.131](https://doi.org/10.1016/j.jallcom.2013.11.131)
 
 ## Please cite
 

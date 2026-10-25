@@ -1,10 +1,10 @@
 # Ca–Cu system
 
-> Ca–Cu system: 6 accepted literature values (invariant reaction 5, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Cu system: 5 accepted literature values (invariant reaction 4, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-CU.html · Markdown: https://data.orchid-project.org/systems/CA-CU.md
 
-6 accepted literature values from 1 paper(s) (experimental 6); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+5 accepted literature values from 1 paper(s) (experimental 5); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-CU.json) · [CSV](https://data.orchid-project.org/systems/CA-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-CU/CaCu-96Ris-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CA-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-CU.html) · [Markdown](https://data.orchid-project.org/systems/CA-CU.md)
 
@@ -12,13 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
+| experimental | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
+| invariant reaction | 4 |
 | phase transition | 1 |
 
 ## Calculated phase diagrams
@@ -64,14 +64,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ca–Cu system (5)
+Table: Invariant reactions reported in the literature for the Ca–Cu system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1190 | eutectic |  | experimental | [1] Risold 1996; _cites ref. 7_ | p. 2; `ORC-H3BAS4FG5K.bf66ac` | “The eutectic reaction L ++ Cu+CaCus was observed at 1190 K \[7lBru\] and 1178 K \[80Kuz\], and both studies agree on a eutectic composition near ZQ, = 0.90 for the liquid.” |
 | 1178 | eutectic |  | experimental | [1] Risold 1996; _cites ref. 80Kuz_ | p. 2; `ORC-H3BAS4FG5K.d0d26d` | “The eutectic reaction L ++ Cu+CaCus was observed at 1190 K \[7lBru\] and 1178 K \[80Kuz\], and both studies agree on a eutectic composition near ZQ, = 0.90 for the liquid.” |
 | 840 | peritectic |  | experimental | [1] Risold 1996 | p. 2; `ORC-BVPUUIFGCQ.d19931` | “The other compounds were found by Bruzzone to form peritectically, CaCu at 840 K and CasCu at 761 K.” |
-| 761 | peritectic |  | experimental | [1] Risold 1996 | p. 2; `ORC-BVPUUIFGCQ.d0e6e3` | “The other compounds were found by Bruzzone to form peritectically, CaCu at 840 K and CasCu at 761 K.” |
 | 755 | eutectic |  | experimental | [1] Risold 1996 | p. 2; `ORC-SGX3IGF3EG` | “The eutectic reaction involving CazCu and Ca occured at 755 K with the liquid composition of about xoU = 0.24.” |
 
 ## Other properties

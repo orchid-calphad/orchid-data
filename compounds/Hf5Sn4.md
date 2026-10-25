@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Hf5Sn4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -39.24 | kJ/mol (basis unstated) |  | 0.005 | 59.3 (dft, calibrated) |  |  |  | 59.3 |
+| -39.24 | kJ/mol (basis unstated) |  | 0.005 | 55.73 (dft, calibrated) |  |  |  | 55.73 |
 
 ## Sources
 

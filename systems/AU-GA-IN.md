@@ -1,10 +1,10 @@
 # Au–Ga–In system
 
-> Au–Ga–In system: 37 accepted literature values (crystal structure 18, invariant reaction 18, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ga–In system: 36 accepted literature values (crystal structure 18, invariant reaction 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-GA-IN.html · Markdown: https://data.orchid-project.org/systems/AU-GA-IN.md
 
-37 accepted literature values from 1 paper(s) (experimental 6, model 24, unspecified 7); 0 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 6, model 23, unspecified 7); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-GA-IN.json) · [CSV](https://data.orchid-project.org/systems/AU-GA-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-GA-IN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-GA-IN.html) · [Markdown](https://data.orchid-project.org/systems/AU-GA-IN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 24 |
+| model | 23 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 18 |
-| phase transition | 1 |
 | crystal structure | 18 |
 
 ## Invariant reactions (literature)
@@ -50,14 +49,6 @@ Table: Invariant reactions reported in the literature for the Au–Ga–In syste
 | 369.15 | peritectic: L + (In) -> Au2InGa2 + AuGa2 | L: Au 4.000e-4, Ga 0.214, In 0.7856 | model | [1] Ghasemi 2014 | Table 3, p. 6, row 18; `ORC-ZW7KZXEVJU` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Au–Ga–In system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 667.15 K | 667.15 |  | model | [1] Ghasemi 2014; _cites Ghasemi 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.11.088) | p. 1; `ORC-PHQAKFCZ5E` | “The new ternary phase, Au2InGa2, with a hexagonal structure belonging to the space group P63 =mmc melts incongruently at 394 °C.” |
 
 ### Crystal structure (18)
 

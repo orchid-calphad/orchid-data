@@ -461,7 +461,7 @@
     "x0": 0.161,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Ca + Ca28Ga11",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -480,7 +480,7 @@
     "x0": 0.161,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Ca + Ca28Ga11",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

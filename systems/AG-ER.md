@@ -1,10 +1,10 @@
 # Ag–Er system
 
-> Ag–Er system: 60 accepted literature values (invariant reaction 31, phase transition 15, formation 8, crystal structure 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Er system: 53 accepted literature values (invariant reaction 31, formation 8, phase transition 8, crystal structure 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-ER.html · Markdown: https://data.orchid-project.org/systems/AG-ER.md
 
-60 accepted literature values from 2 paper(s) (experimental 35, model 19, DFT 6); 2 calculated phase diagram(s).
+53 accepted literature values from 2 paper(s) (experimental 28, model 19, DFT 6); 2 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-ER.json) · [CSV](https://data.orchid-project.org/systems/AG-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-ER/AgEr-10Lon.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-ER.html) · [Markdown](https://data.orchid-project.org/systems/AG-ER.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 35 |
+| experimental | 28 |
 | model | 19 |
 | DFT | 6 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 31 |
-| phase transition | 15 |
+| phase transition | 8 |
 | formation | 8 |
 | crystal structure | 6 |
 
@@ -118,7 +118,7 @@ Table: Enthalpies of formation, Ag–Er system (8)
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (8)
 
 Table: Phase transition, Ag–Er system
 
@@ -126,18 +126,11 @@ Table: Phase transition, Ag–Er system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 18 K | 18 | magnetic | experimental | [1] Wang 2010; _cites Nerson 1973_ | p. 1; `ORC-D6NWHGTFLI.d87deb` | “Nerson \[11\] and Kaneko et al. \[12\] found that the AgEr phase is antiferromagnetic with the Neel temperature of 18 K \[11\] and 18.8 K \[12\].” |
 | Phase transition | 18.8 K | 18.8 | magnetic | experimental | [1] Wang 2010; _cites Kaneko 1983_ | p. 1; `ORC-D6NWHGTFLI.090a51` | “Nerson \[11\] and Kaneko et al. \[12\] found that the AgEr phase is antiferromagnetic with the Neel temperature of 18 K \[11\] and 18.8 K \[12\].” |
-| Phase transition | 1045.15 K | 1045.15 | L \<-> (Ag) + Ag3Er | experimental | [1] Wang 2010 | p. 1; `ORC-DYQ52O5AHJ.3af3dd` | “L ↔ (Ag) + Ag3 Er at 772 ◦ C, L ↔ Ag3 Er + Ag2 Er at 890 ◦ C, L ↔ Ag2 Er + AgEr at 993 ◦ C, and L ↔ AgEr + (Er) at 932 ◦ C.” |
-| Phase transition | 1163.15 K | 1163.15 | L \<-> Ag3Er + Ag2Er | experimental | [1] Wang 2010 | p. 1; `ORC-DYQ52O5AHJ.d898bb` | “L ↔ (Ag) + Ag3 Er at 772 ◦ C, L ↔ Ag3 Er + Ag2 Er at 890 ◦ C, L ↔ Ag2 Er + AgEr at 993 ◦ C, and L ↔ AgEr + (Er) at 932 ◦ C.” |
 | Phase transition | 1203 K | 1203 | congruent melting: L -> Ag51Er14; _L: Er 0.215; Ag51Er14: Er 0.215385_ | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 11; `ORC-26NZMJCDU2` |  |
-| Phase transition | 1203.15 K | 1203.15 |  | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | p. 1; `ORC-ERPINNVAN6.4d108d` | “Based on thermal analysis, metallography and X-ray method, Gebhardt et al. \[4\] investigated the phase diagram in the Ag-Er system, and reported three stoichiometry compounds of the Ag3 Er (melting point, 930 ◦ C), Ag2 Er (melting point, 1020 ◦ C) and AgEr (melting point, 1195 ◦ C).” |
 | Phase transition | 1204 K | 1204 | congruent melting: L -> Ag51Er14; _L: Er 0.215; Ag51Er14: Er 0.215385_ | model | [2] Long 2010 | Table 4, p. 4, row 10; `ORC-PDKPV5UFI3` |  |
-| Phase transition | 1205.15 K | 1205.15 | L \<-> AgEr + (Er) | experimental | [1] Wang 2010 | p. 1; `ORC-DYQ52O5AHJ.6322bf` | “L ↔ (Ag) + Ag3 Er at 772 ◦ C, L ↔ Ag3 Er + Ag2 Er at 890 ◦ C, L ↔ Ag2 Er + AgEr at 993 ◦ C, and L ↔ AgEr + (Er) at 932 ◦ C.” |
-| Phase transition | 1266.15 K | 1266.15 | L \<-> Ag2Er + AgEr | experimental | [1] Wang 2010 | p. 1; `ORC-DYQ52O5AHJ.eeab19` | “L ↔ (Ag) + Ag3 Er at 772 ◦ C, L ↔ Ag3 Er + Ag2 Er at 890 ◦ C, L ↔ Ag2 Er + AgEr at 993 ◦ C, and L ↔ AgEr + (Er) at 932 ◦ C.” |
 | Phase transition | 1293 K | 1293 | congruent melting: L -> Ag2Er; _L: Er 0.333; Ag2Er: Er 0.333333_ | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 13; `ORC-C3FMD2RWMU` |  |
-| Phase transition | 1293.15 K | 1293.15 |  | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | p. 1; `ORC-ERPINNVAN6.2d3a01` | “Based on thermal analysis, metallography and X-ray method, Gebhardt et al. \[4\] investigated the phase diagram in the Ag-Er system, and reported three stoichiometry compounds of the Ag3 Er (melting point, 930 ◦ C), Ag2 Er (melting point, 1020 ◦ C) and AgEr (melting point, 1195 ◦ C).” |
 | Phase transition | 1295 K | 1295 | congruent melting: L -> Ag2Er; _L: Er 0.333; Ag2Er: Er 0.333333_ | model | [2] Long 2010 | Table 4, p. 4, row 12; `ORC-MEBS2AEEYF` |  |
 | Phase transition | 1468 K | 1468 | congruent melting: L -> AgEr; _L: Er 0.5; AgEr: Er 0.5_ | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 15; `ORC-ATDM2AB7YU` |  |
-| Phase transition | 1468.15 K | 1468.15 |  | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | p. 1; `ORC-ERPINNVAN6.49431e` | “Based on thermal analysis, metallography and X-ray method, Gebhardt et al. \[4\] investigated the phase diagram in the Ag-Er system, and reported three stoichiometry compounds of the Ag3 Er (melting point, 930 ◦ C), Ag2 Er (melting point, 1020 ◦ C) and AgEr (melting point, 1195 ◦ C).” |
 | Phase transition | 1476 K | 1476 | congruent melting: L -> AgEr; _L: Er 0.5; AgEr: Er 0.5_ | model | [2] Long 2010 | Table 4, p. 4, row 14; `ORC-UQ3CQXLAOC` |  |
 
 ### Crystal structure (6)

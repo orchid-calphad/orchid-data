@@ -1,10 +1,10 @@
 # Cr–Re system
 
-> Cr–Re system: 105 accepted literature values (crystal structure 60, formation 30, invariant reaction 12, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Re system: 102 accepted literature values (crystal structure 60, formation 30, invariant reaction 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-RE.html · Markdown: https://data.orchid-project.org/systems/CR-RE.md
 
-105 accepted literature values from 2 paper(s) (experimental 9, model 6, DFT 90); 4 calculated phase diagram(s).
+102 accepted literature values from 2 paper(s) (experimental 6, model 6, DFT 90); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-RE.json) · [CSV](https://data.orchid-project.org/systems/CR-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-RE/CrRe-18Guo.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CR-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-RE.html) · [Markdown](https://data.orchid-project.org/systems/CR-RE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 6 |
 | model | 6 |
 | DFT | 90 |
 
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 12 |
-| phase transition | 3 |
 | formation | 30 |
 | crystal structure | 60 |
 
@@ -114,16 +113,6 @@ Table: Enthalpies of formation, Cr–Re system (30)
 | sigma ReReReReCr |  | 6.3 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 31; `ORC-ZTNMA6TSUQ.418ae0` |  |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Cr–Re system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 2423 K | 2423 | b.c.c. → liquid + σ | experimental | [1] Palumbo 2010 | p. 8; `ORC-GDH6EJSPDY.cb385b` | “The transformation temperature reported by Savitskii is 2557 ± 25 K, whereas in the more recent work of Gritsiv et al. a value equal to 2423 ± 15 K was reported.” |
-| Phase transition | 2557 K | 2557 | b.c.c. → liquid + σ | experimental | [1] Palumbo 2010 | p. 8; `ORC-GDH6EJSPDY.ef6d1b` | “The transformation temperature reported by Savitskii is 2557 ± 25 K, whereas in the more recent work of Gritsiv et al. a value equal to 2423 ± 15 K was reported. The purity of the starting samples in both works is similar so the difference cannot be ascribed to purity issues. Savitskii measured this temperature by a droplet method on an alloy containing 50 at.% Re.” |
-| Phase transition | 3459 K | 3459 |  | experimental | [1] Palumbo 2010 | p. 1; `ORC-2YIBSKKF72` | “As the melting temperature of pure Re (3459 K) and its compounds is high, Narita et al. \[2\] have investigated Re-rich TCP phase (ReCr sigma phase) as a diffusion barrier coating between the matrix and the Al-reservoir layer.” |
 
 ### Crystal structure (60)
 

@@ -14,7 +14,7 @@ Table: Phases of the Cr–Zn system (6)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cr-zn-bcc-a2); _phase:cr-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2358.62 K, x(Zn) 0–0.02062 | 9 | 3 |
 | [CRZN13](#phase-cr-zn-crzn13); _phase:cr-zn:crzn13_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–761.42 K, x(Zn) 0.92857–0.92857 | 7 | 2 |
-| [CRZN17](#phase-cr-zn-crzn17); _phase:cr-zn:crzn17_ | Au2.5Cr7.5Zn90 · cF548 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–736.52 K, x(Zn) 0.94444–0.94444 | 15 | 3 |
+| [CRZN17](#phase-cr-zn-crzn17); _phase:cr-zn:crzn17_ | Au2.5Cr7.5Zn90 · cF548 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–736.52 K, x(Zn) 0.94444–0.94444 | 16 | 3 |
 | [FCC_A1](#phase-cr-zn-fcc-a1); _phase:cr-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-cr-zn-hcp-a3); _phase:cr-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3998.93 K, x(Zn) 1–1 | 5 | 3 |
 | [LIQUID](#phase-cr-zn-liquid); _phase:cr-zn:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 691.46–4000 K, x(Zn) 0–1 | 22 | 3 |
@@ -28,7 +28,7 @@ Table: Phases of the Cr–Zn system (6)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-zn:bcc-a2)
 
 Names (8): _corpus: _corpus:phase:cr-zn:bcc-a2  
-_paper: _paper:10.1007/s11669-003-0006-4:bcc_A2, paper:10.1016/j.jallcom.2010.02.087:(Cr), paper:10.1016/j.jallcom.2010.02.087:β-Cr, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1007/s11669-003-0006-4:bcc_A2, paper:10.1016/j.jallcom.2010.02.087:(Cr), paper:10.1016/j.jallcom.2010.02.087:β-Cr, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:CrZn-03Reu-LB.tdb:BCC_A2, tdb:CrZn-10Su.tdb:BCC_A2, tdb:CrZn-98Ans.tdb:BCC_A2  
 
 
@@ -55,14 +55,12 @@ _tdb: _tdb:CrZn-03Reu-LB.tdb:BCC_A2, tdb:CrZn-10Su.tdb:BCC_A2, tdb:CrZn-98Ans.td
 31: CONST BCC_A2 : CR% ZN : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jallcom.2010.02.087](https://doi.org/10.1016/j.jallcom.2010.02.087) Xuping Su, Ya Liu, Daniel Y.H. Liu, Jean-Claude Tedenac, Fucheng Yin, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Cr system, Journal of Alloys and Compounds 496, 159-163 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-003-0006-4](https://doi.org/10.1007/s11669-003-0006-4) Guy Reumont, Pierre Perrot, Thermodynamic assessment of the Zinc-Rich part of the Cr-Zn system, JPE 24, 50-54 (2003).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1515/ijmr-1948-390202](https://doi.org/10.1515/ijmr-1948-390202) T. Heumann, Z. Metallkd 39 (1948) 45 (in German).  
 _cited as the source of values for this phase_
 
@@ -78,7 +76,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-zn:crzn13)
 
 Names (5): _corpus: _corpus:phase:cr-zn:crzn13  
-_paper: _paper:10.1007/s11669-003-0006-4:CrZn13, paper:10.1016/s0364-5916(98)00037-6:CrZn13  
+_paper: _paper:10.1007/s11669-003-0006-4:CrZn13, paper:sha256-85fd53a1a176b694:CrZn13  
 _tdb: _tdb:CrZn-03Reu-LB.tdb:CRZN13, tdb:CrZn-98Ans.tdb:CRZN13  
 
 
@@ -98,12 +96,10 @@ _tdb: _tdb:CrZn-03Reu-LB.tdb:CRZN13, tdb:CrZn-98Ans.tdb:CRZN13
 41: CONST CRZN13 : CR : ZN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-003-0006-4](https://doi.org/10.1007/s11669-003-0006-4) Guy Reumont, Pierre Perrot, Thermodynamic assessment of the Zinc-Rich part of the Cr-Zn system, JPE 24, 50-54 (2003).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CRZN17 (Cr–Zn)
 
@@ -113,11 +109,11 @@ _reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cr 0.0556, Zn 0.9444
 - Stability: stable in 3 of 3 calculated diagram(s): 300–736.52 K, x(Zn) 0.94444–0.94444
-- Literature: 15 values (15 accepted) from 3 papers
+- Literature: 16 values (16 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-zn:crzn17)
 
 Names (7): _corpus: _corpus:phase:cr-zn:crzn17  
-_paper: _paper:10.1007/s11669-003-0006-4:CrZn17, paper:10.1016/j.jallcom.2010.02.087:CrZn17, paper:10.1016/s0364-5916(98)00037-6:CrZn17  
+_paper: _paper:10.1007/s11669-003-0006-4:CrZn17, paper:10.1016/j.jallcom.2010.02.087:CrZn17, paper:sha256-85fd53a1a176b694:CrZn17  
 _tdb: _tdb:CrZn-03Reu-LB.tdb:CRZN17, tdb:CrZn-10Su.tdb:CRZN17, tdb:CrZn-98Ans.tdb:CRZN17  
 
 
@@ -144,14 +140,12 @@ _tdb: _tdb:CrZn-03Reu-LB.tdb:CRZN17, tdb:CrZn-10Su.tdb:CRZN17, tdb:CrZn-98Ans.td
 46: CONST CRZN17 : CR : ZN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jallcom.2010.02.087](https://doi.org/10.1016/j.jallcom.2010.02.087) Xuping Su, Ya Liu, Daniel Y.H. Liu, Jean-Claude Tedenac, Fucheng Yin, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Cr system, Journal of Alloys and Compounds 496, 159-163 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-003-0006-4](https://doi.org/10.1007/s11669-003-0006-4) Guy Reumont, Pierre Perrot, Thermodynamic assessment of the Zinc-Rich part of the Cr-Zn system, JPE 24, 50-54 (2003).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1515/ijmr-1948-390202](https://doi.org/10.1515/ijmr-1948-390202) T. Heumann, Z. Metallkd 39 (1948) 45 (in German).  
 _cited as the source of values for this phase_
 
@@ -206,7 +200,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-zn:hcp-a3)
 
 Names (7): _corpus: _corpus:phase:cr-zn:hcp-a3  
-_paper: _paper:10.1007/s11669-003-0006-4:hcp_A3, paper:10.1016/j.jallcom.2010.02.087:(hcp(Zn)), paper:10.1016/s0364-5916(98)00037-6:hcp-Zn  
+_paper: _paper:10.1007/s11669-003-0006-4:hcp_A3, paper:10.1016/j.jallcom.2010.02.087:(hcp(Zn)), paper:sha256-85fd53a1a176b694:hcp-Zn  
 _tdb: _tdb:CrZn-03Reu-LB.tdb:HCP_A3, tdb:CrZn-10Su.tdb:HCP_A3, tdb:CrZn-98Ans.tdb:HCP_A3  
 
 
@@ -233,14 +227,12 @@ _tdb: _tdb:CrZn-03Reu-LB.tdb:HCP_A3, tdb:CrZn-10Su.tdb:HCP_A3, tdb:CrZn-98Ans.td
 36: CONST HCP_A3 : CR ZN% : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-003-0006-4](https://doi.org/10.1007/s11669-003-0006-4) Guy Reumont, Pierre Perrot, Thermodynamic assessment of the Zinc-Rich part of the Cr-Zn system, JPE 24, 50-54 (2003).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2010.02.087](https://doi.org/10.1016/j.jallcom.2010.02.087) Xuping Su, Ya Liu, Daniel Y.H. Liu, Jean-Claude Tedenac, Fucheng Yin, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Cr system, Journal of Alloys and Compounds 496, 159-163 (2010).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1515/ijmr-1948-390202](https://doi.org/10.1515/ijmr-1948-390202) T. Heumann, Z. Metallkd 39 (1948) 45 (in German).  
 _cited as the source of values for this phase_
 
@@ -253,7 +245,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-zn:liquid)
 
 Names (9): _corpus: _corpus:phase:cr-zn:liquid  
-_paper: _paper:10.1007/s11669-003-0006-4:L, paper:10.1007/s11669-003-0006-4:liquid, paper:10.1016/j.jallcom.2010.02.087:L, paper:10.1016/j.jallcom.2010.02.087:Liquid, paper:10.1016/s0364-5916(98)00037-6:L  
+_paper: _paper:10.1007/s11669-003-0006-4:L, paper:10.1007/s11669-003-0006-4:liquid, paper:10.1016/j.jallcom.2010.02.087:L, paper:10.1016/j.jallcom.2010.02.087:Liquid, paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:CrZn-03Reu-LB.tdb:LIQUID, tdb:CrZn-10Su.tdb:LIQUID, tdb:CrZn-98Ans.tdb:LIQUID  
 
 
@@ -280,14 +272,12 @@ _tdb: _tdb:CrZn-03Reu-LB.tdb:LIQUID, tdb:CrZn-10Su.tdb:LIQUID, tdb:CrZn-98Ans.td
 21: CONST LIQUID:L : CR ZN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-003-0006-4](https://doi.org/10.1007/s11669-003-0006-4) Guy Reumont, Pierre Perrot, Thermodynamic assessment of the Zinc-Rich part of the Cr-Zn system, JPE 24, 50-54 (2003).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2010.02.087](https://doi.org/10.1016/j.jallcom.2010.02.087) Xuping Su, Ya Liu, Daniel Y.H. Liu, Jean-Claude Tedenac, Fucheng Yin, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Cr system, Journal of Alloys and Compounds 496, 159-163 (2010).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1515/ijmr-1948-390202](https://doi.org/10.1515/ijmr-1948-390202) T. Heumann, Z. Metallkd 39 (1948) 45 (in German).  
 _cited as the source of values for this phase_
 

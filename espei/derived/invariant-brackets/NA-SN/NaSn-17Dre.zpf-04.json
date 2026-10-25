@@ -279,7 +279,7 @@
     "x0": 0.333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Na9Sn4",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -297,7 +297,7 @@
     "x0": 0.333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Na9Sn4",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -315,7 +315,7 @@
     "x0": 0.38,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Na9Sn4 + Na4Sn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -334,7 +334,7 @@
     "x0": 0.38,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Na9Sn4 + Na4Sn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

@@ -18,7 +18,7 @@ Table: Phases of the V–Zn system (8)
 | [HCP_A3](#phase-v-zn-hcp-a3); _phase:v-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1177.01 K, x(Zn) 0.99975–1 | 2 | 2 |
 | [LIQUID](#phase-v-zn-liquid); _phase:v-zn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 691.85–3757.28 K, x(Zn) 0–1 | 6 | 2 |
 | [V4ZN5](#phase-v-zn-v4zn5); _phase:v-zn:v4zn5_ | V4Zn5 · tI18 · I4/mmm (139) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–943.15 K, x(Zn) 0.55556–0.55556 | 11 | 2 |
-| [VZN16](#phase-v-zn-vzn16); _phase:v-zn:vzn16_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–700.54 K, x(Zn) 0.94118–0.94118 | 0 | 1 |
+| [VZN16](#phase-v-zn-vzn16); _phase:v-zn:vzn16_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–700.54 K, x(Zn) 0.94118–0.94118 | 2 | 1 |
 | [VZN3_L12](#phase-v-zn-vzn3-l12); _phase:v-zn:vzn3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–896.13 K, x(Zn) 0.75–0.75 | 4 | 2 |
 
 ## BCC_A2 (V–Zn)
@@ -245,10 +245,11 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (sgte_mmc2): (VZn16) — Hallstedt 2025 mmc2 row for VZN16: VZN16
 - Stoichiometry: V 0.0588, Zn 0.9412
 - Stability: stable in 1 of 1 calculated diagram(s): 300–700.54 K, x(Zn) 0.94118–0.94118
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:v-zn:vzn16)
 
-Names (2): _corpus: _corpus:phase:v-zn:vzn16  
+Names (3): _corpus: _corpus:phase:v-zn:vzn16  
+_paper: _paper:10.1016/j.calphad.2011.05.005:VZn16  
 _tdb: _tdb:VZn-11Wu.tdb:VZN16  
 
 
@@ -264,7 +265,7 @@ _tdb: _tdb:VZn-11Wu.tdb:VZN16
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.05.005](https://doi.org/10.1016/j.calphad.2011.05.005) Changjun Wu, Xuping Su, Daniel Liu, Xinming Wang, Jianhua Wang, Zhi Li et al., The V–Zn binary system: New experimental results and thermodynamic assessment, Calphad 35, 403-410 (2011).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## VZN3_L12 (V–Zn)
 

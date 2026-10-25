@@ -1,10 +1,10 @@
 # Ge–Ni system
 
-> Ge–Ni system: 112 accepted literature values (invariant reaction 95, formation 10, phase transition 6, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Ni system: 97 accepted literature values (invariant reaction 83, formation 10, phase transition 3, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-NI.html · Markdown: https://data.orchid-project.org/systems/GE-NI.md
 
-112 accepted literature values from 2 paper(s) (experimental 62, model 44, DFT 6); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+97 accepted literature values from 2 paper(s) (experimental 47, model 44, DFT 6); 2 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NI.json) · [CSV](https://data.orchid-project.org/systems/GE-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-NI/GeNi-10Liu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GE-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-NI.html) · [Markdown](https://data.orchid-project.org/systems/GE-NI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 62 |
+| experimental | 47 |
 | model | 44 |
 | DFT | 6 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 95 |
-| phase transition | 6 |
+| invariant reaction | 83 |
+| phase transition | 3 |
 | phase equilibrium | 1 |
 | formation | 10 |
 
@@ -83,19 +83,16 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Ni system (95)
+Table: Invariant reactions reported in the literature for the Ge–Ni system (83)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1459 | congruent melting: L -> Ni5Ge3 | Ni5Ge3: Ge 0.371 | model | [1] Jin 2012; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.11.036) | Table 3, p. 8, row 37; `ORC-DMX3VMPLTP` |  |
 | 1458 | congruent melting: L -> Ni5Ge3 | Ni5Ge3: Ge 0.365 | experimental | [1] Jin 2012; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 8, row 36; `ORC-HSIEJNTFKY` |  |
 | 1453 | congruent melting: L -> Ni5Ge3 | Ni5Ge3: Ge 0.373 | model | [1] Jin 2012 | Table 3, p. 8, row 35; `ORC-CJGJDLYHYF` |  |
-| 1434.15 | peritectic |  | experimental | [2] Liu 2010; _cites Ruttewit 1940_ | p. 2; `ORC-2MCFFARNEP.569fab` | “Contradictory to the proposed peritectic formation of ␤Ni3 Ge at 1161 ◦ C by Ruttewit and Masing \[14\], Dayer and Feschotte \[13\] reported that ␤Ni3 Ge, with homogeneity range from 22.5 to 25 at.% Ge, melts congruently at 1132 ◦ C and undergoes the eutectic reaction L ↔ (Ni) + ␤Ni3 Ge at 1124 ◦ C.” |
 | 1428.15 | peritectic: L + βNi3Ge -> γNi3Ge | βNi3Ge: Ge 0.25, Ni 0.75; γNi3Ge: Ge 0.256, Ni 0.744 | experimental | [2] Liu 2010; _cites Ruttewit 1940_ | Table 3, p. 6, row 3; `ORC-JNWEGSDVZO` |  |
-| 1428.15 | peritectic |  | experimental | [2] Liu 2010; _cites Ruttewit 1940_ | p. 2; `ORC-R5OZPX5EGF.637202` | “The peritectic formation of the ␥Ni3 Ge from liquid and ␤Ni3 Ge was observed in Refs. \[12-14\]. The invariant temperatures, however, differ markedly, i.e., 1155 ◦ C by Ruttewit and Masing \[14\] and 1145 ◦ C by Ellner et al. \[12\] against 1118 ◦ C by Dayer and Feschotte \[13\].” |
 | 1428 | peritectic: L + βNi3Ge -> γNi3Ge | βNi3Ge: Ge 0.25, Ni 0.75; γNi3Ge: Ge 0.256, Ni 0.744 | experimental | [1] Jin 2012; _cites Ruttewit 1940_ | Table 3, p. 8, row 10; `ORC-HZIHKOMEY5` |  |
 | 1418.15 | peritectic: L + βNi3Ge -> γNi3Ge | βNi3Ge: Ge 0.25, Ni 0.75; γNi3Ge: Ge 0.256, Ni 0.744 | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 6, row 4; `ORC-FJ7P3JBLUF` |  |
-| 1418.15 | peritectic |  | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | p. 2; `ORC-R5OZPX5EGF.945a18` | “The peritectic formation of the ␥Ni3 Ge from liquid and ␤Ni3 Ge was observed in Refs. \[12-14\]. The invariant temperatures, however, differ markedly, i.e., 1155 ◦ C by Ruttewit and Masing \[14\] and 1145 ◦ C by Ellner et al. \[12\] against 1118 ◦ C by Dayer and Feschotte \[13\].” |
 | 1418 | peritectic: L + βNi3Ge -> γNi3Ge | βNi3Ge: Ge 0.25, Ni 0.75; γNi3Ge: Ge 0.256, Ni 0.744 | experimental | [1] Jin 2012; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 8, row 9; `ORC-AZLXN7FSV3` |  |
 | 1405 | congruent melting: L -> βNi3Ge | L: Ge 0.24; βNi3Ge: Ge 0.25, Ni 0.75 | experimental | [1] Jin 2012; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 8, row 5; `ORC-EJQDANPZ36` |  |
 | 1399 | eutectic: L -> (Ni) + βNi3Ge | L: Ge 0.232; (Ni): Ge 0.159; βNi3Ge: Ge 0.233 | model | [1] Jin 2012; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.11.036) | Table 3, p. 8, row 3; `ORC-4PW4U64WLQ` |  |
@@ -103,11 +100,9 @@ Table: Invariant reactions reported in the literature for the Ge–Ni system (95
 | 1399 | congruent melting: L -> βNi3Ge | L: Ge 0.233; βNi3Ge: Ge 0.25, Ni 0.75 | model | [1] Jin 2012; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.11.036) | Table 3, p. 8, row 6; `ORC-REMXGO67Y3` |  |
 | 1398.85 | eutectic: L -> (Ni) + βNi3Ge | L: Ge 0.232; (Ni): Ge 0.159; βNi3Ge: Ge 0.233 | model | [2] Liu 2010 | Table 3, p. 6, row 2; `ORC-SQ2E2NXKYF` |  |
 | 1398 | eutectic: L -> (Ni) + βNi3Ge | L: Ge 0.228; (Ni): Ge 0.139; βNi3Ge: Ge 0.231 | model | [1] Jin 2012 | Table 3, p. 8, row 1; `ORC-OXYZNAZZIO` |  |
-| 1397.15 | eutectic: L ↔ (Ni) + ␤Ni3 Ge |  | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | p. 2; `ORC-2MCFFARNEP.c59727` | “Contradictory to the proposed peritectic formation of ␤Ni3 Ge at 1161 ◦ C by Ruttewit and Masing \[14\], Dayer and Feschotte \[13\] reported that ␤Ni3 Ge, with homogeneity range from 22.5 to 25 at.% Ge, melts congruently at 1132 ◦ C and undergoes the eutectic reaction L ↔ (Ni) + ␤Ni3 Ge at 1124 ◦ C.” |
 | 1397.15 | eutectic: L -> (Ni) + βNi3Ge | L: Ge 0.23; (Ni): Ge 0.16; βNi3Ge: Ge 0.233 | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 6, row 1; `ORC-WXKT3G3JAF` |  |
 | 1397 | eutectic: L -> (Ni) + βNi3Ge | L: Ge 0.23; (Ni): Ge 0.16; βNi3Ge: Ge 0.233 | experimental | [1] Jin 2012; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 8, row 2; `ORC-E4O7BQIEWR` |  |
 | 1391.15 | peritectic: L + βNi3Ge -> γNi3Ge | L: Ge 0.273; βNi3Ge: Ge 0.25; γNi3Ge: Ge 0.256 | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 6, row 5; `ORC-LDGT2QLJ34` |  |
-| 1391.15 | peritectic |  | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | p. 2; `ORC-R5OZPX5EGF.2729d0` | “The peritectic formation of the ␥Ni3 Ge from liquid and ␤Ni3 Ge was observed in Refs. \[12-14\]. The invariant temperatures, however, differ markedly, i.e., 1155 ◦ C by Ruttewit and Masing \[14\] and 1145 ◦ C by Ellner et al. \[12\] against 1118 ◦ C by Dayer and Feschotte \[13\].” |
 | 1391 | peritectic: L + βNi3Ge -> γNi3Ge | L: Ge 0.273; βNi3Ge: Ge 0.251; γNi3Ge: Ge 0.256 | model | [1] Jin 2012 | Table 3, p. 8, row 7; `ORC-3WFLWSL7K6` |  |
 | 1391 | peritectic: L + βNi3Ge -> γNi3Ge | L: Ge 0.273; βNi3Ge: Ge 0.25; γNi3Ge: Ge 0.256 | experimental | [1] Jin 2012; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 8, row 8; `ORC-JQAYH52MPB` |  |
 | 1389.05 | peritectic: L + βNi3Ge -> γNi3Ge | L: Ge 0.267; βNi3Ge: Ge 0.244; γNi3Ge: Ge 0.256 | model | [2] Liu 2010 | Table 3, p. 6, row 6; `ORC-B3WJR7EH54` |  |
@@ -118,27 +113,22 @@ Table: Invariant reactions reported in the literature for the Ge–Ni system (95
 | 1381 | eutectic: L -> δNi5Ge2 + Ni5Ge3 | L: Ge 0.284; δNi5Ge2: Ge 0.28; Ni5Ge3: Ge 0.346 | model | [1] Jin 2012; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.11.036) | Table 3, p. 8, row 25; `ORC-3O2HXTKHHE` |  |
 | 1380 | peritectic: L + γNi3Ge -> δNi5Ge2 | L: Ge 0.291; γNi3Ge: Ge 0.256; δNi5Ge2: Ge 0.28 | model | [1] Jin 2012 | Table 3, p. 8, row 12; `ORC-KE4FWVBVSL` |  |
 | 1379.15 | eutectoid: γNi3Ge -> βNi3Ge + δNi5Ge2 | γNi3Ge: Ge 0.256, Ni 0.744; βNi3Ge: Ge 0.25, Ni 0.75; δNi5Ge2: Ge 0.28, Ni 0.72 | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 6, row 9; `ORC-6NGU7AVKMI` |  |
-| 1379.15 | eutectoid: ␥Ni3 Ge ↔ ␤Ni3 Ge + ␦Ni5 Ge2 |  | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | p. 2; `ORC-LSOOA7E5PK.72b8fd` | “With the decreasing of temperature, ␥Ni3 Ge decomposes to ␤Ni3 Ge + ␦Ni5 Ge2 with the differently proposed eutectoid temperatures, i.e., 1100 ◦ C in Ref. \[14\], 1106 ◦ C in Ref. \[12\] and 1082 ◦ C in Ref. \[13\].” |
 | 1379 | eutectoid: γNi3Ge -> βNi3Ge + δNi5Ge2 | γNi3Ge: Ge 0.256, Ni 0.744; βNi3Ge: Ge 0.25, Ni 0.75; δNi5Ge2: Ge 0.28, Ni 0.72 | experimental | [1] Jin 2012; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 8, row 17; `ORC-A2E5KRNPMI` |  |
 | 1379 | eutectic: L -> δNi5Ge2 + Ni5Ge3 | L: Ge 0.292; δNi5Ge2: Ge 0.28; Ni5Ge3: Ge 0.358 | model | [1] Jin 2012 | Table 3, p. 8, row 23; `ORC-HF65XQWJXY` |  |
 | 1375.15 | peritectic: L + γNi3Ge -> δNi5Ge2 | L: Ge 0.289; γNi3Ge: Ge 0.256; δNi5Ge2: Ge 0.28 | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 6, row 7; `ORC-ATYZCMUXWM` |  |
 | 1375 | peritectic: L + γNi3Ge -> δNi5Ge2 | L: Ge 0.289; γNi3Ge: Ge 0.256; δNi5Ge2: Ge 0.28 | experimental | [1] Jin 2012; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 8, row 13; `ORC-NE45W72XI6` |  |
-| 1373.15 | eutectoid: ␥Ni3 Ge ↔ ␤Ni3 Ge + ␦Ni5 Ge2 |  | experimental | [2] Liu 2010; _cites Ruttewit 1940_ | p. 2; `ORC-LSOOA7E5PK.e8606b` | “With the decreasing of temperature, ␥Ni3 Ge decomposes to ␤Ni3 Ge + ␦Ni5 Ge2 with the differently proposed eutectoid temperatures, i.e., 1100 ◦ C in Ref. \[14\], 1106 ◦ C in Ref. \[12\] and 1082 ◦ C in Ref. \[13\].” |
 | 1372.15 | eutectic: L -> δNi5Ge2 + εNi5Ge3 | L: Ge 0.29; δNi5Ge2: Ge 0.28; εNi5Ge3: Ge 0.336 | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 6, row 15; `ORC-FHZY2WTX6R` |  |
 | 1372 | eutectic: L -> δNi5Ge2 + Ni5Ge3 | L: Ge 0.29; δNi5Ge2: Ge 0.28; Ni5Ge3: Ge 0.336 | experimental | [1] Jin 2012; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 8, row 24; `ORC-T5C6O2XMI7` |  |
 | 1357.15 | eutectoid: γNi3Ge -> βNi3Ge + δNi5Ge2 | γNi3Ge: Ge 0.256; βNi3Ge: Ge 0.246; δNi5Ge2: Ge 0.28 | model | [2] Liu 2010 | Table 3, p. 6, row 11; `ORC-MZDGGHZC6U` |  |
 | 1357 | eutectoid: γNi3Ge -> βNi3Ge + δNi5Ge2 | γNi3Ge: Ge 0.256; βNi3Ge: Ge 0.246; δNi5Ge2: Ge 0.28 | model | [1] Jin 2012; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.11.036) | Table 3, p. 8, row 18; `ORC-NAGPDXJXWJ` |  |
 | 1355.15 | eutectoid: γNi3Ge -> βNi3Ge + δNi5Ge2 | γNi3Ge: Ge 0.256; βNi3Ge: Ge 0.25; δNi5Ge2: Ge 0.28 | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 6, row 10; `ORC-42MYOBSCZU` |  |
-| 1355.15 | eutectoid: ␥Ni3 Ge ↔ ␤Ni3 Ge + ␦Ni5 Ge2 |  | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | p. 2; `ORC-LSOOA7E5PK.898f5c` | “With the decreasing of temperature, ␥Ni3 Ge decomposes to ␤Ni3 Ge + ␦Ni5 Ge2 with the differently proposed eutectoid temperatures, i.e., 1100 ◦ C in Ref. \[14\], 1106 ◦ C in Ref. \[12\] and 1082 ◦ C in Ref. \[13\].” |
 | 1355 | eutectoid: γNi3Ge -> βNi3Ge + δNi5Ge2 | γNi3Ge: Ge 0.256; βNi3Ge: Ge 0.255; δNi5Ge2: Ge 0.28 | model | [1] Jin 2012 | Table 3, p. 8, row 15; `ORC-FJ6HCCEDLA` |  |
 | 1355 | eutectoid: γNi3Ge -> βNi3Ge + δNi5Ge2 | γNi3Ge: Ge 0.256; βNi3Ge: Ge 0.25; δNi5Ge2: Ge 0.28 | experimental | [1] Jin 2012; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 8, row 16; `ORC-OBVXUGZF3K` |  |
 | 1348.15 | eutectoid: δNi5Ge2 -> βNi3Ge + εNi5Ge3 | δNi5Ge2: Ge 0.28, Ni 0.72; βNi3Ge: Ge 0.25, Ni 0.75; εNi5Ge3: Ge 0.375, Ni 0.625 | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 6, row 12; `ORC-4SFRCCICQG` |  |
 | 1348 | eutectoid: δNi5Ge2 -> βNi3Ge + Ni5Ge3 | δNi5Ge2: Ge 0.28, Ni 0.72; βNi3Ge: Ge 0.25, Ni 0.75; Ni5Ge3: Ge 0.375, Ni 0.625 | experimental | [1] Jin 2012; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 8, row 21; `ORC-JB4ZBGLR7L` |  |
 | 1325.15 | peritectic: L + εNi5Ge3 -> Ni19Ge12 | L: Ge 0.484; εNi5Ge3: Ge 0.38; Ni19Ge12: Ge 0.395 | model | [2] Liu 2010 | Table 3, p. 6, row 18; `ORC-RHEZBPWMDW` |  |
-| 1323.15 | peritectic: L + ␧Ni5 Ge3 ↔ Ni19 Ge12 |  | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | p. 1; `ORC-AWRLZ6WREJ.2e429f` | “The Ni19 Ge12 phase is formed by means of the peritectic reaction L + ␧Ni5 Ge3 ↔ Ni19 Ge12 at 1050 ◦ C and undergoes the eutectoid decomposition to ␧'Ni5 Ge3 + NiGe at 382 ◦ C.” |
 | 1323.15 | peritectic: L + εNi5Ge3 -> Ni19Ge12 | L: Ge 0.455; εNi5Ge3: Ge 0.388; Ni19Ge12: Ge 0.39 | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 6, row 17; `ORC-DQUUPDSYL5` |  |
 | 1318.15 | eutectoid: δNi5Ge2 -> βNi3Ge + εNi5Ge3 | δNi5Ge2: Ge 0.28; βNi3Ge: Ge 0.25; εNi5Ge3: Ge 0.336 | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 6, row 13; `ORC-LOOSJAYZMT` |  |
-| 1318.15 | eutectoid: ␦Ni5 Ge2 ↔ ␤Ni3 Ge + ␧Ni5 Ge3 |  | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | p. 2; `ORC-Z6IY6GJJWN` | “The ␦Ni5 Ge2 undergoes eutectoid decomposition to ␤Ni3 Ge + ␧Ni5 Ge3 at 1045 ◦ C \[13\], which is lower by 30 ◦ C than that of \[12\].” |
 | 1318 | eutectoid: δNi5Ge2 -> βNi3Ge + Ni5Ge3 | δNi5Ge2: Ge 0.28; βNi3Ge: Ge 0.247; Ni5Ge3: Ge 0.344 | model | [1] Jin 2012; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.11.036) | Table 3, p. 8, row 22; `ORC-D33Y33VDCG` |  |
 | 1318 | eutectoid: δNi5Ge2 -> βNi3Ge + Ni5Ge3 | δNi5Ge2: Ge 0.28; βNi3Ge: Ge 0.25; Ni5Ge3: Ge 0.336 | experimental | [1] Jin 2012; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | Table 3, p. 8, row 20; `ORC-H4XKBYYHPI` |  |
 | 1318 | eutectoid: δNi5Ge2 -> βNi3Ge + Ni5Ge3 | δNi5Ge2: Ge 0.28; βNi3Ge: Ge 0.256; Ni5Ge3: Ge 0.357 | model | [1] Jin 2012 | Table 3, p. 8, row 19; `ORC-TUGUWQRUSF` |  |
@@ -173,12 +163,10 @@ Table: Invariant reactions reported in the literature for the Ge–Ni system (95
 | 659 | eutectoid: Ni5Ge3 -> ε′Ni5Ge3 + NiGe | Ni5Ge3: Ge 0.382; ε′Ni5Ge3: Ge 0.375; NiGe: Ge 0.5 | model | [1] Jin 2012 | Table 3, p. 8, row 41; `ORC-NO3SKGLU2T` |  |
 | 656 | eutectoid: Ni5Ge3 -> ε′Ni5Ge3 + NiGe | Ni5Ge3: Ge 0.387; ε′Ni5Ge3: Ge 0.37; NiGe: Ge 0.5 | model | [1] Jin 2012; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.11.036) | Table 3, p. 8, row 43; `ORC-ZG3ULHX62L` |  |
 | 655.75 | eutectoid: Ni19Ge12 -> NiGe + ε'Ni5Ge3 | Ni19Ge12: Ge 0.387; NiGe: Ge 0.5; ε'Ni5Ge3: Ge 0.37 | model | [2] Liu 2010 | Table 3, p. 6, row 33; `ORC-BAI3VJXZLK` |  |
-| 655.15 | eutectoid: Ni19 Ge12 ↔ ␧'Ni5 Ge3 + NiGe |  | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | p. 1; `ORC-AWRLZ6WREJ.cd6211` | “The Ni19 Ge12 phase is formed by means of the peritectic reaction L + ␧Ni5 Ge3 ↔ Ni19 Ge12 at 1050 ◦ C and undergoes the eutectoid decomposition to ␧'Ni5 Ge3 + NiGe at 382 ◦ C.” |
 | 655.15 | eutectoid: Ni19Ge12 -> NiGe + ε'Ni5Ge3 | Ni19Ge12: Ge 0.382; NiGe: Ge 0.5; ε'Ni5Ge3: Ge 0.376 | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 6, row 32; `ORC-W5BAI4MICK` |  |
 | 655 | eutectoid: Ni5Ge3 -> ε′Ni5Ge3 + NiGe | Ni5Ge3: Ge 0.382; ε′Ni5Ge3: Ge 0.376; NiGe: Ge 0.5 | experimental | [1] Jin 2012; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 8, row 42; `ORC-BXSBIKDRTK` |  |
 | 565 | eutectoid: Ni5Ge3 -> Ni2Ge + ε′Ni5Ge3 | Ni5Ge3: Ge 0.352; Ni2Ge: Ge 0.335; ε′Ni5Ge3: Ge 0.37 | model | [1] Jin 2012; _cites Liu 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.11.036) | Table 3, p. 8, row 31; `ORC-D6VS4SLSUE` |  |
 | 564.65 | eutectoid: εNi5Ge3 -> Ni2Ge + ε'Ni5Ge3 | εNi5Ge3: Ge 0.352; Ni2Ge: Ge 0.335; ε'Ni5Ge3: Ge 0.37; ε′Ni5Ge3: Ge 0.37 | model | [2] Liu 2010 | Table 3, p. 6, row 35; `ORC-2HL6FFSCEN` |  |
-| 563.15 | eutectoid: ␧Ni5 Ge3 ↔ ␧ Ni5 Ge3 + Ni2 Ge |  | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | p. 1; `ORC-AK2AMOSGN5` | “The lower temperature form of ␧Ni5 Ge3 , here designated ␧ Ni5 Ge3 , is formed through the eutectoid reaction ␧Ni5 Ge3 ↔ ␧ Ni5 Ge3 + Ni2 Ge at 290 ◦ C.” |
 | 563.15 | eutectoid: εNi5Ge3 -> Ni2Ge + ε'Ni5Ge3 | εNi5Ge3: Ge 0.363; Ni2Ge: Ge 0.335; ε'Ni5Ge3: Ge 0.37; ε′Ni5Ge3: Ge 0.37 | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 6, row 34; `ORC-HKKSZVFGJC` |  |
 | 563 | eutectoid: Ni5Ge3 -> Ni2Ge + ε′Ni5Ge3 | Ni5Ge3: Ge 0.363; Ni2Ge: Ge 0.335; ε′Ni5Ge3: Ge 0.37 | experimental | [1] Jin 2012; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | Table 3, p. 8, row 30; `ORC-PUPY4C66RX` |  |
 | 562 | eutectoid: Ni5Ge3 -> Ni2Ge + ε′Ni5Ge3 | Ni5Ge3: Ge 0.356; Ni2Ge: Ge 0.335; ε′Ni5Ge3: Ge 0.375 | model | [1] Jin 2012 | Table 3, p. 8, row 29; `ORC-R7YLXGUCAE` |  |
@@ -204,18 +192,15 @@ Table: Enthalpies of formation, Ge–Ni system (10)
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (3)
 
 Table: Phase transition, Ge–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 779.15 K | 779.15 | ␧Ni5 Ge3 + ␤Ni3 Ge ↔ Ni2 Ge | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | p. 1; `ORC-U7WTCTM4EU` | “The intermediate compound Ni2 Ge, reported as Ni2 Ge(r) phase in Ref. \[12\], is formed via the peritectoid reaction ␧Ni5 Ge3 + ␤Ni3 Ge ↔ Ni2 Ge at 506 ◦ C.” |
-| Phase transition | 1375.15 K | 1375.15 | liquid + ␥Ni3 Ge ↔ ␦Ni5 Ge2 | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | p. 2; `ORC-PMRVE6UVDJ` | “It was proposed that the ␦Ni5 Ge2 is formed via reaction liquid + ␧Ni5 Ge3 ↔ ␦Ni5 Ge2 \[12,14\], while Dayer and Feschotte \[13\] interpreted as reaction liquid + ␥Ni3 Ge ↔ ␦Ni5 Ge2 at 1102 ◦ C.” |
-| Phase transition | 1405 K | 1405 | congruent transformation | experimental | [1] Jin 2012; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | p. 2; `ORC-KBECG26TEH` | “It melts congruently at 1405 K, according to \[13\].” |
 | Phase transition | 1405.15 K | 1405.15 | congruent transformation | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | p. 2; `ORC-2MCFFARNEP.ce238c` | “Contradictory to the proposed peritectic formation of ␤Ni3 Ge at 1161 ◦ C by Ruttewit and Masing \[14\], Dayer and Feschotte \[13\] reported that ␤Ni3 Ge, with homogeneity range from 22.5 to 25 at.% Ge, melts congruently at 1132 ◦ C and undergoes the eutectic reaction L ↔ (Ni) + ␤Ni3 Ge at 1124 ◦ C.” |
 | Phase transition | 1458.15 K | 1458.15 | congruent transformation | experimental | [2] Liu 2010; _cites Dayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990252-0) | p. 2; `ORC-AYX2AQCL2N` | “The non-stoichiometric compound ␧Ni5 Ge3 melts congruently at 1185 ◦ C \[13\], which is around 33 ◦ C lower than that reported by Ellner et al. \[12\].” |
-| Phase transition | 1491.15 K | 1491.15 | congruent transformation | experimental | [2] Liu 2010; _cites Ellner 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990164-0) | p. 1; `ORC-ZRD6JLH7ZF` | “The ␧Ni5 Ge3 phase, reported as Ni2 Ge(h) phase in Ref. \[12\], melts congruently at 35 at.% Ge and 1218 ◦ C.” |
 
 ### Phase equilibrium (1)
 

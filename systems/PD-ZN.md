@@ -1,10 +1,10 @@
 # Pd–Zn system
 
-> Pd–Zn system: 52 accepted literature values (crystal structure 17, invariant reaction 11, phase transition 10, formation 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Zn system: 50 accepted literature values (crystal structure 17, invariant reaction 11, phase transition 8, formation 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-ZN.html · Markdown: https://data.orchid-project.org/systems/PD-ZN.md
 
-52 accepted literature values from 2 paper(s) (experimental 31, model 6, DFT 15); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+50 accepted literature values from 2 paper(s) (experimental 29, model 6, DFT 15); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-ZN.json) · [CSV](https://data.orchid-project.org/systems/PD-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-ZN/PdZn-06Viz.json) · [phases (11)](https://data.orchid-project.org/phases/pages/PD-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PD-ZN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
+| experimental | 29 |
 | model | 6 |
 | DFT | 15 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 11 |
-| phase transition | 10 |
+| phase transition | 8 |
 | phase equilibrium | 4 |
 | formation | 8 |
 | crystal structure | 17 |
@@ -77,8 +77,8 @@ Table: Invariant reactions reported in the literature for the Pd–Zn system (11
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1122.1 | Liquid -> β + γ | Liquid: Zn 0.749; β: Zn 0.637; γ: Zn 0.781 | model | [1] Gong 2022 | Table 7, p. 35, row 1; `ORC-K6FTTYF4FV` |  |
-| 1118 | Liquid -> β + γ | Liquid: Zn 0.75; β: Zn 0.65; γ: Zn 0.77 | experimental | [1] Gong 2022; _cites ref. 17_ | Table 7, p. 35, row 2; `ORC-FUTCGME3WN` |  |
+| 1122.1 | eutectic: Liquid -> β + γ | Liquid: Zn 0.749; β: Zn 0.637; γ: Zn 0.781 | model | [1] Gong 2022 | Table 7, p. 35, row 1; `ORC-K6FTTYF4FV` |  |
+| 1118 | eutectic: Liquid -> β + γ | Liquid: Zn 0.75; β: Zn 0.65; γ: Zn 0.77 | experimental | [1] Gong 2022; _cites ref. 17_ | Table 7, p. 35, row 2; `ORC-FUTCGME3WN` |  |
 | 838 | β -> β1 + γ | β: Zn 0.57; β1: Zn 0.55; γ: Zn 0.76 | experimental | [1] Gong 2022; _cites ref. 17_ | Table 7, p. 35, row 4; `ORC-RMWHM635OW` |  |
 | 834 | β -> β1 + γ | β: Zn 0.615; β1: Zn 0.573; γ: Zn 0.775 | model | [1] Gong 2022 | Table 7, p. 35, row 3; `ORC-ZWWTZPXC6L` |  |
 | 803 | β1 + γ -> PdZn2 | β1: Zn 0.56; γ: Zn 0.76; PdZn2: Zn 0.667 | experimental | [1] Gong 2022; _cites ref. 17_ | Table 7, p. 35, row 6; `ORC-3AFCJT2SVY` |  |
@@ -86,8 +86,8 @@ Table: Invariant reactions reported in the literature for the Pd–Zn system (11
 | 707.2 | Liquid + γ -> Pd9Zn91 | Liquid: Zn 0.977; γ: Zn 0.846; Pd9Zn91: Zn 0.91 | model | [1] Gong 2022 | Table 7, p. 35, row 7; `ORC-5QOELXTA4A` |  |
 | 707 | Liquid + γ -> Pd9Zn91 | γ: Pd 0.181818, Zn 0.818182; Pd9Zn91: Pd 0.09, Zn 0.91 | experimental | [1] Gong 2022; _cites ref. 9_ | Table 7, p. 35, row 9; `ORC-Y3HBMZK3Q2` |  |
 | 703 | Liquid + γ -> Pd9Zn91 | Liquid: Zn 0.98; γ: Zn 0.85; Pd9Zn91: Zn 0.92 | experimental | [1] Gong 2022; _cites ref. 18_ | Table 7, p. 35, row 8; `ORC-4CVKFVGAAS` |  |
-| 690 | Liquid -> Pd9Zn91 + HCP | Pd9Zn91: Pd 0.09, Zn 0.91 | experimental | [1] Gong 2022; _cites ref. 9_ | Table 7, p. 35, row 11; `ORC-V2NY5ZZX5M` |  |
-| 681.1 | Liquid -> Pd9Zn91 + HCP | Liquid: Zn 0.982; Pd9Zn91: Zn 0.91; HCP: Zn 0.99 | model | [1] Gong 2022 | Table 7, p. 35, row 10; `ORC-ZAKUMV42WQ` |  |
+| 690 | eutectic: Liquid -> Pd9Zn91 + HCP | Pd9Zn91: Pd 0.09, Zn 0.91 | experimental | [1] Gong 2022; _cites ref. 9_ | Table 7, p. 35, row 11; `ORC-V2NY5ZZX5M` |  |
+| 681.1 | eutectic: Liquid -> Pd9Zn91 + HCP | Liquid: Zn 0.982; Pd9Zn91: Zn 0.91; HCP: Zn 0.99 | model | [1] Gong 2022 | Table 7, p. 35, row 10; `ORC-ZAKUMV42WQ` |  |
 
 ## Formation enthalpies
 
@@ -108,18 +108,16 @@ Table: Enthalpies of formation, Pd–Zn system (8)
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (8)
 
 Table: Phase transition, Pd–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 689.15 K | 689.15 | other: A1 1st invariant reaction; _alloy: Pd 0.03, Zn 0.97_ | experimental | [2] Vizdal 2006 | Table 2, p. 6, row 1; `ORC-DHWHALXOZJ` |  |
-| Phase transition | 690 K | 690 | Liquid → Pd9Zn91 + HCP | experimental | [1] Gong 2022; _cites ref. 9_ | p. 5; `ORC-SF6DD3MKXR.0bb75a` | “Vizdal et al. \[9\] measured the temperatures of the invariant reactions, i.e., Liquid → Pd9Zn91 + HCP at 690 K and Liquid + Gamma → Pd9Zn91 at 707 K, in the Zn-rich region using differential thermal analysis (DTA).” |
 | Phase transition | 691.15 K | 691.15 | other: A2 1st invariant reaction; _alloy: Pd 0.03, Zn 0.97_ | experimental | [2] Vizdal 2006 | Table 2, p. 6, row 3; `ORC-A4TL7BDVE5` |  |
 | Phase transition | 705.15 K | 705.15 | other: B2 2nd invariant reaction; _alloy: Pd 0.18, Zn 0.82_ | experimental | [2] Vizdal 2006 | Table 2, p. 6, row 6; `ORC-WCHZT3WX5Y` |  |
 | Phase transition | 706.15 K | 706.15 | other: B1 2nd invariant reaction; _alloy: Pd 0.18, Zn 0.82_ | experimental | [2] Vizdal 2006 | Table 2, p. 6, row 5; `ORC-AFCXJBQWE6` |  |
-| Phase transition | 707 K | 707 | Liquid + Gamma → Pd9Zn91 | experimental | [1] Gong 2022; _cites ref. 9_ | p. 5; `ORC-SF6DD3MKXR.be40a4` | “Vizdal et al. \[9\] measured the temperatures of the invariant reactions, i.e., Liquid → Pd9Zn91 + HCP at 690 K and Liquid + Gamma → Pd9Zn91 at 707 K, in the Zn-rich region using differential thermal analysis (DTA).” |
 | Phase transition | 708.15 K | 708.15 | other: A2 2nd invariant reaction; _alloy: Pd 0.03, Zn 0.97_ | experimental | [2] Vizdal 2006 | Table 2, p. 6, row 4; `ORC-GIZMPN6ZSY` |  |
 | Phase transition | 709.15 K | 709.15 | other: A1 2nd invariant reaction; _alloy: Pd 0.03, Zn 0.97_ | experimental | [2] Vizdal 2006 | Table 2, p. 6, row 2; `ORC-AVRZEREO4R` |  |
 | Phase transition | 1150 K | 1150 | congruent transformation | model | [1] Gong 2022 | p. 15; `ORC-NLVVQ37ZEQ.01b6c6` | “The congruent melting temperature of the γ phase is 1150 K in good agreement with 1153 K suggested by Massalski \[17\].” |

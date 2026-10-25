@@ -1,10 +1,10 @@
 # Cu–Ge system
 
-> Cu–Ge system: 21 accepted literature values (invariant reaction 14, phase transition 4, formation 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Ge system: 19 accepted literature values (invariant reaction 14, formation 3, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-GE.html · Markdown: https://data.orchid-project.org/systems/CU-GE.md
 
-21 accepted literature values from 1 paper(s) (experimental 11, model 10); 2 calculated phase diagram(s).
+19 accepted literature values from 1 paper(s) (experimental 10, model 9); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-GE.json) · [CSV](https://data.orchid-project.org/systems/CU-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-GE/CuGe-10Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CU-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-GE.html) · [Markdown](https://data.orchid-project.org/systems/CU-GE.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 10 |
+| experimental | 10 |
+| model | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 14 |
-| phase transition | 4 |
+| phase transition | 2 |
 | formation | 3 |
 
 ## Calculated phase diagrams
@@ -91,14 +91,12 @@ Table: Enthalpies of formation, Cu–Ge system (3)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (2)
 
 Table: Phase transition, Cu–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 909 K | 909 | other: ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 | experimental | [1] Wang 2010 | p. 6; `ORC-QV5ZQ3WLEX.eb99d4` | “Note here that the calculated temperature of transformation for the intermetallic compound (␩-Cu0.75 Ge0.25 ), ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 at 948 K, deviates significantly from the corresponding measured value (909 K).” |
-| Phase transition | 948 K | 948 | other: ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 | model | [1] Wang 2010 | p. 6; `ORC-QV5ZQ3WLEX.0d1d83` | “Note here that the calculated temperature of transformation for the intermetallic compound (␩-Cu0.75 Ge0.25 ), ␧-Cu0.765 Ge0.235 + ␪-Cu0.735 Ge0.265 ↔ ␩-Cu0.75 Ge0.25 at 948 K, deviates significantly from the corresponding measured value (909 K).” |
 | Phase transition | 1020 K | 1020 | congruent melting: L \<-> ε-Cu0.765Ge0.235; _L: Ge 0.22; ε-Cu0.765Ge0.235: Ge 0.235_ | experimental | [1] Wang 2010; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02874979) | Table 1, p. 2, row 3; `ORC-Q24UWYGZ6C` |  |
 | Phase transition | 1022 K | 1022 | congruent melting: L \<-> ε-Cu0.765Ge0.235; _L: Ge 0.235; ε-Cu0.765Ge0.235: Ge 0.235_ | model | [1] Wang 2010 | Table 1, p. 2, row 4; `ORC-22MRGBYZJ4` |  |
 

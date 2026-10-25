@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of AlIr
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -118 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -92.8 | kJ/mol-atom | 1.8 | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -91.9 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -92.8 | kJ/mol-atom | 1.8 | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -91.9 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

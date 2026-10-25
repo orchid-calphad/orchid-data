@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/CO-NI.html · Markdown: https://data.orchid-project.org/systems/CO-NI.md
 
-25 accepted literature values from 2 paper(s) (model 7, DFT 18); 2 calculated phase diagram(s).
+25 accepted literature values from 2 paper(s) (DFT 25); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-NI.json) · [CSV](https://data.orchid-project.org/systems/CO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-NI/CoNi-24Per.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CO-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-NI.html) · [Markdown](https://data.orchid-project.org/systems/CO-NI.md)
 
@@ -12,8 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 7 |
-| DFT | 18 |
+| DFT | 25 |
 
 Table: Accepted values by property group
 
@@ -44,14 +43,14 @@ Table: Enthalpies of formation, Co–Ni system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| B2 | [CoNi](https://data.orchid-project.org/compounds/CoNi.html) | 5.66 kJ/mol-atom | 298.15 | model | 14.703 (mp-aaacfhmh) | 14.332 (oqmd-304574) | [1] Liu 2016 | Table 4, p. 38, row 10; `ORC-74DQWYXZZF.fef30f` |  |
+| B2 |  | 5.66 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 10; `ORC-74DQWYXZZF.fef30f` |  |
 | B2-β |  | 5.66 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 6, p. 40, row 14; `ORC-R4JVCNQOUL.88a673` |  |
 | L12-γ’ |  | -0.94 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 13; `ORC-LOZBGVYVAU.895373` |  |
 | L12-γ’ |  | 0.9 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 15; `ORC-UDK532NRBY.7eb3d3` |  |
 | γ' |  | -0.94 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 13; `ORC-LOZBGVYVAU.2e0361` |  |
 | γ' |  | 0.9 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 15; `ORC-UDK532NRBY.adad6e` |  |
-| γ'-L12 | [Co3Ni](https://data.orchid-project.org/compounds/Co3Ni.html) | 0.39 kJ/mol-atom | 298.15 | model | 0.008 (mp-aaacfjqr) | -0.771 (oqmd-344812) | [1] Liu 2016 | Table 4, p. 38, row 29; `ORC-3KCYVZHOUW.3336d4` |  |
-| γ'-L12 | [CoNi3](https://data.orchid-project.org/compounds/CoNi3.html) | 1.321 kJ/mol-atom | 298.15 | model | 1.048 (mp-aaacpjcx) | 0.954 (oqmd-343276) | [1] Liu 2016 | Table 4, p. 38, row 30; `ORC-NPNIYN4TG5.1c973a` |  |
+| γ'-L12 |  | 0.39 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 29; `ORC-3KCYVZHOUW.3336d4` |  |
+| γ'-L12 |  | 1.321 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 30; `ORC-NPNIYN4TG5.1c973a` |  |
 
 ## Other properties
 
@@ -61,10 +60,10 @@ Table: Formation, Co–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS298_ | -0.303 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.75, Ni 0.25_ | model | [1] Liu 2016 | Table 4, p. 38, row 29; `ORC-3KCYVZHOUW.b55ecc` |  |
-| Entropy of formation; _printed: ΔfS298_ | -0.192 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.25, Ni 0.75_ | model | [1] Liu 2016 | Table 4, p. 38, row 30; `ORC-NPNIYN4TG5.a77f23` |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | 0.48 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.75, Ni 0.25_ | model | [1] Liu 2016 | Table 4, p. 38, row 29; `ORC-3KCYVZHOUW.57e86f` |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | 1.378 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.25, Ni 0.75_ | model | [1] Liu 2016 | Table 4, p. 38, row 30; `ORC-NPNIYN4TG5.ff991f` |  |
+| Entropy of formation; _printed: ΔfS298_ | -0.303 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 29; `ORC-3KCYVZHOUW.b55ecc` |  |
+| Entropy of formation; _printed: ΔfS298_ | -0.192 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 30; `ORC-NPNIYN4TG5.a77f23` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 0.48 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.75, Ni 0.25_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 29; `ORC-3KCYVZHOUW.57e86f` |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 1.378 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.25, Ni 0.75_ | DFT | [1] Liu 2016 | Table 4, p. 38, row 30; `ORC-NPNIYN4TG5.ff991f` |  |
 
 ### Mixing / partial (10)
 

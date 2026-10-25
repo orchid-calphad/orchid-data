@@ -20,7 +20,7 @@ Table: Phases of the Hf–Mn system (9)
 | [HCP_A3](#phase-hf-mn-hcp-a3); _phase:hf-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2017.02 K, x(Mn) 0–0.0435 | 2 | 2 |
 | [HFMN](#phase-hf-mn-hfmn); _phase:hf-mn:hfmn_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1570.7 K, x(Mn) 0.5–0.5 | 4 | 1 |
 | [HFMN2_C14](#phase-hf-mn-hfmn2-c14); _phase:hf-mn:hfmn2-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2000 K, x(Mn) 0.62856–0.75378 | 10 | 1 |
-| [LIQUID](#phase-hf-mn-liquid); _phase:hf-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1481.02–4000 K, x(Mn) 0–1 | 11 | 2 |
+| [LIQUID](#phase-hf-mn-liquid); _phase:hf-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1481.02–4000 K, x(Mn) 0–1 | 13 | 2 |
 
 ## BCC_A2 (Hf–Mn)
 
@@ -304,7 +304,7 @@ _cited as the source of values for this phase_
 - Id: `phase:hf-mn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1481.02–4000 K, x(Mn) 0–1
-- Literature: 11 values (9 accepted) from 2 papers
+- Literature: 13 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-mn:liquid)
 
 Names (5): _corpus: _corpus:phase:hf-mn:liquid  

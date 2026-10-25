@@ -1,10 +1,10 @@
 # Ce–Pt system
 
-> Ce–Pt system: 30 accepted literature values (invariant reaction 30) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Pt system: 29 accepted literature values (invariant reaction 29) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-PT.html · Markdown: https://data.orchid-project.org/systems/CE-PT.md
 
-30 accepted literature values from 1 paper(s) (experimental 15, model 15); 1 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 14, model 15); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-PT.json) · [CSV](https://data.orchid-project.org/systems/CE-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-PT/CePt-11Liu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CE-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-PT.html) · [Markdown](https://data.orchid-project.org/systems/CE-PT.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 14 |
 | model | 15 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 30 |
+| invariant reaction | 29 |
 
 ## Calculated phase diagrams
 
@@ -61,7 +61,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Pt system (30)
+Table: Invariant reactions reported in the literature for the Ce–Pt system (29)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -73,7 +73,6 @@ Table: Invariant reactions reported in the literature for the Ce–Pt system (30
 | 1997.15 | peritectic: L + CePt5 -> CePtx | CePt5: Pt 0.833; CePtx: Pt 0.82 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 5; `ORC-YHGDUIKZRW` |  |
 | 1961.15 | eutectic: L -> CePt2 + CePtx | L: Pt 0.775; CePt2: Pt 0.752; CePtx: Pt 0.82 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 7; `ORC-GCVQFTG3V4` |  |
 | 1960.98 | eutectic: L -> CePt2 + CePtx | L: Pt 0.779; CePt2: Pt 0.752; CePtx: Pt 0.82 | model | [1] Liu 2011 | Table 3, p. 4, row 8; `ORC-XQ4B7NRV52` |  |
-| 1848.15 | eutectic: L ↔ CePt5 + (Pt) |  | experimental | [1] Liu 2011; _cites Voronova 1983_ | p. 1; `ORC-VJTAW4T2TD` | “Regarding to the information on phase equilibria and phase transformations, Vronova et al. \[13\] reported that the temperature of the eutectic reaction (L ↔ CePt5 + (Pt)) and its eutectic point are 1575 °C and 92 at.% Pt, respectively.” |
 | 1802.15 | eutectic: L -> CePt5 + (Pt) | L: Pt 0.92; CePt5: Pt 0.833; (Pt): Pt 1 | experimental | [1] Liu 2011; _cites Janghorban 2010_ [doi](https://doi.org/10.1016/j.intermet.2010.07.012) | Table 3, p. 4, row 9; `ORC-TK3GE5YH4O` |  |
 | 1802.13 | eutectic: L -> CePt5 + (Pt) | L: Pt 0.924; CePt5: Pt 0.833; (Pt): Pt 1 | model | [1] Liu 2011 | Table 3, p. 4, row 10; `ORC-RLOCLUU6NQ` |  |
 | 1790.15 | congruent melting: L -> CePt | L: Pt 0.5; CePt: Pt 0.5 | model | [1] Liu 2011 | Table 3, p. 4, row 12; `ORC-CSWFQXXQGG` |  |

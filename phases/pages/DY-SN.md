@@ -24,7 +24,7 @@ Table: Phases of the Dy–Sn system (13)
 | [DYSN3](#phase-dy-sn-dysn3); _phase:dy-sn:dysn3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 769.4–1014.16 K, x(Sn) 0.75–0.75 | 6 | 1 |
 | [FCC_A1](#phase-dy-sn-fcc-a1); _phase:dy-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-dy-sn-hcp-a3); _phase:dy-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1675.22 K, x(Sn) 0–0.04009 | 2 | 1 |
-| [LIQUID](#phase-dy-sn-liquid); _phase:dy-sn:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 505.04–2500 K, x(Sn) 0–1 | 18 | 1 |
+| [LIQUID](#phase-dy-sn-liquid); _phase:dy-sn:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 505.04–2500 K, x(Sn) 0–1 | 19 | 1 |
 
 ## DIAMOND_A4 (Dy–Sn)
 
@@ -406,11 +406,11 @@ _cited as the source of values for this phase_
 - Id: `phase:dy-sn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 505.04–2500 K, x(Sn) 0–1
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 19 values (19 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-sn:liquid)
 
-Names (3): _corpus: _corpus:phase:dy-sn:liquid  
-_paper: _paper:10.1016/j.jallcom.2004.12.033:Liq.  
+Names (4): _corpus: _corpus:phase:dy-sn:liquid  
+_paper: _paper:10.1016/j.jallcom.2004.12.033:Liq., paper:10.1016/j.jallcom.2004.12.033:liquid  
 _tdb: _tdb:DySn-05Wan.tdb:LIQUID  
 
 

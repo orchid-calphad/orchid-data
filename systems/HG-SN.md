@@ -1,10 +1,10 @@
 # Hg–Sn system
 
-> Hg–Sn system: 70 accepted literature values (phase transition 31, invariant reaction 24, crystal structure 11, activity / EMF / Gibbs energy 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hg–Sn system: 62 accepted literature values (phase transition 29, invariant reaction 18, crystal structure 11, activity / EMF / Gibbs energy 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HG-SN.html · Markdown: https://data.orchid-project.org/systems/HG-SN.md
 
-70 accepted literature values from 1 paper(s) (experimental 43, model 27); 1 calculated phase diagram(s).
+62 accepted literature values from 1 paper(s) (experimental 36, model 26); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HG-SN.json) · [CSV](https://data.orchid-project.org/systems/HG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-SN/HgSn-03Yen-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/HG-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HG-SN.html) · [Markdown](https://data.orchid-project.org/systems/HG-SN.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
-| model | 27 |
+| experimental | 36 |
+| model | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 24 |
-| phase transition | 31 |
+| invariant reaction | 18 |
+| phase transition | 29 |
 | mixing / partial | 1 |
 | activity / EMF / Gibbs energy | 2 |
 | crystal structure | 11 |
@@ -51,7 +51,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hg–Sn system (24)
+Table: Invariant reactions reported in the literature for the Hg–Sn system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -59,18 +59,12 @@ Table: Invariant reactions reported in the literature for the Hg–Sn system (24
 | 496.5 | peritectic: L + βSn -> β | L: Sn 0.97 | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | Table 8, p. 9, row 3; `ORC-LA2FAULBFH` |  |
 | 487.5 | peritectic: L + β -> γ | L: Sn 0.9177; γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 4; `ORC-AHXNDLABJZ` |  |
 | 487 | peritectic: L + β -> γ | L: Sn 0.912; γ: Hg 0.076923, Sn 0.923077 | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | Table 8, p. 9, row 6; `ORC-HW6JPFSCBL` |  |
-| 484.3 | peritectic |  | model | [1] Yen 2003 | p. 13; `ORC-DNHNXE7QXE` | “Calculated temperatures and compositions of invariant reactions in Case 2 compare well with the experimental data and are listed in Table 8, except for the peritectic calculated at 484.3 K.” |
 | 484.2 | peritectic: L + β -> γ | L: Sn 0.9043; γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 5; `ORC-NRO2KMG2L5` |  |
 | 473.4 | eutectoid: β -> γ + βSn | γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 7; `ORC-7A6JMJWSD5` |  |
 | 472.1 | eutectoid: β -> γ + βSn | γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 8; `ORC-46CIFKOE4Z` |  |
 | 471.5 | eutectoid: β -> γ + βSn | γ: Hg 0.076923, Sn 0.923077 | experimental | [1] Yen 2003 | Table 8, p. 9, row 9; `ORC-T2PUDEDCYJ` |  |
-| 368 | peritectic |  | experimental | [1] Yen 2003; _cites Yan-Sho-Syan 1969_ | p. 5; `ORC-L2FOILNMIK.f4973d` | “Literature values for the peritectic temperature include 363 K \[1937Pry\], 364.6 K \[1963Tay\], 368 K \[1969Yan\], 358 K \[1984Elh\], and 353 K \[1985Sar1\].” |
-| 364.6 | peritectic |  | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | p. 5; `ORC-L2FOILNMIK.783926` | “Literature values for the peritectic temperature include 363 K \[1937Pry\], 364.6 K \[1963Tay\], 368 K \[1969Yan\], 358 K \[1984Elh\], and 353 K \[1985Sar1\].” |
 | 363.5 | peritectic: L + γ -> δ | L: Sn 0.1453; γ: Hg 0.076923, Sn 0.923077 | model | [1] Yen 2003 | Table 8, p. 9, row 10; `ORC-67MHRKQ2PF` |  |
 | 363 | peritectic: L + γ -> δ | γ: Hg 0.076923, Sn 0.923077 | experimental | [1] Yen 2003 | Table 8, p. 9, row 11; `ORC-3SCHO3DCRM` |  |
-| 363 | peritectic |  | experimental | [1] Yen 2003; _cites Prytherch 1937_ | p. 5; `ORC-L2FOILNMIK.f1f8d2` | “Literature values for the peritectic temperature include 363 K \[1937Pry\], 364.6 K \[1963Tay\], 368 K \[1969Yan\], 358 K \[1984Elh\], and 353 K \[1985Sar1\].” |
-| 358 | peritectic |  | experimental | [1] Yen 2003; _cites El-Handary 1984_ | p. 5; `ORC-L2FOILNMIK.c02996` | “Literature values for the peritectic temperature include 363 K \[1937Pry\], 364.6 K \[1963Tay\], 368 K \[1969Yan\], 358 K \[1984Elh\], and 353 K \[1985Sar1\].” |
-| 353 | peritectic |  | experimental | [1] Yen 2003; _cites Sarkar 1985_ | p. 5; `ORC-L2FOILNMIK.9c92bc` | “Literature values for the peritectic temperature include 363 K \[1937Pry\], 364.6 K \[1963Tay\], 368 K \[1969Yan\], 358 K \[1984Elh\], and 353 K \[1985Sar1\].” |
 | 265.6 | metatectic/catatectic: γ -> L + αSn | γ: Sn 0.9231; L: Sn 0.0127 | model | [1] Yen 2003 | Table 8, p. 9, row 12; `ORC-EM6UZ5AOF7` |  |
 | 265 | metatectic/catatectic: γ -> L + αSn | γ: Sn 0.926 | experimental | [1] Yen 2003; _cites Smith 1969_ [doi](https://doi.org/10.1179/cmq.1969.8.2.127) | Table 8, p. 9, row 13; `ORC-EBMMRGZTS6` |  |
 | 262.2 | eutectoid: γ -> δ + αSn | γ: Sn 0.887 | model | [1] Yen 2003 | Table 8, p. 9, row 14; `ORC-ONSQHZWPPQ` |  |
@@ -82,14 +76,13 @@ Table: Invariant reactions reported in the literature for the Hg–Sn system (24
 
 ## Other properties
 
-### Phase transition (31)
+### Phase transition (29)
 
 Table: Phase transition, Hg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 233 K | 233 | other: HgSn4: Formation temperature: 233.0 K (0.24-0.57 at.% Sn) (a); _alloy: Hg 0.9976, Sn 0.0024_ | experimental | [1] Yen 2003; _cites P 1961_ | Table 2, p. 4, row 67; `ORC-UBLCHHWMTJ` |  |
-| Phase transition | 234.321 K | 234.321 |  | experimental | [1] Yen 2003 | p. 14; `ORC-LRE3BQEFUS` | “On the other hand the lowest thermal signals of mostly Sn-rich alloys, usually interpreted as "eutectic," are in the range 234-239 K, which is higher than the melting point of pure Hg accepted today, Tm(Hg) ⳱ 234.321 K.” |
 | Phase transition | 238 K | 238 | other: HgSn4: Formation temperature: 238.0 K (0.16-0.41 at.% Sn) (a); _alloy: Hg 0.9984, Sn 0.0016_ | experimental | [1] Yen 2003; _cites Petot-Ervas 1967_ | Table 2, p. 4, row 65; `ORC-P46QOWBCJO` |  |
 | Phase transition | 238.6 K | 238.6 | other: HgSn4: Formation temperature: 238.6 K (0.3-85 at.% Sn) (a); _alloy: Hg 0.15, Sn 0.85_ | experimental | [1] Yen 2003; _cites W 1904_ | Table 2, p. 4, row 63; `ORC-T5JT7JWGGE` |  |
 | Phase transition | 238.7 K | 238.7 | other: HgSn4: Formation temperature: 238.7 K (10-85 at.% Sn) (a); _alloy: Hg 0.15, Sn 0.85_ | experimental | [1] Yen 2003; _cites Yan-Sho-Syan 1969_ | Table 2, p. 4, row 66; `ORC-G3TOQZEPXR` |  |
@@ -118,7 +111,6 @@ Table: Phase transition, Hg–Sn system
 | Phase transition | 496 K | 496 | other: β: Formation temperature: 496 K (93.8-98.8 at.% Sn) (a); _alloy: Hg 0.062, Sn 0.938_ | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | Table 2, p. 4, row 37; `ORC-DSMWFYGHCJ` |  |
 | Phase transition | 497 K | 497 | other: β: Formation temperature: 497 K (96.6-99.3 at.% Sn) (a); _alloy: Hg 0.034, Sn 0.966_ | experimental | [1] Yen 2003; _cites ref. 1973Pry_ | Table 2, p. 4, row 36; `ORC-AVZ4KPNUPC` |  |
 | Phase transition | 497.6 K | 497.6 | peritectic: γ: Formation temperature: 497.6 K | experimental | [1] Yen 2003; _cites Predel 1969_ [doi](https://doi.org/10.1016/0001-6160%2869%2990085-6) | Table 2, p. 4, row 50; `ORC-6GNWJLJYDQ` |  |
-| Phase transition | 505 K | 505 | other | experimental | [1] Yen 2003 | p. 9; `ORC-27LBTJN6FD` | “When the temperature is lower than 505 K (the melting temperature of Sn) the activity of tin, aSn, is converted to the reference state of pure solid Sn in the present assessment.” |
 
 ### Mixing / partial (1)
 

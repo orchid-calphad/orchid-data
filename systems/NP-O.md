@@ -1,10 +1,10 @@
 # Np–O system
 
-> Np–O system: 45 accepted literature values (formation 14, heat capacity / entropy / enthalpy 11, invariant reaction 7, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Np–O system: 40 accepted literature values (formation 14, heat capacity / entropy / enthalpy 11, invariant reaction 7, crystal structure 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NP-O.html · Markdown: https://data.orchid-project.org/systems/NP-O.md
 
-45 accepted literature values from 1 paper(s) (experimental 3, model 29, unspecified 13); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+40 accepted literature values from 1 paper(s) (experimental 1, model 26, unspecified 13); 1 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NP-O.json) · [CSV](https://data.orchid-project.org/systems/NP-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NP-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NP-O/NpO-16Smi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/NP-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NP-O.html) · [Markdown](https://data.orchid-project.org/systems/NP-O.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
-| model | 29 |
+| experimental | 1 |
+| model | 26 |
 | unspecified | 13 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 7 |
-| phase transition | 6 |
+| phase transition | 1 |
 | formation | 14 |
 | heat capacity / entropy / enthalpy | 11 |
 | crystal structure | 4 |
@@ -57,8 +57,8 @@ Table: Invariant reactions reported in the literature for the Np–O system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3070 | NpO2-x = L | NpO2-x: O 0.66667; L: O 0.66667 | unspecified | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 7, p. 10, row 7; `ORC-LNUSDKLIZM` |  |
-| 3069.5 | NpO1.90 = L | NpO1.90: O 0.6549; L: O 0.6549 | model | [1] Smith 2016 | Table 7, p. 10, row 5; `ORC-E323HEQGWT` |  |
+| 3070 | congruent melting: NpO2-x = L | NpO2-x: O 0.66667; L: O 0.66667 | unspecified | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 7, p. 10, row 7; `ORC-LNUSDKLIZM` |  |
+| 3069.5 | congruent melting: NpO1.90 = L | NpO1.90: O 0.6549; L: O 0.6549 | model | [1] Smith 2016 | Table 7, p. 10, row 5; `ORC-E323HEQGWT` |  |
 | 2879 | NpO2-x + G = L | NpO2-x: O 0.6633; L: O 0.672 | model | [1] Smith 2016 | Table 7, p. 10, row 6; `ORC-CG5TRVCYWC` |  |
 | 1117 | L1 + L2 = NpO2-x | L1: O 5.500e-4; NpO2-x: O 0.412 | model | [1] Smith 2016 | Table 7, p. 10, row 2; `ORC-7KSJBSWI6T` |  |
 | 913 | L1 = NpO2-x + γ-Np | NpO2-x: O 0.66667; γ-Np: O 0 | model | [1] Smith 2016 | Table 7, p. 10, row 1; `ORC-KBXM2K6JWI` |  |
@@ -90,17 +90,12 @@ Table: Enthalpies of formation, Np–O system (14)
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (1)
 
 Table: Phase transition, Np–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1117 K | 1117 | other | model | [1] Smith 2016 | p. 18; `ORC-IDKB22L3TC` | “Yet, the temperature of the monotectic reaction as optimized herein, i.e., 1117 K, is much lower than suggested by \[12\].” |
-| Phase transition | 1117 K | 1117 | other | model | [1] Smith 2016 | p. 10; `ORC-PUHRBVRTNB.195c93` | “One major difference, however, concerns the temperature of the monotectic reaction, calculated here at 1117 K, while Richter and Sari \[12\] reported it around 2450 K.” |
-| Phase transition | 2450 K | 2450 | other | experimental | [1] Smith 2016 | p. 2; `ORC-3Z2Q5HAEIH` | “Richter and Sari have suggested 2450 K for the monotectic equilibrium temperature, and an oxygen-to-metal ratio O/Np = 1.8 for the lower oxygen composition of the monophasic domain NpO2x at 2450 K, by extrapolation of the phase boundary curve from 2300 K.” |
-| Phase transition | 2450 K | 2450 | other | model | [1] Smith 2016; _cites Kinoshita 2003_ [doi](https://doi.org/10.1016/s0021-9614%2803%2900002-8) | p. 10; `ORC-K3Z3VSNFUS` | “The CALPHAD assessment presented by Kinoshita et al. \[23\] exemplifies this inconsistency, where the monotectic reaction is well-reproduced at 2450 K as well as the oxygen potential curves, but where the hypostoichiometric homogeneity range is far too extended.” |
-| Phase transition | 2450 K | 2450 | other | experimental | [1] Smith 2016; _cites Richter 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990019-5) | p. 10; `ORC-PUHRBVRTNB.6e73cc` | “One major difference, however, concerns the temperature of the monotectic reaction, calculated here at 1117 K, while Richter and Sari \[12\] reported it around 2450 K.” |
 | Phase transition | 3069.5 K | 3069.5 | congruent transformation | model | [1] Smith 2016 | p. 10; `ORC-IYDRGULGUP` | “In addition, the melting point of neptunium dioxide is calculated at T fus = 3069.5 K for congruently melting NpO1:90 , which is consistent with the recommended value at T fus 1⁄4 ð3070 62Þ K \[14,22\].” |
 
 ### Heat capacity / entropy / enthalpy (11)

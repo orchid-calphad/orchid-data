@@ -41,12 +41,12 @@ Table: Uncertainty budget of the literature values of RuSi
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -58.3 | kJ/mol-atom | 2.1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -58.3 | kJ/mol-atom | 2.1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -58.1 | kJ/mol-atom | 3.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.7 |
-| -58.1 | kJ/mol-atom | 3.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.7 |
-| -57.7 | kJ/mol-atom | 1.4 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -57.7 | kJ/mol-atom | 1.4 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -58.3 | kJ/mol-atom | 2.1 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -58.3 | kJ/mol-atom | 2.1 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -58.1 | kJ/mol-atom | 3.7 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.7 |
+| -58.1 | kJ/mol-atom | 3.7 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.7 |
+| -57.7 | kJ/mol-atom | 1.4 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -57.7 | kJ/mol-atom | 1.4 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -56.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -33.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -57.641 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

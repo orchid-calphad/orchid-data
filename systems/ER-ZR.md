@@ -1,10 +1,10 @@
 # Er–Zr system
 
-> Er–Zr system: 39 accepted literature values (phase equilibrium 20, phase transition 13, invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Zr system: 37 accepted literature values (phase equilibrium 20, phase transition 13, invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-ZR.html · Markdown: https://data.orchid-project.org/systems/ER-ZR.md
 
-39 accepted literature values from 1 paper(s) (experimental 37, unspecified 2); 1 calculated phase diagram(s).
+37 accepted literature values from 1 paper(s) (experimental 35, unspecified 2); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-ZR.json) · [CSV](https://data.orchid-project.org/systems/ER-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-ZR/ErZr-10Jou.json) · [phases (4)](https://data.orchid-project.org/phases/pages/ER-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-ZR.html) · [Markdown](https://data.orchid-project.org/systems/ER-ZR.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
+| experimental | 35 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
+| invariant reaction | 4 |
 | phase transition | 13 |
 | phase equilibrium | 20 |
 
@@ -44,14 +44,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Er–Zr system (6)
+Table: Invariant reactions reported in the literature for the Er–Zr system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1670.15 | Liquid -> (Er) + (βZr) |  | unspecified | [1] Jourdan 2010 | Table 4, p. 5, row 2; `ORC-WFEQQPX456` |  |
-| 1653.15 | Liquid -> (Er) + (βZr) |  | experimental | [1] Jourdan 2010 | Table 4, p. 5, row 1; `ORC-H4M7N2VM7O` |  |
-| 1653.15 | eutectic |  | experimental | [1] Jourdan 2010 | p. 6; `ORC-KNRSVIF3D6` | “The eutectic temperature has been determined by means of STA (1380 °C).” |
-| 1318.15 | peritectoid |  | experimental | [1] Jourdan 2010 | p. 3; `ORC-EKX2G43BDE` | “We have measured the peritectoid temperature by DSC using samples of composition Er40Zr60 (Fig. 4) and Er25Zr75. The measured temperature during heating is 1045 ± 20 °C.” |
+| 1670.15 | eutectic: Liquid -> (Er) + (βZr) |  | unspecified | [1] Jourdan 2010 | Table 4, p. 5, row 2; `ORC-WFEQQPX456` |  |
+| 1653.15 | eutectic: Liquid -> (Er) + (βZr) |  | experimental | [1] Jourdan 2010 | Table 4, p. 5, row 1; `ORC-H4M7N2VM7O` |  |
 | 1318.15 | (Er) + (βZr) -> (αZr) |  | experimental | [1] Jourdan 2010 | Table 4, p. 5, row 3; `ORC-W3PT2TXM6X` |  |
 | 1304.15 | (Er) + (βZr) -> (αZr) |  | unspecified | [1] Jourdan 2010 | Table 4, p. 5, row 4; `ORC-O4PWSETWMW` |  |
 

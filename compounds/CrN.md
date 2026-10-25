@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CrN reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -58.6 kJ/mol-atom | CrN |  | model |  | [Cr–N](https://data.orchid-project.org/systems/CR-N.html) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 6; `ORC-UEW4XK4I2V` |  |
-| -57.3 kJ/mol-atom | CrN |  | model |  | [Cr–N](https://data.orchid-project.org/systems/CR-N.html) | [1] Frisk 1991 | Table I, p. 6, row 8; `ORC-JPD7Y6YZHI` |  |
+| -58.6 kJ/mol-atom | CrN | 1173 | model |  | [Cr–N](https://data.orchid-project.org/systems/CR-N.html) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 6; `ORC-UEW4XK4I2V` |  |
+| -57.3 kJ/mol-atom | CrN | 1173 | model |  | [Cr–N](https://data.orchid-project.org/systems/CR-N.html) | [1] Frisk 1991 | Table I, p. 6, row 8; `ORC-JPD7Y6YZHI` |  |
 
 ### Uncertainty budget
 

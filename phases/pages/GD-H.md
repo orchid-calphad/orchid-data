@@ -13,9 +13,9 @@ Table: Phases of the Gd–H system (5)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-gd-h-bcc-a2); _phase:gd-h:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1221.91–1586.6 K, x(H) 0–0.00033 | 0 | 1 |
-| [FCC_A1](#phase-gd-h-fcc-a1); _phase:gd-h:fcc-a1_ | CaF2 · C1 · cF12 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 300–1468.03 K, x(H) 0.52934–0.70081 | 2 | 1 |
+| [FCC_A1](#phase-gd-h-fcc-a1); _phase:gd-h:fcc-a1_ | CaF2 · C1 · cF12 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 300–1468.03 K, x(H) 0.52934–0.70081 | 0 | 1 |
 | [GAS](#phase-gd-h-gas); _phase:gd-h:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(H) 1–1 | 2 | 1 |
-| [HCP_A3](#phase-gd-h-hcp-a3); _phase:gd-h:hcp-a3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1916.51 K, x(H) 0–0.75 | 2 | 1 |
+| [HCP_A3](#phase-gd-h-hcp-a3); _phase:gd-h:hcp-a3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1916.51 K, x(H) 0–0.75 | 1 | 1 |
 | [LIQUID](#phase-gd-h-liquid); _phase:gd-h:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1586.6–2500 K, x(H) 0–0.00509 | 0 | 1 |
 
 ## BCC_A2 (Gd–H)
@@ -49,11 +49,10 @@ _assessment that models this phase_
 - Id: `phase:gd-h:fcc-a1`; status `assigned`
 - Structure: CaF2 · C1 · cF12 · Fm-3m (225); type `st:c1-caf2-cf12`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1468.03 K, x(H) 0.52934–0.70081
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-h:fcc-a1)
 
-Names (3): _corpus: _corpus:phase:gd-h:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2016.02.201:β-GdH2  
+Names (2): _corpus: _corpus:phase:gd-h:fcc-a1  
 _tdb: _tdb:GdH-16Fu.tdb:FCC_A1  
 
 
@@ -69,7 +68,7 @@ _tdb: _tdb:GdH-16Fu.tdb:FCC_A1
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2016.02.201](https://doi.org/10.1016/j.jallcom.2016.02.201) Kai Fu, Guoling Li, Jigang Li, Yang Liu, Wenhuai Tian, Jie Zheng et al., Study on the thermodynamics of the gadolinium-hydrogen binary system (H/Gd = 0.0–2.0) and implications to metallic gadolinium purification, Journal of Alloys and Compounds 673, 131-137 (2016).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## GAS (Gd–H)
 
@@ -110,11 +109,11 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (name_token): Mg · A3 · hP2 · P6_3/mmc (194) — Strukturbericht/word 'A3' in the TDB name
 - Candidate (sgte_mmc2): HoH3 · hP24 · P-3c1 (165) — Hallstedt 2025 mmc2 row for HCP_A3: DyH3, ErH3, GdH3, YH3
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1916.51 K, x(H) 0–0.75
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-h:hcp-a3)
 
-Names (4): _corpus: _corpus:phase:gd-h:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2016.02.201:Hcp(Gd), paper:10.1016/j.jallcom.2016.02.201:γ-GdH3  
+Names (3): _corpus: _corpus:phase:gd-h:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2016.02.201:Hcp(Gd)  
 _tdb: _tdb:GdH-16Fu.tdb:HCP_A3  
 
 

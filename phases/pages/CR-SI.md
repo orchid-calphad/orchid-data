@@ -35,7 +35,7 @@ Table: Phases of the Cr–Si system (12)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-si:a4-diamond)
 
 Names (12): _corpus: _corpus:phase:cr-si:a4-diamond, corpus:phase:cr-si:diamond-a4  
-_paper: _paper:10.1016/j.calphad.2008.05.005:(Si), paper:10.1016/s0364-5916(98)00037-6:diamond, paper:10.1361/105497100770340066:(Si)  
+_paper: _paper:10.1016/j.calphad.2008.05.005:(Si), paper:10.1361/105497100770340066:(Si), paper:sha256-85fd53a1a176b694:diamond  
 _tdb: _tdb:CrSi-00Du.tdb:DIAMOND_A4, tdb:CrSi-09Che.tdb:DIAMOND_A4, tdb:CrSi-17Jac.tdb:DIAMOND_A4, tdb:CrSi-24Ior.tdb:DIAMOND_A4, tdb:CrSi-94Cou-LB.tdb:DIAMOND_A4, tdb:CrSi-95Lee.tdb:DIAMOND_A4, tdb:CrSi-99Lee.tdb:DIAMOND_A4  
 
 
@@ -90,7 +90,7 @@ _tdb: _tdb:CrSi-00Du.tdb:DIAMOND_A4, tdb:CrSi-09Che.tdb:DIAMOND_A4, tdb:CrSi-17J
 49: CONST DIAMOND_A4 : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1361/105497100770340066](https://doi.org/10.1361/105497100770340066) Yong Du, Julius C. Schuster, Experimental reinvestigation of the CrSi-Si partial system and update of the thermodynamic description of the entire Cr-Si system, JPE 21, 281-286 (2000).  
 _assessment that models this phase; reports values for this phase_
@@ -102,8 +102,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2024.102690](https://doi.org/10.1016/j.calphad.2024.102690) Kazushige Ioroi, Ikuo Ohnuma, Xiao Xu, Ryosuke Kainuma, Toshihiro Omori, Thermodynamic assessment of the Cr–Si binary system, Calphad 85, 102690 (2024).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MSI_B20 (Cr–Si)
 
@@ -117,7 +115,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-si:b20-msi)
 
 Names (12): _corpus: _corpus:phase:cr-si:b20-msi, corpus:phase:cr-si:msi-b20  
-_paper: _paper:10.1016/j.calphad.2008.05.005:CrSi, paper:10.1016/s0364-5916(98)00037-6:CrSi, paper:10.1361/105497100770340066:CrSi  
+_paper: _paper:10.1016/j.calphad.2008.05.005:CrSi, paper:10.1361/105497100770340066:CrSi, paper:sha256-85fd53a1a176b694:CrSi  
 _tdb: _tdb:CrSi-00Du.tdb:MSI_B20, tdb:CrSi-09Che.tdb:MSI_B20, tdb:CrSi-17Jac.tdb:MSI_B20, tdb:CrSi-24Ior.tdb:MSI_B20, tdb:CrSi-94Cou-LB.tdb:MSI_B20, tdb:CrSi-95Lee.tdb:MSI_B20, tdb:CrSi-99Lee.tdb:MSI_B20  
 
 
@@ -172,7 +170,7 @@ _tdb: _tdb:CrSi-00Du.tdb:MSI_B20, tdb:CrSi-09Che.tdb:MSI_B20, tdb:CrSi-17Jac.tdb
 69: CONST MSI_B20 : CR : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1361/105497100770340066](https://doi.org/10.1361/105497100770340066) Yong Du, Julius C. Schuster, Experimental reinvestigation of the CrSi-Si partial system and update of the thermodynamic description of the entire Cr-Si system, JPE 21, 281-286 (2000).  
 _assessment that models this phase; reports values for this phase_
@@ -184,8 +182,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2024.102690](https://doi.org/10.1016/j.calphad.2024.102690) Kazushige Ioroi, Ikuo Ohnuma, Xiao Xu, Ryosuke Kainuma, Toshihiro Omori, Thermodynamic assessment of the Cr–Si binary system, Calphad 85, 102690 (2024).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_A2 (Cr–Si)
 
@@ -196,7 +192,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-si:bcc-a2)
 
 Names (11): _corpus: _corpus:phase:cr-si:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2008.05.005:(Cr), paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1361/105497100770340066:(Cr)  
+_paper: _paper:10.1016/j.calphad.2008.05.005:(Cr), paper:10.1361/105497100770340066:(Cr), paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:CrSi-00Du.tdb:BCC_A2, tdb:CrSi-09Che.tdb:BCC_A2, tdb:CrSi-17Jac.tdb:BCC_A2, tdb:CrSi-24Ior.tdb:BCC_A2, tdb:CrSi-94Cou-LB.tdb:BCC_A2, tdb:CrSi-95Lee.tdb:BCC_A2, tdb:CrSi-99Lee.tdb:BCC_A2  
 
 
@@ -251,7 +247,7 @@ _tdb: _tdb:CrSi-00Du.tdb:BCC_A2, tdb:CrSi-09Che.tdb:BCC_A2, tdb:CrSi-17Jac.tdb:B
 39: CONST BCC_A2 : CR% SI : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1361/105497100770340066](https://doi.org/10.1361/105497100770340066) Yong Du, Julius C. Schuster, Experimental reinvestigation of the CrSi-Si partial system and update of the thermodynamic description of the entire Cr-Si system, JPE 21, 281-286 (2000).  
 _assessment that models this phase; reports values for this phase_
@@ -263,8 +259,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2024.102690](https://doi.org/10.1016/j.calphad.2024.102690) Kazushige Ioroi, Ikuo Ohnuma, Xiao Xu, Ryosuke Kainuma, Toshihiro Omori, Thermodynamic assessment of the Cr–Si binary system, Calphad 85, 102690 (2024).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MSI2_C40 (Cr–Si)
 
@@ -319,7 +313,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-si:cr3si-a15)
 
 Names (11): _corpus: _corpus:phase:cr-si:cr3si-a15  
-_paper: _paper:10.1016/j.calphad.2008.05.005:Cr3Si, paper:10.1016/s0364-5916(98)00037-6:Cr3Si-A15, paper:10.1361/105497100770340066:Cr3Si  
+_paper: _paper:10.1016/j.calphad.2008.05.005:Cr3Si, paper:10.1361/105497100770340066:Cr3Si, paper:sha256-85fd53a1a176b694:Cr3Si-A15  
 _tdb: _tdb:CrSi-00Du.tdb:CR3SI_A15, tdb:CrSi-09Che.tdb:CR3SI_A15, tdb:CrSi-17Jac.tdb:CR3SI_A15, tdb:CrSi-24Ior.tdb:CR3SI_A15, tdb:CrSi-94Cou-LB.tdb:CR3SI_A15, tdb:CrSi-95Lee.tdb:CR3SI_A15, tdb:CrSi-99Lee.tdb:CR3SI_A15  
 
 
@@ -374,7 +368,7 @@ _tdb: _tdb:CrSi-00Du.tdb:CR3SI_A15, tdb:CrSi-09Che.tdb:CR3SI_A15, tdb:CrSi-17Jac
 54: CONST CR3SI_A15 : CR% SI : CR SI% : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1361/105497100770340066](https://doi.org/10.1361/105497100770340066) Yong Du, Julius C. Schuster, Experimental reinvestigation of the CrSi-Si partial system and update of the thermodynamic description of the entire Cr-Si system, JPE 21, 281-286 (2000).  
 _assessment that models this phase; reports values for this phase_
@@ -386,8 +380,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2024.102690](https://doi.org/10.1016/j.calphad.2024.102690) Kazushige Ioroi, Ikuo Ohnuma, Xiao Xu, Ryosuke Kainuma, Toshihiro Omori, Thermodynamic assessment of the Cr–Si binary system, Calphad 85, 102690 (2024).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CR5SI3_D8M (Cr–Si)
 
@@ -471,7 +463,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-si:crsi2-c40)
 
 Names (9): _corpus: _corpus:phase:cr-si:crsi2-c40  
-_paper: _paper:10.1016/j.calphad.2008.05.005:CrSi2, paper:10.1016/s0364-5916(98)00037-6:CrSi2, paper:10.1361/105497100770340066:CrSi2  
+_paper: _paper:10.1016/j.calphad.2008.05.005:CrSi2, paper:10.1361/105497100770340066:CrSi2, paper:sha256-85fd53a1a176b694:CrSi2  
 _tdb: _tdb:CrSi-00Du.tdb:CRSI2_C40, tdb:CrSi-09Che.tdb:CRSI2_C40, tdb:CrSi-94Cou-LB.tdb:CRSI2_C40, tdb:CrSi-95Lee.tdb:CRSI2_C40, tdb:CrSi-99Lee.tdb:CRSI2_C40  
 
 
@@ -512,7 +504,7 @@ _tdb: _tdb:CrSi-00Du.tdb:CRSI2_C40, tdb:CrSi-09Che.tdb:CRSI2_C40, tdb:CrSi-94Cou
 64: CONST CRSI2_C40 : CR% SI : CR SI% : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1361/105497100770340066](https://doi.org/10.1361/105497100770340066) Yong Du, Julius C. Schuster, Experimental reinvestigation of the CrSi-Si partial system and update of the thermodynamic description of the entire Cr-Si system, JPE 21, 281-286 (2000).  
 _assessment that models this phase; reports values for this phase_
@@ -520,8 +512,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2008.05.005](https://doi.org/10.1016/j.calphad.2008.05.005) Hailin Chen, Yong Du, Julius C. Schuster, On the melting of Cr5Si3 and update of the thermodynamic description of Cr–Si, Calphad 33, 211-214 (2009).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## M5SI3_D88 (Cr–Si)
 
@@ -751,7 +741,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-si:liquid)
 
 Names (12): _corpus: _corpus:phase:cr-si:liquid  
-_paper: _paper:10.1016/0364-5916(94)90023-x:liquid, paper:10.1016/j.calphad.2008.05.005:L, paper:10.1016/s0364-5916(98)00037-6:L, paper:10.1361/105497100770340066:L  
+_paper: _paper:10.1016/0364-5916(94)90023-x:liquid, paper:10.1016/j.calphad.2008.05.005:L, paper:10.1361/105497100770340066:L, paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:CrSi-00Du.tdb:LIQUID, tdb:CrSi-09Che.tdb:LIQUID, tdb:CrSi-17Jac.tdb:LIQUID, tdb:CrSi-24Ior.tdb:LIQUID, tdb:CrSi-94Cou-LB.tdb:LIQUID, tdb:CrSi-95Lee.tdb:LIQUID, tdb:CrSi-99Lee.tdb:LIQUID  
 
 
@@ -806,7 +796,7 @@ _tdb: _tdb:CrSi-00Du.tdb:LIQUID, tdb:CrSi-09Che.tdb:LIQUID, tdb:CrSi-17Jac.tdb:L
 29: CONST LIQUID:L : CR SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1361/105497100770340066](https://doi.org/10.1361/105497100770340066) Yong Du, Julius C. Schuster, Experimental reinvestigation of the CrSi-Si partial system and update of the thermodynamic description of the entire Cr-Si system, JPE 21, 281-286 (2000).  
 _assessment that models this phase; reports values for this phase_
@@ -818,8 +808,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2024.102690](https://doi.org/10.1016/j.calphad.2024.102690) Kazushige Ioroi, Ikuo Ohnuma, Xiao Xu, Ryosuke Kainuma, Toshihiro Omori, Thermodynamic assessment of the Cr–Si binary system, Calphad 85, 102690 (2024).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

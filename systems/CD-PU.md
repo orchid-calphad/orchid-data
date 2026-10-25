@@ -1,10 +1,10 @@
 # Cd–Pu system
 
-> Cd–Pu system: 16 accepted literature values (phase transition 11, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Pu system: 9 accepted literature values (phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-PU.html · Markdown: https://data.orchid-project.org/systems/CD-PU.md
 
-16 accepted literature values from 1 paper(s) (experimental 11, model 5); 1 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (experimental 5, model 4); 1 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-PU.json) · [CSV](https://data.orchid-project.org/systems/CD-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-PU/CdPu-16Hua.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CD-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-PU.html) · [Markdown](https://data.orchid-project.org/systems/CD-PU.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 5 |
+| experimental | 5 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
-| phase transition | 11 |
+| phase transition | 9 |
 
 ## Calculated phase diagrams
 
@@ -56,27 +55,14 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CD/CD-PU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CD/CD-PU.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cd–Pu system (5)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1073 | peritectic |  | experimental | [1] Kurata 2001 | p. 2; `ORC-MTQNUASFIP.8fb915` | “The peritectic temperatures of Cd11Pu, Cd6Pu, and Cd4Pu were 683, 1003, and 1073 K, respectively.” |
-| 1003 | peritectic |  | experimental | [1] Kurata 2001 | p. 2; `ORC-MTQNUASFIP.bc0f51` | “The peritectic temperatures of Cd11Pu, Cd6Pu, and Cd4Pu were 683, 1003, and 1073 K, respectively.” |
-| 683 | peritectic |  | experimental | [1] Kurata 2001 | p. 2; `ORC-MTQNUASFIP.482d08` | “The peritectic temperatures of Cd11Pu, Cd6Pu, and Cd4Pu were 683, 1003, and 1073 K, respectively.” |
-| 679 | peritectic |  | experimental | [1] Kurata 2001 | p. 2; `ORC-GMP2BTR5QA` | “The Cd11Pu decomposed peritectically at 679 K.” |
-| 670 | peritectic |  | model | [1] Kurata 2001 | p. 7; `ORC-EI2R22BAAN.deb943` | “A discontinuity is observed in the Np and Pu curves at approximately 750 and 670 K, respectively. This corresponds to the peritectic temperature.” |
-
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (9)
 
 Table: Phase transition, Cd–Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 669 K | 669 |  | experimental | [1] Kurata 2001 | p. 8; `ORC-T6LRZBVUPH` | “Since the decomposition temperatures of the Cd11M-type compound are 748 and 669 K for the U-Cd and Pu-Cd binary subsystems, respectively, the calculations were carried out at 668 and 718 K.” |
 | Phase transition | 669 K | 669 | Cd11Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 3; `ORC-GXDBUE5NKF` |  |
 | Phase transition | 672 K | 672 | Cd11Pu | experimental | [1] Kurata 2001; _cites Johnson 1966_ | Table 3, p. 5, row 2; `ORC-LODQYOPZM5` |  |
 | Phase transition | 683 K | 683 | Cd11Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 1; `ORC-5UX35FJS2G` |  |
@@ -86,7 +72,6 @@ Table: Phase transition, Cd–Pu system
 | Phase transition | 1073 K | 1073 | Cd4Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 7; `ORC-WBZH3I3YEN` |  |
 | Phase transition | 1218 K | 1218 | Cd2Pu | experimental | [1] Kurata 2001; _cites Massalski 1990_ | Table 3, p. 5, row 8; `ORC-DYR7TVOIGB` |  |
 | Phase transition | 1218 K | 1218 | Cd2Pu | model | [1] Kurata 2001 | Table 3, p. 5, row 9; `ORC-UD3LPQKB4S` |  |
-| Phase transition | 1218 K | 1218 | congruent transformation | experimental | [1] Kurata 2001 | p. 2; `ORC-AKEVZZB7DK` | “The Cd2Pu decomposed congruently at 1218 K.” |
 
 ## Sources
 

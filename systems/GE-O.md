@@ -1,10 +1,10 @@
 # Ge–O system
 
-> Ge–O system: 38 accepted literature values (formation 14, heat capacity / entropy / enthalpy 9, phase transition 8, invariant reaction 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–O system: 30 accepted literature values (formation 14, heat capacity / entropy / enthalpy 9, phase transition 4, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-O.html · Markdown: https://data.orchid-project.org/systems/GE-O.md
 
-38 accepted literature values from 1 paper(s) (experimental 24, model 11, unspecified 3); 2 calculated phase diagram(s).
+30 accepted literature values from 1 paper(s) (experimental 18, model 9, unspecified 3); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-O.json) · [CSV](https://data.orchid-project.org/systems/GE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-O/GeO-15Din.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GE-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-O.html) · [Markdown](https://data.orchid-project.org/systems/GE-O.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
-| model | 11 |
+| experimental | 18 |
+| model | 9 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
-| phase transition | 8 |
+| invariant reaction | 2 |
+| phase transition | 4 |
 | formation | 14 |
 | heat capacity / entropy / enthalpy | 9 |
 | other property | 1 |
@@ -49,16 +49,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–O system (6)
+Table: Invariant reactions reported in the literature for the Ge–O system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1189.53 | eutectic |  | model | [1] Dinsdale 2015 | p. 7; `ORC-6JXZF57WUL.75015e` | “Figure 9 shows the calculated phase diagram for the Ge-GeO2 system showing the eutectic between crystalline Ge and tetragonal GeO2 at 1189.53 K which is in close agreement with the temperature of 1185 K given by Trumbore et al.\[7\]” |
-| 1185 | eutectic |  | experimental | [1] Dinsdale 2015; _cites Trumbore 1956_ | p. 7; `ORC-6JXZF57WUL.843a8d` | “Figure 9 shows the calculated phase diagram for the Ge-GeO2 system showing the eutectic between crystalline Ge and tetragonal GeO2 at 1189.53 K which is in close agreement with the temperature of 1185 K given by Trumbore et al.\[7\]” |
 | 1185 | eutectic |  | experimental | [1] Dinsdale 2015 | p. 1; `ORC-I7ARXPVH4Y` | “Measurements carried out by Trumbore et al. indicate that the stable eutectic involving the lower temperature tetragonal phase should be at 1185 K.” |
-| 1143.15 | eutectic |  | experimental | [1] Dinsdale 2015; _cites Candidus 1955_ [doi](https://doi.org/10.1063/1.1742038) | p. 7; `ORC-C3BBBS6MY3.17b2b4` | “The calculated eutectic temperature of 1127 K is in fair agreement with the value of 1143.15 K postulated by Candidus and Tuomi\[29\] and also by Trumbore et al.\[7\]” |
 | 1143 | eutectic |  | experimental | [1] Dinsdale 2015; _cites Candidus 1955_ [doi](https://doi.org/10.1063/1.1742038) | p. 1; `ORC-DLJY5KG6WD` | “Candidus and Tuomi\[29\] measured the eutectic temperature involving crystalline Ge and GeO2 to be 1143 K.” |
-| 1127 | eutectic |  | model | [1] Dinsdale 2015 | p. 7; `ORC-C3BBBS6MY3.809648` | “The calculated eutectic temperature of 1127 K is in fair agreement with the value of 1143.15 K postulated by Candidus and Tuomi\[29\] and also by Trumbore et al.\[7\]” |
 
 ## Formation enthalpies
 
@@ -85,19 +81,15 @@ Table: Enthalpies of formation, Ge–O system (14)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (4)
 
 Table: Phase transition, Ge–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1281 K | 1281 |  | experimental | [1] Dinsdale 2015; _cites Micoulaut 2006_ [doi](https://doi.org/10.1088/0953-8984/18/45/r01) | p. 1; `ORC-XA3BZAEYZI.8b3381` | “The measurements of Laubengayer and Morton,\[8\] Monnage and Bouaziz\[13\] and Marinov et al.\[14\] are thought to be the most reliable giving a value of 1308 ± 5 K although it has been reported to be a low as 1281 K.\[15\]” |
-| Phase transition | 1293 K | 1293 |  | experimental | [1] Dinsdale 2015; _cites Sarver 1960_ | p. 2; `ORC-7QT7U5B3PN.5a6e89` | “There is some evidence for a metastable a to b transformation in the hexagonal form at 1293 K.\[9\]” |
-| Phase transition | 1308 K | 1308 |  | experimental | [1] Dinsdale 2015; _cites Laubengayer 1932_ | p. 1; `ORC-XA3BZAEYZI.f03f03` | “The measurements of Laubengayer and Morton,\[8\] Monnage and Bouaziz\[13\] and Marinov et al.\[14\] are thought to be the most reliable giving a value of 1308 ± 5 K although it has been reported to be a low as 1281 K.\[15\]” |
 | Phase transition | 1308 K | 1308 | polymorphic: tet → hex; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 4; `ORC-4TD6B2YWIT` |  |
 | Phase transition | 1342.3 K | 1342.3 | congruent transformation: tet → liq; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 6; `ORC-3N7SVS4M2J` |  |
 | Phase transition | 1359 K | 1359 | tetragonal GeO2 | experimental | [1] Dinsdale 2015; _cites Laubengayer 1932_ | p. 2; `ORC-7QT7U5B3PN.ef2de4` | “The metastable melting point of tetragonal GeO2 was reported to be 1359 ± 5 K by Laubengayer and Morton.\[8\]” |
-| Phase transition | 1388 K | 1388 |  | experimental | [1] Dinsdale 2015; _cites Hill 1968_ | p. 2; `ORC-QWDU625L2X` | “The temperature of fusion has been determined by,\[12-14,30-32\] yielding an average value of 1388 K.” |
 | Phase transition | 1388 K | 1388 | congruent transformation: hex → liq; _alloy: O 0.666667_ | unspecified | [1] Dinsdale 2015 | Table 6, p. 5, row 5; `ORC-NDUBZG7RH3` |  |
 
 ### Heat capacity / entropy / enthalpy (9)

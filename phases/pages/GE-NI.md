@@ -26,7 +26,7 @@ Table: Phases of the Ge–Ni system (15)
 | [GENI3_B32](#phase-ge-ni-geni3-b32); _phase:ge-ni:geni3-b32_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1355.44–1391.28 K, x(Ni) 0.744–0.744 | 21 | 2 |
 | [GENI3_L12](#phase-ge-ni-geni3-l12); _phase:ge-ni:geni3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1398.91 K, x(Ni) 0.75–0.76702 | 0 | 1 |
 | [HCP_A3](#phase-ge-ni-hcp-a3); _phase:ge-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ge-ni-liquid); _phase:ge-ni:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1032.01–2500 K, x(Ni) 0–1 | 48 | 2 |
+| [LIQUID](#phase-ge-ni-liquid); _phase:ge-ni:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1032.01–2500 K, x(Ni) 0–1 | 50 | 2 |
 
 ## DIAMOND_A4 (Ge–Ni)
 
@@ -570,11 +570,11 @@ _assessment that models this phase_
 - Id: `phase:ge-ni:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1032.01–2500 K, x(Ni) 0–1
-- Literature: 48 values (47 accepted) from 2 papers
+- Literature: 50 values (49 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-ni:liquid)
 
-Names (7): _corpus: _corpus:phase:ge-ni:liquid  
-_paper: _paper:10.1016/j.calphad.2012.03.003:L, paper:10.1016/j.calphad.2012.03.003:Liquid, paper:10.1016/j.calphad.2012.03.003:liquid, paper:10.1016/j.jallcom.2009.11.036:L  
+Names (8): _corpus: _corpus:phase:ge-ni:liquid  
+_paper: _paper:10.1016/j.calphad.2012.03.003:L, paper:10.1016/j.calphad.2012.03.003:Liquid, paper:10.1016/j.calphad.2012.03.003:liquid, paper:10.1016/j.jallcom.2009.11.036:L, paper:10.1016/j.jallcom.2009.11.036:liquid  
 _tdb: _tdb:GeNi-10Liu.tdb:LIQUID, tdb:GeNi-12Jin.tdb:LIQUID  
 
 

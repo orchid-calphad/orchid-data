@@ -1,10 +1,10 @@
 # Os–Pt system
 
-> Os–Pt system: 3 accepted literature values (phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Os–Pt system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/OS-PT.html · Markdown: https://data.orchid-project.org/systems/OS-PT.md
 
-3 accepted literature values from 1 paper(s) (experimental 1, model 2); 1 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/OS-PT.json) · [CSV](https://data.orchid-project.org/systems/OS-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#OS-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#OS-PT/OsPt-21Jou.json) · [phases (4)](https://data.orchid-project.org/phases/pages/OS-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/OS-PT.html) · [Markdown](https://data.orchid-project.org/systems/OS-PT.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 2 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 3 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -41,14 +40,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (1)
 
 Table: Phase transition, Os–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3306 K | 3306 |  | experimental | [1] Joubert 2021 | p. 4; `ORC-42C7MS3OYL.b49695` | “We stick to the SGTE description with a melting point at 3306 K while Arblaster \[52\] and Burakowsky et al. \[47\] think it is the value for impure Os and propose a higher value around 3400 K.” |
-| Phase transition | 3400 K | 3400 |  | model | [1] Joubert 2021; _cites ref. 47_ | p. 4; `ORC-42C7MS3OYL.ff0e02` | “We stick to the SGTE description with a melting point at 3306 K while Arblaster \[52\] and Burakowsky et al. \[47\] think it is the value for impure Os and propose a higher value around 3400 K.” |
 | Phase transition | 5200 K | 5200 | hcp + fcc | model | [1] Joubert 2021 | p. 7; `ORC-TIG2FOHHTW` | “It is shown that, according to the SGTE database, fcc Os is stable over hcp at 5200 K.” |
 
 ## Sources

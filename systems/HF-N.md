@@ -1,10 +1,10 @@
 # Hf–N system
 
-> Hf–N system: 7 accepted literature values (phase transition 3, invariant reaction 2, formation 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–N system: 1 accepted literature values (formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-N.html · Markdown: https://data.orchid-project.org/systems/HF-N.md
 
-7 accepted literature values from 1 paper(s) (experimental 5, model 2); 1 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-N.json) · [CSV](https://data.orchid-project.org/systems/HF-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-N/HfN-18Pan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/HF-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-N.html) · [Markdown](https://data.orchid-project.org/systems/HF-N.md)
 
@@ -12,16 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
-| model | 2 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
-| phase transition | 3 |
-| formation | 2 |
+| formation | 1 |
 
 ## Calculated phase diagrams
 
@@ -46,37 +43,15 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/HF/HF-N.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/HF/HF-N.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Hf–N system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 3184.15 | peritectic |  | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 1; `ORC-DU3TI3EZ4M` | “The Hcp solid solution with about 28 at. % N peritectically melts to form liquid plus Fcc phases at 2911 oC \[22\].” |
-| 2463.15 | eutectic |  | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 2; `ORC-4J5NE3VCTO` | “The temperature of the eutectic reaction among liquid, Hcp and Bcc phases is 2190 oC \[22\].” |
-
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Hf–N system (2)
+Table: Enthalpies of formation, Hf–N system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -187.23 unspecified | 298.15 | model |  |  | [1] Pang 2018; _cites Mulokozi 1981_ | p. 3; `ORC-AL6GLWJ52P` | “The enthalpy of formation for HfN1.0 at 298 K calculated by Mulokozi \[39\] was -187.23 kJ/mol-atoms.” |
-| — |  | 184.6 unspecified ± 0.7 | 298.15 | experimental |  |  | [1] Pang 2018; _cites Humphrey 1953_ | p. 3; `ORC-XWFT5K56VA` | “Humphrey \[38\] determined the heat of formation for hafnium mononitride at 298 K to be 184.6±0.7 kJ/mol-atoms by combustion calorimetry.” |
-
-## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Hf–N system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 3273.15 K | 3273.15 |  | experimental | [1] Pang 2018; _cites Nowotny 1960_ | p. 2; `ORC-D2XF7O3TPL` | “The melting point of Fcc phase is 3000 oC according to Nowotny et al. \[24\].” |
-| Phase transition | 3639 K | 3639 |  | model | [1] Pang 2018 | p. 5; `ORC-OEZC4FDVP4` | “The calculated melting point of Fcc phase at 1 bar N2 pressure is 3639 K, which is 21 K lower than the experimental value reported by Booker and Brukl \[22\].” |
-| Phase transition | 3660.15 K | 3660.15 | congruent transformation | experimental | [1] Pang 2018; _cites Booker 1969_ | p. 2; `ORC-TUEQBPZ7NJ` | “However, Booker and Brukl \[22\] reported that the congruent melting point of Fcc phase is 3387 oC at 49 at. % N under 2 bar pressure of Ar.” |
+| HfN1.0 |  | -187.23 unspecified | 298.15 | model |  |  | [1] Pang 2018; _cites Mulokozi 1981_ | p. 3; `ORC-AL6GLWJ52P` | “The enthalpy of formation for HfN1.0 at 298 K calculated by Mulokozi \[39\] was -187.23 kJ/mol-atoms.” |
 
 ## Sources
 

@@ -15,12 +15,12 @@ Table: Phases of the Cu–O system (10)
 | [BCC_A2](#phase-cu-o-bcc-a2); _phase:cu-o:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 5 |
 | [CUPRITE_C3](#phase-cu-o-c3-cuprite); _phase:cu-o:c3-cuprite_ | Cu2O · C3 · cP6 · Pn-3m (224) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1094.79 K, x(O) 0.33333–0.33333 | 84 | 5 |
 | [CU4O3](#phase-cu-o-cu4o3); _phase:cu-o:cu4o3_ | Cu4O3 · tI28 · I4_1/amd (141) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 2 calculated diagram(s) | 0 | 3 |
-| [CUO](#phase-cu-o-cuo); _phase:cu-o:cuo_ | CuO · B26 · mC8 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–416 K, x(O) 0.5–0.5 | 73 | 5 |
+| [CUO](#phase-cu-o-cuo); _phase:cu-o:cuo_ | CuO · B26 · mC8 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–416 K, x(O) 0.5–0.5 | 76 | 5 |
 | [FCC_A1](#phase-cu-o-fcc-a1); _phase:cu-o:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1357.77 K, x(O) 0–0.00019 | 0 | 5 |
 | [GAS](#phase-cu-o-gas); _phase:cu-o:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 1382.32–2500 K, x(O) 0.92505–1 | 0 | 5 |
 | [HCP_A3](#phase-cu-o-hcp-a3); _phase:cu-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 5 |
 | [ION](#phase-cu-o-ion); _phase:cu-o:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1342.77–2500 K, x(O) 0–0.39143 | 0 | 3 |
-| [LIQUID](#phase-cu-o-liquid); _phase:cu-o:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1342.77–2500 K, x(O) 0–0.33882 | 16 | 2 |
+| [LIQUID](#phase-cu-o-liquid); _phase:cu-o:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1342.77–2500 K, x(O) 0–0.33882 | 18 | 2 |
 | [O2GAS](#phase-cu-o-o2gas); _phase:cu-o:o2gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 300–416 K, x(O) 1–1 | 0 | 5 |
 
 ## BCC_A2 (Cu–O)
@@ -214,7 +214,7 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 2 of 2 calculated diagram(s): 300–416 K, x(O) 0.5–0.5
-- Literature: 73 values (69 accepted) from 2 papers
+- Literature: 76 values (70 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-o:cuo)
 
 Names (8): _corpus: _corpus:phase:cu-o:cuo  
@@ -518,11 +518,11 @@ _assessment that models this phase_
 - Id: `phase:cu-o:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1342.77–2500 K, x(O) 0–0.33882
-- Literature: 16 values (16 accepted) from 1 papers
+- Literature: 18 values (16 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-o:liquid)
 
-Names (5): _corpus: _corpus:phase:cu-o:liquid  
-_paper: _paper:10.1007/bf02649399:L2, paper:10.1007/bf02649399:liquid  
+Names (6): _corpus: _corpus:phase:cu-o:liquid  
+_paper: _paper:10.1007/bf02649399:L2, paper:10.1007/bf02649399:liquid, paper:10.1361/154770305x74421:liquid  
 _tdb: _tdb:CuO-14Mag.tdb:LIQUID, tdb:CuO-92Bou.tdb:LIQUID  
 
 
@@ -542,13 +542,15 @@ _tdb: _tdb:CuO-14Mag.tdb:LIQUID, tdb:CuO-92Bou.tdb:LIQUID
 40: CONST LIQUID:L : CU CU2O O : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (10 of 10; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.09.004](https://doi.org/10.1016/j.calphad.2014.09.004) Hans Magnusson, Karin Frisk, Thermodynamic evaluation of the copper-rich part of the CuHOSP system at low temperatures, Calphad 47, 148-160 (2014).  
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) Z. Metallkd., 83, 663-68(1992).  
 _assessment that models this phase_
 - [doi:10.1007/bf02649399](https://doi.org/10.1007/bf02649399) B. Hallstedt, D. Risold, L. J. Gauckler, Thermodynamic assessment of the copper-oxygen system, JPE 15, 483-499 (1994).  
+_reports values for this phase_
+- [doi:10.1361/154770305x74421](https://doi.org/10.1361/154770305x74421) L. Schramm, G. Behr, W. Löser, K. Wetzig, Thermodynamic Reassessment of the Cu-O Phase Diagram, Journal of Phase Equilibria &amp; Diffusion 26, 605-612 (2005).  
 _reports values for this phase_
 - [doi:10.1007/bf02654367](https://doi.org/10.1007/bf02654367) Rainer Schmid, A thermodynamic analysis of the Cu-O system with an associated solution model, Metall Trans B 14, 473-481 (1983).  
 _cited as the source of values for this phase_

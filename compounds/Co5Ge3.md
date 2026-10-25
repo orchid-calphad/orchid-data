@@ -51,7 +51,7 @@ Table: Uncertainty budget of the literature values of Co5Ge3
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -20.136 | per mol-atom | 1179 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1179 |
 | -20.136 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -19.6 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -19.6 | kJ/mol-atom |  | 5.000e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -19 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -17.237 | per mol-atom | 845 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 845 |
 | -17.237 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |

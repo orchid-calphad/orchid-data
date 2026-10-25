@@ -1,10 +1,10 @@
 # Fe–Gd system
 
-> Fe–Gd system: 147 accepted literature values (invariant reaction 69, phase transition 33, formation 32, heat capacity / entropy / enthalpy 13) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Gd system: 144 accepted literature values (invariant reaction 68, formation 32, phase transition 31, heat capacity / entropy / enthalpy 13) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-GD.html · Markdown: https://data.orchid-project.org/systems/FE-GD.md
 
-147 accepted literature values from 3 paper(s) (experimental 94, model 53); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+144 accepted literature values from 3 paper(s) (experimental 91, model 53); 6 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-GD.json) · [CSV](https://data.orchid-project.org/systems/FE-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-GD/FeGd-00Zin.json) · [phases (11)](https://data.orchid-project.org/phases/pages/FE-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-GD.html) · [Markdown](https://data.orchid-project.org/systems/FE-GD.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 94 |
+| experimental | 91 |
 | model | 53 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 69 |
-| phase transition | 33 |
+| invariant reaction | 68 |
+| phase transition | 31 |
 | formation | 32 |
 | heat capacity / entropy / enthalpy | 13 |
 
@@ -163,7 +163,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Gd system (69)
+Table: Invariant reactions reported in the literature for the Fe–Gd system (68)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -228,14 +228,13 @@ Table: Invariant reactions reported in the literature for the Fe–Gd system (69
 | 1183 | f.c.c. + Fe17Gd2 -> b.c.c. | Fe17Gd2: Gd 0.105263 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 24; `ORC-3KCNYVYPYE` |  |
 | 1133 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.7; Fe2Gd: Gd 0.333333 | experimental | [2] Zinkevich 2002; _cites Novy 1961_ | Table 2, p. 3, row 25; `ORC-O36MJAGJPH` |  |
 | 1133 | Liquid \<-> Fe2Gd + αGd | Liquid: Gd 0.7; Fe2Gd: Gd 0.333; αGd: Gd 1 | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 13; `ORC-VPHYHCSCIU` |  |
-| 1118 | liq. -> Fe2Gd + h.c.p. | Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 20; `ORC-3QGRPWDIJP` |  |
+| 1118 | eutectic: liq. -> Fe2Gd + h.c.p. | Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites Copeland 1962_ | Table 3, p. 4, row 20; `ORC-3QGRPWDIJP` |  |
 | 1105 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.736; Fe2Gd: Gd 0.333333 | model | [2] Zinkevich 2002; _cites Liu 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901578-7) | Table 2, p. 3, row 26; `ORC-7FRZO6DNUS` |  |
-| 1105 | liq. -> Fe2Gd + h.c.p. | L: Gd 0.736; Fe2Gd: Gd 0.333333 | model | [1] Liu 1995 | Table 3, p. 4, row 18; `ORC-K5A4XJSJP4` |  |
-| 1103 | liq. -> Fe2Gd + h.c.p. | Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 19; `ORC-3EDFCRWVDP` |  |
+| 1105 | eutectic: liq. -> Fe2Gd + h.c.p. | L: Gd 0.736; Fe2Gd: Gd 0.333333 | model | [1] Liu 1995 | Table 3, p. 4, row 18; `ORC-K5A4XJSJP4` |  |
+| 1103 | eutectic: liq. -> Fe2Gd + h.c.p. | Fe2Gd: Gd 0.333333 | experimental | [1] Liu 1995; _cites ref. 27_ | Table 3, p. 4, row 19; `ORC-3EDFCRWVDP` |  |
 | 1103 | Liquid \<-> Fe2Gd + αGd | Liquid: Gd 0.72; Fe2Gd: Gd 0.333; αGd: Gd 0.999 | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 12; `ORC-EGMZAMBAJR` |  |
 | 1103 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.726; Fe2Gd: Gd 0.333333; αGd: Gd 1 | model | [2] Zinkevich 2002 | Table 2, p. 3, row 27; `ORC-SG6KBKU62G` |  |
 | 1103 | eutectic: liquid \<=> Fe2Gd + αGd | liquid: Gd 0.72; Fe2Gd: Gd 0.333333; αGd: Gd 0.999 | experimental | [2] Zinkevich 2002; _cites Savitskii 1961_ | Table 2, p. 3, row 24; `ORC-SGSQ35HACA` |  |
-| 1103 | eutectic |  | experimental | [2] Zinkevich 2002 | p. 8; `ORC-XQSETY4EPT` | “The use of a ternary interaction parameter 0LFe,Gd,Mo was necessary to treat the stability of a liquid phase in the Fe-Gd-Mo system down to 923 K, i.e., 180 K below the lowest eutectic temperature in the binary systems (Fe-Gd, 1103 K).” |
 
 ## Formation enthalpies
 
@@ -280,7 +279,7 @@ Table: Enthalpies of formation, Fe–Gd system (32)
 
 ## Other properties
 
-### Phase transition (33)
+### Phase transition (31)
 
 Table: Phase transition, Fe–Gd system
 
@@ -292,7 +291,6 @@ Table: Phase transition, Fe–Gd system
 | Phase transition | 782 K | 782 | magnetic: Fe2Gd; _alloy: Gd 0.333333_ | experimental | [1] Liu 1995 | Table 4, p. 4, row 1; `ORC-DIKBV63VWJ` |  |
 | Phase transition | 973 K | 973 | αFe + Fe17Gd2; _αFe: Gd 0; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 38; `ORC-KTX7EO5GGY` |  |
 | Phase transition | 973 K | 973 | αGd + Fe2Gd; _αGd: Gd 0.994; Fe2Gd: Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 39; `ORC-I6LVDZ2PYW` |  |
-| Phase transition | 1078 K | 1078 | Gd (s) 1 2Fe (s) 5 Fe2Gd (s) | experimental | [3] Zinkevich 2000; _cites Deodhar 1975_ | p. 3; `ORC-ZJEMLX2UOX` | “The enthalpy of formation of the Fe2Gd compound was determined by Deodhar and Ficalora \[1975Deo\] by differential thermal analysis as a heat of exothermic synthesis reaction: Gd (s) 1 2Fe (s) 5 Fe2Gd (s), which began at 1078 K in a sealed quartz vial.” |
 | Phase transition | 1164 K | 1164 | Liquid + αGd; _Liquid: Gd 0.75; αGd: Gd 1_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 36; `ORC-ZUHSQ2MZVO` |  |
 | Phase transition | 1187 K | 1187 | Liquid + Fe2Gd; _Liquid: Gd 0.64; Fe2Gd: Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 35; `ORC-VBL2OFJRHF` |  |
 | Phase transition | 1187 K | 1187 | γFe + αFe; _γFe: Gd 0.001; αFe: Gd 0.002_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1970_ | Table 1, p. 2, row 27; `ORC-BRSKAC6L7O` |  |
@@ -302,7 +300,6 @@ Table: Phase transition, Fe–Gd system
 | Phase transition | 1424 K | 1424 | Liquid + Fe17Gd2; _Liquid: Gd 0.453; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 31; `ORC-B4L27SFZOC` |  |
 | Phase transition | 1464 K | 1464 | Liquid + Fe17Gd2; _Liquid: Gd 0.403; Fe17Gd2: Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Savitskii 1961_ | Table 1, p. 2, row 30; `ORC-5P5X6N7QR6` |  |
 | Phase transition | 1482 K | 1482 | Liquid + αGd; _Liquid: Gd 0.93; αGd: Gd 1_ | experimental | [3] Zinkevich 2000; _cites Novy 1961_ | Table 1, p. 2, row 37; `ORC-EX7VEN4JXM` |  |
-| Phase transition | 1488 K | 1488 |  | experimental | [2] Zinkevich 2002; _cites Atiq 1990_ | p. 15; `ORC-I2I5IQ3GRL` | “A phase transition between the hexagonal and rhombohedral modifications of Fe17Gd2 at 1488 K was determined only in binary system Fe-Gd \[7\].” |
 | Phase transition | 1488 K | 1488 | Fe17Gd2 (r) + Fe17Gd2 (h); _Fe17Gd2 (r): Gd 0.105; Fe17Gd2 (h): Gd 0.105_ | experimental | [3] Zinkevich 2000; _cites Atiq 1990_ [doi](https://doi.org/10.1179/mst.1990.6.8.778) | Table 1, p. 2, row 32; `ORC-BGHHP2LFQJ` |  |
 | Phase transition | 1488 K | 1488 | polymorphic: Fe17Gd2(H) \<=> Fe17Gd2(R); _Fe17Gd2(H): Gd 0.105263; Fe17Gd2(R): Gd 0.105263_ | experimental | [2] Zinkevich 2002; _cites Atiq 1990_ | Table 2, p. 3, row 31; `ORC-LXCM3WZNOM` |  |
 | Phase transition | 1488 K | 1488 | polymorphic: Fe17Gd2(H) \<=> Fe17Gd2(R); _Fe17Gd2(H): Gd 0.105263; Fe17Gd2(R): Gd 0.105263_ | model | [2] Zinkevich 2002 | Table 2, p. 3, row 32; `ORC-WFU6RNZAXX` |  |

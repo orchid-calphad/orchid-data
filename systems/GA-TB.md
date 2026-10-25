@@ -79,7 +79,7 @@ Table: Invariant reactions reported in the literature for the Ga–Tb system (18
 | 670 | peritectic |  | experimental | [1] Jun 2008; _cites Pelleg 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990266-6) | p. 2; `ORC-XN4GQFLSXK` | “Later, Pelleg \[24\] investigated the phase Ga6 Tb by XRD and DTA method and found that Ga6 Tb formed through a peritectic reaction at 670 K.” |
 | 670 | peritectic: L + Ga3Tb -> Ga6Tb | L: Ga 0.998; Ga3Tb: Ga 0.75, Tb 0.25; Ga6Tb: Ga 0.857143, Tb 0.142857 | model | [1] Jun 2008 | Table 4, p. 4, row 10; `ORC-XUBICGSVRG` |  |
 | 303 | eutectic: L -> orth (Ga) + Ga6Tb | L: Ga 0.01; Ga6Tb: Ga 0.857143, Tb 0.142857 | model | [1] Jun 2008 | Table 4, p. 4, row 14; `ORC-7KGZL42FQY` |  |
-| 303 | L -> orth (Ga) + Ga6Tb | Ga6Tb: Ga 0.857143, Tb 0.142857 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 13; `ORC-GUVA3NONAN` |  |
+| 303 | eutectic: L -> orth (Ga) + Ga6Tb | Ga6Tb: Ga 0.857143, Tb 0.142857 | experimental | [1] Jun 2008; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 4, row 13; `ORC-GUVA3NONAN` |  |
 
 ## Other properties
 

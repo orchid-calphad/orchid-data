@@ -1,19 +1,21 @@
 # GeMg2: enthalpy of formation
 
-> Enthalpy of formation of GeMg2: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of GeMg2: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/GeMg2.html · Markdown: https://data.orchid-project.org/compounds/GeMg2.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -38.409 kJ/mol-atom (n = 1); Materials Project -25.946 kJ/mol-atom (mp-aaaaaaps); OQMD -26.833 kJ/mol-atom (oqmd-646873).
+4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -38.409 kJ/mol-atom (n = 1); Materials Project -25.946 kJ/mol-atom (mp-aaaaaaps); OQMD -26.833 kJ/mol-atom (oqmd-646873).
 
 Systems: [Ge–Mg](https://data.orchid-project.org/systems/GE-MG.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of GeMg2 reported in the literature (2)
+Table: Enthalpy of formation of GeMg2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -115.37 unspecified ± 0.25 | Mg2Ge | 298.15 | experimental |  | [Ge–Mg](https://data.orchid-project.org/systems/GE-MG.html) | [1] Islam 2006; _cites Beardmore 1966_ | p. 5; `ORC-OW7BGO2K5U.a495c1` | “They found that the heat of formation of Mg2 Ge at 298 K from the solid elements is -104.23 ± 1.26 kJ, whereas Beardmore et al. \[30\] reported the same as -115.37 ± 0.25 kJ, showing a disagreement between the two values.” |
+| -104.23 unspecified ± 1.26 | Mg2Ge | 298.15 | experimental | EMF | [Ge–Mg](https://data.orchid-project.org/systems/GE-MG.html) | [1] Islam 2006 | p. 5; `ORC-OW7BGO2K5U.d7667b` | “They found that the heat of formation of Mg2 Ge at 298 K from the solid elements is -104.23 ± 1.26 kJ, whereas Beardmore et al. \[30\] reported the same as -115.37 ± 0.25 kJ, showing a disagreement between the two values.” |
 | -38.409 kJ/mol-atom ± 0.0837 | Mg2Ge | 273 | experimental | Solution calorimetry | [Ge–Mg](https://data.orchid-project.org/systems/GE-MG.html) | [1] Islam 2006; _cites Bever 1964_ | Table 3, p. 5, row 4; `ORC-DY5S7B6XOQ` |  |
 | -39.3728 kJ/mol-atom | Mg2Ge | 298.15 | model | Thermodynamic modeling | [Ge–Mg](https://data.orchid-project.org/systems/GE-MG.html) | [1] Islam 2006 | Table 3, p. 5, row 6; `ORC-CHNOD5UYR2` |  |
 
@@ -25,7 +27,9 @@ Table: Uncertainty budget of the literature values of GeMg2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -38.409 | kJ/mol-atom | 0.0837 | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -115.37 | unspecified | 0.25 | 0.005 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 0.25 |
+| -104.23 | unspecified | 1.26 | 0.005 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 1.26 |
+| -38.409 | kJ/mol-atom | 0.0837 | 5.000e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -39.3728 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies

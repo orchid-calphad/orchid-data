@@ -1,10 +1,10 @@
 # Al–Ir system
 
-> Al–Ir system: 117 accepted literature values (crystal structure 59, formation 25, invariant reaction 17, phase equilibrium 15) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ir system: 116 accepted literature values (crystal structure 59, formation 25, invariant reaction 17, phase equilibrium 15) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-IR.html · Markdown: https://data.orchid-project.org/systems/AL-IR.md
 
-117 accepted literature values from 3 paper(s) (experimental 44, model 37, DFT 32, unspecified 4); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+116 accepted literature values from 3 paper(s) (experimental 43, model 37, DFT 32, unspecified 4); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-IR.json) · [CSV](https://data.orchid-project.org/systems/AL-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-IR/AlIr-06Jia.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-IR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-IR.html) · [Markdown](https://data.orchid-project.org/systems/AL-IR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 44 |
+| experimental | 43 |
 | model | 37 |
 | DFT | 32 |
 | unspecified | 4 |
@@ -22,7 +22,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 17 |
-| phase transition | 1 |
 | phase equilibrium | 15 |
 | formation | 25 |
 | crystal structure | 59 |
@@ -169,14 +168,6 @@ Table: Enthalpies of formation, Al–Ir system (25)
 | B2-AlIr | [AlIr](https://data.orchid-project.org/compounds/AlIr.html) | -118 kJ/mol-atom | 298.15 | experimental | -92.527 (mp-aaaaacun) | -91.306 (oqmd-10480) | [2] Abe 2008; _cites Ode 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2005.01.020) | Table 2, p. 3, row 20; `ORC-V3S6RNGLPA.43a09d` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Al–Ir system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 2393.15 K | 2393.15 | congruent transformation | experimental | [3] ZHANG 2008; _cites Axler 1989_ | p. 1; `ORC-Y4SNJ4Y3CO` | “Lattice parameters of B2 single crystals were obtained by Axler and Roof \[11\] and the congruent melting point of B2 phase was reported to be about 2120 °C \[12\].” |
 
 ### Phase equilibrium (15)
 

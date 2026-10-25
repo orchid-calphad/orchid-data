@@ -1,10 +1,10 @@
 # Ge–Sn system
 
-> Ge–Sn system: 11 accepted literature values (mixing / partial 10, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Sn system: 10 accepted literature values (mixing / partial 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-SN.html · Markdown: https://data.orchid-project.org/systems/GE-SN.md
 
-11 accepted literature values from 3 paper(s) (experimental 10, model 1); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+10 accepted literature values from 3 paper(s) (experimental 9, model 1); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SN.json) · [CSV](https://data.orchid-project.org/systems/GE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SN/GeSn-79Ans.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GE-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-SN.html) · [Markdown](https://data.orchid-project.org/systems/GE-SN.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
+| experimental | 9 |
 | model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
 | mixing / partial | 10 |
 
 ## Calculated phase diagrams
@@ -46,14 +45,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GE/GE-SN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GE/GE-SN.json) · [CALPHAD hull GeSn-79Ans](https://data.orchid-project.org/hulls/calphad-sgte/GE/GE-SN--GeSn-79Ans.json)
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ge–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 804.45 K | 804.45 | other | experimental | [1] Feutelais 1996 | p. 2; `ORC-26TCTV3VBX` | “In their study of the ternary system Au-Ge-Sn, (SZMOU\] obtained by DSC measurements on purified samples carefully weighed, an invariant temperature of 231.1"C and a liquidus temperature of 531.3"C for the composition Xsn = .90.” |
 
 ### Mixing / partial (10)
 

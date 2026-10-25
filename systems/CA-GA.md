@@ -1,10 +1,10 @@
 # Ca–Ga system
 
-> Ca–Ga system: 104 accepted literature values (invariant reaction 44, crystal structure 39, formation 14, phase transition 7) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Ga system: 97 accepted literature values (invariant reaction 40, crystal structure 39, formation 11, phase transition 7) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-GA.html · Markdown: https://data.orchid-project.org/systems/CA-GA.md
 
-104 accepted literature values from 2 paper(s) (experimental 40, model 25, DFT 27, unspecified 12); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+97 accepted literature values from 2 paper(s) (experimental 35, model 23, DFT 27, unspecified 12); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-GA.json) · [CSV](https://data.orchid-project.org/systems/CA-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-GA/CaGa-07Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/CA-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-GA.html) · [Markdown](https://data.orchid-project.org/systems/CA-GA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 40 |
-| model | 25 |
+| experimental | 35 |
+| model | 23 |
 | DFT | 27 |
 | unspecified | 12 |
 
@@ -21,9 +21,9 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 44 |
+| invariant reaction | 40 |
 | phase transition | 7 |
-| formation | 14 |
+| formation | 11 |
 | crystal structure | 39 |
 
 ## Calculated phase diagrams
@@ -129,21 +129,17 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ca–Ga system (44)
+Table: Invariant reactions reported in the literature for the Ca–Ga system (40)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1253.15 | CaGa2 + Liquid -> Ca25Ga59 | CaGa2: Ga 0.667; L: Ga 0.71; Ca25Ga59: Ga 0.702 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 13; `ORC-GECI4WTX65` |  |
 | 1253.15 | CaGa2 + Liquid -> Ca25Ga59 | CaGa2: Ga 0.693; L: Ga 0.711; Ca25Ga59: Ga 0.702 | model | [1] Li 2013 | Table 6, p. 8, row 14; `ORC-NVXTWFYB7P` |  |
 | 1253.15 | CaGa2 + L -> Ca25Ga39 | CaGa2: Ga 0.667; L: Ga 0.71; Ca25Ga39: Ga 0.702 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 16; `ORC-PTTMNAJRVR` |  |
-| 1253.15 | peritectic |  | experimental | [2] Wang 2007 | p. 2; `ORC-RQ7BACQYM7.231e2f` | “The peritectic temperatures of 980 ◦ C and 930 ◦ C have been tentatively assigned to CaGa2+x and Ca3 Ga8 , respectively.” |
-| 1242.15 | peritectic |  | model | [2] Wang 2007 | p. 4; `ORC-RZE2U5TWZP.dec908` | “It is to be noted that the peritectic temperatures of Ca25 Ga59 and Ca3 Ga8 were not determined by any experimental work, then the calculated values of 969 ◦ C and 893 ◦ C were obtained” |
 | 1242.15 | CaGa2 + L -> Ca25Ga39 | CaGa2: Ga 0.667; L: Ga 0.713; Ca25Ga39: Ga 0.702 | model | [2] Wang 2007 | Table 3, p. 4, row 15; `ORC-Z5JOLAXO5O` |  |
 | 1203.15 | Ca25Ga39 + L -> Ca3Ga8 | Ca25Ga39: Ga 0.702; L: Ga 0.73; Ca3Ga8: Ga 0.727 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 18; `ORC-C74BZUFMFG` |  |
-| 1203.15 | peritectic |  | experimental | [2] Wang 2007 | p. 2; `ORC-RQ7BACQYM7.d7425b` | “The peritectic temperatures of 980 ◦ C and 930 ◦ C have been tentatively assigned to CaGa2+x and Ca3 Ga8 , respectively.” |
 | 1203.15 | Ca25Ga59 + Liquid -> Ca3Ga8 | Ca25Ga59: Ga 0.702; L: Ga 0.73; Ca3Ga8: Ga 0.727 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 15; `ORC-V77BKUENQW` |  |
 | 1198.15 | Ca25Ga59 + Liquid -> Ca3Ga8 | Ca25Ga59: Ga 0.777; L: Ga 0.78; Ca3Ga8: Ga 0.727 | model | [1] Li 2013 | Table 6, p. 8, row 16; `ORC-JRLF5TMQS5` |  |
-| 1166.15 | peritectic |  | model | [2] Wang 2007 | p. 4; `ORC-RZE2U5TWZP.9e1470` | “It is to be noted that the peritectic temperatures of Ca25 Ga59 and Ca3 Ga8 were not determined by any experimental work, then the calculated values of 969 ◦ C and 893 ◦ C were obtained” |
 | 1166.15 | Ca25Ga39 + L -> Ca3Ga8 | Ca25Ga39: Ga 0.702; L: Ga 0.781; Ca3Ga8: Ga 0.727 | model | [2] Wang 2007 | Table 3, p. 4, row 17; `ORC-SWL2CHJZPJ` |  |
 | 1147.15 | Liquid + CaGa2 -> Ca3Ga5 | L: Ga 0.554; CaGa2: Ga 0.667; Ca3Ga5: Ga 0.625 | model | [1] Li 2013 | Table 6, p. 8, row 12; `ORC-537AG2FAZO` |  |
 | 1146.15 | L + CaGa2 -> Ca3Ga5 | L: Ga 0.555; CaGa2: Ga 0.667; Ca3Ga5: Ga 0.625 | model | [2] Wang 2007 | Table 3, p. 4, row 11; `ORC-HMPBOZGEVJ` |  |
@@ -169,26 +165,23 @@ Table: Invariant reactions reported in the literature for the Ca–Ga system (44
 | 820.15 | L + Ca5Ga3 -> Ca28Ga11 | L: Ga 0.201; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | model | [2] Wang 2007 | Table 3, p. 4, row 3; `ORC-TVGZBG22GA` |  |
 | 818.15 | Liquid + Ca5Ga3 ↔ Ca28Ga11 | Liquid: Ga 0.2; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 3; `ORC-FNL47U4F4B` |  |
 | 818.15 | L + Ca5Ga3 -> Ca28Ga11 | L: Ga 0.2; Ca5Ga3: Ga 0.375; Ca28Ga11: Ga 0.282 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 4; `ORC-LLI3LRVBJM` |  |
-| 787.15 | L -> Ca + Ca28Ga11 | L: Ga 0.161; Ca: Ga 0; Ca28Ga11: Ga 0.282 | model | [2] Wang 2007 | Table 3, p. 4, row 1; `ORC-TNZPLNMLAD` |  |
-| 785.15 | Liquid -> (Ca) + Ga28Ca11 | L: Ga 0.161; (Ca): Ga 0; Ga28Ca11: Ga 0.282 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 1; `ORC-HHDYZ54BTY` |  |
-| 785.15 | L -> Ca + Ca28Ga11 | L: Ga 0.161; Ca: Ga 0; Ca28Ga11: Ga 0.282 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 2; `ORC-HNM53CFIEB` |  |
-| 773.15 | Liquid -> (Ca) + Ga28Ca11 | L: Ga 0.186; (Ca): Ga 0; Ga28Ca11: Ga 0.282 | model | [1] Li 2013 | Table 6, p. 8, row 2; `ORC-TH5Q7VD4UC` |  |
-| 303.15 | Liquid -> CaGa4 + (Ga) | L: Ga 1; CaGa4: Ga 0.8; (Ga): Ga 1 | model | [1] Li 2013 | Table 6, p. 8, row 20; `ORC-NZ2XL3IR2I` |  |
-| 302.15 | Liquid -> CaGa4 + (Ga) | L: Ga 0.994; CaGa4: Ga 0.8; (Ga): Ga 1 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 19; `ORC-TKQKT2ZQFG` |  |
-| 302.15 | L -> CaGa4 + Ga | L: Ga 0.994; CaGa4: Ga 0.8; Ga: Ga 1 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 22; `ORC-UREZRIKSN3` |  |
-| 301.85 | L -> CaGa4 + Ga | L: Ga 0.994; CaGa4: Ga 0.8; Ga: Ga 1 | model | [2] Wang 2007 | Table 3, p. 4, row 21; `ORC-OBWRE3CYMS` |  |
+| 787.15 | eutectic: L -> Ca + Ca28Ga11 | L: Ga 0.161; Ca: Ga 0; Ca28Ga11: Ga 0.282 | model | [2] Wang 2007 | Table 3, p. 4, row 1; `ORC-TNZPLNMLAD` |  |
+| 785.15 | eutectic: Liquid -> (Ca) + Ga28Ca11 | L: Ga 0.161; (Ca): Ga 0; Ga28Ca11: Ga 0.282 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 1; `ORC-HHDYZ54BTY` |  |
+| 785.15 | eutectic: L -> Ca + Ca28Ga11 | L: Ga 0.161; Ca: Ga 0; Ca28Ga11: Ga 0.282 | experimental | [2] Wang 2007; _cites Bruzzone 1966_ | Table 3, p. 4, row 2; `ORC-HNM53CFIEB` |  |
+| 773.15 | eutectic: Liquid -> (Ca) + Ga28Ca11 | L: Ga 0.186; (Ca): Ga 0; Ga28Ca11: Ga 0.282 | model | [1] Li 2013 | Table 6, p. 8, row 2; `ORC-TH5Q7VD4UC` |  |
+| 303.15 | eutectic: Liquid -> CaGa4 + (Ga) | L: Ga 1; CaGa4: Ga 0.8; (Ga): Ga 1 | model | [1] Li 2013 | Table 6, p. 8, row 20; `ORC-NZ2XL3IR2I` |  |
+| 302.15 | eutectic: Liquid -> CaGa4 + (Ga) | L: Ga 0.994; CaGa4: Ga 0.8; (Ga): Ga 1 | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 6, p. 8, row 19; `ORC-TKQKT2ZQFG` |  |
+| 302.15 | eutectic: L -> CaGa4 + Ga | L: Ga 0.994; CaGa4: Ga 0.8; Ga: Ga 1 | experimental | [2] Wang 2007; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 3, p. 4, row 22; `ORC-UREZRIKSN3` |  |
+| 301.85 | eutectic: L -> CaGa4 + Ga | L: Ga 0.994; CaGa4: Ga 0.8; Ga: Ga 1 | model | [2] Wang 2007 | Table 3, p. 4, row 21; `ORC-OBWRE3CYMS` |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ca–Ga system (14)
+Table: Enthalpies of formation, Ca–Ga system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -38.8 kJ/mol-atom ± 4.8 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2; `ORC-3BYNFYTFJO.772f08` | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
-| — |  | -25.4 kJ/mol-atom ± 2.4 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2; `ORC-3BYNFYTFJO.da57b0` | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
-| — |  | -24.9 kJ/mol-atom ± 4.9 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2; `ORC-3BYNFYTFJO.65148c` | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
 | Ca11Ga7 |  | -37.258 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 3; `ORC-COLKEQBGBT` |  |
 | Ca28Ga11 |  | -29.826 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 1; `ORC-CDK5HRN7PY` |  |
 | Ca3Ga5 |  | -48.725 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 5; `ORC-6ZQ74D3DYJ` |  |

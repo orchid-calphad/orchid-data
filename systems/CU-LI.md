@@ -1,10 +1,10 @@
 # Cu–Li system
 
-> Cu–Li system: 77 accepted literature values (activity / EMF / Gibbs energy 32, phase transition 18, phase equilibrium 17, heat capacity / entropy / enthalpy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Li system: 75 accepted literature values (activity / EMF / Gibbs energy 30, phase transition 17, phase equilibrium 17, heat capacity / entropy / enthalpy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-LI.html · Markdown: https://data.orchid-project.org/systems/CU-LI.md
 
-77 accepted literature values from 2 paper(s) (experimental 73, model 4); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+75 accepted literature values from 2 paper(s) (experimental 72, model 3); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-LI.json) · [CSV](https://data.orchid-project.org/systems/CU-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-LI/CuLi-09Gas.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CU-LI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-LI.html) · [Markdown](https://data.orchid-project.org/systems/CU-LI.md)
 
@@ -12,19 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 73 |
-| model | 4 |
+| experimental | 72 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
-| phase transition | 18 |
+| invariant reaction | 1 |
+| phase transition | 17 |
 | phase equilibrium | 17 |
 | mixing / partial | 4 |
 | heat capacity / entropy / enthalpy | 4 |
-| activity / EMF / Gibbs energy | 32 |
+| activity / EMF / Gibbs energy | 30 |
+| model expression | 2 |
 
 ## Calculated phase diagrams
 
@@ -53,39 +54,37 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Li system (2)
+Table: Invariant reactions reported in the literature for the Cu–Li system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 453.6 | eutectic |  | experimental | [1] Gąsior 2009; _cites Pelton 1986_ [doi](https://doi.org/10.1007/bf02881552) | p. 1; `ORC-43XZG6REDL` | “Pelton \[3\] using a DTA technique established the liquidus temperatures for 8 alloys of different concentrations and found out that the eutectic temperature was almost identical with the melting temperature of Li i.e. 453.6 K (180.5 ◦ C).” |
-| 453.6 | other: Liquid -> fcc-A1 + bcc-A2 | Liquid: Li 1; fcc-A1: Li 0.228; bcc-A2: Li 1 | model | [2] Hämäläinen 1998 | Table I, p. 185, row 1; `ORC-UOGWGR7XNM` |  |
+| 453.6 | other: Liquid -> fcc-A1 + bcc-A2 | Liquid: Li 1; fcc-A1: Li 0.228; bcc-A2: Li 1 | model | [1] (ed.) 1998 | Table I, p. 185, row 1; `ORC-UOGWGR7XNM` |  |
 
 ## Other properties
 
-### Phase transition (18)
+### Phase transition (17)
 
 Table: Phase transition, Cu–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 453 K | 453 | other: 10; _alloy: Cu 0.6, Li 0.4_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 15; `ORC-XXIVBF63SM` |  |
-| Phase transition | 453 K | 453 | other: 11; _alloy: Cu 0.55, Li 0.45_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 17; `ORC-IST2HWJKXW` |  |
-| Phase transition | 453 K | 453 | other: 12; _alloy: Cu 0.45, Li 0.55_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 19; `ORC-6P4XAI3IAH` |  |
-| Phase transition | 453 K | 453 | other: 13; _alloy: Cu 0.4, Li 0.6_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 21; `ORC-WQAQFPX2MX` |  |
-| Phase transition | 453 K | 453 | other: 14; _alloy: Cu 0.35, Li 0.65_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 23; `ORC-WVE7BYN3ZD` |  |
-| Phase transition | 453 K | 453 | other: 15; _alloy: Cu 0.3, Li 0.7_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 25; `ORC-EECZ2GCHTI` |  |
-| Phase transition | 453 K | 453 | other: 16; _alloy: Cu 0.25, Li 0.75_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 27; `ORC-7NV5MMZKNM` |  |
-| Phase transition | 453 K | 453 | other: 17; _alloy: Cu 0.15, Li 0.85_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 29; `ORC-IUF4V7ST6D` |  |
-| Phase transition | 453 K | 453 | other: 18; _alloy: Cu 0.02, Li 0.98_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 31; `ORC-QDOWGD4YIV` |  |
-| Phase transition | 453 K | 453 | other: 19 | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 33; `ORC-JMNIQIPHS2` |  |
-| Phase transition | 453 K | 453 | other: 6; _alloy: Cu 0.75, Li 0.25_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 7; `ORC-ZVRHRBJPGR` |  |
-| Phase transition | 453 K | 453 | other: 7; _alloy: Cu 0.73, Li 0.27_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 9; `ORC-4ZAD77635N` |  |
-| Phase transition | 453 K | 453 | other: 8; _alloy: Cu 0.7, Li 0.3_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 11; `ORC-3AWEPUKJRS` |  |
-| Phase transition | 453 K | 453 | other: 9; _alloy: Cu 0.65, Li 0.35_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 13; `ORC-5X7SGUF47A` |  |
-| Phase transition | 476 K | 476 | other: 1; _alloy: Cu 0.82, Li 0.18_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 1; `ORC-W7OX3CO7DH` |  |
-| Phase transition | 753 K | 753 | other | experimental | [1] Gąsior 2009 | p. 6; `ORC-CD7UKDLZLU` | “Apart from the eutectic transformation, another one was observed at the estimated temperature equal to 753 K (480 ◦ C), which could be connected with the formation of the entropy-stabilized Cu2 Li3 phase.” |
-| Phase transition | 753 K | 753 | other | model | [1] Gąsior 2009 | p. 4; `ORC-URFY4ODNGW` | “Because of the lack of thermodynamic data, the parameters of the intermetallic compound Cu2 Li3 were estimated after optimization of the thermodynamic parameters of the liquid and solid fcc-(Cu) phases, respectively, assuming that the metatectic transformation temperature is equal to 753 K (480 ◦ C) (Fig. 5).” |
-| Phase transition | 838 K | 838 | other: 2; _alloy: Cu 0.82, Li 0.18_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 3; `ORC-I4TH6IWYSN` |  |
+| Phase transition | 453 K | 453 | other: 10; _alloy: Cu 0.6, Li 0.4_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 15; `ORC-XXIVBF63SM` |  |
+| Phase transition | 453 K | 453 | other: 11; _alloy: Cu 0.55, Li 0.45_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 17; `ORC-IST2HWJKXW` |  |
+| Phase transition | 453 K | 453 | other: 12; _alloy: Cu 0.45, Li 0.55_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 19; `ORC-6P4XAI3IAH` |  |
+| Phase transition | 453 K | 453 | other: 13; _alloy: Cu 0.4, Li 0.6_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 21; `ORC-WQAQFPX2MX` |  |
+| Phase transition | 453 K | 453 | other: 14; _alloy: Cu 0.35, Li 0.65_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 23; `ORC-WVE7BYN3ZD` |  |
+| Phase transition | 453 K | 453 | other: 15; _alloy: Cu 0.3, Li 0.7_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 25; `ORC-EECZ2GCHTI` |  |
+| Phase transition | 453 K | 453 | other: 16; _alloy: Cu 0.25, Li 0.75_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 27; `ORC-7NV5MMZKNM` |  |
+| Phase transition | 453 K | 453 | other: 17; _alloy: Cu 0.15, Li 0.85_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 29; `ORC-IUF4V7ST6D` |  |
+| Phase transition | 453 K | 453 | other: 18; _alloy: Cu 0.02, Li 0.98_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 31; `ORC-QDOWGD4YIV` |  |
+| Phase transition | 453 K | 453 | other: 19 | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 33; `ORC-JMNIQIPHS2` |  |
+| Phase transition | 453 K | 453 | other: 6; _alloy: Cu 0.75, Li 0.25_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 7; `ORC-ZVRHRBJPGR` |  |
+| Phase transition | 453 K | 453 | other: 7; _alloy: Cu 0.73, Li 0.27_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 9; `ORC-4ZAD77635N` |  |
+| Phase transition | 453 K | 453 | other: 8; _alloy: Cu 0.7, Li 0.3_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 11; `ORC-3AWEPUKJRS` |  |
+| Phase transition | 453 K | 453 | other: 9; _alloy: Cu 0.65, Li 0.35_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 13; `ORC-5X7SGUF47A` |  |
+| Phase transition | 476 K | 476 | other: 1; _alloy: Cu 0.82, Li 0.18_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 1; `ORC-W7OX3CO7DH` |  |
+| Phase transition | 753 K | 753 | other | experimental | [2] Gąsior 2009 | p. 6; `ORC-CD7UKDLZLU` | “Apart from the eutectic transformation, another one was observed at the estimated temperature equal to 753 K (480 ◦ C), which could be connected with the formation of the entropy-stabilized Cu2 Li3 phase.” |
+| Phase transition | 838 K | 838 | other: 2; _alloy: Cu 0.82, Li 0.18_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 3; `ORC-I4TH6IWYSN` |  |
 
 ### Phase equilibrium (17)
 
@@ -93,23 +92,23 @@ Table: Phase equilibrium, Cu–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 893 | other: 18; _liquid: Cu 0.02, Li 0.98_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 32; `ORC-DK7F44GQ3Q` |  |
-| Phase composition |  | 1038 | other: 17; _liquid: Cu 0.15, Li 0.85_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 30; `ORC-4CGNHZJWS7` |  |
-| Phase composition |  | 1113 | other: 16; _liquid: Cu 0.25, Li 0.75_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 28; `ORC-NXHDJW2EZV` |  |
-| Phase composition |  | 1118 | other: 13; _liquid: Cu 0.4, Li 0.6_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 22; `ORC-Q43X67UFZW` |  |
-| Phase composition |  | 1118 | other: 14; _liquid: Cu 0.35, Li 0.65_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 24; `ORC-PEIDAFU4WZ` |  |
-| Phase composition |  | 1120 | other: 15; _liquid: Cu 0.3, Li 0.7_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 26; `ORC-RQBS2W7JZD` |  |
-| Phase composition |  | 1148 | other: 11; _liquid: Cu 0.55, Li 0.45_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 18; `ORC-PZ7STEWLXR` |  |
-| Phase composition |  | 1148 | other: 12; _liquid: Cu 0.45, Li 0.55_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 20; `ORC-O4OCOA2XCF` |  |
-| Phase composition |  | 1151 | other: 10; _liquid: Cu 0.6, Li 0.4_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 16; `ORC-JULCHL3OA3` |  |
-| Phase composition |  | 1158 | other: 9; _liquid: Cu 0.65, Li 0.35_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 14; `ORC-JBGKF4HAQK` |  |
-| Phase composition |  | 1175 | other: 7; _liquid: Cu 0.73, Li 0.27_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 10; `ORC-IOOKM2WZ3K` |  |
-| Phase composition |  | 1176 | other: 8; _liquid: Cu 0.7, Li 0.3_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 12; `ORC-YZGGH3Z4TO` |  |
-| Phase composition |  | 1188 | other: 3; _liquid: Cu 0.81, Li 0.19_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 4; `ORC-MZ7PADHFFC` |  |
-| Phase composition |  | 1188 | other: 4; _liquid: Cu 0.79, Li 0.21_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 5; `ORC-BST4CD4D63` |  |
-| Phase composition |  | 1188 | other: 5; _liquid: Cu 0.77, Li 0.23_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 6; `ORC-E4MWBGU53C` |  |
-| Phase composition |  | 1189 | other: 6; _liquid: Cu 0.75, Li 0.25_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 8; `ORC-AZ6NZ7IUV7` |  |
-| Phase composition |  | 1215 | other: 1; _liquid: Cu 0.82, Li 0.18_ | experimental | [1] Gąsior 2009 | Table 3, p. 3, row 2; `ORC-6GSGQELHDL` |  |
+| Phase composition |  | 893 | other: 18; _liquid: Cu 0.02, Li 0.98_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 32; `ORC-DK7F44GQ3Q` |  |
+| Phase composition |  | 1038 | other: 17; _liquid: Cu 0.15, Li 0.85_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 30; `ORC-4CGNHZJWS7` |  |
+| Phase composition |  | 1113 | other: 16; _liquid: Cu 0.25, Li 0.75_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 28; `ORC-NXHDJW2EZV` |  |
+| Phase composition |  | 1118 | other: 13; _liquid: Cu 0.4, Li 0.6_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 22; `ORC-Q43X67UFZW` |  |
+| Phase composition |  | 1118 | other: 14; _liquid: Cu 0.35, Li 0.65_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 24; `ORC-PEIDAFU4WZ` |  |
+| Phase composition |  | 1120 | other: 15; _liquid: Cu 0.3, Li 0.7_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 26; `ORC-RQBS2W7JZD` |  |
+| Phase composition |  | 1148 | other: 11; _liquid: Cu 0.55, Li 0.45_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 18; `ORC-PZ7STEWLXR` |  |
+| Phase composition |  | 1148 | other: 12; _liquid: Cu 0.45, Li 0.55_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 20; `ORC-O4OCOA2XCF` |  |
+| Phase composition |  | 1151 | other: 10; _liquid: Cu 0.6, Li 0.4_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 16; `ORC-JULCHL3OA3` |  |
+| Phase composition |  | 1158 | other: 9; _liquid: Cu 0.65, Li 0.35_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 14; `ORC-JBGKF4HAQK` |  |
+| Phase composition |  | 1175 | other: 7; _liquid: Cu 0.73, Li 0.27_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 10; `ORC-IOOKM2WZ3K` |  |
+| Phase composition |  | 1176 | other: 8; _liquid: Cu 0.7, Li 0.3_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 12; `ORC-YZGGH3Z4TO` |  |
+| Phase composition |  | 1188 | other: 3; _liquid: Cu 0.81, Li 0.19_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 4; `ORC-MZ7PADHFFC` |  |
+| Phase composition |  | 1188 | other: 4; _liquid: Cu 0.79, Li 0.21_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 5; `ORC-BST4CD4D63` |  |
+| Phase composition |  | 1188 | other: 5; _liquid: Cu 0.77, Li 0.23_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 6; `ORC-E4MWBGU53C` |  |
+| Phase composition |  | 1189 | other: 6; _liquid: Cu 0.75, Li 0.25_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 8; `ORC-AZ6NZ7IUV7` |  |
+| Phase composition |  | 1215 | other: 1; _liquid: Cu 0.82, Li 0.18_ | experimental | [2] Gąsior 2009 | Table 3, p. 3, row 2; `ORC-6GSGQELHDL` |  |
 
 ### Mixing / partial (4)
 
@@ -117,10 +116,10 @@ Table: Mixing / partial, Cu–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Partial enthalpy; _printed: H_Li_ | -34.7072 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.99258b` |  |
-| Partial enthalpy; _printed: H_Li_ | -48.6058 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.62bb3d` |  |
-| Partial enthalpy; _printed: H_Li_ | -100.833 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.4437f3` |  |
-| Partial enthalpy; _printed: H_Li_ | -16.2861 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.e5b8fc` |  |
+| Partial enthalpy; _printed: H_Li_ | -34.7072 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.99258b` |  |
+| Partial enthalpy; _printed: H_Li_ | -48.6058 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.62bb3d` |  |
+| Partial enthalpy; _printed: H_Li_ | -100.833 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.4437f3` |  |
+| Partial enthalpy; _printed: H_Li_ | -16.2861 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.e5b8fc` |  |
 
 ### Heat capacity / entropy / enthalpy (4)
 
@@ -128,56 +127,63 @@ Table: Heat capacity / entropy / enthalpy, Cu–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S^ex_Li_ | -48.6 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.622818` |  |
-| Entropy; _printed: S^ex_Li_ | -61.9 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.004ecf` |  |
-| Entropy; _printed: S^ex_Li_ | -117 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.2bcf08` |  |
-| Entropy; _printed: S^ex_Li_ | -26.8 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.17878b` |  |
+| Entropy; _printed: S^ex_Li_ | -48.6 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.622818` |  |
+| Entropy; _printed: S^ex_Li_ | -61.9 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.004ecf` |  |
+| Entropy; _printed: S^ex_Li_ | -117 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.2bcf08` |  |
+| Entropy; _printed: S^ex_Li_ | -26.8 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.17878b` |  |
 
-### Activity / EMF / Gibbs energy (32)
+### Activity / EMF / Gibbs energy (30)
 
 Table: Activity / EMF / Gibbs energy, Cu–Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity Li; _printed: a_Li_ | 0.01977 1 | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 6; `ORC-77B4KTZTGT` |  |
-| Activity Li; _printed: aLi (633 K)_ | 0.02076 1 | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 2; `ORC-EI4TX3N36O.164de5` |  |
-| Activity Li; _printed: aLi (773 K)_ | 0.11059 1 | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 2; `ORC-EI4TX3N36O.5f8a3e` |  |
-| Activity Li; _printed: aLi (873 K)_ | 0.26301 1 | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 2; `ORC-EI4TX3N36O.cb0df6` |  |
-| Activity Li; _printed: aLi (633 K)_ | 6.200e-4 1 | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 1; `ORC-KVBKZ3MJND.62acbf` |  |
-| Activity Li; _printed: aLi (873 K)_ | 0.1193 1 | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 1; `ORC-KVBKZ3MJND.88a224` |  |
-| Activity Li; _printed: aLi (633 K)_ | 0.07065 1 | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 3; `ORC-VCCPEXNAHP.1170d1` |  |
-| Activity Li; _printed: aLi (873 K)_ | 0.43305 1 | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 3; `ORC-VCCPEXNAHP.d26b6a` |  |
-| Activity Li; _printed: aLi (773 K)_ | 0.23328 1 | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 3; `ORC-VCCPEXNAHP.f40fde` |  |
-| Activity Li; _printed: aLi (633 K)_ | 0.19779 1 | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 4; `ORC-XC72JCWJXY.3a2a21` |  |
-| Activity Li; _printed: aLi (773 K)_ | 0.34645 1 | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 4; `ORC-XC72JCWJXY.619587` |  |
-| Activity Li; _printed: aLi (873 K)_ | 0.46314 1 | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 4; `ORC-XC72JCWJXY.8bc13d` |  |
-| Chemical potential; _printed: G^ex_Li (633 K)_ | -3962 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.98e211` |  |
-| Chemical potential; _printed: G^ex_Li (633 K)_ | -9447.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.cc3b1c` |  |
-| Chemical potential; _printed: G^ex_Li (633 K)_ | -26791.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.5512e9` |  |
-| Chemical potential; _printed: G^ex_Li (633 K)_ | 644.4 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.649a1e` |  |
-| Chemical potential; _printed: G^ex_Li (773 K)_ | 2837.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.d64e9e` |  |
-| Chemical potential; _printed: G^ex_Li (773 K)_ | -787.2 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.46710b` |  |
-| Chemical potential; _printed: G^ex_Li (773 K)_ | -10416.1 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.42b2b9` |  |
-| Chemical potential; _printed: G^ex_Li (773 K)_ | 4388.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.6559c6` |  |
-| EMF; _printed: E = a + bT: b_ | -0.4619 mV/K |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.2b9931` |  |
-| EMF; _printed: E = a + bT: b_ | -1.0137 mV/K |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.d79769` |  |
-| Gibbs energy; _printed: G^ex_Li (633 K)_ | -3962 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.7f511a` |  |
-| Gibbs energy; _printed: G^ex_Li (633 K)_ | -9447.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.a4bc8f` |  |
-| Gibbs energy; _printed: G^ex_Li (633 K)_ | -26791.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.3d0158` |  |
-| Gibbs energy; _printed: G^ex_Li (633 K)_ | 644.4 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.64ce8d` |  |
-| Gibbs energy; _printed: G^ex_Li (773 K)_ | 2837.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.986ebd` |  |
-| Gibbs energy; _printed: G^ex_Li (773 K)_ | -787.2 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.b3903a` |  |
-| Gibbs energy; _printed: G^ex_Li (773 K)_ | -10416.1 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.10607d` |  |
-| Gibbs energy; _printed: G^ex_Li (773 K)_ | 4388.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.22fea9` |  |
-| Gibbs energy; _printed: excess Gibbs free energy_ | 3.18 kJ/mol | 1373 |  | model | [1] Gąsior 2009 | p. 5; `ORC-W45U4USY57.4acb5e` | “Because of the low positive value of the excess entropy, the excess Gibbs free energy slowly decreases with the increasing of the temperature (3.18 kJ/mol at 1373 K (1100 ◦ C) and 3.02 kJ/mol at 1573 K (1300 ◦ C)).” |
-| Gibbs energy; _printed: excess Gibbs free energy_ | 3.02 kJ/mol | 1573 |  | model | [1] Gąsior 2009 | p. 5; `ORC-W45U4USY57.9de4ff` | “Because of the low positive value of the excess entropy, the excess Gibbs free energy slowly decreases with the increasing of the temperature (3.18 kJ/mol at 1373 K (1100 ◦ C) and 3.02 kJ/mol at 1573 K (1300 ◦ C)).” |
+| Activity Li; _printed: a_Li_ | 0.01977 1 | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 6; `ORC-77B4KTZTGT` |  |
+| Activity Li; _printed: aLi (633 K)_ | 0.02076 1 | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 2; `ORC-EI4TX3N36O.164de5` |  |
+| Activity Li; _printed: aLi (773 K)_ | 0.11059 1 | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 2; `ORC-EI4TX3N36O.5f8a3e` |  |
+| Activity Li; _printed: aLi (873 K)_ | 0.26301 1 | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 2; `ORC-EI4TX3N36O.cb0df6` |  |
+| Activity Li; _printed: aLi (633 K)_ | 6.200e-4 1 | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 1; `ORC-KVBKZ3MJND.62acbf` |  |
+| Activity Li; _printed: aLi (873 K)_ | 0.1193 1 | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 1; `ORC-KVBKZ3MJND.88a224` |  |
+| Activity Li; _printed: aLi (633 K)_ | 0.07065 1 | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 3; `ORC-VCCPEXNAHP.1170d1` |  |
+| Activity Li; _printed: aLi (873 K)_ | 0.43305 1 | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 3; `ORC-VCCPEXNAHP.d26b6a` |  |
+| Activity Li; _printed: aLi (773 K)_ | 0.23328 1 | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 3; `ORC-VCCPEXNAHP.f40fde` |  |
+| Activity Li; _printed: aLi (633 K)_ | 0.19779 1 | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 4; `ORC-XC72JCWJXY.3a2a21` |  |
+| Activity Li; _printed: aLi (773 K)_ | 0.34645 1 | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 4; `ORC-XC72JCWJXY.619587` |  |
+| Activity Li; _printed: aLi (873 K)_ | 0.46314 1 | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [2] Gąsior 2009 | Table 2, p. 3, row 4; `ORC-XC72JCWJXY.8bc13d` |  |
+| Chemical potential; _printed: G^ex_Li (633 K)_ | -3962 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.98e211` |  |
+| Chemical potential; _printed: G^ex_Li (633 K)_ | -9447.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.cc3b1c` |  |
+| Chemical potential; _printed: G^ex_Li (633 K)_ | -26791.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.5512e9` |  |
+| Chemical potential; _printed: G^ex_Li (633 K)_ | 644.4 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.649a1e` |  |
+| Chemical potential; _printed: G^ex_Li (773 K)_ | 2837.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.d64e9e` |  |
+| Chemical potential; _printed: G^ex_Li (773 K)_ | -787.2 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.46710b` |  |
+| Chemical potential; _printed: G^ex_Li (773 K)_ | -10416.1 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.42b2b9` |  |
+| Chemical potential; _printed: G^ex_Li (773 K)_ | 4388.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.6559c6` |  |
+| Gibbs energy; _printed: G^ex_Li (633 K)_ | -3962 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.7f511a` |  |
+| Gibbs energy; _printed: G^ex_Li (633 K)_ | -9447.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.a4bc8f` |  |
+| Gibbs energy; _printed: G^ex_Li (633 K)_ | -26791.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.3d0158` |  |
+| Gibbs energy; _printed: G^ex_Li (633 K)_ | 644.4 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.64ce8d` |  |
+| Gibbs energy; _printed: G^ex_Li (773 K)_ | 2837.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 3; `ORC-6MGW4XGYPL.986ebd` |  |
+| Gibbs energy; _printed: G^ex_Li (773 K)_ | -787.2 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.b3903a` |  |
+| Gibbs energy; _printed: G^ex_Li (773 K)_ | -10416.1 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.10607d` |  |
+| Gibbs energy; _printed: G^ex_Li (773 K)_ | 4388.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 4; `ORC-UIBSTP5I2J.22fea9` |  |
+| Gibbs energy; _printed: excess Gibbs free energy_ | 3.18 kJ/mol | 1373 |  | model | [2] Gąsior 2009 | p. 5; `ORC-W45U4USY57.4acb5e` | “Because of the low positive value of the excess entropy, the excess Gibbs free energy slowly decreases with the increasing of the temperature (3.18 kJ/mol at 1373 K (1100 ◦ C) and 3.02 kJ/mol at 1573 K (1300 ◦ C)).” |
+| Gibbs energy; _printed: excess Gibbs free energy_ | 3.02 kJ/mol | 1573 |  | model | [2] Gąsior 2009 | p. 5; `ORC-W45U4USY57.9de4ff` | “Because of the low positive value of the excess entropy, the excess Gibbs free energy slowly decreases with the increasing of the temperature (3.18 kJ/mol at 1373 K (1100 ◦ C) and 3.02 kJ/mol at 1573 K (1300 ◦ C)).” |
+
+### Model expression (2)
+
+Table: Model expression, Cu–Li system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| emf expression term; _printed: E = a + bT: b_ | -0.4619 mV/K |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 2; `ORC-FUZSW6M67T.2b9931` |  |
+| emf expression term; _printed: E = a + bT: b_ | -1.0137 mV/K |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [2] Gąsior 2009 | Table 1, p. 3, row 1; `ORC-MJVPXLIHRY.d79769` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. W. Gąsior, B. Onderka, Z. Moser, A. Dębski, T. Gancarz, Thermodynamic evaluation of Cu–Li phase diagram from EMF measurements and DTA study, Calphad 33, 215-220 (2009). [doi:10.1016/j.calphad.2008.10.006](https://doi.org/10.1016/j.calphad.2008.10.006)
-2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
+2. W. Gąsior, B. Onderka, Z. Moser, A. Dębski, T. Gancarz, Thermodynamic evaluation of Cu–Li phase diagram from EMF measurements and DTA study, Calphad 33, 215-220 (2009). [doi:10.1016/j.calphad.2008.10.006](https://doi.org/10.1016/j.calphad.2008.10.006)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Ru–Ti system
 
-> Ru–Ti system: 14 accepted literature values (invariant reaction 8, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ru–Ti system: 12 accepted literature values (invariant reaction 6, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RU-TI.html · Markdown: https://data.orchid-project.org/systems/RU-TI.md
 
-14 accepted literature values from 1 paper(s) (experimental 5, model 9); 2 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 4, model 8); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RU-TI.json) · [CSV](https://data.orchid-project.org/systems/RU-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-TI/RuTi-09Gao.json) · [phases (5)](https://data.orchid-project.org/phases/pages/RU-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RU-TI.html) · [Markdown](https://data.orchid-project.org/systems/RU-TI.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
-| model | 9 |
+| experimental | 4 |
+| model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
+| invariant reaction | 6 |
 | phase transition | 6 |
 
 ## Calculated phase diagrams
@@ -49,15 +49,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ru–Ti system (8)
+Table: Invariant reactions reported in the literature for the Ru–Ti system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2128 | Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.28; hcp (Ru): Ti 0.14; RuTi: Ti 0.49 | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 9; `ORC-EHQJ2ODWE5` |  |
-| 2128 | Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.2915; hcp (Ru): Ti 0.1493; RuTi: Ti 0.49 | model | [1] Gao 2009 | Table 2, p. 3, row 7; `ORC-NF3PJUFUQ6` |  |
-| 2128 | Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.2952; hcp (Ru): Ti 0.1522; RuTi: Ti 0.4898 | model | [1] Gao 2009 | Table 2, p. 3, row 8; `ORC-VRBNYSVD5Z` |  |
-| 2098 | eutectic: L→RuTi + hcp(Ru) |  | model | [1] Gao 2009; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02892392) | p. 1; `ORC-36PN5O3DJV.474024` | “In the optimization procedure of Murray \[6\], the average of the two determinations by Raub and Roeschel \[3\] and Eremenko et al. \[4\], 2083 K, was used as a preliminary estimate for the eutectic reaction temperature L→RuTi + hcp(Ru), but the calculated value was 2098 K.” |
-| 2083 | eutectic: L→RuTi + hcp(Ru) |  | experimental | [1] Gao 2009; _cites Raub 1963_ | p. 1; `ORC-36PN5O3DJV.541f2b` | “In the optimization procedure of Murray \[6\], the average of the two determinations by Raub and Roeschel \[3\] and Eremenko et al. \[4\], 2083 K, was used as a preliminary estimate for the eutectic reaction temperature L→RuTi + hcp(Ru), but the calculated value was 2098 K.” |
+| 2128 | eutectic: Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.28; hcp (Ru): Ti 0.14; RuTi: Ti 0.49 | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 9; `ORC-EHQJ2ODWE5` |  |
+| 2128 | eutectic: Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.2915; hcp (Ru): Ti 0.1493; RuTi: Ti 0.49 | model | [1] Gao 2009 | Table 2, p. 3, row 7; `ORC-NF3PJUFUQ6` |  |
+| 2128 | eutectic: Liquid→hcp (Ru) + RuTi | Liquid: Ti 0.2952; hcp (Ru): Ti 0.1522; RuTi: Ti 0.4898 | model | [1] Gao 2009 | Table 2, p. 3, row 8; `ORC-VRBNYSVD5Z` |  |
 | 1848 | Liquid + RuTi→bcc (Ti) | Liquid: Ti 0.7702; RuTi: Ti 0.5425; bcc (Ti): Ti 0.7604 | model | [1] Gao 2009 | Table 2, p. 3, row 4; `ORC-3656S7LP4H` |  |
 | 1848 | Liquid + RuTi→bcc (Ti) | Liquid: Ti 0.7669; RuTi: Ti 0.543; bcc (Ti): Ti 0.7578 | model | [1] Gao 2009 | Table 2, p. 3, row 5; `ORC-6AGNPDB6B4` |  |
 | 1848 | Liquid + RuTi→bcc (Ti) | Liquid: Ti 0.76; RuTi: Ti 0.55; bcc (Ti): Ti 0.75 | experimental | [1] Gao 2009; _cites Eremenko 1973_ | Table 2, p. 3, row 6; `ORC-6BQ7UFO2YN` |  |

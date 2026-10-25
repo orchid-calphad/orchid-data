@@ -1,10 +1,10 @@
 # Sr–Te system
 
-> Sr–Te system: 20 accepted literature values (invariant reaction 12, formation 5, phase transition 2, crystal structure 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sr–Te system: 16 accepted literature values (invariant reaction 8, formation 5, phase transition 2, crystal structure 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SR-TE.html · Markdown: https://data.orchid-project.org/systems/SR-TE.md
 
-20 accepted literature values from 1 paper(s) (experimental 9, model 7, DFT 4); 1 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (experimental 5, model 7, DFT 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SR-TE.json) · [CSV](https://data.orchid-project.org/systems/SR-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SR-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SR-TE/SrTe-22Yu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/SR-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SR-TE.html) · [Markdown](https://data.orchid-project.org/systems/SR-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 5 |
 | model | 7 |
 | DFT | 4 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
+| invariant reaction | 8 |
 | phase transition | 2 |
 | formation | 5 |
 | crystal structure | 1 |
@@ -52,22 +52,18 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sr–Te system (12)
+Table: Invariant reactions reported in the literature for the Sr–Te system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1193.2 | L + SrTe -> Sr2Te3 | L: Te 0.982; SrTe: Te 0.5; Sr2Te3: Te 0.6 | model | [1] Yu 2022 | Table 7, p. 18, row 3; `ORC-MG4N4JJWFO` |  |
 | 1193 | L + SrTe -> Sr2Te3 | L: Te 0.982; SrTe: Te 0.5; Sr2Te3: Te 0.6 | experimental | [1] Yu 2022; _cites Lyskova 1975_ | Table 7, p. 18, row 4; `ORC-CWT5Z2JQZU` |  |
-| 1193 | peritectic |  | experimental | [1] Yu 2022; _cites Lyskova 1975_ | p. 4; `ORC-TKHYHS7K3X.db1f18` | “There are two peritectic reactions: L ? SrTe ? Sr2Te3 and L ? Sr2Te3 ? SrTe2 occurring at about 1193, and 1123 K, and two eutectic reactions: L ? (bSr) ? SrTe and L ? (Te) ? SrTe2 occurring at about 1033, and 722 K, respectively.” |
 | 1123 | L + Sr2Te3 -> SrTe2 | L: Te 0.988; Sr2Te3: Te 0.6; SrTe2: Te 0.666 | experimental | [1] Yu 2022; _cites Lyskova 1975_ | Table 7, p. 18, row 6; `ORC-5SRN4PLCQS` |  |
 | 1123 | L + Sr2Te3 -> SrTe2 | L: Te 0.997; Sr2Te3: Te 0.6; SrTe2: Te 0.666 | model | [1] Yu 2022 | Table 7, p. 18, row 5; `ORC-EKU2Z7XB3A` |  |
-| 1123 | peritectic |  | experimental | [1] Yu 2022; _cites Lyskova 1975_ | p. 4; `ORC-TKHYHS7K3X.2e1169` | “There are two peritectic reactions: L ? SrTe ? Sr2Te3 and L ? Sr2Te3 ? SrTe2 occurring at about 1193, and 1123 K, and two eutectic reactions: L ? (bSr) ? SrTe and L ? (Te) ? SrTe2 occurring at about 1033, and 722 K, respectively.” |
-| 1033 | L -> (Sr) + SrTe | L: Te 0; (Sr): Te 0; SrTe: Te 0.5 | experimental | [1] Yu 2022; _cites Lyskova 1975_ | Table 7, p. 18, row 2; `ORC-3UW5R2CU5H` |  |
-| 1033 | eutectic |  | experimental | [1] Yu 2022; _cites Lyskova 1975_ | p. 4; `ORC-TKHYHS7K3X.7d48c6` | “There are two peritectic reactions: L ? SrTe ? Sr2Te3 and L ? Sr2Te3 ? SrTe2 occurring at about 1193, and 1123 K, and two eutectic reactions: L ? (bSr) ? SrTe and L ? (Te) ? SrTe2 occurring at about 1033, and 722 K, respectively.” |
-| 1032.1 | L -> (Sr) + SrTe | L: Te 0.013; (Sr): Te 0; SrTe: Te 0.5 | model | [1] Yu 2022 | Table 7, p. 18, row 1; `ORC-HQGOAG7FEM` |  |
-| 722.7 | L -> SrTe2 + (Te) | L: Te 1; SrTe2: Te 0.666; (Te): Te 1 | model | [1] Yu 2022 | Table 7, p. 18, row 7; `ORC-UN37H52B3H` |  |
-| 722 | L -> SrTe2 + (Te) | L: Te 1; SrTe2: Te 0.666; (Te): Te 1 | experimental | [1] Yu 2022; _cites Lyskova 1975_ | Table 7, p. 18, row 8; `ORC-OWZS5ZBQPW` |  |
-| 722 | eutectic |  | experimental | [1] Yu 2022; _cites Lyskova 1975_ | p. 4; `ORC-TKHYHS7K3X.480fee` | “There are two peritectic reactions: L ? SrTe ? Sr2Te3 and L ? Sr2Te3 ? SrTe2 occurring at about 1193, and 1123 K, and two eutectic reactions: L ? (bSr) ? SrTe and L ? (Te) ? SrTe2 occurring at about 1033, and 722 K, respectively.” |
+| 1033 | eutectic: L -> (Sr) + SrTe | L: Te 0; (Sr): Te 0; SrTe: Te 0.5 | experimental | [1] Yu 2022; _cites Lyskova 1975_ | Table 7, p. 18, row 2; `ORC-3UW5R2CU5H` |  |
+| 1032.1 | eutectic: L -> (Sr) + SrTe | L: Te 0.013; (Sr): Te 0; SrTe: Te 0.5 | model | [1] Yu 2022 | Table 7, p. 18, row 1; `ORC-HQGOAG7FEM` |  |
+| 722.7 | eutectic: L -> SrTe2 + (Te) | L: Te 1; SrTe2: Te 0.666; (Te): Te 1 | model | [1] Yu 2022 | Table 7, p. 18, row 7; `ORC-UN37H52B3H` |  |
+| 722 | eutectic: L -> SrTe2 + (Te) | L: Te 1; SrTe2: Te 0.666; (Te): Te 1 | experimental | [1] Yu 2022; _cites Lyskova 1975_ | Table 7, p. 18, row 8; `ORC-OWZS5ZBQPW` |  |
 
 ## Formation enthalpies
 

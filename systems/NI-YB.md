@@ -1,10 +1,10 @@
 # Ni–Yb system
 
-> Ni–Yb system: 140 accepted literature values (invariant reaction 50, formation 49, crystal structure 22, phase transition 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Yb system: 132 accepted literature values (formation 49, invariant reaction 46, crystal structure 22, heat capacity / entropy / enthalpy 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-YB.html · Markdown: https://data.orchid-project.org/systems/NI-YB.md
 
-140 accepted literature values from 2 paper(s) (experimental 60, model 64, DFT 16); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+132 accepted literature values from 2 paper(s) (experimental 56, model 60, DFT 16); 2 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-YB.json) · [CSV](https://data.orchid-project.org/systems/NI-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-YB/NiYb-16Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-YB.html) · [Markdown](https://data.orchid-project.org/systems/NI-YB.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 60 |
-| model | 64 |
+| experimental | 56 |
+| model | 60 |
 | DFT | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 50 |
-| phase transition | 10 |
+| invariant reaction | 46 |
+| phase transition | 6 |
 | formation | 49 |
 | heat capacity / entropy / enthalpy | 9 |
 | crystal structure | 22 |
@@ -73,11 +73,11 @@ Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/NI/
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–Yb system (50)
+Table: Invariant reactions reported in the literature for the Ni–Yb system (46)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1583.15 | Liq -> Ni3Yb | L: Yb 0.25; Ni3Yb: Ni 0.75, Yb 0.25; Liq: Yb 0.25 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 13; `ORC-FB7LOIHH6V` |  |
+| 1583.15 | congruent melting: Liq -> Ni3Yb | L: Yb 0.25; Ni3Yb: Ni 0.75, Yb 0.25; Liq: Yb 0.25 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 13; `ORC-FB7LOIHH6V` |  |
 | 1573.15 | congruent melting: Liq -> Ni5Yb | L: Yb 0.166; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.166 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 8; `ORC-2OET335YSF` |  |
 | 1568.15 | peritectic: Liq + Ni3Yb -> Ni5Yb | L: Yb 0.152; Ni3Yb: Ni 0.75, Yb 0.25; Ni5Yb: Ni 0.833333, Yb 0.166667; Liq: Yb 0.152 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 10; `ORC-ZOKZV7LC2J` |  |
 | 1568 | peritectic: Liq + YbNi3 -> YbNi5 | YbNi3: Yb 0.25; YbNi5: Yb 0.166667 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 9; `ORC-ACKMBMSWPG` |  |
@@ -110,7 +110,7 @@ Table: Invariant reactions reported in the literature for the Ni–Yb system (50
 | 1330.15 | peritectic: Liq + Ni3Yb -> Ni2Yb | L: Yb 0.436; Ni3Yb: Ni 0.75, Yb 0.25; Ni2Yb: Ni 0.666667, Yb 0.333333; Liq: Yb 0.436 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 17; `ORC-KBWAI7UPNN` |  |
 | 1330 | peritectic: Liq + YbNi3 -> YbNi2 | L: Yb 0.406; YbNi3: Yb 0.25; YbNi2: Yb 0.333333 | model | [2] Hu 2017; _cites Kardellass 2016_ [doi](https://doi.org/10.1007/s10973-016-5380-3) | Table 2, p. 24, row 16; `ORC-D7XNIO55F2` |  |
 | 1308.15 | congruent melting: Liq -> NiYb_HT | L: Yb 0.5; NiYb_HT: Ni 0.5, Yb 0.5; Liq: Yb 0.5 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 20; `ORC-URJYR3UOBX` |  |
-| 1308.15 | Liq -> NiYb_HT | L: Yb 0.5; NiYb_HT: Ni 0.5, Yb 0.5; Liq: Yb 0.5 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 19; `ORC-V7JQSBFMBN` |  |
+| 1308.15 | congruent melting: Liq -> NiYb_HT | L: Yb 0.5; NiYb_HT: Ni 0.5, Yb 0.5; Liq: Yb 0.5 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 19; `ORC-V7JQSBFMBN` |  |
 | 1306.15 | eutectic: Liq1# -> Liq2# + NiYb_LT | NiYb_LT: Ni 0.5, Yb 0.5; Liq1: Yb 0.536; Liq2: Yb 0.909 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 29; `ORC-5XJG3PI2UZ` |  |
 | 1303.65 | polymorphic: NiYb_LT -> NiYb_HT | NiYb_LT: Yb 0.5; Liq: Yb 0.5 | model | [1] Kardellass 2016 | Table 5, p. 9, row 27; `ORC-POXQKCBJ6W` |  |
 | 1303.15 | eutectic: Ni2Yb + NiYb_LT -> Liq | Ni2Yb: Ni 0.666667, Yb 0.333333; NiYb_LT: Ni 0.5, Yb 0.5; L: Yb 0.482; Liq: Yb 0.482 | model | [1] Kardellass 2016 | Table 5, p. 9, row 24; `ORC-6OXLH7XPEE` |  |
@@ -120,13 +120,9 @@ Table: Invariant reactions reported in the literature for the Ni–Yb system (50
 | 1273.15 | polymorphic: NiYb_LT -> NiYb_HT | NiYb_LT: Ni 0.5, Yb 0.5 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 25; `ORC-JV7I2ECFFP` |  |
 | 1263.15 | eutectic: Ni2Yb + NiYb_LT -> Liq | Ni2Yb: Ni 0.666667, Yb 0.333333; NiYb_LT: Ni 0.5, Yb 0.5; L: Yb 0.455; Liq: Yb 0.455 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 22; `ORC-HQXD5JPIXI` |  |
 | 1263 | eutectic: Liq -> YbNi2 + α-YbNi | L: Yb 0.455; YbNi2: Yb 0.333333; α-YbNi: Yb 0.5 | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 19; `ORC-ZE7C6PK5OO` |  |
-| 1082 | eutectic: liquid ↔ bcc_Yb + α-YbNi |  | model | [2] Hu 2017 | p. 20; `ORC-RZDAN7BLMO.b15c18` | “The temperature of the eutectic reaction, i.e., liquid ↔ bcc_Yb + α-YbNi is experimentally measured as 1063 K, while the calculated temperature is 1082 K.” |
 | 1080.15 | eutectic: Liq -> NiYb_LT + fcc_A1 | L: Yb 0.986; NiYb_LT: Ni 0.5, Yb 0.5; Liq: Yb 0.986 | model | [1] Kardellass 2016 | Table 5, p. 9, row 35; `ORC-3EHA7OURO4` |  |
 | 1078.15 | eutectic: Liq -> NiYb_LT + fcc_A1 | L: Yb 0.981; NiYb_LT: Ni 0.5, Yb 0.5; Liq: Yb 0.981 | model | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 5, p. 9, row 34; `ORC-GXX5ZPE7FV` |  |
 | 1067.15 | eutectic: Liq -> NiYb_LT + fcc_A1 | L: Yb 0.98; NiYb_LT: Ni 0.5, Yb 0.5; Liq: Yb 0.98 | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 5, p. 9, row 33; `ORC-BQBSEB7WHC` |  |
-| 1067.15 | eutectic: bcc_A2 (Yb) $ fcc_A1 (Yb) ? NiYb |  | model | [1] Kardellass 2016; _cites Nash 1989_ [doi](https://doi.org/10.1007/bf02881421) | p. 2; `ORC-OCFDY5BVGF` | “For the purpose of drawing Fig. 1 (dashed line), the eutectic temperature has been taken by Nash \[17\] as 805 C and the bcc_A2 (Yb) $ fcc_A1 (Yb) ? NiYb eutectoid temperature as 794 C.” |
-| 1063.15 | eutectic: Liq $ (Yb) ? NiYb |  | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | p. 2; `ORC-DL7MGOL644` | “Thus, this presents a problem in evaluating the diagram by Palenzona and Cirafici \[16\], as the eutectic reaction Liq $ (Yb) ? NiYb was reported to occur at 790 C slightly below the accepted bcc_A2 $ fcc_A1 transformation in Yb.” |
-| 1063 | eutectic: liquid ↔ bcc_Yb + α-YbNi |  | experimental | [2] Hu 2017 | p. 20; `ORC-RZDAN7BLMO.f7dd1f` | “The temperature of the eutectic reaction, i.e., liquid ↔ bcc_Yb + α-YbNi is experimentally measured as 1063 K, while the calculated temperature is 1082 K.” |
 
 ## Formation enthalpies
 
@@ -179,16 +175,12 @@ Table: Enthalpies of formation, Ni–Yb system (40)
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (6)
 
 Table: Phase transition, Ni–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1022 K | 1022 | polymorphic | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | p. 5; `ORC-GXGZ6XFGCD.4bb01f` | “For example, the melting temperature and bcc↔fcc polymorphic transformation temperature of Yb were reported to be 1098 K and 1022 K, respectively \[12\], whereas the accepted values for pure Yb are 1092 K and 1068 K \[19\].” |
-| Phase transition | 1068 K | 1068 | polymorphic | model | [2] Hu 2017; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 5; `ORC-GXGZ6XFGCD.caa368` | “For example, the melting temperature and bcc↔fcc polymorphic transformation temperature of Yb were reported to be 1098 K and 1022 K, respectively \[12\], whereas the accepted values for pure Yb are 1092 K and 1068 K \[19\].” |
-| Phase transition | 1092 K | 1092 |  | model | [2] Hu 2017; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 5; `ORC-GXGZ6XFGCD.63a797` | “For example, the melting temperature and bcc↔fcc polymorphic transformation temperature of Yb were reported to be 1098 K and 1022 K, respectively \[12\], whereas the accepted values for pure Yb are 1092 K and 1068 K \[19\].” |
-| Phase transition | 1098 K | 1098 |  | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | p. 5; `ORC-GXGZ6XFGCD.0310ff` | “For example, the melting temperature and bcc↔fcc polymorphic transformation temperature of Yb were reported to be 1098 K and 1022 K, respectively \[12\], whereas the accepted values for pure Yb are 1092 K and 1068 K \[19\].” |
 | Phase transition | 1273.15 K | 1273.15 | NiYb | experimental | [1] Kardellass 2016; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | p. 2; `ORC-FBMA66AYTU` | “Thermal analysis by Palenzona and Cirafici \[16\] indicated a transformation in NiYb at 1000 C.” |
 | Phase transition | 1304 K | 1304 | congruent melting: Liq -> β-YbNi; _L: Yb 0.5; β-YbNi: Yb 0.5_ | model | [2] Hu 2017 | Table 2, p. 24, row 22; `ORC-CILE2G75IR` |  |
 | Phase transition | 1308 K | 1308 | congruent melting: Liq -> β-YbNi; _L: Yb 0.5; β-YbNi: Yb 0.5_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 21; `ORC-3D76DQ5VDD` |  |

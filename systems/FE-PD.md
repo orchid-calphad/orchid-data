@@ -1,10 +1,10 @@
 # Fe–Pd system
 
-> Fe–Pd system: 27 accepted literature values (invariant reaction 21, formation 4, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Pd system: 25 accepted literature values (invariant reaction 21, formation 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-PD.html · Markdown: https://data.orchid-project.org/systems/FE-PD.md
 
-27 accepted literature values from 1 paper(s) (experimental 15, model 12); 1 calculated phase diagram(s).
+25 accepted literature values from 1 paper(s) (experimental 13, model 12); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-PD.json) · [CSV](https://data.orchid-project.org/systems/FE-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-PD/FePd-99Gho-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/FE-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-PD.html) · [Markdown](https://data.orchid-project.org/systems/FE-PD.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 13 |
 | model | 12 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 21 |
-| phase transition | 2 |
 | formation | 4 |
 
 ## Calculated phase diagrams
@@ -53,20 +52,20 @@ Table: Invariant reactions reported in the literature for the Fe–Pd system (21
 |---:|---|---|---|---|---|---|
 | 1753 | L + (δFe) -> (γFe) | L: Pd 0.0757; (δFe): Pd 0.0387; (γFe): Pd 0.0433 | model | [1] Ghosh 1999 | Table 1, p. 5, row 2; `ORC-GDF4A3SNVO` |  |
 | 1751 | L + (δFe) -> (γFe) | L: Pd 0.065; (δFe): Pd 0.033; (γFe): Pd 0.037 | experimental | [1] Ghosh 1999; _cites Gibson 1958_ | Table 1, p. 5, row 1; `ORC-R76ENAQWDY` |  |
-| 1583 | L -> γ | L: Pd 0.5; γ: Pd 0.5 | experimental | [1] Ghosh 1999; _cites Kubaschewski 1982_ | Table 1, p. 5, row 11; `ORC-CWWJ2WIX4H` |  |
-| 1582 | L -> γ | L: Pd 0.4971; γ: Pd 0.4971 | model | [1] Ghosh 1999 | Table 1, p. 5, row 12; `ORC-37HFHBT6G7` |  |
+| 1583 | congruent melting: L -> γ | L: Pd 0.5; γ: Pd 0.5 | experimental | [1] Ghosh 1999; _cites Kubaschewski 1982_ | Table 1, p. 5, row 11; `ORC-CWWJ2WIX4H` |  |
+| 1582 | congruent melting: L -> γ | L: Pd 0.4971; γ: Pd 0.4971 | model | [1] Ghosh 1999 | Table 1, p. 5, row 12; `ORC-37HFHBT6G7` |  |
 | 1173 | γ -> γ1 + γ2 |  | experimental | [1] Ghosh 1999; _cites Raub 1963_ | Table 1, p. 5, row 13; `ORC-CJAT24PKKN` |  |
 | 1147 | γ -> γ1 + γ2 | γ: Pd 0.1406 | model | [1] Ghosh 1999 | Table 1, p. 5, row 14; `ORC-XMVZYLSWKE` |  |
-| 1094 | γ -> FePd3 | γ: Pd 0.7305; FePd3: Fe 0.25, Pd 0.75 | model | [1] Ghosh 1999 | Table 1, p. 5, row 21; `ORC-SE2PGKMZRB` |  |
-| 1093 | γ -> FePd3 | γ: Fe 0.25, Pd 0.75; FePd3: Fe 0.25, Pd 0.75 | experimental | [1] Ghosh 1999; _cites Raub 1963_ | Table 1, p. 5, row 19; `ORC-5GMYE4IL6R` |  |
+| 1094 | polymorphic: γ -> FePd3 | γ: Pd 0.7305; FePd3: Fe 0.25, Pd 0.75 | model | [1] Ghosh 1999 | Table 1, p. 5, row 21; `ORC-SE2PGKMZRB` |  |
+| 1093 | polymorphic: γ -> FePd3 | γ: Fe 0.25, Pd 0.75; FePd3: Fe 0.25, Pd 0.75 | experimental | [1] Ghosh 1999; _cites Raub 1963_ | Table 1, p. 5, row 19; `ORC-5GMYE4IL6R` |  |
 | 1088 | γ1 -> (αFe) + γ2 | γ1: Pd 0.07; (αFe): Pd 0.0348; γ2: Pd 0.2348 | experimental | [1] Ghosh 1999; _cites Raub 1963_ | Table 1, p. 5, row 4; `ORC-AH5P6BZLS5` |  |
 | 1087 | γ1 -> (αFe) + γ2 | γ1: Pd 0.0597; (αFe): Pd 0.0257; γ2: Pd 0.2401 | model | [1] Ghosh 1999 | Table 1, p. 5, row 5; `ORC-QA3IZJFZ7H` |  |
-| 1083 | γ -> FePd3 | γ: Pd 0.6596; FePd3: Fe 0.25, Pd 0.75 | experimental | [1] Ghosh 1999; _cites Takezawa 1987_ [doi](https://doi.org/10.2320/jinstmet1952.51.4_285) | Table 1, p. 5, row 20; `ORC-H4DHGVLZNH` |  |
+| 1083 | polymorphic: γ -> FePd3 | γ: Pd 0.6596; FePd3: Fe 0.25, Pd 0.75 | experimental | [1] Ghosh 1999; _cites Takezawa 1987_ [doi](https://doi.org/10.2320/jinstmet1952.51.4_285) | Table 1, p. 5, row 20; `ORC-H4DHGVLZNH` |  |
 | 1073 | γ1 -> (αFe) + γ2 |  | experimental | [1] Ghosh 1999; _cites Kussman 1963_ | Table 1, p. 5, row 3; `ORC-2H3QTFLY2F` |  |
-| 1073 | γ -> FePd3 | γ: Pd 0.65; FePd3: Fe 0.25, Pd 0.75 | experimental | [1] Ghosh 1999; _cites Kussman 1963_ | Table 1, p. 5, row 18; `ORC-LO3R3HMY6P` |  |
-| 1063 | γ -> FePd | γ: Fe 0.5, Pd 0.5; FePd: Fe 0.5, Pd 0.5 | experimental | [1] Ghosh 1999; _cites Raub 1963_ | Table 1, p. 5, row 15; `ORC-2COTFPPHZM` |  |
-| 1060 | γ -> FePd | γ: Pd 0.5808; FePd: Fe 0.5, Pd 0.5 | model | [1] Ghosh 1999 | Table 1, p. 5, row 17; `ORC-DWKBGWPBYU` |  |
-| 1056 | γ -> FePd | γ: Pd 0.5792; FePd: Fe 0.5, Pd 0.5 | experimental | [1] Ghosh 1999; _cites Takezawa 1987_ [doi](https://doi.org/10.2320/jinstmet1952.51.4_285) | Table 1, p. 5, row 16; `ORC-67S5MLXYXU` |  |
+| 1073 | polymorphic: γ -> FePd3 | γ: Pd 0.65; FePd3: Fe 0.25, Pd 0.75 | experimental | [1] Ghosh 1999; _cites Kussman 1963_ | Table 1, p. 5, row 18; `ORC-LO3R3HMY6P` |  |
+| 1063 | polymorphic: γ -> FePd | γ: Fe 0.5, Pd 0.5; FePd: Fe 0.5, Pd 0.5 | experimental | [1] Ghosh 1999; _cites Raub 1963_ | Table 1, p. 5, row 15; `ORC-2COTFPPHZM` |  |
+| 1060 | polymorphic: γ -> FePd | γ: Pd 0.5808; FePd: Fe 0.5, Pd 0.5 | model | [1] Ghosh 1999 | Table 1, p. 5, row 17; `ORC-DWKBGWPBYU` |  |
+| 1056 | polymorphic: γ -> FePd | γ: Pd 0.5792; FePd: Fe 0.5, Pd 0.5 | experimental | [1] Ghosh 1999; _cites Takezawa 1987_ [doi](https://doi.org/10.2320/jinstmet1952.51.4_285) | Table 1, p. 5, row 16; `ORC-67S5MLXYXU` |  |
 | 1037 | γ -> FePd + FePd3 | γ: Pd 0.6443; FePd: Pd 0.6222; FePd3: Pd 0.6833 | model | [1] Ghosh 1999 | Table 1, p. 5, row 10; `ORC-WJQDZUWCNY` |  |
 | 1033 | γ -> FePd + FePd3 | γ: Pd 0.615; FePd: Fe 0.5, Pd 0.5; FePd3: Fe 0.25, Pd 0.75 | experimental | [1] Ghosh 1999; _cites Raub 1963_ | Table 1, p. 5, row 9; `ORC-FJYHILTBJX` |  |
 | 898 | γ -> (αFe) + FePd | γ: Pd 0.3998; (αFe): Pd 0.0061; FePd: Pd 0.4893 | model | [1] Ghosh 1999 | Table 1, p. 5, row 8; `ORC-OMPU5AY76Q` |  |
@@ -85,17 +84,6 @@ Table: Enthalpies of formation, Fe–Pd system (4)
 | FePd | [FePd](https://data.orchid-project.org/compounds/FePd.html) | -6 kJ/mol-atom | 298.15 | model | -6.145 (mp-aaaaaeex) | -6.376 (oqmd-116604) | [1] Ghosh 1999; _cites F 1988_ | Table 2, p. 7, row 2; `ORC-NWQRNHPGH5` |  |
 | FePd3 | [FePd3](https://data.orchid-project.org/compounds/FePd3.html) | -22.01 kJ/mol-atom | 298.15 | model | -10.445 (mp-aaaabgif) | -10.407 (oqmd-30235) | [1] Ghosh 1999 | Table 2, p. 7, row 3; `ORC-SE2VKKEEEZ` |  |
 | FePd3 | [FePd3](https://data.orchid-project.org/compounds/FePd3.html) | -4 kJ/mol-atom | 298.15 | model | -10.445 (mp-aaaabgif) | -10.407 (oqmd-30235) | [1] Ghosh 1999; _cites F 1988_ | Table 2, p. 7, row 4; `ORC-LEAOIVOGKZ` |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Fe–Pd system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1063 K | 1063 | congruent transformation | experimental | [1] Ghosh 1999; _cites Takezawa 1987_ [doi](https://doi.org/10.2320/jinstmet1952.51.4_285) | p. 2; `ORC-XNBMIDI6SL.18808b` | “More importantly, they exhibit congruent ordering at highly off-stoichiometric compositions, for example, FePd around 59 at.% Pd (Ref 37) at 1063 ± 20 K, and FePd3 around 66 at.% Pd (Ref 37) at 1093 ± 20 K.” |
-| Phase transition | 1093 K | 1093 | congruent transformation | experimental | [1] Ghosh 1999; _cites Takezawa 1987_ [doi](https://doi.org/10.2320/jinstmet1952.51.4_285) | p. 2; `ORC-XNBMIDI6SL.85c221` | “More importantly, they exhibit congruent ordering at highly off-stoichiometric compositions, for example, FePd around 59 at.% Pd (Ref 37) at 1063 ± 20 K, and FePd3 around 66 at.% Pd (Ref 37) at 1093 ± 20 K.” |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Pb–Zr system
 
-> Pb–Zr system: 24 accepted literature values (invariant reaction 17, phase transition 4, phase equilibrium 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Zr system: 15 accepted literature values (invariant reaction 10, phase equilibrium 3, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-ZR.html · Markdown: https://data.orchid-project.org/systems/PB-ZR.md
 
-24 accepted literature values from 1 paper(s) (experimental 14, model 7, unspecified 3); 1 calculated phase diagram(s).
+15 accepted literature values from 1 paper(s) (experimental 7, model 5, unspecified 3); 1 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-ZR.json) · [CSV](https://data.orchid-project.org/systems/PB-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-ZR/PbZr-98Dix.json) · [phases (7)](https://data.orchid-project.org/phases/pages/PB-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-ZR.html) · [Markdown](https://data.orchid-project.org/systems/PB-ZR.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 7 |
+| experimental | 7 |
+| model | 5 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
-| phase transition | 4 |
+| invariant reaction | 10 |
+| phase transition | 2 |
 | phase equilibrium | 3 |
 
 ## Calculated phase diagrams
@@ -55,40 +55,31 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pb–Zr system (17)
+Table: Invariant reactions reported in the literature for the Pb–Zr system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1917 | eutectic: Eutectic between β, liquid and Zr5Pb3 | β: Zr 0.893; liquid: Zr 0.796; Zr5Pb3: Zr 0.625 | model | [1] Dixon 1998 | Table 12, p. 18, row 1; `ORC-46GZACZRCZ` |  |
 | 1903 | eutectic: Eutectic between β, liquid and Zr5Pb3 | β: Zr 0.89; liquid: Zr 0.78; Zr5Pb3: Zr 0.625 | experimental | [1] Dixon 1998 | Table 12, p. 18, row 2; `ORC-4SSSWPEYOA` |  |
-| 1673.15 | eutectic |  | experimental | [1] Dixon 1998; _cites J 1963_ | p. 17; `ORC-NWDMXKTT6D.d4e2ae` | “work by Scrubrough and Betterton (21) indicating that this peritectoid was at 890°C and 5 at% lead, the solubility in p zirconium at 1300°C was 4.5 at% lead and that the eutectic was at 1400°C and 23 at% lead,” |
-| 1673 | eutectic |  | experimental | [1] Dixon 1998 | p. 18; `ORC-BMNDNLHCYX` | “Eutectic between p, liquid and ZrsPb, Eutectic Temperature: 1917 (1903 f 60) K, Scarbrough and Betterton 1673K Solubility of lead in g: 10.7 (11 f 1) at% Eutectic composition: 20.4 (22 f 1) at%, Scarbrough and Betterton 23 at%” |
 | 1673 | eutectic: Eutectic between β, liquid and Zr5Pb3 | liquid: Zr 0.77; Zr5Pb3: Zr 0.625 | experimental | [1] Dixon 1998 | Table 12, p. 18, row 3; `ORC-NR4HYUP533` |  |
 | 1518 | peritectoid: Peritectoid between β, Zr4Pb and Zr5Pb3 | β: Zr 0.87; Zr4Pb: Zr 0.8; Zr5Pb3: Zr 0.625 | experimental | [1] Dixon 1998 | Table 12, p. 18, row 5; `ORC-HINGFWHEBL` |  |
 | 1517 | peritectoid: Peritectoid between β, Zr4Pb and Zr5Pb3 | β: Zr 0.871; Zr4Pb: Zr 0.8; Zr5Pb3: Zr 0.625 | model | [1] Dixon 1998 | Table 12, p. 18, row 4; `ORC-CPJXDYCWBQ` |  |
-| 1373 | peritectic |  | model | [1] Dixon 1998 | p. 17; `ORC-A4QL62Y3TD.85c3e0` | “Estimates for the &sion point of Zr$b, (2273K) and of the peritectic reaction temperature for ZrPb2 (1373K) were made.” |
 | 1210 | peritectoid: Peritectoid between β, α and Zr4Pb | β: Zr 0.959; α: Zr 0.943; Zr4Pb: Zr 0.8 | model | [1] Dixon 1998 | Table 12, p. 18, row 6; `ORC-C2C7Y4GA73` |  |
 | 1188 | peritectoid: Peritectoid between β, α and Zr4Pb | β: Zr 0.98; α: Zr 0.945; Zr4Pb: Zr 0.8 | experimental | [1] Dixon 1998 | Table 12, p. 18, row 7; `ORC-FTSN2T3EUH` |  |
 | 1173 | peritectoid: Peritectoid between β, α and Zr4Pb | Zr4Pb: Zr 0.8 | experimental | [1] Dixon 1998 | Table 12, p. 18, row 10; `ORC-27GSBGKSAN` |  |
-| 1173 | peritectoid |  | experimental | [1] Dixon 1998 | p. 18; `ORC-2TNR7MNKRW.636aba` | “Peritectoid between p, a and Zr,Pb Peritectoid temperature: 12 10 (1188 f 20) K, Kneip and Betterton 1173K Scarbrough and Bettertton 1163K Badaeva and Rybakova 1173K Solubility of lead in g: 4.1 (2 f 1) at% Concentration of lead in a: 5.7 (5.5) at%, Kneip and Betterton 6 at% lead, Scarbrough and Betterton 5 at% lead.” |
 | 1173 | peritectoid: Peritectoid between β, α and Zr4Pb | α: Zr 0.94; Zr4Pb: Zr 0.8 | experimental | [1] Dixon 1998 | Table 12, p. 18, row 8; `ORC-3J7KOMGVKZ` |  |
-| 1173 | peritectoid |  | experimental | [1] Dixon 1998; _cites Badaeva 1964_ | p. 17; `ORC-PAINCJT4AU` | “Badaeva and Rybakova (22) also investigated this peritectoid which they placed at 1173K and 3.8 at% lead” |
-| 1163.15 | peritectoid |  | experimental | [1] Dixon 1998; _cites J 1963_ | p. 17; `ORC-NWDMXKTT6D.619b5e` | “work by Scrubrough and Betterton (21) indicating that this peritectoid was at 890°C and 5 at% lead, the solubility in p zirconium at 1300°C was 4.5 at% lead and that the eutectic was at 1400°C and 23 at% lead,” |
-| 1163 | peritectoid |  | experimental | [1] Dixon 1998 | p. 18; `ORC-2TNR7MNKRW.5eecd2` | “Peritectoid between p, a and Zr,Pb Peritectoid temperature: 12 10 (1188 f 20) K, Kneip and Betterton 1173K Scarbrough and Bettertton 1163K Badaeva and Rybakova 1173K Solubility of lead in g: 4.1 (2 f 1) at% Concentration of lead in a: 5.7 (5.5) at%, Kneip and Betterton 6 at% lead, Scarbrough and Betterton 5 at% lead.” |
 | 1163 | peritectoid: Peritectoid between β, α and Zr4Pb | α: Zr 0.95; Zr4Pb: Zr 0.8 | experimental | [1] Dixon 1998 | Table 12, p. 18, row 9; `ORC-477BH33SO6` |  |
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (2)
 
 Table: Phase transition, Pb–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1188.15 K | 1188.15 | y + p -> a | experimental | [1] Dixon 1998 | p. 10; `ORC-VVPZI5RBJQ` | “y reacts with p at 915°C to form the a solid solution containing 5.5 at% lead; at this temperature the maximum solubility of lead in p is 21 at%.” |
 | Phase transition | 1547 K | 1547 | congruent transformation | model | [1] Dixon 1998 | p. 18; `ORC-F4O4MZWSVB.e52ea5` | “Congruent melting points of 2242K (Zr#b,) and 1547K (ZrPb) were also predicted although it must be remembered that there is no experimental evidence for ZrPb2 and in fact the compound richest in lead that has been reported (3 1) is Zr#b,(Ti& structure).” |
 | Phase transition | 2242 K | 2242 | congruent transformation | model | [1] Dixon 1998 | p. 18; `ORC-F4O4MZWSVB.1f6b3a` | “Congruent melting points of 2242K (Zr#b,) and 1547K (ZrPb) were also predicted although it must be remembered that there is no experimental evidence for ZrPb2 and in fact the compound richest in lead that has been reported (3 1) is Zr#b,(Ti& structure).” |
-| Phase transition | 2273 K | 2273 |  | model | [1] Dixon 1998 | p. 17; `ORC-A4QL62Y3TD.047091` | “Estimates for the &sion point of Zr$b, (2273K) and of the peritectic reaction temperature for ZrPb2 (1373K) were made.” |
 
 ### Phase equilibrium (3)
 

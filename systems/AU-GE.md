@@ -1,10 +1,10 @@
 # Au–Ge system
 
-> Au–Ge system: 13 accepted literature values (invariant reaction 13) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ge system: 12 accepted literature values (phase transition 6, invariant reaction 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-GE.html · Markdown: https://data.orchid-project.org/systems/AU-GE.md
 
-13 accepted literature values from 2 paper(s) (experimental 10, model 3); 2 calculated phase diagram(s).
+12 accepted literature values from 2 paper(s) (experimental 9, model 2, unspecified 1); 2 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-GE.json) · [CSV](https://data.orchid-project.org/systems/AU-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-GE/AuGe-09Wan.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AU-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-GE.html) · [Markdown](https://data.orchid-project.org/systems/AU-GE.md)
 
@@ -12,14 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
-| model | 3 |
+| experimental | 9 |
+| model | 2 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 13 |
+| invariant reaction | 6 |
+| phase transition | 6 |
 
 ## Calculated phase diagrams
 
@@ -45,30 +47,38 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Ge system (13)
+Table: Invariant reactions reported in the literature for the Au–Ge system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 637 | eutectic |  | experimental | [1] Chevalier 1989; _cites Legendre 1977_ | p. 2; `ORC-ZZC4PQYCVB.a99faf` | “The eutectic point has been located at x,$2 = 0.24, T = 632 K \[9\], xl;",' = 0.27, T= 629 K \[3\], T= 636 K \[6\], x,$-J = 0.28, T= 630 K \[4\], x%2 = 0.27, T = 637 K \[5\] and x$ = 0.28, T = 635 K \[8\].” |
-| 636 | eutectic |  | experimental | [1] Chevalier 1989; _cites Owen 1945_ | p. 2; `ORC-ZZC4PQYCVB.1dad3f` | “The eutectic point has been located at x,$2 = 0.24, T = 632 K \[9\], xl;",' = 0.27, T= 629 K \[3\], T= 636 K \[6\], x,$-J = 0.28, T= 630 K \[4\], x%2 = 0.27, T = 637 K \[5\] and x$ = 0.28, T = 635 K \[8\].” |
-| 635 | eutectic |  | experimental | [1] Chevalier 1989; _cites Evans 1981_ | p. 2; `ORC-ZZC4PQYCVB.308f78` | “The eutectic point has been located at x,$2 = 0.24, T = 632 K \[9\], xl;",' = 0.27, T= 629 K \[3\], T= 636 K \[6\], x,$-J = 0.28, T= 630 K \[4\], x%2 = 0.27, T = 637 K \[5\] and x$ = 0.28, T = 635 K \[8\].” |
-| 634.13 | eutectic |  | model | [1] Chevalier 1989 | p. 3; `ORC-PPSATYND2G` | “The eutectic reaction was calculated to be at T = 634.13 K and x$ = 0.031, which is in excellent agreement with the experimental data of ref. 8.” |
-| 634 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.27; diamond_A4: Ge 1 | experimental | [2] Wang 2009; _cites Legendre 1977_ | Table 1, p. 2, row 3; `ORC-4GMLCIC2U6` |  |
-| 634 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.28; diamond_A4: Ge 1 | experimental | [2] Wang 2009; _cites Hassam 1988_ [doi](https://doi.org/10.1007/bf02649254) | Table 1, p. 2, row 4; `ORC-AAVF5J7KZ4` |  |
-| 634 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.284; diamond_A4: Ge 1 | model | [2] Wang 2009; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987056-x) | Table 1, p. 2, row 5; `ORC-G4PVMKBXMV` |  |
-| 632 | eutectic |  | experimental | [1] Chevalier 1989; _cites Cheynet 1988_ | p. 2; `ORC-ZZC4PQYCVB.59cf34` | “The eutectic point has been located at x,$2 = 0.24, T = 632 K \[9\], xl;",' = 0.27, T= 629 K \[3\], T= 636 K \[6\], x,$-J = 0.28, T= 630 K \[4\], x%2 = 0.27, T = 637 K \[5\] and x$ = 0.28, T = 635 K \[8\].” |
-| 631 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.294; diamond_A4: Ge 1 | model | [2] Wang 2009 | Table 1, p. 2, row 6; `ORC-XXKFWNSRFG` |  |
-| 630 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.28; diamond_A4: Ge 1 | experimental | [2] Wang 2009; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 1, p. 2, row 2; `ORC-Z2LZ6YYISX` |  |
-| 630 | eutectic |  | experimental | [1] Chevalier 1989; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | p. 2; `ORC-ZZC4PQYCVB.44c61d` | “The eutectic point has been located at x,$2 = 0.24, T = 632 K \[9\], xl;",' = 0.27, T= 629 K \[3\], T= 636 K \[6\], x,$-J = 0.28, T= 630 K \[4\], x%2 = 0.27, T = 637 K \[5\] and x$ = 0.28, T = 635 K \[8\].” |
-| 629 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.27; diamond_A4: Ge 1 | experimental | [2] Wang 2009; _cites Jaffee 1945_ | Table 1, p. 2, row 1; `ORC-3IZLR4KPMY` |  |
-| 629 | eutectic |  | experimental | [1] Chevalier 1989; _cites Jaffee 1945_ | p. 2; `ORC-ZZC4PQYCVB.03b4b3` | “The eutectic point has been located at x,$2 = 0.24, T = 632 K \[9\], xl;",' = 0.27, T= 629 K \[3\], T= 636 K \[6\], x,$-J = 0.28, T= 630 K \[4\], x%2 = 0.27, T = 637 K \[5\] and x$ = 0.28, T = 635 K \[8\].” |
+| 634 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.27; diamond_A4: Ge 1 | experimental | [1] Wang 2009; _cites Legendre 1977_ | Table 1, p. 2, row 3; `ORC-4GMLCIC2U6` |  |
+| 634 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.28; diamond_A4: Ge 1 | experimental | [1] Wang 2009; _cites Hassam 1988_ [doi](https://doi.org/10.1007/bf02649254) | Table 1, p. 2, row 4; `ORC-AAVF5J7KZ4` |  |
+| 634 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.284; diamond_A4: Ge 1 | model | [1] Wang 2009; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987056-x) | Table 1, p. 2, row 5; `ORC-G4PVMKBXMV` |  |
+| 631 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.294; diamond_A4: Ge 1 | model | [1] Wang 2009 | Table 1, p. 2, row 6; `ORC-XXKFWNSRFG` |  |
+| 630 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.28; diamond_A4: Ge 1 | experimental | [1] Wang 2009; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 1, p. 2, row 2; `ORC-Z2LZ6YYISX` |  |
+| 629 | eutectic: L \<-> fcc_A1 + diamond_A4 | L: Ge 0.27; diamond_A4: Ge 1 | experimental | [1] Wang 2009; _cites Jaffee 1945_ | Table 1, p. 2, row 1; `ORC-3IZLR4KPMY` |  |
+
+## Other properties
+
+### Phase transition (6)
+
+Table: Phase transition, Au–Ge system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 629 K | 629 | eutectic | experimental | [2] Hassam 1988; _cites Jaffee 1945_ | Table I, p. 2, row 6; `ORC-RB3SBIO2HE` |  |
+| Phase transition | 630 K | 630 | eutectic | experimental | [2] Hassam 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table I, p. 2, row 8; `ORC-WBEURHLUEI` |  |
+| Phase transition | 632 K | 632 | eutectic | experimental | [2] Hassam 1988; _cites Einecke 1937_ | Table I, p. 2, row 5; `ORC-LKHZJT35AE` |  |
+| Phase transition | 635 K | 635 | eutectic | unspecified | [2] Hassam 1988; _cites Evans 1981_ | Table I, p. 2, row 10; `ORC-CZYZAQJWT4` |  |
+| Phase transition | 636 K | 636 | eutectic | experimental | [2] Hassam 1988; _cites Owen 1945_ | Table I, p. 2, row 7; `ORC-SKIZWZJYPD` |  |
+| Phase transition | 637 K | 637 | eutectic | experimental | [2] Hassam 1988; _cites Legendre 1977_ | Table I, p. 2, row 9; `ORC-FAXQGIQRUZ` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. P.-Y. Chevalier, A thermodynamic evaluation of the Au-Ge and Au-Si systems, Thermochimica Acta 141, 217-226 (1989). [doi:10.1016/0040-6031(89)87056-x](https://doi.org/10.1016/0040-6031%2889%2987056-x)
-2. J. Wang, C. Leinenbach, M. Roth, Thermodynamic modeling of the Au–Ge–Sn ternary system, Journal of Alloys and Compounds 481, 830-836 (2009). [doi:10.1016/j.jallcom.2009.03.114](https://doi.org/10.1016/j.jallcom.2009.03.114)
+1. J. Wang, C. Leinenbach, M. Roth, Thermodynamic modeling of the Au–Ge–Sn ternary system, Journal of Alloys and Compounds 481, 830-836 (2009). [doi:10.1016/j.jallcom.2009.03.114](https://doi.org/10.1016/j.jallcom.2009.03.114)
+2. S. Hassam, M. Gambino, M. Gaune-escard, J.P. Bros, J. ågren, Experimental and Calculated Ag + Au + Ge Phase Diagram, Metall Trans A 19, 409-416 (1988). [doi:10.1007/bf02649254](https://doi.org/10.1007/bf02649254)
 
 ## Please cite
 

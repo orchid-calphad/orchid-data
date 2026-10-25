@@ -1,10 +1,10 @@
 # Ce–O system
 
-> Ce–O system: 92 accepted literature values (invariant reaction 48, crystal structure 19, phase equilibrium 12, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–O system: 87 accepted literature values (invariant reaction 48, crystal structure 19, phase equilibrium 12, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-O.html · Markdown: https://data.orchid-project.org/systems/CE-O.md
 
-92 accepted literature values from 3 paper(s) (experimental 55, model 27, unspecified 10); 2 calculated phase diagram(s).
+87 accepted literature values from 3 paper(s) (experimental 51, model 26, unspecified 10); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-O.json) · [CSV](https://data.orchid-project.org/systems/CE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-O/CeO-06Zin.json) · [phases (19)](https://data.orchid-project.org/phases/pages/CE-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-O.html) · [Markdown](https://data.orchid-project.org/systems/CE-O.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 55 |
-| model | 27 |
+| experimental | 51 |
+| model | 26 |
 | unspecified | 10 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 48 |
-| phase transition | 11 |
+| phase transition | 6 |
 | phase equilibrium | 12 |
 | formation | 1 |
 | heat capacity / entropy / enthalpy | 1 |
@@ -142,20 +142,15 @@ Table: Enthalpies of formation, Ce–O system (1)
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (6)
 
 Table: Phase transition, Ce–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 823 K | 823 | other | model | [2] ZINKEVICH 2006; _cites Kummerle 2000_ | p. 11; `ORC-EN24MWQT5S` | “The transition temperature of 823 K \[15\], however, does not correspond to any invariant reaction in the present assessment.” |
 | Phase transition | 2338 K | 2338 | polymorphic: A \<=> H; _alloy: O 0.6_ | model | [3] ZINKEVICH 2007 | Table 2.2, p. 8, row 11; `ORC-NO7EXNXG6V` |  |
 | Phase transition | 2413 K | 2413 | polymorphic: H \<=> X; _alloy: O 0.6_ | model | [3] ZINKEVICH 2007 | Table 2.2, p. 8, row 25; `ORC-REI7WZMZIZ` |  |
 | Phase transition | 2500 K | 2500 | congruent melting: L=X; _L: O 0.583; X: O 0.583_ | model | [2] ZINKEVICH 2006 | Table 5, p. 9, row 4; `ORC-5O3SHZB3JT` |  |
-| Phase transition | 2503 K | 2503 |  | experimental | [2] ZINKEVICH 2006 | p. 2; `ORC-73WB34FR2K` | “Based on the careful analysis of the measurements conditions, Tm = 2503 ± 50 K was recommended as probable value and it is accepted in the present work.” |
-| Phase transition | 2670 K | 2670 |  | experimental | [2] ZINKEVICH 2006; _cites Mordovin 1967_ | p. 2; `ORC-YMT5BWHOIW` | “Indeed, Mordovin et al. \[67\] detected the liquid phase already at 2670 K, when heating ceria in an argon atmosphere.” |
-| Phase transition | 2753 K | 2753 |  | experimental | [2] ZINKEVICH 2006; _cites Foex 1966_ | p. 2; `ORC-T45GTCYDYL` | “He recommended a value of 2753 K measured by Foex \[74\] in air using a solar furnace.” |
-| Phase transition | 3000 K | 3000 |  | experimental | [2] ZINKEVICH 2006; _cites Brewer 1953_ | p. 2; `ORC-FPW4TBXPOL` | “The available surveys \[69-73\] give a higher melting point of ceria, in the range 2998 to 3073 K, but the only value, for which the confidence interval is given is Tm = 3000 ± 20 K \[70\], and it is accepted in this work.” |
 | Phase transition | 3000 K | 3000 | congruent transformation | model | [2] ZINKEVICH 2006 | p. 12; `ORC-RRHEYMPBLM` | “While present work accumulates all previous knowledge about the Ce-O system, several new results were also obtained: 1) Probable value for the melting point of the stoichiometric CeO2 (3000 ± 20 K). The melting is congruent only under elevated pressure.” |
 | Phase transition | 3306 K | 3306 | congruent melting: L=gas (P=1 bar); _L: O 0.456; gas: O 0.456_ | model | [2] ZINKEVICH 2006 | Table 5, p. 9, row 2; `ORC-4Z6HARMKC5` |  |
 | Phase transition | 4111 K | 4111 | congruent melting: L=gas (P=1 bar); _L: O 0.608; gas: O 0.608_ | model | [2] ZINKEVICH 2006 | Table 5, p. 9, row 1; `ORC-CHMVPK6OK6` |  |

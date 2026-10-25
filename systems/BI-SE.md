@@ -1,10 +1,10 @@
 # Bi–Se system
 
-> Bi–Se system: 123 accepted literature values (formation 38, invariant reaction 38, phase transition 33, crystal structure 14) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Se system: 97 accepted literature values (formation 38, invariant reaction 38, crystal structure 14, phase transition 7) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-SE.html · Markdown: https://data.orchid-project.org/systems/BI-SE.md
 
-123 accepted literature values from 2 paper(s) (experimental 70, model 20, DFT 19, unspecified 14); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+97 accepted literature values from 2 paper(s) (experimental 45, model 19, DFT 19, unspecified 14); 4 calculated phase diagram(s). 28 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SE.json) · [CSV](https://data.orchid-project.org/systems/BI-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-SE/BiSe-14Che.json) · [phases (14)](https://data.orchid-project.org/phases/pages/BI-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-SE.html) · [Markdown](https://data.orchid-project.org/systems/BI-SE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 70 |
-| model | 20 |
+| experimental | 45 |
+| model | 19 |
 | DFT | 19 |
 | unspecified | 14 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 38 |
-| phase transition | 33 |
+| phase transition | 7 |
 | formation | 38 |
 | crystal structure | 14 |
 
@@ -79,19 +79,19 @@ Table: Invariant reactions reported in the literature for the Bi–Se system (38
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 895 | monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Bi2Se3: Se 0.6 | unspecified | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 5, p. 9, row 22; `ORC-XT357RHU4Q` |  |
-| 891 | Liq -> Bi2Se3 + liq | Liq: Se 0.73; Bi2Se3: Bi 0.4, Se 0.6; liq: Se 0.98 | experimental | [2] Chen 2014; _cites Parravano 1931_ | Table 2, p. 4, row 9; `ORC-HI23L32DNW` |  |
+| 891 | monotectic: Liq -> Bi2Se3 + liq | Liq: Se 0.73; Bi2Se3: Bi 0.4, Se 0.6; liq: Se 0.98 | experimental | [2] Chen 2014; _cites Parravano 1931_ | Table 2, p. 4, row 9; `ORC-HI23L32DNW` |  |
 | 891 | monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Liquid#1: Se 0.73; Liquid#2: Se 0.98; Bi2Se3: Se 0.6 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 5, p. 9, row 20; `ORC-SEH4YSRV3A` |  |
 | 890 | peritectic: Liquid#1 + Bi2Se3 -> Bi3Se4 | Liquid#1: Se 0.461; Bi2Se3: Se 0.6; Bi3Se4: Se 0.571 | model | [1] Zhou 2024 | Table 5, p. 9, row 19; `ORC-2O5ZYLVAR6` |  |
 | 890 | peritectic: Liquid#1 + Bi2Se3 -> Bi3Se4 | Liquid#1: Se 0.51; Bi2Se3: Se 0.6; Bi3Se4: Se 0.571 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 18; `ORC-YRR3OIUIMB` |  |
 | 889 | monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Liquid#1: Se 0.696; Liquid#2: Se 0.97; Bi2Se3: Se 0.6 | model | [1] Zhou 2024 | Table 5, p. 9, row 23; `ORC-5VHPXPQDMX` |  |
-| 887 | Liq -> Bi2Se3 + liq | Bi2Se3: Bi 0.4, Se 0.6 | experimental | [2] Chen 2014; _cites Ohashi 1966_ | Table 2, p. 4, row 10; `ORC-CYPL7P5VQ6` |  |
+| 887 | monotectic: Liq -> Bi2Se3 + liq | Bi2Se3: Bi 0.4, Se 0.6 | experimental | [2] Chen 2014; _cites Ohashi 1966_ | Table 2, p. 4, row 10; `ORC-CYPL7P5VQ6` |  |
 | 881 | peritectic: Liquid#1 + Bi3Se4 -> Bi8Se9 | Liquid#1: Se 0.5; Bi3Se4: Se 0.571; Bi8Se9: Se 0.529 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 16; `ORC-B3L7LPXKDP` |  |
 | 881 | peritectic: Liquid#1 + Bi3Se4 -> Bi8Se9 | Liquid#1: Se 0.447; Bi3Se4: Se 0.571; Bi8Se9: Se 0.529 | model | [1] Zhou 2024 | Table 5, p. 9, row 17; `ORC-DDI45ITY5I` |  |
 | 879 | Liq + Bi2Se3 -> BiSe | Liq: Se 0.47; Bi2Se3: Bi 0.4, Se 0.6; BiSe: Bi 0.5, Se 0.5 | model | [2] Chen 2014 | Table 2, p. 4, row 5; `ORC-OU5K4TO3HT` |  |
 | 878 | Liq + Bi2Se3 -> BiSe | Bi2Se3: Bi 0.4, Se 0.6; BiSe: Bi 0.5, Se 0.5 | experimental | [2] Chen 2014; _cites Parravano 1931_ | Table 2, p. 4, row 6; `ORC-UJAMBMY3AX` |  |
-| 878 | Liq -> Bi2Se3 + liq | Liq: Se 0.73; Bi2Se3: Bi 0.4, Se 0.6; liq: Se 0.96 | experimental | [2] Chen 2014; _cites Tomoshige 1919_ | Table 2, p. 4, row 11; `ORC-Z6Y3DLRDJ2` |  |
+| 878 | monotectic: Liq -> Bi2Se3 + liq | Liq: Se 0.73; Bi2Se3: Bi 0.4, Se 0.6; liq: Se 0.96 | experimental | [2] Chen 2014; _cites Tomoshige 1919_ | Table 2, p. 4, row 11; `ORC-Z6Y3DLRDJ2` |  |
 | 878 | monotectic: Liquid#1 -> Liquid#2 + Bi2Se3 | Liquid#1: Se 0.73; Liquid#2: Se 0.96; Bi2Se3: Se 0.6 | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 5, p. 9, row 21; `ORC-ZGNNERH4M4` |  |
-| 876 | Liq -> Bi2Se3 + liq | Liq: Se 0.72; Bi2Se3: Bi 0.4, Se 0.6; liq: Se 0.95 | model | [2] Chen 2014 | Table 2, p. 4, row 8; `ORC-UZ3H4OQ3KX` |  |
+| 876 | monotectic: Liq -> Bi2Se3 + liq | Liq: Se 0.72; Bi2Se3: Bi 0.4, Se 0.6; liq: Se 0.95 | model | [2] Chen 2014 | Table 2, p. 4, row 8; `ORC-UZ3H4OQ3KX` |  |
 | 872 | Liq + Bi2Se3 -> BiSe | Bi2Se3: Bi 0.4, Se 0.6; BiSe: Bi 0.5, Se 0.5 | experimental | [2] Chen 2014; _cites Tomoshige 1919_ | Table 2, p. 4, row 7; `ORC-FMBIYSEBJO` |  |
 | 866 | peritectic: Liquid#1 + Bi8Se9 -> BiSe | Liquid#1: Se 0.417; Bi8Se9: Se 0.529; BiSe: Se 0.5 | model | [1] Zhou 2024 | Table 5, p. 9, row 15; `ORC-DRQNJUYBQ4` |  |
 | 866 | peritectic: Liquid#1 + Bi8Se9 -> BiSe | Liquid#1: Se 0.485; Bi8Se9: Se 0.529; BiSe: Se 0.5 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 14; `ORC-LYFJ23DRMO` |  |
@@ -105,7 +105,7 @@ Table: Invariant reactions reported in the literature for the Bi–Se system (38
 | 742 | peritectic: Liquid#1 + Bi4Se3 -> Bi3Se2 | Liquid#1: Se 0.185; Bi4Se3: Se 0.429; Bi3Se2: Se 0.4 | model | [1] Zhou 2024 | Table 5, p. 9, row 9; `ORC-DXDEDMV772` |  |
 | 742 | peritectic: Liquid#1 + Bi4Se3 -> Bi3Se2 | Liquid#1: Se 0.2; Bi4Se3: Se 0.429; Bi3Se2: Se 0.4 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 8; `ORC-OTRL5HJ7DW` |  |
 | 544 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 0; Bi3Se2: Se 0.4 | model | [1] Zhou 2024 | Table 5, p. 9, row 7; `ORC-2DXFWRAOSP` |  |
-| 543.9 | Liq -> rho + Bi3Se2 | Liq: Se 0.0078; Bi3Se2: Bi 0.6, Se 0.4 | model | [2] Chen 2014 | Table 2, p. 4, row 1; `ORC-53SFJ5IWZI` |  |
+| 543.9 | eutectic: Liq -> rho + Bi3Se2 | Liq: Se 0.0078; Bi3Se2: Bi 0.6, Se 0.4 | model | [2] Chen 2014 | Table 2, p. 4, row 1; `ORC-53SFJ5IWZI` |  |
 | 543 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 0; Bi3Se2: Se 0.4 | unspecified | [1] Zhou 2024; _cites Sher 1986_ | Table 5, p. 9, row 5; `ORC-IVMNTJQMJO` |  |
 | 543 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 0; Bi3Se2: Se 0.333 | unspecified | [1] Zhou 2024; _cites Abrikosov 1960_ | Table 5, p. 9, row 3; `ORC-UGRPW6TGJT` |  |
 | 542 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 0; Bi3Se2: Se 0.5 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 5, p. 9, row 1; `ORC-OEG4L5ELCC` |  |
@@ -113,7 +113,7 @@ Table: Invariant reactions reported in the literature for the Bi–Se system (38
 | 542 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0; (Bi): Se 0; Bi3Se2: Se 0.5 | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | Table 5, p. 9, row 2; `ORC-UB76NKJBQR` |  |
 | 540 | eutectic: Liquid#1 -> (Bi) + Bi3Se2 | Liquid#1: Se 0.02; (Bi): Se 0; Bi3Se2: Se 0.4 | experimental | [1] Zhou 2024; _cites Hasanova 2022_ [doi](https://doi.org/10.1007/s10973-021-10975-0) | Table 5, p. 9, row 6; `ORC-OOWR3B3ZEN` |  |
 | 497 | eutectic: Liquid#1 -> (Se) + Bi2Se3 | Liquid#1: Se 1; (Se): Se 1; Bi2Se3: Se 0.6 | unspecified | [1] Zhou 2024; _cites Poretskaya 1991_ | Table 5, p. 9, row 25; `ORC-FVLIR6FADA` |  |
-| 494 | Liq -> Bi2Se3 + hex | Liq: Se 1; Bi2Se3: Bi 0.4, Se 0.6 | model | [2] Chen 2014 | Table 2, p. 4, row 12; `ORC-3I6TWXWH3F` |  |
+| 494 | eutectic: Liq -> Bi2Se3 + hex | Liq: Se 1; Bi2Se3: Bi 0.4, Se 0.6 | model | [2] Chen 2014 | Table 2, p. 4, row 12; `ORC-3I6TWXWH3F` |  |
 | 494 | eutectic: Liquid#1 -> (Se) + Bi2Se3 | Liquid#1: Se 1; (Se): Se 1; Bi2Se3: Se 0.6 | model | [1] Zhou 2024 | Table 5, p. 9, row 26; `ORC-ET2FKAGZCR` |  |
 | 490 | eutectic: Liquid#1 -> (Se) + Bi2Se3 | Liquid#1: Se 1; (Se): Se 1; Bi2Se3: Se 0.6 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | Table 5, p. 9, row 24; `ORC-KMS3FHVXYK` |  |
 
@@ -166,37 +166,12 @@ Table: Enthalpies of formation, Bi–Se system (38)
 
 ## Other properties
 
-### Phase transition (33)
+### Phase transition (7)
 
 Table: Phase transition, Bi–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 490 K | 490 | Liquid#2 ? (Se) ? Bi2Se3 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | p. 4; `ORC-THIPX3VAUH.033085` | “Parravano\[53\] determined liquidus and the temperatures of four invariant reactions, i.e., Liquid#1 ? (Bi) ? BiSe (542 K), Liquid#1 ? Bi2Se3? BiSe (878 K), Liquid#1 ? Liquid#2 ? Bi2Se3 (891 K), Liquid#2 ? (Se) ? Bi2Se3 (490 K) in the range of 5-70 at.% Se.” |
-| Phase transition | 497 K | 497 | Liquid#2 ? (Se) ? Bi2Se3 | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | p. 6; `ORC-EOKB4KE32I.0e4d8f` | “Subsequently, Poretskaya et al.\[58\] investigated the liquidus near Bi2Se3 using DTA, CM and OM methods while giving the temperatures of three invariant reactions, i.e., Liquid#1 ? Liquid#2 ? Bi2Se3 (895 K), Liquid#2 ? (Se) ? Bi2Se3 (497 K), Liquid#1 ? Bi2Se3 ? BiSe (891 K).” |
-| Phase transition | 540 K | 540 | Liquid#1 ? Bi ? Bi3Se2 | experimental | [1] Zhou 2024 | p. 6; `ORC-TZD54HEU77.70e0ef` | “The existence of Bi3Se4, Bi8Se9, BiSe, Bi8Se7 and Bi4Se3 were demonstrated and seven invariant reaction temperatures were also proposed, i.e., Liquid#1 ? Bi2Se3 ? Bi3Se4 (890 K), Liquid#1 ? Bi3Se4 ? Bi8Se9 (881 K), Liquid#1 ? Bi8Se9 ? BiSe (866 K), Liquid#1 ? BiSe ? Bi8Se7 (853 K), Liquid#1 ? Bi8Se7? Bi4Se3 (829 K), Liquid#1 ? Bi4Se3 ? Bi3Se2 (742 K), Liquid#1 ? Bi ? Bi3Se2 (540 K).” |
-| Phase transition | 542 K | 542 | Liquid#1 ? (Bi) ? Bi3Se2 | experimental | [1] Zhou 2024; _cites Gather 1975_ | p. 4; `ORC-DM776GVJN6.e1e22d` | “They\[57\] also investigated liquidus in the homogeneity range of 0-60 at.% Se as well as the temperatures of the three invariant reactions, i.e., Liquid#1 ? Bi2Se3 ? BiSe (882 K), Liquid#1 ? BiSe ? Bi3Se2 (743 K), and Liquid#1 ? (Bi) ? Bi3Se2 (542 K), using TA, OM, and XRD methods.” |
-| Phase transition | 542 K | 542 | Liquid#1 ? (Bi) ? BiSe | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | p. 4; `ORC-32QPGC4632.9439d5` | “Then, Tomoshige\[54\] determined the liquidus in the range of 5-70 at.% Se by OM, XRD, and DTA methods and also determined the temperatures for four invariant reactions, i.e., Liquid#1 ? (Bi) ? BiSe (542 K), Liquid#1 ? Bi2Se3 ? BiSe (878 K), Liquid#1 ? Liquid#2 ? Bi2Se3 (878 K), and Liquid#2 ? (Se) ? Bi2Se3 (423-443 K).” |
-| Phase transition | 542 K | 542 | Liquid#1 ? (Bi) ? BiSe | experimental | [1] Zhou 2024; _cites Parravano 1913_ | p. 4; `ORC-THIPX3VAUH.997251` | “Parravano\[53\] determined liquidus and the temperatures of four invariant reactions, i.e., Liquid#1 ? (Bi) ? BiSe (542 K), Liquid#1 ? Bi2Se3? BiSe (878 K), Liquid#1 ? Liquid#2 ? Bi2Se3 (891 K), Liquid#2 ? (Se) ? Bi2Se3 (490 K) in the range of 5-70 at.% Se.” |
-| Phase transition | 543 K | 543 | Liquid#1 ? (Bi) ? Bi2Se | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | p. 4; `ORC-O5NNPQV3YQ.5957c0` | “Abrikosov et al.\[56\] measured the temperatures of the three invariant reactions, i.e., Liquid#1 ? (Bi) ? Bi2Se at (543 K), Liquid#1 ? BiSe ? Bi2Se (741 K), Liquid#1 ? Bi2Se3? BiSe (880 K), which includes the compound Bi2Se, employing DTA, OM and conductivity measurement (CM) methods.” |
-| Phase transition | 543 K | 543 | Liquid#1 ? (Bi) ? Bi3Se2 | experimental | [1] Zhou 2024; _cites Sher 1986_ | p. 6; `ORC-FLKY2RLYSU.5072e4` | “Sher et al.\[46\] reported liquidus in the range of 15-60 at.% Se, as well as the temperatures of three invariant reactions, i.e., Liquid#1 ? (Bi) ? Bi3Se2 (543 K), Liquid#1 ? BiSe ? Bi3Se2 (743 K), and Liquid#1 ? Bi2Se3 ? BiSe (879 K), employing OM, XRD, and DTA methods.” |
-| Phase transition | 741 K | 741 | Liquid#1 ? BiSe ? Bi2Se | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | p. 4; `ORC-O5NNPQV3YQ.59bcf3` | “Abrikosov et al.\[56\] measured the temperatures of the three invariant reactions, i.e., Liquid#1 ? (Bi) ? Bi2Se at (543 K), Liquid#1 ? BiSe ? Bi2Se (741 K), Liquid#1 ? Bi2Se3? BiSe (880 K), which includes the compound Bi2Se, employing DTA, OM and conductivity measurement (CM) methods.” |
-| Phase transition | 742 K | 742 | Liquid#1 ? Bi4Se3 ? Bi3Se2 | experimental | [1] Zhou 2024 | p. 6; `ORC-TZD54HEU77.df1b24` | “The existence of Bi3Se4, Bi8Se9, BiSe, Bi8Se7 and Bi4Se3 were demonstrated and seven invariant reaction temperatures were also proposed, i.e., Liquid#1 ? Bi2Se3 ? Bi3Se4 (890 K), Liquid#1 ? Bi3Se4 ? Bi8Se9 (881 K), Liquid#1 ? Bi8Se9 ? BiSe (866 K), Liquid#1 ? BiSe ? Bi8Se7 (853 K), Liquid#1 ? Bi8Se7? Bi4Se3 (829 K), Liquid#1 ? Bi4Se3 ? Bi3Se2 (742 K), Liquid#1 ? Bi ? Bi3Se2 (540 K).” |
-| Phase transition | 743 K | 743 | Liquid#1 ? BiSe ? Bi3Se2 | experimental | [1] Zhou 2024; _cites Gather 1975_ | p. 4; `ORC-DM776GVJN6.168b11` | “They\[57\] also investigated liquidus in the homogeneity range of 0-60 at.% Se as well as the temperatures of the three invariant reactions, i.e., Liquid#1 ? Bi2Se3 ? BiSe (882 K), Liquid#1 ? BiSe ? Bi3Se2 (743 K), and Liquid#1 ? (Bi) ? Bi3Se2 (542 K), using TA, OM, and XRD methods.” |
-| Phase transition | 743 K | 743 | Liquid#1 ? BiSe ? Bi3Se2 | experimental | [1] Zhou 2024; _cites Sher 1986_ | p. 6; `ORC-FLKY2RLYSU.0024b1` | “Sher et al.\[46\] reported liquidus in the range of 15-60 at.% Se, as well as the temperatures of three invariant reactions, i.e., Liquid#1 ? (Bi) ? Bi3Se2 (543 K), Liquid#1 ? BiSe ? Bi3Se2 (743 K), and Liquid#1 ? Bi2Se3 ? BiSe (879 K), employing OM, XRD, and DTA methods.” |
-| Phase transition | 829 K | 829 | Liquid#1 ? Bi8Se7? Bi4Se3 | experimental | [1] Zhou 2024 | p. 6; `ORC-TZD54HEU77.8161d8` | “The existence of Bi3Se4, Bi8Se9, BiSe, Bi8Se7 and Bi4Se3 were demonstrated and seven invariant reaction temperatures were also proposed, i.e., Liquid#1 ? Bi2Se3 ? Bi3Se4 (890 K), Liquid#1 ? Bi3Se4 ? Bi8Se9 (881 K), Liquid#1 ? Bi8Se9 ? BiSe (866 K), Liquid#1 ? BiSe ? Bi8Se7 (853 K), Liquid#1 ? Bi8Se7? Bi4Se3 (829 K), Liquid#1 ? Bi4Se3 ? Bi3Se2 (742 K), Liquid#1 ? Bi ? Bi3Se2 (540 K).” |
-| Phase transition | 853 K | 853 | Liquid#1 ? BiSe ? Bi8Se7 | experimental | [1] Zhou 2024 | p. 6; `ORC-TZD54HEU77.ee2332` | “The existence of Bi3Se4, Bi8Se9, BiSe, Bi8Se7 and Bi4Se3 were demonstrated and seven invariant reaction temperatures were also proposed, i.e., Liquid#1 ? Bi2Se3 ? Bi3Se4 (890 K), Liquid#1 ? Bi3Se4 ? Bi8Se9 (881 K), Liquid#1 ? Bi8Se9 ? BiSe (866 K), Liquid#1 ? BiSe ? Bi8Se7 (853 K), Liquid#1 ? Bi8Se7? Bi4Se3 (829 K), Liquid#1 ? Bi4Se3 ? Bi3Se2 (742 K), Liquid#1 ? Bi ? Bi3Se2 (540 K).” |
-| Phase transition | 866 K | 866 | Liquid#1 ? Bi8Se9 ? BiSe | experimental | [1] Zhou 2024 | p. 6; `ORC-TZD54HEU77.626de8` | “The existence of Bi3Se4, Bi8Se9, BiSe, Bi8Se7 and Bi4Se3 were demonstrated and seven invariant reaction temperatures were also proposed, i.e., Liquid#1 ? Bi2Se3 ? Bi3Se4 (890 K), Liquid#1 ? Bi3Se4 ? Bi8Se9 (881 K), Liquid#1 ? Bi8Se9 ? BiSe (866 K), Liquid#1 ? BiSe ? Bi8Se7 (853 K), Liquid#1 ? Bi8Se7? Bi4Se3 (829 K), Liquid#1 ? Bi4Se3 ? Bi3Se2 (742 K), Liquid#1 ? Bi ? Bi3Se2 (540 K).” |
-| Phase transition | 878 K | 878 | Liquid#1 ? Bi2Se3 ? BiSe | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | p. 4; `ORC-32QPGC4632.2a2385` | “Then, Tomoshige\[54\] determined the liquidus in the range of 5-70 at.% Se by OM, XRD, and DTA methods and also determined the temperatures for four invariant reactions, i.e., Liquid#1 ? (Bi) ? BiSe (542 K), Liquid#1 ? Bi2Se3 ? BiSe (878 K), Liquid#1 ? Liquid#2 ? Bi2Se3 (878 K), and Liquid#2 ? (Se) ? Bi2Se3 (423-443 K).” |
-| Phase transition | 878 K | 878 | Liquid#1 ? Bi2Se3? BiSe | experimental | [1] Zhou 2024; _cites Parravano 1913_ | p. 4; `ORC-THIPX3VAUH.52c569` | “Parravano\[53\] determined liquidus and the temperatures of four invariant reactions, i.e., Liquid#1 ? (Bi) ? BiSe (542 K), Liquid#1 ? Bi2Se3? BiSe (878 K), Liquid#1 ? Liquid#2 ? Bi2Se3 (891 K), Liquid#2 ? (Se) ? Bi2Se3 (490 K) in the range of 5-70 at.% Se.” |
-| Phase transition | 879 K | 879 | Liquid#1 ? Bi2Se3 ? BiSe | experimental | [1] Zhou 2024; _cites Sher 1986_ | p. 6; `ORC-FLKY2RLYSU.2af801` | “Sher et al.\[46\] reported liquidus in the range of 15-60 at.% Se, as well as the temperatures of three invariant reactions, i.e., Liquid#1 ? (Bi) ? Bi3Se2 (543 K), Liquid#1 ? BiSe ? Bi3Se2 (743 K), and Liquid#1 ? Bi2Se3 ? BiSe (879 K), employing OM, XRD, and DTA methods.” |
-| Phase transition | 880 K | 880 | Liquid#1 ? Bi2Se3? BiSe | experimental | [1] Zhou 2024; _cites Abrikosov 1960_ | p. 4; `ORC-O5NNPQV3YQ.a1e982` | “Abrikosov et al.\[56\] measured the temperatures of the three invariant reactions, i.e., Liquid#1 ? (Bi) ? Bi2Se at (543 K), Liquid#1 ? BiSe ? Bi2Se (741 K), Liquid#1 ? Bi2Se3? BiSe (880 K), which includes the compound Bi2Se, employing DTA, OM and conductivity measurement (CM) methods.” |
-| Phase transition | 881 K | 881 | Liquid#1 ? Bi3Se4 ? Bi8Se9 | experimental | [1] Zhou 2024 | p. 6; `ORC-TZD54HEU77.6cfa7e` | “The existence of Bi3Se4, Bi8Se9, BiSe, Bi8Se7 and Bi4Se3 were demonstrated and seven invariant reaction temperatures were also proposed, i.e., Liquid#1 ? Bi2Se3 ? Bi3Se4 (890 K), Liquid#1 ? Bi3Se4 ? Bi8Se9 (881 K), Liquid#1 ? Bi8Se9 ? BiSe (866 K), Liquid#1 ? BiSe ? Bi8Se7 (853 K), Liquid#1 ? Bi8Se7? Bi4Se3 (829 K), Liquid#1 ? Bi4Se3 ? Bi3Se2 (742 K), Liquid#1 ? Bi ? Bi3Se2 (540 K).” |
-| Phase transition | 882 K | 882 | Liquid#1 ? Bi2Se3 ? BiSe | experimental | [1] Zhou 2024; _cites Gather 1975_ | p. 4; `ORC-DM776GVJN6.ef3695` | “They\[57\] also investigated liquidus in the homogeneity range of 0-60 at.% Se as well as the temperatures of the three invariant reactions, i.e., Liquid#1 ? Bi2Se3 ? BiSe (882 K), Liquid#1 ? BiSe ? Bi3Se2 (743 K), and Liquid#1 ? (Bi) ? Bi3Se2 (542 K), using TA, OM, and XRD methods.” |
-| Phase transition | 890 K | 890 | Liquid#1 ? Bi2Se3 ? Bi3Se4 | experimental | [1] Zhou 2024 | p. 6; `ORC-TZD54HEU77.324681` | “The existence of Bi3Se4, Bi8Se9, BiSe, Bi8Se7 and Bi4Se3 were demonstrated and seven invariant reaction temperatures were also proposed, i.e., Liquid#1 ? Bi2Se3 ? Bi3Se4 (890 K), Liquid#1 ? Bi3Se4 ? Bi8Se9 (881 K), Liquid#1 ? Bi8Se9 ? BiSe (866 K), Liquid#1 ? BiSe ? Bi8Se7 (853 K), Liquid#1 ? Bi8Se7? Bi4Se3 (829 K), Liquid#1 ? Bi4Se3 ? Bi3Se2 (742 K), Liquid#1 ? Bi ? Bi3Se2 (540 K).” |
-| Phase transition | 891 K | 891 | Liquid#1 ? Bi2Se3 ? BiSe | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | p. 6; `ORC-EOKB4KE32I.d469b0` | “Subsequently, Poretskaya et al.\[58\] investigated the liquidus near Bi2Se3 using DTA, CM and OM methods while giving the temperatures of three invariant reactions, i.e., Liquid#1 ? Liquid#2 ? Bi2Se3 (895 K), Liquid#2 ? (Se) ? Bi2Se3 (497 K), Liquid#1 ? Bi2Se3 ? BiSe (891 K).” |
-| Phase transition | 891 K | 891 | Liquid#1 ? Liquid#2 ? Bi2Se3 | experimental | [1] Zhou 2024; _cites Parravano 1913_ | p. 4; `ORC-THIPX3VAUH.1ad44f` | “Parravano\[53\] determined liquidus and the temperatures of four invariant reactions, i.e., Liquid#1 ? (Bi) ? BiSe (542 K), Liquid#1 ? Bi2Se3? BiSe (878 K), Liquid#1 ? Liquid#2 ? Bi2Se3 (891 K), Liquid#2 ? (Se) ? Bi2Se3 (490 K) in the range of 5-70 at.% Se.” |
-| Phase transition | 895 K | 895 | Liquid#1 ? Liquid#2 ? Bi2Se3 | experimental | [1] Zhou 2024; _cites Poretskaya 1991_ | p. 6; `ORC-EOKB4KE32I.ff9471` | “Subsequently, Poretskaya et al.\[58\] investigated the liquidus near Bi2Se3 using DTA, CM and OM methods while giving the temperatures of three invariant reactions, i.e., Liquid#1 ? Liquid#2 ? Bi2Se3 (895 K), Liquid#2 ? (Se) ? Bi2Se3 (497 K), Liquid#1 ? Bi2Se3 ? BiSe (891 K).” |
 | Phase transition | 961 K | 961 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Tomoshige 1919_ | Table 3, p. 4, row 7; `ORC-Z2GRLRTR7Z` |  |
 | Phase transition | 973 K | 973 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Kuznetsov 1963_ | Table 3, p. 4, row 6; `ORC-L5O6JBA4YZ` |  |
 | Phase transition | 973 K | 973 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Kulwicki 1963_ | Table 3, p. 4, row 5; `ORC-WOLFQTBV47` |  |
@@ -204,7 +179,6 @@ Table: Phase transition, Bi–Se system
 | Phase transition | 979 K | 979 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Pelabon 1904_ [doi](https://doi.org/10.1051/jcp/1904020321) | Table 3, p. 4, row 3; `ORC-GH7XG5MEZD` |  |
 | Phase transition | 982 K | 982 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | model | [2] Chen 2014 | Table 3, p. 4, row 1; `ORC-SYFCLZB5GJ` |  |
 | Phase transition | 983 K | 983 | congruent transformation: Bi2Se3; _alloy: Se 0.6_ | experimental | [2] Chen 2014; _cites Yarembash 1962_ | Table 3, p. 4, row 2; `ORC-QW7LLKHKSD` |  |
-| Phase transition | 984 K | 984 |  | model | [1] Zhou 2024 | p. 18; `ORC-V6KJ4HC4SJ` | “The calculated melting temperature of Bi2Se3 is 984 K, which is consistent with the experimental data from the literature.\[37,46,53,55,56,58\]” |
 
 ### Crystal structure (14)
 

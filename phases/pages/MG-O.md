@@ -18,7 +18,7 @@ Table: Phases of the Mg–O system (8)
 | [GAS](#phase-mg-o-gas); _phase:mg-o:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 1372.5–2500 K, x(O) 0–1 | 0 | 3 |
 | [HCP_A3](#phase-mg-o-hcp-a3); _phase:mg-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–925 K, x(O) 0–0 | 0 | 3 |
 | [ION](#phase-mg-o-ion); _phase:mg-o:ion_ | liquid | liquid | stable in 1 of 2 calculated diagram(s): 922–925 K, x(O) 0–0.0012 | 0 | 3 |
-| [LIQUID](#phase-mg-o-liquid); _phase:mg-o:liquid_ | liquid | liquid | not stable in 2 calculated diagram(s) | 26 | 3 |
+| [LIQUID](#phase-mg-o-liquid); _phase:mg-o:liquid_ | liquid | liquid | not stable in 2 calculated diagram(s) | 27 | 3 |
 | [O2GAS](#phase-mg-o-o2gas); _phase:mg-o:o2gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 300–797.5 K, x(O) 1–1 | 0 | 3 |
 
 ## B1_OXIDE (Mg–O)
@@ -305,7 +305,7 @@ _assessment that models this phase_
 - Id: `phase:mg-o:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 26 values (26 accepted) from 2 papers
+- Literature: 27 values (27 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-o:liquid)
 
 Names (6): _corpus: _corpus:phase:mg-o:liquid  

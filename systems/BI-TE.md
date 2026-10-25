@@ -1,10 +1,10 @@
 # Bi–Te system
 
-> Bi–Te system: 211 accepted literature values (phase transition 118, invariant reaction 55, phase equilibrium 14, crystal structure 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Te system: 209 accepted literature values (phase transition 117, invariant reaction 54, phase equilibrium 14, crystal structure 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-TE.html · Markdown: https://data.orchid-project.org/systems/BI-TE.md
 
-211 accepted literature values from 2 paper(s) (experimental 185, model 18, unspecified 8); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+209 accepted literature values from 2 paper(s) (experimental 185, model 16, unspecified 8); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-TE.json) · [CSV](https://data.orchid-project.org/systems/BI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-TE/BiTe-18Gie.json) · [phases (13)](https://data.orchid-project.org/phases/pages/BI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-TE.html) · [Markdown](https://data.orchid-project.org/systems/BI-TE.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 185 |
-| model | 18 |
+| model | 16 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 55 |
-| phase transition | 118 |
+| invariant reaction | 54 |
+| phase transition | 117 |
 | phase equilibrium | 14 |
 | formation | 12 |
 | crystal structure | 12 |
@@ -83,7 +83,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Te system (55)
+Table: Invariant reactions reported in the literature for the Bi–Te system (54)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -136,7 +136,6 @@ Table: Invariant reactions reported in the literature for the Bi–Te system (55
 | 543.75 | eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.01; Bi7Te3: Bi 0.7, Te 0.3 | model | [1] Drzewowska 2023 | Table 6, p. 13, row 26; `ORC-GMCQHZC7IL` |  |
 | 539.15 | eutectic: Liquid -> (Bi) + Bi7Te3 | Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 13, row 29; `ORC-HKQ3357ON6` |  |
 | 539.15 | eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.024; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 28; `ORC-J2IESG66G6` |  |
-| 539.15 | eutectic |  | model | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | p. 13; `ORC-S4XR4B2A7M` | “Glatz37 studied alloys from the Bi-Te system and concluded that the eutectic on the bismuth side (266 C) can be eliminated in the alloy with the atomic composition Bi56Te44 by equilibrating it at 300 C for 180 days, while the equilibration at 250 C for 90 days does not eliminate the eutectic reaction.” |
 | 539 | peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.024; (Bi): Te 0; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Abrikosov 1958_ | Table 6, p. 16, row 5; `ORC-CZ73N2MJEQ` |  |
 | 537.15 | eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.025; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Yamana 1979_ [doi](https://doi.org/10.1107/s0567740879002788) | Table 6, p. 13, row 30; `ORC-WDZ2Z2JIHQ` |  |
 | 537 | peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.025; (Bi): Te 0; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 7; `ORC-6RWL2CH6HY` |  |
@@ -166,7 +165,7 @@ Table: Enthalpies of formation, Bi–Te system (12)
 
 ## Other properties
 
-### Phase transition (118)
+### Phase transition (117)
 
 Table: Phase transition, Bi–Te system
 
@@ -281,7 +280,6 @@ Table: Phase transition, Bi–Te system
 | Phase transition | 851.15 K | 851.15 | 2; _alloy: Bi 0.4, Te 0.6_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 18; `ORC-Y2ZGFVTRUM` |  |
 | Phase transition | 856.75 K | 856.75 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 22; `ORC-F37QIY2LLT` |  |
 | Phase transition | 857.25 K | 857.25 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 25; `ORC-PN6PX6PSMT` |  |
-| Phase transition | 858 K | 858 |  | model | [2] Zhou 2024 | p. 20; `ORC-RXQ4XWODWS` | “The calculated melting temperature of Bi2Te3 is 858 K, which is consistent with the experimental data\[32,34,35,80\].” |
 | Phase transition | 858.45 K | 858.45 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 39; `ORC-MATAVH5AL2` |  |
 | Phase transition | 858.65 K | 858.65 | 2; _alloy: Bi 0.4, Te 0.6_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 16; `ORC-B7Z6ZR2F5F` |  |
 | Phase transition | 859.25 K | 859.25 | 2; _alloy: Bi 0.4, Te 0.6_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 17; `ORC-OAZMBUXIZJ` |  |

@@ -34,9 +34,9 @@ Table: Uncertainty budget of the literature values of CsO
 | -96.625 | kJ/mol-atom |  | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -110 | kJ/mol-atom |  | 0.0125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -97.5 | kJ/mol-atom |  | 0.0125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -131.025 | kJ/mol-atom |  | 0.0125 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -129.05 | kJ/mol-atom |  | 0.0125 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -97.95 | kJ/mol-atom |  | 0.0125 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -131.025 | kJ/mol-atom |  | 0.0125 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -129.05 | kJ/mol-atom |  | 0.0125 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -97.95 | kJ/mol-atom |  | 0.0125 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 | -124.4 | kJ/mol-atom |  | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -110 | kJ/mol-atom |  | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 

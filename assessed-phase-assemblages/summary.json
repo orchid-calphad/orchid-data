@@ -6,10 +6,10 @@
   "version": "1.0.0",
   "annotation_run": "run-20261021h-full",
   "annotation_tools_sha256": "c8c3e77469eddd6d9bc28c90060e4d20564dbab33e9ea02b176b26db0a1b4f45",
-  "phase_mapper_sha256": "6eb46f2221cd36b55bb619df68eb646a2a23a7a71ccb22e415af010db455e72a",
+  "phase_mapper_sha256": "7393ff687870a212358a13810346e1c109cd9a2dcd16d779d7e83ee4ca5a0d3d",
   "phase_mapper": {
    "path": "orchid-project.org/tools/phase_mapper.py",
-   "git_blob": "3278c76bd368e3c6b2282ffecabe1e3ae357ba1b",
+   "git_blob": "6b40eec5c5f8039a041a5804b09f37c1799eb924",
    "repository": "https://github.com/orchid-calphad/orchid-project.org"
   },
   "builder": "orchid-project.org/tools/build_assessed_assemblages.py"
@@ -60,8 +60,8 @@
   "schematic_field_unbounded_below": 2
  },
  "phase_labels_mapped_to_registry": {
-  "mapped": 19843,
-  "unmapped": 21776
+  "mapped": 19838,
+  "unmapped": 21781
  },
  "two_phase_tie_lines": {
   "with_tie_line": 11961,
@@ -79,21 +79,21 @@
  "sgte_crosscheck": {
   "comparisons": 30769,
   "agrees": 17874,
-  "disagrees": 3621,
-  "not_comparable": 9274,
-  "agreement_rate_of_comparable": 0.8315,
+  "disagrees": 3617,
+  "not_comparable": 9278,
+  "agreement_rate_of_comparable": 0.8317,
   "not_comparable_by_reason": {
-   "assemblage phase without registry mapping": 8005,
+   "assemblage phase without registry mapping": 8010,
    "no calculated equilibrium at this cell": 25,
    "order-disorder model: the grid label does not tell the ordered from the disordered state": 270,
    "outside the calculated T-x range": 405,
-   "the same registry phase twice (the grid collapses composition sets)": 569
+   "the same registry phase twice (the grid collapses composition sets)": 568
   },
   "points": {
    "no SGTE assessment": 10194,
    "agrees with >=1": 8331,
-   "not comparable": 3495,
-   "disagrees with all comparable": 1109
+   "not comparable": 3499,
+   "disagrees with all comparable": 1105
   },
   "metric_definitions": {
    "comparison": "one point x one calculated SGTE diagram of its system (nearest grid cell)",
@@ -103,15 +103,15 @@
    "median_system_rate": "median over systems with >= 5 comparable comparisons of the system's agreement rate",
    "not_comparable": "counted separately, never in a rate; reasons in not_comparable_by_reason and, per comparison, in sgte_not_comparable.csv"
   },
-  "comparable": 21495,
-  "points_with_comparable_assessment": 9440,
+  "comparable": 21491,
+  "points_with_comparable_assessment": 9436,
   "points_agreeing_with_at_least_one": 8331,
-  "points_agreeing_with_at_least_one_rate": 0.8825,
+  "points_agreeing_with_at_least_one_rate": 0.8829,
   "points_agreeing_with_all_comparable": 7508,
-  "points_disagreeing_with_all_comparable": 1109,
+  "points_disagreeing_with_all_comparable": 1105,
   "systems_with_5_comparable": 889,
   "median_system_rate": 0.8889,
-  "mean_system_rate": 0.8469
+  "mean_system_rate": 0.8471
  },
  "points_by_boundary_basis": {
   "printed_solid": 20782,
@@ -140,8 +140,8 @@
  "espei": {
   "datasets_default": 1068,
   "datasets_with_tie_lines": 1068,
-  "points_in_espei": 9895,
-  "points_excluded_from_espei": 13234,
+  "points_in_espei": 9890,
+  "points_excluded_from_espei": 13239,
   "validation": {
    "espei-zpf": {
     "files": 1068,
@@ -204,23 +204,23 @@
  "files": {
   "bytes_by_file_or_dir": {
    "CITATION.cff": 1891,
-   "espei-zpf": 8694998,
-   "espei-zpf-with-tie-lines": 8672901,
-   "espei_exclusions.jsonl": 1811387,
+   "espei-zpf": 8691165,
+   "espei-zpf-with-tie-lines": 8669225,
+   "espei_exclusions.jsonl": 1812056,
    "exclusions.csv": 322766,
    "exclusions.jsonl": 542755,
-   "records.csv": 12640025,
-   "records.jsonl.gz": 4769798,
-   "records.parquet": 1721875,
-   "sgte_not_comparable.csv": 1214472,
+   "records.csv": 12639934,
+   "records.jsonl.gz": 4772050,
+   "records.parquet": 1721874,
+   "sgte_not_comparable.csv": 1214988,
    "summary.json": 0
   }
  },
  "parquet": {
   "table": "records.parquet",
   "rows": 23129,
-  "csv_sha256": "a109f01e761c2168dd2c216b8615c4519945e306c3076ee60e4e85ab53aa0fda",
-  "content_sha256": "95e8f6165d42b425eec963d3058a1ec9fa3a94dd65ab969e7af285319364ef71",
+  "csv_sha256": "806686457c0b65e5ec31882a09bbb387c61af6148410b27812f08d10e232c761",
+  "content_sha256": "5f5c87b97a4236b331eeeea2f596bb68a11be0c1f33f13e7d3f7df52708e7347",
   "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder"
  }
 }

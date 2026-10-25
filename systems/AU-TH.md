@@ -1,10 +1,10 @@
 # Au–Th system
 
-> Au–Th system: 25 accepted literature values (invariant reaction 25) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Th system: 24 accepted literature values (invariant reaction 24) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-TH.html · Markdown: https://data.orchid-project.org/systems/AU-TH.md
 
-25 accepted literature values from 1 paper(s) (experimental 13, model 12); 1 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 13, model 11); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-TH.json) · [CSV](https://data.orchid-project.org/systems/AU-TH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-TH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-TH/AuTh-13Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AU-TH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-TH.html) · [Markdown](https://data.orchid-project.org/systems/AU-TH.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 13 |
-| model | 12 |
+| model | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 25 |
+| invariant reaction | 24 |
 
 ## Calculated phase diagrams
 
@@ -58,7 +58,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Th system (25)
+Table: Invariant reactions reported in the literature for the Au–Th system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -84,7 +84,6 @@ Table: Invariant reactions reported in the literature for the Au–Th system (25
 | 1323.15 | eutectic: L -> AuTh2 + (αTh) | L: Th 0.765; AuTh2: Th 0.667; (αTh): Th 0.999 | model | [1] Wang 2013 | Table 3, p. 3, row 7; `ORC-PASSGD5LI2` |  |
 | 1323.15 | eutectic: L -> AuTh2 + (αTh) | L: Th 0.76; AuTh2: Th 0.667; (αTh): Th 1 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 6; `ORC-RVAPDFBBPC` |  |
 | 1098.15 | eutectic: L -> (Au) + Au51Th14 | L: Th 0.1; (Au): Th 0; Au51Th14: Th 0.215 | experimental | [1] Wang 2013; _cites Okamoto 1987_ | Table 3, p. 3, row 9; `ORC-5HCOJEUICN` |  |
-| 1098.15 | eutectic |  | model | [1] Wang 2013 | p. 5; `ORC-ESF5I3HDEG` | “Starting from Au, the first eutectic point locates at 7.9 at.% and 825 °C between 5 at.% reported by Palenzona \[29\] and 10 at.% reported by Okamoto \[30\].” |
 | 1098.15 | eutectic: L -> (Au) + Au51Th14 | L: Th 0.05; (Au): Th 0; Au51Th14: Th 0.215 | experimental | [1] Wang 2013; _cites Palenzona 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990497-2) | Table 3, p. 3, row 8; `ORC-GZWVBHDNR7` |  |
 | 1098.15 | eutectic: L -> (Au) + Au51Th14 | L: Th 0.079; (Au): Th 0; Au51Th14: Th 0.215 | model | [1] Wang 2013 | Table 3, p. 3, row 10; `ORC-RTQN3UDH4W` |  |
 

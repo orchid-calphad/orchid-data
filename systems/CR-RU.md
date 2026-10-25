@@ -1,10 +1,10 @@
 # Cr–Ru system
 
-> Cr–Ru system: 25 accepted literature values (invariant reaction 25) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ru system: 24 accepted literature values (invariant reaction 24) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-RU.html · Markdown: https://data.orchid-project.org/systems/CR-RU.md
 
-25 accepted literature values from 2 paper(s) (experimental 1, model 5, unspecified 19); 2 calculated phase diagram(s).
+24 accepted literature values from 2 paper(s) (model 5, unspecified 19); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-RU.json) · [CSV](https://data.orchid-project.org/systems/CR-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-RU/CrRu-05Che-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-RU.html) · [Markdown](https://data.orchid-project.org/systems/CR-RU.md)
 
@@ -12,7 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
 | model | 5 |
 | unspecified | 19 |
 
@@ -20,7 +19,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 25 |
+| invariant reaction | 24 |
 
 ## Calculated phase diagrams
 
@@ -58,13 +57,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Ru system (25)
+Table: Invariant reactions reported in the literature for the Cr–Ru system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1888 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.368; bcc(Cr): Ru 0.317; hcp (Ru): Ru 0.466 | model | [1] Zhu 2015 | Table 2, p. 3, row 4; `ORC-RTHHUGGRTT` |  |
 | 1884 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.367; bcc(Cr): Ru 0.315; hcp (Ru): Ru 0.471 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 3; `ORC-I56XVECUUP` |  |
-| 1883.15 | eutectic |  | experimental | [2] WATSON 2006; _cites ref. 3_ | p. 2; `ORC-X3EAK2OUOC` | “The system comprises large terminal solid solutions of chromium and ruthenium ((Cr) & (Ru)) and associated with them is a eutectic reaction at 1610°C.” |
 | 1883 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.37; bcc(Cr): Ru 0.32; hcp (Ru): Ru 0.48 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 1; `ORC-LVBKCVWR6O` |  |
 | 1881 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.373; bcc(Cr): Ru 0.321; hcp (Ru): Ru 0.516 | unspecified | [1] Zhu 2015; _cites Chevalier 2007_ | Table 2, p. 3, row 2; `ORC-HC3ED423NI` |  |
 | 1858 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.312; hcp (Ru): Ru 0.471; σ: Ru 0.347 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 6; `ORC-VJ7VWXVIYI` |  |

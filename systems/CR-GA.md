@@ -1,10 +1,10 @@
 # Cr–Ga system
 
-> Cr–Ga system: 64 accepted literature values (formation 49, invariant reaction 12, heat capacity / entropy / enthalpy 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ga system: 61 accepted literature values (formation 46, invariant reaction 12, heat capacity / entropy / enthalpy 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-GA.html · Markdown: https://data.orchid-project.org/systems/CR-GA.md
 
-64 accepted literature values from 2 paper(s) (experimental 29, model 35); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+61 accepted literature values from 2 paper(s) (experimental 26, model 35); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-GA.json) · [CSV](https://data.orchid-project.org/systems/CR-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-GA/CrGa-05Bel.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CR-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-GA.html) · [Markdown](https://data.orchid-project.org/systems/CR-GA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
+| experimental | 26 |
 | model | 35 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 12 |
-| formation | 49 |
+| formation | 46 |
 | heat capacity / entropy / enthalpy | 3 |
 
 ## Calculated phase diagrams
@@ -92,13 +92,10 @@ Table: Invariant reactions reported in the literature for the Cr–Ga system (12
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Ga system (37)
+Table: Enthalpies of formation, Cr–Ga system (34)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -14.5 kJ/mol-atom ± 1000 | 918.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 3; `ORC-UAPT6UQB4G` | “We retained the value: -14500 ± 1000 J/mol at 645 ◦ C referred to solid chromium and gallium.” |
-| — |  | -7.25 kJ/mol-atom ± 400 | 1423.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 3; `ORC-5OGOAMSUVX` | “F H( 41 ␤-Cr3 Ga) = -7250 ± 400 J/mol at 1150 ◦ C referred to solid chromium and gallium.” |
-| — |  | -3.3 kJ/mol-atom | 850.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 5; `ORC-3ZDEPBZOUS` | “mined the enthalpy of formation of this compound at 577 ◦ C by EMF measurement of solid electrolyte pile and give f H( 41 ␣Cr3 Ga) = -3300 J/mol referred to solid chromium and gallium.” |
 | Cr3Ga | [Cr3Ga](https://data.orchid-project.org/compounds/Cr3Ga.html) | -12 kJ/mol-atom | 298.15 | model | -4.035 (mp-aaaaabvj) | -5.328 (oqmd-29544) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 44; `ORC-HPVWA4L4FN` |  |
 | Cr3Ga | [Cr3Ga](https://data.orchid-project.org/compounds/Cr3Ga.html) | -9.75 kJ/mol-atom | 298.15 | model | -4.035 (mp-aaaaabvj) | -5.328 (oqmd-29544) | [2] Gröbner 1999 | Table 1, p. 2, row 43; `ORC-O4PI5Z75L3` |  |
 | Cr3Ga | [Cr3Ga](https://data.orchid-project.org/compounds/Cr3Ga.html) | -3.3 kJ/mol-atom | 850 | experimental | -4.035 (mp-aaaaabvj) | -5.328 (oqmd-29544) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 42; `ORC-53IIUR4NZJ` |  |

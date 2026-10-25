@@ -140,7 +140,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid <=> Ru3U",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -158,7 +158,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid <=> Ru3U",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

@@ -1,10 +1,10 @@
 # Ca–In system
 
-> Ca–In system: 39 accepted literature values (crystal structure 18, invariant reaction 12, formation 6, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–In system: 36 accepted literature values (crystal structure 18, invariant reaction 12, formation 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-IN.html · Markdown: https://data.orchid-project.org/systems/CA-IN.md
 
-39 accepted literature values from 2 paper(s) (experimental 12, model 18, DFT 3, unspecified 6); 2 calculated phase diagram(s).
+36 accepted literature values from 2 paper(s) (experimental 9, model 18, DFT 3, unspecified 6); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-IN.json) · [CSV](https://data.orchid-project.org/systems/CA-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-IN/CaIn-13Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CA-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-IN.html) · [Markdown](https://data.orchid-project.org/systems/CA-IN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 9 |
 | model | 18 |
 | DFT | 3 |
 | unspecified | 6 |
@@ -22,7 +22,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 12 |
-| phase transition | 3 |
 | formation | 6 |
 | crystal structure | 18 |
 
@@ -71,18 +70,18 @@ Table: Invariant reactions reported in the literature for the Ca–In system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1168 | liq -> CaIn | L: In 0.5; CaIn: In 0.5 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 6; `ORC-CAM276ROTX` |  |
-| 1167.7 | liq -> CaIn | L: In 0.5; CaIn: In 0.5 | model | [1] Wang 2013 | Table 4, p. 5, row 5; `ORC-T6VFGC2WG7` |  |
-| 1111.1 | liq -> CaIn2 | L: In 0.667; CaIn2: In 0.667 | model | [1] Wang 2013 | Table 4, p. 5, row 9; `ORC-XO7VEIDQVD` |  |
-| 1108 | liq -> CaIn2 | L: In 0.667; CaIn2: In 0.667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 10; `ORC-XYX2ZYYY7Y` |  |
-| 1056 | liq -> CaIn + CaIn2 | L: In 0.5; CaIn: In 0.5; CaIn2: Ca 0.333333, In 0.666667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 8; `ORC-42H5YRY7B5` |  |
-| 1052.8 | liq -> CaIn + CaIn2 | L: In 0.5; CaIn: In 0.5; CaIn2: Ca 0.333333, In 0.666667 | model | [1] Wang 2013 | Table 4, p. 5, row 7; `ORC-ACDSDWUNZQ` |  |
-| 1038.6 | liq -> (βCa) + Ca3In | L: In 0.25; Ca3In: In 0.25 | model | [1] Wang 2013 | Table 4, p. 5, row 1; `ORC-AQ5TXGQ2RY` |  |
-| 1038 | liq -> Ca3In | L: In 0.25; Ca3In: In 0.25 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 2; `ORC-6HTPTJGW3V` |  |
-| 938.4 | liq -> Ca3In + CaIn | L: In 0.25; Ca3In: In 0.25; CaIn: Ca 0.5, In 0.5 | model | [1] Wang 2013 | Table 4, p. 5, row 3; `ORC-GFCLA7DP3P` |  |
-| 933 | liq -> Ca3In + CaIn | L: In 0.25; Ca3In: In 0.25; CaIn: Ca 0.5, In 0.5 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 4; `ORC-K5YM6PDU3W` |  |
-| 429 | liq -> CaIn2 + (In) | L: In 0.667; CaIn2: In 0.667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 12; `ORC-66WW6MLF7S` |  |
-| 428.3 | liq -> CaIn2 + (In) | L: In 0.667; CaIn2: In 0.667 | model | [1] Wang 2013 | Table 4, p. 5, row 11; `ORC-ZND2L3I5OV` |  |
+| 1168 | congruent melting: liq -> CaIn | L: In 0.5; CaIn: In 0.5 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 6; `ORC-CAM276ROTX` |  |
+| 1167.7 | congruent melting: liq -> CaIn | L: In 0.5; CaIn: In 0.5 | model | [1] Wang 2013 | Table 4, p. 5, row 5; `ORC-T6VFGC2WG7` |  |
+| 1111.1 | congruent melting: liq -> CaIn2 | L: In 0.667; CaIn2: In 0.667 | model | [1] Wang 2013 | Table 4, p. 5, row 9; `ORC-XO7VEIDQVD` |  |
+| 1108 | congruent melting: liq -> CaIn2 | L: In 0.667; CaIn2: In 0.667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 10; `ORC-XYX2ZYYY7Y` |  |
+| 1056 | eutectic: liq -> CaIn + CaIn2 | L: In 0.5; CaIn: In 0.5; CaIn2: Ca 0.333333, In 0.666667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 8; `ORC-42H5YRY7B5` |  |
+| 1052.8 | eutectic: liq -> CaIn + CaIn2 | L: In 0.5; CaIn: In 0.5; CaIn2: Ca 0.333333, In 0.666667 | model | [1] Wang 2013 | Table 4, p. 5, row 7; `ORC-ACDSDWUNZQ` |  |
+| 1038.6 | eutectic: liq -> (βCa) + Ca3In | L: In 0.25; Ca3In: In 0.25 | model | [1] Wang 2013 | Table 4, p. 5, row 1; `ORC-AQ5TXGQ2RY` |  |
+| 1038 | congruent melting: liq -> Ca3In | L: In 0.25; Ca3In: In 0.25 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 2; `ORC-6HTPTJGW3V` |  |
+| 938.4 | eutectic: liq -> Ca3In + CaIn | L: In 0.25; Ca3In: In 0.25; CaIn: Ca 0.5, In 0.5 | model | [1] Wang 2013 | Table 4, p. 5, row 3; `ORC-GFCLA7DP3P` |  |
+| 933 | eutectic: liq -> Ca3In + CaIn | L: In 0.25; Ca3In: In 0.25; CaIn: Ca 0.5, In 0.5 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 4; `ORC-K5YM6PDU3W` |  |
+| 429 | eutectic: liq -> CaIn2 + (In) | L: In 0.667; CaIn2: In 0.667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 12; `ORC-66WW6MLF7S` |  |
+| 428.3 | eutectic: liq -> CaIn2 + (In) | L: In 0.667; CaIn2: In 0.667 | model | [1] Wang 2013 | Table 4, p. 5, row 11; `ORC-ZND2L3I5OV` |  |
 
 ## Formation enthalpies
 
@@ -100,16 +99,6 @@ Table: Enthalpies of formation, Ca–In system (6)
 | CaIn2 |  | -43.4 kJ/mol-atom | 0 | DFT |  |  | [2] Qin 2015 | Table 3, p. 3, row 5; `ORC-4GS3OXMYV3` |  |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Ca–In system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1038.15 K | 1038.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1; `ORC-5AZZULXHDR.cbea1f` | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
-| Phase transition | 1108.15 K | 1108.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1; `ORC-5AZZULXHDR.f725ed` | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
-| Phase transition | 1168.15 K | 1168.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1; `ORC-5AZZULXHDR.7a1e28` | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
 
 ### Crystal structure (18)
 

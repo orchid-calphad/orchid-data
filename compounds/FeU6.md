@@ -1,19 +1,20 @@
 # FeU6: enthalpy of formation
 
-> Enthalpy of formation of FeU6: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of FeU6: 7 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/FeU6.html · Markdown: https://data.orchid-project.org/compounds/FeU6.md
 
-6 accepted literature formation-enthalpy value(s) (model 6).
+7 accepted literature formation-enthalpy value(s) (experimental 1, model 6).
 
 Systems: [Fe–U](https://data.orchid-project.org/systems/FE-U.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of FeU6 reported in the literature (6)
+Table: Enthalpy of formation of FeU6 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -6.75 unspecified ± 1.3 | Fe0.143U0.857 | 298.15 | experimental | high temperature solution calorimetry | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Labroche 2000_ | p. 3; `ORC-KDQSOP2EX7` | “For 1 mol Fe0.143U0.857, ⌬H0f (298 K) ⳱ (-6.75 ± 1.3) kJ/mol.” |
 | -26.438 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 19; `ORC-XOOMW3BU7D.d7ee3d` |  |
 | -21.343 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 21; `ORC-IL73XN3XZM.137782` |  |
 | -20.931 kJ/mol (basis unstated) | Fe0.143U0.857 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003 | Table 7, p. 8, row 20; `ORC-7LTO3XUXDK.6c0f84` |  |
@@ -29,12 +30,13 @@ Table: Uncertainty budget of the literature values of FeU6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -6.75 | unspecified | 1.3 | 0.005 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 1.3 |
 | -26.438 | kJ/mol (basis unstated) |  | 5.000e-5 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
 | -21.343 | kJ/mol (basis unstated) |  | 5.000e-5 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
-| -20.931 | kJ/mol (basis unstated) |  | 5.000e-4 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
-| -7.312 | kJ/mol (basis unstated) |  | 5.000e-4 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -20.931 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -7.312 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -6.75 | kJ/mol (basis unstated) | 1.3 | 5.000e-5 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
-| -2.33 | kJ/mol (basis unstated) | 0.72 | 5.000e-4 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -2.33 | kJ/mol (basis unstated) | 0.72 | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

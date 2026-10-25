@@ -111,7 +111,7 @@
     "x0": 0.13,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Ho +Ho5Sn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -130,7 +130,7 @@
     "x0": 0.13,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> Ho +Ho5Sn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

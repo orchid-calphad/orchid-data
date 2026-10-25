@@ -29,8 +29,8 @@ Table: Uncertainty budget of the literature values of GeNb3
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -26.41 | kJ/mol (basis unstated) |  | 0.005 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
 | -25 | kJ/mol (basis unstated) |  | 0.5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
-| -30.213 | kJ/mol (basis unstated) |  | 5.000e-4 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
-| -29.387 | kJ/mol (basis unstated) |  | 5.000e-4 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
+| -30.213 | kJ/mol (basis unstated) |  | 5.000e-4 | 31.85 (dft, calibrated) |  |  |  | 31.85 |
+| -29.387 | kJ/mol (basis unstated) |  | 5.000e-4 | 31.85 (dft, calibrated) |  |  |  | 31.85 |
 
 ## Sources
 

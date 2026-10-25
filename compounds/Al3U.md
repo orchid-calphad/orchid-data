@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Al3U.html · Markdown: https://data.orchid-project.org/compounds/Al3U.md
 
-1 accepted literature formation-enthalpy value(s) (model 1).
+1 accepted literature formation-enthalpy value(s) (DFT 1).
 
 Systems: [Al–U](https://data.orchid-project.org/systems/AL-U.html)
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Al3U reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -87 kJ/mol (basis unstated) | UAl3 |  | model |  | [Al–U](https://data.orchid-project.org/systems/AL-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.9be73b` |  |
+| -87 kJ/mol (basis unstated) | UAl3 |  | DFT |  | [Al–U](https://data.orchid-project.org/systems/AL-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.9be73b` |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Al3U
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -87 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -87 | kJ/mol (basis unstated) |  | 0.05 | 31.85 (dft, calibrated) |  |  |  | 31.85 |
 
 ## Sources
 

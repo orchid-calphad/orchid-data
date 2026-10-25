@@ -1,10 +1,10 @@
 # Pu–Zn system
 
-> Pu–Zn system: 44 accepted literature values (invariant reaction 43, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pu–Zn system: 40 accepted literature values (invariant reaction 40) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PU-ZN.html · Markdown: https://data.orchid-project.org/systems/PU-ZN.md
 
-44 accepted literature values from 1 paper(s) (experimental 31, model 13); 1 calculated phase diagram(s).
+40 accepted literature values from 1 paper(s) (experimental 27, model 13); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PU-ZN.json) · [CSV](https://data.orchid-project.org/systems/PU-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PU-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PU-ZN/PuZn-14Liu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/PU-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PU-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PU-ZN.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
+| experimental | 27 |
 | model | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 43 |
-| phase transition | 1 |
+| invariant reaction | 40 |
 
 ## Calculated phase diagrams
 
@@ -59,7 +58,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pu–Zn system (43)
+Table: Invariant reactions reported in the literature for the Pu–Zn system (40)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -72,10 +71,8 @@ Table: Invariant reactions reported in the literature for the Pu–Zn system (43
 | 1163.15 | peritectic: L + Pu2Zn17 ↔ Pu3Zn22 | Pu2Zn17: Zn 0.895; Pu3Zn22: Pu 0.12, Zn 0.88 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 27; `ORC-32NE6PPXUB` |  |
 | 1163.15 | peritectic: L + Pu2Zn17 ↔ Pu3Zn22 | L: Zn 0.84; Pu2Zn17: Zn 0.895; Pu3Zn22: Zn 0.88 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 26; `ORC-LSBZXVCFQI` |  |
 | 1163.15 | peritectic: L + Pu2Zn17 ↔ Pu3Zn22 | L: Zn 0.834; Pu2Zn17: Zn 0.895; Pu3Zn22: Zn 0.88 | model | [1] Liu 2014 | Table 4, p. 4, row 28; `ORC-PNOK7DAKBO` |  |
-| 1163.15 | peritectic |  | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | p. 3; `ORC-QIODIOJ43L` | “Additionally, Cramer et al. \[21\] detected a new phase, tentatively named PuZn7.7, which was produced by a peritectic reaction at 890 °C, and three hexagonal super-lattice phases (j, j0 and k) presenting thermal effects at 811 °C, 770 °C and 700 °C, respectively.” |
 | 1152.15 | peritectic: L + Pu3Zn22 ↔ Pu13Zn58 | L: Zn 0.817; Pu3Zn22: Pu 0.12, Zn 0.88; Pu13Zn58: Pu 0.183099, Zn 0.816901 | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | Table 4, p. 4, row 30; `ORC-E4EUMVAHL5` |  |
 | 1152.15 | peritectic: L + Pu3Zn22 ↔ Pu13Zn58 | L: Zn 0.816; Pu3Zn22: Zn 0.88; Pu13Zn58: Zn 0.817 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 29; `ORC-FDPGEN6ZJ4` |  |
-| 1152.15 | peritectic |  | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | p. 3; `ORC-JAP76D23F3.2a8c45` | “Apart from these, Pu2Zn17 was identified with a rhombohedral symmetry \[16\], which melts congruently at 928 °C \[21\], and Pu2Zn9 phase was demonstrated by Cramer et al. \[21\] to be the result of a peritectic transforming, L + PuZn7.7 M Pu2Zn9, at 879 °C with a composition very close to the stoichiometric composition.” |
 | 1146.15 | peritectic: L + Pu3Zn22 ↔ Pu13Zn58 | L: Zn 0.816; Pu3Zn22: Zn 0.88; Pu13Zn58: Zn 0.816 | model | [1] Liu 2014 | Table 4, p. 4, row 31; `ORC-KDBWZGLCIM` |  |
 | 1104.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | L: Zn 0.749; PuZn2: Zn 0.667; Pu13Zn58: Zn 0.813 | model | [1] Liu 2014 | Table 4, p. 4, row 18; `ORC-V4O74F3SUX` |  |
 | 1103.15 | eutectic: L ↔ PuZn2 + Pu13Zn58 | L: Zn 0.74; PuZn2: Zn 0.667; Pu13Zn58: Pu 0.183099, Zn 0.816901 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 14; `ORC-JIQKT7E5BR` |  |
@@ -104,18 +101,7 @@ Table: Invariant reactions reported in the literature for the Pu–Zn system (43
 | 692.15 | eutectic: L ↔ λ + (Zn) | λ: Pu 0.095, Zn 0.905 | experimental | [1] Liu 2014; _cites Albrecht 1964_ [doi](https://doi.org/10.1016/0022-3115%2864%2990131-x) | Table 4, p. 4, row 20; `ORC-KGEGVBE4OY` |  |
 | 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.019; PuZn2: Zn 0.667; (γPu): Zn 0.001 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 24; `ORC-K6LMQY6XEY` |  |
 | 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.018; PuZn2: Pu 0.333333, Zn 0.666667 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 23; `ORC-UL7JLFOI6X` |  |
-| 513.15 | eutectoid |  | experimental | [1] Liu 2014; _cites Cramer 1960_ | p. 3; `ORC-UUN5TGRE4E` | “the reaction, (dPu) M PuZn2 + (cPu), was reported to be 1.8 at.% Zn at 240 °C by Cramer \[18\].” |
 | 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.021; PuZn2: Zn 0.667; (γPu): Zn 0 | model | [1] Liu 2014 | Table 4, p. 4, row 25; `ORC-ZE4O7NC3FU` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Pu–Zn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1201.15 K | 1201.15 | congruent transformation | experimental | [1] Liu 2014; _cites Cramer 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990052-5) | p. 3; `ORC-JAP76D23F3.63ff4a` | “Apart from these, Pu2Zn17 was identified with a rhombohedral symmetry \[16\], which melts congruently at 928 °C \[21\], and Pu2Zn9 phase was demonstrated by Cramer et al. \[21\] to be the result of a peritectic transforming, L + PuZn7.7 M Pu2Zn9, at 879 °C with a composition very close to the stoichiometric composition.” |
 
 ## Sources
 

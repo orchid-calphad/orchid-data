@@ -29,7 +29,7 @@ Table: Phases of the Hf–Ni system (18)
 | [HFNI3_HT](#phase-hf-ni-hfni3-ht); _phase:hf-ni:hfni3-ht_ | BaPb3 · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1470.06–1632.16 K, x(Ni) 0.75–0.75 | 0 | 4 |
 | [HFNI3_RT](#phase-hf-ni-hfni3-rt); _phase:hf-ni:hfni3-rt_ | Pd2RhTa · hP40 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1472.75 K, x(Ni) 0.75–0.75 | 0 | 4 |
 | [HFNI5_C15B](#phase-hf-ni-hfni5-c15b); _phase:hf-ni:hfni5-c15b_ | AuBe5 · C15_b · cF24 · F-43m (216) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1675.31 K, x(Ni) 0.83333–0.83333 | 8 | 5 |
-| [LIQUID](#phase-hf-ni-liquid); _phase:hf-ni:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1410.87–4000 K, x(Ni) 0–1 | 8 | 5 |
+| [LIQUID](#phase-hf-ni-liquid); _phase:hf-ni:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1410.87–4000 K, x(Ni) 0–1 | 9 | 5 |
 
 ## BCC_A2 (Hf–Ni)
 
@@ -996,11 +996,11 @@ _cited as the source of values for this phase_
 - Id: `phase:hf-ni:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 1410.87–4000 K, x(Ni) 0–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:liquid)
 
-Names (7): _corpus: _corpus:phase:hf-ni:liquid  
-_paper: _paper:10.1016/j.calphad.2011.10.003:L  
+Names (8): _corpus: _corpus:phase:hf-ni:liquid  
+_paper: _paper:10.1016/j.calphad.2011.10.003:L, paper:10.1016/j.calphad.2011.10.003:liquid  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:LIQUID, tdb:HfNi-08Zha.tdb:LIQUID, tdb:HfNi-11Cac.tdb:LIQUID, tdb:HfNi-18Ros.tdb:LIQUID, tdb:HfNi-75Kau.tdb:LIQUID  
 
 
@@ -1041,7 +1041,7 @@ _tdb: _tdb:HfNi-01Wan-LB.tdb:LIQUID, tdb:HfNi-08Zha.tdb:LIQUID, tdb:HfNi-11Cac.t
 31: CONST LIQUID:L : HF NI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003) G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011).  
 _assessment that models this phase; reports values for this phase_
@@ -1053,6 +1053,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2001-0088](https://doi.org/10.3139/ijmr-2001-0088) T. Wang, Z.P. Jin, J.-C. Zhao, Z. Metallkd., 92, 441-46(2001).  
 _assessment that models this phase_
+- [doi:10.1016/0925-8388(93)90281-q](https://doi.org/10.1016/0925-8388%2893%2990281-q) V.N. Yeremenko, E.L. Semenova, L.A. Tretyachenko, V.M. Petyukh, Constitution of the Hf-Ni system up to 50 at.% Ni, Journal of Alloys and Compounds 191, 117-119 (1993).  
+_cited as the source of values for this phase_
 
 ## Please cite
 

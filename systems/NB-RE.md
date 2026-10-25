@@ -1,10 +1,10 @@
 # Nb–Re system
 
-> Nb–Re system: 50 accepted literature values (invariant reaction 27, formation 14, crystal structure 6, heat capacity / entropy / enthalpy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Re system: 42 accepted literature values (invariant reaction 20, formation 13, crystal structure 6, heat capacity / entropy / enthalpy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-RE.html · Markdown: https://data.orchid-project.org/systems/NB-RE.md
 
-50 accepted literature values from 2 paper(s) (experimental 17, model 26, DFT 7); 2 calculated phase diagram(s).
+42 accepted literature values from 2 paper(s) (experimental 12, model 23, DFT 7); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-RE.json) · [CSV](https://data.orchid-project.org/systems/NB-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-RE/NbRe-13Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/NB-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-RE.html) · [Markdown](https://data.orchid-project.org/systems/NB-RE.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 26 |
+| experimental | 12 |
+| model | 23 |
 | DFT | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
+| invariant reaction | 20 |
 | phase transition | 1 |
-| formation | 14 |
+| formation | 13 |
 | heat capacity / entropy / enthalpy | 2 |
 | crystal structure | 6 |
 
@@ -54,32 +54,25 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Nb–Re system (27)
+Table: Invariant reactions reported in the literature for the Nb–Re system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 3004 | Liquid ↔ hcp + χ | L: Re 0.88 | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 4; `ORC-6OOI4WDRRE` |  |
 | 3004 | eutectic: L -> χ + hcp (eutectic) | L: Re 0.88 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 8; `ORC-7XWYXZW7PP` |  |
-| 3003 | eutectic: L-χ þhcp |  | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2; `ORC-VPUTLLK3BI.7d48f5` | “He evaluated one eutectic point at 2673 K and 53% Re (Lbcc þs) and a second one at 3003 K and 88% Re (L-χ þhcp).” |
 | 2990 | Liquid ↔ hcp + χ | L: Re 0.861 | model | [1] Yen 2020 | Table VIII, p. 44, row 6; `ORC-NW4V5CUWLM` |  |
 | 2982 | eutectic: L -> χ + hcp (eutectic) | L: Re 0.87 | model | [2] Liu 2013 | Table 6, p. 9, row 7; `ORC-F3NZHTIXZ3` |  |
 | 2982 | Liquid ↔ hcp + χ | L: Re 0.87 | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 5; `ORC-UCHRGRMVDG` |  |
-| 2982 | eutectic |  | model | [2] Liu 2013 | p. 8; `ORC-VDFJ2JDT6I` | “Excellent agreement is seen in the Re-rich eutectic at 86% Re and 2982 K (L-χþhcp) when compared to the experimental values of 88 70.5% Re and 3004 715 K \[7\].” |
 | 2843 | Liquid + χ ↔ σ | L: Re 0.53 | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 7; `ORC-6JF6Y3MMIG` |  |
 | 2843 | peritectic: L + χ -> σ (peritectic) | L: Re 0.53 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 4; `ORC-L62WHNUIWH` |  |
 | 2831 | Liquid ↔ bcc + σ | L: Re 0.46 | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 2; `ORC-33EEZMH2GS` |  |
 | 2831 | Liquid + χ ↔ σ | L: Re 0.54 | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 8; `ORC-5QA7S7J6AF` |  |
 | 2831 | peritectic: L + χ -> σ (peritectic) | L: Re 0.54 | model | [2] Liu 2013 | Table 6, p. 9, row 3; `ORC-TH3MP5QHWA` |  |
 | 2804 | Liquid + χ ↔ σ | L: Re 0.531 | model | [1] Yen 2020 | Table VIII, p. 44, row 9; `ORC-7QAJT7ZNJT` |  |
-| 2793 | peritectic: L þhcp-χ |  | experimental | [2] Liu 2013; _cites Savitskii 1961_ [doi](https://doi.org/10.1007/bf01472402) | p. 2; `ORC-E5LT2WMMSX` | “A peritectic reaction forming χ, existing from 69.5% to 86.5% Re, was found at 2793 K (L þhcp-χ).” |
 | 2740 | eutectic: L -> bcc + σ (eutectic) | L: Re 0.48 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 2; `ORC-25V73YGVHI` |  |
 | 2740 | Liquid ↔ bcc + σ | L: Re 0.48 | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 1; `ORC-HHFTH2FIN7` |  |
-| 2724 | eutectic |  | model | [2] Liu 2013 | p. 7; `ORC-JAISNIMBNX` | “Starting on the Nb-rich side of the phase diagram, the present work shows a eutectic at 46% Re at a temperature of 2724 K (Lbcc þs) in close agreement with the reported 48 71% Re and” |
 | 2724 | eutectic: L -> bcc + σ (eutectic) | bcc: Re 0.46 | model | [2] Liu 2013 | Table 6, p. 9, row 1; `ORC-XQIUK4ED5G` |  |
-| 2723 | peritectic: L þχ-s |  | experimental | [2] Liu 2013 | p. 2; `ORC-MXJF3UEXOG` | “A peritectic point was found at 2723 K and 57% Re (L þχ-s).” |
 | 2703 | Liquid ↔ bcc + σ | L: Re 0.456 | model | [1] Yen 2020 | Table VIII, p. 44, row 3; `ORC-BUDBODJQLT` |  |
-| 2673 | eutectic: Lbcc þs |  | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2; `ORC-VPUTLLK3BI.a530b1` | “He evaluated one eutectic point at 2673 K and 53% Re (Lbcc þs) and a second one at 3003 K and 88% Re (L-χ þhcp).” |
-| 2613 | eutectic: L-bcc þχ |  | experimental | [2] Liu 2013 | p. 2; `ORC-L4RMD3CH2C` | “At 2613 K, a eutectic reaction exists with the composition of 50-51% Re (L-bcc þχ).” |
 | 2460 | σ ↔ bcc + χ |  | experimental | [1] Yen 2020; _cites Giessen 1961_ | Table VIII, p. 44, row 10; `ORC-S2CH6VXKE3` |  |
 | 2460 | eutectoid: σ -> bcc + χ (eutectoid) | σ: Re 0.54 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 6; `ORC-ZE5UC6CEE2` |  |
 | 2441 | eutectoid: σ -> bcc + χ (eutectoid) | σ: Re 0.57 | model | [2] Liu 2013 | Table 6, p. 9, row 5; `ORC-ELMWBCFUHN` |  |
@@ -90,11 +83,10 @@ Table: Invariant reactions reported in the literature for the Nb–Re system (27
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Nb–Re system (6)
+Table: Enthalpies of formation, Nb–Re system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -13.542 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | p. 4; `ORC-7JJ7TKUWMO` | “Table 3 depicts that the ΔfH for χ-(Re)24(Nb)10(Re)24 calculated with the Debye-Grüneisen model at 298 K in this work is -13.542 kJ/mol atom.” |
 | (σ) |  | -13.588 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 2; `ORC-Z4GXLV2562.2b896f` |  |
 | (σ) |  | -2.247 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 1; `ORC-NQ66MRC6SE.c4e5d8` |  |
 | (χ) |  | -13.542 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 4; `ORC-IENEGXBQ4W.2a06f8` |  |

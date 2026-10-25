@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/B-HF.html · Markdown: https://data.orchid-project.org/systems/B-HF.md
 
-57 accepted literature values from 4 paper(s) (experimental 20, model 27, unspecified 10); 0 calculated phase diagram(s).
+57 accepted literature values from 4 paper(s) (experimental 20, model 32, unspecified 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-HF.json) · [CSV](https://data.orchid-project.org/systems/B-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-HF) · [phases (9)](https://data.orchid-project.org/phases/pages/B-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-HF.html) · [Markdown](https://data.orchid-project.org/systems/B-HF.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 20 |
-| model | 27 |
-| unspecified | 10 |
+| model | 32 |
+| unspecified | 5 |
 
 Table: Accepted values by property group
 
@@ -35,7 +35,7 @@ Table: Invariant reactions reported in the literature for the B–Hf system (32)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 3653 | congruent melting: L \<-> HfB2 | L: B 0.66; HfB2: B 0.66 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 1; `ORC-7F2EQJHEXL` |  |
-| 3650 | congruent melting: B2Hf -> Liquid | B2Hf: B 0.666667, Hf 0.333333; Liquid: B 0.666667, Hf 0.333333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 5; `ORC-L3TKN6RNNE` |  |
+| 3650 | congruent melting: B2Hf -> Liquid | B2Hf: B 0.666667, Hf 0.333333; Liquid: B 0.666667, Hf 0.333333 | model | [2] (ed.) 1998 | Table I, p. 138, row 5; `ORC-L3TKN6RNNE` |  |
 | 3650 | congruent melting: L \<-> HfB2 | L: B 0.667; HfB2: B 0.667 | model | [1] Bittermann 1997 | Table 1, p. 2, row 3; `ORC-SGJYEKGFUL` |  |
 | 3643 | congruent melting: L \<-> HfB2 | L: B 0.667; HfB2: B 0.667 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 2; `ORC-QVZSQEUV6B` |  |
 | 2506 | congruent melting: L \<-> βHf | L: B 0; βHf: B 0 | model | [1] Bittermann 1997 | Table 1, p. 2, row 6; `ORC-ZKUKX6VZZR` |  |
@@ -43,7 +43,7 @@ Table: Invariant reactions reported in the literature for the B–Hf system (32)
 | 2473 | congruent melting: L \<-> βHf | L: B 0; βHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 5; `ORC-VS34Q3NV3O` |  |
 | 2377.15 | peritectic: L + HfB2 -> HfB | L: B 0.219; HfB2: B 0.667; HfB: B 0.5 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 2; `ORC-3U65PRSTNT` |  |
 | 2377.15 | peritectic: L+HfB2=HfB | L: B 0.22; HfB2: B 0.666667; HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 3; `ORC-5QWLD35OJE` |  |
-| 2377.1 | peritectic: Liquid + B2Hf -> + BHf | B2Hf: B 0.666667, Hf 0.333333; BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 2; `ORC-DTM45XSI5I` |  |
+| 2377.1 | peritectic: Liquid + B2Hf -> + BHf | B2Hf: B 0.666667, Hf 0.333333; BHf: B 0.5, Hf 0.5 | model | [2] (ed.) 1998 | Table I, p. 138, row 2; `ORC-DTM45XSI5I` |  |
 | 2377 | peritectic: L + HfB2 \<-> HfB | L: B 0.22; HfB2: B 0.667; HfB: B 0.5 | model | [1] Bittermann 1997 | Table 1, p. 2, row 8; `ORC-LIH57KNFPD` |  |
 | 2373.15 | peritectic: L+HfB2=HfB | L: B 0.2213; HfB2: B 0.666667; HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 4; `ORC-WTTMGUTM4U` |  |
 | 2373 | peritectic: L + HfB2 \<-> HfB | L: B 0.24; HfB2: B 0.66; HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 7; `ORC-AXBVQ63WOM` |  |
@@ -52,19 +52,19 @@ Table: Invariant reactions reported in the literature for the B–Hf system (32)
 | 2338.15 | eutectic: L -> HfB2 + B | L: B 0.99; HfB2: B 0.677; B: B 1 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 3; `ORC-RRZR4AC3BS` |  |
 | 2338 | eutectic: L \<-> HfB2 + B | L: B 0.99; HfB2: B 0.66; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 12; `ORC-CWKOUVBGEU` |  |
 | 2338 | eutectic: L \<-> HfB2 + B | L: B 0.99; HfB2: B 0.667; B: B 1 | model | [1] Bittermann 1997 | Table 1, p. 2, row 14; `ORC-QDQOTWEDNY` |  |
-| 2337.9 | eutectic: Liquid -> β-rhombo-B + B2Hf | B2Hf: B 0.666667, Hf 0.333333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 1; `ORC-U2OHHPYUM6` |  |
+| 2337.9 | eutectic: Liquid -> β-rhombo-B + B2Hf | B2Hf: B 0.666667, Hf 0.333333 | model | [2] (ed.) 1998 | Table I, p. 138, row 1; `ORC-U2OHHPYUM6` |  |
 | 2337.15 | eutectic: L=HfB2+(βB) | L: B 0.9895; HfB2: B 0.666667; (βB): B 1 | model | [4] Pan 2021 | Table 2, p. 5, row 6; `ORC-U7K55VZRI7` |  |
 | 2154.15 | eutectic: L -> HfB + bcc-Hf | L: B 0.15; HfB: B 0.5; bcc-Hf: B 0.01 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 4; `ORC-MM53UIYS3F` |  |
 | 2154.15 | eutectic: L=(βHf)+HfB | L: B 0.15; HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 7; `ORC-XCBUU7SESR` |  |
 | 2154 | eutectic: L \<-> βHf + HfB | L: B 0.15; βHf: B 0.01; HfB: B 0.5 | model | [1] Bittermann 1997 | Table 1, p. 2, row 16; `ORC-NUDWTLMC2A` |  |
-| 2153.6 | eutectic: Liquid -> BHf + bcc-A2 | BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 3; `ORC-HUZ6OWE5G7` |  |
+| 2153.6 | eutectic: Liquid -> BHf + bcc-A2 | BHf: B 0.5, Hf 0.5 | model | [2] (ed.) 1998 | Table I, p. 138, row 3; `ORC-HUZ6OWE5G7` |  |
 | 2153 | eutectic: L \<-> βHf + HfB | L: B 0.13; HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 15; `ORC-GE6CQM4M7L` |  |
 | 2148.15 | eutectic: L=(βHf)+HfB | L: B 0.1515; HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 8; `ORC-TPDFVBND75` |  |
 | 2073 | peritectoid: βHf + HfB \<-> αHf | HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 17; `ORC-AVAQTR7P3R` |  |
 | 2066.15 | peritectoid: (βHf)+HfB=(αHf) | HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 10; `ORC-3TIUBGMFZW` |  |
 | 2064.15 | peritectoid: (βHf)+HfB=(αHf) | HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 9; `ORC-WIA33M5QXW` |  |
 | 2064 | peritectoid: βHf + HfB \<-> αHf | βHf: B 0.007; HfB: B 0.5; αHf: B 0.015 | model | [1] Bittermann 1997 | Table 1, p. 2, row 18; `ORC-4EFVGD6FF6` |  |
-| 2063.8 | peritectic: bcc-A2 + BHf -> hcp-A3 | BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 4; `ORC-VYVNFCAIJI` |  |
+| 2063.8 | peritectic: bcc-A2 + BHf -> hcp-A3 | BHf: B 0.5, Hf 0.5 | model | [2] (ed.) 1998 | Table I, p. 138, row 4; `ORC-VYVNFCAIJI` |  |
 | 2063.15 | peritectoid: HfB + bcc-Hf -> hcp-Hf | HfB: B 0.5; bcc-Hf: B 0.007; hcp-Hf: B 0.015 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 5; `ORC-JNDP3T7RHW` |  |
 
 ## Formation enthalpies
@@ -129,7 +129,7 @@ Table: Crystal structure, B–Hf system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system boron-hafnium-titanium (B-Hf-Ti), JPE 18, 24-47 (1997). [doi:10.1007/bf02646757](https://doi.org/10.1007/bf02646757)
-2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+2. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 3. G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011). [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003)
 4. Yafei Pan, Lei Huang, Jiuxing Zhang, Yong Du, Fenghua Luo, Shuyan Zhang, Thermodynamic Assessment of the Ternary B-Hf-Zr System with Refined B-Hf Description, J. Phase Equilib. Diffus. 42, 864-878 (2021). [doi:10.1007/s11669-021-00928-3](https://doi.org/10.1007/s11669-021-00928-3)
 

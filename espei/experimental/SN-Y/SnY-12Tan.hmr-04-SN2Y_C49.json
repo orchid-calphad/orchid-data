@@ -66,14 +66,14 @@
     "budget": {
      "sigma_printed": 4200.0,
      "sigma_reading": 5.0,
-     "sigma_method": 3500.0,
+     "sigma_method": 3200.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": 4200.0,
      "method_class": "solution_reaction_calorimetry",
      "method_basis": "calibrated",
-     "method_n_pairs": 75,
+     "method_n_pairs": 80,
      "method_entry": "value_types/HM_FORM/classes/solution_reaction_calorimetry"
     },
     "printed": {

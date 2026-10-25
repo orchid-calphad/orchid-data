@@ -79,8 +79,8 @@ Table: Invariant reactions reported in the literature for the Dy–Sn system (16
 | 1878 | Liq. + Dy5Sn4 -> Dy11Sn10 | Liq.: Sn 0.518; Dy5Sn4: Sn 0.444444; Dy11Sn10: Sn 0.47619 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 8; `ORC-H5RUZPO4ZB` |  |
 | 1482 | Liq. + Dy11Sn10 -> DySn | Liq.: Sn 0.652; Dy11Sn10: Sn 0.47619; DySn: Sn 0.5 | model | [1] Wang 2005 | Table 2, p. 4, row 9; `ORC-2USVAEQUCB` |  |
 | 1481 | Liq. + Dy11Sn10 -> DySn | Liq.: Sn 0.635; Dy11Sn10: Sn 0.47619; DySn: Sn 0.5 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 10; `ORC-NTA6FX35JH` |  |
-| 1477 | Liq. -> Dy5Sn3 + α-Dy | Liq.: Sn 0.13; Dy5Sn3: Sn 0.375 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 2; `ORC-QXCT3T36YF` |  |
-| 1474 | Liq. -> Dy5Sn3 + α-Dy | Liq.: Sn 0.117; Dy5Sn3: Sn 0.375 | model | [1] Wang 2005 | Table 2, p. 4, row 1; `ORC-7ZQ2KFLM6L` |  |
+| 1477 | eutectic: Liq. -> Dy5Sn3 + α-Dy | Liq.: Sn 0.13; Dy5Sn3: Sn 0.375 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 2; `ORC-QXCT3T36YF` |  |
+| 1474 | eutectic: Liq. -> Dy5Sn3 + α-Dy | Liq.: Sn 0.117; Dy5Sn3: Sn 0.375 | model | [1] Wang 2005 | Table 2, p. 4, row 1; `ORC-7ZQ2KFLM6L` |  |
 | 1440 | Liq. + DySn -> Dy4Sn5 | Liq.: Sn 0.662; DySn: Sn 0.5; Dy4Sn5: Sn 0.555556 | model | [1] Wang 2005 | Table 2, p. 4, row 11; `ORC-O5O6YECUSC` |  |
 | 1439 | Liq. + DySn -> Dy4Sn5 | Liq.: Sn 0.655; DySn: Sn 0.5; Dy4Sn5: Sn 0.555556 | experimental | [1] Wang 2005; _cites Eremenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990712-i) | Table 2, p. 4, row 12; `ORC-GT3LVA3B3R` |  |
 | 1414 | Liq. + Dy4Sn5 -> DySn2 | Liq.: Sn 0.67; Dy4Sn5: Sn 0.555556; DySn2: Sn 0.666667 | model | [1] Wang 2005 | Table 2, p. 4, row 13; `ORC-QI6DZGEIV4` |  |

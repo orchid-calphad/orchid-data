@@ -22,7 +22,7 @@ Table: Phases of the Gd–Pb system (11)
 | [GDPB2](#phase-gd-pb-gdpb2); _phase:gd-pb:gdpb2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1285.65 K, x(Pb) 0.66667–0.66667 | 6 | 2 |
 | [GDPB3_L12](#phase-gd-pb-gdpb3-l12); _phase:gd-pb:gdpb3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1242.49 K, x(Pb) 0.75–0.75 | 5 | 2 |
 | [HCP_A3](#phase-gd-pb-hcp-a3); _phase:gd-pb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1515.05 K, x(Pb) 0–0.00994 | 6 | 2 |
-| [LIQUID](#phase-gd-pb-liquid); _phase:gd-pb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 600.61–2500 K, x(Pb) 0–1 | 29 | 2 |
+| [LIQUID](#phase-gd-pb-liquid); _phase:gd-pb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 600.61–2500 K, x(Pb) 0–1 | 30 | 2 |
 
 ## BCC_A2 (Gd–Pb)
 
@@ -427,11 +427,11 @@ _cited as the source of values for this phase_
 - Id: `phase:gd-pb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 600.61–2500 K, x(Pb) 0–1
-- Literature: 29 values (29 accepted) from 1 papers
+- Literature: 30 values (30 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-pb:liquid)
 
-Names (4): _corpus: _corpus:phase:gd-pb:liquid  
-_paper: _paper:10.1016/j.calphad.2013.06.002:L  
+Names (5): _corpus: _corpus:phase:gd-pb:liquid  
+_paper: _paper:10.1016/j.calphad.2013.06.002:L, paper:10.1016/j.jallcom.2013.11.131:liquid  
 _tdb: _tdb:GdPb-13Cui.tdb:LIQUID, tdb:GdPb-14Idd.tdb:LIQUID  
 
 
@@ -456,7 +456,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.calphad.2013.06.002](https://doi.org/10.1016/j.calphad.2013.06.002) Jiaxin Cui, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Gd–Pb system using random solution and associate models, Calphad 42, 1-5 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2013.11.131](https://doi.org/10.1016/j.jallcom.2013.11.131) A. Iddaoudi, C. Servant, N. Selhaoui, S. Kardellass, K. Mahdouk, L. Bouirden, Thermodynamic modeling of the RE–Pb (RE=Sc, Dy, Gd) systems, Journal of Alloys and Compounds 589, 192-199 (2014).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(83)90030-5](https://doi.org/10.1016/0364-5916%2883%2990030-5) A.K. Niessen, F.R. de Boer, R. Boom, P.F. de Chatel, W.C.M. Mattens, A.R. Miedema, CALPHAD 7 (1983) 51–70.  
 _cited as the source of values for this phase_
 

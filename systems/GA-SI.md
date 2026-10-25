@@ -1,10 +1,10 @@
 # Ga–Si system
 
-> Ga–Si system: 13 accepted literature values (phase equilibrium 11, crystal structure 1, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Si system: 12 accepted literature values (phase equilibrium 11, crystal structure 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-SI.html · Markdown: https://data.orchid-project.org/systems/GA-SI.md
 
-13 accepted literature values from 1 paper(s) (experimental 12, unspecified 1); 2 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 11, unspecified 1); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-SI.json) · [CSV](https://data.orchid-project.org/systems/GA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SI/GaSi-05Fra-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GA-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-SI.html) · [Markdown](https://data.orchid-project.org/systems/GA-SI.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 11 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | phase equilibrium | 11 |
 | crystal structure | 1 |
 
@@ -42,14 +41,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | GaSi-85Ole.tdb | 302.91 | ORTHORHOMBIC_A11 (x(Si) 0) + LIQUID (x(Si) 0) + DIAMOND_A4 (x(Si) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GA/GA-SI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GA/GA-SI.json) · [CALPHAD hull GaSi-85Ole](https://data.orchid-project.org/hulls/calphad-sgte/GA/GA-SI--GaSi-85Ole.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ga–Si system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 293.15 | eutectic |  | experimental | [1] Olesinski 1985; _cites ref. 58Sav_ | p. 1; `ORC-ZFRMRGW3AC` | “The temperature-composition coordinates of the liquidus listed in Table 1 have been taken from \[48Kle\], \[53Kec\], and \[77Girl; the data of \[58Sav\] seem to be questionable (the authors claimed the eutectic point to be at 20 ~ and 1.2 at.% Si).” |
 
 ## Other properties
 

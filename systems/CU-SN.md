@@ -1,10 +1,10 @@
 # Cu–Sn system
 
-> Cu–Sn system: 114 accepted literature values (invariant reaction 69, phase transition 27, formation 14, phase equilibrium 4) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sn system: 107 accepted literature values (invariant reaction 68, phase transition 21, formation 14, phase equilibrium 4) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SN.html · Markdown: https://data.orchid-project.org/systems/CU-SN.md
 
-114 accepted literature values from 5 paper(s) (experimental 54, model 60); 9 calculated phase diagram(s).
+107 accepted literature values from 4 paper(s) (experimental 50, model 57); 9 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SN.json) · [CSV](https://data.orchid-project.org/systems/CU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SN/CuSn-02Mie.json) · [phases (16)](https://data.orchid-project.org/phases/pages/CU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SN.html) · [Markdown](https://data.orchid-project.org/systems/CU-SN.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 54 |
-| model | 60 |
+| experimental | 50 |
+| model | 57 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 69 |
-| phase transition | 27 |
+| invariant reaction | 68 |
+| phase transition | 21 |
 | phase equilibrium | 4 |
 | formation | 14 |
 
@@ -238,7 +238,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Sn system (69)
+Table: Invariant reactions reported in the literature for the Cu–Sn system (68)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -301,7 +301,6 @@ Table: Invariant reactions reported in the literature for the Cu–Sn system (69
 | 623.15 | Fcc-δ-ε | Fcc: Sn 0.056; δ: Sn 0.211; ε: Sn 0.25 | model | [1] Miettinen 2002 | Table IV, p. 6, row 33; `ORC-KNJOINWPN5` |  |
 | 623.15 | Fcc-δ-ε | Fcc: Sn 0.062; δ: Sn 0.205; ε: Sn 0.245 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 31; `ORC-PQRL42YYBC` |  |
 | 623 | eutectoid: δ \<-> α + ε | δ: Sn 0.205; α: Sn 0.062; ε: Sn 0.245 | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 30; `ORC-QXFZQW2VFC` |  |
-| 500.15 | eutectic |  | model | [3] Moon 2000; _cites Massalski 1990_ | p. 10; `ORC-FUGZU2UPIY.4d9f2d` | “Various evaluations of the experimental data of the Cu-Sn binary system agree on the temperature (227°C) for the Sn-rich eutectic but give two different compositions: 0.9 wt.% Cu and 0.7 wt.% Cu in the two editions of Binary Alloy Phase Diagrams.19” |
 | 500.15 | Liquid-η-Sn | L: Sn 0.983; η: Sn 0.455; Sn: Sn 1 | model | [1] Miettinen 2002 | Table IV, p. 6, row 36; `ORC-H7BEJ3NQKG` |  |
 | 500.15 | Liquid-η-Sn | L: Sn 0.987; η: Sn 0.455; Sn: Sn 1 | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 34; `ORC-QPVGLARUSI` |  |
 | 500.15 | Liquid-η-Sn | L: Sn 0.984; η: Sn 0.455; Sn: Sn 1 | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 35; `ORC-UKKLFQGRE4` |  |
@@ -337,39 +336,33 @@ Table: Enthalpies of formation, Cu–Sn system (14)
 
 ## Other properties
 
-### Phase transition (27)
+### Phase transition (21)
 
 Table: Phase transition, Cu–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 624.15 K | 624.15 | other | model | [4] Dong 2014; _cites Li 2013_ [doi](https://doi.org/10.1016/j.intermet.2012.10.010) | p. 2; `ORC-PKIB65PYVH` | “Furthermore, the parameter of Cu41Sn11 was modified on the basis of the work of \[12\], since the decomposition temperature of Cu41Sn11 was estimated to be at 351 °C in \[12\] while this phase was found to be unstable lower than 380 °C in Au-Cu-Sn ternary system \[16\].” |
-| Phase transition | 653.15 K | 653.15 | other | experimental | [4] Dong 2014; _cites Karlsen 1992_ [doi](https://doi.org/10.3891/acta.chem.scand.46-0147) | p. 8; `ORC-7R7RRQ23CZ` | “The thermodynamic parameters of Cu41Sn11 were adapted to fit the experimentally determined decomposition temperature \[16\], i.e. 380 °C, instead of the temperature (i.e. at around 350 °C) adopted in the previous assessment papers \[7-12\].” |
-| Phase transition | 787.15 K | 787.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 12; `ORC-ETABS6WJCZ` |  |
-| Phase transition | 787.15 K | 787.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 8; `ORC-YGEEW5K2OF` |  |
-| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.847, Sn 0.153_ | experimental | [5] Liu 2004 | Table II, p. 5, row 4; `ORC-2MK25M24I3` |  |
-| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [5] Liu 2004 | Table II, p. 5, row 2; `ORC-E6O74B5MZL` |  |
-| Phase transition | 788.15 K | 788.15 | other: ␥ (D03) 4 ␣(fcc) ⫹ ␦ | experimental | [5] Liu 2004 | p. 5; `ORC-LYX4J6JIJ4.caf3ac` | “In order to confirm the absence of the ␤ 4 ␣ ⫹ ␥ reaction, a DSC experiment for the Cu-12 at. pct Sn alloy was carried out, and the DSC result is shown in Figure 5, in which two endothermic peaks with different characteristics are observed at 515 °C and 574 °C, respectively. It is seen that the peak at 515 °C has the feature of an invariant reaction and corresponds to the invariant reaction ␥ (D0…” |
-| Phase transition | 847.15 K | 847.15 | other | experimental | [5] Liu 2004 | p. 5; `ORC-LYX4J6JIJ4.b0ea4f` | “In order to confirm the absence of the ␤ 4 ␣ ⫹ ␥ reaction, a DSC experiment for the Cu-12 at. pct Sn alloy was carried out, and the DSC result is shown in Figure 5, in which two endothermic peaks with different characteristics are observed at 515 °C and 574 °C, respectively. It is seen that the peak at 515 °C has the feature of an invariant reaction and corresponds to the invariant reaction ␥ (D0…” |
-| Phase transition | 847.15 K | 847.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [5] Liu 2004 | Table II, p. 5, row 1; `ORC-4NY6XLHCKU` |  |
-| Phase transition | 848.15 K | 848.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 9; `ORC-JIADXPNRX2` |  |
-| Phase transition | 893.15 K | 893.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 13; `ORC-2Y3EUV7LCL` |  |
-| Phase transition | 922.15 K | 922.15 |  | model | [5] Liu 2004 | p. 4; `ORC-4VZTZCIF6R` | “Figure 3 shows the DSC trace for the Cu-16.9 at. pct Sn alloy. An endothermic peak is observed at 649 °C, which is deduced to be the B2/D03 ordering-transition temperature on the basis of following corroborating evidences.” |
-| Phase transition | 922.15 K | 922.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 7; `ORC-ARQWIEGYRH` |  |
-| Phase transition | 923.15 K | 923.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 16; `ORC-ZC6QBGYZF7` |  |
+| Phase transition | 624.15 K | 624.15 | other | model | [3] Dong 2014; _cites Li 2013_ [doi](https://doi.org/10.1016/j.intermet.2012.10.010) | p. 2; `ORC-PKIB65PYVH` | “Furthermore, the parameter of Cu41Sn11 was modified on the basis of the work of \[12\], since the decomposition temperature of Cu41Sn11 was estimated to be at 351 °C in \[12\] while this phase was found to be unstable lower than 380 °C in Au-Cu-Sn ternary system \[16\].” |
+| Phase transition | 787.15 K | 787.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [4] Liu 2004 | Table II, p. 5, row 12; `ORC-ETABS6WJCZ` |  |
+| Phase transition | 787.15 K | 787.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [4] Liu 2004 | Table II, p. 5, row 8; `ORC-YGEEW5K2OF` |  |
+| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.847, Sn 0.153_ | experimental | [4] Liu 2004 | Table II, p. 5, row 4; `ORC-2MK25M24I3` |  |
+| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [4] Liu 2004 | Table II, p. 5, row 2; `ORC-E6O74B5MZL` |  |
+| Phase transition | 847.15 K | 847.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [4] Liu 2004 | Table II, p. 5, row 1; `ORC-4NY6XLHCKU` |  |
+| Phase transition | 848.15 K | 848.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [4] Liu 2004 | Table II, p. 5, row 9; `ORC-JIADXPNRX2` |  |
+| Phase transition | 893.15 K | 893.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [4] Liu 2004 | Table II, p. 5, row 13; `ORC-2Y3EUV7LCL` |  |
+| Phase transition | 922.15 K | 922.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [4] Liu 2004 | Table II, p. 5, row 7; `ORC-ARQWIEGYRH` |  |
+| Phase transition | 923.15 K | 923.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [4] Liu 2004 | Table II, p. 5, row 16; `ORC-ZC6QBGYZF7` |  |
 | Phase transition | 941.15 K | 941.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002 | Table IV, p. 6, row 9; `ORC-2UBJRQHYNG` |  |
 | Phase transition | 945 K | 945 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013 | Table 2, p. 6, row 8; `ORC-BJSD6SA7UJ` |  |
 | Phase transition | 949 K | 949 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 7; `ORC-LIM2JQJRB4` |  |
 | Phase transition | 949.15 K | 949.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 7; `ORC-7OPMC4CQIO` |  |
 | Phase transition | 950.15 K | 950.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 8; `ORC-A5ZG6UYITF` |  |
-| Phase transition | 972.15 K | 972.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 11; `ORC-F3XXSQAASS` |  |
-| Phase transition | 984.15 K | 984.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 15; `ORC-3O5TJGGWGH` |  |
-| Phase transition | 1000 K | 1000 | other | experimental | [2] Li 2013 | p. 6; `ORC-OXXN6OM64F` | “The experimentally determined liquidus curve has a kink at approximately 1000 K, which could not be reproduced in the current optimization.” |
-| Phase transition | 1013.15 K | 1013.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [5] Liu 2004 | Table II, p. 5, row 17; `ORC-WC2BWTVRJV` |  |
-| Phase transition | 1038.15 K | 1038.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [5] Liu 2004 | Table II, p. 5, row 14; `ORC-M433MHINUY` |  |
-| Phase transition | 1063.15 K | 1063.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [5] Liu 2004 | Table II, p. 5, row 10; `ORC-BG3MZPOCHI` |  |
-| Phase transition | 1072.15 K | 1072.15 | other: First-Order Transition; _alloy: Cu 0.847, Sn 0.153_ | experimental | [5] Liu 2004 | Table II, p. 5, row 5; `ORC-LQR2XTEO26` |  |
-| Phase transition | 5070 K | 5070 | other | model | [2] Li 2013 | p. 7; `ORC-GB2DJ6YSAX` | “The Sn-rich part of the metastable bcc phase is dominated by a large miscibility gap with the consolute point at about 5070 K at 84 at.% Sn.” |
+| Phase transition | 972.15 K | 972.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [4] Liu 2004 | Table II, p. 5, row 11; `ORC-F3XXSQAASS` |  |
+| Phase transition | 984.15 K | 984.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [4] Liu 2004 | Table II, p. 5, row 15; `ORC-3O5TJGGWGH` |  |
+| Phase transition | 1013.15 K | 1013.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [4] Liu 2004 | Table II, p. 5, row 17; `ORC-WC2BWTVRJV` |  |
+| Phase transition | 1038.15 K | 1038.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [4] Liu 2004 | Table II, p. 5, row 14; `ORC-M433MHINUY` |  |
+| Phase transition | 1063.15 K | 1063.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [4] Liu 2004 | Table II, p. 5, row 10; `ORC-BG3MZPOCHI` |  |
+| Phase transition | 1072.15 K | 1072.15 | other: First-Order Transition; _alloy: Cu 0.847, Sn 0.153_ | experimental | [4] Liu 2004 | Table II, p. 5, row 5; `ORC-LQR2XTEO26` |  |
 
 ### Phase equilibrium (4)
 
@@ -377,10 +370,10 @@ Table: Phase equilibrium, Cu–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 873.15 | α(fcc) + β(bcc); _α(fcc): Cu 0.914, Sn 0.086; β(bcc): Cu 0.858, Sn 0.142_ | experimental | [5] Liu 2004 | Table III, p. 5, row 4; `ORC-V6A6ATF67N` |  |
-| Phase composition |  | 923.15 | A2/B2 + α(fcc) + β(bcc); _A2/B2: Cu 0.847, Sn 0.153; α(fcc): Cu 0.915, Sn 0.085; β(bcc): Cu 0.862, Sn 0.138_ | experimental | [5] Liu 2004 | Table III, p. 5, row 3; `ORC-VMBVTOLOHH` |  |
-| Phase composition |  | 973.15 | A2/B2 + β(bcc) + Liquid + α(fcc); _A2/B2: Cu 0.848, Sn 0.152; β(bcc): Cu 0.869, Sn 0.131; Liquid: Cu 0.658, Sn 0.342; α(fcc): Cu 0.922, Sn 0.078_ | experimental | [5] Liu 2004 | Table III, p. 5, row 2; `ORC-2JVWMZ4RBA` |  |
-| Phase composition |  | 1003.15 | A2/B2 + β(bcc) + Liquid; _A2/B2: Cu 0.837, Sn 0.163; β(bcc): Cu 0.772, Sn 0.228; Liquid: Cu 0.721, Sn 0.279_ | experimental | [5] Liu 2004 | Table III, p. 5, row 1; `ORC-I457SMBNSE` |  |
+| Phase composition |  | 873.15 | α(fcc) + β(bcc); _α(fcc): Cu 0.914, Sn 0.086; β(bcc): Cu 0.858, Sn 0.142_ | experimental | [4] Liu 2004 | Table III, p. 5, row 4; `ORC-V6A6ATF67N` |  |
+| Phase composition |  | 923.15 | A2/B2 + α(fcc) + β(bcc); _A2/B2: Cu 0.847, Sn 0.153; α(fcc): Cu 0.915, Sn 0.085; β(bcc): Cu 0.862, Sn 0.138_ | experimental | [4] Liu 2004 | Table III, p. 5, row 3; `ORC-VMBVTOLOHH` |  |
+| Phase composition |  | 973.15 | A2/B2 + β(bcc) + Liquid + α(fcc); _A2/B2: Cu 0.848, Sn 0.152; β(bcc): Cu 0.869, Sn 0.131; Liquid: Cu 0.658, Sn 0.342; α(fcc): Cu 0.922, Sn 0.078_ | experimental | [4] Liu 2004 | Table III, p. 5, row 2; `ORC-2JVWMZ4RBA` |  |
+| Phase composition |  | 1003.15 | A2/B2 + β(bcc) + Liquid; _A2/B2: Cu 0.837, Sn 0.163; β(bcc): Cu 0.772, Sn 0.228; Liquid: Cu 0.721, Sn 0.279_ | experimental | [4] Liu 2004 | Table III, p. 5, row 1; `ORC-I457SMBNSE` |  |
 
 ## Sources
 
@@ -388,9 +381,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. J. Miettinen, Thermodynamic description of the Cu-Al-Sn system in the copper-rich corner, Metall Mater Trans A 33, 1639-1648 (2002). [doi:10.1007/s11661-002-0173-7](https://doi.org/10.1007/s11661-002-0173-7)
 2. D. Li, P. Franke, S. Fürtauer, D. Cupid, H. Flandorfer, The Cu–Sn phase diagram part II: New thermodynamic assessment, Intermetallics 34, 148-158 (2013). [doi:10.1016/j.intermet.2012.10.010](https://doi.org/10.1016/j.intermet.2012.10.010)
-3. K. -W. Moon, W. J. Boettinger, U. R. Kattner, F. S. Biancaniello, C. A. Handwerker, Experimental and thermodynamic assessment of Sn-Ag-Cu solder alloys, Journal of Elec Materi 29, 1122-1136 (2000). [doi:10.1007/s11664-000-0003-x](https://doi.org/10.1007/s11664-000-0003-x)
-4. H.Q. Dong, V. Vuorinen, X.M. Tao, T. Laurila, M. Paulasto-Kröckel, Thermodynamic reassessment of Au–Cu–Sn ternary system, Journal of Alloys and Compounds 588, 449-460 (2014). [doi:10.1016/j.jallcom.2013.11.041](https://doi.org/10.1016/j.jallcom.2013.11.041)
-5. X. J. Liu, R. Kainuma, C. P. Wang, I. Ohnuma, K. Ishida, Experimental investigation and thermodynamic calculation of the phase equilibria in the Cu-Sn and Cu-Sn-Mn systems, Metall Mater Trans A 35, 1641-1654 (2004). [doi:10.1007/s11661-004-0073-0](https://doi.org/10.1007/s11661-004-0073-0)
+3. H.Q. Dong, V. Vuorinen, X.M. Tao, T. Laurila, M. Paulasto-Kröckel, Thermodynamic reassessment of Au–Cu–Sn ternary system, Journal of Alloys and Compounds 588, 449-460 (2014). [doi:10.1016/j.jallcom.2013.11.041](https://doi.org/10.1016/j.jallcom.2013.11.041)
+4. X. J. Liu, R. Kainuma, C. P. Wang, I. Ohnuma, K. Ishida, Experimental investigation and thermodynamic calculation of the phase equilibria in the Cu-Sn and Cu-Sn-Mn systems, Metall Mater Trans A 35, 1641-1654 (2004). [doi:10.1007/s11661-004-0073-0](https://doi.org/10.1007/s11661-004-0073-0)
 
 ## Please cite
 

@@ -29,8 +29,8 @@ Table: Uncertainty budget of the literature values of Si2U
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -43.89 | kJ/mol-atom | 4.18 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 4.18 |
-| -43.47 | kJ/mol-atom | 0.42 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -42.64 | kJ/mol-atom | 1.25 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -43.47 | kJ/mol-atom | 0.42 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -42.64 | kJ/mol-atom | 1.25 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -43.33 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -43.19 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 

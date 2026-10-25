@@ -1,24 +1,12 @@
 # Ge–Pb system
 
-> Ge–Pb system: 2 accepted literature values (invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Pb system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-PB.html · Markdown: https://data.orchid-project.org/systems/GE-PB.md
 
-2 accepted literature values from 1 paper(s) (model 2); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-PB.json) · [CSV](https://data.orchid-project.org/systems/GE-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-PB/GePb-89Che-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GE-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-PB.html) · [Markdown](https://data.orchid-project.org/systems/GE-PB.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 2 |
 
 ## Calculated phase diagrams
 
@@ -40,21 +28,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | GePb-89Che-LB.tdb | 600.17 | DIAMOND_A4 (x(Pb) 0) + LIQUID (x(Pb) 0.99929) + FCC_A1 (x(Pb) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GE/GE-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GE/GE-PB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ge–Pb system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 600.22 | eutectic |  | model | [1] Chewvalier 1989 | p. 4; `ORC-WED6INMSPE` | “The assessed eutectic point was located at T = 600.22 K, XPb= 0.9993.” |
-| 600.15 | eutectic |  | model | [1] Chewvalier 1989 | p. 9; `ORC-M2WEWL5BFO` | “The eutectic point is located at T = 600.15 K and xoe = 0.0007, which is in very good agreement with the assessed values of ref. 23.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Pierre-Yves Chewvalier, A thermodynamic evaluation of the Ge-In, Ge-Pb, Ge-Sb, Ge-Tl and Ge-Zn systems, Thermochimica Acta 155, 227-240 (1989). [doi:10.1016/0040-6031(89)87148-5](https://doi.org/10.1016/0040-6031%2889%2987148-5)
 
 ## Please cite
 

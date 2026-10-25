@@ -1,10 +1,10 @@
 # Mg–Ni system
 
-> Mg–Ni system: 94 accepted literature values (formation 53, invariant reaction 29, phase transition 7, crystal structure 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Ni system: 98 accepted literature values (formation 53, invariant reaction 29, crystal structure 10, phase transition 6) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-NI.html · Markdown: https://data.orchid-project.org/systems/MG-NI.md
 
-94 accepted literature values from 3 paper(s) (experimental 61, model 33); 3 calculated phase diagram(s).
+98 accepted literature values from 3 paper(s) (experimental 60, model 38); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-NI.json) · [CSV](https://data.orchid-project.org/systems/MG-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-NI/MgNi-05Isl.json) · [phases (7)](https://data.orchid-project.org/phases/pages/MG-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-NI.html) · [Markdown](https://data.orchid-project.org/systems/MG-NI.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 61 |
-| model | 33 |
+| experimental | 60 |
+| model | 38 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 29 |
-| phase transition | 7 |
+| phase transition | 6 |
 | formation | 53 |
-| crystal structure | 5 |
+| crystal structure | 10 |
 
 ## Calculated phase diagrams
 
@@ -71,7 +71,7 @@ Table: Invariant reactions reported in the literature for the Mg–Ni system (29
 | 1368.28 | Liq+Fcc_A1+MgNi2 | L: Ni 0.7961; MgNi2: Ni 0.6734 | model | [2] Jacobs 1998 | Table 3, p. 6, row 9; `ORC-3K2XSASBG7` |  |
 | 1368.04 | Liq+Fcc_A1+MgNi2 | L: Ni 0.796; MgNi2: Ni 0.6735 | model | [2] Jacobs 1998 | Table 3, p. 6, row 10; `ORC-ZL3Q4XWYMQ` |  |
 | 1368 | Liq+Fcc_A1+MgNi2 | MgNi2: Ni 0.666667 | experimental | [2] Jacobs 1998; _cites ref. 5_ | Table 3, p. 6, row 12; `ORC-D7XEHVXK7O` |  |
-| 1366.6 | eutectic: Liquid -> Laves-C36 + fcc-A1 | Liquid: Ni 0.802; Laves-C36: Ni 0.666; fcc-A1: Ni 1 | model | [3] Hämäläinen 1998 | Table I, p. 235, row 1; `ORC-NGGPN4PB5P` |  |
+| 1366.6 | eutectic: Liquid -> Laves-C36 + fcc-A1 | Liquid: Ni 0.802; Laves-C36: Ni 0.666; fcc-A1: Ni 1 | model | [3] (ed.) 1998 | Table I, p. 235, row 1; `ORC-NGGPN4PB5P` |  |
 | 1355 | Liq+Fcc_A1+MgNi2 | L: Ni 0.772; MgNi2: Ni 0.666667 | experimental | [2] Jacobs 1998; _cites ref. 6_ | Table 3, p. 6, row 11; `ORC-CI2X5QJRDE` |  |
 | 1355 | eutectic: L -> Ni-fcc + MgNi2 | L: Ni 0.772; MgNi2: Ni 0.667 | experimental | [1] Islam 2005; _cites Voss 1908_ [doi](https://doi.org/10.1002/zaac.19080570103) | Table 3, p. 6, row 11; `ORC-NXAPCSN6FQ` |  |
 | 1041 | peritectic: L + MgNi2 -> Mg2Ni | L: Ni 0.26; MgNi2: Ni 0.667; Mg2Ni: Ni 0.333 | experimental | [1] Islam 2005; _cites Voss 1908_ [doi](https://doi.org/10.1002/zaac.19080570103) | Table 3, p. 6, row 8; `ORC-46WCOSZK6X` |  |
@@ -81,7 +81,7 @@ Table: Invariant reactions reported in the literature for the Mg–Ni system (29
 | 1033 | Liq+Mg2Ni+MgNi2 | L: Ni 0.29; Mg2Ni: Ni 0.333333; MgNi2: Ni 0.666667 | experimental | [2] Jacobs 1998; _cites ref. 4_ | Table 3, p. 6, row 7; `ORC-P4PDREC34M` |  |
 | 1033 | Liq+Mg2Ni+MgNi2 | Mg2Ni: Ni 0.333333; MgNi2: Ni 0.662 | experimental | [2] Jacobs 1998; _cites ref. 3_ | Table 3, p. 6, row 8; `ORC-QHZB4JFB2Z` |  |
 | 1032.31 | Liq+Mg2Ni+MgNi2 | L: Ni 0.2964; Mg2Ni: Ni 0.333333; MgNi2: Ni 0.662 | model | [2] Jacobs 1998 | Table 3, p. 6, row 5; `ORC-SB6BWF4UXJ` |  |
-| 1032.2 | peritectic: Liquid + Mg2Ni -> Laves-C36 | Liquid: Ni 0.278; Mg2Ni: Ni 0.333; Laves-C36: Ni 0.666 | model | [3] Hämäläinen 1998 | Table I, p. 235, row 3; `ORC-76N333Z4BA` |  |
+| 1032.2 | peritectic: Liquid + Mg2Ni -> Laves-C36 | Liquid: Ni 0.278; Mg2Ni: Ni 0.333; Laves-C36: Ni 0.666 | model | [3] (ed.) 1998 | Table I, p. 235, row 3; `ORC-76N333Z4BA` |  |
 | 1031 | peritectic: L + MgNi2 -> Mg2Ni | L: Ni 0.291; MgNi2: Ni 0.665; Mg2Ni: Ni 0.333 | model | [1] Islam 2005 | Table 3, p. 6, row 5; `ORC-TNIPACBEQU` |  |
 | 785 | Hcp_A3+Liq+Mg2Ni | L: Ni 0.176; Mg2Ni: Ni 0.333333 | experimental | [2] Jacobs 1998; _cites ref. 6_ | Table 3, p. 6, row 2; `ORC-L2XYQ73D3W` |  |
 | 785 | eutectic: L -> Mg-hcp + Mg2Ni | L: Ni 0.176; Mg2Ni: Ni 0.333 | experimental | [1] Islam 2005; _cites Voss 1908_ [doi](https://doi.org/10.1002/zaac.19080570103) | Table 3, p. 6, row 4; `ORC-LU25F6PJDA` |  |
@@ -89,7 +89,7 @@ Table: Invariant reactions reported in the literature for the Mg–Ni system (29
 | 781.41 | Hcp_A3+Liq+Mg2Ni | L: Ni 0.1106; Mg2Ni: Ni 0.333333 | model | [2] Jacobs 1998 | Table 3, p. 6, row 1; `ORC-73EYVNMC42` |  |
 | 781 | eutectic: L -> Mg-hcp + Mg2Ni | L: Ni 0.113; Mg2Ni: Ni 0.333 | experimental | [1] Islam 2005; _cites Haughton 1934_ | Table 3, p. 6, row 2; `ORC-3NV4BHYVYG` |  |
 | 781 | Hcp_A3+Liq+Mg2Ni | L: Ni 0.113; Mg2Ni: Ni 0.333333 | experimental | [2] Jacobs 1998; _cites ref. 4_ | Table 3, p. 6, row 3; `ORC-SBS3A3KESB` |  |
-| 780 | eutectic: Liquid -> + hcp-A3 Mg2Ni | Liquid: Ni 0.101; hcp-A3: Ni 0; Mg2Ni: Ni 0.333 | model | [3] Hämäläinen 1998 | Table I, p. 235, row 4; `ORC-K7T7XR6NBS` |  |
+| 780 | eutectic: Liquid -> + hcp-A3 Mg2Ni | Liquid: Ni 0.101; hcp-A3: Ni 0; Mg2Ni: Ni 0.333 | model | [3] (ed.) 1998 | Table I, p. 235, row 4; `ORC-K7T7XR6NBS` |  |
 | 779 | eutectic: L -> Mg-hcp + Mg2Ni | Mg2Ni: Mg 0.666667, Ni 0.333333 | experimental | [1] Islam 2005; _cites Bagnoud 1978_ | Table 3, p. 6, row 3; `ORC-GRA6D6YR7E` |  |
 | 779 | Hcp_A3+Liq+Mg2Ni | Mg2Ni: Ni 0.333333 | experimental | [2] Jacobs 1998; _cites ref. 3_ | Table 3, p. 6, row 4; `ORC-WQL7C7DS7R` |  |
 
@@ -130,7 +130,7 @@ Table: Enthalpies of formation, Mg–Ni system (26)
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (6)
 
 Table: Phase transition, Mg–Ni system
 
@@ -138,11 +138,10 @@ Table: Phase transition, Mg–Ni system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1368 K | 1368 | other: Liq+MgNi2 (maximum); _L: Ni 0.666667; MgNi2: Ni 0.666667_ | experimental | [2] Jacobs 1998; _cites ref. 5_ | Table 3, p. 6, row 16; `ORC-E2R2BRR67A` |  |
 | Phase transition | 1416 K | 1416 | other: Liq+MgNi2 (maximum); _L: Ni 0.666667; MgNi2: Ni 0.666667_ | experimental | [2] Jacobs 1998; _cites ref. 8_ | Table 3, p. 6, row 17; `ORC-QXURAVQ7SZ` |  |
-| Phase transition | 1420 K | 1420 | congruent melting: Liquid -> MgNi2; _Liquid: Ni 0.666; MgNi2: Ni 0.666_ | model | [3] Hämäläinen 1998 | Table I, p. 235, row 2; `ORC-QHBVXHZ4WY` |  |
+| Phase transition | 1420 K | 1420 | congruent melting: Liquid -> MgNi2; _Liquid: Ni 0.666; MgNi2: Ni 0.666_ | model | [3] (ed.) 1998 | Table I, p. 235, row 2; `ORC-QHBVXHZ4WY` |  |
 | Phase transition | 1420 K | 1420 | other: Liq+MgNi2 (maximum); _L: Ni 0.666667; MgNi2: Ni 0.666667_ | experimental | [2] Jacobs 1998; _cites ref. 3_ | Table 3, p. 6, row 18; `ORC-CKG3HM4Q7N` |  |
 | Phase transition | 1420.58 K | 1420.58 | other: Liq+MgNi2 (maximum); _L: Ni 0.6686; MgNi2: Ni 0.6686_ | model | [2] Jacobs 1998 | Table 3, p. 6, row 15; `ORC-NGOALGTCZT` |  |
 | Phase transition | 1420.6 K | 1420.6 | other: Liq+MgNi2 (maximum); _L: Ni 0.6665; MgNi2: Ni 0.6665_ | model | [2] Jacobs 1998 | Table 3, p. 6, row 14; `ORC-EVSWL2G3LV` |  |
-| Phase transition | 1728 K | 1728 |  | experimental | [2] Jacobs 1998 | p. 1; `ORC-HMNGDLPJS2` | “This thermodynamic evaluation is valid between 300 K and 1728 K (the melting temperature of Ni) and for the complete composition range.” |
 
 ### Formation (27)
 
@@ -178,17 +177,22 @@ Table: Formation, Mg–Ni system
 | Gibbs energy of formation; _printed: ΔGf_ | -22.95 kJ/mol-atom | 298.15 | MgNi2; _alloy: Ni 0.666667_ | experimental | [1] Islam 2005; _cites Schmahl 1958_ | Table 4, p. 7, row 4; `ORC-KARWEPEIDM.224985` |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -19.86 kJ/mol-atom | 298.15 | MgNi2; _alloy: Ni 0.666667_ | experimental | [1] Islam 2005; _cites Smith 1960_ [doi](https://doi.org/10.1016/0001-6160%2860%2990188-7) | Table 4, p. 7, row 6; `ORC-ZUOAQ2M7RC.3ec3c2` |  |
 
-### Crystal structure (5)
+### Crystal structure (10)
 
 Table: Crystal structure, Mg–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.824 Å | 298.15 | MgNi2; _alloy: Ni 0_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 2; `ORC-MDQXKB4AKJ.6fcc15` |  |
-| Lattice c | 15.826 Å | 298.15 | MgNi2; _alloy: Ni 0_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 2; `ORC-MDQXKB4AKJ.632af2` |  |
-| lattice alpha | 90 not_printed | 298.15 | MgNi2; _alloy: Ni 0_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 2; `ORC-MDQXKB4AKJ.87fcda` |  |
-| lattice beta | 90 not_printed | 298.15 | MgNi2; _alloy: Ni 0_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 2; `ORC-MDQXKB4AKJ.bd9237` |  |
-| lattice gamma | 120 not_printed | 298.15 | MgNi2; _alloy: Ni 0_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 2; `ORC-MDQXKB4AKJ.b52704` |  |
+| Lattice a | 4.824 Å | 298.15 | MgNi2; _alloy: Mg 0.333333, Ni 0.666667_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 5; `ORC-6HYIKECAKX.f04481` |  |
+| Lattice a | 4.824 Å | 298.15 | MgNi2; _alloy: Mg 0.333333, Ni 0.666667_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 2; `ORC-MDQXKB4AKJ.6fcc15` |  |
+| Lattice c | 15.826 Å | 298.15 | MgNi2; _alloy: Mg 0.333333, Ni 0.666667_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 5; `ORC-6HYIKECAKX.c30dc4` |  |
+| Lattice c | 15.826 Å | 298.15 | MgNi2; _alloy: Mg 0.333333, Ni 0.666667_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 2; `ORC-MDQXKB4AKJ.632af2` |  |
+| lattice alpha | 90 not_printed | 298.15 | MgNi2; _alloy: Mg 0.333333, Ni 0.666667_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 5; `ORC-6HYIKECAKX.434945` |  |
+| lattice alpha | 90 not_printed | 298.15 | MgNi2; _alloy: Mg 0.333333, Ni 0.666667_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 2; `ORC-MDQXKB4AKJ.87fcda` |  |
+| lattice beta | 90 not_printed | 298.15 | MgNi2; _alloy: Mg 0.333333, Ni 0.666667_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 5; `ORC-6HYIKECAKX.60f76e` |  |
+| lattice beta | 90 not_printed | 298.15 | MgNi2; _alloy: Mg 0.333333, Ni 0.666667_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 2; `ORC-MDQXKB4AKJ.bd9237` |  |
+| lattice gamma | 120 not_printed | 298.15 | MgNi2; _alloy: Mg 0.333333, Ni 0.666667_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 5; `ORC-6HYIKECAKX.a11879` |  |
+| lattice gamma | 120 not_printed | 298.15 | MgNi2; _alloy: Mg 0.333333, Ni 0.666667_ | model | [1] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 2; `ORC-MDQXKB4AKJ.b52704` |  |
 
 ## Sources
 
@@ -196,7 +200,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. F. Islam, M. Medraj, The phase equilibria in the Mg–Ni–Ca system, Calphad 29, 289-302 (2005). [doi:10.1016/j.calphad.2005.08.006](https://doi.org/10.1016/j.calphad.2005.08.006)
 2. M.H.G. Jacobs, P.J. Spencer, A critical thermodynamic evaluation of the system MG-NI, Calphad 22, 513-525 (1998). [doi:10.1016/s0364-5916(99)00008-5](https://doi.org/10.1016/s0364-5916%2899%2900008-5)
-3. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+3. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 
 ## Please cite
 

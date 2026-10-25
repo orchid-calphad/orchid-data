@@ -31,10 +31,10 @@ Table: Uncertainty budget of the literature values of Bi2Te3
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -39.8 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -16.903 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -16.82 | kJ/mol-atom | 0.67 | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -16.1 | kJ/mol-atom | 1 | 5.000e-5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -16.82 | kJ/mol-atom | 0.67 | 5.000e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -16.1 | kJ/mol-atom | 1 | 5.000e-5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -15.84 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -15.7 | kJ/mol-atom |  | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -15.7 | kJ/mol-atom |  | 5.000e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 
 ## DFT formation energies
 

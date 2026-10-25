@@ -27,7 +27,7 @@ Table: Uncertainty budget of the literature values of Al2Y
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -80.9 | kJ/mol-atom |  | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
-| -50.4 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -50.4 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -50.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies

@@ -1,10 +1,10 @@
 # Er–Pd system
 
-> Er–Pd system: 51 accepted literature values (invariant reaction 21, formation 20, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Pd system: 52 accepted literature values (invariant reaction 21, formation 20, phase transition 10, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-PD.html · Markdown: https://data.orchid-project.org/systems/ER-PD.md
 
-51 accepted literature values from 2 paper(s) (experimental 15, model 36); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+52 accepted literature values from 2 paper(s) (experimental 15, model 37); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-PD.json) · [CSV](https://data.orchid-project.org/systems/ER-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-PD/ErPd-00Du.json) · [phases (14)](https://data.orchid-project.org/phases/pages/ER-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-PD.html) · [Markdown](https://data.orchid-project.org/systems/ER-PD.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 15 |
-| model | 36 |
+| model | 37 |
 
 Table: Accepted values by property group
 
@@ -22,6 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 21 |
 | phase transition | 10 |
 | formation | 20 |
+| mixing / partial | 1 |
 
 ## Calculated phase diagrams
 
@@ -68,22 +69,22 @@ Table: Invariant reactions reported in the literature for the Er–Pd system (21
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1703 | Liq.->βErPd+Er3Pd4 | Liq.: Pd 0.5507; βErPd: Pd 0.5; Er3Pd4: Pd 0.571429 | model | [1] Du 2000 | Table 2, p. 5, row 13; `ORC-NV4UMCBUKV` |  |
-| 1703 | Liq.->βErPd+Er3Pd4 | Liq.: Pd 0.535; βErPd: Pd 0.5; Er3Pd4: Pd 0.571429 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 14; `ORC-QDCPC2WV3S` |  |
+| 1703 | eutectic: Liq.->βErPd+Er3Pd4 | Liq.: Pd 0.5507; βErPd: Pd 0.5; Er3Pd4: Pd 0.571429 | model | [1] Du 2000 | Table 2, p. 5, row 13; `ORC-NV4UMCBUKV` |  |
+| 1703 | eutectic: Liq.->βErPd+Er3Pd4 | Liq.: Pd 0.535; βErPd: Pd 0.5; Er3Pd4: Pd 0.571429 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 14; `ORC-QDCPC2WV3S` |  |
 | 1608 | Liq.+ErPd3->Er10Pd21 | Liq.: Pd 0.6458; ErPd3: Pd 0.75; Er10Pd21: Pd 0.677419 | model | [1] Du 2000 | Table 2, p. 5, row 25; `ORC-3XLMRTNMLQ` |  |
 | 1608 | Liq.+ErPd3->Er10Pd21 | Liq.: Pd 0.659; ErPd3: Pd 0.75; Er10Pd21: Pd 0.677419 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 26; `ORC-RXGU6QB6JH` |  |
 | 1596 | Liq.+Er3Pd4->βEr2Pd3 | Liq.: Pd 0.626; Er3Pd4: Pd 0.571429; βEr2Pd3: Pd 0.6 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 20; `ORC-6NE5MGTGRO` |  |
 | 1596 | Liq.+Er3Pd4->βEr2Pd3 | Liq.: Pd 0.6215; Er3Pd4: Pd 0.571429; βEr2Pd3: Pd 0.6 | model | [1] Du 2000 | Table 2, p. 5, row 19; `ORC-ONP6QX5U3Q` |  |
-| 1568 | Liq.->βEr2Pd3+Er10Pd21 | Liq.: Pd 0.635; βEr2Pd3: Pd 0.6; Er10Pd21: Pd 0.677419 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 22; `ORC-I6XUPCL4NO` |  |
-| 1566 | Liq.->βEr2Pd3+Er10Pd21 | Liq.: Pd 0.6318; βEr2Pd3: Pd 0.6; Er10Pd21: Pd 0.677419 | model | [1] Du 2000 | Table 2, p. 5, row 21; `ORC-LPZ6BOLHPA` |  |
-| 1553 | Liq.->ErPd3+f.c.c.(Pd) | Liq.: Pd 0.86; ErPd3: Pd 0.795; f.c.c.(Pd): Pd 0.87 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 30; `ORC-F6GTF574VL` |  |
-| 1553 | Liq.->ErPd3+f.c.c.(Pd) | Liq.: Pd 0.8563; ErPd3: Pd 0.7882; f.c.c.(Pd): Pd 0.8815 | model | [1] Du 2000 | Table 2, p. 5, row 29; `ORC-LZDROLPS5W` |  |
+| 1568 | eutectic: Liq.->βEr2Pd3+Er10Pd21 | Liq.: Pd 0.635; βEr2Pd3: Pd 0.6; Er10Pd21: Pd 0.677419 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 22; `ORC-I6XUPCL4NO` |  |
+| 1566 | eutectic: Liq.->βEr2Pd3+Er10Pd21 | Liq.: Pd 0.6318; βEr2Pd3: Pd 0.6; Er10Pd21: Pd 0.677419 | model | [1] Du 2000 | Table 2, p. 5, row 21; `ORC-LPZ6BOLHPA` |  |
+| 1553 | eutectic: Liq.->ErPd3+f.c.c.(Pd) | Liq.: Pd 0.86; ErPd3: Pd 0.795; f.c.c.(Pd): Pd 0.87 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 30; `ORC-F6GTF574VL` |  |
+| 1553 | eutectic: Liq.->ErPd3+f.c.c.(Pd) | Liq.: Pd 0.8563; ErPd3: Pd 0.7882; f.c.c.(Pd): Pd 0.8815 | model | [1] Du 2000 | Table 2, p. 5, row 29; `ORC-LZDROLPS5W` |  |
 | 1265 | Liq.+βErPd->Er3Pd2 | Liq.: Pd 0.364; βErPd: Pd 0.4774; Er3Pd2: Pd 0.4 | model | [1] Du 2000 | Table 2, p. 5, row 9; `ORC-X47YFVC67I` |  |
 | 1264 | Liq.+βErPd->Er3Pd2 | Liq.: Pd 0.35; βErPd: Pd 0.491; Er3Pd2: Pd 0.4 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 10; `ORC-S2JCMJ5XDQ` |  |
-| 1196 | Liq.->Er5Pd2+Er3Pd2 | Liq.: Pd 0.315; Er5Pd2: Pd 0.285714; Er3Pd2: Pd 0.4 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 6; `ORC-6XVZ7MCQTP` |  |
-| 1196 | Liq.->Er5Pd2+Er3Pd2 | Liq.: Pd 0.3198; Er5Pd2: Pd 0.285714; Er3Pd2: Pd 0.4 | model | [1] Du 2000 | Table 2, p. 5, row 5; `ORC-EB4VKJK4JY` |  |
-| 1190 | Liq.->h.c.p.(Er)+Er5Pd2 | Liq.: Pd 0.2417; h.c.p.(Er): Pd 0; Er5Pd2: Pd 0.285714 | model | [1] Du 2000 | Table 2, p. 5, row 1; `ORC-3RPLBPDO5Y` |  |
-| 1188 | Liq.->h.c.p.(Er)+Er5Pd2 | Liq.: Pd 0.265; h.c.p.(Er): Pd 0; Er5Pd2: Pd 0.285714 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 2; `ORC-4R37SFGZLR` |  |
+| 1196 | eutectic: Liq.->Er5Pd2+Er3Pd2 | Liq.: Pd 0.315; Er5Pd2: Pd 0.285714; Er3Pd2: Pd 0.4 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 6; `ORC-6XVZ7MCQTP` |  |
+| 1196 | eutectic: Liq.->Er5Pd2+Er3Pd2 | Liq.: Pd 0.3198; Er5Pd2: Pd 0.285714; Er3Pd2: Pd 0.4 | model | [1] Du 2000 | Table 2, p. 5, row 5; `ORC-EB4VKJK4JY` |  |
+| 1190 | eutectic: Liq.->h.c.p.(Er)+Er5Pd2 | Liq.: Pd 0.2417; h.c.p.(Er): Pd 0; Er5Pd2: Pd 0.285714 | model | [1] Du 2000 | Table 2, p. 5, row 1; `ORC-3RPLBPDO5Y` |  |
+| 1188 | eutectic: Liq.->h.c.p.(Er)+Er5Pd2 | Liq.: Pd 0.265; h.c.p.(Er): Pd 0; Er5Pd2: Pd 0.285714 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 2; `ORC-4R37SFGZLR` |  |
 | 838 | Er3Pd2+βErPd->αErPd | Er3Pd2: Pd 0.4; βErPd: Pd 0.491; αErPd: Pd 0.491 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 8; `ORC-K6PCDTZ34H` |  |
 | 838 | Er3Pd2+βErPd->αErPd | Er3Pd2: Pd 0.4; βErPd: Pd 0.4965; αErPd: Pd 0.4942 | model | [1] Du 2000 | Table 2, p. 5, row 7; `ORC-OUENVYDO2C` |  |
 | 821 | βErPd->αErPd+Er3Pd4 | βErPd: Pd 0.5; αErPd: Pd 0.5; Er3Pd4: Pd 0.571429 | model | [1] Du 2000 | Table 2, p. 5, row 15; `ORC-GVL3DP5UUY` |  |
@@ -135,15 +136,23 @@ Table: Formation, Er–Pd system
 | Entropy of formation | 5.723 J/mol-atom/K | 298.15 | Pd3Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 6; `ORC-APZ2U5HYKT.93295c` |  |
 | Entropy of formation; _printed: ΔfS_ | 7.36 J/mol-atom/K | 298.15 | Pd3Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76; `ORC-VUJDXDCFZU.ba8e8c` |  |
 | Entropy of formation; _printed: ΔfS_ | -0.549 J/mol-atom/K | 298.15 | Pd4Er3; _alloy: Er 0.428571, Pd 0.571429_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 38; `ORC-XPFBMOECZS.955adc` |  |
-| Entropy of formation | 7.36 J/mol-atom/K | 298.15 | Pd7Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76; `ORC-VUJDXDCFZU.3e6355` |  |
+| Entropy of formation | 7.36 J/mol-atom/K | 298.15 | Pd7Er; _alloy: Er 0.125, Pd 0.875_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76; `ORC-VUJDXDCFZU.3e6355` |  |
 | Entropy of formation; _printed: Entropies of formation_ | 7.36 J/mol-atom/K | 298.15 | Pd7RE; _alloy: Er 0.125, Pd 0.875_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 10; `ORC-N5IRJB22KH.5c30db` |  |
 | Entropy of formation; _printed: ΔfS_ | -0.862 J/mol-atom/K | 298.15 | PdEr; _alloy: Er 0.5, Pd 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 26; `ORC-RE3Y4SJVPC.337d3e` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -95.7763 kJ/mol-atom | 298.15 | Pd21Er10; _alloy: Er 0.322581, Pd 0.677419_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 44; `ORC-7Q7NPEL45O.4a5939` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -95.7763 kJ/mol-atom | 298.15 | Pd3Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 6; `ORC-APZ2U5HYKT.1d4ba8` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -57.9494 kJ/mol-atom | 298.15 | Pd3Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76; `ORC-VUJDXDCFZU.beee58` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -92.4093 kJ/mol-atom | 298.15 | Pd4Er3; _alloy: Er 0.428571, Pd 0.571429_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 38; `ORC-XPFBMOECZS.0d0e46` |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -57.9494 kJ/mol-atom | 298.15 | Pd7Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76; `ORC-VUJDXDCFZU.02f2e4` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -57.9494 kJ/mol-atom | 298.15 | Pd7Er; _alloy: Er 0.125, Pd 0.875_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76; `ORC-VUJDXDCFZU.02f2e4` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -89.974 kJ/mol-atom | 298.15 | PdEr; _alloy: Er 0.5, Pd 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 26; `ORC-RE3Y4SJVPC.08435f` |  |
+
+### Mixing / partial (1)
+
+Table: Mixing / partial, Er–Pd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -57.9494 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Er 0.125, Pd 0.875_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 10; `ORC-N5IRJB22KH.f7c680` |  |
 
 ## Sources
 

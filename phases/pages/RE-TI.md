@@ -15,7 +15,7 @@ Table: Phases of the Re–Ti system (6)
 | [BCC_A2](#phase-re-ti-bcc-a2); _phase:re-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2040.61 K, x(Ti) 0.63644–1 | 0 | 1 |
 | [FCC_A1](#phase-re-ti-fcc-a1); _phase:re-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-re-ti-hcp-a3); _phase:re-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3475.5 K, x(Ti) 0–1 | 0 | 1 |
-| [LIQUID](#phase-re-ti-liquid); _phase:re-ti:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1155.99–4000 K, x(Ti) 0–1 | 0 | 1 |
+| [LIQUID](#phase-re-ti-liquid); _phase:re-ti:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1155.99–4000 K, x(Ti) 0–1 | 1 | 1 |
 | [RE24TI5_A12](#phase-re-ti-re24ti5-a12); _phase:re-ti:re24ti5-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3068 K, x(Ti) 0.17241–0.17241 | 1 | 1 |
 | [RETI_B2](#phase-re-ti-reti-b2); _phase:re-ti:reti-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3171.51 K, x(Ti) 0.5–0.5 | 1 | 1 |
 
@@ -102,10 +102,11 @@ _assessment that models this phase_
 - Id: `phase:re-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1155.99–4000 K, x(Ti) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-ti:liquid)
 
-Names (2): _corpus: _corpus:phase:re-ti:liquid  
+Names (3): _corpus: _corpus:phase:re-ti:liquid  
+_paper: _paper:10.1016/j.calphad.2012.05.001:liquid  
 _tdb: _tdb:ReTi-12Zac.tdb:LIQUID  
 
 
@@ -121,7 +122,7 @@ _tdb: _tdb:ReTi-12Zac.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.05.001](https://doi.org/10.1016/j.calphad.2012.05.001) Chelsey L. Zacherl, Shun-Li Shang, Arkapol Saengdeejing, Zi-Kui Liu, Phase stability and thermodynamic modeling of the Re–Ti system supplemented by first-principles calculations, Calphad 38, 71-80 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## RE24TI5_A12 (Re–Ti)
 

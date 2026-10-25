@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of LiO
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -158.155 | kJ/mol-atom |  | 0.00125 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -151.475 | kJ/mol-atom |  | 0.0125 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -158.155 | kJ/mol-atom |  | 0.00125 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -151.475 | kJ/mol-atom |  | 0.0125 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -161.07 | kJ/mol-atom |  | 0.00125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -158.155 | kJ/mol-atom | 2.1 | 0.00125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 

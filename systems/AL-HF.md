@@ -68,19 +68,19 @@ Table: Invariant reactions reported in the literature for the Al–Hf system (29
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2073 | L ↔ HfAl | HfAl: Al 0.5 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 13; `ORC-47RNLAS5G4` |  |
-| 2034 | L ↔ HfAl | HfAl: Al 0.5 | model | [1] Wang 2002 | Table 1, p. 2, row 14; `ORC-BTH4OI6UT6` |  |
-| 1929 | L ↔ Hf2Al3 | Hf2Al3: Al 0.6 | model | [1] Wang 2002 | Table 1, p. 2, row 17; `ORC-HWTYPWVXR5` |  |
-| 1923 | L ↔ HFAl2 | HFAl2: Al 0.667 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 20; `ORC-KENSBUKCD5` |  |
+| 2073 | congruent melting: L ↔ HfAl | HfAl: Al 0.5 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 13; `ORC-47RNLAS5G4` |  |
+| 2034 | congruent melting: L ↔ HfAl | HfAl: Al 0.5 | model | [1] Wang 2002 | Table 1, p. 2, row 14; `ORC-BTH4OI6UT6` |  |
+| 1929 | congruent melting: L ↔ Hf2Al3 | Hf2Al3: Al 0.6 | model | [1] Wang 2002 | Table 1, p. 2, row 17; `ORC-HWTYPWVXR5` |  |
+| 1923 | congruent melting: L ↔ HFAl2 | HFAl2: Al 0.667 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 20; `ORC-KENSBUKCD5` |  |
 | 1913 | L + HfAl ↔ Hf2Al3 | HfAl: Al 0.5; Hf2Al3: Al 0.6 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 15; `ORC-A6URKQSQ4W` |  |
 | 1911 | L ↔ HfAl + Hf2Al3 | L: Al 0.573; HfAl: Al 0.5; Hf2Al3: Al 0.6 | model | [1] Wang 2002 | Table 1, p. 2, row 16; `ORC-AMLFD5IARL` |  |
-| 1886 | L ↔ HFAl2 | HFAl2: Al 0.667 | model | [1] Wang 2002 | Table 1, p. 2, row 21; `ORC-EK7GYBD5J7` |  |
+| 1886 | congruent melting: L ↔ HFAl2 | HFAl2: Al 0.667 | model | [1] Wang 2002 | Table 1, p. 2, row 21; `ORC-EK7GYBD5J7` |  |
 | 1879 | L ↔ Hf2Al3 + HfAl2 | L: Al 0.647; Hf2Al3: Al 0.6; HfAl2: Al 0.667 | model | [1] Wang 2002 | Table 1, p. 2, row 19; `ORC-3PD74KBM6X` |  |
-| 1863 | L ↔ HfAl3(β) | HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 24; `ORC-SF45U7TBUG` |  |
-| 1863 | L ↔ Hf3Al2 | Hf3Al2: Al 0.4 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 7; `ORC-T55YIL4B35` |  |
-| 1856 | L ↔ HfAl3(β) | HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 25; `ORC-U2RZEWB3KO` |  |
+| 1863 | congruent melting: L ↔ HfAl3(β) | HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 24; `ORC-SF45U7TBUG` |  |
+| 1863 | congruent melting: L ↔ Hf3Al2 | Hf3Al2: Al 0.4 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 7; `ORC-T55YIL4B35` |  |
+| 1856 | congruent melting: L ↔ HfAl3(β) | HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 25; `ORC-U2RZEWB3KO` |  |
 | 1842 | L ↔ HfAl2 + HfAl3(β) | L: Al 0.717; HfAl2: Al 0.667; HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 23; `ORC-TG6R6ZXIPP` |  |
-| 1840 | L ↔ Hf3Al2 | Hf3Al2: Al 0.4 | model | [1] Wang 2002 | Table 1, p. 2, row 8; `ORC-P3ZQFCBBQU` |  |
+| 1840 | congruent melting: L ↔ Hf3Al2 | Hf3Al2: Al 0.4 | model | [1] Wang 2002 | Table 1, p. 2, row 8; `ORC-P3ZQFCBBQU` |  |
 | 1839 | L ↔ Hf3Al2 + HfAl | L: Al 0.41; Hf3Al2: Al 0.4; HfAl: Al 0.5 | model | [1] Wang 2002 | Table 1, p. 2, row 10; `ORC-D7MGVDHTPO` |  |
 | 1823 | L ↔ Hf3Al2 + HfAl | L: Al 0.45; Hf3Al2: Al 0.4; HfAl: Al 0.5 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 9; `ORC-AOFSJARR7K` |  |
 | 1813 | L ↔ HfAl2 + HfAl3(β) | HfAl2: Al 0.667; HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Tsyganova 1970_ | Table 1, p. 2, row 22; `ORC-BPSTWTSNOM` |  |
@@ -95,8 +95,8 @@ Table: Invariant reactions reported in the literature for the Al–Hf system (29
 | 1223 | Hf3Al2 + HfAl ↔ Hf4Al3 | Hf3Al2: Al 0.4; HfAl: Al 0.5; Hf4Al3: Al 0.429 | experimental | [1] Wang 2002; _cites Potzschke 1962_ | Table 1, p. 2, row 11; `ORC-LPJLJLT7HH` |  |
 | 935.3 | HfAl3(β) + L ↔ fcc | HfAl3(β): Al 0.75; L: Al 0.9993; fcc: Al 0.9981 | experimental | [1] Wang 2002; _cites Rath 1960_ | Table 1, p. 2, row 26; `ORC-3AZUPB32YE` |  |
 | 934.8 | HfAl3(β) + L ↔ fcc | HfAl3(β): Al 0.75; L: Al 0.9994; fcc: Al 0.9976 | model | [1] Wang 2002 | Table 1, p. 2, row 27; `ORC-3D2F3MYNMD` |  |
-| 923 | HfAl3(β) ↔ HfAl3(α) | HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Potzschke 1962_ | Table 1, p. 2, row 28; `ORC-DUHBMTCHIV` |  |
-| 923 | HfAl3(β) ↔ HfAl3(α) | HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 29; `ORC-JG5MPF5F6F` |  |
+| 923 | polymorphic: HfAl3(β) ↔ HfAl3(α) | HfAl3(β): Al 0.75 | experimental | [1] Wang 2002; _cites Potzschke 1962_ | Table 1, p. 2, row 28; `ORC-DUHBMTCHIV` |  |
+| 923 | polymorphic: HfAl3(β) ↔ HfAl3(α) | HfAl3(β): Al 0.75 | model | [1] Wang 2002 | Table 1, p. 2, row 29; `ORC-JG5MPF5F6F` |  |
 
 ## Formation enthalpies
 

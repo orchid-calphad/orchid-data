@@ -23,7 +23,7 @@ Table: Phases of the Ga–Li system (12)
 | [GALI_B32](#phase-ga-li-gali-b32); _phase:ga-li:gali-b32_ | NaTl · B32 · cF16 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.85 K, x(Li) 0.42339–1 | 7 | 1 |
 | [GALI2](#phase-ga-li-gali2); _phase:ga-li:gali2_ | GaLi2 · oC12 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–783.4 K, x(Li) 0.66667–0.66667 | 6 | 1 |
 | [HCP_A3](#phase-ga-li-hcp-a3); _phase:ga-li:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [LIQUID](#phase-ga-li-liquid); _phase:ga-li:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 302.91–2500 K, x(Li) 0–1 | 12 | 1 |
+| [LIQUID](#phase-ga-li-liquid); _phase:ga-li:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 302.91–2500 K, x(Li) 0–1 | 13 | 1 |
 
 ## ORTHORHOMBIC_A11 (Ga–Li)
 
@@ -344,11 +344,11 @@ _assessment that models this phase_
 - Id: `phase:ga-li:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 302.91–2500 K, x(Li) 0–1
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-li:liquid)
 
-Names (3): _corpus: _corpus:phase:ga-li:liquid  
-_paper: _paper:10.1016/s1359-6462(02)00634-6:Liquid  
+Names (4): _corpus: _corpus:phase:ga-li:liquid  
+_paper: _paper:10.1016/s1359-6462(02)00634-6:Liquid, paper:10.1016/s1359-6462(02)00634-6:liquid  
 _tdb: _tdb:GaLi-03Yua.tdb:LIQUID  
 
 

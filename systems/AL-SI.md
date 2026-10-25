@@ -1,26 +1,12 @@
 # Al–Si system
 
-> Al–Si system: 11 accepted literature values (invariant reaction 7, phase transition 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Si system: 0 accepted literature values (none) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SI.html · Markdown: https://data.orchid-project.org/systems/AL-SI.md
 
-11 accepted literature values from 3 paper(s) (experimental 4, model 7); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+0 accepted literature values from 0 paper(s); 5 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SI/AlSi-12Tan.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SI.html) · [Markdown](https://data.orchid-project.org/systems/AL-SI.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 4 |
-| model | 7 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 7 |
-| phase transition | 4 |
 
 ## Calculated phase diagrams
 
@@ -52,41 +38,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AlSi-97Feu-LB.tdb | 850.15 | FCC_A1 (x(Si) 0.01489) + LIQUID (x(Si) 0.1207) + DIAMOND_A4 (x(Si) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-SI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-SI.json) · [CALPHAD hull AlSi-12Tan](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-SI--AlSi-12Tan.json) · [CALPHAD hull AlSi-86Mey](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-SI--AlSi-86Mey.json) · [CALPHAD hull AlSi-96Jac](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-SI--AlSi-96Jac.json) · [CALPHAD hull AlSi-97Feu-LB](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-SI--AlSi-97Feu-LB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–Si system (7)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 878.45 | eutectic |  | model | [1] Liang 2014 | p. 6; `ORC-ZCUAZDYNU3` | “For alloy #1, AlP starts precipitating at 605.3 °C, point C in Fig. 6;” |
-| 850.15 | eutectic |  | model | [1] Liang 2014 | p. 2; `ORC-2QEGFORRUZ` | “The calculated Al-Si eutectic temperature (577 °C) and liquid composition (12.5 wt.% Si (12.1 at.% Si)), and the solid solubility of Si in the (Al) phase, are in good agreement with the data from the original work in 1980 \[23\] and a later extensive review of experimental data in Ref. \[35\] and other experimental results \[2\].” |
-| 850.15 | eutectic |  | experimental | [2] Kroupa 2024 | p. 3; `ORC-7QB7W6MFUX` | “The composition of the eutectic point is Al-12.2 at.% Si, and the eutectic temperature is 577 C (Fig. 3).” |
-| 850.15 | eutectic |  | experimental | [1] Liang 2014 | p. 13; `ORC-BZVWEJMNRD` | “In all these alloys potent AlP nucleants appear before eutectic (Si) at 577 °C.” |
-| 850.15 | eutectic |  | experimental | [1] Liang 2014 | p. 12; `ORC-V7HLN6ZDCP.d515ec` | “Equilibrium eutectic temperature TE = 577 °C.” |
-| 850.15 | eutectic |  | model | [1] Liang 2014 | p. 6; `ORC-XJCAZM2CX2.5fdbb7` | “The detailed calculation carried out with Pandat reveals that the binary eutectic temperature is 577.000 °C, while the ternary eutectic temperature is 576.997 °C.” |
-| 850.147 | eutectic |  | model | [1] Liang 2014 | p. 6; `ORC-XJCAZM2CX2.456fd3` | “The detailed calculation carried out with Pandat reveals that the binary eutectic temperature is 577.000 °C, while the ternary eutectic temperature is 576.997 °C.” |
-
-## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Al–Si system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 850.15 K | 850.15 |  | model | [1] Liang 2014 | p. 7; `ORC-FFOXMOEL3I` | “For alloy #2, both (Si) and AlP seemingly form at 577 °C.” |
-| Phase transition | 852.15 K | 852.15 |  | experimental | [1] Liang 2014; _cites Kato 1997_ | p. 12; `ORC-V7HLN6ZDCP.55fc54` | “b TE set to be 579 °C based on the reported experimental value at high P alloys in the same study \[59\].” |
-| Phase transition | 889.65 K | 889.65 |  | model | [1] Liang 2014 | p. 6; `ORC-NT5O3XF53Z` | “For both alloys, primary (Al) starts to form at 616.5 °C, which corresponds to the points A and B in Fig. 6.” |
-| Phase transition | 1141.15 K | 1141.15 | Al3 V + Si2 V → L + ␶ | model | [3] Luo 2018 | p. 9; `ORC-VHPE4TM3SI` | “It presented at 868 ◦ C through reaction of Al3 V + Si2 V → L + ␶, which was verified by DSC and SEM results.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Song-Mao Liang, Rainer Schmid-Fetzer, Phosphorus in Al–Si cast alloys: Thermodynamic prediction of the AlP and eutectic (Si) solidification sequence validated by microstructure and nucleation undercooling data, Acta Materialia 72, 41-56 (2014). [doi:10.1016/j.actamat.2014.02.042](https://doi.org/10.1016/j.actamat.2014.02.042)
-2. Ales Kroupa, Ondrej Zobac, Adela Zemanova, Klaus W. Richter, CALPHAD-Type Reassessment of Cu-Si and Full Assessment of the Al-Cu-Si Systems, J. Phase Equilib. Diffus. 45, 1206-1243 (2024). [doi:10.1007/s11669-024-01160-5](https://doi.org/10.1007/s11669-024-01160-5)
-3. Qun Luo, Kang Li, Qian Li, Thermodynamic investigation of phase equilibria in Al–Si–V system, Journal of Materials Science &amp; Technology 34, 1592-1601 (2018). [doi:10.1016/j.jmst.2018.01.004](https://doi.org/10.1016/j.jmst.2018.01.004)
 
 ## Please cite
 

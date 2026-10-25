@@ -34,7 +34,7 @@ Table: Phases of the Al–Mg system (12)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:al12mg17-a12)
 
 Names (23): _corpus: _corpus:phase:al-mg:al12mg17-a12  
-_paper: _paper:10.1016/0364-5916(93)90017-6:Al12Mg17, paper:10.1016/0364-5916(93)90017-6:γ, paper:10.1016/j.calphad.2005.08.004:γ, paper:10.1016/j.calphad.2005.08.004:γ-Al5Al12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Al12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Mg12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Mg12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Al12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Al12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Mg12Al12, paper:10.1016/s0364-5916(98)00037-6:Al12Mg17, paper:10.1016/s0364-5916(98)00037-6:AlMg-γ  
+_paper: _paper:10.1016/0364-5916(93)90017-6:Al12Mg17, paper:10.1016/0364-5916(93)90017-6:γ, paper:10.1016/j.calphad.2005.08.004:γ, paper:10.1016/j.calphad.2005.08.004:γ-Al5Al12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Al12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Mg12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Mg12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Al12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Al12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Mg12Al12, paper:sha256-85fd53a1a176b694:Al12Mg17, paper:sha256-85fd53a1a176b694:AlMg-γ  
 _tdb: _tdb:AlMg-05Zho.tdb:AL12MG17_A12, tdb:AlMg-12Tan.tdb:AL12MG17_A12, tdb:AlMg-13Tok.tdb:AL12MG17_A12, tdb:AlMg-20Shi.tdb:AL12MG17_A12, tdb:AlMg-23Hal.tdb:AL12MG17_A12, tdb:AlMg-86Lud.tdb:AL12MG17_A12, tdb:AlMg-90Sau.tdb:AL12MG17_A12, tdb:AlMg-93Zuo.tdb:AL12MG17_A12, tdb:AlMg-98Lia-LB.tdb:AL12MG17_A12, tdb:AlMg-98Zak.tdb:AL12MG17_A12  
 
 
@@ -110,7 +110,7 @@ _tdb: _tdb:AlMg-05Zho.tdb:AL12MG17_A12, tdb:AlMg-12Tan.tdb:AL12MG17_A12, tdb:AlM
 53: CONST AL12MG17_A12 : AL% MG : AL MG% : MG : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004) Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -130,8 +130,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1998-0101](https://doi.org/10.3139/ijmr-1998-0101) P. Liang, H.-L. Su, P. Donnadieu, M.G. Harmelin, A. Quivy, P. Ochin, G. Effenberg, H.J. Seifert, H.L. Lukas, F. Aldinger, Z. Metallkd., 89, 536-40 (1998)  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL8MG5_BETA (Al–Mg)
 
@@ -179,7 +177,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:almg-beta)
 
 Names (12): _corpus: _corpus:phase:al-mg:almg-beta  
-_paper: _paper:10.1016/j.calphad.2005.08.004:β, paper:10.1016/s0364-5916(98)00037-6:AlMg-β  
+_paper: _paper:10.1016/j.calphad.2005.08.004:β, paper:sha256-85fd53a1a176b694:AlMg-β  
 _tdb: _tdb:AlMg-05Zho.tdb:ALMG_BETA, tdb:AlMg-12Tan.tdb:ALMG_BETA, tdb:AlMg-13Tok.tdb:ALMG_BETA, tdb:AlMg-20Shi.tdb:ALMG_BETA, tdb:AlMg-23Hal.tdb:ALMG_BETA, tdb:AlMg-86Lud.tdb:ALMG_BETA, tdb:AlMg-90Sau.tdb:ALMG_BETA, tdb:AlMg-98Lia-LB.tdb:ALMG_BETA, tdb:AlMg-98Zak.tdb:ALMG_BETA  
 
 
@@ -248,7 +246,7 @@ _tdb: _tdb:AlMg-05Zho.tdb:ALMG_BETA, tdb:AlMg-12Tan.tdb:ALMG_BETA, tdb:AlMg-13To
 43: CONST ALMG_BETA : AL : MG : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004) Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -266,8 +264,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1998-0101](https://doi.org/10.3139/ijmr-1998-0101) P. Liang, H.-L. Su, P. Donnadieu, M.G. Harmelin, A. Quivy, P. Ochin, G. Effenberg, H.J. Seifert, H.L. Lukas, F. Aldinger, Z. Metallkd., 89, 536-40 (1998)  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## ALMG_EPS (Al–Mg)
 
@@ -286,7 +282,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:almg-eps)
 
 Names (15): _corpus: _corpus:phase:al-mg:almg-eps  
-_paper: _paper:10.1016/0364-5916(93)90017-6:ε, paper:10.1016/j.calphad.2005.08.004:ε, paper:10.1016/j.calphad.2005.08.004:ε-Al30Mg23, paper:10.1016/s0364-5916(98)00037-6:AlMg-ε  
+_paper: _paper:10.1016/0364-5916(93)90017-6:ε, paper:10.1016/j.calphad.2005.08.004:ε, paper:10.1016/j.calphad.2005.08.004:ε-Al30Mg23, paper:sha256-85fd53a1a176b694:AlMg-ε  
 _system_alias: _system_alias:al-mg:epsilon  
 _tdb: _tdb:AlMg-05Zho.tdb:ALMG_EPS, tdb:AlMg-12Tan.tdb:ALMG_EPS, tdb:AlMg-13Tok.tdb:ALMG_EPS, tdb:AlMg-20Shi.tdb:ALMG_EPS, tdb:AlMg-23Hal.tdb:ALMG_EPS, tdb:AlMg-90Sau.tdb:ALMG_EPS, tdb:AlMg-93Zuo.tdb:ALMG_EPS, tdb:AlMg-98Lia-LB.tdb:ALMG_EPS, tdb:AlMg-98Zak.tdb:ALMG_EPS  
 
@@ -356,7 +352,7 @@ _tdb: _tdb:AlMg-05Zho.tdb:ALMG_EPS, tdb:AlMg-12Tan.tdb:ALMG_EPS, tdb:AlMg-13Tok.
 48: CONST ALMG_EPS : AL : MG : !
 ~~~~
 
-Example references (10 of 12; assessments first): 
+Example references (10 of 11; assessments first): 
 
 - [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004) Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -374,9 +370,9 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1998-0101](https://doi.org/10.3139/ijmr-1998-0101) P. Liang, H.-L. Su, P. Donnadieu, M.G. Harmelin, A. Quivy, P. Ochin, G. Effenberg, H.J. Seifert, H.L. Lukas, F. Aldinger, Z. Metallkd., 89, 536-40 (1998)  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02670245](https://doi.org/10.1007/bf02670245) N. C. Goel, J. R. Cahoon, B. Mikkelsen, An experimental technique for the rapid determination of binary phase diagrams: The Al-Mg system, Metall Trans A 20, 197-203 (1989).  
+_cited as the source of values for this phase_
+- [doi:10.1016/s0925-8388(96)02595-9](https://doi.org/10.1016/s0925-8388%2896%2902595-9) H.L. Su, M. Harmelin, P. Donnadieu, C. Baetzner, H.J. Seifert, H.L. Lukas et al., Experimental investigation of the Mg-Al phase diagram from 47 to 63 at.% Al, Journal of Alloys and Compounds 247, 57-65 (1997).  
 _cited as the source of values for this phase_
 
 ## ALMG_ZETA (Al–Mg)
@@ -628,7 +624,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:fcc-a1)
 
 Names (14): _corpus: _corpus:phase:al-mg:fcc-a1  
-_paper: _paper:10.1016/0364-5916(93)90017-6:(Al), paper:10.1016/j.calphad.2005.08.004:fcc-A1, paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:10.1016/0364-5916(93)90017-6:(Al), paper:10.1016/j.calphad.2005.08.004:fcc-A1, paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:AlMg-05Zho.tdb:FCC_A1, tdb:AlMg-12Tan.tdb:FCC_A1, tdb:AlMg-13Tok.tdb:FCC_A1, tdb:AlMg-20Shi.tdb:FCC_A1, tdb:AlMg-23Hal.tdb:FCC_A1, tdb:AlMg-86Lud.tdb:FCC_A1, tdb:AlMg-90Sau.tdb:FCC_A1, tdb:AlMg-93Zuo.tdb:FCC_A1, tdb:AlMg-98Lia-LB.tdb:FCC_A1, tdb:AlMg-98Zak.tdb:FCC_A1  
 
 
@@ -704,7 +700,7 @@ _tdb: _tdb:AlMg-05Zho.tdb:FCC_A1, tdb:AlMg-12Tan.tdb:FCC_A1, tdb:AlMg-13Tok.tdb:
 28: CONST FCC_A1 : AL% MG : VA : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/0364-5916(93)90017-6](https://doi.org/10.1016/0364-5916%2893%2990017-6) Y. Zuo, Y.A. Chang, Thermodynamic calculation of the AlMg phase diagram, Calphad 17, 161-174 (1993).  
 _assessment that models this phase; reports values for this phase_
@@ -724,8 +720,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1998-0101](https://doi.org/10.3139/ijmr-1998-0101) P. Liang, H.-L. Su, P. Donnadieu, M.G. Harmelin, A. Quivy, P. Ochin, G. Effenberg, H.J. Seifert, H.L. Lukas, F. Aldinger, Z. Metallkd., 89, 536-40 (1998)  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Al–Mg)
 
@@ -736,7 +730,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:hcp-a3)
 
 Names (14): _corpus: _corpus:phase:al-mg:hcp-a3  
-_paper: _paper:10.1016/0364-5916(93)90017-6:(Mg), paper:10.1016/j.calphad.2005.08.004:hcp-A3, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:10.1016/0364-5916(93)90017-6:(Mg), paper:10.1016/j.calphad.2005.08.004:hcp-A3, paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:AlMg-05Zho.tdb:HCP_A3, tdb:AlMg-12Tan.tdb:HCP_A3, tdb:AlMg-13Tok.tdb:HCP_A3, tdb:AlMg-20Shi.tdb:HCP_A3, tdb:AlMg-23Hal.tdb:HCP_A3, tdb:AlMg-86Lud.tdb:HCP_A3, tdb:AlMg-90Sau.tdb:HCP_A3, tdb:AlMg-93Zuo.tdb:HCP_A3, tdb:AlMg-98Lia-LB.tdb:HCP_A3, tdb:AlMg-98Zak.tdb:HCP_A3  
 
 
@@ -812,7 +806,7 @@ _tdb: _tdb:AlMg-05Zho.tdb:HCP_A3, tdb:AlMg-12Tan.tdb:HCP_A3, tdb:AlMg-13Tok.tdb:
 38: CONST HCP_A3 : AL MG% : VA : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/0364-5916(93)90017-6](https://doi.org/10.1016/0364-5916%2893%2990017-6) Y. Zuo, Y.A. Chang, Thermodynamic calculation of the AlMg phase diagram, Calphad 17, 161-174 (1993).  
 _assessment that models this phase; reports values for this phase_
@@ -832,8 +826,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1998-0101](https://doi.org/10.3139/ijmr-1998-0101) P. Liang, H.-L. Su, P. Donnadieu, M.G. Harmelin, A. Quivy, P. Ochin, G. Effenberg, H.J. Seifert, H.L. Lukas, F. Aldinger, Z. Metallkd., 89, 536-40 (1998)  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Al–Mg)
 
@@ -844,7 +836,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:liquid)
 
 Names (14): _corpus: _corpus:phase:al-mg:liquid  
-_paper: _paper:10.1016/0364-5916(93)90017-6:L, paper:10.1016/j.calphad.2005.08.004:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1016/0364-5916(93)90017-6:L, paper:10.1016/j.calphad.2005.08.004:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlMg-05Zho.tdb:LIQUID, tdb:AlMg-12Tan.tdb:LIQUID, tdb:AlMg-13Tok.tdb:LIQUID, tdb:AlMg-20Shi.tdb:LIQUID, tdb:AlMg-23Hal.tdb:LIQUID, tdb:AlMg-86Lud.tdb:LIQUID, tdb:AlMg-90Sau.tdb:LIQUID, tdb:AlMg-93Zuo.tdb:LIQUID, tdb:AlMg-98Lia-LB.tdb:LIQUID, tdb:AlMg-98Zak.tdb:LIQUID  
 
 
@@ -920,7 +912,7 @@ _tdb: _tdb:AlMg-05Zho.tdb:LIQUID, tdb:AlMg-12Tan.tdb:LIQUID, tdb:AlMg-13Tok.tdb:
 23: CONST LIQUID:L : AL MG : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/0364-5916(93)90017-6](https://doi.org/10.1016/0364-5916%2893%2990017-6) Y. Zuo, Y.A. Chang, Thermodynamic calculation of the AlMg phase diagram, Calphad 17, 161-174 (1993).  
 _assessment that models this phase; reports values for this phase_
@@ -940,8 +932,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1998-0101](https://doi.org/10.3139/ijmr-1998-0101) P. Liang, H.-L. Su, P. Donnadieu, M.G. Harmelin, A. Quivy, P. Ochin, G. Effenberg, H.J. Seifert, H.L. Lukas, F. Aldinger, Z. Metallkd., 89, 536-40 (1998)  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

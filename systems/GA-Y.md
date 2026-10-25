@@ -1,10 +1,10 @@
 # Ga–Y system
 
-> Ga–Y system: 56 accepted literature values (formation 23, invariant reaction 20, phase transition 10, mixing / partial 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Y system: 51 accepted literature values (formation 23, invariant reaction 19, phase transition 6, mixing / partial 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-Y.html · Markdown: https://data.orchid-project.org/systems/GA-Y.md
 
-56 accepted literature values from 1 paper(s) (experimental 25, model 31); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+51 accepted literature values from 1 paper(s) (experimental 23, model 28); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-Y.json) · [CSV](https://data.orchid-project.org/systems/GA-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-Y/GaY-13Idb.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-Y.html) · [Markdown](https://data.orchid-project.org/systems/GA-Y.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 31 |
+| experimental | 23 |
+| model | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 20 |
-| phase transition | 10 |
+| invariant reaction | 19 |
+| phase transition | 6 |
 | formation | 23 |
 | mixing / partial | 3 |
 
@@ -52,23 +52,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ga–Y system (20)
+Table: Invariant reactions reported in the literature for the Ga–Y system (19)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1752 | α(Y) -> β(Y) + Liq | L: Y 0.9786 | model | [1] Idbenali 2013 | Table 4, p. 5, row 27; `ORC-4MRUWGNJBJ` |  |
 | 1751 | α(Y) -> β(Y) + Liq | L: Y 0.982 | model | [1] Idbenali 2013 | Table 4, p. 5, row 26; `ORC-D4SP4OTABZ` |  |
 | 1751 | α(Y) -> β(Y) + Liq | L: Y 0.963 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 25; `ORC-EG4HYQZ6B3` |  |
-| 1568 | eutectic: Liq $ GaY ? H_Ga3Y5 |  | model | [1] Idbenali 2013 | p. 6; `ORC-NER6QGGVM6.d5d40a` | “While in \[11, 12\], the invariant peritectic reaction Liq ? GaY $ H_Ga3Y5 is somewhat degenerate, the liquid and the H_Ga3Y5 compound have the same composition, our optimizations led to a congruent point for H_Ga3Y5 at 1,588 K (R-K)/1,582 K (Kaptay) and to a eutectic reaction Liq $ GaY ? H_Ga3Y5 at 1,568 K, Figs. 1a and Fig. 2a.” |
 | 1568 | H_Ga3Y5 -> Liq + GaY | H_Ga3Y5: Y 0.625; L: Y 0.58; GaY: Y 0.5 | model | [1] Idbenali 2013 | Table 4, p. 5, row 14; `ORC-NZTWO7ITPO` |  |
 | 1568 | H_Ga3Y5 -> Liq + GaY | H_Ga3Y5: Y 0.625; L: Y 0.5937; GaY: Y 0.5 | model | [1] Idbenali 2013 | Table 4, p. 5, row 15; `ORC-SZU2BT3FYR` |  |
 | 1568 | H_Ga3Y5 -> Liq + GaY | H_Ga3Y5: Y 0.625; L: Y 0.625; GaY: Y 0.5 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 13; `ORC-UQDDTCLCKV` |  |
-| 1559 | Liq -> Ga2Y + GaY | L: Y 0.4053; Ga2Y: Y 0.333333; GaY: Y 0.5 | model | [1] Idbenali 2013 | Table 4, p. 5, row 9; `ORC-FVEBUUG4BT` |  |
-| 1544 | Liq -> Ga2Y + GaY | L: Y 0.46; Ga2Y: Y 0.333333; GaY: Y 0.5 | model | [1] Idbenali 2013 | Table 4, p. 5, row 8; `ORC-HI63GB6JLU` |  |
-| 1543 | Liq -> Ga2Y + GaY | L: Y 0.43; Ga2Y: Y 0.333333; GaY: Y 0.5 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 7; `ORC-IQ6QPENUUA` |  |
-| 1286 | Liq -> H_Ga3Y5 + α(Y) | L: Y 0.8; H_Ga3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 16; `ORC-ECQBHX2HWL` |  |
-| 1283 | Liq -> H_Ga3Y5 + α(Y) | L: Y 0.815; H_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 17; `ORC-4Z6AFCLTWW` |  |
-| 1283 | Liq -> H_Ga3Y5 + α(Y) | L: Y 0.7747; H_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 18; `ORC-A2OUVDOUAT` |  |
+| 1559 | eutectic: Liq -> Ga2Y + GaY | L: Y 0.4053; Ga2Y: Y 0.333333; GaY: Y 0.5 | model | [1] Idbenali 2013 | Table 4, p. 5, row 9; `ORC-FVEBUUG4BT` |  |
+| 1544 | eutectic: Liq -> Ga2Y + GaY | L: Y 0.46; Ga2Y: Y 0.333333; GaY: Y 0.5 | model | [1] Idbenali 2013 | Table 4, p. 5, row 8; `ORC-HI63GB6JLU` |  |
+| 1543 | eutectic: Liq -> Ga2Y + GaY | L: Y 0.43; Ga2Y: Y 0.333333; GaY: Y 0.5 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 7; `ORC-IQ6QPENUUA` |  |
+| 1286 | eutectic: Liq -> H_Ga3Y5 + α(Y) | L: Y 0.8; H_Ga3Y5: Y 0.625 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 16; `ORC-ECQBHX2HWL` |  |
+| 1283 | eutectic: Liq -> H_Ga3Y5 + α(Y) | L: Y 0.815; H_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 17; `ORC-4Z6AFCLTWW` |  |
+| 1283 | eutectic: Liq -> H_Ga3Y5 + α(Y) | L: Y 0.7747; H_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 18; `ORC-A2OUVDOUAT` |  |
 | 1273 | H_Ga3Y5 -> M_Ga3Y5 + α(Y) | H_Ga3Y5: Y 0.625; M_Ga3Y5: Y 0.615 | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 19; `ORC-AHZC3T4NQO` |  |
 | 1273 | H_Ga3Y5 -> M_Ga3Y5 + α(Y) | H_Ga3Y5: Y 0.625; M_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 21; `ORC-IHIZBNKPIO` |  |
 | 1073 | M_Ga3Y5 -> L_Ga3Y5 + α(Y) | M_Ga3Y5: Y 0.625; L_Ga3Y5: Y 0.625 | model | [1] Idbenali 2013 | Table 4, p. 5, row 24; `ORC-2VVZRAUSQW` |  |
@@ -111,20 +110,16 @@ Table: Enthalpies of formation, Ga–Y system (23)
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (6)
 
 Table: Phase transition, Ga–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1568 K | 1568 |  | experimental | [1] Idbenali 2013 | p. 2; `ORC-WFM7GXZGGQ` | “while Ga3Y5 melts incongruently at 1,568 K.” |
-| Phase transition | 1582 K | 1582 | congruent transformation | model | [1] Idbenali 2013 | p. 6; `ORC-NER6QGGVM6.298cc4` | “While in \[11, 12\], the invariant peritectic reaction Liq ? GaY $ H_Ga3Y5 is somewhat degenerate, the liquid and the H_Ga3Y5 compound have the same composition, our optimizations led to a congruent point for H_Ga3Y5 at 1,588 K (R-K)/1,582 K (Kaptay) and to a eutectic reaction Liq $ GaY ? H_Ga3Y5 at 1,568 K, Figs. 1a and Fig. 2a.” |
-| Phase transition | 1588 K | 1588 | congruent transformation | model | [1] Idbenali 2013 | p. 6; `ORC-NER6QGGVM6.027020` | “While in \[11, 12\], the invariant peritectic reaction Liq ? GaY $ H_Ga3Y5 is somewhat degenerate, the liquid and the H_Ga3Y5 compound have the same composition, our optimizations led to a congruent point for H_Ga3Y5 at 1,588 K (R-K)/1,582 K (Kaptay) and to a eutectic reaction Liq $ GaY ? H_Ga3Y5 at 1,568 K, Figs. 1a and Fig. 2a.” |
 | Phase transition | 1615 K | 1615 | Liq -> Ga2Y; _Ga2Y: Y 0.3367_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 6; `ORC-6H52MIEBYC` |  |
 | Phase transition | 1623 K | 1623 | Liq -> Ga2Y; _Ga2Y: Y 0.3333_ | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 4; `ORC-HNCCST2TG4` |  |
 | Phase transition | 1624 K | 1624 | Liq -> Ga2Y; _Ga2Y: Y 0.332_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 5; `ORC-CQE33SS5KK` |  |
 | Phase transition | 1658 K | 1658 | Liq -> GaY; _GaY: Y 0.5_ | experimental | [1] Idbenali 2013; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 4, p. 5, row 10; `ORC-IK5YTX22FW` |  |
-| Phase transition | 1658 K | 1658 | congruent transformation | experimental | [1] Idbenali 2013 | p. 1; `ORC-R5LKJOSXWO` | “The Ga2Y and GaY compounds melt congruently at 1,623 and 1,658 K, respectively,” |
 | Phase transition | 1666 K | 1666 | Liq -> GaY; _GaY: Y 0.5_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 12; `ORC-3GURFDLFLU` |  |
 | Phase transition | 1672 K | 1672 | Liq -> GaY; _GaY: Y 0.5_ | model | [1] Idbenali 2013 | Table 4, p. 5, row 11; `ORC-3GNQ6TNQY2` |  |
 

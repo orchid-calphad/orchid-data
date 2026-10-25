@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/PU.html · Markdown: https://data.orchid-project.org/systems/PU.md
 
-43 accepted literature values from 5 paper(s) (experimental 18, model 22, unspecified 3); 0 calculated phase diagram(s).
+43 accepted literature values from 5 paper(s) (experimental 18, model 22, unspecified 3); 0 calculated phase diagram(s). 42 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PU.json) · [CSV](https://data.orchid-project.org/systems/PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PU.html) · [Markdown](https://data.orchid-project.org/systems/PU.md)
 

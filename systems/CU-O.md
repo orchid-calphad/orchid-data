@@ -1,10 +1,10 @@
 # Cu–O system
 
-> Cu–O system: 376 accepted literature values (model expression 174, invariant reaction 58, activity / EMF / Gibbs energy 45, formation 39) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–O system: 362 accepted literature values (model expression 174, invariant reaction 54, activity / EMF / Gibbs energy 45, formation 39) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-O.html · Markdown: https://data.orchid-project.org/systems/CU-O.md
 
-376 accepted literature values from 3 paper(s) (experimental 297, model 79); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+362 accepted literature values from 3 paper(s) (experimental 287, model 75); 2 calculated phase diagram(s). 22 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-O.json) · [CSV](https://data.orchid-project.org/systems/CU-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-O/CuO-14Mag.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-O.html) · [Markdown](https://data.orchid-project.org/systems/CU-O.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 297 |
-| model | 79 |
+| experimental | 287 |
+| model | 75 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 58 |
-| phase transition | 23 |
+| invariant reaction | 54 |
+| phase transition | 13 |
 | formation | 39 |
 | heat capacity / entropy / enthalpy | 37 |
 | activity / EMF / Gibbs energy | 45 |
@@ -41,7 +41,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–O system (58)
+Table: Invariant reactions reported in the literature for the Cu–O system (54)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -78,20 +78,16 @@ Table: Invariant reactions reported in the literature for the Cu–O system (58)
 | 1363 | eutectic: L2 -> Cu2O + CuO (eutectic) | L2: O 0.387 | experimental | [1] Hallstedt 1994; _cites Osterwald 1968_ | Table 2, p. 6, row 39; `ORC-S32TMGTOGC` |  |
 | 1363 | eutectic: L2 -> Cu2O + CuO (eutectic) | L2: O 0.383 | experimental | [1] Hallstedt 1994; _cites S 1977_ | Table 2, p. 6, row 40; `ORC-WQNL4XDMJR` |  |
 | 1354 | eutectic: L2 -> Cu2O + CuO (eutectic) | L2: O 0.388 | model | [1] Hallstedt 1994 | Table 2, p. 6, row 44; `ORC-4GQZHANRDK` |  |
-| 1354 | eutectic |  | model | [2] Schramm 2005 | p. 5; `ORC-GXD2KMSLFO` | “The new assessed coordinate of the O-rich eutectic is slightly moved to an oxygen concentration of XO ⳱ 0.392 at a temperature of 1354 K.” |
 | 1353 | eutectic: L2 -> Cu2O + CuO (eutectic) | L2: O 0.389 | experimental | [1] Hallstedt 1994; _cites Roberts 1921_ [doi](https://doi.org/10.1021/ja01438a009) | Table 2, p. 6, row 37; `ORC-ACIXA4D2PA` |  |
 | 1353 | eutectic: L2 -> Cu2O + CuO (eutectic) |  | experimental | [1] Hallstedt 1994; _cites EH 1920_ | Table 2, p. 6, row 36; `ORC-BXXCXZFW7G` |  |
-| 1353 | eutectic |  | experimental | [1] Hallstedt 1994; _cites Boud 1991_ | p. 2; `ORC-FOEO2NNHJG.2f59fd` | “For the Cu20-CuO eutectic, they gave 1353 K andX o = 0.389 in perfect agreement with the recent measurements by \[91Bou\] and \[92Bou\], who used differential thermal analysis (DTA) combined with thermogravimetry (TG) giving 1353 K andX o = 0.388.” |
 | 1353 | eutectic: L2 -> Cu2O + CuO (eutectic) | L2: O 0.387 | model | [1] Hallstedt 1994; _cites Boudbne 1992_ | Table 2, p. 6, row 43; `ORC-O2WU72GOKS` |  |
 | 1353 | eutectic: L2 -> Cu2O + CuO (eutectic) | L2: O 0.388 | experimental | [1] Hallstedt 1994; _cites Boud 1991_ | Table 2, p. 6, row 41; `ORC-TQ5DDCZL7S` |  |
-| 1353 | eutectic |  | model | [2] Schramm 2005; _cites Hallstedt 2003_ | p. 5; `ORC-Z3JS2354OA` | “This is consistent with the previous calculations of Hallstedt and Gauckler\[9\] (XO ≈ 0.388 at 1353 K) and the experimentally determined eutectic\[4\] shown in Fig. 1.” |
 | 1348 | eutectic: L2 -> Cu2O + CuO (eutectic) | L2: O 0.39 | experimental | [1] Hallstedt 1994; _cites Vogel 1929_ | Table 2, p. 6, row 38; `ORC-2BX45IZPLJ` |  |
 | 1339.6 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.01746 | model | [1] Hallstedt 1994 | Table 2, p. 6, row 10; `ORC-557YSEN6WI` |  |
 | 1339.6 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.0174 | model | [1] Hallstedt 1994; _cites Boudbne 1992_ | Table 2, p. 6, row 9; `ORC-GZPD5GUKWR` |  |
 | 1339.6 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.0174 | experimental | [1] Hallstedt 1994; _cites ref. 81Tas1_ | Table 2, p. 6, row 7; `ORC-NRNBFOLVX4` |  |
 | 1338 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.02 | experimental | [1] Hallstedt 1994; _cites Dejean 1906_ [doi](https://doi.org/10.1051/metal/190603050233) | Table 2, p. 6, row 2; `ORC-7RKVS27PSZ` |  |
 | 1338 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.0185 | experimental | [1] Hallstedt 1994; _cites S 1977_ | Table 2, p. 6, row 5; `ORC-BONEYXMGOF` |  |
-| 1338 | eutectic |  | experimental | [1] Hallstedt 1994; _cites Heyn 1904_ [doi](https://doi.org/10.1002/zaac.19040390102) | p. 2; `ORC-CCCSELRX3F` | “\[04Hey\] measured the Cu and the Cu-rich Cu20 liquidi and determined the Cu-Cu20 eutectic to 1338 K and Xo = 0.0154.” |
 | 1338 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.0173 | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ [doi](https://doi.org/10.1515/ijmr-1968-590711) | Table 2, p. 6, row 4; `ORC-QBYH23OLCH` |  |
 | 1338 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.017 | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 2, p. 6, row 8; `ORC-V6ICUB5GBS` |  |
 | 1338 | eutectic: L1 -> Cu (fcc) + Cu2O (eutectic) | L1: O 0.0154 | experimental | [1] Hallstedt 1994; _cites Heyn 1904_ [doi](https://doi.org/10.1002/zaac.19040390102) | Table 2, p. 6, row 1; `ORC-XRFMQTN4SN` |  |
@@ -142,7 +138,7 @@ Table: Enthalpies of formation, Cu–O system (27)
 
 ## Other properties
 
-### Phase transition (23)
+### Phase transition (13)
 
 Table: Phase transition, Cu–O system
 
@@ -150,16 +146,9 @@ Table: Phase transition, Cu–O system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 230 K | 230 | magnetic | experimental | [1] Hallstedt 1994; _cites O'Keeffe 1962_ | p. 4; `ORC-TBOXSWZ4NZ` | “There is a paramagnetic-antiferromagnetic transition in CuO with a N4el temperature at 230 K \[62Oke, 88See\].” |
 | Phase transition | 230 K | 230 | magnetic | experimental | [2] Schramm 2005; _cites OKeeffe 1962_ | p. 4; `ORC-XE4LLV4TYU` | “The paramagnetic-antiferromagnetic transition\[30,31\] in CuO with a Néel temperature at 230 K is far below the modeled temperature range, and was not considered in this work.” |
-| Phase transition | 1339.6 K | 1339.6 |  | experimental | [1] Hallstedt 1994; _cites E Taskinen 1981_ | p. 2; `ORC-VCRGZFQ5XK` | “The most recent measurement, by \[81Tasl\], is 1339.6 K and Xo = 0.0174.” |
-| Phase transition | 1468 K | 1468 | other | experimental | [1] Hallstedt 1994 | p. 2; `ORC-ROSFFN3SHG.e38881` | “They placed the monotectic at 1468 K and Xo = 0.084/0.319, which is lower than data given by \[84Tas\] (1498 K and Xo = 0.96/0.309).” |
 | Phase transition | 1483 K | 1483 | congruent melting: L2 -> Cu2O (congruent melting point) | experimental | [1] Hallstedt 1994; _cites Slade 1912_ [doi](https://doi.org/10.1098/rspa.1912.0107) | Table 2, p. 6, row 25; `ORC-CY5VTBVYMJ` |  |
-| Phase transition | 1483 K | 1483 | congruent transformation | experimental | [1] Hallstedt 1994; _cites Slade 1912_ [doi](https://doi.org/10.1098/rspa.1912.0107) | p. 2; `ORC-XKSIRXPY27.760b10` | “The congruent melting point of Cu20 has been measured several times with measurements ranging from 1483 K \[12Sla\] to 1515 K \[67Mah\].” |
-| Phase transition | 1489 K | 1489 | other | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ | p. 5; `ORC-JQIHOR7B6Q.442e33` | “The temperature for the monotectic chosen for the optimization (1489 K) \[68Ger\] is lower than the calculated temperature (1498 K), but with a melting point of CuzO of 1501 K, which agrees well with most experimental data.” |
 | Phase transition | 1498 K | 1498 | congruent melting: L2 -> Cu2O (congruent melting point) | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ [doi](https://doi.org/10.1515/ijmr-1968-590711) | Table 2, p. 6, row 29; `ORC-YOY6ZWUXMI` |  |
-| Phase transition | 1498 K | 1498 | other | model | [1] Hallstedt 1994 | p. 5; `ORC-JQIHOR7B6Q.ce9b85` | “The temperature for the monotectic chosen for the optimization (1489 K) \[68Ger\] is lower than the calculated temperature (1498 K), but with a melting point of CuzO of 1501 K, which agrees well with most experimental data.” |
-| Phase transition | 1498 K | 1498 | other | experimental | [1] Hallstedt 1994; _cites Taskinen 1984_ | p. 2; `ORC-ROSFFN3SHG.3f6584` | “They placed the monotectic at 1468 K and Xo = 0.084/0.319, which is lower than data given by \[84Tas\] (1498 K and Xo = 0.96/0.309).” |
 | Phase transition | 1499 K | 1499 | congruent melting: L2 -> Cu2O (congruent melting point) | experimental | [1] Hallstedt 1994; _cites Kayahara 1981_ [doi](https://doi.org/10.2320/jinstmet1952.42.5_527) | Table 2, p. 6, row 31; `ORC-CZGWZ35KZM` |  |
-| Phase transition | 1500 K | 1500 |  | experimental | [1] Hallstedt 1994; _cites Taskinen 1984_ | p. 2; `ORC-IAOMMLDSP2` | “\[84Tas\] and \[77Sad\] both give 1500 K.” |
 | Phase transition | 1500 K | 1500 | congruent melting: L2 -> Cu2O (congruent melting point) | experimental | [1] Hallstedt 1994; _cites Taskinen 1984_ | Table 2, p. 6, row 32; `ORC-4VR5577JMC` |  |
 | Phase transition | 1500 K | 1500 | congruent melting: L2 -> Cu2O (congruent melting point) | experimental | [1] Hallstedt 1994; _cites S 1977_ | Table 2, p. 6, row 30; `ORC-UTXRLHY3L7` |  |
 | Phase transition | 1500 K | 1500 | congruent melting: L2 -> Cu2O (congruent melting point) | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 2, p. 6, row 33; `ORC-Y5ERKINEXI` |  |
@@ -168,9 +157,6 @@ Table: Phase transition, Cu–O system
 | Phase transition | 1502 K | 1502 | congruent melting: L2 -> Cu2O (congruent melting point) | experimental | [1] Hallstedt 1994; _cites Osterwald 1968_ | Table 2, p. 6, row 28; `ORC-YNHZJHU6TO` |  |
 | Phase transition | 1508 K | 1508 | congruent melting: L2 -> Cu2O (congruent melting point) | experimental | [1] Hallstedt 1994; _cites Roberts 1921_ [doi](https://doi.org/10.1021/ja01438a009) | Table 2, p. 6, row 26; `ORC-OYIZ237L6E` |  |
 | Phase transition | 1515 K | 1515 | congruent melting: L2 -> Cu2O (congruent melting point) | experimental | [1] Hallstedt 1994; _cites Mah 1967_ | Table 2, p. 6, row 27; `ORC-4XS3GR7B33` |  |
-| Phase transition | 1515 K | 1515 | congruent transformation | experimental | [1] Hallstedt 1994; _cites Mah 1967_ | p. 2; `ORC-XKSIRXPY27.9ba30f` | “The congruent melting point of Cu20 has been measured several times with measurements ranging from 1483 K \[12Sla\] to 1515 K \[67Mah\].” |
-| Phase transition | 1623 K | 1623 | other | experimental | [1] Hallstedt 1994; _cites Kuxmann 1968_ | p. 2; `ORC-HO4NVMVUR6` | “They found the miscibility gap to close at -1623 K.” |
-| Phase transition | 1939 K | 1939 |  | model | [1] Hallstedt 1994 | p. 7; `ORC-K2YTKWOSSM` | “With the present model, the melting point of CuO is 1939 K at infinite pressure.” |
 
 ### Formation (12)
 
@@ -206,13 +192,13 @@ Table: Heat capacity / entropy / enthalpy, Cu–O system
 | Entropy; _printed: S(Cu2O)_ | 93.14 J/mol (basis unstated)/K | 298.15 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Gregor 1962_ [doi](https://doi.org/10.1021/j100815a019) | Table 9, p. 13, row 5; `ORC-ZAAFXV7ZVJ` |  |
 | Entropy; _printed: S(CuO)_ | 40.79 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.5_ | experimental | [1] Hallstedt 1994; _cites ref. 29Mil_ | Table 9, p. 13, row 2; `ORC-44KDA2LXLC` |  |
 | Entropy; _printed: S(CuO)_ | 43.06 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.5_ | model | [1] Hallstedt 1994 | Table 9, p. 13, row 12; `ORC-7HWRPP6NOY` |  |
-| Entropy; _printed: S_ | 43.69 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 9, p. 13, row 9; `ORC-EV7BCBJBQP.1daf0f` |  |
+| Entropy; _printed: S_ | 43.69 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: Cu 0.5, O 0.5_ | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 9, p. 13, row 9; `ORC-EV7BCBJBQP.1daf0f` |  |
 | Entropy; _printed: S(CuO)_ | 42.59 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.5_ | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 9, p. 13, row 8; `ORC-GQYULRE3HZ` |  |
 | Entropy; _printed: S(CuO)_ | 43.69 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.5_ | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 9, p. 13, row 10; `ORC-HA2ECPLO6G` |  |
 | Entropy; _printed: S(CuO)_ | 42.63 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.5_ | experimental | [1] Hallstedt 1994; _cites Hu 1953_ [doi](https://doi.org/10.1021/ja01106a056) | Table 9, p. 13, row 4; `ORC-KED2WBNEVN` |  |
-| Entropy; _printed: S_ | 42.59 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 9, p. 13, row 7; `ORC-NSS6F7CT4V.cb8faf` |  |
-| Entropy; _printed: S_ | 43.06 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.333333_ | model | [1] Hallstedt 1994 | Table 9, p. 13, row 11; `ORC-OECWWZSYJ2.e9e55e` |  |
-| Entropy; _printed: S_ | 40.79 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 29Mil_ | Table 9, p. 13, row 1; `ORC-ULKKEJRK5I.fb9d28` |  |
+| Entropy; _printed: S_ | 42.59 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: Cu 0.5, O 0.5_ | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 9, p. 13, row 7; `ORC-NSS6F7CT4V.cb8faf` |  |
+| Entropy; _printed: S_ | 43.06 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: Cu 0.5, O 0.5_ | model | [1] Hallstedt 1994 | Table 9, p. 13, row 11; `ORC-OECWWZSYJ2.e9e55e` |  |
+| Entropy; _printed: S_ | 40.79 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: Cu 0.5, O 0.5_ | experimental | [1] Hallstedt 1994; _cites ref. 29Mil_ | Table 9, p. 13, row 1; `ORC-ULKKEJRK5I.fb9d28` |  |
 | Heat capacity; _printed: Cp (liquid)_ | 87.8 J/mol (basis unstated)/K |  | liquid Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994 | Table 5, p. 10, row 4; `ORC-4K6HSI725U` |  |
 | Heat capacity; _printed: Cp (liquid)_ | 99.9 J/mol (basis unstated)/K |  | liquid Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Mah 1967_ | Table 5, p. 10, row 1; `ORC-DPGFHUW2B5` |  |
 | Heat capacity; _printed: Cp (liquid)_ | 81.4 J/mol (basis unstated)/K |  | liquid Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Boudbne 1992_ | Table 5, p. 10, row 3; `ORC-KFHM34OBGB` |  |

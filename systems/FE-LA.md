@@ -1,25 +1,12 @@
 # Fe–La system
 
-> Fe–La system: 5 accepted literature values (phase transition 3, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–La system: 0 accepted literature values (none) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-LA.html · Markdown: https://data.orchid-project.org/systems/FE-LA.md
 
-5 accepted literature values from 1 paper(s) (model 5); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-LA.json) · [CSV](https://data.orchid-project.org/systems/FE-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-LA/FeLa-09Pov.json) · [phases (5)](https://data.orchid-project.org/phases/pages/FE-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-LA.html) · [Markdown](https://data.orchid-project.org/systems/FE-LA.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 5 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 2 |
-| phase transition | 3 |
 
 ## Calculated phase diagrams
 
@@ -48,33 +35,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | FeLa-23Su.tdb | 549.98 | BCC_A2 (x(La) 1.000e-5) + DHCP (x(La) 1) + FCC_A1 (x(La) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/FE/FE-LA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/FE/FE-LA.json) · [CALPHAD hull FeLa-09Pov](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-LA--FeLa-09Pov.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Fe–La system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 2077 | eutectic |  | model | [1] Povoden-Karadeniz 2009 | p. 12; `ORC-SJF23RYVTG.b615fb` | “The calculated eutectic at the LaO1.5-rich side changes from T = 2055 K and 32.0 cat.% Fe in air (Fig. 10b) to 2077 K and 30.9 cat.% in pure oxygen; for the eutectic at the Fe-rich side T = 1704 K and 88.8 cat.% Fe in pure oxygen, and 1701 K and 88.5 cat.% Fe in air are calculated.” |
-| 2055 | eutectic |  | model | [1] Povoden-Karadeniz 2009 | p. 12; `ORC-SJF23RYVTG.e933ba` | “The calculated eutectic at the LaO1.5-rich side changes from T = 2055 K and 32.0 cat.% Fe in air (Fig. 10b) to 2077 K and 30.9 cat.% in pure oxygen; for the eutectic at the Fe-rich side T = 1704 K and 88.8 cat.% Fe in pure oxygen, and 1701 K and 88.5 cat.% Fe in air are calculated.” |
-
-## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Fe–La system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 740 K | 740 | magnetic | model | [1] Povoden-Karadeniz 2009 | p. 9; `ORC-CLOF3Y7RCZ` | “A peak with broad shoulders calculated to be present at 740 K is caused by a magnetic order-disorder transition.\[25\]” |
-| Phase transition | 2136 K | 2136 |  | model | [1] Povoden-Karadeniz 2009 | p. 12; `ORC-2NWF5ODITT.107107` | “r-La1±xFe1±yO3d melts at 2176 K at pO2 1⁄4 105 Pa; 2136 K is calculated in air.” |
-| Phase transition | 2176 K | 2176 |  | model | [1] Povoden-Karadeniz 2009 | p. 12; `ORC-2NWF5ODITT.2e5f08` | “r-La1±xFe1±yO3d melts at 2176 K at pO2 1⁄4 105 Pa; 2136 K is calculated in air.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. E. Povoden-Karadeniz, A. N. Grundy, M. Chen, T. Ivas, L. J. Gauckler, Thermodynamic Assessment of the La-Fe-O System, J. Phase Equilib. Diffus. 30, 351-366 (2009). [doi:10.1007/s11669-009-9501-6](https://doi.org/10.1007/s11669-009-9501-6)
 
 ## Please cite
 

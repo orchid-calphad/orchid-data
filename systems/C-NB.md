@@ -1,10 +1,10 @@
 # C–Nb system
 
-> C–Nb system: 61 accepted literature values (invariant reaction 29, heat capacity / entropy / enthalpy 16, crystal structure 10, formation 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Nb system: 56 accepted literature values (invariant reaction 25, heat capacity / entropy / enthalpy 16, crystal structure 10, formation 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-NB.html · Markdown: https://data.orchid-project.org/systems/C-NB.md
 
-61 accepted literature values from 2 paper(s) (experimental 35, model 13, DFT 13); 0 calculated phase diagram(s).
+56 accepted literature values from 2 paper(s) (experimental 30, model 13, DFT 13); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-NB.json) · [CSV](https://data.orchid-project.org/systems/C-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-NB) · [phases (6)](https://data.orchid-project.org/phases/pages/C-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-NB.html) · [Markdown](https://data.orchid-project.org/systems/C-NB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 35 |
+| experimental | 30 |
 | model | 13 |
 | DFT | 13 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 29 |
-| phase transition | 3 |
+| invariant reaction | 25 |
+| phase transition | 2 |
 | formation | 3 |
 | heat capacity / entropy / enthalpy | 16 |
 | crystal structure | 10 |
@@ -30,19 +30,17 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–Nb system (29)
+Table: Invariant reactions reported in the literature for the C–Nb system (25)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3886 | NbC = Liquid | NbC: C 0.45 | model | [1] Huang 1990 | Table 1, p. 3, row 18; `ORC-CN2RJSL4BH` |  |
-| 3886 | NbC = Liquid | NbC: C 0.44 | experimental | [1] Huang 1990; _cites RUDY 1968_ | Table 1, p. 3, row 17; `ORC-LVJN437WBA` |  |
-| 3873 | NbC = Liquid | NbC: C 0.5 | experimental | [1] Huang 1990; _cites KIMURA 1961_ | Table 1, p. 3, row 16; `ORC-TONSC272M2` |  |
-| 3773 | NbC = Liquid | NbC: C 0.46 | experimental | [1] Huang 1990; _cites STORMS 1960_ | Table 1, p. 3, row 14; `ORC-Q2ZQSSVWEI` |  |
-| 3753 | NbC = Liquid | NbC: C 0.5, Nb 0.5; Liquid: C 0.5, Nb 0.5 | experimental | [1] Huang 1990; _cites NADLER 1960_ | Table 1, p. 3, row 15; `ORC-EWHVFPAOIU` |  |
+| 3886 | congruent melting: NbC = Liquid | NbC: C 0.45 | model | [1] Huang 1990 | Table 1, p. 3, row 18; `ORC-CN2RJSL4BH` |  |
+| 3886 | congruent melting: NbC = Liquid | NbC: C 0.44 | experimental | [1] Huang 1990; _cites RUDY 1968_ | Table 1, p. 3, row 17; `ORC-LVJN437WBA` |  |
+| 3873 | congruent melting: NbC = Liquid | NbC: C 0.5 | experimental | [1] Huang 1990; _cites KIMURA 1961_ | Table 1, p. 3, row 16; `ORC-TONSC272M2` |  |
+| 3773 | congruent melting: NbC = Liquid | NbC: C 0.46 | experimental | [1] Huang 1990; _cites STORMS 1960_ | Table 1, p. 3, row 14; `ORC-Q2ZQSSVWEI` |  |
+| 3753 | congruent melting: NbC = Liquid | NbC: C 0.5, Nb 0.5; Liquid: C 0.5, Nb 0.5 | experimental | [1] Huang 1990; _cites NADLER 1960_ | Table 1, p. 3, row 15; `ORC-EWHVFPAOIU` |  |
 | 3673 | Liquid = NbC + graphite | NbC: C 0.5, Nb 0.5 | experimental | [1] Huang 1990; _cites STORMS 1960_ | Table 1, p. 3, row 19; `ORC-BWSP6VSRP3` |  |
 | 3578 | Liquid = NbC + graphite | Liquid: C 0.6; NbC: C 0.49 | experimental | [1] Huang 1990; _cites RUDY 1968_ | Table 1, p. 3, row 23; `ORC-QBE4TG4CW7` |  |
-| 3573 | eutectic: L = NbC + graphite |  | experimental | [1] Huang 1990 | p. 2; `ORC-55XCUSIILQ.c51c98` | “The system includes a niobium rich eutectic (L = bcc + Nb2C) at 2608 K and a carbon rich eutectic (L = NbC + graphite) at 3573 K.” |
-| 3573 | eutectic |  | experimental | [1] Huang 1990; _cites RUDY 1968_ | p. 3; `ORC-CZJBGHLBJZ` | “The higher phase boundary of NbC is also fairly well determined. It is almost vertical, according to the data of Rudy et al., indicating a decrease from 49·6%C at 2473 K to 49'00/oC at the eutectic temperature 3573 K.” |
 | 3573 | Liquid = NbC + graphite | Liquid: C 0.6; NbC: C 0.49 | model | [1] Huang 1990 | Table 1, p. 3, row 24; `ORC-JQKELCFWFN` |  |
 | 3573 | Liquid = NbC + graphite | Liquid: C 0.605; NbC: C 0.5 | experimental | [1] Huang 1990; _cites KIMURA 1961_ | Table 1, p. 3, row 21; `ORC-XZFTE7TSR4` |  |
 | 3493 | Liquid = NbC + graphite | NbC: C 0.5, Nb 0.5 | experimental | [1] Huang 1990; _cites NADLER 1960_ | Table 1, p. 3, row 20; `ORC-4IHEO5IMWS` |  |
@@ -50,14 +48,12 @@ Table: Invariant reactions reported in the literature for the C–Nb system (29)
 | 3363 | Nb2C = Liquid + NbC | Nb2C: C 0.333; Liquid: C 0.32; NbC: C 0.36 | experimental | [1] Huang 1990; _cites STORMS 1960_ | Table 1, p. 3, row 7; `ORC-ULQ3QYFSR7` |  |
 | 3353 | Nb2C = Liquid + NbC | Nb2C: C 0.333333, Nb 0.666667; NbC: C 0.5, Nb 0.5 | experimental | [1] Huang 1990; _cites NADLER 1960_ | Table 1, p. 3, row 8; `ORC-D76Y7BPTG2` |  |
 | 3353 | Nb2C = Liquid + NbC | Nb2C: C 0.333; Liquid: C 0.3; NbC: C 0.36 | experimental | [1] Huang 1990; _cites KIMURA 1961_ | Table 1, p. 3, row 9; `ORC-GSHRJA4VJK` |  |
-| 3308 | peritectic: L + NbC = Nb2C |  | experimental | [1] Huang 1990; _cites RUDY 1968_ | p. 3; `ORC-7VNFXBL5VM` | “In addition they proposed a peritectic reaction (L + NbC = Nb2C) at 3308 K.” |
 | 3308 | Nb2C = Liquid + NbC | Nb2C: C 0.345; Liquid: C 0.3; NbC: C 0.37 | experimental | [1] Huang 1990; _cites RUDY 1968_ | Table 1, p. 3, row 10; `ORC-YT5AFOUMBL` |  |
 | 2800 | Nb2C = Liquid + NbC | Nb2C: C 0.333333, Nb 0.666667; NbC: C 0.5, Nb 0.5 | experimental | [1] Huang 1990; _cites w 1972_ | Table 1, p. 3, row 12; `ORC-5QSAHIYTY7` |  |
 | 2800 | Nb2C = Liquid + NbC | Nb2C: C 0.333333, Nb 0.666667; NbC: C 0.5, Nb 0.5 | experimental | [1] Huang 1990; _cites STORMS 1990_ | Table 1, p. 3, row 11; `ORC-GRRBOBRR3W` |  |
 | 2800 | Nb2C = Liquid + NbC | Nb2C: C 0.29; Liquid: C 0.15; NbC: C 0.29 | model | [1] Huang 1990 | Table 1, p. 3, row 13; `ORC-QOMDVHY7FA` |  |
 | 2799 | metatectic/catatectic: L-NbC-Nb2C |  | model | [1] Huang 1990 | p. 4; `ORC-PR3TDQUFHC` | “The calculated three phase equilibrium L-NbC-Nb2C at 2799 K is metatectic instead of the typical peritectic equilibrium, as reported in most experimental work.” |
 | 2613 | Liquid = bcc + Nb2C | Liquid: C 0.135; bcc: C 0.06; Nb2C: C 0.28 | experimental | [1] Huang 1990; _cites KIMURA 1961_ | Table 1, p. 3, row 3; `ORC-M5QHB56AQC` |  |
-| 2608 | eutectic: L = bcc + Nb2C |  | experimental | [1] Huang 1990 | p. 2; `ORC-55XCUSIILQ.e56eb9` | “The system includes a niobium rich eutectic (L = bcc + Nb2C) at 2608 K and a carbon rich eutectic (L = NbC + graphite) at 3573 K.” |
 | 2608 | Liquid = bcc + Nb2C | Liquid: C 0.105; bcc: C 0.06; Nb2C: C 0.28 | experimental | [1] Huang 1990; _cites STORMS 1960_ | Table 1, p. 3, row 1; `ORC-7OBMJEOPLN` |  |
 | 2608 | Liquid = bcc + Nb2C | Liquid: C 0.105; bcc: C 0.075; Nb2C: C 0.28 | experimental | [1] Huang 1990; _cites RUDY 1968_ | Table 1, p. 3, row 5; `ORC-AWHMW45J2T` |  |
 | 2608 | Liquid = bcc + Nb2C | Liquid: C 0.105; bcc: C 0.053; Nb2C: C 0.28 | model | [1] Huang 1990 | Table 1, p. 3, row 6; `ORC-B56UJ35RXO` |  |
@@ -78,13 +74,12 @@ Table: Enthalpies of formation, C–Nb system (3)
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, C–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1400 K | 1400 | congruent transformation | experimental | [1] Huang 1990; _cites BILLINGHAM 1972_ | p. 2; `ORC-CKSNUVUA7J` | “The NbC carbide undergoes a congruent transformation to an ordered structure at a composition of about Nb6Cs close to 1400 K.6-9” |
 | Phase transition | 2800 K | 2800 | Nb2C | experimental | [1] Huang 1990 | p. 2; `ORC-X5SHQ6UPMG.17203a` | “Nb2C decomposes close to 2800 K and NbC melts congruently at 3886 K.” |
 | Phase transition | 3886 K | 3886 | congruent transformation | experimental | [1] Huang 1990 | p. 2; `ORC-X5SHQ6UPMG.09f2e2` | “Nb2C decomposes close to 2800 K and NbC melts congruently at 3886 K.” |
 

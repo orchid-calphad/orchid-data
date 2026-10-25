@@ -1,10 +1,10 @@
 # Co–Nd system
 
-> Co–Nd system: 39 accepted literature values (invariant reaction 32, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Nd system: 38 accepted literature values (invariant reaction 31, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-ND.html · Markdown: https://data.orchid-project.org/systems/CO-ND.md
 
-39 accepted literature values from 1 paper(s) (experimental 22, model 16, unspecified 1); 1 calculated phase diagram(s).
+38 accepted literature values from 1 paper(s) (experimental 21, model 16, unspecified 1); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-ND.json) · [CSV](https://data.orchid-project.org/systems/CO-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-ND/CoNd-07Liu.json) · [phases (16)](https://data.orchid-project.org/phases/pages/CO-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-ND.html) · [Markdown](https://data.orchid-project.org/systems/CO-ND.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
+| experimental | 21 |
 | model | 16 |
 | unspecified | 1 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 32 |
+| invariant reaction | 31 |
 | phase transition | 7 |
 
 ## Calculated phase diagrams
@@ -77,11 +77,10 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Nd system (32)
+Table: Invariant reactions reported in the literature for the Co–Nd system (31)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1643.15 | eutectic: liquid → Co17 Nd2 + fcc(Co) |  | experimental | [1] Liu 2007; _cites Wu 1992_ | p. 2; `ORC-2WUGGMORO4` | “Later, Wu et al. \[11\] reinvestigated the Co-Nd phase diagram in the range from 0 to 60 at.% Nd and above 600 ◦ C, and specified seven intermetallic compounds exist, Co17 Nd2 , Co5 Nd, Co19 Nd5 , Co7 Nd2 , Co3 Nd, Co2 Nd and Co3 Nd2 , in which the compound Co17 Nd2 is formed congruently with a eutectic reaction liquid → Co17 Nd2 + fcc(Co) at 92.9 at.% Co at 1370 ◦ C, others are formed by peritecti…” |
 | 1579 | liq. + fcc(Co) -> Co17Nd2 | liq.: Nd 0.1477; fcc(Co): Nd 0.0024; Co17Nd2: Co 0.894737, Nd 0.105263 | model | [1] Liu 2007 | Table 3, p. 5, row 1; `ORC-MQ2TXZ5TOZ` |  |
 | 1579 | liq. + fcc(Co) -> Co17Nd2 | liq.: Nd 0.15; fcc(Co): Nd 0; Co17Nd2: Co 0.894737, Nd 0.105263 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 2; `ORC-S255B3KK6S` |  |
 | 1579 | peritectic: liq. + fcc(Co) → Co17 Nd2 |  | model | [1] Liu 2007 | p. 5; `ORC-W7HECMO27C` | “In the present work, Co17 Nd2 is treated as being formed by peritectic reaction liq. + fcc(Co) → Co17 Nd2 , and the peritectic reaction temperature is set to be equal to the melting temperature of Co17 Nd2 at 1579 K.” |
@@ -99,18 +98,18 @@ Table: Invariant reactions reported in the literature for the Co–Nd system (32
 | 1128 | liq. + bcc(Nd) -> dhcp(Nd) | liq.: Nd 0.93; bcc(Nd): Nd 1 | unspecified | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 30; `ORC-XBGYZYUVT3` |  |
 | 923 | liq. + Co2Nd -> βCo3Nd2 | liq.: Nd 0.575; Co2Nd: Co 0.666667, Nd 0.333333; βCo3Nd2: Co 0.6, Nd 0.4 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 16; `ORC-N32DSSBHWO` |  |
 | 923 | liq. + Co2Nd -> βCo3Nd2 | liq.: Nd 0.5683; Co2Nd: Co 0.666667, Nd 0.333333; βCo3Nd2: Co 0.6, Nd 0.4 | model | [1] Liu 2007 | Table 3, p. 5, row 15; `ORC-PTR3J24FSF` |  |
-| 919 | liq. -> CoNd3 | liq.: Nd 0.75; CoNd3: Co 0.25, Nd 0.75 | model | [1] Liu 2007 | Table 3, p. 5, row 25; `ORC-677JRWF3JP` |  |
-| 919 | liq. -> CoNd3 | liq.: Nd 0.75; CoNd3: Co 0.25, Nd 0.75 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 26; `ORC-UNCE5VXIKR` |  |
-| 898 | liq. -> CoNd3 + dhcp(Nd) | liq.: Nd 0.8; CoNd3: Co 0.25, Nd 0.75; dhcp(Nd): Nd 1 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 28; `ORC-2W5IZGLEG6` |  |
-| 898 | liq. -> CoNd3 + dhcp(Nd) | liq.: Nd 0.808; CoNd3: Co 0.25, Nd 0.75; dhcp(Nd): Nd 1 | model | [1] Liu 2007 | Table 3, p. 5, row 27; `ORC-54V2RYVVRO` |  |
+| 919 | congruent melting: liq. -> CoNd3 | liq.: Nd 0.75; CoNd3: Co 0.25, Nd 0.75 | model | [1] Liu 2007 | Table 3, p. 5, row 25; `ORC-677JRWF3JP` |  |
+| 919 | congruent melting: liq. -> CoNd3 | liq.: Nd 0.75; CoNd3: Co 0.25, Nd 0.75 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 26; `ORC-UNCE5VXIKR` |  |
+| 898 | eutectic: liq. -> CoNd3 + dhcp(Nd) | liq.: Nd 0.8; CoNd3: Co 0.25, Nd 0.75; dhcp(Nd): Nd 1 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 28; `ORC-2W5IZGLEG6` |  |
+| 898 | eutectic: liq. -> CoNd3 + dhcp(Nd) | liq.: Nd 0.808; CoNd3: Co 0.25, Nd 0.75; dhcp(Nd): Nd 1 | model | [1] Liu 2007 | Table 3, p. 5, row 27; `ORC-54V2RYVVRO` |  |
 | 872 | liq. + βCo3Nd2 -> Co3Nd4 | liq.: Nd 0.61; βCo3Nd2: Co 0.6, Nd 0.4; Co3Nd4: Co 0.428571, Nd 0.571429 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 20; `ORC-KA6LENTYCA` |  |
 | 872 | liq. + βCo3Nd2 -> Co3Nd4 | liq.: Nd 0.586; βCo3Nd2: Co 0.6, Nd 0.4; Co3Nd4: Co 0.428571, Nd 0.571429 | model | [1] Liu 2007 | Table 3, p. 5, row 19; `ORC-O4VF4G7JME` |  |
 | 869 | liq. + CoNd3 -> Co2Nd5 | liq.: Nd 0.6712; CoNd3: Co 0.25, Nd 0.75; Co2Nd5: Co 0.285714, Nd 0.714286 | model | [1] Liu 2007 | Table 3, p. 5, row 23; `ORC-D2OFP3GKRM` |  |
 | 869 | liq. + CoNd3 -> Co2Nd5 | liq.: Nd 0.69; CoNd3: Co 0.25, Nd 0.75; Co2Nd5: Co 0.285714, Nd 0.714286 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 24; `ORC-ZKVEYZYQYO` |  |
-| 856 | βCo3Nd2 -> αCo3Nd2 | βCo3Nd2: Co 0.6, Nd 0.4; αCo3Nd2: Co 0.6, Nd 0.4 | model | [1] Liu 2007 | Table 3, p. 5, row 17; `ORC-RTUNBSM6QG` |  |
-| 856 | βCo3Nd2 -> αCo3Nd2 | βCo3Nd2: Co 0.6, Nd 0.4; αCo3Nd2: Co 0.6, Nd 0.4 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 18; `ORC-XKMGYMTT3V` |  |
-| 839 | liq. -> Co3Nd4 + Co2Nd5 | liq.: Nd 0.64; Co3Nd4: Co 0.428571, Nd 0.571429; Co2Nd5: Co 0.285714, Nd 0.714286 | model | [1] Liu 2007 | Table 3, p. 5, row 21; `ORC-3OJMOX4BJQ` |  |
-| 839 | liq. -> Co3Nd4 + Co2Nd5 | liq.: Nd 0.64; Co3Nd4: Co 0.428571, Nd 0.571429; Co2Nd5: Co 0.285714, Nd 0.714286 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 22; `ORC-4QZJWTL3WJ` |  |
+| 856 | polymorphic: βCo3Nd2 -> αCo3Nd2 | βCo3Nd2: Co 0.6, Nd 0.4; αCo3Nd2: Co 0.6, Nd 0.4 | model | [1] Liu 2007 | Table 3, p. 5, row 17; `ORC-RTUNBSM6QG` |  |
+| 856 | polymorphic: βCo3Nd2 -> αCo3Nd2 | βCo3Nd2: Co 0.6, Nd 0.4; αCo3Nd2: Co 0.6, Nd 0.4 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 18; `ORC-XKMGYMTT3V` |  |
+| 839 | eutectic: liq. -> Co3Nd4 + Co2Nd5 | liq.: Nd 0.64; Co3Nd4: Co 0.428571, Nd 0.571429; Co2Nd5: Co 0.285714, Nd 0.714286 | model | [1] Liu 2007 | Table 3, p. 5, row 21; `ORC-3OJMOX4BJQ` |  |
+| 839 | eutectic: liq. -> Co3Nd4 + Co2Nd5 | liq.: Nd 0.64; Co3Nd4: Co 0.428571, Nd 0.571429; Co2Nd5: Co 0.285714, Nd 0.714286 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 22; `ORC-4QZJWTL3WJ` |  |
 | 695 | fcc(Co) -> Co17Nd2 + hcp(Co) | fcc(Co): Nd 0; Co17Nd2: Co 0.894737, Nd 0.105263 | experimental | [1] Liu 2007; _cites Okamoto 1993_ | Table 3, p. 5, row 4; `ORC-QGCNFC6UKH` |  |
 | 695 | fcc(Co) -> Co17Nd2 + hcp(Co) | fcc(Co): Nd 0; Co17Nd2: Co 0.894737, Nd 0.105263 | model | [1] Liu 2007 | Table 3, p. 5, row 3; `ORC-TLBBDP76P2` |  |
 

@@ -72,7 +72,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:bcc-a2)
 
 Names (41): _corpus: _corpus:phase:fe-ti:bcc-a2  
-_paper: _paper:10.1007/s11663-998-0113-z:Bcc, paper:10.1007/s11663-998-0113-z:Bcc(Fe), paper:10.1007/s11663-998-0113-z:Bcc(Ti), paper:10.1007/s11669-024-01124-9:β-Fe, paper:10.1007/s11669-024-01124-9:β-Ti, paper:10.1016/0364-5916(94)90028-0:α, paper:10.1016/j.intermet.2020.106978:α-Fe, paper:10.1016/j.intermet.2020.106978:β-Ti, paper:10.1016/j.jallcom.2019.05.341:A2, paper:10.1016/j.matchemphys.2011.07.071:αFe, paper:10.1016/j.matchemphys.2011.07.071:βTi, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1361/105497198770341923:bcc, paper:10.1361/105497198770341923:bcc(Fe), paper:10.1361/105497198770341923:bcc(Ti)  
+_paper: _paper:10.1007/s11663-998-0113-z:Bcc, paper:10.1007/s11663-998-0113-z:Bcc(Fe), paper:10.1007/s11663-998-0113-z:Bcc(Ti), paper:10.1007/s11669-024-01124-9:β-Fe, paper:10.1007/s11669-024-01124-9:β-Ti, paper:10.1016/0364-5916(94)90028-0:α, paper:10.1016/j.intermet.2020.106978:α-Fe, paper:10.1016/j.intermet.2020.106978:β-Ti, paper:10.1016/j.jallcom.2019.05.341:A2, paper:10.1016/j.matchemphys.2011.07.071:αFe, paper:10.1016/j.matchemphys.2011.07.071:βTi, paper:10.1361/105497198770341923:bcc, paper:10.1361/105497198770341923:bcc(Fe), paper:10.1361/105497198770341923:bcc(Ti), paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:FeTi-09Key.tdb:A2_BCC, tdb:FeTi-09Key.tdb:BCC_A2, tdb:FeTi-11Wan.tdb:BCC_A2, tdb:FeTi-12Bo.tdb:A2_BCC, tdb:FeTi-12Bo.tdb:BCC_A2, tdb:FeTi-12Guo.tdb:A2_BCC, tdb:FeTi-12Guo.tdb:BCC_A2, tdb:FeTi-19Wit.tdb:A2_BCC, tdb:FeTi-19Wit.tdb:BCC_A2, tdb:FeTi-21San.tdb:A2_BCC, tdb:FeTi-21San.tdb:BCC_A2, tdb:FeTi-21Zha.tdb:A2_BCC, tdb:FeTi-21Zha.tdb:BCC_A2, tdb:FeTi-22Kri.tdb:BCC_A2, tdb:FeTi-23Wal-3g.tdb:A2_BCC, tdb:FeTi-23Wal-3g.tdb:BCC_A2, tdb:FeTi-24Lia.tdb:A2_BCC, tdb:FeTi-24Lia.tdb:BCC_A2, tdb:FeTi-89Bal.tdb:BCC_A2, tdb:FeTi-94Har.tdb:BCC_A2, tdb:FeTi-98Dum.tdb:BCC_A2, tdb:FeTi-98Har-LB.tdb:A2_BCC, tdb:FeTi-98Har-LB.tdb:BCC_A2, tdb:FeTi-98Jon.tdb:BCC_A2, tdb:FeTi-98Ran.tdb:BCC_A2  
 
 
@@ -253,7 +253,7 @@ _tdb: _tdb:FeTi-09Key.tdb:A2_BCC, tdb:FeTi-09Key.tdb:BCC_A2, tdb:FeTi-11Wan.tdb:
 33: CONST BCC_A2 : FE% TI% : VA : !
 ~~~~
 
-Example references (10 of 17; assessments first): 
+Example references (10 of 16; assessments first): 
 
 - [doi:10.1361/105497198770341923](https://doi.org/10.1361/105497198770341923) L. F. S. Dumitrescu, M. Hillert, N. Sounders, Comparison of Fe-Ti assessments, JPE 19, 441-448 (1998).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -409,7 +409,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:c14-laves)
 
 Names (22): _corpus: _corpus:phase:fe-ti:c14-laves  
-_paper: _paper:10.1007/s11663-998-0113-z:Fe2Ti, paper:10.1007/s11669-024-01124-9:C14, paper:10.1016/j.jallcom.2019.05.341:C14, paper:10.1016/j.matchemphys.2011.07.071:Fe2Ti, paper:10.1016/s0364-5916(98)00037-6:Laves-C14, paper:10.1361/105497198770341923:Fe2Ti  
+_paper: _paper:10.1007/s11663-998-0113-z:Fe2Ti, paper:10.1007/s11669-024-01124-9:C14, paper:10.1016/j.jallcom.2019.05.341:C14, paper:10.1016/j.matchemphys.2011.07.071:Fe2Ti, paper:10.1361/105497198770341923:Fe2Ti, paper:sha256-85fd53a1a176b694:Laves-C14  
 _tdb: _tdb:FeTi-09Key.tdb:C14_LAVES, tdb:FeTi-11Wan.tdb:C14_LAVES, tdb:FeTi-12Bo.tdb:C14_LAVES, tdb:FeTi-12Guo.tdb:C14_LAVES, tdb:FeTi-19Wit.tdb:C14_LAVES, tdb:FeTi-21San.tdb:C14_LAVES, tdb:FeTi-21Zha.tdb:C14_LAVES, tdb:FeTi-22Kri.tdb:C14_LAVES, tdb:FeTi-23Wal-3g.tdb:C14_LAVES, tdb:FeTi-24Lia.tdb:C14_LAVES, tdb:FeTi-89Bal.tdb:C14_LAVES, tdb:FeTi-98Dum.tdb:C14_LAVES, tdb:FeTi-98Har-LB.tdb:C14_LAVES, tdb:FeTi-98Jon.tdb:C14_LAVES, tdb:FeTi-98Ran.tdb:C14_LAVES  
 
 
@@ -520,7 +520,7 @@ _tdb: _tdb:FeTi-09Key.tdb:C14_LAVES, tdb:FeTi-11Wan.tdb:C14_LAVES, tdb:FeTi-12Bo
 48: CONST C14_LAVES : FE% TI : FE TI% : !
 ~~~~
 
-Example references (10 of 19; assessments first): 
+Example references (10 of 18; assessments first): 
 
 - [doi:10.1361/105497198770341923](https://doi.org/10.1361/105497198770341923) L. F. S. Dumitrescu, M. Hillert, N. Sounders, Comparison of Fe-Ti assessments, JPE 19, 441-448 (1998).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -780,7 +780,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:feti-b2)
 
 Names (13): _corpus: _corpus:phase:fe-ti:feti-b2  
-_paper: _paper:10.1007/s11663-998-0113-z:FeTi, paper:10.1016/0364-5916(94)90028-0:FeTi, paper:10.1016/j.matchemphys.2011.07.071:FeTi, paper:10.1016/s0364-5916(98)00037-6:FeTi\*, paper:10.1361/105497198770341923:FeTi  
+_paper: _paper:10.1007/s11663-998-0113-z:FeTi, paper:10.1016/0364-5916(94)90028-0:FeTi, paper:10.1016/j.matchemphys.2011.07.071:FeTi, paper:10.1361/105497198770341923:FeTi, paper:sha256-85fd53a1a176b694:FeTi\*  
 _tdb: _tdb:FeTi-11Wan.tdb:FETI_B2, tdb:FeTi-22Kri.tdb:FETI_B2, tdb:FeTi-89Bal.tdb:FETI_B2, tdb:FeTi-94Har.tdb:FETI_B2, tdb:FeTi-98Dum.tdb:FETI_B2, tdb:FeTi-98Jon.tdb:FETI_B2, tdb:FeTi-98Ran.tdb:FETI_B2  
 
 
@@ -835,7 +835,7 @@ _tdb: _tdb:FeTi-11Wan.tdb:FETI_B2, tdb:FeTi-22Kri.tdb:FETI_B2, tdb:FeTi-89Bal.td
 43: CONST FETI_B2 : FE : TI : !
 ~~~~
 
-Example references (10 of 11; assessments first): 
+Example references (10 of 10; assessments first): 
 
 - [doi:10.1361/105497198770341923](https://doi.org/10.1361/105497198770341923) L. F. S. Dumitrescu, M. Hillert, N. Sounders, Comparison of Fe-Ti assessments, JPE 19, 441-448 (1998).  
 _assessment that models this phase; reports values for this phase_
@@ -849,13 +849,13 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02868286](https://doi.org/10.1007/bf02868286) J.L. Murray, The FeTi (IroneTitanium) system, Bull. Alloy Phase Diagr. 2 (1981) 320e334.  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/0001-6160(55)90038-9](https://doi.org/10.1016/0001-6160%2855%2990038-9) O Kubaschewski, W.A Dench, The heats of formation in the systems titanium-aluminium and titanium-iron, Acta Metallurgica 3, 339-346 (1955).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0040-6031(81)87031-1](https://doi.org/10.1016/0040-6031%2881%2987031-1) J.C. Gachon, M. Notin, J. Hertz, The enthalphy of mixing of the intermediate phases in the systems FeTi, CoTi, and NiTi by direct reaction calorimetry, Thermochimica Acta 48, 155-164 (1981).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0364-5916(83)90024-x](https://doi.org/10.1016/0364-5916%2883%2990024-x) J.C. Gachon, Enthalpies of formation of binary phases in the systems FeTi, FeZr, CoTi, CoZr, NiTi, and NiZr, by direct reaction calorimetry, Calphad (1983).  
+_cited as the source of values for this phase_
+- [doi:10.1098/rsta.1957.0004](https://doi.org/10.1098/rsta.1957.0004) A. Hellawell, William Hume-Rothery, The constitution of alloys of iron and manganese with transition elements of the first long period, Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences 249, 417-459 (1957).  
 _cited as the source of values for this phase_
 
 ## HCP_A3 (Fe–Ti)
@@ -867,7 +867,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:hcp-a3)
 
 Names (24): _corpus: _corpus:phase:fe-ti:hcp-a3  
-_paper: _paper:10.1007/s11663-998-0113-z:Hcp(Ti), paper:10.1016/j.intermet.2020.106978:α-Ti, paper:10.1016/j.jallcom.2019.05.341:A3, paper:10.1016/j.matchemphys.2011.07.071:αTi, paper:10.1016/s0364-5916(98)00037-6:hcp-A3, paper:10.1016/s1003-6326(11)61450-7:HCP_Ti, paper:10.1361/105497198770341923:cph(Ti)  
+_paper: _paper:10.1007/s11663-998-0113-z:Hcp(Ti), paper:10.1016/j.intermet.2020.106978:α-Ti, paper:10.1016/j.jallcom.2019.05.341:A3, paper:10.1016/j.matchemphys.2011.07.071:αTi, paper:10.1016/s1003-6326(11)61450-7:HCP_Ti, paper:10.1361/105497198770341923:cph(Ti), paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:FeTi-09Key.tdb:HCP_A3, tdb:FeTi-11Wan.tdb:HCP_A3, tdb:FeTi-12Bo.tdb:HCP_A3, tdb:FeTi-12Guo.tdb:HCP_A3, tdb:FeTi-19Wit.tdb:HCP_A3, tdb:FeTi-21San.tdb:HCP_A3, tdb:FeTi-21Zha.tdb:HCP_A3, tdb:FeTi-22Kri.tdb:HCP_A3, tdb:FeTi-23Wal-3g.tdb:HCP_A3, tdb:FeTi-24Lia.tdb:HCP_A3, tdb:FeTi-89Bal.tdb:HCP_A3, tdb:FeTi-94Har.tdb:HCP_A3, tdb:FeTi-98Dum.tdb:HCP_A3, tdb:FeTi-98Har-LB.tdb:HCP_A3, tdb:FeTi-98Jon.tdb:HCP_A3, tdb:FeTi-98Ran.tdb:HCP_A3  
 
 
@@ -985,7 +985,7 @@ _tdb: _tdb:FeTi-09Key.tdb:HCP_A3, tdb:FeTi-11Wan.tdb:HCP_A3, tdb:FeTi-12Bo.tdb:H
 38: CONST HCP_A3 : FE TI% : VA : !
 ~~~~
 
-Example references (10 of 14; assessments first): 
+Example references (10 of 13; assessments first): 
 
 - [doi:10.1016/j.jallcom.2019.05.341](https://doi.org/10.1016/j.jallcom.2019.05.341) V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).  
 _assessment that models this phase; reports values for this phase_
@@ -1017,7 +1017,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:liquid)
 
 Names (28): _corpus: _corpus:phase:fe-ti:liquid  
-_paper: _paper:10.1007/s11663-998-0113-z:L, paper:10.1007/s11669-024-01124-9:L, paper:10.1016/0364-5916(94)90028-0:Liquid, paper:10.1016/j.intermet.2020.106978:L, paper:10.1016/j.jallcom.2019.05.341:L, paper:10.1016/j.matchemphys.2011.07.071:L, paper:10.1016/s0364-5916(98)00037-6:L, paper:10.1016/s0364-5916(98)00037-6:Liquid, paper:10.1016/s1003-6326(11)61450-7:L, paper:10.1016/s1003-6326(11)61450-7:Liquid, paper:10.1361/105497198770341923:L  
+_paper: _paper:10.1007/s11663-998-0113-z:L, paper:10.1007/s11669-024-01124-9:L, paper:10.1016/0364-5916(94)90028-0:Liquid, paper:10.1016/j.intermet.2020.106978:L, paper:10.1016/j.jallcom.2019.05.341:L, paper:10.1016/j.matchemphys.2011.07.071:L, paper:10.1016/s1003-6326(11)61450-7:L, paper:10.1016/s1003-6326(11)61450-7:Liquid, paper:10.1361/105497198770341923:L, paper:sha256-85fd53a1a176b694:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:FeTi-09Key.tdb:LIQUID, tdb:FeTi-11Wan.tdb:LIQUID, tdb:FeTi-12Bo.tdb:LIQUID, tdb:FeTi-12Guo.tdb:LIQUID, tdb:FeTi-19Wit.tdb:LIQUID, tdb:FeTi-21San.tdb:LIQUID, tdb:FeTi-21Zha.tdb:LIQUID, tdb:FeTi-22Kri.tdb:LIQUID, tdb:FeTi-23Wal-3g.tdb:LIQUID, tdb:FeTi-24Lia.tdb:LIQUID, tdb:FeTi-89Bal.tdb:LIQUID, tdb:FeTi-94Har.tdb:LIQUID, tdb:FeTi-98Dum.tdb:LIQUID, tdb:FeTi-98Har-LB.tdb:LIQUID, tdb:FeTi-98Jon.tdb:LIQUID, tdb:FeTi-98Ran.tdb:LIQUID  
 
 
@@ -1135,7 +1135,7 @@ _tdb: _tdb:FeTi-09Key.tdb:LIQUID, tdb:FeTi-11Wan.tdb:LIQUID, tdb:FeTi-12Bo.tdb:L
 23: CONST LIQUID:L : FE TI : !
 ~~~~
 
-Example references (10 of 17; assessments first): 
+Example references (10 of 16; assessments first): 
 
 - [doi:10.1361/105497198770341923](https://doi.org/10.1361/105497198770341923) L. F. S. Dumitrescu, M. Hillert, N. Sounders, Comparison of Fe-Ti assessments, JPE 19, 441-448 (1998).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_

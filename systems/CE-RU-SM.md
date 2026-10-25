@@ -1,10 +1,10 @@
 # Ce–Ru–Sm system
 
-> Ce–Ru–Sm system: 67 accepted literature values (formation 47, crystal structure 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Ru–Sm system: 53 accepted literature values (formation 47, crystal structure 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-RU-SM.html · Markdown: https://data.orchid-project.org/systems/CE-RU-SM.md
 
-67 accepted literature values from 1 paper(s) (experimental 1, model 35, DFT 11, unspecified 20); 0 calculated phase diagram(s).
+53 accepted literature values from 1 paper(s) (experimental 1, model 35, DFT 11, unspecified 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-RU-SM.json) · [CSV](https://data.orchid-project.org/systems/CE-RU-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-RU-SM) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-RU-SM.html) · [Markdown](https://data.orchid-project.org/systems/CE-RU-SM.md)
 
@@ -15,14 +15,14 @@ Table: Accepted values by evidence class
 | experimental | 1 |
 | model | 35 |
 | DFT | 11 |
-| unspecified | 20 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 47 |
-| crystal structure | 20 |
+| crystal structure | 6 |
 
 ## Formation enthalpies
 
@@ -89,32 +89,18 @@ Table: Formation, Ce–Ru–Sm system
 | Gibbs energy of formation; _printed: ΔGf_ | -18.38 kJ/mol-atom |  | LnRu2; _alloy: Ru 0, Sm 0_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 58; `ORC-DC7JN3FBWG.3df7de` |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -14.921 kJ/mol-atom |  | LnRu2; _alloy: Ru 0, Sm 0_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 59; `ORC-ZDAXKNXMPW.a93536` |  |
 
-### Crystal structure (20)
+### Crystal structure (6)
 
 Table: Crystal structure, Ce–Ru–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 5.161 Å | 393.5 | (γCe); _(γCe): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 2; `ORC-CPPMSI6NIV` |  |
-| Lattice a | 7.242 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.c4d416` |  |
-| Lattice a | 9.802 Å | 685 (\<) | Ce7Ru3; _Ce7Ru3: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 6; `ORC-F7A5JNCWME.6fc348` |  |
-| Lattice a | 13.645 Å | 720 (\<) | Ce16Ru9; _Ce16Ru9: Ru 0.36_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 8; `ORC-TZH7ANLFQR.faa8d5` |  |
 | Lattice a | 3.629 Å | 734 (\<) | (αSm); _(αSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 16; `ORC-6S4PTON3KQ.7ba4e4` |  |
-| Lattice a | 8.4 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9; `ORC-MEQCALTNMX.c7f7ad` |  |
 | Lattice a | 4.12 Å | 762 | (δCe); _(δCe): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 1; `ORC-JTTSXI642I` |  |
 | Lattice a | 3.663 Å | 828 | (βSm); _(βSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 15; `ORC-F5K5ZDZF47.b70dc7` |  |
-| Lattice a | 7.33 Å | 925 (\<) | Sm3Ru; _Sm3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 19; `ORC-R3HDQBX6AT.20959f` |  |
-| Lattice a | 7.545 Å | 1570 (\<) | CeRu2; _CeRu2: Ru 0.667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 10; `ORC-EXUYP6LQVU` |  |
-| Lattice b | 9.863 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.f38445` |  |
-| Lattice b | 13.837 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9; `ORC-MEQCALTNMX.35708e` |  |
-| Lattice b | 9.461 Å | 925 (\<) | Sm3Ru; _Sm3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 19; `ORC-R3HDQBX6AT.d106ea` |  |
-| Lattice c | 6.419 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.add7a8` |  |
-| Lattice c | 6.261 Å | 685 (\<) | Ce7Ru3; _Ce7Ru3: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 6; `ORC-F7A5JNCWME.2cdf0c` |  |
-| Lattice c | 22.742 Å | 720 (\<) | Ce16Ru9; _Ce16Ru9: Ru 0.36_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 8; `ORC-TZH7ANLFQR.2cbf16` |  |
 | Lattice c | 26.2071 Å | 734 (\<) | (αSm); _(αSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 16; `ORC-6S4PTON3KQ.898da0` |  |
-| Lattice c | 5.985 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9; `ORC-MEQCALTNMX.6a736f` |  |
 | Lattice c | 5.8448 Å | 828 | (βSm); _(βSm): Ru 0_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 15; `ORC-F5K5ZDZF47.0f323b` |  |
-| Lattice c | 6.334 Å | 925 (\<) | Sm3Ru; _Sm3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 19; `ORC-R3HDQBX6AT.9e560e` |  |
 
 ## Sources
 

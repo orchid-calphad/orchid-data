@@ -25,7 +25,7 @@ Table: Uncertainty budget of the literature values of Ca3Si4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -40.6 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -40.6 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -46 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies

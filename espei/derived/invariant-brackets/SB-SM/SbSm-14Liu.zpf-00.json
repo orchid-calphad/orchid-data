@@ -5,10 +5,12 @@
   "VA"
  ],
  "phases": [
+  "BCC_A2",
   "LIQUID",
   "RHOMBOHEDRAL_A7",
   "SB2SM",
   "SB3SM4_D73",
+  "SB3SM5_D88",
   "SB3SM5_HT",
   "SBSM_B1"
  ],
@@ -25,7 +27,8 @@
    2043.15,
    2027.15,
    1983.15,
-   1322.15
+   1322.15,
+   1278.15
   ]
  },
  "output": "ZPF",
@@ -384,6 +387,44 @@
      0.91
     ]
    ]
+  ],
+  [
+   [
+    "SB3SM5_D88",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SM"
+    ],
+    [
+     0.95
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.89
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.91
+    ]
+   ]
   ]
  ],
  "reference": "Liu 2014, doi:10.1016/j.calphad.2014.07.002",
@@ -607,6 +648,25 @@
      "SB3SM5_D88",
      "BCC_A2"
     ]
+   },
+   {
+    "source_observation": "ORC-WV4A5O4Q3W",
+    "side": "below",
+    "T_invariant_K": 1300.15,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+    "x0": 0.9,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> Sb3Sm5 + (γSm)",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "SB3SM5_D88",
+     "BCC_A2"
+    ]
    }
   ],
   "dois": [
@@ -767,6 +827,22 @@
    },
    {
     "source_observation": "ORC-PGWROTWOPS",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 11.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 22.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-WV4A5O4Q3W",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": null,

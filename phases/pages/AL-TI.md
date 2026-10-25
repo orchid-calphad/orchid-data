@@ -48,7 +48,7 @@ Table: Phases of the Al–Ti system (18)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:al11ti5-d023)
 
 Names (5): _corpus: _corpus:phase:al-ti:al11ti5-d023  
-_paper: _paper:10.1007/s11669-024-01124-9:D023-Ti5Al11, paper:10.1016/s0364-5916(98)00037-6:Al11Ti5  
+_paper: _paper:10.1007/s11669-024-01124-9:D023-Ti5Al11, paper:sha256-85fd53a1a176b694:Al11Ti5  
 _tdb: _tdb:AlTi-24Lia.tdb:AL11TI5_D023, tdb:AlTi-98Sau-LB.tdb:AL11TI5_D023  
 
 
@@ -68,12 +68,10 @@ _tdb: _tdb:AlTi-24Lia.tdb:AL11TI5_D023, tdb:AlTi-98Sau-LB.tdb:AL11TI5_D023
 61: CONST AL11TI5_D023 : AL : TI : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-024-01124-9](https://doi.org/10.1007/s11669-024-01124-9) Zhi Liang, Ursula Kattner, Kamal Choudharry, Francesca Tavazza, Carelyn Campbell, Thermodynamic Assessments of Ti-Al, Ti-Fe, and Ti-Al-Fe Systems with Four-Sublattice Description of Ordered Body-Centered Cubic Phase and Density Functional Theory Data, J. Phase Equilib. Diffus. 45, 732-756 (2024).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL2TI (Al–Ti)
 
@@ -86,7 +84,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:al2ti)
 
 Names (11): _corpus: _corpus:phase:al-ti:al2ti  
-_paper: _paper:10.1007/bf02646001:TiAl2, paper:10.1007/s11669-024-01124-9:Al2Ti, paper:10.1007/s11669-024-01124-9:TiAl2, paper:10.1016/j.jallcom.2007.10.061:η, paper:10.1016/s0364-5916(98)00037-6:Al2Ti  
+_paper: _paper:10.1007/bf02646001:TiAl2, paper:10.1007/s11669-024-01124-9:Al2Ti, paper:10.1007/s11669-024-01124-9:TiAl2, paper:10.1016/j.jallcom.2007.10.061:η, paper:sha256-85fd53a1a176b694:Al2Ti  
 _tdb: _tdb:AlTi-00Ohn.tdb:AL2TI, tdb:AlTi-08Wit.tdb:AL2TI, tdb:AlTi-24Lia.tdb:AL2TI, tdb:AlTi-92Kat.tdb:AL2TI, tdb:AlTi-98Sau-LB.tdb:AL2TI  
 
 
@@ -127,7 +125,7 @@ _tdb: _tdb:AlTi-00Ohn.tdb:AL2TI, tdb:AlTi-08Wit.tdb:AL2TI, tdb:AlTi-24Lia.tdb:AL
 66: CONST AL2TI : AL : TI : !
 ~~~~
 
-Example references (10 of 11; assessments first): 
+Example references (10 of 10; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.10.061](https://doi.org/10.1016/j.jallcom.2007.10.061) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 465, 64-77 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -143,11 +141,11 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1007/s11669-005-0137-x](https://doi.org/10.1007/s11669-005-0137-x) V. Raghavan, Al-Ti (Aluminum-Titanium), J Phs Eqil and Diff 26, 171-172 (2005).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/s0966-9795(97)00030-7](https://doi.org/10.1016/s0966-9795%2897%2900030-7) F. Zhang, S.L. Chen, Y.A. Chang, U.R. Kattner, A thermodynamic description of the TiAl system, Intermetallics 5, 471-482 (1997).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.intermet.2004.12.028](https://doi.org/10.1016/j.intermet.2004.12.028) R. Kainuma, J. Sato, I. Ohnuma, K. Ishida, Phase stability and interdiffusivity of the L10-based ordered phases in Al-rich portion of the Ti–Al binary system, Intermetallics 13, 784-791 (2005).  
+_cited as the source of values for this phase_
+- [doi:10.1016/s0966-9795(02)00022-5](https://doi.org/10.1016/s0966-9795%2802%2900022-5) M Palm, L.C Zhang, F Stein, G Sauthoff, Phases and phase equilibria in the Al-rich part of the Al–Ti system above 900 °C, Intermetallics 10, 523-540 (2002).  
 _cited as the source of values for this phase_
 
 ## AL3M_D022 (Al–Ti)
@@ -161,7 +159,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:al3m-d022)
 
 Names (5): _corpus: _corpus:phase:al-ti:al3m-d022  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:AlM\*, paper:10.1016/s0364-5916(98)00037-6:AlM-D0\*22, paper:10.1016/s0364-5916(98)00037-6:AlM-D022  
+_paper: _paper:sha256-85fd53a1a176b694:AlM\*, paper:sha256-85fd53a1a176b694:AlM-D0\*22, paper:sha256-85fd53a1a176b694:AlM-D022  
 _tdb: _tdb:AlTi-98Sau-LB.tdb:AL3M_D022  
 
 
@@ -173,11 +171,6 @@ _tdb: _tdb:AlTi-98Sau-LB.tdb:AL3M_D022
 50: PHASE AL3M_D022 % 2 3 1 !
 51: CONST AL3M_D022 : AL TI : TI : !
 ~~~~
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL3TI_LT (Al–Ti)
 
@@ -381,7 +374,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:alm3-d019)
 
 Names (3): _corpus: _corpus:phase:al-ti:alm3-d019  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:AlM-D019  
+_paper: _paper:sha256-85fd53a1a176b694:AlM-D019  
 _tdb: _tdb:AlTi-98Sau-LB.tdb:ALM3_D019  
 
 
@@ -393,11 +386,6 @@ _tdb: _tdb:AlTi-98Sau-LB.tdb:ALM3_D019
 55: PHASE ALM3_D019 % 2 1 3 !
 56: CONST ALM3_D019 : AL% TI : AL TI% : !
 ~~~~
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## ALTI_L10 (Al–Ti)
 
@@ -412,7 +400,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:alti-l10)
 
 Names (10): _corpus: _corpus:phase:al-ti:alti-l10  
-_paper: _paper:10.1007/bf02646001:TiAl, paper:10.1007/s11669-024-01124-9:L10-TiAl, paper:10.1016/j.jallcom.2007.10.061:γ, paper:10.1016/s0364-5916(98)00037-6:AlTi-L10, paper:10.1016/s0364-5916(98)00037-6:L10-AlTi  
+_paper: _paper:10.1007/bf02646001:TiAl, paper:10.1007/s11669-024-01124-9:L10-TiAl, paper:10.1016/j.jallcom.2007.10.061:γ, paper:sha256-85fd53a1a176b694:AlTi-L10, paper:sha256-85fd53a1a176b694:L10-AlTi  
 _tdb: _tdb:AlTi-08Wit.tdb:ALTI_L10, tdb:AlTi-24Lia.tdb:ALTI_L10, tdb:AlTi-92Kat.tdb:ALTI_L10, tdb:AlTi-98Sau-LB.tdb:ALTI_L10  
 
 
@@ -446,7 +434,7 @@ _tdb: _tdb:AlTi-08Wit.tdb:ALTI_L10, tdb:AlTi-24Lia.tdb:ALTI_L10, tdb:AlTi-92Kat.
 71: CONST ALTI_L10 : AL% TI : AL TI% : !
 ~~~~
 
-Example references (10 of 13; assessments first): 
+Example references (10 of 12; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.10.061](https://doi.org/10.1016/j.jallcom.2007.10.061) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 465, 64-77 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -454,8 +442,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-024-01124-9](https://doi.org/10.1007/s11669-024-01124-9) Zhi Liang, Ursula Kattner, Kamal Choudharry, Francesca Tavazza, Carelyn Campbell, Thermodynamic Assessments of Ti-Al, Ti-Fe, and Ti-Al-Fe Systems with Four-Sublattice Description of Ordered Body-Centered Cubic Phase and Density Functional Theory Data, J. Phase Equilib. Diffus. 45, 732-756 (2024).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/s0966-9795(97)00030-7](https://doi.org/10.1016/s0966-9795%2897%2900030-7) F. Zhang, S.L. Chen, Y.A. Chang, U.R. Kattner, A thermodynamic description of the TiAl system, Intermetallics 5, 471-482 (1997).  
 _cited as the source of values for this phase_
 - [doi:10.1361/105497103772084552](https://doi.org/10.1361/105497103772084552) A. Grytsiv, P. Rogl, H. Schmidt, G. Giester, Constitution of the ternary system Al-Ru-Ti (Aluminum-Ruthenium-Titanium), JPE 24, 511-527 (2003).  
@@ -467,6 +453,8 @@ _cited as the source of values for this phase_
 - [doi:10.1007/s11661-001-0114-x](https://doi.org/10.1007/s11661-001-0114-x) J. Braun, M. Ellner, Phase equilibria investigations on the aluminum-rich part of the binary system Ti-Al, Metall Mater Trans A 32, 1037-1047 (2001).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0956-7151(90)90208-x](https://doi.org/10.1016/0956-7151%2890%2990208-x) E.L. Hall, Shyh-Chin Huang, Microstructures of rapidly-solidified binary TiAl alloys, Acta Metallurgica et Materialia 38, 539-549 (1990).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0956-716x(92)90103-l](https://doi.org/10.1016/0956-716x%2892%2990103-l) A. Hellwig, G. Inden, M. Palm, The invariant reaction between α, α2 and γ in the Ti/1bAl system, Scripta Metallurgica et Materialia 27, 143-148 (1992).  
 _cited as the source of values for this phase_
 
 ## ALTI3_D019 (Al–Ti)
@@ -570,7 +558,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:bcc-a2)
 
 Names (15): _corpus: _corpus:phase:al-ti:bcc-a2  
-_paper: _paper:10.1007/bf02646001:(βTi), paper:10.1007/s11669-024-01124-9:BCC, paper:10.1007/s11669-024-01124-9:BCC_B2, paper:10.1007/s11669-024-01124-9:β-Ti, paper:10.1016/j.jallcom.2007.10.061:β, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1007/bf02646001:(βTi), paper:10.1007/s11669-024-01124-9:BCC, paper:10.1007/s11669-024-01124-9:BCC_B2, paper:10.1007/s11669-024-01124-9:β-Ti, paper:10.1016/j.jallcom.2007.10.061:β, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:AlTi-00Ohn.tdb:A2_BCC, tdb:AlTi-00Ohn.tdb:BCC_A2, tdb:AlTi-08Wit.tdb:A2_BCC, tdb:AlTi-08Wit.tdb:BCC_A2, tdb:AlTi-24Lia.tdb:A2_BCC, tdb:AlTi-24Lia.tdb:BCC_A2, tdb:AlTi-92Kat.tdb:BCC_A2, tdb:AlTi-98Sau-LB.tdb:BCC_A2  
 
 
@@ -632,7 +620,7 @@ _tdb: _tdb:AlTi-00Ohn.tdb:A2_BCC, tdb:AlTi-00Ohn.tdb:BCC_A2, tdb:AlTi-08Wit.tdb:
 41: CONST BCC_A2 : AL TI% : VA : !
 ~~~~
 
-Example references (10 of 14; assessments first): 
+Example references (10 of 13; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.10.061](https://doi.org/10.1016/j.jallcom.2007.10.061) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 465, 64-77 (2008).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -648,11 +636,11 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/j.commatsci.2014.05.014](https://doi.org/10.1016/j.commatsci.2014.05.014) Richard H. Taylor, Frisco Rose, Cormac Toher, Ohad Levy, Kesong Yang, Marco Buongiorno Nardelli et al., A RESTful API for exchanging materials data in the AFLOWLIB.org consortium, Computational Materials Science 93, 178-192 (2014).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.6028/nist.ir.88-3856](https://doi.org/10.6028/nist.ir.88-3856) R M Waterstrat, Effect of interstitial elements on phase relationships in the titanium-aluminum system, (1988).  
 _cited as the source of values for this phase_
 - [doi:10.1007/s11669-004-0110-0](https://doi.org/10.1007/s11669-004-0110-0) Marina Bulanova, Ludmila Tretyachenko, Marina Golovkova, Konstantin Meleshevich, Phase equilibria in the α-Ti-Al-Si region of the Ti-Si-Al system, J Phs Eqil and Diff 25, 209-229 (2004).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0956-7151(90)90208-x](https://doi.org/10.1016/0956-7151%2890%2990208-x) E.L. Hall, Shyh-Chin Huang, Microstructures of rapidly-solidified binary TiAl alloys, Acta Metallurgica et Materialia 38, 539-549 (1990).  
 _cited as the source of values for this phase_
 
 ## B2_BCC (Al–Ti)
@@ -737,7 +725,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:fcc-a1)
 
 Names (11): _corpus: _corpus:phase:al-ti:fcc-a1  
-_paper: _paper:10.1007/bf02646001:(Al), paper:10.1007/s11669-024-01124-9:FCC-Al, paper:10.1016/j.jallcom.2007.10.061:(αAl), paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:10.1007/bf02646001:(Al), paper:10.1007/s11669-024-01124-9:FCC-Al, paper:10.1016/j.jallcom.2007.10.061:(αAl), paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:AlTi-00Ohn.tdb:A1_FCC, tdb:AlTi-00Ohn.tdb:FCC_A1, tdb:AlTi-08Wit.tdb:FCC_A1, tdb:AlTi-24Lia.tdb:FCC_A1, tdb:AlTi-92Kat.tdb:FCC_A1, tdb:AlTi-98Sau-LB.tdb:FCC_A1  
 
 
@@ -785,7 +773,7 @@ _tdb: _tdb:AlTi-00Ohn.tdb:A1_FCC, tdb:AlTi-00Ohn.tdb:FCC_A1, tdb:AlTi-08Wit.tdb:
 36: CONST FCC_A1 : AL% TI : VA : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.10.061](https://doi.org/10.1016/j.jallcom.2007.10.061) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 465, 64-77 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -801,8 +789,6 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-0248(78)90009-x](https://doi.org/10.1016/0022-0248%2878%2990009-x) Kimihiro Shibata, Tamotsu Sato, Goro Ohira, The solute distributions in dilute Al-Ti alloys during unidirectional solidification, Journal of Crystal Growth 44, 435-445 (1978).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1515/ijmr-1984-750610](https://doi.org/10.1515/ijmr-1984-750610) A. Abdel-Hamid, C.H. Allibert, F. Durand, Z. Metallkd. 75 (1984) 455–458.  
 _cited as the source of values for this phase_
 - [doi:10.2464/jilm.34.377](https://doi.org/10.2464/jilm.34.377) Shigenori HORI, Hideo TAI, Eiichi MATUMOTO, Journal of Japan Institute of Light Metals 34, 377-381 (1984).  
@@ -849,7 +835,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:hcp-a3)
 
 Names (11): _corpus: _corpus:phase:al-ti:hcp-a3  
-_paper: _paper:10.1007/bf02646001:(αTi), paper:10.1007/s11669-024-01124-9:α-Ti, paper:10.1016/j.jallcom.2007.10.061:α, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:10.1007/bf02646001:(αTi), paper:10.1007/s11669-024-01124-9:α-Ti, paper:10.1016/j.jallcom.2007.10.061:α, paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:AlTi-00Ohn.tdb:A3_HCP, tdb:AlTi-00Ohn.tdb:HCP_A3, tdb:AlTi-08Wit.tdb:HCP_A3, tdb:AlTi-24Lia.tdb:HCP_A3, tdb:AlTi-92Kat.tdb:HCP_A3, tdb:AlTi-98Sau-LB.tdb:HCP_A3  
 
 
@@ -897,7 +883,7 @@ _tdb: _tdb:AlTi-00Ohn.tdb:A3_HCP, tdb:AlTi-00Ohn.tdb:HCP_A3, tdb:AlTi-08Wit.tdb:
 46: CONST HCP_A3 : AL TI% : VA : !
 ~~~~
 
-Example references (10 of 16; assessments first): 
+Example references (10 of 15; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.10.061](https://doi.org/10.1016/j.jallcom.2007.10.061) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 465, 64-77 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -909,8 +895,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1361/154770306x109809](https://doi.org/10.1361/154770306x109809) Julius C. Schuster, Martin Palm, Reassessment of the binary Aluminum-Titanium phase diagram, JPED 27, 255-277 (2006).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/s0966-9795(97)00030-7](https://doi.org/10.1016/s0966-9795%2897%2900030-7) F. Zhang, S.L. Chen, Y.A. Chang, U.R. Kattner, A thermodynamic description of the TiAl system, Intermetallics 5, 471-482 (1997).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0956-7151(90)90208-x](https://doi.org/10.1016/0956-7151%2890%2990208-x) E.L. Hall, Shyh-Chin Huang, Microstructures of rapidly-solidified binary TiAl alloys, Acta Metallurgica et Materialia 38, 539-549 (1990).  
@@ -918,6 +902,8 @@ _cited as the source of values for this phase_
 - [doi:10.6028/nist.ir.88-3856](https://doi.org/10.6028/nist.ir.88-3856) R M Waterstrat, Effect of interstitial elements on phase relationships in the titanium-aluminum system, (1988).  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02669603](https://doi.org/10.1007/bf02669603) C. D. Anderson, W. H. Hofmeister, R. J. Bayuzick, Liquidus temperatures in the Ti-Al system, Metall Trans A 24, 61-66 (1993).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11669-004-0110-0](https://doi.org/10.1007/s11669-004-0110-0) Marina Bulanova, Ludmila Tretyachenko, Marina Golovkova, Konstantin Meleshevich, Phase equilibria in the α-Ti-Al-Si region of the Ti-Si-Al system, J Phs Eqil and Diff 25, 209-229 (2004).  
 _cited as the source of values for this phase_
 
 ## LIQUID (Al–Ti)
@@ -929,7 +915,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:liquid)
 
 Names (11): _corpus: _corpus:phase:al-ti:liquid  
-_paper: _paper:10.1007/bf02646001:L, paper:10.1007/s11669-024-01124-9:L, paper:10.1016/j.jallcom.2007.10.061:L, paper:10.1016/s0364-5916(98)00037-6:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1007/bf02646001:L, paper:10.1007/s11669-024-01124-9:L, paper:10.1016/j.jallcom.2007.10.061:L, paper:sha256-85fd53a1a176b694:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlTi-00Ohn.tdb:LIQUID, tdb:AlTi-08Wit.tdb:LIQUID, tdb:AlTi-24Lia.tdb:LIQUID, tdb:AlTi-92Kat.tdb:LIQUID, tdb:AlTi-98Sau-LB.tdb:LIQUID  
 
 
@@ -970,7 +956,7 @@ _tdb: _tdb:AlTi-00Ohn.tdb:LIQUID, tdb:AlTi-08Wit.tdb:LIQUID, tdb:AlTi-24Lia.tdb:
 31: CONST LIQUID:L : AL TI : !
 ~~~~
 
-Example references (10 of 18; assessments first): 
+Example references (10 of 17; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.10.061](https://doi.org/10.1016/j.jallcom.2007.10.061) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 465, 64-77 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -980,8 +966,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S1359-6454(00)00118-X](https://doi.org/10.1016/S1359-6454%2800%2900118-X) I. Ohnuma, Y. Fujita, H. Mitsui, K. Ishikawa, R. Kainuma, K. Ishida, Acta Mater., 48, 3113-23(2000).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/s0966-9795(97)00030-7](https://doi.org/10.1016/s0966-9795%2897%2900030-7) F. Zhang, S.L. Chen, Y.A. Chang, U.R. Kattner, A thermodynamic description of the TiAl system, Intermetallics 5, 471-482 (1997).  
 _cited as the source of values for this phase_
 - [doi:10.1361/154770306x109809](https://doi.org/10.1361/154770306x109809) Julius C. Schuster, Martin Palm, Reassessment of the binary Aluminum-Titanium phase diagram, JPED 27, 255-277 (2006).  
@@ -991,6 +975,8 @@ _cited as the source of values for this phase_
 - [doi:10.1007/s11661-001-0114-x](https://doi.org/10.1007/s11661-001-0114-x) J. Braun, M. Ellner, Phase equilibria investigations on the aluminum-rich part of the binary system Ti-Al, Metall Mater Trans A 32, 1037-1047 (2001).  
 _cited as the source of values for this phase_
 - [doi:10.1007/s11669-004-0110-0](https://doi.org/10.1007/s11669-004-0110-0) Marina Bulanova, Ludmila Tretyachenko, Marina Golovkova, Konstantin Meleshevich, Phase equilibria in the α-Ti-Al-Si region of the Ti-Si-Al system, J Phs Eqil and Diff 25, 209-229 (2004).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0956-7151(90)90208-x](https://doi.org/10.1016/0956-7151%2890%2990208-x) E.L. Hall, Shyh-Chin Huang, Microstructures of rapidly-solidified binary TiAl alloys, Acta Metallurgica et Materialia 38, 539-549 (1990).  
 _cited as the source of values for this phase_
 
 ## Please cite

@@ -1,10 +1,10 @@
 # Ca–Ti system
 
-> Ca–Ti system: 11 accepted literature values (invariant reaction 7, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Ti system: 4 accepted literature values (invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-TI.html · Markdown: https://data.orchid-project.org/systems/CA-TI.md
 
-11 accepted literature values from 1 paper(s) (experimental 1, model 10); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+4 accepted literature values from 1 paper(s) (model 4); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-TI.json) · [CSV](https://data.orchid-project.org/systems/CA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-TI/CaTi-15Ham.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CA-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-TI.html) · [Markdown](https://data.orchid-project.org/systems/CA-TI.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 10 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 7 |
-| phase transition | 4 |
+| invariant reaction | 4 |
 
 ## Calculated phase diagrams
 
@@ -47,30 +45,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ca–Ti system (7)
+Table: Invariant reactions reported in the literature for the Ca–Ti system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1938.15 | monotectic: Liquid'' = Liquid' + bTi |  | model | [1] Hampl 2015 | p. 5; `ORC-6QQ73VQHO6.1dbcec` | “The monotectic reaction Liquid00 = Liquid0 ? bTi calculated at 1665 °C will therefore not occur at a pressure of 1 bar; instead, at 1500 °C the reaction Gas (10-5 at.% Ti) ? bTi = Liquid (0.29 at.% Ti) occurs at 1 bar, and the two-phase equilibrium Gas ? bTi is adjoining from 1500 to 1666 °C.” |
 | 1938.15 | L'' = L' + βTi | L'': Ti 0.99577; L': Ti 0.00423; βTi: Ti 0.99691 | model | [1] Hampl 2015 | Table 3, p. 5, row 1; `ORC-DB4CHVBPYB` |  |
 | 1156.15 | L' + βTi = αTi | L': Ti 3.200e-4; βTi: Ti 0.99992 | model | [1] Hampl 2015 | Table 3, p. 5, row 2; `ORC-ICEYYVA3IO` |  |
-| 1156.15 | peritectic: L0 + bTi = aTi |  | model | [1] Hampl 2015 | p. 5; `ORC-RK3QRUFDGR` | “The Ca solubility in aTi is higher than in bTi, producing the peritectic transformation type, L0 ? bTi = aTi, at 883 °C.” |
 | 1115.15 | L' = βCa + αTi | L': Ti 2.600e-4; βCa: Ti 6.000e-5; αTi: Ti 0.99963 | model | [1] Hampl 2015 | Table 3, p. 5, row 3; `ORC-4ER4RGW7YR` |  |
-| 1115.15 | eutectic |  | model | [1] Hampl 2015 | p. 5; `ORC-7B66TMT7QS` | “Using a simplified, temperature independent, interaction = 75,000 J/mol, produces essentially parameter, L0;liquid Ca;Ti the same calculated solubility values from the eutectic at 842 °C up to about 900 °C, also reproducing the experimental data from \[6\] in that range.” |
 | 716.15 | eutectic: βCa = αCa (+αTi) | αTi: Ti 0.99999 | model | [1] Hampl 2015 | Table 3, p. 5, row 4; `ORC-3ULKGJMJQ4` |  |
-
-## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Ca–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1773.15 K | 1773.15 | Gas + bTi = Liquid | model | [1] Hampl 2015 | p. 5; `ORC-6QQ73VQHO6.4588c3` | “The monotectic reaction Liquid00 = Liquid0 ? bTi calculated at 1665 °C will therefore not occur at a pressure of 1 bar; instead, at 1500 °C the reaction Gas (10-5 at.% Ti) ? bTi = Liquid (0.29 at.% Ti) occurs at 1 bar, and the two-phase equilibrium Gas ? bTi is adjoining from 1500 to 1666 °C.” |
-| Phase transition | 1926.15 K | 1926.15 | other | model | [1] Hampl 2015 | p. 5; `ORC-H466JPHAQL.4d06f6` | “For that parameter setting, the monotectic temperature is lower, 1653 °C, compared to the value of 1665 °C in the finally assessed diagram using the value of L0;liquid = (50,000 ? 20T) J/mol.” |
-| Phase transition | 1938.15 K | 1938.15 | other | model | [1] Hampl 2015 | p. 5; `ORC-H466JPHAQL.c14b13` | “For that parameter setting, the monotectic temperature is lower, 1653 °C, compared to the value of 1665 °C in the finally assessed diagram using the value of L0;liquid = (50,000 ? 20T) J/mol.” |
-| Phase transition | 1941.15 K | 1941.15 |  | experimental | [1] Hampl 2015 | p. 10; `ORC-J7MKCIYGVM` | “The consistent thermodynamic calculation reveals that a wide liquid miscibility gap must exist between Ca- and Ti-rich melts above the monotectic reaction, close to the melting point of Ti at 1668 °C.” |
 
 ## Sources
 

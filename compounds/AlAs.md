@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of AlAs
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -74.1 | kJ/mol (basis unstated) | 6.5 | 0.05 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
-| -60.37 | kJ/mol (basis unstated) | 0.63 | 0.005 | 11.2 (kems_vapour, cleaned_below_threshold) |  |  |  | 11.2 |
-| -58.2 | kJ/mol (basis unstated) | 1.2 | 0.05 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
-| -31 | kJ/mol (basis unstated) | 3.5 | 0.5 | 11.2 (kems_vapour, cleaned_below_threshold) |  |  |  | 11.2 |
+| -74.1 | kJ/mol (basis unstated) | 6.5 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.5 |
+| -60.37 | kJ/mol (basis unstated) | 0.63 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -58.2 | kJ/mol (basis unstated) | 1.2 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -31 | kJ/mol (basis unstated) | 3.5 | 0.5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 
 ## Sources
 

@@ -1,29 +1,31 @@
 # CaMg2: enthalpy of formation
 
-> Enthalpy of formation of CaMg2: 13 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CaMg2: 15 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CaMg2.html · Markdown: https://data.orchid-project.org/compounds/CaMg2.md
 
-13 accepted literature formation-enthalpy value(s) (experimental 7, model 2, DFT 1, unspecified 3); experimental median -13.04 kJ/mol-atom (n = 7); Materials Project -10.24 kJ/mol-atom (mp-aaaaadpo); OQMD -12.167 kJ/mol-atom (oqmd-21025).
+15 accepted literature formation-enthalpy value(s) (experimental 9, model 2, DFT 1, unspecified 3); experimental median -13.17 kJ/mol-atom (n = 9); Materials Project -10.24 kJ/mol-atom (mp-aaaaadpo); OQMD -12.167 kJ/mol-atom (oqmd-21025).
 
 Systems: [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CaMg2 reported in the literature (13)
+Table: Enthalpy of formation of CaMg2 reported in the literature (15)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -14.59 kJ/mol-atom | Mg2Ca-C14 | 255.5 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Chiotti 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990053-0) | Table 2, p. 4, row 13; `ORC-RZCL7BY52Z.730e2e` |  |
-| -13.5 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 5, row 4; `ORC-UWGNHDPS6J` |  |
+| -13.5 kJ/mol-atom | Mg2Ca | 298.15 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Islam 2005; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | p. 11; `ORC-3LFXR22QOA.709ed5` | “In this study, the calculated enthalpy of formation of Mg2 Ca intermetallic compound at 298 K is -12.70 kJ/g atom, which is in close agreement with King and Kleppa \[51\] and Davison and Smith \[52\] who reported this value as -13.5 kJ/g atom and -13.17 kJ/g atom, respectively.” |
+| -13.5 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [3] Kozlov 2008; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 5, row 4; `ORC-UWGNHDPS6J` |  |
 | -13.38 kJ/mol-atom | Mg2Ca-C14 | 298.15 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 9; `ORC-NICUD3CMK2.13630a` |  |
+| -13.17 kJ/mol-atom | Mg2Ca | 298.15 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Islam 2005; _cites Davison 1968_ | p. 11; `ORC-3LFXR22QOA.15c12a` | “In this study, the calculated enthalpy of formation of Mg2 Ca intermetallic compound at 298 K is -12.70 kJ/g atom, which is in close agreement with King and Kleppa \[51\] and Davison and Smith \[52\] who reported this value as -13.5 kJ/g atom and -13.17 kJ/g atom, respectively.” |
 | -13.04 kJ/mol-atom | Mg2Ca-C14 | 298.15 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Gartner 1965_ | Table 2, p. 4, row 10; `ORC-IKPTGBFS7P.6f9e12` |  |
-| -13 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6; `ORC-JZ4L4Q7U2N` |  |
-| -12.7 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5; `ORC-7O4OZG2DBF` |  |
+| -13 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [3] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6; `ORC-JZ4L4Q7U2N` |  |
+| -12.7 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [3] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5; `ORC-7O4OZG2DBF` |  |
 | -11.29 kJ/mol-atom | Mg2Ca-C14 | 359 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Smith 1961_ | Table 2, p. 4, row 12; `ORC-MFXA4ERQYD.227b60` |  |
-| -12.85 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2; `ORC-XFTNAJZ22Q` |  |
-| -12.78 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008 | Table 2, p. 5, row 3; `ORC-S4AJ47FAEA` |  |
-| -12.37 kJ/mol-atom | Mg2Ca | 298.15 | DFT | first-principles | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008 | Table 2, p. 5, row 1; `ORC-VKZEPFIM3R` |  |
+| -12.85 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [3] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2; `ORC-XFTNAJZ22Q` |  |
+| -12.78 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [3] Kozlov 2008 | Table 2, p. 5, row 3; `ORC-S4AJ47FAEA` |  |
+| -12.37 kJ/mol-atom | Mg2Ca | 298.15 | DFT | first-principles | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [3] Kozlov 2008 | Table 2, p. 5, row 1; `ORC-VKZEPFIM3R` |  |
 | -20.97 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Pyagai 1990_ | Table 2, p. 4, row 8; `ORC-PZ7TZP7URJ.a0a8e2` |  |
 | -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Davison 1968_ | Table 2, p. 4, row 11; `ORC-RGWLMRTDMG.5e2caf` |  |
 | -11.7161 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006 | Table 2, p. 4, row 6; `ORC-QFNUO7XCBY.c38408` |  |
@@ -37,15 +39,17 @@ Table: Uncertainty budget of the literature values of CaMg2
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -14.59 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -13.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -13.5 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -13.38 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -13.17 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -13.04 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -13 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -12.7 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -11.29 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -12.85 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -12.78 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -12.37 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -12.37 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 | -20.97 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -13.04 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -11.7161 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
@@ -66,7 +70,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 ## Sources
 
 1. Yu Zhong, Jorge O. Sofo, Alan A. Luo, Zi-Kui Liu, Thermodynamics modeling of the Mg–Sr and Ca–Mg–Sr systems, Journal of Alloys and Compounds 421, 172-178 (2006). [doi:10.1016/j.jallcom.2005.09.076](https://doi.org/10.1016/j.jallcom.2005.09.076)
-2. A. Kozlov, M. Ohno, R. Arroyave, Z.K. Liu, R. Schmid-Fetzer, Phase equilibria, thermodynamics and solidification microstructures of Mg–Sn–Ca alloys, Part 1: Experimental investigation and thermodynamic modeling of the ternary Mg–Sn–Ca system, Intermetallics 16, 299-315 (2008). [doi:10.1016/j.intermet.2007.10.010](https://doi.org/10.1016/j.intermet.2007.10.010)
+2. F. Islam, M. Medraj, The phase equilibria in the Mg–Ni–Ca system, Calphad 29, 289-302 (2005). [doi:10.1016/j.calphad.2005.08.006](https://doi.org/10.1016/j.calphad.2005.08.006)
+3. A. Kozlov, M. Ohno, R. Arroyave, Z.K. Liu, R. Schmid-Fetzer, Phase equilibria, thermodynamics and solidification microstructures of Mg–Sn–Ca alloys, Part 1: Experimental investigation and thermodynamic modeling of the ternary Mg–Sn–Ca system, Intermetallics 16, 299-315 (2008). [doi:10.1016/j.intermet.2007.10.010](https://doi.org/10.1016/j.intermet.2007.10.010)
 
 ## Please cite
 

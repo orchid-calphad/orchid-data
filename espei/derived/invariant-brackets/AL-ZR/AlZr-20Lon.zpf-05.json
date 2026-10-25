@@ -284,7 +284,7 @@
     "x0": 0.705,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> bcc(Zr) + Al3Zr5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -303,7 +303,7 @@
     "x0": 0.705,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> bcc(Zr) + Al3Zr5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -341,7 +341,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Al4Zr5 + Al3Zr2",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

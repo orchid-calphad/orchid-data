@@ -1,10 +1,10 @@
 # Al–Bi system
 
-> Al–Bi system: 147 accepted literature values (phase equilibrium 113, mixing / partial 14, model expression 13, activity / EMF / Gibbs energy 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Bi system: 145 accepted literature values (phase equilibrium 113, model expression 15, mixing / partial 14, invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-BI.html · Markdown: https://data.orchid-project.org/systems/AL-BI.md
 
-147 accepted literature values from 1 paper(s) (experimental 143, model 2, unspecified 2); 3 calculated phase diagram(s).
+145 accepted literature values from 1 paper(s) (experimental 143, unspecified 2); 3 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-BI.json) · [CSV](https://data.orchid-project.org/systems/AL-BI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-BI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-BI/AlBi-06Kim.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-BI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-BI.html) · [Markdown](https://data.orchid-project.org/systems/AL-BI.md)
 
@@ -13,19 +13,17 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 143 |
-| model | 2 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
-| phase transition | 1 |
+| invariant reaction | 2 |
 | phase equilibrium | 113 |
 | mixing / partial | 14 |
-| activity / EMF / Gibbs energy | 3 |
-| model expression | 13 |
+| activity / EMF / Gibbs energy | 1 |
+| model expression | 15 |
 
 ## Calculated phase diagrams
 
@@ -59,23 +57,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Bi system (3)
+Table: Invariant reactions reported in the literature for the Al–Bi system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 930.15 | monotectic: L -> (Al) + L | L: Bi 0.84; (Al): Bi 2.000e-4 | unspecified | [1] McAlister 1984 | Table 1, p. 2, row 1; `ORC-AX467XS44I` |  |
-| 543.55 | eutectic |  | model | [1] McAlister 1984 | p. 1; `ORC-J3OYUQJ4YW` | “The eutectic has been calculated to fall at 270.4 ~ with the eutectic composition 99.51 at.% Bi.” |
 | 543.15 | eutectic: L -> (Al) + Bi | L: Bi 0.995; (Al): Bi 0; Bi: Bi 1 | unspecified | [1] McAlister 1984 | Table 1, p. 2, row 2; `ORC-MC2NZYUCMB` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Al–Bi system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 929.95 K | 929.95 |  | model | [1] McAlister 1984 | p. 1; `ORC-SGODVVJVG3` | “This fit has yielded a monotectic temperature of 656.8 ~ composition of 0.42 at.% Bi, and a liquid terminus of 84.1 at.% Bi.” |
 
 ### Phase equilibrium (113)
 
@@ -218,17 +207,15 @@ Table: Mixing / partial, Al–Bi system
 | Enthalpy of mixing; _printed: ΔmixH_ | 0.832 kJ/mol (basis unstated) | 975.15 | liquid; _alloy: Al 0.04, Bi 0.96_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 14; `ORC-TEUZLVFVW4.23d0fa` |  |
 | Enthalpy of mixing; _printed: ΔmixH_ | 0.433 kJ/mol (basis unstated) | 1077.15 | liquid; _alloy: Al 0.98, Bi 0.02_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 10; `ORC-MRXG4QVO4K.a93890` |  |
 
-### Activity / EMF / Gibbs energy (3)
+### Activity / EMF / Gibbs energy (1)
 
 Table: Activity / EMF / Gibbs energy, Al–Bi system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Chemical potential; _printed: ΔmixGAl = x²(A + Bx) + 8.314T ln(1-x): A_ | 32384 J/mol | 1173.15 | liquid; _alloy: Al 0.2, Bi 0.8_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 5, p. 3, row 2; `ORC-MRNSOOASCT` |  |
-| Chemical potential; _printed: ΔmixGAl = x²(A + Bx + Cx²) + 8.314T ln(1-x): A_ | 52178 J/mol | 1173.15 | liquid; _alloy: Al 0.35, Bi 0.65_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 5, p. 3, row 1; `ORC-NDU6ONDCNG.72f6f3` |  |
 | Chemical potential; _printed: ... C_ | 25397 J/mol | 1173.15 | liquid; _alloy: Al 0.35, Bi 0.65_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 5, p. 3, row 1; `ORC-NDU6ONDCNG.fcbfa4` |  |
 
-### Model expression (13)
+### Model expression (15)
 
 Table: Model expression, Al–Bi system
 
@@ -240,7 +227,9 @@ Table: Model expression, Al–Bi system
 | chemical potential expression term; _printed: ΔmixGAl (constant)_ | 19339 J/mol |  | liquid; _alloy: Al 0.08, Bi 0.92_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 11; `ORC-E6YADDIUKC` |  |
 | chemical potential expression term; _printed: ΔmixGAl (constant)_ | 15204 J/mol |  | liquid; _alloy: Al 0.2, Bi 0.8_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 5; `ORC-FBRIRDIVOW` |  |
 | chemical potential expression term; _printed: ΔmixGAl (constant)_ | 18134 J/mol |  | liquid; _alloy: Al 0.155, Bi 0.845_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 7; `ORC-IAF6NFNYPG` |  |
+| chemical potential expression term; _printed: ΔmixGAl = x²(A + Bx) + 8.314T ln(1-x): A_ | 32384 J/mol |  | liquid; _alloy: Al 0.2, Bi 0.8_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 5, p. 3, row 2; `ORC-MRNSOOASCT` |  |
 | chemical potential expression term; _printed: ΔmixGAl (constant)_ | 23051 J/mol |  | liquid; _alloy: Al 0.01, Bi 0.99_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 17; `ORC-MWMGCYNELN` |  |
+| chemical potential expression term; _printed: ΔmixGAl = x²(A + Bx + Cx²) + 8.314T ln(1-x): A_ | 52178 J/mol |  | liquid; _alloy: Al 0.35, Bi 0.65_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 5, p. 3, row 1; `ORC-NDU6ONDCNG.72f6f3` |  |
 | chemical potential expression term; _printed: ΔmixGAl (constant)_ | 18606 J/mol |  | liquid; _alloy: Al 0.1, Bi 0.9_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 10; `ORC-PMZ6OULXDD` |  |
 | chemical potential expression term; _printed: ΔmixGAl (constant)_ | 21030 J/mol |  | liquid; _alloy: Al 0.065, Bi 0.935_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 12; `ORC-R26DAAEDM6` |  |
 | chemical potential expression term; _printed: ΔmixGAl (constant)_ | 17451 J/mol |  | liquid; _alloy: Al 0.15, Bi 0.85_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 8; `ORC-TRZYUSLBNI` |  |

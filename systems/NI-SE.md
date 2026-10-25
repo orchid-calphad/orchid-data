@@ -1,10 +1,10 @@
 # Ni–Se system
 
-> Ni–Se system: 43 accepted literature values (invariant reaction 29, formation 12, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Se system: 41 accepted literature values (invariant reaction 29, formation 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SE.html · Markdown: https://data.orchid-project.org/systems/NI-SE.md
 
-43 accepted literature values from 1 paper(s) (experimental 22, model 12, unspecified 9); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+41 accepted literature values from 1 paper(s) (experimental 22, model 10, unspecified 9); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SE.json) · [CSV](https://data.orchid-project.org/systems/NI-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SE/NiSe-21Zob.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SE.html) · [Markdown](https://data.orchid-project.org/systems/NI-SE.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 22 |
-| model | 12 |
+| model | 10 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 29 |
-| phase transition | 2 |
 | formation | 12 |
 
 ## Calculated phase diagrams
@@ -61,8 +60,8 @@ Table: Invariant reactions reported in the literature for the Ni–Se system (29
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1232 | congruent melting: Liquid ↔ NiSe | Liquid: Se 0.535; NiSe: Se 0.535 | experimental | [1] Zobač 2021; _cites Komarek 1972_ [doi](https://doi.org/10.1007/bf00905165) | Table 2, p. 3, row 1; `ORC-FGLADPK5ZF` |  |
-| 1232 | Liquid ↔ NiSe | Liquid: Se 0.535; NiSe: Se 0.535 | experimental | [1] Zobač 2021; _cites Predel 2021_ | Table 2, p. 3, row 2; `ORC-K7C34R6Z5W` |  |
-| 1231.3 | Liquid ↔ NiSe | Liquid: Se 0.532; NiSe: Se 0.532 | model | [1] Zobač 2021 | Table 2, p. 3, row 3; `ORC-NDOKL62N4Z` |  |
+| 1232 | congruent melting: Liquid ↔ NiSe | Liquid: Se 0.535; NiSe: Se 0.535 | experimental | [1] Zobač 2021; _cites Predel 2021_ | Table 2, p. 3, row 2; `ORC-K7C34R6Z5W` |  |
+| 1231.3 | congruent melting: Liquid ↔ NiSe | Liquid: Se 0.532; NiSe: Se 0.532 | model | [1] Zobač 2021 | Table 2, p. 3, row 3; `ORC-NDOKL62N4Z` |  |
 | 1131 | Liquid + NiSe ↔ NiSe2 | Liquid: Se 0.672; NiSe: Se 0.547; NiSe2: Se 0.667 | model | [1] Zobač 2021 | Table 2, p. 3, row 6; `ORC-QRSPOPXVCJ` |  |
 | 1129 | Liquid’ ↔ NiSe2 + Liquid’’ | NiSe2: Ni 0.333333, Se 0.666667 | experimental | [1] Zobač 2021; _cites Predel 2021_ | Table 2, p. 3, row 8; `ORC-QQZPEP7W4F` |  |
 | 1129 | peritectic: Liquid + NiSe ↔ NiSe2 | Liquid: Se 0.701; NiSe: Se 0.58; NiSe2: Se 0.68 | experimental | [1] Zobač 2021; _cites Komarek 1972_ [doi](https://doi.org/10.1007/bf00905165) | Table 2, p. 3, row 4; `ORC-SHRV25QZRP` |  |
@@ -110,17 +109,6 @@ Table: Enthalpies of formation, Ni–Se system (12)
 | NiSe0.545 |  | -41.14 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 11; `ORC-JHW5KQWTWS.7956e1` |  |
 | NiSe0.565 |  | -40.77 kJ/mol (basis unstated) | 1050 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 12; `ORC-J4NJA7CGCZ.72e966` |  |
 | NiSe0.566 |  | -36.8 kJ/mol (basis unstated) ± 0.2 | 298.15 | unspecified |  |  | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 3; `ORC-LW2SZBCFWF.1d9d32` |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Ni–Se system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 858 K | 858 | other | model | [1] Zobač 2021 | p. 2; `ORC-CE42R5L7UX` | “The eutectoid reaction Ni3Se2_HT $ Ni3Se2_LT ? Ni6Se5 on the Se-rich part of \[9\] the phase diagram occurs at 858 K.” |
-| Phase transition | 863 K | 863 |  | model | [1] Zobač 2021 | p. 2; `ORC-Z2CS3BIDHO` | “The character and the temperature of the transition Ni3Se2_HT $ Ni3Se2_LT is not precisely known, and the temperature is \[10\] estimated to be approx. 863 K.” |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Pr system
 
-> Pr system: 34 accepted literature values (formation 24, crystal structure 7, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pr system: 10 accepted literature values (crystal structure 7, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PR.html · Markdown: https://data.orchid-project.org/systems/PR.md
 
-34 accepted literature values from 5 paper(s) (experimental 8, model 15, unspecified 11); 0 calculated phase diagram(s).
+10 accepted literature values from 3 paper(s) (experimental 3, model 3, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PR.json) · [CSV](https://data.orchid-project.org/systems/PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PR.html) · [Markdown](https://data.orchid-project.org/systems/PR.md)
 
@@ -12,50 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 15 |
-| unspecified | 11 |
+| experimental | 3 |
+| model | 3 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 3 |
-| formation | 24 |
 | crystal structure | 7 |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Pr system (24)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| Cu2R |  | -43.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 29; `ORC-JEKCFCRLND` |  |
-| Cu2R |  | -31.5 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 30; `ORC-N5CC3QSU27.9a143e` |  |
-| Cu2R |  | -19.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 28; `ORC-BLJUMK6WV4` |  |
-| Cu2R |  | -14.5 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 94Fit_ | Table 10, p. 13, row 31; `ORC-VLJ35MZGIL` |  |
-| Cu4R |  | -31.5 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 30; `ORC-N5CC3QSU27.15de23` |  |
-| Cu4R |  | -27.8 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 26; `ORC-T2F5T6ITH5` |  |
-| Cu4R |  | -22.2 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 27; `ORC-WDBUJU32L6` |  |
-| Cu4R |  | -15.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 25; `ORC-U2SJBWDZJ6` |  |
-| Cu5R |  | -30.7 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 23; `ORC-6YPAAGR5NX` |  |
-| Cu5R |  | -18.8 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 24; `ORC-VLXGSJL66V` |  |
-| Cu5R |  | -13.8 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 22; `ORC-J4LCGSWFCO` |  |
-| Cu6R |  | -33.6 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 19; `ORC-X7VJ6SEACL` |  |
-| Cu6R |  | -16.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 20; `ORC-XJYVTPU4BB` |  |
-| Cu6R |  | -12.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 18; `ORC-CU4EELABUC.71cc49` |  |
-| Cu6R |  | -11.3 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 94Fit_ | Table 10, p. 13, row 21; `ORC-TGH3SU7ADG` |  |
-| CuR |  | -46.7 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub4_ | Table 10, p. 13, row 33; `ORC-2VZ7P5PQAY` |  |
-| CuR |  | -31 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 34; `ORC-L4COFGD2UI` |  |
-| CuR |  | -19 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 32; `ORC-2JCBDSH3DB` |  |
-| CuR |  | -12.7 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 18; `ORC-CU4EELABUC.f0d20c` |  |
-| PrMg |  | -12.7 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 10; `ORC-42GLYI5YXY.01504e` |  |
-| PrMg3 |  | -11.5 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1933Can_ | Table 6, p. 10, row 9; `ORC-5464M6CAS7.1eba46` |  |
-| RMg |  | -17.2 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1933Can_ | Table 6, p. 10, row 9; `ORC-5464M6CAS7.14e105` |  |
-| RMg |  | -12.7 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 10; `ORC-42GLYI5YXY.9bbd1b` |  |
-| RMg3 |  | -11.5 kJ/mol-atom | 298.15 | experimental |  |  | [2] Hampl 2013; _cites ref. 1933Can_ | Table 6, p. 10, row 9; `ORC-5464M6CAS7.547889` |  |
 
 ## Other properties
 
@@ -65,9 +31,9 @@ Table: Phase transition, Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1068 K | 1068 | polymorphic: Pr; _alloy: Pr 1_ | model | [3] Norgren 2000; _cites Saunders 1998_ | Table 1, p. 4, row 4; `ORC-NEDKG3TBPG` |  |
-| Phase transition | 1068 K | 1068 | polymorphic: Pr; _alloy: Pr 1_ | model | [3] Norgren 2000; _cites Norgren_ | Table 1, p. 4, row 3; `ORC-QBJ3L6JPWB` |  |
-| Phase transition | 1073 K | 1073 | polymorphic: Pr; _alloy: Pr 1_ | model | [3] Norgren 2000; _cites Huasen 1995_ | Table 1, p. 4, row 5; `ORC-ZKSNHDO4EN` |  |
+| Phase transition | 1068 K | 1068 | polymorphic: Pr; _alloy: Pr 1_ | model | [1] Norgren 2000; _cites Saunders 1998_ | Table 1, p. 4, row 4; `ORC-NEDKG3TBPG` |  |
+| Phase transition | 1068 K | 1068 | polymorphic: Pr; _alloy: Pr 1_ | model | [1] Norgren 2000; _cites Norgren_ | Table 1, p. 4, row 3; `ORC-QBJ3L6JPWB` |  |
+| Phase transition | 1073 K | 1073 | polymorphic: Pr; _alloy: Pr 1_ | model | [1] Norgren 2000; _cites Huasen 1995_ | Table 1, p. 4, row 5; `ORC-ZKSNHDO4EN` |  |
 
 ### Crystal structure (7)
 
@@ -75,23 +41,21 @@ Table: Crystal structure, Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.13 Å |  | (β Pr); _alloy: Pr 1_ | experimental | [4] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 13; `ORC-23BXM67U66` |  |
-| Lattice a | 3.67 Å | 298.15 | (α Pr); _alloy: Pr 1_ | experimental | [4] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12; `ORC-FS7MOC24IL.95714a` |  |
-| Lattice a | 4.13 Å | 298.15 | UNKNOWN; _alloy: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 7; `ORC-NX57FOIEHI` |  |
-| Lattice a | 3.6721 Å | 298.15 | αPr; _αPr: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8; `ORC-2AXYGHCQXN.e4aea4` |  |
-| Lattice a | 4.13 Å | 298.15 | βPra; _βPra: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 15; `ORC-HBQCN63HJU` |  |
-| Lattice b | 11.8326 Å | 298.15 | αPr; _αPr: Pr 1_ | unspecified | [5] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8; `ORC-2AXYGHCQXN.9edbc3` |  |
-| Lattice c | 11.83 Å | 298.15 | (α Pr); _alloy: Pr 1_ | experimental | [4] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12; `ORC-FS7MOC24IL.e4f35f` |  |
+| Lattice a | 4.13 Å |  | (β Pr); _alloy: Pr 1_ | experimental | [2] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 13; `ORC-23BXM67U66` |  |
+| Lattice a | 3.67 Å | 298.15 | (α Pr); _alloy: Pr 1_ | experimental | [2] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12; `ORC-FS7MOC24IL.95714a` |  |
+| Lattice a | 4.13 Å | 298.15 | UNKNOWN; _alloy: Pr 1_ | unspecified | [3] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 7; `ORC-NX57FOIEHI` |  |
+| Lattice a | 3.6721 Å | 298.15 | αPr; _αPr: Pr 1_ | unspecified | [3] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8; `ORC-2AXYGHCQXN.e4aea4` |  |
+| Lattice a | 4.13 Å | 298.15 | βPra; _βPra: Pr 1_ | unspecified | [3] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 15; `ORC-HBQCN63HJU` |  |
+| Lattice b | 11.8326 Å | 298.15 | αPr; _αPr: Pr 1_ | unspecified | [3] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8; `ORC-2AXYGHCQXN.9edbc3` |  |
+| Lattice c | 11.83 Å | 298.15 | (α Pr); _alloy: Pr 1_ | experimental | [2] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12; `ORC-FS7MOC24IL.e4f35f` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. W. Zhuang, Z. -Y. Qiao, S. Wei, J. Shen, Thermodynamic evaluation of the Cu-R (R: Ce, Pr, Nd, Sm) binary systems, JPE 17, 508-521 (1996). [doi:10.1007/bf02665998](https://doi.org/10.1007/bf02665998)
-2. M. Hampl, C. Blawert, M.R. Silva Campos, N. Hort, Q. Peng, K.U. Kainer et al., Thermodynamic assessment and experimental study of Mg–Gd alloys, Journal of Alloys and Compounds 581, 166-177 (2013). [doi:10.1016/j.jallcom.2013.07.042](https://doi.org/10.1016/j.jallcom.2013.07.042)
-3. Susanne Norgren, Thermodynamic assessment of the Ho-Tb, Ho-Dy, Ho-Er, Er-Tb, and Er-Dy systems, JPE 21, 148-156 (2000). [doi:10.1361/105497100770340200](https://doi.org/10.1361/105497100770340200)
-4. Yingbiao Peng, Yong Du, Lijun Zhang, Chunsheng Sha, Shuhong Liu, Feng Zheng et al., Thermodynamic modeling of the C–RE (RE=La, Ce and Pr) systems, Calphad 35, 533-541 (2011). [doi:10.1016/j.calphad.2011.09.002](https://doi.org/10.1016/j.calphad.2011.09.002)
-5. Peisheng Wang, Rainer Schmid-Fetzer, Thermodynamic assessment of the Mg–Pr system, Computational Materials Science 104, 138-142 (2015). [doi:10.1016/j.commatsci.2014.11.050](https://doi.org/10.1016/j.commatsci.2014.11.050)
+1. Susanne Norgren, Thermodynamic assessment of the Ho-Tb, Ho-Dy, Ho-Er, Er-Tb, and Er-Dy systems, JPE 21, 148-156 (2000). [doi:10.1361/105497100770340200](https://doi.org/10.1361/105497100770340200)
+2. Yingbiao Peng, Yong Du, Lijun Zhang, Chunsheng Sha, Shuhong Liu, Feng Zheng et al., Thermodynamic modeling of the C–RE (RE=La, Ce and Pr) systems, Calphad 35, 533-541 (2011). [doi:10.1016/j.calphad.2011.09.002](https://doi.org/10.1016/j.calphad.2011.09.002)
+3. Peisheng Wang, Rainer Schmid-Fetzer, Thermodynamic assessment of the Mg–Pr system, Computational Materials Science 104, 138-142 (2015). [doi:10.1016/j.commatsci.2014.11.050](https://doi.org/10.1016/j.commatsci.2014.11.050)
 
 ## Please cite
 

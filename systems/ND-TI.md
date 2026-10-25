@@ -1,10 +1,10 @@
 # Nd–Ti system
 
-> Nd–Ti system: 30 accepted literature values (crystal structure 12, invariant reaction 10, phase equilibrium 5, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nd–Ti system: 27 accepted literature values (crystal structure 12, invariant reaction 8, phase equilibrium 5, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ND-TI.html · Markdown: https://data.orchid-project.org/systems/ND-TI.md
 
-30 accepted literature values from 1 paper(s) (experimental 11, model 7, unspecified 12); 1 calculated phase diagram(s).
+27 accepted literature values from 1 paper(s) (experimental 9, model 6, unspecified 12); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ND-TI.json) · [CSV](https://data.orchid-project.org/systems/ND-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-TI/NdTi-14Mat.json) · [phases (5)](https://data.orchid-project.org/phases/pages/ND-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-TI.html) · [Markdown](https://data.orchid-project.org/systems/ND-TI.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 7 |
+| experimental | 9 |
+| model | 6 |
 | unspecified | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 10 |
-| phase transition | 3 |
+| invariant reaction | 8 |
+| phase transition | 2 |
 | phase equilibrium | 5 |
 | crystal structure | 12 |
 
@@ -48,24 +48,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Nd–Ti system (10)
+Table: Invariant reactions reported in the literature for the Nd–Ti system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1840 | L2 -> L1 + bcc-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 2; `ORC-DAZZMHBXYL` |  |
-| 1821 | L2 -> L1 + bcc-Ti | L2: Ti 0.9278; L1: Ti 0.0896; bcc-Ti: Ti 0.9969 | model | [1] Mattern 2014 | Table 5, p. 7, row 1; `ORC-DQTDDWI3S2` |  |
-| 1286 | L1 -> bcc-Nd + bcc-Ti | L1: Ti 0.0031; bcc-Nd: Ti 0.0014; bcc-Ti: Ti 0.9993 | model | [1] Mattern 2014 | Table 5, p. 7, row 3; `ORC-UQUVLD2TZR` |  |
-| 1278 | L1 -> bcc-Nd + bcc-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 4; `ORC-22JFYWBEE3` |  |
+| 1840 | monotectic: L2 -> L1 + bcc-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 2; `ORC-DAZZMHBXYL` |  |
+| 1821 | monotectic: L2 -> L1 + bcc-Ti | L2: Ti 0.9278; L1: Ti 0.0896; bcc-Ti: Ti 0.9969 | model | [1] Mattern 2014 | Table 5, p. 7, row 1; `ORC-DQTDDWI3S2` |  |
+| 1286 | eutectic: L1 -> bcc-Nd + bcc-Ti | L1: Ti 0.0031; bcc-Nd: Ti 0.0014; bcc-Ti: Ti 0.9993 | model | [1] Mattern 2014 | Table 5, p. 7, row 3; `ORC-UQUVLD2TZR` |  |
+| 1278 | eutectic: L1 -> bcc-Nd + bcc-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 4; `ORC-22JFYWBEE3` |  |
 | 1163 | bcc-Nd + bcc-Ti -> hcp-Ti | bcc-Nd: Ti 8.000e-4; bcc-Ti: Ti 0.9996; hcp-Ti: Ti 0.9966 | model | [1] Mattern 2014 | Table 5, p. 7, row 5; `ORC-RZOT2RH7FP` |  |
-| 1160 | peritectoid: bcc-Nd(Ti) + bcc-Ti(Nd) -> hcp-Ti |  | experimental | [1] Mattern 2014 | p. 3; `ORC-57FQD3LPED` | “At T1⁄4 1160 K, DSC event (2), the peritectoid reaction bcc-Nd (Ti) þbcc-Ti(Nd)2hcp-Ti takes place.” |
 | 1160 | bcc-Nd + bcc-Ti -> hcp-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 6; `ORC-QRMTVTXKPP` |  |
 | 1127 | bcc-Nd -> dhcp-Nd + hcp-Ti | bcc-Nd: Ti 7.000e-4; dhcp-Nd: Ti 3.000e-4; hcp-Ti: Ti 0.9969 | model | [1] Mattern 2014 | Table 5, p. 7, row 7; `ORC-IGH2J6INL5` |  |
 | 1126 | bcc-Nd -> dhcp-Nd + hcp-Ti |  | experimental | [1] Mattern 2014 | Table 5, p. 7, row 8; `ORC-OZ7XZDSCLL` |  |
-| 1026 | eutectoid: bcc-Nd -> dhcp-Nd + hcp-Ti |  | experimental | [1] Mattern 2014 | p. 3; `ORC-Y7RCKNEQYO` | “The reaction (1) of the DSC curve at T1⁄4 1026 K corresponds to the eutectoid transformation bcc-Nd2dhcp-Nd þhcp-Ti.” |
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, Nd–Ti system
 
@@ -73,7 +71,6 @@ Table: Phase transition, Nd–Ti system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1140 K | 1140 | polymorphic: dhcp-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 2; `ORC-ASRMDCSUMC` |  |
 | Phase transition | 1294 K | 1294 | congruent transformation: bcc-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 1; `ORC-2U6VHRW42C` |  |
-| Phase transition | 2120 K | 2120 | other | model | [1] Mattern 2014 | p. 7; `ORC-D6VIR2LCXE` | “The calculated coordinates of the miscibility gap critical point are 2120 K and 52.32 at%Ti.” |
 
 ### Phase equilibrium (5)
 

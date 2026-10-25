@@ -1,10 +1,10 @@
 # Cr–Sn system
 
-> Cr–Sn system: 6 accepted literature values (invariant reaction 4, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Sn system: 4 accepted literature values (invariant reaction 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-SN.html · Markdown: https://data.orchid-project.org/systems/CR-SN.md
 
-6 accepted literature values from 1 paper(s) (experimental 1, model 1, unspecified 4); 3 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (unspecified 4); 3 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-SN.json) · [CSV](https://data.orchid-project.org/systems/CR-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-SN/CrSn-01Jer-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-SN.html) · [Markdown](https://data.orchid-project.org/systems/CR-SN.md)
 
@@ -12,8 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 1 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -21,7 +19,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 4 |
-| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -59,17 +56,6 @@ Table: Invariant reactions reported in the literature for the Cr–Sn system (4)
 | 1647.15 | monotectic: L2 -> L1 + CrBCC | L2: Sn 0.227; L1: Sn 0.555; CrBCC: Sn 0.02 | unspecified | [1] Pérez 2001; _cites ref. 69Pre_ | Table 1, p. 2, row 2; `ORC-JEHUUOBRGC` |  |
 | 505.15 | eutectic: L1 -> SnBCT + CrBCC | L1: Sn 1; SnBCT: Sn 1; CrBCC: Sn 0.015 | unspecified | [1] Pérez 2001; _cites ref. 88Ven_ | Table 1, p. 2, row 4; `ORC-5TTXDC3KTU` |  |
 | 505.15 | eutectic: L1 -> SnBCT + CrBCC | L1: Sn 1; SnBCT: Sn 1; CrBCC: Sn 0.015 | unspecified | [1] Pérez 2001; _cites ref. 08Hin_ | Table 1, p. 2, row 3; `ORC-EA5ODB3KPK` |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Cr–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1625 K | 1625 | other | model | [1] Pérez 2001 | p. 5; `ORC-GWKOVIMCQK` | “The calculated monotectic temperature is 1625 K, and the composition at the Cr-rich side of the miscibility gap is 64 at.% .” |
-| Phase transition | 1647 K | 1647 | other | experimental | [1] Pérez 2001; _cites ref. 69Pre_ | p. 5; `ORC-LEQTF7ZFAS` | “The corresponding experimental values are 1647 K, and 77 at.% Cr \[69Pre\].” |
 
 ## Sources
 

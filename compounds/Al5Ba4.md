@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of Al5Ba4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -44.47 | kJ/mol-atom |  | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -44.47 | kJ/mol-atom |  | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -44.47 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -50.94 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -48.16 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -22.928 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -22.927 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -22.927 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

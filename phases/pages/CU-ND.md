@@ -14,17 +14,17 @@ Table: Phases of the Cu–Nd system (13)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cu-nd-bcc-a2); _phase:cu-nd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1122.02–2499.66 K, x(Nd) 0.99828–1 | 0 | 3 |
 | [CU2ND](#phase-cu-nd-cu2nd); _phase:cu-nd:cu2nd_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1111.24 K, x(Nd) 0.33333–0.33333 | 9 | 3 |
-| [CU4ND](#phase-cu-nd-cu4nd); _phase:cu-nd:cu4nd_ | CeCu4 · oP20 · Pnnm (58) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1098.63 K, x(Nd) 0.2–0.2 | 3 | 3 |
+| [CU4ND](#phase-cu-nd-cu4nd); _phase:cu-nd:cu4nd_ | CeCu4 · oP20 · Pnnm (58) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1098.63 K, x(Nd) 0.2–0.2 | 4 | 3 |
 | [CU5ND_D2D](#phase-cu-nd-cu5nd-d2d); _phase:cu-nd:cu5nd-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1121.42 K, x(Nd) 0.16667–0.16667 | 4 | 3 |
 | [CU6ND](#phase-cu-nd-cu6nd); _phase:cu-nd:cu6nd_ | CeCu6 · oP28 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1223.18 K, x(Nd) 0.14286–0.14286 | 9 | 3 |
-| [CU7ND2](#phase-cu-nd-cu7nd2); _phase:cu-nd:cu7nd2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1069.48–1096.08 K, x(Nd) 0.22222–0.22222 | 0 | 2 |
+| [CU7ND2](#phase-cu-nd-cu7nd2); _phase:cu-nd:cu7nd2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1069.48–1096.08 K, x(Nd) 0.22222–0.22222 | 1 | 2 |
 | [CUND](#phase-cu-nd-cund); _phase:cu-nd:cund_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–889.29 K, x(Nd) 0.5–0.5 | 2 | 1 |
 | [CUND_B2](#phase-cu-nd-cund-b2); _phase:cu-nd:cund-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 742.76–947.59 K, x(Nd) 0.5–0.5 | 0 | 2 |
 | [CUND_B27](#phase-cu-nd-cund-b27); _phase:cu-nd:cund-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–743 K, x(Nd) 0.5–0.5 | 2 | 2 |
 | [DHCP](#phase-cu-nd-dhcp-a3); _phase:cu-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1288.41 K, x(Nd) 1–1 | 0 | 3 |
 | [FCC_A1](#phase-cu-nd-fcc-a1); _phase:cu-nd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1401.61 K, x(Nd) 0–0.00046 | 1 | 3 |
 | [HCP_A3](#phase-cu-nd-hcp-a3); _phase:cu-nd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [LIQUID](#phase-cu-nd-liquid); _phase:cu-nd:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Nd) 0–1 | 9 | 3 |
+| [LIQUID](#phase-cu-nd-liquid); _phase:cu-nd:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Nd) 0–1 | 10 | 3 |
 
 ## BCC_A2 (Cu–Nd)
 
@@ -130,7 +130,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.8000, Nd 0.2000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1098.63 K, x(Nd) 0.2–0.2
-- Literature: 3 values (3 accepted) from 2 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-nd:cu4nd)
 
 Names (6): _corpus: _corpus:phase:cu-nd:cu4nd  
@@ -280,10 +280,11 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (Cu7Nd2) — Hallstedt 2025 mmc2 row for CU7ND2: Cu7Nd2
 - Stoichiometry: Cu 0.7778, Nd 0.2222
 - Stability: stable in 2 of 2 calculated diagram(s): 1069.48–1096.08 K, x(Nd) 0.22222–0.22222
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-nd:cu7nd2)
 
-Names (3): _corpus: _corpus:phase:cu-nd:cu7nd2  
+Names (4): _corpus: _corpus:phase:cu-nd:cu7nd2  
+_paper: _paper:10.1016/j.jallcom.2010.11.160:Cu7Nd2  
 _tdb: _tdb:CuNd-11Wan.tdb:CU7ND2, tdb:CuNd-96Du.tdb:CU7ND2  
 
 
@@ -303,12 +304,14 @@ _tdb: _tdb:CuNd-11Wan.tdb:CU7ND2, tdb:CuNd-96Du.tdb:CU7ND2
 68: CONST CU7ND2 : CU : ND : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
+- [doi:10.1016/j.jallcom.2010.11.160](https://doi.org/10.1016/j.jallcom.2010.11.160) Peisheng Wang, Liangcai Zhou, Yong Du, Honghui Xu, Shuhong Liu, Li Chen et al., Thermodynamic optimization of the Cu–Nd system, Journal of Alloys and Compounds 509, 2679-2683 (2011).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/1359-6462(96)00033-4](https://doi.org/10.1016/1359-6462%2896%2900033-4) Yong Du, Narcís Clavaguera, Thermodynamic assessment of the Cu-Nd system, Scripta Materialia 34, 1609-1613 (1996).  
 _assessment that models this phase_
-- [doi:10.1016/j.jallcom.2010.11.160](https://doi.org/10.1016/j.jallcom.2010.11.160) Peisheng Wang, Liangcai Zhou, Yong Du, Honghui Xu, Shuhong Liu, Li Chen et al., Thermodynamic optimization of the Cu–Nd system, Journal of Alloys and Compounds 509, 2679-2683 (2011).  
-_assessment that models this phase_
+- [doi:10.1016/0022-5088(83)90230-8](https://doi.org/10.1016/0022-5088%2883%2990230-8) M.M. Carnasciali, G.A. Costa, E.A. Franceschi, Phase equilibria in the Nd-Cu system, Journal of the Less Common Metals 92, 97-103 (1983).  
+_cited as the source of values for this phase_
 
 ## CUND (Cu–Nd)
 
@@ -553,11 +556,11 @@ _assessment that models this phase_
 - Id: `phase:cu-nd:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Nd) 0–1
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-nd:liquid)
 
-Names (5): _corpus: _corpus:phase:cu-nd:liquid  
-_paper: _paper:10.1007/bf02665998:L  
+Names (6): _corpus: _corpus:phase:cu-nd:liquid  
+_paper: _paper:10.1007/bf02665998:L, paper:10.1016/j.jallcom.2010.11.160:liquid  
 _tdb: _tdb:CuNd-11Wan.tdb:LIQUID, tdb:CuNd-96Du.tdb:LIQUID, tdb:CuNd-96Zhu.tdb:LIQUID  
 
 
@@ -584,14 +587,16 @@ _tdb: _tdb:CuNd-11Wan.tdb:LIQUID, tdb:CuNd-96Du.tdb:LIQUID, tdb:CuNd-96Zhu.tdb:L
 23: CONST LIQUID:L : CU ND : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/BF02665998](https://doi.org/10.1007/BF02665998) W. Zhuang, Z.-Y. Qiao, S. Wei, J. Shen, J. Phase Equilib., 17, 508-21(1996).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2010.11.160](https://doi.org/10.1016/j.jallcom.2010.11.160) Peisheng Wang, Liangcai Zhou, Yong Du, Honghui Xu, Shuhong Liu, Li Chen et al., Thermodynamic optimization of the Cu–Nd system, Journal of Alloys and Compounds 509, 2679-2683 (2011).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/1359-6462(96)00033-4](https://doi.org/10.1016/1359-6462%2896%2900033-4) Yong Du, Narcís Clavaguera, Thermodynamic assessment of the Cu-Nd system, Scripta Materialia 34, 1609-1613 (1996).  
 _assessment that models this phase_
-- [doi:10.1016/j.jallcom.2010.11.160](https://doi.org/10.1016/j.jallcom.2010.11.160) Peisheng Wang, Liangcai Zhou, Yong Du, Honghui Xu, Shuhong Liu, Li Chen et al., Thermodynamic optimization of the Cu–Nd system, Journal of Alloys and Compounds 509, 2679-2683 (2011).  
-_assessment that models this phase_
+- [doi:10.1016/0022-5088(83)90230-8](https://doi.org/10.1016/0022-5088%2883%2990230-8) M.M. Carnasciali, G.A. Costa, E.A. Franceschi, Phase equilibria in the Nd-Cu system, Journal of the Less Common Metals 92, 97-103 (1983).  
+_cited as the source of values for this phase_
 
 ## Please cite
 

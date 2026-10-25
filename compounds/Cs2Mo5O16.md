@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Cs2Mo5O16
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -200.074 | kJ/mol-atom | 1.62 | 0.002174 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -200.074 | kJ/mol-atom | 1.62 | 0.002174 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -200.074 | kJ/mol-atom | 0.2591 | 0.002174 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -199.357 | kJ/mol-atom |  | 0.002174 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 

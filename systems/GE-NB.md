@@ -1,10 +1,10 @@
 # Ge–Nb system
 
-> Ge–Nb system: 51 accepted literature values (invariant reaction 33, formation 10, phase equilibrium 5, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Nb system: 45 accepted literature values (invariant reaction 30, formation 10, phase equilibrium 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-NB.html · Markdown: https://data.orchid-project.org/systems/GE-NB.md
 
-51 accepted literature values from 2 paper(s) (experimental 25, model 21, DFT 5); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+45 accepted literature values from 2 paper(s) (experimental 21, model 19, DFT 5); 2 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NB.json) · [CSV](https://data.orchid-project.org/systems/GE-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-NB/GeNb-11Gen.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GE-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-NB.html) · [Markdown](https://data.orchid-project.org/systems/GE-NB.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 21 |
+| experimental | 21 |
+| model | 19 |
 | DFT | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 33 |
-| phase transition | 3 |
+| invariant reaction | 30 |
 | phase equilibrium | 5 |
 | formation | 10 |
 
@@ -54,7 +53,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Nb system (33)
+Table: Invariant reactions reported in the literature for the Ge–Nb system (30)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -79,7 +78,6 @@ Table: Invariant reactions reported in the literature for the Ge–Nb system (33
 | 1953.15 | congruent melting: L \<-> (NbGe2) | L: Ge 0.67; (NbGe2): Ge 0.67 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 21; `ORC-IDT7SE6OQN` |  |
 | 1953.15 | congruent melting: L \<-> (NbGe2) | L: Ge 0.665; (NbGe2): Ge 0.665 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 22; `ORC-LIAFV7OPM3` |  |
 | 1953.15 | congruent melting: L \<-> (NbGe2) | L: Ge 0.667; (NbGe2): Ge 0.667 | model | [1] Geng 2011 | Table 1, p. 2, row 24; `ORC-SNVHF6K5L6` |  |
-| 1866.15 | eutectic: L ↔ (Nb5 Ge3 ) + (NbGe2 ) |  | experimental | [1] Geng 2011; _cites Feschotte 1979_ | p. 1; `ORC-6L3KJCJBAH.d53db1` | “Feschotte et al. \[10\] measured and estimated the homogeneity ranges of the phases in the Nb-Ge phase diagram in the temperature range from 600 to 1050 ◦ C and also determined the temperatures of the eutectic reactions L ↔ (Nb5 Ge3 ) + (NbGe2 ) at 1593 ◦ C and L ↔ (NbGe2 ) + Diamond-(Ge) at 937 ◦ C respectively.” |
 | 1863.15 | eutectic: L \<-> (Nb5Ge3) + (NbGe2) | (Nb5Ge3): Ge 0.375, Nb 0.625; (NbGe2): Ge 0.666667, Nb 0.333333 | experimental | [1] Geng 2011; _cites Feschotte 1979_ | Table 1, p. 2, row 18; `ORC-TYXFK3ZI7Y` |  |
 | 1863.15 | eutectic: L \<-> (Nb3Ge2) + (NbGe2) | L: Ge 0.6; (Nb3Ge2): Ge 0.444; (NbGe2): Ge 0.668 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 16; `ORC-VGZL7VQLSU` |  |
 | 1862.55 | eutectic: L \<-> (Nb5Ge3) + (NbGe2) | L: Ge 0.58; (Nb5Ge3): Ge 0.43; (NbGe2): Ge 0.66 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 20; `ORC-36L33LSM5F` |  |
@@ -87,9 +85,7 @@ Table: Invariant reactions reported in the literature for the Ge–Nb system (33
 | 1853.15 | eutectic: L \<-> (Nb5Ge3) + (NbGe2) | L: Ge 0.592; (Nb5Ge3): Ge 0.444; (NbGe2): Ge 0.662 | experimental | [1] Geng 2011; _cites Jorda 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990013-9) | Table 1, p. 2, row 19; `ORC-I5ZX7GPXRO` |  |
 | 1223.15 | peritectic: L + (NbGe2) \<-> Diamond-(Ge) | L: Ge 1; (NbGe2): Ge 0.687; Diamond-(Ge): Ge 0.999 | model | [1] Geng 2011; _cites Okamoto 2000_ | Table 1, p. 2, row 28; `ORC-IH2ZJLDNKW` |  |
 | 1223.15 | peritectic: L + (NbGe2) \<-> Diamond-(Ge) | L: Ge 1; (NbGe2): Ge 0.687; Diamond-(Ge): Ge 0.999 | experimental | [1] Geng 2011; _cites Pan 1970_ | Table 1, p. 2, row 27; `ORC-MNQP6VB6A7` |  |
-| 1210.95 | eutectic |  | model | [1] Geng 2011 | p. 9; `ORC-67LGPKM6D5` | “The optimized eutectic reaction at (99.5 at.% Ge, 937.8 ◦ C) agrees with the experimental data measured by Feschotte et al. \[10\].” |
 | 1210.95 | eutectic: L \<-> (NbGe2) + Diamond-(Ge) | L: Ge 0.995; (NbGe2): Ge 0.672; Diamond-(Ge): Ge 0.997 | model | [1] Geng 2011 | Table 1, p. 2, row 26; `ORC-FJX4VC5UYE` |  |
-| 1210.15 | eutectic: L ↔ (NbGe2 ) + Diamond-(Ge) |  | experimental | [1] Geng 2011; _cites Feschotte 1979_ | p. 1; `ORC-6L3KJCJBAH.75cc01` | “Feschotte et al. \[10\] measured and estimated the homogeneity ranges of the phases in the Nb-Ge phase diagram in the temperature range from 600 to 1050 ◦ C and also determined the temperatures of the eutectic reactions L ↔ (Nb5 Ge3 ) + (NbGe2 ) at 1593 ◦ C and L ↔ (NbGe2 ) + Diamond-(Ge) at 937 ◦ C respectively.” |
 | 1210.15 | eutectic: L \<-> (NbGe2) + Diamond-(Ge) | L: Ge 1; (NbGe2): Ge 0.674; Diamond-(Ge): Ge 0.999 | experimental | [1] Geng 2011; _cites Feschotte 1979_ | Table 1, p. 2, row 25; `ORC-COMSS7SABO` |  |
 
 ## Formation enthalpies
@@ -112,16 +108,6 @@ Table: Enthalpies of formation, Ge–Nb system (10)
 | NbGe2 |  | -33.24 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Utton 2017 | Table 2, p. 6, row 18; `ORC-F26YTWXCHO` |  |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Ge–Nb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1211.45 K | 1211.45 |  | experimental | [1] Geng 2011 | p. 6; `ORC-SCGUQSK6QJ.9af676` | “In the Nb-Ge system, the melting point of Ge (938.3 ◦ C) is much lower than that of Nb (2469 ◦ C).” |
-| Phase transition | 2313.15 K | 2313.15 |  | model | [1] Geng 2011 | p. 6; `ORC-TUWTQMUIWK` | “The calculated incongruent melting point (2040 ◦ C, 41 at.% Ge) of the (Nb3 Ge2 ) phase agrees well with the experimental data \[7\] and the calculated homogeneity range (41-42.9 at.% Ge) at 1100 ◦ C is slightly larger than the experimental data (41.6-42 at.% Ge) \[21\].” |
-| Phase transition | 2742.15 K | 2742.15 |  | experimental | [1] Geng 2011 | p. 6; `ORC-SCGUQSK6QJ.751567` | “In the Nb-Ge system, the melting point of Ge (938.3 ◦ C) is much lower than that of Nb (2469 ◦ C).” |
 
 ### Phase equilibrium (5)
 

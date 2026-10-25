@@ -58,14 +58,14 @@ Table: Invariant reactions reported in the literature for the Ag–Sr system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1021 | Liq -> fccAg + Ag5Sr | L: Sr 0.113; Ag5Sr: Sr 0.166667 | model | [1] Liu 2006 | Table 2, p. 3, row 1; `ORC-PTSZTIH3H6` |  |
-| 1020 | Liq -> fccAg + Ag5Sr | L: Sr 0.108; Ag5Sr: Sr 0.166667 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 2; `ORC-5TRTBUV2TW` |  |
+| 1021 | eutectic: Liq -> fccAg + Ag5Sr | L: Sr 0.113; Ag5Sr: Sr 0.166667 | model | [1] Liu 2006 | Table 2, p. 3, row 1; `ORC-PTSZTIH3H6` |  |
+| 1020 | eutectic: Liq -> fccAg + Ag5Sr | L: Sr 0.108; Ag5Sr: Sr 0.166667 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 2; `ORC-5TRTBUV2TW` |  |
 | 986 | Liq + Ag5Sr -> Ag4Sr | L: Sr 0.236; Ag5Sr: Sr 0.166667; Ag4Sr: Sr 0.2 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 6; `ORC-62A2JBCTVV` |  |
 | 986 | Liq + Ag5Sr -> Ag4Sr | L: Sr 0.253; Ag5Sr: Sr 0.166667; Ag4Sr: Sr 0.2 | model | [1] Liu 2006 | Table 2, p. 3, row 5; `ORC-AKJ2I5URVB` |  |
-| 975 | Liq -> Ag4Sr + Ag2Sr | L: Sr 0.262; Ag4Sr: Sr 0.2; Ag2Sr: Sr 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 7; `ORC-GUFYEJQOWP` |  |
-| 959 | Liq -> Ag4Sr + Ag2Sr | L: Sr 0.27; Ag4Sr: Sr 0.2; Ag2Sr: Sr 0.333333 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 8; `ORC-2NY3MQ5HYH` |  |
-| 911 | Liq -> Ag2Sr + AgSr | L: Sr 0.45; Ag2Sr: Sr 0.333333; AgSr: Sr 0.5 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 12; `ORC-AYJVYI6RXI` |  |
-| 911 | Liq -> Ag2Sr + AgSr | L: Sr 0.449; Ag2Sr: Sr 0.333333; AgSr: Sr 0.5 | model | [1] Liu 2006 | Table 2, p. 3, row 11; `ORC-F2QOZJHQ4C` |  |
+| 975 | eutectic: Liq -> Ag4Sr + Ag2Sr | L: Sr 0.262; Ag4Sr: Sr 0.2; Ag2Sr: Sr 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 7; `ORC-GUFYEJQOWP` |  |
+| 959 | eutectic: Liq -> Ag4Sr + Ag2Sr | L: Sr 0.27; Ag4Sr: Sr 0.2; Ag2Sr: Sr 0.333333 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 8; `ORC-2NY3MQ5HYH` |  |
+| 911 | eutectic: Liq -> Ag2Sr + AgSr | L: Sr 0.45; Ag2Sr: Sr 0.333333; AgSr: Sr 0.5 | experimental | [1] Liu 2006; _cites Olson 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900041-4) | Table 2, p. 3, row 12; `ORC-AYJVYI6RXI` |  |
+| 911 | eutectic: Liq -> Ag2Sr + AgSr | L: Sr 0.449; Ag2Sr: Sr 0.333333; AgSr: Sr 0.5 | model | [1] Liu 2006 | Table 2, p. 3, row 11; `ORC-F2QOZJHQ4C` |  |
 
 ## Other properties
 

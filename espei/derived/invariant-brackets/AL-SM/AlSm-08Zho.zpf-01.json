@@ -111,7 +111,7 @@
     "x0": 0.03,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> fcc + α",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -130,7 +130,7 @@
     "x0": 0.03,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq -> fcc + α",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

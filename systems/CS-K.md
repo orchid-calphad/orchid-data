@@ -1,24 +1,12 @@
 # Cs–K system
 
-> Cs–K system: 1 accepted literature values (phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cs–K system: 0 accepted literature values (none) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CS-K.html · Markdown: https://data.orchid-project.org/systems/CS-K.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 2 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CS-K.json) · [CSV](https://data.orchid-project.org/systems/CS-K.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-K) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-K/CsK-11Ren.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CS-K.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-K.html) · [Markdown](https://data.orchid-project.org/systems/CS-K.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -32,22 +20,6 @@ Table: Assessments with a calculated phase diagram
 | CsK-85Pot-LB.tdb | P.E. Potter, M.H. Rand, in: Handbook of Thermodynamic and Transport Properties of Alkali Metals, R.W. Ohse (Ed.), Blackwell Sci. Publ., 1985. | `a4e0ff873a0918db6b0ee3d064826059065884782a81d5911486bf17b7cc4b47` | [viewer](https://orchid-project.org/phase-diagrams/#CS-K/CsK-85Pot-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CsK-85Pot-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CsK-85Pot-LB.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CS/CS-K.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CS/CS-K.json) · [CALPHAD hull CsK-85Pot-LB](https://data.orchid-project.org/hulls/calphad-sgte/CS/CS-K--CsK-85Pot-LB.json)
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Cs–K system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 185 K | 185 | other | experimental | [1] Ren 2011; _cites Steinberg 1981_ [doi](https://doi.org/10.1016/0022-3697%2881%2990006-8) | p. 1; `ORC-AGIUW6XXNP` | “For the Cs-K binary system, Steinberg et al. \[16\] observed a phase separation below 185 K, which is taken as the critical temperature for the present assessment.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Xin Ren, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic assessments of six binary systems of alkali metals, Calphad 35, 446-454 (2011). [doi:10.1016/j.calphad.2011.06.005](https://doi.org/10.1016/j.calphad.2011.06.005)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Co–Sb system
 
-> Co–Sb system: 52 accepted literature values (invariant reaction 47, phase transition 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Sb system: 41 accepted literature values (invariant reaction 40, phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-SB.html · Markdown: https://data.orchid-project.org/systems/CO-SB.md
 
-52 accepted literature values from 2 paper(s) (experimental 37, model 10, unspecified 5); 4 calculated phase diagram(s).
+41 accepted literature values from 2 paper(s) (experimental 30, model 6, unspecified 5); 4 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-SB.json) · [CSV](https://data.orchid-project.org/systems/CO-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SB/CoSb-08Zha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CO-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-SB.html) · [Markdown](https://data.orchid-project.org/systems/CO-SB.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
-| model | 10 |
+| experimental | 30 |
+| model | 6 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 47 |
-| phase transition | 5 |
+| invariant reaction | 40 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -79,7 +79,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Sb system (47)
+Table: Invariant reactions reported in the literature for the Co–Sb system (40)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -91,7 +91,6 @@ Table: Invariant reactions reported in the literature for the Co–Sb system (47
 | 1468 | congruent melting: Liq ↔ (βCoSb) | Liq: Co 0.5, Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 14; `ORC-Y6MLDMK6M7` |  |
 | 1466 | congruent melting: Liq ↔ (βCoSb) | Liq: Co 0.5, Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 12; `ORC-YY223MSJR7` |  |
 | 1463 | congruent melting: Liq ↔ (βCoSb) | Liq: Co 0.5, Sb 0.5; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 13; `ORC-LIFS7ZKISC` |  |
-| 1391 | eutectic |  | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | p. 1; `ORC-4F7S6LGPPB.c3a01c` | “Hanninger \[12\] measured four invariant arrests by DTA including the eutectic reaction between (αCo) and (βCoSb) at 1391 K, the peritectic decomposition of CoSb2 at 1209 K, the peritectic decomposition of δCoSb3 at 1147 K and the eutectic reaction between δCoSb3 and (Sb) at 902 K, and also determined the congruent point at 47 ± 0.5 at.% Sb and 1493 ± 5 K and the homogeneity range of (βCoSb).” |
 | 1391 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.236; (αCo): Sb 0.065; (βCoSb): Sb 0.496 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 3; `ORC-FSPWQCKXFA` |  |
 | 1391 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.28; (βCoSb): Sb 0.435 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 7; `ORC-I6SYH32U4R` |  |
 | 1391 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.2537; (αCo): Sb 0.038; (βCoSb): Sb 0.462 | model | [1] Zhang 2008 | Table 1, p. 2, row 11; `ORC-ZVEGSROJFH` |  |
@@ -101,9 +100,7 @@ Table: Invariant reactions reported in the literature for the Co–Sb system (47
 | 1375 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.252; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 5; `ORC-A7ZYJWMX23` |  |
 | 1370 | eutectic: Liq ↔ (αCo) + (βCoSb) | (αCo): Sb 0.048; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.5_177) | Table 1, p. 2, row 8; `ORC-424CYYSUX2` |  |
 | 1366 | eutectic: Liq ↔ (αCo) + (βCoSb) | Liq: Sb 0.233; (βCoSb): Co 0.5, Sb 0.5 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 4; `ORC-KOUVMJKNMP` |  |
-| 1209.15 | peritectic: liquid + CoSb -> CoSb2 |  | model | [2] Gierlotka 2019; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.11.001) | p. 3; `ORC-YIEATHEBMQ.006a0d` | “The first peritectic reaction liquid + CoSb M CoSb2 is at 936 °C, the second peritectic reaction liquid + CoSb2 M CoSb3 is at 874 °C, and then the eutectic reaction liquid, M CoSb3 + Sb, is at 629 °C.\[16\]” |
 | 1209 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.86; (βCoSb): Sb 0.525; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645725) | Table 1, p. 2, row 20; `ORC-3KZ3MV7EC6` |  |
-| 1209 | peritectic |  | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | p. 1; `ORC-4F7S6LGPPB.88aa3c` | “Hanninger \[12\] measured four invariant arrests by DTA including the eutectic reaction between (αCo) and (βCoSb) at 1391 K, the peritectic decomposition of CoSb2 at 1209 K, the peritectic decomposition of δCoSb3 at 1147 K and the eutectic reaction between δCoSb3 and (Sb) at 902 K, and also determined the congruent point at 47 ± 0.5 at.% Sb and 1493 ± 5 K and the homogeneity range of (βCoSb).” |
 | 1209 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | (βCoSb): Sb 0.525; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 25; `ORC-LWB625NHTM` |  |
 | 1209 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.8926; (βCoSb): Sb 0.5253; γCoSb2: Sb 0.667 | model | [1] Zhang 2008 | Table 1, p. 2, row 28; `ORC-YONQL2GXBC` |  |
 | 1204 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | Table 1, p. 2, row 27; `ORC-VG52FTMIDA` |  |
@@ -114,15 +111,11 @@ Table: Invariant reactions reported in the literature for the Co–Sb system (47
 | 1167 | peritectic: Liq + (βCoSb) ↔ γCoSb2 | Liq: Sb 0.83; (βCoSb): Co 0.5, Sb 0.5; γCoSb2: Sb 0.667 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 23; `ORC-OTIZOR4GE7` |  |
 | 1149 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | Table 1, p. 2, row 33; `ORC-FYQCIGCSVV` |  |
 | 1149 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Ishida 1990_ [doi](https://doi.org/10.1007/bf03029292) | Table 1, p. 2, row 32; `ORC-PFOCATOV2X` |  |
-| 1147.15 | peritectic: liquid + CoSb2 -> CoSb3 |  | model | [2] Gierlotka 2019; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.11.001) | p. 3; `ORC-YIEATHEBMQ.6f649b` | “The first peritectic reaction liquid + CoSb M CoSb2 is at 936 °C, the second peritectic reaction liquid + CoSb2 M CoSb3 is at 874 °C, and then the eutectic reaction liquid, M CoSb3 + Sb, is at 629 °C.\[16\]” |
-| 1147 | peritectic |  | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | p. 1; `ORC-4F7S6LGPPB.2a7bda` | “Hanninger \[12\] measured four invariant arrests by DTA including the eutectic reaction between (αCo) and (βCoSb) at 1391 K, the peritectic decomposition of CoSb2 at 1209 K, the peritectic decomposition of δCoSb3 at 1147 K and the eutectic reaction between δCoSb3 and (Sb) at 902 K, and also determined the congruent point at 47 ± 0.5 at.% Sb and 1493 ± 5 K and the homogeneity range of (βCoSb).” |
 | 1147 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 30; `ORC-GVIQOANNLT` |  |
 | 1147 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9531; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | model | [1] Zhang 2008 | Table 1, p. 2, row 34; `ORC-NLR2ZRHGYS` |  |
 | 1146 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 29; `ORC-2JFAE6GEBI` |  |
 | 1132 | peritectic: Liq + γCoSb2 ↔ δCoSb3 | Liq: Sb 0.9; γCoSb2: Sb 0.667; δCoSb3: Sb 0.75 | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 31; `ORC-LIHQGMPU7O` |  |
 | 903.7 | eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 0.9998; δCoSb3: Sb 0.75 | model | [1] Zhang 2008 | Table 1, p. 2, row 42; `ORC-OBBBIPOMKH` |  |
-| 902.15 | eutectic: liquid -> CoSb3 + Sb |  | model | [2] Gierlotka 2019; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.11.001) | p. 3; `ORC-YIEATHEBMQ.36b811` | “The first peritectic reaction liquid + CoSb M CoSb2 is at 936 °C, the second peritectic reaction liquid + CoSb2 M CoSb3 is at 874 °C, and then the eutectic reaction liquid, M CoSb3 + Sb, is at 629 °C.\[16\]” |
-| 902 | eutectic |  | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | p. 1; `ORC-4F7S6LGPPB.c570a5` | “Hanninger \[12\] measured four invariant arrests by DTA including the eutectic reaction between (αCo) and (βCoSb) at 1391 K, the peritectic decomposition of CoSb2 at 1209 K, the peritectic decomposition of δCoSb3 at 1147 K and the eutectic reaction between δCoSb3 and (Sb) at 902 K, and also determined the congruent point at 47 ± 0.5 at.% Sb and 1493 ± 5 K and the homogeneity range of (βCoSb).” |
 | 902 | eutectic: Liq ↔ δCoSb3 + (Sb) | δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Hannninger 1990_ | Table 1, p. 2, row 39; `ORC-ZIVQ5GWDFY` |  |
 | 898 | eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 1; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Lossew 1911_ | Table 1, p. 2, row 36; `ORC-77MUYQHZQU` |  |
 | 896 | eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 1; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Ishida 1990_ [doi](https://doi.org/10.1007/bf03029292) | Table 1, p. 2, row 41; `ORC-7M5N47U3H4` |  |
@@ -133,17 +126,13 @@ Table: Invariant reactions reported in the literature for the Co–Sb system (47
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (1)
 
 Table: Phase transition, Co–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 650 K | 650 | polymorphic | experimental | [1] Zhang 2008; _cites Kjekshus 1977_ [doi](https://doi.org/10.3891/acta.chem.scand.31a-0517) | p. 2; `ORC-GE4DPSR5VU` | “Kjekshus and Rakke \[22\] investigated the thermal stability of CoSb2 by XRD and DTA and determined the polymorphic transformation from γ CoSb2 to γ 'CoSb2 at 650 K.” |
-| Phase transition | 695 K | 695 | other: (αCo) ↔ (εCo) | experimental | [1] Zhang 2008; _cites Haschimoto 1937_ [doi](https://doi.org/10.2320/jinstmet1937.1.5_177) | p. 4; `ORC-IWPMH7NXQD` | “The (αCo) ↔ (εCo) was determined by Haschimoto \[13\] as martensitic transformation about Ms = 695 K.” |
 | Phase transition | 1209 K | 1209 | CoSb + Liquid = CoSb2 | model | [2] Gierlotka 2019; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.11.001) | p. 10; `ORC-DARHFL6FDA` | “It should also be mentioned that according to Zhang et al.,\[16\] the calculated temperature of reaction CoSb + Liquid = CoSb2 is equal to 1209 K.” |
-| Phase transition | 1238 K | 1238 | CoSb + Liquid = CoSb2 | model | [2] Gierlotka 2019; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.11.001) | p. 10; `ORC-7DHNPTOTHP` | “However, the calculation made based on equations provided by Zhang et al.\[16\] exhibits the reaction taking place at 1238 K.” |
-| Phase transition | 1363.15 K | 1363.15 | other | experimental | [2] Gierlotka 2019 | p. 3; `ORC-C4SKYA7TYQ` | “The CoSb3 is involved in following reactions: the first invariant reaction is at 1090 °C, which is the liquid/ CoSb-liquid boundary.” |
 
 ## Sources
 

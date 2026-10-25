@@ -1,10 +1,10 @@
 # Ag–B system
 
-> Ag–B system: 5 accepted literature values (invariant reaction 4, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–B system: 4 accepted literature values (invariant reaction 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-B.html · Markdown: https://data.orchid-project.org/systems/AG-B.md
 
-5 accepted literature values from 1 paper(s) (experimental 3, model 2); 2 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 2, model 2); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-B.json) · [CSV](https://data.orchid-project.org/systems/AG-B.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-B) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-B/AgB-04Kor-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AG-B.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-B.html) · [Markdown](https://data.orchid-project.org/systems/AG-B.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
+| experimental | 2 |
 | model | 2 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 4 |
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -58,16 +57,6 @@ Table: Invariant reactions reported in the literature for the Ag–B system (4)
 | 2342.15 | monotectic: Liquid# 2 -> Liquid#1 + (βB) | Liquid# 2: B 0.9934; Liquid#1: B 0.0066; (βB): B 1 | model | [1] Zhou 2020 | Table 4, p. 7, row 1; `ORC-WCIG7F4BOI` |  |
 | 1237.15 | eutectic: Liquid#1 -> (Ag) + (βB) | Liquid#1: B 0.0015; (Ag): B 0; (βB): B 1 | model | [1] Zhou 2020 | Table 4, p. 7, row 3; `ORC-MBWMSK2T7T` |  |
 | 1235.15 | eutectic: Liquid#1 -> (Ag) + (βB) | (Ag): B 0; (βB): B 1 | experimental | [1] Zhou 2020; _cites Wald 1970_ | Table 4, p. 7, row 4; `ORC-VFK2VLNOGP` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ag–B system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1235.15 K | 1235.15 | Liquid#2 ? Liquid#1 ? (bB) | experimental | [1] Zhou 2020; _cites Wald 1970_ | p. 2; `ORC-6ZXTPLZCIL` | “Only one piece of experimental data for the monotectic reaction Liquid#2 ? Liquid#1 ? (bB) at 962 C from Wald\[18\] exists.” |
 
 ## Sources
 

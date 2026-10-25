@@ -1,10 +1,10 @@
 # Au–In–Sn system
 
-> Au–In–Sn system: 3 accepted literature values (phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–In–Sn system: 2 accepted literature values (phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-IN-SN.html · Markdown: https://data.orchid-project.org/systems/AU-IN-SN.md
 
-3 accepted literature values from 1 paper(s) (experimental 2, model 1); 0 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (experimental 1, model 1); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-IN-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-IN-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-IN-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-IN-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-IN-SN.md)
 
@@ -12,25 +12,24 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
+| experimental | 1 |
 | model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 3 |
+| phase transition | 2 |
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, Au–In–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 701 K | 701 | congruent transformation | model | [1] Liu 2003 | p. 5; `ORC-PLFOEH35EH.b47a80` | “Humpston measured the ternary compound Au4In3Sn3 to melt congruently at 704 K,8 while it is calculated to melt congruently at 701 K.” |
-| Phase transition | 704 K | 704 | congruent transformation | experimental | [1] Liu 2003; _cites Prince 1985_ | p. 2; `ORC-FCG2BUSEBT` | “What is known about this ternary compound is that it is a high-temperature phase with limited composition that melts congruently at 704 K.8” |
 | Phase transition | 704 K | 704 | congruent transformation | experimental | [1] Liu 2003; _cites Prince 1985_ | p. 5; `ORC-PLFOEH35EH.be29ff` | “Humpston measured the ternary compound Au4In3Sn3 to melt congruently at 704 K,8 while it is calculated to melt congruently at 701 K.” |
 
 ## Sources

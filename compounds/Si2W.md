@@ -29,10 +29,10 @@ Table: Uncertainty budget of the literature values of Si2W
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -93.7 | kJ/mol (basis unstated) |  | 0.05 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
-| -92.7 | kJ/mol (basis unstated) |  | 0.05 | 16.8 (kems_vapour, cleaned_below_threshold) |  |  |  | 16.8 |
+| -93.7 | kJ/mol (basis unstated) |  | 0.05 | 9.6 (solution_reaction_calorimetry, calibrated) |  |  |  | 9.6 |
+| -92.7 | kJ/mol (basis unstated) |  | 0.05 | 12.6 (kems_vapour, calibrated) |  |  |  | 12.6 |
 | -82 | kJ/mol (basis unstated) | 6 | 0.5 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
-| -79.6 | kJ/mol (basis unstated) |  | 0.05 | 16.8 (kems_vapour, cleaned_below_threshold) |  |  |  | 16.8 |
+| -79.6 | kJ/mol (basis unstated) |  | 0.05 | 12.6 (kems_vapour, calibrated) |  |  |  | 12.6 |
 | -93 | kJ/mol (basis unstated) |  | 0.5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -81 | kJ/mol (basis unstated) |  | 0.5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 

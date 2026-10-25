@@ -29,42 +29,42 @@ Table: Heat capacity / entropy / enthalpy, Cr–Mo–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat content; _printed: Hm(599K)-Hm(273K)_ | 8086 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 2; `ORC-6DOS2OUYR5.6c2f98` |  |
-| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2345 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 2; `ORC-6DOS2OUYR5.92f4d0` |  |
-| Heat content; _printed: Hm(784K)-Hm(273K)_ | 13305 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 2; `ORC-6DOS2OUYR5.bdb6f3` |  |
-| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2723 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 5; `ORC-MNP6QSZXME.0f5c02` |  |
-| Heat content; _printed: Hm(599K)-Hm(273K)_ | 8301 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 5; `ORC-MNP6QSZXME.754840` |  |
-| Heat content; _printed: Hm(784K)-Hm(273K)_ | 13052 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 5; `ORC-MNP6QSZXME.fb60f9` |  |
-| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2677 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 3; `ORC-NGZSF32GU7.88cac8` |  |
-| Heat content; _printed: Hm(599K)-Hm(273K)_ | 8157 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 3; `ORC-NGZSF32GU7.d3db43` |  |
-| Heat content; _printed: Hm(784K)-Hm(273K)_ | 13196 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 3; `ORC-NGZSF32GU7.e1d87c` |  |
-| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2192 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 1; `ORC-Q3RUUX4I4Y.7ac486` |  |
-| Heat content; _printed: Hm(784K)-Hm(273K)_ | 13520 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 1; `ORC-Q3RUUX4I4Y.9f0f3f` |  |
-| Heat content; _printed: Hm(599K)-Hm(273K)_ | 8278 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 1; `ORC-Q3RUUX4I4Y.ec2c0b` |  |
-| Heat content; _printed: Hm(784K)-Hm(273K)_ | 12685 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 6; `ORC-S5TPZJEOOI.9edf09` |  |
-| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2334 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 6; `ORC-S5TPZJEOOI.a71fc7` |  |
-| Heat content; _printed: Hm(599K)-Hm(273K)_ | 7909 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 6; `ORC-S5TPZJEOOI.ab56f7` |  |
-| Heat content; _printed: Hm(599K)-Hm(273K)_ | 7927 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 4; `ORC-WC7EA7LMAJ.693a8e` |  |
-| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2331 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 4; `ORC-WC7EA7LMAJ.b2f035` |  |
-| Heat content; _printed: Hm(784K)-Hm(273K)_ | 12740 J/mol of atoms |  | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 4; `ORC-WC7EA7LMAJ.e84a67` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 2334 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 24; `ORC-6VYX5SX75H` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 2677 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 15; `ORC-BIUQAGQWQS` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 2331 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 18; `ORC-IAAZTW3HDA` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 2192 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 9; `ORC-ICCDUKY4GL` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 2723 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 21; `ORC-M3WOLWCZVY` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 2345 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 12; `ORC-S55VX4WYZ5` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 7927 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 19; `ORC-2APFWHCORC` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 7909 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 25; `ORC-5UKV7SB5H5` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 8157 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 16; `ORC-NXOTWJVEIH` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 8278 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 10; `ORC-X27FBJ7AZG` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 8301 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 22; `ORC-XCGTJJAWRR` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 8086 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 13; `ORC-ZYP6LBOQPV` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 13520 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 11; `ORC-CRS4IFQH3D` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 12740 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 20; `ORC-CWACYVQLA3` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 13305 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 14; `ORC-FTHEJKDPKG` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 13052 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 23; `ORC-JN36LJPX2N` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 12685 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 26; `ORC-VUYOAIDE2O` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 13196 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 17; `ORC-YQIIHSSZPV` |  |
+| heat content from base t; _printed: Hm(373K)-Hm(273K)_ | 2345 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 2; `ORC-6DOS2OUYR5.92f4d0` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 2334 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 24; `ORC-6VYX5SX75H` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 2677 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 15; `ORC-BIUQAGQWQS` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 2331 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 18; `ORC-IAAZTW3HDA` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 2192 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 9; `ORC-ICCDUKY4GL` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 2723 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 21; `ORC-M3WOLWCZVY` |  |
+| heat content from base t; _printed: Hm(373K)-Hm(273K)_ | 2723 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 5; `ORC-MNP6QSZXME.0f5c02` |  |
+| heat content from base t; _printed: Hm(373K)-Hm(273K)_ | 2677 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 3; `ORC-NGZSF32GU7.88cac8` |  |
+| heat content from base t; _printed: Hm(373K)-Hm(273K)_ | 2192 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 1; `ORC-Q3RUUX4I4Y.7ac486` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 2345 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 12; `ORC-S55VX4WYZ5` |  |
+| heat content from base t; _printed: Hm(373K)-Hm(273K)_ | 2334 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 6; `ORC-S5TPZJEOOI.a71fc7` |  |
+| heat content from base t; _printed: Hm(373K)-Hm(273K)_ | 2331 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 4; `ORC-WC7EA7LMAJ.b2f035` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 7927 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 19; `ORC-2APFWHCORC` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 7909 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 25; `ORC-5UKV7SB5H5` |  |
+| heat content from base t; _printed: Hm(599K)-Hm(273K)_ | 8086 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 2; `ORC-6DOS2OUYR5.6c2f98` |  |
+| heat content from base t; _printed: Hm(599K)-Hm(273K)_ | 8301 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 5; `ORC-MNP6QSZXME.754840` |  |
+| heat content from base t; _printed: Hm(599K)-Hm(273K)_ | 8157 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 3; `ORC-NGZSF32GU7.d3db43` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 8157 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 16; `ORC-NXOTWJVEIH` |  |
+| heat content from base t; _printed: Hm(599K)-Hm(273K)_ | 8278 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 1; `ORC-Q3RUUX4I4Y.ec2c0b` |  |
+| heat content from base t; _printed: Hm(599K)-Hm(273K)_ | 7909 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 6; `ORC-S5TPZJEOOI.ab56f7` |  |
+| heat content from base t; _printed: Hm(599K)-Hm(273K)_ | 7927 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 4; `ORC-WC7EA7LMAJ.693a8e` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 8278 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 10; `ORC-X27FBJ7AZG` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 8301 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 22; `ORC-XCGTJJAWRR` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 8086 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 13; `ORC-ZYP6LBOQPV` |  |
+| heat content from base t; _printed: Hm(784K)-Hm(273K)_ | 13305 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 2; `ORC-6DOS2OUYR5.bdb6f3` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 13520 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 11; `ORC-CRS4IFQH3D` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 12740 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 20; `ORC-CWACYVQLA3` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 13305 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 14; `ORC-FTHEJKDPKG` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 13052 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 23; `ORC-JN36LJPX2N` |  |
+| heat content from base t; _printed: Hm(784K)-Hm(273K)_ | 13052 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 5; `ORC-MNP6QSZXME.fb60f9` |  |
+| heat content from base t; _printed: Hm(784K)-Hm(273K)_ | 13196 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 3; `ORC-NGZSF32GU7.e1d87c` |  |
+| heat content from base t; _printed: Hm(784K)-Hm(273K)_ | 13520 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 1; `ORC-Q3RUUX4I4Y.9f0f3f` |  |
+| heat content from base t; _printed: Hm(784K)-Hm(273K)_ | 12685 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 6; `ORC-S5TPZJEOOI.9edf09` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 12685 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 26; `ORC-VUYOAIDE2O` |  |
+| heat content from base t; _printed: Hm(784K)-Hm(273K)_ | 12740 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | model | [1] Frisk 1991 | Table II, p. 8, row 4; `ORC-WC7EA7LMAJ.e84a67` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 13196 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 0, N 0_ | experimental | [1] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 17; `ORC-YQIIHSSZPV` |  |
 
 ## Sources
 

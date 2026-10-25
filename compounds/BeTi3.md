@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/BeTi3.html · Markdown: https://data.orchid-project.org/compounds/BeTi3.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -0.057 kJ/mol-atom (mp-aaacpoqd); OQMD 7.452 kJ/mol-atom (oqmd-314708).
+2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -0.057 kJ/mol-atom (mp-aaacpoqd); OQMD 7.452 kJ/mol-atom (oqmd-314708).
 
 Systems: [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html)
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of BeTi3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 3.6 kJ/mol-atom | Ti3Be(D03) |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 1; `ORC-S3AYA55WXC.5775a5` |  |
 | 3.6 kJ/mol-atom | Ti3Be(D03) | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 1; `ORC-S3AYA55WXC.841996` |  |
+| 3.6 kJ/mol-atom | Ti3Be(D03) |  | DFT |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 1; `ORC-S3AYA55WXC.5775a5` |  |
 
 ### Uncertainty budget
 
@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of BeTi3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | 3.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| 3.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| 3.6 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

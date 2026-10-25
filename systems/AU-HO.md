@@ -1,10 +1,10 @@
 # Au–Ho system
 
-> Au–Ho system: 68 accepted literature values (invariant reaction 27, crystal structure 20, formation 19, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ho system: 67 accepted literature values (invariant reaction 26, crystal structure 20, formation 19, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-HO.html · Markdown: https://data.orchid-project.org/systems/AU-HO.md
 
-68 accepted literature values from 1 paper(s) (experimental 38, model 23, DFT 7); 1 calculated phase diagram(s).
+67 accepted literature values from 1 paper(s) (experimental 37, model 23, DFT 7); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-HO.json) · [CSV](https://data.orchid-project.org/systems/AU-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-HO/AuHo-12Don.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AU-HO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-HO.html) · [Markdown](https://data.orchid-project.org/systems/AU-HO.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
+| experimental | 37 |
 | model | 23 |
 | DFT | 7 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
+| invariant reaction | 26 |
 | phase transition | 2 |
 | formation | 19 |
 | crystal structure | 20 |
@@ -64,23 +64,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Ho system (27)
+Table: Invariant reactions reported in the literature for the Au–Ho system (26)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1974 | L \<=> beta AuHo | L: Au 0.5, Ho 0.5; beta AuHo: Au 0.5, Ho 0.5 | model | [1] Dong 2012 | Table 2, p. 3, row 6; `ORC-VDFCRW6ZSV` |  |
-| 1973 | L \<=> beta AuHo | L: Au 0.5; beta AuHo: Au 0.5, Ho 0.5 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 5; `ORC-EXIW3RO6KX` |  |
-| 1886 | beta AuLa \<=> alpha AuHo | beta AuLa: Au 0.5, Ho 0.5; alpha AuHo: Au 0.5, Ho 0.5 | model | [1] Dong 2012 | Table 2, p. 3, row 8; `ORC-NAINT3ZASC` |  |
-| 1883 | beta AuLa \<=> alpha AuHo | beta AuLa: Au 0.5, Ho 0.5; alpha AuHo: Au 0.5, Ho 0.5 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 7; `ORC-LO2FRMU5QV` |  |
+| 1974 | congruent melting: L \<=> beta AuHo | L: Au 0.5, Ho 0.5; beta AuHo: Au 0.5, Ho 0.5 | model | [1] Dong 2012 | Table 2, p. 3, row 6; `ORC-VDFCRW6ZSV` |  |
+| 1973 | congruent melting: L \<=> beta AuHo | L: Au 0.5; beta AuHo: Au 0.5, Ho 0.5 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 5; `ORC-EXIW3RO6KX` |  |
+| 1886 | polymorphic: beta AuLa \<=> alpha AuHo | beta AuLa: Au 0.5, Ho 0.5; alpha AuHo: Au 0.5, Ho 0.5 | model | [1] Dong 2012 | Table 2, p. 3, row 8; `ORC-NAINT3ZASC` |  |
+| 1883 | polymorphic: beta AuLa \<=> alpha AuHo | beta AuLa: Au 0.5, Ho 0.5; alpha AuHo: Au 0.5, Ho 0.5 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 7; `ORC-LO2FRMU5QV` |  |
 | 1633 | L + alpha AuHo \<=> Au10Ho7 | L: Au 0.595; alpha AuHo: Au 0.5, Ho 0.5; Au10Ho7: Au 0.588235, Ho 0.411765 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 9; `ORC-MEY7DO3Z4P` |  |
-| 1623 | L \<=> Au2Ho | L: Au 0.667; Au2Ho: Au 0.666667, Ho 0.333333 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 13; `ORC-EIV3X6JXJ3` |  |
+| 1623 | congruent melting: L \<=> Au2Ho | L: Au 0.667; Au2Ho: Au 0.666667, Ho 0.333333 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 13; `ORC-EIV3X6JXJ3` |  |
 | 1622 | L + alpha AuHo \<=> Au10Ho7 | L: Au 0.623; alpha AuHo: Au 0.5, Ho 0.5; Au10Ho7: Au 0.588235, Ho 0.411765 | model | [1] Dong 2012 | Table 2, p. 3, row 10; `ORC-6WCWYCBLG6` |  |
-| 1609 | L \<=> Au2Ho | L: Au 0.666667, Ho 0.333333; Au2Ho: Au 0.666667, Ho 0.333333 | model | [1] Dong 2012 | Table 2, p. 3, row 14; `ORC-IDAJRFXG7W` |  |
+| 1609 | congruent melting: L \<=> Au2Ho | L: Au 0.666667, Ho 0.333333; Au2Ho: Au 0.666667, Ho 0.333333 | model | [1] Dong 2012 | Table 2, p. 3, row 14; `ORC-IDAJRFXG7W` |  |
 | 1593 | L \<=> Au2Ho + Au10Ho7 | L: Au 0.639; Au2Ho: Au 0.666667, Ho 0.333333; Au10Ho7: Au 0.588235, Ho 0.411765 | model | [1] Dong 2012 | Table 2, p. 3, row 12; `ORC-3SNJ3LD7AY` |  |
 | 1558 | L \<=> Au2Ho + Au10Ho7 | L: Au 0.615; Au2Ho: Au 0.666667, Ho 0.333333; Au10Ho7: Au 0.588235, Ho 0.411765 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 11; `ORC-CN5BSTXSTP` |  |
-| 1558 | eutectic: L \<=> Au2 Ho + Au10 Ho7 |  | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | p. 5; `ORC-GXSSVJHVW2` | “The proposed eutectic reaction temperature (1558 K) in Ref. \[14\] was based on the value obtained during cooling only.” |
-| 1523 | L \<=> Au3Ho | L: Au 0.75; Au3Ho: Au 0.75, Ho 0.25 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 17; `ORC-URRSJLECG7` |  |
-| 1519 | L \<=> Au3Ho | L: Au 0.75, Ho 0.25; Au3Ho: Au 0.75, Ho 0.25 | model | [1] Dong 2012 | Table 2, p. 3, row 18; `ORC-L4J7CLHZ76` |  |
+| 1523 | congruent melting: L \<=> Au3Ho | L: Au 0.75; Au3Ho: Au 0.75, Ho 0.25 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 17; `ORC-URRSJLECG7` |  |
+| 1519 | congruent melting: L \<=> Au3Ho | L: Au 0.75, Ho 0.25; Au3Ho: Au 0.75, Ho 0.25 | model | [1] Dong 2012 | Table 2, p. 3, row 18; `ORC-L4J7CLHZ76` |  |
 | 1510 | L \<=> Au2Ho + Au3Ho | L: Au 0.732; Au2Ho: Au 0.666667, Ho 0.333333; Au3Ho: Au 0.75, Ho 0.25 | model | [1] Dong 2012 | Table 2, p. 3, row 16; `ORC-SDEQDNVLOH` |  |
 | 1503 | L \<=> Au2Ho + Au3Ho | L: Au 0.72; Au2Ho: Au 0.666667, Ho 0.333333; Au3Ho: Au 0.75, Ho 0.25 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 15; `ORC-PWFSQ6VZ3D` |  |
 | 1378 | L + beta AuHo \<=> AuHo2 | L: Au 0.293; beta AuHo: Au 0.5, Ho 0.5; AuHo2: Au 0.333333, Ho 0.666667 | model | [1] Dong 2012 | Table 2, p. 3, row 4; `ORC-TA4B6UQXQL` |  |

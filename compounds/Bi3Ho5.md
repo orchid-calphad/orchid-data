@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Bi3Ho5
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -71 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -67.807 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -67.807 | kJ/mol-atom |  | 5.000e-6 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

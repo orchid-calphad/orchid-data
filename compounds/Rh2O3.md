@@ -36,7 +36,7 @@ Table: Uncertainty budget of the literature values of Rh2O3
 | -387.586 | kJ/mol (basis unstated) |  | 5.000e-4 | 19 (experimental_unspecified, calibrated) |  |  |  | 19 |
 | -360 | kJ/mol (basis unstated) | 3 | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
 | -340.72 | kJ/mol (basis unstated) |  | 0.005 | 19 (experimental_unspecified, calibrated) |  |  |  | 19 |
-| -338.21 | kJ/mol (basis unstated) |  | 0.005 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
+| -338.21 | kJ/mol (basis unstated) |  | 0.005 | 21 (kems_vapour, calibrated) |  |  |  | 21 |
 
 ## Sources
 

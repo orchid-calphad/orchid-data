@@ -33,12 +33,12 @@ Table: Invariant reactions reported in the literature for the B–Re system (8)
 |---:|---|---|---|---|---|---|
 | 2423 | Liquid + (Re) -> Re3B | L: B 0.269; (Re): B 0; Re3B: B 0.25 | experimental | [1] Yang 2010; _cites Portnoi 1968_ [doi](https://doi.org/10.1007/bf00774302) | Table 4, p. 4, row 2; `ORC-WF5LOHTNL6` |  |
 | 2418.59 | Liquid + (Re) -> Re3B | L: B 0.26; (Re): B 0; Re3B: B 0.25 | model | [1] Yang 2010 | Table 4, p. 4, row 1; `ORC-OI6KR4LP2Z` |  |
-| 2323 | Liquid -> (B) + ReB2 | L: B 0.92; (B): B 0.985; ReB2: B 0.75 | experimental | [1] Yang 2010; _cites Portnoi 1968_ [doi](https://doi.org/10.1007/bf00774302) | Table 4, p. 4, row 4; `ORC-MPQ3WURGQC` |  |
-| 2304.5 | Liquid -> (B) + ReB2 | L: B 0.951; (B): B 1; ReB2: B 0.761 | model | [1] Yang 2010 | Table 4, p. 4, row 3; `ORC-CAYZVPDS3R` |  |
+| 2323 | eutectic: Liquid -> (B) + ReB2 | L: B 0.92; (B): B 0.985; ReB2: B 0.75 | experimental | [1] Yang 2010; _cites Portnoi 1968_ [doi](https://doi.org/10.1007/bf00774302) | Table 4, p. 4, row 4; `ORC-MPQ3WURGQC` |  |
+| 2304.5 | eutectic: Liquid -> (B) + ReB2 | L: B 0.951; (B): B 1; ReB2: B 0.761 | model | [1] Yang 2010 | Table 4, p. 4, row 3; `ORC-CAYZVPDS3R` |  |
 | 2281.13 | Liquid + Re3B -> Re7B3 | L: B 0.357; Re3B: B 0.25; Re7B3: B 0.3 | model | [1] Yang 2010 | Table 4, p. 4, row 5; `ORC-25LD7N6QCB` |  |
 | 2273 | Liquid + Re3B -> Re7B3 | L: B 0.34; Re3B: B 0.25; Re7B3: B 0.3 | experimental | [1] Yang 2010; _cites Portnoi 1968_ [doi](https://doi.org/10.1007/bf00774302) | Table 4, p. 4, row 6; `ORC-ARHFYVQRZD` |  |
-| 2103 | Liquid -> ReB2 + Re7B3 | L: B 0.418; ReB2: B 0.652; Re7B3: B 0.3 | experimental | [1] Yang 2010; _cites Portnoi 1968_ [doi](https://doi.org/10.1007/bf00774302) | Table 4, p. 4, row 10; `ORC-C5TJ2VUQMN` |  |
-| 2092.76 | Liquid -> ReB2 + Re7B3 | L: B 0.434; ReB2: B 0.667; Re7B3: B 0.3 | model | [1] Yang 2010 | Table 4, p. 4, row 9; `ORC-KVQJQ5J7CW` |  |
+| 2103 | eutectic: Liquid -> ReB2 + Re7B3 | L: B 0.418; ReB2: B 0.652; Re7B3: B 0.3 | experimental | [1] Yang 2010; _cites Portnoi 1968_ [doi](https://doi.org/10.1007/bf00774302) | Table 4, p. 4, row 10; `ORC-C5TJ2VUQMN` |  |
+| 2092.76 | eutectic: Liquid -> ReB2 + Re7B3 | L: B 0.434; ReB2: B 0.667; Re7B3: B 0.3 | model | [1] Yang 2010 | Table 4, p. 4, row 9; `ORC-KVQJQ5J7CW` |  |
 
 ## Formation enthalpies
 

@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Cr2Ti
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -10 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -9.856 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -6.835 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -6.754 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -0.593 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -10 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -9.856 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -6.835 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -6.754 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -0.593 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

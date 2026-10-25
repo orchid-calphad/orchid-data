@@ -628,7 +628,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L = CaZn2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -646,7 +646,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L = CaZn2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -702,7 +702,7 @@
     "x0": 0.833,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L = CaZn5",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -720,7 +720,7 @@
     "x0": 0.917,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L = CaZn11",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -738,7 +738,7 @@
     "x0": 0.917,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L = CaZn11",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

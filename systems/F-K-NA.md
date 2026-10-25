@@ -1,10 +1,10 @@
 # F–K–Na system
 
-> F–K–Na system: 26 accepted literature values (crystal structure 10, formation 9, invariant reaction 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> F–K–Na system: 20 accepted literature values (formation 7, invariant reaction 7, crystal structure 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/F-K-NA.html · Markdown: https://data.orchid-project.org/systems/F-K-NA.md
 
-26 accepted literature values from 1 paper(s) (experimental 9, model 1, DFT 16); 0 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 6, model 1, DFT 13); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/F-K-NA.json) · [CSV](https://data.orchid-project.org/systems/F-K-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-K-NA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/F-K-NA.html) · [Markdown](https://data.orchid-project.org/systems/F-K-NA.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 6 |
 | model | 1 |
-| DFT | 16 |
+| DFT | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 7 |
-| formation | 9 |
-| crystal structure | 10 |
+| formation | 7 |
+| crystal structure | 6 |
 
 ## Invariant reactions (literature)
 
@@ -42,7 +42,7 @@ Table: Invariant reactions reported in the literature for the F–K–Na system 
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, F–K–Na system (9)
+Table: Enthalpies of formation, F–K–Na system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -50,15 +50,13 @@ Table: Enthalpies of formation, F–K–Na system (9)
 | Halite |  | 9.869 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 35; `ORC-KTRPCNRG65.049d0d` |  |
 | Halite |  | 19.165 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 36; `ORC-NIHK37LH2X.094f7b` |  |
 | Halite |  | 24.312 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 37; `ORC-37YQ42FPYZ.95d652` |  |
-| KNa2 |  | -0.699 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-VIZG72UFCV.d3840a` |  |
-| KNa2 | [KNa2](https://data.orchid-project.org/compounds/KNa2.html) | -0.60668 kJ/mol-atom | 298.15 | experimental | 0.954 (mp-aaabgmji) | -7.272 (oqmd-668086) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31; `ORC-LEJHJ7QKVU.3c23fa` |  |
 | bcc |  | 1.786 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 32; `ORC-PLZAVIKXC6.864a1c` |  |
 | bcc |  | 2.408 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 34; `ORC-SYTQKWBHES.bf4bfb` |  |
 | bcc |  | 2.994 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 33; `ORC-MSELOGJIE5.90fdff` |  |
 
 ## Other properties
 
-### Crystal structure (10)
+### Crystal structure (6)
 
 Table: Crystal structure, F–K–Na system
 
@@ -67,13 +65,9 @@ Table: Crystal structure, F–K–Na system
 | Lattice a; _printed: Lattice constant a_ | 3.052 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 37; `ORC-AWMVKLLL4H` |  |
 | Lattice a; _printed: Lattice constant a_ | 3.082 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 36; `ORC-D4W3TGOIME` |  |
 | Lattice a; _printed: Lattice constant a_ | 2.869 Å | 0 | Halite; _alloy: K 0, Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 35; `ORC-HMZUDT57BH` |  |
-| Lattice a; _printed: Lattice constant a_ | 7.394 Å | 0 | KNa2; _alloy: Na 0.667_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-CA6ODY6QX2.3383f6` |  |
-| Lattice a; _printed: Lattice constant a_ | 7.5 Å |  | KNa2; _alloy: Na 0.667_ | experimental | [1] Zhang 2006; _cites Laves 1943_ | Table 2, p. 3, row 14; `ORC-JMVBNXNQW2.6ec8d6` |  |
 | Lattice a; _printed: Lattice constant a_ | 5.026 Å | 0 | bcc; _alloy: Na 0.25_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 32; `ORC-2KGQQC3M2K` |  |
 | Lattice a; _printed: Lattice constant a_ | 4.763 Å | 0 | bcc; _alloy: Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 33; `ORC-2YR56PTUGJ` |  |
 | Lattice a; _printed: Lattice constant a_ | 4.508 Å | 0 | bcc; _alloy: Na 0.75_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 34; `ORC-INBPJ3RJR3` |  |
-| Lattice c; _printed: Lattice constant c_ | 12.083 Å | 0 | KNa2; _alloy: Na 0.667_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 30; `ORC-CA6ODY6QX2.cee42d` |  |
-| Lattice c; _printed: Lattice constant c_ | 12.31 Å |  | KNa2; _alloy: Na 0.667_ | experimental | [1] Zhang 2006; _cites Laves 1943_ | Table 2, p. 3, row 14; `ORC-JMVBNXNQW2.4aabb9` |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Mo–Y system
 
-> Mo–Y system: 6 accepted literature values (invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Y system: 5 accepted literature values (invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-Y.html · Markdown: https://data.orchid-project.org/systems/MO-Y.md
 
-6 accepted literature values from 1 paper(s) (experimental 2, model 2, unspecified 2); 1 calculated phase diagram(s).
+5 accepted literature values from 1 paper(s) (experimental 1, model 2, unspecified 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-Y.json) · [CSV](https://data.orchid-project.org/systems/MO-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-Y/MoY-10Cha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/MO-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-Y.html) · [Markdown](https://data.orchid-project.org/systems/MO-Y.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
+| experimental | 1 |
 | model | 2 |
 | unspecified | 2 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
+| invariant reaction | 5 |
 
 ## Calculated phase diagrams
 
@@ -43,16 +43,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mo–Y system (6)
+Table: Invariant reactions reported in the literature for the Mo–Y system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1771.15 | L -> αY + Mo | L: Y 0.8972; αY: Y 0.9981 | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 4, p. 6, row 3; `ORC-B6NFIOBZ5R` |  |
-| 1771.15 | eutectic |  | experimental | [1] Chan 2010; _cites Lundin 1959_ | p. 2; `ORC-IQO7LLZIRG` | “The purity of the molybdenum was not specified but the eutectic temperature given by Lundin\[14\] was 1498 °C which was 4 °C below the adjusted melting” |
+| 1771.15 | eutectic: L -> αY + Mo | L: Y 0.8972; αY: Y 0.9981 | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 4, p. 6, row 3; `ORC-B6NFIOBZ5R` |  |
 | 1751.15 | βY -> L + αY |  | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 6, row 1; `ORC-AXDXKJUSKT` |  |
 | 1750.15 | βY -> L + αY | βY: Y 0.9995; L: Y 0.9792; αY: Y 0.9998 | model | [1] Chan 2010 | Table 4, p. 6, row 2; `ORC-37VK4GNCGA` |  |
-| 1719.15 | L -> αY + Mo | L: Y 0.9569; αY: Y 0.9996; Mo: Y 9.000e-4 | model | [1] Chan 2010 | Table 4, p. 6, row 5; `ORC-T3HZ7WQOGU` |  |
-| 1703.15 | L -> αY + Mo | L: Y 0.9; αY: Y 1; Mo: Y 0 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 6, row 4; `ORC-6NQBPA3GJ2` |  |
+| 1719.15 | eutectic: L -> αY + Mo | L: Y 0.9569; αY: Y 0.9996; Mo: Y 9.000e-4 | model | [1] Chan 2010 | Table 4, p. 6, row 5; `ORC-T3HZ7WQOGU` |  |
+| 1703.15 | eutectic: L -> αY + Mo | L: Y 0.9; αY: Y 1; Mo: Y 0 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 6, row 4; `ORC-6NQBPA3GJ2` |  |
 
 ## Sources
 

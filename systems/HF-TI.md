@@ -1,10 +1,10 @@
 # Hf–Ti system
 
-> Hf–Ti system: 25 accepted literature values (phase transition 25) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Ti system: 13 accepted literature values (phase transition 13) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-TI.html · Markdown: https://data.orchid-project.org/systems/HF-TI.md
 
-25 accepted literature values from 2 paper(s) (experimental 9, model 16); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+13 accepted literature values from 2 paper(s) (experimental 8, model 5); 1 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-TI.json) · [CSV](https://data.orchid-project.org/systems/HF-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-TI/HfTi-97Bit-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/HF-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-TI.html) · [Markdown](https://data.orchid-project.org/systems/HF-TI.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
-| model | 16 |
+| experimental | 8 |
+| model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 25 |
+| phase transition | 13 |
 
 ## Calculated phase diagrams
 
@@ -35,44 +35,32 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (25)
+### Phase transition (13)
 
 Table: Phase transition, Hf–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 123 K | 123 | other | model | [1] Bittermann 1997 | p. 21; `ORC-I4AIP3FBD7.677a9e` | “The congruent transformation compositions calculated from her data set are, respectively, 23 at.% Hf and 1073 K (800 ~ for the (~Ti,~Hf) + (\[3Ti,~Hf) equilibrium and 16 at.% Hf and 1921 K (1648 ~ for the (~Ti,~Hf) + L equilibrium; the critical temperatures are, respectively, 562 K for (o~Ti,~Hf) and 123 K for (13Ti,~IHf).” |
-| Phase transition | 125 K | 125 | other | model | [1] Bittermann 1997 | p. 21; `ORC-WA6BJXXM27` | “The calculated critical temperature of (~Ti,13Hf) is 125 K.” |
-| Phase transition | 486 K | 486 | other | model | [1] Bittermann 1997 | p. 22; `ORC-MBPLHLSRE2.eb29d4` | “For the critical temperature of (Ti,Hf)B 2, a value of 486 K (213 ~ was found; for the critical temperature of (Ti,Hf)B, a value of 836 K (563 ~ was obtained.” |
-| Phase transition | 500 K | 500 | other | experimental | [1] Bittermann 1997; _cites Chang 1966_ | p. 20; `ORC-JB77NPYIH6` | “From experimental information it can be concluded that (r is an endothermic solid solution with a miscibility gap below a critical temperature /'~ctTi,txat), estimated by \[66Cha\] to be about 500 K.” |
-| Phase transition | 500 K | 500 | other | model | [1] Bittermann 1997 | p. 21; `ORC-QCQVNLFWME` | “Because of the lack of thermodynamic experimental results the absolute magnitudes of the assessed interaction parameters were determined on the assumption that the critical temperature of the endothermic solid solution (~Ti,~Hf) is 500 K.” |
-| Phase transition | 500.15 K | 500.15 | critical point: hcp - (Hf, Ti); _hcp-(Hf, Ti): Ti 0.5_ | model | [2] Cacciamani 2011 | Table 6, p. 7, row 3; `ORC-4EFRAIRCQ3` |  |
-| Phase transition | 562 K | 562 | other | model | [1] Bittermann 1997 | p. 21; `ORC-I4AIP3FBD7.91d79e` | “The congruent transformation compositions calculated from her data set are, respectively, 23 at.% Hf and 1073 K (800 ~ for the (~Ti,~Hf) + (\[3Ti,~Hf) equilibrium and 16 at.% Hf and 1921 K (1648 ~ for the (~Ti,~Hf) + L equilibrium; the critical temperatures are, respectively, 562 K for (o~Ti,~Hf) and 123 K for (13Ti,~IHf).” |
-| Phase transition | 836 K | 836 | other | model | [1] Bittermann 1997 | p. 22; `ORC-MBPLHLSRE2.a5e352` | “For the critical temperature of (Ti,Hf)B 2, a value of 486 K (213 ~ was found; for the critical temperature of (Ti,Hf)B, a value of 836 K (563 ~ was obtained.” |
-| Phase transition | 1043 K | 1043 | congruent transformation: (αTi,αHf)/(βTi,βHf) | experimental | [1] Bittermann 1997; _cites ref. 59Tyl_ | Table 5, p. 6, row 2; `ORC-ESGQREXHGL` |  |
-| Phase transition | 1063 K | 1063 |  | model | [1] Bittermann 1997 | p. 21; `ORC-RE6DMDHHWX.0c9ffa` | “temperatures are as follows: 22.0 at.% Hfand 1063 K (790 ~ for the (o~Ti,~Hf) + (~Ti,13Hf) equilibrium as well as 12.0 at.% Hf and 1926 K (1653 ~ for the (\[~Ti,~Hf) + L equilibrium.” |
-| Phase transition | 1063 K | 1063 | congruent transformation: (αTi,αHf)/(βTi,βHf) | experimental | [1] Bittermann 1997; _cites Chang 1966_ | Table 5, p. 6, row 3; `ORC-DRY7Z7KMYH` |  |
-| Phase transition | 1063 K | 1063 | congruent transformation: (αTi,αHf)/(βTi,βHf) | experimental | [1] Bittermann 1997; _cites Hayes 1957_ | Table 5, p. 6, row 1; `ORC-KUYRHNDZRA` |  |
-| Phase transition | 1063 K | 1063 | congruent transformation: (αTi,αHf)/(βTi,βHf) | model | [1] Bittermann 1997 | Table 5, p. 6, row 5; `ORC-RPUOAREHBU` |  |
-| Phase transition | 1063.15 K | 1063.15 | congruent transformation: bcc-(Hf, Ti) -> hcp-(Hf, Ti); _bcc-(Hf, Ti): Ti 0.78; hcp-(Hf, Ti): Ti 0.78_ | model | [2] Cacciamani 2011 | Table 6, p. 7, row 2; `ORC-FIS2GM5AJT` |  |
-| Phase transition | 1068 K | 1068 | congruent transformation: (αTi,αHf)/(βTi,βHf) | experimental | [1] Bittermann 1997; _cites Ruda 1975_ | Table 5, p. 6, row 4; `ORC-FI432JPK36` |  |
-| Phase transition | 1073 K | 1073 | congruent transformation | model | [1] Bittermann 1997 | p. 21; `ORC-I4AIP3FBD7.e1f1f3` | “The congruent transformation compositions calculated from her data set are, respectively, 23 at.% Hf and 1073 K (800 ~ for the (~Ti,~Hf) + (\[3Ti,~Hf) equilibrium and 16 at.% Hf and 1921 K (1648 ~ for the (~Ti,~Hf) + L equilibrium; the critical temperatures are, respectively, 562 K for (o~Ti,~Hf) and 123 K for (13Ti,~IHf).” |
-| Phase transition | 1873 K | 1873 | congruent transformation: (βTi,βHf)/L | experimental | [1] Bittermann 1997; _cites ref. 59Tyl_ | Table 5, p. 6, row 7; `ORC-TMHB2XGFGB` |  |
-| Phase transition | 1913 K | 1913 | congruent transformation: (βTi,βHf)/L | experimental | [1] Bittermann 1997; _cites Chang 1966_ | Table 5, p. 6, row 8; `ORC-NC225ZW22X` |  |
-| Phase transition | 1913 K | 1913 | congruent transformation: (βTi,βHf)/L | experimental | [1] Bittermann 1997; _cites Hayes 1957_ | Table 5, p. 6, row 6; `ORC-VIXRD5FBZ2` |  |
-| Phase transition | 1921 K | 1921 | congruent transformation | model | [1] Bittermann 1997 | p. 21; `ORC-I4AIP3FBD7.bcc325` | “The congruent transformation compositions calculated from her data set are, respectively, 23 at.% Hf and 1073 K (800 ~ for the (~Ti,~Hf) + (\[3Ti,~Hf) equilibrium and 16 at.% Hf and 1921 K (1648 ~ for the (~Ti,~Hf) + L equilibrium; the critical temperatures are, respectively, 562 K for (o~Ti,~Hf) and 123 K for (13Ti,~IHf).” |
-| Phase transition | 1926 K | 1926 |  | model | [1] Bittermann 1997 | p. 21; `ORC-RE6DMDHHWX.534403` | “temperatures are as follows: 22.0 at.% Hfand 1063 K (790 ~ for the (o~Ti,~Hf) + (~Ti,13Hf) equilibrium as well as 12.0 at.% Hf and 1926 K (1653 ~ for the (\[~Ti,~Hf) + L equilibrium.” |
-| Phase transition | 1926 K | 1926 | congruent transformation: (βTi,βHf)/L | model | [1] Bittermann 1997 | Table 5, p. 6, row 10; `ORC-3T5Z4PVOIY` |  |
-| Phase transition | 1926.15 K | 1926.15 | congruent melting: L -> bcc-(Hf, Ti); _L: Ti 0.88; bcc-(Hf, Ti): Ti 0.88_ | model | [2] Cacciamani 2011 | Table 6, p. 7, row 1; `ORC-DC3KVTKSOJ` |  |
-| Phase transition | 1929 K | 1929 | congruent transformation: (βTi,βHf)/L | experimental | [1] Bittermann 1997; _cites Rudy 1969_ | Table 5, p. 6, row 9; `ORC-5OV3WPU6GD` |  |
-| Phase transition | 2412 K | 2412 | L + (Ti,Hf)3B4 -> (Ti,Hf)B + (Ti,Hf)B2 | model | [1] Bittermann 1997 | p. 23; `ORC-TB5T6AD6SB` | “The calculated invariant temperature is 2412 K (2139 ~ the calculated compositions of the involved phases are"” |
+| Phase transition | 500.15 K | 500.15 | critical point: hcp - (Hf, Ti); _hcp-(Hf, Ti): Ti 0.5_ | model | [1] Cacciamani 2011 | Table 6, p. 7, row 3; `ORC-4EFRAIRCQ3` |  |
+| Phase transition | 1043 K | 1043 | congruent transformation: (αTi,αHf)/(βTi,βHf) | experimental | [2] Bittermann 1997; _cites ref. 59Tyl_ | Table 5, p. 6, row 2; `ORC-ESGQREXHGL` |  |
+| Phase transition | 1063 K | 1063 | congruent transformation: (αTi,αHf)/(βTi,βHf) | experimental | [2] Bittermann 1997; _cites Chang 1966_ | Table 5, p. 6, row 3; `ORC-DRY7Z7KMYH` |  |
+| Phase transition | 1063 K | 1063 | congruent transformation: (αTi,αHf)/(βTi,βHf) | experimental | [2] Bittermann 1997; _cites Hayes 1957_ | Table 5, p. 6, row 1; `ORC-KUYRHNDZRA` |  |
+| Phase transition | 1063 K | 1063 | congruent transformation: (αTi,αHf)/(βTi,βHf) | model | [2] Bittermann 1997 | Table 5, p. 6, row 5; `ORC-RPUOAREHBU` |  |
+| Phase transition | 1063.15 K | 1063.15 | congruent transformation: bcc-(Hf, Ti) -> hcp-(Hf, Ti); _bcc-(Hf, Ti): Ti 0.78; hcp-(Hf, Ti): Ti 0.78_ | model | [1] Cacciamani 2011 | Table 6, p. 7, row 2; `ORC-FIS2GM5AJT` |  |
+| Phase transition | 1068 K | 1068 | congruent transformation: (αTi,αHf)/(βTi,βHf) | experimental | [2] Bittermann 1997; _cites Ruda 1975_ | Table 5, p. 6, row 4; `ORC-FI432JPK36` |  |
+| Phase transition | 1873 K | 1873 | congruent transformation: (βTi,βHf)/L | experimental | [2] Bittermann 1997; _cites ref. 59Tyl_ | Table 5, p. 6, row 7; `ORC-TMHB2XGFGB` |  |
+| Phase transition | 1913 K | 1913 | congruent transformation: (βTi,βHf)/L | experimental | [2] Bittermann 1997; _cites Chang 1966_ | Table 5, p. 6, row 8; `ORC-NC225ZW22X` |  |
+| Phase transition | 1913 K | 1913 | congruent transformation: (βTi,βHf)/L | experimental | [2] Bittermann 1997; _cites Hayes 1957_ | Table 5, p. 6, row 6; `ORC-VIXRD5FBZ2` |  |
+| Phase transition | 1926 K | 1926 | congruent transformation: (βTi,βHf)/L | model | [2] Bittermann 1997 | Table 5, p. 6, row 10; `ORC-3T5Z4PVOIY` |  |
+| Phase transition | 1926.15 K | 1926.15 | congruent melting: L -> bcc-(Hf, Ti); _L: Ti 0.88; bcc-(Hf, Ti): Ti 0.88_ | model | [1] Cacciamani 2011 | Table 6, p. 7, row 1; `ORC-DC3KVTKSOJ` |  |
+| Phase transition | 1929 K | 1929 | congruent transformation: (βTi,βHf)/L | experimental | [2] Bittermann 1997; _cites Rudy 1969_ | Table 5, p. 6, row 9; `ORC-5OV3WPU6GD` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system boron-hafnium-titanium (B-Hf-Ti), JPE 18, 24-47 (1997). [doi:10.1007/bf02646757](https://doi.org/10.1007/bf02646757)
-2. G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011). [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003)
+1. G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011). [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003)
+2. H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system boron-hafnium-titanium (B-Hf-Ti), JPE 18, 24-47 (1997). [doi:10.1007/bf02646757](https://doi.org/10.1007/bf02646757)
 
 ## Please cite
 

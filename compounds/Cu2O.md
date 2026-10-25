@@ -31,11 +31,11 @@ Table: Uncertainty budget of the literature values of Cu2O
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -59.97 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -57.7267 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -56.9433 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -56.7633 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -54.95 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -59.97 | kJ/mol-atom |  | 0.001667 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -57.7267 | kJ/mol-atom |  | 0.001667 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -56.9433 | kJ/mol-atom |  | 0.001667 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -56.7633 | kJ/mol-atom |  | 0.001667 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -54.95 | kJ/mol-atom |  | 0.001667 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -57.4933 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -56.9033 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -56.7533 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

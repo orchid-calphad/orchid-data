@@ -1,10 +1,10 @@
 # Na–Sb system
 
-> Na–Sb system: 65 accepted literature values (formation 34, phase transition 14, heat capacity / entropy / enthalpy 12, invariant reaction 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–Sb system: 64 accepted literature values (formation 34, phase transition 13, heat capacity / entropy / enthalpy 12, invariant reaction 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-SB.html · Markdown: https://data.orchid-project.org/systems/NA-SB.md
 
-65 accepted literature values from 2 paper(s) (experimental 32, model 29, DFT 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+64 accepted literature values from 2 paper(s) (experimental 32, model 28, DFT 4); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-SB.json) · [CSV](https://data.orchid-project.org/systems/NA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-SB/NaSb-13Liu.json) · [phases (7)](https://data.orchid-project.org/phases/pages/NA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-SB.html) · [Markdown](https://data.orchid-project.org/systems/NA-SB.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 32 |
-| model | 29 |
+| model | 28 |
 | DFT | 4 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase transition | 14 |
+| phase transition | 13 |
 | formation | 34 |
 | heat capacity / entropy / enthalpy | 12 |
 
@@ -55,11 +55,11 @@ Table: Invariant reactions reported in the literature for the Na–Sb system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 710 | liq -> Na3Sb + NaSb | liq: Sb 0.45; Na3Sb: Sb 0.25; NaSb: Sb 0.5 | model | [1] Liu 2013 | Table 3, p. 5, row 6; `ORC-6MF7VBSZHP` |  |
-| 708 | liq -> Na3Sb + NaSb | liq: Sb 0.45; Na3Sb: Sb 0.25; NaSb: Sb 0.5 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 7; `ORC-LCRHBBDJ2O` |  |
-| 672 | liq -> NaSb + Sb | liq: Sb 0.6; NaSb: Sb 0.5; Sb: Sb 1 | model | [1] Liu 2013 | Table 3, p. 5, row 11; `ORC-R26HPNQO2C` |  |
-| 370.9 | liq -> Na + Na3Sb | Na3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 3, p. 5, row 1; `ORC-LGIAXUY4NK` |  |
-| 370.8 | liq -> Na + Na3Sb | Na3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 2; `ORC-WULJG5LCBS` |  |
+| 710 | eutectic: liq -> Na3Sb + NaSb | liq: Sb 0.45; Na3Sb: Sb 0.25; NaSb: Sb 0.5 | model | [1] Liu 2013 | Table 3, p. 5, row 6; `ORC-6MF7VBSZHP` |  |
+| 708 | eutectic: liq -> Na3Sb + NaSb | liq: Sb 0.45; Na3Sb: Sb 0.25; NaSb: Sb 0.5 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 7; `ORC-LCRHBBDJ2O` |  |
+| 672 | eutectic: liq -> NaSb + Sb | liq: Sb 0.6; NaSb: Sb 0.5; Sb: Sb 1 | model | [1] Liu 2013 | Table 3, p. 5, row 11; `ORC-R26HPNQO2C` |  |
+| 370.9 | eutectic: liq -> Na + Na3Sb | Na3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 3, p. 5, row 1; `ORC-LGIAXUY4NK` |  |
+| 370.8 | eutectic: liq -> Na + Na3Sb | Na3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 2; `ORC-WULJG5LCBS` |  |
 
 ## Formation enthalpies
 
@@ -94,7 +94,7 @@ Table: Enthalpies of formation, Na–Sb system (22)
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (13)
 
 Table: Phase transition, Na–Sb system
 
@@ -108,7 +108,6 @@ Table: Phase transition, Na–Sb system
 | Phase transition | 738 K | 738 | liq -> NaSb; _liq: Sb 0.5; NaSb: Sb 0.5_ | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 9; `ORC-LGOEP2TIPN` |  |
 | Phase transition | 739 K | 739 | congruent transformation | model | [2] Dreval 2017 | p. 9; `ORC-B6QI3LEUBG` | “According to our calculations, the congruent melting point of the NaSb compound is 739 K, which is only by 1 K higher than the value reported in Refs. \[27,28\].” |
 | Phase transition | 739 K | 739 | liq -> NaSb; _liq: Sb 0.5; NaSb: Sb 0.5_ | model | [1] Liu 2013 | Table 3, p. 5, row 8; `ORC-QZFFSHWY3J` |  |
-| Phase transition | 745 K | 745 |  | model | [2] Dreval 2017; _cites Liu 2013_ | p. 9; `ORC-2XXPSTHRP6` | “The temperature calculated by Liu et al. \[10\] is equal to 745 K.” |
 | Phase transition | 1130 K | 1130 | congruent transformation | model | [1] Liu 2013; _cites Sangster 1993_ [doi](https://doi.org/10.1007/bf02667822) | p. 1; `ORC-4P3GXWASWF.539ee0` | “According to the assessed phase diagram, two intermetallic phases can be identified, i.e. Na3 Sb and NaSb. Such two intermetallics melt congruently around 1130 and 738 K, respectively.” |
 | Phase transition | 1130 K | 1130 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 3, p. 5, row 4; `ORC-7ZAAHHTD2W` |  |
 | Phase transition | 1131 K | 1131 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | model | [1] Liu 2013 | Table 3, p. 5, row 3; `ORC-ULU3S5YLX4` |  |

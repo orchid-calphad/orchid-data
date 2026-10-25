@@ -55,24 +55,24 @@ Table: Uncertainty budget of the literature values of Mg2Si
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -61.9 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -29.7 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -27.9 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -27.1 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -61.9 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -29.7 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -27.9 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -27.1 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -26.67 | kJ/mol-atom |  | 0.001667 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -26.4 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -26.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -26.37 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -26.3 | kJ/mol-atom |  | 0.01667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -26.37 | kJ/mol-atom |  | 0.001667 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -26.3 | kJ/mol-atom |  | 0.01667 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -26 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -25.9 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -22.99 | kJ/mol-atom |  | 0.001667 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -25.9 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -22.99 | kJ/mol-atom |  | 0.001667 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -22.2 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -22.16 | kJ/mol-atom |  | 0.001667 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -21.1 | kJ/mol-atom |  | 0.01667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -21.1 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -14.21 | kJ/mol-atom |  | 0.001667 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -14.2 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -21.1 | kJ/mol-atom |  | 0.01667 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -21.1 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -14.21 | kJ/mol-atom |  | 0.001667 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -14.2 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -29.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -29.7 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -26.47 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
@@ -80,11 +80,11 @@ Table: Uncertainty budget of the literature values of Mg2Si
 | -21.37 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -21.01 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -21 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -18.2 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -17.7 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -17.7 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -16.7 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -15.4 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -18.2 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -17.7 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -17.7 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -16.7 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -15.4 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 | -21.1 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -21.1 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 

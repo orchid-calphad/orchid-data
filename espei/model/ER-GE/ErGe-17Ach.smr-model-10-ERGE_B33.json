@@ -103,7 +103,7 @@
      "sigma_effective": 3.3,
      "method_class": "model_calculated",
      "method_basis": "calibrated",
-     "method_n_pairs": 115,
+     "method_n_pairs": 114,
      "method_entry": "model/SM_FORM"
     },
     "sigma_effective_used": 3.3,
@@ -123,7 +123,7 @@
      "sigma_effective": 3.3,
      "method_class": "model_calculated",
      "method_basis": "calibrated",
-     "method_n_pairs": 115,
+     "method_n_pairs": 114,
      "method_entry": "model/SM_FORM"
     },
     "sigma_effective_used": 3.3,

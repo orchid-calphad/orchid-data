@@ -1,10 +1,10 @@
 # Sc–Y system
 
-> Sc–Y system: 14 accepted literature values (phase transition 14) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–Y system: 12 accepted literature values (phase transition 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-Y.html · Markdown: https://data.orchid-project.org/systems/SC-Y.md
 
-14 accepted literature values from 2 paper(s) (experimental 8, model 4, unspecified 2); 2 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 6, model 4, unspecified 2); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-Y.json) · [CSV](https://data.orchid-project.org/systems/SC-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-Y/ScY-00Nor.json) · [phases (4)](https://data.orchid-project.org/phases/pages/SC-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-Y.html) · [Markdown](https://data.orchid-project.org/systems/SC-Y.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
+| experimental | 6 |
 | model | 4 |
 | unspecified | 2 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 14 |
+| phase transition | 12 |
 
 ## Calculated phase diagrams
 
@@ -44,17 +44,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (12)
 
 Table: Phase transition, Sc–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1448.15 K | 1448.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.43; (αSc, αY): Y 0.5_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 16; `ORC-HP6VLPGRQG` |  |
-| Phase transition | 1453 K | 1453 |  | experimental | [2] Hu 2018 | p. 2; `ORC-3SIOTJUFQO` | “The phase transition lines of β↔α reach a common minimum at 1453 K, 43 at.% Y.” |
 | Phase transition | 1453.15 K | 1453.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.42; (αSc, αY): Y 0.5_ | model | [1] Wang 2009 | Table 5, p. 5, row 18; `ORC-5SW72A3H6Y` |  |
 | Phase transition | 1453.15 K | 1453.15 | congruent transformation: (βSc, βY) \<-> (αSc, αY); _(βSc, βY): Y 0.43; (αSc, αY): Y 0.5_ | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 5, p. 5, row 17; `ORC-IGXAH3XBSH` |  |
-| Phase transition | 1638 K | 1638 | other | experimental | [2] Hu 2018 | p. 2; `ORC-5I754NDLSB` | “The liquidus and solidus reach a common minimum at 1638 K, 50 at.% Y.” |
 | Phase transition | 1638.15 K | 1638.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | experimental | [1] Wang 2009; _cites Beaudry 1963_ | Table 5, p. 5, row 7; `ORC-MU2UBCVZNG` |  |
 | Phase transition | 1645.15 K | 1645.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | model | [1] Wang 2009 | Table 5, p. 5, row 9; `ORC-CXZHKIKUPC` |  |
 | Phase transition | 1645.15 K | 1645.15 | congruent melting: L \<-> (βSc, βY); _(βSc, βY): Y 0.5_ | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 5, p. 5, row 8; `ORC-HKYAEM2ENQ` |  |
@@ -70,7 +68,6 @@ Table: Phase transition, Sc–Y system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. S.L. Wang, C.P. Wang, X.J. Liu, K. Ishida, Thermodynamic assessments of the Ag–Y and Sc–Y systems, Journal of Alloys and Compounds 476, 187-192 (2009). [doi:10.1016/j.jallcom.2008.09.053](https://doi.org/10.1016/j.jallcom.2008.09.053)
-2. J.L. Hu, H. Bo, L.B. Liu, Z.P. Jin, Thermodynamic study of the Al-Sc-Y system, Thermochimica Acta 661, 147-159 (2018). [doi:10.1016/j.tca.2018.01.018](https://doi.org/10.1016/j.tca.2018.01.018)
 
 ## Please cite
 

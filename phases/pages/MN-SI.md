@@ -21,7 +21,7 @@ Table: Phases of the Mn–Si system (14)
 | [M5SI3_D88](#phase-mn-si-d88-m5si3); _phase:mn-si:d88-m5si3_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1570.82 K, x(Si) 0.375–0.375 | 15 | 5 |
 | [FCC_A1](#phase-mn-si-fcc-a1); _phase:mn-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1359.99–1486.78 K, x(Si) 0–0.02858 | 13 | 5 |
 | [HCP_A3](#phase-mn-si-hcp-a3); _phase:mn-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
-| [LIQUID](#phase-mn-si-liquid); _phase:mn-si:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1311.04–2500 K, x(Si) 0–1 | 47 | 5 |
+| [LIQUID](#phase-mn-si-liquid); _phase:mn-si:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1311.04–2500 K, x(Si) 0–1 | 53 | 5 |
 | [MN11SI19](#phase-mn-si-mn11si19); _phase:mn-si:mn11si19_ | Mn11Si19 · tP120 · P-4n2 (118) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1429.37 K, x(Si) 0.6326–0.63576 | 14 | 5 |
 | [MN5SI2](#phase-mn-si-mn5si2); _phase:mn-si:mn5si2_ | Mn5Si2 · tP56 · P4_12_12 (92) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1123.26 K, x(Si) 0.28571–0.28571 | 2 | 1 |
 | [MN6SI](#phase-mn-si-mn6si); _phase:mn-si:mn6si_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1155.85 K, x(Si) 0.1166–0.15396 | 9 | 5 |
@@ -36,7 +36,7 @@ Table: Phases of the Mn–Si system (14)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:a4-diamond)
 
 Names (9): _corpus: _corpus:phase:mn-si:a4-diamond, corpus:phase:mn-si:diamond-a4  
-_paper: _paper:10.1016/0364-5916(95)00007-2:Si1(dia_A4), paper:10.1016/s0364-5916(98)00037-6:diamond  
+_paper: _paper:10.1016/0364-5916(95)00007-2:Si1(dia_A4), paper:sha256-85fd53a1a176b694:diamond  
 _tdb: _tdb:MnSi-14Ber.tdb:DIAMOND_A4, tdb:MnSi-15Zhe.tdb:DIAMOND_A4, tdb:MnSi-18Lon.tdb:DIAMOND_A4, tdb:MnSi-91Tib-LB.tdb:DIAMOND_A4, tdb:MnSi-95Che.tdb:DIAMOND_A4  
 
 
@@ -77,7 +77,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:DIAMOND_A4, tdb:MnSi-15Zhe.tdb:DIAMOND_A4, tdb:MnSi-18
 56: CONST DIAMOND_A4 : SI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -87,8 +87,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MSI_B20 (Mn–Si)
 
@@ -105,7 +103,7 @@ _reports values for this phase_
 Names (12): _corpus: _corpus:phase:mn-si:b20-msi, corpus:phase:mn-si:msi-b20  
 _mp: _mp:mp-aaaaacdb  
 _oqmd: _oqmd:oqmd-3603  
-_paper: _paper:10.1016/0364-5916(95)00007-2:Mn1Si1, paper:10.1016/j.jallcom.2014.06.202:MnSi (weak), paper:10.1016/s0364-5916(98)00037-6:MnSi  
+_paper: _paper:10.1016/0364-5916(95)00007-2:Mn1Si1, paper:10.1016/j.jallcom.2014.06.202:MnSi (weak), paper:sha256-85fd53a1a176b694:MnSi  
 _tdb: _tdb:MnSi-14Ber.tdb:MSI_B20, tdb:MnSi-15Zhe.tdb:MSI_B20, tdb:MnSi-18Lon.tdb:MSI_B20, tdb:MnSi-91Tib-LB.tdb:MSI_B20, tdb:MnSi-95Che.tdb:MSI_B20  
 
 
@@ -146,7 +144,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:MSI_B20, tdb:MnSi-15Zhe.tdb:MSI_B20, tdb:MnSi-18Lon.td
 61: CONST MSI_B20 : MN : SI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -156,8 +154,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_A2 (Mn–Si)
 
@@ -168,7 +164,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:bcc-a2)
 
 Names (10): _corpus: _corpus:phase:mn-si:bcc-a2  
-_paper: _paper:10.1016/0364-5916(95)00007-2:Mn1(bcc_A2)(δ), paper:10.1016/0364-5916(95)00007-2:bcc_A2(δ), paper:10.1016/j.jallcom.2014.06.202:BCC_A2, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1016/0364-5916(95)00007-2:Mn1(bcc_A2)(δ), paper:10.1016/0364-5916(95)00007-2:bcc_A2(δ), paper:10.1016/j.jallcom.2014.06.202:BCC_A2, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:MnSi-14Ber.tdb:BCC_A2, tdb:MnSi-15Zhe.tdb:BCC_A2, tdb:MnSi-18Lon.tdb:BCC_A2, tdb:MnSi-91Tib-LB.tdb:BCC_A2, tdb:MnSi-95Che.tdb:BCC_A2  
 
 
@@ -209,7 +205,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:BCC_A2, tdb:MnSi-15Zhe.tdb:BCC_A2, tdb:MnSi-18Lon.tdb:
 36: CONST BCC_A2 : MN% SI : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -219,8 +215,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CBCC_A12 (Mn–Si)
 
@@ -231,7 +225,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:cbcc-a12)
 
 Names (8): _corpus: _corpus:phase:mn-si:cbcc-a12  
-_paper: _paper:10.1016/j.jallcom.2014.06.202:CBCC_A12, paper:10.1016/s0364-5916(98)00037-6:cbcc-A12  
+_paper: _paper:10.1016/j.jallcom.2014.06.202:CBCC_A12, paper:sha256-85fd53a1a176b694:cbcc-A12  
 _tdb: _tdb:MnSi-14Ber.tdb:CBCC_A12, tdb:MnSi-15Zhe.tdb:CBCC_A12, tdb:MnSi-18Lon.tdb:CBCC_A12, tdb:MnSi-91Tib-LB.tdb:CBCC_A12, tdb:MnSi-95Che.tdb:CBCC_A12  
 
 
@@ -272,7 +266,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:CBCC_A12, tdb:MnSi-15Zhe.tdb:CBCC_A12, tdb:MnSi-18Lon.
 46: CONST CBCC_A12 : MN% SI : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.jallcom.2014.06.202](https://doi.org/10.1016/j.jallcom.2014.06.202) A. Berche, E. Ruiz-Théron, J.-C. Tedenac, R.-M. Ayral, F. Rouessac, P. Jund, Thermodynamic description of the Mn–Si system: An experimental and theoretical work, Journal of Alloys and Compounds 615, 693-702 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -282,8 +276,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CUB_A13 (Mn–Si)
 
@@ -294,7 +286,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:cub-a13)
 
 Names (12): _corpus: _corpus:phase:mn-si:cub-a13  
-_paper: _paper:10.1016/0364-5916(95)00007-2:Mn1(cubic_A13 )(β), paper:10.1016/0364-5916(95)00007-2:Mn1(cubic_A13)(β), paper:10.1016/0364-5916(95)00007-2:cubic_A13 (β), paper:10.1016/0364-5916(95)00007-2:cubic_A13(β), paper:10.1016/j.jallcom.2014.06.202:CUB_A13, paper:10.1016/s0364-5916(98)00037-6:cub-A13  
+_paper: _paper:10.1016/0364-5916(95)00007-2:Mn1(cubic_A13 )(β), paper:10.1016/0364-5916(95)00007-2:Mn1(cubic_A13)(β), paper:10.1016/0364-5916(95)00007-2:cubic_A13 (β), paper:10.1016/0364-5916(95)00007-2:cubic_A13(β), paper:10.1016/j.jallcom.2014.06.202:CUB_A13, paper:sha256-85fd53a1a176b694:cub-A13  
 _tdb: _tdb:MnSi-14Ber.tdb:CUB_A13, tdb:MnSi-15Zhe.tdb:CUB_A13, tdb:MnSi-18Lon.tdb:CUB_A13, tdb:MnSi-91Tib-LB.tdb:CUB_A13, tdb:MnSi-95Che.tdb:CUB_A13  
 
 
@@ -335,7 +327,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:CUB_A13, tdb:MnSi-15Zhe.tdb:CUB_A13, tdb:MnSi-18Lon.td
 51: CONST CUB_A13 : MN% SI : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -345,8 +337,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1002/srin.193400477](https://doi.org/10.1002/srin.193400477) Rudolf Vogel, Herbert Bedarff, Das Zustandsschaubild Mangan‐Silizium, Steel Research Intl 7, 423-425 (1934).  
 _cited as the source of values for this phase_
 
@@ -363,7 +353,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:d03-m3si)
 
 Names (9): _corpus: _corpus:phase:mn-si:d03-m3si, corpus:phase:mn-si:m3si-d03  
-_paper: _paper:10.1016/0364-5916(95)00007-2:Mn3Si1, paper:10.1016/s0364-5916(98)00037-6:Mn3Si  
+_paper: _paper:10.1016/0364-5916(95)00007-2:Mn3Si1, paper:sha256-85fd53a1a176b694:Mn3Si  
 _tdb: _tdb:MnSi-14Ber.tdb:M3SI_D03, tdb:MnSi-15Zhe.tdb:M3SI_D03, tdb:MnSi-18Lon.tdb:M3SI_D03, tdb:MnSi-91Tib-LB.tdb:M3SI_D03, tdb:MnSi-95Che.tdb:M3SI_D03  
 
 
@@ -404,7 +394,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:M3SI_D03, tdb:MnSi-15Zhe.tdb:M3SI_D03, tdb:MnSi-18Lon.
 78: CONST M3SI_D03 : MN : SI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -414,8 +404,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## M5SI3_D88 (Mn–Si)
 
@@ -429,7 +417,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:d88-m5si3)
 
 Names (9): _corpus: _corpus:phase:mn-si:d88-m5si3, corpus:phase:mn-si:m5si3-d88  
-_paper: _paper:10.1016/0364-5916(95)00007-2:Mn5Si3, paper:10.1016/s0364-5916(98)00037-6:Mn5Si3  
+_paper: _paper:10.1016/0364-5916(95)00007-2:Mn5Si3, paper:sha256-85fd53a1a176b694:Mn5Si3  
 _tdb: _tdb:MnSi-14Ber.tdb:M5SI3_D88, tdb:MnSi-15Zhe.tdb:M5SI3_D88, tdb:MnSi-18Lon.tdb:M5SI3_D88, tdb:MnSi-91Tib-LB.tdb:M5SI3_D88, tdb:MnSi-95Che.tdb:M5SI3_D88  
 
 
@@ -470,7 +458,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:M5SI3_D88, tdb:MnSi-15Zhe.tdb:M5SI3_D88, tdb:MnSi-18Lo
 88: CONST M5SI3_D88 : MN : SI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -480,8 +468,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Mn–Si)
 
@@ -492,7 +478,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:fcc-a1)
 
 Names (11): _corpus: _corpus:phase:mn-si:fcc-a1  
-_paper: _paper:10.1016/0364-5916(95)00007-2:Mn1(fcc_A1)(γ), paper:10.1016/0364-5916(95)00007-2:fcc-A1(γ), paper:10.1016/0364-5916(95)00007-2:fcc_A1(γ), paper:10.1016/j.jallcom.2014.06.202:FCC_A1, paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:10.1016/0364-5916(95)00007-2:Mn1(fcc_A1)(γ), paper:10.1016/0364-5916(95)00007-2:fcc-A1(γ), paper:10.1016/0364-5916(95)00007-2:fcc_A1(γ), paper:10.1016/j.jallcom.2014.06.202:FCC_A1, paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:MnSi-14Ber.tdb:FCC_A1, tdb:MnSi-15Zhe.tdb:FCC_A1, tdb:MnSi-18Lon.tdb:FCC_A1, tdb:MnSi-91Tib-LB.tdb:FCC_A1, tdb:MnSi-95Che.tdb:FCC_A1  
 
 
@@ -533,7 +519,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:FCC_A1, tdb:MnSi-15Zhe.tdb:FCC_A1, tdb:MnSi-18Lon.tdb:
 31: CONST FCC_A1 : MN% SI : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -545,8 +531,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1002/srin.193400477](https://doi.org/10.1002/srin.193400477) Rudolf Vogel, Herbert Bedarff, Das Zustandsschaubild Mangan‐Silizium, Steel Research Intl 7, 423-425 (1934).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Mn–Si)
 
@@ -613,11 +597,11 @@ _assessment that models this phase_
 - Id: `phase:mn-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 1311.04–2500 K, x(Si) 0–1
-- Literature: 47 values (47 accepted) from 3 papers
+- Literature: 53 values (53 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:liquid)
 
 Names (10): _corpus: _corpus:phase:mn-si:liquid  
-_paper: _paper:10.1016/0364-5916(95)00007-2:L, paper:10.1016/0364-5916(95)00007-2:Mn1(L), paper:10.1016/j.jallcom.2014.06.202:liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1016/0364-5916(95)00007-2:L, paper:10.1016/0364-5916(95)00007-2:Mn1(L), paper:10.1016/j.jallcom.2014.06.202:liquid, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:MnSi-14Ber.tdb:LIQUID, tdb:MnSi-15Zhe.tdb:LIQUID, tdb:MnSi-18Lon.tdb:LIQUID, tdb:MnSi-91Tib-LB.tdb:LIQUID, tdb:MnSi-95Che.tdb:LIQUID  
 
 
@@ -658,7 +642,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:LIQUID, tdb:MnSi-15Zhe.tdb:LIQUID, tdb:MnSi-18Lon.tdb:
 26: CONST LIQUID:L : MN SI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -668,8 +652,10 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
+- [doi:10.1002/srin.193400477](https://doi.org/10.1002/srin.193400477) Rudolf Vogel, Herbert Bedarff, Das Zustandsschaubild Mangan‐Silizium, Steel Research Intl 7, 423-425 (1934).  
+_cited as the source of values for this phase_
+- [doi:10.1002/zaac.19060500113](https://doi.org/10.1002/zaac.19060500113) Fr. Doerinckel, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XXX. Über die Verbindungen des Mangans mit Silicium, Z. Anorg. Chem. 50, 117-126 (1906).  
+_cited as the source of values for this phase_
 
 ## MN11SI19 (Mn–Si)
 
@@ -682,7 +668,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:mn11si19)
 
 Names (9): _corpus: _corpus:phase:mn-si:mn11si19  
-_paper: _paper:10.1016/0364-5916(95)00007-2:Mn11Si19, paper:10.1016/j.jallcom.2018.07.211:Mn11Si19, paper:10.1016/s0364-5916(98)00037-6:Mn11Si19  
+_paper: _paper:10.1016/0364-5916(95)00007-2:Mn11Si19, paper:10.1016/j.jallcom.2018.07.211:Mn11Si19, paper:sha256-85fd53a1a176b694:Mn11Si19  
 _tdb: _tdb:MnSi-14Ber.tdb:MN11SI19, tdb:MnSi-15Zhe.tdb:MN11SI19, tdb:MnSi-18Lon.tdb:MN11SI19, tdb:MnSi-91Tib-LB.tdb:MN11SI19, tdb:MnSi-95Che.tdb:MN11SI19  
 
 
@@ -723,7 +709,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:MN11SI19, tdb:MnSi-15Zhe.tdb:MN11SI19, tdb:MnSi-18Lon.
 93: CONST MN11SI19 : MN : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -733,8 +719,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2015.01.261](https://doi.org/10.1016/j.jallcom.2015.01.261) Weisen Zheng, Xiao-Gang Lu, Yanlin He, Yuwen Cui, Lin Li, Thermodynamic assessment of the Fe–Mn–Si system and atomic mobility of its fcc phase, Journal of Alloys and Compounds 632, 661-675 (2015).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/s0925-8388(98)00742-7](https://doi.org/10.1016/s0925-8388%2898%2900742-7) A.V Morozkin, Yu.D Seropegin, I.A Sviridov, V.A Moskalev, I.A Tskhadadze, I.G Ryabinkin, Phase equilibria in the {Sm,Tb,Tm}–Mn–Si systems at 870/1070 K, Journal of Alloys and Compounds 280, 178-187 (1998).  
 _cited as the source of values for this phase_
 
@@ -785,7 +769,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:mn6si)
 
 Names (11): _corpus: _corpus:phase:mn-si:mn6si  
-_paper: _paper:10.1016/0364-5916(95)00007-2:Mn6Si1 (R), paper:10.1016/0364-5916(95)00007-2:Mn6Si1(R), paper:10.1016/j.jallcom.2014.06.202:Mn6Si, paper:10.1016/j.jallcom.2018.07.211:Mn6Si, paper:10.1016/s0364-5916(98)00037-6:Mn6Si  
+_paper: _paper:10.1016/0364-5916(95)00007-2:Mn6Si1 (R), paper:10.1016/0364-5916(95)00007-2:Mn6Si1(R), paper:10.1016/j.jallcom.2014.06.202:Mn6Si, paper:10.1016/j.jallcom.2018.07.211:Mn6Si, paper:sha256-85fd53a1a176b694:Mn6Si  
 _tdb: _tdb:MnSi-14Ber.tdb:MN6SI, tdb:MnSi-15Zhe.tdb:MN6SI, tdb:MnSi-18Lon.tdb:MN6SI, tdb:MnSi-91Tib-LB.tdb:MN6SI, tdb:MnSi-95Che.tdb:MN6SI  
 
 
@@ -826,7 +810,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:MN6SI, tdb:MnSi-15Zhe.tdb:MN6SI, tdb:MnSi-18Lon.tdb:MN
 66: CONST MN6SI : MN : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -836,8 +820,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2015.01.261](https://doi.org/10.1016/j.jallcom.2015.01.261) Weisen Zheng, Xiao-Gang Lu, Yanlin He, Yuwen Cui, Lin Li, Thermodynamic assessment of the Fe–Mn–Si system and atomic mobility of its fcc phase, Journal of Alloys and Compounds 632, 661-675 (2015).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/s0925-8388(98)00742-7](https://doi.org/10.1016/s0925-8388%2898%2900742-7) A.V Morozkin, Yu.D Seropegin, I.A Sviridov, V.A Moskalev, I.A Tskhadadze, I.G Ryabinkin, Phase equilibria in the {Sm,Tb,Tm}–Mn–Si systems at 870/1070 K, Journal of Alloys and Compounds 280, 178-187 (1998).  
 _cited as the source of values for this phase_
 
@@ -857,7 +839,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-si:mn9si2)
 
 Names (9): _corpus: _corpus:phase:mn-si:mn9si2  
-_paper: _paper:10.1016/0364-5916(95)00007-2:Mn9Si2(v), paper:10.1016/j.jallcom.2018.07.211:Mn9Si2, paper:10.1016/s0364-5916(98)00037-6:Mn9Si2  
+_paper: _paper:10.1016/0364-5916(95)00007-2:Mn9Si2(v), paper:10.1016/j.jallcom.2018.07.211:Mn9Si2, paper:sha256-85fd53a1a176b694:Mn9Si2  
 _tdb: _tdb:MnSi-14Ber.tdb:MN9SI2, tdb:MnSi-15Zhe.tdb:MN9SI2, tdb:MnSi-18Lon.tdb:MN9SI2, tdb:MnSi-91Tib-LB.tdb:MN9SI2, tdb:MnSi-95Che.tdb:MN9SI2  
 
 
@@ -898,7 +880,7 @@ _tdb: _tdb:MnSi-14Ber.tdb:MN9SI2, tdb:MnSi-15Zhe.tdb:MN9SI2, tdb:MnSi-18Lon.tdb:
 71: CONST MN9SI2 : MN : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/0364-5916(95)00007-2](https://doi.org/10.1016/0364-5916%2895%2900007-2) Pierre-Yves Chevalier, E. Fischer, A. Rivet, A thermodynamic evaluation of the Mn-Si system, Calphad 19, 57-68 (1995).  
 _assessment that models this phase; reports values for this phase_
@@ -908,8 +890,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2015.01.261](https://doi.org/10.1016/j.jallcom.2015.01.261) Weisen Zheng, Xiao-Gang Lu, Yanlin He, Yuwen Cui, Lin Li, Thermodynamic assessment of the Fe–Mn–Si system and atomic mobility of its fcc phase, Journal of Alloys and Compounds 632, 661-675 (2015).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/s0925-8388(98)00742-7](https://doi.org/10.1016/s0925-8388%2898%2900742-7) A.V Morozkin, Yu.D Seropegin, I.A Sviridov, V.A Moskalev, I.A Tskhadadze, I.G Ryabinkin, Phase equilibria in the {Sm,Tb,Tm}–Mn–Si systems at 870/1070 K, Journal of Alloys and Compounds 280, 178-187 (1998).  
 _cited as the source of values for this phase_
 

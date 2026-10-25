@@ -1,10 +1,10 @@
 # Sb–Tb system
 
-> Sb–Tb system: 16 accepted literature values (invariant reaction 15, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Tb system: 13 accepted literature values (invariant reaction 12, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-TB.html · Markdown: https://data.orchid-project.org/systems/SB-TB.md
 
-16 accepted literature values from 1 paper(s) (experimental 6, model 10); 1 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 6, model 7); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-TB.json) · [CSV](https://data.orchid-project.org/systems/SB-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-TB/SbTb-12Gao.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SB-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-TB.html) · [Markdown](https://data.orchid-project.org/systems/SB-TB.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 10 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 15 |
+| invariant reaction | 12 |
 | phase transition | 1 |
 
 ## Calculated phase diagrams
@@ -58,25 +58,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sb–Tb system (15)
+Table: Invariant reactions reported in the literature for the Sb–Tb system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2043.15 | L + (α-SbTb) -> (β-Sb3Tb4) | L: Tb 0.668; (α-SbTb): Tb 0.5; (β-Sb3Tb4): Tb 0.571 | model | [1] Gao 2012 | Table 2, p. 2, row 5; `ORC-DHVIH4TAXW` |  |
-| 2043.15 | peritectic |  | model | [1] Gao 2012 | p. 4; `ORC-GANLP2YYI7.0c225d` | “The calculated peritectic temperatures of the three intermetallic compounds (Sb2 Tb, Sb3 Tb4 , and Sb3 Tb5 ) are 740, 1770, and 1650 °C, respectively, and the calculated eutectic temperatures in this binary system are 620 and 1130 °C.” |
 | 2043.15 | L + (α-SbTb) -> (β-Sb3Tb4) | L: Tb 0.61; (α-SbTb): Tb 0.5; (β-Sb3Tb4): Tb 0.571 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 6; `ORC-OHSZKX4V5Z` |  |
 | 1923.15 | L + (β-Sb3Tb4) -> Sb3Tb5 | L: Tb 0.706; (β-Sb3Tb4): Tb 0.571; Sb3Tb5: Tb 0.625 | model | [1] Gao 2012 | Table 2, p. 2, row 7; `ORC-4YPY4WAPJ2` |  |
 | 1923.15 | L + (β-Sb3Tb4) -> Sb3Tb5 | L: Tb 0.651; (β-Sb3Tb4): Tb 0.571; Sb3Tb5: Tb 0.625 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 8; `ORC-DEKLZ4O2T5` |  |
-| 1923.15 | peritectic |  | model | [1] Gao 2012 | p. 4; `ORC-GANLP2YYI7.c6cd2b` | “The calculated peritectic temperatures of the three intermetallic compounds (Sb2 Tb, Sb3 Tb4 , and Sb3 Tb5 ) are 740, 1770, and 1650 °C, respectively, and the calculated eutectic temperatures in this binary system are 620 and 1130 °C.” |
 | 1538.15 | (β-Tb) -> (α-Tb) + L | (β-Tb): Tb 0.985; (α-Tb): Tb 0.99; L: Tb 0.916 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 12; `ORC-WENDURIRNY` |  |
 | 1538.15 | (β-Tb) -> (α-Tb) + L | (β-Tb): Tb 0.991; (α-Tb): Tb 0.995; L: Tb 0.937 | model | [1] Gao 2012 | Table 2, p. 2, row 11; `ORC-ZAIUJSB6ED` |  |
-| 1403.15 | L -> (α-Tb) + Sb3Tb5 | L: Tb 0.877; (α-Tb): Tb 0.983; Sb3Tb5: Tb 0.625 | model | [1] Gao 2012 | Table 2, p. 2, row 9; `ORC-2Q6QSWEA4B` |  |
-| 1403.15 | L -> (α-Tb) + Sb3Tb5 | L: Tb 0.86; (α-Tb): Tb 0.99; Sb3Tb5: Tb 0.625 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 10; `ORC-RZKWOE5R2E` |  |
+| 1403.15 | eutectic: L -> (α-Tb) + Sb3Tb5 | L: Tb 0.877; (α-Tb): Tb 0.983; Sb3Tb5: Tb 0.625 | model | [1] Gao 2012 | Table 2, p. 2, row 9; `ORC-2Q6QSWEA4B` |  |
+| 1403.15 | eutectic: L -> (α-Tb) + Sb3Tb5 | L: Tb 0.86; (α-Tb): Tb 0.99; Sb3Tb5: Tb 0.625 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 10; `ORC-RZKWOE5R2E` |  |
 | 1013.15 | L + (α-SbTb) -> Sb2Tb | L: Tb 0.046; (α-SbTb): Tb 0.5; Sb2Tb: Tb 0.333 | model | [1] Gao 2012 | Table 2, p. 2, row 3; `ORC-CNKE2BJF53` |  |
 | 1013.15 | L + (α-SbTb) -> Sb2Tb | L: Tb 0.022; (α-SbTb): Tb 0.5; Sb2Tb: Tb 0.333 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 4; `ORC-EMIOKABRX5` |  |
-| 1013.15 | peritectic |  | model | [1] Gao 2012 | p. 4; `ORC-GANLP2YYI7.b68f75` | “The calculated peritectic temperatures of the three intermetallic compounds (Sb2 Tb, Sb3 Tb4 , and Sb3 Tb5 ) are 740, 1770, and 1650 °C, respectively, and the calculated eutectic temperatures in this binary system are 620 and 1130 °C.” |
-| 896.15 | L -> (Sb) + Sb2Tb | L: Tb 0.008; (Sb): Tb 0; Sb2Tb: Tb 0.333 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 2; `ORC-5A3XBHVJP2` |  |
-| 896.15 | L -> (Sb) + Sb2Tb | L: Tb 0.018; (Sb): Tb 0; Sb2Tb: Tb 0.333 | model | [1] Gao 2012 | Table 2, p. 2, row 1; `ORC-CYQGT7A7ZD` |  |
+| 896.15 | eutectic: L -> (Sb) + Sb2Tb | L: Tb 0.008; (Sb): Tb 0; Sb2Tb: Tb 0.333 | experimental | [1] Gao 2012; _cites Massalski 1990_ | Table 2, p. 2, row 2; `ORC-5A3XBHVJP2` |  |
+| 896.15 | eutectic: L -> (Sb) + Sb2Tb | L: Tb 0.018; (Sb): Tb 0; Sb2Tb: Tb 0.333 | model | [1] Gao 2012 | Table 2, p. 2, row 1; `ORC-CYQGT7A7ZD` |  |
 
 ## Other properties
 

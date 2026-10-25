@@ -20,7 +20,7 @@ Table: Phases of the Ge–Ti system (9)
 | [GE4TI5](#phase-ge-ti-ge4ti5); _phase:ge-ti:ge4ti5_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1878.4 K, x(Ti) 0.55556–0.55556 | 2 | 1 |
 | [GE5TI6](#phase-ge-ti-ge5ti6); _phase:ge-ti:ge5ti6_ | Si5V6 · oI44 · Ibam (72) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1939.17 K, x(Ti) 0.54545–0.54545 | 15 | 2 |
 | [HCP_A3](#phase-ge-ti-hcp-a3); _phase:ge-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1167.08 K, x(Ti) 0.9579–1 | 8 | 2 |
-| [LIQUID](#phase-ge-ti-liquid); _phase:ge-ti:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1196.78–2500 K, x(Ti) 0–1 | 37 | 2 |
+| [LIQUID](#phase-ge-ti-liquid); _phase:ge-ti:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1196.78–2500 K, x(Ti) 0–1 | 38 | 2 |
 
 ## DIAMOND_A4 (Ge–Ti)
 
@@ -345,11 +345,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ge-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1196.78–2500 K, x(Ti) 0–1
-- Literature: 37 values (37 accepted) from 2 papers
+- Literature: 38 values (38 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-ti:liquid)
 
-Names (5): _corpus: _corpus:phase:ge-ti:liquid  
-_paper: _paper:10.1007/s11669-023-01028-0:L, paper:10.1016/j.tca.2011.04.017:L  
+Names (6): _corpus: _corpus:phase:ge-ti:liquid  
+_paper: _paper:10.1007/s11669-023-01028-0:L, paper:10.1007/s11669-023-01028-0:liquid, paper:10.1016/j.tca.2011.04.017:L  
 _tdb: _tdb:GeTi-11Liu.tdb:LIQUID, tdb:GeTi-23Zob.tdb:LIQUID  
 
 

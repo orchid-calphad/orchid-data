@@ -1,10 +1,10 @@
 # Cr–O system
 
-> Cr–O system: 9 accepted literature values (phase transition 7, invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–O system: 3 accepted literature values (phase transition 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-O.html · Markdown: https://data.orchid-project.org/systems/CR-O.md
 
-9 accepted literature values from 1 paper(s) (experimental 3, model 6); 3 calculated phase diagram(s).
+3 accepted literature values from 1 paper(s) (experimental 2, model 1); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-O.json) · [CSV](https://data.orchid-project.org/systems/CR-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-O/CrO-06Pov.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CR-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-O.html) · [Markdown](https://data.orchid-project.org/systems/CR-O.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
-| model | 6 |
+| experimental | 2 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
-| phase transition | 7 |
+| phase transition | 3 |
 
 ## Calculated phase diagrams
 
@@ -55,30 +54,17 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CR/CR-O.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CR/CR-O.json) · [CALPHAD hull CrO-06Pov](https://data.orchid-project.org/hulls/calphad-sgte/CR/CR-O--CrO-06Pov.json) · [CALPHAD hull CrO-90Tay](https://data.orchid-project.org/hulls/calphad-sgte/CR/CR-O--CrO-90Tay.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cr–O system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1973 | peritectic |  | model | [1] Povoden 2006 | p. 8; `ORC-GNLVENDC3L` | “At a mole fraction of oxygen >0.497 it decomposes in a peritectic reaction at 1973 K that forms Cr2O3 and liquid.” |
-| 1938 | eutectic |  | model | [1] Povoden 2006 | p. 8; `ORC-B5PNSHH53C.f96283` | “For the monotectic temperature of the reaction of Cr (bcc) and liquid, the present authors calculate 2117 K, and for the eutectic one gets 1938 K at a mole fraction of oxygen of 0.497.” |
-
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (3)
 
 Table: Phase transition, Cr–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 305.5 K | 305.5 | magnetic | experimental | [1] Povoden 2006 | p. 3; `ORC-7LADEUDZEX` | “Eskolaite shows an antiferromagnetic to paramagnetic transition at 305.5 K.” |
-| Phase transition | 1918 K | 1918 | other: Cr2O3 + Cr + 1⁄2 O2 → Cr3O4 | model | [1] Povoden 2006 | p. 8; `ORC-JTS3YFGBFT` | “Cr3O4 is formed at 1918 K by a eutectoid reaction Cr2O3 + Cr + 1⁄2 O2 → Cr3O4.” |
-| Phase transition | 2117 K | 2117 | other | model | [1] Povoden 2006 | p. 8; `ORC-B5PNSHH53C.cc0e10` | “For the monotectic temperature of the reaction of Cr (bcc) and liquid, the present authors calculate 2117 K, and for the eutectic one gets 1938 K at a mole fraction of oxygen of 0.497.” |
-| Phase transition | 2539 K | 2539 | other | model | [1] Povoden 2006 | p. 8; `ORC-B5PNSHH53C.c1bc07` | “The calculated liquidus temperature of eskolaite in air is 2539 K, in good agreement with the measurement from Bunting.\[7\]” |
 | Phase transition | 2543 K | 2543 | other | experimental | [1] Povoden 2006; _cites Bunting 1931_ | p. 3; `ORC-22JWIFLKKA.e40b08` | “Their calculated liquidus temperature of Cr2O3 in air is 2571.16 K, which is in good agreement with an early finding by Bunting\[7\] who measured 2543 ± 25 K.” |
 | Phase transition | 2571.16 K | 2571.16 | other | model | [1] Povoden 2006 | p. 3; `ORC-22JWIFLKKA.f980e8` | “Their calculated liquidus temperature of Cr2O3 in air is 2571.16 K, which is in good agreement with an early finding by Bunting\[7\] who measured 2543 ± 25 K.” |
-| Phase transition | 2603 K | 2603 |  | experimental | [1] Povoden 2006; _cites McNally 1961_ | p. 1; `ORC-WPRS6SAVFC` | “McNally\[6\] measured a melting temperature of 2603 K in air using an induction furnace.” |
 
 ## Sources
 

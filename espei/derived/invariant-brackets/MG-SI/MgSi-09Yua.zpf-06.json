@@ -181,7 +181,7 @@
     "x0": 0.013,
     "hyperplane_delta": 0.0065,
     "reaction_printed": "L -> (Mg)-hcp + Mg2Si",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -200,7 +200,7 @@
     "x0": 0.013,
     "hyperplane_delta": 0.0065,
     "reaction_printed": "L -> (Mg)-hcp + Mg2Si",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -219,7 +219,7 @@
     "x0": 0.541,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Mg2Si + Si-diamond",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -238,7 +238,7 @@
     "x0": 0.541,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Mg2Si + Si-diamond",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

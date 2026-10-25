@@ -35,8 +35,8 @@ Table: Uncertainty budget of the literature values of Na3Sb
 | -53.25 | kJ/mol-atom |  | 0.125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -49.25 | kJ/mol-atom |  | 0.125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -56.5 | kJ/mol-atom |  | 0.125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -1.786 | eV |  | 5.000e-4 | 0.4224 (dft, calibrated) |  |  |  | 0.4224 |
-| -1.784 | eV |  | 5.000e-4 | 0.4224 (dft, calibrated) |  |  |  | 0.4224 |
+| -1.786 | eV |  | 5.000e-4 | 0.4148 (dft, calibrated) |  |  |  | 0.4148 |
+| -1.784 | eV |  | 5.000e-4 | 0.4148 (dft, calibrated) |  |  |  | 0.4148 |
 
 ## DFT formation energies
 

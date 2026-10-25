@@ -27,9 +27,9 @@ Table: Uncertainty budget of the literature values of Pb3Yb5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -66.5 | kJ/mol-atom | 2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -57.7 | kJ/mol-atom | 1 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -55.5 | kJ/mol-atom | 2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -66.5 | kJ/mol-atom | 2 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -57.7 | kJ/mol-atom | 1 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -55.5 | kJ/mol-atom | 2 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -68.02 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies

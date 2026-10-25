@@ -1,0 +1,228 @@
+{
+ "components": [
+  "C",
+  "CR",
+  "VA"
+ ],
+ "phases": [
+  "CR3C2_D510",
+  "LIQUID",
+  "M23C6_D84",
+  "M7C3_D101"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1848,
+   1998
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M7C3_D101",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M23C6_D84",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.7465517239999999
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "M7C3_D101",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CR3C2_D510",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.6499999999999999
+    ]
+   ]
+  ]
+ ],
+ "reference": "1981, O. Knotek, E. Lugscheider, H. Reimann, and H.G. Sasse: Metall, 1981, vol. 35, pp. 130-32.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid",
+  "calphad_certified"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3IRDQRC6UL ORC-YE4Q6BLKDZ",
+ "bibtex": "knotek1981_660cd4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3IRDQRC6UL",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02646072",
+    "measured_in": "ref:5e6158f1f69bb470"
+   },
+   {
+    "id": "ORC-YE4Q6BLKDZ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02646072",
+    "measured_in": "ref:5e6158f1f69bb470"
+   }
+  ],
+  "papers": [
+   "ref:5e6158f1f69bb470",
+   "doi:10.1007/bf02646072"
+  ],
+  "dois": [
+   "10.1007/bf02646072"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CrC-90Kaj/zpf-00.json",
+  "values_dropped": 3
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature), mole fraction (composition)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4918,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 5e-11,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3014,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4918,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.05,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.05,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3014,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
+ },
+ "orchid_zpf_encoding": {
+  "line_compound_vertices_null": 4,
+  "hyperplanes_added": 0,
+  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": true,
+  "n_certified": 2,
+  "values": [
+   {
+    "id": "ORC-3IRDQRC6UL",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-YE4Q6BLKDZ",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   }
+  ]
+ }
+}

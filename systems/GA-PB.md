@@ -1,10 +1,10 @@
 # Ga–Pb system
 
-> Ga–Pb system: 874 accepted literature values (heat capacity / entropy / enthalpy 717, phase transition 70, activity / EMF / Gibbs energy 36, mixing / partial 24) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Pb system: 866 accepted literature values (heat capacity / entropy / enthalpy 717, phase transition 66, activity / EMF / Gibbs energy 36, mixing / partial 24) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-PB.html · Markdown: https://data.orchid-project.org/systems/GA-PB.md
 
-874 accepted literature values from 2 paper(s) (experimental 864, model 7, unspecified 3); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+866 accepted literature values from 2 paper(s) (experimental 861, model 2, unspecified 3); 2 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON part 1](https://data.orchid-project.org/literature/systems/GA-PB.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/GA-PB.part2.json) · [CSV](https://data.orchid-project.org/systems/GA-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PB/GaPb-91Ans-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GA-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-PB.html) · [Markdown](https://data.orchid-project.org/systems/GA-PB.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 864 |
-| model | 7 |
+| experimental | 861 |
+| model | 2 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 10 |
-| phase transition | 70 |
+| invariant reaction | 6 |
+| phase transition | 66 |
 | phase equilibrium | 17 |
 | mixing / partial | 24 |
 | heat capacity / entropy / enthalpy | 717 |
@@ -53,7 +53,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ga–Pb system (10)
+Table: Invariant reactions reported in the literature for the Ga–Pb system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -61,16 +61,12 @@ Table: Invariant reactions reported in the literature for the Ga–Pb system (10
 | 586.15 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.945; L1: Pb 0.024 | unspecified | [1] Ansara 1991; _cites ref. 59Pre_ | Table 2, p. 3, row 6; `ORC-NEIYPWUDBS` |  |
 | 585.75 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.969; L1: Pb 0.016; (Pb): Pb 0.998 | model | [1] Ansara 1991 | Table 2, p. 3, row 7; `ORC-H6ESXOZNZ4` |  |
 | 584.15 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.958; (Pb): Pb 0.9952 | experimental | [1] Ansara 1991; _cites Greenwood 1959_ | Table 2, p. 3, row 5; `ORC-2AHURWIG6H` |  |
-| 584.1 | monotectic |  | experimental | [2] Mathon 1996 | p. 6; `ORC-U6ADQSHY4Q` | “Moreover, Cp determination performed at lower temperatures enables us to confirm the monotectic temperature at T = 584.1 K.” |
-| 584 | monotectic |  | model | [2] Mathon 1996 | p. 9; `ORC-XRYACTX2GF.999d5e` | “R e m a r k : the use of option II information leads us to the following thermodynamic results. Calculated coordinates: eutectic Xliq, Pb ~--- 0.0002; xfcc, Pb 0.9999; T = 302.9 K monotectic X,ql, eb = 0.0279; xliq> Pb = 0.9611; Xfcc,Pb ~-0.9956; T = 584 K critical point xl.q, Pb = 0.466; T = 885 K” |
-| 302.9 | eutectic |  | model | [2] Mathon 1996 | p. 8; `ORC-OZE5YC6WRP.43889c` | “5.2.1. Option I Calculated coordinates: eutectic X l i q , Pb = 0.0002; X f c c , Pb = 0.9999; T = 302.9 K m o n o t e c t i c X,iq~' Pb = 0.0283; Xliq2' Pb = 0.9605; Xfcc, Pb = 0.9955; T - - 583.8 K critical point X l i q , Pb = 0.468; T = 879.3 K” |
-| 302.9 | eutectic |  | model | [2] Mathon 1996 | p. 9; `ORC-XRYACTX2GF.8b9f6c` | “R e m a r k : the use of option II information leads us to the following thermodynamic results. Calculated coordinates: eutectic Xliq, Pb ~--- 0.0002; xfcc, Pb 0.9999; T = 302.9 K monotectic X,ql, eb = 0.0279; xliq> Pb = 0.9611; Xfcc,Pb ~-0.9956; T = 584 K critical point xl.q, Pb = 0.466; T = 885 K” |
 | 302.899 | eutectic: L -> Ga + Pb | L: Pb 0.001; Ga: Pb 0; Pb: Pb 1 | model | [1] Ansara 1991 | Table 2, p. 3, row 3; `ORC-NFZKNB77J3` |  |
 | 302.85 | eutectic: L -> Ga + Pb | Ga: Pb 0; Pb: Pb 1 | experimental | [1] Ansara 1991; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | Table 2, p. 3, row 2; `ORC-BXB6JV7GRO` |  |
 
 ## Other properties
 
-### Phase transition (70)
+### Phase transition (66)
 
 Table: Phase transition, Ga–Pb system
 
@@ -86,8 +82,6 @@ Table: Phase transition, Ga–Pb system
 | Phase transition | 586 K | 586 | Greenwood \[7\]; _alloy: Ga 0.0042, Pb 0.9958_ | experimental | [2] Mathon 1996; _cites Greenwood 1958_ | Table 5, p. 7, row 28; `ORC-MC5DQDV3BC` |  |
 | Phase transition | 586 K | 586 | Predel \[8\]; _alloy: Ga 0.055, Pb 0.945_ | experimental | [2] Mathon 1996; _cites Predel 1959_ | Table 5, p. 7, row 65; `ORC-K6M2IJEERF` |  |
 | Phase transition | 586 K | 586 | Predel \[8\]; _alloy: Ga 0.976, Pb 0.024_ | experimental | [2] Mathon 1996; _cites Predel 1959_ | Table 5, p. 7, row 48; `ORC-ONWYHTBS6K` |  |
-| Phase transition | 590 K | 590 | other | experimental | [2] Mathon 1996; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | p. 2; `ORC-IJC2DYWH7C` | “Puschin et al. \[4\] indicated a liquid-liquid equilibrium at the lead molar fraction Xpb = 0.865 and temperature 590 K.” |
-| Phase transition | 590.15 K | 590.15 | other | experimental | [1] Ansara 1991; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | p. 1; `ORC-PBCDFW4R7N` | “The phase relationships in the Ga-Pb system were investigated first by \[32Pus\], who reported a monotectic transformation at 317 \*C and 86.47 at.% (95 wt.%) Pb.” |
 | Phase transition | 591 K | 591 | Greenwood \[7\]; _alloy: Ga 0.022, Pb 0.978_ | experimental | [2] Mathon 1996; _cites Greenwood 1958_ | Table 5, p. 7, row 23; `ORC-3IYEGQSEV3` |  |
 | Phase transition | 593 K | 593 | Predel \[8\]; _alloy: Ga 0.06, Pb 0.94_ | experimental | [2] Mathon 1996; _cites Predel 1959_ | Table 5, p. 7, row 64; `ORC-3P7QOJ2SA7` |  |
 | Phase transition | 593 K | 593 | Predel \[8\]; _alloy: Ga 0.98, Pb 0.02_ | experimental | [2] Mathon 1996; _cites Predel 1959_ | Table 5, p. 7, row 49; `ORC-TRCUK4VJVH` |  |
@@ -143,9 +137,7 @@ Table: Phase transition, Ga–Pb system
 | Phase transition | 876 K | 876 | This work, series b; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996 | Table 5, p. 7, row 37; `ORC-M23VMDUR5L` |  |
 | Phase transition | 876 K | 876 | This work, series b; _alloy: Ga 0.48, Pb 0.52_ | experimental | [2] Mathon 1996 | Table 5, p. 7, row 39; `ORC-NDUJXGROJQ` |  |
 | Phase transition | 879 K | 879 | This work, series a; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996 | Table 5, p. 7, row 11; `ORC-OP5OBMY2WY` |  |
-| Phase transition | 879.3 K | 879.3 | other | model | [2] Mathon 1996 | p. 8; `ORC-OZE5YC6WRP.1a3f15` | “5.2.1. Option I Calculated coordinates: eutectic X l i q , Pb = 0.0002; X f c c , Pb = 0.9999; T = 302.9 K m o n o t e c t i c X,iq~' Pb = 0.0283; Xliq2' Pb = 0.9605; Xfcc, Pb = 0.9955; T - - 583.8 K critical point X l i q , Pb = 0.468; T = 879.3 K” |
 | Phase transition | 880 K | 880 | This work, series a; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996 | Table 5, p. 7, row 13; `ORC-WN6FJKU4VN` |  |
-| Phase transition | 885 K | 885 | other | model | [2] Mathon 1996 | p. 9; `ORC-XRYACTX2GF.a92f30` | “R e m a r k : the use of option II information leads us to the following thermodynamic results. Calculated coordinates: eutectic Xliq, Pb ~--- 0.0002; xfcc, Pb 0.9999; T = 302.9 K monotectic X,ql, eb = 0.0279; xliq> Pb = 0.9611; Xfcc,Pb ~-0.9956; T = 584 K critical point xl.q, Pb = 0.466; T = 885 K” |
 
 ### Phase equilibrium (17)
 

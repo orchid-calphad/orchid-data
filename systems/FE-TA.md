@@ -1,10 +1,10 @@
 # Fe–Ta system
 
-> Fe–Ta system: 251 accepted literature values (invariant reaction 96, phase transition 79, formation 36, crystal structure 27) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ta system: 240 accepted literature values (invariant reaction 91, phase transition 73, formation 36, crystal structure 27) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TA.html · Markdown: https://data.orchid-project.org/systems/FE-TA.md
 
-251 accepted literature values from 3 paper(s) (experimental 146, model 85, DFT 6, unspecified 14); 3 calculated phase diagram(s).
+240 accepted literature values from 3 paper(s) (experimental 141, model 79, DFT 6, unspecified 14); 3 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TA.json) · [CSV](https://data.orchid-project.org/systems/FE-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TA/FeTa-03Dan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/FE-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TA.html) · [Markdown](https://data.orchid-project.org/systems/FE-TA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 146 |
-| model | 85 |
+| experimental | 141 |
+| model | 79 |
 | DFT | 6 |
 | unspecified | 14 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 96 |
-| phase transition | 79 |
+| invariant reaction | 91 |
+| phase transition | 73 |
 | phase equilibrium | 13 |
 | formation | 36 |
 | crystal structure | 27 |
@@ -63,7 +63,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Ta system (96)
+Table: Invariant reactions reported in the literature for the Fe–Ta system (91)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -73,9 +73,6 @@ Table: Invariant reactions reported in the literature for the Fe–Ta system (96
 | 2065 | L + ε -> μ | L: Ta 0.5067; ε: Ta 0.428; μ: Ta 0.4969 | model | [2] Rajkumar 2015 | Table 2, p. 3, row 6; `ORC-UHQKCUBWST` |  |
 | 2061.15 | other: μ ↔ Liq. | Liq.: Ta 0.52; μ ↔ Liq.: Ta 0.52 | model | [1] Danon 2003 | Table 1, p. 5, row 4; `ORC-NSBPYUZENN` |  |
 | 2060 | peritectic: L + λ \<-> μ | L: Ta 0.516; λ: Ta 0.409; μ: Ta 0.511 | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 7; `ORC-6WIAOSCRGF` |  |
-| 2060 | peritectic |  | model | [3] Witusiewicz 2011 | p. 16; `ORC-7FOUPAVHVN` | “at 2131 K, while the m-phase based on the Ta6Fe7 stoichiometry forms through the peritectic reaction L þ l / m at 2060 K.” |
-| 2060 | peritectic: Lþ l 4 m |  | model | [3] Witusiewicz 2011 | p. 8; `ORC-IB4WU4LA6M.b13f45` | “description proposed in section 3 reveal a lower solidus temperature associated to the metastable eutectic reaction L 4 l þ Ta3Fe2 (T 1⁄4 2025 K) compared to the stable peritectic reaction Lþ l 4 m (T 1⁄4 2060 K).” |
-| 2056 | peritectic: L + ε ⇋ μ |  | model | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | p. 2; `ORC-42JXV7O2YM` | “It was also established by \[7\] that the μ phase is formed by a peritectic reaction (L + ε ⇋ μ ) at 2056 K, rather than by a congruent reaction as thought earlier.” |
 | 2056 | peritectic: L + λ \<-> μ | λ: Ta 0.424; μ: Ta 0.49 | experimental | [3] Witusiewicz 2011 | Table 6, p. 14, row 6; `ORC-LOZ7M5RXV6` |  |
 | 2056 | L + ε -> μ | ε: Ta 0.424; μ: Ta 0.49 | unspecified | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 2, p. 3, row 5; `ORC-ZJQHTZGKOS` |  |
 | 2049.15 | other: μ ↔ Liq. | Liq.: Ta 0.5384; μ ↔ Liq.: Ta 0.5384 | model | [1] Danon 2003; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 1, p. 5, row 3; `ORC-FNTZC3CNXE` |  |
@@ -86,18 +83,17 @@ Table: Invariant reactions reported in the literature for the Fe–Ta system (96
 | 2042 | eutectic: L \<-> β + μ | L: Ta 0.638; β: Ta 0.94; μ: Ta 0.598 | model | [3] Witusiewicz 2011; _cites Danon 2003_ [doi](https://doi.org/10.1016/s0921-5093%2802%2900632-9) | Table 6, p. 14, row 15; `ORC-4UFOCXNVWG` |  |
 | 2035.15 | other: ε ↔ Liq. | Liq.: Ta 0.33; ε ↔ Liq.: Ta 0.33 | model | [1] Danon 2003; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 1, p. 5, row 7; `ORC-KOV6M3PUZW` |  |
 | 2035 | eutectic: L \<-> β + μ | L: Ta 0.66; β: Ta 0.915; μ: Ta 0.61 | experimental | [3] Witusiewicz 2011 | Table 6, p. 14, row 12; `ORC-5ZGRITLTFX` |  |
-| 2035 | L -> μ + (Ta) | L: Ta 0.66; μ: Ta 0.61; (Ta): Ta 0.915 | unspecified | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 2, p. 3, row 8; `ORC-MEHV6XDC6W` |  |
-| 2025 | eutectic: L 4 l þ Ta3Fe2 |  | model | [3] Witusiewicz 2011 | p. 8; `ORC-IB4WU4LA6M.87d0a1` | “description proposed in section 3 reveal a lower solidus temperature associated to the metastable eutectic reaction L 4 l þ Ta3Fe2 (T 1⁄4 2025 K) compared to the stable peritectic reaction Lþ l 4 m (T 1⁄4 2060 K).” |
+| 2035 | eutectic: L -> μ + (Ta) | L: Ta 0.66; μ: Ta 0.61; (Ta): Ta 0.915 | unspecified | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 2, p. 3, row 8; `ORC-MEHV6XDC6W` |  |
 | 2025 | eutectic: L \<-> β + Ta3Fe2 | L: Ta 0.653; β: Ta 0.914; Ta3Fe2: Ta 0.628 | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 10; `ORC-PDGZTALKSI.3b711a` |  |
 | 2025 | eutectic: L \<-> β + μ | L: Ta 0.652; β: Ta 0.914; μ: Ta 0.605 | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 16; `ORC-PDGZTALKSI.e5315f` |  |
 | 2025 | eutectic: L \<-> λ + Ta3Fe2 | L: Ta 0.558; λ: Ta 0.434; Ta3Fe2: Ta 0.584 | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 9; `ORC-PDGZTALKSI.eb8e7a` |  |
 | 2023.15 | eutectic: Liq. ↔ μ + bcc |  | experimental | [1] Danon 2003; _cites Coelho 1995_ [doi](https://doi.org/10.1007/bf02664849) | Table 1, p. 5, row 9; `ORC-W5LKFIPFP5` |  |
 | 2023 | eutectic: L \<-> β + μ |  | experimental | [3] Witusiewicz 2011; _cites Coelho 1995_ [doi](https://doi.org/10.1007/bf02664849) | Table 6, p. 14, row 11; `ORC-RRAOCGLQV2` |  |
-| 2023 | L -> μ + (Ta) |  | experimental | [2] Rajkumar 2015; _cites Coelho 1995_ [doi](https://doi.org/10.1007/bf02664849) | Table 2, p. 3, row 7; `ORC-WSBYHREGQG` |  |
+| 2023 | eutectic: L -> μ + (Ta) |  | experimental | [2] Rajkumar 2015; _cites Coelho 1995_ [doi](https://doi.org/10.1007/bf02664849) | Table 2, p. 3, row 7; `ORC-WSBYHREGQG` |  |
 | 2020.15 | eutectic: Liq. ↔ μ + bcc | μ: Ta 0.593; bcc: Ta 0.9362; L: Ta 0.6834 | model | [1] Danon 2003; _cites Coelho 1994_ | Table 1, p. 5, row 10; `ORC-COYBFCLV66` |  |
 | 2020 | eutectic: L \<-> β + μ | L: Ta 0.683; β: Ta 0.936; μ: Ta 0.593 | model | [3] Witusiewicz 2011; _cites Coelho 1994_ | Table 6, p. 14, row 14; `ORC-HA5KCUILA7` |  |
-| 2015 | L -> μ + (Ta) | L: Ta 0.6503; μ: Ta 0.6153; (Ta): Ta 0.9223 | model | [2] Rajkumar 2015 | Table 2, p. 3, row 10; `ORC-VNMHXFVDRP` |  |
-| 2000 | L -> μ + (Ta) |  | experimental | [2] Rajkumar 2015 | Table 2, p. 3, row 9; `ORC-EWX4YQFYCD` |  |
+| 2015 | eutectic: L -> μ + (Ta) | L: Ta 0.6503; μ: Ta 0.6153; (Ta): Ta 0.9223 | model | [2] Rajkumar 2015 | Table 2, p. 3, row 10; `ORC-VNMHXFVDRP` |  |
+| 2000 | eutectic: L -> μ + (Ta) |  | experimental | [2] Rajkumar 2015 | Table 2, p. 3, row 9; `ORC-EWX4YQFYCD` |  |
 | 1995.15 | eutectic: ε + μ ↔ Liq. | ε: Ta 0.366; μ: Ta 0.5384; L: Ta 0.42 | model | [1] Danon 2003; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 1, p. 5, row 13; `ORC-ZDXJ5LO4XL` |  |
 | 1890.15 | eutectic: ε + μ ↔ Liq. |  | experimental | [1] Danon 2003; _cites Ichise 1989_ [doi](https://doi.org/10.2355/isijinternational.29.843) | Table 1, p. 5, row 15; `ORC-VUMRAXBWCT` |  |
 | 1865.15 | eutectic: Liq. ↔ μ + bcc | μ: Ta 0.5384; bcc: Ta 0.95; L: Ta 0.6834 | model | [1] Danon 2003; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 1, p. 5, row 12; `ORC-KHZXCAL7PN` |  |
@@ -105,19 +101,18 @@ Table: Invariant reactions reported in the literature for the Fe–Ta system (96
 | 1803.15 | eutectic: ε + μ ↔ Liq. |  | experimental | [1] Danon 2003; _cites Wetzig 1968_ [doi](https://doi.org/10.1002/pssb.19680270149) | Table 1, p. 5, row 16; `ORC-AEJO34DPYL` |  |
 | 1726.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.272; L: Ta 0.0686 | model | [1] Danon 2003 | Table 1, p. 5, row 18; `ORC-GMCKSAVT2U` |  |
 | 1726 | eutectic: L \<-> δ + λ | L: Ta 0.067; δ: Ta 0.042; λ: Ta 0.272 | model | [3] Witusiewicz 2011; _cites Danon 2003_ [doi](https://doi.org/10.1016/s0921-5093%2802%2900632-9) | Table 6, p. 14, row 22; `ORC-ITFAFKOVIF` |  |
-| 1724 | eutectic: L -> (dFe) + l |  | experimental | [3] Witusiewicz 2011 | p. 6; `ORC-VJGACGCHGF` | “The peak at 1724 K is associated to the invariant eutectic reaction L4(dFe) þ l, considered as solidus.” |
-| 1721 | L -> (δFe) + ε | L: Ta 0.0629; (δFe): Ta 0.0228; ε: Ta 0.2983 | model | [2] Rajkumar 2015 | Table 2, p. 3, row 14; `ORC-V55HUT2ZEX` |  |
+| 1721 | eutectic: L -> (δFe) + ε | L: Ta 0.0629; (δFe): Ta 0.0228; ε: Ta 0.2983 | model | [2] Rajkumar 2015 | Table 2, p. 3, row 14; `ORC-V55HUT2ZEX` |  |
 | 1716 | eutectic: L \<-> δ + λ | L: Ta 0.075; δ: Ta 0.021; λ: Ta 0.277 | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 23; `ORC-2OJ4TNHSZZ.501f23` |  |
 | 1716 | eutectic: L \<-> δ + λ | L: Ta 0.072; λ: Ta 0.277 | experimental | [3] Witusiewicz 2011 | Table 6, p. 14, row 19; `ORC-2OJ4TNHSZZ.9edb36` |  |
-| 1716 | L -> (δFe) + ε | L: Ta 0.072; ε: Ta 0.277 | unspecified | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 2, p. 3, row 13; `ORC-DZOFVFQR4G` |  |
+| 1716 | eutectic: L -> (δFe) + ε | L: Ta 0.072; ε: Ta 0.277 | unspecified | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 2, p. 3, row 13; `ORC-DZOFVFQR4G` |  |
 | 1715.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.2729; L: Ta 0.0797 | model | [1] Danon 2003; _cites Coelho 1994_ | Table 1, p. 5, row 17; `ORC-DMWBU57V63` |  |
 | 1715 | eutectic: L \<-> δ + λ | L: Ta 0.08; δ: Ta 0.018; λ: Ta 0.273 | model | [3] Witusiewicz 2011; _cites Coelho 1994_ | Table 6, p. 14, row 21; `ORC-2XDNCZBRNN` |  |
 | 1714.15 | eutectic: Liq. ↔ ε + bcc(δ) |  | experimental | [1] Danon 2003; _cites Ichise 1989_ [doi](https://doi.org/10.2355/isijinternational.29.843) | Table 1, p. 5, row 19; `ORC-AAP6HDWYXU` |  |
 | 1714 | eutectic: L \<-> δ + λ |  | experimental | [3] Witusiewicz 2011; _cites Ichise 1989_ [doi](https://doi.org/10.2355/isijinternational.29.843) | Table 6, p. 14, row 17; `ORC-DU2WRRVHTY` |  |
-| 1714 | L -> (δFe) + ε |  | experimental | [2] Rajkumar 2015; _cites Ichise 1989_ [doi](https://doi.org/10.2355/isijinternational.29.843) | Table 2, p. 3, row 11; `ORC-FHTJGB2H4S` |  |
+| 1714 | eutectic: L -> (δFe) + ε |  | experimental | [2] Rajkumar 2015; _cites Ichise 1989_ [doi](https://doi.org/10.2355/isijinternational.29.843) | Table 2, p. 3, row 11; `ORC-FHTJGB2H4S` |  |
 | 1713.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.333; L: Ta 0.079 | experimental | [1] Danon 2003; _cites Sinha 1967_ | Table 1, p. 5, row 20; `ORC-N5P73IXKHB` |  |
 | 1713 | eutectic: L \<-> δ + λ | L: Ta 0.079; δ: Ta 0.028; λ: Ta 0.333 | experimental | [3] Witusiewicz 2011; _cites Sinha 1967_ | Table 6, p. 14, row 18; `ORC-2GPTOXBEZ7` |  |
-| 1713 | L -> (δFe) + ε | L: Ta 0.079; (δFe): Ta 0.028; ε: Ta 0.333 | experimental | [2] Rajkumar 2015; _cites Sinha 1967_ | Table 2, p. 3, row 12; `ORC-HNPYFSK6DW` |  |
+| 1713 | eutectic: L -> (δFe) + ε | L: Ta 0.079; (δFe): Ta 0.028; ε: Ta 0.333 | experimental | [2] Rajkumar 2015; _cites Sinha 1967_ | Table 2, p. 3, row 12; `ORC-HNPYFSK6DW` |  |
 | 1703.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.265; L: Ta 0.079 | model | [1] Danon 2003; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 1, p. 5, row 21; `ORC-52KU3KTDZF` |  |
 | 1703 | eutectic: L \<-> δ + λ | L: Ta 0.079; δ: Ta 0.024; λ: Ta 0.265 | model | [3] Witusiewicz 2011; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 6, p. 14, row 20; `ORC-Z746A5HRZB` |  |
 | 1648 | μ + (Ta) | μ: Ta 0.56; (Ta): Ta 0.947 | experimental | [2] Rajkumar 2015 | Table 5, p. 4, row 2; `ORC-6PFI32NWOF` |  |
@@ -200,24 +195,20 @@ Table: Enthalpies of formation, Fe–Ta system (25)
 
 ## Other properties
 
-### Phase transition (79)
+### Phase transition (73)
 
 Table: Phase transition, Fe–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1041 K | 1041 | magnetic | experimental | [3] Witusiewicz 2011 | p. 6; `ORC-UCISELCKRN.ab4531` | “The DTA curves obtained during heating of sample no. 1 (Fe-15.6 at.% Ta) shows several phase transformation events: the first peak at 1041 K relates to the transition from the ferromagnetic to the paramagnetic state of aFe-based phase, the second (1251 K) and the third (1520 K) peaks correspond to the solid-state transformations (aFe) 4 (gFe) þ l and (gFe) þ l 4 (dFe), respectively.” |
 | Phase transition | 1041 K | 1041 | α(pm) ↔ α(fm), λ; _alloy: Fe 0.844, Ta 0.156_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 19; `ORC-DVMNE6WLXE` |  |
 | Phase transition | 1041 K | 1041 | α(pm) ↔ α(fm), λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 18; `ORC-SOT2VHKBVC` |  |
 | Phase transition | 1043 K | 1043 | α(pm) ↔ α(fm), λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 17; `ORC-QKU4EWDHVC` |  |
-| Phase transition | 1199.15 K | 1199.15 | other | model | [1] Danon 2003 | p. 6; `ORC-A5EEILC24B` | “The calculated diagram of Fig. 1 shows a reasonable agreement with experimental data in the iron-rich region and for the boundaries of intermediate phase fields; however, the peritectoid temperature of 926 °C is somewhat lower and the stability of the bcc phase at high temperatures somewhat higher than the corresponding experimental values (see Table 1).” |
 | Phase transition | 1241 K | 1241 | λ + γ ↔ α (pm); _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 14; `ORC-A3UAPJXNY2` |  |
 | Phase transition | 1242 K | 1242 | λ + γ ↔ α (pm); _alloy: Fe 0.844, Ta 0.156_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 16; `ORC-P4QBGYU3IS` |  |
-| Phase transition | 1251 K | 1251 | (aFe) -> (gFe) + l | experimental | [3] Witusiewicz 2011 | p. 6; `ORC-UCISELCKRN.ab5f5b` | “The DTA curves obtained during heating of sample no. 1 (Fe-15.6 at.% Ta) shows several phase transformation events: the first peak at 1041 K relates to the transition from the ferromagnetic to the paramagnetic state of aFe-based phase, the second (1251 K) and the third (1520 K) peaks correspond to the solid-state transformations (aFe) 4 (gFe) þ l and (gFe) þ l 4 (dFe), respectively.” |
 | Phase transition | 1251 K | 1251 | λ + γ ↔ α (pm); _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 15; `ORC-GNGXS4F7MB` |  |
 | Phase transition | 1511 K | 1511 | δ ↔ λ + γ; _alloy: Fe 0.844, Ta 0.156_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 13; `ORC-ORYERE34QF` |  |
 | Phase transition | 1513 K | 1513 | δ ↔ λ + γ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 11; `ORC-QS6Q4DCMYH` |  |
-| Phase transition | 1520 K | 1520 | (gFe) + l -> (dFe) | experimental | [3] Witusiewicz 2011 | p. 6; `ORC-UCISELCKRN.d625a0` | “The DTA curves obtained during heating of sample no. 1 (Fe-15.6 at.% Ta) shows several phase transformation events: the first peak at 1041 K relates to the transition from the ferromagnetic to the paramagnetic state of aFe-based phase, the second (1251 K) and the third (1520 K) peaks correspond to the solid-state transformations (aFe) 4 (gFe) þ l and (gFe) þ l 4 (dFe), respectively.” |
 | Phase transition | 1520 K | 1520 | δ ↔ λ + γ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 12; `ORC-XKYIZPTMPT` |  |
 | Phase transition | 1685 K | 1685 | L ↔ δ + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 7; `ORC-NUVE63BVGO` |  |
 | Phase transition | 1704 K | 1704 | L ↔ δ + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 9; `ORC-JNNRRYEJNQ` |  |
@@ -228,7 +219,6 @@ Table: Phase transition, Fe–Ta system
 | Phase transition | 1950 K | 1950 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 2; `ORC-Y3TD24U6BL` |  |
 | Phase transition | 1959 K | 1959 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 3; `ORC-GZNOW2O7BR` |  |
 | Phase transition | 1959 K | 1959 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 5; `ORC-KSO6UJKIEL` |  |
-| Phase transition | 1959 K | 1959 | other | experimental | [3] Witusiewicz 2011 | p. 6; `ORC-Y7BX7SIJEX` | “Melting finally finishes at 1959 K, close to liquidus.” |
 | Phase transition | 1960 K | 1960 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 1; `ORC-JU5QBFARU2` |  |
 | Phase transition | 1966 K | 1966 | L + μ/μ; _alloy: Fe 0.438, Ta 0.562_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 54; `ORC-YU5REMY3Z7` |  |
 | Phase transition | 2000 K | 2000 | L ⇌ μ + (Ta) | experimental | [2] Rajkumar 2015 | p. 3; `ORC-F4YFV3PDIL` | “In addition to the spike corresponding to the liquidus, Fe70.8 at% Ta and Fe-87.2 at% Ta alloys show another spike (Fig. 2a, b) in their cooling curves around ∼2000 K, which corresponds to the invariant L ⇌ μ + (Ta).” |
@@ -237,7 +227,6 @@ Table: Phase transition, Fe–Ta system
 | Phase transition | 2029 K | 2029 | L/L + μ; _alloy: Fe 0.358, Ta 0.642_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 60; `ORC-Y6ZS5LGP5V` |  |
 | Phase transition | 2030 K | 2030 | L ↔ β + μ; _alloy: Fe 0.358, Ta 0.642_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 61; `ORC-7A3KODY4S5` |  |
 | Phase transition | 2030 K | 2030 | congruent melting: L \<-> Ta3Fe2; _L: Ta 0.605; Ta3Fe2: Ta 0.605_ | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 8; `ORC-BXV6B4VSOP` |  |
-| Phase transition | 2030 K | 2030 | congruent transformation | model | [3] Witusiewicz 2011 | p. 14; `ORC-FMM75ROYZP` | “The calculated metastable phase diagram suggests that the Ta3Fe2 phase will form congruently at 2030 K.” |
 | Phase transition | 2035 K | 2035 | congruent melting: L \<-> λ; _L: Ta 0.339; λ: Ta 0.33_ | model | [3] Witusiewicz 2011; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 6, p. 14, row 2; `ORC-2YHYJOKKXS` |  |
 | Phase transition | 2037 K | 2037 | L/L + μ; _alloy: Fe 0.358, Ta 0.642_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 56; `ORC-MHU2KUIIGM` |  |
 | Phase transition | 2038 K | 2038 | L/L + μ; _alloy: Fe 0.358, Ta 0.642_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 57; `ORC-F7FGHIMI26` |  |

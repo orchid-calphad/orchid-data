@@ -59,23 +59,23 @@ Table: Invariant reactions reported in the literature for the Ge–Sr system (17
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1463.15 | L -> GeSr2 | L: Sr 0.667; GeSr2: Ge 0.333333, Sr 0.666667 | model | [1] Du 2009 | Table 4, p. 3, row 14; `ORC-C5PLSVRFUM` |  |
-| 1463.15 | L -> GeSr2 | L: Sr 0.667; GeSr2: Ge 0.333333, Sr 0.666667 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 13; `ORC-XV4IG5YAJT` |  |
-| 1453.15 | L -> GeSr | L: Sr 0.5; GeSr: Ge 0.5, Sr 0.5 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 7; `ORC-GV5YQNSD4L` |  |
-| 1450.15 | L -> GeSr | L: Sr 0.5; GeSr: Ge 0.5, Sr 0.5 | model | [1] Du 2009 | Table 4, p. 3, row 8; `ORC-DG5J23QYEW` |  |
+| 1463.15 | congruent melting: L -> GeSr2 | L: Sr 0.667; GeSr2: Ge 0.333333, Sr 0.666667 | model | [1] Du 2009 | Table 4, p. 3, row 14; `ORC-C5PLSVRFUM` |  |
+| 1463.15 | congruent melting: L -> GeSr2 | L: Sr 0.667; GeSr2: Ge 0.333333, Sr 0.666667 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 13; `ORC-XV4IG5YAJT` |  |
+| 1453.15 | congruent melting: L -> GeSr | L: Sr 0.5; GeSr: Ge 0.5, Sr 0.5 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 7; `ORC-GV5YQNSD4L` |  |
+| 1450.15 | congruent melting: L -> GeSr | L: Sr 0.5; GeSr: Ge 0.5, Sr 0.5 | model | [1] Du 2009 | Table 4, p. 3, row 8; `ORC-DG5J23QYEW` |  |
 | 1433.15 | L + GeSr2 -> Ge3Sr5 | L: Sr 0.615; GeSr2: Ge 0.333333, Sr 0.666667; Ge3Sr5: Ge 0.375, Sr 0.625 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 11; `ORC-7HFQNWQSSS` |  |
 | 1431.15 | L + GeSr2 -> Ge3Sr5 | L: Sr 0.618; GeSr2: Ge 0.333333, Sr 0.666667; Ge3Sr5: Ge 0.375, Sr 0.625 | model | [1] Du 2009 | Table 4, p. 3, row 12; `ORC-QZUFH3N46S` |  |
-| 1374.15 | L -> GeSr + Ge3Sr5 | L: Sr 0.568; GeSr: Ge 0.5, Sr 0.5; Ge3Sr5: Ge 0.375, Sr 0.625 | model | [1] Du 2009 | Table 4, p. 3, row 10; `ORC-KLOLNSHMJQ` |  |
-| 1373.15 | L -> GeSr + Ge3Sr5 | L: Sr 0.58; GeSr: Ge 0.5, Sr 0.5; Ge3Sr5: Ge 0.375, Sr 0.625 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 9; `ORC-L6VZ3IKK4E` |  |
-| 1288.15 | L -> Ge2Sr | L: Sr 0.333; Ge2Sr: Ge 0.666667, Sr 0.333333 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 3; `ORC-XJ5UE756FX` |  |
-| 1284.15 | L -> Ge2Sr | L: Sr 0.333; Ge2Sr: Ge 0.666667, Sr 0.333333 | model | [1] Du 2009 | Table 4, p. 3, row 4; `ORC-EOG64B3LIU` |  |
+| 1374.15 | eutectic: L -> GeSr + Ge3Sr5 | L: Sr 0.568; GeSr: Ge 0.5, Sr 0.5; Ge3Sr5: Ge 0.375, Sr 0.625 | model | [1] Du 2009 | Table 4, p. 3, row 10; `ORC-KLOLNSHMJQ` |  |
+| 1373.15 | eutectic: L -> GeSr + Ge3Sr5 | L: Sr 0.58; GeSr: Ge 0.5, Sr 0.5; Ge3Sr5: Ge 0.375, Sr 0.625 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 9; `ORC-L6VZ3IKK4E` |  |
+| 1288.15 | congruent melting: L -> Ge2Sr | L: Sr 0.333; Ge2Sr: Ge 0.666667, Sr 0.333333 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 3; `ORC-XJ5UE756FX` |  |
+| 1284.15 | congruent melting: L -> Ge2Sr | L: Sr 0.333; Ge2Sr: Ge 0.666667, Sr 0.333333 | model | [1] Du 2009 | Table 4, p. 3, row 4; `ORC-EOG64B3LIU` |  |
 | 1258.15 | peritectic: L + Ge2 Sr ↔ Ge1.85 Sr |  | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | p. 2; `ORC-6EBZD7VG2A` | “In the Ge-Sr phase diagram presented by Palenzona and Pani \[3\], the phase Ge1.85 Sr is tentatively suggested to be stable in an extremely narrow temperature range, being formed via a peritectic reaction L + Ge2 Sr ↔ Ge1.85 Sr at about 985 ◦ C.” |
-| 1243.15 | L -> Ge2Sr + GeSr | L: Sr 0.389; Ge2Sr: Ge 0.666667, Sr 0.333333; GeSr: Ge 0.5, Sr 0.5 | model | [1] Du 2009 | Table 4, p. 3, row 6; `ORC-AOP3DBWNVS` |  |
-| 1238.15 | L -> Ge2Sr + GeSr | L: Sr 0.39; Ge2Sr: Ge 0.666667, Sr 0.333333; GeSr: Ge 0.5, Sr 0.5 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 5; `ORC-V5KY6WUQYW` |  |
-| 1029.15 | L -> (Ge) + Ge2Sr | L: Sr 0.175; Ge2Sr: Ge 0.666667, Sr 0.333333 | model | [1] Du 2009 | Table 4, p. 3, row 2; `ORC-D3ODAEORFE` |  |
-| 1028.15 | L -> (Ge) + Ge2Sr | L: Sr 0.16; Ge2Sr: Ge 0.666667, Sr 0.333333 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 1; `ORC-J4EWRSQBHO` |  |
-| 1015.15 | L -> GeSr2 + (βSr) | L: Sr 0.958; GeSr2: Ge 0.333333, Sr 0.666667 | model | [1] Du 2009 | Table 4, p. 3, row 16; `ORC-Z434L3NWEP` |  |
-| 1013.15 | L -> GeSr2 + (βSr) | L: Sr 0.95; GeSr2: Ge 0.333333, Sr 0.666667 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 15; `ORC-6MRK2ZPUOE` |  |
+| 1243.15 | eutectic: L -> Ge2Sr + GeSr | L: Sr 0.389; Ge2Sr: Ge 0.666667, Sr 0.333333; GeSr: Ge 0.5, Sr 0.5 | model | [1] Du 2009 | Table 4, p. 3, row 6; `ORC-AOP3DBWNVS` |  |
+| 1238.15 | eutectic: L -> Ge2Sr + GeSr | L: Sr 0.39; Ge2Sr: Ge 0.666667, Sr 0.333333; GeSr: Ge 0.5, Sr 0.5 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 5; `ORC-V5KY6WUQYW` |  |
+| 1029.15 | eutectic: L -> (Ge) + Ge2Sr | L: Sr 0.175; Ge2Sr: Ge 0.666667, Sr 0.333333 | model | [1] Du 2009 | Table 4, p. 3, row 2; `ORC-D3ODAEORFE` |  |
+| 1028.15 | eutectic: L -> (Ge) + Ge2Sr | L: Sr 0.16; Ge2Sr: Ge 0.666667, Sr 0.333333 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 1; `ORC-J4EWRSQBHO` |  |
+| 1015.15 | eutectic: L -> GeSr2 + (βSr) | L: Sr 0.958; GeSr2: Ge 0.333333, Sr 0.666667 | model | [1] Du 2009 | Table 4, p. 3, row 16; `ORC-Z434L3NWEP` |  |
+| 1013.15 | eutectic: L -> GeSr2 + (βSr) | L: Sr 0.95; GeSr2: Ge 0.333333, Sr 0.666667 | experimental | [1] Du 2009; _cites Palenzona 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.189) | Table 4, p. 3, row 15; `ORC-6MRK2ZPUOE` |  |
 
 ## Other properties
 

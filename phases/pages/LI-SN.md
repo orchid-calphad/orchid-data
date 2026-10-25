@@ -18,14 +18,14 @@ Table: Phases of the Li–Sn system (15)
 | [FCC_A1](#phase-li-sn-fcc-a1); _phase:li-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 3 calculated diagram(s): 1091.34–2500 K, x(Sn) 0.39257–0.58597 | 0 | 3 |
 | [HCP_A3](#phase-li-sn-hcp-a3); _phase:li-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LI13SN5](#phase-li-sn-li13sn5); _phase:li-sn:li13sn5_ | Li13Sn5 · hP18 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–994.84 K, x(Sn) 0.27778–0.27778 | 27 | 3 |
-| [LI17SN4](#phase-li-sn-li17sn4); _phase:li-sn:li17sn4_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1030.98 K, x(Sn) 0.19048–0.19048 | 24 | 1 |
+| [LI17SN4](#phase-li-sn-li17sn4); _phase:li-sn:li17sn4_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1030.98 K, x(Sn) 0.19048–0.19048 | 26 | 1 |
 | [LI22SN5](#phase-li-sn-li22sn5); _phase:li-sn:li22sn5_ | Li17Pb4 · cF420 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1035.76 K, x(Sn) 0.18519–0.18519 | 14 | 2 |
 | [LI2SN5](#phase-li-sn-li2sn5); _phase:li-sn:li2sn5_ | Hg5Mn2 · tP14 · P4/mbm (127) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–593.45 K, x(Sn) 0.71429–0.71429 | 21 | 3 |
 | [LI5SN2](#phase-li-sn-li5sn2); _phase:li-sn:li5sn2_ | Li5Sn2 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–971.51 K, x(Sn) 0.28571–0.28571 | 26 | 3 |
 | [LI7SN2](#phase-li-sn-li7sn2); _phase:li-sn:li7sn2_ | Ge2Li7 · oC36 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1056.06 K, x(Sn) 0.22222–0.25242 | 34 | 3 |
 | [LI7SN3](#phase-li-sn-li7sn3); _phase:li-sn:li7sn3_ | Li7Sn3 · mP20 · P2_1/m (11) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–787.31 K, x(Sn) 0.3–0.3 | 29 | 3 |
 | [LI8SN3](#phase-li-sn-li8sn3); _phase:li-sn:li8sn3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–989.19 K, x(Sn) 0.27273–0.27273 | 0 | 1 |
-| [LIQUID](#phase-li-sn-liquid); _phase:li-sn:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 451.52–2500 K, x(Sn) 0–1 | 106 | 3 |
+| [LIQUID](#phase-li-sn-liquid); _phase:li-sn:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 451.52–2500 K, x(Sn) 0–1 | 109 | 3 |
 | [LISN](#phase-li-sn-lisn); _phase:li-sn:lisn_ | LiSn · mP6 · P2/m (10) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–761.43 K, x(Sn) 0.48539–0.5 | 43 | 3 |
 
 ## DIAMOND_A4 (Li–Sn)
@@ -327,7 +327,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Li17Pb4 · cF420 · F-43m — LiSn-14Li.tdb: 'Prototype Li17Pb4 (cF420, F-43m)'
 - Stoichiometry: Li 0.8095, Sn 0.1905
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1030.98 K, x(Sn) 0.19048–0.19048
-- Literature: 24 values (24 accepted) from 1 papers
+- Literature: 26 values (26 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-sn:li17sn4)
 
 Names (3): _corpus: _corpus:phase:li-sn:li17sn4  
@@ -651,7 +651,7 @@ _assessment that models this phase_
 - Id: `phase:li-sn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 451.52–2500 K, x(Sn) 0–1
-- Literature: 106 values (106 accepted) from 2 papers
+- Literature: 109 values (109 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-sn:liquid)
 
 Names (7): _corpus: _corpus:phase:li-sn:liquid  

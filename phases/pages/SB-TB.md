@@ -16,7 +16,7 @@ Table: Phases of the Sb–Tb system (11)
 | [BCC_A2](#phase-sb-tb-bcc-a2); _phase:sb-tb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1538.23–1631.99 K, x(Tb) 0.99049–1 | 2 | 1 |
 | [FCC_A1](#phase-sb-tb-fcc-a1); _phase:sb-tb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-sb-tb-hcp-a3); _phase:sb-tb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1627 K, x(Tb) 0.98309–1 | 4 | 1 |
-| [LIQUID](#phase-sb-tb-liquid); _phase:sb-tb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 896.54–2500 K, x(Tb) 0–1 | 12 | 1 |
+| [LIQUID](#phase-sb-tb-liquid); _phase:sb-tb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 896.54–2500 K, x(Tb) 0–1 | 13 | 1 |
 | [SB2TB](#phase-sb-tb-sb2tb); _phase:sb-tb:sb2tb_ | Sb2Sm · oC24 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1013.13 K, x(Tb) 0.33333–0.33333 | 4 | 1 |
 | [SB3TB4_BETA](#phase-sb-tb-sb3tb4-beta); _phase:sb-tb:sb3tb4-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1873–2043.2 K, x(Tb) 0.57143–0.57143 | 4 | 1 |
 | [SB3TB4_D73](#phase-sb-tb-sb3tb4-d73); _phase:sb-tb:sb3tb4-d73_ | Th3P4 · D7_3 · cI28 · I-43d (220) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1873 K, x(Tb) 0.57143–0.57143 | 0 | 1 |
@@ -138,11 +138,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:sb-tb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 896.54–2500 K, x(Tb) 0–1
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-tb:liquid)
 
-Names (3): _corpus: _corpus:phase:sb-tb:liquid  
-_paper: _paper:10.1016/j.calphad.2012.01.002:L  
+Names (4): _corpus: _corpus:phase:sb-tb:liquid  
+_paper: _paper:10.1016/j.calphad.2012.01.002:L, paper:10.1016/j.calphad.2012.01.002:liquid  
 _tdb: _tdb:SbTb-12Gao.tdb:LIQUID  
 
 

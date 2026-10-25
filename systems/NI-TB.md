@@ -1,10 +1,10 @@
 # Ni–Tb system
 
-> Ni–Tb system: 310 accepted literature values (invariant reaction 99, phase transition 87, activity / EMF / Gibbs energy 43, crystal structure 38) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Tb system: 306 accepted literature values (invariant reaction 95, phase transition 87, crystal structure 38, formation 35) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-TB.html · Markdown: https://data.orchid-project.org/systems/NI-TB.md
 
-310 accepted literature values from 3 paper(s) (experimental 193, model 81, DFT 27, unspecified 9); 3 calculated phase diagram(s).
+306 accepted literature values from 3 paper(s) (experimental 190, model 80, DFT 27, unspecified 9); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TB.json) · [CSV](https://data.orchid-project.org/systems/NI-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TB/NiTb-04Ron.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TB.html) · [Markdown](https://data.orchid-project.org/systems/NI-TB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 193 |
-| model | 81 |
+| experimental | 190 |
+| model | 80 |
 | DFT | 27 |
 | unspecified | 9 |
 
@@ -21,12 +21,13 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 99 |
+| invariant reaction | 95 |
 | phase transition | 87 |
 | formation | 35 |
 | mixing / partial | 8 |
-| activity / EMF / Gibbs energy | 43 |
+| activity / EMF / Gibbs energy | 8 |
 | crystal structure | 38 |
+| model expression | 35 |
 
 ## Calculated phase diagrams
 
@@ -123,7 +124,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–Tb system (99)
+Table: Invariant reactions reported in the literature for the Ni–Tb system (95)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -157,7 +158,6 @@ Table: Invariant reactions reported in the literature for the Ni–Tb system (99
 | 1544 | eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.07; Tb2Ni17: Tb 0.105263 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 42; `ORC-3DAJW7RBT4` |  |
 | 1544 | eutectic: L -> fcc(Ni) + Tb2Ni17 | fcc(Ni): Tb 0; Tb2Ni17: Tb 0.105263 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 44; `ORC-CHAKPY4M5F` |  |
 | 1544 | eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.08; Tb2Ni17: Tb 0.105263 | model | [3] Rahou 2024 | Table 3, p. 6, row 40; `ORC-YC3MNTVCFE` |  |
-| 1544 | eutectic |  | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | p. 2; `ORC-YR2JC46LTF.b72490` | “Three eutectic reactions occur: L $ Tb3Ni2 ? Tb3Ni (at 996 K and \* 30 at.% Ni), L $ TbNi2 ? TbNi (at 1199 K and \* 56 at.% Ni) and L $ Ni ? Tb2Ni17 (at 1544 K and \* 93 at.% Ni).” |
 | 1543 | eutectic: Liq -> Tb2Ni17 + fcc(Ni) | L: Tb 0.08; Tb2Ni17: Tb 0.105263 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 43; `ORC-MG2KN3MQWP` |  |
 | 1532 | eutectic: Liq -> (Ni) + Ni17Tb2 | Ni17Tb2: Ni 0.894737, Tb 0.105263 | model | [1] Rong 2004 | Table 6, p. 7, row 1; `ORC-5MKZY7I4ND` |  |
 | 1532 | eutectic: L -> fcc(Ni) + Tb2Ni17 | L: Tb 0.072; fcc(Ni): Tb 0; Tb2Ni17: Tb 0.105263 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 42; `ORC-U2PZQ7PXKS` |  |
@@ -188,7 +188,6 @@ Table: Invariant reactions reported in the literature for the Ni–Tb system (99
 | 1200 | eutectic: Liq -> TbNi2 + TbNi | L: Tb 0.45; TbNi2: Tb 0.333333; TbNi: Tb 0.5 | model | [3] Rahou 2024 | Table 3, p. 6, row 17; `ORC-LN5DVD3V2V` |  |
 | 1199 | eutectic: L -> TbNi + TbNi2 | TbNi: Tb 0.5; TbNi2: Tb 0.333333 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 21; `ORC-3ETTNVUO3R` |  |
 | 1199 | eutectic: Liq -> TbNi2 + TbNi | L: Tb 0.44; TbNi2: Tb 0.333333; TbNi: Tb 0.5 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 19; `ORC-JAW774V3C5` |  |
-| 1199 | eutectic |  | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | p. 2; `ORC-YR2JC46LTF.943b1d` | “Three eutectic reactions occur: L $ Tb3Ni2 ? Tb3Ni (at 996 K and \* 30 at.% Ni), L $ TbNi2 ? TbNi (at 1199 K and \* 56 at.% Ni) and L $ Ni ? Tb2Ni17 (at 1544 K and \* 93 at.% Ni).” |
 | 1196 | eutectic: Liq -> Ni2Tb + NiTb | Ni2Tb: Ni 0.666667, Tb 0.333333; NiTb: Ni 0.5, Tb 0.5 | model | [1] Rong 2004 | Table 6, p. 7, row 13; `ORC-6KM5OTGYA3` |  |
 | 1196 | eutectic: L -> TbNi + TbNi2 | L: Tb 0.434; TbNi: Tb 0.5; TbNi2: Tb 0.333333 | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 19; `ORC-GNNM4XNPWS` |  |
 | 1191 | eutectic: L -> TbNi + TbNi2 | TbNi: Tb 0.5; TbNi2: Tb 0.333333 | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 20; `ORC-6A7XI6FPGH` |  |
@@ -203,7 +202,6 @@ Table: Invariant reactions reported in the literature for the Ni–Tb system (99
 | 1062 | peritectic: Liq + α-Tb -> Tb3Ni | L: Tb 0.71; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 3; `ORC-NZM7KN3FDF` |  |
 | 1062 | peritectic: L + hcp(Tb) -> Tb3Ni | Tb3Ni: Tb 0.75 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 5; `ORC-PY437TS7TZ` |  |
 | 1060.3 | peritectic: L + hcp(Tb) -> Tb3Ni | L: Tb 0.729; Tb3Ni: Tb 0.75 | model | [2] Ye 2023 | Table 9, p. 20, row 6; `ORC-BBKZX633XT` |  |
-| 1060 | peritectic |  | model | [3] Rahou 2024 | p. 6; `ORC-EAXOQOQMJH` | “Our study provides further support for this recommendation, as our calculations predict a peritectic temperature of 1060 K.” |
 | 1060 | peritectic: Liq + TbNi -> Tb3Ni2 | L: Tb 0.62; TbNi: Tb 0.5; Tb3Ni2: Tb 0.6 | model | [3] Rahou 2024 | Table 3, p. 6, row 9; `ORC-RHTKURLIZX` |  |
 | 1056 | peritectic: Liq + α-Tb -> Tb3Ni | L: Tb 0.74; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 2; `ORC-AO5TBLRTLG` |  |
 | 1056 | peritectic: Liq + (α-Tb) -> NiTb3 | NiTb3: Ni 0.25, Tb 0.75 | model | [1] Rong 2004 | Table 6, p. 7, row 21; `ORC-PHUHGGNAUV` |  |
@@ -219,7 +217,6 @@ Table: Invariant reactions reported in the literature for the Ni–Tb system (99
 | 996 | eutectic: L -> Tb3Ni2 + Tb3Ni | Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 9; `ORC-KKIIP2ZA3E` |  |
 | 996 | peritectic: Liq + NiTb -> Ni2Tb3 | NiTb: Ni 0.5, Tb 0.5; Ni2Tb3: Ni 0.4, Tb 0.6 | model | [1] Rong 2004 | Table 6, p. 7, row 17; `ORC-MYVBWDZQ5Y` |  |
 | 996 | eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.7; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 7; `ORC-UKTNDZM7XJ` |  |
-| 996 | eutectic |  | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | p. 2; `ORC-YR2JC46LTF.222ca3` | “Three eutectic reactions occur: L $ Tb3Ni2 ? Tb3Ni (at 996 K and \* 30 at.% Ni), L $ TbNi2 ? TbNi (at 1199 K and \* 56 at.% Ni) and L $ Ni ? Tb2Ni17 (at 1544 K and \* 93 at.% Ni).” |
 | 993 | eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.68; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 8; `ORC-MCAPS7GSLF` |  |
 | 992 | eutectic: Liq -> Tb3Ni2 + Tb3Ni | L: Tb 0.67; Tb3Ni2: Tb 0.6; Tb3Ni: Tb 0.75 | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 6; `ORC-IIUFR5U2UR` |  |
 | 992 | eutectic: Liq -> Ni2Tb3 + NiTb3 | Ni2Tb3: Ni 0.4, Tb 0.6; NiTb3: Ni 0.25, Tb 0.75 | model | [1] Rong 2004 | Table 6, p. 7, row 19; `ORC-LBQVOVVXQ5` |  |
@@ -382,47 +379,12 @@ Table: Mixing / partial, Ni–Tb system
 | Gibbs energy of mixing; _printed: ΔGexp_ | -38.463 kJ/mol (basis unstated) | 973 | NiTb; _alloy: Tb 0.5_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 11; `ORC-4KQXSO7XDM` |  |
 | Gibbs energy of mixing; _printed: ΔGexp_ | -21.246 kJ/mol (basis unstated) | 973 | NiTb3; _alloy: Tb 0.75_ | experimental | [1] Rong 2004 | Table 4, p. 6, row 15; `ORC-U7FLQIG7GL` |  |
 
-### Activity / EMF / Gibbs energy (43)
+### Activity / EMF / Gibbs energy (8)
 
 Table: Activity / EMF / Gibbs energy, Ni–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| EMF; _printed: E°_ | 0.034 V |  | UNKNOWN; _alloy: Ni 0.3491, Tb 0.6509_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 29; `ORC-2F7TATKPWD` |  |
-| EMF; _printed: E°_ | 0.137 V |  | UNKNOWN; _alloy: Ni 0.5996, Tb 0.4004_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 20; `ORC-2N3YQOFXEO` |  |
-| EMF; _printed: E°_ | 0.684 V |  | UNKNOWN; _alloy: Ni 0.9298, Tb 0.0702_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 3; `ORC-4CSHM4RUJJ` |  |
-| EMF; _printed: E°_ | 0.015 V |  | UNKNOWN; _alloy: Ni 0.048, Tb 0.952_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 35; `ORC-5XT7QY7Q7Y` |  |
-| EMF; _printed: E°_ | 0.561 V |  | UNKNOWN; _alloy: Ni 0.8156, Tb 0.1844_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 10; `ORC-A7H5Y7TF2W` |  |
-| EMF; _printed: E°_ | 0.615 V |  | UNKNOWN; _alloy: Ni 0.8002, Tb 0.1998_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 11; `ORC-BPWINXSJYX` |  |
-| EMF; _printed: E°_ | 0.757 V |  | UNKNOWN; _alloy: Ni 0.8732, Tb 0.1268_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 6; `ORC-BWSXZVMOD3` |  |
-| EMF; _printed: E°_ | 0.14 V |  | UNKNOWN; _alloy: Ni 0.5124, Tb 0.4876_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 23; `ORC-DH3IMIDPHT` |  |
-| EMF; _printed: E°_ | 0.157 V |  | UNKNOWN; _alloy: Ni 0.4347, Tb 0.5653_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 26; `ORC-FEHHR3KPHI` |  |
-| EMF; _printed: E°_ | 0.641 V |  | UNKNOWN; _alloy: Ni 0.9663, Tb 0.0337_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 1; `ORC-FXAEG4HEFH` |  |
-| EMF; _printed: E°_ | 0.022 V |  | UNKNOWN; _alloy: Ni 0.2705, Tb 0.7295_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 32; `ORC-GRBLSKHQZZ` |  |
-| EMF; _printed: E°_ | 0.045 V |  | UNKNOWN; _alloy: Ni 0.2121, Tb 0.7879_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 33; `ORC-HQ23JBUWND` |  |
-| EMF; _printed: E°_ | 0.575 V |  | UNKNOWN; _alloy: Ni 0.8227, Tb 0.1773_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 9; `ORC-J2WG355J4X` |  |
-| EMF; _printed: E°_ | 0.749 V |  | UNKNOWN; _alloy: Ni 0.8427, Tb 0.1573_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 8; `ORC-L3CVBUVAMR` |  |
-| EMF; _printed: E°_ | 0.144 V |  | UNKNOWN; _alloy: Ni 0.5599, Tb 0.4401_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 21; `ORC-MFSCOXOYL7` |  |
-| EMF; _printed: E°_ | 0.519 V |  | UNKNOWN; _alloy: Ni 0.7635, Tb 0.2365_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 14; `ORC-NSYINGUGJM` |  |
-| EMF; _printed: E°_ | 0.678 V |  | UNKNOWN; _alloy: Ni 0.9486, Tb 0.0514_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 2; `ORC-NWQKAOQ4TC` |  |
-| EMF; _printed: E°_ | 0.858 V |  | UNKNOWN; _alloy: Ni 0.8547, Tb 0.1453_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 7; `ORC-O4NZUWZYQQ` |  |
-| EMF; _printed: E°_ | 0.74 V |  | UNKNOWN; _alloy: Ni 0.9096, Tb 0.0904_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 4; `ORC-O63TOISDKH` |  |
-| EMF; _printed: E°_ | 0.047 V |  | UNKNOWN; _alloy: Ni 0.3021, Tb 0.6979_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 31; `ORC-PORDL3FUTW` |  |
-| EMF; _printed: E°_ | 0.031 V |  | UNKNOWN; _alloy: Ni 0.3215, Tb 0.6785_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 30; `ORC-R5HSIZNFNO` |  |
-| EMF; _printed: E°_ | 0.49 V |  | UNKNOWN; _alloy: Ni 0.789, Tb 0.211_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 12; `ORC-S3VO3UXWK6` |  |
-| EMF; _printed: E°_ | 0.222 V |  | UNKNOWN; _alloy: Ni 0.7267, Tb 0.2733_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 16; `ORC-SWI2YFW4VT` |  |
-| EMF; _printed: E°_ | 0.14 V |  | UNKNOWN; _alloy: Ni 0.5307, Tb 0.4693_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 22; `ORC-TTL5PTMULW` |  |
-| EMF; _printed: E°_ | 0.239 V |  | UNKNOWN; _alloy: Ni 0.6806, Tb 0.3194_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 18; `ORC-U42TSBA4JJ` |  |
-| EMF; _printed: E°_ | 0.476 V |  | UNKNOWN; _alloy: Ni 0.7683, Tb 0.2317_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 13; `ORC-U5M32WNXVT` |  |
-| EMF; _printed: E°_ | 0.443 V |  | UNKNOWN; _alloy: Ni 0.7603, Tb 0.2397_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 15; `ORC-WCHENU4YWM` |  |
-| EMF; _printed: E°_ | 0.149 V |  | UNKNOWN; _alloy: Ni 0.6484, Tb 0.3516_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 19; `ORC-WKMMBT2AYV` |  |
-| EMF; _printed: E°_ | 0.755 V |  | UNKNOWN; _alloy: Ni 0.8864, Tb 0.1136_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 5; `ORC-WMZRLB3KMZ` |  |
-| EMF; _printed: E°_ | 0.232 V |  | UNKNOWN; _alloy: Ni 0.7058, Tb 0.2942_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 17; `ORC-WOMWHAPIWP` |  |
-| EMF; _printed: E°_ | 0.048 V |  | UNKNOWN; _alloy: Ni 0.1242, Tb 0.8758_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 34; `ORC-YDK7HSAHTX` |  |
-| EMF; _printed: E°_ | 0.069 V |  | UNKNOWN; _alloy: Ni 0.3776, Tb 0.6224_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 28; `ORC-YHCO7JNGNR` |  |
-| EMF; _printed: E°_ | 0.146 V |  | UNKNOWN; _alloy: Ni 0.4142, Tb 0.5858_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 27; `ORC-YK56LRJKOY` |  |
-| EMF; _printed: E°_ | 0.183 V |  | UNKNOWN; _alloy: Ni 0.4601, Tb 0.5399_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 25; `ORC-ZI54IVCOQD` |  |
-| EMF; _printed: E°_ | 0.091 V |  | UNKNOWN; _alloy: Ni 0.4793, Tb 0.5207_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 24; `ORC-ZLWSCJNIRX` |  |
 | Gibbs energy; _printed: ΔGcalc_ | -18.607 kJ/mol | 973 | Ni17Tb2; _alloy: Tb 0.105263_ | unspecified | [1] Rong 2004 | Table 4, p. 6, row 2; `ORC-4ZFBFAGUM6` |  |
 | Gibbs energy; _printed: ΔGcalc_ | -38.4 kJ/mol | 973 | Ni2Tb; _alloy: Tb 0.333333_ | unspecified | [1] Rong 2004 | Table 4, p. 6, row 10; `ORC-MHXC5RTI4S` |  |
 | Gibbs energy; _printed: ΔGcalc_ | -31.923 kJ/mol | 973 | Ni2Tb3; _alloy: Tb 0.6_ | unspecified | [1] Rong 2004 | Table 4, p. 6, row 14; `ORC-SBEHBSQ53I` |  |
@@ -476,6 +438,48 @@ Table: Crystal structure, Ni–Tb system
 | Lattice c | 4.22 Å | 298.15 | TbNi; _alloy: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Abrahams 1964_ [doi](https://doi.org/10.1016/0022-3697%2864%2990129-5) | Table 1, p. 4, row 10; `ORC-B2BVZFO5TG.2e044a` |  |
 | Lattice c | 24.46 Å | 298.15 | TbNi3; _alloy: Tb 0.25_ | experimental | [3] Rahou 2024; _cites Paccard 1967_ | Table 1, p. 4, row 14; `ORC-BLSJEXFVAG.7af0ef` |  |
 | Lattice c | 3.96 Å | 298.15 | TbNi5; _alloy: Tb 0.166667_ | experimental | [3] Rahou 2024; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 1, p. 4, row 18; `ORC-SJONCFARFQ.972393` |  |
+
+### Model expression (35)
+
+Table: Model expression, Ni–Tb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| emf expression term; _printed: E°_ | 0.034 V |  | UNKNOWN; _alloy: Ni 0.3491, Tb 0.6509_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 29; `ORC-2F7TATKPWD` |  |
+| emf expression term; _printed: E°_ | 0.137 V |  | UNKNOWN; _alloy: Ni 0.5996, Tb 0.4004_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 20; `ORC-2N3YQOFXEO` |  |
+| emf expression term; _printed: E°_ | 0.684 V |  | UNKNOWN; _alloy: Ni 0.9298, Tb 0.0702_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 3; `ORC-4CSHM4RUJJ` |  |
+| emf expression term; _printed: E°_ | 0.015 V |  | UNKNOWN; _alloy: Ni 0.048, Tb 0.952_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 35; `ORC-5XT7QY7Q7Y` |  |
+| emf expression term; _printed: E°_ | 0.561 V |  | UNKNOWN; _alloy: Ni 0.8156, Tb 0.1844_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 10; `ORC-A7H5Y7TF2W` |  |
+| emf expression term; _printed: E°_ | 0.615 V |  | UNKNOWN; _alloy: Ni 0.8002, Tb 0.1998_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 11; `ORC-BPWINXSJYX` |  |
+| emf expression term; _printed: E°_ | 0.757 V |  | UNKNOWN; _alloy: Ni 0.8732, Tb 0.1268_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 6; `ORC-BWSXZVMOD3` |  |
+| emf expression term; _printed: E°_ | 0.14 V |  | UNKNOWN; _alloy: Ni 0.5124, Tb 0.4876_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 23; `ORC-DH3IMIDPHT` |  |
+| emf expression term; _printed: E°_ | 0.157 V |  | UNKNOWN; _alloy: Ni 0.4347, Tb 0.5653_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 26; `ORC-FEHHR3KPHI` |  |
+| emf expression term; _printed: E°_ | 0.641 V |  | UNKNOWN; _alloy: Ni 0.9663, Tb 0.0337_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 1; `ORC-FXAEG4HEFH` |  |
+| emf expression term; _printed: E°_ | 0.022 V |  | UNKNOWN; _alloy: Ni 0.2705, Tb 0.7295_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 32; `ORC-GRBLSKHQZZ` |  |
+| emf expression term; _printed: E°_ | 0.045 V |  | UNKNOWN; _alloy: Ni 0.2121, Tb 0.7879_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 33; `ORC-HQ23JBUWND` |  |
+| emf expression term; _printed: E°_ | 0.575 V |  | UNKNOWN; _alloy: Ni 0.8227, Tb 0.1773_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 9; `ORC-J2WG355J4X` |  |
+| emf expression term; _printed: E°_ | 0.749 V |  | UNKNOWN; _alloy: Ni 0.8427, Tb 0.1573_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 8; `ORC-L3CVBUVAMR` |  |
+| emf expression term; _printed: E°_ | 0.144 V |  | UNKNOWN; _alloy: Ni 0.5599, Tb 0.4401_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 21; `ORC-MFSCOXOYL7` |  |
+| emf expression term; _printed: E°_ | 0.519 V |  | UNKNOWN; _alloy: Ni 0.7635, Tb 0.2365_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 14; `ORC-NSYINGUGJM` |  |
+| emf expression term; _printed: E°_ | 0.678 V |  | UNKNOWN; _alloy: Ni 0.9486, Tb 0.0514_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 2; `ORC-NWQKAOQ4TC` |  |
+| emf expression term; _printed: E°_ | 0.858 V |  | UNKNOWN; _alloy: Ni 0.8547, Tb 0.1453_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 7; `ORC-O4NZUWZYQQ` |  |
+| emf expression term; _printed: E°_ | 0.74 V |  | UNKNOWN; _alloy: Ni 0.9096, Tb 0.0904_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 4; `ORC-O63TOISDKH` |  |
+| emf expression term; _printed: E°_ | 0.047 V |  | UNKNOWN; _alloy: Ni 0.3021, Tb 0.6979_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 31; `ORC-PORDL3FUTW` |  |
+| emf expression term; _printed: E°_ | 0.031 V |  | UNKNOWN; _alloy: Ni 0.3215, Tb 0.6785_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 30; `ORC-R5HSIZNFNO` |  |
+| emf expression term; _printed: E°_ | 0.49 V |  | UNKNOWN; _alloy: Ni 0.789, Tb 0.211_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 12; `ORC-S3VO3UXWK6` |  |
+| emf expression term; _printed: E°_ | 0.222 V |  | UNKNOWN; _alloy: Ni 0.7267, Tb 0.2733_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 16; `ORC-SWI2YFW4VT` |  |
+| emf expression term; _printed: E°_ | 0.14 V |  | UNKNOWN; _alloy: Ni 0.5307, Tb 0.4693_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 22; `ORC-TTL5PTMULW` |  |
+| emf expression term; _printed: E°_ | 0.239 V |  | UNKNOWN; _alloy: Ni 0.6806, Tb 0.3194_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 18; `ORC-U42TSBA4JJ` |  |
+| emf expression term; _printed: E°_ | 0.476 V |  | UNKNOWN; _alloy: Ni 0.7683, Tb 0.2317_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 13; `ORC-U5M32WNXVT` |  |
+| emf expression term; _printed: E°_ | 0.443 V |  | UNKNOWN; _alloy: Ni 0.7603, Tb 0.2397_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 15; `ORC-WCHENU4YWM` |  |
+| emf expression term; _printed: E°_ | 0.149 V |  | UNKNOWN; _alloy: Ni 0.6484, Tb 0.3516_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 19; `ORC-WKMMBT2AYV` |  |
+| emf expression term; _printed: E°_ | 0.755 V |  | UNKNOWN; _alloy: Ni 0.8864, Tb 0.1136_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 5; `ORC-WMZRLB3KMZ` |  |
+| emf expression term; _printed: E°_ | 0.232 V |  | UNKNOWN; _alloy: Ni 0.7058, Tb 0.2942_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 17; `ORC-WOMWHAPIWP` |  |
+| emf expression term; _printed: E°_ | 0.048 V |  | UNKNOWN; _alloy: Ni 0.1242, Tb 0.8758_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 34; `ORC-YDK7HSAHTX` |  |
+| emf expression term; _printed: E°_ | 0.069 V |  | UNKNOWN; _alloy: Ni 0.3776, Tb 0.6224_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 28; `ORC-YHCO7JNGNR` |  |
+| emf expression term; _printed: E°_ | 0.146 V |  | UNKNOWN; _alloy: Ni 0.4142, Tb 0.5858_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 27; `ORC-YK56LRJKOY` |  |
+| emf expression term; _printed: E°_ | 0.183 V |  | UNKNOWN; _alloy: Ni 0.4601, Tb 0.5399_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 25; `ORC-ZI54IVCOQD` |  |
+| emf expression term; _printed: E°_ | 0.091 V |  | UNKNOWN; _alloy: Ni 0.4793, Tb 0.5207_ | experimental | [1] Rong 2004 | Table 1, p. 2, row 24; `ORC-ZLWSCJNIRX` |  |
 
 ## Sources
 

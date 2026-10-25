@@ -21,7 +21,7 @@ Table: Phases of the Eu–In system (10)
 | [EUIN4](#phase-eu-in-euin4); _phase:eu-in:euin4_ | EuIn4 · mC20 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–723.16 K, x(In) 0.8–0.8 | 4 | 1 |
 | [FCC_A1](#phase-eu-in-fcc-a1); _phase:eu-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-eu-in-hcp-a3); _phase:eu-in:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [LIQUID](#phase-eu-in-liquid); _phase:eu-in:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 427.31–2500 K, x(In) 0–1 | 10 | 1 |
+| [LIQUID](#phase-eu-in-liquid); _phase:eu-in:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 427.31–2500 K, x(In) 0–1 | 13 | 1 |
 
 ## TETRAGONAL_A6 (Eu–In)
 
@@ -297,11 +297,11 @@ _assessment that models this phase_
 - Id: `phase:eu-in:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 427.31–2500 K, x(In) 0–1
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:eu-in:liquid)
 
-Names (3): _corpus: _corpus:phase:eu-in:liquid  
-_paper: _paper:10.1016/j.calphad.2010.10.003:L  
+Names (4): _corpus: _corpus:phase:eu-in:liquid  
+_paper: _paper:10.1016/j.calphad.2010.10.003:L, paper:10.1016/j.calphad.2010.10.003:liquid  
 _tdb: _tdb:EuIn-11Gao.tdb:LIQUID  
 
 

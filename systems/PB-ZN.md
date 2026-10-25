@@ -1,10 +1,10 @@
 # Pb–Zn system
 
-> Pb–Zn system: 14 accepted literature values (invariant reaction 14) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Zn system: 12 accepted literature values (invariant reaction 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-ZN.html · Markdown: https://data.orchid-project.org/systems/PB-ZN.md
 
-14 accepted literature values from 1 paper(s) (experimental 11, model 3); 4 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 10, model 2); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-ZN.json) · [CSV](https://data.orchid-project.org/systems/PB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-ZN/PbZn-03Dav.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PB-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PB-ZN.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 3 |
+| experimental | 10 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 12 |
 
 ## Calculated phase diagrams
 
@@ -52,24 +52,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pb–Zn system (14)
+Table: Invariant reactions reported in the literature for the Pb–Zn system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 691.1 | L2 -> (Zn) + L1 | L2: Zn 0.997; L1: Zn 0.049 | model | [1] Srivastava 1993 | Table 3, p. 7, row 13; `ORC-O63LJV6KUN` |  |
-| 691 | L2 -> (Zn) + L1 | L2: Zn 0.998; L1: Zn 0.1004 | experimental | [1] Srivastava 1993; _cites ref. 14_ | Table 3, p. 7, row 10; `ORC-4LZEZQ3MMK` |  |
-| 691 | L2 -> (Zn) + L1 | L2: Zn 0.9973; L1: Zn 0.052 | experimental | [1] Srivastava 1993; _cites ref. 54_ | Table 3, p. 7, row 12; `ORC-UTY564KIA3` |  |
-| 690.8 | L2 -> (Zn) + L1 | L2: Zn 0.997; L1: Zn 0.06 | experimental | [1] Srivastava 1993; _cites ref. 49_ | Table 3, p. 7, row 11; `ORC-D32CRQPBRB` |  |
-| 591.35 | L1 -> (Zn) + (Pb) | L1: Zn 0.018 | experimental | [1] Srivastava 1993; _cites ref. 54_ | Table 3, p. 7, row 7; `ORC-3TINIWTKOX` |  |
-| 591.2 | L1 -> (Zn) + (Pb) | L1: Zn 0.016 | experimental | [1] Srivastava 1993; _cites ref. 53_ | Table 3, p. 7, row 4; `ORC-JLTKCSHGFA` |  |
-| 591.2 | L1 -> (Zn) + (Pb) |  | experimental | [1] Srivastava 1993; _cites ref. 49_ | Table 3, p. 7, row 5; `ORC-ZJQXIAR6AH` |  |
-| 591 | L1 -> (Zn) + (Pb) | L1: Zn 0.016 | experimental | [1] Srivastava 1993; _cites ref. 15_ | Table 3, p. 7, row 6; `ORC-I5UTHPHYTO` |  |
-| 591 | L1 -> (Zn) + (Pb) | L1: Zn 0.022 | experimental | [1] Srivastava 1993; _cites ref. 3_ | Table 3, p. 7, row 1; `ORC-JR2S56HTCY` |  |
-| 590.22 | L1 -> (Zn) + (Pb) | L1: Zn 0.0175 | model | [1] Srivastava 1993 | Table 3, p. 7, row 8; `ORC-7FUVMFMCBI` |  |
-| 590 | L1 -> (Zn) + (Pb) | L1: Zn 0.037 | experimental | [1] Srivastava 1993; _cites ref. 14_ | Table 3, p. 7, row 2; `ORC-6JTPVUQSZL` |  |
-| 589 | L1 -> (Zn) + (Pb) |  | experimental | [1] Srivastava 1993; _cites ref. 52_ | Table 3, p. 7, row 3; `ORC-RA657XZE6I` |  |
-| 450 | eutectic |  | experimental | [1] Srivastava 1993; _cites ref. 66_ | p. 9; `ORC-2AQ3HFYG42.a53696` | “The calculated ternary eutectic is at 440.7 K and Xpb = 0.212, Xzn = 0.062, whereas Levi-Malvano and Ceccarelli 66 give the ternary eutectic at 450 K and Xeb = 0.155, Xzn --- 0.078.” |
-| 440.7 | eutectic |  | model | [1] Srivastava 1993 | p. 9; `ORC-2AQ3HFYG42.89488f` | “The calculated ternary eutectic is at 440.7 K and Xpb = 0.212, Xzn = 0.062, whereas Levi-Malvano and Ceccarelli 66 give the ternary eutectic at 450 K and Xeb = 0.155, Xzn --- 0.078.” |
+| 691.1 | monotectic: L2 -> (Zn) + L1 | L2: Zn 0.997; L1: Zn 0.049 | model | [1] Srivastava 1993 | Table 3, p. 7, row 13; `ORC-O63LJV6KUN` |  |
+| 691 | monotectic: L2 -> (Zn) + L1 | L2: Zn 0.998; L1: Zn 0.1004 | experimental | [1] Srivastava 1993; _cites ref. 14_ | Table 3, p. 7, row 10; `ORC-4LZEZQ3MMK` |  |
+| 691 | monotectic: L2 -> (Zn) + L1 | L2: Zn 0.9973; L1: Zn 0.052 | experimental | [1] Srivastava 1993; _cites ref. 54_ | Table 3, p. 7, row 12; `ORC-UTY564KIA3` |  |
+| 690.8 | monotectic: L2 -> (Zn) + L1 | L2: Zn 0.997; L1: Zn 0.06 | experimental | [1] Srivastava 1993; _cites ref. 49_ | Table 3, p. 7, row 11; `ORC-D32CRQPBRB` |  |
+| 591.35 | eutectic: L1 -> (Zn) + (Pb) | L1: Zn 0.018 | experimental | [1] Srivastava 1993; _cites ref. 54_ | Table 3, p. 7, row 7; `ORC-3TINIWTKOX` |  |
+| 591.2 | eutectic: L1 -> (Zn) + (Pb) | L1: Zn 0.016 | experimental | [1] Srivastava 1993; _cites ref. 53_ | Table 3, p. 7, row 4; `ORC-JLTKCSHGFA` |  |
+| 591.2 | eutectic: L1 -> (Zn) + (Pb) |  | experimental | [1] Srivastava 1993; _cites ref. 49_ | Table 3, p. 7, row 5; `ORC-ZJQXIAR6AH` |  |
+| 591 | eutectic: L1 -> (Zn) + (Pb) | L1: Zn 0.016 | experimental | [1] Srivastava 1993; _cites ref. 15_ | Table 3, p. 7, row 6; `ORC-I5UTHPHYTO` |  |
+| 591 | eutectic: L1 -> (Zn) + (Pb) | L1: Zn 0.022 | experimental | [1] Srivastava 1993; _cites ref. 3_ | Table 3, p. 7, row 1; `ORC-JR2S56HTCY` |  |
+| 590.22 | eutectic: L1 -> (Zn) + (Pb) | L1: Zn 0.0175 | model | [1] Srivastava 1993 | Table 3, p. 7, row 8; `ORC-7FUVMFMCBI` |  |
+| 590 | eutectic: L1 -> (Zn) + (Pb) | L1: Zn 0.037 | experimental | [1] Srivastava 1993; _cites ref. 14_ | Table 3, p. 7, row 2; `ORC-6JTPVUQSZL` |  |
+| 589 | eutectic: L1 -> (Zn) + (Pb) |  | experimental | [1] Srivastava 1993; _cites ref. 52_ | Table 3, p. 7, row 3; `ORC-RA657XZE6I` |  |
 
 ## Sources
 

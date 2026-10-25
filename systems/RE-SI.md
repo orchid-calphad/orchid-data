@@ -1,10 +1,10 @@
 # Re–Si system
 
-> Re–Si system: 45 accepted literature values (formation 30, invariant reaction 14, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Re–Si system: 44 accepted literature values (formation 30, invariant reaction 14) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RE-SI.html · Markdown: https://data.orchid-project.org/systems/RE-SI.md
 
-45 accepted literature values from 2 paper(s) (experimental 14, model 31); 2 calculated phase diagram(s).
+44 accepted literature values from 2 paper(s) (experimental 14, model 30); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RE-SI.json) · [CSV](https://data.orchid-project.org/systems/RE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-SI/ReSi-01Sha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RE-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RE-SI.html) · [Markdown](https://data.orchid-project.org/systems/RE-SI.md)
 
@@ -13,14 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 14 |
-| model | 31 |
+| model | 30 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 14 |
-| phase transition | 1 |
 | formation | 30 |
 
 ## Calculated phase diagrams
@@ -67,20 +66,20 @@ Table: Invariant reactions reported in the literature for the Re–Si system (14
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2213 | Liquid -> ReSi2 | L: Si 0.643; ReSi2: Si 0.643 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 4; `ORC-7DX6TDQAXU` |  |
-| 2205.94 | Liquid -> ReSi2 | L: Si 0.647; ReSi2: Si 0.647 | model | [1] Yang 2010 | Table 3, p. 3, row 3; `ORC-R4C6MSC3VC` |  |
+| 2213 | congruent melting: Liquid -> ReSi2 | L: Si 0.643; ReSi2: Si 0.643 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 4; `ORC-7DX6TDQAXU` |  |
+| 2205.94 | congruent melting: Liquid -> ReSi2 | L: Si 0.647; ReSi2: Si 0.647 | model | [1] Yang 2010 | Table 3, p. 3, row 3; `ORC-R4C6MSC3VC` |  |
 | 2093 | Liquid + ReSi2 -> ReSi | L: Si 0.46; ReSi2: Si 0.643; ReSi: Si 0.5 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 2; `ORC-IHMCY6HPR7` |  |
 | 2088.64 | Liquid + ReSi2 -> ReSi | L: Si 0.439; ReSi2: Si 0.638; ReSi: Si 0.5 | model | [1] Yang 2010 | Table 3, p. 3, row 1; `ORC-OWM2FBAX7O` |  |
-| 2083 | Liquid -> Re2Si | L: Si 0.667; Re2Si: Si 0.667 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 8; `ORC-R42UGVSW7H` |  |
-| 2072.87 | Liquid -> Re2Si | L: Si 0.667; Re2Si: Si 0.667 | model | [1] Yang 2010 | Table 3, p. 3, row 7; `ORC-JGL72NZMBJ` |  |
-| 2051.87 | Liquid -> Re2Si + ReSi | L: Si 0.393; Re2Si: Si 0.333; ReSi: Si 0.5 | model | [1] Yang 2010 | Table 3, p. 3, row 5; `ORC-JXYUMZ6Z5D` |  |
-| 2043 | Liquid -> Re2Si + ReSi | L: Si 0.39; Re2Si: Si 0.333; ReSi: Si 0.5 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 6; `ORC-7QIEZXD6UI` |  |
-| 1989.14 | Liquid -> (Re) + Re2Si | L: Si 0.237; (Re): Si 0.108; Re2Si: Si 0.333 | model | [1] Yang 2010 | Table 3, p. 3, row 9; `ORC-GQFZ4DDRBE` |  |
-| 1983 | Liquid -> (Re) + Re2Si | L: Si 0.26; (Re): Si 0.1; Re2Si: Si 0.333 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 10; `ORC-B7ZK2GZBKM` |  |
+| 2083 | congruent melting: Liquid -> Re2Si | L: Si 0.667; Re2Si: Si 0.667 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 8; `ORC-R42UGVSW7H` |  |
+| 2072.87 | congruent melting: Liquid -> Re2Si | L: Si 0.667; Re2Si: Si 0.667 | model | [1] Yang 2010 | Table 3, p. 3, row 7; `ORC-JGL72NZMBJ` |  |
+| 2051.87 | eutectic: Liquid -> Re2Si + ReSi | L: Si 0.393; Re2Si: Si 0.333; ReSi: Si 0.5 | model | [1] Yang 2010 | Table 3, p. 3, row 5; `ORC-JXYUMZ6Z5D` |  |
+| 2043 | eutectic: Liquid -> Re2Si + ReSi | L: Si 0.39; Re2Si: Si 0.333; ReSi: Si 0.5 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 6; `ORC-7QIEZXD6UI` |  |
+| 1989.14 | eutectic: Liquid -> (Re) + Re2Si | L: Si 0.237; (Re): Si 0.108; Re2Si: Si 0.333 | model | [1] Yang 2010 | Table 3, p. 3, row 9; `ORC-GQFZ4DDRBE` |  |
+| 1983 | eutectic: Liquid -> (Re) + Re2Si | L: Si 0.26; (Re): Si 0.1; Re2Si: Si 0.333 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 10; `ORC-B7ZK2GZBKM` |  |
 | 1923 | ReSi -> Re2Si + ReSi2 | ReSi: Si 0.5; Re2Si: Si 0.333; ReSi2: Si 0.643 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 12; `ORC-OHOOVKM64A` |  |
 | 1922.51 | ReSi -> Re2Si + ReSi2 | ReSi: Si 0.5; Re2Si: Si 0.333; ReSi2: Si 0.641 | model | [1] Yang 2010 | Table 3, p. 3, row 11; `ORC-5SBRTDBZ3P` |  |
-| 1653 | Liquid -> ReSi2 + (Si) | L: Si 0.9; ReSi2: Si 0.643; (Si): Si 1 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 14; `ORC-FLHA3EBHSU` |  |
-| 1644.76 | Liquid -> ReSi2 + (Si) | L: Si 0.947; ReSi2: Si 0.666; (Si): Si 1 | model | [1] Yang 2010 | Table 3, p. 3, row 13; `ORC-7HM5YU6P5F` |  |
+| 1653 | eutectic: Liquid -> ReSi2 + (Si) | L: Si 0.9; ReSi2: Si 0.643; (Si): Si 1 | experimental | [1] Yang 2010; _cites Gokhale 1996_ [doi](https://doi.org/10.1007/bf02667640) | Table 3, p. 3, row 14; `ORC-FLHA3EBHSU` |  |
+| 1644.76 | eutectic: Liquid -> ReSi2 + (Si) | L: Si 0.947; ReSi2: Si 0.666; (Si): Si 1 | model | [1] Yang 2010 | Table 3, p. 3, row 13; `ORC-7HM5YU6P5F` |  |
 
 ## Formation enthalpies
 
@@ -120,16 +119,6 @@ Table: Enthalpies of formation, Re–Si system (30)
 | ReSi2 | [ReSi2](https://data.orchid-project.org/compounds/ReSi2.html) | -30.1 kJ/mol-atom |  | model | -14.277 (mp-aaaaasqv) | -17.558 (oqmd-6973) | [1] Yang 2010; _cites Chart 1973_ | Table 2, p. 3, row 13; `ORC-GYLPB3ZT5U` |  |
 | ReSi2 | [ReSi2](https://data.orchid-project.org/compounds/ReSi2.html) | -28.8 kJ/mol-atom | 298.15 | experimental | -14.277 (mp-aaaaasqv) | -17.558 (oqmd-6973) | [1] Yang 2010; _cites Searcy 1962_ | Table 2, p. 3, row 12; `ORC-5SVXSDJRSO` |  |
 | ReSi2 | [ReSi2](https://data.orchid-project.org/compounds/ReSi2.html) | -10 kJ/mol-atom |  | model | -14.277 (mp-aaaaasqv) | -17.558 (oqmd-6973) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 14; `ORC-D26X5KQGPV` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Re–Si system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1266 K | 1266 | other | model | [2] Shao 2001; _cites Liu 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900931-8) | p. 5; `ORC-GJQTMGLBWU` | “The glass transition temperature for pure Si is 1266 K \[25\].” |
 
 ## Sources
 

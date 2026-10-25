@@ -1,25 +1,12 @@
 # Ho–Tb system
 
-> Ho–Tb system: 2 accepted literature values (invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ho–Tb system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HO-TB.html · Markdown: https://data.orchid-project.org/systems/HO-TB.md
 
-2 accepted literature values from 1 paper(s) (experimental 1, model 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HO-TB.json) · [CSV](https://data.orchid-project.org/systems/HO-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-TB/HoTb-00Nor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/HO-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-TB.html) · [Markdown](https://data.orchid-project.org/systems/HO-TB.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 2 |
 
 ## Calculated phase diagrams
 
@@ -38,21 +25,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | HoTb-00Nor-LB.tdb | 1730.34 | HCP_A3 (x(Tb) 0.1201) + BCC_A2 (x(Tb) 0.124) + LIQUID (x(Tb) 0.12939) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/HO/HO-TB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/HO/HO-TB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ho–Tb system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1735 | peritectic |  | experimental | [1] Norgren 2000; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | p. 3; `ORC-QE2XC2LXQX.e7b635` | “The calculated peritectic temperature is 1730 K compared to 1735 K reported by Spedding et al.\[8\] (Table 2).” |
-| 1730 | peritectic |  | model | [1] Norgren 2000 | p. 3; `ORC-QE2XC2LXQX.3ffe6c` | “The calculated peritectic temperature is 1730 K compared to 1735 K reported by Spedding et al.\[8\] (Table 2).” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Susanne Norgren, Thermodynamic assessment of the Ho-Tb, Ho-Dy, Ho-Er, Er-Tb, and Er-Dy systems, JPE 21, 148-156 (2000). [doi:10.1361/105497100770340200](https://doi.org/10.1361/105497100770340200)
 
 ## Please cite
 

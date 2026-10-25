@@ -1,10 +1,10 @@
 # Cr–Pt system
 
-> Cr–Pt system: 28 accepted literature values (phase transition 14, invariant reaction 13, phase equilibrium 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Pt system: 27 accepted literature values (phase transition 13, invariant reaction 13, phase equilibrium 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-PT.html · Markdown: https://data.orchid-project.org/systems/CR-PT.md
 
-28 accepted literature values from 2 paper(s) (experimental 20, model 7, unspecified 1); 3 calculated phase diagram(s).
+27 accepted literature values from 2 paper(s) (experimental 19, model 7, unspecified 1); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-PT.json) · [CSV](https://data.orchid-project.org/systems/CR-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-PT/CrPt-01Oik.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-PT.html) · [Markdown](https://data.orchid-project.org/systems/CR-PT.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 19 |
 | model | 7 |
 | unspecified | 1 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 13 |
-| phase transition | 14 |
+| phase transition | 13 |
 | phase equilibrium | 1 |
 
 ## Calculated phase diagrams
@@ -74,7 +74,7 @@ Table: Invariant reactions reported in the literature for the Cr–Pt system (13
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (13)
 
 Table: Phase transition, Cr–Pt system
 
@@ -84,7 +84,6 @@ Table: Phase transition, Cr–Pt system
 | Phase transition | 513.15 K | 513.15 | magnetic | experimental | [1] Preußner 2009 | p. 4; `ORC-D3WBCQSSQ2.5ae287` | “The DSC curves of Cr0.25 Pt0.75 is given in Fig. 5a. The hump at ∼240 ◦ C corresponds to the Curie temperature, the peak at ∼1090 ◦ C to the transformation from L12 to fcc.” |
 | Phase transition | 516.15 K | 516.15 | magnetic: Tcurie; _alloy: Cr 0.25, Pt 0.75_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 2; `ORC-SM75DJV3Z7` |  |
 | Phase transition | 1358.15 K | 1358.15 | polymorphic: fcc-L1₂; _alloy: Cr 0.25, Pt 0.75_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 7; `ORC-PD5UFPVJTN` |  |
-| Phase transition | 1363.15 K | 1363.15 | other | experimental | [1] Preußner 2009 | p. 4; `ORC-D3WBCQSSQ2.b4f8fb` | “The DSC curves of Cr0.25 Pt0.75 is given in Fig. 5a. The hump at ∼240 ◦ C corresponds to the Curie temperature, the peak at ∼1090 ◦ C to the transformation from L12 to fcc.” |
 | Phase transition | 1370.15 K | 1370.15 | polymorphic: fcc-L12; _alloy: Cr 0.25, Pt 0.75_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 1; `ORC-243WQF2W6R` |  |
 | Phase transition | 1390.15 K | 1390.15 | other: fcc-L1₀?; _alloy: Cr 0.5, Pt 0.5_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 9; `ORC-4WIZSTLXSS` |  |
 | Phase transition | 1395.15 K | 1395.15 | polymorphic: fcc-L10?; _alloy: Cr 0.5, Pt 0.5_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 3; `ORC-6XMZWFOFWG` |  |

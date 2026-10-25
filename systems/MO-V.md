@@ -1,10 +1,10 @@
 # Mo–V system
 
-> Mo–V system: 15 accepted literature values (phase equilibrium 11, phase transition 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–V system: 11 accepted literature values (phase equilibrium 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-V.html · Markdown: https://data.orchid-project.org/systems/MO-V.md
 
-15 accepted literature values from 2 paper(s) (experimental 15); 3 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 11); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-V.json) · [CSV](https://data.orchid-project.org/systems/MO-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-V/MoV-02Bra-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/MO-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-V.html) · [Markdown](https://data.orchid-project.org/systems/MO-V.md)
 
@@ -12,13 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 4 |
 | phase equilibrium | 11 |
 
 ## Calculated phase diagrams
@@ -36,17 +35,6 @@ Table: Assessments with a calculated phase diagram
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MO/MO-V.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MO/MO-V.json) · [CALPHAD hull MoV-02Bra-LB](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-V--MoV-02Bra-LB.json) · [CALPHAD hull MoV-99Zhe](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-V--MoV-99Zhe.json)
 
 ## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Mo–V system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 2199.15 K | 2199.15 |  | experimental | [1] Yang 2021; _cites Rudy 1969_ | p. 2; `ORC-FYX3ROZY7F.430cf8` | “The melting points of the pure Mo and the pure V are 2619 ± 4 C and 1926 ± 3 C, respectively.” |
-| Phase transition | 2199.15 K | 2199.15 |  | experimental | [2] Zheng 1999; _cites Rudy 1969_ | p. 1; `ORC-LBWKVUZDJJ.dcb685` | “The melting point given for pure Mo was 2619 ± 4 °C, while that of V was 1926 ± 3 °C.” |
-| Phase transition | 2892.15 K | 2892.15 |  | experimental | [1] Yang 2021; _cites Rudy 1969_ | p. 2; `ORC-FYX3ROZY7F.509e0f` | “The melting points of the pure Mo and the pure V are 2619 ± 4 C and 1926 ± 3 C, respectively.” |
-| Phase transition | 2892.15 K | 2892.15 |  | experimental | [2] Zheng 1999; _cites Rudy 1969_ | p. 1; `ORC-LBWKVUZDJJ.549896` | “The melting point given for pure Mo was 2619 ± 4 °C, while that of V was 1926 ± 3 °C.” |
 
 ### Phase equilibrium (11)
 
@@ -71,7 +59,6 @@ Table: Phase equilibrium, Mo–V system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Wenkui Yang, Zhikui Gao, Changrong Li, Cuiping Guo, Zhenmin Du, Experimental measurement and thermodynamic optimization on the solidus miscibility gap of the Mo-V binary and the Mo-Nb-V ternary systems, Journal of Alloys and Compounds 857, 157509 (2021). [doi:10.1016/j.jallcom.2020.157509](https://doi.org/10.1016/j.jallcom.2020.157509)
-2. F. Zheng, B. B. Argent, J. F. Smith, Thermodynamic computation of the Mo-V binary phase diagram, JPE 20, 370-372 (1999). [doi:10.1361/105497199770340897](https://doi.org/10.1361/105497199770340897)
 
 ## Please cite
 

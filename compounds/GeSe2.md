@@ -34,10 +34,10 @@ Table: Uncertainty budget of the literature values of GeSe2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -38 | kJ/mol-atom | 5.7 | 0.5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.7 |
+| -38 | kJ/mol-atom | 5.7 | 0.5 | 4.2 (kems_vapour, calibrated) |  |  |  | 5.7 |
 | -34.3 | kJ/mol-atom | 0.6 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
-| -30.3 | kJ/mol-atom | 2.8 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -28.13 | kJ/mol-atom | 0.6 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -30.3 | kJ/mol-atom | 2.8 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -28.13 | kJ/mol-atom | 0.6 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -24.7 | kJ/mol-atom | 9.1 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 9.1 |
 | -34.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -24.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

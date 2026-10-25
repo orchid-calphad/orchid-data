@@ -1,10 +1,10 @@
 # Al–Ni–W system
 
-> Al–Ni–W system: 24 accepted literature values (phase equilibrium 23, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ni–W system: 23 accepted literature values (phase equilibrium 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NI-W.html · Markdown: https://data.orchid-project.org/systems/AL-NI-W.md
 
-24 accepted literature values from 2 paper(s) (experimental 12, model 12); 0 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (experimental 12, model 11); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI-W.json) · [CSV](https://data.orchid-project.org/systems/AL-NI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI-W) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NI-W.html) · [Markdown](https://data.orchid-project.org/systems/AL-NI-W.md)
 
@@ -13,22 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| model | 12 |
+| model | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | phase equilibrium | 23 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–Ni–W system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1640 | eutectic |  | model | [1] Kaufman 1975 | p. 6; `ORC-65WQ4VJSLE` | “Reference to Figures 6 and 7 shows that this minimum melting temperature corresponds to a 1640K eutectic between the liquid phase, a bcc phase based on "NiAI", a fcc phase based on nickel and a bcc phase based on tungsten.” |
 
 ## Other properties
 
@@ -38,36 +29,35 @@ Table: Phase equilibrium, Al–Ni–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1173 | γ + γ'; _alloy: Al 0.135, Ni 0.859, W 0.006_ | experimental | [2] Popovič 2008 | Table 1, p. 2, row 7; `ORC-34WLGRUTWZ` |  |
-| Phase assemblage |  | 1173 | γ + γ' + α; _alloy: Al 0.146, Ni 0.75, W 0.104_ | experimental | [2] Popovič 2008 | Table 1, p. 2, row 1; `ORC-7WZO5USI5T` |  |
-| Phase assemblage |  | 1173 | γ' + α; _alloy: Al 0.212, Ni 0.721, W 0.067_ | experimental | [2] Popovič 2008 | Table 1, p. 2, row 4; `ORC-AX24V2KKBO` |  |
-| Phase assemblage |  | 1273 | γ + γ'; _alloy: Al 0.135, Ni 0.859, W 0.006_ | experimental | [2] Popovič 2008 | Table 1, p. 2, row 8; `ORC-32KQP5NPSS` |  |
-| Phase assemblage |  | 1273 | γ + γ' + α; _alloy: Al 0.146, Ni 0.75, W 0.104_ | experimental | [2] Popovič 2008 | Table 1, p. 2, row 2; `ORC-5O5QD3BL3W` |  |
-| Phase assemblage |  | 1273 | γ' + α; _alloy: Al 0.212, Ni 0.721, W 0.067_ | experimental | [2] Popovič 2008 | Table 1, p. 2, row 5; `ORC-OXVICNJSTT` |  |
-| Phase assemblage |  | 1373 | γ + γ'; _alloy: Al 0.135, Ni 0.859, W 0.006_ | experimental | [2] Popovič 2008 | Table 1, p. 2, row 9; `ORC-2ZTFIYH3NP` |  |
-| Phase assemblage |  | 1373 | γ + γ' + α; _alloy: Al 0.146, Ni 0.75, W 0.104_ | experimental | [2] Popovič 2008 | Table 1, p. 2, row 3; `ORC-LF7AMTQWZE` |  |
-| Phase assemblage |  | 1373 | γ' + α; _alloy: Al 0.212, Ni 0.721, W 0.067_ | experimental | [2] Popovič 2008 | Table 1, p. 2, row 6; `ORC-EQLXIOTE3C` |  |
-| Phase composition |  | 1173 | γ + γ′; _γ: Al 0.131, Ni 0.864, W 0.005; γ′: Al 0.2, Ni 0.779, W 0.021_ | model | [2] Popovič 2008 | Table 2, p. 2, row 7; `ORC-2VFTACZBR2` |  |
-| Phase composition |  | 1173 | γ + γ′; _γ: Al 0.122, Ni 0.873, W 0.005; γ′: Al 0.197, Ni 0.777, W 0.026_ | experimental | [2] Popovič 2008 | Table 2, p. 2, row 9; `ORC-3REKECGT7X` |  |
-| Phase composition |  | 1173 | γ + γ′ + α; _γ: Al 0.087, Ni 0.818, W 0.095; γ′: Al 0.193, Ni 0.758, W 0.049; α: W 1_ | model | [2] Popovič 2008; _cites Dupin 2001_ [doi](https://doi.org/10.1034/j.1600-0692.2001.300309.x) | Table 2, p. 2, row 2; `ORC-3OV5ADIK5U` |  |
-| Phase composition |  | 1173 | γ + γ′ + α; _γ: Al 0.064, Ni 0.826, W 0.11; γ′: Al 0.153, Ni 0.775, W 0.072; α: Al 0.005, Ni 0.123, W 0.872_ | experimental | [2] Popovič 2008 | Table 2, p. 2, row 3; `ORC-LLIET7MNCT` |  |
-| Phase composition |  | 1173 | γ′ + α; _γ′: Al 0.15, Ni 0.773, W 0.077; α: W 1_ | model | [2] Popovič 2008 | Table 2, p. 2, row 1; `ORC-D4AVPZZ37P` |  |
-| Phase composition |  | 1173 | γ′ + α; _γ′: Al 0.22, Ni 0.747, W 0.033; α: W 1_ | model | [2] Popovič 2008; _cites Dupin 2001_ [doi](https://doi.org/10.1034/j.1600-0692.2001.300309.x) | Table 2, p. 2, row 5; `ORC-WXQGIBXTHH` |  |
-| Phase composition |  | 1173 | γ′ + α; _γ′: Al 0.219, Ni 0.743, W 0.038; α: W 1_ | model | [2] Popovič 2008 | Table 2, p. 2, row 4; `ORC-YKQRI2DX4P` |  |
-| Phase composition |  | 1173 | γ′ + α; _γ′: Al 0.221, Ni 0.749, W 0.03; α: Al 0.004, Ni 0.156, W 0.84_ | experimental | [2] Popovič 2008 | Table 2, p. 2, row 6; `ORC-Z5643NUPGW` |  |
-| Phase composition |  | 1273 | γ + γ' + α + γ′; _γ: Al 0.054, Ni 0.824, W 0.122; γ': Al 0.164, Ni 0.776, W 0.06; α: Al 0.002, Ni 0.123, W 0.875; γ′: Al 0.164, Ni 0.776, W 0.06_ | model | [2] Popovič 2008 | Table 3, p. 2, row 1; `ORC-HKSYQTWKY2` |  |
-| Phase composition |  | 1273 | γ + γ' + γ′; _γ: Al 0.112, Ni 0.886, W 0.002; γ': Al 0.16, Ni 0.829, W 0.011; γ′: Al 0.16, Ni 0.829, W 0.011_ | model | [2] Popovič 2008 | Table 3, p. 2, row 3; `ORC-QJ5MM6GEF4` |  |
-| Phase composition |  | 1273 | γ' + α + γ′; _γ': Al 0.215, Ni 0.753, W 0.032; α: Al 0.004, Ni 0.112, W 0.884; γ′: Al 0.215, Ni 0.753, W 0.032_ | model | [2] Popovič 2008 | Table 3, p. 2, row 2; `ORC-2ZUWGSQFRP` |  |
-| Phase composition |  | 1373 | γ + γ′; _γ: Al 0.128, Ni 0.866, W 0.006; γ′: Al 0.164, Ni 0.821, W 0.015_ | model | [2] Popovič 2008 | Table 4, p. 3, row 3; `ORC-AU2547H7JQ` |  |
-| Phase composition |  | 1373 | γ + γ′ + α; _γ: Al 0.078, Ni 0.819, W 0.103; γ′: Al 0.154, Ni 0.772, W 0.074; α: Al 0.005, Ni 0.12, W 0.875_ | model | [2] Popovič 2008 | Table 4, p. 3, row 1; `ORC-JFDMAQRC5Z` |  |
-| Phase composition |  | 1373 | γ′ + α; _γ′: Al 0.216, Ni 0.752, W 0.032; α: Al 0.007, Ni 0.139, W 0.854_ | model | [2] Popovič 2008 | Table 4, p. 3, row 2; `ORC-FQPPBERN5P` |  |
+| Phase assemblage |  | 1173 | γ + γ'; _alloy: Al 0.135, Ni 0.859, W 0.006_ | experimental | [1] Popovič 2008 | Table 1, p. 2, row 7; `ORC-34WLGRUTWZ` |  |
+| Phase assemblage |  | 1173 | γ + γ' + α; _alloy: Al 0.146, Ni 0.75, W 0.104_ | experimental | [1] Popovič 2008 | Table 1, p. 2, row 1; `ORC-7WZO5USI5T` |  |
+| Phase assemblage |  | 1173 | γ' + α; _alloy: Al 0.212, Ni 0.721, W 0.067_ | experimental | [1] Popovič 2008 | Table 1, p. 2, row 4; `ORC-AX24V2KKBO` |  |
+| Phase assemblage |  | 1273 | γ + γ'; _alloy: Al 0.135, Ni 0.859, W 0.006_ | experimental | [1] Popovič 2008 | Table 1, p. 2, row 8; `ORC-32KQP5NPSS` |  |
+| Phase assemblage |  | 1273 | γ + γ' + α; _alloy: Al 0.146, Ni 0.75, W 0.104_ | experimental | [1] Popovič 2008 | Table 1, p. 2, row 2; `ORC-5O5QD3BL3W` |  |
+| Phase assemblage |  | 1273 | γ' + α; _alloy: Al 0.212, Ni 0.721, W 0.067_ | experimental | [1] Popovič 2008 | Table 1, p. 2, row 5; `ORC-OXVICNJSTT` |  |
+| Phase assemblage |  | 1373 | γ + γ'; _alloy: Al 0.135, Ni 0.859, W 0.006_ | experimental | [1] Popovič 2008 | Table 1, p. 2, row 9; `ORC-2ZTFIYH3NP` |  |
+| Phase assemblage |  | 1373 | γ + γ' + α; _alloy: Al 0.146, Ni 0.75, W 0.104_ | experimental | [1] Popovič 2008 | Table 1, p. 2, row 3; `ORC-LF7AMTQWZE` |  |
+| Phase assemblage |  | 1373 | γ' + α; _alloy: Al 0.212, Ni 0.721, W 0.067_ | experimental | [1] Popovič 2008 | Table 1, p. 2, row 6; `ORC-EQLXIOTE3C` |  |
+| Phase composition |  | 1173 | γ + γ′; _γ: Al 0.131, Ni 0.864, W 0.005; γ′: Al 0.2, Ni 0.779, W 0.021_ | model | [1] Popovič 2008 | Table 2, p. 2, row 7; `ORC-2VFTACZBR2` |  |
+| Phase composition |  | 1173 | γ + γ′; _γ: Al 0.122, Ni 0.873, W 0.005; γ′: Al 0.197, Ni 0.777, W 0.026_ | experimental | [1] Popovič 2008 | Table 2, p. 2, row 9; `ORC-3REKECGT7X` |  |
+| Phase composition |  | 1173 | γ + γ′ + α; _γ: Al 0.087, Ni 0.818, W 0.095; γ′: Al 0.193, Ni 0.758, W 0.049; α: W 1_ | model | [1] Popovič 2008; _cites Dupin 2001_ [doi](https://doi.org/10.1034/j.1600-0692.2001.300309.x) | Table 2, p. 2, row 2; `ORC-3OV5ADIK5U` |  |
+| Phase composition |  | 1173 | γ + γ′ + α; _γ: Al 0.064, Ni 0.826, W 0.11; γ′: Al 0.153, Ni 0.775, W 0.072; α: Al 0.005, Ni 0.123, W 0.872_ | experimental | [1] Popovič 2008 | Table 2, p. 2, row 3; `ORC-LLIET7MNCT` |  |
+| Phase composition |  | 1173 | γ′ + α; _γ′: Al 0.15, Ni 0.773, W 0.077; α: W 1_ | model | [1] Popovič 2008 | Table 2, p. 2, row 1; `ORC-D4AVPZZ37P` |  |
+| Phase composition |  | 1173 | γ′ + α; _γ′: Al 0.22, Ni 0.747, W 0.033; α: W 1_ | model | [1] Popovič 2008; _cites Dupin 2001_ [doi](https://doi.org/10.1034/j.1600-0692.2001.300309.x) | Table 2, p. 2, row 5; `ORC-WXQGIBXTHH` |  |
+| Phase composition |  | 1173 | γ′ + α; _γ′: Al 0.219, Ni 0.743, W 0.038; α: W 1_ | model | [1] Popovič 2008 | Table 2, p. 2, row 4; `ORC-YKQRI2DX4P` |  |
+| Phase composition |  | 1173 | γ′ + α; _γ′: Al 0.221, Ni 0.749, W 0.03; α: Al 0.004, Ni 0.156, W 0.84_ | experimental | [1] Popovič 2008 | Table 2, p. 2, row 6; `ORC-Z5643NUPGW` |  |
+| Phase composition |  | 1273 | γ + γ' + α + γ′; _γ: Al 0.054, Ni 0.824, W 0.122; γ': Al 0.164, Ni 0.776, W 0.06; α: Al 0.002, Ni 0.123, W 0.875; γ′: Al 0.164, Ni 0.776, W 0.06_ | model | [1] Popovič 2008 | Table 3, p. 2, row 1; `ORC-HKSYQTWKY2` |  |
+| Phase composition |  | 1273 | γ + γ' + γ′; _γ: Al 0.112, Ni 0.886, W 0.002; γ': Al 0.16, Ni 0.829, W 0.011; γ′: Al 0.16, Ni 0.829, W 0.011_ | model | [1] Popovič 2008 | Table 3, p. 2, row 3; `ORC-QJ5MM6GEF4` |  |
+| Phase composition |  | 1273 | γ' + α + γ′; _γ': Al 0.215, Ni 0.753, W 0.032; α: Al 0.004, Ni 0.112, W 0.884; γ′: Al 0.215, Ni 0.753, W 0.032_ | model | [1] Popovič 2008 | Table 3, p. 2, row 2; `ORC-2ZUWGSQFRP` |  |
+| Phase composition |  | 1373 | γ + γ′; _γ: Al 0.128, Ni 0.866, W 0.006; γ′: Al 0.164, Ni 0.821, W 0.015_ | model | [1] Popovič 2008 | Table 4, p. 3, row 3; `ORC-AU2547H7JQ` |  |
+| Phase composition |  | 1373 | γ + γ′ + α; _γ: Al 0.078, Ni 0.819, W 0.103; γ′: Al 0.154, Ni 0.772, W 0.074; α: Al 0.005, Ni 0.12, W 0.875_ | model | [1] Popovič 2008 | Table 4, p. 3, row 1; `ORC-JFDMAQRC5Z` |  |
+| Phase composition |  | 1373 | γ′ + α; _γ′: Al 0.216, Ni 0.752, W 0.032; α: Al 0.007, Ni 0.139, W 0.854_ | model | [1] Popovič 2008 | Table 4, p. 3, row 2; `ORC-FQPPBERN5P` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. L. Kaufman, H. Nesor, Calculation of the Ni-Al-W, Ni-Al-Hf and Ni-Cr-Hf systems, Canadian Metallurgical Quarterly 14, 221-232 (1975). [doi:10.1179/000844375795050157](https://doi.org/10.1179/000844375795050157)
-2. J. Popovič, P. Brož, J. Buršík, Microstructure and phase equilibria in the Ni–Al–W system, Intermetallics 16, 884-888 (2008). [doi:10.1016/j.intermet.2008.04.003](https://doi.org/10.1016/j.intermet.2008.04.003)
+1. J. Popovič, P. Brož, J. Buršík, Microstructure and phase equilibria in the Ni–Al–W system, Intermetallics 16, 884-888 (2008). [doi:10.1016/j.intermet.2008.04.003](https://doi.org/10.1016/j.intermet.2008.04.003)
 
 ## Please cite
 

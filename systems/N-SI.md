@@ -1,10 +1,10 @@
 # N–Si system
 
-> N–Si system: 37 accepted literature values (crystal structure 16, invariant reaction 8, heat capacity / entropy / enthalpy 6, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> N–Si system: 34 accepted literature values (crystal structure 16, invariant reaction 7, heat capacity / entropy / enthalpy 6, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/N-SI.html · Markdown: https://data.orchid-project.org/systems/N-SI.md
 
-37 accepted literature values from 1 paper(s) (experimental 27, model 6, unspecified 4); 0 calculated phase diagram(s).
+34 accepted literature values from 1 paper(s) (experimental 26, model 4, unspecified 4); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/N-SI.json) · [CSV](https://data.orchid-project.org/systems/N-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-SI) · [phases (8)](https://data.orchid-project.org/phases/pages/N-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/N-SI.html) · [Markdown](https://data.orchid-project.org/systems/N-SI.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 27 |
-| model | 6 |
+| experimental | 26 |
+| model | 4 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
-| phase transition | 3 |
+| invariant reaction | 7 |
+| phase transition | 1 |
 | formation | 4 |
 | heat capacity / entropy / enthalpy | 6 |
 | crystal structure | 16 |
@@ -30,7 +30,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the N–Si system (8)
+Table: Invariant reactions reported in the literature for the N–Si system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -39,7 +39,6 @@ Table: Invariant reactions reported in the literature for the N–Si system (8)
 | 2150 | Liquid + gas \<-> Si3N4 | L: N 0.00145; Si3N4: N 0.571429 | model | [1] Ma 2003 | Table 4, p. 5, row 7; `ORC-UQVVWG2P6T` |  |
 | 2129 | Liquid + gas \<-> Si3N4 | Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Kaiser 1959_ [doi](https://doi.org/10.1063/1.1735180) | Table 4, p. 5, row 4; `ORC-RK2V67VXLD` |  |
 | 1687 | Liquid \<-> diamond_Si + Si3N4 | L: N 2.000e-4; diamond_Si: N 0; Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Kaiser 1959_ [doi](https://doi.org/10.1063/1.1735180) | Table 4, p. 5, row 1; `ORC-3H4KZFP6TI` |  |
-| 1687 | eutectic: liquid ↔ diamond Si + Si3 N4 |  | experimental | [1] Ma 2003; _cites Yatsurugi 1973_ [doi](https://doi.org/10.1149/1.2403610) | p. 1; `ORC-AA3GZHP7H4` | “Yatsurugi et al. \[11\] presented the eutectic reaction, liquid ↔ diamond Si + Si3 N4 , at about 1687 K with 0.012 at.% N in liquid Si and 9 × 10-9 at.% N in solid Si.” |
 | 1687 | Liquid \<-> diamond_Si + Si3N4 | L: N 1.200e-4; diamond_Si: N 0; Si3N4: N 0.571429 | experimental | [1] Ma 2003; _cites Yatsurugi 1973_ [doi](https://doi.org/10.1149/1.2403610) | Table 4, p. 5, row 2; `ORC-MWNU5ADCIS` |  |
 | 1686.94 | Liquid \<-> diamond_Si + Si3N4 | L: N 0.0012; diamond_Si: N 0; Si3N4: N 0.571429 | model | [1] Ma 2003 | Table 4, p. 5, row 3; `ORC-X7BIQO7EAB` |  |
 
@@ -58,15 +57,13 @@ Table: Enthalpies of formation, N–Si system (4)
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (1)
 
 Table: Phase transition, N–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1687 K | 1687 | liquid | experimental | [1] Ma 2003; _cites Kaiser 1959_ [doi](https://doi.org/10.1063/1.1735180) | p. 1; `ORC-V54MI6EVWW` | “Using zone-melting experiments, Kaiser and Thurmond \[10\] and Yatsurugi et al. \[11\] measured the distribution of N between solid and liquid semiconductor-grade Si near its melting point (1687 K).” |
-| Phase transition | 2150 K | 2150 | other | model | [1] Ma 2003 | p. 4; `ORC-G6ELBHT37Q.51ec98` | “The calculated results show the incongruent decomposition of Si3 N4 phase is 2150 or 2151 K at 101 325 Pa when the gas is treated as real gas or ideal gas, respectively.” |
-| Phase transition | 2151 K | 2151 | other | model | [1] Ma 2003 | p. 4; `ORC-G6ELBHT37Q.771fea` | “The calculated results show the incongruent decomposition of Si3 N4 phase is 2150 or 2151 K at 101 325 Pa when the gas is treated as real gas or ideal gas, respectively.” |
 
 ### Heat capacity / entropy / enthalpy (6)
 

@@ -1,10 +1,10 @@
 # Al–Co–Nb system
 
-> Al–Co–Nb system: 112 accepted literature values (phase equilibrium 66, invariant reaction 36, phase transition 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Co–Nb system: 111 accepted literature values (phase equilibrium 66, invariant reaction 35, phase transition 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CO-NB.html · Markdown: https://data.orchid-project.org/systems/AL-CO-NB.md
 
-112 accepted literature values from 1 paper(s) (experimental 53, model 59); 0 calculated phase diagram(s).
+111 accepted literature values from 1 paper(s) (experimental 53, model 58); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-NB.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-NB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO-NB.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO-NB.md)
 
@@ -13,19 +13,19 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 53 |
-| model | 59 |
+| model | 58 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 36 |
+| invariant reaction | 35 |
 | phase transition | 10 |
 | phase equilibrium | 66 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Co–Nb system (36)
+Table: Invariant reactions reported in the literature for the Al–Co–Nb system (35)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -41,7 +41,6 @@ Table: Invariant reactions reported in the literature for the Al–Co–Nb syste
 | 1795.15 | other: L -> C14 + CoAl |  | model | [1] He 2015 | Table 5, p. 11, row 11; `ORC-D355MPYPLM` |  |
 | 1793.15 | other: L -> C14 + CoAl |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 12; `ORC-4N6L7TSQF6` |  |
 | 1765.15 | other: L + CoAl -> Co2AlNb |  | model | [1] He 2015 | Table 5, p. 11, row 13; `ORC-QC5N3MYSPN` |  |
-| 1765.15 | peritectic: L + CoAl M Co2AlNb |  | model | [1] He 2015 | p. 11; `ORC-XAF5EYUWFX` | “The second difference is that Co2AlNb forms via the peritectic reaction L + CoAl M Co2AlNb at the maximum M4 (1492 °C), which differs from the experimental conclusion that Co2AlNb forms via the ternary peritectic reaction L + CoAl + C14 M Co2AlNb \[2\].” |
 | 1759.15 | quasi-peritectic: L + CoAl -> C14 + Co2AlNb |  | model | [1] He 2015 | Table 5, p. 11, row 14; `ORC-DY5HBWXHAW` |  |
 | 1758.15 | quasi-peritectic: L + CoAl -> C14 + Co2AlNb |  | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 5, p. 11, row 15; `ORC-WOIXJIQL7A` |  |
 | 1752.15 | quasi-peritectic: L + Nb2Al -> (Nb) + Co7Nb6(μ) |  | model | [1] He 2015 | Table 5, p. 11, row 17; `ORC-SP3IUVP6VU` |  |

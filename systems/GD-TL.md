@@ -61,27 +61,27 @@ Table: Invariant reactions reported in the literature for the Gd–Tl system (21
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1473 | liq. -> Gd5Tl3 + GdTl | L: Tl 0.4262; Gd5Tl3: Tl 0.3956; GdTl: Tl 0.488 | model | [1] Guo 2010 | Table 4, p. 5, row 14; `ORC-AQ5TPSSMWW` |  |
-| 1473 | liq. -> Gd5Tl3 + GdTl | L: Tl 0.4; Gd5Tl3: Tl 0.375; GdTl: Tl 0.5 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 15; `ORC-JGY5X3QLHW` |  |
-| 1473 | liq. -> Gd5Tl3 + GdTl | L: Tl 0.4255; Gd5Tl3: Tl 0.3956; GdTl: Tl 0.4852 | model | [1] Guo 2010 | Table 4, p. 5, row 13; `ORC-KJQAVRQW56.75addf` |  |
+| 1473 | eutectic: liq. -> Gd5Tl3 + GdTl | L: Tl 0.4262; Gd5Tl3: Tl 0.3956; GdTl: Tl 0.488 | model | [1] Guo 2010 | Table 4, p. 5, row 14; `ORC-AQ5TPSSMWW` |  |
+| 1473 | eutectic: liq. -> Gd5Tl3 + GdTl | L: Tl 0.4; Gd5Tl3: Tl 0.375; GdTl: Tl 0.5 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 15; `ORC-JGY5X3QLHW` |  |
+| 1473 | eutectic: liq. -> Gd5Tl3 + GdTl | L: Tl 0.4255; Gd5Tl3: Tl 0.3956; GdTl: Tl 0.4852 | model | [1] Guo 2010 | Table 4, p. 5, row 13; `ORC-KJQAVRQW56.75addf` |  |
 | 1328 | liq. + Gd5Tl3 -> Gd2Tl | L: Tl 0.263; Gd5Tl3: Tl 0.375; Gd2Tl: Tl 0.333333 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 9; `ORC-GDHELP7AYY` |  |
 | 1328 | liq. + Gd5Tl3 -> Gd2Tl | L: Tl 0.2665; Gd5Tl3: Tl 0.3752; Gd2Tl: Tl 0.333333 | model | [1] Guo 2010 | Table 4, p. 5, row 8; `ORC-HLYFOA7BTU` |  |
 | 1328 | liq. + Gd5Tl3 -> Gd2Tl | L: Tl 0.2666; Gd5Tl3: Tl 0.3752; Gd2Tl: Tl 0.333333 | model | [1] Guo 2010 | Table 4, p. 5, row 7; `ORC-U5XKJZO6SY.ad8c32` |  |
 | 1323 | liq. + GdTl -> Gd3Tl5 | L: Tl 0.5116; GdTl: Tl 0.5; Gd3Tl5: Tl 0.6253 | model | [1] Guo 2010 | Table 4, p. 5, row 19; `ORC-FI37L23DVR` |  |
 | 1323 | liq. + GdTl -> Gd3Tl5 | L: Tl 0.515; GdTl: Tl 0.5; Gd3Tl5: Tl 0.625 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 21; `ORC-KECISRFZ4Q` |  |
 | 1322 | liq. + GdTl -> Gd3Tl5 | L: Tl 0.5145; GdTl: Tl 0.5; Gd3Tl5: Tl 0.6265 | model | [1] Guo 2010 | Table 4, p. 5, row 20; `ORC-PRMFJDWUHO` |  |
-| 1243 | liq. -> Gd3Tl5 + GdTl3 | L: Tl 0.7069; Gd3Tl5: Tl 0.625; GdTl3: Tl 0.75 | model | [1] Guo 2010 | Table 4, p. 5, row 22; `ORC-EGRXPWKPRN.83493d` |  |
-| 1243 | liq. -> Gd3Tl5 + GdTl3 | L: Tl 0.715; Gd3Tl5: Tl 0.625; GdTl3: Tl 0.75 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 24; `ORC-KVOJJBFFSY` |  |
-| 1243 | liq. -> Gd3Tl5 + GdTl3 | L: Tl 0.7071; Gd3Tl5: Tl 0.625; GdTl3: Tl 0.75 | model | [1] Guo 2010 | Table 4, p. 5, row 23; `ORC-PSC2YE3XWV` |  |
-| 1193 | liq. -> bcc + Gd2Tl | L: Tl 0.23; bcc: Tl 0.145; Gd2Tl: Tl 0.333333 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 6; `ORC-27D6CMQSS3` |  |
-| 1193 | liq. -> bcc + Gd2Tl | L: Tl 0.2053; bcc: Tl 0.1363; Gd2Tl: Tl 0.333333 | model | [1] Guo 2010 | Table 4, p. 5, row 5; `ORC-GGXYZNKYBR` |  |
-| 1193 | liq. -> bcc + Gd2Tl | L: Tl 0.2047; bcc: Tl 0.1393; Gd2Tl: Tl 0.333333 | model | [1] Guo 2010 | Table 4, p. 5, row 4; `ORC-XNUNR57VDY.1b66e2` |  |
+| 1243 | eutectic: liq. -> Gd3Tl5 + GdTl3 | L: Tl 0.7069; Gd3Tl5: Tl 0.625; GdTl3: Tl 0.75 | model | [1] Guo 2010 | Table 4, p. 5, row 22; `ORC-EGRXPWKPRN.83493d` |  |
+| 1243 | eutectic: liq. -> Gd3Tl5 + GdTl3 | L: Tl 0.715; Gd3Tl5: Tl 0.625; GdTl3: Tl 0.75 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 24; `ORC-KVOJJBFFSY` |  |
+| 1243 | eutectic: liq. -> Gd3Tl5 + GdTl3 | L: Tl 0.7071; Gd3Tl5: Tl 0.625; GdTl3: Tl 0.75 | model | [1] Guo 2010 | Table 4, p. 5, row 23; `ORC-PSC2YE3XWV` |  |
+| 1193 | eutectic: liq. -> bcc + Gd2Tl | L: Tl 0.23; bcc: Tl 0.145; Gd2Tl: Tl 0.333333 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 6; `ORC-27D6CMQSS3` |  |
+| 1193 | eutectic: liq. -> bcc + Gd2Tl | L: Tl 0.2053; bcc: Tl 0.1363; Gd2Tl: Tl 0.333333 | model | [1] Guo 2010 | Table 4, p. 5, row 5; `ORC-GGXYZNKYBR` |  |
+| 1193 | eutectic: liq. -> bcc + Gd2Tl | L: Tl 0.2047; bcc: Tl 0.1393; Gd2Tl: Tl 0.333333 | model | [1] Guo 2010 | Table 4, p. 5, row 4; `ORC-XNUNR57VDY.1b66e2` |  |
 | 1143 | bcc -> hcp + Gd2Tl | bcc: Tl 0.13; hcp: Tl 0.0717; Gd2Tl: Tl 0.333333 | model | [1] Guo 2010 | Table 4, p. 5, row 1; `ORC-IGC4D2LORL` |  |
 | 1143 | bcc -> hcp + Gd2Tl | bcc: Tl 0.1281; hcp: Tl 0.0755; Gd2Tl: Tl 0.333333 | model | [1] Guo 2010 | Table 4, p. 5, row 2; `ORC-LTY6B5TQ2X` |  |
 | 1143 | bcc -> hcp + Gd2Tl | bcc: Tl 0.053; hcp: Tl 0.137; Gd2Tl: Tl 0.333333 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 3; `ORC-RY4MKKRYZK` |  |
-| 576 | liq. -> GdTl3 + bcc | L: Tl 0.9989; GdTl3: Tl 0.9999 | model | [1] Guo 2010 | Table 4, p. 5, row 29; `ORC-74R7YBIIMB` |  |
-| 576 | liq. -> GdTl3 + bcc | L: Tl 0.9988; GdTl3: Tl 1 | model | [1] Guo 2010 | Table 4, p. 5, row 28; `ORC-PPGPTZW7QA.2ea31f` |  |
-| 576 | liq. -> GdTl3 + bcc | L: Tl 0.999; GdTl3: Tl 1 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 30; `ORC-Q7IY7F75VA` |  |
+| 576 | eutectic: liq. -> GdTl3 + bcc | L: Tl 0.9989; GdTl3: Tl 0.9999 | model | [1] Guo 2010 | Table 4, p. 5, row 29; `ORC-74R7YBIIMB` |  |
+| 576 | eutectic: liq. -> GdTl3 + bcc | L: Tl 0.9988; GdTl3: Tl 1 | model | [1] Guo 2010 | Table 4, p. 5, row 28; `ORC-PPGPTZW7QA.2ea31f` |  |
+| 576 | eutectic: liq. -> GdTl3 + bcc | L: Tl 0.999; GdTl3: Tl 1 | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 30; `ORC-Q7IY7F75VA` |  |
 
 ## Formation enthalpies
 

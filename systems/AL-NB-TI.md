@@ -1,10 +1,10 @@
 # Al–Nb–Ti system
 
-> Al–Nb–Ti system: 291 accepted literature values (phase transition 223, phase equilibrium 40, invariant reaction 28) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Nb–Ti system: 290 accepted literature values (phase transition 222, phase equilibrium 40, invariant reaction 28) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NB-TI.html · Markdown: https://data.orchid-project.org/systems/AL-NB-TI.md
 
-291 accepted literature values from 1 paper(s) (experimental 179, model 98, unspecified 14); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+290 accepted literature values from 1 paper(s) (experimental 179, model 97, unspecified 14); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NB-TI.json) · [CSV](https://data.orchid-project.org/systems/AL-NB-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NB-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NB-TI.html) · [Markdown](https://data.orchid-project.org/systems/AL-NB-TI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 179 |
-| model | 98 |
+| model | 97 |
 | unspecified | 14 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 28 |
-| phase transition | 223 |
+| phase transition | 222 |
 | phase equilibrium | 40 |
 
 ## Invariant reactions (literature)
@@ -61,7 +61,7 @@ Table: Invariant reactions reported in the literature for the Al–Nb–Ti syste
 
 ## Other properties
 
-### Phase transition (223)
+### Phase transition (222)
 
 Table: Phase transition, Al–Nb–Ti system
 
@@ -237,7 +237,6 @@ Table: Phase transition, Al–Nb–Ti system
 | Phase transition | 1854 K | 1854 | ε+σ↔L+ε incipient melting; _alloy: Al 0.544, Nb 0.456, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 3, p. 8, row 35; `ORC-DVFW3OH4HF` |  |
 | Phase transition | 1857 K | 1857 | β+L↔L; _alloy: Nb 0.117, Ti 0.415_ | model | [1] Witusiewicz 2009 | Table 3, p. 8, row 317; `ORC-7B6RX4QGIL` |  |
 | Phase transition | 1857 K | 1857 | ε+σ↔L+ε incipient melting; _alloy: Al 0.544, Nb 0.456, Ti 0_ | experimental | [1] Witusiewicz 2009 | Table 3, p. 8, row 34; `ORC-E3QNYCFRKO` |  |
-| Phase transition | 1858 K | 1858 | L ↔ ␥ + ␧ | model | [1] Witusiewicz 2009 | p. 13; `ORC-IUC5FT72RK` | “According to the present description, this reaction occurs at 1858 K with the composition of the liquid being Ti11.6 Nb28.2 Al60.2 (see Figs. 11 and 12).” |
 | Phase transition | 1859 K | 1859 | β+L↔L; _alloy: Al 0.458, Nb 0.081, Ti 0.461_ | experimental | [1] Witusiewicz 2009 | Table 3, p. 8, row 64; `ORC-LR6NVW5GZ7` |  |
 | Phase transition | 1863 K | 1863 | γ+L↔L; _alloy: Al 0.557, Nb 0.19, Ti 0.253_ | model | [1] Witusiewicz 2009 | Table 3, p. 8, row 161; `ORC-KY4YMCEAVG` |  |
 | Phase transition | 1871 K | 1871 | γ+L↔L; _alloy: Al 0.557, Nb 0.19, Ti 0.253_ | experimental | [1] Witusiewicz 2009 | Table 3, p. 8, row 159; `ORC-BI2BMHR7EG` |  |

@@ -1,10 +1,10 @@
 # Ce–Ru system
 
-> Ce–Ru system: 120 accepted literature values (formation 111, crystal structure 5, invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Ru system: 127 accepted literature values (formation 111, crystal structure 16) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-RU.html · Markdown: https://data.orchid-project.org/systems/CE-RU.md
 
-120 accepted literature values from 1 paper(s) (experimental 2, model 89, DFT 24, unspecified 5); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+127 accepted literature values from 1 paper(s) (experimental 1, model 86, DFT 24, unspecified 16); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-RU.json) · [CSV](https://data.orchid-project.org/systems/CE-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-RU/CeRu-23Kar.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CE-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-RU.html) · [Markdown](https://data.orchid-project.org/systems/CE-RU.md)
 
@@ -12,18 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 89 |
+| experimental | 1 |
+| model | 86 |
 | DFT | 24 |
-| unspecified | 5 |
+| unspecified | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 4 |
 | formation | 111 |
-| crystal structure | 5 |
+| crystal structure | 16 |
 
 ## Calculated phase diagrams
 
@@ -58,17 +57,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CeRu-23Kar.tdb | 820.47 | FCC_A1 (x(Ru) 6.000e-5) + LIQUID (x(Ru) 0.13848) + CE3RU_D011 (x(Ru) 0.25) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CE/CE-RU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CE/CE-RU.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ce–Ru system (4)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1843 | peritectic |  | model | [1] Kardellass 2023 | p. 12; `ORC-M2CYDFX3BK.11600e` | “The solubility of Ce in solid Ru at the Liq ? hcp_A3 $ CeRu2 peritectic reaction at 1843 K is well reproduced with the three models: \* 1.83 at.% Ru for linear model and \* 3.21 at.% Ru for both exponential and combined models at 1843 K.” |
-| 1025 | peritectic |  | model | [1] Kardellass 2023 | p. 12; `ORC-SKZPRMXIT2.f1f963` | “Same remark goes for Liq ? CeRu2 $ Ce4Ru3 peritectic reaction which had calculated at (1024 K; 40.5 at.% Ru), (1024 K; 40.2 at.% Ru), and (1025 K; 40.3 at.% Ru) versus (1023 K; 41 at.% Ru) according to Ref \[37\] for the linear, exponential, and combined models, respectively.” |
-| 1024 | peritectic |  | model | [1] Kardellass 2023 | p. 12; `ORC-SKZPRMXIT2.21ffea` | “Same remark goes for Liq ? CeRu2 $ Ce4Ru3 peritectic reaction which had calculated at (1024 K; 40.5 at.% Ru), (1024 K; 40.2 at.% Ru), and (1025 K; 40.3 at.% Ru) versus (1023 K; 41 at.% Ru) according to Ref \[37\] for the linear, exponential, and combined models, respectively.” |
-| 1023 | peritectic |  | experimental | [1] Kardellass 2023; _cites Palenzona 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990031-p) | p. 12; `ORC-SKZPRMXIT2.5a01cd` | “Same remark goes for Liq ? CeRu2 $ Ce4Ru3 peritectic reaction which had calculated at (1024 K; 40.5 at.% Ru), (1024 K; 40.2 at.% Ru), and (1025 K; 40.3 at.% Ru) versus (1023 K; 41 at.% Ru) according to Ref \[37\] for the linear, exponential, and combined models, respectively.” |
 
 ## Formation enthalpies
 
@@ -152,11 +140,11 @@ Table: Formation, Ce–Ru system
 | Entropy of formation; _printed: ΔSf_ | -8.16255 J/mol-atom/K |  | Ce16Ru9; _alloy: Ru 0.36_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 33; `ORC-NIWJB4B24L.61e454` |  |
 | Entropy of formation; _printed: ΔSf_ | -9.29977 J/mol-atom/K |  | Ce16Ru9; _alloy: Ru 0.36_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 34; `ORC-WCTLSAZAIK.19bd1f` |  |
 | Entropy of formation; _printed: ΔSf_ | -19.44 J/mol-atom/K |  | Ce16Ru9; _alloy: Ru 0.36_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 36; `ORC-YBPRCYZB2H.808aa4` |  |
-| Entropy of formation; _printed: ΔSf_ | -8.81 J/mol-atom/K |  | Ce3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 4; `ORC-4MMXHXNUY5.d4ed8d` |  |
-| Entropy of formation; _printed: ΔSf_ | -6.4063 J/mol-atom/K |  | Ce3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 1; `ORC-BDVKAFBZWB.c5dada` |  |
-| Entropy of formation; _printed: ΔSf_ | -4.97241 J/mol-atom/K |  | Ce3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 3; `ORC-HHV7SUKI5U.e3e6f4` |  |
-| Entropy of formation; _printed: ΔSf_ | -16.58 J/mol-atom/K |  | Ce3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 5; `ORC-MAZQSWPJOR.f21a9e` |  |
-| Entropy of formation; _printed: ΔSf_ | -4.50766 J/mol-atom/K |  | Ce3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 2; `ORC-VJ6JMVLWWW.0c1b57` |  |
+| Entropy of formation; _printed: ΔSf_ | -8.81 J/mol-atom/K |  | Ce3Ru; _alloy: Ce 0.75, Ru 0.25_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 4; `ORC-4MMXHXNUY5.d4ed8d` |  |
+| Entropy of formation; _printed: ΔSf_ | -6.4063 J/mol-atom/K |  | Ce3Ru; _alloy: Ce 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 1; `ORC-BDVKAFBZWB.c5dada` |  |
+| Entropy of formation; _printed: ΔSf_ | -4.97241 J/mol-atom/K |  | Ce3Ru; _alloy: Ce 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 3; `ORC-HHV7SUKI5U.e3e6f4` |  |
+| Entropy of formation; _printed: ΔSf_ | -16.58 J/mol-atom/K |  | Ce3Ru; _alloy: Ce 0.75, Ru 0.25_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 5; `ORC-MAZQSWPJOR.f21a9e` |  |
+| Entropy of formation; _printed: ΔSf_ | -4.50766 J/mol-atom/K |  | Ce3Ru; _alloy: Ce 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 2; `ORC-VJ6JMVLWWW.0c1b57` |  |
 | Entropy of formation; _printed: ΔSf_ | -20.07 J/mol-atom/K |  | Ce4Ru3; _alloy: Ru 0.428571_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 46; `ORC-22LVMZZ7D6.1faeb7` |  |
 | Entropy of formation; _printed: ΔSf_ | -11.5731 J/mol-atom/K |  | Ce4Ru3; _alloy: Ru 0.428571_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 43; `ORC-AVFSVPV26U.59d640` |  |
 | Entropy of formation; _printed: ΔSf_ | -14.5869 J/mol-atom/K |  | Ce4Ru3; _alloy: Ru 0.428571_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 42; `ORC-CVSNOPMSIV.7d70a9` |  |
@@ -167,12 +155,12 @@ Table: Formation, Ce–Ru system
 | Entropy of formation; _printed: ΔSf_ | -6.41807 J/mol-atom/K |  | Ce7Ru3; _alloy: Ru 0.3_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 22; `ORC-ELZ4V7PWAT.6b7a38` |  |
 | Entropy of formation; _printed: ΔSf_ | -18.08 J/mol-atom/K |  | Ce7Ru3; _alloy: Ru 0.3_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 24; `ORC-MO254WUMM4.1595bc` |  |
 | Entropy of formation; _printed: ΔSf_ | -9.93 J/mol-atom/K |  | Ce7Ru3; _alloy: Ru 0.3_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 23; `ORC-N5RB2AHMFG.76e254` |  |
-| Entropy of formation; _printed: ΔSf_ | -0.29661 J/mol-atom/K |  | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 55; `ORC-6RD5OF4WPV.4969f9` |  |
-| Entropy of formation; _printed: ΔSf_ | -0.98435 J/mol-atom/K |  | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 54; `ORC-7MC7PKE2T6.ea8d20` |  |
-| Entropy of formation; _printed: ΔSf_ | -4.50954 J/mol-atom/K |  | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 56; `ORC-ANIKCUON47.17c974` |  |
-| Entropy of formation; _printed: ΔSf_ | -11.34 J/mol-atom/K |  | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 58; `ORC-DC7JN3FBWG.fc9a7b` |  |
-| Entropy of formation; _printed: ΔSf_ | -15 J/mol-atom/K |  | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 60; `ORC-F5YP2I6EUK.3c0aed` |  |
-| Entropy of formation; _printed: ΔSf_ | -14.8 J/mol-atom/K |  | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 59; `ORC-ZDAXKNXMPW.e0d83b` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.29661 J/mol-atom/K |  | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 55; `ORC-6RD5OF4WPV.4969f9` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.98435 J/mol-atom/K |  | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 54; `ORC-7MC7PKE2T6.ea8d20` |  |
+| Entropy of formation; _printed: ΔSf_ | -4.50954 J/mol-atom/K |  | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 56; `ORC-ANIKCUON47.17c974` |  |
+| Entropy of formation; _printed: ΔSf_ | -11.34 J/mol-atom/K |  | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 58; `ORC-DC7JN3FBWG.fc9a7b` |  |
+| Entropy of formation; _printed: ΔSf_ | -15 J/mol-atom/K |  | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 60; `ORC-F5YP2I6EUK.3c0aed` |  |
+| Entropy of formation; _printed: ΔSf_ | -14.8 J/mol-atom/K |  | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 59; `ORC-ZDAXKNXMPW.e0d83b` |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -16.7617 kJ/mol-atom |  | Ce16Ru9; _alloy: Ru 0.36_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 32; `ORC-GZEEKA2PE2.181fbc` |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -16.4405 kJ/mol-atom |  | Ce16Ru9; _alloy: Ru 0.36_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 34; `ORC-WCTLSAZAIK.0e3d43` |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -14.0506 kJ/mol-atom |  | Ce4Ru3; _alloy: Ru 0.428571_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 43; `ORC-AVFSVPV26U.93a9be` |  |
@@ -182,24 +170,24 @@ Table: Formation, Ce–Ru system
 | Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -14.737 kJ/mol-atom | 1000 | Ce16Ru9; _alloy: Ru 0.36_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 35; `ORC-D5EPHVCXGY.308c0b` |  |
 | Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -13.2695 kJ/mol-atom | 1000 | Ce16Ru9; _alloy: Ru 0.36_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 33; `ORC-NIWJB4B24L.014b18` |  |
 | Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -11.901 kJ/mol-atom | 1000 | Ce16Ru9; _alloy: Ru 0.36_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 36; `ORC-YBPRCYZB2H.092f9b` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -10.883 kJ/mol-atom | 1000 | Ce3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 4; `ORC-4MMXHXNUY5.31fd4f` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -12.9433 kJ/mol-atom | 1000 | Ce3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 1; `ORC-BDVKAFBZWB.84e427` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -12.8285 kJ/mol-atom | 1000 | Ce3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 3; `ORC-HHV7SUKI5U.556714` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -8.563 kJ/mol-atom | 1000 | Ce3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 5; `ORC-MAZQSWPJOR.fcc4d7` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -10.3284 kJ/mol-atom | 1000 | Ce3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 2; `ORC-VJ6JMVLWWW.19116c` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -10.883 kJ/mol-atom | 1000 | Ce3Ru; _alloy: Ce 0.75, Ru 0.25_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 4; `ORC-4MMXHXNUY5.31fd4f` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -12.9433 kJ/mol-atom | 1000 | Ce3Ru; _alloy: Ce 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 1; `ORC-BDVKAFBZWB.84e427` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -12.8285 kJ/mol-atom | 1000 | Ce3Ru; _alloy: Ce 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 3; `ORC-HHV7SUKI5U.556714` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -8.563 kJ/mol-atom | 1000 | Ce3Ru; _alloy: Ce 0.75, Ru 0.25_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 5; `ORC-MAZQSWPJOR.fcc4d7` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -10.3284 kJ/mol-atom | 1000 | Ce3Ru; _alloy: Ce 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 2; `ORC-VJ6JMVLWWW.19116c` |  |
 | Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -12.973 kJ/mol-atom | 1000 | Ce4Ru3; _alloy: Ru 0.428571_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 46; `ORC-22LVMZZ7D6.086c37` |  |
 | Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -17.7997 kJ/mol-atom | 1000 | Ce4Ru3; _alloy: Ru 0.428571_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 42; `ORC-CVSNOPMSIV.2847c5` |  |
 | Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -12.0604 kJ/mol-atom | 1000 | Ce7Ru3; _alloy: Ru 0.3_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 21; `ORC-3LROBZR2AI.2d75d1` |  |
 | Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -15.2241 kJ/mol-atom | 1000 | Ce7Ru3; _alloy: Ru 0.3_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 20; `ORC-6Q36JYCSJN.21f155` |  |
 | Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -14.9656 kJ/mol-atom | 1000 | Ce7Ru3; _alloy: Ru 0.3_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 22; `ORC-ELZ4V7PWAT.b6f612` |  |
 | Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -10.345 kJ/mol-atom | 1000 | Ce7Ru3; _alloy: Ru 0.3_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 24; `ORC-MO254WUMM4.043e56` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -14.3242 kJ/mol-atom | 1000 | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 55; `ORC-6RD5OF4WPV.fa11af` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -17.9224 kJ/mol-atom | 1000 | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 54; `ORC-7MC7PKE2T6.78da2f` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -18.0893 kJ/mol-atom | 1000 | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 56; `ORC-ANIKCUON47.08b04c` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -18.38 kJ/mol-atom | 1000 | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 58; `ORC-DC7JN3FBWG.6b438e` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -14.921 kJ/mol-atom | 1000 | CeRu2; _alloy: Ru 0_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 59; `ORC-ZDAXKNXMPW.d86a37` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -14.3242 kJ/mol-atom | 1000 | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 55; `ORC-6RD5OF4WPV.fa11af` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -17.9224 kJ/mol-atom | 1000 | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 54; `ORC-7MC7PKE2T6.78da2f` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -18.0893 kJ/mol-atom | 1000 | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023 | Table 3, p. 9, row 56; `ORC-ANIKCUON47.08b04c` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -18.38 kJ/mol-atom | 1000 | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 58; `ORC-DC7JN3FBWG.6b438e` |  |
+| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -14.921 kJ/mol-atom | 1000 | CeRu2; _alloy: Ce 0.333333, Ru 0.666667_ | model | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 59; `ORC-ZDAXKNXMPW.d86a37` |  |
 
-### Crystal structure (5)
+### Crystal structure (16)
 
 Table: Crystal structure, Ce–Ru system
 
@@ -209,7 +197,18 @@ Table: Crystal structure, Ce–Ru system
 | Lattice a | 7.779 Å | 298.15 | CeRu2; _alloy: Ru 0.666667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 12; `ORC-A3R64AMM2H` |  |
 | Lattice a | 7.57 Å | 298.15 | CeRu2; _alloy: Ru 0.666667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 11; `ORC-MTZJV5OAQK` |  |
 | Lattice a | 7.535 Å | 298.15 | CeRu2; _alloy: Ru 0.666667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 13; `ORC-YW4ONYRY6B` |  |
+| Lattice a | 7.242 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.c4d416` |  |
+| Lattice a | 9.802 Å | 685 (\<) | Ce7Ru3; _Ce7Ru3: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 6; `ORC-F7A5JNCWME.6fc348` |  |
+| Lattice a | 13.645 Å | 720 (\<) | Ce16Ru9; _Ce16Ru9: Ru 0.36_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 8; `ORC-TZH7ANLFQR.faa8d5` |  |
+| Lattice a | 8.4 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9; `ORC-MEQCALTNMX.c7f7ad` |  |
+| Lattice a | 7.545 Å | 1570 (\<) | CeRu2; _CeRu2: Ru 0.667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 10; `ORC-EXUYP6LQVU` |  |
+| Lattice b | 9.863 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.f38445` |  |
+| Lattice b | 13.837 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9; `ORC-MEQCALTNMX.35708e` |  |
 | Lattice c | 6.305 Å | 298.15 | Ce7Ru3; _alloy: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 7; `ORC-63CXKEIBGP.0ae48f` |  |
+| Lattice c | 6.419 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.add7a8` |  |
+| Lattice c | 6.261 Å | 685 (\<) | Ce7Ru3; _Ce7Ru3: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 6; `ORC-F7A5JNCWME.2cdf0c` |  |
+| Lattice c | 22.742 Å | 720 (\<) | Ce16Ru9; _Ce16Ru9: Ru 0.36_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 8; `ORC-TZH7ANLFQR.2cbf16` |  |
+| Lattice c | 5.985 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9; `ORC-MEQCALTNMX.6a736f` |  |
 
 ## Sources
 

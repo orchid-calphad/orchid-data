@@ -1,10 +1,10 @@
 # Ge–P system
 
-> Ge–P system: 42 accepted literature values (crystal structure 18, formation 17, heat capacity / entropy / enthalpy 5, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–P system: 41 accepted literature values (crystal structure 18, formation 17, heat capacity / entropy / enthalpy 5, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-P.html · Markdown: https://data.orchid-project.org/systems/GE-P.md
 
-42 accepted literature values from 2 paper(s) (experimental 14, model 10, DFT 17, unspecified 1); 2 calculated phase diagram(s).
+41 accepted literature values from 2 paper(s) (experimental 14, model 9, DFT 17, unspecified 1); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-P.json) · [CSV](https://data.orchid-project.org/systems/GE-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-P/GeP-21Don.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GE-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-P.html) · [Markdown](https://data.orchid-project.org/systems/GE-P.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 14 |
-| model | 10 |
+| model | 9 |
 | DFT | 17 |
 | unspecified | 1 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
+| invariant reaction | 1 |
 | formation | 17 |
 | heat capacity / entropy / enthalpy | 5 |
 | crystal structure | 18 |
@@ -59,12 +59,11 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–P system (2)
+Table: Invariant reactions reported in the literature for the Ge–P system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 998.15 | peritectic: liquid + Ge → GeP |  | experimental | [1] Dong 2021 | p. 3; `ORC-ATBQGR56KK` | “The T - x diagram includes the liquidus boundaries and two invariant reactions, i.e. (i) peritectic reaction of liquid + Ge → GeP at 725°C (liquid composition ~ 63 at.% P), and (ii) an undefined invariant reaction involving liquid, P and GeP.” |
-| 850 | eutectic: Liquid → P + GeP |  | model | [2] Chen 2022 | p. 6; `ORC-UNQVB6V6F2` | “A eutectic reaction, Liquid → P + GeP at 850 K and 94.5 at.% P, and a peritectic reaction, Liquid + Ge → GeP at 998 K, were determined.” |
 
 ## Formation enthalpies
 

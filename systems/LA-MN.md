@@ -1,10 +1,10 @@
 # La–Mn system
 
-> La–Mn system: 45 accepted literature values (invariant reaction 23, phase transition 19, phase equilibrium 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Mn system: 43 accepted literature values (invariant reaction 23, phase transition 17, phase equilibrium 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-MN.html · Markdown: https://data.orchid-project.org/systems/LA-MN.md
 
-45 accepted literature values from 2 paper(s) (experimental 34, model 6, unspecified 5); 2 calculated phase diagram(s).
+43 accepted literature values from 2 paper(s) (experimental 34, model 4, unspecified 5); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MN.json) · [CSV](https://data.orchid-project.org/systems/LA-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-MN/LaMn-12Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/LA-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MN.html) · [Markdown](https://data.orchid-project.org/systems/LA-MN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 34 |
-| model | 6 |
+| model | 4 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 23 |
-| phase transition | 19 |
+| phase transition | 17 |
 | phase equilibrium | 3 |
 
 ## Calculated phase diagrams
@@ -100,7 +100,7 @@ Table: Invariant reactions reported in the literature for the La–Mn system (23
 
 ## Other properties
 
-### Phase transition (19)
+### Phase transition (17)
 
 Table: Phase transition, La–Mn system
 
@@ -123,8 +123,6 @@ Table: Phase transition, La–Mn system
 | Phase transition | 1036.9 K | 1036.9 | Mn45La55; _alloy: La 0.55, Mn 0.45_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 8; `ORC-7GAJE7QDY6` |  |
 | Phase transition | 1037.3 K | 1037.3 | Mn60La40; _alloy: La 0.4, Mn 0.6_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 10; `ORC-XV5CLG5X55` |  |
 | Phase transition | 1037.5 K | 1037.5 | Mn66La34; _alloy: La 0.34, Mn 0.66_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 13; `ORC-FQ6VY7J457` |  |
-| Phase transition | 1438 K | 1438 | other | model | [2] Zhu 2016; _cites Kim 2012_ | p. 2; `ORC-PLLBPQ7ZPU` | “Kim and Jung \[12\] assessed the Mn-La binary system using Modified Quasichemical Model with seven parameters to describe the liquid phase and the calculated temperature of the miscibility gap is 1438 K at 0.72 at.% Mn.” |
-| Phase transition | 1438.15 K | 1438.15 | other | model | [1] Wang 2012; _cites Kim 2012_ | p. 1; `ORC-XGTJOSEF4P` | “Lately, Kim and Jung \[17\] evaluated this system by Modified Quasichemical Model with seven parameters for the liquid and the calculated consolute temperature of the miscibility gap which is 1165 °C at 0.28 at.% La.” |
 
 ### Phase equilibrium (3)
 

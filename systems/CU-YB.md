@@ -1,10 +1,10 @@
 # Cu–Yb system
 
-> Cu–Yb system: 20 accepted literature values (invariant reaction 14, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Yb system: 14 accepted literature values (invariant reaction 14) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-YB.html · Markdown: https://data.orchid-project.org/systems/CU-YB.md
 
-20 accepted literature values from 1 paper(s) (experimental 13, model 7); 1 calculated phase diagram(s).
+14 accepted literature values from 1 paper(s) (experimental 7, model 7); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-YB.json) · [CSV](https://data.orchid-project.org/systems/CU-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-YB/CuYb-07Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CU-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-YB.html) · [Markdown](https://data.orchid-project.org/systems/CU-YB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
+| experimental | 7 |
 | model | 7 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 14 |
-| phase transition | 6 |
 
 ## Calculated phase diagrams
 
@@ -76,21 +75,6 @@ Table: Invariant reactions reported in the literature for the Cu–Yb system (14
 | 901 | peritectic: L + Cu2Yb -> CuYb | L: Cu 0.4739; Cu2Yb: Cu 0.666667, Yb 0.333333; CuYb: Cu 0.5, Yb 0.5 | model | [1] Zhang 2007 | Table 4, p. 5, row 5; `ORC-LJZCT2YBWK` |  |
 | 750 | eutectic: L -> FCC(Yb) + CuYb | L: Cu 0.255; CuYb: Cu 0.5, Yb 0.5 | model | [1] Zhang 2007 | Table 4, p. 5, row 3; `ORC-XPO44EE4YF` |  |
 | 745 | eutectic: L -> FCC(Yb) + CuYb | L: Cu 0.265; CuYb: Cu 0.5, Yb 0.5 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 4; `ORC-APKRUGU4KG` |  |
-
-## Other properties
-
-### Phase transition (6)
-
-Table: Phase transition, Cu–Yb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 901.15 K | 901.15 |  | experimental | [1] Zhang 2007; _cites Palenzona 1967_ | p. 2; `ORC-3LCK27D7H4.be8d4f` | “Of the five intermediate phases reported by Iandelli et al. \[19\], only Cu9 Yb2 melts congruently at 937 ◦ C whereas Cu5 Yb, Cu7 Yb2 , Cu2 Yb and CuYb form incongruently at 879, 825, 757 and 628 ◦ C respectively \[21,22\].” |
-| Phase transition | 1030.15 K | 1030.15 |  | experimental | [1] Zhang 2007; _cites Palenzona 1967_ | p. 2; `ORC-3LCK27D7H4.779768` | “Of the five intermediate phases reported by Iandelli et al. \[19\], only Cu9 Yb2 melts congruently at 937 ◦ C whereas Cu5 Yb, Cu7 Yb2 , Cu2 Yb and CuYb form incongruently at 879, 825, 757 and 628 ◦ C respectively \[21,22\].” |
-| Phase transition | 1098.15 K | 1098.15 |  | experimental | [1] Zhang 2007; _cites Palenzona 1967_ | p. 2; `ORC-3LCK27D7H4.504ca2` | “Of the five intermediate phases reported by Iandelli et al. \[19\], only Cu9 Yb2 melts congruently at 937 ◦ C whereas Cu5 Yb, Cu7 Yb2 , Cu2 Yb and CuYb form incongruently at 879, 825, 757 and 628 ◦ C respectively \[21,22\].” |
-| Phase transition | 1152.15 K | 1152.15 |  | experimental | [1] Zhang 2007; _cites Palenzona 1967_ | p. 2; `ORC-3LCK27D7H4.566aec` | “Of the five intermediate phases reported by Iandelli et al. \[19\], only Cu9 Yb2 melts congruently at 937 ◦ C whereas Cu5 Yb, Cu7 Yb2 , Cu2 Yb and CuYb form incongruently at 879, 825, 757 and 628 ◦ C respectively \[21,22\].” |
-| Phase transition | 1210 K | 1210 |  | experimental | [1] Zhang 2007 | p. 4; `ORC-2RDURMCDXH` | “This reaction temperature, which is 1210 K, cannot be thermodynamically reproduced well despite great care taken in optimization, the phase equilibria measurements about this region need further clarification.” |
-| Phase transition | 1210.15 K | 1210.15 | congruent transformation | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | p. 2; `ORC-3LCK27D7H4.2dbf5f` | “Of the five intermediate phases reported by Iandelli et al. \[19\], only Cu9 Yb2 melts congruently at 937 ◦ C whereas Cu5 Yb, Cu7 Yb2 , Cu2 Yb and CuYb form incongruently at 879, 825, 757 and 628 ◦ C respectively \[21,22\].” |
 
 ## Sources
 

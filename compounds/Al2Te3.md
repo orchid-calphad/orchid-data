@@ -1,22 +1,25 @@
 # Al2Te3: enthalpy of formation
 
-> Enthalpy of formation of Al2Te3: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al2Te3: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al2Te3.html · Markdown: https://data.orchid-project.org/compounds/Al2Te3.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -63.6 kJ/mol-atom (n = 3); Materials Project -67.973 kJ/mol-atom (mp-aaaabrqs); OQMD -43.474 kJ/mol-atom (oqmd-648344).
+7 accepted literature formation-enthalpy value(s) (experimental 5, model 2); experimental median -63.6 kJ/mol-atom (n = 5); Materials Project -67.973 kJ/mol-atom (mp-aaaabrqs); OQMD -43.474 kJ/mol-atom (oqmd-648344).
 
 Systems: [Al–Te](https://data.orchid-project.org/systems/AL-TE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al2Te3 reported in the literature (4)
+Table: Enthalpy of formation of Al2Te3 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -63.8 kJ/mol-atom | Al2Te3 | 298.15 | experimental |  | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019; _cites Joel 1967_ | p. 9; `ORC-LSZHEMOJES.05987d` | “However, the enthalpy of formation of bAl2Te3 at 25 C obtained in this work (-85.9 kJ/mol-atoms) is less negative than experimental results (-63.8 kJ/mol-atoms\[46\] and \[47\] -52.0 kJ/mol-atoms ).” |
 | -63.8 kJ/mol-atom | βAl2Te3 | 298.15 | experimental | Direct synthesis calorimetry | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019; _cites Joel 1967_ | Table 3, p. 3, row 15; `ORC-MEQ6FUMPDL.b6f43e` |  |
 | -63.6 kJ/mol-atom | βAl2Te3 | 298.15 | experimental | Evaluation | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 17; `ORC-YSIRXMMTZQ.0aad4e` |  |
 | -52 kJ/mol-atom | βAl2Te3 | 298.15 | experimental | Torsion-effusion method for temperature | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019; _cites Balducci 1997_ | Table 3, p. 3, row 16; `ORC-CN2PYHZE3G.62d65a` |  |
+| -52 kJ/mol-atom | Al2Te3 | 298.15 | experimental |  | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019; _cites Balducci 1997_ | p. 9; `ORC-LSZHEMOJES.47b988` | “However, the enthalpy of formation of bAl2Te3 at 25 C obtained in this work (-85.9 kJ/mol-atoms) is less negative than experimental results (-63.8 kJ/mol-atoms\[46\] and \[47\] -52.0 kJ/mol-atoms ).” |
+| -85.9 kJ/mol-atom | Al2Te3 | 298.15 | model |  | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019 | p. 9; `ORC-LSZHEMOJES.54584b` | “However, the enthalpy of formation of bAl2Te3 at 25 C obtained in this work (-85.9 kJ/mol-atoms) is less negative than experimental results (-63.8 kJ/mol-atoms\[46\] and \[47\] -52.0 kJ/mol-atoms ).” |
 | -85.9 kJ/mol-atom | βAl2Te3 | 298.15 | model | CALPHAD | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 18; `ORC-OAPDX5SKYL.bedb52` |  |
 
 ### Uncertainty budget
@@ -27,9 +30,12 @@ Table: Uncertainty budget of the literature values of Al2Te3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -63.8 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -63.8 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -63.8 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -63.6 | kJ/mol-atom |  | 0.05 | 3.5 (evaluated_compilation, calibrated) |  |  |  | 3.5 |
-| -52 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -52 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -52 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -85.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -85.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies

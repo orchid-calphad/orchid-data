@@ -1,25 +1,12 @@
 # Al–In system
 
-> Al–In system: 7 accepted literature values (phase transition 4, invariant reaction 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–In system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-IN.html · Markdown: https://data.orchid-project.org/systems/AL-IN.md
 
-7 accepted literature values from 1 paper(s) (model 7); 3 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-IN.json) · [CSV](https://data.orchid-project.org/systems/AL-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-IN/AlIn-06Kim.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-IN.html) · [Markdown](https://data.orchid-project.org/systems/AL-IN.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 7 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 3 |
-| phase transition | 4 |
 
 ## Calculated phase diagrams
 
@@ -48,35 +35,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AlIn-91Cou-LB.tdb | 429.55 | FCC_A1 (x(In) 6.000e-5) + LIQUID (x(In) 0.99958) + TETRAGONAL_A6 (x(In) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-IN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-IN.json) · [CALPHAD hull AlIn-78Ans](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-IN--AlIn-78Ans.json) · [CALPHAD hull AlIn-91Cou-LB](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-IN--AlIn-91Cou-LB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–In system (3)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 912.15 | monotectic |  | model | [1] Kim 2006; _cites Murray 1983_ [doi](https://doi.org/10.1007/bf02868666) | p. 3; `ORC-BPWRBFDXBR` | “Later, Murray \[14\] adjusted the calculated miscibility gap near the critical point to give a more nearly correct exponent for the phase boundaries and tentatively placed the monotectic reaction at 4.7, 88.5 at.% In, 639 ◦ C and the critical point at 38 ± 5 at.% In, 875 ± 5 ◦ C.” |
-| 907.15 | monotectic |  | model | [1] Kim 2006; _cites Ansara 1978_ | p. 3; `ORC-IP5MECO2DI.a66377` | “Ansara et al \[12\] and Kaufman et al \[13\] obtained the critical temperatures 850 and 907 ◦ C and the monotectics at 6 at.% In, 634◦ C and at 7 at.% In, 622 ◦ C by optimizing the Gibbs energy of the liquid phase with 7 and 4 parameters, respectively.” |
-| 895.15 | monotectic |  | model | [1] Kim 2006; _cites Kaufman 1981_ | p. 3; `ORC-IP5MECO2DI.77a6b4` | “Ansara et al \[12\] and Kaufman et al \[13\] obtained the critical temperatures 850 and 907 ◦ C and the monotectics at 6 at.% In, 634◦ C and at 7 at.% In, 622 ◦ C by optimizing the Gibbs energy of the liquid phase with 7 and 4 parameters, respectively.” |
-
-## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Al–In system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1123.15 K | 1123.15 |  | model | [1] Kim 2006; _cites Ansara 1978_ | p. 3; `ORC-IP5MECO2DI.78fd59` | “Ansara et al \[12\] and Kaufman et al \[13\] obtained the critical temperatures 850 and 907 ◦ C and the monotectics at 6 at.% In, 634◦ C and at 7 at.% In, 622 ◦ C by optimizing the Gibbs energy of the liquid phase with 7 and 4 parameters, respectively.” |
-| Phase transition | 1126.15 K | 1126.15 |  | model | [1] Kim 2006; _cites Gokcen 1972_ | p. 3; `ORC-HXURBJXS5J.a0a0f2` | “Gokcen and Chang \[10\] and Peres and Campos \[11\] computed the critical temperature 853 ◦ C and 975 ◦ C, respectively, by obtaining Gibbs energies of liquid phase based on phase boundary data only.” |
-| Phase transition | 1180.15 K | 1180.15 |  | model | [1] Kim 2006; _cites Kaufman 1981_ | p. 3; `ORC-IP5MECO2DI.820698` | “Ansara et al \[12\] and Kaufman et al \[13\] obtained the critical temperatures 850 and 907 ◦ C and the monotectics at 6 at.% In, 634◦ C and at 7 at.% In, 622 ◦ C by optimizing the Gibbs energy of the liquid phase with 7 and 4 parameters, respectively.” |
-| Phase transition | 1248.15 K | 1248.15 |  | model | [1] Kim 2006; _cites Peres 1974_ | p. 3; `ORC-HXURBJXS5J.e88c96` | “Gokcen and Chang \[10\] and Peres and Campos \[11\] computed the critical temperature 853 ◦ C and 975 ◦ C, respectively, by obtaining Gibbs energies of liquid phase based on phase boundary data only.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. S S Kim, T H Sanders, Thermodynamic assessment of the metastable liquidi in the Al–In, Al–Bi and Al–Pb systems, Modelling Simul. Mater. Sci. Eng. 14, 1181-1188 (2006). [doi:10.1088/0965-0393/14/7/006](https://doi.org/10.1088/0965-0393/14/7/006)
 
 ## Please cite
 

@@ -107,12 +107,12 @@ Table: Invariant reactions reported in the literature for the Al–Pr system (28
 | 958.15 | Liq + AlPr2 -> AlPr3 | L: Pr 0.76; AlPr2: Al 0.333333, Pr 0.666667; AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 22; `ORC-FOJFHCUXDM` |  |
 | 957.15 | Liq + AlPr2 -> AlPr3 | AlPr2: Al 0.333333, Pr 0.666667; AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 21; `ORC-B26OZRIB5H` |  |
 | 957.15 | Liq + AlPr2 -> AlPr3 | L: Pr 0.7602; AlPr2: Al 0.333333, Pr 0.666667; AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 20; `ORC-QOARUCG5AS` |  |
-| 924.15 | Liq -> AlPr3 + bcc | L: Pr 0.8141; AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 23; `ORC-F5I3DK4G2M` |  |
-| 924.15 | Liq -> AlPr3 + bcc | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 24; `ORC-H4F43WDNJE` |  |
-| 923.15 | Liq -> AlPr3 + bcc | L: Pr 0.825; AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 25; `ORC-BHOFAUIX7L` |  |
-| 913.15 | Liq -> fcc + α\_Al11Pr3 | L: Pr 0.05; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 3; `ORC-ROBJPIT7VI` |  |
-| 912.15 | Liq -> fcc + α\_Al11Pr3 | L: Pr 0.02054; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 1; `ORC-QGVUENDT64` |  |
-| 912.15 | Liq -> fcc + α\_Al11Pr3 | α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 2; `ORC-XFIREO477D` |  |
+| 924.15 | eutectic: Liq -> AlPr3 + bcc | L: Pr 0.8141; AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 23; `ORC-F5I3DK4G2M` |  |
+| 924.15 | eutectic: Liq -> AlPr3 + bcc | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 24; `ORC-H4F43WDNJE` |  |
+| 923.15 | eutectic: Liq -> AlPr3 + bcc | L: Pr 0.825; AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 25; `ORC-BHOFAUIX7L` |  |
+| 913.15 | eutectic: Liq -> fcc + α\_Al11Pr3 | L: Pr 0.05; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 3; `ORC-ROBJPIT7VI` |  |
+| 912.15 | eutectic: Liq -> fcc + α\_Al11Pr3 | L: Pr 0.02054; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 1; `ORC-QGVUENDT64` |  |
+| 912.15 | eutectic: Liq -> fcc + α\_Al11Pr3 | α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 2; `ORC-XFIREO477D` |  |
 | 895.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 26; `ORC-44V7AYRAFJ` |  |
 | 893.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 28; `ORC-4SY2LAVS3G` |  |
 | 892.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 27; `ORC-Q7OOOOWFVW` |  |

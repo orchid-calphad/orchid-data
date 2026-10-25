@@ -1,10 +1,10 @@
 # Ba–Pb system
 
-> Ba–Pb system: 77 accepted literature values (invariant reaction 30, formation 27, phase transition 20) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Pb system: 74 accepted literature values (invariant reaction 30, formation 27, phase transition 17) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-PB.html · Markdown: https://data.orchid-project.org/systems/BA-PB.md
 
-77 accepted literature values from 1 paper(s) (experimental 22, model 55); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+74 accepted literature values from 1 paper(s) (experimental 19, model 55); 1 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-PB.json) · [CSV](https://data.orchid-project.org/systems/BA-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-PB/BaPb-07Idb.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BA-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-PB.html) · [Markdown](https://data.orchid-project.org/systems/BA-PB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
+| experimental | 19 |
 | model | 55 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 30 |
-| phase transition | 20 |
+| phase transition | 17 |
 | formation | 27 |
 
 ## Calculated phase diagrams
@@ -124,7 +124,7 @@ Table: Enthalpies of formation, Ba–Pb system (27)
 
 ## Other properties
 
-### Phase transition (20)
+### Phase transition (17)
 
 Table: Phase transition, Ba–Pb system
 
@@ -134,11 +134,9 @@ Table: Phase transition, Ba–Pb system
 | Phase transition | 878.75 K | 878.75 | congruent melting: Liq \<=> BaPb3; _Liq: Pb 0.75; BaPb3: Pb 0.75_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 39; `ORC-644MV33BPW` |  |
 | Phase transition | 879.75 K | 879.75 | congruent melting: Liq \<=> BaPb3; _Liq: Pb 0.75; BaPb3: Pb 0.75_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 40; `ORC-CC7SSZQW4U` |  |
 | Phase transition | 883.15 K | 883.15 | congruent melting: Liq \<=> BaPb3; _BaPb3: Pb 0.75_ | experimental | [1] Idbenali 2007; _cites Bruzzone 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990003-0) | Table 4, p. 7, row 37; `ORC-PS4KFJVRWJ` |  |
-| Phase transition | 883.15 K | 883.15 | congruent transformation | experimental | [1] Idbenali 2007 | p. 1; `ORC-MUNO6I6FIT.ea3632` | “For the Ba5 Pb3 and BaPb3 compounds, a congruent melting was determined respectively at 970 ◦ C and 610 ◦ C; for the Ba2 Pb, BaPb, and Ba3 Pb5 (α and β) compounds, a peritectic formation was reported, see Fig. 1.” |
 | Phase transition | 976.85 K | 976.85 | other: αBa3Pb5 \<=> βBa3Pb5; _αBa3Pb5: Pb 0.625; βBa3Pb5: Pb 0.625_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 32; `ORC-KWLGQJLOYH` |  |
 | Phase transition | 977.75 K | 977.75 | other: αBa3Pb5 \<=> βBa3Pb5; _αBa3Pb5: Pb 0.625; βBa3Pb5: Pb 0.625_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 34; `ORC-J7UAU4FI35` |  |
 | Phase transition | 978.15 K | 978.15 | other: αBa3Pb5 \<=> βBa3Pb5; _αBa3Pb5: Pb 0.625; βBa3Pb5: Pb 0.625_ | experimental | [1] Idbenali 2007; _cites Bruzzone 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990003-0) | Table 4, p. 7, row 31; `ORC-LF4BTOJPEI` |  |
-| Phase transition | 978.15 K | 978.15 | polymorphic | experimental | [1] Idbenali 2007; _cites Bruzzone 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990003-0) | p. 1; `ORC-KQVJO7N4S4` | “A polymorphic transition (α ⇔ β) was determined at 705 ◦ C for Ba3 Pb5 in \[4\].” |
 | Phase transition | 978.65 K | 978.65 | other: αBa3Pb5 \<=> βBa3Pb5; _αBa3Pb5: Pb 0.625; βBa3Pb5: Pb 0.625_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 33; `ORC-KOATPI5E5H` |  |
 | Phase transition | 988.45 K | 988.45 | congruent melting: βBa3Pb5 \<=> Liq; _βBa3Pb5: Pb 0.625; Liq: Pb 0.625_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 22; `ORC-NN6WTJHDAP` |  |
 | Phase transition | 1007.35 K | 1007.35 | congruent melting: βBa3Pb5 \<=> Liq; _βBa3Pb5: Pb 0.625; Liq: Pb 0.625_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 23; `ORC-UUW5IMKETJ` |  |
@@ -147,7 +145,6 @@ Table: Phase transition, Ba–Pb system
 | Phase transition | 1171.15 K | 1171.15 | congruent melting: BaPb \<=> Liq; _BaPb: Pb 0.5; Liq: Pb 0.5_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 13; `ORC-JG5VOUP4JO` |  |
 | Phase transition | 1240.15 K | 1240.15 | congruent melting: Liq \<=> Ba5Pb3; _Liq: Pb 0.375; Ba5Pb3: Pb 0.375_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 10; `ORC-EPQO6CJCFW` |  |
 | Phase transition | 1243.15 K | 1243.15 | congruent melting: Liq \<=> Ba5Pb3; _Ba5Pb3: Pb 0.375_ | experimental | [1] Idbenali 2007; _cites Bruzzone 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990003-0) | Table 4, p. 7, row 9; `ORC-4ECUTRON46` |  |
-| Phase transition | 1243.15 K | 1243.15 | congruent transformation | experimental | [1] Idbenali 2007 | p. 1; `ORC-MUNO6I6FIT.c52dfd` | “For the Ba5 Pb3 and BaPb3 compounds, a congruent melting was determined respectively at 970 ◦ C and 610 ◦ C; for the Ba2 Pb, BaPb, and Ba3 Pb5 (α and β) compounds, a peritectic formation was reported, see Fig. 1.” |
 | Phase transition | 1244.15 K | 1244.15 | congruent melting: Liq \<=> Ba5Pb3; _Liq: Pb 0.375; Ba5Pb3: Pb 0.375_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 12; `ORC-SVIFGCGLX5` |  |
 | Phase transition | 1245.15 K | 1245.15 | congruent melting: Liq \<=> Ba5Pb3; _Liq: Pb 0.375; Ba5Pb3: Pb 0.375_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 11; `ORC-62OGXCMG6E` |  |
 

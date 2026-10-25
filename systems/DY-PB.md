@@ -1,25 +1,12 @@
 # Dy–Pb system
 
-> Dy–Pb system: 5 accepted literature values (invariant reaction 4, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Pb system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-PB.html · Markdown: https://data.orchid-project.org/systems/DY-PB.md
 
-5 accepted literature values from 1 paper(s) (experimental 5); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-PB.json) · [CSV](https://data.orchid-project.org/systems/DY-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-PB/DyPb-14Idd.json) · [phases (9)](https://data.orchid-project.org/phases/pages/DY-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-PB.html) · [Markdown](https://data.orchid-project.org/systems/DY-PB.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 5 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 4 |
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -57,33 +44,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | DyPb-14Idd.tdb | 598.7 | DYPB3_L12 (x(Pb) 0.75) + LIQUID (x(Pb) 0.99715) + FCC_A1 (x(Pb) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/DY/DY-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/DY/DY-PB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Dy–Pb system (4)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1828.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-IDLCMORBG4.65e11e` | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
-| 1713.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-IDLCMORBG4.83cd1a` | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
-| 1228.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-IDLCMORBG4.d2a334` | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
-| 1153.15 | peritectic |  | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-IDLCMORBG4.10ee26` | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Dy–Pb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1970.15 K | 1970.15 | congruent transformation | experimental | [1] Iddaoudi 2014 | p. 2; `ORC-IDLCMORBG4.16c25e` | “For the Dy5Pb3 compound a congruent melting was determined at 1697 °C, while for the Dy5Pb4, DyPb, DyPb2 and DyPb3 compounds, a peritectic formation was reported, respectively, at 1555 °C, 1440 °C, 955 °C and 880 °C.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. A. Iddaoudi, C. Servant, N. Selhaoui, S. Kardellass, K. Mahdouk, L. Bouirden, Thermodynamic modeling of the RE–Pb (RE=Sc, Dy, Gd) systems, Journal of Alloys and Compounds 589, 192-199 (2014). [doi:10.1016/j.jallcom.2013.11.131](https://doi.org/10.1016/j.jallcom.2013.11.131)
 
 ## Please cite
 

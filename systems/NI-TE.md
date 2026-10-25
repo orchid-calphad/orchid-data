@@ -1,10 +1,10 @@
 # Ni–Te system
 
-> Ni–Te system: 47 accepted literature values (crystal structure 24, invariant reaction 16, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Te system: 46 accepted literature values (crystal structure 24, invariant reaction 16, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-TE.html · Markdown: https://data.orchid-project.org/systems/NI-TE.md
 
-47 accepted literature values from 1 paper(s) (experimental 19, model 22, DFT 4, unspecified 2); 1 calculated phase diagram(s).
+46 accepted literature values from 1 paper(s) (experimental 18, model 22, DFT 4, unspecified 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TE.json) · [CSV](https://data.orchid-project.org/systems/NI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TE/NiTe-19Arv.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TE.html) · [Markdown](https://data.orchid-project.org/systems/NI-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
+| experimental | 18 |
 | model | 22 |
 | DFT | 4 |
 | unspecified | 2 |
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
-| phase transition | 7 |
+| phase transition | 6 |
 | crystal structure | 24 |
 
 ## Calculated phase diagrams
@@ -75,13 +75,12 @@ Table: Invariant reactions reported in the literature for the Ni–Te system (16
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (6)
 
 Table: Phase transition, Ni–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 350 K | 350 | other | experimental | [1] Arvhult 2019 | p. 8; `ORC-FLCQIDA3M5` | “Figure 6 shows for 57.1 at.% Te a bump in CP at around 350 K; this was not modeled but the general slope of the data is satisfactory.” |
 | Phase transition | 1057.8 K | 1057.8 | congruent transformation: β1 -> β2; _β1: Te 0.4077; β2: Te 0.4077_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 5; `ORC-3KJNTOTTI6` |  |
 | Phase transition | 1063.2 K | 1063.2 | congruent transformation: β1 -> β2; _β1: Te 0.5; β2: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 6; `ORC-A5FZNHYXWW` |  |
 | Phase transition | 1172.8 K | 1172.8 | congruent melting: Liq -> δ; _L: Te 0.5687; δ: Te 0.5687_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 19; `ORC-5UJDP64EOJ` |  |

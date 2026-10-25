@@ -1,10 +1,10 @@
 # Co–O system
 
-> Co–O system: 126 accepted literature values (model expression 73, invariant reaction 21, phase transition 14, formation 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–O system: 120 accepted literature values (model expression 73, invariant reaction 19, formation 10, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-O.html · Markdown: https://data.orchid-project.org/systems/CO-O.md
 
-126 accepted literature values from 1 paper(s) (experimental 93, model 33); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+120 accepted literature values from 1 paper(s) (experimental 91, model 29); 1 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-O.json) · [CSV](https://data.orchid-project.org/systems/CO-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-O/CoO-03Che-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CO-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-O.html) · [Markdown](https://data.orchid-project.org/systems/CO-O.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 93 |
-| model | 33 |
+| experimental | 91 |
+| model | 29 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 21 |
-| phase transition | 14 |
+| invariant reaction | 19 |
+| phase transition | 10 |
 | formation | 10 |
 | heat capacity / entropy / enthalpy | 8 |
 | model expression | 73 |
@@ -39,7 +39,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–O system (21)
+Table: Invariant reactions reported in the literature for the Co–O system (19)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -47,7 +47,6 @@ Table: Invariant reactions reported in the literature for the Co–O system (21)
 | 2103 | congruent melting: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | experimental | [1] Chen 2003; _cites Chase 1985_ | Table 8, p. 12, row 9; `ORC-LWIJFXLMZH` |  |
 | 2097 | congruent melting: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | model | [1] Chen 2003 | Table 8, p. 12, row 10; `ORC-I3NQBQVBOB` |  |
 | 2083 | congruent melting: L2 -> CoO | L2: Co 0.5, O 0.5; CoO: Co 0.5, O 0.5 | experimental | [1] Chen 2003; _cites H 1932_ | Table 8, p. 12, row 8; `ORC-5SNADZPQIZ` |  |
-| 1766 | eutectic |  | model | [1] Chen 2003 | p. 12; `ORC-W7VFY2RBBB` | “The calculated eutectic point of Co-CoO is at T ⳱ 1766 K and xO ⳱ 0.0044, very close to the data from Jacob and Hajra \[1985Jac\].” |
 | 1766 | eutectic: L1 -> Co(fcc) + CoO | L1: O 0.0044 | model | [1] Chen 2003 | Table 8, p. 12, row 6; `ORC-ZATOZR3UID` |  |
 | 1763 | eutectic |  | experimental | [1] Chen 2003; _cites Jacob 1985_ | p. 1; `ORC-II3DA2EKJ2` | “The most recently determined Co-CoO eutectic point, by Jacob and Hajra \[1985Jac\], is at T ⳱ 1763 K and xO ⳱ 0.0048.” |
 | 1763 | eutectic: L1 -> Co(fcc) + CoO | L1: O 0.0048 | experimental | [1] Chen 2003; _cites Jacob 1985_ | Table 8, p. 12, row 5; `ORC-VM7FIXNCRM` |  |
@@ -55,7 +54,6 @@ Table: Invariant reactions reported in the literature for the Co–O system (21)
 | 1730 | eutectic |  | experimental | [1] Chen 2003; _cites Taskinen 1983_ | p. 1; `ORC-WTOLAVF5HS.bcbe4c` | “Based on electromotive force (EMF) measurements of the equilibria of Co(s)CoO(s) and Co(l)-CoO(s), Kemori et al. \[1977Kem\] determined the eutectic temperature of Co-CoO as 1727 K while Taskinen \[1983Tas\] gave a value of 1730 K.” |
 | 1727 | eutectic |  | experimental | [1] Chen 2003; _cites Kemori 1977_ [doi](https://doi.org/10.2320/jinstmet1952.41.8_803) | p. 1; `ORC-WTOLAVF5HS.fcf9cf` | “Based on electromotive force (EMF) measurements of the equilibria of Co(s)CoO(s) and Co(l)-CoO(s), Kemori et al. \[1977Kem\] determined the eutectic temperature of Co-CoO as 1727 K while Taskinen \[1983Tas\] gave a value of 1730 K.” |
 | 1727 | eutectic: L1 -> Co(fcc) + CoO |  | experimental | [1] Chen 2003; _cites Kemori 1977_ [doi](https://doi.org/10.2320/jinstmet1952.41.8_803) | Table 8, p. 12, row 3; `ORC-ZWMISWXGSO` |  |
-| 1724 | eutectic |  | model | [1] Chen 2003; _cites Hansen 1958_ | p. 1; `ORC-G7MYGS4UVZ` | “Hansen and Anderko \[1958Han\] replotted the phase diagram and located the eutectic point at about T ⳱ 1724 K and xO ⳱ 0.0084.” |
 | 1724 | eutectic: L1 -> Co(fcc) + CoO | L1: O 0.0084 | experimental | [1] Chen 2003; _cites Hansen 1958_ | Table 8, p. 12, row 2; `ORC-XSFWUHFAVU` |  |
 | 1719 | eutectic: L1 -> Co(fcc) + CoO | L1: O 0.0095 | experimental | [1] Chen 2003; _cites ref. 1951Aa_ | Table 8, p. 12, row 1; `ORC-SZQJGVT2AV` |  |
 | 1719 | eutectic |  | experimental | [1] Chen 2003; _cites Asanti 1951_ [doi](https://doi.org/10.1002/zaac.19512650110) | p. 1; `ORC-VNKYXJVDQL` | “Asanti and Kohlmeyer \[1951Asa\] measured the eutectic of Co-CoO and determined the eutectic point to be at approximately T ⳱ 1719 K and xO ⳱ 0.0095.” |
@@ -86,7 +84,7 @@ Table: Enthalpies of formation, Co–O system (10)
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (10)
 
 Table: Phase transition, Co–O system
 
@@ -96,11 +94,7 @@ Table: Phase transition, Co–O system
 | Phase transition | 40 K | 40 | magnetic | experimental | [1] Chen 2003; _cites Roth 1964_ [doi](https://doi.org/10.1016/0022-3697%2864%2990156-8) | p. 3; `ORC-A7HOYYBVUI.f71333` | “Co3O4 has been found to undergo a transition from paramagnetic state to antiferromagnetic state at 40 K \[1964Rot\] or 33 K \[1984Chi\].” |
 | Phase transition | 290 K | 290 | magnetic | experimental | [1] Chen 2003; _cites Jauch 2003_ | p. 3; `ORC-B7YDG7X47M` | “At low temperature, CoO is an antiferromagnetic compound with a Néel temperature of TN ≈ 290 K \[2001Jau\].” |
 | Phase transition | 695 K | 695 | hcp + fcc | model | [1] Chen 2003; _cites Nishizawa 1983_ [doi](https://doi.org/10.1007/bf02868089) | p. 6; `ORC-6JHGTULJHG` | “In the recent review papers on the thermodynamic properties of cobalt metal \[1983Nis, 1987Gui, 1990Mas\], the stable temperature range for the hcp phase is below 695 K; the range for the fcc phase is from 695 K up to its melting point.” |
-| Phase transition | 1120 K | 1120 | other | experimental | [1] Chen 2003; _cites Kale 1988_ [doi](https://doi.org/10.2320/matertrans1960.29.125) | p. 3; `ORC-RUGFBX6Q32` | “Furthermore, EMF measurements on the oxygen potential of the CoO-Co3O4 equilibrium made by O'Neill \[1985ONe\] and Kale et al. \[1988Kal\] also indicated that a second (or higher) order transition in Co3O4 may happen at about 1120 K.” |
-| Phase transition | 1123 K | 1123 | other | experimental | [1] Chen 2003; _cites Seybolt 1935_ | p. 1; `ORC-GDYMEIWSMN` | “They concluded that another transformation of cobalt might happen in the cobalt-oxygen system at about 1123 K.” |
-| Phase transition | 1170 K | 1170 | other | model | [1] Chen 2003 | p. 12; `ORC-K4D3ALQBGU.a13100` | “For Co3O4, the calculated decomposition temperature is 1170 K in air and 1224 K in 1 bar oxygen, also agreeing well with the experimental data.” |
 | Phase transition | 1170 K | 1170 | other | experimental | [1] Chen 2003 | p. 1; `ORC-OOXYZTUJI5` | “Co3O4 decomposes at about 1170 K (in air), and CoO is stable up to its melting point, given as 2083 K \[1932War\] and 2103 K \[1985Cha\].” |
-| Phase transition | 1224 K | 1224 | other | model | [1] Chen 2003 | p. 12; `ORC-K4D3ALQBGU.6d91dd` | “For Co3O4, the calculated decomposition temperature is 1170 K in air and 1224 K in 1 bar oxygen, also agreeing well with the experimental data.” |
 | Phase transition | 1768 K | 1768 | α-Co + liquid | experimental | [1] Chen 2003 | p. 1; `ORC-6S4BZ4MCFW` | “The melting point of ␣-Co is 1768 K.” |
 | Phase transition | 2083 K | 2083 | congruent melting | experimental | [1] Chen 2003; _cites H 1932_ | p. 1; `ORC-FWUEKXB4UK.d43092` | “The earliest measurement on the congruent melting point of CoO was done by Wartenberg and Gurr \[1931War\], giving a value of 2208 K, but it was soon corrected to 2083 K \[1932War\].” |
 | Phase transition | 2097 K | 2097 | congruent transformation | model | [1] Chen 2003 | p. 12; `ORC-VQAZRGX4XH` | “The calculated congruent melting point of CoO is 2097 K, in reasonable agreement with the JANAF tables \[1985Cha\].” |

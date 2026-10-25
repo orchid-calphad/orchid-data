@@ -1,10 +1,10 @@
 # Rh–Ru system
 
-> Rh–Ru system: 11 accepted literature values (mixing / partial 10, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Rh–Ru system: 10 accepted literature values (mixing / partial 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RH-RU.html · Markdown: https://data.orchid-project.org/systems/RH-RU.md
 
-11 accepted literature values from 1 paper(s) (model 1, DFT 10); 1 calculated phase diagram(s).
+10 accepted literature values from 1 paper(s) (DFT 10); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RH-RU.json) · [CSV](https://data.orchid-project.org/systems/RH-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RH-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RH-RU/RhRu-16Gos.json) · [phases (4)](https://data.orchid-project.org/phases/pages/RH-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RH-RU.html) · [Markdown](https://data.orchid-project.org/systems/RH-RU.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
 | DFT | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | mixing / partial | 10 |
 
 ## Calculated phase diagrams
@@ -39,14 +37,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | RhRu-16Gos.tdb | 2359.87 | LIQUID (x(Ru) 0.37848) + FCC_A1 (x(Ru) 0.40085) + HCP_A3 (x(Ru) 0.48194) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/RH/RH-RU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/RH/RH-RU.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Rh–Ru system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 2360 | peritectic |  | model | [1] Gossé 2016 | p. 6; `ORC-2DE3THW7NO` | “The invariant compositions are respectively: 40.1 at.% Ru, 48.2 at.% Ru, 37.8 at.% Ru at the peritectic reaction calculated at 2360 K (Fig. 7).” |
 
 ## Other properties
 

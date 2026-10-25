@@ -1,10 +1,10 @@
 # Mo–Pd system
 
-> Mo–Pd system: 49 accepted literature values (activity / EMF / Gibbs energy 33, invariant reaction 9, phase transition 4, phase equilibrium 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Pd system: 47 accepted literature values (activity / EMF / Gibbs energy 33, invariant reaction 9, phase equilibrium 3, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-PD.html · Markdown: https://data.orchid-project.org/systems/MO-PD.md
 
-49 accepted literature values from 1 paper(s) (experimental 34, model 15); 1 calculated phase diagram(s).
+47 accepted literature values from 1 paper(s) (experimental 32, model 15); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-PD.json) · [CSV](https://data.orchid-project.org/systems/MO-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-PD/MoPd-00Gho.json) · [phases (4)](https://data.orchid-project.org/phases/pages/MO-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-PD.html) · [Markdown](https://data.orchid-project.org/systems/MO-PD.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 34 |
+| experimental | 32 |
 | model | 15 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 9 |
-| phase transition | 4 |
+| phase transition | 2 |
 | phase equilibrium | 3 |
 | activity / EMF / Gibbs energy | 33 |
 
@@ -53,8 +53,8 @@ Table: Invariant reactions reported in the literature for the Mo–Pd system (9)
 | 2018 | L + (Mo) -> ε | L: Pd 0.53; ε: Pd 0.52 | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 2, p. 6, row 2; `ORC-JKI762QB5U` |  |
 | 2013 | L + (Mo) -> ε | L: Pd 0.5748; (Mo): Pd 0.07; ε: Pd 0.5186 | experimental | [1] Ghosh 2000; _cites Haworth 1958_ | Table 2, p. 6, row 1; `ORC-DFZMBAXEL5` |  |
 | 2002 | L + (Mo) -> ε | L: Pd 0.5058; (Mo): Pd 0.0482; ε: Pd 0.5011 | model | [1] Ghosh 2000 | Table 2, p. 6, row 3; `ORC-2OAWK2SOSC` |  |
-| 1984 | L -> ε + (Pd) | L: Pd 0.5482; ε: Pd 0.5383; (Pd): Pd 0.5594 | model | [1] Ghosh 2000 | Table 2, p. 6, row 5; `ORC-P2QRLRS2YX` |  |
-| 1973 | L -> ε + (Pd) | L: Pd 0.54; ε: Pd 0.52; (Pd): Pd 0.57 | experimental | [1] Ghosh 2000; _cites Anderson 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990009-8) | Table 2, p. 6, row 4; `ORC-6OZVB3XFHD` |  |
+| 1984 | eutectic: L -> ε + (Pd) | L: Pd 0.5482; ε: Pd 0.5383; (Pd): Pd 0.5594 | model | [1] Ghosh 2000 | Table 2, p. 6, row 5; `ORC-P2QRLRS2YX` |  |
+| 1973 | eutectic: L -> ε + (Pd) | L: Pd 0.54; ε: Pd 0.52; (Pd): Pd 0.57 | experimental | [1] Ghosh 2000; _cites Anderson 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990009-8) | Table 2, p. 6, row 4; `ORC-6OZVB3XFHD` |  |
 | 1698 | ε -> (Mo) + (Pd) | ε: Pd 0.55; (Mo): Pd 0.02; (Pd): Pd 0.58 | experimental | [1] Ghosh 2000; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 2, p. 6, row 6; `ORC-MWEL72HK75` |  |
 | 1654 | ε -> (Mo) + (Pd) | ε: Pd 0.5274; (Mo): Pd 0.0404; (Pd): Pd 0.583 | model | [1] Ghosh 2000 | Table 2, p. 6, row 9; `ORC-ZO7DVU4PC2` |  |
 | 1653 | ε -> (Mo) + (Pd) | ε: Pd 0.524; (Mo): Pd 0.025; (Pd): Pd 0.6 | experimental | [1] Ghosh 2000; _cites Anderson 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990009-8) | Table 2, p. 6, row 7; `ORC-KEWMU54TQE` |  |
@@ -62,14 +62,12 @@ Table: Invariant reactions reported in the literature for the Mo–Pd system (9)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (2)
 
 Table: Phase transition, Mo–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1273 K | 1273 | other | experimental | [1] Ghosh 2000; _cites Maldonado 1964_ | p. 4; `ORC-U6HAYOT3G3` | “In the lower temperature region, Maldonado and Schubert\[30\] reported that the disordered fcc phase undergoes an order-disorder transformation at around 1273 K to form MoPd2 phase.” |
-| Phase transition | 1743 K | 1743 | other: ε ↔ (Mo) + (Pd) | experimental | [1] Ghosh 2000 | p. 2; `ORC-EFGTS3VHB4` | “They proposed that the ε phase forms by the peritectic reaction L + (Mo) ↔ ε at 1988 K and decomposes into (Mo) and (Pd) at 1743 K.” |
 | Phase transition | 2032 K | 2032 | L -> (Pd); _L: Pd 0.6353; (Pd): Pd 0.6353_ | model | [1] Ghosh 2000 | Table 2, p. 6, row 11; `ORC-JADJJS23SF` |  |
 | Phase transition | 2033 K | 2033 | L -> (Pd); _L: Pd 0.61; (Pd): Pd 0.61_ | experimental | [1] Ghosh 2000; _cites Anderson 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990009-8) | Table 2, p. 6, row 10; `ORC-NY6QJQMKU2` |  |
 

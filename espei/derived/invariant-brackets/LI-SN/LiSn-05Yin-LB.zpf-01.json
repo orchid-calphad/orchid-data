@@ -268,7 +268,7 @@
     "x0": 0.43,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Li7Sn3 + LiSn",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -287,7 +287,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> LiSn",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

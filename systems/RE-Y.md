@@ -1,10 +1,10 @@
 # Re–Y system
 
-> Re–Y system: 6 accepted literature values (crystal structure 4, invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Re–Y system: 4 accepted literature values (crystal structure 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RE-Y.html · Markdown: https://data.orchid-project.org/systems/RE-Y.md
 
-6 accepted literature values from 1 paper(s) (experimental 4, DFT 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+4 accepted literature values from 1 paper(s) (experimental 2, DFT 2); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RE-Y.json) · [CSV](https://data.orchid-project.org/systems/RE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-Y/ReY-10Zac.json) · [phases (5)](https://data.orchid-project.org/phases/pages/RE-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RE-Y.html) · [Markdown](https://data.orchid-project.org/systems/RE-Y.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 2 |
 | DFT | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
 | crystal structure | 4 |
 
 ## Calculated phase diagrams
@@ -44,15 +43,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | ReY-10Zac.tdb | 1721.23 | RE2Y_C14 (x(Y) 0.33333) + LIQUID (x(Y) 0.96696) + HCP_A3 (x(Y) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/RE/RE-Y.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/RE/RE-Y.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Re–Y system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1723 | eutectic |  | experimental | [1] Zacherl 2010 | p. 1; `ORC-7KDEBQ5MYR` | “A eutectic at 1723 K with a composition xY 1⁄4 95 at. % was also reported.” |
-| 1723 | eutectic |  | experimental | [1] Zacherl 2010 | p. 5; `ORC-OVETE7FJJF` | “The experimental eutectic at a liquid composition of 94.97 at. % Y and 1723 K is well reproduced by the model parameters.” |
 
 ## Other properties
 

@@ -32,9 +32,9 @@ Table: Uncertainty budget of the literature values of RuZr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
-| -68.65 | kJ/mol (basis unstated) | 2.5 | 0.005 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
-| -55.8 | kJ/mol (basis unstated) | 2.3 | 0.05 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 6.4 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.4 |
+| -68.65 | kJ/mol (basis unstated) | 2.5 | 0.005 | 6.4 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.4 |
+| -55.8 | kJ/mol (basis unstated) | 2.3 | 0.05 | 6.4 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.4 |
 | -88 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 | -88 | kJ/mol (basis unstated) |  | 0.5 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 | -61 | kJ/mol (basis unstated) |  | 0.5 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |

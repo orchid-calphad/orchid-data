@@ -1,10 +1,10 @@
 # Al–Ni–Pr system
 
-> Al–Ni–Pr system: 69 accepted literature values (invariant reaction 37, formation 29, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ni–Pr system: 66 accepted literature values (invariant reaction 37, formation 29) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NI-PR.html · Markdown: https://data.orchid-project.org/systems/AL-NI-PR.md
 
-69 accepted literature values from 1 paper(s) (experimental 1, model 56, DFT 12); 0 calculated phase diagram(s).
+66 accepted literature values from 1 paper(s) (experimental 1, model 53, DFT 12); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI-PR.json) · [CSV](https://data.orchid-project.org/systems/AL-NI-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI-PR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NI-PR.html) · [Markdown](https://data.orchid-project.org/systems/AL-NI-PR.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 56 |
+| model | 53 |
 | DFT | 12 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 37 |
-| phase transition | 3 |
 | formation | 29 |
 
 ## Invariant reactions (literature)
@@ -105,18 +104,6 @@ Table: Enthalpies of formation, Al–Ni–Pr system (29)
 | Ni₂Al₇Pr |  | -40.91 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 2; `ORC-UULYRIUEJS.02f3de` |  |
 | Ni₈AlPr₃ |  | -38.59 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 20; `ORC-ZN2SD64CUS.21f1de` |  |
 | Ni₈AlPr₃ |  | -37.18 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 18; `ORC-GW4TTRFD5N.dcfdf8` |  |
-
-## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Al–Ni–Pr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1238.15 K | 1238.15 | polymorphic | model | [1] Liao 2019 | p. 7; `ORC-IWNSZJAHA4` | “For the Al11Pr3 phase, the allotropic transformation was included, and the transformation temperature between the α-Al11Pr3 and β-Al11Pr3 phases is 965 °C, which is the same as that in the literature \[19\].” |
-| Phase transition | 1348.15 K | 1348.15 | β-Al11Pr3 + Al2Pr -> Al3Pr | model | [1] Liao 2019 | p. 7; `ORC-OV76BX4NT5.53c9cb` | “The temperatures of the related invariant reactions, Liq+Al2Pr→β-Al11Pr3 and β-Al11Pr3+Al2Pr→Al3Pr were 1246 °C and 1075 °C, respectively, which is consistent with the experimental data.” |
-| Phase transition | 1519.15 K | 1519.15 | Liq + Al2Pr -> β-Al11Pr3 | model | [1] Liao 2019 | p. 7; `ORC-OV76BX4NT5.883e47` | “The temperatures of the related invariant reactions, Liq+Al2Pr→β-Al11Pr3 and β-Al11Pr3+Al2Pr→Al3Pr were 1246 °C and 1075 °C, respectively, which is consistent with the experimental data.” |
 
 ## Sources
 

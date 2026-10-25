@@ -1,10 +1,10 @@
 # Al–Ru system
 
-> Al–Ru system: 19 accepted literature values (formation 15, invariant reaction 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ru system: 15 accepted literature values (formation 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-RU.html · Markdown: https://data.orchid-project.org/systems/AL-RU.md
 
-19 accepted literature values from 1 paper(s) (experimental 5, model 11, DFT 3); 3 calculated phase diagram(s).
+15 accepted literature values from 1 paper(s) (experimental 1, model 11, DFT 3); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-RU.json) · [CSV](https://data.orchid-project.org/systems/AL-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-RU/AlRu-03Pri.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AL-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-RU.html) · [Markdown](https://data.orchid-project.org/systems/AL-RU.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 1 |
 | model | 11 |
 | DFT | 3 |
 
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 4 |
 | formation | 15 |
 
 ## Calculated phase diagrams
@@ -81,17 +80,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AlRu-96Che-LB.tdb | 929.77 | FCC_A1 (x(Ru) 0) + LIQUID (x(Ru) 0.00477) + AL6RU_D2H (x(Ru) 0.14286) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-RU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-RU.json) · [CALPHAD hull AlRu-96Che-LB](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-RU--AlRu-96Che-LB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–Ru system (4)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1873 | peritectic |  | experimental | [1] Prins 2003 | p. 2; `ORC-3CEIWGJCV4.d08f0d` | “Reactions were observed at 1573 and 1873 K and these were assigned to eutectic and peritectic reactions respectively.” |
-| 1676 | peritectic |  | experimental | [1] Prins 2003 | p. 2; `ORC-RHO7EH3GOP.d32222` | “It was also reported that both RuAls and Ru&lrs melt by peritectic reaction at 996 K and 1676 K respectively, and not congruently as suggested by Obrowski \[19600br\].” |
-| 1573 | eutectic |  | experimental | [1] Prins 2003 | p. 2; `ORC-3CEIWGJCV4.d24bd0` | “Reactions were observed at 1573 and 1873 K and these were assigned to eutectic and peritectic reactions respectively.” |
-| 996 | peritectic |  | experimental | [1] Prins 2003 | p. 2; `ORC-RHO7EH3GOP.6c60c8` | “It was also reported that both RuAls and Ru&lrs melt by peritectic reaction at 996 K and 1676 K respectively, and not congruently as suggested by Obrowski \[19600br\].” |
 
 ## Formation enthalpies
 

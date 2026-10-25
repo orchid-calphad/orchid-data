@@ -33,8 +33,8 @@ Table: Uncertainty budget of the literature values of Al3Ti
 | -36.905 | kJ/mol-atom |  | 5.000e-7 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -24.4297 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -14.0035 | kJ/mol-atom |  | 5.000e-7 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -38.895 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -24.4297 | kJ/mol-atom |  | 5.000e-9 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -38.895 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -24.4297 | kJ/mol-atom |  | 5.000e-9 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

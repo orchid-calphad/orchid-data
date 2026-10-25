@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al11Cr2.html · Markdown: https:
 
 4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -15.061 kJ/mol-atom (n = 2); OQMD 10.793 kJ/mol-atom (oqmd-1477065).
 
-Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) · [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)
+Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)
 
 ## Literature values
 
@@ -16,7 +16,7 @@ Table: Enthalpy of formation of Al11Cr2 reported in the literature (4)
 |---:|---|---:|---|---|---|---|---|---|
 | -15.062 kJ/mol-atom | Al11Cr2 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 2; `ORC-ZBKFVMQUIR.2ebec0` |  |
 | -15.06 kJ/mol-atom | Al11Cr2 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 3; `ORC-RL4XI5ZJPE.0dfd61` |  |
-| -15.322 kJ/mol-atom | Al11Cr2 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 2; `ORC-SNXMEQBNRR.2f1eaf` |  |
+| -15.322 kJ/mol-atom | Al11Cr2 | 1 | model |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986 | Table 4, p. 8, row 2; `ORC-SNXMEQBNRR.2f1eaf` |  |
 | -15.32 kJ/mol-atom | Al11Cr2 |  | model |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986 | Table 1, p. 4, row 4; `ORC-PTCEOWMDSK.a5ef8d` |  |
 
 ### Uncertainty budget

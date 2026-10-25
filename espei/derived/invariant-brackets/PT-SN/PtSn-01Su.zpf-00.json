@@ -461,7 +461,7 @@
     "x0": 0.196,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq.->Pt (f.c.c.)+Pt3Sn",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -480,7 +480,7 @@
     "x0": 0.196,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq.->Pt (f.c.c.)+Pt3Sn",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -499,7 +499,7 @@
     "x0": 0.394,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq.->Pt3Sn+PtSn",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -518,7 +518,7 @@
     "x0": 0.394,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq.->Pt3Sn+PtSn",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -651,7 +651,7 @@
     "x0": 0.994,
     "hyperplane_delta": 0.0030000000000000027,
     "reaction_printed": "Liq.->PtSn4+βSn (bct)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -670,7 +670,7 @@
     "x0": 0.994,
     "hyperplane_delta": 0.0030000000000000027,
     "reaction_printed": "Liq.->PtSn4+βSn (bct)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

@@ -1,10 +1,10 @@
 # Au–Bi system
 
-> Au–Bi system: 46 accepted literature values (invariant reaction 42, phase transition 3, formation 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Bi system: 42 accepted literature values (invariant reaction 41, phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-BI.html · Markdown: https://data.orchid-project.org/systems/AU-BI.md
 
-46 accepted literature values from 4 paper(s) (experimental 28, model 18); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+42 accepted literature values from 3 paper(s) (experimental 27, model 15); 3 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-BI.json) · [CSV](https://data.orchid-project.org/systems/AU-BI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-BI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-BI/AuBi-06Ser.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AU-BI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-BI.html) · [Markdown](https://data.orchid-project.org/systems/AU-BI.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
-| model | 18 |
+| experimental | 27 |
+| model | 15 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 42 |
-| phase transition | 3 |
-| formation | 1 |
+| invariant reaction | 41 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -62,12 +61,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Bi system (42)
+Table: Invariant reactions reported in the literature for the Au–Bi system (41)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1337.58 | Au(fcc) ⇌ Au(liq) | Au(liq): Bi 0 | experimental | [1] Chevalier 1988; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table 2, p. 6, row 2; `ORC-J5F66PNGES` |  |
-| 1337.58 | Au(fcc) ⇌ Au(liq) | Au(liq): Bi 0 | model | [1] Chevalier 1988 | Table 2, p. 6, row 1; `ORC-V43EGLQT3J` |  |
+| 1337.58 | congruent melting: Au(fcc) ⇌ Au(liq) | Au(liq): Bi 0 | experimental | [1] Chevalier 1988; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table 2, p. 6, row 2; `ORC-J5F66PNGES` |  |
+| 1337.58 | congruent melting: Au(fcc) ⇌ Au(liq) | Au(liq): Bi 0 | model | [1] Chevalier 1988 | Table 2, p. 6, row 1; `ORC-V43EGLQT3J` |  |
 | 668 | Fcc + L \<-> Au2Bi | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980143-8) | Table 1, p. 2, row 10; `ORC-P5HOK3EW4U` |  |
 | 651 | Fcc + L \<-> Au2Bi | L: Bi 0.666; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Evans 1983_ | Table 1, p. 2, row 8; `ORC-APG3XP2CAA` |  |
 | 651 | peritectic: fcc + (L) ⇌ Au2Bi | L: Bi 0.666; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Evans 1983_ | Table 2, p. 6, row 9; `ORC-EGVA7CPPAA` |  |
@@ -91,7 +90,6 @@ Table: Invariant reactions reported in the literature for the Au–Bi system (42
 | 514.25 | eutectic: (L) ⇌ Au2Bi + Bi(rho) | L: Bi 0.868; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Nathans 1962_ | Table 2, p. 6, row 14; `ORC-EMFPSQK5E7` |  |
 | 514.15 | eutectic: (L) ⇌ Au2Bi + Bi(rho) | L: Bi 0.86; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Vogel 1906_ [doi](https://doi.org/10.1002/zaac.19060500116) | Table 2, p. 6, row 12; `ORC-V4GRWGD4T2` |  |
 | 514.1 | L \<-> Au2Bi + (Bi) | L: Bi 0.868; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Nathans 1962_ | Table 1, p. 2, row 16; `ORC-RGLJHU4ET4` |  |
-| 514 | eutectic |  | experimental | [3] Wang 2007; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980143-8) | p. 3; `ORC-3W75LN6AV3` | “However, a sharp peak of heat capacity via temperature curve was observed, which indicates a discontinuous increase of enthalpy at the eutectic temperature, 514 K.” |
 | 514 | L \<-> Au2Bi + (Bi) | L: Bi 0.864; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Evans 1983_ | Table 1, p. 2, row 18; `ORC-44NWWNN6KN` |  |
 | 514 | L \<-> Au2Bi + (Bi) | L: Bi 0.8544; Au2Bi: Au 0.666667, Bi 0.333333 | model | [2] Servant 2006 | Table 1, p. 2, row 11; `ORC-4FNPUFP2OM` |  |
 | 514 | eutectic: (L) ⇌ Au2Bi + Bi(rho) | L: Bi 0.864; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Evans 1983_ | Table 2, p. 6, row 16; `ORC-RUWX2QVRJ7` |  |
@@ -109,27 +107,15 @@ Table: Invariant reactions reported in the literature for the Au–Bi system (42
 | 349.8 | Au2Bi \<-> fcc + (Bi) | Au2Bi: Au 0.666667, Bi 0.333333 | model | [2] Servant 2006; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987046-1) | Table 1, p. 2, row 22; `ORC-B7YTOE6DVE` |  |
 | 349.8 | other: Au2Bi ⇌ fcc + Bi(rho) | Au2Bi: Au 0.666667, Bi 0.333333 | model | [1] Chevalier 1988 | Table 2, p. 6, row 18; `ORC-BZQRO3RDAV` |  |
 
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Au–Bi system (1)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | 1.8683 kJ/mol-atom | 644 | model |  |  | [1] Chevalier 1988 | p. 9; `ORC-TMQ57LENAM` | “The calculated enthalpy and entropy of formation of the compound Au,Bi referred to the pure solid elements at T = 644 K in the second optimization is AfH = 1868.3 J per gram atom; AfS = 5.167924 J per K per gram atom.” |
-
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (1)
 
 Table: Phase transition, Au–Bi system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 375 K | 375 | other | model | [3] Wang 2007 | p. 7; `ORC-P2S3C4APKJ` | “In the present work, the decomposition temperature of Au2Bi phase was calculated to be 375 K based on the phase equilibrium and enthalpy of formation of this compound at 623 K determined by Kleppa.28” |
 | Phase transition | 389 K | 389 | other | model | [3] Wang 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | p. 2; `ORC-KOMM6MAZYP` | “By thermodynamic calculation, Okamoto et al.14 also predicted the decomposition of Au2Bi phase at 389 K.” |
-| Phase transition | 558.55 K | 558.55 | L + hcp $ Au2Bi + j | model | [4] Gao 2010 | p. 10; `ORC-XM5Q7X3JQE` | “From Figs. 6(b) and 6(c), it is found that two three-phase regions of the Au2Bi + j + A7 (Bi) and the Au2Bi + j + hcp change to other two three-phase regions of the Au2Bi + hcp + A7 (Bi) and the hcp + j + A7 (Bi), which indicates that there is an invariant reaction L + hcp $ Au2Bi + j between 250 C and 300 C. The calculated temperature of this invariant reaction is 285.4 C.” |
 
 ## Sources
 
@@ -138,7 +124,6 @@ Reporting papers the values were read from (a value cited from another work name
 1. P.-Y. Chevalier, Thermodynamic evaluation of the Au-Bi system, Thermochimica Acta 130, 15-24 (1988). [doi:10.1016/0040-6031(88)87046-1](https://doi.org/10.1016/0040-6031%2888%2987046-1)
 2. C. Servant, E. Zoro, B. Legendre, Thermodynamic reassessment of the Au–Bi system, Calphad 30, 443-448 (2006). [doi:10.1016/j.calphad.2006.07.002](https://doi.org/10.1016/j.calphad.2006.07.002)
 3. J. Wang, F.G. Meng, H.S. Liu, L.B. Liu, Z.P. Jin, Thermodynamic Modeling of the Au-Bi-Sb Ternary System, Journal of Elec Materi 36, 568-577 (2007). [doi:10.1007/s11664-007-0090-z](https://doi.org/10.1007/s11664-007-0090-z)
-4. Feng Gao, Cuiping Wang, Xingjun Liu, Yoshikazu Takaku, Ikuo Ohnuma, Kiyohito Ishida, Thermodynamic assessment of phase equilibria in the Sn-Au-Bi system with key experimental verification, J. Mater. Res. 25, 576-586 (2010). [doi:10.1557/jmr.2010.0056](https://doi.org/10.1557/jmr.2010.0056)
 
 ## Please cite
 

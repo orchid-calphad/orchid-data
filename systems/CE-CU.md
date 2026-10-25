@@ -1,10 +1,10 @@
 # Ce–Cu system
 
-> Ce–Cu system: 52 accepted literature values (invariant reaction 30, crystal structure 15, phase transition 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Cu system: 51 accepted literature values (invariant reaction 30, crystal structure 15, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-CU.html · Markdown: https://data.orchid-project.org/systems/CE-CU.md
 
-52 accepted literature values from 3 paper(s) (experimental 18, model 31, unspecified 3); 2 calculated phase diagram(s).
+51 accepted literature values from 3 paper(s) (experimental 18, model 30, unspecified 3); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-CU.json) · [CSV](https://data.orchid-project.org/systems/CE-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-CU/CeCu-09Bo.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CE-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-CU.html) · [Markdown](https://data.orchid-project.org/systems/CE-CU.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 18 |
-| model | 31 |
+| model | 30 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 30 |
-| phase transition | 7 |
+| phase transition | 6 |
 | crystal structure | 15 |
 
 ## Calculated phase diagrams
@@ -112,13 +112,12 @@ Table: Invariant reactions reported in the literature for the Ce–Cu system (30
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (6)
 
 Table: Phase transition, Ce–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 890.15 K | 890.15 | liquid + Cu4 Ce → ␶5 + ␶4 | model | [2] Bo 2009 | p. 9; `ORC-2QDG2OQQ5V.8b51b2` | “␶5 -AlCe2 Cu2 phase is one of the products of the reaction liquid + Cu4 Ce → ␶5 + ␶4 at 617 ◦ C.” |
 | Phase transition | 1089 K | 1089 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | model | [2] Bo 2009 | Table 2, p. 4, row 18; `ORC-L7T6DEEFTA` |  |
 | Phase transition | 1090 K | 1090 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 17; `ORC-BR3ZELC65D` |  |
 | Phase transition | 1090 K | 1090 | congruent melting: Liquid ↔ Cu2Ce; _L: Cu 0.667; Cu2Ce: Cu 0.666667_ | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 16; `ORC-MJOE4T4X6J` |  |

@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/AlLi2Zr.html · Markdown: https://data.orchid-project.org/compounds/AlLi2Zr.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+2 accepted literature formation-enthalpy value(s) (model 1, DFT 1).
 
 Systems: [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html)
 
@@ -15,7 +15,7 @@ Table: Enthalpy of formation of AlLi2Zr reported in the literature (2)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -3.8946 kJ/mol (basis unstated) | AlLi2Zr |  | model |  | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020 | Table 6, p. 15, row 1; `ORC-7CHFBJN2T2.f88881` |  |
-| -3.4662 kJ/mol (basis unstated) | AlLi2Zr |  | model |  | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020 | Table 6, p. 15, row 1; `ORC-7CHFBJN2T2.3bb404` |  |
+| -3.4662 kJ/mol (basis unstated) | AlLi2Zr |  | DFT |  | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020 | Table 6, p. 15, row 1; `ORC-7CHFBJN2T2.3bb404` |  |
 
 ### Uncertainty budget
 
@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of AlLi2Zr
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -3.8946 | kJ/mol (basis unstated) |  | 5.000e-5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
-| -3.4662 | kJ/mol (basis unstated) |  | 5.000e-5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -3.4662 | kJ/mol (basis unstated) |  | 5.000e-5 | 31.85 (dft, calibrated) |  |  |  | 31.85 |
 
 ## Sources
 

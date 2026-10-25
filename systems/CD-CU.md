@@ -1,10 +1,10 @@
 # Cd–Cu system
 
-> Cd–Cu system: 18 accepted literature values (invariant reaction 17, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Cu system: 13 accepted literature values (invariant reaction 12, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-CU.html · Markdown: https://data.orchid-project.org/systems/CD-CU.md
 
-18 accepted literature values from 1 paper(s) (experimental 6, model 6, unspecified 6); 1 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 1, model 6, unspecified 6); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-CU.json) · [CSV](https://data.orchid-project.org/systems/CD-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-CU/CdCu-10Che.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CD-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-CU.html) · [Markdown](https://data.orchid-project.org/systems/CD-CU.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
+| experimental | 1 |
 | model | 6 |
 | unspecified | 6 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
+| invariant reaction | 12 |
 | phase transition | 1 |
 
 ## Calculated phase diagrams
@@ -49,7 +49,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cd–Cu system (17)
+Table: Invariant reactions reported in the literature for the Cd–Cu system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -59,16 +59,11 @@ Table: Invariant reactions reported in the literature for the Cd–Cu system (17
 | 822 | peritectic: L+(Cu)->Cu2Cd | L: Cd 0.4462; (Cu): Cd 0.0218; Cu2Cd: Cd 0.3333 | model | [1] CHEN 2010 | Table 2, p. 3, row 2; `ORC-UV5OBQ4ZK7` |  |
 | 821 | peritectic: L+Cu2Cd->Cu4Cd3 | L: Cd 0.4486; Cu2Cd: Cd 0.3333; Cu4Cd3: Cd 0.4286 | model | [1] CHEN 2010 | Table 2, p. 3, row 4; `ORC-IFB67EX7K3` |  |
 | 820.7 | eutectic: L->Cu4Cd3+Cu5Cd8 | L: Cd 0.4633; Cu4Cd3: Cd 0.4286; Cu5Cd8: Cd 0.5403 | model | [1] CHEN 2010 | Table 2, p. 3, row 6; `ORC-IGYCVJ6DIT` |  |
-| 820.15 | peritectic: (Cu)+Liquid ⇔ β |  | experimental | [1] CHEN 2010; _cites ref. 6_ | p. 2; `ORC-ANE4JH7JTW` | “The peritectic temperature was confirmed at 547 °C by JENKINS and HANSON\[6\], SULONEN\[10\] and GLAZOV et al \[11\] through thermal, lattice parameter, and microhardness measurements, respectively.” |
-| 820.15 | peritectic: L+β ⇔ γ |  | experimental | [1] CHEN 2010; _cites ref. 6_ | p. 2; `ORC-YEVE4ZVCHR` | “JENKINS and HANSON\[6\] also reported the peritectic reaction L+β ⇔ γ, which was described as 44.8% Cd of liquid at 547 °C.” |
 | 820 | peritectic: L+Cu2Cd->Cu4Cd3 | L: Cd 0.448; Cu2Cd: Cd 0.3333; Cu4Cd3: Cd 0.4286 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 3; `ORC-RTBDNEQHGP` |  |
-| 817.15 | eutectic |  | experimental | [1] CHEN 2010; _cites ref. 6_ | p. 2; `ORC-V75AFPMF4E.132d2f` | “He also reported the eutectic points near pure Cd and in the central part of the phase diagram, which was 314 °C, 97.9% Cd and 544 °C, 47.3% Cd respectively.” |
 | 817 | eutectic: L->Cu4Cd3+Cu5Cd8 | L: Cd 0.473; Cu4Cd3: Cd 0.429; Cu5Cd8: Cd 0.522 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 5; `ORC-F72HQCCCSK` |  |
-| 670.15 | peritectic: L+δ ⇔ ε |  | experimental | [1] CHEN 2010; _cites ref. 6_ | p. 2; `ORC-GI72MMTEHV` | “The peritectic reaction L+δ ⇔ ε was first reported by JENKINS and HANSON\[6\], who showed that ε-phase forms at 397 °C and 92.7% Cd of liquid.” |
 | 670 | peritectic: L+Cu5Cd8->Cu3Cd10 | L: Cd 0.9564; Cu5Cd8: Cd 0.6547; Cu3Cd10: Cd 0.7692 | model | [1] CHEN 2010 | Table 2, p. 3, row 10; `ORC-EYPBXUJLMY` |  |
 | 670 | peritectic: L+Cu5Cd8->Cu3Cd10 | L: Cd 0.927; Cu5Cd8: Cd 0.66; Cu3Cd10: Cd 0.764 | unspecified | [1] CHEN 2010; _cites ref. 4_ | Table 2, p. 3, row 9; `ORC-QYTP5TXMGR` |  |
 | 590 | eutectic: L->Cu3Cd10 +(Cd) | L: Cd 0.9897; Cu3Cd10: Cd 0.7692; (Cd): Cd 0.9978 | model | [1] CHEN 2010 | Table 2, p. 3, row 12; `ORC-2XCOJEDY2E` |  |
-| 587.15 | eutectic |  | experimental | [1] CHEN 2010; _cites ref. 6_ | p. 2; `ORC-V75AFPMF4E.a4e64e` | “He also reported the eutectic points near pure Cd and in the central part of the phase diagram, which was 314 °C, 97.9% Cd and 544 °C, 47.3% Cd respectively.” |
 | 587 | eutectic: L->Cu3Cd10 +(Cd) | L: Cd 0.979; Cu3Cd10: Cd 0.768; (Cd): Cd 0.998 | unspecified | [1] CHEN 2010; _cites ref. 2_ | Table 2, p. 3, row 11; `ORC-35WMWFFMIW` |  |
 
 ## Other properties

@@ -1,10 +1,10 @@
 # In–Pb system
 
-> In–Pb system: 7 accepted literature values (invariant reaction 6, phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Pb system: 5 accepted literature values (invariant reaction 4, phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-PB.html · Markdown: https://data.orchid-project.org/systems/IN-PB.md
 
-7 accepted literature values from 2 paper(s) (experimental 5, model 2); 3 calculated phase diagram(s).
+5 accepted literature values from 1 paper(s) (experimental 3, model 2); 3 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-PB.json) · [CSV](https://data.orchid-project.org/systems/IN-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-PB/InPb-04Dav.json) · [phases (6)](https://data.orchid-project.org/phases/pages/IN-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-PB.html) · [Markdown](https://data.orchid-project.org/systems/IN-PB.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 3 |
 | model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
+| invariant reaction | 4 |
 | phase transition | 1 |
 
 ## Calculated phase diagrams
@@ -50,16 +50,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the In–Pb system (6)
+Table: Invariant reactions reported in the literature for the In–Pb system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 445.15 | peritectic |  | experimental | [1] Boa 1998 | p. 2; `ORC-EAQ5UXYB5X.faf19c` | “Two peritectic reactions occur at 445.15 and 432.15 K.” |
-| 445 | peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.195; (Pb): Pb 0.29; β: Pb 0.26 | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 3; `ORC-6R6TWBTM3M` |  |
-| 445 | peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.198; (Pb): Pb 0.287; β: Pb 0.257 | model | [2] David 2004 | Table 1, p. 2, row 4; `ORC-W5VXZYQ2HG` |  |
-| 432.15 | peritectic |  | experimental | [1] Boa 1998 | p. 2; `ORC-EAQ5UXYB5X.3b3bfe` | “Two peritectic reactions occur at 445.15 and 432.15 K.” |
-| 432 | peritectic: Liquid+ β ⇔ (In) | L: Pb 0.102; β: Pb 0.139; (In): Pb 0.105 | model | [2] David 2004 | Table 1, p. 2, row 2; `ORC-73LOUJNZTY` |  |
-| 432 | peritectic: Liquid+ β ⇔ (In) | L: Pb 0.1016; β: Pb 0.1267; (In): Pb 0.1156 | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 1; `ORC-RG4JKDMK2W` |  |
+| 445 | peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.195; (Pb): Pb 0.29; β: Pb 0.26 | experimental | [1] David 2004; _cites T 1990_ | Table 1, p. 2, row 3; `ORC-6R6TWBTM3M` |  |
+| 445 | peritectic: Liquid+ (Pb) ⇔ β | L: Pb 0.198; (Pb): Pb 0.287; β: Pb 0.257 | model | [1] David 2004 | Table 1, p. 2, row 4; `ORC-W5VXZYQ2HG` |  |
+| 432 | peritectic: Liquid+ β ⇔ (In) | L: Pb 0.102; β: Pb 0.139; (In): Pb 0.105 | model | [1] David 2004 | Table 1, p. 2, row 2; `ORC-73LOUJNZTY` |  |
+| 432 | peritectic: Liquid+ β ⇔ (In) | L: Pb 0.1016; β: Pb 0.1267; (In): Pb 0.1156 | experimental | [1] David 2004; _cites T 1990_ | Table 1, p. 2, row 1; `ORC-RG4JKDMK2W` |  |
 
 ## Other properties
 
@@ -69,14 +67,13 @@ Table: Phase transition, In–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 429 K | 429 | congruent melting: Liquid ⇔ (In); _L: Pb 0.025; (In): Pb 0.025_ | experimental | [2] David 2004; _cites T 1990_ | Table 1, p. 2, row 5; `ORC-RKKNXBKXAZ` |  |
+| Phase transition | 429 K | 429 | congruent melting: Liquid ⇔ (In); _L: Pb 0.025; (In): Pb 0.025_ | experimental | [1] David 2004; _cites T 1990_ | Table 1, p. 2, row 5; `ORC-RKKNXBKXAZ` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. D. Boa, I. Ansara, Thermodynamic assessment of the ternary system Bi–In–Pb, Thermochimica Acta 314, 79-86 (1998). [doi:10.1016/s0040-6031(98)00237-8](https://doi.org/10.1016/s0040-6031%2898%2900237-8)
-2. N David, Khadija El Aissaoui, J.M Fiorani, J Hertz, M Vilasi, Thermodynamic optimization of the In–Pb–Sn system based on new evaluations of the binary borders In–Pb and In–Sn, Thermochimica Acta 413, 127-137 (2004). [doi:10.1016/j.tca.2003.10.020](https://doi.org/10.1016/j.tca.2003.10.020)
+1. N David, Khadija El Aissaoui, J.M Fiorani, J Hertz, M Vilasi, Thermodynamic optimization of the In–Pb–Sn system based on new evaluations of the binary borders In–Pb and In–Sn, Thermochimica Acta 413, 127-137 (2004). [doi:10.1016/j.tca.2003.10.020](https://doi.org/10.1016/j.tca.2003.10.020)
 
 ## Please cite
 

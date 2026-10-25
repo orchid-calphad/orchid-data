@@ -1,10 +1,10 @@
 # Fe–Rh system
 
-> Fe–Rh system: 6 accepted literature values (phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Rh system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-RH.html · Markdown: https://data.orchid-project.org/systems/FE-RH.md
 
-6 accepted literature values from 1 paper(s) (experimental 6); 1 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (experimental 1); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-RH.json) · [CSV](https://data.orchid-project.org/systems/FE-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-RH/FeRh-09Ohn.json) · [phases (5)](https://data.orchid-project.org/phases/pages/FE-RH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-RH.html) · [Markdown](https://data.orchid-project.org/systems/FE-RH.md)
 
@@ -12,13 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
+| experimental | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 6 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -41,18 +41,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (1)
 
 Table: Phase transition, Fe–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 333.15 K | 333.15 | magnetic | experimental | [1] Ohnuma 2009 | p. 1; `ORC-SFLFHF2337` | “In the vicinity of the stoichiometric composition Fe0.5Rh0.5, there is a CsCl-type B2 superstructure which undergoes a magnetic first-order transition from ferromagnetic to antiferromagnetic at about 60°C.” |
-| Phase transition | 773.15 K | 773.15 | other | experimental | [1] Ohnuma 2009 | p. 8; `ORC-FFF6Z6UIGQ.a920cc` | “(2) The a (A2)/a (B2) order-disorder transition boundary at 500°C and 600°C was determined to be 16.5 and 19.1 at% Rh, respectively, by HTXRD analysis and TEM examination.” |
-| Phase transition | 873.15 K | 873.15 | other | experimental | [1] Ohnuma 2009 | p. 8; `ORC-FFF6Z6UIGQ.7e8dac` | “(2) The a (A2)/a (B2) order-disorder transition boundary at 500°C and 600°C was determined to be 16.5 and 19.1 at% Rh, respectively, by HTXRD analysis and TEM examination.” |
-| Phase transition | 905.15 K | 905.15 | other: a (A2) -> g (A1) | experimental | [1] Ohnuma 2009 | p. 2; `ORC-IXUKWNSXRS.4ab473` | “The starting temperature of the a (A2)/g (A1) transformation of the Fe-14.6, -20.4 and -25.6at%Rh alloys was determined to be 654, 632 and 668°C, respectively.” |
-| Phase transition | 927.15 K | 927.15 | other: a (A2) -> g (A1) | experimental | [1] Ohnuma 2009 | p. 2; `ORC-IXUKWNSXRS.a197d9` | “The starting temperature of the a (A2)/g (A1) transformation of the Fe-14.6, -20.4 and -25.6at%Rh alloys was determined to be 654, 632 and 668°C, respectively.” |
-| Phase transition | 941.15 K | 941.15 | other: a (A2) -> g (A1) | experimental | [1] Ohnuma 2009 | p. 2; `ORC-IXUKWNSXRS.48b141` | “The starting temperature of the a (A2)/g (A1) transformation of the Fe-14.6, -20.4 and -25.6at%Rh alloys was determined to be 654, 632 and 668°C, respectively.” |
 
 ## Sources
 

@@ -34,7 +34,7 @@ Table: Phases of the Fe–Si system (12)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-si:a4-diamond)
 
 Names (9): _corpus: _corpus:phase:fe-si:a4-diamond, corpus:phase:fe-si:diamond-a4  
-_paper: _paper:10.1016/j.calphad.2013.07.007:(Si), paper:10.1016/s0364-5916(98)00037-6:(Si)  
+_paper: _paper:10.1016/j.calphad.2013.07.007:(Si), paper:sha256-85fd53a1a176b694:(Si)  
 _tdb: _tdb:FeSi-12Ohn.tdb:DIAMOND_A4, tdb:FeSi-14Yua.tdb:DIAMOND_A4, tdb:FeSi-17Cui.tdb:DIAMOND_A4, tdb:FeSi-23Wit.tdb:DIAMOND_A4, tdb:FeSi-91Lac-LB.tdb:DIAMOND_A4  
 
 
@@ -75,7 +75,7 @@ _tdb: _tdb:FeSi-12Ohn.tdb:DIAMOND_A4, tdb:FeSi-14Yua.tdb:DIAMOND_A4, tdb:FeSi-17
 60: CONST DIAMOND_A4 : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -87,8 +87,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.52.540](https://doi.org/10.2355/isijinternational.52.540) Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MSI_B20 (Fe–Si)
 
@@ -102,7 +100,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-si:b20-msi)
 
 Names (9): _corpus: _corpus:phase:fe-si:b20-msi, corpus:phase:fe-si:msi-b20  
-_paper: _paper:10.1016/j.calphad.2013.07.007:FeSi, paper:10.1016/s0364-5916(98)00037-6:FeSi  
+_paper: _paper:10.1016/j.calphad.2013.07.007:FeSi, paper:sha256-85fd53a1a176b694:FeSi  
 _tdb: _tdb:FeSi-12Ohn.tdb:MSI_B20, tdb:FeSi-14Yua.tdb:MSI_B20, tdb:FeSi-17Cui.tdb:MSI_B20, tdb:FeSi-23Wit.tdb:MSI_B20, tdb:FeSi-91Lac-LB.tdb:MSI_B20  
 
 
@@ -143,7 +141,7 @@ _tdb: _tdb:FeSi-12Ohn.tdb:MSI_B20, tdb:FeSi-14Yua.tdb:MSI_B20, tdb:FeSi-17Cui.td
 80: CONST MSI_B20 : FE : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -155,8 +153,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.52.540](https://doi.org/10.2355/isijinternational.52.540) Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_4SL (Fe–Si)
 
@@ -313,7 +309,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-si:bcc-b2)
 
 Names (8): _corpus: _corpus:phase:fe-si:bcc-b2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-B2, paper:10.2355/isijinternational.52.540:B2  
+_paper: _paper:10.2355/isijinternational.52.540:B2, paper:sha256-85fd53a1a176b694:bcc-B2  
 _tdb: _tdb:FeSi-12Ohn.tdb:B2_BCC, tdb:FeSi-14Yua.tdb:B2_BCC, tdb:FeSi-17Cui.tdb:B2_BCC, tdb:FeSi-23Wit.tdb:B2_BCC, tdb:FeSi-91Lac-LB.tdb:B2_BCC  
 
 
@@ -354,7 +350,7 @@ _tdb: _tdb:FeSi-12Ohn.tdb:B2_BCC, tdb:FeSi-14Yua.tdb:B2_BCC, tdb:FeSi-17Cui.tdb:
 50: CONST B2_BCC : FE% SI : FE SI% : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.2355/isijinternational.52.540](https://doi.org/10.2355/isijinternational.52.540) Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).  
 _assessment that models this phase; reports values for this phase_
@@ -366,8 +362,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2022.168118](https://doi.org/10.1016/j.jallcom.2022.168118) V.T. Witusiewicz, O. Stryzhyboroda, S. Vinke, K. Bobzin, U. Hecht, Experimental study and thermodynamic modelling of the ternary system Fe–Ni–Si with re-modelling of the constituent binary systems, Journal of Alloys and Compounds 935, 168118 (2023).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## M5SI3_D88 (Fe–Si)
 
@@ -381,7 +375,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-si:d88-m5si3)
 
 Names (7): _corpus: _corpus:phase:fe-si:d88-m5si3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Fe5Si3  
+_paper: _paper:sha256-85fd53a1a176b694:Fe5Si3  
 _tdb: _tdb:FeSi-12Ohn.tdb:M5SI3_D88, tdb:FeSi-14Yua.tdb:M5SI3_D88, tdb:FeSi-17Cui.tdb:M5SI3_D88, tdb:FeSi-23Wit.tdb:M5SI3_D88, tdb:FeSi-91Lac-LB.tdb:M5SI3_D88  
 
 
@@ -422,7 +416,7 @@ _tdb: _tdb:FeSi-12Ohn.tdb:M5SI3_D88, tdb:FeSi-14Yua.tdb:M5SI3_D88, tdb:FeSi-17Cu
 85: CONST M5SI3_D88 : FE : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02664987](https://doi.org/10.1007/BF02664987) J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.  
 _assessment that models this phase_
@@ -434,8 +428,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.52.540](https://doi.org/10.2355/isijinternational.52.540) Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Fe–Si)
 
@@ -510,7 +502,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-si:fe2si)
 
 Names (8): _corpus: _corpus:phase:fe-si:fe2si  
-_paper: _paper:10.1016/j.calphad.2013.07.007:Fe2Si, paper:10.1016/s0364-5916(98)00037-6:Fe2Si  
+_paper: _paper:10.1016/j.calphad.2013.07.007:Fe2Si, paper:sha256-85fd53a1a176b694:Fe2Si  
 _tdb: _tdb:FeSi-12Ohn.tdb:FE2SI, tdb:FeSi-14Yua.tdb:FE2SI, tdb:FeSi-17Cui.tdb:FE2SI, tdb:FeSi-23Wit.tdb:FE2SI, tdb:FeSi-91Lac-LB.tdb:FE2SI  
 
 
@@ -551,7 +543,7 @@ _tdb: _tdb:FeSi-12Ohn.tdb:FE2SI, tdb:FeSi-14Yua.tdb:FE2SI, tdb:FeSi-17Cui.tdb:FE
 65: CONST FE2SI : FE : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -563,8 +555,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.52.540](https://doi.org/10.2355/isijinternational.52.540) Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FESI2_H (Fe–Si)
 
@@ -581,7 +571,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-si:fesi2-h)
 
 Names (8): _corpus: _corpus:phase:fe-si:fesi2-h  
-_paper: _paper:10.1016/j.calphad.2013.07.007:FeSi2_H, paper:10.1016/s0364-5916(98)00037-6:FeSi2-H  
+_paper: _paper:10.1016/j.calphad.2013.07.007:FeSi2_H, paper:sha256-85fd53a1a176b694:FeSi2-H  
 _tdb: _tdb:FeSi-12Ohn.tdb:FESI2_H, tdb:FeSi-14Yua.tdb:FESI2_H, tdb:FeSi-17Cui.tdb:FESI2_H, tdb:FeSi-23Wit.tdb:FESI2_H, tdb:FeSi-91Lac-LB.tdb:FESI2_H  
 
 
@@ -622,7 +612,7 @@ _tdb: _tdb:FeSi-12Ohn.tdb:FESI2_H, tdb:FeSi-14Yua.tdb:FESI2_H, tdb:FeSi-17Cui.td
 70: CONST FESI2_H : FE : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -634,8 +624,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.52.540](https://doi.org/10.2355/isijinternational.52.540) Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FESI2_L (Fe–Si)
 
@@ -655,7 +643,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-si:fesi2-l)
 
 Names (7): _corpus: _corpus:phase:fe-si:fesi2-l  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:FeSi2-L  
+_paper: _paper:sha256-85fd53a1a176b694:FeSi2-L  
 _tdb: _tdb:FeSi-12Ohn.tdb:FESI2_L, tdb:FeSi-14Yua.tdb:FESI2_L, tdb:FeSi-17Cui.tdb:FESI2_L, tdb:FeSi-23Wit.tdb:FESI2_L, tdb:FeSi-91Lac-LB.tdb:FESI2_L  
 
 
@@ -696,7 +684,7 @@ _tdb: _tdb:FeSi-12Ohn.tdb:FESI2_L, tdb:FeSi-14Yua.tdb:FESI2_L, tdb:FeSi-17Cui.td
 75: CONST FESI2_L : FE : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02664987](https://doi.org/10.1007/BF02664987) J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991). Liquid modified by J. Miettinen 1998.  
 _assessment that models this phase_
@@ -708,8 +696,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.52.540](https://doi.org/10.2355/isijinternational.52.540) Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Fe–Si)
 
@@ -782,7 +768,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-si:liquid)
 
 Names (8): _corpus: _corpus:phase:fe-si:liquid  
-_paper: _paper:10.1016/j.calphad.2013.07.007:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1016/j.calphad.2013.07.007:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:FeSi-12Ohn.tdb:LIQUID, tdb:FeSi-14Yua.tdb:LIQUID, tdb:FeSi-17Cui.tdb:LIQUID, tdb:FeSi-23Wit.tdb:LIQUID, tdb:FeSi-91Lac-LB.tdb:LIQUID  
 
 
@@ -823,7 +809,7 @@ _tdb: _tdb:FeSi-12Ohn.tdb:LIQUID, tdb:FeSi-14Yua.tdb:LIQUID, tdb:FeSi-17Cui.tdb:
 30: CONST LIQUID:L : FE SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -835,8 +821,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.52.540](https://doi.org/10.2355/isijinternational.52.540) Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

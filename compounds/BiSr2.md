@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of BiSr2
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -104 | kJ/mol-atom | 1.67 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -76.47 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -73.23 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -73.23 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

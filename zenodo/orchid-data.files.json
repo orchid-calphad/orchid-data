@@ -18,7 +18,7 @@
  ],
  "exclude": [],
  "n_files": 19,
- "total_bytes": 217923,
+ "total_bytes": 218046,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -33,7 +33,7 @@
   {
    "path": "DATASET_CARD.md",
    "bytes": 61916,
-   "sha256": "06e40d2d5a96d5ac8e6457d21f729aefa8602dd8a33de9fe2dfef27da33a6edd"
+   "sha256": "69f073190419f8ab7c9becbdd78da3ac9852d1eb6194e3370e470c86db7cf8b6"
   },
   {
    "path": "LICENSE",
@@ -57,8 +57,8 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 24959,
-   "sha256": "fe157813f50f05e0cb428d7bad24556d4f3ecfa5ebd2ad8855e52fa161e28eac"
+   "bytes": 25082,
+   "sha256": "1f024113bbc54dfd13f83b9b982d5c0ec22fba78afb1507c4ccfb7c2a07ea44a"
   },
   {
    "path": "zenodo/README.md",
@@ -73,7 +73,7 @@
   {
    "path": "zenodo/bibliography.metadata.json",
    "bytes": 5342,
-   "sha256": "f67fee1275dd0faf4e93b7e7056da091d9746355630f9e8596326a4ed043f580"
+   "sha256": "1bf7b82e875ce5d33f53a0110ac94c7cf468dabe47963e978b97137fef64bc0f"
   },
   {
    "path": "zenodo/dft-benchmark.metadata.json",

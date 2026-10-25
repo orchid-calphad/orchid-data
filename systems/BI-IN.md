@@ -1,10 +1,10 @@
 # Bi–In system
 
-> Bi–In system: 21 accepted literature values (invariant reaction 17, phase transition 2, model expression 1, formation 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–In system: 17 accepted literature values (invariant reaction 16, model expression 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-IN.html · Markdown: https://data.orchid-project.org/systems/BI-IN.md
 
-21 accepted literature values from 2 paper(s) (experimental 10, model 11); 3 calculated phase diagram(s).
+17 accepted literature values from 1 paper(s) (experimental 9, model 8); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-IN.json) · [CSV](https://data.orchid-project.org/systems/BI-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-IN/BiIn-02Cui.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-IN.html) · [Markdown](https://data.orchid-project.org/systems/BI-IN.md)
 
@@ -12,16 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
-| model | 11 |
+| experimental | 9 |
+| model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
-| phase transition | 2 |
-| formation | 1 |
+| invariant reaction | 16 |
 | model expression | 1 |
 
 ## Calculated phase diagrams
@@ -82,7 +80,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–In system (17)
+Table: Invariant reactions reported in the literature for the Bi–In system (16)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -100,30 +98,10 @@ Table: Invariant reactions reported in the literature for the Bi–In system (17
 | 360.9 | L=Bi3In5(γ)+BiIn2(δ) | L: In 0.663; Bi3In5(γ): Bi 0.375, In 0.625; BiIn2(δ): Bi 0.333333, In 0.666667 | model | [1] Chevalier 1988 | Table 3, p. 4, row 7; `ORC-NTD6GVDSDY` |  |
 | 345.15 | BiIn2(δ)+fct(α1)=L | BiIn2(δ): Bi 0.333333, In 0.666667; L: In 0.784; α1: In 0.878 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 12; `ORC-DVGH7KAK6O` |  |
 | 343.62 | BiIn2(δ)+fct(α1)=L | BiIn2(δ): Bi 0.333333, In 0.666667; L: In 0.784; α1: In 0.872 | model | [1] Chevalier 1988 | Table 3, p. 4, row 11; `ORC-HXTVBPNULK` |  |
-| 343.15 | eutectic: liquid „ (Bi)‡hcp‡ InBi |  | model | [2] Boa 1998; _cites Stel'makh 1974_ | p. 2; `ORC-LSDP5ZJSRZ` | “Bushanov et al. \[8\] determined the composition of the ternary eutectic at 343.15 K (liquid  (Bi)hcp InBi) by describing the liquidus surfaces based on Stel'makh et al. \[4,5\] data, by polynomials of different order using a simplex grid planning.” |
 | 322.15 | BiIn2(δ)+bct(α)=fct(α1) | BiIn2(δ): Bi 0.333333, In 0.666667 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 14; `ORC-RCLLVYU76O` |  |
 | 319.52 | BiIn2(δ)+bct(α)=fct(α1) | BiIn2(δ): Bi 0.333333, In 0.666667 | model | [1] Chevalier 1988 | Table 3, p. 4, row 13; `ORC-D4ZI4M7ZCZ` |  |
 
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Bi–In system (1)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -502 unspecified ± 42 | 273 | experimental |  |  | [1] Chevalier 1988; _cites ref. 1141_ | p. 2; `ORC-LHINNBMUPT.ac0d83` | “The heats of formation have been measured by calorimetry by Robinson and Bever 1141 -T=273K ; AH(B)=-753+42 J/g.at ; AH(6) =-502+42 J/g.at-, Boom et al. ; AH(v)=-16952226 J/g.at-; AH(6)=-456? 1151 -T=273K ; AH(B)= -2975 ?251 J/g.at )=-732+63 J/g.at ; AH(y )=-544t63 J/g. 230 J/g.at-, and Singh 1161 -T=273K ; AHH(B at ; AH( 6)=-481?63 J/g.at-.” |
-
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Bi–In system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 362.65 K | 362.65 | congruent transformation | model | [2] Boa 1998; _cites Ansara 1986_ | p. 1; `ORC-63L5VUNU7Y.ec203b` | “BiIn, BiIn2 are congruent melting compounds, the corresponding temperatures of fusion being 383.15 and 362.65 K, respectively.” |
-| Phase transition | 383.15 K | 383.15 | congruent transformation | model | [2] Boa 1998; _cites Ansara 1986_ | p. 1; `ORC-63L5VUNU7Y.760d6d` | “BiIn, BiIn2 are congruent melting compounds, the corresponding temperatures of fusion being 383.15 and 362.65 K, respectively.” |
 
 ### Model expression (1)
 
@@ -138,7 +116,6 @@ Table: Model expression, Bi–In system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988). [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5)
-2. D. Boa, I. Ansara, Thermodynamic assessment of the ternary system Bi–In–Pb, Thermochimica Acta 314, 79-86 (1998). [doi:10.1016/s0040-6031(98)00237-8](https://doi.org/10.1016/s0040-6031%2898%2900237-8)
 
 ## Please cite
 

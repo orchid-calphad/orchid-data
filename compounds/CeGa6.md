@@ -28,8 +28,8 @@ Table: Uncertainty budget of the literature values of CeGa6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -52.8 | kJ/mol-atom | 3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -48.2 | kJ/mol-atom | 3.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.7 |
+| -52.8 | kJ/mol-atom | 3 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -48.2 | kJ/mol-atom | 3.7 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.7 |
 | -51.56 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -51.364 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -30.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

@@ -1,24 +1,12 @@
 # Ag–Ir system
 
-> Ag–Ir system: 1 accepted literature values (invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ir system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-IR.html · Markdown: https://data.orchid-project.org/systems/AG-IR.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-IR.json) · [CSV](https://data.orchid-project.org/systems/AG-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-IR/AgIr-86Kar-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-IR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-IR.html) · [Markdown](https://data.orchid-project.org/systems/AG-IR.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
 
 ## Calculated phase diagrams
 
@@ -39,20 +27,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AgIr-86Kar-LB.tdb | 1234.01 | FCC_A1#2 (x(Ir) 7.000e-5) + LIQUID (x(Ir) 8.900e-4) + FCC_A1 (x(Ir) 0.99993) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-IR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-IR.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ag–Ir system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1234.15 | eutectic |  | model | [1] Karakaya 1986 | p. 2; `ORC-O3YGOEID6K` | “From the phase diagram, it can be seen t h a t the eutectic point at about 961 ~ a n d 0.1 at.% Ir is in accord with the data of \[59Rud\] for t h e m e l t i n g p o i n t s of A g - I r alloys.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. I. Karakaya, W. T. Thompson, The Ag−Ir (Silver-Iridium) system, Bulletin of Alloy Phase Diagrams 7, 359-360 (1986). [doi:10.1007/bf02873021](https://doi.org/10.1007/bf02873021)
 
 ## Please cite
 

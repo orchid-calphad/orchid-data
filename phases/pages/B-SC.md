@@ -16,7 +16,7 @@ Table: Phases of the B–Sc system (7)
 | [BCC_A2](#phase-b-sc-bcc-a2); _phase:b-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1607.98–3999.24 K, x(B) 0–1e-05 | 3 | 2 |
 | [FCC_A1](#phase-b-sc-fcc-a1); _phase:b-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-b-sc-hcp-a3); _phase:b-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1812.99 K, x(B) 0–0 | 3 | 2 |
-| [LIQUID](#phase-b-sc-liquid); _phase:b-sc:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1546.19–4000 K, x(B) 0–1 | 21 | 2 |
+| [LIQUID](#phase-b-sc-liquid); _phase:b-sc:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1546.19–4000 K, x(B) 0–1 | 22 | 2 |
 | [SCB12_D2F](#phase-b-sc-scb12-d2f); _phase:b-sc:scb12-d2f_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2316.53 K, x(B) 0.92308–0.92308 | 13 | 2 |
 | [SCB2_C32](#phase-b-sc-scb2-c32); _phase:b-sc:scb2-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2523.25 K, x(B) 0.66667–0.66667 | 14 | 2 |
 
@@ -173,11 +173,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:b-sc:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1546.19–4000 K, x(B) 0–1
-- Literature: 21 values (21 accepted) from 2 papers
+- Literature: 22 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-sc:liquid)
 
-Names (5): _corpus: _corpus:phase:b-sc:liquid  
-_paper: _paper:10.1007/bf02843307:L, paper:10.1016/j.jallcom.2008.02.018:L  
+Names (6): _corpus: _corpus:phase:b-sc:liquid  
+_paper: _paper:10.1007/bf02843307:L, paper:10.1007/bf02843307:liquid, paper:10.1016/j.jallcom.2008.02.018:L  
 _tdb: _tdb:ScB-09Liu.tdb:LIQUID, tdb:ScB-90Spe-LB.tdb:LIQUID  
 
 

@@ -12,7 +12,7 @@ Table: Phases of the O–Y system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-o-y-bcc-a2); _phase:o-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1452.65–1949.34 K, x(O) 0–0.29079 | 7 | 7 |
+| [BCC_A2](#phase-o-y-bcc-a2); _phase:o-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1452.65–1949.34 K, x(O) 0–0.29079 | 6 | 7 |
 | [C_R2O3_D53](#phase-o-y-d53-c-r2o3); _phase:o-y:d53-c-r2o3_ | Mn2O3 · D5_3 · cI80 · Ia-3 (206) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–2500 K, x(O) 0.59059–0.6 | 5 | 7 |
 | [FCC_A1](#phase-o-y-fcc-a1); _phase:o-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 7 |
 | [GAS](#phase-o-y-gas); _phase:o-y:gas_ | gas | gas | stable in 4 of 4 calculated diagram(s): 300–2500 K, x(O) 0.99968–1 | 1 | 7 |
@@ -28,11 +28,11 @@ Table: Phases of the O–Y system (10)
 - Id: `phase:o-y:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 1452.65–1949.34 K, x(O) 0–0.29079
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-y:bcc-a2)
 
-Names (10): _corpus: _corpus:phase:o-y:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2007.01.010:β-Y, paper:10.1016/j.calphad.2007.01.010:β-Y2O3  
+Names (9): _corpus: _corpus:phase:o-y:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2007.01.010:β-Y  
 _tdb: _tdb:YO-04Che.tdb:BCC_A2, tdb:YO-05Che.tdb:BCC_A2, tdb:YO-07Dju.tdb:BCC_A2, tdb:YO-19Xu.tdb:BCC_A2, tdb:YO-96Gro.tdb:BCC_A2, tdb:YO-98Swa-LB.tdb:BCC_A2, tdb:YO-98Swa-orig.tdb:BCC_A2  
 
 

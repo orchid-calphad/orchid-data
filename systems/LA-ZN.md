@@ -1,10 +1,10 @@
 # La–Zn system
 
-> La–Zn system: 61 accepted literature values (invariant reaction 49, phase transition 10, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Zn system: 57 accepted literature values (invariant reaction 46, phase transition 10, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-ZN.html · Markdown: https://data.orchid-project.org/systems/LA-ZN.md
 
-61 accepted literature values from 2 paper(s) (experimental 31, model 30); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+57 accepted literature values from 2 paper(s) (experimental 28, model 29); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-ZN.json) · [CSV](https://data.orchid-project.org/systems/LA-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-ZN/LaZn-10Qi.json) · [phases (15)](https://data.orchid-project.org/phases/pages/LA-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-ZN.html) · [Markdown](https://data.orchid-project.org/systems/LA-ZN.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
-| model | 30 |
+| experimental | 28 |
+| model | 29 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 49 |
+| invariant reaction | 46 |
 | phase transition | 10 |
-| formation | 2 |
+| formation | 1 |
 
 ## Calculated phase diagrams
 
@@ -96,7 +96,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–Zn system (49)
+Table: Invariant reactions reported in the literature for the La–Zn system (46)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -129,10 +129,8 @@ Table: Invariant reactions reported in the literature for the La–Zn system (49
 | 1065 | eutectic: L -> LaZn2 + LaZn4 | LaZn2: Zn 0.666667; LaZn4: Zn 0.8 | model | [2] Qi 2010 | Table 1, p. 3, row 9; `ORC-TCL5NYWREH` |  |
 | 1055 | eutectic: Liquid = LaZn2 + LaZn4 | Liquid: Zn 0.731; LaZn2: Zn 0.667; LaZn4: Zn 0.8 | model | [1] Berche 2012 | Table 1, p. 2, row 14; `ORC-JA2MWLU6P2` |  |
 | 1055 | eutectic: L -> LaZn2 + LaZn4 | LaZn2: Zn 0.666667; LaZn4: Zn 0.8 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 10; `ORC-SICHBQDKZI` |  |
-| 1055 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1; `ORC-UMCRL72KMT.73afc2` | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
 | 1047 | eutectic: Liquid = LaZn2 + LaZn4 | Liquid: Zn 0.734; LaZn2: Zn 0.667; LaZn4: Zn 0.8 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 13; `ORC-BQZX2HIQUP` |  |
 | 1041 | eutectic: L -> LaZn(B2) + LaZn2 | LaZn2: Zn 0.666667 | model | [2] Qi 2010 | Table 1, p. 3, row 5; `ORC-GMQNZNK7OW` |  |
-| 1036 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1; `ORC-UMCRL72KMT.9aa3bd` | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
 | 1033 | eutectic: L -> LaZn(B2) + LaZn2 | LaZn2: Zn 0.666667 | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 6; `ORC-O3SHZBHBEZ` |  |
 | 1031 | eutectic: Liquid = LaZn + LaZn2 | Liquid: Zn 0.565; LaZn: Zn 0.5; LaZn2: Zn 0.667 | model | [1] Berche 2012 | Table 1, p. 2, row 10; `ORC-ZFBNOJJFKN` |  |
 | 1026 | eutectic: Liquid = LaZn + LaZn2 | Liquid: Zn 0.565; LaZn: Zn 0.5; LaZn2: Zn 0.667 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 9; `ORC-4YYLJMPQQF` |  |
@@ -144,7 +142,6 @@ Table: Invariant reactions reported in the literature for the La–Zn system (49
 | 811 | eutectic: Liquid = fcc-La + LaZn | Liquid: Zn 0.231; fcc-La: Zn 0.027; LaZn: Zn 0.5 | model | [1] Berche 2012 | Table 1, p. 2, row 4; `ORC-NG7TCC5ALR` |  |
 | 810 | eutectic: Liquid = fcc-La + LaZn | Liquid: Zn 0.22; LaZn: Zn 0.5 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 3; `ORC-W6443TFIC4` |  |
 | 803 | eutectic: L -> Fcc + LaZn(B2) |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | Table 1, p. 3, row 2; `ORC-73WTWRVLV2` |  |
-| 803 | eutectic |  | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1; `ORC-UMCRL72KMT.ea4492` | “Three eutectic reactions occur at 803 K, 1036 K and 1055 K.” |
 | 796 | eutectic: L -> Fcc + LaZn(B2) |  | model | [2] Qi 2010 | Table 1, p. 3, row 1; `ORC-7GL5R2YJ6W` |  |
 | 694 | eutectic: Liquid = hcp-Zn + LaZn13 | Liquid: Zn 1; hcp-Zn: Zn 1; LaZn13: Zn 0.929 | experimental | [1] Berche 2012; _cites Berche 2011_ [doi](https://doi.org/10.1016/j.tca.2011.05.001) | Table 1, p. 2, row 28; `ORC-CAWFH4KLTT` |  |
 | 692 | eutectic: Liquid = hcp-Zn + LaZn13 | Liquid: Zn 1; hcp-Zn: Zn 1; LaZn13: Zn 0.929 | model | [1] Berche 2012 | Table 1, p. 2, row 29; `ORC-B6EXSJA6UF` |  |
@@ -169,14 +166,13 @@ Table: Phase transition, La–Zn system
 | Phase transition | 1247 K | 1247 | congruent melting: L -> La2Zn17; _L: Zn 0.894737; La2Zn17: Zn 0.894737_ | model | [2] Qi 2010 | Table 1, p. 3, row 15; `ORC-ZPNLARESPP` |  |
 | Phase transition | 1249 K | 1249 | congruent transformation | experimental | [2] Qi 2010; _cites Rolla 1941_ | p. 1; `ORC-YWSWXREGFZ.29fb1d` | “LaZn, LaZn2 and LaZn8 melt congruently at 1088 K, 1128 K and 1249 K, respectively.” |
 
-### Formation (2)
+### Formation (1)
 
 Table: Formation, La–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: entropy of formation_ | -2.834 J K-1 mol atom-1 | 298.15 |  | model | [1] Berche 2012 | p. 5; `ORC-72TT6QTPRW.d8c810` | “The entropy of formation of a two-phases alloy for xZn = 0.889 is calculated at -2.834 J K-1 mol atom-1 at 298 K which is also very similar to the -2.78 J K-1 mol atom-1 measured by Morishita \[17\].” |
-| Entropy of formation; _printed: entropy of formation_ | -1.66 J K-1 mol atom-1 | 298.15 |  | model | [1] Berche 2012 | p. 5; `ORC-ZLISVFFOAV` | “The entropy of formation of LaZn13 is calculated at -1.66 J K-1 mol atom-1 at 298 K in agreement with the value of Morishita \[16\] depending to experimental uncertainties.” |
+| Entropy of formation; _printed: entropy of formation_ | -1.66 J K-1 mol atom-1 | 298.15 | LaZn13 | model | [1] Berche 2012 | p. 5; `ORC-ZLISVFFOAV` | “The entropy of formation of LaZn13 is calculated at -1.66 J K-1 mol atom-1 at 298 K in agreement with the value of Morishita \[16\] depending to experimental uncertainties.” |
 
 ## Sources
 

@@ -1,21 +1,22 @@
 # Mo3Ni: enthalpy of formation
 
-> Enthalpy of formation of Mo3Ni: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Mo3Ni: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Mo3Ni.html · Markdown: https://data.orchid-project.org/compounds/Mo3Ni.md
 
-2 accepted literature formation-enthalpy value(s) (DFT 2).
+3 accepted literature formation-enthalpy value(s) (DFT 3).
 
 Systems: [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Mo3Ni reported in the literature (2)
+Table: Enthalpy of formation of Mo3Ni reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -4.063 kJ/mol (basis unstated) | Ni₀.₂₅Mo₀.₇₅ | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 31; `ORC-A2Y4PR2MEY.eacdb2` |  |
 | 9.145 kJ/mol (basis unstated) | Ni₀.₂₅Mo₀.₇₅ | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 28; `ORC-24P4ZIWOWV.695764` |  |
+| 18.85 kJ/mol-atom | Mo3Ni |  | DFT | first-principles calculations | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [2] Zhou 2009 | Table 6, p. 7, row 39; `ORC-EXQUNEL3PS.c8adae` |  |
 
 ### Uncertainty budget
 
@@ -25,12 +26,14 @@ Table: Uncertainty budget of the literature values of Mo3Ni
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -4.063 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| 9.145 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| -4.063 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 9.145 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 18.85 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## Sources
 
 1. S.H. Zhou, Y. Wang, C. Jiang, J.Z. Zhu, L.-Q. Chen, Z.-K. Liu, First-principles calculations and thermodynamic modeling of the Ni–Mo system, Materials Science and Engineering: A 397, 288-296 (2005). [doi:10.1016/j.msea.2005.02.037](https://doi.org/10.1016/j.msea.2005.02.037)
+2. S.H. Zhou, Y. Wang, L.-Q. Chen, Z.-K. Liu, R.E. Napolitano, Solution-based thermodynamic modeling of the Ni–Ta and Ni–Mo–Ta systems using first-principle calculations, Calphad 33, 631-641 (2009). [doi:10.1016/j.calphad.2009.06.006](https://doi.org/10.1016/j.calphad.2009.06.006)
 
 ## Please cite
 

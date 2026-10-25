@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Ca3Ga8
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -25.4 | kJ/mol-atom | 2.4 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -41.02 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -41.02 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

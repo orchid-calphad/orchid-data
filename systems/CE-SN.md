@@ -1,10 +1,10 @@
 # Ce–Sn system
 
-> Ce–Sn system: 228 accepted literature values (crystal structure 132, invariant reaction 53, formation 37, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Sn system: 227 accepted literature values (crystal structure 132, invariant reaction 52, formation 37, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-SN.html · Markdown: https://data.orchid-project.org/systems/CE-SN.md
 
-228 accepted literature values from 2 paper(s) (experimental 43, model 83, DFT 61, unspecified 41); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+227 accepted literature values from 2 paper(s) (experimental 43, model 82, DFT 61, unspecified 41); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-SN.json) · [CSV](https://data.orchid-project.org/systems/CE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-SN/CeSn-13Don.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CE-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-SN.html) · [Markdown](https://data.orchid-project.org/systems/CE-SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 43 |
-| model | 83 |
+| model | 82 |
 | DFT | 61 |
 | unspecified | 41 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 53 |
+| invariant reaction | 52 |
 | phase transition | 6 |
 | formation | 37 |
 | crystal structure | 132 |
@@ -92,31 +92,30 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Sn system (53)
+Table: Invariant reactions reported in the literature for the Ce–Sn system (52)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1788 | L->Ce5Sn4 | L: Ce 0.555556, Sn 0.444444; Ce5Sn4: Ce 0.555556, Sn 0.444444 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 14; `ORC-5ZTDQGTEA7` |  |
-| 1788 | L->Ce5Sn4 | L: Ce 0.555556, Sn 0.444444; Ce5Sn4: Ce 0.555556, Sn 0.444444 | model | [1] Dong 2013 | Table 3, p. 3, row 15; `ORC-Y3AQJSBO6D` |  |
-| 1783 | L->Ce5Sn4 | L: Ce 0.555556, Sn 0.444444; Ce5Sn4: Ce 0.555556, Sn 0.444444 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 13; `ORC-GKGWJYE5LX` |  |
-| 1781 | L->Ce5Sn3\* | L: Ce 0.625, Sn 0.375; Ce5Sn3\*: Ce 0.625, Sn 0.375 | model | [1] Dong 2013 | Table 3, p. 3, row 11; `ORC-MTFQBEVJWV` |  |
+| 1788 | congruent melting: L->Ce5Sn4 | L: Ce 0.555556, Sn 0.444444; Ce5Sn4: Ce 0.555556, Sn 0.444444 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 14; `ORC-5ZTDQGTEA7` |  |
+| 1788 | congruent melting: L->Ce5Sn4 | L: Ce 0.555556, Sn 0.444444; Ce5Sn4: Ce 0.555556, Sn 0.444444 | model | [1] Dong 2013 | Table 3, p. 3, row 15; `ORC-Y3AQJSBO6D` |  |
+| 1783 | congruent melting: L->Ce5Sn4 | L: Ce 0.555556, Sn 0.444444; Ce5Sn4: Ce 0.555556, Sn 0.444444 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 13; `ORC-GKGWJYE5LX` |  |
+| 1781 | congruent melting: L->Ce5Sn3\* | L: Ce 0.625, Sn 0.375; Ce5Sn3\*: Ce 0.625, Sn 0.375 | model | [1] Dong 2013 | Table 3, p. 3, row 11; `ORC-MTFQBEVJWV` |  |
 | 1778 | Liquid+Ce5Sn4=Ce5Sn3 | Ce5Sn4: Sn 0.444444; Ce5Sn3: Sn 0.375 | experimental | [2] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 6, row 8; `ORC-TY7Q3EQ6JF` |  |
 | 1778 | L+Ce5Sn4->βCe5Sn3 | Ce5Sn4: Ce 0.555556, Sn 0.444444; βCe5Sn3: Ce 0.625, Sn 0.375 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 9; `ORC-XNXAFDOD5N` |  |
-| 1770 | L->Ce5Sn4+βCe5Sn3\* | Ce5Sn4: Ce 0.555556, Sn 0.444444; βCe5Sn3\*: Ce 0.625, Sn 0.375 | model | [1] Dong 2013 | Table 3, p. 3, row 10; `ORC-SQCGQUL6RJ` |  |
+| 1770 | eutectic: L->Ce5Sn4+βCe5Sn3\* | Ce5Sn4: Ce 0.555556, Sn 0.444444; βCe5Sn3\*: Ce 0.625, Sn 0.375 | model | [1] Dong 2013 | Table 3, p. 3, row 10; `ORC-SQCGQUL6RJ` |  |
 | 1741 | Liquid+Ce5Sn4=Ce5Sn3 | Liquid: Sn 0.371; Ce5Sn4: Sn 0.444; Ce5Sn3: Sn 0.375 | model | [2] Li 2013 | Table 3, p. 6, row 7; `ORC-6TZZEUQUDS` |  |
 | 1673 | L+Ce5Sn4->Ce11Sn10 | Ce5Sn4: Ce 0.555556, Sn 0.444444; Ce11Sn10: Ce 0.52381, Sn 0.47619 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 16; `ORC-INWTN4DPKG` |  |
 | 1649 | Liquid+Ce5Sn4=Ce11Sn10 | Liquid: Sn 0.546; Ce5Sn4: Sn 0.444; Ce11Sn10: Sn 0.475 | model | [2] Li 2013 | Table 3, p. 6, row 11; `ORC-BZXKNZHHBA` |  |
 | 1648 | Liquid+Ce5Sn4=Ce11Sn10 | Ce5Sn4: Sn 0.444444; Ce11Sn10: Sn 0.47619 | experimental | [2] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 6, row 12; `ORC-BSRAZLYHKT` |  |
 | 1648 | L+Ce5Sn4->Ce11Sn10 | Ce5Sn4: Ce 0.555556, Sn 0.444444; Ce11Sn10: Ce 0.52381, Sn 0.47619 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 17; `ORC-V36DHE5WZ3` |  |
 | 1635 | L+Ce5Sn4->Ce11Sn10 | Ce5Sn4: Ce 0.555556, Sn 0.444444; Ce11Sn10: Ce 0.52381, Sn 0.47619 | model | [1] Dong 2013 | Table 3, p. 3, row 18; `ORC-5WSUKXBUUD` |  |
-| 1453 | L->Ce3Sn5 | L: Ce 0.375, Sn 0.625; Ce3Sn5: Ce 0.375, Sn 0.625 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 21; `ORC-434CRKGX4T` |  |
-| 1453 | L->Ce3Sn5 | L: Ce 0.375, Sn 0.625; Ce3Sn5: Ce 0.375, Sn 0.625 | model | [1] Dong 2013 | Table 3, p. 3, row 22; `ORC-GE2I4PD3GJ` |  |
-| 1451 | L->Ce11Sn10+Ce3Sn5 | Ce11Sn10: Ce 0.52381, Sn 0.47619; Ce3Sn5: Ce 0.375, Sn 0.625 | model | [1] Dong 2013 | Table 3, p. 3, row 20; `ORC-CGPFZQA2RL` |  |
-| 1451 | eutectic |  | model | [1] Dong 2013 | p. 10; `ORC-Y3MVPHGO4O` | “The second exception is about the eutectic temperature of the reaction L-Ce11Sn10+Ce3Sn5. In this work, 1451 K was employed instead of the experimentally determined 1428 710 K \[22\].” |
+| 1453 | congruent melting: L->Ce3Sn5 | L: Ce 0.375, Sn 0.625; Ce3Sn5: Ce 0.375, Sn 0.625 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 21; `ORC-434CRKGX4T` |  |
+| 1453 | congruent melting: L->Ce3Sn5 | L: Ce 0.375, Sn 0.625; Ce3Sn5: Ce 0.375, Sn 0.625 | model | [1] Dong 2013 | Table 3, p. 3, row 22; `ORC-GE2I4PD3GJ` |  |
+| 1451 | eutectic: L->Ce11Sn10+Ce3Sn5 | Ce11Sn10: Ce 0.52381, Sn 0.47619; Ce3Sn5: Ce 0.375, Sn 0.625 | model | [1] Dong 2013 | Table 3, p. 3, row 20; `ORC-CGPFZQA2RL` |  |
 | 1444 | Liquid=Ce11Sn10+Ce3Sn5 | Liquid: Sn 0.621; Ce11Sn10: Sn 0.511; Ce3Sn5: Sn 0.625 | model | [2] Li 2013 | Table 3, p. 6, row 13; `ORC-VPDEKPXNQH` |  |
-| 1443 | L->CeSn3 | L: Ce 0.25, Sn 0.75; CeSn3: Ce 0.25, Sn 0.75 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 29; `ORC-HTXPJH4T7M` |  |
-| 1442 | L->CeSn3 | L: Ce 0.25, Sn 0.75; CeSn3: Ce 0.25, Sn 0.75 | model | [1] Dong 2013 | Table 3, p. 3, row 30; `ORC-LLC7GIFYCM` |  |
-| 1428 | L->Ce11Sn10+Ce3Sn5 | Ce11Sn10: Ce 0.52381, Sn 0.47619; Ce3Sn5: Ce 0.375, Sn 0.625 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 19; `ORC-6PQ6V3RIAN` |  |
+| 1443 | congruent melting: L->CeSn3 | L: Ce 0.25, Sn 0.75; CeSn3: Ce 0.25, Sn 0.75 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 29; `ORC-HTXPJH4T7M` |  |
+| 1442 | congruent melting: L->CeSn3 | L: Ce 0.25, Sn 0.75; CeSn3: Ce 0.25, Sn 0.75 | model | [1] Dong 2013 | Table 3, p. 3, row 30; `ORC-LLC7GIFYCM` |  |
+| 1428 | eutectic: L->Ce11Sn10+Ce3Sn5 | Ce11Sn10: Ce 0.52381, Sn 0.47619; Ce3Sn5: Ce 0.375, Sn 0.625 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 19; `ORC-6PQ6V3RIAN` |  |
 | 1428 | Liquid=Ce11Sn10+Ce3Sn5 | Ce11Sn10: Sn 0.47619; Ce3Sn5: Sn 0.625 | experimental | [2] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 3, p. 6, row 14; `ORC-G6Y3CRQ3PP` |  |
 | 1420 | L+CeSn3->Ce2Sn5 | CeSn3: Ce 0.25, Sn 0.75; Ce2Sn5: Ce 0.285714, Sn 0.714286 | model | [1] Dong 2013 | Table 3, p. 3, row 28; `ORC-NZEEWYFQRG` |  |
 | 1418 | L+CeSn3->Ce2Sn5 | CeSn3: Ce 0.25, Sn 0.75; Ce2Sn5: Ce 0.285714, Sn 0.714286 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 27; `ORC-3BEKU77NHP` |  |
@@ -125,20 +124,20 @@ Table: Invariant reactions reported in the literature for the Ce–Sn system (53
 | 1408 | L+Ce2Sn5->Ce3Sn7 | Ce2Sn5: Ce 0.285714, Sn 0.714286; Ce3Sn7: Ce 0.3, Sn 0.7 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 25; `ORC-5UD4MHS6GJ` |  |
 | 1407 | L+Ce2Sn5->Ce3Sn7 | Ce2Sn5: Ce 0.285714, Sn 0.714286; Ce3Sn7: Ce 0.3, Sn 0.7 | model | [1] Dong 2013 | Table 3, p. 3, row 26; `ORC-USKFV2EDVN` |  |
 | 1406 | Liquid+Ce2Sn5=Ce3Sn7 | Liquid: Sn 0.6856; Ce2Sn5: Sn 0.714; Ce3Sn7: Sn 0.7 | model | [2] Li 2013 | Table 3, p. 6, row 19; `ORC-6P4UU4V6EZ` |  |
-| 1405 | L->Ce3Sn7+Ce3Sn5 | Ce3Sn7: Ce 0.3, Sn 0.7; Ce3Sn5: Ce 0.375, Sn 0.625 | model | [1] Dong 2013 | Table 3, p. 3, row 24; `ORC-QGEREYDRML` |  |
+| 1405 | eutectic: L->Ce3Sn7+Ce3Sn5 | Ce3Sn7: Ce 0.3, Sn 0.7; Ce3Sn5: Ce 0.375, Sn 0.625 | model | [1] Dong 2013 | Table 3, p. 3, row 24; `ORC-QGEREYDRML` |  |
 | 1405 | Liquid+Ce2Sn5=Ce3Sn7 | Ce2Sn5: Sn 0.714286; Ce3Sn7: Sn 0.7 | experimental | [2] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 3, p. 6, row 20; `ORC-UV3QHSJ3B5` |  |
 | 1405 | Liquid=Ce3Sn5+Ce3Sn7 | Liquid: Sn 0.6826; Ce3Sn5: Sn 0.625; Ce3Sn7: Sn 0.7 | model | [2] Li 2013 | Table 3, p. 6, row 17; `ORC-XTDABXXIUB` |  |
-| 1403 | L->Ce3Sn7+Ce3Sn5 | Ce3Sn7: Ce 0.3, Sn 0.7; Ce3Sn5: Ce 0.375, Sn 0.625 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 23; `ORC-5W62YBD7JW` |  |
+| 1403 | eutectic: L->Ce3Sn7+Ce3Sn5 | Ce3Sn7: Ce 0.3, Sn 0.7; Ce3Sn5: Ce 0.375, Sn 0.625 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 23; `ORC-5W62YBD7JW` |  |
 | 1403 | Liquid=Ce3Sn5+Ce3Sn7 | Ce3Sn5: Sn 0.625; Ce3Sn7: Sn 0.7 | experimental | [2] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 3, p. 6, row 18; `ORC-VEYEX546OR` |  |
 | 1219 | Liquid+Ce5Sn3=Ce3Sn | Liquid: Sn 0.159; Ce5Sn3: Sn 0.375; Ce3Sn: Sn 0.25 | model | [2] Li 2013 | Table 3, p. 6, row 5; `ORC-3GBBWSIQAL` |  |
 | 1216 | L+βCe5Sn3->Ce3Sn | βCe5Sn3: Ce 0.625, Sn 0.375; Ce3Sn: Ce 0.75, Sn 0.25 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 7; `ORC-ZNSYM2Z4O2` |  |
 | 1214 | L+βCe5Sn3->Ce3Sn | βCe5Sn3: Ce 0.625, Sn 0.375; Ce3Sn: Ce 0.75, Sn 0.25 | model | [1] Dong 2013 | Table 3, p. 3, row 8; `ORC-4NWTHC4XDJ` |  |
 | 1213 | Liquid+Ce5Sn3=Ce3Sn | Ce5Sn3: Sn 0.375; Ce3Sn: Sn 0.25 | experimental | [2] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 6, row 6; `ORC-A43OLAT7MH` |  |
-| 1023 | βCe5Sn3->αCe5Sn3 | βCe5Sn3: Ce 0.625, Sn 0.375; αCe5Sn3: Ce 0.625, Sn 0.375 | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 3, p. 3, row 12; `ORC-JCJLILUETL` |  |
+| 1023 | polymorphic: βCe5Sn3->αCe5Sn3 | βCe5Sn3: Ce 0.625, Sn 0.375; αCe5Sn3: Ce 0.625, Sn 0.375 | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 3, p. 3, row 12; `ORC-JCJLILUETL` |  |
 | 1002 | Liquid=Bcc_A2+Ce3Sn | Ce3Sn: Sn 0.25 | experimental | [2] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 6, row 4; `ORC-FM2MQV7CYE` |  |
-| 1002 | L->δCe+Ce3Sn | Ce3Sn: Ce 0.75, Sn 0.25 | experimental | [1] Dong 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 3, p. 3, row 2; `ORC-JVSG45FATL` |  |
-| 999 | L->δCe+Ce3Sn | Ce3Sn: Ce 0.75, Sn 0.25 | model | [1] Dong 2013 | Table 3, p. 3, row 3; `ORC-C6POOHRCA3` |  |
-| 998 | L->δCe+Ce3Sn | Ce3Sn: Ce 0.75, Sn 0.25 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 1; `ORC-UFBQKEVB6Q` |  |
+| 1002 | eutectic: L->δCe+Ce3Sn | Ce3Sn: Ce 0.75, Sn 0.25 | experimental | [1] Dong 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 3, p. 3, row 2; `ORC-JVSG45FATL` |  |
+| 999 | eutectic: L->δCe+Ce3Sn | Ce3Sn: Ce 0.75, Sn 0.25 | model | [1] Dong 2013 | Table 3, p. 3, row 3; `ORC-C6POOHRCA3` |  |
+| 998 | eutectic: L->δCe+Ce3Sn | Ce3Sn: Ce 0.75, Sn 0.25 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 1; `ORC-UFBQKEVB6Q` |  |
 | 992 | Liquid=Bcc_A2+Ce3Sn | Liquid: Sn 0.068; Bcc_A2: Sn 0.017; Ce3Sn: Sn 0.25 | model | [2] Li 2013 | Table 3, p. 6, row 3; `ORC-FJDVSOGEHY` |  |
 | 975 | δCe->γCe+Ce3Sn | Ce3Sn: Ce 0.75, Sn 0.25 | experimental | [1] Dong 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 3, p. 3, row 5; `ORC-N6SLORJZR5` |  |
 | 973 | δCe->γCe+Ce3Sn | Ce3Sn: Ce 0.75, Sn 0.25 | model | [1] Dong 2013 | Table 3, p. 3, row 6; `ORC-H3C4XY2V63` |  |
@@ -147,8 +146,8 @@ Table: Invariant reactions reported in the literature for the Ce–Sn system (53
 | 955 | Bcc_A2=Fcc_A1+Ce3Sn | Bcc_A2: Sn 0.013; Fcc_A1: Sn 0.005; Ce3Sn: Sn 0.25 | model | [2] Li 2013 | Table 3, p. 6, row 1; `ORC-DUNMZPI64H` |  |
 | 505 | Liquid=CeSn3+Bct_A5 | Liquid: Sn 0.995; CeSn3: Sn 0.75; Bct_A5: Sn 0.999 | model | [2] Li 2013 | Table 3, p. 6, row 25; `ORC-JD3VHZZHJX` |  |
 | 498 | Liquid=CeSn3+Bct_A5 | CeSn3: Sn 0.75; Bct_A5: Sn 1 | experimental | [2] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 3, p. 6, row 26; `ORC-7PIHCSIPHH` |  |
-| 498 | L->CeSn3+Sn | CeSn3: Ce 0.25, Sn 0.75 | model | [1] Dong 2013 | Table 3, p. 3, row 32; `ORC-JJICUDZ3LU` |  |
-| 498 | L->CeSn3+Sn | CeSn3: Ce 0.25, Sn 0.75 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 31; `ORC-TUPOPI4ZHH` |  |
+| 498 | eutectic: L->CeSn3+Sn | CeSn3: Ce 0.25, Sn 0.75 | model | [1] Dong 2013 | Table 3, p. 3, row 32; `ORC-JJICUDZ3LU` |  |
+| 498 | eutectic: L->CeSn3+Sn | CeSn3: Ce 0.25, Sn 0.75 | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 3, p. 3, row 31; `ORC-TUPOPI4ZHH` |  |
 
 ## Formation enthalpies
 

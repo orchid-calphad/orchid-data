@@ -1,25 +1,12 @@
 # Ag–Au system
 
-> Ag–Au system: 11 accepted literature values (phase transition 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Au system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-AU.html · Markdown: https://data.orchid-project.org/systems/AG-AU.md
 
-11 accepted literature values from 1 paper(s) (experimental 10, unspecified 1); 1 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-AU.json) · [CSV](https://data.orchid-project.org/systems/AG-AU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-AU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-AU/AgAu-88Has-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-AU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-AU.html) · [Markdown](https://data.orchid-project.org/systems/AG-AU.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 10 |
-| unspecified | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 11 |
 
 ## Calculated phase diagrams
 
@@ -32,32 +19,6 @@ Table: Assessments with a calculated phase diagram
 | AgAu-88Has-LB.tdb | S. Hassam, M. Gambino, M. Gaune-Escard, J.P. Bros, J. Agren, Metall. Trans. A, 19A, 409-16(1988). [doi:10.1007/BF02649254](https://doi.org/10.1007/BF02649254) | `f4ba1567c5750502886b1c903cae4800a7061000122b36697eef86fc3ecf81d6` | [viewer](https://orchid-project.org/phase-diagrams/#AG-AU/AgAu-88Has-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AgAu-88Has-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AgAu-88Has-LB.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-AU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-AU.json)
-
-## Other properties
-
-### Phase transition (11)
-
-Table: Phase transition, Ag–Au system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 629 K | 629 | eutectic | experimental | [1] Hassam 1988; _cites Jaffee 1945_ | Table I, p. 2, row 6; `ORC-RB3SBIO2HE` |  |
-| Phase transition | 630 K | 630 | eutectic | experimental | [1] Hassam 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table I, p. 2, row 8; `ORC-WBEURHLUEI` |  |
-| Phase transition | 632 K | 632 | eutectic | experimental | [1] Hassam 1988; _cites Einecke 1937_ | Table I, p. 2, row 5; `ORC-LKHZJT35AE` |  |
-| Phase transition | 634 K | 634 | eutectic: Au + Ge eutectic | experimental | [1] Hassam 1988 | Table III, p. 3, row 3; `ORC-BTC3HRHW6X` |  |
-| Phase transition | 635 K | 635 | eutectic | unspecified | [1] Hassam 1988; _cites Evans 1981_ | Table I, p. 2, row 10; `ORC-CZYZAQJWT4` |  |
-| Phase transition | 636 K | 636 | eutectic | experimental | [1] Hassam 1988; _cites Owen 1945_ | Table I, p. 2, row 7; `ORC-SKIZWZJYPD` |  |
-| Phase transition | 637 K | 637 | eutectic | experimental | [1] Hassam 1988; _cites Legendre 1977_ | Table I, p. 2, row 9; `ORC-FAXQGIQRUZ` |  |
-| Phase transition | 922 K | 922 | eutectic | experimental | [1] Hassam 1988; _cites Maucher 1936_ | Table I, p. 2, row 2; `ORC-NDFFPOWSWH` |  |
-| Phase transition | 923 K | 923 | eutectic | experimental | [1] Hassam 1988; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | Table I, p. 2, row 1; `ORC-IYMUBV5HCS` |  |
-| Phase transition | 923.5 K | 923.5 | eutectic: Ag + Ge eutectic | experimental | [1] Hassam 1988 | Table III, p. 3, row 1; `ORC-5HSLIJHEUC` |  |
-| Phase transition | 924 K | 924 | eutectic | experimental | [1] Hassam 1988; _cites Martin-Garin 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990094-6) | Table I, p. 2, row 3; `ORC-N7RSDZENUR` |  |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. S. Hassam, M. Gambino, M. Gaune-escard, J.P. Bros, J. ågren, Experimental and Calculated Ag + Au + Ge Phase Diagram, Metall Trans A 19, 409-416 (1988). [doi:10.1007/bf02649254](https://doi.org/10.1007/bf02649254)
 
 ## Please cite
 

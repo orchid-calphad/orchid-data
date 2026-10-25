@@ -36,17 +36,17 @@ Table: Uncertainty budget of the literature values of Bi2Mg3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -37.181 | kJ/mol (basis unstated) |  | 5.000e-4 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
-| -31.403 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -31.403 | kJ/mol (basis unstated) |  | 5.000e-4 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 16 |
 | -31.403 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (evaluated_compilation, calibrated) |  |  |  | 17.5 |
-| -30.146 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -30.146 | kJ/mol (basis unstated) |  | 5.000e-4 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 16 |
 | -25.377 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (evaluated_compilation, calibrated) |  |  |  | 17.5 |
 | -34.08 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 | -33.884 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 | -33.255 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 | -25.355 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
-| -71.276 | kJ/mol (basis unstated) |  | 5.000e-4 | 42.36 (dft, calibrated) |  |  |  | 42.36 |
-| -31.454 | kJ/mol (basis unstated) |  | 5.000e-4 | 42.36 (dft, calibrated) |  |  |  | 42.36 |
-| -24.369 | kJ/mol (basis unstated) |  | 5.000e-4 | 42.36 (dft, calibrated) |  |  |  | 42.36 |
+| -71.276 | kJ/mol (basis unstated) |  | 5.000e-4 | 39.81 (dft, calibrated) |  |  |  | 39.81 |
+| -31.454 | kJ/mol (basis unstated) |  | 5.000e-4 | 39.81 (dft, calibrated) |  |  |  | 39.81 |
+| -24.369 | kJ/mol (basis unstated) |  | 5.000e-4 | 39.81 (dft, calibrated) |  |  |  | 39.81 |
 
 ## Sources
 

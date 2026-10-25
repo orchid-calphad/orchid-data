@@ -1,10 +1,10 @@
 # Li–Sb system
 
-> Li–Sb system: 412 accepted literature values (mixing / partial 351, invariant reaction 27, formation 19, phase transition 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Sb system: 401 accepted literature values (mixing / partial 351, invariant reaction 23, formation 19, phase equilibrium 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-SB.html · Markdown: https://data.orchid-project.org/systems/LI-SB.md
 
-412 accepted literature values from 2 paper(s) (experimental 392, model 20); 2 calculated phase diagram(s).
+401 accepted literature values from 2 paper(s) (experimental 387, model 14); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-SB.json) · [CSV](https://data.orchid-project.org/systems/LI-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-SB/LiSb-17Li.json) · [phases (8)](https://data.orchid-project.org/phases/pages/LI-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-SB.html) · [Markdown](https://data.orchid-project.org/systems/LI-SB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 392 |
-| model | 20 |
+| experimental | 387 |
+| model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
-| phase transition | 9 |
+| invariant reaction | 23 |
+| phase transition | 2 |
 | phase equilibrium | 6 |
 | formation | 19 |
 | mixing / partial | 351 |
@@ -53,36 +53,32 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Li–Sb system (27)
+Table: Invariant reactions reported in the literature for the Li–Sb system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1580.29 | L -> Li3Sb | L: Sb 0.25; Li3Sb: Sb 0.25 | model | [1] Li 2017 | Table 10, p. 11, row 2; `ORC-5W7BRISPIW` |  |
-| 1580 | L -> Li3Sb | L: Sb 0.25; Li3Sb: Sb 0.25 | experimental | [1] Li 2017 | Table 10, p. 11, row 1; `ORC-UC2NY4N3J3` |  |
+| 1580.29 | congruent melting: L -> Li3Sb | L: Sb 0.25; Li3Sb: Sb 0.25 | model | [1] Li 2017 | Table 10, p. 11, row 2; `ORC-5W7BRISPIW` |  |
+| 1580 | congruent melting: L -> Li3Sb | L: Sb 0.25; Li3Sb: Sb 0.25 | experimental | [1] Li 2017 | Table 10, p. 11, row 1; `ORC-UC2NY4N3J3` |  |
 | 1457.15 | congruent melting: Liquid→βLi3Sb | Liquid: Li 0.75; βLi3Sb: Li 0.75, Sb 0.25 | model | [2] Zhang 2017 | Table 4, p. 35, row 11; `ORC-MI5POA3Q3C` |  |
 | 1423.15 | congruent melting: Liquid→βLi3Sb | Liquid: Li 0.75, Sb 0.25; βLi3Sb: Li 0.75, Sb 0.25 | experimental | [2] Zhang 2017; _cites ref. 9_ | Table 4, p. 35, row 9; `ORC-4N7TCZKF2R` |  |
 | 1223.15 | congruent melting: Liquid→βLi3Sb | Liquid: Li 0.75, Sb 0.25; βLi3Sb: Li 0.75, Sb 0.25 | experimental | [2] Zhang 2017; _cites ref. 11_ | Table 4, p. 35, row 10; `ORC-OGPXRXHX7J` |  |
 | 1160.15 | polymorphic: βLi3Sb→αLi3Sb | βLi3Sb: Li 0.75, Sb 0.25; αLi3Sb: Li 0.75, Sb 0.25 | model | [2] Zhang 2017 | Table 4, p. 35, row 8; `ORC-E5LHGLZ5XW` |  |
-| 1123 | peritectic: h-Li3Sb + liquid -> Li2Sb |  | model | [1] Li 2017; _cites Sangster 1993_ [doi](https://doi.org/10.1007/bf02671973) | p. 2; `ORC-BBNFRCWD3B.3d560c` | “Based on these calculations \[9\], h Li3 Sb melts congruently at approximately 1423 K, and the peritectic reaction h Li3 Sb þ liquid4Li2 Sb was estimated to occur at a temperature close to 1123 K.” |
 | 923.15 | polymorphic: βLi3Sb→αLi3Sb | βLi3Sb: Li 0.75, Sb 0.25; αLi3Sb: Li 0.75, Sb 0.25 | experimental | [2] Zhang 2017; _cites ref. 9_ | Table 4, p. 35, row 7; `ORC-VWV2FNM66K` |  |
 | 864.15 | L + Li3Sb -> Li2Sb | L: Sb 0.469; Li3Sb: Sb 0.25; Li2Sb: Sb 0.333 | model | [1] Li 2017 | Table 10, p. 11, row 5; `ORC-M2GJRF47QN` |  |
 | 863 | L + Li3Sb -> Li2Sb | Li3Sb: Li 0.75, Sb 0.25; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [1] Li 2017 | Table 10, p. 11, row 4; `ORC-VUPN2CMAM5` |  |
 | 857.15 | peritectic: Liquid+αLi3Sb→Li2Sb | αLi3Sb: Li 0.75, Sb 0.25; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [2] Zhang 2017; _cites ref. 8_ | Table 4, p. 35, row 5; `ORC-OZ2NU3N4Z2` |  |
 | 857 | L + Li3Sb -> Li2Sb | Li3Sb: Li 0.75, Sb 0.25; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [1] Li 2017; _cites Kane 2015_ | Table 10, p. 11, row 3; `ORC-3IEU5VLSTP` |  |
-| 856.15 | peritectic: L+αLi3Sb→Li2Sb |  | model | [2] Zhang 2017 | p. 9; `ORC-ATT7RP7FBX.f23071` | “The calculated eutectic and peritectic reaction temperatures of L→(Sb)+Li2Sb and L+αLi3Sb→Li2Sb are 466 and 583 oC, which are consistent with those reported by Kane et al. \[8\].” |
 | 856.15 | peritectic: Liquid+αLi3Sb→Li2Sb | Liquid: Li 0.545; αLi3Sb: Li 0.75, Sb 0.25; Li2Sb: Li 0.666667, Sb 0.333333 | model | [2] Zhang 2017 | Table 4, p. 35, row 6; `ORC-P757GBBJR2` |  |
-| 744 | L -> Li2Sb + (Sb) | L: Sb 0.6; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [1] Li 2017 | Table 10, p. 11, row 7; `ORC-7LU4N27EHR` |  |
-| 743.69 | L -> Li2Sb + (Sb) | L: Sb 0.584; Li2Sb: Sb 0.333; (Sb): Sb 1 | model | [1] Li 2017 | Table 10, p. 11, row 8; `ORC-7MQPAHGHHI` |  |
+| 744 | eutectic: L -> Li2Sb + (Sb) | L: Sb 0.6; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [1] Li 2017 | Table 10, p. 11, row 7; `ORC-7LU4N27EHR` |  |
+| 743.69 | eutectic: L -> Li2Sb + (Sb) | L: Sb 0.584; Li2Sb: Sb 0.333; (Sb): Sb 1 | model | [1] Li 2017 | Table 10, p. 11, row 8; `ORC-7MQPAHGHHI` |  |
 | 739.15 | eutectic: Liquid→(Sb)+Li2Sb | Liquid: Li 0.15; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [2] Zhang 2017; _cites ref. 7_ | Table 4, p. 35, row 2; `ORC-25MZWSPD2B` |  |
 | 739.15 | eutectic: Liquid→(Sb)+Li2Sb | Liquid: Li 0.405; Li2Sb: Li 0.666667, Sb 0.333333 | model | [2] Zhang 2017 | Table 4, p. 35, row 4; `ORC-2UXGD2GF5I` |  |
-| 739.15 | eutectic: L→(Sb)+Li2Sb |  | model | [2] Zhang 2017 | p. 9; `ORC-ATT7RP7FBX.fd34d6` | “The calculated eutectic and peritectic reaction temperatures of L→(Sb)+Li2Sb and L+αLi3Sb→Li2Sb are 466 and 583 oC, which are consistent with those reported by Kane et al. \[8\].” |
 | 739.15 | eutectic: Liquid→(Sb)+Li2Sb | Liquid: Li 0.4; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [2] Zhang 2017 | Table 4, p. 35, row 3; `ORC-N2DYGGETMC` |  |
 | 733.15 | eutectic: Liquid→(Sb)+Li2Sb | Liquid: Li 0.4; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [2] Zhang 2017; _cites ref. 8_ | Table 4, p. 35, row 1; `ORC-7YXJBAX4BX` |  |
-| 733 | L -> Li2Sb + (Sb) | L: Sb 0.6; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [1] Li 2017; _cites Kane 2015_ | Table 10, p. 11, row 6; `ORC-4IZBNNWNE7` |  |
-| 453.6 | L -> (Li) + Li3Sb | L: Sb 0; (Li): Sb 0; Li3Sb: Sb 0.25 | model | [1] Li 2017 | Table 10, p. 11, row 10; `ORC-DBZFIHV6QH` |  |
-| 451 | L -> (Li) + Li3Sb | Li3Sb: Li 0.75, Sb 0.25 | experimental | [1] Li 2017 | Table 10, p. 11, row 9; `ORC-6TOBMOYX6B` |  |
+| 733 | eutectic: L -> Li2Sb + (Sb) | L: Sb 0.6; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [1] Li 2017; _cites Kane 2015_ | Table 10, p. 11, row 6; `ORC-4IZBNNWNE7` |  |
+| 453.6 | eutectic: L -> (Li) + Li3Sb | L: Sb 0; (Li): Sb 0; Li3Sb: Sb 0.25 | model | [1] Li 2017 | Table 10, p. 11, row 10; `ORC-DBZFIHV6QH` |  |
+| 451 | eutectic: L -> (Li) + Li3Sb | Li3Sb: Li 0.75, Sb 0.25 | experimental | [1] Li 2017 | Table 10, p. 11, row 9; `ORC-6TOBMOYX6B` |  |
 | 449.15 | eutectic: Liquid→(Li)+ αLi3Sb | αLi3Sb: Li 0.75, Sb 0.25 | experimental | [2] Zhang 2017; _cites ref. 7_ | Table 4, p. 35, row 12; `ORC-PBDMATUKWI` |  |
-| 441.15 | eutectic: L→(Li)+αLi3Sb |  | model | [2] Zhang 2017 | p. 9; `ORC-5SUDM4JQBZ.08ecf6` | “The calculated melting temperature of βLi3Sb, transition temperature of αLi3Sb→βLi3Sb and eutectic temperature of L→(Li)+αLi3Sb are 1184 oC, 887 oC and 168 oC, which are consistent with the reported data \[7-9, 11\].” |
 | 441.15 | eutectic: Liquid→(Li)+ αLi3Sb | Liquid: Li 0.979; αLi3Sb: Li 0.75, Sb 0.25 | model | [2] Zhang 2017 | Table 4, p. 35, row 13; `ORC-K34GJ2SQJA` |  |
 
 ## Formation enthalpies
@@ -105,19 +101,12 @@ Table: Enthalpies of formation, Li–Sb system (9)
 
 ## Other properties
 
-### Phase transition (9)
+### Phase transition (2)
 
 Table: Phase transition, Li–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 453.69 K | 453.69 |  | experimental | [1] Li 2017 | p. 2; `ORC-ZX4O67SZKD` | “However, due to the melting behaviour of pure Li at 453.69 K, a kink must appear at the corresponding melting point, which was not shown in the manuscript.” |
-| Phase transition | 733 K | 733 | liquid4Li2 Sb þ ðSbÞ | experimental | [1] Li 2017; _cites Kane 2015_ | p. 2; `ORC-WJBA4GFEWE.1265de` | “Based on these results, Kane et al. \[18\] proposed an alternative phase diagram in which the invariant reactions liquid þ Li3 Sb4Li2 Sb and liquid4Li2 Sb þ ðSbÞ take place at 857 K and 733 K, respectively.” |
-| Phase transition | 857 K | 857 | liquid þ Li3 Sb4Li2 Sb | experimental | [1] Li 2017; _cites Kane 2015_ | p. 2; `ORC-WJBA4GFEWE.3bfe99` | “Based on these results, Kane et al. \[18\] proposed an alternative phase diagram in which the invariant reactions liquid þ Li3 Sb4Li2 Sb and liquid4Li2 Sb þ ðSbÞ take place at 857 K and 733 K, respectively.” |
-| Phase transition | 903.15 K | 903.15 |  | experimental | [1] Li 2017 | p. 4; `ORC-AGFHZDOBCZ` | “Measurements below the melting point of Sb (903.15 K) showed bad signal to noise ratios and large scattering.” |
-| Phase transition | 923 K | 923 | c-Li3Sb -> h-Li3Sb | experimental | [1] Li 2017; _cites Brauer 1937_ | p. 2; `ORC-HHU5OXVGP4` | “According to that work \[11\], the c Li3 Sb phase transforms to h Li3 Sb at around 923 K and congruently melts at a temperature between 1423 K and 1573 K.” |
-| Phase transition | 1160.15 K | 1160.15 | αLi3Sb→βLi3Sb | model | [2] Zhang 2017 | p. 9; `ORC-5SUDM4JQBZ.655635` | “The calculated melting temperature of βLi3Sb, transition temperature of αLi3Sb→βLi3Sb and eutectic temperature of L→(Li)+αLi3Sb are 1184 oC, 887 oC and 168 oC, which are consistent with the reported data \[7-9, 11\].” |
-| Phase transition | 1423 K | 1423 | congruent transformation | model | [1] Li 2017; _cites Sangster 1993_ [doi](https://doi.org/10.1007/bf02671973) | p. 2; `ORC-BBNFRCWD3B.bdf5ab` | “Based on these calculations \[9\], h Li3 Sb melts congruently at approximately 1423 K, and the peritectic reaction h Li3 Sb þ liquid4Li2 Sb was estimated to occur at a temperature close to 1123 K.” |
 | Phase transition | 1457.15 K | 1457.15 | βLi3Sb | model | [2] Zhang 2017 | p. 9; `ORC-5SUDM4JQBZ.b514c9` | “The calculated melting temperature of βLi3Sb, transition temperature of αLi3Sb→βLi3Sb and eutectic temperature of L→(Li)+αLi3Sb are 1184 oC, 887 oC and 168 oC, which are consistent with the reported data \[7-9, 11\].” |
 | Phase transition | 1580 K | 1580 | congruent transformation | experimental | [1] Li 2017 | p. 6; `ORC-3VK4LHEHRJ` | “In the experimental phase diagram of the Li-Sb system, the Li3 Sb compound shows a congruent melting point at 1580 K with a very” |
 

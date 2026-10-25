@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/PtSn4.html · Markdown: https://data.orchid-project.org/compounds/PtSn4.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, model 4); experimental median -30.05 kJ/mol-atom (n = 2); Materials Project -27.109 kJ/mol-atom (mp-aaaabeos); OQMD -34.107 kJ/mol-atom (oqmd-647912).
+6 accepted literature formation-enthalpy value(s) (experimental 2, model 3, DFT 1); experimental median -30.05 kJ/mol-atom (n = 2); Materials Project -27.109 kJ/mol-atom (mp-aaaabeos); OQMD -34.107 kJ/mol-atom (oqmd-647912).
 
 Systems: [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html)
 
@@ -18,8 +18,8 @@ Table: Enthalpy of formation of PtSn4 reported in the literature (6)
 | -27.2 kJ/mol-atom | PtSn4 | 298.15 | experimental |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 27; `ORC-AGQDI4SAXU` |  |
 | -31.9 kJ/mol-atom | PtSn4 | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 25; `ORC-QQHNEVXSKW` |  |
 | -31.3633 kJ/mol-atom | PtSn4 |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 5; `ORC-QI4EQ7APEJ.c65b43` |  |
-| -30.816 kJ/mol-atom | PtSn4 |  | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 5; `ORC-QI4EQ7APEJ.2a80b2` |  |
 | -28.1 kJ/mol-atom | PtSn4 | 298.15 | model |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [1] Cui 2021 | Table 5, p. 10, row 26; `ORC-RFQAYHW6DB` |  |
+| -30.816 kJ/mol-atom | PtSn4 |  | DFT |  | [Pt–Sn](https://data.orchid-project.org/systems/PT-SN.html) | [2] Hu 2022 | Table 9, p. 10, row 5; `ORC-QI4EQ7APEJ.2a80b2` |  |
 
 ### Uncertainty budget
 
@@ -33,8 +33,8 @@ Table: Uncertainty budget of the literature values of PtSn4
 | -27.2 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -31.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -31.3633 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -30.816 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -28.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -30.816 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

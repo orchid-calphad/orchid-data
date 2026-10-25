@@ -1,10 +1,10 @@
 # Sn–Sr system
 
-> Sn–Sr system: 200 accepted literature values (crystal structure 118, invariant reaction 55, formation 13, phase transition 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Sr system: 195 accepted literature values (crystal structure 118, invariant reaction 54, formation 13, other property 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-SR.html · Markdown: https://data.orchid-project.org/systems/SN-SR.md
 
-200 accepted literature values from 2 paper(s) (experimental 106, model 36, DFT 44, unspecified 14); 2 calculated phase diagram(s).
+195 accepted literature values from 2 paper(s) (experimental 102, model 35, DFT 44, unspecified 14); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-SR.json) · [CSV](https://data.orchid-project.org/systems/SN-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-SR/SnSr-12Zha.json) · [phases (12)](https://data.orchid-project.org/phases/pages/SN-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-SR.html) · [Markdown](https://data.orchid-project.org/systems/SN-SR.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 106 |
-| model | 36 |
+| experimental | 102 |
+| model | 35 |
 | DFT | 44 |
 | unspecified | 14 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 55 |
-| phase transition | 8 |
+| invariant reaction | 54 |
+| phase transition | 4 |
 | formation | 13 |
 | crystal structure | 118 |
 | other property | 6 |
@@ -76,28 +76,27 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sn–Sr system (55)
+Table: Invariant reactions reported in the literature for the Sn–Sr system (54)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1568.15 | Liquid = Sr2Sn | L: Sn 0.333; Sr2Sn: Sn 0.333333, Sr 0.666667 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 31; `ORC-SF4R2TSEPU` |  |
-| 1561.15 | Liquid = Sr2Sn | L: Sn 0.333; Sr2Sn: Sn 0.333333, Sr 0.666667 | model | [1] Zhao 2012 | Table 4, p. 5, row 33; `ORC-7QSJBKQXUV` |  |
-| 1528.15 | Liquid = Sr2Sn | L: Sn 0.333333, Sr 0.666667; Sr2Sn: Sn 0.333333, Sr 0.666667 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 32; `ORC-GKVEIJRBM7` |  |
+| 1568.15 | congruent melting: Liquid = Sr2Sn | L: Sn 0.333; Sr2Sn: Sn 0.333333, Sr 0.666667 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 31; `ORC-SF4R2TSEPU` |  |
+| 1561.15 | congruent melting: Liquid = Sr2Sn | L: Sn 0.333; Sr2Sn: Sn 0.333333, Sr 0.666667 | model | [1] Zhao 2012 | Table 4, p. 5, row 33; `ORC-7QSJBKQXUV` |  |
+| 1528.15 | congruent melting: Liquid = Sr2Sn | L: Sn 0.333333, Sr 0.666667; Sr2Sn: Sn 0.333333, Sr 0.666667 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 32; `ORC-GKVEIJRBM7` |  |
 | 1463.15 | Liquid + Sr2Sn = Sr5Sn3 | L: Sn 0.399; Sr2Sn: Sn 0.333333, Sr 0.666667; Sr5Sn3: Sn 0.375, Sr 0.625 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 2; `ORC-WLQFQSXWAW` |  |
 | 1463 | peritectic: Liquid + SnSr2 -> Sn3Sr5 | SnSr2: Sr 0.666667; Sn3Sr5: Sr 0.625 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 13; `ORC-3TLPEL2KGR` |  |
 | 1463 | peritectic: Liquid + SnSr2 -> Sn3Sr5 | SnSr2: Sr 0.666667; Sn3Sr5: Sr 0.625 | model | [2] Zhou 2014 | Table 5, p. 9, row 14; `ORC-7C4SD4PG4S` |  |
 | 1462.15 | Liquid + Sr2Sn = Sr5Sn3 | L: Sn 0.432; Sr2Sn: Sn 0.333333, Sr 0.666667; Sr5Sn3: Sn 0.375, Sr 0.625 | model | [1] Zhao 2012 | Table 4, p. 5, row 3; `ORC-E43HJQKSPG` |  |
 | 1443.15 | Liquid + Sr2Sn = Sr5Sn3 | L: Sn 0.367; Sr2Sn: Sn 0.333333, Sr 0.666667; Sr5Sn3: Sn 0.375, Sr 0.625 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 1; `ORC-IML44NCBIR` |  |
-| 1413.15 | Liquid = SrSn | L: Sn 0.5, Sr 0.5; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 35; `ORC-5SHLM6S6AX` |  |
-| 1413.15 | Liquid = SrSn | L: Sn 0.5; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 34; `ORC-XM4OY2BV6U` |  |
-| 1397.15 | Liquid = SrSn | L: Sn 0.5; SrSn: Sn 0.5, Sr 0.5 | model | [1] Zhao 2012 | Table 4, p. 5, row 37; `ORC-37OQJRJJSH` |  |
+| 1413.15 | congruent melting: Liquid = SrSn | L: Sn 0.5, Sr 0.5; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 35; `ORC-5SHLM6S6AX` |  |
+| 1413.15 | congruent melting: Liquid = SrSn | L: Sn 0.5; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 34; `ORC-XM4OY2BV6U` |  |
+| 1397.15 | congruent melting: Liquid = SrSn | L: Sn 0.5; SrSn: Sn 0.5, Sr 0.5 | model | [1] Zhao 2012 | Table 4, p. 5, row 37; `ORC-37OQJRJJSH` |  |
 | 1392.15 | Liquid = Sr5Sn3 + SrSn | L: Sn 0.475; Sr5Sn3: Sn 0.375, Sr 0.625; SrSn: Sn 0.5, Sr 0.5 | model | [1] Zhao 2012 | Table 4, p. 5, row 6; `ORC-Y5DMPN6WWR` |  |
 | 1374 | eutectic: Liquid -> SnSr + Sn3Sr5 | SnSr: Sr 0.5; Sn3Sr5: Sr 0.625 | model | [2] Zhou 2014 | Table 5, p. 9, row 12; `ORC-GAAEJMRK3Y` |  |
 | 1373.15 | Liquid = Sr5Sn3 + SrSn | L: Sn 0.456; Sr5Sn3: Sn 0.375, Sr 0.625; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 4, p. 5, row 5; `ORC-YWMAWURDEU` |  |
 | 1373 | eutectic: Liquid -> SnSr + Sn3Sr5 | SnSr: Sr 0.5; Sn3Sr5: Sr 0.625 | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 11; `ORC-PYYINQTXK6` |  |
 | 1353.15 | Liquid = Sr5Sn3 + SrSn | L: Sn 0.461; Sr5Sn3: Sn 0.375, Sr 0.625; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | Table 4, p. 5, row 4; `ORC-7SQDRZBFZT` |  |
-| 1183.15 | Liquid = SrSn | L: Sn 0.5, Sr 0.5; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Zurcher 2001_ [doi](https://doi.org/10.1002/1521-3749%28200109%29627:9<2211::aid-zaac2211>3.0.co;2-2) | Table 4, p. 5, row 36; `ORC-YSSM4QUEH4` |  |
-| 1083.15 | peritectic |  | experimental | [1] Zhao 2012; _cites Zurcher 2001_ [doi](https://doi.org/10.1002/1521-3749%28200109%29627:9<2211::aid-zaac2211>3.0.co;2-2) | p. 2; `ORC-3V7QFIJR2V.e9f604` | “They found that Sr3 Sn5 melts peritectically at 810 ◦ C to a Sr/Sn melting and SrSn, which melts congruently at 910 ◦ C according to the DTA experiments.” |
+| 1183.15 | congruent melting: Liquid = SrSn | L: Sn 0.5, Sr 0.5; SrSn: Sn 0.5, Sr 0.5 | experimental | [1] Zhao 2012; _cites Zurcher 2001_ [doi](https://doi.org/10.1002/1521-3749%28200109%29627:9<2211::aid-zaac2211>3.0.co;2-2) | Table 4, p. 5, row 36; `ORC-YSSM4QUEH4` |  |
 | 1083.15 | Liquid + SrSn = Sr3Sn5 | SrSn: Sn 0.5, Sr 0.5; Sr3Sn5: Sn 0.625, Sr 0.375 | experimental | [1] Zhao 2012; _cites Zurcher 2001_ [doi](https://doi.org/10.1002/1521-3749%28200109%29627:9<2211::aid-zaac2211>3.0.co;2-2) | Table 4, p. 5, row 9; `ORC-IGCRLGGDLW` |  |
 | 1053.15 | Liquid + SrSn = Sr3Sn5 | SrSn: Sn 0.5, Sr 0.5; Sr3Sn5: Sn 0.625, Sr 0.375 | experimental | [1] Zhao 2012; _cites Hoffmann 2002_ | Table 4, p. 5, row 7; `ORC-R5RECI5NEB` |  |
 | 1049.15 | Liquid + SrSn = Sr3Sn5 | L: Sn 0.698; SrSn: Sn 0.5, Sr 0.5; Sr3Sn5: Sn 0.625, Sr 0.375 | model | [1] Zhao 2012 | Table 4, p. 5, row 10; `ORC-L62XTYTUDJ` |  |
@@ -144,7 +143,7 @@ Table: Enthalpies of formation, Sn–Sr system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -115.42 kJ/mol-atom | 298.15 | experimental |  |  | [1] Zhao 2012; _cites Morozova 1959_ | p. 3; `ORC-TAKXQRFS7O` | “Using the heat of reaction of Sr2 Sn + 4.42HCl = 2SrCl2 + 0.21SnCl2 + 2.21H2 + 0.79Sn, Morozova et al. \[15\] estimated the enthalpy of formation at 25 ◦ C for Sr2 Sn compound to be -115.42 kJ/mol-atom.” |
+| Sr2Sn | [SnSr2](https://data.orchid-project.org/compounds/SnSr2.html) | -115.42 kJ/mol-atom | 298.15 | experimental | -59.752 (mp-aaaaablq) | -63.382 (oqmd-18120) | [1] Zhao 2012; _cites Morozova 1959_ | p. 3; `ORC-TAKXQRFS7O` | “Using the heat of reaction of Sr2 Sn + 4.42HCl = 2SrCl2 + 0.21SnCl2 + 2.21H2 + 0.79Sn, Morozova et al. \[15\] estimated the enthalpy of formation at 25 ◦ C for Sr2 Sn compound to be -115.42 kJ/mol-atom.” |
 | Sr2Sn | [SnSr2](https://data.orchid-project.org/compounds/SnSr2.html) | -68.02 kJ/mol-atom | 0 | unspecified | -59.752 (mp-aaaaablq) | -63.382 (oqmd-18120) | [1] Zhao 2012 | Table 2, p. 3, row 1; `ORC-UMTUMKFGXQ` |  |
 | Sr2Sn | [SnSr2](https://data.orchid-project.org/compounds/SnSr2.html) | -63.4 kJ/mol-atom | 0 | unspecified | -59.752 (mp-aaaaablq) | -63.382 (oqmd-18120) | [1] Zhao 2012 | Table 2, p. 3, row 2; `ORC-VHDOE3BUQR` |  |
 | Sr3Sn5 | [Sn5Sr3](https://data.orchid-project.org/compounds/Sn5Sr3.html) | -88.83 kJ/mol-atom | 0 | unspecified | -54.548 (mp-aaaabaxs) | -60.195 (oqmd-20936) | [1] Zhao 2012 | Table 2, p. 3, row 7; `ORC-MXAZ7P6QVG` |  |
@@ -160,16 +159,12 @@ Table: Enthalpies of formation, Sn–Sr system (13)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (4)
 
 Table: Phase transition, Sn–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 712 K | 712 | other | model | [2] Zhou 2014 | p. 9; `ORC-25PXJJZ4MY` | “The temperature of the solid-state decomposition reaction (Sn3Sr52SnSrþ SnSr2) is predicted to be 712 K.” |
-| Phase transition | 1093.15 K | 1093.15 | polymorphic | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | p. 2; `ORC-FK4Q2ID5HW.7af55b` | “They also found that both SrSn and Sr2 Sn have an allotropic transition at 820 and 900 ◦ C, respectively.” |
-| Phase transition | 1173.15 K | 1173.15 | polymorphic | experimental | [1] Zhao 2012; _cites Widera 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990005-9) | p. 2; `ORC-FK4Q2ID5HW.fb7701` | “They also found that both SrSn and Sr2 Sn have an allotropic transition at 820 and 900 ◦ C, respectively.” |
-| Phase transition | 1183.15 K | 1183.15 | congruent transformation | experimental | [1] Zhao 2012; _cites Zurcher 2001_ [doi](https://doi.org/10.1002/1521-3749%28200109%29627:9<2211::aid-zaac2211>3.0.co;2-2) | p. 2; `ORC-3V7QFIJR2V.40c1af` | “They found that Sr3 Sn5 melts peritectically at 810 ◦ C to a Sr/Sn melting and SrSn, which melts congruently at 910 ◦ C according to the DTA experiments.” |
 | Phase transition | 1413 K | 1413 | congruent melting: Liquid -> SnSr; _L: Sr 0.5; SnSr: Sr 0.5_ | experimental | [2] Zhou 2014; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.04.097) | Table 5, p. 9, row 9; `ORC-GUEJTLKAQY` |  |
 | Phase transition | 1419 K | 1419 | congruent melting: Liquid -> SnSr; _L: Sr 0.5; SnSr: Sr 0.5_ | model | [2] Zhou 2014 | Table 5, p. 9, row 10; `ORC-3HG4ANZL5W` |  |
 | Phase transition | 1560 K | 1560 | congruent melting: Liquid -> SnSr2; _L: Sr 0.666667; SnSr2: Sr 0.666667_ | model | [2] Zhou 2014 | Table 5, p. 9, row 17; `ORC-CKWRK5FKG7` |  |

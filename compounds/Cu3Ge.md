@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Cu3Ge
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -7.66 | kJ/mol (basis unstated) |  | 0.005 | 14 (unknown, calibrated) |  |  |  | 14 |
-| -7.66 | kJ/mol (basis unstated) |  | 0.005 | 14 (unknown, calibrated) |  |  |  | 14 |
-| -4.245 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -7.66 | kJ/mol (basis unstated) |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -7.66 | kJ/mol (basis unstated) |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -4.245 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

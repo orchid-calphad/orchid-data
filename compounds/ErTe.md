@@ -32,9 +32,9 @@ Table: Uncertainty budget of the literature values of ErTe
 | -179.45 | kJ/mol-atom | 0.6 | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -157 | kJ/mol-atom | 60 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 60 |
 | -118.947 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -136.485 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -119.399 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -115.927 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -136.485 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -119.399 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -115.927 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

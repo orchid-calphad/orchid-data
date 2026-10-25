@@ -39,21 +39,21 @@ Table: Uncertainty budget of the literature values of SiV3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -46.4 | kJ/mol-atom | 1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -46.4 | kJ/mol-atom | 1 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -46.4 | kJ/mol-atom | 1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -45.1 | kJ/mol-atom | 2 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -45.1 | kJ/mol-atom | 2 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -41.8 | kJ/mol-atom | 1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -41.75 | kJ/mol-atom | 1 | 0.005 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
 | -38.8 | kJ/mol-atom | 1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -38.75 | kJ/mol-atom | 1 | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -38.75 | kJ/mol-atom | 1 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -35.3 | kJ/mol-atom | 3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -35.25 | kJ/mol-atom | 3 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -35.25 | kJ/mol-atom | 3 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -45.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -44.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -33.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -33.88 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -45.23 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -45.23 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 | -44.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies

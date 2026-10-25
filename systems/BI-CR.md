@@ -1,10 +1,10 @@
 # Bi–Cr system
 
-> Bi–Cr system: 5 accepted literature values (invariant reaction 3, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Cr system: 2 accepted literature values (invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-CR.html · Markdown: https://data.orchid-project.org/systems/BI-CR.md
 
-5 accepted literature values from 2 paper(s) (experimental 2, model 3); 2 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (experimental 1, model 1); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-CR.json) · [CSV](https://data.orchid-project.org/systems/BI-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-CR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-CR/BiCr-13Cao.json) · [phases (5)](https://data.orchid-project.org/phases/pages/BI-CR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-CR.html) · [Markdown](https://data.orchid-project.org/systems/BI-CR.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 3 |
+| experimental | 1 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
-| phase transition | 2 |
+| invariant reaction | 2 |
 
 ## Calculated phase diagrams
 
@@ -49,31 +48,18 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Cr system (3)
+Table: Invariant reactions reported in the literature for the Bi–Cr system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2095 | monotectic |  | model | [1] Gossé 2014 | p. 4; `ORC-S6TYEGOXAG.be7a05` | “The monotectic reaction is calculated at 2095 K and the critical point of the liquid miscibility gap is 3091 K for a 67 at.% Cr composition (Fig. 2(a)).” |
-| 544.55 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 0.999; (Cr): Bi 0; (Bi): Bi 1 | model | [2] Cao 2013 | Table 3, p. 5, row 19; `ORC-ADHC4G744P` |  |
-| 544.15 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 1; (Cr): Bi 0; (Bi): Bi 1 | experimental | [2] Cao 2013; _cites Williams 1907_ | Table 3, p. 5, row 18; `ORC-QGF3SKU55U` |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Bi–Cr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1826.15 K | 1826.15 | Liquid#2 = (Cr) + (Bi) | experimental | [2] Cao 2013; _cites Williams 1907_ | p. 2; `ORC-WKU5UANIDU` | “at 268 °C and Liquid#2 = (Cr) + (Bi) at 1553 °C were investigated by Williams \[24\] via continuous cooling of melting alloys of Bi and Cr.” |
-| Phase transition | 3091 K | 3091 | other | model | [1] Gossé 2014 | p. 4; `ORC-S6TYEGOXAG.40accd` | “The monotectic reaction is calculated at 2095 K and the critical point of the liquid miscibility gap is 3091 K for a 67 at.% Cr composition (Fig. 2(a)).” |
+| 544.55 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 0.999; (Cr): Bi 0; (Bi): Bi 1 | model | [1] Cao 2013 | Table 3, p. 5, row 19; `ORC-ADHC4G744P` |  |
+| 544.15 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 1; (Cr): Bi 0; (Bi): Bi 1 | experimental | [1] Cao 2013; _cites Williams 1907_ | Table 3, p. 5, row 18; `ORC-QGF3SKU55U` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Stéphane Gossé, Thermodynamic assessment of solubility and activity of iron, chromium, and nickel in lead bismuth eutectic, Journal of Nuclear Materials 449, 122-131 (2014). [doi:10.1016/j.jnucmat.2014.03.011](https://doi.org/10.1016/j.jnucmat.2014.03.011)
-2. Z. Cao, J. Xin, C. Chen, S. Liu, B. Hu, C. Tang et al., Thermodynamic modeling of the Bi-M (M = Ti, Cr, V) systems, J min metall B Metall 49, 307-313 (2013). [doi:10.2298/jmmb130127033c](https://doi.org/10.2298/jmmb130127033c)
+1. Z. Cao, J. Xin, C. Chen, S. Liu, B. Hu, C. Tang et al., Thermodynamic modeling of the Bi-M (M = Ti, Cr, V) systems, J min metall B Metall 49, 307-313 (2013). [doi:10.2298/jmmb130127033c](https://doi.org/10.2298/jmmb130127033c)
 
 ## Please cite
 

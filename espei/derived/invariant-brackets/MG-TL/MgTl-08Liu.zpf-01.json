@@ -70,7 +70,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> hcp + Mg5Tl2",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

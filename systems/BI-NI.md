@@ -1,10 +1,10 @@
 # Bi–Ni system
 
-> Bi–Ni system: 155 accepted literature values (invariant reaction 112, phase equilibrium 23, crystal structure 10, phase transition 10) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Ni system: 139 accepted literature values (invariant reaction 104, phase equilibrium 23, crystal structure 10, phase transition 2) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-NI.html · Markdown: https://data.orchid-project.org/systems/BI-NI.md
 
-155 accepted literature values from 6 paper(s) (experimental 102, model 27, unspecified 26); 7 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+139 accepted literature values from 5 paper(s) (experimental 89, model 24, unspecified 26); 7 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-NI.json) · [CSV](https://data.orchid-project.org/systems/BI-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-NI/BiNi-05Vas.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BI-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-NI.html) · [Markdown](https://data.orchid-project.org/systems/BI-NI.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 102 |
-| model | 27 |
+| experimental | 89 |
+| model | 24 |
 | unspecified | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 112 |
-| phase transition | 10 |
+| invariant reaction | 104 |
+| phase transition | 2 |
 | phase equilibrium | 23 |
 | crystal structure | 10 |
 
@@ -91,7 +91,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Ni system (112)
+Table: Invariant reactions reported in the literature for the Bi–Ni system (104)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -99,14 +99,11 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 927 | peritectic: L + fcc(Ni) -> BiNi | L: Ni 0.216; BiNi: Ni 0.5 | model | [2] WANG 2011 | Table 2, p. 4, row 8; `ORC-6YIG7AIEBU` |  |
 | 927 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.5, Ni 0.5 | experimental | [3] Vassilev 2005; _cites Kuzmin 1969_ | Table 2, p. 2, row 4; `ORC-CCD3FRAX7L` |  |
 | 927 | Liquid + fcc(Ni) -> BiNi | Liquid: Bi 0.79; BiNi: Bi 0.5 | experimental | [4] Liu 2016; _cites Portevin 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table IV, p. 4, row 1; `ORC-FDTATG3QNY` |  |
-| 927 | peritectic |  | experimental | [2] WANG 2011; _cites ref. 14_ | p. 2; `ORC-FDU7UOVEDX.97a06a` | “NASH\[14\] pointed out that the peritectic temperature (911 K) remarked by VOSS\[24\] is too low due to the supercooling effect of liquid alloys compared with the experimental data (927 K) obtained by PORTEVIN\[23\].” |
 | 927 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.5; L: Bi 0.802 | experimental | [5] Vassilev 2009; _cites ref. 6_ | Table 3, p. 4, row 1; `ORC-HGMAYQAU6S` |  |
 | 927 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.5, Ni 0.5 | experimental | [5] Vassilev 2009; _cites ref. 14_ | Table 3, p. 4, row 4; `ORC-HTNQMQQW2C` |  |
 | 927 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.5; L: Bi 0.802 | experimental | [3] Vassilev 2005; _cites Portevin 1908_ | Table 2, p. 2, row 2; `ORC-W5I7MLZ4BP` |  |
 | 927 | Liquid + fcc(Ni) -> BiNi | BiNi: Bi 0.5, Ni 0.5 | experimental | [4] Liu 2016; _cites Kuzmin 1969_ | Table IV, p. 4, row 4; `ORC-XVVFH3GULW` |  |
 | 927 | peritectic: L + fcc(Ni) -> BiNi | BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites PORTEVIN 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table 2, p. 4, row 1; `ORC-ZWI2LVLAEK` |  |
-| 926.15 | peritectic: NiBi peritectic melting |  | experimental | [3] Vassilev 2005 | p. 4; `ORC-5T25WLU2LK` | “Differential scanning calorimeter (DSC) analysis of specimen No. 3 (containing 47.2 at.% Bi) was performed using a NETZSCH DSC 404C instrument (Netzsch, Germany). As a result, the NiBi peritectic melting temperature (Fig. 2) was found to be ≈653 °C (926 K), in good agreement with literature data (Table 2).” |
-| 926 | peritectic: liquid + fcc(Ni) M BiNi |  | experimental | [4] Liu 2016; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | p. 4; `ORC-EBPA4QXR2U` | “Recently, Vassilev et al.11 reinvestigated the peritectic temperature of the invariant reaction liquid + fcc(Ni) M BiNi, which was reported to be 926 K by differential scanning calorimetry (DSC), and the liquidus by measuring the composition of the remaining liquid in the equilibrated alloys using electron probe microanalysis (EPMA) measurements.” |
 | 926 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.5, Ni 0.5 | experimental | [3] Vassilev 2005 | Table 2, p. 2, row 6; `ORC-GBI7OMSPYH` |  |
 | 926 | Liquid + fcc(Ni) -> BiNi | BiNi: Bi 0.5, Ni 0.5 | unspecified | [4] Liu 2016; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | Table IV, p. 4, row 6; `ORC-SBFGN6O625` |  |
 | 925.15 | peritectic: L + fcc -> NiBi | L: Bi 0.799; fcc: Bi 0; NiBi: Bi 0.507 | model | [1] Seo 2007 | Table III, p. 5, row 4; `ORC-XXEJIGL3G3` |  |
@@ -119,7 +116,6 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 919.15 | peritectic: L + fcc -> NiBi | L: Bi 0.75; fcc: Bi 0; NiBi: Bi 0.51 | unspecified | [1] Seo 2007; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table III, p. 5, row 2; `ORC-NNIHCXCVOP` |  |
 | 919 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.51; (Ni): Bi 0.022; L: Bi 0.762 | model | [5] Vassilev 2009; _cites ref. 3_ | Table 3, p. 4, row 9; `ORC-62KOQY5DMZ` |  |
 | 919 | peritectic: L + fcc(Ni) -> BiNi | L: Ni 0.186; BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites ref. 15_ | Table 2, p. 4, row 4; `ORC-6NXG3B7KFX` |  |
-| 919 | peritectic: liquid + fcc(Ni) M BiNi |  | experimental | [4] Liu 2016; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | p. 4; `ORC-7XPI2ETNRG.68b25b` | “The phase diagram from 50 at.% to 85 at.% Bi was investigated by Feschotte and Rosset21 using differential thermal analysis (DTA), and the peritectic reactions liquid + fcc(Ni) M BiNi and liquid + BiNi M Bi3Ni were reported to occur at 919 K and 738 K, respectively.” |
 | 919 | peritectic: L + fcc(Ni) -> BiNi | L: Ni 0.238; BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites ref. 16_ | Table 2, p. 4, row 5; `ORC-HCK7JSMU5J` |  |
 | 919 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.51; (Ni): Bi 7.000e-4 | experimental | [3] Vassilev 2005; _cites Feschotte 1988_ | Table 2, p. 2, row 5; `ORC-J3Q4JTJ637` |  |
 | 919 | peritectic: L + fcc(Ni) -> BiNi | L: Ni 0.24; BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites FESCHOTTE_ | Table 2, p. 4, row 3; `ORC-MGHWWOGEQM` |  |
@@ -133,7 +129,6 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 913 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.5; (Ni): Bi 0.005; L: Bi 0.693 | experimental | [3] Vassilev 2005; _cites Voss 1908_ | Table 2, p. 2, row 1; `ORC-R3NHCBKKOR` |  |
 | 913 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.45; (Ni): Bi 0.005; L: Bi 0.68 | experimental | [3] Vassilev 2005; _cites Hagg 1930_ | Table 2, p. 2, row 3; `ORC-U7JWCCP2EL` |  |
 | 911 | peritectic: L + fcc(Ni) -> BiNi | BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites ref. 24_ | Table 2, p. 4, row 2; `ORC-2Z4PUF6SKD` |  |
-| 911 | peritectic |  | experimental | [2] WANG 2011; _cites ref. 14_ | p. 2; `ORC-FDU7UOVEDX.fd2941` | “NASH\[14\] pointed out that the peritectic temperature (911 K) remarked by VOSS\[24\] is too low due to the supercooling effect of liquid alloys compared with the experimental data (927 K) obtained by PORTEVIN\[23\].” |
 | 911 | Liquid + fcc(Ni) -> BiNi | Liquid: Bi 0.69; BiNi: Bi 0.5 | experimental | [4] Liu 2016; _cites Voss 1908_ [doi](https://doi.org/10.1002/zaac.19080570103) | Table IV, p. 4, row 2; `ORC-VRAY253E4P` |  |
 | 781.77 | Liquid + fcc(Ni) -> BiNi + fcc(Ag) | L: Bi 0.3856, Ni 0.0308; BiNi: Bi 0.5, Ni 0.5 | model | [4] Liu 2016 | Table V, p. 7, row 2; `ORC-BZNZQM72KE` |  |
 | 780.6 | Liquid + fcc(Ni) -> BiNi + fcc(Ag) | L: Bi 0.391, Ni 0.029; BiNi: Bi 0.5, Ni 0.5 | model | [4] Liu 2016; _cites Gao 2009_ [doi](https://doi.org/10.1557/jmr.2009.0302) | Table V, p. 7, row 1; `ORC-C746B7DLN5` |  |
@@ -154,7 +149,6 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 740.6 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.512; L: Bi 0.92 | model | [5] Vassilev 2009; _cites ref. 5_ | Table 3, p. 4, row 19; `ORC-WIOH5XNEOI` |  |
 | 740.15 | peritectic: L + NiBi -> NiBi3 | L: Bi 0.86; NiBi: Bi 0.51; NiBi3: Bi 0.75 | unspecified | [1] Seo 2007; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table III, p. 5, row 6; `ORC-BTNQVXUNPI` |  |
 | 738.15 | peritectic: L + NiBi -> NiBi3 | L: Bi 0.915; NiBi: Bi 0.52; NiBi3: Bi 0.75 | unspecified | [1] Seo 2007; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | Table III, p. 5, row 7; `ORC-EM7AEYARB2` |  |
-| 738 | peritectic: liquid + BiNi M Bi3Ni |  | experimental | [4] Liu 2016; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | p. 4; `ORC-7XPI2ETNRG.469a38` | “The phase diagram from 50 at.% to 85 at.% Bi was investigated by Feschotte and Rosset21 using differential thermal analysis (DTA), and the peritectic reactions liquid + fcc(Ni) M BiNi and liquid + BiNi M Bi3Ni were reported to occur at 919 K and 738 K, respectively.” |
 | 738 | Liquid + BiNi -> Bi3Ni | Liquid: Bi 0.86; BiNi: Bi 0.51; Bi3Ni: Bi 0.75 | unspecified | [4] Liu 2016; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table IV, p. 4, row 12; `ORC-CGH3HJUD4Z` |  |
 | 738 | peritectic: L +BiNi -> Bi3Ni | L: Ni 0.087; BiNi: Ni 0.5; Bi3Ni: Ni 0.25 | experimental | [2] WANG 2011; _cites ref. 15_ | Table 2, p. 4, row 12; `ORC-D3RXSDEQJD` |  |
 | 738 | peritectic: L +BiNi -> Bi3Ni | L: Ni 0.123; BiNi: Ni 0.5; Bi3Ni: Ni 0.25 | experimental | [2] WANG 2011; _cites ref. 16_ | Table 2, p. 4, row 13; `ORC-IU5GMN563C` |  |
@@ -175,7 +169,7 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 544.15 | eutectic: L -> NiBi3 + (Bi) | NiBi3: Bi 0.75, Ni 0.25 | unspecified | [1] Seo 2007; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table III, p. 5, row 10; `ORC-GOKIJNUCWP` |  |
 | 544 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | L: Ni 0; Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites ref. 18_ | Table 2, p. 4, row 24; `ORC-5ZDRWPN6DM` |  |
 | 544 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [3] Vassilev 2005; _cites Feschotte 1988_ | Table 2, p. 2, row 18; `ORC-7QURUPSIWH` |  |
-| 544 | Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | unspecified | [4] Liu 2016; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table IV, p. 4, row 18; `ORC-7TILXVHWGO` |  |
+| 544 | eutectic: Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | unspecified | [4] Liu 2016; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table IV, p. 4, row 18; `ORC-7TILXVHWGO` |  |
 | 544 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [5] Vassilev 2009; _cites ref. 9_ | Table 3, p. 4, row 25; `ORC-H6TJKFWQA6` |  |
 | 544 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites FESCHOTTE_ | Table 2, p. 4, row 19; `ORC-O7KVENVV5P` |  |
 | 544 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | L: Ni 0.003; Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | model | [2] WANG 2011 | Table 2, p. 4, row 25; `ORC-OCWSETACNR` |  |
@@ -183,15 +177,13 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 543.5 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.996 | model | [5] Vassilev 2009; _cites ref. 5_ | Table 3, p. 4, row 28; `ORC-ONGACEOGVU` |  |
 | 543.35 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.9947 | experimental | [3] Vassilev 2005; _cites Shavinski 1979_ | Table 2, p. 2, row 17; `ORC-KPU2SRFGTM` |  |
 | 543.35 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.9947 | experimental | [5] Vassilev 2009; _cites ref. 15_ | Table 3, p. 4, row 24; `ORC-NUFJACLIKS` |  |
-| 543.35 | Liquid -> Bi3Ni + (Bi) | Liquid: Bi 0.9947; Bi3Ni: Bi 0.75; (Bi): Bi 1 | experimental | [4] Liu 2016; _cites Shavinskii 1979_ | Table IV, p. 4, row 17; `ORC-QEF36IUGYC` |  |
+| 543.35 | eutectic: Liquid -> Bi3Ni + (Bi) | Liquid: Bi 0.9947; Bi3Ni: Bi 0.75; (Bi): Bi 1 | experimental | [4] Liu 2016; _cites Shavinskii 1979_ | Table IV, p. 4, row 17; `ORC-QEF36IUGYC` |  |
 | 543.15 | eutectic: L -> NiBi3 + (Bi) | L: Bi 0.996; NiBi3: Bi 0.75; (Bi): Bi 1 | unspecified | [1] Seo 2007; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | Table III, p. 5, row 11; `ORC-PDRK4HRQCU` |  |
-| 543 | eutectic: LļBi3Ni+rhombohedral(Bi) |  | experimental | [2] WANG 2011; _cites s739ís743 2005_ | p. 2; `ORC-2IV6NDKKWD` | “SHAVINSKI et al\[25\] reported that the composition and temperature of the eutectic reaction, LļBi3Ni+rhombohedral(Bi), are 99.47% Bi (molar fraction) and 543 K, respectively.” |
 | 543 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | L: Ni 0; Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites ref. 16_ | Table 2, p. 4, row 22; `ORC-CSITN676LP` |  |
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [3] Vassilev 2005; _cites Voss 1908_ | Table 2, p. 2, row 14; `ORC-FLJ3JNNR5E` |  |
 | 543 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | L: Ni 0.0053; Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites s739ís743 2005_ | Table 2, p. 4, row 20; `ORC-FVHAGETN4A` |  |
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [3] Vassilev 2005; _cites Kuzmin 1969_ | Table 2, p. 2, row 16; `ORC-LEE553DW4O` |  |
 | 543 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | L: Ni 0; Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites ref. 15_ | Table 2, p. 4, row 21; `ORC-NCWV33T53U` |  |
-| 543 | eutectic: liquid M Bi3Ni + (Bi) |  | experimental | [4] Liu 2016; _cites Shavinskii 1979_ | p. 4; `ORC-NZ3F6SLNUF` | “Shavinskii et al.20 employed the directional solidification technique and reported that the eutectic composition and temperature of the reaction liquid M Bi3Ni + (Bi) were 99.47 at.% Bi and 543 K, respectively.” |
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.993 | model | [5] Vassilev 2009; _cites ref. 3_ | Table 3, p. 4, row 27; `ORC-OGSKE6BOAM` |  |
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [5] Vassilev 2009; _cites ref. 7_ | Table 3, p. 4, row 22; `ORC-QRI7B6WPJT` |  |
 | 543 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites ref. 24_ | Table 2, p. 4, row 18; `ORC-RME72EJSPV` |  |
@@ -199,33 +191,25 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.993 | model | [5] Vassilev 2009; _cites ref. 1_ | Table 3, p. 4, row 26; `ORC-SBAVRCZIQZ` |  |
 | 543 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | L: Ni 0.007; Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites ref. 17_ | Table 2, p. 4, row 23; `ORC-SSLCI7A66X` |  |
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [5] Vassilev 2009; _cites ref. 14_ | Table 3, p. 4, row 23; `ORC-UHPEF26XXD` |  |
-| 543 | Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Kuzmin 1969_ | Table IV, p. 4, row 16; `ORC-VUYLSKI4OA` |  |
-| 543 | Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Voss 1908_ [doi](https://doi.org/10.1002/zaac.19080570103) | Table IV, p. 4, row 15; `ORC-XMYP7IOAZ3` |  |
+| 543 | eutectic: Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Kuzmin 1969_ | Table IV, p. 4, row 16; `ORC-VUYLSKI4OA` |  |
+| 543 | eutectic: Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Voss 1908_ [doi](https://doi.org/10.1002/zaac.19080570103) | Table IV, p. 4, row 15; `ORC-XMYP7IOAZ3` |  |
 | 542.8 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.993 | model | [5] Vassilev 2009 | Table 3, p. 4, row 29; `ORC-MYCGSDWSHJ` |  |
-| 542.8 | Liquid -> Bi3Ni + (Bi) | Liquid: Bi 0.992; Bi3Ni: Bi 0.75; (Bi): Bi 1 | model | [4] Liu 2016 | Table IV, p. 4, row 19; `ORC-ZFTNA6MXU3` |  |
+| 542.8 | eutectic: Liquid -> Bi3Ni + (Bi) | Liquid: Bi 0.992; Bi3Ni: Bi 0.75; (Bi): Bi 1 | model | [4] Liu 2016 | Table IV, p. 4, row 19; `ORC-ZFTNA6MXU3` |  |
 | 542 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [5] Vassilev 2009; _cites ref. 6_ | Table 3, p. 4, row 21; `ORC-E7G2OKWU4S` |  |
 | 542 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [3] Vassilev 2005; _cites Portevin 1908_ | Table 2, p. 2, row 15; `ORC-IANZWO2FOX` |  |
 | 542 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites PORTEVIN 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table 2, p. 4, row 17; `ORC-MZKAN6IWZA` |  |
-| 542 | Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Portevin 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table IV, p. 4, row 14; `ORC-TONFLYC4VV` |  |
+| 542 | eutectic: Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Portevin 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table IV, p. 4, row 14; `ORC-TONFLYC4VV` |  |
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (2)
 
 Table: Phase transition, Bi–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 542 K | 542 |  | experimental | [3] Vassilev 2005 | p. 1; `ORC-HQLYUSJYQQ` | “The Bi melting point has been acknowledged as 542 K, about 2° below the presently accepted value.” |
-| Phase transition | 544 K | 544 |  | experimental | [1] Seo 2007 | p. 5; `ORC-ZZK47BIYPG.80e034` | “The melting temperature of Ni is 1,726 K but those of Sn and Bi are 505 K and 544 K, respectively.” |
 | Phase transition | 620 K | 620 | magnetic | model | [4] Liu 2016 | p. 13; `ORC-V7RFQD7KYS` | “For the BiNi phase, the temperature of the magnetic transition was fixed to be 620 K to fit the peak of heat capacities.” |
 | Phase transition | 630 K | 630 | magnetic | experimental | [4] Liu 2016; _cites Vassilev 2007_ [doi](https://doi.org/10.3139/146.101499) | p. 10; `ORC-S6AHTVS5NG` | “Although Vassilev et al.9 ascribed the detected magnetic transition temperature (630 K) to the presence of some unreacted Ni in the sample, Yoshida et al.16 and Samui et al.14 studied the magnetic transition of BiNi and confirmed the formation of pure compound BiNi in Ref. is the magnetic 14 through XRD analysis.” |
-| Phase transition | 742 K | 742 | other | model | [6] Gossé 2014 | p. 6; `ORC-CP3MTS224N` | “The change of slope as a function of temperature is calculated at 742 K; this temperature is slightly higher than the value given by the intersection (712 K) of both correlations given by Martinelli et al. \[8\].” |
-| Phase transition | 1428.79 K | 1428.79 | other | model | [4] Liu 2016 | p. 14; `ORC-YNIWDLPQCW` | “The monovariant line of the miscibility gap in the liquid phase is shown in the liquidus projection, and the critical point is 33.45 at.% Ni and 53.75 at.% Bi (1428.79 K), marked as point C in Fig. 10.” |
-| Phase transition | 1724 K | 1724 |  | experimental | [3] Vassilev 2005 | p. 1; `ORC-OIJK7FH4U3.83bd1f` | “Both authors have accepted the Ni melting point as 1724 K (i.e., a 4 K difference from the contemporary value of 1728 K \[1996Mas\]).” |
-| Phase transition | 1726 K | 1726 |  | experimental | [1] Seo 2007 | p. 5; `ORC-ZZK47BIYPG.f3d1cb` | “The melting temperature of Ni is 1,726 K but those of Sn and Bi are 505 K and 544 K, respectively.” |
-| Phase transition | 1728 K | 1728 |  | model | [3] Vassilev 2005; _cites Massalski 1996_ | p. 1; `ORC-OIJK7FH4U3.4f5616` | “Both authors have accepted the Ni melting point as 1724 K (i.e., a 4 K difference from the contemporary value of 1728 K \[1996Mas\]).” |
-| Phase transition | 1837 K | 1837 | other | experimental | [3] Vassilev 2005 | p. 1; `ORC-RQI7PRGO7S` | “Another possible source of error (change of the chemical composition of the specimens) is connected with the relatively high Bi vapor pressure (boiling point 1837 K) because the experiments have been performed in open crucibles.” |
 
 ### Phase equilibrium (23)
 
@@ -283,7 +267,6 @@ Reporting papers the values were read from (a value cited from another work name
 3. G.P. Vassilev, X.J. Liu, K. Ishida, Experimental Studies and Thermodynamic Optimization of the Ni-Bi System, Journal of Phase Equilibria &amp; Diffusion 26, 161-168 (2005). [doi:10.1361/15477030523030](https://doi.org/10.1361/15477030523030)
 4. Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016). [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9)
 5. G. Vassilev, V. Gandova, P. Docheva, Comments and reconciliation of the Ni–Bi‐system thermodynamic reassessments, Cryst. Res. Technol. 44, 25-30 (2009). [doi:10.1002/crat.200800391](https://doi.org/10.1002/crat.200800391)
-6. Stéphane Gossé, Thermodynamic assessment of solubility and activity of iron, chromium, and nickel in lead bismuth eutectic, Journal of Nuclear Materials 449, 122-131 (2014). [doi:10.1016/j.jnucmat.2014.03.011](https://doi.org/10.1016/j.jnucmat.2014.03.011)
 
 ## Please cite
 

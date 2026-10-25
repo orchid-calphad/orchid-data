@@ -1,10 +1,10 @@
 # Fe–V system
 
-> Fe–V system: 6 accepted literature values (phase transition 4, formation 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–V system: 2 accepted literature values (formation 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-V.html · Markdown: https://data.orchid-project.org/systems/FE-V.md
 
-6 accepted literature values from 3 paper(s) (experimental 4, model 2); 5 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (experimental 2); 5 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-V.json) · [CSV](https://data.orchid-project.org/systems/FE-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-V/FeV-12Guo.json) · [phases (6)](https://data.orchid-project.org/phases/pages/FE-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-V.html) · [Markdown](https://data.orchid-project.org/systems/FE-V.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
-| model | 2 |
+| experimental | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 4 |
 | formation | 2 |
 
 ## Calculated phase diagrams
@@ -57,26 +55,11 @@ Table: Enthalpies of formation, Fe–V system (2)
 | bee |  | -5.3 kJ/mol (basis unstated) | 1623 | experimental |  |  | [1] Huang 1991; _cites ref. 2_ | p. 4; `ORC-R3OI6XYIOO.21c8bb` | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
 | liquid |  | -8.6 kJ/mol (basis unstated) | 1873 | experimental |  |  | [1] Huang 1991; _cites ref. 2_ | p. 4; `ORC-R3OI6XYIOO.98e5dd` | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
 
-## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Fe–V system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1431 K | 1431 |  | experimental | [2] Andersson 1983; _cites ref. 1_ | p. 4; `ORC-MTLOBXZZEG.c971a5` | “Spencer and Putland (1) found the temperature 1431 K The information presented by Hack et al (4) indicates a maximum temperature between 1473 K and 1523 K and the vanadium content a little less than 0.5.” |
-| Phase transition | 1473 K | 1473 |  | experimental | [2] Andersson 1983; _cites Hansen_ | p. 4; `ORC-MTLOBXZZEG.f93896` | “The information presented by Hack et al (4) indicates a maximum temperature between 1473 K and 1523 K and the vanadium content a little less than 0.5.” |
-| Phase transition | 1525 K | 1525 | congruent transformation | model | [3] Kumar 1991 | p. 7; `ORC-SJ564NJ7N5` | “The calculated a\* u congruent transformation point is at 1525 K f1252°Cf corresponding to XV = 0.509.” |
-| Phase transition | 1743.5 K | 1743.5 |  | model | [3] Kumar 1991 | p. 7; `ORC-BPDHT5YJCN` | “The azeotropic melting minimum 1743.5 K f1470_4°C1 and at XV = 0.311.” |
-
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Weiming Huang, A Thermodynamic Analysis of the Mn-V And Fe-Mn-V Systems, Calphad 15, 195-208 (1991). [doi:10.1016/0364-5916(91)90018-f](https://doi.org/10.1016/0364-5916%2891%2990018-f)
-2. Jan-Olof Andersson, A thermodynamic evaluation of the iron — vanadium system, Calphad 7, 305-315 (1983). [doi:10.1016/0364-5916(83)90010-x](https://doi.org/10.1016/0364-5916%2883%2990010-x)
-3. K.C. Hari Kumar, V. Raghavan, A thermodynamic reassessment of the FE-V system, Calphad 15, 307-314 (1991). [doi:10.1016/0364-5916(91)90008-8](https://doi.org/10.1016/0364-5916%2891%2990008-8)
 
 ## Please cite
 

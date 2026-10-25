@@ -1,26 +1,12 @@
 # Pb–Sn system
 
-> Pb–Sn system: 5 accepted literature values (invariant reaction 3, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Sn system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-SN.html · Markdown: https://data.orchid-project.org/systems/PB-SN.md
 
-5 accepted literature values from 3 paper(s) (experimental 3, model 2); 3 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-SN.json) · [CSV](https://data.orchid-project.org/systems/PB-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-SN/PbSn-17Gie.json) · [phases (6)](https://data.orchid-project.org/phases/pages/PB-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-SN.html) · [Markdown](https://data.orchid-project.org/systems/PB-SN.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 3 |
-| model | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 3 |
-| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -43,35 +29,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | PbSn-95Oht-LB.tdb | 456.14 | FCC_A1 (x(Sn) 0.26887) + LIQUID (x(Sn) 0.7404) + BCT_A5 (x(Sn) 0.97978) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/PB/PB-SN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/PB/PB-SN.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Pb–Sn system (3)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 456.15 | eutectic |  | model | [1] Yoon 1998; _cites Massalski 1991_ | p. 2; `ORC-7CZN2HUWBZ` | “In the Sn-Pb system, there is also a typical eutectic reaction at 183"C, composed of S-Sn and fee (face-centered-cubic) Pb phases \[8\].” |
-| 456.15 | eutectic |  | experimental | [2] Doi 2006 | p. 1; `ORC-EUJDOLOVIX.8bc2bb` | “Sn-Ag-Cu alloy has been used as a Pb-free solder, but it has a melting point of 218 °C, which is considerably higher than the 183 °C of conventional Pb-Sn eutectic alloy.” |
-| 456.15 | eutectic |  | experimental | [1] Yoon 1998 | p. 1; `ORC-PTXU4RWJIO` | “Many solder alloys are currently available, however, a eutectic 63Sn-37Pb alloy (compositions are all in weight percent, unless specified otherwise) with a melting point of 183°C or a near-eutectic 60Sn-40Pb alloy are used most commonly in electronic packaging due to their unique properties such as good wettability, good time-dependent deformatior, characteristics, good corrosion resistance and r…” |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Pb–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 444 K | 444 | Liquid + (Sn) → (Pb) + ␥ | experimental | [3] David 2004 | p. 4; `ORC-7G5FK4FZXY` | “They reported two ternary invariant reactions: Liquid + (Sn) → (Pb) + ␥ at 444 K and Liquid + (Pb) → ␤ + ␥ at 409 K.” |
-| Phase transition | 445.7 K | 445.7 | Liquid + (Sn) → (Pb) + ␥ | model | [3] David 2004 | p. 7; `ORC-QDGCVHIORL` | “The two invariant reactions are calculated with a discrepancy lower than 2 K: Liquid + (Sn) → (Pb) + ␥ at 445.7 K and Liquid + (Pb) → ␤ + ␥ at 407.8 K.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Seung Wook Yoon, Hyuck Mo Lee, A thermodynamic study of phase equilibria in the Sn-Bi-Pb solder system, Calphad 22, 167-178 (1998). [doi:10.1016/s0364-5916(98)00022-4](https://doi.org/10.1016/s0364-5916%2898%2900022-4)
-2. K. Doi, S. Ono, H. Ohtani, M. Hasebe, Thermodynamic study of the phase equilibria in the Sn−Ti−Zn ternary system, JPED 27, 63-74 (2006). [doi:10.1361/105497106x92826](https://doi.org/10.1361/105497106x92826)
-3. N David, Khadija El Aissaoui, J.M Fiorani, J Hertz, M Vilasi, Thermodynamic optimization of the In–Pb–Sn system based on new evaluations of the binary borders In–Pb and In–Sn, Thermochimica Acta 413, 127-137 (2004). [doi:10.1016/j.tca.2003.10.020](https://doi.org/10.1016/j.tca.2003.10.020)
 
 ## Please cite
 

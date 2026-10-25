@@ -161,8 +161,8 @@
     "sigma_basis": "not printed",
     "budget": {
      "sigma_printed": null,
-     "sigma_reading": 0.05,
-     "sigma_reading_mu_J_per_mol": 752.521225,
+     "sigma_reading": 0.0,
+     "sigma_reading_mu_J_per_mol": 0.0,
      "sigma_method": 0.1927,
      "sigma_method_mu_J_per_mol": 2900.216803,
      "sigma_composition": null,

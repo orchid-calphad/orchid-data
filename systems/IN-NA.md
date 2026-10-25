@@ -1,10 +1,10 @@
 # In–Na system
 
-> In–Na system: 21 accepted literature values (invariant reaction 18, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Na system: 20 accepted literature values (invariant reaction 18, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-NA.html · Markdown: https://data.orchid-project.org/systems/IN-NA.md
 
-21 accepted literature values from 1 paper(s) (experimental 15, model 6); 1 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 14, model 6); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-NA.json) · [CSV](https://data.orchid-project.org/systems/IN-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-NA/InNa-13Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/IN-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-NA.html) · [Markdown](https://data.orchid-project.org/systems/IN-NA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 14 |
 | model | 6 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 18 |
-| phase transition | 3 |
+| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -61,34 +61,33 @@ Table: Invariant reactions reported in the literature for the In–Na system (18
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 720.8 | liq -> In8Na5 | L: Na 0.384; In8Na5: In 0.615385, Na 0.384615 | model | [1] Wang 2013 | Table 2, p. 4, row 5; `ORC-Z3VWSEBSA5` |  |
-| 715 | liq -> In8Na5 | L: Na 0.385; In8Na5: In 0.615385, Na 0.384615 | experimental | [1] Wang 2013; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | Table 2, p. 4, row 7; `ORC-THCN42TWME` |  |
-| 713 | liq -> In8Na5 | L: Na 0.4; In8Na5: In 0.615385, Na 0.384615 | experimental | [1] Wang 2013; _cites Lamprecht 1969_ [doi](https://doi.org/10.1016/0022-1902%2869%2980139-9) | Table 2, p. 4, row 6; `ORC-MF5ACSA2EK` |  |
+| 720.8 | congruent melting: liq -> In8Na5 | L: Na 0.384; In8Na5: In 0.615385, Na 0.384615 | model | [1] Wang 2013 | Table 2, p. 4, row 5; `ORC-Z3VWSEBSA5` |  |
+| 715 | congruent melting: liq -> In8Na5 | L: Na 0.385; In8Na5: In 0.615385, Na 0.384615 | experimental | [1] Wang 2013; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | Table 2, p. 4, row 7; `ORC-THCN42TWME` |  |
+| 713 | congruent melting: liq -> In8Na5 | L: Na 0.4; In8Na5: In 0.615385, Na 0.384615 | experimental | [1] Wang 2013; _cites Lamprecht 1969_ [doi](https://doi.org/10.1016/0022-1902%2869%2980139-9) | Table 2, p. 4, row 6; `ORC-MF5ACSA2EK` |  |
 | 626 | liq + In8Na5 -> InNa | In8Na5: In 0.615385, Na 0.384615; InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Schneidner 2013_ | Table 2, p. 4, row 10; `ORC-56VBEDOEIR` |  |
 | 621.1 | liq + In8Na5 -> InNa | L: Na 0.587; In8Na5: Na 0.384; InNa: In 0.5, Na 0.5 | model | [1] Wang 2013 | Table 2, p. 4, row 8; `ORC-KP2EJOEI24` |  |
 | 618 | liq + In8Na5 -> InNa | In8Na5: In 0.615385, Na 0.384615; InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | Table 2, p. 4, row 9; `ORC-I2WRDDT645` |  |
 | 559.3 | liq + InNa -> InNa3 | L: Na 0.75; InNa: Na 0.5; InNa3: In 0.25, Na 0.75 | model | [1] Wang 2013 | Table 2, p. 4, row 11; `ORC-IH2JXV25TK` |  |
 | 442.3 | liq + InNa -> InNa3 | L: Na 0.97; InNa: Na 0.5; InNa3: In 0.25, Na 0.75 | model | [1] Wang 2013 | Table 2, p. 4, row 12; `ORC-ZJTLUGDFNX` |  |
-| 433 | liq -> (In) + In8Na5 | In8Na5: In 0.615385, Na 0.384615 | experimental | [1] Wang 2013; _cites Heberlein 1952_ | Table 2, p. 4, row 2; `ORC-HNTZHCO4GR` |  |
-| 433 | liq -> (In) + In8Na5 | L: Na 0.065; In8Na5: In 0.615385, Na 0.384615 | experimental | [1] Wang 2013; _cites Neething 1974_ | Table 2, p. 4, row 4; `ORC-OFQXIQHXWS` |  |
-| 430.7 | liq -> (In) + In8Na5 | L: Na 0.04; In8Na5: Na 0.384 | model | [1] Wang 2013 | Table 2, p. 4, row 1; `ORC-2IZSGBJ62N` |  |
-| 428 | liq -> (In) + In8Na5 | In8Na5: In 0.615385, Na 0.384615 | experimental | [1] Wang 2013; _cites Lamprecht 1969_ [doi](https://doi.org/10.1016/0022-1902%2869%2980139-9) | Table 2, p. 4, row 3; `ORC-IWSREBKMDO` |  |
-| 369 | liq -> InNa + βNa(bcc) | L: Na 0.9996; InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Lamprecht 1969_ [doi](https://doi.org/10.1016/0022-1902%2869%2980139-9) | Table 2, p. 4, row 15; `ORC-BKQBY3HLHY` |  |
-| 369 | liq -> InNa + βNa(bcc) | InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Neething 1974_ | Table 2, p. 4, row 17; `ORC-I2Q7YACT54` |  |
-| 369 | liq -> InNa + βNa(bcc) | InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Heycock 1899_ | Table 2, p. 4, row 18; `ORC-N2VKC7MF6C` |  |
-| 368.8 | liq -> InNa + βNa(bcc) | L: Na 1; InNa: Na 0.5 | model | [1] Wang 2013 | Table 2, p. 4, row 13; `ORC-J7S24RR2PJ` |  |
-| 368 | liq -> InNa + βNa(bcc) | InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | Table 2, p. 4, row 16; `ORC-MHSZ7BGKYM` |  |
-| 367.9 | liq -> InNa + βNa(bcc) | InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Davies 1967_ | Table 2, p. 4, row 14; `ORC-2RQIWCLJKB` |  |
+| 433 | eutectic: liq -> (In) + In8Na5 | In8Na5: In 0.615385, Na 0.384615 | experimental | [1] Wang 2013; _cites Heberlein 1952_ | Table 2, p. 4, row 2; `ORC-HNTZHCO4GR` |  |
+| 433 | eutectic: liq -> (In) + In8Na5 | L: Na 0.065; In8Na5: In 0.615385, Na 0.384615 | experimental | [1] Wang 2013; _cites Neething 1974_ | Table 2, p. 4, row 4; `ORC-OFQXIQHXWS` |  |
+| 430.7 | eutectic: liq -> (In) + In8Na5 | L: Na 0.04; In8Na5: Na 0.384 | model | [1] Wang 2013 | Table 2, p. 4, row 1; `ORC-2IZSGBJ62N` |  |
+| 428 | eutectic: liq -> (In) + In8Na5 | In8Na5: In 0.615385, Na 0.384615 | experimental | [1] Wang 2013; _cites Lamprecht 1969_ [doi](https://doi.org/10.1016/0022-1902%2869%2980139-9) | Table 2, p. 4, row 3; `ORC-IWSREBKMDO` |  |
+| 369 | eutectic: liq -> InNa + βNa(bcc) | L: Na 0.9996; InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Lamprecht 1969_ [doi](https://doi.org/10.1016/0022-1902%2869%2980139-9) | Table 2, p. 4, row 15; `ORC-BKQBY3HLHY` |  |
+| 369 | eutectic: liq -> InNa + βNa(bcc) | InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Neething 1974_ | Table 2, p. 4, row 17; `ORC-I2Q7YACT54` |  |
+| 369 | eutectic: liq -> InNa + βNa(bcc) | InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Heycock 1899_ | Table 2, p. 4, row 18; `ORC-N2VKC7MF6C` |  |
+| 368.8 | eutectic: liq -> InNa + βNa(bcc) | L: Na 1; InNa: Na 0.5 | model | [1] Wang 2013 | Table 2, p. 4, row 13; `ORC-J7S24RR2PJ` |  |
+| 368 | eutectic: liq -> InNa + βNa(bcc) | InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | Table 2, p. 4, row 16; `ORC-MHSZ7BGKYM` |  |
+| 367.9 | eutectic: liq -> InNa + βNa(bcc) | InNa: In 0.5, Na 0.5 | experimental | [1] Wang 2013; _cites Davies 1967_ | Table 2, p. 4, row 14; `ORC-2RQIWCLJKB` |  |
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, In–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 618 K | 618 |  | experimental | [1] Wang 2013 | p. 1; `ORC-OSURFJD3BR` | “In addition, InNa melts incongruently, with the formation of In-Na melts and In8Na5 (or In3Na2) when the temperature is raised above 618 K.” |
 | Phase transition | 713 K | 713 | congruent transformation | experimental | [1] Wang 2013; _cites Lamprecht 1969_ [doi](https://doi.org/10.1016/0022-1902%2869%2980139-9) | p. 1; `ORC-WUJWYAAVN4.8c0929` | “Lamprecht and Crowther\[4\] gave the composition of the congruent melting point as 40 at.% Na(In3Na2) at 713 K and Thümmel and Klemm\[5\] gave as 38.5 at.% Na (In8Na5) at 715 K.” |
 | Phase transition | 715 K | 715 | congruent transformation | experimental | [1] Wang 2013; _cites Thummel 1970_ [doi](https://doi.org/10.1002/zaac.19703760107) | p. 1; `ORC-WUJWYAAVN4.b2ffba` | “Lamprecht and Crowther\[4\] gave the composition of the congruent melting point as 40 at.% Na(In3Na2) at 713 K and Thümmel and Klemm\[5\] gave as 38.5 at.% Na (In8Na5) at 715 K.” |
 

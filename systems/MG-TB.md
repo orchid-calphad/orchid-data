@@ -69,8 +69,8 @@ Table: Invariant reactions reported in the literature for the Mg–Tb system (14
 | 828 | liq. + Mg3Tb -> Mg24Tb5 | liq.: Tb 0.1215; Mg3Tb: Tb 0.2103; Mg24Tb5: Mg 0.827586, Tb 0.172414 | model | [1] Guo 2006 | Table 2, p. 5, row 5; `ORC-XC2JK24RGF` |  |
 | 818 | liq. + Mg24Tb5 -> Mg5Tb | liq.: Tb 0.105; Mg24Tb5: Mg 0.827586, Tb 0.172414; Mg5Tb: Mg 0.833333, Tb 0.166667 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 4; `ORC-FO4GA24PHK` |  |
 | 818 | liq. + Mg24Tb5 -> Mg5Tb | liq.: Tb 0.1092; Mg24Tb5: Mg 0.827586, Tb 0.172414; Mg5Tb: Mg 0.833333, Tb 0.166667 | model | [1] Guo 2006 | Table 2, p. 5, row 3; `ORC-YH26HCVZOW` |  |
-| 803 | liq. -> Mg5Tb + hcp | liq.: Tb 0.0943; Mg5Tb: Mg 0.833333, Tb 0.166667; hcp: Tb 0.0196 | model | [1] Guo 2006 | Table 2, p. 5, row 1; `ORC-JY6SDDQJ7Q` |  |
-| 803 | liq. -> Mg5Tb + hcp | liq.: Tb 0.095; Mg5Tb: Mg 0.833333, Tb 0.166667; hcp: Tb 0.04 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 2; `ORC-SOSM3HTC57` |  |
+| 803 | eutectic: liq. -> Mg5Tb + hcp | liq.: Tb 0.0943; Mg5Tb: Mg 0.833333, Tb 0.166667; hcp: Tb 0.0196 | model | [1] Guo 2006 | Table 2, p. 5, row 1; `ORC-JY6SDDQJ7Q` |  |
+| 803 | eutectic: liq. -> Mg5Tb + hcp | liq.: Tb 0.095; Mg5Tb: Mg 0.833333, Tb 0.166667; hcp: Tb 0.04 | experimental | [1] Guo 2006; _cites Saccone 1993_ | Table 2, p. 5, row 2; `ORC-SOSM3HTC57` |  |
 
 ## Sources
 

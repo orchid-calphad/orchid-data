@@ -101,7 +101,7 @@
     "x0": 0.5792,
     "hyperplane_delta": 0.01,
     "reaction_printed": "γ -> FePd",
-    "reaction_type": null,
+    "reaction_type": "polymorphic",
     "phases_above": [
      "FCC_A1"
     ],
@@ -119,7 +119,7 @@
     "x0": 0.6596,
     "hyperplane_delta": 0.01,
     "reaction_printed": "γ -> FePd3",
-    "reaction_type": null,
+    "reaction_type": "polymorphic",
     "phases_above": [
      "FCC_A1"
     ],

@@ -14,12 +14,12 @@ Table: Phases of the C–Si system (8)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-c-si-a4-diamond); _phase:c-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1917.01 K, x(C) 0–0.00718 | 0 | 4 |
 | [GRAPHITE_A9](#phase-c-si-a9-graphite); _phase:c-si:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 4 |
-| [BCC_A2](#phase-c-si-bcc-a2); _phase:c-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 3152.46–4000 K, x(C) 0.43527–0.57533 | 2 | 4 |
+| [BCC_A2](#phase-c-si-bcc-a2); _phase:c-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 3152.46–4000 K, x(C) 0.43527–0.57533 | 0 | 4 |
 | [FCC_A1](#phase-c-si-fcc-a1); _phase:c-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [GAS](#phase-c-si-gas); _phase:c-si:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 3216.4–4000 K, x(C) 0–1 | 0 | 1 |
 | [HCP_A3](#phase-c-si-hcp-a3); _phase:c-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LIQUID](#phase-c-si-liquid); _phase:c-si:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1682.01–4000 K, x(C) 0–0.55981 | 2 | 4 |
-| [SIC_B3](#phase-c-si-sic-b3); _phase:c-si:sic-b3_ | ZnS (sphalerite) · B3 · cF8 · F-43m (216) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3096.52 K, x(C) 0.5–0.5 | 7 | 4 |
+| [SIC_B3](#phase-c-si-sic-b3); _phase:c-si:sic-b3_ | ZnS (sphalerite) · B3 · cF8 · F-43m (216) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3096.52 K, x(C) 0.5–0.5 | 5 | 4 |
 
 ## DIAMOND_A4 (C–Si)
 
@@ -133,11 +133,10 @@ _assessment that models this phase_
 - Id: `phase:c-si:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 3152.46–4000 K, x(C) 0.43527–0.57533
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-si:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:c-si:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2016.12.271:βSiC(Cubic)  
+Names (5): _corpus: _corpus:phase:c-si:bcc-a2  
 _tdb: _tdb:SiC-17Lia.tdb:BCC_A2, tdb:SiC-20Jia.tdb:BCC_A2, tdb:SiC-91Lac.tdb:BCC_A2, tdb:SiC-96Gro-LB.tdb:BCC_A2  
 
 
@@ -173,11 +172,11 @@ _tdb: _tdb:SiC-17Lia.tdb:BCC_A2, tdb:SiC-20Jia.tdb:BCC_A2, tdb:SiC-91Lac.tdb:BCC
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.jallcom.2016.12.271](https://doi.org/10.1016/j.jallcom.2016.12.271) Song-Mao Liang, Martin Drüe, Artem Kozlov, Markus Rettenmayr, Rainer Schmid-Fetzer, Key experiments and challenging thermodynamic modeling of the Li-Si-C system, Journal of Alloys and Compounds 698, 743-753 (2017).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02664987](https://doi.org/10.1007/BF02664987) J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991).  
 _assessment that models this phase_
 - [doi:10.1016/j.commatsci.2019.109238](https://doi.org/10.1016/j.commatsci.2019.109238) Chao Jiang, Isabella J. van Rooyen, Subhashish Meher, Ab initio study and thermodynamic modeling of the Pd-Si-C system, Computational Materials Science 171, 109238 (2020).  
+_assessment that models this phase_
+- [doi:10.1016/j.jallcom.2016.12.271](https://doi.org/10.1016/j.jallcom.2016.12.271) Song-Mao Liang, Martin Drüe, Artem Kozlov, Markus Rettenmayr, Rainer Schmid-Fetzer, Key experiments and challenging thermodynamic modeling of the Li-Si-C system, Journal of Alloys and Compounds 698, 743-753 (2017).  
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00027-2](https://doi.org/10.1016/S0364-5916%2896%2900027-2) J. Groebner, H.L. Lukas, F. Aldinger, Calphad, 20, 247-54(1996).  
 _assessment that models this phase_
@@ -323,7 +322,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-si:liquid)
 
 Names (6): _corpus: _corpus:phase:c-si:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:SiC-17Lia.tdb:LIQUID, tdb:SiC-20Jia.tdb:LIQUID, tdb:SiC-91Lac.tdb:LIQUID, tdb:SiC-96Gro-LB.tdb:LIQUID  
 
 
@@ -357,7 +356,7 @@ _tdb: _tdb:SiC-17Lia.tdb:LIQUID, tdb:SiC-20Jia.tdb:LIQUID, tdb:SiC-91Lac.tdb:LIQ
 30: CONST LIQUID:L : C SI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/BF02664987](https://doi.org/10.1007/BF02664987) J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991).  
 _assessment that models this phase_
@@ -367,8 +366,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00027-2](https://doi.org/10.1016/S0364-5916%2896%2900027-2) J. Groebner, H.L. Lukas, F. Aldinger, Calphad, 20, 247-54(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SIC_B3 (C–Si)
 
@@ -376,11 +373,11 @@ _reports values for this phase_
 - Structure: ZnS (sphalerite) · B3 · cF8 · F-43m (216); type `st:b3-zns-sphalerite-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: C 0.5000, Si 0.5000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–3096.52 K, x(C) 0.5–0.5
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-si:sic-b3)
 
-Names (7): _corpus: _corpus:phase:c-si:sic-b3  
-_paper: _paper:10.1016/j.jallcom.2016.12.271:SiC, paper:10.1016/j.jallcom.2016.12.271:αSiC(Hex)  
+Names (6): _corpus: _corpus:phase:c-si:sic-b3  
+_paper: _paper:10.1016/j.jallcom.2016.12.271:SiC  
 _tdb: _tdb:SiC-17Lia.tdb:SIC_B3, tdb:SiC-20Jia.tdb:SIC_B3, tdb:SiC-91Lac.tdb:SIC_B3, tdb:SiC-96Gro-LB.tdb:SIC_B3  
 
 

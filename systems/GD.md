@@ -1,10 +1,10 @@
 # Gd system
 
-> Gd system: 35 accepted literature values (formation 20, phase transition 7, crystal structure 6, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd system: 15 accepted literature values (phase transition 7, crystal structure 6, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD.html · Markdown: https://data.orchid-project.org/systems/GD.md
 
-35 accepted literature values from 8 paper(s) (experimental 14, model 17, DFT 1, unspecified 3); 0 calculated phase diagram(s).
+15 accepted literature values from 6 paper(s) (experimental 6, model 6, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD.json) · [CSV](https://data.orchid-project.org/systems/GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD.html) · [Markdown](https://data.orchid-project.org/systems/GD.md)
 
@@ -12,9 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 17 |
-| DFT | 1 |
+| experimental | 6 |
+| model | 6 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
@@ -23,7 +22,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | phase transition | 7 |
-| formation | 20 |
 | crystal structure | 6 |
 
 ## Invariant reactions (literature)
@@ -35,29 +33,6 @@ Table: Invariant reactions reported in the literature for the Gd system (2)
 | 1508.15 | polymorphic: βGd ↔ αGd | αGd: Gd 1 | model | [1] Wang 2009 | Table 3, p. 4, row 5; `ORC-DTJGNMJPNN` |  |
 | 1508.15 | polymorphic: βGd ↔ αGd | αGd: Gd 1 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 3, p. 4, row 4; `ORC-JLOUOP67BN` |  |
 
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Gd system (14)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| Gd3Ru |  | -27.175 kJ/mol-atom |  | DFT |  |  | [2] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 15; `ORC-P7EA2ELA5Y.2e5b96` |  |
-| Gd3Ru |  | -26.599 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 13; `ORC-INS43BVSYP.81a26e` |  |
-| Gd3Ru |  | -23.258 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 14; `ORC-75YMFKH4U6.9e3b96` |  |
-| Gd3Ru |  | -21.447 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023 | Table 2, p. 7, row 10; `ORC-LBYRUHMM2U.b72fdd` |  |
-| Gd3Ru |  | -15.612 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023 | Table 2, p. 7, row 11; `ORC-WIIK4ASMKH.908d4f` |  |
-| Gd3Ru |  | -15.131 kJ/mol-atom |  | model |  |  | [2] Kardellass 2023 | Table 2, p. 7, row 12; `ORC-XEZDK76DL3.56a7bb` |  |
-| GdMg |  | -15.5 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 2003Cac_ | Table 6, p. 10, row 17; `ORC-V5MBZXEJM6.f42d1e` |  |
-| GdMg |  | -7.3 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 15; `ORC-JTEHNOY3U4.01f934` |  |
-| RMg |  | -17 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16; `ORC-JPTAUTJIFP.a93218` |  |
-| RMg |  | -15.5 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 2003Cac_ | Table 6, p. 10, row 17; `ORC-V5MBZXEJM6.c9345c` |  |
-| RMg |  | -7.3 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 15; `ORC-JTEHNOY3U4.a650ec` |  |
-| RMg2 |  | -19.8 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16; `ORC-JPTAUTJIFP.759645` |  |
-| RMg3 |  | -19 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16; `ORC-JPTAUTJIFP.76d058` |  |
-| RMg5 |  | -17 kJ/mol-atom | 298.15 | experimental |  |  | [3] Hampl 2013; _cites ref. 1972Pah_ | Table 6, p. 10, row 16; `ORC-JPTAUTJIFP.b50294` |  |
-
 ## Other properties
 
 ### Phase transition (7)
@@ -66,26 +41,13 @@ Table: Phase transition, Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1508 K | 1508 | polymorphic: Gd; _alloy: Gd 1_ | model | [4] Norgren 2000; _cites Saunders 1998_ | Table 1, p. 4, row 12; `ORC-E2A7DMZQFO` |  |
-| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: _ | model | [5] Cui 2013 | Table 1, p. 2, row 6; `ORC-3WJBBPRNWL` |  |
-| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: _ | experimental | [5] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 4; `ORC-V3QYOWMKGK` |  |
-| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | model | [6] Boukideur 2020 | Table 3, p. 4, row 30; `ORC-3C2CVCGPNP` |  |
-| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | experimental | [6] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 31; `ORC-LATJI4OBAT` |  |
-| Phase transition | 1535 K | 1535 | polymorphic: Gd; _alloy: Gd 1_ | model | [4] Norgren 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 11; `ORC-NN3U47DDXE` |  |
-| Phase transition | 1536 K | 1536 | polymorphic: Gd; _alloy: Gd 1_ | model | [4] Norgren 2000; _cites Huasen 1995_ | Table 1, p. 4, row 13; `ORC-ENM44OOULP` |  |
-
-### Formation (6)
-
-Table: Formation, Gd system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔSf_ | -0.139 J/mol-atom/K |  | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 10; `ORC-LBYRUHMM2U.21cf94` |  |
-| Entropy of formation; _printed: ΔSf_ | -0.056 J/mol-atom/K |  | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 11; `ORC-WIIK4ASMKH.4327aa` |  |
-| Entropy of formation; _printed: ΔSf_ | -0.329 J/mol-atom/K |  | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 12; `ORC-XEZDK76DL3.68a8ed` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -21.307 kJ/mol-atom | 1000 | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 10; `ORC-LBYRUHMM2U.3ba680` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -15.555 kJ/mol-atom | 1000 | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 11; `ORC-WIIK4ASMKH.72ff60` |  |
-| Gibbs energy of formation; _printed: ΔGf at 1000 K_ | -14.802 kJ/mol-atom | 1000 | Gd3Ru; _alloy: Gd 1_ | model | [2] Kardellass 2023 | Table 2, p. 7, row 12; `ORC-XEZDK76DL3.315c59` |  |
+| Phase transition | 1508 K | 1508 | polymorphic: Gd; _alloy: Gd 1_ | model | [2] Norgren 2000; _cites Saunders 1998_ | Table 1, p. 4, row 12; `ORC-E2A7DMZQFO` |  |
+| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: _ | model | [3] Cui 2013 | Table 1, p. 2, row 6; `ORC-3WJBBPRNWL` |  |
+| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: _ | experimental | [3] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 4; `ORC-V3QYOWMKGK` |  |
+| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | model | [4] Boukideur 2020 | Table 3, p. 4, row 30; `ORC-3C2CVCGPNP` |  |
+| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | experimental | [4] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 31; `ORC-LATJI4OBAT` |  |
+| Phase transition | 1535 K | 1535 | polymorphic: Gd; _alloy: Gd 1_ | model | [2] Norgren 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 11; `ORC-NN3U47DDXE` |  |
+| Phase transition | 1536 K | 1536 | polymorphic: Gd; _alloy: Gd 1_ | model | [2] Norgren 2000; _cites Huasen 1995_ | Table 1, p. 4, row 13; `ORC-ENM44OOULP` |  |
 
 ### Crystal structure (6)
 
@@ -93,25 +55,23 @@ Table: Crystal structure, Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.05 Å | 297.15 | (βGd); _(βGd): Gd 1_ | unspecified | [7] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 2; `ORC-C7RXU6CLR3` |  |
-| Lattice a | 3.6336 Å | 298.15 | (αGd); _(αGd): Gd 1_ | unspecified | [7] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1; `ORC-UNKXTPSCFH.5237ed` |  |
-| Lattice a | 4.05 Å | 298.15 | bcc(Gd); _alloy: Gd 1_ | experimental | [8] Cui 2023; _cites Miller 1964_ | Table 1, p. 2, row 1; `ORC-PFG5GJKHRP` |  |
-| Lattice a | 6.36 Å | 298.15 | hcp(Gd); _alloy: Gd 1_ | experimental | [8] Cui 2023; _cites Wakabayashi 1968_ [doi](https://doi.org/10.1143/jpsj.25.227) | Table 1, p. 2, row 2; `ORC-OJYBRIF3RZ.3c61a8` |  |
-| Lattice c | 5.781 Å | 298.15 | (αGd); _(αGd): Gd 1_ | unspecified | [7] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1; `ORC-UNKXTPSCFH.921f6f` |  |
-| Lattice c | 5.78 Å | 298.15 | hcp(Gd); _alloy: Gd 1_ | experimental | [8] Cui 2023; _cites Wakabayashi 1968_ [doi](https://doi.org/10.1143/jpsj.25.227) | Table 1, p. 2, row 2; `ORC-OJYBRIF3RZ.aee03b` |  |
+| Lattice a | 4.05 Å | 297.15 | (βGd); _(βGd): Gd 1_ | unspecified | [5] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 2; `ORC-C7RXU6CLR3` |  |
+| Lattice a | 3.6336 Å | 298.15 | (αGd); _(αGd): Gd 1_ | unspecified | [5] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1; `ORC-UNKXTPSCFH.5237ed` |  |
+| Lattice a | 4.05 Å | 298.15 | bcc(Gd); _alloy: Gd 1_ | experimental | [6] Cui 2023; _cites Miller 1964_ | Table 1, p. 2, row 1; `ORC-PFG5GJKHRP` |  |
+| Lattice a | 6.36 Å | 298.15 | hcp(Gd); _alloy: Gd 1_ | experimental | [6] Cui 2023; _cites Wakabayashi 1968_ [doi](https://doi.org/10.1143/jpsj.25.227) | Table 1, p. 2, row 2; `ORC-OJYBRIF3RZ.3c61a8` |  |
+| Lattice c | 5.781 Å | 298.15 | (αGd); _(αGd): Gd 1_ | unspecified | [5] Alcock 1986; _cites ref. 86Gsc2_ | Table 1, p. 3, row 1; `ORC-UNKXTPSCFH.921f6f` |  |
+| Lattice c | 5.78 Å | 298.15 | hcp(Gd); _alloy: Gd 1_ | experimental | [6] Cui 2023; _cites Wakabayashi 1968_ [doi](https://doi.org/10.1143/jpsj.25.227) | Table 1, p. 2, row 2; `ORC-OJYBRIF3RZ.aee03b` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. S.L. Wang, C.P. Wang, X.J. Liu, K. Ishida, Thermodynamic assessments of the Ag–Gd and Ag–Nd systems, Journal of Alloys and Compounds 476, 245-252 (2009). [doi:10.1016/j.jallcom.2008.09.129](https://doi.org/10.1016/j.jallcom.2008.09.129)
-2. S. Kardellass, V. P. Vassiliev, K. Mahdouk, N. Laaroussi, N. Selhaoui, Excess Thermodynamic Properties of Solutions in Ln-Ru (Ln = Nd, Gd, Dy) Binary Systems Based on Quadratic, Exponential and Combined Models Supported by Ab-Initio Calculations, J. Phase Equilib. Diffus. 44, 43-75 (2023). [doi:10.1007/s11669-022-01023-x](https://doi.org/10.1007/s11669-022-01023-x)
-3. M. Hampl, C. Blawert, M.R. Silva Campos, N. Hort, Q. Peng, K.U. Kainer et al., Thermodynamic assessment and experimental study of Mg–Gd alloys, Journal of Alloys and Compounds 581, 166-177 (2013). [doi:10.1016/j.jallcom.2013.07.042](https://doi.org/10.1016/j.jallcom.2013.07.042)
-4. Susanne Norgren, Thermodynamic assessment of the Ho-Tb, Ho-Dy, Ho-Er, Er-Tb, and Er-Dy systems, JPE 21, 148-156 (2000). [doi:10.1361/105497100770340200](https://doi.org/10.1361/105497100770340200)
-5. Jiaxin Cui, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Gd–Pb system using random solution and associate models, Calphad 42, 1-5 (2013). [doi:10.1016/j.calphad.2013.06.002](https://doi.org/10.1016/j.calphad.2013.06.002)
-6. M. AiT Boukideur, N. Selhaoui, F.Z. chrifi Alaoui, A. Iddaoudi, K. Achgar, Thermodynamic modeling of the Ga-Gd binary system, Materials Today: Proceedings 24, 71-75 (2020). [doi:10.1016/j.matpr.2019.07.598](https://doi.org/10.1016/j.matpr.2019.07.598)
-7. C. B. Alcock, V. P. Itkin, The Ba−Ca (Barium-Calcium) system, Bulletin of Alloy Phase Diagrams 7, 338-340 (1986). [doi:10.1007/bf02873004](https://doi.org/10.1007/bf02873004)
-8. Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023). [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1)
+2. Susanne Norgren, Thermodynamic assessment of the Ho-Tb, Ho-Dy, Ho-Er, Er-Tb, and Er-Dy systems, JPE 21, 148-156 (2000). [doi:10.1361/105497100770340200](https://doi.org/10.1361/105497100770340200)
+3. Jiaxin Cui, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Gd–Pb system using random solution and associate models, Calphad 42, 1-5 (2013). [doi:10.1016/j.calphad.2013.06.002](https://doi.org/10.1016/j.calphad.2013.06.002)
+4. M. AiT Boukideur, N. Selhaoui, F.Z. chrifi Alaoui, A. Iddaoudi, K. Achgar, Thermodynamic modeling of the Ga-Gd binary system, Materials Today: Proceedings 24, 71-75 (2020). [doi:10.1016/j.matpr.2019.07.598](https://doi.org/10.1016/j.matpr.2019.07.598)
+5. C. B. Alcock, V. P. Itkin, The Ba−Ca (Barium-Calcium) system, Bulletin of Alloy Phase Diagrams 7, 338-340 (1986). [doi:10.1007/bf02873004](https://doi.org/10.1007/bf02873004)
+6. Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023). [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1)
 
 ## Please cite
 

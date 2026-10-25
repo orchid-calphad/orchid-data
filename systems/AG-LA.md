@@ -67,13 +67,13 @@ Table: Invariant reactions reported in the literature for the Ag–La system (12
 | 1099 | Liq.+Ag51La14->Ag5La | L: La 0.104; Ag51La14: La 0.215385; Ag5La: La 0.166667 | model | [1] Li 2000 | Table 2, p. 3, row 12; `ORC-JU5BC7VTQ4` |  |
 | 1098 | Liq.+Ag51La14->Ag5La | L: La 0.14; Ag51La14: La 0.215385; Ag5La: La 0.166667 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 13; `ORC-BET5DOMNDZ` |  |
 | 1093 | Liq.+Ag51La14->Ag5La | L: La 0.1189; Ag51La14: La 0.215385; Ag5La: La 0.166667 | unspecified | [1] Li 2000; _cites Heumann 1982_ [doi](https://doi.org/10.1515/ijmr-1982-730308) | Table 2, p. 3, row 14; `ORC-6DVCJHCDWJ` |  |
-| 1080 | Liq.->Ag2La+AgLa | L: La 0.405; Ag2La: La 0.333333; AgLa: La 0.5 | model | [1] Li 2000 | Table 2, p. 3, row 5; `ORC-IAILMWL6S4` |  |
-| 1073 | Liq.->Ag2La+AgLa | L: La 0.43; Ag2La: La 0.333333; AgLa: La 0.5 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 6; `ORC-FRY6FSPN7A` |  |
-| 1063 | Liq.->Ag+Ag5La | L: La 0.1; Ag5La: La 0.166667 | unspecified | [1] Li 2000; _cites Heumann 1982_ [doi](https://doi.org/10.1515/ijmr-1982-730308) | Table 2, p. 3, row 17; `ORC-6GXQ3SRSF3` |  |
-| 1063 | Liq.->Ag+Ag5La | L: La 0.1; Ag5La: La 0.166667 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 16; `ORC-73NLLUBU5X` |  |
-| 1059 | Liq.->Ag+Ag5La | L: La 0.081; Ag5La: La 0.166667 | model | [1] Li 2000 | Table 2, p. 3, row 15; `ORC-DHB3QNX3Y6` |  |
-| 808 | Liq.->AgLa+β-La | L: La 0.765; AgLa: La 0.5 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 2; `ORC-WBSKE66K4B` |  |
-| 802.6 | Liq.->AgLa+β-La | L: La 0.76; AgLa: La 0.5 | model | [1] Li 2000 | Table 2, p. 3, row 1; `ORC-XTRY2MYQNT` |  |
+| 1080 | eutectic: Liq.->Ag2La+AgLa | L: La 0.405; Ag2La: La 0.333333; AgLa: La 0.5 | model | [1] Li 2000 | Table 2, p. 3, row 5; `ORC-IAILMWL6S4` |  |
+| 1073 | eutectic: Liq.->Ag2La+AgLa | L: La 0.43; Ag2La: La 0.333333; AgLa: La 0.5 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 6; `ORC-FRY6FSPN7A` |  |
+| 1063 | eutectic: Liq.->Ag+Ag5La | L: La 0.1; Ag5La: La 0.166667 | unspecified | [1] Li 2000; _cites Heumann 1982_ [doi](https://doi.org/10.1515/ijmr-1982-730308) | Table 2, p. 3, row 17; `ORC-6GXQ3SRSF3` |  |
+| 1063 | eutectic: Liq.->Ag+Ag5La | L: La 0.1; Ag5La: La 0.166667 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 16; `ORC-73NLLUBU5X` |  |
+| 1059 | eutectic: Liq.->Ag+Ag5La | L: La 0.081; Ag5La: La 0.166667 | model | [1] Li 2000 | Table 2, p. 3, row 15; `ORC-DHB3QNX3Y6` |  |
+| 808 | eutectic: Liq.->AgLa+β-La | L: La 0.765; AgLa: La 0.5 | experimental | [1] Li 2000; _cites Delfino 1974_ [doi](https://doi.org/10.1515/ijmr-1974-651210) | Table 2, p. 3, row 2; `ORC-WBSKE66K4B` |  |
+| 802.6 | eutectic: Liq.->AgLa+β-La | L: La 0.76; AgLa: La 0.5 | model | [1] Li 2000 | Table 2, p. 3, row 1; `ORC-XTRY2MYQNT` |  |
 
 ## Other properties
 

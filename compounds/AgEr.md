@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of AgEr
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -44.9 | kJ/mol-atom | 3.2 | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -44 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -34.488 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -34.488 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

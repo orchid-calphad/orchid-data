@@ -1,10 +1,10 @@
 # Fe–Ti system
 
-> Fe–Ti system: 503 accepted literature values (invariant reaction 189, formation 126, mixing / partial 96, activity / EMF / Gibbs energy 72) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ti system: 501 accepted literature values (invariant reaction 188, formation 126, mixing / partial 96, activity / EMF / Gibbs energy 72) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TI.html · Markdown: https://data.orchid-project.org/systems/FE-TI.md
 
-503 accepted literature values from 10 paper(s) (experimental 108, model 305, DFT 40, unspecified 50); 16 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+501 accepted literature values from 9 paper(s) (experimental 107, model 304, DFT 40, unspecified 50); 16 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TI.json) · [CSV](https://data.orchid-project.org/systems/FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-09Key.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TI.html) · [Markdown](https://data.orchid-project.org/systems/FE-TI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 108 |
-| model | 305 |
+| experimental | 107 |
+| model | 304 |
 | DFT | 40 |
 | unspecified | 50 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 189 |
-| phase transition | 20 |
+| invariant reaction | 188 |
+| phase transition | 19 |
 | formation | 126 |
 | mixing / partial | 96 |
 | activity / EMF / Gibbs energy | 72 |
@@ -198,17 +198,17 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Ti system (189)
+Table: Invariant reactions reported in the literature for the Fe–Ti system (188)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1803 | congruent melting: Liquid->λ | Liquid: Fe 0.666667, Ti 0.333333; λ: Fe 0.666667, Ti 0.333333 | unspecified | [1] Kumar 1994; _cites ref. 54Nis_ | Table 5, p. 8, row 2; `ORC-KGPXAP4MNL` |  |
 | 1753 | congruent melting: Liquid->λ | Liquid: Fe 0.666667, Ti 0.333333; λ: Fe 0.666667, Ti 0.333333 | unspecified | [1] Kumar 1994; _cites ref. 56Kor_ | Table 5, p. 8, row 3; `ORC-DRTU3JHFSO` |  |
-| 1710 | Liquid↔Fe2Ti | Fe2Ti: Ti 0.33; L: Ti 0.33 | model | [2] BO 2012; _cites ref. 7_ | Table 2, p. 5, row 7; `ORC-GPICLR5P4E` |  |
+| 1710 | congruent melting: Liquid↔Fe2Ti | Fe2Ti: Ti 0.33; L: Ti 0.33 | model | [2] BO 2012; _cites ref. 7_ | Table 2, p. 5, row 7; `ORC-GPICLR5P4E` |  |
 | 1710 | congruent melting: L -> C14 | L: Fe 0.67; C14: Fe 0.67 | unspecified | [3] Witusiewicz 2019; _cites Hari 1999_ | Table 4, p. 17, row 4; `ORC-V5LPHNELPP` |  |
 | 1707 | congruent melting: L -> C14 | L: Fe 0.672; C14: Fe 0.672 | model | [3] Witusiewicz 2019; _cites Guo 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.06.010) | Table 4, p. 17, row 8; `ORC-LYTTJGYWUT` |  |
 | 1706 | congruent melting: L -> C14 | L: Fe 0.671; C14: Fe 0.671 | model | [3] Witusiewicz 2019; _cites Bo 2012_ [doi](https://doi.org/10.1016/s1003-6326%2811%2961450-7) | Table 4, p. 17, row 9; `ORC-CVXP4DGIQP` |  |
-| 1706 | Liquid↔Fe2Ti | Fe2Ti: Ti 0.329; L: Ti 0.329 | model | [2] BO 2012 | Table 2, p. 5, row 8; `ORC-MEEOH7DFCJ` |  |
+| 1706 | congruent melting: Liquid↔Fe2Ti | Fe2Ti: Ti 0.329; L: Ti 0.329 | model | [2] BO 2012 | Table 2, p. 5, row 8; `ORC-MEEOH7DFCJ` |  |
 | 1704 | congruent melting: Congruent melting of Fe2Ti | Fe2Ti: Ti 0.342 | model | [4] Jonsson 1998 | Table IV, p. 5, row 6; `ORC-2JWHO4K3GH` |  |
 | 1704 | congruent melting: L -> C14 | L: Fe 0.658; C14: Fe 0.658 | model | [3] Witusiewicz 2019; _cites Jonsson 1998_ [doi](https://doi.org/10.1007/s11663-998-0113-z) | Table 4, p. 17, row 6; `ORC-RAQ5S25MP2` |  |
 | 1703 | congruent melting: L -> C14 | L: Fe 0.664; C14: Fe 0.664 | unspecified | [3] Witusiewicz 2019; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.matchemphys.2011.07.071) | Table 4, p. 17, row 7; `ORC-JKCX7DOW2H` |  |
@@ -220,8 +220,8 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 | 1700 | congruent melting: Liquid->λ | Liquid: Fe 0.666667, Ti 0.333333; λ: Fe 0.666667, Ti 0.333333 | model | [1] Kumar 1994; _cites ref. 82Kub_ | Table 5, p. 8, row 5; `ORC-R2FAQPXUJ5` |  |
 | 1700 | congruent melting: Liquid->λ | Liquid: Ti 0.336; λ: Ti 0.336 | model | [1] Kumar 1994 | Table 5, p. 8, row 1; `ORC-SFUMUX23OY` |  |
 | 1700 | congruent melting: Congruent melting of Fe2Ti | Fe2Ti: Fe 0.666667, Ti 0.333333 | experimental | [4] Jonsson 1998; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table IV, p. 5, row 4; `ORC-UAXNYOAWIM` |  |
-| 1700 | Liquid↔Fe2Ti | Liquid: Fe 0.666667, Ti 0.333333; Fe2Ti: Fe 0.666667, Ti 0.333333 | unspecified | [2] BO 2012; _cites ref. 26_ | Table 2, p. 5, row 5; `ORC-WY5M6NUK3E` |  |
-| 1696 | Liquid↔Fe2Ti | Liquid: Fe 0.666667, Ti 0.333333; Fe2Ti: Fe 0.666667, Ti 0.333333 | unspecified | [2] BO 2012; _cites ref. 22_ | Table 2, p. 5, row 6; `ORC-3IUPB6PHX7` |  |
+| 1700 | congruent melting: Liquid↔Fe2Ti | Liquid: Fe 0.666667, Ti 0.333333; Fe2Ti: Fe 0.666667, Ti 0.333333 | unspecified | [2] BO 2012; _cites ref. 26_ | Table 2, p. 5, row 5; `ORC-WY5M6NUK3E` |  |
+| 1696 | congruent melting: Liquid↔Fe2Ti | Liquid: Fe 0.666667, Ti 0.333333; Fe2Ti: Fe 0.666667, Ti 0.333333 | unspecified | [2] BO 2012; _cites ref. 22_ | Table 2, p. 5, row 6; `ORC-3IUPB6PHX7` |  |
 | 1696 | congruent melting: Congruent melting of Fe2Ti | Fe2Ti: Fe 0.666667, Ti 0.333333 | experimental | [4] Jonsson 1998; _cites Booker 1979_ | Table IV, p. 5, row 5; `ORC-KTWT6BXJVT` |  |
 | 1696 | congruent melting: L -> C14 |  | experimental | [3] Witusiewicz 2019; _cites Booker 1979_ | Table 4, p. 17, row 3; `ORC-KUUR2YVDVU` |  |
 | 1692.5 | congruent melting: L -> C14 |  | model | [3] Witusiewicz 2019; _cites Dumitrescu 1998_ [doi](https://doi.org/10.1361/105497198770341923) | Table 4, p. 17, row 5; `ORC-PLX64YKAVK` |  |
@@ -233,7 +233,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 | 1599 | Bcc(Fe) + L + Fe2Ti | Bcc(Fe): Ti 0.103; L: Ti 0.17; Fe2Ti: Ti 0.25 | experimental | [4] Jonsson 1998; _cites Booker 1979_ | Table IV, p. 5, row 2; `ORC-FR4YF6WNA5` |  |
 | 1599 | Liquid↔BCC_Fe+Fe2Ti | Liquid: Ti 0.17; BCC_Fe: Ti 0.103; Fe2Ti: Ti 0.25 | unspecified | [2] BO 2012; _cites ref. 22_ | Table 2, p. 5, row 2; `ORC-SLPDORUS3O` |  |
 | 1598 | eutectic: Liquid->α+λ | λ: Fe 0.666667, Ti 0.333333 | unspecified | [1] Kumar 1994; _cites ref. 65Bor_ | Table 5, p. 8, row 19; `ORC-MBANBSWO6Y` |  |
-| 1593.4 | peritectic: Liquid + Laves-C14 -> FeTi\* | Liquid: Ti 0.506; Laves-C14: Ti 0.334; FeTi\*: Ti 0.5 | model | [6] Hämäläinen 1998 | Table I, p. 223, row 3; `ORC-5CXLPIRYCO` |  |
+| 1593.4 | peritectic: Liquid + Laves-C14 -> FeTi\* | Liquid: Ti 0.506; Laves-C14: Ti 0.334; FeTi\*: Ti 0.5 | model | [6] (ed.) 1998 | Table I, p. 223, row 3; `ORC-5CXLPIRYCO` |  |
 | 1593.4 | Fe2Ti + FeTi + L | Fe2Ti: Ti 0.333333; FeTi: Ti 0.5 | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 4, p. 4, row 21; `ORC-7GYYTDUQDA` |  |
 | 1593.15 | peritectic: L + Fe2Ti -> FeTi | L: Ti 0.391; Fe2Ti: Ti 0.514; FeTi: Ti 0.5 | experimental | [7] Wang 2011; _cites Jonsson 1998_ [doi](https://doi.org/10.1007/s11663-998-0113-z) | Table 3, p. 6, row 2; `ORC-J3X67YOT5F` |  |
 | 1593 | peritectic: L + C14 -> B2 | L: Fe 0.486; C14: Fe 0.609; B2: Fe 0.5 | model | [3] Witusiewicz 2019; _cites Jonsson 1998_ [doi](https://doi.org/10.1007/s11663-998-0113-z) | Table 4, p. 17, row 16; `ORC-B2XM7JKVJZ` |  |
@@ -266,7 +266,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 | 1588 | peritectic: L + C14 -> B2 | L: Fe 0.5026; C14: Fe 0.626; B2: Fe 0.5027 | model | [3] Witusiewicz 2019 | Table 4, p. 17, row 21; `ORC-SZF46LPVG6` |  |
 | 1587.15 | peritectic: L + Fe2Ti -> FeTi | L: Ti 0.505; Fe2Ti: Ti 0.361; FeTi: Ti 0.5 | model | [7] Wang 2011 | Table 3, p. 6, row 4; `ORC-MAJAJU3WNN` |  |
 | 1583 | peritectic: λ+Liquid->FeTi | λ: Fe 0.666667, Ti 0.333333; FeTi: Fe 0.5, Ti 0.5 | unspecified | [1] Kumar 1994; _cites ref. 59Mur_ | Table 5, p. 8, row 10; `ORC-CBOCMOFPPC` |  |
-| 1579.95 | L -> β-Fe + C14 | L: Ti 0.1465; β-Fe: Ti 0.0803; C14: Ti 0.2643 | model | [9] Liang 2024 | Table 5, p. 10, row 5; `ORC-ZQ4LEW4ZLL` |  |
+| 1579.95 | eutectic: L -> β-Fe + C14 | L: Ti 0.1465; β-Fe: Ti 0.0803; C14: Ti 0.2643 | model | [9] Liang 2024 | Table 5, p. 10, row 5; `ORC-ZQ4LEW4ZLL` |  |
 | 1579.8 | L + C14 -> TiFe_B2 | L: Ti 0.516; C14: Ti 0.3766; TiFe_B2: Ti 0.4971 | model | [9] Liang 2024 | Table 5, p. 10, row 3; `ORC-BKJ7NKJKJ4` |  |
 | 1578 | Liquid+Fe2Ti↔FeTi | Liquid: Ti 0.507; Fe2Ti: Ti 0.364; FeTi: Ti 0.5 | model | [2] BO 2012; _cites ref. 7_ | Table 2, p. 5, row 11; `ORC-N4WE25SM6A` |  |
 | 1578 | peritectic: L + C14 -> B2 | L: Fe 0.493; C14: Fe 0.636; B2: Fe 0.5 | unspecified | [3] Witusiewicz 2019; _cites Hari 1999_ | Table 4, p. 17, row 17; `ORC-TU4APVEOMN` |  |
@@ -282,7 +282,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 | 1566 | eutectic: L -> A2 + C14 | L: Fe 0.844; A2: Fe 0.902; C14: Fe 0.725 | unspecified | [3] Witusiewicz 2019; _cites Hari 1999_ | Table 4, p. 17, row 27; `ORC-DPC5KQP3LN` |  |
 | 1566 | eutectic: Liquid->α+λ | Liquid: Ti 0.155; α: Ti 0.1; λ: Ti 0.265 | model | [1] Kumar 1994 | Table 5, p. 8, row 15; `ORC-SK6TZPTVF2` |  |
 | 1565.4 | bcc(Fe) + L + Fe2Ti | Fe2Ti: Ti 0.333333 | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 4, p. 4, row 6; `ORC-LWL2CPDFT6` |  |
-| 1564.4 | eutectic: Liquid -> bcc-A2 + Laves-C14 | Liquid: Ti 0.152; bcc-A2: Ti 0.099; Laves-C14: Ti 0.267 | model | [6] Hämäläinen 1998 | Table I, p. 223, row 5; `ORC-FOIT7RDUEA` |  |
+| 1564.4 | eutectic: Liquid -> bcc-A2 + Laves-C14 | Liquid: Ti 0.152; bcc-A2: Ti 0.099; Laves-C14: Ti 0.267 | model | [6] (ed.) 1998 | Table I, p. 223, row 5; `ORC-FOIT7RDUEA` |  |
 | 1564.4 | bcc(Fe) + L + Fe2Ti | Fe2Ti: Ti 0.333333 | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 4, p. 4, row 5; `ORC-UMNQL3STLK` |  |
 | 1564.15 | eutectic: L -> αFe + Fe2Ti | L: Ti 0.164; αFe: Ti 0.113; Fe2Ti: Ti 0.306 | experimental | [7] Wang 2011; _cites Jonsson 1998_ [doi](https://doi.org/10.1007/s11663-998-0113-z) | Table 3, p. 6, row 6; `ORC-URDFWDIZ56` |  |
 | 1564 | Bcc(Fe) + L + Fe2Ti | Bcc(Fe): Ti 0.113; L: Ti 0.164; Fe2Ti: Ti 0.306 | model | [4] Jonsson 1998 | Table IV, p. 5, row 3; `ORC-2JPJJKZYYG` |  |
@@ -310,7 +310,6 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 | 1559 | Liquid↔BCC_Fe+Fe2Ti | Liquid: Ti 0.151; BCC_Fe: Ti 0.09; Fe2Ti: Ti 0.26 | model | [2] BO 2012 | Table 2, p. 5, row 4; `ORC-SVY5QVPGM4` |  |
 | 1558 | eutectic: L -> A2 + C14 |  | experimental | [3] Witusiewicz 2019 | Table 4, p. 17, row 31; `ORC-ELEL6YOZW7` |  |
 | 1557 | eutectic: L -> A2 + C14 | L: Fe 0.842; A2: Fe 0.905; C14: Fe 0.727 | model | [3] Witusiewicz 2019 | Table 4, p. 17, row 32; `ORC-BPHBW45SIP` |  |
-| 1413 | peritectic: liq þFe2Ti-bccþFeTi |  | experimental | [10] Guo 2012; _cites Massicot 2010_ [doi](https://doi.org/10.3139/146.110379) | p. 2; `ORC-LWBRIC5N4Q` | “And a tentative liquidus projection with a quasi-peritectic reaction liq þFe2Ti-bccþFeTi at 1413 K was presented.” |
 | 1363 | eutectic: Liquid->FeTi+α | FeTi: Fe 0.5, Ti 0.5 | unspecified | [1] Kumar 1994; _cites ref. 65Bor_ | Table 5, p. 8, row 25; `ORC-HX3SWIFLSA` |  |
 | 1359 | FeTi + L + bcc(Ti) | FeTi: Ti 0.5 | experimental | [5] Dumitrescu 1998; _cites Booker 1979_ | Table 4, p. 4, row 25; `ORC-2D6EQMCVQV` |  |
 | 1359 | Liquid↔FeTi+BCC_Ti | Liquid: Ti 0.71; FeTi: Ti 0.52; BCC_Ti: Ti 0.77 | unspecified | [2] BO 2012; _cites ref. 22_ | Table 2, p. 5, row 14; `ORC-FJMFZICXGT` |  |
@@ -345,12 +344,12 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 | 1351 | FeTi + L + bcc(Ti) | FeTi: Ti 0.5 | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 4, p. 4, row 30; `ORC-JNJVAERANE` |  |
 | 1351 | eutectic: Liquid->FeTi+α | Liquid: Ti 0.711; FeTi: Ti 0.5; α: Ti 0.77 | model | [1] Kumar 1994 | Table 5, p. 8, row 22; `ORC-KFV6NLKSXF` |  |
 | 1349.3 | FeTi + L + bcc(Ti) | FeTi: Ti 0.5 | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 4, p. 4, row 29; `ORC-HDMMCZMZ6I` |  |
-| 1349.3 | eutectic: Liquid -> FeTi\* + bcc-A2 | Liquid: Ti 0.712; FeTi\*: Ti 0.5; bcc-A2: Ti 0.772 | model | [6] Hämäläinen 1998 | Table I, p. 223, row 1; `ORC-LD5ZZRAYCW` |  |
+| 1349.3 | eutectic: Liquid -> FeTi\* + bcc-A2 | Liquid: Ti 0.712; FeTi\*: Ti 0.5; bcc-A2: Ti 0.772 | model | [6] (ed.) 1998 | Table I, p. 223, row 1; `ORC-LD5ZZRAYCW` |  |
 | 1346.15 | eutectic: L -> FeTi + βTi | L: Ti 0.718; FeTi: Ti 0.5; βTi: Ti 0.761 | experimental | [7] Wang 2011; _cites Jonsson 1998_ [doi](https://doi.org/10.1007/s11663-998-0113-z) | Table 3, p. 6, row 10; `ORC-CB2BUDRLSK` |  |
 | 1346 | FeTi + L + bcc(Ti) | FeTi: Ti 0.5 | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ [doi](https://doi.org/10.1007/s11663-998-0113-z) | Table 4, p. 4, row 31; `ORC-FHPIFXHGGF` |  |
 | 1346 | FeTi + L + Bcc(Ti) | FeTi: Ti 0.5; L: Ti 0.718; Bcc(Ti): Ti 0.761 | model | [4] Jonsson 1998 | Table IV, p. 5, row 12; `ORC-HHU5HZQAMY` |  |
 | 1346 | eutectic: L -> A2 + B2 | L: Fe 0.282; A2: Fe 0.239; B2: Fe 0.5 | model | [3] Witusiewicz 2019; _cites Jonsson 1998_ [doi](https://doi.org/10.1007/s11663-998-0113-z) | Table 4, p. 17, row 38; `ORC-YHJDZXIF35` |  |
-| 1339.4 | L -> β-Ti + TiFe_B2 | L: Ti 0.7166; β-Ti: Ti 0.7711; TiFe_B2: Ti 0.5209 | model | [9] Liang 2024 | Table 5, p. 10, row 1; `ORC-GJVIIQY4A7` |  |
+| 1339.4 | eutectic: L -> β-Ti + TiFe_B2 | L: Ti 0.7166; β-Ti: Ti 0.7711; TiFe_B2: Ti 0.5209 | model | [9] Liang 2024 | Table 5, p. 10, row 1; `ORC-GJVIIQY4A7` |  |
 | 1335.8 | FeTi + L + bcc(Ti) | FeTi: Ti 0.5 | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 4, p. 4, row 28; `ORC-UR76YORMGP` |  |
 | 1052 | peritectic: A2+C14 -> A2^f |  | experimental | [3] Witusiewicz 2019 | Table 4, p. 17, row 56; `ORC-QCCJVWF27I` |  |
 | 1050.5 | peritectic: A2+C14 -> A2^f | A2: Fe 0.98 | experimental | [3] Witusiewicz 2019; _cites Arrott 1959_ [doi](https://doi.org/10.1063/1.2185982) | Table 4, p. 17, row 55; `ORC-AVY7FSJBYE` |  |
@@ -378,7 +377,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 | 856 | BCC_Ti↔FeTi+HCP_Ti | BCC_Ti: Ti 0.865; FeTi: Ti 0.511; HCP_Ti: Ti 0.9995 | model | [2] BO 2012 | Table 2, p. 5, row 19; `ORC-G3Z2UCUKIP` |  |
 | 853 | eutectoid: A2 -> A3 + B2 | A2: Fe 0.141; A3: Fe 7.000e-4; B2: Fe 0.488 | model | [3] Witusiewicz 2019; _cites Guo 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.06.010) | Table 4, p. 17, row 52; `ORC-6QCGA2NLXC` |  |
 | 850 | FeTi + bcc(Ti) + cph(Ti) | FeTi: Ti 0.5 | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 4, p. 4, row 34; `ORC-NY3DDKNLRT` |  |
-| 849.4 | eutectoid: bcc-A2 -> FeTi\* + hcp-A3 | bcc-A2: Ti 0.877; FeTi\*: Ti 0.5; hcp-A3: Ti 0.999 | model | [6] Hämäläinen 1998 | Table I, p. 223, row 2; `ORC-IKPWVMRPVX` |  |
+| 849.4 | eutectoid: bcc-A2 -> FeTi\* + hcp-A3 | bcc-A2: Ti 0.877; FeTi\*: Ti 0.5; hcp-A3: Ti 0.999 | model | [6] (ed.) 1998 | Table I, p. 223, row 2; `ORC-IKPWVMRPVX` |  |
 | 849.4 | FeTi + bcc(Ti) + cph(Ti) | FeTi: Ti 0.5 | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 4, p. 4, row 35; `ORC-VOUCCVJC4T` |  |
 | 848 | BCC_Ti↔FeTi+HCP_Ti | FeTi: Fe 0.5, Ti 0.5 | unspecified | [2] BO 2012; _cites ref. 12_ | Table 2, p. 5, row 17; `ORC-7XQPZ23ZIQ` |  |
 | 848 | eutectoid: A2 -> A3 + B2 |  | experimental | [3] Witusiewicz 2019; _cites R 1952_ | Table 4, p. 17, row 45; `ORC-AORNKM5LCI` |  |
@@ -529,16 +528,15 @@ Table: Enthalpies of formation, Fe–Ti system (126)
 
 ## Other properties
 
-### Phase transition (20)
+### Phase transition (19)
 
 Table: Phase transition, Fe–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1043 K | 1043 | magnetic | model | [1] Kumar 1994 | p. 11; `ORC-WWJAVLRDZF` | “The computed phase diagram shows that the ferromagnetic transition of the Fe-rich a phase at about 1043 K (770 "c) significantly intluences the disposition of (a+X\]/n phase boundary in this temperature region.” |
-| Phase transition | 1063.3 K | 1063.3 | congruent transformation: hcp-A3 -> bcc-A2; _hcp-A3: Ti 0.224; bcc-A2: Ti 0.224_ | model | [6] Hämäläinen 1998 | Table I, p. 225, row 1; `ORC-4XJYTXZPOK` |  |
-| Phase transition | 1296 K | 1296 | congruent melting: bcc-A2 -> Liquid; _bcc-A2: Ti 0.12; L: Ti 0.12_ | model | [6] Hämäläinen 1998 | Table I, p. 225, row 2; `ORC-2HHESCTSNP` |  |
-| Phase transition | 1589 K | 1589 | h+LIquid\*FeTi | model | [1] Kumar 1994 | p. 6; `ORC-RHH6HTSA5H` | “The per-hectic formaUon of FeTi (h+LIquid\*FeTi) takes place at 1589 K (1316 "C).” |
+| Phase transition | 1063.3 K | 1063.3 | congruent transformation: hcp-A3 -> bcc-A2; _hcp-A3: Ti 0.224; bcc-A2: Ti 0.224_ | model | [6] (ed.) 1998 | Table I, p. 225, row 1; `ORC-4XJYTXZPOK` |  |
+| Phase transition | 1296 K | 1296 | congruent melting: bcc-A2 -> Liquid; _bcc-A2: Ti 0.12; L: Ti 0.12_ | model | [6] (ed.) 1998 | Table I, p. 225, row 2; `ORC-2HHESCTSNP` |  |
 | Phase transition | 1692.5 K | 1692.5 | congruent transformation: Cong. melting of Fe2Ti; _Fe2Ti: Ti 0.333333_ | model | [5] Dumitrescu 1998 | Table 4, p. 4, row 16; `ORC-MR5XMGE6D2` |  |
 | Phase transition | 1696 K | 1696 | congruent transformation: Cong. melting of Fe2Ti; _Fe2Ti: Ti 0.333333_ | experimental | [5] Dumitrescu 1998; _cites Booker 1979_ | Table 4, p. 4, row 10; `ORC-F3T77FSUDO` |  |
 | Phase transition | 1698 K | 1698 | L \<=> Fe2Ti; _L: Ti 0.331; Fe2Ti: Ti 0.331_ | model | [8] Santhy 2021 | Table 7, p. 6, row 1; `ORC-NMA3U7ADIL` |  |
@@ -552,7 +550,7 @@ Table: Phase transition, Fe–Ti system
 | Phase transition | 1704 K | 1704 | congruent transformation: Cong. melting of Fe2Ti; _Fe2Ti: Ti 0.333333_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ [doi](https://doi.org/10.1007/s11663-998-0113-z) | Table 4, p. 4, row 15; `ORC-DGQ5C7W6ZC` |  |
 | Phase transition | 1704.15 K | 1704.15 | congruent melting: L -> Fe2Ti; _L: Ti 0.342; Fe2Ti: Ti 0.333333_ | experimental | [7] Wang 2011; _cites Jonsson 1998_ [doi](https://doi.org/10.1007/s11663-998-0113-z) | Table 3, p. 6, row 18; `ORC-Z22EDCRG74` |  |
 | Phase transition | 1706.3 K | 1706.3 | congruent transformation: Cong. melting of Fe2Ti; _Fe2Ti: Ti 0.333333_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 4, p. 4, row 13; `ORC-64TL4L4RAL` |  |
-| Phase transition | 1707 K | 1707 | congruent transformation: Laves-C14 -> bcc-A2; _Laves-C14: Ti 0.333; bcc-A2: Ti 0.333_ | model | [6] Hämäläinen 1998 | Table I, p. 223, row 4; `ORC-WM2LQNUVYJ` |  |
+| Phase transition | 1707 K | 1707 | congruent transformation: Laves-C14 -> bcc-A2; _Laves-C14: Ti 0.333; bcc-A2: Ti 0.333_ | model | [6] (ed.) 1998 | Table I, p. 223, row 4; `ORC-WM2LQNUVYJ` |  |
 | Phase transition | 1712.2 K | 1712.2 | congruent transformation: Cong. melting of Fe2Ti; _Fe2Ti: Ti 0.333333_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 4, p. 4, row 12; `ORC-W2J57HNHXK` |  |
 | Phase transition | 1733.96 K | 1733.96 | L -> C14; _L: Ti 0.3445; C14: Ti 0.3445_ | model | [9] Liang 2024 | Table 5, p. 10, row 4; `ORC-N6PO4C2TKC` |  |
 
@@ -747,11 +745,10 @@ Reporting papers the values were read from (a value cited from another work name
 3. V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019). [doi:10.1016/j.jallcom.2019.05.341](https://doi.org/10.1016/j.jallcom.2019.05.341)
 4. Stefan Jonsson, Assessment of the Fe-Ti system, Metall Mater Trans B 29, 361-370 (1998). [doi:10.1007/s11663-998-0113-z](https://doi.org/10.1007/s11663-998-0113-z)
 5. L. F. S. Dumitrescu, M. Hillert, N. Sounders, Comparison of Fe-Ti assessments, JPE 19, 441-448 (1998). [doi:10.1361/105497198770341923](https://doi.org/10.1361/105497198770341923)
-6. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+6. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 7. C.P. Wang, J.P. Zheng, Y. Yu, H.F. Hu, X.J. Liu, Experimental investigation and thermodynamic calculation of the phase equilibria in the Fe–Nb–Ti ternary system, Materials Chemistry and Physics 130, 806-814 (2011). [doi:10.1016/j.matchemphys.2011.07.071](https://doi.org/10.1016/j.matchemphys.2011.07.071)
 8. K. Santhy, K.C. Hari Kumar, Thermodynamic modelling of magnetic laves phase in Fe–Ti system using first principle method, Intermetallics 128, 106978 (2021). [doi:10.1016/j.intermet.2020.106978](https://doi.org/10.1016/j.intermet.2020.106978)
 9. Zhi Liang, Ursula Kattner, Kamal Choudharry, Francesca Tavazza, Carelyn Campbell, Thermodynamic Assessments of Ti-Al, Ti-Fe, and Ti-Al-Fe Systems with Four-Sublattice Description of Ordered Body-Centered Cubic Phase and Density Functional Theory Data, J. Phase Equilib. Diffus. 45, 732-756 (2024). [doi:10.1007/s11669-024-01124-9](https://doi.org/10.1007/s11669-024-01124-9)
-10. Cuiping Guo, Changrong Li, Xiang Zheng, Zhenmin Du, Thermodynamic modeling of the Fe–Ti–V system, Calphad 38, 155-160 (2012). [doi:10.1016/j.calphad.2012.06.010](https://doi.org/10.1016/j.calphad.2012.06.010)
 
 ## Please cite
 

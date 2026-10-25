@@ -46,11 +46,11 @@ Table: Uncertainty budget of the literature values of Si2V
 | -44.4 | kJ/mol-atom | 1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -44.4 | kJ/mol-atom | 1 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -41.7 | kJ/mol-atom | 3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -41.67 | kJ/mol-atom | 3 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -41.67 | kJ/mol-atom | 3 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -41.5 | kJ/mol-atom | 2 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -41.5 | kJ/mol-atom | 2 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -39.7 | kJ/mol-atom | 1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -39.67 | kJ/mol-atom | 1 | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -39.67 | kJ/mol-atom | 1 | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -54.674 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -54.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -54.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
@@ -58,8 +58,8 @@ Table: Uncertainty budget of the literature values of Si2V
 | -29 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -29 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -8.285 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -47 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -45.91 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -47 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -45.91 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 | -47 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies

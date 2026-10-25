@@ -1,10 +1,10 @@
 # In–Ir system
 
-> In–Ir system: 42 accepted literature values (invariant reaction 33, phase transition 8, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Ir system: 27 accepted literature values (invariant reaction 26, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-IR.html · Markdown: https://data.orchid-project.org/systems/IN-IR.md
 
-42 accepted literature values from 1 paper(s) (experimental 19, model 15, unspecified 8); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 1 paper(s) (experimental 10, model 9, unspecified 8); 1 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-IR.json) · [CSV](https://data.orchid-project.org/systems/IN-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-IR/InIr-11Ser.json) · [phases (8)](https://data.orchid-project.org/phases/pages/IN-IR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-IR.html) · [Markdown](https://data.orchid-project.org/systems/IN-IR.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
-| model | 15 |
+| experimental | 10 |
+| model | 9 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 33 |
-| phase transition | 8 |
+| invariant reaction | 26 |
 | mixing / partial | 1 |
 
 ## Calculated phase diagrams
@@ -51,30 +50,23 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the In–Ir system (33)
+Table: Invariant reactions reported in the literature for the In–Ir system (26)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1463.15 | Liq ⇔ In2Ir + (Ir) | In2Ir: In 0.666667, Ir 0.333333 | unspecified | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 5, p. 6, row 12; `ORC-I4WCZOPTX5` |  |
-| 1463.15 | Liq -> In2 Ir + (Ir) | In2 Ir: In 0.666667, Ir 0.333333 | experimental | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 3, p. 5, row 14; `ORC-OABUCR2YPM` |  |
-| 1463.15 | Liq -> In2 Ir | Liq: Ir 0.33; In2 Ir: Ir 0.33; In2Ir: Ir 0.33 | model | [1] Servant 2011 | Table 3, p. 5, row 12; `ORC-QV6GCW453Q` |  |
-| 1463 | peritectic |  | experimental | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | p. 6; `ORC-GFTV45FFVE.1dc937` | “In2 Ir shows a congruent melting at 1463 K.” |
+| 1463.15 | eutectic: Liq -> In2 Ir + (Ir) | In2 Ir: In 0.666667, Ir 0.333333 | experimental | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 3, p. 5, row 14; `ORC-OABUCR2YPM` |  |
+| 1463.15 | congruent melting: Liq -> In2 Ir | Liq: Ir 0.33; In2 Ir: Ir 0.33; In2Ir: Ir 0.33 | model | [1] Servant 2011 | Table 3, p. 5, row 12; `ORC-QV6GCW453Q` |  |
 | 1461.15 | Liq ⇔ In2Ir + (Ir) | In2Ir: In 0.666667, Ir 0.333333 | unspecified | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 5, p. 6, row 11; `ORC-3B2J7DYRME` |  |
-| 1461.15 | Liq -> In2 Ir + (Ir) | In2 Ir: In 0.666667, Ir 0.333333 | experimental | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 3, p. 5, row 13; `ORC-JVYMHA3VPY` |  |
+| 1461.15 | eutectic: Liq -> In2 Ir + (Ir) | In2 Ir: In 0.666667, Ir 0.333333 | experimental | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 3, p. 5, row 13; `ORC-JVYMHA3VPY` |  |
 | 1461.15 | Liq ⇔ In2Ir + (Ir) | Liq: Ir 0.3057; In2Ir: Ir 0.3837; (Ir): Ir 0.9621 | model | [1] Servant 2011 | Table 5, p. 6, row 13; `ORC-VOWU2Q5JN6` |  |
-| 1461 | peritectic: Liq + (Ir) ↔ In2 Ir |  | model | [1] Servant 2011 | p. 7; `ORC-EAOOEHRWPO` | “The calculated peritectic reaction (Liq + (Ir) ↔ In2 Ir) at 1461 K is in” |
 | 1258.15 | Liq + In2Ir ⇔ In3Ir_HT | In2Ir: In 0.666667, Ir 0.333333; In3Ir_HT: In 0.75, Ir 0.25 | unspecified | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 5, p. 6, row 9; `ORC-3XWQ5B7APN` |  |
 | 1258.15 | Liq + In2 Ir -> In3 Ir_HT | In2 Ir: In 0.666667, Ir 0.333333; In3 Ir_HT: In 0.75, Ir 0.25 | experimental | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 3, p. 5, row 10; `ORC-LAGDMWQQ54` |  |
-| 1258 | peritectic: Liq + In2 Ir ↔ In3 Ir HT |  | experimental | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | p. 6; `ORC-FP43GKJVNS.7fea9f` | “Thus the calculated temperature 1254 K of the peritectic invariant reaction Liq + In2 Ir ↔ In3 Ir HT is also in good agreement with the experimental 1254 ± 3 K \[12\] or 1258 K one \[11\]; the Ir composition of the liquid phase (0.097 Ir) is quite in agreement with the one (0.10 Ir) mentioned in \[12\], Table 3.” |
-| 1258 | eutectic |  | experimental | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | p. 1; `ORC-R4ZA65W2Y4` | “By differential thermal analysis Anres et al. \[11\] measured the temperatures of the eutectic (about 1258 K) and peritectic” |
 | 1254.15 | Liq + In2Ir ⇔ In3Ir_HT | In2Ir: In 0.666667, Ir 0.333333; In3Ir_HT: In 0.75, Ir 0.25 | unspecified | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 5, p. 6, row 8; `ORC-DQUJA2OCJN` |  |
 | 1254.15 | Liq + In2 Ir -> In3 Ir_HT | Liq: Ir 0.0976; In2 Ir: Ir 0.2934; In3 Ir_HT: Ir 0.2442; In2Ir: Ir 0.2934; In3Ir_HT: Ir 0.2442 | model | [1] Servant 2011 | Table 3, p. 5, row 11; `ORC-JADBVJEM4Q` |  |
 | 1254.15 | Liq + In2 Ir -> In3 Ir_HT | In2 Ir: In 0.666667, Ir 0.333333; In3 Ir_HT: In 0.75, Ir 0.25 | experimental | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 3, p. 5, row 9; `ORC-UJZHW2JQCT` |  |
 | 1254.15 | Liq + In2Ir ⇔ In3Ir_HT | Liq: Ir 0.1012; In2Ir: Ir 0.308; In3Ir_HT: Ir 0.2452 | model | [1] Servant 2011 | Table 5, p. 6, row 10; `ORC-ZURDXOXEIT` |  |
-| 1254 | peritectic: Liq + In2 Ir ↔ In3 Ir HT |  | model | [1] Servant 2011 | p. 6; `ORC-FP43GKJVNS.324ac8` | “Thus the calculated temperature 1254 K of the peritectic invariant reaction Liq + In2 Ir ↔ In3 Ir HT is also in good agreement with the experimental 1254 ± 3 K \[12\] or 1258 K one \[11\]; the Ir composition of the liquid phase (0.097 Ir) is quite in agreement with the one (0.10 Ir) mentioned in \[12\], Table 3.” |
-| 1254 | peritectic: Liq + In2 Ir ↔ In3 Ir HT |  | experimental | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | p. 6; `ORC-FP43GKJVNS.ef5082` | “Thus the calculated temperature 1254 K of the peritectic invariant reaction Liq + In2 Ir ↔ In3 Ir HT is also in good agreement with the experimental 1254 ± 3 K \[12\] or 1258 K one \[11\]; the Ir composition of the liquid phase (0.097 Ir) is quite in agreement with the one (0.10 Ir) mentioned in \[12\], Table 3.” |
-| 894.25 | Liq -> In2 Ir + (Ir) | Liq: Ir 0.5984; In2 Ir: Ir 0.3414; (Ir): Ir 0.9752; In2Ir: Ir 0.3414 | model | [1] Servant 2011 | Table 3, p. 5, row 15; `ORC-GTSHCEZ7LI` |  |
-| 894.1 | eutectic: Liq ↔ In2 Ir + (Ir) |  | model | [1] Servant 2011 | p. 6; `ORC-DIFC3DX4CJ` | “In fact in the composition range 0.35 ≤ x(Ir) ≤ 1, instead of the peritectic reaction Liq + (Ir) ↔ In2 Ir a eutectic reaction (Liq ↔ In2 Ir + (Ir)) was observed at T = 894.1 K for x(Liq,Ir) = 0.598, Fig. 4 and Table 3.” |
+| 894.25 | eutectic: Liq -> In2 Ir + (Ir) | Liq: Ir 0.5984; In2 Ir: Ir 0.3414; (Ir): Ir 0.9752; In2Ir: Ir 0.3414 | model | [1] Servant 2011 | Table 3, p. 5, row 15; `ORC-GTSHCEZ7LI` |  |
 | 636.15 | In2 Ir + In3 Ir-HT -> In3 Ir-LT | In2 Ir: In 0.666667, Ir 0.333333; In3 Ir-HT: In 0.75, Ir 0.25; In3 Ir-LT: In 0.75, Ir 0.25 | experimental | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 3, p. 5, row 7; `ORC-46ZUNGFXIP` |  |
 | 636.15 | In2Ir + In3Ir_HT ⇔ In3Ir_LT | In2Ir: In 0.666667, Ir 0.333333; In3Ir_HT: In 0.75, Ir 0.25; In3Ir_LT: In 0.75, Ir 0.25 | unspecified | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 5, p. 6, row 6; `ORC-U2UUZ4UEW7` |  |
 | 634.85 | In2 Ir + In3 Ir-HT -> In3 Ir-LT | In2 Ir: Ir 0.3278; In3 Ir-HT: In 0.75, Ir 0.25; In3 Ir-LT: In 0.75, Ir 0.25; In3 Ir_HT: Ir 0.25; In3 Ir_LT: Ir 0.25; In2Ir: Ir 0.3278; In3Ir_HT: Ir 0.25; In3Ir_LT: Ir 0.25 | model | [1] Servant 2011 | Table 3, p. 5, row 8; `ORC-5KOVDUGDNI` |  |
@@ -85,26 +77,11 @@ Table: Invariant reactions reported in the literature for the In–Ir system (33
 | 620.15 | In3Ir-HT ⇔ Liq + In3Ir-LT | In3Ir-HT: In 0.75, Ir 0.25; In3Ir-LT: In 0.75, Ir 0.25 | unspecified | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 5, p. 6, row 4; `ORC-NHXBPRAMAG` |  |
 | 429.95 | Liq ⇔ In + In3Ir-LT | Liq: Ir 0; In: Ir 0; In3Ir-LT: Ir 0.2382; In3Ir_LT: Ir 0.2382 | model | [1] Servant 2011 | Table 5, p. 6, row 3; `ORC-MBDJIPM6YX` |  |
 | 429.79 | Liq ⇔ In + In3Ir-LT | In3Ir-LT: In 0.75, Ir 0.25 | unspecified | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 5, p. 6, row 2; `ORC-F4HDJUCWRI` |  |
-| 429.79 | Liq -> In + In3 Ir-LT | In3 Ir-LT: In 0.75, Ir 0.25 | experimental | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 3, p. 5, row 2; `ORC-XPIP4YBOQM` |  |
+| 429.79 | eutectic: Liq -> In + In3 Ir-LT | In3 Ir-LT: In 0.75, Ir 0.25 | experimental | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 3, p. 5, row 2; `ORC-XPIP4YBOQM` |  |
 | 429.15 | Liq ⇔ In + In3Ir-LT |  | unspecified | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 5, p. 6, row 1; `ORC-AYHYEUVVKO` |  |
-| 429.15 | Liq -> In + In3 Ir-LT |  | experimental | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 3, p. 5, row 1; `ORC-YPKFRUS744` |  |
+| 429.15 | eutectic: Liq -> In + In3 Ir-LT |  | experimental | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 3, p. 5, row 1; `ORC-YPKFRUS744` |  |
 
 ## Other properties
-
-### Phase transition (8)
-
-Table: Phase transition, In–Ir system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 429 K | 429 |  | experimental | [1] Servant 2011 | p. 1; `ORC-ZLXEYK7CDT.a18a4a` | “Because of the large differences in the melting temperatures of In (429 K) and Ir (2723 K), the evaporation of In must be accurately controlled” |
-| Phase transition | 429 K | 429 | Liq ↔ In + In3 Ir LT | experimental | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | p. 6; `ORC-Z7SUAY5AFD.8cae58` | “Its temperature 429.8 K is within the error bar 429 ± 2 K given by Flandorfer et al. \[12\].” |
-| Phase transition | 429.8 K | 429.8 | Liq ↔ In + In3 Ir LT | model | [1] Servant 2011 | p. 6; `ORC-Z7SUAY5AFD.8a4723` | “Its temperature 429.8 K is within the error bar 429 ± 2 K given by Flandorfer et al. \[12\].” |
-| Phase transition | 620 K | 620 | Liq + In3 Ir LT ↔ In3 Ir HT | model | [1] Servant 2011 | p. 6; `ORC-MLNCL5VOYG.246ab5` | “It will be noted that the transformation Liq + In3 Ir LT ↔ In3 Ir HT occurs at 620.0 K while the In2 Ir + In3 Ir HT ↔ In3 Ir LT reaction takes place at 634.7 K.” |
-| Phase transition | 625 K | 625 |  | experimental | [1] Servant 2011 | p. 2; `ORC-RSXH7UWCE2` | “A change of structure LT ↔ HT was noticed at 625 K for In3 Ir.” |
-| Phase transition | 625 K | 625 | In3 Ir LT ↔ In3 Ir HT | experimental | [1] Servant 2011 | p. 5; `ORC-SPVFLGX6KD` | “In addition, the experimental structural transformation In3 Ir LT ↔ In3 Ir HT at 625 K was assumed.” |
-| Phase transition | 634.7 K | 634.7 | In2 Ir + In3 Ir HT ↔ In3 Ir LT | model | [1] Servant 2011 | p. 6; `ORC-MLNCL5VOYG.12ec43` | “It will be noted that the transformation Liq + In3 Ir LT ↔ In3 Ir HT occurs at 620.0 K while the In2 Ir + In3 Ir HT ↔ In3 Ir LT reaction takes place at 634.7 K.” |
-| Phase transition | 2723 K | 2723 |  | experimental | [1] Servant 2011 | p. 1; `ORC-ZLXEYK7CDT.e7fb45` | “Because of the large differences in the melting temperatures of In (429 K) and Ir (2723 K), the evaporation of In must be accurately controlled” |
 
 ### Mixing / partial (1)
 

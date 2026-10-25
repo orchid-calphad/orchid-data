@@ -56,8 +56,8 @@ Table: Uncertainty budget of the literature values of NbSi2
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -53.7 | kJ/mol-atom |  | 1.667e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -53.7 | kJ/mol-atom | 1.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -53.7 | kJ/mol-atom | 1.6 | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -53.7 | kJ/mol-atom | 1.6 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -53.7 | kJ/mol-atom | 1.6 | 1.667e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -46 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -90.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -59.37 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
@@ -84,7 +84,7 @@ Table: Uncertainty budget of the literature values of NbSi2
 | -46 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -46 | kJ/mol-atom | 16 | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 16 |
 | -46 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -49.9 | kJ/mol (basis unstated) |  | 0.05 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
+| -49.9 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
 | -51.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -46 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 

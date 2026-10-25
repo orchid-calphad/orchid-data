@@ -1,10 +1,10 @@
 # Co–Ga system
 
-> Co–Ga system: 55 accepted literature values (invariant reaction 27, formation 14, crystal structure 9, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ga system: 44 accepted literature values (invariant reaction 21, formation 14, crystal structure 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-GA.html · Markdown: https://data.orchid-project.org/systems/CO-GA.md
 
-55 accepted literature values from 3 paper(s) (experimental 31, model 14, DFT 10); 3 calculated phase diagram(s).
+44 accepted literature values from 3 paper(s) (experimental 22, model 12, DFT 10); 3 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-GA.json) · [CSV](https://data.orchid-project.org/systems/CO-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-GA/CoGa-05Su.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CO-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-GA.html) · [Markdown](https://data.orchid-project.org/systems/CO-GA.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
-| model | 14 |
+| experimental | 22 |
+| model | 12 |
 | DFT | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
-| phase transition | 5 |
+| invariant reaction | 21 |
 | formation | 14 |
 | crystal structure | 9 |
 
@@ -55,7 +54,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Ga system (27)
+Table: Invariant reactions reported in the literature for the Co–Ga system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -63,26 +62,20 @@ Table: Invariant reactions reported in the literature for the Co–Ga system (27
 | 1483 | Liq. + fcc ↔ β | Liq.: Ga 0.3136; fcc: Ga 0.1897; β: Ga 0.2705 | model | [1] Chari 2010; _cites Su 2005_ | Table 4, p. 6, row 2; `ORC-7XX2OR45OP` |  |
 | 1483 | Liq. + (αCo) -> β | Liq.: Ga 0.265; (αCo): Ga 0.19; β: Ga 0.265 | experimental | [2] Su 2005; _cites ref. 79Fes_ | Table 2, p. 4, row 2; `ORC-EL3AF7O6D5` |  |
 | 1483 | Liq. + (αCo) -> β | Liq.: Ga 0.3136; (αCo): Ga 0.1897; β: Ga 0.2705 | model | [2] Su 2005 | Table 2, p. 4, row 1; `ORC-LOHOCUGRUX` |  |
-| 1483 | peritectic |  | experimental | [2] Su 2005; _cites Feschotte 1975_ | p. 3; `ORC-X25HC33BQW.f7c095` | “The compound b decomposes in a peritectic reaction. The reported melting temperatures are 1450 K \[6\], 1480 K \[8\] and 1483 K \[5\].” |
-| 1483 | peritectic: Liq + fcc → β |  | experimental | [1] Chari 2010; _cites Feschotte 1979_ | p. 3; `ORC-ZSDP42WGXX` | “The β phase has a wide homogeneity range and decomposes in the peritectic reaction Liq + fcc → β . The temperature of this reaction is taken as 1483 K \[5\].” |
 | 1482 | Liq. + fcc ↔ β | Liq.: Ga 0.3185; fcc: Ga 0.1966; β: Ga 0.2952 | model | [1] Chari 2010 | Table 4, p. 6, row 1; `ORC-VPOTG3CYZX` |  |
 | 1480 | Liq. + fcc ↔ β | Liq.: Ga 0.3; fcc: Ga 0.13; β: Ga 0.275 | experimental | [1] Chari 2010; _cites Esslinger 1957_ | Table 4, p. 6, row 4; `ORC-D6WNBGBJOB` |  |
 | 1480 | Liq. + (αCo) -> β | Liq.: Ga 0.3; (αCo): Ga 0.13; β: Ga 0.275 | experimental | [2] Su 2005; _cites ref. 57Ess_ | Table 2, p. 4, row 3; `ORC-JADTAFFN24` |  |
-| 1480 | peritectic |  | model | [2] Su 2005; _cites Esslinger 1957_ | p. 3; `ORC-X25HC33BQW.9d3597` | “The compound b decomposes in a peritectic reaction. The reported melting temperatures are 1450 K \[6\], 1480 K \[8\] and 1483 K \[5\].” |
 | 1450 | Liq. + (αCo) -> β | Liq.: Ga 0.51; (αCo): Ga 0.33; β: Ga 0.36 | experimental | [2] Su 2005; _cites ref. 80Lu_ | Table 2, p. 4, row 4; `ORC-6WHPPZVLIQ` |  |
 | 1450 | Liq. + fcc ↔ β | Liq.: Ga 0.51; fcc: Ga 0.33; β: Ga 0.36 | experimental | [1] Chari 2010; _cites Lu 1980_ | Table 4, p. 6, row 5; `ORC-VZGOVUAXK3` |  |
-| 1450 | peritectic |  | experimental | [2] Su 2005; _cites Lu 1980_ | p. 3; `ORC-X25HC33BQW.de8dca` | “The compound b decomposes in a peritectic reaction. The reported melting temperatures are 1450 K \[6\], 1480 K \[8\] and 1483 K \[5\].” |
 | 1128 | Liq. + β -> CoGa3 | Liq.: Ga 0.8; β: Ga 0.645; CoGa3: Co 0.25, Ga 0.75 | experimental | [2] Su 2005; _cites ref. 79Fes_ | Table 2, p. 4, row 6; `ORC-73HCJRFXGB` |  |
 | 1128 | Liq. + β ↔ fcc | Liq.: Ga 0.8; β: Ga 0.645 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | Table 4, p. 6, row 8; `ORC-D3EBOT52SM` |  |
 | 1128 | Liq. + β ↔ fcc | Liq.: Ga 0.8355; β: Ga 0.6103 | model | [1] Chari 2010; _cites Su 2005_ | Table 4, p. 6, row 7; `ORC-KXEXPONCTO` |  |
 | 1128 | Liq. + β -> CoGa3 | Liq.: Ga 0.8355; β: Ga 0.6103; CoGa3: Co 0.25, Ga 0.75 | model | [2] Su 2005 | Table 2, p. 4, row 5; `ORC-P75GM6I2KE` |  |
 | 1120 | peritectic: Liq + β → CoGa3 |  | model | [1] Chari 2010 | p. 3; `ORC-4RDZBZB35P` | “In this study, CoGa3 is taken as a stoichiometric compound with the crystal structure tP16 which decomposes in the peritectic reaction Liq + β → CoGa3 . The temperature at which this reaction takes place is taken as 1120 K.” |
 | 1120 | Liq. + β ↔ fcc | Liq.: Ga 0.8397; β: Ga 0.6186 | model | [1] Chari 2010 | Table 4, p. 6, row 6; `ORC-6NJD4N45R6` |  |
-| 1111 | peritectic |  | model | [2] Su 2005; _cites Esslinger 1957_ | p. 3; `ORC-FGKDK67V5I.5b0388` | “CoGa3 is a stoichiometric compound with a tP16 crystal structure and it decomposes peritectically at 1106 K \[6\], 1111 K \[8\] or 1128 \[5\].” |
 | 1111 | Liq. + β ↔ fcc | Liq.: Ga 0.8; β: Ga 0.65 | experimental | [1] Chari 2010; _cites Esslinger 1957_ | Table 4, p. 6, row 9; `ORC-UCZO7ZVBCL` |  |
 | 1111 | Liq. + β -> CoGa3 | Liq.: Ga 0.8; β: Ga 0.65; CoGa3: Co 0.25, Ga 0.75 | experimental | [2] Su 2005; _cites ref. 57Ess_ | Table 2, p. 4, row 7; `ORC-XN2Y5VE4PE` |  |
 | 1106 | Liq. + β ↔ fcc | Liq.: Ga 0.85; β: Ga 0.63 | experimental | [1] Chari 2010; _cites Lu 1980_ | Table 4, p. 6, row 10; `ORC-DS3W366XFQ` |  |
-| 1106 | peritectic |  | experimental | [2] Su 2005; _cites Lu 1980_ | p. 3; `ORC-FGKDK67V5I.f5ac5c` | “CoGa3 is a stoichiometric compound with a tP16 crystal structure and it decomposes peritectically at 1106 K \[6\], 1111 K \[8\] or 1128 \[5\].” |
 | 1106 | Liq. + β -> CoGa3 | Liq.: Ga 0.85; β: Ga 0.63; CoGa3: Co 0.25, Ga 0.75 | experimental | [2] Su 2005; _cites ref. 82Lu_ | Table 2, p. 4, row 8; `ORC-H67MZGDJH3` |  |
 | 303.5 | Liq. + CoGa3 → Orthorhombic Ga | Liq.: Ga 1; CoGa3: Ga 0.75; Orthorhombic Ga: Ga 1 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | Table 4, p. 6, row 12; `ORC-DGCPQPH5BW` |  |
 | 302.9 | Liq. + CoGa3 → Orthorhombic Ga | Liq.: Ga 1; CoGa3: Ga 0.75; Orthorhombic Ga: Ga 1 | model | [1] Chari 2010 | Table 4, p. 6, row 11; `ORC-WRE64NDREO` |  |
@@ -111,18 +104,6 @@ Table: Enthalpies of formation, Co–Ga system (14)
 | β (Ga:Co) |  | -26.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 1; `ORC-FED66KUIGQ` |  |
 
 ## Other properties
-
-### Phase transition (5)
-
-Table: Phase transition, Co–Ga system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1106 K | 1106 | Liq + β → CoGa3 | experimental | [1] Chari 2010; _cites Lu 1980_ | p. 3; `ORC-3TML2LXOKH.77d63d` | “The other reported temperatures are 1106 K \[6\], 1111 K \[9\] and 1128 K \[5\].” |
-| Phase transition | 1111 K | 1111 | Liq + β → CoGa3 | experimental | [1] Chari 2010; _cites Esslinger 1957_ | p. 3; `ORC-3TML2LXOKH.e6797d` | “The other reported temperatures are 1106 K \[6\], 1111 K \[9\] and 1128 K \[5\].” |
-| Phase transition | 1128 K | 1128 | Liq + β → CoGa3 | experimental | [1] Chari 2010; _cites Feschotte 1979_ | p. 3; `ORC-3TML2LXOKH.c103de` | “The other reported temperatures are 1106 K \[6\], 1111 K \[9\] and 1128 K \[5\].” |
-| Phase transition | 1450 K | 1450 |  | experimental | [1] Chari 2010; _cites Lu 1980_ | p. 3; `ORC-T24GFGWWCE.2956d7` | “The other reported temperatures are 1450 K\[6\] and 1480 K \[9\].” |
-| Phase transition | 1480 K | 1480 |  | experimental | [1] Chari 2010; _cites Esslinger 1957_ | p. 3; `ORC-T24GFGWWCE.cd0411` | “The other reported temperatures are 1450 K\[6\] and 1480 K \[9\].” |
 
 ### Crystal structure (9)
 

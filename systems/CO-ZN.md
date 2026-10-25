@@ -1,10 +1,10 @@
 # Co–Zn system
 
-> Co–Zn system: 171 accepted literature values (heat capacity / entropy / enthalpy 71, invariant reaction 50, activity / EMF / Gibbs energy 31, crystal structure 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Zn system: 160 accepted literature values (heat capacity / entropy / enthalpy 71, invariant reaction 47, activity / EMF / Gibbs energy 31, crystal structure 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-ZN.html · Markdown: https://data.orchid-project.org/systems/CO-ZN.md
 
-171 accepted literature values from 3 paper(s) (experimental 31, model 133, unspecified 7); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+160 accepted literature values from 3 paper(s) (experimental 26, model 127, unspecified 7); 2 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-ZN.json) · [CSV](https://data.orchid-project.org/systems/CO-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-ZN/CoZn-04Iso.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CO-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CO-ZN.md)
 
@@ -12,17 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
-| model | 133 |
+| experimental | 26 |
+| model | 127 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 50 |
-| phase transition | 7 |
-| formation | 1 |
+| invariant reaction | 47 |
 | heat capacity / entropy / enthalpy | 71 |
 | activity / EMF / Gibbs energy | 31 |
 | crystal structure | 11 |
@@ -76,18 +74,18 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Zn system (50)
+Table: Invariant reactions reported in the literature for the Co–Zn system (47)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1768 | congruent melting: (αCo) ↔ Co(L) |  | model | [1] Vassilev 2004 | Table 4, p. 7, row 24; `ORC-4IPAOZTTM3` |  |
 | 1768 | congruent melting: (αCo) ↔ Co(L) |  | experimental | [1] Vassilev 2004 | Table 4, p. 7, row 23; `ORC-NZQHW6ZSCI` |  |
-| 1246 | Liquid -> β1 + Fcc_A1 | β1: Zn 0.5 | experimental | [2] Isomäki 2004; _cites Takayama 1995_ [doi](https://doi.org/10.1007/bf02645345) | Table 1, p. 2, row 2; `ORC-FWCBWTNIGP` |  |
+| 1246 | eutectic: Liquid -> β1 + Fcc_A1 | β1: Zn 0.5 | experimental | [2] Isomäki 2004; _cites Takayama 1995_ [doi](https://doi.org/10.1007/bf02645345) | Table 1, p. 2, row 2; `ORC-FWCBWTNIGP` |  |
 | 1239 | peritectic: α + L \<-> β | α: Zn 0.358; L: Zn 0.664; β: Zn 0.495 | model | [1] Vassilev 2004 | Table 3, p. 6, row 3; `ORC-ARDBDBJ7BR` |  |
 | 1239 | peritectic: α + L ↔ β |  | experimental | [1] Vassilev 2004 | Table 4, p. 7, row 21; `ORC-LEYLMKF4I6` |  |
 | 1239 | peritectic: α + L \<-> β | α: Zn 0.375; L: Zn 0.64; β: Zn 0.495 | experimental | [1] Vassilev 2004; _cites Hansen 1958_ | Table 3, p. 6, row 2; `ORC-QWBXOZQYNW` |  |
 | 1238.95 | peritectic: α + L ↔ β |  | model | [1] Vassilev 2004 | Table 4, p. 7, row 22; `ORC-CZDY4N7YVS` |  |
-| 1233 | Liquid -> β1 + Fcc_A1 | β1: Zn 0.5 | model | [2] Isomäki 2004 | Table 1, p. 2, row 1; `ORC-L2PZWJAUUG` |  |
+| 1233 | eutectic: Liquid -> β1 + Fcc_A1 | β1: Zn 0.5 | model | [2] Isomäki 2004 | Table 1, p. 2, row 1; `ORC-L2PZWJAUUG` |  |
 | 1198 | peritectoid: α + β ↔ β1 | β1: Co 0.5, Zn 0.5 | model | [1] Vassilev 2004 | Table 4, p. 7, row 20; `ORC-EIWPCJRMPS` |  |
 | 1198 | peritectoid: α + β \<-> β1 | α: Zn 0.368; β: Zn 0.506; β1: Zn 0.502 | model | [1] Vassilev 2004 | Table 3, p. 6, row 5; `ORC-KSW4PI4NMP` |  |
 | 1198 | peritectoid: α + β ↔ β1 | β1: Co 0.5, Zn 0.5 | experimental | [1] Vassilev 2004 | Table 4, p. 7, row 19; `ORC-OUAM7AHPYS` |  |
@@ -101,9 +99,9 @@ Table: Invariant reactions reported in the literature for the Co–Zn system (50
 | 1168 | peritectic: L + β1 ↔ γ | β1: Co 0.5, Zn 0.5; γ: Co 0.192308, Zn 0.807692 | experimental | [1] Vassilev 2004 | Table 4, p. 7, row 15; `ORC-5WUZZGTKTI` |  |
 | 1168 | peritectic: L + β1 \<-> γ | L: Zn 0.71; β1: Zn 0.538; γ: Zn 0.69 | experimental | [1] Vassilev 2004; _cites Hansen 1958_ | Table 3, p. 6, row 8; `ORC-EVXPRJYA45` |  |
 | 1168 | peritectic: L + β1 \<-> γ | β1: Zn 0.54; γ: Zn 0.66 | unspecified | [1] Vassilev 2004; _cites Takayama 1995_ | Table 3, p. 6, row 9; `ORC-U5LFMWEM3Y` |  |
-| 1168 | Liquid -> β1 + γ | β1: Zn 0.5; γ: Zn 0.807692 | experimental | [2] Isomäki 2004; _cites Takayama 1995_ [doi](https://doi.org/10.1007/bf02645345) | Table 1, p. 2, row 4; `ORC-VNN4TB2EGU` |  |
+| 1168 | eutectic: Liquid -> β1 + γ | β1: Zn 0.5; γ: Zn 0.807692 | experimental | [2] Isomäki 2004; _cites Takayama 1995_ [doi](https://doi.org/10.1007/bf02645345) | Table 1, p. 2, row 4; `ORC-VNN4TB2EGU` |  |
 | 1168 | peritectic: L + γ \<-> δ | L: Zn 0.921; γ: Zn 0.798; δ: Zn 0.882 | model | [1] Vassilev 2004 | Table 3, p. 6, row 12; `ORC-YJHX2EN46O` |  |
-| 1148 | Liquid -> β1 + γ | β1: Zn 0.5; γ: Zn 0.807692 | model | [2] Isomäki 2004 | Table 1, p. 2, row 3; `ORC-G6MAP6O2US` |  |
+| 1148 | eutectic: Liquid -> β1 + γ | β1: Zn 0.5; γ: Zn 0.807692 | model | [2] Isomäki 2004 | Table 1, p. 2, row 3; `ORC-G6MAP6O2US` |  |
 | 1019 | peritectic: L + γ \<-> δ | L: Zn 0.931; γ: Zn 0.845; δ: Zn 0.875 | experimental | [1] Vassilev 2004; _cites Hansen 1958_ | Table 3, p. 6, row 11; `ORC-JNHEZ36VF7` |  |
 | 1019 | peritectic: L + γ ↔ δ | γ: Co 0.192308, Zn 0.807692; δ: Co 0.117647, Zn 0.882353 | experimental | [1] Vassilev 2004 | Table 4, p. 7, row 13; `ORC-Y4XLPRG24R` |  |
 | 1016.49 | peritectic: L + γ ↔ δ | γ: Co 0.192308, Zn 0.807692; δ: Co 0.117647, Zn 0.882353 | model | [1] Vassilev 2004 | Table 4, p. 7, row 14; `ORC-VIJXW4XEAH` |  |
@@ -114,7 +112,6 @@ Table: Invariant reactions reported in the literature for the Co–Zn system (50
 | 961.13 | peritectoid: γ + δ ↔ γ1 | γ: Co 0.192308, Zn 0.807692; δ: Co 0.117647, Zn 0.882353; γ1: Co 0.125, Zn 0.875 | model | [1] Vassilev 2004 | Table 4, p. 7, row 12; `ORC-WPMG67SAS7` |  |
 | 961 | peritectoid: γ + δ \<-> γ1 | γ: Zn 0.806; δ: Zn 0.882; γ1: Zn 0.875 | model | [1] Vassilev 2004 | Table 3, p. 6, row 14; `ORC-CUR67UTQXG` |  |
 | 948.07 | peritectic: δ ↔ L + γ1 | δ: Co 0.117647, Zn 0.882353; γ1: Co 0.125, Zn 0.875 | model | [1] Vassilev 2004 | Table 4, p. 7, row 10; `ORC-QRSUHSSPHU` |  |
-| 948 | peritectic |  | experimental | [1] Vassilev 2004; _cites Hansen 1958_ | p. 2; `ORC-BVDIELKVLL` | “The ␦-phase decomposes peritectically (Table 3) at 948 K \[1958Han, 1996Mas\], and no information about its structure could be found.” |
 | 948 | peritectic: δ \<-> L + γ1 | δ: Co 0.117647, Zn 0.882353; L: Zn 0.961; γ1: Zn 0.875 | model | [1] Vassilev 2004 | Table 3, p. 6, row 16; `ORC-K3I4U252JP` |  |
 | 948 | peritectic: δ \<-> L + γ1 | δ: Zn 0.9; L: Zn 0.97; γ1: Zn 0.875 | experimental | [1] Vassilev 2004; _cites Pierce 1923_ | Table 3, p. 6, row 15; `ORC-R7BRS5P76R` |  |
 | 948 | peritectic: δ ↔ L + γ1 | δ: Co 0.117647, Zn 0.882353; γ1: Co 0.125, Zn 0.875 | experimental | [1] Vassilev 2004 | Table 4, p. 7, row 9; `ORC-RDH6NFJP2V` |  |
@@ -126,36 +123,10 @@ Table: Invariant reactions reported in the literature for the Co–Zn system (50
 | 692.65 | eutectic: L \<-> γ2 + (Zn) | L: Zn 0.9998; γ2: Co 0.071429, Zn 0.928571; (Zn): Zn 1 | model | [1] Vassilev 2004 | Table 3, p. 6, row 20; `ORC-ONUTSL4VR7` |  |
 | 692.6 | eutectic: L \<-> γ2 + (Zn) | γ2: Co 0.071429, Zn 0.928571; (Zn): Zn 1 | experimental | [1] Vassilev 2004; _cites Pierce 1923_ | Table 3, p. 6, row 19; `ORC-OBNGTU3L7C` |  |
 | 692.6 | eutectic: L ↔ γ2 + (Zn) | γ2: Co 0.071429, Zn 0.928571 | experimental | [1] Vassilev 2004 | Table 4, p. 7, row 5; `ORC-ST6TDIBGV4` |  |
-| 692 | eutectic |  | experimental | [1] Vassilev 2004; _cites Pierce 1923_ | p. 1; `ORC-NDGENO27PW.836eab` | “Lewkonja \[1908Lew\] as well as Pierce and Palmerton \[1923Pie\] were the first to study the equilibrium between the liquid and the solid phases in the Zn-rich region; they found eutectic invariants at 686 K and at 692 K, respectively.” |
-| 686 | eutectic |  | experimental | [1] Vassilev 2004; _cites Lewkonja 1908_ | p. 1; `ORC-NDGENO27PW.d2f278` | “Lewkonja \[1908Lew\] as well as Pierce and Palmerton \[1923Pie\] were the first to study the equilibrium between the liquid and the solid phases in the Zn-rich region; they found eutectic invariants at 686 K and at 692 K, respectively.” |
 | 658.48 | eutectoid: (αCo) ↔ (εCo) + β1 | β1: Co 0.5, Zn 0.5 | model | [1] Vassilev 2004 | Table 4, p. 7, row 3; `ORC-BXAYAGXYXI` |  |
 | 658 | eutectoid: (αCo) \<-> (εCo) + β1 | (αCo): Zn 0.037; (εCo): Zn 0.028; β1: Zn 0.525 | model | [1] Vassilev 2004 | Table 3, p. 6, row 24; `ORC-2EYGATC7F5` |  |
 
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Co–Zn system (1)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -8 kJ/mol (basis unstated) | 1750 | model |  |  | [1] Vassilev 2004 | p. 7; `ORC-VJWDIK2ZEH.906f95` | “The pertinent values calculated with the optimized coefficients, however, are -13 and -8 kJ mol-1 (at 1750 K), respectively.” |
-
 ## Other properties
-
-### Phase transition (7)
-
-Table: Phase transition, Co–Zn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 398 K | 398 | magnetic | experimental | [1] Vassilev 2004; _cites Schramm 1938_ | p. 1; `ORC-CX6OUME5MQ` | “The ␤ 1 -phase is ferromagnetic below 398 K \[1938Sch3, 1941Sch, 1958Han, 1951Mey\], but no details about the concentration dependence of the TC are known.” |
-| Phase transition | 410 K | 410 | magnetic | model | [1] Vassilev 2004 | p. 7; `ORC-HIKPI2BELT.ec9ba6` | “The calculations show (Fig. 7) that the magnetic transition in the ␤1-phase occurs at temperatures between 454 K (53.9 at.% Zn) and 410 K (57.1 at.% Zn).” |
-| Phase transition | 454 K | 454 | magnetic | model | [1] Vassilev 2004 | p. 7; `ORC-HIKPI2BELT.a52de3` | “The calculations show (Fig. 7) that the magnetic transition in the ␤1-phase occurs at temperatures between 454 K (53.9 at.% Zn) and 410 K (57.1 at.% Zn).” |
-| Phase transition | 658 K | 658 | other | model | [1] Vassilev 2004 | p. 1; `ORC-ARN3CJWEZM` | “For the first time, a eutectoid decomposition (at around 658 K) of the fcc solutions has been predicted.” |
-| Phase transition | 692.68 K | 692.68 | other | model | [2] Isomäki 2004; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1; `ORC-ZEBA7W2LQB.4a6b71` | “The melting point of cobalt was evaluated as 1768.00 K and for the zinc as 692.68 K, Dinsdale \[11\].” |
-| Phase transition | 695 K | 695 | polymorphic | experimental | [1] Vassilev 2004; _cites Guillermet 1987_ | p. 1; `ORC-YCB34IUAKG` | “It is known \[1987Gui, 1990Nis, 1991Ray\] that, during heating, the pure hexagonal close-packed Co (HCP-Co or ␧-Co) undergoes a polymorphic transition at about 695 K and converts to its high-temperature form \[face-centeredcubic (fcc)-Co or ␣-Co\].” |
-| Phase transition | 1768 K | 1768 | other | model | [2] Isomäki 2004; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 1; `ORC-ZEBA7W2LQB.177ca6` | “The melting point of cobalt was evaluated as 1768.00 K and for the zinc as 692.68 K, Dinsdale \[11\].” |
 
 ### Heat capacity / entropy / enthalpy (71)
 

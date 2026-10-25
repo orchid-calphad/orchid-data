@@ -1,10 +1,10 @@
 # Nb–Zn system
 
-> Nb–Zn system: 31 accepted literature values (invariant reaction 15, crystal structure 10, formation 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Zn system: 30 accepted literature values (invariant reaction 14, crystal structure 10, formation 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-ZN.html · Markdown: https://data.orchid-project.org/systems/NB-ZN.md
 
-31 accepted literature values from 1 paper(s) (experimental 1, model 20, DFT 3, unspecified 7); 1 calculated phase diagram(s).
+30 accepted literature values from 1 paper(s) (model 20, DFT 3, unspecified 7); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-ZN.json) · [CSV](https://data.orchid-project.org/systems/NB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-ZN/NbZn-16Lon.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NB-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-ZN.html) · [Markdown](https://data.orchid-project.org/systems/NB-ZN.md)
 
@@ -12,7 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
 | model | 20 |
 | DFT | 3 |
 | unspecified | 7 |
@@ -21,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 15 |
+| invariant reaction | 14 |
 | formation | 6 |
 | crystal structure | 10 |
 
@@ -60,7 +59,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Nb–Zn system (15)
+Table: Invariant reactions reported in the literature for the Nb–Zn system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -75,7 +74,6 @@ Table: Invariant reactions reported in the literature for the Nb–Zn system (15
 | 751 | peritectic: L + NbZn3 -> NbZn7 | L: Zn 0.9995; NbZn3: Nb 0.25, Zn 0.75; NbZn7: Nb 0.125, Zn 0.875 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 5; `ORC-M72EMEFEZP` |  |
 | 750 | peritectic: L + NbZn3 -> NbZn7 | L: Zn 0.9999; NbZn3: Nb 0.25, Zn 0.75; NbZn7: Nb 0.125, Zn 0.875 | model | [1] Long 2016 | Table 3, p. 5, row 6; `ORC-WQ2EGKUFUT` |  |
 | 702 | peritectic: L + NbZn7 -> NbZn15 | L: Zn 0.9998; NbZn7: Nb 0.125, Zn 0.875; NbZn15: Nb 0.0625, Zn 0.9375 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 3; `ORC-T7VTNGLNYL` |  |
-| 702 | peritectic |  | experimental | [1] Long 2016; _cites Meussner 1965_ | p. 1; `ORC-X7IRVCQ3JS` | “They are all formed by peritectic reactions at 1393 ± 2 (NbZn), 1387 ± 2 (NbZn1.5), 1327 ± 3 (NbZn2), 1307 ± 3 (NbZn3), 751 (NbZn7) and 702 K (NbZn15), respectively.\[5\]” |
 | 701 | peritectic: L + NbZn7 -> NbZn15 | L: Zn 0.9999; NbZn7: Nb 0.125, Zn 0.875; NbZn15: Nb 0.0625, Zn 0.9375 | model | [1] Long 2016 | Table 3, p. 5, row 4; `ORC-J5MQECQRTG` |  |
 | 693 | eutectic: L -> (Zn) + NbZn15 | L: Zn 0.9999; NbZn15: Nb 0.0625, Zn 0.9375 | model | [1] Long 2016 | Table 3, p. 5, row 2; `ORC-NP2UH344GB` |  |
 | 691 | eutectic: L -> (Zn) + NbZn15 | L: Zn 0.9999; NbZn15: Nb 0.0625, Zn 0.9375 | unspecified | [1] Long 2016; _cites Meussner 1965_ | Table 3, p. 5, row 1; `ORC-GUPRKHJG4X` |  |

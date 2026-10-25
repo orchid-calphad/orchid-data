@@ -1,10 +1,10 @@
 # Pd–Ru system
 
-> Pd–Ru system: 20 accepted literature values (mixing / partial 10, invariant reaction 8, activity / EMF / Gibbs energy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Ru system: 19 accepted literature values (mixing / partial 10, invariant reaction 7, activity / EMF / Gibbs energy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-RU.html · Markdown: https://data.orchid-project.org/systems/PD-RU.md
 
-20 accepted literature values from 1 paper(s) (experimental 6, model 4, DFT 10); 2 calculated phase diagram(s).
+19 accepted literature values from 1 paper(s) (experimental 6, model 3, DFT 10); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-RU.json) · [CSV](https://data.orchid-project.org/systems/PD-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-RU/PdRu-16Gos.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PD-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-RU.html) · [Markdown](https://data.orchid-project.org/systems/PD-RU.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 4 |
+| model | 3 |
 | DFT | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
+| invariant reaction | 7 |
 | mixing / partial | 10 |
 | activity / EMF / Gibbs energy | 2 |
 
@@ -46,12 +46,11 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pd–Ru system (8)
+Table: Invariant reactions reported in the literature for the Pd–Ru system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1867 | peritectic: peritectic reaction | FCC: Ru 0.21 | experimental | [1] Gossé 2016; _cites Tripathi 1993_ | Table 1, p. 3, row 6; `ORC-N3XU5LTGY5` |  |
-| 1867 | peritectic |  | model | [1] Gossé 2016 | p. 5; `ORC-PA7VOUHPFA` | “The peritectic reaction is calculated at 1867 K where the maximum solubilities are 19.2 at.% Ru in the FCC and 93.9 at.% Pd in the HCP solid solutions and the liquid composition is 13.7 at.% Ru.” |
 | 1867 | peritectic: peritectic reaction | L: Ru 0.12; FCC: Ru 0.19; HCP: Ru 0.923 | experimental | [1] Gossé 2016; _cites Kleykamp 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990424-8) | Table 1, p. 3, row 2; `ORC-SHOC5JVZDZ` |  |
 | 1866 | peritectic: peritectic reaction | L: Ru 0.02; FCC: Ru 0.18; HCP: Ru 0.71 | experimental | [1] Gossé 2016; _cites Rudnitskii 1959_ | Table 1, p. 3, row 5; `ORC-7WL6RS5GKI` |  |
 | 1866 | peritectic: peritectic reaction | L: Ru 0.1; FCC: Ru 0.185; HCP: Ru 0.923 | model | [1] Gossé 2016; _cites Gurler 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990291-t) | Table 1, p. 3, row 7; `ORC-E3WA5JKGAP` |  |

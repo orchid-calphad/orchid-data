@@ -31,8 +31,8 @@ Table: Invariant reactions reported in the literature for the H–Mn system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1489.15 | L -> (δMn) + Gas | L: H 0.062; (δMn): H 0.042 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 1; `ORC-3XBXHJA3ZZ` |  |
-| 1487.15 | L -> (δMn) + Gas | L: H 0.062; (δMn): H 0.0416 | model | [1] Liang 2018 | Table 1, p. 3, row 2; `ORC-VQ4MD7MVLK` |  |
+| 1489.15 | eutectic: L -> (δMn) + Gas | L: H 0.062; (δMn): H 0.042 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 1; `ORC-3XBXHJA3ZZ` |  |
+| 1487.15 | eutectic: L -> (δMn) + Gas | L: H 0.062; (δMn): H 0.0416 | model | [1] Liang 2018 | Table 1, p. 3, row 2; `ORC-VQ4MD7MVLK` |  |
 | 1418.15 | (δMn) + Gas -> (γMn) | (δMn): H 0.0376; (γMn): H 0.0393 | model | [1] Liang 2018 | Table 1, p. 3, row 4; `ORC-M2UUNOENH6` |  |
 | 1416.15 | (δMn) + Gas -> (γMn) | (δMn): H 0.033; (γMn): H 0.046 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 3; `ORC-BXQGGNX5W7` |  |
 | 1330.15 | (γMn) -> (βMn) + Gas | (γMn): H 0.041; (βMn): H 0.034 | experimental | [1] Liang 2018; _cites Serdyuk 1982_ | Table 1, p. 3, row 5; `ORC-ANZ7FXN4YG` |  |

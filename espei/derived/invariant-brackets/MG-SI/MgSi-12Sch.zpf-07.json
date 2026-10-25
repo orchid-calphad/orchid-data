@@ -111,7 +111,7 @@
     "x0": 0.529,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Mg2Si + Si (dia)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -130,7 +130,7 @@
     "x0": 0.529,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Mg2Si + Si (dia)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

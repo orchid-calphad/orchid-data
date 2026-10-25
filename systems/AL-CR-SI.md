@@ -1,10 +1,10 @@
 # Al–Cr–Si system
 
-> Al–Cr–Si system: 70 accepted literature values (invariant reaction 54, crystal structure 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cr–Si system: 68 accepted literature values (invariant reaction 52, crystal structure 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CR-SI.html · Markdown: https://data.orchid-project.org/systems/AL-CR-SI.md
 
-70 accepted literature values from 1 paper(s) (experimental 21, model 49); 0 calculated phase diagram(s).
+68 accepted literature values from 1 paper(s) (experimental 20, model 48); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-CR-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CR-SI.html) · [Markdown](https://data.orchid-project.org/systems/AL-CR-SI.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
-| model | 49 |
+| experimental | 20 |
+| model | 48 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 54 |
+| invariant reaction | 52 |
 | crystal structure | 16 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Cr–Si system (54)
+Table: Invariant reactions reported in the literature for the Al–Cr–Si system (52)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -57,8 +57,6 @@ Table: Invariant reactions reported in the literature for the Al–Cr–Si syste
 | 1209.15 | L + τ3 -> Al4Cr + CrSi2 |  | model | [1] Hu 2013 | Table 6, p. 10, row 27; `ORC-4AZ6EJG2C6` |  |
 | 1081.15 | L + Al4Cr + CrSi2 -> τ1 |  | model | [1] Hu 2013; _cites Liang 2009_ [doi](https://doi.org/10.1007/s11669-009-9572-4) | Table 6, p. 10, row 31; `ORC-2FX5CLFRMG` |  |
 | 1079.15 | L + Al4Cr + CrSi2 -> τ1 |  | experimental | [1] Hu 2013; _cites Chen 2008_ | Table 6, p. 10, row 30; `ORC-M7NAGL4IV7` |  |
-| 1079.15 | peritectic: L + Al4 Cr + CrSi2 ↔ ␶1 |  | experimental | [1] Hu 2013; _cites Chen 2008_ | p. 11; `ORC-O7GGKWN2EW` | “The ␶1 phase was formed via a peritectic reaction L + Al4 Cr + CrSi2 ↔ ␶1 \[55\] at 806 ◦ C \[36\], which agreed well with the present calculation.” |
-| 1077.15 | peritectic: L + Al4 Cr + CrSi2 ↔ ␶1 |  | model | [1] Hu 2013 | p. 11; `ORC-2ZZFKLAPT5` | “As can be seen from Fig. 12 and Table 6, the ␶1 phase is formed via the peritectic reaction L + Al4 Cr + CrSi2 ↔ ␶1 at 804 ◦ C, which is in agreement with the experimental results from Chen \[36\].” |
 | 1077.15 | L + Al4Cr + CrSi2 -> τ1 |  | model | [1] Hu 2013 | Table 6, p. 10, row 32; `ORC-OAPNIO3ZNT` |  |
 | 1058.15 | L + Al4Cr -> τ1 + Al5Cr |  | experimental | [1] Hu 2013; _cites Chen 2008_ | Table 6, p. 10, row 34; `ORC-O7M74QD664` |  |
 | 1045.15 | L + Al5Cr -> τ1 + Al45Cr7 |  | experimental | [1] Hu 2013; _cites Chen 2008_ | Table 6, p. 10, row 41; `ORC-L7L62NYQMY` |  |

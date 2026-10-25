@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Li7Pb2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -35.14 | kJ/mol-atom | 2.11 | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -33.48 | kJ/mol-atom | 0.5 | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -31.03 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -35.14 | kJ/mol-atom | 2.11 | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -33.48 | kJ/mol-atom | 0.5 | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -31.03 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## Sources
 

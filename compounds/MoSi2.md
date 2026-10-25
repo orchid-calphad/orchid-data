@@ -47,7 +47,7 @@ Table: Uncertainty budget of the literature values of MoSi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -47.4 | kJ/mol-atom | 1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -47.4 | kJ/mol-atom | 1 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -45.7 | kJ/mol-atom | 1.5 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1.5 |
 | -43.9 | kJ/mol-atom | 3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -43.9 | kJ/mol-atom | 3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |

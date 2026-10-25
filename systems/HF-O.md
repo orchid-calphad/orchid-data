@@ -1,10 +1,10 @@
 # Hf–O system
 
-> Hf–O system: 15 accepted literature values (crystal structure 10, phase transition 3, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–O system: 13 accepted literature values (crystal structure 10, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-O.html · Markdown: https://data.orchid-project.org/systems/HF-O.md
 
-15 accepted literature values from 1 paper(s) (experimental 5, DFT 10); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+13 accepted literature values from 1 paper(s) (experimental 3, DFT 10); 2 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-O.json) · [CSV](https://data.orchid-project.org/systems/HF-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-O/HfO-06Shi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/HF-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-O.html) · [Markdown](https://data.orchid-project.org/systems/HF-O.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 3 |
 | DFT | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
 | phase transition | 3 |
 | crystal structure | 10 |
 
@@ -49,15 +48,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | HfO-06Wan.tdb | 2517.27 | BCC_A2 (x(O) 0.029) + ION (x(O) 0.03615) + HCP_A3 (x(O) 0.07174) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/HF/HF-O.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/HF/HF-O.json) · [CALPHAD hull HfO-06Wan](https://data.orchid-project.org/hulls/calphad-sgte/HF/HF-O--HfO-06Wan.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Hf–O system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 2523 | peritectic: peritectic reaction |  | experimental | [1] Shin 2006; _cites Domagala 1965_ | p. 2; `ORC-FY2JG6I2AI.789307` | “For the hafnium rich-side, Rudy and Stecher \[8\] proposed a eutectic reaction at 2273 K, while Domagala and Ruh \[9\] suggested a peritectic reaction around 2523 K.” |
-| 2273 | eutectic: eutectic reaction |  | experimental | [1] Shin 2006; _cites Rudy 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990045-6) | p. 2; `ORC-FY2JG6I2AI.b9c9a5` | “For the hafnium rich-side, Rudy and Stecher \[8\] proposed a eutectic reaction at 2273 K, while Domagala and Ruh \[9\] suggested a peritectic reaction around 2523 K.” |
 
 ## Other properties
 

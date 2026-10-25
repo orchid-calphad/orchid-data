@@ -1,10 +1,10 @@
 # Sn–Yb system
 
-> Sn–Yb system: 146 accepted literature values (invariant reaction 59, crystal structure 42, formation 31, phase transition 14) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Yb system: 130 accepted literature values (invariant reaction 51, crystal structure 42, formation 31, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-YB.html · Markdown: https://data.orchid-project.org/systems/SN-YB.md
 
-146 accepted literature values from 2 paper(s) (experimental 69, model 49, DFT 28); 2 calculated phase diagram(s).
+130 accepted literature values from 2 paper(s) (experimental 54, model 48, DFT 28); 2 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-YB.json) · [CSV](https://data.orchid-project.org/systems/SN-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-YB/SnYb-11Idb.json) · [phases (13)](https://data.orchid-project.org/phases/pages/SN-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-YB.html) · [Markdown](https://data.orchid-project.org/systems/SN-YB.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 69 |
-| model | 49 |
+| experimental | 54 |
+| model | 48 |
 | DFT | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 59 |
-| phase transition | 14 |
+| invariant reaction | 51 |
+| phase transition | 6 |
 | formation | 31 |
 | crystal structure | 42 |
 
@@ -84,7 +84,7 @@ Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SN/
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sn–Yb system (59)
+Table: Invariant reactions reported in the literature for the Sn–Yb system (51)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -93,7 +93,6 @@ Table: Invariant reactions reported in the literature for the Sn–Yb system (59
 | 1657.34 | congruent melting: Liquid -> Yb2Sn | L: Sn 0.333; Yb2Sn: Sn 0.333333, Yb 0.666667 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 2; `ORC-K7YVN4NDVH` |  |
 | 1656.99 | congruent melting: Liquid -> Yb2Sn | L: Sn 0.333; Yb2Sn: Sn 0.333333, Yb 0.666667 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 1; `ORC-O46XY5VGTE` |  |
 | 1508 | peritectic: Liquid + Yb2Sn -> βYb5Sn3 | L: Sn 0.425; Yb2Sn: Sn 0.333; βYb5Sn3: Sn 0.375 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 6, p. 10, row 21; `ORC-CWVCPEYUHK` |  |
-| 1508 | peritectic |  | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | p. 1; `ORC-KXMO3GMGKH.c5a865` | “For the YbSn3 and Yb2Sn compounds, a congruent melting was determined, respectively, at 1078 and 1658 K, while for the YbSn, Yb5Sn4, and Yb5Sn4 (a and b) compounds, a peritectic formation was reported, respectively, at 1308, 1433, and 1508 K.” |
 | 1508 | Liq + Yb2Sn -> βYb5Sn3 | Yb2Sn: Yb 0.666667; βYb5Sn3: Yb 0.625 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 13; `ORC-VXCDVKWA3G` |  |
 | 1507.97 | peritectic: Liquid + Yb2Sn -> βYb5Sn3 | L: Sn 0.454; Yb2Sn: Sn 0.333; βYb5Sn3: Sn 0.375 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 20; `ORC-QL666U6OKH` |  |
 | 1507.59 | peritectic: Liquid + Yb2Sn -> βYb5Sn3 | L: Sn 0.454; Yb2Sn: Sn 0.333; βYb5Sn3: Sn 0.375 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 19; `ORC-QQWMD3IA53` |  |
@@ -102,7 +101,6 @@ Table: Invariant reactions reported in the literature for the Sn–Yb system (59
 | 1435.24 | peritectic: Liquid + βYb5Sn3 -> Yb5Sn4 | L: Sn 0.485; βYb5Sn3: Sn 0.375; Yb5Sn4: Sn 0.444 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 23; `ORC-Q646WOL2NI` |  |
 | 1433.88 | peritectic: Liquid + βYb5Sn3 -> Yb5Sn4 | L: Sn 0.486; βYb5Sn3: Sn 0.375; Yb5Sn4: Sn 0.444 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 24; `ORC-S3EH7WRYKN` |  |
 | 1433 | peritectic: Liquid + βYb5Sn3 -> Yb5Sn4 | L: Sn 0.451; βYb5Sn3: Sn 0.375; Yb5Sn4: Sn 0.444 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 6, p. 10, row 25; `ORC-4XYXNHTG2J` |  |
-| 1433 | peritectic |  | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | p. 1; `ORC-KXMO3GMGKH.5ce238` | “For the YbSn3 and Yb2Sn compounds, a congruent melting was determined, respectively, at 1078 and 1658 K, while for the YbSn, Yb5Sn4, and Yb5Sn4 (a and b) compounds, a peritectic formation was reported, respectively, at 1308, 1433, and 1508 K.” |
 | 1433 | Liq + βYb5Sn3 -> Yb5Sn4 | βYb5Sn3: Yb 0.625; Yb5Sn4: Yb 0.555556 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 11; `ORC-OORTRQ6IXH` |  |
 | 1428 | peritectic: Liquid + βYb5Sn3 -> Yb5Sn4 | L: Sn 0.493; βYb5Sn3: Sn 0.375; Yb5Sn4: Sn 0.444 | experimental | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 6, p. 10, row 26; `ORC-4GWQ7FII4A` |  |
 | 1428 | Liq + βYb5Sn3 -> Yb5Sn4 | βYb5Sn3: Yb 0.625; Yb5Sn4: Yb 0.555556 | model | [2] Idbenali 2011 | Table 3, p. 4, row 12; `ORC-RDMBCFHQQM` |  |
@@ -114,39 +112,33 @@ Table: Invariant reactions reported in the literature for the Sn–Yb system (59
 | 1311 | Liq + Yb5Sn4 -> YbSn | Yb5Sn4: Yb 0.555556; YbSn: Yb 0.5 | model | [2] Idbenali 2011 | Table 3, p. 4, row 10; `ORC-BC4YNVVUR5` |  |
 | 1311 | peritectic: Liquid + Yb5Sn4 -> YbSn | L: Sn 0.56; Yb5Sn4: Sn 0.444; YbSn: Sn 0.5 | experimental | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 6, p. 10, row 30; `ORC-IQOLOACHK6` |  |
 | 1308 | Liq + Yb5Sn4 -> YbSn | Yb5Sn4: Yb 0.555556; YbSn: Yb 0.5 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 9; `ORC-7I54IFYGMU` |  |
-| 1308 | peritectic |  | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | p. 2; `ORC-EIJQ7J4OLA.82c41f` | “The compounds Yb2Sn and YbSn3 presented a congruent melting, respectively, at 1658 and 1078 K, whereas all the others were formed by peritectic reactions at: 1508 (Yb5Sn3), 1433 (Yb5Sn4) and 1308 K (YbSn).” |
-| 1308 | peritectic |  | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | p. 1; `ORC-KXMO3GMGKH.5c95c5` | “For the YbSn3 and Yb2Sn compounds, a congruent melting was determined, respectively, at 1078 and 1658 K, while for the YbSn, Yb5Sn4, and Yb5Sn4 (a and b) compounds, a peritectic formation was reported, respectively, at 1308, 1433, and 1508 K.” |
 | 1308 | peritectic: Liquid + Yb5Sn4 -> YbSn | L: Sn 0.513; Yb5Sn4: Sn 0.444; YbSn: Sn 0.5 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 6, p. 10, row 29; `ORC-M5D2IASPNL` |  |
 | 1303.14 | peritectic: Liquid + Yb5Sn4 -> YbSn | L: Sn 0.563; Yb5Sn4: Sn 0.444; YbSn: Sn 0.5 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 28; `ORC-4R6FUCOVS4` |  |
 | 1078.57 | eutectic: Liquid -> Yb2Sn + γYb(bcc) | L: Sn 0.015; Yb2Sn: Sn 0.333; γYb(bcc): Sn 0 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 9; `ORC-AXRVBPDMXB` |  |
 | 1078 | congruent melting: Liquid -> YbSn3 | L: Sn 0.75; YbSn3: Sn 0.75, Yb 0.25 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 6, p. 10, row 6; `ORC-T7V6BO3ZGG` |  |
 | 1077.75 | eutectic: Liquid -> Yb2Sn + γYb(bcc) | L: Sn 0.016; Yb2Sn: Sn 0.333; γYb(bcc): Sn 0 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 8; `ORC-BIMLIIC5KM` |  |
 | 1077 | eutectic: Liquid -> Yb2Sn + γYb(bcc) | L: Sn 0.02; Yb2Sn: Sn 0.333; γYb(bcc): Sn 0 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 6, p. 10, row 10; `ORC-3YUBSCYEWE` |  |
-| 1077 | Liq -> Yb2Sn + γYb | Yb2Sn: Yb 0.666667 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 19; `ORC-OJ2ZTUP6KO` |  |
-| 1077 | eutectic |  | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-X2AGGX3FDE` | “The melting point and the eutectic reaction were adjusted by 4 K above, from 1088 to 1092 and 1073 to 1077 K respectively, while the Yb transformation was adjusted by 25 K, 1068 instead of 1043 K.” |
+| 1077 | eutectic: Liq -> Yb2Sn + γYb | Yb2Sn: Yb 0.666667 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 19; `ORC-OJ2ZTUP6KO` |  |
 | 1076 | congruent melting: Liquid -> YbSn3 | L: Sn 0.75; YbSn3: Sn 0.75, Yb 0.25 | experimental | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 6, p. 10, row 7; `ORC-NAVBFIDIGS` |  |
 | 1074 | eutectic: Liquid -> Yb2Sn + γYb(bcc) | L: Sn 0.02; Yb2Sn: Sn 0.333; γYb(bcc): Sn 0 | experimental | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 6, p. 10, row 11; `ORC-BMZTAXDTNB` |  |
-| 1074 | Liq -> Yb2Sn + γYb | Yb2Sn: Yb 0.666667 | model | [2] Idbenali 2011 | Table 3, p. 4, row 20; `ORC-QNA7WDPPA6` |  |
-| 1073 | eutectic |  | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | p. 2; `ORC-DWQETNFSQJ.df8202` | “Three eutectic reactions were found, at 2.0, 64.5 and about 99.5 at.% of Sn and with characteristic temperatures of 1073, 1023 and 503 K respectively.” |
+| 1074 | eutectic: Liq -> Yb2Sn + γYb | Yb2Sn: Yb 0.666667 | model | [2] Idbenali 2011 | Table 3, p. 4, row 20; `ORC-QNA7WDPPA6` |  |
 | 1071.12 | congruent melting: Liquid -> YbSn3 | L: Sn 0.75; YbSn3: Sn 0.75, Yb 0.25 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 5; `ORC-NIUYYPSFWY` |  |
 | 1033.56 | peritectic: Liquid + YbSn -> Yb3Sn5 | L: Sn 0.682; YbSn: Sn 0.5; Yb3Sn5: Sn 0.625 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 31; `ORC-GBJOQPZA2G` |  |
-| 1033 | Liq -> Yb3Sn5 + YbSn | Yb3Sn5: Yb 0.375; YbSn: Yb 0.5 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 7; `ORC-HHQDKF2FXT` |  |
+| 1033 | eutectic: Liq -> Yb3Sn5 + YbSn | Yb3Sn5: Yb 0.375; YbSn: Yb 0.5 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 7; `ORC-HHQDKF2FXT` |  |
 | 1033 | peritectic: Liquid + YbSn -> Yb3Sn5 | L: Sn 0.631; YbSn: Sn 0.5; Yb3Sn5: Sn 0.625 | experimental | [1] Kali-Ali 2017; _cites Manfrinetti 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900929-3) | Table 6, p. 10, row 32; `ORC-TMAZD242GO` |  |
-| 1032 | Liq -> Yb3Sn5 + YbSn | Yb3Sn5: Yb 0.375; YbSn: Yb 0.5 | model | [2] Idbenali 2011 | Table 3, p. 4, row 8; `ORC-6O7R7VGP2G` |  |
+| 1032 | eutectic: Liq -> Yb3Sn5 + YbSn | Yb3Sn5: Yb 0.375; YbSn: Yb 0.5 | model | [2] Idbenali 2011 | Table 3, p. 4, row 8; `ORC-6O7R7VGP2G` |  |
 | 1032 | peritectic: Liquid + YbSn -> Yb3Sn5 | L: Sn 0.67; YbSn: Sn 0.5; Yb3Sn5: Sn 0.625 | experimental | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 6, p. 10, row 33; `ORC-TA4J44UKXW` |  |
 | 1028.93 | eutectic: Liquid -> Yb3Sn5 + YbSn3 | L: Sn 0.686; Yb3Sn5: Sn 0.625; YbSn3: Sn 0.75 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 12; `ORC-U7RITT7PPO` |  |
-| 1026 | Liq -> YbSn3 + Yb3Sn5 | YbSn3: Yb 0.25; Yb3Sn5: Yb 0.375 | model | [2] Idbenali 2011 | Table 3, p. 4, row 6; `ORC-22ACJX5HKF` |  |
+| 1026 | eutectic: Liq -> YbSn3 + Yb3Sn5 | YbSn3: Yb 0.25; Yb3Sn5: Yb 0.375 | model | [2] Idbenali 2011 | Table 3, p. 4, row 6; `ORC-22ACJX5HKF` |  |
 | 1026 | eutectic: Liquid -> Yb3Sn5 + YbSn3 | L: Sn 0.676; Yb3Sn5: Sn 0.625; YbSn3: Sn 0.75 | experimental | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 6, p. 10, row 15; `ORC-VWYLP2HUSB` |  |
-| 1023 | eutectic |  | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | p. 2; `ORC-DWQETNFSQJ.0604f3` | “Three eutectic reactions were found, at 2.0, 64.5 and about 99.5 at.% of Sn and with characteristic temperatures of 1073, 1023 and 503 K respectively.” |
 | 1023 | eutectic: Liquid -> Yb3Sn5 + YbSn3 | L: Sn 0.665; Yb3Sn5: Sn 0.625; YbSn3: Sn 0.75 | experimental | [1] Kali-Ali 2017; _cites Manfrinetti 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900929-3) | Table 6, p. 10, row 13; `ORC-NYDRO2BE5G` |  |
-| 1023 | Liq -> YbSn3 + Yb3Sn5 | YbSn3: Yb 0.25; Yb3Sn5: Yb 0.375 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 5; `ORC-SMWRGDUK52` |  |
+| 1023 | eutectic: Liq -> YbSn3 + Yb3Sn5 | YbSn3: Yb 0.25; Yb3Sn5: Yb 0.375 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 5; `ORC-SMWRGDUK52` |  |
 | 1023 | eutectic: Liquid -> Yb3Sn5 + YbSn3 | L: Sn 0.645; Yb3Sn5: Sn 0.625; YbSn3: Sn 0.75 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 6, p. 10, row 14; `ORC-USNYU56ZGA` |  |
 | 505.03 | eutectic: Liquid -> YbSn3 + Sn(bct) | L: Sn 0.9998; YbSn3: Sn 0.75; Sn(bct): Sn 1 | model | [1] Kali-Ali 2017 | Table 6, p. 10, row 16; `ORC-ANX726M25P` |  |
-| 505 | Liq -> βSn + YbSn3 | βSn: Yb 0; YbSn3: Yb 0.25 | model | [2] Idbenali 2011 | Table 3, p. 4, row 2; `ORC-M3LNKRQ6A4` |  |
+| 505 | eutectic: Liq -> βSn + YbSn3 | βSn: Yb 0; YbSn3: Yb 0.25 | model | [2] Idbenali 2011 | Table 3, p. 4, row 2; `ORC-M3LNKRQ6A4` |  |
 | 505 | eutectic: Liquid -> YbSn3 + Sn(bct) | L: Sn 0.9995; YbSn3: Sn 0.75; Sn(bct): Sn 1 | experimental | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 6, p. 10, row 18; `ORC-S5FXJTQQ6X` |  |
 | 503 | eutectic: Liquid -> YbSn3 + Sn(bct) | L: Sn 0.9995; YbSn3: Sn 0.75; Sn(bct): Sn 1 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | Table 6, p. 10, row 17; `ORC-4H6DWE5TJV` |  |
-| 503 | Liq -> βSn + YbSn3 | βSn: Yb 0; YbSn3: Yb 0.25 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 1; `ORC-CE5DAAIHKX` |  |
-| 503 | eutectic |  | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | p. 2; `ORC-DWQETNFSQJ.5c1dc6` | “Three eutectic reactions were found, at 2.0, 64.5 and about 99.5 at.% of Sn and with characteristic temperatures of 1073, 1023 and 503 K respectively.” |
+| 503 | eutectic: Liq -> βSn + YbSn3 | βSn: Yb 0; YbSn3: Yb 0.25 | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 1; `ORC-CE5DAAIHKX` |  |
 
 ## Formation enthalpies
 
@@ -190,7 +182,7 @@ Table: Enthalpies of formation, Sn–Yb system (31)
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (6)
 
 Table: Phase transition, Sn–Yb system
 
@@ -198,17 +190,9 @@ Table: Phase transition, Sn–Yb system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1076 K | 1076 | Liq -> YbSn3; _L: Yb 0.25; YbSn3: Yb 0.25_ | model | [2] Idbenali 2011 | Table 3, p. 4, row 4; `ORC-Z54MB6RGNJ` |  |
 | Phase transition | 1078 K | 1078 | Liq -> YbSn3; _L: Yb 0.25; YbSn3: Yb 0.25_ | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 3; `ORC-QQWHY2COTB` |  |
-| Phase transition | 1078 K | 1078 | congruent transformation | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | p. 2; `ORC-EIJQ7J4OLA.999755` | “The compounds Yb2Sn and YbSn3 presented a congruent melting, respectively, at 1658 and 1078 K, whereas all the others were formed by peritectic reactions at: 1508 (Yb5Sn3), 1433 (Yb5Sn4) and 1308 K (YbSn).” |
-| Phase transition | 1078 K | 1078 | congruent transformation | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | p. 1; `ORC-KXMO3GMGKH.f81e51` | “For the YbSn3 and Yb2Sn compounds, a congruent melting was determined, respectively, at 1078 and 1658 K, while for the YbSn, Yb5Sn4, and Yb5Sn4 (a and b) compounds, a peritectic formation was reported, respectively, at 1308, 1433, and 1508 K.” |
 | Phase transition | 1360 K | 1360 | αYb5Sn3 -> βYb5Sn3; _αYb5Sn3: Yb 0.625; βYb5Sn3: Yb 0.625_ | model | [2] Idbenali 2011 | Table 3, p. 4, row 16; `ORC-FZHJVYJNDY` |  |
-| Phase transition | 1360.15 K | 1360.15 | polymorphic | model | [2] Idbenali 2011 | p. 3; `ORC-HAY5G36XVM.a3f306` | “The optimized temperature of the polymorphic transition (1090 °C) of aYb5 Sn3 , bYb5 Sn3 chosen in \[4\] is in agreement with the calculated one (1087 °C).” |
-| Phase transition | 1363 K | 1363 | polymorphic | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | p. 1; `ORC-CCIW3DG5HU` | “A polymorphic transition (a $ b) was determined at 1363 K for Yb5Sn4.” |
-| Phase transition | 1363 K | 1363 | polymorphic | experimental | [1] Kali-Ali 2017 | p. 2; `ORC-DTTVA7EE4K` | “A polymorphic transformation of Yb5Sn3 was tentatively assigned at 1363 K.” |
 | Phase transition | 1363 K | 1363 | αYb5Sn3 -> βYb5Sn3; _αYb5Sn3: Yb 0.625; βYb5Sn3: Yb 0.625_ | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 15; `ORC-L2CNGJKCLV` |  |
-| Phase transition | 1363.15 K | 1363.15 | polymorphic | experimental | [2] Idbenali 2011; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | p. 3; `ORC-HAY5G36XVM.0bb7ce` | “The optimized temperature of the polymorphic transition (1090 °C) of aYb5 Sn3 , bYb5 Sn3 chosen in \[4\] is in agreement with the calculated one (1087 °C).” |
 | Phase transition | 1658 K | 1658 | Liq -> Yb2Sn; _L: Yb 0.666667; Yb2Sn: Yb 0.666667_ | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | Table 3, p. 4, row 17; `ORC-STO7UKBVDW` |  |
-| Phase transition | 1658 K | 1658 | congruent transformation | experimental | [1] Kali-Ali 2017; _cites Palenzona 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990221-6) | p. 2; `ORC-EIJQ7J4OLA.a85562` | “The compounds Yb2Sn and YbSn3 presented a congruent melting, respectively, at 1658 and 1078 K, whereas all the others were formed by peritectic reactions at: 1508 (Yb5Sn3), 1433 (Yb5Sn4) and 1308 K (YbSn).” |
-| Phase transition | 1658 K | 1658 | congruent transformation | experimental | [2] Idbenali 2011; _cites Palenzona 1991_ [doi](https://doi.org/10.1007/bf02645976) | p. 1; `ORC-KXMO3GMGKH.a9efee` | “For the YbSn3 and Yb2Sn compounds, a congruent melting was determined, respectively, at 1078 and 1658 K, while for the YbSn, Yb5Sn4, and Yb5Sn4 (a and b) compounds, a peritectic formation was reported, respectively, at 1308, 1433, and 1508 K.” |
 | Phase transition | 1663 K | 1663 | Liq -> Yb2Sn; _L: Yb 0.666667; Yb2Sn: Yb 0.666667_ | model | [2] Idbenali 2011 | Table 3, p. 4, row 18; `ORC-XLRBS7M56F` |  |
 
 ### Crystal structure (42)

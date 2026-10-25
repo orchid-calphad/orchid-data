@@ -1,10 +1,10 @@
 # Cr–Zn system
 
-> Cr–Zn system: 29 accepted literature values (invariant reaction 19, phase equilibrium 8, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Zn system: 28 accepted literature values (invariant reaction 18, phase equilibrium 8, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-ZN.html · Markdown: https://data.orchid-project.org/systems/CR-ZN.md
 
-29 accepted literature values from 3 paper(s) (experimental 21, model 8); 3 calculated phase diagram(s).
+28 accepted literature values from 3 paper(s) (experimental 20, model 8); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-ZN.json) · [CSV](https://data.orchid-project.org/systems/CR-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-ZN/CrZn-03Reu-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CR-ZN.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
+| experimental | 20 |
 | model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 19 |
+| invariant reaction | 18 |
 | phase transition | 2 |
 | phase equilibrium | 8 |
 
@@ -65,28 +65,27 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Zn system (19)
+Table: Invariant reactions reported in the literature for the Cr–Zn system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 761.4 | peritectic: Liquid + bcc-A2 -> CrZn13\* | L: Zn 0.996; bcc-A2: Zn 0; CrZn13: Zn 0.928 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 1; `ORC-HNM2QOSD4B` |  |
+| 761.4 | peritectic: Liquid + bcc-A2 -> CrZn13\* | L: Zn 0.996; bcc-A2: Zn 0; CrZn13: Zn 0.928 | model | [1] (ed.) 1998 | Table I, p. 175, row 1; `ORC-HNM2QOSD4B` |  |
 | 754 | peritectic: L + bcc_A2 -> CrZn13 | L: Zn 0.9628; bcc_A2: Zn 0; CrZn13: Zn 0.928 | model | [2] Reumont 2003 | Table 2, p. 4, row 1; `ORC-QGAQSBMV5C` |  |
 | 753.15 | L + bcc_A2 -> CrZn13 | CrZn13: Zn 0.928571 | experimental | [2] Reumont 2003 | Table 1, p. 3, row 2; `ORC-STTUF6BGKJ` |  |
-| 737.15 | peritectic: L + bcc(Cr) → CrZn17 |  | experimental | [3] Su 2010; _cites Chiotti 1960_ | p. 2; `ORC-HJNESXWYXJ` | “The invariant temperature of the L + bcc(Cr) → CrZn17 peritectic reaction was reported as 464 ◦ C by Chiotti and Parry \[21\].” |
 | 737.15 | peritectic |  | experimental | [2] Reumont 2003 | p. 1; `ORC-ZYNGIN6724` | “The peritectic transformation of CrZn17 occurs at 464 °C, whereas the temperature of decomposition of CrZn13 is unknown experimentally.” |
 | 737 | peritectic: L + CrZn13 -> CrZn17 | CrZn13: Zn 0.928571; CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 2, p. 4, row 3; `ORC-B6FLASPY5Z` |  |
 | 737 | L + (Cr) -> CrZn17 | L: Zn 0.988; CrZn17: Zn 0.944444 | experimental | [3] Su 2010; _cites Heumann 1948_ [doi](https://doi.org/10.1515/ijmr-1948-390202) | Table 5, p. 4, row 4; `ORC-RH6TMP7HWC` |  |
 | 736.9 | L + (Cr) -> CrZn17 | L: Zn 0.9984; CrZn17: Zn 0.944444 | model | [3] Su 2010 | Table 5, p. 4, row 3; `ORC-LANXO5ETPQ` |  |
-| 736.5 | peritectic: Liquid + CrZn13 -> CrZn17 | L: Zn 0.998; CrZn13: Zn 0.928; CrZn17: Zn 0.944 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 2; `ORC-E4LURU5Y2W` |  |
+| 736.5 | peritectic: Liquid + CrZn13 -> CrZn17 | L: Zn 0.998; CrZn13: Zn 0.928; CrZn17: Zn 0.944 | model | [1] (ed.) 1998 | Table I, p. 175, row 2; `ORC-E4LURU5Y2W` |  |
 | 736 | peritectic: L + CrZn13 -> CrZn17 | L: Zn 0.9851; CrZn13: Zn 0.928; CrZn17: Zn 0.9444 | model | [2] Reumont 2003 | Table 2, p. 4, row 2; `ORC-5CBBHD4YKF` |  |
 | 735.15 | L + CrZn13 -> CrZn17 °C | CrZn13: Zn 0.928571; CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 1, p. 3, row 1; `ORC-OIXI6GTVOU` |  |
-| 692.6 | L -> (hcp(Zn)) + CrZn17 | L: Zn 0.9998; CrZn17: Zn 0.944444 | model | [3] Su 2010 | Table 5, p. 4, row 1; `ORC-X3VJLPDROG` |  |
-| 692.5 | other: Liquid -> CrZn17 + hcp-Zn | L: Zn 0.999; CrZn17: Zn 0.944; hcp-Zn: Zn 0.999 | model | [1] Hämäläinen 1998 | Table I, p. 175, row 3; `ORC-LQ33ZVT4J7` |  |
+| 692.6 | eutectic: L -> (hcp(Zn)) + CrZn17 | L: Zn 0.9998; CrZn17: Zn 0.944444 | model | [3] Su 2010 | Table 5, p. 4, row 1; `ORC-X3VJLPDROG` |  |
+| 692.5 | other: Liquid -> CrZn17 + hcp-Zn | L: Zn 0.999; CrZn17: Zn 0.944; hcp-Zn: Zn 0.999 | model | [1] (ed.) 1998 | Table I, p. 175, row 3; `ORC-LQ33ZVT4J7` |  |
 | 691.15 | eutectic |  | experimental | [2] Reumont 2003; _cites Weiss 1942_ | p. 1; `ORC-IK4C2VYEKP` | “However, \[1942Wei\] proposed a Guy Reumont and Pierre Perrot, LMPGM, UMR CNRS 8517, Université de Lille I, Villeneuve d'Ascq, France. Contact e-mail: Guy.Reumont@univ-lille1.fr. eutectic temperature at 418 °C and estimated the Cr content in the liquid phase as 0.31 at.% Cr at that temperature.” |
 | 691 | eutectic: L -> CrZn17 + hcp_A3 | L: Zn 0.998; CrZn17: Zn 0.9444; hcp_A3: Zn 0.9999 | model | [2] Reumont 2003 | Table 2, p. 4, row 4; `ORC-XMJGBQJC26` |  |
 | 688.15 | eutectic |  | experimental | [2] Reumont 2003; _cites Heumann 1948_ | p. 1; `ORC-6M3NRRHNCB` | “According to \[1948Heu\], at the eutectic temperature (415 °C), the maximum solubility of Cr in solid Zn closepacked hexagonal (cph) solution is very low and was accepted as 0.04 at.% Cr.” |
 | 688.15 | eutectic: L → hcp(Zn) + CrZn17 |  | experimental | [3] Su 2010; _cites Heumann 1948_ | p. 2; `ORC-FWTFDR2MT7` | “The eutectic reaction L → hcp(Zn) + CrZn17 occurred at 415 ◦ C according to the results of Heumann \[9\].” |
-| 688 | L -> (hcp(Zn)) + CrZn17 | L: Zn 0.9997; CrZn17: Zn 0.944444 | experimental | [3] Su 2010; _cites Heumann 1948_ [doi](https://doi.org/10.1515/ijmr-1948-390202) | Table 5, p. 4, row 2; `ORC-FYI4SZOQTY` |  |
+| 688 | eutectic: L -> (hcp(Zn)) + CrZn17 | L: Zn 0.9997; CrZn17: Zn 0.944444 | experimental | [3] Su 2010; _cites Heumann 1948_ [doi](https://doi.org/10.1515/ijmr-1948-390202) | Table 5, p. 4, row 2; `ORC-FYI4SZOQTY` |  |
 | 688 | eutectic: L -> CrZn17 + hcp_A3 | CrZn17: Zn 0.944444 | experimental | [2] Reumont 2003 | Table 2, p. 4, row 5; `ORC-WM2A2XN6Q6` |  |
 
 ## Other properties
@@ -119,7 +118,7 @@ Table: Phase equilibrium, Cr–Zn system
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. Guy Reumont, Pierre Perrot, Thermodynamic assessment of the Zinc-Rich part of the Cr-Zn system, JPE 24, 50-54 (2003). [doi:10.1007/s11669-003-0006-4](https://doi.org/10.1007/s11669-003-0006-4)
 3. Xuping Su, Ya Liu, Daniel Y.H. Liu, Jean-Claude Tedenac, Fucheng Yin, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Cr system, Journal of Alloys and Compounds 496, 159-163 (2010). [doi:10.1016/j.jallcom.2010.02.087](https://doi.org/10.1016/j.jallcom.2010.02.087)
 

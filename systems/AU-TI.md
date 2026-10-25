@@ -55,21 +55,21 @@ Table: Invariant reactions reported in the literature for the Au–Ti system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1768 | L->TiAu | L: Au 0.5; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 16; `ORC-V6BSUBQBF5` |  |
-| 1760 | L->TiAu | L: Au 0.497; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 15; `ORC-HGZQUYH7CI` |  |
-| 1728 | L->TiAu2 | L: Au 0.6667; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 18; `ORC-WKZHMSEBAD` |  |
-| 1717 | L->TiAu2 | L: Au 0.6667; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 17; `ORC-R5WPNXWBZS` |  |
-| 1677 | L->TiAu+TiAu2 | L: Au 0.5921; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 7; `ORC-6DVXGS5KKT` |  |
-| 1668 | L->Ti3Au | L: Au 0.25; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 14; `ORC-4MS26CPXAA` |  |
+| 1768 | congruent melting: L->TiAu | L: Au 0.5; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 16; `ORC-V6BSUBQBF5` |  |
+| 1760 | congruent melting: L->TiAu | L: Au 0.497; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 15; `ORC-HGZQUYH7CI` |  |
+| 1728 | congruent melting: L->TiAu2 | L: Au 0.6667; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 18; `ORC-WKZHMSEBAD` |  |
+| 1717 | congruent melting: L->TiAu2 | L: Au 0.6667; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 17; `ORC-R5WPNXWBZS` |  |
+| 1677 | eutectic: L->TiAu+TiAu2 | L: Au 0.5921; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 7; `ORC-6DVXGS5KKT` |  |
+| 1668 | congruent melting: L->Ti3Au | L: Au 0.25; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 14; `ORC-4MS26CPXAA` |  |
 | 1658.15 | eutectic: L->TiAu+TiAu2 | L: Ti 0.4; TiAu: Ti 0.48; TiAu2: Ti 0.333 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 4; `ORC-NBSPLJLS5U` |  |
-| 1658 | L->TiAu+TiAu2 | L: Au 0.6; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 8; `ORC-XFEJDSNXAY` |  |
-| 1655 | L->Ti3Au | L: Au 0.25; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 13; `ORC-6AVRDPNY47` |  |
+| 1658 | eutectic: L->TiAu+TiAu2 | L: Au 0.6; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 8; `ORC-XFEJDSNXAY` |  |
+| 1655 | congruent melting: L->Ti3Au | L: Au 0.25; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 13; `ORC-6AVRDPNY47` |  |
 | 1640.15 | eutectic: L->(βTi)+Ti3Au | L: Ti 0.79; (βTi): Ti 0.85; Ti3Au: Ti 0.75 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 1; `ORC-AEQ7XSWPQ3` |  |
-| 1640 | L->(βTi)+Ti3Au | L: Au 0.21; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 2; `ORC-62CZBDBXU6` |  |
-| 1637 | L->(βTi)+Ti3Au | L: Au 0.2047; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 1; `ORC-IUZZWIQUCS` |  |
-| 1597 | L->Ti3Au+TiAu | L: Au 0.3287; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 5; `ORC-M4KQAKLJ3B` |  |
+| 1640 | eutectic: L->(βTi)+Ti3Au | L: Au 0.21; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 2; `ORC-62CZBDBXU6` |  |
+| 1637 | eutectic: L->(βTi)+Ti3Au | L: Au 0.2047; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 1; `ORC-IUZZWIQUCS` |  |
+| 1597 | eutectic: L->Ti3Au+TiAu | L: Au 0.3287; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 5; `ORC-M4KQAKLJ3B` |  |
 | 1583.15 | eutectic: L->Ti3Au+TiAu | L: Ti 0.67; Ti3Au: Ti 0.75; TiAu: Ti 0.62 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 3; `ORC-DBQ4ART4SR` |  |
-| 1583 | L->Ti3Au+TiAu | L: Au 0.33; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 6; `ORC-WDP6R32ZLG` |  |
+| 1583 | eutectic: L->Ti3Au+TiAu | L: Au 0.33; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 6; `ORC-WDP6R32ZLG` |  |
 | 1445.15 | peritectic: TiAu2+L->TiAu4 | TiAu2: Ti 0.333; L: Ti 0.141; TiAu4: Ti 0.2 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 5; `ORC-65GL74N4AU` |  |
 | 1445 | TiAu2+L->TiAu4 | TiAu2: Au 0.666667, Ti 0.333333; L: Au 0.8; TiAu4: Au 0.8, Ti 0.2 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 10; `ORC-ET7HS3G32D` |  |
 | 1443 | TiAu2+L->TiAu4 | TiAu2: Au 0.666667, Ti 0.333333; L: Au 0.8073; TiAu4: Au 0.8, Ti 0.2 | model | [1] Luo 2001 | Table 4, p. 7, row 9; `ORC-IQYSTEG4XP` |  |

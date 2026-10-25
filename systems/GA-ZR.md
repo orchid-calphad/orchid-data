@@ -1,10 +1,10 @@
 # Ga–Zr system
 
-> Ga–Zr system: 130 accepted literature values (crystal structure 90, invariant reaction 27, phase equilibrium 11, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Zr system: 124 accepted literature values (crystal structure 90, invariant reaction 23, phase equilibrium 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-ZR.html · Markdown: https://data.orchid-project.org/systems/GA-ZR.md
 
-130 accepted literature values from 1 paper(s) (experimental 83, model 3, unspecified 44); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+124 accepted literature values from 1 paper(s) (experimental 79, model 1, unspecified 44); 1 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-ZR.json) · [CSV](https://data.orchid-project.org/systems/GA-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-ZR/GaZr-14Luo.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GA-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-ZR.html) · [Markdown](https://data.orchid-project.org/systems/GA-ZR.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 83 |
-| model | 3 |
+| experimental | 79 |
+| model | 1 |
 | unspecified | 44 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
-| phase transition | 2 |
+| invariant reaction | 23 |
 | phase equilibrium | 11 |
 | crystal structure | 90 |
 
@@ -72,7 +71,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ga–Zr system (27)
+Table: Invariant reactions reported in the literature for the Ga–Zr system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -82,16 +81,12 @@ Table: Invariant reactions reported in the literature for the Ga–Zr system (27
 | 1782 | peritectic: Liquid + Ga4Zr5 ↔ βGaZr | Liquid: Zr 0.495; Ga4Zr5: Zr 0.556; βGaZr: Zr 0.5 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 26; `ORC-V767KSOQ4N` |  |
 | 1778 | polymorphic: βGaZr ↔ αGaZr | βGaZr: Zr 0.5; αGaZr: Zr 0.5 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 28; `ORC-2DELALLFV3` |  |
 | 1773 | polymorphic: βGaZr ↔ αGaZr | βGaZr: Zr 0.5; αGaZr: Zr 0.5 | model | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 27; `ORC-PR3ZD2BGBM` |  |
-| 1723.5 | eutectoid: Ga4Zr5 M Ga2Zr3 + aGaZr |  | experimental | [1] Luo 2014 | p. 6; `ORC-IWOICJITN6` | “Fig. 3(a) shows a clearly visible peak with an onset at 1723.5 K, which represents the temperature of the eutectoid reaction (Ga4Zr5 M Ga2Zr3 + aGaZr).” |
-| 1723 | eutectoid: Ga4Zr5 M aGaZr + Ga3Zr2 |  | model | [1] Luo 2014 | p. 7; `ORC-33HBO7XWWZ.1a6411` | “The calculated reaction temperature of the eutectoid reaction Ga4Zr5 M aGaZr + Ga3Zr2 is 1723 K, and the calculated eutectic point of Liquid M Ga3Zr5 + (bZr) is at 1669 K and 80.0 at.% Zr.” |
 | 1723 | eutectoid: Ga4Zr5 ↔ αGaZr + Ga2Zr3 | Ga4Zr5: Zr 0.556; αGaZr: Zr 0.5; Ga2Zr3: Zr 0.6 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 14; `ORC-CPMB4IEZKH` |  |
 | 1723 | eutectoid: Ga4Zr5 ↔ αGaZr + Ga2Zr3 | Ga4Zr5: Zr 0.556; αGaZr: Zr 0.5; Ga2Zr3: Zr 0.6 | experimental | [1] Luo 2014 | Table 5, p. 8, row 13; `ORC-SHSGD2K7LO` |  |
 | 1703 | peritectic: Liquid + αGaZr ↔ Ga3Zr2 | Liquid: Zr 0.38; αGaZr: Zr 0.5; Ga3Zr2: Zr 0.4 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 6; `ORC-4Q5C6RQYDP` |  |
 | 1703 | peritectic: Liquid + αGaZr ↔ Ga3Zr2 | Liquid: Zr 0.379; αGaZr: Zr 0.5; Ga3Zr2: Zr 0.4 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 7; `ORC-GAMKDMH6LR` |  |
 | 1673 | eutectoid: Ga4Zr5 ↔ αGaZr + Ga2Zr3 | Ga4Zr5: Zr 0.556; αGaZr: Zr 0.5; Ga2Zr3: Zr 0.6 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 12; `ORC-JIXK5MF5OI` |  |
-| 1671.5 | eutectic: Liquid M (bZr) + Ga3Zr5 |  | experimental | [1] Luo 2014 | p. 6; `ORC-Z6NLEFRRJS` | “The peak temperature of 1671.5 K is the temperature of the eutectic reaction (Liquid M (bZr) + Ga3Zr5).” |
 | 1671 | eutectic: Liquid ↔ Ga3Zr5 + (βZr) | Ga3Zr5: Zr 0.625 | experimental | [1] Luo 2014 | Table 5, p. 8, row 17; `ORC-3RKGMPGEFQ` |  |
-| 1669 | eutectic: Liquid M Ga3Zr5 + (bZr) |  | model | [1] Luo 2014 | p. 7; `ORC-33HBO7XWWZ.f0e7ce` | “The calculated reaction temperature of the eutectoid reaction Ga4Zr5 M aGaZr + Ga3Zr2 is 1723 K, and the calculated eutectic point of Liquid M Ga3Zr5 + (bZr) is at 1669 K and 80.0 at.% Zr.” |
 | 1669 | eutectic: Liquid ↔ Ga3Zr5 + (βZr) | Liquid: Zr 0.8; Ga3Zr5: Zr 0.625; (βZr): Zr 0.9 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 18; `ORC-NLTMX6BPBJ` |  |
 | 1573 | peritectic: Liquid + Ga3Zr2 ↔ Ga2Zr | Liquid: Zr 0.23; Ga3Zr2: Zr 0.4; Ga2Zr: Zr 0.333 | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 5, p. 8, row 4; `ORC-GP6LKJMCNQ` |  |
 | 1570 | peritectic: Liquid + Ga3Zr2 ↔ Ga2Zr | Liquid: Zr 0.236; Ga3Zr2: Zr 0.4; Ga2Zr: Zr 0.333 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 5; `ORC-6DJVSVEB4H` |  |
@@ -105,15 +100,6 @@ Table: Invariant reactions reported in the literature for the Ga–Zr system (27
 | 303 | eutectic: Liquid ↔ (Ga) + Ga3Zr | Liquid: Zr 0; (Ga): Zr 0; Ga3Zr: Zr 0.25 | unspecified | [1] Luo 2014 | Table 5, p. 8, row 1; `ORC-VD4VZFBE3Y` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Ga–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1113 K | 1113 | other | experimental | [1] Luo 2014; _cites Easton 1970_ [doi](https://doi.org/10.1007/bf03037856) | p. 1; `ORC-63TYB5GHOY` | “By means of metallography, Easton and Bettertton \[11\] investigated the Zr-rich region of the Ga-Zr system and reported the existence of an eutectoid reaction (bZr) M (aZr) + GaZr3 at 1113 K and 98.2 at.% Zr and the solubilities” |
-| Phase transition | 1673 K | 1673 | Ga4Zr5 M Ga2Zr3 + aGaZr | experimental | [1] Luo 2014; _cites Potzschke 1962_ | p. 6; `ORC-PWHWRLZVUW` | “The observed temperature is in agreement with that from Pötzschke and Schubert \[10\] (1673 ± 100 K) and thus accepted in the present modeling.” |
 
 ### Phase equilibrium (11)
 

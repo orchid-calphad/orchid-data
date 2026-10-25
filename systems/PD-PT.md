@@ -1,24 +1,12 @@
 # Pd–Pt system
 
-> Pd–Pt system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Pt system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-PT.html · Markdown: https://data.orchid-project.org/systems/PD-PT.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-PT.json) · [CSV](https://data.orchid-project.org/systems/PD-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-PT/PdPt-91Oka.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PD-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-PT.html) · [Markdown](https://data.orchid-project.org/systems/PD-PT.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -31,22 +19,6 @@ Table: Assessments with a calculated phase diagram
 | PdPt-91Oka.tdb | H. Okamoto, J. Phase Equilib., 12, 617-18(1991). [doi:10.1007/BF02645087](https://doi.org/10.1007/BF02645087) | `7ade8faf16784286d869b314838e8050d02a45be04bc539b400e270a75b29e04` | [viewer](https://orchid-project.org/phase-diagrams/#PD-PT/PdPt-91Oka.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/PdPt-91Oka.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/PdPt-91Oka.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/PD/PD-PT.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/PD/PD-PT.json)
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Pd–Pt system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 435.15 K | 435.15 | other | model | [1] Okamoto 1991 | p. 2; `ORC-7QE5M355BO` | “The present thermodynamic model predicts the critical point of the miscibility gap in the solid phase occurring at 162 \*C and 61 at.% Pt.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. H Okamoto, Pd-Pt (Palladium-Platinum), JPE 12, 617-618 (1991). [doi:10.1007/bf02645087](https://doi.org/10.1007/bf02645087)
 
 ## Please cite
 

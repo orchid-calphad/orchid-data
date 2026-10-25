@@ -1,10 +1,10 @@
 # Cs–O system
 
-> Cs–O system: 175 accepted literature values (crystal structure 68, heat capacity / entropy / enthalpy 54, formation 39, phase transition 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cs–O system: 171 accepted literature values (crystal structure 68, heat capacity / entropy / enthalpy 54, formation 39, phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CS-O.html · Markdown: https://data.orchid-project.org/systems/CS-O.md
 
-175 accepted literature values from 1 paper(s) (experimental 53, model 37, DFT 73, unspecified 12); 1 calculated phase diagram(s).
+171 accepted literature values from 1 paper(s) (experimental 50, model 36, DFT 73, unspecified 12); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CS-O.json) · [CSV](https://data.orchid-project.org/systems/CS-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-O/CsO-15Gue.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CS-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-O.html) · [Markdown](https://data.orchid-project.org/systems/CS-O.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 53 |
-| model | 37 |
+| experimental | 50 |
+| model | 36 |
 | DFT | 73 |
 | unspecified | 12 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
-| phase transition | 11 |
+| invariant reaction | 1 |
+| phase transition | 9 |
 | formation | 39 |
 | heat capacity / entropy / enthalpy | 54 |
 | crystal structure | 68 |
@@ -47,13 +47,11 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cs–O system (3)
+Table: Invariant reactions reported in the literature for the Cs–O system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 271 | eutectic: liquid = Cs bcc + Cs7O |  | experimental | [1] Guéneau 2015; _cites Brauer 1947_ [doi](https://doi.org/10.1002/zaac.19472550110) | p. 2; `ORC-B5SGBQWVUS.8e25b0` | “In the Cs-Cs2O part, an eutectic reaction (liquid1⁄4 Cs bccþ Cs7O) was measured by Brauer \[10\] at 271 K and the compound Cs7O was found to melt congruently at 276 K.” |
 | 262.7 | peritectic: Cs7O2 = Cs7O + Cs3O |  | experimental | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | p. 2; `ORC-4X3TF7HV74` | “Their observation of a transition at 262.7 K between 20 and 25 at% O implies that Cs7O2 decomposes by a peritectic reaction into Cs7O and Cs3O.” |
-| 262 | eutectic: liquid = Cs7O + Cs4O |  | experimental | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | p. 2; `ORC-F64CD32JLB` | “An eutectic reaction (liquid1⁄4Cs7OþCs4O) was measured by Knights and Phillips \[11\] at 262 K.” |
 
 ## Formation enthalpies
 
@@ -105,14 +103,13 @@ Table: Enthalpies of formation, Cs–O system (39)
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (9)
 
 Table: Phase transition, Cs–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 276 K | 276 | congruent transformation | experimental | [1] Guéneau 2015; _cites Brauer 1947_ [doi](https://doi.org/10.1002/zaac.19472550110) | p. 2; `ORC-B5SGBQWVUS.2fb522` | “In the Cs-Cs2O part, an eutectic reaction (liquid1⁄4 Cs bccþ Cs7O) was measured by Brauer \[10\] at 271 K and the compound Cs7O was found to melt congruently at 276 K.” |
-| Phase transition | 300 K | 300 |  | model | [1] Guéneau 2015; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 5; `ORC-63C22VFA3F` | “In case of cesium with a low melting point at 300 K, the SGTE function from Dinsdale \[36\] used in our CALPHAD model is valid for T4 200 K.” |
 | Phase transition | 326 K | 326 | Cs4O = liquid + Cs3O | experimental | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | p. 2; `ORC-CXQ3SVKDBS` | “Cs4O was found to decompose at 326 K into liquid and Cs3O.” |
 | Phase transition | 343 K | 343 | other | experimental | [1] Guéneau 2015; _cites Cordfunke 1990_ | p. 2; `ORC-K3PHFC2Y6E.1aa8c7` | “The largest uncertainties were on both the melting point of Cs2O2 (863 K) and the decomposition of CsO3 (343 K), which were reported on the phase diagrams successively by Knights and Phillips \[11\], Cordfunke and Konings \[8\].” |
 | Phase transition | 437 K | 437 | Cs3O = liquid + Cs2O | experimental | [1] Guéneau 2015 | p. 2; `ORC-M73HP4OOV6` | “And Cs3O was observed to decompose into liquid and Cs2O at 437 K.” |
@@ -120,7 +117,6 @@ Table: Phase transition, Cs–O system
 | Phase transition | 723 K | 723 | CsO2 | experimental | [1] Guéneau 2015; _cites Volnov 1967_ | p. 2; `ORC-KM7ZYQFNR5.fb7253` | “The melting point of CsO2 was estimated at 705 K by Blumenthal and Centerszwer \[12\] and later reported as 723 K by Vol'nov \[13\].” |
 | Phase transition | 723 K | 723 | CsO2 | experimental | [1] Guéneau 2015; _cites Volnov 1967_ | p. 2; `ORC-NYL5LJSQBJ` | “CsO2 was observed to start to melt at 723 K in agreement with Vol'nov \[13\].” |
 | Phase transition | 768 K | 768 | Cs2O | experimental | [1] Guéneau 2015; _cites Touzain 1976_ [doi](https://doi.org/10.1007/bf01909410) | p. 2; `ORC-NSOAQSEFZC` | “The melting point of Cs2O was found at 768 K by Touzain \[14\] using DTA.” |
-| Phase transition | 863 K | 863 |  | experimental | [1] Guéneau 2015 | p. 8; `ORC-L5ZX2UAEED` | “In the assessment, it was not possible to reproduce the melting point of Cs2O2 (863 K).” |
 | Phase transition | 863 K | 863 | Cs2O2 | experimental | [1] Guéneau 2015; _cites Cordfunke 1990_ | p. 2; `ORC-K3PHFC2Y6E.039518` | “The largest uncertainties were on both the melting point of Cs2O2 (863 K) and the decomposition of CsO3 (343 K), which were reported on the phase diagrams successively by Knights and Phillips \[11\], Cordfunke and Konings \[8\].” |
 
 ### Heat capacity / entropy / enthalpy (54)

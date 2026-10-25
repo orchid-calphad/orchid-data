@@ -1,10 +1,10 @@
 # Ni–Pr system
 
-> Ni–Pr system: 166 accepted literature values (invariant reaction 115, phase transition 51) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Pr system: 141 accepted literature values (invariant reaction 107, phase transition 34) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-PR.html · Markdown: https://data.orchid-project.org/systems/NI-PR.md
 
-166 accepted literature values from 3 paper(s) (experimental 116, model 38, unspecified 12); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+141 accepted literature values from 3 paper(s) (experimental 91, model 38, unspecified 12); 2 calculated phase diagram(s). 30 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-PR.json) · [CSV](https://data.orchid-project.org/systems/NI-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-PR/NiPr-05Hua.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-PR.html) · [Markdown](https://data.orchid-project.org/systems/NI-PR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 116 |
+| experimental | 91 |
 | model | 38 |
 | unspecified | 12 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 115 |
-| phase transition | 51 |
+| invariant reaction | 107 |
+| phase transition | 34 |
 
 ## Calculated phase diagrams
 
@@ -88,25 +88,24 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–Pr system (115)
+Table: Invariant reactions reported in the literature for the Ni–Pr system (107)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1658.15 | Liquid -> Ni5Pr | Liquid: Ni 0.833333, Pr 0.166667; Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 7; `ORC-2PMEIFPIFB` |  |
-| 1658.15 | Liquid -> Ni5Pr | Liquid: Ni 0.833333, Pr 0.166667; Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005 | Table 2, p. 4, row 6; `ORC-AKDY6WQ73W` |  |
-| 1658.15 | Liquid -> Ni5Pr | Liquid: Pr 0.1667; Ni5Pr: Ni 0.833333, Pr 0.166667 | model | [1] Huang 2005 | Table 2, p. 4, row 5; `ORC-V257CXPSQG` |  |
-| 1638.15 | Liquid -> Ni5Pr | Liquid: Ni 0.833333, Pr 0.166667; Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 8; `ORC-55UJH5LJM5` |  |
-| 1555 | liq. -> Ni5Pr + fcc(Ni) | L: Pr 0.0917 | model | [2] Du 1999 | Table 8, p. 6, row 1; `ORC-FGLYIKKCGF` |  |
+| 1658.15 | congruent melting: Liquid -> Ni5Pr | Liquid: Ni 0.833333, Pr 0.166667; Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 7; `ORC-2PMEIFPIFB` |  |
+| 1658.15 | congruent melting: Liquid -> Ni5Pr | Liquid: Ni 0.833333, Pr 0.166667; Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005 | Table 2, p. 4, row 6; `ORC-AKDY6WQ73W` |  |
+| 1658.15 | congruent melting: Liquid -> Ni5Pr | Liquid: Pr 0.1667; Ni5Pr: Ni 0.833333, Pr 0.166667 | model | [1] Huang 2005 | Table 2, p. 4, row 5; `ORC-V257CXPSQG` |  |
+| 1638.15 | congruent melting: Liquid -> Ni5Pr | Liquid: Ni 0.833333, Pr 0.166667; Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 8; `ORC-55UJH5LJM5` |  |
+| 1555 | eutectic: liq. -> Ni5Pr + fcc(Ni) | L: Pr 0.0917 | model | [2] Du 1999 | Table 8, p. 6, row 1; `ORC-FGLYIKKCGF` |  |
 | 1555 | eutectic: Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.092; Ni5Pr: Pr 0.166667 | experimental | [3] Rahou 2015; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 4, p. 3, row 5; `ORC-HQDHPHDSQC` |  |
-| 1553.15 | Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.11; Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 3; `ORC-MLDQD7MNLJ` |  |
-| 1553.15 | Liquid -> Ni5Pr + fcc (Ni) | Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005 | Table 2, p. 4, row 2; `ORC-SQPIIL4T4N` |  |
-| 1553.15 | Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.0843; Ni5Pr: Ni 0.833333, Pr 0.166667 | model | [1] Huang 2005 | Table 2, p. 4, row 1; `ORC-XASAPJJAIS` |  |
+| 1553.15 | eutectic: Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.11; Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 3; `ORC-MLDQD7MNLJ` |  |
+| 1553.15 | eutectic: Liquid -> Ni5Pr + fcc (Ni) | Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005 | Table 2, p. 4, row 2; `ORC-SQPIIL4T4N` |  |
+| 1553.15 | eutectic: Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.0843; Ni5Pr: Ni 0.833333, Pr 0.166667 | model | [1] Huang 2005 | Table 2, p. 4, row 1; `ORC-XASAPJJAIS` |  |
 | 1553 | eutectic: Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.084; Ni5Pr: Pr 0.166667 | experimental | [3] Rahou 2015; _cites Colinet 1986_ [doi](https://doi.org/10.1007/bf02643852) | Table 4, p. 3, row 3; `ORC-IZ5GQIGVZC` |  |
 | 1553 | eutectic: Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.083; Ni5Pr: Pr 0.166667 | model | [3] Rahou 2015 | Table 4, p. 3, row 1; `ORC-KS6YYDDJ3H` |  |
-| 1553 | eutectic |  | experimental | [3] Rahou 2015 | p. 3; `ORC-O6OXFMJ46O.e09631` | “Five eutectic reactions occur: L M a-Pr + Pr3Ni (at 773 K and 19 at.% Ni), L M Pr3Ni + Pr7Ni3 (at 763 K and 27 at.% Ni), L M Pr7Ni3 + PrNi (at 783 K and 32.5 at.% Ni), L M NiPr + PrNi2 (at 953 K and 53 at.% Ni), L M PrNi5 + Ni (at 1553 K and 89 at.% Ni).” |
 | 1553 | eutectic: Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.11; Ni5Pr: Pr 0.166667 | experimental | [3] Rahou 2015; _cites Pan 1984_ | Table 4, p. 3, row 2; `ORC-OLFH2EMFJE` |  |
-| 1553 | liq. -> Ni5Pr + fcc(Ni) | L: Pr 0.11 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 2; `ORC-Q5THXMI32Q` |  |
-| 1543.15 | Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.09; Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 4; `ORC-NDQMBJ5C5F` |  |
+| 1553 | eutectic: liq. -> Ni5Pr + fcc(Ni) | L: Pr 0.11 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 2; `ORC-Q5THXMI32Q` |  |
+| 1543.15 | eutectic: Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.09; Ni5Pr: Ni 0.833333, Pr 0.166667 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 4; `ORC-NDQMBJ5C5F` |  |
 | 1543 | eutectic: Liquid -> Ni5Pr + fcc (Ni) | Liquid: Pr 0.09; Ni5Pr: Pr 0.166667 | experimental | [3] Rahou 2015; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380401) | Table 4, p. 3, row 4; `ORC-43VILRHQTN` |  |
 | 1435.15 | Liquid + Ni5Pr -> Ni7Pr2 | Liquid: Pr 0.2867; Ni5Pr: Ni 0.833333, Pr 0.166667; Ni7Pr2: Ni 0.777778, Pr 0.222222 | model | [1] Huang 2005 | Table 2, p. 4, row 9; `ORC-5T2WQOZ52L` |  |
 | 1435.15 | Liquid + Ni5Pr -> Ni7Pr2 | Ni5Pr: Ni 0.833333, Pr 0.166667; Ni7Pr2: Ni 0.777778, Pr 0.222222 | experimental | [1] Huang 2005 | Table 2, p. 4, row 10; `ORC-YYCH3OT6ED` |  |
@@ -140,77 +139,70 @@ Table: Invariant reactions reported in the literature for the Ni–Pr system (11
 | 1183 | peritectic: Liquid + Ni3Pr -> Ni2Pr | Liquid: Pr 0.38; Ni3Pr: Pr 0.25; Ni2Pr: Pr 0.333333 | experimental | [3] Rahou 2015; _cites Pan 1984_ | Table 4, p. 3, row 21; `ORC-BPLRV26EJJ` |  |
 | 1183 | liq. + Ni3Pr -> Ni2Pr | L: Pr 0.38 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 10; `ORC-TPVTHWJBDJ` |  |
 | 1154 | peritectic: Liquid + Ni3Pr -> Ni2Pr | Ni3Pr: Pr 0.25; Ni2Pr: Pr 0.333333 | experimental | [3] Rahou 2015; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380401) | Table 4, p. 3, row 23; `ORC-KDGEGPQVAU` |  |
-| 1153.15 | peritectic |  | experimental | [3] Rahou 2015; _cites Vogel 1947_ | p. 2; `ORC-6GXO35YDIV` | “Vogel and Fulling \[22\] suggested that Ni2Pr decomposes peritectically at 880 °C, but Wernick and Geller \[33\] did not observe any phase transition between room temperature and 880 °C in their DTA studies.” |
 | 1153.15 | Liquid + Ni3Pr -> Ni2Pr | Ni3Pr: Ni 0.75, Pr 0.25; Ni2Pr: Ni 0.666667, Pr 0.333333 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 20; `ORC-KBJUQLBNMN` |  |
-| 1153.15 | peritectic |  | experimental | [2] Du 1999; _cites Vogel 1947_ | p. 3; `ORC-WFLKPZ4Z5U` | “Vogel \[24\] suggested that Ni 2 Pr decomposes peritectically at 8808C, but Wernick et al. \[31\] did not observe any transition between room temperature and 8808C.” |
 | 1068.15 | Liquid + bcc (Pr) -> dhcp (Pr) |  | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 49; `ORC-V7I4UIOE24` |  |
 | 1053.15 | Liquid + bcc (Pr) -> dhcp (Pr) | Liquid: Pr 0.89 | model | [1] Huang 2005 | Table 2, p. 4, row 47; `ORC-4FTU6XFDLT` |  |
 | 1053.15 | Liquid + bcc (Pr) -> dhcp (Pr) |  | experimental | [1] Huang 2005 | Table 2, p. 4, row 48; `ORC-GSS2IRM5ZW` |  |
-| 1039.15 | Liquid -> NiPr | Liquid: Ni 0.5, Pr 0.5; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 26; `ORC-2Q6HEO2756` |  |
-| 1039.15 | Liquid -> NiPr | Liquid: Pr 0.5; NiPr: Ni 0.5, Pr 0.5 | model | [1] Huang 2005 | Table 2, p. 4, row 25; `ORC-KLH45ZQMXA` |  |
-| 1006.15 | Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.4429; Ni2Pr: Ni 0.666667, Pr 0.333333; NiPr: Ni 0.5, Pr 0.5 | model | [1] Huang 2005 | Table 2, p. 4, row 21; `ORC-T2V3XBJJSP` |  |
+| 1039.15 | congruent melting: Liquid -> NiPr | Liquid: Ni 0.5, Pr 0.5; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 26; `ORC-2Q6HEO2756` |  |
+| 1039.15 | congruent melting: Liquid -> NiPr | Liquid: Pr 0.5; NiPr: Ni 0.5, Pr 0.5 | model | [1] Huang 2005 | Table 2, p. 4, row 25; `ORC-KLH45ZQMXA` |  |
+| 1006.15 | eutectic: Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.4429; Ni2Pr: Ni 0.666667, Pr 0.333333; NiPr: Ni 0.5, Pr 0.5 | model | [1] Huang 2005 | Table 2, p. 4, row 21; `ORC-T2V3XBJJSP` |  |
 | 1006 | eutectic: Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.448; Ni2Pr: Pr 0.333333; NiPr: Pr 0.5 | model | [3] Rahou 2015 | Table 4, p. 3, row 25; `ORC-7DJRP3HBMI` |  |
 | 1006 | eutectic: Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.443; Ni2Pr: Pr 0.333333; NiPr: Pr 0.5 | experimental | [3] Rahou 2015; _cites Colinet 1986_ [doi](https://doi.org/10.1007/bf02643852) | Table 4, p. 3, row 29; `ORC-VMCZWOBPPS` |  |
-| 1005.15 | Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.45; Ni2Pr: Ni 0.666667, Pr 0.333333; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 22; `ORC-EW3BOL6KJY` |  |
+| 1005.15 | eutectic: Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.45; Ni2Pr: Ni 0.666667, Pr 0.333333; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 22; `ORC-EW3BOL6KJY` |  |
 | 1005 | eutectic: Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.45; Ni2Pr: Pr 0.333333; NiPr: Pr 0.5 | experimental | [3] Rahou 2015; _cites Huang 2005_ [doi](https://doi.org/10.1007/s11669-005-0107-3) | Table 4, p. 3, row 26; `ORC-M7IBWAHBAH` |  |
-| 1003.15 | Liquid -> NiPr | Liquid: Ni 0.5, Pr 0.5; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 28; `ORC-55FASQTDDX` |  |
-| 1003.15 | Liquid -> NiPr | Liquid: Ni 0.5, Pr 0.5; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 27; `ORC-JLP53IIEOC` |  |
-| 978.15 | Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.47; Ni2Pr: Ni 0.666667, Pr 0.333333; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 24; `ORC-35MNRGYGVJ` |  |
+| 1003.15 | congruent melting: Liquid -> NiPr | Liquid: Ni 0.5, Pr 0.5; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 28; `ORC-55FASQTDDX` |  |
+| 1003.15 | congruent melting: Liquid -> NiPr | Liquid: Ni 0.5, Pr 0.5; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 27; `ORC-JLP53IIEOC` |  |
+| 978.15 | eutectic: Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.47; Ni2Pr: Ni 0.666667, Pr 0.333333; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 24; `ORC-35MNRGYGVJ` |  |
 | 978 | eutectic: Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.47; Ni2Pr: Pr 0.333333; NiPr: Pr 0.5 | experimental | [3] Rahou 2015; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380401) | Table 4, p. 3, row 28; `ORC-TY7ARI7IJB` |  |
-| 953.15 | Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.47; Ni2Pr: Ni 0.666667, Pr 0.333333; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 23; `ORC-P6MIUTSVNW` |  |
+| 953.15 | eutectic: Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.47; Ni2Pr: Ni 0.666667, Pr 0.333333; NiPr: Ni 0.5, Pr 0.5 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 23; `ORC-P6MIUTSVNW` |  |
 | 953 | eutectic: Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.47; Ni2Pr: Pr 0.333333; NiPr: Pr 0.5 | experimental | [3] Rahou 2015; _cites Pan 1984_ | Table 4, p. 3, row 27; `ORC-ESHU3PIWIU` |  |
-| 953 | eutectic |  | experimental | [3] Rahou 2015 | p. 3; `ORC-O6OXFMJ46O.5fca74` | “Five eutectic reactions occur: L M a-Pr + Pr3Ni (at 773 K and 19 at.% Ni), L M Pr3Ni + Pr7Ni3 (at 763 K and 27 at.% Ni), L M Pr7Ni3 + PrNi (at 783 K and 32.5 at.% Ni), L M NiPr + PrNi2 (at 953 K and 53 at.% Ni), L M PrNi5 + Ni (at 1553 K and 89 at.% Ni).” |
-| 953 | liq. -> NiPr + Ni2Pr | L: Pr 0.47 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 12; `ORC-WJKXVRBNNW` |  |
+| 953 | eutectic: liq. -> NiPr + Ni2Pr | L: Pr 0.47 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 12; `ORC-WJKXVRBNNW` |  |
 | 952 | eutectic: Liquid -> Ni2Pr + NiPr | Liquid: Pr 0.419; Ni2Pr: Pr 0.333333; NiPr: Pr 0.5 | experimental | [3] Rahou 2015; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 4, p. 3, row 30; `ORC-BIHPTBZ2UV` |  |
-| 952 | liq. -> NiPr + Ni2Pr | L: Pr 0.4194 | model | [2] Du 1999 | Table 8, p. 6, row 11; `ORC-X72BBN7YZF` |  |
-| 839.15 | Liquid -> Ni3Pr7 | Liquid: Ni 0.3, Pr 0.7; Ni3Pr7: Ni 0.3, Pr 0.7 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 33; `ORC-L7HFIK4A3C` |  |
-| 839.15 | Liquid -> Ni3Pr7 | Liquid: Pr 0.7; Ni3Pr7: Ni 0.3, Pr 0.7 | model | [1] Huang 2005 | Table 2, p. 4, row 32; `ORC-VEO5BTZHHN` |  |
-| 835.15 | Liquid -> NiPr3 | Liquid: Pr 0.75; NiPr3: Ni 0.25, Pr 0.75 | model | [1] Huang 2005 | Table 2, p. 4, row 38; `ORC-HT3QWDDZBT` |  |
-| 835.15 | Liquid -> NiPr3 | Liquid: Ni 0.25, Pr 0.75; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 39; `ORC-PAB7TGLGAS` |  |
+| 952 | eutectic: liq. -> NiPr + Ni2Pr | L: Pr 0.4194 | model | [2] Du 1999 | Table 8, p. 6, row 11; `ORC-X72BBN7YZF` |  |
+| 839.15 | congruent melting: Liquid -> Ni3Pr7 | Liquid: Ni 0.3, Pr 0.7; Ni3Pr7: Ni 0.3, Pr 0.7 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 33; `ORC-L7HFIK4A3C` |  |
+| 839.15 | congruent melting: Liquid -> Ni3Pr7 | Liquid: Pr 0.7; Ni3Pr7: Ni 0.3, Pr 0.7 | model | [1] Huang 2005 | Table 2, p. 4, row 32; `ORC-VEO5BTZHHN` |  |
+| 835.15 | congruent melting: Liquid -> NiPr3 | Liquid: Pr 0.75; NiPr3: Ni 0.25, Pr 0.75 | model | [1] Huang 2005 | Table 2, p. 4, row 38; `ORC-HT3QWDDZBT` |  |
+| 835.15 | congruent melting: Liquid -> NiPr3 | Liquid: Ni 0.25, Pr 0.75; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 39; `ORC-PAB7TGLGAS` |  |
 | 833 | eutectic: Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.731; Ni3Pr7: Pr 0.7; NiPr3: Pr 0.75 | model | [3] Rahou 2015 | Table 4, p. 3, row 43; `ORC-7IIB5MGFD2` |  |
-| 832.15 | Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.7284; Ni3Pr7: Ni 0.3, Pr 0.7; NiPr3: Ni 0.25, Pr 0.75 | model | [1] Huang 2005 | Table 2, p. 4, row 35; `ORC-SOOABAGRKO` |  |
+| 832.15 | eutectic: Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.7284; Ni3Pr7: Ni 0.3, Pr 0.7; NiPr3: Ni 0.25, Pr 0.75 | model | [1] Huang 2005 | Table 2, p. 4, row 35; `ORC-SOOABAGRKO` |  |
 | 832 | eutectic: Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.728; Ni3Pr7: Pr 0.7; NiPr3: Pr 0.75 | experimental | [3] Rahou 2015; _cites Colinet 1986_ [doi](https://doi.org/10.1007/bf02643852) | Table 4, p. 3, row 47; `ORC-CAUP6STKSA` |  |
-| 830.15 | Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.72; Ni3Pr7: Ni 0.3, Pr 0.7; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 36; `ORC-EN7OYZZNQH` |  |
+| 830.15 | eutectic: Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.72; Ni3Pr7: Ni 0.3, Pr 0.7; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 36; `ORC-EN7OYZZNQH` |  |
 | 830 | eutectic: Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.72; Ni3Pr7: Pr 0.7; NiPr3: Pr 0.75 | experimental | [3] Rahou 2015; _cites Huang 2005_ [doi](https://doi.org/10.1007/s11669-005-0107-3) | Table 4, p. 3, row 44; `ORC-XE3PGJIN4A` |  |
-| 827.15 | Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.77; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 44; `ORC-E3HIEVAXFE` |  |
-| 827.15 | Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.77; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005 | Table 2, p. 4, row 43; `ORC-K2AQ3VBPZM` |  |
-| 827.15 | Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.7885; NiPr3: Ni 0.25, Pr 0.75 | model | [1] Huang 2005 | Table 2, p. 4, row 42; `ORC-P4Q3KAVIJV` |  |
-| 827.15 | eutectic: liquid ↔ Ni3 Pr + dhcp (Pr) |  | experimental | [1] Huang 2005 | p. 3; `ORC-W6CIN4PFD5.c81e1a` | “Fig. 3 shows the DTA trace of Ni-96 at.% Pr alloy. Temperatures at 554, 780 and 865 ◦ C are for eutectic reaction liquid ↔ Ni3 Pr + dhcp (Pr), metatectic reaction liquid + dhcp (Pr) ↔ bcc (Pr) and liquidus curve, respectively.” |
+| 827.15 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.77; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 44; `ORC-E3HIEVAXFE` |  |
+| 827.15 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.77; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005 | Table 2, p. 4, row 43; `ORC-K2AQ3VBPZM` |  |
+| 827.15 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.7885; NiPr3: Ni 0.25, Pr 0.75 | model | [1] Huang 2005 | Table 2, p. 4, row 42; `ORC-P4Q3KAVIJV` |  |
 | 827 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.792; NiPr3: Pr 0.75 | model | [3] Rahou 2015 | Table 4, p. 3, row 53; `ORC-53ZCBZQ7ON` |  |
 | 827 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.788; NiPr3: Pr 0.75 | experimental | [3] Rahou 2015; _cites Colinet 1986_ [doi](https://doi.org/10.1007/bf02643852) | Table 4, p. 3, row 55; `ORC-72SK5UXBHJ` |  |
 | 827 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.77; NiPr3: Pr 0.75 | experimental | [3] Rahou 2015; _cites Huang 2005_ [doi](https://doi.org/10.1007/s11669-005-0107-3) | Table 4, p. 3, row 54; `ORC-OM55C25FAI` |  |
-| 823.15 | Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.6591; NiPr: Ni 0.5, Pr 0.5; Ni3Pr7: Ni 0.3, Pr 0.7 | model | [1] Huang 2005 | Table 2, p. 4, row 29; `ORC-4UMCMYPCLB` |  |
-| 823.15 | Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.65; NiPr: Ni 0.5, Pr 0.5; Ni3Pr7: Ni 0.3, Pr 0.7 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 30; `ORC-CGUTCZXR7M` |  |
+| 823.15 | eutectic: Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.6591; NiPr: Ni 0.5, Pr 0.5; Ni3Pr7: Ni 0.3, Pr 0.7 | model | [1] Huang 2005 | Table 2, p. 4, row 29; `ORC-4UMCMYPCLB` |  |
+| 823.15 | eutectic: Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.65; NiPr: Ni 0.5, Pr 0.5; Ni3Pr7: Ni 0.3, Pr 0.7 | experimental | [1] Huang 2005; _cites Huang_ | Table 2, p. 4, row 30; `ORC-CGUTCZXR7M` |  |
 | 823 | eutectic: Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.659; NiPr: Pr 0.5; Ni3Pr7: Pr 0.7 | experimental | [3] Rahou 2015; _cites Colinet 1986_ [doi](https://doi.org/10.1007/bf02643852) | Table 4, p. 3, row 36; `ORC-M7Y36AQYJY` |  |
 | 823 | eutectic: Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.65; NiPr: Pr 0.5; Ni3Pr7: Pr 0.7 | experimental | [3] Rahou 2015; _cites Huang 2005_ [doi](https://doi.org/10.1007/s11669-005-0107-3) | Table 4, p. 3, row 35; `ORC-NUASBN5ABQ` |  |
 | 822 | eutectic: Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.649; NiPr: Pr 0.5; Ni3Pr7: Pr 0.7 | model | [3] Rahou 2015 | Table 4, p. 3, row 34; `ORC-AH75NLO5UL` |  |
-| 808.15 | Liquid -> Ni3Pr7 | Liquid: Ni 0.3, Pr 0.7; Ni3Pr7: Ni 0.3, Pr 0.7 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 34; `ORC-63MMWTTKT3` |  |
-| 803.15 | Liquid -> NiPr3 | Liquid: Ni 0.25, Pr 0.75; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 41; `ORC-RBLLTNZOBG` |  |
-| 798.15 | Liquid -> NiPr3 | Liquid: Ni 0.25, Pr 0.75; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 40; `ORC-OEXXE7GLKW` |  |
-| 783.15 | Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.675; NiPr: Ni 0.5, Pr 0.5; Ni3Pr7: Ni 0.3, Pr 0.7 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 31; `ORC-HNOH42LQIL` |  |
-| 783 | liq. -> NiPr + Ni3Pr7 | L: Pr 0.675 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 16; `ORC-3QKTZBFYHE` |  |
-| 783 | eutectic |  | experimental | [3] Rahou 2015 | p. 3; `ORC-O6OXFMJ46O.7835c8` | “Five eutectic reactions occur: L M a-Pr + Pr3Ni (at 773 K and 19 at.% Ni), L M Pr3Ni + Pr7Ni3 (at 763 K and 27 at.% Ni), L M Pr7Ni3 + PrNi (at 783 K and 32.5 at.% Ni), L M NiPr + PrNi2 (at 953 K and 53 at.% Ni), L M PrNi5 + Ni (at 1553 K and 89 at.% Ni).” |
-| 783 | liq. -> NiPr + Ni3Pr7 | L: Pr 0.6751 | model | [2] Du 1999 | Table 8, p. 6, row 15; `ORC-Q7WU2PV7Q3` |  |
+| 808.15 | congruent melting: Liquid -> Ni3Pr7 | Liquid: Ni 0.3, Pr 0.7; Ni3Pr7: Ni 0.3, Pr 0.7 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 34; `ORC-63MMWTTKT3` |  |
+| 803.15 | congruent melting: Liquid -> NiPr3 | Liquid: Ni 0.25, Pr 0.75; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 41; `ORC-RBLLTNZOBG` |  |
+| 798.15 | congruent melting: Liquid -> NiPr3 | Liquid: Ni 0.25, Pr 0.75; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 40; `ORC-OEXXE7GLKW` |  |
+| 783.15 | eutectic: Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.675; NiPr: Ni 0.5, Pr 0.5; Ni3Pr7: Ni 0.3, Pr 0.7 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 31; `ORC-HNOH42LQIL` |  |
+| 783 | eutectic: liq. -> NiPr + Ni3Pr7 | L: Pr 0.675 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 16; `ORC-3QKTZBFYHE` |  |
+| 783 | eutectic: liq. -> NiPr + Ni3Pr7 | L: Pr 0.6751 | model | [2] Du 1999 | Table 8, p. 6, row 15; `ORC-Q7WU2PV7Q3` |  |
 | 783 | eutectic: Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.675; NiPr: Pr 0.5; Ni3Pr7: Pr 0.7 | experimental | [3] Rahou 2015; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 4, p. 3, row 38; `ORC-QXSVYV7GS5` |  |
 | 783 | eutectic: Liquid -> NiPr + Ni3Pr7 | Liquid: Pr 0.67; NiPr: Pr 0.5; Ni3Pr7: Pr 0.7 | experimental | [3] Rahou 2015; _cites Pan 1984_ | Table 4, p. 3, row 37; `ORC-TY5QDXOJRD` |  |
-| 777 | liq. -> NiPr3 + Ni3Pr7 | L: Pr 0.7288 | model | [2] Du 1999 | Table 8, p. 6, row 19; `ORC-45IDZLAYCF` |  |
+| 777 | eutectic: liq. -> NiPr3 + Ni3Pr7 | L: Pr 0.7288 | model | [2] Du 1999 | Table 8, p. 6, row 19; `ORC-45IDZLAYCF` |  |
 | 777 | eutectic: Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.729; Ni3Pr7: Pr 0.7; NiPr3: Pr 0.75 | experimental | [3] Rahou 2015; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 4, p. 3, row 46; `ORC-Z2IAQFK6DO` |  |
-| 773 | eutectic |  | experimental | [3] Rahou 2015 | p. 3; `ORC-O6OXFMJ46O.1d7100` | “Five eutectic reactions occur: L M a-Pr + Pr3Ni (at 773 K and 19 at.% Ni), L M Pr3Ni + Pr7Ni3 (at 763 K and 27 at.% Ni), L M Pr7Ni3 + PrNi (at 783 K and 32.5 at.% Ni), L M NiPr + PrNi2 (at 953 K and 53 at.% Ni), L M PrNi5 + Ni (at 1553 K and 89 at.% Ni).” |
-| 763.15 | Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.73; Ni3Pr7: Ni 0.3, Pr 0.7; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 37; `ORC-AHWYEC6ABD` |  |
-| 763 | liq. -> NiPr3 + Ni3Pr7 | L: Pr 0.73 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 20; `ORC-6KQLOIYOGZ` |  |
+| 763.15 | eutectic: Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.73; Ni3Pr7: Ni 0.3, Pr 0.7; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 37; `ORC-AHWYEC6ABD` |  |
+| 763 | eutectic: liq. -> NiPr3 + Ni3Pr7 | L: Pr 0.73 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 20; `ORC-6KQLOIYOGZ` |  |
 | 763 | eutectic: Liquid -> Ni3Pr7 + NiPr3 | Liquid: Pr 0.73; Ni3Pr7: Pr 0.7; NiPr3: Pr 0.75 | experimental | [3] Rahou 2015; _cites Pan 1984_ | Table 4, p. 3, row 45; `ORC-MQKM2H5F7C` |  |
-| 763 | eutectic |  | experimental | [3] Rahou 2015 | p. 3; `ORC-O6OXFMJ46O.9d2325` | “Five eutectic reactions occur: L M a-Pr + Pr3Ni (at 773 K and 19 at.% Ni), L M Pr3Ni + Pr7Ni3 (at 763 K and 27 at.% Ni), L M Pr7Ni3 + PrNi (at 783 K and 32.5 at.% Ni), L M NiPr + PrNi2 (at 953 K and 53 at.% Ni), L M PrNi5 + Ni (at 1553 K and 89 at.% Ni).” |
-| 753.15 | Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.85; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 46; `ORC-7QPWWKLHF2` |  |
+| 753.15 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.85; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Vogel 1947_ | Table 2, p. 4, row 46; `ORC-7QPWWKLHF2` |  |
 | 753 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.85; NiPr3: Pr 0.75 | experimental | [3] Rahou 2015; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380401) | Table 4, p. 3, row 57; `ORC-R7SYALASFL` |  |
-| 738 | liq. -> dhcp(Pr) + NiPr3 | L: Pr 0.7856 | model | [2] Du 1999 | Table 8, p. 6, row 23; `ORC-SAZA45SGHA` |  |
+| 738 | eutectic: liq. -> dhcp(Pr) + NiPr3 | L: Pr 0.7856 | model | [2] Du 1999 | Table 8, p. 6, row 23; `ORC-SAZA45SGHA` |  |
 | 738 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.785; NiPr3: Pr 0.75 | experimental | [3] Rahou 2015; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 4, p. 3, row 58; `ORC-UGSFFFMUXH` |  |
-| 733.15 | Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.81; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 45; `ORC-MZPHMO7VFU` |  |
-| 733 | liq. -> dhcp(Pr) + NiPr3 | L: Pr 0.81 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 24; `ORC-2C57L3M33W` |  |
+| 733.15 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.81; NiPr3: Ni 0.25, Pr 0.75 | experimental | [1] Huang 2005; _cites Pan 1984_ | Table 2, p. 4, row 45; `ORC-MZPHMO7VFU` |  |
+| 733 | eutectic: liq. -> dhcp(Pr) + NiPr3 | L: Pr 0.81 | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 24; `ORC-2C57L3M33W` |  |
 | 733 | eutectic: Liquid -> NiPr3 + dhcp (Pr) | Liquid: Pr 0.8; NiPr3: Pr 0.75 | experimental | [3] Rahou 2015; _cites Pan 1984_ | Table 4, p. 3, row 56; `ORC-XWZ36PEOO3` |  |
 
 ## Other properties
 
-### Phase transition (51)
+### Phase transition (34)
 
 Table: Phase transition, Ni–Pr system
 
@@ -243,30 +235,13 @@ Table: Phase transition, Ni–Pr system
 | Phase transition | 1039 K | 1039 | congruent melting: Liquid -> NiPr; _Liquid: Pr 0.5; NiPr: Pr 0.5_ | experimental | [3] Rahou 2015; _cites Colinet 1986_ [doi](https://doi.org/10.1007/bf02643852) | Table 4, p. 3, row 65; `ORC-3WFUFK32Z2` |  |
 | Phase transition | 1039 K | 1039 | congruent melting: Liquid -> NiPr; _Liquid: Pr 0.5; NiPr: Pr 0.5_ | experimental | [3] Rahou 2015; _cites Huang 2005_ [doi](https://doi.org/10.1007/s11669-005-0107-3) | Table 4, p. 3, row 63; `ORC-ASJ7FXLJRL` |  |
 | Phase transition | 1039 K | 1039 | congruent melting: Liquid -> NiPr; _Liquid: Pr 0.5; NiPr: Pr 0.5_ | model | [3] Rahou 2015 | Table 4, p. 3, row 31; `ORC-RLXFLP5FJM` |  |
-| Phase transition | 1053.15 K | 1053.15 | other: liquid + dhcp (Pr) ↔ bcc (Pr) | experimental | [1] Huang 2005 | p. 3; `ORC-W6CIN4PFD5.525c0c` | “Fig. 3 shows the DTA trace of Ni-96 at.% Pr alloy. Temperatures at 554, 780 and 865 ◦ C are for eutectic reaction liquid ↔ Ni3 Pr + dhcp (Pr), metatectic reaction liquid + dhcp (Pr) ↔ bcc (Pr) and liquidus curve, respectively.” |
-| Phase transition | 1068.15 K | 1068.15 |  | experimental | [1] Huang 2005; _cites Gschneidner 1986_ | p. 3; `ORC-KPAAKXWK7D` | “The decomposition temperature at 780 ◦ C of dhcp (Pr) in Ni-96 at.% Pr alloy is lower than that in pure Pr of 795 ◦ C \[26\], therefore, the addition of Ni decreased the metatectic reaction temperature of liquid + dhcp (Pr) ↔ bcc (Pr).” |
-| Phase transition | 1138.15 K | 1138.15 | other | experimental | [1] Huang 2005 | p. 3; `ORC-W6CIN4PFD5.d4d71b` | “Fig. 3 shows the DTA trace of Ni-96 at.% Pr alloy. Temperatures at 554, 780 and 865 ◦ C are for eutectic reaction liquid ↔ Ni3 Pr + dhcp (Pr), metatectic reaction liquid + dhcp (Pr) ↔ bcc (Pr) and liquidus curve, respectively.” |
-| Phase transition | 1153.15 K | 1153.15 |  | experimental | [1] Huang 2005; _cites Vogel 1947_ | p. 2; `ORC-OH74YGEEL6.66c033` | “Except for the temperature at 1139 ◦ C, the other three ones at 921, 1029 and 1162 ◦ C are in good agreement with those reported by Pan and Cheng \[5\] for the decomposition temperature of Ni2 Pr (910 ◦ C), Ni3 Pr (1010 ◦ C) and Ni7 Pr2 (1160 ◦ C), respectively; they are much higher than those (880, 972 and 1100 ◦ C) reported by Vogel and Fülling \[4\].” |
-| Phase transition | 1183.15 K | 1183.15 |  | experimental | [1] Huang 2005; _cites Pan 1984_ | p. 2; `ORC-OH74YGEEL6.ac4c31` | “Except for the temperature at 1139 ◦ C, the other three ones at 921, 1029 and 1162 ◦ C are in good agreement with those reported by Pan and Cheng \[5\] for the decomposition temperature of Ni2 Pr (910 ◦ C), Ni3 Pr (1010 ◦ C) and Ni7 Pr2 (1160 ◦ C), respectively; they are much higher than those (880, 972 and 1100 ◦ C) reported by Vogel and Fülling \[4\].” |
-| Phase transition | 1194.15 K | 1194.15 |  | experimental | [1] Huang 2005 | p. 2; `ORC-OH74YGEEL6.30a089` | “Except for the temperature at 1139 ◦ C, the other three ones at 921, 1029 and 1162 ◦ C are in good agreement with those reported by Pan and Cheng \[5\] for the decomposition temperature of Ni2 Pr (910 ◦ C), Ni3 Pr (1010 ◦ C) and Ni7 Pr2 (1160 ◦ C), respectively; they are much higher than those (880, 972 and 1100 ◦ C) reported by Vogel and Fülling \[4\].” |
-| Phase transition | 1245.15 K | 1245.15 |  | experimental | [1] Huang 2005; _cites Vogel 1947_ | p. 2; `ORC-OH74YGEEL6.3020b9` | “Except for the temperature at 1139 ◦ C, the other three ones at 921, 1029 and 1162 ◦ C are in good agreement with those reported by Pan and Cheng \[5\] for the decomposition temperature of Ni2 Pr (910 ◦ C), Ni3 Pr (1010 ◦ C) and Ni7 Pr2 (1160 ◦ C), respectively; they are much higher than those (880, 972 and 1100 ◦ C) reported by Vogel and Fülling \[4\].” |
-| Phase transition | 1283.15 K | 1283.15 |  | experimental | [1] Huang 2005; _cites Pan 1984_ | p. 2; `ORC-OH74YGEEL6.abad12` | “Except for the temperature at 1139 ◦ C, the other three ones at 921, 1029 and 1162 ◦ C are in good agreement with those reported by Pan and Cheng \[5\] for the decomposition temperature of Ni2 Pr (910 ◦ C), Ni3 Pr (1010 ◦ C) and Ni7 Pr2 (1160 ◦ C), respectively; they are much higher than those (880, 972 and 1100 ◦ C) reported by Vogel and Fülling \[4\].” |
-| Phase transition | 1302.15 K | 1302.15 |  | experimental | [1] Huang 2005 | p. 2; `ORC-OH74YGEEL6.eca7a8` | “Except for the temperature at 1139 ◦ C, the other three ones at 921, 1029 and 1162 ◦ C are in good agreement with those reported by Pan and Cheng \[5\] for the decomposition temperature of Ni2 Pr (910 ◦ C), Ni3 Pr (1010 ◦ C) and Ni7 Pr2 (1160 ◦ C), respectively; they are much higher than those (880, 972 and 1100 ◦ C) reported by Vogel and Fülling \[4\].” |
-| Phase transition | 1373.15 K | 1373.15 |  | experimental | [1] Huang 2005; _cites Vogel 1947_ | p. 2; `ORC-OH74YGEEL6.fb8987` | “Except for the temperature at 1139 ◦ C, the other three ones at 921, 1029 and 1162 ◦ C are in good agreement with those reported by Pan and Cheng \[5\] for the decomposition temperature of Ni2 Pr (910 ◦ C), Ni3 Pr (1010 ◦ C) and Ni7 Pr2 (1160 ◦ C), respectively; they are much higher than those (880, 972 and 1100 ◦ C) reported by Vogel and Fülling \[4\].” |
-| Phase transition | 1412.15 K | 1412.15 |  | experimental | [1] Huang 2005 | p. 3; `ORC-TEGNEHNHTZ` | “The temperature at 1139 ◦ C, which lies between the decomposition temperatures of Ni3 Pr and Ni7 Pr2 , could be the reported phase transformation temperature of Ni7 Pr2 from rhombohedral to hexagonal structure \[8\].” |
-| Phase transition | 1433.15 K | 1433.15 |  | experimental | [1] Huang 2005; _cites Pan 1984_ | p. 2; `ORC-OH74YGEEL6.4ce37f` | “Except for the temperature at 1139 ◦ C, the other three ones at 921, 1029 and 1162 ◦ C are in good agreement with those reported by Pan and Cheng \[5\] for the decomposition temperature of Ni2 Pr (910 ◦ C), Ni3 Pr (1010 ◦ C) and Ni7 Pr2 (1160 ◦ C), respectively; they are much higher than those (880, 972 and 1100 ◦ C) reported by Vogel and Fülling \[4\].” |
-| Phase transition | 1435.15 K | 1435.15 |  | experimental | [1] Huang 2005 | p. 2; `ORC-OH74YGEEL6.1b1ded` | “Except for the temperature at 1139 ◦ C, the other three ones at 921, 1029 and 1162 ◦ C are in good agreement with those reported by Pan and Cheng \[5\] for the decomposition temperature of Ni2 Pr (910 ◦ C), Ni3 Pr (1010 ◦ C) and Ni7 Pr2 (1160 ◦ C), respectively; they are much higher than those (880, 972 and 1100 ◦ C) reported by Vogel and Fülling \[4\].” |
-| Phase transition | 1543.15 K | 1543.15 |  | experimental | [1] Huang 2005; _cites Vogel 1947_ | p. 2; `ORC-A3CMA65OBK.985438` | “These two temperatures are in good agreement with those (1280 and 1385 ◦ C) by Pan and Cheng \[5\] and higher than those (1270 and 1365 ◦ C) reported by Vogel and Fülling \[4\] using cooling curves.” |
-| Phase transition | 1553.15 K | 1553.15 |  | experimental | [1] Huang 2005; _cites Pan 1984_ | p. 2; `ORC-A3CMA65OBK.d32725` | “These two temperatures are in good agreement with those (1280 and 1385 ◦ C) by Pan and Cheng \[5\] and higher than those (1270 and 1365 ◦ C) reported by Vogel and Fülling \[4\] using cooling curves.” |
 | Phase transition | 1638 K | 1638 | congruent melting: Liquid -> Ni5Pr; _Liquid: Pr 0.166667; Ni5Pr: Pr 0.166667_ | experimental | [3] Rahou 2015; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380401) | Table 4, p. 3, row 8; `ORC-LKY3JFLMV5` |  |
-| Phase transition | 1638.15 K | 1638.15 |  | experimental | [1] Huang 2005; _cites Vogel 1947_ | p. 2; `ORC-A3CMA65OBK.d42b98` | “These two temperatures are in good agreement with those (1280 and 1385 ◦ C) by Pan and Cheng \[5\] and higher than those (1270 and 1365 ◦ C) reported by Vogel and Fülling \[4\] using cooling curves.” |
 | Phase transition | 1657 K | 1657 | congruent melting: Liquid -> Ni5Pr; _Liquid: Pr 0.166667; Ni5Pr: Pr 0.166667_ | experimental | [3] Rahou 2015; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 4, p. 3, row 9; `ORC-F3A75NARMJ` |  |
 | Phase transition | 1657 K | 1657 | liq. -> Ni5Pr; _L: Pr 0.1667_ | model | [2] Du 1999 | Table 8, p. 6, row 3; `ORC-OCJIF222BK` |  |
 | Phase transition | 1658 K | 1658 | congruent melting: Liquid -> Ni5Pr; _Liquid: Pr 0.166667; Ni5Pr: Pr 0.166667_ | experimental | [3] Rahou 2015; _cites Pan 1984_ | Table 4, p. 3, row 59; `ORC-CXPOXMC4VW` |  |
 | Phase transition | 1658 K | 1658 | congruent melting: Liquid -> Ni5Pr; _Liquid: Pr 0.166667; Ni5Pr: Pr 0.166667_ | model | [3] Rahou 2015 | Table 4, p. 3, row 6; `ORC-LO7HQQLMIB` |  |
 | Phase transition | 1658 K | 1658 | congruent melting: Liquid -> Ni5Pr; _Liquid: Pr 0.166667; Ni5Pr: Pr 0.166667_ | experimental | [3] Rahou 2015; _cites Colinet 1986_ [doi](https://doi.org/10.1007/bf02643852) | Table 4, p. 3, row 60; `ORC-VFPEGS5JRJ` |  |
 | Phase transition | 1658 K | 1658 | liq. -> Ni5Pr; _L: Pr 0.17_ | unspecified | [2] Du 1999; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02877506) | Table 8, p. 6, row 4; `ORC-4UU6PM47JH` |  |
-| Phase transition | 1658.15 K | 1658.15 |  | experimental | [1] Huang 2005; _cites Pan 1984_ | p. 2; `ORC-A3CMA65OBK.be4fe5` | “These two temperatures are in good agreement with those (1280 and 1385 ◦ C) by Pan and Cheng \[5\] and higher than those (1270 and 1365 ◦ C) reported by Vogel and Fülling \[4\] using cooling curves.” |
 
 ## Sources
 

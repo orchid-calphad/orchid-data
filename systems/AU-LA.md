@@ -1,10 +1,10 @@
 # Au–La system
 
-> Au–La system: 45 accepted literature values (crystal structure 19, invariant reaction 10, phase transition 10, formation 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–La system: 43 accepted literature values (crystal structure 19, invariant reaction 10, phase transition 8, formation 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-LA.html · Markdown: https://data.orchid-project.org/systems/AU-LA.md
 
-45 accepted literature values from 1 paper(s) (experimental 9, model 12, DFT 24); 1 calculated phase diagram(s).
+43 accepted literature values from 1 paper(s) (experimental 9, model 10, DFT 24); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-LA.json) · [CSV](https://data.orchid-project.org/systems/AU-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-LA/AuLa-11Don.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AU-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-LA.html) · [Markdown](https://data.orchid-project.org/systems/AU-LA.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 9 |
-| model | 12 |
+| model | 10 |
 | DFT | 24 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
-| phase transition | 10 |
+| phase transition | 8 |
 | formation | 6 |
 | crystal structure | 19 |
 
@@ -94,7 +94,7 @@ Table: Enthalpies of formation, Au–La system (6)
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (8)
 
 Table: Phase transition, Au–La system
 
@@ -102,8 +102,6 @@ Table: Phase transition, Au–La system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 933 K | 933 | βAuLa \<=> αAuLa; _βAuLa: La 0.5; αAuLa: La 0.5_ | model | [1] Dong 2011 | Table 3, p. 4, row 17; `ORC-JGFL7KBCC5` |  |
 | Phase transition | 933 K | 933 | βAuLa \<=> αAuLa; _βAuLa: La 0.5; αAuLa: La 0.5_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 16; `ORC-M7FFTSDFAQ` |  |
-| Phase transition | 1063 K | 1063 | L ↔ Au(fcc) + Au6 La | model | [1] Dong 2011 | p. 5; `ORC-R47FFFYNZV.db976f` | “peratures of the similar invariable reactions in other gold-rear earth system (Table 4 lists those data) and by considering the size ratio as well as the structure of the rear earth elements, temperatures of 1173 K for the L + Au51 La14 ↔ Au6 La reaction and 1063 K for the L ↔ Au(fcc) + Au6 La reaction were employed in this work.” |
-| Phase transition | 1173 K | 1173 | L + Au51 La14 ↔ Au6 La | model | [1] Dong 2011 | p. 5; `ORC-R47FFFYNZV.ab5cec` | “peratures of the similar invariable reactions in other gold-rear earth system (Table 4 lists those data) and by considering the size ratio as well as the structure of the rear earth elements, temperatures of 1173 K for the L + Au51 La14 ↔ Au6 La reaction and 1063 K for the L ↔ Au(fcc) + Au6 La reaction were employed in this work.” |
 | Phase transition | 1477 K | 1477 | L \<=> Au51La14; _L: La 0.215385; Au51La14: La 0.215385_ | model | [1] Dong 2011 | Table 3, p. 4, row 8; `ORC-FO2IG6KTA2` |  |
 | Phase transition | 1477 K | 1477 | L \<=> Au51La14; _L: La 0.215; Au51La14: La 0.215385_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 7; `ORC-OZ2VOZ3L7K` |  |
 | Phase transition | 1487 K | 1487 | L \<=> Au2La; _L: La 0.333; Au2La: La 0.333333_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 5; `ORC-NRRKCQ6STC` |  |

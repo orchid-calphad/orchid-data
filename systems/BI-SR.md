@@ -1,10 +1,10 @@
 # Bi–Sr system
 
-> Bi–Sr system: 45 accepted literature values (crystal structure 19, formation 12, invariant reaction 8, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Sr system: 31 accepted literature values (crystal structure 19, formation 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-SR.html · Markdown: https://data.orchid-project.org/systems/BI-SR.md
 
-45 accepted literature values from 2 paper(s) (experimental 13, model 8, DFT 5, unspecified 19); 1 calculated phase diagram(s).
+31 accepted literature values from 1 paper(s) (experimental 2, model 5, DFT 5, unspecified 19); 1 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SR.json) · [CSV](https://data.orchid-project.org/systems/BI-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-SR/BiSr-14Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-SR.html) · [Markdown](https://data.orchid-project.org/systems/BI-SR.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
-| model | 8 |
+| experimental | 2 |
+| model | 5 |
 | DFT | 5 |
 | unspecified | 19 |
 
@@ -21,8 +21,6 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
-| phase transition | 6 |
 | formation | 12 |
 | crystal structure | 19 |
 
@@ -60,21 +58,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BI/BI-SR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BI/BI-SR.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Bi–Sr system (8)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1131 | peritectic |  | model | [1] Wang 2014 | p. 5; `ORC-NXU63EX7WL` | “According to the present calculation, the computed peritectic reaction Liquid þ βSr5Bi32SrBi2 is located at 1131 K.” |
-| 1086 | eutectic: Liquid -> Sr2Bi + Sr3Bi2 |  | experimental | [1] Wang 2014 | p. 2; `ORC-OZHCQHBXEI.0b8d01` | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
-| 993 | peritectic: Liquid + Sr3Bi2 -> SrBi |  | experimental | [1] Wang 2014 | p. 2; `ORC-OZHCQHBXEI.3fbd48` | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
-| 983 | peritectic: Liquidþ αSr3Bi22SrBi |  | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2; `ORC-5RPDSGKP4W.c42a62` | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
-| 931 | eutectic: Liquid -> Sr2Bi + (βSr) |  | experimental | [1] Wang 2014 | p. 2; `ORC-OZHCQHBXEI.fb4333` | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
-| 855 | eutectic: Liquid -> SrBi3 + SrBi |  | experimental | [1] Wang 2014 | p. 2; `ORC-OZHCQHBXEI.065039` | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
-| 833 | peritectic: LiquidþSrBi2SrBi3 |  | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2; `ORC-5RPDSGKP4W.df09eb` | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
-| 535 | eutectic: Liquid -> (Bi) + SrBi3 |  | experimental | [1] Wang 2014 | p. 2; `ORC-OZHCQHBXEI.f109ba` | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
-
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
@@ -97,19 +80,6 @@ Table: Enthalpies of formation, Bi–Sr system (12)
 | βSr5Bi3 | [Bi3Sr5](https://data.orchid-project.org/compounds/Bi3Sr5.html) | -80 kJ/mol-atom | 298.15 | model | -84.259 (mp-aaaabrvg) | -85.527 (oqmd-7612) | [1] Wang 2014 | Table 2, p. 3, row 21; `ORC-VOULBF6IFJ` |  |
 
 ## Other properties
-
-### Phase transition (6)
-
-Table: Phase transition, Bi–Sr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 333 K | 333 | other | model | [2] Hallstedt 2003 | p. 5; `ORC-7C7IUK4GI6` | “The transition temperatures at the end compositions were fixed to 400 and 333 K, respectively, after a preliminary optimisation.” |
-| Phase transition | 905 K | 905 | congruent transformation | experimental | [1] Wang 2014 | p. 2; `ORC-2N7SWTBTZY.29cc24` | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
-| Phase transition | 973 K | 973 | polymorphic: αSr3Bi22βSr3Bi2 | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2; `ORC-5RPDSGKP4W.038368` | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
-| Phase transition | 1131 K | 1131 | congruent transformation | experimental | [1] Wang 2014 | p. 2; `ORC-2N7SWTBTZY.8c8090` | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
-| Phase transition | 1218 K | 1218 |  | model | [1] Wang 2014 | p. 5; `ORC-DPEZIUZUDB` | “It is indicated that the melting temperature of the βSr5Bi3 phase is calculated to be 1218 K.” |
-| Phase transition | 1218 K | 1218 | congruent transformation | experimental | [1] Wang 2014 | p. 2; `ORC-2N7SWTBTZY.34804e` | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
 
 ### Crystal structure (19)
 
@@ -142,7 +112,6 @@ Table: Crystal structure, Bi–Sr system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Yao Wang, Jinghua Xin, Chong Chen, Shuhong Liu, Biao Hu, Yong Du, Thermodynamic assessment of the Sr–In and Sr–Bi systems supported by first-principles calculations, Calphad 45, 49-54 (2014). [doi:10.1016/j.calphad.2013.12.001](https://doi.org/10.1016/j.calphad.2013.12.001)
-2. Bengt Hallstedt, Ludwig J. Gauckler, Revision of the thermodynamic descriptions of the Cu–O, Ag–O, Ag–Cu–O, Bi–Sr–O, Bi–Ca–O, Bi–Cu–O, Sr–Cu–O, Ca–Cu–O and Sr–Ca–Cu–O systems, Calphad 27, 177-191 (2003). [doi:10.1016/s0364-5916(03)00050-6](https://doi.org/10.1016/s0364-5916%2803%2900050-6)
 
 ## Please cite
 

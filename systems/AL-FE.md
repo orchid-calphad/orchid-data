@@ -1,10 +1,10 @@
 # Al–Fe system
 
-> Al–Fe system: 258 accepted literature values (invariant reaction 156, phase transition 28, formation 26, heat capacity / entropy / enthalpy 22) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Fe system: 253 accepted literature values (invariant reaction 155, formation 31, heat capacity / entropy / enthalpy 22, phase transition 19) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-FE.html · Markdown: https://data.orchid-project.org/systems/AL-FE.md
 
-258 accepted literature values from 8 paper(s) (experimental 108, model 114, DFT 15, unspecified 21); 11 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+253 accepted literature values from 9 paper(s) (experimental 107, model 112, DFT 20, unspecified 14); 11 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE.json) · [CSV](https://data.orchid-project.org/systems/AL-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-FE/AlFe-07Zha.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 108 |
-| model | 114 |
-| DFT | 15 |
-| unspecified | 21 |
+| experimental | 107 |
+| model | 112 |
+| DFT | 20 |
+| unspecified | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 156 |
-| phase transition | 28 |
+| invariant reaction | 155 |
+| phase transition | 19 |
 | phase equilibrium | 15 |
-| formation | 26 |
+| formation | 31 |
 | mixing / partial | 6 |
 | heat capacity / entropy / enthalpy | 22 |
 | activity / EMF / Gibbs energy | 1 |
@@ -176,7 +176,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Fe system (156)
+Table: Invariant reactions reported in the literature for the Al–Fe system (155)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -201,52 +201,51 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 | 1501.2 | peritectic: Liq + bcc_B2 = ε | Liq: Fe 0.422; bcc_B2: Fe 0.495; ε: Fe 0.437 | model | [3] Jacobs 2009 | Table 2, p. 4, row 25; `ORC-SDBL4DM7T6` |  |
 | 1501 | L + B2 -> ε |  | model | [1] Zienert 2018; _cites Phan 2014_ [doi](https://doi.org/10.1016/j.actamat.2014.07.006) | Table 5, p. 14, row 39; `ORC-JP7JCAFDUP` |  |
 | 1500.6 | peritectic: Liq + bcc_B2 = ε | Liq: Fe 0.42; bcc_B2: Fe 0.493; ε: Fe 0.435 | model | [3] Jacobs 2009 | Table 2, p. 4, row 26; `ORC-XLZQ5HFYJR` |  |
-| 1499.15 | peritectic |  | experimental | [4] Sundman 2009 | p. 6; `ORC-U5PVJCBSFQ` | “In agreement with the experiments, the Al8 Fe5 phase forms peritectically at 1226°C and in the assessment the Al2 Fe phase forms 1 degree below the eutectic between Al8 Fe5 and Al5 Fe2 .” |
-| 1495.5 | peritectic: Liquid + bcc-B2 -> Al5Fe4 | L: Fe 0.405; bcc-B2: Fe 0.483; Al5Fe4: Fe 0.425 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 6; `ORC-G6FQ6LGBZG` |  |
+| 1495.5 | peritectic: Liquid + bcc-B2 -> Al5Fe4 | L: Fe 0.405; bcc-B2: Fe 0.483; Al5Fe4: Fe 0.425 | model | [4] (ed.) 1998 | Table I, p. 54, row 6; `ORC-G6FQ6LGBZG` |  |
 | 1495.5 | peritectic: Liq + bcc_B2 = ε | Liq: Fe 0.405; bcc_B2: Fe 0.483; ε: Fe 0.425 | model | [3] Jacobs 2009; _cites Seierstein 1998_ | Table 2, p. 4, row 27; `ORC-MHPNKFKMKP` |  |
 | 1495.44 | L + B2 -> ε |  | model | [1] Zienert 2018; _cites Sundman 2009_ [doi](https://doi.org/10.1016/j.actamat.2009.02.046) | Table 5, p. 14, row 34; `ORC-4DAGTW3TX5` |  |
-| 1442 | Fe2Al5 = liq | Fe2Al5: Fe 0.286; liq: Fe 0.286 | model | [3] Jacobs 2009; _cites Kattner 1993_ | Table 2, p. 4, row 9; `ORC-V6OYGIED64` |  |
+| 1442 | congruent melting: Fe2Al5 = liq | Fe2Al5: Fe 0.286; liq: Fe 0.286 | model | [3] Jacobs 2009; _cites Kattner 1993_ | Table 2, p. 4, row 9; `ORC-V6OYGIED64` |  |
 | 1438.2 | Liq = Fe2Al5 + ε | Fe2Al5: Al 0.714286, Fe 0.285714 | model | [3] Jacobs 2009; _cites Kattner 1993_ | Table 2, p. 4, row 14; `ORC-LAF5ACTD7G` |  |
-| 1434.7 | L -> η | L: Al 0.714286, Fe 0.285714; η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 31; `ORC-TYPA5RVYJR` |  |
+| 1434.7 | congruent melting: L -> η | L: Al 0.714286, Fe 0.285714; η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 31; `ORC-TYPA5RVYJR` |  |
 | 1434.7 | congruent melting: Fe2Al5 = liq | Fe2Al5: Fe 0.286; liq: Fe 0.286 | model | [3] Jacobs 2009 | Table 2, p. 4, row 7; `ORC-UYFJA3LUJ5` |  |
-| 1434.5 | congruent melting: Al5Fe2 -> Liquid | Al5Fe2: Fe 0.286; L: Fe 0.286 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 2; `ORC-4FGISSC7JF` |  |
+| 1434.5 | congruent melting: Al5Fe2 -> Liquid | Al5Fe2: Fe 0.286; L: Fe 0.286 | model | [4] (ed.) 1998 | Table I, p. 54, row 2; `ORC-4FGISSC7JF` |  |
 | 1434.5 | congruent melting: Fe2Al5 = liq | Fe2Al5: Fe 0.286; liq: Fe 0.286 | model | [3] Jacobs 2009; _cites Seierstein 1998_ | Table 2, p. 4, row 8; `ORC-7K2ZM6VWA6` |  |
 | 1433 | Liq + Fe2Al5 = FeAl3 | Fe2Al5: Al 0.714286, Fe 0.285714; FeAl3: Al 0.75, Fe 0.25 | model | [3] Jacobs 2009; _cites Kattner 1993_ | Table 2, p. 4, row 19; `ORC-3LDQXR2EHQ` |  |
-| 1432.88 | L -> η | L: Al 0.714286, Fe 0.285714; η: Al 0.714286, Fe 0.285714 | unspecified | [1] Zienert 2018 | Table 5, p. 14, row 55; `ORC-YPEPHTHKLH` |  |
+| 1432.88 | congruent melting: L -> η | L: Al 0.714286, Fe 0.285714; η: Al 0.714286, Fe 0.285714 | unspecified | [1] Zienert 2018 | Table 5, p. 14, row 55; `ORC-YPEPHTHKLH` |  |
 | 1432 | ε + η -> L + ε | ε: Fe 0.33; η: Fe 0.285714 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 13; `ORC-KDIJ77FNAY` |  |
 | 1431 | ε + η -> L + ε | ε: Fe 0.335; η: Fe 0.285714 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 12; `ORC-A2HP3LC5AY` |  |
-| 1430.27 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018 | Table 5, p. 14, row 23; `ORC-OY4SC5VEBN` |  |
-| 1430.25 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 5, p. 14, row 13; `ORC-EDYC5P7L2M` |  |
-| 1430.1 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 28; `ORC-PQMHG4KSFE` |  |
-| 1430.1 | L -> η | L: Al 0.714286, Fe 0.285714; η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Stein 2007_ [doi](https://doi.org/10.3139/146.101512) | Table 5, p. 14, row 10; `ORC-RMRVEIMK3Z` |  |
+| 1430.27 | eutectic: L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018 | Table 5, p. 14, row 23; `ORC-OY4SC5VEBN` |  |
+| 1430.25 | eutectic: L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 5, p. 14, row 13; `ORC-EDYC5P7L2M` |  |
+| 1430.1 | eutectic: L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 28; `ORC-PQMHG4KSFE` |  |
+| 1430.1 | congruent melting: L -> η | L: Al 0.714286, Fe 0.285714; η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Stein 2007_ [doi](https://doi.org/10.3139/146.101512) | Table 5, p. 14, row 10; `ORC-RMRVEIMK3Z` |  |
 | 1430.1 | eutectic: Liq = Fe2Al5 + ε | Liq: Fe 0.316; Fe2Al5: Fe 0.286; ε: Fe 0.366 | model | [3] Jacobs 2009 | Table 2, p. 4, row 11; `ORC-S3DEE4FLSR` |  |
 | 1430 | ε + η -> L + ε | ε: Fe 0.32; η: Fe 0.285714 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 16; `ORC-6KSIWA2HES.0af83a` |  |
 | 1430 | \*L -> ε + η | η: Fe 0.285714 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 17; `ORC-6KSIWA2HES.4c624a` |  |
 | 1430 | ε + η -> L + ε | ε: Fe 0.341; η: Fe 0.285714 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 14; `ORC-6KSIWA2HES.a8c0fc` |  |
-| 1430 | Fe2Al5 = liq | Fe2Al5: Fe 0.286; liq: Fe 0.286 | experimental | [3] Jacobs 2009; _cites Stein 2007_ [doi](https://doi.org/10.3139/146.101512) | Table 2, p. 4, row 10; `ORC-ATH6QWTJNP` |  |
+| 1430 | congruent melting: Fe2Al5 = liq | Fe2Al5: Fe 0.286; liq: Fe 0.286 | experimental | [3] Jacobs 2009; _cites Stein 2007_ [doi](https://doi.org/10.3139/146.101512) | Table 2, p. 4, row 10; `ORC-ATH6QWTJNP` |  |
 | 1430 | eutectic: Liq = Fe2Al5 + ε | Liq: Fe 0.316; Fe2Al5: Fe 0.286; ε: Fe 0.365 | model | [3] Jacobs 2009; _cites Seierstein 1998_ | Table 2, p. 4, row 12; `ORC-FBQL43NRW5` |  |
-| 1430 | L->ε + η | L: Fe 0.323; ε: Fe 0.363; η: Fe 0.317 | model | [2] Ilatovskaia 2023; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 2, p. 6, row 9; `ORC-PX4YLDKPZ7` |  |
-| 1430 | eutectic: Liquid -> Al5Fe2 + Al5Fe4 | L: Fe 0.316; Al5Fe2: Fe 0.286; Al5Fe4: Fe 0.365 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 3; `ORC-SIPLHGI6OS` |  |
+| 1430 | eutectic: L->ε + η | L: Fe 0.323; ε: Fe 0.363; η: Fe 0.317 | model | [2] Ilatovskaia 2023; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 2, p. 6, row 9; `ORC-PX4YLDKPZ7` |  |
+| 1430 | eutectic: Liquid -> Al5Fe2 + Al5Fe4 | L: Fe 0.316; Al5Fe2: Fe 0.286; Al5Fe4: Fe 0.365 | model | [4] (ed.) 1998 | Table I, p. 54, row 3; `ORC-SIPLHGI6OS` |  |
 | 1429.2 | Fe2Al5 + ε = FeAl2 | Fe2Al5: Al 0.714286, Fe 0.285714; FeAl2: Al 0.666667, Fe 0.333333 | model | [3] Jacobs 2009; _cites Kattner 1993_ | Table 2, p. 4, row 34; `ORC-Q32FJP7KXK` |  |
-| 1429.18 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | unspecified | [1] Zienert 2018 | Table 5, p. 14, row 52; `ORC-6QAT4UU6WW` |  |
-| 1429 | L->ε + η | L: Fe 0.311; ε: Fe 0.368; η: Fe 0.305 | model | [2] Ilatovskaia 2023; _cites Rank 2019_ [doi](https://doi.org/10.3139/146.111765) | Table 2, p. 6, row 8; `ORC-3HRNRDRADE` |  |
-| 1429 | L->ε + η | L: Fe 0.33; ε: Fe 0.366; η: Fe 0.309 | model | [2] Ilatovskaia 2023 | Table 2, p. 6, row 6; `ORC-AAVLBRTI77` |  |
+| 1429.18 | eutectic: L -> ε + η | η: Al 0.714286, Fe 0.285714 | unspecified | [1] Zienert 2018 | Table 5, p. 14, row 52; `ORC-6QAT4UU6WW` |  |
+| 1429 | eutectic: L->ε + η | L: Fe 0.311; ε: Fe 0.368; η: Fe 0.305 | model | [2] Ilatovskaia 2023; _cites Rank 2019_ [doi](https://doi.org/10.3139/146.111765) | Table 2, p. 6, row 8; `ORC-3HRNRDRADE` |  |
+| 1429 | eutectic: L->ε + η | L: Fe 0.33; ε: Fe 0.366; η: Fe 0.309 | model | [2] Ilatovskaia 2023 | Table 2, p. 6, row 6; `ORC-AAVLBRTI77` |  |
 | 1429 | ε + η -> L + ε | ε: Fe 0.341; η: Fe 0.285714 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 15; `ORC-L5BK3Y24OY` |  |
-| 1429 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Zheng 2017_ [doi](https://doi.org/10.1016/j.calphad.2017.05.003) | Table 5, p. 14, row 46; `ORC-TN5NT33S5E` |  |
-| 1429 | L->ε + η | L: Fe 0.318; ε: Fe 0.349; η: Fe 0.294 | model | [2] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 2, p. 6, row 7; `ORC-YSP4XVTW2I` |  |
-| 1428.65 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Li 2016_ [doi](https://doi.org/10.1007/s11669-015-0446-7) | Table 5, p. 14, row 18; `ORC-ZYEQGTY2CI` |  |
+| 1429 | eutectic: L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Zheng 2017_ [doi](https://doi.org/10.1016/j.calphad.2017.05.003) | Table 5, p. 14, row 46; `ORC-TN5NT33S5E` |  |
+| 1429 | eutectic: L->ε + η | L: Fe 0.318; ε: Fe 0.349; η: Fe 0.294 | model | [2] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 2, p. 6, row 7; `ORC-YSP4XVTW2I` |  |
+| 1428.65 | eutectic: L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Li 2016_ [doi](https://doi.org/10.1007/s11669-015-0446-7) | Table 5, p. 14, row 18; `ORC-ZYEQGTY2CI` |  |
 | 1428.2 | ε + η -> ζ | η: Al 0.714286, Fe 0.285714; ζ: Al 0.666667, Fe 0.333333 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 29; `ORC-HNOCUWGATH` |  |
 | 1428.2 | peritectoid: Fe2Al5 + ε = FeAl2 | Fe2Al5: Fe 0.286; ε: Fe 0.366; FeAl2: Fe 0.333 | model | [3] Jacobs 2009 | Table 2, p. 4, row 31; `ORC-WVA6EFVSLA` |  |
-| 1428.1 | peritectoid: Al5Fe2 + Al5Fe4 -> Al2Fe | Al5Fe2: Fe 0.286; Al5Fe4: Fe 0.366; Al2Fe: Fe 0.333 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 7; `ORC-3TJIAAKH4O` |  |
-| 1428.1 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Stein 2007_ [doi](https://doi.org/10.3139/146.101512) | Table 5, p. 14, row 7; `ORC-NYYU546GBE` |  |
+| 1428.1 | peritectoid: Al5Fe2 + Al5Fe4 -> Al2Fe | Al5Fe2: Fe 0.286; Al5Fe4: Fe 0.366; Al2Fe: Fe 0.333 | model | [4] (ed.) 1998 | Table I, p. 54, row 7; `ORC-3TJIAAKH4O` |  |
+| 1428.1 | eutectic: L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Stein 2007_ [doi](https://doi.org/10.3139/146.101512) | Table 5, p. 14, row 7; `ORC-NYYU546GBE` |  |
 | 1428.1 | peritectoid: Fe2Al5 + ε = FeAl2 | Fe2Al5: Fe 0.286; ε: Fe 0.366; FeAl2: Fe 0.333 | model | [3] Jacobs 2009; _cites Seierstein 1998_ | Table 2, p. 4, row 32; `ORC-R3QBZZDKZR` |  |
-| 1428 | L->ε + η | L: Fe 0.316; ε: Fe 0.356; η: Fe 0.301 | model | [2] Ilatovskaia 2023; _cites Li 2016_ [doi](https://doi.org/10.1007/s11669-015-0446-7) | Table 2, p. 6, row 10; `ORC-JQQ54QSMZN` |  |
+| 1428 | eutectic: L->ε + η | L: Fe 0.316; ε: Fe 0.356; η: Fe 0.301 | model | [2] Ilatovskaia 2023; _cites Li 2016_ [doi](https://doi.org/10.1007/s11669-015-0446-7) | Table 2, p. 6, row 10; `ORC-JQQ54QSMZN` |  |
 | 1428 | Liq = Fe2Al5 + ε | Fe2Al5: Al 0.714286, Fe 0.285714 | experimental | [3] Jacobs 2009; _cites Stein 2007_ [doi](https://doi.org/10.3139/146.101512) | Table 2, p. 4, row 15; `ORC-LFHERFEYMX` |  |
-| 1427.03 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Sundman 2009_ [doi](https://doi.org/10.1016/j.actamat.2009.02.046) | Table 5, p. 14, row 35; `ORC-L5TEGU2Z3Y` |  |
+| 1427.03 | eutectic: L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Sundman 2009_ [doi](https://doi.org/10.1016/j.actamat.2009.02.046) | Table 5, p. 14, row 35; `ORC-L5TEGU2Z3Y` |  |
 | 1427 | L+ η->θ | L: Fe 0.253; η: Fe 0.2827; θ: Fe 0.2553 | model | [2] Ilatovskaia 2023 | Table 2, p. 6, row 11; `ORC-WHUGGOCEEM` |  |
-| 1426.6 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Lee 1960_ | Table 5, p. 14, row 2; `ORC-SHE652PMC4` |  |
+| 1426.6 | eutectic: L -> ε + η | η: Al 0.714286, Fe 0.285714 | experimental | [1] Zienert 2018; _cites Lee 1960_ | Table 5, p. 14, row 2; `ORC-SHE652PMC4` |  |
 | 1426.29 | ε + η -> ζ | η: Al 0.714286, Fe 0.285714; ζ: Al 0.666667, Fe 0.333333 | model | [1] Zienert 2018; _cites Sundman 2009_ [doi](https://doi.org/10.1016/j.actamat.2009.02.046) | Table 5, p. 14, row 36; `ORC-G6LFVOJ4QM` |  |
-| 1426 | L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Phan 2014_ [doi](https://doi.org/10.1016/j.actamat.2014.07.006) | Table 5, p. 14, row 40; `ORC-45W6AEOZRD` |  |
+| 1426 | eutectic: L -> ε + η | η: Al 0.714286, Fe 0.285714 | model | [1] Zienert 2018; _cites Phan 2014_ [doi](https://doi.org/10.1016/j.actamat.2014.07.006) | Table 5, p. 14, row 40; `ORC-45W6AEOZRD` |  |
 | 1426 | η + θ -> L + η | η: Fe 0.283; θ: Fe 0.235294 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 19; `ORC-NR6UYP3UWH` |  |
 | 1425.9 | Liq = Fe2Al5 + ε | Fe2Al5: Al 0.714286, Fe 0.285714 | experimental | [3] Jacobs 2009; _cites Lee 1960_ | Table 2, p. 4, row 13; `ORC-LMP2HZDGFA` |  |
 | 1425.24 | L + η -> θ | η: Al 0.714286, Fe 0.285714; θ: Al 0.764706, Fe 0.235294 | experimental | [1] Zienert 2018 | Table 5, p. 14, row 26; `ORC-26LB6G5OUX` |  |
@@ -257,7 +256,7 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 | 1424.6 | L + η -> θ | η: Al 0.714286, Fe 0.285714; θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 32; `ORC-P6AZQABOQC` |  |
 | 1424.6 | peritectic: Liq + Fe2Al5 = FeAl3 | Liq: Fe 0.242; Fe2Al5: Fe 0.286; FeAl3: Fe 0.247 | model | [3] Jacobs 2009 | Table 2, p. 4, row 16; `ORC-SBWIK43QYZ` |  |
 | 1424.4 | peritectic: Liq + Fe2Al5 = FeAl3 | Liq: Fe 0.242; Fe2Al5: Fe 0.286; FeAl3: Fe 0.247 | model | [3] Jacobs 2009; _cites Seierstein 1998_ | Table 2, p. 4, row 17; `ORC-3Z6HRVQZJ6` |  |
-| 1424.4 | peritectic: Liquid + Al5Fe2 -> Al13Fe4 | L: Fe 0.242; Al5Fe2: Fe 0.286; Al13Fe4: Fe 0.247 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 4; `ORC-YFJKJQJLK6` |  |
+| 1424.4 | peritectic: Liquid + Al5Fe2 -> Al13Fe4 | L: Fe 0.242; Al5Fe2: Fe 0.286; Al13Fe4: Fe 0.247 | model | [4] (ed.) 1998 | Table I, p. 54, row 4; `ORC-YFJKJQJLK6` |  |
 | 1424.35 | L + η -> θ | η: Al 0.714286, Fe 0.285714; θ: Al 0.764706, Fe 0.235294 | experimental | [1] Zienert 2018; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 5, p. 14, row 16; `ORC-JEO3ZI5JDZ` |  |
 | 1424 | ε + ζ -> ε + η | ε: Fe 0.341; ζ: Fe 0.333333; η: Fe 0.285714 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 24; `ORC-BJXRXMGLDB` |  |
 | 1424 | L+ η->θ | L: Fe 0.257; η: Fe 0.286; θ: Fe 0.262 | model | [2] Ilatovskaia 2023; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 2, p. 6, row 14; `ORC-ODWJYYC52N` |  |
@@ -306,7 +305,7 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 | 1369 | B2 + ζ -> B2 + ε | B2: Fe 0.44; ζ: Fe 0.333333 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 31; `ORC-WPBJS6IV2Z.bc1b66` |  |
 | 1369 | \*ε -> B2 + ζ | ζ: Fe 0.333333 | experimental | [1] Zienert 2018 | Table 1, p. 6, row 36; `ORC-WPBJS6IV2Z.bda220` |  |
 | 1368.35 | ε -> B2 + ζ | ζ: Al 0.666667, Fe 0.333333 | experimental | [1] Zienert 2018; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 5, p. 14, row 15; `ORC-F2ILF4C3JZ` |  |
-| 1368.2 | eutectoid: Al5Fe4 -> bcc-B2 + Al2Fe | Al5Fe4: Fe 0.403; bcc-B2: Fe 0.462; Al2Fe: Fe 0.333 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 1; `ORC-OERGHKVTDM` |  |
+| 1368.2 | eutectoid: Al5Fe4 -> bcc-B2 + Al2Fe | Al5Fe4: Fe 0.403; bcc-B2: Fe 0.462; Al2Fe: Fe 0.333 | model | [4] (ed.) 1998 | Table I, p. 54, row 1; `ORC-OERGHKVTDM` |  |
 | 1368.2 | eutectoid: ε = bcc_B2 + FeAl2 | ε: Fe 0.403; bcc_B2: Fe 0.462; FeAl2: Fe 0.333 | model | [3] Jacobs 2009; _cites Seierstein 1998_ | Table 2, p. 4, row 3; `ORC-ZBXMKWTAFE` |  |
 | 1368.15 | ε -> B2 + ζ | ζ: Al 0.666667, Fe 0.333333 | experimental | [1] Zienert 2018; _cites Li 2016_ [doi](https://doi.org/10.1007/s11669-015-0446-7) | Table 5, p. 14, row 20; `ORC-DAJEBNC3UI` |  |
 | 1368.1 | ε -> B2 + ζ | ζ: Al 0.666667, Fe 0.333333 | experimental | [1] Zienert 2018; _cites Stein 2007_ [doi](https://doi.org/10.3139/146.101512) | Table 5, p. 14, row 9; `ORC-EVEZUHUSKG` |  |
@@ -321,34 +320,39 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 | 1357.4 | ε -> B2 + ζ | ζ: Al 0.666667, Fe 0.333333 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 30; `ORC-DG2PIUNUV2` |  |
 | 1357.4 | eutectoid: ε = bcc_B2 + FeAl2 | ε: Fe 0.408; bcc_B2: Fe 0.462; FeAl2: Fe 0.333 | model | [3] Jacobs 2009 | Table 2, p. 4, row 2; `ORC-QNKNEAA7TO` |  |
 | 1337.9 | eutectoid: ε = bcc_B2 + FeAl2 | ε: Fe 0.416; bcc_B2: Fe 0.473; FeAl2: Fe 0.333 | model | [3] Jacobs 2009 | Table 2, p. 4, row 1; `ORC-TVFQZH2NEB` |  |
-| 928 | L->θ + fcc | θ: Fe 0.235 | model | [2] Ilatovskaia 2023; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 2, p. 6, row 29; `ORC-SXQZAZBRNW` |  |
+| 928 | eutectic: L->θ + fcc | θ: Fe 0.235 | model | [2] Ilatovskaia 2023; _cites Han 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.01.215) | Table 2, p. 6, row 29; `ORC-SXQZAZBRNW` |  |
 | 928 | Liq = fcc_A1 + FeAl3 | Liq: Fe 0.009; fcc_A1: Fe 0; FeAl3: Fe 0.234 | model | [3] Jacobs 2009; _cites Kattner 1993_ | Table 2, p. 4, row 24; `ORC-XP5II5XKML` |  |
-| 927.2 | L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 33; `ORC-FZVPCNMSFO` |  |
+| 927.2 | eutectic: L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Jacobs 2009_ | Table 5, p. 14, row 33; `ORC-FZVPCNMSFO` |  |
 | 927.2 | eutectic: Liq = fcc_A1 + FeAl3 | Liq: Fe 0.009; fcc_A1: Fe 0; FeAl3: Fe 0.237 | model | [3] Jacobs 2009 | Table 2, p. 4, row 21; `ORC-QPYL75YVV7` |  |
-| 927.1 | eutectic: Liquid -> fcc-Al + Al13Fe4 | L: Fe 0.009; fcc-Al: Fe 0; Al13Fe4: Fe 0.237 | unspecified | [5] Hämäläinen 1998 | Table I, p. 54, row 5; `ORC-2NQTH26KXU` |  |
+| 927.1 | eutectic: Liquid -> fcc-Al + Al13Fe4 | L: Fe 0.009; fcc-Al: Fe 0; Al13Fe4: Fe 0.237 | model | [4] (ed.) 1998 | Table I, p. 54, row 5; `ORC-2NQTH26KXU` |  |
 | 927.1 | eutectic: Liq = fcc_A1 + FeAl3 | Liq: Fe 0.009; fcc_A1: Fe 0; FeAl3: Fe 0.237 | model | [3] Jacobs 2009; _cites Seierstein 1998_ | Table 2, p. 4, row 22; `ORC-YBDC6AVCIU` |  |
-| 927 | L->θ + fcc | θ: Fe 0.235294 | model | [2] Ilatovskaia 2023; _cites Li 2016_ [doi](https://doi.org/10.1007/s11669-015-0446-7) | Table 2, p. 6, row 30; `ORC-B2YLIFP5X7` |  |
-| 926 | L->θ + fcc | L: Fe 0.011; θ: Fe 0.236; fcc: Fe 0 | model | [2] Ilatovskaia 2023; _cites Rank 2019_ [doi](https://doi.org/10.3139/146.111765) | Table 2, p. 6, row 28; `ORC-5S4B6KIPF7` |  |
-| 926 | L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Zheng 2017_ [doi](https://doi.org/10.1016/j.calphad.2017.05.003) | Table 5, p. 14, row 50; `ORC-I3TEKMCCLL` |  |
-| 926 | L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Phan 2014_ [doi](https://doi.org/10.1016/j.actamat.2014.07.006) | Table 5, p. 14, row 44; `ORC-IUEM7D6J6B` |  |
-| 925.2 | L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | experimental | [1] Zienert 2018; _cites Lee 1960_ | Table 5, p. 14, row 5; `ORC-PTKUZCU75C` |  |
+| 927 | eutectic: L->θ + fcc | θ: Fe 0.235294 | model | [2] Ilatovskaia 2023; _cites Li 2016_ [doi](https://doi.org/10.1007/s11669-015-0446-7) | Table 2, p. 6, row 30; `ORC-B2YLIFP5X7` |  |
+| 926 | eutectic: L->θ + fcc | L: Fe 0.011; θ: Fe 0.236; fcc: Fe 0 | model | [2] Ilatovskaia 2023; _cites Rank 2019_ [doi](https://doi.org/10.3139/146.111765) | Table 2, p. 6, row 28; `ORC-5S4B6KIPF7` |  |
+| 926 | eutectic: L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Zheng 2017_ [doi](https://doi.org/10.1016/j.calphad.2017.05.003) | Table 5, p. 14, row 50; `ORC-I3TEKMCCLL` |  |
+| 926 | eutectic: L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | model | [1] Zienert 2018; _cites Phan 2014_ [doi](https://doi.org/10.1016/j.actamat.2014.07.006) | Table 5, p. 14, row 44; `ORC-IUEM7D6J6B` |  |
+| 925.2 | eutectic: L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | experimental | [1] Zienert 2018; _cites Lee 1960_ | Table 5, p. 14, row 5; `ORC-PTKUZCU75C` |  |
 | 925.2 | Liq = fcc_A1 + FeAl3 | FeAl3: Al 0.75, Fe 0.25 | experimental | [3] Jacobs 2009; _cites Lee 1960_ | Table 2, p. 4, row 23; `ORC-R7OHUAERMY` |  |
-| 923 | L->θ + fcc | L: Fe 0.015; θ: Fe 0.236; fcc: Fe 0.001 | model | [2] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 2, p. 6, row 27; `ORC-LUOUVY2JX2` |  |
-| 923 | L->θ + fcc | L: Fe 0.015; θ: Fe 0.237; fcc: Fe 0.001 | model | [2] Ilatovskaia 2023 | Table 2, p. 6, row 26; `ORC-M4KERO6HQI` |  |
-| 922.59 | L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | unspecified | [1] Zienert 2018 | Table 5, p. 14, row 57; `ORC-X5NSDFWDMD` |  |
+| 923 | eutectic: L->θ + fcc | L: Fe 0.015; θ: Fe 0.236; fcc: Fe 0.001 | model | [2] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 2, p. 6, row 27; `ORC-LUOUVY2JX2` |  |
+| 923 | eutectic: L->θ + fcc | L: Fe 0.015; θ: Fe 0.237; fcc: Fe 0.001 | model | [2] Ilatovskaia 2023 | Table 2, p. 6, row 26; `ORC-M4KERO6HQI` |  |
+| 922.59 | eutectic: L -> θ + fcc | θ: Al 0.764706, Fe 0.235294 | unspecified | [1] Zienert 2018 | Table 5, p. 14, row 57; `ORC-X5NSDFWDMD` |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Fe system (26)
+Table: Enthalpies of formation, Al–Fe system (31)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Fe3Al |  | -19.4 kJ/mol (basis unstated) |  | DFT |  |  | [5] Ostrowska 2019; _cites OQMD_ | Table 3, p. 3, row 5; `ORC-7QQKA7EOC5` |  |
+| Fe3Al |  | -19.21 kJ/mol (basis unstated) |  | DFT |  |  | [5] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 7; `ORC-SYS3MN5SZC` |  |
+| Fe3Al |  | -19.11 kJ/mol (basis unstated) |  | DFT |  |  | [5] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 6; `ORC-J4TDABFUUL` |  |
+| Fe3Al |  | -18.73 kJ/mol (basis unstated) |  | DFT |  |  | [5] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 4; `ORC-NQRQLJPSFJ` |  |
 | Fe3Al A15 |  | -14.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Berche 2018 | Table 1, p. 4, row 3; `ORC-IO4D7RD3W3.75b2df` |  |
 | Fe3Al A2 |  | -14.69 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Berche 2018 | Table 1, p. 4, row 2; `ORC-CJODILRPFH.e4aed4` |  |
 | Fe3Al D03 |  | -18.87 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Berche 2018 | Table 1, p. 4, row 1; `ORC-NR7JYKBFG3.baa788` |  |
 | Fe3Al D03 |  | 4.09 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Berche 2018 | Table 1, p. 4, row 4; `ORC-7SRB73HNCM.2d3f1c` |  |
+| FeAl2 |  | -124.42 kJ/mol (basis unstated) |  | DFT |  |  | [5] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 3; `ORC-QZDY6TWINT` |  |
 | Laves C14 |  | -23.0606 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 16; `ORC-FHIOIJ3232` |  |
 | Laves C14 |  | -23.0606 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Liang 2024 | Table 6, p. 10, row 15; `ORC-FB7B5G4J5A` |  |
 | Laves C14 |  | -16.6924 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 10; `ORC-Q5LAQGX4OH` |  |
@@ -374,19 +378,14 @@ Table: Enthalpies of formation, Al–Fe system (26)
 
 ## Other properties
 
-### Phase transition (28)
+### Phase transition (19)
 
 Table: Phase transition, Al–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 600 K | 600 | other | experimental | [1] Zienert 2018; _cites Zienert 2016_ [doi](https://doi.org/10.1016/j.intermet.2016.07.002) | p. 6; `ORC-TRBRPCV2TQ` | “It should be mentioned that the observed phase transitions in h at temperatures around 600 K (see Ref. \[8\] for details) were not taken into account in the thermodynamic description of this work.” |
-| Phase transition | 820 K | 820 |  | model | [6] Berche 2018; _cites Zheng 2017_ [doi](https://doi.org/10.1016/j.calphad.2017.05.003) | p. 2; `ORC-MKUIAFXQDQ.2cec94` | “But, since Fe3Al switches from the D03 to the B2 structure around 820 K \[29\] and Fe2VAl switches from the L21 to the B2 structure at 1349 K \[30\], the existence of a complete solid solution is improbable.” |
-| Phase transition | 933 K | 933 |  | model | [3] Jacobs 2009 | p. 5; `ORC-6B34Z2JYRZ` | “This behavior is caused by the heat capacity description of aluminum, which shows discontinuous behavior in its temperature derivative at 933 K, the melting point.” |
-| Phase transition | 939 K | 939 | other | model | [1] Zienert 2018 | p. 12; `ORC-P7OWHNNRI6` | “At temperatures slightly above the intersection of the Curie temperature of A2 TCA2 with TA2=B2 , the second-order phase boundary between disordered A2 and ordered B2 transforms into first-order A2 þ B2 phase field at the tricritical point (939 K), see Refs. \[45e47\] for details, which is reproduced by the thermodynamic calculations of the present work.” |
-| Phase transition | 1349 K | 1349 |  | model | [6] Berche 2018; _cites Maier 2016_ [doi](https://doi.org/10.1016/j.actamat.2016.08.080) | p. 2; `ORC-MKUIAFXQDQ.34c1ba` | “But, since Fe3Al switches from the D03 to the B2 structure around 820 K \[29\] and Fe2VAl switches from the L21 to the B2 structure at 1349 K \[30\], the existence of a complete solid solution is improbable.” |
 | Phase transition | 1353 K | 1353 | other | model | [8] Du 2009 | p. 10; `ORC-ME72ENZBLQ.0fd807` | “The decomposition temperatures of s1, s2 and e\*(Al5Fe4) are 1120, 1350 and 1353 K, respectively, which are basically in agreement with the experimental temperatures 1120,\[32\] 1344-1368\[45\] and 1358-1368 K.\[45\]” |
-| Phase transition | 1400 K | 1400 | liq. + Al5Fe2 fi Al13Fe4 + s1 | model | [8] Du 2009 | p. 13; `ORC-IRYCKZK4QZ` | “So the calculated invariant reaction liq. + Al5Fe2 fi Al13Fe4 + s1 at 1400 K is accepted in the present work.” |
 | Phase transition | 1406 K | 1406 | θ -> L + θ; _θ: Fe 0.247_ | experimental | [1] Zienert 2018 | Table 1, p. 6, row 37; `ORC-GP5PBBNUBN` |  |
 | Phase transition | 1412 K | 1412 | ε + ζ -> ε; _ε: Fe 0.37; ζ: Fe 0.333333_ | experimental | [1] Zienert 2018 | Table 1, p. 6, row 30; `ORC-SYVQTLD7MQ` |  |
 | Phase transition | 1421 K | 1421 | ζ -> ζ + η; _ζ: Fe 0.335; η: Fe 0.285714_ | experimental | [1] Zienert 2018 | Table 1, p. 6, row 29; `ORC-HYYN3KVPUN` |  |
@@ -403,11 +402,7 @@ Table: Phase transition, Al–Fe system
 | Phase transition | 1472 K | 1472 | ε -> L + ε; _ε: Fe 0.384; L: Fe 0.384_ | experimental | [1] Zienert 2018 | Table 1, p. 6, row 10; `ORC-GZED5IT7NE` |  |
 | Phase transition | 1479 K | 1479 | L + ε -> L; _L: Fe 0.37; ε: Fe 0.37_ | experimental | [1] Zienert 2018 | Table 1, p. 6, row 5; `ORC-JJRDGRSQ5I` |  |
 | Phase transition | 1498 K | 1498 | L + ε -> L; _L: Fe 0.384; ε: Fe 0.384_ | experimental | [1] Zienert 2018 | Table 1, p. 6, row 4; `ORC-F6KICL5QH2` |  |
-| Phase transition | 1500 K | 1500 | other | model | [3] Jacobs 2009 | p. 8; `ORC-YCG47GBEYE.ae35dc` | “At 1500 K the thermodynamic description leads to a phase transition at about 40 at.% Al in model A and 33 at.% Al in the alternative description of model B.” |
 | Phase transition | 1551 K | 1551 | L + B2 -> L; _L: Fe 0.44; B2: Fe 0.44_ | experimental | [1] Zienert 2018 | Table 1, p. 6, row 1; `ORC-O7RHXX4ZPR` |  |
-| Phase transition | 1583 K | 1583 | other | model | [3] Jacobs 2009; _cites Kattner 1993_ | p. 7; `ORC-4TMJ3ZBOQG` | “We derived the model parameters GAl:Fe = GFe:Al by fixing the temperature at which the A2/B2 phase transition intersects the bcc_A2-liquid two-phase field. For this temperature we adopted the value reported by Kattner and Burton \[1\], 1583 K.” |
-| Phase transition | 1637 K | 1637 | other | model | [3] Jacobs 2009 | p. 7; `ORC-I7KVUSWEJA` | “That results in the dashed curves in Fig. 8, in which the A2/B2 phase boundary intersects the liquidus at 1637 K.” |
-| Phase transition | 1814 K | 1814 | other | model | [4] Sundman 2009 | p. 6; `ORC-YDPKQTMKS3` | “The calculated liquidus has a maximum at xAl 1⁄4 0:05 and 1814 K.” |
 
 ### Phase equilibrium (15)
 
@@ -479,7 +474,7 @@ Table: Activity / EMF / Gibbs energy, Al–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: difference in the Gibbs energy_ | 150 J/mol | 700 |  | model | [4] Sundman 2009 | p. 4; `ORC-SKROREA2D7` | “It should be noted that this assessment gives a minimum difference in the Gibbs energy between D03 and L12 of 150 J/mol at 700 K.” |
+| Gibbs energy; _printed: difference in the Gibbs energy_ | 150 J/mol | 700 |  | model | [9] Sundman 2009 | p. 4; `ORC-SKROREA2D7` | “It should be noted that this assessment gives a minimum difference in the Gibbs energy between D03 and L12 of 150 J/mol at 700 K.” |
 
 ### Crystal structure (4)
 
@@ -499,11 +494,12 @@ Reporting papers the values were read from (a value cited from another work name
 1. Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018). [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316)
 2. M. Ilatovskaia, H. Becker, O. Fabrichnaya, A. Leineweber, The η-Al5Fe2 phase in the Al–Fe system: The issue with the sublattice model, Journal of Alloys and Compounds 936, 168361 (2023). [doi:10.1016/j.jallcom.2022.168361](https://doi.org/10.1016/j.jallcom.2022.168361)
 3. Michel H.G. Jacobs, Rainer Schmid-Fetzer, Phase behavior and thermodynamic properties in the system Fe–Al, Calphad 33, 170-178 (2009). [doi:10.1016/j.calphad.2008.07.010](https://doi.org/10.1016/j.calphad.2008.07.010)
-4. Bo Sundman, Ikuo Ohnuma, Nathalie Dupin, Ursula R. Kattner, Suzana G. Fries, An assessment of the entire Al–Fe system including D03 ordering, Acta Materialia 57, 2896-2908 (2009). [doi:10.1016/j.actamat.2009.02.046](https://doi.org/10.1016/j.actamat.2009.02.046)
-5. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+4. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
+5. Marlena Ostrowska, Gabriele Cacciamani, Critical evaluation and thermodynamic modeling of the Al-Co-Fe system, Journal of Alloys and Compounds 794, 553-568 (2019). [doi:10.1016/j.jallcom.2019.04.170](https://doi.org/10.1016/j.jallcom.2019.04.170)
 6. Alexandre Berche, Philippe Jund, Ab initio description of the different phases in the Al-Fe-V system: Structure, magnetism and thermodynamics, Computational Materials Science 149, 28-36 (2018). [doi:10.1016/j.commatsci.2018.03.008](https://doi.org/10.1016/j.commatsci.2018.03.008)
 7. Zhi Liang, Ursula Kattner, Kamal Choudharry, Francesca Tavazza, Carelyn Campbell, Thermodynamic Assessments of Ti-Al, Ti-Fe, and Ti-Al-Fe Systems with Four-Sublattice Description of Ordered Body-Centered Cubic Phase and Density Functional Theory Data, J. Phase Equilib. Diffus. 45, 732-756 (2024). [doi:10.1007/s11669-024-01124-9](https://doi.org/10.1007/s11669-024-01124-9)
 8. Zhenmin Du, Cuiping Guo, Changrong Li, Weijing Zhang, Thermodynamic Description of the Al-Mo and Al-Fe-Mo Systems, J. Phase Equilib. Diffus. 30, 487-501 (2009). [doi:10.1007/s11669-009-9564-4](https://doi.org/10.1007/s11669-009-9564-4)
+9. Bo Sundman, Ikuo Ohnuma, Nathalie Dupin, Ursula R. Kattner, Suzana G. Fries, An assessment of the entire Al–Fe system including D03 ordering, Acta Materialia 57, 2896-2908 (2009). [doi:10.1016/j.actamat.2009.02.046](https://doi.org/10.1016/j.actamat.2009.02.046)
 
 ## Please cite
 

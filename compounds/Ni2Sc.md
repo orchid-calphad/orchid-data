@@ -34,7 +34,7 @@ Table: Uncertainty budget of the literature values of Ni2Sc
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -43 | kJ/mol-atom | 2.3 | 0.5 | 2 (dsc_dta, prior) |  |  |  | 2.3 |
-| -43 | kJ/mol-atom | 2.3 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -43 | kJ/mol-atom | 2.3 | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -53 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -53 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -37.038 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

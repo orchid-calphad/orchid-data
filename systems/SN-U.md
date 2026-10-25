@@ -1,10 +1,10 @@
 # Sn–U system
 
-> Sn–U system: 68 accepted literature values (invariant reaction 38, formation 21, phase transition 7, crystal structure 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–U system: 57 accepted literature values (invariant reaction 38, formation 17, crystal structure 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-U.html · Markdown: https://data.orchid-project.org/systems/SN-U.md
 
-68 accepted literature values from 2 paper(s) (experimental 43, model 19, unspecified 6); 2 calculated phase diagram(s).
+57 accepted literature values from 2 paper(s) (experimental 32, model 19, unspecified 6); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-U.json) · [CSV](https://data.orchid-project.org/systems/SN-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-U/SnU-21Wan.json) · [phases (15)](https://data.orchid-project.org/phases/pages/SN-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-U.html) · [Markdown](https://data.orchid-project.org/systems/SN-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
+| experimental | 32 |
 | model | 19 |
 | unspecified | 6 |
 
@@ -21,8 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 38 |
-| phase transition | 7 |
-| formation | 21 |
+| formation | 17 |
 | crystal structure | 2 |
 
 ## Calculated phase diagrams
@@ -127,47 +126,29 @@ Table: Invariant reactions reported in the literature for the Sn–U system (38)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Sn–U system (21)
+Table: Enthalpies of formation, Sn–U system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -88.45 kJ/mol (basis unstated) | 794.15 | experimental |  |  | [2] Wang 2021; _cites Pattanaik 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.09.144) | p. 2; `ORC-HYJKZFU6KZ.ea5c3b` | “Pattanaik et al.\[27\] investigated the Gibbs energy of formation of USn3, U3Sn7, USn2, and USn using the molten salt galvanic cell emf measurements and reported the enthalpies of formation of these compounds as value of - 43.2, - 52.78, - 58.3, - 88.45 kJ mol-1 at 521 C, respectively.” |
-| — |  | -58.3 kJ/mol (basis unstated) | 794.15 | experimental |  |  | [2] Wang 2021; _cites Pattanaik 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.09.144) | p. 2; `ORC-HYJKZFU6KZ.766aac` | “Pattanaik et al.\[27\] investigated the Gibbs energy of formation of USn3, U3Sn7, USn2, and USn using the molten salt galvanic cell emf measurements and reported the enthalpies of formation of these compounds as value of - 43.2, - 52.78, - 58.3, - 88.45 kJ mol-1 at 521 C, respectively.” |
-| — |  | -52.78 kJ/mol (basis unstated) | 794.15 | experimental |  |  | [2] Wang 2021; _cites Pattanaik 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.09.144) | p. 2; `ORC-HYJKZFU6KZ.6e5bb7` | “Pattanaik et al.\[27\] investigated the Gibbs energy of formation of USn3, U3Sn7, USn2, and USn using the molten salt galvanic cell emf measurements and reported the enthalpies of formation of these compounds as value of - 43.2, - 52.78, - 58.3, - 88.45 kJ mol-1 at 521 C, respectively.” |
-| — |  | -43.47 kJ/mol (basis unstated) | 794.15 | experimental |  |  | [2] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | p. 2; `ORC-V3325OI2BY.534bcb` | “Colinet et al.\[26\] reported the enthalpy of formation of USn3 as - 35.3 kJ mol-1 at 25 C and - 43.47 kJ mol-1 at 521 C characterized by solution calorimetry analysis.” |
-| — |  | -43.2 kJ/mol (basis unstated) | 794.15 | experimental |  |  | [2] Wang 2021; _cites Pattanaik 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.09.144) | p. 2; `ORC-HYJKZFU6KZ.7c8e72` | “Pattanaik et al.\[27\] investigated the Gibbs energy of formation of USn3, U3Sn7, USn2, and USn using the molten salt galvanic cell emf measurements and reported the enthalpies of formation of these compounds as value of - 43.2, - 52.78, - 58.3, - 88.45 kJ mol-1 at 521 C, respectively.” |
-| — |  | -41.8 kJ/mol (basis unstated) | 794.15 | experimental |  |  | [2] Wang 2021; _cites Johnson 1962_ | p. 2; `ORC-6LXQ4ZX6BF.380e28` | “Johnson et al.\[24\] reported the enthalpy of formation of USn3 as - 36.5 kJ mol-1 at 25 C and - 41.8 kJ mol-1 at 521 C using emf measurements.” |
-| — |  | -36.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Wang 2021; _cites Johnson 1962_ | p. 2; `ORC-6LXQ4ZX6BF.da4161` | “Johnson et al.\[24\] reported the enthalpy of formation of USn3 as - 36.5 kJ mol-1 at 25 C and - 41.8 kJ mol-1 at 521 C using emf measurements.” |
-| — |  | -35.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | p. 2; `ORC-V3325OI2BY.534b78` | “Colinet et al.\[26\] reported the enthalpy of formation of USn3 as - 35.3 kJ mol-1 at 25 C and - 43.47 kJ mol-1 at 521 C characterized by solution calorimetry analysis.” |
-| — |  | -24.06 kJ/mol (basis unstated) | 794.15 | experimental |  |  | [2] Wang 2021; _cites Alcock 1962_ | p. 2; `ORC-FF7XAD26OS.5d3acf` | “For the thermodynamic properties of U-Sn binary system, Alcock et al.\[22\] reported the enthalpy of formation of USn3 as - 22.59 kJ mol-1 at 25 C using acid dissociation calorimetry and - 24.06 kJ mol-1 at 521 C using vapor pressure.” |
-| — |  | -22.59 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Wang 2021; _cites Alcock 1962_ | p. 2; `ORC-FF7XAD26OS.d77d6a` | “For the thermodynamic properties of U-Sn binary system, Alcock et al.\[22\] reported the enthalpy of formation of USn3 as - 22.59 kJ mol-1 at 25 C using acid dissociation calorimetry and - 24.06 kJ mol-1 at 521 C using vapor pressure.” |
 | U3Sn7 | [Sn7U3](https://data.orchid-project.org/compounds/Sn7U3.html) | -52.78 kJ/mol-atom | 794.15 | unspecified | -12.21 (mp-aaacqpmz) |  | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 1, p. 3, row 4; `ORC-UGUP3IIIUE` |  |
 | USn | [SnU](https://data.orchid-project.org/compounds/SnU.html) | -88.45 kJ/mol-atom | 794.15 | unspecified | 4.115 (mp-aaacdipr) | -2.203 (oqmd-1231159) | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 1, p. 3, row 2; `ORC-HBOMRR3WMD` |  |
 | USn2 | [Sn2U](https://data.orchid-project.org/compounds/Sn2U.html) | -58.3 kJ/mol-atom | 794.15 | unspecified | -9.73 (mp-aaacqroo) |  | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 1, p. 3, row 3; `ORC-BK7CRI65KP` |  |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -43.47 kJ/mol-atom | 794.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | Table 1, p. 3, row 10; `ORC-RYIOBWSPT5` |  |
+| USn3 |  | -43.47 kJ/mol (basis unstated) | 794.15 | experimental |  |  | [2] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | p. 2; `ORC-V3325OI2BY.534bcb` | “Colinet et al.\[26\] reported the enthalpy of formation of USn3 as - 35.3 kJ mol-1 at 25 C and - 43.47 kJ mol-1 at 521 C characterized by solution calorimetry analysis.” |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -43.2 kJ/mol-atom | 794.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Pattanaik 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.09.144) | Table 1, p. 3, row 11; `ORC-PQRCDHMBVC` |  |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -42.9 kJ/mol-atom | 965.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Kadochnikov 1976_ | Table 1, p. 3, row 12; `ORC-3LMSC4VP4N` |  |
+| USn3 |  | -41.8 kJ/mol (basis unstated) | 794.15 | experimental |  |  | [2] Wang 2021; _cites Johnson 1962_ | p. 2; `ORC-6LXQ4ZX6BF.380e28` | “Johnson et al.\[24\] reported the enthalpy of formation of USn3 as - 36.5 kJ mol-1 at 25 C and - 41.8 kJ mol-1 at 521 C using emf measurements.” |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -41.8 kJ/mol-atom | 794.15 | unspecified | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Sheldon 1987_ [doi](https://doi.org/10.1007/bf02869271) | Table 1, p. 3, row 9; `ORC-Q3DN6PXNB2` |  |
+| USn3 |  | -36.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Wang 2021; _cites Johnson 1962_ | p. 2; `ORC-6LXQ4ZX6BF.da4161` | “Johnson et al.\[24\] reported the enthalpy of formation of USn3 as - 36.5 kJ mol-1 at 25 C and - 41.8 kJ mol-1 at 521 C using emf measurements.” |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -36.5 kJ/mol-atom | 298.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Johnson 1962_ | Table 1, p. 3, row 6; `ORC-D54TJXDZAE` |  |
+| USn3 |  | -35.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | p. 2; `ORC-V3325OI2BY.534b78` | “Colinet et al.\[26\] reported the enthalpy of formation of USn3 as - 35.3 kJ mol-1 at 25 C and - 43.47 kJ mol-1 at 521 C characterized by solution calorimetry analysis.” |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -35.3 kJ/mol-atom | 298.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | Table 1, p. 3, row 7; `ORC-VRQVJOHN5X` |  |
+| USn3 |  | -24.06 kJ/mol (basis unstated) | 794.15 | experimental |  |  | [2] Wang 2021; _cites Alcock 1962_ | p. 2; `ORC-FF7XAD26OS.5d3acf` | “For the thermodynamic properties of U-Sn binary system, Alcock et al.\[22\] reported the enthalpy of formation of USn3 as - 22.59 kJ mol-1 at 25 C using acid dissociation calorimetry and - 24.06 kJ mol-1 at 521 C using vapor pressure.” |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -24.06 kJ/mol-atom | 794.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Alcock 1962_ | Table 1, p. 3, row 8; `ORC-IHMGOGARKA` |  |
+| USn3 |  | -22.59 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Wang 2021; _cites Alcock 1962_ | p. 2; `ORC-FF7XAD26OS.d77d6a` | “For the thermodynamic properties of U-Sn binary system, Alcock et al.\[22\] reported the enthalpy of formation of USn3 as - 22.59 kJ mol-1 at 25 C using acid dissociation calorimetry and - 24.06 kJ mol-1 at 521 C using vapor pressure.” |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -22.59 kJ/mol-atom | 298.15 | unspecified | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 1, p. 3, row 5; `ORC-NFN2F33S26` |  |
 
 ## Other properties
-
-### Phase transition (7)
-
-Table: Phase transition, Sn–U system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1623.15 K | 1623.15 |  | experimental | [2] Wang 2021; _cites Sari 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990496-4) | p. 2; `ORC-5YWCK64T6I` | “The melting temperature of USn3 was also reported as 1350 C by Sari et al.,\[21\] which agrees well with the values reported by.\[5, 20\]” |
-| Phase transition | 1623.15 K | 1623.15 |  | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | p. 2; `ORC-TJIHPP5T3G.271528` | “The melting temperature of these compounds U5Sn4, USn, USn2, U3Sn7, and USn3 was reported as 1390 C, 1385 C, 1370 C, 1360 C, 1350 C, respectively.” |
-| Phase transition | 1633.15 K | 1633.15 |  | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | p. 2; `ORC-TJIHPP5T3G.ae9aba` | “The melting temperature of these compounds U5Sn4, USn, USn2, U3Sn7, and USn3 was reported as 1390 C, 1385 C, 1370 C, 1360 C, 1350 C, respectively.” |
-| Phase transition | 1643.15 K | 1643.15 |  | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | p. 2; `ORC-TJIHPP5T3G.6e92fa` | “The melting temperature of these compounds U5Sn4, USn, USn2, U3Sn7, and USn3 was reported as 1390 C, 1385 C, 1370 C, 1360 C, 1350 C, respectively.” |
-| Phase transition | 1658.15 K | 1658.15 |  | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | p. 2; `ORC-TJIHPP5T3G.5d472d` | “The melting temperature of these compounds U5Sn4, USn, USn2, U3Sn7, and USn3 was reported as 1390 C, 1385 C, 1370 C, 1360 C, 1350 C, respectively.” |
-| Phase transition | 1663.15 K | 1663.15 |  | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | p. 2; `ORC-TJIHPP5T3G.ab6256` | “The melting temperature of these compounds U5Sn4, USn, USn2, U3Sn7, and USn3 was reported as 1390 C, 1385 C, 1370 C, 1360 C, 1350 C, respectively.” |
-| Phase transition | 1773.15 K | 1773.15 | congruent transformation | experimental | [1] Sheldon 1987; _cites ref. 45Tre_ | p. 3; `ORC-YQJ5LCLWHB` | “T h e r m a l d a t a i n d i c a t e d this compound m e l t s c o n g r u e n t l y at 1500 ~ \[45Tre\].” |
 
 ### Crystal structure (2)
 

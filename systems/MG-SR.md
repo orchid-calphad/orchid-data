@@ -1,10 +1,10 @@
 # Mg–Sr system
 
-> Mg–Sr system: 40 accepted literature values (invariant reaction 25, crystal structure 9, formation 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Sr system: 39 accepted literature values (invariant reaction 24, crystal structure 9, formation 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-SR.html · Markdown: https://data.orchid-project.org/systems/MG-SR.md
 
-40 accepted literature values from 1 paper(s) (experimental 18, model 8, unspecified 14); 2 calculated phase diagram(s).
+39 accepted literature values from 1 paper(s) (experimental 18, model 7, unspecified 14); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SR.json) · [CSV](https://data.orchid-project.org/systems/MG-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SR/MgSr-06Zho.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MG-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SR.html) · [Markdown](https://data.orchid-project.org/systems/MG-SR.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 18 |
-| model | 8 |
+| model | 7 |
 | unspecified | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 25 |
+| invariant reaction | 24 |
 | formation | 6 |
 | crystal structure | 9 |
 
@@ -76,18 +76,18 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Sr system (25)
+Table: Invariant reactions reported in the literature for the Mg–Sr system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 962 | Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 20; `ORC-5SW4TJTDHR` |  |
-| 953 | Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 19; `ORC-LQUHDVORTX` |  |
-| 953 | Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 18; `ORC-ZDQGZCW53U` |  |
-| 951 | Liquid = Mg2Sr | Liquid: Sr 0.3334; Mg2Sr: Sr 0.3334 | model | [1] Zhong 2006 | Table 4, p. 6, row 17; `ORC-NTDZED7ZFV` |  |
+| 962 | congruent melting: Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 20; `ORC-5SW4TJTDHR` |  |
+| 953 | congruent melting: Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 19; `ORC-LQUHDVORTX` |  |
+| 953 | congruent melting: Liquid = Mg2Sr | Liquid: Sr 0.3333; Mg2Sr: Sr 0.3333 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 18; `ORC-ZDQGZCW53U` |  |
+| 951 | congruent melting: Liquid = Mg2Sr | Liquid: Sr 0.3334; Mg2Sr: Sr 0.3334 | model | [1] Zhong 2006 | Table 4, p. 6, row 17; `ORC-NTDZED7ZFV` |  |
 | 881 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.191; Mg23Sr6: Sr 0.3333; Mg38Sr9: Sr 0.25 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 13; `ORC-JBZAMVC7NG` |  |
 | 881 | Liquid + Mg2Sr = Mg23Sr6 | Liquid: Sr 0.1911; Mg2Sr: Sr 0.3333; Mg23Sr6: Sr 0.25 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 16; `ORC-Q2O3ENRF4N` |  |
-| 879.5 | Liquid = Mg17Sr2 | Liquid: Sr 0.1053; Mg17Sr2: Sr 0.1053 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 7; `ORC-UK3NX2ANGW` |  |
-| 879 | Liquid = Mg17Sr2 | Liquid: Sr 0.1053; Mg17Sr2: Sr 0.1053 | model | [1] Zhong 2006 | Table 4, p. 6, row 6; `ORC-4HQPPTBW74` |  |
+| 879.5 | congruent melting: Liquid = Mg17Sr2 | Liquid: Sr 0.1053; Mg17Sr2: Sr 0.1053 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 7; `ORC-UK3NX2ANGW` |  |
+| 879 | congruent melting: Liquid = Mg17Sr2 | Liquid: Sr 0.1053; Mg17Sr2: Sr 0.1053 | model | [1] Zhong 2006 | Table 4, p. 6, row 6; `ORC-4HQPPTBW74` |  |
 | 876 | Liquid + Mg2Sr = Mg23Sr6 | Liquid: Sr 0.1923; Mg2Sr: Sr 0.3285; Mg23Sr6: Sr 0.2069 | model | [1] Zhong 2006 | Table 4, p. 6, row 15; `ORC-NEBL2BINBX` |  |
 | 876 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.1936; Mg23Sr6: Sr 0.3333; Mg38Sr9: Sr 0.2069 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 14; `ORC-WO2P6MPGGL` |  |
 | 872 | Liquid + Mg23Sr6 = Mg38Sr9 | Liquid: Sr 0.1914; Mg23Sr6: Sr 0.2069; Mg38Sr9: Sr 0.1915 | model | [1] Zhong 2006 | Table 4, p. 6, row 10; `ORC-ENUFJ7R5YV` |  |
@@ -100,7 +100,6 @@ Table: Invariant reactions reported in the literature for the Mg–Sr system (25
 | 858 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.0645; hcp-Mg: Sr 0.001; Mg17Sr2: Sr 0.1053 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 5; `ORC-BWXRKIAJNC` |  |
 | 858 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.06; hcp-Mg: Sr 0; Mg17Sr2: Sr 0.1 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 3; `ORC-RJYV6FSFQK` |  |
 | 855 | Liquid = hcp-Mg + Mg17Sr2 | Liquid: Sr 0.059; hcp-Mg: Sr 0; Mg17Sr2: Sr 0.1 | experimental | [1] Zhong 2006; _cites Vosskhuler 1939_ | Table 4, p. 6, row 2; `ORC-BYU4UZ2LVX` |  |
-| 717 | eutectic |  | model | [1] Zhong 2006 | p. 7; `ORC-OTJ65OUJMD` | “The predicted lowest ternary eutectic temperature is 717 K.” |
 | 711 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.65; Mg2Sr: Sr 0.3333; fcc-Al: Sr 1 | experimental | [1] Zhong 2006; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 4, p. 6, row 22; `ORC-NBTSWB3JLH` |  |
 | 700 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.6929; Mg2Sr: Sr 0.3387; fcc-Al: Sr 0.9978 | model | [1] Zhong 2006 | Table 4, p. 6, row 21; `ORC-TTKRGFTTSD` |  |
 | 699 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.7; Mg2Sr: Sr 0.3333; fcc-Al: Sr 0.855 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 23; `ORC-3AAZIHPBEH` |  |

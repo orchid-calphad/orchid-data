@@ -55,13 +55,13 @@ Table: Invariant reactions reported in the literature for the Bi–Na system (12
 | 718 | liq + BiNa3 -> BiNa | BiNa3: Na 0.75; BiNa: Na 0.5 | experimental | [1] Liu 2013; _cites Vournasos 1944_ | Table 6, p. 7, row 8; `ORC-KGYVLGKMWM` |  |
 | 718 | liq + BiNa3 -> BiNa | liq: Na 0.469; BiNa3: Na 0.75; BiNa: Na 0.5 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 6, p. 7, row 6; `ORC-VOW35PW5PX` |  |
 | 717 | liq + BiNa3 -> BiNa | liq: Na 0.48; BiNa3: Na 0.75; BiNa: Na 0.5 | experimental | [1] Liu 2013; _cites Johnson 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990008-1) | Table 6, p. 7, row 7; `ORC-RANBVQKT5J` |  |
-| 491 | liq -> Bi + BiNa | Bi: Na 0; BiNa: Na 0.5 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 6, p. 7, row 2; `ORC-GNV72U5O3Z` |  |
-| 490.9 | liq -> Bi + BiNa | liq: Na 0.2; Bi: Na 0; BiNa: Na 0.5 | model | [1] Liu 2013 | Table 6, p. 7, row 1; `ORC-GNEHTRTSEF` |  |
-| 489 | liq -> Bi + BiNa | Bi: Na 0; BiNa: Na 0.5 | experimental | [1] Liu 2013; _cites Johnson 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990008-1) | Table 6, p. 7, row 3; `ORC-CFP2OWKT55` |  |
-| 487 | liq -> Bi + BiNa | Bi: Na 0; BiNa: Na 0.5 | experimental | [1] Liu 2013; _cites Vournasos 1944_ | Table 6, p. 7, row 4; `ORC-NQJE7RHRPU` |  |
-| 370.9 | liq -> BiNa3 + Na | liq: Na 0.999; BiNa3: Na 0.75 | model | [1] Liu 2013 | Table 6, p. 7, row 17; `ORC-6FQWRPDTAP` |  |
-| 370.7 | liq -> BiNa3 + Na | BiNa3: Na 0.75 | experimental | [1] Liu 2013; _cites Johnson 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990008-1) | Table 6, p. 7, row 19; `ORC-6ZY7QZMGSD` |  |
-| 370 | liq -> BiNa3 + Na | BiNa3: Na 0.75 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 6, p. 7, row 18; `ORC-NTFMYECH55` |  |
+| 491 | eutectic: liq -> Bi + BiNa | Bi: Na 0; BiNa: Na 0.5 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 6, p. 7, row 2; `ORC-GNV72U5O3Z` |  |
+| 490.9 | eutectic: liq -> Bi + BiNa | liq: Na 0.2; Bi: Na 0; BiNa: Na 0.5 | model | [1] Liu 2013 | Table 6, p. 7, row 1; `ORC-GNEHTRTSEF` |  |
+| 489 | eutectic: liq -> Bi + BiNa | Bi: Na 0; BiNa: Na 0.5 | experimental | [1] Liu 2013; _cites Johnson 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990008-1) | Table 6, p. 7, row 3; `ORC-CFP2OWKT55` |  |
+| 487 | eutectic: liq -> Bi + BiNa | Bi: Na 0; BiNa: Na 0.5 | experimental | [1] Liu 2013; _cites Vournasos 1944_ | Table 6, p. 7, row 4; `ORC-NQJE7RHRPU` |  |
+| 370.9 | eutectic: liq -> BiNa3 + Na | liq: Na 0.999; BiNa3: Na 0.75 | model | [1] Liu 2013 | Table 6, p. 7, row 17; `ORC-6FQWRPDTAP` |  |
+| 370.7 | eutectic: liq -> BiNa3 + Na | BiNa3: Na 0.75 | experimental | [1] Liu 2013; _cites Johnson 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990008-1) | Table 6, p. 7, row 19; `ORC-6ZY7QZMGSD` |  |
+| 370 | eutectic: liq -> BiNa3 + Na | BiNa3: Na 0.75 | experimental | [1] Liu 2013; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 6, p. 7, row 18; `ORC-NTFMYECH55` |  |
 
 ## Formation enthalpies
 

@@ -62,22 +62,22 @@ Table: Invariant reactions reported in the literature for the Au–Hf system (28
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2023 | liq.->βAuHf | liq.: Hf 0.5; βAuHf: Hf 0.5 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 16; `ORC-ZNAMKR2C7I` |  |
-| 2020 | liq.->βAuHf | liq.: Hf 0.4971; βAuHf: Hf 0.4971 | model | [1] Du 2003 | Table 2, p. 4, row 15; `ORC-6YD6N24XWW` |  |
-| 1928 | liq.->Au2Hf | liq.: Hf 0.3068; Au2Hf: Hf 0.3068 | model | [1] Du 2003 | Table 2, p. 4, row 9; `ORC-WUAOS5N7L7` |  |
-| 1928 | liq.->Au2Hf | liq.: Hf 0.33; Au2Hf: Hf 0.33 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 10; `ORC-ZVL5VESI5H` |  |
-| 1822 | liq.->Au2Hf+βAuHf | liq.: Hf 0.42; Au2Hf: Hf 0.33; βAuHf: Hf 0.45 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 12; `ORC-MDMTVIC6PM` |  |
-| 1822 | liq.->Au2Hf+βAuHf | liq.: Hf 0.3831; Au2Hf: Hf 0.324; βAuHf: Hf 0.4709 | model | [1] Du 2003 | Table 2, p. 4, row 11; `ORC-UWUG2CQ7JZ` |  |
+| 2023 | congruent melting: liq.->βAuHf | liq.: Hf 0.5; βAuHf: Hf 0.5 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 16; `ORC-ZNAMKR2C7I` |  |
+| 2020 | congruent melting: liq.->βAuHf | liq.: Hf 0.4971; βAuHf: Hf 0.4971 | model | [1] Du 2003 | Table 2, p. 4, row 15; `ORC-6YD6N24XWW` |  |
+| 1928 | congruent melting: liq.->Au2Hf | liq.: Hf 0.3068; Au2Hf: Hf 0.3068 | model | [1] Du 2003 | Table 2, p. 4, row 9; `ORC-WUAOS5N7L7` |  |
+| 1928 | congruent melting: liq.->Au2Hf | liq.: Hf 0.33; Au2Hf: Hf 0.33 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 10; `ORC-ZVL5VESI5H` |  |
+| 1822 | eutectic: liq.->Au2Hf+βAuHf | liq.: Hf 0.42; Au2Hf: Hf 0.33; βAuHf: Hf 0.45 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 12; `ORC-MDMTVIC6PM` |  |
+| 1822 | eutectic: liq.->Au2Hf+βAuHf | liq.: Hf 0.3831; Au2Hf: Hf 0.324; βAuHf: Hf 0.4709 | model | [1] Du 2003 | Table 2, p. 4, row 11; `ORC-UWUG2CQ7JZ` |  |
 | 1816 | liq. + Au2Hf->Au3Hf | liq.: Hf 0.2385; Au2Hf: Hf 0.293; Au3Hf: Au 0.75, Hf 0.25 | model | [1] Du 2003 | Table 2, p. 4, row 7; `ORC-2456FVVFWJ` |  |
 | 1816 | liq. + Au2Hf->Au3Hf | liq.: Hf 0.23; Au2Hf: Hf 0.3; Au3Hf: Au 0.75, Hf 0.25 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 8; `ORC-R2XMYHBZAH` |  |
-| 1793 | liq.->AuHf2 | liq.: Hf 0.67; AuHf2: Au 0.333333, Hf 0.666667 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 24; `ORC-KWC7NIA5BS` |  |
-| 1793 | liq.->AuHf2 | liq.: Hf 0.6667; AuHf2: Au 0.333333, Hf 0.666667 | model | [1] Du 2003 | Table 2, p. 4, row 23; `ORC-UF3DVVZGWI` |  |
+| 1793 | congruent melting: liq.->AuHf2 | liq.: Hf 0.67; AuHf2: Au 0.333333, Hf 0.666667 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 24; `ORC-KWC7NIA5BS` |  |
+| 1793 | congruent melting: liq.->AuHf2 | liq.: Hf 0.6667; AuHf2: Au 0.333333, Hf 0.666667 | model | [1] Du 2003 | Table 2, p. 4, row 23; `ORC-UF3DVVZGWI` |  |
 | 1786 | Au2Hf+βAuHf->Au10Hf7 | Au2Hf: Hf 0.3249; βAuHf: Hf 0.469; Au10Hf7: Au 0.588235, Hf 0.411765 | model | [1] Du 2003 | Table 2, p. 4, row 13; `ORC-2MCQFFBV44` |  |
 | 1786 | Au2Hf+βAuHf->Au10Hf7 | Au2Hf: Hf 0.33; βAuHf: Hf 0.45; Au10Hf7: Au 0.588235, Hf 0.411765 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 14; `ORC-BNTZ7H44ZU` |  |
-| 1765 | liq.->βAuHf+AuHf2 | liq.: Hf 0.62; βAuHf: Hf 0.5; AuHf2: Au 0.333333, Hf 0.666667 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 20; `ORC-BK6EJPDT3D` |  |
-| 1761 | liq.->βAuHf+AuHf2 | liq.: Hf 0.6239; βAuHf: Hf 0.4998; AuHf2: Au 0.333333, Hf 0.666667 | model | [1] Du 2003 | Table 2, p. 4, row 19; `ORC-BPASBX7PPV` |  |
-| 1677 | liq.->AuHf2+bcc(Hf) | liq.: Hf 0.7498; AuHf2: Au 0.333333, Hf 0.666667; bcc(Hf): Hf 0.8709 | model | [1] Du 2003 | Table 2, p. 4, row 25; `ORC-WBT57UAANY` |  |
-| 1670 | liq.->AuHf2+bcc(Hf) | liq.: Hf 0.8; AuHf2: Au 0.333333, Hf 0.666667; bcc(Hf): Hf 0.86 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 26; `ORC-BNIKW7X67R` |  |
+| 1765 | eutectic: liq.->βAuHf+AuHf2 | liq.: Hf 0.62; βAuHf: Hf 0.5; AuHf2: Au 0.333333, Hf 0.666667 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 20; `ORC-BK6EJPDT3D` |  |
+| 1761 | eutectic: liq.->βAuHf+AuHf2 | liq.: Hf 0.6239; βAuHf: Hf 0.4998; AuHf2: Au 0.333333, Hf 0.666667 | model | [1] Du 2003 | Table 2, p. 4, row 19; `ORC-BPASBX7PPV` |  |
+| 1677 | eutectic: liq.->AuHf2+bcc(Hf) | liq.: Hf 0.7498; AuHf2: Au 0.333333, Hf 0.666667; bcc(Hf): Hf 0.8709 | model | [1] Du 2003 | Table 2, p. 4, row 25; `ORC-WBT57UAANY` |  |
+| 1670 | eutectic: liq.->AuHf2+bcc(Hf) | liq.: Hf 0.8; AuHf2: Au 0.333333, Hf 0.666667; bcc(Hf): Hf 0.86 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 26; `ORC-BNIKW7X67R` |  |
 | 1571 | liq. + Au3Hf->Au4Hf | liq.: Hf 0.1542; Au3Hf: Au 0.75, Hf 0.25; Au4Hf: Au 0.8, Hf 0.2 | model | [1] Du 2003 | Table 2, p. 4, row 5; `ORC-DVJWZ5F4P6` |  |
 | 1571 | liq. + Au3Hf->Au4Hf | liq.: Hf 0.15; Au3Hf: Au 0.75, Hf 0.25; Au4Hf: Au 0.8, Hf 0.2 | experimental | [1] Du 2003; _cites Lomello-Tafin 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900529-0) | Table 2, p. 4, row 6; `ORC-S33V2KQWLS` |  |
 | 1559 | bcc(Hf)->AuHf2+hcp(Hf) | bcc(Hf): Hf 0.8818; AuHf2: Au 0.333333, Hf 0.666667; hcp(Hf): Hf 0.9715 | model | [1] Du 2003 | Table 2, p. 4, row 27; `ORC-37YXP2AV2R` |  |

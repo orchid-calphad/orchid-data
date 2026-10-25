@@ -29,11 +29,11 @@ Table: Uncertainty budget of the literature values of LaC2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -50.3 | kJ/mol-atom | 5.3 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -29.7 | kJ/mol-atom | 8 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 8 |
+| -50.3 | kJ/mol-atom | 5.3 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 5.3 |
+| -29.7 | kJ/mol-atom | 8 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 8 |
 | -29.1 | kJ/mol-atom | 3.5 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -27.2 | kJ/mol-atom | 1.4 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -26.5 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -27.2 | kJ/mol-atom | 1.4 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -26.5 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -19.5 | kJ/mol-atom | 3.4 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 
 ## DFT formation energies

@@ -1,10 +1,10 @@
 # Ca–Mg–Sn system
 
-> Ca–Mg–Sn system: 99 accepted literature values (phase transition 40, invariant reaction 23, crystal structure 16, phase equilibrium 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Mg–Sn system: 97 accepted literature values (phase transition 38, invariant reaction 23, crystal structure 16, phase equilibrium 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-MG-SN.html · Markdown: https://data.orchid-project.org/systems/CA-MG-SN.md
 
-99 accepted literature values from 1 paper(s) (experimental 37, model 23, DFT 4, unspecified 35); 0 calculated phase diagram(s).
+97 accepted literature values from 1 paper(s) (experimental 37, model 21, DFT 4, unspecified 35); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG-SN.json) · [CSV](https://data.orchid-project.org/systems/CA-MG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-MG-SN.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG-SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 37 |
-| model | 23 |
+| model | 21 |
 | DFT | 4 |
 | unspecified | 35 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 23 |
-| phase transition | 40 |
+| phase transition | 38 |
 | phase equilibrium | 12 |
 | formation | 4 |
 | heat capacity / entropy / enthalpy | 4 |
@@ -73,7 +73,7 @@ Table: Enthalpies of formation, Ca–Mg–Sn system (4)
 
 ## Other properties
 
-### Phase transition (40)
+### Phase transition (38)
 
 Table: Phase transition, Ca–Mg–Sn system
 
@@ -88,9 +88,7 @@ Table: Phase transition, Ca–Mg–Sn system
 | Phase transition | 836.15 K | 836.15 | eutectic: E2: L ↔ (Mg) + Ca2-xMgxSn + Mg2Sn; _alloy: Ca 5.000e-4, Mg 0.667, Sn 0.283_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 20; `ORC-XHXYDW22XR` |  |
 | Phase transition | 849.15 K | 849.15 | U5: L + Ca6.2Mg3.8Sn7 ↔ Ca2-xMgxSn + CaSn3; _alloy: Ca 0.3647, Mg 0.2235, Sn 0.4118_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 31; `ORC-ESEL52GRAG` |  |
 | Phase transition | 864.15 K | 864.15 | U5: L + Ca6.2Mg3.8Sn7 ↔ Ca2-xMgxSn + CaSn3; _alloy: Ca 0.3647, Mg 0.2235, Sn 0.4118_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 30; `ORC-UWH7Q6DMR3` |  |
-| Phase transition | 906.15 K | 906.15 | L / (Mg) þ Ca2 xMgxSn | model | [1] Kozlov 2008 | p. 14; `ORC-3VHLXKPIJ6.f0519e` | “The reaction L / (Mg) þ Ca2xMgxSn starts 7 K lower at 633  C and stretches down to 562.8  C where some 6% of residual liquid finally solidify in the eutectic reaction E2: L 4 (Mg) þ Mg2Sn þ Ca2xMgxSn.” |
 | Phase transition | 908.15 K | 908.15 | max4: L + Ca2-xMgxSn/Ca2-xMgxSn + (Mg); _alloy: Ca 0.167, Mg 0.667, Sn 0.166_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 14; `ORC-KD7HG2T6UX` |  |
-| Phase transition | 913.15 K | 913.15 | L / (Mg) þ Ca2 xMgxSn | model | [1] Kozlov 2008 | p. 14; `ORC-RSPMG6KHVI` | “The secondary precipitated phase is (Mg) which forms at 640  C in the reaction L / (Mg) þ Ca2xMgxSn.” |
 | Phase transition | 913.15 K | 913.15 | max4: L + Ca2-xMgxSn/Ca2-xMgxSn + (Mg); _alloy: Ca 0.167, Mg 0.667, Sn 0.166_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 15; `ORC-OUFKORZH62` |  |
 | Phase transition | 931.15 K | 931.15 | L + Ca2-xMgxSn/L + Ca2-xMgxSn + Mg2Ca; _alloy: Ca 0.283, Mg 0.667, Sn 5.000e-4_ | experimental | [1] Kozlov 2008 | Table 5, p. 10, row 3; `ORC-7FAL2VKZIG` |  |
 | Phase transition | 939.15 K | 939.15 | L + Ca2-xMgxSn/L + Ca2-xMgxSn + Mg2Ca; _alloy: Ca 0.283, Mg 0.667, Sn 5.000e-4_ | unspecified | [1] Kozlov 2008 | Table 5, p. 10, row 4; `ORC-IN2XMRBS7F` |  |

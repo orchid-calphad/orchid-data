@@ -1,10 +1,10 @@
 # Si–Te system
 
-> Si–Te system: 24 accepted literature values (phase transition 18, formation 5, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Te system: 5 accepted literature values (formation 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-TE.html · Markdown: https://data.orchid-project.org/systems/SI-TE.md
 
-24 accepted literature values from 1 paper(s) (experimental 17, model 7); 2 calculated phase diagram(s).
+5 accepted literature values from 1 paper(s) (experimental 5); 2 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TE.json) · [CSV](https://data.orchid-project.org/systems/SI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TE/SiTe-20Yua.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TE.html) · [Markdown](https://data.orchid-project.org/systems/SI-TE.md)
 
@@ -12,15 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 7 |
+| experimental | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 18 |
 | formation | 5 |
 
 ## Calculated phase diagrams
@@ -52,14 +49,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/SI/SI-TE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SI/SI-TE.json) · [CALPHAD hull SiTe-99Feu-LB](https://data.orchid-project.org/hulls/calphad-sgte/SI/SI-TE--SiTe-99Feu-LB.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Si–Te system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1158.15 | peritectic |  | experimental | [1] Feutelais 1999; _cites ref. 16_ | p. 5; `ORC-WYJX7JQO3O` | “The reported values of \[16\] being measured on cooling, we may expect some delay in the observation of the peritectic invariant which explains the low observed temperature of 885°C.” |
-
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
@@ -73,33 +62,6 @@ Table: Enthalpies of formation, Si–Te system (5)
 | α-Si2Te3 |  | -14.4 kJ/mol-atom ± 1 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 6; `ORC-T5IN5YOYEN` |  |
 | α-Si2Te3 |  | -14.2 kJ/mol-atom ± 1.2 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites OHARE 1993_ | Table 2, p. 9, row 7; `ORC-FGHEJFMUYN` |  |
 | α-Si2Te3 |  | -13.8 kJ/mol-atom ± 1.4 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 5; `ORC-Q77N3JJJ37` |  |
-
-## Other properties
-
-### Phase transition (18)
-
-Table: Phase transition, Si–Te system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 674.15 K | 674.15 |  | model | [1] Feutelais 1999 | p. 4; `ORC-4DUEZVUZSR` | “Thus we defined a hypothetical transformation temperature Ttrans = 401°C as being the average value of the reported measurements of \[17\].” |
-| Phase transition | 674.15 K | 674.15 |  | model | [1] Feutelais 1999 | p. 6; `ORC-ME4NFMMO6A.11a0ce` | “As explained above, the temperature of transition of silicon sesquitelluride is 401°C and corresponds, according to our assumption, to equilibria between Si, (Y- SiaTes and ,B- S&Tea on the one hand and Q - S&Tea, p - SizTes and Te on the other hand.” |
-| Phase transition | 679.15 K | 679.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 14_ | Table 1, p. 9, row 5; `ORC-2MSCKY634H` |  |
-| Phase transition | 680.15 K | 680.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 16_ | Table 1, p. 9, row 8; `ORC-7RTIOECO3V` |  |
-| Phase transition | 680.15 K | 680.15 | peritectic | model | [1] Feutelais 1999 | Table 1, p. 9, row 12; `ORC-Z3S2K6PHZ4` |  |
-| Phase transition | 682.15 K | 682.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 12_ | Table 1, p. 9, row 2; `ORC-3N4ENNT75E` |  |
-| Phase transition | 687.15 K | 687.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 17_ | Table 1, p. 9, row 10; `ORC-2YDBJOAM7Z` |  |
-| Phase transition | 1158.15 K | 1158.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 16_ | Table 1, p. 9, row 7; `ORC-RKV7DRKJPH` |  |
-| Phase transition | 1159.15 K | 1159.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 17_ | Table 1, p. 9, row 9; `ORC-DWL6NL2BTV` |  |
-| Phase transition | 1162.15 K | 1162.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 19_ | Table 1, p. 9, row 6; `ORC-6A5VHYDGCX` |  |
-| Phase transition | 1165.15 K | 1165.15 |  | model | [1] Feutelais 1999 | p. 5; `ORC-753SD23PDW` | “This confirms our choice of 892°C for this invariant temperature, as 7°C seems a realistic value for the temperature shift.” |
-| Phase transition | 1165.15 K | 1165.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 13_ | Table 1, p. 9, row 3; `ORC-ECRPAXYUZV` |  |
-| Phase transition | 1165.15 K | 1165.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 12_ | Table 1, p. 9, row 1; `ORC-W7JQSNOULI` |  |
-| Phase transition | 1165.25 K | 1165.25 | Si + L + p-SisTes | model | [1] Feutelais 1999 | p. 6; `ORC-ME4NFMMO6A.14de5b` | “The calculated invariants are : T = 892.1"C Si + L + p-SisTes with zke = 0.604 T = 407.O"C L + ,&SisTes + Te with zTe L - 0.865” |
-| Phase transition | 1165.25 K | 1165.25 | peritectic | model | [1] Feutelais 1999 | Table 1, p. 9, row 11; `ORC-FU7EOXLZUB` |  |
-| Phase transition | 1168.15 K | 1168.15 | peritectic | experimental | [1] Feutelais 1999; _cites ref. 14_ | Table 1, p. 9, row 4; `ORC-6ITLFIIPMD` |  |
-| Phase transition | 1406 K | 1406 | other | model | [1] Feutelais 1999; _cites ref. 14_ | p. 5; `ORC-H746PQRBLH` | “As shown in the Figure 1, the liquidus data reported by \[14\] (1406 K, XT= = 0.4) was not used in the final optimization data file because it is in complete disagreement with other results.” |
-| Phase transition | 1684.15 K | 1684.15 |  | experimental | [1] Feutelais 1999; _cites ref. 16_ | p. 5; `ORC-2OFAA7XCA2` | “On thte contrary, \[16\] reported an observed melting point of pure silicon at 1411°C.” |
 
 ## Sources
 

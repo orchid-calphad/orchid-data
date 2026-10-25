@@ -1,10 +1,10 @@
 # Ag–Sn system
 
-> Ag–Sn system: 19 accepted literature values (invariant reaction 8, phase transition 7, formation 4) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Sn system: 10 accepted literature values (invariant reaction 6, phase transition 4) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-SN.html · Markdown: https://data.orchid-project.org/systems/AG-SN.md
 
-19 accepted literature values from 4 paper(s) (experimental 10, model 9); 10 calculated phase diagram(s).
+10 accepted literature values from 1 paper(s) (experimental 5, model 5); 10 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SN.json) · [CSV](https://data.orchid-project.org/systems/AG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SN/AgSn-00Moo.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-SN.html) · [Markdown](https://data.orchid-project.org/systems/AG-SN.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
-| model | 9 |
+| experimental | 5 |
+| model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
-| phase transition | 7 |
-| formation | 4 |
+| invariant reaction | 6 |
+| phase transition | 4 |
 
 ## Calculated phase diagrams
 
@@ -94,7 +93,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Sn system (8)
+Table: Invariant reactions reported in the literature for the Ag–Sn system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -102,35 +101,17 @@ Table: Invariant reactions reported in the literature for the Ag–Sn system (8)
 | 975 | fcc + L -> hcp | fcc: Sn 0.116; L: Sn 0.234; hcp: Sn 0.129 | model | [1] Chevalier 1988 | Table 2, p. 7, row 9; `ORC-5S2NFEAELL` |  |
 | 758 | hcp + L -> Ag3Sn | hcp: Sn 0.234; L: Sn 0.491; Ag3Sn: Sn 0.25 | model | [1] Chevalier 1988 | Table 2, p. 7, row 7; `ORC-UMMLA3APGI` |  |
 | 753.15 | hcp + L -> Ag3Sn | hcp: Sn 0.228; L: Sn 0.496; Ag3Sn: Sn 0.25 | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 8; `ORC-N6QNIM6D2V` |  |
-| 494.6 | L -> Ag3Sn + bct | L: Sn 0.961; Ag3Sn: Sn 0.25; bct: Sn 0.9992 | model | [1] Chevalier 1988 | Table 2, p. 7, row 5; `ORC-MQEU3BBPJ4` |  |
-| 494.15 | eutectic |  | model | [1] Chevalier 1988 | p. 3; `ORC-AQHMT4R54T` | “The eutectic point has been located at T = 494.15 K, \[8,11,12,14\].” |
-| 494.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 2; `ORC-QYU7AI3224.a32e3d` | “Two of its binaries have already been successfully used in electronic soldering for some time, the eutectic Ag-Sn at higher temperatures (Tm = 221°C), and the eutectic In-Sn at low temperatures (Tm = 120°C).” |
-| 494.15 | L -> Ag3Sn + bct | L: Sn 0.962; Ag3Sn: Sn 0.25; bct: Sn 0.9992 | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 6; `ORC-TJ5FEGS4XI` |  |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Ag–Sn system (4)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -6.19 kJ/mol-atom ± 0.23 | 723 | experimental |  |  | [1] Chevalier 1988 | p. 4; `ORC-EMOQNQ2IS3.6c0502` | “The heat of formation of two alloy samples of very nearly the same composition was measured by calorimetry at T = 723 K by Kleppa \[38\] as - 6.06 f 0.23 and - 6.19 f 0.23 KJ per gram atom respectively.” |
-| — |  | -6.06 kJ/mol-atom ± 0.23 | 723 | experimental |  |  | [1] Chevalier 1988 | p. 4; `ORC-EMOQNQ2IS3.26d9e5` | “The heat of formation of two alloy samples of very nearly the same composition was measured by calorimetry at T = 723 K by Kleppa \[38\] as - 6.06 f 0.23 and - 6.19 f 0.23 KJ per gram atom respectively.” |
-| — |  | -4.447 kJ/mol-atom | 723 | model |  |  | [1] Chevalier 1988 | p. 4; `ORC-FF37P36VB3.4aed2e` | “Taking into account the value of the Gibbs energy of the transformation Sn(bct) ;=t Sn(liq)( + 6973 J) the heat of formation referred to the pure solid elements was calculated as - 4317 and - 4447 J per gram atom at T = 723 K.” |
-| — |  | -4.317 kJ/mol-atom | 723 | model |  |  | [1] Chevalier 1988 | p. 4; `ORC-FF37P36VB3.9c1088` | “Taking into account the value of the Gibbs energy of the transformation Sn(bct) ;=t Sn(liq)( + 6973 J) the heat of formation referred to the pure solid elements was calculated as - 4317 and - 4447 J per gram atom at T = 723 K.” |
+| 494.6 | eutectic: L -> Ag3Sn + bct | L: Sn 0.961; Ag3Sn: Sn 0.25; bct: Sn 0.9992 | model | [1] Chevalier 1988 | Table 2, p. 7, row 5; `ORC-MQEU3BBPJ4` |  |
+| 494.15 | eutectic: L -> Ag3Sn + bct | L: Sn 0.962; Ag3Sn: Sn 0.25; bct: Sn 0.9992 | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 6; `ORC-TJ5FEGS4XI` |  |
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (4)
 
 Table: Phase transition, Ag–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 495.15 K | 495.15 | other | experimental | [3] Kattner 1994 | p. 7; `ORC-P27VOZAAOX` | “The observed liquidus temperature is actually higher than the 222~ liquidus temperature of a binary alloy with 3.32 at.% Ag.” |
-| Phase transition | 504.6 K | 504.6 | other | model | [4] Oh 1996 | p. 10; `ORC-HVOX5GY62D.cbf24f` | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
-| Phase transition | 505 K | 505 | other | experimental | [4] Oh 1996; _cites Loomans 1994_ [doi](https://doi.org/10.1007/bf02651368) | p. 10; `ORC-HVOX5GY62D.29cbb1` | “The calculated liquidus temperatures for the possible Snbased solder alloys, Sn-4wt.%Ag-7wt.%Sb and Snlwt.%Ag-lwt.%Sn, are 502.8 and 504.6 K respectively, which are in close agreement with the measured temperatures by Loomans et al. \[57\], 503 and 505 K.” |
 | Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | experimental | [1] Chevalier 1988; _cites Karakaya 1987_ | Table 2, p. 7, row 4; `ORC-ANWEQLIEK4` |  |
 | Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | model | [1] Chevalier 1988 | Table 2, p. 7, row 3; `ORC-JPOWUERA23` |  |
 | Phase transition | 1235.08 K | 1235.08 | Ag(fcc) -> Ag(liq); _Ag(fcc): Sn 0_ | model | [1] Chevalier 1988 | Table 2, p. 7, row 1; `ORC-TDZ3E2U65L` |  |
@@ -141,9 +122,6 @@ Table: Phase transition, Ag–Sn system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Pierre-Yves Chevalier, A thermodynamic evaluation of the Ag-Sn system, Thermochimica Acta 136, 45-54 (1988). [doi:10.1016/0040-6031(88)87426-4](https://doi.org/10.1016/0040-6031%2888%2987426-4)
-2. T.-M. Korhonen, J. K. Kivilahti, Thermodynamics of the Sn-In-Ag solder system, Journal of Elec Materi 27, 149-158 (1998). [doi:10.1007/s11664-998-0205-1](https://doi.org/10.1007/s11664-998-0205-1)
-3. Ursula r Kattner, William J. Boettinger, On the Sn-Bi-Ag ternary phase diagram, J. Electron. Mater. 23, 603-610 (1994). [doi:10.1007/bf02653345](https://doi.org/10.1007/bf02653345)
-4. Chang-Seok Oh, Jae-Hyeok Shim, Byeong-Joo Lee, Dong Nyung Lee, A thermodynamic study on the AgSbSn system, Journal of Alloys and Compounds 238, 155-166 (1996). [doi:10.1016/0925-8388(95)02191-4](https://doi.org/10.1016/0925-8388%2895%2902191-4)
 
 ## Please cite
 

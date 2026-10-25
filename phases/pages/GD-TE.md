@@ -22,7 +22,7 @@ Table: Phases of the Gd–Te system (11)
 | [GDTE2](#phase-gd-te-gdte2); _phase:gd-te:gdte2_ | Fe2As · tP6 · P4/nmm (129) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1271.99 K, x(Te) 0.66667–0.66667 | 2 | 1 |
 | [GDTE3](#phase-gd-te-gdte3); _phase:gd-te:gdte3_ | NdTe3 · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1104.88 K, x(Te) 0.75–0.75 | 3 | 1 |
 | [HCP_A3](#phase-gd-te-hcp-a3); _phase:gd-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1508.16 K, x(Te) 0–0 | 0 | 1 |
-| [LIQUID](#phase-gd-te-liquid); _phase:gd-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 718.55–2500 K, x(Te) 0–1 | 0 | 1 |
+| [LIQUID](#phase-gd-te-liquid); _phase:gd-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 718.55–2500 K, x(Te) 0–1 | 1 | 1 |
 
 ## HEXAGONAL_A8 (Gd–Te)
 
@@ -317,10 +317,11 @@ _assessment that models this phase_
 - Id: `phase:gd-te:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 718.55–2500 K, x(Te) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-te:liquid)
 
-Names (2): _corpus: _corpus:phase:gd-te:liquid  
+Names (3): _corpus: _corpus:phase:gd-te:liquid  
+_paper: _paper:10.1007/s11669-023-01051-1:liquid  
 _tdb: _tdb:GdTe-23Cui.tdb:LIQUID  
 
 
@@ -336,7 +337,7 @@ _tdb: _tdb:GdTe-23Cui.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

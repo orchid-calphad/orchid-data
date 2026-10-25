@@ -1007,7 +1007,7 @@
     "x0": 0.64,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> Co3Nd4 + Co2Nd5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -1026,7 +1026,7 @@
     "x0": 0.64,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> Co3Nd4 + Co2Nd5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -1083,7 +1083,7 @@
     "x0": 0.75,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> CoNd3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -1101,7 +1101,7 @@
     "x0": 0.8,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> CoNd3 + dhcp(Nd)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

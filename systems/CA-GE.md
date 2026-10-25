@@ -1,10 +1,10 @@
 # Ca–Ge system
 
-> Ca–Ge system: 57 accepted literature values (formation 19, invariant reaction 15, phase transition 14, activity / EMF / Gibbs energy 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Ge system: 50 accepted literature values (formation 19, invariant reaction 15, activity / EMF / Gibbs energy 9, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-GE.html · Markdown: https://data.orchid-project.org/systems/CA-GE.md
 
-57 accepted literature values from 1 paper(s) (experimental 25, model 27, DFT 5); 1 calculated phase diagram(s).
+50 accepted literature values from 1 paper(s) (experimental 21, model 24, DFT 5); 1 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-GE.json) · [CSV](https://data.orchid-project.org/systems/CA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-GE/CaGe-10Dja.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CA-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-GE.html) · [Markdown](https://data.orchid-project.org/systems/CA-GE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 27 |
+| experimental | 21 |
+| model | 24 |
 | DFT | 5 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 15 |
-| phase transition | 14 |
+| phase transition | 7 |
 | formation | 19 |
 | activity / EMF / Gibbs energy | 9 |
 
@@ -108,25 +108,18 @@ Table: Enthalpies of formation, Ca–Ge system (19)
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (7)
 
 Table: Phase transition, Ca–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 716 K | 716 |  | model | [1] Djaballah 2010 | p. 1; `ORC-ZYDRIQBGPL` | “The reaction type and the temperature of formation of the Ca5 Ge3 compound could not be given; also these authors did not include the phase transformation of the calcium from the FCC to BCC at 716 K.” |
-| Phase transition | 1018 K | 1018 | L ↔ CaGe2 + Ge | experimental | [1] Djaballah 2010; _cites Palenzona 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900326-2) | p. 4; `ORC-FTZ6B7DS2J.ecf3c5` | “reported by Massalski \[6\] (1033 K) than of Palenzona et al. \[7\] (1018 K).” |
-| Phase transition | 1033 K | 1033 | L ↔ CaGe2 + Ge | model | [1] Djaballah 2010; _cites Massalski 1990_ | p. 4; `ORC-FTZ6B7DS2J.82daec` | “reported by Massalski \[6\] (1033 K) than of Palenzona et al. \[7\] (1018 K).” |
-| Phase transition | 1046.2 K | 1046.2 | L ↔ CaGe2 + Ge | model | [1] Djaballah 2010 | p. 4; `ORC-MJP75NL7II` | “The temperature of the L ↔ CaGe2 + Ge invariant reaction is calculated at 1046.2 K and it is in good agreement with the experimental data” |
 | Phase transition | 1117.35 K | 1117.35 | Liq ↔ CaGe2; _Liq: Ge 0.6666; CaGe2: Ge 0.6666_ | model | [1] Djaballah 2010 | Table 2, p. 4, row 19; `ORC-PBFHKGBRX3` |  |
 | Phase transition | 1118 K | 1118 | Liq ↔ CaGe2; _Liq: Ge 0.6666; CaGe2: Ge 0.6666_ | experimental | [1] Djaballah 2010; _cites Palenzona 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900326-2) | Table 2, p. 4, row 18; `ORC-GESIDZMHE5` |  |
-| Phase transition | 1118.15 K | 1118.15 | congruent transformation | experimental | [1] Djaballah 2010 | p. 1; `ORC-OTD2VAOVCD.e7cadc` | “For the Ca2 Ge, CaGe and CaGe2 phases, a congruent melting was determined respectively at 1310, 1210 and 845 ◦ C.” |
 | Phase transition | 1447.7 K | 1447.7 | Liq ↔ CaGe; _Liq: Ge 0.5; CaGe: Ge 0.5_ | model | [1] Djaballah 2010 | Table 2, p. 4, row 14; `ORC-7BLLF3ODXF` |  |
 | Phase transition | 1483 K | 1483 | Liq ↔ CaGe; _Liq: Ge 0.5; CaGe: Ge 0.5_ | experimental | [1] Djaballah 2010; _cites Palenzona 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900326-2) | Table 2, p. 4, row 13; `ORC-AVDZTJ244B` |  |
-| Phase transition | 1483.15 K | 1483.15 | congruent transformation | experimental | [1] Djaballah 2010 | p. 1; `ORC-OTD2VAOVCD.ddb7d4` | “For the Ca2 Ge, CaGe and CaGe2 phases, a congruent melting was determined respectively at 1310, 1210 and 845 ◦ C.” |
 | Phase transition | 1579.6 K | 1579.6 | Liq ↔ Ca2Ge; _Liq: Ge 0.3333; Ca2Ge: Ge 0.3333_ | model | [1] Djaballah 2010 | Table 2, p. 4, row 6; `ORC-JURVLYXTIQ` |  |
 | Phase transition | 1583 K | 1583 | Liq ↔ Ca2Ge; _Liq: Ge 0.3333; Ca2Ge: Ge 0.3333_ | experimental | [1] Djaballah 2010; _cites Palenzona 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900326-2) | Table 2, p. 4, row 5; `ORC-KWLXR6BNPC` |  |
-| Phase transition | 1583.15 K | 1583.15 | congruent transformation | experimental | [1] Djaballah 2010 | p. 1; `ORC-OTD2VAOVCD.5a5388` | “For the Ca2 Ge, CaGe and CaGe2 phases, a congruent melting was determined respectively at 1310, 1210 and 845 ◦ C.” |
 | Phase transition | 1653 K | 1653 | Liq ↔ Ca2Ge; _Liq: Ge 0.3333; Ca2Ge: Ge 0.3333_ | experimental | [1] Djaballah 2010; _cites Massalski 1990_ | Table 2, p. 4, row 4; `ORC-775NNTEO5D` |  |
 
 ### Activity / EMF / Gibbs energy (9)

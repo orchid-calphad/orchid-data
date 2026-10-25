@@ -650,7 +650,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L = GdZn",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -668,7 +668,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L = GdZn",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -724,7 +724,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L = GdZn2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -742,7 +742,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L = GdZn2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -779,7 +779,7 @@
     "x0": 0.817,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L = Gd13Zn58",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

@@ -1,42 +1,12 @@
 # Hf–Ti–Zr system
 
-> Hf–Ti–Zr system: 2 accepted literature values (phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Ti–Zr system: 0 accepted literature values (none) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-TI-ZR.html · Markdown: https://data.orchid-project.org/systems/HF-TI-ZR.md
 
-2 accepted literature values from 1 paper(s) (experimental 1, model 1); 0 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-TI-ZR.json) · [CSV](https://data.orchid-project.org/systems/HF-TI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-TI-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-TI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/HF-TI-ZR.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 2 |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Hf–Ti–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1697.15 K | 1697.15 | other: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) | model | [1] Cacciamani 2011 | p. 14; `ORC-YC3LGC4SC6.0dda00` | “Two invariant equilibria involving liquid are present: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) calculated at 1424 °C, in reasonable agreement with the experimental temperature of 1450 °C, and Liquid + (Ti, Zr)B2 ZrB12 + B calculated at 2022 °C in excellent agreement with the experimental value of 2020 °C.” |
-| Phase transition | 1723.15 K | 1723.15 | other: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) | experimental | [1] Cacciamani 2011 | p. 14; `ORC-YC3LGC4SC6.a9e9a1` | “Two invariant equilibria involving liquid are present: Liquid + (Ti, Zr)B2 TiB + bcc-(Hf, Zr) calculated at 1424 °C, in reasonable agreement with the experimental temperature of 1450 °C, and Liquid + (Ti, Zr)B2 ZrB12 + B calculated at 2022 °C in excellent agreement with the experimental value of 2020 °C.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011). [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003)
 
 ## Please cite
 

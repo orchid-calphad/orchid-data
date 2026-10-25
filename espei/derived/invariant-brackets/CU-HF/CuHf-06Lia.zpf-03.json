@@ -111,7 +111,7 @@
     "x0": 0.078,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> fcc + Cu5Hf",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -130,7 +130,7 @@
     "x0": 0.078,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> fcc + Cu5Hf",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

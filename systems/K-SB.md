@@ -53,16 +53,16 @@ Table: Invariant reactions reported in the literature for the K–Sb system (13)
 | 775.5 | liq + KSb -> K5Sb4 | L: Sb 0.42; KSb: Sb 0.5; K5Sb4: Sb 0.444444 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 9; `ORC-W4VXG5GF3I` |  |
 | 771 | liq + KSb -> K5Sb4 | KSb: Sb 0.5; K5Sb4: Sb 0.444444 | model | [1] Liu 2013 | Table 6, p. 7, row 7; `ORC-J7OFYJBA6L` |  |
 | 758.6 | liq + KSb -> K5Sb4 | L: Sb 0.42; KSb: Sb 0.5; K5Sb4: Sb 0.444444 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 8; `ORC-JZINZPRZKZ` |  |
-| 737.7 | liq -> KSb + KSb2 | L: Sb 0.65; KSb: Sb 0.5; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 16; `ORC-EANWBQBW5R` |  |
-| 734 | liq -> K5Sb4 + K3Sb | L: Sb 0.39; K5Sb4: Sb 0.444444; K3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 6, p. 7, row 5; `ORC-RB352J6D32` |  |
-| 733 | liq -> K5Sb4 + K3Sb | L: Sb 0.36; K5Sb4: Sb 0.444444; K3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 6; `ORC-YPMGYAYTPA` |  |
-| 680.6 | liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 21; `ORC-Z7MPZMYL7B` |  |
-| 673.2 | liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 20; `ORC-TQCVYF32A3` |  |
-| 670 | liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | model | [1] Liu 2013 | Table 6, p. 7, row 19; `ORC-YLLTMDHPYW` |  |
-| 669.7 | liq -> KSb + KSb2 | L: Sb 0.65; KSb: Sb 0.5; KSb2: Sb 0.666667 | model | [1] Liu 2013 | Table 6, p. 7, row 15; `ORC-ISECUYJJR2` |  |
-| 668.9 | liq -> KSb + KSb2 | KSb: Sb 0.5; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 17; `ORC-TZ57LSUOIK` |  |
-| 336.71 | liq -> K + K3Sb | K3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 2; `ORC-4BAHELTIFZ` |  |
-| 336.5 | liq -> K + K3Sb | K3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 6, p. 7, row 1; `ORC-Q3X6ANCEOT` |  |
+| 737.7 | eutectic: liq -> KSb + KSb2 | L: Sb 0.65; KSb: Sb 0.5; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 16; `ORC-EANWBQBW5R` |  |
+| 734 | eutectic: liq -> K5Sb4 + K3Sb | L: Sb 0.39; K5Sb4: Sb 0.444444; K3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 6, p. 7, row 5; `ORC-RB352J6D32` |  |
+| 733 | eutectic: liq -> K5Sb4 + K3Sb | L: Sb 0.36; K5Sb4: Sb 0.444444; K3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 6; `ORC-YPMGYAYTPA` |  |
+| 680.6 | eutectic: liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 21; `ORC-Z7MPZMYL7B` |  |
+| 673.2 | eutectic: liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 20; `ORC-TQCVYF32A3` |  |
+| 670 | eutectic: liq -> Sb + KSb2 | L: Sb 0.68; Sb: Sb 1; KSb2: Sb 0.666667 | model | [1] Liu 2013 | Table 6, p. 7, row 19; `ORC-YLLTMDHPYW` |  |
+| 669.7 | eutectic: liq -> KSb + KSb2 | L: Sb 0.65; KSb: Sb 0.5; KSb2: Sb 0.666667 | model | [1] Liu 2013 | Table 6, p. 7, row 15; `ORC-ISECUYJJR2` |  |
+| 668.9 | eutectic: liq -> KSb + KSb2 | KSb: Sb 0.5; KSb2: Sb 0.666667 | experimental | [1] Liu 2013; _cites ref. 26_ | Table 6, p. 7, row 17; `ORC-TZ57LSUOIK` |  |
+| 336.71 | eutectic: liq -> K + K3Sb | K3Sb: Sb 0.25 | experimental | [1] Liu 2013; _cites ref. 25_ | Table 6, p. 7, row 2; `ORC-4BAHELTIFZ` |  |
+| 336.5 | eutectic: liq -> K + K3Sb | K3Sb: Sb 0.25 | model | [1] Liu 2013 | Table 6, p. 7, row 1; `ORC-Q3X6ANCEOT` |  |
 
 ## Other properties
 

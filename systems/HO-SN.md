@@ -72,8 +72,8 @@ Table: Invariant reactions reported in the literature for the Ho–Sn system (20
 | 1991 | Liq + Ho5Sn4 -> Ho5Sn3 | Liq: Sn 0.474; Ho5Sn4: Sn 0.444444; Ho5Sn3: Sn 0.375 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 14; `ORC-RPZ2WNKXHL` |  |
 | 1868 | Liq + Sn10Ho11 -> Ho5Sn4 | Liq: Sn 0.535; Sn10Ho11: Sn 0.47619; Ho5Sn4: Sn 0.444444 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 12; `ORC-TQV5OGBNNQ` |  |
 | 1865 | Liq + Sn10Ho11 -> Ho5Sn4 | Liq: Sn 0.49; Sn10Ho11: Sn 0.47619; Ho5Sn4: Sn 0.444444 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 11; `ORC-YUDYWQZJJ7` |  |
-| 1525 | Liq -> Ho +Ho5Sn3 | Liq: Sn 0.135; Ho5Sn3: Sn 0.375 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 18; `ORC-2TLY74S423` |  |
-| 1525 | Liq -> Ho +Ho5Sn3 | Liq: Sn 0.13; Ho5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 17; `ORC-SUE3Y7LRDB` |  |
+| 1525 | eutectic: Liq -> Ho +Ho5Sn3 | Liq: Sn 0.135; Ho5Sn3: Sn 0.375 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 18; `ORC-2TLY74S423` |  |
+| 1525 | eutectic: Liq -> Ho +Ho5Sn3 | Liq: Sn 0.13; Ho5Sn3: Sn 0.375 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 17; `ORC-SUE3Y7LRDB` |  |
 | 1423 | Liq + Ho4Sn5 -> Sn10Ho11 | Liq: Sn 0.666; Ho4Sn5: Sn 0.555556; Sn10Ho11: Sn 0.47619 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 10; `ORC-6MFCDE47QS` |  |
 | 1417 | Liq + Ho4Sn5 -> Sn10Ho11 | Liq: Sn 0.66; Ho4Sn5: Sn 0.555556; Sn10Ho11: Sn 0.47619 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 9; `ORC-FZC5C6WJCE` |  |
 | 1387 | Liq + HoSn2 -> Ho4Sn5 | Liq: Sn 0.7; HoSn2: Sn 0.666667; Ho4Sn5: Sn 0.555556 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 7; `ORC-OEAIA7EUFD` |  |
@@ -86,8 +86,8 @@ Table: Invariant reactions reported in the literature for the Ho–Sn system (20
 | 693 | peritectic |  | experimental | [1] Iddaoudi 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | p. 1; `ORC-IJWTJPF62F.0399ce` | “For the HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation were reported, respectively, at 1,403, 793, and 693 K.” |
 | 693 | peritectic |  | model | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | p. 1; `ORC-JX5IDG3XWS.aaa069` | “For the Ho5Sn3 compound, a congruent melting was estimated at 2,188 K, while for the Ho5Sn4, Ho11Sn10, Ho4Sn5, HoSn2, Ho2Sn5, and HoSn3 compounds, a peritectic formation was reported, respectively, at 1,993, 1,865, 1,417, 1,387, 782, and 693 K (see Fig. 1).” |
 | 693 | Liq + HoSn3 -> Ho2Sn5 | Liq: Sn 0.998; HoSn3: Sn 0.75; Ho2Sn5: Sn 0.714286 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 4; `ORC-LPSLJWYDYC` |  |
-| 505 | Liq -> βSn + HoSn3 | Liq: Sn 1; βSn: Sn 1; HoSn3: Sn 0.75 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 2; `ORC-OREQBMNMJU` |  |
-| 502 | Liq -> βSn + HoSn3 | Liq: Sn 0.999; βSn: Sn 1; HoSn3: Sn 0.75 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 1; `ORC-DPTF3KLKH3` |  |
+| 505 | eutectic: Liq -> βSn + HoSn3 | Liq: Sn 1; βSn: Sn 1; HoSn3: Sn 0.75 | model | [1] Iddaoudi 2014 | Table 3, p. 3, row 2; `ORC-OREQBMNMJU` |  |
+| 502 | eutectic: Liq -> βSn + HoSn3 | Liq: Sn 0.999; βSn: Sn 1; HoSn3: Sn 0.75 | experimental | [1] Iddaoudi 2014; _cites Bulanova 1998_ [doi](https://doi.org/10.1361/105497198770342599) | Table 3, p. 3, row 1; `ORC-DPTF3KLKH3` |  |
 
 ## Other properties
 

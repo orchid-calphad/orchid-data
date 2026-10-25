@@ -1,22 +1,23 @@
 # ZrB2: enthalpy of formation
 
-> Enthalpy of formation of ZrB2: 5 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of ZrB2: 6 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/ZrB2.html · Markdown: https://data.orchid-project.org/compounds/ZrB2.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 3, model 1, DFT 1).
+6 accepted literature formation-enthalpy value(s) (experimental 3, model 2, DFT 1).
 
 Systems: [B–Zr](https://data.orchid-project.org/systems/B-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of ZrB2 reported in the literature (5)
+Table: Enthalpy of formation of ZrB2 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -108.9 unknown ± 2.1 | ZrB2 | 298.15 | experimental |  | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html) | [1] Tokunaga 2008; _cites Johnson 1967_ [doi](https://doi.org/10.1021/je60032a044) | Table 2, p. 5, row 8; `ORC-R52FC6BRDW` |  |
 | -107.7 unknown ± 1.7 | ZrB2 | 298.15 | experimental |  | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html) | [1] Tokunaga 2008; _cites Huber 1964_ [doi](https://doi.org/10.1021/j100792a052) | Table 2, p. 5, row 7; `ORC-BMYSVI23Y7` |  |
 | -93 unknown | ZrB2 | 298.15 | experimental |  | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html) | [1] Tokunaga 2008; _cites Kirpichev 1979_ | Table 2, p. 5, row 9; `ORC-OJNP5U5XDT` |  |
+| -107.368 kJ/mol (basis unstated) | ZrB2 | 298.15 | model |  | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html) | [2] Pan 2019 | p. 8; `ORC-NM7F4TBT3C` | “The calculated enthalpy of formation of solid phases at 298 K is shown in Fig. 4 and the enthalpy of formation for ZrB2 was optimized to be - 107,368 J/mol, in accordance with the experimental values.\[19,20\]” |
 | -100.6 unknown | ZrB2 |  | model | Thermodynamic analysis | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html) | [1] Tokunaga 2008 | Table 2, p. 5, row 6; `ORC-422UP665PU` |  |
 | -100.3 unknown | ZrB2 | 0 | DFT | First-principles | [B–Zr](https://data.orchid-project.org/systems/B-ZR.html) | [1] Tokunaga 2008 | Table 2, p. 5, row 5; `ORC-O4FGAPFJR3` |  |
 
@@ -31,12 +32,14 @@ Table: Uncertainty budget of the literature values of ZrB2
 | -108.9 | unknown | 2.1 | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 2.1 |
 | -107.7 | unknown | 1.7 | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 1.7 |
 | -93 | unknown |  | 0.5 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
+| -107.368 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -100.6 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
 | -100.3 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
 
 ## Sources
 
 1. Tatsuya Tokunaga, Ken Terashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Phase Equilibria in the Fe-Zr-B System, Mater. Trans. 49, 2534-2540 (2008). [doi:10.2320/matertrans.mb200809](https://doi.org/10.2320/matertrans.mb200809)
+2. Yafei Pan, Cong Zhang, Jiuxing Zhang, Lei Huang, Xinyu Yang, Yong Du et al., Thermodynamic Modeling of the B-Ti-Zr System Over the Whole Composition and Temperature Ranges, J. Phase Equilib. Diffus. 40, 364-374 (2019). [doi:10.1007/s11669-019-00728-w](https://doi.org/10.1007/s11669-019-00728-w)
 
 ## Please cite
 

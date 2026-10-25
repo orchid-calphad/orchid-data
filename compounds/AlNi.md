@@ -1,16 +1,16 @@
 # AlNi: enthalpy of formation
 
-> Enthalpy of formation of AlNi: 12 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AlNi: 11 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AlNi.html · Markdown: https://data.orchid-project.org/compounds/AlNi.md
 
-12 accepted literature formation-enthalpy value(s) (experimental 7, model 4, DFT 1); experimental median -66.1 kJ/mol-atom (n = 7); Materials Project -63.568 kJ/mol-atom (mp-aaaaacff); OQMD -64.592 kJ/mol-atom (oqmd-94913).
+11 accepted literature formation-enthalpy value(s) (experimental 7, model 3, DFT 1); experimental median -66.1 kJ/mol-atom (n = 7); Materials Project -63.568 kJ/mol-atom (mp-aaaaacff); OQMD -64.592 kJ/mol-atom (oqmd-94913).
 
 Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) · [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AlNi reported in the literature (12)
+Table: Enthalpy of formation of AlNi reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -23,7 +23,6 @@ Table: Enthalpy of formation of AlNi reported in the literature (12)
 | -58.3 kJ/mol-atom ± 1.1 | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.47e6a8` |  |
 | -67.18 kJ/mol-atom | B2 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 84_ | Table 4, p. 38, row 8; `ORC-3ECLXDV23B.c8ed20` |  |
 | -66.8444 kJ/mol (basis unstated) | Al0.50Ni0.50 | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [2] Ansara 1988 | Table 1, p. 5, row 13; `ORC-2XDET2VQZH.247e0f` |  |
-| -64.211 kJ/mol-atom | B2 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 5; `ORC-AGMM4WVXYR.b8e1fa` |  |
 | -62.999 kJ/mol (basis unstated) | L10-Al2Ni2 |  | model | CALPHAD | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Yang 2022 | Table 3, p. 5, row 3; `ORC-KUWZ36QSUL` |  |
 | -62.264 kJ/mol (basis unstated) | L10-Al2Ni2 |  | DFT | DFT (OQMD) | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Yang 2022 | Table 3, p. 5, row 4; `ORC-COKFNM56D4` |  |
 
@@ -43,10 +42,9 @@ Table: Uncertainty budget of the literature values of AlNi
 | -62 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -58.3 | kJ/mol-atom | 1.1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -67.18 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -66.8444 | kJ/mol (basis unstated) |  | 5.000e-5 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -64.211 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -66.8444 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -62.999 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -62.264 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.768 (dft, calibrated) |  |  |  | 7.768 |
+| -62.264 | kJ/mol (basis unstated) |  | 5.000e-4 | 8.332 (dft, calibrated) |  |  |  | 8.332 |
 
 ## DFT formation energies
 

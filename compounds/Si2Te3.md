@@ -31,7 +31,7 @@ Table: Uncertainty budget of the literature values of Si2Te3
 | -18.4 | kJ/mol-atom | 2.6 | 0.1 | 3 (kems_vapour_second_law, prior) |  |  |  | 3 |
 | -17.8 | kJ/mol-atom | 3.8 | 0.1 | 2 (kems_vapour_third_law, prior) |  |  |  | 3.8 |
 | -14.4 | kJ/mol-atom | 1 | 0.1 | 2 (kems_vapour_third_law, prior) |  |  |  | 2 |
-| -14.2 | kJ/mol-atom | 1.2 | 0.1 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -14.2 | kJ/mol-atom | 1.2 | 0.1 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -13.8 | kJ/mol-atom | 1.4 | 0.1 | 3 (kems_vapour_second_law, prior) |  |  |  | 3 |
 
 ## Sources

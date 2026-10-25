@@ -16,7 +16,7 @@ Table: Phases of the Sb–Zn system (24)
 | [BCC_A2](#phase-sb-zn-bcc-a2); _phase:sb-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [FCC_A1](#phase-sb-zn-fcc-a1); _phase:sb-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [HCP_A3](#phase-sb-zn-hcp-a3); _phase:sb-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2499.55 K, x(Zn) 0.99423–1 | 21 | 7 |
-| [LIQUID](#phase-sb-zn-liquid); _phase:sb-zn:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 682.87–2500 K, x(Zn) 0–1 | 72 | 7 |
+| [LIQUID](#phase-sb-zn-liquid); _phase:sb-zn:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 682.87–2500 K, x(Zn) 0–1 | 73 | 7 |
 | [SB17ZN23_H](#phase-sb-zn-sb17zn23-h); _phase:sb-zn:sb17zn23-h_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 764.91–833.76 K, x(Zn) 0.575–0.575 | 0 | 1 |
 | [SB17ZN23_L](#phase-sb-zn-sb17zn23-l); _phase:sb-zn:sb17zn23-l_ | Sb17Zn23 · hR22 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 489.61–764.91 K, x(Zn) 0.575–0.575 | 0 | 1 |
 | [SB19ZN31](#phase-sb-zn-sb19zn31); _phase:sb-zn:sb19zn31_ | Sb2Zn3-ht1 · oP30 · Pmmn (59) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 681.25–727.92 K, x(Zn) 0.62–0.62 | 0 | 1 |
@@ -376,11 +376,11 @@ _cited as the source of values for this phase_
 - Id: `phase:sb-zn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 682.87–2500 K, x(Zn) 0–1
-- Literature: 72 values (72 accepted) from 4 papers
+- Literature: 73 values (72 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-zn:liquid)
 
-Names (13): _corpus: _corpus:phase:sb-zn:liquid  
-_paper: _paper:10.1016/j.calphad.2009.08.006:L, paper:10.1016/j.jallcom.2006.08.035:L, paper:10.1016/j.jallcom.2006.08.035:L1, paper:10.1016/j.tca.2022.179327:L, paper:10.1361/105497100770339608:liquid  
+Names (14): _corpus: _corpus:phase:sb-zn:liquid  
+_paper: _paper:10.1016/j.calphad.2009.08.006:L, paper:10.1016/j.jallcom.2006.08.035:L, paper:10.1016/j.jallcom.2006.08.035:L1, paper:10.1016/j.tca.2022.179327:L, paper:10.1016/j.tca.2022.179327:liquid, paper:10.1361/105497100770339608:liquid  
 _tdb: _tdb:SbZn-00Liu-LB.tdb:LIQUID, tdb:SbZn-07Li.tdb:LIQUID, tdb:SbZn-09Liu.tdb:LIQUID, tdb:SbZn-18Wan.tdb:LIQUID, tdb:SbZn-22Zha.tdb:LIQUID, tdb:SbZn-23Zha.tdb:LIQUID, tdb:SbZn-97Zab.tdb:LIQUID  
 
 

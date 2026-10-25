@@ -1,10 +1,10 @@
 # Ag–Al system
 
-> Ag–Al system: 95 accepted literature values (mixing / partial 55, invariant reaction 31, phase equilibrium 5, phase transition 3) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Al system: 94 accepted literature values (mixing / partial 55, invariant reaction 31, phase equilibrium 5, phase transition 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-AL.html · Markdown: https://data.orchid-project.org/systems/AG-AL.md
 
-95 accepted literature values from 2 paper(s) (experimental 73, model 16, unspecified 6); 5 calculated phase diagram(s).
+94 accepted literature values from 2 paper(s) (experimental 72, model 16, unspecified 6); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-AL.json) · [CSV](https://data.orchid-project.org/systems/AG-AL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-AL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-AL/AgAl-04Wit.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AG-AL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-AL.html) · [Markdown](https://data.orchid-project.org/systems/AG-AL.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 73 |
+| experimental | 72 |
 | model | 16 |
 | unspecified | 6 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 31 |
-| phase transition | 3 |
+| phase transition | 2 |
 | phase equilibrium | 5 |
 | mixing / partial | 55 |
 | other property | 1 |
@@ -113,13 +113,12 @@ Table: Invariant reactions reported in the literature for the Ag–Al system (31
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, Ag–Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 875 K | 875 |  | experimental | [2] Spencer 1987 | p. 2; `ORC-NTRGLCV7ZQ` | “An interesting feature of the Ag--A1 phase diagram is the direct transformation of the hcp ~ phase into the bcc/~ phase at a composition close to 25 at.% A1 and a temperature of about 875 K.” |
 | Phase transition | 875 K | 875 | congruent transformation: β -> ζ; _β: Al 0.25; ζ: Al 0.25_ | experimental | [1] Witusiewicz 2004; _cites Hume-Rothery 1940_ | Table 7, p. 8, row 23; `ORC-7ZH5DXQQ6X` |  |
 | Phase transition | 881 K | 881 | congruent transformation: β -> ζ; _β: Al 0.245; ζ: Al 0.245_ | unspecified | [1] Witusiewicz 2004 | Table 7, p. 8, row 24; `ORC-CHHZ7YENEW` |  |
 

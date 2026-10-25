@@ -1,10 +1,10 @@
 # Dy–Te system
 
-> Dy–Te system: 22 accepted literature values (crystal structure 15, phase transition 4, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Te system: 18 accepted literature values (crystal structure 15, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-TE.html · Markdown: https://data.orchid-project.org/systems/DY-TE.md
 
-22 accepted literature values from 1 paper(s) (experimental 20, model 2); 1 calculated phase diagram(s).
+18 accepted literature values from 1 paper(s) (experimental 16, model 2); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-TE.json) · [CSV](https://data.orchid-project.org/systems/DY-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-TE/DyTe-23Cui.json) · [phases (10)](https://data.orchid-project.org/phases/pages/DY-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-TE.html) · [Markdown](https://data.orchid-project.org/systems/DY-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 16 |
 | model | 2 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 3 |
-| phase transition | 4 |
 | crystal structure | 15 |
 
 ## Calculated phase diagrams
@@ -61,20 +60,9 @@ Table: Invariant reactions reported in the literature for the Dy–Te system (3)
 |---:|---|---|---|---|---|---|
 | 1343 | Dy2Te -> hcp(Dy) + DyTe | Dy2Te: Te 0.33; hcp(Dy): Te 0; DyTe: Te 0.5 | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 3, p. 7, row 21; `ORC-F35SKIXWJ5` |  |
 | 1342 | Dy2Te -> hcp(Dy) + DyTe | Dy2Te: Te 0.33; hcp(Dy): Te 0; DyTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 22; `ORC-6FEKG6WC5L` |  |
-| 723 | Liquid -> Dy4Te11 + hex(Te) | Liquid: Te 1; Dy4Te11: Te 0.733; hex(Te): Te 1 | model | [1] Cui 2023 | Table 3, p. 7, row 34; `ORC-FJKAH32ZDQ` |  |
+| 723 | eutectic: Liquid -> Dy4Te11 + hex(Te) | Liquid: Te 1; Dy4Te11: Te 0.733; hex(Te): Te 1 | model | [1] Cui 2023 | Table 3, p. 7, row 34; `ORC-FJKAH32ZDQ` |  |
 
 ## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Dy–Te system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1343 K | 1343 | Dy2Te -> DyTe + hcp(Dy) | experimental | [1] Cui 2023; _cites Herle 2001_ | p. 3; `ORC-ZVML6HCLYH` | “Later, Herle and Corbett26 experimentally demonstrated the existence of Dy2Te and reported that Dy2Te decomposes into DyTe and hcp(Dy) above about 1343 K.” |
-| Phase transition | 1343 K | 1343 | other: Dy2Te -> DyTe + hcp(Dy) | experimental | [1] Cui 2023 | p. 8; `ORC-WDWWMZQIOG` | “According to the experimental data, Dy2Te decomposes into DyTe and hcp(Dy) above about 1343 K, which is also reflected by our calculated results.” |
-| Phase transition | 1846 K | 1846 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3; `ORC-WQH3ENK6RX.64e61e` | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
-| Phase transition | 2123 K | 2123 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3; `ORC-WQH3ENK6RX.26605f` | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
 
 ### Crystal structure (15)
 

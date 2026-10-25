@@ -19,7 +19,7 @@ Table: Phases of the In–Na system (8)
 | [IN8NA5](#phase-in-na-in8na5); _phase:in-na:in8na5_ | In12Na7 · tP228 · P4_2/nmc (137) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–712.79 K, x(Na) 0.38462–0.38462 | 10 | 1 |
 | [INNA_B32](#phase-in-na-inna-b32); _phase:in-na:inna-b32_ | NaTl · B32 · cF16 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–618.58 K, x(Na) 0.5–0.5 | 11 | 1 |
 | [INNA3](#phase-in-na-inna3); _phase:in-na:inna3_ | Na2Tl · oC48 · C222_1 (20) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 370–559 K, x(Na) 0.75–0.75 | 2 | 1 |
-| [LIQUID](#phase-in-na-liquid); _phase:in-na:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 369.01–2500 K, x(Na) 0–1 | 18 | 1 |
+| [LIQUID](#phase-in-na-liquid); _phase:in-na:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 369.01–2500 K, x(Na) 0–1 | 20 | 1 |
 
 ## TETRAGONAL_A6 (In–Na)
 
@@ -240,11 +240,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:in-na:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 369.01–2500 K, x(Na) 0–1
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 20 values (20 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-na:liquid)
 
-Names (3): _corpus: _corpus:phase:in-na:liquid  
-_paper: _paper:10.1007/s11669-013-0258-6:L  
+Names (4): _corpus: _corpus:phase:in-na:liquid  
+_paper: _paper:10.1007/s11669-013-0258-6:L, paper:10.1007/s11669-013-0258-6:liquid  
 _tdb: _tdb:InNa-13Wan.tdb:LIQUID  
 
 

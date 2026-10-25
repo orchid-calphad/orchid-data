@@ -50,13 +50,13 @@ Table: Invariant reactions reported in the literature for the Al–Na system (8)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1157 | Gas -> liquid1 + liquid2 | Gas: Na 1; liquid1: Na 0.00238; liquid2: Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 1; `ORC-NSAX544YVU` |  |
-| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0014; fcc(Al): Na 2.000e-5 | experimental | [1] Zhang 2006; _cites Ransley 1950_ | Table 2, p. 4, row 6; `ORC-4WVY22J5YD` |  |
-| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0014; fcc(Al): Na 2.000e-5; liquid2: Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 2; `ORC-BML4XDUVRQ` |  |
-| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0018; fcc(Al): Na 2.300e-5 | model | [1] Zhang 2006; _cites Murray 1983_ [doi](https://doi.org/10.1007/bf02868094) | Table 2, p. 4, row 3; `ORC-NKXDP3JTPF` |  |
-| 932 | Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0018 | experimental | [1] Zhang 2006; _cites Fink 1948_ | Table 2, p. 4, row 5; `ORC-QNFY7HJ4MA` |  |
-| 930 | Liquid1 -> fcc(Al) + liquid2 |  | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 2, p. 4, row 4; `ORC-K727IVHNLK` |  |
-| 371 | Liquid2 -> fcc(Al) + bcc(Na) | Liquid2: Na 0.9999; fcc(Al): Na 0; bcc(Na): Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 7; `ORC-IJHBBH4PEM` |  |
-| 371 | Liquid2 -> fcc(Al) + bcc(Na) |  | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 2, p. 4, row 8; `ORC-XCZRVQ2GR4` |  |
+| 932 | monotectic: Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0014; fcc(Al): Na 2.000e-5 | experimental | [1] Zhang 2006; _cites Ransley 1950_ | Table 2, p. 4, row 6; `ORC-4WVY22J5YD` |  |
+| 932 | monotectic: Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0014; fcc(Al): Na 2.000e-5; liquid2: Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 2; `ORC-BML4XDUVRQ` |  |
+| 932 | monotectic: Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0018; fcc(Al): Na 2.300e-5 | model | [1] Zhang 2006; _cites Murray 1983_ [doi](https://doi.org/10.1007/bf02868094) | Table 2, p. 4, row 3; `ORC-NKXDP3JTPF` |  |
+| 932 | monotectic: Liquid1 -> fcc(Al) + liquid2 | Liquid1: Na 0.0018 | experimental | [1] Zhang 2006; _cites Fink 1948_ | Table 2, p. 4, row 5; `ORC-QNFY7HJ4MA` |  |
+| 930 | monotectic: Liquid1 -> fcc(Al) + liquid2 |  | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 2, p. 4, row 4; `ORC-K727IVHNLK` |  |
+| 371 | eutectic: Liquid2 -> fcc(Al) + bcc(Na) | Liquid2: Na 0.9999; fcc(Al): Na 0; bcc(Na): Na 1 | model | [1] Zhang 2006 | Table 2, p. 4, row 7; `ORC-IJHBBH4PEM` |  |
+| 371 | eutectic: Liquid2 -> fcc(Al) + bcc(Na) |  | experimental | [1] Zhang 2006; _cites Mathewson 1906_ | Table 2, p. 4, row 8; `ORC-XCZRVQ2GR4` |  |
 
 ## Sources
 

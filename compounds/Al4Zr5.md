@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al4Zr5.html · Markdown: https:/
 
 39 accepted literature formation-enthalpy value(s) (experimental 5, model 27, DFT 7); experimental median -47.8 kJ/mol-atom (n = 4); Materials Project -40.375 kJ/mol-atom (mp-aaabgmiw); OQMD -40.389 kJ/mol-atom (oqmd-27980).
 
-Systems: [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) · [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)
+Systems: [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html)
 
 ## Literature values
 
@@ -24,7 +24,7 @@ Table: Enthalpy of formation of Al4Zr5 reported in the literature (39)
 | -55.4 unknown | Al4Zr5 |  | model | CALPHAD | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Tamim 2018; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 3, p. 9, row 49; `ORC-PCQIH2NBY7.8ee3f5` |  |
 | -55.4 kJ/mol-atom | Al4Zr5 | 298.15 | model | CALPHAD | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [5] Fischer 2015; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 2, p. 4, row 61; `ORC-VGW3OFPGYP` |  |
 | -49.419 kJ/mol-atom | Al4Zr5 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Long 2020 | Table 4, p. 7, row 56; `ORC-Z6AJBYOYU5.daed4d` |  |
-| -45.597 kJ/mol-atom | Al4Zr5 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [4] Saunders 1986 | Table 4, p. 8, row 12; `ORC-AFGM23IING.249116` |  |
+| -45.597 kJ/mol-atom | Al4Zr5 | 1 | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [4] Saunders 1986 | Table 4, p. 8, row 12; `ORC-AFGM23IING.249116` |  |
 | -45.597 kJ/mol-atom | Al4Zr5 |  | model | CALPHAD | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 62; `ORC-ODX4GDB7R3.6fe02f` |  |
 | -43.717 unknown | Al4Zr5 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [2] Tamim 2018 | Table 3, p. 9, row 41; `ORC-KNV3N2MOGH.184c82` |  |
 | -43.2 kJ/mol-atom | Al4Zr5 |  | model |  | [Al–Zr](https://data.orchid-project.org/systems/AL-ZR.html) | [4] Saunders 1986 | Table 2, p. 5, row 10; `ORC-CKQZQDTLMY.0773d4` |  |
@@ -94,13 +94,13 @@ Table: Uncertainty budget of the literature values of Al4Zr5
 | -38.725 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -38.66 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -35.21 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -42.002 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -42.002 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 | -42.002 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
 | -40.175 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -40.175 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -40.06 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -40.175 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -40.06 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 | -40.06 | unknown |  | 0.005 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -35.208 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -35.208 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Fe–Nb–Ni system
 
-> Fe–Nb–Ni system: 46 accepted literature values (formation 43, invariant reaction 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Nb–Ni system: 43 accepted literature values (formation 43) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-NB-NI.html · Markdown: https://data.orchid-project.org/systems/FE-NB-NI.md
 
-46 accepted literature values from 1 paper(s) (experimental 1, model 2, DFT 35, unspecified 8); 0 calculated phase diagram(s).
+43 accepted literature values from 1 paper(s) (DFT 35, unspecified 8); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NB-NI.json) · [CSV](https://data.orchid-project.org/systems/FE-NB-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NB-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-NB-NI.html) · [Markdown](https://data.orchid-project.org/systems/FE-NB-NI.md)
 
@@ -12,8 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 2 |
 | DFT | 35 |
 | unspecified | 8 |
 
@@ -21,18 +19,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
 | formation | 43 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Fe–Nb–Ni system (3)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1564.05 | eutectic: Liq. ⇔ C14 + D0a |  | model | [1] Mathon 2009 | p. 14; `ORC-OMJAHQM42A.431221` | “Therefore we obtained: - an eutectic at 1477.07 K: 39.9% Fe-15.1% Nb-45% Ni Liq. ⇔ 45% Fe-31.8% Nb-23.2% Ni C14 + 6.2% Fe-24.4% Nb-69.4% Ni D0a + 58.2% Fe-5.9% Nb-35.9% Ni fcc_A1, but for a liquid composition too rich in Fe and not enough in Nb or Ni compared to the liquid composition of \[7\], - and a pseudobinary invariant at 1564.05 K: 14.9% Fe-27.4% Nb -57.7% Ni Liq. ⇔ 39.8% Fe-33.1% Nb-27.1% N…” |
-| 1563 | eutectic: Liq. ⇔ C14 + D0a |  | experimental | [1] Mathon 2009; _cites Panteliemonov 1975_ | p. 13; `ORC-2C7MIBHOA7` | “We performed our optimization without any ternary mixing parameters for the liquid and without taking into account the pseudo-binary eutectic found at 1563 K by \[76\] (16.2% Fe-27% Nb-56.8% Ni Liq. ⇔ 38.8% Fe-29.8% Nb-31.4% Ni C14 + 5.1% Fe-25.6% Nb-69.3% Ni D0a ) nor the presence of liquid” |
-| 1477.07 | eutectic: Liq. ⇔ C14 + D0a + fcc_A1 |  | model | [1] Mathon 2009 | p. 14; `ORC-OMJAHQM42A.a7db6d` | “Therefore we obtained: - an eutectic at 1477.07 K: 39.9% Fe-15.1% Nb-45% Ni Liq. ⇔ 45% Fe-31.8% Nb-23.2% Ni C14 + 6.2% Fe-24.4% Nb-69.4% Ni D0a + 58.2% Fe-5.9% Nb-35.9% Ni fcc_A1, but for a liquid composition too rich in Fe and not enough in Nb or Ni compared to the liquid composition of \[7\], - and a pseudobinary invariant at 1564.05 K: 14.9% Fe-27.4% Nb -57.7% Ni Liq. ⇔ 39.8% Fe-33.1% Nb-27.1% N…” |
 
 ## Formation enthalpies
 

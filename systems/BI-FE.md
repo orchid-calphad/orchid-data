@@ -1,10 +1,10 @@
 # Bi–Fe system
 
-> Bi–Fe system: 15 accepted literature values (phase transition 8, invariant reaction 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Fe system: 12 accepted literature values (invariant reaction 7, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-FE.html · Markdown: https://data.orchid-project.org/systems/BI-FE.md
 
-15 accepted literature values from 2 paper(s) (experimental 8, model 7); 1 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 8, model 4); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-FE.json) · [CSV](https://data.orchid-project.org/systems/BI-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-FE/BiFe-08Boa.json) · [phases (5)](https://data.orchid-project.org/phases/pages/BI-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-FE.html) · [Markdown](https://data.orchid-project.org/systems/BI-FE.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 7 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 7 |
-| phase transition | 8 |
+| phase transition | 5 |
 
 ## Calculated phase diagrams
 
@@ -60,7 +60,7 @@ Table: Invariant reactions reported in the literature for the Bi–Fe system (7)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (5)
 
 Table: Phase transition, Bi–Fe system
 
@@ -71,16 +71,12 @@ Table: Phase transition, Bi–Fe system
 | Phase transition | 544.63 K | 544.63 | UNKNOWN; _alloy: Bi 0.8, Fe 0.2_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 2; `ORC-4S2GCDLFTA` |  |
 | Phase transition | 544.64 K | 544.64 | UNKNOWN; _alloy: Bi 0.6, Fe 0.4_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 3; `ORC-5SVRYR42CX` |  |
 | Phase transition | 544.64 K | 544.64 | UNKNOWN; _alloy: Bi 0.2, Fe 0.8_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 5; `ORC-ZZKVRWRQC4` |  |
-| Phase transition | 545 K | 545 | other | model | [2] Gossé 2014 | p. 3; `ORC-SC2CU4V3Y2` | “At low temperature, the Bi rich solidus is calculated at 545 K but the nature of the reaction is not known.” |
-| Phase transition | 1185 K | 1185 |  | model | [2] Gossé 2014 | p. 3; `ORC-NKR5KRYONA.c0bf6c` | “At high temperature, the transition of a iron (ferrite, BCC) towards c iron (austenite, FCC) is calculated at 1185 K, and then the transition towards d iron (BCC) occurs at 1667 K.” |
-| Phase transition | 1667 K | 1667 |  | model | [2] Gossé 2014 | p. 3; `ORC-NKR5KRYONA.cf8368` | “At high temperature, the transition of a iron (ferrite, BCC) towards c iron (austenite, FCC) is calculated at 1185 K, and then the transition towards d iron (BCC) occurs at 1667 K.” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. D. Boa, S. Hassam, G. Kra, K.P. Kotchi, J. Rogez, The ternary bismuth–iron–antimony system: Experimental phase diagram study and thermodynamic evaluation, Calphad 32, 227-239 (2008). [doi:10.1016/j.calphad.2008.01.001](https://doi.org/10.1016/j.calphad.2008.01.001)
-2. Stéphane Gossé, Thermodynamic assessment of solubility and activity of iron, chromium, and nickel in lead bismuth eutectic, Journal of Nuclear Materials 449, 122-131 (2014). [doi:10.1016/j.jnucmat.2014.03.011](https://doi.org/10.1016/j.jnucmat.2014.03.011)
 
 ## Please cite
 

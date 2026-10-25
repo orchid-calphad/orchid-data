@@ -21,6 +21,7 @@
    1246.0,
    1117.0,
    1073.0,
+   1260.0,
    1216.0,
    1395.0,
    1351.0,
@@ -161,6 +162,35 @@
     ],
     [
      0.99
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     0.07
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.06
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.08
     ]
    ]
   ],
@@ -353,7 +383,7 @@
     "x0": 0.67,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <=> CuZr2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -420,6 +450,25 @@
    },
    {
     "source_observation": "ORC-CYBHIOM3CE",
+    "side": "above",
+    "T_invariant_K": 1238.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+    "x0": 0.07,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L <=> (Cu) + Cu5Zr",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "CU5ZR_C15B"
+    ]
+   },
+   {
+    "source_observation": "ORC-CYBHIOM3CE",
     "side": "below",
     "T_invariant_K": 1238.0,
     "offset_K": 22.0,
@@ -447,7 +496,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <=> Cu51Zr14",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -465,7 +514,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <=> Cu51Zr14",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -576,6 +625,22 @@
    },
    {
     "source_observation": "ORC-XCJOTJ2GKA",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 11.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 22.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-CYBHIOM3CE",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": null,

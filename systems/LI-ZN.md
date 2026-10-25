@@ -94,17 +94,17 @@ Table: Invariant reactions reported in the literature for the Li–Zn system (24
 | 772 | liq. + βLi2Zn3 -> βLi2Zn5 | liq.: Zn 0.7206; βLi2Zn3: Zn 0.6758; βLi2Zn5: Zn 0.7205 | model | [1] Liang 2008 | Table 2, p. 5, row 13; `ORC-D3UAB7FSGY` |  |
 | 755 | liq. + βLi2Zn5 -> βLiZn4 | liq.: Zn 0.7842; βLi2Zn5: Zn 0.729; βLiZn4: Zn 0.7841 | model | [1] Liang 2008 | Table 2, p. 5, row 21; `ORC-SYX3HN3IXJ` |  |
 | 754 | liq. + βLi2Zn5 -> βLiZn4 | liq.: Zn 0.8; βLi2Zn5: Zn 0.74; βLiZn4: Zn 0.76 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 22; `ORC-G6M5Z4CBUG` |  |
-| 676 | liq. -> βLiZn4 + hcp (Zn) | liq.: Zn 0.96; βLiZn4: Zn 0.92; hcp (Zn): Zn 0.99 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 30; `ORC-NQAHN23ELI` |  |
-| 674 | liq. -> βLiZn4 + hcp (Zn) | liq.: Zn 0.9507; βLiZn4: Zn 0.9173; hcp (Zn): Zn 0.9649 | model | [1] Liang 2008 | Table 2, p. 5, row 29; `ORC-3EOPEUSFBM` |  |
+| 676 | eutectic: liq. -> βLiZn4 + hcp (Zn) | liq.: Zn 0.96; βLiZn4: Zn 0.92; hcp (Zn): Zn 0.99 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 30; `ORC-NQAHN23ELI` |  |
+| 674 | eutectic: liq. -> βLiZn4 + hcp (Zn) | liq.: Zn 0.9507; βLiZn4: Zn 0.9173; hcp (Zn): Zn 0.9649 | model | [1] Liang 2008 | Table 2, p. 5, row 29; `ORC-3EOPEUSFBM` |  |
 | 541 | βLi2Zn3 + βLi2Zn5 -> αLi2Zn5 | βLi2Zn3: Zn 0.6132; βLi2Zn5: Zn 0.7143; αLi2Zn5: Zn 0.7143 | model | [1] Liang 2008 | Table 2, p. 5, row 15; `ORC-INPKEXL5HZ` |  |
 | 541 | βLi2Zn3 + βLi2Zn5 -> αLi2Zn5 | βLi2Zn3: Zn 0.64; βLi2Zn5: Zn 0.71; αLi2Zn5: Zn 0.7 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 16; `ORC-PH6RFSGZCW` |  |
 | 518 | βLi2Zn5 + βLiZn4 -> αLiZn4 | βLi2Zn5: Zn 0.74; βLiZn4: Zn 0.79; αLiZn4: Zn 0.77 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 24; `ORC-E2LPDECQ4I` |  |
 | 518 | βLi2Zn5 + βLiZn4 -> αLiZn4 | βLi2Zn5: Zn 0.7155; βLiZn4: Zn 0.7998; αLiZn4: Zn 0.7998 | model | [1] Liang 2008 | Table 2, p. 5, row 23; `ORC-ECIZCRAUNS` |  |
 | 441 | βLi2Zn5 -> αLi2Zn5 + αLiZn4 | βLi2Zn5: Zn 0.73; αLi2Zn5: Zn 0.72; αLiZn4: Zn 0.78 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 26; `ORC-6TXONS67HH` |  |
 | 441 | βLi2Zn5 -> αLi2Zn5 + αLiZn4 | βLi2Zn5: Zn 0.7144; αLi2Zn5: Zn 0.7143; αLiZn4: Zn 0.7999 | model | [1] Liang 2008 | Table 2, p. 5, row 25; `ORC-UWGJ3CR7JM` |  |
-| 435 | liq. -> bcc (Li) + βLi2Zn3 | liq.: Zn 0.0511; bcc (Li): Zn 0.0096; βLi2Zn3: Zn 0.4546 | model | [1] Liang 2008 | Table 2, p. 5, row 1; `ORC-3SLQGYNWMR` |  |
+| 435 | eutectic: liq. -> bcc (Li) + βLi2Zn3 | liq.: Zn 0.0511; bcc (Li): Zn 0.0096; βLi2Zn3: Zn 0.4546 | model | [1] Liang 2008 | Table 2, p. 5, row 1; `ORC-3SLQGYNWMR` |  |
 | 434 | βLi2Zn3 -> αLi2Zn3 + αLi2Zn5 | βLi2Zn3: Zn 0.62; αLi2Zn3: Zn 0.61; αLi2Zn5: Zn 0.7 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 18; `ORC-3IJTOQQ4VU` |  |
-| 434 | liq. -> bcc (Li) + βLi2Zn3 | liq.: Zn 0.05; bcc (Li): Zn 0.02; βLi2Zn3: Zn 0.5 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 2; `ORC-FU7WMLCQPT` |  |
+| 434 | eutectic: liq. -> bcc (Li) + βLi2Zn3 | liq.: Zn 0.05; bcc (Li): Zn 0.02; βLi2Zn3: Zn 0.5 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 2; `ORC-FU7WMLCQPT` |  |
 | 433 | βLi2Zn3 -> bcc (Li) + LiZn | βLi2Zn3: Zn 0.5; bcc (Li): Zn 0.02; LiZn: Zn 0.5 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 4; `ORC-B5CHDTUUEH` |  |
 | 433 | βLi2Zn3 -> LiZn + αLi2Zn3 | βLi2Zn3: Zn 0.56; LiZn: Zn 0.55; αLi2Zn3: Zn 0.58 | model | [1] Liang 2008; _cites Li 2006_ | Table 2, p. 5, row 12; `ORC-FJK5VMAQWC` |  |
 | 433 | βLi2Zn3 -> bcc (Li) + LiZn | βLi2Zn3: Zn 0.4554; bcc (Li): Zn 0.0096; LiZn: Zn 0.5109 | model | [1] Liang 2008 | Table 2, p. 5, row 3; `ORC-NVJMCUIEGT.d7f122` |  |

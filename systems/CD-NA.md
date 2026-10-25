@@ -1,10 +1,10 @@
 # Cd–Na system
 
-> Cd–Na system: 17 accepted literature values (invariant reaction 13, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Na system: 16 accepted literature values (invariant reaction 13, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-NA.html · Markdown: https://data.orchid-project.org/systems/CD-NA.md
 
-17 accepted literature values from 1 paper(s) (experimental 12, model 5); 1 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (experimental 11, model 5); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-NA.json) · [CSV](https://data.orchid-project.org/systems/CD-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-NA/CdNa-09Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CD-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-NA.html) · [Markdown](https://data.orchid-project.org/systems/CD-NA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 11 |
 | model | 5 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 13 |
-| phase transition | 4 |
+| phase transition | 3 |
 
 ## Calculated phase diagrams
 
@@ -52,30 +52,29 @@ Table: Invariant reactions reported in the literature for the Cd–Na system (13
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 658 | Liq -> Cd2Na | L: Cd 0.666667, Na 0.333333; Cd2Na: Cd 0.666667, Na 0.333333 | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 2, p. 3, row 10; `ORC-O2XQZOWEOO` |  |
-| 657 | Liq -> Cd2Na | L: Cd 0.666667, Na 0.333333; Cd2Na: Cd 0.666667, Na 0.333333 | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | Table 2, p. 3, row 11; `ORC-XU4QWCB52U` |  |
-| 653.9 | Liq -> Cd2Na | L: Cd 0.666667, Na 0.333333; Cd2Na: Cd 0.666667, Na 0.333333 | model | [1] Liu 2009 | Table 2, p. 3, row 9; `ORC-G43KHXSU5A` |  |
-| 633 | Liq -> Cd11Na2 | L: Cd 0.846154, Na 0.153846; Cd11Na2: Cd 0.846154, Na 0.153846 | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 2, p. 3, row 5; `ORC-U5Y27NDFIC` |  |
-| 631.58 | Liq -> Cd11Na2 | L: Cd 0.846154, Na 0.153846; Cd11Na2: Cd 0.846154, Na 0.153846 | model | [1] Liu 2009 | Table 2, p. 3, row 4; `ORC-MXTI25CV2K` |  |
-| 624 | Liq -> Cd11Na2 + Cd2Na | L: Na 0.192; Cd11Na2: Cd 0.846154, Na 0.153846; Cd2Na: Cd 0.666667, Na 0.333333 | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | Table 2, p. 3, row 7; `ORC-U5NNVKJHIE` |  |
-| 620.87 | Liq -> Cd11Na2 + Cd2Na | L: Na 0.211; Cd11Na2: Cd 0.846154, Na 0.153846; Cd2Na: Cd 0.666667, Na 0.333333 | model | [1] Liu 2009 | Table 2, p. 3, row 6; `ORC-J4KEYRNVJY` |  |
-| 619 | Liq -> Cd11Na2 + Cd2Na | L: Na 0.21; Cd11Na2: Cd 0.846154, Na 0.153846; Cd2Na: Cd 0.666667, Na 0.333333 | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 2, p. 3, row 8; `ORC-7QSXOVM625` |  |
-| 564 | Liq -> Cd11Na2 + hcp | L: Na 0.055; Cd11Na2: Cd 0.846154, Na 0.153846 | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | Table 2, p. 3, row 2; `ORC-2DXPHNO4ZC` |  |
-| 560.96 | Liq -> Cd11Na2 + hcp | L: Na 0.045; Cd11Na2: Cd 0.846154, Na 0.153846 | model | [1] Liu 2009 | Table 2, p. 3, row 1; `ORC-CXIOJA7EXQ` |  |
-| 558 | Liq -> Cd11Na2 + hcp | L: Na 0.055; Cd11Na2: Cd 0.846154, Na 0.153846 | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 2, p. 3, row 3; `ORC-HYW35CRJZD` |  |
-| 368.4 | Liq -> bcc + Cd2Na | L: Na 0.994; Cd2Na: Cd 0.666667, Na 0.333333 | model | [1] Liu 2009 | Table 2, p. 3, row 12; `ORC-E76EMK2ASI` |  |
-| 368 | Liq -> bcc + Cd2Na | Cd2Na: Cd 0.666667, Na 0.333333 | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | Table 2, p. 3, row 13; `ORC-IT7GYWLTL6` |  |
+| 658 | congruent melting: Liq -> Cd2Na | L: Cd 0.666667, Na 0.333333; Cd2Na: Cd 0.666667, Na 0.333333 | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 2, p. 3, row 10; `ORC-O2XQZOWEOO` |  |
+| 657 | congruent melting: Liq -> Cd2Na | L: Cd 0.666667, Na 0.333333; Cd2Na: Cd 0.666667, Na 0.333333 | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | Table 2, p. 3, row 11; `ORC-XU4QWCB52U` |  |
+| 653.9 | congruent melting: Liq -> Cd2Na | L: Cd 0.666667, Na 0.333333; Cd2Na: Cd 0.666667, Na 0.333333 | model | [1] Liu 2009 | Table 2, p. 3, row 9; `ORC-G43KHXSU5A` |  |
+| 633 | congruent melting: Liq -> Cd11Na2 | L: Cd 0.846154, Na 0.153846; Cd11Na2: Cd 0.846154, Na 0.153846 | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 2, p. 3, row 5; `ORC-U5Y27NDFIC` |  |
+| 631.58 | congruent melting: Liq -> Cd11Na2 | L: Cd 0.846154, Na 0.153846; Cd11Na2: Cd 0.846154, Na 0.153846 | model | [1] Liu 2009 | Table 2, p. 3, row 4; `ORC-MXTI25CV2K` |  |
+| 624 | eutectic: Liq -> Cd11Na2 + Cd2Na | L: Na 0.192; Cd11Na2: Cd 0.846154, Na 0.153846; Cd2Na: Cd 0.666667, Na 0.333333 | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | Table 2, p. 3, row 7; `ORC-U5NNVKJHIE` |  |
+| 620.87 | eutectic: Liq -> Cd11Na2 + Cd2Na | L: Na 0.211; Cd11Na2: Cd 0.846154, Na 0.153846; Cd2Na: Cd 0.666667, Na 0.333333 | model | [1] Liu 2009 | Table 2, p. 3, row 6; `ORC-J4KEYRNVJY` |  |
+| 619 | eutectic: Liq -> Cd11Na2 + Cd2Na | L: Na 0.21; Cd11Na2: Cd 0.846154, Na 0.153846; Cd2Na: Cd 0.666667, Na 0.333333 | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 2, p. 3, row 8; `ORC-7QSXOVM625` |  |
+| 564 | eutectic: Liq -> Cd11Na2 + hcp | L: Na 0.055; Cd11Na2: Cd 0.846154, Na 0.153846 | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | Table 2, p. 3, row 2; `ORC-2DXPHNO4ZC` |  |
+| 560.96 | eutectic: Liq -> Cd11Na2 + hcp | L: Na 0.045; Cd11Na2: Cd 0.846154, Na 0.153846 | model | [1] Liu 2009 | Table 2, p. 3, row 1; `ORC-CXIOJA7EXQ` |  |
+| 558 | eutectic: Liq -> Cd11Na2 + hcp | L: Na 0.055; Cd11Na2: Cd 0.846154, Na 0.153846 | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | Table 2, p. 3, row 3; `ORC-HYW35CRJZD` |  |
+| 368.4 | eutectic: Liq -> bcc + Cd2Na | L: Na 0.994; Cd2Na: Cd 0.666667, Na 0.333333 | model | [1] Liu 2009 | Table 2, p. 3, row 12; `ORC-E76EMK2ASI` |  |
+| 368 | eutectic: Liq -> bcc + Cd2Na | Cd2Na: Cd 0.666667, Na 0.333333 | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | Table 2, p. 3, row 13; `ORC-IT7GYWLTL6` |  |
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (3)
 
 Table: Phase transition, Cd–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 633 K | 633 | congruent transformation | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | p. 2; `ORC-X2EPCFJ22N` | “It was reported by Mathewson \[5\] that a compound, Cd5 Na, exists and melts congruently at 633 K.” |
-| Phase transition | 636 K | 636 | other | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | p. 2; `ORC-IPARG6UYXE` | “However, Kurnakow and Kusnetzow \[4\] proposed a maximum of the liquidus at 636 K for Cd6 Na.” |
 | Phase transition | 657 K | 657 | congruent transformation | experimental | [1] Liu 2009; _cites Kurnakow 1907_ [doi](https://doi.org/10.1002/zaac.19070520117) | p. 2; `ORC-HFP3YVCG4X.31db39` | “Both works showed the presence of Cd2 Na which melts congruently at 658 K \[5\] and 657 K \[4\], respectively, but the presence of the other compound is not conclusive.” |
 | Phase transition | 658 K | 658 | congruent transformation | experimental | [1] Liu 2009; _cites Mathewson 1906_ [doi](https://doi.org/10.1002/zaac.19060500118) | p. 2; `ORC-HFP3YVCG4X.f5369c` | “Both works showed the presence of Cd2 Na which melts congruently at 658 K \[5\] and 657 K \[4\], respectively, but the presence of the other compound is not conclusive.” |
 

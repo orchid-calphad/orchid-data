@@ -49,12 +49,12 @@ Table: Invariant reactions reported in the literature for the Pb–Se system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 954 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.5; liq#1: Se 0.76 | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VII, p. 8, row 3; `ORC-IDWHFMCTFN` |  |
-| 951.3 | liq#1 -> liq#2 + PbSe | PbSe: Pb 0.5, Se 0.5; liq#1: Se 0.761 | experimental | [1] Liu 2012; _cites Seidman 1966_ | Table VII, p. 8, row 4; `ORC-J4LUYHIU7A` |  |
-| 947.2 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.5; liq#1: Se 0.746 | model | [1] Liu 2012 | Table VII, p. 8, row 5; `ORC-ZCA2U4WZRU` |  |
-| 600.3 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.5 | experimental | [1] Liu 2012; _cites Greenwood 1939_ | Table VII, p. 8, row 1; `ORC-ITZEYK6PXW` |  |
-| 600 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.5 | model | [1] Liu 2012 | Table VII, p. 8, row 2; `ORC-LFK5V5C4H5` |  |
-| 493.9 | liq -> (Se) + PbSe | L: Se 1; (Se): Se 1; PbSe: Se 0.5 | model | [1] Liu 2012 | Table VII, p. 8, row 6; `ORC-M2EI4VODMS` |  |
+| 954 | monotectic: liq#1 -> liq#2 + PbSe | PbSe: Se 0.5; liq#1: Se 0.76 | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VII, p. 8, row 3; `ORC-IDWHFMCTFN` |  |
+| 951.3 | monotectic: liq#1 -> liq#2 + PbSe | PbSe: Pb 0.5, Se 0.5; liq#1: Se 0.761 | experimental | [1] Liu 2012; _cites Seidman 1966_ | Table VII, p. 8, row 4; `ORC-J4LUYHIU7A` |  |
+| 947.2 | monotectic: liq#1 -> liq#2 + PbSe | PbSe: Se 0.5; liq#1: Se 0.746 | model | [1] Liu 2012 | Table VII, p. 8, row 5; `ORC-ZCA2U4WZRU` |  |
+| 600.3 | eutectic: liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.5 | experimental | [1] Liu 2012; _cites Greenwood 1939_ | Table VII, p. 8, row 1; `ORC-ITZEYK6PXW` |  |
+| 600 | eutectic: liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.5 | model | [1] Liu 2012 | Table VII, p. 8, row 2; `ORC-LFK5V5C4H5` |  |
+| 493.9 | eutectic: liq -> (Se) + PbSe | L: Se 1; (Se): Se 1; PbSe: Se 0.5 | model | [1] Liu 2012 | Table VII, p. 8, row 6; `ORC-M2EI4VODMS` |  |
 
 ## Formation enthalpies
 

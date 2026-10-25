@@ -45,16 +45,16 @@ Table: Uncertainty budget of the literature values of Al4Ca
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -219.5 | kJ/mol (basis unstated) | 20 | 5.000e-5 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 20 |
+| -219.5 | kJ/mol (basis unstated) | 20 | 5.000e-5 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 20 |
 | -209 | kJ/mol (basis unstated) | 30 | 5.000e-5 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 30 |
 | -100.9 | kJ/mol (basis unstated) | 1.9 | 5.000e-5 | 19 (experimental_unspecified, calibrated) |  |  |  | 19 |
 | -97 | kJ/mol (basis unstated) | 16.5 | 5.000e-5 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
-| -93.5 | kJ/mol (basis unstated) | 1.25 | 5.000e-5 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -93.5 | kJ/mol (basis unstated) | 1.25 | 5.000e-5 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 16 |
 | -20.2 | kJ/mol-atom | 0.4 | 5.000e-5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -20.18 | kJ/mol-atom | 0.38 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -19.4 | kJ/mol-atom | 3.3 | 5.000e-5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -19.4 | kJ/mol-atom | 3.3 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -18.7 | kJ/mol-atom | 0.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -18.7 | kJ/mol-atom | 0.3 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -18.7 | kJ/mol-atom | 0.3 | 5.000e-5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -100.509 | kJ/mol (basis unstated) |  | 5.000e-5 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 | -93.5 | kJ/mol (basis unstated) |  | 5.000e-5 | 17 (model_calculated, calibrated) |  |  |  | 17 |
@@ -63,10 +63,10 @@ Table: Uncertainty budget of the literature values of Al4Ca
 | -21 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -19.248 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -17.27 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -21.615 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -20.034 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -19.56 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -19.208 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -21.615 | kJ/mol-atom |  | 5.000e-5 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -20.034 | kJ/mol-atom |  | 5.000e-5 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -19.56 | kJ/mol-atom |  | 5.000e-5 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -19.208 | kJ/mol-atom |  | 5.000e-5 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

@@ -19,7 +19,7 @@ Table: Phases of the As–Ga system (8)
 | [FCC_A1](#phase-as-ga-fcc-a1); _phase:as-ga:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GAS](#phase-as-ga-gas); _phase:as-ga:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 888.4–2500 K, x(As) 0–1 | 0 | 1 |
 | [HCP_A3](#phase-as-ga-hcp-a3); _phase:as-ga:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [LIQUID](#phase-as-ga-liquid); _phase:as-ga:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 302.91–2472.5 K, x(As) 0–0.52815 | 42 | 1 |
+| [LIQUID](#phase-as-ga-liquid); _phase:as-ga:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 302.91–2472.5 K, x(As) 0–0.52815 | 43 | 1 |
 
 ## ORTHORHOMBIC_A11 (As–Ga)
 
@@ -214,11 +214,11 @@ _assessment that models this phase_
 - Id: `phase:as-ga:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 302.91–2472.5 K, x(As) 0–0.52815
-- Literature: 42 values (42 accepted) from 1 papers
+- Literature: 43 values (43 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:as-ga:liquid)
 
-Names (3): _corpus: _corpus:phase:as-ga:liquid  
-_paper: _paper:10.1016/0364-5916(84)90035-x:liquid  
+Names (4): _corpus: _corpus:phase:as-ga:liquid  
+_paper: _paper:10.1016/0364-5916(84)90035-x:liquid, paper:10.1016/j.jallcom.2015.03.051:liquid  
 _tdb: _tdb:GaAs-90Cha-LB.tdb:LIQUID  
 
 
@@ -231,11 +231,13 @@ _tdb: _tdb:GaAs-90Cha-LB.tdb:LIQUID
 28: CONST LIQUID:L : AS GA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/0364-5916(90)90021-Q](https://doi.org/10.1016/0364-5916%2890%2990021-Q) C. Chatillon, I. Ansara, A. Watson, B.B. Argent, Calphad, 14, 203-14(1990).  
 _assessment that models this phase_
 - [doi:10.1016/0364-5916(84)90035-x](https://doi.org/10.1016/0364-5916%2884%2990035-x) I. Ansara, D. Dutartre, Thermodynamic study of the Al-Ga-As-Ge system, Calphad 8, 323-342 (1984).  
+_reports values for this phase_
+- [doi:10.1016/j.jallcom.2015.03.051](https://doi.org/10.1016/j.jallcom.2015.03.051) Masoomeh Ghasemi, Jonas Johansson, Thermodynamic assessment of the As–Zn and As–Ga–Zn systems, Journal of Alloys and Compounds 638, 95-102 (2015).  
 _reports values for this phase_
 
 ## Please cite

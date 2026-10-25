@@ -1,10 +1,10 @@
 # Sn–Ta system
 
-> Sn–Ta system: 43 accepted literature values (crystal structure 33, other property 5, phase transition 4, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Ta system: 38 accepted literature values (crystal structure 33, other property 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-TA.html · Markdown: https://data.orchid-project.org/systems/SN-TA.md
 
-43 accepted literature values from 1 paper(s) (experimental 11, model 3, DFT 29); 1 calculated phase diagram(s).
+38 accepted literature values from 1 paper(s) (experimental 9, DFT 29); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-TA.json) · [CSV](https://data.orchid-project.org/systems/SN-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-TA/SnTa-17Mar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/SN-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-TA.html) · [Markdown](https://data.orchid-project.org/systems/SN-TA.md)
 
@@ -12,16 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 3 |
+| experimental | 9 |
 | DFT | 29 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 4 |
 | crystal structure | 33 |
 | other property | 5 |
 
@@ -47,26 +44,7 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/SN/SN-TA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SN/SN-TA.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Sn–Ta system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 868.15 | peritectic |  | experimental | [1] Marker 2017; _cites ref. 13_ | p. 3; `ORC-C3DB7UXK23` | “Basile \[13\] determined TaSn2 has a peritectic reaction at 595 °C and used X-ray diffraction (XRD) to elucidate the lattice parameters of TaSn2,.” |
-
 ## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Sn–Ta system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 868 K | 868 | other | experimental | [1] Marker 2017 | p. 1; `ORC-PQZSHQKOHH` | “The results from first-principles calculations along with the previously reported decomposition temperature of TaSn2, 868 K, were used to evaluate the Gibbs energy parameters of the TaSn2, Ta3Sn intermetallics and the liquid phase.” |
-| Phase transition | 2884 K | 2884 |  | model | [1] Marker 2017 | p. 21; `ORC-DLW2C2WFPH` | “The melting temperature of Ta3Sn is predicted to be 2884 K.” |
-| Phase transition | 2884 K | 2884 |  | model | [1] Marker 2017 | p. 23; `ORC-UJYNJZJEH6` | “The decomposition temperature of Ta3Sn is predicted to be 2884 K.” |
-| Phase transition | 2884 K | 2884 | other | model | [1] Marker 2017 | p. 1; `ORC-Y7Q2JDOVFQ` | “No decomposition temperature of Ta3Sn has previously been reported in the literature but was predicted in this work to be 2884 K.” |
 
 ### Crystal structure (33)
 

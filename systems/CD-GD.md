@@ -108,13 +108,13 @@ Table: Invariant reactions reported in the literature for the Cd–Gd system (74
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1443.15 | congruent melting: CdGd -> L | CdGd: Cd 0.5 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 7; `ORC-DFI5IGZ4N3` |  |
-| 1443 | liq. -> CdGd | liq.: Cd 0.5, Gd 0.5; CdGd: Cd 0.5, Gd 0.5 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 45; `ORC-BSWJAK7NVU` |  |
-| 1443 | liq. -> CdGd | liq.: Cd 0.5, Gd 0.5; CdGd: Cd 0.5, Gd 0.5 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 46; `ORC-LTQTZZ563W` |  |
-| 1425 | liq. -> CdGd | liq.: Gd 0.5035; CdGd: Cd 0.5, Gd 0.5 | model | [2] Liu 2019 | Table 2, p. 8, row 43; `ORC-KR37HYJYTQ` |  |
+| 1443 | congruent melting: liq. -> CdGd | liq.: Cd 0.5, Gd 0.5; CdGd: Cd 0.5, Gd 0.5 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 45; `ORC-BSWJAK7NVU` |  |
+| 1443 | congruent melting: liq. -> CdGd | liq.: Cd 0.5, Gd 0.5; CdGd: Cd 0.5, Gd 0.5 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 46; `ORC-LTQTZZ563W` |  |
+| 1425 | congruent melting: liq. -> CdGd | liq.: Gd 0.5035; CdGd: Cd 0.5, Gd 0.5 | model | [2] Liu 2019 | Table 2, p. 8, row 43; `ORC-KR37HYJYTQ` |  |
 | 1423.15 | congruent melting: CdGd -> L | CdGd: Cd 0.5 | model | [1] Azza 2024 | Table 3, p. 7, row 9; `ORC-DR6KIJURAP` |  |
 | 1420.15 | congruent melting: CdGd -> L | CdGd: Cd 0.5 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 8; `ORC-LZKAQOUDLU` |  |
-| 1420 | liq. -> CdGd | liq.: Cd 0.5, Gd 0.5; CdGd: Cd 0.5, Gd 0.5 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 44; `ORC-EULOQG5JNB` |  |
-| 1420 | liq. -> CdGd | liq.: Gd 0.503; CdGd: Cd 0.5, Gd 0.5 | model | [2] Liu 2019 | Table 2, p. 8, row 42; `ORC-OK5EQHLERJ` |  |
+| 1420 | congruent melting: liq. -> CdGd | liq.: Cd 0.5, Gd 0.5; CdGd: Cd 0.5, Gd 0.5 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 44; `ORC-EULOQG5JNB` |  |
+| 1420 | congruent melting: liq. -> CdGd | liq.: Gd 0.503; CdGd: Cd 0.5, Gd 0.5 | model | [2] Liu 2019 | Table 2, p. 8, row 42; `ORC-OK5EQHLERJ` |  |
 | 1283.15 | peritectic: L + CdGd -> β- Cd2Gd | L: Cd 0.672; CdGd: Cd 0.5; β- Cd2Gd: Cd 0.667 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 14; `ORC-APP7LGTLAW` |  |
 | 1283 | liq. + CdGd -> β-Cd2Gd | CdGd: Cd 0.5, Gd 0.5; β-Cd2Gd: Cd 0.666667, Gd 0.333333 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 5; `ORC-DC3M4NR7XW` |  |
 | 1283 | liq. + CdGd -> β-Cd2Gd | CdGd: Cd 0.5, Gd 0.5; β-Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 4; `ORC-XU3BKKXDFX` |  |
@@ -122,22 +122,22 @@ Table: Invariant reactions reported in the literature for the Cd–Gd system (74
 | 1271 | liq. + CdGd -> β-Cd2Gd | liq.: Gd 0.2949; CdGd: Gd 0.5815; β-Cd2Gd: Gd 0.3343 | model | [2] Liu 2019 | Table 2, p. 8, row 1; `ORC-FBGDX26W6H` |  |
 | 1271 | liq. + CdGd -> β-Cd2Gd | liq.: Gd 0.317; CdGd: Gd 0.488; β-Cd2Gd: Gd 0.339 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 3; `ORC-OUFKBMMAGZ` |  |
 | 1270 | liq. + CdGd -> β-Cd2Gd | liq.: Gd 0.3139; CdGd: Gd 0.4764; β-Cd2Gd: Gd 0.335 | model | [2] Liu 2019 | Table 2, p. 8, row 2; `ORC-SUI7DA2ASC` |  |
-| 1269 | β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 9; `ORC-FA45SEDJNW` |  |
+| 1269 | polymorphic: β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 9; `ORC-FA45SEDJNW` |  |
 | 1268.15 | polymorphic: α- Cd2Gd -> β- Cd2Gd | α- Cd2Gd: Cd 0.666667, Gd 0.333333; β- Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 10; `ORC-TJFGAWQIFL` |  |
-| 1268 | β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 10; `ORC-RVHSHQINWR` |  |
+| 1268 | polymorphic: β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 10; `ORC-RVHSHQINWR` |  |
 | 1267.95 | peritectic: L + CdGd -> β- Cd2Gd | L: Cd 0.659; CdGd: Cd 0.512; β- Cd2Gd: Cd 0.642 | model | [1] Azza 2024 | Table 3, p. 7, row 16; `ORC-G4ROKGZ6UW` |  |
 | 1262.25 | peritectoid: β- Cd2Gd + CdGd -> α- Cd2Gd | β- Cd2Gd: Cd 0.642; CdGd: Cd 0.513; α- Cd2Gd: Cd 0.642 | model | [1] Azza 2024 | Table 3, p. 7, row 12; `ORC-ZIRMEAU2KD` |  |
 | 1259.15 | polymorphic: α- Cd2Gd -> β- Cd2Gd | α- Cd2Gd: Cd 0.666667, Gd 0.333333; β- Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 11; `ORC-3NPZTLSEAS` |  |
-| 1259 | β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | model | [2] Liu 2019 | Table 2, p. 8, row 6; `ORC-6SAZSNHWJV` |  |
-| 1259 | β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 8; `ORC-WAX3JAZ76N` |  |
+| 1259 | polymorphic: β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | model | [2] Liu 2019 | Table 2, p. 8, row 6; `ORC-6SAZSNHWJV` |  |
+| 1259 | polymorphic: β-Cd2Gd -> α-Cd2Gd | β-Cd2Gd: Cd 0.666667, Gd 0.333333; α-Cd2Gd: Cd 0.666667, Gd 0.333333 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 8; `ORC-WAX3JAZ76N` |  |
 | 1257.25 | metatectic/catatectic: β- Cd2Gd -> L + α- Cd2Gd | β- Cd2Gd: Cd 0.645; L: Cd 0.681; α- Cd2Gd: Cd 0.649 | model | [1] Azza 2024 | Table 3, p. 7, row 13; `ORC-UO2HQBOQQS` |  |
 | 1210.15 | eutectic: L -> CdGd + (βGd) | L: Cd 0.27; CdGd: Cd 0.5; (βGd): Cd 0.22 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 4; `ORC-VRX6DUMPT2` |  |
-| 1210 | liq. -> CdGd + bcc | liq.: Gd 0.8354; CdGd: Gd 0.5281; bcc: Gd 0.8858 | model | [2] Liu 2019 | Table 2, p. 8, row 11; `ORC-B6N2EJ7JU6` |  |
-| 1210 | liq. -> CdGd + bcc | liq.: Gd 0.73; CdGd: Cd 0.5, Gd 0.5 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 15; `ORC-QEPIA4E5AR` |  |
-| 1193 | liq. -> CdGd + bcc | CdGd: Cd 0.5, Gd 0.5 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 14; `ORC-AQ66X44SOD` |  |
+| 1210 | eutectic: liq. -> CdGd + bcc | liq.: Gd 0.8354; CdGd: Gd 0.5281; bcc: Gd 0.8858 | model | [2] Liu 2019 | Table 2, p. 8, row 11; `ORC-B6N2EJ7JU6` |  |
+| 1210 | eutectic: liq. -> CdGd + bcc | liq.: Gd 0.73; CdGd: Cd 0.5, Gd 0.5 | unspecified | [2] Liu 2019; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 2, p. 8, row 15; `ORC-QEPIA4E5AR` |  |
+| 1193 | eutectic: liq. -> CdGd + bcc | CdGd: Cd 0.5, Gd 0.5 | experimental | [2] Liu 2019; _cites Bruzzone 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990153-6) | Table 2, p. 8, row 14; `ORC-AQ66X44SOD` |  |
 | 1168.15 | eutectic: L -> CdGd + (βGd) | L: Cd 0.265; CdGd: Cd 0.49; (βGd): Cd 0.226 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 5; `ORC-R354FUMQ43` |  |
-| 1168 | liq. -> CdGd + bcc | liq.: Gd 0.7631; CdGd: Gd 0.47; bcc: Gd 0.8329 | model | [2] Liu 2019 | Table 2, p. 8, row 12; `ORC-EA7CVCQNNR` |  |
-| 1168 | liq. -> CdGd + bcc | liq.: Gd 0.735; CdGd: Gd 0.51; bcc: Gd 0.774 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 13; `ORC-XLC535ZMID` |  |
+| 1168 | eutectic: liq. -> CdGd + bcc | liq.: Gd 0.7631; CdGd: Gd 0.47; bcc: Gd 0.8329 | model | [2] Liu 2019 | Table 2, p. 8, row 12; `ORC-EA7CVCQNNR` |  |
+| 1168 | eutectic: liq. -> CdGd + bcc | liq.: Gd 0.735; CdGd: Gd 0.51; bcc: Gd 0.774 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 13; `ORC-XLC535ZMID` |  |
 | 1166.05 | eutectic: L -> CdGd + (βGd) | L: Cd 0.269; CdGd: Cd 0.493; (βGd): Cd 0.223 | model | [1] Azza 2024 | Table 3, p. 7, row 6; `ORC-S626OT4KIE` |  |
 | 1102.95 | peritectic: L + α- Cd2Gd -> Cd3Gd | L: Cd 0.789; α- Cd2Gd: Cd 0.666; Cd3Gd: Cd 0.75 | model | [1] Azza 2024 | Table 3, p. 7, row 19; `ORC-GPM7WCTABW` |  |
 | 1092.15 | peritectic: L + α- Cd2Gd -> Cd3Gd | L: Cd 0.79; α- Cd2Gd: Cd 0.671; Cd3Gd: Cd 0.75 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 18; `ORC-BHLKFCQTXL` |  |
@@ -176,9 +176,9 @@ Table: Invariant reactions reported in the literature for the Cd–Gd system (74
 | 738 | liq. + Cd6Gd -> Cd8Gd | liq.: Gd 0.0015; Cd6Gd: Gd 0.1429; Cd8Gd: Gd 0.1111 | model | [2] Liu 2019 | Table 2, p. 8, row 34; `ORC-H6K6BOYJQB` |  |
 | 738 | liq. + Cd6Gd -> Cd8Gd | liq.: Gd 0.0047; Cd6Gd: Gd 0.1429; Cd8Gd: Gd 0.1111 | model | [2] Liu 2019 | Table 2, p. 8, row 33; `ORC-HAVOOZRMWU` |  |
 | 600 | Cd45Gd11 + Cd6Gd -> Cd58Gd13 | Cd45Gd11: Gd 0.1964; Cd6Gd: Gd 0.1429; Cd58Gd13: Gd 0.1831 | model | [2] Liu 2019 | Table 2, p. 8, row 37; `ORC-JOHFIYSAWO` |  |
-| 594 | liq. -> hcp + Cd8Gd | liq.: Gd 0; hcp: Gd 0; Cd8Gd: Gd 0.1111 | model | [2] Liu 2019 | Table 2, p. 8, row 39; `ORC-MDT335VI75` |  |
+| 594 | eutectic: liq. -> hcp + Cd8Gd | liq.: Gd 0; hcp: Gd 0; Cd8Gd: Gd 0.1111 | model | [2] Liu 2019 | Table 2, p. 8, row 39; `ORC-MDT335VI75` |  |
 | 593.15 | eutectic: L -> (Cd) + Cd8Gd | L: Cd 0.998; (Cd): Cd 1; Cd8Gd: Cd 0.889 | experimental | [1] Azza 2024; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 3, p. 7, row 30; `ORC-DU7GJTEL5M` |  |
-| 593 | liq. -> hcp + Cd8Gd | liq.: Gd 0.002; hcp: Gd 0; Cd8Gd: Gd 0.113 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 41; `ORC-TW2CBW6PWJ` |  |
+| 593 | eutectic: liq. -> hcp + Cd8Gd | liq.: Gd 0.002; hcp: Gd 0; Cd8Gd: Gd 0.113 | experimental | [2] Liu 2019; _cites Reichmann 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.07.211) | Table 2, p. 8, row 41; `ORC-TW2CBW6PWJ` |  |
 | 592.15 | eutectic: L -> (Cd) + Cd8Gd | L: Cd 0.996; (Cd): Cd 1; Cd8Gd: Cd 0.889 | model | [1] Azza 2024 | Table 3, p. 7, row 31; `ORC-76JOHZBQSJ` |  |
 | 589.15 | eutectic: L -> (Cd) + Cd6Gd | L: Cd 0.975; (Cd): Cd 1; Cd6Gd: Cd 0.857 | experimental | [1] Azza 2024; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02877453) | Table 3, p. 7, row 27; `ORC-75EJGEETG5` |  |
 

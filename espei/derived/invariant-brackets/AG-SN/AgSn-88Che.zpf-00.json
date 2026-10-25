@@ -251,7 +251,7 @@
     "x0": 0.962,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Ag3Sn + bct",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -270,7 +270,7 @@
     "x0": 0.962,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Ag3Sn + bct",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

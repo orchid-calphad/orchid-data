@@ -1,20 +1,21 @@
 # Fe3Ni: enthalpy of formation
 
-> Enthalpy of formation of Fe3Ni: 1 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Fe3Ni: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe3Ni.html · Markdown: https://data.orchid-project.org/compounds/Fe3Ni.md
 
-1 accepted literature formation-enthalpy value(s) (DFT 1).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [Fe–Ni](https://data.orchid-project.org/systems/FE-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe3Ni reported in the literature (1)
+Table: Enthalpy of formation of Fe3Ni reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | 4.3 kJ/mol-atom | Fe3Ni D03 | 0 | DFT | first-principles (atomistic) calculations | [Fe–Ni](https://data.orchid-project.org/systems/FE-NI.html) | [1] Cacciamani 2010 | Table 3, p. 7, row 5; `ORC-3Q6NMA327L` |  |
+| 5.2 kJ/mol-atom | Fe3Ni L12 | 0 | DFT | first-principles (atomistic) calculations | [Fe–Ni](https://data.orchid-project.org/systems/FE-NI.html) | [1] Cacciamani 2010 | Table 3, p. 7, row 4; `ORC-IDNJTWI7MU` |  |
 
 ### Uncertainty budget
 
@@ -24,7 +25,8 @@ Table: Uncertainty budget of the literature values of Fe3Ni
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 4.3 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 4.3 | kJ/mol-atom |  | 0.05 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 5.2 | kJ/mol-atom |  | 0.05 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## Sources
 

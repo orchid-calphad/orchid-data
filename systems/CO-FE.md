@@ -1,10 +1,10 @@
 # Co–Fe system
 
-> Co–Fe system: 17 accepted literature values (phase equilibrium 9, phase transition 7, mixing / partial 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Fe system: 10 accepted literature values (phase equilibrium 9, mixing / partial 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-FE.html · Markdown: https://data.orchid-project.org/systems/CO-FE.md
 
-17 accepted literature values from 3 paper(s) (experimental 13, model 3, DFT 1); 4 calculated phase diagram(s).
+10 accepted literature values from 2 paper(s) (experimental 9, DFT 1); 4 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-FE.json) · [CSV](https://data.orchid-project.org/systems/CO-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-FE/CoFe-02Ohn.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CO-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-FE.html) · [Markdown](https://data.orchid-project.org/systems/CO-FE.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
-| model | 3 |
+| experimental | 9 |
 | DFT | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 7 |
 | phase equilibrium | 9 |
 | mixing / partial | 1 |
 
@@ -55,20 +53,6 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (7)
-
-Table: Phase transition, Co–Fe system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 193.15 K | 193.15 | other | model | [1] Ohnuma 2002 | p. 13; `ORC-PXM4NTONOZ` | “Without the interaction = ⌬bB2/A2 = 0), the A2/B2 transition (i.e. ⌬TB2/A2 c temperature of the equiatomic FeCo compound decreases further down to ⫺80°C.” |
-| Phase transition | 1766.9 K | 1766.9 |  | experimental | [2] Rodriguez 2015 | p. 4; `ORC-AHWWGRXPGJ.d3b3e9` | “Correcting those values to ITS - 90, and converting to Kelvin, yields results of 1766.9 K and 1767.6 K 71 K.” |
-| Phase transition | 1766.9 K | 1766.9 |  | model | [2] Rodriguez 2015 | p. 4; `ORC-G6SAJRGCMY.4ed39a` | “The phase diagram shows the melting temperature of iron and cobalt to be 1809 K and 1766.9 K, respectively.” |
-| Phase transition | 1767.6 K | 1767.6 |  | experimental | [2] Rodriguez 2015; _cites Vandusen 1947_ | p. 4; `ORC-AHWWGRXPGJ.64f265` | “Correcting those values to ITS - 90, and converting to Kelvin, yields results of 1766.9 K and 1767.6 K 71 K.” |
-| Phase transition | 1809 K | 1809 |  | experimental | [2] Rodriguez 2015; _cites Harris 1953_ | p. 4; `ORC-AYLREHGFFP.4b774c` | “When corrected to the latest International Temperature Scale, ITS - 90 \[20\], and converted to Kelvin, those temperatures become 1809 K72 K and 1811.4 K 72 K.” |
-| Phase transition | 1809 K | 1809 |  | model | [2] Rodriguez 2015 | p. 4; `ORC-G6SAJRGCMY.221df2` | “The phase diagram shows the melting temperature of iron and cobalt to be 1809 K and 1766.9 K, respectively.” |
-| Phase transition | 1811.4 K | 1811.4 |  | experimental | [2] Rodriguez 2015; _cites Preston-Thomas 1990_ [doi](https://doi.org/10.1088/0026-1394/27/1/002) | p. 4; `ORC-AYLREHGFFP.600fb5` | “When corrected to the latest International Temperature Scale, ITS - 90 \[20\], and converted to Kelvin, those temperatures become 1809 K72 K and 1811.4 K 72 K.” |
-
 ### Phase equilibrium (9)
 
 Table: Phase equilibrium, Co–Fe system
@@ -91,15 +75,14 @@ Table: Mixing / partial, Co–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.392 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Fe 0.5_ | DFT | [3] Bracq 2021 | Table 1, p. 4, row 2; `ORC-HLNK5SU4RE.f4313f` |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.392 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Fe 0.5_ | DFT | [2] Bracq 2021 | Table 1, p. 4, row 2; `ORC-HLNK5SU4RE.f4313f` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Ikuo Ohnuma, Hirotoshi Enoki, Osamu Ikeda, Ryosuke Kainuma, Hiroshi Ohtani, Bo Sundman et al., Phase equilibria in the Fe–Co binary system, Acta Materialia 50, 379-393 (2002). [doi:10.1016/s1359-6454(01)00337-8](https://doi.org/10.1016/s1359-6454%2801%2900337-8)
-2. Justin E. Rodriguez, Douglas M. Matson, Thermodynamic modeling of the solidification path of levitated Fe–Co alloys, Calphad 49, 87-100 (2015). [doi:10.1016/j.calphad.2015.03.001](https://doi.org/10.1016/j.calphad.2015.03.001)
-3. Guillaume Bracq, Jean-Claude Crivello, Mathilde Laurent-Brocq, Jean-Marc Joubert, Ivan Guillot, What is the Enthalpy Contribution to the Stabilization of the Co–Cr–Fe–Mn–Ni Faced-centered Cubic Solid Solution?, J. Phase Equilib. Diffus. 42, 561-570 (2021). [doi:10.1007/s11669-021-00922-9](https://doi.org/10.1007/s11669-021-00922-9)
+2. Guillaume Bracq, Jean-Claude Crivello, Mathilde Laurent-Brocq, Jean-Marc Joubert, Ivan Guillot, What is the Enthalpy Contribution to the Stabilization of the Co–Cr–Fe–Mn–Ni Faced-centered Cubic Solid Solution?, J. Phase Equilib. Diffus. 42, 561-570 (2021). [doi:10.1007/s11669-021-00922-9](https://doi.org/10.1007/s11669-021-00922-9)
 
 ## Please cite
 

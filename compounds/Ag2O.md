@@ -32,9 +32,9 @@ Table: Uncertainty budget of the literature values of Ag2O
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -30.54 | kJ/mol (basis unstated) |  | 0.005 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -30.54 | kJ/mol (basis unstated) |  | 0.005 | 9.6 (solution_reaction_calorimetry, calibrated) |  |  |  | 9.6 |
 | -26.53 | kJ/mol (basis unstated) |  | 0.005 | 10.5 (evaluated_compilation, calibrated) |  |  |  | 10.5 |
-| -22.6 | kJ/mol (basis unstated) |  | 0.05 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -22.6 | kJ/mol (basis unstated) |  | 0.05 | 9.6 (solution_reaction_calorimetry, calibrated) |  |  |  | 9.6 |
 | -31.1 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -30.68 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -29.99 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |

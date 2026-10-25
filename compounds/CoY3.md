@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of CoY3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -15.8 | kJ/mol-atom | 4.98 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 4.98 |
-| -16.96 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -16.96 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

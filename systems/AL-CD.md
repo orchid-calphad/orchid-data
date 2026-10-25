@@ -1,10 +1,10 @@
 # Al–Cd system
 
-> Al–Cd system: 74 accepted literature values (phase equilibrium 32, phase transition 30, activity / EMF / Gibbs energy 7, invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cd system: 72 accepted literature values (phase equilibrium 32, phase transition 30, activity / EMF / Gibbs energy 7, invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CD.html · Markdown: https://data.orchid-project.org/systems/AL-CD.md
 
-74 accepted literature values from 2 paper(s) (experimental 67, model 3, unspecified 4); 1 calculated phase diagram(s).
+72 accepted literature values from 2 paper(s) (experimental 67, model 1, unspecified 4); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CD.json) · [CSV](https://data.orchid-project.org/systems/AL-CD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CD/AlCd-82McA.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AL-CD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CD.html) · [Markdown](https://data.orchid-project.org/systems/AL-CD.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 67 |
-| model | 3 |
+| model | 1 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 4 |
+| invariant reaction | 2 |
 | phase transition | 30 |
 | phase equilibrium | 32 |
 | heat capacity / entropy / enthalpy | 1 |
@@ -48,13 +48,11 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Cd system (4)
+Table: Invariant reactions reported in the literature for the Al–Cd system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 923.15 | monotectic: L1 -> α + L2 | L1: Cd 0.018; α: Cd 9.000e-4; L2: Cd 0.949 | unspecified | [1] McAlister 1982 | Table I, p. 4, row 1; `ORC-IH5JLZMIQR` |  |
-| 923.15 | monotectic |  | model | [1] McAlister 1982 | p. 4; `ORC-NATEKN7AFK` | “The fit carried out in this study yields a maximum solubility of Cd of 0.091 at.% at a monotectic temperature of 650 ~” |
-| 593.15 | eutectic |  | model | [1] McAlister 1982 | p. 4; `ORC-HVUMJ3DXBQ` | “Fitting of the data in the present work suggests it to be a eutectic at 320 ~” |
 | 593.15 | eutectic: L -> α + ε | L: Cd 0.998; α: Cd 2.000e-5; ε: Cd 1 | unspecified | [1] McAlister 1982 | Table I, p. 4, row 2; `ORC-SFNTUE5KAU` |  |
 
 ## Other properties

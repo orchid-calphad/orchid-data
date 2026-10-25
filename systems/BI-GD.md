@@ -1,10 +1,10 @@
 # Bi–Gd system
 
-> Bi–Gd system: 54 accepted literature values (invariant reaction 22, formation 19, crystal structure 11, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Gd system: 48 accepted literature values (formation 19, invariant reaction 17, crystal structure 11, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-GD.html · Markdown: https://data.orchid-project.org/systems/BI-GD.md
 
-54 accepted literature values from 1 paper(s) (experimental 13, model 20, DFT 15, unspecified 6); 1 calculated phase diagram(s).
+48 accepted literature values from 1 paper(s) (experimental 13, model 14, DFT 15, unspecified 6); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-GD.json) · [CSV](https://data.orchid-project.org/systems/BI-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-GD/BiGd-13Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/BI-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-GD.html) · [Markdown](https://data.orchid-project.org/systems/BI-GD.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 13 |
-| model | 20 |
+| model | 14 |
 | DFT | 15 |
 | unspecified | 6 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 22 |
-| phase transition | 2 |
+| invariant reaction | 17 |
+| phase transition | 1 |
 | formation | 19 |
 | crystal structure | 11 |
 
@@ -61,31 +61,26 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Gd system (22)
+Table: Invariant reactions reported in the literature for the Bi–Gd system (17)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2043 | congruent melting: L -> GdBi | L: Bi 0.5; GdBi: Bi 0.5, Gd 0.5 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 7; `ORC-XWWO4X73WG` |  |
 | 2042 | congruent melting: L -> GdBi | L: Bi 0.5; GdBi: Bi 0.5, Gd 0.5 | model | [1] Wang 2013 | Table 1, p. 2, row 8; `ORC-TBTJG7UXWF` |  |
 | 1853 | peritectic: L + GdBi -> Gd4Bi3 | L: Bi 0.37; GdBi: Bi 0.5, Gd 0.5; Gd4Bi3: Bi 0.428571, Gd 0.571429 | model | [1] Wang 2013 | Table 1, p. 2, row 6; `ORC-IICWPROLOK` |  |
-| 1853 | peritectic |  | model | [1] Wang 2013 | p. 4; `ORC-KH3QV2Q7ED.5fcdb5` | “The calculated peritectic temperatures of the intermetallic compounds, Gd5Bi3, Gd4Bi3, and GdBi2, are 1753, 1853 and 1183 K, respectively, and the congruent melting temperature of GdBi is 2042 K.” |
 | 1853 | peritectic: L + GdBi -> Gd4Bi3 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1993_ | p. 1; `ORC-N2PIKMNKCY.14c96f` | “The Gd5Bi3, Gd4Bi3 and GdBi phases were formed from the peritectic reactions, Lþ Gd4Bi32Gd5Bi3 at 1753 K, LþGdBi2Gd4Bi3 at 1853 K and LþGdBi2GdBi2 at 1183 K, respectively, whereas the GdBi phase melted congruently at about 2043 K.” |
 | 1853 | peritectic: L + GdBi -> Gd4Bi3 | L: Bi 0.36; GdBi: Bi 0.5, Gd 0.5; Gd4Bi3: Bi 0.428571, Gd 0.571429 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 5; `ORC-UQ5HFLUAT3` |  |
 | 1753 | peritectic: L + Gd4Bi3 -> Gd5Bi3 | L: Bi 0.32; Gd4Bi3: Bi 0.428571, Gd 0.571429; Gd5Bi3: Bi 0.375, Gd 0.625 | model | [1] Wang 2013 | Table 1, p. 2, row 4; `ORC-6YCPEMTYLT` |  |
 | 1753 | peritectic: L + Gd4Bi3 -> Gd5Bi3 | L: Bi 0.325; Gd4Bi3: Bi 0.428571, Gd 0.571429; Gd5Bi3: Bi 0.375, Gd 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 3; `ORC-IMFUDQ7RMD` |  |
-| 1753 | peritectic |  | model | [1] Wang 2013 | p. 4; `ORC-KH3QV2Q7ED.0d39c0` | “The calculated peritectic temperatures of the intermetallic compounds, Gd5Bi3, Gd4Bi3, and GdBi2, are 1753, 1853 and 1183 K, respectively, and the congruent melting temperature of GdBi is 2042 K.” |
 | 1753 | peritectic: L + Gd4Bi3 -> Gd5Bi3 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1993_ | p. 1; `ORC-N2PIKMNKCY.a091fd` | “The Gd5Bi3, Gd4Bi3 and GdBi phases were formed from the peritectic reactions, Lþ Gd4Bi32Gd5Bi3 at 1753 K, LþGdBi2Gd4Bi3 at 1853 K and LþGdBi2GdBi2 at 1183 K, respectively, whereas the GdBi phase melted congruently at about 2043 K.” |
 | 1353 | eutectic: L -> Hcp_A3 (Gd) + Gd5Bi3 |  | experimental | [1] Wang 2013 | p. 1; `ORC-EHJ4U7GE54.5e3fed` | “There were two eutectic reactions, L2Hcp_A3 (Gd)þGd5Bi3 at 1353 K and L2Rhomb (Bi)þGdBi2 at 542 K.” |
 | 1353 | eutectic: L -> Gd5Bi3 + Hcp_A3 (Gd) | L: Bi 0.149; Gd5Bi3: Bi 0.375, Gd 0.625 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 1; `ORC-F4ZSXLOPDZ` |  |
 | 1353 | eutectic: L -> Gd5Bi3 + Hcp_A3 (Gd) | L: Bi 0.146; Gd5Bi3: Bi 0.375, Gd 0.625 | model | [1] Wang 2013 | Table 1, p. 2, row 2; `ORC-VS3RA2AHRN` |  |
-| 1353 | eutectic |  | model | [1] Wang 2013 | p. 4; `ORC-W7UBW2JTXA.e94d7a` | “The eutectic reaction temperatures for L2Fcc_A1 (Gd)þGd5Bi3 and L2Rhomb (Bi)þGdBi2 are 1353 and 541 K, respectively.” |
 | 1183 | peritectic: L + GdBi -> GdBi2 | L: Bi 0.82; GdBi: Bi 0.5, Gd 0.5; GdBi2: Bi 0.666667, Gd 0.333333 | model | [1] Wang 2013 | Table 1, p. 2, row 10; `ORC-ECFM7NUL7O` |  |
 | 1183 | peritectic: L + GdBi -> GdBi2 | L: Bi 0.83; GdBi: Bi 0.5, Gd 0.5; GdBi2: Bi 0.666667, Gd 0.333333 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 9; `ORC-GACESAUBNS` |  |
-| 1183 | peritectic |  | model | [1] Wang 2013 | p. 4; `ORC-KH3QV2Q7ED.9520ff` | “The calculated peritectic temperatures of the intermetallic compounds, Gd5Bi3, Gd4Bi3, and GdBi2, are 1753, 1853 and 1183 K, respectively, and the congruent melting temperature of GdBi is 2042 K.” |
 | 1183 | peritectic: L + GdBi -> GdBi2 |  | experimental | [1] Wang 2013; _cites Abulkhaev 1993_ | p. 1; `ORC-N2PIKMNKCY.2ccaa6` | “The Gd5Bi3, Gd4Bi3 and GdBi phases were formed from the peritectic reactions, Lþ Gd4Bi32Gd5Bi3 at 1753 K, LþGdBi2Gd4Bi3 at 1853 K and LþGdBi2GdBi2 at 1183 K, respectively, whereas the GdBi phase melted congruently at about 2043 K.” |
 | 542 | eutectic: L -> Rhomb (Bi) + GdBi2 |  | experimental | [1] Wang 2013 | p. 1; `ORC-EHJ4U7GE54.811771` | “There were two eutectic reactions, L2Hcp_A3 (Gd)þGd5Bi3 at 1353 K and L2Rhomb (Bi)þGdBi2 at 542 K.” |
 | 542 | eutectic: L -> GdBi2 + Rhomb_A7 (Bi) | L: Bi 0.985; GdBi2: Bi 0.666667, Gd 0.333333 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 11; `ORC-WKEDIDSW4V` |  |
-| 541 | eutectic |  | model | [1] Wang 2013 | p. 4; `ORC-W7UBW2JTXA.3b58a1` | “The eutectic reaction temperatures for L2Fcc_A1 (Gd)þGd5Bi3 and L2Rhomb (Bi)þGdBi2 are 1353 and 541 K, respectively.” |
 | 541 | eutectic: L -> GdBi2 + Rhomb_A7 (Bi) | L: Bi 0.989; GdBi2: Bi 0.666667, Gd 0.333333 | model | [1] Wang 2013 | Table 1, p. 2, row 12; `ORC-XMFCDMHDMD` |  |
 
 ## Formation enthalpies
@@ -118,13 +113,12 @@ Table: Enthalpies of formation, Bi–Gd system (19)
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Bi–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2042 K | 2042 | congruent transformation | model | [1] Wang 2013 | p. 4; `ORC-KH3QV2Q7ED.fb1cc5` | “The calculated peritectic temperatures of the intermetallic compounds, Gd5Bi3, Gd4Bi3, and GdBi2, are 1753, 1853 and 1183 K, respectively, and the congruent melting temperature of GdBi is 2042 K.” |
 | Phase transition | 2043 K | 2043 | congruent melting | experimental | [1] Wang 2013; _cites Abulkhaev 1993_ | p. 1; `ORC-N2PIKMNKCY.0a43c7` | “The Gd5Bi3, Gd4Bi3 and GdBi phases were formed from the peritectic reactions, Lþ Gd4Bi32Gd5Bi3 at 1753 K, LþGdBi2Gd4Bi3 at 1853 K and LþGdBi2GdBi2 at 1183 K, respectively, whereas the GdBi phase melted congruently at about 2043 K.” |
 
 ### Crystal structure (11)

@@ -19,14 +19,14 @@ Table: Phases of the Nd–Zn system (16)
 | [HCP_A3](#phase-nd-zn-hcp-a3); _phase:nd-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2498.93 K, x(Zn) 1–1 | 4 | 4 |
 | [LIQUID](#phase-nd-zn-liquid); _phase:nd-zn:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 692.67–2500 K, x(Zn) 0–1 | 78 | 4 |
 | [ND13ZN58](#phase-nd-zn-nd13zn58); _phase:nd-zn:nd13zn58_ | Y13Zn58 · hP146 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1188.35 K, x(Zn) 0.8169–0.8169 | 22 | 4 |
-| [ND2ZN17](#phase-nd-zn-nd2zn17); _phase:nd-zn:nd2zn17_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1268.46 K, x(Zn) 0.89474–0.89474 | 27 | 4 |
-| [ND3ZN11](#phase-nd-zn-nd3zn11); _phase:nd-zn:nd3zn11_ | Al11La3 · oI28 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1151.72 K, x(Zn) 0.78571–0.78571 | 30 | 4 |
+| [ND2ZN17](#phase-nd-zn-nd2zn17); _phase:nd-zn:nd2zn17_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1268.46 K, x(Zn) 0.89474–0.89474 | 28 | 4 |
+| [ND3ZN11](#phase-nd-zn-nd3zn11); _phase:nd-zn:nd3zn11_ | Al11La3 · oI28 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1151.72 K, x(Zn) 0.78571–0.78571 | 31 | 4 |
 | [ND3ZN22](#phase-nd-zn-nd3zn22); _phase:nd-zn:nd3zn22_ | Ce3Zn22 · tI100 · I4_1/amd (141) | tier B: DFT-supported (unique MP + OQMD match) | stable in 4 of 4 calculated diagram(s): 300–1235.22 K, x(Zn) 0.88–0.88 | 22 | 4 |
 | [NDZN_B2](#phase-nd-zn-ndzn-b2); _phase:nd-zn:ndzn-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1195.5 K, x(Zn) 0.5–0.5 | 24 | 3 |
-| [NDZN11](#phase-nd-zn-ndzn11); _phase:nd-zn:ndzn11_ | BaCd11 · tI48 · I4_1/amd (141) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1054.56 K, x(Zn) 0.91667–0.91667 | 9 | 2 |
+| [NDZN11](#phase-nd-zn-ndzn11); _phase:nd-zn:ndzn11_ | BaCd11 · tI48 · I4_1/amd (141) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1054.56 K, x(Zn) 0.91667–0.91667 | 10 | 2 |
 | [NDZN11_HT](#phase-nd-zn-ndzn11-ht); _phase:nd-zn:ndzn11-ht_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 815.24–1063.71 K, x(Zn) 0.91667–0.91667 | 6 | 2 |
 | [NDZN11_LT](#phase-nd-zn-ndzn11-lt); _phase:nd-zn:ndzn11-lt_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–815.24 K, x(Zn) 0.91667–0.91667 | 6 | 2 |
-| [NDZN2](#phase-nd-zn-ndzn2); _phase:nd-zn:ndzn2_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1200.62 K, x(Zn) 0.66667–0.66667 | 36 | 4 |
+| [NDZN2](#phase-nd-zn-ndzn2); _phase:nd-zn:ndzn2_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1200.62 K, x(Zn) 0.66667–0.66667 | 38 | 4 |
 | [NDZN3](#phase-nd-zn-ndzn3); _phase:nd-zn:ndzn3_ | YZn3 · oP16 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1135.57 K, x(Zn) 0.75–0.75 | 14 | 4 |
 
 ## BCC_A2 (Nd–Zn)
@@ -427,7 +427,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Ni17Th2 · hP38 · P6_3/mmc — NdZn-08Qi.tdb: 'Prototype Ni17Th2 (hP38, P6_3/mmc), RT'
 - Stoichiometry: Nd 0.1053, Zn 0.8947
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1268.46 K, x(Zn) 0.89474–0.89474
-- Literature: 27 values (27 accepted) from 4 papers
+- Literature: 28 values (28 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:nd2zn17)
 
 Names (9): _corpus: _corpus:phase:nd-zn:nd2zn17  
@@ -490,7 +490,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_71_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Nd 0.2143, Zn 0.7857
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1151.72 K, x(Zn) 0.78571–0.78571
-- Literature: 30 values (30 accepted) from 4 papers
+- Literature: 31 values (31 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:nd3zn11)
 
 Names (9): _corpus: _corpus:phase:nd-zn:nd3zn11  
@@ -669,7 +669,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Nd 0.0833, Zn 0.9167
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1054.56 K, x(Zn) 0.91667–0.91667
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:ndzn11)
 
 Names (5): _corpus: _corpus:phase:nd-zn:ndzn11  
@@ -796,7 +796,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_74_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Nd 0.3333, Zn 0.6667
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1200.62 K, x(Zn) 0.66667–0.66667
-- Literature: 36 values (36 accepted) from 4 papers
+- Literature: 38 values (38 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:ndzn2)
 
 Names (9): _corpus: _corpus:phase:nd-zn:ndzn2  

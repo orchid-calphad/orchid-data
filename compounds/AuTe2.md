@@ -1,0 +1,99 @@
+# AuTe2: enthalpy of formation
+
+> Enthalpy of formation of AuTe2: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+
+HTML: https://data.orchid-project.org/compounds/AuTe2.html · Markdown: https://data.orchid-project.org/compounds/AuTe2.md
+
+4 accepted literature formation-enthalpy value(s) (experimental 4); experimental median -3.455 kJ/mol-atom (n = 4); Materials Project -8.675 kJ/mol-atom (mp-aaaabdtz); OQMD -8.029 kJ/mol-atom (oqmd-6956).
+
+Systems: [Au–Te](https://data.orchid-project.org/systems/AU-TE.html)
+
+## Literature values
+
+Table: Enthalpy of formation of AuTe2 reported in the literature (4)
+
+| Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
+|---:|---|---:|---|---|---|---|---|---|
+| -4.74 kJ/mol-atom | AuTe2 | 298.15 | experimental | vapor pressure measurements | [Au–Te](https://data.orchid-project.org/systems/AU-TE.html) | [1] Wang 2006; _cites Andon 1971_ [doi](https://doi.org/10.1039/j19710001788) | p. 3; `ORC-PIT3OT5WS4.0347a2` | “The data for enthalpy of formation of AuTe2 obtained from vapor pressure measurements by Andon et al. \[21\] and Veale and Barrett \[13\] are -4.74 and -3.91 kJ per mole atoms, respectively, at 298 K.” |
+| -3.91 kJ/mol-atom | AuTe2 | 298.15 | experimental | vapor pressure measurements | [Au–Te](https://data.orchid-project.org/systems/AU-TE.html) | [1] Wang 2006; _cites Veale 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990110-5) | p. 3; `ORC-PIT3OT5WS4.72d95c` | “The data for enthalpy of formation of AuTe2 obtained from vapor pressure measurements by Andon et al. \[21\] and Veale and Barrett \[13\] are -4.74 and -3.91 kJ per mole atoms, respectively, at 298 K.” |
+| -3 kJ/mol-atom | AuTe2 | 298.15 | experimental | drop method | [Au–Te](https://data.orchid-project.org/systems/AU-TE.html) | [1] Wang 2006 | p. 3; `ORC-PAHTSG7EPU` | “They obtained the enthalpy of formation of AuTe2 compound at 298 K (-3.0 kJ per mole of atoms) and the enthalpy of fusion (19.1 kJ per mole of atoms).” |
+| -2.5 kJ/mol-atom | AuTe2 | 728 | experimental | direct reaction calorimetry | [Au–Te](https://data.orchid-project.org/systems/AU-TE.html) | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | p. 3; `ORC-7O4F7ARINC.45bbae` | “The enthalpy of formation of AuTe2 compound at 728 K is -2.5 kJ per mole of atoms and the enthalpy of fusion at 737 K is 18.6 kJ per mole of atoms, which were measured by direct reaction calorimetry \[3\].” |
+
+### Uncertainty budget
+
+Components kept separate, in the value's unit (literature [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md), [UNCERTAINTY_CALIBRATION.md](https://data.orchid-project.org/literature/UNCERTAINTY_CALIBRATION.md)): effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter). The method floor is the robust between-study scatter of the method class in ORCHID (calibrated) or a documented prior; printed values and printed uncertainties are unchanged.
+
+Table: Uncertainty budget of the literature values of AuTe2
+
+| Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
+|---:|---|---:|---:|---|---:|---:|---:|---:|
+| -4.74 | kJ/mol-atom |  | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -3.91 | kJ/mol-atom |  | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -3 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -2.5 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of AuTe2
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabdtz | -8.675 | -0.089908 | Pma2 | 0 | 0 | no |
+| OQMD | oqmd-6956 | -8.029 | -0.083212 | Pma2 | 0 | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+
+## Sources
+
+1. Jianhua Wang, Xiao-gang Lu, Bo Sundman, Xuping Su, Thermodynamic reassessment of the Au–Te system, Journal of Alloys and Compounds 407, 106-111 (2006). [doi:10.1016/j.jallcom.2005.05.038](https://doi.org/10.1016/j.jallcom.2005.05.038)
+
+## Please cite
+
+- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+
+Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
+
+Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+
+```bibtex
+@misc{orchid_literature_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID literature values}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-literature},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-literature},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_dft_benchmark_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-dft-benchmark},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-dft-benchmark},
+  note      = {Version 1, machine-extracted}
+}
+
+@misc{orchid_data_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID data}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-orchid-data},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},
+  note      = {Version 1, machine-extracted}
+}
+```
+
+---
+
+Derived data CC BY 4.0 ([licence](https://creativecommons.org/licenses/by/4.0/)): cite ORCHID ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original sources. Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Field reference: [SCHEMA.md](https://data.orchid-project.org/literature/SCHEMA.md). Machine-readable guide: [llms.txt](https://data.orchid-project.org/llms.txt). Found an error? The report link of a value (Markdown: its id, ORC-..., in the Location column) opens a pre-filled GitHub issue, https://github.com/orchid-calphad/orchid-data/issues/new?template=report-value-error.yml&record_id=\<id>, carrying only the record id, source and value; [how to contribute](https://orchid-project.org/contribute/).

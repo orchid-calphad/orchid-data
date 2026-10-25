@@ -16,9 +16,9 @@ Table: Phases of the Na–Sb system (7)
 | [BCC_A2](#phase-na-sb-bcc-a2); _phase:na-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–370.87 K, x(Sb) 0–0 | 0 | 2 |
 | [FCC_A1](#phase-na-sb-fcc-a1); _phase:na-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-na-sb-hcp-a3); _phase:na-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-na-sb-liquid); _phase:na-sb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 370.87–2500 K, x(Sb) 0–1 | 12 | 2 |
+| [LIQUID](#phase-na-sb-liquid); _phase:na-sb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 370.87–2500 K, x(Sb) 0–1 | 14 | 2 |
 | [NA3SB_D018](#phase-na-sb-na3sb-d018); _phase:na-sb:na3sb-d018_ | Na3As · D0_18 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1168.13 K, x(Sb) 0.25–0.25 | 13 | 2 |
-| [NASB](#phase-na-sb-nasb); _phase:na-sb:nasb_ | LiAs · mP16 · P2_1/c (14) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–744.86 K, x(Sb) 0.5–0.5 | 18 | 2 |
+| [NASB](#phase-na-sb-nasb); _phase:na-sb:nasb_ | LiAs · mP16 · P2_1/c (14) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–744.86 K, x(Sb) 0.5–0.5 | 20 | 2 |
 
 ## RHOMBOHEDRAL_A7 (Na–Sb)
 
@@ -169,11 +169,11 @@ _assessment that models this phase_
 - Id: `phase:na-sb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 370.87–2500 K, x(Sb) 0–1
-- Literature: 12 values (11 accepted) from 1 papers
+- Literature: 14 values (13 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sb:liquid)
 
-Names (4): _corpus: _corpus:phase:na-sb:liquid  
-_paper: _paper:10.1016/j.tca.2013.07.009:liq  
+Names (5): _corpus: _corpus:phase:na-sb:liquid  
+_paper: _paper:10.1016/j.jallcom.2016.11.003:liquid, paper:10.1016/j.tca.2013.07.009:liq  
 _tdb: _tdb:NaSb-13Liu.tdb:LIQUID, tdb:NaSb-17Dre.tdb:LIQUID  
 
 
@@ -198,7 +198,7 @@ Example references (4 of 4; assessments first):
 - [doi:10.1016/j.tca.2013.07.009](https://doi.org/10.1016/j.tca.2013.07.009) Yajun Liu, Jun Xu, Zhitao Kang, Jiang Wang, Thermodynamic descriptions and phase diagrams for Sb–Na and Sb–K binary systems, Thermochimica Acta 569, 119-126 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003) Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1002/zaac.19060500118](https://doi.org/10.1002/zaac.19060500118) C. H. Mathewson, Metallographische Mitteilung aus dem Institut für anorganische Chemie der Universität Göttingen. XXXIV. Natrium‐Blei‐, Natrium‐Kadmium‐, Natrium‐Wismut‐ und Natrium‐Antimonlegierungen, Z. Anorg. Chem. 50, 171-198 (1906).  
 _cited as the source of values for this phase_
 - [doi:10.1515/zna-1982-0612](https://doi.org/10.1515/zna-1982-0612) H. Redslob, G. Steinleitner, W. Freyland, Transition to Semiconducting Characteristics in Liquid Alkalimetal-Antimony-Alloys, Zeitschrift für Naturforschung A 37, 587-593 (1982).  
@@ -252,7 +252,7 @@ _cited as the source of values for this phase_
 - Structure: LiAs · mP16 · P2_1/c (14); type `st:lias-mp16`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Na 0.5000, Sb 0.5000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–744.86 K, x(Sb) 0.5–0.5
-- Literature: 18 values (17 accepted) from 2 papers
+- Literature: 20 values (19 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sb:nasb)
 
 Names (7): _corpus: _corpus:phase:na-sb:nasb  
@@ -280,9 +280,9 @@ _tdb: _tdb:NaSb-13Liu.tdb:NASB, tdb:NaSb-17Dre.tdb:NASB
 
 Example references (5 of 5; assessments first): 
 
-- [doi:10.1016/j.tca.2013.07.009](https://doi.org/10.1016/j.tca.2013.07.009) Yajun Liu, Jun Xu, Zhitao Kang, Jiang Wang, Thermodynamic descriptions and phase diagrams for Sb–Na and Sb–K binary systems, Thermochimica Acta 569, 119-126 (2013).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003) Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.tca.2013.07.009](https://doi.org/10.1016/j.tca.2013.07.009) Yajun Liu, Jun Xu, Zhitao Kang, Jiang Wang, Thermodynamic descriptions and phase diagrams for Sb–Na and Sb–K binary systems, Thermochimica Acta 569, 119-126 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1002/zaac.19060500118](https://doi.org/10.1002/zaac.19060500118) C. H. Mathewson, Metallographische Mitteilung aus dem Institut für anorganische Chemie der Universität Göttingen. XXXIV. Natrium‐Blei‐, Natrium‐Kadmium‐, Natrium‐Wismut‐ und Natrium‐Antimonlegierungen, Z. Anorg. Chem. 50, 171-198 (1906).  
 _cited as the source of values for this phase_

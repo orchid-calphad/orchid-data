@@ -1,10 +1,10 @@
 # Ba–Ge system
 
-> Ba–Ge system: 126 accepted literature values (crystal structure 66, invariant reaction 27, formation 21, phase transition 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Ge system: 119 accepted literature values (crystal structure 66, formation 21, invariant reaction 20, phase transition 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-GE.html · Markdown: https://data.orchid-project.org/systems/BA-GE.md
 
-126 accepted literature values from 1 paper(s) (experimental 46, model 30, DFT 20, unspecified 30); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+119 accepted literature values from 1 paper(s) (experimental 39, model 30, DFT 20, unspecified 30); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-GE.json) · [CSV](https://data.orchid-project.org/systems/BA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-GE/BaGe-19Ben.json) · [phases (13)](https://data.orchid-project.org/phases/pages/BA-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-GE.html) · [Markdown](https://data.orchid-project.org/systems/BA-GE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
+| experimental | 39 |
 | model | 30 |
 | DFT | 20 |
 | unspecified | 30 |
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
+| invariant reaction | 20 |
 | phase transition | 12 |
 | formation | 21 |
 | crystal structure | 66 |
@@ -70,7 +70,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ba–Ge system (27)
+Table: Invariant reactions reported in the literature for the Ba–Ge system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -84,22 +84,15 @@ Table: Invariant reactions reported in the literature for the Ba–Ge system (27
 | 1188 | peritectic: Liq + BaGe2 -> Ba3Ge4 | Liq: Ge 0.569; BaGe2: Ge 0.667; Ba3Ge4: Ge 0.571 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 15; `ORC-DIJSZOOBJJ` |  |
 | 1188 | peritectic |  | experimental | [1] Benhafid 2019 | p. 3; `ORC-FY7TE3CJZJ.d23afc` | “Two new compounds were observed: Ba5Ge3, peritectically formed at 1213 K and dimorphic Ba3Ge4, melting by peritectic reaction at 1188 K and transformed to low temperature form at about 613 K.” |
 | 1178 | eutectic: Liq -> βBa3Ge4 + BaGe | Liq: Ge 0.56; βBa3Ge4: Ge 0.571; BaGe: Ge 0.5 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 13; `ORC-RRZ6QFN6R5` |  |
-| 1178 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3; `ORC-WGCA4QD3KF.47220c` | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
 | 1168 | eutectic: Liq -> Ba5Ge3 + BaGe | Liq: Ge 0.427; Ba5Ge3: Ge 0.375; BaGe: Ge 0.5 | model | [1] Benhafid 2019 | Table 7, p. 9, row 9; `ORC-NJVNZIL3L6` |  |
-| 1168 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3; `ORC-WGCA4QD3KF.d0e9c9` | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
 | 1167 | eutectic: Liq -> Ba5Ge3 + BaGe | Liq: Ge 0.425; Ba5Ge3: Ge 0.375; BaGe: Ge 0.5 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 8; `ORC-DU35YVQKNS` |  |
 | 1088 | peritectic |  | model | [1] Benhafid 2019; _cites Massalski 1990_ | p. 3; `ORC-DNTZV6OYGL.514e50` | “This diagram presents four intermetallic compounds: BaGe melting congruently at 1428 K, while the Ba2Ge, BaGe2 and BaGe4 are formed by peritectic reactions at 1228, 1323 and 1088 K successively.” |
 | 1088 | peritectic: Liq + BaGe2 -> Ba6Ge25 | Liq: Ge 0.815; BaGe2: Ge 0.667; Ba6Ge25: Ge 0.806 | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 7, p. 9, row 19; `ORC-Z7G3C2KN7J` |  |
 | 1082.78 | peritectic: Liq + BaGe2 -> Ba6Ge25 | Liq: Ge 0.821; BaGe2: Ge 0.667; Ba6Ge25: Ge 0.806 | model | [1] Benhafid 2019 | Table 7, p. 9, row 20; `ORC-WRACHZHTYB` |  |
 | 1081.63 | eutectic: Liq -> Ba6Ge25 + Ba8Ge43 | Liq: Ge 0.8252; Ba6Ge25: Ge 0.806; Ba8Ge43: Ge 0.843 | model | [1] Benhafid 2019 | Table 7, p. 9, row 22; `ORC-A2DJR6I2FH` |  |
 | 1081 | eutectic: Liq -> Ba6Ge25 + Ba8Ge43 | Liq: Ge 0.826; Ba6Ge25: Ge 0.806; Ba8Ge43: Ge 0.843 | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 7, p. 9, row 21; `ORC-4VEHYMEQJH` |  |
-| 1081 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3; `ORC-OCSB4T3G3A` | “According to this study, there is an eutectic reaction at 1081 K and 82.5 at.% Ge and the compound BaGe4 is designed as Ba6Ge25.” |
-| 1081 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3; `ORC-WGCA4QD3KF.5c7ee4` | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
-| 1043 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3; `ORC-53CX2X3IRL.342740` | “Two eutectic reactions occur at the compositions of 4 at.% Ge at 838 K and 84 at.% Ge at 1043 K.” |
 | 934.79 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.115; Ba: Ge 0; Ba2Ge: Ge 0.333 | model | [1] Benhafid 2019 | Table 7, p. 9, row 3; `ORC-JYUBNXMAFZ` |  |
 | 913 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.075; Ba: Ge 0; Ba2Ge: Ge 0.333 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 2; `ORC-5XGJHQLEHE` |  |
-| 913 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3; `ORC-WGCA4QD3KF.f191dd` | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
-| 838 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3; `ORC-53CX2X3IRL.9b2210` | “Two eutectic reactions occur at the compositions of 4 at.% Ge at 838 K and 84 at.% Ge at 1043 K.” |
 | 818 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.04; Ba: Ge 0; Ba2Ge: Ge 0.333 | experimental | [1] Benhafid 2019; _cites Andrianov 1966_ | Table 7, p. 9, row 1; `ORC-LP4FZLQILO` |  |
 
 ## Formation enthalpies

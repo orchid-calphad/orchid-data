@@ -111,7 +111,7 @@
     "x0": 0.859,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L2 -> Cr + αY",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -130,7 +130,7 @@
     "x0": 0.859,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L2 -> Cr + αY",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

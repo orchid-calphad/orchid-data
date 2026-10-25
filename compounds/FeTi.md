@@ -115,10 +115,10 @@ Table: Uncertainty budget of the literature values of FeTi
 | -16.824 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | 12.055 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | 16.375 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -46.5 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -44.58 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| 74.45 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| 95 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -46.5 | kJ/mol-atom |  | 0.05 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -44.58 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 74.45 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 95 | kJ/mol-atom |  | 0.05 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 | -28.4 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -28.3 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -25.6 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |

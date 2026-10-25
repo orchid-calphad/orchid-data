@@ -1,10 +1,10 @@
 # Pd–Yb system
 
-> Pd–Yb system: 146 accepted literature values (formation 117, invariant reaction 18, phase transition 10, heat capacity / entropy / enthalpy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Yb system: 149 accepted literature values (formation 117, invariant reaction 18, phase transition 9, mixing / partial 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-YB.html · Markdown: https://data.orchid-project.org/systems/PD-YB.md
 
-146 accepted literature values from 1 paper(s) (experimental 27, model 111, DFT 8); 1 calculated phase diagram(s). 124 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+149 accepted literature values from 1 paper(s) (experimental 27, model 114, DFT 8); 1 calculated phase diagram(s). 125 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-YB.json) · [CSV](https://data.orchid-project.org/systems/PD-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-YB/PdYb-20Kar.json) · [phases (17)](https://data.orchid-project.org/phases/pages/PD-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-YB.html) · [Markdown](https://data.orchid-project.org/systems/PD-YB.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 27 |
-| model | 111 |
+| model | 114 |
 | DFT | 8 |
 
 Table: Accepted values by property group
@@ -21,8 +21,9 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 18 |
-| phase transition | 10 |
+| phase transition | 9 |
 | formation | 117 |
+| mixing / partial | 4 |
 | heat capacity / entropy / enthalpy | 1 |
 
 ## Calculated phase diagrams
@@ -165,13 +166,12 @@ Table: Enthalpies of formation, Pd–Yb system (58)
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (9)
 
 Table: Phase transition, Pd–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 553 K | 553 |  | model | [1] Kardellass 2020 | p. 9; `ORC-DKZTCBFBZP` | “As we can see the transition temperature calculated in this study was 553 K.” |
 | Phase transition | 958.15 K | 958.15 | other: Pd2Yb5_LT -> Pd2Yb5_HT; _Pd2Yb5_LT: Yb 0.714; Pd2Yb5_HT: Yb 0.714286_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 13; `ORC-3FA3PNGMTK` |  |
 | Phase transition | 1468.15 K | 1468.15 | other: Pd21Yb10_LT -> Pd21Yb10_HT; _Pd21Yb10_LT: Yb 0.322; Pd21Yb10_HT: Yb 0.322581_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 49; `ORC-ZWIJPLCTTK` |  |
 | Phase transition | 1633.15 K | 1633.15 | congruent melting: Pd5Yb3_HT -> Liq; _Pd5Yb3_HT: Yb 0.375; Liq: Yb 0.375_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 34; `ORC-4NYYWPG7KJ` |  |
@@ -209,8 +209,8 @@ Table: Formation, Pd–Yb system
 | Entropy of formation; _printed: ΔfS_ | -0.522 J/mol-atom/K | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 52; `ORC-ZL7KFCD54X.61f931` |  |
 | Entropy of formation; _printed: Entropies of formation_ | 7.518 J/mol-atom/K | 298.15 | Pd7RE; _alloy: Pd 0.875, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 11; `ORC-LLDPTN33PJ.13f5a7` |  |
 | Entropy of formation; _printed: Entropies of formation_ | 1.315 J/mol-atom/K | 298.15 | Pd7RE; _alloy: Pd 0.875, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 12; `ORC-YVBQB74GA5.ed664c` |  |
-| Entropy of formation | 7.518 J/mol-atom/K | 298.15 | Pd7Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 77; `ORC-HXHHIQG2M4.060c58` |  |
-| Entropy of formation | 1.315 J/mol-atom/K | 298.15 | Pd7Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 78; `ORC-TZO2IWWFDR.cd88c5` |  |
+| Entropy of formation | 7.518 J/mol-atom/K | 298.15 | Pd7Yb; _alloy: Pd 0.875, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 77; `ORC-HXHHIQG2M4.060c58` |  |
+| Entropy of formation | 1.315 J/mol-atom/K | 298.15 | Pd7Yb; _alloy: Pd 0.875, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 78; `ORC-TZO2IWWFDR.cd88c5` |  |
 | Entropy of formation; _printed: Entropies of formation_ | 13.275 J/mol-atom/K | 298.15 | PdRE3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 3; `ORC-42MOQC3OUN.fb2349` |  |
 | Entropy of formation; _printed: Entropies of formation_ | 10.843 J/mol-atom/K | 298.15 | PdRE3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 2; `ORC-KCVGOUHNWB.87082d` |  |
 | Entropy of formation | 3.076 J/mol-atom/K | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 29; `ORC-EAY3QJWRXD.12a618` |  |
@@ -239,14 +239,25 @@ Table: Formation, Pd–Yb system
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -74.6137 kJ/mol-atom | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 53; `ORC-TGRBO5JJMG.2a5560` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -68.936 kJ/mol-atom | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 55; `ORC-WFJV45BKV3.6fc6ef` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -72.8353 kJ/mol-atom | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 52; `ORC-ZL7KFCD54X.8bc992` |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -42.421 kJ/mol-atom | 298.15 | Pd7Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 77; `ORC-HXHHIQG2M4.511e57` |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.6317 kJ/mol-atom | 298.15 | Pd7Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 78; `ORC-TZO2IWWFDR.4715a4` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -42.421 kJ/mol-atom | 298.15 | Pd7Yb; _alloy: Pd 0.875, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 77; `ORC-HXHHIQG2M4.511e57` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.6317 kJ/mol-atom | 298.15 | Pd7Yb; _alloy: Pd 0.875, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 78; `ORC-TZO2IWWFDR.4715a4` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -76.5625 kJ/mol-atom | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 29; `ORC-EAY3QJWRXD.3a0400` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -76.5126 kJ/mol-atom | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 30; `ORC-HAIJPYVB3T.35eddd` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -81.5966 kJ/mol-atom | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 27; `ORC-P6R4RUEKFS.03c648` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -81.5963 kJ/mol-atom | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 28; `ORC-UMZS5GHF6I.43a43b` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -56.9506 kJ/mol-atom | 298.15 | PdYb3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 69; `ORC-F6ZDYGGLXT.5003c0` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -55.951 kJ/mol-atom | 298.15 | PdYb3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 68; `ORC-RINC2E2UID.4dacc3` |  |
+
+### Mixing / partial (4)
+
+Table: Mixing / partial, Pd–Yb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -42.421 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Pd 0.875, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 11; `ORC-LLDPTN33PJ.b7a6a0` |  |
+| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -32.6317 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Pd 0.875, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 12; `ORC-YVBQB74GA5.b6928f` |  |
+| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -56.9506 kJ/mol-atom | 298.15 | PdRE3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 3; `ORC-42MOQC3OUN.f2bb75` |  |
+| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -55.951 kJ/mol-atom | 298.15 | PdRE3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 2; `ORC-KCVGOUHNWB.d91366` |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 

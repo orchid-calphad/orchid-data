@@ -37,20 +37,20 @@ Table: Uncertainty budget of the literature values of Fe2U
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -16.3 | kJ/mol-atom | 0.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -14.01 | kJ/mol-atom | 1.8 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -10.74 | kJ/mol-atom | 0.42 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -16.3 | kJ/mol-atom | 0.6 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -14.01 | kJ/mol-atom | 1.8 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -10.74 | kJ/mol-atom | 0.42 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -34.112 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -30.08 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -30.08 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -25.314 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -23.54 | kJ/mol (basis unstated) | 0.45 | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -20.6 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -20.6 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -16.922 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -16.3 | kJ/mol (basis unstated) | 0.6 | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -15.886 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -16.3 | kJ/mol (basis unstated) | 0.6 | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -15.886 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -15.025 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -14.01 | kJ/mol (basis unstated) | 1.8 | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -10.739 | kJ/mol (basis unstated) | 0.42 | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -14.01 | kJ/mol (basis unstated) | 1.8 | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -10.739 | kJ/mol (basis unstated) | 0.42 | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

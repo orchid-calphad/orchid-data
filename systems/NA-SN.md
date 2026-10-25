@@ -1,10 +1,10 @@
 # Na–Sn system
 
-> Na–Sn system: 52 accepted literature values (invariant reaction 40, formation 9, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–Sn system: 50 accepted literature values (invariant reaction 40, formation 9, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-SN.html · Markdown: https://data.orchid-project.org/systems/NA-SN.md
 
-52 accepted literature values from 1 paper(s) (experimental 26, model 17, DFT 9); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+50 accepted literature values from 1 paper(s) (experimental 25, model 16, DFT 9); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-SN.json) · [CSV](https://data.orchid-project.org/systems/NA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-SN/NaSn-17Dre.json) · [phases (16)](https://data.orchid-project.org/phases/pages/NA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-SN.html) · [Markdown](https://data.orchid-project.org/systems/NA-SN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 26 |
-| model | 17 |
+| experimental | 25 |
+| model | 16 |
 | DFT | 9 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 40 |
-| phase transition | 3 |
+| phase transition | 1 |
 | formation | 9 |
 
 ## Calculated phase diagrams
@@ -61,28 +61,28 @@ Table: Invariant reactions reported in the literature for the Na–Sn system (40
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 851 | L -> (αNaSn) | (αNaSn): Sn 0.5; αNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 36; `ORC-MNZVIPVEEA` |  |
-| 851 | L -> (αNaSn) | L: Sn 0.5; (αNaSn): Sn 0.5; αNaSn: Sn 0.5 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 37; `ORC-NKTW722ZUD` |  |
-| 850 | L -> (αNaSn) | L: Sn 0.5; (αNaSn): Sn 0.5; αNaSn: Sn 0.5 | model | [1] Dreval 2017 | Table 8, p. 12, row 38; `ORC-N62TPABMJW` |  |
-| 849 | L -> (αNaSn) | (αNaSn): Sn 0.5; αNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 35; `ORC-KH5LKTMYZ6` |  |
-| 849 | L -> (αNaSn) | (αNaSn): Sn 0.5; αNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 34; `ORC-W7SURA4IHZ` |  |
-| 756 | (αNaSn) -> (βNaSn) | (αNaSn): Sn 0.5; (βNaSn): Sn 0.5 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 39; `ORC-I5NO5V2UQX` |  |
-| 756 | (αNaSn) -> (βNaSn) | (αNaSn): Sn 0.5; (βNaSn): Sn 0.5 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 41; `ORC-JWVKXSYFOI` |  |
-| 756 | (αNaSn) -> (βNaSn) | (αNaSn): Sn 0.5; (βNaSn): Sn 0.5 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 40; `ORC-YYLKXAWZKW` |  |
-| 753 | L -> Na9Sn4 | L: Sn 0.3077; Na9Sn4: Sn 0.3077 | model | [1] Dreval 2017 | Table 8, p. 12, row 19; `ORC-3SQPDOLJ76` |  |
-| 753 | L -> Na9Sn4 | L: Sn 0.3077; Na9Sn4: Sn 0.3077 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 18; `ORC-MSKS6M44AF` |  |
+| 851 | congruent melting: L -> (αNaSn) | (αNaSn): Sn 0.5; αNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 36; `ORC-MNZVIPVEEA` |  |
+| 851 | congruent melting: L -> (αNaSn) | L: Sn 0.5; (αNaSn): Sn 0.5; αNaSn: Sn 0.5 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 37; `ORC-NKTW722ZUD` |  |
+| 850 | congruent melting: L -> (αNaSn) | L: Sn 0.5; (αNaSn): Sn 0.5; αNaSn: Sn 0.5 | model | [1] Dreval 2017 | Table 8, p. 12, row 38; `ORC-N62TPABMJW` |  |
+| 849 | congruent melting: L -> (αNaSn) | (αNaSn): Sn 0.5; αNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 35; `ORC-KH5LKTMYZ6` |  |
+| 849 | congruent melting: L -> (αNaSn) | (αNaSn): Sn 0.5; αNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 34; `ORC-W7SURA4IHZ` |  |
+| 756 | polymorphic: (αNaSn) -> (βNaSn) | (αNaSn): Sn 0.5; (βNaSn): Sn 0.5 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 39; `ORC-I5NO5V2UQX` |  |
+| 756 | polymorphic: (αNaSn) -> (βNaSn) | (αNaSn): Sn 0.5; (βNaSn): Sn 0.5 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 41; `ORC-JWVKXSYFOI` |  |
+| 756 | polymorphic: (αNaSn) -> (βNaSn) | (αNaSn): Sn 0.5; (βNaSn): Sn 0.5 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 40; `ORC-YYLKXAWZKW` |  |
+| 753 | congruent melting: L -> Na9Sn4 | L: Sn 0.3077; Na9Sn4: Sn 0.3077 | model | [1] Dreval 2017 | Table 8, p. 12, row 19; `ORC-3SQPDOLJ76` |  |
+| 753 | congruent melting: L -> Na9Sn4 | L: Sn 0.3077; Na9Sn4: Sn 0.3077 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 18; `ORC-MSKS6M44AF` |  |
 | 752 | L + (βNaSn) -> Na4Sn3 | L: Sn 0.4; (βNaSn): Sn 0.5; Na4Sn3: Sn 0.4286; βNaSn: Sn 0.5 | model | [1] Dreval 2017 | Table 8, p. 12, row 33; `ORC-QWX6XXFCFX` |  |
 | 752 | L + (βNaSn) -> Na4Sn3 | (βNaSn): Sn 0.5; Na4Sn3: Sn 0.4286; βNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 31; `ORC-WMNP6UVCDG` |  |
-| 751 | L -> Na9Sn4 | L: Sn 0.333; Na9Sn4: Sn 0.333 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 17; `ORC-2XWCGMWN4Q` |  |
+| 751 | congruent melting: L -> Na9Sn4 | L: Sn 0.333; Na9Sn4: Sn 0.333 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 17; `ORC-2XWCGMWN4Q` |  |
 | 751 | L + (βNaSn) -> Na4Sn3 | (βNaSn): Sn 0.5; Na4Sn3: Sn 0.4286; βNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 30; `ORC-EA3NXZWHC3` |  |
-| 750 | L -> Na9Sn4 | L: Sn 0.333; Na9Sn4: Sn 0.333 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 16; `ORC-BHC4MDGUCQ` |  |
+| 750 | congruent melting: L -> Na9Sn4 | L: Sn 0.333; Na9Sn4: Sn 0.333 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 16; `ORC-BHC4MDGUCQ` |  |
 | 750 | L + (βNaSn) -> Na4Sn3 | L: Sn 0.41; (βNaSn): Sn 0.5; Na4Sn3: Sn 0.4286; βNaSn: Sn 0.5 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 32; `ORC-DAEBO4QMFJ` |  |
-| 750 | L -> Na9Sn4 | L: Sn 0.3333; Na9Sn4: Sn 0.3333 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 15; `ORC-DR4FF6OHRX` |  |
-| 714 | L -> Na9Sn4 + Na4Sn3 | L: Sn 0.38; Na9Sn4: Sn 0.333; Na4Sn3: Sn 0.4286 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 22; `ORC-IT4JTKNMXZ` |  |
-| 713 | L -> Na9Sn4 + Na4Sn3 | Na9Sn4: Sn 0.333; Na4Sn3: Sn 0.4286 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 21; `ORC-DOO4VBA6OT` |  |
-| 713 | L -> Na9Sn4 + Na4Sn3 | L: Sn 0.383; Na9Sn4: Sn 0.3333; Na4Sn3: Sn 0.4286 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 20; `ORC-JYOQ5MVBIG` |  |
-| 709 | L -> Na9Sn4 + Na4Sn3 | L: Sn 0.37; Na9Sn4: Sn 0.75; Na4Sn3: Sn 0.5 | model | [1] Dreval 2017 | Table 8, p. 12, row 24; `ORC-3TGWLTAH4R` |  |
-| 707 | L -> Na9Sn4 + Na4Sn3 | L: Sn 0.38; Na9Sn4: Sn 0.3077; Na4Sn3: Sn 0.4286 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 23; `ORC-J5CSICIKEV` |  |
+| 750 | congruent melting: L -> Na9Sn4 | L: Sn 0.3333; Na9Sn4: Sn 0.3333 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 15; `ORC-DR4FF6OHRX` |  |
+| 714 | eutectic: L -> Na9Sn4 + Na4Sn3 | L: Sn 0.38; Na9Sn4: Sn 0.333; Na4Sn3: Sn 0.4286 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 22; `ORC-IT4JTKNMXZ` |  |
+| 713 | eutectic: L -> Na9Sn4 + Na4Sn3 | Na9Sn4: Sn 0.333; Na4Sn3: Sn 0.4286 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 21; `ORC-DOO4VBA6OT` |  |
+| 713 | eutectic: L -> Na9Sn4 + Na4Sn3 | L: Sn 0.383; Na9Sn4: Sn 0.3333; Na4Sn3: Sn 0.4286 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 20; `ORC-JYOQ5MVBIG` |  |
+| 709 | eutectic: L -> Na9Sn4 + Na4Sn3 | L: Sn 0.37; Na9Sn4: Sn 0.75; Na4Sn3: Sn 0.5 | model | [1] Dreval 2017 | Table 8, p. 12, row 24; `ORC-3TGWLTAH4R` |  |
+| 707 | eutectic: L -> Na9Sn4 + Na4Sn3 | L: Sn 0.38; Na9Sn4: Sn 0.3077; Na4Sn3: Sn 0.4286 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 23; `ORC-J5CSICIKEV` |  |
 | 684 | L + Na9Sn4 -> Na15Sn4 | Na9Sn4: Na 0.692308, Sn 0.307692; Na15Sn4: Sn 0.2 | experimental | [1] Dreval 2017; _cites Lamprecht 1967_ [doi](https://doi.org/10.1021/j100872a008) | Table 8, p. 12, row 9; `ORC-KF5QBQAS4Z` |  |
 | 681 | L + Na9Sn4 -> Na15Sn4 | Na9Sn4: Na 0.692308, Sn 0.307692; Na15Sn4: Sn 0.2 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 8; `ORC-SAJASQH2O7` |  |
 | 680 | L + Na9Sn4 -> Na15Sn4 | L: Sn 0.17; Na9Sn4: Sn 0.3077; Na15Sn4: Sn 0.2105 | model | [1] Dreval 2017 | Table 8, p. 12, row 11; `ORC-QOXWQCHFQZ` |  |
@@ -96,11 +96,11 @@ Table: Invariant reactions reported in the literature for the Na–Sn system (40
 | 628 | Na4Sn3 -> Na9Sn4 + (βNaSn) | Na4Sn3: Sn 0.4286; Na9Sn4: Sn 0.4286; (βNaSn): Sn 0.5; βNaSn: Sn 0.5 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 27; `ORC-O2H65UNM5V` |  |
 | 621 | Na4Sn3 -> Na9Sn4 + (βNaSn) | Na4Sn3: Sn 0.4286; Na9Sn4: Sn 0.4286; (βNaSn): Sn 0.5; βNaSn: Sn 0.5 | model | [1] Dreval 2017 | Table 8, p. 12, row 28; `ORC-6CDVT4PLEN` |  |
 | 621 | Na4Sn3 -> Na9Sn4 + (βNaSn) | Na4Sn3: Sn 0.4286; Na9Sn4: Sn 0.3333; (βNaSn): Sn 0.5; βNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 25; `ORC-NWZDGMB57O` |  |
-| 370.83 | L -> (βNa) + Na15Sn4 | Na15Sn4: Sn 0.2105 | experimental | [1] Dreval 2017; _cites Hubberstey 1974_ [doi](https://doi.org/10.1039/dt9740001541) | Table 8, p. 12, row 3; `ORC-CXP65GKEDI` |  |
-| 370 | L -> (βNa) + Na15Sn4 | Na15Sn4: Sn 0.2105 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 4; `ORC-2TPMJLZZFS` |  |
-| 370 | L -> (βNa) + Na15Sn4 | Na15Sn4: Sn 0.2 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 1; `ORC-I5QWQSL7LK` |  |
-| 370 | L -> (βNa) + Na15Sn4 | L: Sn 0.001; Na15Sn4: Sn 0.2105 | model | [1] Dreval 2017 | Table 8, p. 12, row 5; `ORC-L4DZEQFWTF` |  |
-| 370 | L -> (βNa) + Na15Sn4 | Na15Sn4: Sn 0.2 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 2; `ORC-Q4PBNFXHO5` |  |
+| 370.83 | eutectic: L -> (βNa) + Na15Sn4 | Na15Sn4: Sn 0.2105 | experimental | [1] Dreval 2017; _cites Hubberstey 1974_ [doi](https://doi.org/10.1039/dt9740001541) | Table 8, p. 12, row 3; `ORC-CXP65GKEDI` |  |
+| 370 | eutectic: L -> (βNa) + Na15Sn4 | Na15Sn4: Sn 0.2105 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 4; `ORC-2TPMJLZZFS` |  |
+| 370 | eutectic: L -> (βNa) + Na15Sn4 | Na15Sn4: Sn 0.2 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 1; `ORC-I5QWQSL7LK` |  |
+| 370 | eutectic: L -> (βNa) + Na15Sn4 | L: Sn 0.001; Na15Sn4: Sn 0.2105 | model | [1] Dreval 2017 | Table 8, p. 12, row 5; `ORC-L4DZEQFWTF` |  |
+| 370 | eutectic: L -> (βNa) + Na15Sn4 | Na15Sn4: Sn 0.2 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 2; `ORC-Q4PBNFXHO5` |  |
 
 ## Formation enthalpies
 
@@ -122,14 +122,12 @@ Table: Enthalpies of formation, Na–Sn system (9)
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (1)
 
 Table: Phase transition, Na–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 599 K | 599 |  | model | [1] Dreval 2017 | p. 11; `ORC-ZOIXYC35HH` | “According to our calculations, the recently found Na7Sn12 phase melts incongruently at 599 K.” |
-| Phase transition | 603 K | 603 | Na4Sn3 4 Na9Sn4 þ (bNaSn) | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | p. 3; `ORC-WEXZBZICWE` | “For the reaction Na4Sn3 4 Na9Sn4 þ (bNaSn), Hume-Rothery \[44\] provided an average value of 603 K from these curves.” |
 | Phase transition | 621 K | 621 | polymorphic | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | p. 3; `ORC-WB77AOFPRL` | “In his work, Mathewson \[42\] proposed a polymorphic transformation for the Na4Sn3 compound at 621 K.” |
 
 ## Sources

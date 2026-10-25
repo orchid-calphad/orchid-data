@@ -14,9 +14,9 @@ Table: Enthalpy of formation of SiP reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -246.525 kJ/mol (basis unstated) | SiP(s) |  | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1; `ORC-GBOLDEHYJP.a19123` |  |
-| -147.253 kJ/mol (basis unstated) | SiP(s) |  | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2; `ORC-YTEX2VAE7M.5f63f9` |  |
-| -66.425 kJ/mol (basis unstated) | SiP(s) |  | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024 | Table 3, p. 35, row 3; `ORC-L7YZYDWIKI.c9e067` |  |
+| -246.525 kJ/mol (basis unstated) | SiP(s) | 1443 | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1; `ORC-GBOLDEHYJP.a19123` |  |
+| -147.253 kJ/mol (basis unstated) | SiP(s) | 1443 | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2; `ORC-YTEX2VAE7M.5f63f9` |  |
+| -66.425 kJ/mol (basis unstated) | SiP(s) | 1418 | model |  | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [1] Favre 2024 | Table 3, p. 35, row 3; `ORC-L7YZYDWIKI.c9e067` |  |
 | -31.65 kJ/mol-atom | SiP | 298.15 | model | Calphad | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014 | Table 5, p. 8, row 7; `ORC-ID3HWJIUPV.6e54b8` |  |
 | -31.65 kJ/mol-atom | SiP | 298.15 | model | Calphad | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 2012Jun_ | Table 5, p. 8, row 6; `ORC-ZCELURSFSI.3c97fc` |  |
 | -31.61 kJ/mol-atom | SiP | 298.15 | model | Calculated | [P–Si](https://data.orchid-project.org/systems/P-SI.html) | [2] Liang 2014; _cites ref. 2011Aru_ | Table 5, p. 8, row 5; `ORC-53YAL3Y255.04280c` |  |

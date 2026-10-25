@@ -37,7 +37,7 @@ Table: Phases of the B–Hf system (9)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-hf:b-beta-rhombo)
 
 Names (10): _corpus: _corpus:phase:b-hf:b-beta-rhombo, corpus:phase:b-hf:beta-rhombo-b  
-_paper: _paper:10.1007/bf02646757:B, paper:10.1007/s11669-021-00928-3:(βB), paper:10.1016/j.calphad.2011.10.003:B, paper:10.1016/s0364-5916(98)00037-6:β-rhombo-B  
+_paper: _paper:10.1007/bf02646757:B, paper:10.1007/s11669-021-00928-3:(βB), paper:10.1016/j.calphad.2011.10.003:B, paper:sha256-85fd53a1a176b694:β-rhombo-B  
 _tdb: _tdb:HfB-10Kau.tdb:BETA_RHOMBO_B, tdb:HfB-11Cac.tdb:BETA_RHOMBO_B, tdb:HfB-21Pan.tdb:BETA_RHOMBO_B, tdb:HfB-97Bit-LB.tdb:BETA_RHOMBO_B  
 
 
@@ -71,7 +71,7 @@ _tdb: _tdb:HfB-10Kau.tdb:BETA_RHOMBO_B, tdb:HfB-11Cac.tdb:BETA_RHOMBO_B, tdb:HfB
 47: CONST BETA_RHOMBO_B : B : B : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/BF02646757](https://doi.org/10.1007/BF02646757) H. Bittermann, P. Rogl, J. Phase Equilib., 18, 24-47(1997).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -81,8 +81,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) L. Kaufman, G. Cacciamani, M.L. Muolo, F. Valenza, A. Passerone, Calphad, 34, 2-5(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MB_B27 (B–Hf)
 
@@ -96,7 +94,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-hf:b27-mb)
 
 Names (8): _corpus: _corpus:phase:b-hf:b27-mb, corpus:phase:b-hf:mb-b27  
-_paper: _paper:10.1007/bf02646757:HfB, paper:10.1016/j.calphad.2011.10.003:HfB, paper:10.1016/s0364-5916(98)00037-6:BHf  
+_paper: _paper:10.1007/bf02646757:HfB, paper:10.1016/j.calphad.2011.10.003:HfB, paper:sha256-85fd53a1a176b694:BHf  
 _tdb: _tdb:HfB-10Kau.tdb:MB_B27, tdb:HfB-11Cac.tdb:MB_B27, tdb:HfB-97Bit-LB.tdb:MB_B27  
 
 
@@ -123,7 +121,7 @@ _tdb: _tdb:HfB-10Kau.tdb:MB_B27, tdb:HfB-11Cac.tdb:MB_B27, tdb:HfB-97Bit-LB.tdb:
 52: CONST MB_B27 : HF : B : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/BF02646757](https://doi.org/10.1007/BF02646757) H. Bittermann, P. Rogl, J. Phase Equilib., 18, 24-47(1997).  
 _assessment that models this phase; reports values for this phase_
@@ -131,8 +129,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) L. Kaufman, G. Cacciamani, M.L. Muolo, F. Valenza, A. Passerone, Calphad, 34, 2-5(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_A2 (B–Hf)
 
@@ -143,7 +139,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-hf:bcc-a2)
 
 Names (9): _corpus: _corpus:phase:b-hf:bcc-a2  
-_paper: _paper:10.1007/bf02646757:βHf, paper:10.1007/s11669-021-00928-3:(βHf), paper:10.1016/j.calphad.2011.10.003:bcc-Hf, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1007/bf02646757:βHf, paper:10.1007/s11669-021-00928-3:(βHf), paper:10.1016/j.calphad.2011.10.003:bcc-Hf, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:HfB-10Kau.tdb:BCC_A2, tdb:HfB-11Cac.tdb:BCC_A2, tdb:HfB-21Pan.tdb:BCC_A2, tdb:HfB-97Bit-LB.tdb:BCC_A2  
 
 
@@ -177,7 +173,7 @@ _tdb: _tdb:HfB-10Kau.tdb:BCC_A2, tdb:HfB-11Cac.tdb:BCC_A2, tdb:HfB-21Pan.tdb:BCC
 37: CONST BCC_A2 : HF% : B VA% : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02646757](https://doi.org/10.1007/BF02646757) H. Bittermann, P. Rogl, J. Phase Equilib., 18, 24-47(1997).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -187,8 +183,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) L. Kaufman, G. Cacciamani, M.L. Muolo, F. Valenza, A. Passerone, Calphad, 34, 2-5(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
 _cited as the source of values for this phase_
 
@@ -203,7 +197,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-hf:c32-mb2)
 
 Names (8): _corpus: _corpus:phase:b-hf:c32-mb2, corpus:phase:b-hf:mb2-c32  
-_paper: _paper:10.1007/bf02646757:HfB2, paper:10.1016/j.calphad.2011.10.003:HfB2, paper:10.1016/s0364-5916(98)00037-6:B2Hf  
+_paper: _paper:10.1007/bf02646757:HfB2, paper:10.1016/j.calphad.2011.10.003:HfB2, paper:sha256-85fd53a1a176b694:B2Hf  
 _tdb: _tdb:HfB-10Kau.tdb:MB2_C32, tdb:HfB-11Cac.tdb:MB2_C32, tdb:HfB-97Bit-LB.tdb:MB2_C32  
 
 
@@ -230,7 +224,7 @@ _tdb: _tdb:HfB-10Kau.tdb:MB2_C32, tdb:HfB-11Cac.tdb:MB2_C32, tdb:HfB-97Bit-LB.td
 57: CONST MB2_C32 : HF : B : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/BF02646757](https://doi.org/10.1007/BF02646757) H. Bittermann, P. Rogl, J. Phase Equilib., 18, 24-47(1997).  
 _assessment that models this phase; reports values for this phase_
@@ -238,8 +232,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) L. Kaufman, G. Cacciamani, M.L. Muolo, F. Valenza, A. Passerone, Calphad, 34, 2-5(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/0021-9614(77)90048-9](https://doi.org/10.1016/0021-9614%2877%2990048-9) Edgar F Westrum, Goerge Feick, Heat capacities of HfB2.035 and HfC0.968 from 5 to 350 K, The Journal of Chemical Thermodynamics 9, 293-299 (1977).  
 _cited as the source of values for this phase_
 
@@ -305,7 +297,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-hf:hcp-a3)
 
 Names (9): _corpus: _corpus:phase:b-hf:hcp-a3  
-_paper: _paper:10.1007/bf02646757:αHf, paper:10.1007/s11669-021-00928-3:(αHf), paper:10.1016/j.calphad.2011.10.003:hcp-Hf, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:10.1007/bf02646757:αHf, paper:10.1007/s11669-021-00928-3:(αHf), paper:10.1016/j.calphad.2011.10.003:hcp-Hf, paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:HfB-10Kau.tdb:HCP_A3, tdb:HfB-11Cac.tdb:HCP_A3, tdb:HfB-21Pan.tdb:HCP_A3, tdb:HfB-97Bit-LB.tdb:HCP_A3  
 
 
@@ -339,7 +331,7 @@ _tdb: _tdb:HfB-10Kau.tdb:HCP_A3, tdb:HfB-11Cac.tdb:HCP_A3, tdb:HfB-21Pan.tdb:HCP
 42: CONST HCP_A3 : HF% : B VA% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/BF02646757](https://doi.org/10.1007/BF02646757) H. Bittermann, P. Rogl, J. Phase Equilib., 18, 24-47(1997).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -349,8 +341,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) L. Kaufman, G. Cacciamani, M.L. Muolo, F. Valenza, A. Passerone, Calphad, 34, 2-5(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HFB_B27 (B–Hf)
 
@@ -422,7 +412,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-hf:liquid)
 
 Names (9): _corpus: _corpus:phase:b-hf:liquid  
-_paper: _paper:10.1007/bf02646757:L, paper:10.1007/s11669-021-00928-3:L, paper:10.1016/j.calphad.2011.10.003:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1007/bf02646757:L, paper:10.1007/s11669-021-00928-3:L, paper:10.1016/j.calphad.2011.10.003:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:HfB-10Kau.tdb:LIQUID, tdb:HfB-11Cac.tdb:LIQUID, tdb:HfB-21Pan.tdb:LIQUID, tdb:HfB-97Bit-LB.tdb:LIQUID  
 
 
@@ -456,7 +446,7 @@ _tdb: _tdb:HfB-10Kau.tdb:LIQUID, tdb:HfB-11Cac.tdb:LIQUID, tdb:HfB-21Pan.tdb:LIQ
 27: CONST LIQUID:L : B HF : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02646757](https://doi.org/10.1007/BF02646757) H. Bittermann, P. Rogl, J. Phase Equilib., 18, 24-47(1997).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -466,8 +456,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) L. Kaufman, G. Cacciamani, M.L. Muolo, F. Valenza, A. Passerone, Calphad, 34, 2-5(2010).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
 _cited as the source of values for this phase_
 

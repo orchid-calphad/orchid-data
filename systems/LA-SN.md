@@ -1,10 +1,10 @@
 # La–Sn system
 
-> La–Sn system: 234 accepted literature values (invariant reaction 108, crystal structure 68, phase transition 50, phase equilibrium 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Sn system: 224 accepted literature values (invariant reaction 107, crystal structure 68, phase transition 41, phase equilibrium 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-SN.html · Markdown: https://data.orchid-project.org/systems/LA-SN.md
 
-234 accepted literature values from 3 paper(s) (experimental 130, model 80, unspecified 24); 4 calculated phase diagram(s).
+224 accepted literature values from 3 paper(s) (experimental 122, model 78, unspecified 24); 4 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SN.json) · [CSV](https://data.orchid-project.org/systems/LA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SN/LaSn-00Hua.json) · [phases (15)](https://data.orchid-project.org/phases/pages/LA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SN.html) · [Markdown](https://data.orchid-project.org/systems/LA-SN.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 130 |
-| model | 80 |
+| experimental | 122 |
+| model | 78 |
 | unspecified | 24 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 108 |
-| phase transition | 50 |
+| invariant reaction | 107 |
+| phase transition | 41 |
 | phase equilibrium | 8 |
 | crystal structure | 68 |
 
@@ -106,15 +106,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–Sn system (108)
+Table: Invariant reactions reported in the literature for the La–Sn system (107)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1848 | Liq \<=> La5Sn4 | Liq: La 0.555, Sn 0.445; La5Sn4: La 0.555, Sn 0.445 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 12; `ORC-MKPWDMDX67` |  |
-| 1848 | Liq.->La5Sn4 | L: La 0.555556, Sn 0.444444; La5Sn4: La 0.555556, Sn 0.444444 | model | [2] Huang 2000 | Table 1, p. 2, row 13; `ORC-REZ5D3Q2RV` |  |
-| 1848 | Liq \<=> La5Sn4 | Liq: La 0.555, Sn 0.445; La5Sn4: La 0.555, Sn 0.445 | model | [1] Idbenali 2009 | Table 3, p. 5, row 14; `ORC-UJBXLFMJDT` |  |
-| 1848 | Liq.->La5Sn4 | L: La 0.555556, Sn 0.444444; La5Sn4: La 0.555556, Sn 0.444444 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 14; `ORC-WZFJPY476M` |  |
-| 1848 | Liq \<=> La5Sn4 | Liq: La 0.555, Sn 0.445; La5Sn4: La 0.555, Sn 0.445 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 13; `ORC-ZPGU3KTTP5` |  |
+| 1848 | congruent melting: Liq \<=> La5Sn4 | Liq: La 0.555, Sn 0.445; La5Sn4: La 0.555, Sn 0.445 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 12; `ORC-MKPWDMDX67` |  |
+| 1848 | congruent melting: Liq.->La5Sn4 | L: La 0.555556, Sn 0.444444; La5Sn4: La 0.555556, Sn 0.444444 | model | [2] Huang 2000 | Table 1, p. 2, row 13; `ORC-REZ5D3Q2RV` |  |
+| 1848 | congruent melting: Liq \<=> La5Sn4 | Liq: La 0.555, Sn 0.445; La5Sn4: La 0.555, Sn 0.445 | model | [1] Idbenali 2009 | Table 3, p. 5, row 14; `ORC-UJBXLFMJDT` |  |
+| 1848 | congruent melting: Liq.->La5Sn4 | L: La 0.555556, Sn 0.444444; La5Sn4: La 0.555556, Sn 0.444444 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 14; `ORC-WZFJPY476M` |  |
+| 1848 | congruent melting: Liq \<=> La5Sn4 | Liq: La 0.555, Sn 0.445; La5Sn4: La 0.555, Sn 0.445 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 13; `ORC-ZPGU3KTTP5` |  |
 | 1773 | Liq + La5Sn4 \<=> βLa5Sn3 | Liq: Sn 0.355; La5Sn4: La 0.555, Sn 0.445; βLa5Sn3: La 0.625, Sn 0.375 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 7; `ORC-5KFHHYWYQW` |  |
 | 1773 | Liq.+La5Sn4->La5Sn3 | La5Sn4: La 0.555556, Sn 0.444444; La5Sn3: La 0.625, Sn 0.375; Liq.: Sn 0.355 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 12; `ORC-AWN6JGG6KQ` |  |
 | 1773 | peritectic |  | experimental | [1] Idbenali 2009; _cites Eremenko 1988_ | p. 1; `ORC-CLV2ZMFL5R.cb16e0` | “Three of them, La5 Sn3 , La11 Sn10 and LaSn were formed by a peritectic reaction at 1773 K, 1718 K and 1568 K respectively.” |
@@ -133,7 +133,6 @@ Table: Invariant reactions reported in the literature for the La–Sn system (10
 | 1568.15 | peritectic: L+La11Sn10=LaSn | L: La 0.397; La11Sn10: La 0.524; LaSn: La 0.5 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 41; `ORC-4BUI4H2WFS` |  |
 | 1568.15 | peritectic: L+La11Sn10=LaSn | L: La 0.422; La11Sn10: La 0.524; LaSn: La 0.5 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 39; `ORC-CK7LVVK5RO` |  |
 | 1568.15 | peritectic: L+La11Sn10=LaSn | L: La 0.467; La11Sn10: La 0.524; LaSn: La 0.5 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 38; `ORC-JSTMMLODMQ` |  |
-| 1568.15 | peritectic |  | experimental | [3] Li 2019; _cites Eremenko 1989_ | p. 4; `ORC-VJTVUGBDND` | “In addition, Eremenko et al.\[15\] also confirmed that the LaSn phase was formed by a peritectic reaction at 1295 °C using DTA.” |
 | 1568 | Liq + La11Sn10 \<=> LaSn | Liq: Sn 0.577; La11Sn10: La 0.524, Sn 0.476; LaSn: La 0.5, Sn 0.5 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 19; `ORC-4EAIDN7J5I` |  |
 | 1568 | Liq + La11Sn10 \<=> LaSn | Liq: Sn 0.57; La11Sn10: La 0.524, Sn 0.476; LaSn: La 0.5, Sn 0.5 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 18; `ORC-7J4FOAI7LM` |  |
 | 1568 | peritectic |  | experimental | [1] Idbenali 2009; _cites Eremenko 1988_ | p. 1; `ORC-CLV2ZMFL5R.e5ca76` | “Three of them, La5 Sn3 , La11 Sn10 and LaSn were formed by a peritectic reaction at 1773 K, 1718 K and 1568 K respectively.” |
@@ -142,17 +141,17 @@ Table: Invariant reactions reported in the literature for the La–Sn system (10
 | 1568 | Liq + La11Sn10 \<=> LaSn | Liq: Sn 0.546; La11Sn10: La 0.524, Sn 0.476; LaSn: La 0.5, Sn 0.5 | model | [1] Idbenali 2009 | Table 3, p. 5, row 20; `ORC-YQW4AALYLD` |  |
 | 1513.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 21; `ORC-XW6ZCL2OZY` |  |
 | 1513.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 24; `ORC-ZEEVF66FOU` |  |
-| 1513 | Liq \<=> La3Sn5 | Liq: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 27; `ORC-DZ6D4LMR3M` |  |
-| 1513 | Liq.->La3Sn5 | L: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 24; `ORC-OF64MZV77M` |  |
+| 1513 | congruent melting: Liq \<=> La3Sn5 | Liq: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 27; `ORC-DZ6D4LMR3M` |  |
+| 1513 | congruent melting: Liq.->La3Sn5 | L: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 24; `ORC-OF64MZV77M` |  |
 | 1511.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 23; `ORC-4NGBCXHLXK` |  |
-| 1511 | Liq \<=> La3Sn5 | Liq: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | model | [1] Idbenali 2009 | Table 3, p. 5, row 29; `ORC-IBJIWMT4DH` |  |
+| 1511 | congruent melting: Liq \<=> La3Sn5 | Liq: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | model | [1] Idbenali 2009 | Table 3, p. 5, row 29; `ORC-IBJIWMT4DH` |  |
 | 1489.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 22; `ORC-H4RIMSBR6T` |  |
-| 1489 | Liq \<=> La3Sn5 | Liq: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 28; `ORC-EFV7F2YM5N` |  |
-| 1489 | Liq.->La3Sn5 | L: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | model | [2] Huang 2000 | Table 1, p. 2, row 23; `ORC-Q4MEOWCX2M` |  |
+| 1489 | congruent melting: Liq \<=> La3Sn5 | Liq: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 28; `ORC-EFV7F2YM5N` |  |
+| 1489 | congruent melting: Liq.->La3Sn5 | L: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | model | [2] Huang 2000 | Table 1, p. 2, row 23; `ORC-Q4MEOWCX2M` |  |
 | 1487.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.375; LaSn: La 0.5; La3Sn5: La 0.375 | model | [3] Li 2019 | Table 4, p. 10, row 31; `ORC-GKNF4YPXPF` |  |
 | 1487.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | model | [3] Li 2019 | Table 4, p. 10, row 26; `ORC-UEWUWO4IVU` |  |
 | 1482.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.396; LaSn: La 0.5; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 28; `ORC-J7ZJQKBSQY` |  |
-| 1482 | Liq.->LaSn+La3Sn5 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; Liq.: Sn 0.6043 | model | [2] Huang 2000 | Table 1, p. 2, row 19; `ORC-2OVKUBN55A` |  |
+| 1482 | eutectic: Liq.->LaSn+La3Sn5 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; Liq.: Sn 0.6043 | model | [2] Huang 2000 | Table 1, p. 2, row 19; `ORC-2OVKUBN55A` |  |
 | 1482 | Liq \<=> LaSn + La3Sn5 | Liq: Sn 0.604; LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 22; `ORC-MTQUQULASH` |  |
 | 1478.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | model | [3] Li 2019 | Table 4, p. 10, row 25; `ORC-5PFGKUJ6BM` |  |
 | 1478.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.376; LaSn: La 0.5; La3Sn5: La 0.375 | model | [3] Li 2019 | Table 4, p. 10, row 30; `ORC-LJCRTIV6WF` |  |
@@ -161,7 +160,7 @@ Table: Invariant reactions reported in the literature for the La–Sn system (10
 | 1473.15 | peritectic: L+LaSn=La3Sn5 | L: La 0.359; LaSn: La 0.5; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 20; `ORC-JKGLVABQ7D` |  |
 | 1473.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.435; LaSn: La 0.5; La3Sn5: La 0.375 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 27; `ORC-S7LZAN6HG6` |  |
 | 1473 | Liq \<=> LaSn + La3Sn5 | Liq: Sn 0.565; LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 21; `ORC-GAAKG2UOLQ` |  |
-| 1473 | Liq.->LaSn+La3Sn5 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; Liq.: Sn 0.565 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 20; `ORC-TEDUZLMNI6` |  |
+| 1473 | eutectic: Liq.->LaSn+La3Sn5 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; Liq.: Sn 0.565 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 20; `ORC-TEDUZLMNI6` |  |
 | 1452.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.5; La3Sn5: La 0.375; La2Sn3: La 0.4 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 34; `ORC-XQBN3NV4GE` |  |
 | 1452.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.5; La3Sn5: La 0.375; La2Sn3: La 0.4 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 32; `ORC-ZLHGLN42IT` |  |
 | 1452 | LaSn+La3Sn5->La2Sn3 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; La2Sn3: La 0.4, Sn 0.6 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 22; `ORC-KVVWKZEOJJ` |  |
@@ -173,15 +172,15 @@ Table: Invariant reactions reported in the literature for the La–Sn system (10
 | 1451 | LaSn+La3Sn5->La2Sn3 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; La2Sn3: La 0.4, Sn 0.6 | model | [2] Huang 2000 | Table 1, p. 2, row 21; `ORC-VPSQIEYZCM` |  |
 | 1449.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.5; La3Sn5: La 0.375; La2Sn3: La 0.4 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 35; `ORC-TESGEHFTYM` |  |
 | 1432.15 | congruent melting: L=LaSn3 | L: La 0.25; LaSn3: La 0.25 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 8; `ORC-FZJR5A7RJM` |  |
-| 1432 | Liq.->LaSn3 | L: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | model | [2] Huang 2000 | Table 1, p. 2, row 27; `ORC-AWN2M3PM2M` |  |
-| 1432 | Liq \<=> LaSn3 | Liq: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 34; `ORC-ZIA4JFFCZN` |  |
+| 1432 | congruent melting: Liq.->LaSn3 | L: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | model | [2] Huang 2000 | Table 1, p. 2, row 27; `ORC-AWN2M3PM2M` |  |
+| 1432 | congruent melting: Liq \<=> LaSn3 | Liq: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 34; `ORC-ZIA4JFFCZN` |  |
 | 1428.15 | congruent melting: L=LaSn3 | L: La 0.25; LaSn3: La 0.25 | model | [3] Li 2019 | Table 4, p. 10, row 11; `ORC-3BROEG3YNP` |  |
 | 1428.15 | congruent melting: L=LaSn3 | L: La 0.25; LaSn3: La 0.25 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 7; `ORC-B3XSDVVXJ4` |  |
-| 1428 | Liq.->LaSn3 | L: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 28; `ORC-5XQ4VX64YL` |  |
-| 1420 | Liq \<=> LaSn3 | Liq: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 33; `ORC-X6XHLIRI7Q` |  |
+| 1428 | congruent melting: Liq.->LaSn3 | L: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 28; `ORC-5XQ4VX64YL` |  |
+| 1420 | congruent melting: Liq \<=> LaSn3 | Liq: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 33; `ORC-X6XHLIRI7Q` |  |
 | 1411.15 | congruent melting: L=LaSn3 | L: La 0.25; LaSn3: La 0.25 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 10; `ORC-OMQ5FVJ2I4` |  |
 | 1408.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.29; La3Sn5: La 0.375; LaSn3: La 0.25 | model | [3] Li 2019 | Table 4, p. 10, row 18; `ORC-3SBT4UY5TS` |  |
-| 1405 | Liq \<=> LaSn3 | Liq: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009 | Table 3, p. 5, row 35; `ORC-RWGPU4XKO5` |  |
+| 1405 | congruent melting: Liq \<=> LaSn3 | Liq: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009 | Table 3, p. 5, row 35; `ORC-RWGPU4XKO5` |  |
 | 1404.15 | congruent melting: L=LaSn3 | L: La 0.25; LaSn3: La 0.25 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 9; `ORC-6XCKUCP7CY` |  |
 | 1403.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.263; La3Sn5: La 0.375; LaSn3: La 0.25 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 15; `ORC-DGGLHN7TYC` |  |
 | 1403 | Liq \<=> La3Sn5 + LaSn3 | Liq: Sn 0.736; La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009 | Table 3, p. 5, row 32; `ORC-J5MA633PXX` |  |
@@ -189,25 +188,25 @@ Table: Invariant reactions reported in the literature for the La–Sn system (10
 | 1401.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.286; La3Sn5: La 0.375; LaSn3: La 0.25 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 16; `ORC-JG5CW5WOLJ` |  |
 | 1386.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.295; La3Sn5: La 0.375; LaSn3: La 0.25 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 13; `ORC-VXN7ETZ3I5` |  |
 | 1386 | Liq \<=> La3Sn5 + LaSn3 | Liq: Sn 0.705; La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 30; `ORC-2IAN4NRDX5` |  |
-| 1386 | Liq.->La3Sn5 +LaSn3 | La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75; Liq.: Sn 0.705 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 26; `ORC-MPCMZ32YLK` |  |
+| 1386 | eutectic: Liq.->La3Sn5 +LaSn3 | La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75; Liq.: Sn 0.705 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 26; `ORC-MPCMZ32YLK` |  |
 | 1385.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.299; La3Sn5: La 0.375; LaSn3: La 0.25 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 14; `ORC-ZTHZ2CWBKB` |  |
-| 1385 | Liq.->La3Sn5 +LaSn3 | La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75; Liq.: Sn 0.7001 | model | [2] Huang 2000 | Table 1, p. 2, row 25; `ORC-HYIKLXAD6C` |  |
+| 1385 | eutectic: Liq.->La3Sn5 +LaSn3 | La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75; Liq.: Sn 0.7001 | model | [2] Huang 2000 | Table 1, p. 2, row 25; `ORC-HYIKLXAD6C` |  |
 | 1385 | Liq \<=> La3Sn5 + LaSn3 | Liq: Sn 0.7; La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 31; `ORC-P7ZOTXZPHK` |  |
 | 1381.15 | eutectic: L=La2Sn3+LaSn3 | L: La 0.315; La2Sn3: La 0.4; LaSn3: La 0.25 | experimental | [3] Li 2019; _cites Rolla 1943_ | Table 4, p. 10, row 19; `ORC-LINXIVYKTH` |  |
-| 1193 | Liq.->γLa (bcc) |  | model | [2] Huang 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 1; `ORC-7OKGWIN62H` |  |
-| 1191 | Liq.->γLa (bcc) |  | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 2; `ORC-HHL5HV7WDX` |  |
+| 1193 | congruent melting: Liq.->γLa (bcc) |  | model | [2] Huang 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 1; `ORC-7OKGWIN62H` |  |
+| 1191 | congruent melting: Liq.->γLa (bcc) |  | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 2; `ORC-HHL5HV7WDX` |  |
 | 1138 | γLa \<=> βLa + Liq | Liq: Sn 0.05 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 1; `ORC-2CZH6SEOQT` |  |
 | 1138 | γLa->βLa+Liq. | Liq.: Sn 0.05 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 8; `ORC-YAA6LB53IK` |  |
 | 1134 | γLa \<=> βLa + Liq | Liq: Sn 0.043 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 2; `ORC-IDER4SHWOV` |  |
 | 1134 | γLa->βLa+Liq. | Liq.: Sn 0.0435 | model | [2] Huang 2000 | Table 1, p. 2, row 7; `ORC-SJADVHFCQG` |  |
 | 1134 | γLa \<=> βLa + Liq | Liq: Sn 0.026 | model | [1] Idbenali 2009 | Table 3, p. 5, row 3; `ORC-Y3VEJCDOEV` |  |
 | 1020 | Liq \<=> βLa + βLa5Sn3 | Liq: Sn 0.115; βLa: Sn 0; βLa5Sn3: La 0.625, Sn 0.375 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 5; `ORC-IFF54EYPKJ` |  |
-| 1020 | Liq.->βLa +La5Sn3 | La5Sn3: La 0.625, Sn 0.375; Liq.: Sn 0.115 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 10; `ORC-IN6KRB66PM` |  |
+| 1020 | eutectic: Liq.->βLa +La5Sn3 | La5Sn3: La 0.625, Sn 0.375; Liq.: Sn 0.115 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 10; `ORC-IN6KRB66PM` |  |
 | 1020 | Liq \<=> βLa + βLa5Sn3 | Liq: Sn 0.115; βLa: Sn 0; βLa5Sn3: La 0.625, Sn 0.375 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 4; `ORC-P6HUUKJ2VA` |  |
-| 1020 | Liq.->βLa +La5Sn3 | La5Sn3: La 0.625, Sn 0.375; Liq.: Sn 0.1152 | model | [2] Huang 2000 | Table 1, p. 2, row 9; `ORC-SROWQPEDQE` |  |
+| 1020 | eutectic: Liq.->βLa +La5Sn3 | La5Sn3: La 0.625, Sn 0.375; Liq.: Sn 0.1152 | model | [2] Huang 2000 | Table 1, p. 2, row 9; `ORC-SROWQPEDQE` |  |
 | 1016 | Liq \<=> βLa + βLa5Sn3 | Liq: Sn 0.086; βLa: Sn 0; βLa5Sn3: La 0.625, Sn 0.375 | model | [1] Idbenali 2009 | Table 3, p. 5, row 6; `ORC-VNEHC7V6YI` |  |
-| 673 | αLa5Sn3 \<=> βLa5Sn3 | αLa5Sn3: La 0.625, Sn 0.375; βLa5Sn3: La 0.625, Sn 0.375 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 10; `ORC-AA4PC77ZXV` |  |
-| 670 | αLa5Sn3 \<=> βLa5Sn3 | αLa5Sn3: La 0.625, Sn 0.375; βLa5Sn3: La 0.625, Sn 0.375 | model | [1] Idbenali 2009 | Table 3, p. 5, row 11; `ORC-U47VXVDMZN` |  |
+| 673 | polymorphic: αLa5Sn3 \<=> βLa5Sn3 | αLa5Sn3: La 0.625, Sn 0.375; βLa5Sn3: La 0.625, Sn 0.375 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 10; `ORC-AA4PC77ZXV` |  |
+| 670 | polymorphic: αLa5Sn3 \<=> βLa5Sn3 | αLa5Sn3: La 0.625, Sn 0.375; βLa5Sn3: La 0.625, Sn 0.375 | model | [1] Idbenali 2009 | Table 3, p. 5, row 11; `ORC-U47VXVDMZN` |  |
 | 508.15 | peritectic: L+LaSn3=(βSn) | L: La 0.197; LaSn3: La 0.25; (βSn): La 0 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 6; `ORC-QLE6X4EDE4` |  |
 | 508 | Liq.+LaSn3 ->βSn (bct) | LaSn3: La 0.25, Sn 0.75; Liq.: Sn 1 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 30; `ORC-IFONCAJCWY` |  |
 | 508 | (βSn) \<=> Liq + LaSn3 | Liq: Sn 1; LaSn3: La 0.25, Sn 0.75 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 36; `ORC-KX74R7W723` |  |
@@ -216,12 +215,12 @@ Table: Invariant reactions reported in the literature for the La–Sn system (10
 | 505.15 | eutectic: L=LaSn3+(βSn) | L: La 0; LaSn3: La 0.25; (βSn): La 0 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 2; `ORC-JLT5QB4RRU` |  |
 | 505.15 | eutectic: L=LaSn3+(βSn) | L: La 0; LaSn3: La 0.25; (βSn): La 0 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 3; `ORC-WFJWUE2EAP` |  |
 | 505.1 | (βSn) \<=> Liq + LaSn3 | (βSn): Sn 1; Liq: Sn 1; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009 | Table 3, p. 5, row 38; `ORC-IBPRW2MALC` |  |
-| 505 | Liq.->LaSn3 +βSn (bct) | LaSn3: La 0.25, Sn 0.75; Liq.: Sn 0.9996 | model | [2] Huang 2000 | Table 1, p. 2, row 29; `ORC-MSRVMROCB7` |  |
+| 505 | eutectic: Liq.->LaSn3 +βSn (bct) | LaSn3: La 0.25, Sn 0.75; Liq.: Sn 0.9996 | model | [2] Huang 2000 | Table 1, p. 2, row 29; `ORC-MSRVMROCB7` |  |
 | 505 | (βSn) \<=> Liq + LaSn3 | (βSn): Sn 1; Liq: Sn 0.9996; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 37; `ORC-NHM3KOCLBS` |  |
 
 ## Other properties
 
-### Phase transition (50)
+### Phase transition (41)
 
 Table: Phase transition, La–Sn system
 
@@ -235,23 +234,18 @@ Table: Phase transition, La–Sn system
 | Phase transition | 508.15 K | 508.15 | peritectic: L+LaSn3=(βSn) | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 12; `ORC-6D7YAR6VNZ` |  |
 | Phase transition | 686.65 K | 686.65 | Partial enthalpies of mixing | experimental | [3] Li 2019; _cites Pratt 1965_ | Table 2, p. 6, row 29; `ORC-NQ5STP3FZY` |  |
 | Phase transition | 773.15 K | 773.15 | Gibbs energies of formation | experimental | [3] Li 2019; _cites Kober 1982_ | Table 2, p. 6, row 44; `ORC-7QAEF67WRT` |  |
-| Phase transition | 775.15 K | 775.15 | Partial enthalpies of mixing | experimental | [3] Li 2019; _cites Guadagno 2014_ | Table 2, p. 6, row 32; `ORC-2KIUKMDYMZ` |  |
+| Phase transition | 775.15 K | 775.15 | Partial enthalpies of mixing | experimental | [3] Li 2019; _cites Guadagno 1968_ | Table 2, p. 6, row 32; `ORC-2KIUKMDYMZ` |  |
 | Phase transition | 800.15 K | 800.15 | Heat capacity of La2Sn3; _alloy: Sn 0.6_ | experimental | [3] Li 2019; _cites Cirafici 1982_ [doi](https://doi.org/10.1016/0038-1098%2882%2990466-5) | Table 2, p. 6, row 27; `ORC-KMDAZS3DUD` |  |
 | Phase transition | 823.15 K | 823.15 | Activities | experimental | [3] Li 2019; _cites Matigorova 1971_ | Table 2, p. 6, row 36; `ORC-LK4Z4CWOBY` |  |
 | Phase transition | 950.15 K | 950.15 | Integral enthalpies of mixing | experimental | [3] Li 2019; _cites Sommer 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990348-7) | Table 2, p. 6, row 24; `ORC-XNDU2CZZDD` |  |
 | Phase transition | 1000.15 K | 1000.15 | Enthalpies of formation for compounds | experimental | [3] Li 2019; _cites Kober 1982_ | Table 2, p. 6, row 42; `ORC-SQYT7UMD5N` |  |
 | Phase transition | 1020.15 K | 1020.15 | eutectic: L=(βLa) +La5Sn3 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 11; `ORC-76YX4KBNXE` |  |
-| Phase transition | 1085.15 K | 1085.15 |  | experimental | [3] Li 2019; _cites Canneri 1931_ | p. 4; `ORC-CSYL6X4IOJ` | “Due to the high impurity of the raw materials, the melting point of La was reported to be 812 °C by Canneri,\[21\] which is 108 °C lower than the data from SGTE.\[26\]” |
 | Phase transition | 1174.15 K | 1174.15 | Integral enthalpies of mixing | experimental | [3] Li 2019; _cites Sommer 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990348-7) | Table 2, p. 6, row 23; `ORC-PL5UGLMFQM` |  |
 | Phase transition | 1285.15 K | 1285.15 | Partial enthalpies of mixing | experimental | [3] Li 2019; _cites Sommer 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990348-7) | Table 2, p. 6, row 35; `ORC-SKIKHOFTUH` |  |
-| Phase transition | 1386 K | 1386 | Liq ⇔ La3 Sn5 + LaSn3 | model | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | p. 4; `ORC-SXTKGDRFU6.3a7b4b` | “Our results (temperatures and x(Sn) compositions) are in good agreement with the ones of \[4\], except both the temperature of the invariant reaction: Liq ⇔ La3 Sn5 + LaSn3 (calculated 1403 K, measured 1386 K) and the calculated congruent melting of LaSn3 (T = 1407 K), close to the experimental one (T = 1409 K) in Kulagina et al. \[7\] but somewhat lower than the assessed one (T = 1420 K) in \[4\].” |
 | Phase transition | 1386.15 K | 1386.15 | eutectic: L=La3Sn5+LaSn3 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 9; `ORC-QXDQ4L3S3I` |  |
-| Phase transition | 1403 K | 1403 | Liq ⇔ La3 Sn5 + LaSn3 | model | [1] Idbenali 2009 | p. 4; `ORC-SXTKGDRFU6.2b6844` | “Our results (temperatures and x(Sn) compositions) are in good agreement with the ones of \[4\], except both the temperature of the invariant reaction: Liq ⇔ La3 Sn5 + LaSn3 (calculated 1403 K, measured 1386 K) and the calculated congruent melting of LaSn3 (T = 1407 K), close to the experimental one (T = 1409 K) in Kulagina et al. \[7\] but somewhat lower than the assessed one (T = 1420 K) in \[4\].” |
-| Phase transition | 1405 K | 1405 |  | experimental | [2] Huang 2000; _cites Kulagina 1985_ | p. 2; `ORC-3FRPCWCPFP` | “Kulagina et al. \[9\] measured the system in the range 75 to 100 at.% Sn and determined the melting point of LaSn 3 as 1405 K.” |
 | Phase transition | 1407 K | 1407 | congruent transformation | model | [1] Idbenali 2009 | p. 4; `ORC-SXTKGDRFU6.50e860` | “Our results (temperatures and x(Sn) compositions) are in good agreement with the ones of \[4\], except both the temperature of the invariant reaction: Liq ⇔ La3 Sn5 + LaSn3 (calculated 1403 K, measured 1386 K) and the calculated congruent melting of LaSn3 (T = 1407 K), close to the experimental one (T = 1409 K) in Kulagina et al. \[7\] but somewhat lower than the assessed one (T = 1420 K) in \[4\].” |
 | Phase transition | 1409 K | 1409 | LaSn3 + liquid | experimental | [1] Idbenali 2009; _cites Kulagina 1985_ | p. 1; `ORC-WX27UHWCTS.627973` | “The melting point of LaSn3 was determined by many authors \[6,7,3,4\] at 1411 K, 1409 K, 1428 K and 1420 K, respectively.” |
 | Phase transition | 1409 K | 1409 | congruent transformation | experimental | [1] Idbenali 2009; _cites Kulagina 1985_ | p. 4; `ORC-SXTKGDRFU6.10e5a5` | “Our results (temperatures and x(Sn) compositions) are in good agreement with the ones of \[4\], except both the temperature of the invariant reaction: Liq ⇔ La3 Sn5 + LaSn3 (calculated 1403 K, measured 1386 K) and the calculated congruent melting of LaSn3 (T = 1407 K), close to the experimental one (T = 1409 K) in Kulagina et al. \[7\] but somewhat lower than the assessed one (T = 1420 K) in \[4\].” |
-| Phase transition | 1411 K | 1411 |  | experimental | [2] Huang 2000; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | p. 2; `ORC-FXBAZYZYFN` | “Palenzona \[6\] determined the melting point of LaSn 3 as 1411 K.” |
 | Phase transition | 1411 K | 1411 | LaSn3 + liquid | experimental | [1] Idbenali 2009; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | p. 1; `ORC-WX27UHWCTS.9e21da` | “The melting point of LaSn3 was determined by many authors \[6,7,3,4\] at 1411 K, 1409 K, 1428 K and 1420 K, respectively.” |
 | Phase transition | 1420 K | 1420 | LaSn3 + liquid | model | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | p. 1; `ORC-WX27UHWCTS.111283` | “The melting point of LaSn3 was determined by many authors \[6,7,3,4\] at 1411 K, 1409 K, 1428 K and 1420 K, respectively.” |
 | Phase transition | 1420 K | 1420 | congruent melting | model | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | p. 1; `ORC-64LDT45QRZ.290898` | “Three of them La5 Sn4 , La3 Sn5 and LaSn3 melted congruently at 1848 K, 1513 K and 1420 K \[4\] (reported at 1428 K in \[5\]) respectively.” |
@@ -259,7 +253,6 @@ Table: Phase transition, La–Sn system
 | Phase transition | 1428 K | 1428 | LaSn3 + liquid | experimental | [1] Idbenali 2009; _cites Eremenko 1988_ | p. 1; `ORC-WX27UHWCTS.eeed72` | “The melting point of LaSn3 was determined by many authors \[6,7,3,4\] at 1411 K, 1409 K, 1428 K and 1420 K, respectively.” |
 | Phase transition | 1428 K | 1428 | congruent melting | model | [1] Idbenali 2009; _cites Massalski 1990_ | p. 1; `ORC-64LDT45QRZ.f6ee6c` | “Three of them La5 Sn4 , La3 Sn5 and LaSn3 melted congruently at 1848 K, 1513 K and 1420 K \[4\] (reported at 1428 K in \[5\]) respectively.” |
 | Phase transition | 1428.15 K | 1428.15 | congruent transformation | experimental | [3] Li 2019; _cites Eremenko 1989_ | p. 4; `ORC-H67OPCKTUJ` | “The congruent melting point of LaSn3 was investigated to be 1135, 1138, 1132±4, and 1155 °C by Vogel and Heumannl,\[22\] Palenzona,\[24\] Kulagina et al.\[25\] and Eremenko et al.\[15\] using TA, dynamic differential calorimetry (DDC) and DTA, respectively.” |
-| Phase transition | 1452 K | 1452 |  | experimental | [2] Huang 2000; _cites Eremenko 1988_ | p. 2; `ORC-CUSRLK5BVX` | “La 2 Sn 3 was identified only based on thermal effects at 1452 K in the range 50 to 62.5 at.% Sn \[10\].” |
 | Phase transition | 1452 K | 1452 | LaSn + La2Sn3 | experimental | [1] Idbenali 2009; _cites Eremenko 1988_ | p. 1; `ORC-RO75OMXTYT` | “The seventh compound, La2 Sn3 , was identified only on the basis of thermal effects at 1452 K in the 50 to 62.5 at.% Sn range.” |
 | Phase transition | 1452.15 K | 1452.15 | other: LaSn+La3Sn5=La2Sn3 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 16; `ORC-IVSWPTOEOQ` |  |
 | Phase transition | 1458.15 K | 1458.15 | congruent transformation | experimental | [3] Li 2019; _cites Vogel 1943_ | p. 4; `ORC-RF7DIKQTF5.9deb78` | “Using TA, the La2Sn3 phase was reported to be a congruent melting compound by two groups\[21,22\] and its melting point was determined to be 1187 and 1185 °C, respectively.” |
@@ -268,11 +261,8 @@ Table: Phase transition, La–Sn system
 | Phase transition | 1489 K | 1489 | congruent transformation | model | [1] Idbenali 2009; _cites Minhwa 2000_ | p. 4; `ORC-ZOENHEWZPE.0c7a04` | “The congruent melting of La3 Sn5 is nearer the experimental one (1513 K) than in \[9\] (1489 K).” |
 | Phase transition | 1513 K | 1513 | congruent melting | experimental | [1] Idbenali 2009; _cites Eremenko 1988_ | p. 1; `ORC-64LDT45QRZ.026f3c` | “Three of them La5 Sn4 , La3 Sn5 and LaSn3 melted congruently at 1848 K, 1513 K and 1420 K \[4\] (reported at 1428 K in \[5\]) respectively.” |
 | Phase transition | 1513 K | 1513 | congruent transformation | experimental | [1] Idbenali 2009 | p. 4; `ORC-ZOENHEWZPE.c5f49c` | “The congruent melting of La3 Sn5 is nearer the experimental one (1513 K) than in \[9\] (1489 K).” |
-| Phase transition | 1513.15 K | 1513.15 |  | experimental | [3] Li 2019; _cites Eremenko 1989_ | p. 4; `ORC-PTYNWRN7F7` | “Later, Eremenko et al.\[15\] confirmed the melting point of La3Sn5 to be 1240 °C by DTA.” |
 | Phase transition | 1568.15 K | 1568.15 | peritectic: L+La5Sn4=La11Sn10 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 14; `ORC-ZWRIZQLQQE` |  |
-| Phase transition | 1718.15 K | 1718.15 | L+La5Sn4 =La11Sn10 | experimental | [3] Li 2019; _cites Eremenko 1989_ | p. 4; `ORC-336SJREJ4C.b01a32` | “It was reported to be formed at 1445 °C via L+La5Sn4 =La11Sn10.\[15\]” |
 | Phase transition | 1718.15 K | 1718.15 | peritectic: L+La11Sn10=LaSn | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 13; `ORC-XEVMHLWW5A` |  |
-| Phase transition | 1773.15 K | 1773.15 |  | experimental | [3] Li 2019; _cites Eremenko 1989_ | p. 5; `ORC-I35L2NZX7R` | “Subsequently, Eremenko et al.\[15\] re-measured the structure of La5Sn3, but only αLa5Sn3 was observed, and the melting point of this phase was determined to be 1500 °C by DTA.” |
 | Phase transition | 1773.15 K | 1773.15 | peritectic: L+La5Sn4=La5Sn3 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 15; `ORC-NPC6VS7Z33` |  |
 | Phase transition | 1848 K | 1848 | congruent melting | experimental | [1] Idbenali 2009; _cites Eremenko 1988_ | p. 1; `ORC-64LDT45QRZ.764c48` | “Three of them La5 Sn4 , La3 Sn5 and LaSn3 melted congruently at 1848 K, 1513 K and 1420 K \[4\] (reported at 1428 K in \[5\]) respectively.” |
 | Phase transition | 1848.15 K | 1848.15 | congruent transformation | experimental | [3] Li 2019; _cites Eremenko 1989_ | p. 4; `ORC-336SJREJ4C.613143` | “Gambino et al.\[23\] reported that the La5Sn4 phase was congruent melting compound, and then Eremenko et al.\[15\] determined the melting point of La5Sn4 to be 1575 °C by DTA.” |

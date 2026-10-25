@@ -24,10 +24,10 @@ Table: Phases of the Ge–Li system (16)
 | [GE4LI9](#phase-ge-li-ge4li9); _phase:ge-li:ge4li9_ | Ge4Li9 · oC52 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1018.15 K, x(Li) 0.69231–0.69231 | 30 | 2 |
 | [GE6LI14](#phase-ge-li-ge6li14); _phase:ge-li:ge6li14_ | Li5Sn2 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1020.04 K, x(Li) 0.7–0.7 | 10 | 1 |
 | [GE7LI12](#phase-ge-li-ge7li12); _phase:ge-li:ge7li12_ | Li12Si7 · oP152 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–808.16 K, x(Li) 0.63158–0.63158 | 51 | 2 |
-| [GELI](#phase-ge-li-geli); _phase:ge-li:geli_ | GeLi · tI32 · I4_1/a (88) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–812.96 K, x(Li) 0.5–0.5 | 44 | 2 |
+| [GELI](#phase-ge-li-geli); _phase:ge-li:geli_ | GeLi · tI32 · I4_1/a (88) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–812.96 K, x(Li) 0.5–0.5 | 45 | 2 |
 | [GELI4](#phase-ge-li-geli4); _phase:ge-li:geli4_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 670.84–900.21 K, x(Li) 0.80377–0.80392 | 27 | 2 |
 | [HCP_A3](#phase-ge-li-hcp-a3); _phase:ge-li:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ge-li-liquid); _phase:ge-li:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 453.33–2500 K, x(Li) 0–1 | 153 | 2 |
+| [LIQUID](#phase-ge-li-liquid); _phase:ge-li:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 453.33–2500 K, x(Li) 0–1 | 154 | 2 |
 
 ## DIAMOND_A4 (Ge–Li)
 
@@ -507,7 +507,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_88_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ge 0.5000, Li 0.5000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–812.96 K, x(Li) 0.5–0.5
-- Literature: 44 values (38 accepted) from 2 papers
+- Literature: 45 values (38 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-li:geli)
 
 Names (5): _corpus: _corpus:phase:ge-li:geli  
@@ -628,11 +628,11 @@ _assessment that models this phase_
 - Id: `phase:ge-li:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 453.33–2500 K, x(Li) 0–1
-- Literature: 153 values (135 accepted) from 2 papers
+- Literature: 154 values (135 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-li:liquid)
 
-Names (5): _corpus: _corpus:phase:ge-li:liquid  
-_paper: _paper:10.1007/s11669-018-0632-5:L, paper:10.1016/j.jct.2022.106883:L  
+Names (6): _corpus: _corpus:phase:ge-li:liquid  
+_paper: _paper:10.1007/s11669-018-0632-5:L, paper:10.1016/j.jct.2022.106883:L, paper:10.1016/j.jct.2022.106883:liquid  
 _tdb: _tdb:GeLi-18Wan.tdb:LIQUID, tdb:GeLi-22Gie.tdb:LIQUID  
 
 

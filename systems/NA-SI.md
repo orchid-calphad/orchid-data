@@ -1,10 +1,10 @@
 # Na–Si system
 
-> Na–Si system: 9 accepted literature values (crystal structure 6, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–Si system: 7 accepted literature values (crystal structure 6, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-SI.html · Markdown: https://data.orchid-project.org/systems/NA-SI.md
 
-9 accepted literature values from 1 paper(s) (experimental 5, model 1, DFT 3); 1 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (experimental 3, model 1, DFT 3); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-SI.json) · [CSV](https://data.orchid-project.org/systems/NA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-SI/NaSi-12Hao.json) · [phases (7)](https://data.orchid-project.org/phases/pages/NA-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-SI.html) · [Markdown](https://data.orchid-project.org/systems/NA-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 3 |
 | model | 1 |
 | DFT | 3 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 3 |
+| phase transition | 1 |
 | crystal structure | 6 |
 
 ## Calculated phase diagrams
@@ -48,15 +48,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (1)
 
 Table: Phase transition, Na–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 885.15 K | 885.15 |  | experimental | [1] Hao 2012; _cites Morito 2009_ | p. 2; `ORC-UIWT5PY7W2` | “The LT-NaSi transforms to HT-NaSi (high temperature form of NaSi) at 612 °C \[12\].” |
 | Phase transition | 885.15 K | 885.15 | LT-NaSi + HT-NaSi | model | [1] Hao 2012 | p. 5; `ORC-3LFZFS6N6S` | “The Gibbs energy of the HT-NaSi phase is equal to that of the LT-NaSi phase at the transition temperature of 612 °C.” |
-| Phase transition | 1071.15 K | 1071.15 |  | experimental | [1] Hao 2012; _cites Morito 2009_ | p. 2; `ORC-NMVRFVEUP6` | “The melting point of NaSi was determined to be 798 °C \[12\].” |
 
 ### Crystal structure (6)
 

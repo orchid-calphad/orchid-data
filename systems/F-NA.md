@@ -1,10 +1,10 @@
 # F–Na system
 
-> F–Na system: 11 accepted literature values (invariant reaction 5, crystal structure 2, formation 2, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> F–Na system: 10 accepted literature values (invariant reaction 5, crystal structure 2, formation 2, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/F-NA.html · Markdown: https://data.orchid-project.org/systems/F-NA.md
 
-11 accepted literature values from 1 paper(s) (experimental 5, model 4, DFT 2); 0 calculated phase diagram(s).
+10 accepted literature values from 1 paper(s) (experimental 4, model 4, DFT 2); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/F-NA.json) · [CSV](https://data.orchid-project.org/systems/F-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-NA) · [phases (7)](https://data.orchid-project.org/phases/pages/F-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/F-NA.html) · [Markdown](https://data.orchid-project.org/systems/F-NA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 4 |
 | model | 4 |
 | DFT | 2 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase transition | 2 |
+| phase transition | 1 |
 | formation | 2 |
 | crystal structure | 2 |
 
@@ -52,14 +52,13 @@ Table: Enthalpies of formation, F–Na system (2)
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, F–Na system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1373 K | 1373 | other | experimental | [1] Zhang 2006 | p. 2; `ORC-IZ7G5HZB23` | “The composition of the consolute point in the liquid was estimated to be 23.1 at.% F at 1373 K by extrapolation.” |
-| Phase transition | 1453 K | 1453 | other | experimental | [1] Zhang 2006 | p. 2; `ORC-KXQ7KKYQXO` | “The composition of the consolute point was extrapolated to be 41.9 at.% F at 1453 K.” |
 
 ### Crystal structure (2)
 

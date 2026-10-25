@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of CaGa4
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -24.9 | kJ/mol-atom | 4.9 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 4.9 |
-| -34.155 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -34.155 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

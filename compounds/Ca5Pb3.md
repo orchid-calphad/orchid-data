@@ -29,9 +29,9 @@ Table: Uncertainty budget of the literature values of Ca5Pb3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -56 | kJ/mol-atom | 5 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5 |
-| -56 | kJ/mol-atom | 1 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -56 | kJ/mol-atom | 1 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -56 | kJ/mol-atom | 5 | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 5 |
+| -56 | kJ/mol-atom | 1 | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -56 | kJ/mol-atom | 1 | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -69.354 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -69.354 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -64.032 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

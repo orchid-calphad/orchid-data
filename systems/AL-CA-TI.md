@@ -1,10 +1,10 @@
 # Al–Ca–Ti system
 
-> Al–Ca–Ti system: 14 accepted literature values (phase equilibrium 10, phase transition 3, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ca–Ti system: 12 accepted literature values (phase equilibrium 10, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CA-TI.html · Markdown: https://data.orchid-project.org/systems/AL-CA-TI.md
 
-14 accepted literature values from 1 paper(s) (experimental 11, model 3); 0 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 10, model 2); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CA-TI.json) · [CSV](https://data.orchid-project.org/systems/AL-CA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CA-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CA-TI.html) · [Markdown](https://data.orchid-project.org/systems/AL-CA-TI.md)
 
@@ -12,34 +12,24 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 3 |
+| experimental | 10 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 3 |
+| phase transition | 2 |
 | phase equilibrium | 10 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–Ca–Ti system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1176.15 | peritectic: L + Al3Ti(e) = Al20CaTi2 |  | model | [1] Hampl 2015 | p. 9; `ORC-RQLV3CJWCH` | “The ternary phase forms in the peritectic invariant three-phase reaction (maximum) L ? Al3Ti(e) = Al20CaTi2 at 903 °C, and Al20CaTi2 is not stable at higher temperature according to this assessment.” |
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, Al–Ca–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 963.15 K | 963.15 | other | experimental | [1] Hampl 2015; _cites Amsterdam 2006_ [doi](https://doi.org/10.1016/j.actamat.2006.05.033) | p. 8; `ORC-5I4HIKW4JP` | “Also the high temperature stability limit of 690 °C \[14\] is in conflict with the successful preparation of Al20CaTi2 by Thiede et al. \[13\] at 850 °C.” |
 | Phase transition | 1573.15 K | 1573.15 | congruent transformation | model | [1] Hampl 2015 | p. 9; `ORC-R7XRQ3WMTF` | “For this choice the Al20CaTi2 phase is almost congruently melting at 1300 °C.” |
 | Phase transition | 2503.15 K | 2503.15 | congruent transformation | model | [1] Hampl 2015 | p. 9; `ORC-75IQ5S6OOS` | “However, the consequence of this extreme choice for the Gibbs energy of formation of Al20CaTi2, (-31000 ? 2T) J/mol-at., is the generation of a very large liquidus surface (primary crystallization field) of Al20CaTi2 with a congruent melting point of Al20CaTi2 at 2230 °C.” |
 

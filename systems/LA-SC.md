@@ -1,24 +1,12 @@
 # La–Sc system
 
-> La–Sc system: 2 accepted literature values (phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Sc system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-SC.html · Markdown: https://data.orchid-project.org/systems/LA-SC.md
 
-2 accepted literature values from 1 paper(s) (experimental 2); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SC.json) · [CSV](https://data.orchid-project.org/systems/LA-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SC/LaSc-12Bu.json) · [phases (5)](https://data.orchid-project.org/phases/pages/LA-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SC.html) · [Markdown](https://data.orchid-project.org/systems/LA-SC.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -38,23 +26,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | LaSc-12Bu.tdb | 503.12 | DHCP (x(Sc) 0.10797) + FCC_A1 (x(Sc) 0.12395) + HCP_A3 (x(Sc) 0.86464) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/LA/LA-SC.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/LA/LA-SC.json)
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, La–Sc system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 506.15 K | 506.15 |  | experimental | [1] Bu 2012; _cites Naumkin 1970_ | p. 1; `ORC-NMT7QS67HU.ba709f` | “Two eutectoid reactions, (cLa, bSc) (bLa) + (aSc) and (bLa) (aLa) + (aSc), were detected to occur at 750 ± 5 °C, 45 at.% Sc, and to occur at 233 ± 2 °C, 14 at.% Sc, respectively.” |
-| Phase transition | 1023.15 K | 1023.15 |  | experimental | [1] Bu 2012; _cites Naumkin 1970_ | p. 1; `ORC-NMT7QS67HU.0c1114` | “Two eutectoid reactions, (cLa, bSc) (bLa) + (aSc) and (bLa) (aLa) + (aSc), were detected to occur at 750 ± 5 °C, 45 at.% Sc, and to occur at 233 ± 2 °C, 14 at.% Sc, respectively.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. M. J. Bu, Y. B. Peng, M. Wang, Y. Du, H. H. Xu, D. D. Zhao et al., Thermodynamic Optimization of the Sc-X (X = La, Li, Ca, Cr) Systems, J. Phase Equilib. Diffus. 33, 40-45 (2012). [doi:10.1007/s11669-011-9978-7](https://doi.org/10.1007/s11669-011-9978-7)
 
 ## Please cite
 

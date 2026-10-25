@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al2Fe.html · Markdown: https://
 
 4 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 1); experimental median -27.8 kJ/mol-atom (n = 1); OQMD -34.734 kJ/mol-atom (oqmd-1376945).
 
-Systems: [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) · [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)
+Systems: [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)
 
 ## Literature values
 
@@ -17,7 +17,7 @@ Table: Enthalpy of formation of Al2Fe reported in the literature (4)
 | -27.8 kJ/mol-atom ± 1.9 | ζ-Al2Fe | 298.15 | experimental | solution calorimetry | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Lukas 2007_ | Table 3, p. 6, row 5; `ORC-PPHKB7RLW5.2ce243` |  |
 | -23.8 kJ/mol-atom | ζ-Al2Fe | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023 | Table 3, p. 6, row 8; `ORC-NFOJ5NSTXH.4aba14` |  |
 | -23.72 kJ/mol-atom | ζ-Al2Fe | 298.15 | model |  | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 3, p. 6, row 7; `ORC-OQUBXYMF3T.a8d56e` |  |
-| -124.42 kJ/mol (basis unstated) | FeAl2 |  | DFT | DFT | [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) | [2] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 3; `ORC-QZDY6TWINT` |  |
+| -124.42 kJ/mol (basis unstated) | FeAl2 |  | DFT | DFT | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [2] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 3; `ORC-QZDY6TWINT` |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Al2Fe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -27.8 | kJ/mol-atom | 1.9 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -27.8 | kJ/mol-atom | 1.9 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -23.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -23.72 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -124.42 | kJ/mol (basis unstated) |  | 0.005 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| -124.42 | kJ/mol (basis unstated) |  | 0.005 | 12.5 (dft, calibrated) |  |  |  | 12.5 |
 
 ## DFT formation energies
 

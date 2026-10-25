@@ -1,10 +1,10 @@
 # Ca–Zn system
 
-> Ca–Zn system: 29 accepted literature values (invariant reaction 28, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Zn system: 25 accepted literature values (invariant reaction 25) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-ZN.html · Markdown: https://data.orchid-project.org/systems/CA-ZN.md
 
-29 accepted literature values from 1 paper(s) (experimental 13, model 16); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+25 accepted literature values from 1 paper(s) (experimental 11, model 14); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-ZN.json) · [CSV](https://data.orchid-project.org/systems/CA-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-ZN/CaZn-01Bru-LB.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CA-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CA-ZN.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
-| model | 16 |
+| experimental | 11 |
+| model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 28 |
-| phase transition | 1 |
+| invariant reaction | 25 |
 
 ## Calculated phase diagrams
 
@@ -64,24 +63,21 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ca–Zn system (28)
+Table: Invariant reactions reported in the literature for the Ca–Zn system (25)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 999.4 | L = CaZn11 | L: Zn 0.917; CaZn11: Zn 0.917 | model | [1] Brubaker 2001 | Table 1, p. 3, row 20; `ORC-BVDSH2SXFV` |  |
-| 997 | L = CaZn11 | L: Zn 0.917; CaZn11: Zn 0.917 | experimental | [1] Brubaker 2001; _cites Messing 1963_ | Table 1, p. 3, row 19; `ORC-5BCQYMXOOQ` |  |
-| 977 | L = CaZn2 | L: Zn 0.667; CaZn2: Zn 0.667 | experimental | [1] Brubaker 2001; _cites Messing 1963_ | Table 1, p. 3, row 9; `ORC-C3RIQZK6PS` |  |
-| 976.5 | L = CaZn2 | L: Zn 0.667; CaZn2: Zn 0.667 | model | [1] Brubaker 2001 | Table 1, p. 3, row 10; `ORC-33OGG2YPON` |  |
-| 969.6 | L = CaZn5 | L: Zn 0.833; CaZn5: Zn 0.833 | model | [1] Brubaker 2001 | Table 1, p. 3, row 16; `ORC-IQ6QX7PE74` |  |
-| 968 | L = CaZn5 | L: Zn 0.833; CaZn5: Zn 0.833 | experimental | [1] Brubaker 2001; _cites Messing 1963_ | Table 1, p. 3, row 15; `ORC-J6IORGOEQI` |  |
-| 963 | eutectic |  | experimental | [1] Brubaker 2001 | p. 2; `ORC-NLJTNQAJPY.fa41d7` | “The eutectic between CaZn5 and CaZnll was calculated to be at 958K, rather than at 963K as the experimental data indicates (Figure 3).” |
+| 999.4 | congruent melting: L = CaZn11 | L: Zn 0.917; CaZn11: Zn 0.917 | model | [1] Brubaker 2001 | Table 1, p. 3, row 20; `ORC-BVDSH2SXFV` |  |
+| 997 | congruent melting: L = CaZn11 | L: Zn 0.917; CaZn11: Zn 0.917 | experimental | [1] Brubaker 2001; _cites Messing 1963_ | Table 1, p. 3, row 19; `ORC-5BCQYMXOOQ` |  |
+| 977 | congruent melting: L = CaZn2 | L: Zn 0.667; CaZn2: Zn 0.667 | experimental | [1] Brubaker 2001; _cites Messing 1963_ | Table 1, p. 3, row 9; `ORC-C3RIQZK6PS` |  |
+| 976.5 | congruent melting: L = CaZn2 | L: Zn 0.667; CaZn2: Zn 0.667 | model | [1] Brubaker 2001 | Table 1, p. 3, row 10; `ORC-33OGG2YPON` |  |
+| 969.6 | congruent melting: L = CaZn5 | L: Zn 0.833; CaZn5: Zn 0.833 | model | [1] Brubaker 2001 | Table 1, p. 3, row 16; `ORC-IQ6QX7PE74` |  |
+| 968 | congruent melting: L = CaZn5 | L: Zn 0.833; CaZn5: Zn 0.833 | experimental | [1] Brubaker 2001; _cites Messing 1963_ | Table 1, p. 3, row 15; `ORC-J6IORGOEQI` |  |
 | 963 | L = CaZn5 + CaZn11 | L: Zn 0.864; CaZn5: Zn 0.833; CaZn11: Zn 0.917 | experimental | [1] Brubaker 2001; _cites Messing 1963_ | Table 1, p. 3, row 17; `ORC-TAC425XVSK` |  |
-| 958 | eutectic |  | model | [1] Brubaker 2001 | p. 2; `ORC-NLJTNQAJPY.034731` | “The eutectic between CaZn5 and CaZnll was calculated to be at 958K, rather than at 963K as the experimental data indicates (Figure 3).” |
 | 957.5 | L = CaZn5 + CaZn11 | L: Zn 0.863; CaZn5: Zn 0.833; CaZn11: Zn 0.917 | model | [1] Brubaker 2001 | Table 1, p. 3, row 18; `ORC-PM5WGFPKLH` |  |
 | 942 | L + CaZn11 = CaZn13 | L: Zn 0.97; CaZn11: Zn 0.917; CaZn13: Zn 0.929 | experimental | [1] Brubaker 2001; _cites Messing 1963_ | Table 1, p. 3, row 21; `ORC-JKP6DMYLRO` |  |
 | 941.8 | L + CaZn11 = CaZn13 | L: Zn 0.969; CaZn11: Zn 0.917; CaZn13: Zn 0.929 | model | [1] Brubaker 2001 | Table 1, p. 3, row 22; `ORC-V6HNT7HT4R` |  |
-| 915 | peritectic |  | experimental | [1] Brubaker 2001; _cites Messing 1963_ | p. 2; `ORC-V7B47KR4SA.bfa8df` | “If the suggested curvature of Messing's liquidus data for CaZn2 is extrapolated downward to the temperature of the peritectic reaction, 915K, the amount of zinc in the liquid would be about 74.2% Zn.” |
-| 914.6 | L = CaZn3 | L: Zn 0.75; CaZn3: Zn 0.75 | model | [1] Brubaker 2001 | Table 1, p. 3, row 12; `ORC-QBZAUCTVHP` |  |
+| 914.6 | congruent melting: L = CaZn3 | L: Zn 0.75; CaZn3: Zn 0.75 | model | [1] Brubaker 2001 | Table 1, p. 3, row 12; `ORC-QBZAUCTVHP` |  |
 | 914.3 | L = CaZn2 + CaZn3 | L: Zn 0.746; CaZn2: Zn 0.667; CaZn3: Zn 0.75 | model | [1] Brubaker 2001 | Table 1, p. 3, row 11; `ORC-F2S2ML63I7` |  |
 | 914 | eutectic |  | model | [1] Brubaker 2001 | p. 3; `ORC-LZBQPWYK2Q` | “It follows that there must be a eutectic reaction between CaZn2 and CaZn3, which was assumed to be at 74.2% zinc, and at a temperature of 914K.” |
 | 911.5 | L = CaZn3 + CaZn5 | L: Zn 0.764; CaZn3: Zn 0.75; CaZn5: Zn 0.833 | model | [1] Brubaker 2001 | Table 1, p. 3, row 14; `ORC-53ZLLZJ2AM` |  |
@@ -96,16 +92,6 @@ Table: Invariant reactions reported in the literature for the Ca–Zn system (28
 | 665.9 | L + αCa = Ca3Zn | L: Zn 0.261; αCa: Zn 0; Ca3Zn: Zn 0.25 | model | [1] Brubaker 2001 | Table 1, p. 3, row 2; `ORC-J362KSVA2Y` |  |
 | 664.9 | L = Ca3Zn + Ca5Zn3 | L: Zn 0.273; Ca3Zn: Zn 0.25; Ca5Zn3: Zn 0.375 | model | [1] Brubaker 2001 | Table 1, p. 3, row 4; `ORC-UHRXY3LRRH` |  |
 | 664 | L = Ca3Zn + Ca5Zn3 | L: Zn 0.274; Ca3Zn: Zn 0.25; Ca5Zn3: Zn 0.375 | experimental | [1] Brubaker 2001; _cites Messing 1963_ | Table 1, p. 3, row 3; `ORC-432YAXBMPQ` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ca–Zn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 915 K | 915 | other | model | [1] Brubaker 2001; _cites Messing 1963_ | p. 2; `ORC-V7B47KR4SA.334ac7` | “If the suggested curvature of Messing's liquidus data for CaZn2 is extrapolated downward to the temperature of the peritectic reaction, 915K, the amount of zinc in the liquid would be about 74.2% Zn.” |
 
 ## Sources
 

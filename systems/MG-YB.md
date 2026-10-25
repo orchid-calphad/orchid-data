@@ -49,10 +49,10 @@ Table: Invariant reactions reported in the literature for the Mg–Yb system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 782 | liq. -> Mg2Yb + hcp(Mg) | liq.: Yb 0.107; Mg2Yb: Yb 0.293; hcp(Mg): Yb 0.012 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 2; `ORC-DZVEU7UJ2W` |  |
-| 782 | liq. -> Mg2Yb + hcp(Mg) | liq.: Yb 0.1029; Mg2Yb: Yb 0.2945; hcp(Mg): Yb 0.006 | model | [1] Guo 2006 | Table 4, p. 7, row 1; `ORC-SCQK7IN75P` |  |
-| 769 | liq. -> bcc(Yb) + Mg2Yb | liq.: Yb 0.6745; bcc(Yb): Yb 0.9097; Mg2Yb: Yb 0.3622 | model | [1] Guo 2006 | Table 4, p. 7, row 5; `ORC-5LCAGXPYUQ` |  |
-| 769 | liq. -> bcc(Yb) + Mg2Yb | liq.: Yb 0.685; bcc(Yb): Yb 0.917; Mg2Yb: Yb 0.362 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 6; `ORC-C23DZY6BZS` |  |
+| 782 | eutectic: liq. -> Mg2Yb + hcp(Mg) | liq.: Yb 0.107; Mg2Yb: Yb 0.293; hcp(Mg): Yb 0.012 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 2; `ORC-DZVEU7UJ2W` |  |
+| 782 | eutectic: liq. -> Mg2Yb + hcp(Mg) | liq.: Yb 0.1029; Mg2Yb: Yb 0.2945; hcp(Mg): Yb 0.006 | model | [1] Guo 2006 | Table 4, p. 7, row 1; `ORC-SCQK7IN75P` |  |
+| 769 | eutectic: liq. -> bcc(Yb) + Mg2Yb | liq.: Yb 0.6745; bcc(Yb): Yb 0.9097; Mg2Yb: Yb 0.3622 | model | [1] Guo 2006 | Table 4, p. 7, row 5; `ORC-5LCAGXPYUQ` |  |
+| 769 | eutectic: liq. -> bcc(Yb) + Mg2Yb | liq.: Yb 0.685; bcc(Yb): Yb 0.917; Mg2Yb: Yb 0.362 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 6; `ORC-C23DZY6BZS` |  |
 | 720 | bcc(Yb) -> fcc(Yb) + Mg2Yb | bcc(Yb): Yb 0.92; fcc(Yb): Yb 0.961; Mg2Yb: Yb 0.36 | experimental | [1] Guo 2006; _cites Mcmasters 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990063-9) | Table 4, p. 7, row 8; `ORC-CBRU6DAJQW` |  |
 | 720 | bcc(Yb) -> fcc(Yb) + Mg2Yb | bcc(Yb): Yb 0.9299; fcc(Yb): Yb 0.9621; Mg2Yb: Yb 0.3606 | model | [1] Guo 2006 | Table 4, p. 7, row 7; `ORC-NFC47RKOIU` |  |
 

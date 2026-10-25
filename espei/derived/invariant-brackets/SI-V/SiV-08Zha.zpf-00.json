@@ -181,7 +181,7 @@
     "x0": 0.71,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> V5Si3 + V3Si",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -200,7 +200,7 @@
     "x0": 0.71,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> V5Si3 + V3Si",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -219,7 +219,7 @@
     "x0": 0.87,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> V3Si + (V)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -238,7 +238,7 @@
     "x0": 0.87,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> V3Si + (V)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

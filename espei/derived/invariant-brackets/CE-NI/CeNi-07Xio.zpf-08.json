@@ -80,7 +80,7 @@
     "x0": 0.9109999999999999,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> CeNi5 + (Ni)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

@@ -61,8 +61,8 @@ Table: Enthalpies of formation, Ge–Mg system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -115.37 unspecified ± 0.25 | 298.15 | experimental |  |  | [1] Islam 2006; _cites Beardmore 1966_ | p. 5; `ORC-OW7BGO2K5U.a495c1` | “They found that the heat of formation of Mg2 Ge at 298 K from the solid elements is -104.23 ± 1.26 kJ, whereas Beardmore et al. \[30\] reported the same as -115.37 ± 0.25 kJ, showing a disagreement between the two values.” |
-| — |  | -104.23 unspecified ± 1.26 | 298.15 | experimental |  |  | [1] Islam 2006 | p. 5; `ORC-OW7BGO2K5U.d7667b` | “They found that the heat of formation of Mg2 Ge at 298 K from the solid elements is -104.23 ± 1.26 kJ, whereas Beardmore et al. \[30\] reported the same as -115.37 ± 0.25 kJ, showing a disagreement between the two values.” |
+| Mg2Ge |  | -115.37 unspecified ± 0.25 | 298.15 | experimental |  |  | [1] Islam 2006; _cites Beardmore 1966_ | p. 5; `ORC-OW7BGO2K5U.a495c1` | “They found that the heat of formation of Mg2 Ge at 298 K from the solid elements is -104.23 ± 1.26 kJ, whereas Beardmore et al. \[30\] reported the same as -115.37 ± 0.25 kJ, showing a disagreement between the two values.” |
+| Mg2Ge |  | -104.23 unspecified ± 1.26 | 298.15 | experimental |  |  | [1] Islam 2006 | p. 5; `ORC-OW7BGO2K5U.d7667b` | “They found that the heat of formation of Mg2 Ge at 298 K from the solid elements is -104.23 ± 1.26 kJ, whereas Beardmore et al. \[30\] reported the same as -115.37 ± 0.25 kJ, showing a disagreement between the two values.” |
 | Mg2Ge | [GeMg2](https://data.orchid-project.org/compounds/GeMg2.html) | -39.3728 kJ/mol-atom | 298.15 | model | -25.946 (mp-aaaaaaps) | -26.833 (oqmd-646873) | [1] Islam 2006 | Table 3, p. 5, row 6; `ORC-CHNOD5UYR2` |  |
 | Mg2Ge | [GeMg2](https://data.orchid-project.org/compounds/GeMg2.html) | -38.409 kJ/mol-atom ± 0.0837 | 273 | experimental | -25.946 (mp-aaaaaaps) | -26.833 (oqmd-646873) | [1] Islam 2006; _cites Bever 1964_ | Table 3, p. 5, row 4; `ORC-DY5S7B6XOQ` |  |
 

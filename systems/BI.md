@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/BI.html · Markdown: https://data.orchid-project.org/systems/BI.md
 
-48 accepted literature values from 9 paper(s) (experimental 14, model 10, DFT 12, unspecified 12); 0 calculated phase diagram(s).
+48 accepted literature values from 9 paper(s) (experimental 13, model 7, DFT 16, unspecified 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI.json) · [CSV](https://data.orchid-project.org/systems/BI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI.html) · [Markdown](https://data.orchid-project.org/systems/BI.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 10 |
-| DFT | 12 |
+| experimental | 13 |
+| model | 7 |
+| DFT | 16 |
 | unspecified | 12 |
 
 Table: Accepted values by property group
@@ -56,7 +56,7 @@ Table: Crystal structure, Bi system
 | Lattice a | 4.555 Å | 298.15 | Bi | experimental | [5] Bennoui 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 3, row 1; `ORC-TTEDGGR6ST.2f91b0` |  |
 | Lattice a | 4.544 Å | 298.15 | Bi; _Bi: _ | unspecified | [3] Djaballah 2015; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 1; `ORC-WZMSYUJZVD.8f2efe` |  |
 | Lattice a | 4.56 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | experimental | [8] Liu 2019; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 1, p. 4, row 3; `ORC-5R3G4YZGHZ.07a8e6` |  |
-| Lattice a | 4.6 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | model | [8] Liu 2019 | Table 1, p. 4, row 4; `ORC-FF7KPPSO2U.74c08d` |  |
+| Lattice a | 4.6 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | DFT | [8] Liu 2019 | Table 1, p. 4, row 4; `ORC-FF7KPPSO2U.74c08d` |  |
 | Lattice a | 4.746 Å | 298.15 | αBi; _αBi: Bi 1_ | unspecified | [9] Karakaya 1993 | Table 2, p. 4, row 22; `ORC-WRWV7GVRV4.e5c474` |  |
 | Lattice a | 6.674 Å | 298.15 | βBi (b); _βBi (b): Bi 1; βBi: Bi 1_ | unspecified | [9] Karakaya 1993 | Table 2, p. 4, row 23; `ORC-DT7FHBVAG3.585003` |  |
 | Lattice b | 4.612 Å |  | Bi; _Bi: _ | model | [3] Djaballah 2015 | Table 1, p. 2, row 2; `ORC-2WR5F7NAWP.fdd8d3` |  |
@@ -66,7 +66,7 @@ Table: Crystal structure, Bi system
 | Lattice b | 4.555 Å | 298.15 | Bi | experimental | [5] Bennoui 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 3, row 1; `ORC-TTEDGGR6ST.46004a` |  |
 | Lattice b | 4.544 Å | 298.15 | Bi; _Bi: _ | unspecified | [3] Djaballah 2015; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 1; `ORC-WZMSYUJZVD.c87fa0` |  |
 | Lattice b | 4.56 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | experimental | [8] Liu 2019; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 1, p. 4, row 3; `ORC-5R3G4YZGHZ.5e6553` |  |
-| Lattice b | 4.6 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | model | [8] Liu 2019 | Table 1, p. 4, row 4; `ORC-FF7KPPSO2U.122eb8` |  |
+| Lattice b | 4.6 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | DFT | [8] Liu 2019 | Table 1, p. 4, row 4; `ORC-FF7KPPSO2U.122eb8` |  |
 | Lattice b | 6.117 Å | 298.15 | βBi (b); _βBi (b): Bi 1; βBi: Bi 1_ | unspecified | [9] Karakaya 1993 | Table 2, p. 4, row 23; `ORC-DT7FHBVAG3.93559b` |  |
 | Lattice c | 11.714 Å |  | Bi; _Bi: _ | model | [3] Djaballah 2015 | Table 1, p. 2, row 2; `ORC-2WR5F7NAWP.248882` |  |
 | Lattice c | 11.918 Å | 0 | Bi; _Bi: Bi 1_ | DFT | [4] Dziri 2022 | Table 1, p. 2, row 1; `ORC-57BRBWYGGO.99fe7c` |  |
@@ -81,9 +81,9 @@ Table: Crystal structure, Bi system
 | Lattice c | 12.024 Å | 298.15 | Bi | experimental | [5] Bennoui 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 3, row 1; `ORC-TTEDGGR6ST.55e247` |  |
 | Lattice c | 11.859 Å | 298.15 | Bi; _Bi: _ | unspecified | [3] Djaballah 2015; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 1; `ORC-WZMSYUJZVD.4acbf2` |  |
 | Lattice c | 4.75 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | experimental | [8] Liu 2019; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 1, p. 4, row 3; `ORC-5R3G4YZGHZ.4c9e49` |  |
-| Lattice c | 4.8 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | model | [8] Liu 2019 | Table 1, p. 4, row 4; `ORC-FF7KPPSO2U.9769db` |  |
+| Lattice c | 4.8 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | DFT | [8] Liu 2019 | Table 1, p. 4, row 4; `ORC-FF7KPPSO2U.9769db` |  |
 | Lattice c | 3.304 Å | 298.15 | βBi (b); _βBi (b): Bi 1; βBi: Bi 1_ | unspecified | [9] Karakaya 1993 | Table 2, p. 4, row 23; `ORC-DT7FHBVAG3.8bacbf` |  |
-| Molar volume; _printed: V0_ | 36.597 Å3/atom |  | Bi; _alloy: Bi 1_ | experimental | [8] Liu 2019 | Table 2, p. 4, row 3; `ORC-PCRMI3EV5C.a7689d` |  |
+| Molar volume; _printed: V0_ | 36.597 Å3/atom | 0 | Bi; _alloy: Bi 1_ | DFT | [8] Liu 2019 | Table 2, p. 4, row 3; `ORC-PCRMI3EV5C.a7689d` |  |
 | Molar volume; _printed: V0_ | 35.385 Å3/atom |  | Bi; _alloy: Bi 1_ | experimental | [8] Liu 2019; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 2, p. 4, row 4; `ORC-RWFURKC52F.bb4911` |  |
 | lattice alpha | 57.23 ° | 298.15 | αBi; _αBi: Bi 1_ | unspecified | [9] Karakaya 1993 | Table 2, p. 4, row 22; `ORC-WRWV7GVRV4.282707` |  |
 | lattice beta | 110.33 ° | 298.15 | βBi (b); _βBi (b): Bi 1; βBi: Bi 1_ | unspecified | [9] Karakaya 1993 | Table 2, p. 4, row 23; `ORC-DT7FHBVAG3.3d7ffe` |  |

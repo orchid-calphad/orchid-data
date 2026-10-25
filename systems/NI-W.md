@@ -1,10 +1,10 @@
 # Ni–W system
 
-> Ni–W system: 26 accepted literature values (heat capacity / entropy / enthalpy 12, invariant reaction 10, formation 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–W system: 24 accepted literature values (heat capacity / entropy / enthalpy 12, invariant reaction 8, formation 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-W.html · Markdown: https://data.orchid-project.org/systems/NI-W.md
 
-26 accepted literature values from 2 paper(s) (experimental 12, model 14); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+24 accepted literature values from 1 paper(s) (experimental 11, model 13); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-W.json) · [CSV](https://data.orchid-project.org/systems/NI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-W/NiW-08Pop.json) · [phases (9)](https://data.orchid-project.org/phases/pages/NI-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-W.html) · [Markdown](https://data.orchid-project.org/systems/NI-W.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 14 |
+| experimental | 11 |
+| model | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 10 |
+| invariant reaction | 8 |
 | formation | 4 |
 | heat capacity / entropy / enthalpy | 12 |
 
@@ -73,20 +73,18 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–W system (10)
+Table: Invariant reactions reported in the literature for the Ni–W system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1773 | eutectic |  | experimental | [1] Kaufman 1975 | p. 6; `ORC-TJD5LAJX6I` | “By contrast, the experimental reaction at I773K is reported to be a eutectic with the liquid composition at 79.3 a/o Ni.” |
-| 1770 | peritectic |  | model | [1] Kaufman 1975 | p. 3; `ORC-WU4GQ7ZZFS` | “In particular, the calculated diagram shows a peritectic at 1770K between the liquid, bcc and fcc phases at nickel concentrations of 84, 1 and 82 atomic per cent respectively.” |
-| 1340.7 | NiW -> fcc + bcc(W) | NiW: Ni 0.5, W 0.5 | model | [2] Guillermet 1986 | Table X, p. 9, row 3; `ORC-6VDNSBORKU` |  |
-| 1325 | NiW -> fcc + bcc(W) | NiW: Ni 0.5, W 0.5 | experimental | [2] Guillermet 1986; _cites Hofmann 1983_ | Table X, p. 9, row 2; `ORC-BCQ5VCX6TG` |  |
-| 1303 | NiW -> fcc + bcc(W) | NiW: Ni 0.5, W 0.5 | experimental | [2] Guillermet 1986; _cites Walsh 1973_ [doi](https://doi.org/10.1007/bf02644589) | Table X, p. 9, row 1; `ORC-IK4EBAYMLF` |  |
-| 1300.3 | NiW2 -> NiW + bcc(W) | NiW2: Ni 0.333333, W 0.666667; NiW: Ni 0.5, W 0.5 | model | [2] Guillermet 1986 | Table X, p. 9, row 5; `ORC-PEJJETHYN6` |  |
-| 1283 | NiW2 -> NiW + bcc(W) | NiW2: Ni 0.333333, W 0.666667; NiW: Ni 0.5, W 0.5 | experimental | [2] Guillermet 1986; _cites Poulsen 1974_ [doi](https://doi.org/10.1016/0036-9748%2874%2990349-4) | Table X, p. 9, row 4; `ORC-XPBVXVXKDX` |  |
-| 1275 | Ni4W -> NiW + fcc | Ni4W: Ni 0.8, W 0.2; NiW: Ni 0.5, W 0.5 | model | [2] Guillermet 1986 | Table X, p. 9, row 8; `ORC-6FCLRCXWWB` |  |
-| 1273 | Ni4W -> NiW + fcc | Ni4W: Ni 0.8, W 0.2; NiW: Ni 0.5, W 0.5 | experimental | [2] Guillermet 1986; _cites Poulsen 1974_ [doi](https://doi.org/10.1016/0036-9748%2874%2990349-4) | Table X, p. 9, row 7; `ORC-LNIFXNZVLN` |  |
-| 1243 | Ni4W -> NiW + fcc | Ni4W: Ni 0.8, W 0.2; NiW: Ni 0.5, W 0.5 | experimental | [2] Guillermet 1986; _cites Ellinger 1940_ | Table X, p. 9, row 6; `ORC-XQE3KYRLZS` |  |
+| 1340.7 | NiW -> fcc + bcc(W) | NiW: Ni 0.5, W 0.5 | model | [1] Guillermet 1986 | Table X, p. 9, row 3; `ORC-6VDNSBORKU` |  |
+| 1325 | NiW -> fcc + bcc(W) | NiW: Ni 0.5, W 0.5 | experimental | [1] Guillermet 1986; _cites Hofmann 1983_ | Table X, p. 9, row 2; `ORC-BCQ5VCX6TG` |  |
+| 1303 | NiW -> fcc + bcc(W) | NiW: Ni 0.5, W 0.5 | experimental | [1] Guillermet 1986; _cites Walsh 1973_ [doi](https://doi.org/10.1007/bf02644589) | Table X, p. 9, row 1; `ORC-IK4EBAYMLF` |  |
+| 1300.3 | NiW2 -> NiW + bcc(W) | NiW2: Ni 0.333333, W 0.666667; NiW: Ni 0.5, W 0.5 | model | [1] Guillermet 1986 | Table X, p. 9, row 5; `ORC-PEJJETHYN6` |  |
+| 1283 | NiW2 -> NiW + bcc(W) | NiW2: Ni 0.333333, W 0.666667; NiW: Ni 0.5, W 0.5 | experimental | [1] Guillermet 1986; _cites Poulsen 1974_ [doi](https://doi.org/10.1016/0036-9748%2874%2990349-4) | Table X, p. 9, row 4; `ORC-XPBVXVXKDX` |  |
+| 1275 | Ni4W -> NiW + fcc | Ni4W: Ni 0.8, W 0.2; NiW: Ni 0.5, W 0.5 | model | [1] Guillermet 1986 | Table X, p. 9, row 8; `ORC-6FCLRCXWWB` |  |
+| 1273 | Ni4W -> NiW + fcc | Ni4W: Ni 0.8, W 0.2; NiW: Ni 0.5, W 0.5 | experimental | [1] Guillermet 1986; _cites Poulsen 1974_ [doi](https://doi.org/10.1016/0036-9748%2874%2990349-4) | Table X, p. 9, row 7; `ORC-LNIFXNZVLN` |  |
+| 1243 | Ni4W -> NiW + fcc | Ni4W: Ni 0.8, W 0.2; NiW: Ni 0.5, W 0.5 | experimental | [1] Guillermet 1986; _cites Ellinger 1940_ | Table X, p. 9, row 6; `ORC-XQE3KYRLZS` |  |
 
 ## Other properties
 
@@ -96,10 +94,10 @@ Table: Formation, Ni–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -3.6797 kJ/mol-atom | 1173 | Ni4W; _alloy: W 0.2_ | model | [2] Guillermet 1986 | Table XIVo, p. 14, row 2; `ORC-CKDMGEK2QI` |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -4.8137 kJ/mol-atom | 1173 | Ni4W; _alloy: W 0.2_ | model | [2] Guillermet 1986; _cites Meshkov 1823_ | Table XIVo, p. 14, row 1; `ORC-UJ7YP2K2PV` |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -2.6795 kJ/mol-atom | 1173 | NiW; _alloy: W 0.5_ | model | [2] Guillermet 1986 | Table XIVo, p. 14, row 4; `ORC-DNA7QU3XLX` |  |
-| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -2.9152 kJ/mol-atom | 1173 | NiW; _alloy: W 0.5_ | model | [2] Guillermet 1986; _cites Meshkov 1823_ | Table XIVo, p. 14, row 3; `ORC-G5PE3QBYBP` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -3.6797 kJ/mol-atom | 1173 | Ni4W; _alloy: W 0.2_ | model | [1] Guillermet 1986 | Table XIVo, p. 14, row 2; `ORC-CKDMGEK2QI` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -4.8137 kJ/mol-atom | 1173 | Ni4W; _alloy: W 0.2_ | model | [1] Guillermet 1986; _cites Meshkov_ | Table XIVo, p. 14, row 1; `ORC-UJ7YP2K2PV` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -2.6795 kJ/mol-atom | 1173 | NiW; _alloy: W 0.5_ | model | [1] Guillermet 1986 | Table XIVo, p. 14, row 4; `ORC-DNA7QU3XLX` |  |
+| Gibbs energy of formation; _printed: Gibbs Energy of Formation_ | -2.9152 kJ/mol-atom | 1173 | NiW; _alloy: W 0.5_ | model | [1] Guillermet 1986; _cites Meshkov_ | Table XIVo, p. 14, row 3; `ORC-G5PE3QBYBP` |  |
 
 ### Heat capacity / entropy / enthalpy (12)
 
@@ -107,25 +105,24 @@ Table: Heat capacity / entropy / enthalpy, Ni–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: Mean Heat Capacity_ | 25.466 J/mol (basis unstated)/K | 580.1 | Ni4W; _alloy: W 0.2_ | experimental | [2] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 1; `ORC-LLZV4R5F57` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 26.075 J/mol (basis unstated)/K | 580.1 | Ni4W; _alloy: W 0.2_ | model | [2] Guillermet 1986 | Table XlII, p. 14, row 2; `ORC-XHGXBIHPXO` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 25.782 J/mol (basis unstated)/K | 686.1 | Ni4W; _alloy: W 0.2_ | experimental | [2] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 3; `ORC-FUF5GJB7A4` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 26.534 J/mol (basis unstated)/K | 686.1 | Ni4W; _alloy: W 0.2_ | model | [2] Guillermet 1986 | Table XlII, p. 14, row 4; `ORC-OLVR4W5CNE` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 26.951 J/mol (basis unstated)/K | 783.1 | Ni4W; _alloy: W 0.2_ | model | [2] Guillermet 1986 | Table XlII, p. 14, row 6; `ORC-I6XFZPI5L5` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 26.657 J/mol (basis unstated)/K | 783.1 | Ni4W; _alloy: W 0.2_ | experimental | [2] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 5; `ORC-NZQYBW2STG` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 26.902 J/mol (basis unstated)/K | 882.5 | Ni4W; _alloy: W 0.2_ | experimental | [2] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 7; `ORC-CC2CMJKPTC` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 27.376 J/mol (basis unstated)/K | 882.5 | Ni4W; _alloy: W 0.2_ | model | [2] Guillermet 1986 | Table XlII, p. 14, row 8; `ORC-ZGKR42V33S` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 27.113 J/mol (basis unstated)/K | 974.2 | Ni4W; _alloy: W 0.2_ | experimental | [2] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 9; `ORC-MLICCMMHTJ` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 27.766 J/mol (basis unstated)/K | 974.2 | Ni4W; _alloy: W 0.2_ | model | [2] Guillermet 1986 | Table XlII, p. 14, row 10; `ORC-QVEZZACEJX` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 28.19 J/mol (basis unstated)/K | 1074 | Ni4W; _alloy: W 0.2_ | model | [2] Guillermet 1986 | Table XlII, p. 14, row 12; `ORC-4QKTXS2MCG` |  |
-| Heat capacity; _printed: Mean Heat Capacity_ | 27.813 J/mol (basis unstated)/K | 1074 | Ni4W; _alloy: W 0.2_ | experimental | [2] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 11; `ORC-MPTFZS4ZZ5` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 25.466 J/mol (basis unstated)/K | 580.1 | Ni4W; _alloy: W 0.2_ | experimental | [1] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 1; `ORC-LLZV4R5F57` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 26.075 J/mol (basis unstated)/K | 580.1 | Ni4W; _alloy: W 0.2_ | model | [1] Guillermet 1986 | Table XlII, p. 14, row 2; `ORC-XHGXBIHPXO` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 25.782 J/mol (basis unstated)/K | 686.1 | Ni4W; _alloy: W 0.2_ | experimental | [1] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 3; `ORC-FUF5GJB7A4` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 26.534 J/mol (basis unstated)/K | 686.1 | Ni4W; _alloy: W 0.2_ | model | [1] Guillermet 1986 | Table XlII, p. 14, row 4; `ORC-OLVR4W5CNE` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 26.951 J/mol (basis unstated)/K | 783.1 | Ni4W; _alloy: W 0.2_ | model | [1] Guillermet 1986 | Table XlII, p. 14, row 6; `ORC-I6XFZPI5L5` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 26.657 J/mol (basis unstated)/K | 783.1 | Ni4W; _alloy: W 0.2_ | experimental | [1] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 5; `ORC-NZQYBW2STG` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 26.902 J/mol (basis unstated)/K | 882.5 | Ni4W; _alloy: W 0.2_ | experimental | [1] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 7; `ORC-CC2CMJKPTC` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 27.376 J/mol (basis unstated)/K | 882.5 | Ni4W; _alloy: W 0.2_ | model | [1] Guillermet 1986 | Table XlII, p. 14, row 8; `ORC-ZGKR42V33S` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 27.113 J/mol (basis unstated)/K | 974.2 | Ni4W; _alloy: W 0.2_ | experimental | [1] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 9; `ORC-MLICCMMHTJ` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 27.766 J/mol (basis unstated)/K | 974.2 | Ni4W; _alloy: W 0.2_ | model | [1] Guillermet 1986 | Table XlII, p. 14, row 10; `ORC-QVEZZACEJX` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 28.19 J/mol (basis unstated)/K | 1074 | Ni4W; _alloy: W 0.2_ | model | [1] Guillermet 1986 | Table XlII, p. 14, row 12; `ORC-4QKTXS2MCG` |  |
+| Heat capacity; _printed: Mean Heat Capacity_ | 27.813 J/mol (basis unstated)/K | 1074 | Ni4W; _alloy: W 0.2_ | experimental | [1] Guillermet 1986; _cites Proshina 1962_ | Table XlII, p. 14, row 11; `ORC-MPTFZS4ZZ5` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. L. Kaufman, H. Nesor, Calculation of the Ni-Al-W, Ni-Al-Hf and Ni-Cr-Hf systems, Canadian Metallurgical Quarterly 14, 221-232 (1975). [doi:10.1179/000844375795050157](https://doi.org/10.1179/000844375795050157)
-2. A. Fernández Guillermet, L. Östlund, Experimental and theoretical study of the phase equilibria in the fe-ni-w system, Metall Trans A 17, 1809-1823 (1986). [doi:10.1007/bf02817278](https://doi.org/10.1007/bf02817278)
+1. A. Fernández Guillermet, L. Östlund, Experimental and theoretical study of the phase equilibria in the fe-ni-w system, Metall Trans A 17, 1809-1823 (1986). [doi:10.1007/bf02817278](https://doi.org/10.1007/bf02817278)
 
 ## Please cite
 

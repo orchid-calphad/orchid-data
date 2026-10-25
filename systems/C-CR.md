@@ -1,10 +1,10 @@
 # C–Cr system
 
-> C–Cr system: 123 accepted literature values (heat capacity / entropy / enthalpy 36, invariant reaction 32, activity / EMF / Gibbs energy 25, formation 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Cr system: 118 accepted literature values (heat capacity / entropy / enthalpy 36, invariant reaction 32, activity / EMF / Gibbs energy 25, formation 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-CR.html · Markdown: https://data.orchid-project.org/systems/C-CR.md
 
-123 accepted literature values from 5 paper(s) (experimental 80, model 43); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+118 accepted literature values from 5 paper(s) (experimental 78, model 40); 0 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-CR.json) · [CSV](https://data.orchid-project.org/systems/C-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-CR) · [phases (9)](https://data.orchid-project.org/phases/pages/C-CR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-CR.html) · [Markdown](https://data.orchid-project.org/systems/C-CR.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 80 |
-| model | 43 |
+| experimental | 78 |
+| model | 40 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 32 |
-| phase transition | 13 |
+| phase transition | 8 |
 | formation | 17 |
 | heat capacity / entropy / enthalpy | 36 |
 | activity / EMF / Gibbs energy | 25 |
@@ -33,38 +33,38 @@ Table: Invariant reactions reported in the literature for the C–Cr system (32)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2102 | L -> Cr3C2+C | Cr3C2: C 0.4; C: C 1 | experimental | [1] Khvan 2012; _cites Rudy 1969_ | Table 2, p. 4, row 10; `ORC-QTZT424K2X` |  |
-| 2097 | L -> Cr3C2+C | Cr3C2: C 0.4; C: C 1 | model | [1] Khvan 2012 | Table 2, p. 4, row 9; `ORC-6TFOE5AEV6` |  |
+| 2102 | eutectic: L -> Cr3C2+C | Cr3C2: C 0.4; C: C 1 | experimental | [1] Khvan 2012; _cites Rudy 1969_ | Table 2, p. 4, row 10; `ORC-QTZT424K2X` |  |
+| 2097 | eutectic: L -> Cr3C2+C | Cr3C2: C 0.4; C: C 1 | model | [1] Khvan 2012 | Table 2, p. 4, row 9; `ORC-6TFOE5AEV6` |  |
 | 2083 | Liq + Graphite -> Cr3C2 | Graphite: Cr 0; Cr3C2: Cr 0.6 | experimental | [2] Andersson 1987 | Table II, p. 5, row 15; `ORC-EWA34MXCLM.d3fd78` |  |
 | 2083 | Liq + Graphite -> Cr3C2 | L: Cr 0.63; Graphite: Cr 0; Cr3C2: Cr 0.6 | experimental | [2] Andersson 1987 | Table II, p. 5, row 14; `ORC-EWA34MXCLM.d61ee8` |  |
 | 2083 | L + graphite -> Cr3C2 | L: Cr 0.63; graphite: Cr 0; Cr3C2: Cr 0.6 | experimental | [3] Kajihara 1990; _cites Rudy 1969_ | Table III, p. 7, row 14; `ORC-QU5SH7TRWU` |  |
 | 2083 | L + graphite -> Cr3C2 | graphite: Cr 0; Cr3C2: Cr 0.6 | experimental | [3] Kajihara 1990; _cites Knotek 1981_ | Table III, p. 7, row 15; `ORC-S75IHDDP4D` |  |
 | 2078 | L + graphite -> Cr3C2 | L: Cr 0.621; graphite: Cr 0; Cr3C2: Cr 0.6 | model | [3] Kajihara 1990 | Table III, p. 7, row 13; `ORC-HDVOYIZOHL` |  |
 | 2076 | Liq + Graphite -> Cr3C2 | L: Cr 0.622; Graphite: Cr 0; Cr3C2: Cr 0.6 | model | [2] Andersson 1987 | Table II, p. 5, row 13; `ORC-4PDA7DSGPY` |  |
-| 2045 | L -> Cr3C2+Cr7C3 | Cr3C2: C 0.4; Cr7C3: C 0.3 | model | [1] Khvan 2012 | Table 2, p. 4, row 5; `ORC-MBQXY3CWJC` |  |
-| 2022 | L -> Cr7C3 + Cr3C2 | L: Cr 0.669; Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | model | [3] Kajihara 1990 | Table III, p. 7, row 10; `ORC-VD6QJZKENL` |  |
-| 2017 | LIQ -> Cr7C3 + Cr3C2 | L: Cr 0.671; Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | model | [2] Andersson 1987 | Table II, p. 5, row 10; `ORC-XXOOJRPMUA` |  |
-| 2015 | L -> Cr3C2+Cr7C3 | Cr3C2: C 0.4; Cr7C3: C 0.3 | experimental | [1] Khvan 2012; _cites Rudy 1969_ | Table 2, p. 4, row 6; `ORC-SIUJBOWH5N` |  |
-| 1999 | L -> Cr7C3 + Cr3C2 | L: Cr 0.674; Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | experimental | [3] Kajihara 1990; _cites Rudy 1969_ | Table III, p. 7, row 11; `ORC-GB3JDALPYM` |  |
-| 1998 | LIQ -> Cr7C3 + Cr3C2 | L: Cr 0.674; Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | experimental | [2] Andersson 1987 | Table II, p. 5, row 11; `ORC-BAV5ZYS2IW.6ed1fe` |  |
-| 1998 | LIQ -> Cr7C3 + Cr3C2 | Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | experimental | [2] Andersson 1987 | Table II, p. 5, row 12; `ORC-BAV5ZYS2IW.766ae5` |  |
-| 1998 | L -> Cr7C3 + Cr3C2 | Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | experimental | [3] Kajihara 1990; _cites Knotek 1981_ | Table III, p. 7, row 12; `ORC-YE4Q6BLKDZ` |  |
+| 2045 | eutectic: L -> Cr3C2+Cr7C3 | Cr3C2: C 0.4; Cr7C3: C 0.3 | model | [1] Khvan 2012 | Table 2, p. 4, row 5; `ORC-MBQXY3CWJC` |  |
+| 2022 | eutectic: L -> Cr7C3 + Cr3C2 | L: Cr 0.669; Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | model | [3] Kajihara 1990 | Table III, p. 7, row 10; `ORC-VD6QJZKENL` |  |
+| 2017 | eutectic: LIQ -> Cr7C3 + Cr3C2 | L: Cr 0.671; Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | model | [2] Andersson 1987 | Table II, p. 5, row 10; `ORC-XXOOJRPMUA` |  |
+| 2015 | eutectic: L -> Cr3C2+Cr7C3 | Cr3C2: C 0.4; Cr7C3: C 0.3 | experimental | [1] Khvan 2012; _cites Rudy 1969_ | Table 2, p. 4, row 6; `ORC-SIUJBOWH5N` |  |
+| 1999 | eutectic: L -> Cr7C3 + Cr3C2 | L: Cr 0.674; Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | experimental | [3] Kajihara 1990; _cites Rudy 1969_ | Table III, p. 7, row 11; `ORC-GB3JDALPYM` |  |
+| 1998 | eutectic: LIQ -> Cr7C3 + Cr3C2 | L: Cr 0.674; Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | experimental | [2] Andersson 1987 | Table II, p. 5, row 11; `ORC-BAV5ZYS2IW.6ed1fe` |  |
+| 1998 | eutectic: LIQ -> Cr7C3 + Cr3C2 | Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | experimental | [2] Andersson 1987 | Table II, p. 5, row 12; `ORC-BAV5ZYS2IW.766ae5` |  |
+| 1998 | eutectic: L -> Cr7C3 + Cr3C2 | Cr7C3: Cr 0.7; Cr3C2: Cr 0.6 | experimental | [3] Kajihara 1990; _cites Knotek 1981_ | Table III, p. 7, row 12; `ORC-YE4Q6BLKDZ` |  |
 | 1890 | L + Cr7C3 -> Cr23C6 | Cr7C3: C 0.3; Cr23C6: C 0.206897 | model | [1] Khvan 2012 | Table 2, p. 4, row 3; `ORC-5CMOPKO2P7` |  |
 | 1885 | L + Cr7C3 -> Cr23C6 | Cr7C3: C 0.3; Cr23C6: C 0.206897 | experimental | [1] Khvan 2012; _cites Eremenko 1987_ | Table 2, p. 4, row 4; `ORC-AJ3WQMISS7` |  |
-| 1852 | L -> Cr23C6+Cr | Cr23C6: C 0.206897 | experimental | [1] Khvan 2012; _cites Eremenko 1987_ | Table 2, p. 4, row 2; `ORC-3PODAQ3HGQ` |  |
+| 1852 | eutectic: L -> Cr23C6+Cr | Cr23C6: C 0.206897 | experimental | [1] Khvan 2012; _cites Eremenko 1987_ | Table 2, p. 4, row 2; `ORC-3PODAQ3HGQ` |  |
 | 1850 | LIQ + Cr7C3 -> Cr23C6 | L: Cr 0.821; Cr7C3: Cr 0.7; Cr23C6: Cr 0.793103 | model | [2] Andersson 1987 | Table II, p. 5, row 4; `ORC-A2TTFZXWRU` |  |
-| 1849 | L -> Cr23C6+Cr | Cr23C6: C 0.206897 | model | [1] Khvan 2012 | Table 2, p. 4, row 1; `ORC-N2MDUFH7YH` |  |
+| 1849 | eutectic: L -> Cr23C6+Cr | Cr23C6: C 0.206897 | model | [1] Khvan 2012 | Table 2, p. 4, row 1; `ORC-N2MDUFH7YH` |  |
 | 1848 | L + Cr7C3 -> Cr23C6 | Cr7C3: Cr 0.7; Cr23C6: Cr 0.793103 | experimental | [3] Kajihara 1990; _cites Knotek 1981_ | Table III, p. 7, row 6; `ORC-3IRDQRC6UL` |  |
 | 1848 | L + Cr7C3 -> Cr23C6 | L: Cr 0.822; Cr7C3: Cr 0.7; Cr23C6: Cr 0.793103 | model | [3] Kajihara 1990 | Table III, p. 7, row 4; `ORC-ARVXXX7U4S` |  |
 | 1848 | L + Cr7C3 -> Cr23C6 | L: Cr 0.83; Cr7C3: Cr 0.7; Cr23C6: Cr 0.793103 | experimental | [3] Kajihara 1990; _cites Rudy 1969_ | Table III, p. 7, row 5; `ORC-CUCITGEHR5` |  |
 | 1848 | LIQ + Cr7C3 -> Cr23C6 | L: Cr 0.83; Cr7C3: Cr 0.7; Cr23C6: Cr 0.793103 | experimental | [2] Andersson 1987 | Table II, p. 5, row 5; `ORC-MMJPD6EKD4.12b559` |  |
 | 1848 | LIQ + Cr7C3 -> Cr23C6 | Cr7C3: Cr 0.7; Cr23C6: Cr 0.793103 | experimental | [2] Andersson 1987 | Table II, p. 5, row 6; `ORC-MMJPD6EKD4.fec645` |  |
-| 1808 | LIQ -> Bcc + Cr23C6 | Cr23C6: Cr 0.793103 | experimental | [2] Andersson 1987 | Table II, p. 5, row 3; `ORC-5MLXI4G55R` |  |
-| 1808 | L -> Cr + Cr23C6 | Cr23C6: Cr 0.793103 | experimental | [3] Kajihara 1990; _cites Knotek 1981_ | Table III, p. 7, row 3; `ORC-UKM6TZ43W7` |  |
-| 1806 | LIQ -> Bcc + Cr23C6 | L: Cr 0.863; Cr23C6: Cr 0.793103 | model | [2] Andersson 1987 | Table II, p. 5, row 1; `ORC-67QY7SDCQP` |  |
-| 1803 | L -> Cr + Cr23C6 | L: Cr 0.86; Cr23C6: Cr 0.793103 | experimental | [3] Kajihara 1990; _cites Rudy 1969_ | Table III, p. 7, row 2; `ORC-R5JGL5KUT3` |  |
-| 1803 | LIQ -> Bcc + Cr23C6 | L: Cr 0.86; Cr23C6: Cr 0.793103 | experimental | [2] Andersson 1987 | Table II, p. 5, row 2; `ORC-SXBWSANMRQ` |  |
-| 1798 | L -> Cr + Cr23C6 | L: Cr 0.861; Cr23C6: Cr 0.793103 | model | [3] Kajihara 1990 | Table III, p. 7, row 1; `ORC-WRGGRITS6D` |  |
+| 1808 | eutectic: LIQ -> Bcc + Cr23C6 | Cr23C6: Cr 0.793103 | experimental | [2] Andersson 1987 | Table II, p. 5, row 3; `ORC-5MLXI4G55R` |  |
+| 1808 | eutectic: L -> Cr + Cr23C6 | Cr23C6: Cr 0.793103 | experimental | [3] Kajihara 1990; _cites Knotek 1981_ | Table III, p. 7, row 3; `ORC-UKM6TZ43W7` |  |
+| 1806 | eutectic: LIQ -> Bcc + Cr23C6 | L: Cr 0.863; Cr23C6: Cr 0.793103 | model | [2] Andersson 1987 | Table II, p. 5, row 1; `ORC-67QY7SDCQP` |  |
+| 1803 | eutectic: L -> Cr + Cr23C6 | L: Cr 0.86; Cr23C6: Cr 0.793103 | experimental | [3] Kajihara 1990; _cites Rudy 1969_ | Table III, p. 7, row 2; `ORC-R5JGL5KUT3` |  |
+| 1803 | eutectic: LIQ -> Bcc + Cr23C6 | L: Cr 0.86; Cr23C6: Cr 0.793103 | experimental | [2] Andersson 1987 | Table II, p. 5, row 2; `ORC-SXBWSANMRQ` |  |
+| 1798 | eutectic: L -> Cr + Cr23C6 | L: Cr 0.861; Cr23C6: Cr 0.793103 | model | [3] Kajihara 1990 | Table III, p. 7, row 1; `ORC-WRGGRITS6D` |  |
 
 ## Formation enthalpies
 
@@ -94,15 +94,12 @@ Table: Enthalpies of formation, C–Cr system (17)
 
 ## Other properties
 
-### Phase transition (13)
+### Phase transition (8)
 
 Table: Phase transition, C–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1806 K | 1806 | L2(Cr) þCr23C6 | model | [1] Khvan 2012; _cites Lee 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990002-f) | p. 1; `ORC-Q3SMOB2D3P.a53cc0` | “During the evaluation of literature data it appeared that experimental temperatures of the four phase invariant equilibria L2(Cr) þCr23C6 þNbC (1825 K \[5\]) and LþCr7C32Cr23C6 þNbC (1853 K \[5\]) are higher than the temperatures, of corresponding invariant equilibria L2(Cr) þCr23C6 (1806 K) and LþCr7C32Cr23C6 (1850 K) in the binary Cr-C system calculated using the dataset of Lee \[6\].” |
-| Phase transition | 1850 K | 1850 | LþCr7C32Cr23C6 | model | [1] Khvan 2012; _cites Lee 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990002-f) | p. 1; `ORC-Q3SMOB2D3P.b024c8` | “During the evaluation of literature data it appeared that experimental temperatures of the four phase invariant equilibria L2(Cr) þCr23C6 þNbC (1825 K \[5\]) and LþCr7C32Cr23C6 þNbC (1853 K \[5\]) are higher than the temperatures, of corresponding invariant equilibria L2(Cr) þCr23C6 (1806 K) and LþCr7C32Cr23C6 (1850 K) in the binary Cr-C system calculated using the dataset of Lee \[6\].” |
-| Phase transition | 2015 K | 2015 | L2Cr3C2 þ Cr7C3 | experimental | [1] Khvan 2012; _cites Eremenko 1987_ | p. 3; `ORC-AXGJAXHXHV.6880c7` | “Later Yamada et al. \[29\] confirmed the temperatures obtained by Eremenko et al. \[28\] for the invariant equilibria L2Cr3C2 þ Cr7C3 (2015 K 74) and Lþ C2Cr3C2 (2099 K 74).” |
 | Phase transition | 2029 K | 2029 | LIQ -> Cr7C3 (max); _L: Cr 0.7; Cr7C3: Cr 0.7_ | model | [2] Andersson 1987 | Table II, p. 5, row 7; `ORC-AEROJ7LEN6` |  |
 | Phase transition | 2036 K | 2036 | congruent melting: L -> Cr7C3 (max.); _L: Cr 0.7; Cr7C3: Cr 0.7_ | model | [3] Kajihara 1990 | Table III, p. 7, row 7; `ORC-BEQUWEYCSE` |  |
 | Phase transition | 2038 K | 2038 | LIQ -> Cr7C3 (max); _L: Cr 0.7; Cr7C3: Cr 0.7_ | experimental | [2] Andersson 1987 | Table II, p. 5, row 8; `ORC-AA3CD4HJC6.5043e4` |  |
@@ -111,8 +108,6 @@ Table: Phase transition, C–Cr system
 | Phase transition | 2038 K | 2038 | congruent melting: L -> Cr7C3 (max.); _L: Cr 0.7; Cr7C3: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites Knotek 1981_ | Table III, p. 7, row 9; `ORC-KBLJQOQ7U2` |  |
 | Phase transition | 2054 K | 2054 | L -> Cr7C3; _L: C 0.3; Cr7C3: C 0.3_ | experimental | [1] Khvan 2012; _cites Eremenko 1987_ | Table 2, p. 4, row 8; `ORC-5NKVGIYPK7` |  |
 | Phase transition | 2058 K | 2058 | L -> Cr7C3; _L: C 0.3; Cr7C3: C 0.3_ | model | [1] Khvan 2012 | Table 2, p. 4, row 7; `ORC-527DYOGYQT` |  |
-| Phase transition | 2099 K | 2099 | Lþ C2Cr3C2 | experimental | [1] Khvan 2012; _cites Eremenko 1987_ | p. 3; `ORC-AXGJAXHXHV.2d7bc5` | “Later Yamada et al. \[29\] confirmed the temperatures obtained by Eremenko et al. \[28\] for the invariant equilibria L2Cr3C2 þ Cr7C3 (2015 K 74) and Lþ C2Cr3C2 (2099 K 74).” |
-| Phase transition | 4765 K | 4765 |  | model | [4] Teng 2004; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6; `ORC-HQRHUXMK64` | “In other words, provided that the melting point of graphite (4765 K) available in the literature\[34\] is reliable, the calculated result is more reasonable than the experimental data.” |
 
 ### Heat capacity / entropy / enthalpy (36)
 

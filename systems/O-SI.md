@@ -1,10 +1,10 @@
 # O–Si system
 
-> O–Si system: 41 accepted literature values (crystal structure 31, invariant reaction 5, phase transition 3, other property 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Si system: 36 accepted literature values (crystal structure 31, invariant reaction 3, other property 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-SI.html · Markdown: https://data.orchid-project.org/systems/O-SI.md
 
-41 accepted literature values from 3 paper(s) (experimental 3, model 4, DFT 3, unspecified 31); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+36 accepted literature values from 3 paper(s) (model 2, DFT 3, unspecified 31); 0 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-SI.json) · [CSV](https://data.orchid-project.org/systems/O-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-SI) · [phases (17)](https://data.orchid-project.org/phases/pages/O-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-SI.html) · [Markdown](https://data.orchid-project.org/systems/O-SI.md)
 
@@ -12,8 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
-| model | 4 |
+| model | 2 |
 | DFT | 3 |
 | unspecified | 31 |
 
@@ -21,8 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
-| phase transition | 3 |
+| invariant reaction | 3 |
 | crystal structure | 31 |
 | other property | 2 |
 
@@ -30,27 +28,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the O–Si system (5)
+Table: Invariant reactions reported in the literature for the O–Si system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2130 | Gas -> L1 + L2 | Gas: O 0.5; L1: O 4.100e-4; L2: O 0.66662 | unspecified | [1] Hallstedt 1992 | Table 3, p. 9, row 3; `ORC-2IXLMG7XG3` |  |
 | 1994 | monotectic: L2 -> L1 + Cristobalite | L2: O 0.66664; L1: O 2.600e-4; Cristobalite: O 0.66667 | unspecified | [1] Hallstedt 1992 | Table 3, p. 9, row 2; `ORC-2UFHNJ6YDQ` |  |
 | 1687 | eutectic: L1 -> (Si) + Tridymite | L1: O 6.300e-5; (Si): O 4.500e-5; Tridymite: O 0.66667 | unspecified | [1] Hallstedt 1992 | Table 3, p. 9, row 1; `ORC-T3KP3KSB2O` |  |
-| 1687 | eutectic |  | model | [2] Schnurre 2004 | p. 16; `ORC-7RTJHBE7ON` | “Since k \< 1 the three-phase equilibrium L 1⁄4 (Si) + cristobalite manifests as a eutectic reaction. This eutectic is ðSiÞ calculated at xO 1⁄4 4:73  105 , xliquid 1⁄4 5:42  105 O and 1686.997 K, only 0.003 K below the melting point of silicon.” |
-| 1686.99 | eutectic |  | model | [2] Schnurre 2004 | p. 17; `ORC-HYOXASKLQB` | “The corresponding metastable eutectic, L 1⁄4 (Si) + SiO(am), is ðSiÞ calculated at xO 1⁄4 8:58  105 , xliquid 1⁄4 9:82  105 O and 1686.995 K.” |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, O–Si system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1478 K | 1478 | other | experimental | [2] Schnurre 2004 | p. 7; `ORC-6EBLEQ6D6B` | “Looking for the transition temperature of an idealized silica glass around 1478 K it can be seen, that very few measurements were made above this temperature (Table 2) and that only two of those \[14,35\] actually show a kink (Fig. 3), which is to be expected in Cmean .” |
-| Phase transition | 1687 K | 1687 |  | experimental | [2] Schnurre 2004 | p. 12; `ORC-ZDZONKG2S7` | “Only sample 10, which was heated above the melting temperature of silicon (1687 K), shows distinct SiO2 (cristobalite) peaks and no SiO2 (glass) bulge.” |
-| Phase transition | 1998 K | 1998 |  | experimental | [2] Schnurre 2004 | p. 7; `ORC-SAIECMHOYF` | “It should be noted that no separation is necessary between supercooled and stable liquid at the melting point of cristobalite (Tm 1⁄4 1998 K) in Eq. (6c).” |
 
 ### Crystal structure (31)
 
@@ -58,37 +44,37 @@ Table: Crystal structure, O–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.007 Å | 0 | Quartz (SiO2); _alloy: O 0.666667, Si 0.333333_ | DFT | [3] Shin 2006 | Table 1, p. 3, row 7; `ORC-O2GEERKZE3.41ca9c` |  |
-| Lattice a | 2.561 Å | 298.15 | SiO2(Fe2N-type); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 14; `ORC-5QWYWQHHEL.6a8464` |  |
-| Lattice a | 4.9877 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 8; `ORC-BMKIZ2S2RG.f3e72c` |  |
-| Lattice a | 4.957 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 7; `ORC-FECEURG3UR.ed5844` |  |
-| Lattice a | 9.94 Å | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 4; `ORC-JL3P54UTCP.404244` |  |
-| Lattice a | 5.046 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1; `ORC-DVHGZGN7X2.29cb8d` |  |
-| Lattice a | 5.052 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1; `ORC-DVHGZGN7X2.95185a` |  |
-| Lattice a | 7.464 Å | 765.5 | SiO2 I (keatite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 9; `ORC-KBEVUQMXPZ.027df5` |  |
-| Lattice a | 7.098 Å | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10; `ORC-KCKE3EVEX5.b96686` |  |
-| Lattice a | 4.176 Å | 885.5 | SiO2 III (stishovite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 12; `ORC-HLN6FSA46S.facf0b` |  |
-| Lattice a | 7.137 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11; `ORC-PFGFHT2DJI.4fde81` |  |
-| Lattice a | 4.72 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13; `ORC-KWIRTC252M.908c85` |  |
-| Lattice b | 5.007 Å | 0 | Quartz (SiO2); _alloy: O 0.666667, Si 0.333333_ | DFT | [3] Shin 2006 | Table 1, p. 3, row 7; `ORC-O2GEERKZE3.95fb7b` |  |
-| Lattice b | 17.21 Å | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 4; `ORC-JL3P54UTCP.ac22de` |  |
-| Lattice b | 12.334 Å | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10; `ORC-KCKE3EVEX5.f856ec` |  |
-| Lattice b | 12.37 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11; `ORC-PFGFHT2DJI.2ba50a` |  |
-| Lattice b | 5.16 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13; `ORC-KWIRTC252M.d09bdd` |  |
-| Lattice c | 5.496 Å | 0 | Quartz (SiO2); _alloy: O 0.666667, Si 0.333333_ | DFT | [3] Shin 2006 | Table 1, p. 3, row 7; `ORC-O2GEERKZE3.63dca5` |  |
-| Lattice c | 4.112 Å | 298.15 | SiO2(Fe2N-type); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 14; `ORC-5QWYWQHHEL.313a01` |  |
-| Lattice c | 6.9679 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 8; `ORC-BMKIZ2S2RG.ed21d8` |  |
-| Lattice c | 6.8903 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 7; `ORC-FECEURG3UR.3c71e4` |  |
-| Lattice c | 10.92 Å | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 4; `ORC-JL3P54UTCP.60ede1` |  |
-| Lattice c | 8.27 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1; `ORC-DVHGZGN7X2.11559a` |  |
-| Lattice c | 8.236 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 1; `ORC-DVHGZGN7X2.206537` |  |
-| Lattice c | 8.62 Å | 765.5 | SiO2 I (keatite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 9; `ORC-KBEVUQMXPZ.2674bb` |  |
-| Lattice c | 7.148 Å | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10; `ORC-KCKE3EVEX5.616a0b` |  |
-| Lattice c | 2.666 Å | 885.5 | SiO2 III (stishovite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 12; `ORC-HLN6FSA46S.f15eff` |  |
-| Lattice c | 7.174 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11; `ORC-PFGFHT2DJI.8bcb2f` |  |
-| Lattice c | 8.36 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13; `ORC-KWIRTC252M.3af4e7` |  |
-| lattice beta | 120.1 ° | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10; `ORC-KCKE3EVEX5.f0d856` |  |
-| lattice beta | 120.33 ° | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11; `ORC-PFGFHT2DJI.4b2d7d` |  |
+| Lattice a | 5.007 Å | 0 | Quartz (SiO2); _alloy: O 0.666667, Si 0.333333_ | DFT | [2] Shin 2006 | Table 1, p. 3, row 7; `ORC-O2GEERKZE3.41ca9c` |  |
+| Lattice a | 2.561 Å | 298.15 | SiO2(Fe2N-type); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 14; `ORC-5QWYWQHHEL.6a8464` |  |
+| Lattice a | 4.9877 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 8; `ORC-BMKIZ2S2RG.f3e72c` |  |
+| Lattice a | 4.957 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 7; `ORC-FECEURG3UR.ed5844` |  |
+| Lattice a | 9.94 Å | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 4; `ORC-JL3P54UTCP.404244` |  |
+| Lattice a | 5.046 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 1; `ORC-DVHGZGN7X2.29cb8d` |  |
+| Lattice a | 5.052 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 1; `ORC-DVHGZGN7X2.95185a` |  |
+| Lattice a | 7.464 Å | 765.5 | SiO2 I (keatite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 9; `ORC-KBEVUQMXPZ.027df5` |  |
+| Lattice a | 7.098 Å | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 10; `ORC-KCKE3EVEX5.b96686` |  |
+| Lattice a | 4.176 Å | 885.5 | SiO2 III (stishovite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 12; `ORC-HLN6FSA46S.facf0b` |  |
+| Lattice a | 7.137 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 11; `ORC-PFGFHT2DJI.4fde81` |  |
+| Lattice a | 4.72 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 13; `ORC-KWIRTC252M.908c85` |  |
+| Lattice b | 5.007 Å | 0 | Quartz (SiO2); _alloy: O 0.666667, Si 0.333333_ | DFT | [2] Shin 2006 | Table 1, p. 3, row 7; `ORC-O2GEERKZE3.95fb7b` |  |
+| Lattice b | 17.21 Å | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 4; `ORC-JL3P54UTCP.ac22de` |  |
+| Lattice b | 12.334 Å | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 10; `ORC-KCKE3EVEX5.f856ec` |  |
+| Lattice b | 12.37 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 11; `ORC-PFGFHT2DJI.2ba50a` |  |
+| Lattice b | 5.16 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 13; `ORC-KWIRTC252M.d09bdd` |  |
+| Lattice c | 5.496 Å | 0 | Quartz (SiO2); _alloy: O 0.666667, Si 0.333333_ | DFT | [2] Shin 2006 | Table 1, p. 3, row 7; `ORC-O2GEERKZE3.63dca5` |  |
+| Lattice c | 4.112 Å | 298.15 | SiO2(Fe2N-type); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 14; `ORC-5QWYWQHHEL.313a01` |  |
+| Lattice c | 6.9679 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 8; `ORC-BMKIZ2S2RG.ed21d8` |  |
+| Lattice c | 6.8903 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 7; `ORC-FECEURG3UR.3c71e4` |  |
+| Lattice c | 10.92 Å | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 4; `ORC-JL3P54UTCP.60ede1` |  |
+| Lattice c | 8.27 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 1; `ORC-DVHGZGN7X2.11559a` |  |
+| Lattice c | 8.236 Å | 470.5 | SiO2(tridymite S-IV); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 1; `ORC-DVHGZGN7X2.206537` |  |
+| Lattice c | 8.62 Å | 765.5 | SiO2 I (keatite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 9; `ORC-KBEVUQMXPZ.2674bb` |  |
+| Lattice c | 7.148 Å | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 10; `ORC-KCKE3EVEX5.616a0b` |  |
+| Lattice c | 2.666 Å | 885.5 | SiO2 III (stishovite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 12; `ORC-HLN6FSA46S.f15eff` |  |
+| Lattice c | 7.174 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 11; `ORC-PFGFHT2DJI.8bcb2f` |  |
+| Lattice c | 8.36 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 13; `ORC-KWIRTC252M.3af4e7` |  |
+| lattice beta | 120.1 ° | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 10; `ORC-KCKE3EVEX5.f0d856` |  |
+| lattice beta | 120.33 ° | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [3] Schnurre 2004 | Table 1, p. 5, row 11; `ORC-PFGFHT2DJI.4b2d7d` |  |
 
 ### Other property (2)
 
@@ -96,16 +82,16 @@ Table: Other property, O–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: P_ | 11 mbar | 1689 | SiO2 (L) | model | [2] Schnurre 2004 | p. 19; `ORC-UFBWSNZ7GC.2e7d7d` | “At constant 11 mbar total pressure this shift is from 1693 K (stable) to 1689 K (metastable, with SiO2 (L)).” |
-| Other; _printed: P_ | 11 mbar | 1693 |  | model | [2] Schnurre 2004 | p. 19; `ORC-UFBWSNZ7GC.25cc4d` | “At constant 11 mbar total pressure this shift is from 1693 K (stable) to 1689 K (metastable, with SiO2 (L)).” |
+| Other; _printed: P_ | 11 mbar | 1689 | SiO2 (L) | model | [3] Schnurre 2004 | p. 19; `ORC-UFBWSNZ7GC.2e7d7d` | “At constant 11 mbar total pressure this shift is from 1693 K (stable) to 1689 K (metastable, with SiO2 (L)).” |
+| Other; _printed: P_ | 11 mbar | 1693 |  | model | [3] Schnurre 2004 | p. 19; `ORC-UFBWSNZ7GC.25cc4d` | “At constant 11 mbar total pressure this shift is from 1693 K (stable) to 1689 K (metastable, with SiO2 (L)).” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Bengt Hallstedt, Thermodynamic assessment of the Silicon — Oxygen system, Calphad 16, 53-61 (1992). [doi:10.1016/0364-5916(92)90038-y](https://doi.org/10.1016/0364-5916%2892%2990038-y)
-2. S.M. Schnurre, J. Gröbner, R. Schmid-Fetzer, Thermodynamics and phase stability in the Si–O system, Journal of Non-Crystalline Solids 336, 1-25 (2004). [doi:10.1016/j.jnoncrysol.2003.12.057](https://doi.org/10.1016/j.jnoncrysol.2003.12.057)
-3. Dongwon Shin, Raymundo Arróyave, Zi-Kui Liu, Thermodynamic modeling of the Hf–Si–O system, Calphad 30, 375-386 (2006). [doi:10.1016/j.calphad.2006.08.006](https://doi.org/10.1016/j.calphad.2006.08.006)
+2. Dongwon Shin, Raymundo Arróyave, Zi-Kui Liu, Thermodynamic modeling of the Hf–Si–O system, Calphad 30, 375-386 (2006). [doi:10.1016/j.calphad.2006.08.006](https://doi.org/10.1016/j.calphad.2006.08.006)
+3. S.M. Schnurre, J. Gröbner, R. Schmid-Fetzer, Thermodynamics and phase stability in the Si–O system, Journal of Non-Crystalline Solids 336, 1-25 (2004). [doi:10.1016/j.jnoncrysol.2003.12.057](https://doi.org/10.1016/j.jnoncrysol.2003.12.057)
 
 ## Please cite
 

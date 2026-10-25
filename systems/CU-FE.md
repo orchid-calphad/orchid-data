@@ -1,10 +1,10 @@
 # Cu–Fe system
 
-> Cu–Fe system: 110 accepted literature values (invariant reaction 56, mixing / partial 42, phase transition 10, heat capacity / entropy / enthalpy 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Fe system: 99 accepted literature values (invariant reaction 55, mixing / partial 42, heat capacity / entropy / enthalpy 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-FE.html · Markdown: https://data.orchid-project.org/systems/CU-FE.md
 
-110 accepted literature values from 3 paper(s) (experimental 71, model 30, unspecified 9); 6 calculated phase diagram(s).
+99 accepted literature values from 2 paper(s) (experimental 68, model 22, unspecified 9); 6 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-FE.json) · [CSV](https://data.orchid-project.org/systems/CU-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-FE/CuFe-03Tur.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-FE.html) · [Markdown](https://data.orchid-project.org/systems/CU-FE.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 71 |
-| model | 30 |
+| experimental | 68 |
+| model | 22 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 56 |
-| phase transition | 10 |
+| invariant reaction | 55 |
 | mixing / partial | 42 |
 | heat capacity / entropy / enthalpy | 2 |
 
@@ -67,7 +66,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Fe system (56)
+Table: Invariant reactions reported in the literature for the Cu–Fe system (55)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -87,7 +86,6 @@ Table: Invariant reactions reported in the literature for the Cu–Fe system (56
 | 1753 | L + δ ↔ γ | L: Fe 0.902 | experimental | [2] Turchanin 2003; _cites ref. 1943And_ | Table 2, p. 5, row 2; `ORC-WOZUQFXXPM` |  |
 | 1752 | δ + liq -> γ | δ: Cu 0.063; γ: Cu 0.075; liq: Cu 0.124 | unspecified | [1] Chen 1995; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table II, p. 6, row 5; `ORC-AWBDJ7RF6S` |  |
 | 1752 | L + δ ↔ γ | L: Fe 0.876; δ: Fe 0.937 | model | [2] Turchanin 2003; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table 2, p. 5, row 6; `ORC-FXHFEZIXHN` |  |
-| 1698 | monotectic |  | model | [2] Turchanin 2003 | p. 10; `ORC-A2EN7YDVBC` | “Our calculated invariant monotectic equilibrium occurs at 1698 K and corresponds to a minimum mol fraction of iron in ␦-phase of 0.91.” |
 | 1698 | L2 ↔ L1 + δ | L2: Fe 0.591; L1: Fe 0.49; δ: Fe 0.912 | model | [2] Turchanin 2003 | Table 2, p. 5, row 30; `ORC-J3EY5VEKBS` |  |
 | 1405 | L1 + L2 ↔ ε | L1: Fe 0.22 | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 31; `ORC-MF6CEDDQ54` |  |
 | 1380 | L1 + L2 ↔ ε | L1: Fe 0.058; L2: Fe 0.931; ε: Fe 0.127 | model | [2] Turchanin 2003 | Table 2, p. 5, row 32; `ORC-4V5ZG6K44X` |  |
@@ -129,23 +127,6 @@ Table: Invariant reactions reported in the literature for the Cu–Fe system (56
 | 124 | γ ↔ ε + α | γ: Fe 0.982 | model | [2] Turchanin 2003; _cites Kubaschewski 1977_ | Table 2, p. 5, row 25; `ORC-JDO4C5PYSM` |  |
 
 ## Other properties
-
-### Phase transition (10)
-
-Table: Phase transition, Cu–Fe system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1380 K | 1380 | L1 + L2 ↔ ␧ | model | [2] Turchanin 2003 | p. 10; `ORC-VGJKAHK77F` | “Figure 11 also displays the computed metastable invariant equilibrium L1 + L2 ↔ ␧, detected experimentally in \[1999Ama\]. According to our modeling, the temperature of this equilibrium is 1380 K.” |
-| Phase transition | 1405 K | 1405 | other: L1 + L2 → ␧ | experimental | [2] Turchanin 2003; _cites Amara 2003_ | p. 5; `ORC-ZRU2GKYXBZ.e841f6` | “Besides metastable liquid immiscibility with a critical point at 1704 K and xFe ⳱ 0.53, metastable crystallization L → ␦ in the range of compositions 0.43 ⱕ xFe ⱕ 0.96 and a metastable syntactic transformation L1 + L2 → ␧ at 1405 K were established.” |
-| Phase transition | 1690 K | 1690 | other | model | [2] Turchanin 2003 | p. 8; `ORC-OOU3BQMGXZ` | “Presently calculated coordinates of the retrograde point are 1690 K at xFe ⳱ 0.865.” |
-| Phase transition | 1694 K | 1694 |  | model | [1] Chen 1995 | p. 8; `ORC-QO6GV7EIXP` | “According to the present assessment, the consolute point of the miscibility gap is at Xc, = 0.43 and T,. = 1694 K.” |
-| Phase transition | 1696 K | 1696 | other | experimental | [2] Turchanin 2003; _cites Nakagawa 1958_ [doi](https://doi.org/10.1016/0001-6160%2858%2990061-0) | p. 5; `ORC-3HEKD4ZNGR` | “Thus, in \[1958Nak\] liquid immiscibility with a critical point at 1696 K and xFe ⳱ 0.56 was established by measuring the magnetic susceptibility of supercooled melts and by microscopic analysis of quenched samples.” |
-| Phase transition | 1698 K | 1698 |  | model | [1] Chen 1995 | p. 7; `ORC-CEWMTLJ5ZD` | “Our calculated retrograde point is at Xc, = 0.13 and T = 1698 K.” |
-| Phase transition | 1701 K | 1701 | other | model | [2] Turchanin 2003 | p. 9; `ORC-TI6P3GUEJR` | “The upper critical point was found to be at 1701 K and xFe ⳱ 0.548.” |
-| Phase transition | 1704 K | 1704 | other | experimental | [2] Turchanin 2003; _cites Amara 2003_ | p. 5; `ORC-ZRU2GKYXBZ.b5be7f` | “Besides metastable liquid immiscibility with a critical point at 1704 K and xFe ⳱ 0.53, metastable crystallization L → ␦ in the range of compositions 0.43 ⱕ xFe ⱕ 0.96 and a metastable syntactic transformation L1 + L2 → ␧ at 1405 K were established.” |
-| Phase transition | 1750 K | 1750 | other | model | [3] Stechauner 2015 | p. 7; `ORC-GEELMZ5SIA` | “Keeping in mind that the closed expression in Tc represents only an approximation, we finally adopt a value of Tc = 1750 K in our simulations, as it delivers best agreement and consistency to experimental data over a large range of temperatures and compositions and it is sufficiently close to the estimated value of 1840 K.” |
-| Phase transition | 1840 K | 1840 | other | model | [3] Stechauner 2015 | p. 6; `ORC-E4B5L3ZBB5` | “In the attempt to get a reasonable estimate for Tc, we carry out a stepped equilibrium calculation to follow the phase boundary of the Fe-Cu miscibility gap as a function of chemical composition (Fig. 8). Tc can then be read from the maximum temperature of the phase boundary with a value of 1840 K.” |
 
 ### Mixing / partial (42)
 
@@ -211,7 +192,6 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Qing Chen, Zhanpeng Jin, The Fe-Cu system: A thermodynamic evaluation, Metall Mater Trans A 26, 417-426 (1995). [doi:10.1007/bf02664678](https://doi.org/10.1007/bf02664678)
 2. M. A. Turchanin, P. G. Agraval, I. V. Nikolaenko, Thermodynamics of alloys and phase equilibria in the copper-iron system, JPE 24, 307-319 (2003). [doi:10.1361/105497103770330280](https://doi.org/10.1361/105497103770330280)
-3. G. Stechauner, E. Kozeschnik, Thermo-kinetic modeling of Cu precipitation in α-Fe, Acta Materialia 100, 135-146 (2015). [doi:10.1016/j.actamat.2015.08.042](https://doi.org/10.1016/j.actamat.2015.08.042)
 
 ## Please cite
 

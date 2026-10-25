@@ -1,10 +1,10 @@
 # Fe–O system
 
-> Fe–O system: 337 accepted literature values (heat capacity / entropy / enthalpy 234, activity / EMF / Gibbs energy 97, phase transition 4, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–O system: 336 accepted literature values (heat capacity / entropy / enthalpy 234, activity / EMF / Gibbs energy 97, phase transition 3, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-O.html · Markdown: https://data.orchid-project.org/systems/FE-O.md
 
-337 accepted literature values from 1 paper(s) (experimental 4, model 333); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+336 accepted literature values from 1 paper(s) (experimental 3, model 333); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-O.json) · [CSV](https://data.orchid-project.org/systems/FE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-O/FeO-02Luo.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-O.html) · [Markdown](https://data.orchid-project.org/systems/FE-O.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 3 |
 | model | 333 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 4 |
+| phase transition | 3 |
 | formation | 2 |
 | heat capacity / entropy / enthalpy | 234 |
 | activity / EMF / Gibbs energy | 97 |
@@ -70,14 +70,13 @@ Table: Enthalpies of formation, Fe–O system (2)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (3)
 
 Table: Phase transition, Fe–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 830 K | 830 | wiistite + magnetite + ferrite | experimental | [1] Sundman 1991 | p. 1; `ORC-2OLHMLQ46F` | “Although wiistite decomposes around 830 K to magnetite and ferrite, it is possible to prevent this by rapid cooling.” |
-| Phase transition | 848 K | 848 | magnetic | experimental | [1] Sundman 1991 | p. 10; `ORC-YHYIDRTDMY` | “The magnetic transitionwas fixed to the experimental value 848 K, but the Bohr magneton number, 0~, was used as a parameter to fit the shape of the lambda transition.” |
 | Phase transition | 943 K | 943 | magnetic | experimental | [1] Sundman 1991 | p. 7; `ORC-CYOUIEAN4Y` | “There is a lambda anomaly in the corundum heat capacity at 943 K, which was described using the same magnetic model as for magnetite.” |
 | Phase transition | 1697 K | 1697 | liquid + magnetite | experimental | [1] Sundman 1991; _cites ref. 13_ | p. 1; `ORC-T2JGRRYD7Q` | “The first, with bcc and magnetite, and the second, with fcc and liquid, were taken from the paper by Darken and Gurry,3 and the third, with liquid and magnetite at 1697 K, from the second paper by Darken and Gurry. 13” |
 

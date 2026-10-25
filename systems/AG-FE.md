@@ -1,10 +1,10 @@
 # Ag–Fe system
 
-> Ag–Fe system: 15 accepted literature values (invariant reaction 9, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Fe system: 8 accepted literature values (invariant reaction 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-FE.html · Markdown: https://data.orchid-project.org/systems/AG-FE.md
 
-15 accepted literature values from 1 paper(s) (experimental 4, model 11); 2 calculated phase diagram(s).
+8 accepted literature values from 1 paper(s) (experimental 4, model 4); 2 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-FE.json) · [CSV](https://data.orchid-project.org/systems/AG-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-FE/AgFe-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-FE.html) · [Markdown](https://data.orchid-project.org/systems/AG-FE.md)
 
@@ -13,14 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 4 |
-| model | 11 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
-| phase transition | 6 |
+| invariant reaction | 8 |
 
 ## Calculated phase diagrams
 
@@ -54,7 +53,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Fe system (9)
+Table: Invariant reactions reported in the literature for the Ag–Fe system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -63,25 +62,9 @@ Table: Invariant reactions reported in the literature for the Ag–Fe system (9)
 | 1671.15 | peritectic: Liquid#2 + (δFe) -> (γFe) | Liquid#2: Fe 0.005323; (δFe): Fe 0.999919; (γFe): Fe 0.999785 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 4; `ORC-GCOYO64LVS` |  |
 | 1671.15 | peritectic: Liquid#2 + (δFe) -> (γFe) | Liquid#2: Fe 0.005; (δFe): Fe 0.99991; (γFe): Fe 0.99978 | model | [1] Zhou 2020 | Table 5, p. 8, row 3; `ORC-XKJE5SFDKK` |  |
 | 1234.15 | eutectic: Liquid#2 -> (γFe) + (Ag) | Liquid#2: Fe 1.600e-5; (γFe): Fe 0.999984; (Ag): Fe 5.780e-4 | model | [1] Zhou 2020 | Table 5, p. 8, row 5; `ORC-2C7MXM3PUN` |  |
-| 1234.15 | eutectic |  | model | [1] Zhou 2020 | p. 7; `ORC-JX46UPDHC3.3d7766` | “The calculated monotectic reaction Liquid#1 ? Liquid#2 ? (dFe), the peritectic reaction Liquid#2 ? (dFe) ? (cFe), the eutectic reaction Liquid#2 ? (cFe) ? (Ag) and the eutectoid reaction (cFe) ? (aFe) ? (Ag) are calculated to be at 1533 C and 99.9847 at.% Fe, 1389 C and 99.9919 at.% Fe, 961 C and 99.9984 at.% Fe, as well as 912 C and 99.9998 at.% Fe, respectively.” |
 | 1234.15 | eutectic: Liquid#2 -> (γFe) + (Ag) | Liquid#2: Fe 7.000e-5; (γFe): Fe 0.999984; (Ag): Fe 6.000e-4 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 6; `ORC-X3BHHOB55D` |  |
 | 1185.15 | eutectoid: (γFe) -> (αFe) + (Ag) | (γFe): Fe 0.999998; (αFe): Fe 0.999999; (Ag): Fe 1.000e-5 | model | [1] Zhou 2020 | Table 5, p. 8, row 7; `ORC-KQFS3AS3MN` |  |
 | 1185.15 | eutectoid: (γFe) -> (αFe) + (Ag) | (γFe): Fe 0.99999; (αFe): Fe 0.999998; (Ag): Fe 4.000e-5 | experimental | [1] Zhou 2020; _cites Swartzendruber 1984_ [doi](https://doi.org/10.1007/bf02868316) | Table 5, p. 8, row 8; `ORC-TDMBCKM75S` |  |
-
-## Other properties
-
-### Phase transition (6)
-
-Table: Phase transition, Ag–Fe system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1185.15 K | 1185.15 | (cFe) ? (aFe) ? (Ag) | model | [1] Zhou 2020 | p. 2; `ORC-ERDWVB3ZQN.b7b2ad` | “The monotectic reaction Liquid#1 ? Liquid#2 ? (dFe), the peritectic reaction Liquid#2 ? (dFe) ? (cFe), the eutectic reaction Liquid#2 ? (cFe) ? (Ag), and the eutectoid reaction (cFe) ? (aFe) ? (Ag) were calculated to be at 1533 C and 168 at-ppm Fe, 1398 C and 89 atppm Fe, 961 C and 16 at-ppm Fe, as well as 912 C and 2 at-ppm Fe, respectively.” |
-| Phase transition | 1185.15 K | 1185.15 | other | model | [1] Zhou 2020 | p. 7; `ORC-JX46UPDHC3.21d4e0` | “The calculated monotectic reaction Liquid#1 ? Liquid#2 ? (dFe), the peritectic reaction Liquid#2 ? (dFe) ? (cFe), the eutectic reaction Liquid#2 ? (cFe) ? (Ag) and the eutectoid reaction (cFe) ? (aFe) ? (Ag) are calculated to be at 1533 C and 99.9847 at.% Fe, 1389 C and 99.9919 at.% Fe, 961 C and 99.9984 at.% Fe, as well as 912 C and 99.9998 at.% Fe, respectively.” |
-| Phase transition | 1185.15 K | 1185.15 | other | model | [1] Zhou 2020; _cites Swartzendruber 1984_ | p. 7; `ORC-YDWTAZS67L.ba6ea0` | “These calculated results are consistent with the literature data\[31\] (1533 C and 99.9832 at.% Fe, 1389 C and 99.9911 at.% Fe, 961 C and 99.9984 at.% Fe, as well as 912 C and 99.9998 at.% Fe, respectively).” |
-| Phase transition | 1234.15 K | 1234.15 |  | model | [1] Zhou 2020; _cites Swartzendruber 1984_ | p. 7; `ORC-YDWTAZS67L.f071e9` | “These calculated results are consistent with the literature data\[31\] (1533 C and 99.9832 at.% Fe, 1389 C and 99.9911 at.% Fe, 961 C and 99.9984 at.% Fe, as well as 912 C and 99.9998 at.% Fe, respectively).” |
-| Phase transition | 1234.15 K | 1234.15 | Liquid#2 ? (cFe) ? (Ag) | model | [1] Zhou 2020 | p. 2; `ORC-ERDWVB3ZQN.11abf3` | “The monotectic reaction Liquid#1 ? Liquid#2 ? (dFe), the peritectic reaction Liquid#2 ? (dFe) ? (cFe), the eutectic reaction Liquid#2 ? (cFe) ? (Ag), and the eutectoid reaction (cFe) ? (aFe) ? (Ag) were calculated to be at 1533 C and 168 at-ppm Fe, 1398 C and 89 atppm Fe, 961 C and 16 at-ppm Fe, as well as 912 C and 2 at-ppm Fe, respectively.” |
-| Phase transition | 4999.15 K | 4999.15 |  | model | [1] Zhou 2020 | p. 7; `ORC-Q5KPO5P6EJ` | “Besides, the calculated critical point of the liquid miscibility gap in the Ag-Fe system locates at 4726 C and 58 at.% Fe.” |
 
 ## Sources
 

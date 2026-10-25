@@ -1,10 +1,10 @@
 # Sn–Zn system
 
-> Sn–Zn system: 9 accepted literature values (invariant reaction 9) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Zn system: 8 accepted literature values (invariant reaction 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-ZN.html · Markdown: https://data.orchid-project.org/systems/SN-ZN.md
 
-9 accepted literature values from 3 paper(s) (experimental 6, model 3); 4 calculated phase diagram(s).
+8 accepted literature values from 2 paper(s) (experimental 6, model 2); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-ZN.json) · [CSV](https://data.orchid-project.org/systems/SN-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-ZN/SnZn-93Sri.json) · [phases (6)](https://data.orchid-project.org/phases/pages/SN-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-ZN.html) · [Markdown](https://data.orchid-project.org/systems/SN-ZN.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 3 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
+| invariant reaction | 8 |
 
 ## Calculated phase diagrams
 
@@ -48,27 +48,25 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sn–Zn system (9)
+Table: Invariant reactions reported in the literature for the Sn–Zn system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.139 | experimental | [1] Srivastava 1993; _cites ref. 7_ | Table 4, p. 7, row 3; `ORC-IEU5DYQYC2` |  |
 | 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.135 | experimental | [1] Srivastava 1993; _cites ref. 5_ | Table 4, p. 7, row 2; `ORC-K7TKWQ5LMP` |  |
 | 472 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.146 | experimental | [1] Srivastava 1993; _cites ref. 15_ | Table 4, p. 7, row 5; `ORC-V2BPDKBRYZ` |  |
-| 471.7 | eutectic: Liquid -> bct-A5 + hcp-Zn | L: Zn 0.135; bct-A5: Zn 0.006; hcp-Zn: Zn 1 | model | [2] Hämäläinen 1998 | Table I, p. 305, row 1; `ORC-NBDEYU5ALD` |  |
+| 471.7 | eutectic: Liquid -> bct-A5 + hcp-Zn | L: Zn 0.135; bct-A5: Zn 0.006; hcp-Zn: Zn 1 | model | [2] (ed.) 1998 | Table I, p. 305, row 1; `ORC-NBDEYU5ALD` |  |
 | 471.46 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.149 | model | [1] Srivastava 1993 | Table 4, p. 7, row 7; `ORC-TMZSUYUWTT` |  |
 | 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.146 | experimental | [1] Srivastava 1993; _cites ref. 9_ | Table 4, p. 7, row 6; `ORC-B3I5R3CI52` |  |
 | 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.158 | experimental | [1] Srivastava 1993; _cites ref. 3_ | Table 4, p. 7, row 1; `ORC-EGEGZ2SYTV` |  |
 | 471 | eutectic: L \<-> (Zn) + (Sn) | L: Zn 0.152 | experimental | [1] Srivastava 1993; _cites ref. 8_ | Table 4, p. 7, row 4; `ORC-Q2PAQ5NBTT` |  |
-| 465.56 | eutectic |  | model | [3] Doi 2006 | p. 1; `ORC-3RUIEZHDEY.3484f5` | “The ternary eutectic point falls at 0.0009 mass% Ti and 8.69 mass% Zn, at T = 192.40 °C, which is slightly lower than the calculated eutectic point of Sn-Zn binary alloy (T= 192.41 °C).” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. M. Srivastava, R. C. Sharma, Thermodynamic analysis and phase equilibria calculations of pb-zn, sn-zn, and pb-sn-zn systems, JPE 14, 700-709 (1993). [doi:10.1007/bf02667882](https://doi.org/10.1007/bf02667882)
-2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-3. K. Doi, S. Ono, H. Ohtani, M. Hasebe, Thermodynamic study of the phase equilibria in the Sn−Ti−Zn ternary system, JPED 27, 63-74 (2006). [doi:10.1361/105497106x92826](https://doi.org/10.1361/105497106x92826)
+2. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 
 ## Please cite
 

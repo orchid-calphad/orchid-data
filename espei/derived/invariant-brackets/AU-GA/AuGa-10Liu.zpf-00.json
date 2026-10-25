@@ -211,7 +211,7 @@
     "x0": 0.336,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> γAu7Ga3 + AuGa",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -230,7 +230,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> AuGa",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -248,7 +248,7 @@
     "x0": 0.555,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> AuGa + AuGa2",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -267,7 +267,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> AuGa2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -285,7 +285,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq. -> AuGa2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

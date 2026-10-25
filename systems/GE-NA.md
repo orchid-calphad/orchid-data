@@ -1,10 +1,10 @@
 # Ge–Na system
 
-> Ge–Na system: 13 accepted literature values (crystal structure 8, invariant reaction 3, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Na system: 8 accepted literature values (crystal structure 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-NA.html · Markdown: https://data.orchid-project.org/systems/GE-NA.md
 
-13 accepted literature values from 1 paper(s) (experimental 9, unspecified 4); 1 calculated phase diagram(s).
+8 accepted literature values from 1 paper(s) (experimental 4, unspecified 4); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NA.json) · [CSV](https://data.orchid-project.org/systems/GE-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-NA/GeNa-12Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GE-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-NA.html) · [Markdown](https://data.orchid-project.org/systems/GE-NA.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 4 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
-| phase transition | 2 |
 | crystal structure | 8 |
 
 ## Calculated phase diagrams
@@ -47,26 +45,7 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GE/GE-NA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GE/GE-NA.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ge–Na system (3)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1203.15 | eutectic: L → (Ge)+ GeNa |  | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1; `ORC-4IVQRCDQIT.4593f8` | “Three eutectic reactions L → (Ge)+ GeNa, L → GeNa + GeNa3 and L → GeNa3 +(Na) were determined to be at 930 °C (∼2.5 at.% Na), 765 °C (∼75 at.% Na) and about 97.8 °C, respectively \[12\].” |
-| 1038.15 | eutectic: L → GeNa + GeNa3 |  | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1; `ORC-4IVQRCDQIT.a63bb4` | “Three eutectic reactions L → (Ge)+ GeNa, L → GeNa + GeNa3 and L → GeNa3 +(Na) were determined to be at 930 °C (∼2.5 at.% Na), 765 °C (∼75 at.% Na) and about 97.8 °C, respectively \[12\].” |
-| 370.95 | eutectic: L → GeNa3 +(Na) |  | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1; `ORC-4IVQRCDQIT.b2b888` | “Three eutectic reactions L → (Ge)+ GeNa, L → GeNa + GeNa3 and L → GeNa3 +(Na) were determined to be at 930 °C (∼2.5 at.% Na), 765 °C (∼75 at.% Na) and about 97.8 °C, respectively \[12\].” |
-
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Ge–Na system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1093.15 K | 1093.15 | congruent transformation | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1; `ORC-KY4VIOXWI3.7e0d5d` | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
-| Phase transition | 1442.15 K | 1442.15 | congruent transformation | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1; `ORC-KY4VIOXWI3.ca7c83` | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
 
 ### Crystal structure (8)
 

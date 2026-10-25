@@ -1,25 +1,12 @@
 # Ge–In system
 
-> Ge–In system: 2 accepted literature values (invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–In system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-IN.html · Markdown: https://data.orchid-project.org/systems/GE-IN.md
 
-2 accepted literature values from 1 paper(s) (experimental 1, model 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-IN.json) · [CSV](https://data.orchid-project.org/systems/GE-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-IN/GeIn-89Che-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GE-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-IN.html) · [Markdown](https://data.orchid-project.org/systems/GE-IN.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 2 |
 
 ## Calculated phase diagrams
 
@@ -39,21 +26,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | GeIn-89Che-LB.tdb | 429.5 | DIAMOND_A4 (x(In) 0) + LIQUID (x(In) 0.99946) + TETRAGONAL_A6 (x(In) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GE/GE-IN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GE/GE-IN.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ge–In system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 429.54 | eutectic |  | model | [1] Chewvalier 1989 | p. 6; `ORC-RCBFENUIET` | “The eutectic point was calculated at xoe = 0.00053 and T = 429.54 K.” |
-| 429 | eutectic |  | experimental | [1] Chewvalier 1989 | p. 3; `ORC-Z73VB2HPAC` | “According to a number of authors, the phase diagram is a simple eutectic located on the indium side (T = 429 K).” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Pierre-Yves Chewvalier, A thermodynamic evaluation of the Ge-In, Ge-Pb, Ge-Sb, Ge-Tl and Ge-Zn systems, Thermochimica Acta 155, 227-240 (1989). [doi:10.1016/0040-6031(89)87148-5](https://doi.org/10.1016/0040-6031%2889%2987148-5)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Ag–Cd–In system
 
-> Ag–Cd–In system: 33 accepted literature values (phase transition 33) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Cd–In system: 29 accepted literature values (phase transition 29) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CD-IN.html · Markdown: https://data.orchid-project.org/systems/AG-CD-IN.md
 
-33 accepted literature values from 1 paper(s) (experimental 33); 0 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 29); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CD-IN.json) · [CSV](https://data.orchid-project.org/systems/AG-CD-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CD-IN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CD-IN.html) · [Markdown](https://data.orchid-project.org/systems/AG-CD-IN.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 33 |
+| experimental | 29 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 33 |
+| phase transition | 29 |
 
 ## Other properties
 
-### Phase transition (33)
+### Phase transition (29)
 
 Table: Phase transition, Ag–Cd–In system
 
@@ -57,10 +57,6 @@ Table: Phase transition, Ag–Cd–In system
 | Phase transition | 747.5 K | 747.5 | other; _alloy: Ag 0.15, Cd 0.7, In 0.15_ | experimental | [1] Fischer 2019 | Table 1, p. 4, row 8; `ORC-IIJZYOFV2B` |  |
 | Phase transition | 752 K | 752 | other; _alloy: Ag 0.4, Cd 0, In 0.6_ | experimental | [1] Fischer 2019; _cites Robinson 1991_ | Table 1, p. 4, row 23; `ORC-5G23CYJLXU` |  |
 | Phase transition | 821.5 K | 821.5 | other; _alloy: Ag 0.28, Cd 0.6, In 0.12_ | experimental | [1] Fischer 2019 | Table 1, p. 4, row 7; `ORC-ARREEI5YIR` |  |
-| Phase transition | 998 K | 998 | other | experimental | [1] Fischer 2019; _cites Horrocks 1991_ | p. 19; `ORC-P5RQGKB2HC.700b07` | “The solidus for the control rod composition is given at 998 K \[6\] and at 1016 K \[2\].” |
-| Phase transition | 1016 K | 1016 | other | experimental | [1] Fischer 2019; _cites Steinbruck 2017_ [doi](https://doi.org/10.1016/j.anucene.2016.11.039) | p. 19; `ORC-P5RQGKB2HC.f6c3cf` | “The solidus for the control rod composition is given at 998 K \[6\] and at 1016 K \[2\].” |
-| Phase transition | 1098.5 K | 1098.5 | other | experimental | [1] Fischer 2019; _cites Horrocks 1991_ | p. 19; `ORC-AEYIV2FQIX.a2312f` | “Horrocks \[6\] determined the liquidus at 1098.5 K by differential scanning calorimetry for an alloy of control rod composition 80Ag-5Cd-15In wt.%, which is in complete agreement with other literature values 1095 ± 25 K \[91\], 1100 ± 10 K \[92\], 1104 K \[2\].” |
-| Phase transition | 1104 K | 1104 | other | experimental | [1] Fischer 2019; _cites Steinbruck 2017_ [doi](https://doi.org/10.1016/j.anucene.2016.11.039) | p. 19; `ORC-AEYIV2FQIX.1c66c7` | “Horrocks \[6\] determined the liquidus at 1098.5 K by differential scanning calorimetry for an alloy of control rod composition 80Ag-5Cd-15In wt.%, which is in complete agreement with other literature values 1095 ± 25 K \[91\], 1100 ± 10 K \[92\], 1104 K \[2\].” |
 
 ## Sources
 

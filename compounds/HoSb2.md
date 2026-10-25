@@ -31,10 +31,10 @@ Table: Uncertainty budget of the literature values of HoSb2
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -84.4 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 | -74 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -69.418 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -64.551 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -64.546 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
-| -19.679 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
+| -69.418 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -64.551 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -64.546 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -19.679 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
 
 ## Sources
 

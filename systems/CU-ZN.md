@@ -1,10 +1,10 @@
 # Cu–Zn system
 
-> Cu–Zn system: 69 accepted literature values (invariant reaction 66, phase transition 2, activity / EMF / Gibbs energy 1) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Zn system: 67 accepted literature values (invariant reaction 66, activity / EMF / Gibbs energy 1) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-ZN.html · Markdown: https://data.orchid-project.org/systems/CU-ZN.md
 
-69 accepted literature values from 5 paper(s) (experimental 13, model 50, unspecified 6); 6 calculated phase diagram(s).
+67 accepted literature values from 5 paper(s) (experimental 13, model 54); 6 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-ZN.json) · [CSV](https://data.orchid-project.org/systems/CU-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-ZN/CuZn-03Dav.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CU-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CU-ZN.md)
 
@@ -13,15 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 13 |
-| model | 50 |
-| unspecified | 6 |
+| model | 54 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 66 |
-| phase transition | 2 |
 | activity / EMF / Gibbs energy | 1 |
 
 ## Calculated phase diagrams
@@ -106,14 +104,14 @@ Table: Invariant reactions reported in the literature for the Cu–Zn system (66
 | 1176 | peritectic: (Cu) + L -> β | (Cu): Zn 0.319; β: Zn 0.361; L: Zn 0.368 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 1; `ORC-R25F7MOM2D` |  |
 | 1176 | peritectic: (Cu) + L -> β | (Cu): Zn 0.319; β: Zn 0.353; L: Zn 0.373 | model | [3] Kowalski 1993 | Table 1, p. 1, row 2; `ORC-WXLIYJNK5F` |  |
 | 1176 | L + α = β | L: Zn 0.384; α: Zn 0.327; β: Zn 0.361 | model | [1] Wang 2011 | Table 2, p. 3, row 2; `ORC-ZH4UCJG25Z` |  |
-| 1175.3 | peritectic: Liquid + fcc-A1 -> bcc-A2 | Liquid: Zn 0.373; fcc-A1: Zn 0.319; bcc-A2: Zn 0.353 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 1; `ORC-BZJO3MY5DE` |  |
+| 1175.3 | peritectic: Liquid + fcc-A1 -> bcc-A2 | Liquid: Zn 0.373; fcc-A1: Zn 0.319; bcc-A2: Zn 0.353 | model | [4] (ed.) 1998 | Table I, p. 206, row 1; `ORC-BZJO3MY5DE` |  |
 | 1175 | peritectic: α + L ↔ β | α: Zn 0.319; L: Zn 0.372; β: Zn 0.351 | model | [5] David 2003 | Table 1, p. 2, row 2; `ORC-CR2YVUZN2D` |  |
 | 1175 | (Cu) + L ↔ β | (Cu): Zn 0.361 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 1; `ORC-PP3UYSB2WV` |  |
 | 1175 | peritectic: α + L ↔ β | α: Zn 0.319; L: Zn 0.368; β: Zn 0.361 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 1; `ORC-UYVKURBRRL` |  |
 | 1174 | (Cu) + L ↔ β | β: Zn 0.354 | model | [2] Gierlotka 2008 | Table II, p. 2, row 3; `ORC-6ZB6J6JUVY` |  |
 | 1173 | (Cu) + L ↔ β | β: Zn 0.358 | model | [2] Gierlotka 2008 | Table II, p. 2, row 4; `ORC-T33WOT3WKF` |  |
 | 1110 | peritectic: β + L ↔ γ | β: Zn 0.572; L: Zn 0.606; γ: Zn 0.599 | model | [5] David 2003 | Table 1, p. 2, row 4; `ORC-MMVWC3PTR5` |  |
-| 1108.3 | peritectic: Liquid + bcc-A2 -> CuZn-γ | Liquid: Zn 0.592; bcc-A2: Zn 0.558; CuZn-γ: Zn 0.586 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 2; `ORC-6WYGLB4MDP` |  |
+| 1108.3 | peritectic: Liquid + bcc-A2 -> CuZn-γ | Liquid: Zn 0.592; bcc-A2: Zn 0.558; CuZn-γ: Zn 0.586 | model | [4] (ed.) 1998 | Table I, p. 206, row 2; `ORC-6WYGLB4MDP` |  |
 | 1108 | peritectic: β + L -> γ | β: Zn 0.558; γ: Zn 0.591; L: Zn 0.591 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 3; `ORC-7MYX3GW4YJ` |  |
 | 1108 | β + L ↔ γ | γ: Zn 0.586 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 6; `ORC-CXFIMYL4NV` |  |
 | 1108 | L + β = γ | L: Zn 0.592; β: Zn 0.554; γ: Zn 0.591 | model | [1] Wang 2011 | Table 2, p. 3, row 4; `ORC-LKH5RKCQ46` |  |
@@ -132,9 +130,9 @@ Table: Invariant reactions reported in the literature for the Cu–Zn system (66
 | 973 | peritectic: γ + L -> δ | γ: Zn 0.692; δ: Zn 0.724; L: Zn 0.8 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 5; `ORC-PPXFTEWOYA` |  |
 | 973 | peritectic: γ + L -> δ | γ: Zn 0.678; δ: Zn 0.719; L: Zn 0.802 | model | [3] Kowalski 1993 | Table 1, p. 1, row 6; `ORC-TKXHJKVVRV` |  |
 | 973 | γ + L ↔ δ | γ: Zn 0.615385; δ: Zn 0.719 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 10; `ORC-TUEF6C3LVX` |  |
-| 972.5 | peritectic: Liquid + CuZn-γ -> bcc-A2 | Liquid: Zn 0.802; CuZn-γ: Zn 0.678; bcc-A2: Zn 0.719 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 3; `ORC-NZ4PLNXIU6` |  |
+| 972.5 | peritectic: Liquid + CuZn-γ -> bcc-A2 | Liquid: Zn 0.802; CuZn-γ: Zn 0.678; bcc-A2: Zn 0.719 | model | [4] (ed.) 1998 | Table I, p. 206, row 3; `ORC-NZ4PLNXIU6` |  |
 | 972 | L + γ = δ | L: Zn 0.801; γ: Zn 0.669; δ: Zn 0.72 | model | [1] Wang 2011 | Table 2, p. 3, row 6; `ORC-P5PZLDWVFN` |  |
-| 873.4 | peritectic: Liquid + bcc-A2 -> hcp-A3 | Liquid: Zn 0.882; bcc-A2: Zn 0.773; hcp-A3: Zn 0.792 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 4; `ORC-AKQK76C7PM` |  |
+| 873.4 | peritectic: Liquid + bcc-A2 -> hcp-A3 | Liquid: Zn 0.882; bcc-A2: Zn 0.773; hcp-A3: Zn 0.792 | model | [4] (ed.) 1998 | Table I, p. 206, row 4; `ORC-AKQK76C7PM` |  |
 | 873 | L + δ = ϵ | L: Zn 0.88; δ: Zn 0.77; ϵ: Zn 0.781 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 7; `ORC-3BQ7W7TANQ` |  |
 | 873 | δ + L ↔ ϵ | ϵ: Zn 0.792 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 14; `ORC-6UR7IVAYHG` |  |
 | 873 | peritectic: δ + L -> ε | δ: Zn 0.773; ε: Zn 0.792; L: Zn 0.882 | model | [3] Kowalski 1993 | Table 1, p. 1, row 8; `ORC-INNJTZKG6T` |  |
@@ -154,7 +152,7 @@ Table: Invariant reactions reported in the literature for the Cu–Zn system (66
 | 832 | δ + γ ↔ ϵ | δ: Zn 0.749; γ: Zn 0.615385 | model | [2] Gierlotka 2008 | Table II, p. 2, row 24; `ORC-G4AU3M3FMR.925454` |  |
 | 832 | eutectoid: δ -> γ + ε | γ: Zn 0.693; δ: Zn 0.749; ε: Zn 0.777 | model | [3] Kowalski 1993 | Table 1, p. 1, row 12; `ORC-MAOHMCXBEB` |  |
 | 832 | δ = γ + ϵ | δ: Zn 0.748; γ: Zn 0.7; ϵ: Zn 0.78 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 9; `ORC-WYCBKTYI4P` |  |
-| 831.9 | eutectoid: bcc-A2 -> CuZn-γ + hcp-A3 | bcc-A2: Zn 0.748; CuZn-γ: Zn 0.693; hcp-A3: Zn 0.777 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 5; `ORC-I6CNE4I7GW` |  |
+| 831.9 | eutectoid: bcc-A2 -> CuZn-γ + hcp-A3 | bcc-A2: Zn 0.748; CuZn-γ: Zn 0.693; hcp-A3: Zn 0.777 | model | [4] (ed.) 1998 | Table I, p. 206, row 5; `ORC-I6CNE4I7GW` |  |
 | 831 | eutectoid: δ -> γ + ε | γ: Zn 0.7; δ: Zn 0.74; ε: Zn 0.78 | experimental | [3] Kowalski 1993; _cites Massalski 1986_ | Table 1, p. 1, row 11; `ORC-ZEHQ2UW4Y5` |  |
 | 698 | peritectic: ε + L ↔ η | ε: Zn 0.88; L: Zn 0.9825; η: Zn 0.9717 | model | [5] David 2003; _cites Miodownik 1994_ | Table 1, p. 2, row 11; `ORC-DAH4JDI3J4` |  |
 | 698 | ϵ + L ↔ (Zn) | ϵ: Zn 0.972 | model | [2] Gierlotka 2008; _cites Massalski 1986_ | Table II, p. 2, row 17; `ORC-O77H4HV3U2` |  |
@@ -163,21 +161,12 @@ Table: Invariant reactions reported in the literature for the Cu–Zn system (66
 | 695 | peritectic: ε + L -> (Zn) | ε: Zn 0.875; (Zn): Zn 0.981; L: Zn 0.983 | model | [3] Kowalski 1993 | Table 1, p. 1, row 10; `ORC-EQNIH4PLYZ` |  |
 | 695 | ϵ + L ↔ (Zn) | (Zn): Zn 0.981 | model | [2] Gierlotka 2008; _cites Kowalski 1993_ [doi](https://doi.org/10.1007/bf02671961) | Table II, p. 2, row 18; `ORC-PQTAAQKYV5` |  |
 | 695 | L + ϵ = (Zn) | L: Zn 0.983; ϵ: Zn 0.872; (Zn): Zn 0.972 | experimental | [1] Wang 2011; _cites Massalski 1986_ | Table 2, p. 3, row 11; `ORC-YLLF5AYDTP` |  |
-| 694.4 | peritectic: Liquid + hcp-A3 -> hcp-Zn | Liquid: Zn 0.983; hcp-A3: Zn 0.874; hcp-Zn: Zn 0.981 | unspecified | [4] Hämäläinen 1998 | Table I, p. 206, row 6; `ORC-GBMFRJF3H5` |  |
+| 694.4 | peritectic: Liquid + hcp-A3 -> hcp-Zn | Liquid: Zn 0.983; hcp-A3: Zn 0.874; hcp-Zn: Zn 0.981 | model | [4] (ed.) 1998 | Table I, p. 206, row 6; `ORC-GBMFRJF3H5` |  |
 | 694 | L + ϵ = (Zn) | L: Zn 0.982; ϵ: Zn 0.874; (Zn): Zn 0.981 | model | [1] Wang 2011 | Table 2, p. 3, row 12; `ORC-MPHLT6T34B` |  |
 | 692 | ϵ + L ↔ (Zn) | (Zn): Zn 0.983 | model | [2] Gierlotka 2008 | Table II, p. 2, row 20; `ORC-3VS2PICAOR.0763f2` |  |
 | 692 | ϵ + L ↔ (Zn) | (Zn): Zn 0.981 | model | [2] Gierlotka 2008 | Table II, p. 2, row 19; `ORC-3VS2PICAOR.85ad27` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Cu–Zn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 729 K | 729 |  | model | [2] Gierlotka 2008 | p. 1; `ORC-YB7XCURD6O.09628f` | “Order-disorder transformation of the ␤⬘-␤ phase has been investigated,14,15 and the reactions are at 729 K and 741 K of compositions xZn ⳱ 0.448 and xZn ⳱ 0.482, respectively.” |
-| Phase transition | 741 K | 741 |  | model | [2] Gierlotka 2008 | p. 1; `ORC-YB7XCURD6O.b7218b` | “Order-disorder transformation of the ␤⬘-␤ phase has been investigated,14,15 and the reactions are at 729 K and 741 K of compositions xZn ⳱ 0.448 and xZn ⳱ 0.482, respectively.” |
 
 ### Activity / EMF / Gibbs energy (1)
 
@@ -194,7 +183,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. Jiong Wang, Honghui Xu, Shunli Shang, Lijun Zhang, Yong Du, Wenqing Zhang et al., Experimental investigation and thermodynamic modeling of the Cu–Si–Zn system with the refined description for the Cu–Zn system, Calphad 35, 191-203 (2011). [doi:10.1016/j.calphad.2011.02.001](https://doi.org/10.1016/j.calphad.2011.02.001)
 2. Wojciech Gierlotka, Sinn-wen Chen, Thermodynamic descriptions of the Cu–Zn system, J. Mater. Res. 23, 258-263 (2008). [doi:10.1557/jmr.2008.0035](https://doi.org/10.1557/jmr.2008.0035)
 3. M. Kowalski, P. J. Spencer, Thermodynamic reevaluation of the Cu-Zn system, JPE 14, 432-438 (1993). [doi:10.1007/bf02671961](https://doi.org/10.1007/bf02671961)
-4. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+4. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 5. N. David, J-M. Fiorani, M. Vilasi, J. Hertz, Thermodynamic reevaluation of the Cu-Zn system by electromotive force measurements in the zinc-rich part, JPE 24, 240-248 (2003). [doi:10.1361/105497103770330541](https://doi.org/10.1361/105497103770330541)
 
 ## Please cite

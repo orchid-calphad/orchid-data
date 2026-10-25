@@ -35,11 +35,11 @@ Table: Uncertainty budget of the literature values of Bi2O3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -590.2 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
-| -587.5 | kJ/mol (basis unstated) |  | 0.05 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
+| -587.5 | kJ/mol (basis unstated) |  | 0.05 | 21 (kems_vapour, calibrated) |  |  |  | 21 |
 | -581.6 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
-| -576.6 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -576.6 | kJ/mol (basis unstated) |  | 0.05 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 16 |
 | -573.9 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
-| -569 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -569 | kJ/mol (basis unstated) |  | 0.05 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 16 |
 | -567.8 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
 | -567.4 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
 | -563.4 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |

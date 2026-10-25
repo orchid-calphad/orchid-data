@@ -201,7 +201,7 @@
     "x0": 0.206897,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Fe23Y6",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -219,7 +219,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Fe3Y",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -237,7 +237,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Fe3Y",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

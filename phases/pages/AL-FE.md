@@ -86,7 +86,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:al13fe4)
 
 Names (17): _corpus: _corpus:phase:al-fe:al13fe4  
-_paper: _paper:10.1016/j.calphad.2008.07.010:FeAl3, paper:10.1016/j.jallcom.2018.01.316:θ, paper:10.1016/j.jallcom.2022.168361:θ, paper:10.1016/j.jallcom.2022.168361:θ-Al13Fe4, paper:10.1016/s0364-5916(98)00037-6:Al13Fe4  
+_paper: _paper:10.1016/j.calphad.2008.07.010:FeAl3, paper:10.1016/j.jallcom.2018.01.316:θ, paper:10.1016/j.jallcom.2022.168361:θ, paper:10.1016/j.jallcom.2022.168361:θ-Al13Fe4, paper:sha256-85fd53a1a176b694:Al13Fe4  
 _tdb: _tdb:AlFe-07Zha.tdb:AL13FE4, tdb:AlFe-09Jac.tdb:AL13FE4, tdb:AlFe-09Sun-no-option-F.tdb:AL13FE4, tdb:AlFe-09Sun.tdb:AL13FE4, tdb:AlFe-15Mie.tdb:AL13FE4, tdb:AlFe-17Zhe.tdb:AL13FE4, tdb:AlFe-18Zie.tdb:AL13FE4, tdb:AlFe-19Ran.tdb:AL13FE4, tdb:AlFe-21Mur.tdb:AL13FE4, tdb:AlFe-23Ila.tdb:AL13FE4, tdb:AlFe-93Sei-LB.tdb:AL13FE4  
 
 
@@ -169,7 +169,7 @@ _tdb: _tdb:AlFe-07Zha.tdb:AL13FE4, tdb:AlFe-09Jac.tdb:AL13FE4, tdb:AlFe-09Sun-no
 52: CONST AL13FE4 : AL : FE : AL VA : !
 ~~~~
 
-Example references (10 of 15; assessments first): 
+Example references (10 of 14; assessments first): 
 
 - [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -203,7 +203,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:al2fe)
 
 Names (17): _corpus: _corpus:phase:al-fe:al2fe  
-_paper: _paper:10.1016/j.calphad.2008.07.010:FeAl2, paper:10.1016/j.jallcom.2018.01.316:ζ, paper:10.1016/j.jallcom.2022.168361:ζ, paper:10.1016/j.jallcom.2022.168361:ζ-Al2Fe, paper:10.1016/s0364-5916(98)00037-6:Al2Fe  
+_paper: _paper:10.1016/j.calphad.2008.07.010:FeAl2, paper:10.1016/j.jallcom.2018.01.316:ζ, paper:10.1016/j.jallcom.2022.168361:ζ, paper:10.1016/j.jallcom.2022.168361:ζ-Al2Fe, paper:sha256-85fd53a1a176b694:Al2Fe  
 _tdb: _tdb:AlFe-07Zha.tdb:AL2FE, tdb:AlFe-09Jac.tdb:AL2FE, tdb:AlFe-09Sun-no-option-F.tdb:AL2FE, tdb:AlFe-09Sun.tdb:AL2FE, tdb:AlFe-15Mie.tdb:AL2FE, tdb:AlFe-17Zhe.tdb:AL2FE, tdb:AlFe-18Zie.tdb:AL2FE, tdb:AlFe-19Ran.tdb:AL2FE, tdb:AlFe-21Mur.tdb:AL2FE, tdb:AlFe-23Ila.tdb:AL2FE, tdb:AlFe-93Sei-LB.tdb:AL2FE  
 
 
@@ -286,7 +286,7 @@ _tdb: _tdb:AlFe-07Zha.tdb:AL2FE, tdb:AlFe-09Jac.tdb:AL2FE, tdb:AlFe-09Sun-no-opt
 63: CONST AL2FE : AL : FE : !
 ~~~~
 
-Example references (10 of 15; assessments first): 
+Example references (10 of 14; assessments first): 
 
 - [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -320,7 +320,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:al5fe2)
 
 Names (17): _corpus: _corpus:phase:al-fe:al5fe2  
-_paper: _paper:10.1016/j.calphad.2008.07.010:Fe2Al5, paper:10.1016/j.jallcom.2018.01.316:η, paper:10.1016/j.jallcom.2022.168361:η, paper:10.1016/j.jallcom.2022.168361:η-Al5Fe2, paper:10.1016/s0364-5916(98)00037-6:Al5Fe2  
+_paper: _paper:10.1016/j.calphad.2008.07.010:Fe2Al5, paper:10.1016/j.jallcom.2018.01.316:η, paper:10.1016/j.jallcom.2022.168361:η, paper:10.1016/j.jallcom.2022.168361:η-Al5Fe2, paper:sha256-85fd53a1a176b694:Al5Fe2  
 _tdb: _tdb:AlFe-07Zha.tdb:AL5FE2, tdb:AlFe-09Jac.tdb:AL5FE2, tdb:AlFe-09Sun-no-option-F.tdb:AL5FE2, tdb:AlFe-09Sun.tdb:AL5FE2, tdb:AlFe-15Mie.tdb:AL5FE2, tdb:AlFe-17Zhe.tdb:AL5FE2, tdb:AlFe-18Zie.tdb:AL5FE2, tdb:AlFe-19Ran.tdb:AL5FE2, tdb:AlFe-21Mur.tdb:AL5FE2, tdb:AlFe-23Ila.tdb:AL5FE2, tdb:AlFe-93Sei-LB.tdb:AL5FE2  
 
 
@@ -403,7 +403,7 @@ _tdb: _tdb:AlFe-07Zha.tdb:AL5FE2, tdb:AlFe-09Jac.tdb:AL5FE2, tdb:AlFe-09Sun-no-o
 58: CONST AL5FE2 : AL : FE : !
 ~~~~
 
-Example references (10 of 15; assessments first): 
+Example references (10 of 14; assessments first): 
 
 - [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -496,7 +496,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:al8fe5-d82)
 
 Names (13): _corpus: _corpus:phase:al-fe:al8fe5-d82  
-_paper: _paper:10.1016/j.calphad.2008.07.010:ε, paper:10.1016/j.jallcom.2018.01.316:ε, paper:10.1016/j.jallcom.2022.168361:ε, paper:10.1016/s0364-5916(98)00037-6:Al5Fe4  
+_paper: _paper:10.1016/j.calphad.2008.07.010:ε, paper:10.1016/j.jallcom.2018.01.316:ε, paper:10.1016/j.jallcom.2022.168361:ε, paper:sha256-85fd53a1a176b694:Al5Fe4  
 _system_alias: _system_alias:al-fe:epsilon  
 _tdb: _tdb:AlFe-09Sun-no-option-F.tdb:AL8FE5_D82, tdb:AlFe-09Sun.tdb:AL8FE5_D82, tdb:AlFe-17Zhe.tdb:AL8FE5_D82, tdb:AlFe-18Zie.tdb:AL8FE5_D82, tdb:AlFe-19Ran.tdb:AL8FE5_D82, tdb:AlFe-21Mur.tdb:AL8FE5_D82, tdb:AlFe-23Ila.tdb:AL8FE5_D82  
 
@@ -552,7 +552,7 @@ _tdb: _tdb:AlFe-09Sun-no-option-F.tdb:AL8FE5_D82, tdb:AlFe-09Sun.tdb:AL8FE5_D82,
 80: CONST AL8FE5_D82 : AL FE : FE : AL FE : AL : !
 ~~~~
 
-Example references (10 of 12; assessments first): 
+Example references (10 of 11; assessments first): 
 
 - [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -845,7 +845,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:bcc-b2)
 
 Names (17): _corpus: _corpus:phase:al-fe:bcc-b2, corpus:phase:al-fe:b2-bcc  
-_paper: _paper:10.1016/j.calphad.2008.07.010:bcc_B2, paper:10.1016/j.jallcom.2018.01.316:B2, paper:10.1016/j.jallcom.2018.01.316:\[B2 + ζ\], paper:10.1016/j.jallcom.2022.168361:B2, paper:10.1016/s0364-5916(98)00037-6:bcc-B2  
+_paper: _paper:10.1016/j.calphad.2008.07.010:bcc_B2, paper:10.1016/j.jallcom.2018.01.316:B2, paper:10.1016/j.jallcom.2018.01.316:\[B2 + ζ\], paper:10.1016/j.jallcom.2022.168361:B2, paper:sha256-85fd53a1a176b694:bcc-B2  
 _tdb: _tdb:AlFe-07Zha.tdb:B2_BCC, tdb:AlFe-09Jac.tdb:B2_BCC, tdb:AlFe-09Sun-no-option-F.tdb:B2_BCC, tdb:AlFe-09Sun.tdb:B2_BCC, tdb:AlFe-17Zhe.tdb:B2_BCC, tdb:AlFe-18Zie.tdb:B2_BCC, tdb:AlFe-19Ran.tdb:B2_BCC, tdb:AlFe-21Mur.tdb:B2_BCC, tdb:AlFe-23Ila.tdb:B2_BCC, tdb:AlFe-93Sei-LB.tdb:B2_BCC  
 
 
@@ -921,7 +921,7 @@ _tdb: _tdb:AlFe-07Zha.tdb:B2_BCC, tdb:AlFe-09Jac.tdb:B2_BCC, tdb:AlFe-09Sun-no-o
 42: CONST B2_BCC : AL% FE VA : AL FE% VA : VA : !
 ~~~~
 
-Example references (10 of 13; assessments first): 
+Example references (10 of 12; assessments first): 
 
 - [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -1012,7 +1012,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:fcc-a1)
 
 Names (20): _corpus: _corpus:phase:al-fe:fcc-a1  
-_paper: _paper:10.1016/j.calphad.2008.07.010:fcc_A1, paper:10.1016/j.jallcom.2018.01.316:fcc, paper:10.1016/j.jallcom.2022.168361:fcc, paper:10.1016/s0364-5916(98)00037-6:fcc-Al  
+_paper: _paper:10.1016/j.calphad.2008.07.010:fcc_A1, paper:10.1016/j.jallcom.2018.01.316:fcc, paper:10.1016/j.jallcom.2022.168361:fcc, paper:sha256-85fd53a1a176b694:fcc-Al  
 _tdb: _tdb:AlFe-07Zha.tdb:FCC_A1, tdb:AlFe-09Jac.tdb:FCC_A1, tdb:AlFe-09Sun-no-option-F.tdb:A1_FCC, tdb:AlFe-09Sun-no-option-F.tdb:FCC_A1, tdb:AlFe-09Sun.tdb:A1_FCC, tdb:AlFe-09Sun.tdb:FCC_A1, tdb:AlFe-15Mie.tdb:FCC_A1, tdb:AlFe-17Zhe.tdb:A1_FCC, tdb:AlFe-17Zhe.tdb:FCC_A1, tdb:AlFe-18Zie.tdb:FCC_A1, tdb:AlFe-19Ran.tdb:FCC_A1, tdb:AlFe-21Mur.tdb:A1_FCC, tdb:AlFe-21Mur.tdb:FCC_A1, tdb:AlFe-23Ila.tdb:FCC_A1, tdb:AlFe-93Sei-LB.tdb:FCC_A1  
 
 
@@ -1123,7 +1123,7 @@ _tdb: _tdb:AlFe-07Zha.tdb:FCC_A1, tdb:AlFe-09Jac.tdb:FCC_A1, tdb:AlFe-09Sun-no-o
 27: CONST FCC_A1 : AL FE : VA : !
 ~~~~
 
-Example references (10 of 13; assessments first): 
+Example references (10 of 12; assessments first): 
 
 - [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -1260,7 +1260,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:liquid)
 
 Names (17): _corpus: _corpus:phase:al-fe:liquid  
-_paper: _paper:10.1016/j.calphad.2008.07.010:Liq, paper:10.1016/j.calphad.2008.07.010:liq, paper:10.1016/j.jallcom.2018.01.316:L, paper:10.1016/j.jallcom.2022.168361:L, paper:10.1016/s0364-5916(98)00037-6:L  
+_paper: _paper:10.1016/j.calphad.2008.07.010:Liq, paper:10.1016/j.calphad.2008.07.010:liq, paper:10.1016/j.jallcom.2018.01.316:L, paper:10.1016/j.jallcom.2022.168361:L, paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:AlFe-07Zha.tdb:LIQUID, tdb:AlFe-09Jac.tdb:LIQUID, tdb:AlFe-09Sun-no-option-F.tdb:LIQUID, tdb:AlFe-09Sun.tdb:LIQUID, tdb:AlFe-15Mie.tdb:LIQUID, tdb:AlFe-17Zhe.tdb:LIQUID, tdb:AlFe-18Zie.tdb:LIQUID, tdb:AlFe-19Ran.tdb:LIQUID, tdb:AlFe-21Mur.tdb:LIQUID, tdb:AlFe-23Ila.tdb:LIQUID, tdb:AlFe-93Sei-LB.tdb:LIQUID  
 
 
@@ -1343,7 +1343,7 @@ _tdb: _tdb:AlFe-07Zha.tdb:LIQUID, tdb:AlFe-09Jac.tdb:LIQUID, tdb:AlFe-09Sun-no-o
 22: CONST LIQUID:L : AL FE : !
 ~~~~
 
-Example references (10 of 14; assessments first): 
+Example references (10 of 13; assessments first): 
 
 - [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_

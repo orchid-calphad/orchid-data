@@ -51,9 +51,9 @@ Table: Invariant reactions reported in the literature for the Mo–Th system (7)
 | 1653.15 | eutectic: L -> (Mo) + βTh | L: Mo 0.86 | experimental | [1] Wang 2008; _cites Okamoto 2000_ | Table 5, p. 4, row 1; `ORC-63STPI4VLP` |  |
 | 1653.15 | eutectic: L -> (Mo) + βTh | L: Mo 0.86 | experimental | [1] Wang 2008; _cites Brewer 1982_ [doi](https://doi.org/10.1007/bf02869295) | Table 5, p. 4, row 2; `ORC-HUU2QA45E7` |  |
 | 1651.05 | eutectic: L -> (Mo) + βTh | L: Mo 0.863; (Mo): Mo 0.981; βTh: Mo 0.006 | model | [1] Wang 2008 | Table 5, p. 4, row 4; `ORC-FIJJOB2IYJ` |  |
-| 1629.15 | L -> (Mo) + αTh |  | experimental | [1] Wang 2008; _cites Okamoto 2000_ | Table 5, p. 4, row 5; `ORC-FMEEJQ4UFG` |  |
-| 1629.15 | L -> (Mo) + αTh | (Mo): Mo 1 | experimental | [1] Wang 2008; _cites Brewer 1982_ [doi](https://doi.org/10.1007/bf02869295) | Table 5, p. 4, row 6; `ORC-IAHA5C2LVP` |  |
-| 1628.25 | L -> (Mo) + αTh | L: Mo 0.982; (Mo): Mo 0.986; αTh: Mo 0.006 | model | [1] Wang 2008 | Table 5, p. 4, row 7; `ORC-5MQJ2J4WJX` |  |
+| 1629.15 | eutectic: L -> (Mo) + αTh |  | experimental | [1] Wang 2008; _cites Okamoto 2000_ | Table 5, p. 4, row 5; `ORC-FMEEJQ4UFG` |  |
+| 1629.15 | eutectic: L -> (Mo) + αTh | (Mo): Mo 1 | experimental | [1] Wang 2008; _cites Brewer 1982_ [doi](https://doi.org/10.1007/bf02869295) | Table 5, p. 4, row 6; `ORC-IAHA5C2LVP` |  |
+| 1628.25 | eutectic: L -> (Mo) + αTh | L: Mo 0.982; (Mo): Mo 0.986; αTh: Mo 0.006 | model | [1] Wang 2008 | Table 5, p. 4, row 7; `ORC-5MQJ2J4WJX` |  |
 
 ## Other properties
 

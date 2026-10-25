@@ -1,10 +1,10 @@
 # Re–Ti system
 
-> Re–Ti system: 14 accepted literature values (crystal structure 10, phase transition 2, invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Re–Ti system: 11 accepted literature values (crystal structure 10, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RE-TI.html · Markdown: https://data.orchid-project.org/systems/RE-TI.md
 
-14 accepted literature values from 1 paper(s) (experimental 6, DFT 8); 1 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 3, DFT 8); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RE-TI.json) · [CSV](https://data.orchid-project.org/systems/RE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-TI/ReTi-12Zac.json) · [phases (6)](https://data.orchid-project.org/phases/pages/RE-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RE-TI.html) · [Markdown](https://data.orchid-project.org/systems/RE-TI.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
+| experimental | 3 |
 | DFT | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
-| phase transition | 2 |
+| phase transition | 1 |
 | crystal structure | 10 |
 
 ## Calculated phase diagrams
@@ -48,25 +47,15 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/RE/RE-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/RE/RE-TI.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Re–Ti system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 3023 | peritectic |  | experimental | [1] Zacherl 2012; _cites Savitskii 1958_ | p. 2; `ORC-5H4EMRZUU2.b643fc` | “The phase equilibrium of the Re-Ti system was investigated experimentally by Savitskii et al. on multiple occasions \[2-4\] and found to have two peritectic reactions with one around 48 at% Re at 2298 K \[2\] and the second around 80 at% Re at 3023 K \[3\].” |
-| 2298 | peritectic |  | experimental | [1] Zacherl 2012; _cites Savitskii 1959_ | p. 2; `ORC-5H4EMRZUU2.9f51a1` | “The phase equilibrium of the Re-Ti system was investigated experimentally by Savitskii et al. on multiple occasions \[2-4\] and found to have two peritectic reactions with one around 48 at% Re at 2298 K \[2\] and the second around 80 at% Re at 3023 K \[3\].” |
-
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Re–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 3023 K | 3023 | congruent transformation | experimental | [1] Zacherl 2012; _cites Trzebiatowski 1955_ | p. 2; `ORC-SMVLG6U6LI` | “Re24Ti5 has a congruent melting temperature around 3023 K.” |
-| Phase transition | 3023 K | 3023 | other | experimental | [1] Zacherl 2012 | p. 7; `ORC-MLRCBTDCLO` | “The melting temperature of the compound, Re24Ti5, agrees well with its experimental value of 3023 K.” |
 
 ### Crystal structure (10)
 

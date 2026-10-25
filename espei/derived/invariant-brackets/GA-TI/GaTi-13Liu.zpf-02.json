@@ -70,7 +70,7 @@
     "x0": 0.333333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ga2Ti",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

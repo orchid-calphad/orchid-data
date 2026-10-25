@@ -21,7 +21,7 @@ Table: Phases of the Cr–Ti system (10)
 | [CR2TI_C36](#phase-cr-ti-cr2ti-c36); _phase:cr-ti:cr2ti-c36_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1300–1530 K | 0 | 1 |
 | [FCC_A1](#phase-cr-ti-fcc-a1); _phase:cr-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 8 calculated diagram(s) | 0 | 8 |
 | [HCP_A3](#phase-cr-ti-hcp-a3); _phase:cr-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–2169.99 K, x(Ti) 0.11–1 | 17 | 8 |
-| [LIQUID](#phase-cr-ti-liquid); _phase:cr-ti:liquid_ | liquid | liquid | stable in 8 of 8 calculated diagram(s): 1676.96–4000 K, x(Ti) 0–1 | 15 | 8 |
+| [LIQUID](#phase-cr-ti-liquid); _phase:cr-ti:liquid_ | liquid | liquid | stable in 8 of 8 calculated diagram(s): 1676.96–4000 K, x(Ti) 0–1 | 16 | 8 |
 
 ## BCC_A2 (Cr–Ti)
 
@@ -660,11 +660,11 @@ _cited as the source of values for this phase_
 - Id: `phase:cr-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 8 of 8 calculated diagram(s): 1676.96–4000 K, x(Ti) 0–1
-- Literature: 15 values (15 accepted) from 2 papers
+- Literature: 16 values (16 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ti:liquid)
 
-Names (11): _corpus: _corpus:phase:cr-ti:liquid  
-_paper: _paper:10.1007/s11669-024-01090-2:Liquid, paper:10.1361/105497102770331569:L  
+Names (12): _corpus: _corpus:phase:cr-ti:liquid  
+_paper: _paper:10.1007/s11669-024-01090-2:Liquid, paper:10.1007/s11669-024-01090-2:liquid, paper:10.1361/105497102770331569:L  
 _tdb: _tdb:CrTi-00Zhu.tdb:LIQUID, tdb:CrTi-02Gho.tdb:LIQUID, tdb:CrTi-10Pav-3SL.tdb:LIQUID, tdb:CrTi-10Pav.tdb:LIQUID, tdb:CrTi-22Sun.tdb:LIQUID, tdb:CrTi-24Flo.tdb:LIQUID, tdb:CrTi-98Sau-LB.tdb:LIQUID, tdb:CrTi-99Lee.tdb:LIQUID  
 
 

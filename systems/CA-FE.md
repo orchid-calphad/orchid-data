@@ -1,10 +1,10 @@
 # Ca–Fe system
 
-> Ca–Fe system: 4 accepted literature values (activity / EMF / Gibbs energy 3, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Fe system: 3 accepted literature values (activity / EMF / Gibbs energy 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-FE.html · Markdown: https://data.orchid-project.org/systems/CA-FE.md
 
-4 accepted literature values from 2 paper(s) (experimental 2, model 2); 2 calculated phase diagram(s).
+3 accepted literature values from 1 paper(s) (experimental 1, model 2); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-FE.json) · [CSV](https://data.orchid-project.org/systems/CA-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-FE/CaFe-13Sel.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CA-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-FE.html) · [Markdown](https://data.orchid-project.org/systems/CA-FE.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
+| experimental | 1 |
 | model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | activity / EMF / Gibbs energy | 3 |
 
 ## Calculated phase diagrams
@@ -54,14 +53,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CA/CA-FE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CA/CA-FE.json) · [CALPHAD hull CaFe-90Hil](https://data.orchid-project.org/hulls/calphad-sgte/CA/CA-FE--CaFe-90Hil.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ca–Fe system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1373 | eutectic |  | experimental | [1] Dilner 2016; _cites Heumann 1942_ [doi](https://doi.org/10.1002/srin.194200362) | p. 10; `ORC-5LHPTHG5DU` | “However, as with the solubility of FeS in CaS, Heumann\[86\] later reported new values on the eutectic point, i.e. 12 mass% CaS and 1373 K.” |
-
 ## Other properties
 
 ### Activity / EMF / Gibbs energy (3)
@@ -70,16 +61,15 @@ Table: Activity / EMF / Gibbs energy, Ca–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Chemical potential; _printed: oxygen potential_ | -63.4 kcal/mole O2 | 1273.15 |  | experimental | [2] Hillert 1990 | p. 9; `ORC-F6BWLC5XH7` | “Edstrrm E4mdetermined one point on line X at 1000 ~ to be -63.4 kcal/mole 02 and Reeve and Gregoryc2s\] determined two more points on the line.” |
-| Chemical potential; _printed: oxygen potential_ | -74.2 kcal/mole O2 | 1372.15 |  | model | [2] Hillert 1990 | p. 9; `ORC-73Y7CB2KXF` | “The present assessment yields 1099 ~ and -74.2 kcal/mole 02 but predicts that this invariant equilibrium is metastable.” |
-| Chemical potential; _printed: oxygen potential_ | -75.1 kcal/mole O2 | 1383.15 |  | model | [2] Hillert 1990 | p. 9; `ORC-2BD6K4HVS5` | “Turkdogant3~ predicted that the univariant lines S, T, and U should intersect at an invariant point X at 1110 ~ and -75.1 kcal/mole 02 and represent a stable equilibrium.” |
+| Chemical potential; _printed: oxygen potential_ | -63.4 kcal/mole O2 | 1273.15 |  | experimental | [1] Hillert 1990 | p. 9; `ORC-F6BWLC5XH7` | “Edstrrm E4mdetermined one point on line X at 1000 ~ to be -63.4 kcal/mole 02 and Reeve and Gregoryc2s\] determined two more points on the line.” |
+| Chemical potential; _printed: oxygen potential_ | -74.2 kcal/mole O2 | 1372.15 |  | model | [1] Hillert 1990 | p. 9; `ORC-73Y7CB2KXF` | “The present assessment yields 1099 ~ and -74.2 kcal/mole 02 but predicts that this invariant equilibrium is metastable.” |
+| Chemical potential; _printed: oxygen potential_ | -75.1 kcal/mole O2 | 1383.15 |  | model | [1] Hillert 1990 | p. 9; `ORC-2BD6K4HVS5` | “Turkdogant3~ predicted that the univariant lines S, T, and U should intersect at an invariant point X at 1110 ~ and -75.1 kcal/mole 02 and represent a stable equilibrium.” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. David Dilner, Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Ca-S, Fe-Mg-O and Fe-Mg-S Systems, J. Phase Equilib. Diffus. 37, 277-292 (2016). [doi:10.1007/s11669-016-0454-2](https://doi.org/10.1007/s11669-016-0454-2)
-2. Mats Hillert, Malin Selleby, Bo Sundman, An assessment of the Ca-Fe-O system, Metall Trans A 21, 2759-2776 (1990). [doi:10.1007/bf02646071](https://doi.org/10.1007/bf02646071)
+1. Mats Hillert, Malin Selleby, Bo Sundman, An assessment of the Ca-Fe-O system, Metall Trans A 21, 2759-2776 (1990). [doi:10.1007/bf02646071](https://doi.org/10.1007/bf02646071)
 
 ## Please cite
 

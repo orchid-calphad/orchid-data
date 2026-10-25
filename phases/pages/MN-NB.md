@@ -19,7 +19,7 @@ Table: Phases of the Mn–Nb system (8)
 | [MU_D85](#phase-mn-nb-d85-mu); _phase:mn-nb:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1260.07 K, x(Nb) 0.46154–0.48006 | 0 | 1 |
 | [FCC_A1](#phase-mn-nb-fcc-a1); _phase:mn-nb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1326.58–1501 K, x(Nb) 0–0.02785 | 2 | 3 |
 | [HCP_A3](#phase-mn-nb-hcp-a3); _phase:mn-nb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [LIQUID](#phase-mn-nb-liquid); _phase:mn-nb:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1489.4–4000 K, x(Nb) 0–1 | 1 | 3 |
+| [LIQUID](#phase-mn-nb-liquid); _phase:mn-nb:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1489.4–4000 K, x(Nb) 0–1 | 2 | 3 |
 
 ## BCC_A2 (Mn–Nb)
 
@@ -311,7 +311,7 @@ _assessment that models this phase_
 - Id: `phase:mn-nb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1489.4–4000 K, x(Nb) 0–1
-- Literature: 1 values (0 accepted) from 1 papers
+- Literature: 2 values (0 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-nb:liquid)
 
 Names (5): _corpus: _corpus:phase:mn-nb:liquid  

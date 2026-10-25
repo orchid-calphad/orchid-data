@@ -181,7 +181,7 @@
     "x0": 0.41000000000000003,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> VSi2 + V6Si5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -200,7 +200,7 @@
     "x0": 0.41000000000000003,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> VSi2 + V6Si5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

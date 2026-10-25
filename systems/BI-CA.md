@@ -1,24 +1,12 @@
 # Bi–Ca system
 
-> Bi–Ca system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Ca system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-CA.html · Markdown: https://data.orchid-project.org/systems/BI-CA.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-CA.json) · [CSV](https://data.orchid-project.org/systems/BI-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-CA/BiCa-22Gao.json) · [phases (8)](https://data.orchid-project.org/phases/pages/BI-CA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-CA.html) · [Markdown](https://data.orchid-project.org/systems/BI-CA.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -47,22 +35,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | BiCa-22Gao.tdb | 542.57 | RHOMBOHEDRAL_A7 (x(Ca) 0) + LIQUID (x(Ca) 0.01053) + BI10CA11_LT (x(Ca) 0.52381) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BI/BI-CA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BI/BI-CA.json)
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Bi–Ca system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 400 K | 400 | other | model | [1] Hallstedt 2003 | p. 9; `ORC-IDNKLNVEIR` | “We treated the β -phase as in the Bi-Sr-O system, but with a transition temperature of 400 K, instead of 333 K at the Bi2 CaO4 end composition.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Bengt Hallstedt, Ludwig J. Gauckler, Revision of the thermodynamic descriptions of the Cu–O, Ag–O, Ag–Cu–O, Bi–Sr–O, Bi–Ca–O, Bi–Cu–O, Sr–Cu–O, Ca–Cu–O and Sr–Ca–Cu–O systems, Calphad 27, 177-191 (2003). [doi:10.1016/s0364-5916(03)00050-6](https://doi.org/10.1016/s0364-5916%2803%2900050-6)
 
 ## Please cite
 

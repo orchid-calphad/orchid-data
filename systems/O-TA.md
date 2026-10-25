@@ -1,10 +1,10 @@
 # O–Ta system
 
-> O–Ta system: 50 accepted literature values (crystal structure 30, invariant reaction 14, phase transition 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Ta system: 41 accepted literature values (crystal structure 30, invariant reaction 8, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-TA.html · Markdown: https://data.orchid-project.org/systems/O-TA.md
 
-50 accepted literature values from 2 paper(s) (experimental 28, model 10, DFT 12); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+41 accepted literature values from 2 paper(s) (experimental 23, model 6, DFT 12); 0 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-TA.json) · [CSV](https://data.orchid-project.org/systems/O-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-TA) · [phases (8)](https://data.orchid-project.org/phases/pages/O-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-TA.html) · [Markdown](https://data.orchid-project.org/systems/O-TA.md)
 
@@ -12,23 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
-| model | 10 |
+| experimental | 23 |
+| model | 6 |
 | DFT | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
-| phase transition | 6 |
+| invariant reaction | 8 |
+| phase transition | 3 |
 | crystal structure | 30 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-TA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-TA.json) · [CALPHAD hull TaO-22Mei-ass](https://data.orchid-project.org/hulls/calphad-sgte/O/O-TA--TaO-22Mei-ass.json) · [CALPHAD hull TaO-22Mei-ion](https://data.orchid-project.org/hulls/calphad-sgte/O/O-TA--TaO-22Mei-ion.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the O–Ta system (14)
+Table: Invariant reactions reported in the literature for the O–Ta system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -37,29 +37,20 @@ Table: Invariant reactions reported in the literature for the O–Ta system (14)
 | 2153.15 | monotectic: liquid1 \<-> bcc + liquid2 | liquid1: Ta 0.57; bcc: Ta 0.943; liquid2: Ta 0.35 | experimental | [1] Gebauer 2022; _cites Garg 1996_ [doi](https://doi.org/10.1007/bf02648373) | Table 2, p. 6, row 2; `ORC-MFUOJW5GAA` |  |
 | 2011.15 | monotectic: liquid1 \<-> bcc + liquid2 | liquid1: Ta 0.707; bcc: Ta 0.949; liquid2: Ta 0.414 | model | [1] Gebauer 2022; _cites Meisner 2022_ [doi](https://doi.org/10.1016/j.calphad.2022.102391) | Table 2, p. 6, row 3; `ORC-ER6ZWLVSZT` |  |
 | 1914.15 | eutectic: liquid2 \<-> bcc + αTa2O5 | liquid2: Ta 0.397; bcc: Ta 0.945; αTa2O5: Ta 0.286 | model | [1] Gebauer 2022; _cites Meisner 2022_ [doi](https://doi.org/10.1016/j.calphad.2022.102391) | Table 2, p. 6, row 8; `ORC-DFPOHVVZZZ` |  |
-| 1914 | eutectic |  | model | [2] Meisner 2022 | p. 17; `ORC-3HVEFQQWR4.104850` | “Consequently, the eutectic temperature is estimated as 1914 K, compared to the experimental value of 1823 K” |
-| 1833.15 | peritectic |  | experimental | [1] Gebauer 2022 | p. 4; `ORC-6564254UYB.6305de` | “A peritectic reaction at 1560 °C and two eutectic reactions at 1425 and 1435 °C are shown.” |
 | 1823.15 | eutectic: liquid2 \<-> bcc + αTa2O5 | liquid2: Ta 0.29; bcc: Ta 0.95; αTa2O5: Ta 0.286 | experimental | [1] Gebauer 2022; _cites Garg 1996_ [doi](https://doi.org/10.1007/bf02648373) | Table 2, p. 6, row 6; `ORC-IG3MISYCJA` |  |
 | 1823.15 | eutectic: liquid2 \<-> bcc + αTa2O5 | liquid2: Ta 0.32; bcc: Ta 0.95; αTa2O5: Ta 0.286 | model | [1] Gebauer 2022 | Table 2, p. 6, row 5; `ORC-QDAEEYNA4N` |  |
-| 1823 | eutectic |  | experimental | [2] Meisner 2022 | p. 17; `ORC-3HVEFQQWR4.4ddf98` | “Consequently, the eutectic temperature is estimated as 1914 K, compared to the experimental value of 1823 K” |
-| 1788 | eutectic |  | model | [2] Meisner 2022 | p. 18; `ORC-X7YTHJIQSX` | “However, unlike the associate solution model, the ionic liquid model slightly underestimates the eutectic temperature as 1788 K.” |
 | 1787.15 | eutectic: liquid2 \<-> bcc + αTa2O5 | liquid2: Ta 0.387; bcc: Ta 0.952; αTa2O5: Ta 0.286 | model | [1] Gebauer 2022; _cites Meisner 2022_ [doi](https://doi.org/10.1016/j.calphad.2022.102391) | Table 2, p. 6, row 7; `ORC-CIKTGAFCMK` |  |
-| 1708.15 | eutectic |  | experimental | [1] Gebauer 2022 | p. 4; `ORC-6564254UYB.a3f0ed` | “A peritectic reaction at 1560 °C and two eutectic reactions at 1425 and 1435 °C are shown.” |
-| 1698.15 | eutectic |  | experimental | [1] Gebauer 2022 | p. 4; `ORC-6564254UYB.142738` | “A peritectic reaction at 1560 °C and two eutectic reactions at 1425 and 1435 °C are shown.” |
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (3)
 
 Table: Phase transition, O–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2011 K | 2011 | other: monotectic | model | [2] Meisner 2022 | p. 18; `ORC-56R7XURZFK.d0a0de` | “Moreover, the ionic liquid model predicts a significantly lower monotectic temperature of 2011 K, compared to the values of 2153 K and 2193 K determined experimentally by Jehn and Olzi and predicted by the associate solution model, respectively.” |
 | Phase transition | 2058 K | 2058 | liquid | experimental | [2] Meisner 2022; _cites ref. 18_ | p. 4; `ORC-3SCLMUUG7U.6796f6` | “The melting temperatures of the α and β phases are 2145 K and 2058 K, respectively \[18\].” |
 | Phase transition | 2145 K | 2145 | α-Ta2O5 + liquid | experimental | [2] Meisner 2022; _cites ref. 18_ | p. 4; `ORC-3SCLMUUG7U.2c913f` | “The melting temperatures of the α and β phases are 2145 K and 2058 K, respectively \[18\].” |
-| Phase transition | 2153 K | 2153 | other: monotectic | experimental | [2] Meisner 2022 | p. 18; `ORC-56R7XURZFK.3befb1` | “Moreover, the ionic liquid model predicts a significantly lower monotectic temperature of 2011 K, compared to the values of 2153 K and 2193 K determined experimentally by Jehn and Olzi and predicted by the associate solution model, respectively.” |
-| Phase transition | 2193 K | 2193 | other: monotectic | model | [2] Meisner 2022 | p. 18; `ORC-56R7XURZFK.92a39c` | “Moreover, the ionic liquid model predicts a significantly lower monotectic temperature of 2011 K, compared to the values of 2153 K and 2193 K determined experimentally by Jehn and Olzi and predicted by the associate solution model, respectively.” |
 | Phase transition | 3290 K | 3290 | liquid | experimental | [2] Meisner 2022; _cites ref. 45_ | p. 8; `ORC-V3KOVNSTYS` | “The liquid is the least understood aspect of the Ta-O system as quantitative measurements are difficult to obtain at ultra-high temperatures (Tm,Ta2O5 = 2145 K \[18\] and Tm,Ta = 3290 K \[45\], where Tm is the melting temperature).” |
 
 ### Crystal structure (30)

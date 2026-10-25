@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of AsGa
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -44.4256 | kJ/mol (basis unstated) |  | 5.000e-5 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -44.4256 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

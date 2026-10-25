@@ -1,10 +1,10 @@
 # Al–Cr system
 
-> Al–Cr system: 310 accepted literature values (invariant reaction 203, crystal structure 46, formation 21, phase transition 19) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cr system: 289 accepted literature values (invariant reaction 185, crystal structure 46, formation 33, mixing / partial 16) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CR.html · Markdown: https://data.orchid-project.org/systems/AL-CR.md
 
-310 accepted literature values from 9 paper(s) (experimental 160, model 117, DFT 21, unspecified 12); 11 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+289 accepted literature values from 9 paper(s) (experimental 149, model 117, DFT 21, unspecified 2); 11 calculated phase diagram(s). 39 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR.json) · [CSV](https://data.orchid-project.org/systems/AL-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CR/AlCr-07Tok.json) · [phases (22)](https://data.orchid-project.org/phases/pages/AL-CR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CR.html) · [Markdown](https://data.orchid-project.org/systems/AL-CR.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 160 |
+| experimental | 149 |
 | model | 117 |
 | DFT | 21 |
-| unspecified | 12 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 203 |
-| phase transition | 19 |
-| formation | 21 |
+| invariant reaction | 185 |
+| phase transition | 4 |
+| formation | 33 |
 | mixing / partial | 16 |
 | activity / EMF / Gibbs energy | 5 |
 | crystal structure | 46 |
@@ -223,271 +223,257 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Cr system (203)
+Table: Invariant reactions reported in the literature for the Al–Cr system (185)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1685 | peritectic: L + c ¡ T |  | model | [1] Witusiewicz 2015 | p. 7; `ORC-VBFOKMCWWG.965c1a` | “The univariant lines L + c + T and L + bCr5Al8 + T display temperature maxima at points p4 (1685 K) and p8 (1542 K), being quasi-binary L + c ¡ T and L + T ¡ bCr5Al8 peritectics, respectively.” |
-| 1623.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 34; `ORC-67G3ACFPSS` |  |
-| 1623.15 | peritectic: ~AlsCr 5 to form L + (Cr) |  | model | [3] Murray 1998 | p. 2; `ORC-VLM3JXN3MT` | “A peritectic melting of ~AlsCr 5 to form L + (Cr) at 1350 ~ was based on rough extrapolations of phase boundaries,'and neither the reaction temperature nor the compositions of the phases were known from experiment.” |
-| 1597 | eutectic: Liquid -> Al8Cr5-H + bcc-A2 | L: Cr 0.385; Al8Cr5-H: Cr 0.383; bcc-A2: Cr 0.558 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 7; `ORC-C26BRWG3ES` |  |
-| 1594.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 1, p. 3, row 38; `ORC-RQONGGMLFQ` |  |
-| 1594 | peritectic: L + A2 ⇄ αCr5Al8 | L: Cr 0.402; A2: Cr 0.536; αCr5Al8: Cr 0.406 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 6; `ORC-EMA5PXHBQM` |  |
-| 1594 | peritectic: L + A2 ⇄ αCr5Al8 |  | experimental | [1] Witusiewicz 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 3, p. 8, row 2; `ORC-MPNKK5GIKT` |  |
-| 1593.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 37; `ORC-BWXWGSOS3W` |  |
-| 1593.15 | other: L + (Cr) -> γ-H | L: Cr 0.3958; γ-H: Cr 0.4186 | experimental | [5] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 11; `ORC-DR5M2KNRA4` |  |
-| 1593.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017 | Table 1, p. 3, row 39; `ORC-J5G4SA4ITP` |  |
-| 1593.15 | peritectic: liquid + bcc(Cr) → ␥1 |  | experimental | [6] Liang 2008 | p. 4; `ORC-L6HQQPRA7N` | “The ␥1 -phase formed by the peritectic reaction at 1320 ◦ C from the liquid and bcc(Cr) occupies a continuous high-temperature range while at lower temperatures approximately the same range is occupied by the ␥2 -phase.” |
-| 1593.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 1, p. 3, row 36; `ORC-Z2CBRMYNJU` |  |
-| 1593 | liq. + bcc(Cr) -> βAl8Cr5b | L: Cr 0.3792; bcc(Cr): Cr 0.5205; βAl8Cr5: Cr 0.4064 | model | [6] Liang 2008 | Table 2, p. 5, row 17; `ORC-2ZTN3AO2HN` |  |
-| 1593 | peritectic: L + A2 ⇄ αCr5Al8 | L: Cr 0.39; αCr5Al8: Cr 0.412 | experimental | [1] Witusiewicz 2015; _cites Okamoto 2008_ [doi](https://doi.org/10.1007/s11669-007-9225-4) | Table 3, p. 8, row 1; `ORC-4CK5RFH4EE` |  |
-| 1593 | liq. + bcc(Cr) -> βAl8Cr5b | L: Cr 0.39; bcc(Cr): Cr 0.54; βAl8Cr5: Cr 0.412 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 18; `ORC-GU43CCD5CI` |  |
-| 1593 | peritectic: L + A2 ⇄ αCr5Al8 | L: Cr 0.379; A2: Cr 0.521; αCr5Al8: Cr 0.406 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 3; `ORC-HQVFQ5DDVM` |  |
-| 1589 | peritectic: L + A2 ⇄ αCr5Al8 | L: Cr 0.373; A2: Cr 0.513; αCr5Al8: Cr 0.402 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 4; `ORC-KWD5MUCOMC` |  |
-| 1588.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 35; `ORC-WRTT4TSQQQ` |  |
-| 1584.15 | other: L + (Cr) -> γ-H | L: Cr 0.382; (Cr): Cr 0.4904; γ-H: Cr 0.3971 | model | [5] Hu 2013 | Table 5, p. 6, row 12; `ORC-JZMPZ6MPYS` |  |
-| 1584 | peritectic: L + A2 ⇄ αCr5Al8 | L: Cr 0.382; A2: Cr 0.49; αCr5Al8: Cr 0.397 | model | [1] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 5; `ORC-Y4RBUYWILA` |  |
-| 1542 | peritectic: L + T ¡ bCr5Al8 |  | model | [1] Witusiewicz 2015 | p. 7; `ORC-VBFOKMCWWG.66a05d` | “The univariant lines L + c + T and L + bCr5Al8 + T display temperature maxima at points p4 (1685 K) and p8 (1542 K), being quasi-binary L + c ¡ T and L + T ¡ bCr5Al8 peritectics, respectively.” |
-| 1523 | eutectic: p8 |  | experimental | [1] Witusiewicz 2015; _cites Kriegel 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.09.067) | p. 7; `ORC-MRNDNPULWX` | “The nature of the reaction p8 and its temperature also differs from estimations by Kriegel et al. \[17\] (quasi-binary eutectic at 1523 K) based on experimental results for as-cast (nonequilibrium with strong segregation) samples of \[84\].” |
-| 1519 | eutectic |  | experimental | [1] Witusiewicz 2015; _cites Kriegel 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.09.067) | p. 7; `ORC-BITPGZTX3R.2118a4` | “The calculated temperature of eutectic reaction E1 is 1514 K and in view of experimental error agrees with the experimental value of 1519 K reported by \[17\].” |
-| 1514 | eutectic |  | model | [1] Witusiewicz 2015 | p. 7; `ORC-BITPGZTX3R.453675` | “The calculated temperature of eutectic reaction E1 is 1514 K and in view of experimental error agrees with the experimental value of 1519 K reported by \[17\].” |
-| 1443.15 | metatectic/catatectic: γ\_H = Liquid + γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 29; `ORC-YMWXUTD22K` |  |
-| 1443.1 | peritectic: Liquid + Al8Cr5-H -> Al9Cr4-H | L: Cr 0.225; Al8Cr5-H: Cr 0.385; Al9Cr4-H: Cr 0.307 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 6; `ORC-VFNATKVIJP` |  |
-| 1437.15 | metatectic/catatectic: γ\_H = Liquid + γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 30; `ORC-IMNUVYC46P` |  |
-| 1416.15 | peritectoid: (Cr) + γ-H -> γ-L | (Cr): Cr 0.5408; γ-H: Cr 0.4067; γ-L: Cr 0.4103 | model | [5] Hu 2013 | Table 5, p. 6, row 14; `ORC-LEWN4VFSF6` |  |
-| 1416 | peritectoid: A2 + βCr5Al8 ⇄ αCr5Al8 | A2: Cr 0.541; βCr5Al8: Cr 0.407; αCr5Al8: Cr 0.41 | model | [1] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 11; `ORC-2WDHKNFX2Z` |  |
-| 1413.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017 | Table 1, p. 3, row 45; `ORC-3ISTU4VCT7` |  |
-| 1413.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 43; `ORC-3QX62MP47I` |  |
-| 1413.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 1, p. 3, row 42; `ORC-KWQNNYVMQU` |  |
-| 1413.15 | peritectoid: (Cr) + γ-H -> γ-L | γ-H: Cr 0.4194; γ-L: Cr 0.42 | experimental | [5] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 13; `ORC-Z34NHOXIZ6` |  |
-| 1413 | peritectoid: A2 + βCr5Al8 ⇄ αCr5Al8 | βCr5Al8: Cr 0.42; αCr5Al8: Cr 0.42 | experimental | [1] Witusiewicz 2015; _cites Okamoto 2008_ [doi](https://doi.org/10.1007/s11669-007-9225-4) | Table 3, p. 8, row 7; `ORC-4LVE4FMUKC` |  |
-| 1413 | peritectoid: A2 + βCr5Al8 ⇄ αCr5Al8 | A2: Cr 0.558; βCr5Al8: Cr 0.419; αCr5Al8: Cr 0.42 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 9; `ORC-AEXL5BYQC2` |  |
-| 1413 | βAl8Cr5 + bcc(Cr) -> αAl8Cr5b | βAl8Cr5: Cr 0.41; bcc(Cr): Cr 0.56; αAl8Cr5: Cr 0.42 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 16; `ORC-CYKUIJVEIN` |  |
-| 1413 | βAl8Cr5 + bcc(Cr) -> αAl8Cr5b | βAl8Cr5: Cr 0.4186; bcc(Cr): Cr 0.5578; αAl8Cr5: Cr 0.4203 | model | [6] Liang 2008 | Table 2, p. 5, row 15; `ORC-DFSLMJIDIE` |  |
-| 1412 | peritectoid: A2 + βCr5Al8 ⇄ αCr5Al8 | A2: Cr 0.553; βCr5Al8: Cr 0.411; αCr5Al8: Cr 0.42 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 10; `ORC-23OF4S3UOH` |  |
-| 1411.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 1, p. 3, row 44; `ORC-43DASOHCRU` |  |
-| 1411 | A2 + βCr5Al8 ⇄ γCr5Al8 | A2: Cr 0.569; βCr5Al8: Cr 0.408; γCr5Al8: Cr 0.409 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 12; `ORC-FBA54BNVTO` |  |
-| 1411 | peritectoid: A2 + βCr5Al8 ⇄ αCr5Al8 | βCr5Al8: Al 0.615385, Cr 0.384615 | experimental | [1] Witusiewicz 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 3, p. 8, row 8; `ORC-SJILVGC5OL` |  |
-| 1398.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 40; `ORC-PWNOPZ7KZ2` |  |
-| 1398 | polymorphic: Al8Cr5-H -> Al8Cr5-L | Al8Cr5-H: Cr 0.385; Al8Cr5-L: Cr 0.385 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 8; `ORC-EJQYC5DAAY` |  |
-| 1388.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 41; `ORC-DZM5Q6YXD3` |  |
-| 1373 | peritectoid: A2 + γCr5Al8 ⇄ α Cr5Al | γCr5Al8: Al 0.615385, Cr 0.384615 | experimental | [1] Witusiewicz 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 3, p. 8, row 15; `ORC-QOIYTGNIDO` |  |
-| 1373 | peritectoid: A2 + γCr5Al8 ⇄ α Cr5Al | A2: Cr 0.576; γCr5Al8: Cr 0.41; α Cr5Al: Cr 0.412 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 16; `ORC-YAAT6HWAUY` |  |
-| 1372 | peritectoid: A2 + γCr5Al8 ⇄ α Cr5Al | γCr5Al8: Al 0.615385, Cr 0.384615 | experimental | [1] Witusiewicz 2015; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 3, p. 8, row 13; `ORC-7ZZA3TUBZO` |  |
-| 1364 | peritectoid: A2 + γCr5Al8 ⇄ α Cr5Al | γCr5Al8: Al 0.615385, Cr 0.384615 | experimental | [1] Witusiewicz 2015; _cites Khvan 2013_ | Table 3, p. 8, row 14; `ORC-DNUT4JQAWG` |  |
-| 1336 | βCr5Al8 ⇄ L + γCr5Al8 | βCr5Al8: Cr 0.32; L: Cr 0.175; γCr5Al8: Cr 0.321 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 21; `ORC-4IVPHUK5EY` |  |
-| 1333.15 | metatectic/catatectic: γ\_H = Liquid + γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 31; `ORC-3YUXYFKWTY` |  |
-| 1333.15 | metatectic/catatectic: γ-H -> L + γ-L | γ-H: Cr 0.2981; L: Cr 0.149; γ-L: Cr 0.299 | experimental | [5] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 9; `ORC-D7NYETOYVG` |  |
-| 1333.15 | metatectic/catatectic: γ\_H = Liquid + γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017 | Table 1, p. 3, row 33; `ORC-DKWGLDF2CP` |  |
-| 1333.15 | metatectic/catatectic: γ\_H = Liquid + γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [2] Cui 2017; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 1, p. 3, row 32; `ORC-KWT25C5ZN7` |  |
-| 1333 | metatectic/catatectic: βCr5Al8 ⇄ L + αCr5Al8 | βCr5Al8: Cr 0.3; αCr5Al8: Cr 0.3 | experimental | [1] Witusiewicz 2015; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 3, p. 8, row 17; `ORC-4HTVBMA2OM` |  |
-| 1333 | metatectic/catatectic: βCr5Al8 ⇄ L + αCr5Al8 | βCr5Al8: Cr 0.279; L: Cr 0.158; αCr5Al8: Cr 0.312 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 18; `ORC-5DMZK444HN` |  |
-| 1333 | metatectic/catatectic: βCr5Al8 ⇄ L + αCr5Al8 | βCr5Al8: Cr 0.311; L: Cr 0.138; αCr5Al8: Cr 0.31 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 19; `ORC-5Q6IAQBMJ2` |  |
-| 1333 | βAl8Cr5 -> liq. + αAl8Cr5b | βAl8Cr5: Cr 0.2787; L: Cr 0.1576; αAl8Cr5: Cr 0.3116 | model | [6] Liang 2008 | Table 2, p. 5, row 13; `ORC-676W5FY6F3` |  |
-| 1333 | quasi-peritectic: βCr5Al8 + γCr5Al8 -> L + αCr5Al8 | βCr5Al8: Al 0.681, Cr 0.319; γCr5Al8: Al 0.68, Cr 0.32; L: Al 0.826, Cr 0.174; αCr5Al8: Al 0.674, Cr 0.326 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 9; `ORC-CJ7PAYZ5FL` |  |
-| 1333 | polymorphic: Al9Cr4-H -> Al9Cr4-L | Al9Cr4-H: Cr 0.158; Al9Cr4-L: Cr 0.158 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 5; `ORC-HXMYTLVT6S` |  |
-| 1333 | βAl8Cr5 -> liq. + αAl8Cr5b | βAl8Cr5: Cr 0.29; L: Cr 0.17; αAl8Cr5: Cr 0.3 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 14; `ORC-W4EH7K5W7F` |  |
-| 1332.7 | metatectic/catatectic: γCr5Al8 ⇄ L + αCr5Al8 | γCr5Al8: Cr 0.32; L: Cr 0.173; αCr5Al8: Cr 0.326 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 22; `ORC-HUSFIJMJQC` |  |
-| 1330.15 | metatectic/catatectic: γ-H -> L + γ-L | γ-H: Cr 0.3015; L: Cr 0.1415; γ-L: Cr 0.3047 | model | [5] Hu 2013 | Table 5, p. 6, row 10; `ORC-TMBCU4N66G` |  |
-| 1330 | metatectic/catatectic: βCr5Al8 ⇄ L + αCr5Al8 | βCr5Al8: Cr 0.302; L: Cr 0.142; αCr5Al8: Cr 0.305 | model | [1] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 20; `ORC-LFDUX3ACDO` |  |
-| 1313.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 1, p. 3, row 27; `ORC-ET43NXVPK3` |  |
-| 1313 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.136; CrAl4: Al 0.8, Cr 0.2 | experimental | [1] Witusiewicz 2015; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 3, p. 8, row 24; `ORC-EVGBSWFLB2` |  |
-| 1313 | liq. + αAl8Cr5 -> Al4Crb | L: Cr 0.1454; αAl8Cr5: Cr 0.2937; Al4Cr: Cr 0.1991 | model | [6] Liang 2008 | Table 2, p. 5, row 11; `ORC-F5QBVHD42U` |  |
-| 1313 | liq. + αAl8Cr5 -> Al4Crb | L: Cr 0.14; αAl8Cr5: Cr 0.3; Al4Cr: Cr 0.2 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 12; `ORC-M6YZFVXIWU` |  |
-| 1313 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.145; αCr5Al8: Cr 0.293; CrAl4: Cr 0.199 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 25; `ORC-W2UEPP4AG2` |  |
-| 1310.15 | peritectic: L + γ-L -> Al4Cr | L: Cr 0.1388; γ-L: Cr 0.2981; Al4Cr: Cr 0.2226 | experimental | [5] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 7; `ORC-3GJCFIOPOS` |  |
-| 1310.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 25; `ORC-N2XLGDX27N` |  |
-| 1310.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017; _cites Mahdouk 2001_ | Table 1, p. 3, row 26; `ORC-PWGY2MKU7F` |  |
-| 1308.15 | peritectic: L + γ-L -> Al4Cr | L: Cr 0.1306; γ-L: Cr 0.3002; Al4Cr: Cr 0.2158 | model | [5] Hu 2013 | Table 5, p. 6, row 8; `ORC-N6PLMI3ZQD` |  |
-| 1308.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 24; `ORC-T534SI77WY` |  |
-| 1308 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.131; αCr5Al8: Cr 0.3; CrAl4: Cr 0.216 | model | [1] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 27; `ORC-TQYZEJS3WO` |  |
-| 1307 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.13; αCr5Al8: Cr 0.304; CrAl4: Cr 0.198 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 26; `ORC-34IWP63YCP` |  |
-| 1306 | quasi-peritectic: L + βCr5Al8 -> αCr5Al8 + CrAl4 | L: Al 0.837, Cr 0.161; βCr5Al8: Al 0.688, Cr 0.307; αCr5Al8: Al 0.679, Cr 0.319; CrAl4: Al 0.803, Cr 0.192 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 11; `ORC-Y2AP546JMC` |  |
-| 1303.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 23; `ORC-62JQFHGSF6` |  |
-| 1303.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017 | Table 1, p. 3, row 28; `ORC-OUEUQSJWKU` |  |
-| 1303.15 | peritectic: Liquid + g_L -> Al4Cr |  | model | [2] Cui 2017 | p. 14; `ORC-SC44QADR63.c38063` | “The Al4Cr phase forms via a peritectic reaction from the Liquid and g_L phases at €ster et al. \[16\]. Similarly, 1030 C which agrees with the results by Ko the Al11Cr2 and Al7Cr phases have peritectic reactions calculated at 904 C and 799 C, respectively.” |
-| 1303 | peritectic: L + αCr5Al8 ⇄ CrAl4 | CrAl4: Al 0.8, Cr 0.2 | experimental | [1] Witusiewicz 2015; _cites Koster 1963_ | Table 3, p. 8, row 23; `ORC-3I7LCDJUY7` |  |
-| 1303 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.16; αCr5Al8: Cr 0.32; CrAl4: Cr 0.196 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 28; `ORC-YAZL3N25SX` |  |
-| 1298.1 | peritectic: Liquid + Al9Cr4-L -> Al4Cr | L: Cr 0.137; Al9Cr4-L: Cr 0.308; Al4Cr: Cr 0.2 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 4; `ORC-H6XF3ZSSMY` |  |
-| 1284.15 | peritectic: Liquid + Al4Cr = Al11Cr2 | Al4Cr: Al 0.8, Cr 0.2; Al11Cr2: Al 0.846154, Cr 0.153846 | experimental | [2] Cui 2017; _cites Goto 1927_ | Table 1, p. 3, row 16; `ORC-IQSWZ5GAAU` |  |
-| 1217.15 | peritectic: Liquid + Al4Cr = Al11Cr2 | Al4Cr: Al 0.8, Cr 0.2; Al11Cr2: Al 0.846154, Cr 0.153846 | experimental | [2] Cui 2017; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 1, p. 3, row 19; `ORC-E5NGXLNZXB` |  |
-| 1214.6 | peritectic: Liquid + Al4Cr -> Al11Cr2 | L: Cr 0.066; Al4Cr: Cr 0.2; Al11Cr2: Cr 0.154 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 3; `ORC-YNRZPZNBD3` |  |
-| 1214 | peritectic: L + CrAl4 ⇄ Cr2Al11 | L: Cr 0.085; CrAl4: Cr 0.186; Cr2Al11: Cr 0.14 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 34; `ORC-CXJQZL5WI4` |  |
-| 1213.15 | peritectic: Liquid + Al4Cr = Al11Cr2 | Al4Cr: Al 0.8, Cr 0.2; Al11Cr2: Al 0.846154, Cr 0.153846 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 17; `ORC-Z3UMOSMQRV` |  |
-| 1213 | peritectic: L + CrAl4 ⇄ Cr2Al11 | CrAl4: Al 0.8, Cr 0.2; Cr2Al11: Al 0.846154, Cr 0.153846 | experimental | [1] Witusiewicz 2015; _cites Murray 1998_ [doi](https://doi.org/10.1361/105497198770342102) | Table 3, p. 8, row 29; `ORC-Z735GOBQXV` |  |
-| 1207 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.682; Cr2Al: Cr 0.682 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 38; `ORC-4DSBINTRX2` |  |
-| 1204 | peritectic: L + CrAl4 ⇄ Cr2Al11 | L: Cr 0.057; CrAl4: Cr 0.194; Cr2Al11: Cr 0.148 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 32; `ORC-S4VSAYWKZW` |  |
-| 1198 | peritectoid: A2 + αCr5Al8 -> B2 | A2: Cr 0.61; αCr5Al8: Al 0.615385, Cr 0.384615; B2: Cr 0.61 | experimental | [1] Witusiewicz 2015; _cites Helander 1999_ [doi](https://doi.org/10.1361/105497199770335947) | Table 3, p. 9, row 3; `ORC-3OREQCHLM2` |  |
-| 1195 | peritectoid: A2 + αCr5Al8 -> B2 | A2: Cr 0.615; αCr5Al8: Cr 0.415; B2: Cr 0.615 | model | [1] Witusiewicz 2015 | Table 3, p. 9, row 4; `ORC-6JT6RHPHK4` |  |
-| 1186.15 | congruent transformation: bcc_A2 = AlCr2 | bcc_A2: Al 0.333333, Cr 0.666667; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017 | Table 1, p. 3, row 53; `ORC-YJCCNBFQM4` |  |
-| 1183.15 | congruent transformation: (Cr) -> AlCr2 | (Cr): Cr 0.6667; AlCr2: Cr 0.6667 | experimental | [5] Hu 2013; _cites Koster 1963_ | Table 5, p. 6, row 17; `ORC-FBMZTWVQCW` |  |
-| 1183.15 | congruent transformation: bcc_A2 = AlCr2 | bcc_A2: Al 0.333333, Cr 0.666667; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 52; `ORC-WYI6K4TFSS` |  |
-| 1183 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.681; Cr2Al: Cr 0.681 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 37; `ORC-A4KASOXPCL` |  |
-| 1183 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.667; Cr2Al: Cr 0.667 | experimental | [1] Witusiewicz 2015; _cites Okamoto 2008_ [doi](https://doi.org/10.1007/s11669-007-9225-4) | Table 3, p. 8, row 35; `ORC-V74F2UPDAY` |  |
-| 1181 | congruent transformation: AlCr2 -> bcc-A2 | AlCr2: Cr 0.667; bcc-A2: Cr 0.667 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 10; `ORC-JD6UEH2PBK` |  |
-| 1179.15 | congruent transformation: (Cr) -> AlCr2 | (Cr): Cr 0.6641; AlCr2: Cr 0.6641 | model | [5] Hu 2013 | Table 5, p. 6, row 18; `ORC-CMVW635GRR` |  |
-| 1179.15 | peritectic: Liquid + Al4Cr = Al11Cr2 | Al4Cr: Al 0.8, Cr 0.2; Al11Cr2: Al 0.846154, Cr 0.153846 | experimental | [2] Cui 2017; _cites Mahdouk 2001_ | Table 1, p. 3, row 18; `ORC-N4ZMEC63SW` |  |
-| 1179 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.664; Cr2Al: Cr 0.664 | model | [1] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 39; `ORC-IMXC5APUBT` |  |
-| 1177.15 | peritectic: Liquid + Al4Cr = Al11Cr2 | Al4Cr: Al 0.8, Cr 0.2; Al11Cr2: Al 0.846154, Cr 0.153846 | experimental | [2] Cui 2017 | Table 1, p. 3, row 20; `ORC-CPBF5DP5XX` |  |
-| 1177.15 | peritectic |  | model | [2] Cui 2017 | p. 14; `ORC-SC44QADR63.3187d0` | “The Al4Cr phase forms via a peritectic reaction from the Liquid and g_L phases at €ster et al. \[16\]. Similarly, 1030 C which agrees with the results by Ko the Al11Cr2 and Al7Cr phases have peritectic reactions calculated at 904 C and 799 C, respectively.” |
-| 1176.15 | peritectic: L + Al4Cr -> Al5Cr | L: Cr 0.05; Al4Cr: Cr 0.185; Al5Cr: Cr 0.154 | experimental | [5] Hu 2013; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 5, p. 6, row 5; `ORC-RJ45A75VAH` |  |
-| 1176 | peritectic: L + CrAl4 ⇄ Cr2Al11 | L: Cr 0.05; CrAl4: Cr 0.185; Cr2Al11: Cr 0.154 | experimental | [1] Witusiewicz 2015; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 3, p. 8, row 30; `ORC-U5Z5QFEP7X` |  |
-| 1175.15 | peritectic: L + Al4Cr -> Al5Cr | L: Cr 0.0531; Al4Cr: Cr 0.2079; Al5Cr: Cr 0.1667 | model | [5] Hu 2013 | Table 5, p. 6, row 6; `ORC-AOVZPQRDQI` |  |
-| 1175 | peritectic: L + CrAl4 ⇄ Cr2Al11 | L: Cr 0.053; CrAl4: Cr 0.208; Cr2Al11: Cr 0.167 | model | [1] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 33; `ORC-33HQ2PJAOZ` |  |
-| 1173 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.669; Cr2Al: Cr 0.669 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 40; `ORC-ZMDJD67ED4` |  |
-| 1168 | liq. + Al4Cr -> Al11Cr2 | L: Cr 0.05; Al4Cr: Cr 0.185; Al11Cr2: Cr 0.154 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 10; `ORC-3M4BLKMHI7` |  |
-| 1168 | peritectic: L + CrAl4 ⇄ Cr2Al11 | L: Cr 0.047; CrAl4: Cr 0.193; Cr2Al11: Cr 0.145 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 31; `ORC-JKACIBPR65` |  |
-| 1168 | eutectoid: A2 -> B2 + Cr2Al | A2: Cr 0.64; B2: Cr 0.64; Cr2Al: Al 0.333333, Cr 0.666667 | experimental | [1] Witusiewicz 2015; _cites Helander 1999_ [doi](https://doi.org/10.1361/105497199770335947) | Table 3, p. 9, row 5; `ORC-LFM3MPKZ5E` |  |
-| 1168 | liq. + Al4Cr -> Al11Cr2 | L: Cr 0.0465; Al4Cr: Cr 0.1933; Al11Cr2: Cr 0.1452 | model | [6] Liang 2008 | Table 2, p. 5, row 9; `ORC-SLVBK2KF7R` |  |
-| 1163 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.667; Cr2Al: Cr 0.667 | experimental | [1] Witusiewicz 2015; _cites Semukhin 1988_ | Table 3, p. 8, row 36; `ORC-EO25W6KIPN` |  |
-| 1161 | eutectoid: A2 -> B2 + Cr2Al | A2: Cr 0.638; B2: Cr 0.638; Cr2Al: Cr 0.652 | model | [1] Witusiewicz 2015 | Table 3, p. 9, row 6; `ORC-CG4VD5G7JB` |  |
-| 1155.15 | eutectoid: (Cr) -> γ-L + AlCr2 | γ-L: Cr 0.42; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [5] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 15; `ORC-ISZCGCQAJ6` |  |
-| 1155.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 1, p. 3, row 48; `ORC-QVDKHDGI3N` |  |
-| 1155.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 49; `ORC-YLSMRHQH5U` |  |
-| 1155 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | αCr5Al: Cr 0.42; Cr2Al: Al 0.333333, Cr 0.666667 | experimental | [1] Witusiewicz 2015; _cites Okamoto 2008_ [doi](https://doi.org/10.1007/s11669-007-9225-4) | Table 3, p. 8, row 41; `ORC-6M27JMWXVB` |  |
-| 1155 | bcc(Cr) -> αAl8Cr5 + AlCr2b | bcc(Cr): Cr 0.6291; αAl8Cr5: Cr 0.4327; AlCr2: Cr 0.6567 | model | [6] Liang 2008 | Table 2, p. 5, row 21; `ORC-KRSWPZWW5H` |  |
-| 1155 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | A2: Cr 0.629; αCr5Al: Cr 0.432; Cr2Al: Cr 0.657 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 43; `ORC-PWRH5X6EBK` |  |
-| 1155 | bcc(Cr) -> αAl8Cr5 + AlCr2b | bcc(Cr): Cr 0.61; αAl8Cr5: Cr 0.42; AlCr2: Cr 0.654 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 22; `ORC-ZAAMHI2M7Z` |  |
-| 1154 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | A2: Cr 0.61; αCr5Al: Cr 0.428; Cr2Al: Cr 0.648 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 44; `ORC-JM7BOIQKLJ` |  |
-| 1149.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 1, p. 3, row 50; `ORC-OPKHGD36RV` |  |
-| 1149 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | Cr2Al: Al 0.333333, Cr 0.666667 | experimental | [1] Witusiewicz 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 3, p. 8, row 42; `ORC-F2MALR2BSO` |  |
-| 1149 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | A2: Cr 0.624; αCr5Al: Cr 0.417; Cr2Al: Cr 0.644 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 46; `ORC-SXZURTZX54` |  |
-| 1147.15 | eutectoid: (Cr) -> γ-L + AlCr2 | (Cr): Cr 0.6172; γ-L: Cr 0.425; AlCr2: Cr 0.6401 | model | [5] Hu 2013 | Table 5, p. 6, row 16; `ORC-FNZA4PIYLJ` |  |
-| 1147 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | A2: Cr 0.617; αCr5Al: Cr 0.425; Cr2Al: Cr 0.64 | model | [1] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 45; `ORC-RDSGZQQLU3` |  |
-| 1145.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 47; `ORC-MSYSDNGN74` |  |
-| 1143.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 46; `ORC-G3GWI4NSEF` |  |
-| 1143.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017 | Table 1, p. 3, row 51; `ORC-XERAQEWEDL` |  |
-| 1139.3 | eutectoid: bcc-A2 -> Al8Cr5-L + AlCr2 | bcc-A2: Cr 0.633; Al8Cr5-L: Cr 0.385; AlCr2: Cr 0.667 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 9; `ORC-F2U5GLR34K` |  |
-| 1108.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 11; `ORC-5FREJXGOUG` |  |
-| 1108.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 1, p. 3, row 14; `ORC-WJBF5KG6MZ` |  |
-| 1108 | peritectic: L + Cr2Al11 ⇄ CrAl7 | L: Cr 0.031; Cr2Al11: Cr 0.127; CrAl7: Cr 0.124 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 51; `ORC-2MRBCVYCSO` |  |
-| 1108 | peritectic: L + Cr2Al11 ⇄ CrAl7 | Cr2Al11: Al 0.846154, Cr 0.153846; CrAl7: Al 0.875, Cr 0.125 | experimental | [1] Witusiewicz 2015; _cites Hori 1935_ | Table 3, p. 8, row 47; `ORC-AONVPXDAAU` |  |
-| 1102.15 | peritectoid: Al11Cr4 = Al4Cr + γ\_L | Al4Cr: Cr 0.2; γ\_L: Cr 0.384615 | experimental | [2] Cui 2017; _cites Wu 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.022) | Table 1, p. 4, row 1; `ORC-2VQLVLXEBJ` |  |
-| 1102.15 | peritectoid: Al11Cr4 = Al4Cr + γ\_L | Al4Cr: Cr 0.2; γ\_L: Cr 0.384615 | experimental | [2] Cui 2017 | Table 1, p. 4, row 2; `ORC-LYLFJMKVOY` |  |
-| 1102 | peritectoid: CrAl4 + αCr5Al8 ⇄ Cr4Al11 | CrAl4: Al 0.8, Cr 0.2; Cr4Al11: Cr 0.245 | experimental | [1] Witusiewicz 2015; _cites Wu 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.022) | Table 3, p. 8, row 53; `ORC-CQALLIDHTA` |  |
-| 1101 | peritectoid: CrAl4 + αCr5Al8 ⇄ Cr4Al11 | CrAl4: Cr 0.197; αCr5Al8: Cr 0.319; Cr4Al11: Cr 0.245 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 54; `ORC-45QAQBK3N2` |  |
-| 1089.15 | peritectic |  | model | [2] Cui 2017 | p. 18; `ORC-BZECLOYKK7` | “The predicted peritectic melting temperature of the T phase (T / L þ Al4Cr þ AlCr2) in the present study is 816 C.” |
-| 1076 | peritectic: L + Cr2Al11 ⇄ CrAl7 | L: Cr 0.017; Cr2Al11: Cr 0.149; CrAl7: Cr 0.123 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 49; `ORC-GCLQ5FGFH5` |  |
-| 1073 | peritectoid: CrAl4 + αCr5Al8 ⇄ Cr4Al11 | CrAl4: Al 0.8, Cr 0.2; Cr4Al11: Al 0.733333, Cr 0.266667 | experimental | [1] Witusiewicz 2015; _cites Grushko 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.10.046) | Table 3, p. 8, row 52; `ORC-6NS4ZMIQ6M` |  |
-| 1072.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Mahdouk 2001_ | Table 1, p. 3, row 13; `ORC-GHD5GMKLYF` |  |
-| 1072.15 | peritectic |  | model | [2] Cui 2017 | p. 2; `ORC-RS3MRJBJGX` | “The Al7Cr phase is stable from room temperature and melts incongruently to Liquid and Al11Cr2 at 790  C by K € oster et al. \[16\], 835  C by Costa Neto et al. \[40\] and Du et al. \[41\], 795  C by Chen \[44\], and 799  C by Mahdouk and Gachon \[24\].” |
-| 1072.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017 | Table 1, p. 3, row 15; `ORC-YHJSUVDH46` |  |
-| 1072 | liq. + Al11Cr2 -> Al7Cr | L: Cr 0.0193; Al11Cr2: Cr 0.1459; Al7Cr: Cr 0.1212 | model | [6] Liang 2008 | Table 2, p. 5, row 5; `ORC-A3NYXBEBPF` |  |
-| 1072 | liq. + Al11Cr2 -> Al7Cr | L: Cr 0.025; Al11Cr2: Cr 0.145; Al7Cr: Cr 0.125 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 6; `ORC-JMIUEOJCVH` |  |
-| 1068.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 12; `ORC-F5A3WW4HKU` |  |
-| 1068.15 | peritectic: L + Al5Cr -> Al45Cr7 | L: Cr 0.0155; Al5Cr: Cr 0.1667; Al45Cr7: Cr 0.1346 | experimental | [5] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 3; `ORC-TVZLNJ7WNL` |  |
-| 1063.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 10; `ORC-7MMQHBW3FB` |  |
-| 1059.15 | peritectic: L + Al5Cr -> Al45Cr7 | L: Cr 0.0146; Al5Cr: Cr 0.1667; Al45Cr7: Cr 0.1346 | model | [5] Hu 2013 | Table 5, p. 6, row 4; `ORC-64RQEYAH2X` |  |
-| 1059 | peritectic: L + Cr2Al11 ⇄ CrAl7 | L: Cr 0.015; Cr2Al11: Cr 0.167; CrAl7: Cr 0.135 | model | [1] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 50; `ORC-BECSYDZ3OM` |  |
-| 1058.15 | eutectoid: Al11Cr2 = Al7Cr + Al4Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017; _cites Mahdouk 2001_ | Table 1, p. 3, row 21; `ORC-IVCI3CSKRO` |  |
-| 1058 | eutectoid: Cr2Al11 ⇄ CrAl7 + CrAl4 | Cr2Al11: Al 0.846154, Cr 0.153846; CrAl7: Al 0.875, Cr 0.125; CrAl4: Al 0.8, Cr 0.2 | experimental | [1] Witusiewicz 2015; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 3, p. 8, row 55; `ORC-372IU36GMT` |  |
-| 1058 | Al11Cr2 -> Al7Cr + Al4Cr | Al11Cr2: Cr 0.1484; Al7Cr: Cr 0.1221; Al4Cr: Cr 0.1851 | model | [6] Liang 2008 | Table 2, p. 5, row 7; `ORC-7DC25T5OY6` |  |
-| 1058 | Al11Cr2 -> Al7Cr + Al4Cr | Al11Cr2: Cr 0.154; Al7Cr: Cr 0.125; Al4Cr: Cr 0.185 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 8; `ORC-EOQCQKWHFT` |  |
-| 1058 | peritectic: L + Cr2Al11 ⇄ CrAl7 | L: Cr 0.015; Cr2Al11: Cr 0.122; CrAl7: Cr 0.185 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 48; `ORC-I3OADLD34U` |  |
-| 1058 | eutectoid: Cr2Al11 ⇄ CrAl7 + CrAl4 | Cr2Al11: Cr 0.148; CrAl7: Cr 0.122; CrAl4: Cr 0.185 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 56; `ORC-JMVXXVMYL5` |  |
-| 1058 | eutectoid: Cr2Al11 ⇄ CrAl7 + CrAl4 | Cr2Al11: Cr 0.14; CrAl7: Cr 0.128; CrAl4: Cr 0.182 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 58; `ORC-UVB37CFVU6` |  |
-| 1056.15 | eutectoid: Al11Cr2 = Al7Cr + Al4Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017 | Table 1, p. 3, row 22; `ORC-WVFYQDL7ON` |  |
-| 1046 | eutectoid: Cr2Al11 ⇄ CrAl7 + CrAl4 | Cr2Al11: Cr 0.152; CrAl7: Cr 0.124; CrAl4: Cr 0.189 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 57; `ORC-JVMHAYEDNM` |  |
-| 1042.9 | peritectic: Liquid + Al11Cr2 -> Al13Cr2 | L: Cr 0.009; Al11Cr2: Cr 0.154; Al13Cr2: Cr 0.133 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 2; `ORC-3SA7ZY7I63` |  |
-| 998.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Goto 1927_ | Table 1, p. 3, row 9; `ORC-LOPNZGBDIN` |  |
-| 998.15 | peritectic |  | experimental | [3] Murray 1998; _cites Goto 1933_ | p. 2; `ORC-NKNED3AJR3` | “For example, the peritectic melting of AlvCr at 725 ~ \[27Got\] was contradicted by the extraction of AlvCr crystals from liquid equilibrated up to nearly 800 ~ \[33Fin\].” |
-| 939 | peritectic: L + CrAl7 + e ¡ (aAl) or U-type L + e ¡ (aAl) + CrAl7 |  | experimental | [1] Witusiewicz 2015 | p. 6; `ORC-R32AMLRQ5K.5bd632` | “The DTA melting temperature of 890 K in \[14\] is assigned to a eutectic reaction L ¡ (aAl) + CrAl7 + e, which is inconsistent with other experiments indicating a peritectic L + CrAl7 + e ¡ (aAl) or U-type L + e ¡ (aAl) + CrAl7 reaction around 939 K.” |
-| 935.15 | peritectic |  | model | [2] Cui 2017 | p. 14; `ORC-4VVVYEAMMD` | “The solubility of Cr increases as the temperature increase and reaches a maximum of 0.36 at.% Cr at the peritectic reaction temperature of 662 C.” |
-| 935.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017 | Table 1, p. 3, row 8; `ORC-KR7472I233` |  |
-| 935 | peritectic: L + CrAl7 ¡ (aAl) |  | model | [1] Witusiewicz 2015 | p. 9; `ORC-ACLHC54QUD` | “This agreement was achieved in the case of existence of the peritectic reaction L + CrAl7 ¡ (aAl) in the Al-Cr binary constitutive system at 935.0 K.” |
-| 935 | peritectic: L + CrAl7 ⇄ (αAl) | L: Cr 0.0017; CrAl7: Cr 0.121; (αAl): Cr 0.0039 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 65; `ORC-DNIOXIJRRE` |  |
-| 935 | peritectic: L + CrAl7 ¡ (aAl) |  | model | [1] Witusiewicz 2015 | p. 6; `ORC-XEFCT6VR4B` | “A further improvement is that the solubility of Cr in (aAl) solid solution is described accurately (Fig. 4c) and thus the nature and temperature of the invariant peritectic reaction L + CrAl7 ¡ (aAl) at 935.0 K agree with data of \[25,50,54\].” |
-| 934.8 | peritectic: Liquid + Al13Cr2 -> fcc-A1 | L: Cr 0.002; Al13Cr2: Cr 0.133; fcc-A1: Cr 0.003 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 1; `ORC-RCDZRGMJG7` |  |
-| 934.7 | peritectic: L + CrAl7 ⇄ (αAl) | L: Cr 0.002; CrAl7: Cr 0.132; (αAl): Cr 0.0035 | experimental | [1] Witusiewicz 2015; _cites Murray 1998_ [doi](https://doi.org/10.1361/105497198770342102) | Table 3, p. 8, row 63; `ORC-VLP7PDDF4Y` |  |
-| 934.65 | peritectic: liq. + Al7 Cr → fcc(Al) |  | model | [6] Liang 2008; _cites Murray 1998_ [doi](https://doi.org/10.1361/105497198770342102) | p. 4; `ORC-HVT4TQMV4A` | “In addition, the invariant reaction in the Al-rich was reported a peritectic reaction, liq. + Al7 Cr → fcc(Al) at 661.5 ◦ C in the reviewed Al-Cr system \[2\].” |
-| 934.55 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Zoller 1960_ | Table 1, p. 3, row 3; `ORC-NS75CO2G2D` |  |
-| 934.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 4; `ORC-V7BBUDCBFP` |  |
-| 934 | peritectic: L + CrAl7 ⇄ (αAl) | L: Cr 0.0017; CrAl7: Cr 0.111; (αAl): Cr 0.0031 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 64; `ORC-4YSAPUJPJ7` |  |
-| 934 | liq. + Al7Cr -> fcc(Al)a | L: Cr 0.0017; Al7Cr: Cr 0.111; fcc(Al): Cr 0.0031 | model | [6] Liang 2008 | Table 2, p. 5, row 3; `ORC-GV5L74ANBB` |  |
-| 934 | liq. + Al7Cr -> fcc(Al)a | L: Cr 0.002; Al7Cr: Cr 0.125; fcc(Al): Cr 0.0035 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 4; `ORC-K7DTYCCVRI` |  |
-| 933.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Fink 1933_ | Table 1, p. 3, row 2; `ORC-3O5IVEWECI` |  |
-| 933.15 | eutectic: L ↔ (Al) + Al45 Cr7 |  | model | [5] Hu 2013 | p. 9; `ORC-L4N3X6JRVE` | “The enlarged phase diagram at the Al-rich side along with experimental data \[18-20,23-25,27,28\] is presented in Fig. 4(b), which shows an enlarged eutectic reaction L ↔ (Al) + Al45 Cr7 at 660 ◦ C.” |
-| 933.15 | eutectic: L -> (Al) + Al45Cr7 | L: Cr 0.0014; (Al): Cr 9.000e-4; Al45Cr7: Cr 0.1346 | model | [5] Hu 2013 | Table 5, p. 6, row 2; `ORC-XP3Y5XFI3D` |  |
-| 933 | eutectic: L ⇄ CrAl7 + (αAl) | L: Cr 0.0013; CrAl7: Cr 0.118; (αAl): Cr 3.000e-4 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 62; `ORC-IYIKWDGB2F` |  |
-| 933 | eutectic: L ⇄ CrAl7 + (αAl) | L: Cr 0.0014; CrAl7: Cr 0.135; (αAl): Cr 9.000e-4 | model | [1] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 61; `ORC-KJVHOO66VJ` |  |
-| 932.9 | eutectic: L ⇄ CrAl7 + (αAl) | CrAl7: Cr 0.13; (αAl): Cr 0.0035 | experimental | [1] Witusiewicz 2015; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 3, p. 8, row 59; `ORC-HCQVOGH5AF` |  |
-| 932.85 | eutectic: L ↔ (Al) + Al45 Cr7 |  | experimental | [5] Hu 2013; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | p. 3; `ORC-2VYOK7BPDC` | “In the present work, the several factors including the purity of the starting materials, measurement methods and analysis of experimental results were taken into account, and the eutectic reaction L ↔ (Al) + Al45 Cr7 at 659.7 ◦ C reported by Du et al. \[32\] was adopted.” |
-| 932.85 | eutectic: L -> (Al) + Al45Cr7 | (Al): Cr 0.0035; Al45Cr7: Cr 0.1305 | experimental | [5] Hu 2013; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 5, p. 6, row 1; `ORC-725GD36RUH` |  |
-| 932.85 | eutectic: L ↔ (Al) + Al45 Cr7 |  | experimental | [5] Hu 2013; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | p. 9; `ORC-UBYMARG27Z` | “It is demonstrates that the presently calculated temperature of the eutectic reaction is in good agreement with experimental one 659.7 ◦ C reported by Du et al. \[32\].” |
-| 932.85 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 1, p. 3, row 7; `ORC-WD3UYWCS7A` |  |
-| 932 | liq. -> fcc(Al) + Al7Cr | L: Cr 0.0016; fcc(Al): Cr 3.000e-4; Al7Cr: Cr 0.1107 | model | [6] Liang 2008 | Table 2, p. 5, row 1; `ORC-5KCC3OGQYK` |  |
-| 932 | eutectic: L ⇄ CrAl7 + (αAl) | L: Cr 0.0016; CrAl7: Cr 0.111; (αAl): Cr 3.000e-4 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 60; `ORC-ZWSEWMSAO7` |  |
-| 930.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 5; `ORC-WP75NDOS4P` |  |
-| 929.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Mahdouk 2001_ | Table 1, p. 3, row 6; `ORC-L7IXMG3JGB` |  |
-| 929 | liq. -> fcc(Al) + Al7Cr | L: Cr 0.002; fcc(Al): Cr 0.001; Al7Cr: Cr 0.125 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 2; `ORC-B7YPGD45A2` |  |
-| 927.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Goto 1927_ | Table 1, p. 3, row 1; `ORC-2DQEBZKALI` |  |
-| 909 | peritectoid: A2 + Cr2Al -> A2am |  | experimental | [1] Witusiewicz 2015; _cites Koster 1963_ | Table 3, p. 9, row 7; `ORC-U6HV2E5235` |  |
-| 908 | peritectoid: A2 + Cr2Al -> A2am | A2: Cr 0.791; Cr2Al: Cr 0.727 | model | [1] Witusiewicz 2015 | Table 3, p. 9, row 8; `ORC-VYX2PU2M5D` |  |
-| 890 | eutectic: L ¡ (aAl) + CrAl7 + e |  | experimental | [1] Witusiewicz 2015; _cites Yu 2009_ | p. 6; `ORC-R32AMLRQ5K.fcf271` | “The DTA melting temperature of 890 K in \[14\] is assigned to a eutectic reaction L ¡ (aAl) + CrAl7 + e, which is inconsistent with other experiments indicating a peritectic L + CrAl7 + e ¡ (aAl) or U-type L + e ¡ (aAl) + CrAl7 reaction around 939 K.” |
-| 705 | peritectoid: A2am + Cr2Al -> Cr2Alam | Cr2Al: Cr 0.74 | experimental | [1] Witusiewicz 2015; _cites Koster 1963_ | Table 3, p. 9, row 9; `ORC-URBS2LHEO3` |  |
-| 702 | peritectoid: A2am + Cr2Al -> Cr2Alam | A2am: Cr 0.823; Cr2Al: Cr 0.739 | model | [1] Witusiewicz 2015 | Table 3, p. 9, row 10; `ORC-YDS3UCQFHG` |  |
-| 673 | peritectoid: Cr2Alam + A2am -> X | Cr2Alam: Cr 0.743; A2am: Cr 0.828; X: Cr 0.785 | model | [1] Witusiewicz 2015 | Table 3, p. 9, row 2; `ORC-7YXSO7DML4` |  |
-| 673 | peritectoid: Cr2Alam + A2am -> X | Cr2Alam: Cr 0.71; A2am: Cr 0.82; X: Cr 0.77 | experimental | [1] Witusiewicz 2015; _cites F 1981_ | Table 3, p. 9, row 1; `ORC-MLNHTQDQLJ` |  |
-| 627 | eutectoid: Cr2Al -> αCr5Al8 + Cr2Alam | Cr2Al: Cr 0.64; αCr5Al8: Al 0.615385, Cr 0.384615 | experimental | [1] Witusiewicz 2015; _cites Koster 1963_ | Table 3, p. 9, row 11; `ORC-UM4PYKCTNI` |  |
-| 625 | eutectoid: Cr2Al -> αCr5Al8 + Cr2Alam | Cr2Al: Cr 0.646; αCr5Al8: Cr 0.407 | model | [1] Witusiewicz 2015 | Table 3, p. 9, row 12; `ORC-SWJ4RNUSE4` |  |
+| 1623.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 34; `ORC-67G3ACFPSS` |  |
+| 1597 | eutectic: Liquid -> Al8Cr5-H + bcc-A2 | L: Cr 0.385; Al8Cr5-H: Cr 0.383; bcc-A2: Cr 0.558 | model | [2] (ed.) 1998 | Table I, p. 42, row 7; `ORC-C26BRWG3ES` |  |
+| 1594.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 1, p. 3, row 38; `ORC-RQONGGMLFQ` |  |
+| 1594 | peritectic: L + A2 ⇄ αCr5Al8 | L: Cr 0.402; A2: Cr 0.536; αCr5Al8: Cr 0.406 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 6; `ORC-EMA5PXHBQM` |  |
+| 1594 | peritectic: L + A2 ⇄ αCr5Al8 |  | experimental | [3] Witusiewicz 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 3, p. 8, row 2; `ORC-MPNKK5GIKT` |  |
+| 1593.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 37; `ORC-BWXWGSOS3W` |  |
+| 1593.15 | other: L + (Cr) -> γ-H | L: Cr 0.3958; γ-H: Cr 0.4186 | experimental | [4] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 11; `ORC-DR5M2KNRA4` |  |
+| 1593.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017 | Table 1, p. 3, row 39; `ORC-J5G4SA4ITP` |  |
+| 1593.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 1, p. 3, row 36; `ORC-Z2CBRMYNJU` |  |
+| 1593 | liq. + bcc(Cr) -> βAl8Cr5b | L: Cr 0.3792; bcc(Cr): Cr 0.5205; βAl8Cr5: Cr 0.4064 | model | [5] Liang 2008 | Table 2, p. 5, row 17; `ORC-2ZTN3AO2HN` |  |
+| 1593 | peritectic: L + A2 ⇄ αCr5Al8 | L: Cr 0.39; αCr5Al8: Cr 0.412 | experimental | [3] Witusiewicz 2015; _cites Okamoto 2008_ [doi](https://doi.org/10.1007/s11669-007-9225-4) | Table 3, p. 8, row 1; `ORC-4CK5RFH4EE` |  |
+| 1593 | liq. + bcc(Cr) -> βAl8Cr5b | L: Cr 0.39; bcc(Cr): Cr 0.54; βAl8Cr5: Cr 0.412 | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 18; `ORC-GU43CCD5CI` |  |
+| 1593 | peritectic: L + A2 ⇄ αCr5Al8 | L: Cr 0.379; A2: Cr 0.521; αCr5Al8: Cr 0.406 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 3; `ORC-HQVFQ5DDVM` |  |
+| 1589 | peritectic: L + A2 ⇄ αCr5Al8 | L: Cr 0.373; A2: Cr 0.513; αCr5Al8: Cr 0.402 | model | [3] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 4; `ORC-KWD5MUCOMC` |  |
+| 1588.15 | peritectic: Liquid + bcc_A2 = γ\_H | γ\_H: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 35; `ORC-WRTT4TSQQQ` |  |
+| 1584.15 | other: L + (Cr) -> γ-H | L: Cr 0.382; (Cr): Cr 0.4904; γ-H: Cr 0.3971 | model | [4] Hu 2013 | Table 5, p. 6, row 12; `ORC-JZMPZ6MPYS` |  |
+| 1584 | peritectic: L + A2 ⇄ αCr5Al8 | L: Cr 0.382; A2: Cr 0.49; αCr5Al8: Cr 0.397 | model | [3] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 5; `ORC-Y4RBUYWILA` |  |
+| 1443.15 | metatectic/catatectic: γ\_H = Liquid + γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 29; `ORC-YMWXUTD22K` |  |
+| 1443.1 | peritectic: Liquid + Al8Cr5-H -> Al9Cr4-H | L: Cr 0.225; Al8Cr5-H: Cr 0.385; Al9Cr4-H: Cr 0.307 | model | [2] (ed.) 1998 | Table I, p. 42, row 6; `ORC-VFNATKVIJP` |  |
+| 1437.15 | metatectic/catatectic: γ\_H = Liquid + γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 30; `ORC-IMNUVYC46P` |  |
+| 1416.15 | peritectoid: (Cr) + γ-H -> γ-L | (Cr): Cr 0.5408; γ-H: Cr 0.4067; γ-L: Cr 0.4103 | model | [4] Hu 2013 | Table 5, p. 6, row 14; `ORC-LEWN4VFSF6` |  |
+| 1416 | peritectoid: A2 + βCr5Al8 ⇄ αCr5Al8 | A2: Cr 0.541; βCr5Al8: Cr 0.407; αCr5Al8: Cr 0.41 | model | [3] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 11; `ORC-2WDHKNFX2Z` |  |
+| 1413.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017 | Table 1, p. 3, row 45; `ORC-3ISTU4VCT7` |  |
+| 1413.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 43; `ORC-3QX62MP47I` |  |
+| 1413.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 1, p. 3, row 42; `ORC-KWQNNYVMQU` |  |
+| 1413.15 | peritectoid: (Cr) + γ-H -> γ-L | γ-H: Cr 0.4194; γ-L: Cr 0.42 | experimental | [4] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 13; `ORC-Z34NHOXIZ6` |  |
+| 1413 | peritectoid: A2 + βCr5Al8 ⇄ αCr5Al8 | βCr5Al8: Cr 0.42; αCr5Al8: Cr 0.42 | experimental | [3] Witusiewicz 2015; _cites Okamoto 2008_ [doi](https://doi.org/10.1007/s11669-007-9225-4) | Table 3, p. 8, row 7; `ORC-4LVE4FMUKC` |  |
+| 1413 | peritectoid: A2 + βCr5Al8 ⇄ αCr5Al8 | A2: Cr 0.558; βCr5Al8: Cr 0.419; αCr5Al8: Cr 0.42 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 9; `ORC-AEXL5BYQC2` |  |
+| 1413 | βAl8Cr5 + bcc(Cr) -> αAl8Cr5b | βAl8Cr5: Cr 0.41; bcc(Cr): Cr 0.56; αAl8Cr5: Cr 0.42 | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 16; `ORC-CYKUIJVEIN` |  |
+| 1413 | βAl8Cr5 + bcc(Cr) -> αAl8Cr5b | βAl8Cr5: Cr 0.4186; bcc(Cr): Cr 0.5578; αAl8Cr5: Cr 0.4203 | model | [5] Liang 2008 | Table 2, p. 5, row 15; `ORC-DFSLMJIDIE` |  |
+| 1412 | peritectoid: A2 + βCr5Al8 ⇄ αCr5Al8 | A2: Cr 0.553; βCr5Al8: Cr 0.411; αCr5Al8: Cr 0.42 | model | [3] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 10; `ORC-23OF4S3UOH` |  |
+| 1411.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 1, p. 3, row 44; `ORC-43DASOHCRU` |  |
+| 1411 | A2 + βCr5Al8 ⇄ γCr5Al8 | A2: Cr 0.569; βCr5Al8: Cr 0.408; γCr5Al8: Cr 0.409 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 12; `ORC-FBA54BNVTO` |  |
+| 1411 | peritectoid: A2 + βCr5Al8 ⇄ αCr5Al8 | βCr5Al8: Al 0.615385, Cr 0.384615 | experimental | [3] Witusiewicz 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 3, p. 8, row 8; `ORC-SJILVGC5OL` |  |
+| 1398.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 40; `ORC-PWNOPZ7KZ2` |  |
+| 1398 | polymorphic: Al8Cr5-H -> Al8Cr5-L | Al8Cr5-H: Cr 0.385; Al8Cr5-L: Cr 0.385 | model | [2] (ed.) 1998 | Table I, p. 42, row 8; `ORC-EJQYC5DAAY` |  |
+| 1388.15 | peritectoid: bcc_A2 + γ\_H = γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 41; `ORC-DZM5Q6YXD3` |  |
+| 1373 | peritectoid: A2 + γCr5Al8 ⇄ α Cr5Al | γCr5Al8: Al 0.615385, Cr 0.384615 | experimental | [3] Witusiewicz 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 3, p. 8, row 15; `ORC-QOIYTGNIDO` |  |
+| 1373 | peritectoid: A2 + γCr5Al8 ⇄ α Cr5Al | A2: Cr 0.576; γCr5Al8: Cr 0.41; α Cr5Al: Cr 0.412 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 16; `ORC-YAAT6HWAUY` |  |
+| 1372 | peritectoid: A2 + γCr5Al8 ⇄ α Cr5Al | γCr5Al8: Al 0.615385, Cr 0.384615 | experimental | [3] Witusiewicz 2015; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 3, p. 8, row 13; `ORC-7ZZA3TUBZO` |  |
+| 1364 | peritectoid: A2 + γCr5Al8 ⇄ α Cr5Al | γCr5Al8: Al 0.615385, Cr 0.384615 | experimental | [3] Witusiewicz 2015; _cites Khvan 2013_ | Table 3, p. 8, row 14; `ORC-DNUT4JQAWG` |  |
+| 1336 | βCr5Al8 ⇄ L + γCr5Al8 | βCr5Al8: Cr 0.32; L: Cr 0.175; γCr5Al8: Cr 0.321 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 21; `ORC-4IVPHUK5EY` |  |
+| 1333.15 | metatectic/catatectic: γ\_H = Liquid + γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 31; `ORC-3YUXYFKWTY` |  |
+| 1333.15 | metatectic/catatectic: γ-H -> L + γ-L | γ-H: Cr 0.2981; L: Cr 0.149; γ-L: Cr 0.299 | experimental | [4] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 9; `ORC-D7NYETOYVG` |  |
+| 1333.15 | metatectic/catatectic: γ\_H = Liquid + γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017 | Table 1, p. 3, row 33; `ORC-DKWGLDF2CP` |  |
+| 1333.15 | metatectic/catatectic: γ\_H = Liquid + γ\_L | γ\_H: Al 0.615385, Cr 0.384615; γ\_L: Al 0.615385, Cr 0.384615 | experimental | [1] Cui 2017; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 1, p. 3, row 32; `ORC-KWT25C5ZN7` |  |
+| 1333 | metatectic/catatectic: βCr5Al8 ⇄ L + αCr5Al8 | βCr5Al8: Cr 0.3; αCr5Al8: Cr 0.3 | experimental | [3] Witusiewicz 2015; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 3, p. 8, row 17; `ORC-4HTVBMA2OM` |  |
+| 1333 | metatectic/catatectic: βCr5Al8 ⇄ L + αCr5Al8 | βCr5Al8: Cr 0.279; L: Cr 0.158; αCr5Al8: Cr 0.312 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 18; `ORC-5DMZK444HN` |  |
+| 1333 | metatectic/catatectic: βCr5Al8 ⇄ L + αCr5Al8 | βCr5Al8: Cr 0.311; L: Cr 0.138; αCr5Al8: Cr 0.31 | model | [3] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 19; `ORC-5Q6IAQBMJ2` |  |
+| 1333 | βAl8Cr5 -> liq. + αAl8Cr5b | βAl8Cr5: Cr 0.2787; L: Cr 0.1576; αAl8Cr5: Cr 0.3116 | model | [5] Liang 2008 | Table 2, p. 5, row 13; `ORC-676W5FY6F3` |  |
+| 1333 | quasi-peritectic: βCr5Al8 + γCr5Al8 -> L + αCr5Al8 | βCr5Al8: Al 0.681, Cr 0.319; γCr5Al8: Al 0.68, Cr 0.32; L: Al 0.826, Cr 0.174; αCr5Al8: Al 0.674, Cr 0.326 | model | [3] Witusiewicz 2015 | Table 4, p. 13, row 9; `ORC-CJ7PAYZ5FL` |  |
+| 1333 | polymorphic: Al9Cr4-H -> Al9Cr4-L | Al9Cr4-H: Cr 0.158; Al9Cr4-L: Cr 0.158 | model | [2] (ed.) 1998 | Table I, p. 42, row 5; `ORC-HXMYTLVT6S` |  |
+| 1333 | βAl8Cr5 -> liq. + αAl8Cr5b | βAl8Cr5: Cr 0.29; L: Cr 0.17; αAl8Cr5: Cr 0.3 | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 14; `ORC-W4EH7K5W7F` |  |
+| 1332.7 | metatectic/catatectic: γCr5Al8 ⇄ L + αCr5Al8 | γCr5Al8: Cr 0.32; L: Cr 0.173; αCr5Al8: Cr 0.326 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 22; `ORC-HUSFIJMJQC` |  |
+| 1330.15 | metatectic/catatectic: γ-H -> L + γ-L | γ-H: Cr 0.3015; L: Cr 0.1415; γ-L: Cr 0.3047 | model | [4] Hu 2013 | Table 5, p. 6, row 10; `ORC-TMBCU4N66G` |  |
+| 1330 | metatectic/catatectic: βCr5Al8 ⇄ L + αCr5Al8 | βCr5Al8: Cr 0.302; L: Cr 0.142; αCr5Al8: Cr 0.305 | model | [3] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 20; `ORC-LFDUX3ACDO` |  |
+| 1313.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [1] Cui 2017; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 1, p. 3, row 27; `ORC-ET43NXVPK3` |  |
+| 1313 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.136; CrAl4: Al 0.8, Cr 0.2 | experimental | [3] Witusiewicz 2015; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 3, p. 8, row 24; `ORC-EVGBSWFLB2` |  |
+| 1313 | liq. + αAl8Cr5 -> Al4Crb | L: Cr 0.1454; αAl8Cr5: Cr 0.2937; Al4Cr: Cr 0.1991 | model | [5] Liang 2008 | Table 2, p. 5, row 11; `ORC-F5QBVHD42U` |  |
+| 1313 | liq. + αAl8Cr5 -> Al4Crb | L: Cr 0.14; αAl8Cr5: Cr 0.3; Al4Cr: Cr 0.2 | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 12; `ORC-M6YZFVXIWU` |  |
+| 1313 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.145; αCr5Al8: Cr 0.293; CrAl4: Cr 0.199 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 25; `ORC-W2UEPP4AG2` |  |
+| 1310.15 | peritectic: L + γ-L -> Al4Cr | L: Cr 0.1388; γ-L: Cr 0.2981; Al4Cr: Cr 0.2226 | experimental | [4] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 7; `ORC-3GJCFIOPOS` |  |
+| 1310.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [1] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 25; `ORC-N2XLGDX27N` |  |
+| 1310.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [1] Cui 2017; _cites Mahdouk 2001_ | Table 1, p. 3, row 26; `ORC-PWGY2MKU7F` |  |
+| 1308.15 | peritectic: L + γ-L -> Al4Cr | L: Cr 0.1306; γ-L: Cr 0.3002; Al4Cr: Cr 0.2158 | model | [4] Hu 2013 | Table 5, p. 6, row 8; `ORC-N6PLMI3ZQD` |  |
+| 1308.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [1] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 24; `ORC-T534SI77WY` |  |
+| 1308 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.131; αCr5Al8: Cr 0.3; CrAl4: Cr 0.216 | model | [3] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 27; `ORC-TQYZEJS3WO` |  |
+| 1307 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.13; αCr5Al8: Cr 0.304; CrAl4: Cr 0.198 | model | [3] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 26; `ORC-34IWP63YCP` |  |
+| 1306 | quasi-peritectic: L + βCr5Al8 -> αCr5Al8 + CrAl4 | L: Al 0.837, Cr 0.161; βCr5Al8: Al 0.688, Cr 0.307; αCr5Al8: Al 0.679, Cr 0.319; CrAl4: Al 0.803, Cr 0.192 | model | [3] Witusiewicz 2015 | Table 4, p. 13, row 11; `ORC-Y2AP546JMC` |  |
+| 1303.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [1] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 23; `ORC-62JQFHGSF6` |  |
+| 1303.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [1] Cui 2017 | Table 1, p. 3, row 28; `ORC-OUEUQSJWKU` |  |
+| 1303 | peritectic: L + αCr5Al8 ⇄ CrAl4 | CrAl4: Al 0.8, Cr 0.2 | experimental | [3] Witusiewicz 2015; _cites Koster 1963_ | Table 3, p. 8, row 23; `ORC-3I7LCDJUY7` |  |
+| 1303 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.16; αCr5Al8: Cr 0.32; CrAl4: Cr 0.196 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 28; `ORC-YAZL3N25SX` |  |
+| 1298.1 | peritectic: Liquid + Al9Cr4-L -> Al4Cr | L: Cr 0.137; Al9Cr4-L: Cr 0.308; Al4Cr: Cr 0.2 | model | [2] (ed.) 1998 | Table I, p. 42, row 4; `ORC-H6XF3ZSSMY` |  |
+| 1284.15 | peritectic: Liquid + Al4Cr = Al11Cr2 | Al4Cr: Al 0.8, Cr 0.2; Al11Cr2: Al 0.846154, Cr 0.153846 | experimental | [1] Cui 2017; _cites Goto 1927_ | Table 1, p. 3, row 16; `ORC-IQSWZ5GAAU` |  |
+| 1217.15 | peritectic: Liquid + Al4Cr = Al11Cr2 | Al4Cr: Al 0.8, Cr 0.2; Al11Cr2: Al 0.846154, Cr 0.153846 | experimental | [1] Cui 2017; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 1, p. 3, row 19; `ORC-E5NGXLNZXB` |  |
+| 1214.6 | peritectic: Liquid + Al4Cr -> Al11Cr2 | L: Cr 0.066; Al4Cr: Cr 0.2; Al11Cr2: Cr 0.154 | model | [2] (ed.) 1998 | Table I, p. 42, row 3; `ORC-YNRZPZNBD3` |  |
+| 1214 | peritectic: L + CrAl4 ⇄ Cr2Al11 | L: Cr 0.085; CrAl4: Cr 0.186; Cr2Al11: Cr 0.14 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 34; `ORC-CXJQZL5WI4` |  |
+| 1213.15 | peritectic: Liquid + Al4Cr = Al11Cr2 | Al4Cr: Al 0.8, Cr 0.2; Al11Cr2: Al 0.846154, Cr 0.153846 | experimental | [1] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 17; `ORC-Z3UMOSMQRV` |  |
+| 1213 | peritectic: L + CrAl4 ⇄ Cr2Al11 | CrAl4: Al 0.8, Cr 0.2; Cr2Al11: Al 0.846154, Cr 0.153846 | experimental | [3] Witusiewicz 2015; _cites Murray 1998_ [doi](https://doi.org/10.1361/105497198770342102) | Table 3, p. 8, row 29; `ORC-Z735GOBQXV` |  |
+| 1207 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.682; Cr2Al: Cr 0.682 | model | [3] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 38; `ORC-4DSBINTRX2` |  |
+| 1204 | peritectic: L + CrAl4 ⇄ Cr2Al11 | L: Cr 0.057; CrAl4: Cr 0.194; Cr2Al11: Cr 0.148 | model | [3] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 32; `ORC-S4VSAYWKZW` |  |
+| 1198 | peritectoid: A2 + αCr5Al8 -> B2 | A2: Cr 0.61; αCr5Al8: Al 0.615385, Cr 0.384615; B2: Cr 0.61 | experimental | [3] Witusiewicz 2015; _cites Helander 1999_ [doi](https://doi.org/10.1361/105497199770335947) | Table 3, p. 9, row 3; `ORC-3OREQCHLM2` |  |
+| 1195 | peritectoid: A2 + αCr5Al8 -> B2 | A2: Cr 0.615; αCr5Al8: Cr 0.415; B2: Cr 0.615 | model | [3] Witusiewicz 2015 | Table 3, p. 9, row 4; `ORC-6JT6RHPHK4` |  |
+| 1186.15 | congruent transformation: bcc_A2 = AlCr2 | bcc_A2: Al 0.333333, Cr 0.666667; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [1] Cui 2017 | Table 1, p. 3, row 53; `ORC-YJCCNBFQM4` |  |
+| 1183.15 | congruent transformation: (Cr) -> AlCr2 | (Cr): Cr 0.6667; AlCr2: Cr 0.6667 | experimental | [4] Hu 2013; _cites Koster 1963_ | Table 5, p. 6, row 17; `ORC-FBMZTWVQCW` |  |
+| 1183.15 | congruent transformation: bcc_A2 = AlCr2 | bcc_A2: Al 0.333333, Cr 0.666667; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [1] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 52; `ORC-WYI6K4TFSS` |  |
+| 1183 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.681; Cr2Al: Cr 0.681 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 37; `ORC-A4KASOXPCL` |  |
+| 1183 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.667; Cr2Al: Cr 0.667 | experimental | [3] Witusiewicz 2015; _cites Okamoto 2008_ [doi](https://doi.org/10.1007/s11669-007-9225-4) | Table 3, p. 8, row 35; `ORC-V74F2UPDAY` |  |
+| 1181 | congruent transformation: AlCr2 -> bcc-A2 | AlCr2: Cr 0.667; bcc-A2: Cr 0.667 | model | [2] (ed.) 1998 | Table I, p. 42, row 10; `ORC-JD6UEH2PBK` |  |
+| 1179.15 | congruent transformation: (Cr) -> AlCr2 | (Cr): Cr 0.6641; AlCr2: Cr 0.6641 | model | [4] Hu 2013 | Table 5, p. 6, row 18; `ORC-CMVW635GRR` |  |
+| 1179.15 | peritectic: Liquid + Al4Cr = Al11Cr2 | Al4Cr: Al 0.8, Cr 0.2; Al11Cr2: Al 0.846154, Cr 0.153846 | experimental | [1] Cui 2017; _cites Mahdouk 2001_ | Table 1, p. 3, row 18; `ORC-N4ZMEC63SW` |  |
+| 1179 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.664; Cr2Al: Cr 0.664 | model | [3] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 39; `ORC-IMXC5APUBT` |  |
+| 1177.15 | peritectic: Liquid + Al4Cr = Al11Cr2 | Al4Cr: Al 0.8, Cr 0.2; Al11Cr2: Al 0.846154, Cr 0.153846 | experimental | [1] Cui 2017 | Table 1, p. 3, row 20; `ORC-CPBF5DP5XX` |  |
+| 1176.15 | peritectic: L + Al4Cr -> Al5Cr | L: Cr 0.05; Al4Cr: Cr 0.185; Al5Cr: Cr 0.154 | experimental | [4] Hu 2013; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 5, p. 6, row 5; `ORC-RJ45A75VAH` |  |
+| 1176 | peritectic: L + CrAl4 ⇄ Cr2Al11 | L: Cr 0.05; CrAl4: Cr 0.185; Cr2Al11: Cr 0.154 | experimental | [3] Witusiewicz 2015; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 3, p. 8, row 30; `ORC-U5Z5QFEP7X` |  |
+| 1175.15 | peritectic: L + Al4Cr -> Al5Cr | L: Cr 0.0531; Al4Cr: Cr 0.2079; Al5Cr: Cr 0.1667 | model | [4] Hu 2013 | Table 5, p. 6, row 6; `ORC-AOVZPQRDQI` |  |
+| 1175 | peritectic: L + CrAl4 ⇄ Cr2Al11 | L: Cr 0.053; CrAl4: Cr 0.208; Cr2Al11: Cr 0.167 | model | [3] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 33; `ORC-33HQ2PJAOZ` |  |
+| 1173 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.669; Cr2Al: Cr 0.669 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 40; `ORC-ZMDJD67ED4` |  |
+| 1168 | liq. + Al4Cr -> Al11Cr2 | L: Cr 0.05; Al4Cr: Cr 0.185; Al11Cr2: Cr 0.154 | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 10; `ORC-3M4BLKMHI7` |  |
+| 1168 | peritectic: L + CrAl4 ⇄ Cr2Al11 | L: Cr 0.047; CrAl4: Cr 0.193; Cr2Al11: Cr 0.145 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 31; `ORC-JKACIBPR65` |  |
+| 1168 | eutectoid: A2 -> B2 + Cr2Al | A2: Cr 0.64; B2: Cr 0.64; Cr2Al: Al 0.333333, Cr 0.666667 | experimental | [3] Witusiewicz 2015; _cites Helander 1999_ [doi](https://doi.org/10.1361/105497199770335947) | Table 3, p. 9, row 5; `ORC-LFM3MPKZ5E` |  |
+| 1168 | liq. + Al4Cr -> Al11Cr2 | L: Cr 0.0465; Al4Cr: Cr 0.1933; Al11Cr2: Cr 0.1452 | model | [5] Liang 2008 | Table 2, p. 5, row 9; `ORC-SLVBK2KF7R` |  |
+| 1163 | congruent transformation: A2 ⇄ Cr2Al | A2: Cr 0.667; Cr2Al: Cr 0.667 | experimental | [3] Witusiewicz 2015; _cites Semukhin 1988_ | Table 3, p. 8, row 36; `ORC-EO25W6KIPN` |  |
+| 1161 | eutectoid: A2 -> B2 + Cr2Al | A2: Cr 0.638; B2: Cr 0.638; Cr2Al: Cr 0.652 | model | [3] Witusiewicz 2015 | Table 3, p. 9, row 6; `ORC-CG4VD5G7JB` |  |
+| 1155.15 | eutectoid: (Cr) -> γ-L + AlCr2 | γ-L: Cr 0.42; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [4] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 15; `ORC-ISZCGCQAJ6` |  |
+| 1155.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [1] Cui 2017; _cites Grushko 2005_ [doi](https://doi.org/10.1016/j.jallcom.2005.04.144) | Table 1, p. 3, row 48; `ORC-QVDKHDGI3N` |  |
+| 1155.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [1] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 49; `ORC-YLSMRHQH5U` |  |
+| 1155 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | αCr5Al: Cr 0.42; Cr2Al: Al 0.333333, Cr 0.666667 | experimental | [3] Witusiewicz 2015; _cites Okamoto 2008_ [doi](https://doi.org/10.1007/s11669-007-9225-4) | Table 3, p. 8, row 41; `ORC-6M27JMWXVB` |  |
+| 1155 | bcc(Cr) -> αAl8Cr5 + AlCr2b | bcc(Cr): Cr 0.6291; αAl8Cr5: Cr 0.4327; AlCr2: Cr 0.6567 | model | [5] Liang 2008 | Table 2, p. 5, row 21; `ORC-KRSWPZWW5H` |  |
+| 1155 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | A2: Cr 0.629; αCr5Al: Cr 0.432; Cr2Al: Cr 0.657 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 43; `ORC-PWRH5X6EBK` |  |
+| 1155 | bcc(Cr) -> αAl8Cr5 + AlCr2b | bcc(Cr): Cr 0.61; αAl8Cr5: Cr 0.42; AlCr2: Cr 0.654 | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 22; `ORC-ZAAMHI2M7Z` |  |
+| 1154 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | A2: Cr 0.61; αCr5Al: Cr 0.428; Cr2Al: Cr 0.648 | model | [3] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 44; `ORC-JM7BOIQKLJ` |  |
+| 1149.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [1] Cui 2017; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 1, p. 3, row 50; `ORC-OPKHGD36RV` |  |
+| 1149 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | Cr2Al: Al 0.333333, Cr 0.666667 | experimental | [3] Witusiewicz 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | Table 3, p. 8, row 42; `ORC-F2MALR2BSO` |  |
+| 1149 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | A2: Cr 0.624; αCr5Al: Cr 0.417; Cr2Al: Cr 0.644 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 46; `ORC-SXZURTZX54` |  |
+| 1147.15 | eutectoid: (Cr) -> γ-L + AlCr2 | (Cr): Cr 0.6172; γ-L: Cr 0.425; AlCr2: Cr 0.6401 | model | [4] Hu 2013 | Table 5, p. 6, row 16; `ORC-FNZA4PIYLJ` |  |
+| 1147 | eutectoid: A2 ⇄ αCr5Al + Cr2Al | A2: Cr 0.617; αCr5Al: Cr 0.425; Cr2Al: Cr 0.64 | model | [3] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 45; `ORC-RDSGZQQLU3` |  |
+| 1145.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [1] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 47; `ORC-MSYSDNGN74` |  |
+| 1143.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [1] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 46; `ORC-G3GWI4NSEF` |  |
+| 1143.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [1] Cui 2017 | Table 1, p. 3, row 51; `ORC-XERAQEWEDL` |  |
+| 1139.3 | eutectoid: bcc-A2 -> Al8Cr5-L + AlCr2 | bcc-A2: Cr 0.633; Al8Cr5-L: Cr 0.385; AlCr2: Cr 0.667 | model | [2] (ed.) 1998 | Table I, p. 42, row 9; `ORC-F2U5GLR34K` |  |
+| 1108.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 11; `ORC-5FREJXGOUG` |  |
+| 1108.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 1, p. 3, row 14; `ORC-WJBF5KG6MZ` |  |
+| 1108 | peritectic: L + Cr2Al11 ⇄ CrAl7 | L: Cr 0.031; Cr2Al11: Cr 0.127; CrAl7: Cr 0.124 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 51; `ORC-2MRBCVYCSO` |  |
+| 1108 | peritectic: L + Cr2Al11 ⇄ CrAl7 | Cr2Al11: Al 0.846154, Cr 0.153846; CrAl7: Al 0.875, Cr 0.125 | experimental | [3] Witusiewicz 2015; _cites Hori 1935_ | Table 3, p. 8, row 47; `ORC-AONVPXDAAU` |  |
+| 1102.15 | peritectoid: Al11Cr4 = Al4Cr + γ\_L | Al4Cr: Cr 0.2; γ\_L: Cr 0.384615 | experimental | [1] Cui 2017; _cites Wu 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.022) | Table 1, p. 4, row 1; `ORC-2VQLVLXEBJ` |  |
+| 1102.15 | peritectoid: Al11Cr4 = Al4Cr + γ\_L | Al4Cr: Cr 0.2; γ\_L: Cr 0.384615 | experimental | [1] Cui 2017 | Table 1, p. 4, row 2; `ORC-LYLFJMKVOY` |  |
+| 1102 | peritectoid: CrAl4 + αCr5Al8 ⇄ Cr4Al11 | CrAl4: Al 0.8, Cr 0.2; Cr4Al11: Cr 0.245 | experimental | [3] Witusiewicz 2015; _cites Wu 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.022) | Table 3, p. 8, row 53; `ORC-CQALLIDHTA` |  |
+| 1101 | peritectoid: CrAl4 + αCr5Al8 ⇄ Cr4Al11 | CrAl4: Cr 0.197; αCr5Al8: Cr 0.319; Cr4Al11: Cr 0.245 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 54; `ORC-45QAQBK3N2` |  |
+| 1076 | peritectic: L + Cr2Al11 ⇄ CrAl7 | L: Cr 0.017; Cr2Al11: Cr 0.149; CrAl7: Cr 0.123 | model | [3] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 49; `ORC-GCLQ5FGFH5` |  |
+| 1073 | peritectoid: CrAl4 + αCr5Al8 ⇄ Cr4Al11 | CrAl4: Al 0.8, Cr 0.2; Cr4Al11: Al 0.733333, Cr 0.266667 | experimental | [3] Witusiewicz 2015; _cites Grushko 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.10.046) | Table 3, p. 8, row 52; `ORC-6NS4ZMIQ6M` |  |
+| 1072.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Mahdouk 2001_ | Table 1, p. 3, row 13; `ORC-GHD5GMKLYF` |  |
+| 1072.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017 | Table 1, p. 3, row 15; `ORC-YHJSUVDH46` |  |
+| 1072 | liq. + Al11Cr2 -> Al7Cr | L: Cr 0.0193; Al11Cr2: Cr 0.1459; Al7Cr: Cr 0.1212 | model | [5] Liang 2008 | Table 2, p. 5, row 5; `ORC-A3NYXBEBPF` |  |
+| 1072 | liq. + Al11Cr2 -> Al7Cr | L: Cr 0.025; Al11Cr2: Cr 0.145; Al7Cr: Cr 0.125 | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 6; `ORC-JMIUEOJCVH` |  |
+| 1068.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Chen 2008_ | Table 1, p. 3, row 12; `ORC-F5A3WW4HKU` |  |
+| 1068.15 | peritectic: L + Al5Cr -> Al45Cr7 | L: Cr 0.0155; Al5Cr: Cr 0.1667; Al45Cr7: Cr 0.1346 | experimental | [4] Hu 2013; _cites Chen 2008_ | Table 5, p. 6, row 3; `ORC-TVZLNJ7WNL` |  |
+| 1063.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 10; `ORC-7MMQHBW3FB` |  |
+| 1059.15 | peritectic: L + Al5Cr -> Al45Cr7 | L: Cr 0.0146; Al5Cr: Cr 0.1667; Al45Cr7: Cr 0.1346 | model | [4] Hu 2013 | Table 5, p. 6, row 4; `ORC-64RQEYAH2X` |  |
+| 1059 | peritectic: L + Cr2Al11 ⇄ CrAl7 | L: Cr 0.015; Cr2Al11: Cr 0.167; CrAl7: Cr 0.135 | model | [3] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 50; `ORC-BECSYDZ3OM` |  |
+| 1058.15 | eutectoid: Al11Cr2 = Al7Cr + Al4Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125; Al4Cr: Al 0.8, Cr 0.2 | experimental | [1] Cui 2017; _cites Mahdouk 2001_ | Table 1, p. 3, row 21; `ORC-IVCI3CSKRO` |  |
+| 1058 | eutectoid: Cr2Al11 ⇄ CrAl7 + CrAl4 | Cr2Al11: Al 0.846154, Cr 0.153846; CrAl7: Al 0.875, Cr 0.125; CrAl4: Al 0.8, Cr 0.2 | experimental | [3] Witusiewicz 2015; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 3, p. 8, row 55; `ORC-372IU36GMT` |  |
+| 1058 | Al11Cr2 -> Al7Cr + Al4Cr | Al11Cr2: Cr 0.1484; Al7Cr: Cr 0.1221; Al4Cr: Cr 0.1851 | model | [5] Liang 2008 | Table 2, p. 5, row 7; `ORC-7DC25T5OY6` |  |
+| 1058 | Al11Cr2 -> Al7Cr + Al4Cr | Al11Cr2: Cr 0.154; Al7Cr: Cr 0.125; Al4Cr: Cr 0.185 | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 8; `ORC-EOQCQKWHFT` |  |
+| 1058 | peritectic: L + Cr2Al11 ⇄ CrAl7 | L: Cr 0.015; Cr2Al11: Cr 0.122; CrAl7: Cr 0.185 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 48; `ORC-I3OADLD34U` |  |
+| 1058 | eutectoid: Cr2Al11 ⇄ CrAl7 + CrAl4 | Cr2Al11: Cr 0.148; CrAl7: Cr 0.122; CrAl4: Cr 0.185 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 56; `ORC-JMVXXVMYL5` |  |
+| 1058 | eutectoid: Cr2Al11 ⇄ CrAl7 + CrAl4 | Cr2Al11: Cr 0.14; CrAl7: Cr 0.128; CrAl4: Cr 0.182 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 58; `ORC-UVB37CFVU6` |  |
+| 1056.15 | eutectoid: Al11Cr2 = Al7Cr + Al4Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125; Al4Cr: Al 0.8, Cr 0.2 | experimental | [1] Cui 2017 | Table 1, p. 3, row 22; `ORC-WVFYQDL7ON` |  |
+| 1046 | eutectoid: Cr2Al11 ⇄ CrAl7 + CrAl4 | Cr2Al11: Cr 0.152; CrAl7: Cr 0.124; CrAl4: Cr 0.189 | model | [3] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 57; `ORC-JVMHAYEDNM` |  |
+| 1042.9 | peritectic: Liquid + Al11Cr2 -> Al13Cr2 | L: Cr 0.009; Al11Cr2: Cr 0.154; Al13Cr2: Cr 0.133 | model | [2] (ed.) 1998 | Table I, p. 42, row 2; `ORC-3SA7ZY7I63` |  |
+| 998.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Goto 1927_ | Table 1, p. 3, row 9; `ORC-LOPNZGBDIN` |  |
+| 935.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017 | Table 1, p. 3, row 8; `ORC-KR7472I233` |  |
+| 935 | peritectic: L + CrAl7 ⇄ (αAl) | L: Cr 0.0017; CrAl7: Cr 0.121; (αAl): Cr 0.0039 | model | [3] Witusiewicz 2015 | Table 3, p. 8, row 65; `ORC-DNIOXIJRRE` |  |
+| 934.8 | peritectic: Liquid + Al13Cr2 -> fcc-A1 | L: Cr 0.002; Al13Cr2: Cr 0.133; fcc-A1: Cr 0.003 | model | [2] (ed.) 1998 | Table I, p. 42, row 1; `ORC-RCDZRGMJG7` |  |
+| 934.7 | peritectic: L + CrAl7 ⇄ (αAl) | L: Cr 0.002; CrAl7: Cr 0.132; (αAl): Cr 0.0035 | experimental | [3] Witusiewicz 2015; _cites Murray 1998_ [doi](https://doi.org/10.1361/105497198770342102) | Table 3, p. 8, row 63; `ORC-VLP7PDDF4Y` |  |
+| 934.65 | peritectic: liq. + Al7 Cr → fcc(Al) |  | model | [5] Liang 2008; _cites Murray 1998_ [doi](https://doi.org/10.1361/105497198770342102) | p. 4; `ORC-HVT4TQMV4A` | “In addition, the invariant reaction in the Al-rich was reported a peritectic reaction, liq. + Al7 Cr → fcc(Al) at 661.5 ◦ C in the reviewed Al-Cr system \[2\].” |
+| 934.55 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Zoller 1960_ | Table 1, p. 3, row 3; `ORC-NS75CO2G2D` |  |
+| 934.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 4; `ORC-V7BBUDCBFP` |  |
+| 934 | peritectic: L + CrAl7 ⇄ (αAl) | L: Cr 0.0017; CrAl7: Cr 0.111; (αAl): Cr 0.0031 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 64; `ORC-4YSAPUJPJ7` |  |
+| 934 | liq. + Al7Cr -> fcc(Al)a | L: Cr 0.0017; Al7Cr: Cr 0.111; fcc(Al): Cr 0.0031 | model | [5] Liang 2008 | Table 2, p. 5, row 3; `ORC-GV5L74ANBB` |  |
+| 934 | liq. + Al7Cr -> fcc(Al)a | L: Cr 0.002; Al7Cr: Cr 0.125; fcc(Al): Cr 0.0035 | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 4; `ORC-K7DTYCCVRI` |  |
+| 933.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Fink 1933_ | Table 1, p. 3, row 2; `ORC-3O5IVEWECI` |  |
+| 933.15 | eutectic: L ↔ (Al) + Al45 Cr7 |  | model | [4] Hu 2013 | p. 9; `ORC-L4N3X6JRVE` | “The enlarged phase diagram at the Al-rich side along with experimental data \[18-20,23-25,27,28\] is presented in Fig. 4(b), which shows an enlarged eutectic reaction L ↔ (Al) + Al45 Cr7 at 660 ◦ C.” |
+| 933.15 | eutectic: L -> (Al) + Al45Cr7 | L: Cr 0.0014; (Al): Cr 9.000e-4; Al45Cr7: Cr 0.1346 | model | [4] Hu 2013 | Table 5, p. 6, row 2; `ORC-XP3Y5XFI3D` |  |
+| 933 | eutectic: L ⇄ CrAl7 + (αAl) | L: Cr 0.0013; CrAl7: Cr 0.118; (αAl): Cr 3.000e-4 | model | [3] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 62; `ORC-IYIKWDGB2F` |  |
+| 933 | eutectic: L ⇄ CrAl7 + (αAl) | L: Cr 0.0014; CrAl7: Cr 0.135; (αAl): Cr 9.000e-4 | model | [3] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 61; `ORC-KJVHOO66VJ` |  |
+| 932.9 | eutectic: L ⇄ CrAl7 + (αAl) | CrAl7: Cr 0.13; (αAl): Cr 0.0035 | experimental | [3] Witusiewicz 2015; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 3, p. 8, row 59; `ORC-HCQVOGH5AF` |  |
+| 932.85 | eutectic: L ↔ (Al) + Al45 Cr7 |  | experimental | [4] Hu 2013; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | p. 3; `ORC-2VYOK7BPDC` | “In the present work, the several factors including the purity of the starting materials, measurement methods and analysis of experimental results were taken into account, and the eutectic reaction L ↔ (Al) + Al45 Cr7 at 659.7 ◦ C reported by Du et al. \[32\] was adopted.” |
+| 932.85 | eutectic: L -> (Al) + Al45Cr7 | (Al): Cr 0.0035; Al45Cr7: Cr 0.1305 | experimental | [4] Hu 2013; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 5, p. 6, row 1; `ORC-725GD36RUH` |  |
+| 932.85 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 1, p. 3, row 7; `ORC-WD3UYWCS7A` |  |
+| 932 | eutectic: liq. -> fcc(Al) + Al7Cr | L: Cr 0.0016; fcc(Al): Cr 3.000e-4; Al7Cr: Cr 0.1107 | model | [5] Liang 2008 | Table 2, p. 5, row 1; `ORC-5KCC3OGQYK` |  |
+| 932 | eutectic: L ⇄ CrAl7 + (αAl) | L: Cr 0.0016; CrAl7: Cr 0.111; (αAl): Cr 3.000e-4 | model | [3] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 60; `ORC-ZWSEWMSAO7` |  |
+| 930.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 5; `ORC-WP75NDOS4P` |  |
+| 929.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Mahdouk 2001_ | Table 1, p. 3, row 6; `ORC-L7IXMG3JGB` |  |
+| 929 | eutectic: liq. -> fcc(Al) + Al7Cr | L: Cr 0.002; fcc(Al): Cr 0.001; Al7Cr: Cr 0.125 | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 2; `ORC-B7YPGD45A2` |  |
+| 927.15 | eutectic: Liquid = Al7Cr + fcc_A1 | Al7Cr: Al 0.875, Cr 0.125 | experimental | [1] Cui 2017; _cites Goto 1927_ | Table 1, p. 3, row 1; `ORC-2DQEBZKALI` |  |
+| 909 | peritectoid: A2 + Cr2Al -> A2am |  | experimental | [3] Witusiewicz 2015; _cites Koster 1963_ | Table 3, p. 9, row 7; `ORC-U6HV2E5235` |  |
+| 908 | peritectoid: A2 + Cr2Al -> A2am | A2: Cr 0.791; Cr2Al: Cr 0.727 | model | [3] Witusiewicz 2015 | Table 3, p. 9, row 8; `ORC-VYX2PU2M5D` |  |
+| 705 | peritectoid: A2am + Cr2Al -> Cr2Alam | Cr2Al: Cr 0.74 | experimental | [3] Witusiewicz 2015; _cites Koster 1963_ | Table 3, p. 9, row 9; `ORC-URBS2LHEO3` |  |
+| 702 | peritectoid: A2am + Cr2Al -> Cr2Alam | A2am: Cr 0.823; Cr2Al: Cr 0.739 | model | [3] Witusiewicz 2015 | Table 3, p. 9, row 10; `ORC-YDS3UCQFHG` |  |
+| 673 | peritectoid: Cr2Alam + A2am -> X | Cr2Alam: Cr 0.743; A2am: Cr 0.828; X: Cr 0.785 | model | [3] Witusiewicz 2015 | Table 3, p. 9, row 2; `ORC-7YXSO7DML4` |  |
+| 673 | peritectoid: Cr2Alam + A2am -> X | Cr2Alam: Cr 0.71; A2am: Cr 0.82; X: Cr 0.77 | experimental | [3] Witusiewicz 2015; _cites F 1981_ | Table 3, p. 9, row 1; `ORC-MLNHTQDQLJ` |  |
+| 627 | eutectoid: Cr2Al -> αCr5Al8 + Cr2Alam | Cr2Al: Cr 0.64; αCr5Al8: Al 0.615385, Cr 0.384615 | experimental | [3] Witusiewicz 2015; _cites Koster 1963_ | Table 3, p. 9, row 11; `ORC-UM4PYKCTNI` |  |
+| 625 | eutectoid: Cr2Al -> αCr5Al8 + Cr2Alam | Cr2Al: Cr 0.646; αCr5Al8: Cr 0.407 | model | [3] Witusiewicz 2015 | Table 3, p. 9, row 12; `ORC-SWJ4RNUSE4` |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Cr system (21)
+Table: Enthalpies of formation, Al–Cr system (27)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al11Cr2 | [Al11Cr2](https://data.orchid-project.org/compounds/Al11Cr2.html) | -15.32 kJ/mol-atom |  | model |  | 10.793 (oqmd-1477065) | [7] Saunders 1986 | Table 1, p. 4, row 4; `ORC-PTCEOWMDSK.a5ef8d` |  |
-| Al11Cr2 | [Al11Cr2](https://data.orchid-project.org/compounds/Al11Cr2.html) | -15.062 kJ/mol-atom | 298.15 | experimental |  | 10.793 (oqmd-1477065) | [3] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 2; `ORC-ZBKFVMQUIR.2ebec0` |  |
-| Al11Cr2 | [Al11Cr2](https://data.orchid-project.org/compounds/Al11Cr2.html) | -15.06 kJ/mol-atom | 298.15 | experimental |  | 10.793 (oqmd-1477065) | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 3; `ORC-RL4XI5ZJPE.0dfd61` |  |
-| Al13Cr2 |  | -13.9 kJ/mol-atom | 298.15 | experimental |  |  | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 1; `ORC-TPSEVCXJ6T.cda139` |  |
-| Al13Cr2 |  | -13.17 kJ/mol-atom |  | model |  |  | [7] Saunders 1986 | Table 1, p. 4, row 2; `ORC-FKMZSHEWS6.5e597f` |  |
-| Al4Cr | [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.html) | -17.68 kJ/mol-atom | 1273.15 | model |  | -6.536 (oqmd-2163960) | [7] Saunders 1986 | Table 1, p. 4, row 6; `ORC-SUPC2RDQAU.ccc1a6` |  |
-| Al4Cr | [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.html) | -17.154 kJ/mol-atom | 298.15 | experimental |  | -6.536 (oqmd-2163960) | [3] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 3; `ORC-BZXA3EXYCO.6ece87` |  |
-| Al4Cr | [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.html) | -17.15 kJ/mol-atom | 1273.15 | experimental |  | -6.536 (oqmd-2163960) | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 5; `ORC-LSLZ6CGKOQ.67d367` |  |
-| Al7Cr | [Al7Cr](https://data.orchid-project.org/compounds/Al7Cr.html) | -13.389 kJ/mol-atom | 298.15 | experimental |  | 2.914 (oqmd-2166350) | [3] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 1; `ORC-WL7W6TITLB.6f9a16` |  |
-| Al8Cr5 | [Al8Cr5](https://data.orchid-project.org/compounds/Al8Cr5.html) | -15.062 kJ/mol-atom | 298.15 | experimental | -5.217 (mp-aaaabdnm) | -9.087 (oqmd-684913) | [3] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 5; `ORC-R7DSJFZ6HP.0a70fb` |  |
-| Al9Cr4 | [Al9Cr4](https://data.orchid-project.org/compounds/Al9Cr4.html) | -15.9 kJ/mol-atom | 298.15 | experimental |  | 11.421 (oqmd-1477118) | [3] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 4; `ORC-R2GR6QLLKK.6b1758` |  |
-| Al9Cr4 (l) |  | -16.17 kJ/mol-atom | 1273.15 | model |  |  | [7] Saunders 1986 | Table 1, p. 4, row 8; `ORC-VXJZM6BOO7.dab2f9` |  |
-| Al9Cr4 (l) |  | -15.9 kJ/mol-atom | 1273.15 | experimental |  |  | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 7; `ORC-PDPECKEWAL.dcee83` |  |
-| AlCr2 | [AlCr2](https://data.orchid-project.org/compounds/AlCr2.html) | -10.878 kJ/mol-atom | 298.15 | experimental | -11.845 (mp-aaaaacnj) | -13.209 (oqmd-10426) | [3] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 6; `ORC-EETNVIZ5K6.6a6052` |  |
+| Al11Cr2 | [Al11Cr2](https://data.orchid-project.org/compounds/Al11Cr2.html) | -15.322 kJ/mol-atom | 1 | model |  | 10.793 (oqmd-1477065) | [6] Saunders 1986 | Table 4, p. 8, row 2; `ORC-SNXMEQBNRR.2f1eaf` |  |
+| Al11Cr2 | [Al11Cr2](https://data.orchid-project.org/compounds/Al11Cr2.html) | -15.32 kJ/mol-atom |  | model |  | 10.793 (oqmd-1477065) | [6] Saunders 1986 | Table 1, p. 4, row 4; `ORC-PTCEOWMDSK.a5ef8d` |  |
+| Al11Cr2 | [Al11Cr2](https://data.orchid-project.org/compounds/Al11Cr2.html) | -15.062 kJ/mol-atom | 298.15 | experimental |  | 10.793 (oqmd-1477065) | [7] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 2; `ORC-ZBKFVMQUIR.2ebec0` |  |
+| Al11Cr2 | [Al11Cr2](https://data.orchid-project.org/compounds/Al11Cr2.html) | -15.06 kJ/mol-atom | 298.15 | experimental |  | 10.793 (oqmd-1477065) | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 3; `ORC-RL4XI5ZJPE.0dfd61` |  |
+| Al13Cr2 |  | -13.9 kJ/mol-atom | 298.15 | experimental |  |  | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 1; `ORC-TPSEVCXJ6T.cda139` |  |
+| Al13Cr2 |  | -13.172 kJ/mol-atom | 1 | model |  |  | [6] Saunders 1986 | Table 4, p. 8, row 1; `ORC-COYC64LJ3H.1f3a18` |  |
+| Al13Cr2 |  | -13.17 kJ/mol-atom |  | model |  |  | [6] Saunders 1986 | Table 1, p. 4, row 2; `ORC-FKMZSHEWS6.5e597f` |  |
+| Al4Cr | [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.html) | -17.68 kJ/mol-atom | 1273.15 | model |  | -6.536 (oqmd-2163960) | [6] Saunders 1986 | Table 1, p. 4, row 6; `ORC-SUPC2RDQAU.ccc1a6` |  |
+| Al4Cr | [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.html) | -17.677 kJ/mol-atom | 1 | model |  | -6.536 (oqmd-2163960) | [6] Saunders 1986 | Table 4, p. 8, row 3; `ORC-O47QNOQB5W.0ad22c` |  |
+| Al4Cr | [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.html) | -17.154 kJ/mol-atom | 298.15 | experimental |  | -6.536 (oqmd-2163960) | [7] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 3; `ORC-BZXA3EXYCO.6ece87` |  |
+| Al4Cr | [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.html) | -17.15 kJ/mol-atom | 1273.15 | experimental |  | -6.536 (oqmd-2163960) | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 5; `ORC-LSLZ6CGKOQ.67d367` |  |
+| Al7Cr | [Al7Cr](https://data.orchid-project.org/compounds/Al7Cr.html) | -13.389 kJ/mol-atom | 298.15 | experimental |  | 2.914 (oqmd-2166350) | [7] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 1; `ORC-WL7W6TITLB.6f9a16` |  |
+| Al8Cr5 | [Al8Cr5](https://data.orchid-project.org/compounds/Al8Cr5.html) | -15.5 kJ/mol-atom | 1 | model | -5.217 (mp-aaaabdnm) | -9.087 (oqmd-684913) | [6] Saunders 1986 | Table 4, p. 8, row 6; `ORC-42O4ATN3C4.3d9fe5` |  |
+| Al8Cr5 | [Al8Cr5](https://data.orchid-project.org/compounds/Al8Cr5.html) | -15.062 kJ/mol-atom | 298.15 | experimental | -5.217 (mp-aaaabdnm) | -9.087 (oqmd-684913) | [7] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 5; `ORC-R7DSJFZ6HP.0a70fb` |  |
+| Al9Cr4 | [Al9Cr4](https://data.orchid-project.org/compounds/Al9Cr4.html) | -15.9 kJ/mol-atom | 298.15 | experimental |  | 11.421 (oqmd-1477118) | [7] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 4; `ORC-R2GR6QLLKK.6b1758` |  |
+| Al9Cr4 (h) | [Al9Cr4](https://data.orchid-project.org/compounds/Al9Cr4.html) | -12.903 kJ/mol-atom | 1 | model |  | 11.421 (oqmd-1477118) | [6] Saunders 1986 | Table 4, p. 8, row 5; `ORC-IDJQ65H2VW.0cf5b6` |  |
+| Al9Cr4 (l) |  | -16.17 kJ/mol-atom | 1273.15 | model |  |  | [6] Saunders 1986 | Table 1, p. 4, row 8; `ORC-VXJZM6BOO7.dab2f9` |  |
+| Al9Cr4 (l) |  | -15.9 kJ/mol-atom | 1273.15 | experimental |  |  | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 7; `ORC-PDPECKEWAL.dcee83` |  |
+| AlCr2 | [AlCr2](https://data.orchid-project.org/compounds/AlCr2.html) | -12.954 kJ/mol-atom | 1 | model | -11.845 (mp-aaaaacnj) | -13.209 (oqmd-10426) | [6] Saunders 1986 | Table 4, p. 8, row 7; `ORC-NY6PFXQEED.3bc9c7` |  |
+| AlCr2 | [AlCr2](https://data.orchid-project.org/compounds/AlCr2.html) | -10.878 kJ/mol-atom | 298.15 | experimental | -11.845 (mp-aaaaacnj) | -13.209 (oqmd-10426) | [7] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 6; `ORC-EETNVIZ5K6.6a6052` |  |
 | B2-β |  | -7.96 kJ/mol-atom | 0 | DFT |  |  | [8] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 5; `ORC-7JJCMHBLNU.f74d40` |  |
 | L12-γ’ |  | -19.04 kJ/mol-atom | 0 | DFT |  |  | [8] Liu 2016 | Table 7, p. 41, row 4; `ORC-Z6W4NXL7QJ.2614d7` |  |
 | L12-γ’ |  | -12.94 kJ/mol-atom | 0 | DFT |  |  | [8] Liu 2016 | Table 7, p. 41, row 6; `ORC-CJF25RA3S4.eb269c` |  |
-| UNKNOWN |  | -15.5 kJ/mol-atom | 1273.15 | model |  |  | [7] Saunders 1986 | Table 1, p. 4, row 10; `ORC-MCYZV6PQAD.6f0d5a` |  |
-| UNKNOWN |  | -15.06 kJ/mol-atom | 1273.15 | experimental |  |  | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 9; `ORC-4OC5YD5B5T.6e4510` |  |
+| UNKNOWN |  | -15.5 kJ/mol-atom | 1273.15 | model |  |  | [6] Saunders 1986 | Table 1, p. 4, row 10; `ORC-MCYZV6PQAD.6f0d5a` |  |
+| UNKNOWN |  | -15.06 kJ/mol-atom | 1273.15 | experimental |  |  | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 9; `ORC-4OC5YD5B5T.6e4510` |  |
 | γ' |  | -19.04 kJ/mol-atom | 0 | DFT |  |  | [8] Liu 2016 | Table 7, p. 41, row 4; `ORC-Z6W4NXL7QJ.e093bd` |  |
 | γ' |  | -12.94 kJ/mol-atom | 0 | DFT |  |  | [8] Liu 2016 | Table 7, p. 41, row 6; `ORC-CJF25RA3S4.641cc6` |  |
 
 ## Other properties
 
-### Phase transition (19)
+### Phase transition (4)
 
 Table: Phase transition, Al–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 310 K | 310 | magnetic | model | [6] Liang 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 4; `ORC-6QYNCPGDIS` | “Due to scarce of magnetic experimental data for pure bcc(Al), a linear Neel temperature from the value for pure Cr, 310 K, to zero \[3\] has been accepted.” |
-| Phase transition | 939 K | 939 | P6 | experimental | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | p. 9; `ORC-6RE26AYKPE.52f03c` | “Both, the type and temperature of the P6 reaction (T = 939.6 K) agree well to \[15,17\] (939 K).” |
-| Phase transition | 939.6 K | 939.6 | P6 | model | [1] Witusiewicz 2015 | p. 9; `ORC-6RE26AYKPE.e722b1` | “Both, the type and temperature of the P6 reaction (T = 939.6 K) agree well to \[15,17\] (939 K).” |
-| Phase transition | 1058.15 K | 1058.15 | other | model | [2] Cui 2017 | p. 2; `ORC-XUJE5XIQKP` | “In his evaluation, the decomposition of Al11Cr2 phase occurred at 785 C and the phase regions related to a-Al9Cr4, b-Al9Cr4, g-Al9Cr4, aAl8Cr5, and b-Al8Cr5 in the assessment of Murray \[15\] were modified to a-Al8Cr5 and b-Al8Cr5 phase region.” |
-| Phase transition | 1058.15 K | 1058.15 | other: Al11 Cr2 → Al7 Cr + Al4 Cr | experimental | [6] Liang 2008 | p. 4; `ORC-SGW45UL3GS` | “They found that the compound Al11 Cr2 only exist in elevated temperature and decomposed eutectoidally Al11 Cr2 → Al7 Cr + Al4 Cr at 785 ◦ C, and confirmed the eutectic reaction liq. → Al7 Cr + fcc(Al) reported by Goto and Dogane \[10\] and Costa Neto et al. \[19\].” |
-| Phase transition | 1058.15 K | 1058.15 | other: Al5 Cr -> Al4 Cr + Al45 Cr7 | experimental | [5] Hu 2013; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | p. 3; `ORC-KGLPMRX7Y4` | “Later, Mahdouk and Gachon \[31\] pointed out that the Al5 Cr phase decomposed into Al4 Cr and Al45 Cr7 at 785 ◦ C via an eutectoid reaction.” |
-| Phase transition | 1096 K | 1096 | B2 ¡ a2 + C15 | model | [1] Witusiewicz 2015 | p. 9; `ORC-UXNQ36DYPL` | “From these sections it is also apparent that the A2 and B2 single-phase domains narrow with decreasing temperature and a B2 single-phase island appears at T = 1096 K following the eutectoid decomposition B2 ¡ a2 + C15 (see the invariant quasi-binary three-phase reaction e12 in Fig. 6).” |
-| Phase transition | 1102 K | 1102 | Cr4Al11 -> CrAl4 + aCr5Al8 | experimental | [1] Witusiewicz 2015; _cites Wu 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.022) | p. 5; `ORC-YJXKOZZGEV` | “They concluded that the homogeneity range of Cr4Al11 extends from Al75.0Cr25.0 to Al76.0Cr24.0 and that the phase decomposes into CrAl4 and aCr5Al8 at 1102 K.” |
-| Phase transition | 1135 K | 1135 | B2 + T ¡ C14 + Cr2Al | model | [1] Witusiewicz 2015 | p. 9; `ORC-Q3LS7DG665` | “As seen from Fig. 10g and h, eutectic alloys A2 + T \[74\] with composition on the univariant line L + A2 + T in Fig. 7 and b turn out to be in the three-phase field C14 + Cr2Al + T at 1073 K and lower temperatures, due to the transformation B2 + T ¡ C14 + Cr2Al (U16) at 1135 K, which results in their embrittlement.” |
-| Phase transition | 1153 K | 1153 | U15 | model | [1] Witusiewicz 2015 | p. 9; `ORC-ZREDT6S2CL.c36338` | “The remaining 1=4 of the solidus surface in the Al-rich region contains 13 tie-triangles corresponding to four-phase invariant reactions with the liquid phase, among which 2 are practically degenerated at the given scale into a line (U11 at T = 1306 K and U15 at T = 1153 K) and 1 into a point (U10 at T = 1332.8 K).” |
-| Phase transition | 1183 K | 1183 | bcc(Cr) -> AlCr2; _bcc(Cr): Cr 0.667; AlCr2: Cr 0.667_ | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 20; `ORC-3IUMJRWTML` |  |
-| Phase transition | 1183 K | 1183 | bcc(Cr) -> AlCr2; _bcc(Cr): Cr 0.6807; AlCr2: Cr 0.6807_ | model | [6] Liang 2008 | Table 2, p. 5, row 19; `ORC-FDUNUNQQ5U` |  |
-| Phase transition | 1306 K | 1306 | U11 | model | [1] Witusiewicz 2015 | p. 9; `ORC-ZREDT6S2CL.f498cb` | “The remaining 1=4 of the solidus surface in the Al-rich region contains 13 tie-triangles corresponding to four-phase invariant reactions with the liquid phase, among which 2 are practically degenerated at the given scale into a line (U11 at T = 1306 K and U15 at T = 1153 K) and 1 into a point (U10 at T = 1332.8 K).” |
-| Phase transition | 1332.8 K | 1332.8 | U10 | model | [1] Witusiewicz 2015 | p. 9; `ORC-ZREDT6S2CL.ad8743` | “The remaining 1=4 of the solidus surface in the Al-rich region contains 13 tie-triangles corresponding to four-phase invariant reactions with the liquid phase, among which 2 are practically degenerated at the given scale into a line (U11 at T = 1306 K and U15 at T = 1153 K) and 1 into a point (U10 at T = 1332.8 K).” |
-| Phase transition | 1333.15 K | 1333.15 | other: g_H = Liquid + g_L | model | [2] Cui 2017 | p. 14; `ORC-EEO6IVHWP5` | “The calculated metatectic g_H 1⁄4 Liquid þ g_L reaction is at 1060 C.” |
-| Phase transition | 1542 K | 1542 | p8 | model | [1] Witusiewicz 2015 | p. 9; `ORC-FAUE7EZ6MI` | “In the projection there are two folds marked by thick solid lines, corresponding to the quasi-binary invariant reactions with the liquid phase p4 at 1685 and p8 at 1542 K.” |
-| Phase transition | 1624 K | 1624 | U3 | model | [1] Witusiewicz 2015; _cites Chen 2011_ | p. 9; `ORC-SIY2WXETSO` | “It should be mentioned that the thermodynamic description of the Al-Cr-Ti system by Chen et al. \[19\] gives the U3 reaction temperature equal to 1624 K, i.e. comparable with the value of the present description.” |
-| Phase transition | 1634 K | 1634 | L + a ¡ A2 + c | model | [1] Witusiewicz 2015 | p. 12; `ORC-GXVZ2EMX64.4c1499` | “According to the present description the temperature of the invariant reaction L + a ¡ A2 + c marked as U3 in the reaction scheme and on the liquidus surface is equal to 1634 K, instead of 1682 K given in \[17\].” |
-| Phase transition | 1682 K | 1682 | L + a ¡ A2 + c | experimental | [1] Witusiewicz 2015; _cites Kriegel 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.09.067) | p. 12; `ORC-GXVZ2EMX64.8b271b` | “According to the present description the temperature of the invariant reaction L + a ¡ A2 + c marked as U3 in the reaction scheme and on the liquidus surface is equal to 1634 K, instead of 1682 K given in \[17\].” |
+| Phase transition | 1058.15 K | 1058.15 | other | model | [1] Cui 2017 | p. 2; `ORC-XUJE5XIQKP` | “In his evaluation, the decomposition of Al11Cr2 phase occurred at 785 C and the phase regions related to a-Al9Cr4, b-Al9Cr4, g-Al9Cr4, aAl8Cr5, and b-Al8Cr5 in the assessment of Murray \[15\] were modified to a-Al8Cr5 and b-Al8Cr5 phase region.” |
+| Phase transition | 1102 K | 1102 | Cr4Al11 -> CrAl4 + aCr5Al8 | experimental | [3] Witusiewicz 2015; _cites Wu 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.022) | p. 5; `ORC-YJXKOZZGEV` | “They concluded that the homogeneity range of Cr4Al11 extends from Al75.0Cr25.0 to Al76.0Cr24.0 and that the phase decomposes into CrAl4 and aCr5Al8 at 1102 K.” |
+| Phase transition | 1183 K | 1183 | bcc(Cr) -> AlCr2; _bcc(Cr): Cr 0.667; AlCr2: Cr 0.667_ | model | [5] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 20; `ORC-3IUMJRWTML` |  |
+| Phase transition | 1183 K | 1183 | bcc(Cr) -> AlCr2; _bcc(Cr): Cr 0.6807; AlCr2: Cr 0.6807_ | model | [5] Liang 2008 | Table 2, p. 5, row 19; `ORC-FDUNUNQQ5U` |  |
+
+### Formation (6)
+
+Table: Formation, Al–Cr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔSf_ | -0.6 J/mol-atom/K | 1 | Al11Cr2; _alloy: Cr 0.154_ | model | [6] Saunders 1986 | Table 4, p. 8, row 2; `ORC-SNXMEQBNRR.383b6a` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.25 J/mol-atom/K | 1 | Al13Cr2; _alloy: Cr 0.133_ | model | [6] Saunders 1986 | Table 4, p. 8, row 1; `ORC-COYC64LJ3H.5e1c3f` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.1 J/mol-atom/K | 1 | Al4Cr; _alloy: Cr 0.2_ | model | [6] Saunders 1986 | Table 4, p. 8, row 3; `ORC-O47QNOQB5W.253f34` |  |
+| Entropy of formation; _printed: ΔSf_ | 6.83 J/mol-atom/K | 1 | Al8Cr5; _alloy: Cr 0.4_ | model | [6] Saunders 1986 | Table 4, p. 8, row 6; `ORC-42O4ATN3C4.bbd343` |  |
+| Entropy of formation; _printed: ΔSf_ | 7 J/mol-atom/K | 1 | Al9Cr4 (h); _alloy: Cr 0.308_ | model | [6] Saunders 1986 | Table 4, p. 8, row 5; `ORC-IDJQ65H2VW.190613` |  |
+| Entropy of formation; _printed: ΔSf_ | 5.53 J/mol-atom/K | 1 | AlCr2; _alloy: Cr 0.655_ | model | [6] Saunders 1986 | Table 4, p. 8, row 7; `ORC-NY6PFXQEED.8ed3a8` |  |
 
 ### Mixing / partial (16)
 
@@ -508,9 +494,9 @@ Table: Mixing / partial, Al–Cr system
 | Enthalpy of mixing; _printed: ΔHmix_ | -2.52 kJ/mol-atom | 0 | γ; _alloy: Al 0.75, Cr 0.25_ | DFT | [8] Liu 2016 | Table 7, p. 41, row 4; `ORC-Z6W4NXL7QJ.80139e` |  |
 | Enthalpy of mixing; _printed: ΔHmix_ | -19.04 kJ/mol-atom | 0 | γ’; _alloy: Al 0.75, Cr 0.25_ | DFT | [8] Liu 2016 | Table 9, p. 43, row 7; `ORC-DDS6WWAX23` |  |
 | Enthalpy of mixing; _printed: ΔHmix_ | -12.94 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Cr 0.75_ | DFT | [8] Liu 2016 | Table 9, p. 43, row 3; `ORC-UWBYNJLERZ` |  |
-| Gibbs energy of mixing; _printed: ΔG^exp at 1000°C_ | -16.28 kJ/mol-atom | 1273.15 | Al4Cr; _alloy: Al 0.8, Cr 0.2_ | experimental | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 5; `ORC-LSLZ6CGKOQ.d77024` |  |
-| Gibbs energy of mixing; _printed: ΔG^exp at 1000°C_ | -21.51 kJ/mol-atom | 1273.15 | Al9Cr4 (l); _alloy: Al 0.69, Cr 0.31_ | experimental | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 7; `ORC-PDPECKEWAL.45b004` |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -23.79 kJ/mol-atom | 1273.15 | UNKNOWN; _alloy: Al 0.6, Cr 0.4_ | experimental | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 9; `ORC-4OC5YD5B5T.19f05b` |  |
+| Gibbs energy of mixing; _printed: ΔG^exp at 1000°C_ | -16.28 kJ/mol-atom | 1273.15 | Al4Cr; _alloy: Al 0.8, Cr 0.2_ | experimental | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 5; `ORC-LSLZ6CGKOQ.d77024` |  |
+| Gibbs energy of mixing; _printed: ΔG^exp at 1000°C_ | -21.51 kJ/mol-atom | 1273.15 | Al9Cr4 (l); _alloy: Al 0.69, Cr 0.31_ | experimental | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 7; `ORC-PDPECKEWAL.45b004` |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -23.79 kJ/mol-atom | 1273.15 | UNKNOWN; _alloy: Al 0.6, Cr 0.4_ | experimental | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 9; `ORC-4OC5YD5B5T.19f05b` |  |
 
 ### Activity / EMF / Gibbs energy (5)
 
@@ -518,11 +504,11 @@ Table: Activity / EMF / Gibbs energy, Al–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG^calc at 1000°C_ | -17.55 kJ mol−1 of atoms | 1273.15 | Al4Cr; _alloy: Al 0.8, Cr 0.2_ | model | [7] Saunders 1986 | Table 1, p. 4, row 6; `ORC-SUPC2RDQAU.517df5` |  |
-| Gibbs energy; _printed: ΔG^calc at 1000°C_ | -21.96 kJ mol−1 of atoms | 1273.15 | Al9Cr4 (l); _alloy: Al 0.69, Cr 0.31_ | model | [7] Saunders 1986 | Table 1, p. 4, row 8; `ORC-VXJZM6BOO7.a7b327` |  |
-| Gibbs energy; _printed: ΔGcalc_ | -24.19 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.6, Cr 0.4_ | model | [7] Saunders 1986 | Table 1, p. 4, row 10; `ORC-MCYZV6PQAD.d4a7b1` |  |
-| Gibbs energy; _printed: ΔGcalc_ | -17.55 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.8, Cr 0.2_ | model | [7] Saunders 1986 | Table 1, p. 4, row 6; `ORC-SUPC2RDQAU.72f137` |  |
-| Gibbs energy; _printed: ΔGcalc_ | -21.96 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.69, Cr 0.31_ | model | [7] Saunders 1986 | Table 1, p. 4, row 8; `ORC-VXJZM6BOO7.712320` |  |
+| Gibbs energy; _printed: ΔG^calc at 1000°C_ | -17.55 kJ mol−1 of atoms | 1273.15 | Al4Cr; _alloy: Al 0.8, Cr 0.2_ | model | [6] Saunders 1986 | Table 1, p. 4, row 6; `ORC-SUPC2RDQAU.517df5` |  |
+| Gibbs energy; _printed: ΔG^calc at 1000°C_ | -21.96 kJ mol−1 of atoms | 1273.15 | Al9Cr4 (l); _alloy: Al 0.69, Cr 0.31_ | model | [6] Saunders 1986 | Table 1, p. 4, row 8; `ORC-VXJZM6BOO7.a7b327` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -24.19 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.6, Cr 0.4_ | model | [6] Saunders 1986 | Table 1, p. 4, row 10; `ORC-MCYZV6PQAD.d4a7b1` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -17.55 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.8, Cr 0.2_ | model | [6] Saunders 1986 | Table 1, p. 4, row 6; `ORC-SUPC2RDQAU.72f137` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -21.96 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.69, Cr 0.31_ | model | [6] Saunders 1986 | Table 1, p. 4, row 8; `ORC-VXJZM6BOO7.712320` |  |
 
 ### Crystal structure (46)
 
@@ -530,64 +516,64 @@ Table: Crystal structure, Al–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 12.88 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3; `ORC-6XFFIDG6T5.b32839` |  |
-| Lattice a | 12.88 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2; `ORC-W5XKTSZBX6.970d25` |  |
-| Lattice a | 25.196 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13; `ORC-6TQDRFQ2ZK.823ebc` |  |
-| Lattice a | 8.716 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4; `ORC-5D324PIVW6.cbd9e2` |  |
-| Lattice a | 19.98 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11; `ORC-BYM2DFDEZO.093726` |  |
-| Lattice a | 19.98 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3; `ORC-MR6N27HPJC.36cb2c` |  |
-| Lattice a | 12.88 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12; `ORC-U4SJ5OPNJ3.7a6f5a` |  |
-| Lattice a | 25.196 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1; `ORC-G53SGRJDPZ.00c297` |  |
-| Lattice a | 25.196 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2; `ORC-X6A5IFG2KW.7a8f13` |  |
-| Lattice a | 3.005 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8; `ORC-PL5CPEMQVI.3a0b83` |  |
-| Lattice a | 3.0045 Å | 298.15 | AlCr2; _AlCr2: Al 0.286, Cr 0.714_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 7; `ORC-VTJC7SWEK6.8eeee8` |  |
-| Lattice a | 2.99984 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 6; `ORC-YKN5Q3YCY3.5a6932` |  |
-| Lattice a | 7.8051 Å | 298.15 | αAl8Cr5; _αAl8Cr5: Al 0.58, Cr 0.42_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 6; `ORC-EPBF72WN2K.f30805` |  |
-| Lattice a | 9.123 Å | 298.15 | αAl9Cr4; _αAl9Cr4: Al 0.665, Cr 0.335_ | unspecified | [3] Murray 1998; _cites ref. 63Kos_ | Table 3, p. 5, row 5; `ORC-65YMB4B4X7` |  |
-| Lattice a | 9.065 Å | 298.15 | γ\_H | unspecified | [2] Cui 2017; _cites Ellner 1989_ | Table 2, p. 4, row 4; `ORC-C7A7NUP3J4.028eed` |  |
-| Lattice a | 12.719 Å | 298.15 | γ\_L | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 5; `ORC-XYFI6LUCE3.47afc3` |  |
-| Lattice b | 7.652 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3; `ORC-6XFFIDG6T5.25393d` |  |
-| Lattice b | 7.652 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2; `ORC-W5XKTSZBX6.031c78` |  |
-| Lattice b | 7.574 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13; `ORC-6TQDRFQ2ZK.0ced6b` |  |
-| Lattice b | 23.946 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4; `ORC-5D324PIVW6.e91c3c` |  |
-| Lattice b | 7.652 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12; `ORC-U4SJ5OPNJ3.901b5b` |  |
-| Lattice b | 7.574 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1; `ORC-G53SGRJDPZ.97033d` |  |
-| Lattice b | 7.574 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2; `ORC-X6A5IFG2KW.1beb70` |  |
-| Lattice c | 10.639 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3; `ORC-6XFFIDG6T5.5a19c3` |  |
-| Lattice c | 10.639 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2; `ORC-W5XKTSZBX6.42e06e` |  |
-| Lattice c | 10.949 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13; `ORC-6TQDRFQ2ZK.4cf90d` |  |
-| Lattice c | 16.386 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4; `ORC-5D324PIVW6.310d73` |  |
-| Lattice c | 24.67 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11; `ORC-BYM2DFDEZO.4a5e2d` |  |
-| Lattice c | 24.67 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3; `ORC-MR6N27HPJC.30e2d0` |  |
-| Lattice c | 10.639 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12; `ORC-U4SJ5OPNJ3.255ef0` |  |
-| Lattice c | 10.949 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1; `ORC-G53SGRJDPZ.0280ce` |  |
-| Lattice c | 10.949 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2; `ORC-X6A5IFG2KW.05b026` |  |
-| Lattice c | 8.645 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8; `ORC-PL5CPEMQVI.41124c` |  |
-| Lattice c | 8.6477 Å | 298.15 | AlCr2; _AlCr2: Al 0.286, Cr 0.714_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 7; `ORC-VTJC7SWEK6.7bd1aa` |  |
-| Lattice c | 8.6303 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 6; `ORC-YKN5Q3YCY3.5cade2` |  |
-| Lattice c | 7.936 Å | 298.15 | γ\_L | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 5; `ORC-XYFI6LUCE3.62ba86` |  |
+| Lattice a | 12.88 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3; `ORC-6XFFIDG6T5.b32839` |  |
+| Lattice a | 12.88 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [1] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2; `ORC-W5XKTSZBX6.970d25` |  |
+| Lattice a | 25.196 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615_ | experimental | [4] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13; `ORC-6TQDRFQ2ZK.823ebc` |  |
+| Lattice a | 8.716 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4; `ORC-5D324PIVW6.cbd9e2` |  |
+| Lattice a | 19.98 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [4] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11; `ORC-BYM2DFDEZO.093726` |  |
+| Lattice a | 19.98 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [1] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3; `ORC-MR6N27HPJC.36cb2c` |  |
+| Lattice a | 12.88 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667_ | experimental | [4] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12; `ORC-U4SJ5OPNJ3.7a6f5a` |  |
+| Lattice a | 25.196 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [1] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1; `ORC-G53SGRJDPZ.00c297` |  |
+| Lattice a | 25.196 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2; `ORC-X6A5IFG2KW.7a8f13` |  |
+| Lattice a | 3.005 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [4] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8; `ORC-PL5CPEMQVI.3a0b83` |  |
+| Lattice a | 3.0045 Å | 298.15 | AlCr2; _AlCr2: Al 0.286, Cr 0.714_ | experimental | [7] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 7; `ORC-VTJC7SWEK6.8eeee8` |  |
+| Lattice a | 2.99984 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [1] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 6; `ORC-YKN5Q3YCY3.5a6932` |  |
+| Lattice a | 7.8051 Å | 298.15 | αAl8Cr5; _αAl8Cr5: Al 0.58, Cr 0.42_ | experimental | [7] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 6; `ORC-EPBF72WN2K.f30805` |  |
+| Lattice a | 9.123 Å | 298.15 | αAl9Cr4; _αAl9Cr4: Al 0.665, Cr 0.335_ | unspecified | [7] Murray 1998; _cites ref. 63Kos_ | Table 3, p. 5, row 5; `ORC-65YMB4B4X7` |  |
+| Lattice a | 9.065 Å | 298.15 | γ\_H | unspecified | [1] Cui 2017; _cites Ellner 1989_ | Table 2, p. 4, row 4; `ORC-C7A7NUP3J4.028eed` |  |
+| Lattice a | 12.719 Å | 298.15 | γ\_L | experimental | [1] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 5; `ORC-XYFI6LUCE3.47afc3` |  |
+| Lattice b | 7.652 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3; `ORC-6XFFIDG6T5.25393d` |  |
+| Lattice b | 7.652 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [1] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2; `ORC-W5XKTSZBX6.031c78` |  |
+| Lattice b | 7.574 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615_ | experimental | [4] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13; `ORC-6TQDRFQ2ZK.0ced6b` |  |
+| Lattice b | 23.946 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4; `ORC-5D324PIVW6.e91c3c` |  |
+| Lattice b | 7.652 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667_ | experimental | [4] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12; `ORC-U4SJ5OPNJ3.901b5b` |  |
+| Lattice b | 7.574 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [1] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1; `ORC-G53SGRJDPZ.97033d` |  |
+| Lattice b | 7.574 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2; `ORC-X6A5IFG2KW.1beb70` |  |
+| Lattice c | 10.639 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3; `ORC-6XFFIDG6T5.5a19c3` |  |
+| Lattice c | 10.639 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [1] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2; `ORC-W5XKTSZBX6.42e06e` |  |
+| Lattice c | 10.949 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615_ | experimental | [4] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13; `ORC-6TQDRFQ2ZK.4cf90d` |  |
+| Lattice c | 16.386 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4; `ORC-5D324PIVW6.310d73` |  |
+| Lattice c | 24.67 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [4] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11; `ORC-BYM2DFDEZO.4a5e2d` |  |
+| Lattice c | 24.67 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [1] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3; `ORC-MR6N27HPJC.30e2d0` |  |
+| Lattice c | 10.639 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667_ | experimental | [4] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12; `ORC-U4SJ5OPNJ3.255ef0` |  |
+| Lattice c | 10.949 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [1] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1; `ORC-G53SGRJDPZ.0280ce` |  |
+| Lattice c | 10.949 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2; `ORC-X6A5IFG2KW.05b026` |  |
+| Lattice c | 8.645 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [4] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8; `ORC-PL5CPEMQVI.41124c` |  |
+| Lattice c | 8.6477 Å | 298.15 | AlCr2; _AlCr2: Al 0.286, Cr 0.714_ | experimental | [7] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 7; `ORC-VTJC7SWEK6.7bd1aa` |  |
+| Lattice c | 8.6303 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [1] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 6; `ORC-YKN5Q3YCY3.5cade2` |  |
+| Lattice c | 7.936 Å | 298.15 | γ\_L | experimental | [1] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 5; `ORC-XYFI6LUCE3.62ba86` |  |
 | Molar volume; _printed: V0_ | 14.031 Å3/atom | 298.15 | B2 AlCr; _alloy: Cr 0.5_ | DFT | [8] Liu 2016 | Table 2, p. 36, row 4; `ORC-7Y4D54YP37` |  |
 | Molar volume; _printed: V0_ | 14.838 Å3/atom | 298.15 | γ'-L12 Al3Cr; _alloy: Cr 0.25_ | DFT | [8] Liu 2016 | Table 2, p. 36, row 20; `ORC-VYBLYJSIYP` |  |
 | Molar volume; _printed: V0_ | 12.431 Å3/atom | 298.15 | γ'-L12 Cr3Al; _alloy: Cr 0.75_ | DFT | [8] Liu 2016 | Table 2, p. 36, row 21; `ORC-DCQUWPWDXP` |  |
-| lattice beta | 128.41 ° | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2; `ORC-W5XKTSZBX6.9afe9f` |  |
-| lattice beta | 119.33 ° | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3; `ORC-MR6N27HPJC.567ebf` |  |
-| lattice beta | 128.71 ° | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1; `ORC-G53SGRJDPZ.29bf34` |  |
-| lattice unspecified angle | 122.2 ° | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3; `ORC-6XFFIDG6T5.a1f379` |  |
-| lattice unspecified angle | 119.33 ° | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4; `ORC-5D324PIVW6.e3dd14` |  |
-| lattice unspecified angle | 128.7 ° | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2; `ORC-X6A5IFG2KW.056a04` |  |
-| lattice unspecified angle | 109.217 ° | 298.15 | αAl8Cr5; _αAl8Cr5: Al 0.58, Cr 0.42_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 6; `ORC-EPBF72WN2K.7c561a` |  |
+| lattice beta | 128.41 ° | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [1] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2; `ORC-W5XKTSZBX6.9afe9f` |  |
+| lattice beta | 119.33 ° | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [1] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3; `ORC-MR6N27HPJC.567ebf` |  |
+| lattice beta | 128.71 ° | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [1] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1; `ORC-G53SGRJDPZ.29bf34` |  |
+| lattice unspecified angle | 122.2 ° | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3; `ORC-6XFFIDG6T5.a1f379` |  |
+| lattice unspecified angle | 119.33 ° | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4; `ORC-5D324PIVW6.e3dd14` |  |
+| lattice unspecified angle | 128.7 ° | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [7] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2; `ORC-X6A5IFG2KW.056a04` |  |
+| lattice unspecified angle | 109.217 ° | 298.15 | αAl8Cr5; _αAl8Cr5: Al 0.58, Cr 0.42_ | experimental | [7] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 6; `ORC-EPBF72WN2K.7c561a` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. V.T. Witusiewicz, A.A. Bondar, U. Hecht, T.Ya. Velikanova, Thermodynamic re-modelling of the ternary Al–Cr–Ti system with refined Al–Cr description, Journal of Alloys and Compounds 644, 939-958 (2015). [doi:10.1016/j.jallcom.2015.04.231](https://doi.org/10.1016/j.jallcom.2015.04.231)
-2. Senlin Cui, In-Ho Jung, Junghwan Kim, Jinghua Xin, A coupled experimental and thermodynamic study of the Al-Cr and Al-Cr-Mg systems, Journal of Alloys and Compounds 698, 1038-1057 (2017). [doi:10.1016/j.jallcom.2016.12.298](https://doi.org/10.1016/j.jallcom.2016.12.298)
-3. J. L. Murray, The Al-Cr (aluminum-chromium) system, JPE 19, 367-375 (1998). [doi:10.1007/bf02735058](https://doi.org/10.1007/bf02735058)
-4. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-5. Biao Hu, Wei-Wei Zhang, Yingbiao Peng, Yong Du, Shuhong Liu, Yuelan Zhang, Thermodynamic reassessment of the Al–Cr–Si system with the refined description of the Al–Cr system, Thermochimica Acta 561, 77-90 (2013). [doi:10.1016/j.tca.2013.03.033](https://doi.org/10.1016/j.tca.2013.03.033)
-6. Yu Liang, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic modeling of the Al–Cr system, Journal of Alloys and Compounds 460, 314-319 (2008). [doi:10.1016/j.jallcom.2007.06.046](https://doi.org/10.1016/j.jallcom.2007.06.046)
-7. N. Saunders, V. G. Rivlin, Thermodynamic characterization of Al–Cr, Al–Zr, and Al–Cr–Zr alloy systems, Materials Science and Technology 2, 520-527 (1986). [doi:10.1179/mst.1986.2.6.520](https://doi.org/10.1179/mst.1986.2.6.520)
+1. Senlin Cui, In-Ho Jung, Junghwan Kim, Jinghua Xin, A coupled experimental and thermodynamic study of the Al-Cr and Al-Cr-Mg systems, Journal of Alloys and Compounds 698, 1038-1057 (2017). [doi:10.1016/j.jallcom.2016.12.298](https://doi.org/10.1016/j.jallcom.2016.12.298)
+2. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
+3. V.T. Witusiewicz, A.A. Bondar, U. Hecht, T.Ya. Velikanova, Thermodynamic re-modelling of the ternary Al–Cr–Ti system with refined Al–Cr description, Journal of Alloys and Compounds 644, 939-958 (2015). [doi:10.1016/j.jallcom.2015.04.231](https://doi.org/10.1016/j.jallcom.2015.04.231)
+4. Biao Hu, Wei-Wei Zhang, Yingbiao Peng, Yong Du, Shuhong Liu, Yuelan Zhang, Thermodynamic reassessment of the Al–Cr–Si system with the refined description of the Al–Cr system, Thermochimica Acta 561, 77-90 (2013). [doi:10.1016/j.tca.2013.03.033](https://doi.org/10.1016/j.tca.2013.03.033)
+5. Yu Liang, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic modeling of the Al–Cr system, Journal of Alloys and Compounds 460, 314-319 (2008). [doi:10.1016/j.jallcom.2007.06.046](https://doi.org/10.1016/j.jallcom.2007.06.046)
+6. N. Saunders, V. G. Rivlin, Thermodynamic characterization of Al–Cr, Al–Zr, and Al–Cr–Zr alloy systems, Materials Science and Technology 2, 520-527 (1986). [doi:10.1179/mst.1986.2.6.520](https://doi.org/10.1179/mst.1986.2.6.520)
+7. J. L. Murray, The Al-Cr (aluminum-chromium) system, JPE 19, 367-375 (1998). [doi:10.1007/bf02735058](https://doi.org/10.1007/bf02735058)
 8. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
 9. Xuan L. Liu, Thomas Gheno, Bonnie B. Lindahl, Greta Lindwall, Brian Gleeson, Zi-Kui Liu, First-Principles Calculations, Experimental Study, and Thermodynamic Modeling of the Al-Co-Cr System, PLoS ONE 10, e0121386 (2015). [doi:10.1371/journal.pone.0121386](https://doi.org/10.1371/journal.pone.0121386)
 

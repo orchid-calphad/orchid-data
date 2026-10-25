@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/TH.html · Markdown: https://data.orchid-project.org/systems/TH.md
 
-11 accepted literature values from 3 paper(s) (experimental 4, model 7); 0 calculated phase diagram(s).
+11 accepted literature values from 3 paper(s) (experimental 4, model 7); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TH.json) · [CSV](https://data.orchid-project.org/systems/TH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TH) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TH.html) · [Markdown](https://data.orchid-project.org/systems/TH.md)
 

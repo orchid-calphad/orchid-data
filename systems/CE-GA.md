@@ -1,10 +1,10 @@
 # Ce–Ga system
 
-> Ce–Ga system: 87 accepted literature values (invariant reaction 50, formation 20, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Ga system: 71 accepted literature values (invariant reaction 43, formation 20, phase transition 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-GA.html · Markdown: https://data.orchid-project.org/systems/CE-GA.md
 
-87 accepted literature values from 2 paper(s) (experimental 28, model 59); 2 calculated phase diagram(s).
+71 accepted literature values from 2 paper(s) (experimental 21, model 50); 2 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-GA.json) · [CSV](https://data.orchid-project.org/systems/CE-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-GA/CeGa-13Idb.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CE-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-GA.html) · [Markdown](https://data.orchid-project.org/systems/CE-GA.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
-| model | 59 |
+| experimental | 21 |
+| model | 50 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 50 |
-| phase transition | 17 |
+| invariant reaction | 43 |
+| phase transition | 8 |
 | formation | 20 |
 
 ## Calculated phase diagrams
@@ -69,24 +69,20 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Ga system (50)
+Table: Invariant reactions reported in the literature for the Ce–Ga system (43)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1233.15 | peritectic |  | model | [1] Idbenali 2013 | p. 1; `ORC-DHOI2CNR45.ea6f2f` | “The binary phase diagram of the Ce-Ga system was compiled by Massalski\[8\] based on the studies carried out by Refs 5-7, indicating the existence of five intermetallic compounds (see Fig. 1): CeGa2 which melts congruently at 1460 C, the other intermetallic compounds Ce3Ga, Ce4.8Ga3.2 = Ce3Ga2, CeGa, and CeGa6 are formed by a peritectic reaction at 557, 850, 960, and 637 C respectively.” |
 | 1233.15 | Liq + CeGa2 -> CeGa | Liq: Ga 0.421; CeGa2: Ga 0.666667; CeGa: Ga 0.5 | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 11; `ORC-H4XSN3XBPC` |  |
 | 1233 | liq + CeGa2 → CeGa | L: Ga 0.421; CeGa2: Ga 0.666667; CeGa: Ga 0.5 | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 15; `ORC-XFG5W6OIMC` |  |
 | 1233 | liq + CeGa2 → CeGa | L: Ga 0.415; CeGa2: Ga 0.6667; CeGa: Ga 0.5 | model | [2] Liu 2019 | Table 2, p. 5, row 14; `ORC-ZW5AMEM77G` |  |
 | 1231.15 | Liq + CeGa2 -> CeGa | Liq: Ga 0.4086; CeGa2: Ga 0.666667; CeGa: Ga 0.5 | model | [1] Idbenali 2013 | Table 3, p. 5, row 12; `ORC-ZP34KGBDTR` |  |
 | 1231 | liq + CeGa2 → CeGa | L: Ga 0.4086; CeGa2: Ga 0.666667; CeGa: Ga 0.5 | model | [2] Liu 2019; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s11669-013-0261-y) | Table 2, p. 5, row 16; `ORC-EVKMMKF6AF` |  |
-| 1228.15 | peritectic |  | experimental | [1] Idbenali 2013 | p. 1; `ORC-4PE2P2NVBY.bcaa8a` | “Ce3Ga, Ce5Ga3, and CeGa were formed by a peritectic reaction at 557, 830, and 955 C respectively, while the fourth compound CeGa2 melted congruently at 1460 C.” |
 | 1127.15 | Liq + CeGa -> Ce3Ga2 | Liq: Ga 0.3564; CeGa: Ga 0.5; Ce3Ga2: Ga 0.4 | model | [1] Idbenali 2013 | Table 3, p. 5, row 10; `ORC-VUDNTIHTDA` |  |
 | 1127 | liq + CeGa → Ce3Ga2 | L: Ga 0.3564; CeGa: Ga 0.5; Ce3Ga2: Ga 0.4 | model | [2] Liu 2019; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s11669-013-0261-y) | Table 2, p. 5, row 13; `ORC-GWRQHWTOMD` |  |
-| 1123.15 | peritectic |  | model | [1] Idbenali 2013 | p. 1; `ORC-DHOI2CNR45.91101b` | “The binary phase diagram of the Ce-Ga system was compiled by Massalski\[8\] based on the studies carried out by Refs 5-7, indicating the existence of five intermetallic compounds (see Fig. 1): CeGa2 which melts congruently at 1460 C, the other intermetallic compounds Ce3Ga, Ce4.8Ga3.2 = Ce3Ga2, CeGa, and CeGa6 are formed by a peritectic reaction at 557, 850, 960, and 637 C respectively.” |
 | 1123.15 | Liq + CeGa -> Ce3Ga2 | Liq: Ga 0.37; CeGa: Ga 0.5; Ce3Ga2: Ga 0.4 | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 9; `ORC-OZJHLIV7WF` |  |
 | 1123 | liq + CeGa → Ce3Ga2 | L: Ga 0.37; CeGa: Ga 0.5; Ce3Ga2: Ga 0.4 | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 12; `ORC-3RACPDPED3` |  |
 | 1123 | liq + CeGa → Ce3Ga2 | L: Ga 0.3623; CeGa: Ga 0.5; Ce3Ga2: Ga 0.6667 | model | [2] Liu 2019 | Table 2, p. 5, row 11; `ORC-TT4DHSIATU` |  |
-| 1103.15 | peritectic |  | experimental | [1] Idbenali 2013 | p. 1; `ORC-4PE2P2NVBY.0adbf4` | “Ce3Ga, Ce5Ga3, and CeGa were formed by a peritectic reaction at 557, 830, and 955 C respectively, while the fourth compound CeGa2 melted congruently at 1460 C.” |
 | 1000.15 | Liq + (Ce_HT2) -> (Ce)HT_1 | Liq: Ga 0.031 | model | [1] Idbenali 2013 | Table 3, p. 5, row 6; `ORC-QBDMOF4TGI` |  |
 | 1000 | liq. + bcc (Ce) → fcc(Ce) | L: Ga 0.0767 | model | [2] Liu 2019 | Table 2, p. 5, row 5; `ORC-RA66GWCKZC` |  |
 | 1000 | liq. + bcc (Ce) → fcc(Ce) | L: Ga 0.031 | model | [2] Liu 2019; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s11669-013-0261-y) | Table 2, p. 5, row 7; `ORC-SGWRJWXNUN` |  |
@@ -94,23 +90,20 @@ Table: Invariant reactions reported in the literature for the Ce–Ga system (50
 | 999 | liq. + bcc (Ce) → fcc(Ce) | L: Ga 0.058 | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 6; `ORC-OXD6JGBVEO` |  |
 | 911.35 | Liq + CeGa2 -> CeGa6_HT | Liq: Ga 0.9438; CeGa2: Ga 0.666667; CeGa6_HT: Ga 0.857143 | model | [1] Idbenali 2013 | Table 3, p. 5, row 16; `ORC-IUWOXUIJ4O` |  |
 | 911 | liq + CeGa2 → β-CeGa6 | L: Ga 0.9438; CeGa2: Ga 0.666667; β-CeGa6: Ga 0.857143 | model | [2] Liu 2019; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s11669-013-0261-y) | Table 2, p. 5, row 24; `ORC-W4Q2KDWW5C` |  |
-| 910.15 | peritectic |  | model | [1] Idbenali 2013 | p. 1; `ORC-DHOI2CNR45.bb1afc` | “The binary phase diagram of the Ce-Ga system was compiled by Massalski\[8\] based on the studies carried out by Refs 5-7, indicating the existence of five intermetallic compounds (see Fig. 1): CeGa2 which melts congruently at 1460 C, the other intermetallic compounds Ce3Ga, Ce4.8Ga3.2 = Ce3Ga2, CeGa, and CeGa6 are formed by a peritectic reaction at 557, 850, 960, and 637 C respectively.” |
 | 910.15 | Liq + CeGa2 -> CeGa6_HT | Liq: Ga 0.956; CeGa2: Ga 0.666667; CeGa6_HT: Ga 0.857143 | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 15; `ORC-X5GFAIPE4J` |  |
 | 910 | liq + CeGa2 → β-CeGa6 | L: Ga 0.8958; CeGa2: Ga 0.7794; β-CeGa6: Ga 0.8571 | model | [2] Liu 2019 | Table 2, p. 5, row 22; `ORC-EXVDK4AP4M` |  |
 | 910 | liq + CeGa2 → β-CeGa6 | L: Ga 0.956; CeGa2: Ga 0.666667; β-CeGa6: Ga 0.857143 | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 23; `ORC-TOSNBHUEDA` |  |
 | 837.85 | Liq + Ce3Ga2 -> Ce3Ga | Liq: Ga 0.1922; Ce3Ga2: Ga 0.4; Ce3Ga: Ga 0.25 | model | [1] Idbenali 2013 | Table 3, p. 5, row 8; `ORC-VFK2UIAYF2` |  |
 | 837 | liq + Ce3Ga2 → Ce3Ga | L: Ga 0.1922; Ce3Ga2: Ga 0.4; Ce3Ga: Ga 0.25 | model | [2] Liu 2019; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s11669-013-0261-y) | Table 2, p. 5, row 10; `ORC-C3WQ3QQFPT` |  |
-| 830.15 | peritectic |  | experimental | [1] Idbenali 2013 | p. 1; `ORC-4PE2P2NVBY.4e8d0c` | “Ce3Ga, Ce5Ga3, and CeGa were formed by a peritectic reaction at 557, 830, and 955 C respectively, while the fourth compound CeGa2 melted congruently at 1460 C.” |
-| 830.15 | peritectic |  | model | [1] Idbenali 2013 | p. 1; `ORC-DHOI2CNR45.1bb5fe` | “The binary phase diagram of the Ce-Ga system was compiled by Massalski\[8\] based on the studies carried out by Refs 5-7, indicating the existence of five intermetallic compounds (see Fig. 1): CeGa2 which melts congruently at 1460 C, the other intermetallic compounds Ce3Ga, Ce4.8Ga3.2 = Ce3Ga2, CeGa, and CeGa6 are formed by a peritectic reaction at 557, 850, 960, and 637 C respectively.” |
 | 830.15 | Liq + Ce3Ga2 -> Ce3Ga | Liq: Ga 0.207; Ce3Ga2: Ga 0.4; Ce3Ga: Ga 0.25 | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 7; `ORC-RAVS5BEELW` |  |
 | 830 | liq + Ce3Ga2 → Ce3Ga | L: Ga 0.207; Ce3Ga2: Ga 0.4; Ce3Ga: Ga 0.25 | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 9; `ORC-E6K6E3UIGO` |  |
 | 830 | liq + Ce3Ga2 → Ce3Ga | L: Ga 0.2172; Ce3Ga2: Ga 0.4; Ce3Ga: Ga 0.25 | model | [2] Liu 2019 | Table 2, p. 5, row 8; `ORC-IGAOIMWDXC` |  |
-| 807 | liq. → Ce3Ga + fcc (Ce) | L: Ga 0.1726; Ce3Ga: Ga 0.25; fcc (Ce): Ga 0 | model | [2] Liu 2019 | Table 2, p. 5, row 1; `ORC-3AZV73XCSO` |  |
-| 773 | liq. → Ce3Ga + fcc (Ce) | L: Ga 0.6667; Ce3Ga: Ga 0.25 | experimental | [2] Liu 2019; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 2, p. 5, row 4; `ORC-6MYJVWIGGB` |  |
-| 768.15 | Liq -> Ce3Ga + (Ce)\_HT1 | Liq: Ga 0.18; Ce3Ga: Ga 0.25 | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 3; `ORC-QVCY5GECHW` |  |
-| 768 | liq. → Ce3Ga + fcc (Ce) | L: Ga 0.18; Ce3Ga: Ga 0.25 | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 2; `ORC-L5URH3X5MH` |  |
-| 755 | liq. → Ce3Ga + fcc (Ce) | L: Ga 0.119; Ce3Ga: Ga 0.25 | model | [2] Liu 2019; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s11669-013-0261-y) | Table 2, p. 5, row 3; `ORC-ZVXGGOY7FD` |  |
-| 754.95 | Liq -> Ce3Ga + (Ce)\_HT1 | Liq: Ga 0.119; Ce3Ga: Ga 0.25 | model | [1] Idbenali 2013 | Table 3, p. 5, row 4; `ORC-3LXHDQWZ7G` |  |
+| 807 | eutectic: liq. → Ce3Ga + fcc (Ce) | L: Ga 0.1726; Ce3Ga: Ga 0.25; fcc (Ce): Ga 0 | model | [2] Liu 2019 | Table 2, p. 5, row 1; `ORC-3AZV73XCSO` |  |
+| 773 | eutectic: liq. → Ce3Ga + fcc (Ce) | L: Ga 0.6667; Ce3Ga: Ga 0.25 | experimental | [2] Liu 2019; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 2, p. 5, row 4; `ORC-6MYJVWIGGB` |  |
+| 768.15 | eutectic: Liq -> Ce3Ga + (Ce)\_HT1 | Liq: Ga 0.18; Ce3Ga: Ga 0.25 | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 3; `ORC-QVCY5GECHW` |  |
+| 768 | eutectic: liq. → Ce3Ga + fcc (Ce) | L: Ga 0.18; Ce3Ga: Ga 0.25 | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 2; `ORC-L5URH3X5MH` |  |
+| 755 | eutectic: liq. → Ce3Ga + fcc (Ce) | L: Ga 0.119; Ce3Ga: Ga 0.25 | model | [2] Liu 2019; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s11669-013-0261-y) | Table 2, p. 5, row 3; `ORC-ZVXGGOY7FD` |  |
+| 754.95 | eutectic: Liq -> Ce3Ga + (Ce)\_HT1 | Liq: Ga 0.119; Ce3Ga: Ga 0.25 | model | [1] Idbenali 2013 | Table 3, p. 5, row 4; `ORC-3LXHDQWZ7G` |  |
 | 750.15 | Liq + CeGa2 -> CeGa6_LT | Liq: Ga 0.977; CeGa2: Ga 0.666667; CeGa6_LT: Ga 0.857143 | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 17; `ORC-KPFN67EERM` |  |
 | 750.05 | Liq + CeGa2 -> CeGa6_LT | Liq: Ga 0.9523; CeGa2: Ga 0.666667; CeGa6_LT: Ga 0.857143 | model | [1] Idbenali 2013 | Table 3, p. 5, row 18; `ORC-LCUDNEQ6EC` |  |
 | 750 | liq + CeGa2 → α-CeGa6 | L: Ga 0.977; CeGa2: Ga 0.666667; α-CeGa6: Ga 0.857143 | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 26; `ORC-3CAWDFBZ3L` |  |
@@ -118,11 +111,11 @@ Table: Invariant reactions reported in the literature for the Ce–Ga system (50
 | 748 | liq + CeGa2 → α-CeGa6 | L: Ga 0.9337; CeGa2: Ga 0.7778; α-CeGa6: Ga 0.8571 | model | [2] Liu 2019 | Table 2, p. 5, row 25; `ORC-2ONIOCXQVT` |  |
 | 334.15 | (Ce_HT1) + Ce3Ga -> (Ce_RT) |  | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 1; `ORC-4FJERAZNFR` |  |
 | 334.15 | (Ce_HT1) + Ce3Ga -> (Ce_RT) |  | model | [1] Idbenali 2013 | Table 3, p. 5, row 2; `ORC-CNGZRG26PP` |  |
-| 303 | liq → α-CeGa6 + orth.(Ga) | L: Ga 0.9995; α-CeGa6: Ga 0.857143; orth.(Ga): Ga 1 | model | [2] Liu 2019; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s11669-013-0261-y) | Table 2, p. 5, row 30; `ORC-YO3LYU2SBB` |  |
-| 302.95 | Liq -> CeGa6-LT + (Ga) | Liq: Ga 0.9995; CeGa6-LT: Ga 0.857143; (Ga): Ga 1 | model | [1] Idbenali 2013 | Table 3, p. 5, row 20; `ORC-K3K3ERATEH` |  |
-| 302.15 | Liq -> CeGa6-LT + (Ga) | Liq: Ga 0.01; CeGa6-LT: Ga 0.857143; (Ga): Ga 1 | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 19; `ORC-BM3KPIZOUB` |  |
-| 302 | liq → α-CeGa6 + orth.(Ga) | L: Ga 1; α-CeGa6: Ga 0.857143; orth.(Ga): Ga 1 | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 29; `ORC-P26RYH2VD5` |  |
-| 300 | liq → α-CeGa6 + orth.(Ga) | L: Ga 0.9937; α-CeGa6: Ga 0.8571; orth.(Ga): Ga 1 | model | [2] Liu 2019 | Table 2, p. 5, row 28; `ORC-CNMCA5FRAC` |  |
+| 303 | eutectic: liq → α-CeGa6 + orth.(Ga) | L: Ga 0.9995; α-CeGa6: Ga 0.857143; orth.(Ga): Ga 1 | model | [2] Liu 2019; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s11669-013-0261-y) | Table 2, p. 5, row 30; `ORC-YO3LYU2SBB` |  |
+| 302.95 | eutectic: Liq -> CeGa6-LT + (Ga) | Liq: Ga 0.9995; CeGa6-LT: Ga 0.857143; (Ga): Ga 1 | model | [1] Idbenali 2013 | Table 3, p. 5, row 20; `ORC-K3K3ERATEH` |  |
+| 302.15 | eutectic: Liq -> CeGa6-LT + (Ga) | Liq: Ga 0.01; CeGa6-LT: Ga 0.857143; (Ga): Ga 1 | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 19; `ORC-BM3KPIZOUB` |  |
+| 302 | eutectic: liq → α-CeGa6 + orth.(Ga) | L: Ga 1; α-CeGa6: Ga 0.857143; orth.(Ga): Ga 1 | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 29; `ORC-P26RYH2VD5` |  |
+| 300 | eutectic: liq → α-CeGa6 + orth.(Ga) | L: Ga 0.9937; α-CeGa6: Ga 0.8571; orth.(Ga): Ga 1 | model | [2] Liu 2019 | Table 2, p. 5, row 28; `ORC-CNMCA5FRAC` |  |
 
 ## Formation enthalpies
 
@@ -155,29 +148,20 @@ Table: Enthalpies of formation, Ce–Ga system (20)
 
 ## Other properties
 
-### Phase transition (17)
+### Phase transition (8)
 
 Table: Phase transition, Ce–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 750.15 K | 750.15 |  | model | [1] Idbenali 2013 | p. 1; `ORC-35BBRYBMF6` | “The stoichiometric phase CeGa6 presents a crystalline transition at 477 C.” |
-| Phase transition | 1123.15 K | 1123.15 | other | model | [1] Idbenali 2013 | p. 1; `ORC-K4TKGKAP54.434f4b` | “They found only three compounds: Ce3Ga2 and CeGa (respective decomposition at 850 and 960 C) and CeGa2 (melting point at 1444 C).” |
-| Phase transition | 1123.15 K | 1123.15 | other | experimental | [2] Liu 2019; _cites Dayan 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990057-2) | p. 2; `ORC-UOKMX3SBVK.3b996a` | “Ce-Ga alloys were investigated, and the compounds ­Ce3Ga2 and CeGa (decomposition at 850 and 960 °C, respectively) and ­CeGa2 (melting point at 1444 °C) were found by Dayan and Pelleg \[7\].” |
-| Phase transition | 1233.15 K | 1233.15 | other | model | [1] Idbenali 2013 | p. 1; `ORC-K4TKGKAP54.2217fe` | “They found only three compounds: Ce3Ga2 and CeGa (respective decomposition at 850 and 960 C) and CeGa2 (melting point at 1444 C).” |
-| Phase transition | 1233.15 K | 1233.15 | other | experimental | [2] Liu 2019; _cites Dayan 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990057-2) | p. 2; `ORC-UOKMX3SBVK.1798e0` | “Ce-Ga alloys were investigated, and the compounds ­Ce3Ga2 and CeGa (decomposition at 850 and 960 °C, respectively) and ­CeGa2 (melting point at 1444 °C) were found by Dayan and Pelleg \[7\].” |
 | Phase transition | 1463 K | 1463 | congruent transformation | model | [1] Idbenali 2013 | p. 5; `ORC-N3SAJ4EXIO` | “The congruent melting of CeGa2 calculated at 1463 K is in very good agreement with the experimental data of Ref 8.” |
 | Phase transition | 1717 K | 1717 | liq → CeGa2; _L: Ga 0.6667; CeGa2: Ga 0.666667_ | model | [2] Liu 2019 | Table 2, p. 5, row 17; `ORC-RQL4VGAGGD` |  |
 | Phase transition | 1717 K | 1717 | liq → CeGa2; _L: Ga 0.666667; CeGa2: Ga 0.666667_ | experimental | [2] Liu 2019; _cites Dayan 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990057-2) | Table 2, p. 5, row 21; `ORC-UAPE6NNLM2` |  |
-| Phase transition | 1717.15 K | 1717.15 |  | model | [1] Idbenali 2013 | p. 1; `ORC-K4TKGKAP54.ba2df9` | “They found only three compounds: Ce3Ga2 and CeGa (respective decomposition at 850 and 960 C) and CeGa2 (melting point at 1444 C).” |
-| Phase transition | 1717.15 K | 1717.15 |  | experimental | [2] Liu 2019; _cites Dayan 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990057-2) | p. 2; `ORC-UOKMX3SBVK.117ed2` | “Ce-Ga alloys were investigated, and the compounds ­Ce3Ga2 and CeGa (decomposition at 850 and 960 °C, respectively) and ­CeGa2 (melting point at 1444 °C) were found by Dayan and Pelleg \[7\].” |
 | Phase transition | 1727 K | 1727 | liq → CeGa2; _L: Ga 0.6667; CeGa2: Ga 0.666667_ | model | [2] Liu 2019; _cites Massalski 1990_ | Table 2, p. 5, row 19; `ORC-QJSFHJHB4V` |  |
 | Phase transition | 1727 K | 1727 | liq → CeGa2; _L: Ga 0.6667; CeGa2: Ga 0.666667_ | model | [2] Liu 2019; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s11669-013-0261-y) | Table 2, p. 5, row 20; `ORC-VVC6ZPSCA5` |  |
 | Phase transition | 1727.15 K | 1727.15 | Liq -> CeGa2; _Liq: Ga 0.667; CeGa2: Ga 0.666667_ | model | [1] Idbenali 2013 | Table 3, p. 5, row 14; `ORC-ZWFIQOXBC3` |  |
 | Phase transition | 1733 K | 1733 | liq → CeGa2; _L: Ga 0.6667; CeGa2: Ga 0.666667_ | experimental | [2] Liu 2019; _cites Yatsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990170-x) | Table 2, p. 5, row 18; `ORC-ADKTXYKVCQ` |  |
 | Phase transition | 1733.15 K | 1733.15 | Liq -> CeGa2; _Liq: Ga 0.667; CeGa2: Ga 0.666667_ | experimental | [1] Idbenali 2013; _cites Massalski 1990_ | Table 3, p. 5, row 13; `ORC-VZART7C3LI` |  |
-| Phase transition | 1733.15 K | 1733.15 | congruent transformation | experimental | [1] Idbenali 2013 | p. 1; `ORC-4PE2P2NVBY.e9fa12` | “Ce3Ga, Ce5Ga3, and CeGa were formed by a peritectic reaction at 557, 830, and 955 C respectively, while the fourth compound CeGa2 melted congruently at 1460 C.” |
-| Phase transition | 1733.15 K | 1733.15 | congruent transformation | model | [1] Idbenali 2013 | p. 1; `ORC-DHOI2CNR45.3536fb` | “The binary phase diagram of the Ce-Ga system was compiled by Massalski\[8\] based on the studies carried out by Refs 5-7, indicating the existence of five intermetallic compounds (see Fig. 1): CeGa2 which melts congruently at 1460 C, the other intermetallic compounds Ce3Ga, Ce4.8Ga3.2 = Ce3Ga2, CeGa, and CeGa6 are formed by a peritectic reaction at 557, 850, 960, and 637 C respectively.” |
 
 ## Sources
 

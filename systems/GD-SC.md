@@ -1,10 +1,10 @@
 # Gd–Sc system
 
-> Gd–Sc system: 6 accepted literature values (mixing / partial 4, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Sc system: 4 accepted literature values (mixing / partial 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-SC.html · Markdown: https://data.orchid-project.org/systems/GD-SC.md
 
-6 accepted literature values from 1 paper(s) (experimental 2, model 4); 2 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (model 4); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-SC.json) · [CSV](https://data.orchid-project.org/systems/GD-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-SC/GdSc-00Nor.json) · [phases (4)](https://data.orchid-project.org/phases/pages/GD-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-SC.html) · [Markdown](https://data.orchid-project.org/systems/GD-SC.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
 | model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
 | mixing / partial | 4 |
 
 ## Calculated phase diagrams
@@ -36,15 +34,6 @@ Table: Assessments with a calculated phase diagram
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GD/GD-SC.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GD/GD-SC.json) · [CALPHAD hull GdSc-00Nor](https://data.orchid-project.org/hulls/calphad-sgte/GD/GD-SC--GdSc-00Nor.json)
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Gd–Sc system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1398.15 K | 1398.15 |  | experimental | [1] Wang 2015; _cites Beaudry 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990129-8) | p. 1; `ORC-EYC6SKBJDZ.cd82dc` | “Based on thermal analysis, optical pyrometer and x-ray diffraction methods, the phase diagram in the Sc-Gd system was measured by Beaudry and Daane,\[12\] who indicated the minimum solidus at 35 at.% Sc and 1275 °C, and the minimum transition temperature from the hcp phase to the bcc phase at 45 at.% Sc and 1125 °C.” |
-| Phase transition | 1548.15 K | 1548.15 | other | experimental | [1] Wang 2015; _cites Beaudry 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990129-8) | p. 1; `ORC-EYC6SKBJDZ.eead17` | “Based on thermal analysis, optical pyrometer and x-ray diffraction methods, the phase diagram in the Sc-Gd system was measured by Beaudry and Daane,\[12\] who indicated the minimum solidus at 35 at.% Sc and 1275 °C, and the minimum transition temperature from the hcp phase to the bcc phase at 45 at.% Sc and 1125 °C.” |
 
 ### Mixing / partial (4)
 

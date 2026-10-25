@@ -152,13 +152,13 @@ Table: Invariant reactions reported in the literature for the Si–Ti system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2192.6 | peritectic: Liquid + Si3Ti5 -> Si4Ti5 | Liquid: Ti 0.509; Si3Ti5: Ti 0.602; Si4Ti5: Ti 0.555 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 5; `ORC-6U4FUWZWGI` |  |
-| 1842.8 | peritectic: Liquid + Si4Ti5 -> SiTi | Liquid: Ti 0.396; Si4Ti5: Ti 0.556; SiTi: Ti 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 4; `ORC-VQE4ZMIDFS` |  |
-| 1747.4 | eutectic: Liquid -> Si2Ti + SiTi | Liquid: Ti 0.363; Si2Ti: Ti 0.333; SiTi: Ti 0.5 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 2; `ORC-SSWXCBSGP3` |  |
-| 1613 | eutectic: Liquid -> Si3Ti5 + bcc-A2 | Liquid: Ti 0.869; Si3Ti5: Ti 0.644; bcc-A2: Ti 0.951 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 7; `ORC-HNMNVQBJHS` |  |
-| 1604.3 | eutectic: Liquid -> diamond + Si2Ti | Liquid: Ti 0.185; diamond: Ti 0; Si2Ti: Ti 0.333 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 1; `ORC-KT3NGU6H5S` |  |
-| 1443.2 | peritectoid: Si3Ti5 + bcc-A2 -> SiTi3 | Si3Ti5: Ti 0.641; bcc-A2: Ti 0.963; SiTi3: Ti 0.75 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 8; `ORC-CHN6XEJLNM` |  |
-| 1139.4 | eutectoid: bcc-A2 -> SiTi3 + hcp-A3 | bcc-A2: Ti 0.988; SiTi3: Ti 0.75; hcp-A3: Ti 0.995 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 9; `ORC-ACN7XDFF5S` |  |
+| 2192.6 | peritectic: Liquid + Si3Ti5 -> Si4Ti5 | Liquid: Ti 0.509; Si3Ti5: Ti 0.602; Si4Ti5: Ti 0.555 | model | [1] (ed.) 1998 | Table I, p. 284, row 5; `ORC-6U4FUWZWGI` |  |
+| 1842.8 | peritectic: Liquid + Si4Ti5 -> SiTi | Liquid: Ti 0.396; Si4Ti5: Ti 0.556; SiTi: Ti 0.5 | model | [1] (ed.) 1998 | Table I, p. 284, row 4; `ORC-VQE4ZMIDFS` |  |
+| 1747.4 | eutectic: Liquid -> Si2Ti + SiTi | Liquid: Ti 0.363; Si2Ti: Ti 0.333; SiTi: Ti 0.5 | model | [1] (ed.) 1998 | Table I, p. 284, row 2; `ORC-SSWXCBSGP3` |  |
+| 1613 | eutectic: Liquid -> Si3Ti5 + bcc-A2 | Liquid: Ti 0.869; Si3Ti5: Ti 0.644; bcc-A2: Ti 0.951 | model | [1] (ed.) 1998 | Table I, p. 284, row 7; `ORC-HNMNVQBJHS` |  |
+| 1604.3 | eutectic: Liquid -> diamond + Si2Ti | Liquid: Ti 0.185; diamond: Ti 0; Si2Ti: Ti 0.333 | model | [1] (ed.) 1998 | Table I, p. 284, row 1; `ORC-KT3NGU6H5S` |  |
+| 1443.2 | peritectoid: Si3Ti5 + bcc-A2 -> SiTi3 | Si3Ti5: Ti 0.641; bcc-A2: Ti 0.963; SiTi3: Ti 0.75 | model | [1] (ed.) 1998 | Table I, p. 284, row 8; `ORC-CHN6XEJLNM` |  |
+| 1139.4 | eutectoid: bcc-A2 -> SiTi3 + hcp-A3 | bcc-A2: Ti 0.988; SiTi3: Ti 0.75; hcp-A3: Ti 0.995 | model | [1] (ed.) 1998 | Table I, p. 284, row 9; `ORC-ACN7XDFF5S` |  |
 
 ## Formation enthalpies
 
@@ -181,8 +181,8 @@ Table: Phase transition, Si–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1757 K | 1757 | congruent melting: Si2Ti -> Liquid; _Si2Ti: Ti 0.333; Liquid: Ti 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 3; `ORC-L6R3XYAI2M` |  |
-| Phase transition | 2394 K | 2394 | congruent melting: Si3Ti5 -> Liquid; _Si3Ti5: Ti 0.625; Liquid: Ti 0.625_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 6; `ORC-V22O4MJJUD` |  |
+| Phase transition | 1757 K | 1757 | congruent melting: Si2Ti -> Liquid; _Si2Ti: Ti 0.333; Liquid: Ti 0.333_ | model | [1] (ed.) 1998 | Table I, p. 284, row 3; `ORC-L6R3XYAI2M` |  |
+| Phase transition | 2394 K | 2394 | congruent melting: Si3Ti5 -> Liquid; _Si3Ti5: Ti 0.625; Liquid: Ti 0.625_ | model | [1] (ed.) 1998 | Table I, p. 284, row 6; `ORC-V22O4MJJUD` |  |
 
 ### Crystal structure (5)
 
@@ -200,7 +200,7 @@ Table: Crystal structure, Si–Ti system
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004). [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507)
 
 ## Please cite

@@ -230,7 +230,7 @@
     "x0": 0.425,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Mg2Tl + MgTl",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -249,7 +249,7 @@
     "x0": 0.425,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Mg2Tl + MgTl",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -268,7 +268,7 @@
     "x0": 0.8,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> MgTl + bcc",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -287,7 +287,7 @@
     "x0": 0.8,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> MgTl + bcc",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

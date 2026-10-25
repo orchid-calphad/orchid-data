@@ -16,7 +16,7 @@ Table: Phases of the Fe–Ni system (10)
 | [BCC_A2](#phase-fe-ni-bcc-a2); _phase:fe-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–1814.99 K, x(Ni) 0–0.09129 | 19 | 15 |
 | [B2_BCC](#phase-fe-ni-bcc-b2); _phase:fe-ni:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1810.96 K, x(Ni) 0–1 | 0 | 3 |
 | [DIS_BCC](#phase-fe-ni-bcc-dis); _phase:fe-ni:bcc-dis_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [FCC_4SL](#phase-fe-ni-fcc-4sl); _phase:fe-ni:fcc-4sl_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1791.47 K, x(Ni) 0–1 | 10 | 5 |
+| [FCC_4SL](#phase-fe-ni-fcc-4sl); _phase:fe-ni:fcc-4sl_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1791.47 K, x(Ni) 0–1 | 12 | 5 |
 | [FCC_A1](#phase-fe-ni-fcc-a1); _phase:fe-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–2499.51 K, x(Ni) 0–1 | 12 | 20 |
 | [L12_FCC](#phase-fe-ni-fcc-l12); _phase:fe-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1788.8 K, x(Ni) 0–0.99805 | 0 | 3 |
 | [FENI3_L12](#phase-fe-ni-feni3-l12); _phase:fe-ni:feni3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–785.65 K, x(Ni) 0.62096–0.88854 | 0 | 1 |
@@ -277,11 +277,11 @@ _assessment that models this phase_
 - Candidate (name_token): Cu · A1 · cF4 · Fm-3m (225) — Strukturbericht/word 'A1' in the TDB name
 - Candidate (sgte_mmc2): AuCu · L1_0 · tP4 · P4/mmm (123) — Hallstedt 2025 mmc2 row for FCC_4SL: AlTi, AuCu, CoPt, CrPt, FeNi, FePt, MnNi
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1791.47 K, x(Ni) 0–1
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ni:fcc-4sl)
 
-Names (9): _corpus: _corpus:phase:fe-ni:fcc-4sl  
-_paper: _paper:10.1016/j.intermet.2010.02.026:FeNi L10, paper:10.1016/j.intermet.2010.02.026:FeNi3, paper:10.1016/j.intermet.2010.02.026:FeNi3 L12  
+Names (10): _corpus: _corpus:phase:fe-ni:fcc-4sl  
+_paper: _paper:10.1016/j.intermet.2010.02.026:Fe3Ni L12, paper:10.1016/j.intermet.2010.02.026:FeNi L10, paper:10.1016/j.intermet.2010.02.026:FeNi3, paper:10.1016/j.intermet.2010.02.026:FeNi3 L12  
 _tdb: _tdb:FeNi-00Ans-4SL.tdb:FCC_4SL, tdb:FeNi-03Dup-LB.tdb:FCC_4SL, tdb:FeNi-03Dup-mod.tdb:FCC_4SL, tdb:FeNi-10Cac.tdb:FCC_4SL, tdb:FeNi-19Ohn.tdb:FCC_4SL  
 
 

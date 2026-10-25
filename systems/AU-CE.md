@@ -1,10 +1,10 @@
 # Au–Ce system
 
-> Au–Ce system: 237 accepted literature values (invariant reaction 129, formation 64, crystal structure 42, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ce system: 231 accepted literature values (invariant reaction 125, formation 64, crystal structure 42) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-CE.html · Markdown: https://data.orchid-project.org/systems/AU-CE.md
 
-237 accepted literature values from 2 paper(s) (experimental 84, model 105, DFT 11, unspecified 37); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+231 accepted literature values from 2 paper(s) (experimental 81, model 102, DFT 11, unspecified 37); 2 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-CE.json) · [CSV](https://data.orchid-project.org/systems/AU-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-CE/AuCe-13Don.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AU-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-CE.html) · [Markdown](https://data.orchid-project.org/systems/AU-CE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 84 |
-| model | 105 |
+| experimental | 81 |
+| model | 102 |
 | DFT | 11 |
 | unspecified | 37 |
 
@@ -21,8 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 129 |
-| phase transition | 2 |
+| invariant reaction | 125 |
 | formation | 64 |
 | crystal structure | 42 |
 
@@ -84,84 +83,80 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Ce system (129)
+Table: Invariant reactions reported in the literature for the Au–Ce system (125)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1645 | L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 15; `ORC-23L3XGPXY2` |  |
-| 1645 | L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 14; `ORC-3EXHIXWEL3` |  |
-| 1645 | Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Gschneider 1987_ | Table 4, p. 5, row 19; `ORC-3HCS4L36SZ` |  |
-| 1645 | Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 4, p. 5, row 17; `ORC-4WLD7DSDW3` |  |
-| 1645 | L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 13; `ORC-6ZZ6HHCGJZ` |  |
-| 1645 | Liq ↔ βCeAu | Liq: Au 0.5; βCeAu: Au 0.5, Ce 0.5 | model | [2] Moustaine 2016 | Table 4, p. 5, row 15; `ORC-74TX76NJKA` |  |
-| 1645 | Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 21; `ORC-AIZQXTNEPA` |  |
-| 1645 | Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 20; `ORC-GIZZ7CEX76` |  |
-| 1645 | L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | experimental | [1] Dong 2013; _cites Mcmasters 1971_ | Table 2, p. 3, row 12; `ORC-LWEYTX4I7C` |  |
-| 1645 | L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013 | Table 2, p. 3, row 16; `ORC-QFKTH5OLRM` |  |
-| 1645 | Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 18; `ORC-SSMRO2FGSK` |  |
-| 1643 | Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 22; `ORC-FPJIG4DLBB` |  |
-| 1623 | Liq ↔ βCeAu | Liq: Au 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 16; `ORC-RNQ3ZSXSBP` |  |
-| 1623 | L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 11; `ORC-VIULUIQ72H` |  |
-| 1493 | Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 50; `ORC-YDFS2R7P3Q` |  |
-| 1491 | Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | model | [2] Moustaine 2016 | Table 4, p. 5, row 44; `ORC-XQXKYNNW7K` |  |
-| 1479 | Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 37; `ORC-FMITEUOKA6` |  |
-| 1477 | Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | model | [2] Moustaine 2016 | Table 4, p. 5, row 31; `ORC-IG527ID3U2` |  |
+| 1645 | congruent melting: L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 15; `ORC-23L3XGPXY2` |  |
+| 1645 | congruent melting: L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 14; `ORC-3EXHIXWEL3` |  |
+| 1645 | congruent melting: Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Gschneider 1987_ | Table 4, p. 5, row 19; `ORC-3HCS4L36SZ` |  |
+| 1645 | congruent melting: Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 4, p. 5, row 17; `ORC-4WLD7DSDW3` |  |
+| 1645 | congruent melting: L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 13; `ORC-6ZZ6HHCGJZ` |  |
+| 1645 | congruent melting: Liq ↔ βCeAu | Liq: Au 0.5; βCeAu: Au 0.5, Ce 0.5 | model | [2] Moustaine 2016 | Table 4, p. 5, row 15; `ORC-74TX76NJKA` |  |
+| 1645 | congruent melting: Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 21; `ORC-AIZQXTNEPA` |  |
+| 1645 | congruent melting: Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 20; `ORC-GIZZ7CEX76` |  |
+| 1645 | congruent melting: L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | experimental | [1] Dong 2013; _cites Mcmasters 1971_ | Table 2, p. 3, row 12; `ORC-LWEYTX4I7C` |  |
+| 1645 | congruent melting: L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013 | Table 2, p. 3, row 16; `ORC-QFKTH5OLRM` |  |
+| 1645 | congruent melting: Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 18; `ORC-SSMRO2FGSK` |  |
+| 1643 | congruent melting: Liq ↔ βCeAu | Liq: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 22; `ORC-FPJIG4DLBB` |  |
+| 1623 | congruent melting: Liq ↔ βCeAu | Liq: Au 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 16; `ORC-RNQ3ZSXSBP` |  |
+| 1623 | congruent melting: L->βAuCe | L: Au 0.5; βAuCe: Au 0.5, Ce 0.5 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 11; `ORC-VIULUIQ72H` |  |
+| 1493 | congruent melting: Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 50; `ORC-YDFS2R7P3Q` |  |
+| 1491 | congruent melting: Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | model | [2] Moustaine 2016 | Table 4, p. 5, row 44; `ORC-XQXKYNNW7K` |  |
+| 1479 | congruent melting: Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 37; `ORC-FMITEUOKA6` |  |
+| 1477 | congruent melting: Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | model | [2] Moustaine 2016 | Table 4, p. 5, row 31; `ORC-IG527ID3U2` |  |
 | 1470 | Liq + βCeAu ↔ Ce9Au11 | Liq: Au 0.59; βCeAu: Au 0.516; Ce9Au11: Au 0.555 | model | [2] Moustaine 2016 | Table 4, p. 5, row 68; `ORC-M7M7DIVQJG` |  |
 | 1470 | Liq + βCeAu ↔ Ce9Au11 | Liq: Au 0.58; βCeAu: Au 0.52; Ce9Au11: Au 0.555 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 69; `ORC-TMWZWCQV47` |  |
-| 1423 | L->Au51Ce14 | L: Au 0.797; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013 | Table 2, p. 3, row 40; `ORC-3RBLJSIQY5` |  |
-| 1423 | Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 48; `ORC-3YWEWNGEQO` |  |
-| 1423 | Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Gschneider 1987_ | Table 4, p. 5, row 47; `ORC-5MGN34OM4U` |  |
-| 1423 | Liq ↔ βCe14Au51 | Liq: Au 0.75; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 45; `ORC-AJWH2ZHU2U` |  |
-| 1423 | L->Au51Ce14 | L: Au 0.797; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 39; `ORC-BAIZWX7W3L` |  |
+| 1423 | congruent melting: L->Au51Ce14 | L: Au 0.797; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013 | Table 2, p. 3, row 40; `ORC-3RBLJSIQY5` |  |
+| 1423 | congruent melting: Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 48; `ORC-3YWEWNGEQO` |  |
+| 1423 | congruent melting: Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Gschneider 1987_ | Table 4, p. 5, row 47; `ORC-5MGN34OM4U` |  |
+| 1423 | congruent melting: Liq ↔ βCe14Au51 | Liq: Au 0.75; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 45; `ORC-AJWH2ZHU2U` |  |
+| 1423 | congruent melting: L->Au51Ce14 | L: Au 0.797; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 39; `ORC-BAIZWX7W3L` |  |
 | 1423 | Liq ↔ CeAu2 + βCe14Au51 | Liq: Au 0.724; CeAu2: Au 0.666667, Ce 0.333333; βCe14Au51: Au 0.784615, Ce 0.215385 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 43; `ORC-EOL2XZCWVU` |  |
-| 1423 | Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 46; `ORC-EXI2UKTLQ5` |  |
-| 1423 | L->Au51Ce14 | L: Au 0.797; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 38; `ORC-H3ADJMXV2M` |  |
-| 1423 | L->Au51Ce14 | L: Au 0.797; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 37; `ORC-IOVL4T5NWB` |  |
-| 1423 | L->Au51Ce14 | L: Au 0.75; Au51Ce14: Au 0.784615, Ce 0.215385 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 36; `ORC-OAOPY5AOB6` |  |
+| 1423 | congruent melting: Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 46; `ORC-EXI2UKTLQ5` |  |
+| 1423 | congruent melting: L->Au51Ce14 | L: Au 0.797; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 38; `ORC-H3ADJMXV2M` |  |
+| 1423 | congruent melting: L->Au51Ce14 | L: Au 0.797; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 37; `ORC-IOVL4T5NWB` |  |
+| 1423 | congruent melting: L->Au51Ce14 | L: Au 0.75; Au51Ce14: Au 0.784615, Ce 0.215385 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 36; `ORC-OAOPY5AOB6` |  |
 | 1423 | Liq ↔ CeAu2 + βCe14Au51 | Liq: Au 0.69; CeAu2: Au 0.666667, Ce 0.333333; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 42; `ORC-P6EIE6EJ5A` |  |
 | 1423 | Liq ↔ CeAu2 + βCe14Au51 | Liq: Au 0.72; CeAu2: Au 0.666667, Ce 0.333333; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Gschneider 1987_ | Table 4, p. 5, row 41; `ORC-PXWMVB44AT` |  |
 | 1423 | Liq ↔ CeAu2 + βCe14Au51 | Liq: Au 0.69; CeAu2: Au 0.666667, Ce 0.333333; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 40; `ORC-W4EEAXLRPE` |  |
-| 1423 | Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 49; `ORC-WHD2JYJOJO` |  |
+| 1423 | congruent melting: Liq ↔ βCe14Au51 | Liq: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 49; `ORC-WHD2JYJOJO` |  |
 | 1423 | Liq ↔ CeAu2 + βCe14Au51 | Liq: Au 0.69; CeAu2: Au 0.666667, Ce 0.333333; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 39; `ORC-YTDNLVVV4J` |  |
-| 1403 | L->Au2Ce | L: Au 0.667; Au2Ce: Au 0.666667, Ce 0.333333 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 26; `ORC-AB7HP5CX73` |  |
-| 1403 | Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 33; `ORC-AIYR5FYK3I` |  |
-| 1403 | Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 35; `ORC-EKG3YQ4ACK` |  |
-| 1403 | Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | experimental | [2] Moustaine 2016; _cites Gschneider 1987_ | Table 4, p. 5, row 34; `ORC-GWVKF6S42B` |  |
-| 1403 | L->Au2Ce | L: Au 0.667; Au2Ce: Au 0.666667, Ce 0.333333 | model | [1] Dong 2013 | Table 2, p. 3, row 30; `ORC-JKZB2DBXA4` |  |
-| 1403 | L->Au2Ce | L: Au 0.667; Au2Ce: Au 0.666667, Ce 0.333333 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 29; `ORC-MHBPHRIV7Q` |  |
-| 1403 | L->Au2Ce | L: Au 0.667; Au2Ce: Au 0.666667, Ce 0.333333 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 27; `ORC-OIWE3ZMSXX` |  |
-| 1403 | Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 36; `ORC-TTMNA227PT` |  |
-| 1403 | L->Au2Ce | L: Au 0.667; Au2Ce: Au 0.666667, Ce 0.333333 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 28; `ORC-Y5F5P3F4YJ` |  |
-| 1403 | Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 32; `ORC-ZUXFCYAUMZ` |  |
+| 1403 | congruent melting: L->Au2Ce | L: Au 0.667; Au2Ce: Au 0.666667, Ce 0.333333 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 26; `ORC-AB7HP5CX73` |  |
+| 1403 | congruent melting: Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 33; `ORC-AIYR5FYK3I` |  |
+| 1403 | congruent melting: Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 35; `ORC-EKG3YQ4ACK` |  |
+| 1403 | congruent melting: Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | experimental | [2] Moustaine 2016; _cites Gschneider 1987_ | Table 4, p. 5, row 34; `ORC-GWVKF6S42B` |  |
+| 1403 | congruent melting: L->Au2Ce | L: Au 0.667; Au2Ce: Au 0.666667, Ce 0.333333 | model | [1] Dong 2013 | Table 2, p. 3, row 30; `ORC-JKZB2DBXA4` |  |
+| 1403 | congruent melting: L->Au2Ce | L: Au 0.667; Au2Ce: Au 0.666667, Ce 0.333333 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 29; `ORC-MHBPHRIV7Q` |  |
+| 1403 | congruent melting: L->Au2Ce | L: Au 0.667; Au2Ce: Au 0.666667, Ce 0.333333 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 27; `ORC-OIWE3ZMSXX` |  |
+| 1403 | congruent melting: Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 36; `ORC-TTMNA227PT` |  |
+| 1403 | congruent melting: L->Au2Ce | L: Au 0.667; Au2Ce: Au 0.666667, Ce 0.333333 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 28; `ORC-Y5F5P3F4YJ` |  |
+| 1403 | congruent melting: Liq ↔ CeAu2 | Liq: Au 0.667; CeAu2: Au 0.666667, Ce 0.333333 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 32; `ORC-ZUXFCYAUMZ` |  |
 | 1376 | Liq ↔ CeAu2 + Ce9Au11 | Liq: Au 0.62; CeAu2: Au 0.667; Ce9Au11: Au 0.55 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 30; `ORC-ARLRGHPLGI` |  |
 | 1376 | Liq ↔ CeAu2 + Ce9Au11 | Liq: Au 0.62; CeAu2: Au 0.667; Ce9Au11: Au 0.55 | model | [2] Moustaine 2016 | Table 4, p. 5, row 29; `ORC-B7LTJNMTBU` |  |
-| 1353 | L->Au2Ce+βAuCe | L: Au 0.628; Au2Ce: Au 0.666667, Ce 0.333333; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 23; `ORC-OULBYJR4Q4` |  |
-| 1353 | eutectic |  | model | [1] Dong 2013; _cites Gschneidner 1987_ | p. 9; `ORC-SGGLHPXPFP.a4e6cf` | “As shown in Fig. 3, the present calculations fit well with those experimentally determined points \[9,11\] with only exceptions: (a) the temperature of eutectic reaction involving βAuCe and Au2Ce phases being 1337 K, instead of 1268 K from \[9,13,18\], or 1353 K from \[14\]; (b) the eutectic point being closer to the Au-rich side here than in \[9,13,18\]; and (c) the slight deviation of the phase boundar…” |
+| 1353 | eutectic: L->Au2Ce+βAuCe | L: Au 0.628; Au2Ce: Au 0.666667, Ce 0.333333; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 23; `ORC-OULBYJR4Q4` |  |
 | 1341 | Liq ↔ CeAu2 + βCe14Au51 | Liq: Au 0.723; CeAu2: Au 0.666667, Ce 0.333333; βCe14Au51: Au 0.784615, Ce 0.215385 | model | [2] Moustaine 2016 | Table 4, p. 5, row 38; `ORC-W2KDGIPPWC` |  |
-| 1337 | L->Au2Ce+βAuCe | L: Au 0.615; Au2Ce: Au 0.666667, Ce 0.333333; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013 | Table 2, p. 3, row 25; `ORC-E3NRJDV36M` |  |
-| 1337 | eutectic |  | model | [1] Dong 2013 | p. 9; `ORC-SGGLHPXPFP.b2b034` | “As shown in Fig. 3, the present calculations fit well with those experimentally determined points \[9,11\] with only exceptions: (a) the temperature of eutectic reaction involving βAuCe and Au2Ce phases being 1337 K, instead of 1268 K from \[9,13,18\], or 1353 K from \[14\]; (b) the eutectic point being closer to the Au-rich side here than in \[9,13,18\]; and (c) the slight deviation of the phase boundar…” |
-| 1311 | L->Au2Ce+Au51Ce14 | L: Au 0.724; Au2Ce: Au 0.666667, Ce 0.333333; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013 | Table 2, p. 3, row 35; `ORC-COFLTS72WP` |  |
-| 1298 | L->Au2Ce+Au51Ce14 | L: Au 0.69; Au2Ce: Au 0.666667, Ce 0.333333; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 32; `ORC-2TMGS57MJO` |  |
-| 1298 | L->Au2Ce+Au51Ce14 | L: Au 0.69; Au2Ce: Au 0.666667, Ce 0.333333; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 34; `ORC-BKC2WOTRFS` |  |
-| 1298 | L->Au2Ce+Au51Ce14 | L: Au 0.69; Au2Ce: Au 0.666667, Ce 0.333333; Au51Ce14: Au 0.784615, Ce 0.215385 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 31; `ORC-ISA6NOZFOB` |  |
-| 1298 | L->Au2Ce+Au51Ce14 | L: Au 0.72; Au2Ce: Au 0.666667, Ce 0.333333; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 33; `ORC-XUSWUXHZ6X` |  |
-| 1268 | L->Au2Ce+βAuCe | L: Au 0.613; Au2Ce: Au 0.666667, Ce 0.333333; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 22; `ORC-NH6STRBWHM` |  |
-| 1268 | eutectic |  | experimental | [1] Dong 2013; _cites Vogel 1943_ | p. 9; `ORC-SGGLHPXPFP.e6fcca` | “As shown in Fig. 3, the present calculations fit well with those experimentally determined points \[9,11\] with only exceptions: (a) the temperature of eutectic reaction involving βAuCe and Au2Ce phases being 1337 K, instead of 1268 K from \[9,13,18\], or 1353 K from \[14\]; (b) the eutectic point being closer to the Au-rich side here than in \[9,13,18\]; and (c) the slight deviation of the phase boundar…” |
-| 1268 | eutectic |  | model | [1] Dong 2013; _cites Gschneidner 1987_ | p. 9; `ORC-STGERDY4QE` | “In order to fulfill both the liquidus symmetry and the enthalpy of formation of the Au2Ce, the eutectic temperature (1268 K) had to be sacrificed, similarly to that done in \[14\].” |
-| 1268 | L->Au2Ce+βAuCe | L: Au 0.62; Au2Ce: Au 0.666667, Ce 0.333333; βAuCe: Au 0.5, Ce 0.5 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 21; `ORC-UHGRGHQLKE` |  |
-| 1268 | L->Au2Ce+βAuCe | L: Au 0.613; Au2Ce: Au 0.666667, Ce 0.333333; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 24; `ORC-ULQKPOFCIZ` |  |
-| 1203 | αCe14Au51 ↔ βCe14Au51 | αCe14Au51: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | model | [2] Moustaine 2016 | Table 4, p. 5, row 51; `ORC-46HW3AXNIA` |  |
-| 1203 | αCe14Au51 ↔ βCe14Au51 | αCe14Au51: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 52; `ORC-MMAZJSDPPI` |  |
+| 1337 | eutectic: L->Au2Ce+βAuCe | L: Au 0.615; Au2Ce: Au 0.666667, Ce 0.333333; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013 | Table 2, p. 3, row 25; `ORC-E3NRJDV36M` |  |
+| 1311 | eutectic: L->Au2Ce+Au51Ce14 | L: Au 0.724; Au2Ce: Au 0.666667, Ce 0.333333; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013 | Table 2, p. 3, row 35; `ORC-COFLTS72WP` |  |
+| 1298 | eutectic: L->Au2Ce+Au51Ce14 | L: Au 0.69; Au2Ce: Au 0.666667, Ce 0.333333; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 32; `ORC-2TMGS57MJO` |  |
+| 1298 | eutectic: L->Au2Ce+Au51Ce14 | L: Au 0.69; Au2Ce: Au 0.666667, Ce 0.333333; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 34; `ORC-BKC2WOTRFS` |  |
+| 1298 | eutectic: L->Au2Ce+Au51Ce14 | L: Au 0.69; Au2Ce: Au 0.666667, Ce 0.333333; Au51Ce14: Au 0.784615, Ce 0.215385 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 31; `ORC-ISA6NOZFOB` |  |
+| 1298 | eutectic: L->Au2Ce+Au51Ce14 | L: Au 0.72; Au2Ce: Au 0.666667, Ce 0.333333; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 33; `ORC-XUSWUXHZ6X` |  |
+| 1268 | eutectic: L->Au2Ce+βAuCe | L: Au 0.613; Au2Ce: Au 0.666667, Ce 0.333333; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 22; `ORC-NH6STRBWHM` |  |
+| 1268 | eutectic: L->Au2Ce+βAuCe | L: Au 0.62; Au2Ce: Au 0.666667, Ce 0.333333; βAuCe: Au 0.5, Ce 0.5 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 21; `ORC-UHGRGHQLKE` |  |
+| 1268 | eutectic: L->Au2Ce+βAuCe | L: Au 0.613; Au2Ce: Au 0.666667, Ce 0.333333; βAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 24; `ORC-ULQKPOFCIZ` |  |
+| 1203 | polymorphic: αCe14Au51 ↔ βCe14Au51 | αCe14Au51: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | model | [2] Moustaine 2016 | Table 4, p. 5, row 51; `ORC-46HW3AXNIA` |  |
+| 1203 | polymorphic: αCe14Au51 ↔ βCe14Au51 | αCe14Au51: Au 0.785; βCe14Au51: Au 0.784615, Ce 0.215385 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 52; `ORC-MMAZJSDPPI` |  |
 | 1173 | Liq + αCe14Au51 ↔ CeAu6 | Liq: Au 0.89; αCe14Au51: Au 0.785; CeAu6: Au 0.857 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 56; `ORC-YICTYE24VS` |  |
 | 1143 | L+Au51Ce14->Au6Ce | L: Au 0.89; Au51Ce14: Au 0.784615, Ce 0.215385; Au6Ce: Au 0.857143, Ce 0.142857 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 41; `ORC-ICUS4JLDFE` |  |
 | 1143 | Liq + αCe14Au51 ↔ CeAu6 | Liq: Au 0.874; αCe14Au51: Au 0.785; CeAu6: Au 0.857 | experimental | [2] Moustaine 2016; _cites Gschneider 1987_ | Table 4, p. 5, row 55; `ORC-JDTOF65DAS` |  |
 | 1143 | L+Au51Ce14->Au6Ce | L: Au 0.874; Au51Ce14: Au 0.784615, Ce 0.215385; Au6Ce: Au 0.857143, Ce 0.142857 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 42; `ORC-QN6SCROLXD` |  |
 | 1143 | Liq + αCe14Au51 ↔ CeAu6 | Liq: Au 0.89; αCe14Au51: Au 0.785; CeAu6: Au 0.857 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 54; `ORC-TYMUWX72BV` |  |
-| 1081 | L->Au6Ce+Au(fcc) | L: Au 0.902; Au6Ce: Au 0.857143, Ce 0.142857 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 45; `ORC-65ZU7DNZNA` |  |
-| 1081 | L->Au6Ce+Au(fcc) | L: Au 0.91; Au6Ce: Au 0.857143, Ce 0.142857 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 47; `ORC-BIKBRRXSMA` |  |
+| 1081 | eutectic: L->Au6Ce+Au(fcc) | L: Au 0.902; Au6Ce: Au 0.857143, Ce 0.142857 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 45; `ORC-65ZU7DNZNA` |  |
+| 1081 | eutectic: L->Au6Ce+Au(fcc) | L: Au 0.91; Au6Ce: Au 0.857143, Ce 0.142857 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 47; `ORC-BIKBRRXSMA` |  |
 | 1081 | Liq ↔ CeAu6 + Au (fcc) | Liq: Au 0.905; CeAu6: Au 0.857; Au (fcc): Au 1 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 64; `ORC-D5KVFV7WOX` |  |
-| 1081 | L->Au6Ce+Au(fcc) | L: Au 0.905; Au6Ce: Au 0.857143, Ce 0.142857 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 48; `ORC-JDUJOC7VG7` |  |
-| 1081 | L->Au6Ce+Au(fcc) | L: Au 0.905; Au6Ce: Au 0.857143, Ce 0.142857 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 46; `ORC-M2VM6VDOEV` |  |
+| 1081 | eutectic: L->Au6Ce+Au(fcc) | L: Au 0.905; Au6Ce: Au 0.857143, Ce 0.142857 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 48; `ORC-JDUJOC7VG7` |  |
+| 1081 | eutectic: L->Au6Ce+Au(fcc) | L: Au 0.905; Au6Ce: Au 0.857143, Ce 0.142857 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 46; `ORC-M2VM6VDOEV` |  |
 | 1081 | Liq ↔ CeAu6 + Au (fcc) | Liq: Au 0.91; CeAu6: Au 0.857; Au (fcc): Au 1 | experimental | [2] Moustaine 2016; _cites Gschneider 1987_ | Table 4, p. 5, row 63; `ORC-QKF7SHOTIW` |  |
 | 1081 | Liq ↔ CeAu6 + Au (fcc) | Liq: Au 0.902; CeAu6: Au 0.857; Au (fcc): Au 1 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 61; `ORC-YZOQJKIJ55` |  |
 | 1081 | Liq ↔ CeAu6 + Au (fcc) | Liq: Au 0.905; CeAu6: Au 0.857; Au (fcc): Au 1 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 62; `ORC-ZFKHKMKVTZ` |  |
@@ -170,7 +165,7 @@ Table: Invariant reactions reported in the literature for the Au–Ce system (12
 | 1071 | Liq ↔ CeAu6 + Au (fcc) | Liq: Au 0.915; CeAu6: Au 0.857; Au (fcc): Au 1 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 67; `ORC-67LGY6KMGL` |  |
 | 1065 | Liq ↔ CeAu6 + Au (fcc) | Liq: Au 0.905; CeAu6: Au 0.857; Au (fcc): Au 1 | model | [2] Moustaine 2016 | Table 4, p. 5, row 60; `ORC-P75J7GCXHW` |  |
 | 1023 | L+Au51Ce14->Au6Ce | Au51Ce14: Au 0.784615, Ce 0.215385; Au6Ce: Au 0.857143, Ce 0.142857 | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 2, p. 3, row 43; `ORC-LHMIVGRXU5` |  |
-| 1023 | L->Au6Ce+Au(fcc) | Au6Ce: Au 0.857143, Ce 0.142857 | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 2, p. 3, row 49; `ORC-LOWRRZ7ZLP` |  |
+| 1023 | eutectic: L->Au6Ce+Au(fcc) | Au6Ce: Au 0.857143, Ce 0.142857 | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 2, p. 3, row 49; `ORC-LOWRRZ7ZLP` |  |
 | 1023 | βAuCe+Au2Ce->Au4Ce3 | βAuCe: Au 0.571; Au2Ce: Au 0.666667, Ce 0.333333; Au4Ce3: Au 0.571429, Ce 0.428571 | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 2, p. 3, row 51; `ORC-QNNRTJDSSJ` |  |
 | 1023 | Liq ↔ CeAu6 + Au (fcc) | CeAu6: Au 0.857; Au (fcc): Au 1 | experimental | [2] Moustaine 2016; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 4, p. 5, row 65; `ORC-U65TLSTQQT` |  |
 | 1023 | Liq + αCe14Au51 ↔ CeAu6 | αCe14Au51: Au 0.785; CeAu6: Au 0.857 | experimental | [2] Moustaine 2016; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 4, p. 5, row 57; `ORC-YRJ2DE2ZDS` |  |
@@ -182,7 +177,7 @@ Table: Invariant reactions reported in the literature for the Au–Ce system (12
 | 971 | δ(Ce) ↔ γ(Ce) + Liq | δ(Ce): Au 0.015; γ(Ce): Au 0.0074; Liq: Au 0.097 | model | [2] Moustaine 2016 | Table 4, p. 5, row 70; `ORC-FB3WD3QKKB` |  |
 | 969 | δ(Ce) ↔ γ(Ce) + Liq | δ(Ce): Au 0.02; γ(Ce): Au 0.01; Liq: Au 0.059 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 71; `ORC-VUF3V3LX5T` |  |
 | 941 | Liq ↔ CeAu6 + Au (fcc) | Liq: Au 0.917; CeAu6: Au 0.857; Au (fcc): Au 1 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 66; `ORC-7J55ZDZLB3` |  |
-| 941 | L->Au6Ce+Au(fcc) | L: Au 0.917; Au6Ce: Au 0.857143, Ce 0.142857 | model | [1] Dong 2013 | Table 2, p. 3, row 50; `ORC-ADVT3ITIZQ` |  |
+| 941 | eutectic: L->Au6Ce+Au(fcc) | L: Au 0.917; Au6Ce: Au 0.857143, Ce 0.142857 | model | [1] Dong 2013 | Table 2, p. 3, row 50; `ORC-ADVT3ITIZQ` |  |
 | 940 | Liq + βCeAu ↔ Ce2Au | Liq: Au 0.277; βCeAu: Au 0.5; Ce2Au: Au 0.333 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 13; `ORC-J6JTO2DHRE` |  |
 | 940 | L+βAuCe->AuCe2 | L: Au 0.277; βAuCe: Au 0.5, Ce 0.5; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013 | Table 2, p. 3, row 10; `ORC-VG7LGBQGEX` |  |
 | 938 | L+βAuCe->AuCe2 | L: Au 0.24; βAuCe: Au 0.5, Ce 0.5; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 9; `ORC-5CIXVMHG5Y` |  |
@@ -193,28 +188,28 @@ Table: Invariant reactions reported in the literature for the Au–Ce system (12
 | 938 | L+βAuCe->AuCe2 | L: Au 0.252; βAuCe: Au 0.5, Ce 0.5; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 8; `ORC-UDSOMSWKJT` |  |
 | 930 | Liq + βCeAu ↔ Ce2Au | Liq: Au 0.215; βCeAu: Au 0.5; Ce2Au: Au 0.333 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 9; `ORC-RVA55B36R4` |  |
 | 930 | L+βAuCe->AuCe2 | L: Au 0.215; βAuCe: Au 0.5, Ce 0.5; AuCe2: Au 0.333333, Ce 0.666667 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 6; `ORC-S6ZLKCUIHW` |  |
-| 865 | αCeAu ↔ βCeAu | αCeAu: Au 0.5; βCeAu: Au 0.5, Ce 0.5 | model | [2] Moustaine 2016 | Table 4, p. 5, row 23; `ORC-JDUMWV6F36` |  |
-| 865 | αCeAu ↔ βCeAu | αCeAu: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 28; `ORC-KLUCJYOMUA` |  |
+| 865 | polymorphic: αCeAu ↔ βCeAu | αCeAu: Au 0.5; βCeAu: Au 0.5, Ce 0.5 | model | [2] Moustaine 2016 | Table 4, p. 5, row 23; `ORC-JDUMWV6F36` |  |
+| 865 | polymorphic: αCeAu ↔ βCeAu | αCeAu: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 28; `ORC-KLUCJYOMUA` |  |
 | 821 | Liq ↔ Ce2Au + γCe | Liq: Au 0.181; Ce2Au: Au 0.334; γCe: Au 0.0231 | model | [2] Moustaine 2016 | Table 4, p. 5, row 1; `ORC-YFZNM7VZKN` |  |
 | 818 | Liq ↔ Ce2Au + γCe | Liq: Au 0.17; Ce2Au: Au 0.334 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 7; `ORC-MFLBPEPK5A` |  |
-| 793 | L->γCe+AuCe2 | L: Au 0.16; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 2; `ORC-4WQDXWP3MF` |  |
-| 793 | L->γCe+AuCe2 | L: Au 0.164; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013 | Table 2, p. 3, row 5; `ORC-BIZ6FYPEKK` |  |
+| 793 | eutectic: L->γCe+AuCe2 | L: Au 0.16; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 2; `ORC-4WQDXWP3MF` |  |
+| 793 | eutectic: L->γCe+AuCe2 | L: Au 0.164; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013 | Table 2, p. 3, row 5; `ORC-BIZ6FYPEKK` |  |
 | 793 | Liq ↔ Ce2Au + γCe | Liq: Au 0.16; Ce2Au: Au 0.334 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 3; `ORC-E4R6ROLJKJ` |  |
-| 793 | L->γCe+AuCe2 | L: Au 0.16; AuCe2: Au 0.333333, Ce 0.666667 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 1; `ORC-HDIIVEEJDK` |  |
+| 793 | eutectic: L->γCe+AuCe2 | L: Au 0.16; AuCe2: Au 0.333333, Ce 0.666667 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 1; `ORC-HDIIVEEJDK` |  |
 | 793 | Liq ↔ Ce2Au + γCe | Liq: Au 0.16; Ce2Au: Au 0.334 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 5; `ORC-HX4NMEBQDB` |  |
 | 793 | Liq ↔ Ce2Au + γCe | Liq: Au 0.16; Ce2Au: Au 0.334 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 2; `ORC-KJZAGFOGL4` |  |
-| 793 | L->γCe+AuCe2 | L: Au 0.16; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 4; `ORC-MQVOXAMGAW` |  |
-| 793 | L->γCe+AuCe2 | L: Au 0.16; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 3; `ORC-UEMMCHFYFQ` |  |
+| 793 | eutectic: L->γCe+AuCe2 | L: Au 0.16; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 4; `ORC-MQVOXAMGAW` |  |
+| 793 | eutectic: L->γCe+AuCe2 | L: Au 0.16; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 3; `ORC-UEMMCHFYFQ` |  |
 | 793 | Liq ↔ Ce2Au + γCe | Liq: Au 0.164; Ce2Au: Au 0.334 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 6; `ORC-VV2ZQA34XI` |  |
 | 793 | Liq ↔ Ce2Au + γCe | Liq: Au 0.16; Ce2Au: Au 0.334 | experimental | [2] Moustaine 2016; _cites Gschneider 1987_ | Table 4, p. 5, row 4; `ORC-WZXTD55E4O` |  |
-| 753 | βAuCe->αAuCe | βAuCe: Au 0.5, Ce 0.5; αAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013 | Table 2, p. 3, row 20; `ORC-2ODRO5BLEI` |  |
-| 753 | βAuCe->αAuCe | βAuCe: Au 0.5, Ce 0.5; αAuCe: Au 0.5, Ce 0.5 | experimental | [1] Dong 2013; _cites Mcmasters 1971_ | Table 2, p. 3, row 17; `ORC-3JPSFN73YZ` |  |
-| 753 | αCeAu ↔ βCeAu | αCeAu: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 25; `ORC-BACAD5IEC3` |  |
-| 753 | βAuCe->αAuCe | βAuCe: Au 0.5, Ce 0.5; αAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 18; `ORC-GOBWXMKZBU` |  |
-| 753 | αCeAu ↔ βCeAu | αCeAu: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 26; `ORC-GV6AQE5HXW` |  |
-| 753 | αCeAu ↔ βCeAu | αCeAu: Au 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 4, p. 5, row 24; `ORC-JNIUT6IR7M` |  |
-| 753 | αCeAu ↔ βCeAu | αCeAu: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 27; `ORC-OEB4VTIP37` |  |
-| 753 | βAuCe->αAuCe | βAuCe: Au 0.5, Ce 0.5; αAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 19; `ORC-POMXFT4Z6Y` |  |
+| 753 | polymorphic: βAuCe->αAuCe | βAuCe: Au 0.5, Ce 0.5; αAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013 | Table 2, p. 3, row 20; `ORC-2ODRO5BLEI` |  |
+| 753 | polymorphic: βAuCe->αAuCe | βAuCe: Au 0.5, Ce 0.5; αAuCe: Au 0.5, Ce 0.5 | experimental | [1] Dong 2013; _cites Mcmasters 1971_ | Table 2, p. 3, row 17; `ORC-3JPSFN73YZ` |  |
+| 753 | polymorphic: αCeAu ↔ βCeAu | αCeAu: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 4, p. 5, row 25; `ORC-BACAD5IEC3` |  |
+| 753 | polymorphic: βAuCe->αAuCe | βAuCe: Au 0.5, Ce 0.5; αAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1986_ | Table 2, p. 3, row 18; `ORC-GOBWXMKZBU` |  |
+| 753 | polymorphic: αCeAu ↔ βCeAu | αCeAu: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Gschneidner 1990_ | Table 4, p. 5, row 26; `ORC-GV6AQE5HXW` |  |
+| 753 | polymorphic: αCeAu ↔ βCeAu | αCeAu: Au 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 4, p. 5, row 24; `ORC-JNIUT6IR7M` |  |
+| 753 | polymorphic: αCeAu ↔ βCeAu | αCeAu: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 4, p. 5, row 27; `ORC-OEB4VTIP37` |  |
+| 753 | polymorphic: βAuCe->αAuCe | βAuCe: Au 0.5, Ce 0.5; αAuCe: Au 0.5, Ce 0.5 | model | [1] Dong 2013; _cites Gschneidner 1990_ | Table 2, p. 3, row 19; `ORC-POMXFT4Z6Y` |  |
 | 465 | eutectoid |  | model | [1] Dong 2013; _cites Gschneidner 1987_ | p. 3; `ORC-LHBSXZ3NJM` | “Besides, they also proposed a eutectoid reaction of Au2Ce at 465 K \[14\].” |
 | 465 | Au2Ce->Au4Ce3+Au51Ce14 | Au2Ce: Au 0.667; Au4Ce3: Au 0.571429, Ce 0.428571; Au51Ce14: Au 0.784615, Ce 0.215385 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 53; `ORC-PLOQHPMBM2` |  |
 
@@ -277,15 +272,6 @@ Table: Enthalpies of formation, Au–Ce system (49)
 | βCeAu |  | -74.71 kJ/mol-atom | 298.15 | DFT |  |  | [2] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 12; `ORC-VDSEVXOHKO` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Au–Ce system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1203 K | 1203 | aCe14Au51 4 bCe14Au51 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | p. 2; `ORC-WK23S32G4S` | “LomelloeTafin et al. \[29\] reported also the existence of a aCe14Au51 4 bCe14Au51 transition at 1203 K.” |
-| Phase transition | 1479 K | 1479 |  | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | p. 2; `ORC-RMKM75EFQW` | “The melting point of the CeAu2 phase, measured by Ref. \[29\] was 1479 K, higher by 76 K than the determined one by Vogel et al. \[32\].” |
 
 ### Formation (15)
 

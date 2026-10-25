@@ -79,7 +79,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:al11nd3-alpha)
 
 Names (7): _corpus: _corpus:phase:al-nd:al11nd3-alpha  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al11Nd3-L  
+_paper: _paper:sha256-85fd53a1a176b694:Al11Nd3-L  
 _tdb: _tdb:AlNd-01Cac.tdb:AL11ND3_ALPHA, tdb:AlNd-03Cac.tdb:AL11ND3_ALPHA, tdb:AlNd-19Lia.tdb:AL11ND3_ALPHA, tdb:AlNd-91Cac-LB.tdb:AL11ND3_ALPHA, tdb:AlNd-96Cla.tdb:AL11ND3_ALPHA  
 
 
@@ -120,7 +120,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:AL11ND3_ALPHA, tdb:AlNd-03Cac.tdb:AL11ND3_ALPHA, tdb:A
 48: CONST AL11ND3_ALPHA : AL : ND : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -130,8 +130,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(02)00009-3](https://doi.org/10.1016/S0364-5916%2802%2900009-3) G. Cacciamani, R. Ferro, Calphad, 25, 583-97(2001).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL11ND3_D13 (Al–Nd)
 
@@ -151,7 +149,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:al11nd3-d13)
 
 Names (7): _corpus: _corpus:phase:al-nd:al11nd3-d13  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al11Nd3-H  
+_paper: _paper:sha256-85fd53a1a176b694:Al11Nd3-H  
 _tdb: _tdb:AlNd-01Cac.tdb:AL11ND3_D13, tdb:AlNd-03Cac.tdb:AL11ND3_D13, tdb:AlNd-19Lia.tdb:AL11ND3_D13, tdb:AlNd-91Cac-LB.tdb:AL11ND3_D13, tdb:AlNd-96Cla.tdb:AL11ND3_D13  
 
 
@@ -192,7 +190,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:AL11ND3_D13, tdb:AlNd-03Cac.tdb:AL11ND3_D13, tdb:AlNd-
 53: CONST AL11ND3_D13 : AL : ND : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -202,8 +200,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(02)00009-3](https://doi.org/10.1016/S0364-5916%2802%2900009-3) G. Cacciamani, R. Ferro, Calphad, 25, 583-97(2001).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL2ND_C15 (Al–Nd)
 
@@ -216,7 +212,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:al2nd-c15)
 
 Names (11): _corpus: _corpus:phase:al-nd:al2nd-c15  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al2Nd, paper:10.1016/s0364-5916(98)00037-6:Al2Nd \*, paper:10.1016/s0364-5916(98)00037-6:Laves-C15\*  
+_paper: _paper:sha256-85fd53a1a176b694:Al2Nd, paper:sha256-85fd53a1a176b694:Al2Nd \*, paper:sha256-85fd53a1a176b694:Laves-C15\*  
 _tdb: _tdb:AlNd-01Cac.tdb:AL2ND_C15, tdb:AlNd-03Cac.tdb:AL2ND_C15, tdb:AlNd-05Gao.tdb:AL2ND_C15, tdb:AlNd-19Lia.tdb:AL2ND_C15, tdb:AlNd-91Cac-LB.tdb:AL2ND_C15, tdb:AlNd-96Cla.tdb:AL2ND_C15, tdb:AlNd-96Wan.tdb:AL2ND_C15  
 
 
@@ -271,7 +267,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:AL2ND_C15, tdb:AlNd-03Cac.tdb:AL2ND_C15, tdb:AlNd-05Ga
 59: CONST AL2ND_C15 : AL : ND : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -285,8 +281,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00020-X](https://doi.org/10.1016/S0364-5916%2896%2900020-X) J. Wang, Calphad, 20, 135-38(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL3ND_BETA (Al–Nd)
 
@@ -328,7 +322,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:al3nd-d019)
 
 Names (8): _corpus: _corpus:phase:al-nd:al3nd-d019  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al3Nd  
+_paper: _paper:sha256-85fd53a1a176b694:Al3Nd  
 _tdb: _tdb:AlNd-01Cac.tdb:AL3ND_D019, tdb:AlNd-05Gao.tdb:AL3ND_D019, tdb:AlNd-19Lia.tdb:AL3ND_D019, tdb:AlNd-91Cac-LB.tdb:AL3ND_D019, tdb:AlNd-96Cla.tdb:AL3ND_D019, tdb:AlNd-96Wan.tdb:AL3ND_D019  
 
 
@@ -376,7 +370,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:AL3ND_D019, tdb:AlNd-05Gao.tdb:AL3ND_D019, tdb:AlNd-19
 54: CONST AL3ND_D019 : AL : ND : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -388,8 +382,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00020-X](https://doi.org/10.1016/S0364-5916%2896%2900020-X) J. Wang, Calphad, 20, 135-38(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL4ND_D13 (Al–Nd)
 
@@ -430,7 +422,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:alnd)
 
 Names (9): _corpus: _corpus:phase:al-nd:alnd  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:AlNd  
+_paper: _paper:sha256-85fd53a1a176b694:AlNd  
 _tdb: _tdb:AlNd-01Cac.tdb:ALND, tdb:AlNd-03Cac.tdb:ALND, tdb:AlNd-05Gao.tdb:ALND, tdb:AlNd-19Lia.tdb:ALND, tdb:AlNd-91Cac-LB.tdb:ALND, tdb:AlNd-96Cla.tdb:ALND, tdb:AlNd-96Wan.tdb:ALND  
 
 
@@ -485,7 +477,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:ALND, tdb:AlNd-03Cac.tdb:ALND, tdb:AlNd-05Gao.tdb:ALND
 64: CONST ALND : AL : ND : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -499,8 +491,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00020-X](https://doi.org/10.1016/S0364-5916%2896%2900020-X) J. Wang, Calphad, 20, 135-38(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## D019_ALND (Al–Nd)
 
@@ -539,7 +529,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:alnd2-c37)
 
 Names (9): _corpus: _corpus:phase:al-nd:alnd2-c37  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:AlNd2  
+_paper: _paper:sha256-85fd53a1a176b694:AlNd2  
 _tdb: _tdb:AlNd-01Cac.tdb:ALND2_C37, tdb:AlNd-03Cac.tdb:ALND2_C37, tdb:AlNd-05Gao.tdb:ALND2_C37, tdb:AlNd-19Lia.tdb:ALND2_C37, tdb:AlNd-91Cac-LB.tdb:ALND2_C37, tdb:AlNd-96Cla.tdb:ALND2_C37, tdb:AlNd-96Wan.tdb:ALND2_C37  
 
 
@@ -594,7 +584,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:ALND2_C37, tdb:AlNd-03Cac.tdb:ALND2_C37, tdb:AlNd-05Ga
 69: CONST ALND2_C37 : AL : ND : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -608,8 +598,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00020-X](https://doi.org/10.1016/S0364-5916%2896%2900020-X) J. Wang, Calphad, 20, 135-38(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## ALND3_D019 (Al–Nd)
 
@@ -621,7 +609,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:alnd3-d019)
 
 Names (8): _corpus: _corpus:phase:al-nd:alnd3-d019  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:AlNd3-L  
+_paper: _paper:sha256-85fd53a1a176b694:AlNd3-L  
 _tdb: _tdb:AlNd-01Cac.tdb:ALND3_D019, tdb:AlNd-05Gao.tdb:ALND3_D019, tdb:AlNd-19Lia.tdb:ALND3_D019, tdb:AlNd-91Cac-LB.tdb:ALND3_D019, tdb:AlNd-96Cla.tdb:ALND3_D019, tdb:AlNd-96Wan.tdb:ALND3_D019  
 
 
@@ -669,7 +657,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:ALND3_D019, tdb:AlNd-05Gao.tdb:ALND3_D019, tdb:AlNd-19
 74: CONST ALND3_D019 : AL : ND : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -681,8 +669,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00020-X](https://doi.org/10.1016/S0364-5916%2896%2900020-X) J. Wang, Calphad, 20, 135-38(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_A2 (Al–Nd)
 
@@ -693,7 +679,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:bcc-a2)
 
 Names (9): _corpus: _corpus:phase:al-nd:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:AlNd-01Cac.tdb:BCC_A2, tdb:AlNd-03Cac.tdb:BCC_A2, tdb:AlNd-05Gao.tdb:BCC_A2, tdb:AlNd-19Lia.tdb:BCC_A2, tdb:AlNd-91Cac-LB.tdb:BCC_A2, tdb:AlNd-96Cla.tdb:BCC_A2, tdb:AlNd-96Wan.tdb:BCC_A2  
 
 
@@ -748,7 +734,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:BCC_A2, tdb:AlNd-03Cac.tdb:BCC_A2, tdb:AlNd-05Gao.tdb:
 33: CONST BCC_A2 : AL ND : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -762,8 +748,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00020-X](https://doi.org/10.1016/S0364-5916%2896%2900020-X) J. Wang, Calphad, 20, 135-38(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## DHCP (Al–Nd)
 
@@ -774,7 +758,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:dhcp-a3)
 
 Names (9): _corpus: _corpus:phase:al-nd:dhcp-a3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:dhcp  
+_paper: _paper:sha256-85fd53a1a176b694:dhcp  
 _tdb: _tdb:AlNd-01Cac.tdb:DHCP, tdb:AlNd-03Cac.tdb:DHCP, tdb:AlNd-05Gao.tdb:DHCP, tdb:AlNd-19Lia.tdb:DHCP, tdb:AlNd-91Cac-LB.tdb:DHCP, tdb:AlNd-96Cla.tdb:DHCP, tdb:AlNd-96Wan.tdb:DHCP  
 
 
@@ -829,7 +813,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:DHCP, tdb:AlNd-03Cac.tdb:DHCP, tdb:AlNd-05Gao.tdb:DHCP
 43: CONST DHCP : ND : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -843,8 +827,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00020-X](https://doi.org/10.1016/S0364-5916%2896%2900020-X) J. Wang, Calphad, 20, 135-38(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Al–Nd)
 
@@ -855,7 +837,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:fcc-a1)
 
 Names (9): _corpus: _corpus:phase:al-nd:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:AlNd-01Cac.tdb:FCC_A1, tdb:AlNd-03Cac.tdb:FCC_A1, tdb:AlNd-05Gao.tdb:FCC_A1, tdb:AlNd-19Lia.tdb:FCC_A1, tdb:AlNd-91Cac-LB.tdb:FCC_A1, tdb:AlNd-96Cla.tdb:FCC_A1, tdb:AlNd-96Wan.tdb:FCC_A1  
 
 
@@ -910,7 +892,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:FCC_A1, tdb:AlNd-03Cac.tdb:FCC_A1, tdb:AlNd-05Gao.tdb:
 28: CONST FCC_A1 : AL ND : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -924,8 +906,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00020-X](https://doi.org/10.1016/S0364-5916%2896%2900020-X) J. Wang, Calphad, 20, 135-38(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Al–Nd)
 
@@ -1014,7 +994,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nd:liquid)
 
 Names (9): _corpus: _corpus:phase:al-nd:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlNd-01Cac.tdb:LIQUID, tdb:AlNd-03Cac.tdb:LIQUID, tdb:AlNd-05Gao.tdb:LIQUID, tdb:AlNd-19Lia.tdb:LIQUID, tdb:AlNd-91Cac-LB.tdb:LIQUID, tdb:AlNd-96Cla.tdb:LIQUID, tdb:AlNd-96Wan.tdb:LIQUID  
 
 
@@ -1069,7 +1049,7 @@ _tdb: _tdb:AlNd-01Cac.tdb:LIQUID, tdb:AlNd-03Cac.tdb:LIQUID, tdb:AlNd-05Gao.tdb:
 23: CONST LIQUID:L : AL ND : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/BF02665784](https://doi.org/10.1007/BF02665784) N. Clavaguera, Y. Du, J. Phase Equilib., 17, 107-11(1996).  
 _assessment that models this phase_
@@ -1083,8 +1063,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00020-X](https://doi.org/10.1016/S0364-5916%2896%2900020-X) J. Wang, Calphad, 20, 135-38(1996).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

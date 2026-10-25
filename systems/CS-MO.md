@@ -1,26 +1,12 @@
 # Cs–Mo system
 
-> Cs–Mo system: 21 accepted literature values (phase transition 14, invariant reaction 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cs–Mo system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CS-MO.html · Markdown: https://data.orchid-project.org/systems/CS-MO.md
 
-21 accepted literature values from 1 paper(s) (experimental 13, model 8); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 21 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CS-MO.json) · [CSV](https://data.orchid-project.org/systems/CS-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-MO/CsMo-21Smi.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CS-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-MO.html) · [Markdown](https://data.orchid-project.org/systems/CS-MO.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 13 |
-| model | 8 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 7 |
-| phase transition | 14 |
 
 ## Calculated phase diagrams
 
@@ -40,49 +26,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CsMo-21Smi.tdb | 301.59 | LIQUID (x(Mo) 0) + BCC_A2 (x(Mo) 0) + BCC_A2#2 (x(Mo) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CS/CS-MO.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CS/CS-MO.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cs–Mo system (7)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 846 | peritectic |  | experimental | [1] Smith 2021 | p. 2; `ORC-SLTDAGADUX.5b73c6` | “• the peritectic decomposition of Cs2 Mo7 O22 was found at Tf us = (836 ± 5) K, in good agreement with Salmon and Caillet (837 K), but again lower than the data of Hoekstra (846 K).” |
-| 837 | peritectic |  | experimental | [1] Smith 2021 | p. 2; `ORC-SLTDAGADUX.2f7b3d` | “• the peritectic decomposition of Cs2 Mo7 O22 was found at Tf us = (836 ± 5) K, in good agreement with Salmon and Caillet (837 K), but again lower than the data of Hoekstra (846 K).” |
-| 836.2 | peritectic |  | model | [1] Smith 2021 | p. 8; `ORC-FBXBAYYP62.62c044` | “Finally, the calculated peritectic decompositions of Cs2 Mo5 O16 and Cs2 Mo7 O22 (i.e. 808.7 K and 836.2 K, respectively) are in very good agreement with the data of Smith et al. \[17\] selected for the optimization.” |
-| 808.7 | peritectic |  | model | [1] Smith 2021 | p. 8; `ORC-FBXBAYYP62.89a942` | “Finally, the calculated peritectic decompositions of Cs2 Mo5 O16 and Cs2 Mo7 O22 (i.e. 808.7 K and 836.2 K, respectively) are in very good agreement with the data of Smith et al. \[17\] selected for the optimization.” |
-| 793.2 | eutectic |  | model | [1] Smith 2021 | p. 7; `ORC-ATOKPSUFP5.90a6ef` | “This pseudo-binary system includes three eutectic equilibria, calculated at {x(MoO3 ) =0.661 and T = 732.2 K}, {x(MoO3 ) =0.6674 and T = 732.5 K}, and {x(MoO3 ) =0.788 and T = 793.2 K}, respectively.” |
-| 732.5 | eutectic |  | model | [1] Smith 2021 | p. 7; `ORC-ATOKPSUFP5.a2a1b5` | “This pseudo-binary system includes three eutectic equilibria, calculated at {x(MoO3 ) =0.661 and T = 732.2 K}, {x(MoO3 ) =0.6674 and T = 732.5 K}, and {x(MoO3 ) =0.788 and T = 793.2 K}, respectively.” |
-| 732.2 | eutectic |  | model | [1] Smith 2021 | p. 7; `ORC-ATOKPSUFP5.9a06b8` | “This pseudo-binary system includes three eutectic equilibria, calculated at {x(MoO3 ) =0.661 and T = 732.2 K}, {x(MoO3 ) =0.6674 and T = 732.5 K}, and {x(MoO3 ) =0.788 and T = 793.2 K}, respectively.” |
-
-## Other properties
-
-### Phase transition (14)
-
-Table: Phase transition, Cs–Mo system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 608 K | 608 | other | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | p. 2; `ORC-5YOI3A7DPH.f04117` | “The authors observed exothermic events in their thermal analysis measurements around 608 K and 643 K, respectively, which Hoekstra interpreted as the transformation from the metastable form to the stable phase of Cs2 Mo4 O13 upon heating.” |
-| Phase transition | 643 K | 643 | other | experimental | [1] Smith 2021; _cites Spitsyn 1951_ | p. 2; `ORC-5YOI3A7DPH.16bb3e` | “The authors observed exothermic events in their thermal analysis measurements around 608 K and 643 K, respectively, which Hoekstra interpreted as the transformation from the metastable form to the stable phase of Cs2 Mo4 O13 upon heating.” |
-| Phase transition | 650 K | 650 |  | model | [1] Smith 2021 | p. 7; `ORC-C25UY6VX33` | “The α to β transition temperature of Cs2 Mo2 O7 is calculated at 650 K, as reported in the work of Smith et al. \[17\].” |
-| Phase transition | 720.2 K | 720.2 |  | experimental | [1] Smith 2021; _cites Smith 2017_ [doi](https://doi.org/10.1016/j.jssc.2017.05.032) | p. 2; `ORC-OI7SVP4WSQ` | “• the melting temperature of Cs2 Mo2 O7 was measured at Tf us = (725 ± 5) K, in good agreement with the data reported previously by Smith et al. \[27\] (720.2 ± 5.0 K).” |
-| Phase transition | 732.5 K | 732.5 | congruent transformation | model | [1] Smith 2021 | p. 7; `ORC-4Q5GZLK2BJ` | “The congruent melting of the same compound is calculated at 732.5 K, in between the data of Smith et al. \[17\] (i.e. 725 ± 5 K), and the data of Hoekstra \[25\] (737 K), Salmon and Caillet \[29\] (749 K), and Spitsyn and Kuleshov \[26\] (767 K).” |
-| Phase transition | 737 K | 737 |  | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | p. 2; `ORC-CB2JBKZDCY.0c8f6c` | “It should be noted that the other sources report higher values: 737 K for Hoekstra \[25\], 749 K for Salmon and Caillet \[29\], and 767 K for Spitsyn and Kuleshov \[26\].” |
-| Phase transition | 749 K | 749 |  | experimental | [1] Smith 2021; _cites Salmon 1969_ | p. 2; `ORC-CB2JBKZDCY.58078f` | “It should be noted that the other sources report higher values: 737 K for Hoekstra \[25\], 749 K for Salmon and Caillet \[29\], and 767 K for Spitsyn and Kuleshov \[26\].” |
-| Phase transition | 767 K | 767 |  | experimental | [1] Smith 2021; _cites Spitsyn 1951_ | p. 2; `ORC-CB2JBKZDCY.ce5f52` | “It should be noted that the other sources report higher values: 737 K for Hoekstra \[25\], 749 K for Salmon and Caillet \[29\], and 767 K for Spitsyn and Kuleshov \[26\].” |
-| Phase transition | 812.3 K | 812.3 | congruent transformation | model | [1] Smith 2021 | p. 7; `ORC-WMXCSB3TZ7` | “The congruent melting of Cs2 Mo3 O10 is calculated at 812.3 K, which is again in between the data of Smith et al. \[17\] (i.e. 806 ± 5 K) and that of Hoekstra \[25\] (820 K), Salmon and Caillet \[29\] (823 K), and Spitsyn and Kuleshov \[26\] (818 K).” |
-| Phase transition | 818 K | 818 |  | experimental | [1] Smith 2021 | p. 2; `ORC-SLTDAGADUX.33df2c` | “Hoekstra, Spitsyn and Kuleshov, and Salmon and Caillet reported 823 K, 823 K and 818 K, respectively.” |
-| Phase transition | 818 K | 818 | congruent transformation | experimental | [1] Smith 2021; _cites Spitsyn 1951_ | p. 2; `ORC-CB2JBKZDCY.4a3373` | “• the (congruent) melting temperature of Cs2 Mo3 O10 was found at Tf us = (806 ± 5) K, which is ∼15 K lower than reported by Hoekstra \[25\] (820 K), Salmon and Caillet \[29\] (823 K), and Spitsyn and Kuleshov \[26\] (818 K).” |
-| Phase transition | 820 K | 820 | congruent transformation | experimental | [1] Smith 2021; _cites Hoekstra 1973_ [doi](https://doi.org/10.1016/0020-1650%2873%2980013-3) | p. 2; `ORC-CB2JBKZDCY.078940` | “• the (congruent) melting temperature of Cs2 Mo3 O10 was found at Tf us = (806 ± 5) K, which is ∼15 K lower than reported by Hoekstra \[25\] (820 K), Salmon and Caillet \[29\] (823 K), and Spitsyn and Kuleshov \[26\] (818 K).” |
-| Phase transition | 823 K | 823 |  | experimental | [1] Smith 2021 | p. 2; `ORC-SLTDAGADUX.4d7dd9` | “Hoekstra, Spitsyn and Kuleshov, and Salmon and Caillet reported 823 K, 823 K and 818 K, respectively.” |
-| Phase transition | 823 K | 823 | congruent transformation | experimental | [1] Smith 2021; _cites Salmon 1969_ | p. 2; `ORC-CB2JBKZDCY.937e25` | “• the (congruent) melting temperature of Cs2 Mo3 O10 was found at Tf us = (806 ± 5) K, which is ∼15 K lower than reported by Hoekstra \[25\] (820 K), Salmon and Caillet \[29\] (823 K), and Spitsyn and Kuleshov \[26\] (818 K).” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. A.L. Smith, T.N. Pham Thi, C. Guéneau, J.-C. Dumas, E. Epifano, W. van Burik et al., Thermodynamic modelling assessment of the ternary system Cs-Mo-O, Calphad 75, 102350 (2021). [doi:10.1016/j.calphad.2021.102350](https://doi.org/10.1016/j.calphad.2021.102350)
 
 ## Please cite
 

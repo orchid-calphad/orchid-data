@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AlFe3.html · Markdown: https://
 
 8 accepted literature formation-enthalpy value(s) (DFT 8).
 
-Systems: [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) · [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)
+Systems: [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of AlFe3 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -19.4 kJ/mol (basis unstated) | Fe3Al |  | DFT | DFT | [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) | [1] Ostrowska 2019; _cites OQMD_ | Table 3, p. 3, row 5; `ORC-7QQKA7EOC5` |  |
-| -19.21 kJ/mol (basis unstated) | Fe3Al |  | DFT | DFT | [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) | [1] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 7; `ORC-SYS3MN5SZC` |  |
-| -19.11 kJ/mol (basis unstated) | Fe3Al |  | DFT | DFT | [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) | [1] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 6; `ORC-J4TDABFUUL` |  |
+| -19.4 kJ/mol (basis unstated) | Fe3Al |  | DFT | DFT | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ostrowska 2019; _cites OQMD_ | Table 3, p. 3, row 5; `ORC-7QQKA7EOC5` |  |
+| -19.21 kJ/mol (basis unstated) | Fe3Al |  | DFT | DFT | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 7; `ORC-SYS3MN5SZC` |  |
+| -19.11 kJ/mol (basis unstated) | Fe3Al |  | DFT | DFT | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 6; `ORC-J4TDABFUUL` |  |
 | -18.87 kJ/mol (basis unstated) | Fe3Al D03 | 0 | DFT | DFT | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [2] Berche 2018 | Table 1, p. 4, row 1; `ORC-NR7JYKBFG3.baa788` |  |
-| -18.73 kJ/mol (basis unstated) | Fe3Al |  | DFT | DFT | [Al–Co–Fe](https://data.orchid-project.org/systems/AL-CO-FE.html) | [1] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 4; `ORC-NQRQLJPSFJ` |  |
+| -18.73 kJ/mol (basis unstated) | Fe3Al |  | DFT | DFT | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [1] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 4; `ORC-NQRQLJPSFJ` |  |
 | -14.9 kJ/mol (basis unstated) | Fe3Al A15 | 0 | DFT | DFT | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [2] Berche 2018 | Table 1, p. 4, row 3; `ORC-IO4D7RD3W3.75b2df` |  |
 | -14.69 kJ/mol (basis unstated) | Fe3Al A2 | 0 | DFT | DFT | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [2] Berche 2018 | Table 1, p. 4, row 2; `ORC-CJODILRPFH.e4aed4` |  |
 | 4.09 kJ/mol (basis unstated) | Fe3Al D03 | 0 | DFT | DFT | [Al–Fe](https://data.orchid-project.org/systems/AL-FE.html) | [2] Berche 2018 | Table 1, p. 4, row 4; `ORC-7SRB73HNCM.2d3f1c` |  |
@@ -31,14 +31,14 @@ Table: Uncertainty budget of the literature values of AlFe3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -19.4 | kJ/mol (basis unstated) |  | 0.05 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| -19.21 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| -19.11 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| -18.87 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| -18.73 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| -14.9 | kJ/mol (basis unstated) |  | 0.05 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| -14.69 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
-| 4.09 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| -19.4 | kJ/mol (basis unstated) |  | 0.05 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| -19.21 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| -19.11 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| -18.87 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| -18.73 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| -14.9 | kJ/mol (basis unstated) |  | 0.05 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| -14.69 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| 4.09 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
 
 ## Sources
 

@@ -165,14 +165,14 @@ Table: Activity / EMF / Gibbs energy, Co–Cr–Ni–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -793.17 J/mol | 0 | BCC_A2; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 7; `ORC-V5IX3BKRBP.6d162e` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -793.17 J/mol | 0 | BCC_A2; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 7; `ORC-V5IX3BKRBP.7d6da6` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 1; `ORC-HVOQUN6NVE.0e01e8` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 1; `ORC-HVOQUN6NVE.f96eef` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 13; `ORC-4U4UGCSIWR.4dd546` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 13; `ORC-4U4UGCSIWR.90d823` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1296.97 J/mol | 0 | σ; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 18; `ORC-BZOCSU6RPX.70c8db` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1296.97 J/mol | 0 | σ; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 18; `ORC-BZOCSU6RPX.8ec7de` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | -793.17 J/mol | 0 | BCC_A2; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 7; `ORC-V5IX3BKRBP.6d162e` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | -793.17 J/mol | 0 | BCC_A2; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 7; `ORC-V5IX3BKRBP.7d6da6` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 1; `ORC-HVOQUN6NVE.0e01e8` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 1; `ORC-HVOQUN6NVE.f96eef` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 13; `ORC-4U4UGCSIWR.4dd546` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 13; `ORC-4U4UGCSIWR.90d823` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | -1296.97 J/mol | 0 | σ; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 18; `ORC-BZOCSU6RPX.70c8db` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | -1296.97 J/mol | 0 | σ; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 18; `ORC-BZOCSU6RPX.8ec7de` |  |
 
 ## Sources
 

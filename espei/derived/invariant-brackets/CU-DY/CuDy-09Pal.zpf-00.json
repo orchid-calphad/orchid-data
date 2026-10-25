@@ -519,7 +519,7 @@
     "x0": 0.182,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> Cu9Dy2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -575,7 +575,7 @@
     "x0": 0.333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> Cu2Dy",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -593,7 +593,7 @@
     "x0": 0.333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> Cu2Dy",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -611,7 +611,7 @@
     "x0": 0.395,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> Cu2Dy + CuDy",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -630,7 +630,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> CuDy",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -648,7 +648,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liquid -> CuDy",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

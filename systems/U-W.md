@@ -58,7 +58,7 @@ Table: Invariant reactions reported in the literature for the U–W system (6)
 |---:|---|---|---|---|---|---|
 | 1408.15 | eutectic: L → γ (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 1; `ORC-M32J5EA3AC` |  |
 | 1407.65 | eutectic: L → γ (U) + bcc (W) | L: W 0.0026; γ (U): W 0.0024; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 2; `ORC-ZGMUFQBOAZ` |  |
-| 1404 | Liquid -> (γ-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 1; `ORC-UVZ6N5PRUV` |  |
+| 1404 | eutectic: Liquid -> (γ-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 1; `ORC-UVZ6N5PRUV` |  |
 | 1047.65 | eutectoid: γ (U) → β (U) + bcc (W) | γ (U): W 0.001; β (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 4; `ORC-QCIMMOAHUK` |  |
 | 942.15 | congruent transformation: β (U) → γ (U) + bcc (W) | β (U): W 0; γ (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 6; `ORC-XVDMITWGXV` |  |
 | 942 | (β-U) -> (α-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 3; `ORC-L2EQYJCORM` |  |

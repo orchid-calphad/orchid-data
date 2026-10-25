@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Ru2Sn3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -21.6 | kJ/mol (basis unstated) | 3 | 5.000e-5 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
-| -21.1 | kJ/mol (basis unstated) | 2.5 | 5.000e-5 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
-| -24.3 | kJ/mol (basis unstated) | 1.6 | 5.000e-5 | 17 (model_calculated, calibrated) |  |  |  | 17 |
-| -24.3 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -21.6 | kJ/mol (basis unstated) | 3 | 5.000e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -21.1 | kJ/mol (basis unstated) | 2.5 | 5.000e-5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -24.3 | kJ/mol (basis unstated) | 1.6 | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -24.3 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## Sources
 

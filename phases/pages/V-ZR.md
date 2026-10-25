@@ -28,7 +28,7 @@ Table: Phases of the V–Zr system (6)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:v-zr:bcc-a2)
 
 Names (10): _corpus: _corpus:phase:v-zr:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2011.07.003:bcc-V, paper:10.1016/j.calphad.2011.07.003:bcc-Zr, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1361/15477030522464:bcc_A2  
+_paper: _paper:10.1016/j.calphad.2011.07.003:bcc-V, paper:10.1016/j.calphad.2011.07.003:bcc-Zr, paper:10.1361/15477030522464:bcc_A2, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:VZr-05Ser.tdb:BCC_A2, tdb:VZr-12Zha.tdb:BCC_A2, tdb:VZr-16Cui-1.tdb:BCC_A2, tdb:VZr-16Cui-2.tdb:BCC_A2, tdb:VZr-98Kor-LB.tdb:BCC_A2  
 
 
@@ -69,7 +69,7 @@ _tdb: _tdb:VZr-05Ser.tdb:BCC_A2, tdb:VZr-12Zha.tdb:BCC_A2, tdb:VZr-16Cui-1.tdb:B
 31: CONST BCC_A2 : V% ZR% : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1361/15477030522464](https://doi.org/10.1361/15477030522464) C. Servant, Thermodynamic Assessments of the Phase Diagrams of the Hafnium-Vanadium and Vanadium-Zirconium Systems, Journal of Phase Equilibria &amp; Diffusion 26, 39-49 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -83,8 +83,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1007/s11669-005-0056-x](https://doi.org/10.1007/s11669-005-0056-x) C. Servant, Thermodynamic assessments of the phase diagrams of the hafnium-vanadium and vanadium-zirconium systems, J Phs Eqil and Diff 26, 39-49 (2005).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## C15_LAVES (V–Zr)
 
@@ -99,7 +97,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:v-zr:c15-laves)
 
 Names (8): _corpus: _corpus:phase:v-zr:c15-laves  
-_paper: _paper:10.1016/j.calphad.2011.07.003:V2Zr, paper:10.1016/s0364-5916(98)00037-6:V2Zr, paper:10.1361/15477030522464:C15-Laves  
+_paper: _paper:10.1016/j.calphad.2011.07.003:V2Zr, paper:10.1361/15477030522464:C15-Laves, paper:sha256-85fd53a1a176b694:V2Zr  
 _tdb: _tdb:VZr-05Ser.tdb:C15_LAVES, tdb:VZr-12Zha.tdb:C15_LAVES, tdb:VZr-16Cui-1.tdb:C15_LAVES, tdb:VZr-16Cui-2.tdb:C15_LAVES  
 
 
@@ -133,7 +131,7 @@ _tdb: _tdb:VZr-05Ser.tdb:C15_LAVES, tdb:VZr-12Zha.tdb:C15_LAVES, tdb:VZr-16Cui-1
 46: CONST C15_LAVES : V% ZR : V ZR% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1361/15477030522464](https://doi.org/10.1361/15477030522464) C. Servant, Thermodynamic Assessments of the Phase Diagrams of the Hafnium-Vanadium and Vanadium-Zirconium Systems, Journal of Phase Equilibria &amp; Diffusion 26, 39-49 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -147,8 +145,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1007/s11669-005-0056-x](https://doi.org/10.1007/s11669-005-0056-x) C. Servant, Thermodynamic assessments of the phase diagrams of the hafnium-vanadium and vanadium-zirconium systems, J Phs Eqil and Diff 26, 39-49 (2005).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (V–Zr)
 
@@ -219,7 +215,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:v-zr:hcp-a3)
 
 Names (9): _corpus: _corpus:phase:v-zr:hcp-a3  
-_paper: _paper:10.1016/j.calphad.2011.07.003:hcp-Zr, paper:10.1016/s0364-5916(98)00037-6:hcp-A3, paper:10.1361/15477030522464:cph_A3  
+_paper: _paper:10.1016/j.calphad.2011.07.003:hcp-Zr, paper:10.1361/15477030522464:cph_A3, paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:VZr-05Ser.tdb:HCP_A3, tdb:VZr-12Zha.tdb:HCP_A3, tdb:VZr-16Cui-1.tdb:HCP_A3, tdb:VZr-16Cui-2.tdb:HCP_A3, tdb:VZr-98Kor-LB.tdb:HCP_A3  
 
 
@@ -260,7 +256,7 @@ _tdb: _tdb:VZr-05Ser.tdb:HCP_A3, tdb:VZr-12Zha.tdb:HCP_A3, tdb:VZr-16Cui-1.tdb:H
 36: CONST HCP_A3 : V ZR% : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1361/15477030522464](https://doi.org/10.1361/15477030522464) C. Servant, Thermodynamic Assessments of the Phase Diagrams of the Hafnium-Vanadium and Vanadium-Zirconium Systems, Journal of Phase Equilibria &amp; Diffusion 26, 39-49 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -274,8 +270,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1007/s11669-005-0056-x](https://doi.org/10.1007/s11669-005-0056-x) C. Servant, Thermodynamic assessments of the phase diagrams of the hafnium-vanadium and vanadium-zirconium systems, J Phs Eqil and Diff 26, 39-49 (2005).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (V–Zr)
 
@@ -286,7 +280,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:v-zr:liquid)
 
 Names (11): _corpus: _corpus:phase:v-zr:liquid  
-_paper: _paper:10.1016/j.calphad.2011.07.003:Liquid, paper:10.1016/j.calphad.2011.07.003:liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid, paper:10.1361/15477030522464:L, paper:10.1361/15477030522464:liquid  
+_paper: _paper:10.1016/j.calphad.2011.07.003:Liquid, paper:10.1016/j.calphad.2011.07.003:liquid, paper:10.1361/15477030522464:L, paper:10.1361/15477030522464:liquid, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:VZr-05Ser.tdb:LIQUID, tdb:VZr-12Zha.tdb:LIQUID, tdb:VZr-16Cui-1.tdb:LIQUID, tdb:VZr-16Cui-2.tdb:LIQUID, tdb:VZr-98Kor-LB.tdb:LIQUID  
 
 
@@ -327,7 +321,7 @@ _tdb: _tdb:VZr-05Ser.tdb:LIQUID, tdb:VZr-12Zha.tdb:LIQUID, tdb:VZr-16Cui-1.tdb:L
 21: CONST LIQUID:L : V ZR : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1361/15477030522464](https://doi.org/10.1361/15477030522464) C. Servant, Thermodynamic Assessments of the Phase Diagrams of the Hafnium-Vanadium and Vanadium-Zirconium Systems, Journal of Phase Equilibria &amp; Diffusion 26, 39-49 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -341,8 +335,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1007/s11669-005-0056-x](https://doi.org/10.1007/s11669-005-0056-x) C. Servant, Thermodynamic assessments of the phase diagrams of the hafnium-vanadium and vanadium-zirconium systems, J Phs Eqil and Diff 26, 39-49 (2005).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## V2ZR_C15 (V–Zr)
 

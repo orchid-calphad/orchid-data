@@ -47,7 +47,7 @@ Table: Invariant reactions reported in the literature for the Cd–V system (2)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1039.55 | Gas+(V) -> Liquid(Cd) | Gas: Cd 1; (V): Cd 0; Liquid(Cd): Cd 1 | model | [1] Zhang 2013 | Table 4, p. 5, row 31; `ORC-QZY6O3F6F2` |  |
-| 594.25 | Liquid(Cd) -> (V)+(Cd) | Liquid(Cd): Cd 1; (V): Cd 0; (Cd): Cd 1 | model | [1] Zhang 2013 | Table 4, p. 5, row 30; `ORC-A2RJKL5IOI` |  |
+| 594.25 | eutectic: Liquid(Cd) -> (V)+(Cd) | Liquid(Cd): Cd 1; (V): Cd 0; (Cd): Cd 1 | model | [1] Zhang 2013 | Table 4, p. 5, row 30; `ORC-A2RJKL5IOI` |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # O–Zr system
 
-> O–Zr system: 221 accepted literature values (phase transition 68, phase equilibrium 61, heat capacity / entropy / enthalpy 26, formation 26) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Zr system: 205 accepted literature values (phase equilibrium 61, phase transition 54, heat capacity / entropy / enthalpy 26, formation 26) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-ZR.html · Markdown: https://data.orchid-project.org/systems/O-ZR.md
 
-221 accepted literature values from 6 paper(s) (experimental 120, model 98, unspecified 3); 0 calculated phase diagram(s).
+205 accepted literature values from 4 paper(s) (experimental 117, model 85, unspecified 3); 0 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-ZR.json) · [CSV](https://data.orchid-project.org/systems/O-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-ZR) · [phases (15)](https://data.orchid-project.org/phases/pages/O-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-ZR.html) · [Markdown](https://data.orchid-project.org/systems/O-ZR.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 120 |
-| model | 98 |
+| experimental | 117 |
+| model | 85 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 21 |
-| phase transition | 68 |
+| invariant reaction | 19 |
+| phase transition | 54 |
 | phase equilibrium | 61 |
 | formation | 26 |
 | heat capacity / entropy / enthalpy | 26 |
@@ -32,31 +32,29 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the O–Zr system (21)
+Table: Invariant reactions reported in the literature for the O–Zr system (19)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 3067 | liquid -> γ-ZrO2 | liquid: O 0.6576; γ-ZrO2: O 0.6576 | model | [1] Wang 2004 | Table 5, p. 9, row 8; `ORC-XYH6TRS3EM` |  |
-| 2983 | liquid -> γ-ZrO2 | liquid: O 0.666; γ-ZrO2: O 0.666 | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 5, p. 9, row 7; `ORC-3SUNON5CWB` |  |
-| 2403.15 | L -> HCP | HCP: O 0.25 | experimental | [2] Arroyave 2002 | Table 1, p. 12, row 7; `ORC-CUWFDAB5E4` |  |
-| 2403 | liquid -> hcp | liquid: O 0.25; hcp: O 0.25 | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 5, p. 9, row 9; `ORC-KL6PNMG6ID` |  |
-| 2402 | liquid -> hcp | liquid: O 0.29; hcp: O 0.29 | model | [1] Wang 2004 | Table 5, p. 9, row 10; `ORC-GVXEHZPYBD` |  |
-| 2400.95 | L -> HCP | HCP: O 0.275 | model | [2] Arroyave 2002 | Table 1, p. 12, row 8; `ORC-UFW6S2DR7V` |  |
-| 2347.15 | L -> HCP + γ ZrO2-x | L: O 0.4122; HCP: O 0.311; γ ZrO2-x: O 0.6254 | model | [2] Arroyave 2002 | Table 1, p. 12, row 4; `ORC-DGMIHRUCGC` |  |
-| 2344 | liquid -> hcp + γ-ZrO2 | liquid: O 0.402; hcp: O 0.31; γ-ZrO2: O 0.617 | model | [1] Wang 2004 | Table 5, p. 9, row 4; `ORC-QPQHLFNMY5` |  |
-| 2338 | liquid -> hcp + γ-ZrO2 | liquid: O 0.4; hcp: O 0.35; γ-ZrO2: O 0.62 | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 5, p. 9, row 3; `ORC-NNA3G7IN2G` |  |
-| 2335.15 | L -> HCP + γ ZrO2-x | L: O 0.4; HCP: O 0.35; γ ZrO2-x: O 0.62 | experimental | [2] Arroyave 2002 | Table 1, p. 12, row 3; `ORC-B26JGXCV4F` |  |
+| 3067 | congruent melting: liquid -> γ-ZrO2 | liquid: O 0.6576; γ-ZrO2: O 0.6576 | model | [1] Wang 2004 | Table 5, p. 9, row 8; `ORC-XYH6TRS3EM` |  |
+| 2983 | congruent melting: liquid -> γ-ZrO2 | liquid: O 0.666; γ-ZrO2: O 0.666 | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 5, p. 9, row 7; `ORC-3SUNON5CWB` |  |
+| 2403.15 | congruent melting: L -> HCP | HCP: O 0.25 | experimental | [2] Arroyave 2002 | Table 1, p. 12, row 7; `ORC-CUWFDAB5E4` |  |
+| 2403 | congruent melting: liquid -> hcp | liquid: O 0.25; hcp: O 0.25 | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 5, p. 9, row 9; `ORC-KL6PNMG6ID` |  |
+| 2402 | congruent melting: liquid -> hcp | liquid: O 0.29; hcp: O 0.29 | model | [1] Wang 2004 | Table 5, p. 9, row 10; `ORC-GVXEHZPYBD` |  |
+| 2400.95 | congruent melting: L -> HCP | HCP: O 0.275 | model | [2] Arroyave 2002 | Table 1, p. 12, row 8; `ORC-UFW6S2DR7V` |  |
+| 2347.15 | eutectic: L -> HCP + γ ZrO2-x | L: O 0.4122; HCP: O 0.311; γ ZrO2-x: O 0.6254 | model | [2] Arroyave 2002 | Table 1, p. 12, row 4; `ORC-DGMIHRUCGC` |  |
+| 2344 | eutectic: liquid -> hcp + γ-ZrO2 | liquid: O 0.402; hcp: O 0.31; γ-ZrO2: O 0.617 | model | [1] Wang 2004 | Table 5, p. 9, row 4; `ORC-QPQHLFNMY5` |  |
+| 2338 | eutectic: liquid -> hcp + γ-ZrO2 | liquid: O 0.4; hcp: O 0.35; γ-ZrO2: O 0.62 | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 5, p. 9, row 3; `ORC-NNA3G7IN2G` |  |
+| 2335.15 | eutectic: L -> HCP + γ ZrO2-x | L: O 0.4; HCP: O 0.35; γ ZrO2-x: O 0.62 | experimental | [2] Arroyave 2002 | Table 1, p. 12, row 3; `ORC-B26JGXCV4F` |  |
 | 2250.15 | L + (HCP) -> BCC | L: O 0.1003; (HCP): O 0.2217; BCC: O 0.105 | model | [2] Arroyave 2002 | Table 1, p. 12, row 2; `ORC-KFKCZADFIU` |  |
 | 2243.15 | L + (HCP) -> BCC | L: O 0.1; (HCP): O 0.195; BCC: O 0.105 | experimental | [2] Arroyave 2002 | Table 1, p. 12, row 1; `ORC-7XQIPML4FG` |  |
 | 2243.15 | peritectic |  | experimental | [2] Arroyave 2002 | p. 2; `ORC-TDB2WQTM2E` | “This phase has a maximum oxygen solubility of 10.5 at.% at 1970°C, which is the temperature of the peritectic reaction.” |
 | 2243 | liquid + hcp -> bcc | liquid: O 0.1; hcp: O 0.195; bcc: O 0.105 | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 5, p. 9, row 1; `ORC-ARPB74UKRX` |  |
-| 2241 | peritectic |  | model | [3] Pérez 2007; _cites Liang 2001_ | p. 6; `ORC-6QU5ULQFYR` | “The maximum solubility of oxygen in b-Zr (bcc phase) is 11.8 at.% O, which occurs at the peritectic temperature of 2241 K.” |
 | 2241 | liquid + hcp -> bcc | liquid: O 0.0985; hcp: O 0.19; bcc: O 0.0999 | model | [1] Wang 2004 | Table 5, p. 9, row 2; `ORC-OGOOJEOVTP` |  |
 | 1803.15 | γ ZrO2-x -> HCP + β ZrO2-x | γ ZrO2-x: O 0.6349; HCP: O 0.3041; β ZrO2-x: O 0.665 | model | [2] Arroyave 2002 | Table 1, p. 12, row 6; `ORC-HSMKMPNFWY` |  |
 | 1799 | γ-ZrO2 -> hcp + β-ZrO2 | γ-ZrO2: O 0.638; hcp: O 0.309; β-ZrO2: O 0.66667 | model | [1] Wang 2004 | Table 5, p. 9, row 6; `ORC-4N2ADTT5VI` |  |
 | 1798.15 | γ ZrO2-x -> HCP + β ZrO2-x | γ ZrO2-x: O 0.636; HCP: O 0.312; β ZrO2-x: O 0.665 | experimental | [2] Arroyave 2002 | Table 1, p. 12, row 5; `ORC-QAHYC6BQDX` |  |
 | 1798 | γ-ZrO2 -> hcp + β-ZrO2 | γ-ZrO2: O 0.636; hcp: O 0.312; β-ZrO2: O 0.665 | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 5, p. 9, row 5; `ORC-EYVEADJXPY` |  |
-| 1798 | eutectoid: hcp + tetragonal ↔ cubic |  | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | p. 1; `ORC-VUH3GOHRVW.e889de` | “According to the assessment \[1\], only one stable oxide, i.e. zirconium dioxide (ZrO2 ), exists in this system, which has a monoclinic structure (α) below 1478 K, where it transforms into the intermediate tetragonal structure (β), and above 1798 K the cubic modification (γ ) exists which is stable due to the eutectoid reaction hcp + tetragonal ↔ cubic.” |
 
 ## Formation enthalpies
 
@@ -74,13 +72,13 @@ Table: Enthalpies of formation, O–Zr system (26)
 | Zr6O | [Zr6O](https://data.orchid-project.org/compounds/Zr6O.html) | -93 kJ/mol-atom |  | model |  | -82.626 (oqmd-2132007) | [2] Arroyave 2002 | Table 3, p. 18, row 8; `ORC-ETH3ALOXOH` |  |
 | ZrO0.5 | [Zr2O](https://data.orchid-project.org/compounds/Zr2O.html) | -286 kJ/mol-atom |  | model | -192.087 (mp-aaabqwvt) | -186.602 (oqmd-2030404) | [2] Arroyave 2002 | Table 2, p. 17, row 5; `ORC-B66ZOF6RPG` |  |
 | ZrO0.5 | [Zr2O](https://data.orchid-project.org/compounds/Zr2O.html) | -217 kJ/mol-atom |  | model | -192.087 (mp-aaabqwvt) | -186.602 (oqmd-2030404) | [2] Arroyave 2002 | Table 2, p. 17, row 6; `ORC-532CQNUDES` |  |
-| ZrO2 |  | -1101 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] CHEN 2004; _cites Liang 2001_ | Table 2, p. 3, row 6; `ORC-VKOW7JMG67` |  |
-| ZrO2 |  | -1100.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] CHEN 2004; _cites Huber 1964_ | Table 2, p. 3, row 2; `ORC-HYAEJ3WDYQ` |  |
-| ZrO2 |  | -1100.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] CHEN 2004 | Table 2, p. 3, row 7; `ORC-TVSCV5S6Q3` |  |
-| ZrO2 |  | -1100.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] CHEN 2004; _cites Kornilov 1967_ | Table 2, p. 3, row 3; `ORC-SNG6VNMBGO` |  |
-| ZrO2 |  | -1100.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] CHEN 2004; _cites Ackermann 1975_ | Table 2, p. 3, row 4; `ORC-UIQ7XPTRO2` |  |
-| ZrO2 |  | -1097.46 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] CHEN 2004; _cites Chase 1985_ | Table 2, p. 3, row 5; `ORC-KUB2D3A4PC` |  |
-| ZrO2 |  | -1094.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] CHEN 2004; _cites Humphrey 1954_ | Table 2, p. 3, row 1; `ORC-4I4UZK2EY5` |  |
+| ZrO2 |  | -1101 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] CHEN 2004; _cites Liang 2001_ | Table 2, p. 3, row 6; `ORC-VKOW7JMG67` |  |
+| ZrO2 |  | -1100.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] CHEN 2004; _cites Huber 1964_ | Table 2, p. 3, row 2; `ORC-HYAEJ3WDYQ` |  |
+| ZrO2 |  | -1100.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] CHEN 2004 | Table 2, p. 3, row 7; `ORC-TVSCV5S6Q3` |  |
+| ZrO2 |  | -1100.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] CHEN 2004; _cites Kornilov 1967_ | Table 2, p. 3, row 3; `ORC-SNG6VNMBGO` |  |
+| ZrO2 |  | -1100.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] CHEN 2004; _cites Ackermann 1975_ | Table 2, p. 3, row 4; `ORC-UIQ7XPTRO2` |  |
+| ZrO2 |  | -1097.46 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] CHEN 2004; _cites Chase 1985_ | Table 2, p. 3, row 5; `ORC-KUB2D3A4PC` |  |
+| ZrO2 |  | -1094.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] CHEN 2004; _cites Humphrey 1954_ | Table 2, p. 3, row 1; `ORC-4I4UZK2EY5` |  |
 | ZrO2 | [ZrO2](https://data.orchid-project.org/compounds/ZrO2.html) | -573 kJ/mol-atom |  | model | -367.957 (mp-aaaaaefy) | -350.528 (oqmd-3278) | [2] Arroyave 2002 | Table 2, p. 17, row 1; `ORC-UT4GG4A3ZU` |  |
 | ZrO2 | [ZrO2](https://data.orchid-project.org/compounds/ZrO2.html) | -366 kJ/mol-atom | 298.15 | experimental | -367.957 (mp-aaaaaefy) | -350.528 (oqmd-3278) | [2] Arroyave 2002 | Table 2, p. 17, row 2; `ORC-T64EA4SVSN` |  |
 | ZrO3 | [ZrO3](https://data.orchid-project.org/compounds/ZrO3.html) | -644 kJ/mol-atom |  | model |  | -239.971 (oqmd-825016) | [2] Arroyave 2002 | Table 2, p. 17, row 3; `ORC-5NHXC6TIGO` |  |
@@ -95,7 +93,7 @@ Table: Enthalpies of formation, O–Zr system (26)
 
 ## Other properties
 
-### Phase transition (68)
+### Phase transition (54)
 
 Table: Phase transition, O–Zr system
 
@@ -113,28 +111,22 @@ Table: Phase transition, O–Zr system
 | Phase transition | 1454 K | 1454 | polymorphic: α ↔ β | model | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 2, p. 5, row 11; `ORC-OZD5L5O57F` |  |
 | Phase transition | 1475 K | 1475 | polymorphic: α ↔ β | experimental | [1] Wang 2004; _cites Sh 1965_ | Table 2, p. 5, row 2; `ORC-6TZPY62QQC` |  |
 | Phase transition | 1476 K | 1476 | polymorphic: α ↔ β | model | [1] Wang 2004; _cites Liang 2001_ | Table 2, p. 5, row 12; `ORC-MHHSP6KTB5` |  |
-| Phase transition | 1478 K | 1478 |  | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | p. 6; `ORC-K27VU47Z3K.064ae1` | “It must be pointed out that a 'small' but unacceptable inconsistency in the work of Arroyave et al. \[12\] is that the phase transition temperatures (1478, 2641, 2950 K) assessed for the monoclinic, tetragonal and cubic phases, respectively, in the calculated phase diagram are not consistent with the temperature limits (1445, 2620, 2983 K) in the Gibbs energy equation for stoichiometric ZrO2 , whic…” |
-| Phase transition | 1478 K | 1478 |  | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | p. 1; `ORC-VUH3GOHRVW.4f2556` | “According to the assessment \[1\], only one stable oxide, i.e. zirconium dioxide (ZrO2 ), exists in this system, which has a monoclinic structure (α) below 1478 K, where it transforms into the intermediate tetragonal structure (β), and above 1798 K the cubic modification (γ ) exists which is stable due to the eutectoid reaction hcp + tetragonal ↔ cubic.” |
-| Phase transition | 1478 K | 1478 | polymorphic: m-ZrO2 \<-> t-ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Liang 2001_ | Table 3, p. 5, row 17; `ORC-4MHWYLA5SN` |  |
-| Phase transition | 1478 K | 1478 | polymorphic: m-ZrO2 \<-> t-ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Chase 1985_ | Table 3, p. 5, row 14; `ORC-5CR7D6HX4U` |  |
-| Phase transition | 1478 K | 1478 | polymorphic: m-ZrO2 \<-> t-ZrO2; _alloy: Zr 0.333333_ | experimental | [4] CHEN 2004; _cites Coughlin 1950_ | Table 3, p. 5, row 1; `ORC-EI7XRTRJQO` |  |
-| Phase transition | 1478 K | 1478 | polymorphic: m-ZrO2 \<-> t-ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Abriata 1986_ | Table 3, p. 5, row 15; `ORC-FICB5P54HB` |  |
-| Phase transition | 1478 K | 1478 | polymorphic: m-ZrO2 \<-> t-ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Ackermann 1975_ | Table 3, p. 5, row 13; `ORC-HIXPBIWAXD` |  |
+| Phase transition | 1478 K | 1478 | polymorphic: m-ZrO2 \<-> t-ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004; _cites Liang 2001_ | Table 3, p. 5, row 17; `ORC-4MHWYLA5SN` |  |
+| Phase transition | 1478 K | 1478 | polymorphic: m-ZrO2 \<-> t-ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004; _cites Chase 1985_ | Table 3, p. 5, row 14; `ORC-5CR7D6HX4U` |  |
+| Phase transition | 1478 K | 1478 | polymorphic: m-ZrO2 \<-> t-ZrO2; _alloy: Zr 0.333333_ | experimental | [3] CHEN 2004; _cites Coughlin 1950_ | Table 3, p. 5, row 1; `ORC-EI7XRTRJQO` |  |
+| Phase transition | 1478 K | 1478 | polymorphic: m-ZrO2 \<-> t-ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004; _cites Abriata 1986_ | Table 3, p. 5, row 15; `ORC-FICB5P54HB` |  |
+| Phase transition | 1478 K | 1478 | polymorphic: m-ZrO2 \<-> t-ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004; _cites Ackermann 1975_ | Table 3, p. 5, row 13; `ORC-HIXPBIWAXD` |  |
 | Phase transition | 1478 K | 1478 | polymorphic: α ↔ β | model | [1] Wang 2004; _cites Ackerman 1975_ | Table 2, p. 5, row 8; `ORC-HLB2SFKSJ4` |  |
 | Phase transition | 1478 K | 1478 | polymorphic: α ↔ β | experimental | [1] Wang 2004; _cites Coughlin 1950_ [doi](https://doi.org/10.1021/ja01161a106) | Table 2, p. 5, row 1; `ORC-IJIJBN75AN` |  |
 | Phase transition | 1478 K | 1478 | polymorphic: α ↔ β | model | [1] Wang 2004; _cites Dinsdale 2003_ | Table 2, p. 5, row 15; `ORC-OODV5RNUN4` |  |
 | Phase transition | 1478 K | 1478 | polymorphic: α ↔ β | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 2, p. 5, row 13; `ORC-VCJLHPKC7S` |  |
 | Phase transition | 1478 K | 1478 | polymorphic: α ↔ β | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 2, p. 5, row 10; `ORC-XK4T4M2VM3` |  |
 | Phase transition | 1478.15 K | 1478.15 | /3 ZrO2-z + a Zr02\_= | experimental | [2] Arroyave 2002; _cites Ackerman 1975_ | p. 3; `ORC-W6J73SQWVD` | “At 1205°C, this phase transforms to a Zr02\_= \[15\].” |
-| Phase transition | 1773 K | 1773 | other: fcc_C1 \<=> O2 Zr1 (tetragonal) + hcp_A3 | model | [5] Chevalier 2004 | p. 15; `ORC-RQUSBQ3JU2` | “In the field located in the triangle UO2 -ZrO2 -Zr0.7 O0.3 , a two-phase field fcc_C1 + fcc_C1 appears at 1773 K, due to the invariant reaction fcc_C1 ⇔ O2 Zr1 (tetragonal) + hcp_A3 in the O-Zr binary system around 1773 K.” |
 | Phase transition | 1798.15 K | 1798.15 | other: 7 ZrO2-x ~- HCP +/3 Zr02\_= | experimental | [2] Arroyave 2002; _cites Rauh 1980_ | p. 3; `ORC-CR5NTR5F7M` | “It has also been observed \[13\] that there exists an invariant transformation 7 ZrO2-x ~- HCP +/3 Zr02\_= at 1525°C.” |
-| Phase transition | 2400 K | 2400 | congruent transformation | model | [3] Pérez 2007 | p. 6; `ORC-JJVADSWMTN` | “This phase is stable up to its congruent melting point of 2400 K at 29 at.% O.” |
-| Phase transition | 2402 K | 2402 | congruent transformation | model | [1] Wang 2004 | p. 9; `ORC-4V7EFZORG6` | “The congruent melting point of the hcp phase (2402 K) is calculated at 29 at.% O, which has to be compared with 25 at.% O given by \[1\].” |
 | Phase transition | 2558 K | 2558 | polymorphic: β ↔ γ | experimental | [1] Wang 2004; _cites Smith 1962_ | Table 2, p. 5, row 16; `ORC-PQFN3INWDD` |  |
 | Phase transition | 2566 K | 2566 | polymorphic: β ↔ γ | experimental | [1] Wang 2004; _cites Wolten 1963_ | Table 2, p. 5, row 17; `ORC-EBOGVK742Q` |  |
 | Phase transition | 2573 K | 2573 | polymorphic: β ↔ γ | experimental | [1] Wang 2004; _cites Ruh 1970_ | Table 2, p. 5, row 19; `ORC-5DGHVE5N7E` |  |
 | Phase transition | 2627 K | 2627 | polymorphic: β ↔ γ | model | [1] Wang 2004; _cites Liang 2001_ | Table 2, p. 5, row 25; `ORC-QOXWKTWVIO` |  |
-| Phase transition | 2641 K | 2641 |  | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | p. 6; `ORC-K27VU47Z3K.a47c28` | “It must be pointed out that a 'small' but unacceptable inconsistency in the work of Arroyave et al. \[12\] is that the phase transition temperatures (1478, 2641, 2950 K) assessed for the monoclinic, tetragonal and cubic phases, respectively, in the calculated phase diagram are not consistent with the temperature limits (1445, 2620, 2983 K) in the Gibbs energy equation for stoichiometric ZrO2 , whic…” |
 | Phase transition | 2641 K | 2641 | polymorphic: β ↔ γ | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 2, p. 5, row 26; `ORC-6BIZE6ORVH` |  |
 | Phase transition | 2642 K | 2642 | polymorphic: β ↔ γ | model | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 2, p. 5, row 24; `ORC-SMEHSXGINP` |  |
 | Phase transition | 2643 K | 2643 | polymorphic: β ↔ γ | model | [1] Wang 2004; _cites Subbarao 1981_ | Table 2, p. 5, row 22; `ORC-DPNYHBM3VB` |  |
@@ -143,11 +135,7 @@ Table: Phase transition, O–Zr system
 | Phase transition | 2650 K | 2650 | polymorphic: β ↔ γ | model | [1] Wang 2004; _cites Abriata 1986_ [doi](https://doi.org/10.1007/bf02881546) | Table 2, p. 5, row 23; `ORC-4OFAZTAJJM` |  |
 | Phase transition | 2650 K | 2650 | polymorphic: β ↔ γ | model | [1] Wang 2004; _cites Ackerman 1975_ | Table 2, p. 5, row 21; `ORC-MIFNLXVLTJ` |  |
 | Phase transition | 2650 K | 2650 | polymorphic: β ↔ γ | model | [1] Wang 2004; _cites Dinsdale 2003_ | Table 2, p. 5, row 28; `ORC-UMOSCP3W3R` |  |
-| Phase transition | 2650 K | 2650 | β ↔ γ | experimental | [1] Wang 2004 | p. 4; `ORC-Z4BR7CIXK5` | “The transformation temperature is accepted as 2650 K in most of the reports in the literature.” |
 | Phase transition | 2650.15 K | 2650.15 | 7 Zr02\_= + /3 Zr02-= | experimental | [2] Arroyave 2002; _cites Ackerman 1975_ | p. 3; `ORC-OXC2RUEXLJ` | “the non-stoichiometric region of the phase being stable at temperatures as low as 1525°C \[15\], \[7\], \[14\] which is much lower than the coherent transformation to the/3 Zr02-= phase(,-, 2377°C \[15\]).” |
-| Phase transition | 2950 K | 2950 |  | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | p. 6; `ORC-K27VU47Z3K.c52857` | “It must be pointed out that a 'small' but unacceptable inconsistency in the work of Arroyave et al. \[12\] is that the phase transition temperatures (1478, 2641, 2950 K) assessed for the monoclinic, tetragonal and cubic phases, respectively, in the calculated phase diagram are not consistent with the temperature limits (1445, 2620, 2983 K) in the Gibbs energy equation for stoichiometric ZrO2 , whic…” |
-| Phase transition | 2950 K | 2950 |  | experimental | [1] Wang 2004 | p. 4; `ORC-LDLK3PC7TU.841ec6` | “The melting point was reported by many groups (Table 2). Owing to the experimental uncertainties at such high temperatures, the data show some disagreement. Most of the authors accepted the value of 2983 or 2950 K.” |
-| Phase transition | 2950 K | 2950 | congruent transformation | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | p. 9; `ORC-NDSUGSJ7NW` | “The phase diagram calculated by \[12\] shows a congruent melting point very close to the stoichiometric composition at 2950 K, but lacks the consistency with the experimental data for the phase boundary liquid + cubic/cubic at high temperature.” |
 | Phase transition | 2950 K | 2950 | other: γ ↔ L | experimental | [1] Wang 2004; _cites Clausing 1932_ [doi](https://doi.org/10.1002/zaac.19322040105) | Table 2, p. 5, row 30; `ORC-2IX5FG22AX` |  |
 | Phase transition | 2950 K | 2950 | other: γ ↔ L | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 2, p. 5, row 42; `ORC-6J7TC6KONT` |  |
 | Phase transition | 2953 K | 2953 | other: γ ↔ L | experimental | [1] Wang 2004; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990218-7) | Table 2, p. 5, row 34; `ORC-5A5GTIPCIS` |  |
@@ -155,8 +143,6 @@ Table: Phase transition, O–Zr system
 | Phase transition | 2960 K | 2960 | other: γ ↔ L | experimental | [1] Wang 2004; _cites Henning 1925_ [doi](https://doi.org/10.1007/bf01591647) | Table 2, p. 5, row 29; `ORC-JOXIQIZNH4` |  |
 | Phase transition | 2961 K | 2961 | other: γ ↔ L | model | [1] Wang 2004; _cites Liang 2001_ | Table 2, p. 5, row 41; `ORC-IHL5VM5CRT` |  |
 | Phase transition | 2972 K | 2972 | other: γ ↔ L | experimental | [1] Wang 2004; _cites Noguchi 1966_ [doi](https://doi.org/10.1016/0038-092x%2866%2990014-4) | Table 2, p. 5, row 33; `ORC-BZGY5GABD5` |  |
-| Phase transition | 2983 K | 2983 |  | experimental | [1] Wang 2004 | p. 4; `ORC-LDLK3PC7TU.5fb024` | “The melting point was reported by many groups (Table 2). Owing to the experimental uncertainties at such high temperatures, the data show some disagreement. Most of the authors accepted the value of 2983 or 2950 K.” |
-| Phase transition | 2983 K | 2983 |  | model | [1] Wang 2004; _cites Liang 2001_ | p. 9; `ORC-UUC4XYCFYN.0d6f5a` | “Chevalier et al. \[10\] and Liang et al. \[11\] obtained results of 66.3 at.%O at 2993 K and 66 at.%O at 2983 K, respectively, and reproduced the liquid + cubic/cubic phase boundary very well.” |
 | Phase transition | 2983 K | 2983 | other: γ ↔ L | model | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 2, p. 5, row 39; `ORC-5QWJ3WZCAR` |  |
 | Phase transition | 2983 K | 2983 | other: γ ↔ L | experimental | [1] Wang 2004; _cites Ackerman 1977_ | Table 2, p. 5, row 35; `ORC-C7NUBLTP3M` |  |
 | Phase transition | 2983 K | 2983 | other: γ ↔ L | model | [1] Wang 2004; _cites Chen 2004_ | Table 2, p. 5, row 43; `ORC-CPHLOJIAGR` |  |
@@ -166,9 +152,7 @@ Table: Phase transition, O–Zr system
 | Phase transition | 2983.15 K | 2983.15 | congruent melting | experimental | [2] Arroyave 2002 | p. 2; `ORC-XCDQEWT3ZF` | “It has also been observed that at the stoichiometric composition Zr02, the high temperature cubic phase (7 Zr02\_=) melts congruently at 2710°C.” |
 | Phase transition | 2985 K | 2985 | other: γ ↔ L | model | [1] Wang 2004; _cites Chevalier 1998_ [doi](https://doi.org/10.1016/s0022-3115%2898%2900450-4) | Table 2, p. 5, row 40; `ORC-D5TU4WHNLQ` |  |
 | Phase transition | 2985 K | 2985 | other: γ ↔ L | model | [1] Wang 2004; _cites Dinsdale 2003_ | Table 2, p. 5, row 44; `ORC-FDB5RQGCH3` |  |
-| Phase transition | 2993 K | 2993 |  | model | [1] Wang 2004; _cites Chevalier 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.03.005) | p. 9; `ORC-UUC4XYCFYN.8b92e7` | “Chevalier et al. \[10\] and Liang et al. \[11\] obtained results of 66.3 at.%O at 2993 K and 66 at.%O at 2983 K, respectively, and reproduced the liquid + cubic/cubic phase boundary very well.” |
 | Phase transition | 2995 K | 2995 | other: γ ↔ L | experimental | [1] Wang 2004; _cites Noguchi 1966_ [doi](https://doi.org/10.1016/0038-092x%2866%2990014-4) | Table 2, p. 5, row 32; `ORC-IFXXZY3L3Y` |  |
-| Phase transition | 3067 K | 3067 | congruent transformation | model | [1] Wang 2004 | p. 9; `ORC-A3DCPD75EO` | “The calculated congruent melting point of cubic zirconia is at 65.76 at.%O and 3067 K, which is very similar to the result of \[13\].” |
 
 ### Phase equilibrium (61)
 
@@ -176,67 +160,67 @@ Table: Phase equilibrium, O–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1530 | α + ZrO2; _ZrO2: O 0.665, Zr 0.335_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 2; `ORC-XFL3DOOWVL` |  |
-| Phase composition |  | 1530 | β + α + ZrO2; _β: O 0.04, Zr 0.96; ZrO2: O 0.665, Zr 0.335_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 1; `ORC-5G2HDZYYQ7` |  |
-| Phase composition |  | 1546 | α; _α: O 0.298, Zr 0.702_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 1; `ORC-BMZL3A5YGB` |  |
-| Phase composition |  | 1580 | α + ZrO2; _α: O 0.285, Zr 0.715_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 3; `ORC-I7A7UNGB3Y` |  |
-| Phase composition |  | 1630 | α + ZrO2; _α: O 0.305, Zr 0.695_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 5; `ORC-TK35TNO3WY` |  |
-| Phase composition |  | 1630 | β + α; _β: O 0.059, Zr 0.941; α: O 0.305, Zr 0.695_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 4; `ORC-K2IATKK72P` |  |
-| Phase composition |  | 1730 | α + ZrO2; _ZrO2: O 0.665, Zr 0.335_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 9; `ORC-63OU4GB736` |  |
-| Phase composition |  | 1730 | α + ZrO2; _α: O 0.312, Zr 0.688_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 8; `ORC-7DWGZ5FJFA` |  |
-| Phase composition |  | 1730 | β + α; _α: O 0.15, Zr 0.85_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 7; `ORC-JAYULMPWRH` |  |
-| Phase composition |  | 1730 | β + α + ZrO2; _β: O 0.07, Zr 0.93; α: O 0.312, Zr 0.688; ZrO2: O 0.665, Zr 0.335_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 6; `ORC-X75VJZAETG` |  |
-| Phase composition |  | 1830 | α + ZrO2; _ZrO2: O 0.635, Zr 0.365_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 13; `ORC-FYELJBDYFN` |  |
-| Phase composition |  | 1830 | α + ZrO2; _α: O 0.304, Zr 0.696_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 12; `ORC-GL5LE54R4G` |  |
-| Phase composition |  | 1830 | β + α; _α: O 0.165, Zr 0.835_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 11; `ORC-DWW5KXYC6C` |  |
-| Phase composition |  | 1830 | β + α + ZrO2; _β: O 0.082, Zr 0.918; α: O 0.304, Zr 0.696; ZrO2: O 0.635, Zr 0.365_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 10; `ORC-2IF3YVVCVO` |  |
-| Phase composition |  | 1930 | α + ZrO2; _α: O 0.317, Zr 0.683_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 16; `ORC-BFCSBA52AF` |  |
-| Phase composition |  | 1930 | α + ZrO2; _ZrO2: O 0.632, Zr 0.368_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 17; `ORC-C6CRXRTGXN` |  |
-| Phase composition |  | 1930 | β + α; _α: O 0.175, Zr 0.825_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 15; `ORC-IEETB6E2GQ` |  |
-| Phase composition |  | 1930 | β + α + ZrO2; _β: O 0.1, Zr 0.9; α: O 0.317, Zr 0.683; ZrO2: O 0.632, Zr 0.368_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 14; `ORC-Q7LZTOX23Q` |  |
-| Phase composition |  | 2030 | α + ZrO2; _ZrO2: O 0.63, Zr 0.37_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 21; `ORC-DZ44WL7M2H` |  |
-| Phase composition |  | 2030 | α + ZrO2; _α: O 0.325, Zr 0.675_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 20; `ORC-MNTY2CPI6T` |  |
-| Phase composition |  | 2030 | β + α; _α: O 0.182, Zr 0.818_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 19; `ORC-M6G2R6P23X` |  |
-| Phase composition |  | 2030 | β + α + ZrO2; _β: O 0.111, Zr 0.889; α: O 0.325, Zr 0.675; ZrO2: O 0.63, Zr 0.37_ | experimental | [6] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 18; `ORC-YFTSU3VZSD` |  |
-| Phase composition |  | 2088 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6305, Zr 0.3695; ZrO2: O 0.6305, Zr 0.3695_ | experimental | [6] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 1; `ORC-OTWN3U4C3P` |  |
-| Phase composition |  | 2089 | α; _α: O 0.329, Zr 0.671_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 2; `ORC-7CHXOKTNE7` |  |
-| Phase composition |  | 2145 | β; _β: O 0.048, Zr 0.952_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 34; `ORC-O5MVT22ASE` |  |
-| Phase composition |  | 2148 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6274, Zr 0.3726; ZrO2: O 0.6274, Zr 0.3726_ | experimental | [6] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 2; `ORC-BPKVQY5C7F` |  |
-| Phase composition |  | 2158 | α; _α: O 0.334, Zr 0.666_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 3; `ORC-6QR4HTRY7M` |  |
-| Phase composition |  | 2191 | β; _β: O 0.073, Zr 0.927_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 33; `ORC-DNPHSQWYGR` |  |
-| Phase composition |  | 2218 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6256, Zr 0.3744; ZrO2: O 0.6256, Zr 0.3744_ | experimental | [6] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 3; `ORC-JKMC2PX3Y2` |  |
-| Phase composition |  | 2229 | ZrO2; _ZrO2: O 0.635, Zr 0.365_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 5; `ORC-JPV4NBMYUP` |  |
-| Phase composition |  | 2234 | L; _L: O 0.063, Zr 0.937_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 30; `ORC-45PFIJEC2L` |  |
-| Phase composition |  | 2241 | β; _β: O 0.094, Zr 0.906_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 32; `ORC-BCVZZIKH4G` |  |
-| Phase composition |  | 2243 | α; _α: O 0.195, Zr 0.805_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 29; `ORC-LYG5Y2ACOL` |  |
-| Phase composition |  | 2243 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6277, Zr 0.3723; ZrO2: O 0.6277, Zr 0.3723_ | experimental | [6] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 4; `ORC-2VELFZS4YW` |  |
-| Phase composition |  | 2243 | β; _β: O 0.105, Zr 0.895_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 31; `ORC-QAUC42XHYJ` |  |
-| Phase composition |  | 2253 | α; _α: O 0.337, Zr 0.663_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 4; `ORC-I5PA2G5GMQ` |  |
-| Phase composition |  | 2254 | L; _L: O 0.107, Zr 0.893_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 20; `ORC-JM4CZKYK3I` |  |
-| Phase composition |  | 2282 | ZrO2; _ZrO2: O 0.628, Zr 0.372_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 6; `ORC-3PRLVLBL5P` |  |
-| Phase composition |  | 2293 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6259, Zr 0.3741; ZrO2: O 0.6259, Zr 0.3741_ | experimental | [6] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 5; `ORC-N4GXVD55UO` |  |
-| Phase composition |  | 2297 | L; _L: O 0.12, Zr 0.88_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 21; `ORC-7MCCDYINLJ` |  |
-| Phase composition |  | 2318 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6221, Zr 0.3779; ZrO2: O 0.6221, Zr 0.3779_ | experimental | [6] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 6; `ORC-FGW7K237HH` |  |
-| Phase composition |  | 2328 | ZrO2; _ZrO2: O 0.624, Zr 0.376_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 7; `ORC-2ZFJW57WNU` |  |
-| Phase composition |  | 2338 | L; _L: O 0.4, Zr 0.6_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 25; `ORC-6BM5LZRCRN` |  |
-| Phase composition |  | 2338 | α; _α: O 0.35, Zr 0.65_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 26; `ORC-DQLTOTJG3F` |  |
-| Phase composition |  | 2360 | α; _α: O 0.33, Zr 0.67_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 27; `ORC-LN6PLUVLBO` |  |
-| Phase composition |  | 2364 | ZrO2; _ZrO2: O 0.622, Zr 0.378_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 12; `ORC-M3T4AHKFMF` |  |
-| Phase composition |  | 2381 | L; _L: O 0.33, Zr 0.67_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 24; `ORC-VLWSOIU4RV` |  |
-| Phase composition |  | 2392 | L; _L: O 0.42, Zr 0.58_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 11; `ORC-UABZOF5VKD` |  |
-| Phase composition |  | 2393 | L; _L: O 0.231, Zr 0.769_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 22; `ORC-BVLGIXDDHU` |  |
-| Phase composition |  | 2396 | L; _L: O 0.412, Zr 0.588_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 9; `ORC-TDFXXXO7KN` |  |
-| Phase composition |  | 2401 | L; _L: O 0.42, Zr 0.58_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 8; `ORC-FESF57UNUH` |  |
-| Phase composition |  | 2401 | L; _L: O 0.403, Zr 0.597_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 10; `ORC-SIYAJ27YUW` |  |
-| Phase composition |  | 2403 | L; _L: O 0.24, Zr 0.76_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 23; `ORC-WWMZLDTGNJ` |  |
-| Phase composition |  | 2403 | α; _α: O 0.25, Zr 0.75_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 28; `ORC-R445AOELVE` |  |
-| Phase composition |  | 2417 | ZrO2; _ZrO2: O 0.616, Zr 0.384_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 13; `ORC-7AQL7Q7PJU` |  |
-| Phase composition |  | 2475 | ZrO2; _ZrO2: O 0.613, Zr 0.387_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 14; `ORC-J633QWFP4M` |  |
-| Phase composition |  | 2517 | ZrO2; _ZrO2: O 0.611, Zr 0.389_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 15; `ORC-UVDWAEX5CZ` |  |
-| Phase composition |  | 2525 | ZrO2; _ZrO2: O 0.611, Zr 0.389_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 16; `ORC-INGXLHD52P` |  |
-| Phase composition |  | 2586 | ZrO2; _ZrO2: O 0.608, Zr 0.392_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 17; `ORC-4LFVZIEC4J` |  |
-| Phase composition |  | 2650 | ZrO2; _ZrO2: O 0.614, Zr 0.386_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 18; `ORC-GNWJV2X24Q` |  |
-| Phase composition |  | 2677 | ZrO2; _ZrO2: O 0.616, Zr 0.384_ | experimental | [6] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 19; `ORC-BP44DYNIUU` |  |
+| Phase composition |  | 1530 | α + ZrO2; _ZrO2: O 0.665, Zr 0.335_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 2; `ORC-XFL3DOOWVL` |  |
+| Phase composition |  | 1530 | β + α + ZrO2; _β: O 0.04, Zr 0.96; ZrO2: O 0.665, Zr 0.335_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 1; `ORC-5G2HDZYYQ7` |  |
+| Phase composition |  | 1546 | α; _α: O 0.298, Zr 0.702_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 1; `ORC-BMZL3A5YGB` |  |
+| Phase composition |  | 1580 | α + ZrO2; _α: O 0.285, Zr 0.715_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 3; `ORC-I7A7UNGB3Y` |  |
+| Phase composition |  | 1630 | α + ZrO2; _α: O 0.305, Zr 0.695_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 5; `ORC-TK35TNO3WY` |  |
+| Phase composition |  | 1630 | β + α; _β: O 0.059, Zr 0.941; α: O 0.305, Zr 0.695_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 4; `ORC-K2IATKK72P` |  |
+| Phase composition |  | 1730 | α + ZrO2; _ZrO2: O 0.665, Zr 0.335_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 9; `ORC-63OU4GB736` |  |
+| Phase composition |  | 1730 | α + ZrO2; _α: O 0.312, Zr 0.688_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 8; `ORC-7DWGZ5FJFA` |  |
+| Phase composition |  | 1730 | β + α; _α: O 0.15, Zr 0.85_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 7; `ORC-JAYULMPWRH` |  |
+| Phase composition |  | 1730 | β + α + ZrO2; _β: O 0.07, Zr 0.93; α: O 0.312, Zr 0.688; ZrO2: O 0.665, Zr 0.335_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 6; `ORC-X75VJZAETG` |  |
+| Phase composition |  | 1830 | α + ZrO2; _ZrO2: O 0.635, Zr 0.365_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 13; `ORC-FYELJBDYFN` |  |
+| Phase composition |  | 1830 | α + ZrO2; _α: O 0.304, Zr 0.696_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 12; `ORC-GL5LE54R4G` |  |
+| Phase composition |  | 1830 | β + α; _α: O 0.165, Zr 0.835_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 11; `ORC-DWW5KXYC6C` |  |
+| Phase composition |  | 1830 | β + α + ZrO2; _β: O 0.082, Zr 0.918; α: O 0.304, Zr 0.696; ZrO2: O 0.635, Zr 0.365_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 10; `ORC-2IF3YVVCVO` |  |
+| Phase composition |  | 1930 | α + ZrO2; _α: O 0.317, Zr 0.683_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 16; `ORC-BFCSBA52AF` |  |
+| Phase composition |  | 1930 | α + ZrO2; _ZrO2: O 0.632, Zr 0.368_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 17; `ORC-C6CRXRTGXN` |  |
+| Phase composition |  | 1930 | β + α; _α: O 0.175, Zr 0.825_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 15; `ORC-IEETB6E2GQ` |  |
+| Phase composition |  | 1930 | β + α + ZrO2; _β: O 0.1, Zr 0.9; α: O 0.317, Zr 0.683; ZrO2: O 0.632, Zr 0.368_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 14; `ORC-Q7LZTOX23Q` |  |
+| Phase composition |  | 2030 | α + ZrO2; _ZrO2: O 0.63, Zr 0.37_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 21; `ORC-DZ44WL7M2H` |  |
+| Phase composition |  | 2030 | α + ZrO2; _α: O 0.325, Zr 0.675_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 20; `ORC-MNTY2CPI6T` |  |
+| Phase composition |  | 2030 | β + α; _α: O 0.182, Zr 0.818_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 19; `ORC-M6G2R6P23X` |  |
+| Phase composition |  | 2030 | β + α + ZrO2; _β: O 0.111, Zr 0.889; α: O 0.325, Zr 0.675; ZrO2: O 0.63, Zr 0.37_ | experimental | [4] Chevalier 1998; _cites Gebhardt 1961_ [doi](https://doi.org/10.1016/0022-3115%2861%2990075-7) | Table 11, p. 12, row 18; `ORC-YFTSU3VZSD` |  |
+| Phase composition |  | 2088 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6305, Zr 0.3695; ZrO2: O 0.6305, Zr 0.3695_ | experimental | [4] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 1; `ORC-OTWN3U4C3P` |  |
+| Phase composition |  | 2089 | α; _α: O 0.329, Zr 0.671_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 2; `ORC-7CHXOKTNE7` |  |
+| Phase composition |  | 2145 | β; _β: O 0.048, Zr 0.952_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 34; `ORC-O5MVT22ASE` |  |
+| Phase composition |  | 2148 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6274, Zr 0.3726; ZrO2: O 0.6274, Zr 0.3726_ | experimental | [4] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 2; `ORC-BPKVQY5C7F` |  |
+| Phase composition |  | 2158 | α; _α: O 0.334, Zr 0.666_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 3; `ORC-6QR4HTRY7M` |  |
+| Phase composition |  | 2191 | β; _β: O 0.073, Zr 0.927_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 33; `ORC-DNPHSQWYGR` |  |
+| Phase composition |  | 2218 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6256, Zr 0.3744; ZrO2: O 0.6256, Zr 0.3744_ | experimental | [4] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 3; `ORC-JKMC2PX3Y2` |  |
+| Phase composition |  | 2229 | ZrO2; _ZrO2: O 0.635, Zr 0.365_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 5; `ORC-JPV4NBMYUP` |  |
+| Phase composition |  | 2234 | L; _L: O 0.063, Zr 0.937_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 30; `ORC-45PFIJEC2L` |  |
+| Phase composition |  | 2241 | β; _β: O 0.094, Zr 0.906_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 32; `ORC-BCVZZIKH4G` |  |
+| Phase composition |  | 2243 | α; _α: O 0.195, Zr 0.805_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 29; `ORC-LYG5Y2ACOL` |  |
+| Phase composition |  | 2243 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6277, Zr 0.3723; ZrO2: O 0.6277, Zr 0.3723_ | experimental | [4] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 4; `ORC-2VELFZS4YW` |  |
+| Phase composition |  | 2243 | β; _β: O 0.105, Zr 0.895_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 31; `ORC-QAUC42XHYJ` |  |
+| Phase composition |  | 2253 | α; _α: O 0.337, Zr 0.663_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 4; `ORC-I5PA2G5GMQ` |  |
+| Phase composition |  | 2254 | L; _L: O 0.107, Zr 0.893_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 20; `ORC-JM4CZKYK3I` |  |
+| Phase composition |  | 2282 | ZrO2; _ZrO2: O 0.628, Zr 0.372_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 6; `ORC-3PRLVLBL5P` |  |
+| Phase composition |  | 2293 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6259, Zr 0.3741; ZrO2: O 0.6259, Zr 0.3741_ | experimental | [4] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 5; `ORC-N4GXVD55UO` |  |
+| Phase composition |  | 2297 | L; _L: O 0.12, Zr 0.88_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 21; `ORC-7MCCDYINLJ` |  |
+| Phase composition |  | 2318 | α + ZrO2 + ZrO2-x; _ZrO2-x: O 0.6221, Zr 0.3779; ZrO2: O 0.6221, Zr 0.3779_ | experimental | [4] Chevalier 1998; _cites Tanabe 1987_ [doi](https://doi.org/10.1016/s0039-6028%2887%2980071-7) | Table 13, p. 13, row 6; `ORC-FGW7K237HH` |  |
+| Phase composition |  | 2328 | ZrO2; _ZrO2: O 0.624, Zr 0.376_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 7; `ORC-2ZFJW57WNU` |  |
+| Phase composition |  | 2338 | L; _L: O 0.4, Zr 0.6_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 25; `ORC-6BM5LZRCRN` |  |
+| Phase composition |  | 2338 | α; _α: O 0.35, Zr 0.65_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 26; `ORC-DQLTOTJG3F` |  |
+| Phase composition |  | 2360 | α; _α: O 0.33, Zr 0.67_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 27; `ORC-LN6PLUVLBO` |  |
+| Phase composition |  | 2364 | ZrO2; _ZrO2: O 0.622, Zr 0.378_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 12; `ORC-M3T4AHKFMF` |  |
+| Phase composition |  | 2381 | L; _L: O 0.33, Zr 0.67_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 24; `ORC-VLWSOIU4RV` |  |
+| Phase composition |  | 2392 | L; _L: O 0.42, Zr 0.58_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 11; `ORC-UABZOF5VKD` |  |
+| Phase composition |  | 2393 | L; _L: O 0.231, Zr 0.769_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 22; `ORC-BVLGIXDDHU` |  |
+| Phase composition |  | 2396 | L; _L: O 0.412, Zr 0.588_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 9; `ORC-TDFXXXO7KN` |  |
+| Phase composition |  | 2401 | L; _L: O 0.42, Zr 0.58_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 8; `ORC-FESF57UNUH` |  |
+| Phase composition |  | 2401 | L; _L: O 0.403, Zr 0.597_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 10; `ORC-SIYAJ27YUW` |  |
+| Phase composition |  | 2403 | L; _L: O 0.24, Zr 0.76_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 23; `ORC-WWMZLDTGNJ` |  |
+| Phase composition |  | 2403 | α; _α: O 0.25, Zr 0.75_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 28; `ORC-R445AOELVE` |  |
+| Phase composition |  | 2417 | ZrO2; _ZrO2: O 0.616, Zr 0.384_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 13; `ORC-7AQL7Q7PJU` |  |
+| Phase composition |  | 2475 | ZrO2; _ZrO2: O 0.613, Zr 0.387_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 14; `ORC-J633QWFP4M` |  |
+| Phase composition |  | 2517 | ZrO2; _ZrO2: O 0.611, Zr 0.389_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 15; `ORC-UVDWAEX5CZ` |  |
+| Phase composition |  | 2525 | ZrO2; _ZrO2: O 0.611, Zr 0.389_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 16; `ORC-INGXLHD52P` |  |
+| Phase composition |  | 2586 | ZrO2; _ZrO2: O 0.608, Zr 0.392_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 17; `ORC-4LFVZIEC4J` |  |
+| Phase composition |  | 2650 | ZrO2; _ZrO2: O 0.614, Zr 0.386_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 18; `ORC-GNWJV2X24Q` |  |
+| Phase composition |  | 2677 | ZrO2; _ZrO2: O 0.616, Zr 0.384_ | experimental | [4] Chevalier 1998; _cites Ackermann 1977_ | Table 12, p. 12, row 19; `ORC-BP44DYNIUU` |  |
 
 ### Heat capacity / entropy / enthalpy (26)
 
@@ -244,12 +228,12 @@ Table: Heat capacity / entropy / enthalpy, O–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S(ZrO2)_ | 50.72 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Liang 2001_ | Table 1, p. 3, row 6; `ORC-5YCRQZON3U.2b6b29` |  |
-| Entropy; _printed: S(ZrO2)_ | 50.33 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [4] CHEN 2004; _cites Kelley 1944_ | Table 1, p. 3, row 1; `ORC-OOZB5LGXAO` |  |
-| Entropy; _printed: S(ZrO2)_ | 50.359 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Chase 1985_ | Table 1, p. 3, row 5; `ORC-QGUS63XPN5.ebfb5f` |  |
-| Entropy; _printed: S(ZrO2)_ | 49.79 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [4] CHEN 2004; _cites Tojo 1999_ | Table 1, p. 3, row 3; `ORC-QNNBZBMKXP.26b640` |  |
-| Entropy; _printed: S(ZrO2)_ | 50.71 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Ackermann 1975_ | Table 1, p. 3, row 4; `ORC-XJOFV243UT.8de5e2` |  |
-| Entropy; _printed: S(ZrO2)_ | 49.8 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004 | Table 1, p. 3, row 7; `ORC-Y7QFWUUIQA.2e72f4` |  |
+| Entropy; _printed: S(ZrO2)_ | 50.72 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004; _cites Liang 2001_ | Table 1, p. 3, row 6; `ORC-5YCRQZON3U.2b6b29` |  |
+| Entropy; _printed: S(ZrO2)_ | 50.33 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [3] CHEN 2004; _cites Kelley 1944_ | Table 1, p. 3, row 1; `ORC-OOZB5LGXAO` |  |
+| Entropy; _printed: S(ZrO2)_ | 50.359 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004; _cites Chase 1985_ | Table 1, p. 3, row 5; `ORC-QGUS63XPN5.ebfb5f` |  |
+| Entropy; _printed: S(ZrO2)_ | 49.79 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [3] CHEN 2004; _cites Tojo 1999_ | Table 1, p. 3, row 3; `ORC-QNNBZBMKXP.26b640` |  |
+| Entropy; _printed: S(ZrO2)_ | 50.71 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004; _cites Ackermann 1975_ | Table 1, p. 3, row 4; `ORC-XJOFV243UT.8de5e2` |  |
+| Entropy; _printed: S(ZrO2)_ | 49.8 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004 | Table 1, p. 3, row 7; `ORC-Y7QFWUUIQA.2e72f4` |  |
 | Entropy | 50.71 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Kelly 1961_ | Table 3, p. 6, row 2; `ORC-3SNHZDZ55Y` |  |
 | Entropy | 49.79 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Tojo 1999_ [doi](https://doi.org/10.1006/jcht.1998.0481) | Table 3, p. 6, row 6; `ORC-BZJMSBBPAB.8a2017` |  |
 | Entropy | 49.8 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Chen 2004_ | Table 3, p. 6, row 10; `ORC-E5CPA7HYOF.ae9a56` |  |
@@ -257,12 +241,12 @@ Table: Heat capacity / entropy / enthalpy, O–Zr system
 | Entropy | 50.36 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 3, p. 6, row 9; `ORC-GJPSMMKMUH.36bb89` |  |
 | Entropy | 50.35 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 3, p. 6, row 7; `ORC-WVWMHM2MNK.99958c` |  |
 | Entropy | 50.35 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | unspecified | [1] Wang 2004; _cites Dinsdale 2003_ | Table 3, p. 6, row 11; `ORC-XPXHLUS742.96ca74` |  |
-| Heat capacity; _printed: Cp(ZrO2)_ | 56.5 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [4] CHEN 2004; _cites Nevitt 1990_ | Table 1, p. 3, row 2; `ORC-2SRBY3OAOB` |  |
-| Heat capacity; _printed: Cp(ZrO2)_ | 63.43 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Liang 2001_ | Table 1, p. 3, row 6; `ORC-5YCRQZON3U.b6979c` |  |
-| Heat capacity; _printed: Cp(ZrO2)_ | 56.191 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Chase 1985_ | Table 1, p. 3, row 5; `ORC-QGUS63XPN5.3d4d9c` |  |
-| Heat capacity; _printed: Cp(ZrO2)_ | 56.14 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [4] CHEN 2004; _cites Tojo 1999_ | Table 1, p. 3, row 3; `ORC-QNNBZBMKXP.f86597` |  |
-| Heat capacity; _printed: Cp(ZrO2)_ | 56.02 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Ackermann 1975_ | Table 1, p. 3, row 4; `ORC-XJOFV243UT.890ffc` |  |
-| Heat capacity; _printed: Cp(ZrO2)_ | 57.21 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004 | Table 1, p. 3, row 7; `ORC-Y7QFWUUIQA.aa2b26` |  |
+| Heat capacity; _printed: Cp(ZrO2)_ | 56.5 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [3] CHEN 2004; _cites Nevitt 1990_ | Table 1, p. 3, row 2; `ORC-2SRBY3OAOB` |  |
+| Heat capacity; _printed: Cp(ZrO2)_ | 63.43 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004; _cites Liang 2001_ | Table 1, p. 3, row 6; `ORC-5YCRQZON3U.b6979c` |  |
+| Heat capacity; _printed: Cp(ZrO2)_ | 56.191 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004; _cites Chase 1985_ | Table 1, p. 3, row 5; `ORC-QGUS63XPN5.3d4d9c` |  |
+| Heat capacity; _printed: Cp(ZrO2)_ | 56.14 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [3] CHEN 2004; _cites Tojo 1999_ | Table 1, p. 3, row 3; `ORC-QNNBZBMKXP.f86597` |  |
+| Heat capacity; _printed: Cp(ZrO2)_ | 56.02 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004; _cites Ackermann 1975_ | Table 1, p. 3, row 4; `ORC-XJOFV243UT.890ffc` |  |
+| Heat capacity; _printed: Cp(ZrO2)_ | 57.21 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [3] CHEN 2004 | Table 1, p. 3, row 7; `ORC-Y7QFWUUIQA.aa2b26` |  |
 | Heat capacity | 56.14 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Tojo 1999_ [doi](https://doi.org/10.1006/jcht.1998.0481) | Table 3, p. 6, row 6; `ORC-BZJMSBBPAB.e77723` |  |
 | Heat capacity | 57.21 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Chen 2004_ | Table 3, p. 6, row 10; `ORC-E5CPA7HYOF.349c85` |  |
 | Heat capacity | 63.43 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Liang 2001_ | Table 3, p. 6, row 8; `ORC-F6NCSYDKXL.bfb2bf` |  |
@@ -279,18 +263,18 @@ Table: Activity / EMF / Gibbs energy, O–Zr system
 |---|---:|---:|---|---|---|---|---|
 | Activity; _printed: a(Zr)_ | 0.29 unspecified | 2100.15 |  | model | [2] Arroyave 2002 | p. 16; `ORC-J7JMIFQGDS.81a221` | “This activity was measured to be 0.68, having pure zirconium at 1827°C as the reference state. Our model predicts that under this conditions, the activity of Zirconium must be 0.29.” |
 | Activity; _printed: a(Zr)_ | 0.68 unspecified | 2100.15 |  | experimental | [2] Arroyave 2002 | p. 16; `ORC-J7JMIFQGDS.b09e21` | “This activity was measured to be 0.68, having pure zirconium at 1827°C as the reference state.” |
-| Activity Zr; _printed: a(Zr)_ | 0.52 1 | 1800 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [6] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 1; `ORC-HWNW22IGSK` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.532 1 | 1800 | Zr (S, saturated with O) + ZrO2-x(S) | model | [6] Chevalier 1998 | Table 15, p. 13, row 2; `ORC-RW2GX3LC53` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.538 1 | 1900 | Zr (S, saturated with O) + ZrO2-x(S) | model | [6] Chevalier 1998 | Table 15, p. 13, row 4; `ORC-2NT25W4LY7` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.57 1 | 1900 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [6] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 3; `ORC-UBXYTU5W5D` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.544 1 | 2000 | Zr (S, saturated with O) + ZrO2-x(S) | model | [6] Chevalier 1998 | Table 15, p. 13, row 6; `ORC-BIL75ZNXUQ` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.62 1 | 2000 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [6] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 5; `ORC-LMWJ55G7T2` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.547 1 | 2100 | Zr (S, saturated with O) + ZrO2-x(S) | model | [6] Chevalier 1998 | Table 15, p. 13, row 8; `ORC-JM4IMX2E46` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.67 1 | 2100 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [6] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 7; `ORC-RITIXFWOK3` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.72 1 | 2200 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [6] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 9; `ORC-4ZNQRDPH5A` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.572 1 | 2200 | Zr (S, saturated with O) + ZrO2-x(S) | model | [6] Chevalier 1998 | Table 15, p. 13, row 10; `ORC-YSSQBA4HLU` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.604 1 | 2300 | Zr (S, saturated with O) + ZrO2-x(S) | model | [6] Chevalier 1998 | Table 15, p. 13, row 12; `ORC-5P2GX5PFM2` |  |
-| Activity Zr; _printed: a(Zr)_ | 0.78 1 | 2300 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [6] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 11; `ORC-TLVM5YXFZN` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.52 1 | 1800 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [4] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 1; `ORC-HWNW22IGSK` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.532 1 | 1800 | Zr (S, saturated with O) + ZrO2-x(S) | model | [4] Chevalier 1998 | Table 15, p. 13, row 2; `ORC-RW2GX3LC53` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.538 1 | 1900 | Zr (S, saturated with O) + ZrO2-x(S) | model | [4] Chevalier 1998 | Table 15, p. 13, row 4; `ORC-2NT25W4LY7` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.57 1 | 1900 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [4] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 3; `ORC-UBXYTU5W5D` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.544 1 | 2000 | Zr (S, saturated with O) + ZrO2-x(S) | model | [4] Chevalier 1998 | Table 15, p. 13, row 6; `ORC-BIL75ZNXUQ` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.62 1 | 2000 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [4] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 5; `ORC-LMWJ55G7T2` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.547 1 | 2100 | Zr (S, saturated with O) + ZrO2-x(S) | model | [4] Chevalier 1998 | Table 15, p. 13, row 8; `ORC-JM4IMX2E46` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.67 1 | 2100 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [4] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 7; `ORC-RITIXFWOK3` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.72 1 | 2200 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [4] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 9; `ORC-4ZNQRDPH5A` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.572 1 | 2200 | Zr (S, saturated with O) + ZrO2-x(S) | model | [4] Chevalier 1998 | Table 15, p. 13, row 10; `ORC-YSSQBA4HLU` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.604 1 | 2300 | Zr (S, saturated with O) + ZrO2-x(S) | model | [4] Chevalier 1998 | Table 15, p. 13, row 12; `ORC-5P2GX5PFM2` |  |
+| Activity Zr; _printed: a(Zr)_ | 0.78 1 | 2300 | Zr (S, saturated with O) + ZrO2-x(S) | experimental | [4] Chevalier 1998; _cites Ackermann 1979_ | Table 15, p. 13, row 11; `ORC-TLVM5YXFZN` |  |
 
 ### Other property (5)
 
@@ -310,10 +294,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Chong Wang, Matvei Zinkevich, Fritz Aldinger, On the thermodynamic modeling of the Zr–O system, Calphad 28, 281-292 (2004). [doi:10.1016/j.calphad.2004.09.002](https://doi.org/10.1016/j.calphad.2004.09.002)
 2. Raymundo Arroyave, Larry Kaufman, Thomas W. Eagar, Thermodynamic modeling of the ZrO system, Calphad 26, 95-118 (2002). [doi:10.1016/s0364-5916(02)00027-5](https://doi.org/10.1016/s0364-5916%2802%2900027-5)
-3. R. Jerlerud Pérez, A.R. Massih, Thermodynamic evaluation of the Nb–O–Zr system, Journal of Nuclear Materials 360, 242-254 (2007). [doi:10.1016/j.jnucmat.2006.10.008](https://doi.org/10.1016/j.jnucmat.2006.10.008)
-4. M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004). [doi:10.1016/j.ssi.2004.02.017](https://doi.org/10.1016/j.ssi.2004.02.017)
-5. Pierre-Yves Chevalier, Evelyne Fischer, Bertrand Cheynet, Progress in the thermodynamic modelling of the O–U–Zr ternary system, Calphad 28, 15-40 (2004). [doi:10.1016/j.calphad.2004.03.005](https://doi.org/10.1016/j.calphad.2004.03.005)
-6. P.Y. Chevalier, E. Fischer, Thermodynamic modelling of the O–U–Zr system, Journal of Nuclear Materials 257, 213-255 (1998). [doi:10.1016/s0022-3115(98)00450-4](https://doi.org/10.1016/s0022-3115%2898%2900450-4)
+3. M CHEN, B HALLSTEDT, L GAUCKLER, Thermodynamic modeling of the ZrO2–YO1.5 system, Solid State Ionics 170, 255-274 (2004). [doi:10.1016/j.ssi.2004.02.017](https://doi.org/10.1016/j.ssi.2004.02.017)
+4. P.Y. Chevalier, E. Fischer, Thermodynamic modelling of the O–U–Zr system, Journal of Nuclear Materials 257, 213-255 (1998). [doi:10.1016/s0022-3115(98)00450-4](https://doi.org/10.1016/s0022-3115%2898%2900450-4)
 
 ## Please cite
 

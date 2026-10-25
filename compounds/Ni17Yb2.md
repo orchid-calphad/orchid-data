@@ -32,14 +32,14 @@ Table: Uncertainty budget of the literature values of Ni17Yb2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -17 | kJ/mol-atom | 0.1 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -14.8 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -17 | kJ/mol-atom | 0.1 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -14.8 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -13.9 | unknown | 0.3 | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 0.3 |
-| -13.9 | kJ/mol-atom | 0.3 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -13.9 | kJ/mol-atom | 0.3 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -13.15 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -13.15 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -12.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -12.4 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -12.4 | kJ/mol-atom |  | 0.05 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 | -12.4 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
 
 ## DFT formation energies

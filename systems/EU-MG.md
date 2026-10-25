@@ -1,10 +1,10 @@
 # Eu–Mg system
 
-> Eu–Mg system: 46 accepted literature values (crystal structure 28, invariant reaction 14, phase transition 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Eu–Mg system: 45 accepted literature values (crystal structure 28, invariant reaction 13, phase transition 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/EU-MG.html · Markdown: https://data.orchid-project.org/systems/EU-MG.md
 
-46 accepted literature values from 1 paper(s) (experimental 9, model 9, DFT 28); 0 calculated phase diagram(s).
+45 accepted literature values from 1 paper(s) (experimental 9, model 8, DFT 28); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/EU-MG.json) · [CSV](https://data.orchid-project.org/systems/EU-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-MG) · [phases (8)](https://data.orchid-project.org/phases/pages/EU-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-MG.html) · [Markdown](https://data.orchid-project.org/systems/EU-MG.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 9 |
-| model | 9 |
+| model | 8 |
 | DFT | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 13 |
 | phase transition | 4 |
 | crystal structure | 28 |
 
@@ -28,7 +28,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Eu–Mg system (14)
+Table: Invariant reactions reported in the literature for the Eu–Mg system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -41,7 +41,6 @@ Table: Invariant reactions reported in the literature for the Eu–Mg system (14
 | 835 | eutectic: L -> HCP + Mg17Eu2 | L: Mg 0.993 | experimental | [1] Tao 2008; _cites Rokhlin 2003_ [doi](https://doi.org/10.1201/9781482265163) | Table 3, p. 4, row 2; `ORC-CPB66HEM6E` |  |
 | 813 | eutectoid: Mg5Eu + Mg2Eu -> Mg4Eu | Mg4Eu: Mg 0.8 | experimental | [1] Tao 2008; _cites Zandbergen 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990222-1) | Table 3, p. 4, row 10; `ORC-2MFI7DDEZH` |  |
 | 813 | eutectoid: Mg5Eu + Mg2Eu -> Mg4Eu | Mg4Eu: Mg 0.8 | model | [1] Tao 2008 | Table 3, p. 4, row 11; `ORC-3IFNRZS2KW` |  |
-| 813 | eutectoid |  | model | [1] Tao 2008 | p. 3; `ORC-5GFSCK7QSR` | “However, due to lack of experiment, we assumed in present work that Mg4 Eu is formed by a eutectoid reaction at 813 K.” |
 | 736 | peritectic: L + Mg2Eu -> MgEu | L: Mg 0.34 | model | [1] Tao 2008 | Table 3, p. 4, row 15; `ORC-JBWOZ5UPTF` |  |
 | 736 | peritectic: L + Mg2Eu -> MgEu | L: Mg 0.34 | experimental | [1] Tao 2008; _cites Muhlpfordt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990045-9) | Table 3, p. 4, row 14; `ORC-QWUVB7QBQH` |  |
 | 728 | eutectic: L -> MgEu + Eu | L: Mg 0.326 | model | [1] Tao 2008 | Table 3, p. 4, row 17; `ORC-PQ656KM23X` |  |

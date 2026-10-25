@@ -1,10 +1,10 @@
 # Ni–P system
 
-> Ni–P system: 17 accepted literature values (phase transition 9, invariant reaction 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–P system: 16 accepted literature values (invariant reaction 8, phase transition 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-P.html · Markdown: https://data.orchid-project.org/systems/NI-P.md
 
-17 accepted literature values from 1 paper(s) (experimental 9, unspecified 8); 3 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (experimental 8, unspecified 8); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-P.json) · [CSV](https://data.orchid-project.org/systems/NI-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-P/NiP-15Mie.json) · [phases (14)](https://data.orchid-project.org/phases/pages/NI-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-P.html) · [Markdown](https://data.orchid-project.org/systems/NI-P.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 8 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 8 |
-| phase transition | 9 |
+| phase transition | 8 |
 
 ## Calculated phase diagrams
 
@@ -94,13 +94,12 @@ Table: Invariant reactions reported in the literature for the Ni–P system (8)
 
 ## Other properties
 
-### Phase transition (9)
+### Phase transition (8)
 
 Table: Phase transition, Ni–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 618 K | 618 | other | experimental | [1] Shim 1999; _cites Chen 1974_ [doi](https://doi.org/10.1016/0001-6160%2874%2990112-6) | p. 4; `ORC-YQHHSDOKK6` | “In the present work, EH for Ni-P alloys has been approximated at 29 900 J / mol, assuming T g for the Ni-P system is 618 K (3458C) reported by Chen \[30\].” |
 | Phase transition | 1273 K | 1273 | δNi12P5 = γNi12P5; _δNi12P5: P 0.294118; γNi12P5: P 0.294118_ | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 12; `ORC-2AP7TXUZXR` |  |
 | Phase transition | 1273 K | 1273 | δNi12P5 = γNi12P5; _δNi12P5: P 0.294; γNi12P5: P 0.294118_ | unspecified | [1] Shim 1999 | Table 2, p. 4, row 11; `ORC-CM6ZVLMXXS` |  |
 | Phase transition | 1298 K | 1298 | βNi5P2 = αNi5P2; _βNi5P2: P 0.285714; αNi5P2: P 0.285714_ | experimental | [1] Shim 1999; _cites Lee 1991_ | Table 2, p. 4, row 8; `ORC-6E6Q5DGXEX` |  |

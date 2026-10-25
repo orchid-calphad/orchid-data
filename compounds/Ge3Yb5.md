@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of Ge3Yb5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -69.7 | kJ/mol-atom | 8.2 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 8.2 |
-| -69.2 | kJ/mol-atom | 8.2 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 8.2 |
+| -69.7 | kJ/mol-atom | 8.2 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 8.2 |
+| -69.2 | kJ/mol-atom | 8.2 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 8.2 |
 | -72.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -69.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -68.649 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -65 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -65 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

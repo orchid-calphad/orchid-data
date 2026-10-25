@@ -1,10 +1,10 @@
 # Ho–Ni system
 
-> Ho–Ni system: 153 accepted literature values (invariant reaction 71, formation 38, heat capacity / entropy / enthalpy 22, phase transition 22) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ho–Ni system: 149 accepted literature values (invariant reaction 71, formation 38, heat capacity / entropy / enthalpy 22, phase transition 18) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HO-NI.html · Markdown: https://data.orchid-project.org/systems/HO-NI.md
 
-153 accepted literature values from 3 paper(s) (experimental 43, model 96, unspecified 14); 2 calculated phase diagram(s).
+149 accepted literature values from 3 paper(s) (experimental 41, model 94, unspecified 14); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HO-NI.json) · [CSV](https://data.orchid-project.org/systems/HO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-NI/HoNi-15Kar.json) · [phases (13)](https://data.orchid-project.org/phases/pages/HO-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-NI.html) · [Markdown](https://data.orchid-project.org/systems/HO-NI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
-| model | 96 |
+| experimental | 41 |
+| model | 94 |
 | unspecified | 14 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 71 |
-| phase transition | 22 |
+| phase transition | 18 |
 | formation | 38 |
 | heat capacity / entropy / enthalpy | 22 |
 
@@ -127,8 +127,8 @@ Table: Invariant reactions reported in the literature for the Ho–Ni system (71
 | 1556 | eutectic: L -> fcc(Ni) + Ho2Ni17 | L: Ni 0.921; Ho2Ni17: Ni 0.894737 | model | [2] Ye 2023 | Table 10, p. 22, row 37; `ORC-HUBHOU5RTR` |  |
 | 1555.8 | peritectic: L + Ho2Ni7 -> HoNi3 | L: Ni 0.72; Ho2Ni7: Ni 0.777778; HoNi3: Ni 0.75 | model | [2] Ye 2023 | Table 10, p. 22, row 25; `ORC-FDCWJ5WVOX` |  |
 | 1553.15 | eutectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-AGOERC2VB7.36911b` | “Three eutectic reactions formed between Ho3Ni and Ho2Ni3_LT at 720 C (30.0 at% Ni), between HoNi and HoNi2 at 975 C (54.0 at% Ni), and between Ho2Ni17 and Nickel at 1,280 C (93.0 at% Ni).” |
-| 1553.15 | L -> Ho17Ni2 + fcc_A1 | L: Ni 0.93; Ho17Ni2: Ni 0.895; fcc_A1: Ni 1 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 27; `ORC-LFEC2MZNKB` |  |
-| 1553.15 | L -> Ho17Ni2 + fcc_A1 | L: Ni 0.9314; Ho17Ni2: Ni 0.895; fcc_A1: Ni 1 | model | [1] Kardellass 2015 | Table 6, p. 7, row 28; `ORC-TEWACFA5LO` |  |
+| 1553.15 | eutectic: L -> Ho17Ni2 + fcc_A1 | L: Ni 0.93; Ho17Ni2: Ni 0.895; fcc_A1: Ni 1 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 27; `ORC-LFEC2MZNKB` |  |
+| 1553.15 | eutectic: L -> Ho17Ni2 + fcc_A1 | L: Ni 0.9314; Ho17Ni2: Ni 0.895; fcc_A1: Ni 1 | model | [1] Kardellass 2015 | Table 6, p. 7, row 28; `ORC-TEWACFA5LO` |  |
 | 1553.15 | eutectic: L -> Ho17Ni2 + fcc_A1 | L: Ho 0.07; Ho17Ni2: Ho 0.105; fcc_A1: Ho 0 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 13; `ORC-YNNUAYCXM4` |  |
 | 1553 | eutectic: L -> fcc(Ni) + Ho2Ni17 | L: Ni 0.931; Ho2Ni17: Ni 0.894737 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 35; `ORC-GQ2JOXD5NQ` |  |
 | 1553 | eutectic: L -> fcc(Ni) + Ho2Ni17 | L: Ni 0.93; Ho2Ni17: Ni 0.894737 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 36; `ORC-UKLPYJDLJT` |  |
@@ -140,11 +140,11 @@ Table: Invariant reactions reported in the literature for the Ho–Ni system (71
 | 1468 | peritectic: L + HoNi3 -> HoNi2 | HoNi3: Ni 0.75; HoNi2: Ni 0.666667 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 21; `ORC-ZGHICQBYYR` |  |
 | 1465.2 | peritectic: L + HoNi3 -> HoNi2 | L: Ni 0.657; HoNi3: Ni 0.75; HoNi2: Ni 0.666667 | model | [2] Ye 2023 | Table 10, p. 22, row 22; `ORC-L4NL2VCS3L` |  |
 | 1333.15 | congruent melting: L -> HoNi | HoNi: Ho 0.5 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 6; `ORC-2IZOWBUSRI` |  |
-| 1322.15 | L -> HoNi + HoNi2 | L: Ni 0.5355; HoNi: Ni 0.5; HoNi2: Ni 0.659 | model | [1] Kardellass 2015 | Table 6, p. 7, row 16; `ORC-XVFZD4URLQ` |  |
+| 1322.15 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.5355; HoNi: Ni 0.5; HoNi2: Ni 0.659 | model | [1] Kardellass 2015 | Table 6, p. 7, row 16; `ORC-XVFZD4URLQ` |  |
 | 1322 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.536; HoNi: Ni 0.5; HoNi2: Ni 0.666667 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 17; `ORC-UYM3ZN4UAW` |  |
 | 1308.9 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.553; HoNi: Ni 0.5; HoNi2: Ni 0.666667 | model | [2] Ye 2023 | Table 10, p. 22, row 19; `ORC-EARQVM62SK` |  |
 | 1248.15 | eutectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-AGOERC2VB7.0d245a` | “Three eutectic reactions formed between Ho3Ni and Ho2Ni3_LT at 720 C (30.0 at% Ni), between HoNi and HoNi2 at 975 C (54.0 at% Ni), and between Ho2Ni17 and Nickel at 1,280 C (93.0 at% Ni).” |
-| 1248.15 | L -> HoNi + HoNi2 | L: Ni 0.54; HoNi: Ni 0.5; HoNi2: Ni 0.656 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 15; `ORC-D7RYIIJ5EW` |  |
+| 1248.15 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.54; HoNi: Ni 0.5; HoNi2: Ni 0.656 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 15; `ORC-D7RYIIJ5EW` |  |
 | 1248.15 | eutectic: L -> HoNi + HoNi2 | L: Ho 0.46; HoNi: Ho 0.5; HoNi2: Ho 0.344 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 7; `ORC-HB7AIUX4M3` |  |
 | 1248 | eutectic: L -> HoNi + HoNi2 | L: Ni 0.54; HoNi: Ni 0.5; HoNi2: Ni 0.666667 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 18; `ORC-JXAX5NMX6V` |  |
 | 1243.15 | L + HoNi -> Ho3Ni2_HT | L: Ni 0.38; HoNi: Ni 0.5; Ho3Ni2_HT: Ni 0.4 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 11; `ORC-E4TT5BS24J` |  |
@@ -164,12 +164,12 @@ Table: Invariant reactions reported in the literature for the Ho–Ni system (71
 | 1020.2 | peritectic: L + hcp(Ho) -> Ho3Ni | L: Ni 0.251; Ho3Ni: Ni 0.25 | model | [2] Ye 2023 | Table 10, p. 22, row 4; `ORC-CARO5GYUCM` |  |
 | 1014.15 | L + Ho -> Ho3Ni | L: Ni 0.2563; Ho: Ni 0; Ho3Ni: Ni 0.25 | model | [1] Kardellass 2015 | Table 6, p. 7, row 4; `ORC-OZMDXBTRSJ` |  |
 | 1014 | peritectic: L + hcp(Ho) -> Ho3Ni | L: Ni 0.256; Ho3Ni: Ni 0.25 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 2; `ORC-L6QCOW6VBI` |  |
-| 1006.15 | L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.2813; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | model | [1] Kardellass 2015 | Table 6, p. 7, row 6; `ORC-PARZK2XVRR` |  |
+| 1006.15 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.2813; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | model | [1] Kardellass 2015 | Table 6, p. 7, row 6; `ORC-PARZK2XVRR` |  |
 | 1006 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.281; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 5; `ORC-BGNXHDNO6F` |  |
 | 996.3 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.297; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | model | [2] Ye 2023 | Table 10, p. 22, row 7; `ORC-FNGVK4X6YE` |  |
 | 993.15 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ho 0.7; Ho3Ni: Ho 0.75; Ho3Ni2_LT: Ho 0.6 | unspecified | [1] Kardellass 2015 | Table 2, p. 3, row 3; `ORC-5GPABUT5HN` |  |
 | 993.15 | eutectic |  | experimental | [1] Kardellass 2015 | p. 2; `ORC-AGOERC2VB7.6d9448` | “Three eutectic reactions formed between Ho3Ni and Ho2Ni3_LT at 720 C (30.0 at% Ni), between HoNi and HoNi2 at 975 C (54.0 at% Ni), and between Ho2Ni17 and Nickel at 1,280 C (93.0 at% Ni).” |
-| 993.15 | L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.3; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 5; `ORC-J2FQQVAPSX` |  |
+| 993.15 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | L: Ni 0.3; Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 5; `ORC-J2FQQVAPSX` |  |
 | 993 | eutectic: L -> Ho3Ni + Ho3Ni2_LT | Ho3Ni: Ni 0.25; Ho3Ni2_LT: Ni 0.4 | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 6; `ORC-KAAGTRJ6HE` |  |
 
 ## Formation enthalpies
@@ -221,7 +221,7 @@ Table: Enthalpies of formation, Ho–Ni system (38)
 
 ## Other properties
 
-### Phase transition (22)
+### Phase transition (18)
 
 Table: Phase transition, Ho–Ni system
 
@@ -232,10 +232,6 @@ Table: Phase transition, Ho–Ni system
 | Phase transition | 1031.15 K | 1031.15 | Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 8; `ORC-G2E2U6M332` |  |
 | Phase transition | 1033 K | 1033 | polymorphic: Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 9; `ORC-ILKEBSJKX7` |  |
 | Phase transition | 1033.15 K | 1033.15 | Ho3Ni2_HT -> Ho3Ni2_LT; _Ho3Ni2_HT: Ni 0.4; Ho3Ni2_LT: Ni 0.4_ | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 7; `ORC-RB4OPWP7U4` |  |
-| Phase transition | 1033.15 K | 1033.15 | polymorphic: Ho3Ni2_LT $ Ho3Ni2_HT | experimental | [1] Kardellass 2015 | p. 2; `ORC-P237ICTZLF` | “The polymorphic transformation Ho3Ni2_LT $ Ho3Ni2_HT occurs at 760 C.” |
-| Phase transition | 1033.15 K | 1033.15 | polymorphic: Ho3Ni2_LT $ Ho3Ni2_HT | model | [1] Kardellass 2015 | p. 6; `ORC-W6CH6XMAKH` | “The allotropic transition of Ho3Ni2_LT $ Ho3Ni2_HT is well calculated at 760 C.” |
-| Phase transition | 1248.15 K | 1248.15 | Liq $ HoNi ? HoNi2 | experimental | [1] Kardellass 2015 | p. 6; `ORC-GBEFWACGUF.178137` | “However, one exception is noted, for the invariant reaction Liq $ HoNi ? HoNi2 which is calculated at 1,049 C instead of 975 C (the experimental data), see Table 6 which compares the temperature and the composition in at% Ni of the involved phases in the different reactions.” |
-| Phase transition | 1322.15 K | 1322.15 | Liq $ HoNi ? HoNi2 | model | [1] Kardellass 2015 | p. 6; `ORC-GBEFWACGUF.8d4dad` | “However, one exception is noted, for the invariant reaction Liq $ HoNi ? HoNi2 which is calculated at 1,049 C instead of 975 C (the experimental data), see Table 6 which compares the temperature and the composition in at% Ni of the involved phases in the different reactions.” |
 | Phase transition | 1333 K | 1333 | congruent melting: L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | model | [2] Ye 2023; _cites ref. 40_ | Table 10, p. 22, row 14; `ORC-HLWWJ5T54U` |  |
 | Phase transition | 1333 K | 1333 | congruent melting: L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | experimental | [2] Ye 2023; _cites ref. 45_ | Table 10, p. 22, row 15; `ORC-LA6WUJRIYQ` |  |
 | Phase transition | 1333.15 K | 1333.15 | L -> HoNi; _L: Ni 0.5; HoNi: Ni 0.5_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 14; `ORC-F6AZZMMHZT` |  |

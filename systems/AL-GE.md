@@ -1,24 +1,12 @@
 # Al–Ge system
 
-> Al–Ge system: 4 accepted literature values (invariant reaction 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ge system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-GE.html · Markdown: https://data.orchid-project.org/systems/AL-GE.md
 
-4 accepted literature values from 2 paper(s) (model 4); 3 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-GE.json) · [CSV](https://data.orchid-project.org/systems/AL-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-GE/AlGe-06Isl.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-GE.html) · [Markdown](https://data.orchid-project.org/systems/AL-GE.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 4 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 4 |
 
 ## Calculated phase diagrams
 
@@ -41,24 +29,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AlGe-96Sri.tdb | 697.34 | FCC_A1 (x(Ge) 0.02558) + LIQUID (x(Ge) 0.27974) + DIAMOND_A4 (x(Ge) 0.9838) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-GE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-GE.json) · [CALPHAD hull AlGe-79Ans-LB](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-GE--AlGe-79Ans-LB.json) · [CALPHAD hull AlGe-96Sri](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-GE--AlGe-96Sri.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–Ge system (4)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 696.85 | eutectic |  | model | [1] Islam 2006; _cites Srikanth 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900034-x) | p. 3; `ORC-3ZHUGTNQVJ` | “Srikanth et al. \[11\] reoptimized the Al-Ge system by including the Alrich solvus and solidus data of Minamino et al. \[18\] and arrived at the eutectic point of 28 at.% Ge at 696.85 K.” |
-| 696.85 | eutectic |  | model | [2] Srikanth 1996 | p. 10; `ORC-KXKOI3UIVX` | “The calculated eutectic, 696.85 K agrees very well with the values of 694 - 698 K reported by Kroll\[ 121 and Stohr and Klemm\[ 131.” |
-| 693 | eutectic |  | model | [1] Islam 2006 | p. 3; `ORC-46IYFY6P7L` | “They performed the optimization using non-linear least-squares technique, and placed the Al-Ge eutectic at 28.4 at.% Ge, and 693 K.” |
-| 693 | eutectic |  | model | [2] Srikanth 1996 | p. 3; `ORC-RDGWJOXPKR` | “Their calculated eutectic occurs at 693 K and 28.4 at % Ge.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. F. Islam, A.K. Thykadavil, M. Medraj, A computational thermodynamic model of the Mg–Al–Ge system, Journal of Alloys and Compounds 425, 129-139 (2006). [doi:10.1016/j.jallcom.2006.01.050](https://doi.org/10.1016/j.jallcom.2006.01.050)
-2. S. Srikanth, D. Sanyal, P. Ramachandrarao, A re-evaluation of the AlGe system, Calphad 20, 321-332 (1996). [doi:10.1016/s0364-5916(96)00034-x](https://doi.org/10.1016/s0364-5916%2896%2900034-x)
 
 ## Please cite
 

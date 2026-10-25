@@ -1,24 +1,12 @@
 # Ce–H system
 
-> Ce–H system: 1 accepted literature values (invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–H system: 0 accepted literature values (none) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-H.html · Markdown: https://data.orchid-project.org/systems/CE-H.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 2 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-H.json) · [CSV](https://data.orchid-project.org/systems/CE-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-H/CeH-24Han-mod1.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CE-H.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-H.html) · [Markdown](https://data.orchid-project.org/systems/CE-H.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
 
 ## Calculated phase diagrams
 
@@ -45,20 +33,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CeH-24Han-mod2.tdb | 1071.31 | FCC_A1 (x(H) 0.22357) + BCC_A2 (x(H) 0.22421) + CEH3 (x(H) 0.61388) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CE/CE-H.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CE/CE-H.json) · [CALPHAD hull CeH-24Han-mod2](https://data.orchid-project.org/hulls/calphad-sgte/CE/CE-H--CeH-24Han-mod2.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ce–H system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1298 | peritectic |  | experimental | [1] Hannappel 2024; _cites Tellefsen 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990311-x) | p. 2; `ORC-3NHQT73QUP` | “The body-centered cubic (bcc) structure shows an extended peritectic mixed phase region ending at the peritectic point at 1298 K and 44 at.-% H in equilibrium with the liquid and CeHx phase, measured by Teleffsen et al. \[18\].” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Peter Hannappel, Ebert Alvares, Felix Heubner, Claudio Pistidda, Paul Jerabek, Thomas Weißgärber, Thermodynamic assessment of the Ce H and CeNi5 H system, Calphad 85, 102701 (2024). [doi:10.1016/j.calphad.2024.102701](https://doi.org/10.1016/j.calphad.2024.102701)
 
 ## Please cite
 

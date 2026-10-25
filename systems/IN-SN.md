@@ -1,10 +1,10 @@
 # In–Sn system
 
-> In–Sn system: 9 accepted literature values (invariant reaction 9) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Sn system: 6 accepted literature values (invariant reaction 6) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-SN.html · Markdown: https://data.orchid-project.org/systems/IN-SN.md
 
-9 accepted literature values from 3 paper(s) (experimental 3, model 6); 5 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (model 6); 5 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SN.json) · [CSV](https://data.orchid-project.org/systems/IN-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SN/InSn-03Moe.json) · [phases (9)](https://data.orchid-project.org/phases/pages/IN-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-SN.html) · [Markdown](https://data.orchid-project.org/systems/IN-SN.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
 | model | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
+| invariant reaction | 6 |
 
 ## Calculated phase diagrams
 
@@ -60,7 +59,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the In–Sn system (9)
+Table: Invariant reactions reported in the literature for the In–Sn system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -68,19 +67,14 @@ Table: Invariant reactions reported in the literature for the In–Sn system (9)
 | 497 | peritectic: Liquid + (βSn) -> γ | L: Sn 0.957; (βSn): Sn 0.995; γ: Sn 0.99 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 5; `ORC-P5UTGTME4I` |  |
 | 416 | peritectic: Liquid+ β -> (In) | L: Sn 0.1; β: Sn 0.14; (In): Sn 0.12 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 1; `ORC-UQJJSJFE5D` |  |
 | 415 | peritectic: Liquid+ β -> (In) | L: Sn 0.1; β: Sn 0.131; (In): Sn 0.129 | model | [1] David 2004 | Table 3, p. 3, row 2; `ORC-WR6JOYKMC7` |  |
-| 393.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 5; `ORC-AVFZW5ACZL` | “There is a eutectic reaction in the middle of the diagram (at 52% In, 120°C) and two peritectic reactions.” |
-| 393.15 | eutectic |  | experimental | [2] Korhonen 1998 | p. 2; `ORC-QYU7AI3224.c0a452` | “Two of its binaries have already been successfully used in electronic soldering for some time, the eutectic Ag-Sn at higher temperatures (Tm = 221°C), and the eutectic In-Sn at low temperatures (Tm = 120°C).” |
 | 393 | eutectic: Liquid -> β + γ | L: Sn 0.483; β: Sn 0.44; γ: Sn 0.77 | model | [1] David 2004; _cites T 1990_ | Table 3, p. 3, row 3; `ORC-FBZ5BKKE7B` |  |
 | 393 | eutectic: Liquid -> β + γ | L: Sn 0.481; β: Sn 0.43; γ: Sn 0.77 | model | [1] David 2004 | Table 3, p. 3, row 4; `ORC-IVZTSIOYGF` |  |
-| 391.15 | eutectic |  | experimental | [3] Vizdal 2006 | p. 13; `ORC-G6HOQ7GDX6` | “The choice of the applied solder was dictated by low melting temperature of the eutectic alloy (118 °C).” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. N David, Khadija El Aissaoui, J.M Fiorani, J Hertz, M Vilasi, Thermodynamic optimization of the In–Pb–Sn system based on new evaluations of the binary borders In–Pb and In–Sn, Thermochimica Acta 413, 127-137 (2004). [doi:10.1016/j.tca.2003.10.020](https://doi.org/10.1016/j.tca.2003.10.020)
-2. T.-M. Korhonen, J. K. Kivilahti, Thermodynamics of the Sn-In-Ag solder system, Journal of Elec Materi 27, 149-158 (1998). [doi:10.1007/s11664-998-0205-1](https://doi.org/10.1007/s11664-998-0205-1)
-3. J. Vizdal, A. Kroupa, J. Popovic, A. Zemanova, The Experimental and Theoretical Study of Phase Equilibria in the Pd–Zn (‐Sn) System, Adv Eng Mater 8, 164-176 (2006). [doi:10.1002/adem.200500248](https://doi.org/10.1002/adem.200500248)
 
 ## Please cite
 

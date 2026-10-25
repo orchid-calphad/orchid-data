@@ -1,10 +1,10 @@
 # Cu–Sn–Ti system
 
-> Cu–Sn–Ti system: 10 accepted literature values (phase equilibrium 9, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sn–Ti system: 9 accepted literature values (phase equilibrium 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SN-TI.html · Markdown: https://data.orchid-project.org/systems/CU-SN-TI.md
 
-10 accepted literature values from 1 paper(s) (experimental 10); 0 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (experimental 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SN-TI.json) · [CSV](https://data.orchid-project.org/systems/CU-SN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SN-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SN-TI.html) · [Markdown](https://data.orchid-project.org/systems/CU-SN-TI.md)
 
@@ -12,22 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
+| experimental | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | phase equilibrium | 9 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cu–Sn–Ti system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1100.15 | peritectic |  | experimental | [1] Wang 2011 | p. 2; `ORC-WTJXQNWNR6` | “Liquidus surface, CuSnTi was formed by a peritectic reaction at 827 °C” |
 
 ## Other properties
 

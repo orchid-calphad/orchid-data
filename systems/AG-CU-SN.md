@@ -1,10 +1,10 @@
 # Ag–Cu–Sn system
 
-> Ag–Cu–Sn system: 77 accepted literature values (phase transition 77) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Cu–Sn system: 76 accepted literature values (phase transition 76) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CU-SN.html · Markdown: https://data.orchid-project.org/systems/AG-CU-SN.md
 
-77 accepted literature values from 2 paper(s) (experimental 77); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+76 accepted literature values from 1 paper(s) (experimental 76); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CU-SN.json) · [CSV](https://data.orchid-project.org/systems/AG-CU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CU-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CU-SN.html) · [Markdown](https://data.orchid-project.org/systems/AG-CU-SN.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 77 |
+| experimental | 76 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 77 |
+| phase transition | 76 |
 
 ## Other properties
 
-### Phase transition (77)
+### Phase transition (76)
 
 Table: Phase transition, Ag–Cu–Sn system
 
@@ -58,7 +58,6 @@ Table: Phase transition, Ag–Cu–Sn system
 | Phase transition | 491.05 K | 491.05 | other: Sn 92.50 / Cu 0.80 / Ag 6.70 wt.% - Cooling TB; _alloy: Ag 0.0727392, Cu 0.0147431, Sn 0.912518_ | experimental | [1] Moon 2000 | Table I, p. 4, row 19; `ORC-A4M3TNFFK4` |  |
 | Phase transition | 491.05 K | 491.05 | other: Sn 92.50 / Cu 0.80 / Ag 6.70 wt.% - Heating TB; _alloy: Ag 0.0727392, Cu 0.0147431, Sn 0.912518_ | experimental | [1] Moon 2000 | Table I, p. 4, row 16; `ORC-2T4HK565KJ` |  |
 | Phase transition | 491.05 K | 491.05 | other: Sn 94.50 / Cu 2.00 / Ag 3.50 wt.% - Heating TB; _alloy: Ag 0.03773, Cu 0.0365978, Sn 0.925672_ | experimental | [1] Moon 2000 | Table I, p. 4, row 52; `ORC-Z5VXLTHEQE` |  |
-| Phase transition | 491.15 K | 491.15 | other | experimental | [2] Doi 2006 | p. 1; `ORC-EUJDOLOVIX.101224` | “Sn-Ag-Cu alloy has been used as a Pb-free solder, but it has a melting point of 218 °C, which is considerably higher than the 183 °C of conventional Pb-Sn eutectic alloy.” |
 | Phase transition | 491.15 K | 491.15 | other: L+Ag3Sn/L+Ag3Sn + (Sn); _alloy: Ag 0.0392076, Cu 0.0146049, Sn 0.946187_ | experimental | [1] Moon 2000; _cites Loomans 2000_ [doi](https://doi.org/10.1007/s11661-000-0111-5) | Table IV, p. 10, row 3; `ORC-46AS63VOA7` |  |
 | Phase transition | 491.85 K | 491.85 | other: L + Cu6Sn5/L + Cu6Sn5 + (Sn); _alloy: Cu 1_ | experimental | [1] Moon 2000; _cites Loomans 2000_ [doi](https://doi.org/10.1007/s11661-000-0111-5) | Table IV, p. 10, row 6; `ORC-QA5LDTN4AR` |  |
 | Phase transition | 492.05 K | 492.05 | other: Sn 92.20 / Cu 0.60 / Ag 7.20 wt.% - Heating TB; _alloy: Ag 0.0782627, Cu 0.0110708, Sn 0.910667_ | experimental | [1] Moon 2000 | Table I, p. 4, row 10; `ORC-CYSZMPT5UK` |  |
@@ -75,7 +74,7 @@ Table: Phase transition, Ag–Cu–Sn system
 | Phase transition | 497.05 K | 497.05 | other: Sn 92.95 / Cu 1.05 / Ag 6.00 wt.% - Cooling TB; _alloy: Ag 0.0650454, Cu 0.0193224, Sn 0.915632_ | experimental | [1] Moon 2000 | Table I, p. 4, row 29; `ORC-6TZKPURHXZ` |  |
 | Phase transition | 497.35 K | 497.35 | other: L + Cu6Sn5/L + Cu6Sn5 + (Sn); _alloy: Cu 1_ | experimental | [1] Moon 2000; _cites Loomans 2000_ [doi](https://doi.org/10.1007/s11661-000-0111-5) | Table IV, p. 10, row 4; `ORC-3L2KTAFC7H` |  |
 | Phase transition | 497.45 K | 497.45 | other: Sn 94.15 / Cu 1.75 / Ag 4.10 wt.% - Cooling TB; _alloy: Ag 0.044266, Cu 0.0320723, Sn 0.923662_ | experimental | [1] Moon 2000 | Table I, p. 4, row 50; `ORC-2UIS35IBM5` |  |
-| Phase transition | 498.15 K | 498.15 |  | experimental | [1] Moon 2000; _cites Gebhardt 1959_ | p. 1; `ORC-5D3TPZVDNP` | “Based on very little data, they proposed a transition reaction, L + Cu6Sn5 → (Sn) + Ag3Sn at 225°C with a liquid composition of 4.0 wt.% Ag, 0.5 wt.% Cu.” |
+| Phase transition | 498.15 K | 498.15 | L + Cu6Sn5 + (Sn) + Ag3Sn | experimental | [1] Moon 2000; _cites Gebhardt 1959_ | p. 1; `ORC-5D3TPZVDNP` | “Based on very little data, they proposed a transition reaction, L + Cu6Sn5 → (Sn) + Ag3Sn at 225°C with a liquid composition of 4.0 wt.% Ag, 0.5 wt.% Cu.” |
 | Phase transition | 500.15 K | 500.15 | other: Sn 96.73 / Cu 3.27 / Ag 0.00 wt.% - Heating TB; _alloy: Ag 0, Cu 0.0594005, Sn 0.940599_ | experimental | [1] Moon 2000 | Table I, p. 4, row 69; `ORC-7WUMRHI75H` |  |
 | Phase transition | 507.05 K | 507.05 | other: Sn 93.80 / Cu 1.50 / Ag 4.70 wt.% - Cooling TB; _alloy: Ag 0.0508221, Cu 0.0275329, Sn 0.921645_ | experimental | [1] Moon 2000 | Table I, p. 4, row 45; `ORC-ATPOMYKH7Z` |  |
 | Phase transition | 509.35 K | 509.35 | other: Sn 93.80 / Cu 1.50 / Ag 4.70 wt.% - Heating TB; _alloy: Ag 0.0508221, Cu 0.0275329, Sn 0.921645_ | experimental | [1] Moon 2000 | Table I, p. 4, row 42; `ORC-U3UYA75PBI` |  |
@@ -111,7 +110,6 @@ Table: Phase transition, Ag–Cu–Sn system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. K. -W. Moon, W. J. Boettinger, U. R. Kattner, F. S. Biancaniello, C. A. Handwerker, Experimental and thermodynamic assessment of Sn-Ag-Cu solder alloys, Journal of Elec Materi 29, 1122-1136 (2000). [doi:10.1007/s11664-000-0003-x](https://doi.org/10.1007/s11664-000-0003-x)
-2. K. Doi, S. Ono, H. Ohtani, M. Hasebe, Thermodynamic study of the phase equilibria in the Sn−Ti−Zn ternary system, JPED 27, 63-74 (2006). [doi:10.1361/105497106x92826](https://doi.org/10.1361/105497106x92826)
 
 ## Please cite
 

@@ -25,7 +25,7 @@ Table: Uncertainty budget of the literature values of HfB
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -98.95 | kJ/mol-atom | 6.3 | 0.025 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 6.3 |
+| -98.95 | kJ/mol-atom | 6.3 | 0.025 | 4.2 (kems_vapour, calibrated) |  |  |  | 6.3 |
 | -79.905 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies

@@ -52,14 +52,14 @@ Table: Invariant reactions reported in the literature for the Hf–Os system (10
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2823 | liq. -> HfOs + HfOs2 | L: Os 0.536; HfOs: Os 0.51; HfOs2: Os 0.64 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 10; `ORC-E4ZEGO7NEH` |  |
-| 2823 | liq. -> HfOs + HfOs2 | L: Os 0.5576; HfOs: Os 0.4995; HfOs2: Os 0.6518 | model | [1] Guo 2006 | Table 2, p. 4, row 9; `ORC-MLW476AQAE` |  |
-| 2798 | liq. -> HfOs2 + hcp(Os) | L: Os 0.7779; HfOs2: Os 0.6715; hcp(Os): Os 0.9487 | model | [1] Guo 2006 | Table 2, p. 4, row 13; `ORC-NFYAXZPMOC` |  |
-| 2798 | liq. -> HfOs2 + hcp(Os) | L: Os 0.793; HfOs2: Os 0.68; hcp(Os): Os 0.952 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 14; `ORC-X3PHCBAYFO` |  |
+| 2823 | eutectic: liq. -> HfOs + HfOs2 | L: Os 0.536; HfOs: Os 0.51; HfOs2: Os 0.64 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 10; `ORC-E4ZEGO7NEH` |  |
+| 2823 | eutectic: liq. -> HfOs + HfOs2 | L: Os 0.5576; HfOs: Os 0.4995; HfOs2: Os 0.6518 | model | [1] Guo 2006 | Table 2, p. 4, row 9; `ORC-MLW476AQAE` |  |
+| 2798 | eutectic: liq. -> HfOs2 + hcp(Os) | L: Os 0.7779; HfOs2: Os 0.6715; hcp(Os): Os 0.9487 | model | [1] Guo 2006 | Table 2, p. 4, row 13; `ORC-NFYAXZPMOC` |  |
+| 2798 | eutectic: liq. -> HfOs2 + hcp(Os) | L: Os 0.793; HfOs2: Os 0.68; hcp(Os): Os 0.952 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 14; `ORC-X3PHCBAYFO` |  |
 | 1893 | liq. + HfOs -> Hf54Os17 | L: Os 0.2257; HfOs: Os 0.4584; Hf54Os17: Os 0.239437 | model | [1] Guo 2006 | Table 2, p. 4, row 5; `ORC-LEY46RD67H` |  |
 | 1893 | liq. + HfOs -> Hf54Os17 | L: Os 0.23; HfOs: Os 0.47; Hf54Os17: Os 0.239437 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 6; `ORC-QTMXOE6YF6` |  |
-| 1873 | liq. -> bcc(Hf) + Hf54Os17 | L: Os 0.2015; bcc(Hf): Os 0.1351; Hf54Os17: Os 0.239437 | model | [1] Guo 2006 | Table 2, p. 4, row 1; `ORC-LASKSGVJMP` |  |
-| 1873 | liq. -> bcc(Hf) + Hf54Os17 | L: Os 0.201; bcc(Hf): Os 0.13; Hf54Os17: Os 0.239437 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 2; `ORC-Y5RDSOYLHF` |  |
+| 1873 | eutectic: liq. -> bcc(Hf) + Hf54Os17 | L: Os 0.2015; bcc(Hf): Os 0.1351; Hf54Os17: Os 0.239437 | model | [1] Guo 2006 | Table 2, p. 4, row 1; `ORC-LASKSGVJMP` |  |
+| 1873 | eutectic: liq. -> bcc(Hf) + Hf54Os17 | L: Os 0.201; bcc(Hf): Os 0.13; Hf54Os17: Os 0.239437 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 2; `ORC-Y5RDSOYLHF` |  |
 | 1493 | bcc(Hf) -> hcp(Hf) + Hf54Os17 | bcc(Hf): Os 0.098; hcp(Hf): Os 0.011; Hf54Os17: Os 0.239437 | experimental | [1] Guo 2006; _cites Eremenko 1993_ | Table 2, p. 4, row 4; `ORC-CVX6PFFLFQ` |  |
 | 1493 | bcc(Hf) -> hcp(Hf) + Hf54Os17 | bcc(Hf): Os 0.0922; hcp(Hf): Os 0.0041; Hf54Os17: Os 0.239437 | model | [1] Guo 2006 | Table 2, p. 4, row 3; `ORC-RDC2SARLEY` |  |
 

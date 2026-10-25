@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al9Cr4.html · Markdown: https:/
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -15.9 kJ/mol-atom (n = 1); OQMD 11.421 kJ/mol-atom (oqmd-1477118).
 
-Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) · [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)
+Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)
 
 ## Literature values
 
@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Al9Cr4 reported in the literature (2)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -15.9 kJ/mol-atom | Al9Cr4 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 4; `ORC-R2GR6QLLKK.6b1758` |  |
-| -12.903 kJ/mol-atom | Al9Cr4 (h) | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 5; `ORC-IDJQ65H2VW.0cf5b6` |  |
+| -12.903 kJ/mol-atom | Al9Cr4 (h) | 1 | model |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [2] Saunders 1986 | Table 4, p. 8, row 5; `ORC-IDJQ65H2VW.0cf5b6` |  |
 
 ### Uncertainty budget
 

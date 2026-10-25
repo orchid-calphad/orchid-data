@@ -319,7 +319,7 @@
     "x0": 0.75,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq <=> LaSn3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -337,7 +337,7 @@
     "x0": 0.75,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq <=> LaSn3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

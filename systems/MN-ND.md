@@ -1,10 +1,10 @@
 # Mn–Nd system
 
-> Mn–Nd system: 97 accepted literature values (invariant reaction 45, phase transition 40, phase equilibrium 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Nd system: 67 accepted literature values (invariant reaction 31, phase transition 24, phase equilibrium 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-ND.html · Markdown: https://data.orchid-project.org/systems/MN-ND.md
 
-97 accepted literature values from 1 paper(s) (experimental 77, model 15, unspecified 5); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+67 accepted literature values from 1 paper(s) (experimental 53, model 9, unspecified 5); 1 calculated phase diagram(s). 33 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-ND.json) · [CSV](https://data.orchid-project.org/systems/MN-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-ND/MnNd-16Ron.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MN-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-ND.html) · [Markdown](https://data.orchid-project.org/systems/MN-ND.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 77 |
-| model | 15 |
+| experimental | 53 |
+| model | 9 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 45 |
-| phase transition | 40 |
+| invariant reaction | 31 |
+| phase transition | 24 |
 | phase equilibrium | 12 |
 
 ## Calculated phase diagrams
@@ -66,7 +66,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mn–Nd system (45)
+Table: Invariant reactions reported in the literature for the Mn–Nd system (31)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -76,64 +76,46 @@ Table: Invariant reactions reported in the literature for the Mn–Nd system (45
 | 1373 | peritectic: L + γ-Mn -> β-Mn | β-Mn: Nd 0 | experimental | [1] Rong 2016; _cites Lemoine 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.020) | Table 3, p. 6, row 20; `ORC-VJKCMTR2RT` |  |
 | 1360 | peritectic: L + γ-Mn -> β-Mn | L: Nd 0.11; γ-Mn: Nd 0.001; β-Mn: Nd 0.001 | model | [1] Rong 2016 | Table 3, p. 6, row 21; `ORC-QPGGXAC3HK` |  |
 | 1360 | peritectic: L + γ-Mn -> β-Mn | β-Mn: Nd 0 | unspecified | [1] Rong 2016; _cites Wang 2013_ | Table 3, p. 6, row 19; `ORC-US5SHHSFXB` |  |
-| 1298 | peritectic |  | experimental | [1] Rong 2016 | p. 2; `ORC-HA3PPA2SJA` | “A new intermetallic compound Mn17Nd2 was observed, which was formed through the peritectic reaction (L ? b-Mn $ Mn17Nd2 at 1298 K).” |
 | 1298 | peritectic: L + β-Mn -> Mn17Nd2 | L: Nd 0.219; β-Mn: Nd 0.001; Mn17Nd2: Nd 0.105 | experimental | [1] Rong 2016; _cites Lemoine 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.020) | Table 3, p. 6, row 14; `ORC-VHV5TYPKY4` |  |
 | 1297.6 | peritectic: L + β-Mn -> Mn17Nd2 | L: Nd 0.161; β-Mn: Nd 0.001; Mn17Nd2: Nd 0.105 | model | [1] Rong 2016 | Table 3, p. 6, row 15; `ORC-R3Z263QOVU` |  |
 | 1213.8 | peritectic: L + Mn17Nd2 -> Mn23Nd6 | Mn17Nd2: Nd 0.105263; Mn23Nd6: Nd 0.206897 | experimental | [1] Rong 2016 | Table 3, p. 6, row 12; `ORC-GEUGO5VF55` |  |
 | 1213 | peritectic: L + Mn17Nd2 -> Mn23Nd6 | L: Nd 0.324; Mn17Nd2: Nd 0.105; Mn23Nd6: Nd 0.209 | experimental | [1] Rong 2016; _cites Lemoine 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.020) | Table 3, p. 6, row 11; `ORC-CPQAV7VG5X` |  |
 | 1212.8 | peritectic: L + Mn17Nd2 -> Mn23Nd6 | L: Nd 0.312; Mn17Nd2: Nd 0.105; Mn23Nd6: Nd 0.207 | model | [1] Rong 2016 | Table 3, p. 6, row 13; `ORC-WHW73IBVEH` |  |
-| 1210.7 | peritectic: L ? Mn17Nd2 $ Mn23Nd6 |  | experimental | [1] Rong 2016 | p. 5; `ORC-EXMX5TGP2L.b31733` | “The temperatures of the eutectic reaction (L $ Mn2Nd ? a-Nd) at 969.1 and 968.8 K and the peritectic reaction (L ? Mn23Nd6 $ Mn2Nd) at 1116.8 and 1116.4 K were measured, respectively, while the temperatures of the peritectic reaction (L ? Mn17Nd2 $ Mn23Nd6) were determined to be 1210.7 K in Fig. 2b.” |
-| 1203 | peritectic: L ? bMn $ Mn23Nd6 |  | experimental | [1] Rong 2016; _cites Saccone 1993_ | p. 2; `ORC-2K5AWQKAZ5.75ea3e` | “Moreover, the two peritectic reactions (L ? bMn $ Mn23Nd6 at 1203 K, L ? Mn23Nd6 $ Mn2Nd at 1093 K), the catatectic reaction (a-Nd $ L ? b-Nd at 1136 K), the eutectic reaction (L $ Mn2Nd ? a-Nd at 968 K) and two eutectoid reactions (Mn23Nd6 $a-Nd ? aNd at about 753 K and Mn2Nd $ Mn23Nd6 ? a-Nd at about 853 K) were recommended by Saccone et al. \[21\].” |
 | 1193 | peritectic: L + Mn23Nd6 -> Mn2Nd | Mn23Nd6: Nd 0.207; Mn2Nd: Nd 0.333 | unspecified | [1] Rong 2016; _cites Mostafa 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.004) | Table 3, p. 6, row 6; `ORC-U3UV2IRK77` |  |
 | 1135 | metatectic/catatectic: β-Nd -> L + α-Nd |  | unspecified | [1] Rong 2016; _cites Mostafa 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.004) | Table 3, p. 6, row 22; `ORC-VIFOSWSQ3C` |  |
 | 1123 | peritectic: L + Mn23Nd6 -> Mn2Nd | L: Nd 0.475; Mn23Nd6: Nd 0.209; Mn2Nd: Nd 0.34 | experimental | [1] Rong 2016; _cites Lemoine 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.020) | Table 3, p. 6, row 8; `ORC-5WLP5WUUYH` |  |
-| 1116.8 | peritectic: L ? Mn23Nd6 $ Mn2Nd |  | experimental | [1] Rong 2016 | p. 5; `ORC-EXMX5TGP2L.0584cf` | “The temperatures of the eutectic reaction (L $ Mn2Nd ? a-Nd) at 969.1 and 968.8 K and the peritectic reaction (L ? Mn23Nd6 $ Mn2Nd) at 1116.8 and 1116.4 K were measured, respectively, while the temperatures of the peritectic reaction (L ? Mn17Nd2 $ Mn23Nd6) were determined to be 1210.7 K in Fig. 2b.” |
-| 1116.4 | peritectic: L ? Mn23Nd6 $ Mn2Nd |  | experimental | [1] Rong 2016 | p. 5; `ORC-EXMX5TGP2L.d98a6e` | “The temperatures of the eutectic reaction (L $ Mn2Nd ? a-Nd) at 969.1 and 968.8 K and the peritectic reaction (L ? Mn23Nd6 $ Mn2Nd) at 1116.8 and 1116.4 K were measured, respectively, while the temperatures of the peritectic reaction (L ? Mn17Nd2 $ Mn23Nd6) were determined to be 1210.7 K in Fig. 2b.” |
 | 1116.4 | peritectic: L + Mn23Nd6 -> Mn2Nd | Mn23Nd6: Nd 0.206897; Mn2Nd: Nd 0.333333 | experimental | [1] Rong 2016 | Table 3, p. 6, row 9; `ORC-FQGQSLNZDA` |  |
 | 1116 | peritectic: L + Mn23Nd6 -> Mn2Nd | L: Nd 0.491; Mn23Nd6: Nd 0.207; Mn2Nd: Nd 0.333 | model | [1] Rong 2016 | Table 3, p. 6, row 10; `ORC-DCLU63J5GK` |  |
-| 1116 | peritectic: L ? Mn23Nd6 $ Mn2Nd |  | model | [1] Rong 2016 | p. 6; `ORC-FTS6OCBPCO.e8398e` | “The calculated temperatures of the catatectic reaction (b-Nd $ L ? a-Nd, at 981.0 K) and the peritectic reaction (L ? Mn23Nd6 $ Mn2Nd, at 1116.0 K) agree well with the experimental” |
-| 1093 | peritectic: L ? Mn23Nd6 $ Mn2Nd |  | experimental | [1] Rong 2016; _cites Saccone 1993_ | p. 2; `ORC-2K5AWQKAZ5.575d1b` | “Moreover, the two peritectic reactions (L ? bMn $ Mn23Nd6 at 1203 K, L ? Mn23Nd6 $ Mn2Nd at 1093 K), the catatectic reaction (a-Nd $ L ? b-Nd at 1136 K), the eutectic reaction (L $ Mn2Nd ? a-Nd at 968 K) and two eutectoid reactions (Mn23Nd6 $a-Nd ? aNd at about 753 K and Mn2Nd $ Mn23Nd6 ? a-Nd at about 853 K) were recommended by Saccone et al. \[21\].” |
 | 1093 | peritectic: L + Mn23Nd6 -> Mn2Nd | L: Nd 0.488; Mn23Nd6: Nd 0.207; Mn2Nd: Nd 0.333 | experimental | [1] Rong 2016; _cites Makhalenko 1990_ | Table 3, p. 6, row 7; `ORC-J6OQ3FY6HN` |  |
 | 1001 | metatectic/catatectic: β-Nd -> L + α-Nd | β-Nd: Nd 0.95; L: Nd 0.779; α-Nd: Nd 0.977 | experimental | [1] Rong 2016; _cites Lemoine 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.020) | Table 3, p. 6, row 23; `ORC-UT6EQQ4MEW` |  |
 | 981.4 | metatectic/catatectic: β-Nd -> L + α-Nd |  | experimental | [1] Rong 2016 | Table 3, p. 6, row 24; `ORC-S6W2326T52` |  |
 | 981 | metatectic/catatectic: β-Nd -> L + α-Nd | β-Nd: Nd 0.923; L: Nd 0.755; α-Nd: Nd 0.964 | model | [1] Rong 2016 | Table 3, p. 6, row 25; `ORC-VCHV6VPMQO` |  |
 | 973 | eutectic: L -> Mn2Nd + α-Nd | Mn2Nd: Nd 0.333 | unspecified | [1] Rong 2016; _cites Mostafa 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.004) | Table 3, p. 6, row 1; `ORC-E22N7VL4S2` |  |
-| 969.1 | eutectic: L $ Mn2Nd ? a-Nd |  | experimental | [1] Rong 2016 | p. 5; `ORC-EXMX5TGP2L.331056` | “The temperatures of the eutectic reaction (L $ Mn2Nd ? a-Nd) at 969.1 and 968.8 K and the peritectic reaction (L ? Mn23Nd6 $ Mn2Nd) at 1116.8 and 1116.4 K were measured, respectively, while the temperatures of the peritectic reaction (L ? Mn17Nd2 $ Mn23Nd6) were determined to be 1210.7 K in Fig. 2b.” |
-| 968.8 | eutectic: L $ Mn2Nd ? a-Nd |  | experimental | [1] Rong 2016 | p. 5; `ORC-EXMX5TGP2L.92240b` | “The temperatures of the eutectic reaction (L $ Mn2Nd ? a-Nd) at 969.1 and 968.8 K and the peritectic reaction (L ? Mn23Nd6 $ Mn2Nd) at 1116.8 and 1116.4 K were measured, respectively, while the temperatures of the peritectic reaction (L ? Mn17Nd2 $ Mn23Nd6) were determined to be 1210.7 K in Fig. 2b.” |
-| 968.7 | eutectic: L $ Mn2Nd ? a-Nd |  | experimental | [1] Rong 2016 | p. 5; `ORC-SZ5ZCKYCHK.32895e` | “As can be seen in Fig. 1, there are three peaks in the thermal analysis curves of the annealed Mn10Nd90 and Mn15Nd85 alloys, which are responsible to be the eutectic reaction (L $ Mn2Nd ? a-Nd) at 967.4 and 968.7 K, the catatectic reaction (a-Nd $ L ? b-Nd) at 981.5 and 981.4 K and their liquidus temperatures at 1153.8 K and 1084.9 K, respectively.” |
 | 968.4 | eutectic: L -> Mn2Nd + α-Nd | Mn2Nd: Nd 0.333333 | experimental | [1] Rong 2016 | Table 3, p. 6, row 4; `ORC-WWHNBVFRNT` |  |
 | 968.1 | eutectic: L -> Mn2Nd + α-Nd | L: Nd 0.739; Mn2Nd: Nd 0.333; α-Nd: Nd 0.961 | model | [1] Rong 2016 | Table 3, p. 6, row 5; `ORC-5F4FOSMELR` |  |
-| 968 | eutectic: L $ Mn2Nd ? a-Nd |  | experimental | [1] Rong 2016; _cites Saccone 1993_ | p. 2; `ORC-2K5AWQKAZ5.ec57af` | “Moreover, the two peritectic reactions (L ? bMn $ Mn23Nd6 at 1203 K, L ? Mn23Nd6 $ Mn2Nd at 1093 K), the catatectic reaction (a-Nd $ L ? b-Nd at 1136 K), the eutectic reaction (L $ Mn2Nd ? a-Nd at 968 K) and two eutectoid reactions (Mn23Nd6 $a-Nd ? aNd at about 753 K and Mn2Nd $ Mn23Nd6 ? a-Nd at about 853 K) were recommended by Saccone et al. \[21\].” |
 | 968 | eutectic: L -> Mn2Nd + α-Nd | L: Nd 0.73; Mn2Nd: Nd 0.333 | experimental | [1] Rong 2016; _cites Makhalenko 1990_ | Table 3, p. 6, row 2; `ORC-37CPAN5FF6` |  |
-| 967.4 | eutectic: L $ Mn2Nd ? a-Nd |  | experimental | [1] Rong 2016 | p. 5; `ORC-SZ5ZCKYCHK.900bd3` | “As can be seen in Fig. 1, there are three peaks in the thermal analysis curves of the annealed Mn10Nd90 and Mn15Nd85 alloys, which are responsible to be the eutectic reaction (L $ Mn2Nd ? a-Nd) at 967.4 and 968.7 K, the catatectic reaction (a-Nd $ L ? b-Nd) at 981.5 and 981.4 K and their liquidus temperatures at 1153.8 K and 1084.9 K, respectively.” |
 | 958 | eutectic: L -> Mn2Nd + α-Nd | L: Nd 0.722; Mn2Nd: Nd 0.333; α-Nd: Nd 0.977 | experimental | [1] Rong 2016; _cites Lemoine 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.020) | Table 3, p. 6, row 3; `ORC-QILRN6HRKU` |  |
 | 873 | eutectoid: Mn2Nd -> Mn23Nd6 + α-Nd | Mn2Nd: Nd 0.34; Mn23Nd6: Nd 0.209; α-Nd: Nd 0.977 | experimental | [1] Rong 2016; _cites Lemoine 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.020) | Table 3, p. 6, row 27; `ORC-A3MRCYA7EE` |  |
-| 853 | eutectoid: Mn2Nd $ Mn23Nd6 ? a-Nd |  | experimental | [1] Rong 2016; _cites Saccone 1993_ | p. 2; `ORC-2K5AWQKAZ5.3bbed6` | “Moreover, the two peritectic reactions (L ? bMn $ Mn23Nd6 at 1203 K, L ? Mn23Nd6 $ Mn2Nd at 1093 K), the catatectic reaction (a-Nd $ L ? b-Nd at 1136 K), the eutectic reaction (L $ Mn2Nd ? a-Nd at 968 K) and two eutectoid reactions (Mn23Nd6 $a-Nd ? aNd at about 753 K and Mn2Nd $ Mn23Nd6 ? a-Nd at about 853 K) were recommended by Saccone et al. \[21\].” |
 | 853 | eutectoid: Mn2Nd -> Mn23Nd6 + α-Nd | Mn2Nd: Nd 0.333; Mn23Nd6: Nd 0.207; α-Nd: Nd 0.973 | model | [1] Rong 2016 | Table 3, p. 6, row 28; `ORC-II5TMVXMEH` |  |
 | 853 | eutectoid: Mn2Nd -> Mn23Nd6 + α-Nd | Mn2Nd: Nd 0.333; Mn23Nd6: Nd 0.207; α-Nd: Nd 0.999 | experimental | [1] Rong 2016; _cites Makhalenko 1990_ | Table 3, p. 6, row 26; `ORC-ZE6XW3O26B` |  |
 | 773 | eutectoid: Mn23Nd6 -> Mn17Nd2 + α-Nd | Mn23Nd6: Nd 0.209; Mn17Nd2: Nd 0.105; α-Nd: Nd 0.977 | experimental | [1] Rong 2016; _cites Lemoine 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.020) | Table 3, p. 6, row 30; `ORC-FDLZR6MW7P` |  |
-| 753 | eutectoid: Mn23Nd6 $a-Nd ? aNd |  | experimental | [1] Rong 2016; _cites Saccone 1993_ | p. 2; `ORC-2K5AWQKAZ5.e70c5e` | “Moreover, the two peritectic reactions (L ? bMn $ Mn23Nd6 at 1203 K, L ? Mn23Nd6 $ Mn2Nd at 1093 K), the catatectic reaction (a-Nd $ L ? b-Nd at 1136 K), the eutectic reaction (L $ Mn2Nd ? a-Nd at 968 K) and two eutectoid reactions (Mn23Nd6 $a-Nd ? aNd at about 753 K and Mn2Nd $ Mn23Nd6 ? a-Nd at about 853 K) were recommended by Saccone et al. \[21\].” |
 | 753 | eutectoid: Mn23Nd6 -> Mn17Nd2 + α-Nd | Mn23Nd6: Nd 0.207; Mn17Nd2: Nd 0.105; α-Nd: Nd 0.999 | experimental | [1] Rong 2016; _cites Makhalenko 1990_ | Table 3, p. 6, row 29; `ORC-NT5TR55LXF` |  |
 | 753 | eutectoid: Mn23Nd6 -> Mn17Nd2 + α-Nd | Mn23Nd6: Nd 0.207; Mn17Nd2: Nd 0.105; α-Nd: Nd 0.983 | model | [1] Rong 2016 | Table 3, p. 6, row 31; `ORC-Y52X3BQZXJ` |  |
 
 ## Other properties
 
-### Phase transition (40)
+### Phase transition (24)
 
 Table: Phase transition, Mn–Nd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 753 K | 753 | Mn23Nd6 $ Mn17Nd2 ? a-Nd | model | [1] Rong 2016 | p. 6; `ORC-UVK7PO3UQL.ca03d6` | “However, It should be pointed out that the temperature of the invariant reactions, L $ Mn2Nd ? a-Nd, Mn2Nd $ Mn23Nd6 ? a-Nd and Mn23Nd6 $ Mn17Nd2 ? a-Nd, was calculated to be 968.1, 853.0 and 753.0 K, which are closer to the experimental results determined by Saccone et al. \[21\].” |
-| Phase transition | 853 K | 853 | Mn2Nd $ Mn23Nd6 ? a-Nd | model | [1] Rong 2016 | p. 6; `ORC-UVK7PO3UQL.b191a3` | “However, It should be pointed out that the temperature of the invariant reactions, L $ Mn2Nd ? a-Nd, Mn2Nd $ Mn23Nd6 ? a-Nd and Mn23Nd6 $ Mn17Nd2 ? a-Nd, was calculated to be 968.1, 853.0 and 753.0 K, which are closer to the experimental results determined by Saccone et al. \[21\].” |
 | Phase transition | 966.1 K | 966.1 | other: Mn30Nd70; _alloy: Mn 0.3, Nd 0.7_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 11; `ORC-YZGZFRHNSI` |  |
 | Phase transition | 967.3 K | 967.3 | other: Mn20Nd80 (as-cast); _alloy: Mn 0.2, Nd 0.8_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 7; `ORC-UDKT2UHFTC` |  |
 | Phase transition | 967.4 K | 967.4 | other: Mn10Nd90; _alloy: Mn 0.1, Nd 0.9_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 1; `ORC-NAS7ZQ4XNV` |  |
 | Phase transition | 967.7 K | 967.7 | other: Mn25Nd75; _alloy: Mn 0.25, Nd 0.75_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 10; `ORC-ZR2NGG4LVA` |  |
 | Phase transition | 967.9 K | 967.9 | other: Mn45Nd55; _alloy: Mn 0.45, Nd 0.55_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 17; `ORC-Q5JMYYKBUN` |  |
-| Phase transition | 968.1 K | 968.1 | L $ Mn2Nd ? a-Nd | model | [1] Rong 2016 | p. 6; `ORC-UVK7PO3UQL.1895ff` | “However, It should be pointed out that the temperature of the invariant reactions, L $ Mn2Nd ? a-Nd, Mn2Nd $ Mn23Nd6 ? a-Nd and Mn23Nd6 $ Mn17Nd2 ? a-Nd, was calculated to be 968.1, 853.0 and 753.0 K, which are closer to the experimental results determined by Saccone et al. \[21\].” |
 | Phase transition | 968.2 K | 968.2 | other: Mn55Nd45; _alloy: Mn 0.55, Nd 0.45_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 22; `ORC-A2QFTCI46Z` |  |
-| Phase transition | 968.4 K | 968.4 | L $ Mn2Nd ? a-Nd | experimental | [1] Rong 2016 | p. 5; `ORC-Z25XWBAZTA.46eb41` | “In the present work, the temperatures of four invariant reactions in the Mn-Nd binary system were determined to be 968.4 K (L $ Mn2Nd ? a-Nd), 981.0 K (a-Nd $ L ? b-Nd), 1115.8 K (L ? Mn23Nd6 $ Mn2Nd) and 1212.3 K (L ? Mn17Nd2 $ Mn23Nd6), respectively.” |
 | Phase transition | 968.4 K | 968.4 | other: Mn40Nd60; _alloy: Mn 0.4, Nd 0.6_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 15; `ORC-KLB2TCDWWE` |  |
 | Phase transition | 968.6 K | 968.6 | other: Mn50Nd50; _alloy: Mn 0.5, Nd 0.5_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 19; `ORC-C4CTFQV2VK` |  |
 | Phase transition | 968.7 K | 968.7 | other: Mn15Nd85; _alloy: Mn 0.15, Nd 0.85_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 4; `ORC-V35YXMERZ4` |  |
@@ -143,27 +125,15 @@ Table: Phase transition, Mn–Nd system
 | Phase transition | 969.4 K | 969.4 | other: L \<-> Mn2Nd + α-Nd; _alloy: Mn 0.75, Nd 0.25_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 32; `ORC-JBERDL6EIS` |  |
 | Phase transition | 971.1 K | 971.1 | other: L \<-> Mn2Nd + α-Nd; _alloy: Mn 0.8, Nd 0.2_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 35; `ORC-X3QDO6IM3G` |  |
 | Phase transition | 980.1 K | 980.1 | other: Mn20Nd80 (as-cast); _alloy: Mn 0.2, Nd 0.8_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 8; `ORC-CO3SVVQYC7` |  |
-| Phase transition | 981 K | 981 | other: a-Nd $ L ? b-Nd | experimental | [1] Rong 2016 | p. 5; `ORC-Z25XWBAZTA.d79aa8` | “In the present work, the temperatures of four invariant reactions in the Mn-Nd binary system were determined to be 968.4 K (L $ Mn2Nd ? a-Nd), 981.0 K (a-Nd $ L ? b-Nd), 1115.8 K (L ? Mn23Nd6 $ Mn2Nd) and 1212.3 K (L ? Mn17Nd2 $ Mn23Nd6), respectively.” |
-| Phase transition | 981 K | 981 | other: b-Nd $ L ? a-Nd | model | [1] Rong 2016 | p. 6; `ORC-FTS6OCBPCO.cb1bc6` | “The calculated temperatures of the catatectic reaction (b-Nd $ L ? a-Nd, at 981.0 K) and the peritectic reaction (L ? Mn23Nd6 $ Mn2Nd, at 1116.0 K) agree well with the experimental” |
 | Phase transition | 981.4 K | 981.4 | other: Mn15Nd85; _alloy: Mn 0.15, Nd 0.85_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 5; `ORC-PQU6BOCKNZ` |  |
-| Phase transition | 981.4 K | 981.4 | other: a-Nd $ L ? b-Nd | experimental | [1] Rong 2016 | p. 5; `ORC-SZ5ZCKYCHK.04dc04` | “As can be seen in Fig. 1, there are three peaks in the thermal analysis curves of the annealed Mn10Nd90 and Mn15Nd85 alloys, which are responsible to be the eutectic reaction (L $ Mn2Nd ? a-Nd) at 967.4 and 968.7 K, the catatectic reaction (a-Nd $ L ? b-Nd) at 981.5 and 981.4 K and their liquidus temperatures at 1153.8 K and 1084.9 K, respectively.” |
 | Phase transition | 981.5 K | 981.5 | other: Mn10Nd90; _alloy: Mn 0.1, Nd 0.9_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 2; `ORC-EQXKXO4JPD` |  |
-| Phase transition | 981.5 K | 981.5 | other: a-Nd $ L ? b-Nd | experimental | [1] Rong 2016 | p. 5; `ORC-SZ5ZCKYCHK.c35e6d` | “As can be seen in Fig. 1, there are three peaks in the thermal analysis curves of the annealed Mn10Nd90 and Mn15Nd85 alloys, which are responsible to be the eutectic reaction (L $ Mn2Nd ? a-Nd) at 967.4 and 968.7 K, the catatectic reaction (a-Nd $ L ? b-Nd) at 981.5 and 981.4 K and their liquidus temperatures at 1153.8 K and 1084.9 K, respectively.” |
-| Phase transition | 1084.9 K | 1084.9 | other | experimental | [1] Rong 2016 | p. 5; `ORC-SZ5ZCKYCHK.ed4e2a` | “As can be seen in Fig. 1, there are three peaks in the thermal analysis curves of the annealed Mn10Nd90 and Mn15Nd85 alloys, which are responsible to be the eutectic reaction (L $ Mn2Nd ? a-Nd) at 967.4 and 968.7 K, the catatectic reaction (a-Nd $ L ? b-Nd) at 981.5 and 981.4 K and their liquidus temperatures at 1153.8 K and 1084.9 K, respectively.” |
 | Phase transition | 1113.5 K | 1113.5 | other: Mn50Nd50; _alloy: Mn 0.5, Nd 0.5_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 20; `ORC-TVHPKUNETJ` |  |
 | Phase transition | 1114.1 K | 1114.1 | other: Mn55Nd45; _alloy: Mn 0.55, Nd 0.45_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 23; `ORC-466QYRONQS` |  |
-| Phase transition | 1115.8 K | 1115.8 | L ? Mn23Nd6 $ Mn2Nd | experimental | [1] Rong 2016 | p. 5; `ORC-Z25XWBAZTA.e017b1` | “In the present work, the temperatures of four invariant reactions in the Mn-Nd binary system were determined to be 968.4 K (L $ Mn2Nd ? a-Nd), 981.0 K (a-Nd $ L ? b-Nd), 1115.8 K (L ? Mn23Nd6 $ Mn2Nd) and 1212.3 K (L ? Mn17Nd2 $ Mn23Nd6), respectively.” |
 | Phase transition | 1116.4 K | 1116.4 | other: Mn70Nd30; _alloy: Mn 0.7, Nd 0.3_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 29; `ORC-46XRUXOWRU` |  |
 | Phase transition | 1116.8 K | 1116.8 | other: Mn60Nd40 (as-cast); _alloy: Mn 0.6, Nd 0.4_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 26; `ORC-ZNOYKCPK6I` |  |
 | Phase transition | 1118.1 K | 1118.1 | other: Mn75Nd25 (as-cast); _alloy: Mn 0.75, Nd 0.25_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 33; `ORC-B3MHIAWNZ2` |  |
-| Phase transition | 1136 K | 1136 | other: a-Nd $ L ? b-Nd | experimental | [1] Rong 2016; _cites Saccone 1993_ | p. 2; `ORC-2K5AWQKAZ5.91d65c` | “Moreover, the two peritectic reactions (L ? bMn $ Mn23Nd6 at 1203 K, L ? Mn23Nd6 $ Mn2Nd at 1093 K), the catatectic reaction (a-Nd $ L ? b-Nd at 1136 K), the eutectic reaction (L $ Mn2Nd ? a-Nd at 968 K) and two eutectoid reactions (Mn23Nd6 $a-Nd ? aNd at about 753 K and Mn2Nd $ Mn23Nd6 ? a-Nd at about 853 K) were recommended by Saccone et al. \[21\].” |
-| Phase transition | 1153.8 K | 1153.8 | other | experimental | [1] Rong 2016 | p. 5; `ORC-SZ5ZCKYCHK.719f6f` | “As can be seen in Fig. 1, there are three peaks in the thermal analysis curves of the annealed Mn10Nd90 and Mn15Nd85 alloys, which are responsible to be the eutectic reaction (L $ Mn2Nd ? a-Nd) at 967.4 and 968.7 K, the catatectic reaction (a-Nd $ L ? b-Nd) at 981.5 and 981.4 K and their liquidus temperatures at 1153.8 K and 1084.9 K, respectively.” |
-| Phase transition | 1185.8 K | 1185.8 | other | experimental | [1] Rong 2016 | p. 5; `ORC-FIYRWHLFHO.242b2b` | “Meanwhile, the liquidus temperatures of these two alloys are 1185.8 and 1237.7 K, respectively.” |
 | Phase transition | 1210.7 K | 1210.7 | other: Mn70Nd30; _alloy: Mn 0.7, Nd 0.3_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 30; `ORC-EAMQWAIIJO` |  |
-| Phase transition | 1212.3 K | 1212.3 | L ? Mn17Nd2 $ Mn23Nd6 | experimental | [1] Rong 2016 | p. 5; `ORC-Z25XWBAZTA.bb405e` | “In the present work, the temperatures of four invariant reactions in the Mn-Nd binary system were determined to be 968.4 K (L $ Mn2Nd ? a-Nd), 981.0 K (a-Nd $ L ? b-Nd), 1115.8 K (L ? Mn23Nd6 $ Mn2Nd) and 1212.3 K (L ? Mn17Nd2 $ Mn23Nd6), respectively.” |
 | Phase transition | 1213.8 K | 1213.8 | other: Mn80Nd20; _alloy: Mn 0.8, Nd 0.2_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 36; `ORC-F65Y33BEF5` |  |
-| Phase transition | 1237.7 K | 1237.7 | other | experimental | [1] Rong 2016 | p. 5; `ORC-FIYRWHLFHO.0a0fd2` | “Meanwhile, the liquidus temperatures of these two alloys are 1185.8 and 1237.7 K, respectively.” |
-| Phase transition | 1384.6 K | 1384.6 | other: d-Mn $ L ? c-Mn | model | [1] Rong 2016 | p. 7; `ORC-36UDB3FNSH` | “In addition, it should be mentioned that the calculated temperature of the catatectic reaction (d-Mn $ L ? c-Mn at 1384.6 K) is lower (22 and 26 K) than the reported values in Refs. \[15\] and \[16\].” |
 
 ### Phase equilibrium (12)
 

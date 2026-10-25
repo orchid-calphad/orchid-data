@@ -1,10 +1,10 @@
 # Mn–S system
 
-> Mn–S system: 13 accepted literature values (phase transition 12, invariant reaction 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–S system: 6 accepted literature values (phase transition 6) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-S.html · Markdown: https://data.orchid-project.org/systems/MN-S.md
 
-13 accepted literature values from 2 paper(s) (experimental 11, model 2); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+6 accepted literature values from 2 paper(s) (experimental 4, model 2); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-S.json) · [CSV](https://data.orchid-project.org/systems/MN-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-S/MnS-00Oht.json) · [phases (11)](https://data.orchid-project.org/phases/pages/MN-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-S.html) · [Markdown](https://data.orchid-project.org/systems/MN-S.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
+| experimental | 4 |
 | model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 12 |
+| phase transition | 6 |
 
 ## Calculated phase diagrams
 
@@ -65,17 +64,9 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MN/MN-S.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MN/MN-S.json) · [CALPHAD hull MnS-00Oht](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-S--MnS-00Oht.json) · [CALPHAD hull MnS-98Mie](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-S--MnS-98Mie.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Mn–S system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1503 | eutectic |  | experimental | [1] Dilner 2015; _cites Vogel 1937_ [doi](https://doi.org/10.1002/srin.193700988) | p. 5; `ORC-WGDD4Y3YHH` | “In addition \[4\], also reports the eutectic temperature to be 1503 K.” |
-
 ## Other properties
 
-### Phase transition (12)
+### Phase transition (6)
 
 Table: Phase transition, Mn–S system
 
@@ -87,12 +78,6 @@ Table: Phase transition, Mn–S system
 | Phase transition | 154 K | 154 | magnetic | experimental | [1] Dilner 2015; _cites Bousquet 1968_ | p. 4; `ORC-H5BKN37SPM.56e7ca` | “There are several measurements of low temperature heat capacity \[57-60\] and the Néel temperature of MnS as 140 K \[61\], 147 K \[60\], 152 K \[59,62\] and 154 K \[58,63,64\].” |
 | Phase transition | 1373.15 K | 1373.15 | other | model | [2] Miettinen 1998 | p. 7; `ORC-LEIVONKF25` | “which, ,together with Eqs. (16) and (38), give reasonable transformation temperatures for the metastable phase change L/Q of pure FeS (1105°C) and for the metastable phase change L/P of pure MnS (1100°C) with respect to the two-phase regions L+Q and L+P of the FeS-MnS phase diagram (FIG. 1).” |
 | Phase transition | 1461.15 K | 1461.15 | liquid | model | [2] Miettinen 1998 | p. 4; `ORC-EE737DJXLH` | “It is reminded that the optimized Eq.(16) deviates from the modified version of Eq.(13) only slightly, at 988"C (fee-bee-P equilibrium) with -226 J/mol, at 1188°C (melting point of the P phase) with -388 J/mol, at 136O'C (fee-bee-L equilibrium) with -267 J/mol and at 16OO'Cwith -2 J/mol only.” |
-| Phase transition | 1803 K | 1803 |  | experimental | [1] Dilner 2015; _cites Coughlin 1950_ [doi](https://doi.org/10.1021/ja01168a021) | p. 5; `ORC-D5SFUXXVYN.f45691` | “There are several measurements of the melting temperature of MnS reporting different temperatures starting from 1803 K \[7,65\], 1873 K \[4\], 1883 K \[1\], 1893 K \[66,67\] and 1928 K \[21\].” |
-| Phase transition | 1853 K | 1853 | other | experimental | [1] Dilner 2015 | p. 5; `ORC-ILXFCSXCYZ` | “In that work the monotectic point was measured as 1853 K and 33.5 mass% S which is close to the measurement of the monotectic temperature by \[21\].” |
-| Phase transition | 1873 K | 1873 |  | experimental | [1] Dilner 2015; _cites Vogel 1937_ [doi](https://doi.org/10.1002/srin.193700988) | p. 5; `ORC-D5SFUXXVYN.8639dd` | “There are several measurements of the melting temperature of MnS reporting different temperatures starting from 1803 K \[7,65\], 1873 K \[4\], 1883 K \[1\], 1893 K \[66,67\] and 1928 K \[21\].” |
-| Phase transition | 1883 K | 1883 |  | experimental | [1] Dilner 2015; _cites Shibata 1928_ | p. 5; `ORC-D5SFUXXVYN.05ea2c` | “There are several measurements of the melting temperature of MnS reporting different temperatures starting from 1803 K \[7,65\], 1873 K \[4\], 1883 K \[1\], 1893 K \[66,67\] and 1928 K \[21\].” |
-| Phase transition | 1893 K | 1893 |  | experimental | [1] Dilner 2015; _cites Andrew 1931_ | p. 5; `ORC-D5SFUXXVYN.19583f` | “There are several measurements of the melting temperature of MnS reporting different temperatures starting from 1803 K \[7,65\], 1873 K \[4\], 1883 K \[1\], 1893 K \[66,67\] and 1928 K \[21\].” |
-| Phase transition | 1928 K | 1928 |  | experimental | [1] Dilner 2015; _cites Staffansson 1976_ [doi](https://doi.org/10.1007/bf02652829) | p. 5; `ORC-D5SFUXXVYN.469f13` | “There are several measurements of the melting temperature of MnS reporting different temperatures starting from 1803 K \[7,65\], 1873 K \[4\], 1883 K \[1\], 1893 K \[66,67\] and 1928 K \[21\].” |
 
 ## Sources
 

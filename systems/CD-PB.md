@@ -1,10 +1,10 @@
 # Cd–Pb system
 
-> Cd–Pb system: 86 accepted literature values (phase transition 44, invariant reaction 23, phase equilibrium 19) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Pb system: 63 accepted literature values (phase transition 35, phase equilibrium 19, invariant reaction 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-PB.html · Markdown: https://data.orchid-project.org/systems/CD-PB.md
 
-86 accepted literature values from 3 paper(s) (experimental 69, model 16, unspecified 1); 3 calculated phase diagram(s).
+63 accepted literature values from 2 paper(s) (experimental 58, model 4, unspecified 1); 3 calculated phase diagram(s). 23 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-PB.json) · [CSV](https://data.orchid-project.org/systems/CD-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-PB/CdPb-09Liu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CD-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-PB.html) · [Markdown](https://data.orchid-project.org/systems/CD-PB.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 69 |
-| model | 16 |
+| experimental | 58 |
+| model | 4 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 23 |
-| phase transition | 44 |
+| invariant reaction | 9 |
+| phase transition | 35 |
 | phase equilibrium | 19 |
 
 ## Calculated phase diagrams
@@ -51,86 +51,63 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cd–Pb system (23)
+Table: Invariant reactions reported in the literature for the Cd–Pb system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 671.85 | eutectic |  | model | [1] Zakulski 1995; _cites Zhou 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990384-v) | p. 3; `ORC-6Q7IP2JLLL` | “Calculations of the eutectic composition by \[90Zho\] for atmospheric pressure and for 4 GPa (59.4 at.% Pb, 398.7 ~ agree well with the revised experimental values of \[87C1a\] (60 at.% Pb, 425 ~ but differ greatly from the earlier \[79Pac\] measurements \[72 at.% Pb, 425 ~” |
-| 548 | monotectic: monotectic |  | model | [2] Chuang 2013 | p. 5; `ORC-HUJ4EARFBT` | “Since the critical temperature of the gap exceeds that of the flat liquidus, a monotectic reaction is formed at 548 K (275 C).” |
-| 548 | monotectic |  | model | [2] Chuang 2013 | p. 6; `ORC-JYRBKIUWFZ` | “Thus, the endothermic thermal signal at 548 K (275C) is associated with the invariant monotectic reaction.” |
-| 548 | monotectic: monotectic |  | experimental | [2] Chuang 2013 | p. 5; `ORC-ND34QIPEUQ.bad169` | “The measured thermal event at 548 K (275 C) is associated with the invariant monotectic reaction which has been predicted at 548 K (275 C) in a model calculation discussed in the previous section and the same thermal behavior can be observed even with a bulk sample during heating.” |
-| 548 | monotectic |  | model | [2] Chuang 2013 | p. 4; `ORC-SA3L7UJMP5.f0e86b` | “Instead of a simple eutectic system, the thermodynamic model calculation indicates that the Pb-Cd binary system has one monotectic reaction at 548 K (275 C) in addition to the eutectic reaction at 521 K (248 C).” |
-| 548 | monotectic: L1 = L2 + hcp | L1: Pb 0.2547; L2: Pb 0.4511; hcp: Pb 9.600e-4 | model | [2] Chuang 2013 | Table II, p. 6, row 3; `ORC-ZHAUQL2FSB` |  |
-| 521.29 | eutectic |  | model | [1] Zakulski 1995 | p. 2; `ORC-YZ43VGLS3K.9ebd01` | “The calculated eutectic temperature of 248.14 ~ is close to that of 247.9 ~ established by \[80Sch 1\] and to that of 248.0 ~ reported by \[23Goe\], \[38Rol\], and \[59Sch\].” |
-| 521.15 | eutectic |  | experimental | [1] Zakulski 1995; _cites Goebel 1923_ | p. 2; `ORC-YZ43VGLS3K.e833e0` | “The calculated eutectic temperature of 248.14 ~ is close to that of 247.9 ~ established by \[80Sch 1\] and to that of 248.0 ~ reported by \[23Goe\], \[38Rol\], and \[59Sch\].” |
-| 521.05 | eutectic |  | experimental | [1] Zakulski 1995; _cites ref. 80Sch_ | p. 2; `ORC-YZ43VGLS3K.5cae77` | “The calculated eutectic temperature of 248.14 ~ is close to that of 247.9 ~ established by \[80Sch 1\] and to that of 248.0 ~ reported by \[23Goe\], \[38Rol\], and \[59Sch\].” |
-| 521 | eutectic |  | experimental | [2] Chuang 2013 | p. 8; `ORC-24JID2IDZA.69bab0` | “The experimentally determined stable monotectic and eutectic reactions at 548 K and 521 K (275 C and 248 C) are used to select the final parameter values for the model calculation discussed previously.” |
-| 521 | eutectic: L = fcc + hcp | L: Pb 0.719; fcc: Pb 0.941; hcp: Pb 0 | unspecified | [2] Chuang 2013; _cites Ashtakala 1981_ [doi](https://doi.org/10.1007/bf02873710) | Table II, p. 6, row 1; `ORC-724RIZVVOO` |  |
-| 521 | liq ↔ hcp + fcc | liq: Pb 0.719; fcc: Pb 0.941 | experimental | [3] Liu 2009; _cites Rollason 1938_ | Table VI, p. 10, row 3; `ORC-A4KFHYHSJW` |  |
-| 521 | liq ↔ hcp + fcc | liq: Pb 0.719 | experimental | [3] Liu 2009; _cites Goebel 1923_ | Table VI, p. 10, row 2; `ORC-LHLEZOQ2RA` |  |
-| 521 | eutectic |  | model | [2] Chuang 2013 | p. 10; `ORC-P3SVSHVDRH` | “2. The stable eutectic reaction at 521 K (248 C) is reproduced.” |
-| 521 | eutectic |  | model | [2] Chuang 2013 | p. 4; `ORC-SA3L7UJMP5.27310c` | “Instead of a simple eutectic system, the thermodynamic model calculation indicates that the Pb-Cd binary system has one monotectic reaction at 548 K (275 C) in addition to the eutectic reaction at 521 K (248 C).” |
-| 521 | liq ↔ hcp + fcc | liq: Pb 0.719; fcc: Pb 0.941 | experimental | [3] Liu 2009; _cites Schuermann 1959_ | Table VI, p. 10, row 4; `ORC-UQEVMOQ5WE` |  |
-| 521 | eutectic: eutectic |  | model | [2] Chuang 2013 | p. 5; `ORC-XU5C3IGZRH` | “Also, the eutectic reaction at 521 K (248 C) is established.” |
-| 520.9 | liq ↔ hcp + fcc | fcc: Pb 0.945 | experimental | [3] Liu 2009; _cites Schuffenecker 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987151-6) | Table VI, p. 10, row 5; `ORC-TZPNS7NSAP` |  |
-| 520 | eutectic: L = fcc + hcp | L: Pb 0.717; fcc: Pb 0.937; hcp: Pb 7.700e-4 | model | [2] Chuang 2013 | Table II, p. 6, row 2; `ORC-DO6FSOOVPZ` |  |
-| 519.41 | liq ↔ hcp + fcc | liq: Pb 0.7; fcc: Pb 0.948 | model | [3] Liu 2009 | Table VI, p. 10, row 1; `ORC-4PWZUY54LW` |  |
-| 507 | monotectic: metastable monotectic |  | model | [2] Chuang 2013 | p. 5; `ORC-EKRYBU4R5F` | “When the nucleation of the hcp-Cd phase is suppressed, the extension of the liquid miscibility gap intersects the fcc-Pb liquidus to generate a metastable monotectic reaction with an invariant temperature at 507 K (234 C).” |
-| 507 | monotectic |  | model | [2] Chuang 2013 | p. 10; `ORC-P7RMTV44OT` | “3. The extended metastable liquid miscibility gap and a metastable monotectic equilibrium at 507 K (234 C) are established.” |
-| 507 | monotectic: L1 = L2 + fcc | L1: Pb 0.6193; L2: Pb 0.1479; fcc: Pb 0.9362 | model | [2] Chuang 2013 | Table II, p. 6, row 4; `ORC-T2U2MUF55X` |  |
+| 548 | monotectic: L1 = L2 + hcp | L1: Pb 0.2547; L2: Pb 0.4511; hcp: Pb 9.600e-4 | model | [1] Chuang 2013 | Table II, p. 6, row 3; `ORC-ZHAUQL2FSB` |  |
+| 521 | eutectic: L = fcc + hcp | L: Pb 0.719; fcc: Pb 0.941; hcp: Pb 0 | unspecified | [1] Chuang 2013; _cites Ashtakala 1981_ [doi](https://doi.org/10.1007/bf02873710) | Table II, p. 6, row 1; `ORC-724RIZVVOO` |  |
+| 521 | liq ↔ hcp + fcc | liq: Pb 0.719; fcc: Pb 0.941 | experimental | [2] Liu 2009; _cites Rollason 1938_ | Table VI, p. 10, row 3; `ORC-A4KFHYHSJW` |  |
+| 521 | liq ↔ hcp + fcc | liq: Pb 0.719 | experimental | [2] Liu 2009; _cites Goebel 1923_ | Table VI, p. 10, row 2; `ORC-LHLEZOQ2RA` |  |
+| 521 | liq ↔ hcp + fcc | liq: Pb 0.719; fcc: Pb 0.941 | experimental | [2] Liu 2009; _cites Schuermann 1959_ | Table VI, p. 10, row 4; `ORC-UQEVMOQ5WE` |  |
+| 520.9 | liq ↔ hcp + fcc | fcc: Pb 0.945 | experimental | [2] Liu 2009; _cites Schuffenecker 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987151-6) | Table VI, p. 10, row 5; `ORC-TZPNS7NSAP` |  |
+| 520 | eutectic: L = fcc + hcp | L: Pb 0.717; fcc: Pb 0.937; hcp: Pb 7.700e-4 | model | [1] Chuang 2013 | Table II, p. 6, row 2; `ORC-DO6FSOOVPZ` |  |
+| 519.41 | liq ↔ hcp + fcc | liq: Pb 0.7; fcc: Pb 0.948 | model | [2] Liu 2009 | Table VI, p. 10, row 1; `ORC-4PWZUY54LW` |  |
+| 507 | monotectic: L1 = L2 + fcc | L1: Pb 0.6193; L2: Pb 0.1479; fcc: Pb 0.9362 | model | [1] Chuang 2013 | Table II, p. 6, row 4; `ORC-T2U2MUF55X` |  |
 
 ## Other properties
 
-### Phase transition (44)
+### Phase transition (35)
 
 Table: Phase transition, Cd–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 408 K | 408 | other | experimental | [2] Chuang 2013 | p. 3; `ORC-2QMZ72QKJH` | “The thermal history of a Pb-18.7 wt pct Cd droplet sample is presented in the DTA thermogram in Figure 3. For this sample, final freezing was observed at 408 K (135 C), but prior to final freezing, there are minor thermal events departing from the baseline.” |
-| Phase transition | 464 K | 464 | other: metastable liquid miscibility gap; _alloy: Cd 0.245, Pb 0.755_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 6; `ORC-SAZPOPABD2` |  |
-| Phase transition | 472 K | 472 | other: metastable liquid miscibility gap; _alloy: Cd 0.28, Pb 0.72_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 10; `ORC-RRTC6XMVJD` |  |
-| Phase transition | 481 K | 481 | other | experimental | [2] Chuang 2013 | p. 3; `ORC-5JTPJEELYC.ae5f67` | “However, scans at higher sensitivity that are given in Figure 4 reveal a reproducible, reversible thermal signal at 492 K (219 C) for a Pb-23.4 wt pct Cd sample (Figure 4(a)) and at 481 K (208 C) for a Pb83 wt pct Cd sample (Figure 4(b)).” |
-| Phase transition | 481 K | 481 | other: metastable liquid miscibility gap; _alloy: Cd 0.9, Pb 0.1_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 58; `ORC-BZSUTRXV5I` |  |
-| Phase transition | 483 K | 483 | other: metastable liquid miscibility gap; _alloy: Cd 0.88, Pb 0.12_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 53; `ORC-KBKMVFELUI` |  |
-| Phase transition | 492 K | 492 | other | experimental | [2] Chuang 2013 | p. 3; `ORC-5JTPJEELYC.37461f` | “However, scans at higher sensitivity that are given in Figure 4 reveal a reproducible, reversible thermal signal at 492 K (219 C) for a Pb-23.4 wt pct Cd sample (Figure 4(a)) and at 481 K (208 C) for a Pb83 wt pct Cd sample (Figure 4(b)).” |
-| Phase transition | 492 K | 492 | other: metastable liquid miscibility gap; _alloy: Cd 0.36, Pb 0.64_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 16; `ORC-TIVAAP7USR` |  |
-| Phase transition | 495 K | 495 | other | experimental | [2] Chuang 2013 | p. 8; `ORC-TFJ7JYLHS7` | “During heating to 513 K (240 C) and the subsequent cooling, the metastable phase reaction which is reversible is observed at about 495 K (222 C) as denoted by arrows in Figure 10.” |
-| Phase transition | 495 K | 495 | other: metastable liquid miscibility gap; _alloy: Cd 0.38, Pb 0.62_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 19; `ORC-GRLQQRGDV5` |  |
-| Phase transition | 502 K | 502 | other: metastable monotectic temperature; _alloy: Cd 0.441, Pb 0.559_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 23; `ORC-4KRLCYKLCE` |  |
-| Phase transition | 503 K | 503 | other: metastable monotectic temperature; _alloy: Cd 0.811, Pb 0.189_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 48; `ORC-GELNINQ273` |  |
-| Phase transition | 505 K | 505 | other: metastable monotectic temperature; _alloy: Cd 0.752, Pb 0.248_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 44; `ORC-EPWLARFSXT` |  |
-| Phase transition | 505 K | 505 | other: metastable monotectic temperature; _alloy: Cd 0.551, Pb 0.449_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 28; `ORC-JRIHHPKBRQ` |  |
-| Phase transition | 507 K | 507 | other: metastable monotectic temperature; _alloy: Cd 0.551, Pb 0.449_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 27; `ORC-MH4WUIRZ6E` |  |
-| Phase transition | 508.1 K | 508.1 | other | model | [2] Chuang 2013 | p. 8; `ORC-OXWRRRY4YX` | “The point at Pb-30 wt pct Cd showing a deviation of about 7 K from the calculated metastable monotectic reaction at 508.1 K might be explained by the extended fcc + L phase equilibrium as shown in Figure 7.” |
-| Phase transition | 509 K | 509 | other: metastable monotectic temperature; _alloy: Cd 0.648, Pb 0.352_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 31; `ORC-IZ2JCAGSZQ` |  |
-| Phase transition | 517 K | 517 | eutectic: stable eutectic temperature; _alloy: Cd 0.811, Pb 0.189_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 47; `ORC-2U4YCKAYCP` |  |
-| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.36, Pb 0.64_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 15; `ORC-2A6OJXHLLS` |  |
-| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.441, Pb 0.559_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 22; `ORC-6NWI7BL5FH` |  |
-| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.752, Pb 0.248_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 42; `ORC-7ZJHVK3TCP` |  |
-| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.943, Pb 0.057_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 61; `ORC-IP5MTT2DGK` |  |
-| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.665, Pb 0.335_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 34; `ORC-OV5TUFTR4H` |  |
-| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.3, Pb 0.7_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 13; `ORC-PTHFN7NSPB` |  |
-| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.28, Pb 0.72_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 9; `ORC-UOCWSM6VIL` |  |
-| Phase transition | 519 K | 519 | eutectic: stable eutectic temperature; _alloy: Cd 0.551, Pb 0.449_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 26; `ORC-5RFNWE5HRQ` |  |
-| Phase transition | 519 K | 519 | eutectic: stable eutectic temperature; _alloy: Cd 0.88, Pb 0.12_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 52; `ORC-U5EGF7PYR3` |  |
-| Phase transition | 520 K | 520 | eutectic: stable eutectic temperature; _alloy: Cd 0.17, Pb 0.83_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 3; `ORC-3MGZUQPBHD` |  |
-| Phase transition | 520 K | 520 | eutectic: stable eutectic temperature; _alloy: Cd 0.734, Pb 0.266_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 39; `ORC-EWATUFNSR7` |  |
-| Phase transition | 520 K | 520 | eutectic: stable eutectic temperature; _alloy: Cd 0.38, Pb 0.62_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 18; `ORC-O47W4IBJ5N` |  |
-| Phase transition | 520 K | 520 | eutectic: stable eutectic temperature; _alloy: Cd 0.9, Pb 0.1_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 57; `ORC-RGHAYODVTQ` |  |
-| Phase transition | 521 K | 521 | eutectic: stable eutectic temperature; _alloy: Cd 0.245, Pb 0.755_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 5; `ORC-DE6S3WTERR` |  |
-| Phase transition | 521 K | 521 | eutectic: stable eutectic temperature; _alloy: Cd 0.71, Pb 0.29_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 36; `ORC-GOITNHA2DP` |  |
-| Phase transition | 521 K | 521 | eutectic: stable eutectic temperature; _alloy: Cd 0.648, Pb 0.352_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 30; `ORC-R2LPC2HMW7` |  |
-| Phase transition | 548 K | 548 | other | experimental | [2] Chuang 2013 | p. 8; `ORC-24JID2IDZA.a42ba4` | “The experimentally determined stable monotectic and eutectic reactions at 548 K and 521 K (275 C and 248 C) are used to select the final parameter values for the model calculation discussed previously.” |
-| Phase transition | 548 K | 548 | other | experimental | [2] Chuang 2013 | p. 5; `ORC-ND34QIPEUQ.5039ae` | “The measured thermal event at 548 K (275 C) is associated with the invariant monotectic reaction which has been predicted at 548 K (275 C) in a model calculation discussed in the previous section and the same thermal behavior can be observed even with a bulk sample during heating.” |
-| Phase transition | 548 K | 548 | other: stable monotectic temperature; _alloy: Cd 0.9, Pb 0.1_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 56; `ORC-6KVVTODFNL` |  |
-| Phase transition | 548 K | 548 | other: stable monotectic temperature; _alloy: Cd 0.734, Pb 0.266_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 38; `ORC-KDZO5OC33R` |  |
-| Phase transition | 548 K | 548 | other: stable monotectic temperature; _alloy: Cd 0.752, Pb 0.248_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 41; `ORC-VQUE7VHJ3O` |  |
-| Phase transition | 549 K | 549 | other: stable monotectic temperature; _alloy: Cd 0.811, Pb 0.189_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 46; `ORC-G6LQJGOE6T` |  |
-| Phase transition | 549 K | 549 | other: stable monotectic temperature; _alloy: Cd 0.943, Pb 0.057_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 60; `ORC-LXOKMQSJZA` |  |
-| Phase transition | 549 K | 549 | other: stable monotectic temperature; _alloy: Cd 0.88, Pb 0.12_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 51; `ORC-PMHOVW474A` |  |
-| Phase transition | 552 K | 552 | other | experimental | [2] Chuang 2013 | p. 8; `ORC-NSAOG6YERK` | “Moreover, the heating (thermal trace C) after further cooling to crystallization below the eutectic temperature shows the eutectic melting peak and the liquidus \[at 552 K (279 C)\].” |
-| Phase transition | 556 K | 556 | other | model | [2] Chuang 2013 | p. 5; `ORC-RJ4GUKMRMS` | “critical point of this miscibility gap is at 556 K (283 C) and xCd = 0.654.” |
+| Phase transition | 464 K | 464 | other: metastable liquid miscibility gap; _alloy: Cd 0.245, Pb 0.755_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 6; `ORC-SAZPOPABD2` |  |
+| Phase transition | 472 K | 472 | other: metastable liquid miscibility gap; _alloy: Cd 0.28, Pb 0.72_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 10; `ORC-RRTC6XMVJD` |  |
+| Phase transition | 481 K | 481 | other: metastable liquid miscibility gap; _alloy: Cd 0.9, Pb 0.1_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 58; `ORC-BZSUTRXV5I` |  |
+| Phase transition | 483 K | 483 | other: metastable liquid miscibility gap; _alloy: Cd 0.88, Pb 0.12_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 53; `ORC-KBKMVFELUI` |  |
+| Phase transition | 492 K | 492 | other: metastable liquid miscibility gap; _alloy: Cd 0.36, Pb 0.64_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 16; `ORC-TIVAAP7USR` |  |
+| Phase transition | 495 K | 495 | other: metastable liquid miscibility gap; _alloy: Cd 0.38, Pb 0.62_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 19; `ORC-GRLQQRGDV5` |  |
+| Phase transition | 502 K | 502 | other: metastable monotectic temperature; _alloy: Cd 0.441, Pb 0.559_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 23; `ORC-4KRLCYKLCE` |  |
+| Phase transition | 503 K | 503 | other: metastable monotectic temperature; _alloy: Cd 0.811, Pb 0.189_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 48; `ORC-GELNINQ273` |  |
+| Phase transition | 505 K | 505 | other: metastable monotectic temperature; _alloy: Cd 0.752, Pb 0.248_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 44; `ORC-EPWLARFSXT` |  |
+| Phase transition | 505 K | 505 | other: metastable monotectic temperature; _alloy: Cd 0.551, Pb 0.449_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 28; `ORC-JRIHHPKBRQ` |  |
+| Phase transition | 507 K | 507 | other: metastable monotectic temperature; _alloy: Cd 0.551, Pb 0.449_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 27; `ORC-MH4WUIRZ6E` |  |
+| Phase transition | 509 K | 509 | other: metastable monotectic temperature; _alloy: Cd 0.648, Pb 0.352_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 31; `ORC-IZ2JCAGSZQ` |  |
+| Phase transition | 517 K | 517 | eutectic: stable eutectic temperature; _alloy: Cd 0.811, Pb 0.189_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 47; `ORC-2U4YCKAYCP` |  |
+| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.36, Pb 0.64_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 15; `ORC-2A6OJXHLLS` |  |
+| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.441, Pb 0.559_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 22; `ORC-6NWI7BL5FH` |  |
+| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.752, Pb 0.248_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 42; `ORC-7ZJHVK3TCP` |  |
+| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.943, Pb 0.057_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 61; `ORC-IP5MTT2DGK` |  |
+| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.665, Pb 0.335_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 34; `ORC-OV5TUFTR4H` |  |
+| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.3, Pb 0.7_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 13; `ORC-PTHFN7NSPB` |  |
+| Phase transition | 518 K | 518 | eutectic: stable eutectic temperature; _alloy: Cd 0.28, Pb 0.72_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 9; `ORC-UOCWSM6VIL` |  |
+| Phase transition | 519 K | 519 | eutectic: stable eutectic temperature; _alloy: Cd 0.551, Pb 0.449_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 26; `ORC-5RFNWE5HRQ` |  |
+| Phase transition | 519 K | 519 | eutectic: stable eutectic temperature; _alloy: Cd 0.88, Pb 0.12_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 52; `ORC-U5EGF7PYR3` |  |
+| Phase transition | 520 K | 520 | eutectic: stable eutectic temperature; _alloy: Cd 0.17, Pb 0.83_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 3; `ORC-3MGZUQPBHD` |  |
+| Phase transition | 520 K | 520 | eutectic: stable eutectic temperature; _alloy: Cd 0.734, Pb 0.266_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 39; `ORC-EWATUFNSR7` |  |
+| Phase transition | 520 K | 520 | eutectic: stable eutectic temperature; _alloy: Cd 0.38, Pb 0.62_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 18; `ORC-O47W4IBJ5N` |  |
+| Phase transition | 520 K | 520 | eutectic: stable eutectic temperature; _alloy: Cd 0.9, Pb 0.1_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 57; `ORC-RGHAYODVTQ` |  |
+| Phase transition | 521 K | 521 | eutectic: stable eutectic temperature; _alloy: Cd 0.245, Pb 0.755_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 5; `ORC-DE6S3WTERR` |  |
+| Phase transition | 521 K | 521 | eutectic: stable eutectic temperature; _alloy: Cd 0.71, Pb 0.29_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 36; `ORC-GOITNHA2DP` |  |
+| Phase transition | 521 K | 521 | eutectic: stable eutectic temperature; _alloy: Cd 0.648, Pb 0.352_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 30; `ORC-R2LPC2HMW7` |  |
+| Phase transition | 548 K | 548 | other: stable monotectic temperature; _alloy: Cd 0.9, Pb 0.1_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 56; `ORC-6KVVTODFNL` |  |
+| Phase transition | 548 K | 548 | other: stable monotectic temperature; _alloy: Cd 0.734, Pb 0.266_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 38; `ORC-KDZO5OC33R` |  |
+| Phase transition | 548 K | 548 | other: stable monotectic temperature; _alloy: Cd 0.752, Pb 0.248_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 41; `ORC-VQUE7VHJ3O` |  |
+| Phase transition | 549 K | 549 | other: stable monotectic temperature; _alloy: Cd 0.811, Pb 0.189_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 46; `ORC-G6LQJGOE6T` |  |
+| Phase transition | 549 K | 549 | other: stable monotectic temperature; _alloy: Cd 0.943, Pb 0.057_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 60; `ORC-LXOKMQSJZA` |  |
+| Phase transition | 549 K | 549 | other: stable monotectic temperature; _alloy: Cd 0.88, Pb 0.12_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 51; `ORC-PMHOVW474A` |  |
 
 ### Phase equilibrium (19)
 
@@ -138,33 +115,32 @@ Table: Phase equilibrium, Cd–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 518 | other: liquidus temperature; _liquid: Cd 0.28, Pb 0.72_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 8; `ORC-Y5YVX3E25Y` |  |
-| Phase composition |  | 524 | other: liquidus temperature; _liquid: Cd 0.3, Pb 0.7_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 12; `ORC-PPDZFCTK76` |  |
-| Phase composition |  | 524 | other: liquidus temperature; _liquid: Cd 0.245, Pb 0.755_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 4; `ORC-ZPCXUFYVWD` |  |
-| Phase composition |  | 533 | other: liquidus temperature; _liquid: Cd 0.36, Pb 0.64_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 14; `ORC-G2HUWS5A36` |  |
-| Phase composition |  | 534 | other: liquidus temperature; _liquid: Cd 0.38, Pb 0.62_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 17; `ORC-XLYR66BB2Z` |  |
-| Phase composition |  | 536 | other: liquidus temperature; _liquid: Cd 0.441, Pb 0.559_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 21; `ORC-LVUNDIWWIQ` |  |
-| Phase composition |  | 541 | other: liquidus temperature; _liquid: Cd 0.17, Pb 0.83_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 2; `ORC-T2PPC5H3WC` |  |
-| Phase composition |  | 544 | other: liquidus temperature; _liquid: Cd 0.551, Pb 0.449_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 25; `ORC-QPA5T7U62K` |  |
-| Phase composition |  | 546 | other: liquidus temperature; _liquid: Cd 0.665, Pb 0.335_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 33; `ORC-3JYC7DPWMA` |  |
-| Phase composition |  | 548 | other: liquidus temperature; _liquid: Cd 0.648, Pb 0.352_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 29; `ORC-CEWXEKGUXB` |  |
-| Phase composition |  | 548 | other: liquidus temperature; _liquid: Cd 0.71, Pb 0.29_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 35; `ORC-XN3TS4S47V` |  |
-| Phase composition |  | 550 | other: liquidus temperature; _liquid: Cd 0.734, Pb 0.266_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 37; `ORC-DK64CWTNXP` |  |
-| Phase composition |  | 551 | other: liquidus temperature; _liquid: Cd 0.811, Pb 0.189_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 45; `ORC-TUKNUULK5Y` |  |
-| Phase composition |  | 552 | other: liquidus temperature; _liquid: Cd 0.752, Pb 0.248_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 40; `ORC-UOJRFEGTBM` |  |
-| Phase composition |  | 560 | other: liquidus temperature; _liquid: Cd 0.88, Pb 0.12_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 50; `ORC-I7ESO6LYJG` |  |
-| Phase composition |  | 562 | other: liquidus temperature; _liquid: Cd 0.9, Pb 0.1_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 55; `ORC-CG2AOVIZC5` |  |
-| Phase composition |  | 573.2 | other: liquidus temperature; _liquid: Cd 0.943, Pb 0.057_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 59; `ORC-RO7L7GTYKD` |  |
-| Phase composition |  | 594.3 | other: liquidus temperature; _liquid: Cd 1, Pb 0_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 62; `ORC-5SJCO7H4Y2` |  |
-| Phase composition |  | 600.7 | other: liquidus temperature; _liquid: Pb 0_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 1; `ORC-CYNLXK2M7I` |  |
+| Phase composition |  | 518 | other: liquidus temperature; _liquid: Cd 0.28, Pb 0.72_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 8; `ORC-Y5YVX3E25Y` |  |
+| Phase composition |  | 524 | other: liquidus temperature; _liquid: Cd 0.3, Pb 0.7_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 12; `ORC-PPDZFCTK76` |  |
+| Phase composition |  | 524 | other: liquidus temperature; _liquid: Cd 0.245, Pb 0.755_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 4; `ORC-ZPCXUFYVWD` |  |
+| Phase composition |  | 533 | other: liquidus temperature; _liquid: Cd 0.36, Pb 0.64_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 14; `ORC-G2HUWS5A36` |  |
+| Phase composition |  | 534 | other: liquidus temperature; _liquid: Cd 0.38, Pb 0.62_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 17; `ORC-XLYR66BB2Z` |  |
+| Phase composition |  | 536 | other: liquidus temperature; _liquid: Cd 0.441, Pb 0.559_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 21; `ORC-LVUNDIWWIQ` |  |
+| Phase composition |  | 541 | other: liquidus temperature; _liquid: Cd 0.17, Pb 0.83_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 2; `ORC-T2PPC5H3WC` |  |
+| Phase composition |  | 544 | other: liquidus temperature; _liquid: Cd 0.551, Pb 0.449_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 25; `ORC-QPA5T7U62K` |  |
+| Phase composition |  | 546 | other: liquidus temperature; _liquid: Cd 0.665, Pb 0.335_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 33; `ORC-3JYC7DPWMA` |  |
+| Phase composition |  | 548 | other: liquidus temperature; _liquid: Cd 0.648, Pb 0.352_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 29; `ORC-CEWXEKGUXB` |  |
+| Phase composition |  | 548 | other: liquidus temperature; _liquid: Cd 0.71, Pb 0.29_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 35; `ORC-XN3TS4S47V` |  |
+| Phase composition |  | 550 | other: liquidus temperature; _liquid: Cd 0.734, Pb 0.266_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 37; `ORC-DK64CWTNXP` |  |
+| Phase composition |  | 551 | other: liquidus temperature; _liquid: Cd 0.811, Pb 0.189_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 45; `ORC-TUKNUULK5Y` |  |
+| Phase composition |  | 552 | other: liquidus temperature; _liquid: Cd 0.752, Pb 0.248_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 40; `ORC-UOJRFEGTBM` |  |
+| Phase composition |  | 560 | other: liquidus temperature; _liquid: Cd 0.88, Pb 0.12_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 50; `ORC-I7ESO6LYJG` |  |
+| Phase composition |  | 562 | other: liquidus temperature; _liquid: Cd 0.9, Pb 0.1_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 55; `ORC-CG2AOVIZC5` |  |
+| Phase composition |  | 573.2 | other: liquidus temperature; _liquid: Cd 0.943, Pb 0.057_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 59; `ORC-RO7L7GTYKD` |  |
+| Phase composition |  | 594.3 | other: liquidus temperature; _liquid: Cd 1, Pb 0_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 62; `ORC-5SJCO7H4Y2` |  |
+| Phase composition |  | 600.7 | other: liquidus temperature; _liquid: Pb 0_ | experimental | [1] Chuang 2013 | Table III, p. 9, row 1; `ORC-CYNLXK2M7I` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. W. Zakulski, Z. Moser, A calculation of the Cd-Pb (cadmium-lead) system, JPE 16, 239-242 (1995). [doi:10.1007/bf02667308](https://doi.org/10.1007/bf02667308)
-2. Ying-Yu Chuang, J.-S. Paik, C. Zhang, J. H. Perepezko, Y. A. Chang, Stable and Metastable Equilibria in the Pb-Cd System, Metall Mater Trans A 44, 3004-3013 (2013). [doi:10.1007/s11661-013-1652-8](https://doi.org/10.1007/s11661-013-1652-8)
-3. Yajun Liu, Lijun Zhang, Di Yu, Thermodynamic Descriptions for the Cd-Te, Pb-Te, Cd-Pb and Cd-Pb-Te Systems, Journal of Elec Materi 38, 2033-2045 (2009). [doi:10.1007/s11664-009-0875-3](https://doi.org/10.1007/s11664-009-0875-3)
+1. Ying-Yu Chuang, J.-S. Paik, C. Zhang, J. H. Perepezko, Y. A. Chang, Stable and Metastable Equilibria in the Pb-Cd System, Metall Mater Trans A 44, 3004-3013 (2013). [doi:10.1007/s11661-013-1652-8](https://doi.org/10.1007/s11661-013-1652-8)
+2. Yajun Liu, Lijun Zhang, Di Yu, Thermodynamic Descriptions for the Cd-Te, Pb-Te, Cd-Pb and Cd-Pb-Te Systems, Journal of Elec Materi 38, 2033-2045 (2009). [doi:10.1007/s11664-009-0875-3](https://doi.org/10.1007/s11664-009-0875-3)
 
 ## Please cite
 

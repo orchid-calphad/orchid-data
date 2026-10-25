@@ -1,10 +1,10 @@
 # Eu–Sn system
 
-> Eu–Sn system: 30 accepted literature values (invariant reaction 24, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Eu–Sn system: 24 accepted literature values (invariant reaction 18, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/EU-SN.html · Markdown: https://data.orchid-project.org/systems/EU-SN.md
 
-30 accepted literature values from 1 paper(s) (experimental 15, model 15); 1 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 15, model 9); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/EU-SN.json) · [CSV](https://data.orchid-project.org/systems/EU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-SN/EuSn-04Liu-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/EU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-SN.html) · [Markdown](https://data.orchid-project.org/systems/EU-SN.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 15 |
-| model | 15 |
+| model | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 24 |
+| invariant reaction | 18 |
 | phase transition | 6 |
 
 ## Calculated phase diagrams
@@ -55,34 +55,28 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Eu–Sn system (24)
+Table: Invariant reactions reported in the literature for the Eu–Sn system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1398 | peritectic: Liquid + Eu2Sn -> Eu5Sn3 | L: Sn 0.375; Eu2Sn: Eu 0.666667, Sn 0.333333; Eu5Sn3: Eu 0.625, Sn 0.375 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 1, p. 2, row 6; `ORC-HEX3VCHY6Z` |  |
-| 1398 | peritectic |  | model | [1] Liu 2004; _cites Conclusions_ | p. 1; `ORC-PYT7XYG3VE.fab74a` | “Two peritectic reactions exist in the Eu-Sn system at temperatures of 1173 and 1398 K, respectively.” |
 | 1398 | Liquid + Eu2Sn -> Eu5Sn3 | L: Sn 0.419; Eu2Sn: Sn 0.333333; Eu5Sn3: Sn 0.375 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 4, p. 4, row 5; `ORC-QQH33KY63W` |  |
 | 1396 | Liquid + Eu2Sn -> Eu5Sn3 | L: Sn 0.4296; Eu2Sn: Sn 0.333333; Eu5Sn3: Sn 0.375 | model | [1] Liu 2004 | Table 4, p. 4, row 6; `ORC-JXVJOCUU75` |  |
-| 1356 | Liquid -> Eu5Sn3 + EuSn | L: Sn 0.4452; Eu5Sn3: Sn 0.375; EuSn: Sn 0.5 | model | [1] Liu 2004 | Table 4, p. 4, row 8; `ORC-M5EB5ANMRQ` |  |
+| 1356 | eutectic: Liquid -> Eu5Sn3 + EuSn | L: Sn 0.4452; Eu5Sn3: Sn 0.375; EuSn: Sn 0.5 | model | [1] Liu 2004 | Table 4, p. 4, row 8; `ORC-M5EB5ANMRQ` |  |
 | 1348 | eutectic: Liquid -> Eu5Sn3 + EuSn | L: Sn 0.44; Eu5Sn3: Eu 0.625, Sn 0.375; EuSn: Eu 0.5, Sn 0.5 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 1, p. 2, row 3; `ORC-C26GLHMWXW` |  |
-| 1348 | eutectic |  | model | [1] Liu 2004; _cites Conclusions_ | p. 1; `ORC-C3ZQZ4GDF4.cd2a14` | “And four eutectic points occur at: 5 at.% Sn, 1063 K; 44 at.% Sn, 1348 K; 74 at.% Sn, 1058 K; and less than 1 at.% Eu, 503 K.” |
-| 1348 | Liquid -> Eu5Sn3 + EuSn | L: Sn 0.44; Eu5Sn3: Sn 0.375; EuSn: Sn 0.5 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 4, p. 4, row 7; `ORC-QEXO2TZHTD` |  |
+| 1348 | eutectic: Liquid -> Eu5Sn3 + EuSn | L: Sn 0.44; Eu5Sn3: Sn 0.375; EuSn: Sn 0.5 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 4, p. 4, row 7; `ORC-QEXO2TZHTD` |  |
 | 1173 | peritectic: Liquid + EuSn -> Eu3Sn5 | L: Sn 0.62; EuSn: Eu 0.5, Sn 0.5; Eu3Sn5: Eu 0.375, Sn 0.625 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 1, p. 2, row 5; `ORC-2QXNBBICW2` |  |
 | 1173 | Liquid + EuSn -> Eu3Sn5 | L: Sn 0.62; EuSn: Sn 0.5; Eu3Sn5: Sn 0.625 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 4, p. 4, row 11; `ORC-3UDUKXOCCZ` |  |
-| 1173 | peritectic |  | model | [1] Liu 2004; _cites Conclusions_ | p. 1; `ORC-PYT7XYG3VE.9fe42a` | “Two peritectic reactions exist in the Eu-Sn system at temperatures of 1173 and 1398 K, respectively.” |
 | 1171 | Liquid + EuSn -> Eu3Sn5 | L: Sn 0.6255; EuSn: Sn 0.5; Eu3Sn5: Sn 0.625 | model | [1] Liu 2004 | Table 4, p. 4, row 12; `ORC-DOXEWNYKZ7` |  |
-| 1063 | eutectic |  | model | [1] Liu 2004; _cites Conclusions_ | p. 1; `ORC-C3ZQZ4GDF4.64bc08` | “And four eutectic points occur at: 5 at.% Sn, 1063 K; 44 at.% Sn, 1348 K; 74 at.% Sn, 1058 K; and less than 1 at.% Eu, 503 K.” |
-| 1063 | Liquid -> Eu2Sn + Eu(bcc) | L: Sn 0.05; Eu2Sn: Sn 0.333333 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 4, p. 4, row 1; `ORC-CEPWHRVJ22` |  |
+| 1063 | eutectic: Liquid -> Eu2Sn + Eu(bcc) | L: Sn 0.05; Eu2Sn: Sn 0.333333 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 4, p. 4, row 1; `ORC-CEPWHRVJ22` |  |
 | 1063 | eutectic: Liquid -> Eu2Sn + (bcc)Eu | L: Sn 0.05; Eu2Sn: Eu 0.666667, Sn 0.333333 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 1, p. 2, row 4; `ORC-P6UTRZVFKY` |  |
-| 1063 | Liquid -> Eu2Sn + Eu(bcc) | L: Sn 0.054; Eu2Sn: Sn 0.333333 | model | [1] Liu 2004 | Table 4, p. 4, row 2; `ORC-VADPLBLK76` |  |
-| 1060 | Liquid -> Eu3Sn5 + EuSn3 | L: Sn 0.7194; Eu3Sn5: Sn 0.625; EuSn3: Sn 0.75 | model | [1] Liu 2004 | Table 4, p. 4, row 14; `ORC-UNUMQVBYPW` |  |
-| 1058 | Liquid -> Eu3Sn5 + EuSn3 | L: Sn 0.73; Eu3Sn5: Sn 0.625; EuSn3: Sn 0.75 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 4, p. 4, row 13; `ORC-4IVMMUMMUR` |  |
-| 1058 | eutectic |  | model | [1] Liu 2004; _cites Conclusions_ | p. 1; `ORC-C3ZQZ4GDF4.cb3a47` | “And four eutectic points occur at: 5 at.% Sn, 1063 K; 44 at.% Sn, 1348 K; 74 at.% Sn, 1058 K; and less than 1 at.% Eu, 503 K.” |
+| 1063 | eutectic: Liquid -> Eu2Sn + Eu(bcc) | L: Sn 0.054; Eu2Sn: Sn 0.333333 | model | [1] Liu 2004 | Table 4, p. 4, row 2; `ORC-VADPLBLK76` |  |
+| 1060 | eutectic: Liquid -> Eu3Sn5 + EuSn3 | L: Sn 0.7194; Eu3Sn5: Sn 0.625; EuSn3: Sn 0.75 | model | [1] Liu 2004 | Table 4, p. 4, row 14; `ORC-UNUMQVBYPW` |  |
+| 1058 | eutectic: Liquid -> Eu3Sn5 + EuSn3 | L: Sn 0.73; Eu3Sn5: Sn 0.625; EuSn3: Sn 0.75 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 4, p. 4, row 13; `ORC-4IVMMUMMUR` |  |
 | 1058 | eutectic: Liquid -> Eu3Sn5 + EuSn3 | L: Sn 0.74; Eu3Sn5: Eu 0.375, Sn 0.625; EuSn3: Eu 0.25, Sn 0.75 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 1, p. 2, row 2; `ORC-Q6FGNBJLM5` |  |
-| 503 | eutectic |  | model | [1] Liu 2004; _cites Conclusions_ | p. 1; `ORC-C3ZQZ4GDF4.bf7e28` | “And four eutectic points occur at: 5 at.% Sn, 1063 K; 44 at.% Sn, 1348 K; 74 at.% Sn, 1058 K; and less than 1 at.% Eu, 503 K.” |
 | 503 | eutectic: Liquid -> EuSn3 + (bct)Sn | EuSn3: Eu 0.25, Sn 0.75 | experimental | [1] Liu 2004; _cites Palenzona 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902402-4) | Table 1, p. 2, row 1; `ORC-MEKWOH6DTB` |  |
-| 503 | Liquid -> EuSn3 + Sn(bct) | L: Sn 0.998; EuSn3: Sn 0.75; Sn(bct): Sn 1 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 4, p. 4, row 17; `ORC-QURZJ6Q4W4` |  |
-| 501.6 | Liquid -> EuSn3 + Sn(bct) | L: Sn 0.9915; EuSn3: Sn 0.75; Sn(bct): Sn 1 | model | [1] Liu 2004 | Table 4, p. 4, row 18; `ORC-3ANARRSUPQ` |  |
+| 503 | eutectic: Liquid -> EuSn3 + Sn(bct) | L: Sn 0.998; EuSn3: Sn 0.75; Sn(bct): Sn 1 | experimental | [1] Liu 2004; _cites Conclusions_ | Table 4, p. 4, row 17; `ORC-QURZJ6Q4W4` |  |
+| 501.6 | eutectic: Liquid -> EuSn3 + Sn(bct) | L: Sn 0.9915; EuSn3: Sn 0.75; Sn(bct): Sn 1 | model | [1] Liu 2004 | Table 4, p. 4, row 18; `ORC-3ANARRSUPQ` |  |
 
 ## Other properties
 

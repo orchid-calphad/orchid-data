@@ -61,18 +61,18 @@ Table: Invariant reactions reported in the literature for the Au–Tm system (22
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1993 | L \<=> βAuTm | L: Au 0.5, Tm 0.5; βAuTm: Au 0.5, Tm 0.5 | model | [1] Dong 2012 | Table 3, p. 3, row 6; `ORC-BVAIYGGVW2` |  |
-| 1993 | L \<=> βAuTm | L: Au 0.5; βAuTm: Au 0.5, Tm 0.5 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 5; `ORC-FJQ4AXDWGC` |  |
-| 1904 | βAuTm \<=> αAuTm | βAuTm: Au 0.5, Tm 0.5; αAuTm: Au 0.5, Tm 0.5 | model | [1] Dong 2012 | Table 3, p. 3, row 8; `ORC-TOU3LFLQPF` |  |
-| 1903 | βAuTm \<=> αAuTm | βAuTm: Au 0.5, Tm 0.5; αAuTm: Au 0.5, Tm 0.5 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 7; `ORC-SICRQ6BDOJ` |  |
-| 1703 | L \<=> Au2Tm | L: Au 0.667; Au2Tm: Au 0.666667, Tm 0.333333 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 13; `ORC-KTYOZSWCTI` |  |
-| 1690 | L \<=> Au2Tm | L: Au 0.666667, Tm 0.333333; Au2Tm: Au 0.666667, Tm 0.333333 | model | [1] Dong 2012 | Table 3, p. 3, row 14; `ORC-NQXJFA5ITC` |  |
+| 1993 | congruent melting: L \<=> βAuTm | L: Au 0.5, Tm 0.5; βAuTm: Au 0.5, Tm 0.5 | model | [1] Dong 2012 | Table 3, p. 3, row 6; `ORC-BVAIYGGVW2` |  |
+| 1993 | congruent melting: L \<=> βAuTm | L: Au 0.5; βAuTm: Au 0.5, Tm 0.5 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 5; `ORC-FJQ4AXDWGC` |  |
+| 1904 | polymorphic: βAuTm \<=> αAuTm | βAuTm: Au 0.5, Tm 0.5; αAuTm: Au 0.5, Tm 0.5 | model | [1] Dong 2012 | Table 3, p. 3, row 8; `ORC-TOU3LFLQPF` |  |
+| 1903 | polymorphic: βAuTm \<=> αAuTm | βAuTm: Au 0.5, Tm 0.5; αAuTm: Au 0.5, Tm 0.5 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 7; `ORC-SICRQ6BDOJ` |  |
+| 1703 | congruent melting: L \<=> Au2Tm | L: Au 0.667; Au2Tm: Au 0.666667, Tm 0.333333 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 13; `ORC-KTYOZSWCTI` |  |
+| 1690 | congruent melting: L \<=> Au2Tm | L: Au 0.666667, Tm 0.333333; Au2Tm: Au 0.666667, Tm 0.333333 | model | [1] Dong 2012 | Table 3, p. 3, row 14; `ORC-NQXJFA5ITC` |  |
 | 1626 | L + αAuTm \<=> Au10Tm7 | L: Au 0.614; αAuTm: Au 0.5, Tm 0.5; Au10Tm7: Au 0.588235, Tm 0.411765 | model | [1] Dong 2012 | Table 3, p. 3, row 10; `ORC-YDJG4F3JYO` |  |
 | 1622 | L \<=> Au2Tm + Au10Tm7 | L: Au 0.617; Au2Tm: Au 0.666667, Tm 0.333333; Au10Tm7: Au 0.588235, Tm 0.411765 | model | [1] Dong 2012 | Table 3, p. 3, row 12; `ORC-HGKHK3FPRG` |  |
 | 1618 | L + αAuTm \<=> Au10Tm7 | L: Au 0.6; αAuTm: Au 0.5, Tm 0.5; Au10Tm7: Au 0.588235, Tm 0.411765 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 9; `ORC-Q6XT4KTIFN` |  |
 | 1593 | L \<=> Au2Tm + Au10Tm7 | L: Au 0.62; Au2Tm: Au 0.666667, Tm 0.333333; Au10Tm7: Au 0.588235, Tm 0.411765 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 11; `ORC-XD75CWC6SK` |  |
-| 1573 | L \<=> Au3Tm | L: Au 0.75; Au3Tm: Au 0.75, Tm 0.25 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 17; `ORC-C7R76BK54Z` |  |
-| 1563 | L \<=> Au3Tm | L: Au 0.75, Tm 0.25; Au3Tm: Au 0.75, Tm 0.25 | model | [1] Dong 2012 | Table 3, p. 3, row 18; `ORC-XGY74X3TO4` |  |
+| 1573 | congruent melting: L \<=> Au3Tm | L: Au 0.75; Au3Tm: Au 0.75, Tm 0.25 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 17; `ORC-C7R76BK54Z` |  |
+| 1563 | congruent melting: L \<=> Au3Tm | L: Au 0.75, Tm 0.25; Au3Tm: Au 0.75, Tm 0.25 | model | [1] Dong 2012 | Table 3, p. 3, row 18; `ORC-XGY74X3TO4` |  |
 | 1555 | L \<=> Au2Tm + Au3Tm | L: Au 0.735; Au2Tm: Au 0.666667, Tm 0.333333; Au3Tm: Au 0.75, Tm 0.25 | model | [1] Dong 2012 | Table 3, p. 3, row 16; `ORC-W6HAC5XDDR` |  |
 | 1543 | L \<=> Au2Tm + Au3Tm | L: Au 0.73; Au2Tm: Au 0.666667, Tm 0.333333; Au3Tm: Au 0.75, Tm 0.25 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 15; `ORC-XXQDCCYP74` |  |
 | 1441 | L + αAuTm \<=> AuTm2 | L: Au 0.336; αAuTm: Au 0.5, Tm 0.5; AuTm2: Au 0.333333, Tm 0.666667 | model | [1] Dong 2012 | Table 3, p. 3, row 4; `ORC-RCBVFQZPGZ` |  |

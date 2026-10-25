@@ -1,24 +1,12 @@
 # Mn–V system
 
-> Mn–V system: 4 accepted literature values (phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–V system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-V.html · Markdown: https://data.orchid-project.org/systems/MN-V.md
 
-4 accepted literature values from 1 paper(s) (experimental 4); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-V.json) · [CSV](https://data.orchid-project.org/systems/MN-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-V/MnV-91Hua-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MN-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-V.html) · [Markdown](https://data.orchid-project.org/systems/MN-V.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 4 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 4 |
 
 ## Calculated phase diagrams
 
@@ -41,25 +29,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | MnV-91Hua-LB.tdb | 479.35 | SIGMA_OLD (x(V) 0.35057) + SIGMA_D8B (x(V) 0.35569) + BCC_A2 (x(V) 0.65686) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MN/MN-V.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MN/MN-V.json)
-
-## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Mn–V system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1183 K | 1183 | @-a | experimental | [1] Huang 1991; _cites ref. 9_ | p. 4; `ORC-LG7N66KTIF.cfeeb8` | “The phase equilibrium data, including yt6=p at 1380 K and &=pto at 1293 K by Hellawell and Hume-Rothery (B), and @-a at 1183 K and the 6=c congruent (9) were selected. To transformation at 1323 K, 75 at% Mn by Waterstrat” |
-| Phase transition | 1293 K | 1293 | &=pto | experimental | [1] Huang 1991; _cites ref. 8_ | p. 4; `ORC-LG7N66KTIF.a93373` | “The phase equilibrium data, including yt6=p at 1380 K and &=pto at 1293 K by Hellawell and Hume-Rothery (B), and @-a at 1183 K and the 6=c congruent (9) were selected. To transformation at 1323 K, 75 at% Mn by Waterstrat” |
-| Phase transition | 1323 K | 1323 | congruent transformation | experimental | [1] Huang 1991; _cites ref. 9_ | p. 4; `ORC-LG7N66KTIF.ff32bd` | “The phase equilibrium data, including yt6=p at 1380 K and &=pto at 1293 K by Hellawell and Hume-Rothery (B), and @-a at 1183 K and the 6=c congruent (9) were selected. To transformation at 1323 K, 75 at% Mn by Waterstrat” |
-| Phase transition | 1380 K | 1380 | yt6=p | experimental | [1] Huang 1991; _cites ref. 8_ | p. 4; `ORC-LG7N66KTIF.bfc47f` | “The phase equilibrium data, including yt6=p at 1380 K and &=pto at 1293 K by Hellawell and Hume-Rothery (B), and @-a at 1183 K and the 6=c congruent (9) were selected. To transformation at 1323 K, 75 at% Mn by Waterstrat” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Weiming Huang, A Thermodynamic Analysis of the Mn-V And Fe-Mn-V Systems, Calphad 15, 195-208 (1991). [doi:10.1016/0364-5916(91)90018-f](https://doi.org/10.1016/0364-5916%2891%2990018-f)
 
 ## Please cite
 

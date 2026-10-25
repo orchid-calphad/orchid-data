@@ -1,10 +1,10 @@
 # Fe–Nb system
 
-> Fe–Nb system: 127 accepted literature values (invariant reaction 101, phase transition 11, formation 9, heat capacity / entropy / enthalpy 4) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Nb system: 115 accepted literature values (invariant reaction 96, formation 9, heat capacity / entropy / enthalpy 4, phase transition 4) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-NB.html · Markdown: https://data.orchid-project.org/systems/FE-NB.md
 
-127 accepted literature values from 6 paper(s) (experimental 62, model 65); 16 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+115 accepted literature values from 5 paper(s) (experimental 55, model 60); 16 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NB.json) · [CSV](https://data.orchid-project.org/systems/FE-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-NB/FeNb-00Tof.json) · [phases (7)](https://data.orchid-project.org/phases/pages/FE-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-NB.html) · [Markdown](https://data.orchid-project.org/systems/FE-NB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 62 |
-| model | 65 |
+| experimental | 55 |
+| model | 60 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 101 |
-| phase transition | 11 |
+| invariant reaction | 96 |
+| phase transition | 4 |
 | formation | 9 |
 | mixing / partial | 2 |
 | heat capacity / entropy / enthalpy | 4 |
@@ -148,111 +148,106 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Nb system (101)
+Table: Invariant reactions reported in the literature for the Fe–Nb system (96)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2066.15 | peritectic: liquid + E -> mu |  | experimental | [1] Toffolon 2000; _cites ref. 93_ | p. 1; `ORC-I3SNYCHBZH` | “The u phase forms peritectically from the liquid phase and the E phase at 1793°C \[93ZEL\].” |
-| 1923 | congruent melting: Liquid ↔ C14 |  | experimental | [2] Sun 2024; _cites Voronov 1937_ | Table 4, p. 5, row 4; `ORC-362ZFNBBTV` |  |
-| 1920.15 | congruent melting: L = Fe2Nb | L: Nb 0.324; Fe2Nb: Fe 0.666667, Nb 0.333333 | model | [3] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 5; `ORC-F7DFGUTKIW` |  |
-| 1919.15 | congruent melting: L = Fe2Nb | L: Nb 0.327; Fe2Nb: Fe 0.666667, Nb 0.333333 | model | [3] He 2017 | Table 3, p. 10, row 1; `ORC-7O3MRHLMVY` |  |
-| 1918.15 | congruent melting: L = Fe2Nb | L: Nb 0.3333; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [3] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 2; `ORC-FH7BNPOBWW` |  |
-| 1918 | congruent melting: Liquid ↔ C14 | Liquid: Nb 0.333; C14: Nb 0.333 | experimental | [2] Sun 2024; _cites Mathon 2009_ | Table 4, p. 5, row 3; `ORC-WXOD5LV5TN` |  |
-| 1916.15 | congruent melting: L = Fe2Nb | L: Nb 0.324; Fe2Nb: Fe 0.666667, Nb 0.333333 | model | [3] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 4; `ORC-H726OIOJRD` |  |
-| 1915 | congruent melting: Liquid ↔ C14 | Liquid: Nb 0.335; C14: Nb 0.335 | model | [2] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 2; `ORC-MRCXN6U53J` |  |
-| 1903.15 | congruent melting: L = Fe2Nb | L: Fe 0.666667, Nb 0.333333; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [3] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 3; `ORC-GZEHX4NKU3` |  |
-| 1903 | congruent melting: Liquid ↔ C14 | Liquid: Nb 0.333; C14: Nb 0.333 | model | [2] Sun 2024 | Table 4, p. 5, row 1; `ORC-RHC277CAWV` |  |
-| 1903 | congruent melting: Liquid ↔ C14 |  | experimental | [2] Sun 2024; _cites Bejarano 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820805) | Table 4, p. 5, row 5; `ORC-VU7HXDNY2D` |  |
-| 1814 | peritectic: Liquid + C14 ↔ μ | Liquid: Nb 0.519; C14: Nb 0.38; μ: Nb 0.477 | model | [2] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 7; `ORC-YBHHA73OQY` |  |
-| 1805.15 | peritectic: Liq + Fe2Nb = Fe7Nb6 | Liq: Nb 0.51; Fe2Nb: Nb 0.402; Fe7Nb6: Nb 0.491 | model | [3] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 9; `ORC-EVVYGBIJAZ` |  |
-| 1798.15 | peritectic: Liq + Fe2Nb = Fe7Nb6 | Liq: Nb 0.53; Fe2Nb: Nb 0.368; Fe7Nb6: Nb 0.471 | model | [3] He 2017 | Table 3, p. 10, row 6; `ORC-U2KTGF7R47` |  |
-| 1797.15 | peritectic: Liq + Fe2Nb = Fe7Nb6 | Liq: Nb 0.509; Fe2Nb: Nb 0.407; Fe7Nb6: Nb 0.486 | model | [3] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 10; `ORC-UIN2IVJE6P` |  |
-| 1796.15 | peritectic: Liq + Fe2Nb = Fe7Nb6 | Liq: Nb 0.52; Fe2Nb: Nb 0.376; Fe7Nb6: Nb 0.465 | experimental | [3] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 7; `ORC-6HNW3DWL2Q` |  |
-| 1796 | peritectic: Liquid + C14 ↔ μ | Liquid: Nb 0.52; C14: Nb 0.376; μ: Nb 0.465 | experimental | [2] Sun 2024; _cites Vob 2011_ | Table 4, p. 5, row 8; `ORC-WR5VYTA7OH` |  |
-| 1795 | peritectic: D85 \<=> C14 + Liq. |  | model | [4] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 19; `ORC-DFVAPIP5KC` |  |
-| 1794 | peritectic: Liquid + C14 ↔ μ | Liquid: Nb 0.527; C14: Nb 0.38; μ: Nb 0.491 | model | [2] Sun 2024 | Table 4, p. 5, row 6; `ORC-QIHPCMLB7F` |  |
-| 1793.15 | peritectic |  | experimental | [5] Miettinen 2015; _cites Bejarano 1991_ | p. 2; `ORC-EAQKG74IFS.a3f30e` | “Lee\[7\] reported a value of 1615 °C for the congruent melting point of the l-phase, whereas according to Bejarano et al.,\[14,15\] the latter forms from k and L via a peritectic reaction at 1520 °C.” |
-| 1793.15 | peritectic: Liq + Fe2Nb = Fe7Nb6 | Liq: Nb 0.56; Fe2Nb: Nb 0.37; Fe7Nb6: Nb 0.49 | experimental | [3] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 8; `ORC-XHMODPSBIW` |  |
-| 1793 | peritectic: D85 \<=> C14 + Liq. |  | model | [4] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 18; `ORC-3CBBH6XRET` |  |
-| 1793 | peritectic: Liquid + C14 ↔ μ | Liquid: Nb 0.56; C14: Nb 0.37; μ: Nb 0.49 | experimental | [2] Sun 2024; _cites Bejarano 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840305) | Table 4, p. 5, row 9; `ORC-BGPLPEQUFU` |  |
-| 1793 | peritectic: D85 \<=> C14 + Liq. |  | experimental | [4] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 20; `ORC-PMZQNCPZT7` |  |
-| 1789 | peritectic: D85 \<=> C14 + Liq. |  | model | [4] Mathon 2009 | Table 3, p. 13, row 17; `ORC-LBIK63CNAL` |  |
-| 1781.15 | eutectic: Liq = Fe7Nb6 + (Nb) | Liq: Nb 0.586; Fe7Nb6: Nb 0.51; (Nb): Nb 0.91 | experimental | [3] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 12; `ORC-JIVQIPTDZH` |  |
-| 1781 | eutectic: Liquid ↔ μ + BCC_A2 | Liquid: Nb 0.586; μ: Nb 0.51; BCC_A2: Nb 0.91 | experimental | [2] Sun 2024; _cites Vob 2011_ | Table 4, p. 5, row 12; `ORC-55A2NR5KOX` |  |
-| 1780.15 | eutectic: Liq = Fe7Nb6 + (Nb) | Liq: Nb 0.579; Fe7Nb6: Nb 0.515; (Nb): Nb 0.907 | model | [3] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 14; `ORC-2P45NEVMD5` |  |
-| 1778.15 | eutectic: Liq = Fe7Nb6 + (Nb) | Liq: Nb 0.579; Fe7Nb6: Nb 0.505; (Nb): Nb 0.91 | model | [3] He 2017 | Table 3, p. 10, row 11; `ORC-BGVXDJRPEG` |  |
-| 1776.15 | eutectic: Liq = Fe7Nb6 + (Nb) | Liq: Nb 0.562; Fe7Nb6: Nb 0.506; (Nb): Nb 0.909 | model | [3] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 15; `ORC-T3YGK3NFMU` |  |
-| 1774 | eutectic: Liquid ↔ μ + BCC_A2 | Liquid: Nb 0.583; μ: Nb 0.516; BCC_A2: Nb 0.91 | model | [2] Sun 2024 | Table 4, p. 5, row 10; `ORC-WC2K2XG2SB` |  |
-| 1773.15 | eutectic: Liq = Fe7Nb6 + (Nb) | Liq: Nb 0.59; Fe7Nb6: Nb 0.54; (Nb): Nb 0.93 | experimental | [3] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 13; `ORC-NKTQRSBICT` |  |
-| 1773 | eutectic: Liquid ↔ μ + BCC_A2 | Liquid: Nb 0.59; μ: Nb 0.54; BCC_A2: Nb 0.93 | experimental | [2] Sun 2024; _cites Bejarano 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840305) | Table 4, p. 5, row 13; `ORC-5DV6GJB43D` |  |
-| 1773 | eutectic: Liquid ↔ μ + BCC_A2 | Liquid: Nb 0.6; μ: Nb 0.505; BCC_A2: Nb 0.892 | model | [2] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 11; `ORC-BJYXHRRJ2H` |  |
-| 1773 | eutectic: D85 + bcc#2 \<=> Liq. |  | experimental | [4] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 24; `ORC-QHLS7KLNLK` |  |
-| 1771 | eutectic: D85 + bcc#2 \<=> Liq. |  | model | [4] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 23; `ORC-PFQJXV4K6I` |  |
-| 1758 | eutectic: D85 + bcc#2 \<=> Liq. |  | model | [4] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 22; `ORC-DORXIOPCV7` |  |
-| 1757 | eutectic: D85 + bcc#2 \<=> Liq. |  | model | [4] Mathon 2009 | Table 3, p. 13, row 21; `ORC-DFTB3VCYUU` |  |
-| 1673.15 | eutectic: L = bcc + l |  | model | [5] Miettinen 2015; _cites Lee 2001_ [doi](https://doi.org/10.1007/s11661-001-0033-x) | p. 2; `ORC-F45QUGK2VE.57ec98` | “The eutectic reaction, L = bcc + l, occurs at 1400 °C according to Lee.\[7\]” |
-| 1673.15 | eutectic |  | experimental | [1] Toffolon 2000; _cites ref. 67_ | p. 1; `ORC-I7YUJCWKLA` | “The eutectic point was located as 62at%Nb at 1400°C \[67RAMj and as 59at%Nb at 15OO"C, according to \[93ZEL\].” |
-| 1667 | eutectic: bcc#1 + C14 \<=> Liq. |  | model | [4] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 10; `ORC-MPWXXOTBXH` |  |
-| 1667 | eutectic: bcc#1 + C14 \<=> Liq. |  | model | [4] Mathon 2009 | Table 3, p. 13, row 9; `ORC-T6KJKXMJDX` |  |
-| 1654 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.089; BCC_A2: Nb 0.026; C14: Nb 0.265 | model | [2] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 15; `ORC-T5G7OSVD55` |  |
-| 1650 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.091; BCC_A2: Nb 0.03; C14: Nb 0.269 | model | [2] Sun 2024 | Table 4, p. 5, row 14; `ORC-TPH7I47MN2` |  |
-| 1646.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.082; (αFe): Nb 0.032; Fe2Nb: Nb 0.251 | experimental | [3] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 17; `ORC-ETN3I4TLTN` |  |
-| 1646 | eutectic: bcc#1 + C14 \<=> Liq. |  | model | [4] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 11; `ORC-PZ3AW5W5QV` |  |
-| 1646 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.082; BCC_A2: Nb 0.032; C14: Nb 0.251 | experimental | [2] Sun 2024; _cites Vob 2011_ | Table 4, p. 5, row 16; `ORC-VYDLG3QV4O` |  |
-| 1645.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.102; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [3] He 2017; _cites Gibson 1961_ | Table 3, p. 10, row 20; `ORC-ONUQFXCCJG` |  |
-| 1645 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.106 | experimental | [2] Sun 2024; _cites Genders 1939_ | Table 4, p. 5, row 21; `ORC-GGVSXJ24P7` |  |
-| 1643.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.096; (αFe): Nb 0.032; Fe2Nb: Nb 0.251 | model | [3] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 22; `ORC-54CQFFWCVK` |  |
-| 1643.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.093; (αFe): Nb 0.034; Fe2Nb: Nb 0.266 | model | [3] He 2017 | Table 3, p. 10, row 16; `ORC-UCFJ62WXCU` |  |
-| 1643.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.1199; (αFe): Nb 0.0327; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [3] He 2017; _cites Ferrier 1964_ | Table 3, p. 10, row 19; `ORC-V66KUUWBB5` |  |
-| 1643.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.106; (αFe): Nb 0.0327; Fe2Nb: Nb 0.32 | experimental | [3] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 18; `ORC-V6RL5SCRM4` |  |
-| 1643 | eutectic: bcc#1 + C14 \<=> Liq. |  | experimental | [4] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 12; `ORC-QJGJ6IKVC6` |  |
-| 1643 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.12; BCC_A2: Nb 0.033 | experimental | [2] Sun 2024; _cites Gibson 1961_ | Table 4, p. 5, row 20; `ORC-UFLRQXD5YL` |  |
-| 1643 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.106; BCC_A2: Nb 0.033; C14: Nb 0.32 | experimental | [2] Sun 2024; _cites Bejarano 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840305) | Table 4, p. 5, row 17; `ORC-YSSQZGZUQX` |  |
-| 1638 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.098 | experimental | [2] Sun 2024; _cites Goldschmidt 1960_ | Table 4, p. 5, row 19; `ORC-47JRBQNLLY` |  |
-| 1635.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.102; (αFe): Nb 0.032; Fe2Nb: Nb 0.249 | model | [3] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 23; `ORC-DO7I6VCXG2` |  |
-| 1629 | eutectic: Liquid ↔ BCC_A2 + C14 | BCC_A2: Nb 0.076; C14: Nb 0.339 | experimental | [2] Sun 2024; _cites Voronov 1937_ | Table 4, p. 5, row 18; `ORC-YTTWFVGTCX` |  |
-| 1621.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.1; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [3] He 2017; _cites Goldschmidt 1960_ | Table 3, p. 10, row 21; `ORC-ZJYMXPXQSA` |  |
-| 1621 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.1 | experimental | [2] Sun 2024; _cites Paul 1986_ [doi](https://doi.org/10.1007/bf02869000) | Table 4, p. 5, row 22; `ORC-67L7IXJPR4` |  |
-| 1563 | eutectic |  | experimental | [4] Mathon 2009; _cites Panteliemonov 1975_ | p. 5; `ORC-KFZM4JLZF2` | “They found a pseudo-binary eutectic equilibrium at T = 1563 K: 16.2% Fe-27% Nb-56.8% Ni liquid ⇔ 38.8% Fe-29.8% Nb -31.4% Ni C14 + 5.1% Fe-25.6% Nb-69.3%Ni D0a” |
-| 1493.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [3] He 2017; _cites Genders 1939_ | Table 3, p. 10, row 29; `ORC-FJX5EPB4GK` |  |
-| 1493 | eutectic: BCC_A2 ↔ FCC_A1 + C14 |  | experimental | [2] Sun 2024; _cites Eggers 1938_ | Table 4, p. 5, row 31; `ORC-5P54EW6KJI` |  |
-| 1493 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.013; FCC_A1: Nb 0.001; C14: Nb 0.339 | experimental | [2] Sun 2024; _cites Voronov 1937_ | Table 4, p. 5, row 26; `ORC-XH7J6JCOR5` |  |
-| 1481.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.017; (γFe): Nb 0.0099; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [3] He 2017; _cites Ferrier 1964_ | Table 3, p. 10, row 27; `ORC-7L6SOVG3XW` |  |
-| 1481 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.1; FCC_A1: Nb 0.016 | experimental | [2] Sun 2024; _cites Gibson 1961_ | Table 4, p. 5, row 28; `ORC-2GF3WLRMU7` |  |
-| 1476 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.02; FCC_A1: Nb 0.015; C14: Nb 0.273 | model | [2] Sun 2024 | Table 4, p. 5, row 23; `ORC-IQESCCRN7I` |  |
-| 1473.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [3] He 2017; _cites Gibson 1961_ | Table 3, p. 10, row 28; `ORC-PEGFGDTJOT` |  |
-| 1473 | eutectic: BCC_A2 ↔ FCC_A1 + C14 |  | experimental | [2] Sun 2024; _cites Genders 1939_ | Table 4, p. 5, row 29; `ORC-W7DO4YCRTM` |  |
-| 1472 | eutectoid: fcc + C14 \<=> bcc#1 |  | model | [4] Mathon 2009 | Table 3, p. 13, row 5; `ORC-EQ4FDTK6IR` |  |
-| 1472 | eutectoid: fcc + C14 \<=> bcc#1 |  | model | [4] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 6; `ORC-SUL2AEGPM7` |  |
-| 1466 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.015; FCC_A1: Nb 0.009; C14: Nb 0.269 | model | [2] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 24; `ORC-AROQ62XCLW` |  |
-| 1463.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.0156; (γFe): Nb 0.01; Fe2Nb: Nb 0.32 | experimental | [3] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 26; `ORC-JXBT7EXEYA` |  |
-| 1463 | eutectoid: fcc + C14 \<=> bcc#1 |  | experimental | [4] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 8; `ORC-6N4NEBAQRD` |  |
-| 1463 | eutectoid: fcc + C14 \<=> bcc#1 |  | model | [4] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 7; `ORC-SNTM5MHWUC` |  |
-| 1463 | eutectic: BCC_A2 ↔ FCC_A1 + C14 |  | experimental | [2] Sun 2024; _cites Abrahamson 1966_ | Table 4, p. 5, row 30; `ORC-TJBAP3RFIV` |  |
-| 1463 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.063; FCC_A1: Nb 0.01; C14: Nb 0.32 | experimental | [2] Sun 2024; _cites Bejarano 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840305) | Table 4, p. 5, row 27; `ORC-YJ4YFV6BTH` |  |
-| 1456.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.015; (γFe): Nb 0.011; Fe2Nb: Nb 0.265 | experimental | [3] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 25; `ORC-NI3QPJ3RV3` |  |
-| 1456 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.015; FCC_A1: Nb 0.011; C14: Nb 0.265 | experimental | [2] Sun 2024; _cites Vob 2011_ | Table 4, p. 5, row 25; `ORC-GM4JDAPI3A` |  |
-| 1454.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.018; (γFe): Nb 0.012; Fe2Nb: Nb 0.255 | model | [3] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 30; `ORC-4OCGHL4A77` |  |
-| 1454.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.017; (γFe): Nb 0.012; Fe2Nb: Nb 0.267 | model | [3] He 2017 | Table 3, p. 10, row 24; `ORC-XDREAQ5YKB` |  |
-| 1452.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.017; (γFe): Nb 0.011; Fe2Nb: Nb 0.252 | model | [3] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 31; `ORC-6N6T7SIHDZ` |  |
-| 1420 | eutectic: L2fcc þNbCþFe3C |  | experimental | [6] Khvan 2012; _cites Haddad 2004_ [doi](https://doi.org/10.1051/jp4:2004122004) | p. 3; `ORC-TT3FF5NH2H` | “The invariant equilibrium L2fcc þNbCþFe3C was reported to be at 1420 K which was later confirmed experimentally by Haddad et al. \[30\] i.e indistinguishable from the binary Fe-C eutectic.” |
-| 1262.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [3] He 2017; _cites Genders 1939_ | Table 3, p. 10, row 35; `ORC-IT2XZSZKRD` |  |
-| 1262 | eutectic: FCC_A1 + C14 ↔ BCC_A2 |  | experimental | [2] Sun 2024; _cites Eggers 1938_ | Table 4, p. 5, row 37; `ORC-CJYSC4ZTTN` |  |
-| 1238 | eutectic: FCC_A1 + C14 ↔ BCC_A2 | FCC_A1: Nb 0.005; C14: Nb 0.348; BCC_A2: Nb 0.031 | experimental | [2] Sun 2024; _cites Voronov 1937_ | Table 4, p. 5, row 35; `ORC-CS2UPGZHFM` |  |
-| 1233.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | (γFe): Nb 0.0043; Fe2Nb: Nb 0.32; (αFe): Nb 0.0073 | experimental | [3] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 34; `ORC-HULXCLQPRN` |  |
-| 1233 | peritectoid: bcc#1 \<=> fcc + C14 |  | experimental | [4] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 4; `ORC-6ROO33KV4C` |  |
-| 1232 | peritectoid: bcc#1 \<=> fcc + C14 |  | model | [4] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 3; `ORC-ON2HLX7TUP` |  |
-| 1230 | eutectic: FCC_A1 + C14 ↔ BCC_A2 | FCC_A1: Nb 0.007; C14: Nb 0.28; BCC_A2: Nb 0.01 | model | [2] Sun 2024 | Table 4, p. 5, row 32; `ORC-EDMQ2UOPVN` |  |
-| 1223 | eutectic: FCC_A1 + C14 ↔ BCC_A2 | FCC_A1: Nb 0.004; C14: Nb 0.32; BCC_A2: Nb 0.007 | experimental | [2] Sun 2024; _cites Bejarano 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840305) | Table 4, p. 5, row 36; `ORC-6SUDM4FQRW` |  |
-| 1223 | eutectic: FCC_A1 + C14 ↔ BCC_A2 |  | experimental | [2] Sun 2024; _cites Abrahamson 1966_ | Table 4, p. 5, row 38; `ORC-ATAU4E6ZVB` |  |
-| 1222 | eutectic: FCC_A1 + C14 ↔ BCC_A2 | FCC_A1: Nb 0.003; C14: Nb 0.279; BCC_A2: Nb 0.006 | model | [2] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 33; `ORC-CDT4KTF7TM` |  |
-| 1217.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | (γFe): Nb 0.003; Fe2Nb: Nb 0.2596; (αFe): Nb 0.0054 | model | [3] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 37; `ORC-PMVIQIMK3Y` |  |
-| 1216.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | (γFe): Nb 0.0044; Fe2Nb: Nb 0.263; (αFe): Nb 0.0068 | model | [3] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 36; `ORC-CSMT6XUNY7` |  |
-| 1216.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | Fe2Nb: Nb 0.276 | experimental | [3] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 33; `ORC-QAIN6C3XPI` |  |
-| 1216 | eutectic: FCC_A1 + C14 ↔ BCC_A2 | C14: Nb 0.276 | experimental | [2] Sun 2024; _cites Vob 2011_ | Table 4, p. 5, row 34; `ORC-QQ5DDOG22V` |  |
-| 1215 | peritectoid: bcc#1 \<=> fcc + C14 |  | model | [4] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 2; `ORC-HFYEAYZMRU` |  |
-| 1215 | peritectoid: bcc#1 \<=> fcc + C14 |  | model | [4] Mathon 2009 | Table 3, p. 13, row 1; `ORC-ROT7Q3FQJY` |  |
-| 1212.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | (γFe): Nb 0.003; Fe2Nb: Nb 0.27; (αFe): Nb 0.005 | model | [3] He 2017 | Table 3, p. 10, row 32; `ORC-SYREFXPJSO` |  |
+| 1923 | congruent melting: Liquid ↔ C14 |  | experimental | [1] Sun 2024; _cites Voronov 1937_ | Table 4, p. 5, row 4; `ORC-362ZFNBBTV` |  |
+| 1920.15 | congruent melting: L = Fe2Nb | L: Nb 0.324; Fe2Nb: Fe 0.666667, Nb 0.333333 | model | [2] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 5; `ORC-F7DFGUTKIW` |  |
+| 1919.15 | congruent melting: L = Fe2Nb | L: Nb 0.327; Fe2Nb: Fe 0.666667, Nb 0.333333 | model | [2] He 2017 | Table 3, p. 10, row 1; `ORC-7O3MRHLMVY` |  |
+| 1918.15 | congruent melting: L = Fe2Nb | L: Nb 0.3333; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [2] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 2; `ORC-FH7BNPOBWW` |  |
+| 1918 | congruent melting: Liquid ↔ C14 | Liquid: Nb 0.333; C14: Nb 0.333 | experimental | [1] Sun 2024; _cites Mathon 2009_ | Table 4, p. 5, row 3; `ORC-WXOD5LV5TN` |  |
+| 1916.15 | congruent melting: L = Fe2Nb | L: Nb 0.324; Fe2Nb: Fe 0.666667, Nb 0.333333 | model | [2] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 4; `ORC-H726OIOJRD` |  |
+| 1915 | congruent melting: Liquid ↔ C14 | Liquid: Nb 0.335; C14: Nb 0.335 | model | [1] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 2; `ORC-MRCXN6U53J` |  |
+| 1903.15 | congruent melting: L = Fe2Nb | L: Fe 0.666667, Nb 0.333333; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [2] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 3; `ORC-GZEHX4NKU3` |  |
+| 1903 | congruent melting: Liquid ↔ C14 | Liquid: Nb 0.333; C14: Nb 0.333 | model | [1] Sun 2024 | Table 4, p. 5, row 1; `ORC-RHC277CAWV` |  |
+| 1903 | congruent melting: Liquid ↔ C14 |  | experimental | [1] Sun 2024; _cites Bejarano 1991_ [doi](https://doi.org/10.1515/ijmr-1991-820805) | Table 4, p. 5, row 5; `ORC-VU7HXDNY2D` |  |
+| 1814 | peritectic: Liquid + C14 ↔ μ | Liquid: Nb 0.519; C14: Nb 0.38; μ: Nb 0.477 | model | [1] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 7; `ORC-YBHHA73OQY` |  |
+| 1805.15 | peritectic: Liq + Fe2Nb = Fe7Nb6 | Liq: Nb 0.51; Fe2Nb: Nb 0.402; Fe7Nb6: Nb 0.491 | model | [2] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 9; `ORC-EVVYGBIJAZ` |  |
+| 1798.15 | peritectic: Liq + Fe2Nb = Fe7Nb6 | Liq: Nb 0.53; Fe2Nb: Nb 0.368; Fe7Nb6: Nb 0.471 | model | [2] He 2017 | Table 3, p. 10, row 6; `ORC-U2KTGF7R47` |  |
+| 1797.15 | peritectic: Liq + Fe2Nb = Fe7Nb6 | Liq: Nb 0.509; Fe2Nb: Nb 0.407; Fe7Nb6: Nb 0.486 | model | [2] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 10; `ORC-UIN2IVJE6P` |  |
+| 1796.15 | peritectic: Liq + Fe2Nb = Fe7Nb6 | Liq: Nb 0.52; Fe2Nb: Nb 0.376; Fe7Nb6: Nb 0.465 | experimental | [2] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 7; `ORC-6HNW3DWL2Q` |  |
+| 1796 | peritectic: Liquid + C14 ↔ μ | Liquid: Nb 0.52; C14: Nb 0.376; μ: Nb 0.465 | experimental | [1] Sun 2024; _cites Vob 2011_ | Table 4, p. 5, row 8; `ORC-WR5VYTA7OH` |  |
+| 1795 | peritectic: D85 \<=> C14 + Liq. |  | model | [3] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 19; `ORC-DFVAPIP5KC` |  |
+| 1794 | peritectic: Liquid + C14 ↔ μ | Liquid: Nb 0.527; C14: Nb 0.38; μ: Nb 0.491 | model | [1] Sun 2024 | Table 4, p. 5, row 6; `ORC-QIHPCMLB7F` |  |
+| 1793.15 | peritectic: Liq + Fe2Nb = Fe7Nb6 | Liq: Nb 0.56; Fe2Nb: Nb 0.37; Fe7Nb6: Nb 0.49 | experimental | [2] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 8; `ORC-XHMODPSBIW` |  |
+| 1793 | peritectic: D85 \<=> C14 + Liq. |  | model | [3] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 18; `ORC-3CBBH6XRET` |  |
+| 1793 | peritectic: Liquid + C14 ↔ μ | Liquid: Nb 0.56; C14: Nb 0.37; μ: Nb 0.49 | experimental | [1] Sun 2024; _cites Bejarano 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840305) | Table 4, p. 5, row 9; `ORC-BGPLPEQUFU` |  |
+| 1793 | peritectic: D85 \<=> C14 + Liq. |  | experimental | [3] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 20; `ORC-PMZQNCPZT7` |  |
+| 1789 | peritectic: D85 \<=> C14 + Liq. |  | model | [3] Mathon 2009 | Table 3, p. 13, row 17; `ORC-LBIK63CNAL` |  |
+| 1781.15 | eutectic: Liq = Fe7Nb6 + (Nb) | Liq: Nb 0.586; Fe7Nb6: Nb 0.51; (Nb): Nb 0.91 | experimental | [2] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 12; `ORC-JIVQIPTDZH` |  |
+| 1781 | eutectic: Liquid ↔ μ + BCC_A2 | Liquid: Nb 0.586; μ: Nb 0.51; BCC_A2: Nb 0.91 | experimental | [1] Sun 2024; _cites Vob 2011_ | Table 4, p. 5, row 12; `ORC-55A2NR5KOX` |  |
+| 1780.15 | eutectic: Liq = Fe7Nb6 + (Nb) | Liq: Nb 0.579; Fe7Nb6: Nb 0.515; (Nb): Nb 0.907 | model | [2] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 14; `ORC-2P45NEVMD5` |  |
+| 1778.15 | eutectic: Liq = Fe7Nb6 + (Nb) | Liq: Nb 0.579; Fe7Nb6: Nb 0.505; (Nb): Nb 0.91 | model | [2] He 2017 | Table 3, p. 10, row 11; `ORC-BGVXDJRPEG` |  |
+| 1776.15 | eutectic: Liq = Fe7Nb6 + (Nb) | Liq: Nb 0.562; Fe7Nb6: Nb 0.506; (Nb): Nb 0.909 | model | [2] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 15; `ORC-T3YGK3NFMU` |  |
+| 1774 | eutectic: Liquid ↔ μ + BCC_A2 | Liquid: Nb 0.583; μ: Nb 0.516; BCC_A2: Nb 0.91 | model | [1] Sun 2024 | Table 4, p. 5, row 10; `ORC-WC2K2XG2SB` |  |
+| 1773.15 | eutectic: Liq = Fe7Nb6 + (Nb) | Liq: Nb 0.59; Fe7Nb6: Nb 0.54; (Nb): Nb 0.93 | experimental | [2] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 13; `ORC-NKTQRSBICT` |  |
+| 1773 | eutectic: Liquid ↔ μ + BCC_A2 | Liquid: Nb 0.59; μ: Nb 0.54; BCC_A2: Nb 0.93 | experimental | [1] Sun 2024; _cites Bejarano 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840305) | Table 4, p. 5, row 13; `ORC-5DV6GJB43D` |  |
+| 1773 | eutectic: Liquid ↔ μ + BCC_A2 | Liquid: Nb 0.6; μ: Nb 0.505; BCC_A2: Nb 0.892 | model | [1] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 11; `ORC-BJYXHRRJ2H` |  |
+| 1773 | eutectic: D85 + bcc#2 \<=> Liq. |  | experimental | [3] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 24; `ORC-QHLS7KLNLK` |  |
+| 1771 | eutectic: D85 + bcc#2 \<=> Liq. |  | model | [3] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 23; `ORC-PFQJXV4K6I` |  |
+| 1758 | eutectic: D85 + bcc#2 \<=> Liq. |  | model | [3] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 22; `ORC-DORXIOPCV7` |  |
+| 1757 | eutectic: D85 + bcc#2 \<=> Liq. |  | model | [3] Mathon 2009 | Table 3, p. 13, row 21; `ORC-DFTB3VCYUU` |  |
+| 1673.15 | eutectic: L = bcc + l |  | model | [4] Miettinen 2015; _cites Lee 2001_ [doi](https://doi.org/10.1007/s11661-001-0033-x) | p. 2; `ORC-F45QUGK2VE.57ec98` | “The eutectic reaction, L = bcc + l, occurs at 1400 °C according to Lee.\[7\]” |
+| 1667 | eutectic: bcc#1 + C14 \<=> Liq. |  | model | [3] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 10; `ORC-MPWXXOTBXH` |  |
+| 1667 | eutectic: bcc#1 + C14 \<=> Liq. |  | model | [3] Mathon 2009 | Table 3, p. 13, row 9; `ORC-T6KJKXMJDX` |  |
+| 1654 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.089; BCC_A2: Nb 0.026; C14: Nb 0.265 | model | [1] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 15; `ORC-T5G7OSVD55` |  |
+| 1650 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.091; BCC_A2: Nb 0.03; C14: Nb 0.269 | model | [1] Sun 2024 | Table 4, p. 5, row 14; `ORC-TPH7I47MN2` |  |
+| 1646.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.082; (αFe): Nb 0.032; Fe2Nb: Nb 0.251 | experimental | [2] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 17; `ORC-ETN3I4TLTN` |  |
+| 1646 | eutectic: bcc#1 + C14 \<=> Liq. |  | model | [3] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 11; `ORC-PZ3AW5W5QV` |  |
+| 1646 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.082; BCC_A2: Nb 0.032; C14: Nb 0.251 | experimental | [1] Sun 2024; _cites Vob 2011_ | Table 4, p. 5, row 16; `ORC-VYDLG3QV4O` |  |
+| 1645.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.102; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [2] He 2017; _cites Gibson 1961_ | Table 3, p. 10, row 20; `ORC-ONUQFXCCJG` |  |
+| 1645 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.106 | experimental | [1] Sun 2024; _cites Genders 1939_ | Table 4, p. 5, row 21; `ORC-GGVSXJ24P7` |  |
+| 1643.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.096; (αFe): Nb 0.032; Fe2Nb: Nb 0.251 | model | [2] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 22; `ORC-54CQFFWCVK` |  |
+| 1643.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.093; (αFe): Nb 0.034; Fe2Nb: Nb 0.266 | model | [2] He 2017 | Table 3, p. 10, row 16; `ORC-UCFJ62WXCU` |  |
+| 1643.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.1199; (αFe): Nb 0.0327; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [2] He 2017; _cites Ferrier 1964_ | Table 3, p. 10, row 19; `ORC-V66KUUWBB5` |  |
+| 1643.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.106; (αFe): Nb 0.0327; Fe2Nb: Nb 0.32 | experimental | [2] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 18; `ORC-V6RL5SCRM4` |  |
+| 1643 | eutectic: bcc#1 + C14 \<=> Liq. |  | experimental | [3] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 12; `ORC-QJGJ6IKVC6` |  |
+| 1643 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.12; BCC_A2: Nb 0.033 | experimental | [1] Sun 2024; _cites Gibson 1961_ | Table 4, p. 5, row 20; `ORC-UFLRQXD5YL` |  |
+| 1643 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.106; BCC_A2: Nb 0.033; C14: Nb 0.32 | experimental | [1] Sun 2024; _cites Bejarano 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840305) | Table 4, p. 5, row 17; `ORC-YSSQZGZUQX` |  |
+| 1638 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.098 | experimental | [1] Sun 2024; _cites Goldschmidt 1960_ | Table 4, p. 5, row 19; `ORC-47JRBQNLLY` |  |
+| 1635.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.102; (αFe): Nb 0.032; Fe2Nb: Nb 0.249 | model | [2] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 23; `ORC-DO7I6VCXG2` |  |
+| 1629 | eutectic: Liquid ↔ BCC_A2 + C14 | BCC_A2: Nb 0.076; C14: Nb 0.339 | experimental | [1] Sun 2024; _cites Voronov 1937_ | Table 4, p. 5, row 18; `ORC-YTTWFVGTCX` |  |
+| 1621.15 | eutectic: Liq = (αFe) + Fe2Nb | Liq: Nb 0.1; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [2] He 2017; _cites Goldschmidt 1960_ | Table 3, p. 10, row 21; `ORC-ZJYMXPXQSA` |  |
+| 1621 | eutectic: Liquid ↔ BCC_A2 + C14 | Liquid: Nb 0.1 | experimental | [1] Sun 2024; _cites Paul 1986_ [doi](https://doi.org/10.1007/bf02869000) | Table 4, p. 5, row 22; `ORC-67L7IXJPR4` |  |
+| 1493.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [2] He 2017; _cites Genders 1939_ | Table 3, p. 10, row 29; `ORC-FJX5EPB4GK` |  |
+| 1493 | eutectic: BCC_A2 ↔ FCC_A1 + C14 |  | experimental | [1] Sun 2024; _cites Eggers 1938_ | Table 4, p. 5, row 31; `ORC-5P54EW6KJI` |  |
+| 1493 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.013; FCC_A1: Nb 0.001; C14: Nb 0.339 | experimental | [1] Sun 2024; _cites Voronov 1937_ | Table 4, p. 5, row 26; `ORC-XH7J6JCOR5` |  |
+| 1481.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.017; (γFe): Nb 0.0099; Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [2] He 2017; _cites Ferrier 1964_ | Table 3, p. 10, row 27; `ORC-7L6SOVG3XW` |  |
+| 1481 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.1; FCC_A1: Nb 0.016 | experimental | [1] Sun 2024; _cites Gibson 1961_ | Table 4, p. 5, row 28; `ORC-2GF3WLRMU7` |  |
+| 1476 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.02; FCC_A1: Nb 0.015; C14: Nb 0.273 | model | [1] Sun 2024 | Table 4, p. 5, row 23; `ORC-IQESCCRN7I` |  |
+| 1473.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [2] He 2017; _cites Gibson 1961_ | Table 3, p. 10, row 28; `ORC-PEGFGDTJOT` |  |
+| 1473 | eutectic: BCC_A2 ↔ FCC_A1 + C14 |  | experimental | [1] Sun 2024; _cites Genders 1939_ | Table 4, p. 5, row 29; `ORC-W7DO4YCRTM` |  |
+| 1472 | eutectoid: fcc + C14 \<=> bcc#1 |  | model | [3] Mathon 2009 | Table 3, p. 13, row 5; `ORC-EQ4FDTK6IR` |  |
+| 1472 | eutectoid: fcc + C14 \<=> bcc#1 |  | model | [3] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 6; `ORC-SUL2AEGPM7` |  |
+| 1466 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.015; FCC_A1: Nb 0.009; C14: Nb 0.269 | model | [1] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 24; `ORC-AROQ62XCLW` |  |
+| 1463.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.0156; (γFe): Nb 0.01; Fe2Nb: Nb 0.32 | experimental | [2] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 26; `ORC-JXBT7EXEYA` |  |
+| 1463 | eutectoid: fcc + C14 \<=> bcc#1 |  | experimental | [3] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 8; `ORC-6N4NEBAQRD` |  |
+| 1463 | eutectoid: fcc + C14 \<=> bcc#1 |  | model | [3] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 7; `ORC-SNTM5MHWUC` |  |
+| 1463 | eutectic: BCC_A2 ↔ FCC_A1 + C14 |  | experimental | [1] Sun 2024; _cites Abrahamson 1966_ | Table 4, p. 5, row 30; `ORC-TJBAP3RFIV` |  |
+| 1463 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.063; FCC_A1: Nb 0.01; C14: Nb 0.32 | experimental | [1] Sun 2024; _cites Bejarano 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840305) | Table 4, p. 5, row 27; `ORC-YJ4YFV6BTH` |  |
+| 1456.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.015; (γFe): Nb 0.011; Fe2Nb: Nb 0.265 | experimental | [2] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 25; `ORC-NI3QPJ3RV3` |  |
+| 1456 | eutectic: BCC_A2 ↔ FCC_A1 + C14 | BCC_A2: Nb 0.015; FCC_A1: Nb 0.011; C14: Nb 0.265 | experimental | [1] Sun 2024; _cites Vob 2011_ | Table 4, p. 5, row 25; `ORC-GM4JDAPI3A` |  |
+| 1454.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.018; (γFe): Nb 0.012; Fe2Nb: Nb 0.255 | model | [2] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 30; `ORC-4OCGHL4A77` |  |
+| 1454.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.017; (γFe): Nb 0.012; Fe2Nb: Nb 0.267 | model | [2] He 2017 | Table 3, p. 10, row 24; `ORC-XDREAQ5YKB` |  |
+| 1452.15 | eutectoid: (αFe) = (γFe) + Fe2Nb | (αFe): Nb 0.017; (γFe): Nb 0.011; Fe2Nb: Nb 0.252 | model | [2] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 31; `ORC-6N6T7SIHDZ` |  |
+| 1262.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | Fe2Nb: Fe 0.666667, Nb 0.333333 | experimental | [2] He 2017; _cites Genders 1939_ | Table 3, p. 10, row 35; `ORC-IT2XZSZKRD` |  |
+| 1262 | eutectic: FCC_A1 + C14 ↔ BCC_A2 |  | experimental | [1] Sun 2024; _cites Eggers 1938_ | Table 4, p. 5, row 37; `ORC-CJYSC4ZTTN` |  |
+| 1238 | eutectic: FCC_A1 + C14 ↔ BCC_A2 | FCC_A1: Nb 0.005; C14: Nb 0.348; BCC_A2: Nb 0.031 | experimental | [1] Sun 2024; _cites Voronov 1937_ | Table 4, p. 5, row 35; `ORC-CS2UPGZHFM` |  |
+| 1233.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | (γFe): Nb 0.0043; Fe2Nb: Nb 0.32; (αFe): Nb 0.0073 | experimental | [2] He 2017; _cites Zelaya 1993_ | Table 3, p. 10, row 34; `ORC-HULXCLQPRN` |  |
+| 1233 | peritectoid: bcc#1 \<=> fcc + C14 |  | experimental | [3] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 4; `ORC-6ROO33KV4C` |  |
+| 1232 | peritectoid: bcc#1 \<=> fcc + C14 |  | model | [3] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 3; `ORC-ON2HLX7TUP` |  |
+| 1230 | eutectic: FCC_A1 + C14 ↔ BCC_A2 | FCC_A1: Nb 0.007; C14: Nb 0.28; BCC_A2: Nb 0.01 | model | [1] Sun 2024 | Table 4, p. 5, row 32; `ORC-EDMQ2UOPVN` |  |
+| 1223 | eutectic: FCC_A1 + C14 ↔ BCC_A2 | FCC_A1: Nb 0.004; C14: Nb 0.32; BCC_A2: Nb 0.007 | experimental | [1] Sun 2024; _cites Bejarano 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840305) | Table 4, p. 5, row 36; `ORC-6SUDM4FQRW` |  |
+| 1223 | eutectic: FCC_A1 + C14 ↔ BCC_A2 |  | experimental | [1] Sun 2024; _cites Abrahamson 1966_ | Table 4, p. 5, row 38; `ORC-ATAU4E6ZVB` |  |
+| 1222 | eutectic: FCC_A1 + C14 ↔ BCC_A2 | FCC_A1: Nb 0.003; C14: Nb 0.279; BCC_A2: Nb 0.006 | model | [1] Sun 2024; _cites Pan 2023_ [doi](https://doi.org/10.1016/j.calphad.2023.102529) | Table 4, p. 5, row 33; `ORC-CDT4KTF7TM` |  |
+| 1217.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | (γFe): Nb 0.003; Fe2Nb: Nb 0.2596; (αFe): Nb 0.0054 | model | [2] He 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 3, p. 10, row 37; `ORC-PMVIQIMK3Y` |  |
+| 1216.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | (γFe): Nb 0.0044; Fe2Nb: Nb 0.263; (αFe): Nb 0.0068 | model | [2] He 2017; _cites Khvan 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.09.001) | Table 3, p. 10, row 36; `ORC-CSMT6XUNY7` |  |
+| 1216.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | Fe2Nb: Nb 0.276 | experimental | [2] He 2017; _cites Vo 2011_ [doi](https://doi.org/10.1007/s11669-010-9808-3) | Table 3, p. 10, row 33; `ORC-QAIN6C3XPI` |  |
+| 1216 | eutectic: FCC_A1 + C14 ↔ BCC_A2 | C14: Nb 0.276 | experimental | [1] Sun 2024; _cites Vob 2011_ | Table 4, p. 5, row 34; `ORC-QQ5DDOG22V` |  |
+| 1215 | peritectoid: bcc#1 \<=> fcc + C14 |  | model | [3] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 2; `ORC-HFYEAYZMRU` |  |
+| 1215 | peritectoid: bcc#1 \<=> fcc + C14 |  | model | [3] Mathon 2009 | Table 3, p. 13, row 1; `ORC-ROT7Q3FQJY` |  |
+| 1212.15 | eutectoid: (γFe) + Fe2Nb = (αFe) | (γFe): Nb 0.003; Fe2Nb: Nb 0.27; (αFe): Nb 0.005 | model | [2] He 2017 | Table 3, p. 10, row 32; `ORC-SYREFXPJSO` |  |
 
 ## Formation enthalpies
 
@@ -262,35 +257,28 @@ Table: Enthalpies of formation, Fe–Nb system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Fe0.6667Nb0.3333 |  | -23.7 kJ/mol (basis unstated) | 1200 | experimental |  |  | [1] Toffolon 2000; _cites ref. 69_ | Table I, p. 2, row 2; `ORC-6GZDNBDPVG.f8c9c1` |  |
-| Fe0.6667Nb0.3333 |  | -23.67 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000 | Table I, p. 2, row 9; `ORC-4D3HCPNIM4.d421c0` |  |
-| Fe0.6667Nb0.3333 |  | -23.41 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 94_ | Table I, p. 2, row 8; `ORC-YJXLAG7DV2.25b2e8` |  |
-| Fe0.6667Nb0.3333 |  | -22.5 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 67_ | Table I, p. 2, row 3; `ORC-HMUZXUJIKC.b81d4e` |  |
-| Fe0.6667Nb0.3333 |  | -21 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 77_ | Table I, p. 2, row 5; `ORC-EOMC5BUDBU.82d6bd` |  |
-| Fe0.6667Nb0.3333 |  | -20.5 kJ/mol (basis unstated) | 1250 | experimental |  |  | [1] Toffolon 2000; _cites ref. 66_ | Table I, p. 2, row 1; `ORC-TGC4CYC2G5.de2249` |  |
-| Fe0.6667Nb0.3333 |  | -17.9 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 72_ | Table I, p. 2, row 4; `ORC-Q4DYQP7SWB.32f29d` |  |
-| Fe0.6667Nb0.3333 |  | -17.87 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6; `ORC-CIWBF76ZZE.2cb146` |  |
-| Fe0.6667Nb0.3333 |  | -12.24 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7; `ORC-X3ZWWARLFB.8429f0` |  |
+| Fe0.6667Nb0.3333 |  | -23.7 kJ/mol (basis unstated) | 1200 | experimental |  |  | [5] Toffolon 2000; _cites ref. 69_ | Table I, p. 2, row 2; `ORC-6GZDNBDPVG.f8c9c1` |  |
+| Fe0.6667Nb0.3333 |  | -23.67 kJ/mol (basis unstated) |  | model |  |  | [5] Toffolon 2000 | Table I, p. 2, row 9; `ORC-4D3HCPNIM4.d421c0` |  |
+| Fe0.6667Nb0.3333 |  | -23.41 kJ/mol (basis unstated) |  | model |  |  | [5] Toffolon 2000; _cites ref. 94_ | Table I, p. 2, row 8; `ORC-YJXLAG7DV2.25b2e8` |  |
+| Fe0.6667Nb0.3333 |  | -22.5 kJ/mol (basis unstated) |  | model |  |  | [5] Toffolon 2000; _cites ref. 67_ | Table I, p. 2, row 3; `ORC-HMUZXUJIKC.b81d4e` |  |
+| Fe0.6667Nb0.3333 |  | -21 kJ/mol (basis unstated) |  | model |  |  | [5] Toffolon 2000; _cites ref. 77_ | Table I, p. 2, row 5; `ORC-EOMC5BUDBU.82d6bd` |  |
+| Fe0.6667Nb0.3333 |  | -20.5 kJ/mol (basis unstated) | 1250 | experimental |  |  | [5] Toffolon 2000; _cites ref. 66_ | Table I, p. 2, row 1; `ORC-TGC4CYC2G5.de2249` |  |
+| Fe0.6667Nb0.3333 |  | -17.9 kJ/mol (basis unstated) |  | model |  |  | [5] Toffolon 2000; _cites ref. 72_ | Table I, p. 2, row 4; `ORC-Q4DYQP7SWB.32f29d` |  |
+| Fe0.6667Nb0.3333 |  | -17.87 kJ/mol (basis unstated) |  | model |  |  | [5] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6; `ORC-CIWBF76ZZE.2cb146` |  |
+| Fe0.6667Nb0.3333 |  | -12.24 kJ/mol (basis unstated) |  | model |  |  | [5] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7; `ORC-X3ZWWARLFB.8429f0` |  |
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (4)
 
 Table: Phase transition, Fe–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1790.15 K | 1790.15 |  | model | [5] Miettinen 2015 | p. 2; `ORC-F45QUGK2VE.125f89` | “This is close to the value of 1517 °C obtained by the current calculations and the value of 1523 °C, assessed by Voss et al.\[25\]” |
-| Phase transition | 1796.15 K | 1796.15 |  | model | [5] Miettinen 2015; _cites Voss 2011_ | p. 2; `ORC-F45QUGK2VE.141421` | “This is close to the value of 1517 °C obtained by the current calculations and the value of 1523 °C, assessed by Voss et al.\[25\]” |
-| Phase transition | 1888.15 K | 1888.15 | congruent transformation | model | [5] Miettinen 2015; _cites Lee 2001_ [doi](https://doi.org/10.1007/s11661-001-0033-x) | p. 2; `ORC-EAQKG74IFS.3dd689` | “Lee\[7\] reported a value of 1615 °C for the congruent melting point of the l-phase, whereas according to Bejarano et al.,\[14,15\] the latter forms from k and L via a peritectic reaction at 1520 °C.” |
-| Phase transition | 1898.15 K | 1898.15 | congruent transformation | experimental | [1] Toffolon 2000; _cites ref. 58_ | p. 1; `ORC-YXVEF3FLWZ.478720` | “The Laves phase E melts congruently, values for the measured melting point being 1625°C \[58ELL\], 1627tiO"C \[72BEWJ, and 1630°C \[93ZEL\].” |
-| Phase transition | 1903 K | 1903 | congruent melting: C14 \<=> Liq. | experimental | [4] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 16; `ORC-EIWHA7DZH3` |  |
-| Phase transition | 1903.15 K | 1903.15 | congruent transformation | experimental | [1] Toffolon 2000; _cites ref. 93_ | p. 1; `ORC-YXVEF3FLWZ.5721ff` | “The Laves phase E melts congruently, values for the measured melting point being 1625°C \[58ELL\], 1627tiO"C \[72BEWJ, and 1630°C \[93ZEL\].” |
-| Phase transition | 1904 K | 1904 | congruent melting: C14 \<=> Liq. | model | [4] Mathon 2009 | Table 3, p. 13, row 13; `ORC-FFS2WALRZJ` |  |
-| Phase transition | 1904 K | 1904 | congruent melting: C14 \<=> Liq. | model | [4] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 14; `ORC-LGEZ7WG6AU` |  |
-| Phase transition | 1920 K | 1920 | congruent melting: C14 \<=> Liq. | model | [4] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 15; `ORC-RT5WJNGHGD` |  |
-| Phase transition | 1924.15 K | 1924.15 |  | model | [3] He 2017 | p. 12; `ORC-Y6NI2T6UTZ.1f5316` | “The higher melting point maximum m2 is located at a composition Fe-36.6Al-33.3Nb and a temperature of 1669 C, the lower one termed m3 is at Fe-6.2Al31.6Nb and 1651 C.” |
-| Phase transition | 1942.15 K | 1942.15 |  | model | [3] He 2017 | p. 12; `ORC-Y6NI2T6UTZ.5f3d71` | “The higher melting point maximum m2 is located at a composition Fe-36.6Al-33.3Nb and a temperature of 1669 C, the lower one termed m3 is at Fe-6.2Al31.6Nb and 1651 C.” |
+| Phase transition | 1903 K | 1903 | congruent melting: C14 \<=> Liq. | experimental | [3] Mathon 2009; _cites Zelaya 1993_ | Table 3, p. 13, row 16; `ORC-EIWHA7DZH3` |  |
+| Phase transition | 1904 K | 1904 | congruent melting: C14 \<=> Liq. | model | [3] Mathon 2009 | Table 3, p. 13, row 13; `ORC-FFS2WALRZJ` |  |
+| Phase transition | 1904 K | 1904 | congruent melting: C14 \<=> Liq. | model | [3] Mathon 2009; _cites Toffolon 2000_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900017-1) | Table 3, p. 13, row 14; `ORC-LGEZ7WG6AU` |  |
+| Phase transition | 1920 K | 1920 | congruent melting: C14 \<=> Liq. | model | [3] Mathon 2009; _cites Coelho 1994_ | Table 3, p. 13, row 15; `ORC-RT5WJNGHGD` |  |
 
 ### Mixing / partial (2)
 
@@ -298,8 +286,8 @@ Table: Mixing / partial, Fe–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of mixing; _printed: -ΔS measured_ | -4.56 J/mol (basis unstated)/K | 1200 | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | experimental | [1] Toffolon 2000; _cites ref. 69_ | Table I, p. 2, row 2; `ORC-6GZDNBDPVG.105d34` |  |
-| Entropy of mixing; _printed: -ΔS measured_ | -4.6 J/mol (basis unstated)/K | 1250 | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | experimental | [1] Toffolon 2000; _cites ref. 66_ | Table I, p. 2, row 1; `ORC-TGC4CYC2G5.69bf8e` |  |
+| Entropy of mixing; _printed: -ΔS measured_ | -4.56 J/mol (basis unstated)/K | 1200 | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | experimental | [5] Toffolon 2000; _cites ref. 69_ | Table I, p. 2, row 2; `ORC-6GZDNBDPVG.105d34` |  |
+| Entropy of mixing; _printed: -ΔS measured_ | -4.6 J/mol (basis unstated)/K | 1250 | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | experimental | [5] Toffolon 2000; _cites ref. 66_ | Table I, p. 2, row 1; `ORC-TGC4CYC2G5.69bf8e` |  |
 
 ### Heat capacity / entropy / enthalpy (4)
 
@@ -307,21 +295,20 @@ Table: Heat capacity / entropy / enthalpy, Fe–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: -ΔS calculated_ | -5.42 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [1] Toffolon 2000 | Table I, p. 2, row 9; `ORC-4D3HCPNIM4.85d3fc` |  |
-| Entropy; _printed: -ΔS calculated_ | -1.84 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [1] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6; `ORC-CIWBF76ZZE.4fb36d` |  |
-| Entropy; _printed: -ΔS calculated_ | -0.33 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [1] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7; `ORC-X3ZWWARLFB.495b2f` |  |
-| Entropy; _printed: -ΔS calculated_ | -5.33 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [1] Toffolon 2000; _cites ref. 94_ | Table I, p. 2, row 8; `ORC-YJXLAG7DV2.b0f285` |  |
+| Entropy; _printed: -ΔS calculated_ | -5.42 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [5] Toffolon 2000 | Table I, p. 2, row 9; `ORC-4D3HCPNIM4.85d3fc` |  |
+| Entropy; _printed: -ΔS calculated_ | -1.84 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [5] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6; `ORC-CIWBF76ZZE.4fb36d` |  |
+| Entropy; _printed: -ΔS calculated_ | -0.33 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [5] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7; `ORC-X3ZWWARLFB.495b2f` |  |
+| Entropy; _printed: -ΔS calculated_ | -5.33 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [5] Toffolon 2000; _cites ref. 94_ | Table I, p. 2, row 8; `ORC-YJXLAG7DV2.b0f285` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. C. Toffolon, C. Servant, Thermodynamic assessment of the Fe-Nb system, Calphad 24, 97-112 (2000). [doi:10.1016/s0364-5916(00)00017-1](https://doi.org/10.1016/s0364-5916%2800%2900017-1)
-2. Hui Sun, Chuangye Wang, Shun-Li Shang, Allison M. Beese, Ji-Cheng Zhao, Zi-Kui Liu, Thermodynamic modeling of Fe-Nb and Fe-Nb-Ni systems supported by first-principles calculations and diffusion-multiple measurements, Acta Materialia 268, 119747 (2024). [doi:10.1016/j.actamat.2024.119747](https://doi.org/10.1016/j.actamat.2024.119747)
-3. Cuiyun He, Yuting Qin, Frank Stein, Thermodynamic Assessment of the Fe-Al-Nb System with Updated Fe-Nb Description, J. Phase Equilib. Diffus. 38, 771-787 (2017). [doi:10.1007/s11669-017-0566-3](https://doi.org/10.1007/s11669-017-0566-3)
-4. Muriel Mathon, Damien Connétable, Bo Sundman, Jacques Lacaze, Calphad-type assessment of the Fe–Nb–Ni ternary system, Calphad 33, 136-161 (2009). [doi:10.1016/j.calphad.2008.10.005](https://doi.org/10.1016/j.calphad.2008.10.005)
-5. Jyrki Miettinen, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P systems. Part 5: Fe-Nb-P, J. Phase Equilib. Diffus. 36, 68-77 (2015). [doi:10.1007/s11669-014-0351-5](https://doi.org/10.1007/s11669-014-0351-5)
-6. A.V. Khvan, B. Hallstedt, Thermodynamic description of the Fe–Mn–Nb–C system, Calphad 39, 62-69 (2012). [doi:10.1016/j.calphad.2012.09.001](https://doi.org/10.1016/j.calphad.2012.09.001)
+1. Hui Sun, Chuangye Wang, Shun-Li Shang, Allison M. Beese, Ji-Cheng Zhao, Zi-Kui Liu, Thermodynamic modeling of Fe-Nb and Fe-Nb-Ni systems supported by first-principles calculations and diffusion-multiple measurements, Acta Materialia 268, 119747 (2024). [doi:10.1016/j.actamat.2024.119747](https://doi.org/10.1016/j.actamat.2024.119747)
+2. Cuiyun He, Yuting Qin, Frank Stein, Thermodynamic Assessment of the Fe-Al-Nb System with Updated Fe-Nb Description, J. Phase Equilib. Diffus. 38, 771-787 (2017). [doi:10.1007/s11669-017-0566-3](https://doi.org/10.1007/s11669-017-0566-3)
+3. Muriel Mathon, Damien Connétable, Bo Sundman, Jacques Lacaze, Calphad-type assessment of the Fe–Nb–Ni ternary system, Calphad 33, 136-161 (2009). [doi:10.1016/j.calphad.2008.10.005](https://doi.org/10.1016/j.calphad.2008.10.005)
+4. Jyrki Miettinen, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P systems. Part 5: Fe-Nb-P, J. Phase Equilib. Diffus. 36, 68-77 (2015). [doi:10.1007/s11669-014-0351-5](https://doi.org/10.1007/s11669-014-0351-5)
+5. C. Toffolon, C. Servant, Thermodynamic assessment of the Fe-Nb system, Calphad 24, 97-112 (2000). [doi:10.1016/s0364-5916(00)00017-1](https://doi.org/10.1016/s0364-5916%2800%2900017-1)
 
 ## Please cite
 

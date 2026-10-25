@@ -1,10 +1,10 @@
 # B–Zr system
 
-> B–Zr system: 47 accepted literature values (invariant reaction 32, formation 12, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Zr system: 45 accepted literature values (invariant reaction 30, formation 12, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-ZR.html · Markdown: https://data.orchid-project.org/systems/B-ZR.md
 
-47 accepted literature values from 4 paper(s) (experimental 15, model 28, DFT 4); 0 calculated phase diagram(s).
+45 accepted literature values from 4 paper(s) (experimental 13, model 28, DFT 4); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-ZR.json) · [CSV](https://data.orchid-project.org/systems/B-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-ZR) · [phases (10)](https://data.orchid-project.org/phases/pages/B-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-ZR.html) · [Markdown](https://data.orchid-project.org/systems/B-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 13 |
 | model | 28 |
 | DFT | 4 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 32 |
+| invariant reaction | 30 |
 | phase transition | 3 |
 | formation | 12 |
 
@@ -28,7 +28,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Zr system (32)
+Table: Invariant reactions reported in the literature for the B–Zr system (30)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -57,13 +57,11 @@ Table: Invariant reactions reported in the literature for the B–Zr system (32)
 | 1934.15 | eutectic: L = ZrB2 + (βZr) | L: B 0.1242; ZrB2: B 0.666667 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 1; `ORC-WEZB6IMLIZ` |  |
 | 1934 | eutectic: L -> ZrB2 + bcc-Zr | L: Zr 0.1242; ZrB2: B 0.666667, Zr 0.333333 | model | [1] Chen 2009 | Table 4, p. 5, row 3; `ORC-XWHL5NNDR4` |  |
 | 1933 | eutectic: L -> ZrB2 + bcc-Zr | L: Zr 0.12; ZrB2: B 0.666667, Zr 0.333333 | experimental | [1] Chen 2009; _cites Rudy 1966_ | Table 4, p. 5, row 1; `ORC-QW5HTJUKZS` |  |
-| 1718.15 | eutectic |  | experimental | [3] Pan 2019; _cites Eckert 1966_ | p. 3; `ORC-FBUNLWGBLK.bff179` | “For the liquidus projection of the B-Ti-Zr system, the two following invariant transitory equilibria and one eutectic minimum (quasibinary eutectic) were confirmed by Ref 25 and 26: L ? (Ti, Zr)B2 = TiB ? (bTi, bZr) at 1450 C with the liquid composition of 11 at.% B and 37 at.% Zr, L ? (Ti, Zr)B2 = ZrB12 ? (bB) at 2020 C, and L = TiB ? (bTi, bZr) at 1445 C with the liquid composition of \* 9 at.%…” |
 | 1523.15 | peritectoid: ZrB2 + (βZr) = ZrB | ZrB2: B 0.666667; ZrB: B 0.5 | model | [3] Pan 2019 | Table 2, p. 4, row 12; `ORC-CXMMNQETPF` |  |
 | 1523.15 | peritectoid: ZrB2 + (βZr) = ZrB | ZrB2: B 0.666667; ZrB: B 0.5 | model | [3] Pan 2019; _cites Chen 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.01.061) | Table 2, p. 4, row 11; `ORC-H6NFQRGYZZ` |  |
 | 1523 | peritectoid: ZrB2+bcc-Zr -> ZrB | ZrB2: B 0.666667, Zr 0.333333; ZrB: B 0.5, Zr 0.5 | experimental | [1] Chen 2009; _cites Glaser 1953_ | Table 4, p. 5, row 16; `ORC-D2TYECO73U` |  |
 | 1523 | peritectoid: ZrB2+bcc-Zr -> ZrB | ZrB2: B 0.666667, Zr 0.333333; ZrB: B 0.5, Zr 0.5 | model | [1] Chen 2009 | Table 4, p. 5, row 17; `ORC-RA76WNIBNI` |  |
 | 1461.15 | peritectoid: ZrB2 + bcc-Zr -> ZrB | ZrB2: B 0.667; bcc-Zr: B 0.001; ZrB: B 0.5 | model | [2] Cacciamani 2011 | Table 4, p. 6, row 5; `ORC-IOWUQU5JLT` |  |
-| 1153 | peritectoid |  | experimental | [1] Chen 2009 | p. 2; `ORC-35E4JRCLLB` | “This corresponds to the peritectoid decomposition of hcp-Zr (1 at.% B) solid solution into bcc-Zr + ZrB2 at 1153 ± 15 K.” |
 
 ## Formation enthalpies
 
@@ -73,7 +71,6 @@ Table: Enthalpies of formation, B–Zr system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -107.368 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Pan 2019 | p. 8; `ORC-NM7F4TBT3C` | “The calculated enthalpy of formation of solid phases at 298 K is shown in Fig. 4 and the enthalpy of formation for ZrB2 was optimized to be - 107,368 J/mol, in accordance with the experimental values.\[19,20\]” |
 | ZrB(FeB-type) |  | -79.3 unknown |  | model |  |  | [4] Tokunaga 2008; _cites Rogl 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990021-1) | Table 2, p. 5, row 4; `ORC-P2FQDJPH36` |  |
 | ZrB(FeB-type) |  | -72.6 unknown |  | model |  |  | [4] Tokunaga 2008 | Table 2, p. 5, row 3; `ORC-3DTVJ5FZEQ` |  |
 | ZrB(FeB-type) |  | -67.1 unknown | 0 | DFT |  |  | [4] Tokunaga 2008 | Table 2, p. 5, row 2; `ORC-Y5UAPVIRWF` |  |
@@ -82,6 +79,7 @@ Table: Enthalpies of formation, B–Zr system (12)
 | ZrB12 |  | -22.5 unknown |  | model |  |  | [4] Tokunaga 2008 | Table 2, p. 5, row 11; `ORC-K3OWYJ7RPL` |  |
 | ZrB2 |  | -108.9 unknown ± 2.1 | 298.15 | experimental |  |  | [4] Tokunaga 2008; _cites Johnson 1967_ [doi](https://doi.org/10.1021/je60032a044) | Table 2, p. 5, row 8; `ORC-R52FC6BRDW` |  |
 | ZrB2 |  | -107.7 unknown ± 1.7 | 298.15 | experimental |  |  | [4] Tokunaga 2008; _cites Huber 1964_ [doi](https://doi.org/10.1021/j100792a052) | Table 2, p. 5, row 7; `ORC-BMYSVI23Y7` |  |
+| ZrB2 |  | -107.368 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Pan 2019 | p. 8; `ORC-NM7F4TBT3C` | “The calculated enthalpy of formation of solid phases at 298 K is shown in Fig. 4 and the enthalpy of formation for ZrB2 was optimized to be - 107,368 J/mol, in accordance with the experimental values.\[19,20\]” |
 | ZrB2 |  | -100.6 unknown |  | model |  |  | [4] Tokunaga 2008 | Table 2, p. 5, row 6; `ORC-422UP665PU` |  |
 | ZrB2 |  | -100.3 unknown | 0 | DFT |  |  | [4] Tokunaga 2008 | Table 2, p. 5, row 5; `ORC-O4FGAPFJR3` |  |
 | ZrB2 |  | -93 unknown | 298.15 | experimental |  |  | [4] Tokunaga 2008; _cites Kirpichev 1979_ | Table 2, p. 5, row 9; `ORC-OJNP5U5XDT` |  |

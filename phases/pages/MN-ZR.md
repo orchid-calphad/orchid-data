@@ -30,7 +30,7 @@ Table: Phases of the Mn–Zr system (8)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-zr:bcc-a2)
 
 Names (6): _corpus: _corpus:phase:mn-zr:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:MnZr-20Kup.tdb:BCC_A2, tdb:MnZr-21Si.tdb:BCC_A2, tdb:MnZr-97Fla-LB.tdb:BCC_A2, tdb:MnZr-98Hac.tdb:BCC_A2  
 
 
@@ -64,7 +64,7 @@ _tdb: _tdb:MnZr-20Kup.tdb:BCC_A2, tdb:MnZr-21Si.tdb:BCC_A2, tdb:MnZr-97Fla-LB.td
 33: CONST BCC_A2 : MN% ZR% : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2020.101745](https://doi.org/10.1016/j.calphad.2020.101745) A. Kuprava, I. Saenko, O. Fabrichnaya, Calphad, 68, 101745(2020).  
 _assessment that models this phase_
@@ -72,8 +72,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1997-0099](https://doi.org/10.3139/ijmr-1997-0099) H. Flandorfer, J. Groebner, A. Stamou, N. Hassiotis, A. Saccone, P. Rogl, R. Wouters, H. Seifert, D. Maccio, R. Ferro, G. Haidemenopoulus, L. Delaey, G. Effenberg, Z. Metallkd., 88, 529-38(1997).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## C14_LAVES (Mn–Zr)
 
@@ -86,7 +84,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-zr:c14-laves)
 
 Names (4): _corpus: _corpus:phase:mn-zr:c14-laves  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Mn2Zr  
+_paper: _paper:sha256-85fd53a1a176b694:Mn2Zr  
 _tdb: _tdb:MnZr-20Kup.tdb:C14_LAVES, tdb:MnZr-21Si.tdb:C14_LAVES  
 
 
@@ -106,14 +104,12 @@ _tdb: _tdb:MnZr-20Kup.tdb:C14_LAVES, tdb:MnZr-21Si.tdb:C14_LAVES
 55: CONST C14_LAVES : MN% ZR : MN ZR% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2020.101745](https://doi.org/10.1016/j.calphad.2020.101745) A. Kuprava, I. Saenko, O. Fabrichnaya, Calphad, 68, 101745(2020).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2020.102243](https://doi.org/10.1016/j.calphad.2020.102243) X. Si, S. Liu, X. Li, C. Shi, Y. Liu, Y. Du, Z. Zhang, Calphad, 72, 102243(2021).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CBCC_A12 (Mn–Zr)
 
@@ -124,7 +120,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-zr:cbcc-a12)
 
 Names (6): _corpus: _corpus:phase:mn-zr:cbcc-a12  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:cbcc-A12  
+_paper: _paper:sha256-85fd53a1a176b694:cbcc-A12  
 _tdb: _tdb:MnZr-20Kup.tdb:CBCC_A12, tdb:MnZr-21Si.tdb:CBCC_A12, tdb:MnZr-97Fla-LB.tdb:CBCC_A12, tdb:MnZr-98Hac.tdb:CBCC_A12  
 
 
@@ -158,7 +154,7 @@ _tdb: _tdb:MnZr-20Kup.tdb:CBCC_A12, tdb:MnZr-21Si.tdb:CBCC_A12, tdb:MnZr-97Fla-L
 43: CONST CBCC_A12 : MN% ZR : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2020.101745](https://doi.org/10.1016/j.calphad.2020.101745) A. Kuprava, I. Saenko, O. Fabrichnaya, Calphad, 68, 101745(2020).  
 _assessment that models this phase_
@@ -166,8 +162,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1997-0099](https://doi.org/10.3139/ijmr-1997-0099) H. Flandorfer, J. Groebner, A. Stamou, N. Hassiotis, A. Saccone, P. Rogl, R. Wouters, H. Seifert, D. Maccio, R. Ferro, G. Haidemenopoulus, L. Delaey, G. Effenberg, Z. Metallkd., 88, 529-38(1997).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CUB_A13 (Mn–Zr)
 
@@ -178,7 +172,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-zr:cub-a13)
 
 Names (6): _corpus: _corpus:phase:mn-zr:cub-a13  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:cub-A13  
+_paper: _paper:sha256-85fd53a1a176b694:cub-A13  
 _tdb: _tdb:MnZr-20Kup.tdb:CUB_A13, tdb:MnZr-21Si.tdb:CUB_A13, tdb:MnZr-97Fla-LB.tdb:CUB_A13, tdb:MnZr-98Hac.tdb:CUB_A13  
 
 
@@ -212,7 +206,7 @@ _tdb: _tdb:MnZr-20Kup.tdb:CUB_A13, tdb:MnZr-21Si.tdb:CUB_A13, tdb:MnZr-97Fla-LB.
 48: CONST CUB_A13 : MN% ZR : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2020.101745](https://doi.org/10.1016/j.calphad.2020.101745) A. Kuprava, I. Saenko, O. Fabrichnaya, Calphad, 68, 101745(2020).  
 _assessment that models this phase_
@@ -220,8 +214,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1997-0099](https://doi.org/10.3139/ijmr-1997-0099) H. Flandorfer, J. Groebner, A. Stamou, N. Hassiotis, A. Saccone, P. Rogl, R. Wouters, H. Seifert, D. Maccio, R. Ferro, G. Haidemenopoulus, L. Delaey, G. Effenberg, Z. Metallkd., 88, 529-38(1997).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Mn–Zr)
 
@@ -232,7 +224,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-zr:fcc-a1)
 
 Names (6): _corpus: _corpus:phase:mn-zr:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:MnZr-20Kup.tdb:FCC_A1, tdb:MnZr-21Si.tdb:FCC_A1, tdb:MnZr-97Fla-LB.tdb:FCC_A1, tdb:MnZr-98Hac.tdb:FCC_A1  
 
 
@@ -266,7 +258,7 @@ _tdb: _tdb:MnZr-20Kup.tdb:FCC_A1, tdb:MnZr-21Si.tdb:FCC_A1, tdb:MnZr-97Fla-LB.td
 28: CONST FCC_A1 : MN% ZR : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2020.101745](https://doi.org/10.1016/j.calphad.2020.101745) A. Kuprava, I. Saenko, O. Fabrichnaya, Calphad, 68, 101745(2020).  
 _assessment that models this phase_
@@ -274,8 +266,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1997-0099](https://doi.org/10.3139/ijmr-1997-0099) H. Flandorfer, J. Groebner, A. Stamou, N. Hassiotis, A. Saccone, P. Rogl, R. Wouters, H. Seifert, D. Maccio, R. Ferro, G. Haidemenopoulus, L. Delaey, G. Effenberg, Z. Metallkd., 88, 529-38(1997).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Mn–Zr)
 
@@ -286,7 +276,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-zr:hcp-a3)
 
 Names (6): _corpus: _corpus:phase:mn-zr:hcp-a3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:MnZr-20Kup.tdb:HCP_A3, tdb:MnZr-21Si.tdb:HCP_A3, tdb:MnZr-97Fla-LB.tdb:HCP_A3, tdb:MnZr-98Hac.tdb:HCP_A3  
 
 
@@ -320,7 +310,7 @@ _tdb: _tdb:MnZr-20Kup.tdb:HCP_A3, tdb:MnZr-21Si.tdb:HCP_A3, tdb:MnZr-97Fla-LB.td
 38: CONST HCP_A3 : MN ZR% : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2020.101745](https://doi.org/10.1016/j.calphad.2020.101745) A. Kuprava, I. Saenko, O. Fabrichnaya, Calphad, 68, 101745(2020).  
 _assessment that models this phase_
@@ -328,8 +318,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1997-0099](https://doi.org/10.3139/ijmr-1997-0099) H. Flandorfer, J. Groebner, A. Stamou, N. Hassiotis, A. Saccone, P. Rogl, R. Wouters, H. Seifert, D. Maccio, R. Ferro, G. Haidemenopoulus, L. Delaey, G. Effenberg, Z. Metallkd., 88, 529-38(1997).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Mn–Zr)
 
@@ -340,7 +328,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-zr:liquid)
 
 Names (6): _corpus: _corpus:phase:mn-zr:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:MnZr-20Kup.tdb:LIQUID, tdb:MnZr-21Si.tdb:LIQUID, tdb:MnZr-97Fla-LB.tdb:LIQUID, tdb:MnZr-98Hac.tdb:LIQUID  
 
 
@@ -374,7 +362,7 @@ _tdb: _tdb:MnZr-20Kup.tdb:LIQUID, tdb:MnZr-21Si.tdb:LIQUID, tdb:MnZr-97Fla-LB.td
 23: CONST LIQUID:L : MN ZR : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2020.101745](https://doi.org/10.1016/j.calphad.2020.101745) A. Kuprava, I. Saenko, O. Fabrichnaya, Calphad, 68, 101745(2020).  
 _assessment that models this phase_
@@ -382,8 +370,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1997-0099](https://doi.org/10.3139/ijmr-1997-0099) H. Flandorfer, J. Groebner, A. Stamou, N. Hassiotis, A. Saccone, P. Rogl, R. Wouters, H. Seifert, D. Maccio, R. Ferro, G. Haidemenopoulus, L. Delaey, G. Effenberg, Z. Metallkd., 88, 529-38(1997).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MN2ZR_C14 (Mn–Zr)
 

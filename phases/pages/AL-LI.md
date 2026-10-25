@@ -37,7 +37,7 @@ Table: Phases of the Al–Li system (12)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:al2li3)
 
 Names (12): _corpus: _corpus:phase:al-li:al2li3  
-_paper: _paper:10.1007/s11669-020-00827-z:Al2Li3, paper:10.1016/j.calphad.2011.09.003:Al2Li3, paper:10.1016/s0364-5916(98)00037-6:Al2Li3  
+_paper: _paper:10.1007/s11669-020-00827-z:Al2Li3, paper:10.1016/j.calphad.2011.09.003:Al2Li3, paper:sha256-85fd53a1a176b694:Al2Li3  
 _tdb: _tdb:AlLi-07Hal-condensed.tdb:AL2LI3, tdb:AlLi-07Hal.tdb:AL2LI3, tdb:AlLi-11Guo.tdb:AL2LI3, tdb:AlLi-20Lon.tdb:AL2LI3, tdb:AlLi-23Cui-reg2.tdb:AL2LI3, tdb:AlLi-23Cui-reg3.tdb:AL2LI3, tdb:AlLi-24Liu.tdb:AL2LI3, tdb:AlLi-89Sau-LB.tdb:AL2LI3  
 
 
@@ -99,7 +99,7 @@ _tdb: _tdb:AlLi-07Hal-condensed.tdb:AL2LI3, tdb:AlLi-07Hal.tdb:AL2LI3, tdb:AlLi-
 47: CONST AL2LI3 : AL : LI : !
 ~~~~
 
-Example references (10 of 13; assessments first): 
+Example references (10 of 12; assessments first): 
 
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -117,9 +117,9 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2011.09.003](https://doi.org/10.1016/j.calphad.2011.09.003) Peisheng Wang, Yong Du, Shuhong Liu, Thermodynamic optimization of the Li–Mg and Al–Li–Mg systems, Calphad 35, 523-532 (2011).  
 _reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02647619](https://doi.org/10.1007/bf02647619) R. J. Pulham, P. Hubberstey, P. Hemptenmacher, Solutions of aluminum in liquid lithium: contribution to the Li-Al phase diagram, JPE 15, 587-590 (1994).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jssc.2010.08.029](https://doi.org/10.1016/j.jssc.2010.08.029) Kati Puhakainen, Magnus Boström, Thomas L. Groy, Ulrich Häussermann, A new phase in the system lithium–aluminum: Characterization of orthorhombic Li2Al, Journal of Solid State Chemistry 183, 2528-2533 (2010).  
 _cited as the source of values for this phase_
 
 ## AL4LI9 (Al–Li)
@@ -134,7 +134,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:al4li9)
 
 Names (12): _corpus: _corpus:phase:al-li:al4li9  
-_paper: _paper:10.1007/s11669-020-00827-z:Al4Li9, paper:10.1016/j.calphad.2011.09.003:Al4Li9, paper:10.1016/s0364-5916(98)00037-6:Al4Li9  
+_paper: _paper:10.1007/s11669-020-00827-z:Al4Li9, paper:10.1016/j.calphad.2011.09.003:Al4Li9, paper:sha256-85fd53a1a176b694:Al4Li9  
 _tdb: _tdb:AlLi-07Hal-condensed.tdb:AL4LI9, tdb:AlLi-07Hal.tdb:AL4LI9, tdb:AlLi-11Guo.tdb:AL4LI9, tdb:AlLi-20Lon.tdb:AL4LI9, tdb:AlLi-23Cui-reg2.tdb:AL4LI9, tdb:AlLi-23Cui-reg3.tdb:AL4LI9, tdb:AlLi-24Liu.tdb:AL4LI9, tdb:AlLi-89Sau-LB.tdb:AL4LI9  
 
 
@@ -196,7 +196,7 @@ _tdb: _tdb:AlLi-07Hal-condensed.tdb:AL4LI9, tdb:AlLi-07Hal.tdb:AL4LI9, tdb:AlLi-
 52: CONST AL4LI9 : AL : LI : !
 ~~~~
 
-Example references (10 of 13; assessments first): 
+Example references (10 of 12; assessments first): 
 
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -216,8 +216,8 @@ _cited as the source of values for this phase_
 _reports values for this phase_
 - [doi:10.1007/bf02647619](https://doi.org/10.1007/bf02647619) R. J. Pulham, P. Hubberstey, P. Hemptenmacher, Solutions of aluminum in liquid lithium: contribution to the Li-Al phase diagram, JPE 15, 587-590 (1994).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
+- [doi:10.1016/j.jssc.2010.08.029](https://doi.org/10.1016/j.jssc.2010.08.029) Kati Puhakainen, Magnus Boström, Thomas L. Groy, Ulrich Häussermann, A new phase in the system lithium–aluminum: Characterization of orthorhombic Li2Al, Journal of Solid State Chemistry 183, 2528-2533 (2010).  
+_cited as the source of values for this phase_
 
 ## ALLI_B32 (Al–Li)
 
@@ -331,7 +331,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:bcc-4sl)
 
 Names (8): _corpus: _corpus:phase:al-li:bcc-4sl  
-_paper: _paper:10.1007/s11669-020-00827-z:AlLi, paper:10.1016/s0364-5916(98)00037-6:AlLi  
+_paper: _paper:10.1007/s11669-020-00827-z:AlLi, paper:sha256-85fd53a1a176b694:AlLi  
 _tdb: _tdb:AlLi-07Hal-condensed.tdb:BCC_4SL, tdb:AlLi-07Hal.tdb:BCC_4SL, tdb:AlLi-20Lon.tdb:BCC_4SL, tdb:AlLi-23Cui-reg2.tdb:BCC_4SL, tdb:AlLi-23Cui-reg3.tdb:BCC_4SL  
 
 
@@ -372,7 +372,7 @@ _tdb: _tdb:AlLi-07Hal-condensed.tdb:BCC_4SL, tdb:AlLi-07Hal.tdb:BCC_4SL, tdb:AlL
 60: CONST BCC_4SL:B : AL% LI : AL LI% : AL LI% : AL% LI : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -380,8 +380,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2023.102585](https://doi.org/10.1016/j.calphad.2023.102585) S. Cui, H. Ma, J. Wang, B. Hu, Calphad, 82, 102585(2023).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_A2 (Al–Li)
 
@@ -392,7 +390,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:bcc-a2)
 
 Names (17): _corpus: _corpus:phase:al-li:bcc-a2  
-_paper: _paper:10.1007/s11669-020-00827-z:bcc(Li), paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1007/s11669-020-00827-z:bcc(Li), paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:AlLi-07Hal-condensed.tdb:A2_BCC, tdb:AlLi-07Hal-condensed.tdb:BCC_A2, tdb:AlLi-07Hal.tdb:A2_BCC, tdb:AlLi-07Hal.tdb:BCC_A2, tdb:AlLi-11Guo.tdb:A2_BCC, tdb:AlLi-11Guo.tdb:BCC_A2, tdb:AlLi-20Lon.tdb:A2_BCC, tdb:AlLi-20Lon.tdb:BCC_A2, tdb:AlLi-23Cui-reg2.tdb:A2_BCC, tdb:AlLi-23Cui-reg2.tdb:BCC_A2, tdb:AlLi-23Cui-reg3.tdb:A2_BCC, tdb:AlLi-23Cui-reg3.tdb:BCC_A2, tdb:AlLi-24Liu.tdb:BCC_A2, tdb:AlLi-89Sau-LB.tdb:BCC_A2  
 
 
@@ -496,7 +494,7 @@ _tdb: _tdb:AlLi-07Hal-condensed.tdb:A2_BCC, tdb:AlLi-07Hal-condensed.tdb:BCC_A2,
 37: CONST BCC_A2 : AL LI% : VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -512,8 +510,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02647619](https://doi.org/10.1007/bf02647619) R. J. Pulham, P. Hubberstey, P. Hemptenmacher, Solutions of aluminum in liquid lithium: contribution to the Li-Al phase diagram, JPE 15, 587-590 (1994).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## B32_BCC (Al–Li)
 
@@ -627,7 +623,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:fcc-a1)
 
 Names (17): _corpus: _corpus:phase:al-li:fcc-a1  
-_paper: _paper:10.1007/s11669-020-00827-z:fcc(Al), paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:10.1007/s11669-020-00827-z:fcc(Al), paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:AlLi-07Hal-condensed.tdb:A1_FCC, tdb:AlLi-07Hal-condensed.tdb:FCC_A1, tdb:AlLi-07Hal.tdb:A1_FCC, tdb:AlLi-07Hal.tdb:FCC_A1, tdb:AlLi-11Guo.tdb:FCC_A1, tdb:AlLi-20Lon.tdb:A1_FCC, tdb:AlLi-20Lon.tdb:FCC_A1, tdb:AlLi-23Cui-reg2.tdb:A1_FCC, tdb:AlLi-23Cui-reg2.tdb:FCC_A1, tdb:AlLi-23Cui-reg3.tdb:A1_FCC, tdb:AlLi-23Cui-reg3.tdb:FCC_A1, tdb:AlLi-24Liu.tdb:A1_FCC, tdb:AlLi-24Liu.tdb:FCC_A1, tdb:AlLi-89Sau-LB.tdb:FCC_A1  
 
 
@@ -731,7 +727,7 @@ _tdb: _tdb:AlLi-07Hal-condensed.tdb:A1_FCC, tdb:AlLi-07Hal-condensed.tdb:FCC_A1,
 32: CONST FCC_A1 : AL% LI : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -745,8 +741,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1989-801209](https://doi.org/10.1515/ijmr-1989-801209) N. Saunders, Z. Metallkd., 80, 894-903 (1989)  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## L12_FCC (Al–Li)
 
@@ -870,7 +864,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:liquid)
 
 Names (11): _corpus: _corpus:phase:al-li:liquid  
-_paper: _paper:10.1007/s11669-020-00827-z:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1007/s11669-020-00827-z:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlLi-07Hal-condensed.tdb:LIQUID, tdb:AlLi-07Hal.tdb:LIQUID, tdb:AlLi-11Guo.tdb:LIQUID, tdb:AlLi-20Lon.tdb:LIQUID, tdb:AlLi-23Cui-reg2.tdb:LIQUID, tdb:AlLi-23Cui-reg3.tdb:LIQUID, tdb:AlLi-24Liu.tdb:LIQUID, tdb:AlLi-89Sau-LB.tdb:LIQUID  
 
 
@@ -932,7 +926,7 @@ _tdb: _tdb:AlLi-07Hal-condensed.tdb:LIQUID, tdb:AlLi-07Hal.tdb:LIQUID, tdb:AlLi-
 27: CONST LIQUID:L : AL LI : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -946,8 +940,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1989-801209](https://doi.org/10.1515/ijmr-1989-801209) N. Saunders, Z. Metallkd., 80, 894-903 (1989)  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02647619](https://doi.org/10.1007/bf02647619) R. J. Pulham, P. Hubberstey, P. Hemptenmacher, Solutions of aluminum in liquid lithium: contribution to the Li-Al phase diagram, JPE 15, 587-590 (1994).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jssc.2010.08.029](https://doi.org/10.1016/j.jssc.2010.08.029) Kati Puhakainen, Magnus Boström, Thomas L. Groy, Ulrich Häussermann, A new phase in the system lithium–aluminum: Characterization of orthorhombic Li2Al, Journal of Solid State Chemistry 183, 2528-2533 (2010).  

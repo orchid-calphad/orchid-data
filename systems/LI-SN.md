@@ -1,10 +1,10 @@
 # Li–Sn system
 
-> Li–Sn system: 213 accepted literature values (invariant reaction 81, phase transition 43, formation 36, phase equilibrium 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Sn system: 193 accepted literature values (invariant reaction 71, formation 36, phase transition 33, phase equilibrium 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-SN.html · Markdown: https://data.orchid-project.org/systems/LI-SN.md
 
-213 accepted literature values from 2 paper(s) (experimental 154, model 57, unspecified 2); 3 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+193 accepted literature values from 2 paper(s) (experimental 139, model 52, unspecified 2); 3 calculated phase diagram(s). 22 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-SN.json) · [CSV](https://data.orchid-project.org/systems/LI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-SN/LiSn-05Yin-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/LI-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-SN.html) · [Markdown](https://data.orchid-project.org/systems/LI-SN.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 154 |
-| model | 57 |
+| experimental | 139 |
+| model | 52 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 81 |
-| phase transition | 43 |
+| invariant reaction | 71 |
+| phase transition | 33 |
 | phase equilibrium | 28 |
 | formation | 36 |
 | activity / EMF / Gibbs energy | 2 |
@@ -94,22 +94,21 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Li–Sn system (81)
+Table: Invariant reactions reported in the literature for the Li–Sn system (71)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1056.15 | L -> Li7Sn2 | L: Li 0.777778, Sn 0.222222; Li7Sn2: Li 0.777778, Sn 0.222222 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 10; `ORC-6X2VRVKHGX` |  |
-| 1045.15 | L -> Li7Sn2 | L: Li 0.777778, Sn 0.222222; Li7Sn2: Li 0.777778, Sn 0.222222 | model | [1] Yin 2005 | Table 2, p. 3, row 9; `ORC-LRVB2MESBY` |  |
-| 1035.35 | L -> Li22Sn5 | L: Li 0.814815, Sn 0.185185; Li22Sn5: Li 0.814815, Sn 0.185185 | model | [1] Yin 2005 | Table 2, p. 3, row 5; `ORC-APF3BJENCJ` |  |
-| 1035.15 | L -> Li22Sn5 + Li7Sn2 | L: Sn 0.194; Li22Sn5: Li 0.814815, Sn 0.185185; Li7Sn2: Li 0.777778, Sn 0.222222 | model | [1] Yin 2005 | Table 2, p. 3, row 7; `ORC-E2TMW6ATOV` |  |
-| 1031.15 | L -> Li22Sn5 | L: Li 0.814815, Sn 0.185185; Li22Sn5: Li 0.814815, Sn 0.185185 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 6; `ORC-6U6VJO6DSU` |  |
-| 1025.15 | L -> Li22Sn5 + Li7Sn2 | L: Sn 0.205; Li22Sn5: Li 0.814815, Sn 0.185185; Li7Sn2: Li 0.777778, Sn 0.222222 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 8; `ORC-UDNL4RYLHT` |  |
-| 1025 | L -> Li17Sn4 + Li7Sn2 | L: Sn 0.203; Li17Sn4: Sn 0.185; Li7Sn2: Sn 0.222 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 7; `ORC-2TJCGI5GR5` |  |
+| 1056.15 | congruent melting: L -> Li7Sn2 | L: Li 0.777778, Sn 0.222222; Li7Sn2: Li 0.777778, Sn 0.222222 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 10; `ORC-6X2VRVKHGX` |  |
+| 1045.15 | congruent melting: L -> Li7Sn2 | L: Li 0.777778, Sn 0.222222; Li7Sn2: Li 0.777778, Sn 0.222222 | model | [1] Yin 2005 | Table 2, p. 3, row 9; `ORC-LRVB2MESBY` |  |
+| 1035.35 | congruent melting: L -> Li22Sn5 | L: Li 0.814815, Sn 0.185185; Li22Sn5: Li 0.814815, Sn 0.185185 | model | [1] Yin 2005 | Table 2, p. 3, row 5; `ORC-APF3BJENCJ` |  |
+| 1035.15 | eutectic: L -> Li22Sn5 + Li7Sn2 | L: Sn 0.194; Li22Sn5: Li 0.814815, Sn 0.185185; Li7Sn2: Li 0.777778, Sn 0.222222 | model | [1] Yin 2005 | Table 2, p. 3, row 7; `ORC-E2TMW6ATOV` |  |
+| 1031.15 | congruent melting: L -> Li22Sn5 | L: Li 0.814815, Sn 0.185185; Li22Sn5: Li 0.814815, Sn 0.185185 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 6; `ORC-6U6VJO6DSU` |  |
+| 1025.15 | eutectic: L -> Li22Sn5 + Li7Sn2 | L: Sn 0.205; Li22Sn5: Li 0.814815, Sn 0.185185; Li7Sn2: Li 0.777778, Sn 0.222222 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 8; `ORC-UDNL4RYLHT` |  |
+| 1025 | eutectic: L -> Li17Sn4 + Li7Sn2 | L: Sn 0.203; Li17Sn4: Sn 0.185; Li7Sn2: Sn 0.222 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 7; `ORC-2TJCGI5GR5` |  |
 | 1025 | eutectic: L \<-> Li17Sn4 + Li7Sn2 | Li17Sn4: Sn 0.190476; Li7Sn2: Sn 0.222222 | experimental | [2] Li 2014 | Table 8, p. 6, row 8; `ORC-JEY7RJJ5AF` |  |
 | 1025 | eutectic: L \<-> Li17Sn4 + Li7Sn2 | Li17Sn4: Sn 0.190476; Li7Sn2: Sn 0.222222 | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 7; `ORC-PANWBJ7SO3` |  |
-| 1025 | L -> Li17Sn4 + Li7Sn2 | Li17Sn4: Sn 0.190476; Li7Sn2: Sn 0.222222 | experimental | [2] Li 2014 | Table 10, p. 9, row 8; `ORC-PF22557FYE` |  |
-| 1025 | eutectic: L -> Li17Sn4 + Li7Sn2 |  | model | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | p. 6; `ORC-R7I6BJXW46` | “The invariant reaction for the eutectic "L2Li17 Sn4 þ Li7 Sn2 " was confirmed in several samples (Li81:5 Sn18:5 ,Li80 Sn20 , Li79 Sn21 ,Li78 Sn22 ) between 1021.2 and 1029.8 K, so we kept the literature value at 1025 K \[15\].” |
-| 1022 | L -> Li17Sn4 + Li7Sn2 | L: Sn 0.204; Li17Sn4: Sn 0.19; Li7Sn2: Sn 0.224 | model | [2] Li 2014 | Table 10, p. 9, row 9; `ORC-A5QE4N3KSX` |  |
+| 1025 | eutectic: L -> Li17Sn4 + Li7Sn2 | Li17Sn4: Sn 0.190476; Li7Sn2: Sn 0.222222 | experimental | [2] Li 2014 | Table 10, p. 9, row 8; `ORC-PF22557FYE` |  |
+| 1022 | eutectic: L -> Li17Sn4 + Li7Sn2 | L: Sn 0.204; Li17Sn4: Sn 0.19; Li7Sn2: Sn 0.224 | model | [2] Li 2014 | Table 10, p. 9, row 9; `ORC-A5QE4N3KSX` |  |
 | 997 | peritectic: L + Li7Sn2 \<-> Li13Sn5 | Li7Sn2: Sn 0.222222; Li13Sn5: Sn 0.277778 | experimental | [2] Li 2014 | Table 8, p. 6, row 12; `ORC-DNLKSIBSPU` |  |
 | 997 | L + Li7Sn2 -> Li13Sn5 | Li7Sn2: Sn 0.222222; Li13Sn5: Sn 0.277778 | experimental | [2] Li 2014 | Table 10, p. 9, row 14; `ORC-L3MDQNQ5HX` |  |
 | 995 | L + Li7Sn2 -> Li13Sn5 | L: Sn 0.28; Li7Sn2: Sn 0.252; Li13Sn5: Sn 0.278 | model | [2] Li 2014 | Table 10, p. 9, row 15; `ORC-3GOH4DEEOT` |  |
@@ -117,7 +116,6 @@ Table: Invariant reactions reported in the literature for the Li–Sn system (81
 | 989.15 | L + Li7Sn2 -> Li13Sn5 | L: Sn 0.3; Li7Sn2: Li 0.777778, Sn 0.222222; Li13Sn5: Li 0.722222, Sn 0.277778 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 12; `ORC-5SUQ7R6W7T` |  |
 | 989 | L + Li7Sn2 -> Li13Sn5 | L: Sn 0.2945; Li7Sn2: Sn 0.24; Li13Sn5: Sn 0.278 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 13; `ORC-B5Q2537AIQ` |  |
 | 989 | peritectic: L + Li7Sn2 \<-> Li13Sn5 | Li7Sn2: Sn 0.222222; Li13Sn5: Sn 0.277778 | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 11; `ORC-CNHN6AIRNS` |  |
-| 989 | peritectic |  | experimental | [2] Li 2014; _cites Gasior 1996_ [doi](https://doi.org/10.1016/s0022-3093%2896%2900446-2) | p. 4; `ORC-GFKOMFUNOF` | “In another work, which is based on emf data \[7\], a further phase, Li8 Sn3 , was estimated from a small kink in coulometric titration curves. This phase should be formed in a peritectic reaction at 989 K from Li7 Sn2 and the liquid.” |
 | 985.75 | L + Li7Sn2 -> Li13Sn5 | L: Sn 0.298; Li7Sn2: Li 0.777778, Sn 0.222222; Li13Sn5: Li 0.722222, Sn 0.277778 | model | [1] Yin 2005 | Table 2, p. 3, row 11; `ORC-VHVR6EWM2U` |  |
 | 971.65 | L + Li13Sn5 -> Li5Sn2 | L: Sn 0.319; Li13Sn5: Li 0.722222, Sn 0.277778; Li5Sn2: Li 0.714286, Sn 0.285714 | model | [1] Yin 2005 | Table 2, p. 3, row 13; `ORC-GPV6EEQJDQ` |  |
 | 971.15 | L + Li13Sn5 -> Li5Sn2 | L: Sn 0.31; Li13Sn5: Li 0.722222, Sn 0.277778; Li5Sn2: Li 0.714286, Sn 0.285714 | experimental | [1] Yin 2005; _cites Bailey 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990174-7) | Table 2, p. 3, row 15; `ORC-7TYJ7EXRBF` |  |
@@ -126,35 +124,28 @@ Table: Invariant reactions reported in the literature for the Li–Sn system (81
 | 971 | L + Li13Sn5 -> Li5Sn2 | L: Sn 0.31; Li13Sn5: Sn 0.278; Li5Sn2: Sn 0.286 | model | [2] Li 2014 | Table 10, p. 9, row 18; `ORC-ANFRSAVH77.630e41` |  |
 | 971 | L + Li13Sn5 -> Li5Sn2 | L: Sn 0.311; Li13Sn5: Sn 0.278; Li5Sn2: Sn 0.286 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 16; `ORC-DSR7XMQNJN` |  |
 | 971 | peritectic: L + Li13Sn5 \<-> Li5Sn2 | Li13Sn5: Sn 0.277778; Li5Sn2: Sn 0.285714 | experimental | [2] Li 2014 | Table 8, p. 6, row 14; `ORC-KEXZ7OU6EO` |  |
-| 970 | peritectic |  | model | [2] Li 2014 | p. 14; `ORC-6DM7TX3YYE` | “Additionally, a small kink calculated at approximately 970 K is associated with the peritectic reaction L þ Li13 Sn5 2Li5 Sn2 .” |
 | 787 | L + Li5Sn2 -> Li7Sn3 | L: Sn 0.414; Li5Sn2: Sn 0.286; Li7Sn3: Sn 0.3 | model | [2] Li 2014 | Table 10, p. 9, row 21; `ORC-I76COQFD3R` |  |
 | 782.25 | L + Li5Sn2 -> Li7Sn3 | L: Sn 0.435; Li5Sn2: Li 0.714286, Sn 0.285714; Li7Sn3: Li 0.7, Sn 0.3 | model | [1] Yin 2005 | Table 2, p. 3, row 16; `ORC-HUPY2VNYXT` |  |
 | 782 | peritectic: L + Li5Sn2 \<-> Li7Sn3 | Li5Sn2: Sn 0.285714; Li7Sn3: Sn 0.3 | experimental | [2] Li 2014 | Table 8, p. 6, row 16; `ORC-BJ4C37WQEY` |  |
-| 782 | peritectic: L + Li5Sn2 -> Li7Sn3 |  | experimental | [2] Li 2014 | p. 6; `ORC-FHTVX6MEQM.1d0f5b` | “The peritectic reaction temperature for L þ Li5 Sn2 2Li7 Sn3 was changed from 775 K \[15\] to 782 K (sample Li60 Sn40 ).” |
 | 782 | L + Li5Sn2 -> Li7Sn3 | Li5Sn2: Sn 0.285714; Li7Sn3: Sn 0.3 | experimental | [2] Li 2014 | Table 10, p. 9, row 20; `ORC-XLMGHJNWKJ` |  |
 | 775.15 | L + Li5Sn2 -> Li7Sn3 | L: Sn 0.4; Li5Sn2: Li 0.714286, Sn 0.285714; Li7Sn3: Li 0.7, Sn 0.3 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 17; `ORC-Z3K2J3KC2W` |  |
 | 775 | peritectic: L + Li5Sn2 \<-> Li7Sn3 | Li5Sn2: Sn 0.285714; Li7Sn3: Sn 0.3 | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 15; `ORC-57YMPKBGEB` |  |
 | 775 | L + Li5Sn2 -> Li7Sn3 | Li5Sn2: Sn 0.286; Li7Sn3: Sn 0.3 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 19; `ORC-BNMTV4KYZG` |  |
-| 775 | peritectic: L + Li5Sn2 -> Li7Sn3 |  | model | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | p. 6; `ORC-FHTVX6MEQM.a6994d` | “The peritectic reaction temperature for L þ Li5 Sn2 2Li7 Sn3 was changed from 775 K \[15\] to 782 K (sample Li60 Sn40 ).” |
-| 775 | peritectic |  | experimental | [1] Yin 2005 | p. 3; `ORC-L6J5Q3IYM5.b8cf27` | “But the compositions of liquid at the peritectic temperatures of 775 and 758 K have a relative larger discrepancy between calculated value and experimental one.” |
 | 773.15 | L + Li5Sn2 -> Li7Sn3 | Li5Sn2: Li 0.714286, Sn 0.285714; Li7Sn3: Li 0.7, Sn 0.3 | experimental | [1] Yin 2005; _cites Bailey 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990174-7) | Table 2, p. 3, row 18; `ORC-THDJIZ4VK7` |  |
-| 761.65 | L -> LiSn | L: Li 0.5, Sn 0.5; LiSn: Li 0.5, Sn 0.5 | model | [1] Yin 2005 | Table 2, p. 3, row 24; `ORC-6EJXEHK6WQ` |  |
-| 761.15 | L -> LiSn | L: Li 0.5, Sn 0.5; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Sommer 1982_ | Table 2, p. 3, row 27; `ORC-DWWCTLGZ2C` |  |
-| 759.15 | L -> LiSn | L: Li 0.5, Sn 0.5; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Bailey 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990174-7) | Table 2, p. 3, row 26; `ORC-JGF7O2LQ5U` |  |
-| 758.15 | L -> LiSn | L: Li 0.5, Sn 0.5; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 25; `ORC-7WYZSQWC3C` |  |
-| 758 | peritectic |  | experimental | [1] Yin 2005 | p. 3; `ORC-L6J5Q3IYM5.e2a9ea` | “But the compositions of liquid at the peritectic temperatures of 775 and 758 K have a relative larger discrepancy between calculated value and experimental one.” |
-| 746.85 | L -> Li7Sn3 + LiSn | L: Sn 0.451; Li7Sn3: Li 0.7, Sn 0.3; LiSn: Li 0.5, Sn 0.5 | model | [1] Yin 2005 | Table 2, p. 3, row 19; `ORC-3WQWKE5YFE` |  |
-| 746 | eutectic: L -> Li7Sn3 + LiSn |  | experimental | [2] Li 2014 | p. 6; `ORC-PGY52GW7I4` | “The eutectic reaction temperature for L2Li7 Sn3 þ LiSn was changed from 743 to 746 K (also sample Li60 Sn40 ).” |
+| 761.65 | congruent melting: L -> LiSn | L: Li 0.5, Sn 0.5; LiSn: Li 0.5, Sn 0.5 | model | [1] Yin 2005 | Table 2, p. 3, row 24; `ORC-6EJXEHK6WQ` |  |
+| 761.15 | congruent melting: L -> LiSn | L: Li 0.5, Sn 0.5; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Sommer 1982_ | Table 2, p. 3, row 27; `ORC-DWWCTLGZ2C` |  |
+| 759.15 | congruent melting: L -> LiSn | L: Li 0.5, Sn 0.5; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Bailey 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990174-7) | Table 2, p. 3, row 26; `ORC-JGF7O2LQ5U` |  |
+| 758.15 | congruent melting: L -> LiSn | L: Li 0.5, Sn 0.5; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 25; `ORC-7WYZSQWC3C` |  |
+| 746.85 | eutectic: L -> Li7Sn3 + LiSn | L: Sn 0.451; Li7Sn3: Li 0.7, Sn 0.3; LiSn: Li 0.5, Sn 0.5 | model | [1] Yin 2005 | Table 2, p. 3, row 19; `ORC-3WQWKE5YFE` |  |
 | 746 | eutectic: L \<-> Li7Sn3 + LiSn | Li7Sn3: Sn 0.3; LiSn: Sn 0.5 | experimental | [2] Li 2014 | Table 8, p. 6, row 18; `ORC-UGWOTXUIBG` |  |
-| 746 | L -> Li7Sn3 + LiSn | L: Sn 0.44; Li7Sn3: Sn 0.7; LiSn: Sn 0.5 | model | [2] Li 2014 | Table 10, p. 9, row 24; `ORC-UOD5B25VHE.b5aa20` |  |
-| 746 | L -> Li7Sn3 + LiSn | Li7Sn3: Sn 0.3; LiSn: Sn 0.5 | experimental | [2] Li 2014 | Table 10, p. 9, row 23; `ORC-UOD5B25VHE.d37a1b` |  |
-| 743.15 | L -> Li7Sn3 + LiSn | L: Sn 0.3; Li7Sn3: Li 0.7, Sn 0.3; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Sommer 1982_ | Table 2, p. 3, row 23; `ORC-2IC5DXQ6P3` |  |
-| 743.15 | L -> Li7Sn3 + LiSn | L: Sn 0.43; Li7Sn3: Li 0.7, Sn 0.3; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 21; `ORC-XZTE7AY2D6` |  |
+| 746 | eutectic: L -> Li7Sn3 + LiSn | L: Sn 0.44; Li7Sn3: Sn 0.7; LiSn: Sn 0.5 | model | [2] Li 2014 | Table 10, p. 9, row 24; `ORC-UOD5B25VHE.b5aa20` |  |
+| 746 | eutectic: L -> Li7Sn3 + LiSn | Li7Sn3: Sn 0.3; LiSn: Sn 0.5 | experimental | [2] Li 2014 | Table 10, p. 9, row 23; `ORC-UOD5B25VHE.d37a1b` |  |
+| 743.15 | eutectic: L -> Li7Sn3 + LiSn | L: Sn 0.3; Li7Sn3: Li 0.7, Sn 0.3; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Sommer 1982_ | Table 2, p. 3, row 23; `ORC-2IC5DXQ6P3` |  |
+| 743.15 | eutectic: L -> Li7Sn3 + LiSn | L: Sn 0.43; Li7Sn3: Li 0.7, Sn 0.3; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 21; `ORC-XZTE7AY2D6` |  |
 | 743 | eutectic: L \<-> Li7Sn3 + LiSn | Li7Sn3: Sn 0.3; LiSn: Sn 0.5 | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 17; `ORC-BFA5KYBD5U` |  |
-| 743 | L -> Li7Sn3 + LiSn | L: Sn 0.43; Li7Sn3: Sn 0.3; LiSn: Sn 0.5 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 22; `ORC-Z2B45MMAGQ` |  |
-| 742.15 | L -> Li7Sn3 + LiSn | L: Sn 0.43; Li7Sn3: Li 0.7, Sn 0.3; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Bailey 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990174-7) | Table 2, p. 3, row 22; `ORC-RBAGVFXWWO` |  |
-| 731.15 | L -> Li7Sn3 + LiSn | L: Sn 0.37; Li7Sn3: Li 0.7, Sn 0.3; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Masing 1910_ [doi](https://doi.org/10.1002/zaac.19100670114) | Table 2, p. 3, row 20; `ORC-CKVN62PKOL` |  |
-| 601 | peritectic: L + LiSn -> Li2Sn5 |  | experimental | [2] Li 2014 | p. 6; `ORC-2DLLIDN4AB` | “The sample Li40 Sn60 shows an extended peak with an onset at 601 K, corresponding to the peritectic reaction L þ LiSn2Li2 Sn5 .” |
+| 743 | eutectic: L -> Li7Sn3 + LiSn | L: Sn 0.43; Li7Sn3: Sn 0.3; LiSn: Sn 0.5 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 22; `ORC-Z2B45MMAGQ` |  |
+| 742.15 | eutectic: L -> Li7Sn3 + LiSn | L: Sn 0.43; Li7Sn3: Li 0.7, Sn 0.3; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Bailey 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990174-7) | Table 2, p. 3, row 22; `ORC-RBAGVFXWWO` |  |
+| 731.15 | eutectic: L -> Li7Sn3 + LiSn | L: Sn 0.37; Li7Sn3: Li 0.7, Sn 0.3; LiSn: Li 0.5, Sn 0.5 | experimental | [1] Yin 2005; _cites Masing 1910_ [doi](https://doi.org/10.1002/zaac.19100670114) | Table 2, p. 3, row 20; `ORC-CKVN62PKOL` |  |
 | 600 | peritectic: L + LiSn \<-> Li2Sn5 | LiSn: Sn 0.5; Li2Sn5: Sn 0.714286 | experimental | [2] Li 2014 | Table 8, p. 6, row 22; `ORC-5BVRTHJ7RI` |  |
 | 600 | L + LiSn -> Li2Sn5 | LiSn: Sn 0.5; Li2Sn5: Sn 0.714286 | experimental | [2] Li 2014 | Table 10, p. 9, row 29; `ORC-W5OP32PL6L` |  |
 | 599.15 | L + LiSn -> Li2Sn5 | L: Sn 0.78; LiSn: Li 0.5, Sn 0.5; Li2Sn5: Li 0.285714, Sn 0.714286 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 30; `ORC-WNEZMI22TB` |  |
@@ -163,22 +154,21 @@ Table: Invariant reactions reported in the literature for the Li–Sn system (81
 | 593 | L + LiSn -> Li2Sn5 | LiSn: Sn 0.5; Li2Sn5: Sn 0.714 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 28; `ORC-UCTZBPNXGG` |  |
 | 592.15 | L + LiSn -> Li2Sn5 | L: Sn 0.765; LiSn: Li 0.5, Sn 0.5; Li2Sn5: Li 0.285714, Sn 0.714286 | experimental | [1] Yin 2005; _cites Masing 1910_ [doi](https://doi.org/10.1002/zaac.19100670114) | Table 2, p. 3, row 29; `ORC-E75GWDOWAW` |  |
 | 580.15 | L + LiSn -> Li2Sn5 | L: Sn 0.738; LiSn: Li 0.5, Sn 0.5; Li2Sn5: Li 0.285714, Sn 0.714286 | model | [1] Yin 2005 | Table 2, p. 3, row 28; `ORC-Y4DFNUKGYJ` |  |
-| 495.65 | L -> Li2Sn5 + (βSn) | L: Sn 0.966; Li2Sn5: Li 0.285714, Sn 0.714286 | model | [1] Yin 2005 | Table 2, p. 3, row 31; `ORC-QKJBELNURB` |  |
-| 495.15 | L -> Li2Sn5 + (βSn) | L: Sn 0.95; Li2Sn5: Li 0.285714, Sn 0.714286 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 33; `ORC-723MYDSUWD` |  |
-| 487.15 | L -> Li2Sn5 + (βSn) | L: Sn 0.95; Li2Sn5: Li 0.285714, Sn 0.714286 | experimental | [1] Yin 2005; _cites Masing 1910_ [doi](https://doi.org/10.1002/zaac.19100670114) | Table 2, p. 3, row 32; `ORC-UMXDBI6S2J` |  |
+| 495.65 | eutectic: L -> Li2Sn5 + (βSn) | L: Sn 0.966; Li2Sn5: Li 0.285714, Sn 0.714286 | model | [1] Yin 2005 | Table 2, p. 3, row 31; `ORC-QKJBELNURB` |  |
+| 495.15 | eutectic: L -> Li2Sn5 + (βSn) | L: Sn 0.95; Li2Sn5: Li 0.285714, Sn 0.714286 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 33; `ORC-723MYDSUWD` |  |
+| 487.15 | eutectic: L -> Li2Sn5 + (βSn) | L: Sn 0.95; Li2Sn5: Li 0.285714, Sn 0.714286 | experimental | [1] Yin 2005; _cites Masing 1910_ [doi](https://doi.org/10.1002/zaac.19100670114) | Table 2, p. 3, row 32; `ORC-UMXDBI6S2J` |  |
 | 487 | eutectic: L \<-> Li2Sn5 + (βSn) | Li2Sn5: Sn 0.714286; (βSn): Sn 1 | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 23; `ORC-D2YDYOJL4C` |  |
-| 487 | L -> Li2Sn5 + (βSn) | L: Sn 0.95; Li2Sn5: Sn 0.714; (βSn): Sn 1 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 31; `ORC-OPVXPVM6A7` |  |
-| 476 | L -> Li2Sn5 + (βSn) | L: Sn 0.946; Li2Sn5: Sn 0.714; (βSn): Sn 1 | model | [2] Li 2014 | Table 10, p. 9, row 32; `ORC-DN33WRER5J` |  |
-| 456.45 | L -> (βLi) + Li22Sn5 | L: Sn 4.000e-5; Li22Sn5: Li 0.814815, Sn 0.185185 | experimental | [1] Yin 2005; _cites Sommer 1982_ | Table 2, p. 3, row 4; `ORC-TMCFFFFYJN` |  |
-| 455 | L -> (βLi) + Li17Sn4 | Li17Sn4: Sn 0.190476 | experimental | [2] Li 2014 | Table 10, p. 9, row 2; `ORC-NESUOHX7T6` |  |
-| 454 | eutectic |  | model | [2] Li 2014 | p. 14; `ORC-ADRORN5EK4` | “This reference sample enters the L þ Li17 Sn4 two phase field above the invariant temperature of the eutectic reaction at 454 K and the apex of the broadened melting peak corresponds to the liquidus temperature for the Li81:5 Sn18:5 composition.” |
-| 454 | L -> (βLi) + Li17Sn4 | L: Sn 0; (βLi): Sn 0; Li17Sn4: Sn 0.185 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 1; `ORC-DEDX2TGUYK` |  |
-| 454 | L -> (βLi) + Li17Sn4 | L: Sn 0; (βLi): Sn 0; Li17Sn4: Sn 0.19 | model | [2] Li 2014 | Table 10, p. 9, row 3; `ORC-WMGXPO3X33` |  |
+| 487 | eutectic: L -> Li2Sn5 + (βSn) | L: Sn 0.95; Li2Sn5: Sn 0.714; (βSn): Sn 1 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 31; `ORC-OPVXPVM6A7` |  |
+| 476 | eutectic: L -> Li2Sn5 + (βSn) | L: Sn 0.946; Li2Sn5: Sn 0.714; (βSn): Sn 1 | model | [2] Li 2014 | Table 10, p. 9, row 32; `ORC-DN33WRER5J` |  |
+| 456.45 | eutectic: L -> (βLi) + Li22Sn5 | L: Sn 4.000e-5; Li22Sn5: Li 0.814815, Sn 0.185185 | experimental | [1] Yin 2005; _cites Sommer 1982_ | Table 2, p. 3, row 4; `ORC-TMCFFFFYJN` |  |
+| 455 | eutectic: L -> (βLi) + Li17Sn4 | Li17Sn4: Sn 0.190476 | experimental | [2] Li 2014 | Table 10, p. 9, row 2; `ORC-NESUOHX7T6` |  |
+| 454 | eutectic: L -> (βLi) + Li17Sn4 | L: Sn 0; (βLi): Sn 0; Li17Sn4: Sn 0.185 | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 1; `ORC-DEDX2TGUYK` |  |
+| 454 | eutectic: L -> (βLi) + Li17Sn4 | L: Sn 0; (βLi): Sn 0; Li17Sn4: Sn 0.19 | model | [2] Li 2014 | Table 10, p. 9, row 3; `ORC-WMGXPO3X33` |  |
 | 453.8 | other: L \<-> (βLi) + Li17Sn4 | Li17Sn4: Sn 0.190476 | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 3; `ORC-FSYSDK5WY6` |  |
 | 453.6 | other: L \<-> (βLi) + Li17Sn4 | Li17Sn4: Sn 0.190476 | experimental | [2] Li 2014 | Table 8, p. 6, row 4; `ORC-6NF5NFIVD5` |  |
-| 453.15 | L -> (βLi) + Li22Sn5 | L: Sn 8.000e-4; Li22Sn5: Li 0.814815, Sn 0.185185 | model | [1] Yin 2005 | Table 2, p. 3, row 1; `ORC-QSULM54HOR` |  |
-| 452.15 | L -> (βLi) + Li22Sn5 | L: Sn 0; Li22Sn5: Li 0.814815, Sn 0.185185 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 3; `ORC-QPXOUTW2VZ` |  |
-| 448.15 | L -> (βLi) + Li22Sn5 | L: Sn 0; Li22Sn5: Li 0.814815, Sn 0.185185 | experimental | [1] Yin 2005; _cites Masing 1910_ [doi](https://doi.org/10.1002/zaac.19100670114) | Table 2, p. 3, row 2; `ORC-DZ5XCWG5JW` |  |
+| 453.15 | eutectic: L -> (βLi) + Li22Sn5 | L: Sn 8.000e-4; Li22Sn5: Li 0.814815, Sn 0.185185 | model | [1] Yin 2005 | Table 2, p. 3, row 1; `ORC-QSULM54HOR` |  |
+| 452.15 | eutectic: L -> (βLi) + Li22Sn5 | L: Sn 0; Li22Sn5: Li 0.814815, Sn 0.185185 | experimental | [1] Yin 2005; _cites Grube 1934_ | Table 2, p. 3, row 3; `ORC-QPXOUTW2VZ` |  |
+| 448.15 | eutectic: L -> (βLi) + Li22Sn5 | L: Sn 0; Li22Sn5: Li 0.814815, Sn 0.185185 | experimental | [1] Yin 2005; _cites Masing 1910_ [doi](https://doi.org/10.1002/zaac.19100670114) | Table 2, p. 3, row 2; `ORC-DZ5XCWG5JW` |  |
 
 ## Formation enthalpies
 
@@ -227,15 +217,13 @@ Table: Enthalpies of formation, Li–Sn system (36)
 
 ## Other properties
 
-### Phase transition (43)
+### Phase transition (33)
 
 Table: Phase transition, Li–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 453.6 K | 453.6 | congruent melting: L \<-> (βLi) | experimental | [2] Li 2014 | Table 8, p. 6, row 2; `ORC-RRSHXNMQXD` |  |
-| Phase transition | 453.69 K | 453.69 |  | experimental | [2] Li 2014; _cites Emsley 1989_ | p. 5; `ORC-KZN2J3SYOJ.176658` | “This seemingly contradicts the postulated eutectic reaction "L2 β Li þ Li17 Sn4 " because the melting point of pure lithium was determined here to be 453.7 K (literature 453.69 K \[51\]).” |
-| Phase transition | 453.7 K | 453.7 |  | experimental | [2] Li 2014 | p. 5; `ORC-KZN2J3SYOJ.36d86e` | “This seemingly contradicts the postulated eutectic reaction "L2 β Li þ Li17 Sn4 " because the melting point of pure lithium was determined here to be 453.7 K (literature 453.69 K \[51\]).” |
 | Phase transition | 453.8 K | 453.8 | congruent melting: L \<-> (βLi) | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 1; `ORC-IGUYSRC3X3` |  |
 | Phase transition | 454.8 K | 454.8 | other: Li₉₆Sn₀₄; _alloy: Li 0.96, Sn 0.04_ | experimental | [2] Li 2014 | Table 7, p. 5, row 15; `ORC-LOWORYU6XL` |  |
 | Phase transition | 455.1 K | 455.1 | other: Li₈₄Sn₁₆; _alloy: Li 0.84, Sn 0.16_ | experimental | [2] Li 2014 | Table 7, p. 5, row 20; `ORC-JD3F6OF3T6` |  |
@@ -243,7 +231,6 @@ Table: Phase transition, Li–Sn system
 | Phase transition | 456.5 K | 456.5 | other: Li₉₂Sn₀₈; _alloy: Li 0.92, Sn 0.08_ | experimental | [2] Li 2014 | Table 7, p. 5, row 17; `ORC-HACVGKULRB` |  |
 | Phase transition | 505.05 K | 505.05 | congruent melting: L \<-> (βSn); _(βSn): Sn 1_ | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 24; `ORC-HZS6GTRT3W` |  |
 | Phase transition | 598.4 K | 598.4 | other: Li₅₀Sn₅₀; _alloy: Li 0.5, Sn 0.5_ | experimental | [2] Li 2014 | Table 7, p. 5, row 28; `ORC-LVCLK7A6AJ` |  |
-| Phase transition | 722.6 K | 722.6 | other | experimental | [2] Li 2014 | p. 6; `ORC-T2UE5LVGIN` | “The peak maximum of 722.6 K is related to the liquidus temperature, which well agrees with this of Sangster et al. \[15\].” |
 | Phase transition | 746.4 K | 746.4 | other: Li₆₀Sn₄₀; _alloy: Li 0.6, Sn 0.4_ | experimental | [2] Li 2014 | Table 7, p. 5, row 27; `ORC-ARZJTALBB5` |  |
 | Phase transition | 759 K | 759 | L -> LiSn; _L: Sn 0.5; LiSn: Sn 0.5_ | experimental | [2] Li 2014 | Table 10, p. 9, row 26; `ORC-33HWD7L4Q2` |  |
 | Phase transition | 759 K | 759 | congruent melting: L \<-> LiSn; _L: Sn 0.5; LiSn: Sn 0.5_ | experimental | [2] Li 2014 | Table 8, p. 6, row 20; `ORC-O2PSZ2O6HV` |  |
@@ -253,12 +240,8 @@ Table: Phase transition, Li–Sn system
 | Phase transition | 760 K | 760 | congruent melting: L \<-> LiSn; _L: Sn 0.5; LiSn: Sn 0.5_ | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 19; `ORC-IWEEAJ7LIR` |  |
 | Phase transition | 833.2 K | 833.2 | other: Li₇₉Sn₂₁; _alloy: Li 0.79, Sn 0.21_ | experimental | [2] Li 2014 | Table 7, p. 5, row 23; `ORC-SAL7Y5FFOH` |  |
 | Phase transition | 972.1 K | 972.1 | other: Li₇₁Sn₂₉; _alloy: Li 0.71, Sn 0.29_ | experimental | [2] Li 2014 | Table 7, p. 5, row 26; `ORC-3PRLBBB2OY` |  |
-| Phase transition | 989 K | 989 |  | experimental | [2] Li 2014; _cites Bailey 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990174-7) | p. 6; `ORC-SEYCIAOSKO` | “Bailey et al. \[16\] assigned the invariant reaction temperature as 989 K by taking the "average value from two to four heating and cooling cycles" \[16\].” |
-| Phase transition | 989 K | 989 | L + Li7Sn2 -> Li13Sn5 | experimental | [2] Li 2014; _cites Grube 1934_ | p. 6; `ORC-HZNLFJ32R2` | “The temperature for the invariant reaction L þLi7 Sn2 2Li13 Sn5 is given as 989 K in the critical evaluation of Sangster \[15\] which is based on the work of two original articles \[12,16\].” |
-| Phase transition | 993 K | 993 | L + Li7Sn2 -> Li13Sn5 | experimental | [2] Li 2014; _cites Grube 1934_ | p. 6; `ORC-63LI23AEHI` | “Grube and Meyer \[12\] suggest an invariant temperature of 993 K from their results, which were obtained by recording cooling curves.” |
 | Phase transition | 996.7 K | 996.7 | other: Li₇₂.₂Sn₂₇.₈; _alloy: Li 0.722, Sn 0.278_ | experimental | [2] Li 2014 | Table 7, p. 5, row 25; `ORC-FZ4CFBU3CO` |  |
 | Phase transition | 996.9 K | 996.9 | other: Li₇₄Sn₂₆; _alloy: Li 0.74, Sn 0.26_ | experimental | [2] Li 2014 | Table 7, p. 5, row 24; `ORC-DGE6PVA4CS` |  |
-| Phase transition | 997 K | 997 |  | experimental | [2] Li 2014 | p. 6; `ORC-YE2AQORGDJ` | “This reaction was re-investigated and our results give an invariant temperature of 997 K based on the measurements performed on the three samples Li74 Sn26 , Li72:2 Sn27:8 and Li71 Sn29 (see Fig. 4(b)).” |
 | Phase transition | 1024.6 K | 1024.6 | other: Li₈₁.₅Sn₁₈.₅; _alloy: Li 0.815, Sn 0.185_ | experimental | [2] Li 2014 | Table 7, p. 5, row 21; `ORC-D2EMQVCGDC` |  |
 | Phase transition | 1029.8 K | 1029.8 | other: Li₈₀Sn₂₀; _alloy: Li 0.8, Sn 0.2_ | experimental | [2] Li 2014 | Table 7, p. 5, row 22; `ORC-WHUEZXEO34` |  |
 | Phase transition | 1031 K | 1031 | L -> Li17Sn4; _L: Sn 0.185; Li17Sn4: Sn 0.185_ | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 4; `ORC-LMLR7WYLZA` |  |
@@ -268,14 +251,11 @@ Table: Phase transition, Li–Sn system
 | Phase transition | 1031 K | 1031 | congruent melting: L \<-> Li17Sn4; _L: Sn 0.190476; Li17Sn4: Sn 0.190476_ | experimental | [2] Li 2014 | Table 8, p. 6, row 6; `ORC-OYE5P7O5VG` |  |
 | Phase transition | 1031 K | 1031 | congruent transformation | model | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | p. 6; `ORC-65TVXQSNZR.b7e7f4` | “The congruent melting of Li17Sn4, which was reported to be at 1031 K \[15\], was found at 1031.4 K.” |
 | Phase transition | 1031.4 K | 1031.4 | congruent transformation | experimental | [2] Li 2014 | p. 6; `ORC-65TVXQSNZR.5b58d7` | “The congruent melting of Li17Sn4, which was reported to be at 1031 K \[15\], was found at 1031.4 K.” |
-| Phase transition | 1031.5 K | 1031.5 | other | experimental | [2] Li 2014 | p. 6; `ORC-HTOHV24IMF.b34e18` | “However, the samples Li79 Sn21 and Li74 Sn26 show a liquidus temperature of 1042.2 K and 1031.5 K, respectively.” |
-| Phase transition | 1042.2 K | 1042.2 | other | experimental | [2] Li 2014 | p. 6; `ORC-HTOHV24IMF.b07ad8` | “However, the samples Li79 Sn21 and Li74 Sn26 show a liquidus temperature of 1042.2 K and 1031.5 K, respectively.” |
 | Phase transition | 1052 K | 1052 | L -> Li7Sn2; _L: Sn 0.222222; Li7Sn2: Sn 0.222222_ | experimental | [2] Li 2014 | Table 10, p. 9, row 11; `ORC-MQ6BOSUJBN` |  |
 | Phase transition | 1056 K | 1056 | L -> Li7Sn2; _L: Sn 0.234; Li7Sn2: Sn 0.234_ | model | [2] Li 2014 | Table 10, p. 9, row 12; `ORC-UC36TVBFKK` |  |
 | Phase transition | 1056 K | 1056 | L -> Li7Sn2; _L: Sn 0.222; Li7Sn2: Sn 0.222_ | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 10; `ORC-ZNMSZ7INHQ` |  |
 | Phase transition | 1056 K | 1056 | congruent melting: L \<-> Li17Sn4; _L: Sn 0.190476; Li17Sn4: Sn 0.190476_ | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 9; `ORC-I24MBRL6DQ` |  |
 | Phase transition | 1056 K | 1056 | congruent melting: L \<-> Li17Sn4; _L: Sn 0.190476; Li17Sn4: Sn 0.190476_ | experimental | [2] Li 2014 | Table 8, p. 6, row 10; `ORC-TYPR4KDD2M` |  |
-| Phase transition | 1056 K | 1056 | congruent transformation | model | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | p. 6; `ORC-WM353VXE57` | “Therefore the congruent melting point of 1056 K taken from the literature \[15\] was maintained.” |
 
 ### Phase equilibrium (28)
 

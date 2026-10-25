@@ -1,10 +1,10 @@
 # H–V system
 
-> H–V system: 3 accepted literature values (formation 1, crystal structure 1, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–V system: 2 accepted literature values (formation 1, crystal structure 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-V.html · Markdown: https://data.orchid-project.org/systems/H-V.md
 
-3 accepted literature values from 1 paper(s) (experimental 1, model 2); 0 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (model 2); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-V.json) · [CSV](https://data.orchid-project.org/systems/H-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-V) · [phases (10)](https://data.orchid-project.org/phases/pages/H-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-V.html) · [Markdown](https://data.orchid-project.org/systems/H-V.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
 | model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
 | formation | 1 |
 | crystal structure | 1 |
 
@@ -36,14 +34,6 @@ Table: Enthalpies of formation, H–V system (1)
 | δ-VH2 |  | -18.4 kJ/mol (basis unstated) | 0 | model |  |  | [1] Ukita 2008 | Table 2, p. 3, row 1; `ORC-C3QQQXHLGR` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, H–V system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 223 K | 223 |  | experimental | [1] Ukita 2008 | p. 1; `ORC-USF26AF27R` | “The low-temperature transformation around 223 K in the 1 phase results in the V3 H2 phase with a monoclinic structure.” |
 
 ### Crystal structure (1)
 

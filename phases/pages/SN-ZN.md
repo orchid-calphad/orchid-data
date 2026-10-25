@@ -79,7 +79,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zn:a5-bct)
 
 Names (8): _corpus: _corpus:phase:sn-zn:a5-bct, corpus:phase:sn-zn:bct-a5  
-_paper: _paper:10.1007/bf02667882:(Sn), paper:10.1016/s0364-5916(98)00037-6:bct-A5  
+_paper: _paper:10.1007/bf02667882:(Sn), paper:sha256-85fd53a1a176b694:bct-A5  
 _tdb: _tdb:SnZn-93Sri.tdb:BCT_A5, tdb:SnZn-96Lee.tdb:BCT_A5, tdb:SnZn-98Fri-LB.tdb:BCT_A5, tdb:SnZn-99Oht.tdb:BCT_A5  
 
 
@@ -113,7 +113,7 @@ _tdb: _tdb:SnZn-93Sri.tdb:BCT_A5, tdb:SnZn-96Lee.tdb:BCT_A5, tdb:SnZn-98Fri-LB.t
 49: CONST BCT_A5 : SN% ZN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/BF02667882](https://doi.org/10.1007/BF02667882) M. Srivastava, R.C. Sharma, J. Phase Equilib., 14, 700-709(1993).  
 _assessment that models this phase; reports values for this phase_
@@ -121,8 +121,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.2320/jinstmet1952.63.6_685](https://doi.org/10.2320/jinstmet1952.63.6_685) Hiroshi Ohtani, Masamitsu Miyashita, Kiyohito Ishida, Thermodynamic Study of Phase Equilibria in the Sn-Ag-Zn System, J.Japan Inst.Metals 63, 685-694 (1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_A2 (Sn–Zn)
 
@@ -235,7 +233,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zn:hcp-a3)
 
 Names (7): _corpus: _corpus:phase:sn-zn:hcp-a3  
-_paper: _paper:10.1007/bf02667882:(Zn), paper:10.1016/s0364-5916(98)00037-6:hcp-Zn  
+_paper: _paper:10.1007/bf02667882:(Zn), paper:sha256-85fd53a1a176b694:hcp-Zn  
 _tdb: _tdb:SnZn-93Sri.tdb:HCP_A3, tdb:SnZn-96Lee.tdb:HCP_A3, tdb:SnZn-98Fri-LB.tdb:HCP_A3, tdb:SnZn-99Oht.tdb:HCP_A3  
 
 
@@ -269,7 +267,7 @@ _tdb: _tdb:SnZn-93Sri.tdb:HCP_A3, tdb:SnZn-96Lee.tdb:HCP_A3, tdb:SnZn-98Fri-LB.t
 39: CONST HCP_A3 : SN ZN% : VA: !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/BF02667882](https://doi.org/10.1007/BF02667882) M. Srivastava, R.C. Sharma, J. Phase Equilib., 14, 700-709(1993).  
 _assessment that models this phase; reports values for this phase_
@@ -277,8 +275,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.2320/jinstmet1952.63.6_685](https://doi.org/10.2320/jinstmet1952.63.6_685) Hiroshi Ohtani, Masamitsu Miyashita, Kiyohito Ishida, Thermodynamic Study of Phase Equilibria in the Sn-Ag-Zn System, J.Japan Inst.Metals 63, 685-694 (1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Sn–Zn)
 
@@ -289,7 +285,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zn:liquid)
 
 Names (7): _corpus: _corpus:phase:sn-zn:liquid  
-_paper: _paper:10.1007/bf02667882:L, paper:10.1016/s0364-5916(98)00037-6:L  
+_paper: _paper:10.1007/bf02667882:L, paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:SnZn-93Sri.tdb:LIQUID, tdb:SnZn-96Lee.tdb:LIQUID, tdb:SnZn-98Fri-LB.tdb:LIQUID, tdb:SnZn-99Oht.tdb:LIQUID  
 
 
@@ -323,7 +319,7 @@ _tdb: _tdb:SnZn-93Sri.tdb:LIQUID, tdb:SnZn-96Lee.tdb:LIQUID, tdb:SnZn-98Fri-LB.t
 24: CONST LIQUID:L : SN ZN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/BF02667882](https://doi.org/10.1007/BF02667882) M. Srivastava, R.C. Sharma, J. Phase Equilib., 14, 700-709(1993).  
 _assessment that models this phase; reports values for this phase_
@@ -331,8 +327,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.2320/jinstmet1952.63.6_685](https://doi.org/10.2320/jinstmet1952.63.6_685) Hiroshi Ohtani, Masamitsu Miyashita, Kiyohito Ishida, Thermodynamic Study of Phase Equilibria in the Sn-Ag-Zn System, J.Japan Inst.Metals 63, 685-694 (1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

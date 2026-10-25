@@ -38,12 +38,12 @@ Table: Uncertainty budget of the literature values of GeO2
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -574 | kJ/mol (basis unstated) |  | 0.05 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
-| -556 | kJ/mol (basis unstated) | 8 | 0.05 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -556 | kJ/mol (basis unstated) | 8 | 0.05 | 9.6 (solution_reaction_calorimetry, calibrated) |  |  |  | 9.6 |
 | -556 | kJ/mol (basis unstated) | 5 | 0.05 | 10.5 (equilibration_other, calibrated) |  |  |  | 10.5 |
 | -555.4 | kJ/mol (basis unstated) | 2 | 0.05 | 10.5 (equilibration_other, calibrated) |  |  |  | 10.5 |
 | -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |
 | -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
-| -553 | kJ/mol (basis unstated) | 5 | 0.05 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -553 | kJ/mol (basis unstated) | 5 | 0.05 | 9.6 (solution_reaction_calorimetry, calibrated) |  |  |  | 9.6 |
 | -540.1 | kJ/mol (basis unstated) |  | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |
 | -538 | kJ/mol (basis unstated) |  | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |
 | -536 | kJ/mol (basis unstated) |  | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |

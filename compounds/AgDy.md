@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of AgDy
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -37.3 | kJ/mol-atom | 1.8 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -44 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -32.812 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -32.812 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

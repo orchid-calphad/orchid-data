@@ -1,10 +1,10 @@
 # Ni–Ru system
 
-> Ni–Ru system: 5 accepted literature values (formation 4, invariant reaction 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Ru system: 4 accepted literature values (formation 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-RU.html · Markdown: https://data.orchid-project.org/systems/NI-RU.md
 
-5 accepted literature values from 2 paper(s) (experimental 1, DFT 4); 3 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (DFT 4); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-RU.json) · [CSV](https://data.orchid-project.org/systems/NI-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-RU/NiRu-01Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/NI-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-RU.html) · [Markdown](https://data.orchid-project.org/systems/NI-RU.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
 | DFT | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | formation | 4 |
 
 ## Calculated phase diagrams
@@ -44,14 +42,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/NI/NI-RU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/NI/NI-RU.json) · [CALPHAD hull NiRu-01Che-LB](https://data.orchid-project.org/hulls/calphad-sgte/NI/NI-RU--NiRu-01Che-LB.json) · [CALPHAD hull NiRu-04Hal](https://data.orchid-project.org/hulls/calphad-sgte/NI/NI-RU--NiRu-04Hal.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ni–Ru system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1763.15 | peritectic |  | experimental | [1] Hallström 2004; _cites Raub 1961_ | p. 1; `ORC-I5HRNZMMAC` | “Raub and Menzel\[7\] reported the peritectic temperature to be 1490 °C, whereas Kornilov and Myasnikova\[8\] reported 1550 ± 10 °C.” |
-
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
@@ -60,17 +50,16 @@ Table: Enthalpies of formation, Ni–Ru system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni2Ru2 |  | 14.6 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 4; `ORC-UKEBJMLR64` |  |
-| Ni3Ru |  | 17.56 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 3; `ORC-EEJVYGIGY3` |  |
-| NiRu |  | 25.35 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 6; `ORC-22FCDAQURR` |  |
-| NiRu3 |  | 13.8 kJ/mol-atom | 0 | DFT |  |  | [2] Hallström 2008 | Table A.1, p. 7, row 5; `ORC-ZC5QIC3EQM` |  |
+| Ni2Ru2 |  | 14.6 kJ/mol-atom | 0 | DFT |  |  | [1] Hallström 2008 | Table A.1, p. 7, row 4; `ORC-UKEBJMLR64` |  |
+| Ni3Ru |  | 17.56 kJ/mol-atom | 0 | DFT |  |  | [1] Hallström 2008 | Table A.1, p. 7, row 3; `ORC-EEJVYGIGY3` |  |
+| NiRu |  | 25.35 kJ/mol-atom | 0 | DFT |  |  | [1] Hallström 2008 | Table A.1, p. 7, row 6; `ORC-22FCDAQURR` |  |
+| NiRu3 |  | 13.8 kJ/mol-atom | 0 | DFT |  |  | [1] Hallström 2008 | Table A.1, p. 7, row 5; `ORC-ZC5QIC3EQM` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Samuel Hallström, Thermodynamic Assessment of the Ni-Ru System, Journal of Phase Equilibria &amp; Diffusion 25, 252-254 (2004). [doi:10.1361/15477030419504](https://doi.org/10.1361/15477030419504)
-2. Samuel Hallström, David Andersson, Andrei Ruban, John Ågren, Thermodynamic reassessment of the Ni–Ru system and assessment of the Al–Ni–Ru system at 1273–1523 K using ab initio calculations, Acta Materialia 56, 4062-4069 (2008). [doi:10.1016/j.actamat.2008.04.028](https://doi.org/10.1016/j.actamat.2008.04.028)
+1. Samuel Hallström, David Andersson, Andrei Ruban, John Ågren, Thermodynamic reassessment of the Ni–Ru system and assessment of the Al–Ni–Ru system at 1273–1523 K using ab initio calculations, Acta Materialia 56, 4062-4069 (2008). [doi:10.1016/j.actamat.2008.04.028](https://doi.org/10.1016/j.actamat.2008.04.028)
 
 ## Please cite
 

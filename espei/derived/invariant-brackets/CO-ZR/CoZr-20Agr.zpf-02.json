@@ -192,7 +192,7 @@
     "x0": 0.095,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (βCo) + Co11Zr2",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -249,7 +249,7 @@
     "x0": 0.47,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Co2Zr + CoZr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

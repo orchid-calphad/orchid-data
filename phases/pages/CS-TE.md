@@ -26,7 +26,7 @@ Table: Phases of the Cs–Te system (15)
 | [GAS](#phase-cs-te-gas); _phase:cs-te:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 942.38–2500 K, x(Te) 0–1 | 0 | 1 |
 | [HCP_A3](#phase-cs-te-hcp-a3); _phase:cs-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [ION](#phase-cs-te-ion); _phase:cs-te:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 301.33–2090 K, x(Te) 0–1 | 0 | 1 |
-| [LIQUID](#phase-cs-te-liquid); _phase:cs-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 430–2100 K, x(Te) 0.01–0.99988 | 8 | 1 |
+| [LIQUID](#phase-cs-te-liquid); _phase:cs-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 430–2100 K, x(Te) 0.01–0.99988 | 9 | 1 |
 
 ## HEXAGONAL_A8 (Cs–Te)
 
@@ -448,11 +448,11 @@ _assessment that models this phase_
 - Id: `phase:cs-te:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 430–2100 K, x(Te) 0.01–0.99988
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-te:liquid)
 
-Names (3): _corpus: _corpus:phase:cs-te:liquid  
-_paper: _paper:10.1016/j.calphad.2014.10.006:L  
+Names (4): _corpus: _corpus:phase:cs-te:liquid  
+_paper: _paper:10.1016/j.calphad.2014.10.006:L, paper:10.1016/j.calphad.2014.10.006:liquid  
 _tdb: _tdb:CsTe-15Pha.tdb:LIQUID  
 
 
@@ -465,10 +465,12 @@ _tdb: _tdb:CsTe-15Pha.tdb:LIQUID
 44: CONST LIQUID:L : CS CS2TE TE : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.10.006](https://doi.org/10.1016/j.calphad.2014.10.006) T.-N. Pham Thi, J.-C. Dumas, V. Bouineau, N. Dupin, C. Guéneau, S. Gossé et al., Thermodynamic assessment of the Cs–Te binary system, Calphad 48, 1-12 (2015).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1002/zaac.19372310306](https://doi.org/10.1002/zaac.19372310306) Alfred Bergmann, Über die Darstellung und Eigenschaften von Caesium‐und Rubidium‐Sulfid, Selenid und Tellurid, Z. Anorg. Allg. Chem. 231, 269-280 (1937).  
+_cited as the source of values for this phase_
 
 ## Please cite
 

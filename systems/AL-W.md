@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-W.html · Markdown: https://data.orchid-project.org/systems/AL-W.md
 
-34 accepted literature values from 2 paper(s) (experimental 5, model 10, DFT 8, unspecified 11); 2 calculated phase diagram(s).
+34 accepted literature values from 2 paper(s) (experimental 5, model 21, DFT 8); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-W.json) · [CSV](https://data.orchid-project.org/systems/AL-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-W/AlW-17Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AL-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-W.html) · [Markdown](https://data.orchid-project.org/systems/AL-W.md)
 
@@ -13,9 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 5 |
-| model | 10 |
+| model | 21 |
 | DFT | 8 |
-| unspecified | 11 |
 
 Table: Accepted values by property group
 
@@ -88,29 +87,29 @@ Table: Invariant reactions reported in the literature for the Al–W system (26)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1925.7 | peritectic: Liquid + bcc-A2 -> Al2W | Liquid: W 0.243; bcc-A2: W 0.901; Al2W: W 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 3; `ORC-3GIRE2WBRO` |  |
+| 1925.7 | peritectic: Liquid + bcc-A2 -> Al2W | Liquid: W 0.243; bcc-A2: W 0.901; Al2W: W 0.333 | model | [1] (ed.) 1998 | Table I, p. 123, row 3; `ORC-3GIRE2WBRO` |  |
 | 1925.7 | Liq + (W) -> Al2W | Al2W: W 0.333333 | model | [2] Wang 2017; _cites ref. 17_ | Table 10, p. 52, row 2; `ORC-ZXHZBDRKWS` |  |
 | 1925.6 | Liq + (W) -> Al2W | Al2W: W 0.333333 | model | [2] Wang 2017 | Table 10, p. 52, row 1; `ORC-RL7FCWNKPD` |  |
 | 1923.2 | Liq + (W) -> Al2W | Al2W: W 0.333333 | experimental | [2] Wang 2017; _cites ref. 63_ | Table 10, p. 52, row 3; `ORC-YWMUDO7XMG` |  |
-| 1850.5 | congruent melting: Al8W3 -> Liquid | Al8W3: W 0.273; Liquid: W 0.273 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 11; `ORC-T3OVDARYIB` |  |
-| 1706.8 | peritectic: Liquid + Al2W -> Al7W3 | Liquid: W 0.19; Al2W: W 0.333; Al7W3: W 0.3 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 2; `ORC-WL5AGKGTQY` |  |
+| 1850.5 | congruent melting: Al8W3 -> Liquid | Al8W3: W 0.273; Liquid: W 0.273 | model | [1] (ed.) 1998 | Table I, p. 123, row 11; `ORC-T3OVDARYIB` |  |
+| 1706.8 | peritectic: Liquid + Al2W -> Al7W3 | Liquid: W 0.19; Al2W: W 0.333; Al7W3: W 0.3 | model | [1] (ed.) 1998 | Table I, p. 123, row 2; `ORC-WL5AGKGTQY` |  |
 | 1648.2 | Liq + Al2W -> Al4W | Al2W: W 0.333333; Al4W: W 0.2 | model | [2] Wang 2017; _cites ref. 17_ | Table 10, p. 52, row 5; `ORC-4GNOOEHEXA` |  |
-| 1648.2 | peritectic: Liquid + Al7W3 -> Al77W23 | Liquid: W 0.172; Al7W3: W 0.3; Al77W23: W 0.23 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 4; `ORC-EWVVK7NQH3` |  |
+| 1648.2 | peritectic: Liquid + Al7W3 -> Al77W23 | Liquid: W 0.172; Al7W3: W 0.3; Al77W23: W 0.23 | model | [1] (ed.) 1998 | Table I, p. 123, row 4; `ORC-EWVVK7NQH3` |  |
 | 1621.9 | Liq + Al2W -> Al4W | Al2W: W 0.333333; Al4W: W 0.2 | model | [2] Wang 2017 | Table 10, p. 52, row 4; `ORC-467OXIQCH2` |  |
 | 1617 | Liq + Al2W -> Al4W | Al2W: W 0.333333; Al4W: W 0.2 | experimental | [2] Wang 2017; _cites ref. 63_ | Table 10, p. 52, row 6; `ORC-VGXP274SP6` |  |
-| 1604.1 | peritectic: Liquid + Al77W23 -> Al4W | Liquid: W 0.125; Al77W23: W 0.23; Al4W: W 0.2 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 5; `ORC-XKOUU3IM5Y` |  |
-| 1602.6 | eutectoid: Al2W -> Al7W3 + bcc-A2 | Al2W: W 0.333; Al7W3: W 0.3; bcc-A2: W 0.847 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 1; `ORC-LOCOPDQJJD` |  |
-| 1580 | eutectoid: Al77W23 + bcc-A2 -> Al7W3 | Al77W23: W 0.23; bcc-A2: W 0.841; Al7W3: W 0.3 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 7; `ORC-H5SVB6OQMD` |  |
-| 1571 | eutectoid: Al77W23 -> Al4W + bcc-A2 | Al77W23: W 0.023; Al4W: W 0.2; bcc-A2: W 0.84 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 6; `ORC-NSW5WIM233` |  |
+| 1604.1 | peritectic: Liquid + Al77W23 -> Al4W | Liquid: W 0.125; Al77W23: W 0.23; Al4W: W 0.2 | model | [1] (ed.) 1998 | Table I, p. 123, row 5; `ORC-XKOUU3IM5Y` |  |
+| 1602.6 | eutectoid: Al2W -> Al7W3 + bcc-A2 | Al2W: W 0.333; Al7W3: W 0.3; bcc-A2: W 0.847 | model | [1] (ed.) 1998 | Table I, p. 123, row 1; `ORC-LOCOPDQJJD` |  |
+| 1580 | eutectoid: Al77W23 + bcc-A2 -> Al7W3 | Al77W23: W 0.23; bcc-A2: W 0.841; Al7W3: W 0.3 | model | [1] (ed.) 1998 | Table I, p. 123, row 7; `ORC-H5SVB6OQMD` |  |
+| 1571 | eutectoid: Al77W23 -> Al4W + bcc-A2 | Al77W23: W 0.023; Al4W: W 0.2; bcc-A2: W 0.84 | model | [1] (ed.) 1998 | Table I, p. 123, row 6; `ORC-NSW5WIM233` |  |
 | 1199.7 | Al2W -> (W) + Al4W | Al2W: W 0.333333; Al4W: W 0.2 | model | [2] Wang 2017 | Table 10, p. 52, row 7; `ORC-QCMLQ2G7NR` |  |
-| 1149.6 | peritectic: Liquid + Al4W -> Al5W | Liquid: W 0.0025; Al4W: W 0.2; Al5W: W 0.167 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 8; `ORC-ES6VXY5UBU` |  |
+| 1149.6 | peritectic: Liquid + Al4W -> Al5W | Liquid: W 0.0025; Al4W: W 0.2; Al5W: W 0.167 | model | [1] (ed.) 1998 | Table I, p. 123, row 8; `ORC-ES6VXY5UBU` |  |
 | 1143.7 | Liq + Al4W -> Al5W | Al4W: W 0.2; Al5W: W 0.166667 | model | [2] Wang 2017 | Table 10, p. 52, row 8; `ORC-52UDGD7YIX` |  |
 | 1143.2 | Liq + Al4W -> Al5W | Al4W: W 0.2; Al5W: W 0.166667 | experimental | [2] Wang 2017; _cites ref. 63_ | Table 10, p. 52, row 9; `ORC-LQUQ6YDLZ4` |  |
 | 970.2 | Liq + Al5W -> Al12W | Al5W: W 0.166667; Al12W: W 0.0769231 | model | [2] Wang 2017 | Table 10, p. 52, row 10; `ORC-PCKS34DH6F` |  |
 | 970 | Liq + Al5W -> Al12W | Al5W: W 0.166667; Al12W: W 0.0769231 | experimental | [2] Wang 2017; _cites ref. 63_ | Table 10, p. 52, row 12; `ORC-YW525MKSA7` |  |
 | 969.5 | Liq + Al5W -> Al12W | Al5W: W 0.166667; Al12W: W 0.0769231 | model | [2] Wang 2017; _cites ref. 17_ | Table 10, p. 52, row 11; `ORC-NLYBI7WRIK` |  |
-| 969.4 | peritectic: Liquid + Al5W -> Al12W | Liquid: W 3.000e-4; Al5W: W 0.167; Al12W: W 0.077 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 9; `ORC-JMZG3CX66W` |  |
-| 933.6 | peritectic: Liquid + Al12W -> fcc-A | Liquid: W 2.000e-4; Al12W: W 0.077; fcc-A: W 3.000e-4 | unspecified | [1] Hämäläinen 1998 | Table I, p. 123, row 10; `ORC-6C5G4SWNPE` |  |
+| 969.4 | peritectic: Liquid + Al5W -> Al12W | Liquid: W 3.000e-4; Al5W: W 0.167; Al12W: W 0.077 | model | [1] (ed.) 1998 | Table I, p. 123, row 9; `ORC-JMZG3CX66W` |  |
+| 933.6 | peritectic: Liquid + Al12W -> fcc-A | Liquid: W 2.000e-4; Al12W: W 0.077; fcc-A: W 3.000e-4 | model | [1] (ed.) 1998 | Table I, p. 123, row 10; `ORC-6C5G4SWNPE` |  |
 | 933.6 | Liq + Al12W -> (Al) | Al12W: W 0.0769231 | model | [2] Wang 2017; _cites ref. 17_ | Table 10, p. 52, row 14; `ORC-FODEIVKCDH` |  |
 | 933.5 | Liq + Al12W -> (Al) | Al12W: W 0.0769231 | model | [2] Wang 2017 | Table 10, p. 52, row 13; `ORC-UGDZLFDDJT` |  |
 | 933 | Liq + Al12W -> (Al) | Al12W: W 0.0769231 | experimental | [2] Wang 2017; _cites ref. 63_ | Table 10, p. 52, row 15; `ORC-UDXMWONNOS` |  |
@@ -136,7 +135,7 @@ Table: Enthalpies of formation, Al–W system (8)
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017). [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007)
 
 ## Please cite

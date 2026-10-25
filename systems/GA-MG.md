@@ -1,10 +1,10 @@
 # Ga–Mg system
 
-> Ga–Mg system: 174 accepted literature values (invariant reaction 97, formation 25, activity / EMF / Gibbs energy 16, mixing / partial 16) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Mg system: 168 accepted literature values (invariant reaction 94, formation 25, activity / EMF / Gibbs energy 16, mixing / partial 16) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-MG.html · Markdown: https://data.orchid-project.org/systems/GA-MG.md
 
-174 accepted literature values from 3 paper(s) (experimental 90, model 75, unspecified 9); 4 calculated phase diagram(s).
+168 accepted literature values from 3 paper(s) (experimental 89, model 70, unspecified 9); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-MG.json) · [CSV](https://data.orchid-project.org/systems/GA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-MG/GaMg-05Fra-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-MG.html) · [Markdown](https://data.orchid-project.org/systems/GA-MG.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 90 |
-| model | 75 |
+| experimental | 89 |
+| model | 70 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 97 |
-| phase transition | 15 |
+| invariant reaction | 94 |
+| phase transition | 12 |
 | formation | 25 |
 | mixing / partial | 16 |
 | heat capacity / entropy / enthalpy | 5 |
@@ -113,23 +113,23 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ga–Mg system (97)
+Table: Invariant reactions reported in the literature for the Ga–Mg system (94)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 743 | congruent melting: L->Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites ref. 26_ | Table 3, p. 4, row 11; `ORC-6ERMK3ULS2` |  |
 | 743 | congruent melting: L->Mg5Ga2 | L: Ga 0.285714, Mg 0.714286; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites PREDEL_ | Table 3, p. 4, row 9; `ORC-EANN2XR2IN` |  |
-| 743 | L \<-> Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.2857 | experimental | [2] Feng 2009; _cites Predel 1969_ | Table 4, p. 3, row 6; `ORC-LP64WTITZI` |  |
-| 743 | L \<-> Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.286 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 8; `ORC-NFJIWAE7LJ` |  |
-| 736 | L \<-> Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.286 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 9; `ORC-BOLZNZSTXR` |  |
+| 743 | congruent melting: L \<-> Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.2857 | experimental | [2] Feng 2009; _cites Predel 1969_ | Table 4, p. 3, row 6; `ORC-LP64WTITZI` |  |
+| 743 | congruent melting: L \<-> Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.286 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 8; `ORC-NFJIWAE7LJ` |  |
+| 736 | congruent melting: L \<-> Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.286 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 9; `ORC-BOLZNZSTXR` |  |
 | 736 | congruent melting: L->Mg5Ga2 | L: Ga 0.285714, Mg 0.714286; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 12; `ORC-K7ZEGWDZMS` |  |
 | 733 | congruent melting: L->Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.285714, Mg 0.714286 | model | [1] MENG 2010 | Table 3, p. 4, row 14; `ORC-C65N7OXF7F` |  |
 | 732 | congruent melting: L->Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.285714, Mg 0.714286 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 13; `ORC-BSELAOCWWA` |  |
-| 732 | L \<-> Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.286 | model | [2] Feng 2009 | Table 4, p. 3, row 10; `ORC-KZVDKZWLMZ` |  |
+| 732 | congruent melting: L \<-> Mg5Ga2 | L: Ga 0.286; Mg5Ga2: Ga 0.286 | model | [2] Feng 2009 | Table 4, p. 3, row 10; `ORC-KZVDKZWLMZ` |  |
 | 729 | congruent melting: L->Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites ref. 23_ | Table 3, p. 4, row 8; `ORC-3ZIJKTWDEG` |  |
 | 729 | congruent melting: L->Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.285714, Mg 0.714286 | experimental | [1] MENG 2010; _cites ref. 32_ | Table 3, p. 4, row 10; `ORC-EMGC7DPBL2` |  |
-| 729 | L \<-> Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.2857 | experimental | [2] Feng 2009; _cites Puschin 1937_ | Table 4, p. 3, row 5; `ORC-VVPQ3WAKG2` |  |
-| 729 | L \<-> Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.2857 | unspecified | [2] Feng 2009; _cites Predel 1981_ | Table 4, p. 3, row 7; `ORC-XJNEPHNEIK` |  |
+| 729 | congruent melting: L \<-> Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.2857 | experimental | [2] Feng 2009; _cites Puschin 1937_ | Table 4, p. 3, row 5; `ORC-VVPQ3WAKG2` |  |
+| 729 | congruent melting: L \<-> Mg5Ga2 | L: Ga 0.2857; Mg5Ga2: Ga 0.2857 | unspecified | [2] Feng 2009; _cites Predel 1981_ | Table 4, p. 3, row 7; `ORC-XJNEPHNEIK` |  |
 | 725 | L + Mg5Ga2 \<-> Mg2Ga | L: Ga 0.335; Mg5Ga2: Ga 0.2857; Mg2Ga: Ga 0.3333 | experimental | [2] Feng 2009; _cites Predel 1969_ | Table 4, p. 3, row 12; `ORC-KNGP2SJKUN` |  |
 | 723 | peritectic: L+Mg5Ga2->Mg2Ga | Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | experimental | [1] MENG 2010; _cites PREDEL_ | Table 3, p. 4, row 16; `ORC-52AAWN37KU` |  |
 | 723 | L + Mg5Ga2 \<-> Mg2Ga | L: Ga 0.34; Mg5Ga2: Ga 0.286; Mg2Ga: Ga 0.3333 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 14; `ORC-HM3C66TIU4` |  |
@@ -140,7 +140,6 @@ Table: Invariant reactions reported in the literature for the Ga–Mg system (97
 | 718 | peritectic: L+Mg5Ga2->Mg2Ga | Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 19; `ORC-LIF2CRXX3K` |  |
 | 718 | L + Mg5Ga2 \<-> Mg2Ga | Mg5Ga2: Ga 0.286; Mg2Ga: Ga 0.3333 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 15; `ORC-TSD7KMST55` |  |
 | 714 | peritectic: L+Mg5Ga2->Mg2Ga | L: Ga 0.333; Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | experimental | [1] MENG 2010; _cites ref. 32_ | Table 3, p. 4, row 17; `ORC-4S5N66MQ22` |  |
-| 714 | peritectic |  | model | [3] Notin 1991 | p. 10; `ORC-7FHT762VS5` | “Mg2Ga presents an incongruent decomposition with a peritectic equilibrium at T= 714 K and x~a(liquid)=0.35.” |
 | 714 | peritectic: L+Mg5Ga2->Mg2Ga | L: Ga 0.333; Mg5Ga2: Ga 0.285714, Mg 0.714286; Mg2Ga: Ga 0.333333, Mg 0.666667 | experimental | [1] MENG 2010; _cites ref. 23_ | Table 3, p. 4, row 15; `ORC-CNUSHH2TYV` |  |
 | 714 | L + Mg5Ga2 \<-> Mg2Ga | L: Ga 0.335; Mg5Ga2: Ga 0.2857; Mg2Ga: Ga 0.3333 | unspecified | [2] Feng 2009; _cites Predel 1981_ | Table 4, p. 3, row 13; `ORC-NSWGDZHLAJ` |  |
 | 714 | L + Mg5Ga2 \<-> Mg2Ga | L: Ga 0.335; Mg5Ga2: Ga 0.2857; Mg2Ga: Ga 0.3333 | experimental | [2] Feng 2009; _cites Puschin 1937_ | Table 4, p. 3, row 11; `ORC-SDXSJBQ7QB` |  |
@@ -155,20 +154,20 @@ Table: Invariant reactions reported in the literature for the Ga–Mg system (97
 | 693 | eutectic: L->(Mg)+Mg5Ga2 | L: Ga 0.188; Mg5Ga2: Ga 0.285714, Mg 0.714286 | model | [1] MENG 2010 | Table 3, p. 4, row 7; `ORC-C2372CDJQ5` |  |
 | 688.1 | L \<-> (Mg)+Mg5Ga2 | L: Ga 0.1873; (Mg): Ga 0.044; Mg5Ga2: Ga 0.286 | model | [2] Feng 2009 | Table 4, p. 3, row 4; `ORC-IAAYDWOMDT` |  |
 | 688.1 | eutectic: L->(Mg)+Mg5Ga2 | L: Ga 0.1873; Mg5Ga2: Ga 0.285714, Mg 0.714286 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 6; `ORC-WDOJ32KVYO` |  |
-| 646.6 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | model | [2] Feng 2009 | Table 4, p. 3, row 26; `ORC-3J3IYHCGWG` |  |
+| 646.6 | congruent melting: L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | model | [2] Feng 2009 | Table 4, p. 3, row 26; `ORC-3J3IYHCGWG` |  |
 | 646.6 | congruent melting: L->MgGa | L: Ga 0.5; MgGa: Ga 0.5, Mg 0.5 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 28; `ORC-6OVRSIIZFW` |  |
-| 646 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | unspecified | [2] Feng 2009; _cites Predel 1981_ | Table 4, p. 3, row 23; `ORC-6G6LVJNTHF` |  |
-| 646 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Puschin 1937_ | Table 4, p. 3, row 21; `ORC-FGYXDHYZZU` |  |
+| 646 | congruent melting: L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | unspecified | [2] Feng 2009; _cites Predel 1981_ | Table 4, p. 3, row 23; `ORC-6G6LVJNTHF` |  |
+| 646 | congruent melting: L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Puschin 1937_ | Table 4, p. 3, row 21; `ORC-FGYXDHYZZU` |  |
 | 646 | L \<-> Mg2Ga + MgGa | Mg2Ga: Ga 0.37; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Predel 1969_ | Table 4, p. 3, row 17; `ORC-IHTBN4W3I7` |  |
 | 646 | congruent melting: L->MgGa | L: Ga 0.5, Mg 0.5; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites ref. 23_ | Table 3, p. 4, row 22; `ORC-LPQXISAELZ` |  |
 | 646 | congruent melting: L->MgGa | L: Ga 0.5, Mg 0.5; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites PREDEL_ | Table 3, p. 4, row 24; `ORC-LVHHD4FCP7` |  |
 | 646 | congruent melting: L->MgGa | L: Ga 0.5, Mg 0.5; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites ref. 32_ | Table 3, p. 4, row 25; `ORC-PWD6GWK2M6` |  |
 | 643 | congruent melting: L->MgGa | L: Ga 0.5; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites ref. 26_ | Table 3, p. 4, row 26; `ORC-AF2JMIFYJ3` |  |
-| 643 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 24; `ORC-ALHB2JN7RN` |  |
-| 643 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | unspecified | [2] Feng 2009; _cites Ellner 1980_ [doi](https://doi.org/10.1002/zaac.19804630125) | Table 4, p. 3, row 22; `ORC-JP233UHIDS` |  |
+| 643 | congruent melting: L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 24; `ORC-ALHB2JN7RN` |  |
+| 643 | congruent melting: L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | unspecified | [2] Feng 2009; _cites Ellner 1980_ [doi](https://doi.org/10.1002/zaac.19804630125) | Table 4, p. 3, row 22; `ORC-JP233UHIDS` |  |
 | 643 | congruent melting: L->MgGa | L: Ga 0.5, Mg 0.5; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites ref. 25_ | Table 3, p. 4, row 23; `ORC-Y52UTDSB75` |  |
 | 642 | congruent melting: L->MgGa | L: Ga 0.5; MgGa: Ga 0.5, Mg 0.5 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 27; `ORC-KM5NWSXNF5` |  |
-| 642 | L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 25; `ORC-ZZLH6AIBBJ` |  |
+| 642 | congruent melting: L \<-> MgGa | L: Ga 0.5; MgGa: Ga 0.5 | experimental | [2] Feng 2009; _cites Notin 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990007-i) | Table 4, p. 3, row 25; `ORC-ZZLH6AIBBJ` |  |
 | 641.8 | eutectic: L->Mg2Ga+MgGa | L: Ga 0.4645; Mg2Ga: Ga 0.333333, Mg 0.666667; MgGa: Ga 0.5, Mg 0.5 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 33; `ORC-E27ER2HZAV` |  |
 | 641.8 | L \<-> Mg2Ga + MgGa | L: Ga 0.4645; Mg2Ga: Ga 0.333; MgGa: Ga 0.5 | model | [2] Feng 2009 | Table 4, p. 3, row 20; `ORC-ZZEC6JRMTJ` |  |
 | 640 | congruent melting: L->MgGa | L: Ga 0.5; MgGa: Ga 0.5, Mg 0.5 | model | [1] MENG 2010 | Table 3, p. 4, row 29; `ORC-YKRIS2ENDL` |  |
@@ -187,7 +186,6 @@ Table: Invariant reactions reported in the literature for the Ga–Mg system (97
 | 556 | L + MgGa \<-> MgGa2 | L: Ga 0.6666; MgGa: Ga 0.5; MgGa2: Ga 0.6666 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 30; `ORC-7JC2JZMXGV` |  |
 | 556 | peritectic: L+MgGa->MgGa2 | L: Ga 0.667; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | experimental | [1] MENG 2010; _cites ref. 26_ | Table 3, p. 4, row 39; `ORC-DGPRUGMTPD` |  |
 | 556 | peritectic: L+MgGa->MgGa2 | L: Ga 0.69; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | experimental | [1] MENG 2010; _cites YIN_ | Table 3, p. 4, row 40; `ORC-L2NHUPPVL7` |  |
-| 555 | eutectic |  | model | [3] Notin 1991 | p. 10; `ORC-SRQAFFZKRJ.376e04` | “For MgGa2 the melting point is a little higher ( T = 5 5 5 . 5 K) than the temperature of the invariant equilibrium MgGa-liquid-MgGa2 ( T = 5 5 5 K). The composition of the liquid at this temperature, XGa= 0.656, indicates an eutectic point.” |
 | 553 | peritectic: L+MgGa->MgGa2 | L: Ga 0.705; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | experimental | [1] MENG 2010; _cites ref. 25_ | Table 3, p. 4, row 36; `ORC-JQY2YVTGVD` |  |
 | 553 | L + MgGa \<-> MgGa2 | L: Ga 0.705; MgGa: Ga 0.5; MgGa2: Ga 0.6666 | unspecified | [2] Feng 2009; _cites Ellner 1980_ [doi](https://doi.org/10.1002/zaac.19804630125) | Table 4, p. 3, row 28; `ORC-KCIG7EUSWV` |  |
 | 553 | peritectic: L+MgGa->MgGa2 | L: Ga 0.671; MgGa: Ga 0.5, Mg 0.5; MgGa2: Ga 0.666667, Mg 0.333333 | model | [1] MENG 2010 | Table 3, p. 4, row 42; `ORC-SQHIKLZYD4` |  |
@@ -202,7 +200,6 @@ Table: Invariant reactions reported in the literature for the Ga–Mg system (97
 | 475 | peritectic: L+MgGa2->Mg2Ga5 | L: Ga 0.85; MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites ref. 26_ | Table 3, p. 4, row 46; `ORC-FRCQ3OUKRL` |  |
 | 475 | L + MgGa2 \<-> Mg2Ga5 | L: Ga 0.85; MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [2] Feng 2009; _cites Feschotte 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990434-l) | Table 4, p. 3, row 34; `ORC-V2RCUWBLNT` |  |
 | 473 | peritectic: L+MgGa2->Mg2Ga5 | MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites ref. 33_ | Table 3, p. 4, row 45; `ORC-6C3VACJMZ2` |  |
-| 472 | peritectic |  | model | [3] Notin 1991 | p. 10; `ORC-L6NNKE6L52` | “Mg2Ga~ presents a peritectic decomposition at T= 472 K.” |
 | 471.5 | peritectic: L+MgGa2->Mg2Ga5 | L: Ga 0.8334; MgGa2: Ga 0.666667, Mg 0.333333; Mg2Ga5: Ga 0.714286, Mg 0.285714 | model | [1] MENG 2010; _cites 457 Thermodynamic studies on the Mg-Ga system \[J\]_ | Table 3, p. 4, row 48; `ORC-LG7D72C42A` |  |
 | 471.5 | L + MgGa2 \<-> Mg2Ga5 | L: Ga 0.8334; MgGa2: Ga 0.667; Mg2Ga5: Ga 0.714 | model | [2] Feng 2009 | Table 4, p. 3, row 36; `ORC-ZEUUU4H5D3` |  |
 | 303 | eutectic: L->Mg2Ga5+(Ga) | L: Ga 1; Mg2Ga5: Ga 0.714286, Mg 0.285714 | experimental | [1] MENG 2010; _cites ref. 26_ | Table 3, p. 4, row 52; `ORC-CPWRPYQQU2` |  |
@@ -236,7 +233,7 @@ Table: Enthalpies of formation, Ga–Mg system (10)
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (12)
 
 Table: Phase transition, Ga–Mg system
 
@@ -244,10 +241,8 @@ Table: Phase transition, Ga–Mg system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 476.15 K | 476.15 | other: xGa=0.715 solidus; _alloy: Ga 0.715, Mg 0.285_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 20; `ORC-3O64A24G3H` |  |
 | Phase transition | 520 K | 520 | other: xGa=0.715 melting functions; _alloy: Ga 0.715, Mg 0.285_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 21; `ORC-4F6TQTLOBF` |  |
-| Phase transition | 555.5 K | 555.5 |  | model | [3] Notin 1991 | p. 10; `ORC-SRQAFFZKRJ.440e81` | “For MgGa2 the melting point is a little higher ( T = 5 5 5 . 5 K) than the temperature of the invariant equilibrium MgGa-liquid-MgGa2 ( T = 5 5 5 K).” |
 | Phase transition | 556.15 K | 556.15 | other: xGa=0.66 solidus; _alloy: Ga 0.66, Mg 0.34_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 18; `ORC-UMH45B5AXA` |  |
 | Phase transition | 560 K | 560 | other: xGa=0.66 melting functions; _alloy: Ga 0.66, Mg 0.34_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 19; `ORC-IMBYQ5T3BB` |  |
-| Phase transition | 583 K | 583 | other | experimental | [3] Notin 1991 | p. 13; `ORC-644X5KROUJ` | “In particular, it was impossible to obtain both a good value of the melting entropy of MgGa and a point of the liquidus satisfying the observation reported in Fig. 3, in which one can see that the liquid phase is probably in equilibrium with the MgGa compound at XGa=0.667 and T = 583 K.” |
 | Phase transition | 638.15 K | 638.15 | other: xGa=0.36 solidus; _alloy: Ga 0.36, Mg 0.64_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 14; `ORC-P2PZHFG4XJ` |  |
 | Phase transition | 639.15 K | 639.15 | other: xGa=0.34 solidus; _alloy: Ga 0.34, Mg 0.66_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 12; `ORC-QP2TU5QUDX` |  |
 | Phase transition | 640.15 K | 640.15 | other: xGa=0.50 solidus; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 16; `ORC-MXARH4VONS` |  |
@@ -256,7 +251,6 @@ Table: Phase transition, Ga–Mg system
 | Phase transition | 718.15 K | 718.15 | other: xGa=0.32 solidus; _alloy: Ga 0.32, Mg 0.68_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 10; `ORC-SVZ5UWPGJD` |  |
 | Phase transition | 723 K | 723 | other: xGa=0.34 melting functions; _alloy: Ga 0.34, Mg 0.66_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 13; `ORC-V5USYGHHAR` |  |
 | Phase transition | 734 K | 734 | other: xGa=0.28 melting functions; _alloy: Ga 0.28, Mg 0.72_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 9; `ORC-NGFUL6ZP6P` |  |
-| Phase transition | 736 K | 736 | congruent transformation | model | [3] Notin 1991 | p. 10; `ORC-VJBH6AMFPX` | “For Mg~Ga2 there is confirmation of the congruent temperature of fusion at T= 736 K.” |
 
 ### Formation (15)
 

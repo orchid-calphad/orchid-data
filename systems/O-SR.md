@@ -1,10 +1,10 @@
 # O–Sr system
 
-> O–Sr system: 25 accepted literature values (formation 11, phase transition 8, heat capacity / entropy / enthalpy 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Sr system: 24 accepted literature values (formation 11, phase transition 7, heat capacity / entropy / enthalpy 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-SR.html · Markdown: https://data.orchid-project.org/systems/O-SR.md
 
-25 accepted literature values from 1 paper(s) (experimental 14, model 2, unspecified 9); 0 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 13, model 2, unspecified 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-SR.json) · [CSV](https://data.orchid-project.org/systems/O-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-SR) · [phases (8)](https://data.orchid-project.org/phases/pages/O-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-SR.html) · [Markdown](https://data.orchid-project.org/systems/O-SR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
+| experimental | 13 |
 | model | 2 |
 | unspecified | 9 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 8 |
+| phase transition | 7 |
 | formation | 11 |
 | heat capacity / entropy / enthalpy | 6 |
 
@@ -48,13 +48,12 @@ Table: Enthalpies of formation, O–Sr system (11)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (7)
 
 Table: Phase transition, O–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 488 K | 488 | other | experimental | [1] Risold 1996; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | p. 2; `ORC-UK5R57KOU3` | “In many thermodynamic tables the decomposition temperature of SrOz is given at 488 K in 1 atm 0s with reference to Brewer \[53Bre\] who does not give a reference for this datum, but it seems most probable that it originates from Blumenthal.” |
 | Phase transition | 2703 K | 2703 | congruent melting: \[26Sch\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites ref. 26Sch_ | Table 1, p. 4, row 1; `ORC-5G2VQ2DKPW` |  |
 | Phase transition | 2805 K | 2805 | congruent melting: \[85Irg\]; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Properties 1985_ | Table 1, p. 4, row 2; `ORC-H4VPNPPXZV` |  |
 | Phase transition | 2805 K | 2805 | congruent melting: \[94SGT\]; _alloy: Sr 0.5_ | model | [1] Risold 1996; _cites ref. 94_ | Table 1, p. 4, row 6; `ORC-VTORQEQ7FX` |  |

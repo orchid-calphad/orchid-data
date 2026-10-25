@@ -33,7 +33,7 @@ Table: Phases of the Cr–Mn system (11)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-mn:bcc-a2)
 
 Names (5): _corpus: _corpus:phase:cr-mn:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:CrMn-93Lee-LB.tdb:BCC_A2, tdb:CrMn-93Lee-mod.tdb:BCC_A2, tdb:CrMn-93Lee-mod2.tdb:BCC_A2  
 
 
@@ -60,12 +60,10 @@ _tdb: _tdb:CrMn-93Lee-LB.tdb:BCC_A2, tdb:CrMn-93Lee-mod.tdb:BCC_A2, tdb:CrMn-93L
 42: CONST BCC_A2 : CR% MN : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02666327](https://doi.org/10.1007/BF02666327) B.-J. Lee, Metall. Trans. A, 24, 1919-33(1993).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CBCC_A12 (Cr–Mn)
 
@@ -76,7 +74,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-mn:cbcc-a12)
 
 Names (5): _corpus: _corpus:phase:cr-mn:cbcc-a12  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:cbcc-A12  
+_paper: _paper:sha256-85fd53a1a176b694:cbcc-A12  
 _tdb: _tdb:CrMn-93Lee-LB.tdb:CBCC_A12, tdb:CrMn-93Lee-mod.tdb:CBCC_A12, tdb:CrMn-93Lee-mod2.tdb:CBCC_A12  
 
 
@@ -103,12 +101,10 @@ _tdb: _tdb:CrMn-93Lee-LB.tdb:CBCC_A12, tdb:CrMn-93Lee-mod.tdb:CBCC_A12, tdb:CrMn
 52: CONST CBCC_A12 : CR MN : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02666327](https://doi.org/10.1007/BF02666327) B.-J. Lee, Metall. Trans. A, 24, 1919-33(1993).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CR3MN5 (Cr–Mn)
 
@@ -122,7 +118,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-mn:cr3mn5)
 
 Names (5): _corpus: _corpus:phase:cr-mn:cr3mn5  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Cr3Mn5  
+_paper: _paper:sha256-85fd53a1a176b694:Cr3Mn5  
 _tdb: _tdb:CrMn-93Lee-LB.tdb:CR3MN5, tdb:CrMn-93Lee-mod.tdb:CR3MN5, tdb:CrMn-93Lee-mod2.tdb:CR3MN5  
 
 
@@ -149,12 +145,10 @@ _tdb: _tdb:CrMn-93Lee-LB.tdb:CR3MN5, tdb:CrMn-93Lee-mod.tdb:CR3MN5, tdb:CrMn-93L
 62: CONST CR3MN5 : CR : MN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02666327](https://doi.org/10.1007/BF02666327) B.-J. Lee, Metall. Trans. A, 24, 1919-33(1993).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CUB_A13 (Cr–Mn)
 
@@ -165,7 +159,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-mn:cub-a13)
 
 Names (5): _corpus: _corpus:phase:cr-mn:cub-a13  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:cub-A13  
+_paper: _paper:sha256-85fd53a1a176b694:cub-A13  
 _tdb: _tdb:CrMn-93Lee-LB.tdb:CUB_A13, tdb:CrMn-93Lee-mod.tdb:CUB_A13, tdb:CrMn-93Lee-mod2.tdb:CUB_A13  
 
 
@@ -192,12 +186,10 @@ _tdb: _tdb:CrMn-93Lee-LB.tdb:CUB_A13, tdb:CrMn-93Lee-mod.tdb:CUB_A13, tdb:CrMn-9
 57: CONST CUB_A13 : CR MN : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02666327](https://doi.org/10.1007/BF02666327) B.-J. Lee, Metall. Trans. A, 24, 1919-33(1993).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SIGMA_D8B (Cr–Mn)
 
@@ -248,7 +240,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-mn:fcc-a1)
 
 Names (5): _corpus: _corpus:phase:cr-mn:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:CrMn-93Lee-LB.tdb:FCC_A1, tdb:CrMn-93Lee-mod.tdb:FCC_A1, tdb:CrMn-93Lee-mod2.tdb:FCC_A1  
 
 
@@ -275,12 +267,10 @@ _tdb: _tdb:CrMn-93Lee-LB.tdb:FCC_A1, tdb:CrMn-93Lee-mod.tdb:FCC_A1, tdb:CrMn-93L
 37: CONST FCC_A1 : CR MN% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02666327](https://doi.org/10.1007/BF02666327) B.-J. Lee, Metall. Trans. A, 24, 1919-33(1993).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## OLD_H_SIGMA (Cr–Mn)
 
@@ -361,7 +351,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-mn:high-sigma)
 
 Names (4): _corpus: _corpus:phase:cr-mn:high-sigma  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:σ-H  
+_paper: _paper:sha256-85fd53a1a176b694:σ-H  
 _tdb: _tdb:CrMn-93Lee-LB.tdb:HIGH_SIGMA, tdb:CrMn-93Lee-mod.tdb:HIGH_SIGMA  
 
 
@@ -381,12 +371,10 @@ _tdb: _tdb:CrMn-93Lee-LB.tdb:HIGH_SIGMA, tdb:CrMn-93Lee-mod.tdb:HIGH_SIGMA
 76: CONST HIGH_SIGMA : MN : CR : CR MN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02666327](https://doi.org/10.1007/BF02666327) B.-J. Lee, Metall. Trans. A, 24, 1919-33(1993).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Cr–Mn)
 
@@ -397,7 +385,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-mn:liquid)
 
 Names (5): _corpus: _corpus:phase:cr-mn:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:L  
+_paper: _paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:CrMn-93Lee-LB.tdb:LIQUID, tdb:CrMn-93Lee-mod.tdb:LIQUID, tdb:CrMn-93Lee-mod2.tdb:LIQUID  
 
 
@@ -424,12 +412,10 @@ _tdb: _tdb:CrMn-93Lee-LB.tdb:LIQUID, tdb:CrMn-93Lee-mod.tdb:LIQUID, tdb:CrMn-93L
 32: CONST LIQUID:L : CR MN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02666327](https://doi.org/10.1007/BF02666327) B.-J. Lee, Metall. Trans. A, 24, 1919-33(1993).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SIGMA_OLD (Cr–Mn)
 

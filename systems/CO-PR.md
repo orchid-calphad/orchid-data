@@ -103,14 +103,14 @@ Table: Invariant reactions reported in the literature for the Co–Pr system (29
 | 871 | liq. + Co2Pr -> Co3Pr4 | liq.: Pr 0.6; Co2Pr: Pr 0.333333; Co3Pr4: Pr 0.571429 | experimental | [1] Du 1999; _cites Ray 1973_ | Table 6, p. 6, row 22; `ORC-MZP2YV7J6G` |  |
 | 861 | liq. + Co2Pr -> Co3Pr4 | liq.: Pr 0.595; Co2Pr: Pr 0.333333; Co3Pr4: Pr 0.571429 | model | [1] Du 1999 | Table 6, p. 6, row 21; `ORC-34OC5TWLIA` |  |
 | 861 | liq. + Co2Pr -> Co3Pr4 | liq.: Pr 0.595; Co2Pr: Pr 0.333333; Co3Pr4: Pr 0.571429 | experimental | [1] Du 1999; _cites Wu 1992_ | Table 6, p. 6, row 23; `ORC-P6YW75J34A` |  |
-| 843 | liq. -> CoPr3 + dhcp(Pr) | liq.: Pr 0.805; CoPr3: Pr 0.75 | experimental | [1] Du 1999; _cites Ray 1973_ | Table 6, p. 6, row 33; `ORC-22XLYVOBBO` |  |
-| 843 | liq. -> CoPr3 + dhcp(Pr) | liq.: Pr 0.805; CoPr3: Pr 0.75 | experimental | [1] Du 1999; _cites Wu 1992_ | Table 6, p. 6, row 34; `ORC-LVBSSM2F43` |  |
-| 842 | liq. -> CoPr3 + dhcp(Pr) | liq.: Pr 0.789; CoPr3: Pr 0.75 | model | [1] Du 1999 | Table 6, p. 6, row 32; `ORC-YMNWZ4RORS` |  |
+| 843 | eutectic: liq. -> CoPr3 + dhcp(Pr) | liq.: Pr 0.805; CoPr3: Pr 0.75 | experimental | [1] Du 1999; _cites Ray 1973_ | Table 6, p. 6, row 33; `ORC-22XLYVOBBO` |  |
+| 843 | eutectic: liq. -> CoPr3 + dhcp(Pr) | liq.: Pr 0.805; CoPr3: Pr 0.75 | experimental | [1] Du 1999; _cites Wu 1992_ | Table 6, p. 6, row 34; `ORC-LVBSSM2F43` |  |
+| 842 | eutectic: liq. -> CoPr3 + dhcp(Pr) | liq.: Pr 0.789; CoPr3: Pr 0.75 | model | [1] Du 1999 | Table 6, p. 6, row 32; `ORC-YMNWZ4RORS` |  |
 | 831 | liq. + CoPr3 -> Co2Pr5 | liq.: Pr 0.68; CoPr3: Pr 0.75; Co2Pr5: Pr 0.714286 | experimental | [1] Du 1999; _cites Ray 1973_ | Table 6, p. 6, row 28; `ORC-T7YSIPIENJ` |  |
 | 817 | liq. + CoPr3 -> Co2Pr5 | liq.: Pr 0.6776; CoPr3: Pr 0.75; Co2Pr5: Pr 0.714286 | model | [1] Du 1999 | Table 6, p. 6, row 27; `ORC-SCEECLCBIE` |  |
-| 814 | liq. -> Co3Pr4 + Co2Pr5 | liq.: Pr 0.66; Co3Pr4: Pr 0.571429; Co2Pr5: Pr 0.714286 | experimental | [1] Du 1999; _cites Ray 1973_ | Table 6, p. 6, row 25; `ORC-WEHO4VTYGP` |  |
-| 806 | liq. -> Co3Pr4 + Co2Pr5 | liq.: Pr 0.66; Co3Pr4: Pr 0.571429; Co2Pr5: Pr 0.714286 | experimental | [1] Du 1999; _cites Wu 1992_ | Table 6, p. 6, row 26; `ORC-3JVYAQGZTV` |  |
-| 806 | liq. -> Co3Pr4 + Co2Pr5 | liq.: Pr 0.6607; Co3Pr4: Pr 0.571429; Co2Pr5: Pr 0.714286 | model | [1] Du 1999 | Table 6, p. 6, row 24; `ORC-W36LZEUEFP` |  |
+| 814 | eutectic: liq. -> Co3Pr4 + Co2Pr5 | liq.: Pr 0.66; Co3Pr4: Pr 0.571429; Co2Pr5: Pr 0.714286 | experimental | [1] Du 1999; _cites Ray 1973_ | Table 6, p. 6, row 25; `ORC-WEHO4VTYGP` |  |
+| 806 | eutectic: liq. -> Co3Pr4 + Co2Pr5 | liq.: Pr 0.66; Co3Pr4: Pr 0.571429; Co2Pr5: Pr 0.714286 | experimental | [1] Du 1999; _cites Wu 1992_ | Table 6, p. 6, row 26; `ORC-3JVYAQGZTV` |  |
+| 806 | eutectic: liq. -> Co3Pr4 + Co2Pr5 | liq.: Pr 0.6607; Co3Pr4: Pr 0.571429; Co2Pr5: Pr 0.714286 | model | [1] Du 1999 | Table 6, p. 6, row 24; `ORC-W36LZEUEFP` |  |
 
 ## Other properties
 

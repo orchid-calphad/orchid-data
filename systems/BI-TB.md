@@ -1,10 +1,10 @@
 # Bi–Tb system
 
-> Bi–Tb system: 20 accepted literature values (invariant reaction 18, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Tb system: 17 accepted literature values (invariant reaction 16, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-TB.html · Markdown: https://data.orchid-project.org/systems/BI-TB.md
 
-20 accepted literature values from 1 paper(s) (experimental 13, model 7); 1 calculated phase diagram(s).
+17 accepted literature values from 1 paper(s) (experimental 10, model 7); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-TB.json) · [CSV](https://data.orchid-project.org/systems/BI-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-TB/BiTb-11Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/BI-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-TB.html) · [Markdown](https://data.orchid-project.org/systems/BI-TB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
+| experimental | 10 |
 | model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 18 |
-| phase transition | 2 |
+| invariant reaction | 16 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -55,16 +55,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Tb system (18)
+Table: Invariant reactions reported in the literature for the Bi–Tb system (16)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2033.15 | congruent melting: L -> BiTb | L: Tb 0.5; BiTb: Tb 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 4; `ORC-T4R27JUAAU` |  |
 | 2033.15 | congruent melting: L -> BiTb | L: Tb 0.5; BiTb: Tb 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 3; `ORC-ZWVWWMTCTC` |  |
-| 1873.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1; `ORC-CJRWUBNKJD.7259ce` | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
 | 1873.15 | peritectic: L + BiTb -> Bi3Tb4 | BiTb: Tb 0.5; Bi3Tb4: Tb 0.571 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 5; `ORC-JKPEHGBLSO` |  |
 | 1873.15 | peritectic: L + BiTb -> Bi3Tb4 | L: Tb 0.623; BiTb: Tb 0.5; Bi3Tb4: Tb 0.571 | model | [1] Wang 2011 | Table 2, p. 3, row 6; `ORC-TV5OLMBEHN` |  |
-| 1763.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1; `ORC-CJRWUBNKJD.d1e4c7` | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
 | 1763.15 | peritectic: L + Bi3Tb4 -> βBi3Tb5 | Bi3Tb4: Tb 0.5; βBi3Tb5: Tb 0.571 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 7; `ORC-JSNJZPPAHA` |  |
 | 1763.05 | peritectic: L + Bi3Tb4 -> βBi3Tb5 | L: Tb 0.687; Bi3Tb4: Tb 0.5; βBi3Tb5: Tb 0.571 | model | [1] Wang 2011 | Table 2, p. 3, row 8; `ORC-ZGAQUOD2TE` |  |
 | 1683.15 | polymorphic: αBi3Tb5 -> βBi3Tb5 | αBi3Tb5: Tb 0.625; βBi3Tb5: Bi 0.375, Tb 0.625 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | Table 2, p. 3, row 9; `ORC-IXEIHCNIJM` |  |
@@ -80,14 +78,13 @@ Table: Invariant reactions reported in the literature for the Bi–Tb system (18
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Bi–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1683.15 K | 1683.15 | polymorphic: aBi3Tb5 M bBi3Tb5 | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1; `ORC-GG7DYATQBW` | “A reversible polymorphic transition (aBi3Tb5 M bBi3Tb5 at 1410 ± 10 C) was observed by Abulkhaev.\[14\]” |
-| Phase transition | 2033.15 K | 2033.15 |  | experimental | [1] Wang 2011; _cites Abulkhaev 1997_ | p. 1; `ORC-CJRWUBNKJD.422eea` | “Based on differential thermal analysis, x-ray diffraction and microstructural analysis, Abulkhaev\[14\] investigated the phase diagram of the Bi-Tb system, and reported three stoichiometric compounds: BiTb (melting point, 1760 ± 15 C), Bi3Tb4 (peritectic formation at 1600 ± 15 C) and Bi3Tb5 (peritectic formation at 1490 ± 15 C).” |
 
 ## Sources
 

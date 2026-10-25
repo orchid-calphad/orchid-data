@@ -28,6 +28,7 @@
    1250.0,
    1206.0,
    1381.0,
+   1337.0,
    1448.0,
    1404.0,
    1415.0,
@@ -337,6 +338,44 @@
   ],
   [
    [
+    "INLA_B2",
+    [
+     "LA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "IN5LA3",
+    [
+     "LA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LA"
+    ],
+    [
+     0.45
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "LA"
+    ],
+    [
+     0.47
+    ]
+   ]
+  ],
+  [
+   [
     "LIQUID",
     [
      "LA"
@@ -562,7 +601,7 @@
     "x0": 0.865,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->γ-La(bcc)+La3In",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -581,7 +620,7 @@
     "x0": 0.865,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->γ-La(bcc)+La3In",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -714,7 +753,26 @@
     "x0": 0.45999999999999996,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->LaIn+La3In5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "INLA_B2",
+     "IN5LA3"
+    ]
+   },
+   {
+    "source_observation": "ORC-2QDQ4LSV3D",
+    "side": "below",
+    "T_invariant_K": 1359,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+    "x0": 0.45999999999999996,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L->LaIn+La3In5",
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -771,7 +829,7 @@
     "x0": 0.28800000000000003,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->LaIn2+LaIn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -790,7 +848,7 @@
     "x0": 0.28800000000000003,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->LaIn2+LaIn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -809,7 +867,7 @@
     "x0": 0.0050000000000000044,
     "hyperplane_delta": 0.0025000000000000022,
     "reaction_printed": "L->In(tetragonal)+LaIn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -828,7 +886,7 @@
     "x0": 0.0050000000000000044,
     "hyperplane_delta": 0.0025000000000000022,
     "reaction_printed": "L->In(tetragonal)+LaIn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -964,6 +1022,22 @@
    },
    {
     "source_observation": "ORC-IQCIGL63PO",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 11.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 22.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-2QDQ4LSV3D",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": null,

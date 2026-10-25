@@ -1,19 +1,20 @@
 # Cr3La2O12: enthalpy of formation
 
-> Enthalpy of formation of Cr3La2O12: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Cr3La2O12: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cr3La2O12.html · Markdown: https://data.orchid-project.org/compounds/Cr3La2O12.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); experimental median -233 kJ/mol-atom (n = 1).
 
 Systems: [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cr3La2O12 reported in the literature (2)
+Table: Enthalpy of formation of Cr3La2O12 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -233 kJ/mol-atom ± 11.7 | La2(CrO4)3 | 298.15 | experimental |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009; _cites Tsyrenova_ | p. 2; `ORC-NASIHCQLC3` | “The enthalpy of formation of La2(CrO4)3 from the elements at 298 K was proposed by Tsyrenova et al.\[29\] to be -3961 ± 11.7 kJ mol-1.” |
 | -3961 kJ/mol (basis unstated) ± 11.7 | La2(CrO4)3 | 298.15 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009; _cites Tsyrenova_ | Table 1, p. 3, row 20; `ORC-JN4C2PPUJ4.0f14af` |  |
 | -3845 kJ/mol (basis unstated) | La2(CrO4)3 | 298.15 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 19; `ORC-L7HXY5H7MV` |  |
 
@@ -25,6 +26,7 @@ Table: Uncertainty budget of the literature values of Cr3La2O12
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -233 | kJ/mol-atom | 11.7 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 11.7 |
 | -3961 | kJ/mol (basis unstated) | 11.7 | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 11.7 |
 | -3845 | kJ/mol (basis unstated) |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 

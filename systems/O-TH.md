@@ -1,10 +1,10 @@
 # O–Th system
 
-> O–Th system: 21 accepted literature values (phase transition 14, phase equilibrium 6, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Th system: 19 accepted literature values (phase transition 13, phase equilibrium 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-TH.html · Markdown: https://data.orchid-project.org/systems/O-TH.md
 
-21 accepted literature values from 1 paper(s) (experimental 21); 0 calculated phase diagram(s).
+19 accepted literature values from 1 paper(s) (experimental 19); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-TH.json) · [CSV](https://data.orchid-project.org/systems/O-TH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-TH) · [phases (6)](https://data.orchid-project.org/phases/pages/O-TH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-TH.html) · [Markdown](https://data.orchid-project.org/systems/O-TH.md)
 
@@ -12,29 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
+| experimental | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 14 |
+| phase transition | 13 |
 | phase equilibrium | 6 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-TH.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-TH.json) · [CALPHAD hull ThO-03Kin](https://data.orchid-project.org/hulls/calphad-sgte/O/O-TH--ThO-03Kin.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the O–Th system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 2040 | eutectic |  | experimental | [1] Bergeron 2018 | p. 3; `ORC-RKNANTYAI6` | “(2480 K) liquidus was followed by the thorium-thorium dioxide eutectic solidification arrest. The latter was observed in all the samples around 2040 K.” |
-
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (13)
 
 Table: Phase transition, O–Th system
 
@@ -42,7 +33,6 @@ Table: Phase transition, O–Th system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1680 K | 1680 | polymorphic: α → β; _alloy: Th 0.900901_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 18; `ORC-IPMUNOKP73` |  |
 | Phase transition | 1680 K | 1680 | polymorphic: α → β; _alloy: Th 0.60241_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 12; `ORC-QIBZBYUEO3` |  |
-| Phase transition | 1700 K | 1700 | polymorphic | experimental | [1] Bergeron 2018 | p. 3; `ORC-SYS267GC62` | “In the samples with lower oxygen contents, a lower temperature solid-solid transition could be observed around 1700 K attributed to the a/b thorium allotropies.” |
 | Phase transition | 1730 K | 1730 | polymorphic: α → β; _alloy: Th 0.75188_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 15; `ORC-XUM6PFU2KD` |  |
 | Phase transition | 2040 K | 2040 | eutectic: ThO0.11; _alloy: Th 0.900901_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 17; `ORC-L7QEFWMWFS` |  |
 | Phase transition | 2040 K | 2040 | eutectic: ThO1.22; _alloy: Th 0.45045_ | experimental | [1] Bergeron 2018 | Table 2, p. 4, row 6; `ORC-YZO2LBQMJR` |  |

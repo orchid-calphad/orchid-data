@@ -86,7 +86,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-c:a9-graphite)
 
 Names (9): _corpus: _corpus:phase:b-c:a9-graphite, corpus:phase:b-c:graphite-a9  
-_paper: _paper:10.1016/j.actamat.2012.09.029:Graphite, paper:10.1016/s0364-5916(98)00037-6:graphite  
+_paper: _paper:10.1016/j.actamat.2012.09.029:Graphite, paper:sha256-85fd53a1a176b694:graphite  
 _tdb: _tdb:BC-12Sae.tdb:GRAPHITE_A9, tdb:BC-14Rog.tdb:GRAPHITE_A9, tdb:BC-24Eno.tdb:GRAPHITE_A9, tdb:BC-94Kas.tdb:GRAPHITE_A9, tdb:BC-98Kas-LB.tdb:GRAPHITE_A9  
 
 
@@ -127,7 +127,7 @@ _tdb: _tdb:BC-12Sae.tdb:GRAPHITE_A9, tdb:BC-14Rog.tdb:GRAPHITE_A9, tdb:BC-24Eno.
 44: CONST GRAPHITE_A9 : B C% : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.actamat.2012.09.029](https://doi.org/10.1016/j.actamat.2012.09.029) Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012).  
 _assessment that models this phase; reports values for this phase_
@@ -135,8 +135,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.07.016](https://doi.org/10.1016/j.calphad.2013.07.016) Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BETA_RHOMBO_B (B–C)
 
@@ -153,7 +151,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-c:b-beta-rhombo)
 
 Names (9): _corpus: _corpus:phase:b-c:b-beta-rhombo, corpus:phase:b-c:beta-rhombo-b  
-_paper: _paper:10.1016/j.actamat.2012.09.029:β-boron, paper:10.1016/s0364-5916(98)00037-6:β-rhombo-B  
+_paper: _paper:10.1016/j.actamat.2012.09.029:β-boron, paper:sha256-85fd53a1a176b694:β-rhombo-B  
 _tdb: _tdb:BC-12Sae.tdb:BETA_RHOMBO_B, tdb:BC-14Rog.tdb:BETA_RHOMBO_B, tdb:BC-24Eno.tdb:BETA_RHOMBO_B, tdb:BC-94Kas.tdb:BETA_RHOMBO_B, tdb:BC-98Kas-LB.tdb:BETA_RHOMBO_B  
 
 
@@ -194,7 +192,7 @@ _tdb: _tdb:BC-12Sae.tdb:BETA_RHOMBO_B, tdb:BC-14Rog.tdb:BETA_RHOMBO_B, tdb:BC-24
 34: CONST BETA_RHOMBO_B : B : B C : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.actamat.2012.09.029](https://doi.org/10.1016/j.actamat.2012.09.029) Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012).  
 _assessment that models this phase; reports values for this phase_
@@ -202,8 +200,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.07.016](https://doi.org/10.1016/j.calphad.2013.07.016) Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## B4C_D1G (B–C)
 
@@ -222,7 +218,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-c:b4c-d1g)
 
 Names (8): _corpus: _corpus:phase:b-c:b4c-d1g  
-_paper: _paper:10.1016/j.actamat.2012.09.029:B4+xC, paper:10.1016/s0364-5916(98)00037-6:B4C  
+_paper: _paper:10.1016/j.actamat.2012.09.029:B4+xC, paper:sha256-85fd53a1a176b694:B4C  
 _tdb: _tdb:BC-12Sae.tdb:B4C_D1G, tdb:BC-14Rog.tdb:B4C_D1G, tdb:BC-24Eno.tdb:B4C_D1G, tdb:BC-94Kas.tdb:B4C_D1G, tdb:BC-98Kas-LB.tdb:B4C_D1G  
 
 
@@ -263,7 +259,7 @@ _tdb: _tdb:BC-12Sae.tdb:B4C_D1G, tdb:BC-14Rog.tdb:B4C_D1G, tdb:BC-24Eno.tdb:B4C_
 49: CONST B4C_D1G : B12 B11C : B2 B2C BC2 : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.actamat.2012.09.029](https://doi.org/10.1016/j.actamat.2012.09.029) Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012).  
 _assessment that models this phase; reports values for this phase_
@@ -271,8 +267,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.07.016](https://doi.org/10.1016/j.calphad.2013.07.016) Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/0022-5088(83)90067-x](https://doi.org/10.1016/0022-5088%2883%2990067-x) M. Beauvy, Stoichiometric limits of carbon-rich boron carbide phases, Journal of the Less Common Metals 90, 169-175 (1983).  
 _cited as the source of values for this phase_
 
@@ -285,7 +279,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-c:liquid)
 
 Names (8): _corpus: _corpus:phase:b-c:liquid  
-_paper: _paper:10.1016/j.actamat.2012.09.029:Liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1016/j.actamat.2012.09.029:Liquid, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:BC-12Sae.tdb:LIQUID, tdb:BC-14Rog.tdb:LIQUID, tdb:BC-24Eno.tdb:LIQUID, tdb:BC-94Kas.tdb:LIQUID, tdb:BC-98Kas-LB.tdb:LIQUID  
 
 
@@ -326,7 +320,7 @@ _tdb: _tdb:BC-12Sae.tdb:LIQUID, tdb:BC-14Rog.tdb:LIQUID, tdb:BC-24Eno.tdb:LIQUID
 29: CONST LIQUID:L : B C : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.actamat.2012.09.029](https://doi.org/10.1016/j.actamat.2012.09.029) Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012).  
 _assessment that models this phase; reports values for this phase_
@@ -334,8 +328,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.07.016](https://doi.org/10.1016/j.calphad.2013.07.016) Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/0022-5088(83)90067-x](https://doi.org/10.1016/0022-5088%2883%2990067-x) M. Beauvy, Stoichiometric limits of carbon-rich boron carbide phases, Journal of the Less Common Metals 90, 169-175 (1983).  
 _cited as the source of values for this phase_
 

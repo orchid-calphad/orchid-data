@@ -1,25 +1,31 @@
 # Sn3U: enthalpy of formation
 
-> Enthalpy of formation of Sn3U: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Sn3U: 14 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Sn3U.html · Markdown: https://data.orchid-project.org/compounds/Sn3U.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 6, unspecified 2); experimental median -39.7 kJ/mol-atom (n = 6); Materials Project -12.058 kJ/mol-atom (mp-aaaabece); OQMD -19.098 kJ/mol-atom (oqmd-18132).
+14 accepted literature formation-enthalpy value(s) (experimental 12, unspecified 2); experimental median -39.7 kJ/mol-atom (n = 6); Materials Project -12.058 kJ/mol-atom (mp-aaaabece); OQMD -19.098 kJ/mol-atom (oqmd-18132).
 
 Systems: [Sn–U](https://data.orchid-project.org/systems/SN-U.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Sn3U reported in the literature (8)
+Table: Enthalpy of formation of Sn3U reported in the literature (14)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -43.47 kJ/mol-atom | USn3 | 794.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | Table 1, p. 3, row 10; `ORC-RYIOBWSPT5` |  |
+| -43.47 kJ/mol (basis unstated) | USn3 | 794.15 | experimental | solution calorimetry analysis | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | p. 2; `ORC-V3325OI2BY.534bcb` | “Colinet et al.\[26\] reported the enthalpy of formation of USn3 as - 35.3 kJ mol-1 at 25 C and - 43.47 kJ mol-1 at 521 C characterized by solution calorimetry analysis.” |
 | -43.2 kJ/mol-atom | USn3 | 794.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Pattanaik 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.09.144) | Table 1, p. 3, row 11; `ORC-PQRCDHMBVC` |  |
 | -42.9 kJ/mol-atom | USn3 | 965.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Kadochnikov 1976_ | Table 1, p. 3, row 12; `ORC-3LMSC4VP4N` |  |
+| -41.8 kJ/mol (basis unstated) | USn3 | 794.15 | experimental | emf measurements | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Johnson 1962_ | p. 2; `ORC-6LXQ4ZX6BF.380e28` | “Johnson et al.\[24\] reported the enthalpy of formation of USn3 as - 36.5 kJ mol-1 at 25 C and - 41.8 kJ mol-1 at 521 C using emf measurements.” |
+| -36.5 kJ/mol (basis unstated) | USn3 | 298.15 | experimental | emf measurements | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Johnson 1962_ | p. 2; `ORC-6LXQ4ZX6BF.da4161` | “Johnson et al.\[24\] reported the enthalpy of formation of USn3 as - 36.5 kJ mol-1 at 25 C and - 41.8 kJ mol-1 at 521 C using emf measurements.” |
 | -36.5 kJ/mol-atom | USn3 | 298.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Johnson 1962_ | Table 1, p. 3, row 6; `ORC-D54TJXDZAE` |  |
+| -35.3 kJ/mol (basis unstated) | USn3 | 298.15 | experimental | solution calorimetry analysis | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | p. 2; `ORC-V3325OI2BY.534b78` | “Colinet et al.\[26\] reported the enthalpy of formation of USn3 as - 35.3 kJ mol-1 at 25 C and - 43.47 kJ mol-1 at 521 C characterized by solution calorimetry analysis.” |
 | -35.3 kJ/mol-atom | USn3 | 298.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | Table 1, p. 3, row 7; `ORC-VRQVJOHN5X` |  |
+| -24.06 kJ/mol (basis unstated) | USn3 | 794.15 | experimental | vapor pressure | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Alcock 1962_ | p. 2; `ORC-FF7XAD26OS.5d3acf` | “For the thermodynamic properties of U-Sn binary system, Alcock et al.\[22\] reported the enthalpy of formation of USn3 as - 22.59 kJ mol-1 at 25 C using acid dissociation calorimetry and - 24.06 kJ mol-1 at 521 C using vapor pressure.” |
 | -24.06 kJ/mol-atom | USn3 | 794.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Alcock 1962_ | Table 1, p. 3, row 8; `ORC-IHMGOGARKA` |  |
+| -22.59 kJ/mol (basis unstated) | USn3 | 298.15 | experimental | acid dissociation calorimetry | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Alcock 1962_ | p. 2; `ORC-FF7XAD26OS.d77d6a` | “For the thermodynamic properties of U-Sn binary system, Alcock et al.\[22\] reported the enthalpy of formation of USn3 as - 22.59 kJ mol-1 at 25 C using acid dissociation calorimetry and - 24.06 kJ mol-1 at 521 C using vapor pressure.” |
 | -41.8 kJ/mol-atom | USn3 | 794.15 | unspecified |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Sheldon 1987_ [doi](https://doi.org/10.1007/bf02869271) | Table 1, p. 3, row 9; `ORC-Q3DN6PXNB2` |  |
 | -22.59 kJ/mol-atom | USn3 | 298.15 | unspecified |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 1, p. 3, row 5; `ORC-NFN2F33S26` |  |
 
@@ -32,11 +38,17 @@ Table: Uncertainty budget of the literature values of Sn3U
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -43.47 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -43.47 | kJ/mol (basis unstated) |  | 0.005 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
 | -43.2 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -42.9 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -41.8 | kJ/mol (basis unstated) |  | 0.05 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
+| -36.5 | kJ/mol (basis unstated) |  | 0.05 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
 | -36.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -35.3 | kJ/mol (basis unstated) |  | 0.05 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
 | -35.3 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -24.06 | kJ/mol (basis unstated) |  | 0.005 | 16.8 (kems_vapour, calibrated) |  |  |  | 16.8 |
 | -24.06 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -22.59 | kJ/mol (basis unstated) |  | 0.005 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
 | -41.8 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -22.59 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 

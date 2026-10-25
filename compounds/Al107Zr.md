@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of Al107Zr
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -131.9 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -105.3 | eV/kJ mol−1 |  | 0.05 | 0.08781 (dft, calibrated) |  |  |  | 0.08781 |
-| -1.091 | eV/f.u. |  | 5.000e-4 | 0.08781 (dft, calibrated) |  |  |  | 0.08781 |
+| -105.3 | eV/kJ mol−1 |  | 0.05 | 0.08252 (dft, calibrated) |  |  |  | 0.08252 |
+| -1.091 | eV/f.u. |  | 5.000e-4 | 0.08252 (dft, calibrated) |  |  |  | 0.08252 |
 
 ## Sources
 

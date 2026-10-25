@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of La2Sb
 | -142.089 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 | -97.9 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 | -94 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -88.09 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
+| -88.09 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Al–Au system
 
-> Al–Au system: 120 accepted literature values (crystal structure 61, invariant reaction 34, phase transition 10, mixing / partial 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Au system: 118 accepted literature values (crystal structure 61, invariant reaction 32, phase transition 10, mixing / partial 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-AU.html · Markdown: https://data.orchid-project.org/systems/AL-AU.md
 
-120 accepted literature values from 2 paper(s) (experimental 36, model 29, unspecified 55); 3 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+118 accepted literature values from 2 paper(s) (experimental 34, model 29, unspecified 55); 3 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-AU.json) · [CSV](https://data.orchid-project.org/systems/AL-AU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-AU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-AU/AlAu-04Li.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AL-AU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-AU.html) · [Markdown](https://data.orchid-project.org/systems/AL-AU.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 36 |
+| experimental | 34 |
 | model | 29 |
 | unspecified | 55 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 34 |
+| invariant reaction | 32 |
 | phase transition | 10 |
 | formation | 6 |
 | mixing / partial | 9 |
@@ -92,23 +92,21 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Au system (34)
+Table: Invariant reactions reported in the literature for the Al–Au system (32)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 923.15 | eutectic: L -> (Al) + Al2Au | L: Au 0.011; (Al): Au 6.000e-4; Al2Au: Au 0.3292 | model | [1] Murray 1987 | Table 1, p. 2, row 1; `ORC-5A5TIM36GL` |  |
-| 923 | L -> (Al) + (Al2Au) | L: Au 0.011; (Al): Au 6.000e-4; (Al2Au): Au 0.3292 | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 1; `ORC-4W7BYKRNV7` |  |
-| 923 | L -> (Al) + (Al2Au) | L: Au 0.0171; (Al): Au 0.001; (Al2Au): Au 0.3291 | model | [2] Li 2004 | Table 1, p. 2, row 2; `ORC-TJ62KGXDPT` |  |
-| 921.15 | eutectic |  | experimental | [1] Murray 1987; _cites ref. 00Hey_ | p. 2; `ORC-LIELNWU5TV.6a6a8e` | “The eutectic point has b e e n d e t e r m i n e d twice: as 0.7 at.% A u at 642 ~ b y \[38Age\] a n d as 1.1 at.% A u a t 648 ~ b y \[00Hey\].” |
-| 915.15 | eutectic |  | experimental | [1] Murray 1987; _cites ref. 38Age_ | p. 2; `ORC-LIELNWU5TV.ece2ca` | “The eutectic point has b e e n d e t e r m i n e d twice: as 0.7 at.% A u at 642 ~ b y \[38Age\] a n d as 1.1 at.% A u a t 648 ~ b y \[00Hey\].” |
+| 923 | eutectic: L -> (Al) + (Al2Au) | L: Au 0.011; (Al): Au 6.000e-4; (Al2Au): Au 0.3292 | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 1; `ORC-4W7BYKRNV7` |  |
+| 923 | eutectic: L -> (Al) + (Al2Au) | L: Au 0.0171; (Al): Au 0.001; (Al2Au): Au 0.3291 | model | [2] Li 2004 | Table 1, p. 2, row 2; `ORC-TJ62KGXDPT` |  |
 | 898.15 | peritectic: L + AlAu2 -> AlAu | L: Au 0.565; AlAu2: Au 0.3392; AlAu: Au 0.5 | model | [1] Murray 1987 | Table 1, p. 2, row 2; `ORC-QULCLTDB4G` |  |
 | 898 | L + (Al2Au) -> AlAu | L: Au 0.565; (Al2Au): Au 0.3392; AlAu: Au 0.5 | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 3; `ORC-BMXMVZQTVR` |  |
 | 897 | L + (Al2Au) -> AlAu | L: Au 0.5817; (Al2Au): Au 0.3381; AlAu: Au 0.5 | model | [2] Li 2004 | Table 1, p. 2, row 4; `ORC-DCR7FR2NXD` |  |
-| 852 | L -> AlAu + γ(AlAu2) | L: Au 0.6065; AlAu: Au 0.5; γ(AlAu2): Au 0.6555 | model | [2] Li 2004 | Table 1, p. 2, row 6; `ORC-TMUQDBIZKM` |  |
+| 852 | eutectic: L -> AlAu + γ(AlAu2) | L: Au 0.6065; AlAu: Au 0.5; γ(AlAu2): Au 0.6555 | model | [2] Li 2004 | Table 1, p. 2, row 6; `ORC-TMUQDBIZKM` |  |
 | 848.15 | peritectic: L + γAlAu2 -> Al2Au5 | L: Au 0.72; γAlAu2: Au 0.667; Al2Au5: Au 0.7143 | model | [1] Murray 1987 | Table 1, p. 2, row 7; `ORC-HECOMUMVRB` |  |
-| 848 | L -> γ(AlAu2) + Al3Au8 | L: Au 0.72; γ(AlAu2): Au 0.667; Al3Au8: Au 0.727 | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 9; `ORC-PZMMFQ55LX` |  |
-| 848 | L -> γ(AlAu2) + Al3Au8 | L: Au 0.722; γ(AlAu2): Au 0.669; Al3Au8: Au 0.727 | model | [2] Li 2004 | Table 1, p. 2, row 10; `ORC-UBVMD5GI3Z` |  |
-| 844 | L -> AlAu + γ(AlAu2) | L: Au 0.6; AlAu: Au 0.5; γ(AlAu2): Au 0.65 | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 5; `ORC-NC6U5MTVB2` |  |
+| 848 | eutectic: L -> γ(AlAu2) + Al3Au8 | L: Au 0.72; γ(AlAu2): Au 0.667; Al3Au8: Au 0.727 | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 9; `ORC-PZMMFQ55LX` |  |
+| 848 | eutectic: L -> γ(AlAu2) + Al3Au8 | L: Au 0.722; γ(AlAu2): Au 0.669; Al3Au8: Au 0.727 | model | [2] Li 2004 | Table 1, p. 2, row 10; `ORC-UBVMD5GI3Z` |  |
+| 844 | eutectic: L -> AlAu + γ(AlAu2) | L: Au 0.6; AlAu: Au 0.5; γ(AlAu2): Au 0.65 | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 5; `ORC-NC6U5MTVB2` |  |
 | 842.15 | eutectic: L -> AlAu + γAlAu2 | L: Au 0.6; AlAu: Au 0.5; γAlAu2: Au 0.65 | model | [1] Murray 1987 | Table 1, p. 2, row 3; `ORC-WWRUFJEDUK` |  |
 | 833.15 | eutectoid: γAlAu2 -> βAlAu2 + AlAu5 | γAlAu2: Au 0.668; βAlAu2: Au 0.667; AlAu5: Au 0.7143 | model | [1] Murray 1987 | Table 1, p. 2, row 6; `ORC-JCPG7LS2V2.ac2330` |  |
 | 833.15 | eutectoid: γAlAu2 -> αAlAu2 + βAlAu2 | γAlAu2: Au 0.662; αAlAu2: Au 0.663; βAlAu2: Au 0.661 | model | [1] Murray 1987 | Table 1, p. 2, row 5; `ORC-JCPG7LS2V2.ac2940` |  |
@@ -121,8 +119,8 @@ Table: Invariant reactions reported in the literature for the Al–Au system (34
 | 818.15 | peritectic: L + (Au) -> β | L: Au 0.8; (Au): Au 0.84; β: Au 0.812 | model | [1] Murray 1987 | Table 1, p. 2, row 12; `ORC-WRGXSL2VOC.1cefc4` |  |
 | 818 | L + (Au) -> β(AlAu4) | L: Au 0.8; (Au): Au 0.84; β(AlAu4): Au 0.812 | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 11; `ORC-F2XGB5IGYM` |  |
 | 818 | γ(AlAu2) -> AlAu + β(AlAu2) | γ(AlAu2): Au 0.65; AlAu: Au 0.5; β(AlAu2): Au 0.651 | experimental | [2] Li 2004; _cites Puselj 1972_ | Table 1, p. 2, row 13; `ORC-VNRAK42UYZ` |  |
-| 812 | L -> β(AlAu4) + Al3Au8 | L: Au 0.779; β(AlAu4): Au 0.727; Al3Au8: Au 0.804 | model | [2] Li 2004 | Table 1, p. 2, row 8; `ORC-ANXGRGARD5` |  |
-| 800 | L -> β(AlAu4) + Al3Au8 | L: Au 0.785; β(AlAu4): Au 0.727; Al3Au8: Au 0.8 | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 7; `ORC-IYVLY5ILFC` |  |
+| 812 | eutectic: L -> β(AlAu4) + Al3Au8 | L: Au 0.779; β(AlAu4): Au 0.727; Al3Au8: Au 0.804 | model | [2] Li 2004 | Table 1, p. 2, row 8; `ORC-ANXGRGARD5` |  |
+| 800 | eutectic: L -> β(AlAu4) + Al3Au8 | L: Au 0.785; β(AlAu4): Au 0.727; Al3Au8: Au 0.8 | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 7; `ORC-IYVLY5ILFC` |  |
 | 798.15 | eutectic: L -> Al2Au5 + β | L: Au 0.785; Al2Au5: Au 0.7143; β: Au 0.8 | model | [1] Murray 1987 | Table 1, p. 2, row 8; `ORC-YHVOTYOJR3` |  |
 | 784 | Al3Au8 + β(AlAu4) -> AlAu4 | Al3Au8: Au 0.727; β(AlAu4): Au 0.8025; AlAu4: Au 0.8 | model | [2] Li 2004 | Table 1, p. 2, row 20; `ORC-GNUZX72IJY` |  |
 | 783.15 | peritectoid: Al2Au5 + β -> AlAu4 | Al2Au5: Au 0.7143; β: Au 0.802; AlAu4: Au 0.8 | model | [1] Murray 1987 | Table 1, p. 2, row 9; `ORC-2BWKZSAYUO` |  |

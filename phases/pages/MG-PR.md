@@ -17,7 +17,7 @@ Table: Phases of the Mg–Pr system (11)
 | [DHCP](#phase-mg-pr-dhcp-a3); _phase:mg-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Pr) 0.21896–1 | 9 | 3 |
 | [FCC_A1](#phase-mg-pr-fcc-a1); _phase:mg-pr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-mg-pr-hcp-a3); _phase:mg-pr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–932.95 K, x(Pr) 0–0.00237 | 9 | 3 |
-| [LIQUID](#phase-mg-pr-liquid); _phase:mg-pr:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 837.03–2500 K, x(Pr) 0–1 | 68 | 3 |
+| [LIQUID](#phase-mg-pr-liquid); _phase:mg-pr:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 837.03–2500 K, x(Pr) 0–1 | 69 | 3 |
 | [MG12PR_D2B](#phase-mg-pr-mg12pr-d2b); _phase:mg-pr:mg12pr-d2b_ | Mn12Th · D2_b · tI26 · I4/mmm (139) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–852.72 K, x(Pr) 0.07692–0.07692 | 17 | 3 |
 | [MG2PR_C15](#phase-mg-pr-mg2pr-c15); _phase:mg-pr:mg2pr-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 932.78–1012.8 K, x(Pr) 0.33333–0.33333 | 26 | 3 |
 | [MG3PR_D03](#phase-mg-pr-mg3pr-d03); _phase:mg-pr:mg3pr-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1063.03 K, x(Pr) 0.17988–0.25 | 35 | 3 |
@@ -259,7 +259,7 @@ _cited as the source of values for this phase_
 - Id: `phase:mg-pr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 837.03–2500 K, x(Pr) 0–1
-- Literature: 68 values (68 accepted) from 3 papers
+- Literature: 69 values (69 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-pr:liquid)
 
 Names (8): _corpus: _corpus:phase:mg-pr:liquid  

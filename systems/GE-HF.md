@@ -1,10 +1,10 @@
 # Ge–Hf system
 
-> Ge–Hf system: 107 accepted literature values (crystal structure 43, invariant reaction 27, formation 21, phase equilibrium 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Hf system: 100 accepted literature values (crystal structure 43, invariant reaction 21, formation 20, phase equilibrium 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-HF.html · Markdown: https://data.orchid-project.org/systems/GE-HF.md
 
-107 accepted literature values from 1 paper(s) (experimental 63, model 21, DFT 7, unspecified 16); 1 calculated phase diagram(s).
+100 accepted literature values from 1 paper(s) (experimental 57, model 20, DFT 7, unspecified 16); 1 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-HF.json) · [CSV](https://data.orchid-project.org/systems/GE-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-HF/GeHf-14Tan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GE-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-HF.html) · [Markdown](https://data.orchid-project.org/systems/GE-HF.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 63 |
-| model | 21 |
+| experimental | 57 |
+| model | 20 |
 | DFT | 7 |
 | unspecified | 16 |
 
@@ -21,10 +21,10 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
+| invariant reaction | 21 |
 | phase transition | 1 |
 | phase equilibrium | 15 |
-| formation | 21 |
+| formation | 20 |
 | crystal structure | 43 |
 
 ## Calculated phase diagrams
@@ -67,7 +67,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Hf system (27)
+Table: Invariant reactions reported in the literature for the Ge–Hf system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -88,26 +88,19 @@ Table: Invariant reactions reported in the literature for the Ge–Hf system (27
 | 2017.35 | peritectoid: (βHf) + Hf3Ge -> (αHf) | Hf3Ge: Ge 0.25, Hf 0.75 | model | [1] Tang 2014 | Table 6, p. 9, row 4; `ORC-AOFEK4RZSK` |  |
 | 2017.15 | peritectic: Liquid + Hf5Ge4 -> HfGe2 | Hf5Ge4: Ge 0.444444, Hf 0.555556; HfGe2: Ge 0.666667, Hf 0.333333 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 15; `ORC-LTNXYIKV5K` |  |
 | 1512.05 | eutectoid: Hf3Ge2 -> Hf5Ge3 + Hf5Ge4 | Hf3Ge2: Ge 0.4, Hf 0.6; Hf5Ge3: Ge 0.375, Hf 0.625; Hf5Ge4: Ge 0.444444, Hf 0.555556 | model | [1] Tang 2014 | Table 6, p. 9, row 21; `ORC-Q6GE4WZI7K` |  |
-| 1512.05 | eutectoid: Hf3Ge2 $ Hf5Ge3 ? Hf5Ge4 |  | model | [1] Tang 2014 | p. 10; `ORC-RRLQLOIJSX` | “The calculated temperature of the proposed eutectoid reaction Hf3Ge2 $ Hf5Ge3 ? Hf5Ge4 was at 1238.9 °C, which is within the range from 1100 to 1350 °C.” |
 | 1373.15 | eutectoid: Hf3Ge2 -> Hf5Ge3 + Hf5Ge4 | Hf3Ge2: Ge 0.4, Hf 0.6; Hf5Ge3: Ge 0.375, Hf 0.625; Hf5Ge4: Ge 0.444444, Hf 0.555556 | experimental | [1] Tang 2014 | Table 6, p. 9, row 20; `ORC-M4PSHYTV4J` |  |
-| 1208.35 | eutectic |  | experimental | [1] Tang 2014 | p. 8; `ORC-TM23Y4KRLI.3f08fd` | “The eutectic reaction temperature (Liquid $ HfGe2 ? (Ge)) in the composition range of 80-98 at.% Ge are measured by DTA using alloys 11-15 annealed at 800 °C. The measured phase transformation temperatures for these alloys are 931.2, 931.5, 931.3, 933.9, and 935.2 °C, respectively.” |
-| 1207.05 | eutectic |  | experimental | [1] Tang 2014 | p. 8; `ORC-TM23Y4KRLI.b8cf15` | “The eutectic reaction temperature (Liquid $ HfGe2 ? (Ge)) in the composition range of 80-98 at.% Ge are measured by DTA using alloys 11-15 annealed at 800 °C. The measured phase transformation temperatures for these alloys are 931.2, 931.5, 931.3, 933.9, and 935.2 °C, respectively.” |
 | 1206.45 | eutectic: Liquid -> HfGe2 + (Ge) | HfGe2: Ge 0.666667, Hf 0.333333 | model | [1] Tang 2014 | Table 6, p. 9, row 19; `ORC-2A75EY2NGC` |  |
 | 1205.75 | eutectic: Liquid -> HfGe2 + (Ge) | HfGe2: Ge 0.666667, Hf 0.333333 | experimental | [1] Tang 2014 | Table 6, p. 9, row 17; `ORC-7ICFWSK3K4` |  |
-| 1204.65 | eutectic |  | experimental | [1] Tang 2014 | p. 8; `ORC-TM23Y4KRLI.e5b24d` | “The eutectic reaction temperature (Liquid $ HfGe2 ? (Ge)) in the composition range of 80-98 at.% Ge are measured by DTA using alloys 11-15 annealed at 800 °C. The measured phase transformation temperatures for these alloys are 931.2, 931.5, 931.3, 933.9, and 935.2 °C, respectively.” |
-| 1204.45 | eutectic |  | experimental | [1] Tang 2014 | p. 8; `ORC-TM23Y4KRLI.33c139` | “The eutectic reaction temperature (Liquid $ HfGe2 ? (Ge)) in the composition range of 80-98 at.% Ge are measured by DTA using alloys 11-15 annealed at 800 °C. The measured phase transformation temperatures for these alloys are 931.2, 931.5, 931.3, 933.9, and 935.2 °C, respectively.” |
-| 1204.35 | eutectic |  | experimental | [1] Tang 2014 | p. 8; `ORC-TM23Y4KRLI.ead10a` | “The eutectic reaction temperature (Liquid $ HfGe2 ? (Ge)) in the composition range of 80-98 at.% Ge are measured by DTA using alloys 11-15 annealed at 800 °C. The measured phase transformation temperatures for these alloys are 931.2, 931.5, 931.3, 933.9, and 935.2 °C, respectively.” |
 | 1203.15 | eutectic: Liquid -> HfGe2 + (Ge) | HfGe2: Ge 0.666667, Hf 0.333333 | experimental | [1] Tang 2014; _cites Nowotny 1960_ | Table 6, p. 9, row 18; `ORC-MWT5EF276Z` |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ge–Hf system (21)
+Table: Enthalpies of formation, Ge–Hf system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -67 unspecified ± 4 | 298.15 | experimental |  |  | [1] Tang 2014 | p. 1; `ORC-73W4I64U72` | “The major experimental results are as follows: (I) the heat contents of the Hf3Ge and HfGe2 phases were measured from 400 to 1050 °C; (II) the enthalpy of formation at 298 K for the HfGe2 phase (-67 ± 4 kJ/mol atoms) was measured; (III) the invariant reaction temperature of Liquid $ (Ge) ? HfGe2 was determined to be at 932.6 ± 2.3 °C; and (IV) the previously reported phases HfGe and Hf3Ge2 were n…” |
 | Hf2Ge | [GeHf2](https://data.orchid-project.org/compounds/GeHf2.html) | -98.47 kJ/mol-atom ± 10.8 | 298.15 | experimental | -63.356 (mp-aaaaaosh) | -63.208 (oqmd-7794) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 4; `ORC-UMF5FHBZ2R.3ee0b5` |  |
 | Hf2Ge |  | -63.009 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 5; `ORC-3LN5K7OCWU.535a47` |  |
 | Hf2Ge | [GeHf2](https://data.orchid-project.org/compounds/GeHf2.html) | -62.62 kJ/mol-atom | 298.15 | model | -63.356 (mp-aaaaaosh) | -63.208 (oqmd-7794) | [1] Tang 2014 | Table 2, p. 3, row 6; `ORC-IHCDRGMAUK.16a6c2` |  |

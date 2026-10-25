@@ -48,8 +48,7 @@
    "10.1016/s0364-5916(03)00049-x",
    "10.1016/s0925-8388(97)00528-8"
   ],
-  "source_dataset": "db-v2.1/general/espei/NiSi-03Tok/hmr-02.json",
-  "values_dropped": 1
+  "source_dataset": "db-v2.1/general/espei/NiSi-03Tok/hmr-02.json"
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -73,7 +72,7 @@
      "sigma_effective": 3500.0,
      "method_class": "unknown",
      "method_basis": "calibrated",
-     "method_n_pairs": 296,
+     "method_n_pairs": 297,
      "method_entry": "value_types/HM_FORM/classes/unknown"
     },
     "sigma_effective_used": 3500.0,

@@ -1,10 +1,10 @@
 # Mn–O system
 
-> Mn–O system: 353 accepted literature values (formation 103, heat capacity / entropy / enthalpy 69, activity / EMF / Gibbs energy 62, invariant reaction 53) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–O system: 352 accepted literature values (formation 103, heat capacity / entropy / enthalpy 69, activity / EMF / Gibbs energy 61, invariant reaction 53) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-O.html · Markdown: https://data.orchid-project.org/systems/MN-O.md
 
-353 accepted literature values from 2 paper(s) (experimental 173, model 162, unspecified 18); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+352 accepted literature values from 2 paper(s) (experimental 172, model 162, unspecified 18); 2 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-O.json) · [CSV](https://data.orchid-project.org/systems/MN-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-O/MnO-03Gru-LB.json) · [phases (16)](https://data.orchid-project.org/phases/pages/MN-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-O.html) · [Markdown](https://data.orchid-project.org/systems/MN-O.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 173 |
+| experimental | 172 |
 | model | 162 |
 | unspecified | 18 |
 
@@ -21,12 +21,12 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 53 |
-| phase transition | 14 |
+| phase transition | 13 |
 | formation | 103 |
 | mixing / partial | 1 |
 | heat capacity / entropy / enthalpy | 69 |
-| activity / EMF / Gibbs energy | 62 |
-| model expression | 51 |
+| activity / EMF / Gibbs energy | 61 |
+| model expression | 52 |
 
 ## Calculated phase diagrams
 
@@ -240,7 +240,7 @@ Table: Enthalpies of formation, Mn–O system (103)
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (13)
 
 Table: Phase transition, Mn–O system
 
@@ -248,7 +248,6 @@ Table: Phase transition, Mn–O system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 300 K | 300 | a-Mn2O3 -> b-Mn2O3 | experimental | [2] Kjellqvist 2010 | p. 5; `ORC-RNTKOKGSI7` | “a-Bixbyite (a-Mn2O3) transforms to b-Mn2O3 (Strukturbericht D53) at around 300 K.” |
 | Phase transition | 300 K | 300 | alpha-Mn2O3 + beta-Mn2O3 | experimental | [1] Grundy 2003; _cites Geller 1970_ [doi](https://doi.org/10.1103/physrevb.1.3763) | p. 3; `ORC-KSDQLOUI5J` | “Orthorhombic ␣-bixbyite (␣-Mn2O3) transforms to cubic ␤-bixbyite\[59\] at around 300 K.” |
-| Phase transition | 300 K | 300 | α-Mn2O3 → β-Mn2O3 | experimental | [1] Grundy 2003 | p. 10; `ORC-QTQK5VOURC` | “It should again be noted that no attempt was made to model the ␣ → ␤-Mn2O3 transition at ∼300 K, which causes the pronounced peak in the measured cP values (Fig. 8), and only the cP data above the transition temperature were used for the optimization.” |
 | Phase transition | 1408 K | 1408 | alpha-Mn3O4 + beta-Mn3O4 | experimental | [1] Grundy 2003; _cites Driessens 1967_ [doi](https://doi.org/10.1016/s0020-1693%2800%2993169-4) | p. 3; `ORC-ZCN4Z6AIVZ.bd0d56` | “The measured temperatures at which this transformation takes place are between 1408 K,\[52\] 1430 K,\[54\] 1433 K,\[30\] and 1473 K \[51\] with a larger number of other measurements\[5,20,55-57\] grouped between 1443 and 1450 K (Table 2).” |
 | Phase transition | 1430 K | 1430 | alpha-Mn3O4 + beta-Mn3O4 | experimental | [1] Grundy 2003; _cites Metselaar 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990064-5) | p. 3; `ORC-ZCN4Z6AIVZ.216912` | “The measured temperatures at which this transformation takes place are between 1408 K,\[52\] 1430 K,\[54\] 1433 K,\[30\] and 1473 K \[51\] with a larger number of other measurements\[5,20,55-57\] grouped between 1443 and 1450 K (Table 2).” |
 | Phase transition | 1433 K | 1433 | alpha-Mn3O4 + beta-Mn3O4 | experimental | [1] Grundy 2003; _cites Van 1958_ | p. 3; `ORC-ZCN4Z6AIVZ.4eb528` | “The measured temperatures at which this transformation takes place are between 1408 K,\[52\] 1430 K,\[54\] 1433 K,\[30\] and 1473 K \[51\] with a larger number of other measurements\[5,20,55-57\] grouped between 1443 and 1450 K (Table 2).” |
@@ -345,7 +344,7 @@ Table: Heat capacity / entropy / enthalpy, Mn–O system
 | Entropy; _printed: °S298_ | 17.6967 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 23; `ORC-VTVUTKHFNL` |  |
 | Entropy; _printed: °S298_ | 17.9833 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003 | Table 10, p. 15, row 30; `ORC-ZLVUUANV7N` |  |
 
-### Activity / EMF / Gibbs energy (62)
+### Activity / EMF / Gibbs energy (61)
 
 Table: Activity / EMF / Gibbs energy, Mn–O system
 
@@ -363,7 +362,6 @@ Table: Activity / EMF / Gibbs energy, Mn–O system
 | Gibbs energy; _printed: Δ°G(T) constant_ | -124740 J/mol | 820.5 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Meyer 1908_ [doi](https://doi.org/10.1002/zaac.19080570105) | Table 9, p. 11, row 15; `ORC-3K74EHFATY.848408` |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -245604 J/mol | 973 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Chou 1978_ | Table 7, p. 11, row 9; `ORC-F74X5D5IBA.182493` |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 130.48 J/mol | 973 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Chou 1978_ | Table 7, p. 11, row 9; `ORC-F74X5D5IBA.ac88f5` |  |
-| Gibbs energy; _printed: Δ°G(T) T ln(T) coefficient_ | 2.11 J/mol/K | 1000 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 17; `ORC-ZKRPD3Z3OX.2c30e5` |  |
 | Gibbs energy; _printed: Δ°G(T) constant_ | -80000 J/mol | 1000 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 17; `ORC-ZKRPD3Z3OX.93a04c` |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -114139 J/mol | 1003.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 8, p. 11, row 28; `ORC-44L3GERLK4.d848fa` |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -90311 J/mol | 1043.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Huebner 1970_ | Table 8, p. 11, row 17; `ORC-DY76QOD4SQ.0cb30d` |  |
@@ -414,7 +412,7 @@ Table: Activity / EMF / Gibbs energy, Mn–O system
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 117.2 J/mol | 1733.5 | MnO + β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Schmahl 1969_ [doi](https://doi.org/10.1002/srin.196904332) | Table 7, p. 11, row 2; `ORC-2AF6PDLOGU.5c2838` |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -229774 J/mol | 1733.5 | MnO + β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Schmahl 1969_ [doi](https://doi.org/10.1002/srin.196904332) | Table 7, p. 11, row 2; `ORC-2AF6PDLOGU.9ceae1` |  |
 
-### Model expression (51)
+### Model expression (52)
 
 Table: Model expression, Mn–O system
 
@@ -443,6 +441,7 @@ Table: Model expression, Mn–O system
 | gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 103.63 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 18; `ORC-PPFGZJ2VDI.6f4bf1` |  |
 | gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 62.24 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Askenasy 1910_ | Table 9, p. 11, row 13; `ORC-RTOVQV4VOD.ae7430` |  |
 | gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 49.56 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Kim 1966_ | Table 9, p. 11, row 12; `ORC-WWULX6IWSS.64ba55` |  |
+| gibbs energy expression term; _printed: Δ°G(T) T ln(T) coefficient_ | 2.11 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 17; `ORC-ZKRPD3Z3OX.2c30e5` |  |
 | gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 94.4 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 17; `ORC-ZKRPD3Z3OX.737df3` |  |
 | gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 306 J/mol/K |  | Mn2O3 + β-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 31; `ORC-54XEVCH7PY.7652e5` |  |
 | gibbs energy expression term; _printed: Δ°G(T) coefficient of T ln(T)_ | -23.8 J/mol/K |  | Mn2O3 + β-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 31; `ORC-54XEVCH7PY.f02649` |  |

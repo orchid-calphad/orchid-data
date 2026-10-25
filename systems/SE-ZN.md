@@ -31,9 +31,9 @@ Table: Invariant reactions reported in the literature for the Se–Zn system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1675.2 | Liq -> liq + ZnSe | Liq: Se 0.4; liq: Se 0.16; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 2; `ORC-ESS7TSOAWI` |  |
-| 692.7 | Liq -> (Zn) + ZnSe | Liq: Se 0; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 1; `ORC-HJ2QPZABP4` |  |
-| 494 | Liq -> (Se) + ZnSe | Liq: Se 1; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 3; `ORC-3TXDUOA2UG` |  |
+| 1675.2 | monotectic: Liq -> liq + ZnSe | Liq: Se 0.4; liq: Se 0.16; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 2; `ORC-ESS7TSOAWI` |  |
+| 692.7 | eutectic: Liq -> (Zn) + ZnSe | Liq: Se 0; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 1; `ORC-HJ2QPZABP4` |  |
+| 494 | eutectic: Liq -> (Se) + ZnSe | Liq: Se 1; ZnSe: Se 0.5, Zn 0.5 | model | [1] Chen 2014 | Table 5, p. 5, row 3; `ORC-3TXDUOA2UG` |  |
 
 ## Formation enthalpies
 

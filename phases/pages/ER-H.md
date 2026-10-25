@@ -15,7 +15,7 @@ Table: Phases of the Er–H system (5)
 | [BCC_A2](#phase-er-h-bcc-a2); _phase:er-h:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-er-h-fcc-a1); _phase:er-h:fcc-a1_ | CaF2 · C1 · cF12 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 300–1494.6 K, x(H) 0.44743–0.70158 | 0 | 1 |
 | [GAS](#phase-er-h-gas); _phase:er-h:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(H) 1–1 | 0 | 1 |
-| [HCP_A3](#phase-er-h-hcp-a3); _phase:er-h:hcp-a3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2047.56 K, x(H) 0–0.75 | 4 | 1 |
+| [HCP_A3](#phase-er-h-hcp-a3); _phase:er-h:hcp-a3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2047.56 K, x(H) 0–0.75 | 0 | 1 |
 | [LIQUID](#phase-er-h-liquid); _phase:er-h:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1795–2500 K, x(H) 0–0.00509 | 0 | 1 |
 
 ## BCC_A2 (Er–H)
@@ -108,11 +108,10 @@ _assessment that models this phase_
 - Candidate (name_token): Mg · A3 · hP2 · P6_3/mmc (194) — Strukturbericht/word 'A3' in the TDB name
 - Candidate (sgte_mmc2): HoH3 · hP24 · P-3c1 (165) — Hallstedt 2025 mmc2 row for HCP_A3: DyH3, ErH3, GdH3, YH3
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2047.56 K, x(H) 0–0.75
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-h:hcp-a3)
 
-Names (3): _corpus: _corpus:phase:er-h:hcp-a3  
-_paper: _paper:10.1016/j.calphad.2013.01.004:γ-ErH3  
+Names (2): _corpus: _corpus:phase:er-h:hcp-a3  
 _tdb: _tdb:ErH-13Mas.tdb:HCP_A3  
 
 
@@ -128,7 +127,7 @@ _tdb: _tdb:ErH-13Mas.tdb:HCP_A3
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.01.004](https://doi.org/10.1016/j.calphad.2013.01.004) Aurore Mascaro, Caroline Toffolon-Masclet, Caroline Raepsaet, Jean-Marc Joubert, Experimental study and thermodynamic assessment of the erbium–hydrogen binary system, Calphad 41, 50-59 (2013).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## LIQUID (Er–H)
 

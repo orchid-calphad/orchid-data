@@ -281,7 +281,7 @@
     "x0": 0.011,
     "hyperplane_delta": 0.0055,
     "reaction_printed": "L -> (Al) + (Al2Au)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -300,7 +300,7 @@
     "x0": 0.011,
     "hyperplane_delta": 0.0055,
     "reaction_printed": "L -> (Al) + (Al2Au)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -357,7 +357,7 @@
     "x0": 0.72,
     "hyperplane_delta": 0.0036363636363636598,
     "reaction_printed": "L -> γ(AlAu2) + Al3Au8",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

@@ -13,14 +13,14 @@ Table: Phases of the Cu–Hf system (9)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cu-hf-bcc-a2); _phase:cu-hf:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1812.79–3999.73 K, x(Hf) 0.9556–1 | 6 | 3 |
-| [CU10HF7](#phase-cu-hf-cu10hf7); _phase:cu-hf:cu10hf7_ | Ni10Zr7 · oC68 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1279.43 K, x(Hf) 0.41176–0.41176 | 34 | 3 |
+| [CU10HF7](#phase-cu-hf-cu10hf7); _phase:cu-hf:cu10hf7_ | Ni10Zr7 · oC68 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1279.43 K, x(Hf) 0.41176–0.41176 | 35 | 3 |
 | [CU51HF14](#phase-cu-hf-cu51hf14); _phase:cu-hf:cu51hf14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1388 K, x(Hf) 0.21538–0.21538 | 37 | 3 |
 | [CU5HF_C15B](#phase-cu-hf-cu5hf-c15b); _phase:cu-hf:cu5hf-c15b_ | AuBe5 · C15_b · cF24 · F-43m (216) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1332.63 K, x(Hf) 0.16667–0.16667 | 25 | 3 |
 | [CU8HF3](#phase-cu-hf-cu8hf3); _phase:cu-hf:cu8hf3_ | Cu8Hf3 · oP44 · Pnma (62) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–1274.49 K, x(Hf) 0.27273–0.27273 | 26 | 3 |
-| [CUHF2](#phase-cu-hf-cuhf2); _phase:cu-hf:cuhf2_ | CuZr2 · tI6 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1611.26 K, x(Hf) 0.66667–0.66667 | 38 | 3 |
+| [CUHF2](#phase-cu-hf-cuhf2); _phase:cu-hf:cuhf2_ | CuZr2 · tI6 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1611.26 K, x(Hf) 0.66667–0.66667 | 39 | 3 |
 | [FCC_A1](#phase-cu-hf-fcc-a1); _phase:cu-hf:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1387.77 K, x(Hf) 0–0.0042 | 13 | 3 |
 | [HCP_A3](#phase-cu-hf-hcp-a3); _phase:cu-hf:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2501.02 K, x(Hf) 0.99379–1 | 15 | 3 |
-| [LIQUID](#phase-cu-hf-liquid); _phase:cu-hf:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1233.92–4000 K, x(Hf) 0–1 | 75 | 3 |
+| [LIQUID](#phase-cu-hf-liquid); _phase:cu-hf:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1233.92–4000 K, x(Hf) 0–1 | 76 | 3 |
 
 ## BCC_A2 (Cu–Hf)
 
@@ -77,7 +77,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.5882, Hf 0.4118
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1279.43 K, x(Hf) 0.41176–0.41176
-- Literature: 34 values (33 accepted) from 3 papers
+- Literature: 35 values (34 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-hf:cu10hf7)
 
 Names (7): _corpus: _corpus:phase:cu-hf:cu10hf7  
@@ -301,7 +301,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.3333, Hf 0.6667
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1611.26 K, x(Hf) 0.66667–0.66667
-- Literature: 38 values (37 accepted) from 3 papers
+- Literature: 39 values (38 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-hf:cuhf2)
 
 Names (7): _corpus: _corpus:phase:cu-hf:cuhf2  
@@ -450,7 +450,7 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-hf:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1233.92–4000 K, x(Hf) 0–1
-- Literature: 75 values (72 accepted) from 3 papers
+- Literature: 76 values (73 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-hf:liquid)
 
 Names (10): _corpus: _corpus:phase:cu-hf:liquid  

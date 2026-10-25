@@ -1,25 +1,12 @@
 # Au–Tl system
 
-> Au–Tl system: 5 accepted literature values (invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Tl system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-TL.html · Markdown: https://data.orchid-project.org/systems/AU-TL.md
 
-5 accepted literature values from 1 paper(s) (experimental 3, model 2); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-TL.json) · [CSV](https://data.orchid-project.org/systems/AU-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-TL/AuTl-89Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AU-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-TL.html) · [Markdown](https://data.orchid-project.org/systems/AU-TL.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 3 |
-| model | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 5 |
 
 ## Calculated phase diagrams
 
@@ -39,24 +26,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AuTl-89Che-LB.tdb | 415.44 | FCC_A1 (x(Tl) 0.00112) + LIQUID (x(Tl) 0.72338) + HCP_A3 (x(Tl) 0.99906) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AU/AU-TL.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AU/AU-TL.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Au–Tl system (5)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 418 | eutectic |  | model | [1] Chevalier 1989 | p. 10; `ORC-ZSYJVWYAP5.417968` | “The agreement is better for the eutectic temperature in the second case: T = 418 K, xrl = 0.722, for (a); T = 409 K, xn = 0.719, for (b), compared with T = 404 K \[25\] and T = 415 K \[27\].” |
-| 415 | eutectic |  | experimental | [1] Chevalier 1989; _cites ref. 27_ | p. 4; `ORC-YFIQLSTTCK` | “There is eutectic reaction liquid (L) e f.c.c. + Tl h.c.p. and the eutectic point was located by Hajicek \[27\] at T = 415 K and xri = 0.708.” |
-| 415 | eutectic |  | experimental | [1] Chevalier 1989; _cites ref. 27_ | p. 10; `ORC-ZSYJVWYAP5.ddafa7` | “The agreement is better for the eutectic temperature in the second case: T = 418 K, xrl = 0.722, for (a); T = 409 K, xn = 0.719, for (b), compared with T = 404 K \[25\] and T = 415 K \[27\].” |
-| 409 | eutectic |  | model | [1] Chevalier 1989 | p. 10; `ORC-ZSYJVWYAP5.493fdb` | “The agreement is better for the eutectic temperature in the second case: T = 418 K, xrl = 0.722, for (a); T = 409 K, xn = 0.719, for (b), compared with T = 404 K \[25\] and T = 415 K \[27\].” |
-| 404 | eutectic |  | experimental | [1] Chevalier 1989; _cites Levin 1905_ [doi](https://doi.org/10.1002/zaac.19050450105) | p. 10; `ORC-ZSYJVWYAP5.4bf513` | “The agreement is better for the eutectic temperature in the second case: T = 418 K, xrl = 0.722, for (a); T = 409 K, xn = 0.719, for (b), compared with T = 404 K \[25\] and T = 415 K \[27\].” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Pierre-Yves Chevalier, A thermodynamic evaluation of the Au-Sb and Au-Tl systems, Thermochimica Acta 155, 211-225 (1989). [doi:10.1016/0040-6031(89)87147-3](https://doi.org/10.1016/0040-6031%2889%2987147-3)
 
 ## Please cite
 

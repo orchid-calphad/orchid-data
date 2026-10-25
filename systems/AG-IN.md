@@ -1,10 +1,10 @@
 # Ag–In system
 
-> Ag–In system: 59 accepted literature values (invariant reaction 44, phase transition 15) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–In system: 50 accepted literature values (invariant reaction 43, phase transition 7) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-IN.html · Markdown: https://data.orchid-project.org/systems/AG-IN.md
 
-59 accepted literature values from 2 paper(s) (experimental 43, model 16); 6 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+50 accepted literature values from 2 paper(s) (experimental 35, model 15); 6 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-IN.json) · [CSV](https://data.orchid-project.org/systems/AG-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-IN/AgIn-01Che-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AG-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-IN.html) · [Markdown](https://data.orchid-project.org/systems/AG-IN.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
-| model | 16 |
+| experimental | 35 |
+| model | 15 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 44 |
-| phase transition | 15 |
+| invariant reaction | 43 |
+| phase transition | 7 |
 
 ## Calculated phase diagrams
 
@@ -100,7 +100,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–In system (44)
+Table: Invariant reactions reported in the literature for the Ag–In system (43)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -125,7 +125,6 @@ Table: Invariant reactions reported in the literature for the Ag–In system (44
 | 933 | β -> L + ζ | β: In 0.247; L: In 0.242; ζ: In 0.311 | experimental | [1] Muzzillo 2018; _cites Hellner 1951_ | Table 1, p. 3, row 16; `ORC-ESMQ7TMI5T` |  |
 | 933 | β -> L + ζ | β: In 0.322; L: In 0.298; ζ: In 0.336 | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 17; `ORC-USOLJQWAOI` |  |
 | 933 | β -> L + ζ | β: In 0.247; L: In 0.242; ζ: In 0.317 | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 15; `ORC-XQZWANXRUQ` |  |
-| 579 | eutectoid |  | experimental | [1] Muzzillo 2018 | p. 13; `ORC-BT7O5GFWCI` | “This reaction was expected between the ternary AgIn2 peritectic at 488 K and the g-HT eutectoid reaction at 579 K in the Cu-In binary system.” |
 | 478.3 | ζ -> L + γ-Ag9In4 | ζ: In 0.387; L: In 0.95; γ-Ag9In4: In 0.332 | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 1, p. 3, row 31; `ORC-F2ZBI4VUKJ` |  |
 | 478 | ζ -> L + γ-Ag9In4 | ζ: In 0.476; L: In 0.353; γ-Ag9In4: In 0.928 | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 30; `ORC-SJ4BC7LNCK` |  |
 | 477.4 | ζ -> L + γ-Ag9In4 | ζ: In 0.373; L: In 0.932; γ-Ag9In4: In 0.336 | model | [1] Muzzillo 2018 | Table 1, p. 3, row 33; `ORC-BGI5CBMY4F` |  |
@@ -142,36 +141,28 @@ Table: Invariant reactions reported in the literature for the Ag–In system (44
 | 439 | L + γ-Ag9In4 -> AgIn2 | L: In 0.355; γ-Ag9In4: In 0.955; AgIn2: In 0.667 | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 40; `ORC-7M6UQXWDLJ` |  |
 | 439 | L + γ-Ag9In4 -> AgIn2 | L: In 0.951; γ-Ag9In4: In 0.319; AgIn2: In 0.731 | experimental | [1] Muzzillo 2018; _cites Hellner 1951_ | Table 1, p. 3, row 39; `ORC-LRLRSBEPDL` |  |
 | 439 | L + γ-Ag9In4 -> AgIn2 | L: In 0.953; γ-Ag9In4: In 0.321; AgIn2: In 0.737 | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 38; `ORC-WQADKSEYYU` |  |
-| 418.7 | L -> AgIn2 + In | L: In 0.99; AgIn2: In 0.667; In: In 1 | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 1, p. 3, row 47; `ORC-5IVIVDWFNS` |  |
-| 417 | L -> AgIn2 + In | L: In 0.977; AgIn2: In 0.667; In: In 1 | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 46; `ORC-XMJAV7X7VM` |  |
-| 415.6 | L -> AgIn2 + In | L: In 0.973; AgIn2: In 0.67; In: In 1 | model | [1] Muzzillo 2018; _cites Gierlotka 2012_ [doi](https://doi.org/10.1007/s11664-011-1757-z) | Table 1, p. 3, row 48; `ORC-3LXLKPHPIP` |  |
-| 414.1 | L -> AgIn2 + In | L: In 0.97; AgIn2: In 0.667; In: In 1 | model | [1] Muzzillo 2018 | Table 1, p. 3, row 49; `ORC-YHWSLTPKGI` |  |
-| 414 | L -> AgIn2 + In | L: In 0.97; AgIn2: In 0.742; In: In 1 | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 44; `ORC-3AIMQHPNVE` |  |
-| 414 | L -> AgIn2 + In | L: In 0.962; AgIn2: In 0.738; In: In 1 | experimental | [1] Muzzillo 2018; _cites Hellner 1951_ | Table 1, p. 3, row 45; `ORC-CNIXJO25ND` |  |
+| 418.7 | eutectic: L -> AgIn2 + In | L: In 0.99; AgIn2: In 0.667; In: In 1 | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 1, p. 3, row 47; `ORC-5IVIVDWFNS` |  |
+| 417 | eutectic: L -> AgIn2 + In | L: In 0.977; AgIn2: In 0.667; In: In 1 | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 46; `ORC-XMJAV7X7VM` |  |
+| 415.6 | eutectic: L -> AgIn2 + In | L: In 0.973; AgIn2: In 0.67; In: In 1 | model | [1] Muzzillo 2018; _cites Gierlotka 2012_ [doi](https://doi.org/10.1007/s11664-011-1757-z) | Table 1, p. 3, row 48; `ORC-3LXLKPHPIP` |  |
+| 414.1 | eutectic: L -> AgIn2 + In | L: In 0.97; AgIn2: In 0.667; In: In 1 | model | [1] Muzzillo 2018 | Table 1, p. 3, row 49; `ORC-YHWSLTPKGI` |  |
+| 414 | eutectic: L -> AgIn2 + In | L: In 0.97; AgIn2: In 0.742; In: In 1 | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 44; `ORC-3AIMQHPNVE` |  |
+| 414 | eutectic: L -> AgIn2 + In | L: In 0.962; AgIn2: In 0.738; In: In 1 | experimental | [1] Muzzillo 2018; _cites Hellner 1951_ | Table 1, p. 3, row 45; `ORC-CNIXJO25ND` |  |
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (7)
 
 Table: Phase transition, Ag–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 477 K | 477 | other | model | [2] Fischer 2019 | p. 15; `ORC-GCULBZQAAW` | “The optimization based on the experimental points from Weibke and Eggers \[59\] for the (Ag2In + hcp) silver rich domain leads to a symmetric shape, the hcp composition reaches 42 at.% In at the metatectic temperature of 477 K.” |
-| Phase transition | 493 K | 493 | other | experimental | [1] Muzzillo 2018; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987023-2) | p. 5; `ORC-Y3VBLCMWPM` | “The data at 25.5 at.% In clearly indicated a phase transition at 493 K.” |
 | Phase transition | 557.4 K | 557.4 | ζ -> γ-Ag9In4; _ζ: In 0.327; γ-Ag9In4: In 0.327_ | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 1, p. 3, row 25; `ORC-IB6I5BULNQ` |  |
 | Phase transition | 570 K | 570 | ζ -> γ-Ag9In4; _ζ: In 0.342; γ-Ag9In4: In 0.342_ | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 24; `ORC-QR4UVEPKLS` |  |
 | Phase transition | 570.9 K | 570.9 | ζ -> γ-Ag9In4; _ζ: In 0.318; γ-Ag9In4: In 0.318_ | model | [1] Muzzillo 2018 | Table 1, p. 3, row 27; `ORC-LWBGVDWKKM` |  |
 | Phase transition | 572 K | 572 | ζ -> γ-Ag9In4; _ζ: In 0.314; γ-Ag9In4: In 0.314_ | experimental | [1] Muzzillo 2018; _cites Hellner 1951_ | Table 1, p. 3, row 23; `ORC-DYHL4WYVPN` |  |
 | Phase transition | 574 K | 574 | ζ -> γ-Ag9In4; _ζ: In 0.317; γ-Ag9In4: In 0.317_ | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 22; `ORC-IFDLSOLEXC` |  |
 | Phase transition | 577.1 K | 577.1 | ζ -> γ-Ag9In4; _ζ: In 0.33; γ-Ag9In4: In 0.33_ | model | [1] Muzzillo 2018; _cites Gierlotka 2012_ [doi](https://doi.org/10.1007/s11664-011-1757-z) | Table 1, p. 3, row 26; `ORC-PKQX5CVC5Q` |  |
-| Phase transition | 607 K | 607 | c-Ag9In4 ? L $ g-HT ? f | model | [1] Muzzillo 2018 | p. 12; `ORC-F3ZNPAOFAJ` | “Calculated invariant reactions were in excellent agreement with 9 reactions reported by Bahari et al. (880, 783, 762, 757, 737, 607, 589, 488, and 420 K reactions in Table 4), with the most notable discrepancy being the calculated c-Ag9In4 ? L $ g-HT ? f reaction occurring at 607 K in place of the reported cAg9In4 peritectic reaction.” |
-| Phase transition | 876.7 K | 876.7 | a-(Ag) ? b $ f ? L | experimental | [1] Muzzillo 2018 | p. 8; `ORC-NGGGER4RZ3` | “Nothing could be inferred from the reactions observed in only 1 or 2 isopleths-those at 755, 834 and 876.7 K.” |
-| Phase transition | 883 K | 883 | other | experimental | [1] Muzzillo 2018 | p. 8; `ORC-TXIIEY65QE.8cebac` | “Sisamouth, Hamdi, and Ariga reported an 883 K solidus and 977 K liquidus at 60Ag-25Cu-15In (wt%) or Ag51.5Cu36.4In12.1 (at.%), in relative agreement with the previously reported 903 and 978 K solidus and liquidus values of D'Silva at Ag52.8Cu35.0In12.2 \[3\], and the 968 K liquidus at Ag50.0Cu37.5In12.5 of WierzbickaMiernik \[2\].” |
-| Phase transition | 903 K | 903 | other | experimental | [1] Muzzillo 2018; _cites ref. 3_ | p. 8; `ORC-TXIIEY65QE.3c6967` | “Sisamouth, Hamdi, and Ariga reported an 883 K solidus and 977 K liquidus at 60Ag-25Cu-15In (wt%) or Ag51.5Cu36.4In12.1 (at.%), in relative agreement with the previously reported 903 and 978 K solidus and liquidus values of D'Silva at Ag52.8Cu35.0In12.2 \[3\], and the 968 K liquidus at Ag50.0Cu37.5In12.5 of WierzbickaMiernik \[2\].” |
-| Phase transition | 968 K | 968 | other | experimental | [1] Muzzillo 2018; _cites ref. 2_ | p. 8; `ORC-TXIIEY65QE.7933ae` | “Sisamouth, Hamdi, and Ariga reported an 883 K solidus and 977 K liquidus at 60Ag-25Cu-15In (wt%) or Ag51.5Cu36.4In12.1 (at.%), in relative agreement with the previously reported 903 and 978 K solidus and liquidus values of D'Silva at Ag52.8Cu35.0In12.2 \[3\], and the 968 K liquidus at Ag50.0Cu37.5In12.5 of WierzbickaMiernik \[2\].” |
-| Phase transition | 977 K | 977 | other | experimental | [1] Muzzillo 2018 | p. 8; `ORC-TXIIEY65QE.b95751` | “Sisamouth, Hamdi, and Ariga reported an 883 K solidus and 977 K liquidus at 60Ag-25Cu-15In (wt%) or Ag51.5Cu36.4In12.1 (at.%), in relative agreement with the previously reported 903 and 978 K solidus and liquidus values of D'Silva at Ag52.8Cu35.0In12.2 \[3\], and the 968 K liquidus at Ag50.0Cu37.5In12.5 of WierzbickaMiernik \[2\].” |
-| Phase transition | 978 K | 978 | other | experimental | [1] Muzzillo 2018; _cites ref. 3_ | p. 8; `ORC-TXIIEY65QE.c71ba4` | “Sisamouth, Hamdi, and Ariga reported an 883 K solidus and 977 K liquidus at 60Ag-25Cu-15In (wt%) or Ag51.5Cu36.4In12.1 (at.%), in relative agreement with the previously reported 903 and 978 K solidus and liquidus values of D'Silva at Ag52.8Cu35.0In12.2 \[3\], and the 968 K liquidus at Ag50.0Cu37.5In12.5 of WierzbickaMiernik \[2\].” |
 
 ## Sources
 

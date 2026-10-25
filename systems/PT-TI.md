@@ -1,10 +1,10 @@
 # Pt–Ti system
 
-> Pt–Ti system: 38 accepted literature values (invariant reaction 31, phase transition 6, activity / EMF / Gibbs energy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pt–Ti system: 29 accepted literature values (invariant reaction 28, activity / EMF / Gibbs energy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PT-TI.html · Markdown: https://data.orchid-project.org/systems/PT-TI.md
 
-38 accepted literature values from 1 paper(s) (experimental 25, model 13); 1 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 16, model 13); 1 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PT-TI.json) · [CSV](https://data.orchid-project.org/systems/PT-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PT-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-TI/PtTi-08Li.json) · [phases (10)](https://data.orchid-project.org/phases/pages/PT-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PT-TI.html) · [Markdown](https://data.orchid-project.org/systems/PT-TI.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
+| experimental | 16 |
 | model | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 31 |
-| phase transition | 6 |
+| invariant reaction | 28 |
 | activity / EMF / Gibbs energy | 1 |
 
 ## Calculated phase diagrams
@@ -53,7 +52,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pt–Ti system (31)
+Table: Invariant reactions reported in the literature for the Pt–Ti system (28)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -64,16 +63,13 @@ Table: Invariant reactions reported in the literature for the Pt–Ti system (31
 | 2073 | peritectic: L + γ → Fcc | L: Pt 0.885; γ: Pt 0.782; Fcc: Pt 0.884 | model | [1] Li 2008 | Table 1, p. 2, row 16; `ORC-5ANFA6LTE3` |  |
 | 2073 | peritectic: L + γ → Fcc | L: Pt 0.9; γ: Pt 0.8; Fcc: Pt 0.88 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 15; `ORC-R3O5U22RBX` |  |
 | 2053 | eutectic: L → βTiPt + γ | L: Pt 0.58; βTiPt: Pt 0.526; γ: Pt 0.75 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 11; `ORC-JAKMSHM377` |  |
-| 2053 | eutectic |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1; `ORC-MEMNAUK7DD.c92389` | “Nishimura and Hiramatsu \[6\] also reported three eutectic reactions: the first forming bcc and Ti3 Pt at ∼15 at.% Pt and 1588 K; the second forming Ti3 Pt and TiPt at ∼34 at.% Pt and 1593 K, and the third producing TiPt and TiPt3 at ∼58 at.% Pt and 2053 K.” |
 | 2045 | eutectic: L → βTiPt + γ | L: Pt 0.613; βTiPt: Pt 0.574; γ: Pt 0.75 | model | [1] Li 2008 | Table 1, p. 2, row 12; `ORC-3DYOEKKFDL` |  |
 | 1773 | congruent melting: L → Ti3Pt | L: Pt 0.25; Ti3Pt: Pt 0.25 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 4; `ORC-RNT7HWZ7XP` |  |
 | 1771 | congruent melting: L → Ti3Pt | L: Pt 0.253; Ti3Pt: Pt 0.253 | model | [1] Li 2008 | Table 1, p. 2, row 5; `ORC-GUJNWAQXLZ` |  |
 | 1698 | eutectic: L → βTiPt + Ti3Pt | L: Pt 0.331; βTiPt: Pt 0.481; Ti3Pt: Pt 0.267 | model | [1] Li 2008 | Table 1, p. 2, row 8; `ORC-AF3PXXO3AE` |  |
 | 1697 | eutectic: L → βTiPt + Ti3Pt | L: Pt 0.34; βTiPt: Pt 0.45; Ti3Pt: Pt 0.28 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 7; `ORC-MO5PXWOU2Q` |  |
 | 1643 | congruent melting: L → Ti3Pt | L: Pt 0.25; Ti3Pt: Pt 0.25 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 3; `ORC-7KW2N53V2L` |  |
-| 1593 | eutectic |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1; `ORC-MEMNAUK7DD.464dbf` | “Nishimura and Hiramatsu \[6\] also reported three eutectic reactions: the first forming bcc and Ti3 Pt at ∼15 at.% Pt and 1588 K; the second forming Ti3 Pt and TiPt at ∼34 at.% Pt and 1593 K, and the third producing TiPt and TiPt3 at ∼58 at.% Pt and 2053 K.” |
 | 1593 | eutectic: L → βTiPt + Ti3Pt | L: Pt 0.34; βTiPt: Pt 0.5; Ti3Pt: Pt 0.25 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 6; `ORC-UR3XSNOLYL` |  |
-| 1588 | eutectic |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1; `ORC-MEMNAUK7DD.d6a9e6` | “Nishimura and Hiramatsu \[6\] also reported three eutectic reactions: the first forming bcc and Ti3 Pt at ∼15 at.% Pt and 1588 K; the second forming Ti3 Pt and TiPt at ∼34 at.% Pt and 1593 K, and the third producing TiPt and TiPt3 at ∼58 at.% Pt and 2053 K.” |
 | 1583 | eutectic: L → Bcc + Ti3Pt | L: Pt 0.16; Bcc: Pt 0.094; Ti3Pt: Pt 0.25 | experimental | [1] Li 2008; _cites Nishimura 1957_ | Table 1, p. 2, row 1; `ORC-HQPHKVARMS` |  |
 | 1583 | eutectic: L → Bcc + Ti3Pt | L: Pt 0.134; Bcc: Pt 0.083; Ti3Pt: Pt 0.236 | model | [1] Li 2008 | Table 1, p. 2, row 2; `ORC-X6GAT7ARXO` |  |
 | 1478 | peritectoid: Ti3Pt + βTiPt → Ti4Pt3 | Ti3Pt: Pt 0.27; βTiPt: Pt 0.45; Ti4Pt3: Pt 0.428 | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | Table 1, p. 2, row 19; `ORC-K5HWH472BM` |  |
@@ -90,19 +86,6 @@ Table: Invariant reactions reported in the literature for the Pt–Ti system (31
 | 1113 | eutectoid: Bcc → Hcp + Ti3Pt | Bcc: Pt 0.031; Hcp: Pt 0.022; Ti3Pt: Pt 0.22 | model | [1] Li 2008 | Table 1, p. 2, row 18; `ORC-YYLJKDBDEX` |  |
 
 ## Other properties
-
-### Phase transition (6)
-
-Table: Phase transition, Pt–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1113 K | 1113 | (␤Ti) = (␣Ti) + Ti3Pt | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 2; `ORC-XY22RCB6U3` | “The eutectiod reaction of (␣Ti), (␤Ti), and Ti3 Pt at 1113 K was proposed by Nishimura and Hiramatsu \[6\].” |
-| Phase transition | 1643 K | 1643 | congruent transformation | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1; `ORC-VMOLKSAV3V.35ad78` | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
-| Phase transition | 1773 K | 1773 |  | experimental | [1] Li 2008; _cites Biggs 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.12.001) | p. 1; `ORC-WLXF2KU6N6` | “The intermetallic phase Ti3 Pt was found to melt at 1773 K \[8\], not 1643 K as previously reported by Nishimura and Hiramatsu \[6\].” |
-| Phase transition | 1993 K | 1993 |  | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 5; `ORC-BCKF4JAUD2` | “Nishimura and Hiramatsu \[6\] determined the melting point of bcc (Ti) at 1993 K, but the true melting point at 1941 \[7\].” |
-| Phase transition | 2103 K | 2103 | congruent transformation | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1; `ORC-VMOLKSAV3V.9ea414` | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
-| Phase transition | 2223 K | 2223 | congruent transformation | experimental | [1] Li 2008; _cites Nishimura 1957_ | p. 1; `ORC-VMOLKSAV3V.05e5f6` | “Nishimura and Hiramatsu \[6\] found three intermetallic phases: Ti3 Pt, TiPt and TiPt3 , which they reported as melting congruently at the respective temperatures of 1643, 2103 and 2223 K.” |
 
 ### Activity / EMF / Gibbs energy (1)
 

@@ -105,7 +105,7 @@ Table: Enthalpies of formation, Co–Ho system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -10.539 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Jin 2009 | p. 5; `ORC-HBU33Z2HPE` | “Considering the similar chemical property between Ho and these RE, it can be concluded that the enthalpies of formation of CoHo3 at 298 K should be around -10,000 J mol-1 , which is compatible with the presently assessed value, -10,539 J mol-1 .” |
+| CoHo3 |  | -10.539 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Jin 2009 | p. 5; `ORC-HBU33Z2HPE` | “Considering the similar chemical property between Ho and these RE, it can be concluded that the enthalpies of formation of CoHo3 at 298 K should be around -10,000 J mol-1 , which is compatible with the presently assessed value, -10,539 J mol-1 .” |
 
 ## Other properties
 

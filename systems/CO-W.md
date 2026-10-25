@@ -1,10 +1,10 @@
 # Co–W system
 
-> Co–W system: 120 accepted literature values (formation 67, invariant reaction 19, mixing / partial 12, phase equilibrium 12) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–W system: 115 accepted literature values (formation 67, invariant reaction 18, mixing / partial 12, phase equilibrium 12) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-W.html · Markdown: https://data.orchid-project.org/systems/CO-W.md
 
-120 accepted literature values from 5 paper(s) (experimental 22, model 31, DFT 67); 10 calculated phase diagram(s).
+115 accepted literature values from 4 paper(s) (experimental 19, model 29, DFT 67); 10 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-W.json) · [CSV](https://data.orchid-project.org/systems/CO-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-W/CoW-05Mar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CO-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-W.html) · [Markdown](https://data.orchid-project.org/systems/CO-W.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
-| model | 31 |
+| experimental | 19 |
+| model | 29 |
 | DFT | 67 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 19 |
-| phase transition | 10 |
+| invariant reaction | 18 |
+| phase transition | 6 |
 | phase equilibrium | 12 |
 | formation | 67 |
 | mixing / partial | 12 |
@@ -138,7 +138,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–W system (19)
+Table: Invariant reactions reported in the literature for the Co–W system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -146,12 +146,11 @@ Table: Invariant reactions reported in the literature for the Co–W system (19)
 | 1962.1 | Liq+(W)+ => µ |  | model | [1] Wang 2017; _cites ref. 19_ | Table 11, p. 53, row 3; `ORC-NG2T7A2TZ2` |  |
 | 1962 | Liq+(W)+ => µ |  | model | [1] Wang 2017; _cites ref. 68_ | Table 11, p. 53, row 4; `ORC-PDS3O6AGPU` |  |
 | 1960.8 | Liq+(W)+ => µ |  | model | [1] Wang 2017 | Table 11, p. 53, row 1; `ORC-YY2QGU6ZKK` |  |
-| 1785.6 | Liq => (αCo)+µ |  | model | [1] Wang 2017; _cites ref. 67_ | Table 11, p. 53, row 10; `ORC-6K4UXAL4BL` |  |
-| 1749.3 | Liq => (αCo)+µ |  | model | [1] Wang 2017 | Table 11, p. 53, row 9; `ORC-33YZSCVH5Z` |  |
-| 1744 | Liq => (αCo)+µ |  | model | [1] Wang 2017; _cites ref. 68_ | Table 11, p. 53, row 12; `ORC-IXZE7JJW5D` |  |
-| 1743 | Liq => (αCo)+µ |  | model | [1] Wang 2017; _cites ref. 19_ | Table 11, p. 53, row 11; `ORC-3UYQNFTYRN` |  |
+| 1785.6 | eutectic: Liq => (αCo)+µ |  | model | [1] Wang 2017; _cites ref. 67_ | Table 11, p. 53, row 10; `ORC-6K4UXAL4BL` |  |
+| 1749.3 | eutectic: Liq => (αCo)+µ |  | model | [1] Wang 2017 | Table 11, p. 53, row 9; `ORC-33YZSCVH5Z` |  |
+| 1744 | eutectic: Liq => (αCo)+µ |  | model | [1] Wang 2017; _cites ref. 68_ | Table 11, p. 53, row 12; `ORC-IXZE7JJW5D` |  |
+| 1743 | eutectic: Liq => (αCo)+µ |  | model | [1] Wang 2017; _cites ref. 19_ | Table 11, p. 53, row 11; `ORC-3UYQNFTYRN` |  |
 | 1366.3 | µ+ (αCo) => Co3W | Co3W: W 0.25 | model | [1] Wang 2017; _cites ref. 19_ | Table 11, p. 53, row 15; `ORC-WH7VW7S3UR` |  |
-| 1366 | peritectoid |  | experimental | [2] Guillermet 1989 | p. 4; `ORC-UK2O6S5PR4` | “The first one, with hexagonal crystal structure (hP8) isotypic with Ni3Sn, forms at about 1366 K by a peritectoid reaction.” |
 | 1366 | µ+ (αCo) => Co3W | Co3W: W 0.25 | model | [1] Wang 2017; _cites ref. 68_ | Table 11, p. 53, row 16; `ORC-Z2A7TA5LAZ` |  |
 | 1365.6 | µ+ (αCo) => Co3W | Co3W: W 0.25 | model | [1] Wang 2017 | Table 11, p. 53, row 13; `ORC-FYFQKUOB3C` |  |
 | 1333.7 | µ+ (αCo) => Co3W | Co3W: W 0.25 | model | [1] Wang 2017; _cites ref. 67_ | Table 11, p. 53, row 14; `ORC-7MHH2K6I2E` |  |
@@ -173,86 +172,82 @@ Table: Enthalpies of formation, Co–W system (67)
 | Co3W |  | -7.94 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 21; `ORC-V4KTMIW5AF` |  |
 | Co3W |  | -7.81 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 20; `ORC-YWWPWQ6XO5` |  |
 | Co3W |  | -7.72 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 19; `ORC-GMIYN6WQUP` |  |
-| μ 11111 |  | 11.322 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 1; `ORC-OI7TLXXHTB.0f7dd6` |  |
-| μ 11111 |  | 42.638 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 1; `ORC-OI7TLXXHTB.3099c8` |  |
-| μ 11112 |  | 49.921 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 2; `ORC-G4V3A5K2RN.220550` |  |
-| μ 11112 |  | 51.575 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 2; `ORC-G4V3A5K2RN.8449d9` |  |
-| μ 11121 |  | 15.029 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 3; `ORC-JC7ZBSKK37.bea8d8` |  |
-| μ 11121 |  | 25.112 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 3; `ORC-JC7ZBSKK37.8a0d42` |  |
-| μ 11122 |  | 58.706 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 4; `ORC-U7LZ2AOYXH.97af49` |  |
-| μ 11122 |  | 62.598 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 4; `ORC-U7LZ2AOYXH.27c7f4` |  |
-| μ 11211 |  | 8.307 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 5; `ORC-J7KUVEJOXD.5f4ec7` |  |
-| μ 11211 |  | 22.257 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 5; `ORC-J7KUVEJOXD.512f7c` |  |
-| μ 11212 |  | 37.562 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 6; `ORC-52B347X27R.c51bd2` |  |
-| μ 11212 |  | 38.804 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 6; `ORC-52B347X27R.4a31fe` |  |
-| μ 11221 |  | 8.801 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 7; `ORC-S7ZH7V5336.6e70e0` |  |
-| μ 11221 |  | 10.632 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 7; `ORC-S7ZH7V5336.a4a37d` |  |
-| μ 11222 |  | 44.291 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 8; `ORC-NLSM2FRNK3.72beb8` |  |
-| μ 11222 |  | 46.082 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 8; `ORC-NLSM2FRNK3.3b6381` |  |
-| μ 12111 |  | 12.118 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 9; `ORC-F6JQGABFQR.8b4c79` |  |
-| μ 12111 |  | 30.262 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 9; `ORC-F6JQGABFQR.43f381` |  |
-| μ 12112 |  | 45.561 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 10; `ORC-KX5JS6OXNE.f7697e` |  |
-| μ 12112 |  | 46.225 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 10; `ORC-KX5JS6OXNE.0f56fa` |  |
-| μ 12121 |  | 7.663 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 11; `ORC-HPXFKJQW5K.1baee8` |  |
-| μ 12121 |  | 12.825 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 11; `ORC-HPXFKJQW5K.32d969` |  |
-| μ 12122 |  | 41.064 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 12; `ORC-Q272UZ7JBZ.737459` |  |
-| μ 12122 |  | 41.351 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 12; `ORC-Q272UZ7JBZ.70b06e` |  |
-| μ 12211 |  | 1.853 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 13; `ORC-ONZIYU47JE.5309b3` |  |
-| μ 12211 |  | 6.608 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 13; `ORC-ONZIYU47JE.c6322b` |  |
-| μ 12212 |  | 35.134 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 14; `ORC-XMKNLIL3KB.a512cb` |  |
-| μ 12212 |  | 36.811 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 14; `ORC-XMKNLIL3KB.4381ad` |  |
-| μ 12221 |  | -3.927 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 15; `ORC-ZKLP43DQSS.c6f69b` |  |
-| μ 12221 |  | -3.512 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 15; `ORC-ZKLP43DQSS.a2e1c1` |  |
-| μ 12222 |  | 27.98 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 16; `ORC-57A5NYXB7H.4145ba` |  |
-| μ 12222 |  | 27.989 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 16; `ORC-57A5NYXB7H.f68e7b` |  |
-| μ 21111 |  | 16.878 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 17; `ORC-VSNZGVFS36.2b4a0f` |  |
-| μ 21111 |  | 37.159 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 17; `ORC-VSNZGVFS36.8346fa` |  |
-| μ 21112 |  | 58.319 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 18; `ORC-WNTBZWHR4Q.1696d3` |  |
-| μ 21112 |  | 59.114 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 18; `ORC-WNTBZWHR4Q.d48b05` |  |
-| μ 21121 |  | 14.252 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 19; `ORC-XGB24AMSZF.521470` |  |
-| μ 21121 |  | 18.619 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 19; `ORC-XGB24AMSZF.d153e9` |  |
-| μ 21122 |  | 68.081 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 20; `ORC-YXZY2QLFTD.520a9c` |  |
-| μ 21122 |  | 69.959 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 20; `ORC-YXZY2QLFTD.19e6be` |  |
-| μ 21211 |  | 13.709 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 21; `ORC-CKPGZ5GMAQ.8b9a5d` |  |
-| μ 21211 |  | 27.967 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 21; `ORC-CKPGZ5GMAQ.3411bd` |  |
-| μ 21212 |  | 41.007 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 22; `ORC-UORWE4SGAZ.3b3f9d` |  |
-| μ 21212 |  | 41.959 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 22; `ORC-UORWE4SGAZ.33934a` |  |
-| μ 21221 |  | 10.545 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 23; `ORC-XR4OUTJNSM.96c4b2` |  |
-| μ 21221 |  | 13.694 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 23; `ORC-XR4OUTJNSM.639024` |  |
-| μ 21222 |  | 47.544 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 24; `ORC-VOVE3ABK6C.d842ca` |  |
-| μ 21222 |  | 48.877 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 24; `ORC-VOVE3ABK6C.3c7992` |  |
-| μ 22111 |  | 15.081 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 25; `ORC-FEDZUDBDHE.7762f5` |  |
-| μ 22111 |  | 24.043 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 25; `ORC-FEDZUDBDHE.0250de` |  |
-| μ 22112 |  | 55.198 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 26; `ORC-FNMIFZJRGM.3f4a8f` |  |
-| μ 22112 |  | 55.637 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 26; `ORC-FNMIFZJRGM.d0888d` |  |
-| μ 22121 |  | 4.816 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 27; `ORC-I6FYC5QA25.7b5f68` |  |
-| μ 22121 |  | 5.102 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 27; `ORC-I6FYC5QA25.c00715` |  |
-| μ 22122 |  | 50.411 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 28; `ORC-YNROLK5PQ2.efa31b` |  |
-| μ 22122 |  | 50.421 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 28; `ORC-YNROLK5PQ2.0a20a4` |  |
-| μ 22211 |  | 5.866 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 29; `ORC-HI5HKMROH7.0d3d95` |  |
-| μ 22211 |  | 9.684 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 29; `ORC-HI5HKMROH7.503a30` |  |
-| μ 22212 |  | 37.736 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 30; `ORC-5EFOI7RDRC.e954f4` |  |
-| μ 22212 |  | 39.653 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 30; `ORC-5EFOI7RDRC.40f2e5` |  |
-| μ 22221 |  | -4.446 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 31; `ORC-2567QM6TTN.42e5e1` |  |
-| μ 22221 |  | -4.415 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 31; `ORC-2567QM6TTN.2fd01e` |  |
-| μ 22222 |  | 33.344 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 32; `ORC-3TCTD4GDHH.04603d` |  |
-| μ 22222 |  | 33.353 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 32; `ORC-3TCTD4GDHH.7a01a2` |  |
+| μ 11111 |  | 11.322 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 1; `ORC-OI7TLXXHTB.0f7dd6` |  |
+| μ 11111 |  | 42.638 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 1; `ORC-OI7TLXXHTB.3099c8` |  |
+| μ 11112 |  | 49.921 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 2; `ORC-G4V3A5K2RN.220550` |  |
+| μ 11112 |  | 51.575 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 2; `ORC-G4V3A5K2RN.8449d9` |  |
+| μ 11121 |  | 15.029 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 3; `ORC-JC7ZBSKK37.bea8d8` |  |
+| μ 11121 |  | 25.112 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 3; `ORC-JC7ZBSKK37.8a0d42` |  |
+| μ 11122 |  | 58.706 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 4; `ORC-U7LZ2AOYXH.97af49` |  |
+| μ 11122 |  | 62.598 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 4; `ORC-U7LZ2AOYXH.27c7f4` |  |
+| μ 11211 |  | 8.307 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 5; `ORC-J7KUVEJOXD.5f4ec7` |  |
+| μ 11211 |  | 22.257 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 5; `ORC-J7KUVEJOXD.512f7c` |  |
+| μ 11212 |  | 37.562 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 6; `ORC-52B347X27R.c51bd2` |  |
+| μ 11212 |  | 38.804 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 6; `ORC-52B347X27R.4a31fe` |  |
+| μ 11221 |  | 8.801 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 7; `ORC-S7ZH7V5336.6e70e0` |  |
+| μ 11221 |  | 10.632 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 7; `ORC-S7ZH7V5336.a4a37d` |  |
+| μ 11222 |  | 44.291 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 8; `ORC-NLSM2FRNK3.72beb8` |  |
+| μ 11222 |  | 46.082 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 8; `ORC-NLSM2FRNK3.3b6381` |  |
+| μ 12111 |  | 12.118 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 9; `ORC-F6JQGABFQR.8b4c79` |  |
+| μ 12111 |  | 30.262 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 9; `ORC-F6JQGABFQR.43f381` |  |
+| μ 12112 |  | 45.561 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 10; `ORC-KX5JS6OXNE.f7697e` |  |
+| μ 12112 |  | 46.225 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 10; `ORC-KX5JS6OXNE.0f56fa` |  |
+| μ 12121 |  | 7.663 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 11; `ORC-HPXFKJQW5K.1baee8` |  |
+| μ 12121 |  | 12.825 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 11; `ORC-HPXFKJQW5K.32d969` |  |
+| μ 12122 |  | 41.064 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 12; `ORC-Q272UZ7JBZ.737459` |  |
+| μ 12122 |  | 41.351 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 12; `ORC-Q272UZ7JBZ.70b06e` |  |
+| μ 12211 |  | 1.853 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 13; `ORC-ONZIYU47JE.5309b3` |  |
+| μ 12211 |  | 6.608 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 13; `ORC-ONZIYU47JE.c6322b` |  |
+| μ 12212 |  | 35.134 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 14; `ORC-XMKNLIL3KB.a512cb` |  |
+| μ 12212 |  | 36.811 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 14; `ORC-XMKNLIL3KB.4381ad` |  |
+| μ 12221 |  | -3.927 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 15; `ORC-ZKLP43DQSS.c6f69b` |  |
+| μ 12221 |  | -3.512 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 15; `ORC-ZKLP43DQSS.a2e1c1` |  |
+| μ 12222 |  | 27.98 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 16; `ORC-57A5NYXB7H.4145ba` |  |
+| μ 12222 |  | 27.989 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 16; `ORC-57A5NYXB7H.f68e7b` |  |
+| μ 21111 |  | 16.878 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 17; `ORC-VSNZGVFS36.2b4a0f` |  |
+| μ 21111 |  | 37.159 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 17; `ORC-VSNZGVFS36.8346fa` |  |
+| μ 21112 |  | 58.319 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 18; `ORC-WNTBZWHR4Q.1696d3` |  |
+| μ 21112 |  | 59.114 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 18; `ORC-WNTBZWHR4Q.d48b05` |  |
+| μ 21121 |  | 14.252 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 19; `ORC-XGB24AMSZF.521470` |  |
+| μ 21121 |  | 18.619 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 19; `ORC-XGB24AMSZF.d153e9` |  |
+| μ 21122 |  | 68.081 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 20; `ORC-YXZY2QLFTD.520a9c` |  |
+| μ 21122 |  | 69.959 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 20; `ORC-YXZY2QLFTD.19e6be` |  |
+| μ 21211 |  | 13.709 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 21; `ORC-CKPGZ5GMAQ.8b9a5d` |  |
+| μ 21211 |  | 27.967 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 21; `ORC-CKPGZ5GMAQ.3411bd` |  |
+| μ 21212 |  | 41.007 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 22; `ORC-UORWE4SGAZ.3b3f9d` |  |
+| μ 21212 |  | 41.959 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 22; `ORC-UORWE4SGAZ.33934a` |  |
+| μ 21221 |  | 10.545 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 23; `ORC-XR4OUTJNSM.96c4b2` |  |
+| μ 21221 |  | 13.694 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 23; `ORC-XR4OUTJNSM.639024` |  |
+| μ 21222 |  | 47.544 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 24; `ORC-VOVE3ABK6C.d842ca` |  |
+| μ 21222 |  | 48.877 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 24; `ORC-VOVE3ABK6C.3c7992` |  |
+| μ 22111 |  | 15.081 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 25; `ORC-FEDZUDBDHE.7762f5` |  |
+| μ 22111 |  | 24.043 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 25; `ORC-FEDZUDBDHE.0250de` |  |
+| μ 22112 |  | 55.198 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 26; `ORC-FNMIFZJRGM.3f4a8f` |  |
+| μ 22112 |  | 55.637 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 26; `ORC-FNMIFZJRGM.d0888d` |  |
+| μ 22121 |  | 4.816 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 27; `ORC-I6FYC5QA25.7b5f68` |  |
+| μ 22121 |  | 5.102 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 27; `ORC-I6FYC5QA25.c00715` |  |
+| μ 22122 |  | 50.411 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 28; `ORC-YNROLK5PQ2.efa31b` |  |
+| μ 22122 |  | 50.421 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 28; `ORC-YNROLK5PQ2.0a20a4` |  |
+| μ 22211 |  | 5.866 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 29; `ORC-HI5HKMROH7.0d3d95` |  |
+| μ 22211 |  | 9.684 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 29; `ORC-HI5HKMROH7.503a30` |  |
+| μ 22212 |  | 37.736 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 30; `ORC-5EFOI7RDRC.e954f4` |  |
+| μ 22212 |  | 39.653 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 30; `ORC-5EFOI7RDRC.40f2e5` |  |
+| μ 22221 |  | -4.446 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 31; `ORC-2567QM6TTN.42e5e1` |  |
+| μ 22221 |  | -4.415 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 31; `ORC-2567QM6TTN.2fd01e` |  |
+| μ 22222 |  | 33.344 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 32; `ORC-3TCTD4GDHH.04603d` |  |
+| μ 22222 |  | 33.353 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Wang 2019 | Table 2, p. 5, row 32; `ORC-3TCTD4GDHH.7a01a2` |  |
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (6)
 
 Table: Phase transition, Co–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1033 K | 1033 |  | experimental | [4] Sato 2005 | p. 5; `ORC-ZMPDR4QD47` | “Since the reverse transition of the 3 W alloy occur at 1033 K, this magnetization change may be closely related to some change in the "Co state.” |
-| Phase transition | 1252 K | 1252 |  | model | [5] Markström 2005; _cites Bratberg 2003_ | p. 3; `ORC-GOWCTCANTF` | “system (Ref 15), a so-called tricritical point exists in the fcc phase at 1252 K.” |
-| Phase transition | 1366 K | 1366 | other | experimental | [2] Guillermet 1989 | p. 2; `ORC-REO5FJO4YL` | “Besides, we shall take into account the existence of a homogeneity range for the/x-phase, and the existence of another intermetallic phase which becomes stable below 1366 K, Co3W.” |
-| Phase transition | 1396 K | 1396 | magnetic | experimental | [2] Guillermet 1989 | p. 16; `ORC-4I6IVG3UJU` | “Since C and W decrease the Curie temperature of fcc Co (which is 1396 KU9\]), the fcc phase in isothermal sections of the Co-W-C phase diagram corresponding to T \< 1396 K will show a ferromagnetic state at the Co-rich corner, but paramagnetic states at sufficiently large C or W contents.” |
-| Phase transition | 1582 K | 1582 | hcp + liq. + /x | model | [2] Guillermet 1989 | p. 7; `ORC-X3XQL52R2N` | “The representative value Te/Ty = 0.93 was selected in the present work and combined with the melting point of hcp Co ~91 to estimate Te = 1582 K for the hcp + liq. + /x equilibrium.” |
+| Phase transition | 1396 K | 1396 | magnetic | experimental | [3] Guillermet 1989 | p. 16; `ORC-4I6IVG3UJU` | “Since C and W decrease the Curie temperature of fcc Co (which is 1396 KU9\]), the fcc phase in isothermal sections of the Co-W-C phase diagram corresponding to T \< 1396 K will show a ferromagnetic state at the Co-rich corner, but paramagnetic states at sufficiently large C or W contents.” |
+| Phase transition | 1582 K | 1582 | hcp + liq. + /x | model | [3] Guillermet 1989 | p. 7; `ORC-X3XQL52R2N` | “The representative value Te/Ty = 0.93 was selected in the present work and combined with the melting point of hcp Co ~91 to estimate Te = 1582 K for the hcp + liq. + /x equilibrium.” |
 | Phase transition | 1768 K | 1768 | Liq => (αCo) | model | [1] Wang 2017; _cites ref. 68_ | Table 11, p. 53, row 8; `ORC-223ZRH4LOY` |  |
-| Phase transition | 1777 K | 1777 | other | model | [2] Guillermet 1989 | p. 9; `ORC-U6R5VGEMSJ` | “There is a maximum in the calculated liquidus of fcc, the coordinates of which are Xw = 0.071, T = 1777 K (see also Figure 4).” |
 | Phase transition | 1779.5 K | 1779.5 | Liq => (αCo) | model | [1] Wang 2017 | Table 11, p. 53, row 5; `ORC-TNB2FBEC4M` |  |
 | Phase transition | 1782.6 K | 1782.6 | Liq => (αCo) | model | [1] Wang 2017; _cites ref. 19_ | Table 11, p. 53, row 7; `ORC-FZMJKSIFOT` |  |
 | Phase transition | 1813.6 K | 1813.6 | Liq => (αCo) | model | [1] Wang 2017; _cites ref. 67_ | Table 11, p. 53, row 6; `ORC-KJO66AR7VU` |  |
@@ -282,28 +277,27 @@ Table: Mixing / partial, Co–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: ΔG^M_ | -0.869 kJ/mol (basis unstated) | 1200 | fcc; _alloy: Co 0.95, W 0.05_ | model | [2] Guillermet 1989 | Table III, p. 11, row 6; `ORC-A3ZATKRCKM.119668` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1.178 kJ/mol (basis unstated) ± 0.318 | 1200 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 5; `ORC-OI5GVURH5M.3b2a92` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -0.866 kJ/mol (basis unstated) ± 0.226 | 1200 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 1; `ORC-OY7HXVDK3P.5b9aeb` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -0.597 kJ/mol (basis unstated) | 1200 | fcc; _alloy: Co 0.97, W 0.03_ | model | [2] Guillermet 1989 | Table III, p. 11, row 2; `ORC-V7KVUMRFK4.2ea7f8` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1.459 kJ/mol (basis unstated) ± 0.427 | 1300 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 9; `ORC-CWF5BOVOXI.ac2741` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1.605 kJ/mol (basis unstated) | 1300 | fcc; _alloy: Co 0.93, W 0.07_ | model | [2] Guillermet 1989 | Table III, p. 11, row 10; `ORC-HVQS6N5QVA.69e222` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1.034 kJ/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | model | [2] Guillermet 1989 | Table III, p. 11, row 4; `ORC-4CWRGDCFIY.308057` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1.819 kJ/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | model | [2] Guillermet 1989 | Table III, p. 11, row 12; `ORC-MWUVFPVS4B.0c313c` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1.472 kJ/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | model | [2] Guillermet 1989 | Table III, p. 11, row 8; `ORC-QUEZV7PMKL.4fd1bf` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1.28 kJ/mol (basis unstated) ± 0.337 | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 7; `ORC-VHX6GMMSGM.10fb72` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -1.498 kJ/mol (basis unstated) ± 0.435 | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 11; `ORC-YOJB4D7DY3.a30c8d` |  |
-| Gibbs energy of mixing; _printed: ΔG^M_ | -0.941 kJ/mol (basis unstated) ± 0.238 | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 3; `ORC-ZW4FB7HMVM.00a81f` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -0.869 kJ/mol (basis unstated) | 1200 | fcc; _alloy: Co 0.95, W 0.05_ | model | [3] Guillermet 1989 | Table III, p. 11, row 6; `ORC-A3ZATKRCKM.119668` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.178 kJ/mol (basis unstated) ± 0.318 | 1200 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [3] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 5; `ORC-OI5GVURH5M.3b2a92` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -0.866 kJ/mol (basis unstated) ± 0.226 | 1200 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [3] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 1; `ORC-OY7HXVDK3P.5b9aeb` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -0.597 kJ/mol (basis unstated) | 1200 | fcc; _alloy: Co 0.97, W 0.03_ | model | [3] Guillermet 1989 | Table III, p. 11, row 2; `ORC-V7KVUMRFK4.2ea7f8` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.459 kJ/mol (basis unstated) ± 0.427 | 1300 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [3] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 9; `ORC-CWF5BOVOXI.ac2741` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.605 kJ/mol (basis unstated) | 1300 | fcc; _alloy: Co 0.93, W 0.07_ | model | [3] Guillermet 1989 | Table III, p. 11, row 10; `ORC-HVQS6N5QVA.69e222` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.034 kJ/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | model | [3] Guillermet 1989 | Table III, p. 11, row 4; `ORC-4CWRGDCFIY.308057` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.819 kJ/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | model | [3] Guillermet 1989 | Table III, p. 11, row 12; `ORC-MWUVFPVS4B.0c313c` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.472 kJ/mol (basis unstated) | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | model | [3] Guillermet 1989 | Table III, p. 11, row 8; `ORC-QUEZV7PMKL.4fd1bf` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.28 kJ/mol (basis unstated) ± 0.337 | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [3] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 7; `ORC-VHX6GMMSGM.10fb72` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -1.498 kJ/mol (basis unstated) ± 0.435 | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [3] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 11; `ORC-YOJB4D7DY3.a30c8d` |  |
+| Gibbs energy of mixing; _printed: ΔG^M_ | -0.941 kJ/mol (basis unstated) ± 0.238 | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [3] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 3; `ORC-ZW4FB7HMVM.00a81f` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017). [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007)
-2. Armando Fernández Guillermet, Thermodynamic properties of the Co-W-C system, Metall Trans A 20, 935-956 (1989). [doi:10.1007/bf02651660](https://doi.org/10.1007/bf02651660)
-3. Peisheng Wang, Oleg Y. Kontsevoi, Gregory B. Olson, Thermodynamic analysis of the Co–W system, J Mater Sci 54, 10261-10269 (2019). [doi:10.1007/s10853-019-03616-3](https://doi.org/10.1007/s10853-019-03616-3)
+2. Peisheng Wang, Oleg Y. Kontsevoi, Gregory B. Olson, Thermodynamic analysis of the Co–W system, J Mater Sci 54, 10261-10269 (2019). [doi:10.1007/s10853-019-03616-3](https://doi.org/10.1007/s10853-019-03616-3)
+3. Armando Fernández Guillermet, Thermodynamic properties of the Co-W-C system, Metall Trans A 20, 935-956 (1989). [doi:10.1007/bf02651660](https://doi.org/10.1007/bf02651660)
 4. Jun Sato, Katsunari Oikawa, Ryosuke Kainuma, Kiyohito Ishida, Experimental Verification of Magnetically Induced Phase Separation in &amp;alpha;Co Phase and Thermodynamic Calculations of Phase Equilibria in the Co&amp;ndash;W System, Mater. Trans. 46, 1199-1207 (2005). [doi:10.2320/matertrans.46.1199](https://doi.org/10.2320/matertrans.46.1199)
-5. Andreas Markström, Bo Sundman, Karin Frisk, A Revised Thermodynamic Description of the Co-W-C System, Journal of Phase Equilibria &amp; Diffusion 26, 152-160 (2005). [doi:10.1361/15477030522473](https://doi.org/10.1361/15477030522473)
 
 ## Please cite
 

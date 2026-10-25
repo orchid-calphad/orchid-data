@@ -1,10 +1,10 @@
 # H–Y system
 
-> H–Y system: 45 accepted literature values (crystal structure 22, formation 12, invariant reaction 10, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Y system: 44 accepted literature values (crystal structure 22, formation 12, invariant reaction 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-Y.html · Markdown: https://data.orchid-project.org/systems/H-Y.md
 
-45 accepted literature values from 2 paper(s) (experimental 8, model 9, DFT 14, unspecified 14); 0 calculated phase diagram(s).
+44 accepted literature values from 2 paper(s) (experimental 8, model 8, DFT 14, unspecified 14); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-Y.json) · [CSV](https://data.orchid-project.org/systems/H-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-Y) · [phases (6)](https://data.orchid-project.org/phases/pages/H-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-Y.html) · [Markdown](https://data.orchid-project.org/systems/H-Y.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 9 |
+| model | 8 |
 | DFT | 14 |
 | unspecified | 14 |
 
@@ -22,7 +22,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
-| phase transition | 1 |
 | formation | 12 |
 | crystal structure | 22 |
 
@@ -67,14 +66,6 @@ Table: Enthalpies of formation, H–Y system (12)
 | hcp |  | -73.0316 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Peng 2020 | Table 4, p. 5, row 5; `ORC-PQOEQ4ND75.8413c0` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, H–Y system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1751.15 K | 1751.15 |  | model | [2] Fu 2018; _cites Khatamian 1988_ [doi](https://doi.org/10.1007/bf02881276) | p. 1; `ORC-NYAJZ7VUFC` | “Metallic yttrium has a hexagonal-close-packed (hcp) structure at low temperature and transforms into a body centered cubic (bcc) structure at 1478 °C \[18\].” |
 
 ### Crystal structure (22)
 

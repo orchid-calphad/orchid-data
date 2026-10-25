@@ -497,7 +497,7 @@
     "x0": 0.565,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq.->LaSn+La3Sn5",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -535,7 +535,7 @@
     "x0": 0.705,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq.->La3Sn5 +LaSn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -554,7 +554,7 @@
     "x0": 0.705,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq.->La3Sn5 +LaSn3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

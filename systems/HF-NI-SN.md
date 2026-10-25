@@ -1,10 +1,10 @@
 # Hf–Ni–Sn system
 
-> Hf–Ni–Sn system: 37 accepted literature values (invariant reaction 27, formation 7, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Ni–Sn system: 48 accepted literature values (invariant reaction 27, formation 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-NI-SN.html · Markdown: https://data.orchid-project.org/systems/HF-NI-SN.md
 
-37 accepted literature values from 1 paper(s) (experimental 2, model 28, DFT 7); 0 calculated phase diagram(s).
+48 accepted literature values from 1 paper(s) (model 27, DFT 21); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NI-SN.json) · [CSV](https://data.orchid-project.org/systems/HF-NI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NI-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NI-SN.html) · [Markdown](https://data.orchid-project.org/systems/HF-NI-SN.md)
 
@@ -12,17 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 28 |
-| DFT | 7 |
+| model | 27 |
+| DFT | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 27 |
-| phase transition | 3 |
-| formation | 7 |
+| formation | 21 |
 
 ## Invariant reactions (literature)
 
@@ -58,33 +56,35 @@ Table: Invariant reactions reported in the literature for the Hf–Ni–Sn syste
 | 950.2 | quasi-peritectic: Liquid + Heusler -> Ni3Sn2_HT + Half |  | model | [1] Berche 2016 | Table 5, p. 6, row 26; `ORC-STLO2JJK6Q` |  |
 | 794.5 | quasi-peritectic: Liquid + Ni3Sn2_HT -> Ni3Sn4 + Half |  | model | [1] Berche 2016 | Table 5, p. 6, row 27; `ORC-WJBP26CDAF` |  |
 
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Hf–Ni–Sn system (7)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| HfNi2Sn |  | 77.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.565251` |  |
-| HfNi2Sn |  | 152.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.e7e82a` |  |
-| HfNi2Sn |  | 270 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.56e35a` |  |
-| HfNiSn |  | 292.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.ab8d0d` |  |
-| HfNiSn |  | 352 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.d41ae7` |  |
-| HfNiSn |  | 362.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 10; `ORC-LBCEJBDSO4.8cd541` |  |
-| HfNiSn |  | 438.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.20e621` |  |
-
 ## Other properties
 
-### Phase transition (3)
+### Formation (21)
 
-Table: Phase transition, Hf–Ni–Sn system
+Table: Formation, Hf–Ni–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1760 K | 1760 | congruent transformation | experimental | [1] Berche 2016; _cites Jung 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.09.139) | p. 4; `ORC-DOHIVWV2S5` | “Isothermal sections have been published at 870 K for HfNi-Sn by Stadnyk et al. \[23\] and DTA analyses of HfNiSn have been published by Jung et al. \[32\]. According to this study, the phase has a congruent melting at 1760 K.” |
-| Phase transition | 1760 K | 1760 | other | experimental | [1] Berche 2016; _cites Jung 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.09.139) | p. 5; `ORC-SXWGBS4LY4.755221` | “The melting point of HfNiSn (Fig. 3c) is assessed at 1780 K which is in agreement with the 1760 K measured by Jung et al. \[32\].” |
-| Phase transition | 1780 K | 1780 | other | model | [1] Berche 2016 | p. 5; `ORC-SXWGBS4LY4.40c4eb` | “The melting point of HfNiSn (Fig. 3c) is assessed at 1780 K which is in agreement with the 1760 K measured by Jung et al. \[32\].” |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 211.7 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.b3dd86` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 18.1 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.65b247` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 270 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0.5, Sn 0.25_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.56e35a` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 201.3 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.51e9bb` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | -3.4 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.a56264` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 152.2 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0.5, Sn 0.25_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.e7e82a` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 226.4 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.890082` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 77.4 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0.5, Sn 0.25_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.565251` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 183.5 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.867eee` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 416.7 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.3e358d` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 260.4 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.015b7a` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 438.4 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0.333333, Sn 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.20e621` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 606.9 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.8b6550` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 435.4 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 12; `ORC-IEUVTOLMNL.1a6c9d` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 159.4 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.74d161` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 352 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0.333333, Sn 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.d41ae7` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 362.1 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0.333333, Sn 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 10; `ORC-LBCEJBDSO4.8cd541` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 219.6 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.4c169b` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 110.2 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 11; `ORC-LLPCIIVZFK.6337c7` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 292.1 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0.333333, Sn 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.ab8d0d` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 361.3 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.4631a4` |  |
 
 ## Sources
 

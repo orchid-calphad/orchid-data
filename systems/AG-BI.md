@@ -1,10 +1,10 @@
 # Ag–Bi system
 
-> Ag–Bi system: 24 accepted literature values (crystal structure 20, phase transition 2, invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Bi system: 20 accepted literature values (crystal structure 20) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-BI.html · Markdown: https://data.orchid-project.org/systems/AG-BI.md
 
-24 accepted literature values from 1 paper(s) (experimental 3, unspecified 21); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+20 accepted literature values from 1 paper(s) (unspecified 20); 3 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-BI.json) · [CSV](https://data.orchid-project.org/systems/AG-BI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-BI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-BI/AgBi-94Kat.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AG-BI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-BI.html) · [Markdown](https://data.orchid-project.org/systems/AG-BI.md)
 
@@ -12,15 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
-| unspecified | 21 |
+| unspecified | 20 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
-| phase transition | 2 |
 | crystal structure | 20 |
 
 ## Calculated phase diagrams
@@ -48,25 +45,7 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-BI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-BI.json) · [CALPHAD hull AgBi-94Kat](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-BI--AgBi-94Kat.json) · [CALPHAD hull AgBi-98Luk-LB](https://data.orchid-project.org/hulls/calphad-sgte/AG/AG-BI--AgBi-98Luk-LB.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ag–Bi system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 535.65 | eutectic |  | experimental | [1] Karakaya 1993; _cites ref. 62Nat_ | p. 1; `ORC-P6KXHQF2B7.f2c0c3` | “The eutectic was reported to be at 262 ~ and 94.95 at.% Bi by \[48Haj\] and at 262.5 ~ and 95.05 at.% Bi by \[62Nat\].” |
-| 535.15 | eutectic |  | experimental | [1] Karakaya 1993; _cites Hajicek 1948_ | p. 1; `ORC-P6KXHQF2B7.8f9603` | “The eutectic was reported to be at 262 ~ and 94.95 at.% Bi by \[48Haj\] and at 262.5 ~ and 95.05 at.% Bi by \[62Nat\].” |
-
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Ag–Bi system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 541.02 K | 541.02 | other | experimental | [1] Karakaya 1993; _cites ref. 1894Hey_ | p. 1; `ORC-JPC6KBXLUI.a1c961` | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
-| Phase transition | 544.592 K | 544.592 | other | unspecified | [1] Karakaya 1993 | p. 1; `ORC-JPC6KBXLUI.64668d` | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
 
 ### Crystal structure (20)
 

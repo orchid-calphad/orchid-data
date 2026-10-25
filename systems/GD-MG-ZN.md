@@ -1,10 +1,10 @@
 # Gd–Mg–Zn system
 
-> Gd–Mg–Zn system: 226 accepted literature values (phase transition 150, invariant reaction 32, phase equilibrium 28, crystal structure 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Mg–Zn system: 213 accepted literature values (phase transition 137, invariant reaction 32, phase equilibrium 28, crystal structure 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-MG-ZN.html · Markdown: https://data.orchid-project.org/systems/GD-MG-ZN.md
 
-226 accepted literature values from 1 paper(s) (experimental 112, model 114); 0 calculated phase diagram(s).
+213 accepted literature values from 1 paper(s) (experimental 101, model 112); 0 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/GD-MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MG-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/GD-MG-ZN.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 112 |
-| model | 114 |
+| experimental | 101 |
+| model | 112 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 32 |
-| phase transition | 150 |
+| phase transition | 137 |
 | phase equilibrium | 28 |
 | crystal structure | 16 |
 
@@ -65,7 +65,7 @@ Table: Invariant reactions reported in the literature for the Gd–Mg–Zn syste
 
 ## Other properties
 
-### Phase transition (150)
+### Phase transition (137)
 
 Table: Phase transition, Gd–Mg–Zn system
 
@@ -73,8 +73,6 @@ Table: Phase transition, Gd–Mg–Zn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 598.15 K | 598.15 | other: U19; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 17; `ORC-HUQY2UIBE5` |  |
 | Phase transition | 604.15 K | 604.15 | /(Mg) + 14H + GdMg5; _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 9; `ORC-5NUSMA6IOY` |  |
-| Phase transition | 606.15 K | 606.15 | other | experimental | [1] Gröbner 2015; _cites Balasubramani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.05.080) | p. 12; `ORC-BCW7327LGM.335d69` | “A much weaker signal was observed for each sample with onset at 518 °C (Mg-0.81Gd-0.39Zn) and at 333 °C (Mg-0.82Gd-0.79Zn) and assigned to the solidus effect \[37\].” |
-| Phase transition | 606.15 K | 606.15 | other: (Mg) + MgZn2 ! liquid + (Mg) | experimental | [1] Gröbner 2015 | p. 6; `ORC-47GMTYKHGB.d06fe2` | “For Mg-5Gd-2Zn (wt.%), Mg-0.82Gd-0.79Zn (at.%), alloy they found a phase transformation at 333 °C by DTA on heating and allocated it to a reaction "(Mg) + MgZn2 ! liquid + (Mg)" with a subsequent liquidus at 596 °C.” |
 | Phase transition | 608.15 K | 608.15 | Sample 7 Mg80Gd4Zn16: c \[cooling\]; _alloy: Gd 0.04, Mg 0.8, Zn 0.16_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 62; `ORC-3KGFEWFPVU` |  |
 | Phase transition | 608.15 K | 608.15 | Sample 8 Mg80Gd6Zn14: c \[cooling\]; _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 80; `ORC-XHGOYCM2GS` |  |
 | Phase transition | 608.15 K | 608.15 | other: U18; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 15; `ORC-6J336YAG6L` |  |
@@ -103,7 +101,6 @@ Table: Phase transition, Gd–Mg–Zn system
 | Phase transition | 672.15 K | 672.15 | U14; _alloy: Gd 0.01, Mg 0.8, Zn 0.19_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 28; `ORC-EXBRX3YUMS` |  |
 | Phase transition | 674.15 K | 674.15 | other: /L + F + H1; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 5; `ORC-2FWLVCUYYR` |  |
 | Phase transition | 676.15 K | 676.15 | U14; _alloy: Gd 0.01, Mg 0.8, Zn 0.19_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 29; `ORC-ECKYST7V2C` |  |
-| Phase transition | 693.15 K | 693.15 | other | experimental | [1] Gröbner 2015; _cites Wang 2012_ | p. 4; `ORC-L6SCD4W5T4` | “Wang et al. \[30\] reported a Gd8Mg42Zn50 (at.%) phase in their as-cast samples and measured a high thermal stability up to 420 °C by differential scanning calorimetry (DSC).” |
 | Phase transition | 701.15 K | 701.15 | Sample 8 Mg80Gd6Zn14 \[heating\]; _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 77; `ORC-GFR75MLCBE` |  |
 | Phase transition | 704.15 K | 704.15 | Sample 7 Mg80Gd4Zn16: d \[cooling\]; _alloy: Gd 0.04, Mg 0.8, Zn 0.16_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 60; `ORC-5A73ZFKF4B` |  |
 | Phase transition | 704.15 K | 704.15 | U14; _alloy: Gd 0.025, Mg 0.8, Zn 0.175_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 44; `ORC-JDSEGW6QS5` |  |
@@ -141,8 +138,6 @@ Table: Phase transition, Gd–Mg–Zn system
 | Phase transition | 790.15 K | 790.15 | U8; _alloy: Gd 0.071, Mg 0.858, Zn 0.071_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 23; `ORC-C54A5O6GWC` |  |
 | Phase transition | 790.15 K | 790.15 | other: /L + F + H1; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 7; `ORC-X4BSAACDRZ` |  |
 | Phase transition | 791.15 K | 791.15 | /(Mg) + 14H; _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 7; `ORC-3DCB64YEXE` |  |
-| Phase transition | 791.15 K | 791.15 | other | experimental | [1] Gröbner 2015; _cites Balasubramani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.05.080) | p. 12; `ORC-BCW7327LGM.f0657a` | “A much weaker signal was observed for each sample with onset at 518 °C (Mg-0.81Gd-0.39Zn) and at 333 °C (Mg-0.82Gd-0.79Zn) and assigned to the solidus effect \[37\].” |
-| Phase transition | 791.15 K | 791.15 | other: (Mg) + GdMg5 ! liquid + (Mg) | experimental | [1] Gröbner 2015 | p. 6; `ORC-45VWZZYYCR.cd2b05` | “For Mg-5Gd-1Zn (wt.%), Mg0.81Gd-0.39Zn (at.%), alloy they measured by DTA a reaction "(Mg) + GdMg5 ! liquid + (Mg)" at 518 °C on heating and a second one at 612 °C was assigned as liquidus temperature.” |
 | Phase transition | 792.15 K | 792.15 | other: /14H + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 26; `ORC-4AIBL2AFYE` |  |
 | Phase transition | 792.15 K | 792.15 | other: /14H + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 27; `ORC-6BAWWYV63S` |  |
 | Phase transition | 793.15 K | 793.15 | U8; _alloy: Gd 0.09, Mg 0.8, Zn 0.11_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 92; `ORC-G4KH3PDRDQ` |  |
@@ -175,15 +170,11 @@ Table: Phase transition, Gd–Mg–Zn system
 | Phase transition | 853.15 K | 853.15 | other: /GdMg3 + GdMg5; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 25; `ORC-NPBBYHO5I6` |  |
 | Phase transition | 854.15 K | 854.15 | other: /L + GdMg3 + GdMg5; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 24; `ORC-GYBXCIIRC2` |  |
 | Phase transition | 867.15 K | 867.15 | /L + GdMg5; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 100; `ORC-3SN3RSOQLP` |  |
-| Phase transition | 869.15 K | 869.15 | other | experimental | [1] Gröbner 2015 | p. 6; `ORC-47GMTYKHGB.789514` | “For Mg-5Gd-2Zn (wt.%), Mg-0.82Gd-0.79Zn (at.%), alloy they found a phase transformation at 333 °C by DTA on heating and allocated it to a reaction "(Mg) + MgZn2 ! liquid + (Mg)" with a subsequent liquidus at 596 °C.” |
-| Phase transition | 869.15 K | 869.15 | other | experimental | [1] Gröbner 2015; _cites Balasubramani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.05.080) | p. 12; `ORC-FL5G5EYCE3.a0ef22` | “Balasubramani et al. \[37\] measured the thermal signals of as-cast samples in single heating runs at 10 K/min in DTA and they reported liquidus temperatures of 612 °C and 596 °C for the alloys Mg-0.81Gd-0.39Zn and Mg0.82Gd-0.79Zn (at.%), respectively.” |
 | Phase transition | 871.15 K | 871.15 | /L + GdMg3 + GdMg5; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 99; `ORC-D5NZADMGUJ` |  |
 | Phase transition | 874.15 K | 874.15 | L/L + W; _alloy: Gd 0.025, Mg 0.8, Zn 0.175_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 36; `ORC-DEDQ77BXYD` |  |
 | Phase transition | 879.15 K | 879.15 | other: /L + GdMg3; _alloy: Gd 0.2, Mg 0.6, Zn 0.2_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 22; `ORC-JDXUSTZYFP` |  |
 | Phase transition | 881.15 K | 881.15 | /L + W; _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 68; `ORC-24FGTJFIGG` |  |
 | Phase transition | 881.15 K | 881.15 | L/L + (Mg); _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 1; `ORC-RF5G3BBV2T` |  |
-| Phase transition | 885.15 K | 885.15 | other | experimental | [1] Gröbner 2015 | p. 6; `ORC-45VWZZYYCR.9c4c90` | “For Mg-5Gd-1Zn (wt.%), Mg0.81Gd-0.39Zn (at.%), alloy they measured by DTA a reaction "(Mg) + GdMg5 ! liquid + (Mg)" at 518 °C on heating and a second one at 612 °C was assigned as liquidus temperature.” |
-| Phase transition | 885.15 K | 885.15 | other | experimental | [1] Gröbner 2015; _cites Balasubramani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.05.080) | p. 12; `ORC-FL5G5EYCE3.7a6527` | “Balasubramani et al. \[37\] measured the thermal signals of as-cast samples in single heating runs at 10 K/min in DTA and they reported liquidus temperatures of 612 °C and 596 °C for the alloys Mg-0.81Gd-0.39Zn and Mg0.82Gd-0.79Zn (at.%), respectively.” |
 | Phase transition | 885.15 K | 885.15 | other: /L + F; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 4; `ORC-Y5GOGN7NXH` |  |
 | Phase transition | 886.15 K | 886.15 | L/L + (Mg); _alloy: Gd 0.027, Mg 0.96, Zn 0.013_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 3; `ORC-ZRAA5TXNKV` |  |
 | Phase transition | 888.15 K | 888.15 | /L + GdMg2 + GdMg3; _alloy: Gd 0.15, Mg 0.8, Zn 0.05_ | experimental | [1] Gröbner 2015 | Table 7, p. 13, row 96; `ORC-4KSM3ZYOZ4` |  |
@@ -193,12 +184,8 @@ Table: Phase transition, Gd–Mg–Zn system
 | Phase transition | 899.15 K | 899.15 | other: /L + Gd13Zn58 + F; _alloy: Gd 0.03, Mg 0.6, Zn 0.37_ | model | [1] Gröbner 2015 | Table 7, p. 14, row 2; `ORC-NVFDUNYCGH` |  |
 | Phase transition | 907.15 K | 907.15 | /L + W; _alloy: Gd 0.04, Mg 0.8, Zn 0.16_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 52; `ORC-FMUKICSM6C` |  |
 | Phase transition | 909.15 K | 909.15 | /L + GdMg3; _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 66; `ORC-L2R6FDD46Z` |  |
-| Phase transition | 910.15 K | 910.15 | other | model | [1] Gröbner 2015 | p. 12; `ORC-OZJASBI2AI.112e52` | “These peak temperatures are 650 °C and 640 °C for the two alloys, respectively, and that compares well to the calculated liquidus temperatures of 640 °C and 637 °C for the alloys Mg-0.81Gd0.39Zn and Mg-0.82Gd-0.79Zn (at.%), respectively.” |
 | Phase transition | 912.15 K | 912.15 | /L + GdMg2 + GdMg3; _alloy: Gd 0.06, Mg 0.8, Zn 0.14_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 65; `ORC-MYWMYBX3BZ` |  |
-| Phase transition | 913.15 K | 913.15 | other | experimental | [1] Gröbner 2015; _cites Balasubramani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.05.080) | p. 12; `ORC-OZJASBI2AI.679222` | “These peak temperatures are 650 °C and 640 °C for the two alloys, respectively, and that compares well to the calculated liquidus temperatures of 640 °C and 637 °C for the alloys Mg-0.81Gd0.39Zn and Mg-0.82Gd-0.79Zn (at.%), respectively.” |
-| Phase transition | 913.15 K | 913.15 | other | model | [1] Gröbner 2015 | p. 12; `ORC-OZJASBI2AI.8e8342` | “These peak temperatures are 650 °C and 640 °C for the two alloys, respectively, and that compares well to the calculated liquidus temperatures of 640 °C and 637 °C for the alloys Mg-0.81Gd0.39Zn and Mg-0.82Gd-0.79Zn (at.%), respectively.” |
 | Phase transition | 923.15 K | 923.15 | L/L + GdMg2; _alloy: Gd 0.04, Mg 0.8, Zn 0.16_ | model | [1] Gröbner 2015 | Table 7, p. 13, row 51; `ORC-3HHHVJDIOC` |  |
-| Phase transition | 923.15 K | 923.15 | other | experimental | [1] Gröbner 2015; _cites Balasubramani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.05.080) | p. 12; `ORC-OZJASBI2AI.dec847` | “These peak temperatures are 650 °C and 640 °C for the two alloys, respectively, and that compares well to the calculated liquidus temperatures of 640 °C and 637 °C for the alloys Mg-0.81Gd0.39Zn and Mg-0.82Gd-0.79Zn (at.%), respectively.” |
 | Phase transition | 935.15 K | 935.15 | other: /GdMg2 + GdMg3; _alloy: Gd 0.25, Mg 0.6, Zn 0.15_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 35; `ORC-F64PE5HIJN` |  |
 | Phase transition | 938.15 K | 938.15 | other: /GdMg2 + GdMg3; _alloy: Gd 0.25, Mg 0.6, Zn 0.15_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 34; `ORC-CD5P7EIMM3` |  |
 | Phase transition | 944.15 K | 944.15 | other: /L + GdMg2 + GdMg3; _alloy: Gd 0.25, Mg 0.6, Zn 0.15_ | experimental | [1] Gröbner 2015 | Table 7, p. 14, row 31; `ORC-OW7CJNTXTG` |  |

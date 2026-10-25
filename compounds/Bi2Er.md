@@ -1,16 +1,16 @@
 # Bi2Er: enthalpy of formation
 
-> Enthalpy of formation of Bi2Er: 22 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Bi2Er: 23 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Bi2Er.html · Markdown: https://data.orchid-project.org/compounds/Bi2Er.md
 
-22 accepted literature formation-enthalpy value(s) (model 21, DFT 1); OQMD -46.37 kJ/mol-atom (oqmd-1800946).
+23 accepted literature formation-enthalpy value(s) (model 21, DFT 2); OQMD -46.37 kJ/mol-atom (oqmd-1800946).
 
 Systems: [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Bi2Er reported in the literature (22)
+Table: Enthalpy of formation of Bi2Er reported in the literature (23)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -19,7 +19,7 @@ Table: Enthalpy of formation of Bi2Er reported in the literature (22)
 | -48.2365 kJ/mol-atom | ErBi2 (NdAs2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 19; `ORC-YREA7LF56F.58970b` |  |
 | -47.7533 kJ/mol-atom | ErBi2 (SmSb2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 18; `ORC-QFM5YOHCMB.7da6f4` |  |
 | -45.9664 kJ/mol-atom | ErBi2 (CaSb2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 17; `ORC-PI4ZPT7CTE.d7bbce` |  |
-| -45.2102 kJ/mol-atom | ErBi2 (ErSn2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 16; `ORC-RNQLUP2DQ2.750eda` |  |
+| -45.2102 kJ/mol-atom | ErBi2 | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 16; `ORC-RNQLUP2DQ2.bfef1d` |  |
 | -45.1803 kJ/mol-atom | ErBi2 (Co2Si-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 15; `ORC-74E3X52I5V.051343` |  |
 | -43.6048 kJ/mol-atom | ErBi2 (LaAs2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 14; `ORC-UFI35ARGNT.33d659` |  |
 | -43.2532 kJ/mol-atom | ErBi2 (ErTe2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 13; `ORC-5EJ2FPR4WK.65e58d` |  |
@@ -36,6 +36,7 @@ Table: Enthalpy of formation of Bi2Er reported in the literature (22)
 | 15.2241 kJ/mol-atom | ErBi2 (MoS2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 2; `ORC-EKJ27B36M7.ea7c62` |  |
 | 39.6679 kJ/mol-atom | ErBi2 (CdI2-type) | 0 | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 1; `ORC-JGZ6JOX4UO.9c10e5` |  |
 | -45.237 kJ/mol-atom | ErBi2 | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 2, p. 5, row 1; `ORC-T73W2Q7GQU` |  |
+| -45.2102 kJ/mol-atom | ErBi2 (ErSn2-type) | 0 | DFT |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Bennoui 2022 | Table 3, p. 6, row 16; `ORC-RNQLUP2DQ2.750eda` |  |
 
 ### Uncertainty budget
 
@@ -66,7 +67,8 @@ Table: Uncertainty budget of the literature values of Bi2Er
 | -15.4151 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | 15.2241 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | 39.6679 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -45.237 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -45.237 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -45.2102 | kJ/mol-atom |  | 5.000e-5 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

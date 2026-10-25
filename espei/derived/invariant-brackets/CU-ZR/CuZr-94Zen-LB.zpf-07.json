@@ -80,7 +80,7 @@
     "x0": 0.091,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (Cu) + Cu5Zr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

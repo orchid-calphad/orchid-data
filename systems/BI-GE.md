@@ -1,25 +1,12 @@
 # Bi–Ge system
 
-> Bi–Ge system: 2 accepted literature values (invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Ge system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-GE.html · Markdown: https://data.orchid-project.org/systems/BI-GE.md
 
-2 accepted literature values from 1 paper(s) (experimental 1, model 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-GE.json) · [CSV](https://data.orchid-project.org/systems/BI-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-GE/BiGe-88Che-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/BI-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-GE.html) · [Markdown](https://data.orchid-project.org/systems/BI-GE.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 2 |
 
 ## Calculated phase diagrams
 
@@ -39,21 +26,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | BiGe-88Che-LB.tdb | 544.46 | RHOMBOHEDRAL_A7 (x(Ge) 0) + LIQUID (x(Ge) 4.300e-4) + DIAMOND_A4 (x(Ge) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BI/BI-GE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BI/BI-GE.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Bi–Ge system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 544.38 | eutectic |  | model | [1] Chevalier 1988 | p. 5; `ORC-3VCGOC4IQD` | “The calculated composition and temperature for the eutectic reaction are xGe = 0.00044 and T = 544.38 K, which can be compared with the calculated values in refs. 0.0002 and 0.0003 and experimental temperature T = 544.15 5and6ofx,,= K.” |
-| 544.15 | eutectic |  | experimental | [1] Chevalier 1988; _cites Stohr 1970_ | p. 2; `ORC-TEX53K23NH` | “According to refs. 3 and 4, the eutectic consists of practically pure Bi at T = 544.15 K.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. P.-Y. Chevalier, Thermodynamic evaluation of the Bi-Ge system, Thermochimica Acta 132, 111-116 (1988). [doi:10.1016/0040-6031(88)87100-4](https://doi.org/10.1016/0040-6031%2888%2987100-4)
 
 ## Please cite
 

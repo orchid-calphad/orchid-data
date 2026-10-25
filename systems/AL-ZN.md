@@ -1,10 +1,10 @@
 # Al–Zn system
 
-> Al–Zn system: 51 accepted literature values (invariant reaction 41, phase transition 10) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Zn system: 47 accepted literature values (invariant reaction 40, phase transition 7) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-ZN.html · Markdown: https://data.orchid-project.org/systems/AL-ZN.md
 
-51 accepted literature values from 3 paper(s) (experimental 19, model 32); 5 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+47 accepted literature values from 3 paper(s) (experimental 17, model 30); 5 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-ZN.json) · [CSV](https://data.orchid-project.org/systems/AL-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-ZN/AlZn-00Mat.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AL-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AL-ZN.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
-| model | 32 |
+| experimental | 17 |
+| model | 30 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 41 |
-| phase transition | 10 |
+| invariant reaction | 40 |
+| phase transition | 7 |
 
 ## Calculated phase diagrams
 
@@ -55,7 +55,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Zn system (41)
+Table: Invariant reactions reported in the literature for the Al–Zn system (40)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -69,10 +69,9 @@ Table: Invariant reactions reported in the literature for the Al–Zn system (41
 | 654.8 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.888; fcc': Zn 0.667; hcp: Zn 0.972 | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 15, row 14; `ORC-AWIACMYIWO` |  |
 | 654.8 | L = fcc + hcp | L: Zn 0.888; fcc: Zn 0.667; hcp: Zn 0.975 | model | [2] Chen 1993 | Table 3, p. 4, row 3; `ORC-RQP53OISGQ` |  |
 | 654.1 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.884; fcc': Zn 0.673; hcp: Zn 0.969 | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 15, row 13; `ORC-VRDB5V5THN` |  |
-| 654 | eutectic: L=fcc+hcp |  | model | [2] Chen 1993 | p. 1; `ORC-4LD2QG6VPX.17c961` | “There exist three invariant equilibria in the AlZn system. They are the eutectic equilibrium, L=fcc+hcp. at 654K, the critical point for phase separation of the fee phase, fcc=fcci+fccz, at 624.5K, and the monotectoid equilibrium,” |
 | 654 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.887; fcc': Zn 0.67; hcp: Zn 0.972 | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 15, row 9; `ORC-CWMTJHG33U` |  |
 | 654 | L = fcc + hcp | L: Zn 0.887; fcc: Zn 0.67; hcp: Zn 0.972 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 1; `ORC-N4KMOOLTLF` |  |
-| 654 | eutectic: Liquid -> fcc-A1 + hcp-A3 | L: Zn 0.884; fcc-A1: Zn 0.673; hcp-A3: Zn 0.969 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 1; `ORC-SQ3DTRL2DU` |  |
+| 654 | eutectic: Liquid -> fcc-A1 + hcp-A3 | L: Zn 0.884; fcc-A1: Zn 0.673; hcp-A3: Zn 0.969 | model | [3] (ed.) 1998 | Table I, p. 127, row 1; `ORC-SQ3DTRL2DU` |  |
 | 653.7 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.87; fcc': Zn 0.734; hcp: Zn 0.975 | model | [1] Mathon 2000 | Table 5, p. 15, row 11; `ORC-VUA235Y2S7` |  |
 | 653.6 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.877 | experimental | [1] Mathon 2000; _cites Heycock 1897_ [doi](https://doi.org/10.1039/ct8977100383) | Table 5, p. 15, row 7; `ORC-H6DPGJYBMN` |  |
 | 653 | eutectic: liq. \<-> hcp sol. +fcc sol. | liq.: Zn 0.8869; hcp: Zn 0.971 | experimental | [1] Mathon 2000; _cites Pelzel 1943_ | Table 5, p. 15, row 4; `ORC-LNZQZ3PHL2` |  |
@@ -91,7 +90,7 @@ Table: Invariant reactions reported in the literature for the Al–Zn system (41
 | 550.7 | fcc2 = fcc1 + hcp | fcc2: Zn 0.592; fcc1: Zn 0.145; hcp: Zn 0.985 | model | [2] Chen 1993 | Table 3, p. 4, row 6; `ORC-UMPJK5VLSU` |  |
 | 550.7 | fcc + fcc' + hcp | fcc: Zn 0.145; fcc': Zn 0.592; hcp: Zn 0.985 | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 16, row 9; `ORC-WPSIJBDUTS` |  |
 | 550.4 | fcc + fcc' + hcp | fcc: Zn 0.141; fcc': Zn 0.59; hcp: Zn 0.984 | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 16, row 8; `ORC-TRLUE7XB4X` |  |
-| 550.4 | monotectic: fcc-A1' -> fcc-A1" + hcp-A3 | fcc-A1': Zn 0.59; fcc-A1": Zn 0.141; hcp-A3: Zn 0.984 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 2; `ORC-UKCSCTJAJ3` |  |
+| 550.4 | monotectic: fcc-A1' -> fcc-A1" + hcp-A3 | fcc-A1': Zn 0.59; fcc-A1": Zn 0.141; hcp-A3: Zn 0.984 | model | [3] (ed.) 1998 | Table I, p. 127, row 2; `ORC-UKCSCTJAJ3` |  |
 | 550 | fcc2 = fcc1 + hcp | fcc2: Zn 0.59; fcc1: Zn 0.165; hcp: Zn 0.984 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 4; `ORC-3QDOBOLG64` |  |
 | 550 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Borelius 1948_ | Table 5, p. 15, row 20; `ORC-HXETYEEAMV` |  |
 | 550 | fcc + fcc' + hcp | fcc: Zn 0.165; fcc': Zn 0.59; hcp: Zn 0.984 | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 16, row 4; `ORC-YFLNAGM4BK` |  |
@@ -103,21 +102,18 @@ Table: Invariant reactions reported in the literature for the Al–Zn system (41
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (7)
 
 Table: Phase transition, Al–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 552 K | 552 | other | experimental | [1] Mathon 2000 | p. 6; `ORC-XS3HLPCO2T` | “Below the Al-Zn monotectoid invariant at 552 K, (between 575 K and 550 K), the (hcp + fee) two-phases field and the (hcp + fee + fee') three-phases field appear.” |
 | Phase transition | 610.9 K | 610.9 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.358_ | model | [1] Mathon 2000 | Table 5, p. 16, row 12; `ORC-FRANUISROE` |  |
 | Phase transition | 611.2 K | 611.2 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.362_ | model | [1] Mathon 2000; _cites I W 1950_ | Table 5, p. 16, row 14; `ORC-RQ7ZZYV62D` |  |
 | Phase transition | 622.3 K | 622.3 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.344_ | model | [1] Mathon 2000; _cites ref. 8_ | Table 5, p. 16, row 16; `ORC-QCQK436FKV` |  |
 | Phase transition | 624.5 K | 624.5 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.395_ | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 16, row 11; `ORC-46RBPUAIEO` |  |
-| Phase transition | 624.5 K | 624.5 | other: fcc=fcci+fccz | model | [2] Chen 1993 | p. 1; `ORC-4LD2QG6VPX.6d0c66` | “There exist three invariant equilibria in the AlZn system. They are the eutectic equilibrium, L=fcc+hcp. at 654K, the critical point for phase separation of the fee phase, fcc=fcci+fccz, at 624.5K, and the monotectoid equilibrium,” |
 | Phase transition | 625.7 K | 625.7 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.35_ | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 16, row 15; `ORC-KKGLE7DBTG` |  |
 | Phase transition | 625.8 K | 625.8 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.35_ | model | [1] Mathon 2000 | Table 5, p. 16, row 10; `ORC-3PNUMP6LY5` |  |
-| Phase transition | 626 K | 626 | other | experimental | [1] Mathon 2000 | p. 6; `ORC-IEYBD3VZLQ` | “Between 650 K and 620 K, starting from the Al-Zn binary fee critical point at 626 K, the miscibility gap occurs.” |
 | Phase transition | 630.5 K | 630.5 | critical point: fcc sol. \<-> fcc sol. + fcc' sol.; _fcc' sol.: Zn 0.364_ | model | [1] Mathon 2000 | Table 5, p. 16, row 13; `ORC-NUUQFG2B4S` |  |
 
 ## Sources
@@ -126,7 +122,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. M. Mathon, K. Jardet, E. Aragon, P. Satre, A. Sebaoun, Al-Ga-Zn System: Reassessments of the Three Binary Systems and Discussion on Possible Estimations and on Optimisation of the Ternary System, Calphad 24, 253-284 (2000). [doi:10.1016/s0364-5916(01)00004-9](https://doi.org/10.1016/s0364-5916%2801%2900004-9)
 2. Shuang-Lin Chen, Y.A. Chang, A thermodynamic analysis of the AlZn system and phase diagram calculation, Calphad 17, 113-124 (1993). [doi:10.1016/0364-5916(93)90011-y](https://doi.org/10.1016/0364-5916%2893%2990011-y)
-3. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+3. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 
 ## Please cite
 

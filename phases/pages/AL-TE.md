@@ -13,7 +13,7 @@ Table: Phases of the Al–Te system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [HEXAGONAL_A8](#phase-al-te-a8-hexagonal); _phase:al-te:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–722.66 K, x(Te) 1–1 | 4 | 2 |
-| [AL2TE3](#phase-al-te-al2te3); _phase:al-te:al2te3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1167.29 K, x(Te) 0.6–0.6 | 2 | 1 |
+| [AL2TE3](#phase-al-te-al2te3); _phase:al-te:al2te3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1167.29 K, x(Te) 0.6–0.6 | 5 | 1 |
 | [AL2TE3_ALPHA](#phase-al-te-al2te3-alpha); _phase:al-te:al2te3-alpha_ | Al2Te3 · mP240 · P2_1 (4) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–993.15 K, x(Te) 0.6–0.6 | 4 | 1 |
 | [AL2TE3_BETA](#phase-al-te-al2te3-beta); _phase:al-te:al2te3-beta_ | Al2Te3 · mP40 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 993.15–1165.36 K, x(Te) 0.6–0.6 | 2 | 1 |
 | [AL2TE5](#phase-al-te-al2te5); _phase:al-te:al2te5_ | Al2Te5 · mC14 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 682.23–735.99 K, x(Te) 0.71429–0.71429 | 10 | 1 |
@@ -72,7 +72,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Al2Te3 · mP240 · P2_1 — AlTe-93Oh.tdb: 'Prototype Al2Te3 (mP240, P2_1)'
 - Stoichiometry: Al 0.4000, Te 0.6000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1167.29 K, x(Te) 0.6–0.6
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-te:al2te3)
 
 Names (3): _corpus: _corpus:phase:al-te:al2te3  

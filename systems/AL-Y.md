@@ -1,10 +1,10 @@
 # Al–Y system
 
-> Al–Y system: 162 accepted literature values (invariant reaction 108, crystal structure 31, formation 12, phase transition 11) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Y system: 152 accepted literature values (invariant reaction 105, crystal structure 31, formation 12, phase transition 4) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-Y.html · Markdown: https://data.orchid-project.org/systems/AL-Y.md
 
-162 accepted literature values from 5 paper(s) (experimental 52, model 97, unspecified 13); 6 calculated phase diagram(s).
+152 accepted literature values from 5 paper(s) (experimental 44, model 95, unspecified 13); 6 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-Y/AlY-06AlS.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-Y.html) · [Markdown](https://data.orchid-project.org/systems/AL-Y.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 52 |
-| model | 97 |
+| experimental | 44 |
+| model | 95 |
 | unspecified | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 108 |
-| phase transition | 11 |
+| invariant reaction | 105 |
+| phase transition | 4 |
 | formation | 12 |
 | crystal structure | 31 |
 
@@ -147,24 +147,24 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Y system (108)
+Table: Invariant reactions reported in the literature for the Al–Y system (105)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1763.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 13; `ORC-AFKEEXQP2V` |  |
-| 1763.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 16; `ORC-AKCI5MVO4N` |  |
-| 1763 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 20; `ORC-2MGWHAYPRC` |  |
-| 1763 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 16; `ORC-6K2KUZOPRE` |  |
-| 1763 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018 | Table 7, p. 10, row 21; `ORC-V3LE3GB4QX` |  |
-| 1758.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 14; `ORC-NYCVNLUJPX` |  |
-| 1758 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 17; `ORC-3WOLIVIVOP` |  |
+| 1763.15 | congruent melting: L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 13; `ORC-AFKEEXQP2V` |  |
+| 1763.15 | congruent melting: L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 16; `ORC-AKCI5MVO4N` |  |
+| 1763 | congruent melting: Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 20; `ORC-2MGWHAYPRC` |  |
+| 1763 | congruent melting: Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 16; `ORC-6K2KUZOPRE` |  |
+| 1763 | congruent melting: Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018 | Table 7, p. 10, row 21; `ORC-V3LE3GB4QX` |  |
+| 1758.15 | congruent melting: L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 14; `ORC-NYCVNLUJPX` |  |
+| 1758 | congruent melting: Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 17; `ORC-3WOLIVIVOP` |  |
 | 1752 | bcc_Y \<-> Liquid + hcp_Y | Liquid: Y 0.979 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 53; `ORC-P7A2JFJ3VG` |  |
 | 1751.99 | (βY) \<=> (αY), L | L: Y 0.9792 | model | [1] Liu 2006 | Table 2, p. 3, row 37; `ORC-JLHL2SEXNV` |  |
 | 1751 | bcc_Y \<-> Liquid + hcp_Y | Liquid: Y 0.978 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 52; `ORC-3LIIPWGPZJ` |  |
-| 1751 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 19; `ORC-BNI2CYFCRA` |  |
+| 1751 | congruent melting: Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 19; `ORC-BNI2CYFCRA` |  |
 | 1751 | bcc_Y \<-> Liquid + hcp_Y | Liquid: Y 0.979 | model | [2] Hu 2018 | Table 7, p. 10, row 54; `ORC-P63AYLCFPK` |  |
-| 1728.15 | L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 15; `ORC-EQ2BEMBZI6` |  |
-| 1728 | Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 18; `ORC-WWTZVVUGEG` |  |
+| 1728.15 | congruent melting: L \<=> Al2Y | L: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 15; `ORC-EQ2BEMBZI6` |  |
+| 1728 | congruent melting: Liquid \<-> Al2Y | Liquid: Y 0.333; Al2Y: Al 0.666667, Y 0.333333 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 18; `ORC-WWTZVVUGEG` |  |
 | 1628.15 | peritectic |  | experimental | [3] Shakhshir 2006; _cites Lundin 1961_ | p. 2; `ORC-3FPYYBFQT3` | “Their results are in general agreement with Snyder\[14\] except in the following points: the solid solubility of Y in Al was less than 0.1 wt.% at the eutectic temperature and the YAl3 peritectic reaction takes place at 1355 °C instead of 980 °C as reported by Snyder,\[14\] knowing that the accuracy of the reported temperature by Lundin et al.\[15\] was ±10 °C.” |
 | 1628.15 | L + Al2Y \<=> βAl3Y | L: Y 0.23; Al2Y: Al 0.666667, Y 0.333333; βAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 11; `ORC-7JOVEIATCG` |  |
 | 1628.15 | peritectic |  | experimental | [3] Shakhshir 2006; _cites Savitskii 1976_ | p. 2; `ORC-NGTBVV4W4K` | “Savitiskii et al.\[13\] were the first to investigate the Al-Y system using metallographic and thermoanalytical measurements. They reported the formation of the peritectic intermetallic compound Y2Al5 at 1355 °C.” |
@@ -180,16 +180,16 @@ Table: Invariant reactions reported in the literature for the Al–Y system (108
 | 1403.15 | peritectic |  | experimental | [3] Shakhshir 2006 | p. 2; `ORC-HAXQLYQ2O2.6dbee6` | “The peritectic reactions for Al3Y, Al2Y, and AlY2 take place at 980, 1130, and 985 °C, respectively.” |
 | 1403 | Liquid + Al2Y \<-> AlY | Liquid: Y 0.52; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 23; `ORC-7PNCJNCI4I` |  |
 | 1403 | Liquid + Al2Y \<-> AlY | Liquid: Y 0.521; Al2Y: Al 0.666667, Y 0.333333; AlY: Al 0.5, Y 0.5 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 25; `ORC-LDBMXQYTE6` |  |
-| 1382 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018 | Table 7, p. 10, row 39; `ORC-YTTJEPS44K` |  |
-| 1378.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 25; `ORC-QZ57Z74VPU` |  |
-| 1378 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 34; `ORC-CERHNXLA5C` |  |
-| 1377.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [1] Liu 2006 | Table 2, p. 3, row 28; `ORC-QZXAQ2PGR4` |  |
-| 1377 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 38; `ORC-GLB5JBWWMN` |  |
-| 1373.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 26; `ORC-6VBLZ6PUZH` |  |
-| 1373 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 35; `ORC-SSIL6MOYQ7` |  |
-| 1367.15 | L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 27; `ORC-QPJD6FUXSB` |  |
-| 1367 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 36; `ORC-7FWKOOZHCB` |  |
-| 1365 | Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 37; `ORC-HWMWEQWWNS` |  |
+| 1382 | congruent melting: Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018 | Table 7, p. 10, row 39; `ORC-YTTJEPS44K` |  |
+| 1378.15 | congruent melting: L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 25; `ORC-QZ57Z74VPU` |  |
+| 1378 | congruent melting: Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 34; `ORC-CERHNXLA5C` |  |
+| 1377.15 | congruent melting: L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [1] Liu 2006 | Table 2, p. 3, row 28; `ORC-QZXAQ2PGR4` |  |
+| 1377 | congruent melting: Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 38; `ORC-GLB5JBWWMN` |  |
+| 1373.15 | congruent melting: L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 26; `ORC-6VBLZ6PUZH` |  |
+| 1373 | congruent melting: Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 35; `ORC-SSIL6MOYQ7` |  |
+| 1367.15 | congruent melting: L \<=> Al2Y3 | L: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 27; `ORC-QPJD6FUXSB` |  |
+| 1367 | congruent melting: Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 36; `ORC-7FWKOOZHCB` |  |
+| 1365 | congruent melting: Liquid \<-> Al2Y3 | Liquid: Y 0.6; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 37; `ORC-HWMWEQWWNS` |  |
 | 1361.15 | eutectic: L ↔ Al2Y3 + AlY |  | experimental | [3] Shakhshir 2006 | p. 2; `ORC-CB2SCFCOMK` | “Further, the eutectic reaction L ↔ Al2Y3 + AlY takes place at 1088 °C.” |
 | 1361.15 | L \<=> AlY + Al2Y3 | L: Y 0.58; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 22; `ORC-QZ7S6IHEBX` |  |
 | 1361 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.58; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 29; `ORC-IK3UG4QYJN` |  |
@@ -227,7 +227,6 @@ Table: Invariant reactions reported in the literature for the Al–Y system (108
 | 1243.15 | L \<=> AlY2 + (αY) | AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 35; `ORC-QSOQ3P2VSV` |  |
 | 1243 | Liquid \<-> AlY2 + hcp_Y | AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 48; `ORC-BFZXO242XL` |  |
 | 1233.15 | L \<=> AlY2 + (αY) | L: Y 0.753; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 34; `ORC-GVKMK57T46` |  |
-| 1233.15 | eutectic |  | experimental | [3] Shakhshir 2006 | p. 2; `ORC-XYM7IGRMPD.78c41a` | “In this work, it was found that the eutectic reactions in the Al-rich and Y-rich regions take place at 640 and 960 °C, respectively.” |
 | 1233 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.753; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 47; `ORC-KFVEIKHUNO` |  |
 | 1228.15 | L \<=> AlY2 + (αY) | L: Y 0.75; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 33; `ORC-FI4TP67IZ7` |  |
 | 1228 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.75; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 46; `ORC-AH5VHZJH6K` |  |
@@ -238,17 +237,15 @@ Table: Invariant reactions reported in the literature for the Al–Y system (108
 | 967 | Al2Y + αAl3Y + βAl3Y/Al2Y + αAl3Y |  | model | [2] Hu 2018 | Table 5, p. 6, row 44; `ORC-QNRXL6GF52` |  |
 | 923.15 | L \<=> (Al) + αAl3Y | L: Y 0.033; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 3; `ORC-5DTY75GKEV` |  |
 | 923 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.033; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 3; `ORC-DRUCIWJSVA` |  |
-| 919 | βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018 | Table 7, p. 10, row 9; `ORC-KEL6MLKP6X` |  |
+| 919 | polymorphic: βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018 | Table 7, p. 10, row 9; `ORC-KEL6MLKP6X` |  |
 | 917.15 | βAl3Y \<=> αAl3Y, L, Al2Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25; Al2Y: Al 0.666667, Y 0.333333 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 7; `ORC-3WTGGRIQZT` |  |
 | 917.15 | βAl3Y \<=> αAl3Y, L, Al2Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25; Al2Y: Al 0.666667, Y 0.333333 | model | [1] Liu 2006 | Table 2, p. 3, row 8; `ORC-CKPZWEU2UE` |  |
-| 917 | βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 8; `ORC-AWXFTGL7HV` |  |
-| 917 | βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 7; `ORC-O4AB22LPGO` |  |
+| 917 | polymorphic: βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 8; `ORC-AWXFTGL7HV` |  |
+| 917 | polymorphic: βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 7; `ORC-O4AB22LPGO` |  |
 | 913.15 | L \<=> (Al) + αAl3Y | L: Y 0.029; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 2; `ORC-4FWQVHUBOH` |  |
-| 913.15 | eutectic |  | experimental | [3] Shakhshir 2006 | p. 2; `ORC-XYM7IGRMPD.484c23` | “In this work, it was found that the eutectic reactions in the Al-rich and Y-rich regions take place at 640 and 960 °C, respectively.” |
 | 913 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.029; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 2; `ORC-237JQCXG6M` |  |
 | 911.15 | L \<=> (Al) + αAl3Y | L: Y 0.03; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Drits 1969_ | Table 2, p. 3, row 4; `ORC-C5HX5BSR6P` |  |
 | 910.15 | L \<=> (Al) + αAl3Y | L: Y 0.0296; αAl3Y: Al 0.75, Y 0.25 | model | [1] Liu 2006 | Table 2, p. 3, row 6; `ORC-AVYFYNQI2H` |  |
-| 910.15 | eutectic |  | experimental | [1] Liu 2006; _cites Kononenko 1990_ | p. 2; `ORC-HTJTHJBEGI` | “By the combined use of DTA, metallography, and XRD techniques, Kononenko and Golubev \[13\] reported liquidus in the most Alrich side and found the Al-rich eutectic point to be at 637 ◦ C and 3.1 at.% Y.” |
 | 910.15 | L \<=> (Al) + αAl3Y | αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Liu 2006_ | Table 2, p. 3, row 1; `ORC-TORGS5AALD` |  |
 | 910.15 | L \<=> (Al) + αAl3Y | L: Y 0.03; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Kononenko 1990_ | Table 2, p. 3, row 5; `ORC-Z2UQKH2M7F` |  |
 | 910 | Liquid \<-> fcc_Al + αAl3Y | αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 1; `ORC-A2OVD2CFZF` |  |
@@ -283,21 +280,14 @@ Table: Enthalpies of formation, Al–Y system (12)
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (4)
 
 Table: Phase transition, Al–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 887.15 K | 887.15 | other | model | [3] Shakhshir 2006 | p. 12; `ORC-GO35IK3Q7S.d6e57f` | “However, this was evaluated as 614 °C in the current work, which is in good agreement with Smith et al.\[38\]” |
-| Phase transition | 906.15 K | 906.15 | other | experimental | [3] Shakhshir 2006; _cites Drits 1979_ | p. 12; `ORC-GO35IK3Q7S.1c4934` | “This is due to the high melting point of ␧-phase (633 °C) reported by Drits et al.\[47\]” |
-| Phase transition | 917.15 K | 917.15 | αAl3 Y = βAl3 Y | experimental | [1] Liu 2006 | p. 4; `ORC-TI3BA3ZOX3` | “At the transition temperature 917.15 K between αAl3 Y and βAl3 Y, the Gibbs energies of these two phases are equal.” |
 | Phase transition | 918.15 K | 918.15 | Al3Y | experimental | [3] Shakhshir 2006; _cites Bailey 1967_ [doi](https://doi.org/10.1107/s0365110x67003603) | p. 3; `ORC-CI2PAKKM7J` | “A transformation of Al3Y from ␣ to ␤ was noticed by Bailey\[23\] at 645 °C; however, the two different phases ␣ and ␤ were not confirmed by Raggio et al.,\[24\] or by Lingmin et al.\[20\]” |
-| Phase transition | 1053.15 K | 1053.15 | other | experimental | [3] Shakhshir 2006; _cites Kh 1990_ | p. 11; `ORC-CGBUWE7BNO.1acce1` | “However, the calculated melting point of this compound is 1085 °C, which is much higher than ∼780 °C obtained by Odinaev and Ganiev.\[11\]” |
-| Phase transition | 1358.15 K | 1358.15 | other | model | [3] Shakhshir 2006 | p. 11; `ORC-CGBUWE7BNO.4f8c3f` | “However, the calculated melting point of this compound is 1085 °C, which is much higher than ∼780 °C obtained by Odinaev and Ganiev.\[11\]” |
 | Phase transition | 1373.15 K | 1373.15 | congruent melting | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2; `ORC-FKR7T4JSFI.34522c` | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
-| Phase transition | 1748.15 K | 1748.15 | other | experimental | [3] Shakhshir 2006 | p. 5; `ORC-RZJAHN6MNT` | “This discrepancy is probably caused by the difficulty in obtaining accurate measurements in this region, due to the existence of the high melting Al2Y compound (Tm ⳱ 1475 °C).” |
-| Phase transition | 1751.15 K | 1751.15 | polymorphic: ␣ ↔ ␤ | experimental | [3] Shakhshir 2006 | p. 2; `ORC-UCZBBNVMSY.92b48e` | “They reported that ␤Y phase melts at 1522 °C and yttrium undergoes an ␣ ↔ ␤ allotropic phase transformation at 1478 °C.” |
 | Phase transition | 1758.15 K | 1758.15 | congruent melting | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2; `ORC-FKR7T4JSFI.e416eb` | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
 | Phase transition | 1795.15 K | 1795.15 | ␤Y | experimental | [3] Shakhshir 2006 | p. 2; `ORC-UCZBBNVMSY.31d486` | “They reported that ␤Y phase melts at 1522 °C and yttrium undergoes an ␣ ↔ ␤ allotropic phase transformation at 1478 °C.” |
 

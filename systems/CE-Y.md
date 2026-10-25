@@ -1,10 +1,10 @@
 # Ce–Y system
 
-> Ce–Y system: 14 accepted literature values (invariant reaction 14) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Y system: 12 accepted literature values (invariant reaction 12) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-Y.html · Markdown: https://data.orchid-project.org/systems/CE-Y.md
 
-14 accepted literature values from 2 paper(s) (experimental 8, model 5, unspecified 1); 3 calculated phase diagram(s).
+12 accepted literature values from 2 paper(s) (experimental 6, model 5, unspecified 1); 3 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-Y.json) · [CSV](https://data.orchid-project.org/systems/CE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-Y/CeY-06Men.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CE-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-Y.html) · [Markdown](https://data.orchid-project.org/systems/CE-Y.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
+| experimental | 6 |
 | model | 5 |
 | unspecified | 1 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 12 |
 
 ## Calculated phase diagrams
 
@@ -49,13 +49,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Y system (14)
+Table: Invariant reactions reported in the literature for the Ce–Y system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1055 | bcc_a2 + hcp -> dhcp | bcc_a2: Y 0.31; hcp: Y 0.701; dhcp: Y 0.404 | model | [1] Meng 2006 | Table 2, p. 3, row 1; `ORC-UHIJEMLASZ` |  |
 | 1053 | peritectoid: bcc+hcp->dhcp |  | experimental | [2] DJUROVIC 2008; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | Table 5, p. 8, row 2; `ORC-AL2B2UKVD4` |  |
-| 1053 | peritectic: bcc + hcp → dhcp |  | experimental | [1] Meng 2006 | p. 2; `ORC-ARAR4VIB3I` | “Additionally they proposed the occurrence of a peritectic reaction, bcc + hcp → dhcp, at about 1053 K.” |
 | 1053 | bcc_a2 + hcp -> dhcp |  | experimental | [1] Meng 2006; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | Table 2, p. 3, row 2; `ORC-XJKONPD3HR` |  |
 | 1040 | peritectoid: bcc+hcp->dhcp | bcc: Y 0.279; hcp: Y 0.65; dhcp: Y 0.433 | model | [2] DJUROVIC 2008 | Table 5, p. 8, row 1; `ORC-5OPD3Q54AK` |  |
 | 978 | eutectoid: bcc->fcc+dhcp | bcc: Y 0.1 | experimental | [2] DJUROVIC 2008; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | Table 5, p. 8, row 4; `ORC-44HG3KHFVM` |  |
@@ -63,7 +62,6 @@ Table: Invariant reactions reported in the literature for the Ce–Y system (14)
 | 978 | bcc_a2 -> fcc_a1 + dhcp | bcc_a2: Y 0.1 | experimental | [1] Meng 2006; _cites Flandorfer 1997_ [doi](https://doi.org/10.1007/s11661-997-0129-z) | Table 2, p. 3, row 4; `ORC-HXIS2YBRAW` |  |
 | 973 | bcc_a2 -> fcc_a1 + dhcp |  | experimental | [1] Meng 2006; _cites Gschneidner 1982_ [doi](https://doi.org/10.1007/bf02892383) | Table 2, p. 3, row 5; `ORC-CB4Q3SYPEA` |  |
 | 973 | eutectoid: bcc->fcc+dhcp |  | unspecified | [2] DJUROVIC 2008; _cites Gschneidner 1982_ [doi](https://doi.org/10.1007/bf02892383) | Table 5, p. 8, row 5; `ORC-JTC2HPUHI4` |  |
-| 973 | eutectoid: bcc → fcc + dhcp |  | experimental | [1] Meng 2006; _cites Gschneidner 1982_ [doi](https://doi.org/10.1007/bf02892383) | p. 1; `ORC-KZDUKBMMT2` | “It was believed that there are five solution phases, liquid, bcc, hcp, fcc and dhcp, in the Ce-Y binary system, and the bcc phase transforms into the fcc phase and the dhcp phase at 973 K by the eutectoid reaction, bcc → fcc + dhcp \[3\].” |
 | 967 | eutectoid |  | model | [1] Meng 2006 | p. 3; `ORC-L35WRZL33J` | “The calculated results show that the eutectoid decomposition of the bcc phase occurs at 967 K and 16.1 at.% Y.” |
 | 967 | bcc_a2 -> fcc_a1 + dhcp | bcc_a2: Y 0.161; fcc_a1: Y 0.127; dhcp: Y 0.283 | model | [1] Meng 2006 | Table 2, p. 3, row 3; `ORC-TQDMGFP63N` |  |
 | 953 | eutectoid: bcc->fcc+dhcp | bcc: Y 0.107; fcc: Y 0.089; dhcp: Y 0.339 | model | [2] DJUROVIC 2008 | Table 5, p. 8, row 3; `ORC-2FWMJJ33KO` |  |

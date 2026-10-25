@@ -35,7 +35,7 @@ Table: Uncertainty budget of the literature values of GeS
 | -38.1 | kJ/mol-atom | 4.2 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 4.2 |
 | -38.1 | kJ/mol-atom | 2.1 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2.1 |
 | -37.7 | kJ/mol-atom | 1.5 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2 |
-| -30.6 | kJ/mol-atom | 0.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -30.6 | kJ/mol-atom | 0.6 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -56.42 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -38.27 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -37.172 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

@@ -1,10 +1,10 @@
 # Cr–Ge system
 
-> Cr–Ge system: 100 accepted literature values (invariant reaction 60, formation 26, heat capacity / entropy / enthalpy 9, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ge system: 97 accepted literature values (invariant reaction 59, formation 26, heat capacity / entropy / enthalpy 9, phase transition 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-GE.html · Markdown: https://data.orchid-project.org/systems/CR-GE.md
 
-100 accepted literature values from 2 paper(s) (experimental 63, model 37); 3 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+97 accepted literature values from 2 paper(s) (experimental 61, model 36); 3 calculated phase diagram(s). 21 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-GE.json) · [CSV](https://data.orchid-project.org/systems/CR-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-GE/CrGe-09Li.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CR-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-GE.html) · [Markdown](https://data.orchid-project.org/systems/CR-GE.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 63 |
-| model | 37 |
+| experimental | 61 |
+| model | 36 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 60 |
-| phase transition | 5 |
+| invariant reaction | 59 |
+| phase transition | 3 |
 | formation | 26 |
 | heat capacity / entropy / enthalpy | 9 |
 
@@ -74,7 +74,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Ge system (60)
+Table: Invariant reactions reported in the literature for the Cr–Ge system (59)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -85,7 +85,6 @@ Table: Invariant reactions reported in the literature for the Cr–Ge system (60
 | 1837 | liq + bcc -> Cr3Ge | liq: Ge 0.2291; bcc: Ge 0.1113; Cr3Ge: Ge 0.2128 | model | [2] Li 2009 | Table 3, p. 3, row 2; `ORC-GRLPJVIGGU` |  |
 | 1837 | liq + bcc -> Cr3Ge | liq: Ge 0.2384; bcc: Ge 0.1191; Cr3Ge: Ge 0.2161 | model | [2] Li 2009 | Table 3, p. 3, row 1; `ORC-VX6D6AAIIP` |  |
 | 1683.15 | peritectic: L + (Cr) -> Cr3Ge | Cr3Ge: Cr 0.75, Ge 0.25 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 2; `ORC-NFDT5KBRTI` |  |
-| 1683.15 | peritectic: L + BCC ↔ Cr3 Ge |  | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | p. 2; `ORC-WMNGISV653.f3d310` | “In the Cr-rich region, Svechnikov et al. \[12\] reported a monotectic reaction L1 ↔ L2 + BCC at 1565 ◦ C and peritectic reaction L + BCC ↔ Cr3 Ge at 1410 ◦ C.” |
 | 1535.15 | peritectic: L + Cr3Ge -> βCr5Ge3 | Cr3Ge: Ge 0.251; βCr5Ge3: Ge 0.378 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 4; `ORC-35EQXJ6OKH` |  |
 | 1535.15 | peritectic |  | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | p. 1; `ORC-44GSJ53CEB.8085e3` | “The Cr5 Ge3 phase, with a homogeneity range from 37.4 to 38.2 at.% Ge, decomposes peritectically at 1262 ◦ C and undergoes an allotropic transformation at 1002 ◦ C.” |
 | 1535.15 | peritectic: L + Cr3Ge -> βCr5Ge3 | L: Ge 0.446; Cr3Ge: Ge 0.253; βCr5Ge3: Ge 0.372 | model | [1] Liu 2010 | Table 3, p. 6, row 8; `ORC-NYSVPOUDXC` |  |
@@ -134,9 +133,9 @@ Table: Invariant reactions reported in the literature for the Cr–Ge system (60
 | 1173.15 | peritectic: L + CrGe -> Cr11Ge19 | L: Ge 0.75; CrGe: Ge 0.5; Cr11Ge19: Ge 0.66 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 21; `ORC-YGSOJEKMHH` |  |
 | 1168.15 | eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.85; Cr11Ge19: Ge 0.6343; (Ge): Ge 1 | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | Table 3, p. 6, row 25; `ORC-KBF6CZ2XHO` |  |
 | 1168.15 | eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.867; Cr11Ge19: Ge 0.633; (Ge): Ge 1 | model | [1] Liu 2010 | Table 3, p. 6, row 28; `ORC-M62IGSZJTX` |  |
-| 1168 | liq -> Cr11Ge19 + diamond | Cr11Ge19: Ge 0.6333; diamond: Ge 0.998 | model | [2] Li 2009 | Table 3, p. 3, row 22; `ORC-4AOO5AYAEL` |  |
-| 1168 | liq -> Cr11Ge19 + diamond | liq: Ge 0.85; Cr11Ge19: Ge 0.633; diamond: Ge 0.997 | experimental | [2] Li 2009; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 3, p. 3, row 23; `ORC-DU3YM7WODU` |  |
-| 1168 | liq -> Cr11Ge19 + diamond | liq: Ge 0.8654; Cr11Ge19: Ge 0.6333; diamond: Ge 0.9927 | model | [2] Li 2009 | Table 3, p. 3, row 21; `ORC-UONA6GP6UN` |  |
+| 1168 | eutectic: liq -> Cr11Ge19 + diamond | Cr11Ge19: Ge 0.6333; diamond: Ge 0.998 | model | [2] Li 2009 | Table 3, p. 3, row 22; `ORC-4AOO5AYAEL` |  |
+| 1168 | eutectic: liq -> Cr11Ge19 + diamond | liq: Ge 0.85; Cr11Ge19: Ge 0.633; diamond: Ge 0.997 | experimental | [2] Li 2009; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 3, p. 3, row 23; `ORC-DU3YM7WODU` |  |
+| 1168 | eutectic: liq -> Cr11Ge19 + diamond | liq: Ge 0.8654; Cr11Ge19: Ge 0.6333; diamond: Ge 0.9927 | model | [2] Li 2009 | Table 3, p. 3, row 21; `ORC-UONA6GP6UN` |  |
 | 1138.15 | eutectic: L -> Cr11Ge19 + (Ge) | L: Ge 0.78; Cr11Ge19: Ge 0.66; (Ge): Ge 0.97 | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | Table 3, p. 6, row 27; `ORC-67P5FFKZG6` |  |
 
 ## Formation enthalpies
@@ -166,7 +165,7 @@ Table: Enthalpies of formation, Cr–Ge system (16)
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (3)
 
 Table: Phase transition, Cr–Ge system
 
@@ -175,8 +174,6 @@ Table: Phase transition, Cr–Ge system
 | Phase transition | 1208.15 K | 1208.15 | Cr11Ge19 | experimental | [1] Liu 2010; _cites Kawasumi 1978_ [doi](https://doi.org/10.1143/jjap.17.2173) | p. 2; `ORC-G6PA3NT6J4.b1c6c2` | “The latter two temperatures agree well with those of 998 ◦ C and 935 ◦ C reported by Kawasumi et al. \[14\].” |
 | Phase transition | 1271.15 K | 1271.15 | CrGe | experimental | [1] Liu 2010; _cites Kawasumi 1978_ [doi](https://doi.org/10.1143/jjap.17.2173) | p. 2; `ORC-G6PA3NT6J4.896188` | “The latter two temperatures agree well with those of 998 ◦ C and 935 ◦ C reported by Kawasumi et al. \[14\].” |
 | Phase transition | 1275.15 K | 1275.15 | polymorphic | experimental | [1] Liu 2010; _cites Godat 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990248-9) | p. 1; `ORC-44GSJ53CEB.f9f689` | “The Cr5 Ge3 phase, with a homogeneity range from 37.4 to 38.2 at.% Ge, decomposes peritectically at 1262 ◦ C and undergoes an allotropic transformation at 1002 ◦ C.” |
-| Phase transition | 1275.15 K | 1275.15 | polymorphic | model | [1] Liu 2010 | p. 4; `ORC-O4DJJCAHLH` | “The nonstoichiometric Cr5 Ge3 phase undergoes an allotropic transformation at 1002 ◦ C \[10\].” |
-| Phase transition | 1838.15 K | 1838.15 | other: L1 ↔ L2 + BCC | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | p. 2; `ORC-WMNGISV653.dc9374` | “In the Cr-rich region, Svechnikov et al. \[12\] reported a monotectic reaction L1 ↔ L2 + BCC at 1565 ◦ C and peritectic reaction L + BCC ↔ Cr3 Ge at 1410 ◦ C.” |
 
 ### Formation (10)
 

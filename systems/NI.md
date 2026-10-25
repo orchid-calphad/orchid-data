@@ -1,10 +1,10 @@
 # Ni system
 
-> Ni system: 77 accepted literature values (formation 33, crystal structure 24, phase transition 12, activity / EMF / Gibbs energy 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni system: 58 accepted literature values (crystal structure 19, formation 19, phase transition 12, activity / EMF / Gibbs energy 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI.html · Markdown: https://data.orchid-project.org/systems/NI.md
 
-77 accepted literature values from 19 paper(s) (experimental 12, model 20, DFT 35, unspecified 10); 0 calculated phase diagram(s).
+58 accepted literature values from 18 paper(s) (experimental 12, model 15, DFT 21, unspecified 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI.json) · [CSV](https://data.orchid-project.org/systems/NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI.html) · [Markdown](https://data.orchid-project.org/systems/NI.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| model | 20 |
-| DFT | 35 |
+| model | 15 |
+| DFT | 21 |
 | unspecified | 10 |
 
 Table: Accepted values by property group
@@ -22,15 +22,15 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 12 |
-| formation | 33 |
+| formation | 19 |
 | activity / EMF / Gibbs energy | 8 |
-| crystal structure | 24 |
+| crystal structure | 19 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni system (33)
+Table: Enthalpies of formation, Ni system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -43,25 +43,11 @@ Table: Enthalpies of formation, Ni system (33)
 | D0_a |  | 0.488 kJ/mol (basis unstated) | 0 | unspecified |  |  | [2] Mathon 2009 | Table 2, p. 10, row 6; `ORC-SOVSORX6GL.744ece` |  |
 | D0_a |  | 9.226 kJ/mol (basis unstated) | 0 | unspecified |  |  | [2] Mathon 2009 | Table 2, p. 10, row 6; `ORC-SOVSORX6GL.679bf3` |  |
 | D0_a |  | 20 kJ/mol (basis unstated) | 0 | unspecified |  |  | [2] Mathon 2009 | Table 2, p. 10, row 6; `ORC-SOVSORX6GL.2596b2` |  |
-| HfNi2Sn |  | -3.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.a56264` |  |
-| HfNi2Sn |  | 183.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.867eee` |  |
-| HfNi2Sn |  | 201.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.51e9bb` |  |
-| HfNiSn |  | 110.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 11; `ORC-LLPCIIVZFK.6337c7` |  |
-| HfNiSn |  | 159.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.74d161` |  |
-| HfNiSn |  | 361.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.4631a4` |  |
-| HfNiSn |  | 606.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.8b6550` |  |
 | Ni |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 24; `ORC-5EBBIE7IWM.335297` |  |
 | Ni |  | 9.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2005 | Table 2, p. 4, row 25; `ORC-IL45GRAGXF.f4a144` |  |
 | Ni A1 |  | 9.2 kJ/mol-atom | 0 | DFT |  |  | [4] Cacciamani 2010 | Table 3, p. 7, row 13; `ORC-RATDL7RTN4` |  |
 | Ni A2 |  | 0 kJ/mol-atom | 0 | DFT |  |  | [4] Cacciamani 2010 | Table 3, p. 7, row 14; `ORC-M6ZH5C4SG6` |  |
 | Ni(fcc-A1) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [5] Ross 2018 | Table 1, p. 4, row 1; `ORC-NXB4QUUXWI.faa632` |  |
-| TiNi2Sn |  | 2.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.d36836` |  |
-| TiNi2Sn |  | 84.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.71d4bc` |  |
-| TiNi2Sn |  | 117.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.b72a54` |  |
-| TiNiSn |  | 79.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 11; `ORC-LLPCIIVZFK.de0dc0` |  |
-| TiNiSn |  | 157.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.2933d1` |  |
-| TiNiSn |  | 289.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.6a36a7` |  |
-| TiNiSn |  | 418.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.da8c61` |  |
 | UNKNOWN |  | 0 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 24; `ORC-5EBBIE7IWM.d0ecfd` |  |
 | UNKNOWN |  | 0 kJ/mol-atom |  | DFT |  |  | [6] Zhou 2009 | Table 6, p. 7, row 1; `ORC-Z5BP2ECH5W` |  |
 | UNKNOWN |  | 9.33 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2005 | Table 2, p. 4, row 25; `ORC-IL45GRAGXF.753057` |  |
@@ -95,16 +81,16 @@ Table: Activity / EMF / Gibbs energy, Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -766.64 J/mol | 0 | BCC_A2; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 47; `ORC-5VECLZ5PXN.cc693a` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -766.64 J/mol | 0 | BCC_A2; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 47; `ORC-5VECLZ5PXN.cfd90c` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 41; `ORC-5JLEG4GE3A.063f06` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 41; `ORC-5JLEG4GE3A.1f45bb` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 53; `ORC-BP4LLE3UCY.874543` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 53; `ORC-BP4LLE3UCY.e2d33d` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -80.44 J/mol | 0 | σ; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 58; `ORC-WCTOB43OG6.0086b7` |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -80.44 J/mol | 0 | σ; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 58; `ORC-WCTOB43OG6.3a92fc` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | -766.64 J/mol | 0 | BCC_A2; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 47; `ORC-5VECLZ5PXN.cc693a` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | -766.64 J/mol | 0 | BCC_A2; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 47; `ORC-5VECLZ5PXN.cfd90c` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 41; `ORC-5JLEG4GE3A.063f06` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 41; `ORC-5JLEG4GE3A.1f45bb` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 53; `ORC-BP4LLE3UCY.874543` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 53; `ORC-BP4LLE3UCY.e2d33d` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | -80.44 J/mol | 0 | σ; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 58; `ORC-WCTOB43OG6.0086b7` |  |
+| gibbs energy contribution; _printed: magΔG_i^φ/SER(0 K)_ | -80.44 J/mol | 0 | σ; _alloy: Ni 1_ | model | [10] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 58; `ORC-WCTOB43OG6.3a92fc` |  |
 
-### Crystal structure (24)
+### Crystal structure (19)
 
 Table: Crystal structure, Ni system
 
@@ -121,17 +107,12 @@ Table: Crystal structure, Ni system
 | Lattice a | 3.498 Å |  | fcc; _alloy: Ni 1_ | model | [13] Kim 2011 | Table 1, p. 2, row 7; `ORC-RTF7TN4GBQ` |  |
 | Lattice a; _printed: a_ | 3.531 Å | 0 | fcc-Ni | DFT | [14] Hu 2017 | Table 3, p. 26, row 3; `ORC-IAXRV6DN7K.189ffc` |  |
 | Lattice a; _printed: a_ | 3.54 Å | 0 | fcc-Ni | DFT | [14] Hu 2017 | Table 3, p. 26, row 4; `ORC-ZJ37KVI7VQ.224856` |  |
-| Lattice a | 4.824 Å | 298.15 | MgNi2; _alloy: Ni 1_ | model | [15] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 5; `ORC-6HYIKECAKX.f04481` |  |
-| Lattice a | 3.523 Å | 298.15 | Ni; _alloy: Ni 1_ | unspecified | [16] An 2012 | Table 2, p. 5, row 4; `ORC-OZI6YJRPV3` |  |
-| Lattice a | 3.523 Å | 298.15 | Ni; _alloy: Ni 1_ | unspecified | [17] An 2013 | Table 3, p. 5, row 4; `ORC-PBEQT7JZZK.484054` |  |
-| Lattice a | 3.524 Å | 298.15 | fcc(Ni); _alloy: Ni 1_ | model | [18] Liu 2016; _cites Massalski 1990_ | Table II, p. 2, row 6; `ORC-VHADNQ7HST` |  |
+| Lattice a | 3.523 Å | 298.15 | Ni; _alloy: Ni 1_ | unspecified | [15] An 2012 | Table 2, p. 5, row 4; `ORC-OZI6YJRPV3` |  |
+| Lattice a | 3.523 Å | 298.15 | Ni; _alloy: Ni 1_ | unspecified | [16] An 2013 | Table 3, p. 5, row 4; `ORC-PBEQT7JZZK.484054` |  |
+| Lattice a | 3.524 Å | 298.15 | fcc(Ni); _alloy: Ni 1_ | model | [17] Liu 2016; _cites Massalski 1990_ | Table II, p. 2, row 6; `ORC-VHADNQ7HST` |  |
 | Lattice a; _printed: Lattice parameter a_ | 3.525 Å | 298.15 | fcc-Ni | experimental | [14] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 2; `ORC-TDHPQBYUMS.127862` |  |
 | Lattice a; _printed: a_ | 3.524 Å | 298.15 | fcc-Ni | experimental | [14] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 1; `ORC-ZFHGIWUYEC.261581` |  |
-| Lattice c | 15.826 Å | 298.15 | MgNi2; _alloy: Ni 1_ | model | [15] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 5; `ORC-6HYIKECAKX.c30dc4` |  |
-| Molar volume; _printed: V0_ | 10.88 Å3/atom | 0 | fcc(Ni); _alloy: Ni 1_ | DFT | [19] Zhou 2020 | Table V, p. 12, row 3; `ORC-6I27XH5CWH` |  |
-| lattice alpha | 90 not_printed | 298.15 | MgNi2; _alloy: Ni 1_ | model | [15] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 5; `ORC-6HYIKECAKX.434945` |  |
-| lattice beta | 90 not_printed | 298.15 | MgNi2; _alloy: Ni 1_ | model | [15] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 5; `ORC-6HYIKECAKX.60f76e` |  |
-| lattice gamma | 120 not_printed | 298.15 | MgNi2; _alloy: Ni 1_ | model | [15] Islam 2005; _cites Villars 1991_ | Table 1, p. 4, row 5; `ORC-6HYIKECAKX.a11879` |  |
+| Molar volume; _printed: V0_ | 10.88 Å3/atom | 0 | fcc(Ni); _alloy: Ni 1_ | DFT | [18] Zhou 2020 | Table V, p. 12, row 3; `ORC-6I27XH5CWH` |  |
 | lattice unspecified axis; _printed: a0_ | 2.8 Å | 0 | Ni A1; _alloy: Ni 1_ | DFT | [4] Cacciamani 2010 | Table 3, p. 7, row 13; `ORC-SV2DYP2GC2` |  |
 | lattice unspecified axis; _printed: a0_ | 3.518 Å | 0 | Ni A2; _alloy: Ni 1_ | DFT | [4] Cacciamani 2010 | Table 3, p. 7, row 14; `ORC-32TJT4ZUEC` |  |
 
@@ -153,11 +134,10 @@ Reporting papers the values were read from (a value cited from another work name
 12. W. Xiong, H. Zhang, L. Vitos, M. Selleby, Magnetic phase diagram of the Fe–Ni system, Acta Materialia 59, 521-530 (2011). [doi:10.1016/j.actamat.2010.09.055](https://doi.org/10.1016/j.actamat.2010.09.055)
 13. DongEung Kim, James E. Saal, Liangcai Zhou, ShunLi Shang, Yong Du, Zi-Kui Liu, Thermodynamic modeling of fcc order/disorder transformations in the Co–Pt system, Calphad 35, 323-330 (2011). [doi:10.1016/j.calphad.2011.04.005](https://doi.org/10.1016/j.calphad.2011.04.005)
 14. Yong-Jie Hu, Yi Wang, Samad A. Firdosy, Kurt E. Star, Jean-Pierre Fleurial, Vilupanur A. Ravi et al., First-principles calculations and thermodynamic modeling of the Yb-Ni binary system, Calphad 59, 207-217 (2017). [doi:10.1016/j.calphad.2017.09.004](https://doi.org/10.1016/j.calphad.2017.09.004)
-15. F. Islam, M. Medraj, The phase equilibria in the Mg–Ni–Ca system, Calphad 29, 289-302 (2005). [doi:10.1016/j.calphad.2005.08.006](https://doi.org/10.1016/j.calphad.2005.08.006)
-16. Xuehui An, Qian Li, Jieyu Zhang, Shuanglin Chen, Ying Yang, Phase equilibria of the La–Ni–Cu ternary system at 673 K: Thermodynamic modeling and experimental validation, Calphad 36, 8-15 (2012). [doi:10.1016/j.calphad.2011.10.004](https://doi.org/10.1016/j.calphad.2011.10.004)
-17. X.H. An, Q.F. Gu, J.Y. Zhang, S.L. Chen, X.B. Yu, Q. Li, Experimental investigation and thermodynamic reassessment of La–Ni and LaNi5–H systems, Calphad 40, 48-55 (2013). [doi:10.1016/j.calphad.2012.12.002](https://doi.org/10.1016/j.calphad.2012.12.002)
-18. Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016). [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9)
-19. Chenyang Zhou, Cuiping Guo, Jingbo Li, Changrong Li, Zhenmin Du, Key Experiments and Thermodynamic Description of the Co-Nb-Ni System, Metall Mater Trans A 51, 5892-5911 (2020). [doi:10.1007/s11661-020-05963-2](https://doi.org/10.1007/s11661-020-05963-2)
+15. Xuehui An, Qian Li, Jieyu Zhang, Shuanglin Chen, Ying Yang, Phase equilibria of the La–Ni–Cu ternary system at 673 K: Thermodynamic modeling and experimental validation, Calphad 36, 8-15 (2012). [doi:10.1016/j.calphad.2011.10.004](https://doi.org/10.1016/j.calphad.2011.10.004)
+16. X.H. An, Q.F. Gu, J.Y. Zhang, S.L. Chen, X.B. Yu, Q. Li, Experimental investigation and thermodynamic reassessment of La–Ni and LaNi5–H systems, Calphad 40, 48-55 (2013). [doi:10.1016/j.calphad.2012.12.002](https://doi.org/10.1016/j.calphad.2012.12.002)
+17. Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016). [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9)
+18. Chenyang Zhou, Cuiping Guo, Jingbo Li, Changrong Li, Zhenmin Du, Key Experiments and Thermodynamic Description of the Co-Nb-Ni System, Metall Mater Trans A 51, 5892-5911 (2020). [doi:10.1007/s11661-020-05963-2](https://doi.org/10.1007/s11661-020-05963-2)
 
 ## Please cite
 

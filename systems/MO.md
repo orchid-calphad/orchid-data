@@ -72,18 +72,18 @@ Table: Heat capacity / entropy / enthalpy, Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2422 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8; `ORC-N5BEGSNYRN.4fe3a7` |  |
-| Heat content; _printed: Hm(599K)-Hm(273K)_ | 7613 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8; `ORC-N5BEGSNYRN.857c9d` |  |
-| Heat content; _printed: Hm(784K)-Hm(273K)_ | 12730 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8; `ORC-N5BEGSNYRN.8c66ed` |  |
-| Heat content; _printed: Hm(784K)-Hm(273K)_ | 12722 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7; `ORC-YQGEY2PAIH.76ca81` |  |
-| Heat content; _printed: Hm(599K)-Hm(273K)_ | 7231 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7; `ORC-YQGEY2PAIH.90d8ec` |  |
-| Heat content; _printed: Hm(373K)-Hm(273K)_ | 2126 J/mol of atoms |  | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7; `ORC-YQGEY2PAIH.c00fe2` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 2422 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 30; `ORC-BPDJ2SOLY3` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 2126 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 27; `ORC-CS4BZE2ELF` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 7231 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 28; `ORC-C6GY4ZLDGI` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 7613 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 31; `ORC-IWVYX4KX5N` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 12722 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 29; `ORC-2NUOQD7ZVW` |  |
-| Heat content; _printed: Hm(T)-Hm(273K)_ | 12730 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 32; `ORC-VLVSMQKZBZ` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 2422 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 30; `ORC-BPDJ2SOLY3` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 2126 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 27; `ORC-CS4BZE2ELF` |  |
+| heat content from base t; _printed: Hm(373K)-Hm(273K)_ | 2422 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8; `ORC-N5BEGSNYRN.4fe3a7` |  |
+| heat content from base t; _printed: Hm(373K)-Hm(273K)_ | 2126 J/mol of atoms | 373 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7; `ORC-YQGEY2PAIH.c00fe2` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 7231 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 28; `ORC-C6GY4ZLDGI` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 7613 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 31; `ORC-IWVYX4KX5N` |  |
+| heat content from base t; _printed: Hm(599K)-Hm(273K)_ | 7613 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8; `ORC-N5BEGSNYRN.857c9d` |  |
+| heat content from base t; _printed: Hm(599K)-Hm(273K)_ | 7231 J/mol of atoms | 599 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7; `ORC-YQGEY2PAIH.90d8ec` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 12722 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 29; `ORC-2NUOQD7ZVW` |  |
+| heat content from base t; _printed: Hm(784K)-Hm(273K)_ | 12730 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 8; `ORC-N5BEGSNYRN.8c66ed` |  |
+| heat content from base t; _printed: Hm(T)-Hm(273K)_ | 12730 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 1_ | model | [5] Frisk 1991 | Table II, p. 8, row 32; `ORC-VLVSMQKZBZ` |  |
+| heat content from base t; _printed: Hm(784K)-Hm(273K)_ | 12722 J/mol of atoms | 784 | UNKNOWN; _alloy: Mo 1_ | experimental | [5] Frisk 1991; _cites Satoh 1938_ | Table II, p. 8, row 7; `ORC-YQGEY2PAIH.76ca81` |  |
 
 ### Activity / EMF / Gibbs energy (2)
 

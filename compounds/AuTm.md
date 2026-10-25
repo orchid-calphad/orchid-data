@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of AuTm
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -92.8 | kJ/mol-atom | 1.9 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -92.8 | kJ/mol-atom | 1.9 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -90.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -68.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -90 | kJ/mol-atom |  | 0.5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -87.5 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -90 | kJ/mol-atom |  | 0.5 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -87.5 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

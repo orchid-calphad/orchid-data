@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/Y.html · Markdown: https://data.orchid-project.org/systems/Y.md
 
-56 accepted literature values from 12 paper(s) (experimental 20, model 19, DFT 4, unspecified 13); 0 calculated phase diagram(s).
+56 accepted literature values from 12 paper(s) (experimental 20, model 20, DFT 4, unspecified 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/Y.json) · [CSV](https://data.orchid-project.org/systems/Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/Y.html) · [Markdown](https://data.orchid-project.org/systems/Y.md)
 
@@ -13,9 +13,9 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 20 |
-| model | 19 |
+| model | 20 |
 | DFT | 4 |
-| unspecified | 13 |
+| unspecified | 12 |
 
 Table: Accepted values by property group
 
@@ -38,7 +38,7 @@ Table: Invariant reactions reported in the literature for the Y system (11)
 | 1758.15 | L + βY \<-> αY | L: Y 0.9994; βY: Y 0.983; αY: Y 0.997 | unspecified | [2] Chan 2010; _cites Massalski 1990_ | Table 4, p. 7, row 5; `ORC-IIGOKZPESW` |  |
 | 1758.15 | L + βY \<-> αY | L: Y 0.9994; βY: Y 0.9821; αY: Y 0.998 | model | [2] Chan 2010 | Table 4, p. 7, row 6; `ORC-X7IT3HR23I` |  |
 | 1756 | peritectic: βY → αY+L | βY: Y 0.9974; αY: Y 0.9826; L: Y 0.9973 | model | [3] Fan 2021; _cites Saenko 2017_ [doi](https://doi.org/10.1007/s11669-017-0574-3) | Table 2, p. 4, row 42; `ORC-DLW4KSF2Y2` |  |
-| 1752 | polymorphic: hcp-A3 \<=> bcc-A2 | hcp-A3: Y 1; bcc-A2: Y 1 | unspecified | [4] Hämäläinen 1998 | Table I, p. 200, row 7; `ORC-MMEGNQHNYF` |  |
+| 1752 | polymorphic: hcp-A3 \<=> bcc-A2 | hcp-A3: Y 1; bcc-A2: Y 1 | model | [4] (ed.) 1998 | Table I, p. 200, row 7; `ORC-MMEGNQHNYF` |  |
 | 1751.15 | polymorphic: βY ↔ αY | αY: Y 1 | experimental | [5] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 3, p. 3, row 4; `ORC-D2HVWTLBJK` |  |
 | 1751.15 | polymorphic: βY ↔ αY | αY: Y 1 | model | [5] Wang 2009 | Table 3, p. 3, row 5; `ORC-VB5PJ3EXQQ` |  |
 | 1751 | β-Y -> α-Y | α-Y: Y 1 | model | [6] Golumbfskie 2006 | Table 2, p. 2, row 33; `ORC-75ZZF635C5` |  |
@@ -121,7 +121,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. S. Kardellass, C. Servant, N. Selhaoui, A. Iddaoudi, M. Ait Amar, L. Bouirden, A thermodynamic assessment of the iron–yttrium system, Journal of Alloys and Compounds 583, 598-606 (2014). [doi:10.1016/j.jallcom.2013.07.010](https://doi.org/10.1016/j.jallcom.2013.07.010)
 2. Wren Chan, Michael C. Gao, Ömer N. Doğan, Paul King, Thermodynamic Assessment of V-Rare Earth Systems, J. Phase Equilib. Diffus. 31, 425-432 (2010). [doi:10.1007/s11669-010-9779-4](https://doi.org/10.1007/s11669-010-9779-4)
 3. Ling Fan, Chen Shen, Kun Hu, Huashan Liu, Hongbin Zhang, DFT Calculations and Thermodynamic Re-Assessment of the Fe-Y Binary System, J. Phase Equilib. Diffus. 42, 348-362 (2021). [doi:10.1007/s11669-021-00887-9](https://doi.org/10.1007/s11669-021-00887-9)
-4. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+4. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 5. S.L. Wang, C.P. Wang, X.J. Liu, K. Ishida, Thermodynamic assessments of the Ag–Y and Sc–Y systems, Journal of Alloys and Compounds 476, 187-192 (2009). [doi:10.1016/j.jallcom.2008.09.053](https://doi.org/10.1016/j.jallcom.2008.09.053)
 6. William Golumbfskie, Zi-Kui Liu, CALPHAD/first-principles re-modeling of the Co–Y binary system, Journal of Alloys and Compounds 407, 193-200 (2006). [doi:10.1016/j.jallcom.2005.06.037](https://doi.org/10.1016/j.jallcom.2005.06.037)
 7. Jiaqing Peng, Ming Wu, Fu Du, Fengli Yang, Jianyun Shen, Lijun Wang et al., Thermodynamic modelling of Y–H and Y–Zr–H system aided by first-principles and its application in bulk hydride moderator fabrication, Journal of Nuclear Materials 531, 152035 (2020). [doi:10.1016/j.jnucmat.2020.152035](https://doi.org/10.1016/j.jnucmat.2020.152035)

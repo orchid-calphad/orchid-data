@@ -1,10 +1,10 @@
 # Al–Cr–Ti system
 
-> Al–Cr–Ti system: 133 accepted literature values (phase transition 120, invariant reaction 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cr–Ti system: 132 accepted literature values (phase transition 119, invariant reaction 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CR-TI.html · Markdown: https://data.orchid-project.org/systems/AL-CR-TI.md
 
-133 accepted literature values from 1 paper(s) (experimental 76, model 13, unspecified 44); 0 calculated phase diagram(s).
+132 accepted literature values from 1 paper(s) (experimental 75, model 13, unspecified 44); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR-TI.json) · [CSV](https://data.orchid-project.org/systems/AL-CR-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CR-TI.html) · [Markdown](https://data.orchid-project.org/systems/AL-CR-TI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 76 |
+| experimental | 75 |
 | model | 13 |
 | unspecified | 44 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 13 |
-| phase transition | 120 |
+| phase transition | 119 |
 
 ## Invariant reactions (literature)
 
@@ -45,7 +45,7 @@ Table: Invariant reactions reported in the literature for the Al–Cr–Ti syste
 
 ## Other properties
 
-### Phase transition (120)
+### Phase transition (119)
 
 Table: Phase transition, Al–Cr–Ti system
 
@@ -116,7 +116,6 @@ Table: Phase transition, Al–Cr–Ti system
 | Phase transition | 1676 K | 1676 | L + A2 \\ L + α + A2; _alloy: Al 0.4809, Cr 0.0502, Ti 0.4689_ | experimental | [1] Witusiewicz 2015 | Table 2, p. 3, row 64; `ORC-TLFKL4HTQZ` |  |
 | Phase transition | 1676 K | 1676 | other: L + A2 + α \\ A2 + α; _alloy: Al 0.4609, Cr 0.0488, Ti 0.4904_ | unspecified | [1] Witusiewicz 2015 | Table 2, p. 3, row 86; `ORC-FKJ7EWBUWO` |  |
 | Phase transition | 1677 K | 1677 | α + A2 \\ α + B2; _alloy: Al 0.4397, Cr 0.0199, Ti 0.5404_ | unspecified | [1] Witusiewicz 2015 | Table 2, p. 3, row 50; `ORC-3WFQDUNYCB` |  |
-| Phase transition | 1682 K | 1682 | other | experimental | [1] Witusiewicz 2015 | p. 14; `ORC-YT2YLAU56M` | “Along this transformation pathway the temperature T = 1682 K is just the solidus temperature of the alloy Ti46Cr4Al50, which is higher than that for the L + a ¡ A2 + c reaction.” |
 | Phase transition | 1683 K | 1683 | A2 \\ A2 + α; _alloy: Al 0.4395, Cr 0.0499, Ti 0.5106_ | experimental | [1] Witusiewicz 2015 | Table 2, p. 3, row 102; `ORC-XZUZOHGQ2N` |  |
 | Phase transition | 1688 K | 1688 | α + A2 \\ α + B2; _alloy: Al 0.4397, Cr 0.0199, Ti 0.5404_ | experimental | [1] Witusiewicz 2015 | Table 2, p. 3, row 48; `ORC-QQQHFILMJJ` |  |
 | Phase transition | 1690 K | 1690 | other: L + α + γ \\ α + γ; _alloy: Al 0.4809, Cr 0.0502, Ti 0.4689_ | experimental | [1] Witusiewicz 2015 | Table 2, p. 3, row 69; `ORC-OP2Q34STZ3` |  |

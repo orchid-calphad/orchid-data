@@ -93,14 +93,14 @@ Table: Invariant reactions reported in the literature for the Au–Pb system (33
 | 494.5 | L + AuPb2 -> AuPb3 | L: Pb 0.822; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 19; `ORC-KPL52MS2LB` |  |
 | 494 | L + AuPb2 -> AuPb3 | L: Pb 0.814; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 18; `ORC-GHKZVM36TH` |  |
 | 490 | L + AuPb2 -> AuPb3 | L: Pb 0.77; AuPb2: Pb 0.666667; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 20; `ORC-UG2MP2JB34` |  |
-| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.85; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 25; `ORC-BI4OCV7RQC` |  |
-| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | model | [1] Wang 2004 | Table 4, p. 4, row 30; `ORC-RHL7QONQDP` |  |
-| 488 | L -> AuPb3 + fcc (Pb) | L: Pb 0.843; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 26; `ORC-SB7SIILCOX` |  |
-| 486 | L -> AuPb3 + fcc (Pb) | L: Pb 0.843; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 29; `ORC-ADNU7HO345` |  |
-| 485.5 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 24; `ORC-B64OC6EXQT` |  |
-| 485 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 27; `ORC-B2BKQU6LDN` |  |
-| 485 | L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 23; `ORC-KRHA2TAURC` |  |
-| 483 | L -> AuPb3 + fcc (Pb) | L: Pb 0.85; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 28; `ORC-KGAEEJR7MB` |  |
+| 488 | eutectic: L -> AuPb3 + fcc (Pb) | L: Pb 0.85; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Vogel 1905_ [doi](https://doi.org/10.1002/zaac.19050450103) | Table 4, p. 4, row 25; `ORC-BI4OCV7RQC` |  |
+| 488 | eutectic: L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | model | [1] Wang 2004 | Table 4, p. 4, row 30; `ORC-RHL7QONQDP` |  |
+| 488 | eutectic: L -> AuPb3 + fcc (Pb) | L: Pb 0.843; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Bhattacharyya 1971_ | Table 4, p. 4, row 26; `ORC-SB7SIILCOX` |  |
+| 486 | eutectic: L -> AuPb3 + fcc (Pb) | L: Pb 0.843; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1972_ | Table 4, p. 4, row 29; `ORC-ADNU7HO345` |  |
+| 485.5 | eutectic: L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 24; `ORC-B64OC6EXQT` |  |
+| 485 | eutectic: L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1982_ | Table 4, p. 4, row 27; `ORC-B2BKQU6LDN` |  |
+| 485 | eutectic: L -> AuPb3 + fcc (Pb) | L: Pb 0.848; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Evans 1983_ | Table 4, p. 4, row 23; `ORC-KRHA2TAURC` |  |
+| 483 | eutectic: L -> AuPb3 + fcc (Pb) | L: Pb 0.85; AuPb3: Pb 0.75 | experimental | [1] Wang 2004; _cites Legendre 1971_ | Table 4, p. 4, row 28; `ORC-KGAEEJR7MB` |  |
 | 380 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | model | [1] Wang 2004 | Table 4, p. 4, row 33; `ORC-HZAMLKYXAB` |  |
 | 372 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | model | [1] Wang 2004; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868553) | Table 4, p. 4, row 31; `ORC-UY6GLJZV3N` |  |
 | 325 | AuPb3 -> AuPb2 + fcc (Pb) | AuPb3: Pb 0.75; AuPb2: Pb 0.666667 | experimental | [1] Wang 2004; _cites Predecki 1965_ | Table 4, p. 4, row 32; `ORC-ZX7PIHAIUC` |  |

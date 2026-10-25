@@ -1,10 +1,10 @@
 # Cr–Pd system
 
-> Cr–Pd system: 10 accepted literature values (invariant reaction 9, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Pd system: 6 accepted literature values (invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-PD.html · Markdown: https://data.orchid-project.org/systems/CR-PD.md
 
-10 accepted literature values from 1 paper(s) (experimental 7, model 3); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+6 accepted literature values from 1 paper(s) (experimental 3, model 3); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-PD.json) · [CSV](https://data.orchid-project.org/systems/CR-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-PD/CrPd-00Gho-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-PD.html) · [Markdown](https://data.orchid-project.org/systems/CR-PD.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 3 |
 | model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
-| phase transition | 1 |
+| invariant reaction | 6 |
 
 ## Calculated phase diagrams
 
@@ -47,29 +46,16 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Pd system (9)
+Table: Invariant reactions reported in the literature for the Cr–Pd system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1593 | eutectic: L ↔ (Cr) + Cr3Pd2 |  | experimental | [1] Ghosh 2000 | p. 1; `ORC-BW22RVJCMP.5b38ad` | “Their thermal analysis data suggest two eutectics L ↔ (Cr) + Cr3Pd2 at 1593 K and 25 at.% Pd and L ↔ Cr3Pd2 + (Pd) at 1568 K and 44 at.% Pd.” |
 | 1586 | L \<-> (Cr) + (Pd) | L: Pd 0.44; (Cr): Pd 0.02; (Pd): Pd 0.495 | experimental | [1] Ghosh 2000; _cites Raub 1954_ | Table 1, p. 5, row 1; `ORC-2IXWLE2PAR` |  |
 | 1577 | L \<-> (Cr) + (Pd) | L: Pd 0.4034; (Cr): Pd 0.0132; (Pd): Pd 0.4956 | model | [1] Ghosh 2000 | Table 1, p. 5, row 2; `ORC-EMT4VYGIFV` |  |
-| 1568 | eutectic: L ↔ Cr3Pd2 + (Pd) |  | experimental | [1] Ghosh 2000 | p. 1; `ORC-BW22RVJCMP.27fb93` | “Their thermal analysis data suggest two eutectics L ↔ (Cr) + Cr3Pd2 at 1593 K and 25 at.% Pd and L ↔ Cr3Pd2 + (Pd) at 1568 K and 44 at.% Pd.” |
 | 843 | (Cr) + (Pd) \<-> CrPd | (Cr): Pd 0.004; (Pd): Pd 0.628; CrPd: Pd 0.5 | experimental | [1] Ghosh 2000; _cites Raub 1967_ | Table 1, p. 5, row 3; `ORC-7YESCKYGRM` |  |
 | 843 | (Cr) + (Pd) \<-> CrPd | (Cr): Pd 0.0044; (Pd): Pd 0.6321; CrPd: Pd 0.5 | model | [1] Ghosh 2000 | Table 1, p. 5, row 4; `ORC-ZODNDQORZE` |  |
 | 778 | CrPd + (Pd) \<-> Cr2Pd3 | CrPd: Pd 0.5; (Pd): Pd 0.6532; Cr2Pd3: Pd 0.6 | model | [1] Ghosh 2000 | Table 1, p. 5, row 6; `ORC-E7CQMAMM65` |  |
-| 778 | peritectoid |  | experimental | [1] Ghosh 2000 | p. 3; `ORC-OFPDI47FEH` | “Cr2Pd3 has a homogeneity range of 55 to 75 at.% Pd, and at the peritectoid temperature (778 K), its composition is 61 at.% Pd.” |
 | 778 | CrPd + (Pd) \<-> Cr2Pd3 | CrPd: Pd 0.52; (Pd): Pd 0.66; Cr2Pd3: Pd 0.61 | experimental | [1] Ghosh 2000; _cites Raub 1967_ | Table 1, p. 5, row 5; `ORC-PTA6LLQCYW` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Cr–Pd system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 673 K | 673 | magnetic | experimental | [1] Ghosh 2000; _cites A Kussmann 1968_ | p. 3; `ORC-XAKQDHKKAY` | “The Curie temperatures of both CrPd and Cr2Pd3 have been reported to be about 673 K.\[17\]” |
 
 ## Sources
 

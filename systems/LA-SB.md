@@ -1,10 +1,10 @@
 # La–Sb system
 
-> La–Sb system: 42 accepted literature values (invariant reaction 32, formation 8, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Sb system: 30 accepted literature values (invariant reaction 22, formation 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-SB.html · Markdown: https://data.orchid-project.org/systems/LA-SB.md
 
-42 accepted literature values from 2 paper(s) (experimental 17, model 23, DFT 2); 2 calculated phase diagram(s).
+30 accepted literature values from 2 paper(s) (experimental 15, model 13, DFT 2); 2 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SB.json) · [CSV](https://data.orchid-project.org/systems/LA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SB/LaSb-12Gao.json) · [phases (10)](https://data.orchid-project.org/phases/pages/LA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SB.html) · [Markdown](https://data.orchid-project.org/systems/LA-SB.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 23 |
+| experimental | 15 |
+| model | 13 |
 | DFT | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 32 |
-| phase transition | 2 |
+| invariant reaction | 22 |
 | formation | 8 |
 
 ## Calculated phase diagrams
@@ -68,41 +67,31 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–Sb system (32)
+Table: Invariant reactions reported in the literature for the La–Sb system (22)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1963 | congruent melting: L \<-> La3Sb2 | L: Sb 0.4; La3Sb2: La 0.6, Sb 0.4 | model | [1] Wang 2013 | Table 1, p. 2, row 8; `ORC-RSPXGZKTAG` |  |
 | 1963 | congruent melting: L \<-> La3Sb2 | L: Sb 0.4; La3Sb2: La 0.6, Sb 0.4 | experimental | [1] Wang 2013; _cites Vogel 1954_ | Table 1, p. 2, row 7; `ORC-VLYT743HNB` |  |
-| 1813.15 | peritectic |  | model | [2] Gao 2012; _cites Conclusion_ | p. 1; `ORC-2AVLCVXQN3.0012cf` | “There are four intermetallic compounds (La2 Sb, La3 Sb2 , LaSb, and LaSb2 ) in this binary system: the La2 Sb, LaSb, and LaSb2 phases are formed from the peritectic reactions at about 1460, 1540, and 1110 °C, respectively, whereas the La3 Sb2 phase melts congruently at about 1690 °C.” |
 | 1813.15 | L + La3Sb2 ↔ LaSb | L: Sb 0.52; La3Sb2: Sb 0.4; LaSb: Sb 0.5 | model | [2] Gao 2012 | Table 1, p. 2, row 5; `ORC-O2BZ3BMYSB` |  |
 | 1813.15 | L + La3Sb2 ↔ LaSb | L: Sb 0.53; La3Sb2: Sb 0.4; LaSb: Sb 0.5 | experimental | [2] Gao 2012; _cites Massalski 1990_ | Table 1, p. 2, row 6; `ORC-TDMIZFBNXK` |  |
 | 1813 | peritectic: L + La3Sb2 \<-> LaSb | L: Sb 0.522; La3Sb2: La 0.6, Sb 0.4; LaSb: La 0.5, Sb 0.5 | model | [1] Wang 2013 | Table 1, p. 2, row 6; `ORC-CATYBEFG6R` |  |
 | 1813 | peritectic: L + La3Sb2 \<-> LaSb | L: Sb 0.53; La3Sb2: La 0.6, Sb 0.4; LaSb: La 0.5, Sb 0.5 | experimental | [1] Wang 2013; _cites Vogel 1954_ | Table 1, p. 2, row 5; `ORC-NAGF2ITJGN` |  |
-| 1813 | peritectic |  | model | [1] Wang 2013 | p. 4; `ORC-O5BI65NFIB.c5ab2a` | “The calculated peritectic temperatures of the intermetallic compounds, La2 Sb, LaSb, and LaSb2 , are 1733, 1813 and 1383 K, respectively, the congruent melting temperature of La3 Sb2 is 1963 K, and the eutectic reactions, L ↔ Fcc A1 (La) + La2 Sb and L ↔ Rhomb (Sb) + LaSb2 , are 1117 and 902.5 K.” |
-| 1733.15 | peritectic |  | model | [2] Gao 2012; _cites Conclusion_ | p. 1; `ORC-2AVLCVXQN3.70fa35` | “There are four intermetallic compounds (La2 Sb, La3 Sb2 , LaSb, and LaSb2 ) in this binary system: the La2 Sb, LaSb, and LaSb2 phases are formed from the peritectic reactions at about 1460, 1540, and 1110 °C, respectively, whereas the La3 Sb2 phase melts congruently at about 1690 °C.” |
 | 1733.15 | L + La3Sb2 ↔ La2Sb | L: Sb 0.254; La3Sb2: Sb 0.4; La2Sb: Sb 0.333 | model | [2] Gao 2012 | Table 1, p. 2, row 3; `ORC-BJTWZYQUGF` |  |
 | 1733.15 | L + La3Sb2 ↔ La2Sb | L: Sb 0.324; La3Sb2: Sb 0.4; La2Sb: Sb 0.333 | experimental | [2] Gao 2012; _cites Massalski 1990_ | Table 1, p. 2, row 4; `ORC-RN2VYUQ3DB` |  |
-| 1733 | peritectic |  | model | [1] Wang 2013 | p. 4; `ORC-O5BI65NFIB.169aca` | “The calculated peritectic temperatures of the intermetallic compounds, La2 Sb, LaSb, and LaSb2 , are 1733, 1813 and 1383 K, respectively, the congruent melting temperature of La3 Sb2 is 1963 K, and the eutectic reactions, L ↔ Fcc A1 (La) + La2 Sb and L ↔ Rhomb (Sb) + LaSb2 , are 1117 and 902.5 K.” |
 | 1733 | peritectic: L + La3Sb2 \<-> La2Sb | L: Sb 0.324; La3Sb2: La 0.6, Sb 0.4; La2Sb: La 0.666667, Sb 0.333333 | experimental | [1] Wang 2013; _cites Vogel 1954_ | Table 1, p. 2, row 3; `ORC-PIUFA5QDAJ` |  |
 | 1733 | peritectic: L + La3Sb2 \<-> La2Sb | L: Sb 0.31; La3Sb2: La 0.6, Sb 0.4; La2Sb: La 0.666667, Sb 0.333333 | model | [1] Wang 2013 | Table 1, p. 2, row 4; `ORC-SE3556K2QA` |  |
-| 1383.15 | peritectic |  | model | [2] Gao 2012; _cites Conclusion_ | p. 1; `ORC-2AVLCVXQN3.4f1279` | “There are four intermetallic compounds (La2 Sb, La3 Sb2 , LaSb, and LaSb2 ) in this binary system: the La2 Sb, LaSb, and LaSb2 phases are formed from the peritectic reactions at about 1460, 1540, and 1110 °C, respectively, whereas the La3 Sb2 phase melts congruently at about 1690 °C.” |
 | 1383.15 | L + LaSb ↔ LaSb2 | L: Sb 0.738; LaSb: Sb 0.5; LaSb2: Sb 0.667 | model | [2] Gao 2012 | Table 1, p. 2, row 7; `ORC-CRFSL5YSOJ` |  |
 | 1383.15 | L + LaSb ↔ LaSb2 | L: Sb 0.745; LaSb: Sb 0.5; LaSb2: Sb 0.667 | experimental | [2] Gao 2012; _cites Massalski 1990_ | Table 1, p. 2, row 8; `ORC-Y7TH34EZDN` |  |
 | 1383 | peritectic: L + LaSb \<-> LaSb2 | L: Sb 0.745; LaSb: La 0.5, Sb 0.5; LaSb2: La 0.333333, Sb 0.666667 | experimental | [1] Wang 2013; _cites Vogel 1954_ | Table 1, p. 2, row 9; `ORC-A7K7MSHMEV` |  |
-| 1383 | peritectic |  | model | [1] Wang 2013 | p. 4; `ORC-O5BI65NFIB.138b99` | “The calculated peritectic temperatures of the intermetallic compounds, La2 Sb, LaSb, and LaSb2 , are 1733, 1813 and 1383 K, respectively, the congruent melting temperature of La3 Sb2 is 1963 K, and the eutectic reactions, L ↔ Fcc A1 (La) + La2 Sb and L ↔ Rhomb (Sb) + LaSb2 , are 1117 and 902.5 K.” |
 | 1383 | peritectic: L + LaSb \<-> LaSb2 | L: Sb 0.72; LaSb: La 0.5, Sb 0.5; LaSb2: La 0.333333, Sb 0.666667 | model | [1] Wang 2013 | Table 1, p. 2, row 10; `ORC-TCEWK7CRD4` |  |
-| 1118.15 | eutectic: L ↔ (β -La) + La2 Sb |  | experimental | [2] Gao 2012 | p. 1; `ORC-2BOHUABHAK.97fb15` | “There are two eutectic reactions, L ↔ (β -La) + La2 Sb and L ↔ (Sb) + LaSb2 , occurring at 845 and 630 °C.” |
 | 1118.15 | L ↔ (β-La) + La2Sb | L: Sb 0.03; (β-La): Sb 0; La2Sb: Sb 0.333 | model | [2] Gao 2012 | Table 1, p. 2, row 1; `ORC-VJJ44OVKE5` |  |
 | 1118.15 | L ↔ (β-La) + La2Sb | L: Sb 0.034; (β-La): Sb 0; La2Sb: Sb 0.333 | experimental | [2] Gao 2012; _cites Massalski 1990_ | Table 1, p. 2, row 2; `ORC-YAWW34HOGE` |  |
 | 1118 | eutectic: L \<-> Fcc.A1 (La) + La2Sb | L: Sb 0.034; La2Sb: La 0.666667, Sb 0.333333 | experimental | [1] Wang 2013; _cites Vogel 1954_ | Table 1, p. 2, row 1; `ORC-XZBEWZUYUF` |  |
-| 1117 | eutectic: L ↔ Fcc A1 (La) + La2 Sb |  | model | [1] Wang 2013 | p. 4; `ORC-O5BI65NFIB.e1ec24` | “The calculated peritectic temperatures of the intermetallic compounds, La2 Sb, LaSb, and LaSb2 , are 1733, 1813 and 1383 K, respectively, the congruent melting temperature of La3 Sb2 is 1963 K, and the eutectic reactions, L ↔ Fcc A1 (La) + La2 Sb and L ↔ Rhomb (Sb) + LaSb2 , are 1117 and 902.5 K.” |
 | 1117 | eutectic: L \<-> Fcc.A1 (La) + La2Sb | L: Sb 0.04; La2Sb: La 0.666667, Sb 0.333333 | model | [1] Wang 2013 | Table 1, p. 2, row 2; `ORC-SN2CJMNCCM` |  |
-| 903.15 | eutectic: L ↔ (Sb) + LaSb2 |  | experimental | [2] Gao 2012 | p. 1; `ORC-2BOHUABHAK.6512e9` | “There are two eutectic reactions, L ↔ (β -La) + La2 Sb and L ↔ (Sb) + LaSb2 , occurring at 845 and 630 °C.” |
 | 903.15 | L ↔ LaSb2 + (Sb) | L: Sb 0.996; LaSb2: Sb 0.667; (Sb): Sb 1 | model | [2] Gao 2012 | Table 1, p. 2, row 9; `ORC-A6DOYW2JDN` |  |
 | 903.15 | L ↔ LaSb2 + (Sb) | L: Sb 0.995; LaSb2: Sb 0.667; (Sb): Sb 1 | experimental | [2] Gao 2012; _cites Massalski 1990_ | Table 1, p. 2, row 10; `ORC-DYHTLVXBTB` |  |
 | 903 | eutectic: L \<-> Rhomb(Sb) + LaSb2 | L: Sb 0.995; LaSb2: La 0.333333, Sb 0.666667 | experimental | [1] Wang 2013; _cites Vogel 1954_ | Table 1, p. 2, row 11; `ORC-MAE3FUQEMZ` |  |
-| 902.5 | eutectic: L ↔ Rhomb (Sb) + LaSb2 |  | model | [1] Wang 2013 | p. 4; `ORC-O5BI65NFIB.d3c3e2` | “The calculated peritectic temperatures of the intermetallic compounds, La2 Sb, LaSb, and LaSb2 , are 1733, 1813 and 1383 K, respectively, the congruent melting temperature of La3 Sb2 is 1963 K, and the eutectic reactions, L ↔ Fcc A1 (La) + La2 Sb and L ↔ Rhomb (Sb) + LaSb2 , are 1117 and 902.5 K.” |
 | 902.5 | eutectic: L \<-> Rhomb(Sb) + LaSb2 | L: Sb 0.996; LaSb2: La 0.333333, Sb 0.666667 | model | [1] Wang 2013 | Table 1, p. 2, row 12; `ORC-SBEKKUUJGR` |  |
 
 ## Formation enthalpies
@@ -121,17 +110,6 @@ Table: Enthalpies of formation, La–Sb system (8)
 | LaSb |  | -130.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2013; _cites Borzone 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990115-2) | Table 3, p. 3, row 6; `ORC-7FVLPYANNX` |  |
 | LaSb |  | -123.511 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 5; `ORC-IUMZZ3SCVC` |  |
 | LaSb |  | -118 kJ/mol (basis unstated) | 0 | model |  |  | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 8; `ORC-2HLECEFDRB` |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, La–Sb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1963 K | 1963 | congruent transformation | model | [1] Wang 2013 | p. 4; `ORC-O5BI65NFIB.20bba5` | “The calculated peritectic temperatures of the intermetallic compounds, La2 Sb, LaSb, and LaSb2 , are 1733, 1813 and 1383 K, respectively, the congruent melting temperature of La3 Sb2 is 1963 K, and the eutectic reactions, L ↔ Fcc A1 (La) + La2 Sb and L ↔ Rhomb (Sb) + LaSb2 , are 1117 and 902.5 K.” |
-| Phase transition | 1963.15 K | 1963.15 | congruent transformation | model | [2] Gao 2012; _cites Conclusion_ | p. 1; `ORC-2AVLCVXQN3.4c47c8` | “There are four intermetallic compounds (La2 Sb, La3 Sb2 , LaSb, and LaSb2 ) in this binary system: the La2 Sb, LaSb, and LaSb2 phases are formed from the peritectic reactions at about 1460, 1540, and 1110 °C, respectively, whereas the La3 Sb2 phase melts congruently at about 1690 °C.” |
 
 ## Sources
 

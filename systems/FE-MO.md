@@ -1,10 +1,10 @@
 # Fe–Mo system
 
-> Fe–Mo system: 119 accepted literature values (invariant reaction 36, crystal structure 35, heat capacity / entropy / enthalpy 28, formation 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Mo system: 113 accepted literature values (invariant reaction 36, crystal structure 35, heat capacity / entropy / enthalpy 28, formation 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-MO.html · Markdown: https://data.orchid-project.org/systems/FE-MO.md
 
-119 accepted literature values from 3 paper(s) (experimental 48, model 21, DFT 20, unspecified 30); 4 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+113 accepted literature values from 3 paper(s) (experimental 43, model 20, DFT 20, unspecified 30); 4 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MO.json) · [CSV](https://data.orchid-project.org/systems/FE-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-MO/FeMo-14Raj.json) · [phases (11)](https://data.orchid-project.org/phases/pages/FE-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-MO.html) · [Markdown](https://data.orchid-project.org/systems/FE-MO.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 48 |
-| model | 21 |
+| experimental | 43 |
+| model | 20 |
 | DFT | 20 |
 | unspecified | 30 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 36 |
-| phase transition | 8 |
+| phase transition | 2 |
 | formation | 12 |
 | heat capacity / entropy / enthalpy | 28 |
 | crystal structure | 35 |
@@ -150,20 +150,14 @@ Table: Enthalpies of formation, Fe–Mo system (12)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (2)
 
 Table: Phase transition, Fe–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 585 K | 585 | k -> (aFe) + l | model | [2] Rajkumar 2014; _cites Guillermet 1982_ [doi](https://doi.org/10.1007/bf02869315) | p. 1; `ORC-XLZF5KRGWL` | “It should be noted that computed phase diagram using their Gibbs energy functions shows an invariant reaction k ðaFeÞ þ l at 585 K, for which no experimental evidence exists.” |
 | Phase transition | 1718 K | 1718 | other: liquid \<-> bccFe; _liquid: Mo 0.202; bccFe: Mo 0.202_ | experimental | [1] Zinkevich 2002; _cites Gibson 1961_ | Table 3, p. 4, row 16; `ORC-IVMASPJDJP` |  |
-| Phase transition | 1721 K | 1721 | other | experimental | [3] Guillermet 1982 | p. 5; `ORC-QF7WVVEEDA` | “The temperature minimum on the bee liquidus falls at about 1721 K according to the data obtained in Gibson's DTA study (23).” |
 | Phase transition | 1726 K | 1726 | other: liquid \<-> bccFe; _liquid: Mo 0.2396; bccFe: Mo 0.2396_ | model | [1] Zinkevich 2002; _cites Andersson 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990025-9) | Table 3, p. 4, row 17; `ORC-YW6G4OKVRG` |  |
-| Phase transition | 2823 K | 2823 |  | experimental | [2] Rajkumar 2014 | p. 4; `ORC-T7FQPZGVVV.1e95fc` | “As shown in the Fig. 2(a), three such cycles of melting were performed on the same sample and the spike temperatures were 2826 K, 2823 K and 2864 K, respectively.” |
-| Phase transition | 2826 K | 2826 |  | experimental | [2] Rajkumar 2014 | p. 4; `ORC-T7FQPZGVVV.8db2bb` | “As shown in the Fig. 2(a), three such cycles of melting were performed on the same sample and the spike temperatures were 2826 K, 2823 K and 2864 K, respectively.” |
-| Phase transition | 2864 K | 2864 |  | experimental | [2] Rajkumar 2014 | p. 4; `ORC-T7FQPZGVVV.4614e4` | “As shown in the Fig. 2(a), three such cycles of melting were performed on the same sample and the spike temperatures were 2826 K, 2823 K and 2864 K, respectively.” |
-| Phase transition | 2896 K | 2896 |  | experimental | [2] Rajkumar 2014 | p. 4; `ORC-QD2KAG5KEX` | “This is 32 K lower than the accepted melting point of Mo (2896 K).” |
 
 ### Heat capacity / entropy / enthalpy (28)
 

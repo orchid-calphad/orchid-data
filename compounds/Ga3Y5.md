@@ -28,8 +28,8 @@ Table: Uncertainty budget of the literature values of Ga3Y5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -59.6 | kJ/mol-atom | 3.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.6 |
-| -57 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -59.6 | kJ/mol-atom | 3.6 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.6 |
+| -57 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -64 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -63.99 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -61 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

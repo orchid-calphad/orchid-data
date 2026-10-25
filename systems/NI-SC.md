@@ -1,10 +1,10 @@
 # Ni–Sc system
 
-> Ni–Sc system: 222 accepted literature values (invariant reaction 96, formation 45, phase transition 45, crystal structure 22) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sc system: 201 accepted literature values (invariant reaction 91, formation 45, phase transition 29, crystal structure 22) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SC.html · Markdown: https://data.orchid-project.org/systems/NI-SC.md
 
-222 accepted literature values from 4 paper(s) (experimental 104, model 107, unspecified 11); 3 calculated phase diagram(s).
+201 accepted literature values from 4 paper(s) (experimental 94, model 96, unspecified 11); 3 calculated phase diagram(s). 21 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SC.json) · [CSV](https://data.orchid-project.org/systems/NI-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SC/NiSc-13Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SC.html) · [Markdown](https://data.orchid-project.org/systems/NI-SC.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 104 |
-| model | 107 |
+| experimental | 94 |
+| model | 96 |
 | unspecified | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 96 |
-| phase transition | 45 |
+| invariant reaction | 91 |
+| phase transition | 29 |
 | phase equilibrium | 11 |
 | formation | 45 |
 | heat capacity / entropy / enthalpy | 3 |
@@ -88,25 +88,24 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–Sc system (96)
+Table: Invariant reactions reported in the literature for the Ni–Sc system (91)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1555.15 | Liq -> Ni7Sc2+Ni2Sc | L: Sc 0.247; Ni7Sc2: Sc 0.222222; Ni2Sc: Sc 0.333333 | model | [1] Kardellass 2013 | Table 3, p. 5, row 15; `ORC-EC4C6QYLSG` |  |
+| 1555.15 | eutectic: Liq -> Ni7Sc2+Ni2Sc | L: Sc 0.247; Ni7Sc2: Sc 0.222222; Ni2Sc: Sc 0.333333 | model | [1] Kardellass 2013 | Table 3, p. 5, row 15; `ORC-EC4C6QYLSG` |  |
 | 1548 | eutectic: Liq -> Sc2Ni7 + (ScNi2) | Liq: Sc 0.254; Sc2Ni7: Sc 0.222222; (ScNi2): Sc 0.333333 | model | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 1, p. 2, row 16; `ORC-AWQZFUNXYU` |  |
-| 1543.15 | Liq -> Ni7Sc2+Ni2Sc | L: Sc 0.252; Ni7Sc2: Sc 0.222222; Ni2Sc: Sc 0.333333 | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 13; `ORC-ZR7IMXVY7F` |  |
+| 1543.15 | eutectic: Liq -> Ni7Sc2+Ni2Sc | L: Sc 0.252; Ni7Sc2: Sc 0.222222; Ni2Sc: Sc 0.333333 | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 13; `ORC-ZR7IMXVY7F` |  |
 | 1543 | eutectic: Liquid ↔ ScNi2 + Sc2 Ni7 |  | experimental | [3] Cao 2014 | p. 2; `ORC-4VCVB4TDJ5.4d6feb` | “Three eutectic reactions, Liquid ↔ ScNi5 + (Ni) at 1403 K, Liquid ↔ ScNi2 + Sc2 Ni7 at 1543 K and Liquid ↔ ScNi2 + ScNi at 1393 K, were reported.” |
 | 1543 | eutectic: Liq -> Sc2Ni7 + (ScNi2) | Liq: Sc 0.25; Sc2Ni7: Sc 0.222222; (ScNi2): Sc 0.333333 | experimental | [2] Zhu 2015; _cites Maslenkov 1984_ | Table 1, p. 2, row 13; `ORC-OTLE6HAXOD` |  |
-| 1543 | Liquid -> Sc2Ni7 + ScNi2 | Sc2Ni7: Sc 0.2222; ScNi2: Sc 0.28 | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 5, p. 8, row 12; `ORC-RIYL55ZCDZ` |  |
-| 1540.15 | Liq -> Ni7Sc2+Ni2Sc | L: Sc 0.235; Ni7Sc2: Sc 0.222222; Ni2Sc: Sc 0.333333 | model | [1] Kardellass 2013 | Table 3, p. 5, row 14; `ORC-OGPTJ6YZUP` |  |
-| 1539 | Liquid -> Sc2Ni7 + ScNi2 | Sc2Ni7: Sc 0.2222; ScNi2: Sc 0.279 | model | [3] Cao 2014 | Table 5, p. 8, row 14; `ORC-YSJACHEX5J` |  |
+| 1543 | eutectic: Liquid -> Sc2Ni7 + ScNi2 | Sc2Ni7: Sc 0.2222; ScNi2: Sc 0.28 | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 5, p. 8, row 12; `ORC-RIYL55ZCDZ` |  |
+| 1540.15 | eutectic: Liq -> Ni7Sc2+Ni2Sc | L: Sc 0.235; Ni7Sc2: Sc 0.222222; Ni2Sc: Sc 0.333333 | model | [1] Kardellass 2013 | Table 3, p. 5, row 14; `ORC-OGPTJ6YZUP` |  |
+| 1539 | eutectic: Liquid -> Sc2Ni7 + ScNi2 | Sc2Ni7: Sc 0.2222; ScNi2: Sc 0.279 | model | [3] Cao 2014 | Table 5, p. 8, row 14; `ORC-YSJACHEX5J` |  |
 | 1534 | eutectic: Liq -> Sc2Ni7 + (ScNi2) | Liq: Sc 0.244; Sc2Ni7: Sc 0.222222; (ScNi2): Sc 0.333333 | model | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 1, p. 2, row 17; `ORC-L3CH2AHTZK` |  |
-| 1533 | Liquid -> Sc2Ni7 + ScNi2 | Liquid: Sc 0.25; Sc2Ni7: Sc 0.2222; ScNi2: Sc 0.31 | experimental | [3] Cao 2014; _cites Maslenkov 2014_ | Table 5, p. 8, row 11; `ORC-DCMV46KG62` |  |
-| 1532.2 | Liquid -> Sc2Ni7 + ScNi2 | Liquid: Sc 0.2575; Sc2Ni7: Sc 0.222; ScNi2: Sc 0.293 | experimental | [3] Cao 2014 | Table 5, p. 8, row 13; `ORC-EDYZNQHBDK` |  |
+| 1533 | eutectic: Liquid -> Sc2Ni7 + ScNi2 | Liquid: Sc 0.25; Sc2Ni7: Sc 0.2222; ScNi2: Sc 0.31 | experimental | [3] Cao 2014; _cites Maslenkov 2014_ | Table 5, p. 8, row 11; `ORC-DCMV46KG62` |  |
+| 1532.2 | eutectic: Liquid -> Sc2Ni7 + ScNi2 | Liquid: Sc 0.2575; Sc2Ni7: Sc 0.222; ScNi2: Sc 0.293 | experimental | [3] Cao 2014 | Table 5, p. 8, row 13; `ORC-EDYZNQHBDK` |  |
 | 1528 | eutectic: Liq -> Sc2Ni7 + (ScNi2) | Sc2Ni7: Sc 0.222222; (ScNi2): Sc 0.333333 | unspecified | [2] Zhu 2015; _cites Okamoto 2000_ | Table 1, p. 2, row 15; `ORC-256LTEXH5F` |  |
 | 1528 | eutectic: Liq -> Sc2Ni7 + (ScNi2) | Sc2Ni7: Sc 0.222222; (ScNi2): Sc 0.333333 | experimental | [2] Zhu 2015; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 1, p. 2, row 14; `ORC-PPB4WYVTGS` |  |
 | 1512 | eutectic: Liq -> Sc2Ni7 + (ScNi2) | Liq: Sc 0.257; Sc2Ni7: Sc 0.222222; (ScNi2): Sc 0.333333 | model | [2] Zhu 2015 | Table 1, p. 2, row 18; `ORC-MANFUNGHO5` |  |
-| 1512 | eutectic |  | model | [2] Zhu 2015 | p. 7; `ORC-SUGHB6IHES.2b3c0b` | “The eutectic reaction temperatures for L2Fcc_A1(Ni)þ ScNi5, L2Sc2Ni7 þ (ScNi2), L2(ScNi2)þScNi and L2Sc2NiþHcp_A3(Sc) are 1401, 1512, 1373 and 1113 K, respectively.” |
 | 1471.15 | Liq+Ni7Sc2 -> Ni5Sc | L: Sc 0.159; Ni7Sc2: Sc 0.222222; Ni5Sc: Sc 0.166667 | model | [1] Kardellass 2013 | Table 3, p. 5, row 8; `ORC-CLEHTJZ5VJ` |  |
 | 1471 | peritectic: Liq + Sc2Ni7 -> ScNi5 | Liq: Sc 0.16; Sc2Ni7: Sc 0.222222; ScNi5: Sc 0.166667 | model | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 1, p. 2, row 11; `ORC-Y455MREFYV` |  |
 | 1453 | peritectic |  | experimental | [3] Cao 2014; _cites Maslenkov 2014_ | p. 2; `ORC-4HK45UZF6W.211ee7` | “ScNi5 melted peritecticly at 1453 K, while Sc2 Ni7 and ScNi2 melted congruently at 1568 K and 1583 K, respectively.” |
@@ -122,35 +121,34 @@ Table: Invariant reactions reported in the literature for the Ni–Sc system (96
 | 1443 | peritectic: Liq + Sc2Ni7 -> ScNi5 | Liq: Sc 0.15; Sc2Ni7: Sc 0.222222; ScNi5: Sc 0.166667 | model | [2] Zhu 2015 | Table 1, p. 2, row 12; `ORC-QXJMDPHBAN` |  |
 | 1441 | peritectic |  | experimental | [3] Cao 2014; _cites Ya 1978_ | p. 2; `ORC-A6GHMQ2TM3.1b1c6b` | “According to the work of Markiv et al. \[5\], Sc2 Ni7 , ScNi2 , ScNi and Sc2 Ni formed congruently approximately at 1556 K, 1573 K, 1533 K and 1271 K, respectively, while ScNi5 formed peritecticly at 1441 K.” |
 | 1438 | Liquid + Sc2Ni7 -> ScNi5 | Liquid: Sc 0.141; Sc2Ni7: Sc 0.222; ScNi5: Sc 0.168 | experimental | [3] Cao 2014 | Table 5, p. 8, row 7; `ORC-3NILFJ4GLO` |  |
-| 1429.15 | Liq -> Ni2Sc+NiSc | L: Sc 0.427; Ni2Sc: Sc 0.333333; NiSc: Sc 0.5 | model | [1] Kardellass 2013 | Table 3, p. 5, row 21; `ORC-34DXHCMZQ6` |  |
+| 1429.15 | eutectic: Liq -> Ni2Sc+NiSc | L: Sc 0.427; Ni2Sc: Sc 0.333333; NiSc: Sc 0.5 | model | [1] Kardellass 2013 | Table 3, p. 5, row 21; `ORC-34DXHCMZQ6` |  |
 | 1427 | eutectic: Liq -> (ScNi2) + ScNi | Liq: Sc 0.426; (ScNi2): Sc 0.333333; ScNi: Sc 0.5 | model | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 1, p. 2, row 22; `ORC-AUD2H5XQKT` |  |
-| 1424.15 | Liq -> Ni2Sc+NiSc | L: Sc 0.421; Ni2Sc: Sc 0.333333; NiSc: Sc 0.5 | model | [1] Kardellass 2013 | Table 3, p. 5, row 20; `ORC-HVVKQUCB3P` |  |
+| 1424.15 | eutectic: Liq -> Ni2Sc+NiSc | L: Sc 0.421; Ni2Sc: Sc 0.333333; NiSc: Sc 0.5 | model | [1] Kardellass 2013 | Table 3, p. 5, row 20; `ORC-HVVKQUCB3P` |  |
 | 1422 | eutectic: Liq -> (ScNi2) + ScNi | Liq: Sc 0.42; (ScNi2): Sc 0.333333; ScNi: Sc 0.5 | model | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 1, p. 2, row 23; `ORC-Y7XVN3ODUM` |  |
-| 1411.15 | Liq -> FCC_A1+Ni5Sc | L: Sc 0.113; Ni5Sc: Sc 0.166667 | model | [1] Kardellass 2013 | Table 3, p. 5, row 5; `ORC-CXGDFU5NQY` |  |
+| 1411.15 | eutectic: Liq -> FCC_A1+Ni5Sc | L: Sc 0.113; Ni5Sc: Sc 0.166667 | model | [1] Kardellass 2013 | Table 3, p. 5, row 5; `ORC-CXGDFU5NQY` |  |
 | 1411 | eutectic: Liq -> Fcc_A1 + ScNi5 | Liq: Sc 0.113; ScNi5: Sc 0.166667 | model | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 1, p. 2, row 5; `ORC-BHWYGY6WME` |  |
-| 1403.15 | Liq -> FCC_A1+Ni5Sc | L: Sc 0.124; Ni5Sc: Sc 0.166667 | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 4; `ORC-WAACGO7CQT` |  |
+| 1403.15 | eutectic: Liq -> FCC_A1+Ni5Sc | L: Sc 0.124; Ni5Sc: Sc 0.166667 | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 4; `ORC-WAACGO7CQT` |  |
 | 1403 | eutectic: Liquid ↔ ScNi5 + (Ni) |  | experimental | [3] Cao 2014 | p. 2; `ORC-4VCVB4TDJ5.3a5e0d` | “Three eutectic reactions, Liquid ↔ ScNi5 + (Ni) at 1403 K, Liquid ↔ ScNi2 + Sc2 Ni7 at 1543 K and Liquid ↔ ScNi2 + ScNi at 1393 K, were reported.” |
-| 1403 | Liquid -> (Ni) + ScNi5 | Liquid: Sc 0.125; (Ni): Sc 0.007; ScNi5: Sc 0.1667 | experimental | [3] Cao 2014; _cites Maslenkov 2014_ | Table 5, p. 8, row 1; `ORC-FHNXWWRQGF` |  |
+| 1403 | eutectic: Liquid -> (Ni) + ScNi5 | Liquid: Sc 0.125; (Ni): Sc 0.007; ScNi5: Sc 0.1667 | experimental | [3] Cao 2014; _cites Maslenkov 2014_ | Table 5, p. 8, row 1; `ORC-FHNXWWRQGF` |  |
 | 1403 | eutectic: Liq -> Fcc_A1 + ScNi5 | Liq: Sc 0.125; ScNi5: Sc 0.166667 | experimental | [2] Zhu 2015; _cites Maslenkov 1984_ | Table 1, p. 2, row 1; `ORC-NZZCXBHUFR` |  |
 | 1403 | eutectic: Liq -> Fcc_A1 + ScNi5 | ScNi5: Sc 0.166667 | experimental | [2] Zhu 2015; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 1, p. 2, row 2; `ORC-S77YDL3356` |  |
-| 1403 | Liquid -> (Ni) + ScNi5 | ScNi5: Sc 0.1667 | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 5, p. 8, row 2; `ORC-T5Z2FNVWTQ` |  |
+| 1403 | eutectic: Liquid -> (Ni) + ScNi5 | ScNi5: Sc 0.1667 | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 5, p. 8, row 2; `ORC-T5Z2FNVWTQ` |  |
 | 1403 | eutectic: Liq -> Fcc_A1 + ScNi5 | ScNi5: Sc 0.166667 | unspecified | [2] Zhu 2015; _cites Okamoto 2000_ | Table 1, p. 2, row 3; `ORC-WYSWYDFV4Y` |  |
-| 1402.6 | Liquid -> (Ni) + ScNi5 | Liquid: Sc 0.1056; (Ni): Sc 0.008; ScNi5: Sc 0.168 | experimental | [3] Cao 2014 | Table 5, p. 8, row 3; `ORC-2DKTBMVIJO` |  |
-| 1401.15 | Liq -> FCC_A1+Ni5Sc | L: Sc 0.144; Ni5Sc: Sc 0.166667 | model | [1] Kardellass 2013 | Table 3, p. 5, row 6; `ORC-NGZBY24WT6` |  |
+| 1402.6 | eutectic: Liquid -> (Ni) + ScNi5 | Liquid: Sc 0.1056; (Ni): Sc 0.008; ScNi5: Sc 0.168 | experimental | [3] Cao 2014 | Table 5, p. 8, row 3; `ORC-2DKTBMVIJO` |  |
+| 1401.15 | eutectic: Liq -> FCC_A1+Ni5Sc | L: Sc 0.144; Ni5Sc: Sc 0.166667 | model | [1] Kardellass 2013 | Table 3, p. 5, row 6; `ORC-NGZBY24WT6` |  |
 | 1401 | eutectic: Liq -> Fcc_A1 + ScNi5 | Liq: Sc 0.114; ScNi5: Sc 0.166667 | model | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 1, p. 2, row 4; `ORC-3ZEH5DKQDL` |  |
 | 1401 | eutectic: Liq -> Fcc_A1 + ScNi5 | Liq: Sc 0.115; ScNi5: Sc 0.166667 | model | [2] Zhu 2015 | Table 1, p. 2, row 6; `ORC-DVR2MEMANS` |  |
-| 1399.3 | Liquid -> ScNi2 + ScNi | ScNi2: Sc 0.3383; ScNi: Sc 0.4999 | model | [3] Cao 2014 | Table 5, p. 8, row 20; `ORC-6YA6ZK47XA` |  |
-| 1396.6 | Liquid -> (Ni) + ScNi5 | (Ni): Sc 0.0071; ScNi5: Sc 0.1667 | model | [3] Cao 2014 | Table 5, p. 8, row 4; `ORC-3NY4KGTEAH` |  |
-| 1394.1 | Liquid -> ScNi2 + ScNi | Liquid: Sc 0.4209; ScNi2: Sc 0.353; ScNi: Sc 0.5 | experimental | [3] Cao 2014 | Table 5, p. 8, row 19; `ORC-UJXJXL572Y` |  |
+| 1399.3 | eutectic: Liquid -> ScNi2 + ScNi | ScNi2: Sc 0.3383; ScNi: Sc 0.4999 | model | [3] Cao 2014 | Table 5, p. 8, row 20; `ORC-6YA6ZK47XA` |  |
+| 1396.6 | eutectic: Liquid -> (Ni) + ScNi5 | (Ni): Sc 0.0071; ScNi5: Sc 0.1667 | model | [3] Cao 2014 | Table 5, p. 8, row 4; `ORC-3NY4KGTEAH` |  |
+| 1394.1 | eutectic: Liquid -> ScNi2 + ScNi | Liquid: Sc 0.4209; ScNi2: Sc 0.353; ScNi: Sc 0.5 | experimental | [3] Cao 2014 | Table 5, p. 8, row 19; `ORC-UJXJXL572Y` |  |
 | 1393 | eutectic: Liquid ↔ ScNi2 + ScNi |  | experimental | [3] Cao 2014 | p. 2; `ORC-4VCVB4TDJ5.1b4245` | “Three eutectic reactions, Liquid ↔ ScNi5 + (Ni) at 1403 K, Liquid ↔ ScNi2 + Sc2 Ni7 at 1543 K and Liquid ↔ ScNi2 + ScNi at 1393 K, were reported.” |
-| 1393 | Liquid -> ScNi2 + ScNi | Liquid: Sc 0.4; ScNi2: Sc 0.35; ScNi: Sc 0.5 | experimental | [3] Cao 2014; _cites Maslenkov 2014_ | Table 5, p. 8, row 17; `ORC-E6FZSRVU53` |  |
+| 1393 | eutectic: Liquid -> ScNi2 + ScNi | Liquid: Sc 0.4; ScNi2: Sc 0.35; ScNi: Sc 0.5 | experimental | [3] Cao 2014; _cites Maslenkov 2014_ | Table 5, p. 8, row 17; `ORC-E6FZSRVU53` |  |
 | 1393 | eutectic: Liq -> (ScNi2) + ScNi | (ScNi2): Sc 0.333333; ScNi: Sc 0.5 | experimental | [2] Zhu 2015; _cites Maslenkov 1984_ | Table 1, p. 2, row 19; `ORC-EBMTXBLLJG` |  |
-| 1373.15 | Liq -> Ni2Sc+NiSc | L: Sc 0.402; Ni2Sc: Sc 0.333333; NiSc: Sc 0.5 | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 19; `ORC-N6DQV2UFWA` |  |
+| 1373.15 | eutectic: Liq -> Ni2Sc+NiSc | L: Sc 0.402; Ni2Sc: Sc 0.333333; NiSc: Sc 0.5 | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 19; `ORC-N6DQV2UFWA` |  |
 | 1373 | eutectic: Liq -> (ScNi2) + ScNi | Liq: Sc 0.417; (ScNi2): Sc 0.333333; ScNi: Sc 0.5 | model | [2] Zhu 2015 | Table 1, p. 2, row 24; `ORC-6K3QMUIPK4` |  |
-| 1373 | Liquid -> ScNi2 + ScNi | ScNi2: Sc 0.35; ScNi: Sc 0.53 | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 5, p. 8, row 18; `ORC-75IELB6B64` |  |
+| 1373 | eutectic: Liquid -> ScNi2 + ScNi | ScNi2: Sc 0.35; ScNi: Sc 0.53 | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 5, p. 8, row 18; `ORC-75IELB6B64` |  |
 | 1373 | eutectic: Liq -> (ScNi2) + ScNi | (ScNi2): Sc 0.333333; ScNi: Sc 0.5 | experimental | [2] Zhu 2015; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 1, p. 2, row 20; `ORC-CA46VIC4QX` |  |
 | 1373 | eutectic: Liq -> (ScNi2) + ScNi | (ScNi2): Sc 0.333333; ScNi: Sc 0.5 | unspecified | [2] Zhu 2015; _cites Okamoto 2000_ | Table 1, p. 2, row 21; `ORC-O7B6MBIZ34` |  |
-| 1373 | eutectic |  | model | [2] Zhu 2015 | p. 7; `ORC-SUGHB6IHES.5794ef` | “The eutectic reaction temperatures for L2Fcc_A1(Ni)þ ScNi5, L2Sc2Ni7 þ (ScNi2), L2(ScNi2)þScNi and L2Sc2NiþHcp_A3(Sc) are 1401, 1512, 1373 and 1113 K, respectively.” |
 | 1263.15 | Liq+NiSc -> NiSc2 | L: Sc 0.719; NiSc: Sc 0.5; NiSc2: Sc 0.666667 | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 25; `ORC-2NJDJ4JFDT` |  |
 | 1263 | peritectic: Liquid + ScNi ↔ Sc2 Ni |  | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | p. 2; `ORC-F3BX3HJDN7` | “In contrast to the former results, Semenova and Rusetskaya \[7\] reported that the homogeneity range of ScNi2 was 28 to 35 at.% Sc and Sc2 Ni was formed via a peritectic reaction Liquid + ScNi ↔ Sc2 Ni at 1263 K.” |
 | 1263 | peritectic: Liq + ScNi -> Sc2Ni | ScNi: Sc 0.5; Sc2Ni: Sc 0.666667 | unspecified | [2] Zhu 2015; _cites Okamoto 2000_ | Table 1, p. 2, row 26; `ORC-IY6AJ7GKFE` |  |
@@ -171,22 +169,19 @@ Table: Invariant reactions reported in the literature for the Ni–Sc system (96
 | 1223 | metatectic/catatectic: Bcc_A2 -> Liq + Hcp_A3 | Liq: Sc 0.807 | model | [2] Zhu 2015 | Table 1, p. 2, row 39; `ORC-GM3KZGZRUW` |  |
 | 1223 | metatectic/catatectic: Bcc_A2 -> Liq + Hcp_A3 | Liq: Sc 0.8 | experimental | [2] Zhu 2015; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 1, p. 2, row 35; `ORC-S3YXJRX662` |  |
 | 1191 | metatectic/catatectic: Bcc_A2 -> Liq + Hcp_A3 | Liq: Sc 0.812 | model | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 1, p. 2, row 38; `ORC-DLULWZUKUH` |  |
-| 1167.15 | Liq -> NiSc2+HCP_A3 | L: Sc 0.795; NiSc2: Sc 0.666667 | model | [1] Kardellass 2013 | Table 3, p. 5, row 30; `ORC-KCDBZRCEGH` |  |
+| 1167.15 | eutectic: Liq -> NiSc2+HCP_A3 | L: Sc 0.795; NiSc2: Sc 0.666667 | model | [1] Kardellass 2013 | Table 3, p. 5, row 30; `ORC-KCDBZRCEGH` |  |
 | 1167 | eutectic: Liq -> Sc2Ni + Hcp_A3 | Liq: Sc 0.795; Sc2Ni: Sc 0.666667 | model | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 1, p. 2, row 32; `ORC-XFAGXQ4ZSC` |  |
-| 1139.15 | Liq -> NiSc2+HCP_A3 | L: Sc 0.803; NiSc2: Sc 0.666667 | model | [1] Kardellass 2013 | Table 3, p. 5, row 29; `ORC-AFRJVDVG4J` |  |
+| 1139.15 | eutectic: Liq -> NiSc2+HCP_A3 | L: Sc 0.803; NiSc2: Sc 0.666667 | model | [1] Kardellass 2013 | Table 3, p. 5, row 29; `ORC-AFRJVDVG4J` |  |
 | 1139 | eutectic: Liq -> Sc2Ni + Hcp_A3 | Liq: Sc 0.803; Sc2Ni: Sc 0.666667 | model | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 1, p. 2, row 33; `ORC-VGV666TG3Q` |  |
-| 1127.2 | Liquid -> Sc2Ni + (αSc) | Liquid: Sc 0.7909; Sc2Ni: Sc 0.72; (αSc): Sc 0.9999 | model | [3] Cao 2014 | Table 5, p. 8, row 29; `ORC-BKN7M74MTJ` |  |
-| 1121 | Liquid -> Sc2Ni + (αSc) | Liquid: Sc 0.76; Sc2Ni: Sc 0.72; (αSc): Sc 0.997 | experimental | [3] Cao 2014 | Table 5, p. 8, row 28; `ORC-FFVJCPKLZK` |  |
-| 1121 | eutectic: Liquid ↔ Sc2 Ni + (␣Sc) |  | experimental | [3] Cao 2014 | p. 9; `ORC-TIIMU7ES3V.f78648` | “The eutectic reaction Liquid ↔ Sc2 Ni + (␣Sc) and the metatectic reaction (␤Sc) ↔ (␣Sc) + Liquid are detected at 1121 and 1258 K, which are 8.3 and 34.7 K higher than the ones of previously works, respectively.” |
+| 1127.2 | eutectic: Liquid -> Sc2Ni + (αSc) | Liquid: Sc 0.7909; Sc2Ni: Sc 0.72; (αSc): Sc 0.9999 | model | [3] Cao 2014 | Table 5, p. 8, row 29; `ORC-BKN7M74MTJ` |  |
+| 1121 | eutectic: Liquid -> Sc2Ni + (αSc) | Liquid: Sc 0.76; Sc2Ni: Sc 0.72; (αSc): Sc 0.997 | experimental | [3] Cao 2014 | Table 5, p. 8, row 28; `ORC-FFVJCPKLZK` |  |
 | 1120 | eutectic: Liquid ↔ ScNi + Sc2 Ni |  | experimental | [3] Cao 2014 | p. 9; `ORC-C3ZDX244FP` | “The only invariant reaction between ScNi and Sc2 Ni is eutectic reaction Liquid ↔ ScNi + Sc2 Ni at 1120 K.” |
-| 1120 | Liquid -> ScNi + Sc2Ni | Liquid: Sc 0.67; ScNi: Sc 0.521; Sc2Ni: Sc 0.72 | experimental | [3] Cao 2014 | Table 5, p. 8, row 23; `ORC-MXHWH7KJDS` |  |
-| 1113.3 | Liquid -> ScNi + Sc2Ni | Liquid: Sc 0.6517; ScNi: Sc 0.5227; Sc2Ni: Sc 0.72 | model | [3] Cao 2014 | Table 5, p. 8, row 24; `ORC-ZN4M6KW6TL` |  |
-| 1113.15 | Liq -> NiSc2+HCP_A3 | L: Sc 0.78; NiSc2: Sc 0.666667 | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 28; `ORC-MVTXK26TKM` |  |
+| 1120 | eutectic: Liquid -> ScNi + Sc2Ni | Liquid: Sc 0.67; ScNi: Sc 0.521; Sc2Ni: Sc 0.72 | experimental | [3] Cao 2014 | Table 5, p. 8, row 23; `ORC-MXHWH7KJDS` |  |
+| 1113.3 | eutectic: Liquid -> ScNi + Sc2Ni | Liquid: Sc 0.6517; ScNi: Sc 0.5227; Sc2Ni: Sc 0.72 | model | [3] Cao 2014 | Table 5, p. 8, row 24; `ORC-ZN4M6KW6TL` |  |
+| 1113.15 | eutectic: Liq -> NiSc2+HCP_A3 | L: Sc 0.78; NiSc2: Sc 0.666667 | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 28; `ORC-MVTXK26TKM` |  |
 | 1113 | eutectic: Liq -> Sc2Ni + Hcp_A3 | Liq: Sc 0.83; Sc2Ni: Sc 0.666667 | unspecified | [2] Zhu 2015; _cites Okamoto 2000_ | Table 1, p. 2, row 31; `ORC-3EBZQ3RGXO` |  |
-| 1113 | eutectic: Liquid ↔ Sc2 Ni + (␣Sc) |  | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | p. 2; `ORC-AT2XFYBBA3.04df76` | “Besides, they detected that the transformation in the Sc-based alloys occurred via a metatectic reaction (␤Sc) ↔ (␣Sc) + Liquid at 1223 K and a eutectic reaction Liquid ↔ Sc2 Ni + (␣Sc) at 1113 K.” |
-| 1113 | Liquid -> Sc2Ni + (αSc) | Liquid: Sc 0.83; Sc2Ni: Sc 0.72; (αSc): Sc 1 | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 5, p. 8, row 27; `ORC-FYKBL3GLOT` |  |
+| 1113 | eutectic: Liquid -> Sc2Ni + (αSc) | Liquid: Sc 0.83; Sc2Ni: Sc 0.72; (αSc): Sc 1 | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 5, p. 8, row 27; `ORC-FYKBL3GLOT` |  |
 | 1113 | eutectic: Liq -> Sc2Ni + Hcp_A3 | Liq: Sc 0.807; Sc2Ni: Sc 0.666667 | model | [2] Zhu 2015 | Table 1, p. 2, row 34; `ORC-I6JDRWFULU` |  |
-| 1113 | eutectic |  | model | [2] Zhu 2015 | p. 7; `ORC-SUGHB6IHES.defb18` | “The eutectic reaction temperatures for L2Fcc_A1(Ni)þ ScNi5, L2Sc2Ni7 þ (ScNi2), L2(ScNi2)þScNi and L2Sc2NiþHcp_A3(Sc) are 1401, 1512, 1373 and 1113 K, respectively.” |
 | 1113 | eutectic: Liq -> Sc2Ni + Hcp_A3 | Liq: Sc 0.83; Sc2Ni: Sc 0.666667 | experimental | [2] Zhu 2015; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 1, p. 2, row 30; `ORC-X4MTB3SQAW` |  |
 
 ## Formation enthalpies
@@ -245,38 +240,23 @@ Table: Enthalpies of formation, Ni–Sc system (45)
 
 ## Other properties
 
-### Phase transition (45)
+### Phase transition (29)
 
 Table: Phase transition, Ni–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1116.1 K | 1116.1 | Liquid ↔ ScNi + Sc2 Ni | model | [3] Cao 2014 | p. 7; `ORC-55URM4FKOT.2e5115` | “The calculated reaction temperatures of in variant equilibrium Liquid ↔ ScNi + Sc2 Ni, Liquid ↔ Sc2 Ni + (␣Sc) and (␤Sc) ↔ (␣Sc) + Liquid are 1116.1, 1124.1 and 1257.9 K, respectively, which agree well with the present experimental results.” |
-| Phase transition | 1124.1 K | 1124.1 | Liquid ↔ Sc2 Ni + (␣Sc) | model | [3] Cao 2014 | p. 7; `ORC-55URM4FKOT.3c7e74` | “The calculated reaction temperatures of in variant equilibrium Liquid ↔ ScNi + Sc2 Ni, Liquid ↔ Sc2 Ni + (␣Sc) and (␤Sc) ↔ (␣Sc) + Liquid are 1116.1, 1124.1 and 1257.9 K, respectively, which agree well with the present experimental results.” |
 | Phase transition | 1153 K | 1153 | polymorphic | experimental | [3] Cao 2014; _cites Braslayskaya 1987_ | p. 2; `ORC-IZOQ3VS4P7` | “Braslavskaya and Maslenkov \[11\] reported an allotropic transformation of ScNi5 at 1153 ± 20 K.” |
-| Phase transition | 1223 K | 1223 | other | model | [2] Zhu 2015 | p. 7; `ORC-IO6YB37MJV` | “The metatectic reaction temperature for Bcc_A22LiqþHcp_A3 is 1223 K.” |
-| Phase transition | 1223 K | 1223 | other: (␤Sc) ↔ (␣Sc) + Liquid | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | p. 2; `ORC-AT2XFYBBA3.48ce0b` | “Besides, they detected that the transformation in the Sc-based alloys occurred via a metatectic reaction (␤Sc) ↔ (␣Sc) + Liquid at 1223 K and a eutectic reaction Liquid ↔ Sc2 Ni + (␣Sc) at 1113 K.” |
 | Phase transition | 1236.5 K | 1236.5 | Sc2Ni -> liquid; _Sc2Ni: Sc 0.72; liquid: Sc 0.72_ | model | [3] Cao 2014 | Table 5, p. 8, row 26; `ORC-7EZGBRYRTQ` |  |
-| Phase transition | 1243 K | 1243 |  | experimental | [3] Cao 2014 | p. 9; `ORC-2BAMNW7MKS.9d65f0` | “The composition of Sc2 Ni is 72 at.% Sc and melting temperature of Sc2 Ni is 1243 K.” |
 | Phase transition | 1243 K | 1243 | Sc2Ni | experimental | [3] Cao 2014 | p. 7; `ORC-2B4RVAXVIZ` | “The melting temperature of Sc2 Ni is determined to be 1243 K.” |
 | Phase transition | 1243 K | 1243 | Sc2Ni -> liquid; _Sc2Ni: Sc 0.72; liquid: Sc 0.72_ | experimental | [3] Cao 2014 | Table 5, p. 8, row 25; `ORC-XMHV4TLSVA` |  |
-| Phase transition | 1257.9 K | 1257.9 | (␤Sc) ↔ (␣Sc) + Liquid | model | [3] Cao 2014 | p. 7; `ORC-55URM4FKOT.34cc55` | “The calculated reaction temperatures of in variant equilibrium Liquid ↔ ScNi + Sc2 Ni, Liquid ↔ Sc2 Ni + (␣Sc) and (␤Sc) ↔ (␣Sc) + Liquid are 1116.1, 1124.1 and 1257.9 K, respectively, which agree well with the present experimental results.” |
-| Phase transition | 1258 K | 1258 | other: (␤Sc) ↔ (␣Sc) + Liquid | experimental | [3] Cao 2014 | p. 9; `ORC-TIIMU7ES3V.84082e` | “The eutectic reaction Liquid ↔ Sc2 Ni + (␣Sc) and the metatectic reaction (␤Sc) ↔ (␣Sc) + Liquid are detected at 1121 and 1258 K, which are 8.3 and 34.7 K higher than the ones of previously works, respectively.” |
-| Phase transition | 1263 K | 1263 |  | model | [2] Zhu 2015 | p. 7; `ORC-Z4OXPSON5E.b6945c` | “The calculated incongruent melting temperatures of ScNi5 and Sc2Ni are 1443 and 1263 K, and the calculated congruent melting temperatures of Sc2Ni7, ScNi2 and ScNi are 1543, 1583 and 1583 K respectively.” |
-| Phase transition | 1263 K | 1263 | Liquid + ScNi ↔ Sc2 Ni | experimental | [3] Cao 2014 | p. 9; `ORC-2BAMNW7MKS.03e1a0` | “The invariant equilibrium of Liquid + ScNi ↔ Sc2 Ni previously proposed to occur at 1263 K is not observed.” |
 | Phase transition | 1271 K | 1271 | congruent transformation | experimental | [3] Cao 2014; _cites Ya 1978_ | p. 2; `ORC-A6GHMQ2TM3.5f5375` | “According to the work of Markiv et al. \[5\], Sc2 Ni7 , ScNi2 , ScNi and Sc2 Ni formed congruently approximately at 1556 K, 1573 K, 1533 K and 1271 K, respectively, while ScNi5 formed peritecticly at 1441 K.” |
-| Phase transition | 1394.1 K | 1394.1 | Liquid ↔ ScNi2 + ScNi | experimental | [3] Cao 2014 | p. 7; `ORC-XH5JC6ZWXZ.f181ee` | “In addition, the temperature of four invariant equilibria (Liquid ↔ (Ni) + ScNi5 , Liquid + Sc2 Ni7 ↔ ScNi5 , Liquid ↔ Sc2 Ni7 + ScNi2 and Liquid ↔ ScNi2 + ScNi) is detected at 1402.6 K, 1428 K, 1532.2 K and 1394.1 K, respectively, showing a good agreement with previous results \[6\].” |
-| Phase transition | 1402.6 K | 1402.6 | Liquid ↔ (Ni) + ScNi5 | experimental | [3] Cao 2014 | p. 7; `ORC-XH5JC6ZWXZ.40c737` | “In addition, the temperature of four invariant equilibria (Liquid ↔ (Ni) + ScNi5 , Liquid + Sc2 Ni7 ↔ ScNi5 , Liquid ↔ Sc2 Ni7 + ScNi2 and Liquid ↔ ScNi2 + ScNi) is detected at 1402.6 K, 1428 K, 1532.2 K and 1394.1 K, respectively, showing a good agreement with previous results \[6\].” |
-| Phase transition | 1428 K | 1428 | Liquid + Sc2 Ni7 ↔ ScNi5 | experimental | [3] Cao 2014 | p. 7; `ORC-XH5JC6ZWXZ.711e4e` | “In addition, the temperature of four invariant equilibria (Liquid ↔ (Ni) + ScNi5 , Liquid + Sc2 Ni7 ↔ ScNi5 , Liquid ↔ Sc2 Ni7 + ScNi2 and Liquid ↔ ScNi2 + ScNi) is detected at 1402.6 K, 1428 K, 1532.2 K and 1394.1 K, respectively, showing a good agreement with previous results \[6\].” |
-| Phase transition | 1443 K | 1443 |  | model | [2] Zhu 2015 | p. 7; `ORC-Z4OXPSON5E.b3d2d9` | “The calculated incongruent melting temperatures of ScNi5 and Sc2Ni are 1443 and 1263 K, and the calculated congruent melting temperatures of Sc2Ni7, ScNi2 and ScNi are 1543, 1583 and 1583 K respectively.” |
 | Phase transition | 1518.15 K | 1518.15 | Liq -> NiSc; _L: Sc 0.53; NiSc: Sc 0.5_ | model | [1] Kardellass 2013 | Table 3, p. 5, row 24; `ORC-TA6BDCUONV` |  |
 | Phase transition | 1532.15 K | 1532.15 | Liq -> NiSc; _L: Sc 0.53; NiSc: Sc 0.5_ | model | [1] Kardellass 2013 | Table 3, p. 5, row 23; `ORC-XUIQF5RAH2` |  |
-| Phase transition | 1532.2 K | 1532.2 | Liquid ↔ Sc2 Ni7 + ScNi2 | experimental | [3] Cao 2014 | p. 7; `ORC-XH5JC6ZWXZ.18af53` | “In addition, the temperature of four invariant equilibria (Liquid ↔ (Ni) + ScNi5 , Liquid + Sc2 Ni7 ↔ ScNi5 , Liquid ↔ Sc2 Ni7 + ScNi2 and Liquid ↔ ScNi2 + ScNi) is detected at 1402.6 K, 1428 K, 1532.2 K and 1394.1 K, respectively, showing a good agreement with previous results \[6\].” |
 | Phase transition | 1533 K | 1533 | congruent transformation | experimental | [3] Cao 2014; _cites Ya 1978_ | p. 2; `ORC-A6GHMQ2TM3.a67af0` | “According to the work of Markiv et al. \[5\], Sc2 Ni7 , ScNi2 , ScNi and Sc2 Ni formed congruently approximately at 1556 K, 1573 K, 1533 K and 1271 K, respectively, while ScNi5 formed peritecticly at 1441 K.” |
 | Phase transition | 1537.7 K | 1537.7 | ScNi -> liquid; _ScNi: Sc 0.5; liquid: Sc 0.5_ | model | [3] Cao 2014 | Table 5, p. 8, row 22; `ORC-CKHOKC34GE` |  |
 | Phase transition | 1542.15 K | 1542.15 | Liq -> Ni7Sc2; _L: Sc 0.222; Ni7Sc2: Sc 0.222222_ | model | [1] Kardellass 2013 | Table 3, p. 5, row 11; `ORC-TTE2E2TNLV` |  |
 | Phase transition | 1543 K | 1543 | ScNi -> liquid; _ScNi: Sc 0.53; liquid: Sc 0.53_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 5, p. 8, row 21; `ORC-636VTJ54MF` |  |
-| Phase transition | 1543 K | 1543 | congruent transformation | model | [2] Zhu 2015 | p. 7; `ORC-Z4OXPSON5E.bde685` | “The calculated incongruent melting temperatures of ScNi5 and Sc2Ni are 1443 and 1263 K, and the calculated congruent melting temperatures of Sc2Ni7, ScNi2 and ScNi are 1543, 1583 and 1583 K respectively.” |
 | Phase transition | 1543.15 K | 1543.15 | Liq -> Ni7Sc2; _L: Sc 0.222; Ni7Sc2: Sc 0.222222_ | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 10; `ORC-W227AYZEDA` |  |
 | Phase transition | 1543.15 K | 1543.15 | Liq -> NiSc; _L: Sc 0.53; NiSc: Sc 0.5_ | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 22; `ORC-HF2DYN7KIJ` |  |
 | Phase transition | 1556 K | 1556 | congruent transformation | experimental | [3] Cao 2014; _cites Ya 1978_ | p. 2; `ORC-A6GHMQ2TM3.ff58ff` | “According to the work of Markiv et al. \[5\], Sc2 Ni7 , ScNi2 , ScNi and Sc2 Ni formed congruently approximately at 1556 K, 1573 K, 1533 K and 1271 K, respectively, while ScNi5 formed peritecticly at 1441 K.” |
@@ -289,7 +269,6 @@ Table: Phase transition, Ni–Sc system
 | Phase transition | 1576.6 K | 1576.6 | ScNi2 -> liquid; _ScNi2: Sc 0.3333; liquid: Sc 0.3333_ | model | [3] Cao 2014 | Table 5, p. 8, row 16; `ORC-4GAP473GFF` |  |
 | Phase transition | 1583 K | 1583 | ScNi2 -> liquid; _ScNi2: Sc 0.3333; liquid: Sc 0.3333_ | experimental | [3] Cao 2014; _cites Maslenkov 2014_ | Table 5, p. 8, row 15; `ORC-IZM4PJLAYC` |  |
 | Phase transition | 1583 K | 1583 | congruent transformation | experimental | [3] Cao 2014; _cites Maslenkov 2014_ | p. 2; `ORC-4HK45UZF6W.9cd7d3` | “ScNi5 melted peritecticly at 1453 K, while Sc2 Ni7 and ScNi2 melted congruently at 1568 K and 1583 K, respectively.” |
-| Phase transition | 1583 K | 1583 | congruent transformation | model | [2] Zhu 2015 | p. 7; `ORC-Z4OXPSON5E.0a31d2` | “The calculated incongruent melting temperatures of ScNi5 and Sc2Ni are 1443 and 1263 K, and the calculated congruent melting temperatures of Sc2Ni7, ScNi2 and ScNi are 1543, 1583 and 1583 K respectively.” |
 | Phase transition | 1590.15 K | 1590.15 | Liq -> Ni2Sc; _L: Sc 0.33; Ni2Sc: Sc 0.333333_ | model | [1] Kardellass 2013 | Table 3, p. 5, row 18; `ORC-3HTESGS5YF` |  |
 | Phase transition | 1603.15 K | 1603.15 | Liq -> Ni2Sc; _L: Sc 0.32; Ni2Sc: Sc 0.333333_ | experimental | [1] Kardellass 2013; _cites Nash 1991_ | Table 3, p. 5, row 16; `ORC-BYP5SGE2NT` |  |
 | Phase transition | 1728.15 K | 1728.15 | Liq -> FCC_A1; _L: Sc 0_ | model | [1] Kardellass 2013 | Table 3, p. 5, row 2; `ORC-AWY7JS4RXR` |  |

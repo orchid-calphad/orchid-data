@@ -47,9 +47,9 @@ Table: Invariant reactions reported in the literature for the Cd–Tl system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 476.5 | Liq -> hcp + bcc | Liq: Tl 0.73; hcp: Tl 0 | experimental | [1] Liu 2009; _cites Kurnakow 1902_ | Table 4, p. 4, row 3; `ORC-I35ZGPLUHA` |  |
-| 475 | Liq -> hcp + bcc | Liq: Tl 0.71; hcp: Tl 0; bcc: Tl 0.944 | experimental | [1] Liu 2009; _cites Predel 1964_ | Table 4, p. 4, row 2; `ORC-CDUUE2BAKH` |  |
-| 475 | Liq -> hcp + bcc | Liq: Tl 0.71; hcp: Tl 0; bcc: Tl 0.944 | model | [1] Liu 2009 | Table 4, p. 4, row 1; `ORC-CFH7DOSLI4` |  |
+| 476.5 | eutectic: Liq -> hcp + bcc | Liq: Tl 0.73; hcp: Tl 0 | experimental | [1] Liu 2009; _cites Kurnakow 1902_ | Table 4, p. 4, row 3; `ORC-I35ZGPLUHA` |  |
+| 475 | eutectic: Liq -> hcp + bcc | Liq: Tl 0.71; hcp: Tl 0; bcc: Tl 0.944 | experimental | [1] Liu 2009; _cites Predel 1964_ | Table 4, p. 4, row 2; `ORC-CDUUE2BAKH` |  |
+| 475 | eutectic: Liq -> hcp + bcc | Liq: Tl 0.71; hcp: Tl 0; bcc: Tl 0.944 | model | [1] Liu 2009 | Table 4, p. 4, row 1; `ORC-CFH7DOSLI4` |  |
 | 431 | bcc -> hcp + hcp | bcc: Tl 0.959; hcp: Tl 0.976 | model | [1] Liu 2009 | Table 4, p. 4, row 4; `ORC-RRC2XTX6G6` |  |
 | 431 | bcc -> hcp + hcp | bcc: Tl 0.958; hcp: Tl 0.98 | experimental | [1] Liu 2009; _cites Predel 1964_ | Table 4, p. 4, row 5; `ORC-SXNH443T6P` |  |
 

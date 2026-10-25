@@ -101,7 +101,7 @@ Table: Invariant reactions reported in the literature for the Pd–Sn system (10
 | 1598.15 | congruent melting: Liquid = Pd3Sn | Pd3Sn: Sn 0.249; Liquid: Sn 0.249 | model | [1] Cui 2020 | Table 4, p. 7, row 10; `ORC-TBIFWDDYOM` |  |
 | 1576.15 | congruent melting: Liquid = Pd3Sn | Pd3Sn: Sn 0.25; Liquid: Sn 0.25 | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 4, p. 7, row 7; `ORC-AKWV7L64CD` |  |
 | 1566.15 | Liquid = (Pd) + Pd3Sn | (Pd): Sn 0.17; Pd3Sn: Sn 0.24; Liquid: Sn 0.212 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 1; `ORC-VIRZC6QQMD` |  |
-| 1566 | L -> (Pd) + Pd3Sn | L: Sn 0.2125; (Pd): Sn 0.1583; Pd3Sn: Sn 0.228 | experimental | [2] Ghosh 1999; _cites Knight 1999_ | Table III, p. 7, row 1; `ORC-RTDVZABDXI` |  |
+| 1566 | eutectic: L -> (Pd) + Pd3Sn | L: Sn 0.2125; (Pd): Sn 0.1583; Pd3Sn: Sn 0.228 | experimental | [2] Ghosh 1999; _cites Knight 1999_ | Table III, p. 7, row 1; `ORC-RTDVZABDXI` |  |
 | 1560.15 | congruent melting: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.34; Liquid: Sn 0.34 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 16; `ORC-GJSPG6I6YT` |  |
 | 1559.15 | congruent melting: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.358; Liquid: Sn 0.358 | model | [1] Cui 2020 | Table 4, p. 7, row 20; `ORC-6MOCH5D5AV` |  |
 | 1559.15 | congruent melting: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.353; Liquid: Sn 0.353 | model | [1] Cui 2020 | Table 4, p. 7, row 19; `ORC-BZLQFZ5I3D` |  |
@@ -109,18 +109,18 @@ Table: Invariant reactions reported in the literature for the Pd–Sn system (10
 | 1553.15 | Liquid = (Pd) + Pd3Sn | (Pd): Sn 0.166; Pd3Sn: Sn 0.229; Liquid: Sn 0.201 | model | [1] Cui 2020 | Table 4, p. 7, row 4; `ORC-766T5UGNZH` |  |
 | 1553.15 | Liquid = (Pd) + Pd3Sn | (Pd): Sn 0.17; Pd3Sn: Sn 0.23; Liquid: Sn 0.212 | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 4, p. 7, row 2; `ORC-KMV5XGF4JU` |  |
 | 1553.15 | Liquid = (Pd) + Pd3Sn | (Pd): Sn 0.172; Pd3Sn: Sn 0.238; Liquid: Sn 0.211 | model | [1] Cui 2020 | Table 4, p. 7, row 5; `ORC-QSLCBW3UQV` |  |
-| 1553 | L -> (Pd) + Pd3Sn | L: Sn 0.2132; (Pd): Sn 0.167; Pd3Sn: Sn 0.2263 | experimental | [2] Ghosh 1999; _cites Schubert 1959_ [doi](https://doi.org/10.1515/ijmr-1959-500907) | Table III, p. 7, row 2; `ORC-H6VQVISJLY` |  |
-| 1552 | L -> (Pd) + Pd3Sn | L: Sn 0.2138; (Pd): Sn 0.2055; Pd3Sn: Sn 0.2463 | model | [2] Ghosh 1999 | Table III, p. 7, row 3; `ORC-SZKTHH65B4` |  |
+| 1553 | eutectic: L -> (Pd) + Pd3Sn | L: Sn 0.2132; (Pd): Sn 0.167; Pd3Sn: Sn 0.2263 | experimental | [2] Ghosh 1999; _cites Schubert 1959_ [doi](https://doi.org/10.1515/ijmr-1959-500907) | Table III, p. 7, row 2; `ORC-H6VQVISJLY` |  |
+| 1552 | eutectic: L -> (Pd) + Pd3Sn | L: Sn 0.2138; (Pd): Sn 0.2055; Pd3Sn: Sn 0.2463 | model | [2] Ghosh 1999 | Table III, p. 7, row 3; `ORC-SZKTHH65B4` |  |
 | 1551.15 | Liquid = (Pd) + Pd3Sn | (Pd): Sn 0.205; Pd3Sn: Sn 0.246; Liquid: Sn 0.214 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 7, row 3; `ORC-K4H5QZNRNY` |  |
 | 1543.15 | congruent melting: Liquid = γ\_Pd2Sn | γ\_Pd2Sn: Sn 0.33; Liquid: Sn 0.33 | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 4, p. 7, row 17; `ORC-J3MUF32M37` |  |
 | 1504.15 | Liquid = Pd3Sn + γ\_Pd2Sn | Pd3Sn: Sn 0.26; γ\_Pd2Sn: Sn 0.33; Liquid: Sn 0.302 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 11; `ORC-DXAWHCON7M` |  |
 | 1504.15 | Liquid = Pd3Sn + γ\_Pd2Sn | Pd3Sn: Sn 0.25; γ\_Pd2Sn: Sn 0.353; Liquid: Sn 0.315 | model | [1] Cui 2020 | Table 4, p. 7, row 15; `ORC-FXDPZNJ5TZ` |  |
 | 1504.15 | Liquid = Pd3Sn + γ\_Pd2Sn | Pd3Sn: Sn 0.25; γ\_Pd2Sn: Sn 0.348; Liquid: Sn 0.305 | model | [1] Cui 2020 | Table 4, p. 7, row 14; `ORC-UIQAWAKHLE` |  |
-| 1504 | L -> γ-Pd2Sn + Pd3Sn | L: Sn 0.305; γ-Pd2Sn: Sn 0.3208; Pd3Sn: Sn 0.2583 | experimental | [2] Ghosh 1999; _cites Knight 1999_ | Table III, p. 7, row 4; `ORC-HZSCFMLN7I` |  |
-| 1496 | L -> γ-Pd2Sn + Pd3Sn | L: Sn 0.3057; γ-Pd2Sn: Sn 0.3471; Pd3Sn: Sn 0.2511 | model | [2] Ghosh 1999 | Table III, p. 7, row 6; `ORC-WS4LEXX7FD` |  |
+| 1504 | eutectic: L -> γ-Pd2Sn + Pd3Sn | L: Sn 0.305; γ-Pd2Sn: Sn 0.3208; Pd3Sn: Sn 0.2583 | experimental | [2] Ghosh 1999; _cites Knight 1999_ | Table III, p. 7, row 4; `ORC-HZSCFMLN7I` |  |
+| 1496 | eutectic: L -> γ-Pd2Sn + Pd3Sn | L: Sn 0.3057; γ-Pd2Sn: Sn 0.3471; Pd3Sn: Sn 0.2511 | model | [2] Ghosh 1999 | Table III, p. 7, row 6; `ORC-WS4LEXX7FD` |  |
 | 1495.15 | Liquid = Pd3Sn + γ\_Pd2Sn | Pd3Sn: Sn 0.251; γ\_Pd2Sn: Sn 0.347; Liquid: Sn 0.306 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 7, row 13; `ORC-2JLZ2XML3M` |  |
 | 1488.15 | Liquid = Pd3Sn + γ\_Pd2Sn | Pd3Sn: Sn 0.26; γ\_Pd2Sn: Sn 0.33; Liquid: Sn 0.3 | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 4, p. 7, row 12; `ORC-5ZE7VQ755W` |  |
-| 1488 | L -> γ-Pd2Sn + Pd3Sn | L: Sn 0.3027; γ-Pd2Sn: Sn 0.3243; Pd3Sn: Sn 0.2553 | experimental | [2] Ghosh 1999; _cites Schubert 1959_ [doi](https://doi.org/10.1515/ijmr-1959-500907) | Table III, p. 7, row 5; `ORC-UPDHIMDMCX` |  |
+| 1488 | eutectic: L -> γ-Pd2Sn + Pd3Sn | L: Sn 0.3027; γ-Pd2Sn: Sn 0.3243; Pd3Sn: Sn 0.2553 | experimental | [2] Ghosh 1999; _cites Schubert 1959_ [doi](https://doi.org/10.1515/ijmr-1959-500907) | Table III, p. 7, row 5; `ORC-UPDHIMDMCX` |  |
 | 1202.15 | Liquid + γ\_Pd2Sn = Pd20Sn13 | γ\_Pd2Sn: Sn 0.38; Pd20Sn13: Sn 0.4; Liquid: Sn 0.48 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 21; `ORC-H63S2MKQ5X` |  |
 | 1202 | L + γ-Pd2Sn -> Pd20Sn13 | L: Sn 0.482; γ-Pd2Sn: Sn 0.3792; Pd20Sn13: Sn 0.3917 | experimental | [2] Ghosh 1999; _cites Knight 1999_ | Table III, p. 7, row 10; `ORC-T7RLOJRBIO` |  |
 | 1173.15 | Liquid + γ\_Pd2Sn = Pd20Sn13 | γ\_Pd2Sn: Sn 0.372; Pd20Sn13: Sn 0.41; Liquid: Sn 0.484 | model | [1] Cui 2020 | Table 4, p. 7, row 26; `ORC-4XRVAORTXT` |  |
@@ -145,10 +145,10 @@ Table: Invariant reactions reported in the literature for the Pd–Sn system (10
 | 1083 | L + Pd20Sn13 -> PdSn | L: Sn 0.4869; Pd20Sn13: Sn 0.4163; PdSn: Sn 0.5025 | model | [2] Ghosh 1999 | Table III, p. 7, row 15; `ORC-4PDY52KR42` |  |
 | 1083 | L + Pd20Sn13 -> PdSn | L: Sn 0.5211; Pd20Sn13: Sn 0.4055; PdSn: Sn 0.5 | experimental | [2] Ghosh 1999; _cites Schubert 1959_ [doi](https://doi.org/10.1515/ijmr-1959-500907) | Table III, p. 7, row 14; `ORC-DTJ7LTTNFD` |  |
 | 1082.15 | Liquid + Pd20Sn13 = PdSn | Pd20Sn13: Sn 0.435; PdSn: Sn 0.502; Liquid: Sn 0.527 | model | [1] Cui 2020 | Table 4, p. 7, row 32; `ORC-ISXW6FIY3Q` |  |
-| 934.15 | Pd20Sn13 = β\_Pd3Sn2 | Pd20Sn13: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020 | Table 4, p. 8, row 11; `ORC-73HBCBGWHH` |  |
-| 933.15 | Pd20Sn13 = β\_Pd3Sn2 | Pd20Sn13: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020 | Table 4, p. 8, row 12; `ORC-2R7GGM562J` |  |
-| 933.15 | Pd20Sn13 = β\_Pd3Sn2 | Pd20Sn13: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 8, row 10; `ORC-T6EDDHSOGH` |  |
-| 933.15 | Pd20Sn13 = β\_Pd3Sn2 | Pd20Sn13: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | experimental | [1] Cui 2020; _cites Sarah 1981_ | Table 4, p. 8, row 9; `ORC-ZTGKQOGHGE` |  |
+| 934.15 | polymorphic: Pd20Sn13 = β\_Pd3Sn2 | Pd20Sn13: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020 | Table 4, p. 8, row 11; `ORC-73HBCBGWHH` |  |
+| 933.15 | polymorphic: Pd20Sn13 = β\_Pd3Sn2 | Pd20Sn13: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020 | Table 4, p. 8, row 12; `ORC-2R7GGM562J` |  |
+| 933.15 | polymorphic: Pd20Sn13 = β\_Pd3Sn2 | Pd20Sn13: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 8, row 10; `ORC-T6EDDHSOGH` |  |
+| 933.15 | polymorphic: Pd20Sn13 = β\_Pd3Sn2 | Pd20Sn13: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | experimental | [1] Cui 2020; _cites Sarah 1981_ | Table 4, p. 8, row 9; `ORC-ZTGKQOGHGE` |  |
 | 890.15 | Liquid + PdSn = Pd5Sn7 | PdSn: Sn 0.508; Pd5Sn7: Sn 0.583; Liquid: Sn 0.694 | model | [1] Cui 2020 | Table 4, p. 7, row 35; `ORC-CE7KROAQXD` |  |
 | 890.15 | Liquid + PdSn = Pd5Sn7 | PdSn: Sn 0.508; Pd5Sn7: Sn 0.583; Liquid: Sn 0.669 | model | [1] Cui 2020 | Table 4, p. 7, row 34; `ORC-OML4X4LAIR` |  |
 | 890.15 | Liquid + PdSn = Pd5Sn7 | PdSn: Sn 0.5; Pd5Sn7: Sn 0.583; Liquid: Sn 0.68 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 33; `ORC-YUMZUMHJNY` |  |
@@ -158,14 +158,14 @@ Table: Invariant reactions reported in the literature for the Pd–Sn system (10
 | 873 | L + PdSn -> PdSn2 | L: Sn 0.7161; PdSn: Sn 0.5054; PdSn2: Sn 0.6734 | experimental | [2] Ghosh 1999; _cites Schubert 1959_ [doi](https://doi.org/10.1515/ijmr-1959-500907) | Table III, p. 7, row 17; `ORC-J3KLDGU7JX` |  |
 | 872.15 | Liquid + Pd5Sn7 = PdSn2 | Pd5Sn7: Sn 0.583; PdSn2: Sn 0.668; Liquid: Sn 0.716 | model | [1] Cui 2020 | Table 4, p. 7, row 38; `ORC-DGKRX647ME` |  |
 | 872.15 | Liquid + Pd5Sn7 = PdSn2 | Pd5Sn7: Sn 0.583; PdSn2: Sn 0.668; Liquid: Sn 0.693 | model | [1] Cui 2020 | Table 4, p. 7, row 37; `ORC-MESWTCV2JM` |  |
-| 823.15 | α\_Pd3Sn2 = β\_Pd3Sn2 | α\_Pd3Sn2: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 8, row 14; `ORC-7OZK2PPVNT` |  |
-| 823.15 | α\_Pd3Sn2 = β\_Pd3Sn2 | α\_Pd3Sn2: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020 | Table 4, p. 8, row 16; `ORC-CLS74M7KHV` |  |
-| 815.15 | α\_Pd3Sn2 = β\_Pd3Sn2 | α\_Pd3Sn2: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | experimental | [1] Cui 2020; _cites Sarah 1981_ | Table 4, p. 8, row 13; `ORC-4JNN372X4I` |  |
-| 793.15 | Pd20Sn13 = δ\_Pd3Sn2 | Pd20Sn13: Sn 0.41; δ\_Pd3Sn2: Sn 0.41 | experimental | [1] Cui 2020; _cites Sarah 1981_ | Table 4, p. 8, row 5; `ORC-BS36CP264A` |  |
-| 793.15 | Pd20Sn13 = δ\_Pd3Sn2 | Pd20Sn13: Sn 0.41; δ\_Pd3Sn2: Sn 0.41 | model | [1] Cui 2020 | Table 4, p. 8, row 8; `ORC-UOV7GL4ZQ6` |  |
-| 790.15 | Pd20Sn13 = δ\_Pd3Sn2 | Pd20Sn13: Sn 0.41; δ\_Pd3Sn2: Sn 0.41 | model | [1] Cui 2020 | Table 4, p. 8, row 7; `ORC-EZWNVLIULR` |  |
+| 823.15 | polymorphic: α\_Pd3Sn2 = β\_Pd3Sn2 | α\_Pd3Sn2: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 8, row 14; `ORC-7OZK2PPVNT` |  |
+| 823.15 | polymorphic: α\_Pd3Sn2 = β\_Pd3Sn2 | α\_Pd3Sn2: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | model | [1] Cui 2020 | Table 4, p. 8, row 16; `ORC-CLS74M7KHV` |  |
+| 815.15 | polymorphic: α\_Pd3Sn2 = β\_Pd3Sn2 | α\_Pd3Sn2: Sn 0.4; β\_Pd3Sn2: Sn 0.4 | experimental | [1] Cui 2020; _cites Sarah 1981_ | Table 4, p. 8, row 13; `ORC-4JNN372X4I` |  |
+| 793.15 | polymorphic: Pd20Sn13 = δ\_Pd3Sn2 | Pd20Sn13: Sn 0.41; δ\_Pd3Sn2: Sn 0.41 | experimental | [1] Cui 2020; _cites Sarah 1981_ | Table 4, p. 8, row 5; `ORC-BS36CP264A` |  |
+| 793.15 | polymorphic: Pd20Sn13 = δ\_Pd3Sn2 | Pd20Sn13: Sn 0.41; δ\_Pd3Sn2: Sn 0.41 | model | [1] Cui 2020 | Table 4, p. 8, row 8; `ORC-UOV7GL4ZQ6` |  |
+| 790.15 | polymorphic: Pd20Sn13 = δ\_Pd3Sn2 | Pd20Sn13: Sn 0.41; δ\_Pd3Sn2: Sn 0.41 | model | [1] Cui 2020 | Table 4, p. 8, row 7; `ORC-EZWNVLIULR` |  |
 | 785.85 | Pd20Sn13 = δ\_Pd3Sn2 + PdSn | Pd20Sn13: Sn 0.4101; δ\_Pd3Sn2: Sn 0.41; PdSn: Sn 0.5 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 8, row 2; `ORC-LW4JJAQX7A` |  |
-| 785.85 | Pd20Sn13 = δ\_Pd3Sn2 | Pd20Sn13: Sn 0.41; δ\_Pd3Sn2: Sn 0.41 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 8, row 6; `ORC-MJVWTC2GXA` |  |
+| 785.85 | polymorphic: Pd20Sn13 = δ\_Pd3Sn2 | Pd20Sn13: Sn 0.41; δ\_Pd3Sn2: Sn 0.41 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 8, row 6; `ORC-MJVWTC2GXA` |  |
 | 784.15 | Pd20Sn13 = δ\_Pd3Sn2 + PdSn | Pd20Sn13: Sn 0.412; δ\_Pd3Sn2: Sn 0.41; PdSn: Sn 0.5 | model | [1] Cui 2020 | Table 4, p. 8, row 3; `ORC-UDRGWOAWVI` |  |
 | 783.15 | Pd20Sn13 = δ\_Pd3Sn2 + PdSn | Pd20Sn13: Sn 0.412; δ\_Pd3Sn2: Sn 0.41; PdSn: Sn 0.5 | experimental | [1] Cui 2020; _cites Sarah 1981_ | Table 4, p. 8, row 1; `ORC-426IS52ILC` |  |
 | 783.15 | Pd20Sn13 = δ\_Pd3Sn2 + PdSn | Pd20Sn13: Sn 0.414; δ\_Pd3Sn2: Sn 0.41; PdSn: Sn 0.5 | model | [1] Cui 2020 | Table 4, p. 8, row 4; `ORC-HC4NHTQBDS` |  |
@@ -194,11 +194,11 @@ Table: Invariant reactions reported in the literature for the Pd–Sn system (10
 | 505.15 | Liquid = PdSn4 + (β\_Sn) | PdSn4: Sn 0.799; (β\_Sn): Sn 1; Liquid: Sn 0.999 | model | [1] Cui 2020 | Table 4, p. 7, row 53; `ORC-76VPU7SKJX` |  |
 | 504.15 | Liquid = PdSn4 + (β\_Sn) | PdSn4: Sn 0.799; (β\_Sn): Sn 1; Liquid: Sn 0.996 | model | [1] Cui 2020 | Table 4, p. 7, row 52; `ORC-GAIFWWLCPB` |  |
 | 504.15 | Liquid = PdSn4 + (β\_Sn) | PdSn4: Sn 0.799; (β\_Sn): Sn 1; Liquid: Sn 0.996 | model | [1] Cui 2020; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0191-9) | Table 4, p. 7, row 51; `ORC-Y42UATBUZ3` |  |
-| 504 | L -> (Sn) + PdSn4 | L: Sn 0.9955; (Sn): Sn 1; PdSn4: Sn 0.7992 | model | [2] Ghosh 1999 | Table III, p. 7, row 9; `ORC-XRLT7DU26L` |  |
+| 504 | eutectic: L -> (Sn) + PdSn4 | L: Sn 0.9955; (Sn): Sn 1; PdSn4: Sn 0.7992 | model | [2] Ghosh 1999 | Table III, p. 7, row 9; `ORC-XRLT7DU26L` |  |
 | 503.15 | Liquid = PdSn4 + (β\_Sn) | PdSn4: Sn 0.8; (β\_Sn): Sn 1; Liquid: Sn 0.99 | experimental | [1] Cui 2020; _cites Schubert 1959_ | Table 4, p. 7, row 50; `ORC-SATINXGHYO` |  |
-| 503 | L -> (Sn) + PdSn4 | L: Sn 1; (Sn): Sn 1; PdSn4: Sn 0.8 | experimental | [2] Ghosh 1999; _cites Schubert 1959_ [doi](https://doi.org/10.1515/ijmr-1959-500907) | Table III, p. 7, row 8; `ORC-MB3CUYLD6G` |  |
+| 503 | eutectic: L -> (Sn) + PdSn4 | L: Sn 1; (Sn): Sn 1; PdSn4: Sn 0.8 | experimental | [2] Ghosh 1999; _cites Schubert 1959_ [doi](https://doi.org/10.1515/ijmr-1959-500907) | Table III, p. 7, row 8; `ORC-MB3CUYLD6G` |  |
 | 502.15 | Liquid = PdSn4 + (β\_Sn) | PdSn4: Sn 0.8; (β\_Sn): Sn 1; Liquid: Sn 0.99 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 49; `ORC-7H3BEHWGQL` |  |
-| 502 | L -> (Sn) + PdSn4 | L: Sn 1; (Sn): Sn 1 | experimental | [2] Ghosh 1999; _cites Knight 1999_ | Table III, p. 7, row 7; `ORC-6HPKEVWW5O` |  |
+| 502 | eutectic: L -> (Sn) + PdSn4 | L: Sn 1; (Sn): Sn 1 | experimental | [2] Ghosh 1999; _cites Knight 1999_ | Table III, p. 7, row 7; `ORC-6HPKEVWW5O` |  |
 
 ## Formation enthalpies
 

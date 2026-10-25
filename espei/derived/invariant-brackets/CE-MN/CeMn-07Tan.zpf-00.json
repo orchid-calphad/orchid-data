@@ -80,7 +80,7 @@
     "x0": 0.161,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> (γCe) + (αMn)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

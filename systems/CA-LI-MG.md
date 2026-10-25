@@ -1,10 +1,10 @@
 # Ca–Li–Mg system
 
-> Ca–Li–Mg system: 3 accepted literature values (invariant reaction 2, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Li–Mg system: 2 accepted literature values (invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-LI-MG.html · Markdown: https://data.orchid-project.org/systems/CA-LI-MG.md
 
-3 accepted literature values from 1 paper(s) (experimental 1, model 2); 0 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (model 2); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-LI-MG.json) · [CSV](https://data.orchid-project.org/systems/CA-LI-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-LI-MG) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-LI-MG.html) · [Markdown](https://data.orchid-project.org/systems/CA-LI-MG.md)
 
@@ -12,7 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
 | model | 2 |
 
 Table: Accepted values by property group
@@ -20,7 +19,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 2 |
-| phase transition | 1 |
 
 ## Invariant reactions (literature)
 
@@ -30,16 +28,6 @@ Table: Invariant reactions reported in the literature for the Ca–Li–Mg syste
 |---:|---|---|---|---|---|---|
 | 764.15 | eutectic: L = (Mg) + (Li) + Ca(Li,Mg)2 |  | model | [1] Gröbner 2002 | Table 3, p. 7, row 1; `ORC-5ATLIEKTNM` |  |
 | 664.15 | quasi-peritectic: βCa + Ca(Li,Mg)2 = αCa + L |  | model | [1] Gröbner 2002 | Table 3, p. 7, row 2; `ORC-TVQG7B2I52` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ca–Li–Mg system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 873.15 K | 873.15 | other | experimental | [1] Gröbner 2002 | p. 5; `ORC-HSMIBHM73M` | “The solidus temperature of this alloy was taken from the heating peak onset at about 600 C 20 K.” |
 
 ## Sources
 

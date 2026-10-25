@@ -96,7 +96,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-ti:a5-bct)
 
 Names (9): _corpus: _corpus:phase:sn-ti:a5-bct, corpus:phase:sn-ti:bct-a5  
-_paper: _paper:10.1016/j.calphad.2007.01.003:(Sn), paper:10.1016/s0364-5916(98)00037-6:bct-A5  
+_paper: _paper:10.1016/j.calphad.2007.01.003:(Sn), paper:sha256-85fd53a1a176b694:bct-A5  
 _tdb: _tdb:SnTi-05Liu.tdb:BCT_A5, tdb:SnTi-07Yin.tdb:BCT_A5, tdb:SnTi-11Wan.tdb:BCT_A5, tdb:SnTi-19Tan.tdb:BCT_A5, tdb:SnTi-98Hay-LB.tdb:BCT_A5  
 
 
@@ -137,7 +137,7 @@ _tdb: _tdb:SnTi-05Liu.tdb:BCT_A5, tdb:SnTi-07Yin.tdb:BCT_A5, tdb:SnTi-11Wan.tdb:
 48: CONST BCT_A5 : SN% TI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2007.01.003](https://doi.org/10.1016/j.calphad.2007.01.003) Fucheng Yin, Jean-Claude Tedenac, Franck Gascoin, Thermodynamic modelling of the Ti–Sn system and calculation of the Co–Ti–Sn system, Calphad 31, 370-379 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -147,8 +147,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101686](https://doi.org/10.1016/j.calphad.2019.101686) J. Tan, G. Xu, X. Tao, F. Chen, Y. Cui, L. Zhou, Calphad, 67, 101686(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_A2 (Sn–Ti)
 
@@ -159,7 +157,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-ti:bcc-a2)
 
 Names (7): _corpus: _corpus:phase:sn-ti:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:SnTi-05Liu.tdb:BCC_A2, tdb:SnTi-07Yin.tdb:BCC_A2, tdb:SnTi-11Wan.tdb:BCC_A2, tdb:SnTi-19Tan.tdb:BCC_A2, tdb:SnTi-98Hay-LB.tdb:BCC_A2  
 
 
@@ -200,7 +198,7 @@ _tdb: _tdb:SnTi-05Liu.tdb:BCC_A2, tdb:SnTi-07Yin.tdb:BCC_A2, tdb:SnTi-11Wan.tdb:
 33: CONST BCC_A2 : SN TI% : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s00706-005-0392-x](https://doi.org/10.1007/s00706-005-0392-x) Chunlei Liu, Ulrich E. Klotz, Peter J. Uggowitzer, Jörg F. Löffler, Thermodynamic Assessment of the Sn–Ti System, Monatsh. Chem. 136, 1921-1930 (2005).  
 _assessment that models this phase_
@@ -210,8 +208,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101686](https://doi.org/10.1016/j.calphad.2019.101686) J. Tan, G. Xu, X. Tao, F. Chen, Y. Cui, L. Zhou, Calphad, 67, 101686(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Sn–Ti)
 
@@ -282,7 +278,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-ti:hcp-a3)
 
 Names (7): _corpus: _corpus:phase:sn-ti:hcp-a3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:SnTi-05Liu.tdb:HCP_A3, tdb:SnTi-07Yin.tdb:HCP_A3, tdb:SnTi-11Wan.tdb:HCP_A3, tdb:SnTi-19Tan.tdb:HCP_A3, tdb:SnTi-98Hay-LB.tdb:HCP_A3  
 
 
@@ -323,7 +319,7 @@ _tdb: _tdb:SnTi-05Liu.tdb:HCP_A3, tdb:SnTi-07Yin.tdb:HCP_A3, tdb:SnTi-11Wan.tdb:
 38: CONST HCP_A3 : SN TI% : VA: !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s00706-005-0392-x](https://doi.org/10.1007/s00706-005-0392-x) Chunlei Liu, Ulrich E. Klotz, Peter J. Uggowitzer, Jörg F. Löffler, Thermodynamic Assessment of the Sn–Ti System, Monatsh. Chem. 136, 1921-1930 (2005).  
 _assessment that models this phase_
@@ -333,8 +329,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101686](https://doi.org/10.1016/j.calphad.2019.101686) J. Tan, G. Xu, X. Tao, F. Chen, Y. Cui, L. Zhou, Calphad, 67, 101686(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Sn–Ti)
 
@@ -345,7 +339,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-ti:liquid)
 
 Names (9): _corpus: _corpus:phase:sn-ti:liquid  
-_paper: _paper:10.1016/j.calphad.2007.01.003:L, paper:10.1016/j.calphad.2007.01.003:liquid, paper:10.1016/s0364-5916(98)00037-6:L  
+_paper: _paper:10.1016/j.calphad.2007.01.003:L, paper:10.1016/j.calphad.2007.01.003:liquid, paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:SnTi-05Liu.tdb:LIQUID, tdb:SnTi-07Yin.tdb:LIQUID, tdb:SnTi-11Wan.tdb:LIQUID, tdb:SnTi-19Tan.tdb:LIQUID, tdb:SnTi-98Hay-LB.tdb:LIQUID  
 
 
@@ -386,7 +380,7 @@ _tdb: _tdb:SnTi-05Liu.tdb:LIQUID, tdb:SnTi-07Yin.tdb:LIQUID, tdb:SnTi-11Wan.tdb:
 23: CONST LIQUID:L : SN TI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2007.01.003](https://doi.org/10.1016/j.calphad.2007.01.003) Fucheng Yin, Jean-Claude Tedenac, Franck Gascoin, Thermodynamic modelling of the Ti–Sn system and calculation of the Co–Ti–Sn system, Calphad 31, 370-379 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -396,8 +390,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101686](https://doi.org/10.1016/j.calphad.2019.101686) J. Tan, G. Xu, X. Tao, F. Chen, Y. Cui, L. Zhou, Calphad, 67, 101686(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/j.jallcom.2005.04.010](https://doi.org/10.1016/j.jallcom.2005.04.010) A.A. Bondar, T.Ya. Velikanova, D.B. Borysov, L.V. Artyukh, O.O. Bilous, M.P. Burka et al., Titanium-boride eutectic materials: Phase equilibria and properties of alloys in the Ti-rich portion of the Ti–Sn–B system, Journal of Alloys and Compounds 400, 202-208 (2005).  
 _cited as the source of values for this phase_
 
@@ -467,7 +459,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-ti:sn3ti5-d88)
 
 Names (8): _corpus: _corpus:phase:sn-ti:sn3ti5-d88  
-_paper: _paper:10.1016/j.calphad.2007.01.003:Ti5Sn3, paper:10.1016/s0364-5916(98)00037-6:Sn3Ti5  
+_paper: _paper:10.1016/j.calphad.2007.01.003:Ti5Sn3, paper:sha256-85fd53a1a176b694:Sn3Ti5  
 _tdb: _tdb:SnTi-05Liu.tdb:SN3TI5_D88, tdb:SnTi-07Yin.tdb:SN3TI5_D88, tdb:SnTi-11Wan.tdb:SN3TI5_D88, tdb:SnTi-19Tan.tdb:SN3TI5_D88, tdb:SnTi-98Hay-LB.tdb:SN3TI5_D88  
 
 
@@ -508,7 +500,7 @@ _tdb: _tdb:SnTi-05Liu.tdb:SN3TI5_D88, tdb:SnTi-07Yin.tdb:SN3TI5_D88, tdb:SnTi-11
 58: CONST SN3TI5_D88 : SN : TI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2007.01.003](https://doi.org/10.1016/j.calphad.2007.01.003) Fucheng Yin, Jean-Claude Tedenac, Franck Gascoin, Thermodynamic modelling of the Ti–Sn system and calculation of the Co–Ti–Sn system, Calphad 31, 370-379 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -518,8 +510,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101686](https://doi.org/10.1016/j.calphad.2019.101686) J. Tan, G. Xu, X. Tao, F. Chen, Y. Cui, L. Zhou, Calphad, 67, 101686(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SN5TI6 (Sn–Ti)
 
@@ -533,7 +523,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-ti:sn5ti6)
 
 Names (7): _corpus: _corpus:phase:sn-ti:sn5ti6  
-_paper: _paper:10.1016/j.calphad.2007.01.003:Ti6Sn5, paper:10.1016/s0364-5916(98)00037-6:Sn5Ti6  
+_paper: _paper:10.1016/j.calphad.2007.01.003:Ti6Sn5, paper:sha256-85fd53a1a176b694:Sn5Ti6  
 _tdb: _tdb:SnTi-07Yin.tdb:SN5TI6, tdb:SnTi-11Wan.tdb:SN5TI6, tdb:SnTi-19Tan.tdb:SN5TI6, tdb:SnTi-98Hay-LB.tdb:SN5TI6  
 
 
@@ -567,7 +557,7 @@ _tdb: _tdb:SnTi-07Yin.tdb:SN5TI6, tdb:SnTi-11Wan.tdb:SN5TI6, tdb:SnTi-19Tan.tdb:
 53: CONST SN5TI6 : SN : TI : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2007.01.003](https://doi.org/10.1016/j.calphad.2007.01.003) Fucheng Yin, Jean-Claude Tedenac, Franck Gascoin, Thermodynamic modelling of the Ti–Sn system and calculation of the Co–Ti–Sn system, Calphad 31, 370-379 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -575,8 +565,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101686](https://doi.org/10.1016/j.calphad.2019.101686) J. Tan, G. Xu, X. Tao, F. Chen, Y. Cui, L. Zhou, Calphad, 67, 101686(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SN5TI6_ALPHA (Sn–Ti)
 
@@ -646,7 +634,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-ti:snti2-b82)
 
 Names (8): _corpus: _corpus:phase:sn-ti:snti2-b82  
-_paper: _paper:10.1016/j.calphad.2007.01.003:Ti2Sn, paper:10.1016/s0364-5916(98)00037-6:SnTi2  
+_paper: _paper:10.1016/j.calphad.2007.01.003:Ti2Sn, paper:sha256-85fd53a1a176b694:SnTi2  
 _tdb: _tdb:SnTi-05Liu.tdb:SNTI2_B82, tdb:SnTi-07Yin.tdb:SNTI2_B82, tdb:SnTi-11Wan.tdb:SNTI2_B82, tdb:SnTi-19Tan.tdb:SNTI2_B82, tdb:SnTi-98Hay-LB.tdb:SNTI2_B82  
 
 
@@ -687,7 +675,7 @@ _tdb: _tdb:SnTi-05Liu.tdb:SNTI2_B82, tdb:SnTi-07Yin.tdb:SNTI2_B82, tdb:SnTi-11Wa
 63: CONST SNTI2_B82 : SN : TI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2007.01.003](https://doi.org/10.1016/j.calphad.2007.01.003) Fucheng Yin, Jean-Claude Tedenac, Franck Gascoin, Thermodynamic modelling of the Ti–Sn system and calculation of the Co–Ti–Sn system, Calphad 31, 370-379 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -697,8 +685,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101686](https://doi.org/10.1016/j.calphad.2019.101686) J. Tan, G. Xu, X. Tao, F. Chen, Y. Cui, L. Zhou, Calphad, 67, 101686(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SNTI3_D019 (Sn–Ti)
 
@@ -713,7 +699,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-ti:snti3-d019)
 
 Names (8): _corpus: _corpus:phase:sn-ti:snti3-d019  
-_paper: _paper:10.1016/j.calphad.2007.01.003:Ti3Sn, paper:10.1016/s0364-5916(98)00037-6:SnTi3  
+_paper: _paper:10.1016/j.calphad.2007.01.003:Ti3Sn, paper:sha256-85fd53a1a176b694:SnTi3  
 _tdb: _tdb:SnTi-05Liu.tdb:SNTI3_D019, tdb:SnTi-07Yin.tdb:SNTI3_D019, tdb:SnTi-11Wan.tdb:SNTI3_D019, tdb:SnTi-19Tan.tdb:SNTI3_D019, tdb:SnTi-98Hay-LB.tdb:SNTI3_D019  
 
 
@@ -754,7 +740,7 @@ _tdb: _tdb:SnTi-05Liu.tdb:SNTI3_D019, tdb:SnTi-07Yin.tdb:SNTI3_D019, tdb:SnTi-11
 68: CONST SNTI3_D019 : SN% TI : SN TI% : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2007.01.003](https://doi.org/10.1016/j.calphad.2007.01.003) Fucheng Yin, Jean-Claude Tedenac, Franck Gascoin, Thermodynamic modelling of the Ti–Sn system and calculation of the Co–Ti–Sn system, Calphad 31, 370-379 (2007).  
 _assessment that models this phase; reports values for this phase_
@@ -764,8 +750,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101686](https://doi.org/10.1016/j.calphad.2019.101686) J. Tan, G. Xu, X. Tao, F. Chen, Y. Cui, L. Zhou, Calphad, 67, 101686(2019).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/j.jallcom.2005.04.010](https://doi.org/10.1016/j.jallcom.2005.04.010) A.A. Bondar, T.Ya. Velikanova, D.B. Borysov, L.V. Artyukh, O.O. Bilous, M.P. Burka et al., Titanium-boride eutectic materials: Phase equilibria and properties of alloys in the Ti-rich portion of the Ti–Sn–B system, Journal of Alloys and Compounds 400, 202-208 (2005).  
 _cited as the source of values for this phase_
 

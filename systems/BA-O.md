@@ -1,10 +1,10 @@
 # Ba–O system
 
-> Ba–O system: 41 accepted literature values (formation 14, heat capacity / entropy / enthalpy 12, phase transition 10, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–O system: 36 accepted literature values (formation 14, heat capacity / entropy / enthalpy 12, phase transition 6, invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-O.html · Markdown: https://data.orchid-project.org/systems/BA-O.md
 
-41 accepted literature values from 2 paper(s) (experimental 20, model 21); 1 calculated phase diagram(s). 38 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+36 accepted literature values from 2 paper(s) (experimental 17, model 19); 1 calculated phase diagram(s). 43 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-O.json) · [CSV](https://data.orchid-project.org/systems/BA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-O/BaO-95Zim.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BA-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-O.html) · [Markdown](https://data.orchid-project.org/systems/BA-O.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
-| model | 21 |
+| experimental | 17 |
+| model | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
-| phase transition | 10 |
+| invariant reaction | 4 |
+| phase transition | 6 |
 | formation | 14 |
 | heat capacity / entropy / enthalpy | 12 |
 
@@ -47,12 +47,11 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ba–O system (5)
+Table: Invariant reactions reported in the literature for the Ba–O system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1630 | eutectic: Liquid -> BaO + gas | L: O 0.575; BaO: O 0.506; gas: O 1 | model | [1] Zhou 2005 | Table III, p. 6, row 4; `ORC-5VOTELIQUU.05c48a` |  |
-| 1350 | peritectic |  | model | [2] Zimmermann 1995 | p. 4; `ORC-U3SEWHKYQA` | “In order to keep the data set as simple as possible for this composition range a peritectic temperature of 1350K was assumed.” |
 | 1096 | peritectic: BaO + gas -> BaO2 | BaO: O 0.509; gas: O 1; BaO2: O 0.618 | model | [1] Zhou 2005 | Table III, p. 6, row 6; `ORC-VIJAKKUMXZ.63c195` |  |
 | 1096 | peritectic: BaO + gas -> BaO2 | BaO: O 0.509; gas: O 1; BaO2: O 0.624 | model | [1] Zhou 2005 | Table III, p. 6, row 5; `ORC-VIJAKKUMXZ.d1d903` |  |
 | 842 | eutectic: Liquid -> bcc + BaO | L: O 0.1; bcc: O 0; BaO: O 0.5 | model | [1] Zhou 2005 | Table III, p. 6, row 7; `ORC-NPVYXNYEIF` |  |
@@ -82,18 +81,14 @@ Table: Enthalpies of formation, Ba–O system (14)
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (6)
 
 Table: Phase transition, Ba–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1600 K | 1600 | other | model | [2] Zimmermann 1995; _cites ref. 85Cha_ | p. 4; `ORC-S5QMEHUUA3` | “Assuming a glass transition temperature of 1600K \[85Cha\] and Ck=Ci for T \< T,, one obtains the data set for BaOL with Hrg8, !& and C, as given in Table 2 and with Gibbs energy coefficients as given in Table 3.” |
-| Phase transition | 2196 K | 2196 |  | experimental | [2] Zimmermann 1995; _cites ref. 26Sch_ | p. 4; `ORC-LXJYOCK2ZG.a93677` | “The melting point of pure stoichiometric BaO has been measured to be 2196K \[26Sch\], 2273K \[02Moi\] and 2286K \[65Foe\].” |
 | Phase transition | 2197 K | 2197 | liquid | experimental | [1] Zhou 2005; _cites Schriel 1937_ | p. 1; `ORC-K6V2TQFZQZ.eb7d6f` | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
-| Phase transition | 2273 K | 2273 |  | experimental | [2] Zimmermann 1995; _cites ref. 02Moi_ | p. 4; `ORC-LXJYOCK2ZG.02d38c` | “The melting point of pure stoichiometric BaO has been measured to be 2196K \[26Sch\], 2273K \[02Moi\] and 2286K \[65Foe\].” |
 | Phase transition | 2273 K | 2273 | liquid | experimental | [1] Zhou 2005; _cites Foex 1965_ | p. 1; `ORC-K6V2TQFZQZ.c0f4b7` | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
-| Phase transition | 2286 K | 2286 |  | experimental | [2] Zimmermann 1995; _cites ref. 65Foe_ | p. 4; `ORC-LXJYOCK2ZG.739ccc` | “The melting point of pure stoichiometric BaO has been measured to be 2196K \[26Sch\], 2273K \[02Moi\] and 2286K \[65Foe\].” |
 | Phase transition | 2286 K | 2286 | liquid | experimental | [1] Zhou 2005; _cites Schumacher 1926_ | p. 1; `ORC-K6V2TQFZQZ.90116d` | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
 | Phase transition | 2287 K | 2287 | congruent melting: Liquid -> BaO; _L: O 0.5; BaO: O 0.5_ | model | [1] Zhou 2005 | Table III, p. 6, row 2; `ORC-IGD53MEIHM` |  |
 | Phase transition | 2290 K | 2290 | liquid | experimental | [1] Zhou 2005; _cites Moissan 1902_ | p. 1; `ORC-K6V2TQFZQZ.1fb732` | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |

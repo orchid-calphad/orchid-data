@@ -27,7 +27,7 @@ Table: Uncertainty budget of the literature values of EuNi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -15.6 | kJ/mol (basis unstated) |  | 0.05 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -15.6 | kJ/mol (basis unstated) |  | 0.05 | 9.6 (solution_reaction_calorimetry, calibrated) |  |  |  | 9.6 |
 | -16.36 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -16.36 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -16.22 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |

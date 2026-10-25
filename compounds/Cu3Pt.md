@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Cu3Pt.html · Markdown: https://data.orchid-project.org/compounds/Cu3Pt.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 1, model 4, DFT 1); experimental median -10.8 kJ/mol-atom (n = 1); Materials Project -13.404 kJ/mol-atom (mp-aaaaarww); OQMD -13.595 kJ/mol-atom (oqmd-29766).
+6 accepted literature formation-enthalpy value(s) (experimental 1, model 3, DFT 2); experimental median -10.8 kJ/mol-atom (n = 1); Materials Project -13.404 kJ/mol-atom (mp-aaaaarww); OQMD -13.595 kJ/mol-atom (oqmd-29766).
 
 Systems: [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html)
 
@@ -15,10 +15,10 @@ Table: Enthalpy of formation of Cu3Pt reported in the literature (6)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -10.8 kJ/mol-atom | L12-Cu3Pt | 298.15 | experimental | Exp. | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Meschel 2006_ | Table 2, p. 7, row 5; `ORC-XZY5MJMHQE` |  |
-| -14 kJ/mol-atom | L12-Cu3Pt |  | model | LMTO | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.79b506` |  |
 | -13 kJ/mol-atom | L12-Cu3Pt |  | model | Miedema | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites FR 1988_ | Table 2, p. 7, row 4; `ORC-BUGOBEY2SA.2c5368` |  |
 | -11 kJ/mol-atom | L12-Cu3Pt |  | model | ASW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3; `ORC-DGXLGCDH4A.c8d9d8` |  |
 | -11 kJ/mol-atom | L12-Cu3Pt |  | model |  | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006 | Table 2, p. 7, row 7; `ORC-X346LL47CP.434514` |  |
+| -14 kJ/mol-atom | L12-Cu3Pt |  | DFT | LMTO | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.79b506` |  |
 | -11.2 kJ/mol-atom | L12-Cu3Pt |  | DFT | LAPW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2; `ORC-K7FCATJG6W.806c89` |  |
 
 ### Uncertainty budget
@@ -30,11 +30,11 @@ Table: Uncertainty budget of the literature values of Cu3Pt
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -10.8 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -14 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -13 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -11 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -11 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -11.2 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -14 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -11.2 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

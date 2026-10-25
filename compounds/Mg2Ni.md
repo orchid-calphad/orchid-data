@@ -41,11 +41,11 @@ Table: Uncertainty budget of the literature values of Mg2Ni
 | -48.46 | kJ/mol (basis unstated) |  | 0.005 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 | -39.57 | kJ/mol (basis unstated) | 1.26 | 0.005 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 | -36.36 | kJ/mol (basis unstated) | 6.24 | 0.005 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
-| -20.06 | kJ/mol-atom |  | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -19.23 | kJ/mol-atom |  | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -20.06 | kJ/mol-atom |  | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -19.23 | kJ/mol-atom |  | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -16.13 | kJ/mol-atom |  | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -14.2 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -13.59 | kJ/mol-atom |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -14.2 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -13.59 | kJ/mol-atom |  | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -56.29 | kJ/mol (basis unstated) | 5.23 | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -35.555 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -16.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

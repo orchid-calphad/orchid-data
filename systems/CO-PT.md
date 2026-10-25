@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/CO-PT.html · Markdown: https://data.orchid-project.org/systems/CO-PT.md
 
-18 accepted literature values from 1 paper(s) (experimental 10, model 8); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+18 accepted literature values from 1 paper(s) (experimental 10, model 2, DFT 6); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-PT.json) · [CSV](https://data.orchid-project.org/systems/CO-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-PT/CoPt-01Oik.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CO-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-PT.html) · [Markdown](https://data.orchid-project.org/systems/CO-PT.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 10 |
-| model | 8 |
+| model | 2 |
+| DFT | 6 |
 
 Table: Accepted values by property group
 
@@ -59,7 +60,7 @@ Table: Enthalpies of formation, Co–Pt system (3)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | CoPt |  | -13.6 per mol-atom ± 0.7 | 914 | experimental |  |  | [1] Kim 2011; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | Table 2, p. 3, row 16; `ORC-GIYTSCDO2K.8b23fd` |  |
-| CoPt | [CoPt](https://data.orchid-project.org/compounds/CoPt.html) | -12.265 kJ/mol-atom | 914 | model | -8.269 (mp-aaaaabkn) | -9.462 (oqmd-29449) | [1] Kim 2011 | Table 2, p. 3, row 15; `ORC-SM7S5KGROG` |  |
+| CoPt |  | -12.265 kJ/mol-atom | 914 | DFT |  |  | [1] Kim 2011 | Table 2, p. 3, row 15; `ORC-SM7S5KGROG` |  |
 | CoPt3 |  | -12.8 per mol-atom ± 1.63 | 914 | experimental |  |  | [1] Kim 2011; _cites Oriani 1962_ [doi](https://doi.org/10.1016/0001-6160%2862%2990102-5) | Table 2, p. 3, row 16; `ORC-GIYTSCDO2K.e42b94` |  |
 
 ## Other properties
@@ -80,7 +81,7 @@ Table: Mixing / partial, Co–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -8.651 kJ/mol-atom | 300 | Co3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011 | Table 2, p. 3, row 17; `ORC-LBIEX7D7TT` |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -8.651 kJ/mol-atom | 300 | Co3Pt; _alloy: Pt 0.25_ | DFT | [1] Kim 2011 | Table 2, p. 3, row 17; `ORC-LBIEX7D7TT` |  |
 
 ### Crystal structure (10)
 
@@ -88,14 +89,14 @@ Table: Crystal structure, Co–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.654 Å |  | Co3Pt; _alloy: Pt 0.25_ | model | [1] Kim 2011 | Table 2, p. 3, row 1; `ORC-V27RV5CYCF.db7e95` |  |
+| Lattice a; _printed: a_ | 3.654 Å |  | Co3Pt; _alloy: Pt 0.25_ | DFT | [1] Kim 2011 | Table 2, p. 3, row 1; `ORC-V27RV5CYCF.db7e95` |  |
 | Lattice a; _printed: a_ | 3.664 Å |  | Co3Pt; _alloy: Pt 0.25_ | experimental | [1] Kim 2011; _cites Capitan 1999_ [doi](https://doi.org/10.1107/s0021889899009887) | Table 2, p. 3, row 2; `ORC-XUMWTQJRL4.cccfc6` |  |
 | Lattice a; _printed: a_ | 3.806 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 2, p. 3, row 3; `ORC-JHEHM3DFYG` |  |
-| Lattice a; _printed: a_ | 3.809 Å |  | CoPt; _alloy: Pt 0.5_ | model | [1] Kim 2011 | Table 2, p. 3, row 1; `ORC-V27RV5CYCF.4fde13` |  |
+| Lattice a; _printed: a_ | 3.809 Å |  | CoPt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 2, p. 3, row 1; `ORC-V27RV5CYCF.4fde13` |  |
 | Lattice a; _printed: a_ | 3.811 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Capitan 1999_ [doi](https://doi.org/10.1107/s0021889899009887) | Table 2, p. 3, row 2; `ORC-XUMWTQJRL4.784e91` |  |
-| Lattice a; _printed: a_ | 3.885 Å |  | CoPt3; _alloy: Pt 0.75_ | model | [1] Kim 2011 | Table 2, p. 3, row 1; `ORC-V27RV5CYCF.4ba2a2` |  |
+| Lattice a; _printed: a_ | 3.885 Å |  | CoPt3; _alloy: Pt 0.75_ | DFT | [1] Kim 2011 | Table 2, p. 3, row 1; `ORC-V27RV5CYCF.4ba2a2` |  |
 | Lattice a; _printed: a_ | 3.857 Å |  | CoPt3; _alloy: Pt 0.75_ | experimental | [1] Kim 2011; _cites Capitan 1999_ [doi](https://doi.org/10.1107/s0021889899009887) | Table 2, p. 3, row 2; `ORC-XUMWTQJRL4.b745c8` |  |
-| Lattice c; _printed: c_ | 3.708 Å |  | CoPt; _alloy: Pt 0.5_ | model | [1] Kim 2011 | Table 2, p. 3, row 4; `ORC-DMUHJZNF4E` |  |
+| Lattice c; _printed: c_ | 3.708 Å |  | CoPt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 2, p. 3, row 4; `ORC-DMUHJZNF4E` |  |
 | Lattice c; _printed: c_ | 3.684 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 2, p. 3, row 6; `ORC-FVDHWTECZC` |  |
 | Lattice c; _printed: c_ | 3.694 Å |  | CoPt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 2, p. 3, row 5; `ORC-VNZGPGSBDD` |  |
 

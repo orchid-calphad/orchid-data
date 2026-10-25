@@ -1,10 +1,10 @@
 # Al–Se system
 
-> Al–Se system: 19 accepted literature values (phase transition 6, formation 5, invariant reaction 5, crystal structure 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Se system: 13 accepted literature values (formation 5, invariant reaction 5, crystal structure 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SE.html · Markdown: https://data.orchid-project.org/systems/AL-SE.md
 
-19 accepted literature values from 1 paper(s) (experimental 7, model 8, DFT 2, unspecified 2); 1 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 5, model 4, DFT 2, unspecified 2); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SE.json) · [CSV](https://data.orchid-project.org/systems/AL-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SE/AlSe-19Shi.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AL-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SE.html) · [Markdown](https://data.orchid-project.org/systems/AL-SE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
-| model | 8 |
+| experimental | 5 |
+| model | 4 |
 | DFT | 2 |
 | unspecified | 2 |
 
@@ -22,7 +22,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase transition | 6 |
 | formation | 5 |
 | crystal structure | 3 |
 
@@ -74,19 +73,6 @@ Table: Enthalpies of formation, Al–Se system (5)
 | Al2Se3 |  | -81.24 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 13; `ORC-7YBWCZ57BP.7d3dba` |  |
 
 ## Other properties
-
-### Phase transition (6)
-
-Table: Phase transition, Al–Se system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 493.15 K | 493.15 | L ? (Se) ? Al3Se4 | experimental | [1] Shi 2019 | p. 4; `ORC-KFZY6BWLNW.7c5557` | “L ? (aAl) ? Al3Se4 and L ? (Se) ? Al3Se4, were determined to occur at about 660 C and 0.1 at.% Se and about 220 C and 99.9 at.% Se.” |
-| Phase transition | 494.05 K | 494.05 | L ? Al2Se3 ? (Se) | model | [1] Shi 2019 | p. 7; `ORC-WFAD7TO724.3e3b2b` | “In Fig. 5, the calculated invariant reactions L ? (Al) ? aAl2Se3 and L ? Al2Se3 ? (Se) lie at 651.1 C and 0.1 at.% Se and at 220.9 C and close to 100 at.% Se, respectively.” |
-| Phase transition | 924.25 K | 924.25 | L ? (Al) ? aAl2Se3 | model | [1] Shi 2019 | p. 7; `ORC-WFAD7TO724.28818d` | “In Fig. 5, the calculated invariant reactions L ? (Al) ? aAl2Se3 and L ? Al2Se3 ? (Se) lie at 651.1 C and 0.1 at.% Se and at 220.9 C and close to 100 at.% Se, respectively.” |
-| Phase transition | 933.15 K | 933.15 | L ? (aAl) ? Al3Se4 | experimental | [1] Shi 2019 | p. 4; `ORC-KFZY6BWLNW.309633` | “L ? (aAl) ? Al3Se4 and L ? (Se) ? Al3Se4, were determined to occur at about 660 C and 0.1 at.% Se and about 220 C and 99.9 at.% Se.” |
-| Phase transition | 1212.85 K | 1212.85 |  | model | [1] Shi 2019 | p. 7; `ORC-6V35TVMHOP` | “The calculated melting temperature of Al2Se3 is 939.7 C.” |
-| Phase transition | 1213.15 K | 1213.15 |  | model | [1] Shi 2019 | p. 7; `ORC-OEKRCE3YPY` | “In Fig. 6, the calculated melting temperature of Al2Se3 is 940.0 C.” |
 
 ### Crystal structure (3)
 

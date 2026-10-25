@@ -1,26 +1,12 @@
 # Am–Pu system
 
-> Am–Pu system: 12 accepted literature values (phase transition 7, invariant reaction 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Am–Pu system: 0 accepted literature values (none) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AM-PU.html · Markdown: https://data.orchid-project.org/systems/AM-PU.md
 
-12 accepted literature values from 1 paper(s) (experimental 1, model 11); 4 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 4 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AM-PU.json) · [CSV](https://data.orchid-project.org/systems/AM-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AM-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-PU/AmPu-10Kur.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AM-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AM-PU.html) · [Markdown](https://data.orchid-project.org/systems/AM-PU.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-| model | 11 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 5 |
-| phase transition | 7 |
 
 ## Calculated phase diagrams
 
@@ -60,40 +46,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AmPu-93Oga.tdb | 397.62 | FCC_A1 (x(Pu) 0.9016) + ALPHA_PU (x(Pu) 1) + BETA_PU (x(Pu) 1) |
 
 Convex hulls: [CALPHAD hull AmPu-10Kur](https://data.orchid-project.org/hulls/calphad-sgte/AM/AM-PU--AmPu-10Kur.json) · [CALPHAD hull AmPu-11Tur](https://data.orchid-project.org/hulls/calphad-sgte/AM/AM-PU--AmPu-11Tur.json) · [CALPHAD hull AmPu-93Oga](https://data.orchid-project.org/hulls/calphad-sgte/AM/AM-PU--AmPu-93Oga.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Am–Pu system (5)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1399.15 | peritectic: (d-Pu) ? Liquid + (c-Am) |  | model | [1] Turchi 2011 | p. 7; `ORC-77SW4BHLWP` | “It is also important to note that to insure compatibility with the existence of the high-temperature allotrope of Am (c-Am or bcc), a second peritectic reaction should take place on the Am-rich side of the phase diagram, namely (d-Pu) ? Liquid + (c-Am) at 1126 °C with compositions (in at.% Pu) of 7.7, 9.2, and 6.7, respectively, as illustrated in Fig. 11.” |
-| 943.15 | peritectic: (d-Pu) ? Liquid + (c-Am) |  | model | [1] Turchi 2011 | p. 7; `ORC-Y4FK3NTEI7` | “With these new RK parameters for the bcc solid solution, the peritectic reaction (d-Pu) ? Liquid + (c-Am) takes place at 670 °C with compositions (in at.% Pu) of 90.4, 96.0, and 94.6, respectively.” |
-| 938.15 | peritectic |  | experimental | [1] Turchi 2011; _cites Ellinger 1966_ [doi](https://doi.org/10.1016/0022-3115%2866%2990024-9) | p. 1; `ORC-4MAPSHUXOU` | “In the ''Ellinger'' version of the phase diagram, Fig. 1a, there is a peritectic reaction at about 665 °C: Liquid + d at the Pu edge of the phase diagram with a limited solubility of about 8 at.% Am in the bcc phase of Pu.” |
-| 409.15 | eutectoid |  | model | [1] Turchi 2011 | p. 7; `ORC-T4R3AILKXD` | “It is also worth noting that a small region of fcc miscibility gap, shown in the inset of Fig. 10 and mentioned in the previous paragraph, survives and leads to an eutectoid reaction at 136°C that involves two fcc phases and b-Pu.” |
-| 377.15 | eutectoid: (d-Pu, b-Am) ? (a-Pu) + (a-Am) |  | model | [1] Turchi 2011 | p. 7; `ORC-56FZUOMTHP` | “In the present case a low-lying eutectoid decomposition takes place according to the reaction (d-Pu, b-Am) ? (a-Pu) + (a-Am) at 104 °C with compositions (in at.% Pu) of 31.1, 100, and 2.2, respectively.” |
-
-## Other properties
-
-### Phase transition (7)
-
-Table: Phase transition, Am–Pu system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 397.15 K | 397.15 |  | model | [1] Turchi 2011; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-RB45QPWTGB.addba9` | “In the case of pure Pu, the six transitions, aPu (monoclinic) ? b-Pu (body-centered monoclinic) ? c-Pu (face-centered orthorhombic) ? d-Pu (fcc) ? d0 -Pu (body-centered tetragonal) ? -Pu (bcc) ? Liquid, are well described energetically with transition temperatures of 124, 215, 320, 463, 483, and 640 °C, respectively.” |
-| Phase transition | 453.15 K | 453.15 | other | model | [1] Turchi 2011 | p. 4; `ORC-G5L7TALDTC` | “Also, based on this assessment, although a phase separation tendency exists for the bcc phase of Am-Pu with a maximum temperature of about 180 °C for the metastable symmetric miscibility gap (see dashed line in Fig. 4), a tendency toward order is predicted for the fcc phase of Am-Pu, with a rather high and negative heat of mixing around equi-atomic composition, see Fig. 3.” |
-| Phase transition | 488.15 K | 488.15 |  | model | [1] Turchi 2011; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-RB45QPWTGB.f96d9c` | “In the case of pure Pu, the six transitions, aPu (monoclinic) ? b-Pu (body-centered monoclinic) ? c-Pu (face-centered orthorhombic) ? d-Pu (fcc) ? d0 -Pu (body-centered tetragonal) ? -Pu (bcc) ? Liquid, are well described energetically with transition temperatures of 124, 215, 320, 463, 483, and 640 °C, respectively.” |
-| Phase transition | 593.15 K | 593.15 |  | model | [1] Turchi 2011; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-RB45QPWTGB.c00009` | “In the case of pure Pu, the six transitions, aPu (monoclinic) ? b-Pu (body-centered monoclinic) ? c-Pu (face-centered orthorhombic) ? d-Pu (fcc) ? d0 -Pu (body-centered tetragonal) ? -Pu (bcc) ? Liquid, are well described energetically with transition temperatures of 124, 215, 320, 463, 483, and 640 °C, respectively.” |
-| Phase transition | 736.15 K | 736.15 |  | model | [1] Turchi 2011; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-RB45QPWTGB.4699c8` | “In the case of pure Pu, the six transitions, aPu (monoclinic) ? b-Pu (body-centered monoclinic) ? c-Pu (face-centered orthorhombic) ? d-Pu (fcc) ? d0 -Pu (body-centered tetragonal) ? -Pu (bcc) ? Liquid, are well described energetically with transition temperatures of 124, 215, 320, 463, 483, and 640 °C, respectively.” |
-| Phase transition | 756.15 K | 756.15 |  | model | [1] Turchi 2011; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-RB45QPWTGB.010aa4` | “In the case of pure Pu, the six transitions, aPu (monoclinic) ? b-Pu (body-centered monoclinic) ? c-Pu (face-centered orthorhombic) ? d-Pu (fcc) ? d0 -Pu (body-centered tetragonal) ? -Pu (bcc) ? Liquid, are well described energetically with transition temperatures of 124, 215, 320, 463, 483, and 640 °C, respectively.” |
-| Phase transition | 913.15 K | 913.15 |  | model | [1] Turchi 2011; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-RB45QPWTGB.2ec5b1` | “In the case of pure Pu, the six transitions, aPu (monoclinic) ? b-Pu (body-centered monoclinic) ? c-Pu (face-centered orthorhombic) ? d-Pu (fcc) ? d0 -Pu (body-centered tetragonal) ? -Pu (bcc) ? Liquid, are well described energetically with transition temperatures of 124, 215, 320, 463, 483, and 640 °C, respectively.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. P.E.A. Turchi, A.I. Landa, P.A. Söderlind, Thermodynamic assessment of the Am–Pu system with input from ab initio, Journal of Nuclear Materials 418, 165-173 (2011). [doi:10.1016/j.jnucmat.2011.06.034](https://doi.org/10.1016/j.jnucmat.2011.06.034)
 
 ## Please cite
 

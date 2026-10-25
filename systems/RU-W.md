@@ -1,10 +1,10 @@
 # Ru–W system
 
-> Ru–W system: 8 accepted literature values (invariant reaction 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ru–W system: 6 accepted literature values (invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RU-W.html · Markdown: https://data.orchid-project.org/systems/RU-W.md
 
-8 accepted literature values from 1 paper(s) (experimental 4, model 4); 1 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (experimental 3, model 3); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RU-W.json) · [CSV](https://data.orchid-project.org/systems/RU-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-W/RuW-21Zha.json) · [phases (5)](https://data.orchid-project.org/phases/pages/RU-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RU-W.html) · [Markdown](https://data.orchid-project.org/systems/RU-W.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
-| model | 4 |
+| experimental | 3 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
+| invariant reaction | 6 |
 
 ## Calculated phase diagrams
 
@@ -43,15 +43,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ru–W system (8)
+Table: Invariant reactions reported in the literature for the Ru–W system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2573.15 | peritectic: Liquid + bcc(W) -> σ(RuW) | L: W 0.58; bcc(W): W 0.77; σ(RuW): W 0.6 | experimental | [1] Zhang 2021; _cites ref. 22_ | Table 3, p. 8, row 2; `ORC-3AF7VARTTJ` |  |
 | 2572.15 | peritectic: Liquid + bcc(W) -> σ(RuW) | L: W 0.61; bcc(W): W 0.77; σ(RuW): W 0.5 | model | [1] Zhang 2021 | Table 3, p. 8, row 1; `ORC-VVLDFEMPZR` |  |
-| 2479.15 | eutectic: liquid $ hcp(Ru) ? r(RuW) |  | model | [1] Zhang 2021 | p. 7; `ORC-AQERUCGQ7O.cabe4b` | “Since the experimental data for the phase boundary hcp(Ru)/liquid ? hcp(Ru) and the eutectic reaction liquid $ hcp(Ru) ? r(RuW) could not be fitted well simultaneously, the calculated temperature of the eutectic reaction liquid $ hcp(Ru) ? r(RuW) was about 2206 °C and the solubility of W in hcp(Ru) was 46 at.%, which are slightly different from the experimental values (2205 °C and 48 at.%).\[22\]” |
 | 2479.15 | eutectic: Liquid -> hcp(Ru) + σ(RuW) | L: W 0.47; hcp(Ru): W 0.46; σ(RuW): W 0.59 | model | [1] Zhang 2021 | Table 3, p. 8, row 3; `ORC-WHV7A72HAI` |  |
-| 2478.15 | eutectic: liquid $ hcp(Ru) ? r(RuW) |  | experimental | [1] Zhang 2021; _cites ref. 22_ | p. 7; `ORC-AQERUCGQ7O.acf52e` | “Since the experimental data for the phase boundary hcp(Ru)/liquid ? hcp(Ru) and the eutectic reaction liquid $ hcp(Ru) ? r(RuW) could not be fitted well simultaneously, the calculated temperature of the eutectic reaction liquid $ hcp(Ru) ? r(RuW) was about 2206 °C and the solubility of W in hcp(Ru) was 46 at.%, which are slightly different from the experimental values (2205 °C and 48 at.%).\[22\]” |
 | 2478.15 | eutectic: Liquid -> hcp(Ru) + σ(RuW) | L: W 0.55; hcp(Ru): W 0.48; σ(RuW): W 0.59 | experimental | [1] Zhang 2021; _cites ref. 22_ | Table 3, p. 8, row 4; `ORC-JKIIHZHYZ6` |  |
 | 1942.15 | eutectoid: σ(RuW) -> hcp(Ru) + bcc(W) | σ(RuW): W 0.61; hcp(Ru): W 0.42; bcc(W): W 0.89 | model | [1] Zhang 2021 | Table 3, p. 8, row 5; `ORC-XZZALZDEWX` |  |
 | 1940.15 | eutectoid: σ(RuW) -> hcp(Ru) + bcc(W) | σ(RuW): W 0.6; hcp(Ru): W 0.42; bcc(W): W 0.87 | experimental | [1] Zhang 2021; _cites ref. 22_ | Table 3, p. 8, row 6; `ORC-ISR5KTKKNM` |  |

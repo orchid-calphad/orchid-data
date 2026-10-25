@@ -1,10 +1,10 @@
 # Si–Sn system
 
-> Si–Sn system: 4 accepted literature values (invariant reaction 2, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Sn system: 1 accepted literature values (invariant reaction 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-SN.html · Markdown: https://data.orchid-project.org/systems/SI-SN.md
 
-4 accepted literature values from 3 paper(s) (experimental 2, model 2); 4 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (model 1); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-SN.json) · [CSV](https://data.orchid-project.org/systems/SI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-SN/SiSn-07Men.json) · [phases (6)](https://data.orchid-project.org/phases/pages/SI-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-SN.html) · [Markdown](https://data.orchid-project.org/systems/SI-SN.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 2 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
-| phase transition | 2 |
+| invariant reaction | 1 |
 
 ## Calculated phase diagrams
 
@@ -56,31 +54,17 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Si–Sn system (2)
+Table: Invariant reactions reported in the literature for the Si–Sn system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 505.1 | other: Liquid -> bct-A5 + diamond | L: Sn 0; bct-A5: Sn 0; diamond: Sn 1 | model | [1] Hämäläinen 1998 | Table I, p. 281, row 1; `ORC-GG4PPQRD7N` |  |
-| 505.08 | eutectic |  | model | [2] Jacobs 1996 | p. 2; `ORC-NFBOPSA2CK` | “The calculated position of the eutectic point is T=505.08 K and 4\*10- at% SI.” |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Si–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 286.2 K | 286.2 |  | experimental | [3] Sun 2012 | p. 2; `ORC-MXUTATUQ2D` | “The (β Sn) transforms to (α Sn) at 13.05 °C.” |
-| Phase transition | 505.15 K | 505.15 |  | experimental | [3] Sun 2012 | p. 2; `ORC-EQ2C2O5AVX` | “The eutectic point lies very close to the melting point of pure Sn (232 °C).” |
+| 505.1 | other: Liquid -> bct-A5 + diamond | L: Sn 0; bct-A5: Sn 0; diamond: Sn 1 | model | [1] (ed.) 1998 | Table I, p. 281, row 1; `ORC-GG4PPQRD7N` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-2. M.H.G. Jacobs, P.J. Spencer, A thermodynamic evaluation of the system Si-Sn, Calphad 20, 89-91 (1996). [doi:10.1016/0364-5916(96)00015-6](https://doi.org/10.1016/0364-5916%2896%2900015-6)
-3. Zhiping Sun, Xiping Guo, Chuan Zhang, Thermodynamic modeling of the Nb-rich corner in the Nb–Si–Sn system, Calphad 36, 82-88 (2012). [doi:10.1016/j.calphad.2011.12.002](https://doi.org/10.1016/j.calphad.2011.12.002)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 
 ## Please cite
 

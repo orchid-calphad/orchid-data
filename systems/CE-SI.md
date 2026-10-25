@@ -1,10 +1,10 @@
 # Ce–Si system
 
-> Ce–Si system: 174 accepted literature values (invariant reaction 54, mixing / partial 44, formation 39, phase equilibrium 23) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Si system: 159 accepted literature values (invariant reaction 45, mixing / partial 44, formation 39, phase equilibrium 23) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-SI.html · Markdown: https://data.orchid-project.org/systems/CE-SI.md
 
-174 accepted literature values from 3 paper(s) (experimental 89, model 57, unspecified 28); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+159 accepted literature values from 2 paper(s) (experimental 75, model 56, unspecified 28); 2 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-SI.json) · [CSV](https://data.orchid-project.org/systems/CE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-SI/CeSi-04Gro.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CE-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-SI.html) · [Markdown](https://data.orchid-project.org/systems/CE-SI.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 89 |
-| model | 57 |
+| experimental | 75 |
+| model | 56 |
 | unspecified | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 54 |
-| phase transition | 14 |
+| invariant reaction | 45 |
+| phase transition | 8 |
 | phase equilibrium | 23 |
 | formation | 39 |
 | mixing / partial | 44 |
@@ -89,7 +89,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Si system (54)
+Table: Invariant reactions reported in the literature for the Ce–Si system (45)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -102,7 +102,6 @@ Table: Invariant reactions reported in the literature for the Ce–Si system (54
 | 1903 | congruent melting: L ↔ CeSi | L: Ce 0.5, Si 0.5; CeSi: Ce 0.5, Si 0.5 | experimental | [1] Huang 2016; _cites Bulanova 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900409-7) | Table 7, p. 8, row 18; `ORC-MGTH7YGJMX` |  |
 | 1903 | congruent melting: L ↔ CeSi | L: Ce 0.5, Si 0.5; CeSi: Ce 0.5, Si 0.5 | model | [1] Huang 2016; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 7, p. 8, row 19; `ORC-TDPAMNY52C` |  |
 | 1899.5 | congruent melting: L ↔ CeSi | L: Si 0.5; CeSi: Si 0.5 | unspecified | [1] Huang 2016 | Table 7, p. 8, row 17; `ORC-KCBU2EJGIN` |  |
-| 1887 | eutectic: Liquid ↔ CeSi + CeSi1.68 |  | experimental | [1] Huang 2016; _cites Bulanova 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900409-7) | p. 2; `ORC-BD3SMDFD2X` | “of CeSi1.68 was confirmed, while the eutectic transformation of Liquid ↔ CeSi + CeSi1.68 occurs at 1887 K, which is 81.5 K higher than that reported by Bulanova et al. \[13\].” |
 | 1887 | eutectic: L ↔ CeSi + CeSi1.68 | CeSi: Ce 0.5, Si 0.5; CeSi1.68: Ce 0.37, Si 0.63 | experimental | [1] Huang 2016 | Table 7, p. 8, row 23; `ORC-TFLXS7RJYW` |  |
 | 1860.6 | eutectic: L ↔ CeSi + CeSi1.68 | L: Si 0.545; CeSi: Si 0.5; CeSi1.68: Si 0.625 | model | [1] Huang 2016; _cites Kim 2015_ [doi](https://doi.org/10.1016/j.jct.2014.08.015) | Table 7, p. 8, row 25; `ORC-7T3UVDXN52` |  |
 | 1860 | peritectic: L + CeSi1.68 ↔ CeSi2 | CeSi1.68: Ce 0.37, Si 0.63; CeSi2: Ce 0.333333, Si 0.666667 | model | [1] Huang 2016; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 7, p. 8, row 35; `ORC-NP6RT7GADL` |  |
@@ -125,24 +124,16 @@ Table: Invariant reactions reported in the literature for the Ce–Si system (54
 | 1536.2 | peritectic: L + Ce3Si2 ↔ Ce5Si3 | L: Si 0.308; Ce3Si2: Si 0.4; Ce5Si3: Si 0.375 | unspecified | [1] Huang 2016 | Table 7, p. 8, row 5; `ORC-HSBK5X7GPJ` |  |
 | 1533 | peritectic: L + Ce3Si2 ↔ Ce5Si3 | Ce3Si2: Ce 0.6, Si 0.4; Ce5Si3: Ce 0.625, Si 0.375 | experimental | [1] Huang 2016; _cites Bulanova 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900409-7) | Table 7, p. 8, row 6; `ORC-XJU4U2L7ZX` |  |
 | 1514 | eutectic: L ↔ CeSi2 + (Si) | L: Si 0.815; CeSi2: Ce 0.333333, Si 0.666667 | experimental | [1] Huang 2016; _cites Vogel 1913_ [doi](https://doi.org/10.1002/zaac.19130840125) | Table 7, p. 8, row 39; `ORC-3QFKW3SPC6` |  |
-| 1513 | eutectic |  | experimental | [1] Huang 2016; _cites Vogel 1913_ [doi](https://doi.org/10.1002/zaac.19130840125) | p. 2; `ORC-IO3WDKYWYM` | “Vogel \[16\] investigated the liquidus from 68 to 100 at.% Si, and detected that a eutectic reaction involving silicon that occurs at 81.5 at.% Si and 1513 K.” |
-| 1503.7 | eutectic: liquid 0↔ (Si) + CeSi2 |  | experimental | [1] Huang 2016 | p. 6; `ORC-WZKQAQOESW.d02fbf` | “The first peak with an onset at 1501.5 K from alloy #1 (Ce0.08 Si0.92 ) and 1503.7 K from alloy #2 (Ce0.23 Si0.77 ) represent the eutectic reaction liquid 0↔ (Si) + CeSi2 , which is higher than the reported temperatures by Benesovsky et al. \[5\] and Bulanova et al. \[13\] but close to the result given by Vogel \[16\].” |
 | 1502.6 | eutectic: liquid ↔ (Si) + CeSi2 |  | experimental | [1] Huang 2016 | p. 1; `ORC-EUSOPRRCZO` | “The eutectic reaction liquid ↔ (Si) + CeSi2 is observed to occurs at 1502.6 K.” |
 | 1502.6 | eutectic: liquid ↔ (Si) + CeSi2 |  | experimental | [1] Huang 2016 | p. 10; `ORC-HIQITSKW5X` | “The eutectic reaction liquid ↔ (Si) + CeSi2 is observed to occur at 1502.6 K.” |
 | 1502.6 | eutectic: L ↔ CeSi2 + (Si) | CeSi2: Ce 0.333333, Si 0.666667 | experimental | [1] Huang 2016 | Table 7, p. 8, row 38; `ORC-KTKSESUSGO` |  |
 | 1502.3 | eutectic: L ↔ CeSi2 + (Si) | L: Si 0.832; CeSi2: Si 0.667; (Si): Si 1 | unspecified | [1] Huang 2016 | Table 7, p. 8, row 37; `ORC-PP3H7ZV545` |  |
-| 1501.5 | eutectic: liquid 0↔ (Si) + CeSi2 |  | experimental | [1] Huang 2016 | p. 6; `ORC-WZKQAQOESW.df28dd` | “The first peak with an onset at 1501.5 K from alloy #1 (Ce0.08 Si0.92 ) and 1503.7 K from alloy #2 (Ce0.23 Si0.77 ) represent the eutectic reaction liquid 0↔ (Si) + CeSi2 , which is higher than the reported temperatures by Benesovsky et al. \[5\] and Bulanova et al. \[13\] but close to the result given by Vogel \[16\].” |
-| 1486.6 | peritectoid: CeSi + CeSi1.68 ↔ CeSi1.34 |  | experimental | [1] Huang 2016 | p. 7; `ORC-XUTYBZU5UR.7209b3` | “An endothermic peak, which may be associated with the peritectoid reaction CeSi + CeSi1.68 ↔ CeSi1.34 , is detected in the two alloys with a temperature of 1469.0 and 1486.6 K, respectively.” |
 | 1471 | eutectic: L ↔ CeSi2 + (Si) | L: Si 0.82; CeSi2: Ce 0.333333, Si 0.666667 | experimental | [1] Huang 2016; _cites Bulanova 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900409-7) | Table 7, p. 8, row 41; `ORC-AKXBITPNKR` |  |
 | 1469.1 | peritectoid: CeSi + CeSi1.68 ↔ CeSi1.34 | CeSi: Si 0.5; CeSi1.68: Si 0.63; CeSi1.34: Si 0.573 | unspecified | [1] Huang 2016 | Table 7, p. 8, row 26; `ORC-QXZJ5VIYL5` |  |
 | 1469 | peritectoid: CeSi + CeSi1.68 ↔ CeSi1.34 | CeSi: Ce 0.5, Si 0.5; CeSi1.68: Ce 0.37, Si 0.63; CeSi1.34: Ce 0.42735, Si 0.57265 | experimental | [1] Huang 2016 | Table 7, p. 8, row 27; `ORC-VKKZOX2YH7` |  |
-| 1469 | peritectoid: CeSi + CeSi1.68 ↔ CeSi1.34 |  | experimental | [1] Huang 2016 | p. 7; `ORC-XUTYBZU5UR.9bc5df` | “An endothermic peak, which may be associated with the peritectoid reaction CeSi + CeSi1.68 ↔ CeSi1.34 , is detected in the two alloys with a temperature of 1469.0 and 1486.6 K, respectively.” |
 | 1465.6 | eutectic: L ↔ CeSi2 + (Si) | L: Si 0.843; CeSi2: Si 0.667; (Si): Si 1 | model | [1] Huang 2016; _cites Kim 2015_ [doi](https://doi.org/10.1016/j.jct.2014.08.015) | Table 7, p. 8, row 43; `ORC-T5TN7MGPRL` |  |
 | 1463 | eutectic: L ↔ CeSi2 + (Si) | L: Si 0.87; CeSi2: Ce 0.333333, Si 0.666667 | experimental | [1] Huang 2016; _cites Benesovsky 1966_ [doi](https://doi.org/10.1007/bf00905509) | Table 7, p. 8, row 40; `ORC-55KYC66YGZ` |  |
-| 1463 | eutectic: Liquid ↔ (Si) + CeSi2 |  | experimental | [1] Huang 2016; _cites Vogel 1913_ [doi](https://doi.org/10.1002/zaac.19130840125) | p. 2; `ORC-R2N5QA22EA` | “The eutectic reaction involving silicon reported by Vogel \[16\] was determined to be Liquid ↔ (Si) + CeSi2 with a temperature of 1463 K, which is 50 K lower than that reported by Vogel \[16\].” |
 | 1460 | eutectic: L ↔ CeSi2 + (Si) | CeSi2: Ce 0.333333, Si 0.666667 | model | [1] Huang 2016; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 7, p. 8, row 42; `ORC-5DGRNM4VRM` |  |
-| 1020.15 | eutectic: L⇌(C) + SiC + Ce3Si2C2 |  | model | [2] Xu 2020 | p. 9; `ORC-E46AGCGTYG.f112ab` | “During sintering processes, RE3Si2C2 will react with SiC and transform into liquid via different ternary eutectic reactions: L⇌ (C) + SiC + La3Si2C2 at 810°C, L⇌(C) + SiC + Ce3Si2C2 at 747°C, and L⇌(C) + SiC + Pr3Si2C2 at 1148°C respectively.” |
-| 926.15 | peritectic |  | experimental | [3] Gröbner 2004 | p. 9; `ORC-26MFDLMFLZ` | “The incongruent formation of 2 is given by the rather low DTA signal at 653 °C and, most importantly, by the peritectic formation type observed in the micrographs (e.g., Figures 7 and 8).” |
 | 908 | eutectic: L ↔ (γCe) + Ce5Si3 | L: Si 0.105; (γCe): Si 0; Ce5Si3: Si 0.375 | experimental | [1] Huang 2016; _cites Bulanova 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900409-7) | Table 7, p. 8, row 2; `ORC-4DYEGVGPOH` |  |
 | 900.1 | eutectic: L ↔ (γCe) + Ce5Si3 | L: Si 0.109; (γCe): Si 0; Ce5Si3: Si 0.375 | unspecified | [1] Huang 2016 | Table 7, p. 8, row 1; `ORC-BDYKQZTESF` |  |
 | 899 | eutectic: L ↔ (γCe) + Ce5Si3 | Ce5Si3: Ce 0.625, Si 0.375 | model | [1] Huang 2016; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 7, p. 8, row 3; `ORC-IMRVZRM3ZG` |  |
@@ -198,25 +189,19 @@ Table: Enthalpies of formation, Ce–Si system (39)
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (8)
 
 Table: Phase transition, Ce–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1469 K | 1469 | other | experimental | [1] Huang 2016 | p. 10; `ORC-LZTHNRK5ZW` | “A phase with composition close to CeSi1.34 was observed and the decomposition temperature of 1469 K was detected.” |
-| Phase transition | 1469 K | 1469 | other | experimental | [1] Huang 2016 | p. 1; `ORC-UBJQLQT4U7` | “A phase with close composition of CeSi1.34 and the decomposition temperature of 1469 K is detected.” |
-| Phase transition | 1663 K | 1663 | congruent transformation | experimental | [1] Huang 2016; _cites Benesovsky 1966_ [doi](https://doi.org/10.1007/bf00905509) | p. 2; `ORC-77E3NO5A7H.6ccd21` | “Using X-ray powder diffraction (XRD), metallographic analyses and melting point measurements, Benesovsky et al. \[5\] reported the existence of six intermediate phases. CeSi2-a was reported to melt incongruently while the other five silicides, Ce∼2 Si, Ce3 Si2 , Ce∼1.2 Si, CeSi and CeSi2 melt congruently at 1673, 1663, 1713, 1743 and 1893 K, respectively.” |
-| Phase transition | 1663.15 K | 1663.15 | Ce3Si2 | experimental | [3] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.0fbb54` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
-| Phase transition | 1673 K | 1673 | congruent transformation | experimental | [1] Huang 2016; _cites Benesovsky 1966_ [doi](https://doi.org/10.1007/bf00905509) | p. 2; `ORC-77E3NO5A7H.4575b3` | “Using X-ray powder diffraction (XRD), metallographic analyses and melting point measurements, Benesovsky et al. \[5\] reported the existence of six intermediate phases. CeSi2-a was reported to melt incongruently while the other five silicides, Ce∼2 Si, Ce3 Si2 , Ce∼1.2 Si, CeSi and CeSi2 melt congruently at 1673, 1663, 1713, 1743 and 1893 K, respectively.” |
-| Phase transition | 1673.15 K | 1673.15 | Ce5Si3 | experimental | [3] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.2d6f84` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
-| Phase transition | 1713 K | 1713 | congruent transformation | experimental | [1] Huang 2016; _cites Benesovsky 1966_ [doi](https://doi.org/10.1007/bf00905509) | p. 2; `ORC-77E3NO5A7H.9b7ef4` | “Using X-ray powder diffraction (XRD), metallographic analyses and melting point measurements, Benesovsky et al. \[5\] reported the existence of six intermediate phases. CeSi2-a was reported to melt incongruently while the other five silicides, Ce∼2 Si, Ce3 Si2 , Ce∼1.2 Si, CeSi and CeSi2 melt congruently at 1673, 1663, 1713, 1743 and 1893 K, respectively.” |
-| Phase transition | 1713.15 K | 1713.15 | Ce5Si4 | experimental | [3] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.1cc332` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
-| Phase transition | 1743 K | 1743 | congruent transformation | experimental | [1] Huang 2016; _cites Benesovsky 1966_ [doi](https://doi.org/10.1007/bf00905509) | p. 2; `ORC-77E3NO5A7H.cce276` | “Using X-ray powder diffraction (XRD), metallographic analyses and melting point measurements, Benesovsky et al. \[5\] reported the existence of six intermediate phases. CeSi2-a was reported to melt incongruently while the other five silicides, Ce∼2 Si, Ce3 Si2 , Ce∼1.2 Si, CeSi and CeSi2 melt congruently at 1673, 1663, 1713, 1743 and 1893 K, respectively.” |
-| Phase transition | 1743.15 K | 1743.15 | CeSi | experimental | [3] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.13f213` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
-| Phase transition | 1833.15 K | 1833.15 | Ce3Si5 | experimental | [3] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.1b4914` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
-| Phase transition | 1893 K | 1893 | congruent transformation | experimental | [1] Huang 2016; _cites Benesovsky 1966_ [doi](https://doi.org/10.1007/bf00905509) | p. 2; `ORC-77E3NO5A7H.71dd5d` | “Using X-ray powder diffraction (XRD), metallographic analyses and melting point measurements, Benesovsky et al. \[5\] reported the existence of six intermediate phases. CeSi2-a was reported to melt incongruently while the other five silicides, Ce∼2 Si, Ce3 Si2 , Ce∼1.2 Si, CeSi and CeSi2 melt congruently at 1673, 1663, 1713, 1743 and 1893 K, respectively.” |
-| Phase transition | 1893.15 K | 1893.15 | CeSi2 | experimental | [3] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.ab94be` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
+| Phase transition | 1663.15 K | 1663.15 | Ce3Si2 | experimental | [2] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.0fbb54` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
+| Phase transition | 1673.15 K | 1673.15 | Ce5Si3 | experimental | [2] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.2d6f84` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
+| Phase transition | 1713.15 K | 1713.15 | Ce5Si4 | experimental | [2] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.1cc332` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
+| Phase transition | 1743.15 K | 1743.15 | CeSi | experimental | [2] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.13f213` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
+| Phase transition | 1833.15 K | 1833.15 | Ce3Si5 | experimental | [2] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.1b4914` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
+| Phase transition | 1893.15 K | 1893.15 | CeSi2 | experimental | [2] Gröbner 2004 | p. 2; `ORC-4WLC3BNIXP.ab94be` | “Six intermediate phases were found with corresponding melting temperatures: Ce5Si3 (1400 °C), Ce3Si2 (1390 °C), Ce5Si4 (1440 °C), CeSi (1470 °C), Ce3Si5 (1560 °C), and CeSi2 (1620 °C).” |
 | Phase transition | 1993 K | 1993 | other | experimental | [1] Huang 2016 | p. 7; `ORC-P4BYWYKKLZ` | “Since the error bars of the work by Ryss et al. \[8,9\] were not given, and one should notice their experimental temperature (1923 K) is lower than the melting temperature of CeSi1.68 (1993 K) and across the two-phase regions, the deviation between the calculated curve and the experimental one is acceptable.” |
 
 ### Phase equilibrium (23)
@@ -255,58 +240,57 @@ Table: Mixing / partial, Ce–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | -11 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.05, Si 0.95_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 45; `ORC-2GY2WPLP5O.7dcb92` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -35 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.15, Si 0.85_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 39; `ORC-DUUH5E5WYV.f7952a` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -45 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.2, Si 0.8_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 36; `ORC-I24SFUVJ7N.928c41` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -23 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.1, Si 0.9_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 42; `ORC-K5BB5SKJGL.36020b` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -15.7 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.3, Si 0.7_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 32; `ORC-3FEKBGTQDG.ba344f` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -13.6 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.9, Si 0.1_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 6; `ORC-3KZ7CXWTIN.0cfc73` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -22.1 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.8, Si 0.2_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 10; `ORC-3YFBHRXVXT.2e7db3` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -43.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.2, Si 0.8_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 35; `ORC-47GIDRCAIY.25d926` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -23.2 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.45, Si 0.55_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 26; `ORC-4JISTRC7KB.d22e70` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -33.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.15, Si 0.85_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 38; `ORC-5OZUNE57VC.439fb3` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -20.9 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.4, Si 0.6_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 28; `ORC-6KRFX3QKF7.2cf362` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -72 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.55, Si 0.45_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 19; `ORC-6WTVTZV5WW.067771` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -26.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.55, Si 0.45_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 20; `ORC-A4IL4QZU5T.4124be` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -11.65 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.05, Si 0.95_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 44; `ORC-BJUR3AAGDL.0ab99e` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -71.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.4, Si 0.6_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 27; `ORC-DMUEGPCIHE.188403` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -73.9 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.5, Si 0.5_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 21; `ORC-DMZBBXUC7I.ab0471` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -24.9 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.5, Si 0.5_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 22; `ORC-F4LLL3VMUO.1aa105` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -56.6 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.7, Si 0.3_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 13; `ORC-FFTUE5RXFA.6a7fd2` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -24.7 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.75, Si 0.25_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 12; `ORC-GYEUU662WB.41e3c6` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -7.1 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.15, Si 0.85_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 40; `ORC-IBP6PUFL7L.8213ff` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -27.1 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.65, Si 0.35_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 16; `ORC-IVZDCJNU66.fcf6cd` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -30.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.85, Si 0.15_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 7; `ORC-JYDIQHVZJY.f37290` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -63.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.65, Si 0.35_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 15; `ORC-KIXZE5BPYE.59471c` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -27.04 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.6, Si 0.4_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 18; `ORC-MDVKI5CEM2.834c02` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -73.75 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.45, Si 0.55_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 25; `ORC-MFOH2OTVBL.636837` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -2 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.05, Si 0.95_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 46; `ORC-NJ7MIM3AKA.07836a` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -68.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.6, Si 0.4_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 17; `ORC-NYIK7ROSS3.95f086` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -52.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.25, Si 0.75_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 33; `ORC-O6T27EECUR.ffd08b` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -20.5 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.9, Si 0.1_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 5; `ORC-OD5K4D3P6X.130eed` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -60.2 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.3, Si 0.7_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 31; `ORC-OMOESPRYC6.94d9f9` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -12.8 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.25, Si 0.75_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 34; `ORC-P6BUQGUDCD.542181` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -9.9 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.2, Si 0.8_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 37; `ORC-PQ42CIC557.c0550e` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -48.6 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.75, Si 0.25_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 11; `ORC-PQZF6Q43FE.d97fd0` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -18.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.85, Si 0.15_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 8; `ORC-QHUP23G423.74d7e8` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -10.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.95, Si 0.05_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 3; `ORC-QN4HS7ABC5.c2b9e4` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -7.5 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.95, Si 0.05_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 4; `ORC-SRCS7D3CLK.abcf12` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -66.7 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.35, Si 0.65_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 29; `ORC-TLCMGKP5PW.64b35b` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -74 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.48, Si 0.52_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 23; `ORC-TQ3PMQLINS.473bdc` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -22.8 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.1, Si 0.9_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 41; `ORC-W7QKNYCF5B.516144` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -4.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.1, Si 0.9_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 43; `ORC-WB3ZUG3WTP.f56ed1` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -24.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.48, Si 0.52_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 24; `ORC-WWLIGUWMYR.941944` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -18.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.35, Si 0.65_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 30; `ORC-XE3MV4GHUI.3ae41d` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -26.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.7, Si 0.3_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 14; `ORC-XWQGCKTD5H.2926fb` |  |
-| Enthalpy of mixing; _printed: ΔH_ | -39.8 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.8, Si 0.2_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 9; `ORC-YBDLHBNMS7.a9afbb` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -11 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.05, Si 0.95_ | experimental | [2] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 45; `ORC-2GY2WPLP5O.7dcb92` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -35 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.15, Si 0.85_ | experimental | [2] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 39; `ORC-DUUH5E5WYV.f7952a` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -45 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.2, Si 0.8_ | experimental | [2] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 36; `ORC-I24SFUVJ7N.928c41` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -23 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.1, Si 0.9_ | experimental | [2] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 42; `ORC-K5BB5SKJGL.36020b` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -15.7 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.3, Si 0.7_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 32; `ORC-3FEKBGTQDG.ba344f` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -13.6 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.9, Si 0.1_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 6; `ORC-3KZ7CXWTIN.0cfc73` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -22.1 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.8, Si 0.2_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 10; `ORC-3YFBHRXVXT.2e7db3` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -43.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.2, Si 0.8_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 35; `ORC-47GIDRCAIY.25d926` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -23.2 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.45, Si 0.55_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 26; `ORC-4JISTRC7KB.d22e70` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -33.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.15, Si 0.85_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 38; `ORC-5OZUNE57VC.439fb3` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -20.9 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.4, Si 0.6_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 28; `ORC-6KRFX3QKF7.2cf362` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -72 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.55, Si 0.45_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 19; `ORC-6WTVTZV5WW.067771` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -26.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.55, Si 0.45_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 20; `ORC-A4IL4QZU5T.4124be` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -11.65 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.05, Si 0.95_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 44; `ORC-BJUR3AAGDL.0ab99e` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -71.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.4, Si 0.6_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 27; `ORC-DMUEGPCIHE.188403` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -73.9 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.5, Si 0.5_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 21; `ORC-DMZBBXUC7I.ab0471` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -24.9 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.5, Si 0.5_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 22; `ORC-F4LLL3VMUO.1aa105` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -56.6 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.7, Si 0.3_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 13; `ORC-FFTUE5RXFA.6a7fd2` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -24.7 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.75, Si 0.25_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 12; `ORC-GYEUU662WB.41e3c6` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -7.1 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.15, Si 0.85_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 40; `ORC-IBP6PUFL7L.8213ff` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -27.1 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.65, Si 0.35_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 16; `ORC-IVZDCJNU66.fcf6cd` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -30.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.85, Si 0.15_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 7; `ORC-JYDIQHVZJY.f37290` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -63.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.65, Si 0.35_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 15; `ORC-KIXZE5BPYE.59471c` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -27.04 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.6, Si 0.4_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 18; `ORC-MDVKI5CEM2.834c02` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -73.75 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.45, Si 0.55_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 25; `ORC-MFOH2OTVBL.636837` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -2 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.05, Si 0.95_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 46; `ORC-NJ7MIM3AKA.07836a` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -68.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.6, Si 0.4_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 17; `ORC-NYIK7ROSS3.95f086` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -52.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.25, Si 0.75_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 33; `ORC-O6T27EECUR.ffd08b` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -20.5 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.9, Si 0.1_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 5; `ORC-OD5K4D3P6X.130eed` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -60.2 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.3, Si 0.7_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 31; `ORC-OMOESPRYC6.94d9f9` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -12.8 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.25, Si 0.75_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 34; `ORC-P6BUQGUDCD.542181` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -9.9 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.2, Si 0.8_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 37; `ORC-PQ42CIC557.c0550e` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -48.6 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.75, Si 0.25_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 11; `ORC-PQZF6Q43FE.d97fd0` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -18.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.85, Si 0.15_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 8; `ORC-QHUP23G423.74d7e8` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -10.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.95, Si 0.05_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 3; `ORC-QN4HS7ABC5.c2b9e4` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -7.5 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.95, Si 0.05_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 4; `ORC-SRCS7D3CLK.abcf12` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -66.7 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.35, Si 0.65_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 29; `ORC-TLCMGKP5PW.64b35b` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -74 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.48, Si 0.52_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 23; `ORC-TQ3PMQLINS.473bdc` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -22.8 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.1, Si 0.9_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 41; `ORC-W7QKNYCF5B.516144` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -4.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.1, Si 0.9_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 43; `ORC-WB3ZUG3WTP.f56ed1` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -24.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.48, Si 0.52_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 24; `ORC-WWLIGUWMYR.941944` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -18.4 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.35, Si 0.65_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 30; `ORC-XE3MV4GHUI.3ae41d` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -26.3 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.7, Si 0.3_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 14; `ORC-XWQGCKTD5H.2926fb` |  |
+| Enthalpy of mixing; _printed: ΔH_ | -39.8 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.8, Si 0.2_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 9; `ORC-YBDLHBNMS7.a9afbb` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Dandan Huang, Shuhong Liu, Ying Tang, Yong Du, Philip Nash, Bo Sundman, Experimental investigation and thermodynamic modeling of the Ce-Si system, Thermochimica Acta 646, 49-58 (2016). [doi:10.1016/j.tca.2016.11.003](https://doi.org/10.1016/j.tca.2016.11.003)
-2. Kai Xu, Keke Chang, Xiaobing Zhou, Leilei Chen, Junwen Liu, Zixuan Deng et al., Thermodynamic descriptions of the light rare‐earth elements in silicon carbide ceramics, J Am Ceram Soc 103, 3812-3825 (2020). [doi:10.1111/jace.17031](https://doi.org/10.1111/jace.17031)
-3. Joachim Gröbner, Djordje Mirković, Rainer Schmid-Fetzer, Thermodynamic aspects of the constitution, grain refining, and solidification enthalpies of Al-Ce-Si alloys, Metall Mater Trans A 35, 3349-3362 (2004). [doi:10.1007/s11661-004-0172-y](https://doi.org/10.1007/s11661-004-0172-y)
+2. Joachim Gröbner, Djordje Mirković, Rainer Schmid-Fetzer, Thermodynamic aspects of the constitution, grain refining, and solidification enthalpies of Al-Ce-Si alloys, Metall Mater Trans A 35, 3349-3362 (2004). [doi:10.1007/s11661-004-0172-y](https://doi.org/10.1007/s11661-004-0172-y)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Mo–Ti system
 
-> Mo–Ti system: 13 accepted literature values (phase transition 8, invariant reaction 5) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ti system: 2 accepted literature values (invariant reaction 2) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-TI.html · Markdown: https://data.orchid-project.org/systems/MO-TI.md
 
-13 accepted literature values from 4 paper(s) (experimental 8, model 5); 8 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (experimental 1, model 1); 8 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-TI.json) · [CSV](https://data.orchid-project.org/systems/MO-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-TI/MoTi-16Yan.json) · [phases (13)](https://data.orchid-project.org/phases/pages/MO-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-TI.html) · [Markdown](https://data.orchid-project.org/systems/MO-TI.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 5 |
+| experimental | 1 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
-| phase transition | 8 |
+| invariant reaction | 2 |
 
 ## Calculated phase diagrams
 
@@ -71,41 +70,18 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mo–Ti system (5)
+Table: Invariant reactions reported in the literature for the Mo–Ti system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2623 | eutectic |  | experimental | [1] Chung 1999; _cites Barabash 1978_ | p. 3; `ORC-BM2JR5H235` | “The eutectic reaction in the Mo-TiN quasibinary system took place at 2623 K and at 5-6 at.% TiN.” |
-| 2563 | eutectic |  | experimental | [2] Shim 1996; _cites Zakharov 1967_ | p. 2; `ORC-UUTXRB4IJY.3c0b56` | “Zakharov and Savitskiy suggested the temperature of the eutectic reaction is 2563 K based on their extensive work in the Mo-rich part of the Mo-TiC pseudobinary section.” |
-| 2448 | eutectic: liquid 5 bcc(Mo) 1 MC(TiC) |  | experimental | [2] Shim 1996 | p. 2; `ORC-UUTXRB4IJY.101adb` | “According to their works, the MC carbide shows very large solubility with respect to Mo, and liquid 5 bcc(Mo) 1 MC(TiC) eutectic reaction occurs at 2448 K, which is comparable with the results by Zakharov and Savitskiy.\[24\]” |
-| 968 | bcc(1) = hcp + bcc(2) | bcc(1): Ti 0.88; hcp: Ti 0.996; bcc(2): Ti 0.4 | experimental | [2] Shim 1996; _cites Murray 1987_ | Table II, p. 6, row 2; `ORC-GPWBL37D5T` |  |
-| 968 | bcc(1) = hcp + bcc(2) | bcc(1): Ti 0.88; hcp: Ti 0.9965; bcc(2): Ti 0.4 | model | [2] Shim 1996 | Table II, p. 6, row 1; `ORC-WBBA6I2ATX` |  |
-
-## Other properties
-
-### Phase transition (8)
-
-Table: Phase transition, Mo–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 948 K | 948 | other: bcc 5 hcp 1 bcc | experimental | [2] Shim 1996 | p. 2; `ORC-NTANTKH7CM` | “They reported that the miscibility gap of bcc lies in the composition range 0.2 , xMo , 0.48 at 948 to 1068 K and also suggested that the invariant reaction (monotectoid reaction), bcc 5 hcp 1 bcc, occurs at 948 K.” |
-| Phase transition | 948.6 K | 948.6 | other: b.c.c. -> h.c.p. + b.c.c. | model | [1] Chung 1999 | p. 5; `ORC-XH5KIJRYGB.366e18` | “Though the calculated phase diagram of the Ti-Mo system is generally in agreement with experimetal data given in the previous work \[18\], the temperature of the monotectic reaction b.c.c.5h.c.p.1b.c.c. of the Ti-Mo system was calculated to be 948.6 K which is somewhat lower than the temperature 968 K reported by Murray \[29\].” |
-| Phase transition | 968 K | 968 | other | experimental | [2] Shim 1996; _cites McAlister 1984_ | p. 2; `ORC-HUJF7MEB7S` | “The temperature of the monotectoid reaction, however, was approximately estimated to be 968 K based on the differential thermal analysis measurement recently performed by McAlister,\[18\] which is 2 K higher than the one by Terauchi et al.” |
-| Phase transition | 968 K | 968 | other: b.c.c. -> h.c.p. + b.c.c. | model | [1] Chung 1999; _cites Murray 1987_ | p. 5; `ORC-XH5KIJRYGB.e21e4e` | “Though the calculated phase diagram of the Ti-Mo system is generally in agreement with experimetal data given in the previous work \[18\], the temperature of the monotectic reaction b.c.c.5h.c.p.1b.c.c. of the Ti-Mo system was calculated to be 948.6 K which is somewhat lower than the temperature 968 K reported by Murray \[29\].” |
-| Phase transition | 2200 K | 2200 | other | model | [1] Chung 1999 | p. 7; `ORC-3HDUJQARZH` | “It can be seen that as the temperature increases, the miscibility gap of the f.c.c. (B1) phase decreases steeply and disappears at about 2200 K.” |
-| Phase transition | 2273 K | 2273 |  | experimental | [3] Witusiewicz 2016; _cites Koval'chenko 1960_ | p. 14; `ORC-CCLVGL2TLO` | “By the way, it can be mentioned that the minimal temperature of incipient melting in the MoeTiB2 section, 2273 K measured by pyrometry in Refs. \[86\], is only by 23 K lower than obtained in the present work (see. Fig. 18).” |
-| Phase transition | 2623 K | 2623 | L = Mo+TiN | experimental | [4] Daclan 2023; _cites Barabash 1978_ | p. 3; `ORC-YJP2CZW3EO` | “According to their results, the composition of the liquid in the reaction L = Mo+TiN is equal to 5-6% TiN, and the reaction occurs at 2623 K.” |
-| Phase transition | 2724 K | 2724 | (bMoB) þ MB2 þ (TiB) (P) | model | [3] Witusiewicz 2016 | p. 12; `ORC-K4FBNCQN6Q` | “The solidus surface contains 5 tie-triangles corresponding to four-phase invariant reactions with the liquid phase, among which 2 are very narrow at the given scale, i.e. MB2 þ (TiB) þ (Ti3B4) (U1) at T 1⁄4 2401 K and (bMoB) þ MB2 þ (TiB) (P) at T 1⁄4 2724 K.” |
+| 968 | bcc(1) = hcp + bcc(2) | bcc(1): Ti 0.88; hcp: Ti 0.996; bcc(2): Ti 0.4 | experimental | [1] Shim 1996; _cites Murray 1987_ | Table II, p. 6, row 2; `ORC-GPWBL37D5T` |  |
+| 968 | bcc(1) = hcp + bcc(2) | bcc(1): Ti 0.88; hcp: Ti 0.9965; bcc(2): Ti 0.4 | model | [1] Shim 1996 | Table II, p. 6, row 1; `ORC-WBBA6I2ATX` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Hun-Jae Chung, Jae-Hyeok Shim, Dong Nyung Lee, Thermodynamic evaluation and calculation of phase equilibria of the Ti–Mo–C–N quaternary system, Journal of Alloys and Compounds 282, 142-148 (1999). [doi:10.1016/s0925-8388(98)00711-7](https://doi.org/10.1016/s0925-8388%2898%2900711-7)
-2. Jae-Hyeok Shim, Chang-Seok Oh, Dong Nyung Lee, A thermodynamic evaluation of the Ti-Mo-C system, Metall Mater Trans B 27, 955-966 (1996). [doi:10.1007/s11663-996-0009-8](https://doi.org/10.1007/s11663-996-0009-8)
-3. V.T. Witusiewicz, A.A. Bondar, U. Hecht, O.A. Potazhevska, T.Ya Velikanova, Thermodynamic modelling of the ternary B–Mo–Ti system with refined B–Mo description, Journal of Alloys and Compounds 655, 336-352 (2016). [doi:10.1016/j.jallcom.2015.09.158](https://doi.org/10.1016/j.jallcom.2015.09.158)
-4. R.A. Daclan, M.G. Mena, M.R. Vasquez, W. Gierlotka, Ab-initio combined the Calphad approach to the phase equilibria in the ternary Ti-Mo-N system, J min metall B Metall 59, 125-136 (2023). [doi:10.2298/jmmb210330011d](https://doi.org/10.2298/jmmb210330011d)
+1. Jae-Hyeok Shim, Chang-Seok Oh, Dong Nyung Lee, A thermodynamic evaluation of the Ti-Mo-C system, Metall Mater Trans B 27, 955-966 (1996). [doi:10.1007/s11663-996-0009-8](https://doi.org/10.1007/s11663-996-0009-8)
 
 ## Please cite
 

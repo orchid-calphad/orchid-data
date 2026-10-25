@@ -1,10 +1,10 @@
 # Au–Bi–Sn system
 
-> Au–Bi–Sn system: 66 accepted literature values (invariant reaction 25, phase transition 24, phase equilibrium 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Bi–Sn system: 65 accepted literature values (phase transition 24, invariant reaction 24, phase equilibrium 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-BI-SN.html · Markdown: https://data.orchid-project.org/systems/AU-BI-SN.md
 
-66 accepted literature values from 1 paper(s) (experimental 42, model 24); 0 calculated phase diagram(s).
+65 accepted literature values from 1 paper(s) (experimental 41, model 24); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-BI-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-BI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-BI-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-BI-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-BI-SN.md)
 
@@ -12,20 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 42 |
+| experimental | 41 |
 | model | 24 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 25 |
+| invariant reaction | 24 |
 | phase transition | 24 |
 | phase equilibrium | 17 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Bi–Sn system (25)
+Table: Invariant reactions reported in the literature for the Au–Bi–Sn system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -45,7 +45,6 @@ Table: Invariant reactions reported in the literature for the Au–Bi–Sn syste
 | 558.55 | L + hcp -> φ + Au2Bi |  | model | [1] Gao 2010 | Table III, p. 9, row 5; `ORC-UQ6PQR6MZG` |  |
 | 557.15 | L -> hcp + AuSn + φ | L: Au 0.67, Bi 0.062, Sn 0.268 | model | [1] Gao 2010 | Table IV, p. 9, row 6; `ORC-X7JTGUKM36` |  |
 | 557.15 | L -> hcp + AuSn + φ |  | model | [1] Gao 2010 | Table III, p. 9, row 4; `ORC-XMJTWBBMFI` |  |
-| 535.15 | eutectic: L $ AuSn + A7 (Bi) |  | experimental | [1] Gao 2010; _cites Kubaschewski 1995_ | p. 2; `ORC-MGQPAORA43.952e91` | “A possible monotectic reaction (L1 $ L2 + AuSn) at 386 C and a eutectic reaction \[L $ AuSn + A7 (Bi)\] at 262 C as well as a miscibility gap of the liquid phase were suggested by Kubaschewski.17” |
 | 524.75 | L + AuSn -> φ + A7 (Bi) | L: Au 0.085, Bi 0.909, Sn 0.006 | model | [1] Gao 2010 | Table IV, p. 9, row 5; `ORC-7ZEIUSUXBV` |  |
 | 524.75 | L + AuSn -> φ + A7 (Bi) |  | model | [1] Gao 2010 | Table III, p. 9, row 3; `ORC-U2C5BK5XMS` |  |
 | 512.65 | L -> A7 (Bi) + φ + Au2Bi | L: Au 0.134, Bi 0.865, Sn 0.001 | model | [1] Gao 2010 | Table IV, p. 9, row 4; `ORC-N7PLXUT7IA` |  |

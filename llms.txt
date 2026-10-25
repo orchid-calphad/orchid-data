@@ -1,6 +1,6 @@
 # ORCHID data
 
-> ORCHID data: 73,550 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,321 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
+> ORCHID data: 73,542 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,321 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
 
 Evidence classes are never mixed: experimental | model (CALPHAD, linked to the TDB by SHA-256) | dft | unspecified.
 Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temperatures in K; compositions in mole fraction.
@@ -23,7 +23,7 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
 - [Field reference](https://data.orchid-project.org/literature/SCHEMA.md)
 - [Assessed phase assemblages](https://data.orchid-project.org/assessed-phase-assemblages/README.md): one (T, x, P) point per named field of expert-drawn binary diagrams, evidence class assessed_phase_diagram (not experimental, not CALPHAD); https://data.orchid-project.org/assessed-phase-assemblages/records.jsonl.gz (also .csv, .parquet), ESPEI ZPF datasets espei-zpf/<DIAGRAM>.json, fields https://data.orchid-project.org/assessed-phase-assemblages/SCHEMA.md
 - [ESPEI datasets from the literature](https://data.orchid-project.org/espei/README.md): ESPEI 0.9.1 JSON per evidence class (experimental/, model/, invariants/, dft/literature, dft/mp, dft/oqmd), every value with its ORCHID observation id, source DOI, uncertainty and weight, plus optional tagged phase constraints (derived/invariant-brackets/, derived/liquid-stability/, assessed/); one row per dataset https://data.orchid-project.org/espei/index.csv; validation https://data.orchid-project.org/espei/VALIDATION.md; uncertainties https://data.orchid-project.org/espei/UNCERTAINTY_SUMMARY.md; DFT sigma calibration https://data.orchid-project.org/espei/dft/CALIBRATION.md
-- [ORCHID bibliography](https://data.orchid-project.org/bibliography/README.md): every paper ORCHID knows (9,568; roles, evidence counts, typed relations). One paper: https://data.orchid-project.org/bibliography/papers/<key>.json (key = "p" + sha256("doi:<lowercase doi>")[:16]; lookup table in bibliography/index.json); one system: https://data.orchid-project.org/bibliography/systems/<SYS>.json (assessments and the data papers they used); tables: bibliography/papers.parquet, bibliography/edges.parquet; field reference: bibliography/SCHEMA.md; dropped DOI matches: bibliography/DOI_MISMATCHES.md
+- [ORCHID bibliography](https://data.orchid-project.org/bibliography/README.md): every paper ORCHID knows (9,569; roles, evidence counts, typed relations). One paper: https://data.orchid-project.org/bibliography/papers/<key>.json (key = "p" + sha256("doi:<lowercase doi>")[:16]; lookup table in bibliography/index.json); one system: https://data.orchid-project.org/bibliography/systems/<SYS>.json (assessments and the data papers they used); tables: bibliography/papers.parquet, bibliography/edges.parquet; field reference: bibliography/SCHEMA.md; dropped DOI matches: bibliography/DOI_MISMATCHES.md
 
 ## Bulk files
 - https://data.orchid-project.org/literature/orchid-literature.jsonl.gz (all records, one JSON object per line)

@@ -1,10 +1,10 @@
 # Ba–Sr system
 
-> Ba–Sr system: 13 accepted literature values (mixing / partial 12, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Sr system: 12 accepted literature values (mixing / partial 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-SR.html · Markdown: https://data.orchid-project.org/systems/BA-SR.md
 
-13 accepted literature values from 1 paper(s) (experimental 12, model 1); 2 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 12); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-SR.json) · [CSV](https://data.orchid-project.org/systems/BA-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-SR/BaSr-01Fab-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-SR.html) · [Markdown](https://data.orchid-project.org/systems/BA-SR.md)
 
@@ -13,13 +13,11 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
 | mixing / partial | 12 |
 
 ## Calculated phase diagrams
@@ -36,14 +34,6 @@ Table: Assessments with a calculated phase diagram
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BA/BA-SR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BA/BA-SR.json) · [CALPHAD hull BaSr-87Alc](https://data.orchid-project.org/hulls/calphad-sgte/BA/BA-SR--BaSr-87Alc.json)
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ba–Sr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 820.15 K | 820.15 |  | model | [1] Alcock 1987; _cites Chase 1983_ | p. 2; `ORC-SYO2DACLN5` | “Consequently, the boundaries are shown in Fig. 1 as dashed lines between the transformation point of Sr at 547 ~ \[83Cha\] and 22 and 30 at.% Sr at 100 ~” |
 
 ### Mixing / partial (12)
 

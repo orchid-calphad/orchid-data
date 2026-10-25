@@ -72,12 +72,12 @@ Table: Activity / EMF / Gibbs energy, Fe–La–O system
 | Gibbs energy; _printed: Δ°G_ | -281993 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 15; `ORC-FQAAARFJOT.34d1fc` |  |
 | Gibbs energy; _printed: Δ°G_ | -60267 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 28; `ORC-FSQREAZH6D.00133e` |  |
 | Gibbs energy; _printed: Δ°G_ | -309700 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Nakamura 1979_ [doi](https://doi.org/10.1016/0025-5408%2879%2990048-5) | Table 1, p. 4, row 14; `ORC-OZ5W5XF7PB.44634c` |  |
-| Gibbs energy; _printed: Δ°G_ | -287841 J/mol ± 1255 |  | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Kimizuka 1802_ | Table 1, p. 4, row 16; `ORC-RFXKSD4WKW.92308a` |  |
+| Gibbs energy; _printed: Δ°G_ | -287841 J/mol ± 1255 |  | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Kimizuka 1974_ | Table 1, p. 4, row 16; `ORC-RFXKSD4WKW.92308a` |  |
 | Gibbs energy; _printed: Δ°G_ | -307364 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 13; `ORC-VGHL2A235B.d5c509` |  |
-| Gibbs energy; _printed: Δ°G_ | -66066 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Kimizuka 1802_ | Table 1, p. 4, row 29; `ORC-YG4D5T4OJ5.0e974b` |  |
+| Gibbs energy; _printed: Δ°G_ | -66066 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Kimizuka 1974_ | Table 1, p. 4, row 29; `ORC-YG4D5T4OJ5.0e974b` |  |
 | Gibbs energy; _printed: Δ°G_ | -60625 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 26; `ORC-YYY2IMLHI7.34a979` |  |
 | Gibbs energy; _printed: Δ°G_ | -62835 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Nakamura 1979_ [doi](https://doi.org/10.1016/0025-5408%2879%2990048-5) | Table 1, p. 4, row 27; `ORC-ZH3Z447YNC.ffb782` |  |
-| Gibbs energy; _printed: Δ°G_ | -287841 unknown ± 1255 |  | UNKNOWN | experimental | [1] Povoden-Karadeniz 2009; _cites Kimizuka 1802_ | Table 1, p. 4, row 16; `ORC-RFXKSD4WKW.e164df` |  |
+| Gibbs energy; _printed: Δ°G_ | -287841 unknown ± 1255 |  | UNKNOWN | experimental | [1] Povoden-Karadeniz 2009; _cites Kimizuka 1974_ | Table 1, p. 4, row 16; `ORC-RFXKSD4WKW.e164df` |  |
 
 ## Sources
 

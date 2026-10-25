@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Pd4Yb3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -73 | kJ/mol-atom | 3 | 5.000e-5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -73 | kJ/mol-atom | 3 | 5.000e-5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -92.562 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -77.2289 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -71.5898 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -81.181 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -81.181 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

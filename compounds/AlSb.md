@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of AlSb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -82 | kJ/mol (basis unstated) | 2.51 | 0.05 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -82 | kJ/mol (basis unstated) | 2.51 | 0.05 | 6.4 (solution_reaction_calorimetry, calibrated) |  |  |  | 6.4 |
 | -96.6 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 | -84 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 | -81.27 | kJ/mol (basis unstated) |  | 0.005 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |

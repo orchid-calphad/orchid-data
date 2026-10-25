@@ -57,12 +57,12 @@ Table: Uncertainty budget of the literature values of Mo3Si
 | -31.3 | kJ/mol-atom | 1.5 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1.5 |
 | -30.5 | kJ/mol-atom | 1.5 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -29.1 | kJ/mol-atom | 3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -29.1 | kJ/mol-atom | 3 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -29.1 | kJ/mol-atom | 3 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -29.1 | kJ/mol-atom | 3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -29.1 | kJ/mol-atom | 3 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -25.418 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -24.89 | kJ/mol-atom | 2.09 | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -24.4 | kJ/mol-atom | 4.2 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -24.4 | kJ/mol-atom | 4.2 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -39.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -35.83 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -32.28 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
@@ -84,7 +84,7 @@ Table: Uncertainty budget of the literature values of Mo3Si
 | -26 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -25.418 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -24.89 | kJ/mol-atom | 2.09 | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -29.5 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -29.5 | kJ/mol-atom |  | 0.05 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Pd–Rh system
 
-> Pd–Rh system: 17 accepted literature values (mixing / partial 10, phase transition 7) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Rh system: 15 accepted literature values (mixing / partial 10, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-RH.html · Markdown: https://data.orchid-project.org/systems/PD-RH.md
 
-17 accepted literature values from 1 paper(s) (experimental 5, model 2, DFT 10); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+15 accepted literature values from 1 paper(s) (experimental 5, DFT 10); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-RH.json) · [CSV](https://data.orchid-project.org/systems/PD-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-RH/PdRh-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PD-RH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-RH.html) · [Markdown](https://data.orchid-project.org/systems/PD-RH.md)
 
@@ -13,14 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 5 |
-| model | 2 |
 | DFT | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 7 |
+| phase transition | 5 |
 | mixing / partial | 10 |
 
 ## Calculated phase diagrams
@@ -39,14 +38,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (5)
 
 Table: Phase transition, Pd–Rh system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1183 K | 1183 |  | model | [1] Gossé 2016; _cites Gurler 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990291-t) | p. 5; `ORC-OB5BIAAUBO` | “This temperature is slightly higher than the electrical resistivity results by Shield and Williams \[32\] and the 1183 K calculated value by Gürler et al. \[24\].” |
-| Phase transition | 1204 K | 1204 |  | model | [1] Gossé 2016 | p. 5; `ORC-V3HEFIP2KL` | “The use of all the experimental data led to a critical point at 53.6 at.% Rh in good accordance with \[30,32,36\]. The critical temperature is calculated at 1204 K.” |
 | Phase transition | 1827.8 K | 1827.8 | other | experimental | [1] Gossé 2016 | Table 4, p. 5, row 1; `ORC-BQLBQ2V3WG` |  |
 | Phase transition | 1832.8 K | 1832.8 | other; _alloy: Pd 0.9646, Rh 0.0354_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 2; `ORC-X6MP3IDCXD` |  |
 | Phase transition | 1833.3 K | 1833.3 | other; _alloy: Pd 0.9456, Rh 0.0544_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 3; `ORC-ZNLMQ4RPXM` |  |

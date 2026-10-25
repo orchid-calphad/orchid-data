@@ -1,10 +1,10 @@
 # Dy–Sb system
 
-> Dy–Sb system: 25 accepted literature values (invariant reaction 18, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Sb system: 22 accepted literature values (invariant reaction 16, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-SB.html · Markdown: https://data.orchid-project.org/systems/DY-SB.md
 
-25 accepted literature values from 1 paper(s) (experimental 14, model 11); 1 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (experimental 11, model 11); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-SB.json) · [CSV](https://data.orchid-project.org/systems/DY-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-SB/DySb-10Lon.json) · [phases (10)](https://data.orchid-project.org/phases/pages/DY-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-SB.html) · [Markdown](https://data.orchid-project.org/systems/DY-SB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
+| experimental | 11 |
 | model | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 18 |
-| phase transition | 7 |
+| invariant reaction | 16 |
+| phase transition | 6 |
 
 ## Calculated phase diagrams
 
@@ -55,7 +55,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Dy–Sb system (18)
+Table: Invariant reactions reported in the literature for the Dy–Sb system (16)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -63,12 +63,10 @@ Table: Invariant reactions reported in the literature for the Dy–Sb system (18
 | 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.63; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 14; `ORC-RU2WGDVCA6` |  |
 | 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.632; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | model | [1] Long 2010 | Table 2, p. 3, row 13; `ORC-T3GNJVOWIK` |  |
 | 2163 | peritectic: L + β.DySb -> α.DySb | L: Sb 0.369; β.DySb: Sb 0.5; α.DySb: Sb 0.5 | model | [1] Long 2010 | Table 2, p. 3, row 11; `ORC-WSLNLY2PBM` |  |
-| 2053 | peritectic |  | experimental | [1] Long 2010; _cites Mironov 1980_ | p. 1; `ORC-NOWJOGCQE4.8776a9` | “Among these compounds, Dy5 Sb3 and Dy4 Sb3 form through peritectic reactions at 1953 K and 2053 K, respectively, whereas DySb melts congruently at 2443 K.” |
 | 2053 | peritectic: L + α.DySb -> β.Dy4Sb3 | L: Sb 0.35; α.DySb: Sb 0.5; β.Dy4Sb3: Sb 0.428571 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 10; `ORC-PQN7UGMPYP` |  |
 | 2053 | peritectic: L + α.DySb -> β.Dy4Sb3 | L: Sb 0.342; α.DySb: Sb 0.5; β.Dy4Sb3: Sb 0.428571 | model | [1] Long 2010 | Table 2, p. 3, row 9; `ORC-TA5WOGZ7WX` |  |
 | 1953 | peritectic: L + β.Dy4Sb3 -> Dy5Sb3 | L: Sb 0.325; β.Dy4Sb3: Sb 0.428571; Dy5Sb3: Sb 0.375 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 8; `ORC-6HGQYTGDLE` |  |
 | 1953 | peritectic: L + β.Dy4Sb3 -> Dy5Sb3 | L: Sb 0.309; β.Dy4Sb3: Sb 0.428571; Dy5Sb3: Sb 0.375 | model | [1] Long 2010 | Table 2, p. 3, row 7; `ORC-NBHWKEQCXJ` |  |
-| 1953 | peritectic |  | experimental | [1] Long 2010; _cites Mironov 1980_ | p. 1; `ORC-NOWJOGCQE4.9a9de5` | “Among these compounds, Dy5 Sb3 and Dy4 Sb3 form through peritectic reactions at 1953 K and 2053 K, respectively, whereas DySb melts congruently at 2443 K.” |
 | 1654 | peritectic: L + Bcc(Dy) -> Hcp(Dy) | L: Sb 0.018 | model | [1] Long 2010 | Table 2, p. 3, row 5; `ORC-S5JV7EZZ3T` |  |
 | 1653 | peritectic: L + Bcc(Dy) -> Hcp(Dy) | L: Sb 0.075 | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 6; `ORC-HWE76XG2L4` |  |
 | 1441 | eutectic: L -> Hcp(Dy) + Dy5Sb3 | L: Sb 0.126; Dy5Sb3: Sb 0.375 | model | [1] Long 2010 | Table 2, p. 3, row 1; `ORC-3EVQ3SMJLM` |  |
@@ -80,7 +78,7 @@ Table: Invariant reactions reported in the literature for the Dy–Sb system (18
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (6)
 
 Table: Phase transition, Dy–Sb system
 
@@ -91,7 +89,6 @@ Table: Phase transition, Dy–Sb system
 | Phase transition | 2163 K | 2163 | polymorphic: β.DySb -> α.DySb; _β.DySb: Sb 0.5; α.DySb: Sb 0.5_ | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 20; `ORC-433EXLYUGG` |  |
 | Phase transition | 2163 K | 2163 | polymorphic: β.DySb -> α.DySb; _β.DySb: Sb 0.5; α.DySb: Sb 0.5_ | model | [1] Long 2010 | Table 2, p. 3, row 19; `ORC-HF4LRSMOMD` |  |
 | Phase transition | 2443 K | 2443 | congruent melting: L -> β.DySb; _L: Sb 0.5; β.DySb: Sb 0.5_ | experimental | [1] Long 2010; _cites Mironov 1980_ | Table 2, p. 3, row 16; `ORC-KX5XOGQNPD` |  |
-| Phase transition | 2443 K | 2443 | congruent transformation | experimental | [1] Long 2010; _cites Mironov 1980_ | p. 1; `ORC-NOWJOGCQE4.5798e2` | “Among these compounds, Dy5 Sb3 and Dy4 Sb3 form through peritectic reactions at 1953 K and 2053 K, respectively, whereas DySb melts congruently at 2443 K.” |
 | Phase transition | 2445 K | 2445 | congruent melting: L -> β.DySb; _L: Sb 0.5; β.DySb: Sb 0.5_ | model | [1] Long 2010 | Table 2, p. 3, row 15; `ORC-7DX2CO3UVG` |  |
 
 ## Sources

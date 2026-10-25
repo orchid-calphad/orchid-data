@@ -1,10 +1,10 @@
 # Al–Ta system
 
-> Al–Ta system: 235 accepted literature values (phase transition 72, invariant reaction 55, crystal structure 52, phase equilibrium 24) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ta system: 225 accepted literature values (phase transition 67, crystal structure 52, invariant reaction 50, phase equilibrium 24) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-TA.html · Markdown: https://data.orchid-project.org/systems/AL-TA.md
 
-235 accepted literature values from 4 paper(s) (experimental 146, model 54, DFT 1, unspecified 34); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+225 accepted literature values from 4 paper(s) (experimental 141, model 55, DFT 1, unspecified 28); 4 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TA.json) · [CSV](https://data.orchid-project.org/systems/AL-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TA/AlTa-10Wit.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-TA.html) · [Markdown](https://data.orchid-project.org/systems/AL-TA.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 146 |
-| model | 54 |
+| experimental | 141 |
+| model | 55 |
 | DFT | 1 |
-| unspecified | 34 |
+| unspecified | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 55 |
-| phase transition | 72 |
+| invariant reaction | 50 |
+| phase transition | 67 |
 | phase equilibrium | 24 |
 | formation | 10 |
 | heat capacity / entropy / enthalpy | 12 |
@@ -90,7 +90,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Ta system (55)
+Table: Invariant reactions reported in the literature for the Al–Ta system (50)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -103,10 +103,8 @@ Table: Invariant reactions reported in the literature for the Al–Ta system (55
 | 2334 | peritectic: L + β -> σ | L: Ta 0.637; β: Ta 0.92; σ: Ta 0.76 | model | [1] Witusiewicz 2010; _cites Du 1996_ [doi](https://doi.org/10.1007/bf02665557) | Table 4, p. 10, row 4; `ORC-ZDPWQ5SIYC` |  |
 | 2275 | peritectic: L + β -> σ | L: Ta 0.63; β: Ta 0.88; σ: Ta 0.667 | experimental | [1] Witusiewicz 2010; _cites Kimura 2006_ | Table 4, p. 10, row 2; `ORC-CTQBGESW77` |  |
 | 2275 | peritectic: Liquid + bcc (Ta) \<-> σAlTa2 | Liquid: Ta 0.63; bcc (Ta): Ta 0.88; σAlTa2: Ta 0.667 | experimental | [2] Du 1996; _cites ref. 73Kim_ | Table 6, p. 7, row 2; `ORC-ESHDLT5MAV` |  |
-| 2273 | peritectic: Lp + b -> s |  | experimental | [1] Witusiewicz 2010; _cites Kimura 2006_ | p. 4; `ORC-5GQWFLT6HH` | “The temperature of the peritectic reaction Lp þ b 4 s was reported to be about 2373 \[44\] or 2273 K \[23\].” |
-| 2270.4 | peritectic: Liquid + bcc-A2 -> σ | Liquid: Ta 0.643; bcc-A2: Ta 0.877; σ: Ta 0.72 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 4; `ORC-AAI6DJGYFJ` |  |
-| 2043 | peritectic: Lp + s -> 4 |  | experimental | [1] Witusiewicz 2010; _cites Subramanian 1990_ [doi](https://doi.org/10.1007/bf02671926) | p. 3; `ORC-ALCE4KIGUT` | “Although Subramanian et al. \[14\] claimed the peritectic reaction Lp þ s 4 4 to take place at 2043 K, this phase never was found in as-cast alloys \[17\].” |
-| 1901 | congruent melting: Al3Ta\* -> Liquid | Al3Ta\*: Ta 0.25; Liquid: Ta 0.25 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 5; `ORC-JWLZMFS667` |  |
+| 2270.4 | peritectic: Liquid + bcc-A2 -> σ | Liquid: Ta 0.643; bcc-A2: Ta 0.877; σ: Ta 0.72 | model | [3] (ed.) 1998 | Table I, p. 103, row 4; `ORC-AAI6DJGYFJ` |  |
+| 1901 | congruent melting: Al3Ta\* -> Liquid | Al3Ta\*: Ta 0.25; Liquid: Ta 0.25 | model | [3] (ed.) 1998 | Table I, p. 103, row 5; `ORC-JWLZMFS667` |  |
 | 1900 | congruent melting: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 85Sch_ | Table 6, p. 7, row 22; `ORC-CHHBCJPQ2F` |  |
 | 1888 | congruent melting: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 96Sch_ | Table 6, p. 7, row 24; `ORC-LPSM53SBJK` |  |
 | 1885 | peritectic: L + σ -> Ta39Al69 | L: Ta 0.327; σ: Ta 0.51; Ta39Al69: Ta 0.378 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 7; `ORC-K3C65SVRYY` |  |
@@ -115,12 +113,12 @@ Table: Invariant reactions reported in the literature for the Al–Ta system (55
 | 1865 | congruent melting: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 23; `ORC-2IO6LDJVFI` |  |
 | 1854 | congruent transformation: σ -> φ | σ: Ta 0.552; φ: Ta 0.552 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 8; `ORC-AUAYL2VDSC` |  |
 | 1840 | peritectic: Liquid + Al3Ta \<-> Al69Ta39 | Liquid: Ta 0.39; Al3Ta: Ta 0.25; Al69Ta39: Ta 0.4 | experimental | [2] Du 1996; _cites ref. 85Sch_ | Table 6, p. 7, row 5; `ORC-IPEWA3KR76` |  |
-| 1826.8 | eutectic: Liquid -> + AlM-D0\*22 + Al3Ta2-II | Liquid: Ta 0.366; AlM-D0\*22: Ta 0.25; Al3Ta2-II: Ta 0.4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 2; `ORC-6QCSSLXJXL` |  |
+| 1826.8 | eutectic: Liquid -> + AlM-D0\*22 + Al3Ta2-II | Liquid: Ta 0.366; AlM-D0\*22: Ta 0.25; Al3Ta2-II: Ta 0.4 | model | [3] (ed.) 1998 | Table I, p. 103, row 2; `ORC-6QCSSLXJXL` |  |
 | 1824 | peritectic |  | experimental | [1] Witusiewicz 2010; _cites Subramanian 1990_ [doi](https://doi.org/10.1007/bf02671926) | p. 3; `ORC-VTHW4HJFNV.5b97ba` | “In the literature there are both variants of melting for the 3-phase, congruent at 1823 \[23\] or 1900 K \[20\] and peritectic at 1773 \[44\] or 1824 K \[14\].” |
 | 1822 | peritectic: L + Ta39Al69 -> ε | Ta39Al69: Ta 0.359; ε: Ta 0.249 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 9; `ORC-ZUBACZFP2G` |  |
 | 1821 | peritectic: Liquid + Al3Ta \<-> Al69Ta39 | Liquid: Ta 0.37; Al3Ta: Ta 0.25; Al69Ta39: Ta 0.361 | model | [2] Du 1996 | Table 6, p. 7, row 7; `ORC-SY5CYR4JFH` |  |
 | 1820 | eutectic: Liquid \<-> Al69Ta39 + AlTa2 | Liquid: Ta 0.43; Al69Ta39: Ta 0.4; AlTa2: Al 0.333333, Ta 0.666667 | experimental | [2] Du 1996; _cites ref. 85Sch_ | Table 6, p. 7, row 9; `ORC-L666P6CASG` |  |
-| 1819.8 | eutectic: Liquid -> Al3Ta2-H -> + σ | Liquid: Ta 0.444; Al3Ta2-H: Ta 0.4; σ: Ta 0.576 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 3; `ORC-QFSAYDSARW` |  |
+| 1819.8 | eutectic: Liquid -> Al3Ta2-H -> + σ | Liquid: Ta 0.444; Al3Ta2-H: Ta 0.4; σ: Ta 0.576 | model | [3] (ed.) 1998 | Table I, p. 103, row 3; `ORC-QFSAYDSARW` |  |
 | 1814 | peritectic: L + Ta39Al69 -> ε | L: Ta 0.237; Ta39Al69: Ta 0.355; ε: Ta 0.244 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 10; `ORC-YKVRTRPUWM` |  |
 | 1812 | peritectic: Liquid + Al3Ta \<-> Al69Ta39 | Liquid: Ta 0.42; Al3Ta: Ta 0.25; Al69Ta39: Ta 0.361 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 6; `ORC-LP26ZVN6WJ` |  |
 | 1776 | eutectic: Liquid \<-> Al69Ta39 + AlTa2 | Liquid: Ta 0.45; Al69Ta39: Ta 0.361; AlTa2: Ta 0.64 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 10; `ORC-BJC3N6LQSD` |  |
@@ -134,20 +132,17 @@ Table: Invariant reactions reported in the literature for the Al–Ta system (55
 | 1618 | peritectoid: Al69Ta39 + AlTa \<-> Al7Ta5 | Al69Ta39: Ta 0.361; AlTa: Ta 0.5; Al7Ta5: Ta 0.416 | model | [2] Du 1996 | Table 6, p. 7, row 15; `ORC-NGUSR3DH6X` |  |
 | 1500 | peritectoid: Al69Ta39 + Al7Ta5 \<-> Al3Ta2 | Al69Ta39: Ta 0.361; Al7Ta5: Ta 0.416; Al3Ta2: Ta 0.4 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 16; `ORC-5P3BEZZA46` |  |
 | 1499 | peritectoid: Al69Ta39 + Al7Ta5 \<-> Al3Ta2 | Al69Ta39: Ta 0.361; Al7Ta5: Ta 0.416; Al3Ta2: Ta 0.4 | model | [2] Du 1996 | Table 6, p. 7, row 17; `ORC-4RSLH3OOAQ` |  |
-| 1498.1 | polymorphic: Al3Ta2-H -> Al3Ta2-II | Al3Ta2-H: Ta 0.4; Al3Ta2-II: Ta 0.4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 6; `ORC-OOG6CSYD3B` |  |
+| 1498.1 | polymorphic: Al3Ta2-H -> Al3Ta2-II | Al3Ta2-H: Ta 0.4; Al3Ta2-II: Ta 0.4 | model | [3] (ed.) 1998 | Table I, p. 103, row 6; `ORC-OOG6CSYD3B` |  |
 | 1456 | eutectoid: Al69Ta39 \<-> Al3Ta + Al3Ta2 | Al69Ta39: Ta 0.361; Al3Ta: Ta 0.25; Al3Ta2: Ta 0.4 | model | [2] Du 1996 | Table 6, p. 7, row 19; `ORC-OWG3EU4XYG` |  |
 | 1450 | eutectoid: Al69Ta39 \<-> Al3Ta + Al3Ta2 | Al69Ta39: Ta 0.361; Al3Ta: Ta 0.25; Al3Ta2: Ta 0.4 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 18; `ORC-2NIV2LZGPJ` |  |
 | 1371 | eutectoid: Ta39Al69 -> ε + φ | Ta39Al69: Ta 0.368; ε: Ta 0.25; φ: Ta 0.524 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 14; `ORC-MCR5E5Z2WS` |  |
 | 1367 | eutectoid: Ta39Al69 -> ε + φ | Ta39Al69: Ta 0.356; ε: Ta 0.251; φ: Ta 0.512 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 13; `ORC-GIMMJSMQAB` |  |
-| 941 | peritectic: L þ 3 4 (aAl) |  | experimental | [1] Witusiewicz 2010; _cites Glazov 1956_ | p. 9; `ORC-65U4KQNJNU` | “The temperature of the peritectic reaction L þ 3 4 (aAl) was reported in \[10\] to be 941 K.” |
-| 941 | peritectic |  | experimental | [1] Witusiewicz 2010; _cites Glazov 1956_ | p. 10; `ORC-6Q663HTY4Z.ff7cd5` | “The temperature of the peritectic reaction of (aAl) formation is calculated to be 933.7 K, which agrees with our own DTA and DSC measurements and is lower than the value of 941 K reported in \[10\].” |
 | 941 | peritectic: L + ε -> (αAl) | L: Ta 2.000e-4; ε: Ta 0.25; (αAl): Ta 3.700e-4 | experimental | [1] Witusiewicz 2010; _cites Glazov 1956_ | Table 4, p. 10, row 15; `ORC-ROOOKSGIAB` |  |
 | 941 | peritectic: Liquid + Al3Ta \<-> fcc (Al) | Liquid: Ta 2.200e-4; Al3Ta: Ta 0.25; fcc (Al): Ta 3.700e-4 | experimental | [2] Du 1996; _cites ref. 56Gla_ | Table 6, p. 7, row 20; `ORC-Y2YJSO5TRY` |  |
 | 935 | peritectic: Liquid + Al3Ta \<-> fcc (Al) | Liquid: Ta 2.500e-4; Al3Ta: Ta 0.25; fcc (Al): Ta 0.0045 | model | [2] Du 1996 | Table 6, p. 7, row 21; `ORC-BRURBURMMX` |  |
 | 935 | peritectic: L + ε -> (αAl) | L: Ta 2.500e-4; ε: Ta 0.25; (αAl): Ta 0.0045 | model | [1] Witusiewicz 2010; _cites Du 1996_ [doi](https://doi.org/10.1007/bf02665557) | Table 4, p. 10, row 19; `ORC-GBWZ7QZH2O` |  |
-| 934 | peritectic: Liquid + AlM-D0\*22 -> fcc-Al | Liquid: Ta 1.000e-5; AlM-D0\*22: Ta 0.25; fcc-Al: Ta 8.000e-4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 1; `ORC-ESE42TQ5B5` |  |
+| 934 | peritectic: Liquid + AlM-D0\*22 -> fcc-Al | Liquid: Ta 1.000e-5; AlM-D0\*22: Ta 0.25; fcc-Al: Ta 8.000e-4 | model | [3] (ed.) 1998 | Table I, p. 103, row 1; `ORC-ESE42TQ5B5` |  |
 | 933.8 | peritectic: L + ε -> (αAl) |  | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 18; `ORC-YOGMOPZ3TT` |  |
-| 933.7 | peritectic |  | model | [1] Witusiewicz 2010 | p. 10; `ORC-6Q663HTY4Z.29f08c` | “The temperature of the peritectic reaction of (aAl) formation is calculated to be 933.7 K, which agrees with our own DTA and DSC measurements and is lower than the value of 941 K reported in \[10\].” |
 | 933.7 | peritectic: L + ε -> (αAl) | L: Ta 3.800e-5; ε: Ta 0.247; (αAl): Ta 3.800e-4 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 20; `ORC-FN6SX2LP67` |  |
 
 ## Formation enthalpies
@@ -171,20 +166,16 @@ Table: Enthalpies of formation, Al–Ta system (10)
 
 ## Other properties
 
-### Phase transition (72)
+### Phase transition (67)
 
 Table: Phase transition, Al–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 215 K | 215 | other | model | [2] Du 1996 | p. 12; `ORC-YJQKUEGILC.36342b` | “The formally calculated decomposition of the intermediate phases occurs at 249 K for AITa, 234 K for AITTas, and 215 K for AI3Ta2.” |
-| Phase transition | 234 K | 234 | other | model | [2] Du 1996 | p. 12; `ORC-YJQKUEGILC.ef09be` | “The formally calculated decomposition of the intermediate phases occurs at 249 K for AITa, 234 K for AITTas, and 215 K for AI3Ta2.” |
-| Phase transition | 249 K | 249 | other | model | [2] Du 1996 | p. 12; `ORC-YJQKUEGILC.d81e31` | “The formally calculated decomposition of the intermediate phases occurs at 249 K for AITa, 234 K for AITTas, and 215 K for AI3Ta2.” |
 | Phase transition | 924 K | 924 | (αAl) + ε ↔ L + ε; _alloy: Al 0.795, Ta 0.205_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 3; `ORC-ZKCERRNWHU` |  |
 | Phase transition | 933 K | 933 | (αAl) + ε ↔ L + ε; _alloy: Al 0.795, Ta 0.205_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 1; `ORC-5EYAKA66IV` |  |
 | Phase transition | 933.7 K | 933.7 | (αAl) + ε ↔ L + ε; _alloy: Al 0.795, Ta 0.205_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 4; `ORC-GNC77QFZKQ` |  |
 | Phase transition | 933.8 K | 933.8 | (αAl) + ε ↔ L + ε; _alloy: Al 0.795, Ta 0.205_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 2; `ORC-HKP62NSHIC` |  |
-| Phase transition | 941 K | 941 | Lp þ 3 4 (aAl) | experimental | [1] Witusiewicz 2010; _cites Glazov 1956_ | p. 2; `ORC-EUEHZPHNR2` | “The temperature of invariant reaction Lp þ 3 4 (aAl), 941 K was obtained in \[10\] as thermal arrests in DTA cooling curves.” |
 | Phase transition | 1353 K | 1353 | ε + φ ↔ Ta39Al69 + φ; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 30; `ORC-XKMXB7E24K` |  |
 | Phase transition | 1355 K | 1355 | ε + φ ↔ Ta39Al69 + φ; _alloy: Al 0.543, Ta 0.457_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 41; `ORC-3I3EP7QA77` |  |
 | Phase transition | 1371 K | 1371 | ε + φ ↔ Ta39Al69 + ε; _alloy: Al 0.692, Ta 0.308_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 9; `ORC-KJRD7V42LS` |  |
@@ -207,7 +198,6 @@ Table: Phase transition, Al–Ta system
 | Phase transition | 1806 K | 1806 | Ta39Al69 + ε ↔ L + Ta39Al69; _alloy: Al 0.692, Ta 0.308_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 11; `ORC-NFCEC3J3EM` |  |
 | Phase transition | 1810 K | 1810 | L + ε ↔ L; _alloy: Al 0.795, Ta 0.205_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 7; `ORC-ZDFPADFIRT` |  |
 | Phase transition | 1814 K | 1814 | Ta39Al69 + ε ↔ L + Ta39Al69; _alloy: Al 0.692, Ta 0.308_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 12; `ORC-VWO4CWIMXX` |  |
-| Phase transition | 1819 K | 1819 |  | model | [1] Witusiewicz 2010 | p. 10; `ORC-3VQYQDHHDB` | “From Fig. 10 one can observe that the 3-phase with composition of 24.3 at.% Ta melts incongruently at temperature 1819 K by forming liquid, which is only of about 0.5 at.% richer in Al.” |
 | Phase transition | 1820 K | 1820 | Ta39Al69 + σ ↔ Ta39Al69; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 19; `ORC-PA5VZ6IGTS` |  |
 | Phase transition | 1822 K | 1822 | Ta39Al69 + ε ↔ L + Ta39Al69; _alloy: Al 0.692, Ta 0.308_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 10; `ORC-R6W3ELNAPF` |  |
 | Phase transition | 1840 K | 1840 | peritectic: Al3Ta2; _alloy: Ta 0.4_ | unspecified | [2] Du 1996; _cites ref. 85Sch_ | Table I, p. 2, row 38; `ORC-SYGVH2SXYY` |  |
@@ -382,7 +372,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. V.T. Witusiewicz, A.A. Bondar, U. Hecht, J. Zollinger, V.M. Petyukh, O.S. Fomichov et al., Experimental study and thermodynamic re-assessment of the binary Al–Ta system, Intermetallics 18, 92-106 (2010). [doi:10.1016/j.intermet.2009.06.015](https://doi.org/10.1016/j.intermet.2009.06.015)
 2. Y. Du, R. Schmid-Fetzer, Thermodynamic modeling of the Al-Ta system, JPE 17, 311-324 (1996). [doi:10.1007/bf02665557](https://doi.org/10.1007/bf02665557)
-3. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+3. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 4. Julian Gebauer, Peter Franke, Hans Jürgen Seifert, Thermodynamic Evaluation of the system Ta–O and Preliminary Assessment of the Systems Al–Nb–O and Al–Ta–O, Adv Eng Mater 24 (2022). [doi:10.1002/adem.202200162](https://doi.org/10.1002/adem.202200162)
 
 ## Please cite

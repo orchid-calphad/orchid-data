@@ -1,10 +1,10 @@
 # Pb–Pd system
 
-> Pb–Pd system: 81 accepted literature values (invariant reaction 46, formation 20, phase transition 15) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Pd system: 74 accepted literature values (invariant reaction 42, formation 20, phase transition 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-PD.html · Markdown: https://data.orchid-project.org/systems/PB-PD.md
 
-81 accepted literature values from 2 paper(s) (experimental 41, model 35, unspecified 5); 2 calculated phase diagram(s).
+74 accepted literature values from 2 paper(s) (experimental 34, model 35, unspecified 5); 2 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-PD.json) · [CSV](https://data.orchid-project.org/systems/PB-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-PD/PbPd-99Gho-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/PB-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-PD.html) · [Markdown](https://data.orchid-project.org/systems/PB-PD.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 41 |
+| experimental | 34 |
 | model | 35 |
 | unspecified | 5 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 46 |
-| phase transition | 15 |
+| invariant reaction | 42 |
+| phase transition | 12 |
 | formation | 20 |
 
 ## Calculated phase diagrams
@@ -75,21 +75,19 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pb–Pd system (46)
+Table: Invariant reactions reported in the literature for the Pb–Pd system (42)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1473 | L -> (Pd) + Pd3Pb | L: Pd 0.7967; (Pd): Pd 0.8331; Pd3Pb: Pd 0.7719 | model | [1] Ghosh 1999 | Table 1, p. 3, row 2; `ORC-OS2WQSME4R` |  |
-| 1470 | L -> (Pd) + Pd3Pb | L: Pd 0.79; (Pd): Pd 0.86; Pd3Pb: Pd 0.78 | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table 1, p. 3, row 1; `ORC-56SRL3QR63` |  |
-| 1470 | L -> (Pd) + Pd3Pb | L: Pd 0.79; (Pd): Pd 0.86; Pd3Pb: Pd 0.78 | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table I, p. 4, row 1; `ORC-5RYDOPE4B2` |  |
-| 1465 | L -> (Pd) + Pd3Pb | L: Pd 0.8107; (Pd): Pd 0.8491; Pd3Pb: Pd 0.7799 | model | [2] Ghosh 1999 | Table I, p. 4, row 2; `ORC-LU3X756622` |  |
+| 1473 | eutectic: L -> (Pd) + Pd3Pb | L: Pd 0.7967; (Pd): Pd 0.8331; Pd3Pb: Pd 0.7719 | model | [1] Ghosh 1999 | Table 1, p. 3, row 2; `ORC-OS2WQSME4R` |  |
+| 1470 | eutectic: L -> (Pd) + Pd3Pb | L: Pd 0.79; (Pd): Pd 0.86; Pd3Pb: Pd 0.78 | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table 1, p. 3, row 1; `ORC-56SRL3QR63` |  |
+| 1470 | eutectic: L -> (Pd) + Pd3Pb | L: Pd 0.79; (Pd): Pd 0.86; Pd3Pb: Pd 0.78 | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table I, p. 4, row 1; `ORC-5RYDOPE4B2` |  |
+| 1465 | eutectic: L -> (Pd) + Pd3Pb | L: Pd 0.8107; (Pd): Pd 0.8491; Pd3Pb: Pd 0.7799 | model | [2] Ghosh 1999 | Table I, p. 4, row 2; `ORC-LU3X756622` |  |
 | 1108 | L + Pd3Pb -> γPd5Pb3 | L: Pd 0.6; Pd3Pb: Pd 0.75; γPd5Pb3: Pd 0.635 | experimental | [1] Ghosh 1999; _cites Ellner 1973_ [doi](https://doi.org/10.1515/ijmr-1973-640807) | Table 1, p. 3, row 9; `ORC-33N3QM3K5J` |  |
 | 1108 | L + Pd3Pb -> γ-Pd5Pb3 | L: Pd 0.5998; Pd3Pb: Pd 0.75; γ-Pd5Pb3: Pd 0.6363 | model | [2] Ghosh 1999 | Table I, p. 4, row 10; `ORC-6TE6HBIP6Y` |  |
 | 1108 | L + Pd3Pb -> γ-Pd5Pb3 | L: Pd 0.6; Pd3Pb: Pd 0.75; γ-Pd5Pb3: Pd 0.635 | experimental | [2] Ghosh 1999; _cites Ellner 1973_ [doi](https://doi.org/10.1515/ijmr-1973-640807) | Table I, p. 4, row 9; `ORC-JPY6Q4FCPC` |  |
 | 1108 | peritectic |  | experimental | [2] Ghosh 1999; _cites Ellner 1973_ | p. 2; `ORC-KDHRYKIVXH.5de1f6` | “The g-Pd5Pb3 phase forms by a peritectic reaction at 1108 K.\[11,13,14\]” |
 | 1108 | L + Pd3Pb -> γPd5Pb3 | L: Pd 0.5985; Pd3Pb: Pd 0.75; γPd5Pb3: Pd 0.6399 | model | [1] Ghosh 1999 | Table 1, p. 3, row 10; `ORC-TEXPGFMCQL` |  |
-| 1108 | peritectic |  | experimental | [1] Ghosh 1999; _cites Ellner 1973_ | p. 2; `ORC-UUWTF6KCJ6` | “The γPd5Pb3 phase forms by a peritectic reaction at 1108 K (Ref 10, 12, 13).” |
-| 1103 | peritectic |  | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | p. 1; `ORC-7WO2QGPNQO.cba9b1` | “Both Pd3Pb and PdPb2 phases were found to melt congruently at 1493 and 727 K, respectively, with Pd2Pb, Pd6Pb5, and PdPb forming by peritectic reactions at 1103, 868, and 768 K, respectively.” |
 | 1103 | peritectic |  | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | p. 1; `ORC-ASHGXNQTBO.175297` | “Both the Pd3Pb and PdPb2 phases melt congruently\[5\] at 1493 and 727 K, respectively, and the Pd2Pb, Pd6Pb5, and PdPb phases form by peritectic reactions at 1103, 868, and 768 K,\[5\] respectively.” |
 | 1103 | L + Pd3Pb -> γPd5Pb3 | L: Pd 0.59; Pd3Pb: Pd 0.75; γPd5Pb3: Pd 0.6 | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table 1, p. 3, row 8; `ORC-EOQJPHCYUN` |  |
 | 1103 | L + Pd3Pb -> γ-Pd5Pb3 | L: Pd 0.59; Pd3Pb: Pd 0.75; γ-Pd5Pb3: Pd 0.6 | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table I, p. 4, row 8; `ORC-YXD7YGUPJL` |  |
@@ -97,20 +95,18 @@ Table: Invariant reactions reported in the literature for the Pb–Pd system (46
 | 884 | L + γPd5Pb3 -> Pd13Pb9 | L: Pd 0.505; γPd5Pb3: Pd 0.61; Pd13Pb9: Pd 0.587 | experimental | [1] Ghosh 1999; _cites Ellner 1973_ [doi](https://doi.org/10.1515/ijmr-1973-640807) | Table 1, p. 3, row 11; `ORC-JYC6E3LNYO` |  |
 | 884 | L + γ-Pd5Pb3 -> Pd13Pb9 | L: Pd 0.5252; γ-Pd5Pb3: Pd 0.6199; Pd13Pb9: Pd 0.59 | model | [2] Ghosh 1999 | Table I, p. 4, row 12; `ORC-K3I5DQMXQV` |  |
 | 884 | L + γ-Pd5Pb3 -> Pd13Pb9 | L: Pd 0.505; γ-Pd5Pb3: Pd 0.61; Pd13Pb9: Pd 0.587 | experimental | [2] Ghosh 1999; _cites Ellner 1973_ [doi](https://doi.org/10.1515/ijmr-1973-640807) | Table I, p. 4, row 11; `ORC-ZJIZ5D77FU` |  |
-| 868 | peritectic |  | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | p. 1; `ORC-7WO2QGPNQO.9ed282` | “Both Pd3Pb and PdPb2 phases were found to melt congruently at 1493 and 727 K, respectively, with Pd2Pb, Pd6Pb5, and PdPb forming by peritectic reactions at 1103, 868, and 768 K, respectively.” |
 | 868 | peritectic |  | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | p. 1; `ORC-ASHGXNQTBO.a42a46` | “Both the Pd3Pb and PdPb2 phases melt congruently\[5\] at 1493 and 727 K, respectively, and the Pd2Pb, Pd6Pb5, and PdPb phases form by peritectic reactions at 1103, 868, and 768 K,\[5\] respectively.” |
 | 776 | L + Pd13Pb9 -> PdPb | L: Pd 0.4442; Pd13Pb9: Pd 0.59; PdPb: Pd 0.5 | model | [1] Ghosh 1999 | Table 1, p. 3, row 15; `ORC-7DHEBDOVIF` |  |
 | 775 | L + Pd13Pb9 -> PdPb | L: Pd 0.4512; Pd13Pb9: Pd 0.59; PdPb: Pd 0.5 | model | [2] Ghosh 1999 | Table I, p. 4, row 15; `ORC-TQPYBMNOOG` |  |
 | 774 | L + Pd13Pb9 -> PdPb | Pd13Pb9: Pd 0.587; PdPb: Pd 0.5 | experimental | [1] Ghosh 1999; _cites Ellner 1973_ [doi](https://doi.org/10.1515/ijmr-1973-640807) | Table 1, p. 3, row 14; `ORC-GVX643QT45` |  |
 | 774 | L + Pd13Pb9 -> PdPb | Pd13Pb9: Pd 0.587; PdPb: Pd 0.5 | experimental | [2] Ghosh 1999; _cites Ellner 1973_ [doi](https://doi.org/10.1515/ijmr-1973-640807) | Table I, p. 4, row 14; `ORC-OZF4CD2U4K` |  |
 | 768 | L + Pd13Pb9 -> PdPb | L: Pd 0.425; Pd13Pb9: Pd 0.59; PdPb: Pd 0.5 | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table 1, p. 3, row 13; `ORC-5HK622MENN` |  |
-| 768 | peritectic |  | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | p. 1; `ORC-7WO2QGPNQO.af00c0` | “Both Pd3Pb and PdPb2 phases were found to melt congruently at 1493 and 727 K, respectively, with Pd2Pb, Pd6Pb5, and PdPb forming by peritectic reactions at 1103, 868, and 768 K, respectively.” |
 | 768 | peritectic |  | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | p. 1; `ORC-ASHGXNQTBO.1f6126` | “Both the Pd3Pb and PdPb2 phases melt congruently\[5\] at 1493 and 727 K, respectively, and the Pd2Pb, Pd6Pb5, and PdPb phases form by peritectic reactions at 1103, 868, and 768 K,\[5\] respectively.” |
 | 768 | L + Pd13Pb9 -> PdPb | L: Pd 0.425; Pd13Pb9: Pd 0.59; PdPb: Pd 0.5 | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table I, p. 4, row 13; `ORC-K5CFISVBSZ` |  |
-| 727 | L -> PdPb + PdPb2 | L: Pd 0.393; PdPb: Pd 0.5; PdPb2: Pd 0.333 | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table I, p. 4, row 3; `ORC-3MZINB2PUL` |  |
-| 727 | L -> PdPB + PdPb2 | L: Pd 0.393; PdPB: Pd 0.5; PdPb2: Pd 0.333 | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table 1, p. 3, row 3; `ORC-G4DJIQ7WAF` |  |
-| 727 | L -> PdPB + PdPb2 | L: Pd 0.3909; PdPB: Pd 0.5; PdPb2: Pd 0.333 | model | [1] Ghosh 1999 | Table 1, p. 3, row 4; `ORC-RKOGHXKDPN` |  |
-| 725 | L -> PdPb + PdPb2 | L: Pd 0.3992; PdPb: Pd 0.5; PdPb2: Pd 0.333 | model | [2] Ghosh 1999 | Table I, p. 4, row 4; `ORC-UKY63MIAFV` |  |
+| 727 | eutectic: L -> PdPb + PdPb2 | L: Pd 0.393; PdPb: Pd 0.5; PdPb2: Pd 0.333 | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table I, p. 4, row 3; `ORC-3MZINB2PUL` |  |
+| 727 | eutectic: L -> PdPB + PdPb2 | L: Pd 0.393; PdPB: Pd 0.5; PdPb2: Pd 0.333 | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table 1, p. 3, row 3; `ORC-G4DJIQ7WAF` |  |
+| 727 | eutectic: L -> PdPB + PdPb2 | L: Pd 0.3909; PdPB: Pd 0.5; PdPb2: Pd 0.333 | model | [1] Ghosh 1999 | Table 1, p. 3, row 4; `ORC-RKOGHXKDPN` |  |
+| 725 | eutectic: L -> PdPb + PdPb2 | L: Pd 0.3992; PdPb: Pd 0.5; PdPb2: Pd 0.333 | model | [2] Ghosh 1999 | Table I, p. 4, row 4; `ORC-UKY63MIAFV` |  |
 | 704 | Pd13Pb9 + βPd5Pb3 -> αPd5Pb3 | Pd13Pb9: Pd 0.59; βPd5Pb3: Pd 0.6576; αPd5Pb3: Pd 0.625 | model | [1] Ghosh 1999 | Table 1, p. 3, row 17; `ORC-4Y4OVO3JCE` |  |
 | 704 | Pd13Pb9 + β-Pd5Pb3 -> α-Pd5Pb3 | Pd13Pb9: Pd 0.59; β-Pd5Pb3: Pd 0.6576; α-Pd5Pb3: Pd 0.625 | model | [2] Ghosh 1999 | Table I, p. 4, row 17; `ORC-N3ODZPKG6M` |  |
 | 703 | Pd13Pb9 + βPd5Pb3 -> αPd5Pb3 | Pd13Pb9: Pd 0.587; βPd5Pb3: Pd 0.63; αPd5Pb3: Pd 0.625 | experimental | [1] Ghosh 1999; _cites Ellner 1973_ [doi](https://doi.org/10.1515/ijmr-1973-640807) | Table 1, p. 3, row 16; `ORC-BFTOUS2ZAZ` |  |
@@ -119,12 +115,12 @@ Table: Invariant reactions reported in the literature for the Pb–Pd system (46
 | 696 | βPd5Pb3 -> αPd5Pb3 + Pd3Pb | βPd5Pb3: Pd 0.63; αPd5Pb3: Pd 0.625; Pd3Pb: Pd 0.75 | experimental | [1] Ghosh 1999; _cites Ellner 1973_ [doi](https://doi.org/10.1515/ijmr-1973-640807) | Table 1, p. 3, row 18; `ORC-OFG5LRCAR3` |  |
 | 693 | β-Pd5Pb3 -> α-Pd5Pb3 + Pd3Pb | β-Pd5Pb3: Pd 0.6581; α-Pd5Pb3: Pd 0.625; Pd3Pb: Pd 0.75 | model | [2] Ghosh 1999 | Table I, p. 4, row 19; `ORC-3G67XBH4WY` |  |
 | 690 | βPd5Pb3 -> αPd5Pb3 + Pd3Pb | βPd5Pb3: Pd 0.6581; αPd5Pb3: Pd 0.625; Pd3Pb: Pd 0.75 | model | [1] Ghosh 1999 | Table 1, p. 3, row 19; `ORC-WCAWWAZ7WJ` |  |
-| 538 | L -> PdPb2 + (Pb) | L: Pd 0.093; PdPb2: Pd 0.333; (Pb): Pd 0 | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table 1, p. 3, row 5; `ORC-7MBL3X64BP` |  |
-| 538 | L -> PdPb2 + (Pb) | L: Pd 0.093; PdPb2: Pd 0.333; (Pb): Pd 0 | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table I, p. 4, row 5; `ORC-A4LUWPNKUM` |  |
-| 534 | L -> PdPb2 + (Pb) | L: Pd 0.0913; PdPb2: Pd 0.333; (Pb): Pd 0.0016 | model | [1] Ghosh 1999 | Table 1, p. 3, row 7; `ORC-IYC56QQGO3` |  |
-| 533 | L -> PdPb2 + (Pb) | L: Pd 0.0929; PdPb2: Pd 0.333; (Pb): Pd 0 | experimental | [1] Ghosh 1999; _cites Mayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990218-0) | Table 1, p. 3, row 6; `ORC-HCHXDPPJ3H` |  |
-| 533 | L -> PdPb2 + (Pb) | L: Pd 0.0929; PdPb2: Pd 0.333; (Pb): Pd 0 | experimental | [2] Ghosh 1999; _cites Mayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990218-0) | Table I, p. 4, row 6; `ORC-L4Q33ZPU2B` |  |
-| 527 | L -> PdPb2 + (Pb) | L: Pd 0.0854; PdPb2: Pd 0.333; (Pb): Pd 0.0017 | model | [2] Ghosh 1999 | Table I, p. 4, row 7; `ORC-TGEKEK33RG` |  |
+| 538 | eutectic: L -> PdPb2 + (Pb) | L: Pd 0.093; PdPb2: Pd 0.333; (Pb): Pd 0 | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table 1, p. 3, row 5; `ORC-7MBL3X64BP` |  |
+| 538 | eutectic: L -> PdPb2 + (Pb) | L: Pd 0.093; PdPb2: Pd 0.333; (Pb): Pd 0 | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table I, p. 4, row 5; `ORC-A4LUWPNKUM` |  |
+| 534 | eutectic: L -> PdPb2 + (Pb) | L: Pd 0.0913; PdPb2: Pd 0.333; (Pb): Pd 0.0016 | model | [1] Ghosh 1999 | Table 1, p. 3, row 7; `ORC-IYC56QQGO3` |  |
+| 533 | eutectic: L -> PdPb2 + (Pb) | L: Pd 0.0929; PdPb2: Pd 0.333; (Pb): Pd 0 | experimental | [1] Ghosh 1999; _cites Mayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990218-0) | Table 1, p. 3, row 6; `ORC-HCHXDPPJ3H` |  |
+| 533 | eutectic: L -> PdPb2 + (Pb) | L: Pd 0.0929; PdPb2: Pd 0.333; (Pb): Pd 0 | experimental | [2] Ghosh 1999; _cites Mayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990218-0) | Table I, p. 4, row 6; `ORC-L4Q33ZPU2B` |  |
+| 527 | eutectic: L -> PdPb2 + (Pb) | L: Pd 0.0854; PdPb2: Pd 0.333; (Pb): Pd 0.0017 | model | [2] Ghosh 1999 | Table I, p. 4, row 7; `ORC-TGEKEK33RG` |  |
 
 ## Formation enthalpies
 
@@ -157,25 +153,22 @@ Table: Enthalpies of formation, Pb–Pd system (20)
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (12)
 
 Table: Phase transition, Pb–Pd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 727 K | 727 | congruent melting | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | p. 1; `ORC-ASHGXNQTBO.cdb61c` | “Both the Pd3Pb and PdPb2 phases melt congruently\[5\] at 1493 and 727 K, respectively, and the Pd2Pb, Pd6Pb5, and PdPb phases form by peritectic reactions at 1103, 868, and 768 K,\[5\] respectively.” |
-| Phase transition | 727 K | 727 | congruent transformation | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | p. 1; `ORC-7WO2QGPNQO.832db9` | “Both Pd3Pb and PdPb2 phases were found to melt congruently at 1493 and 727 K, respectively, with Pd2Pb, Pd6Pb5, and PdPb forming by peritectic reactions at 1103, 868, and 768 K, respectively.” |
 | Phase transition | 745 K | 745 | L -> PdPb2; _L: Pd 0.667_ | model | [1] Ghosh 1999 | Table 1, p. 3, row 23; `ORC-HJ23RKU5UQ` |  |
 | Phase transition | 747 K | 747 | L -> PdPb2; _PdPb2: Pd 0.667_ | experimental | [2] Ghosh 1999; _cites Mayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990218-0) | Table I, p. 4, row 22; `ORC-SVDK6WTQLS` |  |
 | Phase transition | 747 K | 747 | L -> PdPb2; _L: Pd 0.667_ | experimental | [1] Ghosh 1999; _cites Mayer 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990218-0) | Table 1, p. 3, row 22; `ORC-WFSRCCTAXG` |  |
 | Phase transition | 748 K | 748 | L -> PdPb2; _PdPb2: Pd 0.667_ | model | [2] Ghosh 1999 | Table I, p. 4, row 23; `ORC-V3HQ26YJYN` |  |
 | Phase transition | 791 K | 791 | g-Pd5Pb3 -> b-Pd5Pb3 | experimental | [2] Ghosh 1999 | p. 3; `ORC-IUR7T2DSIL` | “The g-Pd5Pb3 phase is isotypic with NiAs and undergoes an ordering transition to b-Pd5Pb3 around 791 K.” |
 | Phase transition | 791 K | 791 | other | experimental | [2] Ghosh 1999; _cites Ellner 1973_ | p. 2; `ORC-KDHRYKIVXH.33faa1` | “It is isotypic with NiAs and undergoes an ordering transition to b-Pd5Pb3 around 791 K.” |
-| Phase transition | 791 K | 791 | other | experimental | [1] Ghosh 1999; _cites Ellner 1973_ | p. 2; `ORC-Y73NGQLFJO` | “It is isotypic with NiAs and undergoes an ordering transition to βPd5Pb3 around 791 K.” |
 | Phase transition | 1493 K | 1493 | L -> Pd3Pb; _Pd3Pb: Pd 0.75_ | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table 1, p. 3, row 20; `ORC-IICOG6WSPV` |  |
 | Phase transition | 1493 K | 1493 | L -> Pd3Pb; _Pd3Pb: Pd 0.75_ | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | Table I, p. 4, row 20; `ORC-XVAD4FM3YP` |  |
 | Phase transition | 1493 K | 1493 | congruent melting | experimental | [2] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | p. 1; `ORC-ASHGXNQTBO.2e9bea` | “Both the Pd3Pb and PdPb2 phases melt congruently\[5\] at 1493 and 727 K, respectively, and the Pd2Pb, Pd6Pb5, and PdPb phases form by peritectic reactions at 1103, 868, and 768 K,\[5\] respectively.” |
-| Phase transition | 1493 K | 1493 | congruent transformation | experimental | [1] Ghosh 1999; _cites Ruer 1907_ [doi](https://doi.org/10.1002/zaac.19070520131) | p. 1; `ORC-7WO2QGPNQO.24524d` | “Both Pd3Pb and PdPb2 phases were found to melt congruently at 1493 and 727 K, respectively, with Pd2Pb, Pd6Pb5, and PdPb forming by peritectic reactions at 1103, 868, and 768 K, respectively.” |
 | Phase transition | 1494 K | 1494 | L -> Pd3Pb; _Pd3Pb: Pd 0.7547_ | model | [1] Ghosh 1999 | Table 1, p. 3, row 21; `ORC-GUOE6EF45Q` |  |
 | Phase transition | 1506 K | 1506 | L -> Pd3Pb; _Pd3Pb: Pd 0.7547_ | model | [2] Ghosh 1999 | Table I, p. 4, row 21; `ORC-BW3B645IEZ` |  |
 

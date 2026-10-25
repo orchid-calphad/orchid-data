@@ -451,7 +451,7 @@
     "x0": 0.12,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (αSc) + Sc5Si3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -470,7 +470,7 @@
     "x0": 0.12,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (αSc) + Sc5Si3",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -565,7 +565,7 @@
     "x0": 0.77,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (βSc3Si5) + (Si)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -584,7 +584,7 @@
     "x0": 0.77,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (βSc3Si5) + (Si)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -641,7 +641,7 @@
     "x0": 0.375,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Sc5Si3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -659,7 +659,7 @@
     "x0": 0.375,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Sc5Si3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

@@ -1,10 +1,10 @@
 # Li–O system
 
-> Li–O system: 24 accepted literature values (formation 9, invariant reaction 9, heat capacity / entropy / enthalpy 4, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–O system: 21 accepted literature values (formation 9, invariant reaction 8, heat capacity / entropy / enthalpy 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-O.html · Markdown: https://data.orchid-project.org/systems/LI-O.md
 
-24 accepted literature values from 1 paper(s) (experimental 12, model 12); 1 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (experimental 10, model 11); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-O.json) · [CSV](https://data.orchid-project.org/systems/LI-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-O/LiO-11Cha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/LI-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-O.html) · [Markdown](https://data.orchid-project.org/systems/LI-O.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 12 |
+| experimental | 10 |
+| model | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
-| phase transition | 2 |
+| invariant reaction | 8 |
 | formation | 9 |
 | heat capacity / entropy / enthalpy | 4 |
 
@@ -44,19 +43,18 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Li–O system (9)
+Table: Invariant reactions reported in the literature for the Li–O system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2673 | L -> Gas | L: O 0.3333; Gas: O 0.3333 | model | [1] Chang 2011 | Table 3, p. 4, row 6; `ORC-BFRLBIBKLZ` |  |
-| 2600 | L -> Gas | L: O 0.3333; Gas: O 0.3333 | experimental | [1] Chang 2011; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 3, p. 4, row 5; `ORC-W47KAQOE7F` |  |
-| 1711 | L -> Li2O | L: O 0.3333; Li2O: O 0.3333 | experimental | [1] Chang 2011; _cites Ortman 1983_ | Table 3, p. 4, row 3; `ORC-CWOESMWYQQ` |  |
-| 1711 | L -> Li2O | L: O 0.3333; Li2O: O 0.3333 | model | [1] Chang 2011 | Table 3, p. 4, row 4; `ORC-EI535GZ5CJ` |  |
+| 2673 | congruent melting: L -> Gas | L: O 0.3333; Gas: O 0.3333 | model | [1] Chang 2011 | Table 3, p. 4, row 6; `ORC-BFRLBIBKLZ` |  |
+| 2600 | congruent melting: L -> Gas | L: O 0.3333; Gas: O 0.3333 | experimental | [1] Chang 2011; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 3, p. 4, row 5; `ORC-W47KAQOE7F` |  |
+| 1711 | congruent melting: L -> Li2O | L: O 0.3333; Li2O: O 0.3333 | experimental | [1] Chang 2011; _cites Ortman 1983_ | Table 3, p. 4, row 3; `ORC-CWOESMWYQQ` |  |
+| 1711 | congruent melting: L -> Li2O | L: O 0.3333; Li2O: O 0.3333 | model | [1] Chang 2011 | Table 3, p. 4, row 4; `ORC-EI535GZ5CJ` |  |
 | 613.2 | Li2O2 -> Li2O + Gas |  | model | [1] Chang 2011 | Table 3, p. 4, row 8; `ORC-WRNTAGZEIP` |  |
 | 613 | Li2O2 -> Li2O + Gas |  | experimental | [1] Chang 2011; _cites Yu 2009_ | Table 3, p. 4, row 7; `ORC-NMPF3MCGDJ` |  |
-| 453.6 | L -> (Li) + Li2O | L: O 2.000e-6 | experimental | [1] Chang 2011; _cites Sangster 1992_ [doi](https://doi.org/10.1007/bf02667558) | Table 3, p. 4, row 1; `ORC-GW22E5ZPEJ` |  |
-| 453.6 | L -> (Li) + Li2O | L: O 2.000e-6 | model | [1] Chang 2011 | Table 3, p. 4, row 2; `ORC-NRV74RECVF` |  |
-| 453.6 | eutectic |  | experimental | [1] Chang 2011; _cites Sangster 1992_ [doi](https://doi.org/10.1007/bf02667558) | p. 1; `ORC-TBZ6SQT3Y5` | “Sangster and Pelton \[1\] reviewed the solubility data from Refs. \[2-5\] and reported an eutectic reaction involving (Li), Li2 O and liquid at 453.6 K with a eutectic composition of 2 × 10-4 at.% O.” |
+| 453.6 | eutectic: L -> (Li) + Li2O | L: O 2.000e-6 | experimental | [1] Chang 2011; _cites Sangster 1992_ [doi](https://doi.org/10.1007/bf02667558) | Table 3, p. 4, row 1; `ORC-GW22E5ZPEJ` |  |
+| 453.6 | eutectic: L -> (Li) + Li2O | L: O 2.000e-6 | model | [1] Chang 2011 | Table 3, p. 4, row 2; `ORC-NRV74RECVF` |  |
 
 ## Formation enthalpies
 
@@ -77,15 +75,6 @@ Table: Enthalpies of formation, Li–O system (9)
 | Li2O2 | [LiO](https://data.orchid-project.org/compounds/LiO.html) | -151.475 kJ/mol-atom | 298.15 | experimental | -159.217 (mp-aaaaabgj) | -156.379 (oqmd-4780) | [1] Chang 2011; _cites ref. 15_ | Table 4, p. 5, row 6; `ORC-CBPWWARGVT` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Li–O system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1843 K | 1843 |  | experimental | [1] Chang 2011; _cites A 1953_ | p. 1; `ORC-M6SFEPQERF` | “Van Arkel et al. \[7\] observed that Li2 O melts quite sharply at 1843 K.” |
-| Phase transition | 1973 K | 1973 |  | model | [1] Chang 2011; _cites Conclusions 2011_ | p. 1; `ORC-45JHKOPTDQ` | “Jaeger and van Klooster \[6\] assumed that the melting point is around 1973 K because they were unable to melt Li2 O despite heating it up to 1898 K.” |
 
 ### Heat capacity / entropy / enthalpy (4)
 

@@ -1,22 +1,21 @@
 # AlCo: enthalpy of formation
 
-> Enthalpy of formation of AlCo: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AlCo: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AlCo.html · Markdown: https://data.orchid-project.org/compounds/AlCo.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 3); experimental median -60.1 kJ/mol-atom (n = 2); Materials Project -58.998 kJ/mol-atom (mp-aaaaaaky); OQMD -58.889 kJ/mol-atom (oqmd-10411).
+5 accepted literature formation-enthalpy value(s) (experimental 2, DFT 3); experimental median -60.1 kJ/mol-atom (n = 2); Materials Project -58.998 kJ/mol-atom (mp-aaaaaaky); OQMD -58.889 kJ/mol-atom (oqmd-10411).
 
 Systems: [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) · [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AlCo reported in the literature (6)
+Table: Enthalpy of formation of AlCo reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -60.7 kJ/mol-atom ± 0.5 | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 82_ | Table 4, p. 38, row 3; `ORC-WVZQPXXYGJ.0d3cd4` |  |
 | -59.5 kJ/mol-atom | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 81_ | Table 4, p. 38, row 2; `ORC-IAB2LXFNOY.55268e` |  |
-| -57.673 kJ/mol-atom | B2 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 1; `ORC-KVJ737FTEB.64d8f9` |  |
 | -58.46 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 4; `ORC-C22LGJ54LS` |  |
 | -58.37 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 1; `ORC-7DKG7DJ5DH` |  |
 | -58.18 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 3; `ORC-LGTALYPKD6` |  |
@@ -31,10 +30,9 @@ Table: Uncertainty budget of the literature values of AlCo
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -60.7 | kJ/mol-atom | 0.5 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -59.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -57.673 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -58.46 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -58.37 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -58.18 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -58.46 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -58.37 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -58.18 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

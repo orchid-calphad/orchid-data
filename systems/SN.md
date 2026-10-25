@@ -1,10 +1,10 @@
 # Sn system
 
-> Sn system: 103 accepted literature values (crystal structure 51, phase transition 17, formation 15, heat capacity / entropy / enthalpy 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn system: 88 accepted literature values (crystal structure 51, phase transition 16, heat capacity / entropy / enthalpy 8, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN.html · Markdown: https://data.orchid-project.org/systems/SN.md
 
-103 accepted literature values from 19 paper(s) (experimental 30, model 24, DFT 32, unspecified 17); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+88 accepted literature values from 19 paper(s) (experimental 29, model 24, DFT 18, unspecified 17); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN.json) · [CSV](https://data.orchid-project.org/systems/SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN.html) · [Markdown](https://data.orchid-project.org/systems/SN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 30 |
+| experimental | 29 |
 | model | 24 |
-| DFT | 32 |
+| DFT | 18 |
 | unspecified | 17 |
 
 Table: Accepted values by property group
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase transition | 17 |
-| formation | 15 |
+| phase transition | 16 |
+| formation | 1 |
 | mixing / partial | 3 |
 | heat capacity / entropy / enthalpy | 8 |
 | activity / EMF / Gibbs energy | 2 |
@@ -46,29 +46,15 @@ Table: Invariant reactions reported in the literature for the Sn system (5)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Sn system (15)
+Table: Enthalpies of formation, Sn system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | A5-Sn |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 2, p. 4, row 3; `ORC-RV5QQMF4VT.26d8d8` |  |
-| HfNi2Sn |  | 18.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.65b247` |  |
-| HfNi2Sn |  | 211.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.b3dd86` |  |
-| HfNi2Sn |  | 226.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.890082` |  |
-| HfNiSn |  | 219.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.4c169b` |  |
-| HfNiSn |  | 260.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.015b7a` |  |
-| HfNiSn |  | 416.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.3e358d` |  |
-| HfNiSn |  | 435.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 12; `ORC-IEUVTOLMNL.1a6c9d` |  |
-| TiNi2Sn |  | -16.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.b33a89` |  |
-| TiNi2Sn |  | 125.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.cd21bf` |  |
-| TiNi2Sn |  | 201.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.d63d2a` |  |
-| TiNiSn |  | 181.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.2ef513` |  |
-| TiNiSn |  | 213.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.5630f5` |  |
-| TiNiSn |  | 394.8 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 12; `ORC-IEUVTOLMNL.f66269` |  |
-| TiNiSn |  | 403.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.a3092c` |  |
 
 ## Other properties
 
-### Phase transition (17)
+### Phase transition (16)
 
 Table: Phase transition, Sn system
 
@@ -90,7 +76,6 @@ Table: Phase transition, Sn system
 | Phase transition | 488.15 K | 488.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [7] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 19; `ORC-IGSAH2IQHO` |  |
 | Phase transition | 497.15 K | 497.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [7] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 70; `ORC-QIQEYQLXPF` |  |
 | Phase transition | 497.15 K | 497.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [7] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 18; `ORC-WN2IJIA7PS` |  |
-| Phase transition | 505.05 K | 505.05 | Ni3Sn_HT + Ni3Sn_LT; _Ni3Sn_HT: Sn 1; Ni3Sn_LT: Sn 1_ | experimental | [8] Zemanova 2012 | Table 3, p. 5, row 26; `ORC-23QCRMGDG3` |  |
 
 ### Mixing / partial (3)
 

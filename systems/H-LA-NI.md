@@ -1,10 +1,10 @@
 # H–La–Ni system
 
-> H–La–Ni system: 23 accepted literature values (formation 16, heat capacity / entropy / enthalpy 4, phase transition 2, crystal structure 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–La–Ni system: 21 accepted literature values (formation 16, heat capacity / entropy / enthalpy 4, crystal structure 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-LA-NI.html · Markdown: https://data.orchid-project.org/systems/H-LA-NI.md
 
-23 accepted literature values from 2 paper(s) (experimental 14, model 7, DFT 1, unspecified 1); 0 calculated phase diagram(s).
+21 accepted literature values from 2 paper(s) (experimental 14, model 5, DFT 1, unspecified 1); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/H-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LA-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-LA-NI.html) · [Markdown](https://data.orchid-project.org/systems/H-LA-NI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 14 |
-| model | 7 |
+| model | 5 |
 | DFT | 1 |
 | unspecified | 1 |
 
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
 | formation | 16 |
 | heat capacity / entropy / enthalpy | 4 |
 | crystal structure | 1 |
@@ -52,15 +51,6 @@ Table: Enthalpies of formation, H–La–Ni system (16)
 | LaNi5Hx |  | -18.8 kJ/mol-atom | 320.5 | experimental |  |  | [1] Palumbo 2009; _cites Anderson 1973_ | Table 1, p. 2, row 12; `ORC-FSIWRNZD3C.8f2f31` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, H–La–Ni system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 347 K | 347 | other | model | [2] An 2013 | p. 8; `ORC-A3USRJ2WGF.35f434` | “LaNi5H7 decomposed into LaNi5 and H2 at 347 and 379 K under 1 and 3 MPa, respectively.” |
-| Phase transition | 379 K | 379 | other | model | [2] An 2013 | p. 8; `ORC-A3USRJ2WGF.c176b7` | “LaNi5H7 decomposed into LaNi5 and H2 at 347 and 379 K under 1 and 3 MPa, respectively.” |
 
 ### Heat capacity / entropy / enthalpy (4)
 

@@ -1,10 +1,10 @@
 # Cr–Zr system
 
-> Cr–Zr system: 116 accepted literature values (crystal structure 91, invariant reaction 25) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Zr system: 115 accepted literature values (crystal structure 91, invariant reaction 24) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-ZR.html · Markdown: https://data.orchid-project.org/systems/CR-ZR.md
 
-116 accepted literature values from 2 paper(s) (experimental 25, model 91); 8 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+115 accepted literature values from 1 paper(s) (experimental 24, model 90, DFT 1); 8 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-ZR.json) · [CSV](https://data.orchid-project.org/systems/CR-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-ZR/CrZr-09Pav.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-ZR.html) · [Markdown](https://data.orchid-project.org/systems/CR-ZR.md)
 
@@ -12,14 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 91 |
+| experimental | 24 |
+| model | 90 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 25 |
+| invariant reaction | 24 |
 | crystal structure | 91 |
 
 ## Calculated phase diagrams
@@ -102,7 +103,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Zr system (25)
+Table: Invariant reactions reported in the literature for the Cr–Zr system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -127,7 +128,6 @@ Table: Invariant reactions reported in the literature for the Cr–Zr system (25
 | 1606 | eutectic | L: Zr 0.78; C15: Zr 0.36 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 19; `ORC-NTJBPBRLMR` |  |
 | 1605 | eutectic | L: Zr 0.763; BCC: Zr 0.916; C15: Zr 0.378 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 20; `ORC-SOELID3Y45` |  |
 | 1597 | eutectic | L: Zr 0.718; BCC: Zr 0.922; C15: Zr 0.383 | model | [1] Pavlů 2009 | Table 6, p. 5, row 21; `ORC-VTATHV7NUC` |  |
-| 1218.15 | eutectic |  | experimental | [2] Zeng 1995 | p. 4; `ORC-WE67DM3LVC` | “One eutectic and one eutectoid equilibria occur in the Zr-corner at 945 °C and 814. °C respectively (Table 2).” |
 | 1110 | eutectoid | BCC: Zr 0.982; HCP: Zr 0.995; C15: Zr 0.36 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 23; `ORC-PDOLL5SYH3` |  |
 | 1105 | eutectoid | BCC: Zr 0.984; HCP: Zr 0.986; C15: Zr 0.34 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 22; `ORC-4TPRUNSXR3` |  |
 | 1104 | eutectoid | BCC: Zr 0.977; HCP: Zr 0.991; C15: Zr 0.358 | model | [1] Pavlů 2009 | Table 6, p. 5, row 24; `ORC-EKHBZ42GKA` |  |
@@ -145,7 +145,7 @@ Table: Crystal structure, Cr–Zr system
 | Lattice a | 7.124 Å |  | C15; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 16; `ORC-YMXLOL4HPR.0569f8` |  |
 | Lattice a | 5.056 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.e8c44f` |  |
 | Lattice a | 6.178 Å |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.4b1151` |  |
-| Lattice a | 6.348 Å |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.5ad240` |  |
+| Lattice a | 6.348 Å |  | C36; _alloy: Zr 0.5_ | DFT | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.5ad240` |  |
 | Lattice a | 6.465 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.b4acd4` |  |
 | Lattice a | 4.651 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.65e8b5` |  |
 | Lattice a | 4.641 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3; `ORC-4EYZXUDXPN.d17fbd` |  |
@@ -237,7 +237,6 @@ Table: Crystal structure, Cr–Zr system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. J. Pavlů, J. Vřešt’ál, M. Šob, Stability of Laves phases in the Cr–Zr system, Calphad 33, 382-387 (2009). [doi:10.1016/j.calphad.2008.11.003](https://doi.org/10.1016/j.calphad.2008.11.003)
-2. K.J. Zeng, M. Hämäläinen, A theoretical study of the phase equilibria in the CuCrZr system, Journal of Alloys and Compounds 220, 53-61 (1995). [doi:10.1016/0925-8388(94)06029-0](https://doi.org/10.1016/0925-8388%2894%2906029-0)
 
 ## Please cite
 

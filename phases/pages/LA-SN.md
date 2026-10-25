@@ -19,14 +19,14 @@ Table: Phases of the La–Sn system (15)
 | [FCC_A1](#phase-la-sn-fcc-a1); _phase:la-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 550–1134 K, x(Sn) 0–0 | 0 | 4 |
 | [HCP_A3](#phase-la-sn-hcp-a3); _phase:la-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LA11SN10](#phase-la-sn-la11sn10); _phase:la-sn:la11sn10_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1718.8 K, x(Sn) 0.476–0.47619 | 19 | 4 |
-| [LA2SN3](#phase-la-sn-la2sn3); _phase:la-sn:la2sn3_ | Nd2Sn3 · aP20 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1480 K, x(Sn) 0.6–0.6 | 15 | 4 |
+| [LA2SN3](#phase-la-sn-la2sn3); _phase:la-sn:la2sn3_ | Nd2Sn3 · aP20 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1480 K, x(Sn) 0.6–0.6 | 17 | 4 |
 | [LA3SN5](#phase-la-sn-la3sn5); _phase:la-sn:la3sn5_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1510.49 K, x(Sn) 0.625–0.625 | 53 | 4 |
 | [LA5SN3_D88](#phase-la-sn-la5sn3-d88); _phase:la-sn:la5sn3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 674.91–1767.01 K, x(Sn) 0.375–0.375 | 8 | 1 |
 | [LA5SN3_D8M](#phase-la-sn-la5sn3-d8m); _phase:la-sn:la5sn3-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1771.16 K, x(Sn) 0.375–0.375 | 6 | 4 |
-| [LA5SN4](#phase-la-sn-la5sn4); _phase:la-sn:la5sn4_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1847.93 K, x(Sn) 0.44444–0.445 | 26 | 4 |
+| [LA5SN4](#phase-la-sn-la5sn4); _phase:la-sn:la5sn4_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1847.93 K, x(Sn) 0.44444–0.445 | 27 | 4 |
 | [LASN_B33](#phase-la-sn-lasn-b33); _phase:la-sn:lasn-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1580 K, x(Sn) 0.5–0.5 | 32 | 4 |
 | [LASN3_L12](#phase-la-sn-lasn3-l12); _phase:la-sn:lasn3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1432.18 K, x(Sn) 0.75–0.75 | 36 | 4 |
-| [LIQUID](#phase-la-sn-liquid); _phase:la-sn:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 504.95–2500 K, x(Sn) 0–1 | 108 | 4 |
+| [LIQUID](#phase-la-sn-liquid); _phase:la-sn:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 504.95–2500 K, x(Sn) 0–1 | 112 | 4 |
 
 ## DIAMOND_A4 (La–Sn)
 
@@ -414,7 +414,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: La 0.4000, Sn 0.6000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1480 K, x(Sn) 0.6–0.6
-- Literature: 15 values (15 accepted) from 3 papers
+- Literature: 17 values (17 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sn:la2sn3)
 
 Names (8): _corpus: _corpus:phase:la-sn:la2sn3  
@@ -626,7 +626,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Ge4Sm5 · oP36 · Pnma — LaSn-19Li-ass.tdb: 'Prototype Ge4Sm5 (oP36, Pnma)'
 - Candidate (tdb_comment): Ge4Sm5 · oP36 · Pnma — LaSn-19Li-sub.tdb: 'Prototype Ge4Sm5 (oP36, Pnma)'
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1847.93 K, x(Sn) 0.44444–0.445
-- Literature: 26 values (26 accepted) from 3 papers
+- Literature: 27 values (27 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sn:la5sn4)
 
 Names (8): _corpus: _corpus:phase:la-sn:la5sn4  
@@ -804,7 +804,7 @@ _cited as the source of values for this phase_
 - Id: `phase:la-sn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 504.95–2500 K, x(Sn) 0–1
-- Literature: 108 values (108 accepted) from 3 papers
+- Literature: 112 values (112 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sn:liquid)
 
 Names (11): _corpus: _corpus:phase:la-sn:liquid  
@@ -844,10 +844,10 @@ _tdb: _tdb:LaSn-00Hua.tdb:LIQUID, tdb:LaSn-09Idb.tdb:LIQUID, tdb:LaSn-19Li-ass.t
 
 Example references (7 of 7; assessments first): 
 
-- [doi:10.1016/j.calphad.2008.12.003](https://doi.org/10.1016/j.calphad.2008.12.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-019-00751-x](https://doi.org/10.1007/s11669-019-00751-x) Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2008.12.003](https://doi.org/10.1016/j.calphad.2008.12.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/S0925-8388(00)01077-X](https://doi.org/10.1016/S0925-8388%2800%2901077-X) M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/bf02645375](https://doi.org/10.1007/bf02645375) A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).  

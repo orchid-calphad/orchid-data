@@ -311,7 +311,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cu:al4cu9-gamma)
 
 Names (4): _corpus: _corpus:phase:al-cu:al4cu9-gamma  
-_paper: _paper:10.1007/s11661-002-0173-7:γ, paper:10.1016/s0364-5916(98)00037-6:AlCu-γ(D83)  
+_paper: _paper:10.1007/s11661-002-0173-7:γ, paper:sha256-85fd53a1a176b694:AlCu-γ(D83)  
 _tdb: _tdb:AlCu-02Mie.tdb:AL4CU9_GAMMA  
 
 
@@ -324,12 +324,10 @@ _tdb: _tdb:AlCu-02Mie.tdb:AL4CU9_GAMMA
 45: CONST AL4CU9_GAMMA : AL CU : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11661-002-0173-7](https://doi.org/10.1007/s11661-002-0173-7) J. Miettinen, Thermodynamic description of the Cu-Al-Sn system in the copper-rich corner, Metall Mater Trans A 33, 1639-1648 (2002).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1179/imr.1985.30.1.211](https://doi.org/10.1179/imr.1985.30.1.211) J. L. Murray, The aluminium-copper system, International Materials Reviews 30, 211-234 (1985).  
 _cited as the source of values for this phase_
 
@@ -697,7 +695,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cu:bcc-a2)
 
 Names (11): _corpus: _corpus:phase:al-cu:bcc-a2  
-_paper: _paper:10.1007/s10853-020-05423-7:β, paper:10.1007/s11661-002-0173-7:Bcc, paper:10.1007/s11661-002-0173-7:bcc, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1007/s10853-020-05423-7:β, paper:10.1007/s11661-002-0173-7:Bcc, paper:10.1007/s11661-002-0173-7:bcc, paper:sha256-85fd53a1a176b694:bcc-A2  
 _system_alias: _system_alias:al-cu:beta  
 _tdb: _tdb:AlCu-02Mie.tdb:BCC_A2, tdb:AlCu-04Wit.tdb:BCC_A2, tdb:AlCu-15Lia.tdb:BCC_A2, tdb:AlCu-21Kro.tdb:BCC_A2, tdb:AlCu-98Sau-LB.tdb:BCC_A2  
 
@@ -739,7 +737,7 @@ _tdb: _tdb:AlCu-02Mie.tdb:BCC_A2, tdb:AlCu-04Wit.tdb:BCC_A2, tdb:AlCu-15Lia.tdb:
 48: CONST BCC_A2 : AL CU : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/s10853-020-05423-7](https://doi.org/10.1007/s10853-020-05423-7) Aleš Kroupa, Ondřej Zobač, Klaus W. Richter, The thermodynamic reassessment of the binary Al–Cu system, J Mater Sci 56, 3430-3443 (2021).  
 _assessment that models this phase; reports values for this phase_
@@ -749,8 +747,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126) V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/j.intermet.2011.07.007](https://doi.org/10.1016/j.intermet.2011.07.007) Norbert Ponweiser, Christian L. Lengauer, Klaus W. Richter, Re-investigation of phase equilibria in the system Al–Cu and structural analysis of the high-temperature phase η1-Al1−δCu, Intermetallics 19, 1737-1746 (2011).  
 _cited as the source of values for this phase_
 - [doi:10.1179/imr.1985.30.1.211](https://doi.org/10.1179/imr.1985.30.1.211) J. L. Murray, The aluminium-copper system, International Materials Reviews 30, 211-234 (1985).  
@@ -843,7 +839,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cu:fcc-a1)
 
 Names (9): _corpus: _corpus:phase:al-cu:fcc-a1  
-_paper: _paper:10.1007/s10853-020-05423-7:(Cu), paper:10.1007/s11661-002-0173-7:Fcc, paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:10.1007/s10853-020-05423-7:(Cu), paper:10.1007/s11661-002-0173-7:Fcc, paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:AlCu-02Mie.tdb:FCC_A1, tdb:AlCu-04Wit.tdb:FCC_A1, tdb:AlCu-15Lia.tdb:FCC_A1, tdb:AlCu-21Kro.tdb:FCC_A1, tdb:AlCu-98Sau-LB.tdb:FCC_A1  
 
 
@@ -884,7 +880,7 @@ _tdb: _tdb:AlCu-02Mie.tdb:FCC_A1, tdb:AlCu-04Wit.tdb:FCC_A1, tdb:AlCu-15Lia.tdb:
 43: CONST FCC_A1 : AL% CU% : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/s10853-020-05423-7](https://doi.org/10.1007/s10853-020-05423-7) Aleš Kroupa, Ondřej Zobač, Klaus W. Richter, The thermodynamic reassessment of the binary Al–Cu system, J Mater Sci 56, 3430-3443 (2021).  
 _assessment that models this phase; reports values for this phase_
@@ -894,8 +890,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126) V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/j.intermet.2011.07.007](https://doi.org/10.1016/j.intermet.2011.07.007) Norbert Ponweiser, Christian L. Lengauer, Klaus W. Richter, Re-investigation of phase equilibria in the system Al–Cu and structural analysis of the high-temperature phase η1-Al1−δCu, Intermetallics 19, 1737-1746 (2011).  
 _cited as the source of values for this phase_
 - [doi:10.1179/imr.1985.30.1.211](https://doi.org/10.1179/imr.1985.30.1.211) J. L. Murray, The aluminium-copper system, International Materials Reviews 30, 211-234 (1985).  
@@ -970,7 +964,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cu:liquid)
 
 Names (10): _corpus: _corpus:phase:al-cu:liquid  
-_paper: _paper:10.1007/s10853-020-05423-7:liq, paper:10.1007/s10853-020-05423-7:liq., paper:10.1007/s11661-002-0173-7:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1007/s10853-020-05423-7:liq, paper:10.1007/s10853-020-05423-7:liq., paper:10.1007/s11661-002-0173-7:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlCu-02Mie.tdb:LIQUID, tdb:AlCu-04Wit.tdb:LIQUID, tdb:AlCu-15Lia.tdb:LIQUID, tdb:AlCu-21Kro.tdb:LIQUID, tdb:AlCu-98Sau-LB.tdb:LIQUID  
 
 
@@ -1011,7 +1005,7 @@ _tdb: _tdb:AlCu-02Mie.tdb:LIQUID, tdb:AlCu-04Wit.tdb:LIQUID, tdb:AlCu-15Lia.tdb:
 38: CONST LIQUID:L : AL CU : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/s10853-020-05423-7](https://doi.org/10.1007/s10853-020-05423-7) Aleš Kroupa, Ondřej Zobač, Klaus W. Richter, The thermodynamic reassessment of the binary Al–Cu system, J Mater Sci 56, 3430-3443 (2021).  
 _assessment that models this phase; reports values for this phase_
@@ -1023,8 +1017,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.intermet.2011.07.007](https://doi.org/10.1016/j.intermet.2011.07.007) Norbert Ponweiser, Christian L. Lengauer, Klaus W. Richter, Re-investigation of phase equilibria in the system Al–Cu and structural analysis of the high-temperature phase η1-Al1−δCu, Intermetallics 19, 1737-1746 (2011).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1179/imr.1985.30.1.211](https://doi.org/10.1179/imr.1985.30.1.211) J. L. Murray, The aluminium-copper system, International Materials Reviews 30, 211-234 (1985).  
 _cited as the source of values for this phase_
 

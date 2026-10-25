@@ -1,10 +1,10 @@
 # Ta–W system
 
-> Ta–W system: 13 accepted literature values (phase transition 7, other property 2, formation 2, crystal structure 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ta–W system: 12 accepted literature values (phase transition 6, other property 2, formation 2, crystal structure 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TA-W.html · Markdown: https://data.orchid-project.org/systems/TA-W.md
 
-13 accepted literature values from 3 paper(s) (model 7, unspecified 6); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+12 accepted literature values from 2 paper(s) (model 6, unspecified 6); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TA-W.json) · [CSV](https://data.orchid-project.org/systems/TA-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TA-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TA-W/TaW-01Kau-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/TA-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TA-W.html) · [Markdown](https://data.orchid-project.org/systems/TA-W.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 7 |
+| model | 6 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 7 |
+| phase transition | 6 |
 | formation | 2 |
 | crystal structure | 2 |
 | other property | 2 |
@@ -58,7 +58,7 @@ Table: Enthalpies of formation, Ta–W system (2)
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (6)
 
 Table: Phase transition, Ta–W system
 
@@ -68,7 +68,6 @@ Table: Phase transition, Ta–W system
 | Phase transition | 573 K | 573 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022 | Table 3, p. 10, row 10; `ORC-OT55LHZ4KU` |  |
 | Phase transition | 575 K | 575 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 11; `ORC-V67ZVMZMCS` |  |
 | Phase transition | 920 K | 920 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 14; `ORC-4DVDG52LCC` |  |
-| Phase transition | 1000 K | 1000 | other | model | [3] Kaufman 2001 | p. 1; `ORC-VNCNYGVZM4` | “These later results predict B2 ordering for the bee-based Ta-W system with a maximum ordering temperature near 1000 K at 43 at.% Ta.” |
 | Phase transition | 1000 K | 1000 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Turchi 2005_ [doi](https://doi.org/10.1103/physrevb.71.094206) | Table 3, p. 10, row 13; `ORC-5BTOWE72ZW` |  |
 | Phase transition | 1000 K | 1000 | other: TaW; _alloy: Ta 0.5, W 0.5_ | model | [2] Zhang 2022; _cites Jindo 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.12.163) | Table 3, p. 10, row 15; `ORC-DUVZET3SRP` |  |
 
@@ -96,7 +95,6 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. P. E. A. Turchi, V. Drchal, J. Kudrnovský, C. Colinet, Larry Kaufman, Zi-Kui Liu, Application of\<i>ab initio\</i>and CALPHAD thermodynamics to Mo-Ta-W alloys, Phys. Rev. B 71 (2005). [doi:10.1103/physrevb.71.094206](https://doi.org/10.1103/physrevb.71.094206)
 2. Enkuan Zhang, Ying Tang, Mingwen Wen, Abdulmonem Obaied, Irina Roslyakova, Lijun Zhang, On phase stability of Mo-Nb-Ta-W refractory high entropy alloys, International Journal of Refractory Metals and Hard Materials 103, 105780 (2022). [doi:10.1016/j.ijrmhm.2022.105780](https://doi.org/10.1016/j.ijrmhm.2022.105780)
-3. Larry Kaufman, P.E.A. Turchi, Weiming Huang, Zi-Kui Liu, Thermodynamics of the Cr-Ta-W system by combining the Ab Initio and CALPHAD methods, Calphad 25, 419-433 (2001). [doi:10.1016/s0364-5916(01)00061-x](https://doi.org/10.1016/s0364-5916%2801%2900061-x)
 
 ## Please cite
 

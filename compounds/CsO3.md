@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of CsO3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -68.15 | kJ/mol-atom |  | 0.0125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -71 | kJ/mol-atom |  | 0.0125 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -50.175 | kJ/mol-atom |  | 0.0125 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -71 | kJ/mol-atom |  | 0.0125 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -50.175 | kJ/mol-atom |  | 0.0125 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

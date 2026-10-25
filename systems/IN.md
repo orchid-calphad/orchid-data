@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/IN.html · Markdown: https://data.orchid-project.org/systems/IN.md
 
-27 accepted literature values from 9 paper(s) (experimental 7, model 5, DFT 2, unspecified 13); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 9 paper(s) (experimental 7, model 3, DFT 4, unspecified 13); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN.json) · [CSV](https://data.orchid-project.org/systems/IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN.html) · [Markdown](https://data.orchid-project.org/systems/IN.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 7 |
-| model | 5 |
-| DFT | 2 |
+| model | 3 |
+| DFT | 4 |
 | unspecified | 13 |
 
 Table: Accepted values by property group
@@ -53,7 +53,7 @@ Table: Crystal structure, In system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 32.99 Å |  | (In); _alloy: In 1_ | model | [3] Qin 2015 | Table 1, p. 2, row 5; `ORC-LO73XCYMIK.6332b9` |  |
-| Lattice a | 3.2816 Å |  | In; _In: In 1_ | model | [4] Shen 2021 | Table 3, p. 6, row 20; `ORC-JX5L7M3KBV.4ca748` |  |
+| Lattice a | 3.2816 Å |  | In; _In: In 1_ | DFT | [4] Shen 2021 | Table 3, p. 6, row 20; `ORC-JX5L7M3KBV.4ca748` |  |
 | Lattice a | 3.252 not_printed ± 2.000e-4 |  | In; _alloy: In 1_ | experimental | [5] Lee 2010; _cites Wolcyrz 1981_ | Table 1, p. 2, row 5; `ORC-OZIOGXK7NR.d6378e` |  |
 | Lattice a | 3.321 Å | 0 | In; _alloy: In 1_ | DFT | [5] Lee 2010 | Table 1, p. 2, row 4; `ORC-YWD7NO5YZ2.f2cacd` |  |
 | Lattice a | 4.599 Å | 298.15 | (In); _(In): In 1_ | unspecified | [6] Olesinski 1985; _cites ref. 1_ | Table 1, p. 2, row 2; `ORC-QIOKPGOMK6.96bcbe` |  |
@@ -64,7 +64,7 @@ Table: Crystal structure, In system
 | Lattice a | 3.252 Å | 298.15 | In; _In: In 1_ | experimental | [4] Shen 2021; _cites Wolcyrz 1981_ | Table 3, p. 6, row 19; `ORC-44Z3A64EB5.5fa595` |  |
 | Lattice a | 4.599 Å | 298.15 | In; _In: In 1_ | unspecified | [9] Anderson 1991 | Table 4, p. 7, row 3; `ORC-SCY73JF6WQ.7a6670` |  |
 | Lattice c | 50.22 Å |  | (In); _alloy: In 1_ | model | [3] Qin 2015 | Table 1, p. 2, row 5; `ORC-LO73XCYMIK.efa520` |  |
-| Lattice c | 4.9362 Å |  | In; _In: In 1_ | model | [4] Shen 2021 | Table 3, p. 6, row 20; `ORC-JX5L7M3KBV.951bb7` |  |
+| Lattice c | 4.9362 Å |  | In; _In: In 1_ | DFT | [4] Shen 2021 | Table 3, p. 6, row 20; `ORC-JX5L7M3KBV.951bb7` |  |
 | Lattice c | 4.9466 not_printed ± 2.000e-4 |  | In; _alloy: In 1_ | experimental | [5] Lee 2010; _cites Wolcyrz 1981_ | Table 1, p. 2, row 5; `ORC-OZIOGXK7NR.5a4fbb` |  |
 | Lattice c | 4.918 Å | 0 | In; _alloy: In 1_ | DFT | [5] Lee 2010 | Table 1, p. 2, row 4; `ORC-YWD7NO5YZ2.0ced8d` |  |
 | Lattice c | 4.947 Å | 298.15 | (In); _(In): In 1_ | unspecified | [6] Olesinski 1985; _cites ref. 1_ | Table 1, p. 2, row 2; `ORC-QIOKPGOMK6.779b94` |  |

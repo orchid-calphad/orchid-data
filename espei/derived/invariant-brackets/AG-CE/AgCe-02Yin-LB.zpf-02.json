@@ -291,7 +291,7 @@
     "x0": 0.81,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->AgCe+γ-Ce",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -310,7 +310,7 @@
     "x0": 0.81,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->AgCe+γ-Ce",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -329,7 +329,7 @@
     "x0": 0.42,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ag2Ce+AgCe",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -348,7 +348,7 @@
     "x0": 0.42,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ag2Ce+AgCe",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -386,7 +386,7 @@
     "x0": 0.1,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ag+Ag4Ce",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -405,7 +405,7 @@
     "x0": 0.1,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L->Ag+Ag4Ce",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

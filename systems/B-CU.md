@@ -1,10 +1,10 @@
 # B–Cu system
 
-> B–Cu system: 21 accepted literature values (invariant reaction 14, phase equilibrium 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Cu system: 14 accepted literature values (phase equilibrium 7, invariant reaction 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-CU.html · Markdown: https://data.orchid-project.org/systems/B-CU.md
 
-21 accepted literature values from 2 paper(s) (experimental 19, model 2); 0 calculated phase diagram(s).
+14 accepted literature values from 2 paper(s) (experimental 13, model 1); 0 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-CU.json) · [CSV](https://data.orchid-project.org/systems/B-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-CU) · [phases (5)](https://data.orchid-project.org/phases/pages/B-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-CU.html) · [Markdown](https://data.orchid-project.org/systems/B-CU.md)
 
@@ -12,38 +12,31 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
-| model | 2 |
+| experimental | 13 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 7 |
 | phase equilibrium | 7 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-CU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-CU.json) · [CALPHAD hull CuB-09Zha](https://data.orchid-project.org/hulls/calphad-sgte/B/B-CU--CuB-09Zha.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Cu system (14)
+Table: Invariant reactions reported in the literature for the B–Cu system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1333.15 | eutectic |  | experimental | [1] Zhang 2009 | p. 1; `ORC-JB4YLAOBZH` | “The eutectic point is at 10.7 at.% (2.0 wt.%) B and at 1060 ± 2 C.” |
-| 1333.15 | eutectic: L -> (Cu) + (B) | L: B 0.107 | experimental | [2] Wang 2009; _cites Lihl 1954_ | Table 3, p. 4, row 1; `ORC-QJPFZMQKBZ` |  |
-| 1301.15 | eutectic: L -> (B) + (Cu) |  | experimental | [1] Zhang 2009 | p. 1; `ORC-RAOKMPK4SH` | “The temperature associated with the eutectic reaction, L , (B) + (Cu); was measured to be 1028 ± 2 °C.” |
-| 1301.15 | eutectic: L -> (B) + (Cu) |  | experimental | [1] Zhang 2009 | p. 4; `ORC-YXLKSKQK2L` | “The presently measured eutectic temperature of the L , (B) þ (Cu); is at 1028 ± 2 C, which is close to that in Ref 5 but is higher by 15 C than that reported in Ref 7.” |
-| 1300.15 | eutectic |  | model | [1] Zhang 2009 | p. 5; `ORC-K65O62YDH7` | “The calculated eutectic point is at 1027 C and 13.3% B.” |
-| 1294.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Smiryagin 1965_ | p. 1; `ORC-GQAKNZNBPV` | “The eutectic point is reported to be at 1021 C and 10.7 at.% (2 wt.%) B.” |
-| 1294.15 | eutectic: L -> (Cu) + (B) | L: B 0.107; (Cu): B 0.0029 | experimental | [2] Wang 2009; _cites Smiryagin 1965_ | Table 3, p. 4, row 2; `ORC-YTIGY5HRZD` |  |
-| 1286.15 | eutectic: L ↔ (Cu) + (B) |  | experimental | [2] Wang 2009; _cites Rexer 1970_ | p. 2; `ORC-B7LNQZSYY2` | “Rexer and Petzow \[18\] reported the composition (13.3 at.% B) and the temperature (1013 ◦ C) of the eutectic reaction L ↔ (Cu) + (B).” |
-| 1286.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Rexer 1970_ | p. 2; `ORC-DZD7RVM2GC` | “Using optical microscopy, XRD, chemical analysis and TA, they\[7\] determined the eutectic point to be at 13.3 at.% B and 1013 C.” |
-| 1286.15 | eutectic: L -> (Cu) + (B) | L: B 0.133 | experimental | [2] Wang 2009; _cites Rexer 1970_ | Table 3, p. 4, row 4; `ORC-FEPXWDW2UG` |  |
-| 1286.15 | eutectic: L -> (Cu) + (B) | L: B 0.133; (Cu): B 0.0029; (B): B 0.97 | model | [2] Wang 2009 | Table 3, p. 4, row 6; `ORC-ILS5RFJWM5` |  |
-| 1283.15 | eutectic: L -> (Cu) + (B) |  | experimental | [2] Wang 2009; _cites Piton 1974_ | Table 3, p. 4, row 5; `ORC-4BXDQV6QVT` |  |
-| 1281.15 | eutectic: L -> (Cu) + (B) | (B): B 0.97 | experimental | [2] Wang 2009; _cites Wald 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990126-8) | Table 3, p. 4, row 3; `ORC-JTSK44OGT3` |  |
-| 1281.15 | eutectic |  | experimental | [1] Zhang 2009; _cites Wald 2009_ | p. 2; `ORC-X424MWUHAR` | “The eutectic temperature was found to be 1008 C with the eutectic composition being higher than 10 at.% B.” |
+| 1333.15 | eutectic: L -> (Cu) + (B) | L: B 0.107 | experimental | [1] Wang 2009; _cites Lihl 1954_ | Table 3, p. 4, row 1; `ORC-QJPFZMQKBZ` |  |
+| 1294.15 | eutectic: L -> (Cu) + (B) | L: B 0.107; (Cu): B 0.0029 | experimental | [1] Wang 2009; _cites Smiryagin 1965_ | Table 3, p. 4, row 2; `ORC-YTIGY5HRZD` |  |
+| 1286.15 | eutectic: L ↔ (Cu) + (B) |  | experimental | [1] Wang 2009; _cites Rexer 1970_ | p. 2; `ORC-B7LNQZSYY2` | “Rexer and Petzow \[18\] reported the composition (13.3 at.% B) and the temperature (1013 ◦ C) of the eutectic reaction L ↔ (Cu) + (B).” |
+| 1286.15 | eutectic: L -> (Cu) + (B) | L: B 0.133 | experimental | [1] Wang 2009; _cites Rexer 1970_ | Table 3, p. 4, row 4; `ORC-FEPXWDW2UG` |  |
+| 1286.15 | eutectic: L -> (Cu) + (B) | L: B 0.133; (Cu): B 0.0029; (B): B 0.97 | model | [1] Wang 2009 | Table 3, p. 4, row 6; `ORC-ILS5RFJWM5` |  |
+| 1283.15 | eutectic: L -> (Cu) + (B) |  | experimental | [1] Wang 2009; _cites Piton 1974_ | Table 3, p. 4, row 5; `ORC-4BXDQV6QVT` |  |
+| 1281.15 | eutectic: L -> (Cu) + (B) | (B): B 0.97 | experimental | [1] Wang 2009; _cites Wald 1965_ [doi](https://doi.org/10.1016/0022-5088%2865%2990126-8) | Table 3, p. 4, row 3; `ORC-JTSK44OGT3` |  |
 
 ## Other properties
 
@@ -53,20 +46,20 @@ Table: Phase equilibrium, B–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.344, Cu 0.656_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 20; `ORC-5UFL7EQCR3` |  |
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.1757, Cu 0.8243_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 15; `ORC-K55DNTVD25` |  |
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.3893, Cu 0.6107_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 23; `ORC-LIZZ2YXRFP` |  |
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0983, Cu 0.9017_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 10; `ORC-M3JPWYV4CB` |  |
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0518, Cu 0.9482_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 1; `ORC-MS6P3ELFQ7` |  |
-| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0796, Cu 0.9204_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 5; `ORC-YHNJVXN7VD` |  |
-| Phase assemblage |  | 1273.15 | (Cu) + (B); _alloy: B 0.35, Cu 0.65_ | experimental | [1] Zhang 2009 | Table 2, p. 3, row 19; `ORC-FZUZZ55DKD` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.344, Cu 0.656_ | experimental | [2] Zhang 2009 | Table 2, p. 3, row 20; `ORC-5UFL7EQCR3` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.1757, Cu 0.8243_ | experimental | [2] Zhang 2009 | Table 2, p. 3, row 15; `ORC-K55DNTVD25` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.3893, Cu 0.6107_ | experimental | [2] Zhang 2009 | Table 2, p. 3, row 23; `ORC-LIZZ2YXRFP` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0983, Cu 0.9017_ | experimental | [2] Zhang 2009 | Table 2, p. 3, row 10; `ORC-M3JPWYV4CB` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0518, Cu 0.9482_ | experimental | [2] Zhang 2009 | Table 2, p. 3, row 1; `ORC-MS6P3ELFQ7` |  |
+| Phase assemblage |  | 1123.15 | (Cu) + (B); _alloy: B 0.0796, Cu 0.9204_ | experimental | [2] Zhang 2009 | Table 2, p. 3, row 5; `ORC-YHNJVXN7VD` |  |
+| Phase assemblage |  | 1273.15 | (Cu) + (B); _alloy: B 0.35, Cu 0.65_ | experimental | [2] Zhang 2009 | Table 2, p. 3, row 19; `ORC-FZUZZ55DKD` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Wei-Wei Zhang, Yong Du, Honghui Xu, Wei Xiong, Yi Kong, Weihua Sun et al., Thermodynamic Assessment of the Cu-B System Supported by Key Experiment and First-Principles Calculations, J. Phase Equilib. Diffus. 30, 480-486 (2009). [doi:10.1007/s11669-009-9561-7](https://doi.org/10.1007/s11669-009-9561-7)
-2. C.P. Wang, S.H. Guo, A.T. Tang, F.S. Pan, X.J. Liu, K. Ishida, Thermodynamic assessments of the Cu–B and Cu–Tm systems, Journal of Alloys and Compounds 482, 67-72 (2009). [doi:10.1016/j.jallcom.2009.03.101](https://doi.org/10.1016/j.jallcom.2009.03.101)
+1. C.P. Wang, S.H. Guo, A.T. Tang, F.S. Pan, X.J. Liu, K. Ishida, Thermodynamic assessments of the Cu–B and Cu–Tm systems, Journal of Alloys and Compounds 482, 67-72 (2009). [doi:10.1016/j.jallcom.2009.03.101](https://doi.org/10.1016/j.jallcom.2009.03.101)
+2. Wei-Wei Zhang, Yong Du, Honghui Xu, Wei Xiong, Yi Kong, Weihua Sun et al., Thermodynamic Assessment of the Cu-B System Supported by Key Experiment and First-Principles Calculations, J. Phase Equilib. Diffus. 30, 480-486 (2009). [doi:10.1007/s11669-009-9561-7](https://doi.org/10.1007/s11669-009-9561-7)
 
 ## Please cite
 

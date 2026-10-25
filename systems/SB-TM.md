@@ -1,10 +1,10 @@
 # Sb–Tm system
 
-> Sb–Tm system: 28 accepted literature values (invariant reaction 16, formation 8, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Tm system: 26 accepted literature values (invariant reaction 16, formation 8, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-TM.html · Markdown: https://data.orchid-project.org/systems/SB-TM.md
 
-28 accepted literature values from 1 paper(s) (experimental 8, model 13, unspecified 7); 1 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (experimental 6, model 13, unspecified 7); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-TM.json) · [CSV](https://data.orchid-project.org/systems/SB-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-TM/SbTm-11Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SB-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-TM.html) · [Markdown](https://data.orchid-project.org/systems/SB-TM.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
+| experimental | 6 |
 | model | 13 |
 | unspecified | 7 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
-| phase transition | 4 |
+| phase transition | 2 |
 | formation | 8 |
 
 ## Calculated phase diagrams
@@ -96,15 +96,13 @@ Table: Enthalpies of formation, Sb–Tm system (8)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (2)
 
 Table: Phase transition, Sb–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 913.15 K | 913.15 | SbTm2 | experimental | [1] Wang 2011; _cites Abdusalyamova 1988_ | p. 2; `ORC-W4HMQED3H2` | “Abdusalyamova et al. \[5\] were the first to report incongruent melting of the SbTm2 phase at 640 °C by means of DTA.” |
-| Phase transition | 1893.15 K | 1893.15 | polymorphic: α Sb3 Tm5 ↔ β Sb3 Tm5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2; `ORC-NT3CRJ54VW.8da485` | “Two reversible polymorphic transitions (α SbTm ↔ β SbTm at 1780 °C and α Sb3 Tm5 ↔ β Sb3 Tm5 at ∼ 1620 °C) were observed by Abdusalyamova et al. \[13\].” |
-| Phase transition | 2053.15 K | 2053.15 | polymorphic: α SbTm ↔ β SbTm | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2; `ORC-NT3CRJ54VW.46b711` | “Two reversible polymorphic transitions (α SbTm ↔ β SbTm at 1780 °C and α Sb3 Tm5 ↔ β Sb3 Tm5 at ∼ 1620 °C) were observed by Abdusalyamova et al. \[13\].” |
 | Phase transition | 2293.15 K | 2293.15 | SbTm | experimental | [1] Wang 2011; _cites Abdusalyamova 1991_ | p. 2; `ORC-MK6VQSTN5T.4acdc6` | “Later, based on different thermal and X-ray phase and microstructural analyses, Abdusalyamova et al. \[13\] investigated the phase diagram in the Sb-Tm system, and reported three stoichiometric compounds: SbTm2 (peritectic formation at 640 °C), SbTm (melting point 2020 °C), and Sb5 Tm3 (peritectic formation at 1640 °C).” |
 
 ## Sources

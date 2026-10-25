@@ -184,7 +184,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-zr:liquid)
 
 Names (5): _corpus: _corpus:phase:si-zr:liquid  
-_paper: _paper:10.1016/j.jallcom.2008.01.061:L, paper:10.1016/s0364-5916(98)00037-6:L  
+_paper: _paper:10.1016/j.jallcom.2008.01.061:L, paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:SiZr-09Che.tdb:LIQUID, tdb:SiZr-94Gue-LB.tdb:LIQUID  
 
 
@@ -204,7 +204,7 @@ _tdb: _tdb:SiZr-09Che.tdb:LIQUID, tdb:SiZr-94Gue-LB.tdb:LIQUID
 23: CONST LIQUID:L : SI ZR : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.01.061](https://doi.org/10.1016/j.jallcom.2008.01.061) H.M. Chen, F. Zheng, H.S. Liu, L.B. Liu, Z.P. Jin, Thermodynamic assessment of B–Zr and Si–Zr binary systems, Journal of Alloys and Compounds 468, 209-216 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -212,8 +212,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02898272](https://doi.org/10.1007/bf02898272) H. Okamoto, The Si-Zr (Silicon-Zirconium) system, Bulletin of Alloy Phase Diagrams 11, 513-519 (1990).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SI2ZR_C49 (Si–Zr)
 
@@ -345,7 +343,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-zr:si4zr5)
 
 Names (4): _corpus: _corpus:phase:si-zr:si4zr5  
-_paper: _paper:10.1016/0364-5916(94)90036-1:Si4Zr5, paper:10.1016/s0364-5916(98)00037-6:Si4Zr5  
+_paper: _paper:10.1016/0364-5916(94)90036-1:Si4Zr5, paper:sha256-85fd53a1a176b694:Si4Zr5  
 _tdb: _tdb:SiZr-94Gue-LB.tdb:SI4ZR5  
 
 
@@ -358,12 +356,10 @@ _tdb: _tdb:SiZr-94Gue-LB.tdb:SI4ZR5
 60: CONST SI4ZR5 : SI : ZR : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/0364-5916(94)90036-1](https://doi.org/10.1016/0364-5916%2894%2990036-1) C. Gueneau, C. Servant, I. Ansara, N. Dupin, Thermodynamic assessment of the SiZr system, Calphad 18, 319-327 (1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SI4ZR5_ALPHA (Si–Zr)
 
@@ -437,7 +433,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-zr:sizr)
 
 Names (4): _corpus: _corpus:phase:si-zr:sizr  
-_paper: _paper:10.1016/0364-5916(94)90036-1:SiZr, paper:10.1016/s0364-5916(98)00037-6:SiZr  
+_paper: _paper:10.1016/0364-5916(94)90036-1:SiZr, paper:sha256-85fd53a1a176b694:SiZr  
 _tdb: _tdb:SiZr-94Gue-LB.tdb:SIZR  
 
 
@@ -450,12 +446,10 @@ _tdb: _tdb:SiZr-94Gue-LB.tdb:SIZR
 54: CONST SIZR : SI : ZR : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/0364-5916(94)90036-1](https://doi.org/10.1016/0364-5916%2894%2990036-1) C. Gueneau, C. Servant, I. Ansara, N. Dupin, Thermodynamic assessment of the SiZr system, Calphad 18, 319-327 (1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SIZR_B27 (Si–Zr)
 
@@ -565,7 +559,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-zr:sizr3)
 
 Names (6): _corpus: _corpus:phase:si-zr:sizr3  
-_paper: _paper:10.1016/0364-5916(94)90036-1:SiZr3, paper:10.1016/j.jallcom.2008.01.061:SiZr3, paper:10.1016/s0364-5916(98)00037-6:SiZr3  
+_paper: _paper:10.1016/0364-5916(94)90036-1:SiZr3, paper:10.1016/j.jallcom.2008.01.061:SiZr3, paper:sha256-85fd53a1a176b694:SiZr3  
 _tdb: _tdb:SiZr-09Che.tdb:SIZR3, tdb:SiZr-94Gue-LB.tdb:SIZR3  
 
 
@@ -585,14 +579,12 @@ _tdb: _tdb:SiZr-09Che.tdb:SIZR3, tdb:SiZr-94Gue-LB.tdb:SIZR3
 80: CONST SIZR3 : SI : ZR : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.01.061](https://doi.org/10.1016/j.jallcom.2008.01.061) H.M. Chen, F. Zheng, H.S. Liu, L.B. Liu, Z.P. Jin, Thermodynamic assessment of B–Zr and Si–Zr binary systems, Journal of Alloys and Compounds 468, 209-216 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(94)90036-1](https://doi.org/10.1016/0364-5916%2894%2990036-1) C. Gueneau, C. Servant, I. Ansara, N. Dupin, Thermodynamic assessment of the SiZr system, Calphad 18, 319-327 (1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

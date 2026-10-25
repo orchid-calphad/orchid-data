@@ -1,10 +1,10 @@
 # Si–V system
 
-> Si–V system: 132 accepted literature values (formation 66, crystal structure 41, invariant reaction 12, phase transition 11) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–V system: 128 accepted literature values (formation 66, crystal structure 41, invariant reaction 12, phase transition 7) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-V.html · Markdown: https://data.orchid-project.org/systems/SI-V.md
 
-132 accepted literature values from 3 paper(s) (experimental 46, model 46, DFT 21, unspecified 19); 4 calculated phase diagram(s).
+128 accepted literature values from 3 paper(s) (experimental 43, model 45, DFT 21, unspecified 19); 4 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-V.json) · [CSV](https://data.orchid-project.org/systems/SI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-V/SiV-08Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/SI-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-V.html) · [Markdown](https://data.orchid-project.org/systems/SI-V.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
-| model | 46 |
+| experimental | 43 |
+| model | 45 |
 | DFT | 21 |
 | unspecified | 19 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 12 |
-| phase transition | 11 |
+| phase transition | 7 |
 | phase equilibrium | 2 |
 | formation | 66 |
 | crystal structure | 41 |
@@ -97,16 +97,16 @@ Table: Invariant reactions reported in the literature for the Si–V system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2187.15 | L -> V5Si3 + V3Si | L: V 0.722; V5Si3: V 0.625; V3Si: V 0.751 | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 12; `ORC-PGU46YRFQH` |  |
-| 2168.15 | L -> V5Si3 + V3Si | L: V 0.71; V5Si3: V 0.625; V3Si: V 0.745 | experimental | [1] Zhang 2008; _cites Jorda 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990126-6) | Table 4, p. 4, row 11; `ORC-32UQKUXCS4` |  |
-| 2143.15 | L -> V3Si + (V) | L: V 0.87; V3Si: V 0.81; (V): V 0.93 | experimental | [1] Zhang 2008; _cites Jorda 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990126-6) | Table 4, p. 4, row 15; `ORC-7J3SZ3QMWY` |  |
-| 2110.15 | L -> V3Si + (V) | L: V 0.892; V3Si: V 0.801; (V): V 0.952 | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 16; `ORC-AEWIBF6YF3` |  |
+| 2187.15 | eutectic: L -> V5Si3 + V3Si | L: V 0.722; V5Si3: V 0.625; V3Si: V 0.751 | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 12; `ORC-PGU46YRFQH` |  |
+| 2168.15 | eutectic: L -> V5Si3 + V3Si | L: V 0.71; V5Si3: V 0.625; V3Si: V 0.745 | experimental | [1] Zhang 2008; _cites Jorda 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990126-6) | Table 4, p. 4, row 11; `ORC-32UQKUXCS4` |  |
+| 2143.15 | eutectic: L -> V3Si + (V) | L: V 0.87; V3Si: V 0.81; (V): V 0.93 | experimental | [1] Zhang 2008; _cites Jorda 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990126-6) | Table 4, p. 4, row 15; `ORC-7J3SZ3QMWY` |  |
+| 2110.15 | eutectic: L -> V3Si + (V) | L: V 0.892; V3Si: V 0.801; (V): V 0.952 | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 16; `ORC-AEWIBF6YF3` |  |
 | 1943.15 | L + V5Si3 -> V6Si5 | L: V 0.43; V5Si3: V 0.625; V6Si5: V 0.546 | experimental | [1] Zhang 2008; _cites Yu 1973_ | Table 4, p. 4, row 7; `ORC-7OGQT57CAQ` |  |
 | 1940.15 | L + V5Si3 -> V6Si5 | L: V 0.438; V5Si3: V 0.625; V6Si5: V 0.546 | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 8; `ORC-6SMD23LOSF` |  |
-| 1913.15 | L -> VSi2 + V6Si5 | L: V 0.41; VSi2: V 0.334; V6Si5: V 0.546 | experimental | [1] Zhang 2008; _cites Yu 1973_ | Table 4, p. 4, row 5; `ORC-IFUAEGAQYL` |  |
-| 1904.15 | L -> VSi2 + V6Si5 | L: V 0.424; VSi2: V 0.334; V6Si5: V 0.546 | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 6; `ORC-7CJKQWD6T5` |  |
-| 1668.15 | L -> (Si) + VSi2 | L: V 0.053; (Si): V 0; VSi2: V 0.334 | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 2; `ORC-WJIVE6EEEM` |  |
-| 1666.15 | L -> (Si) + VSi2 | L: V 0.05; (Si): V 0; VSi2: V 0.334 | experimental | [1] Zhang 2008 | Table 4, p. 4, row 1; `ORC-OGZHAEJNXO` |  |
+| 1913.15 | eutectic: L -> VSi2 + V6Si5 | L: V 0.41; VSi2: V 0.334; V6Si5: V 0.546 | experimental | [1] Zhang 2008; _cites Yu 1973_ | Table 4, p. 4, row 5; `ORC-IFUAEGAQYL` |  |
+| 1904.15 | eutectic: L -> VSi2 + V6Si5 | L: V 0.424; VSi2: V 0.334; V6Si5: V 0.546 | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 6; `ORC-7CJKQWD6T5` |  |
+| 1668.15 | eutectic: L -> (Si) + VSi2 | L: V 0.053; (Si): V 0; VSi2: V 0.334 | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 2; `ORC-WJIVE6EEEM` |  |
+| 1666.15 | eutectic: L -> (Si) + VSi2 | L: V 0.05; (Si): V 0; VSi2: V 0.334 | experimental | [1] Zhang 2008 | Table 4, p. 4, row 1; `ORC-OGZHAEJNXO` |  |
 | 733.15 | V6Si5 -> V5Si3 + VSi2 | V6Si5: V 0.546; V5Si3: V 0.625; VSi2: V 0.334 | model | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 4, p. 4, row 17; `ORC-ZETX4FEOCV` |  |
 | 732.15 | V6Si5 -> V5Si3 + VSi2 | V6Si5: V 0.546; V5Si3: V 0.625; VSi2: V 0.334 | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 18; `ORC-3YI2O7UC74` |  |
 
@@ -187,16 +187,12 @@ Table: Enthalpies of formation, Si–V system (66)
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (7)
 
 Table: Phase transition, Si–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 17 K | 17 | other | experimental | [1] Zhang 2008; _cites Bruning 1967_ | p. 1; `ORC-NCJLVVZEFK` | “There is also extensive interest for V3 Si due to its superconducting transition at T ≈ 17 K \[2\].” |
-| Phase transition | 733 K | 733 | other | model | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | p. 2; `ORC-QUR7QPKAYB` | “Zhang et al. \[9\] indicated that V6 Si5 is stable down to 773 K based on XRD, and they estimated its decomposition temperature to be 733 K by a hybrid first-principles/CALPHAD approach.” |
-| Phase transition | 1160 K | 1160 | other | experimental | [1] Zhang 2008; _cites Storms 1985_ | p. 1; `ORC-4SAWXOIQKS` | “which was used as input in previous optimizations \[6,7\], while the real one derived by Storms and Myers \[8\] is 1160 K.” |
-| Phase transition | 1433 K | 1433 | other | experimental | [1] Zhang 2008; _cites Smith 1981_ [doi](https://doi.org/10.1007/bf02873702) | p. 1; `ORC-A5CRXJMZM6` | “Firstly, the eutectoid decomposition temperature of V6 Si5 phase was mistakenly regarded as 1433 K (1160 ◦ C) \[3,4\]” |
 | Phase transition | 1665.15 K | 1665.15 | eutectic: V3Si97; _alloy: Si 0.97, V 0.03_ | experimental | [1] Zhang 2008 | Table 1, p. 2, row 3; `ORC-EXA2IIJYNM` |  |
 | Phase transition | 1943.15 K | 1943.15 | L -> VSi2; _L: V 0.334; VSi2: V 0.334_ | experimental | [1] Zhang 2008; _cites Kalishevich 1968_ | Table 4, p. 4, row 3; `ORC-CU3XYZJYTA` |  |
 | Phase transition | 1956.15 K | 1956.15 | L -> VSi2; _L: V 0.334; VSi2: V 0.334_ | unspecified | [1] Zhang 2008 | Table 4, p. 4, row 4; `ORC-ERAEL2CMZO` |  |

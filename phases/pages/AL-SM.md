@@ -23,7 +23,7 @@ Table: Phases of the Al–Sm system (13)
 | [BCC_A2](#phase-al-sm-bcc-a2); _phase:al-sm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 973.36–2499.27 K, x(Sm) 0.89027–1 | 7 | 3 |
 | [FCC_A1](#phase-al-sm-fcc-a1); _phase:al-sm:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–947.78 K, x(Sm) 0–0 | 6 | 3 |
 | [HCP_A3](#phase-al-sm-hcp-a3); _phase:al-sm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300.49–1382.31 K, x(Sm) 0.99998–1 | 0 | 3 |
-| [LIQUID](#phase-al-sm-liquid); _phase:al-sm:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 893.81–2500 K, x(Sm) 0–1 | 36 | 3 |
+| [LIQUID](#phase-al-sm-liquid); _phase:al-sm:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 893.81–2500 K, x(Sm) 0–1 | 37 | 3 |
 | [RHOMB_C19](#phase-al-sm-rhomb-c19); _phase:al-sm:rhomb-c19_ | CdCl2 · C19 · hR3 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1187.99 K, x(Sm) 0.96244–1 | 3 | 3 |
 
 ## AL11SM3_LT (Al–Sm)
@@ -511,11 +511,11 @@ _assessment that models this phase_
 - Id: `phase:al-sm:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 893.81–2500 K, x(Sm) 0–1
-- Literature: 36 values (36 accepted) from 1 papers
+- Literature: 37 values (37 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sm:liquid)
 
-Names (6): _corpus: _corpus:phase:al-sm:liquid  
-_paper: _paper:10.1007/s11661-007-9445-6:Liq, paper:10.1007/s11661-007-9445-6:liq  
+Names (7): _corpus: _corpus:phase:al-sm:liquid  
+_paper: _paper:10.1007/s11661-007-9445-6:Liq, paper:10.1007/s11661-007-9445-6:liq, paper:10.1007/s11661-007-9445-6:liquid  
 _tdb: _tdb:AlSm-08Jia.tdb:LIQUID, tdb:AlSm-08Zho.tdb:LIQUID, tdb:AlSm-98Sac.tdb:LIQUID  
 
 

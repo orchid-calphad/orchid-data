@@ -102,12 +102,12 @@ Table: Invariant reactions reported in the literature for the Co–Sm system (62
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1612 | Liq.->α-Co(fcc)+Co17Sm2 | L: Sm 0.079; Co17Sm2: Sm 0.105263 | model | [1] Su 1998 | Table 3, p. 4, row 32; `ORC-J3GK64YP7M` |  |
-| 1600 | Liq.->α-Co(fcc)+Co17Sm2 | L: Sm 0.092; Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 33; `ORC-5ZVSQLEWIP` |  |
-| 1600 | Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | model | [2] Yuan 2011 | Table 2, p. 3, row 36; `ORC-DUCD54PC5N` |  |
-| 1600 | Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 37; `ORC-LKMELK7LZK` |  |
-| 1598 | Liq.->α-Co(fcc)+Co17Sm2 | Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 34; `ORC-MZ7TEMZHWT` |  |
-| 1598 | Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 38; `ORC-X2YA4XD4ZE` |  |
+| 1612 | eutectic: Liq.->α-Co(fcc)+Co17Sm2 | L: Sm 0.079; Co17Sm2: Sm 0.105263 | model | [1] Su 1998 | Table 3, p. 4, row 32; `ORC-J3GK64YP7M` |  |
+| 1600 | eutectic: Liq.->α-Co(fcc)+Co17Sm2 | L: Sm 0.092; Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 33; `ORC-5ZVSQLEWIP` |  |
+| 1600 | eutectic: Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | model | [2] Yuan 2011 | Table 2, p. 3, row 36; `ORC-DUCD54PC5N` |  |
+| 1600 | eutectic: Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 37; `ORC-LKMELK7LZK` |  |
+| 1598 | eutectic: Liq.->α-Co(fcc)+Co17Sm2 | Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 34; `ORC-MZ7TEMZHWT` |  |
+| 1598 | eutectic: Liq -> α(Co) + Sm2Co17 | Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 38; `ORC-X2YA4XD4ZE` |  |
 | 1595 | Liq.+Co17Sm2->Co5Sm | L: Sm 0.192; Co17Sm2: Sm 0.105263; Co5Sm: Sm 0.166667 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 25; `ORC-A4F3NFKHZI` |  |
 | 1595 | Liq + Sm2Co17 -> SmCo5 | Sm2Co17: Sm 0.105263; SmCo5: Sm 0.166667 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 31; `ORC-VQUWVV3WDM` |  |
 | 1593 | Liq + Sm2Co17 -> SmCo5 | Sm2Co17: Sm 0.105263; SmCo5: Sm 0.166667 | model | [2] Yuan 2011 | Table 2, p. 3, row 30; `ORC-3QZYKNSLNE` |  |
@@ -141,12 +141,12 @@ Table: Invariant reactions reported in the literature for the Co–Sm system (62
 | 1083 | SmCo5 -> Sm5Co19 + Sm2Co17 | SmCo5: Sm 0.166667; Sm5Co19: Sm 0.208333; Sm2Co17: Sm 0.105263 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 40; `ORC-S52TJA6SZO` |  |
 | 1083 | Co5Sm->Co19Sm5+Co17Sm2 | Co5Sm: Sm 0.166667; Co19Sm5: Sm 0.208333; Co17Sm2: Sm 0.105263 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 31; `ORC-SRNQVIDO2L` |  |
 | 1023 | eutectoid: SmCo5 -> Sm2 Co7 + Sm2 Co17 |  | model | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | p. 1; `ORC-KK55OVEQ55` | “SmCo5 undergoes eutectoidal decomposition into Sm2 Co7 and Sm2 Co17 at about 1023 K.” |
-| 958 | Liq -> γ(Sm) + Sm3Co | Sm3Co: Sm 0.75 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 2; `ORC-OIO3RQGNEU` |  |
-| 954 | Liq -> γ(Sm) + Sm3Co | Sm3Co: Sm 0.75 | model | [2] Yuan 2011 | Table 2, p. 3, row 1; `ORC-NEJ6YFL4YV` |  |
+| 958 | eutectic: Liq -> γ(Sm) + Sm3Co | Sm3Co: Sm 0.75 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 2; `ORC-OIO3RQGNEU` |  |
+| 954 | eutectic: Liq -> γ(Sm) + Sm3Co | Sm3Co: Sm 0.75 | model | [2] Yuan 2011 | Table 2, p. 3, row 1; `ORC-NEJ6YFL4YV` |  |
 | 948 | γ(Sm) -> β(Sm) + Sm3Co | Sm3Co: Sm 0.75 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 4; `ORC-LUOGVVUJAC` |  |
 | 946 | γ(Sm) -> β(Sm) + Sm3Co | Sm3Co: Sm 0.75 | model | [2] Yuan 2011 | Table 2, p. 3, row 3; `ORC-MKLKZST3NS` |  |
-| 943 | Liq.->α-Sm(r hom)+CoSm3 | L: Sm 0.83; α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 2; `ORC-JISCPG6W7J` |  |
-| 938.8 | Liq.->α-Sm(r hom)+CoSm3 | L: Sm 0.817; α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | model | [1] Su 1998 | Table 3, p. 4, row 1; `ORC-2QVWM5RCLP` |  |
+| 943 | eutectic: Liq.->α-Sm(r hom)+CoSm3 | L: Sm 0.83; α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 2; `ORC-JISCPG6W7J` |  |
+| 938.8 | eutectic: Liq.->α-Sm(r hom)+CoSm3 | L: Sm 0.817; α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | model | [1] Su 1998 | Table 3, p. 4, row 1; `ORC-2QVWM5RCLP` |  |
 | 886 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 12; `ORC-E6YE5QZV3B` |  |
 | 886 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 13; `ORC-MOYD2VXDYF` |  |
 | 886 | Liq.+CoSm3->Co4Sm9 | L: Sm 0.644; CoSm3: Sm 0.75; Co4Sm9: Sm 0.692308 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 8; `ORC-UPVZAREZTT` |  |
@@ -156,14 +156,14 @@ Table: Invariant reactions reported in the literature for the Co–Sm system (62
 | 879 | β(Sm) -> α(Sm) + Sm3Co | Sm3Co: Sm 0.75 | model | [2] Yuan 2011 | Table 2, p. 3, row 5; `ORC-YRMJL63YB3` |  |
 | 878 | Liq.+CoSm3->Co4Sm9 | CoSm3: Sm 0.75; Co4Sm9: Sm 0.692308 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 9; `ORC-HQKHI23C3H` |  |
 | 878 | Liq + Sm3Co -> Sm5Co2 | Sm3Co: Sm 0.75; Sm5Co2: Sm 0.714286 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 14; `ORC-RDDYLEOQSY` |  |
-| 872 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | model | [2] Yuan 2011 | Table 2, p. 3, row 15; `ORC-HVJDQUFBFN` |  |
-| 868 | Liq.->α-Sm(r hom)+CoSm3 | α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 3; `ORC-I2TGEIBJLD` |  |
-| 865.4 | Liq.->Co4Sm9+Co2Sm | L: Sm 0.63; Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | model | [1] Su 1998 | Table 3, p. 4, row 10; `ORC-IRMF3X4A3A` |  |
-| 863 | Liq.->Co4Sm9+Co2Sm | L: Sm 0.63; Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 11; `ORC-2LK6YY2A6C` |  |
-| 863 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 17; `ORC-QWLD7INTKO` |  |
-| 856 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 16; `ORC-IAFIQDUB53` |  |
-| 848 | Liq.->Co4Sm9+Co2Sm | Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 12; `ORC-OZMZWBGZD6` |  |
-| 848 | Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 18; `ORC-U52UBSELLD` |  |
+| 872 | eutectic: Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | model | [2] Yuan 2011 | Table 2, p. 3, row 15; `ORC-HVJDQUFBFN` |  |
+| 868 | eutectic: Liq.->α-Sm(r hom)+CoSm3 | α-Sm(r hom): Sm 1; CoSm3: Sm 0.75 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 3; `ORC-I2TGEIBJLD` |  |
+| 865.4 | eutectic: Liq.->Co4Sm9+Co2Sm | L: Sm 0.63; Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | model | [1] Su 1998 | Table 3, p. 4, row 10; `ORC-IRMF3X4A3A` |  |
+| 863 | eutectic: Liq.->Co4Sm9+Co2Sm | L: Sm 0.63; Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 3, p. 4, row 11; `ORC-2LK6YY2A6C` |  |
+| 863 | eutectic: Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Ge 1993_ [doi](https://doi.org/10.1515/ijmr-1993-840306) | Table 2, p. 3, row 17; `ORC-QWLD7INTKO` |  |
+| 856 | eutectic: Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Yuan 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.08.035) | Table 2, p. 3, row 16; `ORC-IAFIQDUB53` |  |
+| 848 | eutectic: Liq.->Co4Sm9+Co2Sm | Co4Sm9: Sm 0.692308; Co2Sm: Sm 0.333333 | experimental | [1] Su 1998; _cites Buschow 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 3, p. 4, row 12; `ORC-OZMZWBGZD6` |  |
+| 848 | eutectic: Liq -> Sm5Co2 + SmCo2 | Sm5Co2: Sm 0.714286; SmCo2: Sm 0.333333 | experimental | [2] Yuan 2011; _cites Van 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990037-4) | Table 2, p. 3, row 18; `ORC-U52UBSELLD` |  |
 
 ## Other properties
 

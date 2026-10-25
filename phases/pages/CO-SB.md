@@ -19,7 +19,7 @@ Table: Phases of the Co–Sb system (8)
 | [COSB3_D02](#phase-co-sb-cosb3-d02); _phase:co-sb:cosb3-d02_ | CoAs3 · D0_2 · cI32 · Im-3 (204) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1147.13 K, x(Sb) 0.75–0.75 | 14 | 4 |
 | [FCC_A1](#phase-co-sb-fcc-a1); _phase:co-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 620–1772.98 K, x(Sb) 0–0.03902 | 9 | 4 |
 | [HCP_A3](#phase-co-sb-hcp-a3); _phase:co-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–695.24 K, x(Sb) 0–6e-05 | 0 | 4 |
-| [LIQUID](#phase-co-sb-liquid); _phase:co-sb:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 901.33–2500 K, x(Sb) 0–1 | 40 | 4 |
+| [LIQUID](#phase-co-sb-liquid); _phase:co-sb:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 901.33–2500 K, x(Sb) 0–1 | 41 | 4 |
 
 ## RHOMBOHEDRAL_A7 (Co–Sb)
 
@@ -453,11 +453,11 @@ _assessment that models this phase_
 - Id: `phase:co-sb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 901.33–2500 K, x(Sb) 0–1
-- Literature: 40 values (40 accepted) from 1 papers
+- Literature: 41 values (41 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-sb:liquid)
 
-Names (6): _corpus: _corpus:phase:co-sb:liquid  
-_paper: _paper:10.1016/j.calphad.2007.11.001:Liq  
+Names (7): _corpus: _corpus:phase:co-sb:liquid  
+_paper: _paper:10.1007/s11661-019-05288-9:Liquid, paper:10.1016/j.calphad.2007.11.001:Liq  
 _tdb: _tdb:CoSb-08Zha.tdb:LIQUID, tdb:CoSb-09Zha.tdb:LIQUID, tdb:CoSb-19Gie.tdb:LIQUID, tdb:CoSb-20Bro.tdb:LIQUID  
 
 
@@ -494,9 +494,9 @@ _tdb: _tdb:CoSb-08Zha.tdb:LIQUID, tdb:CoSb-09Zha.tdb:LIQUID, tdb:CoSb-19Gie.tdb:
 Example references (10 of 11; assessments first): 
 
 - [doi:10.1016/j.calphad.2007.11.001](https://doi.org/10.1016/j.calphad.2007.11.001) Yubi Zhang, Changrong Li, Zhenmin Du, Tai Geng, The thermodynamic assessment of the Co–Sb system, Calphad 32, 56-63 (2008).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11661-019-05288-9](https://doi.org/10.1007/s11661-019-05288-9) Wojciech Gierlotka, Sinn-wen Chen, Ssu-ming Tseng, Po-han Lin, Co-In-Sb Ternary System (II): Isoplethal Section and Thermodynamic Modeling, Metall Mater Trans A 50, 3891-3902 (2019).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2008.12.004](https://doi.org/10.1016/j.calphad.2008.12.004) Y. Zhang, C. Li, Z. Du, C. Guo, J.-C. Tedenac, Calphad, 33, 405-14(2009).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101694](https://doi.org/10.1016/j.calphad.2019.101694) P. Broz, F. Zelenka, J. Vrestal, A. Zemanova, A. Kroupa, J. Bursik, M. Svoboda, L. Simonikova, T. Pokorny, Calphad, 68, 101694(2020).  

@@ -1,10 +1,10 @@
 # Na–Te system
 
-> Na–Te system: 27 accepted literature values (invariant reaction 20, formation 6, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–Te system: 19 accepted literature values (invariant reaction 12, formation 6, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-TE.html · Markdown: https://data.orchid-project.org/systems/NA-TE.md
 
-27 accepted literature values from 1 paper(s) (experimental 20, model 7); 1 calculated phase diagram(s).
+19 accepted literature values from 1 paper(s) (experimental 12, model 7); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-TE.json) · [CSV](https://data.orchid-project.org/systems/NA-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-TE/NaTe-14Che.json) · [phases (8)](https://data.orchid-project.org/phases/pages/NA-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-TE.html) · [Markdown](https://data.orchid-project.org/systems/NA-TE.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 12 |
 | model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 20 |
+| invariant reaction | 12 |
 | phase transition | 1 |
 | formation | 6 |
 
@@ -46,30 +46,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Na–Te system (20)
+Table: Invariant reactions reported in the literature for the Na–Te system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 676 | eutectic |  | experimental | [1] Chen 2014; _cites Pellini 1910_ | p. 1; `ORC-ALVSKBJBYC` | “The eutectic temperature for the invariant reaction involving Na-Te melts, Te and NaTe3 was identified at 676 K by Pellini and Quercigh \[7\] and Kraus and Glass \[9\].” |
-| 676 | liq -> NaTe3 + Te | NaTe3: Te 0.75; Te: Te 1 | experimental | [1] Chen 2014; _cites Pellini 1910_ | Table 3, p. 4, row 12; `ORC-W5Q7T3MLB3` |  |
-| 673 | liq -> NaTe3 + Te | liq: Te 0.87; NaTe3: Te 0.75; Te: Te 1 | model | [1] Chen 2014 | Table 3, p. 4, row 11; `ORC-TUHPNLZWHI` |  |
+| 676 | eutectic: liq -> NaTe3 + Te | NaTe3: Te 0.75; Te: Te 1 | experimental | [1] Chen 2014; _cites Pellini 1910_ | Table 3, p. 4, row 12; `ORC-W5Q7T3MLB3` |  |
+| 673 | eutectic: liq -> NaTe3 + Te | liq: Te 0.87; NaTe3: Te 0.75; Te: Te 1 | model | [1] Chen 2014 | Table 3, p. 4, row 11; `ORC-TUHPNLZWHI` |  |
 | 628 | liq + Na2Te -> NaTe | Na2Te: Te 0.333333; NaTe: Te 0.5 | experimental | [1] Chen 2014; _cites Kraus 1929_ [doi](https://doi.org/10.1021/j150301a004) | Table 3, p. 4, row 5; `ORC-2XI6LLN33J` |  |
 | 628 | liq + Na2Te -> NaTe | liq: Te 0.53; Na2Te: Te 0.333333; NaTe: Te 0.5 | model | [1] Chen 2014 | Table 3, p. 4, row 3; `ORC-BPFMLIXWCD` |  |
-| 628 | peritectic |  | experimental | [1] Chen 2014; _cites Kraus 1929_ [doi](https://doi.org/10.1021/j150301a004) | p. 1; `ORC-GB2GA4EIV5.0b6885` | “The peritectic temperature for the invariant reaction involving Na-Te melts, Na2Te and NaTe was identified at 621 K by Pellini and Quercigh \[7\], 628 K by Kraus and Glass \[9\], and 622 K by Petric and Pelton \[10\].” |
-| 622 | peritectic |  | experimental | [1] Chen 2014; _cites Petric 1989_ [doi](https://doi.org/10.1002/bbpc.19890930105) | p. 1; `ORC-GB2GA4EIV5.b47e33` | “The peritectic temperature for the invariant reaction involving Na-Te melts, Na2Te and NaTe was identified at 621 K by Pellini and Quercigh \[7\], 628 K by Kraus and Glass \[9\], and 622 K by Petric and Pelton \[10\].” |
 | 622 | liq + Na2Te -> NaTe | Na2Te: Te 0.333333; NaTe: Te 0.5 | experimental | [1] Chen 2014; _cites Petric 1989_ [doi](https://doi.org/10.1002/bbpc.19890930105) | Table 3, p. 4, row 6; `ORC-W2456QYIK4` |  |
-| 621 | peritectic |  | experimental | [1] Chen 2014; _cites Pellini 1910_ | p. 1; `ORC-GB2GA4EIV5.c52e8c` | “The peritectic temperature for the invariant reaction involving Na-Te melts, Na2Te and NaTe was identified at 621 K by Pellini and Quercigh \[7\], 628 K by Kraus and Glass \[9\], and 622 K by Petric and Pelton \[10\].” |
 | 621 | liq + Na2Te -> NaTe | Na2Te: Te 0.333333; NaTe: Te 0.5 | experimental | [1] Chen 2014; _cites Pellini 1910_ | Table 3, p. 4, row 4; `ORC-PILYUS57G3` |  |
-| 600 | liq -> NaTe3 + NaTe | liq: Te 0.58; NaTe3: Te 0.75; NaTe: Te 0.5 | model | [1] Chen 2014 | Table 3, p. 4, row 7; `ORC-TPSVAQPATR` |  |
-| 592 | liq -> NaTe3 + NaTe | NaTe3: Te 0.75; NaTe: Te 0.5 | experimental | [1] Chen 2014; _cites Kraus 1929_ [doi](https://doi.org/10.1021/j150301a004) | Table 3, p. 4, row 9; `ORC-BBCVKNYBIN` |  |
-| 592 | eutectic |  | experimental | [1] Chen 2014; _cites Kraus 1929_ [doi](https://doi.org/10.1021/j150301a004) | p. 1; `ORC-E55RUDEPIH.21001a` | “The eutectic temperature for the invariant reaction involving Na-Te melts, NaTe and NaTe3 was identified at 590 K by Pellini and Quercigh \[7\], at 592 K by Kraus and Glass \[9\], and at 591 K by Petric and Pelton \[10\].” |
-| 591 | eutectic |  | experimental | [1] Chen 2014; _cites Petric 1989_ [doi](https://doi.org/10.1002/bbpc.19890930105) | p. 1; `ORC-E55RUDEPIH.4c3b11` | “The eutectic temperature for the invariant reaction involving Na-Te melts, NaTe and NaTe3 was identified at 590 K by Pellini and Quercigh \[7\], at 592 K by Kraus and Glass \[9\], and at 591 K by Petric and Pelton \[10\].” |
-| 591 | liq -> NaTe3 + NaTe | NaTe3: Te 0.75; NaTe: Te 0.5 | experimental | [1] Chen 2014; _cites Petric 1989_ [doi](https://doi.org/10.1002/bbpc.19890930105) | Table 3, p. 4, row 10; `ORC-NSN6UL3NYA` |  |
-| 590 | liq -> NaTe3 + NaTe | NaTe3: Te 0.75; NaTe: Te 0.5 | experimental | [1] Chen 2014; _cites Pellini 1910_ | Table 3, p. 4, row 8; `ORC-AHSHBC6H2X` |  |
-| 590 | eutectic |  | experimental | [1] Chen 2014; _cites Pellini 1910_ | p. 1; `ORC-E55RUDEPIH.7e511e` | “The eutectic temperature for the invariant reaction involving Na-Te melts, NaTe and NaTe3 was identified at 590 K by Pellini and Quercigh \[7\], at 592 K by Kraus and Glass \[9\], and at 591 K by Petric and Pelton \[10\].” |
-| 370.8 | eutectic |  | experimental | [1] Chen 2014; _cites Pellini 1910_ | p. 1; `ORC-5QY22QNZ3Q` | “The eutectic temperature for the invariant reaction involving Na-Te melts, NaTe and bcc Na was identified at 370.8 K by Pellini and Quercigh \[7\].” |
-| 370.8 | liq -> Na + Na2Te | Na: Te 0; Na2Te: Te 0.333333 | experimental | [1] Chen 2014; _cites Pellini 1910_ | Table 3, p. 4, row 2; `ORC-GXDS4XESA5` |  |
-| 370 | liq -> Na + Na2Te | Na: Te 1.000e-4; Na2Te: Te 0.333333 | model | [1] Chen 2014 | Table 3, p. 4, row 1; `ORC-77GSLBGDM6` |  |
+| 600 | eutectic: liq -> NaTe3 + NaTe | liq: Te 0.58; NaTe3: Te 0.75; NaTe: Te 0.5 | model | [1] Chen 2014 | Table 3, p. 4, row 7; `ORC-TPSVAQPATR` |  |
+| 592 | eutectic: liq -> NaTe3 + NaTe | NaTe3: Te 0.75; NaTe: Te 0.5 | experimental | [1] Chen 2014; _cites Kraus 1929_ [doi](https://doi.org/10.1021/j150301a004) | Table 3, p. 4, row 9; `ORC-BBCVKNYBIN` |  |
+| 591 | eutectic: liq -> NaTe3 + NaTe | NaTe3: Te 0.75; NaTe: Te 0.5 | experimental | [1] Chen 2014; _cites Petric 1989_ [doi](https://doi.org/10.1002/bbpc.19890930105) | Table 3, p. 4, row 10; `ORC-NSN6UL3NYA` |  |
+| 590 | eutectic: liq -> NaTe3 + NaTe | NaTe3: Te 0.75; NaTe: Te 0.5 | experimental | [1] Chen 2014; _cites Pellini 1910_ | Table 3, p. 4, row 8; `ORC-AHSHBC6H2X` |  |
+| 370.8 | eutectic: liq -> Na + Na2Te | Na: Te 0; Na2Te: Te 0.333333 | experimental | [1] Chen 2014; _cites Pellini 1910_ | Table 3, p. 4, row 2; `ORC-GXDS4XESA5` |  |
+| 370 | eutectic: liq -> Na + Na2Te | Na: Te 1.000e-4; Na2Te: Te 0.333333 | model | [1] Chen 2014 | Table 3, p. 4, row 1; `ORC-77GSLBGDM6` |  |
 
 ## Formation enthalpies
 

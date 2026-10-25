@@ -1,10 +1,10 @@
 # Ca–Ce system
 
-> Ca–Ce system: 30 accepted literature values (invariant reaction 13, mixing / partial 12, phase transition 3, crystal structure 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Ce system: 25 accepted literature values (mixing / partial 12, invariant reaction 11, crystal structure 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-CE.html · Markdown: https://data.orchid-project.org/systems/CA-CE.md
 
-30 accepted literature values from 2 paper(s) (experimental 6, model 11, DFT 13); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+25 accepted literature values from 2 paper(s) (experimental 6, model 6, DFT 13); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-CE.json) · [CSV](https://data.orchid-project.org/systems/CA-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-CE/CaCe-07Ham.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CA-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-CE.html) · [Markdown](https://data.orchid-project.org/systems/CA-CE.md)
 
@@ -13,15 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 11 |
+| model | 6 |
 | DFT | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 13 |
-| phase transition | 3 |
+| invariant reaction | 11 |
 | mixing / partial | 12 |
 | crystal structure | 2 |
 
@@ -55,35 +54,23 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ca–Ce system (13)
+Table: Invariant reactions reported in the literature for the Ca–Ce system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1123.15 | L′ + L″ = βCa |  | model | [1] Hampl 2007 | Table 3, p. 5, row 1; `ORC-WSQP63RRHM` |  |
 | 1122.15 | L′ + L″ = βCa |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 2; `ORC-UYJPR4GJP4` |  |
-| 1108 | Liquid 1 -> bcc(Ca) + liquid 2 | Liquid 1: Ce 0.002 | experimental | [2] Zhang 2008; _cites Gschneider 1961_ | Table 5, p. 4, row 3; `ORC-HEBZHG3B35` |  |
-| 1105.8 | Liquid 1 -> bcc(Ca) + liquid 2 | Liquid 1: Ce 0.0027; bcc(Ca): Ce 2.300e-4; liquid 2: Ce 0.9997 | model | [2] Zhang 2008 | Table 5, p. 4, row 4; `ORC-N4MA27PAMO` |  |
+| 1108 | monotectic: Liquid 1 -> bcc(Ca) + liquid 2 | Liquid 1: Ce 0.002 | experimental | [2] Zhang 2008; _cites Gschneider 1961_ | Table 5, p. 4, row 3; `ORC-HEBZHG3B35` |  |
+| 1105.8 | monotectic: Liquid 1 -> bcc(Ca) + liquid 2 | Liquid 1: Ce 0.0027; bcc(Ca): Ce 2.300e-4; liquid 2: Ce 0.9997 | model | [2] Zhang 2008 | Table 5, p. 4, row 4; `ORC-N4MA27PAMO` |  |
 | 1079.15 | L″ + βCa = βCe |  | model | [1] Hampl 2007 | Table 3, p. 5, row 3; `ORC-WT7M5H2XAQ` |  |
 | 1078.15 | L″ + βCa = βCe |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 4; `ORC-LPZBTFLHRE` |  |
-| 1061.7 | Liquid 1 -> bcc(Ce) + bcc(Ca) | Liquid 1: Ce 0.998; bcc(Ce): Ce 0.9998; bcc(Ca): Ce 1.500e-5 | model | [2] Zhang 2008 | Table 5, p. 4, row 2; `ORC-S4DNF4EHDS` |  |
+| 1061.7 | eutectic: Liquid 1 -> bcc(Ce) + bcc(Ca) | Liquid 1: Ce 0.998; bcc(Ce): Ce 0.9998; bcc(Ca): Ce 1.500e-5 | model | [2] Zhang 2008 | Table 5, p. 4, row 2; `ORC-S4DNF4EHDS` |  |
 | 993.15 | βCe = αCe + βCa |  | model | [1] Hampl 2007 | Table 3, p. 5, row 5; `ORC-G2BYHCLJPN.270ed0` |  |
 | 993.15 | βCe = αCe + βCa |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 6; `ORC-G2BYHCLJPN.eaa1f5` |  |
-| 787.15 | eutectic |  | model | [1] Hampl 2007 | p. 7; `ORC-5TDVGGGANL` | “This eutectic matrix, corresponding to reaction E2 at 514 °C, consists mainly of (Mg) and CaMg2 with a small amount of CeMg12 and a calculated overall composition of 10 at.% Ca and 0.45 at.% Ce.” |
-| 787.15 | eutectic |  | model | [1] Hampl 2007 | p. 7; `ORC-QZ3LNTH66V` | “Under Scheil conditions a solid phase cannot be consumed; all of the Ce5Mg41 is frozen-in and solidification proceeds along the monovariant eutectic L = CaMg2 + CeMg12 until the ternary eutectic E2 at 514 °C is reached with a large amount (30%) of residual liquid, 10 times more than in the equilibrium case.” |
 | 727.15 | βCa = αCa (+αCe) |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 8; `ORC-SWID5PSBKS` |  |
 | 715.15 | βCa = αCa (+αCe) |  | model | [1] Hampl 2007 | Table 3, p. 5, row 7; `ORC-NGOASBEWAL` |  |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Ca–Ce system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 855.15 K | 855.15 | other | model | [1] Hampl 2007 | p. 7; `ORC-EWFYE3U5MW` | “So far the Scheil and equilibrium calculations for this alloy are essentially the same until reaction U5 at 582 °C is reached.” |
-| Phase transition | 884.15 K | 884.15 | other | model | [1] Hampl 2007 | p. 4; `ORC-7DS2SMUJJJ` | “The seemingly similar reaction U4 at 611 °C is not degenerate, even though the liquid contains only 0.02 at.% Ca.” |
-| Phase transition | 1123.15 K | 1123.15 | other | model | [1] Hampl 2007 | p. 6; `ORC-ECYE3CLABP` | “It is noted that the invariant reaction at 850 °C is not a monotectic but a syntectic one, due to the solid solubility.” |
 
 ### Mixing / partial (12)
 

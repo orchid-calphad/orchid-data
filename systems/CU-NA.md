@@ -1,24 +1,12 @@
 # Cu–Na system
 
-> Cu–Na system: 1 accepted literature values (invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Na system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-NA.html · Markdown: https://data.orchid-project.org/systems/CU-NA.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-NA.json) · [CSV](https://data.orchid-project.org/systems/CU-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-NA/CuNa-12Hao.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-NA.html) · [Markdown](https://data.orchid-project.org/systems/CU-NA.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
 
 ## Calculated phase diagrams
 
@@ -38,20 +26,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CuNa-12Hao.tdb | 370.87 | FCC_A1 (x(Na) 0) + BCC_A2 (x(Na) 1) + LIQUID (x(Na) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CU/CU-NA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CU/CU-NA.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cu–Na system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 370.35 | eutectic: Liquid#1 ↔ Bcc_A2(Na) + Fcc_A1(Cu) |  | model | [1] Hao 2012 | p. 7; `ORC-27BSSOFBN6` | “The temperature of eutectic reaction Liquid#1 ↔ Bcc_A2(Na) + Fcc_A1(Cu) is calculated to be 97.2 °C according to this work.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. D. Hao, M. Bu, Y. Wang, Y. Tang, Q. Gao, M. Wang et al., Thermodynamic modeling of the Na-X (X = Si, Ag, Cu, Cr) systems, J min metall B Metall 48, 273-282 (2012). [doi:10.2298/jmmb120113024h](https://doi.org/10.2298/jmmb120113024h)
 
 ## Please cite
 

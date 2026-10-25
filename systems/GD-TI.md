@@ -1,10 +1,10 @@
 # Gd–Ti system
 
-> Gd–Ti system: 13 accepted literature values (invariant reaction 9, phase equilibrium 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Ti system: 11 accepted literature values (invariant reaction 8, phase equilibrium 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-TI.html · Markdown: https://data.orchid-project.org/systems/GD-TI.md
 
-13 accepted literature values from 1 paper(s) (experimental 9, model 4); 1 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 7, model 4); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-TI.json) · [CSV](https://data.orchid-project.org/systems/GD-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-TI/GdTi-13Mat.json) · [phases (4)](https://data.orchid-project.org/phases/pages/GD-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-TI.html) · [Markdown](https://data.orchid-project.org/systems/GD-TI.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 7 |
 | model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
-| phase transition | 1 |
+| invariant reaction | 8 |
 | phase equilibrium | 3 |
 
 ## Calculated phase diagrams
@@ -46,7 +45,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Gd–Ti system (9)
+Table: Invariant reactions reported in the literature for the Gd–Ti system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -56,19 +55,10 @@ Table: Invariant reactions reported in the literature for the Gd–Ti system (9)
 | 1508 | eutectic: Eutectic e2: L -> bcc-Gd(Ti)+bcc-Ti(Gd) | L: Ti 0.046; bcc-Gd(Ti): Ti 0.992; bcc-Ti(Gd): Ti 0.006 | model | [1] Mattern 2013 | Table 1, p. 2, row 4; `ORC-3ZGFDQSZAI` |  |
 | 1490 | eutectoid: Eutectoid e3: bcc-Gd(Ti) -> hcp-Gd(Ti)+bcc-Ti(Gd) | bcc-Gd(Ti): Ti 0.006; hcp-Gd(Ti): Ti 0.992; bcc-Ti(Gd): Ti 0.002 | model | [1] Mattern 2013 | Table 1, p. 2, row 6; `ORC-WTHGIRBTYA` |  |
 | 1488 | eutectoid: Eutectoid e3: bcc-Gd(Ti) -> hcp-Gd(Ti)+bcc-Ti(Gd) | bcc-Gd(Ti): Ti 0.004; hcp-Gd(Ti): Ti 0.001; bcc-Ti(Gd): Ti 0.998 | experimental | [1] Mattern 2013 | Table 1, p. 2, row 5; `ORC-HGGS5USB4G` |  |
-| 1488 | eutectoid: bcc-Gd(Ti)2hcp-Gd(Ti)+bccTi(Gd) |  | experimental | [1] Mattern 2013 | p. 3; `ORC-O3M4UPO4EH` | “Reaction (2) at T1⁄4 1488 K is then related to the eutectoid transformation bcc-Gd(Ti)2hcp-Gd(Ti)+bccTi(Gd).” |
 | 1150 | eutectoid: Eutectoid e4: bcc-Ti(Gd) -> hcp-Gd(Ti)+hcp-Ti(Gd) | bcc-Ti(Gd): Ti 0.997; hcp-Gd(Ti): Ti 0.001; hcp-Ti(Gd): Ti 0.999 | model | [1] Mattern 2013 | Table 1, p. 2, row 8; `ORC-AZ7C3EKBUT` |  |
 | 1140 | eutectoid: Eutectoid e4: bcc-Ti(Gd) -> hcp-Gd(Ti)+hcp-Ti(Gd) | bcc-Ti(Gd): Ti 0.998; hcp-Gd(Ti): Ti 0.001; hcp-Ti(Gd): Ti 0.999 | experimental | [1] Mattern 2013 | Table 1, p. 2, row 7; `ORC-CYYVGKRHPB` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Gd–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1800 K | 1800 | other | experimental | [1] Mattern 2013 | p. 4; `ORC-4N6QVWTN2N` | “The liquidus line ranges from about 927 3 at% Gd for T 1⁄41500 K up to about 8073 at% Gd for T1⁄4 1800 K.” |
 
 ### Phase equilibrium (3)
 

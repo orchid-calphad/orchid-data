@@ -1,10 +1,10 @@
 # Cd–Hg system
 
-> Cd–Hg system: 6 accepted literature values (invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Hg system: 5 accepted literature values (invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-HG.html · Markdown: https://data.orchid-project.org/systems/CD-HG.md
 
-6 accepted literature values from 2 paper(s) (experimental 4, model 2); 1 calculated phase diagram(s).
+5 accepted literature values from 2 paper(s) (experimental 3, model 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-HG.json) · [CSV](https://data.orchid-project.org/systems/CD-HG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-HG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-HG/CdHg-95Yan-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CD-HG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-HG.html) · [Markdown](https://data.orchid-project.org/systems/CD-HG.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 3 |
 | model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
+| invariant reaction | 5 |
 
 ## Calculated phase diagrams
 
@@ -41,23 +41,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cd–Hg system (6)
+Table: Invariant reactions reported in the literature for the Cd–Hg system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 461.15 | peritectic |  | experimental | [1] Yang 1995 | p. 3; `ORC-PSGHPBNROG` | “A high temperature peritectic reaction is generally agreed to occur at 188°C between 27 and 36 at% Hg.” |
-| 461.15 | ℓ + hcp -> ω | L: Hg 0.36; hcp: Hg 0.25; ω: Hg 0.29 | experimental | [2] Hansen 1998 | Table A2, p. 14, row 1; `ORC-SJV7CBBVZC` |  |
-| 460.15 | ℓ + hcp -> ω | L: Hg 0.36; hcp: Hg 0.23; ω: Hg 0.29 | model | [2] Hansen 1998 | Table A2, p. 14, row 2; `ORC-7W7NN56MSU` |  |
-| 240.15 | ℓ + ω -> rhom | L: Hg 0.983; ω: Hg 0.88; rhom: Hg 0.961 | model | [2] Hansen 1998 | Table A2, p. 14, row 4; `ORC-LVVFHH5SSN` |  |
-| 239.15 | peritectic |  | experimental | [1] Yang 1995; _cites Mehl 1930_ | p. 3; `ORC-LE4DZSH2IE` | “In 1930 Mehl et al. (5) extended investigations to higher Hg concentrations and using X-ray and thermal analysis methods discovered the presence of the rhombohedral primary solid solution and a peritectic reaction at -34°C from 88-97 at'/0Hg.” |
-| 239.15 | ℓ + ω -> rhom | L: Hg 0.987; ω: Hg 0.88; rhom: Hg 0.965 | experimental | [2] Hansen 1998 | Table A2, p. 14, row 3; `ORC-ZF3LBOLG4E` |  |
+| 461.15 | ℓ + hcp -> ω | L: Hg 0.36; hcp: Hg 0.25; ω: Hg 0.29 | experimental | [1] Hansen 1998 | Table A2, p. 14, row 1; `ORC-SJV7CBBVZC` |  |
+| 460.15 | ℓ + hcp -> ω | L: Hg 0.36; hcp: Hg 0.23; ω: Hg 0.29 | model | [1] Hansen 1998 | Table A2, p. 14, row 2; `ORC-7W7NN56MSU` |  |
+| 240.15 | ℓ + ω -> rhom | L: Hg 0.983; ω: Hg 0.88; rhom: Hg 0.961 | model | [1] Hansen 1998 | Table A2, p. 14, row 4; `ORC-LVVFHH5SSN` |  |
+| 239.15 | peritectic |  | experimental | [2] Yang 1995; _cites Mehl 1930_ | p. 3; `ORC-LE4DZSH2IE` | “In 1930 Mehl et al. (5) extended investigations to higher Hg concentrations and using X-ray and thermal analysis methods discovered the presence of the rhombohedral primary solid solution and a peritectic reaction at -34°C from 88-97 at'/0Hg.” |
+| 239.15 | ℓ + ω -> rhom | L: Hg 0.987; ω: Hg 0.88; rhom: Hg 0.965 | experimental | [1] Hansen 1998 | Table A2, p. 14, row 3; `ORC-ZF3LBOLG4E` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. J. Yang, N.J. Silk, A. Watson, A.W. Bryant, T.G. Chart, B.B. Argent, The thermodynamics and phase diagrams of the Cd-Hg and Cd-Hg-Te systems, Calphad 19, 415-430 (1995). [doi:10.1016/0364-5916(95)00039-h](https://doi.org/10.1016/0364-5916%2895%2900039-h)
-2. S.C. Hansen, Thermodynamic assessment of binary Zn-Hg, Cd-Hg, AND In-Hg amalgams, Calphad 22, 359-373 (1998). [doi:10.1016/s0364-5916(98)00036-4](https://doi.org/10.1016/s0364-5916%2898%2900036-4)
+1. S.C. Hansen, Thermodynamic assessment of binary Zn-Hg, Cd-Hg, AND In-Hg amalgams, Calphad 22, 359-373 (1998). [doi:10.1016/s0364-5916(98)00036-4](https://doi.org/10.1016/s0364-5916%2898%2900036-4)
+2. J. Yang, N.J. Silk, A. Watson, A.W. Bryant, T.G. Chart, B.B. Argent, The thermodynamics and phase diagrams of the Cd-Hg and Cd-Hg-Te systems, Calphad 19, 415-430 (1995). [doi:10.1016/0364-5916(95)00039-h](https://doi.org/10.1016/0364-5916%2895%2900039-h)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Ag–Dy system
 
-> Ag–Dy system: 30 accepted literature values (invariant reaction 16, formation 8, crystal structure 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Dy system: 29 accepted literature values (invariant reaction 15, formation 8, crystal structure 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-DY.html · Markdown: https://data.orchid-project.org/systems/AG-DY.md
 
-30 accepted literature values from 1 paper(s) (experimental 12, model 12, DFT 6); 1 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 11, model 12, DFT 6); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-DY.json) · [CSV](https://data.orchid-project.org/systems/AG-DY.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-DY) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-DY/AgDy-10Lon.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-DY.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-DY.html) · [Markdown](https://data.orchid-project.org/systems/AG-DY.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 11 |
 | model | 12 |
 | DFT | 6 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 15 |
 | formation | 8 |
 | crystal structure | 6 |
 
@@ -54,7 +54,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Dy system (16)
+Table: Invariant reactions reported in the literature for the Ag–Dy system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -71,7 +71,6 @@ Table: Invariant reactions reported in the literature for the Ag–Dy system (16
 | 1173 | eutectic: L -> AgDy + Hcp(Dy) | L: Dy 0.745; AgDy: Ag 0.5, Dy 0.5 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 9; `ORC-RAF2KJ2MS5` |  |
 | 1171 | eutectic: L -> AgDy + Hcp(Dy) | L: Dy 0.695; AgDy: Ag 0.5, Dy 0.5 | model | [1] Long 2010 | Table 3, p. 4, row 8; `ORC-SUWFIRISSE` |  |
 | 1075 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | L: Dy 0.111; Ag51Dy14: Ag 0.784615, Dy 0.215385 | model | [1] Long 2010 | Table 3, p. 4, row 1; `ORC-R3G4I7LZSB` |  |
-| 1074 | eutectic: L ↔ Fcc(Ag) + Ag51 Dy14 |  | experimental | [1] Long 2010; _cites Gschneidner 1970_ | p. 1; `ORC-CITLENJCOE` | “Gschneidner et al. \[16\] measured the maximum solid solubility of Dy in Ag to be 1.3 at.%, and determined the eutectic temperature of L ↔ Fcc(Ag) + Ag51 Dy14 as 1074 K.” |
 | 1074 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Gschneidner 1970_ | Table 3, p. 4, row 3; `ORC-I4HNRF3G4X` |  |
 | 1073 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | L: Dy 0.12; Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 2; `ORC-T36YISZBGP` |  |
 

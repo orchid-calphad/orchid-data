@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Bi9Ti8
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -16.71 | kJ/mol (basis unstated) |  | 0.005 | 93.19 (dft, calibrated) |  |  |  | 93.19 |
+| -16.71 | kJ/mol (basis unstated) |  | 0.005 | 87.58 (dft, calibrated) |  |  |  | 87.58 |
 
 ## Sources
 

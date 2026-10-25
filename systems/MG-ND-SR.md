@@ -1,10 +1,10 @@
 # Mg–Nd–Sr system
 
-> Mg–Nd–Sr system: 2 accepted literature values (phase equilibrium 1, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Nd–Sr system: 1 accepted literature values (phase equilibrium 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-ND-SR.html · Markdown: https://data.orchid-project.org/systems/MG-ND-SR.md
 
-2 accepted literature values from 1 paper(s) (experimental 2); 0 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (experimental 1); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ND-SR.json) · [CSV](https://data.orchid-project.org/systems/MG-ND-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ND-SR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-ND-SR.html) · [Markdown](https://data.orchid-project.org/systems/MG-ND-SR.md)
 
@@ -12,22 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
+| experimental | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | phase equilibrium | 1 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Mg–Nd–Sr system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 839 | eutectic: Liq fi (Mg) + Mg41Nd5 + Mg17Sr2 |  | experimental | [1] Xu 2013 | p. 3; `ORC-NO23YIR7EA` | “The DSC curve of Alloy #1 in Figure 1(c) sets the temperature of the ternary eutectic reaction Liq fi (Mg) + Mg41Nd5 + Mg17Sr2 to be 839 K (566 C).” |
 
 ## Other properties
 

@@ -1,16 +1,16 @@
 # PbTe: enthalpy of formation
 
-> Enthalpy of formation of PbTe: 18 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of PbTe: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/PbTe.html · Markdown: https://data.orchid-project.org/compounds/PbTe.md
 
-18 accepted literature formation-enthalpy value(s) (experimental 7, model 3, DFT 8); experimental median -35.15 kJ/mol-atom (n = 3); Materials Project -39.148 kJ/mol-atom (mp-aaaabdej); OQMD -39.511 kJ/mol-atom (oqmd-1856648).
+10 accepted literature formation-enthalpy value(s) (experimental 7, model 3); experimental median -35.15 kJ/mol-atom (n = 3); Materials Project -39.148 kJ/mol-atom (mp-aaaabdej); OQMD -39.511 kJ/mol-atom (oqmd-1856648).
 
 Systems: [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of PbTe reported in the literature (18)
+Table: Enthalpy of formation of PbTe reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -24,14 +24,6 @@ Table: Enthalpy of formation of PbTe reported in the literature (18)
 | -34.4 kJ/mol-atom | PbTe | 298.15 | model | CALPHAD | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [2] Liu 2009 | Table IV, p. 9, row 4; `ORC-KVLT4TSY4A` |  |
 | -32.532 kJ/mol (basis unstated) | PbTe | 298.15 | model |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009 | Table 4, p. 5, row 1; `ORC-GX24ALHEMN` |  |
 | -32.532 kJ/mol (basis unstated) | PbTe | 298.15 | model |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009 | p. 5; `ORC-UNEVKCBZOW` | “Calculated enthalpy of formation of PbTe intermetallic compound at 298 K is equal -32532 J/mol which shows very good agreement with the values reported in the literature.” |
-| 0.35 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 7; `ORC-AZJHBJHAL2` |  |
-| 0.72 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 1; `ORC-C2FFFPOLG4` |  |
-| 0.95 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 2; `ORC-OUCFKEDWEO` |  |
-| 1.32 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 9; `ORC-I4BMLHPMCG` |  |
-| 1.44 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 3; `ORC-ZICNHNBTB4` |  |
-| 1.49 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 4; `ORC-IZBWKP26AO` |  |
-| 2.04 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 10; `ORC-KAGKYZDHM6` |  |
-| 3.29 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 12; `ORC-MW4B7TLBWP` |  |
 
 ### Uncertainty budget
 
@@ -42,23 +34,15 @@ Table: Uncertainty budget of the literature values of PbTe
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -47.2 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
-| -36.05 | kJ/mol-atom |  | 0.025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -36.05 | kJ/mol-atom |  | 0.025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -35.15 | kJ/mol-atom |  | 0.025 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -35.146 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
-| -34.3 | kJ/mol-atom |  | 0.025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -34.3 | kJ/mol-atom |  | 0.025 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -34.267 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -23.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -34.4 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -32.532 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 | -32.532 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| 0.35 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
-| 0.72 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
-| 0.95 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
-| 1.32 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
-| 1.44 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
-| 1.49 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
-| 2.04 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
-| 3.29 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
 
 ## DFT formation energies
 
@@ -77,7 +61,6 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 1. Wojciech Gierlotka, Joanna Łapsa, Dominika Jendrzejczyk-Handzlik, Thermodynamic description of the Pb–Te system using ionic liquid model, Journal of Alloys and Compounds 479, 152-156 (2009). [doi:10.1016/j.jallcom.2008.12.083](https://doi.org/10.1016/j.jallcom.2008.12.083)
 2. Yajun Liu, Lijun Zhang, Di Yu, Thermodynamic Descriptions for the Cd-Te, Pb-Te, Cd-Pb and Cd-Pb-Te Systems, Journal of Elec Materi 38, 2033-2045 (2009). [doi:10.1007/s11664-009-0875-3](https://doi.org/10.1007/s11664-009-0875-3)
-3. Saurabh Bajaj, Gregory S. Pomrehn, Jeff W. Doak, Wojciech Gierlotka, Hsin-jay Wu, Sinn-Wen Chen et al., Ab initio study of intrinsic point defects in PbTe: an insight into phase stability, Acta Materialia 92, 72-80 (2015). [doi:10.1016/j.actamat.2015.03.034](https://doi.org/10.1016/j.actamat.2015.03.034)
 
 ## Please cite
 

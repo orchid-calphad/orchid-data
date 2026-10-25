@@ -1,10 +1,10 @@
 # Al–Re system
 
-> Al–Re system: 48 accepted literature values (invariant reaction 27, phase transition 17, heat capacity / entropy / enthalpy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Re system: 35 accepted literature values (invariant reaction 23, phase transition 8, heat capacity / entropy / enthalpy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-RE.html · Markdown: https://data.orchid-project.org/systems/AL-RE.md
 
-48 accepted literature values from 2 paper(s) (experimental 28, model 20); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+35 accepted literature values from 2 paper(s) (experimental 17, model 18); 3 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-RE.json) · [CSV](https://data.orchid-project.org/systems/AL-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-RE/AlRe-18Guo.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-RE.html) · [Markdown](https://data.orchid-project.org/systems/AL-RE.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
-| model | 20 |
+| experimental | 17 |
+| model | 18 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
-| phase transition | 17 |
+| invariant reaction | 23 |
+| phase transition | 8 |
 | heat capacity / entropy / enthalpy | 4 |
 
 ## Calculated phase diagrams
@@ -85,7 +85,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Re system (27)
+Table: Invariant reactions reported in the literature for the Al–Re system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -110,31 +110,18 @@ Table: Invariant reactions reported in the literature for the Al–Re system (27
 | 1086.15 | peritectic: L + l-Al4Re -> Al6Re | L: Re 0.008; l-Al4Re: Re 0.2; Al6Re: Re 0.142857 | model | [1] Tamim 2020 | Table 1, p. 3, row 5; `ORC-RDT5YDZZQ6` |  |
 | 1020.15 | peritectic: L + Al6Re -> Al12Re | L: Re 0.0035; Al6Re: Re 0.142857; Al12Re: Re 0.0769231 | model | [1] Tamim 2020 | Table 1, p. 3, row 3; `ORC-6XMMCIJ2DF` |  |
 | 1019.15 | peritectic: L + Al6Re -> Al12Re | L: Re 0.004; Al6Re: Re 0.142857; Al12Re: Re 0.0769231 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 4; `ORC-2NVMEN3RFW` |  |
-| 963.15 | peritectic: L ? Al2Re $ (Al) |  | experimental | [1] Tamim 2020; _cites Savitskii 1961_ | p. 2; `ORC-P5VSXLPATG` | “Thermal analysis data of the Al-rich alloys indicate that the formation of (Al) solid solution is by a peritectic reaction: L ? Al2Re $ (Al) at 690 C.” |
 | 933.15 | eutectic: L -> Al12Re + (Al) | L: Re 0.005; Al12Re: Re 0.0769231 | model | [1] Tamim 2020 | Table 1, p. 3, row 1; `ORC-NQ2BB542TX` |  |
-| 931.15 | eutectic: L $ Al12Re ? (Al) |  | experimental | [1] Tamim 2020 | p. 3; `ORC-7QPWV63HXX` | “The eutectic behavior of the L $ Al12Re ? (Al) equilibrium is confirmed at 658 C.” |
 | 931.15 | eutectic: L -> Al12Re + (Al) | L: Re 0.005; Al12Re: Re 0.0769231 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 2; `ORC-SSFJX7BAPE` |  |
-| 913 | peritectic |  | experimental | [2] Huang 1998 | p. 2; `ORC-FOE2QW3LOL` | “The peritectic melting temperature of All2 Re to L and A16Re was placed at about 913 K, in between the above two reaction temperatures.” |
-| 873 | eutectic |  | experimental | [2] Huang 1998; _cites UM 1963_ | p. 3; `ORC-DOJ4CZMKQT` | “At the Al-rich side of the system, as pointed out previously by \[90Mur\], neither the proposed peritetic reaction at 963 + 7K \[61Sav\] nor the eutectic reaction at 873 K \[63Vei\] involving the fcc and liquid is plausible.” |
 
 ## Other properties
 
-### Phase transition (17)
+### Phase transition (8)
 
 Table: Phase transition, Al–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 873 K | 873 | L = fcc + Al12Re | experimental | [2] Huang 1998; _cites UM 1963_ | p. 2; `ORC-NLP6JHWZ63.ce9bfc` | “Therefore, \[63Vei\] suggested that the invariant reactions at 873 and 963 K reported by \[61Say\] might correspond to the invariant reactions: L = fcc + Al12Re, and L + A14Re = A16Re, respectively.” |
-| Phase transition | 873 K | 873 | other | experimental | [2] Huang 1998 | p. 2; `ORC-L7OJLPERFS` | “Decomposition of All2Re to fcc and AlzRe occurred at about 873 K.” |
-| Phase transition | 933.6 K | 933.6 | L + AI6Re = fcc + A16Re | model | [2] Huang 1998 | p. 3; `ORC-VJT4TQUPZL.7b8fa6` | “In the present study, we propose the following invariant reactions as shown in Fig. 3 and 4: A112Re forms at 873 K by a solidstate reaction \[61Sav\], fcc + A16Re = A1\]2Re; A16Re forms at 960 K by L + AI4Re = A16Re \[63Veil; and there is a degenerated invariant reaction very close to the melting point of pure AI, 933.6 K, L + AI6Re = fcc + A16Re.” |
-| Phase transition | 960 K | 960 | L + AI4Re = A16Re | model | [2] Huang 1998 | p. 3; `ORC-VJT4TQUPZL.f190e7` | “In the present study, we propose the following invariant reactions as shown in Fig. 3 and 4: A112Re forms at 873 K by a solidstate reaction \[61Sav\], fcc + A16Re = A1\]2Re; A16Re forms at 960 K by L + AI4Re = A16Re \[63Veil; and there is a degenerated invariant reaction very close to the melting point of pure AI, 933.6 K, L + AI6Re = fcc + A16Re.” |
-| Phase transition | 963 K | 963 | L + A14Re = A16Re | experimental | [2] Huang 1998; _cites UM 1963_ | p. 2; `ORC-NLP6JHWZ63.dd39f6` | “Therefore, \[63Vei\] suggested that the invariant reactions at 873 and 963 K reported by \[61Say\] might correspond to the invariant reactions: L = fcc + Al12Re, and L + A14Re = A16Re, respectively.” |
-| Phase transition | 1758 K | 1758 |  | experimental | [2] Huang 1998 | p. 2; `ORC-KOAXIUUTWM.5fd684` | “For alloys with 30 to 90 at.% Re, the melting points were measured using an optical pyrometer, and with the help of microstructural analysis and hardness measurements, the invariant melting reactions at 2273, 1863, and 1758 K were determined to be the incongruent melting points of the 3(, AI~Re, and A12Re phases, respectively. The uncertainties of the measurements were estimated to be at least +…” |
-| Phase transition | 1758 K | 1758 | other | experimental | [2] Huang 1998; _cites Schuster 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990295-9) | p. 2; `ORC-I73DJQMP4H` | “Because the A14Re phase was found to exist above 1273 K \[84Sch, 63Veil, its decomposition temperature was placed at 1758 K, which was the decomposition temperature of A12Re (now All 1Re4) according to \[61Sav\].” |
 | Phase transition | 1767.15 K | 1767.15 | other | experimental | [1] Tamim 2020; _cites Schuster 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901485-7) | p. 8; `ORC-LFR5G4XQTW.93723a` | “In the phase diagram published by this authors, the Al11Re4 melts by a peritectic reaction at 1603 C (instead of a congruent melting at 1665 C) whereas AlRe2 undergoes a transformation at 2002 C (instead of 1494 C).” |
-| Phase transition | 1863 K | 1863 |  | experimental | [2] Huang 1998 | p. 2; `ORC-KOAXIUUTWM.3a62d1` | “For alloys with 30 to 90 at.% Re, the melting points were measured using an optical pyrometer, and with the help of microstructural analysis and hardness measurements, the invariant melting reactions at 2273, 1863, and 1758 K were determined to be the incongruent melting points of the 3(, AI~Re, and A12Re phases, respectively. The uncertainties of the measurements were estimated to be at least +…” |
-| Phase transition | 1863 K | 1863 | other | experimental | [2] Huang 1998; _cites ref. 61Sav_ | p. 2; `ORC-T3SPUUMDZA` | “The decomposition temperature of AlIIRe 4 was placed at 1863 K, which was the decomposition temperature of A1Re according to \[61Sav\].” |
 | Phase transition | 1923.15 K | 1923.15 | Al11Re4 | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.075) | p. 3; `ORC-RRWZ5PL5GN.ecc41f` | “Moreover, we have adopted the temperature of 1665 C as being the Al11Re4 melting temperature \[16\] instead of 1650 C \[4\] which is below the temperature of the L $ Al11Re4 ? (Re) eutectic reaction (Fig. 1).” |
 | Phase transition | 1938.15 K | 1938.15 | Al11Re4 | experimental | [1] Tamim 2020; _cites Schuster 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901485-7) | p. 3; `ORC-RRWZ5PL5GN.da454d` | “Moreover, we have adopted the temperature of 1665 C as being the Al11Re4 melting temperature \[16\] instead of 1650 C \[4\] which is below the temperature of the L $ Al11Re4 ? (Re) eutectic reaction (Fig. 1).” |
 | Phase transition | 1938.15 K | 1938.15 | congruent melting: L -> Al11Re4; _L: Re 0.266667; Al11Re4: Re 0.266667_ | experimental | [1] Tamim 2020; _cites Balanetskyy 2008_ | Table 1, p. 3, row 14; `ORC-LADVS5VA63` |  |

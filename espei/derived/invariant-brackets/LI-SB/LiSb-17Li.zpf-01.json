@@ -160,7 +160,7 @@
     "x0": 0.6,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Li2Sb + (Sb)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -179,7 +179,7 @@
     "x0": 0.6,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Li2Sb + (Sb)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

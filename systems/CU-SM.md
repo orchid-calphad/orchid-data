@@ -1,10 +1,10 @@
 # Cu–Sm system
 
-> Cu–Sm system: 10 accepted literature values (invariant reaction 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sm system: 26 accepted literature values (formation 16, invariant reaction 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SM.html · Markdown: https://data.orchid-project.org/systems/CU-SM.md
 
-10 accepted literature values from 1 paper(s) (model 10); 1 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (model 20, unspecified 6); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SM.json) · [CSV](https://data.orchid-project.org/systems/CU-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SM/CuSm-96Zhu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-SM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SM.html) · [Markdown](https://data.orchid-project.org/systems/CU-SM.md)
 
@@ -12,13 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 10 |
+| model | 20 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
+| formation | 16 |
 
 ## Calculated phase diagrams
 
@@ -73,6 +75,31 @@ Table: Invariant reactions reported in the literature for the Cu–Sm system (10
 | 1058 | congruent melting: liq \<-> CuSm | liq: Sm 0.5; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 8; `ORC-BYIE5ZSIXY` |  |
 | 1035 | eutectic: liq \<-> Cu2Sm + CuSm | liq: Sm 0.443; Cu2Sm: Cu 0.666667, Sm 0.333333; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 7; `ORC-2YFWN7HYP2` |  |
 | 828 | eutectic: liq \<-> CuSm + Sm(rhomb) | liq: Sm 0.718; CuSm: Cu 0.5, Sm 0.5 | model | [1] Zhuang 1996 | Table 9, p. 12, row 9; `ORC-NUDY32IP6C` |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cu–Sm system (16)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Cu2R |  | -32 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 63; `ORC-3WPVGEBUD4` |  |
+| Cu2R |  | -31.5 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub2_ | Table 10, p. 13, row 59; `ORC-SJYFUNVJC3.d65b3a` |  |
+| Cu2R |  | -29.7 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub2_ | Table 10, p. 13, row 62; `ORC-24COCOOAHJ` |  |
+| Cu2R |  | -21.1 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 61; `ORC-JF52DBNN2M` |  |
+| Cu4R |  | -31.5 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub2_ | Table 10, p. 13, row 59; `ORC-SJYFUNVJC3.288c0e` |  |
+| Cu4R |  | -22.4 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 60; `ORC-CVLM4P6TK5` |  |
+| Cu4R |  | -16.6 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 58; `ORC-VSYIQLPWKS` |  |
+| Cu5R |  | -43.2 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub2_ | Table 10, p. 13, row 56; `ORC-JDEBHE7ZG5` |  |
+| Cu5R |  | -18.9 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 57; `ORC-5WLDUKRRUH` |  |
+| Cu5R |  | -15 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 55; `ORC-B6C5H7T7ZZ` |  |
+| Cu6R |  | -28.1 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub2_ | Table 10, p. 13, row 53; `ORC-3LJX233WNK` |  |
+| Cu6R |  | -16.3 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 54; `ORC-SO3K57UHTG` |  |
+| Cu6R |  | -13.6 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 52; `ORC-XLTKMUT7UN` |  |
+| CuR |  | -39.3 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Zhuang 1996; _cites ref. 88Sub2_ | Table 10, p. 13, row 65; `ORC-57EJTER3E3` |  |
+| CuR |  | -31.8 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 66; `ORC-5LOJ3OSDWC` |  |
+| CuR |  | -20.9 kJ/mol (basis unstated) |  | model |  |  | [1] Zhuang 1996 | Table 10, p. 13, row 64; `ORC-OKORX7C2R7` |  |
 
 ## Sources
 

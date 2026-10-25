@@ -22,7 +22,7 @@ Table: Phases of the B–Fe system (11)
 | [FE3B_HT](#phase-b-fe-fe3b); _phase:b-fe:fe3b_ | Ti3P · tP32 · P4_2/n (86) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 15 | 1 |
 | [FE3B_D0E](#phase-b-fe-fe3b-d0e); _phase:b-fe:fe3b-d0e_ | Ni3P · D0_e · tI32 · I-4 (82) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 12 | 1 |
 | [HCP_A3](#phase-b-fe-hcp-a3); _phase:b-fe:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
-| [LIQUID](#phase-b-fe-liquid); _phase:b-fe:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1430.82–4000 K, x(B) 0–1 | 123 | 7 |
+| [LIQUID](#phase-b-fe-liquid); _phase:b-fe:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1430.82–4000 K, x(B) 0–1 | 124 | 7 |
 
 ## BETA_RHOMBO_B (B–Fe)
 
@@ -705,7 +705,7 @@ _assessment that models this phase_
 - Id: `phase:b-fe:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 1430.82–4000 K, x(B) 0–1
-- Literature: 123 values (121 accepted) from 4 papers
+- Literature: 124 values (122 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-fe:liquid)
 
 Names (13): _corpus: _corpus:phase:b-fe:liquid  

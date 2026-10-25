@@ -53,14 +53,14 @@ Table: Invariant reactions reported in the literature for the Li–Na system (15
 | 578 | Consolute point | Liquid: Na 0.37 | experimental | [1] Zhang 2003; _cites Endo 1979_ | Table 4, p. 5, row 13; `ORC-SUVRWE5TEO` |  |
 | 577 | Consolute point | Liquid: Na 0.36 | experimental | [1] Zhang 2003; _cites Schurmann 1971_ [doi](https://doi.org/10.1103/physrevlett.27.1790) | Table 4, p. 5, row 10; `ORC-A7LEMVAFJ5` |  |
 | 576.4 | Consolute point | Liquid: Na 0.357 | experimental | [1] Zhang 2003; _cites Feistma 1975_ | Table 4, p. 5, row 11; `ORC-N25YTTY4W3` |  |
-| 444.5 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; bcc(Li): Na 0.012; liquid2: Na 0.9 | model | [1] Zhang 2003 | Table 4, p. 5, row 1; `ORC-4BSYNWSB6Z` |  |
-| 444 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.916 | experimental | [1] Zhang 2003; _cites Howland 1957_ | Table 4, p. 5, row 4; `ORC-NUU4LOGC4D` |  |
-| 443 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.902 | experimental | [1] Zhang 2003; _cites Feistma 1975_ | Table 4, p. 5, row 2; `ORC-OJD5YQPWJA` |  |
-| 443 | Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.8787 | experimental | [1] Zhang 2003; _cites Kandan 1968_ | Table 4, p. 5, row 3; `ORC-VL4WMBXJW6` |  |
-| 366.5 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.963 | experimental | [1] Zhang 2003; _cites Salmon 1956_ [doi](https://doi.org/10.1021/j150535a004) | Table 4, p. 5, row 7; `ORC-ZC7ZEFC7ZD` |  |
-| 365.4 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.963 | experimental | [1] Zhang 2003; _cites Howland 1957_ | Table 4, p. 5, row 8; `ORC-QF7TPI7CRQ` |  |
-| 365.3 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.97 | experimental | [1] Zhang 2003; _cites Down 1975_ [doi](https://doi.org/10.1039/dt9750001490) | Table 4, p. 5, row 6; `ORC-KRGHTVGVR5` |  |
-| 360.2 | Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.965; bcc(Li): Na 0.005; bcc(Na): Na 0.995 | model | [1] Zhang 2003 | Table 4, p. 5, row 5; `ORC-UKE57ZGPTX` |  |
+| 444.5 | monotectic: Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; bcc(Li): Na 0.012; liquid2: Na 0.9 | model | [1] Zhang 2003 | Table 4, p. 5, row 1; `ORC-4BSYNWSB6Z` |  |
+| 444 | monotectic: Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.916 | experimental | [1] Zhang 2003; _cites Howland 1957_ | Table 4, p. 5, row 4; `ORC-NUU4LOGC4D` |  |
+| 443 | monotectic: Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.902 | experimental | [1] Zhang 2003; _cites Feistma 1975_ | Table 4, p. 5, row 2; `ORC-OJD5YQPWJA` |  |
+| 443 | monotectic: Liquid1 -> bcc(Li) + liquid2 | Liquid1: Na 0.034; liquid2: Na 0.8787 | experimental | [1] Zhang 2003; _cites Kandan 1968_ | Table 4, p. 5, row 3; `ORC-VL4WMBXJW6` |  |
+| 366.5 | eutectic: Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.963 | experimental | [1] Zhang 2003; _cites Salmon 1956_ [doi](https://doi.org/10.1021/j150535a004) | Table 4, p. 5, row 7; `ORC-ZC7ZEFC7ZD` |  |
+| 365.4 | eutectic: Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.963 | experimental | [1] Zhang 2003; _cites Howland 1957_ | Table 4, p. 5, row 8; `ORC-QF7TPI7CRQ` |  |
+| 365.3 | eutectic: Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.97 | experimental | [1] Zhang 2003; _cites Down 1975_ [doi](https://doi.org/10.1039/dt9750001490) | Table 4, p. 5, row 6; `ORC-KRGHTVGVR5` |  |
+| 360.2 | eutectic: Liquid2 -> bcc(Li) + bcc(Na) | Liquid2: Na 0.965; bcc(Li): Na 0.005; bcc(Na): Na 0.995 | model | [1] Zhang 2003 | Table 4, p. 5, row 5; `ORC-UKE57ZGPTX` |  |
 
 ## Sources
 

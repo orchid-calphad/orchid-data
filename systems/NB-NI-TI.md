@@ -1,10 +1,10 @@
 # Nb–Ni–Ti system
 
-> Nb–Ni–Ti system: 55 accepted literature values (invariant reaction 31, phase transition 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Ni–Ti system: 52 accepted literature values (invariant reaction 30, phase transition 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-NI-TI.html · Markdown: https://data.orchid-project.org/systems/NB-NI-TI.md
 
-55 accepted literature values from 2 paper(s) (experimental 24, model 31); 0 calculated phase diagram(s).
+52 accepted literature values from 2 paper(s) (experimental 22, model 30); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-NI-TI.json) · [CSV](https://data.orchid-project.org/systems/NB-NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-NI-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-NI-TI.html) · [Markdown](https://data.orchid-project.org/systems/NB-NI-TI.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
-| model | 31 |
+| experimental | 22 |
+| model | 30 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 31 |
-| phase transition | 24 |
+| invariant reaction | 30 |
+| phase transition | 22 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Nb–Ni–Ti system (31)
+Table: Invariant reactions reported in the literature for the Nb–Ni–Ti system (30)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -42,7 +42,6 @@ Table: Invariant reactions reported in the literature for the Nb–Ni–Ti syste
 | 1514.65 | eutectic: L -> γ+Ni3Ti+Nb13Ni75Ti12 | L: Ni 0.8217, Ti 0.1427 | model | [2] Matsumoto 2005 | Table 4, p. 10, row 5; `ORC-3SGOYLWSJH` |  |
 | 1495.15 | quasi-peritectic: L + χ1 -> χ2 + NiTi | L: Nb 0.009, Ni 0.597, Ti 0.394; χ1: Nb 0.13, Ni 0.75, Ti 0.12; χ2: Ni 0.75, Ti 0.2; NiTi: Nb 0.022, Ni 0.545, Ti 0.432 | model | [1] Santhy 2015 | Table 10, p. 11, row 8; `ORC-AZIUGTYSHY` |  |
 | 1457.15 | quasi-peritectic: L + χ2 -> NiTi + Ni3Ti | L: Nb 0.002, Ni 0.604, Ti 0.394; χ2: Ni 0.75, Ti 0.2; NiTi: Nb 0.008, Ni 0.544, Ti 0.449; Ni3Ti: Nb 0.028, Ni 0.749, Ti 0.223 | model | [1] Santhy 2015 | Table 10, p. 11, row 9; `ORC-VKRFT4LBSJ` |  |
-| 1443.15 | eutectic |  | experimental | [1] Santhy 2015; _cites Prima 1995_ | p. 3; `ORC-FAUCVWQXAE` | “Prima et al. \[72\] suggested that NbNiTi section is quasibinary with a monovariant eutectic reaction around 1170°C.” |
 | 1422.15 | eutectic: L -> χ5 + Nb7Ni6 + (β-Nb,Ti) | L: Nb 0.44, Ni 0.442, Ti 0.118; χ5: Nb 0.4, Ni 0.45, Ti 0.15; Nb7Ni6: Nb 0.558, Ni 0.442; (β-Nb,Ti): Nb 0.884, Ni 0.062, Ti 0.054 | model | [1] Santhy 2015 | Table 10, p. 11, row 10; `ORC-2SMTY7KEK7` |  |
 | 1413.15 | quasi-peritectic: L + χ3 -> NbNi3 + χ5 | L: Nb 0.396, Ni 0.497, Ti 0.106; χ3: Nb 0.15, Ni 0.56, Ti 0.29; NbNi3: Nb 0.251, Ni 0.707, Ti 0.042; χ5: Nb 0.4, Ni 0.45, Ti 0.15 | model | [1] Santhy 2015 | Table 10, p. 11, row 11; `ORC-M6VWSONCXO` |  |
 | 1412.15 | eutectic: L -> NbNi3 + χ5 + Nb7Ni6 | L: Nb 0.401, Ni 0.497, Ti 0.102; NbNi3: Nb 0.252, Ni 0.706, Ti 0.042; χ5: Nb 0.4, Ni 0.45, Ti 0.15; Nb7Ni6: Nb 0.535, Ni 0.465 | model | [1] Santhy 2015 | Table 10, p. 11, row 12; `ORC-EUYUL6DDBL` |  |
@@ -62,13 +61,12 @@ Table: Invariant reactions reported in the literature for the Nb–Ni–Ti syste
 
 ## Other properties
 
-### Phase transition (24)
+### Phase transition (22)
 
 Table: Phase transition, Nb–Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1213.15 K | 1213.15 | L$ (b-Nb,Ti) + NiTi + NiTi2 | model | [1] Santhy 2015 | p. 12; `ORC-65433JCXFN` | “The calculated invariant temperature for the phase reaction L$ (b-Nb,Ti) + NiTi + NiTi2 is 940 °C, which is close to the observed temperature 950° by \[72\].” |
 | Phase transition | 1230.65 K | 1230.65 | 28Ni series; _alloy: Nb 0.181, Ni 0.277, Ti 0.542_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 17; `ORC-2WPKTQSATM` |  |
 | Phase transition | 1232.35 K | 1232.35 | 28Ni series; _alloy: Nb 0.125, Ni 0.242, Ti 0.633_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 19; `ORC-REBIGUEJR2` |  |
 | Phase transition | 1234.85 K | 1234.85 | 28Ni series; _alloy: Nb 0.072, Ni 0.279, Ti 0.649_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 21; `ORC-KIK7VCJZUH` |  |
@@ -86,7 +84,6 @@ Table: Phase transition, Nb–Ni–Ti system
 | Phase transition | 1540.35 K | 1540.35 | 60Ni series; _alloy: Nb 0.075, Ni 0.612, Ti 0.313_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 14; `ORC-HIU7B34UFT` |  |
 | Phase transition | 1547.55 K | 1547.55 | 60Ni series; _alloy: Nb 0.133, Ni 0.607, Ti 0.26_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 12; `ORC-FAD4CF24NR` |  |
 | Phase transition | 1554.15 K | 1554.15 | 28Ni series; _alloy: Nb 0.24, Ni 0.268, Ti 0.492_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 16; `ORC-XDWW6YFZ46` |  |
-| Phase transition | 1558.15 K | 1558.15 | other | experimental | [1] Santhy 2015; _cites Kornilov 1958_ | p. 3; `ORC-VNUQ3RBPHE` | “In 1958, Kornilov and Pylaeva \[65\] studied Ni3Ti-NbNi3 section using thermal analysis, metallography, resistivity and hardness and suggested that this section is an isomorphous quasibinary section with an azeotropic minimum at 1285 °C and 19 at.% Ti.” |
 | Phase transition | 1588.95 K | 1588.95 | 60Ni series; _alloy: Nb 0.178, Ni 0.596, Ti 0.226_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 10; `ORC-FEHNJUNMFN` |  |
 | Phase transition | 1593.35 K | 1593.35 | 60Ni series; _alloy: Nb 0.357, Ni 0.587, Ti 0.056_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 2; `ORC-AQMJOP6AAS` |  |
 | Phase transition | 1606.55 K | 1606.55 | 60Ni series; _alloy: Nb 0.22, Ni 0.595, Ti 0.185_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 8; `ORC-BX4ZAK6GVR` |  |

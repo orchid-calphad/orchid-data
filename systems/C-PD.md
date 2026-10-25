@@ -29,8 +29,8 @@ Table: Invariant reactions reported in the literature for the C–Pd system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1777 | liq. -> fcc(Pd) + graphite(C) | L: C 0.1963; fcc(Pd): C 0.0785; graphite(C): C 1 | model | [1] Du 2006 | Table 3, p. 4, row 1; `ORC-EP7OAXKOXJ` |  |
-| 1777 | liq. -> fcc(Pd) + graphite(C) | L: C 0.195; fcc(Pd): C 0.08; graphite(C): C 1 | experimental | [1] Du 2006; _cites Nadler 1960_ [doi](https://doi.org/10.1021/j100839a028) | Table 3, p. 4, row 2; `ORC-FA7ISVJNHN` |  |
+| 1777 | eutectic: liq. -> fcc(Pd) + graphite(C) | L: C 0.1963; fcc(Pd): C 0.0785; graphite(C): C 1 | model | [1] Du 2006 | Table 3, p. 4, row 1; `ORC-EP7OAXKOXJ` |  |
+| 1777 | eutectic: liq. -> fcc(Pd) + graphite(C) | L: C 0.195; fcc(Pd): C 0.08; graphite(C): C 1 | experimental | [1] Du 2006; _cites Nadler 1960_ [doi](https://doi.org/10.1021/j100839a028) | Table 3, p. 4, row 2; `ORC-FA7ISVJNHN` |  |
 
 ## Sources
 

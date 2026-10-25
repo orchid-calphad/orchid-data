@@ -160,7 +160,7 @@
     "x0": 0.386,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Cu8Hf3 + Cu10Hf7",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -179,7 +179,7 @@
     "x0": 0.436,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Cu10Hf7 + CuHf2",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

@@ -1,10 +1,10 @@
 # Mn–O–Ta system
 
-> Mn–O–Ta system: 16 accepted literature values (phase equilibrium 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–O–Ta system: 19 accepted literature values (phase equilibrium 16, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-O-TA.html · Markdown: https://data.orchid-project.org/systems/MN-O-TA.md
 
-16 accepted literature values from 1 paper(s) (experimental 16); 0 calculated phase diagram(s).
+19 accepted literature values from 1 paper(s) (experimental 19); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-O-TA.json) · [CSV](https://data.orchid-project.org/systems/MN-O-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-O-TA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-O-TA.html) · [Markdown](https://data.orchid-project.org/systems/MN-O-TA.md)
 
@@ -12,13 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
+| experimental | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 16 |
+| crystal structure | 3 |
 
 ## Other properties
 
@@ -44,6 +45,16 @@ Table: Phase equilibrium, Mn–O–Ta system
 | Phase composition |  | 1173.15 | Matrix + Second phase + η-Ta-Mn; _Matrix: Mn 0.591, O 0, Ta 0.409; Second phase: Mn 0.147, O 0, Ta 0.853; η-Ta-Mn: Mn 0.541, O 0, Ta 0.459_ | experimental | [1] Yan 2021 | Table 5, p. 11, row 13; `ORC-2RCA3LI43N` |  |
 | Phase composition |  | 1223.15 | Matrix; _Matrix: Mn 0.999, O 0, Ta 0.001_ | experimental | [1] Yan 2021 | Table 5, p. 11, row 6; `ORC-CFFNS35OBB` |  |
 | Phase composition |  | 1223.15 | Matrix + Second phase + η-Ta-Mn; _Matrix: Mn 0.993, O 0, Ta 0.007; Second phase: Mn 0.747, O 0, Ta 0.253; η-Ta-Mn: Mn 0.532, O 0, Ta 0.468_ | experimental | [1] Yan 2021 | Table 5, p. 11, row 4; `ORC-6SQ4V2TKWC` |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, Mn–O–Ta system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 11.4546 Å ± 1.000e-4 | 298.15 | Ta2.78Mn3.22O0.33; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 4; `ORC-5HMHLPMTIL.061757` |  |
+| Lattice a | 11.4088 Å ± 3.000e-4 | 298.15 | Ta2.84Mn3.16O0.23; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 6; `ORC-ABC7LA4JBU.1b66e6` |  |
+| Lattice a | 11.2859 Å ± 2.000e-4 | 298.15 | Ta3.01Mn2.99O0.13; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 7; `ORC-KOFO5B57LW.babca6` |  |
 
 ## Sources
 

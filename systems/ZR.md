@@ -1,10 +1,10 @@
 # Zr system
 
-> Zr system: 67 accepted literature values (crystal structure 49, phase transition 11, formation 5, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Zr system: 66 accepted literature values (crystal structure 49, phase transition 10, formation 5, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ZR.html · Markdown: https://data.orchid-project.org/systems/ZR.md
 
-67 accepted literature values from 13 paper(s) (experimental 12, model 26, DFT 11, unspecified 18); 0 calculated phase diagram(s).
+66 accepted literature values from 13 paper(s) (experimental 11, model 26, DFT 12, unspecified 17); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ZR.json) · [CSV](https://data.orchid-project.org/systems/ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ZR.html) · [Markdown](https://data.orchid-project.org/systems/ZR.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 11 |
 | model | 26 |
-| DFT | 11 |
-| unspecified | 18 |
+| DFT | 12 |
+| unspecified | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 2 |
-| phase transition | 11 |
+| phase transition | 10 |
 | formation | 5 |
 | crystal structure | 49 |
 
@@ -51,21 +51,20 @@ Table: Enthalpies of formation, Zr system (5)
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (10)
 
 Table: Phase transition, Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1024 K | 1024 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 11, p. 12, row 8; `ORC-SDZ5SPX77W` |  |
-| Phase transition | 1053 K | 1053 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | experimental | [4] Lafaye 2021; _cites Liang 2008_ | Table 11, p. 12, row 3; `ORC-2C2A4N3S65` |  |
 | Phase transition | 1054 K | 1054 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021 | Table 11, p. 12, row 5; `ORC-BAKQLJYHXU` |  |
 | Phase transition | 1087 K | 1087 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | experimental | [4] Lafaye 2021; _cites Liang 2008_ | Table 11, p. 12, row 1; `ORC-D4ERYCXQHP` |  |
 | Phase transition | 1100 K | 1100 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 11, p. 12, row 7; `ORC-YPXD45HHNX` |  |
 | Phase transition | 1115 K | 1115 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | model | [4] Lafaye 2021 | Table 11, p. 12, row 4; `ORC-KNV2TUYHRF` |  |
 | Phase transition | 1134 K | 1134 | other: Zr-1.0Sn-0.3Nb-0.3Fe-0.1Cr; _alloy: Zr 1_ | experimental | [4] Lafaye 2021; _cites Liang 2008_ | Table 11, p. 12, row 2; `ORC-LRRNOWZSWS` |  |
 | Phase transition | 1139 K | 1139 | polymorphic: hcp↔bcc; _alloy: Zr 1_ | model | [5] Mattern 2014; _cites Massalski 1990_ | Table 1, p. 3, row 5; `ORC-L44BQ74XQJ` |  |
-| Phase transition | 1139.4 K | 1139.4 | polymorphic: hcp-A3 -> bcc-A2; _hcp-A3: Zr 1; bcc-A2: Zr 1_ | unspecified | [6] Hämäläinen 1998 | Table I, p. 298, row 9; `ORC-I3JJ5YXA7B` |  |
+| Phase transition | 1139.4 K | 1139.4 | polymorphic: hcp-A3 -> bcc-A2; _hcp-A3: Zr 1; bcc-A2: Zr 1_ | model | [6] (ed.) 1998 | Table I, p. 298, row 9; `ORC-I3JJ5YXA7B` |  |
 | Phase transition | 1178.15 K | 1178.15 | other: Zr; _alloy: Zr 1_ | experimental | [7] Jourdan 2010 | Table 2, p. 4, row 2; `ORC-TWVJITEJD2` |  |
 | Phase transition | 2128 K | 2128 | other: bcc-Zr; _alloy: Zr 1_ | model | [5] Mattern 2014; _cites Massalski 1990_ | Table 1, p. 3, row 4; `ORC-GGOMF4YMUW` |  |
 
@@ -82,7 +81,7 @@ Table: Crystal structure, Zr system
 | Lattice a; _printed: a_ | 5.81 Å | 0 | C36; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 35; `ORC-LULOI67MWR.fb526d` |  |
 | Lattice a | 5.771 Å |  | C36; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 26; `ORC-YGZDBO45D2.94d0db` |  |
 | Lattice a | 3.2355 Å |  | HCP Zr; _alloy: Zr 1_ | unspecified | [9] Pavlů 2009 | Table 1, p. 2, row 4; `ORC-UIX4ENGEFN.cd9959` |  |
-| Lattice a | 5.759 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 7; `ORC-5MPBJ2CFQZ.932dce` |  |
+| Lattice a | 5.759 Å |  | UNKNOWN; _alloy: Zr 1_ | DFT | [9] Pavlů 2009 | Table 2, p. 2, row 7; `ORC-5MPBJ2CFQZ.932dce` |  |
 | Lattice a | 5.771 Å |  | UNKNOWN; _alloy: Zr 1_ | model | [9] Pavlů 2009 | Table 2, p. 2, row 14; `ORC-VO33ISJZIY.02bdbf` |  |
 | Lattice a; _printed: a_ | 13.09 Å | 0 | τ1; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 55; `ORC-LIH2DMWLAV` |  |
 | Lattice a; _printed: a_ | 5.8 Å | 0 | τ2; _alloy: Zr 1_ | DFT | [2] Lu 2017 | Table 2, p. 3, row 22; `ORC-SVZ6JJNBXM.41bfc7` |  |
@@ -134,7 +133,7 @@ Reporting papers the values were read from (a value cited from another work name
 3. S.H. Zhou, R.E. Napolitano, Phase stability for the Cu–Zr system: First-principles, experiments and solution-based modeling, Acta Materialia 58, 2186-2196 (2010). [doi:10.1016/j.actamat.2009.12.004](https://doi.org/10.1016/j.actamat.2009.12.004)
 4. Paul Lafaye, Caroline Toffolon-Masclet, Jean-Claude Crivello, Jean-Marc Joubert, Experimental study, first-principles calculation and thermodynamic modelling of the Cr–Fe–Nb–Sn–Zr quinary system for application as cladding materials in nuclear reactors., Journal of Nuclear Materials 544, 152692 (2021). [doi:10.1016/j.jnucmat.2020.152692](https://doi.org/10.1016/j.jnucmat.2020.152692)
 5. N. Mattern, Y. Yokoyama, A. Mizuno, J.H. Han, O. Fabrichnaya, H. Wendrock et al., Experimental and thermodynamic assessment of the Ce–Zr system, Calphad 46, 213-219 (2014). [doi:10.1016/j.calphad.2014.05.002](https://doi.org/10.1016/j.calphad.2014.05.002)
-6. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+6. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 7. J. Jourdan, C. Toffolon-Masclet, J.-M. Joubert, Experimental re-determination and thermodynamic assessment of the erbium–zirconium system, Journal of Nuclear Materials 402, 102-107 (2010). [doi:10.1016/j.jnucmat.2010.05.002](https://doi.org/10.1016/j.jnucmat.2010.05.002)
 8. Wei Luo, Shuhong Liu, Ying Tang, Ming Yin, Bosse Sundman, Yong Du et al., Experimental investigation and thermodynamic modeling of the Ga–Zr system, Journal of Alloys and Compounds 587, 497-505 (2014). [doi:10.1016/j.jallcom.2013.10.199](https://doi.org/10.1016/j.jallcom.2013.10.199)
 9. J. Pavlů, J. Vřešt’ál, M. Šob, Stability of Laves phases in the Cr–Zr system, Calphad 33, 382-387 (2009). [doi:10.1016/j.calphad.2008.11.003](https://doi.org/10.1016/j.calphad.2008.11.003)

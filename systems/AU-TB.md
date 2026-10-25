@@ -1,10 +1,10 @@
 # Au–Tb system
 
-> Au–Tb system: 79 accepted literature values (invariant reaction 68, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Tb system: 70 accepted literature values (invariant reaction 59, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-TB.html · Markdown: https://data.orchid-project.org/systems/AU-TB.md
 
-79 accepted literature values from 2 paper(s) (experimental 51, model 28); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+70 accepted literature values from 2 paper(s) (experimental 42, model 28); 2 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-TB.json) · [CSV](https://data.orchid-project.org/systems/AU-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-TB/AuTb-16Otm.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AU-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-TB.html) · [Markdown](https://data.orchid-project.org/systems/AU-TB.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 51 |
+| experimental | 42 |
 | model | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 68 |
+| invariant reaction | 59 |
 | phase transition | 11 |
 
 ## Calculated phase diagrams
@@ -87,7 +87,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Tb system (68)
+Table: Invariant reactions reported in the literature for the Au–Tb system (59)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -98,7 +98,6 @@ Table: Invariant reactions reported in the literature for the Au–Tb system (68
 | 1723.15 | polymorphic: βAuTb \<-> αAuTb | βAuTb: Tb 0.5; αAuTb: Au 0.5, Tb 0.5 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 10; `ORC-YLTF7XZRP2` |  |
 | 1628 | peritectic: L+αTbAu⇔Tb3Au4 | αTbAu: Tb 0.5; Tb3Au4: Tb 0.428571 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 36; `ORC-HL3ISQK3P7` |  |
 | 1613.25 | peritectic: L + αAuTb \<-> Au4Tb3 | L: Tb 0.408; αAuTb: Tb 0.5; Au4Tb3: Tb 0.429 | model | [1] Wang 2016 | Table 2, p. 3, row 13; `ORC-QFUHXBB65T` |  |
-| 1613.15 | peritectic: L + aAuTb -> Au4Tb3 |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3; `ORC-CTAZB6SZSA.7cd8bc` | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
 | 1613.15 | peritectic: L + αAuTb \<-> Au4Tb3 | L: Tb 0.41; αAuTb: Tb 0.5; Au4Tb3: Tb 0.429 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 12; `ORC-YUTJOKMAQP` |  |
 | 1613 | peritectic: L + αTbAu -> Tb3Au4 | L: Tb 0.4; αTbAu: Tb 0.5; Tb3Au4: Tb 0.428571 | model | [2] Otmani 2016 | Table 1, p. 3, row 14; `ORC-R5HMODJLCD` |  |
 | 1613 | peritectic: L + αTbAu -> Tb3Au4 | L: Tb 0.41; αTbAu: Tb 0.5; Tb3Au4: Tb 0.428571 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 13; `ORC-X2NUAZEWVL` |  |
@@ -112,47 +111,39 @@ Table: Invariant reactions reported in the literature for the Au–Tb system (68
 | 1488.15 | congruent melting: L \<-> Au3Tb | L: Tb 0.25; Au3Tb: Tb 0.25 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 22; `ORC-CW673WZ3OF` |  |
 | 1483.25 | peritectic: L + Au4Tb3 \<-> Au10Tb7 | L: Tb 0.373; Au4Tb3: Tb 0.429; Au10Tb7: Tb 0.412 | model | [1] Wang 2016 | Table 2, p. 3, row 15; `ORC-FTHRO4KR5I` |  |
 | 1483.15 | metatectic/catatectic: (βTb) \<-> (αTb) + L | (βTb): Tb 0.987; (αTb): Tb 0.999; L: Tb 0.941 | model | [1] Wang 2016 | Table 2, p. 3, row 2; `ORC-4DS74RBCYW` |  |
-| 1483.15 | peritectic: L + Au4Tb3 -> Au10Tb7 |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3; `ORC-CTAZB6SZSA.751493` | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
 | 1483.15 | metatectic/catatectic: (βTb) \<-> (αTb) + L | (βTb): Tb 0.975; L: Tb 0.915 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 1; `ORC-JND6JBDLUA` |  |
 | 1483.15 | peritectic: L + Au4Tb3 \<-> Au10Tb7 | L: Tb 0.38; Au4Tb3: Tb 0.429; Au10Tb7: Tb 0.412 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 14; `ORC-UYTAVZDGJ5` |  |
 | 1483 | metatectic/catatectic: (βTb) -> (αTb) + L | L: Tb 0.975 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 5; `ORC-JXYVV45RP5` |  |
 | 1483 | eutectic: L⇔Tb7Au10+TbAu2 | Tb7Au10: Tb 0.411765; TbAu2: Tb 0.333333 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 37; `ORC-KJCQMZAPIZ` |  |
 | 1483 | peritectic: L + Tb3Au4 -> Tb7Au10 | L: Tb 0.38; Tb3Au4: Tb 0.428571; Tb7Au10: Tb 0.411765 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 15; `ORC-LWX2A3633N` |  |
 | 1472.75 | eutectic: L \<-> Au10Tb7 + Au2Tb | L: Tb 0.37; Au10Tb7: Tb 0.412; Au2Tb: Tb 0.333 | model | [1] Wang 2016 | Table 2, p. 3, row 17; `ORC-GKUH3B6CEW` |  |
-| 1468.15 | eutectic: L -> Au10Tb7 + Au2Tb |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3; `ORC-CTAZB6SZSA.17fc23` | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
 | 1468.15 | eutectic: L \<-> Au10Tb7 + Au2Tb | L: Tb 0.375; Au10Tb7: Tb 0.412; Au2Tb: Tb 0.333 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 16; `ORC-RU7U5RGE7X` |  |
 | 1468 | eutectic: L -> Tb7Au10 + TbAu2 | L: Tb 0.375; Tb7Au10: Tb 0.411765; TbAu2: Tb 0.333333 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 17; `ORC-6R5LWUXTP5` |  |
-| 1448.15 | peritectic: L + Au3Tb -> Au51Tb14 |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3; `ORC-CTAZB6SZSA.e49481` | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
 | 1448.15 | peritectic: L + Au3Tb \<-> Au51Tb14 | L: Tb 0.21; Au3Tb: Tb 0.25; Au51Tb14: Tb 0.2154 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 24; `ORC-JK5DKTXZOB` |  |
 | 1448 | peritectic: L + TbAu3 -> Tb14Au51 | L: Tb 0.21; TbAu3: Tb 0.25; Tb14Au51: Tb 0.215385 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 25; `ORC-JQAZ4BGJ43` |  |
 | 1445.55 | peritectic: L + Au3Tb \<-> Au51Tb14 | L: Tb 0.2153; Au3Tb: Tb 0.25; Au51Tb14: Tb 0.2154 | model | [1] Wang 2016 | Table 2, p. 3, row 25; `ORC-N6SRBSGXWM` |  |
 | 1443 | eutectic: L⇔TbAu2+TbAu3 | TbAu2: Tb 0.333333; TbAu3: Tb 0.25 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 39; `ORC-JC26GVUINI` |  |
 | 1435.35 | eutectic: L \<-> Au2Tb + Au3Tb | L: Tb 0.288; Au2Tb: Tb 0.333; Au3Tb: Tb 0.25 | model | [1] Wang 2016 | Table 2, p. 3, row 21; `ORC-HIKXU6ZVDL` |  |
 | 1435 | eutectic: L -> TbAu2 + TbAu3 | L: Tb 0.29; TbAu2: Tb 0.333333; TbAu3: Tb 0.25 | model | [2] Otmani 2016 | Table 1, p. 3, row 22; `ORC-UARYZEGZZ6` |  |
-| 1433.15 | eutectic: L -> Au2Tb + Au3Tb |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3; `ORC-CTAZB6SZSA.a7869b` | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
 | 1433.15 | eutectic: L \<-> Au2Tb + Au3Tb | L: Tb 0.29; Au2Tb: Tb 0.333; Au3Tb: Tb 0.25 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 20; `ORC-CZEPNBLXI7` |  |
 | 1433 | eutectic: L -> TbAu2 + TbAu3 | L: Tb 0.29; TbAu2: Tb 0.333333; TbAu3: Tb 0.25 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 21; `ORC-VLSWGFB7ED` |  |
 | 1388 | peritectic: L+TbAu3⇔Tb14Au51 | TbAu3: Tb 0.25; Tb14Au51: Tb 0.215385 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 42; `ORC-N7I7LYW67O` |  |
 | 1376 | peritectic: L + TbAu3 -> Tb14Au51 | L: Tb 0.2; TbAu3: Tb 0.25; Tb14Au51: Tb 0.215385 | model | [2] Otmani 2016 | Table 1, p. 3, row 26; `ORC-M7YYTCARHE` |  |
 | 1273.25 | peritectic: L + αAuTb \<-> AuTb2 | L: Tb 0.7; αAuTb: Tb 0.5; AuTb2: Tb 0.667 | model | [1] Wang 2016 | Table 2, p. 3, row 6; `ORC-MUC43GIRUR` |  |
-| 1273.15 | peritectic: L + aAuTb -> AuTb2 |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3; `ORC-CTAZB6SZSA.62fd6e` | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
 | 1273.15 | peritectic: L + αAuTb \<-> AuTb2 | L: Tb 0.71; αAuTb: Tb 0.5; AuTb2: Tb 0.667 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 5; `ORC-WOIZO2SDBO` |  |
 | 1273 | peritectic: L+TbAu⇔Tb2Au | TbAu: Tb 0.5; Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 34; `ORC-QUMX2D66NC` |  |
 | 1273 | peritectic: L + TbAu -> Tb2Au | L: Tb 0.71; TbAu: Tb 0.5; Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 9; `ORC-W3CPAU7PRS` |  |
 | 1270 | peritectic: L + TbAu -> Tb2Au | L: Tb 0.672; TbAu: Tb 0.5; Tb2Au: Tb 0.666667 | model | [2] Otmani 2016 | Table 1, p. 3, row 10; `ORC-EK6E3TEYHS` |  |
 | 1163 | eutectic: L⇔(αTb)+Tb2Au | Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 33; `ORC-4AZLD6QH6I` |  |
-| 1153.15 | eutectic: L -> (aTb) + AuTb2 |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3; `ORC-CTAZB6SZSA.eef74e` | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
 | 1153.15 | eutectic: L \<-> (αTb) + AuTb2 | L: Tb 0.814; (αTb): Tb 0.996; AuTb2: Tb 0.667 | model | [1] Wang 2016 | Table 2, p. 3, row 4; `ORC-IH5GOIG2VC` |  |
 | 1153.15 | eutectic: L \<-> (αTb) + AuTb2 | L: Tb 0.8; AuTb2: Tb 0.667 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 3; `ORC-VIO3SQJMD7` |  |
 | 1153 | eutectic: L -> (αTb) + Tb2Au | L: Tb 0.8; Tb2Au: Tb 0.666667 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 7; `ORC-5XML6LOHUZ` |  |
 | 1153 | eutectic: L -> (αTb) + Tb2Au | L: Tb 0.795; Tb2Au: Tb 0.666667 | model | [2] Otmani 2016 | Table 1, p. 3, row 8; `ORC-AL47XL3MQ6` |  |
 | 1129.65 | peritectic: L + Au51Tb14 \<-> Au6Tb | L: Tb 0.121; Au51Tb14: Tb 0.215; Au6Tb: Tb 0.143 | model | [1] Wang 2016 | Table 2, p. 3, row 27; `ORC-D7OEUFTRLP` |  |
-| 1128.15 | peritectic: L + Au51Tb14 -> Au6Tb |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3; `ORC-CTAZB6SZSA.8438f6` | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
 | 1128.15 | peritectic: L + Au51Tb14 \<-> Au6Tb | L: Tb 0.12; Au51Tb14: Tb 0.215; Au6Tb: Tb 0.143 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 26; `ORC-QDFPOX3S26` |  |
 | 1128 | peritectic: L + Tb14Au51 -> TbAu6 | L: Tb 0.12; Tb14Au51: Tb 0.215385; TbAu6: Tb 0.142857 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 27; `ORC-WE5OJBYXAL` |  |
 | 1121 | peritectic: L + Tb14Au51 -> TbAu6 | L: Tb 0.12; Tb14Au51: Tb 0.215385; TbAu6: Tb 0.142857 | model | [2] Otmani 2016 | Table 1, p. 3, row 28; `ORC-KUEGZCIDER` |  |
 | 1082.15 | eutectic: L \<-> Au6Tb + (Au) | Au6Tb: Au 0.857143, Tb 0.142857; (Au): Tb 0.015 | experimental | [1] Wang 2016; _cites Rider 1965_ | Table 2, p. 3, row 29; `ORC-YX55PSGVCY` |  |
-| 1078.15 | eutectic: L -> Au6Tb + (Au) |  | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | p. 3; `ORC-CTAZB6SZSA.e43a4c` | “Later, with the differential thermal analysis, x-ray diffraction, optical microscopy, scanning electron microscopy and electron probe microanalysis, Saccone et al.\[16\] constructed the phase diagram of the Au-Tb system and presented four eutectic reactions: L (80.0 at.% Tb) M (aTb) + AuTb2 at 880 C, L (37.5 at.% Tb) M Au10Tb7 + Au2Tb at 1195 C, L (29.0 at.% Tb) M Au2Tb + Au3Tb at 1160 C, and L (11…” |
 | 1078.15 | eutectic: L \<-> Au6Tb + (Au) | L: Tb 0.11; Au6Tb: Tb 0.143; (Au): Tb 0.015 | experimental | [1] Wang 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 2, p. 3, row 28; `ORC-TGY44S24IC` |  |
 | 1078 | eutectic: L -> TbAu6 + (Au) | L: Tb 0.11; TbAu6: Tb 0.142857 | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 29; `ORC-BPO4HRART2` |  |
 | 1076.65 | eutectic: L \<-> Au6Tb + (Au) | L: Tb 0.095; Au6Tb: Tb 0.143; (Au): Tb 0.021 | model | [1] Wang 2016 | Table 2, p. 3, row 30; `ORC-OUEGZ6AP6E` |  |

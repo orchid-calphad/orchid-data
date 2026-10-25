@@ -1,26 +1,12 @@
 # Ga–In system
 
-> Ga–In system: 27 accepted literature values (phase transition 23, invariant reaction 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–In system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-IN.html · Markdown: https://data.orchid-project.org/systems/GA-IN.md
 
-27 accepted literature values from 3 paper(s) (experimental 24, model 3); 3 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s). 27 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-IN.json) · [CSV](https://data.orchid-project.org/systems/GA-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-IN/GaIn-78Ans.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GA-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-IN.html) · [Markdown](https://data.orchid-project.org/systems/GA-IN.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 24 |
-| model | 3 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 4 |
-| phase transition | 23 |
 
 ## Calculated phase diagrams
 
@@ -35,57 +21,6 @@ Table: Assessments with a calculated phase diagram
 | GaIn-91And.tdb | T.J. Anderson, I. Ansara, J. Phase Equilib., 12, 64-72(1991). [doi:10.1007/BF02663677](https://doi.org/10.1007/BF02663677) | `4015efc6acf86024ee9090f37f3549ff47751c95eee2ab2185e58c273b4186bf` | [viewer](https://orchid-project.org/phase-diagrams/#GA-IN/GaIn-91And.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GaIn-91And.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GaIn-91And.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GA/GA-IN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GA/GA-IN.json) · [CALPHAD hull GaIn-78Ans](https://data.orchid-project.org/hulls/calphad-sgte/GA/GA-IN--GaIn-78Ans.json) · [CALPHAD hull GaIn-90Rug-LB](https://data.orchid-project.org/hulls/calphad-sgte/GA/GA-IN--GaIn-90Rug-LB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ga–In system (4)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 288.45 | eutectic |  | model | [1] Ghasemi 2014; _cites Anderson 1991_ [doi](https://doi.org/10.1007/bf02663677) | p. 3; `ORC-5IENODG5T5` | “The eutectic reaction occurs at 15.3 °C at 14.2 at.% In \[12\].” |
-| 288.45 | eutectic |  | model | [2] Anderson 1991 | p. 1; `ORC-XZVU257JHC` | “The assessed Ga-In equilibrium phase diagram (Fig. 1) was calculated for this evaluation; it shows a retrograde tetragonal (In) solidus, with solubilities of 2.3 at.% Ga in (In) at the eutectic temperature of 15.3 \*C and of 14.2 at.% In in the liquid.” |
-| 288.4 | eutectic |  | experimental | [3] Rugg 1990 | p. 2; `ORC-FGN2AI6BYH` | “Although there is general agreement concerning the eutectic temperature (288.4 - 289.1 K) excluding the early value of de Boisbaudran'14) there exists considerable scatter for the eutectic composition.” |
-| 244.85 | eutectic |  | experimental | [2] Anderson 1991; _cites Delcroix 1963_ [doi](https://doi.org/10.1051/jphysrad:0196300240101700) | p. 5; `ORC-NNXQQICSZI` | “Asimple metastable eutectic phase diagram was constructed, with a eutectic temperature of -28.3 \*C and a composition of 6.3 at.% In.” |
-
-## Other properties
-
-### Phase transition (23)
-
-Table: Phase transition, Ga–In system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 288.35 K | 288.35 | eutectic | experimental | [2] Anderson 1991; _cites Topchyan 1973_ | Table I, p. 1, row 11; `ORC-3P3FGDQU5C` |  |
-| Phase transition | 288.35 K | 288.35 | eutectic | experimental | [3] Rugg 1990; _cites ref. 24_ | Table 1, p. 3, row 11; `ORC-X2PF6PGTQK` |  |
-| Phase transition | 288.4 K | 288.4 | eutectic | experimental | [3] Rugg 1990; _cites ref. 11_ | Table 1, p. 3, row 8; `ORC-CDGXS4MQGX` |  |
-| Phase transition | 288.55 K | 288.55 | eutectic | experimental | [2] Anderson 1991; _cites Kaplun 1981_ | Table I, p. 1, row 12; `ORC-BDJJ6SS6ZK` |  |
-| Phase transition | 288.55 K | 288.55 | eutectic | experimental | [3] Rugg 1990; _cites ref. 23_ | Table 1, p. 3, row 10; `ORC-IU2TYO5NG5` |  |
-| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [2] Anderson 1991; _cites Heubner 1966_ | Table I, p. 1, row 6; `ORC-2J7IBI5OXE` |  |
-| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [3] Rugg 1990; _cites ref. 18_ | Table 1, p. 3, row 5; `ORC-CJ4RELH52I` |  |
-| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [2] Anderson 1991; _cites Denny 1952_ [doi](https://doi.org/10.1007/bf03397646) | Table I, p. 1, row 3; `ORC-DBZGUYNLWC` |  |
-| Phase transition | 288.85 K | 288.85 | eutectic | experimental | [3] Rugg 1990; _cites ref. 16_ | Table 1, p. 3, row 3; `ORC-NLJDUXDYP5` |  |
-| Phase transition | 288.88 K | 288.88 | eutectic | experimental | [3] Rugg 1990; _cites ref. 17_ | Table 1, p. 3, row 4; `ORC-FMWRZCABV6` |  |
-| Phase transition | 288.88 K | 288.88 | eutectic | experimental | [2] Anderson 1991; _cites Svirbely 1954_ [doi](https://doi.org/10.1021/j150511a008) | Table I, p. 1, row 4; `ORC-IK2JAJ4HCT` |  |
-| Phase transition | 288.9 K | 288.9 | eutectic | experimental | [3] Rugg 1990; _cites ref. 20_ | Table 1, p. 3, row 9; `ORC-REV3QTSVRA` |  |
-| Phase transition | 288.93 K | 288.93 | eutectic | experimental | [2] Anderson 1991; _cites ref. 74Shu1_ | Table I, p. 1, row 10; `ORC-4ZV3NTHX5A` |  |
-| Phase transition | 288.95 K | 288.95 | eutectic | experimental | [2] Anderson 1991; _cites ref. 73Zak_ | Table I, p. 1, row 9; `ORC-CIBPZYK3TI` |  |
-| Phase transition | 288.95 K | 288.95 | eutectic | model | [2] Anderson 1991; _cites EH 1969_ | Table I, p. 1, row 7; `ORC-FWBNM5W5NH` |  |
-| Phase transition | 288.95 K | 288.95 | eutectic | experimental | [3] Rugg 1990; _cites ref. 2_ | Table 1, p. 3, row 7; `ORC-HB54QGPWZV` |  |
-| Phase transition | 289.05 K | 289.05 | eutectic | experimental | [2] Anderson 1991; _cites ref. 69Pre1_ | Table I, p. 1, row 8; `ORC-WMLRGNHXW6` |  |
-| Phase transition | 289.05 K | 289.05 | eutectic | experimental | [3] Rugg 1990; _cites ref. 19_ | Table 1, p. 3, row 6; `ORC-X2WBDAGWAA` |  |
-| Phase transition | 289.15 K | 289.15 | eutectic | experimental | [2] Anderson 1991; _cites ref. 38Fre_ | Table I, p. 1, row 2; `ORC-BRXWS4ZMQ2` |  |
-| Phase transition | 289.15 K | 289.15 | eutectic | experimental | [2] Anderson 1991; _cites Kiknadze 1965_ | Table I, p. 1, row 5; `ORC-IOOPEDLHTH` |  |
-| Phase transition | 289.15 K | 289.15 | eutectic | experimental | [3] Rugg 1990; _cites ref. 15_ | Table 1, p. 3, row 2; `ORC-Y26UWIEOQ5` |  |
-| Phase transition | 289.65 K | 289.65 | eutectic | experimental | [2] Anderson 1991; _cites Boisbaudran 1938_ | Table I, p. 1, row 1; `ORC-C4OIJGXQBM` |  |
-| Phase transition | 289.65 K | 289.65 | eutectic | experimental | [3] Rugg 1990; _cites ref. 14_ | Table 1, p. 3, row 1; `ORC-OP2HWZTHFF` |  |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014). [doi:10.1016/j.jallcom.2014.02.071](https://doi.org/10.1016/j.jallcom.2014.02.071)
-2. T.J Anderson, I Ansara, The Ga-In (Gallium-Indium) System, JPE 12, 64-72 (1991). [doi:10.1007/bf02663677](https://doi.org/10.1007/bf02663677)
-3. Bridget C Rugg, Tim G Chart, A critical assessment of thermodynamic and phase diagram data for the gallium-indium system, Calphad 14, 115-123 (1990). [doi:10.1016/0364-5916(90)90013-p](https://doi.org/10.1016/0364-5916%2890%2990013-p)
 
 ## Please cite
 

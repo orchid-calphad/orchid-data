@@ -22,7 +22,7 @@ Table: Phases of the Au–Dy system (11)
 | [BCC_A2](#phase-au-dy-bcc-a2); _phase:au-dy:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1654.12–2499.15 K, x(Dy) 0.99999–1 | 0 | 3 |
 | [FCC_A1](#phase-au-dy-fcc-a1); _phase:au-dy:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1344.33 K, x(Dy) 0–0.02569 | 7 | 3 |
 | [HCP_A3](#phase-au-dy-hcp-a3); _phase:au-dy:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2499.77 K, x(Dy) 1–1 | 4 | 3 |
-| [LIQUID](#phase-au-dy-liquid); _phase:au-dy:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1074.38–2500 K, x(Dy) 0–1 | 43 | 3 |
+| [LIQUID](#phase-au-dy-liquid); _phase:au-dy:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1074.38–2500 K, x(Dy) 0–1 | 44 | 3 |
 
 ## AU2DY_C11B (Au–Dy)
 
@@ -513,11 +513,11 @@ _cited as the source of values for this phase_
 - Id: `phase:au-dy:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1074.38–2500 K, x(Dy) 0–1
-- Literature: 43 values (43 accepted) from 2 papers
+- Literature: 44 values (44 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-dy:liquid)
 
-Names (6): _corpus: _corpus:phase:au-dy:liquid  
-_paper: _paper:10.1007/s11669-015-0378-2:L, paper:10.1016/j.jallcom.2015.07.002:L  
+Names (7): _corpus: _corpus:phase:au-dy:liquid  
+_paper: _paper:10.1007/s11669-015-0378-2:L, paper:10.1016/j.jallcom.2015.07.002:L, paper:10.1016/j.jallcom.2015.07.002:liquid  
 _tdb: _tdb:AuDy-15Otm.tdb:LIQUID, tdb:AuDy-15Wan.tdb:LIQUID, tdb:AuDy-16Hu.tdb:LIQUID  
 
 

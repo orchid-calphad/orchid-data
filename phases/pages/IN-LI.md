@@ -22,7 +22,7 @@ Table: Phases of the In–Li system (11)
 | [INLI2](#phase-in-li-inli2); _phase:in-li:inli2_ | GaLi2 · oC12 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–737.89 K, x(Li) 0.66653–0.70585 | 5 | 2 |
 | [INLI3_L12](#phase-in-li-inli3-l12); _phase:in-li:inli3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–618.95 K, x(Li) 0.75–0.75 | 0 | 1 |
 | [INLI6](#phase-in-li-inli6); _phase:in-li:inli6_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–579.52 K, x(Li) 0.85714–0.85714 | 4 | 1 |
-| [LIQUID](#phase-in-li-liquid); _phase:in-li:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 429.75–2500 K, x(Li) 0–1 | 16 | 2 |
+| [LIQUID](#phase-in-li-liquid); _phase:in-li:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 429.75–2500 K, x(Li) 0–1 | 17 | 2 |
 
 ## TETRAGONAL_A6 (In–Li)
 
@@ -407,11 +407,11 @@ _cited as the source of values for this phase_
 - Id: `phase:in-li:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 429.75–2500 K, x(Li) 0–1
-- Literature: 16 values (15 accepted) from 1 papers
+- Literature: 17 values (16 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-li:liquid)
 
-Names (4): _corpus: _corpus:phase:in-li:liquid  
-_paper: _paper:10.2298/jmmb210205041g:Liquid  
+Names (5): _corpus: _corpus:phase:in-li:liquid  
+_paper: _paper:10.2298/jmmb210205041g:Liquid, paper:10.2298/jmmb210205041g:liquid  
 _tdb: _tdb:InLi-20Zho.tdb:LIQUID, tdb:InLi-22Gie.tdb:LIQUID  
 
 

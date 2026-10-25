@@ -1,10 +1,10 @@
 # Ce–Sb system
 
-> Ce–Sb system: 18 accepted literature values (invariant reaction 15, phase transition 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Sb system: 15 accepted literature values (invariant reaction 12, phase transition 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-SB.html · Markdown: https://data.orchid-project.org/systems/CE-SB.md
 
-18 accepted literature values from 1 paper(s) (experimental 4, model 7, unspecified 7); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+15 accepted literature values from 1 paper(s) (experimental 1, model 7, unspecified 7); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-SB.json) · [CSV](https://data.orchid-project.org/systems/CE-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-SB/CeSb-06Su.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CE-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-SB.html) · [Markdown](https://data.orchid-project.org/systems/CE-SB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 1 |
 | model | 7 |
 | unspecified | 7 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 15 |
+| invariant reaction | 12 |
 | phase transition | 3 |
 
 ## Calculated phase diagrams
@@ -98,25 +98,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Sb system (15)
+Table: Invariant reactions reported in the literature for the Ce–Sb system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1784 | Liq. + CeSb -> Ce4Sb3 | L: Sb 0.299; CeSb: Sb 0.5; Ce4Sb3: Sb 0.4286 | model | [1] Su 2006 | Table 2, p. 3, row 7; `ORC-AGLO2WWEFI` |  |
-| 1783 | peritectic |  | experimental | [1] Su 2006 | p. 2; `ORC-6UXUIKOXSR.92ba99` | “The compounds CeSb2 , Ce4 Sb3 , and CeSb2 are formed by peritectic reactions at 1603, 1783 and 1403 K, respectively.” |
 | 1783 | Liq. + CeSb -> Ce4Sb3 | CeSb: Sb 0.5; Ce4Sb3: Sb 0.4286 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 8; `ORC-JDMCINURVM` |  |
-| 1603 | peritectic |  | experimental | [1] Su 2006 | p. 2; `ORC-6UXUIKOXSR.a3f076` | “The compounds CeSb2 , Ce4 Sb3 , and CeSb2 are formed by peritectic reactions at 1603, 1783 and 1403 K, respectively.” |
 | 1603 | Liq. + Ce4Sb3 -> Ce2Sb | Ce4Sb3: Sb 0.4286; Ce2Sb: Sb 0.3334 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 6; `ORC-GO7YGIX7QA` |  |
 | 1603 | Liq. + Ce4Sb3 -> Ce2Sb | L: Sb 0.2224; Ce4Sb3: Sb 0.4286; Ce2Sb: Sb 0.3334 | model | [1] Su 2006 | Table 2, p. 3, row 5; `ORC-NBGYM2KKIC` |  |
 | 1403 | Liq. + CeSb -> CeSb2 | L: Sb 0.8105; CeSb: Sb 0.5; CeSb2: Sb 0.6667 | model | [1] Su 2006 | Table 2, p. 3, row 11; `ORC-2B4ADM4SNY` |  |
-| 1403 | peritectic |  | experimental | [1] Su 2006 | p. 2; `ORC-6UXUIKOXSR.bfbc37` | “The compounds CeSb2 , Ce4 Sb3 , and CeSb2 are formed by peritectic reactions at 1603, 1783 and 1403 K, respectively.” |
 | 1403 | Liq. + CeSb -> CeSb2 | CeSb: Sb 0.5; CeSb2: Sb 0.6667 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 12; `ORC-OTKJDZTKUG` |  |
-| 1044 | Liq. -> (δCe) + Ce2Sb | L: Sb 0.0236; (δCe): Sb 0.0163; Ce2Sb: Sb 0.3334 | model | [1] Su 2006 | Table 2, p. 3, row 3; `ORC-RY7MHJ2YGR` |  |
-| 1043 | Liq. -> (δCe) + Ce2Sb | Ce2Sb: Sb 0.3334 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 4; `ORC-4VZ3JUDSLD` |  |
+| 1044 | eutectic: Liq. -> (δCe) + Ce2Sb | L: Sb 0.0236; (δCe): Sb 0.0163; Ce2Sb: Sb 0.3334 | model | [1] Su 2006 | Table 2, p. 3, row 3; `ORC-RY7MHJ2YGR` |  |
+| 1043 | eutectic: Liq. -> (δCe) + Ce2Sb | Ce2Sb: Sb 0.3334 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 4; `ORC-4VZ3JUDSLD` |  |
 | 975 | (δCe) -> (γCe) + Ce2Sb | (δCe): Sb 0.0076; (γCe): Sb 0; Ce2Sb: Sb 0.3334 | model | [1] Su 2006 | Table 2, p. 3, row 1; `ORC-O6PSDJMPNX` |  |
 | 973 | (δCe) -> (γCe) + Ce2Sb | Ce2Sb: Sb 0.3334 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 2; `ORC-AIOQ2TBFSE` |  |
-| 898 | Liq. -> (Sb) + CeSb2 | (Sb): Sb 1; CeSb2: Sb 0.6667 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 14; `ORC-ZW7MLXYTNA` |  |
-| 897 | Liq. -> (Sb) + CeSb2 | L: Sb 0.9858; (Sb): Sb 1; CeSb2: Sb 0.6667 | model | [1] Su 2006 | Table 2, p. 3, row 13; `ORC-VJHIGWT7GJ` |  |
+| 898 | eutectic: Liq. -> (Sb) + CeSb2 | (Sb): Sb 1; CeSb2: Sb 0.6667 | unspecified | [1] Su 2006; _cites Abulkhaev 1997_ | Table 2, p. 3, row 14; `ORC-ZW7MLXYTNA` |  |
+| 897 | eutectic: Liq. -> (Sb) + CeSb2 | L: Sb 0.9858; (Sb): Sb 1; CeSb2: Sb 0.6667 | model | [1] Su 2006 | Table 2, p. 3, row 13; `ORC-VJHIGWT7GJ` |  |
 
 ## Other properties
 

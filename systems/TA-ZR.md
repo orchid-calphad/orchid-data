@@ -1,24 +1,12 @@
 # Ta–Zr system
 
-> Ta–Zr system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ta–Zr system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TA-ZR.html · Markdown: https://data.orchid-project.org/systems/TA-ZR.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TA-ZR.json) · [CSV](https://data.orchid-project.org/systems/TA-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TA-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TA-ZR/TaZr-95Fer-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/TA-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TA-ZR.html) · [Markdown](https://data.orchid-project.org/systems/TA-ZR.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -37,22 +25,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | TaZr-95Fer-LB.tdb | 1073.98 | BCC_A2 (x(Zr) 0.03469) + BCC_A2#2 (x(Zr) 0.9622) + HCP_A3 (x(Zr) 0.99315) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/TA/TA-ZR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/TA/TA-ZR.json)
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ta–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 2120 K | 2120 | other | model | [1] Guillermet 1995 | p. 6; `ORC-UG4YAAJMJT` | “In particular, the minimum in the liquidus line, which is shown in Fig. 5, is placed by the calculation at 25.3wt. % ( 14.6at. %) Ta and 2120 K.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. A. Fernández Guillermet, Phase diagram and thermochemical properties of the ZrTa system. An assessment based on Gibbs energy modelling, Journal of Alloys and Compounds 226, 174-184 (1995). [doi:10.1016/0925-8388(95)01582-5](https://doi.org/10.1016/0925-8388%2895%2901582-5)
 
 ## Please cite
 

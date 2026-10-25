@@ -1,10 +1,10 @@
 # Ag–Ge system
 
-> Ag–Ge system: 25 accepted literature values (invariant reaction 16, phase transition 6, phase equilibrium 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ge system: 22 accepted literature values (invariant reaction 13, phase transition 6, phase equilibrium 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-GE.html · Markdown: https://data.orchid-project.org/systems/AG-GE.md
 
-25 accepted literature values from 3 paper(s) (experimental 21, model 4); 3 calculated phase diagram(s).
+22 accepted literature values from 4 paper(s) (experimental 19, model 3); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-GE.json) · [CSV](https://data.orchid-project.org/systems/AG-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-GE/AgGe-11Wan.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AG-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-GE.html) · [Markdown](https://data.orchid-project.org/systems/AG-GE.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
-| model | 4 |
+| experimental | 19 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 13 |
 | phase transition | 6 |
 | phase equilibrium | 3 |
 
@@ -50,26 +50,23 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Ge system (16)
+Table: Invariant reactions reported in the literature for the Ag–Ge system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 924 | eutectic |  | experimental | [1] Rajkumar 2018; _cites Chen 2017_ [doi](https://doi.org/10.1016/j.intermet.2016.11.011) | p. 1; `ORC-77X6DWZ7HM` | “Ag-Ge alloys with a eutectic temperature of 924 K could serve as mid-temperature joining materials,1 such as for the joining of mid-temperature thermoelectric modules.” |
-| 924 | eutectic: L -> fcc + dia | fcc: Ge 0.096 | experimental | [2] Chevalier 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 2, p. 5, row 5; `ORC-RGUQBOFASQ` |  |
-| 924 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | diamond_A4(Ge): Ge 1 | experimental | [3] Wang 2011; _cites Hume-Rothery 1940_ | Table 1, p. 2, row 3; `ORC-W4VMSWLYC4` |  |
-| 923.5 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.24; diamond_A4(Ge): Ge 1 | experimental | [3] Wang 2011; _cites Hassam 1988_ [doi](https://doi.org/10.1007/bf02649254) | Table 1, p. 2, row 5; `ORC-2ZKPDIOD74` |  |
-| 923.4 | eutectic: L -> fcc + dia | L: Ge 0.249; fcc: Ge 0.096 | model | [2] Chevalier 1988 | Table 2, p. 5, row 1; `ORC-DUPVSJFGSS` |  |
-| 923.4 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.249; diamond_A4(Ge): Ge 1 | model | [3] Wang 2011; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987047-3) | Table 1, p. 2, row 6; `ORC-KA5DUCQ6EB` |  |
-| 923 | eutectic |  | experimental | [2] Chevalier 1988; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | p. 2; `ORC-3VG72JVCR5.896305` | “The eutectic has been given as x& = 0.26, T = 923 K \[4\], x&, = 0.241, T = 922 K \[5\], and x&, = 0.24, T = 923 K \[6\].” |
-| 923 | eutectic: L -> fcc + dia | L: Ge 0.26; fcc: Ge 0.065 | experimental | [2] Chevalier 1988; _cites Bull 1980_ | Table 2, p. 5, row 2; `ORC-AJ2QWRHXXG` |  |
-| 923 | eutectic: L -> fcc + dia | fcc: Ge 0.081 | experimental | [2] Chevalier 1988; _cites Owen 1940_ | Table 2, p. 5, row 6; `ORC-E2QDAEEZRY` |  |
-| 923 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.26; diamond_A4(Ge): Ge 1 | experimental | [3] Wang 2011; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | Table 1, p. 2, row 1; `ORC-T4775PDIM5` |  |
-| 923 | eutectic: L -> fcc + dia | L: Ge 0.24 | experimental | [2] Chevalier 1988; _cites Maucher 1936_ | Table 2, p. 5, row 4; `ORC-UVROGFCC4W` |  |
-| 923 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.24; diamond_A4(Ge): Ge 1 | experimental | [3] Wang 2011; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 1, p. 2, row 4; `ORC-Z4APIJHMNQ` |  |
-| 922 | eutectic |  | experimental | [2] Chevalier 1988; _cites Maucher 1936_ | p. 2; `ORC-3VG72JVCR5.643d9a` | “The eutectic has been given as x& = 0.26, T = 923 K \[4\], x&, = 0.241, T = 922 K \[5\], and x&, = 0.24, T = 923 K \[6\].” |
-| 922 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.241; diamond_A4(Ge): Ge 1 | experimental | [3] Wang 2011; _cites Maucher 1936_ | Table 1, p. 2, row 2; `ORC-6DFXWHXESF` |  |
-| 922 | eutectic: L -> fcc + dia | L: Ge 0.241; fcc: Ge 0.079 | experimental | [2] Chevalier 1988; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | Table 2, p. 5, row 3; `ORC-Q4XYHVNJYA` |  |
-| 921 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.249; diamond_A4(Ge): Ge 1 | model | [3] Wang 2011 | Table 1, p. 2, row 7; `ORC-TIYKRVUQSM` |  |
+| 924 | eutectic: L -> fcc + dia | fcc: Ge 0.096 | experimental | [1] Chevalier 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 2, p. 5, row 5; `ORC-RGUQBOFASQ` |  |
+| 924 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | diamond_A4(Ge): Ge 1 | experimental | [2] Wang 2011; _cites Hume-Rothery 1940_ | Table 1, p. 2, row 3; `ORC-W4VMSWLYC4` |  |
+| 923.5 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.24; diamond_A4(Ge): Ge 1 | experimental | [2] Wang 2011; _cites Hassam 1988_ [doi](https://doi.org/10.1007/bf02649254) | Table 1, p. 2, row 5; `ORC-2ZKPDIOD74` |  |
+| 923.4 | eutectic: L -> fcc + dia | L: Ge 0.249; fcc: Ge 0.096 | model | [1] Chevalier 1988 | Table 2, p. 5, row 1; `ORC-DUPVSJFGSS` |  |
+| 923.4 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.249; diamond_A4(Ge): Ge 1 | model | [2] Wang 2011; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987047-3) | Table 1, p. 2, row 6; `ORC-KA5DUCQ6EB` |  |
+| 923 | eutectic: L -> fcc + dia | L: Ge 0.26; fcc: Ge 0.065 | experimental | [1] Chevalier 1988; _cites Bull 1980_ | Table 2, p. 5, row 2; `ORC-AJ2QWRHXXG` |  |
+| 923 | eutectic: L -> fcc + dia | fcc: Ge 0.081 | experimental | [1] Chevalier 1988; _cites Owen 1940_ | Table 2, p. 5, row 6; `ORC-E2QDAEEZRY` |  |
+| 923 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.26; diamond_A4(Ge): Ge 1 | experimental | [2] Wang 2011; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | Table 1, p. 2, row 1; `ORC-T4775PDIM5` |  |
+| 923 | eutectic: L -> fcc + dia | L: Ge 0.24 | experimental | [1] Chevalier 1988; _cites Maucher 1936_ | Table 2, p. 5, row 4; `ORC-UVROGFCC4W` |  |
+| 923 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.24; diamond_A4(Ge): Ge 1 | experimental | [2] Wang 2011; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 1, p. 2, row 4; `ORC-Z4APIJHMNQ` |  |
+| 922 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.241; diamond_A4(Ge): Ge 1 | experimental | [2] Wang 2011; _cites Maucher 1936_ | Table 1, p. 2, row 2; `ORC-6DFXWHXESF` |  |
+| 922 | eutectic: L -> fcc + dia | L: Ge 0.241; fcc: Ge 0.079 | experimental | [1] Chevalier 1988; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | Table 2, p. 5, row 3; `ORC-Q4XYHVNJYA` |  |
+| 921 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.249; diamond_A4(Ge): Ge 1 | model | [2] Wang 2011 | Table 1, p. 2, row 7; `ORC-TIYKRVUQSM` |  |
 
 ## Other properties
 
@@ -79,12 +76,12 @@ Table: Phase transition, Ag–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 923 K | 923 |  | experimental | [2] Chevalier 1988 | p. 4; `ORC-5CINDEX6RC.c966b9` | “The calculated temperature T = 923.4 K and composition xke = 0.249 are very near the mean experimental values T = 923 K, x,& = 0.247.” |
-| Phase transition | 923.4 K | 923.4 |  | model | [2] Chevalier 1988 | p. 4; `ORC-5CINDEX6RC.15eb00` | “The calculated temperature T = 923.4 K and composition xke = 0.249 are very near the mean experimental values T = 923 K, x,& = 0.247.” |
-| Phase transition | 1028 K | 1028 (>) | other: 7.49 ± 0.742 at.% Ge solidus; _alloy: Ag 0.9251, Ge 0.0749_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 6; `ORC-473KEK7CHH` |  |
-| Phase transition | 1073 K | 1073 (>) | other: 5.51 ± 0.748 at.% Ge solidus; _alloy: Ag 0.9449, Ge 0.0551_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 4; `ORC-2X7M7LMCA7` |  |
-| Phase transition | 1132 K | 1132 (>) | other: 3.67 ± 0.649 at.% Ge solidus; _alloy: Ag 0.9633, Ge 0.0367_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 2; `ORC-RH4BN57FUE` |  |
-| Phase transition | 1235.08 K | 1235.08 |  | experimental | [2] Chevalier 1988; _cites S_ | p. 4; `ORC-KFHRSHDVEU` | “The value of dia Ai has been obtained by combining a linear approximation for 'GL - ' Gf," = 11296.8 - 9.146614T which yields a melting point for silver equa?o T' = 1235.08 K (18 1, and an assumption for the quantity \[20\] "GA"g- 'G,$: = - 30.OT which has been made and which takes the same value as that proposed by Kaufman \[20\] for C, Al, Ti, Cr, Mn, Fe, Co, Ni, Cu, Nb, MO and W.” |
+| Phase transition | 922 K | 922 | eutectic | experimental | [3] Hassam 1988; _cites Maucher 1936_ | Table I, p. 2, row 2; `ORC-NDFFPOWSWH` |  |
+| Phase transition | 923 K | 923 | eutectic | experimental | [3] Hassam 1988; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | Table I, p. 2, row 1; `ORC-IYMUBV5HCS` |  |
+| Phase transition | 924 K | 924 | eutectic | experimental | [3] Hassam 1988; _cites Martin-Garin 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990094-6) | Table I, p. 2, row 3; `ORC-N7RSDZENUR` |  |
+| Phase transition | 1028 K | 1028 (>) | other: 7.49 ± 0.742 at.% Ge solidus; _alloy: Ag 0.9251, Ge 0.0749_ | experimental | [4] Rajkumar 2018 | Table III, p. 5, row 6; `ORC-473KEK7CHH` |  |
+| Phase transition | 1073 K | 1073 (>) | other: 5.51 ± 0.748 at.% Ge solidus; _alloy: Ag 0.9449, Ge 0.0551_ | experimental | [4] Rajkumar 2018 | Table III, p. 5, row 4; `ORC-2X7M7LMCA7` |  |
+| Phase transition | 1132 K | 1132 (>) | other: 3.67 ± 0.649 at.% Ge solidus; _alloy: Ag 0.9633, Ge 0.0367_ | experimental | [4] Rajkumar 2018 | Table III, p. 5, row 2; `ORC-RH4BN57FUE` |  |
 
 ### Phase equilibrium (3)
 
@@ -92,17 +89,18 @@ Table: Phase equilibrium, Ag–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1154 | other: 7.49 ± 0.742 at.% Ge liquidus; _liquid: Ag 0.9251, Ge 0.0749_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 5; `ORC-N7AOC2ESTH` |  |
-| Phase composition |  | 1178 | other: 5.51 ± 0.748 at.% Ge liquidus; _liquid: Ag 0.9449, Ge 0.0551_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 3; `ORC-OWMBOIIDGG` |  |
-| Phase composition |  | 1201 | other: 3.67 ± 0.649 at.% Ge liquidus; _liquid: Ag 0.9633, Ge 0.0367_ | experimental | [1] Rajkumar 2018 | Table III, p. 5, row 1; `ORC-TNMKX2HEUB` |  |
+| Phase composition |  | 1154 | other: 7.49 ± 0.742 at.% Ge liquidus; _liquid: Ag 0.9251, Ge 0.0749_ | experimental | [4] Rajkumar 2018 | Table III, p. 5, row 5; `ORC-N7AOC2ESTH` |  |
+| Phase composition |  | 1178 | other: 5.51 ± 0.748 at.% Ge liquidus; _liquid: Ag 0.9449, Ge 0.0551_ | experimental | [4] Rajkumar 2018 | Table III, p. 5, row 3; `ORC-OWMBOIIDGG` |  |
+| Phase composition |  | 1201 | other: 3.67 ± 0.649 at.% Ge liquidus; _liquid: Ag 0.9633, Ge 0.0367_ | experimental | [4] Rajkumar 2018 | Table III, p. 5, row 1; `ORC-TNMKX2HEUB` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. V. B. Rajkumar, Sinn-Wen Chen, Phase Equilibria and Thermodynamic Descriptions of Ag-Ge and Ag-Ge-Ni Systems, Journal of Elec Materi 47, 3666-3677 (2018). [doi:10.1007/s11664-018-6216-7](https://doi.org/10.1007/s11664-018-6216-7)
-2. P.-Y. Chevalier, Critical assessment of thermodynamic data for the Ag-Ge system, Thermochimica Acta 130, 25-32 (1988). [doi:10.1016/0040-6031(88)87047-3](https://doi.org/10.1016/0040-6031%2888%2987047-3)
-3. J. Wang, Y.J. Liu, C.Y. Tang, L.B. Liu, H.Y. Zhou, Z.P. Jin, Thermodynamic description of the Au–Ag–Ge ternary system, Thermochimica Acta 512, 240-246 (2011). [doi:10.1016/j.tca.2010.11.003](https://doi.org/10.1016/j.tca.2010.11.003)
+1. P.-Y. Chevalier, Critical assessment of thermodynamic data for the Ag-Ge system, Thermochimica Acta 130, 25-32 (1988). [doi:10.1016/0040-6031(88)87047-3](https://doi.org/10.1016/0040-6031%2888%2987047-3)
+2. J. Wang, Y.J. Liu, C.Y. Tang, L.B. Liu, H.Y. Zhou, Z.P. Jin, Thermodynamic description of the Au–Ag–Ge ternary system, Thermochimica Acta 512, 240-246 (2011). [doi:10.1016/j.tca.2010.11.003](https://doi.org/10.1016/j.tca.2010.11.003)
+3. S. Hassam, M. Gambino, M. Gaune-escard, J.P. Bros, J. ågren, Experimental and Calculated Ag + Au + Ge Phase Diagram, Metall Trans A 19, 409-416 (1988). [doi:10.1007/bf02649254](https://doi.org/10.1007/bf02649254)
+4. V. B. Rajkumar, Sinn-Wen Chen, Phase Equilibria and Thermodynamic Descriptions of Ag-Ge and Ag-Ge-Ni Systems, Journal of Elec Materi 47, 3666-3677 (2018). [doi:10.1007/s11664-018-6216-7](https://doi.org/10.1007/s11664-018-6216-7)
 
 ## Please cite
 

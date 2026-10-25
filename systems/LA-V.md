@@ -50,10 +50,10 @@ Table: Invariant reactions reported in the literature for the La–V system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2176.15 | L2 -> L1 + V | L2: V 0.9956; L1: V 0.0575; V: V 0.9997 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 3; `ORC-5QNNQLX3IR` |  |
-| 2172.15 | L2 -> L1 + V | L2: V 0.9935; L1: V 0.0573; V: V 0.9996 | model | [1] Chan 2010 | Table 3, p. 5, row 4; `ORC-EH5DCB66LZ` |  |
-| 1953.15 | L2 -> L1 + V |  | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 3, p. 5, row 1; `ORC-FGIBOMXDVT` |  |
-| 1953.15 | L2 -> L1 + V | L2: V 0.05 | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 3, p. 5, row 2; `ORC-X4JZ2MOAKG` |  |
+| 2176.15 | monotectic: L2 -> L1 + V | L2: V 0.9956; L1: V 0.0575; V: V 0.9997 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 3; `ORC-5QNNQLX3IR` |  |
+| 2172.15 | monotectic: L2 -> L1 + V | L2: V 0.9935; L1: V 0.0573; V: V 0.9996 | model | [1] Chan 2010 | Table 3, p. 5, row 4; `ORC-EH5DCB66LZ` |  |
+| 1953.15 | monotectic: L2 -> L1 + V |  | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 3, p. 5, row 1; `ORC-FGIBOMXDVT` |  |
+| 1953.15 | monotectic: L2 -> L1 + V | L2: V 0.05 | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 3, p. 5, row 2; `ORC-X4JZ2MOAKG` |  |
 | 1203.15 | L + V -> γLa |  | experimental | [1] Chan 2010; _cites Gschneidner 1961_ | Table 3, p. 5, row 5; `ORC-YT347P25TN` |  |
 | 1193.75 | L + V -> γLa | L: V 0.0017; V: V 1; γLa: V 0.0021 | model | [1] Chan 2010 | Table 3, p. 5, row 8; `ORC-5YEKZNG37O` |  |
 | 1193.15 | L + V -> γLa | L: V 0.0017; V: V 0.999999; γLa: V 0.0022 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 7; `ORC-SIDYWUJGPE` |  |

@@ -276,12 +276,12 @@ Property codes (528 records; raw code in `property_code_raw`):
 
 ## 4. DFT parity outliers
 
-Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose single binary formula matches a Materials Project or OQMD entry and that differ from DFT by more than 50 kJ/mol-atom, or have the opposite sign with |DFT - lit| > 10 (234 records), classified in this order:
+Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose single binary formula matches a Materials Project or OQMD entry and that differ from DFT by more than 50 kJ/mol-atom, or have the opposite sign with |DFT - lit| > 10 (228 records), classified in this order:
 
 * `basis_corrected_from_formula`: removed in audit round 2 (2026-10-24). The rule accepted a per-formula / per-atom conversion only when the converted value landed within 15 kJ/mol-atom of DFT, and the converted values then calibrated the DFT error (circular). The basis is now read on the page, one decision per printed column (`tools/literature_r2_thermo.py`, ledger keys `table_basis:<asset>`; gate R2 in the gates section).
 * `sign_from_heading` (0): printed without a minus sign, -lit within 15 of DFT, and the record's printed heading carries the minus (e.g. "-ΔfH"): sign applied, heading in `sign_heading_printed`.
 * `unsigned_in_print` (31): printed without a minus sign, -lit within 15 of DFT (and lit itself more than twice that far, so small values near zero are not classified), no negated heading in the record: value kept as printed, flagged, excluded from the default parity set.
-* `dft_outlier_unexplained` (203): no rule applies; flagged `flags.dft_outlier_unexplained`, value unchanged.
+* `dft_outlier_unexplained` (197): no rule applies; flagged `flags.dft_outlier_unexplained`, value unchanged.
 
 | id | class | formula | before | after | evidence |
 |---|---|---|---:|---:|---|
@@ -452,12 +452,6 @@ Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose sin
 | ORC-X6JDSME53M | dft_outlier_unexplained | Tb3Ni | -24.5 | -24.5 | no deterministic rule applies (DFT MP -22.9, OQMD 24.4) |
 | ORC-XGJTJCDVFW | dft_outlier_unexplained | Tb3Ni | -29.3 | -29.3 | no deterministic rule applies (DFT MP -22.9, OQMD 24.4) |
 | ORC-YJUTP2PTKK | dft_outlier_unexplained | Tb3Ni2 | -39.1 | -39.1 | no deterministic rule applies (DFT MP -33.4, OQMD 3.4) |
-| ORC-3UQSOYYDZ5.ba5118 | dft_outlier_unexplained | PuO1,61 | -433.6 | -433.6 | no deterministic rule applies (DFT MP -270.3, OQMD -276.4) |
-| ORC-BQ7EBIS6BA.4474ae | dft_outlier_unexplained | PuO1,52 | -422.5 | -422.5 | no deterministic rule applies (DFT MP -270.3, OQMD -276.4) |
-| ORC-EBMTXVKTB3.dc77b1 | dft_outlier_unexplained | PuO1,52 | -419.0 | -419.0 | no deterministic rule applies (DFT MP -270.3, OQMD -276.4) |
-| ORC-IW4K2IGBVB.07daca | dft_outlier_unexplained | PuO1,61 | -447.5 | -447.5 | no deterministic rule applies (DFT MP -270.3, OQMD -276.4) |
-| ORC-O2MKQDICEJ.012a44 | dft_outlier_unexplained | PuO1,61 | -442.25 | -442.25 | no deterministic rule applies (DFT MP -270.3, OQMD -276.4) |
-| ORC-QX5Z74ABJL.0e15ad | dft_outlier_unexplained | PuO1,61 | -437.75 | -437.75 | no deterministic rule applies (DFT MP -270.3, OQMD -276.4) |
 | ORC-5H3ZBHLINP | dft_outlier_unexplained | Zr2O | -286.0 | -286.0 | no deterministic rule applies (DFT MP -192.1, OQMD -186.6) |
 | ORC-5NHXC6TIGO | dft_outlier_unexplained | ZrO3 | -644.0 | -644.0 | no deterministic rule applies (DFT OQMD -240.0) |
 | ORC-7W5PN7OFFN | dft_outlier_unexplained | Zr3O | -214.0 | -214.0 | no deterministic rule applies (DFT MP -149.1, OQMD -142.7) |
@@ -543,16 +537,16 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 
 | count | n |
 |---|---:|
-| espei_certified | 1917 |
-| espei_ready | 11877 |
-| espei_ready_calphad_disagrees | 322 |
-| espei_ready_no_prediction | 9638 |
-| phase_rule_fail_compound_property_not_fittable | 406 |
+| espei_certified | 1897 |
+| espei_ready | 11817 |
+| espei_ready_calphad_disagrees | 320 |
+| espei_ready_no_prediction | 9600 |
+| phase_rule_fail_compound_property_not_fittable | 407 |
 | phase_rule_fail_liquid_impossible_at_T | 3 |
 | phase_rule_fail_phase_label_ambiguous | 79 |
 | phase_rule_fail_phase_label_not_mapped | 545 |
-| phase_rule_fail_phase_not_printed | 265 |
-| phase_rule_pass | 11877 |
+| phase_rule_fail_phase_not_printed | 267 |
+| phase_rule_pass | 11817 |
 
 Values whose `espei_ready` the phase rule turned false:
 
@@ -571,6 +565,7 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-ZDI62FNVY5 | B-U | CPM | 330.94 | B2U | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-KEI2TY2L4J.c69d64 | BI-K | GM_FORM | 838.0 | Bi2K | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-BOPH4LJCD6 | C-SI | SM | 298.15 | αSiC(Hex) | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-HHNIMW2TJQ | C-SI | SM | 298.15 | βSiC(Cubic) | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-OYSX326MRK.e94686 | C-U | SM | 298.15 | U2C3 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-ZDYH7IJLFP.b81126 | C-U | SM | 298.15 | U2C3 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-P5CQER2LTC | C-W | SM | 298.15 | WC | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -1522,8 +1517,8 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-UZM6JPBUE2.c22fe6 | NB-NI | HM_FORM | 0.0 | μ-Nb7Ni6, µ-Nb7Ni6 | phase_label_not_mapped | label 'µ-Nb7Ni6' |
 | ORC-V6DVVRGG5E.11e0a4 | NB-NI | HM_FORM | 600.15 | Nb7Ni6 | phase_label_not_mapped | label 'Nb7Ni6' |
 | ORC-MDJMCVRYSE.1f557a | NB-SI | HM_FORM | 273.15 | (NbSi2) | phase_label_not_mapped | label '(NbSi2)' |
-| ORC-2KBA7NMGGX.1f473d | ND | HM_FORM | 0.0 | Nd3Ru | phase_label_not_mapped | label 'Nd3Ru' |
-| ORC-N2B42IOD2X.1ce4aa | ND | HM_FORM | 0.0 | Nd3Ru | phase_label_not_mapped | label 'Nd3Ru' |
+| ORC-2KBA7NMGGX.1f473d | ND-RU | HM_FORM | 0.0 | Nd3Ru | phase_label_not_mapped | label 'Nd3Ru' |
+| ORC-N2B42IOD2X.1ce4aa | ND-RU | HM_FORM | 0.0 | Nd3Ru | phase_label_not_mapped | label 'Nd3Ru' |
 | ORC-TJTQXRTTEQ | NI-PT | HM_FORM | 0.0 | NiPt | phase_label_not_mapped | label 'NiPt' |
 | ORC-22FCDAQURR | NI-RU | HM_FORM | 0.0 | NiRu | phase_label_not_mapped | label 'NiRu' |
 | ORC-EEJVYGIGY3 | NI-RU | HM_FORM | 0.0 | Ni3Ru | phase_label_not_mapped | label 'Ni3Ru' |
@@ -1856,6 +1851,8 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-ZOINEUQ6R5.fbd9e8 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-7SDDUNMFWD | NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-XFMFG5NJ7G | NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
+| ORC-EENBV6JOTY.a7d9ec | NI-SM | HM_FORM | 1473.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
+| ORC-H5OATTV4YI.99a5c9 | NI-SM | HM_FORM | 1473.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 
 
 ## 7. Literature-level consistency gates (literature-gates 2026-10-24 (cleanup))
@@ -1864,13 +1861,13 @@ Every value was checked against its table, its paper, the physics of its quantit
 
 | | before | after |
 |---|---:|---:|
-| records | 77540 | 73550 |
-| extraction_accepted | 76600 | 72291 |
-| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13175 |
-| records with corrections | | 13902 |
-| records with gate failures | | 2779 |
-| page-check ledger entries (tools/literature_visual_checks.json) | | 1549 |
-| page-check keys looked up by the gates (table entries expanded to rows) | | 1590 |
+| records | 77540 | 73542 |
+| extraction_accepted | 76600 | 68290 |
+| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13118 |
+| records with corrections | | 15124 |
+| records with gate failures | | 8387 |
+| page-check ledger entries (tools/literature_visual_checks.json) | | 1750 |
+| page-check keys looked up by the gates (table entries expanded to rows) | | 1791 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -1881,7 +1878,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | A1 elements, chemical systems, compositions (audit round 2) | `c2_axis_flipped_table` | corrected | 60 |
 | A1 elements, chemical systems, compositions (audit round 2) | `c3_composition_phase_permutation` | corrected | 28 |
 | A1 elements, chemical systems, compositions (audit round 2) | `c3_composition_read_from_page` | corrected | 65 |
-| A1 elements, chemical systems, compositions (audit round 2) | `c4_system_of_the_state` | corrected | 7669 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c4_system_of_the_state` | corrected | 7792 |
 | A1 elements, chemical systems, compositions (audit round 2) | `c6_page_fix` | corrected | 6 |
 | A1 elements, chemical systems, compositions (audit round 2) | `c6_stale_zero_dropped` | corrected | 52 |
 | A1 elements, chemical systems, compositions (audit round 2) | `c7_basis_resolved_on_page` | corrected | 15 |
@@ -1889,6 +1886,9 @@ Every value was checked against its table, its paper, the physics of its quantit
 | A1 elements, chemical systems, compositions (audit round 2) | `composition_basis_unresolved` | flagged | 103 |
 | A1 elements, chemical systems, compositions (audit round 2) | `composition_outside_unit_interval` | demoted | 36 |
 | A1 elements, chemical systems, compositions (audit round 2) | `label_conflicts_composition` | flagged | 238 |
+| A1 elements, chemical systems, compositions (audit round 2) | `r3_overall_composition_conflicts_label` | flagged | 74 |
+| A1 elements, chemical systems, compositions (audit round 2) | `r3_overall_composition_from_formula` | corrected | 419 |
+| A1 elements, chemical systems, compositions (audit round 2) | `r3_reference_state_outside_system_dropped` | corrected | 3027 |
 | G1 temperatures | `liquid_below_physical_minimum` | demoted | 10 |
 | G1 temperatures | `liquid_below_physical_minimum` | flagged | 24 |
 | G1 temperatures | `liquid_temperature_corrected_from_page` | corrected | 2 |
@@ -1915,9 +1915,9 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G2 energies, entropies, heat capacities, activities | `value_corrected_from_page` | corrected | 3 |
 | G2 energies, entropies, heat capacities, activities | `value_out_of_physical_range` | demoted | 34 |
 | G2 energies, entropies, heat capacities, activities | `value_out_of_physical_range` | flagged | 1 |
-| G2 energies, entropies, heat capacities, activities | `value_outside_typical_range_as_printed` | flagged | 94 |
+| G2 energies, entropies, heat capacities, activities | `value_outside_typical_range_as_printed` | flagged | 72 |
 | G3 signs | `formation_positive_check_sign` | flagged | 1 |
-| G3 signs | `positive_formation_confirmed_on_page` | checked | 59 |
+| G3 signs | `positive_formation_confirmed_on_page` | checked | 50 |
 | G3 signs | `sign_corrected_from_page` | corrected | 10 |
 | G3 signs | `sign_from_heading_applied` | corrected | 31 |
 | G3 signs | `sign_heading_not_applied` | flagged | 1 |
@@ -1926,7 +1926,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G4 system assignment | `system_confirmed_label_typo` | flagged | 50 |
 | G4 system assignment | `system_mismatch` | demoted | 3 |
 | G4 system assignment | `system_reassigned` | corrected | 147 |
-| G4 system assignment | `system_reassigned_from_page` | corrected | 171 |
+| G4 system assignment | `system_reassigned_from_page` | corrected | 180 |
 | G5 property semantics | `entropy_increment` | corrected | 30 |
 | G5 property semantics | `formation_code_in_unary_system` | demoted | 4 |
 | G5 property semantics | `formation_on_liquid` | flagged | 22 |
@@ -1942,20 +1942,20 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G6 invariant phase lists | `binary_more_than_three_phases` | flagged | 5 |
 | G6 invariant phase lists | `phase_added_on_page` | corrected | 162 |
 | G6 invariant phase lists | `phase_list_corrected_on_page` | corrected | 182 |
-| G6 invariant phase lists | `phase_list_normalized` | corrected | 571 |
-| G6 invariant phase lists | `reaction_liquid_count_inconsistent` | flagged | 9 |
+| G6 invariant phase lists | `phase_list_normalized` | corrected | 572 |
+| G6 invariant phase lists | `reaction_liquid_count_inconsistent` | flagged | 107 |
 | G6 invariant phase lists | `reaction_liquid_count_inconsistent_as_printed` | flagged | 126 |
 | G6 invariant phase lists | `reaction_phase_count_inconsistent` | flagged | 15 |
 | G6 invariant phase lists | `reaction_phase_count_inconsistent_as_printed` | flagged | 14 |
 | G6 invariant phase lists | `reaction_type_corrected_on_page` | corrected | 17 |
 | G6 invariant phase lists | `ternary_more_than_four_phases` | flagged | 89 |
-| G7 duplicates | `cosmetic_duplicate_merged` | merged | 3975 |
+| G7 duplicates | `cosmetic_duplicate_merged` | merged | 3983 |
 | G7 duplicates | `phase_label_readings_disagree` | flagged | 509 |
-| G7 duplicates | `records_removed` | merged | 3990 |
+| G7 duplicates | `records_removed` | merged | 3998 |
 | G8 evidence class | `assessed_source_not_experimental` | corrected | 1 |
 | G8 evidence class | `evidence_change_rejected_on_check` | checked | 31 |
 | G8 evidence class | `from_evaluation_paper_flagged` | flagged | 734 |
-| G8 evidence class | `model_to_dft` | corrected | 8 |
+| G8 evidence class | `model_to_dft` | corrected | 5 |
 | G8 evidence class | `model_to_experimental` | corrected | 47 |
 | G9 compositions | `activity_rounded_to_zero` | flagged | 9 |
 | G9 compositions | `composition_copied_across_rows` | flagged | 10 |
@@ -1965,7 +1965,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G9 compositions | `phase_composition_sum_not_one` | flagged | 27 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `absolute_entropy_labelled_formation` | corrected | 130 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `column_property_read_from_page` | corrected | 51 |
-| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `experimental_value_from_0K_caption` | corrected | 210 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `experimental_value_from_0K_caption` | corrected | 197 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `expression_coefficient` | corrected | 623 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `first_principles_row_of_mixed_table` | corrected | 101 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `formation_entropy_out_of_range` | demoted | 24 |
@@ -1973,6 +1973,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `heat_content_row_temperature` | corrected | 901 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `heat_content_temperature_missing` | demoted | 35 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `non_crystalline_state` | flagged | 16 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `own_first_principles_row_labelled_experimental` | corrected | 13 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `per_atom_unit_printed_mol_per_at` | corrected | 25 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `quantity_printed_at_298` | corrected | 47 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `reference_state_text_not_a_phase` | corrected | 43 |
@@ -1981,17 +1982,42 @@ Every value was checked against its table, its paper, the physics of its quantit
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `table_basis_value` | corrected | 125 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `table_sign_value` | corrected | 4 |
 | R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `temperature_printed_in_quantity_label` | corrected | 69 |
+| R3  | `assessed_database_values` | corrected | 262 |
+| R3  | `comma_decimal_formula_atoms` | corrected | 12 |
+| R3  | `contribution_stored_as_total` | corrected | 116 |
+| R3  | `defect_energy_stored_as_formation` | corrected | 54 |
+| R3  | `emf_intercept_stored_as_emf` | corrected | 84 |
+| R3  | `emf_slope_stored_as_emf` | corrected | 2 |
+| R3  | `first_principles_value_coded_model` | corrected | 197 |
+| R3  | `formation_below_0p1_kJ_not_page_checked` | flagged | 2 |
+| R3  | `formation_value_printed_misprint` | flagged | 1 |
+| R3  | `heat_content_base_temperature` | corrected | 142 |
+| R3  | `printed_range_read_from_page` | corrected | 7 |
+| R3  | `state_phases_from_quote` | corrected | 264 |
+| R3  | `state_phases_missing` | demoted | 4282 |
+| R3  | `state_phases_read_from_page` | corrected | 16 |
+| R3  | `temperature_printed_not_stored` | corrected | 14 |
+| R3  | `temperature_range_printed_not_stored` | corrected | 21 |
+| R3  | `three_term_expression_coefficient` | corrected | 10 |
+| R3  | `unit_prefix_lost_k` | corrected | 11 |
+| R3I  | `duplicate_invariant_same_page` | flagged | 179 |
+| R3I  | `invariant_temperature_needs_page_check` | flagged | 8 |
+| R3I  | `phase_rule_count_mismatch` | flagged | 302 |
+| R3I  | `phases_from_printed_reaction` | corrected | 220 |
+| R3I  | `reaction_class_conflicts_printed_reaction` | flagged | 67 |
+| R3I  | `reaction_class_from_printed_reaction` | corrected | 3021 |
 | page page checks (visual) | `composition_misread_on_page` | flagged | 2 |
 | page page checks (visual) | `derived_at_high_temperature_from_bcc_zr` | flagged | 6 |
 | page page checks (visual) | `energy_basis_not_printed_rows_inconsistent` | flagged | 11 |
+| page page checks (visual) | `glass_transition_not_an_equilibrium_state` | flagged | 2 |
 | page page checks (visual) | `misread_on_page` | demoted | 88 |
 | page page checks (visual) | `mutually_inconsistent` | flagged | 10 |
 | page page checks (visual) | `page_fix_cited_sources` | corrected | 30 |
-| page page checks (visual) | `page_fix_evidence_class` | corrected | 35 |
+| page page checks (visual) | `page_fix_evidence_class` | corrected | 180 |
 | page page checks (visual) | `page_fix_property` | corrected | 8 |
 | page page checks (visual) | `page_fix_quote_page` | corrected | 2 |
 | page page checks (visual) | `page_fix_reference_state` | corrected | 12 |
-| page page checks (visual) | `page_fix_temperature_K` | corrected | 29 |
+| page page checks (visual) | `page_fix_temperature_K` | corrected | 31 |
 | page page checks (visual) | `page_fix_temperature_basis` | corrected | 12 |
 | page page checks (visual) | `page_fix_uncertainty` | corrected | 13 |
 | page page checks (visual) | `page_fix_unit` | corrected | 113 |
@@ -2013,7 +2039,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 
 | kind | verdict | n |
 |---|---|---:|
-| class_rule | rule_confirmed | 11 |
+| class_rule | rule_confirmed | 23 |
 | composition_row | as_printed | 2 |
 | composition_row | confirmed | 57 |
 | composition_row | corrected | 65 |
@@ -2033,8 +2059,9 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | flag_precision_sample | false_positive | 5 |
 | flag_precision_sample | true_positive | 15 |
 | invariant_table | checked | 160 |
-| page_fix | corrected | 200 |
+| page_fix | corrected | 347 |
 | page_flag | confirmed | 93 |
+| page_flag | flagged | 2 |
 | per_formula | corrected | 1 |
 | phase_alias | confirmed | 15 |
 | record_T | as_stored | 28 |
@@ -2045,12 +2072,14 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | record_composition | corrected | 2 |
 | record_flag | flagged | 41 |
 | record_phases | as_stored | 5 |
+| record_phases | corrected | 16 |
 | record_phases | higher_order | 50 |
 | record_phases | misread | 34 |
+| record_range | corrected | 7 |
 | record_system | confirmed | 5 |
 | record_system | corrected | 4 |
-| record_system | misread | 30 |
-| record_value | as_stored | 164 |
+| record_system | misread | 39 |
+| record_value | as_stored | 169 |
 | record_value | confirmed | 90 |
 | record_value | corrected | 27 |
 | record_value | misread | 96 |
@@ -2060,6 +2089,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | table_T_unit | confirmed | 8 |
 | table_T_unit_sibling | confirmed | 2 |
 | table_basis | decided | 8 |
+| table_property | confirmed | 2 |
 | table_property | decided | 2 |
 | table_scale | as_stored | 1 |
 | table_scale | confirmed | 14 |
@@ -2069,6 +2099,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | table_sign | decided | 1 |
 | table_sign | rejected | 1 |
 | table_unit | confirmed | 1 |
+| table_unit | corrected | 1 |
 
 Gate rules:
 
@@ -2097,26 +2128,27 @@ Rules: (a rejected mapping is removed; the model phase, its structure and the re
 
 | result | phase mentions |
 |---|---:|
-| alias_applied | 671 |
-| alias_applied:no_corpus_mapping | 182 |
+| alias_applied | 673 |
+| alias_applied:no_corpus_mapping | 184 |
 | alias_applied:replaced_corpus_mapping | 489 |
 | alias_confirms_corpus_mapping | 607 |
 | alias_not_applied:alias_excluded_in_record_tdb | 10 |
 | alias_not_applied:composition_outside_alias_range | 37 |
 | alias_not_applied:printed_formula_differs_from_alias | 2 |
-| alias_not_applied:same_model_as_another_phase_of_the_row | 29 |
+| alias_not_applied:same_model_as_another_phase_of_the_row | 36 |
 | alias_not_applied:temperature_outside_alias_range | 5 |
-| kept | 75311 |
-| kept_by_system_alias | 1278 |
-| rejected | 2262 |
-| rejected:composition_outside_model_phase_range | 286 |
+| kept | 75254 |
+| kept_by_system_alias | 1280 |
+| rejected | 2319 |
+| rejected:composition_outside_model_phase_range | 278 |
 | rejected:element_polymorph_contradicts_model | 412 |
 | rejected:greek_label_not_an_element_polymorph_of_this_structure | 327 |
-| rejected:greek_or_compound_label_mapped_to_element_structure | 915 |
+| rejected:greek_or_compound_label_mapped_to_element_structure | 953 |
 | rejected:label_not_a_solution_or_structure_name | 205 |
 | rejected:liquid_label_mapped_to_non_liquid_model | 52 |
 | rejected:same_model_as_another_phase_of_the_row | 20 |
 | rejected:structure_word_contradicts_model | 45 |
+| rejected:variable_formula_label_not_a_fixed_compound | 27 |
 
 Per-system aliases (`tools/phase_aliases.json`, 64 aliases in 32 systems) applied before the rules: a conventional phase name of the record's binary system is mapped to that system's TDB phase when the printed composition / temperature agree (`model_phase_basis: system_alias:<id>`).
 
@@ -2128,9 +2160,9 @@ Per-system aliases (`tools/phase_aliases.json`, 64 aliases in 32 systems) applie
 | ni-zn:beta | β | NIZN_B2 | 39 |
 | cu-sn:epsilon | ε | CU3SN_L | 35 |
 | ni-zn:beta1 | β1 | NIZN_L10 | 25 |
-| al-mn:epsilon | ε | HCP_A3 | 23 |
+| al-mn:epsilon | ε | HCP_A3 | 24 |
+| co-ga:beta | β | COGA_B2 | 22 |
 | al-nb:epsilon | ε | AL3NB_D022 | 21 |
-| co-ga:beta | β | COGA_B2 | 21 |
 | c-zr:gamma | γ | FCC_A1 | 19 |
 | cu-si:epsilon | ε | CU15SI4 | 19 |
 | al-ni:gammaprime | γ′ (Ni3Al) | L12_FCC | 18 |

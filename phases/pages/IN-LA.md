@@ -19,12 +19,12 @@ Table: Phases of the In–La system (13)
 | [HCP_A3](#phase-in-la-hcp-a3); _phase:in-la:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [IN2LA](#phase-in-la-in2la); _phase:in-la:in2la_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1424.33 K, x(La) 0.33333–0.33333 | 4 | 1 |
 | [IN3LA_L12](#phase-in-la-in3la-l12); _phase:in-la:in3la-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1408.43 K, x(La) 0.25–0.25 | 6 | 1 |
-| [IN57LA43](#phase-in-la-in57la43); _phase:in-la:in57la43_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1179.42–1348.91 K, x(La) 0.43–0.43 | 4 | 1 |
+| [IN57LA43](#phase-in-la-in57la43); _phase:in-la:in57la43_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1179.42–1348.91 K, x(La) 0.43–0.43 | 0 | 1 |
 | [IN5LA3](#phase-in-la-in5la3); _phase:in-la:in5la3_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1453.65 K, x(La) 0.375–0.375 | 10 | 1 |
 | [INLA_B2](#phase-in-la-inla-b2); _phase:in-la:inla-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1385.93 K, x(La) 0.5–0.5 | 10 | 1 |
 | [INLA2_B82](#phase-in-la-inla2-b82); _phase:in-la:inla2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1210.74 K, x(La) 0.66667–0.66667 | 4 | 1 |
 | [INLA3_L12](#phase-in-la-inla3-l12); _phase:in-la:inla3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1086.74 K, x(La) 0.75–0.75 | 6 | 1 |
-| [LIQUID](#phase-in-la-liquid); _phase:in-la:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 427.37–2500 K, x(La) 0–1 | 20 | 1 |
+| [LIQUID](#phase-in-la-liquid); _phase:in-la:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 427.37–2500 K, x(La) 0–1 | 21 | 1 |
 
 ## TETRAGONAL_A6 (In–La)
 
@@ -237,15 +237,13 @@ _cited as the source of values for this phase_
 
 - Id: `phase:in-la:in57la43`; status `needs_review`
 - No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token; sgte_mmc2_row_incomplete
-- Candidate (literature_printed): (In57La43) · ? — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): (In57La43) — Hallstedt 2025 mmc2 row for IN57LA43: In57La43
 - Stoichiometry: In 0.5700, La 0.4300
 - Stability: stable in 1 of 1 calculated diagram(s): 1179.42–1348.91 K, x(La) 0.43–0.43
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-la:in57la43)
 
-Names (3): _corpus: _corpus:phase:in-la:in57la43  
-_paper: _paper:10.1016/s0925-8388(01)01722-4:LaInx  
+Names (2): _corpus: _corpus:phase:in-la:in57la43  
 _tdb: _tdb:InLa-02Wei-LB.tdb:IN57LA43  
 
 
@@ -258,12 +256,10 @@ _tdb: _tdb:InLa-02Wei-LB.tdb:IN57LA43
 70: CONST IN57LA43 : IN : LA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/S0925-8388(01)01722-4](https://doi.org/10.1016/S0925-8388%2801%2901722-4) Y. Wei, X. Su, F. Yin, Z. Li, X. Wu, C. Chen, J. Alloys Compd., 333, 118-21(2002).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0022-5088(74)90057-5](https://doi.org/10.1016/0022-5088%2874%2990057-5) O.D. McMasters, K.A. Gschneidner, The lanthanum-indium system, Journal of the Less Common Metals 38, 137-148 (1974).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## IN5LA3 (In–La)
 
@@ -398,11 +394,11 @@ _cited as the source of values for this phase_
 - Id: `phase:in-la:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 427.37–2500 K, x(La) 0–1
-- Literature: 20 values (20 accepted) from 1 papers
+- Literature: 21 values (21 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-la:liquid)
 
-Names (3): _corpus: _corpus:phase:in-la:liquid  
-_paper: _paper:10.1016/s0925-8388(01)01722-4:L  
+Names (4): _corpus: _corpus:phase:in-la:liquid  
+_paper: _paper:10.1016/s0925-8388(01)01722-4:L, paper:10.1016/s0925-8388(01)01722-4:liquid  
 _tdb: _tdb:InLa-02Wei-LB.tdb:LIQUID  
 
 

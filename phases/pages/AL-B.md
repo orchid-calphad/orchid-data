@@ -66,7 +66,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-b:alb12-alpha)
 
 Names (9): _corpus: _corpus:phase:al-b:alb12-alpha  
-_paper: _paper:10.1016/j.jallcom.2004.04.100:AlB12, paper:10.1016/s0364-5916(98)00037-6:AlB12-L, paper:10.1361/105497199770340743:AlB12  
+_paper: _paper:10.1016/j.jallcom.2004.04.100:AlB12, paper:10.1361/105497199770340743:AlB12, paper:sha256-85fd53a1a176b694:AlB12-L  
 _tdb: _tdb:AlB-01Luk-LB.tdb:ALB12_ALPHA, tdb:AlB-04Mir.tdb:ALB12_ALPHA, tdb:AlB-15Wan.tdb:ALB12_ALPHA, tdb:AlB-98Luk.tdb:ALB12_ALPHA, tdb:AlB-99Cam.tdb:ALB12_ALPHA  
 
 
@@ -107,7 +107,7 @@ _tdb: _tdb:AlB-01Luk-LB.tdb:ALB12_ALPHA, tdb:AlB-04Mir.tdb:ALB12_ALPHA, tdb:AlB-
 61: CONST AlB12_ALPHA : AL : B : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
 _assessment that models this phase; reports values for this phase_
@@ -117,8 +117,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02649415](https://doi.org/10.1007/bf02649415) H. Duschanek, P. Rogl, The Al-B (aluminum-boron) system, JPE 15, 543-552 (1994).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02645112](https://doi.org/10.1007/bf02645112) Geoffrey K. Sigworth, The Grain Refining of Aluminum and Phase Relationships in the Al-Ti-B System, Metall Trans A 15, 277-282 (1984).  
 _cited as the source of values for this phase_
 
@@ -156,7 +154,7 @@ _tdb: _tdb:AlB-98Luk.tdb:ALB12_BETA
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-b:alb2-c32)
 
 Names (9): _corpus: _corpus:phase:al-b:alb2-c32  
-_paper: _paper:10.1016/j.jallcom.2004.04.100:AlB2, paper:10.1016/s0364-5916(98)00037-6:AlB2, paper:10.1361/105497199770340743:AlB2  
+_paper: _paper:10.1016/j.jallcom.2004.04.100:AlB2, paper:10.1361/105497199770340743:AlB2, paper:sha256-85fd53a1a176b694:AlB2  
 _tdb: _tdb:AlB-01Luk-LB.tdb:ALB2_C32, tdb:AlB-04Mir.tdb:ALB2_C32, tdb:AlB-15Wan.tdb:ALB2_C32, tdb:AlB-98Luk.tdb:ALB2_C32, tdb:AlB-99Cam.tdb:ALB2_C32  
 
 
@@ -197,7 +195,7 @@ _tdb: _tdb:AlB-01Luk-LB.tdb:ALB2_C32, tdb:AlB-04Mir.tdb:ALB2_C32, tdb:AlB-15Wan.
 56: CONST ALB2_C32 : AL : B : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
 _assessment that models this phase; reports values for this phase_
@@ -207,8 +205,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02645112](https://doi.org/10.1007/bf02645112) Geoffrey K. Sigworth, The Grain Refining of Aluminum and Phase Relationships in the Al-Ti-B System, Metall Trans A 15, 277-282 (1984).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02649415](https://doi.org/10.1007/bf02649415) H. Duschanek, P. Rogl, The Al-B (aluminum-boron) system, JPE 15, 543-552 (1994).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0956-7151(92)90080-x](https://doi.org/10.1016/0956-7151%2892%2990080-x) R.G. Vardiman, Microstructures in aluminum ion implanted with boron and heat treated, Acta Metallurgica et Materialia 40, 1029-1035 (1992).  
@@ -229,7 +225,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-b:b-beta-rhombo)
 
 Names (10): _corpus: _corpus:phase:al-b:b-beta-rhombo, corpus:phase:al-b:beta-rhombo-b  
-_paper: _paper:10.1016/j.jallcom.2004.04.100:β-B, paper:10.1016/s0364-5916(98)00037-6:β-rhombo-B, paper:10.1361/105497199770340743:β  
+_paper: _paper:10.1016/j.jallcom.2004.04.100:β-B, paper:10.1361/105497199770340743:β, paper:sha256-85fd53a1a176b694:β-rhombo-B  
 _tdb: _tdb:AlB-01Luk-LB.tdb:BETA_RHOMBO_B, tdb:AlB-04Mir.tdb:BETA_RHOMBO_B, tdb:AlB-15Wan.tdb:BETA_RHOMBO_B, tdb:AlB-98Luk.tdb:BETA_RHOMBO_B, tdb:AlB-99Cam.tdb:BETA_RHOMBO_B  
 
 
@@ -270,7 +266,7 @@ _tdb: _tdb:AlB-01Luk-LB.tdb:BETA_RHOMBO_B, tdb:AlB-04Mir.tdb:BETA_RHOMBO_B, tdb:
 46: CONST BETA_RHOMBO_B : AL B% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
 _assessment that models this phase; reports values for this phase_
@@ -280,8 +276,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02649415](https://doi.org/10.1007/bf02649415) H. Duschanek, P. Rogl, The Al-B (aluminum-boron) system, JPE 15, 543-552 (1994).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_A2 (Al–B)
 
@@ -350,7 +344,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-b:fcc-a1)
 
 Names (9): _corpus: _corpus:phase:al-b:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2004.04.100:fcc, paper:10.1016/s0364-5916(98)00037-6:fcc-Al, paper:10.1361/105497199770340743:Al  
+_paper: _paper:10.1016/j.jallcom.2004.04.100:fcc, paper:10.1361/105497199770340743:Al, paper:sha256-85fd53a1a176b694:fcc-Al  
 _tdb: _tdb:AlB-01Luk-LB.tdb:FCC_A1, tdb:AlB-04Mir.tdb:FCC_A1, tdb:AlB-15Wan.tdb:FCC_A1, tdb:AlB-98Luk.tdb:FCC_A1, tdb:AlB-99Cam.tdb:FCC_A1  
 
 
@@ -391,7 +385,7 @@ _tdb: _tdb:AlB-01Luk-LB.tdb:FCC_A1, tdb:AlB-04Mir.tdb:FCC_A1, tdb:AlB-15Wan.tdb:
 31: CONST FCC_A1 : AL : B VA% : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
 _assessment that models this phase; reports values for this phase_
@@ -407,8 +401,6 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0956-7151(92)90080-x](https://doi.org/10.1016/0956-7151%2892%2990080-x) R.G. Vardiman, Microstructures in aluminum ion implanted with boron and heat treated, Acta Metallurgica et Materialia 40, 1029-1035 (1992).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Al–B)
 
@@ -477,7 +469,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-b:liquid)
 
 Names (9): _corpus: _corpus:phase:al-b:liquid  
-_paper: _paper:10.1016/j.jallcom.2004.04.100:Liquid, paper:10.1016/s0364-5916(98)00037-6:L, paper:10.1361/105497199770340743:L  
+_paper: _paper:10.1016/j.jallcom.2004.04.100:Liquid, paper:10.1361/105497199770340743:L, paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:AlB-01Luk-LB.tdb:LIQUID, tdb:AlB-04Mir.tdb:LIQUID, tdb:AlB-15Wan.tdb:LIQUID, tdb:AlB-98Luk.tdb:LIQUID, tdb:AlB-99Cam.tdb:LIQUID  
 
 
@@ -518,7 +510,7 @@ _tdb: _tdb:AlB-01Luk-LB.tdb:LIQUID, tdb:AlB-04Mir.tdb:LIQUID, tdb:AlB-15Wan.tdb:
 26: CONST LIQUID:L : AL B : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
 _assessment that models this phase; reports values for this phase_
@@ -526,8 +518,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2015.07.001](https://doi.org/10.1016/j.calphad.2015.07.001) W. Wang, Z. Fu, T. Liu, W. Zhang, Calphad, 51, 24-34(2015).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02645112](https://doi.org/10.1007/bf02645112) Geoffrey K. Sigworth, The Grain Refining of Aluminum and Phase Relationships in the Al-Ti-B System, Metall Trans A 15, 277-282 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02649415](https://doi.org/10.1007/bf02649415) H. Duschanek, P. Rogl, The Al-B (aluminum-boron) system, JPE 15, 543-552 (1994).  

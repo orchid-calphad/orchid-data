@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of Al3V
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -27.8 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | 1.194 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -26.91 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -26.91 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

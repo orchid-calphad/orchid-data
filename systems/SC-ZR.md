@@ -1,10 +1,10 @@
 # Sc–Zr system
 
-> Sc–Zr system: 3 accepted literature values (mixing / partial 2, phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–Zr system: 2 accepted literature values (mixing / partial 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-ZR.html · Markdown: https://data.orchid-project.org/systems/SC-ZR.md
 
-3 accepted literature values from 1 paper(s) (experimental 1, model 2); 4 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (model 2); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-ZR.json) · [CSV](https://data.orchid-project.org/systems/SC-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-ZR/ScZr-08GTT.json) · [phases (4)](https://data.orchid-project.org/phases/pages/SC-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-ZR.html) · [Markdown](https://data.orchid-project.org/systems/SC-ZR.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
 | model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
 | mixing / partial | 2 |
 
 ## Calculated phase diagrams
@@ -38,14 +36,6 @@ Table: Assessments with a calculated phase diagram
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/SC/SC-ZR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SC/SC-ZR.json) · [CALPHAD hull ScZr-08GTT](https://data.orchid-project.org/hulls/calphad-sgte/SC/SC-ZR--ScZr-08GTT.json) · [CALPHAD hull ScZr-15Hu](https://data.orchid-project.org/hulls/calphad-sgte/SC/SC-ZR--ScZr-15Hu.json) · [CALPHAD hull ScZr-15Wan](https://data.orchid-project.org/hulls/calphad-sgte/SC/SC-ZR--ScZr-15Wan.json)
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Sc–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1688.15 K | 1688.15 |  | experimental | [1] Wang 2015; _cites Bcaudry 1963_ | p. 2; `ORC-XMUOQPBEXB` | “Based on thermal analysis, optical pyrometer and x-ray diffraction methods, the phase diagram in the Sc-Zr system was established by Beaudry and Daane,\[20\] who indicated the maximum transition temperature from the hcp phase to the bcc phase at 70 at.% Sc is 1415 °C.” |
 
 ### Mixing / partial (2)
 

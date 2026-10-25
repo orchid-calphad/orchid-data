@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of LiPb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -30.3 | kJ/mol-atom | 1.82 | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -26.44 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -24.25 | kJ/mol-atom | 0.55 | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -1.08 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -30.3 | kJ/mol-atom | 1.82 | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -26.44 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -24.25 | kJ/mol-atom | 0.55 | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -1.08 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## Sources
 

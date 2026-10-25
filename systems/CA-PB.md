@@ -1,10 +1,10 @@
 # Ca–Pb system
 
-> Ca–Pb system: 98 accepted literature values (invariant reaction 37, formation 29, phase transition 20, mixing / partial 12) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Pb system: 82 accepted literature values (invariant reaction 32, formation 29, mixing / partial 12, phase transition 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-PB.html · Markdown: https://data.orchid-project.org/systems/CA-PB.md
 
-98 accepted literature values from 3 paper(s) (experimental 45, model 53); 3 calculated phase diagram(s).
+82 accepted literature values from 2 paper(s) (experimental 34, model 48); 3 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-PB.json) · [CSV](https://data.orchid-project.org/systems/CA-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-PB/CaPb-04Car.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CA-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-PB.html) · [Markdown](https://data.orchid-project.org/systems/CA-PB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 45 |
-| model | 53 |
+| experimental | 34 |
+| model | 48 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 37 |
-| phase transition | 20 |
+| invariant reaction | 32 |
+| phase transition | 9 |
 | formation | 29 |
 | mixing / partial | 12 |
 
@@ -74,7 +74,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ca–Pb system (37)
+Table: Invariant reactions reported in the literature for the Ca–Pb system (32)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -106,14 +106,9 @@ Table: Invariant reactions reported in the literature for the Ca–Pb system (37
 | 602.52 | Liq. + CaPb3 -> (Pb) | L: Pb 0.996; CaPb3: Pb 0.75; (Pb): Pb 0.9949 | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 21; `ORC-44DQ6HQTBN` |  |
 | 602.52 | peritectic: Liq ↔ CaPb3 + Pb | Liq: Pb 0.996; CaPb3: Pb 0.75; Pb: Pb 0.9961 | model | [1] Cartigny 2004 | Table 3, p. 4, row 16; `ORC-65NVS5MMVP` |  |
 | 601.9 | peritectic: Liq ↔ CaPb3 + Pb | Liq: Pb 0.9964; CaPb3: Pb 0.75; Pb: Pb 0.9949 | experimental | [1] Cartigny 2004; _cites Vigdorovich 1959_ | Table 3, p. 4, row 17; `ORC-CIRCG3VOUE` |  |
-| 601.15 | peritectic |  | experimental | [1] Cartigny 2004; _cites Shumacher 1930_ | p. 1; `ORC-MH26EKUPX6` | “Contrarily, Shumacher and Bouton \[11\] found by resistivity and hardness measurements a peritectic reaction at 601.15 K.” |
 | 600.65 | congruent melting: Liq ↔ Pb | Liq: Pb 0.01; Pb: Pb 1 | model | [1] Cartigny 2004 | Table 3, p. 4, row 18; `ORC-NPGXOLV7R5` |  |
-| 600 | eutectic: L -> CaPb3 + (Pb) |  | experimental | [2] Idbenali 2008; _cites Bouirden 1984_ | p. 4; `ORC-IRQFX4Z7G7.c4a851` | “The temperature of this Lh-iCaPb3 + (Pb) eutectic reaction is calculated at 599.1 K, and is therefore in very good agreement with the data of Bouirden (600 K) \[9\], as well as the Pb compositions of the liquid eutectic and the (Pb) terminal solid solution.” |
-| 600 | eutectic |  | experimental | [2] Idbenali 2008; _cites Bouirden 1984_ | p. 1; `ORC-SCQLUXZ3U2` | “The eutectic reaction was confirmed by Bouirden \[9,10\] at T = 600 K, who extensively studied the Ca-Pb system and determined phase diagram data as well as thermodynamic” |
-| 599.2 | Liq. -> CaPb3 + (Pb) | L: Pb 0.9959; CaPb3: Pb 0.75; (Pb): Pb 0.9964 | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 19; `ORC-5E7JOIXT53` |  |
-| 599.2 | eutectic |  | model | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | p. 1; `ORC-PXLZ63Z25P` | “In the Pb-rich region, the compilation in \[6\] gave preference to a eutectic reaction at T = 599.2 K and with a eutectic position of the liquid phase at 99.59 at.% Pb.” |
-| 599.1 | eutectic: L -> CaPb3 + (Pb) |  | model | [2] Idbenali 2008 | p. 4; `ORC-IRQFX4Z7G7.e960f4` | “The temperature of this Lh-iCaPb3 + (Pb) eutectic reaction is calculated at 599.1 K, and is therefore in very good agreement with the data of Bouirden (600 K) \[9\], as well as the Pb compositions of the liquid eutectic and the (Pb) terminal solid solution.” |
-| 599.1 | Liq. -> CaPb3 + (Pb) | L: Pb 0.9934; CaPb3: Pb 0.75; (Pb): Pb 0.997 | model | [2] Idbenali 2008 | Table 4, p. 5, row 20; `ORC-UPLGB72ZU7` |  |
+| 599.2 | eutectic: Liq. -> CaPb3 + (Pb) | L: Pb 0.9959; CaPb3: Pb 0.75; (Pb): Pb 0.9964 | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 19; `ORC-5E7JOIXT53` |  |
+| 599.1 | eutectic: Liq. -> CaPb3 + (Pb) | L: Pb 0.9934; CaPb3: Pb 0.75; (Pb): Pb 0.997 | model | [2] Idbenali 2008 | Table 4, p. 5, row 20; `ORC-UPLGB72ZU7` |  |
 | 292.6 | CaPb -> Ca5Pb3 + CaPb3 | CaPb: Pb 0.5; Ca5Pb3: Pb 0.375; CaPb3: Pb 0.75 | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 22; `ORC-VTVUMVMAMC` |  |
 
 ## Formation enthalpies
@@ -156,30 +151,19 @@ Table: Enthalpies of formation, Ca–Pb system (29)
 
 ## Other properties
 
-### Phase transition (20)
+### Phase transition (9)
 
 Table: Phase transition, Ca–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 292.6 K | 292.6 | CaPb -> Ca5Pb3 + CaPb3 | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | p. 4; `ORC-E3UZL3TZ5J` | “In addition, with our optimized parameters, we do not calculate the reaction between CaPb → Ca5 Pb3 + CaPb3 calculated at 292.6 K by Cartigny \[12\] and which has no experimental evidence.” |
-| Phase transition | 600 K | 600 |  | experimental | [3] Notin 1989 | p. 8; `ORC-NM7JWY6Y5G` | “Dans le meme calorimetre, pour les compositions xca \< 0,25, le palier pdritectique Pb-CaPb, se manifeste a 600 K sans qu'il soit possible de le distinguer de la temperature de fusion du plomb pur.” |
-| Phase transition | 600.6 K | 600.6 |  | experimental | [3] Notin 1989; _cites ref. 9_ | p. 8; `ORC-GHMXBHFPMG.4210c8` | “En adoptant la valeur de 600,6 K comme temperature de fusion du plomb pur (d'apres \[9\]), le palier invariant de l'alliage s'etablit h 601,4 K.” |
-| Phase transition | 601.4 K | 601.4 |  | model | [3] Notin 1989 | p. 8; `ORC-GHMXBHFPMG.5cff5c` | “En adoptant la valeur de 600,6 K comme temperature de fusion du plomb pur (d'apres \[9\]), le palier invariant de l'alliage s'etablit h 601,4 K.” |
-| Phase transition | 601.65 K | 601.65 |  | experimental | [3] Notin 1989 | p. 8; `ORC-D4DPG6VKOZ` | “Par contre, dans le calorimetre specialement equip6 pour les alliages tres faiblement allie en calcium, les anlyses enthalpiques obtenues au chauffage montrent une temperature de fusion du plomb pur (Fig. 4a, b) legerement inferieure a celle d'un alliage (Fig. 4c) contenant 0,135s en masse de calcium: respectivement 327,7 et 328,5 "C.” |
-| Phase transition | 601.9 K | 601.9 |  | model | [1] Cartigny 2004 | p. 6; `ORC-JIJ2DDUGF5` | “Consequently, the invariant temperature introduced in the optimisation was Tinv = 601.9 K, i.e. about 1 K higher than the pure lead melting point.” |
-| Phase transition | 898 K | 898 |  | experimental | [3] Notin 1989 | p. 8; `ORC-HZWCDANAGM` | “Les alliages de composition 0,25 \< xca \< 0,50 presentent un invariant h 898 K (625 "C) a la fusion qui se retrouve sans decalage h la solidification.” |
-| Phase transition | 903 K | 903 |  | experimental | [3] Notin 1989; _cites ref. 1_ | p. 8; `ORC-QQSAPNTXJ5.1c775d` | “Ce palier eutectique CaPb-CaPbs avait 6th precedemment sit& a temperature legerement plus elevee: 903 K d'apres Hansen \[l\], ou 911 K d'apres Bruzzone et Merlo \[ 71.” |
-| Phase transition | 911 K | 911 |  | experimental | [3] Notin 1989; _cites ref. 7_ | p. 8; `ORC-QQSAPNTXJ5.2db3de` | “Ce palier eutectique CaPb-CaPbs avait 6th precedemment sit& a temperature legerement plus elevee: 903 K d'apres Hansen \[l\], ou 911 K d'apres Bruzzone et Merlo \[ 71.” |
 | Phase transition | 924 K | 924 | congruent transformation | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | p. 4; `ORC-5RXTEM5YXY.b7267a` | “They are in satisfactory agreement, except the calculated congruent melting of CaPb3 (T = 925.8 K), close to the calculated one (T = 924 K) in Cartigny et al. \[12\] but somewhat lower than the experimental one (T = 939 K) in \[6,9\].” |
 | Phase transition | 924.21 K | 924.21 | CaPb3 -> Liq.; _CaPb3: Pb 0.75; L: Pb 0.75_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 17; `ORC-7RTR6SQER2` |  |
 | Phase transition | 925.8 K | 925.8 | CaPb3 -> Liq.; _CaPb3: Pb 0.75; L: Pb 0.75_ | model | [2] Idbenali 2008 | Table 4, p. 5, row 18; `ORC-P7XKACYGK3` |  |
 | Phase transition | 925.8 K | 925.8 | congruent transformation | model | [2] Idbenali 2008 | p. 4; `ORC-5RXTEM5YXY.3f844e` | “They are in satisfactory agreement, except the calculated congruent melting of CaPb3 (T = 925.8 K), close to the calculated one (T = 924 K) in Cartigny et al. \[12\] but somewhat lower than the experimental one (T = 939 K) in \[6,9\].” |
 | Phase transition | 939 K | 939 | CaPb3 -> Liq.; _CaPb3: Pb 0.75; L: Pb 0.75_ | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 16; `ORC-7PNLTCWHJI` |  |
 | Phase transition | 939 K | 939 | congruent transformation | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | p. 4; `ORC-5RXTEM5YXY.d0c864` | “They are in satisfactory agreement, except the calculated congruent melting of CaPb3 (T = 925.8 K), close to the calculated one (T = 924 K) in Cartigny et al. \[12\] but somewhat lower than the experimental one (T = 939 K) in \[6,9\].” |
-| Phase transition | 939 K | 939 | congruent transformation | experimental | [2] Idbenali 2008; _cites Vigdorovich 1959_ | p. 1; `ORC-6RDKJRGWZ5.cd0b6d` | “For Ca2 Pb and CaPb3 a congruent melting was experimentally determined respectively at 1476 and 939 K, while for Ca5 Pb3 and CaPb a peritectic formation was described; see Fig. 1.” |
 | Phase transition | 1476 K | 1476 | Ca2Pb -> Liq.; _Ca2Pb: Pb 0.333333; L: Pb 0.3333_ | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 4; `ORC-PNC7P362GP` |  |
-| Phase transition | 1476 K | 1476 | congruent transformation | experimental | [2] Idbenali 2008; _cites Vigdorovich 1959_ | p. 1; `ORC-6RDKJRGWZ5.961db8` | “For Ca2 Pb and CaPb3 a congruent melting was experimentally determined respectively at 1476 and 939 K, while for Ca5 Pb3 and CaPb a peritectic formation was described; see Fig. 1.” |
 | Phase transition | 1476.52 K | 1476.52 | Ca2Pb -> Liq.; _Ca2Pb: Pb 0.333333; L: Pb 0.3333_ | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 5; `ORC-77MZYQOPUT` |  |
 | Phase transition | 1482 K | 1482 | Ca2Pb -> Liq.; _Ca2Pb: Pb 0.333333; L: Pb 0.3333_ | model | [2] Idbenali 2008 | Table 4, p. 5, row 6; `ORC-MKLG3ST354` |  |
 
@@ -208,7 +192,6 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Y. Cartigny, J.M. Fiorani, A. Maı̂tre, M. Vilasi, Thermodynamic assessment of the Ca–Pb system, Thermochimica Acta 414, 197-202 (2004). [doi:10.1016/j.tca.2004.01.001](https://doi.org/10.1016/j.tca.2004.01.001)
 2. M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the Ca–Pb system, Calphad 32, 64-73 (2008). [doi:10.1016/j.calphad.2007.10.004](https://doi.org/10.1016/j.calphad.2007.10.004)
-3. M Notin, L Bouirden, E Belbacha, J Hertz, Enthalpies et diagramme de phases du systeme Ca-Pb, Journal of the Less Common Metals 154, 121-135 (1989). [doi:10.1016/0022-5088(89)90177-x](https://doi.org/10.1016/0022-5088%2889%2990177-x)
 
 ## Please cite
 

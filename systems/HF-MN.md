@@ -1,10 +1,10 @@
 # Hf–Mn system
 
-> Hf–Mn system: 48 accepted literature values (crystal structure 20, phase transition 15, invariant reaction 12, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Mn system: 43 accepted literature values (crystal structure 20, phase transition 12, invariant reaction 10, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-MN.html · Markdown: https://data.orchid-project.org/systems/HF-MN.md
 
-48 accepted literature values from 2 paper(s) (experimental 14, model 17, unspecified 17); 2 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+43 accepted literature values from 2 paper(s) (experimental 14, model 12, unspecified 17); 2 calculated phase diagram(s). 22 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-MN.json) · [CSV](https://data.orchid-project.org/systems/HF-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-MN/HfMn-12Zho.json) · [phases (9)](https://data.orchid-project.org/phases/pages/HF-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-MN.html) · [Markdown](https://data.orchid-project.org/systems/HF-MN.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 14 |
-| model | 17 |
+| model | 12 |
 | unspecified | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
-| phase transition | 15 |
+| invariant reaction | 10 |
+| phase transition | 12 |
 | phase equilibrium | 1 |
 | crystal structure | 20 |
 
@@ -59,18 +59,16 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hf–Mn system (12)
+Table: Invariant reactions reported in the literature for the Hf–Mn system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1715.74 | βHf -> L + αHf | βHf: Mn 0.0849; L: Mn 0.2185; αHf: Mn 0.0218 | model | [1] Zhou 2012 | Table 5, p. 8, row 1; `ORC-YQ4PJOLPP3` |  |
 | 1573 | L + HfMn2 -> HfMn | L: Mn 0.24; HfMn2: Mn 0.62; HfMn: Mn 0.5 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 4; `ORC-7DQMJ54RYZ` |  |
 | 1571.6 | L + HfMn2 -> HfMn | L: Mn 0.2703; HfMn2: Mn 0.6286; HfMn: Mn 0.5 | model | [1] Zhou 2012 | Table 5, p. 8, row 3; `ORC-TYKFLAJBTI` |  |
-| 1524.1 | L -> αHf + HfMn | L: Mn 0.2479; αHf: Mn 0.0427; HfMn: Mn 0.5 | model | [1] Zhou 2012 | Table 5, p. 8, row 2; `ORC-D6OP22YHT4` |  |
-| 1524.1 | eutectic: L M aHf + HfMn |  | model | [1] Zhou 2012 | p. 6; `ORC-NWITJOHQTJ` | “In the present work, the eutectic reaction of L M aHf + HfMn is calculated at 1524.1 K.” |
-| 1523 | eutectic: L M bHf + HfMn |  | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | p. 6; `ORC-LDGAFBEMD3` | “If this prediction holds, the bHf in the eutectic reaction of L M bHf + HfMn at 1523 K, which is assessed by Okamoto\[8\] based on DTA results of works,\[10,13\] should be replaced by the aHf.” |
-| 1485 | L -> HfMn2 + δMn | L: Mn 0.96; HfMn2: Mn 0.755; δMn: Mn 0.992 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 8; `ORC-5HPG54XP3L` |  |
-| 1481.01 | L -> HfMn2 + δMn | L: Mn 0.9677; HfMn2: Mn 0.7456; δMn: Mn 0.9846 | model | [1] Zhou 2012 | Table 5, p. 8, row 7; `ORC-THZX45RUZU` |  |
+| 1524.1 | eutectic: L -> αHf + HfMn | L: Mn 0.2479; αHf: Mn 0.0427; HfMn: Mn 0.5 | model | [1] Zhou 2012 | Table 5, p. 8, row 2; `ORC-D6OP22YHT4` |  |
+| 1485 | eutectic: L -> HfMn2 + δMn | L: Mn 0.96; HfMn2: Mn 0.755; δMn: Mn 0.992 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 8; `ORC-5HPG54XP3L` |  |
+| 1481.01 | eutectic: L -> HfMn2 + δMn | L: Mn 0.9677; HfMn2: Mn 0.7456; δMn: Mn 0.9846 | model | [1] Zhou 2012 | Table 5, p. 8, row 7; `ORC-THZX45RUZU` |  |
 | 1413 | HfMn2 + δMn -> βMn | HfMn2: Mn 0.755; δMn: Mn 0.994; βMn: Mn 0.97 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 10; `ORC-LXR46TTYT2` |  |
 | 1411.48 | HfMn2 + δMn -> βMn | HfMn2: Mn 0.7537; δMn: Mn 0.9882; βMn: Mn 0.9819 | model | [1] Zhou 2012 | Table 5, p. 8, row 9; `ORC-3HLYU5CEBC` |  |
 | 973.27 | βMn -> αMn + HfMn2 | βMn: Mn 0.998; αMn: Mn 1; HfMn2: Mn 0.7437 | model | [1] Zhou 2012 | Table 5, p. 8, row 13; `ORC-VYKG2H2IFE` |  |
@@ -78,7 +76,7 @@ Table: Invariant reactions reported in the literature for the Hf–Mn system (12
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (12)
 
 Table: Phase transition, Hf–Mn system
 
@@ -87,8 +85,6 @@ Table: Phase transition, Hf–Mn system
 | Phase transition | 1041.25 K | 1041.25 | eutectoid: Hf–Mn 6–94 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 11; `ORC-WLJXUOGSVF` |  |
 | Phase transition | 1041.55 K | 1041.55 | eutectoid: Hf–Mn 4–96 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 8; `ORC-X77J3YHYXB` |  |
 | Phase transition | 1045.65 K | 1045.65 | eutectoid: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 4; `ORC-BBPV3NIBVC` |  |
-| Phase transition | 1123 K | 1123 | bHf M aHf + HfMn | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | p. 4; `ORC-FXZXQKVY2E` | “Alloy 1# (26.12 at.% Mn, annealed at 923 K) was subjected to DTA measurement to examine whether the invariant reaction bHf M aHf + HfMn occurs at 1123 K as accepted by Okamoto.\[8\]” |
-| Phase transition | 1123 K | 1123 | bHf M aHf + HfMn | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | p. 8; `ORC-SEBKOG7XIF` | “The invariant equilibrium of bHf M aHf + HfMn previously proposed to occur at 1123 K,\[8\] was not observed.” |
 | Phase transition | 1412.35 K | 1412.35 | peritectoid: Hf–Mn 6–94 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 12; `ORC-SIIPB27ZYL` |  |
 | Phase transition | 1413.25 K | 1413.25 | peritectoid: Hf–Mn 4–96 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 9; `ORC-MQU4TP5KMR` |  |
 | Phase transition | 1413.35 K | 1413.35 | peritectoid: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 5; `ORC-6PNGMAJCB6` |  |
@@ -96,7 +92,6 @@ Table: Phase transition, Hf–Mn system
 | Phase transition | 1466.55 K | 1466.55 | eutectic: Hf–Mn 4–96 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 10; `ORC-EEUBRC6BLD` |  |
 | Phase transition | 1466.55 K | 1466.55 | eutectic: Hf–Mn 6–94 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 13; `ORC-ZBNIEWEWJX` |  |
 | Phase transition | 1486.55 K | 1486.55 | other: Hf–Mn 2–98 | experimental | [2] Brož 2024 | Table 4b, p. 10, row 7; `ORC-K5724PZQQW` |  |
-| Phase transition | 1715.74 K | 1715.74 | bHf M L + aHf | model | [1] Zhou 2012 | p. 6; `ORC-P3RNWMJSJF` | “mono-phase region extends from the pure Hf side into the Hf-Mn binary system, which disappears at 1715.74 K with 8.49 at.% Mn. Thus a new invariant equilibrium of bHf M L + aHf is thermodynamically predicted.” |
 | Phase transition | 2000.16 K | 2000.16 | L -> HfMn2; _L: Mn 0.6667; HfMn2: Mn 0.6667_ | model | [1] Zhou 2012 | Table 5, p. 8, row 5; `ORC-7IKYX74OER` |  |
 | Phase transition | 2003 K | 2003 | L -> HfMn2; _L: Mn 0.667; HfMn2: Mn 0.667_ | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 6; `ORC-BUTXONE4MI` |  |
 

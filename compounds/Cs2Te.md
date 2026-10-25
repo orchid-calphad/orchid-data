@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Cs2Te
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -361.4 | kJ/mol (basis unstated) | 3.2 | 5.000e-5 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
-| -120.467 | kJ/mol-atom | 1.067 | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -361.4 | kJ/mol (basis unstated) | 3.2 | 5.000e-5 | 9.6 (solution_reaction_calorimetry, calibrated) |  |  |  | 9.6 |
+| -120.467 | kJ/mol-atom | 1.067 | 1.667e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 
 ## DFT formation energies
 

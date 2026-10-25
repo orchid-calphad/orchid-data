@@ -1,10 +1,10 @@
 # Fe–W system
 
-> Fe–W system: 8 accepted literature values (phase transition 5, crystal structure 2, invariant reaction 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–W system: 4 accepted literature values (crystal structure 2, phase transition 1, invariant reaction 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-W.html · Markdown: https://data.orchid-project.org/systems/FE-W.md
 
-8 accepted literature values from 2 paper(s) (experimental 6, unspecified 2); 3 calculated phase diagram(s).
+4 accepted literature values from 2 paper(s) (experimental 2, unspecified 2); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-W.json) · [CSV](https://data.orchid-project.org/systems/FE-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-W/FeW-15Jac-phonon.json) · [phases (6)](https://data.orchid-project.org/phases/pages/FE-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-W.html) · [Markdown](https://data.orchid-project.org/systems/FE-W.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
+| experimental | 2 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 1 |
-| phase transition | 5 |
+| phase transition | 1 |
 | crystal structure | 2 |
 
 ## Calculated phase diagrams
@@ -63,17 +63,13 @@ Table: Invariant reactions reported in the literature for the Fe–W system (1)
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (1)
 
 Table: Phase transition, Fe–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1488 K | 1488 | other: /z-phase + W-rich solid solution -> FeW | experimental | [1] Gustafson 1987 | p. 1; `ORC-JR4WOMFVCM.30e926` | “In a complementary work Hofmann ~~employed DTA analysis on alloys containing the FeW phase and he found that it forms from the/z-phase and W-rich solid solution at 1488 K and that the /~-phase decomposes eutectoidally into an Fe-rich bcc phase and FeW at 1463 K.” |
-| Phase transition | 1525 K | 1525 | W2C/ bcc + WC | experimental | [1] Gustafson 1987 | p. 4; `ORC-XYGNWDZWMH` | “To start with, he gives a value of \<2673 K for the liq + M2C/bcc + WC equilibrium whereas the W2C/ bcc + WC equilibrium in the W-C system is at 1525 K.” |
-| Phase transition | 1893 K | 1893 | L + WC + bcc/M6C | experimental | [1] Gustafson 1987; _cites Lugscheider 1982_ | p. 4; `ORC-J7RSFHDA52` | “They found the L + WC + bcc/M6C equilibrium at 1893 K.” |
-| Phase transition | 2350 K | 2350 |  | experimental | [1] Gustafson 1987 | p. 3; `ORC-4ZVONDQLM5` | “At about 2350 K an ordered hexagonal structure forms.” |
-| Phase transition | 2750 K | 2750 |  | experimental | [1] Gustafson 1987; _cites Holleck 1981_ | p. 3; `ORC-GA3NIDGEF4` | “It transforms at about 2750 K into an orthorhombic structure, with a lower maximum solubility of carbon.” |
 
 ### Crystal structure (2)
 

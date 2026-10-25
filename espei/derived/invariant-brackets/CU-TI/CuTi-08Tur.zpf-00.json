@@ -211,7 +211,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> CuTi",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -229,7 +229,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> CuTi",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -247,7 +247,7 @@
     "x0": 0.43,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> CuTi + CuTi2",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -266,7 +266,7 @@
     "x0": 0.667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L <=> CuTi2",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

@@ -19,14 +19,14 @@ Table: Phases of the Al–Mo system (15)
 | [AL4MO](#phase-al-mo-al4mo); _phase:al-mo:al4mo_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1425.24 K, x(Mo) 0.2–0.2 | 22 | 5 |
 | [AL5MO](#phase-al-mo-al5mo); _phase:al-mo:al5mo_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1119.15 K, x(Mo) 0.16667–0.16667 | 15 | 5 |
 | [AL63MO37](#phase-al-mo-al63mo37); _phase:al-mo:al63mo37_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 1740–1930 K, x(Mo) 0.37–0.37 | 18 | 5 |
-| [AL8MO3](#phase-al-mo-al8mo3); _phase:al-mo:al8mo3_ | Al8Mo3 · mC22 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 6 of 6 calculated diagram(s): 300–1855.47 K, x(Mo) 0.27273–0.27273 | 43 | 6 |
+| [AL8MO3](#phase-al-mo-al8mo3); _phase:al-mo:al8mo3_ | Al8Mo3 · mC22 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 6 of 6 calculated diagram(s): 300–1855.47 K, x(Mo) 0.27273–0.27273 | 44 | 6 |
 | [ALMO_A2](#phase-al-mo-almo-a2); _phase:al-mo:almo-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1462.8–2028.92 K, x(Mo) 0.5–0.5 | 0 | 1 |
 | [ALMO3_A15](#phase-al-mo-almo3-a15); _phase:al-mo:almo3-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2423.16 K, x(Mo) 0.70774–0.77614 | 20 | 6 |
 | [BCC_A2](#phase-al-mo-bcc-a2); _phase:al-mo:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–3999.87 K, x(Mo) 0.44747–1 | 7 | 8 |
 | [B2_BCC](#phase-al-mo-bcc-b2); _phase:al-mo:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.77 K, x(Mo) 0.46835–1 | 0 | 2 |
 | [FCC_A1](#phase-al-mo-fcc-a1); _phase:al-mo:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–934 K, x(Mo) 0–0.00099 | 4 | 6 |
 | [HCP_A3](#phase-al-mo-hcp-a3); _phase:al-mo:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
-| [LIQUID](#phase-al-mo-liquid); _phase:al-mo:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 914.88–4000 K, x(Mo) 0–1 | 94 | 6 |
+| [LIQUID](#phase-al-mo-liquid); _phase:al-mo:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 914.88–4000 K, x(Mo) 0–1 | 95 | 6 |
 
 ## AL12MO (Al–Mo)
 
@@ -474,7 +474,7 @@ _cited as the source of values for this phase_
 - Structure: Al8Mo3 · mC22 · C2/m (12); type `st:al8mo3-mc22`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Al 0.7273, Mo 0.2727
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1855.47 K, x(Mo) 0.27273–0.27273
-- Literature: 43 values (43 accepted) from 3 papers
+- Literature: 44 values (44 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mo:al8mo3)
 
 Names (12): _corpus: _corpus:phase:al-mo:al8mo3  
@@ -917,11 +917,11 @@ _assessment that models this phase_
 - Id: `phase:al-mo:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 914.88–4000 K, x(Mo) 0–1
-- Literature: 94 values (94 accepted) from 3 papers
+- Literature: 95 values (95 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mo:liquid)
 
-Names (11): _corpus: _corpus:phase:al-mo:liquid  
-_paper: _paper:10.1007/s11669-009-9564-4:L, paper:10.1007/s11669-997-0063-1:L, paper:10.1007/s11669-997-0063-1:Liquid, paper:10.1016/j.intermet.2010.03.010:Liquid  
+Names (12): _corpus: _corpus:phase:al-mo:liquid  
+_paper: _paper:10.1007/s11669-009-9564-4:L, paper:10.1007/s11669-997-0063-1:L, paper:10.1007/s11669-997-0063-1:Liquid, paper:10.1016/j.intermet.2010.03.010:Liquid, paper:10.1016/j.intermet.2010.03.010:liquid  
 _tdb: _tdb:AlMo-09Du.tdb:LIQUID, tdb:AlMo-10Cup.tdb:LIQUID, tdb:AlMo-16Pen.tdb:LIQUID, tdb:AlMo-97Cos.tdb:LIQUID, tdb:AlMo-97Sau.tdb:LIQUID, tdb:AlMo-98Sau-LB.tdb:LIQUID  
 
 

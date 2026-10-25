@@ -32,7 +32,7 @@ Table: Uncertainty budget of the literature values of Ga2Gd
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -83.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -72.8 | kJ/mol-atom | 2.8 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -72.8 | kJ/mol-atom | 2.8 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -72.8 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -65.03 | kJ/mol-atom | 1 | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -261.5 | unspecified | 5.9 | 0.05 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 5.9 |

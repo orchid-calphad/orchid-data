@@ -25,7 +25,7 @@ Table: Phases of the Ge–Tm system (14)
 | [GE5TM4](#phase-ge-tm-ge5tm4); _phase:ge-tm:ge5tm4_ | Er3Ge4 · oC28 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1633.05 K, x(Tm) 0.44444–0.44444 | 6 | 1 |
 | [GETM_B33](#phase-ge-tm-getm-b33); _phase:ge-tm:getm-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1653.75 K, x(Tm) 0.5–0.5 | 2 | 1 |
 | [HCP_A3](#phase-ge-tm-hcp-a3); _phase:ge-tm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.25 K, x(Tm) 1–1 | 4 | 1 |
-| [LIQUID](#phase-ge-tm-liquid); _phase:ge-tm:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1139.38–2500 K, x(Tm) 0–1 | 22 | 1 |
+| [LIQUID](#phase-ge-tm-liquid); _phase:ge-tm:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1139.38–2500 K, x(Tm) 0–1 | 23 | 1 |
 
 ## DIAMOND_A4 (Ge–Tm)
 
@@ -439,11 +439,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ge-tm:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1139.38–2500 K, x(Tm) 0–1
-- Literature: 22 values (22 accepted) from 1 papers
+- Literature: 23 values (23 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-tm:liquid)
 
-Names (3): _corpus: _corpus:phase:ge-tm:liquid  
-_paper: _paper:10.1007/s10973-017-6820-4:L  
+Names (4): _corpus: _corpus:phase:ge-tm:liquid  
+_paper: _paper:10.1007/s10973-017-6820-4:L, paper:10.1007/s10973-017-6820-4:liquid  
 _tdb: _tdb:GeTm-18Ach.tdb:LIQUID  
 
 

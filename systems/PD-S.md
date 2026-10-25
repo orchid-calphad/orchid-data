@@ -1,10 +1,10 @@
 # Pd–S system
 
-> Pd–S system: 35 accepted literature values (formation 20, invariant reaction 12, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–S system: 32 accepted literature values (formation 20, invariant reaction 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-S.html · Markdown: https://data.orchid-project.org/systems/PD-S.md
 
-35 accepted literature values from 1 paper(s) (experimental 17, model 13, DFT 5); 1 calculated phase diagram(s).
+32 accepted literature values from 1 paper(s) (experimental 15, model 12, DFT 5); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-S.json) · [CSV](https://data.orchid-project.org/systems/PD-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-S/PdS-10Hu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/PD-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-S.html) · [Markdown](https://data.orchid-project.org/systems/PD-S.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 13 |
+| experimental | 15 |
+| model | 12 |
 | DFT | 5 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 12 |
-| phase transition | 3 |
 | formation | 20 |
 
 ## Calculated phase diagrams
@@ -61,16 +60,16 @@ Table: Invariant reactions reported in the literature for the Pd–S system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1273 | L -> PdS | L: S 0.5; PdS: S 0.5 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 11; `ORC-BPJOZXJOBT` |  |
-| 1273 | L -> PdS | L: S 0.5; PdS: S 0.5 | model | [1] Hu 2010 | Table 4, p. 5, row 12; `ORC-JU44CGTQU5` |  |
+| 1273 | congruent melting: L -> PdS | L: S 0.5; PdS: S 0.5 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 11; `ORC-BPJOZXJOBT` |  |
+| 1273 | congruent melting: L -> PdS | L: S 0.5; PdS: S 0.5 | model | [1] Hu 2010 | Table 4, p. 5, row 12; `ORC-JU44CGTQU5` |  |
 | 1047 | L + (Pd) -> Pd4S | L: S 0.205; (Pd): S 0; Pd4S: S 0.2 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 1; `ORC-DQ5T55DRF4` |  |
 | 1047 | L + (Pd) -> Pd4S | L: S 0.2037; (Pd): S 0; Pd4S: S 0.2037 | model | [1] Hu 2010 | Table 4, p. 5, row 2; `ORC-LZ7OMCMWGZ` |  |
 | 919 | L + Pd4S -> Pd3S | L: S 0.265; Pd4S: S 0.2; Pd3S: S 0.25 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 3; `ORC-K3NHHEDYDR` |  |
 | 918.7 | L + Pd4S -> Pd3S | L: S 0.2668; Pd4S: S 0.2; Pd3S: S 0.25 | model | [1] Hu 2010 | Table 4, p. 5, row 4; `ORC-BFGKQ6WK6Y` |  |
 | 912 | L + PdS -> Pd16S7 | L: S 0.295; PdS: S 0.5; Pd16S7: S 0.304 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 9; `ORC-DSQWIQF6GO` |  |
 | 911.8 | L + PdS -> Pd16S7 | L: S 0.2943; PdS: S 0.5; Pd16S7: S 0.304 | model | [1] Hu 2010 | Table 4, p. 5, row 10; `ORC-KYRGUDOZT6` |  |
-| 898.3 | L -> Pd3S + Pd16S7 | L: S 0.2789; Pd3S: S 0.25; Pd16S7: S 0.304 | model | [1] Hu 2010 | Table 4, p. 5, row 6; `ORC-SV4HP2QPBZ` |  |
-| 898 | L -> Pd3S + Pd16S7 | L: S 0.28; Pd3S: S 0.25; Pd16S7: S 0.304 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 5; `ORC-H7C2YCHMDO` |  |
+| 898.3 | eutectic: L -> Pd3S + Pd16S7 | L: S 0.2789; Pd3S: S 0.25; Pd16S7: S 0.304 | model | [1] Hu 2010 | Table 4, p. 5, row 6; `ORC-SV4HP2QPBZ` |  |
+| 898 | eutectic: L -> Pd3S + Pd16S7 | L: S 0.28; Pd3S: S 0.25; Pd16S7: S 0.304 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 5; `ORC-H7C2YCHMDO` |  |
 | 829 | Pd3S -> Pd4S + Pd16S7 | Pd3S: S 0.25; Pd4S: S 0.2; Pd16S7: S 0.304 | model | [1] Hu 2010; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02645396) | Table 4, p. 5, row 7; `ORC-NCXBDVECVP` |  |
 | 828.9 | Pd3S -> Pd4S + Pd16S7 | Pd3S: S 0.25; Pd4S: S 0.2; Pd16S7: S 0.304 | model | [1] Hu 2010 | Table 4, p. 5, row 8; `ORC-KS2YUE2J44` |  |
 
@@ -102,18 +101,6 @@ Table: Enthalpies of formation, Pd–S system (20)
 | PdS2 |  | -30.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 20; `ORC-Y3E6I2YQJD.395e5f` |  |
 | PdS2 |  | -29.24 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 19; `ORC-TYZC36BY2E.22a319` |  |
 | PdS2 |  | -26.067 per mol-atom ± 4.2 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Kubaschewski 1993_ | Table 2, p. 2, row 17; `ORC-6BHOH4BL6E.2d6e06` |  |
-
-## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Pd–S system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 393.65 K | 393.65 |  | model | [1] Hu 2010; _cites Massalski 1990_ | p. 2; `ORC-4ODOAHCBSQ` | “At temperatures higher than 393.65 K, a monoclinic structure becomes stable instead (Pearson symbol mP64, space group P21 /c) \[25\].” |
-| Phase transition | 898 K | 898 | other | experimental | [1] Hu 2010; _cites Matkovic 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990157-0) | p. 2; `ORC-DFHHNA7RIT.88f38f` | “Matkovic showed two invariant reactions, corresponding to 898 and 912 K.” |
-| Phase transition | 912 K | 912 | other | experimental | [1] Hu 2010; _cites Matkovic 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990157-0) | p. 2; `ORC-DFHHNA7RIT.a1e546` | “Matkovic showed two invariant reactions, corresponding to 898 and 912 K.” |
 
 ## Sources
 

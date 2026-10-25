@@ -37,9 +37,9 @@ Table: Uncertainty budget of the literature values of Si2Ta
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -46 | kJ/mol-atom | 2.5 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -46 | kJ/mol-atom | 2.5 | 5.000e-5 | 2 (dsc_dta, prior) |  |  |  | 2.5 |
-| -43.332 | kJ/mol-atom |  | 5.000e-5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -43.332 | kJ/mol-atom |  | 5.000e-5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -39.7 | kJ/mol-atom |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -38.8 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -38.8 | kJ/mol-atom |  | 5.000e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -38.8 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -32.4 | kJ/mol-atom | 14 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 14 |
 | -22.6 | kJ/mol-atom | 7.8 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 7.8 |

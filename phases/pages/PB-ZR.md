@@ -15,7 +15,7 @@ Table: Phases of the Pb–Zr system (7)
 | [BCC_A2](#phase-pb-zr-bcc-a2); _phase:pb-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1135.28–3662.85 K, x(Zr) 0.87036–1 | 10 | 1 |
 | [FCC_A1](#phase-pb-zr-fcc-a1); _phase:pb-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–631 K, x(Zr) 0–0.03331 | 0 | 1 |
 | [HCP_A3](#phase-pb-zr-hcp-a3); _phase:pb-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1210.28 K, x(Zr) 0.94268–1 | 5 | 1 |
-| [LIQUID](#phase-pb-zr-liquid); _phase:pb-zr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 571–4000 K, x(Zr) 0–1 | 3 | 1 |
+| [LIQUID](#phase-pb-zr-liquid); _phase:pb-zr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 571–4000 K, x(Zr) 0–1 | 5 | 1 |
 | [PB2ZR](#phase-pb-zr-pb2zr); _phase:pb-zr:pb2zr_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1546.68 K, x(Zr) 0.33333–0.33333 | 0 | 1 |
 | [PB3ZR5_D88](#phase-pb-zr-pb3zr5-d88); _phase:pb-zr:pb3zr5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 770.7–2242.22 K, x(Zr) 0.625–0.625 | 5 | 1 |
 | [PBZR4_A15](#phase-pb-zr-pbzr4-a15); _phase:pb-zr:pbzr4-a15_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1516.79 K, x(Zr) 0.8–0.8 | 7 | 1 |
@@ -105,7 +105,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:pb-zr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 571–4000 K, x(Zr) 0–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pb-zr:liquid)
 
 Names (3): _corpus: _corpus:phase:pb-zr:liquid  

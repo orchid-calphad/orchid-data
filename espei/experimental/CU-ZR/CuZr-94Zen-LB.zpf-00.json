@@ -176,12 +176,6 @@
     "paper": "doi:10.1007/bf02647618",
     "also_reported_as": [
      {
-      "id": "ORC-T5WGR7XORU",
-      "paper": "doi:10.1016/j.calphad.2006.06.002",
-      "measured_in": "doi:10.1007/bf02898260",
-      "dataset": "invariants/CU-ZR/CuZr-06Wan.zpf-00.json"
-     },
-     {
       "id": "ORC-BYSNH6M46U",
       "paper": "doi:10.1016/j.actamat.2009.12.004",
       "measured_in": "ref:e23e5b02fa4a10fe",
@@ -197,19 +191,17 @@
    "doi:10.1007/s11106-008-9039-x",
    "ref:e23e5b02fa4a10fe",
    "doi:10.1016/j.actamat.2009.12.004",
-   "doi:10.1007/s11669-017-0522-2",
-   "doi:10.1007/bf02898260"
+   "doi:10.1007/s11669-017-0522-2"
   ],
   "dois": [
    "10.1007/bf02647618",
-   "10.1007/bf02898260",
    "10.1007/s11106-008-9039-x",
    "10.1007/s11669-017-0522-2",
    "10.1016/j.actamat.2009.12.004",
    "10.1016/j.calphad.2006.06.002"
   ],
   "source_dataset": "db-v2.1/general/espei/CuZr-94Zen-LB/zpf-00.json",
-  "e3_merged": 8
+  "e3_merged": 7
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",

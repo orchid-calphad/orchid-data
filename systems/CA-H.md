@@ -1,10 +1,10 @@
 # Ca–H system
 
-> Ca–H system: 31 accepted literature values (crystal structure 13, formation 10, phase transition 7, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–H system: 23 accepted literature values (crystal structure 13, formation 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-H.html · Markdown: https://data.orchid-project.org/systems/CA-H.md
 
-31 accepted literature values from 1 paper(s) (experimental 17, model 3, DFT 11); 2 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (experimental 12, DFT 11); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-H.json) · [CSV](https://data.orchid-project.org/systems/CA-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-H/CaH-11Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CA-H.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-H.html) · [Markdown](https://data.orchid-project.org/systems/CA-H.md)
 
@@ -12,16 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 3 |
+| experimental | 12 |
 | DFT | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 7 |
 | formation | 10 |
 | crystal structure | 13 |
 
@@ -58,14 +55,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CA/CA-H.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CA/CA-H.json) · [CALPHAD hull CaH-11Wan](https://data.orchid-project.org/hulls/calphad-sgte/CA/CA-H--CaH-11Wan.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ca–H system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 688 | eutectoid: bCa / aCa þ g |  | model | [1] Wang 2011 | p. 6; `ORC-LNHSFJBG5Y.0c0923` | “It is seen clearly that the present calculations can well describe most of the experimental results excluding the Ca-rich side near to the eutectoid reaction bCa / aCa þ g occurring at 688 K which exhibits somewhat disagreement with what was proposed to be aCa / g þ bCa at 722 K by Peterson \[7\].” |
-
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
@@ -75,7 +64,7 @@ Table: Enthalpies of formation, Ca–H system (10)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | UNKNOWN |  | -208 kJ/mol (basis unstated) | 1093 | experimental |  |  | [1] Wang 2011; _cites Johnson 1939_ [doi](https://doi.org/10.1021/ja01871a026) | Table 1, p. 3, row 3; `ORC-3POTPGMTRO` |  |
-| UNKNOWN |  | -188 kJ/mol (basis unstated) | 1093 | experimental |  |  | [1] Wang 2011; _cites Treadwell 1820_ | Table 1, p. 3, row 2; `ORC-BYEUSIRE5A` |  |
+| UNKNOWN |  | -188 kJ/mol (basis unstated) | 1093 | experimental |  |  | [1] Wang 2011; _cites Treadwell 1953_ | Table 1, p. 3, row 2; `ORC-BYEUSIRE5A` |  |
 | UNKNOWN |  | -184 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Mueller 1968_ | Table 1, p. 3, row 5; `ORC-2PWBRWN2NQ.91ce80` |  |
 | UNKNOWN |  | -183.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2011; _cites Lide 2002_ | Table 1, p. 3, row 6; `ORC-FNYHN7DC65` |  |
 | UNKNOWN |  | -172.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2007_ [doi](https://doi.org/10.1103/physrevb.75.064101) | Table 1, p. 3, row 4; `ORC-OSD4XXYUXX.90f83d` |  |
@@ -86,20 +75,6 @@ Table: Enthalpies of formation, Ca–H system (10)
 | UNKNOWN |  | -161.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2011; _cites Wolverton 2007_ [doi](https://doi.org/10.1103/physrevb.75.064101) | Table 1, p. 3, row 4; `ORC-OSD4XXYUXX.ca94c0` |  |
 
 ## Other properties
-
-### Phase transition (7)
-
-Table: Phase transition, Ca–H system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 721.15 K | 721.15 | polymorphic: fcc (aCa) to bcc (bCa) | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 2; `ORC-R65AT5SYYV.d95498` | “Pure calcium was reported by Smith \[13\] to undergo an allotropic transformation of fcc (aCa) to bcc (bCa) at 464 C, which accords well with what was determined to be 448 C by Peterson \[7\].” |
-| Phase transition | 722 K | 722 | other: aCa / g þ bCa | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 6; `ORC-LNHSFJBG5Y.35d019` | “It is seen clearly that the present calculations can well describe most of the experimental results excluding the Ca-rich side near to the eutectoid reaction bCa / aCa þ g occurring at 688 K which exhibits somewhat disagreement with what was proposed to be aCa / g þ bCa at 722 K by Peterson \[7\].” |
-| Phase transition | 737.15 K | 737.15 | polymorphic: fcc (aCa) to bcc (bCa) | experimental | [1] Wang 2011; _cites Smith 1956_ [doi](https://doi.org/10.1149/1.2430364) | p. 2; `ORC-R65AT5SYYV.9956db` | “Pure calcium was reported by Smith \[13\] to undergo an allotropic transformation of fcc (aCa) to bcc (bCa) at 464 C, which accords well with what was determined to be 448 C by Peterson \[7\].” |
-| Phase transition | 1053 K | 1053 |  | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 1; `ORC-CGSD7HR63I` | “There is little report on the physical and chemical behavior of CaH2 compound, the only acquired detail supported by Peterson \[7\] shows that aCaH2 undergoes a phase transformation of aCaH2 / bCaH2 at about 1053 K, while no relative information is available on the phase stability range of bCaH2.” |
-| Phase transition | 1053.15 K | 1053.15 | polymorphic | experimental | [1] Wang 2011; _cites Peterson 1961_ [doi](https://doi.org/10.1021/j100828a034) | p. 2; `ORC-ZATRD4VHOW` | “The later experimental results \[7\] showed that an allotropic transformation of aCaH2 (Pnma) to bCaH2 happens at 780 C, while no structural information has been available on the high temperature bCaH2 phase until now.” |
-| Phase transition | 1257 K | 1257 | other: CaH2 -> liquid Ca + H2 | model | [1] Wang 2011 | p. 7; `ORC-RLS4REZ3QR` | “The complete CaeH phase diagram calculated at 1 atm in Fig. 4 shows that CaH2 decomposed to liquid Ca and H2 at 1257 K.” |
-| Phase transition | 1268 K | 1268 | liquid / bCaH2 þ liquid | model | [1] Wang 2011 | p. 7; `ORC-D2NUCKQUNF` | “It takes on singular features with the miscibility gap in the liquid phase of which composition range spans about 41.5e99.7 mol % CaH2 and an invariant reaction of liquid / bCaH2 þ liquid at 1268 K.” |
 
 ### Crystal structure (13)
 

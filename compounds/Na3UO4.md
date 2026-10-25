@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Na3UO4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -253 | kJ/mol-atom | 1 | 0.00625 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -253 | kJ/mol-atom | 1 | 0.00625 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -253 | kJ/mol-atom |  | 0.00625 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -251.838 | kJ/mol-atom |  | 0.00625 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -251.838 | kJ/mol-atom |  | 0.00625 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## Sources
 

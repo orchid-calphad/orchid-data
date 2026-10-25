@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Ho5Sb3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -82 | kJ/mol (basis unstated) |  | 5.000e-4 | 27.2 (model_calculated, calibrated) |  |  |  | 27.2 |
-| -88.488 | kJ/mol (basis unstated) |  | 5.000e-4 | 81.52 (dft, calibrated) |  |  |  | 81.52 |
+| -88.488 | kJ/mol (basis unstated) |  | 5.000e-4 | 80.08 (dft, calibrated) |  |  |  | 80.08 |
 
 ## Sources
 

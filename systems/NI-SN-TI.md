@@ -1,10 +1,10 @@
 # Ni–Sn–Ti system
 
-> Ni–Sn–Ti system: 8 accepted literature values (formation 7, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sn–Ti system: 21 accepted literature values (formation 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SN-TI.html · Markdown: https://data.orchid-project.org/systems/NI-SN-TI.md
 
-8 accepted literature values from 1 paper(s) (experimental 1, DFT 7); 0 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (DFT 21); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SN-TI.json) · [CSV](https://data.orchid-project.org/systems/NI-SN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SN-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SN-TI.html) · [Markdown](https://data.orchid-project.org/systems/NI-SN-TI.md)
 
@@ -12,41 +12,43 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| DFT | 7 |
+| DFT | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
-| formation | 7 |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Ni–Sn–Ti system (7)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| TiNi2Sn |  | 77 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.5e7f85` |  |
-| TiNi2Sn |  | 89 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.637556` |  |
-| TiNi2Sn |  | 240.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.782a18` |  |
-| TiNiSn |  | 183.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 10; `ORC-LBCEJBDSO4.ff4204` |  |
-| TiNiSn |  | 286.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.7b8dbc` |  |
-| TiNiSn |  | 307.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.76a075` |  |
-| TiNiSn |  | 375.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.870887` |  |
+| formation | 21 |
 
 ## Other properties
 
-### Phase transition (1)
+### Formation (21)
 
-Table: Phase transition, Ni–Sn–Ti system
+Table: Formation, Ni–Sn–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1400 K | 1400 | other | experimental | [1] Berche 2016 | p. 4; `ORC-CIPFBHD377` | “In Ti-Ni-Sn, the most stable phase is the Heusler and the half decomposes around 1400 K.” |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 125.3 kJ/mol (basis unstated) | 0 | TiNi2Sn; _alloy: Ni 0, Sn 1, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.cd21bf` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | -16.3 kJ/mol (basis unstated) | 0 | TiNi2Sn; _alloy: Ni 0, Sn 1, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.b33a89` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 240.5 kJ/mol (basis unstated) | 0 | TiNi2Sn; _alloy: Ni 0.5, Sn 0.25, Ti 0.25_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.782a18` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 84.2 kJ/mol (basis unstated) | 0 | TiNi2Sn; _alloy: Ni 1, Sn 0, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.71d4bc` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 2.7 kJ/mol (basis unstated) | 0 | TiNi2Sn; _alloy: Ni 1, Sn 0, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.d36836` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 89 kJ/mol (basis unstated) | 0 | TiNi2Sn; _alloy: Ni 0.5, Sn 0.25, Ti 0.25_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.637556` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 201.6 kJ/mol (basis unstated) | 0 | TiNi2Sn; _alloy: Ni 0, Sn 1, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.d63d2a` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 77 kJ/mol (basis unstated) | 0 | TiNi2Sn; _alloy: Ni 0.5, Sn 0.25, Ti 0.25_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.5e7f85` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 117.1 kJ/mol (basis unstated) | 0 | TiNi2Sn; _alloy: Ni 1, Sn 0, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.b72a54` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 403.7 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 0, Sn 1, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.a3092c` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 213.3 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 0, Sn 1, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.5630f5` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 375.5 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 0.333333, Sn 0.333333, Ti 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.870887` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 418.4 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 1, Sn 0, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.da8c61` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 394.8 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 0, Sn 1, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 12; `ORC-IEUVTOLMNL.f66269` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 157.3 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 1, Sn 0, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.2933d1` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 307.6 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 0.333333, Sn 0.333333, Ti 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.76a075` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 183.7 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 0.333333, Sn 0.333333, Ti 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 10; `ORC-LBCEJBDSO4.ff4204` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 181.1 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 0, Sn 1, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.2ef513` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 79.6 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 1, Sn 0, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 11; `ORC-LLPCIIVZFK.de0dc0` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 286.1 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 0.333333, Sn 0.333333, Ti 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.7b8dbc` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 289.7 kJ/mol (basis unstated) | 0 | TiNiSn; _alloy: Ni 1, Sn 0, Ti 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.6a36a7` |  |
 
 ## Sources
 

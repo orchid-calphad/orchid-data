@@ -121,7 +121,7 @@
      "sigma_effective": 1.0,
      "method_class": "model_calculated",
      "method_basis": "prior",
-     "method_n_pairs": 257,
+     "method_n_pairs": 260,
      "method_entry": "model/S_ABS"
     },
     "sigma_effective_used": 1.0,
@@ -141,7 +141,7 @@
      "sigma_effective": 3.3,
      "method_class": "model_calculated",
      "method_basis": "calibrated",
-     "method_n_pairs": 115,
+     "method_n_pairs": 114,
      "method_entry": "model/SM_FORM"
     },
     "sigma_effective_used": 3.3,

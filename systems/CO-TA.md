@@ -1,10 +1,10 @@
 # Co–Ta system
 
-> Co–Ta system: 159 accepted literature values (invariant reaction 76, formation 33, phase transition 26, phase equilibrium 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ta system: 151 accepted literature values (invariant reaction 70, formation 33, phase equilibrium 24, phase transition 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-TA.html · Markdown: https://data.orchid-project.org/systems/CO-TA.md
 
-159 accepted literature values from 4 paper(s) (experimental 83, model 35, DFT 33, unspecified 8); 6 calculated phase diagram(s).
+151 accepted literature values from 4 paper(s) (experimental 76, model 34, DFT 33, unspecified 8); 6 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-TA.json) · [CSV](https://data.orchid-project.org/systems/CO-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-TA/CoTa-02Har.json) · [phases (19)](https://data.orchid-project.org/phases/pages/CO-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-TA.html) · [Markdown](https://data.orchid-project.org/systems/CO-TA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 83 |
-| model | 35 |
+| experimental | 76 |
+| model | 34 |
 | DFT | 33 |
 | unspecified | 8 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 76 |
-| phase transition | 26 |
+| invariant reaction | 70 |
+| phase transition | 24 |
 | phase equilibrium | 24 |
 | formation | 33 |
 
@@ -142,7 +142,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Ta system (76)
+Table: Invariant reactions reported in the literature for the Co–Ta system (70)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -182,22 +182,18 @@ Table: Invariant reactions reported in the literature for the Co–Ta system (76
 | 1721.15 | peritectic: L + λ2 ↔ λ3 | L: Ta 0.182; λ2: Ta 0.267; λ3: Ta 0.257 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 24; `ORC-3KYGJBJNNE` |  |
 | 1721.15 | peritectic: L + λ2 ↔ λ3 | L: Ta 0.205; λ2: Ta 0.287; λ3: Ta 0.271 | model | [1] Wang 2022; _cites Liu 1999_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900005-5) | Table 2, p. 9, row 22; `ORC-7MT2IXFEVQ` |  |
 | 1721.15 | peritectic: L + λ2 ↔ λ3 | L: Ta 0.182; λ2: Ta 0.287; λ3: Ta 0.254 | unspecified | [1] Wang 2022; _cites Wang 2019_ | Table 2, p. 9, row 23; `ORC-PAM342K4YD` |  |
-| 1721.15 | peritectic: liquid + l2 = l3 |  | experimental | [3] Shinagawa 2014 | p. 8; `ORC-T2FLAM4SYM.b3a43f` | “Two endothermic signals obtained in the 21 at.% Ta shown in Fig. 4(a) are caused by the eutectic reaction, liquid 1⁄4 g(Co) þ l3 at 1311 C, and the peritectic reaction, liquid þ l2 1⁄4 l3 at 1448 C.” |
 | 1721 | liquid+C15=C36 | liquid: Ta 0.205; C15: Ta 0.271; C36: Ta 0.287 | model | [2] Liu 1999 | Table 4, p. 8, row 16; `ORC-PWLO7Y6D2J` |  |
 | 1720.15 | peritectic: L + λ2 ↔ λ3 | L: Ta 0.186; λ2: Ta 0.272; λ3: Ta 0.269 | model | [1] Wang 2022 | Table 2, p. 9, row 26; `ORC-66NRWNXAID` |  |
 | 1594.15 | eutectic: L ↔ fcc + λ3 | L: Ta 0.126; fcc: Ta 0.059; λ3: Ta 0.237 | unspecified | [1] Wang 2022; _cites Wang 2019_ | Table 2, p. 9, row 29; `ORC-PBQGZFICDY` |  |
 | 1593.15 | eutectic: L ↔ fcc + λ3 | L: Ta 0.132; fcc: Ta 0.059; λ3: Ta 0.227 | model | [1] Wang 2022 | Table 2, p. 9, row 32; `ORC-BXIIXCHCZU` |  |
 | 1588.15 | eutectic: L ↔ fcc + λ3 | L: Ta 0.134; fcc: Ta 0.061; λ3: Ta 0.237 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 31; `ORC-QFM47KWUDN` |  |
 | 1584.15 | eutectic: L ↔ fcc + λ3 | L: Ta 0.134; fcc: Ta 0.051; λ3: Ta 0.242 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 30; `ORC-BTPIT6HTLC` |  |
-| 1584.15 | eutectic: liquid = g(Co) + l3 |  | experimental | [3] Shinagawa 2014 | p. 8; `ORC-T2FLAM4SYM.22fbd0` | “Two endothermic signals obtained in the 21 at.% Ta shown in Fig. 4(a) are caused by the eutectic reaction, liquid 1⁄4 g(Co) þ l3 at 1311 C, and the peritectic reaction, liquid þ l2 1⁄4 l3 at 1448 C.” |
-| 1583.15 | eutectic |  | model | [3] Shinagawa 2014 | p. 8; `ORC-J4P2RDN27N.adf30e` | “The revised eutectic temperature (1310 C) is 30 C higher than the previous value (1280 C) shown in Fig. 1.” |
 | 1570.15 | eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.351; μ: Ta 0.468; λ2: Ta 0.332 | unspecified | [1] Wang 2022; _cites Wang 2019_ | Table 2, p. 9, row 34; `ORC-GAIRGM5DZE` |  |
 | 1567.15 | eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.362; μ: Ta 0.466; λ2: Ta 0.337 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 35; `ORC-ELZUMRLJMZ` |  |
 | 1567.15 | eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.363; μ: Ta 0.464; λ2: Ta 0.338 | model | [1] Wang 2022 | Table 2, p. 9, row 37; `ORC-M33ITBGTHY` |  |
 | 1566.15 | eutectoid: λ1 ↔ μ + λ2 | λ1: Ta 0.366; μ: Ta 0.461; λ2: Ta 0.342 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 36; `ORC-YLRNW3U4OQ` |  |
 | 1563.15 | eutectic: L ↔ fcc + λ3 | λ3: Ta 0.333333 | experimental | [1] Wang 2022; _cites Petkov 1972_ | Table 2, p. 9, row 27; `ORC-4Q52XHGFK6` |  |
 | 1553.15 | eutectic: L ↔ fcc + λ3 | L: Ta 0.137; fcc: Ta 0.051; λ3: Ta 0.252 | model | [1] Wang 2022; _cites Liu 1999_ [doi](https://doi.org/10.1016/s0364-5916%2800%2900005-5) | Table 2, p. 9, row 28; `ORC-7W2UWO55V4` |  |
-| 1553.15 | eutectic |  | experimental | [3] Shinagawa 2014 | p. 8; `ORC-J4P2RDN27N.e7dcee` | “The revised eutectic temperature (1310 C) is 30 C higher than the previous value (1280 C) shown in Fig. 1.” |
 | 1553 | liquid=fcc+C36 |  | experimental | [2] Liu 1999; _cites ref. 19_ | Table 4, p. 8, row 19; `ORC-RW6QW5SWG3` |  |
 | 1553 | liquid=fcc+C36 | liquid: Ta 0.137; fcc: Ta 0.051; C36: Ta 0.252 | model | [2] Liu 1999 | Table 4, p. 8, row 18; `ORC-YH3WRW77SV` |  |
 | 1551 | liquid=fcc+C36 | liquid: Ta 0.138 | experimental | [2] Liu 1999; _cites ref. 16_ | Table 4, p. 8, row 17; `ORC-NGOFNNK6VE` |  |
@@ -207,14 +203,12 @@ Table: Invariant reactions reported in the literature for the Co–Ta system (76
 | 1336.15 | peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.025; λ3: Ta 0.241; Co7Ta2: Ta 0.222 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 40; `ORC-TRF2OLMQQ3` |  |
 | 1320.15 | peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.032; λ3: Ta 0.246; Co7Ta2: Ta 0.236 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 39; `ORC-SAUBVKV7WE` |  |
 | 1313.15 | peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.016; λ3: Ta 0.23; Co7Ta2: Ta 0.222 | model | [1] Wang 2022 | Table 2, p. 9, row 41; `ORC-24IRKKZNK7` |  |
-| 1306.15 | peritectoid: g(Co) + l3 = cCo7Ta2 |  | experimental | [3] Shinagawa 2014 | p. 8; `ORC-2NF6HKEHWY` | “A sharp endothermic reaction was detected at 1033 C in 8.5 at.%Ta alloy, which corresponds to the peritectoid reaction, g(Co) þ l3 1⁄4 cCo7Ta2.” |
 | 1306.15 | peritectoid |  | experimental | [3] Shinagawa 2014 | p. 1; `ORC-JCFAL2IPMA.7c9da4` | “The solvus temperature of the g0 Co3Ta (L12) phase precipitated in the 5.8 at.%Ta g(Co) and the peritectoid temperature of the Co7Ta2 phase in an 8.5 at.%Ta alloy were determined to be 1013 C and 1033 C, respectively, by differential scanning calorimeter (DSC).” |
 | 1303.15 | eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.254; Co7Ta2: Ta 0.242; λ2: Ta 0.265 | model | [1] Wang 2022; _cites Zhou 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101649) | Table 2, p. 9, row 43; `ORC-PELP57M644` |  |
 | 1291.15 | peritectoid: fcc + λ3 ↔ Co7Ta2 | fcc: Ta 0.0227; λ3: Ta 0.234; Co7Ta2: Ta 0.222 | unspecified | [1] Wang 2022; _cites Wang 2019_ | Table 2, p. 9, row 38; `ORC-AFZPTRQ4Z5` |  |
 | 1281 | fcc+C36= Co7Ta2 | Co7Ta2: Ta 0.222222 | experimental | [2] Liu 1999; _cites ref. 16_ | Table 4, p. 8, row 24; `ORC-OWD7U73JTN` |  |
 | 1272.15 | eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.243; Co7Ta2: Ta 0.222; λ2: Ta 0.266 | unspecified | [1] Wang 2022; _cites Wang 2019_ | Table 2, p. 9, row 42; `ORC-TKP6MAKU5J` |  |
 | 1263 | fcc+C36= Co7Ta2 | fcc: Ta 0.013; Co7Ta2: Ta 0.222222 | experimental | [2] Liu 1999; _cites ref. 10_ | Table 4, p. 8, row 22; `ORC-MZMRX26NG2` |  |
-| 1263 | peritectic |  | experimental | [2] Liu 1999 | p. 3; `ORC-NYFYLX66GX` | “The results of the metallographic and X-ray studies depicted a peritectic formation of the CoTTaz phase (denoted as CosTa in the reference) at 1263 K.” |
 | 1231.15 | eutectoid: λ3 ↔ Co7Ta2 + λ2 | λ3: Ta 0.259; Co7Ta2: Ta 0.222; λ2: Ta 0.265 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | Table 2, p. 9, row 44; `ORC-QUPMC3ZF6H` |  |
 | 1223 | fcc+C36= Co7Ta2 | Co7Ta2: Ta 0.222222 | experimental | [2] Liu 1999; _cites ref. 19_ | Table 4, p. 8, row 25; `ORC-LJ4CAWRMNB` |  |
 | 1222 | fcc+C36= Co7Ta2 | fcc: Ta 0.029; C36: Ta 0.249; Co7Ta2: Ta 0.222 | model | [2] Liu 1999 | Table 4, p. 8, row 23; `ORC-3HUBQ2YO2E` |  |
@@ -267,15 +261,13 @@ Table: Enthalpies of formation, Co–Ta system (33)
 
 ## Other properties
 
-### Phase transition (26)
+### Phase transition (24)
 
 Table: Phase transition, Co–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1217.85 K | 1217.85 | γ + γ' Co3Ta ⇒ γ; _alloy: Co 0.965, Ta 0.035_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 6; `ORC-V4KWLKNWAO` |  |
-| Phase transition | 1218.15 K | 1218.15 | other | experimental | [3] Shinagawa 2014 | p. 8; `ORC-G45CM2Z6BW` | “In the DSC heating curve of 3.5 at.% Ta alloy shown in Fig. 4(b), a tail of an endothermic reaction was detected at 945 C.” |
-| Phase transition | 1231.15 K | 1231.15 | other: λ3-Co2Ta -> λ2-Co2Ta + Co7Ta2 | experimental | [1] Wang 2022; _cites Shinagawa 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.01.015) | p. 9; `ORC-LCD723G26T` | “It should be noted that their experimental data shows that the λ3-Co2Ta phase was present at the Co-Ta boundary in the 900 °C isothermal section, which is inconsistent with the binary experimental phase diagram \[20\] showing that the λ3-Co2Ta phase completely decomposes into the λ2-Co2Ta and Co7Ta2 phases at about 958 °C.” |
 | Phase transition | 1250.95 K | 1250.95 | magnetic: Co–3.5Ta; _alloy: Co 0.965, Ta 0.035_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 7; `ORC-PDAB64HQIH` |  |
 | Phase transition | 1251.15 K | 1251.15 | magnetic | experimental | [3] Shinagawa 2014 | p. 8; `ORC-PAQ3XUMG6C` | “In addition, a small endothermic knickpoint appeared at 978 C in 3.5at.%Ta alloy, which caused by the g magnetic transition (Curie temperature, TC ).” |
 | Phase transition | 1286.15 K | 1286.15 | other | experimental | [3] Shinagawa 2014 | p. 1; `ORC-JCFAL2IPMA.1b8b91` | “The solvus temperature of the g0 Co3Ta (L12) phase precipitated in the 5.8 at.%Ta g(Co) and the peritectoid temperature of the Co7Ta2 phase in an 8.5 at.%Ta alloy were determined to be 1013 C and 1033 C, respectively, by differential scanning calorimeter (DSC).” |

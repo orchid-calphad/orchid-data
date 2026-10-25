@@ -273,7 +273,7 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (14
 | 1558.15 | congruent melting: Liquid -> θ | Liquid: Si 0.333; θ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 33; `ORC-SKAXD7EFFQ` |  |
 | 1556.15 | congruent melting: Liquid -> θ | Liquid: Ni 0.666667, Si 0.333333; θ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 34; `ORC-VOGF5KRC72` |  |
 | 1554.15 | congruent melting: Liquid -> θ | Liquid: Si 0.337; θ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 32; `ORC-PMHGTMAKJ6` |  |
-| 1545.15 | L -> θ + C | L: Ni 0.6606, Si 0.3303; θ: Ni 0.6632, Si 0.3308; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 35; `ORC-ZPJ7AR22LM` |  |
+| 1545.15 | eutectic: L -> θ + C | L: Ni 0.6606, Si 0.3303; θ: Ni 0.6632, Si 0.3308; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 35; `ORC-ZPJ7AR22LM` |  |
 | 1540.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 47; `ORC-JL2E7JDX3H` |  |
 | 1529.15 | congruent melting: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 23; `ORC-64FIX5P6HC` |  |
 | 1528.15 | peritectic: Liquid + θ -> δ | Liquid: Si 0.308; θ: Si 0.334; δ: Si 0.333 | experimental | [1] Tokunaga 2003; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02868885) | Table 3, p. 6, row 30; `ORC-ILSFIQJ6YH` |  |
@@ -292,7 +292,7 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (14
 | 1515.15 | eutectic: Liquid -> γ + δ | Liquid: Si 0.295; γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 25; `ORC-ZHGGEUH2QI` |  |
 | 1513.15 | L–γ–δ | L: Si 0.297; γ: Si 0.289; δ: Si 0.333 | model | [3] Miettinen 2005 | Table 4, p. 6, row 15; `ORC-FKCKIYS65F` |  |
 | 1513.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | unspecified | [2] Du 1999 | Table IV, p. 4, row 38; `ORC-XQAFZ7IB2J` |  |
-| 1506.15 | L -> γ + C | L: Ni 0.7075, Si 0.283; γ: Ni 0.7143, Si 0.2857; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 38; `ORC-OAJ7WUFCYA` |  |
+| 1506.15 | eutectic: L -> γ + C | L: Ni 0.7075, Si 0.283; γ: Ni 0.7143, Si 0.2857; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 38; `ORC-OAJ7WUFCYA` |  |
 | 1505.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | experimental | [2] Du 1999 | Table IV, p. 4, row 37; `ORC-UZX5GE53IB` |  |
 | 1505.15 | eutectic: Liquid -> γ + δ | γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 28; `ORC-WJGVHME2S3` |  |
 | 1504.15 | L -> γ + δ + C | L: Ni 0.6976, Si 0.2935; γ: Ni 0.7143, Si 0.2857; δ: Ni 0.6667, Si 0.3333; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 7; `ORC-2SB2NKTS52` |  |

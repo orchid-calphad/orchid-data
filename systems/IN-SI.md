@@ -1,10 +1,10 @@
 # In–Si system
 
-> In–Si system: 17 accepted literature values (phase equilibrium 14, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Si system: 14 accepted literature values (phase equilibrium 14) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-SI.html · Markdown: https://data.orchid-project.org/systems/IN-SI.md
 
-17 accepted literature values from 1 paper(s) (experimental 14, model 3); 1 calculated phase diagram(s).
+14 accepted literature values from 1 paper(s) (experimental 14); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SI.json) · [CSV](https://data.orchid-project.org/systems/IN-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SI/InSi-85Ole-LB.json) · [phases (3)](https://data.orchid-project.org/phases/pages/IN-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-SI.html) · [Markdown](https://data.orchid-project.org/systems/IN-SI.md)
 
@@ -13,13 +13,11 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 14 |
-| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 3 |
 | phase equilibrium | 14 |
 
 ## Calculated phase diagrams
@@ -41,16 +39,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/IN/IN-SI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/IN/IN-SI.json)
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, In–Si system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 273.15 K | 273.15 | eutectic | model | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 3, p. 2, row 2; `ORC-32QDTJ7NK5` |  |
-| Phase transition | 273.15 K | 273.15 | eutectic | model | [1] Olesinski 1985; _cites Thurmond 1953_ [doi](https://doi.org/10.1021/j150509a019) | Table 3, p. 2, row 1; `ORC-FMZ2EJJWQC` |  |
-| Phase transition | 273.15 K | 273.15 | eutectic | model | [1] Olesinski 1985 | Table 3, p. 2, row 3; `ORC-ZKLGHVVK3N` |  |
 
 ### Phase equilibrium (14)
 

@@ -1,10 +1,10 @@
 # Ag–Cu–In system
 
-> Ag–Cu–In system: 27 accepted literature values (invariant reaction 26, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Cu–In system: 24 accepted literature values (invariant reaction 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CU-IN.html · Markdown: https://data.orchid-project.org/systems/AG-CU-IN.md
 
-27 accepted literature values from 1 paper(s) (experimental 19, model 8); 0 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 17, model 7); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CU-IN.json) · [CSV](https://data.orchid-project.org/systems/AG-CU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CU-IN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CU-IN.html) · [Markdown](https://data.orchid-project.org/systems/AG-CU-IN.md)
 
@@ -12,19 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
-| model | 8 |
+| experimental | 17 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 26 |
-| phase transition | 1 |
+| invariant reaction | 24 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Cu–In system (26)
+Table: Invariant reactions reported in the literature for the Ag–Cu–In system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -51,19 +50,7 @@ Table: Invariant reactions reported in the literature for the Ag–Cu–In syste
 | 607 | L + γ-Ag9In4 ↔ η-HT + ζ | L: Ag 0.243, Cu 0.133, In 0.624; γ-Ag9In4: Ag 0.649, Cu 0.036, In 0.315; η-HT: Ag 0.03, Cu 0.604, In 0.366; ζ: Ag 0.619, Cu 0.032, In 0.349 | model | [1] Muzzillo 2018 | Table 4, p. 9, row 15; `ORC-TJOI554FXE` |  |
 | 589 | L + η-HT ↔ γ-Ag9In4 + Cu11In9 | L: Ag 0.22, Cu 0.115, In 0.665; η-HT: Ag 0.027, Cu 0.604, In 0.369; γ-Ag9In4: Ag 0.649, Cu 0.036, In 0.315; Cu11In9: Ag 0.053, Cu 0.497, In 0.45 | model | [1] Muzzillo 2018 | Table 4, p. 9, row 17; `ORC-PFHPDWNYMJ` |  |
 | 589 | L + γ-Ag9In4 + η-HT ↔ Cu11In9 |  | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 4, p. 9, row 16; `ORC-YGGZYPWHTR` |  |
-| 529.4 | eutectoid |  | model | [1] Muzzillo 2018 | p. 13; `ORC-ROM7UFMEFO` | “It was predicted by the model to actually be the ternary eutectoid g-HT $ c-Ag9In4 ? g-LT ? Cu11In9, and to occur within the reported temperature range (529.4 K).” |
 | 488 | γ-Ag9In4 + η-HT ↔ η-LT + Cu11In9 |  | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 4, p. 9, row 18; `ORC-7FKM5N6UZE` |  |
-| 420 | eutectic |  | experimental | [1] Muzzillo 2018; _cites ref. 1_ | p. 2; `ORC-4DXTATVK2T` | “A ternary eutectic reaction at Ag1.3Cu2.4In96.3 and undetermined temperature was identified, which was inferred to be L $ AgIn2 ? Cu11In9 ? (In). This was taken to be the reaction observed at 420 K by Bahari et al. \[30\].” |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ag–Cu–In system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 420 K | 420 | AgIn2 ? L $ Cu11In9 ? (In) | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | p. 12; `ORC-DQTX5ZXAYE` | “The reaction at 420 K was reported as AgIn2 ? L $ Cu11In9 ? (In) by Bahari et al. \[30\], but the model predicted a eutectic reaction at Ag1.8Cu0.6In97.7 (Table 4), in close agreement with Woychik and Massalski \[1\].” |
 
 ## Sources
 

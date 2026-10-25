@@ -1,10 +1,10 @@
 # Co–Ge system
 
-> Co–Ge system: 152 accepted literature values (invariant reaction 77, formation 55, crystal structure 17, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ge system: 151 accepted literature values (invariant reaction 77, formation 55, crystal structure 17, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-GE.html · Markdown: https://data.orchid-project.org/systems/CO-GE.md
 
-152 accepted literature values from 3 paper(s) (experimental 56, model 96); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+151 accepted literature values from 3 paper(s) (experimental 55, model 96); 4 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-GE.json) · [CSV](https://data.orchid-project.org/systems/CO-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-GE/CoGe-04Kor-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-GE.html) · [Markdown](https://data.orchid-project.org/systems/CO-GE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 56 |
+| experimental | 55 |
 | model | 96 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 77 |
-| phase transition | 3 |
+| phase transition | 2 |
 | formation | 55 |
 | crystal structure | 17 |
 
@@ -256,13 +256,12 @@ Table: Enthalpies of formation, Co–Ge system (55)
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, Co–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 960 K | 960 |  | experimental | [2] Zeng 2019; _cites Audebrand 2000_ [doi](https://doi.org/10.1017/s0885715600010964) | p. 2; `ORC-HA3NTJVEJ3` | “Audebrand et al. \[15,16\] analyzed the high-temperature phase bCo5Ge3, and the displacive phase transformation bCo5Ge3 (h)/ Co2Ge(l) was indicated to display at 960 K \[16\].” |
 | Phase transition | 1482 K | 1482 | congruent melting: L -> βCo5Ge3; _L: Ge 0.383; βCo5Ge3: Ge 0.383_ | model | [3] Dong 2013 | Table 7, p. 6, row 2; `ORC-SKSTNIJJQU` |  |
 | Phase transition | 1483 K | 1483 | congruent melting: L -> βCo5Ge3; _L: Ge 0.375; βCo5Ge3: Ge 0.375_ | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 1; `ORC-OOKL4BCRG6` |  |
 

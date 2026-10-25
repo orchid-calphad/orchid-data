@@ -1,10 +1,10 @@
 # Mn–W system
 
-> Mn–W system: 10 accepted literature values (crystal structure 8, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–W system: 8 accepted literature values (crystal structure 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-W.html · Markdown: https://data.orchid-project.org/systems/MN-W.md
 
-10 accepted literature values from 1 paper(s) (experimental 8, model 2); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+8 accepted literature values from 1 paper(s) (experimental 8); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-W.json) · [CSV](https://data.orchid-project.org/systems/MN-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-W/MnW-08Fra.json) · [phases (6)](https://data.orchid-project.org/phases/pages/MN-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-W.html) · [Markdown](https://data.orchid-project.org/systems/MN-W.md)
 
@@ -13,13 +13,11 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
 | crystal structure | 8 |
 
 ## Calculated phase diagrams
@@ -51,15 +49,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | MnW-18Els.tdb | 981.81 | CUB_A13 (x(W) 0.00126) + CBCC_A12 (x(W) 0.00178) + BCC_A2 (x(W) 0.99082) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MN/MN-W.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MN/MN-W.json) · [CALPHAD hull MnW-08Fra](https://data.orchid-project.org/hulls/calphad-sgte/MN/MN-W--MnW-08Fra.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Mn–W system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1544.15 | peritectic |  | model | [1] Elsebaie 2018 | p. 8; `ORC-VXZWGSAOHU` | “As an example, the phase diagram calculated with kbcc = 36,000 J/mol and kL = 6000 J/mol will result in a peritectic temperature of 1271 °C and increased solid solubility of about 2.5 at.%.” |
-| 1541.15 | peritectic |  | model | [1] Elsebaie 2018 | p. 1; `ORC-RDS26EIGJC.67f36d` | “The maximum observed solubility of tungsten in manganese is about 10 at.% in the high temperature solid, compared to 7.4 at.% and 4.6 at.% in the solid and liquid phases respectively at the peritectic temperature of 1268 °C.” |
 
 ## Other properties
 

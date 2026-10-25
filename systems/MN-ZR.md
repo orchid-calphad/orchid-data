@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/MN-ZR.html · Markdown: https://data.orchid-project.org/systems/MN-ZR.md
 
-7 accepted literature values from 1 paper(s) (unspecified 7); 4 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (model 7); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-ZR.json) · [CSV](https://data.orchid-project.org/systems/MN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-ZR/MnZr-20Kup.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MN-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-ZR.html) · [Markdown](https://data.orchid-project.org/systems/MN-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| unspecified | 7 |
+| model | 7 |
 
 Table: Accepted values by property group
 
@@ -73,19 +73,19 @@ Table: Invariant reactions reported in the literature for the Mn–Zr system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1730 | congruent melting: Mn2Zr -> Liquid | Mn2Zr: Zr 0.345; Liquid: Zr 0.345 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 7; `ORC-R5XNQAQFWK` |  |
-| 1424.1 | eutectic: Liquid -> Mn2Zr + bcc-A2 | Liquid: Zr 0.694; Mn2Zr: Zr 0.535; bcc-A2: Zr 0.911 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 5; `ORC-RQGGDTXMUL` |  |
-| 1421.9 | eutectic: Liquid -> bcc-A2 + Mn2Zr | Liquid: Zr 0.071; bcc-A2: Zr 0.018; Mn2Zr: Zr 0.236 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 1; `ORC-2P5VZFU3QI` |  |
-| 1359.1 | metatectic/catatectic: fcc-A1 -> bcc-A2 + cub-A13 | fcc-A1: Zr 3.000e-4; bcc-A2: Zr 2.000e-4; cub-A13: Zr 0.0062 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 3; `ORC-36HJAUHSOR` |  |
-| 1334.5 | eutectoid: bcc-A2 -> + cub-A13 + Mn2Zr | bcc-A2: Zr 0.012; cub-A13: Zr 0; Mn2Zr: Zr 0.213 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 2; `ORC-CSZC4TM7AP` |  |
-| 1075.4 | eutectoid: bcc-A2 -> Mn2Zr + hcp-A3 | bcc-A2: Zr 0.971; Mn2Zr: Zr 0.54; hcp-A3: Zr 0.998 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 6; `ORC-2OJQFOOWFC` |  |
-| 980.1 | other: cub-A13 -> cbcc-A12 + Mn2Zr | cub-A13: Zr 0; cbcc-A12: Zr 0; Mn2Zr: Zr 0.179 | unspecified | [1] Hämäläinen 1998 | Table I, p. 263, row 4; `ORC-3UMRFOAIRZ` |  |
+| 1730 | congruent melting: Mn2Zr -> Liquid | Mn2Zr: Zr 0.345; Liquid: Zr 0.345 | model | [1] (ed.) 1998 | Table I, p. 263, row 7; `ORC-R5XNQAQFWK` |  |
+| 1424.1 | eutectic: Liquid -> Mn2Zr + bcc-A2 | Liquid: Zr 0.694; Mn2Zr: Zr 0.535; bcc-A2: Zr 0.911 | model | [1] (ed.) 1998 | Table I, p. 263, row 5; `ORC-RQGGDTXMUL` |  |
+| 1421.9 | eutectic: Liquid -> bcc-A2 + Mn2Zr | Liquid: Zr 0.071; bcc-A2: Zr 0.018; Mn2Zr: Zr 0.236 | model | [1] (ed.) 1998 | Table I, p. 263, row 1; `ORC-2P5VZFU3QI` |  |
+| 1359.1 | metatectic/catatectic: fcc-A1 -> bcc-A2 + cub-A13 | fcc-A1: Zr 3.000e-4; bcc-A2: Zr 2.000e-4; cub-A13: Zr 0.0062 | model | [1] (ed.) 1998 | Table I, p. 263, row 3; `ORC-36HJAUHSOR` |  |
+| 1334.5 | eutectoid: bcc-A2 -> + cub-A13 + Mn2Zr | bcc-A2: Zr 0.012; cub-A13: Zr 0; Mn2Zr: Zr 0.213 | model | [1] (ed.) 1998 | Table I, p. 263, row 2; `ORC-CSZC4TM7AP` |  |
+| 1075.4 | eutectoid: bcc-A2 -> Mn2Zr + hcp-A3 | bcc-A2: Zr 0.971; Mn2Zr: Zr 0.54; hcp-A3: Zr 0.998 | model | [1] (ed.) 1998 | Table I, p. 263, row 6; `ORC-2OJQFOOWFC` |  |
+| 980.1 | other: cub-A13 -> cbcc-A12 + Mn2Zr | cub-A13: Zr 0; cbcc-A12: Zr 0; Mn2Zr: Zr 0.179 | model | [1] (ed.) 1998 | Table I, p. 263, row 4; `ORC-3UMRFOAIRZ` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 
 ## Please cite
 

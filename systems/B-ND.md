@@ -30,8 +30,8 @@ Table: Invariant reactions reported in the literature for the B–Nd system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2883.15 | NdB6 \<-> L | NdB6: B 0.857143, Nd 0.142857; L: B 0.857143, Nd 0.142857 | experimental | [1] Hallemans 1995; _cites Spear 1976_ | Table 4, p. 5, row 2; `ORC-FRY43XWKRN` |  |
-| 2879.15 | NdB6 \<-> L | NdB6: B 0.857143, Nd 0.142857; L: B 0.857143, Nd 0.142857 | model | [1] Hallemans 1995 | Table 4, p. 5, row 1; `ORC-XK466XV57G` |  |
+| 2883.15 | congruent melting: NdB6 \<-> L | NdB6: B 0.857143, Nd 0.142857; L: B 0.857143, Nd 0.142857 | experimental | [1] Hallemans 1995; _cites Spear 1976_ | Table 4, p. 5, row 2; `ORC-FRY43XWKRN` |  |
+| 2879.15 | congruent melting: NdB6 \<-> L | NdB6: B 0.857143, Nd 0.142857; L: B 0.857143, Nd 0.142857 | model | [1] Hallemans 1995 | Table 4, p. 5, row 1; `ORC-XK466XV57G` |  |
 
 ## Other properties
 

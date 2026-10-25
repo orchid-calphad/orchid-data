@@ -30,7 +30,7 @@ Table: Phases of the Co–Ta system (19)
 | [FCC_A1](#phase-co-ta-fcc-a1); _phase:co-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 621.48–1777.64 K, x(Ta) 0–0.05936 | 24 | 9 |
 | [L12_FCC](#phase-co-ta-fcc-l12); _phase:co-ta:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 671.48–1773.65 K, x(Ta) 0–0.05927 | 10 | 1 |
 | [HCP_A3](#phase-co-ta-hcp-a3); _phase:co-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–729.98 K, x(Ta) 0–0.01216 | 5 | 6 |
-| [LIQUID](#phase-co-ta-liquid); _phase:co-ta:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1552.64–4000 K, x(Ta) 0–1 | 53 | 6 |
+| [LIQUID](#phase-co-ta-liquid); _phase:co-ta:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1552.64–4000 K, x(Ta) 0–1 | 54 | 6 |
 
 ## BCC_A2 (Co–Ta)
 
@@ -951,11 +951,11 @@ _assessment that models this phase_
 - Id: `phase:co-ta:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 1552.64–4000 K, x(Ta) 0–1
-- Literature: 53 values (53 accepted) from 3 papers
+- Literature: 54 values (54 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ta:liquid)
 
-Names (10): _corpus: _corpus:phase:co-ta:liquid  
-_paper: _paper:10.1016/j.intermet.2014.01.015:liquid, paper:10.1016/j.jallcom.2022.166723:L, paper:10.1016/s0364-5916(00)00005-5:liquid  
+Names (11): _corpus: _corpus:phase:co-ta:liquid  
+_paper: _paper:10.1016/j.intermet.2014.01.015:liquid, paper:10.1016/j.jallcom.2022.166723:L, paper:10.1016/j.jallcom.2022.166723:Liquid, paper:10.1016/s0364-5916(00)00005-5:liquid  
 _tdb: _tdb:CoTa-02Har.tdb:LIQUID, tdb:CoTa-14Shi.tdb:LIQUID, tdb:CoTa-19Wan.tdb:LIQUID, tdb:CoTa-19Zho.tdb:LIQUID, tdb:CoTa-22Wan.tdb:LIQUID, tdb:CoTa-99Liu-LB.tdb:LIQUID  
 
 

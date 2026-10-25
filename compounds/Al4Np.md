@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Al4Np.html · Markdown: https://data.orchid-project.org/compounds/Al4Np.md
 
-1 accepted literature formation-enthalpy value(s) (model 1).
+1 accepted literature formation-enthalpy value(s) (DFT 1).
 
 Systems: [Al–Np](https://data.orchid-project.org/systems/AL-NP.html)
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Al4Np reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -105.6 kJ/mol (basis unstated) | NpAl4 |  | model |  | [Al–Np](https://data.orchid-project.org/systems/AL-NP.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.10f4d8` |  |
+| -105.6 kJ/mol (basis unstated) | NpAl4 |  | DFT |  | [Al–Np](https://data.orchid-project.org/systems/AL-NP.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.10f4d8` |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Al4Np
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -105.6 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -105.6 | kJ/mol (basis unstated) |  | 0.05 | 39.81 (dft, calibrated) |  |  |  | 39.81 |
 
 ## Sources
 

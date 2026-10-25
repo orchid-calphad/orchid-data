@@ -1,10 +1,10 @@
 # C–Zn system
 
-> C–Zn system: 3 accepted literature values (phase transition 2, phase equilibrium 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Zn system: 1 accepted literature values (phase equilibrium 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-ZN.html · Markdown: https://data.orchid-project.org/systems/C-ZN.md
 
-3 accepted literature values from 1 paper(s) (model 3); 0 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-ZN.json) · [CSV](https://data.orchid-project.org/systems/C-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-ZN) · [phases (6)](https://data.orchid-project.org/phases/pages/C-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-ZN.html) · [Markdown](https://data.orchid-project.org/systems/C-ZN.md)
 
@@ -12,27 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 3 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
 | phase equilibrium | 1 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-ZN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-ZN.json)
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, C–Zn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 692.68 K | 692.68 |  | model | [1] Hämäläinen 2005; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2; `ORC-7MUIMF5TFJ.417318` | “The melting point of carbon was evaluated as 4099.15 K from Massalski \[2\], for cobalt as 1768.00 K and for zinc as 692.68 K from Dinsdale \[1\].” |
-| Phase transition | 4099.15 K | 4099.15 |  | model | [1] Hämäläinen 2005; _cites Massalski 1986_ | p. 2; `ORC-7MUIMF5TFJ.0de578` | “The melting point of carbon was evaluated as 4099.15 K from Massalski \[2\], for cobalt as 1768.00 K and for zinc as 692.68 K from Dinsdale \[1\].” |
 
 ### Phase equilibrium (1)
 

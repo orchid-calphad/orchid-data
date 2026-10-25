@@ -352,7 +352,7 @@
     "x0": 0.166667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni5Pr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -370,7 +370,7 @@
     "x0": 0.166667,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni5Pr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -502,7 +502,7 @@
     "x0": 0.77,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> NiPr3 + dhcp (Pr)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

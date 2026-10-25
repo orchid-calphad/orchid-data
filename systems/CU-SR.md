@@ -1,10 +1,10 @@
 # Cu–Sr system
 
-> Cu–Sr system: 3 accepted literature values (phase transition 2, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sr system: 2 accepted literature values (phase transition 1, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SR.html · Markdown: https://data.orchid-project.org/systems/CU-SR.md
 
-3 accepted literature values from 1 paper(s) (experimental 3); 1 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (experimental 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SR.json) · [CSV](https://data.orchid-project.org/systems/CU-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SR/CuSr-96Ris-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CU-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SR.html) · [Markdown](https://data.orchid-project.org/systems/CU-SR.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
+| experimental | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 1 |
-| phase transition | 2 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -60,14 +60,13 @@ Table: Invariant reactions reported in the literature for the Cu–Sr system (1)
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Cu–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 859 K | 859 | SrCu | experimental | [1] Risold 1996 | p. 3; `ORC-KT43ZXFIA2.cfce67` | “Both compounds are reported by Bruzzone to melt incongruently, SrCus at 1118 K and SrCu at 859 K.” |
-| Phase transition | 1118 K | 1118 |  | experimental | [1] Risold 1996 | p. 3; `ORC-KT43ZXFIA2.5a7234` | “Both compounds are reported by Bruzzone to melt incongruently, SrCus at 1118 K and SrCu at 859 K.” |
 
 ## Sources
 

@@ -115,7 +115,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 15,
+     "method_n_pairs": 14,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "printed": {
@@ -141,7 +141,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 15,
+     "method_n_pairs": 14,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "printed": {
@@ -167,7 +167,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 15,
+     "method_n_pairs": 14,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "printed": {

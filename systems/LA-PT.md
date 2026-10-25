@@ -1,6 +1,6 @@
 # La–Pt system
 
-> La–Pt system: 131 accepted literature values (activity / EMF / Gibbs energy 64, phase transition 29, formation 23, invariant reaction 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Pt system: 131 accepted literature values (model expression 40, phase transition 29, activity / EMF / Gibbs energy 24, formation 23) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-PT.html · Markdown: https://data.orchid-project.org/systems/LA-PT.md
 
@@ -22,7 +22,8 @@ Table: Accepted values by property group
 | invariant reaction | 15 |
 | phase transition | 29 |
 | formation | 23 |
-| activity / EMF / Gibbs energy | 64 |
+| activity / EMF / Gibbs energy | 24 |
+| model expression | 40 |
 
 ## Calculated phase diagrams
 
@@ -157,52 +158,12 @@ Table: Phase transition, La–Pt system
 | Phase transition | 1587 K | 1587 | UNKNOWN; _alloy: La 0.51, Pt 0.49_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 9; `ORC-3JROF7A4HO` |  |
 | Phase transition | 1590 K | 1590 | 45.0; _alloy: La 0.45, Pt 0.55_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 31; `ORC-2553LGCJRU` |  |
 
-### Activity / EMF / Gibbs energy (64)
+### Activity / EMF / Gibbs energy (24)
 
 Table: Activity / EMF / Gibbs energy, La–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| EMF; _printed: E°_ | 0.7951 V |  | UNKNOWN; _alloy: La 0.32, Pt 0.68_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 20; `ORC-24PH46VDDV` |  |
-| EMF; _printed: E°_ | 0.3739 V |  | UNKNOWN; _alloy: La 0.46, Pt 0.54_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 26; `ORC-2VRJKAJNRP` |  |
-| EMF; _printed: E°_ | 0.3929 V |  | UNKNOWN; _alloy: La 0.414, Pt 0.586_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 24; `ORC-363INOYRIF` |  |
-| EMF; _printed: E°_ | 0.6489 V |  | UNKNOWN; _alloy: La 0.219, Pt 0.781_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 10; `ORC-3CHCW4T5MZ` |  |
-| EMF; _printed: E°_ | 0.7179 V |  | UNKNOWN; _alloy: La 0.298, Pt 0.702_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 18; `ORC-3MW7FSXYNR` |  |
-| EMF; _printed: E°_ | 0.3846 V |  | UNKNOWN; _alloy: La 0.448, Pt 0.552_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 25; `ORC-443FD5JSMX` |  |
-| EMF; _printed: E°_ | 0.8943 V |  | UNKNOWN; _alloy: La 0.182, Pt 0.818_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 6; `ORC-6BAPZSBFLF` |  |
-| EMF; _printed: E°_ | 1.5456 V |  | UNKNOWN; _alloy: La 0.047, Pt 0.953_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 3; `ORC-6CHIHDCGFD` |  |
-| EMF; _printed: E°_ | 0.7941 V |  | UNKNOWN; _alloy: La 0.281, Pt 0.719_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 16; `ORC-6MOZSSDY3B` |  |
-| EMF; _printed: E°_ | 0.0513 V |  | UNKNOWN; _alloy: La 0.551, Pt 0.449_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 31; `ORC-7R2CZV4EXH` |  |
-| EMF; _printed: E°_ | 0.3671 V |  | UNKNOWN; _alloy: La 0.35, Pt 0.65_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 21; `ORC-BKIK64H327` |  |
-| EMF; _printed: E°_ | 0.0494 V |  | UNKNOWN; _alloy: La 0.649, Pt 0.351_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 37; `ORC-C6HASVQULK` |  |
-| EMF; _printed: E°_ | 0.0682 V |  | UNKNOWN; _alloy: La 0.632, Pt 0.368_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 36; `ORC-CL6YLLMOD2` |  |
-| EMF; _printed: E°_ | 0.6797 V |  | UNKNOWN; _alloy: La 0.249, Pt 0.751_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 14; `ORC-DA2PEM36FT` |  |
-| EMF; _printed: E°_ | 0.0315 V |  | UNKNOWN; _alloy: La 0.54, Pt 0.46_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 30; `ORC-EU57IFUDJH` |  |
-| EMF; _printed: E°_ | 0.0725 V |  | UNKNOWN; _alloy: La 0.579, Pt 0.421_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 33; `ORC-FMA4WZ76EO` |  |
-| EMF; _printed: E°_ | 0.0445 V |  | UNKNOWN; _alloy: La 0.57, Pt 0.43_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 32; `ORC-GAAKAGWION` |  |
-| EMF; _printed: E°_ | 0.3805 V |  | UNKNOWN; _alloy: La 0.361, Pt 0.639_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 22; `ORC-H4RQGAYIXC` |  |
-| EMF; _printed: E°_ | 0.084 V |  | UNKNOWN; _alloy: La 0.62, Pt 0.38_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 35; `ORC-HDWHUBUPZ6` |  |
-| EMF; _printed: E°_ | 0.8496 V |  | UNKNOWN; _alloy: La 0.306, Pt 0.694_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 19; `ORC-HNCAGMG3FG` |  |
-| EMF; _printed: E°_ | 1.0551 V |  | UNKNOWN; _alloy: La 0.204, Pt 0.796_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 9; `ORC-HVL3LLGJS6` |  |
-| EMF; _printed: E°_ | 0.3967 V |  | UNKNOWN; _alloy: La 0.491, Pt 0.509_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 28; `ORC-HYABYPWHBI` |  |
-| EMF; _printed: E°_ | 1.381 V |  | UNKNOWN; _alloy: La 0.028, Pt 0.972_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 2; `ORC-HZB254ACCC` |  |
-| EMF; _printed: E°_ | 0.3376 V |  | UNKNOWN; _alloy: La 0.47, Pt 0.53_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 27; `ORC-KGW5B3C6BR` |  |
-| EMF; _printed: E°_ | 1.1479 V |  | UNKNOWN; _alloy: La 0.19, Pt 0.81_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 8; `ORC-KT6HUULO7D` |  |
-| EMF; _printed: E°_ | 0.0473 V |  | UNKNOWN; _alloy: La 0.683, Pt 0.317_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 38; `ORC-MFWXJBLFQC` |  |
-| EMF; _printed: E°_ | 1.4736 V |  | UNKNOWN; _alloy: La 0.1, Pt 0.9_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 4; `ORC-MJ44S7SQY7` |  |
-| EMF; _printed: E°_ | 0.7988 V |  | UNKNOWN; _alloy: La 0.24, Pt 0.76_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 12; `ORC-MP62O7HR7W` |  |
-| EMF; _printed: E°_ | 0.0435 V |  | UNKNOWN; _alloy: La 0.85, Pt 0.15_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 39; `ORC-MVWCUQB43B` |  |
-| EMF; _printed: E°_ | 1.8263 V |  | UNKNOWN; _alloy: La 0.02, Pt 0.98_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 1; `ORC-NCC4JJU2SV` |  |
-| EMF; _printed: E°_ | 1.1552 V |  | UNKNOWN; _alloy: La 0.19, Pt 0.81_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 7; `ORC-O6CSGUPD6N` |  |
-| EMF; _printed: E°_ | -0.0152 V |  | UNKNOWN; _alloy: La 0.581, Pt 0.419_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 34; `ORC-PKDUYWNBGU` |  |
-| EMF; _printed: E°_ | 0.8286 V |  | UNKNOWN; _alloy: La 0.228, Pt 0.772_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 11; `ORC-PTA4AGBHL7` |  |
-| EMF; _printed: E°_ | 0.8632 V |  | UNKNOWN; _alloy: La 0.26, Pt 0.74_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 15; `ORC-S4QF2GYNBY` |  |
-| EMF; _printed: E°_ | 1.7389 V |  | UNKNOWN; _alloy: La 0.143, Pt 0.857_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 5; `ORC-TUXN3QLD2B` |  |
-| EMF; _printed: E°_ | -0.0052 V |  | UNKNOWN; _alloy: La 0.951, Pt 0.049_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 40; `ORC-U4GWB7AS6I` |  |
-| EMF; _printed: E°_ | 0.8282 V |  | UNKNOWN; _alloy: La 0.241, Pt 0.759_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 13; `ORC-UOTVKLQK5A` |  |
-| EMF; _printed: E°_ | 0.3712 V |  | UNKNOWN; _alloy: La 0.388, Pt 0.612_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 23; `ORC-WF6DY3ADBV` |  |
-| EMF; _printed: E°_ | -0.183 V |  | UNKNOWN; _alloy: La 0.524, Pt 0.476_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 29; `ORC-XBY5NPUQSW` |  |
-| EMF; _printed: E°_ | 0.8424 V |  | UNKNOWN; _alloy: La 0.289, Pt 0.711_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 17; `ORC-XMA775ICKW` |  |
 | Gibbs energy; _printed: relative partial excess Gibbs energy of La_ | -315 kJ/mol | 1073 |  | experimental | [1] Reimann 2006 | p. 1; `ORC-G7MBX27LXY` | “The phases on the platinum-rich side show pronounced negative deviations from ideal mixing behaviour; at 1073 K and infinite dilution, for instance, the relative partial excess Gibbs energy of La was determined to be -315 kJ/mol.” |
 | Gibbs energy; _printed: ΔG (from EMF)_ | -96 kJ/mol | 1073 | Pt2La; _alloy: La 0.333, Pt 0.667_ | experimental | [1] Reimann 2006 | Table 2, p. 3, row 14; `ORC-2RGYOAFBJD.c914c8` |  |
 | Gibbs energy; _printed: ΔG (from EMF)_ | -88.1 kJ/mol | 1073 | Pt2La; _alloy: La 0.281, Pt 0.719_ | experimental | [1] Reimann 2006 | Table 2, p. 3, row 5; `ORC-3FY37MU6YR.b1fbf6` |  |
@@ -227,6 +188,53 @@ Table: Activity / EMF / Gibbs energy, La–Pt system
 | Gibbs energy; _printed: ΔG (from EMF)_ | -77 kJ/mol | 1073 | Pt7La2; _alloy: La 0.22, Pt 0.78_ | experimental | [1] Reimann 2006 | Table 2, p. 3, row 3; `ORC-PYT6M7F5JT.3cefb8` |  |
 | Gibbs energy; _printed: ΔG (from EMF)_ | -101.1 kJ/mol | 1073 | PtLa; _alloy: La 0.5, Pt 0.5_ | experimental | [1] Reimann 2006 | Table 2, p. 3, row 18; `ORC-5IECZBKP2B.477716` |  |
 | Gibbs energy; _printed: ΔG (calculated)_ | -101 kJ/mol | 1073 | PtLa; _alloy: La 0.5, Pt 0.5_ | model | [1] Reimann 2006 | Table 2, p. 3, row 19; `ORC-DESKIIKGXR.79b091` |  |
+
+### Model expression (40)
+
+Table: Model expression, La–Pt system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| emf expression term; _printed: E°_ | 0.7951 V |  | UNKNOWN; _alloy: La 0.32, Pt 0.68_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 20; `ORC-24PH46VDDV` |  |
+| emf expression term; _printed: E°_ | 0.3739 V |  | UNKNOWN; _alloy: La 0.46, Pt 0.54_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 26; `ORC-2VRJKAJNRP` |  |
+| emf expression term; _printed: E°_ | 0.3929 V |  | UNKNOWN; _alloy: La 0.414, Pt 0.586_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 24; `ORC-363INOYRIF` |  |
+| emf expression term; _printed: E°_ | 0.6489 V |  | UNKNOWN; _alloy: La 0.219, Pt 0.781_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 10; `ORC-3CHCW4T5MZ` |  |
+| emf expression term; _printed: E°_ | 0.7179 V |  | UNKNOWN; _alloy: La 0.298, Pt 0.702_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 18; `ORC-3MW7FSXYNR` |  |
+| emf expression term; _printed: E°_ | 0.3846 V |  | UNKNOWN; _alloy: La 0.448, Pt 0.552_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 25; `ORC-443FD5JSMX` |  |
+| emf expression term; _printed: E°_ | 0.8943 V |  | UNKNOWN; _alloy: La 0.182, Pt 0.818_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 6; `ORC-6BAPZSBFLF` |  |
+| emf expression term; _printed: E°_ | 1.5456 V |  | UNKNOWN; _alloy: La 0.047, Pt 0.953_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 3; `ORC-6CHIHDCGFD` |  |
+| emf expression term; _printed: E°_ | 0.7941 V |  | UNKNOWN; _alloy: La 0.281, Pt 0.719_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 16; `ORC-6MOZSSDY3B` |  |
+| emf expression term; _printed: E°_ | 0.0513 V |  | UNKNOWN; _alloy: La 0.551, Pt 0.449_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 31; `ORC-7R2CZV4EXH` |  |
+| emf expression term; _printed: E°_ | 0.3671 V |  | UNKNOWN; _alloy: La 0.35, Pt 0.65_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 21; `ORC-BKIK64H327` |  |
+| emf expression term; _printed: E°_ | 0.0494 V |  | UNKNOWN; _alloy: La 0.649, Pt 0.351_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 37; `ORC-C6HASVQULK` |  |
+| emf expression term; _printed: E°_ | 0.0682 V |  | UNKNOWN; _alloy: La 0.632, Pt 0.368_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 36; `ORC-CL6YLLMOD2` |  |
+| emf expression term; _printed: E°_ | 0.6797 V |  | UNKNOWN; _alloy: La 0.249, Pt 0.751_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 14; `ORC-DA2PEM36FT` |  |
+| emf expression term; _printed: E°_ | 0.0315 V |  | UNKNOWN; _alloy: La 0.54, Pt 0.46_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 30; `ORC-EU57IFUDJH` |  |
+| emf expression term; _printed: E°_ | 0.0725 V |  | UNKNOWN; _alloy: La 0.579, Pt 0.421_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 33; `ORC-FMA4WZ76EO` |  |
+| emf expression term; _printed: E°_ | 0.0445 V |  | UNKNOWN; _alloy: La 0.57, Pt 0.43_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 32; `ORC-GAAKAGWION` |  |
+| emf expression term; _printed: E°_ | 0.3805 V |  | UNKNOWN; _alloy: La 0.361, Pt 0.639_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 22; `ORC-H4RQGAYIXC` |  |
+| emf expression term; _printed: E°_ | 0.084 V |  | UNKNOWN; _alloy: La 0.62, Pt 0.38_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 35; `ORC-HDWHUBUPZ6` |  |
+| emf expression term; _printed: E°_ | 0.8496 V |  | UNKNOWN; _alloy: La 0.306, Pt 0.694_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 19; `ORC-HNCAGMG3FG` |  |
+| emf expression term; _printed: E°_ | 1.0551 V |  | UNKNOWN; _alloy: La 0.204, Pt 0.796_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 9; `ORC-HVL3LLGJS6` |  |
+| emf expression term; _printed: E°_ | 0.3967 V |  | UNKNOWN; _alloy: La 0.491, Pt 0.509_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 28; `ORC-HYABYPWHBI` |  |
+| emf expression term; _printed: E°_ | 1.381 V |  | UNKNOWN; _alloy: La 0.028, Pt 0.972_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 2; `ORC-HZB254ACCC` |  |
+| emf expression term; _printed: E°_ | 0.3376 V |  | UNKNOWN; _alloy: La 0.47, Pt 0.53_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 27; `ORC-KGW5B3C6BR` |  |
+| emf expression term; _printed: E°_ | 1.1479 V |  | UNKNOWN; _alloy: La 0.19, Pt 0.81_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 8; `ORC-KT6HUULO7D` |  |
+| emf expression term; _printed: E°_ | 0.0473 V |  | UNKNOWN; _alloy: La 0.683, Pt 0.317_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 38; `ORC-MFWXJBLFQC` |  |
+| emf expression term; _printed: E°_ | 1.4736 V |  | UNKNOWN; _alloy: La 0.1, Pt 0.9_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 4; `ORC-MJ44S7SQY7` |  |
+| emf expression term; _printed: E°_ | 0.7988 V |  | UNKNOWN; _alloy: La 0.24, Pt 0.76_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 12; `ORC-MP62O7HR7W` |  |
+| emf expression term; _printed: E°_ | 0.0435 V |  | UNKNOWN; _alloy: La 0.85, Pt 0.15_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 39; `ORC-MVWCUQB43B` |  |
+| emf expression term; _printed: E°_ | 1.8263 V |  | UNKNOWN; _alloy: La 0.02, Pt 0.98_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 1; `ORC-NCC4JJU2SV` |  |
+| emf expression term; _printed: E°_ | 1.1552 V |  | UNKNOWN; _alloy: La 0.19, Pt 0.81_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 7; `ORC-O6CSGUPD6N` |  |
+| emf expression term; _printed: E°_ | -0.0152 V |  | UNKNOWN; _alloy: La 0.581, Pt 0.419_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 34; `ORC-PKDUYWNBGU` |  |
+| emf expression term; _printed: E°_ | 0.8286 V |  | UNKNOWN; _alloy: La 0.228, Pt 0.772_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 11; `ORC-PTA4AGBHL7` |  |
+| emf expression term; _printed: E°_ | 0.8632 V |  | UNKNOWN; _alloy: La 0.26, Pt 0.74_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 15; `ORC-S4QF2GYNBY` |  |
+| emf expression term; _printed: E°_ | 1.7389 V |  | UNKNOWN; _alloy: La 0.143, Pt 0.857_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 5; `ORC-TUXN3QLD2B` |  |
+| emf expression term; _printed: E°_ | -0.0052 V |  | UNKNOWN; _alloy: La 0.951, Pt 0.049_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 40; `ORC-U4GWB7AS6I` |  |
+| emf expression term; _printed: E°_ | 0.8282 V |  | UNKNOWN; _alloy: La 0.241, Pt 0.759_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 13; `ORC-UOTVKLQK5A` |  |
+| emf expression term; _printed: E°_ | 0.3712 V |  | UNKNOWN; _alloy: La 0.388, Pt 0.612_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 23; `ORC-WF6DY3ADBV` |  |
+| emf expression term; _printed: E°_ | -0.183 V |  | UNKNOWN; _alloy: La 0.524, Pt 0.476_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 29; `ORC-XBY5NPUQSW` |  |
+| emf expression term; _printed: E°_ | 0.8424 V |  | UNKNOWN; _alloy: La 0.289, Pt 0.711_ | experimental | [1] Reimann 2006 | Table 1, p. 2, row 17; `ORC-XMA775ICKW` |  |
 
 ## Sources
 

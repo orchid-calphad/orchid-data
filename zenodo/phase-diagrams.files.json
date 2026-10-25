@@ -17,7 +17,7 @@
  ],
  "exclude": [],
  "n_files": 2785,
- "total_bytes": 123364919,
+ "total_bytes": 123365042,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -46,8 +46,8 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 24959,
-   "sha256": "fe157813f50f05e0cb428d7bad24556d4f3ecfa5ebd2ad8855e52fa161e28eac"
+   "bytes": 25082,
+   "sha256": "1f024113bbc54dfd13f83b9b982d5c0ec22fba78afb1507c4ccfb7c2a07ea44a"
   },
   {
    "path": "parquet/phase_diagram_index.parquet",

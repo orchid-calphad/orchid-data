@@ -26,7 +26,7 @@ Table: Phases of the Cr–Cu system (4)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-cu:bcc-a2)
 
 Names (9): _corpus: _corpus:phase:cr-cu:bcc-a2  
-_paper: _paper:10.1007/s11106-006-0106-x:(Cr), paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1007/s11106-006-0106-x:(Cr), paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:CrCu-00Jac.tdb:BCC_A2, tdb:CrCu-06Tur.tdb:BCC_A2, tdb:CrCu-17Liu.tdb:BCC_A2, tdb:CrCu-87Sau.tdb:BCC_A2, tdb:CrCu-90Ham.tdb:BCC_A2, tdb:CrCu-95Zen-LB.tdb:BCC_A2  
 
 
@@ -74,7 +74,7 @@ _tdb: _tdb:CrCu-00Jac.tdb:BCC_A2, tdb:CrCu-06Tur.tdb:BCC_A2, tdb:CrCu-17Liu.tdb:
 38: CONST BCC_A2 : CR% CU : VA : !
 ~~~~
 
-Example references (10 of 12; assessments first): 
+Example references (10 of 11; assessments first): 
 
 - [doi:10.1007/s11106-006-0106-x](https://doi.org/10.1007/s11106-006-0106-x) M. A. Turchanin, Phase equilibria and thermodynamics of binary copper systems with 3d-metals. III. Copper-chromium system, Powder Metall Met Ceram 45, 457-467 (2006).  
 _assessment that models this phase; reports values for this phase_
@@ -94,8 +94,8 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1007/bf01389605](https://doi.org/10.1007/bf01389605) V. G. Ivanchenko, O. N. Filatova, Calculation of phase equilibria and thermodynamic properties of alloys of the Cr-Cu system, Powder Metall Met Ceram 35, 167-172 (1996).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
+- [doi:10.1179/026708387790329469](https://doi.org/10.1179/026708387790329469) N. Saunders, “Thermodynamic characterization of copper − chromium system,” Mater. Sci. Technol., 3, No. 8, 671-673 (1987).  
+_cited as the source of values for this phase_
 
 ## FCC_A1 (Cr–Cu)
 
@@ -106,7 +106,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-cu:fcc-a1)
 
 Names (9): _corpus: _corpus:phase:cr-cu:fcc-a1  
-_paper: _paper:10.1007/s11106-006-0106-x:(Cu), paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:10.1007/s11106-006-0106-x:(Cu), paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:CrCu-00Jac.tdb:FCC_A1, tdb:CrCu-06Tur.tdb:FCC_A1, tdb:CrCu-17Liu.tdb:FCC_A1, tdb:CrCu-87Sau.tdb:FCC_A1, tdb:CrCu-90Ham.tdb:FCC_A1, tdb:CrCu-95Zen-LB.tdb:FCC_A1  
 
 
@@ -154,7 +154,7 @@ _tdb: _tdb:CrCu-00Jac.tdb:FCC_A1, tdb:CrCu-06Tur.tdb:FCC_A1, tdb:CrCu-17Liu.tdb:
 33: CONST FCC_A1 : CR CU% : VA : !
 ~~~~
 
-Example references (10 of 12; assessments first): 
+Example references (10 of 11; assessments first): 
 
 - [doi:10.1007/s11106-006-0106-x](https://doi.org/10.1007/s11106-006-0106-x) M. A. Turchanin, Phase equilibria and thermodynamics of binary copper systems with 3d-metals. III. Copper-chromium system, Powder Metall Met Ceram 45, 457-467 (2006).  
 _assessment that models this phase; reports values for this phase_
@@ -174,8 +174,8 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1007/bf01389605](https://doi.org/10.1007/bf01389605) V. G. Ivanchenko, O. N. Filatova, Calculation of phase equilibria and thermodynamic properties of alloys of the Cr-Cu system, Powder Metall Met Ceram 35, 167-172 (1996).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
+- [doi:10.1179/026708387790329469](https://doi.org/10.1179/026708387790329469) N. Saunders, “Thermodynamic characterization of copper − chromium system,” Mater. Sci. Technol., 3, No. 8, 671-673 (1987).  
+_cited as the source of values for this phase_
 
 ## HCP_A3 (Cr–Cu)
 
@@ -257,7 +257,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-cu:liquid)
 
 Names (9): _corpus: _corpus:phase:cr-cu:liquid  
-_paper: _paper:10.1007/s11106-006-0106-x:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1007/s11106-006-0106-x:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:CrCu-00Jac.tdb:LIQUID, tdb:CrCu-06Tur.tdb:LIQUID, tdb:CrCu-17Liu.tdb:LIQUID, tdb:CrCu-87Sau.tdb:LIQUID, tdb:CrCu-90Ham.tdb:LIQUID, tdb:CrCu-95Zen-LB.tdb:LIQUID  
 
 
@@ -305,7 +305,7 @@ _tdb: _tdb:CrCu-00Jac.tdb:LIQUID, tdb:CrCu-06Tur.tdb:LIQUID, tdb:CrCu-17Liu.tdb:
 28: CONST LIQUID:L : CR CU : !
 ~~~~
 
-Example references (10 of 12; assessments first): 
+Example references (10 of 11; assessments first): 
 
 - [doi:10.1007/s11106-006-0106-x](https://doi.org/10.1007/s11106-006-0106-x) M. A. Turchanin, Phase equilibria and thermodynamics of binary copper systems with 3d-metals. III. Copper-chromium system, Powder Metall Met Ceram 45, 457-467 (2006).  
 _assessment that models this phase; reports values for this phase_
@@ -325,8 +325,8 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1007/bf01389605](https://doi.org/10.1007/bf01389605) V. G. Ivanchenko, O. N. Filatova, Calculation of phase equilibria and thermodynamic properties of alloys of the Cr-Cu system, Powder Metall Met Ceram 35, 167-172 (1996).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
+- [doi:10.1179/026708387790329469](https://doi.org/10.1179/026708387790329469) N. Saunders, “Thermodynamic characterization of copper − chromium system,” Mater. Sci. Technol., 3, No. 8, 671-673 (1987).  
+_cited as the source of values for this phase_
 
 ## Please cite
 

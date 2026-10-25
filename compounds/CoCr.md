@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/CoCr.html · Markdown: https://data.orchid-project.org/compounds/CoCr.md
 
-1 accepted literature formation-enthalpy value(s) (model 1); Materials Project 14.816 kJ/mol-atom (mp-aaacfmex); OQMD 15.834 kJ/mol-atom (oqmd-304700).
+1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median 6.77 kJ/mol-atom (n = 1); Materials Project 14.816 kJ/mol-atom (mp-aaacfmex); OQMD 2.922 kJ/mol-atom (oqmd-1484947).
 
 Systems: [Co–Cr](https://data.orchid-project.org/systems/CO-CR.html)
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of CoCr reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 16.597 kJ/mol-atom | B2 | 298.15 | model |  | [Co–Cr](https://data.orchid-project.org/systems/CO-CR.html) | [1] Liu 2016 | Table 4, p. 38, row 9; `ORC-HBJRP77ZUY.723a24` |  |
+| 6.77 kJ/mol-atom | CoCr | 473 | experimental |  | [Co–Cr](https://data.orchid-project.org/systems/CO-CR.html) | [1] Liu 2015; _cites ref. 67_ | p. 9; `ORC-PTULCSFOQW` | “However, Downie and Arslan \[67\] measured the formation enthalpy of one σCoCr sample close to the composition of the end-member σ-(Co)8(Cr)18(Cr)4 at 473 K and found ΔfH = 6.77 kJ/mol-atom.” |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of CoCr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 16.597 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| 6.77 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -35,13 +35,13 @@ Table: DFT formation energy of CoCr
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaacfmex | 14.816 | 0.153561 | Pm-3m | 14.8163 | 0.1536 | yes |
-| OQMD | oqmd-304700 | 15.834 | 0.164112 | Pm-3m | 16.3941 | 0.1699 | yes |
+| OQMD | oqmd-1484947 | 2.922 | 0.030289 | P4/mmm | 3.4822 | 0.0361 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 
 ## Sources
 
-1. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
+1. Xuan L. Liu, Thomas Gheno, Bonnie B. Lindahl, Greta Lindwall, Brian Gleeson, Zi-Kui Liu, First-Principles Calculations, Experimental Study, and Thermodynamic Modeling of the Al-Co-Cr System, PLoS ONE 10, e0121386 (2015). [doi:10.1371/journal.pone.0121386](https://doi.org/10.1371/journal.pone.0121386)
 
 ## Please cite
 

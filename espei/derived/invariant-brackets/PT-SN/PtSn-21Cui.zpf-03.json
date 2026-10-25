@@ -232,7 +232,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Pt3Sn",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -250,7 +250,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Pt3Sn",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -268,7 +268,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> PtSn",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -286,7 +286,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> PtSn",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

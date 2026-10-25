@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of SbYb
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -62 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -64.03 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -64.03 | kJ/mol-atom |  | 0.005 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

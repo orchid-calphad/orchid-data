@@ -1,10 +1,10 @@
 # Er–Sb system
 
-> Er–Sb system: 46 accepted literature values (invariant reaction 30, formation 11, phase transition 4, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Sb system: 42 accepted literature values (invariant reaction 28, formation 11, phase transition 2, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-SB.html · Markdown: https://data.orchid-project.org/systems/ER-SB.md
 
-46 accepted literature values from 2 paper(s) (experimental 27, model 19); 1 calculated phase diagram(s).
+42 accepted literature values from 2 paper(s) (experimental 23, model 19); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-SB.json) · [CSV](https://data.orchid-project.org/systems/ER-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-SB/ErSb-11Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/ER-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-SB.html) · [Markdown](https://data.orchid-project.org/systems/ER-SB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 27 |
+| experimental | 23 |
 | model | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 30 |
-| phase transition | 4 |
+| invariant reaction | 28 |
+| phase transition | 2 |
 | formation | 11 |
 | mixing / partial | 1 |
 
@@ -54,40 +54,38 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Er–Sb system (30)
+Table: Invariant reactions reported in the literature for the Er–Sb system (28)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2313.15 | congruent melting: L -> βErSb | L: Sb 0.5; βErSb: Sb 0.5 | model | [1] Wang 2011 | Table 1, p. 3, row 8; `ORC-2KEF3XWDAL` |  |
 | 2313.15 | congruent melting: L -> βErSb | L: Sb 0.5; βErSb: Sb 0.5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990504-g) | Table 1, p. 3, row 7; `ORC-HXRTN6NP2R` |  |
-| 2313 | liq. -> βErSb | liq.: Er 0.5, Sb 0.5; βErSb: Er 0.5, Sb 0.5 | model | [2] Wang 2011 | Table 4, p. 9, row 5; `ORC-EMUW26U7OW` |  |
-| 2313 | liq. -> βErSb | liq.: Er 0.5, Sb 0.5; βErSb: Er 0.5, Sb 0.5 | experimental | [2] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1017) | Table 4, p. 9, row 6; `ORC-J6BW23EQHK` |  |
+| 2313 | congruent melting: liq. -> βErSb | liq.: Er 0.5, Sb 0.5; βErSb: Er 0.5, Sb 0.5 | model | [2] Wang 2011 | Table 4, p. 9, row 5; `ORC-EMUW26U7OW` |  |
+| 2313 | congruent melting: liq. -> βErSb | liq.: Er 0.5, Sb 0.5; βErSb: Er 0.5, Sb 0.5 | experimental | [2] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1017) | Table 4, p. 9, row 6; `ORC-J6BW23EQHK` |  |
 | 2083.25 | polymorphic: αErSb -> βErSb | αErSb: Er 0.5, Sb 0.5; βErSb: Sb 0.5 | model | [1] Wang 2011 | Table 1, p. 3, row 6; `ORC-XUL3IJZAYN` |  |
 | 2083.15 | polymorphic: αErSb -> βErSb | αErSb: Er 0.5, Sb 0.5; βErSb: Sb 0.5 | experimental | [1] Wang 2011; _cites Abdusalyamova 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990504-g) | Table 1, p. 3, row 5; `ORC-TZGKTMDGEO` |  |
-| 2083 | αErSb -> βErSb | αErSb: Er 0.5, Sb 0.5; βErSb: Er 0.5, Sb 0.5 | experimental | [2] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1017) | Table 4, p. 9, row 12; `ORC-2L6YOMHJHR` |  |
-| 2083 | αErSb -> βErSb | αErSb: Er 0.5, Sb 0.5; βErSb: Er 0.5, Sb 0.5 | model | [2] Wang 2011 | Table 4, p. 9, row 11; `ORC-YU6WNUIJKW` |  |
+| 2083 | polymorphic: αErSb -> βErSb | αErSb: Er 0.5, Sb 0.5; βErSb: Er 0.5, Sb 0.5 | experimental | [2] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1017) | Table 4, p. 9, row 12; `ORC-2L6YOMHJHR` |  |
+| 2083 | polymorphic: αErSb -> βErSb | αErSb: Er 0.5, Sb 0.5; βErSb: Er 0.5, Sb 0.5 | model | [2] Wang 2011 | Table 4, p. 9, row 11; `ORC-YU6WNUIJKW` |  |
 | 1913.15 | peritectic: L + αErSb -> Er5Sb3 | αErSb: Sb 0.5; Er5Sb3: Sb 0.375 | experimental | [1] Wang 2011; _cites Abdusalyamova 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990504-g) | Table 1, p. 3, row 3; `ORC-HOKARMQTUY` |  |
 | 1913.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990504-g) | p. 1; `ORC-PVYOTEU74C.fa1ca3` | “Later, based on thermal, microstructural, and X-ray diffraction analysis, Abdusalyamova \[6\] investigated the phase diagram in the Er-Sb system, and reported three stoichiometric compounds: Er5 Sb3 (peritectic formation at 1640 °C), ErSb (melting point 2040 °C), and ErSb2 (peritectic formation at 650 °C).” |
-| 1913 | peritectic |  | experimental | [2] Wang 2011; _cites Abdusalyamova 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900581-2) | p. 2; `ORC-67YCT3NRTW.9267c8` | “Until 2000, the first complete phase diagram of the Er-Sb system was constructed by Abdusalyamova and Rachmator \[25\], in which Er5 Sb3 and ErSb2 are formed by the peritectic reactions at 1913 and 923 K respectively, and ErSb melts congruently at 2313 K.” |
 | 1913 | liq. + αErSb -> Er5Sb3 | liq.: Sb 0.3005; αErSb: Er 0.5, Sb 0.5; Er5Sb3: Er 0.625, Sb 0.375 | model | [2] Wang 2011 | Table 4, p. 9, row 3; `ORC-UFUJFNKFLB` |  |
 | 1913 | liq. + αErSb -> Er5Sb3 | αErSb: Er 0.5, Sb 0.5; Er5Sb3: Er 0.625, Sb 0.375 | experimental | [2] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1017) | Table 4, p. 9, row 4; `ORC-V7XJI2YTN2` |  |
 | 1912.95 | peritectic: L + αErSb -> Er5Sb3 | L: Sb 0.299; αErSb: Sb 0.5; Er5Sb3: Sb 0.375 | model | [1] Wang 2011 | Table 1, p. 3, row 4; `ORC-3F45TCMV66` |  |
 | 1443.25 | eutectic: L -> (Er) + Er5Sb3 | L: Sb 0.132; (Er): Sb 0.014; Er5Sb3: Sb 0.25 | model | [1] Wang 2011 | Table 1, p. 3, row 2; `ORC-GZFZB2TAH3` |  |
 | 1443.15 | eutectic: L -> (Er) + Er5Sb3 | L: Sb 0.155; Er5Sb3: Sb 0.25 | experimental | [1] Wang 2011; _cites Abdusalyamova 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900581-2) | Table 1, p. 3, row 1; `ORC-75XUOE7TMB` |  |
-| 1443 | liq. -> hcp + Er5Sb3 | liq.: Sb 0.1396; hcp: Sb 0.0242; Er5Sb3: Er 0.625, Sb 0.375 | model | [2] Wang 2011 | Table 4, p. 9, row 1; `ORC-PDNKOC3A55` |  |
-| 1443 | liq. -> hcp + Er5Sb3 | liq.: Sb 0.155; Er5Sb3: Er 0.625, Sb 0.375 | experimental | [2] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1017) | Table 4, p. 9, row 2; `ORC-X4RA3F3KG4` |  |
+| 1443 | eutectic: liq. -> hcp + Er5Sb3 | liq.: Sb 0.1396; hcp: Sb 0.0242; Er5Sb3: Er 0.625, Sb 0.375 | model | [2] Wang 2011 | Table 4, p. 9, row 1; `ORC-PDNKOC3A55` |  |
+| 1443 | eutectic: liq. -> hcp + Er5Sb3 | liq.: Sb 0.155; Er5Sb3: Er 0.625, Sb 0.375 | experimental | [2] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1017) | Table 4, p. 9, row 2; `ORC-X4RA3F3KG4` |  |
 | 923.15 | peritectic: L + αErSb -> ErSb2 | αErSb: Sb 0.5; ErSb2: Sb 0.667 | experimental | [1] Wang 2011; _cites Abdusalyamova 1988_ | Table 1, p. 3, row 9; `ORC-4HYAUTCGEQ` |  |
 | 923.15 | peritectic: L + αErSb -> ErSb2 | L: Sb 0.987; αErSb: Sb 0.5; ErSb2: Sb 0.667 | model | [1] Wang 2011 | Table 1, p. 3, row 10; `ORC-GOODFMQHGN` |  |
 | 923.15 | peritectic |  | experimental | [1] Wang 2011; _cites Abdusalyamova 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990504-g) | p. 1; `ORC-PVYOTEU74C.63730c` | “Later, based on thermal, microstructural, and X-ray diffraction analysis, Abdusalyamova \[6\] investigated the phase diagram in the Er-Sb system, and reported three stoichiometric compounds: Er5 Sb3 (peritectic formation at 1640 °C), ErSb (melting point 2040 °C), and ErSb2 (peritectic formation at 650 °C).” |
-| 923 | peritectic |  | experimental | [2] Wang 2011; _cites Abdusalyamova 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900581-2) | p. 2; `ORC-67YCT3NRTW.c6eb76` | “Until 2000, the first complete phase diagram of the Er-Sb system was constructed by Abdusalyamova and Rachmator \[25\], in which Er5 Sb3 and ErSb2 are formed by the peritectic reactions at 1913 and 923 K respectively, and ErSb melts congruently at 2313 K.” |
 | 923 | liq. + αErSb -> ErSb2 | liq.: Sb 0.9627; αErSb: Er 0.5, Sb 0.5; ErSb2: Er 0.333333, Sb 0.666667 | model | [2] Wang 2011 | Table 4, p. 9, row 7; `ORC-SFJ3WDHJQO` |  |
 | 923 | liq. + αErSb -> ErSb2 | liq.: Sb 0.976; αErSb: Er 0.5, Sb 0.5; ErSb2: Er 0.333333, Sb 0.666667 | experimental | [2] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1017) | Table 4, p. 9, row 8; `ORC-YFWGEMIKZ7` |  |
 | 903.15 | eutectic: L -> ErSb2 + (Sb) | ErSb2: Sb 0.667; (Sb): Sb 1 | experimental | [1] Wang 2011; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02667317) | Table 1, p. 3, row 11; `ORC-H3FTBNGCQD` |  |
 | 900.15 | eutectic: L -> ErSb2 + (Sb) | L: Sb 0.99; ErSb2: Sb 0.667; (Sb): Sb 1 | model | [1] Wang 2011 | Table 1, p. 3, row 14; `ORC-H5P4CFEK5V` |  |
 | 898.15 | eutectic: L -> ErSb2 + (Sb) | L: Sb 0.99; ErSb2: Sb 0.667; (Sb): Sb 1 | experimental | [1] Wang 2011; _cites Abdusalyamova 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900581-2) | Table 1, p. 3, row 12; `ORC-ZVVLCOCCMD` |  |
 | 893.15 | eutectic: L -> ErSb2 + (Sb) | L: Sb 0.994; ErSb2: Sb 0.667; (Sb): Sb 1 | experimental | [1] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1016) | Table 1, p. 3, row 13; `ORC-PNWIVDPJG5` |  |
-| 893 | liq. -> ErSb2 + rhom | liq.: Sb 0.9728; ErSb2: Er 0.333333, Sb 0.666667 | model | [2] Wang 2011 | Table 4, p. 9, row 9; `ORC-6WWBWJL7ZT` |  |
-| 893 | liq. -> ErSb2 + rhom | liq.: Sb 0.994; ErSb2: Er 0.333333, Sb 0.666667 | experimental | [2] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1017) | Table 4, p. 9, row 10; `ORC-ZUNVDGCBMW` |  |
+| 893 | eutectic: liq. -> ErSb2 + rhom | liq.: Sb 0.9728; ErSb2: Er 0.333333, Sb 0.666667 | model | [2] Wang 2011 | Table 4, p. 9, row 9; `ORC-6WWBWJL7ZT` |  |
+| 893 | eutectic: liq. -> ErSb2 + rhom | liq.: Sb 0.994; ErSb2: Er 0.333333, Sb 0.666667 | experimental | [2] Wang 2011; _cites Abdusalyamova 2002_ [doi](https://doi.org/10.1515/zna-2002-9-1017) | Table 4, p. 9, row 10; `ORC-ZUNVDGCBMW` |  |
 
 ## Formation enthalpies
 
@@ -106,15 +104,13 @@ Table: Enthalpies of formation, Er–Sb system (6)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (2)
 
 Table: Phase transition, Er–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 923.15 K | 923.15 | ErSb2 | experimental | [1] Wang 2011; _cites Abdusalyamova 1988_ | p. 1; `ORC-WA3GXQM5KW` | “Abdusalyamova et al. \[5\] were the first to report incongruent melting of the ErSb2 phase at 650 °C by means of differential thermal analysis (DTA).” |
-| Phase transition | 2083.15 K | 2083.15 | polymorphic: α ErSb ↔ β ErSb | experimental | [1] Wang 2011; _cites Abdusalyamova 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990504-g) | p. 1; `ORC-EBKQASSLOE` | “A reversible polymorphic transition (α ErSb ↔ β ErSb at 1810 °C) was observed by Abdusalyamova \[6\].” |
-| Phase transition | 2313 K | 2313 | congruent transformation | experimental | [2] Wang 2011; _cites Abdusalyamova 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900581-2) | p. 2; `ORC-67YCT3NRTW.69c24b` | “Until 2000, the first complete phase diagram of the Er-Sb system was constructed by Abdusalyamova and Rachmator \[25\], in which Er5 Sb3 and ErSb2 are formed by the peritectic reactions at 1913 and 923 K respectively, and ErSb melts congruently at 2313 K.” |
 | Phase transition | 2313.15 K | 2313.15 | ErSb | experimental | [1] Wang 2011; _cites Abdusalyamova 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990504-g) | p. 1; `ORC-PVYOTEU74C.1eae94` | “Later, based on thermal, microstructural, and X-ray diffraction analysis, Abdusalyamova \[6\] investigated the phase diagram in the Er-Sb system, and reported three stoichiometric compounds: Er5 Sb3 (peritectic formation at 1640 °C), ErSb (melting point 2040 °C), and ErSb2 (peritectic formation at 650 °C).” |
 
 ### Formation (5)

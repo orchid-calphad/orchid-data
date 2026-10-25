@@ -1,10 +1,10 @@
 # Nb–Si–Ti system
 
-> Nb–Si–Ti system: 20 accepted literature values (invariant reaction 13, phase equilibrium 4, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Si–Ti system: 17 accepted literature values (invariant reaction 13, phase equilibrium 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-SI-TI.html · Markdown: https://data.orchid-project.org/systems/NB-SI-TI.md
 
-20 accepted literature values from 1 paper(s) (experimental 5, model 2, unspecified 13); 0 calculated phase diagram(s).
+17 accepted literature values from 1 paper(s) (experimental 4, unspecified 13); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-SI-TI.json) · [CSV](https://data.orchid-project.org/systems/NB-SI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-SI-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-SI-TI.html) · [Markdown](https://data.orchid-project.org/systems/NB-SI-TI.md)
 
@@ -12,8 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
-| model | 2 |
+| experimental | 4 |
 | unspecified | 13 |
 
 Table: Accepted values by property group
@@ -21,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 13 |
-| phase transition | 3 |
 | phase equilibrium | 4 |
 
 ## Invariant reactions (literature)
@@ -45,16 +43,6 @@ Table: Invariant reactions reported in the literature for the Nb–Si–Ti syste
 | 1610.15 | quasi-peritectic: L + Nb(Ti)Si2 -> Si + Ti(Nb)Si2 | L: Nb 0.02, Si 0.821, Ti 0.159 | unspecified | [1] Geng 2009 | Table 4, p. 8, row 5; `ORC-PRQEH76NFA` |  |
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Nb–Si–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1919.15 K | 1919.15 |  | model | [1] Geng 2009 | p. 11; `ORC-RB4X3VVOZM.ac0951` | “The calculated melting temperature 1646 C is approximate to the estimated experimental value 1704 C.” |
-| Phase transition | 1977.15 K | 1977.15 |  | experimental | [1] Geng 2009 | p. 11; `ORC-RB4X3VVOZM.937938` | “The calculated melting temperature 1646 C is approximate to the estimated experimental value 1704 C.” |
-| Phase transition | 2278.15 K | 2278.15 |  | model | [1] Geng 2009 | p. 11; `ORC-JBY4RWIJXX` | “The measured melting temperature for this alloy is higher than 1905 C and the calculation shows this temperature to be 2005 C.” |
 
 ### Phase equilibrium (4)
 

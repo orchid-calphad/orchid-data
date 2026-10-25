@@ -1,10 +1,10 @@
 # U–V system
 
-> U–V system: 28 accepted literature values (phase transition 10, phase equilibrium 10, invariant reaction 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> U–V system: 26 accepted literature values (phase equilibrium 10, phase transition 9, invariant reaction 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/U-V.html · Markdown: https://data.orchid-project.org/systems/U-V.md
 
-28 accepted literature values from 1 paper(s) (experimental 25, model 3); 1 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (experimental 23, model 3); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/U-V.json) · [CSV](https://data.orchid-project.org/systems/U-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#U-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#U-V/UV-11Ber.json) · [phases (6)](https://data.orchid-project.org/phases/pages/U-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/U-V.html) · [Markdown](https://data.orchid-project.org/systems/U-V.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
+| experimental | 23 |
 | model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
-| phase transition | 10 |
+| invariant reaction | 7 |
+| phase transition | 9 |
 | phase equilibrium | 10 |
 
 ## Calculated phase diagrams
@@ -45,12 +45,11 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the U–V system (8)
+Table: Invariant reactions reported in the literature for the U–V system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1323 | (Liquid = bcc-U + bcc-V) |  | experimental | [1] Berche 2011 | Table 1, p. 2, row 3; `ORC-DFVXC3ZSXM` |  |
-| 1322 | eutectic: liquid = bcc-U + bcc-V |  | experimental | [1] Berche 2011 | p. 4; `ORC-BYV6YL5VDC` | “The temperature of the eutectic reaction (liquid = bcc-U + bcc-V) (during cooling) is measured at temperature of 1322 ± 12 K.” |
 | 1315 | (Liquid = bcc-U + bcc-V) | bcc-U: V 0.115; bcc-V: V 0.95; Liquid: V 0.163 | model | [1] Berche 2011 | Table 1, p. 2, row 4; `ORC-BEWWEDEVGD` |  |
 | 1313 | (Liquid = bcc-U + bcc-V) | bcc-U: V 0.12; bcc-V: V 0.96; Liquid: V 0.18 | experimental | [1] Berche 2011; _cites Saller 1953_ | Table 1, p. 2, row 1; `ORC-NDZ3Z2KD3G` |  |
 | 1000 | (Bcc-U = tetra-U + bcc-V) | Bcc-U: V 0.09; tetra-U: V 0.03 | experimental | [1] Berche 2011; _cites Saller 1953_ | Table 1, p. 2, row 5; `ORC-YBTA2GQJPJ` |  |
@@ -60,13 +59,12 @@ Table: Invariant reactions reported in the literature for the U–V system (8)
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (9)
 
 Table: Phase transition, U–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1313 K | 1313 | liquid = bcc-U + bcc-V | experimental | [1] Berche 2011; _cites Saller 1953_ | p. 4; `ORC-YTCEWIOL7A` | “This value is in good agreement with the value T = 1313 ± 5 K reported by Saller et al. \[4\].” |
 | Phase transition | 1317.7 K | 1317.7 | eutectic: U25–V75; _alloy: U 0.249, V 0.751_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 17; `ORC-BKNABKXTFV` |  |
 | Phase transition | 1319.9 K | 1319.9 | eutectic: U82–V18; _alloy: U 0.819, V 0.181_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 5; `ORC-XL6QXHXEH3` |  |
 | Phase transition | 1320.9 K | 1320.9 | eutectic: U50–V50; _alloy: U 0.495, V 0.505_ | experimental | [1] Berche 2011 | Table 2, p. 4, row 13; `ORC-7RMF3CHITB` |  |

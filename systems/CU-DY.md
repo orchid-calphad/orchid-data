@@ -1,10 +1,10 @@
 # Cu–Dy system
 
-> Cu–Dy system: 115 accepted literature values (invariant reaction 56, crystal structure 39, formation 11, phase transition 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Dy system: 109 accepted literature values (invariant reaction 50, crystal structure 39, formation 11, phase transition 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-DY.html · Markdown: https://data.orchid-project.org/systems/CU-DY.md
 
-115 accepted literature values from 2 paper(s) (experimental 71, model 26, DFT 18); 2 calculated phase diagram(s).
+109 accepted literature values from 2 paper(s) (experimental 65, model 26, DFT 18); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-DY.json) · [CSV](https://data.orchid-project.org/systems/CU-DY.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-DY) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-DY/CuDy-09Pal.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CU-DY.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-DY.html) · [Markdown](https://data.orchid-project.org/systems/CU-DY.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 71 |
+| experimental | 65 |
 | model | 26 |
 | DFT | 18 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 56 |
+| invariant reaction | 50 |
 | phase transition | 9 |
 | formation | 11 |
 | crystal structure | 39 |
@@ -98,18 +98,18 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Dy system (56)
+Table: Invariant reactions reported in the literature for the Cu–Dy system (50)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1243 | liquid -> Cu9Dy2 | Cu9Dy2: Dy 0.182; liquid: Dy 0.182 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 12; `ORC-MT2FODR5MJ` |  |
-| 1242 | liquid -> Cu9Dy2 | Cu9Dy2: Dy 0.182; liquid: Dy 0.182 | model | [1] Palumbo 2009 | Table 3, p. 5, row 11; `ORC-UCATDCD4EC` |  |
+| 1243 | congruent melting: liquid -> Cu9Dy2 | Cu9Dy2: Dy 0.182; liquid: Dy 0.182 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 12; `ORC-MT2FODR5MJ` |  |
+| 1242 | congruent melting: liquid -> Cu9Dy2 | Cu9Dy2: Dy 0.182; liquid: Dy 0.182 | model | [1] Palumbo 2009 | Table 3, p. 5, row 11; `ORC-UCATDCD4EC` |  |
 | 1238 | liquid + Cu9Dy2 -> Cu5Dy | Cu9Dy2: Dy 0.182; Cu5Dy: Dy 0.167; liquid: Dy 0.162 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 10; `ORC-JUTVDA7GKE` |  |
 | 1238 | peritectic: L + Cu9Dy2 ↔ Cu5Dy.L | L: Dy 0.162; Cu9Dy2: Dy 0.182; Cu5Dy.L: Dy 0.083 | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 3, row 10; `ORC-L6A3XGPZHK` |  |
 | 1236 | liquid + Cu9Dy2 -> Cu5Dy | Cu9Dy2: Dy 0.182; Cu5Dy: Dy 0.167; liquid: Dy 0.162 | model | [1] Palumbo 2009 | Table 3, p. 5, row 9; `ORC-5LISXH2IMI` |  |
 | 1235 | peritectic: L + Cu9Dy2 ↔ Cu5Dy.L | L: Dy 0.156; Cu9Dy2: Dy 0.182; Cu5Dy.L: Dy 0.083 | model | [2] Zhang 2009 | Table 3, p. 3, row 9; `ORC-55BWHL7QJJ` |  |
-| 1228 | liquid -> CuDy | CuDy: Dy 0.5; liquid: Dy 0.5 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 24; `ORC-4FTAKVFKOZ` |  |
-| 1227 | liquid -> CuDy | CuDy: Dy 0.5; liquid: Dy 0.5 | model | [1] Palumbo 2009 | Table 3, p. 5, row 23; `ORC-65XSBPJ32H` |  |
+| 1228 | congruent melting: liquid -> CuDy | CuDy: Dy 0.5; liquid: Dy 0.5 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 24; `ORC-4FTAKVFKOZ` |  |
+| 1227 | congruent melting: liquid -> CuDy | CuDy: Dy 0.5; liquid: Dy 0.5 | model | [1] Palumbo 2009 | Table 3, p. 5, row 23; `ORC-65XSBPJ32H` |  |
 | 1208 | liquid + Cu9Dy2 -> Cu7Dy2 | Cu9Dy2: Dy 0.182; Cu7Dy2: Dy 0.222; liquid: Dy 0.231 | model | [1] Palumbo 2009 | Table 3, p. 5, row 13; `ORC-UPCFFOPWA6` |  |
 | 1178 | liquid + Cu9Dy2 -> Cu7Dy2 | Cu9Dy2: Dy 0.182; Cu7Dy2: Dy 0.222; liquid: Dy 0.258 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 14; `ORC-2PSFT42JAF` |  |
 | 1178 | peritectic: L + Cu9Dy2 ↔ Cu7Dy2 | Cu9Dy2: Dy 0.182; Cu7Dy2: Dy 0.222 | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 3, row 16; `ORC-QNCLJZSGZL` |  |
@@ -117,46 +117,40 @@ Table: Invariant reactions reported in the literature for the Cu–Dy system (56
 | 1172 | peritectic: L + Cu9Dy2 ↔ Cu7Dy2 | L: Dy 0.258; Cu9Dy2: Dy 0.182; Cu7Dy2: Dy 0.222 | model | [2] Zhang 2009 | Table 3, p. 3, row 15; `ORC-ZNHLCXVRKJ` |  |
 | 1165 | peritectic: L + Cu5Dy.L ↔ Cu7Dy | Cu5Dy.L: Dy 0.083; Cu7Dy: Dy 0.125 | experimental | [2] Zhang 2009; _cites Cheng 1982_ | Table 3, p. 3, row 4; `ORC-BRNAAKDJAY` |  |
 | 1165 | liquid + Cu5Dy -> Cu7Dy | Cu5Dy: Dy 0.167; Cu7Dy: Dy 0.125; liquid: Dy 0.102 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 4; `ORC-MS3FGGHHFY` |  |
-| 1163 | liquid -> Cu2Dy | Cu2Dy: Dy 0.333; liquid: Dy 0.333 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 20; `ORC-CRILC3KA5M` |  |
+| 1163 | congruent melting: liquid -> Cu2Dy | Cu2Dy: Dy 0.333; liquid: Dy 0.333 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 20; `ORC-CRILC3KA5M` |  |
 | 1157 | eutectic: L ↔ Fcc + Cu7Dy | L: Dy 0.088; Fcc: Dy 0; Cu7Dy: Dy 0.125 | model | [2] Zhang 2009 | Table 3, p. 3, row 1; `ORC-PAEYUIA46Y` |  |
-| 1156 | liquid -> Cu2Dy | Cu2Dy: Dy 0.333; liquid: Dy 0.333 | model | [1] Palumbo 2009 | Table 3, p. 5, row 19; `ORC-PX7KWH47JA` |  |
+| 1156 | congruent melting: liquid -> Cu2Dy | Cu2Dy: Dy 0.333; liquid: Dy 0.333 | model | [1] Palumbo 2009 | Table 3, p. 5, row 19; `ORC-PX7KWH47JA` |  |
 | 1153 | eutectic: L ↔ Fcc + Cu7Dy | L: Dy 0.074; Fcc: Dy 0; Cu7Dy: Dy 0.125 | experimental | [2] Zhang 2009; _cites Cheng 1982_ | Table 3, p. 3, row 2; `ORC-LC53Q6V3UG` |  |
 | 1138 | eutectic: L ↔ Cu9Dy2 + Cu2Dy | Cu9Dy2: Dy 0.182; Cu2Dy: Dy 0.333 | experimental | [2] Zhang 2009; _cites Cheng 1982_ | Table 3, p. 3, row 21; `ORC-J6HCN2B46U` |  |
 | 1134 | liquid + Cu5Dy -> Cu7Dy | Cu5Dy: Dy 0.167; Cu7Dy: Dy 0.125; liquid: Dy 0.09 | model | [1] Palumbo 2009 | Table 3, p. 5, row 3; `ORC-NFXBFPEKGC` |  |
 | 1133 | liquid + Cu5Dy -> Cu7Dy | Cu5Dy: Dy 0.167; Cu7Dy: Dy 0.125; liquid: Dy 0.102 | experimental | [1] Palumbo 2009; _cites Cheng 1982_ | Table 3, p. 5, row 5; `ORC-4X55SKTOTU` |  |
 | 1133 | peritectic: L + Cu5Dy.L ↔ Cu7Dy | L: Dy 0.102; Cu5Dy.L: Dy 0.083; Cu7Dy: Dy 0.125 | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 3, row 5; `ORC-EURYJMW5LX` |  |
 | 1131 | metatectic/catatectic: Cu7Dy2 ↔ L + Cu9Dy2 | Cu7Dy2: Dy 0.222; L: Dy 0.278; Cu9Dy2: Dy 0.182 | model | [2] Zhang 2009 | Table 3, p. 3, row 17; `ORC-6BSZDW4UXE` |  |
-| 1128.15 | eutectic: eutectic |  | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | p. 2; `ORC-CJQCDMOMHP.19517e` | “Franceschi \[13\] also found four eutectics: Cu-Cu7 Dy (855 ◦ C, 10 at.% Dy), Cu9 Dy2 -Cu2 Dy (845 ◦ C, 29 at.% Dy), Cu2 Dy-CuDy (840 ◦ C, 39.5 at.% Dy), CuDy-Dy (790 ◦ C, 70 at.% Dy).” |
 | 1128 | Cu7Dy2 -> liquid + Cu9Dy2 | Cu7Dy2: Dy 0.222; Cu9Dy2: Dy 0.182; liquid: Dy 0.287 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 16; `ORC-65GWUOVURX` |  |
 | 1128 | metatectic/catatectic: Cu7Dy2 ↔ L + Cu9Dy2 | Cu7Dy2: Dy 0.222; Cu9Dy2: Dy 0.182 | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 3, row 18; `ORC-DXV2XBIF2I` |  |
-| 1128 | liquid -> Cu fcc + Cu7Dy | Cu fcc: Dy 0; Cu7Dy: Dy 0.125; liquid: Dy 0.1 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 2; `ORC-SYLELY6QYX` |  |
+| 1128 | eutectic: liquid -> Cu fcc + Cu7Dy | Cu fcc: Dy 0; Cu7Dy: Dy 0.125; liquid: Dy 0.1 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 2; `ORC-SYLELY6QYX` |  |
 | 1127 | Cu7Dy2 -> liquid + Cu9Dy2 | Cu7Dy2: Dy 0.222; Cu9Dy2: Dy 0.182; liquid: Dy 0.276 | model | [1] Palumbo 2009 | Table 3, p. 5, row 15; `ORC-TVCUDS4ART` |  |
-| 1126 | liquid -> Cu fcc + Cu7Dy | Cu fcc: Dy 0; Cu7Dy: Dy 0.125; liquid: Dy 0.085 | model | [1] Palumbo 2009 | Table 3, p. 5, row 1; `ORC-OOFG32TAO7` |  |
+| 1126 | eutectic: liquid -> Cu fcc + Cu7Dy | Cu fcc: Dy 0; Cu7Dy: Dy 0.125; liquid: Dy 0.085 | model | [1] Palumbo 2009 | Table 3, p. 5, row 1; `ORC-OOFG32TAO7` |  |
 | 1123 | eutectic: L ↔ Cu9Dy2 + Cu2Dy | L: Dy 0.282; Cu9Dy2: Dy 0.182; Cu2Dy: Dy 0.333 | model | [2] Zhang 2009 | Table 3, p. 3, row 19; `ORC-ZK3UESFCRR` |  |
 | 1121 | eutectoid: Cu7Dy ↔ Fcc + Cu5Dy.L | Cu7Dy: Dy 0.125; Fcc: Dy 0; Cu5Dy.L: Dy 0.083 | experimental | [2] Zhang 2009; _cites Cheng 1982_ | Table 3, p. 3, row 8; `ORC-2YZFVTKP5I` |  |
-| 1121 | liquid -> Cu2Dy + CuDy | Cu2Dy: Dy 0.333; CuDy: Dy 0.5; liquid: Dy 0.391 | model | [1] Palumbo 2009 | Table 3, p. 5, row 21; `ORC-BAWGNIOGVX` |  |
+| 1121 | eutectic: liquid -> Cu2Dy + CuDy | Cu2Dy: Dy 0.333; CuDy: Dy 0.5; liquid: Dy 0.391 | model | [1] Palumbo 2009 | Table 3, p. 5, row 21; `ORC-BAWGNIOGVX` |  |
 | 1121 | Cu7Dy -> Cu fcc + Cu5Dy | Cu7Dy: Dy 0.125; Cu fcc: Dy 0; Cu5Dy: Dy 0.167 | experimental | [1] Palumbo 2009; _cites Cheng 1982_ | Table 3, p. 5, row 8; `ORC-VYC63ANMJ3` |  |
-| 1120 | liquid -> Cu9Dy2 + Cu2Dy | Cu9Dy2: Dy 0.182; Cu2Dy: Dy 0.333; liquid: Dy 0.278 | model | [1] Palumbo 2009 | Table 3, p. 5, row 17; `ORC-36I3D3D4VM` |  |
+| 1120 | eutectic: liquid -> Cu9Dy2 + Cu2Dy | Cu9Dy2: Dy 0.182; Cu2Dy: Dy 0.333; liquid: Dy 0.278 | model | [1] Palumbo 2009 | Table 3, p. 5, row 17; `ORC-36I3D3D4VM` |  |
 | 1120 | eutectic: L ↔ Cu2Dy + CuDy | L: Dy 0.39; Cu2Dy: Dy 0.333; CuDy: Dy 0.5 | model | [2] Zhang 2009 | Table 3, p. 3, row 24; `ORC-GLKYJDOVQJ` |  |
-| 1118.15 | eutectic: eutectic |  | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | p. 2; `ORC-CJQCDMOMHP.e5f13e` | “Franceschi \[13\] also found four eutectics: Cu-Cu7 Dy (855 ◦ C, 10 at.% Dy), Cu9 Dy2 -Cu2 Dy (845 ◦ C, 29 at.% Dy), Cu2 Dy-CuDy (840 ◦ C, 39.5 at.% Dy), CuDy-Dy (790 ◦ C, 70 at.% Dy).” |
 | 1118 | eutectic: L ↔ Cu9Dy2 + Cu2Dy | L: Dy 0.29; Cu9Dy2: Dy 0.182; Cu2Dy: Dy 0.333 | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 3, row 20; `ORC-M5BMLBFA6A` |  |
-| 1118 | liquid -> Cu9Dy2 + Cu2Dy | Cu9Dy2: Dy 0.182; Cu2Dy: Dy 0.333; liquid: Dy 0.29 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 18; `ORC-UCI5OXBKHF` |  |
-| 1113.15 | eutectic: eutectic |  | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | p. 2; `ORC-CJQCDMOMHP.9bd648` | “Franceschi \[13\] also found four eutectics: Cu-Cu7 Dy (855 ◦ C, 10 at.% Dy), Cu9 Dy2 -Cu2 Dy (845 ◦ C, 29 at.% Dy), Cu2 Dy-CuDy (840 ◦ C, 39.5 at.% Dy), CuDy-Dy (790 ◦ C, 70 at.% Dy).” |
+| 1118 | eutectic: liquid -> Cu9Dy2 + Cu2Dy | Cu9Dy2: Dy 0.182; Cu2Dy: Dy 0.333; liquid: Dy 0.29 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 18; `ORC-UCI5OXBKHF` |  |
 | 1113 | eutectic: L ↔ Cu2Dy + CuDy | Cu2Dy: Dy 0.333; CuDy: Dy 0.5 | experimental | [2] Zhang 2009; _cites Cheng 1982_ | Table 3, p. 3, row 26; `ORC-A5GXLL43TI` |  |
 | 1113 | eutectic: L ↔ Cu2Dy + CuDy | L: Dy 0.395; Cu2Dy: Dy 0.333; CuDy: Dy 0.5 | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 3, row 25; `ORC-BUEOC6LP6K` |  |
-| 1113 | liquid -> Cu2Dy + CuDy | Cu2Dy: Dy 0.333; CuDy: Dy 0.5; liquid: Dy 0.395 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 22; `ORC-SACNNMGHPQ` |  |
+| 1113 | eutectic: liquid -> Cu2Dy + CuDy | Cu2Dy: Dy 0.333; CuDy: Dy 0.5; liquid: Dy 0.395 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 22; `ORC-SACNNMGHPQ` |  |
 | 1081 | eutectic: L ↔ CuDy + Bcc | L: Dy 0.741; CuDy: Dy 0.5 | experimental | [2] Zhang 2009; _cites Cheng 1982_ | Table 3, p. 3, row 31; `ORC-KQAKBYBTAV` |  |
-| 1063.15 | eutectic: eutectic |  | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | p. 2; `ORC-CJQCDMOMHP.dee998` | “Franceschi \[13\] also found four eutectics: Cu-Cu7 Dy (855 ◦ C, 10 at.% Dy), Cu9 Dy2 -Cu2 Dy (845 ◦ C, 29 at.% Dy), Cu2 Dy-CuDy (840 ◦ C, 39.5 at.% Dy), CuDy-Dy (790 ◦ C, 70 at.% Dy).” |
 | 1063 | eutectic: L ↔ CuDy + Bcc | L: Dy 0.654; CuDy: Dy 0.5; Bcc: Dy 0.775 | model | [2] Zhang 2009 | Table 3, p. 3, row 29; `ORC-HC3KTPBCLC` |  |
 | 1063 | eutectic: L ↔ CuDy + Bcc | L: Dy 0.7; CuDy: Dy 0.5 | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 3, row 30; `ORC-ICNRH4FV3K` |  |
-| 1063 | eutectic |  | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | p. 1; `ORC-LS3T3EMXRK.abe3ea` | “They found a lower value (1048 K) for the eutectic temperature between liquid, CuDy and hcp Dy with respect to Franceschi (1063 K).” |
-| 1063 | liquid -> CuDy + Dy bcc | CuDy: Dy 0.5; Dy bcc: Dy 1; liquid: Dy 0.7 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 26; `ORC-UQBQD6CQWH` |  |
+| 1063 | eutectic: liquid -> CuDy + Dy bcc | CuDy: Dy 0.5; Dy bcc: Dy 1; liquid: Dy 0.7 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 26; `ORC-UQBQD6CQWH` |  |
 | 1054 | eutectoid: Cu7Dy ↔ Fcc + Cu5Dy.L | Cu7Dy: Dy 0.125; Fcc: Dy 0; Cu5Dy.L: Dy 0.083 | model | [2] Zhang 2009 | Table 3, p. 3, row 6; `ORC-DWE4PNTZDM` |  |
 | 1048 | eutectoid: Cu7Dy ↔ Fcc + Cu5Dy.L | Cu7Dy: Dy 0.125; Fcc: Dy 0; Cu5Dy.L: Dy 0.083 | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 3, row 7; `ORC-7H7W54MND4` |  |
 | 1048 | Cu7Dy -> Cu fcc + Cu5Dy | Cu7Dy: Dy 0.125; Cu fcc: Dy 0; Cu5Dy: Dy 0.167 | model | [1] Palumbo 2009 | Table 3, p. 5, row 6; `ORC-D6FSZSKN2S` |  |
-| 1048 | eutectic |  | experimental | [1] Palumbo 2009; _cites Copeland 1964_ | p. 1; `ORC-LS3T3EMXRK.a34286` | “They found a lower value (1048 K) for the eutectic temperature between liquid, CuDy and hcp Dy with respect to Franceschi (1063 K).” |
 | 1048 | Cu7Dy -> Cu fcc + Cu5Dy | Cu7Dy: Dy 0.125; Cu fcc: Dy 0; Cu5Dy: Dy 0.167 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 7; `ORC-WTPLRUS4HH` |  |
-| 1020 | liquid -> CuDy + Dy bcc | CuDy: Dy 0.5; Dy bcc: Dy 1; liquid: Dy 0.691 | model | [1] Palumbo 2009 | Table 3, p. 5, row 25; `ORC-OPRZYSXO2T` |  |
+| 1020 | eutectic: liquid -> CuDy + Dy bcc | CuDy: Dy 0.5; Dy bcc: Dy 1; liquid: Dy 0.691 | model | [1] Palumbo 2009 | Table 3, p. 5, row 25; `ORC-OPRZYSXO2T` |  |
 | 803 | eutectoid: Bcc ↔ CuDy + Hcp | Bcc: Dy 0.832; CuDy: Dy 0.5; Hcp: Dy 0.879 | model | [2] Zhang 2009 | Table 3, p. 3, row 32; `ORC-IOWK77NHR3` |  |
 
 ## Formation enthalpies

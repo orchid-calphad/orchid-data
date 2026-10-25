@@ -1,10 +1,10 @@
 # Al–Sc system
 
-> Al–Sc system: 123 accepted literature values (invariant reaction 76, crystal structure 33, formation 9, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sc system: 112 accepted literature values (invariant reaction 70, crystal structure 33, formation 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SC.html · Markdown: https://data.orchid-project.org/systems/AL-SC.md
 
-123 accepted literature values from 4 paper(s) (experimental 55, model 40, unspecified 28); 3 calculated phase diagram(s).
+112 accepted literature values from 4 paper(s) (experimental 44, model 40, unspecified 28); 3 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SC.json) · [CSV](https://data.orchid-project.org/systems/AL-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SC/AlSc-10Bo.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SC.html) · [Markdown](https://data.orchid-project.org/systems/AL-SC.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 55 |
+| experimental | 44 |
 | model | 40 |
 | unspecified | 28 |
 
@@ -20,8 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 76 |
-| phase transition | 5 |
+| invariant reaction | 70 |
 | formation | 9 |
 | crystal structure | 33 |
 
@@ -82,86 +81,80 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Sc system (76)
+Table: Invariant reactions reported in the literature for the Al–Sc system (70)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1814.15 | congruent melting: L -> βSc | βSc: Sc 1 | model | [1] Murray 1998 | Table 1, p. 1, row 9; `ORC-SLAUQQK7PM` |  |
-| 1698 | Liquid -> Al2Sc | L: Al 0.666667, Sc 0.333333; Al2Sc: Al 0.666667, Sc 0.333333 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 11; `ORC-BYVGRKIMMC` |  |
-| 1694 | Liquid -> Al2Sc | L: Sc 0.333; Al2Sc: Sc 0.333 | model | [2] Bo 2010 | Table 2, p. 6, row 12; `ORC-AUCK5AORHI` |  |
-| 1693.15 | L->ScAl2 | L: Sc 0.333; ScAl2: Sc 0.333 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 7; `ORC-55KHEULI6V` |  |
+| 1698 | congruent melting: Liquid -> Al2Sc | L: Al 0.666667, Sc 0.333333; Al2Sc: Al 0.666667, Sc 0.333333 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 11; `ORC-BYVGRKIMMC` |  |
+| 1694 | congruent melting: Liquid -> Al2Sc | L: Sc 0.333; Al2Sc: Sc 0.333 | model | [2] Bo 2010 | Table 2, p. 6, row 12; `ORC-AUCK5AORHI` |  |
+| 1693.15 | congruent melting: L->ScAl2 | L: Sc 0.333; ScAl2: Sc 0.333 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 7; `ORC-55KHEULI6V` |  |
 | 1693.15 | congruent melting: L -> Al2Sc | L: Sc 0.333; Al2Sc: Sc 0.333 | model | [1] Murray 1998 | Table 1, p. 1, row 4; `ORC-W6HFOE7ZRT` |  |
-| 1693 | Liquid -> Al2Sc | L: Sc 0.333; Al2Sc: Sc 0.333 | experimental | [2] Bo 2010; _cites Naumkin 1965_ | Table 2, p. 6, row 9; `ORC-YUA5JHZQ22` |  |
-| 1664.65 | L->ScAl2 | L: Sc 0.333; ScAl2: Sc 0.333 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 8; `ORC-VIBUTGGLG2` |  |
-| 1664.5 | Liquid -> Al2Sc | L: Sc 0.333; Al2Sc: Sc 0.333 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 10; `ORC-6BLRFSODKI` |  |
+| 1693 | congruent melting: Liquid -> Al2Sc | L: Sc 0.333; Al2Sc: Sc 0.333 | experimental | [2] Bo 2010; _cites Naumkin 1965_ | Table 2, p. 6, row 9; `ORC-YUA5JHZQ22` |  |
+| 1664.65 | congruent melting: L->ScAl2 | L: Sc 0.333; ScAl2: Sc 0.333 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 8; `ORC-VIBUTGGLG2` |  |
+| 1664.5 | congruent melting: Liquid -> Al2Sc | L: Sc 0.333; Al2Sc: Sc 0.333 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 10; `ORC-6BLRFSODKI` |  |
 | 1610.15 | peritectic: (αSc) -> L + (βSc) | (αSc): Sc 0.97; L: Sc 0.92; (βSc): Sc 0.98 | model | [1] Murray 1998 | Table 1, p. 1, row 10; `ORC-SFZZ7M4H2G` |  |
 | 1593.15 | peritectic: L + Al2Sc -> Al3Sc | L: Sc 0.24; Al2Sc: Sc 0.333; Al3Sc: Sc 0.25 | model | [1] Murray 1998 | Table 1, p. 1, row 3; `ORC-2UJQWCSHLT` |  |
 | 1593.15 | L+ScAl2->ScAl3 | L: Sc 0.24; ScAl2: Sc 0.333; ScAl3: Sc 0.25 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 5; `ORC-UFYZD7CUIZ` |  |
 | 1593 | Liquid + Al2Sc -> Al3Sc | L: Sc 0.24; Al2Sc: Sc 0.333; Al3Sc: Sc 0.25 | experimental | [2] Bo 2010; _cites Naumkin 1965_ | Table 2, p. 6, row 5; `ORC-A6UO5BK3Q3` |  |
 | 1591 | Liquid + Al2Sc -> Al3Sc | L: Sc 0.226; Al2Sc: Sc 0.333; Al3Sc: Sc 0.25 | model | [2] Bo 2010 | Table 2, p. 6, row 8; `ORC-IWO7JQS3PF` |  |
 | 1589 | Liquid + Al2Sc -> Al3Sc | Al2Sc: Al 0.666667, Sc 0.333333; Al3Sc: Al 0.75, Sc 0.25 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 7; `ORC-WQZFKJKIF6` |  |
-| 1574 | Liquid -> AlSc2 | L: Al 0.333333, Sc 0.666667; AlSc2: Al 0.333333, Sc 0.666667 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 27; `ORC-PO5M3YB2XM` |  |
+| 1574 | congruent melting: Liquid -> AlSc2 | L: Al 0.333333, Sc 0.666667; AlSc2: Al 0.333333, Sc 0.666667 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 27; `ORC-PO5M3YB2XM` |  |
 | 1573.15 | congruent melting: L -> AlSc | L: Sc 0.5; AlSc: Sc 0.5 | model | [1] Murray 1998 | Table 1, p. 1, row 6; `ORC-GR6CR3QFSY` |  |
-| 1573.15 | L->ScAl | L: Sc 0.5; ScAl: Sc 0.5 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 12; `ORC-QDIHBXM46W` |  |
-| 1573.15 | L->Sc2Al | L: Sc 0.667; Sc2Al: Sc 0.667 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 18; `ORC-SKJ7CQMK67` |  |
-| 1573 | Liquid -> AlSc2 | L: Sc 0.667; AlSc2: Sc 0.667 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 25; `ORC-WNSYKHCYMJ` |  |
-| 1571 | Liquid -> AlSc2 | L: Sc 0.667; AlSc2: Sc 0.667 | model | [2] Bo 2010 | Table 2, p. 6, row 28; `ORC-MBQTJVDQVU` |  |
-| 1560.15 | L->Sc2Al | L: Sc 0.667; Sc2Al: Sc 0.667 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 19; `ORC-AINHKT62LL` |  |
-| 1560 | Liquid -> AlSc2 | L: Sc 0.667; AlSc2: Sc 0.667 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 26; `ORC-VZ4AOQJFRE` |  |
+| 1573.15 | congruent melting: L->ScAl | L: Sc 0.5; ScAl: Sc 0.5 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 12; `ORC-QDIHBXM46W` |  |
+| 1573.15 | congruent melting: L->Sc2Al | L: Sc 0.667; Sc2Al: Sc 0.667 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 18; `ORC-SKJ7CQMK67` |  |
+| 1573 | congruent melting: Liquid -> AlSc2 | L: Sc 0.667; AlSc2: Sc 0.667 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 25; `ORC-WNSYKHCYMJ` |  |
+| 1571 | congruent melting: Liquid -> AlSc2 | L: Sc 0.667; AlSc2: Sc 0.667 | model | [2] Bo 2010 | Table 2, p. 6, row 28; `ORC-MBQTJVDQVU` |  |
+| 1560.15 | congruent melting: L->Sc2Al | L: Sc 0.667; Sc2Al: Sc 0.667 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 19; `ORC-AINHKT62LL` |  |
+| 1560 | congruent melting: Liquid -> AlSc2 | L: Sc 0.667; AlSc2: Sc 0.667 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 26; `ORC-VZ4AOQJFRE` |  |
 | 1556.15 | L+ScAl2->ScAl3 | L: Sc 0.207; ScAl2: Sc 0.333; ScAl3: Sc 0.25 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 6; `ORC-BUS6B5SSBO` |  |
 | 1556 | Liquid + Al2Sc -> Al3Sc | L: Sc 0.207; Al2Sc: Sc 0.333; Al3Sc: Sc 0.25 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 6; `ORC-YTLT2MJOR4` |  |
-| 1519 | Liquid -> AlSc | L: Al 0.5, Sc 0.5; AlSc: Al 0.5, Sc 0.5 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 19; `ORC-Z6XKAMAM6W` |  |
-| 1513.15 | L->ScAl | L: Sc 0.5; ScAl: Sc 0.5 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 13; `ORC-A74BDQ46DE` |  |
-| 1513 | Liquid -> AlSc | L: Sc 0.5; AlSc: Sc 0.5 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 17; `ORC-5G7LKOUDZK` |  |
-| 1509 | Liquid -> AlSc | L: Sc 0.5; AlSc: Sc 0.5 | model | [2] Bo 2010 | Table 2, p. 6, row 20; `ORC-RGFM7KVJ5L` |  |
-| 1508 | Liquid -> Al2Sc + AlSc | Al2Sc: Al 0.666667, Sc 0.333333; AlSc: Al 0.5, Sc 0.5 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 15; `ORC-RKJLTW4TNQ` |  |
-| 1507.25 | L->ScAl | L: Sc 0.5; ScAl: Sc 0.5 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 14; `ORC-LMJEQG5LEO` |  |
-| 1507.1 | Liquid -> AlSc | L: Sc 0.5; AlSc: Sc 0.5 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 18; `ORC-AAPG5U5DEC` |  |
-| 1506.75 | L->ScAl2+ScAl | L: Sc 0.491; ScAl2: Sc 0.333; ScAl: Sc 0.5 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 11; `ORC-SAK2NOVHH7` |  |
-| 1506.6 | Liquid -> Al2Sc + AlSc | L: Sc 0.491; Al2Sc: Sc 0.333; AlSc: Sc 0.5 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 14; `ORC-6TNNB4GXZG` |  |
-| 1505 | Liquid -> Al2Sc + AlSc | L: Sc 0.478; Al2Sc: Sc 0.333; AlSc: Sc 0.5 | model | [2] Bo 2010 | Table 2, p. 6, row 16; `ORC-VRAJBQTC4M` |  |
-| 1493.15 | L->ScAl+Sc2Al | L: Sc 0.58; ScAl: Sc 0.5; Sc2Al: Sc 0.667 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 16; `ORC-LFGC7RMSDO` |  |
-| 1493.15 | eutectic: Liquid $ ScAl+Sc2Al |  | experimental | [3] Cacciamani 1999 | p. 6; `ORC-VP2CACN3GZ` | “The Liquid $ ScAl+Sc2Al eutectic is less clearly determined: its temperature should be about 1220 C and the liquid composition between 56 and 60 at% Sc.” |
-| 1479 | Liquid -> AlSc2 + βSc | AlSc2: Al 0.333333, Sc 0.666667 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 31; `ORC-C2XAHBA7YY` |  |
-| 1478.25 | L->ScAl+Sc2Al | L: Sc 0.566; ScAl: Sc 0.5; Sc2Al: Sc 0.667 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 17; `ORC-UVC5MDZ2IW` |  |
-| 1478.1 | Liquid -> AlSc + AlSc2 | L: Sc 0.566; AlSc: Sc 0.5; AlSc2: Sc 0.667 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 22; `ORC-M2GXF4VGGJ` |  |
-| 1474 | Liquid -> AlSc + AlSc2 | AlSc: Al 0.5, Sc 0.5; AlSc2: Al 0.333333, Sc 0.666667 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 23; `ORC-Z67FWZOS2V` |  |
-| 1472 | Liquid -> AlSc + AlSc2 | L: Sc 0.565; AlSc: Sc 0.5; AlSc2: Sc 0.667 | model | [2] Bo 2010 | Table 2, p. 6, row 24; `ORC-B3572UCO4G` |  |
-| 1472 | Liquid -> AlSc2 + βSc | L: Sc 0.774; AlSc2: Sc 0.667; βSc: Sc 0.846 | model | [2] Bo 2010 | Table 2, p. 6, row 32; `ORC-B7MRKKQW32` |  |
-| 1468.15 | L->ScAl+Sc2Al | ScAl: Sc 0.5; Sc2Al: Sc 0.667 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 15; `ORC-BMVA65OCA3` |  |
+| 1519 | congruent melting: Liquid -> AlSc | L: Al 0.5, Sc 0.5; AlSc: Al 0.5, Sc 0.5 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 19; `ORC-Z6XKAMAM6W` |  |
+| 1513.15 | congruent melting: L->ScAl | L: Sc 0.5; ScAl: Sc 0.5 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 13; `ORC-A74BDQ46DE` |  |
+| 1513 | congruent melting: Liquid -> AlSc | L: Sc 0.5; AlSc: Sc 0.5 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 17; `ORC-5G7LKOUDZK` |  |
+| 1509 | congruent melting: Liquid -> AlSc | L: Sc 0.5; AlSc: Sc 0.5 | model | [2] Bo 2010 | Table 2, p. 6, row 20; `ORC-RGFM7KVJ5L` |  |
+| 1508 | eutectic: Liquid -> Al2Sc + AlSc | Al2Sc: Al 0.666667, Sc 0.333333; AlSc: Al 0.5, Sc 0.5 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 15; `ORC-RKJLTW4TNQ` |  |
+| 1507.25 | congruent melting: L->ScAl | L: Sc 0.5; ScAl: Sc 0.5 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 14; `ORC-LMJEQG5LEO` |  |
+| 1507.1 | congruent melting: Liquid -> AlSc | L: Sc 0.5; AlSc: Sc 0.5 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 18; `ORC-AAPG5U5DEC` |  |
+| 1506.75 | eutectic: L->ScAl2+ScAl | L: Sc 0.491; ScAl2: Sc 0.333; ScAl: Sc 0.5 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 11; `ORC-SAK2NOVHH7` |  |
+| 1506.6 | eutectic: Liquid -> Al2Sc + AlSc | L: Sc 0.491; Al2Sc: Sc 0.333; AlSc: Sc 0.5 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 14; `ORC-6TNNB4GXZG` |  |
+| 1505 | eutectic: Liquid -> Al2Sc + AlSc | L: Sc 0.478; Al2Sc: Sc 0.333; AlSc: Sc 0.5 | model | [2] Bo 2010 | Table 2, p. 6, row 16; `ORC-VRAJBQTC4M` |  |
+| 1493.15 | eutectic: L->ScAl+Sc2Al | L: Sc 0.58; ScAl: Sc 0.5; Sc2Al: Sc 0.667 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 16; `ORC-LFGC7RMSDO` |  |
+| 1479 | eutectic: Liquid -> AlSc2 + βSc | AlSc2: Al 0.333333, Sc 0.666667 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 31; `ORC-C2XAHBA7YY` |  |
+| 1478.25 | eutectic: L->ScAl+Sc2Al | L: Sc 0.566; ScAl: Sc 0.5; Sc2Al: Sc 0.667 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 17; `ORC-UVC5MDZ2IW` |  |
+| 1478.1 | eutectic: Liquid -> AlSc + AlSc2 | L: Sc 0.566; AlSc: Sc 0.5; AlSc2: Sc 0.667 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 22; `ORC-M2GXF4VGGJ` |  |
+| 1474 | eutectic: Liquid -> AlSc + AlSc2 | AlSc: Al 0.5, Sc 0.5; AlSc2: Al 0.333333, Sc 0.666667 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 23; `ORC-Z67FWZOS2V` |  |
+| 1472 | eutectic: Liquid -> AlSc + AlSc2 | L: Sc 0.565; AlSc: Sc 0.5; AlSc2: Sc 0.667 | model | [2] Bo 2010 | Table 2, p. 6, row 24; `ORC-B3572UCO4G` |  |
+| 1472 | eutectic: Liquid -> AlSc2 + βSc | L: Sc 0.774; AlSc2: Sc 0.667; βSc: Sc 0.846 | model | [2] Bo 2010 | Table 2, p. 6, row 32; `ORC-B7MRKKQW32` |  |
+| 1468.15 | eutectic: L->ScAl+Sc2Al | ScAl: Sc 0.5; Sc2Al: Sc 0.667 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 15; `ORC-BMVA65OCA3` |  |
 | 1468.15 | peritectic: L + AlSc -> AlSc2 | L: Sc 0.7; AlSc: Sc 0.5; AlSc2: Sc 0.667 | model | [1] Murray 1998 | Table 1, p. 1, row 7; `ORC-TB66GI3D2Z` |  |
-| 1468 | Liquid -> AlSc + AlSc2 | AlSc: Sc 0.5; AlSc2: Sc 0.667 | experimental | [2] Bo 2010; _cites Naumkin 1965_ | Table 2, p. 6, row 21; `ORC-ICQGP6VBR4` |  |
-| 1463.15 | eutectic: Liquid $ ScAl+ScAl2 |  | experimental | [3] Cacciamani 1999 | p. 6; `ORC-IQ2TSBTUQO.ff6e53` | “The temperature and liquid composition of the Liquid $ ScAl+ScAl2 eutectic equilibrium (Fig. 6) are now evaluated at 1190 C and 45 at% Sc (in fair agreement with the literature data, 1150 C and 43 at% Sc \[4\]).” |
-| 1463.15 | L->ScAl2+ScAl | L: Sc 0.45; ScAl2: Sc 0.333; ScAl: Sc 0.5 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 10; `ORC-NDMT36NUHB` |  |
-| 1463 | Liquid -> Al2Sc + AlSc | L: Sc 0.45; Al2Sc: Sc 0.333; AlSc: Sc 0.5 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 13; `ORC-KUCZHSFYWV` |  |
-| 1460.75 | L->Sc2Al+(βSc) | L: Sc 0.775; Sc2Al: Sc 0.667; (βSc): Sc 0.798 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 21; `ORC-TFPNRY3QEQ` |  |
-| 1460.6 | Liquid -> AlSc2 + βSc | L: Sc 0.775; AlSc2: Sc 0.667; βSc: Sc 0.798 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 30; `ORC-W4EPMSZBAA` |  |
-| 1458.15 | L->Sc2Al+(βSc) | L: Sc 0.77; Sc2Al: Sc 0.667; (βSc): Sc 0.81 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 20; `ORC-5ERFNQ3MIF` |  |
-| 1458.15 | eutectic: Liquid $ Sc2Al+bSc |  | experimental | [3] Cacciamani 1999 | p. 6; `ORC-FZ2RENROMG` | “In the Sc-rich region of the phase diagram a large solid solubility ®eld of Al in bSc has been observed and a eutectic equilibrium \[Liquid $ Sc2Al+bSc, Fig. 4(a)\] is formed at 1185 C and at liquid composition of 77 at% Sc.” |
-| 1458.15 | eutectic: L $ (bSc)+Sc2Al |  | experimental | [3] Cacciamani 1999 | p. 8; `ORC-HECIWLFZJM.5ec7cd` | “Some of the trends indicated in a speculative literature assessment by Okamoto \[9\] have been con®rmed, except in the Sc-rich part where two new invariant points have been identi®ed: a eutectic reaction L $ (bSc)+Sc2Al at 1185 C and a eutectoid one (bSc) $ Sc2Al+(aSc) at 970 C.” |
-| 1458 | Liquid -> AlSc2 + βSc | L: Sc 0.77; AlSc2: Sc 0.667; βSc: Sc 0.81 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 29; `ORC-EVSDUFCLUW` |  |
+| 1468 | eutectic: Liquid -> AlSc + AlSc2 | AlSc: Sc 0.5; AlSc2: Sc 0.667 | experimental | [2] Bo 2010; _cites Naumkin 1965_ | Table 2, p. 6, row 21; `ORC-ICQGP6VBR4` |  |
+| 1463.15 | eutectic: L->ScAl2+ScAl | L: Sc 0.45; ScAl2: Sc 0.333; ScAl: Sc 0.5 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 10; `ORC-NDMT36NUHB` |  |
+| 1463 | eutectic: Liquid -> Al2Sc + AlSc | L: Sc 0.45; Al2Sc: Sc 0.333; AlSc: Sc 0.5 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 13; `ORC-KUCZHSFYWV` |  |
+| 1460.75 | eutectic: L->Sc2Al+(βSc) | L: Sc 0.775; Sc2Al: Sc 0.667; (βSc): Sc 0.798 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 21; `ORC-TFPNRY3QEQ` |  |
+| 1460.6 | eutectic: Liquid -> AlSc2 + βSc | L: Sc 0.775; AlSc2: Sc 0.667; βSc: Sc 0.798 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 30; `ORC-W4EPMSZBAA` |  |
+| 1458.15 | eutectic: L->Sc2Al+(βSc) | L: Sc 0.77; Sc2Al: Sc 0.667; (βSc): Sc 0.81 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 20; `ORC-5ERFNQ3MIF` |  |
+| 1458 | eutectic: Liquid -> AlSc2 + βSc | L: Sc 0.77; AlSc2: Sc 0.667; βSc: Sc 0.81 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 29; `ORC-EVSDUFCLUW` |  |
 | 1423.15 | eutectic: L -> Al2Sc + AlSc | L: Sc 0.45; Al2Sc: Sc 0.333; AlSc: Sc 0.5 | model | [1] Murray 1998 | Table 1, p. 1, row 5; `ORC-3HQFAAADQD` |  |
-| 1423.15 | L->ScAl2+ScAl | L: Sc 0.43; ScAl2: Sc 0.033; ScAl: Sc 0.5 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 9; `ORC-CSVLEWKAMV` |  |
-| 1423.15 | eutectic: Liquid $ ScAl+ScAl2 |  | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | p. 6; `ORC-IQ2TSBTUQO.d27bf6` | “The temperature and liquid composition of the Liquid $ ScAl+ScAl2 eutectic equilibrium (Fig. 6) are now evaluated at 1190 C and 45 at% Sc (in fair agreement with the literature data, 1150 C and 43 at% Sc \[4\]).” |
+| 1423.15 | eutectic: L->ScAl2+ScAl | L: Sc 0.43; ScAl2: Sc 0.033; ScAl: Sc 0.5 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 9; `ORC-CSVLEWKAMV` |  |
 | 1250.25 | (βSc)->Sc2Al+(αSc) | (βSc): Sc 0.872; Sc2Al: Sc 0.667; (αSc): Sc 0.908 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 24; `ORC-XPPARB5N47` |  |
 | 1250.1 | βSc -> AlSc2 + αSc | βSc: Sc 0.872; AlSc2: Sc 0.667; αSc: Sc 0.908 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 34; `ORC-JNAEE4U57R` |  |
 | 1243.15 | (βSc)->Sc2Al+(αSc) | (βSc): Sc 0.85; Sc2Al: Sc 0.667; (αSc): Sc 0.93 | experimental | [3] Cacciamani 1999 | Table 4, p. 7, row 23; `ORC-CTK35ADYJ5` |  |
-| 1243.15 | eutectoid: (bSc) $ Sc2Al+(aSc) |  | experimental | [3] Cacciamani 1999 | p. 8; `ORC-HECIWLFZJM.355847` | “Some of the trends indicated in a speculative literature assessment by Okamoto \[9\] have been con®rmed, except in the Sc-rich part where two new invariant points have been identi®ed: a eutectic reaction L $ (bSc)+Sc2Al at 1185 C and a eutectoid one (bSc) $ Sc2Al+(aSc) at 970 C.” |
 | 1243 | βSc -> AlSc2 + αSc | βSc: Sc 0.85; AlSc2: Sc 0.667; αSc: Sc 0.93 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 33; `ORC-OBUQH3735E` |  |
 | 1242 | βSc -> AlSc2 + αSc | βSc: Sc 0.881; AlSc2: Sc 0.667; αSc: Sc 0.898 | model | [2] Bo 2010 | Table 2, p. 6, row 36; `ORC-CCKQNO7EUH` |  |
 | 1233 | βSc -> AlSc2 + αSc | AlSc2: Al 0.333333, Sc 0.666667 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 35; `ORC-CFIQXQHUUK` |  |
-| 1218.15 | L->Sc2Al+(αSc) | L: Sc 0.87; Sc2Al: Sc 0.667; (αSc): Sc 0.9 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 22; `ORC-KP2FFKUOCP` |  |
+| 1218.15 | eutectic: L->Sc2Al+(αSc) | L: Sc 0.87; Sc2Al: Sc 0.667; (αSc): Sc 0.9 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 22; `ORC-KP2FFKUOCP` |  |
 | 1218.15 | eutectic: L -> AlSc2 + (αSc) | L: Sc 0.87; AlSc2: Sc 0.667; (αSc): Sc 0.96 | model | [1] Murray 1998 | Table 1, p. 1, row 8; `ORC-O44RT44XD7` |  |
 | 933.602 | congruent melting: L -> Al | Al: Sc 0 | model | [1] Murray 1998 | Table 1, p. 1, row 1; `ORC-KCRFMMVDG3` |  |
 | 933.15 | eutectic: L -> (Al) + Al3Sc | L: Sc 0.005; (Al): Sc 0.0038; Al3Sc: Sc 0.25 | model | [1] Murray 1998 | Table 1, p. 1, row 2; `ORC-INNWOJTCQS` |  |
-| 933 | Liquid -> Fcc_Al + Al3Sc | Al3Sc: Al 0.75, Sc 0.25 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 3; `ORC-LT44UE7UEI` |  |
-| 933 | Liquid -> Fcc_Al + Al3Sc | L: Sc 0.00303; Fcc_Al: Sc 0.002; Al3Sc: Sc 0.25 | model | [2] Bo 2010 | Table 2, p. 6, row 4; `ORC-PTBISIIOYI` |  |
-| 932.15 | L->(Al)+ScAl3 | L: Sc 0.00313; (Al): Sc 0.00228; ScAl3: Sc 0.25 | experimental | [3] Cacciamani 1999; _cites LA 1971_ | Table 4, p. 7, row 1; `ORC-CQU7FRA3EU` |  |
-| 932 | Liquid -> Fcc_Al + Al3Sc | L: Sc 0.00313; Fcc_Al: Sc 0.00228; Al3Sc: Sc 0.25 | experimental | [2] Bo 2010; _cites Willey 1971_ | Table 2, p. 6, row 1; `ORC-U3ZEF243JR` |  |
-| 931.15 | L->(Al)+ScAl3 | L: Sc 0.0036; (Al): Sc 0.00228; ScAl3: Sc 0.25 | experimental | [3] Cacciamani 1999; _cites Kononenko 1990_ | Table 4, p. 7, row 3; `ORC-OO6VJHY23S` |  |
-| 929.65 | L->(Al)+ScAl3 | L: Sc 0.00566; (Al): Sc 0.00415; ScAl3: Sc 0.25 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 4; `ORC-CKR3MW2ZPJ` |  |
-| 929.5 | Liquid -> Fcc_Al + Al3Sc | L: Sc 0.00566; Fcc_Al: Sc 0.00415; Al3Sc: Sc 0.25 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 2; `ORC-F4HFXB6Q5U` |  |
-| 928.15 | L->(Al)+ScAl3 | L: Sc 0.0033; (Al): Sc 0.0021; ScAl3: Sc 0.25 | experimental | [3] Cacciamani 1999; _cites Drits 1973_ | Table 4, p. 7, row 2; `ORC-PICPAQL36I` |  |
+| 933 | eutectic: Liquid -> Fcc_Al + Al3Sc | Al3Sc: Al 0.75, Sc 0.25 | model | [2] Bo 2010; _cites Kang 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.002) | Table 2, p. 6, row 3; `ORC-LT44UE7UEI` |  |
+| 933 | eutectic: Liquid -> Fcc_Al + Al3Sc | L: Sc 0.00303; Fcc_Al: Sc 0.002; Al3Sc: Sc 0.25 | model | [2] Bo 2010 | Table 2, p. 6, row 4; `ORC-PTBISIIOYI` |  |
+| 932.15 | eutectic: L->(Al)+ScAl3 | L: Sc 0.00313; (Al): Sc 0.00228; ScAl3: Sc 0.25 | experimental | [3] Cacciamani 1999; _cites LA 1971_ | Table 4, p. 7, row 1; `ORC-CQU7FRA3EU` |  |
+| 932 | eutectic: Liquid -> Fcc_Al + Al3Sc | L: Sc 0.00313; Fcc_Al: Sc 0.00228; Al3Sc: Sc 0.25 | experimental | [2] Bo 2010; _cites Willey 1971_ | Table 2, p. 6, row 1; `ORC-U3ZEF243JR` |  |
+| 931.15 | eutectic: L->(Al)+ScAl3 | L: Sc 0.0036; (Al): Sc 0.00228; ScAl3: Sc 0.25 | experimental | [3] Cacciamani 1999; _cites Kononenko 1990_ | Table 4, p. 7, row 3; `ORC-OO6VJHY23S` |  |
+| 929.65 | eutectic: L->(Al)+ScAl3 | L: Sc 0.00566; (Al): Sc 0.00415; ScAl3: Sc 0.25 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 4; `ORC-CKR3MW2ZPJ` |  |
+| 929.5 | eutectic: Liquid -> Fcc_Al + Al3Sc | L: Sc 0.00566; Fcc_Al: Sc 0.00415; Al3Sc: Sc 0.25 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 2; `ORC-F4HFXB6Q5U` |  |
+| 928.15 | eutectic: L->(Al)+ScAl3 | L: Sc 0.0033; (Al): Sc 0.0021; ScAl3: Sc 0.25 | experimental | [3] Cacciamani 1999; _cites Drits 1973_ | Table 4, p. 7, row 2; `ORC-PICPAQL36I` |  |
 
 ## Formation enthalpies
 
@@ -182,18 +175,6 @@ Table: Enthalpies of formation, Al–Sc system (9)
 | UNKNOWN |  | -36.8 kJ/mol-atom ± 2 | 300 | experimental |  |  | [3] Cacciamani 1999 | Table 2, p. 3, row 9; `ORC-V55IIAN6LW` |  |
 
 ## Other properties
-
-### Phase transition (5)
-
-Table: Phase transition, Al–Sc system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1243.15 K | 1243.15 | (bSc) $ Sc2Al+(aSc) | experimental | [3] Cacciamani 1999 | p. 1; `ORC-QVROXKCARP.3abe34` | “Two new invariant reactions have been identi®ed in the Scrich part of the diagram: L $ (bSc)+Sc2Al at 1185 C and (bSc) $ Sc2Al+(aSc) at 970 C.” |
-| Phase transition | 1243.15 K | 1243.15 | other: bSc$aSc+ Sc2Al | experimental | [3] Cacciamani 1999 | p. 6; `ORC-WUTGFDT5C3` | “The eutectoid decomposition of bSc (according to the reaction bSc$aSc+ Sc2Al) occurs at about 970 C (close to the temperature previously proposed for the eutectic equilibrium) and 85 at% Sc \[Figs. 4(b) and 5\].” |
-| Phase transition | 1458.15 K | 1458.15 | L $ (bSc)+Sc2Al | experimental | [3] Cacciamani 1999 | p. 1; `ORC-QVROXKCARP.9d9edb` | “Two new invariant reactions have been identi®ed in the Scrich part of the diagram: L $ (bSc)+Sc2Al at 1185 C and (bSc) $ Sc2Al+(aSc) at 970 C.” |
-| Phase transition | 1513.15 K | 1513.15 | congruent transformation | experimental | [3] Cacciamani 1999 | p. 6; `ORC-YZXIKB5LGL` | “ScAl melts congruently at about 1240 C and forms two eutectic equilibria with ScAl2 and Sc2Al.” |
-| Phase transition | 1573.15 K | 1573.15 |  | experimental | [3] Cacciamani 1999 | p. 6; `ORC-NZWDU3HIUZ` | “The Sc2Al melting point has been evaluated at about 1300 C.” |
 
 ### Crystal structure (33)
 

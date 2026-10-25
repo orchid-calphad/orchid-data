@@ -1,10 +1,10 @@
 # Al–S system
 
-> Al–S system: 37 accepted literature values (invariant reaction 20, formation 9, crystal structure 4, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–S system: 31 accepted literature values (invariant reaction 18, formation 9, crystal structure 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-S.html · Markdown: https://data.orchid-project.org/systems/AL-S.md
 
-37 accepted literature values from 1 paper(s) (experimental 19, model 14, DFT 4); 1 calculated phase diagram(s).
+31 accepted literature values from 1 paper(s) (experimental 14, model 13, DFT 4); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-S.json) · [CSV](https://data.orchid-project.org/systems/AL-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-S/AlS-19Shi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AL-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-S.html) · [Markdown](https://data.orchid-project.org/systems/AL-S.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
-| model | 14 |
+| experimental | 14 |
+| model | 13 |
 | DFT | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 20 |
-| phase transition | 4 |
+| invariant reaction | 18 |
 | formation | 9 |
 | crystal structure | 4 |
 
@@ -52,7 +51,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–S system (20)
+Table: Invariant reactions reported in the literature for the Al–S system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -62,7 +61,6 @@ Table: Invariant reactions reported in the literature for the Al–S system (20)
 | 1325.75 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.557; AlS: S 0.5; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 9; `ORC-AF45PU3UPZ` |  |
 | 1325.75 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.553; AlS: S 0.5; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 8; `ORC-QSY5LMOJ7H` |  |
 | 1313.15 | eutectic: L1 -> AlS + γAl2S3 | L1: S 0.56; AlS: S 0.5; γAl2S3: S 0.59 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 7; `ORC-HMZQJQ6XHU` |  |
-| 1313.15 | eutectic: L2? AlS ? cAl2S3 |  | experimental | [1] Shi 2019; _cites Forland 1974_ | p. 2; `ORC-QTSOFOKOQP.5062a0` | “Two eutectic reactions, L1 ? (Al) ? aAl2S3 and L2? AlS ? cAl2S3, were reported at 660 C and 0.02 at.% S and 1040 C and 56.0 at.% S, respectively.” |
 | 1284.75 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5; L1: S 0; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 11; `ORC-RJH2OMNHJC` |  |
 | 1284.65 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5; L1: S 0.026; γAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 12; `ORC-NAW5DYXICF` |  |
 | 1283.15 | metatectic/catatectic: AlS -> L1 + γAl2S3 | AlS: S 0.5 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 10; `ORC-5BQZ6UGTLD` |  |
@@ -70,7 +68,6 @@ Table: Invariant reactions reported in the literature for the Al–S system (20)
 | 1246.15 | monotectic: L2 -> γAl2S3 + L3 | γAl2S3: Al 0.4, S 0.6 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 13; `ORC-QJZIJTAZXP` |  |
 | 1243.75 | monotectic: L2 -> γAl2S3 + L3 | L2: S 0.636; γAl2S3: S 0.6; L3: S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 15; `ORC-U3ASOKR6P2` |  |
 | 933.65 | eutectic: L1 -> (Al) + αAl2S3 | L1: S 0; (Al): S 0; αAl2S3: S 0.6 | model | [1] Shi 2019 | Table 5, p. 8, row 2; `ORC-LPZVKY6W7T` |  |
-| 933.15 | eutectic: L1 ? (Al) ? aAl2S3 |  | experimental | [1] Shi 2019; _cites Forland 1974_ | p. 2; `ORC-QTSOFOKOQP.e74a92` | “Two eutectic reactions, L1 ? (Al) ? aAl2S3 and L2? AlS ? cAl2S3, were reported at 660 C and 0.02 at.% S and 1040 C and 56.0 at.% S, respectively.” |
 | 933.15 | eutectic: L1 -> (Al) + αAl2S3 | (Al): S 0; αAl2S3: S 0.6 | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | Table 5, p. 8, row 1; `ORC-R4NOADPNJ3` |  |
 | 388.35 | eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 18; `ORC-VUEVQZTASJ` |  |
 | 388.15 | eutectic: L3 -> αAl2S3 + (βS) | L3: S 1; αAl2S3: S 0.6; (βS): S 1 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 16; `ORC-WRGUM72Y3M` |  |
@@ -96,17 +93,6 @@ Table: Enthalpies of formation, Al–S system (9)
 | γAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -107.9 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 9; `ORC-UYRWMCR4NY.d5a44d` |  |
 
 ## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Al–S system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 368.65 K | 368.65 | (bS) ? aAl2S3 ? (aS) | experimental | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | p. 2; `ORC-LIP2UOEUZI.b95ed1` | “They also determined the invariant reaction temperatures of L3? aAl2S3 ? (bS) and (bS) ? aAl2S3 ? (aS) to be about 115 C and \* 100 at.% S and 95.5 C and \* 100 at.% S, respectively.\[15\]” |
-| Phase transition | 388.15 K | 388.15 | L3? aAl2S3 ? (bS) | model | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | p. 2; `ORC-LIP2UOEUZI.7cf2f9` | “They also determined the invariant reaction temperatures of L3? aAl2S3 ? (bS) and (bS) ? aAl2S3 ? (aS) to be about 115 C and \* 100 at.% S and 95.5 C and \* 100 at.% S, respectively.\[15\]” |
-| Phase transition | 1283.15 K | 1283.15 | other: AlS ? L1 ? cAl2S3 | experimental | [1] Shi 2019 | p. 2; `ORC-2GBRIPXXPF` | “The catatectic reaction of AlS ? L1 ? cAl2S3 was determined to be at 1010 C and 50.0 at.% S.” |
-| Phase transition | 1333.15 K | 1333.15 | other: L1 ? L2 ? AlS | experimental | [1] Shi 2019 | p. 2; `ORC-OOAL2CGUWK` | “The syntectic point of the reaction L1 ? L2 ? AlS was determined to be at 1060 C and 50 at.% S.” |
 
 ### Crystal structure (4)
 

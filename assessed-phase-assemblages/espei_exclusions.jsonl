@@ -3505,9 +3505,12 @@
 {"id":"aspa-44de1f95c762fb42","diagram":"CE-PM-p276","field":3,"reason":"phase without TDB name in the registry","phases":["L"]}
 {"id":"aspa-f3a1ac8f6b95722b","diagram":"CE-PT-p277","field":5,"reason":"phase without TDB name in the registry","phases":["CePt"]}
 {"id":"aspa-190ad850718ad57a","diagram":"CE-PT-p277","field":6,"reason":"phase without TDB name in the registry","phases":["CePt"]}
+{"id":"aspa-ca8630cdd97c97aa","diagram":"CE-PT-p277","field":9,"reason":"phase without TDB name in the registry","phases":["CePtx"]}
+{"id":"aspa-081d536e56e7d4fa","diagram":"CE-PT-p277","field":10,"reason":"phase without TDB name in the registry","phases":["CePtx"]}
 {"id":"aspa-8ee9bbeb52b17df6","diagram":"CE-PT-p277","field":20,"reason":"phase without TDB name in the registry","phases":["CePt"]}
 {"id":"aspa-315d99a59e0806a2","diagram":"CE-PT-p277","field":24,"reason":"phase without TDB name in the registry","phases":["CePt"]}
 {"id":"aspa-47a3422425973e2c","diagram":"CE-PT-p277","field":27,"reason":"phase without TDB name in the registry","phases":["CePt"]}
+{"id":"aspa-e661ec3476d56a74","diagram":"CE-PT-p277","field":33,"reason":"phase without TDB name in the registry","phases":["CePtx"]}
 {"id":"aspa-5006646f3b250ae3","diagram":"CE-PU-p277","field":1,"reason":"phase without TDB name in the registry","phases":["(γCe)","(δPu)"]}
 {"id":"aspa-73c407aba9ed74e1","diagram":"CE-PU-p277","field":2,"reason":"phase without TDB name in the registry","phases":["(δPu)"]}
 {"id":"aspa-54749e3b3bd2c958","diagram":"CE-PU-p277","field":3,"reason":"phase without TDB name in the registry","phases":["(αPu)","(δPu)"]}
@@ -7663,6 +7666,8 @@
 {"id":"aspa-2853eb9385aea5f3","diagram":"IN-K-p549","field":14,"reason":"phase without TDB name in the registry","phases":["L","L#2"]}
 {"id":"aspa-7e8db4659ced410d","diagram":"IN-LA-p549","field":12,"reason":"phase without TDB name in the registry","phases":["βIn2La"]}
 {"id":"aspa-170dd6a04a54d5cc","diagram":"IN-LA-p549","field":13,"reason":"phase without TDB name in the registry","phases":["βIn2La"]}
+{"id":"aspa-0198d4185b5c7310","diagram":"IN-LA-p549","field":40,"reason":"phase without TDB name in the registry","phases":["InxLa"]}
+{"id":"aspa-1b698ddc4ac90ab6","diagram":"IN-LA-p549","field":41,"reason":"phase without TDB name in the registry","phases":["InxLa"]}
 {"id":"aspa-8589cd538e540e7d","diagram":"IN-LA-p549","field":48,"reason":"phase without TDB name in the registry","phases":["βIn2La"]}
 {"id":"aspa-a53b939fcc81d8b2","diagram":"IN-LI-p550","field":4,"reason":"phase without TDB name in the registry","phases":["In4Li5"]}
 {"id":"aspa-8553000fb7c6b120","diagram":"IN-LI-p550","field":5,"reason":"phase without TDB name in the registry","phases":["In4Li5"]}

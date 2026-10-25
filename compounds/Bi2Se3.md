@@ -35,18 +35,18 @@ Table: Uncertainty budget of the literature values of Bi2Se3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -30.653 | kJ/mol-atom |  | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -30.5 | kJ/mol-atom |  | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -30.653 | kJ/mol-atom |  | 5.000e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -30.5 | kJ/mol-atom |  | 5.000e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -29 | kJ/mol-atom | 0.8 | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -28.5 | kJ/mol-atom | 0.4 | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -28.4 | kJ/mol-atom | 1.2 | 5.000e-5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -28.03 | kJ/mol-atom | 0.13 | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -28.4 | kJ/mol-atom | 1.2 | 5.000e-5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -28.03 | kJ/mol-atom | 0.13 | 5.000e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -27.92 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -27.1 | kJ/mol-atom | 1.2 | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -11.63 | kJ/mol-atom | 1.23 | 5.000e-5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -66.479 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -39.764 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -37.437 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -27.1 | kJ/mol-atom | 1.2 | 5.000e-5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -11.63 | kJ/mol-atom | 1.23 | 5.000e-5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -66.479 | kJ/mol-atom |  | 5.000e-5 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -39.764 | kJ/mol-atom |  | 5.000e-5 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -37.437 | kJ/mol-atom |  | 5.000e-5 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

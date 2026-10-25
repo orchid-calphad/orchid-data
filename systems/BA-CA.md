@@ -1,10 +1,10 @@
 # Ba–Ca system
 
-> Ba–Ca system: 13 accepted literature values (mixing / partial 9, phase transition 3, crystal structure 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Ca system: 10 accepted literature values (mixing / partial 9, crystal structure 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-CA.html · Markdown: https://data.orchid-project.org/systems/BA-CA.md
 
-13 accepted literature values from 1 paper(s) (experimental 12, unspecified 1); 1 calculated phase diagram(s).
+10 accepted literature values from 1 paper(s) (experimental 9, unspecified 1); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-CA.json) · [CSV](https://data.orchid-project.org/systems/BA-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-CA/BaCa-86Alc.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-CA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-CA.html) · [Markdown](https://data.orchid-project.org/systems/BA-CA.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 9 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 3 |
 | mixing / partial | 9 |
 | crystal structure | 1 |
 
@@ -36,16 +35,6 @@ Table: Assessments with a calculated phase diagram
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BA/BA-CA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BA/BA-CA.json)
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Ba–Ca system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 878.15 K | 878.15 | other | experimental | [1] Alcock 1986; _cites ref. 49She_ | p. 1; `ORC-XD4UG7JDI2` | “The liquidus has a minimum at about 605 ~ and 45.5 at.% Ba.” |
-| Phase transition | 878.15 K | 878.15 | polymorphic | experimental | [1] Alcock 1986; _cites ref. 49She_ | p. 1; `ORC-BD3LGBCN62` | “By X-ray analysis, \[49She\] found three allotropes in pure Ca samples, with the temperatures 335 and 605 ~ for the fcc ~ cph and cph ~ bcc transformations, respectively.” |
-| Phase transition | 1000.15 K | 1000.15 |  | experimental | [1] Alcock 1986; _cites ref. 83Cha_ | p. 1; `ORC-JXJ3D5M75G` | “The melting points of pure/3Ca and Ba are 842 and 727 ~ r e s p e c t i v e l y \[83Cha\].” |
 
 ### Mixing / partial (9)
 

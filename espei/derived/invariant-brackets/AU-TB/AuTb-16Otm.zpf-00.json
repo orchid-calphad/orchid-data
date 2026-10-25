@@ -21,8 +21,6 @@
   "P": 101325,
   "T": [
    1131.0,
-   1295.0,
-   1251.0,
    1635.0,
    1591.0,
    1505.0,
@@ -72,73 +70,6 @@
     ],
     [
      0.81
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TB"
-    ],
-    [
-     0.71
-    ]
-   ],
-   [
-    "AUTB_B33",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.6566666667
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.6766666667
-    ]
-   ]
-  ],
-  [
-   [
-    "AUTB2_C37",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.6566666667
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.6766666667
     ]
    ]
   ],
@@ -504,7 +435,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AU-TB/AuTb-16Otm.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5XML6LOHUZ ORC-6R5LWUXTP5 ORC-BPO4HRART2 ORC-JQAZ4BGJ43 ORC-LWX2A3633N ORC-VLSWGFB7ED ORC-W3CPAU7PRS ORC-WE5OJBYXAL ORC-X2NUAZEWVL",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AU-TB/AuTb-16Otm.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5XML6LOHUZ ORC-6R5LWUXTP5 ORC-BPO4HRART2 ORC-JQAZ4BGJ43 ORC-LWX2A3633N ORC-VLSWGFB7ED ORC-WE5OJBYXAL ORC-X2NUAZEWVL",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AU-TB/AuTb-16Otm.zpf-00.json",
@@ -527,44 +458,6 @@
     ],
     "phases_below": [
      "HCP_A3",
-     "AUTB2_C37"
-    ]
-   },
-   {
-    "source_observation": "ORC-W3CPAU7PRS",
-    "side": "above",
-    "T_invariant_K": 1273,
-    "offset_K": 22.0,
-    "T_sigma_K": 11.0,
-    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.6666666666666666,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + TbAu -> Tb2Au",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "AUTB_B33"
-    ],
-    "phases_below": [
-     "AUTB2_C37"
-    ]
-   },
-   {
-    "source_observation": "ORC-W3CPAU7PRS",
-    "side": "below",
-    "T_invariant_K": 1273,
-    "offset_K": 22.0,
-    "T_sigma_K": 11.0,
-    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.6666666666666666,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + TbAu -> Tb2Au",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "AUTB_B33"
-    ],
-    "phases_below": [
      "AUTB2_C37"
     ]
    },
@@ -773,38 +666,6 @@
   "points": [
    {
     "source_observation": "ORC-5XML6LOHUZ",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": null,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": null,
-     "source_invariant_sigma_effective": 11.0,
-     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 22.0,
-     "sigma_effective_reason": "derived constraint, not a measurement"
-    }
-   },
-   {
-    "source_observation": "ORC-W3CPAU7PRS",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": null,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": null,
-     "source_invariant_sigma_effective": 11.0,
-     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 22.0,
-     "sigma_effective_reason": "derived constraint, not a measurement"
-    }
-   },
-   {
-    "source_observation": "ORC-W3CPAU7PRS",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": null,

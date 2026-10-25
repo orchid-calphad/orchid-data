@@ -371,7 +371,7 @@
     "x0": 0.231,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq. -> β-Nd(bcc) + NdZn",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -390,7 +390,7 @@
     "x0": 0.575,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liq. -> NdZn + NdZn2",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

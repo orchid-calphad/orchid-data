@@ -1,10 +1,10 @@
 # Au–Ge–Sb system
 
-> Au–Ge–Sb system: 9 accepted literature values (invariant reaction 8, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ge–Sb system: 7 accepted literature values (invariant reaction 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-GE-SB.html · Markdown: https://data.orchid-project.org/systems/AU-GE-SB.md
 
-9 accepted literature values from 1 paper(s) (experimental 4, model 5); 0 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (experimental 2, model 5); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-GE-SB.json) · [CSV](https://data.orchid-project.org/systems/AU-GE-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-GE-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-GE-SB.html) · [Markdown](https://data.orchid-project.org/systems/AU-GE-SB.md)
 
@@ -12,19 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 2 |
 | model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 8 |
-| phase transition | 1 |
+| invariant reaction | 7 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Ge–Sb system (8)
+Table: Invariant reactions reported in the literature for the Au–Ge–Sb system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -33,19 +32,8 @@ Table: Invariant reactions reported in the literature for the Au–Ge–Sb syste
 | 702 | quasi-peritectic: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.137, Sb 0.487 | model | [1] Wang 2009 | Table 1, p. 2, row 10; `ORC-YGHRO7AHBL` |  |
 | 631 | eutectic: L -> (Au) + (Ge) | L: Ge 0.294 | model | [1] Wang 2009; _cites Wang 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.03.114) | Table 1, p. 2, row 6; `ORC-HT3WTBOISM` |  |
 | 626 | eutectic: L -> (Au) + AuSb2 | L: Sb 0.366 | model | [1] Wang 2009; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 8; `ORC-VOWCXPT5BF` |  |
-| 561 | eutectic: Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 |  | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | p. 2; `ORC-77CT4O6XAY.0fafe7` | “Experimental results obtained by Zwingmann \[31\] further showed that the Au-Ge-Sb ternary system contains two invariant reactions: a transition reaction (U) at 703 K, Liquid + rhombohedral A7(Sb) ↔ diamond A4(Ge) + AuSb2 and a eutectic reaction (E) at 561 K, Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 .” |
 | 561 | eutectic: L -> (Au) + (Ge) + AuSb2 | L: Ge 0.15, Sb 0.17 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | Table 1, p. 2, row 11; `ORC-IBMLMLSIM6` |  |
 | 560 | eutectic: L -> (Au) + (Ge) + AuSb2 | L: Ge 0.166, Sb 0.195 | model | [1] Wang 2009 | Table 1, p. 2, row 12; `ORC-4SEXUQYPTI` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Au–Ge–Sb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 703 K | 703 | other: Liquid + rhombohedral A7(Sb) ↔ diamond A4(Ge) + AuSb2 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | p. 2; `ORC-77CT4O6XAY.ed400d` | “Experimental results obtained by Zwingmann \[31\] further showed that the Au-Ge-Sb ternary system contains two invariant reactions: a transition reaction (U) at 703 K, Liquid + rhombohedral A7(Sb) ↔ diamond A4(Ge) + AuSb2 and a eutectic reaction (E) at 561 K, Liquid ↔ fcc A1(Au) + diamond A4(Ge) + AuSb2 .” |
 
 ## Sources
 

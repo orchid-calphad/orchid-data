@@ -1,10 +1,10 @@
 # Nd–Zn system
 
-> Nd–Zn system: 156 accepted literature values (invariant reaction 87, formation 48, phase transition 21) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nd–Zn system: 148 accepted literature values (invariant reaction 86, formation 48, phase transition 14) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ND-ZN.html · Markdown: https://data.orchid-project.org/systems/ND-ZN.md
 
-156 accepted literature values from 4 paper(s) (experimental 81, model 75); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+148 accepted literature values from 4 paper(s) (experimental 75, model 73); 4 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ND-ZN.json) · [CSV](https://data.orchid-project.org/systems/ND-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-ZN/NdZn-08Li.json) · [phases (16)](https://data.orchid-project.org/phases/pages/ND-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-ZN.html) · [Markdown](https://data.orchid-project.org/systems/ND-ZN.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 81 |
-| model | 75 |
+| experimental | 75 |
+| model | 73 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 87 |
-| phase transition | 21 |
+| invariant reaction | 86 |
+| phase transition | 14 |
 | formation | 48 |
 
 ## Calculated phase diagrams
@@ -139,7 +139,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Nd–Zn system (87)
+Table: Invariant reactions reported in the literature for the Nd–Zn system (86)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -158,39 +158,39 @@ Table: Invariant reactions reported in the literature for the Nd–Zn system (87
 | 1195 | congruent melting: L -> NdZn | L: Zn 0.5; NdZn: Nd 0.5, Zn 0.5 | model | [1] Qi 2008 | Table 2, p. 3, row 5; `ORC-VIAUFP3CUK` |  |
 | 1176.15 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | L: Zn 0.814; Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.817 | model | [3] Liu 2009 | Table 7, p. 6, row 10; `ORC-6SUJIXEXEI` |  |
 | 1175.15 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.817 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 9; `ORC-3U2CAD5NBX` |  |
-| 1175 | L -> Nd13Zn58 + Nd3Zn22 | Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn22: Nd 0.12, Zn 0.88 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 3; `ORC-4FEEAI4KSW` |  |
+| 1175 | eutectic: L -> Nd13Zn58 + Nd3Zn22 | Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn22: Nd 0.12, Zn 0.88 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 3; `ORC-4FEEAI4KSW` |  |
 | 1175 | Liq. + Nd3Zn22 -> Nd13Zn58 | Liq.: Zn 0.802; Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.816901 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 18; `ORC-LG2BNXB4YE` |  |
 | 1175 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | Nd3Zn22: Nd 0.12, Zn 0.88; Nd13Zn58: Nd 0.183099, Zn 0.816901 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 18; `ORC-W6BH4FZULU` |  |
-| 1174 | L -> Nd13Zn58 + Nd3Zn22 | L: Zn 0.818; Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn22: Nd 0.12, Zn 0.88 | model | [2] Qi 2011 | Table 3, p. 5, row 4; `ORC-2F2BDHMP3U` |  |
+| 1174 | eutectic: L -> Nd13Zn58 + Nd3Zn22 | L: Zn 0.818; Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn22: Nd 0.12, Zn 0.88 | model | [2] Qi 2011 | Table 3, p. 5, row 4; `ORC-2F2BDHMP3U` |  |
 | 1174 | peritectic: L + Nd3Zn22 -> Nd13Zn58 | L: Zn 0.818; Nd3Zn22: Nd 0.12, Zn 0.88; Nd13Zn58: Nd 0.183099, Zn 0.816901 | model | [1] Qi 2008 | Table 2, p. 3, row 17; `ORC-5ED4IHZV3Z` |  |
 | 1174 | Liq. + Nd3Zn22 -> Nd13Zn58 | Liq.: Zn 0.802; Nd3Zn22: Zn 0.88; Nd13Zn58: Zn 0.816901 | model | [4] Li 2008 | Table 1, p. 2, row 17; `ORC-QQLJMOGLPX` |  |
 | 1143.15 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | Nd13Zn58: Zn 0.817; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 7; `ORC-EX4MIBHQKW` |  |
 | 1143.15 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | L: Zn 0.766; Nd13Zn58: Zn 0.817; Nd3Zn11: Zn 0.786 | model | [3] Liu 2009 | Table 7, p. 6, row 8; `ORC-SW5T6KHUVA` |  |
 | 1143 | L + Nd13Zn58 -> Nd3Zn11 | Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 7; `ORC-BUXGDQO5YZ` |  |
 | 1143 | Liq. + Nd13Zn58 -> Nd3Zn11 | Liq.: Zn 0.759; Nd13Zn58: Zn 0.816901; Nd3Zn11: Zn 0.785714 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 16; `ORC-KAEHGF7H4X` |  |
-| 1143 | Liq. -> NdZn + NdZn2 | Liq.: Zn 0.588; NdZn: Zn 0.5; NdZn2: Zn 0.666667 | model | [4] Li 2008 | Table 1, p. 2, row 7; `ORC-SLO2E6GH6U` |  |
+| 1143 | eutectic: Liq. -> NdZn + NdZn2 | Liq.: Zn 0.588; NdZn: Zn 0.5; NdZn2: Zn 0.666667 | model | [4] Li 2008 | Table 1, p. 2, row 7; `ORC-SLO2E6GH6U` |  |
 | 1143 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 16; `ORC-VSMRRA2BYR` |  |
 | 1142 | Liq. + Nd13Zn58 -> Nd3Zn11 | Liq.: Zn 0.759; Nd13Zn58: Zn 0.816901; Nd3Zn11: Zn 0.785714 | model | [4] Li 2008 | Table 1, p. 2, row 15; `ORC-OMGLOE7LAS` |  |
-| 1142 | L -> NdZn(B2) + NdZn2 | L: Zn 0.582; NdZn2: Nd 0.333333, Zn 0.666667 | model | [2] Qi 2011 | Table 3, p. 5, row 6; `ORC-YBMN3VJCOJ` |  |
+| 1142 | eutectic: L -> NdZn(B2) + NdZn2 | L: Zn 0.582; NdZn2: Nd 0.333333, Zn 0.666667 | model | [2] Qi 2011 | Table 3, p. 5, row 6; `ORC-YBMN3VJCOJ` |  |
 | 1141.15 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.575; NdZn: Zn 0.5; NdZn2: Zn 0.667 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 3; `ORC-MBC7DDTAUH` |  |
 | 1141 | L + Nd13Zn58 -> Nd3Zn11 | L: Zn 0.769; Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [2] Qi 2011 | Table 3, p. 5, row 8; `ORC-E6CH4UQSVW` |  |
 | 1141 | peritectic: L + Nd13Zn58 -> Nd3Zn11 | L: Zn 0.768; Nd13Zn58: Nd 0.183099, Zn 0.816901; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [1] Qi 2008 | Table 2, p. 3, row 15; `ORC-JP2MX47FKD` |  |
 | 1141 | eutectic: Liq. → NdZn + NdZn2 |  | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2; `ORC-M5QNKPA4DA` | “The eutectic reaction, Liq. → NdZn + NdZn2 , occurs at 1141 K, 57.5 at.% Zn.” |
 | 1141 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.575; NdZn: Nd 0.5, Zn 0.5; NdZn2: Nd 0.333333, Zn 0.666667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 8; `ORC-MJFPZIVIQR` |  |
 | 1141 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.581; NdZn: Nd 0.5, Zn 0.5; NdZn2: Nd 0.333333, Zn 0.666667 | model | [1] Qi 2008 | Table 2, p. 3, row 7; `ORC-NY6IRCD4YS` |  |
-| 1141 | L -> NdZn(B2) + NdZn2 | L: Zn 0.575; NdZn2: Nd 0.333333, Zn 0.666667 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 5; `ORC-OWWLCKAQ6W` |  |
-| 1141 | Liq. -> NdZn + NdZn2 | Liq.: Zn 0.575; NdZn: Zn 0.5; NdZn2: Zn 0.666667 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 8; `ORC-QPUADU4WWS` |  |
+| 1141 | eutectic: L -> NdZn(B2) + NdZn2 | L: Zn 0.575; NdZn2: Nd 0.333333, Zn 0.666667 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 5; `ORC-OWWLCKAQ6W` |  |
+| 1141 | eutectic: Liq. -> NdZn + NdZn2 | Liq.: Zn 0.575; NdZn: Zn 0.5; NdZn2: Zn 0.666667 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 8; `ORC-QPUADU4WWS` |  |
 | 1140.15 | eutectic: L -> NdZn + NdZn2 | L: Zn 0.585; NdZn: Zn 0.5; NdZn2: Zn 0.667 | model | [3] Liu 2009 | Table 7, p. 6, row 4; `ORC-AFUOICYXFB` |  |
-| 1134 | Liq. -> NdZn2 + Nd3Zn11 | Liq.: Zn 0.746; NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714 | model | [4] Li 2008 | Table 1, p. 2, row 11; `ORC-6AT6QN47UD` |  |
+| 1134 | eutectic: Liq. -> NdZn2 + Nd3Zn11 | Liq.: Zn 0.746; NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714 | model | [4] Li 2008 | Table 1, p. 2, row 11; `ORC-6AT6QN47UD` |  |
 | 1128.15 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.745; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | model | [3] Liu 2009 | Table 7, p. 6, row 6; `ORC-YHDMI6UZIN` |  |
-| 1128 | L -> NdZn2 + Nd3Zn11 | L: Zn 0.748; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [2] Qi 2011 | Table 3, p. 5, row 10; `ORC-AVRCQLPQM6` |  |
+| 1128 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.748; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [2] Qi 2011 | Table 3, p. 5, row 10; `ORC-AVRCQLPQM6` |  |
 | 1127.15 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.737; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 5; `ORC-JGSQPYZUMJ` |  |
 | 1127 | Liq. + Nd2Zn17 -> Nd3Zn22 | Liq.: Zn 0.851; Nd2Zn17: Zn 0.894737; Nd3Zn22: Zn 0.88 | model | [4] Li 2008 | Table 1, p. 2, row 19; `ORC-GETF2UXR77` |  |
 | 1127 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.748; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | model | [1] Qi 2008 | Table 2, p. 3, row 11; `ORC-I2ALTPIWRY` |  |
-| 1127 | Liq. -> NdZn2 + Nd3Zn11 | Liq.: Zn 0.737; NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 12; `ORC-NTB4QZINFE` |  |
+| 1127 | eutectic: Liq. -> NdZn2 + Nd3Zn11 | Liq.: Zn 0.737; NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 12; `ORC-NTB4QZINFE` |  |
 | 1127 | eutectic: Liq. → NdZn2 + Nd3 Zn11 |  | experimental | [4] Li 2008 | p. 2; `ORC-SNJXBOHNHQ` | “The eutectic reaction, Liq. → NdZn2 + Nd3 Zn11 , occurs at 1127 K, 73.7 at.% Zn.” |
 | 1127 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.737; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 12; `ORC-ZEYDBTUY3O` |  |
-| 1127 | L -> NdZn2 + Nd3Zn11 | L: Zn 0.737; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 9; `ORC-ZQ5VMBAYE2` |  |
+| 1127 | eutectic: L -> NdZn2 + Nd3Zn11 | L: Zn 0.737; NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 9; `ORC-ZQ5VMBAYE2` |  |
 | 1122.15 | eutectoid: NdZn3 -> NdZn2 + Nd3Zn11 | NdZn3: Zn 0.75; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 15; `ORC-XQBZJX2MN5` |  |
 | 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 11; `ORC-74W52O34ZC` |  |
 | 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714; NdZn3: Zn 0.75 | model | [4] Li 2008 | Table 1, p. 2, row 13; `ORC-BZJGREJAT3` |  |
@@ -210,11 +210,11 @@ Table: Invariant reactions reported in the literature for the Nd–Zn system (87
 | 903.15 | eutectic: L -> bcc_A2 + NdZn | L: Zn 0.231; NdZn: Zn 0.5 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 1; `ORC-72ENHO2MXH` |  |
 | 903 | eutectic: Liq. → ␤-Nd(bcc) + NdZn |  | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2; `ORC-A2ERNI3NGP` | “The eutectic reaction, Liq. → ␤-Nd(bcc) + NdZn, occurs at 903 K, 23.1 at.% Zn.” |
 | 903 | eutectic: L -> bcc + NdZn | L: Zn 0.23; NdZn: Nd 0.5, Zn 0.5 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 2; `ORC-FQA2FHLZ6F` |  |
-| 903 | Liq. -> β-Nd(bcc) + NdZn | Liq.: Zn 0.231; NdZn: Zn 0.5 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 4; `ORC-IKKZFSH7NA` |  |
-| 903 | L -> NdZn(B2) + BCC-A2 | L: Zn 0.23 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 15; `ORC-JHNRYRTPOY` |  |
+| 903 | eutectic: Liq. -> β-Nd(bcc) + NdZn | Liq.: Zn 0.231; NdZn: Zn 0.5 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 4; `ORC-IKKZFSH7NA` |  |
+| 903 | eutectic: L -> NdZn(B2) + BCC-A2 | L: Zn 0.23 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 15; `ORC-JHNRYRTPOY` |  |
 | 902.15 | eutectic: L -> bcc_A2 + NdZn | L: Zn 0.23; bcc_A2: Zn 0.1; NdZn: Zn 0.5 | model | [3] Liu 2009 | Table 7, p. 6, row 2; `ORC-H576YPOKVM` |  |
-| 902 | L -> NdZn(B2) + BCC-A2 | L: Zn 0.223 | model | [2] Qi 2011 | Table 3, p. 5, row 16; `ORC-PVOA6BKWVC` |  |
-| 901.5 | Liq. -> β-Nd(bcc) + NdZn | Liq.: Zn 0.235; NdZn: Zn 0.5 | model | [4] Li 2008 | Table 1, p. 2, row 3; `ORC-32Q3QZHZAF` |  |
+| 902 | eutectic: L -> NdZn(B2) + BCC-A2 | L: Zn 0.223 | model | [2] Qi 2011 | Table 3, p. 5, row 16; `ORC-PVOA6BKWVC` |  |
+| 901.5 | eutectic: Liq. -> β-Nd(bcc) + NdZn | Liq.: Zn 0.235; NdZn: Zn 0.5 | model | [4] Li 2008 | Table 1, p. 2, row 3; `ORC-32Q3QZHZAF` |  |
 | 895.5 | β-Nd(bcc) -> α-Nd(dhcp) + NdZn | β-Nd(bcc): Zn 0.086; α-Nd(dhcp): Zn 0; NdZn: Zn 0.5 | model | [4] Li 2008 | Table 1, p. 2, row 1; `ORC-ORYW2JKT3D` |  |
 | 895.15 | eutectoid: dhcp + NdZn -> bcc_A2 | NdZn: Zn 0.5; bcc_A2: Zn 0.084 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 17; `ORC-5S4EP6ETX3` |  |
 | 895 | BCC_A2 -> NdZn(B2) + DHCP |  | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 17; `ORC-H3WMXSDKMZ` |  |
@@ -225,7 +225,6 @@ Table: Invariant reactions reported in the literature for the Nd–Zn system (87
 | 892.15 | eutectoid: dhcp + NdZn -> bcc_A2 | dhcp: Zn 0.004; NdZn: Zn 0.5; bcc_A2: Zn 0.096 | model | [3] Liu 2009 | Table 7, p. 6, row 18; `ORC-UCXU2UMJVR` |  |
 | 815 | polymorphic: NdZn11 -H -> NdZn11 -L | NdZn11 -H: Nd 0.083333, Zn 0.916667; NdZn11 -L: Nd 0.083333, Zn 0.916667; L: Zn 0.9167 | model | [1] Qi 2008 | Table 2, p. 3, row 25; `ORC-XCXS7SMODF` |  |
 | 813 | polymorphic: NdZn11 -H -> NdZn11 -L | NdZn11 -H: Nd 0.083333, Zn 0.916667; NdZn11 -L: Nd 0.083333, Zn 0.916667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 26; `ORC-C7SZSMZXAG` |  |
-| 798 | eutectic |  | experimental | [2] Qi 2011; _cites Drits 1971_ | p. 3; `ORC-W6HFQ6FZIV` | “Drits et al. \[30\] showed that there is a pseudo-binary eutectic reaction on the vertical section from the Mg solid solution to the 3 compound. It occurs at 798 K and the eutectic point is at 31 wt.% Nd, 10 wt.% Zn.” |
 | 693 | peritectic: L + NdZn11 -L -> hcp(Zn) | L: Zn 1; NdZn11 -L: Nd 0.083333, Zn 0.916667 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 28; `ORC-7WTV5G6IHS` |  |
 | 693 | L + NdZn11-L -> HCP_Zn | L: Zn 0.01; NdZn11-L: Nd 0.083333, Zn 0.916667 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 19; `ORC-DENO2AIUZK` |  |
 | 693 | L + NdZn11-L -> HCP_Zn | L: Zn 0.999; NdZn11-L: Nd 0.083333, Zn 0.916667 | model | [2] Qi 2011 | Table 3, p. 5, row 20; `ORC-NFVFLGNN47` |  |
@@ -233,7 +232,7 @@ Table: Invariant reactions reported in the literature for the Nd–Zn system (87
 
 ## Other properties
 
-### Phase transition (21)
+### Phase transition (14)
 
 Table: Phase transition, Nd–Zn system
 
@@ -241,25 +240,18 @@ Table: Phase transition, Nd–Zn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 895 K | 895 | other: ␤-Nd(bcc) → ␣-Nd(dhcp) + NdZn | experimental | [4] Li 2008 | p. 2; `ORC-6QM5FZ77IQ` | “The eutectoid reaction, ␤-Nd(bcc) → ␣-Nd(dhcp) + NdZn, occurs at 895 K, 8.4 at.% Zn.” |
 | Phase transition | 1055 K | 1055 | Liq. + Nd2 Zn17 → NdZn11 | model | [4] Li 2008 | p. 3; `ORC-EIVS6VD3WH` | “The calculated temperature of invariant reaction, Liq. + Nd2 Zn17 → NdZn11 , is 1055 K.” |
-| Phase transition | 1130.15 K | 1130.15 |  | model | [1] Qi 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 4; `ORC-4ZTABSVJEK.b13156` | “However, according to the SGTE database \[25\] the melting temperature of pure neodymium is 1016 ◦ C and the ␣ ↔ ␤ transformation temperature is 857 ◦ C.” |
-| Phase transition | 1135.15 K | 1135.15 |  | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | p. 4; `ORC-GFKEVKBEI6.1c48b0` | “The reported melting temperature of pure neodymium by Mason and Chitti \[20\] is 1021 ◦ C and the ␣ ↔ ␤ transformation temperature is 862 ◦ C.” |
 | Phase transition | 1194 K | 1194 | Liq. -> NdZn2; _Liq.: Zn 0.666667; NdZn2: Zn 0.666667_ | model | [4] Li 2008 | Table 1, p. 2, row 9; `ORC-S3Z7HGJUVB` |  |
 | Phase transition | 1195 K | 1195 | Liq. -> NdZn; _Liq.: Zn 0.5; NdZn: Zn 0.5_ | model | [4] Li 2008 | Table 1, p. 2, row 5; `ORC-L5KDTFR5LE` |  |
 | Phase transition | 1196 K | 1196 | Liq. -> NdZn; _Liq.: Zn 0.5; NdZn: Zn 0.5_ | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 6; `ORC-GXBB22VEXJ` |  |
-| Phase transition | 1196 K | 1196 | congruent transformation | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2; `ORC-EFDEAYK2ZC.ad838f` | “In the diagram of Chiotti and Mason \[14\], NdZn, NdZn2 and Nd2 Zn17 melt congruently, respectively, at the temperature 1196, 1198 and 1254 K.” |
 | Phase transition | 1196.15 K | 1196.15 | congruent melting: L -> NdZn; _L: Zn 0.5; NdZn: Zn 0.5_ | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 19; `ORC-TZVHFNXORM` |  |
 | Phase transition | 1196.15 K | 1196.15 | congruent melting: L -> NdZn; _L: Zn 0.5; NdZn: Zn 0.5_ | model | [3] Liu 2009 | Table 7, p. 6, row 20; `ORC-ZBRNWRGCZP` |  |
 | Phase transition | 1198 K | 1198 | Liq. -> NdZn2; _Liq.: Zn 0.666667; NdZn2: Zn 0.666667_ | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 10; `ORC-BRSMVMPLJT` |  |
-| Phase transition | 1198 K | 1198 | congruent transformation | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2; `ORC-EFDEAYK2ZC.1dead4` | “In the diagram of Chiotti and Mason \[14\], NdZn, NdZn2 and Nd2 Zn17 melt congruently, respectively, at the temperature 1196, 1198 and 1254 K.” |
 | Phase transition | 1199.15 K | 1199.15 | congruent melting: L -> NdZn2; _L: Zn 0.666667; NdZn2: Zn 0.666667_ | model | [3] Liu 2009 | Table 7, p. 6, row 22; `ORC-BIIZQPPAVL` |  |
 | Phase transition | 1199.15 K | 1199.15 | congruent melting: L -> NdZn2; _L: Zn 0.666667; NdZn2: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 21; `ORC-YMUZMI26J2` |  |
 | Phase transition | 1250 K | 1250 | Liq. -> Nd2Zn17; _Liq.: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | model | [4] Li 2008 | Table 1, p. 2, row 21; `ORC-SMIYMLY74L` |  |
 | Phase transition | 1254 K | 1254 | Liq. -> Nd2Zn17; _Liq.: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 22; `ORC-EW23BALU5L` |  |
-| Phase transition | 1254 K | 1254 | congruent transformation | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | p. 2; `ORC-EFDEAYK2ZC.00d48b` | “In the diagram of Chiotti and Mason \[14\], NdZn, NdZn2 and Nd2 Zn17 melt congruently, respectively, at the temperature 1196, 1198 and 1254 K.” |
 | Phase transition | 1254.15 K | 1254.15 | congruent melting: L -> Nd2Zn17; _L: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | model | [3] Liu 2009 | Table 7, p. 6, row 24; `ORC-3Y5MQBYWBZ` |  |
 | Phase transition | 1254.15 K | 1254.15 | congruent melting: L -> Nd2Zn17; _L: Zn 0.894737; Nd2Zn17: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 23; `ORC-6LKX44QCGR` |  |
-| Phase transition | 1289.15 K | 1289.15 |  | model | [1] Qi 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 4; `ORC-4ZTABSVJEK.8562c3` | “However, according to the SGTE database \[25\] the melting temperature of pure neodymium is 1016 ◦ C and the ␣ ↔ ␤ transformation temperature is 857 ◦ C.” |
-| Phase transition | 1294.15 K | 1294.15 |  | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | p. 4; `ORC-GFKEVKBEI6.829a30` | “The reported melting temperature of pure neodymium by Mason and Chitti \[20\] is 1021 ◦ C and the ␣ ↔ ␤ transformation temperature is 862 ◦ C.” |
 
 ### Formation (48)
 

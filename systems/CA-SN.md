@@ -1,10 +1,10 @@
 # Ca–Sn system
 
-> Ca–Sn system: 53 accepted literature values (formation 34, crystal structure 17, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Sn system: 52 accepted literature values (formation 34, crystal structure 17, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-SN.html · Markdown: https://data.orchid-project.org/systems/CA-SN.md
 
-53 accepted literature values from 2 paper(s) (experimental 7, model 22, DFT 7, unspecified 17); 2 calculated phase diagram(s).
+52 accepted literature values from 2 paper(s) (experimental 7, model 21, DFT 7, unspecified 17); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SN.json) · [CSV](https://data.orchid-project.org/systems/CA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SN/CaSn-05Car.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SN.html) · [Markdown](https://data.orchid-project.org/systems/CA-SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 7 |
-| model | 22 |
+| model | 21 |
 | DFT | 7 |
 | unspecified | 17 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
+| phase transition | 1 |
 | formation | 34 |
 | crystal structure | 17 |
 
@@ -107,13 +107,12 @@ Table: Enthalpies of formation, Ca–Sn system (34)
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Ca–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 583 K | 583 |  | model | [1] OHNO 2006 | p. 5; `ORC-3G3CQ3N4RX` | “Without the correction, the calculated transition temperature is about 583 K.” |
 | Phase transition | 1613 K | 1613 | Ca2Sn + liquid | experimental | [1] OHNO 2006; _cites Palenzona 2000_ | p. 2; `ORC-FG7DID4TFA` | “The Ca2Sn phase melts at the highest temperature, about 1613 K, which is much higher than the melting temperatures of the pure elements.” |
 
 ### Crystal structure (17)

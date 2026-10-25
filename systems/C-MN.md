@@ -1,10 +1,10 @@
 # C–Mn system
 
-> C–Mn system: 106 accepted literature values (invariant reaction 49, formation 31, crystal structure 23, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Mn system: 100 accepted literature values (invariant reaction 45, formation 31, crystal structure 23, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-MN.html · Markdown: https://data.orchid-project.org/systems/C-MN.md
 
-106 accepted literature values from 2 paper(s) (experimental 41, model 44, DFT 21); 0 calculated phase diagram(s).
+100 accepted literature values from 2 paper(s) (experimental 39, model 40, DFT 21); 0 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-MN.json) · [CSV](https://data.orchid-project.org/systems/C-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-MN) · [phases (13)](https://data.orchid-project.org/phases/pages/C-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-MN.html) · [Markdown](https://data.orchid-project.org/systems/C-MN.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 41 |
-| model | 44 |
+| experimental | 39 |
+| model | 40 |
 | DFT | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 49 |
-| phase transition | 3 |
+| invariant reaction | 45 |
+| phase transition | 1 |
 | formation | 31 |
 | crystal structure | 23 |
 
@@ -29,14 +29,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–Mn system (49)
+Table: Invariant reactions reported in the literature for the C–Mn system (45)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1608 | peritectic: L^a + CGraphite -> Mn7C3 | L: C 0.284563, Mn 0.715437; Mn7C3: C 0.3, Mn 0.7 | experimental | [1] Djurovic 2010; _cites Schurmann 1977_ | Table 4, p. 6, row 12; `ORC-JPRZS536O4` |  |
 | 1606 | peritectic: L^a + CGraphite -> Mn7C3 | L: C 0.266252, Mn 0.733748; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 10; `ORC-T6ZFBMHREB` |  |
 | 1604 | peritectic: L^a + CGraphite -> Mn7C3 | Mn7C3: C 0.3, Mn 0.7 | experimental | [1] Djurovic 2010; _cites Yamada 2006_ [doi](https://doi.org/10.1088/0026-1394/43/5/n01) | Table 4, p. 6, row 11; `ORC-CYTN44DP6O` |  |
-| 1603 | peritectic |  | model | [1] Djurovic 2010 | p. 2; `ORC-OUVEJCATDT.2c7e14` | “They have speculated that Mn7 C3 does not form by a peritectic reaction around 1603 K as suggested by Schürmann and Geissler \[16\], but by a peritectoid reaction around 1561 K.” |
 | 1598 | peritectic: L^a + CGraphite -> Mn7C3 | L: C 0.27394, Mn 0.72606; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010 | Table 4, p. 6, row 9; `ORC-5Y67S3W366` |  |
 | 1581 | peritectoid: L + Mn7C3 -> ε-Mn^a | Mn7C3: C 0.3, Mn 0.7; ε-Mn: C 0.244569, Mn 0.755431 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 14; `ORC-V2W2BE6QYY` |  |
 | 1575 | peritectoid: L + Mn7C3 -> ε-Mn^a | Mn7C3: C 0.3, Mn 0.7; ε-Mn: C 0.247255, Mn 0.752745 | model | [1] Djurovic 2010 | Table 4, p. 6, row 13; `ORC-Q5YR2OUZZX` |  |
@@ -47,10 +46,8 @@ Table: Invariant reactions reported in the literature for the C–Mn system (49)
 | 1508 | eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.13282, Mn 0.86718 | model | [1] Djurovic 2010 | Table 4, p. 6, row 5; `ORC-26NKFKCOOJ` |  |
 | 1507 | eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.009984, Mn 0.990016 | model | [1] Djurovic 2010 | Table 4, p. 6, row 1; `ORC-H47JCUPRQR` |  |
 | 1506 | eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.014024, Mn 0.985976 | experimental | [1] Djurovic 2010; _cites Fenstad 2007_ [doi](https://doi.org/10.3139/146.101563) | Table 4, p. 6, row 3; `ORC-2GIG25FEGZ` |  |
-| 1505 | eutectic: Liq → γ -Mn + δ -Mn |  | experimental | [1] Djurovic 2010 | p. 2; `ORC-7DCUUWLYKH.42ef3a` | “Fenstad and Tuset \[5\] reexamined the high temperature part of the Mn-C phase diagram by differential scanning calorimetry and proposed new liquidus details, such as one local maximum and two eutectics, Liq → γ -Mn + δ -Mn and Liq → γ -Mn + ε -Mn at 1505 K and 1501 K, respectively.” |
 | 1504 | eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.011334, Mn 0.988666 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 2; `ORC-WE45HSFK2O` |  |
 | 1502 | eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.133187, Mn 0.866813 | experimental | [1] Djurovic 2010; _cites Fenstad 2007_ [doi](https://doi.org/10.3139/146.101563) | Table 4, p. 6, row 7; `ORC-GH6SNQKTRK` |  |
-| 1501 | eutectic: Liq → γ -Mn + ε -Mn |  | experimental | [1] Djurovic 2010 | p. 2; `ORC-7DCUUWLYKH.df4177` | “Fenstad and Tuset \[5\] reexamined the high temperature part of the Mn-C phase diagram by differential scanning calorimetry and proposed new liquidus details, such as one local maximum and two eutectics, Liq → γ -Mn + δ -Mn and Liq → γ -Mn + ε -Mn at 1505 K and 1501 K, respectively.” |
 | 1444 | peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | ε-Mn: C 0.234292, Mn 0.765708; Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 17; `ORC-OREKZCQ5ZP` |  |
 | 1440 | peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | ε-Mn: C 0.234597, Mn 0.765403; Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | model | [1] Djurovic 2010 | Table 4, p. 6, row 16; `ORC-NC4XRLTHJ6` |  |
 | 1363 | peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 18; `ORC-ED5C7IIWX3` |  |
@@ -79,7 +76,6 @@ Table: Invariant reactions reported in the literature for the C–Mn system (49)
 | 1043 | eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | γ-Mn: C 0.084182, Mn 0.915818; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 41; `ORC-OCIF5FQYKF` |  |
 | 1038 | eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | γ-Mn: C 0.086573, Mn 0.913427; Mn23C6: C 0.206897, Mn 0.793103 | model | [1] Djurovic 2010 | Table 4, p. 6, row 40; `ORC-2QS3SHIQ7X` |  |
 | 1031 | eutectoid: γ-Mn^a -> α-Mn + Mn23C6 | γ-Mn: C 0.07897, Mn 0.92103; Mn23C6: C 0.206897, Mn 0.793103 | experimental | [1] Djurovic 2010; _cites Sichen 1989_ [doi](https://doi.org/10.1007/bf02655933) | Table 4, p. 6, row 42; `ORC-ABGIQDU2W6` |  |
-| 1031 | eutectoid: γ -Mn → α -Mn + Mn23 C6 |  | model | [1] Djurovic 2010 | p. 1; `ORC-W6UTP5BNX5` | “The temperature and composition of the eutectoid decomposition of γ -Mn by the reaction γ -Mn → α -Mn + Mn23 C6 were estimated to be 1031 K and 9.62 mol% of carbon, respectively.” |
 | 701 | eutectoid: Mn5C2 -> Mn23C6 + Mn7C3 | Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 45; `ORC-RBN6Z5PHK3` |  |
 | 653 | eutectoid: Mn5C2 -> Mn23C6 + Mn7C3 | Mn5C2: C 0.285714, Mn 0.714286; Mn23C6: C 0.206897, Mn 0.793103; Mn7C3: C 0.3, Mn 0.7 | model | [1] Djurovic 2010 | Table 4, p. 6, row 44; `ORC-UJAQ5JHHWQ` |  |
 
@@ -125,15 +121,13 @@ Table: Enthalpies of formation, C–Mn system (31)
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (1)
 
 Table: Phase transition, C–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1260 K | 1260 | ε -Mn → γ -Mn + Mn23 C6 | model | [1] Djurovic 2010 | p. 1; `ORC-ETCI4MRE2J` | “The temperature of the decomposition of ε -Mn to γ -Mn and Mn23 C6 was estimated to be 1260 K, and the equilibrium composition of ε -Mn corresponding to this three-phase reaction was 14.89 mol% of carbon.” |
 | Phase transition | 1389 K | 1389 | other: L = y + M3C | experimental | [2] Huang 1990 | p. 2; `ORC-B4LSBTBYHC` | “They established six invariant equilibria and a minimum on the univariant line L = y + M3C at 51 wt pct Mn and 1389 K.” |
-| Phase transition | 1561 K | 1561 | other | model | [1] Djurovic 2010 | p. 2; `ORC-OUVEJCATDT.bb48a0` | “They have speculated that Mn7 C3 does not form by a peritectic reaction around 1603 K as suggested by Schürmann and Geissler \[16\], but by a peritectoid reaction around 1561 K.” |
 
 ### Crystal structure (23)
 

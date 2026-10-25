@@ -1,10 +1,10 @@
 # As–Ga–Ge system
 
-> As–Ga–Ge system: 54 accepted literature values (phase transition 52, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> As–Ga–Ge system: 52 accepted literature values (phase transition 52) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AS-GA-GE.html · Markdown: https://data.orchid-project.org/systems/AS-GA-GE.md
 
-54 accepted literature values from 1 paper(s) (experimental 28, model 26); 0 calculated phase diagram(s).
+52 accepted literature values from 1 paper(s) (experimental 26, model 26); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AS-GA-GE.json) · [CSV](https://data.orchid-project.org/systems/AS-GA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-GA-GE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-GA-GE.html) · [Markdown](https://data.orchid-project.org/systems/AS-GA-GE.md)
 
@@ -12,24 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
+| experimental | 26 |
 | model | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
 | phase transition | 52 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the As–Ga–Ge system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1161 | eutectic |  | experimental | [1] Ansara 1984 | p. 14; `ORC-YOM6CD7SO6.c296d2` | “These seE %ot@are of the eutectic type.G?heA%utectic te@er& re in the pseudo binary system Ga As -Ge determined by Glazov (1161 K) is much higher than that reported by Panish (1136 K) or by %ke8&'(1138 + 2 K) values.” |
-| 1136 | eutectic |  | experimental | [1] Ansara 1984 | p. 14; `ORC-YOM6CD7SO6.6059c6` | “These seE %ot@are of the eutectic type.G?heA%utectic te@er& re in the pseudo binary system Ga As -Ge determined by Glazov (1161 K) is much higher than that reported by Panish (1136 K) or by %ke8&'(1138 + 2 K) values.” |
 
 ## Other properties
 

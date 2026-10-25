@@ -1,10 +1,10 @@
 # Al–Mg system
 
-> Al–Mg system: 148 accepted literature values (crystal structure 69, invariant reaction 31, mixing / partial 28, formation 11) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg system: 147 accepted literature values (crystal structure 69, invariant reaction 31, mixing / partial 28, formation 11) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG.html · Markdown: https://data.orchid-project.org/systems/AL-MG.md
 
-148 accepted literature values from 5 paper(s) (experimental 10, model 30, DFT 92, unspecified 16); 10 calculated phase diagram(s).
+147 accepted literature values from 4 paper(s) (experimental 9, model 46, DFT 92); 10 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG.json) · [CSV](https://data.orchid-project.org/systems/AL-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MG/AlMg-05Zho.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MG.html) · [Markdown](https://data.orchid-project.org/systems/AL-MG.md)
 
@@ -12,17 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
-| model | 30 |
+| experimental | 9 |
+| model | 46 |
 | DFT | 92 |
-| unspecified | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 31 |
-| phase transition | 9 |
+| phase transition | 8 |
 | formation | 11 |
 | mixing / partial | 28 |
 | crystal structure | 69 |
@@ -170,37 +169,37 @@ Table: Invariant reactions reported in the literature for the Al–Mg system (31
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 736.3 | congruent melting: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.523; Liquid: Mg 0.523 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 7; `ORC-TGI3MWKZTF` |  |
-| 733.3 | congruent melting: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.556; Liquid: Mg 0.556 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 9; `ORC-JOCP6MY2FE` |  |
+| 736.3 | congruent melting: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.523; Liquid: Mg 0.523 | model | [1] (ed.) 1998 | Table I, p. 69, row 7; `ORC-TGI3MWKZTF` |  |
+| 733.3 | congruent melting: Al12Mg17 -> Liquid | Al12Mg17: Mg 0.556; Liquid: Mg 0.556 | model | [1] (ed.) 1998 | Table I, p. 63, row 9; `ORC-JOCP6MY2FE` |  |
 | 725.15 | L+γ= ζ | L: Mg 0.442; γ: Mg 0.514; ζ: Mg 0.475 | model | [2] Zuo 1993 | Table 2, p. 10, row 7; `ORC-KGFIRKVB2H` |  |
 | 725.15 | L+γ= ζ | L: Mg 0.445; γ: Mg 0.506; ζ: Mg 0.481 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 8; `ORC-SUUEF56DWR` |  |
 | 725.1 | eutectic: Liquid = fcc-A1 + β | L: Mg 0.366; fcc-A1: Mg 0.166; β: Mg 0.389 | model | [3] Zhong 2005 | Table 5, p. 6, row 1; `ORC-O7TXLKQO4R` |  |
 | 725 | eutectic: Liquid = β + γ | L: Mg 0.413; β: Mg 0.389; γ: Mg 0.473 | model | [3] Zhong 2005 | Table 5, p. 6, row 2; `ORC-2RQ4JLQVRE` |  |
-| 725 | peritectic: Liquid + Al12Mg17 -> AlMg-ζ | Liquid: Mg 0.468; Al12Mg17: Mg 0.522; AlMg-ζ: Mg 0.475 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 4; `ORC-BJHG3BGBVW` |  |
-| 724.7 | congruent melting: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 6; `ORC-B22WM62W76` |  |
-| 724.1 | congruent melting: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 8; `ORC-KYM7XEI7GW` |  |
-| 723.6 | eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.389 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 1; `ORC-2MZ6GZGFUP` |  |
+| 725 | peritectic: Liquid + Al12Mg17 -> AlMg-ζ | Liquid: Mg 0.468; Al12Mg17: Mg 0.522; AlMg-ζ: Mg 0.475 | model | [1] (ed.) 1998 | Table I, p. 63, row 4; `ORC-BJHG3BGBVW` |  |
+| 724.7 | congruent melting: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | model | [1] (ed.) 1998 | Table I, p. 69, row 6; `ORC-B22WM62W76` |  |
+| 724.1 | congruent melting: AlMg-β -> Liquid | AlMg-β: Mg 0.385; Liquid: Mg 0.385 | model | [1] (ed.) 1998 | Table I, p. 63, row 8; `ORC-KYM7XEI7GW` |  |
+| 723.6 | eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.389 | model | [1] (ed.) 1998 | Table I, p. 69, row 1; `ORC-2MZ6GZGFUP` |  |
 | 723.55 | L+ζ = ε | L: Mg 0.43; ζ: Mg 0.475; ε: Mg 0.44 | model | [2] Zuo 1993 | Table 2, p. 10, row 5; `ORC-4BKXNBOY4Z` |  |
-| 723.3 | eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.385 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 1; `ORC-NPM2CPX345` |  |
+| 723.3 | eutectic: Liquid -> fcc-A1 + AlMg-β | Liquid: Mg 0.363; fcc-A1: Mg 0.166; AlMg-β: Mg 0.385 | model | [1] (ed.) 1998 | Table I, p. 63, row 1; `ORC-NPM2CPX345` |  |
 | 723.15 | L+ζ = ε | L: Mg 0.425; ζ: Mg 0.464; ε: Mg 0.447 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 6; `ORC-KU52HGDGED` |  |
 | 723.15 | L= (Al) + β | L: Mg 0.369; (Al): Mg 0.165; β: Mg 0.385 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 2; `ORC-TH6YXROASY` |  |
 | 722.85 | L= (Al) + β | L: Mg 0.368; (Al): Mg 0.165; β: Mg 0.385 | model | [2] Zuo 1993 | Table 2, p. 10, row 1; `ORC-3G7INGHP3Z` |  |
-| 722.7 | eutectic: Liquid -> AlMg-β + AlMg-γ | Liquid: Mg 0.424; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.48 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 2; `ORC-I3RFK6UB47` |  |
+| 722.7 | eutectic: Liquid -> AlMg-β + AlMg-γ | Liquid: Mg 0.424; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.48 | model | [1] (ed.) 1998 | Table I, p. 69, row 2; `ORC-I3RFK6UB47` |  |
 | 722.35 | L= β + ε | L: Mg 0.411; β: Mg 0.385; ε: Mg 0.44 | model | [2] Zuo 1993 | Table 2, p. 10, row 3; `ORC-BJGI2VXQPU` |  |
-| 722 | peritectic: Liquid + AlMg-ζ -> + AlMg-ε | Liquid: Mg 0.436; AlMg-ζ: Mg 0.475; AlMg-ε: Mg 0.44 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 3; `ORC-YSWT6U77I7` |  |
-| 721.5 | eutectic: Liquid -> AlMg-β + AlMg-ε | Liquid: Mg 0.423; AlMg-β: Mg 0.385; AlMg-ε: Mg 0.44 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 2; `ORC-MGOWKE5SMO` |  |
+| 722 | peritectic: Liquid + AlMg-ζ -> + AlMg-ε | Liquid: Mg 0.436; AlMg-ζ: Mg 0.475; AlMg-ε: Mg 0.44 | model | [1] (ed.) 1998 | Table I, p. 63, row 3; `ORC-YSWT6U77I7` |  |
+| 721.5 | eutectic: Liquid -> AlMg-β + AlMg-ε | Liquid: Mg 0.423; AlMg-β: Mg 0.385; AlMg-ε: Mg 0.44 | model | [1] (ed.) 1998 | Table I, p. 63, row 2; `ORC-MGOWKE5SMO` |  |
 | 721.15 | L= β + ε | L: Mg 0.408; β: Mg 0.385; ε: Mg 0.425 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 4; `ORC-HGDN54MVOU` |  |
 | 712.1 | eutectic: Liquid = γ + hcp-A3 | L: Mg 0.693; γ: Mg 0.593; hcp-A3: Mg 0.889 | model | [3] Zhong 2005 | Table 5, p. 6, row 5; `ORC-VSD3J3UTJJ` |  |
 | 711.15 | L=γ + (Mg) | L: Mg 0.698; γ: Mg 0.594; (Mg): Mg 0.886 | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 10; `ORC-X3IZSKGHCU` |  |
 | 710.95 | L=γ + (Mg) | L: Mg 0.692; γ: Mg 0.595; (Mg): Mg 0.885 | model | [2] Zuo 1993 | Table 2, p. 10, row 9; `ORC-HZ6BUQOY4T` |  |
-| 710 | eutectic: Liquid -> Al12Mg17 + hcp-A3 | Liquid: Mg 0.69; Al12Mg17: Mg 0.604; hcp-A3: Mg 0.884 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 7; `ORC-IDEXG6N5QQ` |  |
-| 709.4 | eutectic: Liquid -> AlMg-γ + hcp-A3 | Liquid: Mg 0.69; AlMg-γ: Mg 0.601; hcp-A3: Mg 0.884 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 5; `ORC-2PJN4OWSOZ` |  |
-| 700 | eutectoid: AlMg-ε -> AlMg-β + AlMg-ζ | AlMg-ε: Mg 0.44; AlMg-β: Mg 0.385; AlMg-ζ: Mg 0.475 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 5; `ORC-KSKFWMVTZU` |  |
+| 710 | eutectic: Liquid -> Al12Mg17 + hcp-A3 | Liquid: Mg 0.69; Al12Mg17: Mg 0.604; hcp-A3: Mg 0.884 | model | [1] (ed.) 1998 | Table I, p. 63, row 7; `ORC-IDEXG6N5QQ` |  |
+| 709.4 | eutectic: Liquid -> AlMg-γ + hcp-A3 | Liquid: Mg 0.69; AlMg-γ: Mg 0.601; hcp-A3: Mg 0.884 | model | [1] (ed.) 1998 | Table I, p. 69, row 5; `ORC-2PJN4OWSOZ` |  |
+| 700 | eutectoid: AlMg-ε -> AlMg-β + AlMg-ζ | AlMg-ε: Mg 0.44; AlMg-β: Mg 0.385; AlMg-ζ: Mg 0.475 | model | [1] (ed.) 1998 | Table I, p. 63, row 5; `ORC-KSKFWMVTZU` |  |
 | 700 | peritectoid: β + γ = ε | β: Mg 0.389; γ: Mg 0.484; ε: Mg 0.434 | model | [3] Zhong 2005 | Table 5, p. 6, row 3; `ORC-RJEFNFG3IU` |  |
-| 682.9 | peritectoid: AlMg-β+ AlMg-γ -> AlMg-ε | AlMg-β: Mg 0.389; AlMg-γ: Mg 0.494; AlMg-ε: Mg 0.434 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 3; `ORC-GPFZLJXPV4` |  |
-| 673 | eutectoid: AlMg-ζ -> AlMg-β + Al12Mg17 | AlMg-ζ: Mg 0.475; AlMg-β: Mg 0.385; Al12Mg17: Mg 0.513 | unspecified | [1] Hämäläinen 1998 | Table I, p. 63, row 6; `ORC-GDXG55CJ42` |  |
+| 682.9 | peritectoid: AlMg-β+ AlMg-γ -> AlMg-ε | AlMg-β: Mg 0.389; AlMg-γ: Mg 0.494; AlMg-ε: Mg 0.434 | model | [1] (ed.) 1998 | Table I, p. 69, row 3; `ORC-GPFZLJXPV4` |  |
+| 673 | eutectoid: AlMg-ζ -> AlMg-β + Al12Mg17 | AlMg-ζ: Mg 0.475; AlMg-β: Mg 0.385; Al12Mg17: Mg 0.513 | model | [1] (ed.) 1998 | Table I, p. 63, row 6; `ORC-GDXG55CJ42` |  |
 | 523.2 | eutectoid: ε = β + γ | ε: Mg 0.434; β: Mg 0.389; γ: Mg 0.536 | model | [3] Zhong 2005 | Table 5, p. 6, row 4; `ORC-6DT67DOVIZ` |  |
-| 523.2 | eutectoid: AlMg-ε -> AlMg-β + AlMg-γ | AlMg-ε: Mg 0.434; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.536 | unspecified | [1] Hämäläinen 1998 | Table I, p. 69, row 4; `ORC-XZQFPXHCCM` |  |
+| 523.2 | eutectoid: AlMg-ε -> AlMg-β + AlMg-γ | AlMg-ε: Mg 0.434; AlMg-β: Mg 0.389; AlMg-γ: Mg 0.536 | model | [1] (ed.) 1998 | Table I, p. 69, row 4; `ORC-XZQFPXHCCM` |  |
 
 ## Formation enthalpies
 
@@ -224,7 +223,7 @@ Table: Enthalpies of formation, Al–Mg system (11)
 
 ## Other properties
 
-### Phase transition (9)
+### Phase transition (8)
 
 Table: Phase transition, Al–Mg system
 
@@ -232,7 +231,6 @@ Table: Phase transition, Al–Mg system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 663 K | 663 | other | experimental | [3] Zhong 2005; _cites Liang 1998_ | p. 2; `ORC-GOBJQOMG5U.8418d4` | “For ε-Al30 Mg23 , the recent experiments by Czeppe et al. \[14\] and Benzio \[15\] show a good agreement with the lower temperature limit of the stability of the ε-Al30 Mg23 phase proposed by Su et al. \[16\] and Liang et al. \[2\] while its upper temperature limit was determined between 663 and 683 K by several previous investigations \[2,10,16,17\] and 700 K by Czeppe et al. \[14\].” |
 | Phase transition | 700 K | 700 | other | experimental | [3] Zhong 2005; _cites Czeppe 2003_ [doi](https://doi.org/10.1361/105497103770330550) | p. 2; `ORC-GOBJQOMG5U.dfdee2` | “For ε-Al30 Mg23 , the recent experiments by Czeppe et al. \[14\] and Benzio \[15\] show a good agreement with the lower temperature limit of the stability of the ε-Al30 Mg23 phase proposed by Su et al. \[16\] and Liang et al. \[2\] while its upper temperature limit was determined between 663 and 683 K by several previous investigations \[2,10,16,17\] and 700 K by Czeppe et al. \[14\].” |
-| Phase transition | 710 K | 710 | other | experimental | [4] ISLAM 2005 | p. 2; `ORC-TJ3BN7R25C` | “The g-phase is incoherent with the a-Mg matrix and exists at a wide composition range of 48 to 52 wt% Al and has a low melting point of 710 K.” |
 | Phase transition | 723.35 K | 723.35 | L= β; _L: Mg 0.385; β: Mg 0.385_ | model | [2] Zuo 1993 | Table 2, p. 10, row 11; `ORC-JEVK6YSHRM` |  |
 | Phase transition | 724.15 K | 724.15 | L= β; _L: Mg 0.385; β: Mg 0.385_ | experimental | [2] Zuo 1993; _cites ref. 38_ | Table 2, p. 10, row 12; `ORC-OLVZQ2YLQO` |  |
 | Phase transition | 725.7 K | 725.7 | congruent melting: Liquid = β; _L: Mg 0.387; β: Mg 0.387_ | model | [3] Zhong 2005 | Table 5, p. 6, row 6; `ORC-PMERB5W4XY` |  |
@@ -306,9 +304,9 @@ Table: Crystal structure, Al–Mg system
 | Lattice a; _printed: a_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10; `ORC-OQKEGXCFOQ.5c7314` |  |
 | Lattice a; _printed: a_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7; `ORC-VFK7UM4UIX.766d3b` |  |
 | Lattice a; _printed: a_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6; `ORC-HF55GV46B6.6ab2ed` |  |
-| Lattice a | 12.8254 Å | 330 | ε, Mg30Al23; _alloy: Mg 0.566038_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9; `ORC-LJXJPPFLSL.7077e1` |  |
-| Lattice a | 28.16 Å | 725.15 (\<) | β, Al3Mg2; _alloy: Mg 0.4_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 7; `ORC-3KZKRQGBJG` |  |
-| Lattice a | 10.5438 Å | 731.15 (\<) | γ, Mg17Al12; _alloy: Mg 0.586207_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 8; `ORC-ZH6RT56GFM` |  |
+| Lattice a | 12.8254 Å | 330 | ε, Mg30Al23; _alloy: Mg 0.566038_ | model | [4] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9; `ORC-LJXJPPFLSL.7077e1` |  |
+| Lattice a | 28.16 Å | 725.15 (\<) | β, Al3Mg2; _alloy: Mg 0.4_ | model | [4] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 7; `ORC-3KZKRQGBJG` |  |
+| Lattice a | 10.5438 Å | 731.15 (\<) | γ, Mg17Al12; _alloy: Mg 0.586207_ | model | [4] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 8; `ORC-ZH6RT56GFM` |  |
 | Lattice b; _printed: b_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3; `ORC-DLQ5DW5XH6.9b3e5f` |  |
 | Lattice b; _printed: b_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2; `ORC-2CNSECKY5K.e99dc4` |  |
 | Lattice b; _printed: b_ | 5.45 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4; `ORC-MUMQS4AXJI.88e0f7` |  |
@@ -338,7 +336,7 @@ Table: Crystal structure, Al–Mg system
 | Lattice c; _printed: c_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10; `ORC-OQKEGXCFOQ.ca7c8e` |  |
 | Lattice c; _printed: c_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7; `ORC-VFK7UM4UIX.06883d` |  |
 | Lattice c; _printed: c_ | 21.848 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6; `ORC-HF55GV46B6.4eb33a` |  |
-| Lattice c | 21.7478 Å | 330 | ε, Mg30Al23; _alloy: Mg 0.566038_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9; `ORC-LJXJPPFLSL.3b6126` |  |
+| Lattice c | 21.7478 Å | 330 | ε, Mg30Al23; _alloy: Mg 0.566038_ | model | [4] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9; `ORC-LJXJPPFLSL.3b6126` |  |
 | lattice unspecified axis; _printed: a = b_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3; `ORC-DLQ5DW5XH6.0521a3` |  |
 | lattice unspecified axis; _printed: a = b = c_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2; `ORC-2CNSECKY5K.43ebff` |  |
 | lattice unspecified axis; _printed: a = b_ | 5.45 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4; `ORC-MUMQS4AXJI.c0ec5e` |  |
@@ -355,11 +353,10 @@ Table: Crystal structure, Al–Mg system
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. Y. Zuo, Y.A. Chang, Thermodynamic calculation of the AlMg phase diagram, Calphad 17, 161-174 (1993). [doi:10.1016/0364-5916(93)90017-6](https://doi.org/10.1016/0364-5916%2893%2990017-6)
 3. Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005). [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004)
-4. F. ISLAM, M. MEDRAJ, THERMODYNAMIC MODELLING OF THE Mg-Al-Ca SYSTEM, Canadian Metallurgical Quarterly 44, 523-536 (2005). [doi:10.1179/cmq.2005.44.4.523](https://doi.org/10.1179/cmq.2005.44.4.523)
-5. Peisheng Wang, Yong Du, Shuhong Liu, Thermodynamic optimization of the Li–Mg and Al–Li–Mg systems, Calphad 35, 523-532 (2011). [doi:10.1016/j.calphad.2011.09.003](https://doi.org/10.1016/j.calphad.2011.09.003)
+4. Peisheng Wang, Yong Du, Shuhong Liu, Thermodynamic optimization of the Li–Mg and Al–Li–Mg systems, Calphad 35, 523-532 (2011). [doi:10.1016/j.calphad.2011.09.003](https://doi.org/10.1016/j.calphad.2011.09.003)
 
 ## Please cite
 

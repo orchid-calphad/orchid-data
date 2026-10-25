@@ -78,20 +78,20 @@ Table: Invariant reactions reported in the literature for the Ga–Te system (38
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1063 | L + Ga2Te3 -> Ga3Te4 | L: Te 0.57; Ga2Te3: Te 0.6; Ga3Te4: Te 0.571 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 18; `ORC-TW2WRK6NO3` |  |
-| 1061 | L -> GaTe + Ga3Te4 | L: Te 0.561; GaTe: Te 0.5; Ga3Te4: Te 0.571 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 14; `ORC-EKNR4K74SR` |  |
+| 1061 | eutectic: L -> GaTe + Ga3Te4 | L: Te 0.561; GaTe: Te 0.5; Ga3Te4: Te 0.571 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 14; `ORC-EKNR4K74SR` |  |
 | 1057.9 | L + Ga2Te3 -> Ga3Te4 | L: Te 0.57; Ga2Te3: Te 0.6; Ga3Te4: Te 0.571 | model | [1] Yu 2022 | Table 5, p. 12, row 16; `ORC-BLOKGKANJ3` |  |
-| 1057.2 | L -> GaTe + Ga3Te4 | L: Te 0.564; GaTe: Te 0.5; Ga3Te4: Te 0.571 | model | [1] Yu 2022 | Table 5, p. 12, row 12; `ORC-44TU5V4O5P` |  |
+| 1057.2 | eutectic: L -> GaTe + Ga3Te4 | L: Te 0.564; GaTe: Te 0.5; Ga3Te4: Te 0.571 | model | [1] Yu 2022 | Table 5, p. 12, row 12; `ORC-44TU5V4O5P` |  |
 | 1057 | L + Ga2Te3 -> Ga3Te4 | L: Te 0.57; Ga2Te3: Te 0.6; Ga3Te4: Te 0.571 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 17; `ORC-APA2UA3FTL` |  |
 | 1057 | L + Ga2Te3 -> Ga3Te4 | Ga2Te3: Ga 0.4, Te 0.6; Ga3Te4: Ga 0.428571, Te 0.571429 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 19; `ORC-L6PQB3PIRX` |  |
-| 1056 | L -> GaTe + Ga3Te4 | L: Te 0.562; GaTe: Te 0.5; Ga3Te4: Te 0.571 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 13; `ORC-77NJ4IIWJX` |  |
-| 1049 | L -> GaTe + Ga3Te4 | GaTe: Ga 0.5, Te 0.5; Ga3Te4: Ga 0.428571, Te 0.571429 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 15; `ORC-2HDNI6PKY4` |  |
-| 1023 | L2 -> L1 + GaTe | GaTe: Ga 0.5, Te 0.5 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 8; `ORC-R6MAWEMR3R` |  |
-| 1020 | L2 -> L1 + GaTe | L2: Te 0.295; L1: Te 0.075; GaTe: Te 0.5 | experimental | [1] Yu 2022; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 5, p. 12, row 11; `ORC-I4FG7CEQQW` |  |
-| 1019.2 | L2 -> L1 + GaTe | L2: Te 0.324; L1: Te 0.09; GaTe: Te 0.5 | model | [1] Yu 2022 | Table 5, p. 12, row 5; `ORC-NPSLTTY2C4` |  |
-| 1019 | L2 -> L1 + GaTe | GaTe: Ga 0.5, Te 0.5 | experimental | [1] Yu 2022; _cites Blachnik 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990158-4) | Table 5, p. 12, row 9; `ORC-T3M2I7ASGA` |  |
-| 1018 | L2 -> L1 + GaTe | L2: Te 0.3; L1: Te 0.09; GaTe: Te 0.5 | experimental | [1] Yu 2022; _cites Wobst 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990117-7) | Table 5, p. 12, row 10; `ORC-3JNIIBWVWY` |  |
-| 1015 | L2 -> L1 + GaTe | L2: Te 0.302; L1: Te 0.088; GaTe: Te 0.5 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 7; `ORC-HYP3YCVQWM` |  |
-| 1015 | L2 -> L1 + GaTe | L2: Te 0.303; L1: Te 0.086; GaTe: Te 0.5 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 6; `ORC-MVXVCHC4QW` |  |
+| 1056 | eutectic: L -> GaTe + Ga3Te4 | L: Te 0.562; GaTe: Te 0.5; Ga3Te4: Te 0.571 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 13; `ORC-77NJ4IIWJX` |  |
+| 1049 | eutectic: L -> GaTe + Ga3Te4 | GaTe: Ga 0.5, Te 0.5; Ga3Te4: Ga 0.428571, Te 0.571429 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 15; `ORC-2HDNI6PKY4` |  |
+| 1023 | monotectic: L2 -> L1 + GaTe | GaTe: Ga 0.5, Te 0.5 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 8; `ORC-R6MAWEMR3R` |  |
+| 1020 | monotectic: L2 -> L1 + GaTe | L2: Te 0.295; L1: Te 0.075; GaTe: Te 0.5 | experimental | [1] Yu 2022; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 5, p. 12, row 11; `ORC-I4FG7CEQQW` |  |
+| 1019.2 | monotectic: L2 -> L1 + GaTe | L2: Te 0.324; L1: Te 0.09; GaTe: Te 0.5 | model | [1] Yu 2022 | Table 5, p. 12, row 5; `ORC-NPSLTTY2C4` |  |
+| 1019 | monotectic: L2 -> L1 + GaTe | GaTe: Ga 0.5, Te 0.5 | experimental | [1] Yu 2022; _cites Blachnik 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990158-4) | Table 5, p. 12, row 9; `ORC-T3M2I7ASGA` |  |
+| 1018 | monotectic: L2 -> L1 + GaTe | L2: Te 0.3; L1: Te 0.09; GaTe: Te 0.5 | experimental | [1] Yu 2022; _cites Wobst 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990117-7) | Table 5, p. 12, row 10; `ORC-3JNIIBWVWY` |  |
+| 1015 | monotectic: L2 -> L1 + GaTe | L2: Te 0.302; L1: Te 0.088; GaTe: Te 0.5 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 7; `ORC-HYP3YCVQWM` |  |
+| 1015 | monotectic: L2 -> L1 + GaTe | L2: Te 0.303; L1: Te 0.086; GaTe: Te 0.5 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 6; `ORC-MVXVCHC4QW` |  |
 | 768 | L + Ga2Te3 -> Ga2Te5 | Ga2Te3: Ga 0.4, Te 0.6; Ga2Te5: Ga 0.285714, Te 0.714286 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 23; `ORC-V6YJU4FPVU` |  |
 | 761 | L + Ga2Te3 -> Ga2Te5 | L: Te 0.862; Ga2Te3: Te 0.6; Ga2Te5: Te 0.714 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 22; `ORC-4M2Q3UHVGL` |  |
 | 761 | L + Ga2Te3 -> Ga2Te5 | Ga2Te3: Ga 0.4, Te 0.6; Ga2Te5: Ga 0.285714, Te 0.714286 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 24; `ORC-HUPNOKMGOZ` |  |
@@ -99,22 +99,22 @@ Table: Invariant reactions reported in the literature for the Ga–Te system (38
 | 760.7 | L + Ga2Te3 -> Ga2Te5 | L: Te 0.845; Ga2Te3: Te 0.6; Ga2Te5: Te 0.714 | model | [1] Yu 2022 | Table 5, p. 12, row 20; `ORC-23JUVKT4TM` |  |
 | 757 | L + Ga2Te3 -> Ga2Te5 | Ga2Te3: Ga 0.4, Te 0.6; Ga2Te5: Ga 0.285714, Te 0.714286 | experimental | [1] Yu 2022; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 5, p. 12, row 26; `ORC-LN57TSGEPJ` |  |
 | 755 | L + Ga2Te3 -> Ga2Te5 | L: Te 0.78; Ga2Te3: Te 0.6; Ga2Te5: Te 0.714 | experimental | [1] Yu 2022; _cites Tschirner 1986_ | Table 5, p. 12, row 25; `ORC-VCOX3B6FNB` |  |
-| 713 | L -> Ga2Te5 + (Te) | L: Te 0.9; Ga2Te5: Te 0.714; (Te): Te 1 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 30; `ORC-WWXL6L32BM` |  |
-| 709 | L -> Ga2Te5 + (Te) | Ga2Te5: Ga 0.285714, Te 0.714286 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 31; `ORC-GNQ5XHF3MT` |  |
-| 705.7 | L -> Ga2Te5 + (Te) | L: Te 0.909; Ga2Te5: Te 0.714; (Te): Te 1 | model | [1] Yu 2022 | Table 5, p. 12, row 27; `ORC-ND7ALQER53` |  |
-| 704 | L -> Ga2Te5 + (Te) | Ga2Te5: Ga 0.285714, Te 0.714286 | experimental | [1] Yu 2022; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 5, p. 12, row 33; `ORC-RX6WQSJ2GD` |  |
-| 703 | L -> Ga2Te5 + (Te) | L: Te 0.9; Ga2Te5: Te 0.714; (Te): Te 1 | experimental | [1] Yu 2022; _cites Tschirner 1986_ | Table 5, p. 12, row 32; `ORC-2N5PCIWYBC` |  |
-| 703 | L -> Ga2Te5 + (Te) | L: Te 0.934; Ga2Te5: Te 0.714; (Te): Te 1 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 28; `ORC-EWAMKX4SDI` |  |
-| 703 | L -> Ga2Te5 + (Te) | L: Te 0.934; Ga2Te5: Te 0.714; (Te): Te 1 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 29; `ORC-IARPZTJJ3P` |  |
+| 713 | eutectic: L -> Ga2Te5 + (Te) | L: Te 0.9; Ga2Te5: Te 0.714; (Te): Te 1 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 30; `ORC-WWXL6L32BM` |  |
+| 709 | eutectic: L -> Ga2Te5 + (Te) | Ga2Te5: Ga 0.285714, Te 0.714286 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 31; `ORC-GNQ5XHF3MT` |  |
+| 705.7 | eutectic: L -> Ga2Te5 + (Te) | L: Te 0.909; Ga2Te5: Te 0.714; (Te): Te 1 | model | [1] Yu 2022 | Table 5, p. 12, row 27; `ORC-ND7ALQER53` |  |
+| 704 | eutectic: L -> Ga2Te5 + (Te) | Ga2Te5: Ga 0.285714, Te 0.714286 | experimental | [1] Yu 2022; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 5, p. 12, row 33; `ORC-RX6WQSJ2GD` |  |
+| 703 | eutectic: L -> Ga2Te5 + (Te) | L: Te 0.9; Ga2Te5: Te 0.714; (Te): Te 1 | experimental | [1] Yu 2022; _cites Tschirner 1986_ | Table 5, p. 12, row 32; `ORC-2N5PCIWYBC` |  |
+| 703 | eutectic: L -> Ga2Te5 + (Te) | L: Te 0.934; Ga2Te5: Te 0.714; (Te): Te 1 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 28; `ORC-EWAMKX4SDI` |  |
+| 703 | eutectic: L -> Ga2Te5 + (Te) | L: Te 0.934; Ga2Te5: Te 0.714; (Te): Te 1 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 29; `ORC-IARPZTJJ3P` |  |
 | 688.5 | Ga2Te5 -> Ga2Te3 + (Te) | Ga2Te5: Te 0.714; Ga2Te3: Te 0.6; (Te): Te 1 | model | [1] Yu 2022 | Table 5, p. 12, row 34; `ORC-GZLWYWGH74` |  |
 | 684 | Ga2Te5 -> Ga2Te3 + (Te) | Ga2Te5: Te 0.714; Ga2Te3: Te 0.6; (Te): Te 1 | experimental | [1] Yu 2022; _cites Tschirner 1986_ | Table 5, p. 12, row 38; `ORC-CBCVEUUJLP` |  |
 | 677 | Ga2Te5 -> Ga2Te3 + (Te) | Ga2Te5: Te 0.714; Ga2Te3: Te 0.6; (Te): Te 1 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 36; `ORC-4CVQKVLCZ4` |  |
 | 677 | Ga2Te5 -> Ga2Te3 + (Te) | Ga2Te5: Te 0.714; Ga2Te3: Te 0.6; (Te): Te 1 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 35; `ORC-I3DWDVI5BW` |  |
 | 673 | Ga2Te5 -> Ga2Te3 + (Te) | Ga2Te5: Te 0.714; Ga2Te3: Te 0.6; (Te): Te 1 | experimental | [1] Yu 2022; _cites Alapini 1979_ [doi](https://doi.org/10.1016/0022-4596%2879%2990082-3) | Table 5, p. 12, row 37; `ORC-PIFHE24553` |  |
-| 303 | L -> (Ga) + GaTe | L: Te 0; (Ga): Te 0; GaTe: Te 0.5 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 3; `ORC-DONKE5WAWV` |  |
-| 303 | L -> (Ga) + GaTe | GaTe: Ga 0.5, Te 0.5 | experimental | [1] Yu 2022; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 5, p. 12, row 4; `ORC-WV5JZUBB4L` |  |
-| 303 | L -> (Ga) + GaTe | L: Te 0; (Ga): Te 0; GaTe: Te 0.5 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 2; `ORC-YBUV7CWUWS` |  |
-| 302.9 | L -> (Ga) + GaTe | L: Te 0; (Ga): Te 0; GaTe: Te 0.5 | model | [1] Yu 2022 | Table 5, p. 12, row 1; `ORC-XQF6NQ5F2Q` |  |
+| 303 | eutectic: L -> (Ga) + GaTe | L: Te 0; (Ga): Te 0; GaTe: Te 0.5 | model | [1] Yu 2022; _cites Oh 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990029-w) | Table 5, p. 12, row 3; `ORC-DONKE5WAWV` |  |
+| 303 | eutectic: L -> (Ga) + GaTe | GaTe: Ga 0.5, Te 0.5 | experimental | [1] Yu 2022; _cites Mouani 1995_ [doi](https://doi.org/10.1016/0925-8388%2895%2901606-6) | Table 5, p. 12, row 4; `ORC-WV5JZUBB4L` |  |
+| 303 | eutectic: L -> (Ga) + GaTe | L: Te 0; (Ga): Te 0; GaTe: Te 0.5 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 2; `ORC-YBUV7CWUWS` |  |
+| 302.9 | eutectic: L -> (Ga) + GaTe | L: Te 0; (Ga): Te 0; GaTe: Te 0.5 | model | [1] Yu 2022 | Table 5, p. 12, row 1; `ORC-XQF6NQ5F2Q` |  |
 
 ## Formation enthalpies
 

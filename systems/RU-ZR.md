@@ -71,8 +71,8 @@ Table: Invariant reactions reported in the literature for the Ru–Zr system (10
 |---:|---|---|---|---|---|---|
 | 2098.15 | Ru2Zr -> Liq+ RuZr | Ru2Zr: Zr 0.33; L: Zr 0.31; RuZr: Zr 0.485 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 3; `ORC-5JKAJA5HQB` |  |
 | 2098.15 | Ru2Zr -> Liq+ RuZr | Ru2Zr: Zr 0.3223; L: Zr 0.3013; RuZr: Zr 0.4874 | model | [1] Idbenali 2007 | Table 4, p. 5, row 4; `ORC-5VTCPSYNUJ` |  |
-| 1988.15 | Liq -> (Ru) + Ru2Zr | L: Zr 0.22; (Ru): Zr 0.019; Ru2Zr: Zr 0.32 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 1; `ORC-4ITBN52CAY` |  |
-| 1988.15 | Liq -> (Ru) + Ru2Zr | L: Zr 0.2336; (Ru): Zr 0.0181; Ru2Zr: Zr 0.3111 | model | [1] Idbenali 2007 | Table 4, p. 5, row 2; `ORC-SRUGTBT3SH` |  |
+| 1988.15 | eutectic: Liq -> (Ru) + Ru2Zr | L: Zr 0.22; (Ru): Zr 0.019; Ru2Zr: Zr 0.32 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 1; `ORC-4ITBN52CAY` |  |
+| 1988.15 | eutectic: Liq -> (Ru) + Ru2Zr | L: Zr 0.2336; (Ru): Zr 0.0181; Ru2Zr: Zr 0.3111 | model | [1] Idbenali 2007 | Table 4, p. 5, row 2; `ORC-SRUGTBT3SH` |  |
 | 1558.15 | Ru2Zr -> (Ru) + RuZr | Ru2Zr: Zr 0.3208; (Ru): Zr 0.0161; RuZr: Zr 0.478 | model | [1] Idbenali 2007 | Table 4, p. 5, row 12; `ORC-D6I6IPBGKA` |  |
 | 1558.15 | Ru2Zr -> (Ru) + RuZr | Ru2Zr: Zr 0.33; (Ru): Zr 0.01; RuZr: Zr 0.48 | experimental | [1] Idbenali 2007; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667814) | Table 4, p. 5, row 11; `ORC-WQ3PWHWFP4` |  |
 | 1514.15 | RuZr + β(Zr) -> Liq | RuZr: Zr 0.5119; β(Zr): Zr 0.8892; L: Zr 0.7942 | model | [1] Idbenali 2007 | Table 4, p. 5, row 8; `ORC-RM37AJY7CW` |  |

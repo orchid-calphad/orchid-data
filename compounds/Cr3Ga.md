@@ -38,13 +38,13 @@ Table: Uncertainty budget of the literature values of Cr3Ga
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -8.56 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
-| -8.1 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
-| -8.1 | kJ/mol (basis unstated) | 0.3 | 0.05 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
-| -7.97 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
-| -7.76 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
-| -7.25 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
-| -7.25 | kJ/mol (basis unstated) | 0.7 | 0.005 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -8.56 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
+| -8.1 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
+| -8.1 | kJ/mol (basis unstated) | 0.3 | 0.05 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
+| -7.97 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
+| -7.76 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
+| -7.25 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
+| -7.25 | kJ/mol (basis unstated) | 0.7 | 0.005 | 12.8 (solution_reaction_calorimetry, calibrated) |  |  |  | 12.8 |
 | -3.3 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -3.3 | kJ/mol (basis unstated) |  | 0.05 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
 | -12 | kJ/mol (basis unstated) |  | 0.5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |

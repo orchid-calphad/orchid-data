@@ -1,25 +1,12 @@
 # Cr–Pb system
 
-> Cr–Pb system: 2 accepted literature values (invariant reaction 1, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Pb system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-PB.html · Markdown: https://data.orchid-project.org/systems/CR-PB.md
 
-2 accepted literature values from 1 paper(s) (model 2); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-PB.json) · [CSV](https://data.orchid-project.org/systems/CR-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-PB/CrPb-14Gos.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-PB.html) · [Markdown](https://data.orchid-project.org/systems/CR-PB.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -42,30 +29,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CrPb-14Gos.tdb | 600.61 | BCC_A2 (x(Pb) 0) + LIQUID (x(Pb) 1) + FCC_A1 (x(Pb) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CR/CR-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CR/CR-PB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cr–Pb system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 2008 | monotectic |  | model | [1] Gossé 2014 | p. 4; `ORC-YS6OUX3IFT.2efcc4` | “The monotectic reaction is calculated at 2008 K and the critical point of the liquid miscibility gap is 2186 K for a 50 at.% Cr composition (Fig. 3(a)).” |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Cr–Pb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 2186 K | 2186 | other | model | [1] Gossé 2014 | p. 4; `ORC-YS6OUX3IFT.417951` | “The monotectic reaction is calculated at 2008 K and the critical point of the liquid miscibility gap is 2186 K for a 50 at.% Cr composition (Fig. 3(a)).” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Stéphane Gossé, Thermodynamic assessment of solubility and activity of iron, chromium, and nickel in lead bismuth eutectic, Journal of Nuclear Materials 449, 122-131 (2014). [doi:10.1016/j.jnucmat.2014.03.011](https://doi.org/10.1016/j.jnucmat.2014.03.011)
 
 ## Please cite
 

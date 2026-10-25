@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of Ce5Sn3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -75.3 | kJ/mol-atom | 4.2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
-| -73.22 | kJ/mol-atom | 4.2 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
+| -75.3 | kJ/mol-atom | 4.2 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
+| -73.22 | kJ/mol-atom | 4.2 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
 | -75 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -70.03 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -73.794 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -65.89 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -65.34 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -73.794 | kJ/mol-atom |  | 5.000e-5 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -65.89 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -65.34 | kJ/mol-atom |  | 0.005 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

@@ -18,7 +18,7 @@ Table: Phases of the Pb–Te system (7)
 | [HCP_A3](#phase-pb-te-hcp-a3); _phase:pb-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [ION](#phase-pb-te-ion); _phase:pb-te:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 600.06–2500 K, x(Te) 0–1 | 1 | 1 |
 | [LIQUID](#phase-pb-te-liquid); _phase:pb-te:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 599.8–2500 K, x(Te) 0–1 | 17 | 4 |
-| [PBTE_B1](#phase-pb-te-pbte-b1); _phase:pb-te:pbte-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1213.89 K, x(Te) 0.49994–0.50024 | 27 | 5 |
+| [PBTE_B1](#phase-pb-te-pbte-b1); _phase:pb-te:pbte-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1213.89 K, x(Te) 0.49994–0.50024 | 31 | 5 |
 
 ## HEXAGONAL_A8 (Pb–Te)
 
@@ -371,7 +371,7 @@ _reports values for this phase_
 - Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; tier A: standard phase name; confidence high
 - Caveat: partitioned order/disorder model in PbTe-09Gie.tdb also describes the disordered state
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1213.89 K, x(Te) 0.49994–0.50024
-- Literature: 27 values (27 accepted) from 4 papers
+- Literature: 31 values (31 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pb-te:pbte-b1)
 
 Names (10): _corpus: _corpus:phase:pb-te:pbte-b1  

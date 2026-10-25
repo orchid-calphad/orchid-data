@@ -1,10 +1,10 @@
 # Dy–Ru system
 
-> Dy–Ru system: 21 accepted literature values (formation 13, invariant reaction 7, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Ru system: 16 accepted literature values (formation 13, invariant reaction 2, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-RU.html · Markdown: https://data.orchid-project.org/systems/DY-RU.md
 
-21 accepted literature values from 1 paper(s) (experimental 6, model 13, DFT 2); 1 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (experimental 3, model 11, DFT 2); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-RU.json) · [CSV](https://data.orchid-project.org/systems/DY-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-RU/DyRu-23Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/DY-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-RU.html) · [Markdown](https://data.orchid-project.org/systems/DY-RU.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 13 |
+| experimental | 3 |
+| model | 11 |
 | DFT | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 7 |
+| invariant reaction | 2 |
 | phase transition | 1 |
 | formation | 13 |
 
@@ -53,17 +53,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Dy–Ru system (7)
+Table: Invariant reactions reported in the literature for the Dy–Ru system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1411 | peritectic |  | experimental | [1] Kardellass 2023 | p. 3; `ORC-A44RWNYAPV.ca8fb7` | “The other two phases are formed peritectically at 1328 K (Gd3Ru) and 1388 K (Dy3Ru) and at 1338 K (Gd2Ru) and 1411 K (Dy2Ru).” |
-| 1406 | eutectic |  | model | [1] Kardellass 2023 | p. 20; `ORC-XZNFSVC3KR.a8afd7` | “The Liq Dy73Ru27 ? Dy2Ru eutectic reaction was calculated at (1406 K; 29.8 at.% Ru) and (1389 K; 29.7 at.% Ru) versus (1363 K; 29 at.% Ru) according to Ref 26 in the case of exponential and combined model, respectively.” |
-| 1389 | eutectic |  | model | [1] Kardellass 2023 | p. 20; `ORC-XZNFSVC3KR.e37bcb` | “The Liq Dy73Ru27 ? Dy2Ru eutectic reaction was calculated at (1406 K; 29.8 at.% Ru) and (1389 K; 29.7 at.% Ru) versus (1363 K; 29 at.% Ru) according to Ref 26 in the case of exponential and combined model, respectively.” |
 | 1388 | peritectic |  | experimental | [1] Kardellass 2023 | p. 3; `ORC-A44RWNYAPV.0b64e4` | “The other two phases are formed peritectically at 1328 K (Gd3Ru) and 1388 K (Dy3Ru) and at 1338 K (Gd2Ru) and 1411 K (Dy2Ru).” |
-| 1363 | eutectic |  | experimental | [1] Kardellass 2023; _cites Loebich 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990172-7) | p. 3; `ORC-2HRU5V3Z5K.6f0d9b` | “The two eutectic points of the Gd-Ru system correspond to 1190 K and 1238 K for 70 and 85 at.% Gd, and, in the case of the Dy-Ru system, they are 1263 K and 1363 K for compositions of 70 and 82 at.% Dy.” |
-| 1363 | eutectic |  | experimental | [1] Kardellass 2023; _cites Loebich 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990172-7) | p. 20; `ORC-XZNFSVC3KR.938459` | “The Liq Dy73Ru27 ? Dy2Ru eutectic reaction was calculated at (1406 K; 29.8 at.% Ru) and (1389 K; 29.7 at.% Ru) versus (1363 K; 29 at.% Ru) according to Ref 26 in the case of exponential and combined model, respectively.” |
-| 1263 | eutectic |  | experimental | [1] Kardellass 2023; _cites Loebich 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990172-7) | p. 3; `ORC-2HRU5V3Z5K.99a5b5` | “The two eutectic points of the Gd-Ru system correspond to 1190 K and 1238 K for 70 and 85 at.% Gd, and, in the case of the Dy-Ru system, they are 1263 K and 1363 K for compositions of 70 and 82 at.% Dy.” |
 
 ## Formation enthalpies
 
@@ -97,12 +92,12 @@ Table: Formation, Dy–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔSf_ | -0.166 J/mol-atom/K |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 18; `ORC-5QS5V7VJQ7.2a9689` |  |
-| Entropy of formation; _printed: ΔSf_ | -0.055 J/mol-atom/K |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 17; `ORC-7PT3JJPEU4.267f9d` |  |
-| Entropy of formation; _printed: ΔSf_ | -0.138 J/mol-atom/K |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 16; `ORC-CLTIDVUAVO.1e4e75` |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -15.811 kJ/mol-atom |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 18; `ORC-5QS5V7VJQ7.43a92d` |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -15.637 kJ/mol-atom |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 17; `ORC-7PT3JJPEU4.948c28` |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -16.407 kJ/mol-atom |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 16; `ORC-CLTIDVUAVO.83db7d` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.166 J/mol-atom/K |  | Dy3Ru; _alloy: Dy 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 18; `ORC-5QS5V7VJQ7.2a9689` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.055 J/mol-atom/K |  | Dy3Ru; _alloy: Dy 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 17; `ORC-7PT3JJPEU4.267f9d` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.138 J/mol-atom/K |  | Dy3Ru; _alloy: Dy 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 16; `ORC-CLTIDVUAVO.1e4e75` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -15.811 kJ/mol-atom |  | Dy3Ru; _alloy: Dy 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 18; `ORC-5QS5V7VJQ7.43a92d` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -15.637 kJ/mol-atom |  | Dy3Ru; _alloy: Dy 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 17; `ORC-7PT3JJPEU4.948c28` |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -16.407 kJ/mol-atom |  | Dy3Ru; _alloy: Dy 0.75, Ru 0.25_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 16; `ORC-CLTIDVUAVO.83db7d` |  |
 
 ## Sources
 

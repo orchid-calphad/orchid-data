@@ -29,10 +29,10 @@ Table: Crystal structure, Al–H–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.2225 Å |  | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | model | [1] Palumbo 2007 | Table 2, p. 5, row 2; `ORC-UAOTN2QGQT` |  |
-| Lattice a | 5.2084 Å | 298.15 | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 1; `ORC-P3XIW2ARJ4` |  |
-| Lattice c | 5.7635 Å |  | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | model | [1] Palumbo 2007 | Table 2, p. 5, row 4; `ORC-RA3FWRKMMR` |  |
-| Lattice c | 5.8392 Å | 298.15 | Mg(AlH4)2; _alloy: H 0.666667, Mg 0.166667_ | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 3; `ORC-BL6OOEEFGT` |  |
+| Lattice a | 5.2225 Å |  | Mg(AlH4)2; _alloy: Al 0.181818, H 0.727273, Mg 0.090909_ | model | [1] Palumbo 2007 | Table 2, p. 5, row 2; `ORC-UAOTN2QGQT` |  |
+| Lattice a | 5.2084 Å | 298.15 | Mg(AlH4)2; _alloy: Al 0.181818, H 0.727273, Mg 0.090909_ | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 1; `ORC-P3XIW2ARJ4` |  |
+| Lattice c | 5.7635 Å |  | Mg(AlH4)2; _alloy: Al 0.181818, H 0.727273, Mg 0.090909_ | model | [1] Palumbo 2007 | Table 2, p. 5, row 4; `ORC-RA3FWRKMMR` |  |
+| Lattice c | 5.8392 Å | 298.15 | Mg(AlH4)2; _alloy: Al 0.181818, H 0.727273, Mg 0.090909_ | experimental | [1] Palumbo 2007 | Table 2, p. 5, row 3; `ORC-BL6OOEEFGT` |  |
 
 ## Sources
 

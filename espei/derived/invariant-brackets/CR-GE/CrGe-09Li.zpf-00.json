@@ -407,7 +407,7 @@
     "x0": 0.85,
     "hyperplane_delta": 0.01,
     "reaction_printed": "liq -> Cr11Ge19 + diamond",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

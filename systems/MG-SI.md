@@ -1,10 +1,10 @@
 # Mg–Si system
 
-> Mg–Si system: 227 accepted literature values (invariant reaction 80, heat capacity / entropy / enthalpy 62, formation 49, mixing / partial 24) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Si system: 217 accepted literature values (invariant reaction 78, heat capacity / entropy / enthalpy 62, formation 49, mixing / partial 24) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-SI.html · Markdown: https://data.orchid-project.org/systems/MG-SI.md
 
-227 accepted literature values from 7 paper(s) (experimental 174, model 43, DFT 7, unspecified 3); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+217 accepted literature values from 6 paper(s) (experimental 169, model 38, DFT 7, unspecified 3); 7 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SI.json) · [CSV](https://data.orchid-project.org/systems/MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SI/MgSi-00Yan-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/MG-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/MG-SI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 174 |
-| model | 43 |
+| experimental | 169 |
+| model | 38 |
 | DFT | 7 |
 | unspecified | 3 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 80 |
-| phase transition | 10 |
+| invariant reaction | 78 |
+| phase transition | 2 |
 | formation | 49 |
 | mixing / partial | 24 |
 | heat capacity / entropy / enthalpy | 62 |
@@ -89,65 +89,64 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Si system (80)
+Table: Invariant reactions reported in the literature for the Mg–Si system (78)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1363.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Lebeau 1901_ | Table 5, p. 5, row 2; `ORC-QIJT2G5P5K` |  |
-| 1363 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 8, row 15; `ORC-5KOOTVMM6S` |  |
-| 1358.15 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Klemm 1941_ [doi](https://doi.org/10.1002/zaac.19412450404) | Table 5, p. 4, row 12; `ORC-4SPEGMJTH5` |  |
+| 1363 | congruent melting: L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 8, row 15; `ORC-5KOOTVMM6S` |  |
+| 1358.15 | congruent melting: L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Klemm 1941_ [doi](https://doi.org/10.1002/zaac.19412450404) | Table 5, p. 4, row 12; `ORC-4SPEGMJTH5` |  |
 | 1358.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Caulfield 1966_ | Table 5, p. 5, row 14; `ORC-F7HX5FV6LO` |  |
-| 1358.15 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Geffken 1968_ | Table 5, p. 4, row 16; `ORC-YMYXOHS74A` |  |
+| 1358.15 | congruent melting: L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Geffken 1968_ | Table 5, p. 4, row 16; `ORC-YMYXOHS74A` |  |
 | 1358.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 5, p. 5, row 18; `ORC-Z3JTIVS2DT` |  |
-| 1358 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Geffken 1968_ | Table 5, p. 8, row 17; `ORC-AXYT2A55J3` |  |
-| 1357.75 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [3] Yuan 2009 | Table 5, p. 4, row 22; `ORC-XIED4RPFT2` |  |
+| 1358 | congruent melting: L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Geffken 1968_ | Table 5, p. 8, row 17; `ORC-AXYT2A55J3` |  |
+| 1357.75 | congruent melting: L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [3] Yuan 2009 | Table 5, p. 4, row 22; `ORC-XIED4RPFT2` |  |
 | 1357.45 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000 | Table 5, p. 5, row 36; `ORC-BPRRWMR357` |  |
 | 1354.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 5, p. 5, row 27; `ORC-GCWMGMHWXJ` |  |
 | 1353.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Dorner 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990016-x) | Table 5, p. 5, row 24; `ORC-HZ7SFKANAR` |  |
-| 1353.15 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Eldridge 1967_ | Table 5, p. 4, row 13; `ORC-ZNLNCRLMAB` |  |
-| 1351.15 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schurmann 1977_ | Table 5, p. 4, row 19; `ORC-KT5Q472JMJ` |  |
+| 1353.15 | congruent melting: L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Eldridge 1967_ | Table 5, p. 4, row 13; `ORC-ZNLNCRLMAB` |  |
+| 1351.15 | congruent melting: L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schurmann 1977_ | Table 5, p. 4, row 19; `ORC-KT5Q472JMJ` |  |
 | 1351.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schurmann 1977_ | Table 5, p. 5, row 21; `ORC-QMRIJPFO5T` |  |
-| 1351 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Schurmann 1977_ | Table 5, p. 8, row 18; `ORC-4IWA64COPU` |  |
-| 1350.5 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | model | [2] Schick 2012 | Table 5, p. 8, row 21; `ORC-HPHPEBWYS3` |  |
+| 1351 | congruent melting: L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Schurmann 1977_ | Table 5, p. 8, row 18; `ORC-4IWA64COPU` |  |
+| 1350.5 | congruent melting: L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | model | [2] Schick 2012 | Table 5, p. 8, row 21; `ORC-HPHPEBWYS3` |  |
 | 1350.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Eldridge 1967_ | Table 5, p. 5, row 15; `ORC-E7U3Q2KZD4` |  |
 | 1349.95 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Lukas 1994_ | Table 5, p. 5, row 30; `ORC-MHWO6DU6WI` |  |
 | 1349.55 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 5, row 33; `ORC-ZSRIUCE2F6` |  |
-| 1346 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012 | Table 5, p. 8, row 20; `ORC-IE6LCVOVT5` |  |
+| 1346 | congruent melting: L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012 | Table 5, p. 8, row 20; `ORC-IE6LCVOVT5` |  |
 | 1345.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Beardmore 1966_ | Table 5, p. 5, row 13; `ORC-CD7RYUEH6C` |  |
-| 1343.15 | L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 4, row 3; `ORC-6FZW7Z5GBP` |  |
+| 1343.15 | congruent melting: L -> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 4, row 3; `ORC-6FZW7Z5GBP` |  |
 | 1343.15 | congruent melting: L \<-> Mg2Si | L: Mg 0.666667, Si 0.333333; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 5, row 5; `ORC-NMT3GULATJ` |  |
-| 1343 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 8, row 16; `ORC-UGAJU3AJ5B` |  |
-| 1241.15 | eutectic |  | model | [4] Kevorkov 2004 | p. 10; `ORC-BHBXVORHWP` | “This is the reason why this line ends at 968 °C and does not touch the liquidus line. This maximum corresponds to e1 on the eutectic line between ␶3 and LixMg2Si, given in Fig. 19.” |
+| 1343 | congruent melting: L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 8, row 16; `ORC-UGAJU3AJ5B` |  |
 | 1223.15 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5444; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 5, row 4; `ORC-LCPZVGO5EE` |  |
-| 1223.15 | L -> Mg2Si + Si-diamond | L: Si 0.544; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 4, row 2; `ORC-LWLTOSITBQ` |  |
-| 1223 | L -> Mg2Si + Si (dia) | L: Si 0.54; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 8, row 8; `ORC-HEMVRHULHU` |  |
-| 1219 | L -> Mg2Si + Si (dia) | L: Si 0.529; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Farkas 1985_ | Table 5, p. 8, row 12; `ORC-VJKBFOQG42` |  |
-| 1218.8 | L -> Mg2Si + Si (dia) | L: Si 0.53; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Geffken 1968_ | Table 5, p. 8, row 10; `ORC-UVZQPISW4Q` |  |
-| 1218.75 | L -> Mg2Si + Si-diamond | L: Si 0.53; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Geffken 1968_ | Table 5, p. 4, row 15; `ORC-6Z5W5OSF6Q` |  |
+| 1223.15 | eutectic: L -> Mg2Si + Si-diamond | L: Si 0.544; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 4, row 2; `ORC-LWLTOSITBQ` |  |
+| 1223 | eutectic: L -> Mg2Si + Si (dia) | L: Si 0.54; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 8, row 8; `ORC-HEMVRHULHU` |  |
+| 1219 | eutectic: L -> Mg2Si + Si (dia) | L: Si 0.529; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Farkas 1985_ | Table 5, p. 8, row 12; `ORC-VJKBFOQG42` |  |
+| 1218.8 | eutectic: L -> Mg2Si + Si (dia) | L: Si 0.53; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Geffken 1968_ | Table 5, p. 8, row 10; `ORC-UVZQPISW4Q` |  |
+| 1218.75 | eutectic: L -> Mg2Si + Si-diamond | L: Si 0.53; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Geffken 1968_ | Table 5, p. 4, row 15; `ORC-6Z5W5OSF6Q` |  |
 | 1218.75 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.53; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 5, p. 5, row 17; `ORC-R3MS6HADTZ` |  |
-| 1218.75 | L -> Mg2Si + Si-diamond | L: Si 0.535; Mg2Si: Mg 0.666667, Si 0.333333 | model | [3] Yuan 2009 | Table 5, p. 4, row 21; `ORC-ZZF7BVFBUO` |  |
+| 1218.75 | eutectic: L -> Mg2Si + Si-diamond | L: Si 0.535; Mg2Si: Mg 0.666667, Si 0.333333 | model | [3] Yuan 2009 | Table 5, p. 4, row 21; `ORC-ZZF7BVFBUO` |  |
 | 1217.15 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5302; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000 | Table 5, p. 5, row 35; `ORC-IERBTRHZ4J` |  |
 | 1217.15 | eutectic: L \<-> Mg2Si + (Si) | Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Dorner 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990016-x) | Table 5, p. 5, row 23; `ORC-YOWMO7GWZF` |  |
 | 1216.71 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5418; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 5, row 32; `ORC-URKEGASOA2` |  |
 | 1216.69 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5401; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Lukas 1994_ | Table 5, p. 5, row 29; `ORC-A4HRW5GLSS` |  |
 | 1215.5 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.529; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 5, p. 5, row 26; `ORC-M4Q4HIXEGT` |  |
 | 1215 | eutectic: Liquid → Mg2 Si + (Si) |  | experimental | [2] Schick 2012 | p. 4; `ORC-GZZDZGOBQE` | “The temperature of the eutectic reaction Liquid → Mg2 Si + (Si), determined from onset values of peaks on heating, was 1215 K.” |
-| 1215 | L -> Mg2Si + Si (dia) | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [2] Schick 2012 | Table 5, p. 8, row 13; `ORC-W4DTZOM43P` |  |
-| 1214.4 | eutectic: Liquid -> Mg2Si + diamond | Liquid: Si 0.53; Mg2Si: Si 0.333; diamond: Si 1 | model | [5] Hämäläinen 1998 | Table I, p. 239, row 2; `ORC-WH5JYXI2OT` |  |
+| 1215 | eutectic: L -> Mg2Si + Si (dia) | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [2] Schick 2012 | Table 5, p. 8, row 13; `ORC-W4DTZOM43P` |  |
+| 1214.4 | eutectic: Liquid -> Mg2Si + diamond | Liquid: Si 0.53; Mg2Si: Si 0.333; diamond: Si 1 | model | [4] (ed.) 1998 | Table I, p. 239, row 2; `ORC-WH5JYXI2OT` |  |
 | 1213.15 | eutectic: L \<-> Mg2Si + (Si) | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schurmann 1977_ | Table 5, p. 5, row 20; `ORC-GEPE2HHZBE` |  |
-| 1213.15 | L -> Mg2Si + Si-diamond | L: Si 0.541; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schurmann 1977_ | Table 5, p. 4, row 18; `ORC-POH45D53AF` |  |
-| 1213 | L -> Mg2Si + Si (dia) | L: Si 0.541; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Schurmann 1977_ | Table 5, p. 8, row 11; `ORC-MWUMEIXWSK` |  |
-| 1212.5 | L -> Mg2Si + Si (dia) | L: Si 0.543; Mg2Si: Si 0.333; Si (dia): Si 1 | model | [2] Schick 2012 | Table 5, p. 8, row 14; `ORC-DQNTUKLQMY` |  |
-| 1193.15 | L -> Mg2Si + Si-diamond | L: Si 0.534; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 4, row 6; `ORC-HSEAY34GKF` |  |
+| 1213.15 | eutectic: L -> Mg2Si + Si-diamond | L: Si 0.541; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schurmann 1977_ | Table 5, p. 4, row 18; `ORC-POH45D53AF` |  |
+| 1213 | eutectic: L -> Mg2Si + Si (dia) | L: Si 0.541; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Schurmann 1977_ | Table 5, p. 8, row 11; `ORC-MWUMEIXWSK` |  |
+| 1212.5 | eutectic: L -> Mg2Si + Si (dia) | L: Si 0.543; Mg2Si: Si 0.333; Si (dia): Si 1 | model | [2] Schick 2012 | Table 5, p. 8, row 14; `ORC-DQNTUKLQMY` |  |
+| 1193.15 | eutectic: L -> Mg2Si + Si-diamond | L: Si 0.534; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 4, row 6; `ORC-HSEAY34GKF` |  |
 | 1193.15 | eutectic: L \<-> Mg2Si + (Si) | L: Si 0.5343; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Woler 1926_ | Table 5, p. 5, row 7; `ORC-SS4V2BD7QI` |  |
-| 1193 | L -> Mg2Si + Si (dia) | L: Si 0.53; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 8, row 9; `ORC-5X23A3BAQ3` |  |
-| 919 | L -> Mg (hcp) + Mg2Si | L: Si 0.035; Mg (hcp): Si 0; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 8, row 1; `ORC-Z3567KAMGP` |  |
-| 918.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0348; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 4, row 1; `ORC-5UNTR76UAO` |  |
-| 918.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.012; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schmidt 1927_ | Table 5, p. 4, row 7; `ORC-KDPBOMHAJU` |  |
+| 1193 | eutectic: L -> Mg2Si + Si (dia) | L: Si 0.53; Mg2Si: Si 0.333; Si (dia): Si 1 | experimental | [2] Schick 2012; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 8, row 9; `ORC-5X23A3BAQ3` |  |
+| 919 | eutectic: L -> Mg (hcp) + Mg2Si | L: Si 0.035; Mg (hcp): Si 0; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 8, row 1; `ORC-Z3567KAMGP` |  |
+| 918.15 | eutectic: L -> (Mg)-hcp + Mg2Si | L: Si 0.0348; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 4, row 1; `ORC-5UNTR76UAO` |  |
+| 918.15 | eutectic: L -> (Mg)-hcp + Mg2Si | L: Si 0.012; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schmidt 1927_ | Table 5, p. 4, row 7; `ORC-KDPBOMHAJU` |  |
 | 918.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0348; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Vogel 1909_ [doi](https://doi.org/10.1002/zaac.19090610105) | Table 5, p. 5, row 3; `ORC-TJ4E4E3DY6` |  |
 | 918.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0119; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schmidt 1927_ | Table 5, p. 5, row 8; `ORC-V5LCTAEP43` |  |
-| 918 | L -> Mg (hcp) + Mg2Si | L: Si 0.012; Mg (hcp): Si 0; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Schmidt 1927_ | Table 5, p. 8, row 2; `ORC-BBX4HRXHRA` |  |
-| 915.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0105; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Goto 1937_ | Table 5, p. 4, row 10; `ORC-D3X7RIUGPK` |  |
+| 918 | eutectic: L -> Mg (hcp) + Mg2Si | L: Si 0.012; Mg (hcp): Si 0; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Schmidt 1927_ | Table 5, p. 8, row 2; `ORC-BBX4HRXHRA` |  |
+| 915.15 | eutectic: L -> (Mg)-hcp + Mg2Si | L: Si 0.0105; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Goto 1937_ | Table 5, p. 4, row 10; `ORC-D3X7RIUGPK` |  |
 | 915.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0105; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Goto 1937_ | Table 5, p. 5, row 11; `ORC-WP676777JD` |  |
 | 913.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Elchardus 1935_ | Table 5, p. 5, row 9; `ORC-ETP4IMBTJR` |  |
 | 912.35 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.013; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000 | Table 5, p. 5, row 34; `ORC-F5EI56NHP7` |  |
@@ -155,24 +154,23 @@ Table: Invariant reactions reported in the literature for the Mg–Si system (80
 | 912.02 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0129; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 5, row 31; `ORC-2YQ3ZWS3VM` |  |
 | 912 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0133; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 5, p. 5, row 25; `ORC-WD7FFBQ4CN` |  |
 | 911.82 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.013; Mg2Si: Mg 0.666667, Si 0.333333 | model | [1] Yan 2000; _cites Lukas 1994_ | Table 5, p. 5, row 28; `ORC-R4ECSY7DXS` |  |
-| 911.8 | eutectic: Liquid -> hcp-A3 + Mg2Si | Liquid: Si 0.013; hcp-A3: Si 0; Mg2Si: Si 0.333 | model | [5] Hämäläinen 1998 | Table I, p. 239, row 1; `ORC-7FXVGAIAHW` |  |
-| 911.75 | L -> (Mg)-hcp + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Geffken 1968_ | Table 5, p. 4, row 14; `ORC-CDUCTCRC43` |  |
-| 911.75 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0135; Mg2Si: Mg 0.666667, Si 0.333333 | model | [3] Yuan 2009 | Table 5, p. 4, row 20; `ORC-EH26SFZ4SG` |  |
+| 911.8 | eutectic: Liquid -> hcp-A3 + Mg2Si | Liquid: Si 0.013; hcp-A3: Si 0; Mg2Si: Si 0.333 | model | [4] (ed.) 1998 | Table I, p. 239, row 1; `ORC-7FXVGAIAHW` |  |
+| 911.75 | eutectic: L -> (Mg)-hcp + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Geffken 1968_ | Table 5, p. 4, row 14; `ORC-CDUCTCRC43` |  |
+| 911.75 | eutectic: L -> (Mg)-hcp + Mg2Si | L: Si 0.0135; Mg2Si: Mg 0.666667, Si 0.333333 | model | [3] Yuan 2009 | Table 5, p. 4, row 20; `ORC-EH26SFZ4SG` |  |
 | 911.75 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0116; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 5, p. 5, row 16; `ORC-VVXSGSL7ZT` |  |
-| 911.7 | L -> Mg (hcp) + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [2] Schick 2012; _cites Geffken 1968_ | Table 5, p. 8, row 5; `ORC-HD5VKBHZUV` |  |
-| 910.85 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0116; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Raynor 1940_ | Table 5, p. 4, row 11; `ORC-2AI5BC2WJ2` |  |
+| 911.7 | eutectic: L -> Mg (hcp) + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [2] Schick 2012; _cites Geffken 1968_ | Table 5, p. 8, row 5; `ORC-HD5VKBHZUV` |  |
+| 910.85 | eutectic: L -> (Mg)-hcp + Mg2Si | L: Si 0.0116; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Raynor 1940_ | Table 5, p. 4, row 11; `ORC-2AI5BC2WJ2` |  |
 | 910.75 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0116; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Raynor 1940_ | Table 5, p. 5, row 12; `ORC-PFEFU2W4T2` |  |
-| 910.7 | L -> Mg (hcp) + Mg2Si | L: Si 0.0116; Mg (hcp): Si 3.000e-5; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Raynor 1940_ | Table 5, p. 8, row 3; `ORC-CSWSFFTBRU` |  |
-| 910.2 | L -> Mg (hcp) + Mg2Si | L: Si 0.0146; Mg (hcp): Si 2.900e-5; Mg2Si: Si 0.333 | model | [2] Schick 2012 | Table 5, p. 8, row 7; `ORC-IK2FBMIXYE` |  |
+| 910.7 | eutectic: L -> Mg (hcp) + Mg2Si | L: Si 0.0116; Mg (hcp): Si 3.000e-5; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Raynor 1940_ | Table 5, p. 8, row 3; `ORC-CSWSFFTBRU` |  |
+| 910.2 | eutectic: L -> Mg (hcp) + Mg2Si | L: Si 0.0146; Mg (hcp): Si 2.900e-5; Mg2Si: Si 0.333 | model | [2] Schick 2012 | Table 5, p. 8, row 7; `ORC-IK2FBMIXYE` |  |
 | 910.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.015; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Schurmann 1977_ | Table 5, p. 5, row 19; `ORC-6CV7KAVQTF` |  |
-| 910.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.013; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schurmann 1977_ | Table 5, p. 4, row 17; `ORC-CBKLMYY6YP` |  |
-| 910 | L -> Mg (hcp) + Mg2Si | L: Si 0.013; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Schurmann 1977_ | Table 5, p. 8, row 6; `ORC-RBFDSKYTHL` |  |
-| 910 | eutectic |  | model | [2] Schick 2012; _cites Yue 1959_ | p. 2; `ORC-XZT4OKIDMS` | “Yue \[10\] used a modified zone-melting technique to determine the maximum Si solubility (at the eutectic temperature; 910 K) to be 0.0028 at.% Si, in good agreement with Raynor \[13\].” |
+| 910.15 | eutectic: L -> (Mg)-hcp + Mg2Si | L: Si 0.013; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Schurmann 1977_ | Table 5, p. 4, row 17; `ORC-CBKLMYY6YP` |  |
+| 910 | eutectic: L -> Mg (hcp) + Mg2Si | L: Si 0.013; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Schurmann 1977_ | Table 5, p. 8, row 6; `ORC-RBFDSKYTHL` |  |
 | 905.15 | eutectic: L \<-> (Mg) + Mg2Si | L: Si 0.0208; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Sawamoto 1935_ | Table 5, p. 5, row 10; `ORC-3ZEFBQN6KQ` |  |
-| 905.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0208; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Sawamoto 1935_ | Table 5, p. 4, row 9; `ORC-BWFTMP6XEP` |  |
+| 905.15 | eutectic: L -> (Mg)-hcp + Mg2Si | L: Si 0.0208; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Sawamoto 1935_ | Table 5, p. 4, row 9; `ORC-BWFTMP6XEP` |  |
 | 898.15 | eutectic: L \<-> (Mg) + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Woler 1926_ | Table 5, p. 5, row 6; `ORC-7KNY7YLPO2` |  |
-| 898.15 | L -> (Mg)-hcp + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 4, row 5; `ORC-JN4DIFDSB5` |  |
-| 848.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Elchardus 1935_ | Table 5, p. 4, row 8; `ORC-HNYYZDDH2Q` |  |
+| 898.15 | eutectic: L -> (Mg)-hcp + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 4, row 5; `ORC-JN4DIFDSB5` |  |
+| 848.15 | eutectic: L -> (Mg)-hcp + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Elchardus 1935_ | Table 5, p. 4, row 8; `ORC-HNYYZDDH2Q` |  |
 
 ## Formation enthalpies
 
@@ -217,22 +215,14 @@ Table: Enthalpies of formation, Mg–Si system (32)
 
 ## Other properties
 
-### Phase transition (10)
+### Phase transition (2)
 
 Table: Phase transition, Mg–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 824.15 K | 824.15 | L + LixMg2Si ↔ ␶3 + (Mg) | experimental | [4] Kevorkov 2004 | p. 10; `ORC-NS6G5RYWBQ` | “This is seen by the second DTA signal at 948 °C (Table 3 and Fig. 12), which in this temperature range could be associated only with entering the L + ␶3 + LixMg2Si equilibrium, and also by the third signal at 551 °C, where the trace amount of residual liquid solidifies in the probably delayed reaction U7, L + LixMg2Si ↔ ␶3 + (Mg), calculated and present in Fig. 12.” |
-| Phase transition | 879.15 K | 879.15 | L → LixMg2Si | model | [4] Kevorkov 2004 | p. 11; `ORC-SWHCJWBH6G` | “The solidification continues with L → LixMg2Si, 843-606 °C.” |
-| Phase transition | 1346 K | 1346 |  | experimental | [2] Schick 2012 | p. 4; `ORC-NS565GR5VW` | “From repeated heating/cooling cycles with the rates of 5 and 1 K/min, the melting temperature of Mg2 Si was determined to be 1346 K.” |
-| Phase transition | 1346 K | 1346 |  | experimental | [2] Schick 2012 | p. 8; `ORC-TMDJ6NNAYS.669725` | “Within the present work we obtained TL = 1346 K from DSC measurements and TL = 1350 K from the optimization.” |
 | Phase transition | 1346 K | 1346 | congruent melting | experimental | [2] Schick 2012 | p. 6; `ORC-ER77DIOG7F` | “Also the congruent melting temperature of Mg2 Si has been determined TL = 1346 K.” |
-| Phase transition | 1350 K | 1350 |  | model | [2] Schick 2012 | p. 8; `ORC-TMDJ6NNAYS.050cc7` | “Within the present work we obtained TL = 1346 K from DSC measurements and TL = 1350 K from the optimization.” |
-| Phase transition | 1350 K | 1350 | congruent melting: Mg2Si -> Liquid; _Mg2Si: Si 0.333; Liquid: Si 0.333_ | model | [5] Hämäläinen 1998 | Table I, p. 239, row 3; `ORC-GYFLQ22SSM` |  |
-| Phase transition | 1351 K | 1351 |  | experimental | [2] Schick 2012; _cites Schurmann 1977_ | p. 9; `ORC-BABLEKY6PR` | “Both values are in very good agreement with each other and with the value from Schürmann and Fischer \[12\] (TL = 1351 K).” |
-| Phase transition | 1358 K | 1358 |  | experimental | [2] Schick 2012; _cites Geffken 1968_ | p. 9; `ORC-VWEPG6SBNR` | “Geffken and Miller's \[11\] melting temperature is a few K higher (TL = 1358 K).” |
-| Phase transition | 1358 K | 1358 | congruent transformation | model | [6] Zhou 2010; _cites Nayeb-Hashemi 1984_ [doi](https://doi.org/10.1007/bf02868321) | p. 2; `ORC-GLXKOFKEPX` | “Mg-Si binary system was well established according to the evaluation by Nayeb-Hashemi et al. \[31\], which shows only one compound (Mg2 Si) and it forms congruently at 1358 K.” |
+| Phase transition | 1350 K | 1350 | congruent melting: Mg2Si -> Liquid; _Mg2Si: Si 0.333; Liquid: Si 0.333_ | model | [4] (ed.) 1998 | Table I, p. 239, row 3; `ORC-GYFLQ22SSM` |  |
 
 ### Formation (17)
 
@@ -264,30 +254,30 @@ Table: Mixing / partial, Mg–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: Δ^{E,0}H\_{Mg+Si}_ | 19.64 kJ/mol (basis unstated) ± 1.18 | 1000 | liquid | experimental | [7] Feufel 1997 | Table 3, p. 3, row 12; `ORC-CVVTUJTZZ7.dc1ee0` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 23.84 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 9; `ORC-DD5UK6AI2N.5ee5f2` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21.71 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 2; `ORC-EZOJ54UTJL.13bace` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21.02 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 3; `ORC-EZXA3AOMX6.d5c4df` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22.15 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.989, Si 0.011_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 4; `ORC-FEWFJ26CW3.5dd48d` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22.67 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.983, Si 0.017_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 6; `ORC-FKLR6ZOIAM.12852c` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 19.72 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 8; `ORC-GUQUGAGYIH.ce5c2e` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 20.62 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.996, Si 0.004_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 1; `ORC-H7ENJQDUJ6.99b80a` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21.05 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.986, Si 0.014_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 5; `ORC-KZ4NUZIU52.c1915b` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22.55 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.987, Si 0.013_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 10; `ORC-N7L5QACI4E.857ed3` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 19.27 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.997, Si 0.003_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 7; `ORC-TUGV4SW2TT.547377` |  |
-| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 23.26 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.984, Si 0.016_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 11; `ORC-X4SKYZSGBZ.13a479` |  |
-| Partial enthalpy; _printed: ΔE,0 H Mg+Si (infinite dilution)_ | 19.64 kJ/mol (basis unstated) ± 1.18 | 1000 | UNKNOWN | experimental | [7] Feufel 1997 | Table 3, p. 3, row 12; `ORC-CVVTUJTZZ7.63a900` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 23.84 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 9; `ORC-DD5UK6AI2N.e98814` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.71 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 2; `ORC-EZOJ54UTJL.ea1581` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.02 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 3; `ORC-EZXA3AOMX6.e96819` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.15 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.989, Si 0.011_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 4; `ORC-FEWFJ26CW3.9ee490` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.67 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.983, Si 0.017_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 6; `ORC-FKLR6ZOIAM.635798` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 19.72 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 8; `ORC-GUQUGAGYIH.1e6b94` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 20.62 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.996, Si 0.004_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 1; `ORC-H7ENJQDUJ6.0982e9` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.05 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.986, Si 0.014_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 5; `ORC-KZ4NUZIU52.958b29` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.55 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.987, Si 0.013_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 10; `ORC-N7L5QACI4E.8e53e5` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 19.27 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.997, Si 0.003_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 7; `ORC-TUGV4SW2TT.dac134` |  |
-| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 23.26 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.984, Si 0.016_ | experimental | [7] Feufel 1997 | Table 3, p. 3, row 11; `ORC-X4SKYZSGBZ.91cd35` |  |
+| Enthalpy of mixing; _printed: Δ^{E,0}H\_{Mg+Si}_ | 19.64 kJ/mol (basis unstated) ± 1.18 | 1000 | liquid | experimental | [5] Feufel 1997 | Table 3, p. 3, row 12; `ORC-CVVTUJTZZ7.dc1ee0` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 23.84 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 9; `ORC-DD5UK6AI2N.5ee5f2` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21.71 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 2; `ORC-EZOJ54UTJL.13bace` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21.02 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 3; `ORC-EZXA3AOMX6.d5c4df` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22.15 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.989, Si 0.011_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 4; `ORC-FEWFJ26CW3.5dd48d` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22.67 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.983, Si 0.017_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 6; `ORC-FKLR6ZOIAM.12852c` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 19.72 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 8; `ORC-GUQUGAGYIH.ce5c2e` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 20.62 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.996, Si 0.004_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 1; `ORC-H7ENJQDUJ6.99b80a` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 21.05 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.986, Si 0.014_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 5; `ORC-KZ4NUZIU52.c1915b` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 22.55 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.987, Si 0.013_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 10; `ORC-N7L5QACI4E.857ed3` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 19.27 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.997, Si 0.003_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 7; `ORC-TUGV4SW2TT.547377` |  |
+| Enthalpy of mixing; _printed: Δ\*H\_{Mg+Si}_ | 23.26 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.984, Si 0.016_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 11; `ORC-X4SKYZSGBZ.13a479` |  |
+| Partial enthalpy; _printed: ΔE,0 H Mg+Si (infinite dilution)_ | 19.64 kJ/mol (basis unstated) ± 1.18 | 1000 | UNKNOWN | experimental | [5] Feufel 1997 | Table 3, p. 3, row 12; `ORC-CVVTUJTZZ7.63a900` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 23.84 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 9; `ORC-DD5UK6AI2N.e98814` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.71 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 2; `ORC-EZOJ54UTJL.ea1581` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.02 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.991, Si 0.009_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 3; `ORC-EZXA3AOMX6.e96819` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.15 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.989, Si 0.011_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 4; `ORC-FEWFJ26CW3.9ee490` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.67 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.983, Si 0.017_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 6; `ORC-FKLR6ZOIAM.635798` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 19.72 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.994, Si 0.006_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 8; `ORC-GUQUGAGYIH.1e6b94` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 20.62 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.996, Si 0.004_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 1; `ORC-H7ENJQDUJ6.0982e9` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 21.05 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.986, Si 0.014_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 5; `ORC-KZ4NUZIU52.958b29` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 22.55 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.987, Si 0.013_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 10; `ORC-N7L5QACI4E.8e53e5` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 19.27 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.997, Si 0.003_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 7; `ORC-TUGV4SW2TT.dac134` |  |
+| Partial enthalpy; _printed: Enthalpy of solution ΔE H Mg+Si_ | 23.26 kJ/mol (basis unstated) | 1000 | liquid; _alloy: Mg 0.984, Si 0.016_ | experimental | [5] Feufel 1997 | Table 3, p. 3, row 11; `ORC-X4SKYZSGBZ.91cd35` |  |
 
 ### Heat capacity / entropy / enthalpy (62)
 
@@ -300,63 +290,63 @@ Table: Heat capacity / entropy / enthalpy, Mg–Si system
 | Entropy; _printed: °S298_ | 25.3 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | unspecified | [2] Schick 2012 | Table 3, p. 7, row 10; `ORC-OXJBML6GVQ.ffe75c` |  |
 | Entropy; _printed: °S298_ | 26.4 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | DFT | [2] Schick 2012 | Table 3, p. 7, row 9; `ORC-TKZQ4AI54G.d24650` |  |
 | Entropy; _printed: °S298_ | 25.3 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012; _cites Gerstein 1967_ [doi](https://doi.org/10.1063/1.1712243) | Table 3, p. 7, row 7; `ORC-UJBRTZBL7N` |  |
-| Heat capacity; _printed: Cp_ | 23.2 J/mol-atom/K ± 0.5 | 363 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 1; `ORC-GH7U4XTBVB` |  |
-| Heat capacity; _printed: Cp_ | 23.35 J/mol-atom/K ± 0.5 | 383 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 2; `ORC-45PCIV5J5E` |  |
-| Heat capacity; _printed: Cp_ | 23.5 J/mol-atom/K ± 0.5 | 403 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 3; `ORC-E3RXDXORFP` |  |
-| Heat capacity; _printed: Cp_ | 23.65 J/mol-atom/K ± 0.5 | 423 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 4; `ORC-N5ELPG3PEA` |  |
-| Heat capacity; _printed: Cp_ | 23.7 J/mol-atom/K ± 0.5 | 443 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 5; `ORC-BKHQDGCW7O` |  |
-| Heat capacity; _printed: Cp_ | 23.8 J/mol-atom/K ± 0.5 | 463 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 6; `ORC-VTFFMX56E5` |  |
+| Heat capacity; _printed: Cp_ | 23.2 J/mol-atom/K ± 0.5 | 363 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 1; `ORC-GH7U4XTBVB` |  |
+| Heat capacity; _printed: Cp_ | 23.35 J/mol-atom/K ± 0.5 | 383 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 2; `ORC-45PCIV5J5E` |  |
+| Heat capacity; _printed: Cp_ | 23.5 J/mol-atom/K ± 0.5 | 403 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 3; `ORC-E3RXDXORFP` |  |
+| Heat capacity; _printed: Cp_ | 23.65 J/mol-atom/K ± 0.5 | 423 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 4; `ORC-N5ELPG3PEA` |  |
+| Heat capacity; _printed: Cp_ | 23.7 J/mol-atom/K ± 0.5 | 443 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 5; `ORC-BKHQDGCW7O` |  |
+| Heat capacity; _printed: Cp_ | 23.8 J/mol-atom/K ± 0.5 | 463 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 6; `ORC-VTFFMX56E5` |  |
 | Heat capacity; _printed: Cp_ | 25.12 J/mol-atom/K | 473 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 1; `ORC-SZ27UHTPAP.732a05` |  |
 | Heat capacity; _printed: Cp_ | 23.45 J/mol-atom/K | 473 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 1; `ORC-SZ27UHTPAP.774d35` |  |
-| Heat capacity; _printed: Cp_ | 23.9 J/mol-atom/K ± 0.5 | 483 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 7; `ORC-SRXWDOPAEK` |  |
+| Heat capacity; _printed: Cp_ | 23.9 J/mol-atom/K ± 0.5 | 483 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 7; `ORC-SRXWDOPAEK` |  |
 | Heat capacity; _printed: Cp_ | 23.63 J/mol-atom/K | 493 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 2; `ORC-MMLUA4KJMN.52348e` |  |
 | Heat capacity; _printed: Cp_ | 25.26 J/mol-atom/K | 493 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 2; `ORC-MMLUA4KJMN.67a5ad` |  |
-| Heat capacity; _printed: Cp_ | 24 J/mol-atom/K ± 0.5 | 503 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 8; `ORC-CN5CHCIBKV` |  |
+| Heat capacity; _printed: Cp_ | 24 J/mol-atom/K ± 0.5 | 503 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 8; `ORC-CN5CHCIBKV` |  |
 | Heat capacity; _printed: Cp_ | 23.8 J/mol-atom/K | 513 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 3; `ORC-4YXFQ4ZRYX.6d85ee` |  |
 | Heat capacity; _printed: Cp_ | 25.41 J/mol-atom/K | 513 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 3; `ORC-4YXFQ4ZRYX.994b18` |  |
-| Heat capacity; _printed: Cp_ | 24.1 J/mol-atom/K ± 0.5 | 523 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 9; `ORC-NZ7AR4A2I3` |  |
+| Heat capacity; _printed: Cp_ | 24.1 J/mol-atom/K ± 0.5 | 523 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 9; `ORC-NZ7AR4A2I3` |  |
 | Heat capacity; _printed: Cp_ | 23.98 J/mol-atom/K | 533 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 4; `ORC-QMZJEX7BHD.50cf55` |  |
 | Heat capacity; _printed: Cp_ | 25.54 J/mol-atom/K | 533 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 4; `ORC-QMZJEX7BHD.6ecd7a` |  |
-| Heat capacity; _printed: Cp_ | 24.2 J/mol-atom/K ± 0.5 | 543 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 10; `ORC-6UMIRMG7DS` |  |
+| Heat capacity; _printed: Cp_ | 24.2 J/mol-atom/K ± 0.5 | 543 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 10; `ORC-6UMIRMG7DS` |  |
 | Heat capacity; _printed: Cp_ | 24.12 J/mol-atom/K | 553 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 5; `ORC-7G23CBNW46.74a375` |  |
 | Heat capacity; _printed: Cp_ | 25.7 J/mol-atom/K | 553 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 5; `ORC-7G23CBNW46.88f04f` |  |
-| Heat capacity; _printed: Cp_ | 24.25 J/mol-atom/K ± 0.5 | 563 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 11; `ORC-GYI2XSQTVH` |  |
+| Heat capacity; _printed: Cp_ | 24.25 J/mol-atom/K ± 0.5 | 563 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 11; `ORC-GYI2XSQTVH` |  |
 | Heat capacity; _printed: Cp_ | 25.88 J/mol-atom/K | 573 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 6; `ORC-JXU7RLOV22.589a41` |  |
 | Heat capacity; _printed: Cp_ | 24.32 J/mol-atom/K | 573 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 6; `ORC-JXU7RLOV22.ab8442` |  |
-| Heat capacity; _printed: Cp_ | 24.3 J/mol-atom/K ± 0.5 | 583 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 12; `ORC-5FLUIEC3GZ` |  |
+| Heat capacity; _printed: Cp_ | 24.3 J/mol-atom/K ± 0.5 | 583 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 12; `ORC-5FLUIEC3GZ` |  |
 | Heat capacity; _printed: Cp_ | 26.07 J/mol-atom/K | 593 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 7; `ORC-IIVLC4GRG6.2749fa` |  |
 | Heat capacity; _printed: Cp_ | 24.53 J/mol-atom/K | 593 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 7; `ORC-IIVLC4GRG6.c0a300` |  |
-| Heat capacity; _printed: Cp_ | 24.3 J/mol-atom/K ± 0.5 | 603 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 13; `ORC-UYNHHAUDDP` |  |
+| Heat capacity; _printed: Cp_ | 24.3 J/mol-atom/K ± 0.5 | 603 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 13; `ORC-UYNHHAUDDP` |  |
 | Heat capacity; _printed: Cp_ | 26.27 J/mol-atom/K | 613 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 8; `ORC-NDS7G2BINE.878f28` |  |
 | Heat capacity; _printed: Cp_ | 24.74 J/mol-atom/K | 613 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 8; `ORC-NDS7G2BINE.e8d779` |  |
-| Heat capacity; _printed: Cp_ | 24.45 J/mol-atom/K ± 0.5 | 623 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 14; `ORC-5EZRJRQ5V6` |  |
+| Heat capacity; _printed: Cp_ | 24.45 J/mol-atom/K ± 0.5 | 623 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 14; `ORC-5EZRJRQ5V6` |  |
 | Heat capacity; _printed: Cp_ | 24.95 J/mol-atom/K | 633 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 9; `ORC-U32QJAYGET.07f50e` |  |
 | Heat capacity; _printed: Cp_ | 26.46 J/mol-atom/K | 633 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 9; `ORC-U32QJAYGET.ace621` |  |
-| Heat capacity; _printed: Cp_ | 24.7 J/mol-atom/K ± 0.5 | 643 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 15; `ORC-XWHBO6WRRY` |  |
+| Heat capacity; _printed: Cp_ | 24.7 J/mol-atom/K ± 0.5 | 643 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 15; `ORC-XWHBO6WRRY` |  |
 | Heat capacity; _printed: Cp_ | 25.14 J/mol-atom/K | 653 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 10; `ORC-C7M3WPNJL3.6d0e35` |  |
 | Heat capacity; _printed: Cp_ | 26.65 J/mol-atom/K | 653 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 10; `ORC-C7M3WPNJL3.f34470` |  |
-| Heat capacity; _printed: Cp_ | 24.95 J/mol-atom/K ± 0.5 | 663 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 16; `ORC-X2BVFNH6ZV` |  |
+| Heat capacity; _printed: Cp_ | 24.95 J/mol-atom/K ± 0.5 | 663 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 16; `ORC-X2BVFNH6ZV` |  |
 | Heat capacity; _printed: Cp_ | 26.81 J/mol-atom/K | 673 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 11; `ORC-C5WUQTGSIS.40195d` |  |
 | Heat capacity; _printed: Cp_ | 25.3 J/mol-atom/K | 673 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 11; `ORC-C5WUQTGSIS.495b52` |  |
-| Heat capacity; _printed: Cp_ | 25.3 J/mol-atom/K ± 0.5 | 683 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 17; `ORC-IYSRVYIFHF` |  |
+| Heat capacity; _printed: Cp_ | 25.3 J/mol-atom/K ± 0.5 | 683 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 17; `ORC-IYSRVYIFHF` |  |
 | Heat capacity; _printed: Cp_ | 25.43 J/mol-atom/K | 693 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 12; `ORC-JAXMQJWGAZ.56716d` |  |
 | Heat capacity; _printed: Cp_ | 26.94 J/mol-atom/K | 693 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 12; `ORC-JAXMQJWGAZ.ff4911` |  |
-| Heat capacity; _printed: Cp_ | 25.5 J/mol-atom/K ± 0.5 | 703 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 18; `ORC-LD55S7QAMA` |  |
+| Heat capacity; _printed: Cp_ | 25.5 J/mol-atom/K ± 0.5 | 703 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 18; `ORC-LD55S7QAMA` |  |
 | Heat capacity; _printed: Cp_ | 27.04 J/mol-atom/K | 713 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 13; `ORC-XJ7UZ36IHH.567998` |  |
 | Heat capacity; _printed: Cp_ | 25.52 J/mol-atom/K | 713 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 13; `ORC-XJ7UZ36IHH.917efb` |  |
-| Heat capacity; _printed: Cp_ | 25.7 J/mol-atom/K ± 0.5 | 723 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 19; `ORC-ZIUDPR7GD4` |  |
+| Heat capacity; _printed: Cp_ | 25.7 J/mol-atom/K ± 0.5 | 723 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 19; `ORC-ZIUDPR7GD4` |  |
 | Heat capacity; _printed: Cp_ | 25.55 J/mol-atom/K | 733 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 14; `ORC-MNDEPH4I7O.c7dc1e` |  |
 | Heat capacity; _printed: Cp_ | 27.08 J/mol-atom/K | 733 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 14; `ORC-MNDEPH4I7O.ea2d17` |  |
-| Heat capacity; _printed: Cp_ | 25.9 J/mol-atom/K ± 0.5 | 743 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 20; `ORC-KNODUZ7WM7` |  |
+| Heat capacity; _printed: Cp_ | 25.9 J/mol-atom/K ± 0.5 | 743 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 20; `ORC-KNODUZ7WM7` |  |
 | Heat capacity; _printed: Cp_ | 25.53 J/mol-atom/K | 753 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 15; `ORC-XSTB7FDDSL.65d38c` |  |
 | Heat capacity; _printed: Cp_ | 27.07 J/mol-atom/K | 753 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 15; `ORC-XSTB7FDDSL.771649` |  |
-| Heat capacity; _printed: Cp_ | 26.05 J/mol-atom/K ± 0.5 | 763 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 21; `ORC-XUN66SPZKV` |  |
+| Heat capacity; _printed: Cp_ | 26.05 J/mol-atom/K ± 0.5 | 763 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 21; `ORC-XUN66SPZKV` |  |
 | Heat capacity; _printed: Cp_ | 25.43 J/mol-atom/K | 773 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 16; `ORC-7UNHT7Y5ZC.004be0` |  |
 | Heat capacity; _printed: Cp_ | 27 J/mol-atom/K | 773 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 16; `ORC-7UNHT7Y5ZC.d952a0` |  |
-| Heat capacity; _printed: Cp_ | 25.8 J/mol-atom/K ± 0.5 | 783 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 22; `ORC-A3CSOQESVH` |  |
+| Heat capacity; _printed: Cp_ | 25.8 J/mol-atom/K ± 0.5 | 783 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 22; `ORC-A3CSOQESVH` |  |
 | Heat capacity; _printed: Cp_ | 26.85 J/mol-atom/K | 793 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 17; `ORC-UZZUDONX6Y.c8049b` |  |
 | Heat capacity; _printed: Cp_ | 25.25 J/mol-atom/K | 793 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 17; `ORC-UZZUDONX6Y.c96a13` |  |
-| Heat capacity; _printed: Cp_ | 25.65 J/mol-atom/K ± 0.5 | 803 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 23; `ORC-IBSFAEN5EH` |  |
+| Heat capacity; _printed: Cp_ | 25.65 J/mol-atom/K ± 0.5 | 803 | Mg2Si; _alloy: Si 0.333333_ | experimental | [5] Feufel 1997 | Table 5, p. 4, row 23; `ORC-IBSFAEN5EH` |  |
 
 ### Crystal structure (1)
 
@@ -381,10 +371,9 @@ Reporting papers the values were read from (a value cited from another work name
 1. Xin-Yan Yan, Y. A. Chang, F. Zhang, A thermodynamic analysis of the Mg-Si system, JPE 21, 379-384 (2000). [doi:10.1361/105497100770339914](https://doi.org/10.1361/105497100770339914)
 2. Michael Schick, Bengt Hallstedt, Albert Glensk, Blazej Grabowski, Tilmann Hickel, Milan Hampl et al., Combined ab initio, experimental, and CALPHAD approach for an improved thermodynamic evaluation of the Mg–Si system, Calphad 37, 77-86 (2012). [doi:10.1016/j.calphad.2012.02.001](https://doi.org/10.1016/j.calphad.2012.02.001)
 3. Xiaoming Yuan, Weihua Sun, Yong Du, Dongdong Zhao, Huaming Yang, Thermodynamic modeling of the Mg–Si system with the Kaptay equation for the excess Gibbs energy of the liquid phase, Calphad 33, 673-678 (2009). [doi:10.1016/j.calphad.2009.08.004](https://doi.org/10.1016/j.calphad.2009.08.004)
-4. D. Kevorkov, R. Schmid-Fetzer, F. Zhang, Phase Equilibria and Thermodynamics of the Mg-Si-Li System and Remodeling of the Mg-Si System, Journal of Phase Equilibria &amp; Diffusion 25, 140-151 (2004). [doi:10.1361/15477030418569](https://doi.org/10.1361/15477030418569)
-5. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+4. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
+5. Harald Feufel, Tilo Gödecke, Hans Leo Lukas, Ferdinand Sommer, Investigation of the Al-Mg-Si system by experiments and thermodynamic calculations, Journal of Alloys and Compounds 247, 31-42 (1997). [doi:10.1016/s0925-8388(96)02655-2](https://doi.org/10.1016/s0925-8388%2896%2902655-2)
 6. Shaoxin Zhou, Libin Liu, Xiaoli Yuan, Feng Zheng, Zhanpeng Jin, Thermodynamic assessment of La–Si and Mg–La–Si systems, Journal of Alloys and Compounds 490, 253-259 (2010). [doi:10.1016/j.jallcom.2009.09.171](https://doi.org/10.1016/j.jallcom.2009.09.171)
-7. Harald Feufel, Tilo Gödecke, Hans Leo Lukas, Ferdinand Sommer, Investigation of the Al-Mg-Si system by experiments and thermodynamic calculations, Journal of Alloys and Compounds 247, 31-42 (1997). [doi:10.1016/s0925-8388(96)02655-2](https://doi.org/10.1016/s0925-8388%2896%2902655-2)
 
 ## Please cite
 

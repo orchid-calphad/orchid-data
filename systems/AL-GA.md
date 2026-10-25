@@ -1,10 +1,10 @@
 # Al–Ga system
 
-> Al–Ga system: 6 accepted literature values (crystal structure 3, invariant reaction 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ga system: 3 accepted literature values (crystal structure 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-GA.html · Markdown: https://data.orchid-project.org/systems/AL-GA.md
 
-6 accepted literature values from 3 paper(s) (experimental 2, model 4); 3 calculated phase diagram(s).
+3 accepted literature values from 1 paper(s) (model 3); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-GA.json) · [CSV](https://data.orchid-project.org/systems/AL-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-GA/AlGa-00Mat.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-GA.html) · [Markdown](https://data.orchid-project.org/systems/AL-GA.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 4 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
 | crystal structure | 3 |
 
 ## Calculated phase diagrams
@@ -35,16 +33,6 @@ Table: Assessments with a calculated phase diagram
 | AlGa-92Wat-LB.tdb | A. Watson, Calphad, 16, 207-17(1992). [doi:10.1016/0364-5916(92)90009-M](https://doi.org/10.1016/0364-5916%2892%2990009-M) | `063ea10dc189507871e13634c87b4f0ba95685c91efd88f76b7d9d8808a68159` | [viewer](https://orchid-project.org/phase-diagrams/#AL-GA/AlGa-92Wat-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/AlGa-92Wat-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/AlGa-92Wat-LB.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-GA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-GA.json) · [CALPHAD hull AlGa-78Ans](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-GA--AlGa-78Ans.json) · [CALPHAD hull AlGa-92Wat-LB](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-GA--AlGa-92Wat-LB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–Ga system (3)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 303 | eutectic |  | model | [1] Moussa 2018; _cites Massalski 1990_ | p. 2; `ORC-IAFJ2YE5TL` | “It is characterized by a rather limited solubility of Ga into solid Al to a maximum of about 9 at.% and an eutectic reaction at 303 K.” |
-| 300 | eutectic |  | experimental | [2] Watson 1992; _cites ref. 5_ | p. 3; `ORC-6TXQW2E3T6` | “The experimental determinations of the eutectic point 5-9 11-13 at around 300 K and at a gallium content of approxtmately 97 at% are in very close agreement wtt \*b\* each otbcr.” |
-| 298.5 | eutectic |  | experimental | [3] Mathon 2000 | p. 6; `ORC-O6G26UJICD.1424f2` | “The melting temperature of Ga at 303 K and the Al-Ga binary eutectic at 298.5 K and the Ga-Zn eutectic at 297.3 K, lead to the appearance of two-phases and three-phases fields.” |
 
 ## Other properties
 
@@ -63,8 +51,6 @@ Table: Crystal structure, Al–Ga system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Chantal Moussa, Alexandre Berche, José Barbosa, Mathieu Pasturel, Bertrand Stepnik, Olivier Tougait, Experimental investigation of the phase equilibria and thermodynamic assessment in the U-Ga and U-Al-Ga systems, Journal of Nuclear Materials 499, 361-371 (2018). [doi:10.1016/j.jnucmat.2017.11.037](https://doi.org/10.1016/j.jnucmat.2017.11.037)
-2. A. Watson, Re-assessment of phase diagram and thermodynamic properties of the Al-Ga system, Calphad 16, 207-217 (1992). [doi:10.1016/0364-5916(92)90009-m](https://doi.org/10.1016/0364-5916%2892%2990009-m)
-3. M. Mathon, K. Jardet, E. Aragon, P. Satre, A. Sebaoun, Al-Ga-Zn System: Reassessments of the Three Binary Systems and Discussion on Possible Estimations and on Optimisation of the Ternary System, Calphad 24, 253-284 (2000). [doi:10.1016/s0364-5916(01)00004-9](https://doi.org/10.1016/s0364-5916%2801%2900004-9)
 
 ## Please cite
 

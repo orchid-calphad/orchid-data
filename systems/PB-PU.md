@@ -1,10 +1,10 @@
 # Pb–Pu system
 
-> Pb–Pu system: 19 accepted literature values (invariant reaction 17, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Pu system: 16 accepted literature values (invariant reaction 16) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-PU.html · Markdown: https://data.orchid-project.org/systems/PB-PU.md
 
-19 accepted literature values from 1 paper(s) (experimental 11, model 8); 1 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (experimental 8, model 8); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-PU.json) · [CSV](https://data.orchid-project.org/systems/PB-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-PU/PbPu-10Li.json) · [phases (15)](https://data.orchid-project.org/phases/pages/PB-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-PU.html) · [Markdown](https://data.orchid-project.org/systems/PB-PU.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
+| experimental | 8 |
 | model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
-| phase transition | 2 |
+| invariant reaction | 16 |
 
 ## Calculated phase diagrams
 
@@ -67,7 +66,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pb–Pu system (17)
+Table: Invariant reactions reported in the literature for the Pb–Pu system (16)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -81,24 +80,12 @@ Table: Invariant reactions reported in the literature for the Pb–Pu system (17
 | 1411.15 | congruent melting: L -> PbPu3 | PbPu3: Pb 0.75 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 13; `ORC-KAAO3SS7UB` |  |
 | 1403.15 | peritectic: L + Pb5Pu4 -> βPb2Pu | L: Pb 0.671; Pb5Pu4: Pb 0.594; βPb2Pu: Pb 0.667 | model | [1] Li 2010 | Table 5, p. 6, row 10; `ORC-DJW3LCLOG6` |  |
 | 1402.15 | peritectic: L + Pb5Pu4 -> βPb2Pu | L: Pb 0.672; Pb5Pu4: Pb 0.575; βPb2Pu: Pb 0.667 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 9; `ORC-SZGSPGH7KB` |  |
-| 1402.15 | peritectic: L + Pb5Pu4 -> Pb2Pu |  | experimental | [1] Li 2010 | p. 4; `ORC-W4DLJVTMUR.14488a` | “The Pb2Pu compound has a solid-state transformation at 1106 °C and is formed at 1129 °C by a peritectic reaction, L + Pb5Pu4 M Pb2Pu.” |
 | 1397.15 | eutectic: L -> βPb2Pu + PbPu3 | L: Pb 0.688; βPb2Pu: Pb 0.667; PbPu3: Pb 0.75 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 11; `ORC-LOKGXI6343` |  |
 | 1394.15 | eutectic: L -> βPb2Pu + PbPu3 | L: Pb 0.701; βPb2Pu: Pb 0.667; PbPu3: Pb 0.75 | model | [1] Li 2010 | Table 5, p. 6, row 12; `ORC-A2TQEVXO5D` |  |
 | 1381.15 | polymorphic: αPb2Pu -> βPb2Pu | αPb2Pu: Pb 0.666667, Pu 0.333333; βPb2Pu: Pb 0.667 | model | [1] Li 2010 | Table 5, p. 6, row 16; `ORC-3FNQN2OYGD` |  |
 | 1379.15 | polymorphic: αPb2Pu -> βPb2Pu | αPb2Pu: Pb 0.666667, Pu 0.333333; βPb2Pu: Pb 0.667 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 15; `ORC-FAZY3JM63O` |  |
 | 1171.15 | peritectic: L + Pb3Pu5 -> PbPu3 | L: Pb 0.009; Pb3Pu5: Pb 0.375; PbPu3: Pb 0.25 | model | [1] Li 2010 | Table 5, p. 6, row 2; `ORC-G6S2UFBHAO` |  |
 | 1169.15 | peritectic: L + Pb3Pu5 -> PbPu3 | L: Pb 0.005; Pb3Pu5: Pb 0.375; PbPu3: Pb 0.25 | experimental | [1] Li 2010; _cites Foltyn 1995_ | Table 5, p. 6, row 1; `ORC-YKFMGTP4TS` |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Pb–Pu system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1379.15 K | 1379.15 |  | experimental | [1] Li 2010 | p. 4; `ORC-W4DLJVTMUR.253f59` | “The Pb2Pu compound has a solid-state transformation at 1106 °C and is formed at 1129 °C by a peritectic reaction, L + Pb5Pu4 M Pb2Pu.” |
-| Phase transition | 1658.15 K | 1658.15 |  | experimental | [1] Li 2010; _cites Wood 1969_ [doi](https://doi.org/10.1016/0022-3115%2869%2990071-3) | p. 4; `ORC-6LCZ4K6B6F` | “The Pb4Pu5 phase has the highest melting point in the Pb-Pu system, located at approximate 1385 °C, also according to the work of Wood et al. \[18\].” |
 
 ## Sources
 

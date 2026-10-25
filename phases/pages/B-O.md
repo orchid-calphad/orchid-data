@@ -14,10 +14,10 @@ Table: Phases of the B–O system (7)
 |---|---|---|---|---:|---:|
 | [ALPHA_RHOMBO_B](#phase-b-o-b-alpha-rhombo); _phase:b-o:b-alpha-rhombo_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1388 K, x(O) 0–0 | 0 | 1 |
 | [BETA_RHOMBO_B](#phase-b-o-b-beta-rhombo); _phase:b-o:b-beta-rhombo_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1388–2347.99 K, x(O) 0–0 | 0 | 1 |
-| [B2O3](#phase-b-o-b2o3); _phase:b-o:b2o3_ | B2O3 · hP15 · P3_121 (152) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–723 K, x(O) 0.6–0.6 | 0 | 1 |
+| [B2O3](#phase-b-o-b2o3); _phase:b-o:b2o3_ | B2O3 · hP15 · P3_121 (152) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–723 K, x(O) 0.6–0.6 | 1 | 1 |
 | [B6O](#phase-b-o-b6o); _phase:b-o:b6o_ | B6P · hR14 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1060.3 K, x(O) 0.14286–0.14286 | 0 | 1 |
 | [GAS](#phase-b-o-gas); _phase:b-o:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300.5–4000 K, x(O) 0.317–1 | 0 | 1 |
-| [LIQUID](#phase-b-o-liquid); _phase:b-o:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 723–4000 K, x(O) 0–0.6 | 0 | 1 |
+| [LIQUID](#phase-b-o-liquid); _phase:b-o:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 723–4000 K, x(O) 0–0.6 | 1 | 1 |
 | [O2GAS](#phase-b-o-o2gas); _phase:b-o:o2gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–1128 K, x(O) 1–1 | 0 | 1 |
 
 ## ALPHA_RHOMBO_B (B–O)
@@ -84,12 +84,13 @@ _assessment that models this phase_
 - Structure: B2O3 · hP15 · P3_121 (152); type `st:b2o3-hp15`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: B 0.4000, O 0.6000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–723 K, x(O) 0.6–0.6
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-o:b2o3)
 
-Names (4): _corpus: _corpus:phase:b-o:b2o3  
+Names (5): _corpus: _corpus:phase:b-o:b2o3  
 _mp: _mp:mp-aaaaaalu  
 _oqmd: _oqmd:oqmd-9107  
+_paper: _paper:10.1111/jace.18958:B2O3  
 _tdb: _tdb:BO-23Pha.tdb:B2O3  
 
 
@@ -105,7 +106,7 @@ _tdb: _tdb:BO-23Pha.tdb:B2O3
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1111/jace.18958](https://doi.org/10.1111/jace.18958) David Pham, Fangyuan Gai, Jacob Rochester, Joseph H. Dycus, James M. LeBeau, Venkateswara Rao Manga et al., Thermodynamic assessment within the Zr–B–C–O quaternary system, J Am Ceram Soc. 106, 3127-3140 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## B6O (B–O)
 
@@ -167,10 +168,11 @@ _assessment that models this phase_
 - Id: `phase:b-o:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 723–4000 K, x(O) 0–0.6
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-o:liquid)
 
-Names (2): _corpus: _corpus:phase:b-o:liquid  
+Names (3): _corpus: _corpus:phase:b-o:liquid  
+_paper: _paper:10.1111/jace.18958:liquid  
 _tdb: _tdb:BO-23Pha.tdb:LIQUID  
 
 
@@ -186,7 +188,7 @@ _tdb: _tdb:BO-23Pha.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1111/jace.18958](https://doi.org/10.1111/jace.18958) David Pham, Fangyuan Gai, Jacob Rochester, Joseph H. Dycus, James M. LeBeau, Venkateswara Rao Manga et al., Thermodynamic assessment within the Zr–B–C–O quaternary system, J Am Ceram Soc. 106, 3127-3140 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## O2GAS (B–O)
 

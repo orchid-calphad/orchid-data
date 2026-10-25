@@ -318,7 +318,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "fcc-(Ni) = Ni3V",
-    "reaction_type": null,
+    "reaction_type": "polymorphic",
     "phases_above": [
      "FCC_A1"
     ],
@@ -336,7 +336,7 @@
     "x0": 0.25,
     "hyperplane_delta": 0.01,
     "reaction_printed": "fcc-(Ni) = Ni3V",
-    "reaction_type": null,
+    "reaction_type": "polymorphic",
     "phases_above": [
      "FCC_A1"
     ],

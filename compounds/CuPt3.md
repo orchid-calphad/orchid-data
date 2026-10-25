@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/CuPt3.html · Markdown: https://data.orchid-project.org/compounds/CuPt3.md
 
-5 accepted literature formation-enthalpy value(s) (model 4, DFT 1); Materials Project 232.783 kJ/mol-atom (mp-aaacrban); OQMD -11.337 kJ/mol-atom (oqmd-349751).
+5 accepted literature formation-enthalpy value(s) (model 3, DFT 2); Materials Project 232.783 kJ/mol-atom (mp-aaacrban); OQMD -11.337 kJ/mol-atom (oqmd-349751).
 
 Systems: [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html)
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of CuPt3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14 kJ/mol-atom | L12-CuPt3 |  | model | LMTO | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.ee7e04` |  |
 | -13 kJ/mol-atom | L12-CuPt3 |  | model | ASW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3; `ORC-DGXLGCDH4A.307a73` |  |
 | -10 kJ/mol-atom | L12-CuPt3 |  | model | Miedema | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites FR 1988_ | Table 2, p. 7, row 4; `ORC-BUGOBEY2SA.8253a8` |  |
 | -8 kJ/mol-atom | L12-CuPt3 |  | model |  | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006 | Table 2, p. 7, row 7; `ORC-X346LL47CP.06d331` |  |
+| -14 kJ/mol-atom | L12-CuPt3 |  | DFT | LMTO | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1; `ORC-XOPIEWRTSO.ee7e04` |  |
 | -9.3 kJ/mol-atom | L12-CuPt3 |  | DFT | LAPW | [Cu–Pt](https://data.orchid-project.org/systems/CU-PT.html) | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2; `ORC-K7FCATJG6W.a1c35e` |  |
 
 ### Uncertainty budget
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of CuPt3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -14 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -13 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -10 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -9.3 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -14 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -9.3 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

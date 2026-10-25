@@ -51,7 +51,7 @@ Table: Uncertainty budget of the literature values of Cr3C2
 | -65.5 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
 | -64.4 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
 | -63.8 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (equilibration_other, calibrated) |  |  |  | 17.5 |
-| -56.8 | kJ/mol (basis unstated) |  | 0.05 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
+| -56.8 | kJ/mol (basis unstated) |  | 0.05 | 21 (kems_vapour, calibrated) |  |  |  | 21 |
 | -56.4 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
 | -87.8 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 | -85.3 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |

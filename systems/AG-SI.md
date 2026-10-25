@@ -52,11 +52,11 @@ Table: Invariant reactions reported in the literature for the Ag–Si system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1128 | liquid -> Ag(f.c.c.) + dia | L: Si 0.132 | experimental | [1] Chevalier 1988; _cites Gottardi 1957_ | Table 2, p. 5, row 7; `ORC-N4RM64ZHTO` |  |
-| 1121 | liquid -> Ag(f.c.c.) + dia | L: Si 0.107 | experimental | [1] Chevalier 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 2, p. 5, row 9; `ORC-QVPNN6MXNT` |  |
-| 1113 | liquid -> Ag(f.c.c.) + dia | L: Si 0.106 | experimental | [1] Chevalier 1988; _cites Hager 1948_ | Table 2, p. 5, row 8; `ORC-5PACAXB5TC` |  |
-| 1110.3 | liquid -> Ag(f.c.c.) + dia | L: Si 0.1; dia: Si 0.999998 | model | [1] Chevalier 1988 | Table 2, p. 5, row 5; `ORC-ABJD4XWU7G` |  |
-| 1098 | liquid -> Ag(f.c.c.) + dia | L: Si 0.154 | experimental | [1] Chevalier 1988; _cites Arrivaut 1908_ [doi](https://doi.org/10.1002/zaac.19080600128) | Table 2, p. 5, row 6; `ORC-X2BTKV7I6Z` |  |
+| 1128 | eutectic: liquid -> Ag(f.c.c.) + dia | L: Si 0.132 | experimental | [1] Chevalier 1988; _cites Gottardi 1957_ | Table 2, p. 5, row 7; `ORC-N4RM64ZHTO` |  |
+| 1121 | eutectic: liquid -> Ag(f.c.c.) + dia | L: Si 0.107 | experimental | [1] Chevalier 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | Table 2, p. 5, row 9; `ORC-QVPNN6MXNT` |  |
+| 1113 | eutectic: liquid -> Ag(f.c.c.) + dia | L: Si 0.106 | experimental | [1] Chevalier 1988; _cites Hager 1948_ | Table 2, p. 5, row 8; `ORC-5PACAXB5TC` |  |
+| 1110.3 | eutectic: liquid -> Ag(f.c.c.) + dia | L: Si 0.1; dia: Si 0.999998 | model | [1] Chevalier 1988 | Table 2, p. 5, row 5; `ORC-ABJD4XWU7G` |  |
+| 1098 | eutectic: liquid -> Ag(f.c.c.) + dia | L: Si 0.154 | experimental | [1] Chevalier 1988; _cites Arrivaut 1908_ [doi](https://doi.org/10.1002/zaac.19080600128) | Table 2, p. 5, row 6; `ORC-X2BTKV7I6Z` |  |
 
 ## Other properties
 

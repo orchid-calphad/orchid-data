@@ -60,10 +60,10 @@
  "reference": "Sun 2023, doi:10.1016/j.calphad.2023.102563",
  "bibtex": "sun2023_9c4283",
  "weight": [
-  0.113276,
-  0.113276,
-  0.113276,
-  0.113276
+  0.109146,
+  0.109146,
+  0.109146,
+  0.109146
  ],
  "tags": [
   "dft_literature",
@@ -129,7 +129,7 @@
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
-    "sigma": 4414.0,
+    "sigma": 4581.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -137,16 +137,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "NB-NI",
-     "n": 104,
-     "sigma_robust_kJ": 4.414,
-     "bias_median_kJ_not_applied": 0.636,
+     "n": 103,
+     "sigma_robust_kJ": 4.581,
+     "bias_median_kJ_not_applied": 0.6,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.946,
-      4.848
+      3.15,
+      5.166
      ],
-     "n_full_stratum": 113
+     "n_full_stratum": 112
     },
-    "weight_used": 0.113276,
+    "weight_used": 0.109146,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -20.63,
@@ -157,19 +157,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 4414.0,
+     "sigma_method": 4581.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 4414.0,
+     "sigma_effective": 4581.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 104,
+     "method_n_pairs": 103,
      "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|NB-NI"
     }
    },
    {
-    "sigma": 4414.0,
+    "sigma": 4581.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -177,16 +177,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "NB-NI",
-     "n": 104,
-     "sigma_robust_kJ": 4.414,
-     "bias_median_kJ_not_applied": 0.636,
+     "n": 103,
+     "sigma_robust_kJ": 4.581,
+     "bias_median_kJ_not_applied": 0.6,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.946,
-      4.848
+      3.15,
+      5.166
      ],
-     "n_full_stratum": 113
+     "n_full_stratum": 112
     },
-    "weight_used": 0.113276,
+    "weight_used": 0.109146,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -20.38,
@@ -197,19 +197,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 4414.0,
+     "sigma_method": 4581.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 4414.0,
+     "sigma_effective": 4581.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 104,
+     "method_n_pairs": 103,
      "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|NB-NI"
     }
    },
    {
-    "sigma": 4414.0,
+    "sigma": 4581.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -217,16 +217,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "NB-NI",
-     "n": 104,
-     "sigma_robust_kJ": 4.414,
-     "bias_median_kJ_not_applied": 0.636,
+     "n": 103,
+     "sigma_robust_kJ": 4.581,
+     "bias_median_kJ_not_applied": 0.6,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.946,
-      4.848
+      3.15,
+      5.166
      ],
-     "n_full_stratum": 113
+     "n_full_stratum": 112
     },
-    "weight_used": 0.113276,
+    "weight_used": 0.109146,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -20.43,
@@ -237,19 +237,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 4414.0,
+     "sigma_method": 4581.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 4414.0,
+     "sigma_effective": 4581.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 104,
+     "method_n_pairs": 103,
      "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|NB-NI"
     }
    },
    {
-    "sigma": 4414.0,
+    "sigma": 4581.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -257,16 +257,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "NB-NI",
-     "n": 104,
-     "sigma_robust_kJ": 4.414,
-     "bias_median_kJ_not_applied": 0.636,
+     "n": 103,
+     "sigma_robust_kJ": 4.581,
+     "bias_median_kJ_not_applied": 0.6,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.946,
-      4.848
+      3.15,
+      5.166
      ],
-     "n_full_stratum": 113
+     "n_full_stratum": 112
     },
-    "weight_used": 0.113276,
+    "weight_used": 0.109146,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -20.5,
@@ -277,14 +277,14 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 4414.0,
+     "sigma_method": 4581.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 4414.0,
+     "sigma_effective": 4581.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 104,
+     "method_n_pairs": 103,
      "method_entry": "dft/CALIBRATION.json#lso/literature|magnetic_3d|NB-NI"
     }
    }

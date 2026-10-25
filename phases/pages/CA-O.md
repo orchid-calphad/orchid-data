@@ -19,7 +19,7 @@ Table: Phases of the Ca–O system (9)
 | [GAS](#phase-ca-o-gas); _phase:ca-o:gas_ | gas | gas | stable in 4 of 4 calculated diagram(s): 1347.5–2500 K, x(O) 0–1 | 0 | 4 |
 | [HCP_A3](#phase-ca-o-hcp-a3); _phase:ca-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [ION](#phase-ca-o-ion); _phase:ca-o:ion_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1100–1809.06 K, x(O) 0–0.07372 | 0 | 4 |
-| [LIQUID](#phase-ca-o-liquid); _phase:ca-o:liquid_ | liquid | liquid | not stable in 4 calculated diagram(s) | 24 | 4 |
+| [LIQUID](#phase-ca-o-liquid); _phase:ca-o:liquid_ | liquid | liquid | not stable in 4 calculated diagram(s) | 25 | 4 |
 | [O2GAS](#phase-ca-o-o2gas); _phase:ca-o:o2gas_ | gas | gas | stable in 4 of 4 calculated diagram(s): 300–1077.5 K, x(O) 1–1 | 0 | 4 |
 
 ## B1_OXIDE (Ca–O)
@@ -407,7 +407,7 @@ _assessment that models this phase_
 - Id: `phase:ca-o:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: not stable in 4 calculated diagram(s)
-- Literature: 24 values (24 accepted) from 2 papers
+- Literature: 25 values (25 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-o:liquid)
 
 Names (7): _corpus: _corpus:phase:ca-o:liquid  

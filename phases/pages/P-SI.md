@@ -17,10 +17,10 @@ Table: Phases of the P–Si system (10)
 | [FCC_A1](#phase-p-si-fcc-a1); _phase:p-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [GAS](#phase-p-si-gas); _phase:p-si:gas_ | gas | gas | stable in 4 of 4 calculated diagram(s): 704.7–2500 K, x(P) 0.9725–1 | 0 | 4 |
 | [HCP_A3](#phase-p-si-hcp-a3); _phase:p-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [LIQUID](#phase-p-si-liquid); _phase:p-si:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1397.99–2500 K, x(P) 0–0.40583 | 25 | 4 |
+| [LIQUID](#phase-p-si-liquid); _phase:p-si:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1397.99–2500 K, x(P) 0–0.40583 | 26 | 4 |
 | [RED_P](#phase-p-si-p-red); _phase:p-si:p-red_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–704.7 K, x(P) 1–1 | 0 | 4 |
 | [WHITE_P](#phase-p-si-p-white); _phase:p-si:p-white_ |  | needs_review | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [SIP](#phase-p-si-sip); _phase:p-si:sip_ | SiP · oC48 · Cmc2_1 (36) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1412.69 K, x(P) 0.5–0.5 | 42 | 4 |
+| [SIP](#phase-p-si-sip); _phase:p-si:sip_ | SiP · oC48 · Cmc2_1 (36) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1412.69 K, x(P) 0.5–0.5 | 43 | 4 |
 | [SIP2](#phase-p-si-sip2); _phase:p-si:sip2_ | GeAs2 · oP24 · Pbam (55) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1073.6 K, x(P) 0.66667–0.66667 | 14 | 3 |
 
 ## DIAMOND_A4 (P–Si)
@@ -288,11 +288,11 @@ _assessment that models this phase_
 - Id: `phase:p-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 1397.99–2500 K, x(P) 0–0.40583
-- Literature: 25 values (22 accepted) from 2 papers
+- Literature: 26 values (22 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-si:liquid)
 
-Names (8): _corpus: _corpus:phase:p-si:liquid  
-_paper: _paper:10.1007/s11669-013-0269-3:L, paper:10.1007/s11669-013-0269-3:Liquid, paper:10.1016/j.calphad.2024.102758:L  
+Names (9): _corpus: _corpus:phase:p-si:liquid  
+_paper: _paper:10.1007/s11669-013-0269-3:L, paper:10.1007/s11669-013-0269-3:Liquid, paper:10.1007/s11669-013-0269-3:liquid, paper:10.1016/j.calphad.2024.102758:L  
 _tdb: _tdb:SiP-04Din-LB.tdb:LIQUID, tdb:SiP-14Lia.tdb:LIQUID, tdb:SiP-21Don.tdb:LIQUID, tdb:SiP-24Fav.tdb:LIQUID  
 
 
@@ -453,7 +453,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: P 0.5000, Si 0.5000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1412.69 K, x(P) 0.5–0.5
-- Literature: 42 values (39 accepted) from 3 papers
+- Literature: 43 values (39 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-si:sip)
 
 Names (8): _corpus: _corpus:phase:p-si:sip  

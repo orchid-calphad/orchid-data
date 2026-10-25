@@ -13,7 +13,7 @@ Table: Phases of the Mg–Ni system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-mg-ni-bcc-a2); _phase:mg-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [C36_LAVES](#phase-mg-ni-c36-laves); _phase:mg-ni:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1420.57 K, x(Ni) 0.662–0.67341 | 35 | 3 |
+| [C36_LAVES](#phase-mg-ni-c36-laves); _phase:mg-ni:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1420.57 K, x(Ni) 0.662–0.67341 | 40 | 3 |
 | [FCC_A1](#phase-mg-ni-fcc-a1); _phase:mg-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2499.49 K, x(Ni) 0.99846–1 | 9 | 3 |
 | [HCP_A3](#phase-mg-ni-hcp-a3); _phase:mg-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–926.54 K, x(Ni) 0–1e-05 | 5 | 3 |
 | [LIQUID](#phase-mg-ni-liquid); _phase:mg-ni:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 780–2500 K, x(Ni) 0–1 | 35 | 3 |
@@ -70,11 +70,11 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in MgNi-98Jac-2.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in MgNi-98Jac-LB.tdb also describes the disordered state
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1420.57 K, x(Ni) 0.662–0.67341
-- Literature: 35 values (35 accepted) from 3 papers
+- Literature: 40 values (40 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-ni:c36-laves)
 
 Names (9): _corpus: _corpus:phase:mg-ni:c36-laves  
-_paper: _paper:10.1016/j.calphad.2005.08.006:Mg-hcp, paper:10.1016/j.calphad.2005.08.006:MgNi2, paper:10.1016/s0364-5916(98)00037-6:Laves-C36, paper:10.1016/s0364-5916(98)00037-6:MgNi2, paper:10.1016/s0364-5916(99)00008-5:MgNi2  
+_paper: _paper:10.1016/j.calphad.2005.08.006:Mg-hcp, paper:10.1016/j.calphad.2005.08.006:MgNi2, paper:10.1016/s0364-5916(99)00008-5:MgNi2, paper:sha256-85fd53a1a176b694:Laves-C36, paper:sha256-85fd53a1a176b694:MgNi2  
 _tdb: _tdb:MgNi-05Isl.tdb:C36_LAVES, tdb:MgNi-98Jac-2.tdb:C36_LAVES, tdb:MgNi-98Jac-LB.tdb:C36_LAVES  
 
 
@@ -101,7 +101,7 @@ _tdb: _tdb:MgNi-05Isl.tdb:C36_LAVES, tdb:MgNi-98Jac-2.tdb:C36_LAVES, tdb:MgNi-98
 49: CONST C36_LAVES : MG NI% : MG% NI : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2005.08.006](https://doi.org/10.1016/j.calphad.2005.08.006) F. Islam, M. Medraj, The phase equilibria in the Mg–Ni–Ca system, Calphad 29, 289-302 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -109,8 +109,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1002/zaac.19080570103](https://doi.org/10.1002/zaac.19080570103) G. Voss, Die Legierungen: Nickel‐Zinn, Nickel‐Blei, Nickel‐Thallium, Nickel‐Wismut, Nickel‐Chrom, Nickel‐Magnesium, Nickel‐Zink und Nickel‐Cadmium, Z. Anorg. Chem. 57, 34-71 (1908).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Mg–Ni)
 
@@ -121,7 +119,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-ni:fcc-a1)
 
 Names (7): _corpus: _corpus:phase:mg-ni:fcc-a1  
-_paper: _paper:10.1016/j.calphad.2005.08.006:Ni-fcc, paper:10.1016/s0364-5916(98)00037-6:fcc-A1, paper:10.1016/s0364-5916(99)00008-5:Fcc_A1  
+_paper: _paper:10.1016/j.calphad.2005.08.006:Ni-fcc, paper:10.1016/s0364-5916(99)00008-5:Fcc_A1, paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:MgNi-05Isl.tdb:FCC_A1, tdb:MgNi-98Jac-2.tdb:FCC_A1, tdb:MgNi-98Jac-LB.tdb:FCC_A1  
 
 
@@ -148,7 +146,7 @@ _tdb: _tdb:MgNi-05Isl.tdb:FCC_A1, tdb:MgNi-98Jac-2.tdb:FCC_A1, tdb:MgNi-98Jac-LB
 34: CONST FCC_A1 : MG NI% : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/S0364-5916(99)00008-5](https://doi.org/10.1016/S0364-5916%2899%2900008-5) M.H.G. Jacobs, P.J. Spencer, Calphad, 22, 513-25(1998).  
 _assessment that models this phase; reports values for this phase_
@@ -156,8 +154,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1002/zaac.19080570103](https://doi.org/10.1002/zaac.19080570103) G. Voss, Die Legierungen: Nickel‐Zinn, Nickel‐Blei, Nickel‐Thallium, Nickel‐Wismut, Nickel‐Chrom, Nickel‐Magnesium, Nickel‐Zink und Nickel‐Cadmium, Z. Anorg. Chem. 57, 34-71 (1908).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Mg–Ni)
 
@@ -168,7 +164,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-ni:hcp-a3)
 
 Names (6): _corpus: _corpus:phase:mg-ni:hcp-a3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:hcp-A3, paper:10.1016/s0364-5916(99)00008-5:Hcp_A3  
+_paper: _paper:10.1016/s0364-5916(99)00008-5:Hcp_A3, paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:MgNi-05Isl.tdb:HCP_A3, tdb:MgNi-98Jac-2.tdb:HCP_A3, tdb:MgNi-98Jac-LB.tdb:HCP_A3  
 
 
@@ -195,14 +191,12 @@ _tdb: _tdb:MgNi-05Isl.tdb:HCP_A3, tdb:MgNi-98Jac-2.tdb:HCP_A3, tdb:MgNi-98Jac-LB
 44: CONST HCP_A3 : MG% NI : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/S0364-5916(99)00008-5](https://doi.org/10.1016/S0364-5916%2899%2900008-5) M.H.G. Jacobs, P.J. Spencer, Calphad, 22, 513-25(1998).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2005.08.006](https://doi.org/10.1016/j.calphad.2005.08.006) F. Islam, M. Medraj, The phase equilibria in the Mg–Ni–Ca system, Calphad 29, 289-302 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Mg–Ni)
 
@@ -213,7 +207,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-ni:liquid)
 
 Names (7): _corpus: _corpus:phase:mg-ni:liquid  
-_paper: _paper:10.1016/j.calphad.2005.08.006:L, paper:10.1016/s0364-5916(98)00037-6:Liquid, paper:10.1016/s0364-5916(99)00008-5:L  
+_paper: _paper:10.1016/j.calphad.2005.08.006:L, paper:10.1016/s0364-5916(99)00008-5:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:MgNi-05Isl.tdb:LIQUID, tdb:MgNi-98Jac-2.tdb:LIQUID, tdb:MgNi-98Jac-LB.tdb:LIQUID  
 
 
@@ -240,14 +234,12 @@ _tdb: _tdb:MgNi-05Isl.tdb:LIQUID, tdb:MgNi-98Jac-2.tdb:LIQUID, tdb:MgNi-98Jac-LB
 29: CONST LIQUID:L : MG NI : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/S0364-5916(99)00008-5](https://doi.org/10.1016/S0364-5916%2899%2900008-5) M.H.G. Jacobs, P.J. Spencer, Calphad, 22, 513-25(1998).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2005.08.006](https://doi.org/10.1016/j.calphad.2005.08.006) F. Islam, M. Medraj, The phase equilibria in the Mg–Ni–Ca system, Calphad 29, 289-302 (2005).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1002/zaac.19080570103](https://doi.org/10.1002/zaac.19080570103) G. Voss, Die Legierungen: Nickel‐Zinn, Nickel‐Blei, Nickel‐Thallium, Nickel‐Wismut, Nickel‐Chrom, Nickel‐Magnesium, Nickel‐Zink und Nickel‐Cadmium, Z. Anorg. Chem. 57, 34-71 (1908).  
 _cited as the source of values for this phase_
 
@@ -265,7 +257,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-ni:mg2ni)
 
 Names (6): _corpus: _corpus:phase:mg-ni:mg2ni  
-_paper: _paper:10.1016/j.calphad.2005.08.006:Mg2Ni, paper:10.1016/s0364-5916(98)00037-6:Mg2Ni, paper:10.1016/s0364-5916(99)00008-5:Mg2Ni  
+_paper: _paper:10.1016/j.calphad.2005.08.006:Mg2Ni, paper:10.1016/s0364-5916(99)00008-5:Mg2Ni, paper:sha256-85fd53a1a176b694:Mg2Ni  
 _tdb: _tdb:MgNi-98Jac-2.tdb:MG2NI, tdb:MgNi-98Jac-LB.tdb:MG2NI  
 
 
@@ -285,7 +277,7 @@ _tdb: _tdb:MgNi-98Jac-2.tdb:MG2NI, tdb:MgNi-98Jac-LB.tdb:MG2NI
 54: CONST MG2NI : MG : NI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/S0364-5916(99)00008-5](https://doi.org/10.1016/S0364-5916%2899%2900008-5) M.H.G. Jacobs, P.J. Spencer, Calphad, 22, 513-25(1998).  
 _assessment that models this phase; reports values for this phase_
@@ -293,8 +285,6 @@ _assessment that models this phase; reports values for this phase_
 _reports values for this phase_
 - [doi:10.1016/0001-6160(60)90188-7](https://doi.org/10.1016/0001-6160%2860%2990188-7) J.F Smith, J.L Christian, Thermodynamics of formation of coppermagnesium and nickelmagnesium compounds from vapor pressure measurements, Acta Metallurgica 8, 249-255 (1960).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1016/0001-6160(64)90056-2](https://doi.org/10.1016/0001-6160%2864%2990056-2) R.C King, O.J Kleppa, A thermochemical study of some selected laves phases, Acta Metallurgica 12, 87-97 (1964).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(95)01526-4](https://doi.org/10.1016/0925-8388%2895%2901526-4) H. Feufel, F. Sommer, Thermodynamic investigations of binary liquid and solid CuMg and MgNi alloys and ternary liquid CuMgNi alloys, Journal of Alloys and Compounds 224, 42-54 (1995).  

@@ -1,10 +1,10 @@
 # Cu–Tl system
 
-> Cu–Tl system: 106 accepted literature values (activity / EMF / Gibbs energy 48, phase equilibrium 30, mixing / partial 25, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Tl system: 103 accepted literature values (activity / EMF / Gibbs energy 48, phase equilibrium 30, mixing / partial 25) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-TL.html · Markdown: https://data.orchid-project.org/systems/CU-TL.md
 
-106 accepted literature values from 1 paper(s) (experimental 96, model 10); 2 calculated phase diagram(s).
+103 accepted literature values from 1 paper(s) (experimental 94, model 9); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-TL.json) · [CSV](https://data.orchid-project.org/systems/CU-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-TL/CuTl-04Che-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-TL.html) · [Markdown](https://data.orchid-project.org/systems/CU-TL.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 96 |
-| model | 10 |
+| experimental | 94 |
+| model | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 2 |
 | phase equilibrium | 30 |
 | mixing / partial | 25 |
 | activity / EMF / Gibbs energy | 48 |
@@ -56,24 +54,7 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CU/CU-TL.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CU/CU-TL.json) · [CALPHAD hull CuTl-89Che](https://data.orchid-project.org/hulls/calphad-sgte/CU/CU-TL--CuTl-89Che.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cu–Tl system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1243 | monotectic |  | model | [1] Chevalier 1989 | p. 8; `ORC-Y46IEK6JPU` | “The monotectic reaction is calculated at T = 1243 K, x(L1) = 0.149, x(L2) = 0.829, x(f.c.c.) = 0.0026, which is in very good agreement with the experimental results of Predel and Sandig \[6\], and the estimated solid solubility in copper according to the average values of Raub and Engel \[7\].” |
-
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Cu–Tl system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1241 K | 1241 |  | experimental | [1] Chevalier 1989; _cites Johnen 1955_ | p. 2; `ORC-CU33PNAGQS` | “reaction, liquid (Ll) = Tl b.c.c. + liquid (L2), was located at T = 1235 K, and 0.138 \< x(L1) \< 0.143 by Doerinckel\[3\] with x = xT1 in the whole text, and at T = 1241 K, and x(L1) = 0.145, x(L2) = 0.83 by Johnen \[3\] using differential thermal analysis.” |
-| Phase transition | 1523 K | 1523 | other | experimental | [1] Chevalier 1989 | p. 3; `ORC-GBDWZVDIAC` | “Here, the critical separation temperature is situated at T = 1523 K and x(L) = 0.5.” |
 
 ### Phase equilibrium (30)
 

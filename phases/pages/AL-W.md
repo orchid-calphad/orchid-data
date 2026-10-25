@@ -35,7 +35,7 @@ Table: Phases of the Al–W system (10)
 Names (7): _corpus: _corpus:phase:al-w:al12w  
 _mp: _mp:mp-aaaaaqpv  
 _oqmd: _oqmd:oqmd-10607  
-_paper: _paper:10.1016/j.calphad.2017.09.007:Al12W, paper:10.1016/s0364-5916(98)00037-6:Al12W  
+_paper: _paper:10.1016/j.calphad.2017.09.007:Al12W, paper:sha256-85fd53a1a176b694:Al12W  
 _tdb: _tdb:AlW-17Wan.tdb:AL12W, tdb:AlW-98Sau-LB.tdb:AL12W  
 
 
@@ -55,12 +55,10 @@ _tdb: _tdb:AlW-17Wan.tdb:AL12W, tdb:AlW-98Sau-LB.tdb:AL12W
 45: CONST AL12W : AL : W : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007) Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL2W_C40 (Al–W)
 
@@ -72,7 +70,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-w:al2w-c40)
 
 Names (5): _corpus: _corpus:phase:al-w:al2w-c40  
-_paper: _paper:10.1016/j.calphad.2017.09.007:Al2W, paper:10.1016/s0364-5916(98)00037-6:Al2W  
+_paper: _paper:10.1016/j.calphad.2017.09.007:Al2W, paper:sha256-85fd53a1a176b694:Al2W  
 _tdb: _tdb:AlW-17Wan.tdb:AL2W_C40, tdb:AlW-98Sau-LB.tdb:AL2W_C40  
 
 
@@ -92,12 +90,10 @@ _tdb: _tdb:AlW-17Wan.tdb:AL2W_C40, tdb:AlW-98Sau-LB.tdb:AL2W_C40
 70: CONST AL2W_C40 : AL : W : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007) Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL4W (Al–W)
 
@@ -111,7 +107,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-w:al4w)
 
 Names (5): _corpus: _corpus:phase:al-w:al4w  
-_paper: _paper:10.1016/j.calphad.2017.09.007:Al4W, paper:10.1016/s0364-5916(98)00037-6:Al4W  
+_paper: _paper:10.1016/j.calphad.2017.09.007:Al4W, paper:sha256-85fd53a1a176b694:Al4W  
 _tdb: _tdb:AlW-17Wan.tdb:AL4W, tdb:AlW-98Sau-LB.tdb:AL4W  
 
 
@@ -131,12 +127,10 @@ _tdb: _tdb:AlW-17Wan.tdb:AL4W, tdb:AlW-98Sau-LB.tdb:AL4W
 55: CONST AL4W : AL : W : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007) Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL5W (Al–W)
 
@@ -150,7 +144,7 @@ _reports values for this phase_
 Names (7): _corpus: _corpus:phase:al-w:al5w  
 _mp: _mp:mp-aaaabswv  
 _oqmd: _oqmd:oqmd-10606  
-_paper: _paper:10.1016/j.calphad.2017.09.007:Al5W, paper:10.1016/s0364-5916(98)00037-6:Al5W  
+_paper: _paper:10.1016/j.calphad.2017.09.007:Al5W, paper:sha256-85fd53a1a176b694:Al5W  
 _tdb: _tdb:AlW-17Wan.tdb:AL5W, tdb:AlW-98Sau-LB.tdb:AL5W  
 
 
@@ -170,12 +164,10 @@ _tdb: _tdb:AlW-17Wan.tdb:AL5W, tdb:AlW-98Sau-LB.tdb:AL5W
 50: CONST AL5W : AL : W : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007) Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL77W23 (Al–W)
 
@@ -188,7 +180,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-w:al77w23)
 
 Names (3): _corpus: _corpus:phase:al-w:al77w23  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al77W23  
+_paper: _paper:sha256-85fd53a1a176b694:Al77W23  
 _tdb: _tdb:AlW-98Sau-LB.tdb:AL77W23  
 
 
@@ -201,11 +193,6 @@ _tdb: _tdb:AlW-98Sau-LB.tdb:AL77W23
 60: CONST AL77W23 : AL : W : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
-
 ## AL7W3 (Al–W)
 
 - Id: `phase:al-w:al7w3`; status `needs_review`
@@ -217,7 +204,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-w:al7w3)
 
 Names (3): _corpus: _corpus:phase:al-w:al7w3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al7W3  
+_paper: _paper:sha256-85fd53a1a176b694:Al7W3  
 _tdb: _tdb:AlW-98Sau-LB.tdb:AL7W3  
 
 
@@ -230,11 +217,6 @@ _tdb: _tdb:AlW-98Sau-LB.tdb:AL7W3
 65: CONST AL7W3 : AL : W : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
-
 ## BCC_A2 (Al–W)
 
 - Id: `phase:al-w:bcc-a2`; status `assigned`
@@ -244,7 +226,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-w:bcc-a2)
 
 Names (5): _corpus: _corpus:phase:al-w:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2017.09.007:(W), paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1016/j.calphad.2017.09.007:(W), paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:AlW-17Wan.tdb:BCC_A2, tdb:AlW-98Sau-LB.tdb:BCC_A2  
 
 
@@ -264,12 +246,10 @@ _tdb: _tdb:AlW-17Wan.tdb:BCC_A2, tdb:AlW-98Sau-LB.tdb:BCC_A2
 35: CONST BCC_A2 : AL W : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007) Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Al–W)
 
@@ -280,7 +260,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-w:fcc-a1)
 
 Names (5): _corpus: _corpus:phase:al-w:fcc-a1  
-_paper: _paper:10.1016/j.calphad.2017.09.007:(Al), paper:10.1016/s0364-5916(98)00037-6:fcc-A  
+_paper: _paper:10.1016/j.calphad.2017.09.007:(Al), paper:sha256-85fd53a1a176b694:fcc-A  
 _tdb: _tdb:AlW-17Wan.tdb:FCC_A1, tdb:AlW-98Sau-LB.tdb:FCC_A1  
 
 
@@ -300,12 +280,10 @@ _tdb: _tdb:AlW-17Wan.tdb:FCC_A1, tdb:AlW-98Sau-LB.tdb:FCC_A1
 30: CONST FCC_A1 : AL W : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007) Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Al–W)
 
@@ -349,7 +327,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-w:liquid)
 
 Names (5): _corpus: _corpus:phase:al-w:liquid  
-_paper: _paper:10.1016/j.calphad.2017.09.007:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1016/j.calphad.2017.09.007:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlW-17Wan.tdb:LIQUID, tdb:AlW-98Sau-LB.tdb:LIQUID  
 
 
@@ -369,12 +347,10 @@ _tdb: _tdb:AlW-17Wan.tdb:LIQUID, tdb:AlW-98Sau-LB.tdb:LIQUID
 25: CONST LIQUID:L : AL W : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007) Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

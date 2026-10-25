@@ -12,13 +12,13 @@ Table: Phases of the Al–La system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AL11LA3](#phase-al-la-al11la3); _phase:al-la:al11la3_ | Al11La3 · oI28 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1505.29 K, x(La) 0.21429–0.21429 | 8 | 2 |
+| [AL11LA3](#phase-al-la-al11la3); _phase:al-la:al11la3_ | Al11La3 · oI28 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1505.29 K, x(La) 0.21429–0.21429 | 10 | 2 |
 | [AL11LA3_ALPHA](#phase-al-la-al11la3-alpha); _phase:al-la:al11la3-alpha_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1200 K, x(La) 0.21429–0.21429 | 7 | 2 |
 | [AL11LA3_D13](#phase-al-la-al11la3-d13); _phase:al-la:al11la3-d13_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 1187.12–1513.24 K, x(La) 0.21428–0.21431 | 11 | 3 |
 | [AL2LA_C15](#phase-al-la-al2la-c15); _phase:al-la:al2la-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1677.01 K, x(La) 0.32834–0.37675 | 20 | 4 |
 | [AL3LA_D019](#phase-al-la-al3la-d019); _phase:al-la:al3la-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1444.91 K, x(La) 0.25–0.25 | 10 | 3 |
 | [AL53LA22_C32](#phase-al-la-al53la22-c32); _phase:al-la:al53la22-c32_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1323.62–1540.12 K, x(La) 0.29333–0.29333 | 4 | 1 |
-| [AL7LA3_C32](#phase-al-la-al7la3-c32); _phase:al-la:al7la3-c32_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 1363.18–1513.52 K, x(La) 0.3–0.3 | 16 | 3 |
+| [AL7LA3_C32](#phase-al-la-al7la3-c32); _phase:al-la:al7la3-c32_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 1363.18–1513.52 K, x(La) 0.3–0.3 | 8 | 3 |
 | [ALLA](#phase-al-la-alla); _phase:al-la:alla_ | AlCe · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1150 K, x(La) 0.5–0.5 | 16 | 4 |
 | [D019_ALLA](#phase-al-la-alla-d019); _phase:al-la:alla-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1445.51 K, x(La) 0.25–0.75 | 9 | 1 |
 | [ALLA3_D019](#phase-al-la-alla3-d019); _phase:al-la:alla3-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 3 | 3 |
@@ -26,7 +26,7 @@ Table: Phases of the Al–La system (15)
 | [DHCP](#phase-al-la-dhcp-a3); _phase:al-la:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1125 K, x(La) 1–1 | 1 | 4 |
 | [FCC_A1](#phase-al-la-fcc-a1); _phase:al-la:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1189 K, x(La) 0–1 | 19 | 4 |
 | [HCP_A3](#phase-al-la-hcp-a3); _phase:al-la:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [LIQUID](#phase-al-la-liquid); _phase:al-la:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 792.84–2500 K, x(La) 0–1 | 40 | 4 |
+| [LIQUID](#phase-al-la-liquid); _phase:al-la:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 792.84–2500 K, x(La) 0–1 | 42 | 4 |
 
 ## AL11LA3 (Al–La)
 
@@ -36,11 +36,11 @@ Table: Phases of the Al–La system (15)
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.7857, La 0.2143
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1505.29 K, x(La) 0.21429–0.21429
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-la:al11la3)
 
-Names (4): _corpus: _corpus:phase:al-la:al11la3  
-_paper: _paper:10.1016/s0925-8388(00)00679-4:La3Al11  
+Names (5): _corpus: _corpus:phase:al-la:al11la3  
+_paper: _paper:10.1016/j.actamat.2005.10.013:Al11La3, paper:10.1016/s0925-8388(00)00679-4:La3Al11  
 _tdb: _tdb:AlLa-00Yin.tdb:AL11LA3, tdb:AlLa-18Lia.tdb:AL11LA3_LT  
 
 
@@ -60,12 +60,14 @@ _tdb: _tdb:AlLa-00Yin.tdb:AL11LA3, tdb:AlLa-18Lia.tdb:AL11LA3_LT
 49: CONST AL11LA3_LT : AL : LA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/S0925-8388(00)00679-4](https://doi.org/10.1016/S0925-8388%2800%2900679-4) F. Yin, X. Su, Z. Li, M. Huang, Y. Shi, J. Alloys Compd., 302, 169-72(2000)  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.3390/ma11122396](https://doi.org/10.3390/ma11122396) Jinfa Liao, Hang Wang, Tzu-Yu Chen, Experimental Investigation and Thermodynamic Calculation of Ni–Al–La Ternary System in Nickel-Rich Region: A New Intermetallic Compound Ni2AlLa, Materials 11, 2396 (2018).  
 _assessment that models this phase_
+- [doi:10.1016/j.actamat.2005.10.013](https://doi.org/10.1016/j.actamat.2005.10.013) S.H. Zhou, R.E. Napolitano, Phase equilibria and thermodynamic limits for partitionless crystallization in the Al–La binary system, Acta Materialia 54, 831-840 (2006).  
+_reports values for this phase_
 
 ## AL11LA3_ALPHA (Al–La)
 
@@ -313,11 +315,11 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (tdb_comment): AlB2 · hP3 · P6/mmm, AlxLa in Massalski, also Al5La2 — AlLa-18Lia.tdb: 'Prototype AlB2 (hP3, P6/mmm, AlxLa in Massalski, also Al5La2)'
 - Stoichiometry: Al 0.7000, La 0.3000
 - Stability: stable in 3 of 3 calculated diagram(s): 1363.18–1513.52 K, x(La) 0.3–0.3
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-la:al7la3-c32)
 
-Names (7): _corpus: _corpus:phase:al-la:al7la3-c32  
-_paper: _paper:10.1016/j.actamat.2005.10.013:Al7La3, paper:10.1016/s0925-8388(00)00679-4:LaALx, paper:10.1016/s0925-8388(00)00679-4:LaAlx  
+Names (5): _corpus: _corpus:phase:al-la:al7la3-c32  
+_paper: _paper:10.1016/j.actamat.2005.10.013:Al7La3  
 _tdb: _tdb:AlLa-00Yin.tdb:AL7LA3_C32, tdb:AlLa-06Zho.tdb:AL7LA3_C32, tdb:AlLa-18Lia.tdb:AL7LA3_C32  
 
 
@@ -349,7 +351,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.actamat.2005.10.013](https://doi.org/10.1016/j.actamat.2005.10.013) S.H. Zhou, R.E. Napolitano, Phase equilibria and thermodynamic limits for partitionless crystallization in the Al–La binary system, Acta Materialia 54, 831-840 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0925-8388(00)00679-4](https://doi.org/10.1016/S0925-8388%2800%2900679-4) F. Yin, X. Su, Z. Li, M. Huang, Y. Shi, J. Alloys Compd., 302, 169-72(2000)  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.3390/ma11122396](https://doi.org/10.3390/ma11122396) Jinfa Liao, Hang Wang, Tzu-Yu Chen, Experimental Investigation and Thermodynamic Calculation of Ni–Al–La Ternary System in Nickel-Rich Region: A New Intermetallic Compound Ni2AlLa, Materials 11, 2396 (2018).  
 _assessment that models this phase_
 
@@ -684,11 +686,11 @@ _assessment that models this phase_
 - Id: `phase:al-la:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 792.84–2500 K, x(La) 0–1
-- Literature: 40 values (40 accepted) from 3 papers
+- Literature: 42 values (42 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-la:liquid)
 
-Names (8): _corpus: _corpus:phase:al-la:liquid  
-_paper: _paper:10.1016/j.actamat.2005.10.013:Liq, paper:10.1016/s0364-5916(02)00009-3:Liquid, paper:10.1016/s0925-8388(00)00679-4:L  
+Names (9): _corpus: _corpus:phase:al-la:liquid  
+_paper: _paper:10.1016/j.actamat.2005.10.013:Liq, paper:10.1016/j.actamat.2005.10.013:liquid, paper:10.1016/s0364-5916(02)00009-3:Liquid, paper:10.1016/s0925-8388(00)00679-4:L  
 _tdb: _tdb:AlLa-00Yin.tdb:LIQUID, tdb:AlLa-01Cac.tdb:LIQUID, tdb:AlLa-06Zho.tdb:LIQUID, tdb:AlLa-18Lia.tdb:LIQUID  
 
 

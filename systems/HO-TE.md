@@ -1,10 +1,10 @@
 # Ho–Te system
 
-> Ho–Te system: 47 accepted literature values (crystal structure 18, invariant reaction 18, formation 6, phase transition 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ho–Te system: 36 accepted literature values (crystal structure 18, invariant reaction 11, formation 6, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HO-TE.html · Markdown: https://data.orchid-project.org/systems/HO-TE.md
 
-47 accepted literature values from 2 paper(s) (experimental 25, model 13, DFT 6, unspecified 3); 2 calculated phase diagram(s).
+36 accepted literature values from 2 paper(s) (experimental 18, model 9, DFT 6, unspecified 3); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HO-TE.json) · [CSV](https://data.orchid-project.org/systems/HO-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-TE/HoTe-13Gha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/HO-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-TE.html) · [Markdown](https://data.orchid-project.org/systems/HO-TE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 13 |
+| experimental | 18 |
+| model | 9 |
 | DFT | 6 |
 | unspecified | 3 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 18 |
-| phase transition | 5 |
+| invariant reaction | 11 |
+| phase transition | 1 |
 | formation | 6 |
 | crystal structure | 18 |
 
@@ -59,27 +59,20 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ho–Te system (18)
+Table: Invariant reactions reported in the literature for the Ho–Te system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1643 | congruent melting: Liq \<-> (HoTe) | Liq: Te 0.5; (HoTe): Te 0.5 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 4; `ORC-A6WW7UXDLY` |  |
 | 1642 | congruent melting: Liq \<-> (HoTe) | Liq: Te 0.5; (HoTe): Te 0.5 | model | [1] Ghamri 2013 | Table 4, p. 4, row 5; `ORC-YA2RFJ3R37` |  |
 | 1383.12 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.2261; (Ho): Te 0; (HoTe): Te 0.5 | model | [1] Ghamri 2013 | Table 4, p. 4, row 3; `ORC-QWATMEEJKG` |  |
-| 1383 | eutectic |  | experimental | [1] Ghamri 2013 | p. 1; `ORC-IXKKDHO4XU.7fce63` | “There are an eutectic reaction: L (23 at.% Te) M (Ho) + (HoTe), occurring at about 1383 K and a peritectic reaction : L + HoTe3 M (Te), occurring at about 728 K.” |
 | 1383 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.23; (HoTe): Te 0.485 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 1; `ORC-JC4RCRCIHL` |  |
 | 1383 | eutectic: Liq \<-> (Ho) + (HoTe) | Liq: Te 0.23; (HoTe): Te 0.5 | experimental | [1] Ghamri 2013; _cites Massalski 1990_ | Table 4, p. 4, row 2; `ORC-WJBKHQDSWD` |  |
-| 1383 | eutectic |  | model | [1] Ghamri 2013 | p. 4; `ORC-YR4AEV67GB` | “The calculated eutectic temperatures in this system, L M (Ho) + (HoTe) and L M (Te) + HoTe3 are 1383 K and 722.66 °K, which agree well with the results taken from \[5\].” |
 | 1073.1 | peritectic: Liq + (HoTe) \<-> Ho2Te5 | Liq: Te 0.9313; (HoTe): Te 0.547; Ho2Te5: Te 0.714 | model | [1] Ghamri 2013 | Table 4, p. 4, row 7; `ORC-CRMAQTUBU7` |  |
 | 1073 | peritectic: Liq + (HoTe) \<-> Ho2Te5 | (HoTe): Te 0.547; Ho2Te5: Te 0.714 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 6; `ORC-5PHOTT4K4V` |  |
-| 1073 | peritectic |  | model | [1] Ghamri 2013 | p. 4; `ORC-GZ27N3SQ5Y.453f7e` | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
-| 1073 | peritectic |  | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | p. 1; `ORC-VQEFDSPCKT.460990` | “Whereas the Ho2Te5 and HoTe3 phases form as stoichiometric compounds as a product of peritectic reactions at about 1073, and 1053 K, respectively.” |
 | 1053.2 | peritectic: Liq + Ho2Te5 \<-> HoTe3 | Liq: Te 0.9412; Ho2Te5: Te 0.714; HoTe3: Te 0.75 | model | [1] Ghamri 2013 | Table 4, p. 4, row 9; `ORC-7SA27JRA5I` |  |
-| 1053 | peritectic |  | model | [1] Ghamri 2013 | p. 4; `ORC-GZ27N3SQ5Y.d3c800` | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
 | 1053 | peritectic: Liq + Ho2Te5 \<-> HoTe3 | Ho2Te5: Te 0.714; HoTe3: Te 0.75 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 8; `ORC-OIM7RFMZ4M` |  |
-| 1053 | peritectic |  | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | p. 1; `ORC-VQEFDSPCKT.f17fcb` | “Whereas the Ho2Te5 and HoTe3 phases form as stoichiometric compounds as a product of peritectic reactions at about 1073, and 1053 K, respectively.” |
 | 728 | peritectic: Liq \<-> (Te) + HoTe3 | HoTe3: Te 0.75 | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 4, p. 4, row 10; `ORC-2JLCSDTS4I` |  |
-| 728 | peritectic |  | experimental | [1] Ghamri 2013 | p. 1; `ORC-IXKKDHO4XU.61ad7e` | “There are an eutectic reaction: L (23 at.% Te) M (Ho) + (HoTe), occurring at about 1383 K and a peritectic reaction : L + HoTe3 M (Te), occurring at about 728 K.” |
 | 722.66 | eutectic: Liq \<-> (Te) + HoTe3 | Liq: Te 0.999; (Te): Te 1; HoTe3: Te 0.75 | model | [1] Ghamri 2013 | Table 4, p. 4, row 11; `ORC-UM7EYK6GR3` |  |
 
 ## Formation enthalpies
@@ -99,17 +92,13 @@ Table: Enthalpies of formation, Ho–Te system (6)
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (1)
 
 Table: Phase transition, Ho–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1622.12 K | 1622.12 |  | model | [1] Ghamri 2013 | p. 4; `ORC-GZ27N3SQ5Y.975d9f` | “The calculated peritectic temperatures of the intermetallic compounds Ho2Te5, and HoTe3 are 1073, and 1053 K, respectively, and the calculated melting temperature of the (HoTe) compound is 1622.12 K are also in good agreement with those of experimental data \[5\], within the expected uncertainty limits.” |
 | Phase transition | 1643 K | 1643 | congruent transformation | experimental | [2] Cui 2023; _cites Yarembash 1974_ | p. 3; `ORC-2VSV6TGBQK` | “HoTe has a homogeneity range and melts congruently at about 1643 K.” |
-| Phase transition | 1698 K | 1698 | polymorphic | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 1; `ORC-X45NAMI622.047468` | “The allotropic transformation of Ho observed at 1698 K (near its melting point 1747 K) by Spedding et al. \[10\] is not shown in both diagrams of \[5\] and \[9\].” |
-| Phase transition | 1698.15 K | 1698.15 | polymorphic | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 4; `ORC-423LHQC3V7` | “The allotropic transformation of Ho given at 1425 °C by Spedding et al. \[10\] was not taken into consideration in the present assessment, because pure Ho has an Mg-type hcp structure up to the melting point \[5,9\].” |
-| Phase transition | 1747 K | 1747 |  | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 1; `ORC-X45NAMI622.b5fd59` | “The allotropic transformation of Ho observed at 1698 K (near its melting point 1747 K) by Spedding et al. \[10\] is not shown in both diagrams of \[5\] and \[9\].” |
 
 ### Crystal structure (18)
 

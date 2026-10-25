@@ -1,10 +1,10 @@
 # B–V system
 
-> B–V system: 23 accepted literature values (phase transition 16, formation 6, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–V system: 21 accepted literature values (phase transition 14, formation 6, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-V.html · Markdown: https://data.orchid-project.org/systems/B-V.md
 
-23 accepted literature values from 1 paper(s) (experimental 8, model 14, unspecified 1); 0 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (experimental 7, model 13, unspecified 1); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-V.json) · [CSV](https://data.orchid-project.org/systems/B-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-V) · [phases (11)](https://data.orchid-project.org/phases/pages/B-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-V.html) · [Markdown](https://data.orchid-project.org/systems/B-V.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 14 |
+| experimental | 7 |
+| model | 13 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 16 |
+| phase transition | 14 |
 | formation | 6 |
 | other property | 1 |
 
@@ -38,14 +38,12 @@ Table: Enthalpies of formation, B–V system (1)
 
 ## Other properties
 
-### Phase transition (16)
+### Phase transition (14)
 
 Table: Phase transition, B–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2000 K | 2000 | H | model | [1] Spear 1981 | Table 4, p. 6, row 16; `ORC-XHIPINFWZA` |  |
-| Phase transition | 2000 K | 2000 | H | experimental | [1] Spear 1981 | Table 4, p. 6, row 15; `ORC-ZYMQWMEEA3` |  |
 | Phase transition | 2008 K | 2008 | A; _L: V 0.85_ | model | [1] Spear 1981 | Table 4, p. 6, row 2; `ORC-CVWN4PB2MN` |  |
 | Phase transition | 2010 K | 2010 | A; _L: V 0.86_ | experimental | [1] Spear 1981 | Table 4, p. 6, row 1; `ORC-4ACFUPAVWN` |  |
 | Phase transition | 2173 K | 2173 | B; _L: V 0.74_ | experimental | [1] Spear 1981 | Table 4, p. 6, row 3; `ORC-INQOGQYCWM` |  |

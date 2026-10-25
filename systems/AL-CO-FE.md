@@ -1,10 +1,10 @@
 # Al–Co–Fe system
 
-> Al–Co–Fe system: 53 accepted literature values (phase equilibrium 30, formation 22, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Co–Fe system: 47 accepted literature values (phase equilibrium 30, formation 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CO-FE.html · Markdown: https://data.orchid-project.org/systems/AL-CO-FE.md
 
-53 accepted literature values from 2 paper(s) (experimental 31, model 6, DFT 16); 0 calculated phase diagram(s).
+47 accepted literature values from 2 paper(s) (experimental 30, model 6, DFT 11); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-FE.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-FE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO-FE.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO-FE.md)
 
@@ -12,31 +12,22 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
+| experimental | 30 |
 | model | 6 |
-| DFT | 16 |
+| DFT | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | phase equilibrium | 30 |
-| formation | 22 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Al–Co–Fe system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 927.05 | eutectic: Liquid%A1þCo2Al9þm(Co,Fe)4Al13 |  | experimental | [1] Ostrowska 2019; _cites Raynor 1948_ | p. 4; `ORC-75OPJQ6EHA` | “Moreover the liquidus surface was determined in the Al-rich corner (97.5e100 wt% Al) and the temperature of the ternary eutectic Liquid%A1þCo2Al9þm(Co,Fe)4Al13 was estimated to be 653.9 ± 0.3 C with the liquid composition: 1.55Fe-0.35Co98.1Al (wt%).” |
+| formation | 17 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Co–Fe system (22)
+Table: Enthalpies of formation, Al–Co–Fe system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -55,11 +46,6 @@ Table: Enthalpies of formation, Al–Co–Fe system (22)
 | B2 |  | -5.79 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 4, p. 4, row 1; `ORC-B4XWAFKFZL` |  |
 | B2 |  | -5.79 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 4, p. 4, row 4; `ORC-Z3SKRNAAGP` |  |
 | B2 |  | -2.61 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 4, p. 4, row 3; `ORC-A2ZOHYWEMM` |  |
-| Fe3Al |  | -19.4 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites OQMD_ | Table 3, p. 3, row 5; `ORC-7QQKA7EOC5` |  |
-| Fe3Al |  | -19.21 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 7; `ORC-SYS3MN5SZC` |  |
-| Fe3Al |  | -19.11 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 6; `ORC-J4TDABFUUL` |  |
-| Fe3Al |  | -18.73 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 4; `ORC-NQRQLJPSFJ` |  |
-| FeAl2 |  | -124.42 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites AFLOW_ | Table 3, p. 3, row 3; `ORC-QZDY6TWINT` |  |
 | m-(Co,Fe)4Al13 |  | -16.22 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites NIST_ | Table 3, p. 3, row 2; `ORC-U6R2MU4PLH` |  |
 | m-(Co,Fe)4Al13 |  | -14.77 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ostrowska 2019; _cites materialsproject_ | Table 3, p. 3, row 1; `ORC-BZXFTEF2RW` |  |
 

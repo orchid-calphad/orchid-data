@@ -18,7 +18,7 @@ Table: Phases of the Hg–Te system (7)
 | [FCC_A1](#phase-hg-te-fcc-a1); _phase:hg-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-hg-te-hcp-a3); _phase:hg-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [ION](#phase-hg-te-ion); _phase:hg-te:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(Te) 0–1 | 0 | 1 |
-| [LIQUID](#phase-hg-te-liquid); _phase:hg-te:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(Te) 0–1 | 20 | 2 |
+| [LIQUID](#phase-hg-te-liquid); _phase:hg-te:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(Te) 0–1 | 21 | 2 |
 
 ## RHOMBO_A10 (Hg–Te)
 
@@ -234,11 +234,11 @@ _assessment that models this phase_
 - Id: `phase:hg-te:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2500 K, x(Te) 0–1
-- Literature: 20 values (20 accepted) from 2 papers
+- Literature: 21 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hg-te:liquid)
 
-Names (5): _corpus: _corpus:phase:hg-te:liquid  
-_paper: _paper:10.1016/0364-5916(95)00038-g:liquid, paper:10.1016/j.jallcom.2010.01.003:L  
+Names (6): _corpus: _corpus:phase:hg-te:liquid  
+_paper: _paper:10.1016/0364-5916(95)00038-g:liquid, paper:10.1016/j.jallcom.2010.01.003:L, paper:10.1016/j.jallcom.2010.01.003:liquid  
 _tdb: _tdb:HgTe-10Gie.tdb:LIQUID, tdb:HgTe-95Yan-LB.tdb:LIQUID  
 
 

@@ -331,7 +331,7 @@
     "x0": 0.09,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> (βCo) + Co11Zr2",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -388,7 +388,7 @@
     "x0": 0.333333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Co2Zr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -406,7 +406,7 @@
     "x0": 0.333333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Co2Zr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -424,7 +424,7 @@
     "x0": 0.46,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Co2Zr + CoZr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -443,7 +443,7 @@
     "x0": 0.46,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Co2Zr + CoZr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -462,7 +462,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> CoZr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -480,7 +480,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> CoZr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

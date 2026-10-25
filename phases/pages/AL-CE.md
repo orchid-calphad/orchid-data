@@ -28,7 +28,7 @@ Table: Phases of the Al–Ce system (17)
 | [BCC_A2](#phase-al-ce-bcc-a2); _phase:al-ce:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 301.25–2499.5 K, x(Ce) 0.98673–1 | 2 | 4 |
 | [FCC_A1](#phase-al-ce-fcc-a1); _phase:al-ce:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1065.89 K, x(Ce) 0–1 | 6 | 4 |
 | [HCP_A3](#phase-al-ce-hcp-a3); _phase:al-ce:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [LIQUID](#phase-al-ce-liquid); _phase:al-ce:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 852.21–2500 K, x(Ce) 0–1 | 15 | 4 |
+| [LIQUID](#phase-al-ce-liquid); _phase:al-ce:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 852.21–2500 K, x(Ce) 0–1 | 19 | 4 |
 
 ## AL11CE3 (Al–Ce)
 
@@ -42,7 +42,7 @@ Table: Phases of the Al–Ce system (17)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ce:al11ce3)
 
 Names (4): _corpus: _corpus:phase:al-ce:al11ce3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al11Ce3  
+_paper: _paper:sha256-85fd53a1a176b694:Al11Ce3  
 _tdb: _tdb:AlCe-05Gao.tdb:AL11CE3, tdb:AlCe-98Cac-COST.tdb:AL11CE3  
 
 
@@ -62,12 +62,10 @@ _tdb: _tdb:AlCe-05Gao.tdb:AL11CE3, tdb:AlCe-98Cac-COST.tdb:AL11CE3
 53: CONST AL11CE3 : AL : CE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11661-005-0001-y](https://doi.org/10.1007/s11661-005-0001-y) Michael C. Gao, Necip Ünlü, G. J. Shiflet, Marek Mihalkovic, Michael Widom, Reassessment of Al-Ce and Al-Nd binary systems supported by critical experiments and first-principles energy calculations, Metall Mater Trans A 36, 3269-3279 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL11CE3_ALPHA (Al–Ce)
 
@@ -157,7 +155,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ce:al2ce-c15)
 
 Names (7): _corpus: _corpus:phase:al-ce:al2ce-c15  
-_paper: _paper:10.1016/s0364-5916(02)00009-3:CeAl2, paper:10.1016/s0364-5916(98)00037-6:Laves-C15\*  
+_paper: _paper:10.1016/s0364-5916(02)00009-3:CeAl2, paper:sha256-85fd53a1a176b694:Laves-C15\*  
 _tdb: _tdb:AlCe-01Cac.tdb:AL2CE_C15, tdb:AlCe-05Gao.tdb:AL2CE_C15, tdb:AlCe-98Cac-COST.tdb:AL2CE_C15, tdb:AlCe-98Cac-LB.tdb:AL2CE_C15  
 
 
@@ -191,14 +189,12 @@ _tdb: _tdb:AlCe-01Cac.tdb:AL2CE_C15, tdb:AlCe-05Gao.tdb:AL2CE_C15, tdb:AlCe-98Ca
 67: CONST AL2CE_C15 : AL : CE : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/S0364-5916(02)00009-3](https://doi.org/10.1016/S0364-5916%2802%2900009-3) G. Cacciamani, R. Ferro, Calphad, 25, 583-97(2001).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-005-0001-y](https://doi.org/10.1007/s11661-005-0001-y) Michael C. Gao, Necip Ünlü, G. J. Shiflet, Marek Mihalkovic, Michael Widom, Reassessment of Al-Ce and Al-Nd binary systems supported by critical experiments and first-principles energy calculations, Metall Mater Trans A 36, 3269-3279 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL3CE_BETA (Al–Ce)
 
@@ -240,7 +236,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ce:al3ce-d019)
 
 Names (7): _corpus: _corpus:phase:al-ce:al3ce-d019  
-_paper: _paper:10.1016/s0364-5916(02)00009-3:CeAl3, paper:10.1016/s0364-5916(98)00037-6:Al3Ce  
+_paper: _paper:10.1016/s0364-5916(02)00009-3:CeAl3, paper:sha256-85fd53a1a176b694:Al3Ce  
 _tdb: _tdb:AlCe-01Cac.tdb:AL3CE_D019, tdb:AlCe-05Gao.tdb:AL3CE_D019, tdb:AlCe-98Cac-COST.tdb:AL3CE_D019, tdb:AlCe-98Cac-LB.tdb:AL3CE_D019  
 
 
@@ -274,14 +270,12 @@ _tdb: _tdb:AlCe-01Cac.tdb:AL3CE_D019, tdb:AlCe-05Gao.tdb:AL3CE_D019, tdb:AlCe-98
 62: CONST AL3CE_D019 : AL : CE : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/S0364-5916(02)00009-3](https://doi.org/10.1016/S0364-5916%2802%2900009-3) G. Cacciamani, R. Ferro, Calphad, 25, 583-97(2001).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-005-0001-y](https://doi.org/10.1007/s11661-005-0001-y) Michael C. Gao, Necip Ünlü, G. J. Shiflet, Marek Mihalkovic, Michael Widom, Reassessment of Al-Ce and Al-Nd binary systems supported by critical experiments and first-principles energy calculations, Metall Mater Trans A 36, 3269-3279 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## AL4CE_D13 (Al–Ce)
 
@@ -322,7 +316,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ce:alce)
 
 Names (7): _corpus: _corpus:phase:al-ce:alce  
-_paper: _paper:10.1016/s0364-5916(02)00009-3:AlCe, paper:10.1016/s0364-5916(98)00037-6:AlCe  
+_paper: _paper:10.1016/s0364-5916(02)00009-3:AlCe, paper:sha256-85fd53a1a176b694:AlCe  
 _tdb: _tdb:AlCe-01Cac.tdb:ALCE, tdb:AlCe-05Gao.tdb:ALCE, tdb:AlCe-98Cac-COST.tdb:ALCE, tdb:AlCe-98Cac-LB.tdb:ALCE  
 
 
@@ -356,14 +350,12 @@ _tdb: _tdb:AlCe-01Cac.tdb:ALCE, tdb:AlCe-05Gao.tdb:ALCE, tdb:AlCe-98Cac-COST.tdb
 72: CONST ALCE : AL : CE : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/S0364-5916(02)00009-3](https://doi.org/10.1016/S0364-5916%2802%2900009-3) G. Cacciamani, R. Ferro, Calphad, 25, 583-97(2001).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-005-0001-y](https://doi.org/10.1007/s11661-005-0001-y) Michael C. Gao, Necip Ünlü, G. J. Shiflet, Marek Mihalkovic, Michael Widom, Reassessment of Al-Ce and Al-Nd binary systems supported by critical experiments and first-principles energy calculations, Metall Mater Trans A 36, 3269-3279 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## ALCE_AMORPHOUS (Al–Ce)
 
@@ -425,7 +417,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ce:alce3)
 
 Names (3): _corpus: _corpus:phase:al-ce:alce3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:AlCe3  
+_paper: _paper:sha256-85fd53a1a176b694:AlCe3  
 _tdb: _tdb:AlCe-98Cac-COST.tdb:ALCE3  
 
 
@@ -437,11 +429,6 @@ _tdb: _tdb:AlCe-98Cac-COST.tdb:ALCE3
 73: PHASE ALCE3 % 2 1 3 !
 74: CONST ALCE3 : AL : CE : !
 ~~~~
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## ALCE3_D019 (Al–Ce)
 
@@ -540,7 +527,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ce:bcc-a2)
 
 Names (7): _corpus: _corpus:phase:al-ce:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(02)00009-3:(δCe), paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1016/s0364-5916(02)00009-3:(δCe), paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:AlCe-01Cac.tdb:BCC_A2, tdb:AlCe-05Gao.tdb:BCC_A2, tdb:AlCe-98Cac-COST.tdb:BCC_A2, tdb:AlCe-98Cac-LB.tdb:BCC_A2  
 
 
@@ -574,14 +561,12 @@ _tdb: _tdb:AlCe-01Cac.tdb:BCC_A2, tdb:AlCe-05Gao.tdb:BCC_A2, tdb:AlCe-98Cac-COST
 42: CONST BCC_A2 : AL CE% : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/S0364-5916(02)00009-3](https://doi.org/10.1016/S0364-5916%2802%2900009-3) G. Cacciamani, R. Ferro, Calphad, 25, 583-97(2001).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-005-0001-y](https://doi.org/10.1007/s11661-005-0001-y) Michael C. Gao, Necip Ünlü, G. J. Shiflet, Marek Mihalkovic, Michael Widom, Reassessment of Al-Ce and Al-Nd binary systems supported by critical experiments and first-principles energy calculations, Metall Mater Trans A 36, 3269-3279 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Al–Ce)
 
@@ -592,7 +577,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ce:fcc-a1)
 
 Names (8): _corpus: _corpus:phase:al-ce:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(02)00009-3:(Al), paper:10.1016/s0364-5916(02)00009-3:(γCe), paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:10.1016/s0364-5916(02)00009-3:(Al), paper:10.1016/s0364-5916(02)00009-3:(γCe), paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:AlCe-01Cac.tdb:FCC_A1, tdb:AlCe-05Gao.tdb:FCC_A1, tdb:AlCe-98Cac-COST.tdb:FCC_A1, tdb:AlCe-98Cac-LB.tdb:FCC_A1  
 
 
@@ -626,14 +611,12 @@ _tdb: _tdb:AlCe-01Cac.tdb:FCC_A1, tdb:AlCe-05Gao.tdb:FCC_A1, tdb:AlCe-98Cac-COST
 37: CONST FCC_A1 : AL% CE% : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/S0364-5916(02)00009-3](https://doi.org/10.1016/S0364-5916%2802%2900009-3) G. Cacciamani, R. Ferro, Calphad, 25, 583-97(2001).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-005-0001-y](https://doi.org/10.1007/s11661-005-0001-y) Michael C. Gao, Necip Ünlü, G. J. Shiflet, Marek Mihalkovic, Michael Widom, Reassessment of Al-Ce and Al-Nd binary systems supported by critical experiments and first-principles energy calculations, Metall Mater Trans A 36, 3269-3279 (2005).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Al–Ce)
 
@@ -689,11 +672,11 @@ _assessment that models this phase_
 - Id: `phase:al-ce:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 852.21–2500 K, x(Ce) 0–1
-- Literature: 15 values (15 accepted) from 2 papers
+- Literature: 19 values (19 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ce:liquid)
 
-Names (7): _corpus: _corpus:phase:al-ce:liquid  
-_paper: _paper:10.1016/s0364-5916(02)00009-3:Liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+Names (8): _corpus: _corpus:phase:al-ce:liquid  
+_paper: _paper:10.1007/s11661-005-0001-y:liquid, paper:10.1016/s0364-5916(02)00009-3:Liquid, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:AlCe-01Cac.tdb:LIQUID, tdb:AlCe-05Gao.tdb:LIQUID, tdb:AlCe-98Cac-COST.tdb:LIQUID, tdb:AlCe-98Cac-LB.tdb:LIQUID  
 
 
@@ -727,14 +710,12 @@ _tdb: _tdb:AlCe-01Cac.tdb:LIQUID, tdb:AlCe-05Gao.tdb:LIQUID, tdb:AlCe-98Cac-COST
 32: CONST LIQUID:L : AL CE : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/S0364-5916(02)00009-3](https://doi.org/10.1016/S0364-5916%2802%2900009-3) G. Cacciamani, R. Ferro, Calphad, 25, 583-97(2001).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-005-0001-y](https://doi.org/10.1007/s11661-005-0001-y) Michael C. Gao, Necip Ünlü, G. J. Shiflet, Marek Mihalkovic, Michael Widom, Reassessment of Al-Ce and Al-Nd binary systems supported by critical experiments and first-principles energy calculations, Metall Mater Trans A 36, 3269-3279 (2005).  
-_assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

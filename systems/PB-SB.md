@@ -1,10 +1,10 @@
 # Pb–Sb system
 
-> Pb–Sb system: 29 accepted literature values (phase transition 9, phase equilibrium 7, invariant reaction 7, mixing / partial 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Sb system: 27 accepted literature values (phase transition 9, phase equilibrium 7, mixing / partial 6, invariant reaction 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-SB.html · Markdown: https://data.orchid-project.org/systems/PB-SB.md
 
-29 accepted literature values from 2 paper(s) (experimental 26, model 3); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 2 paper(s) (experimental 25, model 2); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-SB.json) · [CSV](https://data.orchid-project.org/systems/PB-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-SB/PbSb-09Has.json) · [phases (5)](https://data.orchid-project.org/phases/pages/PB-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-SB.html) · [Markdown](https://data.orchid-project.org/systems/PB-SB.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 26 |
-| model | 3 |
+| experimental | 25 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 7 |
+| invariant reaction | 5 |
 | phase transition | 9 |
 | phase equilibrium | 7 |
 | mixing / partial | 6 |
@@ -50,17 +50,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pb–Sb system (7)
+Table: Invariant reactions reported in the literature for the Pb–Sb system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 526.15 | eutectic: L = fcc(Pb) + rhombo(Sb) |  | experimental | [1] Hassam 2009; _cites Othani 1995_ | Table 4, p. 4, row 3; `ORC-YIGLAV3CVT` |  |
 | 525.39 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.171 | model | [1] Hassam 2009 | Table 4, p. 4, row 5; `ORC-TC2Y67IY3X` |  |
-| 525.3 | eutectic |  | experimental | [1] Hassam 2009 | p. 3; `ORC-GYA67CHAUO` | “From these results the eutectic point is measured at XSb = 0.1675 ± 0.0003 and T = 525.3 ± 0.5 K.” |
 | 525.29 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.1675 | experimental | [1] Hassam 2009 | Table 4, p. 4, row 4; `ORC-ZP5LFSX4EV` |  |
 | 525.15 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.175 | experimental | [1] Hassam 2009; _cites Redlich 1948_ | Table 4, p. 4, row 1; `ORC-NNKFRRYWUM` |  |
 | 524.85 | eutectic: L = fcc(Pb) + rhombo(Sb) | L: Sb 0.175 | model | [1] Hassam 2009; _cites Ashtakala 1981_ [doi](https://doi.org/10.1007/bf02873711) | Table 4, p. 4, row 2; `ORC-Q3KMYNVTU7` |  |
-| 524.85 | eutectic |  | model | [1] Hassam 2009 | p. 1; `ORC-UIJQ56WIQ4` | “The calculated eutectic composition and temperature are 17.5 at.% Sb and 524.85 K, respectively.” |
 
 ## Other properties
 

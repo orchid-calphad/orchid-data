@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/NiTi.html · Markdown: https://data.orchid-project.org/compounds/NiTi.md
 
-46 accepted literature formation-enthalpy value(s) (experimental 10, model 19, DFT 17); experimental median -33.9 kJ/mol-atom (n = 5); Materials Project -38.194 kJ/mol-atom (mp-aaaaaboi); OQMD -40.284 kJ/mol-atom (oqmd-107703).
+46 accepted literature formation-enthalpy value(s) (experimental 10, model 17, DFT 19); experimental median -33.9 kJ/mol-atom (n = 5); Materials Project -38.194 kJ/mol-atom (mp-aaaaaboi); OQMD -40.284 kJ/mol-atom (oqmd-107703).
 
 Systems: [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)
 
@@ -26,8 +26,6 @@ Table: Enthalpy of formation of NiTi reported in the literature (46)
 | -32.51 per mol-atom | NiTi | 1173.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Yi 1989_ [doi](https://doi.org/10.1007/bf02385723) | Table 9, p. 6, row 19; `ORC-6MAYECTT2N` |  |
 | -46 kJ/mol-atom | NiTi(B2) |  | model | TBB | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 1; `ORC-GJLJE4AMAL` |  |
 | -45.8 per mol-atom | NiTi | 298.15 | model | Miedema | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 28; `ORC-DOG4QYG2QE` |  |
-| -40.9 kJ/mol-atom | NiTi(B2) |  | model | LMTO | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 2; `ORC-ZBVIXAGZK4` |  |
-| -38.5 kJ/mol-atom | NiTi(B32) |  | model | LMTO | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 9; `ORC-VFTSMFU73D` |  |
 | -38.347 per mol-atom | NiTi | 1477.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 22; `ORC-TR4ISUM33S` |  |
 | -38.286 per mol-atom | NiTi | 1460.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 16; `ORC-5PKCCWZZCU` |  |
 | -38.1 per mol-atom | NiTi |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 25; `ORC-5K2VMN54GI` |  |
@@ -43,8 +41,10 @@ Table: Enthalpy of formation of NiTi reported in the literature (46)
 | -33.339 kJ/mol-atom | TiNi-B2 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23; `ORC-VW75NPAQGL.426365` |  |
 | -31.159 per mol-atom | NiTi | 298.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 14; `ORC-5THPFCF46R` |  |
 | -9.8 kJ/mol-atom | NiTi(B32) | 298.15 | model | CALPHAD | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014 | Table 1, p. 5, row 11; `ORC-TZDUPCUZ3I` |  |
+| -40.9 kJ/mol-atom | NiTi(B2) |  | DFT | LMTO | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 2; `ORC-ZBVIXAGZK4` |  |
 | -39.8 kJ/mol-atom | TiNi B19' | 0 | DFT | 1st-princ. (LMTO-ASA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 35; `ORC-VJDAY63XJC.ebd44e` |  |
 | -39.5 kJ/mol-atom | TiNi B19' | 0 | DFT | 1st-princ. (FLAPW) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 37; `ORC-XXBR7PY5JP.8baacf` |  |
+| -38.5 kJ/mol-atom | NiTi(B32) |  | DFT | LMTO | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 9; `ORC-VFTSMFU73D` |  |
 | -38.1 kJ/mol-atom | TiNi-B2 | 0 | DFT | 1st-princ. (LMTO-ASA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 26; `ORC-AEZ3NUS2GY.3029aa` |  |
 | -38 kJ/mol-atom | TiNi-B2 | 0 | DFT | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Sanati 1998_ [doi](https://doi.org/10.1103/physrevb.58.13590) | Table 6, p. 8, row 28; `ORC-PY7OAANHXS.129e17` |  |
 | -37.8 kJ/mol-atom | TiNi B19' | 0 | DFT | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 36; `ORC-A3RVHCV7SZ.b800ef` |  |
@@ -70,19 +70,17 @@ Table: Uncertainty budget of the literature values of NiTi
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -34.2 | per mol-atom | 2000 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2000 |
-| -34.15 | kJ/mol-atom |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -34 | kJ/mol-atom |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -34.15 | kJ/mol-atom |  | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -34 | kJ/mol-atom |  | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -34 | per mol-atom | 2000 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2000 |
 | -33.911 | per mol-atom | 2000 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2000 |
-| -33.9 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -33.9 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -33.9 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -33.9 | kJ/mol-atom |  | 5.000e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -33.1 | per mol-atom | 1100 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1100 |
 | -33.1 | kJ/mol-atom | 1.1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -32.51 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -46 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -45.8 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -40.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -38.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -38.347 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -38.286 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -38.1 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
@@ -98,23 +96,25 @@ Table: Uncertainty budget of the literature values of NiTi
 | -33.339 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -31.159 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -9.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -39.8 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -39.5 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -38.1 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -38 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -37.8 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -36.665 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -36.1 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -36 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -34.59 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -34.1 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -33.77 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -33.24 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -32.784 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -31.84 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| -29.29 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| 58.14 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
-| 74.45 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -40.9 | kJ/mol-atom |  | 0.05 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -39.8 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -39.5 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -38.5 | kJ/mol-atom |  | 0.05 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -38.1 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -38 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -37.8 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -36.665 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -36.1 | kJ/mol-atom |  | 0.05 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -36 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -34.59 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -34.1 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -33.77 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -33.24 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -32.784 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -31.84 | kJ/mol-atom |  | 5.000e-4 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| -29.29 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 58.14 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
+| 74.45 | kJ/mol-atom |  | 0.005 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # B–Fe system
 
-> B–Fe system: 216 accepted literature values (invariant reaction 178, phase transition 20, mixing / partial 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Fe system: 208 accepted literature values (invariant reaction 175, mixing / partial 18, phase transition 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-FE.html · Markdown: https://data.orchid-project.org/systems/B-FE.md
 
-216 accepted literature values from 4 paper(s) (experimental 73, model 121, unspecified 22); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+208 accepted literature values from 4 paper(s) (experimental 69, model 117, unspecified 22); 0 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-FE.json) · [CSV](https://data.orchid-project.org/systems/B-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-FE) · [phases (11)](https://data.orchid-project.org/phases/pages/B-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-FE.html) · [Markdown](https://data.orchid-project.org/systems/B-FE.md)
 
@@ -12,23 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 73 |
-| model | 121 |
+| experimental | 69 |
+| model | 117 |
 | unspecified | 22 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 178 |
-| phase transition | 20 |
+| invariant reaction | 175 |
+| phase transition | 15 |
 | mixing / partial | 18 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-FE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-FE.json) · [CALPHAD hull FeB-01Pal](https://data.orchid-project.org/hulls/calphad-sgte/B/B-FE--FeB-01Pal.json) · [CALPHAD hull FeB-02Rom](https://data.orchid-project.org/hulls/calphad-sgte/B/B-FE--FeB-02Rom.json) · [CALPHAD hull FeB-08Yos](https://data.orchid-project.org/hulls/calphad-sgte/B/B-FE--FeB-08Yos.json) · [CALPHAD hull FeB-19Wit](https://data.orchid-project.org/hulls/calphad-sgte/B/B-FE--FeB-19Wit.json) · [CALPHAD hull FeB-91Pan](https://data.orchid-project.org/hulls/calphad-sgte/B/B-FE--FeB-91Pan.json) · [CALPHAD hull FeB-94Hal-LB](https://data.orchid-project.org/hulls/calphad-sgte/B/B-FE--FeB-94Hal-LB.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Fe system (178)
+Table: Invariant reactions reported in the literature for the B–Fe system (175)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -59,8 +59,8 @@ Table: Invariant reactions reported in the literature for the B–Fe system (178
 | 1770 | eutectic: L \<-> B27+ βB | L: B 0.64 | unspecified | [1] Witusiewicz 2019; _cites Kubaschewski 1982_ | Table 3, p. 14, row 14; `ORC-DSP32N4KR7` |  |
 | 1770 | eutectic: L⇄FeB+βB | L: Fe 0.36 | model | [2] Rompaey 2002; _cites Kubaschewski 1982_ | Table 5, p. 6, row 13; `ORC-SW6QZLABI2` |  |
 | 1770 | eutectic: L \<-> B27+ βB |  | unspecified | [1] Witusiewicz 2019; _cites Chart 1981_ | Table 3, p. 14, row 13; `ORC-WBUUPLB7CI` |  |
-| 1767 | liquid -> FeB + β | L: B 0.629; FeB: B 0.5; β: B 1 | model | [3] Palumbo 2001 | Table I, p. 8, row 3; `ORC-IGW7LXFIQ4` |  |
-| 1767 | liquid -> FeB + β | L: B 0.63; FeB: B 0.5; β: B 1 | model | [3] Palumbo 2001 | Table I, p. 8, row 1; `ORC-TWPRLNUABC` |  |
+| 1767 | eutectic: liquid -> FeB + β | L: B 0.629; FeB: B 0.5; β: B 1 | model | [3] Palumbo 2001 | Table I, p. 8, row 3; `ORC-IGW7LXFIQ4` |  |
+| 1767 | eutectic: liquid -> FeB + β | L: B 0.63; FeB: B 0.5; β: B 1 | model | [3] Palumbo 2001 | Table I, p. 8, row 1; `ORC-TWPRLNUABC` |  |
 | 1766 | eutectic: L \<-> B27+ βB | L: B 0.632 | experimental | [1] Witusiewicz 2019; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b208548h) | Table 3, p. 14, row 18; `ORC-BDLRQJZK2U` |  |
 | 1753 | eutectic: L \<-> B27+ βB | L: B 0.635 | model | [1] Witusiewicz 2019; _cites Van 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.08.127) | Table 3, p. 14, row 19; `ORC-LKWWYOMJ6V` |  |
 | 1701 | eutectic: L⇄FeB+βB |  | experimental | [2] Rompaey 2002; _cites Voroshnin 1970_ [doi](https://doi.org/10.1007/bf00652720) | Table 5, p. 6, row 16; `ORC-L63BGAUHQU` |  |
@@ -114,29 +114,28 @@ Table: Invariant reactions reported in the literature for the B–Fe system (178
 | 1485 | polymorphic: B27 \<-> B33, Fe2B, βB | B33: B 0.503; Fe2B: B 0.333; βB: B 0.996 | model | [1] Witusiewicz 2019 | Table 3, p. 14, row 47; `ORC-AOYVLJNSMM` |  |
 | 1484 | polymorphic: B27 \<-> B33, Fe2B, βB | Fe2B: B 0.333333, Fe 0.666667 | experimental | [1] Witusiewicz 2019 | Table 3, p. 14, row 46; `ORC-KTUMAIEQWC` |  |
 | 1473 | eutectic: L \<-> A1+ Fe2B | Fe2B: B 0.333333, Fe 0.666667 | experimental | [1] Witusiewicz 2019; _cites Portnoi 1969_ [doi](https://doi.org/10.1007/bf00775428) | Table 3, p. 14, row 51; `ORC-5JAKS5XEB3` |  |
-| 1473 | liquid -> γ + Fe2B | liquid: B 0.174; Fe2B: B 0.333333 | experimental | [3] Palumbo 2001; _cites ref. 69Por_ | Table I, p. 8, row 22; `ORC-IUPO6VNTSR` |  |
+| 1473 | eutectic: liquid -> γ + Fe2B | liquid: B 0.174; Fe2B: B 0.333333 | experimental | [3] Palumbo 2001; _cites ref. 69Por_ | Table I, p. 8, row 22; `ORC-IUPO6VNTSR` |  |
 | 1473 | eutectic: L⇄γFe+Fe2B |  | experimental | [2] Rompaey 2002; _cites Portnoi 1969_ [doi](https://doi.org/10.1007/bf00775428) | Table 5, p. 6, row 39; `ORC-LVFDRLOWFU` |  |
 | 1468 | eutectic: L⇄γFe+Fe2B | L: Fe 0.836; γFe: Fe 0.99979; Fe2B: Fe 0.667 | model | [2] Rompaey 2002 | Table 5, p. 6, row 32; `ORC-NLBID6XCOK` |  |
 | 1468 | eutectic: L \<-> A1+ Fe2B | L: B 0.164; A1: B 2.100e-4; Fe2B: B 0.333 | model | [1] Witusiewicz 2019; _cites T 2002_ | Table 3, p. 14, row 56; `ORC-RPB7WUAJMB` |  |
-| 1468 | eutectic |  | model | [3] Palumbo 2001 | p. 4; `ORC-RPTYEFXOFP` | “The specific heat of liquid Fes3Bir reaches a minimum around eutectic temperature (1468 K) and shows a slope change at 1811 K.” |
-| 1468 | liquid -> γ + Fe2B | liquid: B 0.168; γ: B 2.070e-4; Fe2B: B 0.333 | model | [3] Palumbo 2001 | Table I, p. 8, row 19; `ORC-WHEZBE2RGW` |  |
+| 1468 | eutectic: liquid -> γ + Fe2B | liquid: B 0.168; γ: B 2.070e-4; Fe2B: B 0.333 | model | [3] Palumbo 2001 | Table I, p. 8, row 19; `ORC-WHEZBE2RGW` |  |
 | 1467 | eutectic: L⇄γFe+Fe2B | L: Fe 0.833; γFe: Fe 0.999809; Fe2B: Fe 0.667 | model | [2] Rompaey 2002 | Table 5, p. 6, row 33; `ORC-FMKFKA445M` |  |
-| 1452 | liquid -> γ + Fe2B | liquid: B 0.169; γ: B 1.570e-4; Fe2B: B 0.333 | model | [3] Palumbo 2001 | Table I, p. 8, row 21; `ORC-JUBEJ656PR` |  |
-| 1451 | liquid -> γ + Fe2B | liquid: B 0.171; γ: B 1.980e-4; Fe2B: B 0.333 | model | [3] Palumbo 2001 | Table I, p. 8, row 20; `ORC-24VXQG3HLN` |  |
+| 1452 | eutectic: liquid -> γ + Fe2B | liquid: B 0.169; γ: B 1.570e-4; Fe2B: B 0.333 | model | [3] Palumbo 2001 | Table I, p. 8, row 21; `ORC-JUBEJ656PR` |  |
+| 1451 | eutectic: liquid -> γ + Fe2B | liquid: B 0.171; γ: B 1.980e-4; Fe2B: B 0.333 | model | [3] Palumbo 2001 | Table I, p. 8, row 20; `ORC-24VXQG3HLN` |  |
 | 1450 | eutectic: L \<-> A1+ Fe2B | L: B 0.17; Fe2B: B 0.333333, Fe 0.666667 | unspecified | [1] Witusiewicz 2019; _cites Kubaschewski 1982_ | Table 3, p. 14, row 49; `ORC-EGX6O6JOFI` |  |
 | 1450 | eutectic: L⇄γFe+Fe2B | L: Fe 0.83 | model | [2] Rompaey 2002; _cites Kubaschewski 1982_ | Table 5, p. 6, row 35; `ORC-SIYYT4FTTF` |  |
 | 1450 | eutectic: L⇄γFe+Fe2B |  | model | [2] Rompaey 2002; _cites Chart 1981_ | Table 5, p. 6, row 34; `ORC-T5OFLX4W2X` |  |
 | 1450 | eutectic: L \<-> A1+ Fe2B | Fe2B: B 0.333333, Fe 0.666667 | unspecified | [1] Witusiewicz 2019; _cites Chart 1981_ | Table 3, p. 14, row 48; `ORC-XM2VPOD47A` |  |
 | 1448 | eutectic: L \<-> A1+ Fe2B | L: B 0.155; Fe2B: B 0.333333, Fe 0.666667 | experimental | [1] Witusiewicz 2019; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b208548h) | Table 3, p. 14, row 53; `ORC-6ARCML366W` |  |
 | 1447 | eutectic: L⇄γFe+Fe2B | L: Fe 0.83 | model | [2] Rompaey 2002; _cites Massalski 1990_ | Table 5, p. 6, row 36; `ORC-3AA6277WXQ` |  |
-| 1447 | liquid -> γ + Fe2B | liquid: B 0.17; Fe2B: B 0.333333 | experimental | [3] Palumbo 2001; _cites ref. 70Vor_ | Table I, p. 8, row 23; `ORC-3MDAOS7J4L` |  |
+| 1447 | eutectic: liquid -> γ + Fe2B | liquid: B 0.17; Fe2B: B 0.333333 | experimental | [3] Palumbo 2001; _cites ref. 70Vor_ | Table I, p. 8, row 23; `ORC-3MDAOS7J4L` |  |
 | 1447 | eutectic: L⇄γFe+Fe2B | L: Fe 0.831 | experimental | [2] Rompaey 2002; _cites Voroshnin 1970_ [doi](https://doi.org/10.1007/bf00652720) | Table 5, p. 6, row 38; `ORC-WXEC6VAV3H` |  |
 | 1447 | eutectic: L \<-> A1+ Fe2B | L: B 0.17; Fe2B: B 0.333333, Fe 0.666667 | unspecified | [1] Witusiewicz 2019; _cites Massalski 1990_ | Table 3, p. 14, row 50; `ORC-XIRBPOXK4Q` |  |
 | 1446 | eutectic: L \<-> A1+ Fe2B | L: B 0.164; A1: B 1.870e-4; Fe2B: B 0.333 | model | [1] Witusiewicz 2019; _cites Hallemans 1994_ | Table 3, p. 14, row 55; `ORC-RC4RFFA3ML` |  |
 | 1446 | eutectic: L⇄γFe+Fe2B | L: Fe 0.836; γFe: Fe 0.999813 | model | [2] Rompaey 2002; _cites Hallemans 1994_ [doi](https://doi.org/10.1515/ijmr-1994-851002) | Table 5, p. 6, row 37; `ORC-SQ5DPYF6T3` |  |
 | 1445 | eutectic: L \<-> A1+ Fe2B | L: B 0.165; Fe2B: B 0.333333, Fe 0.666667 | model | [1] Witusiewicz 2019; _cites Van 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.08.127) | Table 3, p. 14, row 57; `ORC-Q32HL2P6YV` |  |
 | 1439 | eutectic: L \<-> A1+ Fe2B | L: B 0.176; Fe2B: B 0.333 | model | [1] Witusiewicz 2019; _cites Poletti 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.08.001) | Table 3, p. 14, row 58; `ORC-7IW2C4YFFS` |  |
-| 1437 | liquid -> γ + Fe2B | liquid: B 0.17; Fe2B: B 0.333333 | experimental | [3] Palumbo 2001; _cites ref. 97Bat_ | Table I, p. 8, row 24; `ORC-AFFU4CPWFG` |  |
+| 1437 | eutectic: liquid -> γ + Fe2B | liquid: B 0.17; Fe2B: B 0.333333 | experimental | [3] Palumbo 2001; _cites ref. 97Bat_ | Table I, p. 8, row 24; `ORC-AFFU4CPWFG` |  |
 | 1437 | eutectic: L \<-> A1+ Fe2B | L: B 0.17; Fe2B: B 0.333333, Fe 0.666667 | experimental | [1] Witusiewicz 2019; _cites Battezzati 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902570-4) | Table 3, p. 14, row 52; `ORC-WC22Q3ID2A` |  |
 | 1436 | eutectic: L \<-> A1+ Fe2B | Fe2B: B 0.333333, Fe 0.666667 | experimental | [1] Witusiewicz 2019 | Table 3, p. 14, row 54; `ORC-3HZ62DZQAK` |  |
 | 1436 | eutectic: L \<-> A1+ Fe2B | L: B 0.17; A1: B 2.200e-4; Fe2B: B 0.333 | model | [1] Witusiewicz 2019 | Table 3, p. 14, row 59; `ORC-Y2HMVNFQIB` |  |
@@ -148,13 +147,11 @@ Table: Invariant reactions reported in the literature for the B–Fe system (178
 | 1408 | polymorphic: B27 \<-> B33, Fe2B, βB | Fe2B: B 0.333333, Fe 0.666667 | experimental | [1] Witusiewicz 2019; _cites Lyakishev 1996_ | Table 3, p. 14, row 44; `ORC-VCPKW42Y77` |  |
 | 1393 | eutectic: L -> A1 + tp-Fe3B | L: B 0.188; tp-Fe3B: B 0.25 | model | [1] Witusiewicz 2019; _cites Poletti 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.08.001) | Table 3, p. 15, row 31; `ORC-LFUUO66IBE` |  |
 | 1388 | eutectic: L -> A1 + tp-Fe3B | L: B 0.179; tp-Fe3B: B 0.25 | model | [1] Witusiewicz 2019; _cites Zhou 2016_ [doi](https://doi.org/10.1007/s11664-015-4112-y) | Table 3, p. 15, row 32; `ORC-3SP5H4T6EQ` |  |
-| 1388 | eutectic |  | model | [4] Zhou 2016 | p. 5; `ORC-QNAPD4K4IT` | “The metastable eutectic reaction of the liquid into fcc and Fe3B was calculated at 1388 K and 0.18 at.% B, which is in good agreement with experimental findings.12” |
 | 1387 | eutectic: L -> A1 + tp-Fe3B | L: B 0.18; tp-Fe3B: B 0.25 | experimental | [1] Witusiewicz 2019; _cites Battezzati 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902570-4) | Table 3, p. 15, row 29; `ORC-B2GSAPKJL7` |  |
-| 1387 | liquid -> γ + Fe3B | Fe3B: B 0.25 | experimental | [3] Palumbo 2001; _cites ref. 97Bat_ | Table I, p. 8, row 31; `ORC-IJ4I6XWCVT` |  |
-| 1387 | eutectic |  | experimental | [3] Palumbo 2001; _cites ref. 97Bat_ | p. 3; `ORC-KPU4IBTATI` | “The enthalpy of formation of FejB has been estimated from the same experiments, where an eutectic temperature of 1387 K has been measured for metastable equilibrium between liquid and Fe3B + fee-Fe.” |
-| 1386 | liquid -> γ + Fe3B | liquid: B 0.183; γ: B 1.840e-4; Fe3B: B 0.25 | model | [3] Palumbo 2001 | Table I, p. 8, row 30; `ORC-B7D6YUJTCL` |  |
+| 1387 | eutectic: liquid -> γ + Fe3B | Fe3B: B 0.25 | experimental | [3] Palumbo 2001; _cites ref. 97Bat_ | Table I, p. 8, row 31; `ORC-IJ4I6XWCVT` |  |
+| 1386 | eutectic: liquid -> γ + Fe3B | liquid: B 0.183; γ: B 1.840e-4; Fe3B: B 0.25 | model | [3] Palumbo 2001 | Table I, p. 8, row 30; `ORC-B7D6YUJTCL` |  |
 | 1386 | eutectic: L -> A1 + tp-Fe3B | L: B 0.186; A1: B 2.400e-4; tp-Fe3B: B 0.25 | model | [1] Witusiewicz 2019 | Table 3, p. 15, row 34; `ORC-OUW6ZOKPNT` |  |
-| 1386 | liquid -> γ + Fe3B | liquid: B 0.186; γ: B 2.190e-4; Fe3B: B 0.25 | model | [3] Palumbo 2001 | Table I, p. 8, row 29; `ORC-T5MMZQCA6C` |  |
+| 1386 | eutectic: liquid -> γ + Fe3B | liquid: B 0.186; γ: B 2.190e-4; Fe3B: B 0.25 | model | [3] Palumbo 2001 | Table I, p. 8, row 29; `ORC-T5MMZQCA6C` |  |
 | 1386 | eutectic: L -> A1 + tp-Fe3B | L: B 0.186; tp-Fe3B: B 0.25 | unspecified | [1] Witusiewicz 2019; _cites Palumbo 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900012-3) | Table 3, p. 15, row 30; `ORC-VJ7FOEDBZN` |  |
 | 1370 | eutectic: L -> A1 + tp-Fe3B | tp-Fe3B: B 0.25, Fe 0.75 | experimental | [1] Witusiewicz 2019 | Table 3, p. 15, row 33; `ORC-TE72MUUG65` |  |
 | 1323 | polymorphic: B27 \<-> B33, Fe2B, βB | Fe2B: B 0.333333, Fe 0.666667 | experimental | [1] Witusiewicz 2019; _cites Rades 2011_ [doi](https://doi.org/10.1002/cphc.201001072) | Table 3, p. 14, row 45; `ORC-S3S3RTEBOO` |  |
@@ -213,17 +210,13 @@ Table: Invariant reactions reported in the literature for the B–Fe system (178
 
 ## Other properties
 
-### Phase transition (20)
+### Phase transition (15)
 
 Table: Phase transition, B–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 800 K | 800 | other | model | [3] Palumbo 2001 | p. 3; `ORC-OAQIEKHA5Q` | “Because Tk corresponds to kinetic T, obtained at very low heating rate, a constant value of 800 K has been considered here for glass transition temperature.” |
-| Phase transition | 820 K | 820 | other | experimental | [3] Palumbo 2001; _cites ref. 83Hop_ | p. 3; `ORC-I7Z5GGC47K` | “It has been observed at about 820 K for a Fe&z0 amorphous alloy heated with an high speed calorimeter \[83Hop\].” |
-| Phase transition | 1184.8 K | 1184.8 |  | experimental | [2] Rompaey 2002 | p. 2; `ORC-GUI7PKRWWM.4ca671` | “The invariant temperatures of these reactions are therefore very close to the transition temperature for dFeágFe (1667.5 K), and for gFeáaFe (1184.8 K), respectively.” |
 | Phase transition | 1424 K | 1424 | congruent transformation | model | [3] Palumbo 2001 | p. 4; `ORC-6A2LBEUB4K` | “A congruent melting of metastable FesB has been calculated at 1424 K, very close to a eutectic reaction of liquid with 25.7% at B which transform into Fe3B and FeB.” |
-| Phase transition | 1667.5 K | 1667.5 |  | experimental | [2] Rompaey 2002 | p. 2; `ORC-GUI7PKRWWM.f0f6bc` | “The invariant temperatures of these reactions are therefore very close to the transition temperature for dFeágFe (1667.5 K), and for gFeáaFe (1184.8 K), respectively.” |
 | Phase transition | 1813 K | 1813 | congruent melting: L⇄FeB | experimental | [2] Rompaey 2002; _cites Voroshnin 1970_ [doi](https://doi.org/10.1007/bf00652720) | Table 5, p. 6, row 7; `ORC-H2GICNVVF2` |  |
 | Phase transition | 1863 K | 1863 | congruent melting: L⇄FeB | experimental | [2] Rompaey 2002; _cites Sidorenko 1977_ | Table 5, p. 6, row 9; `ORC-BDXWQ4MKAG` |  |
 | Phase transition | 1863 K | 1863 | congruent melting: L⇄FeB | model | [2] Rompaey 2002; _cites Kubaschewski 1982_ | Table 5, p. 6, row 4; `ORC-G6IKM5W4GC` |  |
@@ -231,7 +224,6 @@ Table: Phase transition, B–Fe system
 | Phase transition | 1866 K | 1866 | congruent melting: L⇄FeB; _L: Fe 0.5; FeB: Fe 0.5_ | model | [2] Rompaey 2002 | Table 5, p. 6, row 2; `ORC-A4WTS4LJ6C` |  |
 | Phase transition | 1876 K | 1876 | congruent melting: L⇄FeB; _L: Fe 0.5; FeB: Fe 0.5_ | model | [2] Rompaey 2002 | Table 5, p. 6, row 1; `ORC-CXS3PISZ4I` |  |
 | Phase transition | 1882 K | 1882 | liquid -> FeB; _liquid: B 0.5; FeB: B 0.5_ | model | [3] Palumbo 2001 | Table I, p. 8, row 7; `ORC-JLISASABEC` |  |
-| Phase transition | 1894 K | 1894 |  | model | [3] Palumbo 2001 | p. 3; `ORC-FPIQARQ4W3` | “Available data on melting temperature of FeB differ for more than 60 K \[69Por, 77Sid\] and the calculated value (1894 K) falls within uncertainty range.” |
 | Phase transition | 1894 K | 1894 | liquid -> FeB; _liquid: B 0.5; FeB: B 0.5_ | model | [3] Palumbo 2001 | Table I, p. 8, row 5; `ORC-6VGASTGDVL` |  |
 | Phase transition | 1896 K | 1896 | liquid -> FeB; _liquid: B 0.5; FeB: B 0.5_ | model | [3] Palumbo 2001 | Table I, p. 8, row 6; `ORC-DTJXKNRXWR` |  |
 | Phase transition | 1906 K | 1906 | congruent melting: L⇄FeB | model | [2] Rompaey 2002; _cites Hallemans 1994_ [doi](https://doi.org/10.1515/ijmr-1994-851002) | Table 5, p. 6, row 6; `ORC-DIREZXX4KM` |  |

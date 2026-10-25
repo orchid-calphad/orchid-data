@@ -1,10 +1,10 @@
 # B–Ti–Zr system
 
-> B–Ti–Zr system: 8 accepted literature values (invariant reaction 7, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Ti–Zr system: 7 accepted literature values (invariant reaction 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-TI-ZR.html · Markdown: https://data.orchid-project.org/systems/B-TI-ZR.md
 
-8 accepted literature values from 1 paper(s) (experimental 4, model 4); 0 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (experimental 3, model 4); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-TI-ZR.json) · [CSV](https://data.orchid-project.org/systems/B-TI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-TI-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-TI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/B-TI-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 3 |
 | model | 4 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 7 |
-| phase transition | 1 |
 
 ## Invariant reactions (literature)
 
@@ -35,16 +34,6 @@ Table: Invariant reactions reported in the literature for the B–Ti–Zr system
 | 1720.65 | quasi-peritectic: U2: L + (Ti, Zr)B2 = TiB + (βTi, βZr) | L: B 0.11, Ti 0.509, Zr 0.381 | model | [1] Pan 2019 | Table 4, p. 9, row 4; `ORC-5ZYA5YL2YI` |  |
 | 1719.95 | eutectic: e5,min: L = TiB + (βTi, βZr) | L: B 0.102, Ti 0.55, Zr 0.348 | model | [1] Pan 2019 | Table 4, p. 9, row 6; `ORC-WMZYOUJWEF` |  |
 | 1718.15 | eutectic: e5,min: L = TiB + (βTi, βZr) | L: Ti 0.51, Zr 0.4 | experimental | [1] Pan 2019; _cites Eckert 1966_ | Table 4, p. 9, row 7; `ORC-BLXVJ2U2TN` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, B–Ti–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1723.15 K | 1723.15 | L ? (Ti, Zr)B2 = TiB ? (bTi, bZr) | experimental | [1] Pan 2019; _cites Eckert 1966_ | p. 3; `ORC-FBUNLWGBLK.3b96f3` | “For the liquidus projection of the B-Ti-Zr system, the two following invariant transitory equilibria and one eutectic minimum (quasibinary eutectic) were confirmed by Ref 25 and 26: L ? (Ti, Zr)B2 = TiB ? (bTi, bZr) at 1450 C with the liquid composition of 11 at.% B and 37 at.% Zr, L ? (Ti, Zr)B2 = ZrB12 ? (bB) at 2020 C, and L = TiB ? (bTi, bZr) at 1445 C with the liquid composition of \* 9 at.%…” |
 
 ## Sources
 

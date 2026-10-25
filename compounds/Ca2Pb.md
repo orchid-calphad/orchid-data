@@ -30,10 +30,10 @@ Table: Uncertainty budget of the literature values of Ca2Pb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -62 | kJ/mol-atom | 2 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -59 | kJ/mol-atom | 1.5 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -59 | kJ/mol-atom | 5 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5 |
-| -59 | kJ/mol-atom | 1.5 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -62 | kJ/mol-atom | 2 | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -59 | kJ/mol-atom | 1.5 | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -59 | kJ/mol-atom | 5 | 0.5 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 5 |
+| -59 | kJ/mol-atom | 1.5 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -69.577 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -69.577 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -66.305 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

@@ -1,10 +1,10 @@
 # Gd–Sb system
 
-> Gd–Sb system: 34 accepted literature values (invariant reaction 29, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Sb system: 24 accepted literature values (invariant reaction 21, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-SB.html · Markdown: https://data.orchid-project.org/systems/GD-SB.md
 
-34 accepted literature values from 1 paper(s) (experimental 25, model 9); 1 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 15, model 9); 1 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-SB.json) · [CSV](https://data.orchid-project.org/systems/GD-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-SB/GdSb-07Li.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GD-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-SB.html) · [Markdown](https://data.orchid-project.org/systems/GD-SB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
+| experimental | 15 |
 | model | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 29 |
-| phase transition | 5 |
+| invariant reaction | 21 |
+| phase transition | 3 |
 
 ## Calculated phase diagrams
 
@@ -56,53 +56,43 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Gd–Sb system (29)
+Table: Invariant reactions reported in the literature for the Gd–Sb system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2403 | L -> βGdSb | L: Sb 0.5; βGdSb: Sb 0.5 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 12; `ORC-TNRTGPESEY` |  |
-| 2401 | L -> βGdSb | L: Sb 0.5; βGdSb: Sb 0.5 | model | [1] Li 2007 | Table 2, p. 4, row 11; `ORC-RRI4PVH37N` |  |
-| 2113 | BGdSb -> αGdSb | BGdSb: Sb 0.5; αGdSb: Gd 0.5, Sb 0.5 | model | [1] Li 2007 | Table 2, p. 4, row 13; `ORC-S6GS5WQX2O` |  |
-| 2113 | BGdSb -> αGdSb | BGdSb: Sb 0.5; αGdSb: Gd 0.5, Sb 0.5 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 14; `ORC-X4TSSZ4CCW` |  |
+| 2403 | congruent melting: L -> βGdSb | L: Sb 0.5; βGdSb: Sb 0.5 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 12; `ORC-TNRTGPESEY` |  |
+| 2401 | congruent melting: L -> βGdSb | L: Sb 0.5; βGdSb: Sb 0.5 | model | [1] Li 2007 | Table 2, p. 4, row 11; `ORC-RRI4PVH37N` |  |
+| 2113 | polymorphic: BGdSb -> αGdSb | BGdSb: Sb 0.5; αGdSb: Gd 0.5, Sb 0.5 | model | [1] Li 2007 | Table 2, p. 4, row 13; `ORC-S6GS5WQX2O` |  |
+| 2113 | polymorphic: BGdSb -> αGdSb | BGdSb: Sb 0.5; αGdSb: Gd 0.5, Sb 0.5 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 14; `ORC-X4TSSZ4CCW` |  |
 | 2048 | L + Gd4Sb3 -> GdSb | L: Sb 0.3517; Gd4Sb3: Sb 0.4286; GdSb: Sb 0.5 | model | [1] Li 2007 | Table 2, p. 4, row 9; `ORC-2CASHG3ZYV` |  |
-| 2043.15 | peritectic |  | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | p. 2; `ORC-TIJS6TSGXN.74eb92` | “However, noticeable discrepancies were observed between the work of Abdusalyamova et al. \[5\] and the previous work: the peritectic melting temperature for Gd5Sb3 was determined to be 1640  C, which is significantly higher than the value of 1400  C from Ref. \[3\] and 1383  C from Ref. \[4\]; the peritectic melting temperature for Gd4Sb3 was determined to be 1770  C, which is considerably higher t…” |
 | 2043 | L + Gd4Sb3 -> GdSb | L: Sb 0.389; Gd4Sb3: Sb 0.4286; GdSb: Sb 0.5 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 10; `ORC-E6JOE2JHXY` |  |
-| 2020.15 | peritectic |  | experimental | [1] Li 2007; _cites Gambino 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990002-1) | p. 1; `ORC-W6B4SRB5T5.aa0ed6` | “The compound GdSb melts congruently at 2143 C, while the compounds Gd5Sb3 and Gd4Sb3 form peritectically at 1400 and 1747 C, respectively.” |
-| 2013.15 | peritectic |  | experimental | [1] Li 2007; _cites Gerasimov 1971_ | p. 2; `ORC-TIJS6TSGXN.151c10` | “However, noticeable discrepancies were observed between the work of Abdusalyamova et al. \[5\] and the previous work: the peritectic melting temperature for Gd5Sb3 was determined to be 1640  C, which is significantly higher than the value of 1400  C from Ref. \[3\] and 1383  C from Ref. \[4\]; the peritectic melting temperature for Gd4Sb3 was determined to be 1770  C, which is considerably higher t…” |
 | 1917 | L + Gd5Sb3 -> Gd4Sb3 | L: Sb 0.3029; Gd5Sb3: Sb 0.375; Gd4Sb3: Sb 0.4286 | model | [1] Li 2007 | Table 2, p. 4, row 7; `ORC-AIBIWWBOA3` |  |
-| 1913.15 | peritectic |  | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | p. 2; `ORC-TIJS6TSGXN.2fe7a9` | “However, noticeable discrepancies were observed between the work of Abdusalyamova et al. \[5\] and the previous work: the peritectic melting temperature for Gd5Sb3 was determined to be 1640 C, which is significantly higher than the value of 1400 C from Ref. \[3\] and 1383 C from Ref. \[4\]; the peritectic melting temperature for Gd4Sb3 was determined to be 1770 C, which is considerably higher than the…” |
 | 1913 | L + Gd5Sb3 -> Gd4Sb3 | L: Sb 0.35; Gd5Sb3: Sb 0.375; Gd4Sb3: Sb 0.4286 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 8; `ORC-7RX4CKEQBR` |  |
-| 1673.15 | peritectic |  | experimental | [1] Li 2007; _cites Gambino 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990002-1) | p. 1; `ORC-W6B4SRB5T5.3d9f5d` | “The compound GdSb melts congruently at 2143 C, while the compounds Gd5Sb3 and Gd4Sb3 form peritectically at 1400 and 1747 C, respectively.” |
-| 1656.15 | peritectic |  | experimental | [1] Li 2007; _cites Gerasimov 1971_ | p. 2; `ORC-TIJS6TSGXN.69ca01` | “However, noticeable discrepancies were observed between the work of Abdusalyamova et al. \[5\] and the previous work: the peritectic melting temperature for Gd5Sb3 was determined to be 1640 C, which is significantly higher than the value of 1400 C from Ref. \[3\] and 1383 C from Ref. \[4\]; the peritectic melting temperature for Gd4Sb3 was determined to be 1770 C, which is considerably higher than the…” |
-| 1586 | L -> βGd | βGd: Sb 0 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 2; `ORC-CROQBHEIPV` |  |
-| 1586 | L -> βGd | βGd: Sb 0 | model | [1] Li 2007 | Table 2, p. 4, row 1; `ORC-QXDFR3BF7Z` |  |
+| 1586 | congruent melting: L -> βGd | βGd: Sb 0 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 2; `ORC-CROQBHEIPV` |  |
+| 1586 | congruent melting: L -> βGd | βGd: Sb 0 | model | [1] Li 2007 | Table 2, p. 4, row 1; `ORC-QXDFR3BF7Z` |  |
 | 1505 | L + βGd -> αGd | L: Sb 0.065; βGd: Sb 0.025; αGd: Sb 0.02 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 4; `ORC-PN6I64ENTL` |  |
 | 1504 | L + GdSb2 -> GdSb | L: Sb 0.9665; GdSb2: Sb 0.709; GdSb: Sb 0.5 | model | [1] Li 2007 | Table 2, p. 4, row 15; `ORC-R4EGF22TSW` |  |
 | 1501 | L + βGd -> αGd | L: Sb 0.058; βGd: Sb 0.0191; αGd: Sb 0.0183 | model | [1] Li 2007 | Table 2, p. 4, row 3; `ORC-DBMM55X5ZW` |  |
 | 1401.15 | eutectic |  | experimental | [1] Li 2007; _cites Gambino 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990002-1) | p. 1; `ORC-ONANRZTQH6` | “An eutectic reaction between (Gd) and Gd5Sb3 occurs at 1128 C.” |
-| 1393.15 | eutectic: L / (Gd) þ Gd5Sb3 |  | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | p. 2; `ORC-YHU3XTSBMA.09e0b9` | “The eutectic reaction L / (Gd) þ Gd5Sb3 was reported to be 1120 C, which is between the value of 1128 C \[3\] and 1113 C \[4\].” |
-| 1393 | L -> αGd + Gd5Sb3 | L: Sb 0.135; αGd: Sb 0.025; Gd5Sb3: Sb 0.375 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 6; `ORC-SUY3GDVDUI` |  |
-| 1390 | L -> αGd + Gd5Sb3 | L: Sb 0.1018; αGd: Sb 0.0402; Gd5Sb3: Sb 0.375 | model | [1] Li 2007 | Table 2, p. 4, row 5; `ORC-VE4JURZ3CW` |  |
-| 1386.15 | eutectic: L / (Gd) þ Gd5Sb3 |  | experimental | [1] Li 2007; _cites Gerasimov 1971_ | p. 2; `ORC-YHU3XTSBMA.e0992e` | “The eutectic reaction L / (Gd) þ Gd5Sb3 was reported to be 1120 C, which is between the value of 1128 C \[3\] and 1113 C \[4\].” |
+| 1393 | eutectic: L -> αGd + Gd5Sb3 | L: Sb 0.135; αGd: Sb 0.025; Gd5Sb3: Sb 0.375 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 6; `ORC-SUY3GDVDUI` |  |
+| 1390 | eutectic: L -> αGd + Gd5Sb3 | L: Sb 0.1018; αGd: Sb 0.0402; Gd5Sb3: Sb 0.375 | model | [1] Li 2007 | Table 2, p. 4, row 5; `ORC-VE4JURZ3CW` |  |
 | 1053.15 | peritectic |  | experimental | [1] Li 2007 | p. 2; `ORC-QSVLOOTMZB.5de5a2` | “The newly found compound, GdSb2 forms peritectically at 780 C and a corresponding eutectic reaction between GdSb and Sb was determined to be 624 C.” |
 | 1053 | L + GdSb2 -> GdSb | L: Sb 0.958; GdSb2: Sb 0.7091; GdSb: Sb 0.5 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 16; `ORC-WMRQ2UZJCK` |  |
-| 903 | L -> GdSb2 + Sb | GdSb2: Sb 0.709; Sb: Sb 1 | model | [1] Li 2007 | Table 2, p. 4, row 17; `ORC-P73DIQJCNT` |  |
+| 903 | eutectic: L -> GdSb2 + Sb | GdSb2: Sb 0.709; Sb: Sb 1 | model | [1] Li 2007 | Table 2, p. 4, row 17; `ORC-P73DIQJCNT` |  |
 | 897.15 | eutectic |  | experimental | [1] Li 2007 | p. 2; `ORC-QSVLOOTMZB.f03034` | “The newly found compound, GdSb2 forms peritectically at 780 C and a corresponding eutectic reaction between GdSb and Sb was determined to be 624 C.” |
-| 897 | L -> GdSb2 + Sb | GdSb2: Sb 0.7091; Sb: Sb 1 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 18; `ORC-ISZNEQWJCF` |  |
+| 897 | eutectic: L -> GdSb2 + Sb | GdSb2: Sb 0.7091; Sb: Sb 1 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 18; `ORC-ISZNEQWJCF` |  |
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (3)
 
 Table: Phase transition, Gd–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2113 K | 2113 | polymorphic: aGdSb -> bGdSb | experimental | [1] Li 2007 | p. 3; `ORC-YBNWM67IRJ` | “Since the allotropic transition aGdSb 4 bGdSb occurs at 2113 K, the following constrains can be applied: b b a1 aa1 b1 ba1 1⁄4 2113” |
-| Phase transition | 2113.15 K | 2113.15 | polymorphic | experimental | [1] Li 2007 | p. 2; `ORC-2N42IT3UDO.cc2d56` | “An allotropic transition at 1840 C had been observed for GdSb and its congruent melting point was updated to be 2130 C, which is befittingly lower than 2143 C reported in Ref. \[3\] and 2138 C in Ref. \[4\].” |
 | Phase transition | 2403.15 K | 2403.15 | congruent transformation | experimental | [1] Li 2007 | p. 2; `ORC-2N42IT3UDO.f2ff87` | “An allotropic transition at 1840 C had been observed for GdSb and its congruent melting point was updated to be 2130 C, which is befittingly lower than 2143 C reported in Ref. \[3\] and 2138 C in Ref. \[4\].” |
 | Phase transition | 2411.15 K | 2411.15 | congruent transformation | experimental | [1] Li 2007; _cites Gerasimov 1971_ | p. 2; `ORC-2N42IT3UDO.b9507f` | “An allotropic transition at 1840 C had been observed for GdSb and its congruent melting point was updated to be 2130 C, which is befittingly lower than 2143 C reported in Ref. \[3\] and 2138 C in Ref. \[4\].” |
-| Phase transition | 2416.15 K | 2416.15 | congruent transformation | experimental | [1] Li 2007; _cites Gambino 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990002-1) | p. 1; `ORC-W6B4SRB5T5.1ed241` | “The compound GdSb melts congruently at 2143 C, while the compounds Gd5Sb3 and Gd4Sb3 form peritectically at 1400 and 1747 C, respectively.” |
 
 ## Sources
 

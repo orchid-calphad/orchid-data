@@ -14,7 +14,7 @@
  ],
  "exclude": [],
  "n_files": 2154,
- "total_bytes": 40485479,
+ "total_bytes": 40481315,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -49,7 +49,7 @@
   {
    "path": "assessed-phase-assemblages/README.md",
    "bytes": 8116,
-   "sha256": "12b642032654d65212db73d35323160c78294b0957733fb30eb8bf959f4dc9d8"
+   "sha256": "fa3d3619602d597238dcaec28febdb810497c2d00be39d6b26959a94824a2cfd"
   },
   {
    "path": "assessed-phase-assemblages/SCHEMA.md",
@@ -1848,8 +1848,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/CE-PT-p277.json",
-   "bytes": 18731,
-   "sha256": "a2ef518c5b46565acda47569b57301f1b46033b04c3b35c63824f4dc1d70fe3f"
+   "bytes": 16599,
+   "sha256": "f2d3f91a0e532ef76be1f5ff6d924c5ed8d95509782012bf600c8f030fe9a56a"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/CE-RH-p277.json",
@@ -3533,8 +3533,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/IN-LA-p549.json",
-   "bytes": 19235,
-   "sha256": "9842259a7fc00c785260b626646e64871d65a4cd0a712dc505b954751303e453"
+   "bytes": 17691,
+   "sha256": "3faa2cb21fbe8718ac36376e67fa64508c75fc7e3a234957fba3a59f35ce880c"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/IN-LI-p550.json",
@@ -7188,8 +7188,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/CE-PT-p277.json",
-   "bytes": 19588,
-   "sha256": "afccfac2439959d7b41a02f3967990ae5724e895fe3f29b7d47bec48b7f4a743"
+   "bytes": 17299,
+   "sha256": "3bdd92f86567f0fe69d439390987f92f1ce6b272491fef24e5e9ddb4a9669c6d"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/CE-RH-p277.json",
@@ -8873,8 +8873,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/IN-LA-p549.json",
-   "bytes": 19569,
-   "sha256": "afa39b2586014f939cedfa7b476571ba6621e10e168ea11510d39df760e047b8"
+   "bytes": 18025,
+   "sha256": "ce56b04303a33aa7d95ef2e8f2c2ff68e078ae9e27cbaadbc1023c2604b67a53"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/IN-LI-p550.json",
@@ -10738,8 +10738,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei_exclusions.jsonl",
-   "bytes": 1811387,
-   "sha256": "55b85aaf016a8ed5db63024f538799725ca0bf4064e19a6a89599c767039e753"
+   "bytes": 1812056,
+   "sha256": "e42e8cbcb5c4e27e53978f31707cc0c537a72f648b5fb3c2a54b8204b0ae2002"
   },
   {
    "path": "assessed-phase-assemblages/exclusions.csv",
@@ -10754,32 +10754,32 @@
   {
    "path": "assessed-phase-assemblages/parquet.json",
    "bytes": 332,
-   "sha256": "160bd264839a23a01c7a6db061fe2b4676f883e0031ddf508a264847582bbb41"
+   "sha256": "15cfcb75e67d053867e9bbb28f066fe97f4bf8a2e1fbe1a1f435c0283fc4d6bf"
   },
   {
    "path": "assessed-phase-assemblages/records.csv",
-   "bytes": 12640025,
-   "sha256": "a109f01e761c2168dd2c216b8615c4519945e306c3076ee60e4e85ab53aa0fda"
+   "bytes": 12639934,
+   "sha256": "806686457c0b65e5ec31882a09bbb387c61af6148410b27812f08d10e232c761"
   },
   {
    "path": "assessed-phase-assemblages/records.jsonl.gz",
-   "bytes": 4769798,
-   "sha256": "689dcb080f891f4196d4f00f5e929495fe3d62b590e55d4686d05f74a01886fe"
+   "bytes": 4772050,
+   "sha256": "b16dc815488f2fbd2925398c6cca1b9c0e44609360ead3f752b9f4e238e3ec77"
   },
   {
    "path": "assessed-phase-assemblages/records.parquet",
-   "bytes": 1721875,
-   "sha256": "bb535f9b849100899b59106fc4eab06cad4019119a7c821d50d7979403eb3a43"
+   "bytes": 1721874,
+   "sha256": "9e97c50430d51bf35f5f27797cae1ba7694218381cdf0b4672365cebe9e127a4"
   },
   {
    "path": "assessed-phase-assemblages/sgte_not_comparable.csv",
-   "bytes": 1214472,
-   "sha256": "643671627b811008417113443a92b14e08a6414c82762bd3a2e6bfcc620108dc"
+   "bytes": 1214988,
+   "sha256": "88b0da344f834bc695de370f3f3b998dffee4514fdc4245f567dc19bf3f2bab5"
   },
   {
    "path": "assessed-phase-assemblages/summary.json",
    "bytes": 8900,
-   "sha256": "3d24c3ba74b5fc2e49fb15b1b1cc5d1770fcb4196c81f5deb106b246aae004b8"
+   "sha256": "13c7deefe2fdb683a79b97b566d4cb83db80fe6e00432df7bf4a2aefe55275df"
   },
   {
    "path": "zenodo/assessed-phase-assemblages.metadata.json",

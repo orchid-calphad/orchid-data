@@ -1,10 +1,10 @@
 # Pd–Y system
 
-> Pd–Y system: 64 accepted literature values (formation 28, invariant reaction 26, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Y system: 66 accepted literature values (formation 28, invariant reaction 26, phase transition 10, mixing / partial 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-Y.html · Markdown: https://data.orchid-project.org/systems/PD-Y.md
 
-64 accepted literature values from 2 paper(s) (experimental 18, model 46); 1 calculated phase diagram(s).
+66 accepted literature values from 2 paper(s) (experimental 18, model 48); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-Y.json) · [CSV](https://data.orchid-project.org/systems/PD-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-Y/PdY-00Du.json) · [phases (15)](https://data.orchid-project.org/phases/pages/PD-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-Y.html) · [Markdown](https://data.orchid-project.org/systems/PD-Y.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 18 |
-| model | 46 |
+| model | 48 |
 
 Table: Accepted values by property group
 
@@ -22,6 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 26 |
 | phase transition | 10 |
 | formation | 28 |
+| mixing / partial | 2 |
 
 ## Calculated phase diagrams
 
@@ -70,26 +71,26 @@ Table: Invariant reactions reported in the literature for the Pd–Y system (26)
 |---:|---|---|---|---|---|---|
 | 1752 | Liq.+b.c.c.(Y)->h.c.p.(Y) | Liq.: Y 0.9808; b.c.c.(Y): Y 1; h.c.p.(Y): Y 1 | model | [1] Du 2000 | Table 2, p. 5, row 1; `ORC-YY4AV47A5C` |  |
 | 1751 | Liq.+b.c.c.(Y)->h.c.p.(Y) | Liq.: Y 0.98; b.c.c.(Y): Y 1; h.c.p.(Y): Y 1 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 2; `ORC-NCQXB22SJR` |  |
-| 1658 | Liq.->βPdY+Pd4Y3 | Liq.: Y 0.47; βPdY: Y 0.51; Pd4Y3: Y 0.428571 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 16; `ORC-KOJJVDFUMN` |  |
-| 1655 | Liq.->βPdY+Pd4Y3 | Liq.: Y 0.4535; βPdY: Y 0.5; Pd4Y3: Y 0.428571 | model | [1] Du 2000 | Table 2, p. 5, row 15; `ORC-YHLRGZWDDR` |  |
+| 1658 | eutectic: Liq.->βPdY+Pd4Y3 | Liq.: Y 0.47; βPdY: Y 0.51; Pd4Y3: Y 0.428571 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 16; `ORC-KOJJVDFUMN` |  |
+| 1655 | eutectic: Liq.->βPdY+Pd4Y3 | Liq.: Y 0.4535; βPdY: Y 0.5; Pd4Y3: Y 0.428571 | model | [1] Du 2000 | Table 2, p. 5, row 15; `ORC-YHLRGZWDDR` |  |
 | 1579 | Liq.+Pd3Y->Pd2Y | Liq.: Y 0.3484; Pd3Y: Y 0.25; Pd2Y: Y 0.333333 | model | [1] Du 2000 | Table 2, p. 5, row 23; `ORC-ZUX5IXDPFF` |  |
 | 1578 | Liq.+Pd3Y->Pd2Y | Liq.: Y 0.34; Pd3Y: Y 0.25; Pd2Y: Y 0.333333 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 24; `ORC-Q3O7YR22VA` |  |
 | 1548 | Liq.+Pd4Y3->βPd3Y2 | Liq.: Y 0.3782; Pd4Y3: Y 0.428571; βPd3Y2: Y 0.4 | model | [1] Du 2000 | Table 2, p. 5, row 19; `ORC-ER4OUD7GEN` |  |
 | 1547 | Liq.+Pd4Y3->βPd3Y2 | Liq.: Y 0.38; Pd4Y3: Y 0.428571; βPd3Y2: Y 0.4 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 20; `ORC-7KNEH2XXHG` |  |
-| 1518 | Liq.->βPd3Y2+Pd2Y | Liq.: Y 0.37; βPd3Y2: Y 0.4; Pd2Y: Y 0.333333 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 22; `ORC-U2ETOEP44K` |  |
-| 1518 | Liq.->βPd3Y2+Pd2Y | Liq.: Y 0.3692; βPd3Y2: Y 0.4; Pd2Y: Y 0.333333 | model | [1] Du 2000 | Table 2, p. 5, row 21; `ORC-XJIAQ4BRA7` |  |
-| 1478 | Liq.->Pd3Y+f.c.c.(Pd) | Liq.: Y 0.15; Pd3Y: Y 0.205; f.c.c.(Pd): Y 0.13 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 28; `ORC-5XFIR7VI4T` |  |
-| 1478 | Liq.->Pd3Y+f.c.c.(Pd) | Liq.: Y 0.1436; Pd3Y: Y 0.2031; f.c.c.(Pd): Y 0.1257 | model | [1] Du 2000 | Table 2, p. 5, row 27; `ORC-LSCPJITNO6` |  |
+| 1518 | eutectic: Liq.->βPd3Y2+Pd2Y | Liq.: Y 0.37; βPd3Y2: Y 0.4; Pd2Y: Y 0.333333 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 22; `ORC-U2ETOEP44K` |  |
+| 1518 | eutectic: Liq.->βPd3Y2+Pd2Y | Liq.: Y 0.3692; βPd3Y2: Y 0.4; Pd2Y: Y 0.333333 | model | [1] Du 2000 | Table 2, p. 5, row 21; `ORC-XJIAQ4BRA7` |  |
+| 1478 | eutectic: Liq.->Pd3Y+f.c.c.(Pd) | Liq.: Y 0.15; Pd3Y: Y 0.205; f.c.c.(Pd): Y 0.13 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 28; `ORC-5XFIR7VI4T` |  |
+| 1478 | eutectic: Liq.->Pd3Y+f.c.c.(Pd) | Liq.: Y 0.1436; Pd3Y: Y 0.2031; f.c.c.(Pd): Y 0.1257 | model | [1] Du 2000 | Table 2, p. 5, row 27; `ORC-LSCPJITNO6` |  |
 | 1233 | Liq.+βPdY->Pd2Y3 | Liq.: Y 0.66; βPdY: Y 0.52; Pd2Y3: Y 0.6 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 12; `ORC-PYJGSZ5YNQ` |  |
 | 1232 | Liq.+βPdY->Pd2Y3 | Liq.: Y 0.6384; βPdY: Y 0.5016; Pd2Y3: Y 0.6 | model | [1] Du 2000 | Table 2, p. 5, row 11; `ORC-OHN7LPYHDT` |  |
 | 1181 | Liq.+h.c.p.(Y)->PdY3 | Liq.: Y 0.745; h.c.p.(Y): Y 1; PdY3: Y 0.75 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 4; `ORC-BIR7HIZYH7` |  |
-| 1181 | Liq.->Pd2Y5+PdY3 | Liq.: Y 0.7397; Pd2Y5: Y 0.714286; PdY3: Y 0.75 | model | [1] Du 2000 | Table 2, p. 5, row 5; `ORC-CIQU5EB6ZF.d9b5c0` |  |
+| 1181 | eutectic: Liq.->Pd2Y5+PdY3 | Liq.: Y 0.7397; Pd2Y5: Y 0.714286; PdY3: Y 0.75 | model | [1] Du 2000 | Table 2, p. 5, row 5; `ORC-CIQU5EB6ZF.d9b5c0` |  |
 | 1181 | Liq.+h.c.p.(Y)->PdY3 | Liq.: Y 0.7405; h.c.p.(Y): Y 1; PdY3: Y 0.75 | model | [1] Du 2000 | Table 2, p. 5, row 3; `ORC-CIQU5EB6ZF.da0ec8` |  |
-| 1180 | Liq.->Pd2Y5+Pd2Y3 | Liq.: Y 0.688; Pd2Y5: Y 0.714286; Pd2Y3: Y 0.6 | model | [1] Du 2000 | Table 2, p. 5, row 9; `ORC-MIJEZMKHTY` |  |
-| 1176 | Liq.->Pd2Y5+Pd2Y3 | Liq.: Y 0.7; Pd2Y5: Y 0.714286; Pd2Y3: Y 0.6 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 10; `ORC-DN4LEEM5U2` |  |
+| 1180 | eutectic: Liq.->Pd2Y5+Pd2Y3 | Liq.: Y 0.688; Pd2Y5: Y 0.714286; Pd2Y3: Y 0.6 | model | [1] Du 2000 | Table 2, p. 5, row 9; `ORC-MIJEZMKHTY` |  |
+| 1176 | eutectic: Liq.->Pd2Y5+Pd2Y3 | Liq.: Y 0.7; Pd2Y5: Y 0.714286; Pd2Y3: Y 0.6 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 10; `ORC-DN4LEEM5U2` |  |
 | 1173 | βPdY+Pd2Y3->αPdY | βPdY: Y 0.5006; Pd2Y3: Y 0.6; αPdY: Y 0.501 | model | [1] Du 2000 | Table 2, p. 5, row 33; `ORC-J2Y6PQGDIM` |  |
 | 1173 | βPdY+Pd2Y3->αPdY | βPdY: Y 0.52; Pd2Y3: Y 0.6; αPdY: Y 0.52 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 34; `ORC-NTK6SR3ZDY` |  |
-| 1168 | Liq.->Pd2Y5+PdY3 | Liq.: Y 0.73; Pd2Y5: Y 0.714286; PdY3: Y 0.75 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 6; `ORC-26NA5SI37M` |  |
+| 1168 | eutectic: Liq.->Pd2Y5+PdY3 | Liq.: Y 0.73; Pd2Y5: Y 0.714286; PdY3: Y 0.75 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 6; `ORC-26NA5SI37M` |  |
 | 1143 | βPdY->Pd4Y3+αPdY | βPdY: Y 0.5; Pd4Y3: Y 0.428571; αPdY: Y 0.5 | model | [1] Du 2000 | Table 2, p. 5, row 35; `ORC-UP44MMGTKS` |  |
 | 1143 | βPdY->Pd4Y3+αPdY | βPdY: Y 0.51; Pd4Y3: Y 0.428571; αPdY: Y 0.51 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 36; `ORC-UPQYF75XCO` |  |
 | 777 | F.c.c.(Pd)+Pd3Y->Pd7Y | F.c.c.(Pd): Y 0.1145; Pd3Y: Y 0.2082; Pd7Y: Y 0.125 | model | [1] Du 2000 | Table 2, p. 5, row 29; `ORC-7UJ6IHRR3D` |  |
@@ -145,7 +146,7 @@ Table: Formation, Pd–Y system
 | Entropy of formation; _printed: ΔfS_ | 12.51 J/mol-atom/K | 298.15 | Pd3Y; _alloy: Pd 0.75, Y 0.25_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 2; `ORC-NX4MZBDOSQ.36c77d` |  |
 | Entropy of formation | 4.396 J/mol-atom/K | 298.15 | Pd4Y3; _alloy: Pd 0.571429, Y 0.428571_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 35; `ORC-U2ZKYZCZIF.cdcb3c` |  |
 | Entropy of formation; _printed: Entropies of formation_ | 12.943 J/mol-atom/K | 298.15 | Pd7RE; _alloy: Pd 0.875, Y 0.125_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 6; `ORC-2AZOM5DHZS.392ced` |  |
-| Entropy of formation | 12.943 J/mol-atom/K | 298.15 | Pd7Y; _alloy: Pd 0.75, Y 0.25_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 72; `ORC-G6I4ZMI2QB.30c4a6` |  |
+| Entropy of formation | 12.943 J/mol-atom/K | 298.15 | Pd7Y; _alloy: Pd 0.875, Y 0.125_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 72; `ORC-G6I4ZMI2QB.30c4a6` |  |
 | Entropy of formation; _printed: Entropies of formation_ | 13.89 J/mol-atom/K | 298.15 | PdRE3; _alloy: Pd 0.25, Y 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 1; `ORC-4NLQEFFGDH.c8aeca` |  |
 | Entropy of formation | 4.145 J/mol-atom/K | 298.15 | PdY; _alloy: Pd 0.5, Y 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 22; `ORC-P6SDQMQ7SK.59aedd` |  |
 | Entropy of formation; _printed: ΔfS_ | 13.89 J/mol-atom/K | 298.15 | PdY3; _alloy: Pd 0.25, Y 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 67; `ORC-CIWAB2XKA7.c962dd` |  |
@@ -154,9 +155,18 @@ Table: Formation, Pd–Y system
 | Gibbs energy of formation; _printed: ΔfG_ | -62.047 kJ/mol-atom | 298.15 | Pd3Y; _alloy: Pd 0.75, Y 0.25_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 72; `ORC-G6I4ZMI2QB.5018f3` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -99.8098 kJ/mol-atom | 298.15 | Pd3Y; _alloy: Pd 0.75, Y 0.25_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 2; `ORC-NX4MZBDOSQ.9c888d` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -93.6107 kJ/mol-atom | 298.15 | Pd4Y3; _alloy: Pd 0.571429, Y 0.428571_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 35; `ORC-U2ZKYZCZIF.73e661` |  |
-| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -62.047 kJ/mol-atom | 298.15 | Pd7Y; _alloy: Pd 0.75, Y 0.25_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 72; `ORC-G6I4ZMI2QB.2a6992` |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -62.047 kJ/mol-atom | 298.15 | Pd7Y; _alloy: Pd 0.875, Y 0.125_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 72; `ORC-G6I4ZMI2QB.2a6992` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -91.8188 kJ/mol-atom | 298.15 | PdY; _alloy: Pd 0.5, Y 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 22; `ORC-P6SDQMQ7SK.b2df18` |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -66.3953 kJ/mol-atom | 298.15 | PdY3; _alloy: Pd 0.25, Y 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 67; `ORC-CIWAB2XKA7.2a11c6` |  |
+
+### Mixing / partial (2)
+
+Table: Mixing / partial, Pd–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -62.047 kJ/mol-atom | 298.15 | Pd7RE; _alloy: Pd 0.875, Y 0.125_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 6; `ORC-2AZOM5DHZS.44c074` |  |
+| Gibbs energy of mixing; _printed: Gibbs free Energies_ | -66.3953 kJ/mol-atom | 298.15 | PdRE3; _alloy: Pd 0.25, Y 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 1; `ORC-4NLQEFFGDH.73191c` |  |
 
 ## Sources
 

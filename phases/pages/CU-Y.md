@@ -63,7 +63,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:cu2y-h)
 
 Names (5): _corpus: _corpus:phase:cu-y:cu2y-h  
-_paper: _paper:10.1007/bf02647621:YCu2, paper:10.1007/bf02647621:YCu2(h), paper:10.1016/s0364-5916(98)00037-6:Cu2Y-H  
+_paper: _paper:10.1007/bf02647621:YCu2, paper:10.1007/bf02647621:YCu2(h), paper:sha256-85fd53a1a176b694:Cu2Y-H  
 _tdb: _tdb:CuY-94Fri-LB.tdb:CU2Y_H  
 
 
@@ -76,12 +76,10 @@ _tdb: _tdb:CuY-94Fri-LB.tdb:CU2Y_H
 70: CONST CU2Y_H : CU : Y : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02647621](https://doi.org/10.1007/BF02647621) S.G. Fries, H.L. Lukas, R. Konetzki, R. Schmid-Fetzer, J. Phase Equilib., 15, 606-14(1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CU2Y_R (Cu–Y)
 
@@ -95,7 +93,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:cu2y-r)
 
 Names (4): _corpus: _corpus:phase:cu-y:cu2y-r  
-_paper: _paper:10.1007/bf02647621:YCu2(r), paper:10.1016/s0364-5916(98)00037-6:Cu2Y-R  
+_paper: _paper:10.1007/bf02647621:YCu2(r), paper:sha256-85fd53a1a176b694:Cu2Y-R  
 _tdb: _tdb:CuY-94Fri-LB.tdb:CU2Y_R  
 
 
@@ -108,12 +106,10 @@ _tdb: _tdb:CuY-94Fri-LB.tdb:CU2Y_R
 65: CONST CU2Y_R : CU : Y : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02647621](https://doi.org/10.1007/BF02647621) S.G. Fries, H.L. Lukas, R. Konetzki, R. Schmid-Fetzer, J. Phase Equilib., 15, 606-14(1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CU4Y (Cu–Y)
 
@@ -128,7 +124,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:cu4y)
 
 Names (4): _corpus: _corpus:phase:cu-y:cu4y  
-_paper: _paper:10.1007/bf02647621:YCu4, paper:10.1016/s0364-5916(98)00037-6:Cu4Y  
+_paper: _paper:10.1007/bf02647621:YCu4, paper:sha256-85fd53a1a176b694:Cu4Y  
 _tdb: _tdb:CuY-94Fri-LB.tdb:CU4Y  
 
 
@@ -141,12 +137,10 @@ _tdb: _tdb:CuY-94Fri-LB.tdb:CU4Y
 55: CONST CU4Y : CU : Y : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02647621](https://doi.org/10.1007/BF02647621) S.G. Fries, H.L. Lukas, R. Konetzki, R. Schmid-Fetzer, J. Phase Equilib., 15, 606-14(1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CU6Y (Cu–Y)
 
@@ -160,7 +154,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:cu6y)
 
 Names (4): _corpus: _corpus:phase:cu-y:cu6y  
-_paper: _paper:10.1007/bf02647621:YCu6, paper:10.1016/s0364-5916(98)00037-6:Cu6Y  
+_paper: _paper:10.1007/bf02647621:YCu6, paper:sha256-85fd53a1a176b694:Cu6Y  
 _tdb: _tdb:CuY-94Fri-LB.tdb:CU6Y  
 
 
@@ -173,12 +167,10 @@ _tdb: _tdb:CuY-94Fri-LB.tdb:CU6Y
 50: CONST CU6Y : CU : CU2 Y : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02647621](https://doi.org/10.1007/BF02647621) S.G. Fries, H.L. Lukas, R. Konetzki, R. Schmid-Fetzer, J. Phase Equilib., 15, 606-14(1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CU7Y2 (Cu–Y)
 
@@ -192,7 +184,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:cu7y2)
 
 Names (4): _corpus: _corpus:phase:cu-y:cu7y2  
-_paper: _paper:10.1007/bf02647621:Y2Cu7, paper:10.1016/s0364-5916(98)00037-6:Cu7Y2  
+_paper: _paper:10.1007/bf02647621:Y2Cu7, paper:sha256-85fd53a1a176b694:Cu7Y2  
 _tdb: _tdb:CuY-94Fri-LB.tdb:CU7Y2  
 
 
@@ -205,12 +197,10 @@ _tdb: _tdb:CuY-94Fri-LB.tdb:CU7Y2
 60: CONST CU7Y2 : CU : Y : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02647621](https://doi.org/10.1007/BF02647621) S.G. Fries, H.L. Lukas, R. Konetzki, R. Schmid-Fetzer, J. Phase Equilib., 15, 606-14(1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CUY_B2 (Cu–Y)
 
@@ -228,7 +218,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:cuy-b2)
 
 Names (4): _corpus: _corpus:phase:cu-y:cuy-b2  
-_paper: _paper:10.1007/bf02647621:YCu, paper:10.1016/s0364-5916(98)00037-6:CuY  
+_paper: _paper:10.1007/bf02647621:YCu, paper:sha256-85fd53a1a176b694:CuY  
 _tdb: _tdb:CuY-94Fri-LB.tdb:CUY_B2  
 
 
@@ -241,12 +231,10 @@ _tdb: _tdb:CuY-94Fri-LB.tdb:CUY_B2
 75: CONST CUY_B2 : CU : Y : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02647621](https://doi.org/10.1007/BF02647621) S.G. Fries, H.L. Lukas, R. Konetzki, R. Schmid-Fetzer, J. Phase Equilib., 15, 606-14(1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Cu–Y)
 
@@ -257,7 +245,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:fcc-a1)
 
 Names (4): _corpus: _corpus:phase:cu-y:fcc-a1  
-_paper: _paper:10.1007/bf02647621:(Cu), paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:10.1007/bf02647621:(Cu), paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:CuY-94Fri-LB.tdb:FCC_A1  
 
 
@@ -270,12 +258,10 @@ _tdb: _tdb:CuY-94Fri-LB.tdb:FCC_A1
 35: CONST FCC_A1 : CU% Y : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02647621](https://doi.org/10.1007/BF02647621) S.G. Fries, H.L. Lukas, R. Konetzki, R. Schmid-Fetzer, J. Phase Equilib., 15, 606-14(1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Cu–Y)
 
@@ -286,7 +272,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:hcp-a3)
 
 Names (4): _corpus: _corpus:phase:cu-y:hcp-a3  
-_paper: _paper:10.1007/bf02647621:Y, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:10.1007/bf02647621:Y, paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:CuY-94Fri-LB.tdb:HCP_A3  
 
 
@@ -299,12 +285,10 @@ _tdb: _tdb:CuY-94Fri-LB.tdb:HCP_A3
 45: CONST HCP_A3 : CU Y% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02647621](https://doi.org/10.1007/BF02647621) S.G. Fries, H.L. Lukas, R. Konetzki, R. Schmid-Fetzer, J. Phase Equilib., 15, 606-14(1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Cu–Y)
 
@@ -315,7 +299,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:liquid)
 
 Names (4): _corpus: _corpus:phase:cu-y:liquid  
-_paper: _paper:10.1007/bf02647621:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1007/bf02647621:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:CuY-94Fri-LB.tdb:LIQUID  
 
 
@@ -328,12 +312,10 @@ _tdb: _tdb:CuY-94Fri-LB.tdb:LIQUID
 30: CONST LIQUID:L : CU Y : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02647621](https://doi.org/10.1007/BF02647621) S.G. Fries, H.L. Lukas, R. Konetzki, R. Schmid-Fetzer, J. Phase Equilib., 15, 606-14(1994).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

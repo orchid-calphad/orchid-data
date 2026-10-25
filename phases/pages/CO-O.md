@@ -19,7 +19,7 @@ Table: Phases of the Co–O system (9)
 | [SPINEL_H11](#phase-co-o-h11-spinel); _phase:co-o:h11-spinel_ | Al2MgO4 · H1_1 · cF56 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1185 K, x(O) 0.57143–0.57143 | 5 | 1 |
 | [HCP_A3](#phase-co-o-hcp-a3); _phase:co-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1726.24 K, x(O) 0–0.00052 | 0 | 1 |
 | [ION](#phase-co-o-ion); _phase:co-o:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1766.99–2500 K, x(O) 0–0.50213 | 0 | 1 |
-| [LIQUID](#phase-co-o-liquid); _phase:co-o:liquid_ | liquid | liquid | not stable in 1 calculated diagram(s) | 16 | 1 |
+| [LIQUID](#phase-co-o-liquid); _phase:co-o:liquid_ | liquid | liquid | not stable in 1 calculated diagram(s) | 17 | 1 |
 | [O2GAS](#phase-co-o-o2gas); _phase:co-o:o2gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–1185 K, x(O) 1–1 | 0 | 1 |
 
 ## HALITE_B1 (Co–O)
@@ -224,7 +224,7 @@ _assessment that models this phase_
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stoichiometry: Co 1.0000
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 16 values (15 accepted) from 1 papers
+- Literature: 17 values (16 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-o:liquid)
 
 Names (5): _corpus: _corpus:phase:co-o:liquid  

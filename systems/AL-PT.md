@@ -89,10 +89,10 @@ Table: Invariant reactions reported in the literature for the Al–Pt system (15
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1780 | L -> AlPt3 + (Pt) | L: Pt 0.795; AlPt3: Pt 0.764; (Pt): Pt 0.857 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 1; `ORC-LF627RDYHH` |  |
+| 1780 | eutectic: L -> AlPt3 + (Pt) | L: Pt 0.795; AlPt3: Pt 0.764; (Pt): Pt 0.857 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 1; `ORC-LF627RDYHH` |  |
 | 1775 | L—AlPt3 + (Pt) | L: Pt 0.801; AlPt3: Pt 0.766; (Pt): Pt 0.821 | model | [1] Wu 2000 | Table 3, p. 3, row 2; `ORC-TQRWLUCRAW` |  |
 | 1766 | L—Al3Pt2 + AlPt | L: Pt 0.441; Al3Pt2: Pt 0.399; AlPt: Pt 0.5 | model | [1] Wu 2000 | Table 3, p. 3, row 4; `ORC-J6MNF52XQJ` |  |
-| 1741 | L -> Al3Pt2 + AlPt | L: Pt 0.447; Al3Pt2: Pt 0.4; AlPt: Pt 0.5 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 3; `ORC-XFERZN6DSL` |  |
+| 1741 | eutectic: L -> Al3Pt2 + AlPt | L: Pt 0.447; Al3Pt2: Pt 0.4; AlPt: Pt 0.5 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 3; `ORC-XFERZN6DSL` |  |
 | 1738 | L + AlPt3 -> Al3Pt5 | L: Pt 0.623; AlPt3: Pt 0.673; Al3Pt5: Pt 0.625 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 5; `ORC-PB3WMA32LN` |  |
 | 1736 | L + AlPt3—Al3Pt5 | L: Pt 0.624; AlPt3: Pt 0.642; Al3Pt5: Pt 0.625 | model | [1] Wu 2000 | Table 3, p. 3, row 6; `ORC-HKNNJDEY22` |  |
 | 1695 | L—AlPt + Al3Pt5 | L: Pt 0.582; AlPt: Pt 0.5; Al3Pt5: Pt 0.625 | model | [1] Wu 2000 | Table 3, p. 3, row 7; `ORC-N6XVHCUH3Q` |  |
@@ -102,7 +102,7 @@ Table: Invariant reactions reported in the literature for the Al–Pt system (15
 | 1400 | L + Al2Pt -> Al21Pt8 | L: Pt 0.188; Al2Pt: Pt 0.326; Al21Pt8: Pt 0.275 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 10; `ORC-GH3PRGBOPR` |  |
 | 1082 | L + Al21Pt8—Al21Pt5 | L: Pt 0.05; Al21Pt8: Pt 0.276; Al21Pt5: Pt 0.192 | model | [1] Wu 2000 | Table 3, p. 3, row 13; `ORC-6SC4DQCQUE` |  |
 | 1079 | L + Al21Pt8 -> Al21Pt5 | L: Pt 0.031; Al21Pt8: Pt 0.275; Al21Pt5: Pt 0.192 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 12; `ORC-YCZURTD2XD` |  |
-| 930 | L -> (Al) + Al21Pt5 | L: Pt 0.004; (Al): Pt 0; Al21Pt5: Pt 0.192 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 14; `ORC-ZJJZ7SNQQL` |  |
+| 930 | eutectic: L -> (Al) + Al21Pt5 | L: Pt 0.004; (Al): Pt 0; Al21Pt5: Pt 0.192 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 14; `ORC-ZJJZ7SNQQL` |  |
 | 928 | L—(Al) + Al21Pt5 | L: Pt 0.007; (Al): Pt 0; Al21Pt5: Pt 0.192 | model | [1] Wu 2000 | Table 3, p. 3, row 15; `ORC-7I47DELRK4` |  |
 
 ## Formation enthalpies

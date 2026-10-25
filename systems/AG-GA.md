@@ -1,10 +1,10 @@
 # Ag–Ga system
 
-> Ag–Ga system: 54 accepted literature values (invariant reaction 49, phase transition 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ga system: 47 accepted literature values (invariant reaction 44, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-GA.html · Markdown: https://data.orchid-project.org/systems/AG-GA.md
 
-54 accepted literature values from 2 paper(s) (experimental 40, model 14); 2 calculated phase diagram(s).
+47 accepted literature values from 2 paper(s) (experimental 35, model 12); 2 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-GA.json) · [CSV](https://data.orchid-project.org/systems/AG-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-GA/AgGa-06Zha.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-GA.html) · [Markdown](https://data.orchid-project.org/systems/AG-GA.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 40 |
-| model | 14 |
+| experimental | 35 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 49 |
-| phase transition | 5 |
+| invariant reaction | 44 |
+| phase transition | 3 |
 
 ## Calculated phase diagrams
 
@@ -52,7 +52,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Ga system (49)
+Table: Invariant reactions reported in the literature for the Ag–Ga system (44)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -62,7 +62,6 @@ Table: Invariant reactions reported in the literature for the Ag–Ga system (49
 | 888 | peritectic: fcc + L \<-> hcp | fcc: Ga 0.182 | experimental | [2] Zhang 2006; _cites Muller 1959_ | Table 2, p. 3, row 5; `ORC-W44VLIJWXJ` |  |
 | 888 | peritectic: fcc + L \<-> hcp | fcc: Ga 0.186 | experimental | [2] Zhang 2006; _cites Owen 1950_ | Table 2, p. 3, row 7; `ORC-Z6B3WQEBMX` |  |
 | 886.8 | FCC_A1 + L = HCP_A3 | HCP_A3: Ga 0.217 | model | [1] Gierlotka 2011 | Table 3, p. 4, row 1; `ORC-JAUEQ42EQF` |  |
-| 886 | peritectic |  | experimental | [1] Gierlotka 2011 | p. 2; `ORC-MTS2N2EEGB.3b5318` | “The system shows 3 invariant reactions: eutectic reaction between liquid, solid Ga and intermetallic compound Ag3 Ga2 at temperature 299 K and 2 peritectic reactions: one between Ag, liquid and ␨ phase at 886 K and another between liquid, Ag3 Ga2 and ␨ at 575 K.” |
 | 885 | peritectic: fcc + L \<-> hcp | L: Ga 0.281; hcp: Ga 0.22 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 4; `ORC-MN6QWE4KAJ` |  |
 | 885 | FCC_A1 + L = HCP_A3 |  | experimental | [1] Gierlotka 2011; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 3, p. 4, row 4; `ORC-SX4KBYW34L` |  |
 | 884 | peritectic: fcc + L \<-> hcp | L: Ga 0.283; hcp: Ga 0.222 | experimental | [2] Zhang 2006; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 2, p. 3, row 3; `ORC-5A6WDEURGL` |  |
@@ -87,13 +86,10 @@ Table: Invariant reactions reported in the literature for the Ag–Ga system (49
 | 668 | eutectoid: hcp \<-> fcc + Ag2Ga | Ag2Ga: Ag 0.666667, Ga 0.333333 | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 14; `ORC-ZCTC7O77CL` |  |
 | 666.4 | eutectoid: hcp \<-> fcc + Ag2Ga | hcp: Ga 0.2238; fcc: Ga 0.164; Ag2Ga: Ga 0.258 | model | [2] Zhang 2006 | Table 2, p. 3, row 9; `ORC-H5FBN46E6T` |  |
 | 651 | eutectoid: hcp \<-> fcc + Ag2Ga | hcp: Ga 0.205; fcc: Ga 0.176; Ag2Ga: Ga 0.256 | experimental | [2] Zhang 2006; _cites Hume-Rothery 1942_ | Table 2, p. 3, row 10; `ORC-N4O4OMRDUM` |  |
-| 599 | peritectic |  | experimental | [2] Zhang 2006; _cites Weibke 1936_ [doi](https://doi.org/10.1002/zaac.19362260215) | p. 2; `ORC-JTTFOYSV2L` | “Weibke and Wiegels \[12\] reported a novel intermetallic solid solution compound Ag2 Ga3 , which was peritectically melted at 599 K in the Ga-rich region.” |
 | 578 | peritectic: Ag2Ga \<-> L + AgmGan | Ag2Ga: Ga 0.324; L: Ga 0.86; AgmGan: Ga 0.5 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 24; `ORC-DCXSTS3I46` |  |
 | 578 | ζ′ + L = Ag3Ga2 | ζ′: Ga 0.5; Ag3Ga2: Ga 0.4 | experimental | [1] Gierlotka 2011; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 3, p. 4, row 12; `ORC-LSNRXMFYEF` |  |
-| 575 | peritectic |  | experimental | [2] Zhang 2006 | p. 2; `ORC-KHSEQSAP4H` | “The Ag3 Ga2 phase peritectically melts at 575 K.” |
 | 575 | ζ′ + L = Ag3Ga2 | ζ′: Ga 0.333333; Ag3Ga2: Ga 0.4 | model | [1] Gierlotka 2011 | Table 3, p. 4, row 10; `ORC-LPEYS3EUWB` |  |
 | 575 | peritectic: Ag2Ga \<-> L + AgmGan | Ag2Ga: Ag 0.666667, Ga 0.333333; AgmGan: Ga 0.4 | experimental | [2] Zhang 2006; _cites Zhang_ | Table 2, p. 3, row 25; `ORC-MMFD4LHR5K` |  |
-| 575 | peritectic |  | experimental | [1] Gierlotka 2011 | p. 2; `ORC-MTS2N2EEGB.e39f46` | “The system shows 3 invariant reactions: eutectic reaction between liquid, solid Ga and intermetallic compound Ag3 Ga2 at temperature 299 K and 2 peritectic reactions: one between Ag, liquid and ␨ phase at 886 K and another between liquid, Ag3 Ga2 and ␨ at 575 K.” |
 | 575 | metatectic/catatectic: hcp \<-> Ag2Ga + L | Ag2Ga: Ag 0.666667, Ga 0.333333 | experimental | [2] Zhang 2006; _cites Gunns 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900572-1) | Table 2, p. 3, row 22; `ORC-OHSV3GVDWI` |  |
 | 575 | ζ′ + L = Ag3Ga2 | ζ′: Ga 0.333333; Ag3Ga2: Ga 0.4 | experimental | [1] Gierlotka 2011; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.036) | Table 3, p. 4, row 11; `ORC-VUCHPIGFBN` |  |
 | 574.3 | peritectic: Ag2Ga \<-> L + AgmGan | Ag2Ga: Ga 0.331; L: Ga 0.863; AgmGan: Ga 0.4 | model | [2] Zhang 2006 | Table 2, p. 3, row 23; `ORC-TE6FHEUZGO` |  |
@@ -103,12 +99,11 @@ Table: Invariant reactions reported in the literature for the Ag–Ga system (49
 | 299 | eutectic: L \<-> AgmGan + Ga | L: Ga 0.987; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 2, p. 3, row 29; `ORC-2XR274XNU7` |  |
 | 299 | L = ζ′ + Orthorhombic_GA | ζ′: Ga 0.333333; Orthorhombic_GA: Ga 1 | experimental | [1] Gierlotka 2011; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 3, p. 4, row 14; `ORC-4KXUOMZGYB` |  |
 | 299 | eutectic: L \<-> AgmGan + Ga | AgmGan: Ga 0.5; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 27; `ORC-IBQEKSHIRC` |  |
-| 299 | eutectic |  | experimental | [1] Gierlotka 2011 | p. 2; `ORC-MTS2N2EEGB.a887e7` | “The system shows 3 invariant reactions: eutectic reaction between liquid, solid Ga and intermetallic compound Ag3 Ga2 at temperature 299 K and 2 peritectic reactions: one between Ag, liquid and ␨ phase at 886 K and another between liquid, Ag3 Ga2 and ␨ at 575 K.” |
 | 298.15 | eutectic: L \<-> AgmGan + Ga | L: Ga 0.974; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Weibke 1936_ [doi](https://doi.org/10.1002/zaac.19362260215) | Table 2, p. 3, row 30; `ORC-TTBPLWAD65` |  |
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (3)
 
 Table: Phase transition, Ag–Ga system
 
@@ -117,8 +112,6 @@ Table: Phase transition, Ag–Ga system
 | Phase transition | 574 K | 574 | other: hcp ↔ Ag2 Ga + L | experimental | [2] Zhang 2006; _cites Gunns 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900572-1) | p. 5; `ORC-MEQ2JSCVCI` | “Gunnæs et al. \[13\] constructed the complete single phase region of hcp and reported a metatectic reaction hcp ↔ Ag2 Ga + L at 574 K.” |
 | Phase transition | 694 K | 694 | other: hcp → Ag2 Ga + L | model | [2] Zhang 2006 | p. 5; `ORC-SWLBQDJ26A` | “It is to be noted that, as the composition of the metatectic point of the invariant equilibrium hcp → Ag2 Ga + L at ∼694 K was not determined by any experimental work, we assumed it to be about 35.5 at.% Ga from the extrapolation of the reported phase boundary of hcp/hcp + L \[29\].” |
 | Phase transition | 694 K | 694 | other: hcp ↔ Ag2 Ga+ L | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | p. 5; `ORC-NNPKMJULB4` | “However, Feschotte and Bass \[23\] suggested the transition hcp ↔ Ag2 Ga+ L at 694 K and the transformation temperature of hcp ↔ Ag2 Ga was determined precisely in their work.” |
-| Phase transition | 708 K | 708 | other | model | [1] Gierlotka 2011; _cites ASM 1998_ | p. 2; `ORC-BLRJDKC52H` | “The temperature of the order-disorder transformation of the HCP phase is 708 K \[27\].” |
-| Phase transition | 1235.08 K | 1235.08 |  | model | [2] Zhang 2006; _cites Massalski 1990_ | p. 1; `ORC-KIDFWKMPU6` | “Its melting temperature is 1235.08 K \[8\].” |
 
 ## Sources
 

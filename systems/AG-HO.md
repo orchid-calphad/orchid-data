@@ -1,10 +1,10 @@
 # Ag–Ho system
 
-> Ag–Ho system: 31 accepted literature values (invariant reaction 19, phase transition 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ho system: 26 accepted literature values (invariant reaction 14, phase transition 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-HO.html · Markdown: https://data.orchid-project.org/systems/AG-HO.md
 
-31 accepted literature values from 1 paper(s) (experimental 24, model 7); 1 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (experimental 19, model 7); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-HO.json) · [CSV](https://data.orchid-project.org/systems/AG-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-HO/AgHo-09Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-HO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-HO.html) · [Markdown](https://data.orchid-project.org/systems/AG-HO.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
+| experimental | 19 |
 | model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 19 |
+| invariant reaction | 14 |
 | phase transition | 12 |
 
 ## Calculated phase diagrams
@@ -49,28 +49,23 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Ho system (19)
+Table: Invariant reactions reported in the literature for the Ag–Ho system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1244.75 | eutectic: L -> AgHo + Ag2Ho | L: Ho 0.366; AgHo: Ho 0.5; Ag2Ho: Ho 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 9; `ORC-2IT3LJ2UHO` |  |
-| 1243.15 | eutectic: L ↔ Ag2 Ho + AgHo |  | experimental | [1] Wang 2009; _cites Gebhardt 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990079-8) | p. 2; `ORC-AE7BCND5OJ.971b06` | “Later, based on thermal analysis, metallography and X-ray methods, Gebhardt and Erdberg \[15\] investigated the phase diagram in the Ag-Ho system, and reported three stoichiometry compounds of the Ag7 Ho2 (melting point, 920 ◦ C), Ag2 Ho (melting point, 990 ◦ C) and AgHo (melting point, 1165 ◦ C), and also determined the maximum solid solubility of Ho in the fcc (Ag) (1.6 at.% Ho) and four eutectic…” |
 | 1243.15 | eutectic: L -> AgHo + Ag2Ho | L: Ho 0.365; AgHo: Ho 0.5; Ag2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Gebhardt 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990079-8) | Table 5, p. 5, row 7; `ORC-L5P4FY3SIT` |  |
 | 1243.15 | eutectic: L -> AgHo + Ag2Ho | L: Ho 0.365; AgHo: Ho 0.5; Ag2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869230) | Table 5, p. 5, row 8; `ORC-ZUVTAJ4PYO` |  |
 | 1166.75 | peritectic: L -> Ag51Ho14 + Ag2Ho | L: Ho 0.26; Ag51Ho14: Ho 0.22; Ag2Ho: Ho 0.333 | model | [1] Wang 2009 | Table 5, p. 5, row 15; `ORC-HGNVSX3SOC` |  |
-| 1163.15 | eutectic: L ↔ Ag7 Ho2 + Ag2 Ho |  | experimental | [1] Wang 2009; _cites Gebhardt 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990079-8) | p. 2; `ORC-AE7BCND5OJ.ffde55` | “Later, based on thermal analysis, metallography and X-ray methods, Gebhardt and Erdberg \[15\] investigated the phase diagram in the Ag-Ho system, and reported three stoichiometry compounds of the Ag7 Ho2 (melting point, 920 ◦ C), Ag2 Ho (melting point, 990 ◦ C) and AgHo (melting point, 1165 ◦ C), and also determined the maximum solid solubility of Ho in the fcc (Ag) (1.6 at.% Ho) and four eutectic…” |
 | 1163.15 | peritectic: L -> Ag51Ho14 + Ag2Ho | L: Ho 0.265; Ag51Ho14: Ho 0.222; Ag2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Gebhardt 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990079-8) | Table 5, p. 5, row 13; `ORC-IX7X3RM4RP` |  |
 | 1163.15 | peritectic: L -> Ag51Ho14 + Ag2Ho | L: Ho 0.265; Ag51Ho14: Ho 0.244; Ag2Ho: Ho 0.333 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869230) | Table 5, p. 5, row 14; `ORC-R5BEK5ICDC` |  |
 | 1153.25 | eutectic: L -> (Ho) + AgHo | L: Ho 0.799; (Ho): Ho 1; AgHo: Ho 0.5 | model | [1] Wang 2009 | Table 5, p. 5, row 3; `ORC-WLSQS5YP3W` |  |
-| 1153.15 | eutectic: L ↔ AgHo + (Ho) |  | experimental | [1] Wang 2009; _cites Gebhardt 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990079-8) | p. 2; `ORC-AE7BCND5OJ.7b2d6a` | “Later, based on thermal analysis, metallography and X-ray methods, Gebhardt and Erdberg \[15\] investigated the phase diagram in the Ag-Ho system, and reported three stoichiometry compounds of the Ag7 Ho2 (melting point, 920 ◦ C), Ag2 Ho (melting point, 990 ◦ C) and AgHo (melting point, 1165 ◦ C), and also determined the maximum solid solubility of Ho in the fcc (Ag) (1.6 at.% Ho) and four eutectic…” |
 | 1153.15 | eutectic: L -> (Ho) + AgHo | L: Ho 0.81; (Ho): Ho 1; AgHo: Ho 0.5 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869230) | Table 5, p. 5, row 2; `ORC-JV6RWDQ22O` |  |
 | 1153.15 | eutectic: L -> (Ho) + AgHo | L: Ho 0.81; (Ho): Ho 1; AgHo: Ho 0.5 | experimental | [1] Wang 2009; _cites Gebhardt 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990079-8) | Table 5, p. 5, row 1; `ORC-NJYAADSL7F` |  |
 | 1070.35 | eutectic: L -> Ag51Ho14 + (Ag) | L: Ho 0.115; Ag51Ho14: Ho 0.215; (Ag): Ho 0.014 | model | [1] Wang 2009 | Table 5, p. 5, row 23; `ORC-MBZ6V7JZ5B` |  |
 | 1068.15 | eutectic: L -> Ag51Ho14 + (Ag) | L: Ho 0.115; Ag51Ho14: Ho 0.215; (Ag): Ho 0.016 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869230) | Table 5, p. 5, row 22; `ORC-PDCLRSTLBY` |  |
-| 1068.15 | eutectic: L ↔ (Ag) + Ag7 Ho2 |  | experimental | [1] Wang 2009; _cites Wunderlin 1965_ | p. 1; `ORC-Z26VT77PKN` | “Wunderlin et al. \[14\] also determined the eutectic temperature of the L ↔ (Ag) + Ag7 Ho2 (795 ◦ C).” |
 | 1060.15 | eutectic: L -> Ag51Ho14 + (Ag) | Ag51Ho14: Ho 0.222; (Ag): Ho 0.016 | experimental | [1] Wang 2009; _cites Wunderlin 1963_ | Table 5, p. 5, row 19; `ORC-SAXKUX7IS6` |  |
 | 1048.15 | eutectic: L -> Ag51Ho14 + (Ag) | L: Ho 0.115; Ag51Ho14: Ho 0.222; (Ag): Ho 0.016 | experimental | [1] Wang 2009; _cites Gebhardt 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990079-8) | Table 5, p. 5, row 21; `ORC-6CZFUDQWGV` |  |
-| 1048.15 | eutectic: L ↔ (Ag) + Ag7 Ho2 |  | experimental | [1] Wang 2009; _cites Gebhardt 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990079-8) | p. 2; `ORC-AE7BCND5OJ.89cbff` | “Later, based on thermal analysis, metallography and X-ray methods, Gebhardt and Erdberg \[15\] investigated the phase diagram in the Ag-Ho system, and reported three stoichiometry compounds of the Ag7 Ho2 (melting point, 920 ◦ C), Ag2 Ho (melting point, 990 ◦ C) and AgHo (melting point, 1165 ◦ C), and also determined the maximum solid solubility of Ho in the fcc (Ag) (1.6 at.% Ho) and four eutectic…” |
 | 1038.15 | eutectic: L -> Ag51Ho14 + (Ag) | Ag51Ho14: Ho 0.222; (Ag): Ho 0.016 | experimental | [1] Wang 2009; _cites Wunderlin 1965_ | Table 5, p. 5, row 20; `ORC-4LFFWTCMPI` |  |
 
 ## Other properties

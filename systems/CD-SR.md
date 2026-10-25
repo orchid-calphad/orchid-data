@@ -66,8 +66,8 @@ Table: Invariant reactions reported in the literature for the Cd–Sr system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 594.15 | Liquid -> (Cd)+SrCd11 | Liquid: Cd 1; (Cd): Cd 1; SrCd11: Cd 0.9167; L: Cd 1 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 1; `ORC-GKS7HUWG4O` |  |
-| 591.75 | Liquid -> (Cd)+SrCd11 | Liquid: Cd 0.996; (Cd): Cd 1; SrCd11: Cd 0.9167; L: Cd 0.996 | model | [1] Zhang 2013 | Table 4, p. 5, row 2; `ORC-3NNV2QKVMR` |  |
+| 594.15 | eutectic: Liquid -> (Cd)+SrCd11 | Liquid: Cd 1; (Cd): Cd 1; SrCd11: Cd 0.9167; L: Cd 1 | experimental | [1] Zhang 2013; _cites Koster 1965_ | Table 4, p. 5, row 1; `ORC-GKS7HUWG4O` |  |
+| 591.75 | eutectic: Liquid -> (Cd)+SrCd11 | Liquid: Cd 0.996; (Cd): Cd 1; SrCd11: Cd 0.9167; L: Cd 0.996 | model | [1] Zhang 2013 | Table 4, p. 5, row 2; `ORC-3NNV2QKVMR` |  |
 
 ## Other properties
 

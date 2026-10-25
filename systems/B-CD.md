@@ -28,7 +28,7 @@ Table: Invariant reactions reported in the literature for the B–Cd system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 594.25 | Liquid(Cd) -> (βB)+(Cd) | Liquid(Cd): Cd 0.9987; (βB): Cd 0; (Cd): Cd 1 | model | [1] Zhang 2013 | Table 4, p. 5, row 27; `ORC-DQTHHXR3PT` |  |
+| 594.25 | eutectic: Liquid(Cd) -> (βB)+(Cd) | Liquid(Cd): Cd 0.9987; (βB): Cd 0; (Cd): Cd 1 | model | [1] Zhang 2013 | Table 4, p. 5, row 27; `ORC-DQTHHXR3PT` |  |
 
 ## Sources
 

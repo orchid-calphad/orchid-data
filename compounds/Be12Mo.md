@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Be12Mo
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -10 | kJ/mol (basis unstated) |  | 0.05 | 37.4 (model_calculated, calibrated) |  |  |  | 37.4 |
-| -12.2 | kJ/mol (basis unstated) |  | 0.05 | 93.19 (dft, calibrated) |  |  |  | 93.19 |
+| -12.2 | kJ/mol (basis unstated) |  | 0.05 | 87.58 (dft, calibrated) |  |  |  | 87.58 |
 
 ## Sources
 

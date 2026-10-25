@@ -1,10 +1,10 @@
 # Ba–Ni system
 
-> Ba–Ni system: 41 accepted literature values (mixing / partial 23, crystal structure 14, invariant reaction 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Ni system: 37 accepted literature values (mixing / partial 23, crystal structure 14) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-NI.html · Markdown: https://data.orchid-project.org/systems/BA-NI.md
 
-41 accepted literature values from 1 paper(s) (experimental 2, model 2, DFT 37); 1 calculated phase diagram(s).
+37 accepted literature values from 1 paper(s) (DFT 37); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-NI.json) · [CSV](https://data.orchid-project.org/systems/BA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-NI/BaNi-07Sha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-NI.html) · [Markdown](https://data.orchid-project.org/systems/BA-NI.md)
 
@@ -12,16 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 2 |
 | DFT | 37 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
-| phase transition | 1 |
 | mixing / partial | 23 |
 | crystal structure | 14 |
 
@@ -47,25 +43,7 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BA/BA-NI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BA/BA-NI.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ba–Ni system (3)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 873 | eutectic |  | experimental | [1] Shang 2007 | p. 1; `ORC-QEKI7FCCUS` | “In the consideration of the unusual distortion of the Ba liquidus caused by adjusting the melting point of Ba to the currently accepted value, the eutectic point was estimated to be 873 K.” |
-| 873 | eutectic: liquid → bcc (Ba) + fcc (Ni) |  | model | [1] Shang 2007 | p. 4; `ORC-UXB5TIAVIL.a206ac` | “The invariant reactions in the Ba-Ni system are listed in Table 4 with the liquid → bcc (Ba) + fcc (Ni) eutectic point at 873 K and the liquid1 → liquid2 + fcc (Ni) monotectic temperature at 1728 K which is close to the melting point of Ni, because the liquid Ni does not dissolve Ba.” |
-| 853 | eutectic: liquid → bcc (Ba) + fcc (Ni) |  | experimental | [1] Shang 2007; _cites Takeuchi 1966_ | p. 1; `ORC-VVYALRTTGT` | “In the Ba-Ni binary system, the liquid → bcc (Ba) + fcc (Ni) eutectic point was measured by Takeuchi et al. \[10\] to be 853 K at a composition of about 6 at.% Ni in liquid.” |
-
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ba–Ni system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1728 K | 1728 | other: liquid1 → liquid2 + fcc (Ni) | model | [1] Shang 2007 | p. 4; `ORC-UXB5TIAVIL.241f25` | “The invariant reactions in the Ba-Ni system are listed in Table 4 with the liquid → bcc (Ba) + fcc (Ni) eutectic point at 873 K and the liquid1 → liquid2 + fcc (Ni) monotectic temperature at 1728 K which is close to the melting point of Ni, because the liquid Ni does not dissolve Ba.” |
 
 ### Mixing / partial (23)
 

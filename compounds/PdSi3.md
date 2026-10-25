@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of PdSi3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 10.6 | kJ/mol (basis unstated) |  | 0.05 | 40.76 (dft, calibrated) |  |  |  | 40.76 |
+| 10.6 | kJ/mol (basis unstated) |  | 0.05 | 40.04 (dft, calibrated) |  |  |  | 40.04 |
 
 ## Sources
 

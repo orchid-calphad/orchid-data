@@ -1,10 +1,10 @@
 # Cr–V system
 
-> Cr–V system: 15 accepted literature values (heat capacity / entropy / enthalpy 12, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–V system: 12 accepted literature values (heat capacity / entropy / enthalpy 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-V.html · Markdown: https://data.orchid-project.org/systems/CR-V.md
 
-15 accepted literature values from 1 paper(s) (experimental 15); 4 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+12 accepted literature values from 1 paper(s) (experimental 12); 4 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-V.json) · [CSV](https://data.orchid-project.org/systems/CR-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-V/CrV-02Gho.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-V.html) · [Markdown](https://data.orchid-project.org/systems/CR-V.md)
 
@@ -12,13 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 3 |
 | heat capacity / entropy / enthalpy | 12 |
 
 ## Calculated phase diagrams
@@ -37,16 +36,6 @@ Table: Assessments with a calculated phase diagram
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CR/CR-V.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CR/CR-V.json) · [CALPHAD hull CrV-02Gho](https://data.orchid-project.org/hulls/calphad-sgte/CR/CR-V--CrV-02Gho.json) · [CALPHAD hull CrV-82Smi](https://data.orchid-project.org/hulls/calphad-sgte/CR/CR-V--CrV-82Smi.json) · [CALPHAD hull CrV-92Lee-LB](https://data.orchid-project.org/hulls/calphad-sgte/CR/CR-V--CrV-92Lee-LB.json)
 
 ## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Cr–V system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 310 K | 310 | magnetic | experimental | [1] Smith 1982; _cites Bolef 1963_ [doi](https://doi.org/10.1103/physrev.129.1063) | p. 3; `ORC-QOQCEPH2IP` | “Pure Cr is antiferromagnetic with a Ndel temperature near 310 K \[63Bol, 61Bac\].” |
-| Phase transition | 2023.15 K | 2023.15 | other | experimental | [1] Smith 1982; _cites Carlson 1959_ | p. 1; `ORC-EL2DQLTADO` | “The e a r l i e s t i n v e s t i g a t i o n , by Carlson et al. \[59Car\], was done w i t h c o m p a r a t i v e l y poor q u a l i t y m e t a l (99.7 wt.% V and 99 + wt.% Cr) and, even t h o u g h t h e melting points of t h a t i n v e s t i g a t i o n are low because of the low purity, the d a t a indicate a m i n i m u m in the m e l t i n g of V-Cr alloys n e a r 70 at.% Cr and 1750 ~” |
-| Phase transition | 2068.15 K | 2068.15 | other | experimental | [1] Smith 1982; _cites Yu 1971_ | p. 1; `ORC-KDWFHIEUW3` | “The t h i r d investigation, by Kocherzhinskii and S h i s h k i n \[71Koc\], a g a i n r e p o r t e d a m e l t i n g m i n i m u m , b u t on t h e o t h e r side of t h e s y s t e m n e a r 25 at.% Cr a n d 1795 ~” |
 
 ### Heat capacity / entropy / enthalpy (12)
 

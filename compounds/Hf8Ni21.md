@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Hf8Ni21
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -48.09 | kJ/mol (basis unstated) |  | 0.005 | 27.19 (dft, calibrated) |  |  |  | 27.19 |
+| -48.09 | kJ/mol (basis unstated) |  | 0.005 | 29.16 (dft, calibrated) |  |  |  | 29.16 |
 
 ## Sources
 

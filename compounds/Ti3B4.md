@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Ti3B4
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -94.3 | kJ/mol (basis unstated) |  | 0.05 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
-| -85.5 | kJ/mol (basis unstated) |  | 0.05 | 71.33 (dft, calibrated) |  |  |  | 71.33 |
+| -85.5 | kJ/mol (basis unstated) |  | 0.05 | 70.07 (dft, calibrated) |  |  |  | 70.07 |
 
 ## Sources
 

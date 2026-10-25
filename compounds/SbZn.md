@@ -52,10 +52,10 @@ Table: Uncertainty budget of the literature values of SbZn
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -20.011 | kJ/mol-atom |  | 5.000e-4 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -20.011 | kJ/mol-atom |  | 5.000e-4 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -15.052 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -15.052 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -14.853 | kJ/mol-atom |  | 5.000e-4 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -14.853 | kJ/mol-atom |  | 5.000e-4 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -15.052 | kJ/mol-atom |  | 5.000e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -15.052 | kJ/mol-atom |  | 5.000e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -14.853 | kJ/mol-atom |  | 5.000e-4 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -14.853 | kJ/mol-atom |  | 5.000e-4 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -12.845 | kJ/mol-atom |  | 5.000e-4 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -12.845 | kJ/mol-atom |  | 5.000e-4 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -11.89 | kJ/mol-atom |  | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |

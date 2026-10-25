@@ -96,7 +96,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:bcc-a2)
 
 Names (13): _corpus: _corpus:phase:mn-ti:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2009.08.002:bcc(βTi), paper:10.1016/j.calphad.2009.08.002:bcc(δMn), paper:10.1016/j.jallcom.2021.161957:βTi, paper:10.1016/j.jallcom.2021.161957:δMn, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1039/c6cp04542a:(βTi), paper:10.1039/c6cp04542a:(δMn)  
+_paper: _paper:10.1016/j.calphad.2009.08.002:bcc(βTi), paper:10.1016/j.calphad.2009.08.002:bcc(δMn), paper:10.1016/j.jallcom.2021.161957:βTi, paper:10.1016/j.jallcom.2021.161957:δMn, paper:10.1039/c6cp04542a:(βTi), paper:10.1039/c6cp04542a:(δMn), paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:MnTi-09Che.tdb:BCC_A2, tdb:MnTi-16Kha.tdb:BCC_A2, tdb:MnTi-22Zhe.tdb:BCC_A2, tdb:MnTi-23Wal-3g.tdb:BCC_A2, tdb:MnTi-98Sau-LB.tdb:BCC_A2  
 
 
@@ -137,7 +137,7 @@ _tdb: _tdb:MnTi-09Che.tdb:BCC_A2, tdb:MnTi-16Kha.tdb:BCC_A2, tdb:MnTi-22Zhe.tdb:
 48: CONST BCC_A2 : MN% TI% : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1039/c6cp04542a](https://doi.org/10.1039/c6cp04542a) A. U. Khan, P. Brož, M. Premović, J. Pavlů, J. Vřeštál, X. Yan et al., The Ti–Mn system revisited: experimental investigation and thermodynamic modelling, Phys. Chem. Chem. Phys. 18, 23326-23339 (2016).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -147,8 +147,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102555](https://doi.org/10.1016/j.calphad.2023.102555) A. Walnsch, A. Leineweber, M.J. Kriegel, Calphad, 81, 102555(2023).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02868287](https://doi.org/10.1007/bf02868287) J.L. Murray, The Mn–Ti (Manganese-Titanium) system, Bull. Alloy Phase Diagr. 2 (1981) 334–343.  
 _cited as the source of values for this phase_
 
@@ -166,7 +164,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:c14-laves)
 
 Names (10): _corpus: _corpus:phase:mn-ti:c14-laves  
-_paper: _paper:10.1016/j.calphad.2009.08.002:LavesC14, paper:10.1016/j.jallcom.2021.161957:C14Laves, paper:10.1016/s0364-5916(98)00037-6:Laves-C14, paper:10.1039/c6cp04542a:TiMn2  
+_paper: _paper:10.1016/j.calphad.2009.08.002:LavesC14, paper:10.1016/j.jallcom.2021.161957:C14Laves, paper:10.1039/c6cp04542a:TiMn2, paper:sha256-85fd53a1a176b694:Laves-C14  
 _tdb: _tdb:MnTi-09Che.tdb:C14_LAVES, tdb:MnTi-16Kha.tdb:C14_LAVES, tdb:MnTi-22Zhe.tdb:C14_LAVES, tdb:MnTi-23Wal-3g.tdb:C14_LAVES, tdb:MnTi-98Sau-LB.tdb:C14_LAVES  
 
 
@@ -207,7 +205,7 @@ _tdb: _tdb:MnTi-09Che.tdb:C14_LAVES, tdb:MnTi-16Kha.tdb:C14_LAVES, tdb:MnTi-22Zh
 83: CONST C14_LAVES : MN% TI : MN TI% : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1039/c6cp04542a](https://doi.org/10.1039/c6cp04542a) A. U. Khan, P. Brož, M. Premović, J. Pavlů, J. Vřeštál, X. Yan et al., The Ti–Mn system revisited: experimental investigation and thermodynamic modelling, Phys. Chem. Chem. Phys. 18, 23326-23339 (2016).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -217,8 +215,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102555](https://doi.org/10.1016/j.calphad.2023.102555) A. Walnsch, A. Leineweber, M.J. Kriegel, Calphad, 81, 102555(2023).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02868287](https://doi.org/10.1007/bf02868287) J.L. Murray, The Mn–Ti (Manganese-Titanium) system, Bull. Alloy Phase Diagr. 2 (1981) 334–343.  
 _cited as the source of values for this phase_
 
@@ -232,7 +228,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:cbcc-a12)
 
 Names (10): _corpus: _corpus:phase:mn-ti:cbcc-a12  
-_paper: _paper:10.1016/j.calphad.2009.08.002:αMn, paper:10.1016/j.jallcom.2021.161957:αMn, paper:10.1016/s0364-5916(98)00037-6:cbcc-A12, paper:10.1039/c6cp04542a:(αMn)  
+_paper: _paper:10.1016/j.calphad.2009.08.002:αMn, paper:10.1016/j.jallcom.2021.161957:αMn, paper:10.1039/c6cp04542a:(αMn), paper:sha256-85fd53a1a176b694:cbcc-A12  
 _tdb: _tdb:MnTi-09Che.tdb:CBCC_A12, tdb:MnTi-16Kha.tdb:CBCC_A12, tdb:MnTi-22Zhe.tdb:CBCC_A12, tdb:MnTi-23Wal-3g.tdb:CBCC_A12, tdb:MnTi-98Sau-LB.tdb:CBCC_A12  
 
 
@@ -273,7 +269,7 @@ _tdb: _tdb:MnTi-09Che.tdb:CBCC_A12, tdb:MnTi-16Kha.tdb:CBCC_A12, tdb:MnTi-22Zhe.
 58: CONST CBCC_A12 : MN% TI : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1039/c6cp04542a](https://doi.org/10.1039/c6cp04542a) A. U. Khan, P. Brož, M. Premović, J. Pavlů, J. Vřeštál, X. Yan et al., The Ti–Mn system revisited: experimental investigation and thermodynamic modelling, Phys. Chem. Chem. Phys. 18, 23326-23339 (2016).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -283,8 +279,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102555](https://doi.org/10.1016/j.calphad.2023.102555) A. Walnsch, A. Leineweber, M.J. Kriegel, Calphad, 81, 102555(2023).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02868287](https://doi.org/10.1007/bf02868287) J.L. Murray, The Mn–Ti (Manganese-Titanium) system, Bull. Alloy Phase Diagr. 2 (1981) 334–343.  
 _cited as the source of values for this phase_
 
@@ -298,7 +292,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:cub-a13)
 
 Names (9): _corpus: _corpus:phase:mn-ti:cub-a13  
-_paper: _paper:10.1016/j.calphad.2009.08.002:βMn, paper:10.1016/s0364-5916(98)00037-6:cub-A13, paper:10.1039/c6cp04542a:(βMn)  
+_paper: _paper:10.1016/j.calphad.2009.08.002:βMn, paper:10.1039/c6cp04542a:(βMn), paper:sha256-85fd53a1a176b694:cub-A13  
 _tdb: _tdb:MnTi-09Che.tdb:CUB_A13, tdb:MnTi-16Kha.tdb:CUB_A13, tdb:MnTi-22Zhe.tdb:CUB_A13, tdb:MnTi-23Wal-3g.tdb:CUB_A13, tdb:MnTi-98Sau-LB.tdb:CUB_A13  
 
 
@@ -339,7 +333,7 @@ _tdb: _tdb:MnTi-09Che.tdb:CUB_A13, tdb:MnTi-16Kha.tdb:CUB_A13, tdb:MnTi-22Zhe.td
 63: CONST CUB_A13 : MN% TI : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1039/c6cp04542a](https://doi.org/10.1039/c6cp04542a) A. U. Khan, P. Brož, M. Premović, J. Pavlů, J. Vřeštál, X. Yan et al., The Ti–Mn system revisited: experimental investigation and thermodynamic modelling, Phys. Chem. Chem. Phys. 18, 23326-23339 (2016).  
 _assessment that models this phase; reports values for this phase_
@@ -349,8 +343,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2021.161957](https://doi.org/10.1016/j.jallcom.2021.161957) Weisen Zheng, Wei Song, Tong Wu, Jingya Wang, Yanlin He, Xiao-Gang Lu, Experimental investigation and thermodynamic modeling of the ternary Ti–Fe–Mn system for hydrogen storage applications, Journal of Alloys and Compounds 891, 161957 (2022).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## FCC_A1 (Mn–Ti)
 
@@ -361,7 +353,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:fcc-a1)
 
 Names (8): _corpus: _corpus:phase:mn-ti:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:fcc-A1, paper:10.1039/c6cp04542a:(γMn)  
+_paper: _paper:10.1039/c6cp04542a:(γMn), paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:MnTi-09Che.tdb:FCC_A1, tdb:MnTi-16Kha.tdb:FCC_A1, tdb:MnTi-22Zhe.tdb:FCC_A1, tdb:MnTi-23Wal-3g.tdb:FCC_A1, tdb:MnTi-98Sau-LB.tdb:FCC_A1  
 
 
@@ -402,7 +394,7 @@ _tdb: _tdb:MnTi-09Che.tdb:FCC_A1, tdb:MnTi-16Kha.tdb:FCC_A1, tdb:MnTi-22Zhe.tdb:
 43: CONST FCC_A1 : MN% TI : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1039/c6cp04542a](https://doi.org/10.1039/c6cp04542a) A. U. Khan, P. Brož, M. Premović, J. Pavlů, J. Vřeštál, X. Yan et al., The Ti–Mn system revisited: experimental investigation and thermodynamic modelling, Phys. Chem. Chem. Phys. 18, 23326-23339 (2016).  
 _assessment that models this phase; reports values for this phase_
@@ -412,8 +404,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2021.161957](https://doi.org/10.1016/j.jallcom.2021.161957) Weisen Zheng, Wei Song, Tong Wu, Jingya Wang, Yanlin He, Xiao-Gang Lu, Experimental investigation and thermodynamic modeling of the ternary Ti–Fe–Mn system for hydrogen storage applications, Journal of Alloys and Compounds 891, 161957 (2022).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## HCP_A3 (Mn–Ti)
 
@@ -424,7 +414,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:hcp-a3)
 
 Names (9): _corpus: _corpus:phase:mn-ti:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2021.161957:αTi, paper:10.1016/s0364-5916(98)00037-6:hcp-A3, paper:10.1039/c6cp04542a:(αTi)  
+_paper: _paper:10.1016/j.jallcom.2021.161957:αTi, paper:10.1039/c6cp04542a:(αTi), paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:MnTi-09Che.tdb:HCP_A3, tdb:MnTi-16Kha.tdb:HCP_A3, tdb:MnTi-22Zhe.tdb:HCP_A3, tdb:MnTi-23Wal-3g.tdb:HCP_A3, tdb:MnTi-98Sau-LB.tdb:HCP_A3  
 
 
@@ -465,7 +455,7 @@ _tdb: _tdb:MnTi-09Che.tdb:HCP_A3, tdb:MnTi-16Kha.tdb:HCP_A3, tdb:MnTi-22Zhe.tdb:
 53: CONST HCP_A3 : MN TI% : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.jallcom.2021.161957](https://doi.org/10.1016/j.jallcom.2021.161957) Weisen Zheng, Wei Song, Tong Wu, Jingya Wang, Yanlin He, Xiao-Gang Lu, Experimental investigation and thermodynamic modeling of the ternary Ti–Fe–Mn system for hydrogen storage applications, Journal of Alloys and Compounds 891, 161957 (2022).  
 _assessment that models this phase; reports values for this phase_
@@ -477,8 +467,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02868287](https://doi.org/10.1007/bf02868287) J.L. Murray, The Mn–Ti (Manganese-Titanium) system, Bull. Alloy Phase Diagr. 2 (1981) 334–343.  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Mn–Ti)
 
@@ -489,7 +477,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:liquid)
 
 Names (12): _corpus: _corpus:phase:mn-ti:liquid  
-_paper: _paper:10.1016/j.calphad.2009.08.002:Liquid, paper:10.1016/j.calphad.2009.08.002:liquid, paper:10.1016/j.jallcom.2021.161957:L, paper:10.1016/j.jallcom.2021.161957:liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid, paper:10.1039/c6cp04542a:L  
+_paper: _paper:10.1016/j.calphad.2009.08.002:Liquid, paper:10.1016/j.calphad.2009.08.002:liquid, paper:10.1016/j.jallcom.2021.161957:L, paper:10.1016/j.jallcom.2021.161957:liquid, paper:10.1039/c6cp04542a:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:MnTi-09Che.tdb:LIQUID, tdb:MnTi-16Kha.tdb:LIQUID, tdb:MnTi-22Zhe.tdb:LIQUID, tdb:MnTi-23Wal-3g.tdb:LIQUID, tdb:MnTi-98Sau-LB.tdb:LIQUID  
 
 
@@ -530,7 +518,7 @@ _tdb: _tdb:MnTi-09Che.tdb:LIQUID, tdb:MnTi-16Kha.tdb:LIQUID, tdb:MnTi-22Zhe.tdb:
 38: CONST LIQUID:L : MN TI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.jallcom.2021.161957](https://doi.org/10.1016/j.jallcom.2021.161957) Weisen Zheng, Wei Song, Tong Wu, Jingya Wang, Yanlin He, Xiao-Gang Lu, Experimental investigation and thermodynamic modeling of the ternary Ti–Fe–Mn system for hydrogen storage applications, Journal of Alloys and Compounds 891, 161957 (2022).  
 _assessment that models this phase; reports values for this phase_
@@ -540,8 +528,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102555](https://doi.org/10.1016/j.calphad.2023.102555) A. Walnsch, A. Leineweber, M.J. Kriegel, Calphad, 81, 102555(2023).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02868287](https://doi.org/10.1007/bf02868287) J.L. Murray, The Mn–Ti (Manganese-Titanium) system, Bull. Alloy Phase Diagr. 2 (1981) 334–343.  
 _cited as the source of values for this phase_
 
@@ -629,7 +615,7 @@ _tdb: _tdb:MnTi-98Sau-LB.tdb:MN2TI_C14
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:mn3ti)
 
 Names (10): _corpus: _corpus:phase:mn-ti:mn3ti  
-_paper: _paper:10.1016/j.calphad.2009.08.002:TiMn3, paper:10.1016/j.jallcom.2021.161957:TiMn3, paper:10.1016/s0364-5916(98)00037-6:Mn3Ti, paper:10.1039/c6cp04542a:TiMn3  
+_paper: _paper:10.1016/j.calphad.2009.08.002:TiMn3, paper:10.1016/j.jallcom.2021.161957:TiMn3, paper:10.1039/c6cp04542a:TiMn3, paper:sha256-85fd53a1a176b694:Mn3Ti  
 _tdb: _tdb:MnTi-09Che.tdb:MN3TI, tdb:MnTi-16Kha.tdb:MN3TI, tdb:MnTi-22Zhe.tdb:MN3TI, tdb:MnTi-23Wal-3g.tdb:MN3TI, tdb:MnTi-98Sau-LB.tdb:MN3TI  
 
 
@@ -670,7 +656,7 @@ _tdb: _tdb:MnTi-09Che.tdb:MN3TI, tdb:MnTi-16Kha.tdb:MN3TI, tdb:MnTi-22Zhe.tdb:MN
 73: CONST MN3TI : MN : TI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.jallcom.2021.161957](https://doi.org/10.1016/j.jallcom.2021.161957) Weisen Zheng, Wei Song, Tong Wu, Jingya Wang, Yanlin He, Xiao-Gang Lu, Experimental investigation and thermodynamic modeling of the ternary Ti–Fe–Mn system for hydrogen storage applications, Journal of Alloys and Compounds 891, 161957 (2022).  
 _assessment that models this phase; reports values for this phase_
@@ -680,8 +666,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102555](https://doi.org/10.1016/j.calphad.2023.102555) A. Walnsch, A. Leineweber, M.J. Kriegel, Calphad, 81, 102555(2023).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02868287](https://doi.org/10.1007/bf02868287) J.L. Murray, The Mn–Ti (Manganese-Titanium) system, Bull. Alloy Phase Diagr. 2 (1981) 334–343.  
 _cited as the source of values for this phase_
 
@@ -702,7 +686,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:mn4ti)
 
 Names (10): _corpus: _corpus:phase:mn-ti:mn4ti  
-_paper: _paper:10.1016/j.calphad.2009.08.002:TiMn4, paper:10.1016/j.jallcom.2021.161957:TiMn4, paper:10.1016/s0364-5916(98)00037-6:Mn4Ti, paper:10.1039/c6cp04542a:TiMn4  
+_paper: _paper:10.1016/j.calphad.2009.08.002:TiMn4, paper:10.1016/j.jallcom.2021.161957:TiMn4, paper:10.1039/c6cp04542a:TiMn4, paper:sha256-85fd53a1a176b694:Mn4Ti  
 _tdb: _tdb:MnTi-09Che.tdb:MN4TI, tdb:MnTi-16Kha.tdb:MN4TI, tdb:MnTi-22Zhe.tdb:MN4TI, tdb:MnTi-23Wal-3g.tdb:MN4TI, tdb:MnTi-98Sau-LB.tdb:MN4TI  
 
 
@@ -743,7 +727,7 @@ _tdb: _tdb:MnTi-09Che.tdb:MN4TI, tdb:MnTi-16Kha.tdb:MN4TI, tdb:MnTi-22Zhe.tdb:MN
 68: CONST MN4TI : MN : TI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.jallcom.2021.161957](https://doi.org/10.1016/j.jallcom.2021.161957) Weisen Zheng, Wei Song, Tong Wu, Jingya Wang, Yanlin He, Xiao-Gang Lu, Experimental investigation and thermodynamic modeling of the ternary Ti–Fe–Mn system for hydrogen storage applications, Journal of Alloys and Compounds 891, 161957 (2022).  
 _assessment that models this phase; reports values for this phase_
@@ -753,8 +737,6 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102555](https://doi.org/10.1016/j.calphad.2023.102555) A. Walnsch, A. Leineweber, M.J. Kriegel, Calphad, 81, 102555(2023).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1007/bf02868287](https://doi.org/10.1007/bf02868287) J.L. Murray, The Mn–Ti (Manganese-Titanium) system, Bull. Alloy Phase Diagr. 2 (1981) 334–343.  
 _cited as the source of values for this phase_
 
@@ -853,7 +835,7 @@ _assessment that models this phase; reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:mnti-alpha)
 
 Names (4): _corpus: _corpus:phase:mn-ti:mnti-alpha  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:MnTi-α  
+_paper: _paper:sha256-85fd53a1a176b694:MnTi-α  
 _tdb: _tdb:MnTi-09Che.tdb:MNTI_ALPHA, tdb:MnTi-98Sau-LB.tdb:MNTI_ALPHA  
 
 
@@ -873,12 +855,10 @@ _tdb: _tdb:MnTi-09Che.tdb:MNTI_ALPHA, tdb:MnTi-98Sau-LB.tdb:MNTI_ALPHA
 88: CONST MNTI_ALPHA : MN : TI : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.08.002](https://doi.org/10.1016/j.calphad.2009.08.002) Le Yi Chen, Chong He Li, Kun Wang, He Quan Dong, Xiong Gang Lu, Wei Zhong Ding, Thermodynamic modeling of Ti–Cr–Mn ternary system, Calphad 33, 658-663 (2009).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MNTI_BETA (Mn–Ti)
 
@@ -893,7 +873,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:mnti-beta)
 
 Names (5): _corpus: _corpus:phase:mn-ti:mnti-beta  
-_paper: _paper:10.1016/j.calphad.2009.08.002:βTiMn, paper:10.1016/s0364-5916(98)00037-6:MnTi-β  
+_paper: _paper:10.1016/j.calphad.2009.08.002:βTiMn, paper:sha256-85fd53a1a176b694:MnTi-β  
 _tdb: _tdb:MnTi-09Che.tdb:MNTI_BETA, tdb:MnTi-98Sau-LB.tdb:MNTI_BETA  
 
 
@@ -913,12 +893,10 @@ _tdb: _tdb:MnTi-09Che.tdb:MNTI_BETA, tdb:MnTi-98Sau-LB.tdb:MNTI_BETA
 93: CONST MNTI_BETA : MN : TI : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.08.002](https://doi.org/10.1016/j.calphad.2009.08.002) Le Yi Chen, Chong He Li, Kun Wang, He Quan Dong, Xiong Gang Lu, Wei Zhong Ding, Thermodynamic modeling of Ti–Cr–Mn ternary system, Calphad 33, 658-663 (2009).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## MNTI_D8B (Mn–Ti)
 

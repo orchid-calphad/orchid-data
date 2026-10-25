@@ -113,7 +113,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zr:a5-bct)
 
 Names (11): _corpus: _corpus:phase:sn-zr:a5-bct, corpus:phase:sn-zr:bct-a5  
-_paper: _paper:10.1016/s0364-5916(98)00021-2:β Sn, paper:10.1016/s0364-5916(98)00037-6:bct-A5  
+_paper: _paper:10.1016/s0364-5916(98)00021-2:β Sn, paper:sha256-85fd53a1a176b694:bct-A5  
 _tdb: _tdb:SnZr-08Jer.tdb:BCT_A5, tdb:SnZr-19Laf.tdb:BCT_A5, tdb:SnZr-24Pen.tdb:BCT_A5, tdb:SnZr-98Kor.tdb:BCT_A5, tdb:SnZr-98Sub-LB.tdb:BCT_A5, tdb:SnZr-98Sub-orig.tdb:BCT_A5, tdb:SnZr-99Dup.tdb:BCT_A5  
 
 
@@ -168,7 +168,7 @@ _tdb: _tdb:SnZr-08Jer.tdb:BCT_A5, tdb:SnZr-19Laf.tdb:BCT_A5, tdb:SnZr-24Pen.tdb:
 54: CONST BCT_A5 : SN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) N. Subasic, Calphad, 22, 157-65(1998).  
 _assessment that models this phase; reports values for this phase_
@@ -180,8 +180,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0022-3115(99)00125-7](https://doi.org/10.1016/S0022-3115%2899%2900125-7) N. Dupin, I. Ansara, C. Servant, C. Toffolon, C. Lemaignan, J.C. Brachet, J. Nucl. Mater., 275, 287-95(1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## BCC_A2 (Sn–Zr)
 
@@ -192,7 +190,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zr:bcc-a2)
 
 Names (11): _corpus: _corpus:phase:sn-zr:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2008.04.001:βZr, paper:10.1016/s0364-5916(98)00021-2:β Zr, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:10.1016/j.calphad.2008.04.001:βZr, paper:10.1016/s0364-5916(98)00021-2:β Zr, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:SnZr-08Jer.tdb:BCC_A2, tdb:SnZr-19Laf.tdb:BCC_A2, tdb:SnZr-24Pen.tdb:BCC_A2, tdb:SnZr-98Kor.tdb:BCC_A2, tdb:SnZr-98Sub-LB.tdb:BCC_A2, tdb:SnZr-98Sub-orig.tdb:BCC_A2, tdb:SnZr-99Dup.tdb:BCC_A2  
 
 
@@ -247,7 +245,7 @@ _tdb: _tdb:SnZr-08Jer.tdb:BCC_A2, tdb:SnZr-19Laf.tdb:BCC_A2, tdb:SnZr-24Pen.tdb:
 39: CONST BCC_A2 : SN ZR% : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) N. Subasic, Calphad, 22, 157-65(1998).  
 _assessment that models this phase; reports values for this phase_
@@ -259,8 +257,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0022-3115(99)00125-7](https://doi.org/10.1016/S0022-3115%2899%2900125-7) N. Dupin, I. Ansara, C. Servant, C. Toffolon, C. Lemaignan, J.C. Brachet, J. Nucl. Mater., 275, 287-95(1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## C14_LAVES (Sn–Zr)
 
@@ -428,7 +424,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zr:hcp-a3)
 
 Names (9): _corpus: _corpus:phase:sn-zr:hcp-a3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:SnZr-08Jer.tdb:HCP_A3, tdb:SnZr-19Laf.tdb:HCP_A3, tdb:SnZr-24Pen.tdb:HCP_A3, tdb:SnZr-98Kor.tdb:HCP_A3, tdb:SnZr-98Sub-LB.tdb:HCP_A3, tdb:SnZr-98Sub-orig.tdb:HCP_A3, tdb:SnZr-99Dup.tdb:HCP_A3  
 
 
@@ -483,7 +479,7 @@ _tdb: _tdb:SnZr-08Jer.tdb:HCP_A3, tdb:SnZr-19Laf.tdb:HCP_A3, tdb:SnZr-24Pen.tdb:
 44: CONST HCP_A3 : SN ZR% : VA: !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.04.001](https://doi.org/10.1016/j.calphad.2008.04.001) R. Jerlerud Pérez, C. Toffolon-Masclet, J.-M. Joubert, B. Sundman, The Zr–Sn binary system: New experimental results and thermodynamic assessment, Calphad 32, 593-601 (2008).  
 _assessment that models this phase_
@@ -495,8 +491,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) N. Subasic, Calphad, 22, 157-65(1998).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## LIQUID (Sn–Zr)
 
@@ -507,7 +501,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zr:liquid)
 
 Names (11): _corpus: _corpus:phase:sn-zr:liquid  
-_paper: _paper:10.1016/j.calphad.2008.04.001:Liq, paper:10.1016/s0364-5916(98)00021-2:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1016/j.calphad.2008.04.001:Liq, paper:10.1016/s0364-5916(98)00021-2:L, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:SnZr-08Jer.tdb:LIQUID, tdb:SnZr-19Laf.tdb:LIQUID, tdb:SnZr-24Pen.tdb:LIQUID, tdb:SnZr-98Kor.tdb:LIQUID, tdb:SnZr-98Sub-LB.tdb:LIQUID, tdb:SnZr-98Sub-orig.tdb:LIQUID, tdb:SnZr-99Dup.tdb:LIQUID  
 
 
@@ -562,7 +556,7 @@ _tdb: _tdb:SnZr-08Jer.tdb:LIQUID, tdb:SnZr-19Laf.tdb:LIQUID, tdb:SnZr-24Pen.tdb:
 29: CONST LIQUID:L : SN ZR : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) N. Subasic, Calphad, 22, 157-65(1998).  
 _assessment that models this phase; reports values for this phase_
@@ -574,8 +568,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0022-3115(99)00125-7](https://doi.org/10.1016/S0022-3115%2899%2900125-7) N. Dupin, I. Ansara, C. Servant, C. Toffolon, C. Lemaignan, J.C. Brachet, J. Nucl. Mater., 275, 287-95(1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1021/cm00007a005](https://doi.org/10.1021/cm00007a005) Young Uk Kwon, John D. Corbett, The zirconium-tin system, with particular attention to the Zr5Sn3-Zr5Sn4 region and Zr4Sn, Chem. Mater. 2, 27-33 (1990).  
 _cited as the source of values for this phase_
 
@@ -592,7 +584,7 @@ _cited as the source of values for this phase_
 Names (13): _corpus: _corpus:phase:sn-zr:sn2zr-c54  
 _mp: _mp:mp-aaabqzjc  
 _oqmd: _oqmd:oqmd-2028785  
-_paper: _paper:10.1016/j.calphad.2008.04.001:ZrSn2, paper:10.1016/s0364-5916(98)00021-2:ZrSn2, paper:10.1016/s0364-5916(98)00037-6:Sn2Zr  
+_paper: _paper:10.1016/j.calphad.2008.04.001:ZrSn2, paper:10.1016/s0364-5916(98)00021-2:ZrSn2, paper:sha256-85fd53a1a176b694:Sn2Zr  
 _tdb: _tdb:SnZr-08Jer.tdb:SN2ZR_C54, tdb:SnZr-19Laf.tdb:SN2ZR_C54, tdb:SnZr-24Pen.tdb:SN2ZR_C54, tdb:SnZr-98Kor.tdb:SN2ZR_C54, tdb:SnZr-98Sub-LB.tdb:SN2ZR_C54, tdb:SnZr-98Sub-orig.tdb:SN2ZR_C54, tdb:SnZr-99Dup.tdb:SN2ZR_C54  
 
 
@@ -647,7 +639,7 @@ _tdb: _tdb:SnZr-08Jer.tdb:SN2ZR_C54, tdb:SnZr-19Laf.tdb:SN2ZR_C54, tdb:SnZr-24Pe
 59: CONST SN2ZR_C54 : SN : ZR : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) N. Subasic, Calphad, 22, 157-65(1998).  
 _assessment that models this phase; reports values for this phase_
@@ -659,8 +651,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0022-3115(99)00125-7](https://doi.org/10.1016/S0022-3115%2899%2900125-7) N. Dupin, I. Ansara, C. Servant, C. Toffolon, C. Lemaignan, J.C. Brachet, J. Nucl. Mater., 275, 287-95(1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## SN3ZR5_D88 (Sn–Zr)
 
@@ -733,7 +723,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zr:sn3zr5-eta)
 
 Names (7): _corpus: _corpus:phase:sn-zr:sn3zr5-eta  
-_paper: _paper:10.1016/j.calphad.2008.04.001:η, paper:10.1016/j.calphad.2008.04.001:η(Sn rich), paper:10.1016/s0364-5916(98)00037-6:Sn3Zr5  
+_paper: _paper:10.1016/j.calphad.2008.04.001:η, paper:10.1016/j.calphad.2008.04.001:η(Sn rich), paper:sha256-85fd53a1a176b694:Sn3Zr5  
 _tdb: _tdb:SnZr-08Jer.tdb:SN3ZR5_ETA, tdb:SnZr-19Laf.tdb:SN3ZR5_ETA, tdb:SnZr-24Pen.tdb:SN3ZR5_ETA  
 
 
@@ -760,7 +750,7 @@ _tdb: _tdb:SnZr-08Jer.tdb:SN3ZR5_ETA, tdb:SnZr-19Laf.tdb:SN3ZR5_ETA, tdb:SnZr-24
 68: CONST SN3ZR5_ETA : SN : ZR : SN VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.04.001](https://doi.org/10.1016/j.calphad.2008.04.001) R. Jerlerud Pérez, C. Toffolon-Masclet, J.-M. Joubert, B. Sundman, The Zr–Sn binary system: New experimental results and thermodynamic assessment, Calphad 32, 593-601 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -768,8 +758,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2024.102672](https://doi.org/10.1016/j.calphad.2024.102672) J. Peng, J. Shen, X. Feng, Z. Cheng, Calphad, 85, 102672(2024).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 - [doi:10.1021/cm00007a005](https://doi.org/10.1021/cm00007a005) Young Uk Kwon, John D. Corbett, The zirconium-tin system, with particular attention to the Zr5Sn3-Zr5Sn4 region and Zr4Sn, Chem. Mater. 2, 27-33 (1990).  
 _cited as the source of values for this phase_
 
@@ -790,7 +778,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zr:snzr4-a15)
 
 Names (11): _corpus: _corpus:phase:sn-zr:snzr4-a15  
-_paper: _paper:10.1016/j.calphad.2008.04.001:A15, paper:10.1016/s0364-5916(98)00021-2:Zr4Sn, paper:10.1016/s0364-5916(98)00037-6:SnZr4  
+_paper: _paper:10.1016/j.calphad.2008.04.001:A15, paper:10.1016/s0364-5916(98)00021-2:Zr4Sn, paper:sha256-85fd53a1a176b694:SnZr4  
 _tdb: _tdb:SnZr-08Jer.tdb:SNZR4_A15, tdb:SnZr-19Laf.tdb:SNZR4_A15, tdb:SnZr-24Pen.tdb:SNZR4_A15, tdb:SnZr-98Kor.tdb:SNZR4_A15, tdb:SnZr-98Sub-LB.tdb:SNZR4_A15, tdb:SnZr-98Sub-orig.tdb:SNZR4_A15, tdb:SnZr-99Dup.tdb:SNZR4_A15  
 
 
@@ -845,7 +833,7 @@ _tdb: _tdb:SnZr-08Jer.tdb:SNZR4_A15, tdb:SnZr-19Laf.tdb:SNZR4_A15, tdb:SnZr-24Pe
 69: CONST SNZR4_A15 : SN : ZR : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.04.001](https://doi.org/10.1016/j.calphad.2008.04.001) R. Jerlerud Pérez, C. Toffolon-Masclet, J.-M. Joubert, B. Sundman, The Zr–Sn binary system: New experimental results and thermodynamic assessment, Calphad 32, 593-601 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -857,8 +845,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0022-3115(99)00125-7](https://doi.org/10.1016/S0022-3115%2899%2900125-7) N. Dupin, I. Ansara, C. Servant, C. Toffolon, C. Lemaignan, J.C. Brachet, J. Nucl. Mater., 275, 287-95(1999).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

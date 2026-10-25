@@ -1,10 +1,10 @@
 # Gd–Mo system
 
-> Gd–Mo system: 20 accepted literature values (invariant reaction 11, phase equilibrium 5, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Mo system: 16 accepted literature values (invariant reaction 11, phase equilibrium 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-MO.html · Markdown: https://data.orchid-project.org/systems/GD-MO.md
 
-20 accepted literature values from 2 paper(s) (experimental 12, model 7, unspecified 1); 2 calculated phase diagram(s).
+16 accepted literature values from 2 paper(s) (experimental 9, model 6, unspecified 1); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MO.json) · [CSV](https://data.orchid-project.org/systems/GD-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-MO/GdMo-01Zin-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/GD-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MO.html) · [Markdown](https://data.orchid-project.org/systems/GD-MO.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 7 |
+| experimental | 9 |
+| model | 6 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 11 |
-| phase transition | 4 |
 | phase equilibrium | 5 |
 
 ## Calculated phase diagrams
@@ -67,17 +66,6 @@ Table: Invariant reactions reported in the literature for the Gd–Mo system (11
 | 1489 | eutectoid: bcc-Gd + bcc-Mo -> hcp-Gd | bcc-Gd: Mo 0.0036; bcc-Mo: Mo 0.99986; hcp-Gd: Mo 0 | model | [1] Zinkevich 2001 | Table 5, p. 7, row 5; `ORC-HJMLKH6BIQ` |  |
 
 ## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Gd–Mo system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1489 K | 1489 | other: bcc-Gd ⫹ bcc-Mo ⇔ hcp-Gd | model | [1] Zinkevich 2001 | p. 7; `ORC-TTLMUDTGRV` | “A eutectoid invariant reaction bcc-Gd ⫹ bcc-Mo ⇔ hcp-Gd has been predicted at T ⫽ 1489 K (Fig. 2b, Table 5).” |
-| Phase transition | 1873 K | 1873 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2; `ORC-FCT4EHHLP2.af2d9b` | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
-| Phase transition | 2783 K | 2783 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2; `ORC-FCT4EHHLP2.b7e8b1` | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
-| Phase transition | 2843 K | 2843 | other | experimental | [1] Zinkevich 2001; _cites Chuang 1966_ | p. 2; `ORC-FCT4EHHLP2.861725` | “The bcc-Mo solidus composition increases from 0.09 at.% Gd at 1873 K to 0.94 at.% Gd at 2783 K and then decreases to 0.05 at.% Gd at 2843 K.” |
 
 ### Phase equilibrium (5)
 

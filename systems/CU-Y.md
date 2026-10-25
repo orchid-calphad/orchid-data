@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/CU-Y.html · Markdown: https://data.orchid-project.org/systems/CU-Y.md
 
-71 accepted literature values from 2 paper(s) (experimental 51, model 10, unspecified 10); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+71 accepted literature values from 2 paper(s) (experimental 51, model 20); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-Y.json) · [CSV](https://data.orchid-project.org/systems/CU-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-Y/CuY-94Fri-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-Y.html) · [Markdown](https://data.orchid-project.org/systems/CU-Y.md)
 
@@ -13,8 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 51 |
-| model | 10 |
-| unspecified | 10 |
+| model | 20 |
 
 Table: Accepted values by property group
 
@@ -63,42 +62,42 @@ Table: Invariant reactions reported in the literature for the Cu–Y system (36)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1224 | congruent melting: Liquid \<=> Cu4Y | Liquid: Y 0.2; Cu4Y: Y 0.2 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 9; `ORC-UXGHNCS2P5` |  |
-| 1220 | congruent melting: Liquid \<=> CuY | Liquid: Y 0.5; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 11; `ORC-6SO2SSVO7P` |  |
+| 1224 | congruent melting: Liquid \<=> Cu4Y | Liquid: Y 0.2; Cu4Y: Y 0.2 | model | [1] (ed.) 1998 | Table I, p. 200, row 9; `ORC-UXGHNCS2P5` |  |
+| 1220 | congruent melting: Liquid \<=> CuY | Liquid: Y 0.5; CuY: Y 0.5 | model | [1] (ed.) 1998 | Table I, p. 200, row 11; `ORC-6SO2SSVO7P` |  |
 | 1203 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 34; `ORC-ZEQ6W6JZJS` |  |
-| 1198 | peritectic: Liquid \<=> Cu4Y + Cu7Y2 | Liquid: Y 0.262; Cu4Y: Y 0.2; Cu7Y2: Y 0.222 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 4; `ORC-D3EZAHMC3G` |  |
+| 1198 | peritectic: Liquid \<=> Cu4Y + Cu7Y2 | Liquid: Y 0.262; Cu4Y: Y 0.2; Cu7Y2: Y 0.222 | model | [1] (ed.) 1998 | Table I, p. 200, row 4; `ORC-D3EZAHMC3G` |  |
 | 1198 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | experimental | [2] Fries 1994 | Table 2, p. 4, row 26; `ORC-ZFJN6PKEW4.9b350d` |  |
 | 1198 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | model | [2] Fries 1994 | Table 2, p. 4, row 27; `ORC-ZFJN6PKEW4.be24f9` |  |
 | 1193 | L + YCu4 -> Y2Cu7 | YCu4: Y 0.2; Y2Cu7: Y 0.222222 | experimental | [2] Fries 1994; _cites ref. 66Bea_ | Table 2, p. 4, row 25; `ORC-CBSPUZ3WC7` |  |
 | 1184 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | model | [2] Fries 1994 | Table 2, p. 4, row 36; `ORC-TOP7TDJGWD.06338f` |  |
 | 1184 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994 | Table 2, p. 4, row 35; `ORC-TOP7TDJGWD.67a742` |  |
-| 1184 | peritectic: Liquid + Cu4Y \<=> Cu6Y | Liquid: Y 0.133; Cu4Y: Y 0.2; Cu6Y: Y 0.147 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 5; `ORC-XAE3MSASS7` |  |
+| 1184 | peritectic: Liquid + Cu4Y \<=> Cu6Y | Liquid: Y 0.133; Cu4Y: Y 0.2; Cu6Y: Y 0.147 | model | [1] (ed.) 1998 | Table I, p. 200, row 5; `ORC-XAE3MSASS7` |  |
 | 1183 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 66Bea_ | Table 2, p. 4, row 33; `ORC-5CNUVJSAJG` |  |
-| 1163 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 39; `ORC-TEPFLTWOEQ` |  |
-| 1155 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 41; `ORC-YLKHOZR6S4` |  |
-| 1153 | eutectic: Liquid \<=> fcc-A1 + Cu6Y | Liquid: Y 0.094; fcc-A1: Y 0; Cu6Y: Y 0.129 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 6; `ORC-746GLM62QZ` |  |
-| 1153 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | model | [2] Fries 1994 | Table 2, p. 4, row 43; `ORC-HR75LZ7C6O.a6e29c` |  |
-| 1153 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994 | Table 2, p. 4, row 42; `ORC-HR75LZ7C6O.b3837f` |  |
-| 1149 | congruent melting: Liquid \<=> Cu2Y-H | Liquid: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 10; `ORC-NTG4M4PP6R` |  |
-| 1149 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | model | [2] Fries 1994 | Table 2, p. 4, row 24; `ORC-YXQFYN4L4F` |  |
-| 1148.6 | eutectic: Liquid \<=> Cu2Y-H + Cu7Y2 | Liquid: Y 0.299; Cu2Y-H: Y 0.333; Cu7Y2: Y 0.222 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 3; `ORC-JQ4R2Q27JW` |  |
-| 1139 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 38; `ORC-AUIVRGFLMJ` |  |
-| 1135 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 21; `ORC-QS4AD2HJK3` |  |
-| 1133 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 75Fed_ | Table 2, p. 4, row 40; `ORC-OBXXXJJHUL` |  |
-| 1128 | polymorphic: Cu2Y-R \<=> Cu2Y-H | Cu2Y-R: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 8; `ORC-TBVVAEDU4S` |  |
-| 1127 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 23; `ORC-M5MK2BAVLS` |  |
-| 1123 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 57Daa_ | Table 2, p. 4, row 37; `ORC-KC22ZHZFXJ` |  |
-| 1116 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994 | Table 2, p. 4, row 12; `ORC-JVUREU4YHZ` |  |
-| 1113 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | model | [2] Fries 1994 | Table 2, p. 4, row 13; `ORC-CTXSXQTFGK` |  |
-| 1113 | eutectic: Liquid \<=> Cu2Y-R + CuY | Liquid: Y 0.396; Cu2Y-R: Y 0.333; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 2; `ORC-ETWJG2L4G6` |  |
-| 1113 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 22; `ORC-QYLFLGCKBP` |  |
-| 1110 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 11; `ORC-O2J4FS5UJL` |  |
-| 1109 | L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 9; `ORC-EU37VTC5KP` |  |
-| 1070 | L -> Y + YCu | YCu: Y 0.5 | model | [2] Fries 1994 | Table 2, p. 4, row 4; `ORC-HNGN6Y34OP` |  |
-| 1070 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 3; `ORC-KMJD5YMLCH` |  |
-| 1070 | eutectic: Liquid \<=> CuY + hcp-A3 | Liquid: Y 0.646; CuY: Y 0.646; hcp-A3: Y 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 1; `ORC-M4EQZMRYMO` |  |
-| 1055 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 1; `ORC-W47INOP2JH` |  |
-| 1033 | L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 2; `ORC-HPGS5UBICX` |  |
+| 1163 | eutectic: L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 39; `ORC-TEPFLTWOEQ` |  |
+| 1155 | eutectic: L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 41; `ORC-YLKHOZR6S4` |  |
+| 1153 | eutectic: Liquid \<=> fcc-A1 + Cu6Y | Liquid: Y 0.094; fcc-A1: Y 0; Cu6Y: Y 0.129 | model | [1] (ed.) 1998 | Table I, p. 200, row 6; `ORC-746GLM62QZ` |  |
+| 1153 | eutectic: L -> (Cu) + YCu6 | YCu6: Y 0.142857 | model | [2] Fries 1994 | Table 2, p. 4, row 43; `ORC-HR75LZ7C6O.a6e29c` |  |
+| 1153 | eutectic: L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994 | Table 2, p. 4, row 42; `ORC-HR75LZ7C6O.b3837f` |  |
+| 1149 | congruent melting: Liquid \<=> Cu2Y-H | Liquid: Y 0.333; Cu2Y-H: Y 0.333 | model | [1] (ed.) 1998 | Table I, p. 200, row 10; `ORC-NTG4M4PP6R` |  |
+| 1149 | eutectic: L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | model | [2] Fries 1994 | Table 2, p. 4, row 24; `ORC-YXQFYN4L4F` |  |
+| 1148.6 | eutectic: Liquid \<=> Cu2Y-H + Cu7Y2 | Liquid: Y 0.299; Cu2Y-H: Y 0.333; Cu7Y2: Y 0.222 | model | [1] (ed.) 1998 | Table I, p. 200, row 3; `ORC-JQ4R2Q27JW` |  |
+| 1139 | eutectic: L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 38; `ORC-AUIVRGFLMJ` |  |
+| 1135 | eutectic: L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 21; `ORC-QS4AD2HJK3` |  |
+| 1133 | eutectic: L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 75Fed_ | Table 2, p. 4, row 40; `ORC-OBXXXJJHUL` |  |
+| 1128 | polymorphic: Cu2Y-R \<=> Cu2Y-H | Cu2Y-R: Y 0.333; Cu2Y-H: Y 0.333 | model | [1] (ed.) 1998 | Table I, p. 200, row 8; `ORC-TBVVAEDU4S` |  |
+| 1127 | eutectic: L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 23; `ORC-M5MK2BAVLS` |  |
+| 1123 | eutectic: L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 57Daa_ | Table 2, p. 4, row 37; `ORC-KC22ZHZFXJ` |  |
+| 1116 | eutectic: L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994 | Table 2, p. 4, row 12; `ORC-JVUREU4YHZ` |  |
+| 1113 | eutectic: L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | model | [2] Fries 1994 | Table 2, p. 4, row 13; `ORC-CTXSXQTFGK` |  |
+| 1113 | eutectic: Liquid \<=> Cu2Y-R + CuY | Liquid: Y 0.396; Cu2Y-R: Y 0.333; CuY: Y 0.5 | model | [1] (ed.) 1998 | Table I, p. 200, row 2; `ORC-ETWJG2L4G6` |  |
+| 1113 | eutectic: L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 22; `ORC-QYLFLGCKBP` |  |
+| 1110 | eutectic: L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 11; `ORC-O2J4FS5UJL` |  |
+| 1109 | eutectic: L -> YCu2(r) + YCu | YCu2(r): Y 0.333333; YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 9; `ORC-EU37VTC5KP` |  |
+| 1070 | eutectic: L -> Y + YCu | YCu: Y 0.5 | model | [2] Fries 1994 | Table 2, p. 4, row 4; `ORC-HNGN6Y34OP` |  |
+| 1070 | eutectic: L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 89Qi_ | Table 2, p. 4, row 3; `ORC-KMJD5YMLCH` |  |
+| 1070 | eutectic: Liquid \<=> CuY + hcp-A3 | Liquid: Y 0.646; CuY: Y 0.646; hcp-A3: Y 1 | model | [1] (ed.) 1998 | Table I, p. 200, row 1; `ORC-M4EQZMRYMO` |  |
+| 1055 | eutectic: L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 1; `ORC-W47INOP2JH` |  |
+| 1033 | eutectic: L -> Y + YCu | YCu: Y 0.5 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 2; `ORC-HPGS5UBICX` |  |
 
 ## Other properties
 
@@ -155,7 +154,7 @@ Table: Crystal structure, Cu–Y system
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. S. G. Fries, H. L. Lukas, R. Konetzki, R. Schmid-Fetzer, Experimental investigation and thermodynamic optimization of the Y-Cu binary system, JPE 15, 606-614 (1994). [doi:10.1007/bf02647621](https://doi.org/10.1007/bf02647621)
 
 ## Please cite

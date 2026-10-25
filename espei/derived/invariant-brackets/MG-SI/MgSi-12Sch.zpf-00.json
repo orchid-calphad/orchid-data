@@ -241,7 +241,7 @@
     "x0": 0.035,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Mg (hcp) + Mg2Si",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -260,7 +260,7 @@
     "x0": 0.035,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Mg (hcp) + Mg2Si",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -279,7 +279,7 @@
     "x0": 0.54,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Mg2Si + Si (dia)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -298,7 +298,7 @@
     "x0": 0.54,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Mg2Si + Si (dia)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -317,7 +317,7 @@
     "x0": 0.333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Mg2Si",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -335,7 +335,7 @@
     "x0": 0.333,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L -> Mg2Si",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],

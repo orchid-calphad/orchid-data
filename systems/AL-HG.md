@@ -1,10 +1,10 @@
 # Al–Hg system
 
-> Al–Hg system: 49 accepted literature values (phase equilibrium 48, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Hg system: 48 accepted literature values (phase equilibrium 48) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-HG.html · Markdown: https://data.orchid-project.org/systems/AL-HG.md
 
-49 accepted literature values from 1 paper(s) (experimental 49); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+48 accepted literature values from 1 paper(s) (experimental 48); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-HG.json) · [CSV](https://data.orchid-project.org/systems/AL-HG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-HG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-HG/AlHg-85McA.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-HG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-HG.html) · [Markdown](https://data.orchid-project.org/systems/AL-HG.md)
 
@@ -12,13 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 49 |
+| experimental | 48 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
 | phase equilibrium | 48 |
 
 ## Calculated phase diagrams
@@ -34,14 +33,6 @@ Table: Assessments with a calculated phase diagram
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-HG.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-HG.json)
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Al–Hg system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 929.95 K | 929.95 | congruent melting | experimental | [1] McAllster 1985 | p. 1; `ORC-EXQV5WMHDD` | “Yet, the melting point of pure A1 was reported to be 656.8 ~” |
 
 ### Phase equilibrium (48)
 

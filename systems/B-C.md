@@ -1,10 +1,10 @@
 # B–C system
 
-> B–C system: 28 accepted literature values (crystal structure 16, phase transition 6, invariant reaction 6) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–C system: 26 accepted literature values (crystal structure 16, invariant reaction 6, phase transition 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-C.html · Markdown: https://data.orchid-project.org/systems/B-C.md
 
-28 accepted literature values from 4 paper(s) (experimental 13, model 3, DFT 1, unspecified 11); 5 calculated phase diagram(s).
+26 accepted literature values from 3 paper(s) (experimental 11, model 6, DFT 1, unspecified 8); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-C.json) · [CSV](https://data.orchid-project.org/systems/B-C.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-C) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#B-C/BC-12Sae.json) · [phases (5)](https://data.orchid-project.org/phases/pages/B-C.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-C.html) · [Markdown](https://data.orchid-project.org/systems/B-C.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
-| model | 3 |
+| experimental | 11 |
+| model | 6 |
 | DFT | 1 |
-| unspecified | 11 |
+| unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 6 |
-| phase transition | 6 |
+| phase transition | 4 |
 | crystal structure | 16 |
 
 ## Calculated phase diagrams
@@ -66,27 +66,25 @@ Table: Invariant reactions reported in the literature for the B–C system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2663.4 | eutectic: Liquid -> B4C + graphite | Liquid: C 0.292; B4C: C 0.195; graphite: C 0.977 | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 1; `ORC-LBFRY4UJD7` |  |
+| 2663.4 | eutectic: Liquid -> B4C + graphite | Liquid: C 0.292; B4C: C 0.195; graphite: C 0.977 | model | [1] (ed.) 1998 | Table I, p. 135, row 1; `ORC-LBFRY4UJD7` |  |
 | 2648 | Liquid -> B4+xC + Graphite | Liquid: C 0.29; B4+xC: C 0.188 | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 3; `ORC-64EQZUCCV7` |  |
 | 2648 | Liquid -> B4+xC + Graphite | Liquid: C 0.29; B4+xC: C 0.199 | experimental | [2] Saengdeejing 2012; _cites Elliott 1961_ | Table 5, p. 7, row 4; `ORC-7UE3TNKHJS` |  |
 | 2408 | Liquid + B4+xC -> β-boron | Liquid: C 9.000e-4; B4+xC: C 0.089 | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 5; `ORC-6DWVK2TAIP` |  |
-| 2375.9 | peritectic: Liquid + B4C -> β-rhombo-B | Liquid: C 0.0056; B4C: C 0.099; β-rhombo-B: C 0.01 | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 2; `ORC-6JDFTI4I66` |  |
+| 2375.9 | peritectic: Liquid + B4C -> β-rhombo-B | Liquid: C 0.0056; B4C: C 0.099; β-rhombo-B: C 0.01 | model | [1] (ed.) 1998 | Table I, p. 135, row 2; `ORC-6JDFTI4I66` |  |
 | 2348 | Liquid + B4+xC -> β-boron | Liquid: C 0.001; B4+xC: C 0.095 | experimental | [2] Saengdeejing 2012; _cites Elliott 1961_ | Table 5, p. 7, row 6; `ORC-RXWLLA3JMR` |  |
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (4)
 
 Table: Phase transition, B–C system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1388 K | 1388 | a-boron = b-boron | DFT | [2] Saengdeejing 2012; _cites Shang 2007_ [doi](https://doi.org/10.1103/physrevb.75.092101) | p. 2; `ORC-U7XUCPVTBF` | “Using density functional theory, Shang et al. \[20\] showed that a-boron is more stable than bboron at low temperatures in the defect-free structure and predicted the a to b transition temperature at 1388 K.” |
-| Phase transition | 2348.15 K | 2348.15 |  | experimental | [3] Rogl 2014 | p. 1; `ORC-TKLZBK6U3B` | “Relative to the thermodynamically accepted melting point of pure ßB (TM 1⁄42075 1C), the calculated reaction isotherm is determined at 2100.6 1C, a peritectic point at 0.75 at% C and a maximum solid solubility of 1.43 at% C in (ßB) at reaction temperature.” |
 | Phase transition | 2720 K | 2720 | Liquid -> B4+xC; _Liquid: C 0.2; B4+xC: C 0.2_ | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 1; `ORC-JVYRD6JHKY` |  |
 | Phase transition | 2723 K | 2723 | Liquid -> B4+xC; _Liquid: C 0.2; B4+xC: C 0.2_ | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | Table 5, p. 7, row 2; `ORC-JNDQIDI6F5` |  |
-| Phase transition | 2723 K | 2723 | congruent transformation | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | p. 2; `ORC-P4WRPFLR3Y` | “Beauvy \[15\] reported 21.6 ± 0.8 at.% C solubility at the C-rich end and the congruent melting point of B4+xC to be about 18.2 at.% C at 2723 K.” |
-| Phase transition | 2725.3 K | 2725.3 | congruent melting: B4C -> Liquid; _B4C: C 0.184; Liquid: C 0.184_ | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 3; `ORC-OZ7EZTSIAG` |  |
+| Phase transition | 2725.3 K | 2725.3 | congruent melting: B4C -> Liquid; _B4C: C 0.184; Liquid: C 0.184_ | model | [1] (ed.) 1998 | Table I, p. 135, row 3; `ORC-OZ7EZTSIAG` |  |
 
 ### Crystal structure (16)
 
@@ -94,31 +92,30 @@ Table: Crystal structure, B–C system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.607 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 35; `ORC-AO3JM4ZEZM.6e2d0d` |  |
-| Lattice a | 5.651 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 62; `ORC-MTMFR6I63I.6f3052` |  |
-| Lattice a | 5.651 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 34; `ORC-SZIZTPTTWN.ff1661` |  |
-| Lattice a | 5.607 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 63; `ORC-XHD6DQJZD4.814a2d` |  |
-| Lattice a | 5.597 Å | 2673.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 65; `ORC-6CCWXLQMAL.f0cfe5` |  |
-| Lattice a | 5.597 Å | 2673.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 37; `ORC-72Y2KESO4L.872f98` |  |
-| Lattice a | 5.598 Å | 2723.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 64; `ORC-64OHLSRZU2.46d451` |  |
-| Lattice a | 5.598 Å | 2723.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 36; `ORC-EUNUBNNAXI.c61d82` |  |
-| Lattice c | 12.095 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 35; `ORC-AO3JM4ZEZM.9996e7` |  |
-| Lattice c | 12.196 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 62; `ORC-MTMFR6I63I.ee7ae3` |  |
-| Lattice c | 12.196 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 34; `ORC-SZIZTPTTWN.9c9213` |  |
-| Lattice c | 12.095 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 63; `ORC-XHD6DQJZD4.b0714e` |  |
-| Lattice c | 12.12 Å | 2673.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 65; `ORC-6CCWXLQMAL.8c0847` |  |
-| Lattice c | 12.12 Å | 2673.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 37; `ORC-72Y2KESO4L.b6b90c` |  |
-| Lattice c | 12.12 Å | 2723.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 64; `ORC-64OHLSRZU2.8dd958` |  |
-| Lattice c | 12.12 Å | 2723.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 36; `ORC-EUNUBNNAXI.dfbda1` |  |
+| Lattice a | 5.607 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 35; `ORC-AO3JM4ZEZM.6e2d0d` |  |
+| Lattice a | 5.651 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 62; `ORC-MTMFR6I63I.6f3052` |  |
+| Lattice a | 5.651 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 34; `ORC-SZIZTPTTWN.ff1661` |  |
+| Lattice a | 5.607 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 63; `ORC-XHD6DQJZD4.814a2d` |  |
+| Lattice a | 5.597 Å | 2673.15 | B4C; _alloy: C 0.2_ | unspecified | [3] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 65; `ORC-6CCWXLQMAL.f0cfe5` |  |
+| Lattice a | 5.597 Å | 2673.15 | B4C; _alloy: C 0.2_ | experimental | [3] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 37; `ORC-72Y2KESO4L.872f98` |  |
+| Lattice a | 5.598 Å | 2723.15 | B4C; _alloy: C 0.2_ | unspecified | [3] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 64; `ORC-64OHLSRZU2.46d451` |  |
+| Lattice a | 5.598 Å | 2723.15 | B4C; _alloy: C 0.2_ | experimental | [3] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 36; `ORC-EUNUBNNAXI.c61d82` |  |
+| Lattice c | 12.095 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 35; `ORC-AO3JM4ZEZM.9996e7` |  |
+| Lattice c | 12.196 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 62; `ORC-MTMFR6I63I.ee7ae3` |  |
+| Lattice c | 12.196 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 34; `ORC-SZIZTPTTWN.9c9213` |  |
+| Lattice c | 12.095 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 63; `ORC-XHD6DQJZD4.b0714e` |  |
+| Lattice c | 12.12 Å | 2673.15 | B4C; _alloy: C 0.2_ | unspecified | [3] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 65; `ORC-6CCWXLQMAL.8c0847` |  |
+| Lattice c | 12.12 Å | 2673.15 | B4C; _alloy: C 0.2_ | experimental | [3] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 37; `ORC-72Y2KESO4L.b6b90c` |  |
+| Lattice c | 12.12 Å | 2723.15 | B4C; _alloy: C 0.2_ | unspecified | [3] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 64; `ORC-64OHLSRZU2.8dd958` |  |
+| Lattice c | 12.12 Å | 2723.15 | B4C; _alloy: C 0.2_ | experimental | [3] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 36; `ORC-EUNUBNNAXI.dfbda1` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012). [doi:10.1016/j.actamat.2012.09.029](https://doi.org/10.1016/j.actamat.2012.09.029)
-3. Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014). [doi:10.1016/j.calphad.2013.07.016](https://doi.org/10.1016/j.calphad.2013.07.016)
-4. H. Duschanek, P. Rogl, H. L. Lukas, A critical assessment and thermodynamic calculation of the boron-carbon-titanium (B-C-Ti) ternary system, JPE 16, 46-60 (1995). [doi:10.1007/bf02646248](https://doi.org/10.1007/bf02646248)
+3. H. Duschanek, P. Rogl, H. L. Lukas, A critical assessment and thermodynamic calculation of the boron-carbon-titanium (B-C-Ti) ternary system, JPE 16, 46-60 (1995). [doi:10.1007/bf02646248](https://doi.org/10.1007/bf02646248)
 
 ## Please cite
 

@@ -17,15 +17,15 @@ Table: Phases of the Li–Si system (14)
 | [FCC_A1](#phase-li-si-fcc-a1); _phase:li-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-li-si-hcp-a3); _phase:li-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LI12SI7](#phase-li-si-li12si7); _phase:li-si:li12si7_ | Li12Si7 · oP152 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–924.75 K, x(Si) 0.36842–0.36842 | 24 | 3 |
-| [LI13SI4](#phase-li-si-li13si4); _phase:li-si:li13si4_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1005.27 K, x(Si) 0.23529–0.23529 | 29 | 3 |
+| [LI13SI4](#phase-li-si-li13si4); _phase:li-si:li13si4_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1005.27 K, x(Si) 0.23529–0.23529 | 31 | 3 |
 | [LI15SI4_D86](#phase-li-si-li15si4-d86); _phase:li-si:li15si4-d86_ | Cu15Si4 · D8_6 · cI76 · I-43d (220) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 1 | 1 |
 | [LI17SI4](#phase-li-si-li17si4); _phase:li-si:li17si4_ | Li17Si4 · cF420 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–803.64 K, x(Si) 0.19048–0.19048 | 13 | 2 |
 | [LI21SI5](#phase-li-si-li21si5); _phase:li-si:li21si5_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 730.94–893.07 K, x(Si) 0.19231–0.19589 | 5 | 2 |
 | [LI22SI5](#phase-li-si-li22si5); _phase:li-si:li22si5_ | Li21Si5 · cF416 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–956.72 K, x(Si) 0.18519–0.18519 | 8 | 1 |
 | [LI33SI8](#phase-li-si-li33si8); _phase:li-si:li33si8_ | Li33Si8 · mP82 · Pm (6) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–902.17 K, x(Si) 0.19512–0.19512 | 0 | 1 |
 | [LI7SI3](#phase-li-si-li7si3); _phase:li-si:li7si3_ | Li7Si3 · hP60 · P3_212 (153) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1026.82 K, x(Si) 0.3–0.3 | 19 | 3 |
-| [LIQUID](#phase-li-si-liquid); _phase:li-si:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 453.55–2500 K, x(Si) 0–1 | 87 | 3 |
-| [LISI](#phase-li-si-lisi); _phase:li-si:lisi_ | GeLi · tI32 · I4_1/a (88) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–757.19 K, x(Si) 0.5–0.5 | 8 | 2 |
+| [LIQUID](#phase-li-si-liquid); _phase:li-si:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 453.55–2500 K, x(Si) 0–1 | 89 | 3 |
+| [LISI](#phase-li-si-lisi); _phase:li-si:lisi_ | GeLi · tI32 · I4_1/a (88) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–757.19 K, x(Si) 0.5–0.5 | 7 | 2 |
 
 ## DIAMOND_A4 (Li–Si)
 
@@ -284,7 +284,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Li13Si4 · mP34 · Pm — LiSi-17Lia.tdb: 'Prototype Li13Si4 (mP34, Pm)'
 - Stoichiometry: Li 0.7647, Si 0.2353
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1005.27 K, x(Si) 0.23529–0.23529
-- Literature: 29 values (29 accepted) from 3 papers
+- Literature: 31 values (31 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-si:li13si4)
 
 Names (8): _corpus: _corpus:phase:li-si:li13si4  
@@ -581,7 +581,7 @@ _reports values for this phase_
 - Id: `phase:li-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 453.55–2500 K, x(Si) 0–1
-- Literature: 87 values (87 accepted) from 3 papers
+- Literature: 89 values (89 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-si:liquid)
 
 Names (8): _corpus: _corpus:phase:li-si:liquid  
@@ -637,11 +637,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Li 0.5000, Si 0.5000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–757.19 K, x(Si) 0.5–0.5
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-si:lisi)
 
-Names (5): _corpus: _corpus:phase:li-si:lisi  
-_paper: _paper:10.1016/j.intermet.2017.02.024:LiSi, paper:10.1016/j.intermet.2017.02.024:LixSi  
+Names (4): _corpus: _corpus:phase:li-si:lisi  
+_paper: _paper:10.1016/j.intermet.2017.02.024:LiSi  
 _tdb: _tdb:LiSi-14Bra.tdb:LISI, tdb:LiSi-17Lia.tdb:LISI  
 
 

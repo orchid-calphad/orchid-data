@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al13Cr2.html · Markdown: https:
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); experimental median -13.9 kJ/mol-atom (n = 1).
 
-Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) · [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)
+Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)
 
 ## Literature values
 
@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Al13Cr2 reported in the literature (3)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -13.9 kJ/mol-atom | Al13Cr2 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 1; `ORC-TPSEVCXJ6T.cda139` |  |
-| -13.172 kJ/mol-atom | Al13Cr2 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [1] Saunders 1986 | Table 4, p. 8, row 1; `ORC-COYC64LJ3H.1f3a18` |  |
+| -13.172 kJ/mol-atom | Al13Cr2 | 1 | model |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Saunders 1986 | Table 4, p. 8, row 1; `ORC-COYC64LJ3H.1f3a18` |  |
 | -13.17 kJ/mol-atom | Al13Cr2 |  | model |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Saunders 1986 | Table 1, p. 4, row 2; `ORC-FKMZSHEWS6.5e597f` |  |
 
 ### Uncertainty budget

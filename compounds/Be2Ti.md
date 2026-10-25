@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Be2Ti.html · Markdown: https://data.orchid-project.org/compounds/Be2Ti.md
 
-6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -18.697 kJ/mol-atom (mp-aaaaaebt); OQMD -20.324 kJ/mol-atom (oqmd-10907).
+6 accepted literature formation-enthalpy value(s) (model 5, DFT 1); Materials Project -18.697 kJ/mol-atom (mp-aaaaaebt); OQMD -20.324 kJ/mol-atom (oqmd-10907).
 
 Systems: [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html)
 
@@ -18,8 +18,8 @@ Table: Enthalpy of formation of Be2Ti reported in the literature (6)
 | -29.7 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 6; `ORC-ZDMV63AXRI.5c4dd8` |  |
 | -26.5 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1973_ | Table 2, p. 2, row 7; `ORC-XB4DWYMKAX.090f2f` |  |
 | -25.7 kJ/mol-atom | TiBe2 | 0 | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 6; `ORC-ZDMV63AXRI.1666a6` |  |
-| -25.7 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 6; `ORC-ZDMV63AXRI.d1b3d8` |  |
 | -24.9 kJ/mol-atom | TiBe2 |  | model |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990010-5) | Table 2, p. 2, row 8; `ORC-OIJIIYQFYF.cf593b` |  |
+| -25.7 kJ/mol-atom | TiBe2 |  | DFT |  | [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html) | [1] Tokunaga 2006 | Table 2, p. 2, row 6; `ORC-ZDMV63AXRI.d1b3d8` |  |
 
 ### Uncertainty budget
 
@@ -33,8 +33,8 @@ Table: Uncertainty budget of the literature values of Be2Ti
 | -29.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -26.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -25.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -25.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -24.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -25.7 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

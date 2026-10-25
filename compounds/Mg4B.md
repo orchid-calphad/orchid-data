@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Mg4B.html · Markdown: https://data.orchid-project.org/compounds/Mg4B.md
 
-1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -0.02 kJ/mol-atom (n = 1).
+1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -19.53 kJ/mol-atom (n = 1).
 
 Systems: [B–Mg](https://data.orchid-project.org/systems/B-MG.html)
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Mg4B reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -0.01953 kJ/mol-atom ± 0.00139 | Mg4B | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 12; `ORC-TDP6IBGSN3` |  |
+| -19.53 kJ/mol-atom ± 1.39 | Mg4B | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 12; `ORC-TDP6IBGSN3` |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Mg4B
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -0.01953 | kJ/mol-atom | 0.00139 | 5.000e-6 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -19.53 | kJ/mol-atom | 1.39 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 
 ## Sources
 

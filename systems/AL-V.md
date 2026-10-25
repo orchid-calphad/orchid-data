@@ -1,10 +1,10 @@
 # Al–V system
 
-> Al–V system: 43 accepted literature values (crystal structure 19, formation 17, invariant reaction 6, phase transition 1) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–V system: 42 accepted literature values (crystal structure 19, formation 17, invariant reaction 6) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-V.html · Markdown: https://data.orchid-project.org/systems/AL-V.md
 
-43 accepted literature values from 3 paper(s) (experimental 2, model 14, DFT 21, unspecified 6); 8 calculated phase diagram(s).
+42 accepted literature values from 3 paper(s) (experimental 2, model 19, DFT 21); 8 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-V.json) · [CSV](https://data.orchid-project.org/systems/AL-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-V/AlV-04Gon.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-V.html) · [Markdown](https://data.orchid-project.org/systems/AL-V.md)
 
@@ -13,16 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 2 |
-| model | 14 |
+| model | 19 |
 | DFT | 21 |
-| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 6 |
-| phase transition | 1 |
 | formation | 17 |
 | crystal structure | 19 |
 
@@ -160,12 +158,12 @@ Table: Invariant reactions reported in the literature for the Al–V system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1932.7 | peritectic: Liquid + bcc-A2 -> Al8V5 | bcc-A2: V 0.471; Al8V5: V 0.384; Liquid: V 0.376 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 6; `ORC-MV7TR6QIPZ` |  |
-| 1640.1 | peritectic: Liquid + Al8V5 -> AlM-D0\*22 | Al8V5: V 0.384; AlM-D0\*22: V 0.25; Liquid: V 0.167 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 5; `ORC-C2NWLRIUQG` |  |
-| 1007.3 | peritectic: Liquid + AlM-D0\*22 -> Al23V4 | AlM-D0\*22: V 0.25; Al23V4: V 0.148; Liquid: V 0.003 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 1; `ORC-ZVUWTSOIGH` |  |
-| 969 | peritectic: Liquid + Al23V4 -> Al7V | Al23V4: V 0.148; Al7V: V 0.125; Liquid: V 0.002 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 2; `ORC-TV2ECWDGTT` |  |
-| 945.2 | peritectic: Liquid + Al7V -> Al10V | Al7V: V 0.125; Al10V: V 0.091; Liquid: V 0.001 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 3; `ORC-OFXA2PC3VC` |  |
-| 935.3 | peritectic: Liquid + Al10V -> fcc-Al | Al10V: V 0.091; fcc-Al: V 0.001; Liquid: V 0 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 4; `ORC-STKOBJPAXW` |  |
+| 1932.7 | peritectic: Liquid + bcc-A2 -> Al8V5 | bcc-A2: V 0.471; Al8V5: V 0.384; Liquid: V 0.376 | model | [1] (ed.) 1998 | Table I, p. 112, row 6; `ORC-MV7TR6QIPZ` |  |
+| 1640.1 | peritectic: Liquid + Al8V5 -> AlM-D0\*22 | Al8V5: V 0.384; AlM-D0\*22: V 0.25; Liquid: V 0.167 | model | [1] (ed.) 1998 | Table I, p. 112, row 5; `ORC-C2NWLRIUQG` |  |
+| 1007.3 | peritectic: Liquid + AlM-D0\*22 -> Al23V4 | AlM-D0\*22: V 0.25; Al23V4: V 0.148; Liquid: V 0.003 | model | [1] (ed.) 1998 | Table I, p. 112, row 1; `ORC-ZVUWTSOIGH` |  |
+| 969 | peritectic: Liquid + Al23V4 -> Al7V | Al23V4: V 0.148; Al7V: V 0.125; Liquid: V 0.002 | model | [1] (ed.) 1998 | Table I, p. 112, row 2; `ORC-TV2ECWDGTT` |  |
+| 945.2 | peritectic: Liquid + Al7V -> Al10V | Al7V: V 0.125; Al10V: V 0.091; Liquid: V 0.001 | model | [1] (ed.) 1998 | Table I, p. 112, row 3; `ORC-OFXA2PC3VC` |  |
+| 935.3 | peritectic: Liquid + Al10V -> fcc-Al | Al10V: V 0.091; fcc-Al: V 0.001; Liquid: V 0 | model | [1] (ed.) 1998 | Table I, p. 112, row 4; `ORC-STKOBJPAXW` |  |
 
 ## Formation enthalpies
 
@@ -194,14 +192,6 @@ Table: Enthalpies of formation, Al–V system (17)
 | V3Al D03 |  | -9.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2018 | Table 1, p. 4, row 7; `ORC-3DVK63XIC4.b65938` |  |
 
 ## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Al–V system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 910 K | 910 | congruent transformation | model | [3] Berche 2018 | p. 6; `ORC-ONUVWK7XD3` | “The A15 phase is transformed congruently into the A2 phase at 910 K and at 77.6 at.% of V.” |
 
 ### Crystal structure (19)
 
@@ -233,7 +223,7 @@ Table: Crystal structure, Al–V system
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. Qun Luo, Kang Li, Qian Li, Thermodynamic investigation of phase equilibria in Al–Si–V system, Journal of Materials Science &amp; Technology 34, 1592-1601 (2018). [doi:10.1016/j.jmst.2018.01.004](https://doi.org/10.1016/j.jmst.2018.01.004)
 3. Alexandre Berche, Philippe Jund, Ab initio description of the different phases in the Al-Fe-V system: Structure, magnetism and thermodynamics, Computational Materials Science 149, 28-36 (2018). [doi:10.1016/j.commatsci.2018.03.008](https://doi.org/10.1016/j.commatsci.2018.03.008)
 

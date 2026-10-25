@@ -33,14 +33,14 @@ Table: Uncertainty budget of the literature values of Bi4Rb5
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -39.618 | kJ/mol-atom |  | 5.000e-4 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
-| -35.1 | kJ/mol-atom | 2 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -35.1 | kJ/mol-atom | 2 | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -35.1 | per mol-atom | 2 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2 |
 | -40.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -40.8 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -39.866 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -36.77 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -37.795 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
-| -34.693 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -37.795 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -34.693 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 
 ## DFT formation energies
 

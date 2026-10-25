@@ -1,24 +1,12 @@
 # Nb–Ti system
 
-> Nb–Ti system: 2 accepted literature values (phase transition 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Ti system: 0 accepted literature values (none) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-TI.html · Markdown: https://data.orchid-project.org/systems/NB-TI.md
 
-2 accepted literature values from 1 paper(s) (model 2); 5 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-TI.json) · [CSV](https://data.orchid-project.org/systems/NB-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-TI/NbTi-01Zha-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/NB-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-TI.html) · [Markdown](https://data.orchid-project.org/systems/NB-TI.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -35,23 +23,6 @@ Table: Assessments with a calculated phase diagram
 | NbTi-98Sau.tdb | N. Saunders, COST 507, Final report round 2, 1998. | `7e8f7395e69fa0a0aede30302d1e09d9fde399c137632bb0ade43cbe506f4ead` | [viewer](https://orchid-project.org/phase-diagrams/#NB-TI/NbTi-98Sau.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/NbTi-98Sau.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/NbTi-98Sau.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/NB/NB-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/NB/NB-TI.json) · [CALPHAD hull NbTi-01Zha-LB](https://data.orchid-project.org/hulls/calphad-sgte/NB/NB-TI--NbTi-01Zha-LB.json) · [CALPHAD hull NbTi-16Yan](https://data.orchid-project.org/hulls/calphad-sgte/NB/NB-TI--NbTi-16Yan.json) · [CALPHAD hull NbTi-94Har](https://data.orchid-project.org/hulls/calphad-sgte/NB/NB-TI--NbTi-94Har.json) · [CALPHAD hull NbTi-98Sau](https://data.orchid-project.org/hulls/calphad-sgte/NB/NB-TI--NbTi-98Sau.json)
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Nb–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 758.15 K | 758.15 | polymorphic: 13-~to | model | [1] Zhang 2001 | p. 6; `ORC-SVRXMV5GLL` | “The allotropic temperature 13-~to is calculated to be 485°C, considering the uncertainty of the measured data, this may be acceptable in light of the evaluation of Moffat and Kattner\[35\].” |
-| Phase transition | 786.15 K | 786.15 |  | model | [1] Zhang 2001 | p. 6; `ORC-IC6HSKY7PG` | “The calculated consohte point of the miscibility gap is at x~=0.5 and Tc=513°C.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Yuelan Zhang, Huashan Liu, Zhanpeng Jin, Thermodynamic assessment of the Nb-Ti system, Calphad 25, 305-317 (2001). [doi:10.1016/s0364-5916(01)00051-7](https://doi.org/10.1016/s0364-5916%2801%2900051-7)
 
 ## Please cite
 

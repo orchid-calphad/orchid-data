@@ -1,25 +1,12 @@
 # Cd–Mn system
 
-> Cd–Mn system: 2 accepted literature values (invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Mn system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-MN.html · Markdown: https://data.orchid-project.org/systems/CD-MN.md
 
-2 accepted literature values from 1 paper(s) (experimental 1, model 1); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-MN.json) · [CSV](https://data.orchid-project.org/systems/CD-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-MN/CdMn-14Qin.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CD-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-MN.html) · [Markdown](https://data.orchid-project.org/systems/CD-MN.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-| model | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 2 |
 
 ## Calculated phase diagrams
 
@@ -44,21 +31,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CdMn-14Qin.tdb | 593.61 | HCP_A3 (x(Mn) 2.700e-4) + LIQUID (x(Mn) 0.00155) + CBCC_A12 (x(Mn) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CD/CD-MN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CD/CD-MN.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cd–Mn system (2)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 593.6 | eutectic |  | model | [1] Qin 2014 | p. 6; `ORC-NQD4J6I7U5` | “The presently calculated temperature of the eutectic reaction L1⁄4 (Cd) þ (αMn) is 593.6 K which fits well with the experimental value of” |
-| 593.25 | eutectic |  | experimental | [1] Qin 2014; _cites Chasanov 1962_ | p. 3; `ORC-OOZK4ZTDZT` | “Chasanov et al. \[39\] also determined one eutectic arrest at 593.25 K by thermal analysis and found no intermetallic phases.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Aning Qin, Rong Wang, Yaru Wang, Jiong Wang, Shuhong Liu, Kaiming Cheng et al., Thermodynamic assessment of the Cd–X (X=Sn, Mn, Fe) systems, Calphad 47, 83-91 (2014). [doi:10.1016/j.calphad.2014.06.006](https://doi.org/10.1016/j.calphad.2014.06.006)
 
 ## Please cite
 

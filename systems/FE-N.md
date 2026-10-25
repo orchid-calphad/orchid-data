@@ -1,10 +1,10 @@
 # Fe–N system
 
-> Fe–N system: 4 accepted literature values (phase transition 3, invariant reaction 1) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–N system: 1 accepted literature values (phase transition 1) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-N.html · Markdown: https://data.orchid-project.org/systems/FE-N.md
 
-4 accepted literature values from 1 paper(s) (experimental 1, model 3); 6 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (model 1); 6 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-N.json) · [CSV](https://data.orchid-project.org/systems/FE-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-N/FeN-16Goe.json) · [phases (6)](https://data.orchid-project.org/phases/pages/FE-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-N.html) · [Markdown](https://data.orchid-project.org/systems/FE-N.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 3 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 3 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -68,24 +66,14 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/FE/FE-N.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/FE/FE-N.json) · [CALPHAD hull FeN-16Goe](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-N--FeN-16Goe.json) · [CALPHAD hull FeN-87Fri](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-N--FeN-87Fri.json) · [CALPHAD hull FeN-91Fri-LB](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-N--FeN-91Fri-LB.json) · [CALPHAD hull FeN-93Du-mod](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-N--FeN-93Du-mod.json) · [CALPHAD hull FeN-93Du](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-N--FeN-93Du.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Fe–N system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1654 | peritectic |  | model | [1] Göhring 2016 | p. 7; `ORC-AYAK4LM7V3` | “Including the thermodynamic description of the liquid Fe-N phase from Reference 21 peritectic melting of e is predicted in the binary Fe-N system at 1654 K METALLURGICAL AND MATERIALS TRANSACTIONS A (1381 C).” |
-
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (1)
 
 Table: Phase transition, Fe–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 763 K | 763 | magnetic | experimental | [1] Göhring 2016; _cites Wriedt 1987_ | p. 4; `ORC-5MV45CMSUD` | “The c0 phase shows ferromagnetic ordering with a somewhat concentration-dependent Curie temperature around 763 K (490 C).\[12\]” |
-| Phase transition | 839 K | 839 | other: a + e -> c0 + h | model | [1] Göhring 2016 | p. 8; `ORC-7QPJ2F2CDP` | “The temperature of the transitional reaction U2 as calculated using the dataset from the present work \[839 K (566 C)\] is only slightly below the value of the temperature for this reaction as determined experimentally \[842 ± 2 K (569 ± 2 C)\].\[53\]” |
 | Phase transition | 855 K | 855 | other | model | [1] Göhring 2016 | p. 12; `ORC-BD5T5VKETS` | “The present thermodynamic description predicts that a small miscibility gap occurs in e below approximately 855 K (582 C) close to the line connecting Fe2 N and Fe2 C.” |
 
 ## Sources

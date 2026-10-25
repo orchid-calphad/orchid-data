@@ -18,10 +18,10 @@ Table: Phases of the Ni–Zr system (12)
 | [LIQUID](#phase-ni-zr-liquid); _phase:ni-zr:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 300–4000 K, x(Zr) 0–1 | 128 | 7 |
 | [NI10ZR7](#phase-ni-zr-ni10zr7); _phase:ni-zr:ni10zr7_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–1446.61 K, x(Zr) 0.39599–0.425 | 69 | 7 |
 | [NI11ZR9](#phase-ni-zr-ni11zr9); _phase:ni-zr:ni11zr9_ | Pt11Zr9 · tI40 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 1210–1450 K, x(Zr) 0.45–0.45 | 61 | 7 |
-| [NI21ZR8](#phase-ni-zr-ni21zr8); _phase:ni-zr:ni21zr8_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–1483.01 K, x(Zr) 0.275–0.27586 | 66 | 7 |
+| [NI21ZR8](#phase-ni-zr-ni21zr8); _phase:ni-zr:ni21zr8_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–1483.01 K, x(Zr) 0.275–0.27586 | 67 | 7 |
 | [NI3ZR_D019](#phase-ni-zr-ni3zr-d019); _phase:ni-zr:ni3zr-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1261.09 K, x(Zr) 0.248–0.25 | 13 | 5 |
 | [NI5ZR_C15B](#phase-ni-zr-ni5zr-c15b); _phase:ni-zr:ni5zr-c15b_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–1602.99 K, x(Zr) 0.14044–0.17163 | 31 | 7 |
-| [NI7ZR2](#phase-ni-zr-ni7zr2); _phase:ni-zr:ni7zr2_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–1723.01 K, x(Zr) 0.22–0.22222 | 74 | 7 |
+| [NI7ZR2](#phase-ni-zr-ni7zr2); _phase:ni-zr:ni7zr2_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–1723.01 K, x(Zr) 0.22–0.22222 | 75 | 7 |
 | [NIZR_B33](#phase-ni-zr-nizr-b33); _phase:ni-zr:nizr-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1542.7 K, x(Zr) 0.5–0.5 | 62 | 7 |
 | [NIZR2_C16](#phase-ni-zr-nizr2-c16); _phase:ni-zr:nizr2-c16_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–1402.37 K, x(Zr) 0.66667–0.667 | 59 | 7 |
 
@@ -561,7 +561,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Hf8Ni21 · aP29 · P-1 — NiZr-20Jan.tdb: 'Prototype Hf8Ni21 (aP29, P-1)'
 - Candidate (tdb_comment): Hf8Ni21 · aP29 · P-1 — NiZr-85Sau.tdb: 'Prototype Hf8Ni21 (aP29, P-1)'
 - Stability: stable in 7 of 7 calculated diagram(s): 300–1483.01 K, x(Zr) 0.275–0.27586
-- Literature: 66 values (66 accepted) from 3 papers
+- Literature: 67 values (67 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-zr:ni21zr8)
 
 Names (11): _corpus: _corpus:phase:ni-zr:ni21zr8  
@@ -824,7 +824,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Ni7Zr2 · mC36 · C2/m — NiZr-20Jan.tdb: 'Prototype Ni7Zr2 (mC36, C2/m)'
 - Candidate (tdb_comment): Ni7Zr2 · mC36 · C2/m — NiZr-85Sau.tdb: 'Prototype Ni7Zr2 (mC36, C2/m)'
 - Stability: stable in 7 of 7 calculated diagram(s): 300–1723.01 K, x(Zr) 0.22–0.22222
-- Literature: 74 values (74 accepted) from 3 papers
+- Literature: 75 values (75 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-zr:ni7zr2)
 
 Names (11): _corpus: _corpus:phase:ni-zr:ni7zr2  

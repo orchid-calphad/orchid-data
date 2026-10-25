@@ -1,38 +1,12 @@
 # Ag–Al–Cu system
 
-> Ag–Al–Cu system: 1 accepted literature values (invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Al–Cu system: 0 accepted literature values (none) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-AL-CU.html · Markdown: https://data.orchid-project.org/systems/AG-AL-CU.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 0 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-AL-CU.json) · [CSV](https://data.orchid-project.org/systems/AG-AL-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-AL-CU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-AL-CU.html) · [Markdown](https://data.orchid-project.org/systems/AG-AL-CU.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Ag–Al–Cu system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 775 | eutectic |  | experimental | [1] Witusiewicz 2004 | p. 10; `ORC-Z7PDLVPLTL` | “Excellent agreement with the experimental data is obtained across the entire system (Fig. 7), whereas the results of calculation according to \[12\] deviate from calorimetric data, especially strongly when extrapolating to the temperature of the invariant eutectic in the ternary Ag-Al-Cu system (775 K).” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004). [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126)
 
 ## Please cite
 

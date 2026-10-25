@@ -31,7 +31,7 @@ Table: Uncertainty budget of the literature values of AgSm
 | -37 | kJ/mol-atom | 2.7 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2.7 |
 | -42 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -27.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -28.2 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -28.2 | kJ/mol-atom |  | 0.05 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
 | -23 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 
 ## DFT formation energies

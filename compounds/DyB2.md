@@ -31,8 +31,8 @@ Table: Uncertainty budget of the literature values of DyB2
 | -54.44 | kJ/mol-atom |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -30.2 | kJ/mol-atom | 1.3 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -58.019 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -54.135 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
-| -54.038 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -54.135 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -54.038 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
 
 ## DFT formation energies
 

@@ -17,7 +17,7 @@ Table: Phases of the Ce–Mn system (6)
 | [CUB_A13](#phase-ce-mn-cub-a13); _phase:ce-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 898.39–1404.99 K, x(Mn) 0.97167–1 | 0 | 2 |
 | [FCC_A1](#phase-ce-mn-fcc-a1); _phase:ce-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1418 K, x(Mn) 0–1 | 10 | 2 |
 | [HCP_A3](#phase-ce-mn-hcp-a3); _phase:ce-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ce-mn-liquid); _phase:ce-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 894–2500 K, x(Mn) 0–1 | 12 | 2 |
+| [LIQUID](#phase-ce-mn-liquid); _phase:ce-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 894–2500 K, x(Mn) 0–1 | 15 | 2 |
 
 ## BCC_A2 (Ce–Mn)
 
@@ -209,7 +209,7 @@ _assessment that models this phase_
 - Id: `phase:ce-mn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 894–2500 K, x(Mn) 0–1
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 15 values (15 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mn:liquid)
 
 Names (4): _corpus: _corpus:phase:ce-mn:liquid  

@@ -1,24 +1,12 @@
 # Ag–Os system
 
-> Ag–Os system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Os system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-OS.html · Markdown: https://data.orchid-project.org/systems/AG-OS.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-OS.json) · [CSV](https://data.orchid-project.org/systems/AG-OS.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-OS) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-OS/AgOs-86Kar-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-OS.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-OS.html) · [Markdown](https://data.orchid-project.org/systems/AG-OS.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 1 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -39,22 +27,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AgOs-86Kar-LB.tdb | 1234.43 | FCC_A1 (x(Os) 3.000e-5) + LIQUID (x(Os) 4.700e-4) + HCP_A3 (x(Os) 0.99994) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AG/AG-OS.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/AG-OS.json)
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ag–Os system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 2173.15 K | 2173.15 | other | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 3; `ORC-XRGZ3V2UJY` | “A monotectic reaction was reported at about 1900 ~ and near 20 at.% Ag \[59Rud\].” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. I. Karakaya, W. T. Thompson, The Ag−Os (Silver-Osmium) system, Bulletin of Alloy Phase Diagrams 7, 360-362 (1986). [doi:10.1007/bf02873022](https://doi.org/10.1007/bf02873022)
 
 ## Please cite
 

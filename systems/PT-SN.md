@@ -1,10 +1,10 @@
 # Pt–Sn system
 
-> Pt–Sn system: 189 accepted literature values (invariant reaction 87, crystal structure 39, formation 36, phase transition 18) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pt–Sn system: 185 accepted literature values (invariant reaction 86, crystal structure 39, formation 36, phase transition 15) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PT-SN.html · Markdown: https://data.orchid-project.org/systems/PT-SN.md
 
-189 accepted literature values from 4 paper(s) (experimental 102, model 70, DFT 15, unspecified 2); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+185 accepted literature values from 4 paper(s) (experimental 99, model 64, DFT 20, unspecified 2); 4 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PT-SN.json) · [CSV](https://data.orchid-project.org/systems/PT-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PT-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-SN/PtSn-01Su.json) · [phases (11)](https://data.orchid-project.org/phases/pages/PT-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PT-SN.html) · [Markdown](https://data.orchid-project.org/systems/PT-SN.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 102 |
-| model | 70 |
-| DFT | 15 |
+| experimental | 99 |
+| model | 64 |
+| DFT | 20 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 87 |
-| phase transition | 18 |
+| invariant reaction | 86 |
+| phase transition | 15 |
 | phase equilibrium | 8 |
 | formation | 36 |
 | crystal structure | 39 |
@@ -90,48 +90,48 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pt–Sn system (87)
+Table: Invariant reactions reported in the literature for the Pt–Sn system (86)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1679.15 | Liquid -> Pt3Sn | Liquid: Pt 0.75, Sn 0.25; Pt3Sn: Pt 0.75, Sn 0.25 | experimental | [1] Cui 2021; _cites Shelton 1981_ | Table 6, p. 10, row 7; `ORC-44GIED2S46` |  |
-| 1677.15 | Liquid -> Pt3Sn | Liquid: Sn 0.25; Pt3Sn: Sn 0.25 | model | [1] Cui 2021 | Table 6, p. 10, row 12; `ORC-SNYLMNG24O` |  |
-| 1677.15 | Liquid -> Pt3Sn | Liquid: Sn 0.25; Pt3Sn: Sn 0.25 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 10, row 9; `ORC-UZIIDWWDPJ` |  |
+| 1679.15 | congruent melting: Liquid -> Pt3Sn | Liquid: Pt 0.75, Sn 0.25; Pt3Sn: Pt 0.75, Sn 0.25 | experimental | [1] Cui 2021; _cites Shelton 1981_ | Table 6, p. 10, row 7; `ORC-44GIED2S46` |  |
+| 1677.15 | congruent melting: Liquid -> Pt3Sn | Liquid: Sn 0.25; Pt3Sn: Sn 0.25 | model | [1] Cui 2021 | Table 6, p. 10, row 12; `ORC-SNYLMNG24O` |  |
+| 1677.15 | congruent melting: Liquid -> Pt3Sn | Liquid: Sn 0.25; Pt3Sn: Sn 0.25 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 10, row 9; `ORC-UZIIDWWDPJ` |  |
 | 1675.15 | congruent melting: Liq ↔ Pt3Sn | Liq: Pt 0.75, Sn 0.25; Pt3Sn: Pt 0.75, Sn 0.25 | experimental | [2] Grolier 2008; _cites Ph 1994_ | Table 3, p. 5, row 3; `ORC-JIS3F7MV3P` |  |
-| 1675.15 | Liquid -> Pt3Sn | Liquid: Sn 0.25; Pt3Sn: Sn 0.25 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 10, row 10; `ORC-S4WUY7PRDK` |  |
-| 1675.15 | Liquid -> Pt3Sn | Liquid: Sn 0.25; Pt3Sn: Sn 0.25 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 10, row 8; `ORC-VP5TYXLMJA` |  |
+| 1675.15 | congruent melting: Liquid -> Pt3Sn | Liquid: Sn 0.25; Pt3Sn: Sn 0.25 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 10, row 10; `ORC-S4WUY7PRDK` |  |
+| 1675.15 | congruent melting: Liquid -> Pt3Sn | Liquid: Sn 0.25; Pt3Sn: Sn 0.25 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 10, row 8; `ORC-VP5TYXLMJA` |  |
 | 1674.85 | congruent melting: Liq ↔ Pt3Sn | Liq: Pt 0.75, Sn 0.25; Pt3Sn: Pt 0.75, Sn 0.25 | model | [2] Grolier 2008 | Table 3, p. 5, row 4; `ORC-NPHI7VQ2JR` |  |
-| 1674.15 | Liquid -> Pt3Sn | Liquid: Sn 0.25; Pt3Sn: Sn 0.25 | model | [1] Cui 2021 | Table 6, p. 10, row 11; `ORC-UXQWCII3BB` |  |
-| 1656.15 | Liquid -> (Pt) + Pt3Sn | Liquid: Sn 0.215; (Pt): Sn 0.127; Pt3Sn: Sn 0.25 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 10, row 4; `ORC-5NRGZHEYYF` |  |
-| 1644.15 | Liquid -> (Pt) + Pt3Sn | Liquid: Sn 0.206; (Pt): Sn 0.122; Pt3Sn: Sn 0.25 | model | [1] Cui 2021 | Table 6, p. 10, row 5; `ORC-BTX5RSGXDQ` |  |
+| 1674.15 | congruent melting: Liquid -> Pt3Sn | Liquid: Sn 0.25; Pt3Sn: Sn 0.25 | model | [1] Cui 2021 | Table 6, p. 10, row 11; `ORC-UXQWCII3BB` |  |
+| 1656.15 | eutectic: Liquid -> (Pt) + Pt3Sn | Liquid: Sn 0.215; (Pt): Sn 0.127; Pt3Sn: Sn 0.25 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 10, row 4; `ORC-5NRGZHEYYF` |  |
+| 1644.15 | eutectic: Liquid -> (Pt) + Pt3Sn | Liquid: Sn 0.206; (Pt): Sn 0.122; Pt3Sn: Sn 0.25 | model | [1] Cui 2021 | Table 6, p. 10, row 5; `ORC-BTX5RSGXDQ` |  |
 | 1643.15 | eutectic: Liq ↔ (Pt) + Pt3Sn | Liq: Sn 0.196; Pt3Sn: Pt 0.75, Sn 0.25 | experimental | [2] Grolier 2008; _cites Ph 1994_ | Table 3, p. 5, row 1; `ORC-TBRZNEC2JM` |  |
-| 1643.15 | Liquid -> (Pt) + Pt3Sn | Liquid: Sn 0.196; (Pt): Sn 0.126; Pt3Sn: Sn 0.25 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 10, row 2; `ORC-YQJUTZ7VY6` |  |
-| 1643 | Liq.->Pt (f.c.c.)+Pt3Sn | Liq.: Sn 0.196; Pt3Sn: Sn 0.25 | experimental | [3] Su 2001; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 1, p. 2, row 2; `ORC-QACSL755UU` |  |
-| 1641.75 | Liquid -> (Pt) + Pt3Sn | Liquid: Sn 0.207; (Pt): Sn 0.121; Pt3Sn: Sn 0.25 | model | [1] Cui 2021 | Table 6, p. 10, row 6; `ORC-JVQQZH6FYK` |  |
+| 1643.15 | eutectic: Liquid -> (Pt) + Pt3Sn | Liquid: Sn 0.196; (Pt): Sn 0.126; Pt3Sn: Sn 0.25 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 10, row 2; `ORC-YQJUTZ7VY6` |  |
+| 1643 | eutectic: Liq.->Pt (f.c.c.)+Pt3Sn | Liq.: Sn 0.196; Pt3Sn: Sn 0.25 | experimental | [3] Su 2001; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 1, p. 2, row 2; `ORC-QACSL755UU` |  |
+| 1641.75 | eutectic: Liquid -> (Pt) + Pt3Sn | Liquid: Sn 0.207; (Pt): Sn 0.121; Pt3Sn: Sn 0.25 | model | [1] Cui 2021 | Table 6, p. 10, row 6; `ORC-JVQQZH6FYK` |  |
 | 1641.45 | eutectic: Liq ↔ (Pt) + Pt3Sn | Liq: Sn 0.203; Pt3Sn: Pt 0.75, Sn 0.25 | model | [2] Grolier 2008 | Table 3, p. 5, row 2; `ORC-RLTFZZKRHB` |  |
-| 1638 | Liq.->Pt (f.c.c.)+Pt3Sn | Pt3Sn: Sn 0.25 | experimental | [3] Su 2001; _cites Hansen 1990_ | Table 1, p. 2, row 1; `ORC-6ZSBO5TL5N` |  |
-| 1637.15 | Liquid -> (Pt) + Pt3Sn | Pt3Sn: Pt 0.75, Sn 0.25 | experimental | [1] Cui 2021; _cites Doerinckel 1907_ [doi](https://doi.org/10.1002/zaac.19070540130) | Table 6, p. 10, row 1; `ORC-ONNPBQN3BR` |  |
-| 1632.15 | Liquid -> (Pt) + Pt3Sn | Liquid: Sn 0.2; (Pt): Sn 0.127; Pt3Sn: Sn 0.25 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 10, row 3; `ORC-2IECW2VWKO` |  |
-| 1632 | Liq.->Pt (f.c.c.)+Pt3Sn | Liq.: Sn 0.2; Pt3Sn: Sn 0.25 | model | [3] Su 2001 | Table 1, p. 2, row 3; `ORC-DIWVKOLLID` |  |
-| 1578.15 | Liquid -> PtSn | Liquid: Pt 0.5, Sn 0.5; PtSn: Pt 0.5, Sn 0.5 | experimental | [1] Cui 2021; _cites Shelton 1981_ | Table 6, p. 10, row 20; `ORC-FKXAUQNJYK` |  |
-| 1554.15 | Liquid -> PtSn | Liquid: Pt 0.5, Sn 0.5; PtSn: Pt 0.5, Sn 0.5 | experimental | [1] Cui 2021; _cites Doerinckel 1907_ [doi](https://doi.org/10.1002/zaac.19070540130) | Table 6, p. 10, row 19; `ORC-3OYPJXMDQX` |  |
-| 1549.15 | Liquid -> PtSn | Liquid: Sn 0.5; PtSn: Sn 0.5 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 10, row 23; `ORC-4ULQPO5YZM` |  |
-| 1549.15 | Liquid -> PtSn | Liquid: Sn 0.5; PtSn: Sn 0.5 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 10, row 21; `ORC-FTVVBMJPN2` |  |
-| 1549.15 | Liquid -> PtSn | Liquid: Sn 0.5; PtSn: Sn 0.5 | model | [1] Cui 2021 | Table 6, p. 10, row 25; `ORC-HWGS6Q64GA` |  |
+| 1638 | eutectic: Liq.->Pt (f.c.c.)+Pt3Sn | Pt3Sn: Sn 0.25 | experimental | [3] Su 2001; _cites Hansen 1990_ | Table 1, p. 2, row 1; `ORC-6ZSBO5TL5N` |  |
+| 1637.15 | eutectic: Liquid -> (Pt) + Pt3Sn | Pt3Sn: Pt 0.75, Sn 0.25 | experimental | [1] Cui 2021; _cites Doerinckel 1907_ [doi](https://doi.org/10.1002/zaac.19070540130) | Table 6, p. 10, row 1; `ORC-ONNPBQN3BR` |  |
+| 1632.15 | eutectic: Liquid -> (Pt) + Pt3Sn | Liquid: Sn 0.2; (Pt): Sn 0.127; Pt3Sn: Sn 0.25 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 10, row 3; `ORC-2IECW2VWKO` |  |
+| 1632 | eutectic: Liq.->Pt (f.c.c.)+Pt3Sn | Liq.: Sn 0.2; Pt3Sn: Sn 0.25 | model | [3] Su 2001 | Table 1, p. 2, row 3; `ORC-DIWVKOLLID` |  |
+| 1578.15 | congruent melting: Liquid -> PtSn | Liquid: Pt 0.5, Sn 0.5; PtSn: Pt 0.5, Sn 0.5 | experimental | [1] Cui 2021; _cites Shelton 1981_ | Table 6, p. 10, row 20; `ORC-FKXAUQNJYK` |  |
+| 1554.15 | congruent melting: Liquid -> PtSn | Liquid: Pt 0.5, Sn 0.5; PtSn: Pt 0.5, Sn 0.5 | experimental | [1] Cui 2021; _cites Doerinckel 1907_ [doi](https://doi.org/10.1002/zaac.19070540130) | Table 6, p. 10, row 19; `ORC-3OYPJXMDQX` |  |
+| 1549.15 | congruent melting: Liquid -> PtSn | Liquid: Sn 0.5; PtSn: Sn 0.5 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 10, row 23; `ORC-4ULQPO5YZM` |  |
+| 1549.15 | congruent melting: Liquid -> PtSn | Liquid: Sn 0.5; PtSn: Sn 0.5 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 10, row 21; `ORC-FTVVBMJPN2` |  |
+| 1549.15 | congruent melting: Liquid -> PtSn | Liquid: Sn 0.5; PtSn: Sn 0.5 | model | [1] Cui 2021 | Table 6, p. 10, row 25; `ORC-HWGS6Q64GA` |  |
 | 1549.15 | congruent melting: Liq ↔ PtSn | Liq: Pt 0.5, Sn 0.5; PtSn: Pt 0.5, Sn 0.5 | experimental | [2] Grolier 2008; _cites Ph 1994_ | Table 3, p. 5, row 7; `ORC-JXFNBALJRK` |  |
 | 1548.65 | congruent melting: Liq ↔ PtSn | Liq: Pt 0.5, Sn 0.5; PtSn: Pt 0.5, Sn 0.5 | model | [2] Grolier 2008 | Table 3, p. 5, row 8; `ORC-DCCAYBSHMV` |  |
-| 1540.15 | Liquid -> PtSn | Liquid: Sn 0.5; PtSn: Sn 0.5 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 10, row 22; `ORC-QVD4DRUI5T` |  |
-| 1353.15 | Liquid -> Pt3Sn + PtSn | Pt3Sn: Pt 0.75, Sn 0.25; PtSn: Pt 0.5, Sn 0.5 | experimental | [1] Cui 2021; _cites Doerinckel 1907_ [doi](https://doi.org/10.1002/zaac.19070540130) | Table 6, p. 10, row 13; `ORC-OLMPRW6YHU` |  |
-| 1352.15 | Liquid -> Pt3Sn + PtSn | Liquid: Sn 0.382; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 10, row 15; `ORC-HJ7LRJK6UB` |  |
-| 1352 | Liq.->Pt3Sn+PtSn | Liq.: Sn 0.382; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | model | [3] Su 2001 | Table 1, p. 2, row 9; `ORC-OWXRWVMIVH` |  |
-| 1343 | Liq.->Pt3Sn+PtSn | Liq.: Sn 0.4; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | experimental | [3] Su 2001; _cites Hansen 1990_ | Table 1, p. 2, row 7; `ORC-CL5B5I7UPV` |  |
+| 1540.15 | congruent melting: Liquid -> PtSn | Liquid: Sn 0.5; PtSn: Sn 0.5 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 10, row 22; `ORC-QVD4DRUI5T` |  |
+| 1353.15 | eutectic: Liquid -> Pt3Sn + PtSn | Pt3Sn: Pt 0.75, Sn 0.25; PtSn: Pt 0.5, Sn 0.5 | experimental | [1] Cui 2021; _cites Doerinckel 1907_ [doi](https://doi.org/10.1002/zaac.19070540130) | Table 6, p. 10, row 13; `ORC-OLMPRW6YHU` |  |
+| 1352.15 | eutectic: Liquid -> Pt3Sn + PtSn | Liquid: Sn 0.382; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 10, row 15; `ORC-HJ7LRJK6UB` |  |
+| 1352 | eutectic: Liq.->Pt3Sn+PtSn | Liq.: Sn 0.382; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | model | [3] Su 2001 | Table 1, p. 2, row 9; `ORC-OWXRWVMIVH` |  |
+| 1343 | eutectic: Liq.->Pt3Sn+PtSn | Liq.: Sn 0.4; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | experimental | [3] Su 2001; _cites Hansen 1990_ | Table 1, p. 2, row 7; `ORC-CL5B5I7UPV` |  |
 | 1341.15 | eutectic: Liq ↔ Pt3Sn + PtSn | Liq: Sn 0.382; Pt3Sn: Pt 0.75, Sn 0.25; PtSn: Pt 0.5, Sn 0.5 | model | [2] Grolier 2008 | Table 3, p. 5, row 6; `ORC-BIY45SC6YC` |  |
-| 1341.15 | Liquid -> Pt3Sn + PtSn | Liquid: Sn 0.382; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 10, row 16; `ORC-G3VQYYGXTS` |  |
-| 1341.15 | Liquid -> Pt3Sn + PtSn | Liquid: Sn 0.375; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | model | [1] Cui 2021 | Table 6, p. 10, row 18; `ORC-NN52XO5J4Y` |  |
+| 1341.15 | eutectic: Liquid -> Pt3Sn + PtSn | Liquid: Sn 0.382; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 10, row 16; `ORC-G3VQYYGXTS` |  |
+| 1341.15 | eutectic: Liquid -> Pt3Sn + PtSn | Liquid: Sn 0.375; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | model | [1] Cui 2021 | Table 6, p. 10, row 18; `ORC-NN52XO5J4Y` |  |
 | 1340.15 | eutectic: Liq ↔ Pt3Sn + PtSn | Liq: Sn 0.394; Pt3Sn: Pt 0.75, Sn 0.25; PtSn: Pt 0.5, Sn 0.5 | experimental | [2] Grolier 2008; _cites Ph 1994_ | Table 3, p. 5, row 5; `ORC-24QUBT3ES6` |  |
-| 1340.15 | Liquid -> Pt3Sn + PtSn | Liquid: Sn 0.394; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 10, row 14; `ORC-EXZ5BVPHBU` |  |
-| 1340 | Liq.->Pt3Sn+PtSn | Liq.: Sn 0.394; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | experimental | [3] Su 2001; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 1, p. 2, row 8; `ORC-QVPIEAM75R` |  |
-| 1339.65 | Liquid -> Pt3Sn + PtSn | Liquid: Sn 0.382; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | model | [1] Cui 2021 | Table 6, p. 10, row 17; `ORC-TIPIP3BXPW` |  |
+| 1340.15 | eutectic: Liquid -> Pt3Sn + PtSn | Liquid: Sn 0.394; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 10, row 14; `ORC-EXZ5BVPHBU` |  |
+| 1340 | eutectic: Liq.->Pt3Sn+PtSn | Liq.: Sn 0.394; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | experimental | [3] Su 2001; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 1, p. 2, row 8; `ORC-QVPIEAM75R` |  |
+| 1339.65 | eutectic: Liquid -> Pt3Sn + PtSn | Liquid: Sn 0.382; Pt3Sn: Sn 0.25; PtSn: Sn 0.5 | model | [1] Cui 2021 | Table 6, p. 10, row 17; `ORC-TIPIP3BXPW` |  |
 | 1171.15 | Liquid + PtSn -> Pt2Sn3 | Liquid: Sn 0.734; PtSn: Sn 0.5; Pt2Sn3: Sn 0.6 | model | [1] Cui 2021 | Table 6, p. 10, row 31; `ORC-4532KWRPBT` |  |
 | 1171.15 | Liquid + PtSn -> Pt2Sn3 | Liquid: Sn 0.726; PtSn: Sn 0.5; Pt2Sn3: Sn 0.6 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 10, row 30; `ORC-FF5H5243ZF` |  |
 | 1171.15 | Liquid + PtSn -> Pt2Sn3 | Liquid: Sn 0.728; PtSn: Sn 0.5; Pt2Sn3: Sn 0.6 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 10, row 28; `ORC-HMAB3MVW46` |  |
@@ -159,7 +159,6 @@ Table: Invariant reactions reported in the literature for the Pt–Sn system (87
 | 813.15 | peritectic: Liq + PtSn2 ↔ PtSn4 | Liq: Sn 0.95; PtSn2: Pt 0.333333, Sn 0.666667; PtSn4: Pt 0.2, Sn 0.8 | experimental | [2] Grolier 2008; _cites Ph 1994_ | Table 3, p. 5, row 13; `ORC-GTQRXDUWHV` |  |
 | 813.15 | Liquid + PtSn2 -> PtSn4 | Liquid: Sn 0.95; PtSn2: Sn 0.67; PtSn4: Sn 0.8 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 11, row 10; `ORC-SGGSEYDCWB` |  |
 | 813.15 | Liquid + PtSn2 -> PtSn4 | Liquid: Sn 0.95; PtSn2: Sn 0.67; PtSn4: Sn 0.8 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 11, row 12; `ORC-WFGIC32PEZ` |  |
-| 813.15 | peritectic |  | experimental | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | p. 2; `ORC-YAHKKWQTSA` | “Its range of stability extends from absolute zero up to a peritectic decomposition temperature at ~540 C \[8,9\], and the PtSn4 liquidus is accessible for the self-flux growth of single crystal from a Sn-rich alloy melt (>95 at.% Sn) and from the liquidus temperature all the way down to ~300 C, which provides an avenue to grow the PtSn4 phase from a wide range of alloy melt compositions.” |
 | 813 | Liq.+PtSn2->PtSn4 | Liq.: Sn 0.95; PtSn2: Sn 0.666667; PtSn4: Sn 0.8 | experimental | [3] Su 2001; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 1, p. 2, row 20; `ORC-7CDJNSKEIF` |  |
 | 813 | Liq.+PtSn2->PtSn4 | Liq.: Sn 0.95; PtSn2: Sn 0.666667; PtSn4: Sn 0.8 | model | [3] Su 2001 | Table 1, p. 2, row 21; `ORC-D2FC3OJFTU` |  |
 | 812.75 | peritectic: Liq + PtSn2 ↔ PtSn4 | Liq: Sn 0.939; PtSn2: Pt 0.333333, Sn 0.666667; PtSn4: Pt 0.2, Sn 0.8 | model | [2] Grolier 2008 | Table 3, p. 5, row 14; `ORC-ZPUB5JDKZM` |  |
@@ -168,19 +167,19 @@ Table: Invariant reactions reported in the literature for the Pt–Sn system (87
 | 810.15 | Liquid + PtSn2 -> PtSn4 | PtSn2: Pt 0.333333, Sn 0.666667; PtSn4: Pt 0.2, Sn 0.8 | experimental | [1] Cui 2021; _cites Doerinckel 1907_ [doi](https://doi.org/10.1002/zaac.19070540130) | Table 6, p. 11, row 8; `ORC-RJPHDPKS47` |  |
 | 795.15 | Liquid + PtSn2 -> PtSn4 | PtSn2: Pt 0.333333, Sn 0.666667; PtSn4: Pt 0.2, Sn 0.8 | unspecified | [1] Cui 2021; _cites Shelton 1981_ | Table 6, p. 11, row 9; `ORC-VUPBZA3G2B` |  |
 | 795 | Liq.+PtSn2->PtSn4 | Liq.: Sn 0.95; PtSn2: Sn 0.666667; PtSn4: Sn 0.8 | experimental | [3] Su 2001; _cites Hansen 1990_ | Table 1, p. 2, row 19; `ORC-YBQVIRX6PH` |  |
-| 505.15 | Liquid -> PtSn4 + (β\_Sn) | PtSn4: Pt 0.2, Sn 0.8 | experimental | [1] Cui 2021; _cites Doerinckel 1907_ [doi](https://doi.org/10.1002/zaac.19070540130) | Table 6, p. 11, row 16; `ORC-622NR5ZPFL` |  |
-| 505.15 | Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.9996; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | model | [1] Cui 2021 | Table 6, p. 11, row 21; `ORC-BRA4643PT5` |  |
-| 505.15 | Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.999; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 11, row 20; `ORC-M3UQB7RKVL` |  |
-| 505.15 | Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.9998; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | model | [1] Cui 2021 | Table 6, p. 11, row 22; `ORC-WBCG3JP2XU` |  |
+| 505.15 | eutectic: Liquid -> PtSn4 + (β\_Sn) | PtSn4: Pt 0.2, Sn 0.8 | experimental | [1] Cui 2021; _cites Doerinckel 1907_ [doi](https://doi.org/10.1002/zaac.19070540130) | Table 6, p. 11, row 16; `ORC-622NR5ZPFL` |  |
+| 505.15 | eutectic: Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.9996; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | model | [1] Cui 2021 | Table 6, p. 11, row 21; `ORC-BRA4643PT5` |  |
+| 505.15 | eutectic: Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.999; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | model | [1] Cui 2021; _cites Grolier 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.11.027) | Table 6, p. 11, row 20; `ORC-M3UQB7RKVL` |  |
+| 505.15 | eutectic: Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.9998; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | model | [1] Cui 2021 | Table 6, p. 11, row 22; `ORC-WBCG3JP2XU` |  |
 | 505.05 | eutectic: Liq ↔ PtSn4 + β-Sn | Liq: Sn 0.9999; PtSn4: Pt 0.2, Sn 0.8 | model | [2] Grolier 2008 | Table 3, p. 5, row 16; `ORC-BDKW6IM3MG` |  |
-| 504.3 | Liq.->PtSn4+βSn (bct) | Liq.: Sn 0.997; PtSn4: Sn 0.8; βSn (bct): Sn 1 | model | [3] Su 2001 | Table 1, p. 2, row 24; `ORC-UTPF6VA5I3` |  |
-| 504.15 | Liquid -> PtSn4 + (β\_Sn) | PtSn4: Pt 0.2, Sn 0.8 | experimental | [1] Cui 2021 | Table 6, p. 11, row 18; `ORC-HWX3AYL2HW` |  |
-| 504.15 | Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.997; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 11, row 19; `ORC-UDY2ABW7LI` |  |
+| 504.3 | eutectic: Liq.->PtSn4+βSn (bct) | Liq.: Sn 0.997; PtSn4: Sn 0.8; βSn (bct): Sn 1 | model | [3] Su 2001 | Table 1, p. 2, row 24; `ORC-UTPF6VA5I3` |  |
+| 504.15 | eutectic: Liquid -> PtSn4 + (β\_Sn) | PtSn4: Pt 0.2, Sn 0.8 | experimental | [1] Cui 2021 | Table 6, p. 11, row 18; `ORC-HWX3AYL2HW` |  |
+| 504.15 | eutectic: Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.997; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | model | [1] Cui 2021; _cites Su 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901201-4) | Table 6, p. 11, row 19; `ORC-UDY2ABW7LI` |  |
 | 501.15 | eutectic: Liq ↔ PtSn4 + β-Sn | Liq: Sn 0.994; PtSn4: Pt 0.2, Sn 0.8 | experimental | [2] Grolier 2008; _cites Ph 1994_ | Table 3, p. 5, row 15; `ORC-4VXEOXJK7N` |  |
-| 501.15 | Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.994; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 11, row 17; `ORC-RSN4KDHQYZ` |  |
-| 501 | Liq.->PtSn4+βSn (bct) | Liq.: Sn 0.994; PtSn4: Sn 0.8; βSn (bct): Sn 1 | experimental | [3] Su 2001; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 1, p. 2, row 23; `ORC-JLP7IPD3N5` |  |
-| 501 | Liq.->PtSn4+βSn (bct) | Liq.: Sn 0.995; PtSn4: Sn 0.8; βSn (bct): Sn 1 | experimental | [3] Su 2001; _cites Hansen 1990_ | Table 1, p. 2, row 22; `ORC-NVNJ5QHGL2` |  |
-| 286.15 | (β\_Sn) -> (α\_Sn) |  | model | [1] Cui 2021; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 6, p. 11, row 23; `ORC-CG6JAMIJ5S` |  |
+| 501.15 | eutectic: Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.994; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 11, row 17; `ORC-RSN4KDHQYZ` |  |
+| 501 | eutectic: Liq.->PtSn4+βSn (bct) | Liq.: Sn 0.994; PtSn4: Sn 0.8; βSn (bct): Sn 1 | experimental | [3] Su 2001; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 1, p. 2, row 23; `ORC-JLP7IPD3N5` |  |
+| 501 | eutectic: Liq.->PtSn4+βSn (bct) | Liq.: Sn 0.995; PtSn4: Sn 0.8; βSn (bct): Sn 1 | experimental | [3] Su 2001; _cites Hansen 1990_ | Table 1, p. 2, row 22; `ORC-NVNJ5QHGL2` |  |
+| 286.15 | polymorphic: (β\_Sn) -> (α\_Sn) |  | model | [1] Cui 2021; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 6, p. 11, row 23; `ORC-CG6JAMIJ5S` |  |
 
 ## Formation enthalpies
 
@@ -192,7 +191,7 @@ Table: Enthalpies of formation, Pt–Sn system (36)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Pt2Sn3 | [Pt2Sn3](https://data.orchid-project.org/compounds/Pt2Sn3.html) | -54.5 kJ/mol-atom | 298.15 | experimental | -48.526 (mp-aaaabtqk) | -54.42 (oqmd-18003) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 20; `ORC-ZVCXMD3N6Q` |  |
 | Pt2Sn3 | [Pt2Sn3](https://data.orchid-project.org/compounds/Pt2Sn3.html) | -54.4 kJ/mol-atom | 298.15 | experimental | -48.526 (mp-aaaabtqk) | -54.42 (oqmd-18003) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 19; `ORC-RKWRFSOERU` |  |
-| Pt2Sn3 | [Pt2Sn3](https://data.orchid-project.org/compounds/Pt2Sn3.html) | -52.32 kJ/mol-atom |  | model | -48.526 (mp-aaaabtqk) | -54.42 (oqmd-18003) | [4] Hu 2022 | Table 9, p. 10, row 3; `ORC-7NHWJLWLJX.fcad53` |  |
+| Pt2Sn3 |  | -52.32 kJ/mol-atom |  | DFT |  |  | [4] Hu 2022 | Table 9, p. 10, row 3; `ORC-7NHWJLWLJX.fcad53` |  |
 | Pt2Sn3 | [Pt2Sn3](https://data.orchid-project.org/compounds/Pt2Sn3.html) | -52.2778 kJ/mol-atom |  | model | -48.526 (mp-aaaabtqk) | -54.42 (oqmd-18003) | [4] Hu 2022 | Table 9, p. 10, row 3; `ORC-7NHWJLWLJX.e633a1` |  |
 | Pt2Sn3 | [Pt2Sn3](https://data.orchid-project.org/compounds/Pt2Sn3.html) | -51.8 kJ/mol-atom | 298.15 | model | -48.526 (mp-aaaabtqk) | -54.42 (oqmd-18003) | [1] Cui 2021 | Table 5, p. 10, row 18; `ORC-XHKVLT6SJV` |  |
 | Pt2Sn3 | [Pt2Sn3](https://data.orchid-project.org/compounds/Pt2Sn3.html) | -51.7 kJ/mol-atom | 298.15 | model | -48.526 (mp-aaaabtqk) | -54.42 (oqmd-18003) | [1] Cui 2021 | Table 5, p. 10, row 17; `ORC-FJL477GZQI` |  |
@@ -202,13 +201,13 @@ Table: Enthalpies of formation, Pt–Sn system (36)
 | Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -43 kJ/mol-atom | 298.15 | experimental | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 7; `ORC-4UKR7EBTLD` |  |
 | Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -37.2 kJ/mol-atom | 298.15 | model | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [1] Cui 2021 | Table 5, p. 10, row 4; `ORC-H55JFYISPF` |  |
 | Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -35.9403 kJ/mol-atom |  | model | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [4] Hu 2022 | Table 9, p. 10, row 1; `ORC-FTZCRBAUGU.2bc75f` |  |
-| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -35.904 kJ/mol-atom |  | model | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [4] Hu 2022 | Table 9, p. 10, row 1; `ORC-FTZCRBAUGU.c974d3` |  |
+| Pt3Sn |  | -35.904 kJ/mol-atom |  | DFT |  |  | [4] Hu 2022 | Table 9, p. 10, row 1; `ORC-FTZCRBAUGU.c974d3` |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -74.2 kJ/mol-atom | 1354.15 | model | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021 | Table 5, p. 10, row 8; `ORC-XNIV7NZWXM` |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -74 kJ/mol-atom | 1354.15 | experimental | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 5, p. 10, row 10; `ORC-7BLRFYPELH` |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -74 kJ/mol-atom | 1354.15 | model | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021 | Table 5, p. 10, row 9; `ORC-TI4LDG5LQM` |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -61.8 kJ/mol-atom | 298.15 | experimental | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 15; `ORC-AFAH6QGRJ2` |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -58.9466 kJ/mol-atom |  | model | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [4] Hu 2022 | Table 9, p. 10, row 2; `ORC-4BCCJZK3NB.48bbc7` |  |
-| PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -58.944 kJ/mol-atom |  | model | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [4] Hu 2022 | Table 9, p. 10, row 2; `ORC-4BCCJZK3NB.8c730a` |  |
+| PtSn |  | -58.944 kJ/mol-atom |  | DFT |  |  | [4] Hu 2022 | Table 9, p. 10, row 2; `ORC-4BCCJZK3NB.8c730a` |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -58.8 kJ/mol-atom | 298.15 | experimental | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 5, p. 10, row 13; `ORC-ZZ437YPDST` |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -58.7 kJ/mol-atom | 298.15 | model | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021 | Table 5, p. 10, row 11; `ORC-AZ4I7RTXPT` |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -58.6 kJ/mol-atom | 298.15 | experimental | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 14; `ORC-CXG4JUUZUX` |  |
@@ -216,20 +215,20 @@ Table: Enthalpies of formation, Pt–Sn system (36)
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -58.4 kJ/mol-atom | 298.15 | experimental | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021; _cites Colinet 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.05.001) | Table 5, p. 10, row 16; `ORC-SO7S3UWQX3` |  |
 | PtSn2 | [PtSn2](https://data.orchid-project.org/compounds/PtSn2.html) | -52.3 kJ/mol-atom | 298.15 | experimental | -43.179 (mp-aaaabdnu) | -49.842 (oqmd-18001) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 23; `ORC-IGQOY5GPTD` |  |
 | PtSn2 | [PtSn2](https://data.orchid-project.org/compounds/PtSn2.html) | -50 kJ/mol-atom | 298.15 | experimental | -43.179 (mp-aaaabdnu) | -49.842 (oqmd-18001) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 24; `ORC-VSGKWWKYKO` |  |
-| PtSn2 | [PtSn2](https://data.orchid-project.org/compounds/PtSn2.html) | -47.712 kJ/mol-atom |  | model | -43.179 (mp-aaaabdnu) | -49.842 (oqmd-18001) | [4] Hu 2022 | Table 9, p. 10, row 4; `ORC-STFMXXG5YZ.3b7717` |  |
+| PtSn2 |  | -47.712 kJ/mol-atom |  | DFT |  |  | [4] Hu 2022 | Table 9, p. 10, row 4; `ORC-STFMXXG5YZ.3b7717` |  |
 | PtSn2 | [PtSn2](https://data.orchid-project.org/compounds/PtSn2.html) | -47.1 kJ/mol-atom | 298.15 | model | -43.179 (mp-aaaabdnu) | -49.842 (oqmd-18001) | [1] Cui 2021 | Table 5, p. 10, row 21; `ORC-INHSYMQERP` |  |
 | PtSn2 | [PtSn2](https://data.orchid-project.org/compounds/PtSn2.html) | -47.0371 kJ/mol-atom |  | model | -43.179 (mp-aaaabdnu) | -49.842 (oqmd-18001) | [4] Hu 2022 | Table 9, p. 10, row 4; `ORC-STFMXXG5YZ.363307` |  |
 | PtSn2 | [PtSn2](https://data.orchid-project.org/compounds/PtSn2.html) | -46.2 kJ/mol-atom | 298.15 | model | -43.179 (mp-aaaabdnu) | -49.842 (oqmd-18001) | [1] Cui 2021 | Table 5, p. 10, row 22; `ORC-PHNX3RKBNN` |  |
 | PtSn4 | [PtSn4](https://data.orchid-project.org/compounds/PtSn4.html) | -32.9 kJ/mol-atom | 298.15 | experimental | -27.109 (mp-aaaabeos) | -34.107 (oqmd-647912) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 28; `ORC-AVKISVQWKN` |  |
 | PtSn4 | [PtSn4](https://data.orchid-project.org/compounds/PtSn4.html) | -31.9 kJ/mol-atom | 298.15 | model | -27.109 (mp-aaaabeos) | -34.107 (oqmd-647912) | [1] Cui 2021 | Table 5, p. 10, row 25; `ORC-QQHNEVXSKW` |  |
 | PtSn4 | [PtSn4](https://data.orchid-project.org/compounds/PtSn4.html) | -31.3633 kJ/mol-atom |  | model | -27.109 (mp-aaaabeos) | -34.107 (oqmd-647912) | [4] Hu 2022 | Table 9, p. 10, row 5; `ORC-QI4EQ7APEJ.c65b43` |  |
-| PtSn4 | [PtSn4](https://data.orchid-project.org/compounds/PtSn4.html) | -30.816 kJ/mol-atom |  | model | -27.109 (mp-aaaabeos) | -34.107 (oqmd-647912) | [4] Hu 2022 | Table 9, p. 10, row 5; `ORC-QI4EQ7APEJ.2a80b2` |  |
+| PtSn4 |  | -30.816 kJ/mol-atom |  | DFT |  |  | [4] Hu 2022 | Table 9, p. 10, row 5; `ORC-QI4EQ7APEJ.2a80b2` |  |
 | PtSn4 | [PtSn4](https://data.orchid-project.org/compounds/PtSn4.html) | -28.1 kJ/mol-atom | 298.15 | model | -27.109 (mp-aaaabeos) | -34.107 (oqmd-647912) | [1] Cui 2021 | Table 5, p. 10, row 26; `ORC-RFQAYHW6DB` |  |
 | PtSn4 | [PtSn4](https://data.orchid-project.org/compounds/PtSn4.html) | -27.2 kJ/mol-atom | 298.15 | experimental | -27.109 (mp-aaaabeos) | -34.107 (oqmd-647912) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 27; `ORC-AGQDI4SAXU` |  |
 
 ## Other properties
 
-### Phase transition (18)
+### Phase transition (15)
 
 Table: Phase transition, Pt–Sn system
 
@@ -238,8 +237,6 @@ Table: Phase transition, Pt–Sn system
 | Phase transition | 504.05 K | 504.05 | eutectic: 6 | experimental | [1] Cui 2021 | Table 1, p. 2, row 5; `ORC-RY7PLYQ5MT` |  |
 | Phase transition | 504.25 K | 504.25 | eutectic: 2 | experimental | [1] Cui 2021 | Table 1, p. 2, row 1; `ORC-IDVR327I7N` |  |
 | Phase transition | 504.35 K | 504.35 | eutectic: 4 | experimental | [1] Cui 2021 | Table 1, p. 2, row 3; `ORC-K7BUET2LI2` |  |
-| Phase transition | 504.5 K | 504.5 | I1 | experimental | [1] Cui 2021 | p. 2; `ORC-GPEXU67BRG` | “The average measured I1 onset temperature for the two heating cycles employing a 10-min isothermal holding before the transition was 231.35 C.” |
-| Phase transition | 504.55 K | 504.55 | I1 | experimental | [1] Cui 2021 | p. 2; `ORC-YWGBWMNGQS` | “For this specimen, the average measured I1 onset temperature for the four continuous heating cycles was found to be 231.4 C (see Table 1).” |
 | Phase transition | 504.55 K | 504.55 | eutectic: 12; _alloy: Pt 0.12, Sn 0.88_ | experimental | [1] Cui 2021 | Table 1, p. 2, row 8; `ORC-46MFCTTJMU` |  |
 | Phase transition | 742.15 K | 742.15 | other: 2 | experimental | [1] Cui 2021 | Table 1, p. 2, row 2; `ORC-3ZG3BRPS3Z` |  |
 | Phase transition | 792.55 K | 792.55 | other: 4 | experimental | [1] Cui 2021 | Table 1, p. 2, row 4; `ORC-OBDMSFD3MI` |  |
@@ -252,7 +249,6 @@ Table: Phase transition, Pt–Sn system
 | Phase transition | 1675 K | 1675 | Liq.->Pt3Sn; _Liq.: Sn 0.25; Pt3Sn: Sn 0.25_ | experimental | [3] Su 2001; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 1, p. 2, row 5; `ORC-Y3RGY5HDLR` |  |
 | Phase transition | 1677 K | 1677 | Liq.->Pt3Sn; _Liq.: Sn 0.25; Pt3Sn: Sn 0.25_ | model | [3] Su 2001 | Table 1, p. 2, row 6; `ORC-PPXZJVMZ2M` |  |
 | Phase transition | 1693 K | 1693 | Liq.->Pt3Sn; _Liq.: Sn 0.25; Pt3Sn: Sn 0.25_ | experimental | [3] Su 2001; _cites Hansen 1990_ | Table 1, p. 2, row 4; `ORC-Q5SKXPCIN4` |  |
-| Phase transition | 2041.5 K | 2041.5 |  | model | [2] Grolier 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 5; `ORC-L35MAOEFA2` | “accepted 1768.35 ◦ C \[32\] used for this calculation.” |
 
 ### Phase equilibrium (8)
 

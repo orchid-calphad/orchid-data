@@ -1,10 +1,10 @@
 # Bi–Tm system
 
-> Bi–Tm system: 56 accepted literature values (invariant reaction 34, crystal structure 12, formation 8, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Tm system: 50 accepted literature values (invariant reaction 28, crystal structure 12, formation 8, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-TM.html · Markdown: https://data.orchid-project.org/systems/BI-TM.md
 
-56 accepted literature values from 2 paper(s) (experimental 22, model 24, DFT 2, unspecified 8); 2 calculated phase diagram(s).
+50 accepted literature values from 2 paper(s) (experimental 16, model 24, DFT 2, unspecified 8); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-TM.json) · [CSV](https://data.orchid-project.org/systems/BI-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-TM/BiTm-10Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BI-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-TM.html) · [Markdown](https://data.orchid-project.org/systems/BI-TM.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
+| experimental | 16 |
 | model | 24 |
 | DFT | 2 |
 | unspecified | 8 |
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 34 |
+| invariant reaction | 28 |
 | phase transition | 2 |
 | formation | 8 |
 | crystal structure | 12 |
@@ -59,7 +59,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Tm system (34)
+Table: Invariant reactions reported in the literature for the Bi–Tm system (28)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -71,29 +71,23 @@ Table: Invariant reactions reported in the literature for the Bi–Tm system (34
 | 2010.15 | congruent melting: L \<-> BiTm | L: Tm 0.5; BiTm: Tm 0.5 | unspecified | [1] Wang 2010; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | Table 4, p. 4, row 10; `ORC-E4KKYMHRRX` |  |
 | 2010 | congruent melting: L \<-> BiTm | L: Tm 0.5; BiTm: Tm 0.5 | unspecified | [2] Djaballah 2015; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | Table 5, p. 6, row 6; `ORC-VSGOOZBZD6` |  |
 | 1783.15 | peritectic: L + BiTm \<-> Bi3Tm5 | BiTm: Tm 0.5; Bi3Tm5: Tm 0.625 | experimental | [1] Wang 2010; _cites Abdusalyamova 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902314-6) | Table 4, p. 4, row 8; `ORC-ATEU2ZIMY5` |  |
-| 1783.15 | peritectic: L + BiTm ↔ Bi3 Tm5 |  | experimental | [1] Wang 2010; _cites Abdusalyamova 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902314-6) | p. 3; `ORC-D2IUEF2VGS.5b028e` | “In this system, there are two eutectic reactions of the L ↔ (Bi) + BiTm at 266 ◦ C and L ↔ (Tm) + Bi3 Tm5 at 1140 ◦ C, and a peritectic reaction of the L + BiTm ↔ Bi3 Tm5 at 1510 ◦ C, and the compound BiTm melts at 1780 ◦ C, and the bismuth solubility in thulium is about 1 at.%.” |
 | 1783 | peritectic: L + BiTm \<-> Bi3Tm5 | BiTm: Tm 0.5; Bi3Tm5: Tm 0.625 | experimental | [2] Djaballah 2015; _cites Abdusalyamova 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902314-6) | Table 5, p. 6, row 9; `ORC-5ML6DHVLJZ` |  |
 | 1690.15 | peritectic: L + BiTm \<-> Bi3Tm5 | BiTm: Tm 0.5; Bi3Tm5: Tm 0.625 | unspecified | [1] Wang 2010; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | Table 4, p. 4, row 7; `ORC-3MHWW3XSY6` |  |
-| 1690.15 | peritectic: L + BiTm ↔ Bi3 Tm5 |  | experimental | [1] Wang 2010; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | p. 3; `ORC-PFYKS27RQF.7fe9bc` | “However, more recently Abulkhaev \[25\] have studied the Bi-Tm phase diagram by means of differential thermal analysis, X-ray diffraction and microstructural analysis, and reported there are two eutectic reactions of the L ↔ (Bi) + BiTm at 268 ± 5 ◦ C and L ↔ (Tm) + Bi3 Tm5 at 1137 ± 10 ◦ C, and a peritectic reaction of the L + BiTm ↔ Bi3 Tm5 at 1417 ± 15 ◦ C, and the compound BiTm melts at 1737 ±…” |
 | 1690 | peritectic: L + BiTm \<-> Bi3Tm5 | BiTm: Tm 0.5; Bi3Tm5: Tm 0.625 | unspecified | [2] Djaballah 2015; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | Table 5, p. 6, row 10; `ORC-E3JUA4I3H6` |  |
 | 1687.15 | peritectic: L + BiTm \<-> Bi3Tm5 | L: Tm 0.695; BiTm: Tm 0.5; Bi3Tm5: Tm 0.625 | model | [1] Wang 2010 | Table 4, p. 4, row 9; `ORC-VUWJBRGXCK` |  |
 | 1687 | peritectic: L + BiTm \<-> Bi3Tm5 | L: Tm 0.695; BiTm: Tm 0.5; Bi3Tm5: Tm 0.625 | model | [2] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 5, p. 6, row 11; `ORC-SC4ULNQOE6` |  |
 | 1686.5 | peritectic: L + BiTm \<-> Bi3Tm5 | L: Tm 0.704; BiTm: Tm 0.5; Bi3Tm5: Tm 0.625 | model | [2] Djaballah 2015 | Table 5, p. 6, row 12; `ORC-EC57UDK66G` |  |
 | 1413.15 | eutectic: L \<-> (Tm) + Bi3Tm5 | L: Tm 0.81; (Tm): Tm 0.99; Bi3Tm5: Tm 0.625 | experimental | [1] Wang 2010; _cites Abdusalyamova 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902314-6) | Table 4, p. 4, row 5; `ORC-AUVQKJ3QXK` |  |
-| 1413.15 | eutectic: L ↔ (Tm) + Bi3 Tm5 |  | experimental | [1] Wang 2010; _cites Abdusalyamova 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902314-6) | p. 3; `ORC-D2IUEF2VGS.db7d3f` | “In this system, there are two eutectic reactions of the L ↔ (Bi) + BiTm at 266 ◦ C and L ↔ (Tm) + Bi3 Tm5 at 1140 ◦ C, and a peritectic reaction of the L + BiTm ↔ Bi3 Tm5 at 1510 ◦ C, and the compound BiTm melts at 1780 ◦ C, and the bismuth solubility in thulium is about 1 at.%.” |
 | 1413 | eutectic: L \<-> Bi3Tm5 + (Tm) | L: Tm 0.81; Bi3Tm5: Tm 0.625; (Tm): Tm 0.99 | experimental | [2] Djaballah 2015; _cites Abdusalyamova 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902314-6) | Table 5, p. 6, row 13; `ORC-GMQDTHBT7Z` |  |
 | 1410.15 | eutectic: L \<-> (Tm) + Bi3Tm5 | L: Tm 0.825; (Tm): Tm 0.99; Bi3Tm5: Tm 0.625 | model | [1] Wang 2010 | Table 4, p. 4, row 6; `ORC-JOGQEG2SES` |  |
-| 1410.15 | eutectic: L ↔ (Tm) + Bi3 Tm5 |  | experimental | [1] Wang 2010; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | p. 3; `ORC-PFYKS27RQF.179143` | “However, more recently Abulkhaev \[25\] have studied the Bi-Tm phase diagram by means of differential thermal analysis, X-ray diffraction and microstructural analysis, and reported there are two eutectic reactions of the L ↔ (Bi) + BiTm at 268 ± 5 ◦ C and L ↔ (Tm) + Bi3 Tm5 at 1137 ± 10 ◦ C, and a peritectic reaction of the L + BiTm ↔ Bi3 Tm5 at 1417 ± 15 ◦ C, and the compound BiTm melts at 1737 ±…” |
 | 1410.15 | eutectic: L \<-> (Tm) + Bi3Tm5 | Bi3Tm5: Tm 0.625 | unspecified | [1] Wang 2010; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | Table 4, p. 4, row 4; `ORC-QNZDQPZ52N` |  |
 | 1410 | eutectic: L \<-> Bi3Tm5 + (Tm) | L: Tm 0.825; Bi3Tm5: Tm 0.625; (Tm): Tm 0.99 | model | [2] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 5, p. 6, row 15; `ORC-KR5NOHKPAL` |  |
 | 1410 | eutectic: L \<-> Bi3Tm5 + (Tm) | L: Tm 0.81; Bi3Tm5: Tm 0.625 | unspecified | [2] Djaballah 2015; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | Table 5, p. 6, row 14; `ORC-UTFVHCF5ZK` |  |
 | 1403.1 | eutectic: L \<-> Bi3Tm5 + (Tm) | L: Tm 0.81; Bi3Tm5: Tm 0.625; (Tm): Tm 0.991 | model | [2] Djaballah 2015 | Table 5, p. 6, row 16; `ORC-VNRLORZFFU` |  |
 | 541.15 | eutectic: L \<-> (Bi) + BiTm | (Bi): Tm 0; BiTm: Tm 0.5 | unspecified | [1] Wang 2010; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | Table 4, p. 4, row 1; `ORC-FV3MMSJFVS` |  |
-| 541.15 | eutectic: L ↔ (Bi) + BiTm |  | experimental | [1] Wang 2010; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | p. 3; `ORC-PFYKS27RQF.f242c7` | “However, more recently Abulkhaev \[25\] have studied the Bi-Tm phase diagram by means of differential thermal analysis, X-ray diffraction and microstructural analysis, and reported there are two eutectic reactions of the L ↔ (Bi) + BiTm at 268 ± 5 ◦ C and L ↔ (Tm) + Bi3 Tm5 at 1137 ± 10 ◦ C, and a peritectic reaction of the L + BiTm ↔ Bi3 Tm5 at 1417 ± 15 ◦ C, and the compound BiTm melts at 1737 ±…” |
 | 541 | eutectic: L \<-> (Bi) + BiTm | (Bi): Tm 0; BiTm: Tm 0.5 | unspecified | [2] Djaballah 2015; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | Table 5, p. 6, row 2; `ORC-3QU3XRFQTT` |  |
 | 539.15 | eutectic: L \<-> (Bi) + BiTm | (Bi): Tm 0; BiTm: Tm 0.5 | experimental | [1] Wang 2010; _cites Abdusalyamova 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902314-6) | Table 4, p. 4, row 2; `ORC-4YQRZEPV5F` |  |
 | 539.15 | eutectic: L \<-> (Bi) + BiTm | L: Tm 0.021; (Bi): Tm 0; BiTm: Tm 0.5 | model | [1] Wang 2010 | Table 4, p. 4, row 3; `ORC-5PC44KVWOZ` |  |
-| 539.15 | eutectic: L ↔ (Bi) + BiTm |  | experimental | [1] Wang 2010; _cites Abdusalyamova 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902314-6) | p. 3; `ORC-D2IUEF2VGS.3d9475` | “In this system, there are two eutectic reactions of the L ↔ (Bi) + BiTm at 266 ◦ C and L ↔ (Tm) + Bi3 Tm5 at 1140 ◦ C, and a peritectic reaction of the L + BiTm ↔ Bi3 Tm5 at 1510 ◦ C, and the compound BiTm melts at 1780 ◦ C, and the bismuth solubility in thulium is about 1 at.%.” |
 | 539 | eutectic: L \<-> (Bi) + BiTm | (Bi): Tm 0; BiTm: Tm 0.5 | experimental | [2] Djaballah 2015; _cites Abdusalyamova 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902314-6) | Table 5, p. 6, row 1; `ORC-HRY3AMKGWZ` |  |
 | 539 | eutectic: L \<-> (Bi) + BiTm | L: Tm 0.021; (Bi): Tm 0; BiTm: Tm 0.5 | model | [2] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 5, p. 6, row 3; `ORC-NGOTT5KUKN` |  |
 | 535.1 | eutectic: L \<-> (Bi) + BiTm | L: Tm 0.023; (Bi): Tm 0; BiTm: Tm 0.5 | model | [2] Djaballah 2015 | Table 5, p. 6, row 4; `ORC-B76HB2HSNU` |  |

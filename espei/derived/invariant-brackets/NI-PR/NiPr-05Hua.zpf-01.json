@@ -583,7 +583,7 @@
     "x0": 0.11,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni5Pr + fcc (Ni)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -602,7 +602,7 @@
     "x0": 0.11,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni5Pr + fcc (Ni)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -735,7 +735,7 @@
     "x0": 0.47,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni2Pr + NiPr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -754,7 +754,7 @@
     "x0": 0.47,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni2Pr + NiPr",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -773,7 +773,7 @@
     "x0": 0.5,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> NiPr",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -791,7 +791,7 @@
     "x0": 0.675,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> NiPr + Ni3Pr7",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -810,7 +810,7 @@
     "x0": 0.7,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> Ni3Pr7",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -828,7 +828,7 @@
     "x0": 0.75,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> NiPr3",
-    "reaction_type": null,
+    "reaction_type": "congruent melting",
     "phases_above": [
      "LIQUID"
     ],
@@ -846,7 +846,7 @@
     "x0": 0.81,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> NiPr3 + dhcp (Pr)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -865,7 +865,7 @@
     "x0": 0.81,
     "hyperplane_delta": 0.01,
     "reaction_printed": "Liquid -> NiPr3 + dhcp (Pr)",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

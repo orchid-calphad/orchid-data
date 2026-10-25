@@ -1,10 +1,10 @@
 # Fe–Y system
 
-> Fe–Y system: 486 accepted literature values (invariant reaction 223, formation 156, phase transition 52, activity / EMF / Gibbs energy 18) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Y system: 476 accepted literature values (invariant reaction 218, formation 153, phase transition 50, activity / EMF / Gibbs energy 18) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-Y.html · Markdown: https://data.orchid-project.org/systems/FE-Y.md
 
-486 accepted literature values from 4 paper(s) (experimental 160, model 292, DFT 26, unspecified 8); 5 calculated phase diagram(s). 15 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+476 accepted literature values from 4 paper(s) (experimental 157, model 285, DFT 26, unspecified 8); 5 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-Y.json) · [CSV](https://data.orchid-project.org/systems/FE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-Y/FeY-14Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-Y.html) · [Markdown](https://data.orchid-project.org/systems/FE-Y.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 160 |
-| model | 292 |
+| experimental | 157 |
+| model | 285 |
 | DFT | 26 |
 | unspecified | 8 |
 
@@ -21,9 +21,9 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 223 |
-| phase transition | 52 |
-| formation | 156 |
+| invariant reaction | 218 |
+| phase transition | 50 |
+| formation | 153 |
 | mixing / partial | 12 |
 | heat capacity / entropy / enthalpy | 12 |
 | activity / EMF / Gibbs energy | 18 |
@@ -120,14 +120,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Y system (223)
+Table: Invariant reactions reported in the literature for the Fe–Y system (218)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1811.15 | Liq ↔ δ Fe | Liq: Y 0 | model | [1] Kardellass 2014 | Table 7, p. 8, row 3; `ORC-4CPBXGGL2W` |  |
-| 1811.15 | Liq ↔ δ Fe |  | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 2; `ORC-HK4Z26EPJ2` |  |
+| 1811.15 | congruent melting: Liq ↔ δ Fe | Liq: Y 0 | model | [1] Kardellass 2014 | Table 7, p. 8, row 3; `ORC-4CPBXGGL2W` |  |
+| 1811.15 | congruent melting: Liq ↔ δ Fe |  | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 2; `ORC-HK4Z26EPJ2` |  |
 | 1811.15 | congruent melting: L -> δFe | δFe: Y 0 | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 1; `ORC-NWJIR3BKFC` |  |
-| 1810.15 | Liq ↔ δ Fe | δ Fe: Y 0 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 1; `ORC-VJ3OZK5ZJL` |  |
+| 1810.15 | congruent melting: Liq ↔ δ Fe | δ Fe: Y 0 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 1; `ORC-VJ3OZK5ZJL` |  |
 | 1795.15 | congruent melting: L -> βY | βY: Y 1 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 1, p. 3, row 18; `ORC-VKRSRH7TGK` |  |
 | 1758 | peritectic: Liq + β Y ↔ α Y |  | experimental | [2] Saenko 2017; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 10, row 41; `ORC-F57S2PMMZ5` |  |
 | 1756 | peritectic: Liq + β Y ↔ α Y | Liq: Y 0.9826; β Y: Y 0.9974; α Y: Y 0.9973 | model | [2] Saenko 2017 | Table 4, p. 10, row 42; `ORC-CKGZZWFL56` |  |
@@ -146,10 +146,10 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 | 1725 | peritectic: L+δFe → γFe | L: Y 0.039 | model | [3] Fan 2021; _cites Konar 2017_ [doi](https://doi.org/10.1007/s11669-017-0546-7) | Table 2, p. 4, row 4; `ORC-SL6HFTDX5Y` |  |
 | 1681 | congruent melting: L ↔ Fe3Y | L: Y 0.25; Fe3Y: Fe 0.75, Y 0.25 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 57; `ORC-WRAP2WTAMX` |  |
 | 1679 | congruent melting: L ↔ Fe17Y2 | L: Y 0.105; Fe17Y2: Y 0.105 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 26; `ORC-RKFJ3GDNVV` |  |
-| 1676.15 | Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Fe 0.894737, Y 0.105263 | model | [1] Kardellass 2014 | Table 7, p. 8, row 23; `ORC-G2GDFOYZLU` |  |
+| 1676.15 | congruent melting: Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Fe 0.894737, Y 0.105263 | model | [1] Kardellass 2014 | Table 7, p. 8, row 23; `ORC-G2GDFOYZLU` |  |
 | 1676 | congruent melting: Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Y 0.105 | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 4, p. 10, row 15; `ORC-QQGAETHID3` |  |
 | 1676 | congruent melting: L ↔ Fe17Y2 | L: Y 0.105; Fe17Y2: Y 0.105 | model | [4] Ye 2023; _cites (PTD) (cal_ | Table 10, p. 18, row 27; `ORC-TKPF6C6ZTE` |  |
-| 1673.15 | Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Y 0.105 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 21; `ORC-R5HUU7GHUU` |  |
+| 1673.15 | congruent melting: Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Y 0.105 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 21; `ORC-R5HUU7GHUU` |  |
 | 1673.15 | congruent melting: L -> Fe17Y2 | L: Y 0.105; Fe17Y2: Y 0.105 | unspecified | [1] Kardellass 2014; _cites Kubuschewski 1982_ | Table 1, p. 3, row 6; `ORC-XTQSJWCW2K` |  |
 | 1673 | congruent melting: Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Y 0.105 | experimental | [2] Saenko 2017; _cites Domagala 1961_ | Table 4, p. 10, row 13; `ORC-6IY2PP3AAD` |  |
 | 1673 | metatectic/catatectic: bcc(δ-Fe) ↔ fcc(γ-Fe) + L |  | experimental | [4] Ye 2023; _cites (exp_ | Table 10, p. 18, row 1; `ORC-AXBLWQNDXV` |  |
@@ -157,7 +157,7 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 | 1673 | peritectic: L+δFe → γFe |  | experimental | [3] Fan 2021; _cites Kubuschewski 1982_ | Table 2, p. 4, row 1; `ORC-RHJZ5BUZMZ` |  |
 | 1673 | congruent melting: L ↔ Fe17Y2 | L: Y 0.105; Fe17Y2: Y 0.105 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 24; `ORC-WVOXM3E4WR` |  |
 | 1673 | congruent melting: L → Fe17Y2 | L: Y 0.105; Fe17Y2: Fe 0.894737, Y 0.105263 | experimental | [3] Fan 2021; _cites Kubuschewski 1982_ | Table 2, p. 4, row 47; `ORC-ZSS5UCSIOC` |  |
-| 1672.15 | Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Fe 0.894737, Y 0.105263 | model | [1] Kardellass 2014 | Table 7, p. 8, row 22; `ORC-XDZWTEFSQL` |  |
+| 1672.15 | congruent melting: Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Fe 0.894737, Y 0.105263 | model | [1] Kardellass 2014 | Table 7, p. 8, row 22; `ORC-XDZWTEFSQL` |  |
 | 1672 | congruent melting: L ↔ Fe17Y2 | L: Y 0.105; Fe17Y2: Y 0.105 | model | [4] Ye 2023; _cites (PTD) (cal_ | Table 10, p. 18, row 28; `ORC-E5BAF222WU` |  |
 | 1672 | congruent melting: Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Y 0.105 | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 4, p. 10, row 16; `ORC-XTUWWXJOGF` |  |
 | 1667.15 | Liq+(δ Fe) ↔ (γ Fe) | δ Fe: Y 0 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 5; `ORC-T2KNWFFEDT` |  |
@@ -186,21 +186,21 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 | 1660 | metatectic/catatectic: bcc(δ-Fe) ↔ fcc(γ-Fe) + L | L: Y 0.06 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 7; `ORC-SAFMJDFU36` |  |
 | 1659 | eutectic: L → γFe + Fe17Y2 | L: Y 0.069; Fe17Y2: Y 0.105 | model | [3] Fan 2021; _cites Konar 2017_ [doi](https://doi.org/10.1007/s11669-017-0546-7) | Table 2, p. 4, row 10; `ORC-UHCXCNWWLC` |  |
 | 1657 | eutectic: L ↔ Fe17Y2 + fcc(γ-Fe) | L: Y 0.069 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 18; `ORC-CSZRSLDOFL` |  |
-| 1654.15 | Liq ↔ Fe3Y | Liq: Y 0.25; Fe3Y: Y 0.25 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 37; `ORC-LLZ4TLXUDU` |  |
-| 1654.15 | L -> Fe3Y | L: Fe 0.75, Y 0.25; Fe3Y: Fe 0.75, Y 0.25 | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 13; `ORC-ZKEWSTW7P7` |  |
-| 1652.15 | Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Y 0.105 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 20; `ORC-CKGLV2X7O4` |  |
+| 1654.15 | congruent melting: Liq ↔ Fe3Y | Liq: Y 0.25; Fe3Y: Y 0.25 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 37; `ORC-LLZ4TLXUDU` |  |
+| 1654.15 | congruent melting: L -> Fe3Y | L: Fe 0.75, Y 0.25; Fe3Y: Fe 0.75, Y 0.25 | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 13; `ORC-ZKEWSTW7P7` |  |
+| 1652.15 | congruent melting: Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Y 0.105 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 20; `ORC-CKGLV2X7O4` |  |
 | 1650.1 | congruent melting: L ↔ Fe17Y2 | L: Y 0.105; Fe17Y2: Y 0.105 | model | [4] Ye 2023 | Table 10, p. 18, row 30; `ORC-K6CHQ5NESV` |  |
 | 1650 | congruent melting: L ↔ Fe17Y2 | L: Y 0.105; Fe17Y2: Y 0.105 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 29; `ORC-TR5N555LPC` |  |
 | 1650 | congruent melting: L → Fe17Y2 | L: Y 0.105; Fe17Y2: Fe 0.894737, Y 0.105263 | model | [3] Fan 2021 | Table 2, p. 4, row 48; `ORC-WIOUUJZVHN` |  |
 | 1647.3 | eutectic: L ↔ Fe17Y2 + fcc(γ-Fe) | L: Y 0.088 | model | [4] Ye 2023 | Table 10, p. 18, row 22; `ORC-PEPC2KYIJO` |  |
-| 1647.15 | Liq ↔ Fe3Y | Liq: Y 0.25; Fe3Y: Fe 0.75, Y 0.25 | model | [1] Kardellass 2014 | Table 7, p. 8, row 38; `ORC-SHEGQSH67G` |  |
+| 1647.15 | congruent melting: Liq ↔ Fe3Y | Liq: Y 0.25; Fe3Y: Fe 0.75, Y 0.25 | model | [1] Kardellass 2014 | Table 7, p. 8, row 38; `ORC-SHEGQSH67G` |  |
 | 1647 | congruent melting: Liq ↔ Fe3Y | Liq: Y 0.25; Fe3Y: Y 0.25 | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 4, p. 10, row 32; `ORC-47DMXH3YVQ` |  |
 | 1647 | congruent melting: L ↔ Fe3Y | L: Y 0.25; Fe3Y: Fe 0.75, Y 0.25 | model | [4] Ye 2023; _cites (PTD) (cal_ | Table 10, p. 18, row 59; `ORC-VHFKPN2SEX` |  |
 | 1645 | eutectic: L ↔ Fe17Y2 + Fe23Y6 | L: Y 0.159; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 34; `ORC-3EW33FYAUH` |  |
 | 1645 | eutectic: L → Fe23Y6 + Fe17Y2 | L: Y 0.159; Fe23Y6: Fe 0.793103, Y 0.206897; Fe17Y2: Y 0.105 | model | [3] Fan 2021; _cites Konar 2017_ [doi](https://doi.org/10.1007/s11669-017-0546-7) | Table 2, p. 4, row 22; `ORC-Q2U65YP7C7` |  |
 | 1644 | congruent melting: L ↔ Fe17Y2 | L: Y 0.105; Fe17Y2: Y 0.105 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 25; `ORC-CD3VU2QCLQ` |  |
 | 1644 | congruent melting: Liq ↔ Fe17Y2 | Liq: Y 0.105; Fe17Y2: Y 0.105 | model | [2] Saenko 2017 | Table 4, p. 10, row 14; `ORC-SUOPX2GMOK` |  |
-| 1641.15 | Liq ↔ Fe23Y6 | Liq: Y 0.2075; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [1] Kardellass 2014 | Table 7, p. 8, row 30; `ORC-AHDKUCQGBE` |  |
+| 1641.15 | congruent melting: Liq ↔ Fe23Y6 | Liq: Y 0.2075; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [1] Kardellass 2014 | Table 7, p. 8, row 30; `ORC-AHDKUCQGBE` |  |
 | 1641 | eutectic: L → γFe + Fe17Y2 | L: Y 0.084; γFe: Y 0.001; Fe17Y2: Y 0.105 | model | [3] Fan 2021; _cites Saenko 2017_ [doi](https://doi.org/10.1007/s11669-017-0574-3) | Table 2, p. 4, row 9; `ORC-5P7YTPUJYA` |  |
 | 1641 | congruent melting: L ↔ Fe23Y6 | L: Y 0.207; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [4] Ye 2023; _cites (PTD) (cal_ | Table 10, p. 18, row 43; `ORC-E6UJOIBHRC` |  |
 | 1641 | eutectic: Liq ↔ γ Fe + Fe17Y2 | Liq: Y 0.0841; γ Fe: Y 0.001; Fe17Y2: Y 0.105 | model | [2] Saenko 2017 | Table 4, p. 10, row 11; `ORC-PIHISCQIZO` |  |
@@ -214,7 +214,6 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 | 1638 | eutectic: L ↔ Fe17Y2 + Fe23Y6 | L: Y 0.179; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [4] Ye 2023; _cites (PTD) (cal_ | Table 10, p. 18, row 36; `ORC-37OV2LHWCS` |  |
 | 1638 | eutectic: L → Fe23Y6 + Fe17Y2 | L: Y 0.179; Fe23Y6: Fe 0.793103, Y 0.206897; Fe17Y2: Y 0.105 | model | [3] Fan 2021; _cites Conclusions_ | Table 2, p. 4, row 20; `ORC-QE6WQXNEPX` |  |
 | 1638 | eutectic: Liq ↔ Fe17Y2 + Fe23Y6 | Liq: Y 0.179; Fe17Y2: Y 0.105; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 4, p. 10, row 20; `ORC-YU6EGFMHBI` |  |
-| 1636 | eutectic: L ! c Fe ? Fe17 Y2 |  | model | [3] Fan 2021 | p. 12; `ORC-OX25CL2ZE3` | “The obtained eutectic reaction temperature L ! c Fe ? Fe17 Y2 at 1636 K in our CALPHAD modeling is also reasonable comparing with the experimentally measured value (1623 ± 25 K).” |
 | 1635 | eutectic: L ↔ Fe17Y2 + fcc(γ-Fe) | L: Y 0.07 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 21; `ORC-XQICIGUTP7` |  |
 | 1635 | eutectic: L → γFe + Fe17Y2 | L: Y 0.07; Fe17Y2: Y 0.105 | model | [3] Fan 2021 | Table 2, p. 4, row 8; `ORC-ZWYEBRNXBB` |  |
 | 1633.15 | Liq ↔ (γ Fe) + Fe17Y2 | Liq: Y 0.0563; Fe17Y2: Fe 0.894737, Y 0.105263 | model | [1] Kardellass 2014 | Table 7, p. 8, row 18; `ORC-CMQ3VVWSSA` |  |
@@ -222,7 +221,7 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 | 1633 | eutectic: Liq ↔ γ Fe + Fe17Y2 | Liq: Y 0.0563; Fe17Y2: Y 0.105 | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 4, p. 10, row 12; `ORC-UDNN5U4FEC` |  |
 | 1623.15 | eutectic: L -> γFe + Fe17Y2 | L: Y 0.082; γFe: Y 0.082; Fe17Y2: Y 0.105 | unspecified | [1] Kardellass 2014; _cites Kubuschewski 1982_ | Table 1, p. 3, row 4; `ORC-DPE7BTKJ5S` |  |
 | 1623.15 | Liq ↔ (γ Fe) + Fe17Y2 | Liq: Y 0.082; γ Fe: Y 0.1; Fe17Y2: Fe 0.894737, Y 0.105263 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 17; `ORC-FZINGW4NQF` |  |
-| 1623.15 | Liq ↔ Fe3Y | Liq: Y 0.25; Fe3Y: Fe 0.75, Y 0.25 | model | [1] Kardellass 2014 | Table 7, p. 8, row 39; `ORC-ZOREXIFJ2U` |  |
+| 1623.15 | congruent melting: Liq ↔ Fe3Y | Liq: Y 0.25; Fe3Y: Fe 0.75, Y 0.25 | model | [1] Kardellass 2014 | Table 7, p. 8, row 39; `ORC-ZOREXIFJ2U` |  |
 | 1623 | congruent melting: L ↔ Fe3Y | L: Y 0.25; Fe3Y: Fe 0.75, Y 0.25 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 55; `ORC-6T6VX36XXP` |  |
 | 1623 | congruent melting: L ↔ Fe23Y6 | L: Y 0.207; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 44; `ORC-CQXNEOOUMK` |  |
 | 1623 | eutectic: L → γFe + Fe17Y2 | L: Y 0.082; Fe17Y2: Y 0.105 | experimental | [3] Fan 2021; _cites Kubuschewski 1982_ | Table 2, p. 4, row 7; `ORC-EEWJOPZT5L` |  |
@@ -235,15 +234,15 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 | 1619 | eutectic: L ↔ Fe23Y6 + Fe3Y | L: Y 0.207; Fe23Y6: Fe 0.793103, Y 0.206897; Fe3Y: Fe 0.75, Y 0.25 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 52; `ORC-NT7F5EGX75` |  |
 | 1619 | eutectic: L → Fe23Y6+Fe3Y | L: Y 0.2069; Fe23Y6: Y 0.2069; Fe3Y: Y 0.25 | model | [3] Fan 2021 | Table 2, p. 4, row 24; `ORC-TEB5NTD2B6` |  |
 | 1614.15 | Liq ↔ (γ Fe) + Fe17Y2 | Liq: Y 0.082; γ Fe: Y 0.1; Fe17Y2: Fe 0.894737, Y 0.105263 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 16; `ORC-2EOFERU3PF` |  |
-| 1614.15 | L -> γFe + Fe17Y2 |  | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 5; `ORC-56EFW36MMD` |  |
+| 1614.15 | eutectic: L -> γFe + Fe17Y2 |  | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 5; `ORC-56EFW36MMD` |  |
 | 1613 | eutectic: L ↔ Fe17Y2 + Fe23Y6 | L: Y 0.173; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 37; `ORC-FDHGLIE64A` |  |
 | 1613 | eutectic: L → Fe23Y6 + Fe17Y2 | L: Y 0.173; Fe23Y6: Y 0.2069; Fe17Y2: Y 0.105 | model | [3] Fan 2021 | Table 2, p. 4, row 18; `ORC-OXQMCZVDZA` |  |
 | 1612.15 | (δ Fe) ↔ (γ Fe) + Fe17Y2 | Fe17Y2: Y 0.105 | model | [1] Kardellass 2014 | Table 7, p. 8, row 19; `ORC-F2D2J5HZ4Z` |  |
 | 1608.15 | congruent melting: L -> Fe3Y | L: Y 0.25; Fe3Y: Y 0.25 | unspecified | [1] Kardellass 2014; _cites Kubuschewski 1982_ | Table 1, p. 3, row 12; `ORC-OHP2HOSV2G` |  |
-| 1608.15 | Liq ↔ Fe3Y | Liq: Y 0.25; Fe3Y: Y 0.25 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 36; `ORC-PQJCQ3FZVW` |  |
+| 1608.15 | congruent melting: Liq ↔ Fe3Y | Liq: Y 0.25; Fe3Y: Y 0.25 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 36; `ORC-PQJCQ3FZVW` |  |
 | 1608 | congruent melting: Liq ↔ Fe3Y | Liq: Y 0.25; Fe3Y: Y 0.25 | experimental | [2] Saenko 2017; _cites Domagala 1961_ | Table 4, p. 10, row 29; `ORC-BSGBX3IZE4` |  |
 | 1608 | congruent melting: L ↔ Fe3Y | L: Y 0.25; Fe3Y: Fe 0.75, Y 0.25 | experimental | [4] Ye 2023; _cites (exp_ | Table 10, p. 18, row 54; `ORC-UE5Q4NFHYY` |  |
-| 1606.15 | Liq ↔ Fe23Y6 | Liq: Y 0.2075; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [1] Kardellass 2014 | Table 7, p. 8, row 31; `ORC-7KDFEZV5QN` |  |
+| 1606.15 | congruent melting: Liq ↔ Fe23Y6 | Liq: Y 0.2075; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [1] Kardellass 2014 | Table 7, p. 8, row 31; `ORC-7KDFEZV5QN` |  |
 | 1606 | congruent melting: L ↔ Fe23Y6 | L: Y 0.207; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [4] Ye 2023; _cites (PTD) (cal_ | Table 10, p. 18, row 42; `ORC-2PLYRAXXQZ` |  |
 | 1606 | congruent melting: L ↔ Fe23Y6 | L: Y 0.201; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 40; `ORC-PC56XXRDRW` |  |
 | 1606 | congruent melting: Liq ↔ Fe23Y6 | Liq: Y 0.2005; Fe23Y6: Y 0.2005 | model | [2] Saenko 2017 | Table 4, p. 10, row 22; `ORC-SB45DRSHJM` |  |
@@ -269,14 +268,12 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 | 1602.7 | eutectic: L ↔ Fe17Y2 + Fe23Y6 | L: Y 0.197; Fe23Y6: Fe 0.793103, Y 0.206897 | model | [4] Ye 2023 | Table 10, p. 18, row 38; `ORC-U35D6LMDLF` |  |
 | 1602.4 | eutectic: L ↔ Fe23Y6 + Fe3Y | L: Y 0.221; Fe23Y6: Fe 0.793103, Y 0.206897; Fe3Y: Fe 0.75, Y 0.25 | model | [4] Ye 2023 | Table 10, p. 18, row 53; `ORC-CVPRDGOEDX` |  |
 | 1573.15 | congruent melting: L -> Fe23Y6 | L: Y 0.206; Fe23Y6: Y 0.206 | unspecified | [1] Kardellass 2014; _cites Kubuschewski 1982_ | Table 1, p. 3, row 8; `ORC-752ABAIFEY` |  |
-| 1573.15 | Liq ↔ Fe23Y6 | Liq: Y 0.206; Fe23Y6: Y 0.206 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 29; `ORC-LEJW7UL4QY` |  |
+| 1573.15 | congruent melting: Liq ↔ Fe23Y6 | Liq: Y 0.206; Fe23Y6: Y 0.206 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 29; `ORC-LEJW7UL4QY` |  |
 | 1573 | congruent melting: Liq ↔ Fe23Y6 | Liq: Fe 0.793103, Y 0.206897; Fe23Y6: Fe 0.793103, Y 0.206897 | experimental | [2] Saenko 2017; _cites Domagala 1961_ | Table 4, p. 10, row 21; `ORC-2WPDPQ2LH6` |  |
-| 1573 | peritectic |  | model | [2] Saenko 2017; _cites Du 1997_ | p. 4; `ORC-7H2RBGUKZR.8dade7` | “In their work, the compound Fe23Y6 was formed by the peritectic reaction Liq ? Fe3Y ? Fe23Y6 (at 1573 K) instead of its congruent melting and the eutectic reaction Liq ? Fe3Y ? Fe23Y6 (at 1523 K).” |
 | 1573 | eutectic: L ↔ Fe23Y6 + Fe3Y | L: Y 0.186; Fe23Y6: Fe 0.793103, Y 0.206897; Fe3Y: Fe 0.75, Y 0.25 | model | [4] Ye 2023; _cites (cal_ | Table 10, p. 18, row 47; `ORC-AVHB2DOO2F` |  |
-| 1573 | peritectic: Liquid + Fe3Y -> Fe23Y6 |  | model | [3] Fan 2021 | p. 3; `ORC-D347XB73RW` | “For instance, Fe23 Y6 would form following a peritectic reaction Liquid ? Fe3 Y ! Fe23 Y6 at 1573 K, which is obviously contradictory to the experiments done in Ref.\[11\].” |
 | 1573 | congruent melting: L ↔ Fe23Y6 | L: Fe 0.793103, Y 0.206897; Fe23Y6: Fe 0.793103, Y 0.206897 | experimental | [4] Ye 2023; _cites (exp_ | Table 10, p. 18, row 39; `ORC-R2JEKGPPAP` |  |
-| 1563.15 | Liq ↔ Fe23Y6 | Liq: Y 0.206; Fe23Y6: Y 0.206 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 28; `ORC-Q6BOOYED5H` |  |
-| 1563.15 | L -> Fe23Y6 | L: Fe 0.793103, Y 0.206897; Fe23Y6: Fe 0.793103, Y 0.206897 | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 9; `ORC-UVIKR4YGY7` |  |
+| 1563.15 | congruent melting: Liq ↔ Fe23Y6 | Liq: Y 0.206; Fe23Y6: Y 0.206 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 28; `ORC-Q6BOOYED5H` |  |
+| 1563.15 | congruent melting: L -> Fe23Y6 | L: Fe 0.793103, Y 0.206897; Fe23Y6: Fe 0.793103, Y 0.206897 | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 9; `ORC-UVIKR4YGY7` |  |
 | 1553.15 | Liq ↔ Fe17Y2 + Fe23Y6 | Liq: Y 0.14; Fe17Y2: Y 0.105; Fe23Y6: Y 0.206 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 25; `ORC-L2N3ANQT2J` |  |
 | 1553.15 | eutectic: L -> Fe17Y2 + Fe23Y6 | L: Y 0.129; Fe17Y2: Y 0.105; Fe23Y6: Y 0.206 | unspecified | [1] Kardellass 2014; _cites Kubuschewski 1982_ | Table 1, p. 3, row 7; `ORC-SKMFXYP2AE` |  |
 | 1553 | eutectic: Liq ↔ Fe17Y2 + Fe23Y6 | Liq: Y 0.129; Fe17Y2: Y 0.105; Fe23Y6: Fe 0.793103, Y 0.206897 | experimental | [2] Saenko 2017; _cites Domagala 1961_ | Table 4, p. 10, row 17; `ORC-34X655FK2P` |  |
@@ -287,13 +284,11 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 | 1523.15 | Liq ↔ Fe23Y6 + Fe3Y | Liq: Y 0.237; Fe23Y6: Y 0.207; Fe3Y: Y 0.25 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 33; `ORC-FKSO6FCMBN` |  |
 | 1523.15 | eutectic: L -> Fe23Y6 + Fe3Y | L: Y 0.237; Fe23Y6: Y 0.2069; Fe3Y: Y 0.25 | unspecified | [1] Kardellass 2014; _cites Kubuschewski 1982_ | Table 1, p. 3, row 10; `ORC-NHDLXDROZW` |  |
 | 1523 | eutectic: L ↔ Fe23Y6 + Fe3Y | L: Y 0.237; Fe23Y6: Fe 0.793103, Y 0.206897; Fe3Y: Fe 0.75, Y 0.25 | experimental | [4] Ye 2023; _cites (exp_ | Table 10, p. 18, row 46; `ORC-3RHX27HEF6` |  |
-| 1523 | eutectic |  | experimental | [2] Saenko 2017 | p. 4; `ORC-7H2RBGUKZR.52a1c9` | “In their work, the compound Fe23Y6 was formed by the peritectic reaction Liq ? Fe3Y ? Fe23Y6 (at 1573 K) instead of its congruent melting and the eutectic reaction Liq ? Fe3Y ? Fe23Y6 (at 1523 K).” |
 | 1523 | eutectic: Liq ↔ Fe23Y6 + Fe3Y | Liq: Y 0.237; Fe23Y6: Fe 0.793103, Y 0.206897; Fe3Y: Y 0.25 | experimental | [2] Saenko 2017; _cites Domagala 1961_ | Table 4, p. 10, row 25; `ORC-HG2AX57JO6` |  |
 | 1523 | eutectic: L → Fe23Y6+Fe3Y | L: Y 0.237; Fe23Y6: Y 0.2069; Fe3Y: Y 0.25 | experimental | [3] Fan 2021; _cites Kubuschewski 1982_ | Table 2, p. 4, row 23; `ORC-PKIWAID7HS` |  |
-| 1522.15 | L -> Fe23Y6 + Fe3Y | Fe23Y6: Fe 0.793103, Y 0.206897; Fe3Y: Fe 0.75, Y 0.25 | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 11; `ORC-OUY3BPFPSX` |  |
+| 1522.15 | eutectic: L -> Fe23Y6 + Fe3Y | Fe23Y6: Fe 0.793103, Y 0.206897; Fe3Y: Fe 0.75, Y 0.25 | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 3, row 11; `ORC-OUY3BPFPSX` |  |
 | 1522.15 | Liq ↔ Fe23Y6 + Fe3Y | Liq: Y 0.237; Fe23Y6: Y 0.207; Fe3Y: Y 0.25 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 32; `ORC-VQYFCKBO5K` |  |
 | 1416 | peritectic: L+Fe3Y → Fe2Y | L: Y 0.467; Fe3Y: Y 0.25; Fe2Y: Y 0.333 | model | [3] Fan 2021 | Table 2, p. 4, row 30; `ORC-SC7K7QQPWA` |  |
-| 1416 | peritectic: Liquid ? Fe3 Y ! Fe2 Y |  | model | [3] Fan 2021 | p. 12; `ORC-YML75NCPKS` | “The peritectic reaction, i.e., Liquid ? Fe3 Y ! Fe2 Y is the most accurate calculation, where the calculated value is 1416 K consistent with the experimental data between 1373 K and 1423 K.” |
 | 1409.15 | Liq + Fe3Y ↔ Fe2Y | Liq: Y 0.4427; Fe3Y: Fe 0.75, Y 0.25; Fe2Y: Fe 0.666667, Y 0.333333 | model | [1] Kardellass 2014 | Table 7, p. 8, row 43; `ORC-VPEEG2L3AY` |  |
 | 1409 | peritectic: L+Fe3Y → Fe2Y | L: Y 0.443; Fe3Y: Y 0.25; Fe2Y: Y 0.333 | model | [3] Fan 2021; _cites Conclusions_ | Table 2, p. 4, row 33; `ORC-BG6ZEIW4H5` |  |
 | 1409 | peritectic: Liq + Fe3Y ↔ Fe2Y | Liq: Y 0.4427; Fe3Y: Y 0.25; Fe2Y: Y 0.333 | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 4, p. 10, row 35; `ORC-FIESESPCJG` |  |
@@ -318,7 +313,7 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 | 1201 | eutectic: L → Fe2Y+αY | L: Y 0.6609; Fe2Y: Y 0.337; αY: Y 0.992 | model | [3] Fan 2021; _cites Saenko 2017_ [doi](https://doi.org/10.1007/s11669-017-0574-3) | Table 2, p. 4, row 37; `ORC-MIW77JTGJJ` |  |
 | 1201 | eutectic: Liq ↔ Fe2Y + α Y | Liq: Y 0.6609; Fe2Y: Y 0.337; α Y: Y 0.992 | model | [2] Saenko 2017 | Table 4, p. 10, row 38; `ORC-UH7TOIFI6L` |  |
 | 1185.15 | γFe ↔ (α Fe) + Fe17Y2_HT | γFe: Y 0; α Fe: Y 0; Fe17Y2_HT: Y 0.105 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 8; `ORC-FMUCS456TJ` |  |
-| 1185.15 | Fe17Y2_HT ↔ Fe17Y2_LT | Fe17Y2_HT: Y 0.105; Fe17Y2_LT: Fe 0.894737, Y 0.105263 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 11; `ORC-FOD2ZKT4OG` |  |
+| 1185.15 | polymorphic: Fe17Y2_HT ↔ Fe17Y2_LT | Fe17Y2_HT: Y 0.105; Fe17Y2_LT: Fe 0.894737, Y 0.105263 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 11; `ORC-FOD2ZKT4OG` |  |
 | 1185.15 | γFe ↔ (α Fe) + Fe17Y2_HT | Fe17Y2_HT: Y 0.105 | model | [1] Kardellass 2014 | Table 7, p. 8, row 9; `ORC-L5KNER7THF` |  |
 | 1185 | eutectoid: γFe → αFe + Fe17Y2 | Fe17Y2: Y 0.105 | model | [3] Fan 2021; _cites Conclusions_ | Table 2, p. 4, row 15; `ORC-7VZYMDPAZM` |  |
 | 1185 | peritectoid: γ Fe ↔ α Fe + Fe17Y2 | α Fe: Y 1.000e-5; Fe17Y2: Y 0.105 | model | [2] Saenko 2017 | Table 4, p. 10, row 6; `ORC-FO4LZQOKL2` |  |
@@ -331,7 +326,7 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 | 1185 | eutectoid: fcc(γ-Fe) ↔ bcc(α-Fe) + Fe17Y2 |  | experimental | [4] Ye 2023; _cites (exp_ | Table 10, p. 18, row 9; `ORC-VNPYPTGWZ4` |  |
 | 1185 | eutectoid: γFe → αFe + Fe17Y2 | Fe17Y2: Y 0.105 | experimental | [3] Fan 2021; _cites Kubuschewski 1982_ | Table 2, p. 4, row 12; `ORC-VYN7BYNQWU` |  |
 | 1184.8 | eutectoid: fcc(γ-Fe) ↔ bcc(α-Fe) + Fe17Y2 |  | model | [4] Ye 2023 | Table 10, p. 18, row 14; `ORC-NNH7N4ZIJQ` |  |
-| 1184.15 | Fe17Y2_HT ↔ Fe17Y2_LT | Fe17Y2_HT: Y 0.105; Fe17Y2_LT: Fe 0.894737, Y 0.105263 | model | [1] Kardellass 2014 | Table 7, p. 8, row 12; `ORC-3PAML6YFLR` |  |
+| 1184.15 | polymorphic: Fe17Y2_HT ↔ Fe17Y2_LT | Fe17Y2_HT: Y 0.105; Fe17Y2_LT: Fe 0.894737, Y 0.105263 | model | [1] Kardellass 2014 | Table 7, p. 8, row 12; `ORC-3PAML6YFLR` |  |
 | 1184 | peritectoid: γ Fe ↔ α Fe + Fe17Y2 | α Fe: Y 3.800e-4; Fe17Y2: Y 0.105 | experimental | [2] Saenko 2017; _cites Kubuschewski 1982_ | Table 4, p. 10, row 5; `ORC-KKBWLHPGUD` |  |
 | 1173.15 | eutectic: L + Fe2Y -> αY | L: Y 0.659; Fe2Y: Y 0.3333; αY: Y 0.984 | unspecified | [1] Kardellass 2014; _cites Kubuschewski 1982_ | Table 1, p. 3, row 16; `ORC-2ATT7YIX2Y` |  |
 | 1173.15 | Liq ↔ Fe2Y + (α Y) | Liq: Y 0.66; Fe2Y: Y 0.33; α Y: Y 0.984 | experimental | [1] Kardellass 2014; _cites Gschneider 1961_ | Table 7, p. 8, row 45; `ORC-ZFEJGUYZWK` |  |
@@ -352,14 +347,10 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (223
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Y system (121)
+Table: Enthalpies of formation, Fe–Y system (118)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -6.412 kJ/mol-atom | 298.15 | model |  |  | [3] Fan 2021 | p. 11; `ORC-7DL4UM65HV.1e3371` | “The enthalpy of formation of Fe2 Y and Fe3 Y at 298 K are - 6.412 and - 6.374 kJ/mol-atom, respectively, consistent with the DFT results (- 5.92 kJ/mol-atom for Fe2 Y and - 6.06 kJ/mol-atom for Fe3 Y).” |
-| — |  | -6.374 kJ/mol-atom | 298.15 | model |  |  | [3] Fan 2021 | p. 11; `ORC-7DL4UM65HV.0d503c` | “The enthalpy of formation of Fe2 Y and Fe3 Y at 298 K are - 6.412 and - 6.374 kJ/mol-atom, respectively, consistent with the DFT results (- 5.92 kJ/mol-atom for Fe2 Y and - 6.06 kJ/mol-atom for Fe3 Y).” |
-| — |  | -2.287 kJ/mol-atom | 298.15 | model |  |  | [3] Fan 2021 | p. 11; `ORC-LXXOSS7MRG.de6ac2` | “The enthalpy of formation of Fe17 Y2 at 298 K (- 2.287 kJ/mol-atom) is also close to the values obtained by our DFT calculation (- 1.04 kJ/mol-atom).” |
-| — |  | -2 kJ/mol-atom | 298.15 | model |  |  | [3] Fan 2021; _cites Van 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990058-8) | p. 2; `ORC-6FWRCYBDB3` | “The enthalpies of formation for four intermetallic compounds at 298 K (DHf ;298 ) were predicted to be - 2 kJ/mol-atom by Van Mal et al.,\[25\] based on the theory of Miedema\[26\].” |
 | Fe17Y2 | [Fe17Y2](https://data.orchid-project.org/compounds/Fe17Y2.html) | -9.47 kJ/mol-atom |  | model | -0.76 (mp-aaacqbgm) | -1.077 (oqmd-657319) | [3] Fan 2021; _cites Conclusions_ | Table 3, p. 5, row 8; `ORC-3DUKYTO7HA.b6f3b2` |  |
 | Fe17Y2 |  | -9.47 per mol-atom | 973 | model |  |  | [1] Kardellass 2014 | Table 4, p. 4, row 2; `ORC-I2B3MGZZTX` |  |
 | Fe17Y2 | [Fe17Y2](https://data.orchid-project.org/compounds/Fe17Y2.html) | -9.47 kJ/mol-atom | 973 | model | -0.76 (mp-aaacqbgm) | -1.077 (oqmd-657319) | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 12; `ORC-MO7OACPB2R.510220` |  |
@@ -387,6 +378,7 @@ Table: Enthalpies of formation, Fe–Y system (121)
 | Fe17Y2 | [Fe17Y2](https://data.orchid-project.org/compounds/Fe17Y2.html) | -4.36 kJ/mol-atom | 298.15 | model | -0.76 (mp-aaacqbgm) | -1.077 (oqmd-657319) | [2] Saenko 2017 | Table 5, p. 12, row 3; `ORC-Q6B2TJ4ZLZ.678a22` |  |
 | Fe17Y2 | [Fe17Y2](https://data.orchid-project.org/compounds/Fe17Y2.html) | -4.36 kJ/mol-atom | 298.15 | model | -0.76 (mp-aaacqbgm) | -1.077 (oqmd-657319) | [3] Fan 2021; _cites Saenko 2017_ [doi](https://doi.org/10.1007/s11669-017-0574-3) | Table 3, p. 5, row 6; `ORC-TCQFOYIJXL.42e29e` |  |
 | Fe17Y2 |  | -2.672 kJ/mol-atom | 0 | DFT |  |  | [3] Fan 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 5, row 5; `ORC-3FFGGYCDQK.04e7fa` |  |
+| Fe17Y2 | [Fe17Y2](https://data.orchid-project.org/compounds/Fe17Y2.html) | -2.287 kJ/mol-atom | 298.15 | model | -0.76 (mp-aaacqbgm) | -1.077 (oqmd-657319) | [3] Fan 2021 | p. 11; `ORC-LXXOSS7MRG.de6ac2` | “The enthalpy of formation of Fe17 Y2 at 298 K (- 2.287 kJ/mol-atom) is also close to the values obtained by our DFT calculation (- 1.04 kJ/mol-atom).” |
 | Fe17Y2 |  | -1.78 kJ/mol-atom | 0 | DFT |  |  | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 1; `ORC-CFTP34GZSJ.9d7502` |  |
 | Fe17Y2 |  | -1.634 kJ/mol-atom |  | DFT |  |  | [3] Fan 2021; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 3, p. 5, row 7; `ORC-ISVWSHHAMW.00e875` |  |
 | Fe17Y2 |  | -1.056 kJ/mol-atom | 0 | DFT |  |  | [3] Fan 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 3; `ORC-TCSVPVZNVX.7a764b` |  |
@@ -480,13 +472,12 @@ Table: Enthalpies of formation, Fe–Y system (121)
 
 ## Other properties
 
-### Phase transition (52)
+### Phase transition (50)
 
 Table: Phase transition, Fe–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 295 K | 295 | magnetic | experimental | [2] Saenko 2017; _cites Mandal 2004_ [doi](https://doi.org/10.1088/0022-3727/37/19/002) | p. 4; `ORC-N7QCKMOJUF` | “Moreover, according to Mandal et al.,\[58\] the magnetic transformation occurs at 295 K.” |
 | Phase transition | 295 K | 295 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Mandal 2004_ [doi](https://doi.org/10.1088/0022-3727/37/19/002) | Table 2, p. 5, row 16; `ORC-6AK7KON6Q3` |  |
 | Phase transition | 300 K | 300 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Fujii 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2905007-4) | Table 2, p. 5, row 2; `ORC-G6GKEWY7LJ` |  |
 | Phase transition | 300 K | 300 | magnetic: Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Koyama 2000_ [doi](https://doi.org/10.1103/physrevb.61.9475) | Table 2, p. 5, row 15; `ORC-NU7XZBEOVI` |  |
@@ -519,7 +510,7 @@ Table: Phase transition, Fe–Y system
 | Phase transition | 535.15 K | 535.15 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 24; `ORC-IOPV7SFBIG` |  |
 | Phase transition | 542 K | 542 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 5, row 32; `ORC-Y2TUBLFXJF` |  |
 | Phase transition | 545 K | 545 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Buschow 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990084-3) | Table 2, p. 5, row 28; `ORC-2YINXMXJLG` |  |
-| Phase transition | 545 K | 545 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Brouha 1816_ | Table 2, p. 5, row 27; `ORC-RXMIVAO56Z` |  |
+| Phase transition | 545 K | 545 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Brouha 1973_ | Table 2, p. 5, row 27; `ORC-RXMIVAO56Z` |  |
 | Phase transition | 545 K | 545 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Buschow 1970_ [doi](https://doi.org/10.1063/1.1658412) | Table 2, p. 5, row 31; `ORC-SH2RSXK3FY` |  |
 | Phase transition | 545 K | 545 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Kirchmayr 1968_ [doi](https://doi.org/10.1063/1.1656174) | Table 2, p. 5, row 30; `ORC-VBHVCIVIHN` |  |
 | Phase transition | 545.15 K | 545.15 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 23; `ORC-4KSLCBQIUR` |  |
@@ -535,7 +526,6 @@ Table: Phase transition, Fe–Y system
 | Phase transition | 1621 K | 1621 | congruent transformation | model | [3] Fan 2021 | p. 12; `ORC-6FO7GXZ2DC.a23d06` | “Since there is no critical evidence of congruent melting for Fe23 Y6 and Fe3 Y, their congruent temperature, i.e., 1622 K and 1621 K are calculated based on our DFT results and involved eutectic reactions.” |
 | Phase transition | 1622 K | 1622 | congruent transformation | model | [3] Fan 2021 | p. 12; `ORC-6FO7GXZ2DC.ee0935` | “Since there is no critical evidence of congruent melting for Fe23 Y6 and Fe3 Y, their congruent temperature, i.e., 1622 K and 1621 K are calculated based on our DFT results and involved eutectic reactions.” |
 | Phase transition | 1650 K | 1650 | congruent transformation | model | [3] Fan 2021 | p. 12; `ORC-4LENOTPUZ3` | “Furthermore, the calculated congruent-melting point of Fe17 Y2 (1650 K) from the current thermodynamic model is within the experimental temperature range from 1648 to 1698 K.” |
-| Phase transition | 1673 K | 1673 | congruent transformation | experimental | [2] Saenko 2017; _cites Domagala 1961_ | p. 2; `ORC-BD2XKVSBHQ` | “According to the investigation of Domagala et al.,\[14\] this compound melts congruently at 1673 ± 25 K.” |
 | Phase transition | 1673 K | 1673 | congruent transformation | experimental | [4] Ye 2023; _cites (exp_ | p. 5; `ORC-N3EJLWKV4G.5e2b97` | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
 | Phase transition | 1673 K | 1673 | congruent transformation | experimental | [2] Saenko 2017; _cites Domagala 1961_ | p. 2; `ORC-YTSMVU6M2Q` | “Domagala et al.\[14\] reported that Fe3Y melts congruently at about 1673 K.” |
 

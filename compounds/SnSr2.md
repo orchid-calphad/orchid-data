@@ -1,19 +1,20 @@
 # SnSr2: enthalpy of formation
 
-> Enthalpy of formation of SnSr2: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of SnSr2: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/SnSr2.html · Markdown: https://data.orchid-project.org/compounds/SnSr2.md
 
-2 accepted literature formation-enthalpy value(s) (unspecified 2); Materials Project -59.752 kJ/mol-atom (mp-aaaaablq); OQMD -63.382 kJ/mol-atom (oqmd-18120).
+3 accepted literature formation-enthalpy value(s) (experimental 1, unspecified 2); experimental median -115.42 kJ/mol-atom (n = 1); Materials Project -59.752 kJ/mol-atom (mp-aaaaablq); OQMD -63.382 kJ/mol-atom (oqmd-18120).
 
 Systems: [Sn–Sr](https://data.orchid-project.org/systems/SN-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of SnSr2 reported in the literature (2)
+Table: Enthalpy of formation of SnSr2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -115.42 kJ/mol-atom | Sr2Sn | 298.15 | experimental |  | [Sn–Sr](https://data.orchid-project.org/systems/SN-SR.html) | [1] Zhao 2012; _cites Morozova 1959_ | p. 3; `ORC-TAKXQRFS7O` | “Using the heat of reaction of Sr2 Sn + 4.42HCl = 2SrCl2 + 0.21SnCl2 + 2.21H2 + 0.79Sn, Morozova et al. \[15\] estimated the enthalpy of formation at 25 ◦ C for Sr2 Sn compound to be -115.42 kJ/mol-atom.” |
 | -68.02 kJ/mol-atom | Sr2Sn | 0 | unspecified |  | [Sn–Sr](https://data.orchid-project.org/systems/SN-SR.html) | [1] Zhao 2012 | Table 2, p. 3, row 1; `ORC-UMTUMKFGXQ` |  |
 | -63.4 kJ/mol-atom | Sr2Sn | 0 | unspecified |  | [Sn–Sr](https://data.orchid-project.org/systems/SN-SR.html) | [1] Zhao 2012 | Table 2, p. 3, row 2; `ORC-VHDOE3BUQR` |  |
 
@@ -25,6 +26,7 @@ Table: Uncertainty budget of the literature values of SnSr2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -115.42 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -68.02 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -63.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 

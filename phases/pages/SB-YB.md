@@ -16,7 +16,7 @@ Table: Phases of the Sb–Yb system (12)
 | [BCC_A2](#phase-sb-yb-bcc-a2); _phase:sb-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300.51–2499.98 K, x(Yb) 0.99125–1 | 5 | 2 |
 | [FCC_A1](#phase-sb-yb-fcc-a1); _phase:sb-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1038.15 K, x(Yb) 0.99336–1 | 0 | 2 |
 | [HCP_A3](#phase-sb-yb-hcp-a3); _phase:sb-yb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-sb-yb-liquid); _phase:sb-yb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 885.12–2500 K, x(Yb) 0–1 | 31 | 2 |
+| [LIQUID](#phase-sb-yb-liquid); _phase:sb-yb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 885.12–2500 K, x(Yb) 0–1 | 32 | 2 |
 | [SB10YB11](#phase-sb-yb-sb10yb11); _phase:sb-yb:sb10yb11_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1678.22 K, x(Yb) 0.52381–0.52381 | 8 | 2 |
 | [SB11YB16](#phase-sb-yb-sb11yb16); _phase:sb-yb:sb11yb16_ | Ca16Sb11 · . · tP56 · P-42_1m (113) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1877.56 K, x(Yb) 0.59259–0.59259 | 3 | 1 |
 | [SB2YB_C49](#phase-sb-yb-sb2yb-c49); _phase:sb-yb:sb2yb-c49_ | ZrSi2 · C49 · oC12 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1077.97 K, x(Yb) 0.33333–0.33333 | 9 | 2 |
@@ -172,11 +172,11 @@ _assessment that models this phase_
 - Id: `phase:sb-yb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 885.12–2500 K, x(Yb) 0–1
-- Literature: 31 values (31 accepted) from 2 papers
+- Literature: 32 values (32 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-yb:liquid)
 
-Names (5): _corpus: _corpus:phase:sb-yb:liquid  
-_paper: _paper:10.1016/j.calphad.2012.02.004:L, paper:10.1016/j.calphad.2023.102541:Liquid  
+Names (6): _corpus: _corpus:phase:sb-yb:liquid  
+_paper: _paper:10.1016/j.calphad.2012.02.004:L, paper:10.1016/j.calphad.2023.102541:Liquid, paper:10.1016/j.calphad.2023.102541:liquid  
 _tdb: _tdb:SbYb-12Liu.tdb:LIQUID, tdb:SbYb-23Paz.tdb:LIQUID  
 
 

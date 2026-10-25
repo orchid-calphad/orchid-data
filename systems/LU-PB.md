@@ -1,10 +1,10 @@
 # Lu–Pb system
 
-> Lu–Pb system: 36 accepted literature values (invariant reaction 28, phase transition 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Lu–Pb system: 30 accepted literature values (invariant reaction 24, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LU-PB.html · Markdown: https://data.orchid-project.org/systems/LU-PB.md
 
-36 accepted literature values from 2 paper(s) (experimental 20, model 16); 2 calculated phase diagram(s).
+30 accepted literature values from 2 paper(s) (experimental 15, model 15); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LU-PB.json) · [CSV](https://data.orchid-project.org/systems/LU-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LU-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LU-PB/LuPb-12Idd.json) · [phases (10)](https://data.orchid-project.org/phases/pages/LU-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LU-PB.html) · [Markdown](https://data.orchid-project.org/systems/LU-PB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
-| model | 16 |
+| experimental | 15 |
+| model | 15 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 28 |
-| phase transition | 8 |
+| invariant reaction | 24 |
+| phase transition | 6 |
 
 ## Calculated phase diagrams
 
@@ -75,7 +75,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Lu–Pb system (28)
+Table: Invariant reactions reported in the literature for the Lu–Pb system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -83,45 +83,39 @@ Table: Invariant reactions reported in the literature for the Lu–Pb system (28
 | 1773.15 | Lu5Pb3 + L -> βLu5Pb4 | Lu5Pb3: Pb 0.375; βLu5Pb4: Pb 0.444 | experimental | [1] Wang 2013; _cites Mcmasters 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990179-9) | Table 6, p. 4, row 5; `ORC-DGULCJ43MU` |  |
 | 1773 | Liq + Lu5Pb3 \<-> βLu5Pb4 | Lu5Pb3: Pb 0.375; βLu5Pb4: Pb 0.444444 | experimental | [2] Iddaoudi 2012; _cites McMasters 1969_ | Table 3, p. 4, row 5; `ORC-AYAABE4RUL` |  |
 | 1773 | Liq + Lu5Pb3 \<-> βLu5Pb4 | Lu5Pb3: Pb 0.375; βLu5Pb4: Pb 0.444444 | model | [2] Iddaoudi 2012 | Table 3, p. 4, row 6; `ORC-T7R57D7Y74` |  |
-| 1773 | peritectic |  | experimental | [2] Iddaoudi 2012; _cites Massalski 1990_ | p. 1; `ORC-WCDNVMB4R4.359de4` | “For the Lu5Pb3 compound, a congruent melting was estimated at 1,968 K, while the LuPb2, Lu6Pb5, and Lu5Pb4 (a and b) compounds, a peritectic formation was reported, respectively, at 843, 1443, and 1773 K.” |
 | 1750 | Liq +Lu5Pb3 \<-> αLu5Pb4 | Lu5Pb3: Pb 0.375; αLu5Pb4: Pb 0.444444 | model | [2] Iddaoudi 2012 | Table 3, p. 4, row 10; `ORC-QCOPAO2JYT` |  |
 | 1748.85 | βLu5Pb4 + L -> αLu5Pb4 | βLu5Pb4: Pb 0.444; L: Pb 0.522; αLu5Pb4: Pb 0.444 | model | [1] Wang 2013 | Table 6, p. 4, row 8; `ORC-SBB2WMWOLC` |  |
 | 1748.15 | βLu5Pb4 + L -> αLu5Pb4 | βLu5Pb4: Pb 0.444; αLu5Pb4: Pb 0.444 | experimental | [1] Wang 2013; _cites Mcmasters 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990179-9) | Table 6, p. 4, row 7; `ORC-RDJ32CNAWX` |  |
 | 1748 | Liq +Lu5Pb3 \<-> αLu5Pb4 | Lu5Pb3: Pb 0.375; αLu5Pb4: Pb 0.444444 | experimental | [2] Iddaoudi 2012; _cites McMasters 1969_ | Table 3, p. 4, row 9; `ORC-HOGGTWA25C` |  |
-| 1558.15 | L -> (Lu) + Lu5Pb3 | L: Pb 0.175; (Lu): Pb 0.01; Lu5Pb3: Pb 0.375 | experimental | [1] Wang 2013; _cites Mcmasters 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990179-9) | Table 6, p. 4, row 1; `ORC-FX2EHPIODP` |  |
+| 1558.15 | eutectic: L -> (Lu) + Lu5Pb3 | L: Pb 0.175; (Lu): Pb 0.01; Lu5Pb3: Pb 0.375 | experimental | [1] Wang 2013; _cites Mcmasters 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990179-9) | Table 6, p. 4, row 1; `ORC-FX2EHPIODP` |  |
 | 1558 | Liq \<-> Lu5Pb3 + (Lu) | Lu5Pb3: Pb 0.375 | model | [2] Iddaoudi 2012 | Table 3, p. 4, row 2; `ORC-4VCDL5D775` |  |
 | 1558 | Liq \<-> Lu5Pb3 + (Lu) | Lu5Pb3: Pb 0.375 | experimental | [2] Iddaoudi 2012; _cites McMasters 1969_ | Table 3, p. 4, row 1; `ORC-S2O3PGENUM` |  |
-| 1554.85 | L -> (Lu) + Lu5Pb3 | L: Pb 0.186; (Lu): Pb 0.008; Lu5Pb3: Pb 0.375 | model | [1] Wang 2013 | Table 6, p. 4, row 2; `ORC-HOONKVQEFM` |  |
+| 1554.85 | eutectic: L -> (Lu) + Lu5Pb3 | L: Pb 0.186; (Lu): Pb 0.008; Lu5Pb3: Pb 0.375 | model | [1] Wang 2013 | Table 6, p. 4, row 2; `ORC-HOONKVQEFM` |  |
 | 1445.45 | L + αLu5Pb4 -> Lu6Pb5 | L: Pb 0.646; αLu5Pb4: Pb 0.444; Lu6Pb5: Pb 0.455 | model | [1] Wang 2013 | Table 6, p. 4, row 10; `ORC-T7BTU77SLA` |  |
 | 1443.15 | L + αLu5Pb4 -> Lu6Pb5 | αLu5Pb4: Pb 0.444444; Lu6Pb5: Pb 0.454545 | experimental | [1] Wang 2013; _cites Mcmasters 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990179-9) | Table 6, p. 4, row 9; `ORC-CZEBPEX4J3` |  |
 | 1443 | Liq + αLu5Pb4 \<-> Lu6Pb5 | αLu5Pb4: Pb 0.444444; Lu6Pb5: Pb 0.454545 | experimental | [2] Iddaoudi 2012; _cites McMasters 1969_ | Table 3, p. 4, row 11; `ORC-HKI5YIFFJY` |  |
 | 1443 | Liq + αLu5Pb4 \<-> Lu6Pb5 | αLu5Pb4: Pb 0.444444; Lu6Pb5: Pb 0.454545 | model | [2] Iddaoudi 2012 | Table 3, p. 4, row 12; `ORC-TVSQAHLV7F` |  |
-| 1443 | peritectic |  | experimental | [2] Iddaoudi 2012; _cites Massalski 1990_ | p. 1; `ORC-WCDNVMB4R4.45e36e` | “For the Lu5Pb3 compound, a congruent melting was estimated at 1,968 K, while the LuPb2, Lu6Pb5, and Lu5Pb4 (a and b) compounds, a peritectic formation was reported, respectively, at 843, 1443, and 1773 K.” |
 | 843.35 | L + Lu6Pb5 -> LuPb2 | L: Pb 0.948; Lu6Pb5: Pb 0.455; LuPb2: Pb 0.667 | model | [1] Wang 2013 | Table 6, p. 4, row 12; `ORC-SYMQWXQQEA` |  |
 | 843.15 | L + Lu6Pb5 -> LuPb2 | Lu6Pb5: Pb 0.454545; LuPb2: Pb 0.666667 | experimental | [1] Wang 2013; _cites Mcmasters 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990179-9) | Table 6, p. 4, row 11; `ORC-A6MTI2NV27` |  |
 | 843 | Liq + Lu6Pb5 \<-> LuPb2 | Lu6Pb5: Pb 0.454545; LuPb2: Pb 0.666667 | model | [2] Iddaoudi 2012 | Table 3, p. 4, row 14; `ORC-E3YLNUN372` |  |
 | 843 | Liq + Lu6Pb5 \<-> LuPb2 | Lu6Pb5: Pb 0.454545; LuPb2: Pb 0.666667 | experimental | [2] Iddaoudi 2012; _cites McMasters 1969_ | Table 3, p. 4, row 13; `ORC-QHF574RZW6` |  |
-| 843 | peritectic |  | experimental | [2] Iddaoudi 2012; _cites Massalski 1990_ | p. 1; `ORC-WCDNVMB4R4.561467` | “For the Lu5Pb3 compound, a congruent melting was estimated at 1,968 K, while the LuPb2, Lu6Pb5, and Lu5Pb4 (a and b) compounds, a peritectic formation was reported, respectively, at 843, 1443, and 1773 K.” |
-| 598.15 | L -> LuPb2 + (Pb) | L: Pb 0.997; LuPb2: Pb 0.667; (Pb): Pb 1 | model | [1] Wang 2013 | Table 6, p. 4, row 14; `ORC-RSDBCCSZAO` |  |
-| 597.15 | L -> LuPb2 + (Pb) | LuPb2: Pb 0.666667 | experimental | [1] Wang 2013; _cites Mcmasters 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990179-9) | Table 6, p. 4, row 13; `ORC-ZV6YCFSOIL` |  |
+| 598.15 | eutectic: L -> LuPb2 + (Pb) | L: Pb 0.997; LuPb2: Pb 0.667; (Pb): Pb 1 | model | [1] Wang 2013 | Table 6, p. 4, row 14; `ORC-RSDBCCSZAO` |  |
+| 597.15 | eutectic: L -> LuPb2 + (Pb) | LuPb2: Pb 0.666667 | experimental | [1] Wang 2013; _cites Mcmasters 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990179-9) | Table 6, p. 4, row 13; `ORC-ZV6YCFSOIL` |  |
 | 597 | Liq \<-> LuPb2 + (pb) | LuPb2: Pb 0.666667; (pb): Pb 1 | experimental | [2] Iddaoudi 2012; _cites McMasters 1969_ | Table 3, p. 4, row 15; `ORC-LQF63QUJOQ` |  |
-| 596 | eutectic |  | model | [2] Iddaoudi 2012 | p. 5; `ORC-RVQ7ICWU2L` | “The temperature of this Liq $ LuPb2 þ Pb eutectic reaction is found to occur at 596 K, and is therefore, in very good agreement with that of \[7\].” |
 | 596 | Liq \<-> LuPb2 + (pb) | LuPb2: Pb 0.666667; (pb): Pb 1 | model | [2] Iddaoudi 2012 | Table 3, p. 4, row 16; `ORC-SCTXCMMOUF` |  |
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (6)
 
 Table: Phase transition, Lu–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1748 K | 1748 | polymorphic | experimental | [2] Iddaoudi 2012; _cites Massalski 1990_ | p. 1; `ORC-D44U4V2OX6` | “A polymorphic transition (a $ b) was determined at 1,748 K for Lu5Pb4 (Fig. 1).” |
 | Phase transition | 1748 K | 1748 | αLu5Pb4 \<-> βLu5Pb4; _αLu5Pb4: Pb 0.444444; βLu5Pb4: Pb 0.444444_ | experimental | [2] Iddaoudi 2012; _cites McMasters 1969_ | Table 3, p. 4, row 7; `ORC-CEV4WR7AJT` |  |
 | Phase transition | 1750 K | 1750 | αLu5Pb4 \<-> βLu5Pb4; _αLu5Pb4: Pb 0.444444; βLu5Pb4: Pb 0.444444_ | model | [2] Iddaoudi 2012 | Table 3, p. 4, row 8; `ORC-WZUOCBEHJA` |  |
 | Phase transition | 1967 K | 1967 | Liq \<-> Lu5Pb3; _Liq: Pb 0.375; Lu5Pb3: Pb 0.375_ | model | [2] Iddaoudi 2012 | Table 3, p. 4, row 4; `ORC-NJ7QHI3DM7` |  |
 | Phase transition | 1968 K | 1968 | Liq \<-> Lu5Pb3; _Liq: Pb 0.375; Lu5Pb3: Pb 0.375_ | experimental | [2] Iddaoudi 2012; _cites McMasters 1969_ | Table 3, p. 4, row 3; `ORC-7XA56NQBNE` |  |
-| Phase transition | 1968 K | 1968 | congruent transformation | experimental | [2] Iddaoudi 2012; _cites Massalski 1990_ | p. 1; `ORC-WCDNVMB4R4.271f03` | “For the Lu5Pb3 compound, a congruent melting was estimated at 1,968 K, while the LuPb2, Lu6Pb5, and Lu5Pb4 (a and b) compounds, a peritectic formation was reported, respectively, at 843, 1443, and 1773 K.” |
 | Phase transition | 1968.15 K | 1968.15 | L -> Lu5Pb3; _L: Pb 0.375; Lu5Pb3: Pb 0.375_ | experimental | [1] Wang 2013; _cites Mcmasters 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990179-9) | Table 6, p. 4, row 3; `ORC-DYTQ7AYCF7` |  |
 | Phase transition | 1973.15 K | 1973.15 | L -> Lu5Pb3; _L: Pb 0.375; Lu5Pb3: Pb 0.375_ | model | [1] Wang 2013 | Table 6, p. 4, row 4; `ORC-RMKCGGGPQM` |  |
 

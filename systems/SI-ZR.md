@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/SI-ZR.html · Markdown: https://data.orchid-project.org/systems/SI-ZR.md
 
-66 accepted literature values from 3 paper(s) (experimental 13, model 43, unspecified 10); 2 calculated phase diagram(s).
+66 accepted literature values from 3 paper(s) (experimental 13, model 53); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-ZR.json) · [CSV](https://data.orchid-project.org/systems/SI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-ZR/SiZr-09Che.json) · [phases (16)](https://data.orchid-project.org/phases/pages/SI-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/SI-ZR.md)
 
@@ -13,8 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 13 |
-| model | 43 |
-| unspecified | 10 |
+| model | 53 |
 
 Table: Accepted values by property group
 
@@ -101,31 +100,31 @@ Table: Invariant reactions reported in the literature for the Si–Zr system (29
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2491.5 | peritectic: Liquid + Si4Zr5 -> Si2Zr3 | L: Zr 0.629; Si4Zr5: Zr 0.555; Si2Zr3: Zr 0.6 | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 4; `ORC-TZWG6QSIGK` |  |
+| 2491.5 | peritectic: Liquid + Si4Zr5 -> Si2Zr3 | L: Zr 0.629; Si4Zr5: Zr 0.555; Si2Zr3: Zr 0.6 | model | [1] (ed.) 1998 | Table I, p. 298, row 4; `ORC-TZWG6QSIGK` |  |
 | 2488.15 | peritectic: Liquid + β-Si4Zr5 -> Si2Zr3 | L: Zr 0.64; β-Si4Zr5: Zr 0.555556; Si2Zr3: Zr 0.6 | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 7; `ORC-TI4TPGE5SF` |  |
 | 2485.4 | peritectic: Liquid + β-Si4Zr5 -> Si2Zr3 | L: Zr 0.631; β-Si4Zr5: Zr 0.555556; Si2Zr3: Zr 0.6 | model | [2] Chen 2009 | Table 5, p. 6, row 8; `ORC-KF4AI2IWZ3` |  |
 | 2483.15 | peritectic: Liquid + β-Si4Zr5 -> β-SiZr | L: Zr 0.46; β-Si4Zr5: Zr 0.555556; β-SiZr: Zr 0.5 | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 5; `ORC-2E2PK55W3A` |  |
 | 2480.3 | peritectic: Liquid + β-Si4Zr5 -> β-SiZr | L: Zr 0.472; β-Si4Zr5: Zr 0.555556; β-SiZr: Zr 0.5 | model | [2] Chen 2009 | Table 5, p. 6, row 6; `ORC-WUR4U3IIAS` |  |
-| 2477 | peritectic: Liquid + Si4Zr5 -> SiZr | L: Zr 0.463; Si4Zr5: Zr 0.555; SiZr: Zr 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 3; `ORC-RUBRSDZAK6` |  |
-| 2455.4 | peritectic: Liquid + Si2Zr3 -> Si3Zr5 | L: Zr 0.677; Si2Zr3: Zr 0.6; Si3Zr5: Zr 0.675 | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 5; `ORC-2EXY4SIAUO` |  |
+| 2477 | peritectic: Liquid + Si4Zr5 -> SiZr | L: Zr 0.463; Si4Zr5: Zr 0.555; SiZr: Zr 0.5 | model | [1] (ed.) 1998 | Table I, p. 298, row 3; `ORC-RUBRSDZAK6` |  |
+| 2455.4 | peritectic: Liquid + Si2Zr3 -> Si3Zr5 | L: Zr 0.677; Si2Zr3: Zr 0.6; Si3Zr5: Zr 0.675 | model | [1] (ed.) 1998 | Table I, p. 298, row 5; `ORC-2EXY4SIAUO` |  |
 | 2453 | peritectic: Liquid + Si2Zr3 -> Si3Zr5 | L: Zr 0.69; Si2Zr3: Zr 0.6; Si3Zr5: Zr 0.625 | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 9; `ORC-3QZ7O3S6FT` |  |
 | 2449.3 | peritectic: Liquid + Si2Zr3 -> Si3Zr5 | L: Zr 0.678; Si2Zr3: Zr 0.6; Si3Zr5: Zr 0.625 | model | [2] Chen 2009 | Table 5, p. 6, row 10; `ORC-4DNCKZYZXG` |  |
-| 2200 | peritectic: Liquid + Si3Zr5 -> SiZr2 | L: Zr 0.803; Si3Zr5: Zr 0.625; SiZr2: Zr 0.666 | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 6; `ORC-DLDZ7VUQVF` |  |
+| 2200 | peritectic: Liquid + Si3Zr5 -> SiZr2 | L: Zr 0.803; Si3Zr5: Zr 0.625; SiZr2: Zr 0.666 | model | [1] (ed.) 1998 | Table I, p. 298, row 6; `ORC-DLDZ7VUQVF` |  |
 | 2198.15 | peritectic: Liquid + Si3Zr5 -> SiZr2 | L: Zr 0.82; Si3Zr5: Zr 0.625; SiZr2: Zr 0.666667 | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 11; `ORC-NOCYMR3JME` |  |
 | 2196.98 | peritectic: Liquid + Si3Zr5 -> SiZr2 | L: Zr 0.806; Si3Zr5: Zr 0.625; SiZr2: Zr 0.666667 | model | [2] Chen 2009 | Table 5, p. 6, row 12; `ORC-7TJTVOEA4C` |  |
-| 2025.2 | eutectoid: Si3Zr5 -> Si2Zr3 + SiZr2 | Si3Zr5: Zr 0.625; Si2Zr3: Zr 0.6; SiZr2: Zr 0.666 | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 10; `ORC-XGYTQCST5D` |  |
+| 2025.2 | eutectoid: Si3Zr5 -> Si2Zr3 + SiZr2 | Si3Zr5: Zr 0.625; Si2Zr3: Zr 0.6; SiZr2: Zr 0.666 | model | [1] (ed.) 1998 | Table I, p. 298, row 10; `ORC-XGYTQCST5D` |  |
 | 2018.3 | eutectoid: Si3Zr5 -> Si2Zr3+SiZr2 | Si3Zr5: Zr 0.625; Si2Zr3: Zr 0.6; SiZr2: Zr 0.666667 | model | [2] Chen 2009 | Table 5, p. 6, row 20; `ORC-4AUJHGGJJI` |  |
 | 2018.15 | eutectoid: Si3Zr5 -> Si2Zr3+SiZr2 | Si3Zr5: Zr 0.625; Si2Zr3: Zr 0.6; SiZr2: Zr 0.666667 | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 19; `ORC-EON3Z6HEJJ` |  |
-| 1927.4 | peritectic: Liquid + SiZr2 -> SiZr3 | L: Zr 0.886; SiZr2: Zr 0.666; SiZr3: Zr 0.75 | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 7; `ORC-VNE75R7J2P` |  |
+| 1927.4 | peritectic: Liquid + SiZr2 -> SiZr3 | L: Zr 0.886; SiZr2: Zr 0.666; SiZr3: Zr 0.75 | model | [1] (ed.) 1998 | Table I, p. 298, row 7; `ORC-VNE75R7J2P` |  |
 | 1924.5 | peritectic: Liquid + SiZr2 -> SiZr3 | L: Zr 0.896; SiZr2: Zr 0.666667; SiZr3: Zr 0.75 | model | [2] Chen 2009 | Table 5, p. 6, row 14; `ORC-KS24ZB5OQA` |  |
 | 1923.15 | peritectic: Liquid + SiZr2 -> SiZr3 | L: Zr 0.87; SiZr2: Zr 0.666667; SiZr3: Zr 0.75 | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 13; `ORC-EVFSAFEUP5` |  |
-| 1900.3 | peritectic: Liquid + SiZr -> Si2Zr | L: Zr 0.17; SiZr: Zr 0.5; Si2Zr: Zr 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 2; `ORC-IZMPAIAFHR` |  |
+| 1900.3 | peritectic: Liquid + SiZr -> Si2Zr | L: Zr 0.17; SiZr: Zr 0.5; Si2Zr: Zr 0.333 | model | [1] (ed.) 1998 | Table I, p. 298, row 2; `ORC-IZMPAIAFHR` |  |
 | 1893.3 | peritectic: Liquid + β-SiZr -> Si2Zr | L: Zr 0.197; β-SiZr: Zr 0.5; Si2Zr: Zr 0.333333 | model | [2] Chen 2009 | Table 5, p. 6, row 4; `ORC-LPZZAPV25C` |  |
 | 1893.15 | peritectic: Liquid + β-SiZr -> Si2Zr | L: Zr 0.25; β-SiZr: Zr 0.5; Si2Zr: Zr 0.333333 | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 3; `ORC-OOVGRHGIGL` |  |
 | 1843.96 | eutectic: Liquid -> bcc-Zr+SiZr3 | L: Zr 0.92; SiZr3: Zr 0.75 | model | [2] Chen 2009 | Table 5, p. 6, row 16; `ORC-B3SUMFNX5P` |  |
 | 1843.15 | eutectic: Liquid -> bcc-Zr+SiZr3 | L: Zr 0.91; SiZr3: Zr 0.75 | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 15; `ORC-LE6LSQTZSC` |  |
-| 1814.2 | eutectic: Liquid -> SiZr3 + bcc-A2 | L: Zr 0.916; SiZr3: Zr 0.75; bcc-A2: Zr 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 8; `ORC-EJLCLAZXMK` |  |
-| 1634.6 | eutectic: Liquid -> diamond + Si2Zr | L: Zr 0.073; diamond: Zr 0; Si2Zr: Zr 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 1; `ORC-27IPJVLW2N` |  |
+| 1814.2 | eutectic: Liquid -> SiZr3 + bcc-A2 | L: Zr 0.916; SiZr3: Zr 0.75; bcc-A2: Zr 1 | model | [1] (ed.) 1998 | Table I, p. 298, row 8; `ORC-EJLCLAZXMK` |  |
+| 1634.6 | eutectic: Liquid -> diamond + Si2Zr | L: Zr 0.073; diamond: Zr 0; Si2Zr: Zr 0.333 | model | [1] (ed.) 1998 | Table I, p. 298, row 1; `ORC-27IPJVLW2N` |  |
 | 1628.15 | eutectic: Liquid -> Si+Si2Zr | L: Zr 0.1; Si: Zr 0; Si2Zr: Zr 0.333333 | experimental | [2] Chen 2009; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf02898272) | Table 5, p. 6, row 1; `ORC-NQ65XVBE26` |  |
 | 1618.7 | eutectic: Liquid -> Si+Si2Zr | L: Zr 0.0819; Si: Zr 0; Si2Zr: Zr 0.333333 | model | [2] Chen 2009 | Table 5, p. 6, row 2; `ORC-L3ZCBJXTX5` |  |
 | 1139 | other: Bcc-Zr -> hcp-Zr+SiZr3 | SiZr3: Zr 0.75 | model | [2] Chen 2009 | Table 5, p. 6, row 18; `ORC-7NXAUUVMWF` |  |
@@ -184,13 +183,13 @@ Table: Phase transition, Si–Zr system
 | Phase transition | 2133.15 K | 2133.15 | polymorphic: α-Si4Zr5 -> β-Si4Zr5; _α-Si4Zr5: Zr 0.555556; β-Si4Zr5: Zr 0.555556_ | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 25; `ORC-UYHT7IFMD3` |  |
 | Phase transition | 2523 K | 2523 | congruent melting: Liquid -> β-Si4Zr5; _L: Zr 0.556; β-Si4Zr5: Zr 0.555556_ | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 21; `ORC-TOCWQIAGKM` |  |
 | Phase transition | 2525 K | 2525 | congruent melting: Liquid -> β-Si4Zr5; _L: Zr 0.556; β-Si4Zr5: Zr 0.555556_ | model | [2] Chen 2009 | Table 5, p. 6, row 22; `ORC-LTPFBTNDMU` |  |
-| Phase transition | 2527 K | 2527 | congruent melting: Liquid -> Si4Zr5; _L: Zr 0.556; Si4Zr5: Zr 0.556_ | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 11; `ORC-57BGVT6TTU` |  |
+| Phase transition | 2527 K | 2527 | congruent melting: Liquid -> Si4Zr5; _L: Zr 0.556; Si4Zr5: Zr 0.556_ | model | [1] (ed.) 1998 | Table I, p. 298, row 11; `ORC-57BGVT6TTU` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 2. H.M. Chen, F. Zheng, H.S. Liu, L.B. Liu, Z.P. Jin, Thermodynamic assessment of B–Zr and Si–Zr binary systems, Journal of Alloys and Compounds 468, 209-216 (2009). [doi:10.1016/j.jallcom.2008.01.061](https://doi.org/10.1016/j.jallcom.2008.01.061)
 3. C. Gueneau, C. Servant, I. Ansara, N. Dupin, Thermodynamic assessment of the SiZr system, Calphad 18, 319-327 (1994). [doi:10.1016/0364-5916(94)90036-1](https://doi.org/10.1016/0364-5916%2894%2990036-1)
 

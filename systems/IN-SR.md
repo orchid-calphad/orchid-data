@@ -1,10 +1,10 @@
 # In–Sr system
 
-> In–Sr system: 46 accepted literature values (crystal structure 23, formation 12, invariant reaction 9, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Sr system: 35 accepted literature values (crystal structure 23, formation 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-SR.html · Markdown: https://data.orchid-project.org/systems/IN-SR.md
 
-46 accepted literature values from 1 paper(s) (experimental 11, model 6, DFT 6, unspecified 23); 1 calculated phase diagram(s).
+35 accepted literature values from 1 paper(s) (model 6, DFT 6, unspecified 23); 1 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SR.json) · [CSV](https://data.orchid-project.org/systems/IN-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SR/InSr-14Wan.json) · [phases (13)](https://data.orchid-project.org/phases/pages/IN-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-SR.html) · [Markdown](https://data.orchid-project.org/systems/IN-SR.md)
 
@@ -12,7 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
 | model | 6 |
 | DFT | 6 |
 | unspecified | 23 |
@@ -21,8 +20,6 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
-| phase transition | 2 |
 | formation | 12 |
 | crystal structure | 23 |
 
@@ -70,22 +67,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/IN/IN-SR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/IN/IN-SR.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the In–Sr system (9)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1081 | peritectic: Liquid + SrIn2 -> Sr2In3 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.474201` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 990 | peritectic: Liquid + Sr2In3 -> SrIn |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.8d3997` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 893 | peritectic: Liquid + SrIn2 -> Sr2In5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.f18c79` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 845 | peritectic: Liquid + SrIn -> Sr3In2 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.43c326` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 818 | eutectic: Liquid -> Sr5In3 + Sr3In |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.fd2d69` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 813 | peritectic: Liquid + Sr2In5 -> SrIn3 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.8190e6` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 790 | eutectic: Liquid -> Sr3In + (αSr) |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.a20cd1` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 693 | peritectic: Liquid + SrIn3 -> SrIn5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.8e0026` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-| 429 | eutectic: Liquid -> (In) + SrIn5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1; `ORC-GVHTNHECDI.31dab3` | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
-
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
@@ -108,15 +89,6 @@ Table: Enthalpies of formation, In–Sr system (12)
 | SrIn5 |  | -14.97 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 11; `ORC-DVCWTY3WYN` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, In–Sr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 831 K | 831 | congruent transformation | experimental | [1] Wang 2014 | p. 1; `ORC-JSOPQHAY6I.b8c861` | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
-| Phase transition | 1203 K | 1203 | congruent transformation | experimental | [1] Wang 2014 | p. 1; `ORC-JSOPQHAY6I.03f051` | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
 
 ### Crystal structure (23)
 

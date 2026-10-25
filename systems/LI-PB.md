@@ -1,10 +1,10 @@
 # Li–Pb system
 
-> Li–Pb system: 73 accepted literature values (crystal structure 30, invariant reaction 22, formation 16, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Pb system: 70 accepted literature values (crystal structure 30, invariant reaction 19, formation 16, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-PB.html · Markdown: https://data.orchid-project.org/systems/LI-PB.md
 
-73 accepted literature values from 1 paper(s) (experimental 37, DFT 36); 1 calculated phase diagram(s).
+70 accepted literature values from 1 paper(s) (experimental 34, DFT 36); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-PB.json) · [CSV](https://data.orchid-project.org/systems/LI-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-PB/LiPb-16Zho.json) · [phases (10)](https://data.orchid-project.org/phases/pages/LI-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-PB.html) · [Markdown](https://data.orchid-project.org/systems/LI-PB.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
+| experimental | 34 |
 | DFT | 36 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 22 |
+| invariant reaction | 19 |
 | phase transition | 4 |
 | formation | 16 |
 | crystal structure | 30 |
@@ -56,7 +56,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Li–Pb system (22)
+Table: Invariant reactions reported in the literature for the Li–Pb system (19)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -66,22 +66,19 @@ Table: Invariant reactions reported in the literature for the Li–Pb system (22
 | 921 | liq. + Li7Pb2 -> Li4Pb | liq.: Pb 0.17; Li7Pb2: Pb 0.208; Li4Pb: Pb 0.2 | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 4; `ORC-H4XBM7RBG7` |  |
 | 915 | Li3Pb + liq. -> Li5Pb2 | Li3Pb: Pb 0.25; liq.: Pb 0.3; Li5Pb2: Pb 0.287 | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 10; `ORC-HMY6K7MQBC` |  |
 | 915 | Li3Pb + liq. -> Li5Pb2 | Li3Pb: Pb 0.25; liq.: Pb 0.2961; Li5Pb2: Pb 0.2857 | DFT | [1] Zhou 2016 | Table 6, p. 5, row 9; `ORC-LFVOR7COD5` |  |
-| 737 | liq. -> Li5Pb2 + βLiPb | liq.: Pb 0.38; Li5Pb2: Pb 0.286; βLiPb: Pb 0.46 | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 12; `ORC-C5TPIYEC6L` |  |
-| 736 | liq. -> Li5Pb2 + βLiPb | liq.: Pb 0.4158; Li5Pb2: Pb 0.2857; βLiPb: Pb 0.4607 | DFT | [1] Zhou 2016 | Table 6, p. 5, row 11; `ORC-ETKQJNCN27` |  |
-| 509 | eutectic |  | experimental | [1] Zhou 2016; _cites Pogodin 1947_ | p. 2; `ORC-5F77Y7X7NR` | “Pogodin and Schpilineshkii \[11\] used the same method as Ref. \[9\] to measure the same eutectic reaction as Ref. \[8\] with close eutectic point (83.6 at.% Pb and 509 K).” |
-| 509 | liq. -> βLiPb + fcc | liq.: Pb 0.836; βLiPb: Pb 0.5 | experimental | [1] Zhou 2016; _cites Pogodin 1947_ | Table 6, p. 5, row 22; `ORC-V4LB5C4DDE` |  |
-| 508 | liq. -> βLiPb + fcc | liq.: Pb 0.843; βLiPb: Pb 0.5; fcc: Pb 0.966 | experimental | [1] Zhou 2016; _cites Hubberstey 1992_ | Table 6, p. 5, row 23; `ORC-36OBL4OGEX` |  |
-| 508 | eutectic: liquid / fcc þ bLiPb |  | experimental | [1] Zhou 2016; _cites Hubberstey 1992_ | p. 2; `ORC-D3KHKQZRPA` | “Hubberstry et al. \[18\] re-determined the LiePb phase diagram at the Pb-rich region and reported the eutectic reaction, liquid / fcc þ bLiPb at 84.3 at.% Pb and 508 K using lots of experimental data of resistanceetemperature measurements.” |
-| 508 | liq. -> βLiPb + fcc | liq.: Pb 0.8386; βLiPb: Pb 0.5094; fcc: Pb 0.9678 | DFT | [1] Zhou 2016 | Table 6, p. 5, row 19; `ORC-DNZGUANGQ7` |  |
-| 508 | liq. -> βLiPb + fcc | liq.: Pb 0.83; βLiPb: Pb 0.5; fcc: Pb 0.968 | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 21; `ORC-XRBUTUZ346` |  |
-| 504 | liq. -> βLiPb + fcc | liq.: Pb 0.837; βLiPb: Pb 0.5; fcc: Pb 0.977 | experimental | [1] Zhou 2016; _cites Czochralski 1927_ [doi](https://doi.org/10.1515/ijmr-1927-191-1239) | Table 6, p. 5, row 20; `ORC-37Y34KKVD2` |  |
-| 504 | eutectic: liquid / fcc þ bLiPb |  | experimental | [1] Zhou 2016; _cites Czochralski 1927_ | p. 1; `ORC-3ZORSD7IRX` | “A eutectic reaction, liquid / fcc þ bLiPb at 83.7 at.% Pb and 504 K was determined by Czochralski and Rassow \[8\] using optical microscopic technique and thermal measurement, which was the first experimental data in the LiePb system.” |
+| 737 | eutectic: liq. -> Li5Pb2 + βLiPb | liq.: Pb 0.38; Li5Pb2: Pb 0.286; βLiPb: Pb 0.46 | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 12; `ORC-C5TPIYEC6L` |  |
+| 736 | eutectic: liq. -> Li5Pb2 + βLiPb | liq.: Pb 0.4158; Li5Pb2: Pb 0.2857; βLiPb: Pb 0.4607 | DFT | [1] Zhou 2016 | Table 6, p. 5, row 11; `ORC-ETKQJNCN27` |  |
+| 509 | eutectic: liq. -> βLiPb + fcc | liq.: Pb 0.836; βLiPb: Pb 0.5 | experimental | [1] Zhou 2016; _cites Pogodin 1947_ | Table 6, p. 5, row 22; `ORC-V4LB5C4DDE` |  |
+| 508 | eutectic: liq. -> βLiPb + fcc | liq.: Pb 0.843; βLiPb: Pb 0.5; fcc: Pb 0.966 | experimental | [1] Zhou 2016; _cites Hubberstey 1992_ | Table 6, p. 5, row 23; `ORC-36OBL4OGEX` |  |
+| 508 | eutectic: liq. -> βLiPb + fcc | liq.: Pb 0.8386; βLiPb: Pb 0.5094; fcc: Pb 0.9678 | DFT | [1] Zhou 2016 | Table 6, p. 5, row 19; `ORC-DNZGUANGQ7` |  |
+| 508 | eutectic: liq. -> βLiPb + fcc | liq.: Pb 0.83; βLiPb: Pb 0.5; fcc: Pb 0.968 | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 21; `ORC-XRBUTUZ346` |  |
+| 504 | eutectic: liq. -> βLiPb + fcc | liq.: Pb 0.837; βLiPb: Pb 0.5; fcc: Pb 0.977 | experimental | [1] Zhou 2016; _cites Czochralski 1927_ [doi](https://doi.org/10.1515/ijmr-1927-191-1239) | Table 6, p. 5, row 20; `ORC-37Y34KKVD2` |  |
 | 487 | fcc + βLiPb -> αLiPb | fcc: Pb 0.9696; βLiPb: Pb 0.5086; αLiPb: Pb 0.5114 | DFT | [1] Zhou 2016 | Table 6, p. 5, row 15; `ORC-5XTJI4JM74` |  |
 | 487 | fcc + βLiPb -> αLiPb | fcc: Pb 0.98; βLiPb: Pb 0.5; αLiPb: Pb 0.506 | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 16; `ORC-MDUDQTVKA4` |  |
 | 459 | βLiPb -> Li5Pb2 + αLiPb | βLiPb: Pb 0.4746; Li5Pb2: Pb 0.2857; αLiPb: Pb 0.4807 | DFT | [1] Zhou 2016 | Table 6, p. 5, row 13; `ORC-PJ4ZMDW6LE` |  |
 | 459 | βLiPb -> Li5Pb2 + αLiPb | βLiPb: Pb 0.467; Li5Pb2: Pb 0.286; αLiPb: Pb 0.475 | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 14; `ORC-QUAJGOSHMU` |  |
-| 450 | liq. -> bcc + Li4Pb | liq.: Pb 0.01; bcc: Pb 0; Li4Pb: Pb 0.2 | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 2; `ORC-YEA7RM5IUJ` |  |
-| 449 | liq. -> bcc + Li4Pb | liq.: Pb 0.0016; bcc: Pb 0; Li4Pb: Pb 0.2 | DFT | [1] Zhou 2016 | Table 6, p. 5, row 1; `ORC-VPKU4RQN53` |  |
+| 450 | eutectic: liq. -> bcc + Li4Pb | liq.: Pb 0.01; bcc: Pb 0; Li4Pb: Pb 0.2 | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 2; `ORC-YEA7RM5IUJ` |  |
+| 449 | eutectic: liq. -> bcc + Li4Pb | liq.: Pb 0.0016; bcc: Pb 0; Li4Pb: Pb 0.2 | DFT | [1] Zhou 2016 | Table 6, p. 5, row 1; `ORC-VPKU4RQN53` |  |
 
 ## Formation enthalpies
 

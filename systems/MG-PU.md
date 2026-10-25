@@ -1,10 +1,10 @@
 # Mg–Pu system
 
-> Mg–Pu system: 13 accepted literature values (invariant reaction 13) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Pu system: 11 accepted literature values (invariant reaction 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-PU.html · Markdown: https://data.orchid-project.org/systems/MG-PU.md
 
-13 accepted literature values from 1 paper(s) (experimental 7, model 6); 1 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 5, model 6); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-PU.json) · [CSV](https://data.orchid-project.org/systems/MG-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PU/MgPu-09Wan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/MG-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-PU.html) · [Markdown](https://data.orchid-project.org/systems/MG-PU.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 5 |
 | model | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 13 |
+| invariant reaction | 11 |
 
 ## Calculated phase diagrams
 
@@ -55,7 +55,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Pu system (13)
+Table: Invariant reactions reported in the literature for the Mg–Pu system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -64,8 +64,6 @@ Table: Invariant reactions reported in the literature for the Mg–Pu system (13
 | 913.15 | monotectic: L2 -> L1 + εPu | L2: Pu 0.995; εPu: Pu 1 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 9; `ORC-JMELB6LRFR` |  |
 | 832.15 | eutectic: L1 -> (Mg) + εPu | L1: Pu 0.069; (Mg): Pu 0.037; εPu: Pu 1 | model | [1] Wang 2009 | Table 3, p. 4, row 8; `ORC-OY73355XQN` |  |
 | 829.15 | eutectic: L1 -> (Mg) + εPu | L1: Pu 0.065; (Mg): Pu 0.038; εPu: Pu 1 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 7; `ORC-32O627LC6C` |  |
-| 826.15 | eutectic: L1 -> (Mg) + ePu |  | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | p. 2; `ORC-NW6AZ32UD3.0e52c4` | “Later, Axler et al. \[23\] determined the phase diagram in the MgPu binary system using metallography, electron microprobe, X-ray diffraction (XRD) and differential thermal analysis (DTA), where the temperature (553 ± 3 °C) of the L1 M (Mg) + ePu eutectic reaction is consistent with that (550 °C) determined by Schonfeld” |
-| 823.15 | eutectic: L1 -> (Mg) + ePu |  | experimental | [1] Wang 2009; _cites Schonfeld 1959_ | p. 2; `ORC-NW6AZ32UD3.efaa39` | “Later, Axler et al. \[23\] determined the phase diagram in the MgPu binary system using metallography, electron microprobe, X-ray diffraction (XRD) and differential thermal analysis (DTA), where the temperature (553 ± 3 °C) of the L1 M (Mg) + ePu eutectic reaction is consistent with that (550 °C) determined by Schonfeld” |
 | 711.15 | peritectoid: (Mg) + δPu -> Mg6Pu | (Mg): Pu 0.02; δPu: Pu 1; Mg6Pu: Pu 0.143 | experimental | [1] Wang 2009; _cites Axler 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990474-1) | Table 3, p. 4, row 5; `ORC-DGAPIIFHAS` |  |
 | 710.15 | peritectoid: (Mg) + δPu -> Mg6Pu | (Mg): Pu 0.021; δPu: Pu 1; Mg6Pu: Pu 0.143 | model | [1] Wang 2009 | Table 3, p. 4, row 6; `ORC-D73AJYLFBN` |  |
 | 680.15 | peritectoid: Mg6Pu + δPu -> Mg4Pu | Mg6Pu: Pu 0.143; δPu: Pu 1; Mg4Pu: Pu 0.2 | model | [1] Wang 2009 | Table 3, p. 4, row 4; `ORC-KDSG5VA3BL` |  |

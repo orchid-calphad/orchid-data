@@ -1,10 +1,10 @@
 # Ag–Te system
 
-> Ag–Te system: 26 accepted literature values (invariant reaction 15, formation 10, phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Te system: 24 accepted literature values (invariant reaction 14, formation 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-TE.html · Markdown: https://data.orchid-project.org/systems/AG-TE.md
 
-26 accepted literature values from 1 paper(s) (experimental 12, model 14); 4 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 12, model 12); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-TE.json) · [CSV](https://data.orchid-project.org/systems/AG-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-TE/AgTe-04Kor-LB.json) · [phases (16)](https://data.orchid-project.org/phases/pages/AG-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-TE.html) · [Markdown](https://data.orchid-project.org/systems/AG-TE.md)
 
@@ -13,14 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| model | 14 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 15 |
-| phase transition | 1 |
+| invariant reaction | 14 |
 | formation | 10 |
 
 ## Calculated phase diagrams
@@ -77,23 +76,22 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Te system (15)
+Table: Invariant reactions reported in the literature for the Ag–Te system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1233 | L -> γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.334 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 5; `ORC-BFEQ2RV65N` |  |
-| 1233 | L -> γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.333 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 6; `ORC-LVH4CO3HMX` |  |
-| 1155 | L2 -> L1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.32 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 1; `ORC-XFYLIMNXQK` |  |
-| 1154 | L2 -> L1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.303 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 2; `ORC-LQKRBF3RU4` |  |
-| 1142 | L -> FCC_A1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 4; `ORC-GYFFUHK2SM` |  |
-| 1142 | L -> FCC_A1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 3; `ORC-H2YWWAZOK2` |  |
+| 1233 | congruent melting: L -> γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.334 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 5; `ORC-BFEQ2RV65N` |  |
+| 1233 | congruent melting: L -> γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.333 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 6; `ORC-LVH4CO3HMX` |  |
+| 1155 | monotectic: L2 -> L1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.32 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 1; `ORC-XFYLIMNXQK` |  |
+| 1154 | monotectic: L2 -> L1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.303 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 2; `ORC-LQKRBF3RU4` |  |
+| 1142 | eutectic: L -> FCC_A1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 4; `ORC-GYFFUHK2SM` |  |
+| 1142 | eutectic: L -> FCC_A1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 3; `ORC-H2YWWAZOK2` |  |
 | 733 | βAg2Te + L -> γ | βAg2Te: Ag 0.666667, Te 0.333333; γ: Ag 0.666667, Te 0.333333 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 8; `ORC-BITIXLKRMR` |  |
 | 724 | βAg2Te + L -> γ | βAg2Te: Ag 0.666667, Te 0.333333; γ: Ag 0.666667, Te 0.333333 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 7; `ORC-2H2RTHRXWE` |  |
 | 694 | γ + L -> βAg5Te3 | γ: Ag 0.666667, Te 0.333333; βAg5Te3: Ag 0.62, Te 0.38 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 9; `ORC-KM6MKZ54Q7` |  |
 | 693 | γ + L -> βAg5Te3 | γ: Ag 0.666667, Te 0.333333; βAg5Te3: Ag 0.62, Te 0.38 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 10; `ORC-4WCNNIS6II` |  |
-| 633 | L -> βAg5Te3 + Hex_A8 | βAg5Te3: Ag 0.62, Te 0.38 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 11; `ORC-MDMAO573O6` |  |
-| 626 | L -> βAg5Te3 + Hex_A8 | βAg5Te3: Ag 0.62, Te 0.38 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 12; `ORC-IFWKV3RL36` |  |
-| 626 | eutectic |  | model | [1] Gierlotka 2009 | p. 1; `ORC-ZUFCOUYVFV` | “This calculation reproduced well liquidus around eutectic reaction at 626 K and shows very good agreement with the data obtained by Pelabon \[13\], Chikashige and Saito \[14\] and Kracek et al. \[4\].” |
+| 633 | eutectic: L -> βAg5Te3 + Hex_A8 | βAg5Te3: Ag 0.62, Te 0.38 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 11; `ORC-MDMAO573O6` |  |
+| 626 | eutectic: L -> βAg5Te3 + Hex_A8 | βAg5Te3: Ag 0.62, Te 0.38 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 12; `ORC-IFWKV3RL36` |  |
 | 395 | γ -> αAg2Te + αAg5Te3 | γ: Ag 0.666667, Te 0.333333; αAg2Te: Ag 0.666667, Te 0.333333; αAg5Te3: Ag 0.62, Te 0.38 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 13; `ORC-7PFIWUOX7C` |  |
 | 393 | γ -> αAg2Te + αAg5Te3 | γ: Ag 0.666667, Te 0.333333; αAg2Te: Ag 0.666667, Te 0.333333; αAg5Te3: Ag 0.62, Te 0.38 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 14; `ORC-XZIT5K6TTG` |  |
 
@@ -115,16 +113,6 @@ Table: Enthalpies of formation, Ag–Te system (10)
 | βAg2Te | [Ag2Te](https://data.orchid-project.org/compounds/Ag2Te.html) | -5.383 kJ/mol-atom | 523 | model | -19.54 (mp-aaaaacjg) | -6.298 (oqmd-13143) | [1] Gierlotka 2009 | Table 4, p. 4, row 1; `ORC-ZL6POTKNFO` |  |
 | βAg5Te3 |  | -8.07 kJ/mol-atom | 693 | experimental |  |  | [1] Gierlotka 2009; _cites Castanet 1974_ | Table 4, p. 4, row 6; `ORC-HLJMVMJS6D` |  |
 | βAg5Te3 |  | -4.356 kJ/mol-atom | 693 | model |  |  | [1] Gierlotka 2009 | Table 4, p. 4, row 5; `ORC-DHNXHKUW6K` |  |
-
-## Other properties
-
-### Phase transition (1)
-
-Table: Phase transition, Ag–Te system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 724 K | 724 | ␤Ag2 Te + L ↔ ␤Ag655 Te345 | model | [1] Gierlotka 2009 | p. 4; `ORC-IGVGKZIXW7` | “The biggest difference is for reaction ␤Ag2 Te + L ↔ ␤Ag655 Te345 . The calculated values is 724 K, when measured by Kracek et al. \[4\] is 733 ± 5 K.” |
 
 ## Sources
 

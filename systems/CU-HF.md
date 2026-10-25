@@ -1,10 +1,10 @@
 # Cu–Hf system
 
-> Cu–Hf system: 162 accepted literature values (invariant reaction 64, formation 54, crystal structure 29, phase transition 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Hf system: 156 accepted literature values (invariant reaction 62, formation 54, crystal structure 29, phase transition 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-HF.html · Markdown: https://data.orchid-project.org/systems/CU-HF.md
 
-162 accepted literature values from 3 paper(s) (experimental 62, model 58, DFT 17, unspecified 25); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+156 accepted literature values from 3 paper(s) (experimental 58, model 56, DFT 17, unspecified 25); 3 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-HF.json) · [CSV](https://data.orchid-project.org/systems/CU-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-HF/CuHf-06Lia.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CU-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-HF.html) · [Markdown](https://data.orchid-project.org/systems/CU-HF.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 62 |
-| model | 58 |
+| experimental | 58 |
+| model | 56 |
 | DFT | 17 |
 | unspecified | 25 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 64 |
-| phase transition | 15 |
+| invariant reaction | 62 |
+| phase transition | 11 |
 | formation | 54 |
 | crystal structure | 29 |
 
@@ -84,7 +84,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Hf system (64)
+Table: Invariant reactions reported in the literature for the Cu–Hf system (62)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -94,20 +94,19 @@ Table: Invariant reactions reported in the literature for the Cu–Hf system (64
 | 1813 | bcc -> liquid + hcp | bcc: Hf 0.957; liquid: Hf 0.8; hcp: Hf 0.991 | experimental | [3] Liang 2006; _cites Pieraggi 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990184-6) | Table 2, p. 3, row 20; `ORC-D2VKUFG2JD` |  |
 | 1813 | (βHf) \<=> L + (αHf) | (βHf): Hf 0.991; (αHf): Hf 0.957 | experimental | [2] Turchanin 2008; _cites ref. 11_ | Table 1, p. 4, row 10; `ORC-UCDVTRL5HQ` |  |
 | 1813 | bcc = liquid + hcp | bcc: Hf 0.957; liquid: Hf 0.8; hcp: Hf 0.991 | experimental | [1] Zhong 2013; _cites Pieraggi 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990184-6) | Table 4, p. 9, row 18; `ORC-ZOXQIMZJDE` |  |
-| 1611 | L \<=> CuHf2 | L: Hf 0.6667; CuHf2: Hf 0.6667 | model | [2] Turchanin 2008 | Table 1, p. 4, row 6; `ORC-Z5QDQQZ2T2` |  |
-| 1583 | L \<=> CuHf2 | L: Hf 0.6667; CuHf2: Hf 0.6667 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 4, row 5; `ORC-NZYPJUJPWH` |  |
+| 1611 | congruent melting: L \<=> CuHf2 | L: Hf 0.6667; CuHf2: Hf 0.6667 | model | [2] Turchanin 2008 | Table 1, p. 4, row 6; `ORC-Z5QDQQZ2T2` |  |
+| 1583 | congruent melting: L \<=> CuHf2 | L: Hf 0.6667; CuHf2: Hf 0.6667 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 4, row 5; `ORC-NZYPJUJPWH` |  |
 | 1571 | Liquid = CuHf2 + hcp | Liquid: Hf 0.723; CuHf2: Hf 0.667; hcp: Hf 0.999 | model | [1] Zhong 2013 | Table 4, p. 9, row 15; `ORC-HRXVVMODAL` |  |
 | 1568.15 | eutectic: liquid -> hcp + CuHf2 |  | experimental | [3] Liang 2006; _cites Pieraggi 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990184-6) | p. 2; `ORC-WEMWGRB35N` | “Pieraggi et al. \[17\] studied the Hf-rich portion of the Cu-Hf system between 72.7 and 100 at.% Hf using DTA and metallography. It was discovered that the eutectic decomposition of the liquid Cu-Hf alloy into hcp and CuHf2 appeared at 1295 ◦ C.” |
-| 1568 | eutectic: L ⇔ CuHf2 + (αHf) |  | experimental | [2] Turchanin 2008; _cites ref. 11_ | p. 1; `ORC-B4XYEM3TWN` | “The temperature of the eutectic reaction L ⇔ CuHf2 + (αHf) was 1568 K.” |
-| 1568 | Liquid -> CuHf2 + hcp | L: Hf 0.732; CuHf2: Hf 0.666667 | experimental | [1] Zhong 2013; _cites Pieraggi 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990184-6) | Table 4, p. 9, row 26; `ORC-DFWQPHO3Q4` |  |
+| 1568 | eutectic: Liquid -> CuHf2 + hcp | L: Hf 0.732; CuHf2: Hf 0.666667 | experimental | [1] Zhong 2013; _cites Pieraggi 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990184-6) | Table 4, p. 9, row 26; `ORC-DFWQPHO3Q4` |  |
 | 1568 | L \<=> CuHf2 + (αHf) | CuHf2: Hf 0.6667 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 4, row 7; `ORC-E5BDWDIQBL` |  |
-| 1568 | Liquid -> CuHf2 + hcp | L: Hf 0.72; CuHf2: Hf 0.666667 | experimental | [1] Zhong 2013; _cites Markiv 1974_ | Table 4, p. 9, row 25; `ORC-FOYULYGYDR` |  |
-| 1568 | Liquid -> CuHf2 + hcp | Liquid: Hf 0.732; CuHf2: Hf 0.666667 | experimental | [3] Liang 2006; _cites Pieraggi 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990184-6) | Table 2, p. 3, row 18; `ORC-QRFHOPCJTC` |  |
+| 1568 | eutectic: Liquid -> CuHf2 + hcp | L: Hf 0.72; CuHf2: Hf 0.666667 | experimental | [1] Zhong 2013; _cites Markiv 1974_ | Table 4, p. 9, row 25; `ORC-FOYULYGYDR` |  |
+| 1568 | eutectic: Liquid -> CuHf2 + hcp | Liquid: Hf 0.732; CuHf2: Hf 0.666667 | experimental | [3] Liang 2006; _cites Pieraggi 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990184-6) | Table 2, p. 3, row 18; `ORC-QRFHOPCJTC` |  |
 | 1568 | L \<=> CuHf2 + (αHf) | CuHf2: Hf 0.6667; (αHf): Hf 0.997 | experimental | [2] Turchanin 2008; _cites ref. 11_ | Table 1, p. 4, row 8; `ORC-RJTLLHMRI2` |  |
-| 1556.4 | Liquid -> CuHf2 + hcp | Liquid: Hf 0.729; CuHf2: Hf 0.666667 | model | [3] Liang 2006 | Table 2, p. 3, row 17; `ORC-LDQNY4MX2K` |  |
+| 1556.4 | eutectic: Liquid -> CuHf2 + hcp | Liquid: Hf 0.729; CuHf2: Hf 0.666667 | model | [3] Liang 2006 | Table 2, p. 3, row 17; `ORC-LDQNY4MX2K` |  |
 | 1552 | L \<=> CuHf2 + (αHf) | L: Hf 0.74; CuHf2: Hf 0.6667; (αHf): Hf 0.998 | model | [2] Turchanin 2008 | Table 1, p. 4, row 9; `ORC-ZVIKGM7H4T` |  |
-| 1385 | L -> Cu51Hf14 | L: Hf 0.2154; Cu51Hf14: Hf 0.2154 | model | [2] Turchanin 2008 | Table 1, p. 3, row 9; `ORC-XOHVWYJM4V` |  |
-| 1383 | L -> Cu51Hf14 | L: Hf 0.25; Cu51Hf14: Hf 0.25 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 3, row 8; `ORC-7PFNC5LICO` |  |
+| 1385 | congruent melting: L -> Cu51Hf14 | L: Hf 0.2154; Cu51Hf14: Hf 0.2154 | model | [2] Turchanin 2008 | Table 1, p. 3, row 9; `ORC-XOHVWYJM4V` |  |
+| 1383 | congruent melting: L -> Cu51Hf14 | L: Hf 0.25; Cu51Hf14: Hf 0.25 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 3, row 8; `ORC-7PFNC5LICO` |  |
 | 1333 | Cu5Hf = liquid + Cu51Hf14 | Cu5Hf: Hf 0.167; liquid: Hf 0.133; Cu51Hf14: Hf 0.215 | model | [1] Zhong 2013 | Table 4, p. 9, row 3; `ORC-CYOX6CKSX7` |  |
 | 1328 | Cu5Hf = liquid + Cu51Hf14 | Cu5Hf: Hf 0.166667; liquid: Hf 0.126; Cu51Hf14: Hf 0.215385 | experimental | [1] Zhong 2013; _cites Perry 1974_ [doi](https://doi.org/10.1016/0025-5416%2874%2990021-4) | Table 4, p. 9, row 4; `ORC-242K5MNAXP` |  |
 | 1328 | L + Cu51Hf14 -> Cu5Hf | Cu51Hf14: Cu 0.784615, Hf 0.215385; Cu5Hf: Hf 0.1667 | experimental | [2] Turchanin 2008; _cites ref. 9_ | Table 1, p. 3, row 6; `ORC-BGK662SYQO` |  |
@@ -115,9 +114,9 @@ Table: Invariant reactions reported in the literature for the Cu–Hf system (64
 | 1326.8 | Cu5Hf -> liquid + Cu51Hf14 | Cu5Hf: Hf 0.166667; liquid: Hf 0.138; Cu51Hf14: Hf 0.215385 | model | [3] Liang 2006 | Table 2, p. 3, row 3; `ORC-LJN4WPAEMS` |  |
 | 1313 | L + Cu51Hf14 -> Cu5Hf | L: Hf 0.097; Cu51Hf14: Hf 0.2154; Cu5Hf: Hf 0.1667 | model | [2] Turchanin 2008 | Table 1, p. 3, row 7; `ORC-IALY4PYBLA` |  |
 | 1298 | Cu10Hf7 = Liquid + CuHf2 | Cu10Hf7: Hf 0.411765; Liquid: Hf 0.4; CuHf2: Hf 0.666667 | experimental | [1] Zhong 2013; _cites Woodman 2006_ [doi](https://doi.org/10.1007/bf02736446) | Table 4, p. 9, row 12; `ORC-LQUULBZFZ4` |  |
-| 1288 | L \<=> Cu10Hf7 | L: Hf 0.4; Cu10Hf7: Hf 0.4 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 4, row 1; `ORC-JHXUZQRXT4` |  |
+| 1288 | congruent melting: L \<=> Cu10Hf7 | L: Hf 0.4; Cu10Hf7: Hf 0.4 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 4, row 1; `ORC-JHXUZQRXT4` |  |
 | 1279 | Cu10Hf7 = Liquid + CuHf2 | Cu10Hf7: Hf 0.412; Liquid: Hf 0.405; CuHf2: Hf 0.667 | model | [1] Zhong 2013 | Table 4, p. 9, row 11; `ORC-U65MFYMEA2` |  |
-| 1278 | L -> (Cu) + Cu5Hf | L: Hf 0.068; (Cu): Hf 0.003; Cu5Hf: Hf 0.1667 | model | [2] Turchanin 2008 | Table 1, p. 3, row 5; `ORC-NQDLWLY3UJ` |  |
+| 1278 | eutectic: L -> (Cu) + Cu5Hf | L: Hf 0.068; (Cu): Hf 0.003; Cu5Hf: Hf 0.1667 | model | [2] Turchanin 2008 | Table 1, p. 3, row 5; `ORC-NQDLWLY3UJ` |  |
 | 1275 | peritectic: liquid + CuHf2 = Cu10 Hf7 |  | experimental | [1] Zhong 2013 | p. 4; `ORC-M2JPEVEPRB` | “Nevertheless, the invariant temperature for the peritectic reaction liquid + CuHf2 = Cu10 Hf7 was determined to be 1275 K.” |
 | 1275 | Cu10Hf7 -> Liquid + CuHf2 | Cu10Hf7: Hf 0.411765; CuHf2: Hf 0.666667 | experimental | [1] Zhong 2013 | Table 4, p. 9, row 24; `ORC-YNWXNBHLYP` |  |
 | 1274 | Cu8Hf3 = Cu51Hf14 + liquid | Cu8Hf3: Hf 0.273; Cu51Hf14: Hf 0.215; liquid: Hf 0.348 | model | [1] Zhong 2013 | Table 4, p. 9, row 7; `ORC-3PDML3E4EV` |  |
@@ -129,29 +128,28 @@ Table: Invariant reactions reported in the literature for the Cu–Hf system (64
 | 1263 | L + Cu51Hf14 -> Cu8Hf3 | L: Hf 0.33; Cu51Hf14: Hf 0.2154; Cu8Hf3: Hf 0.2727 | model | [2] Turchanin 2008; _cites ref. 13_ | Table 1, p. 3, row 11; `ORC-CC5GF2IP3F` |  |
 | 1263 | Cu8Hf3 -> Cu51Hf14 + liquid | Cu8Hf3: Hf 0.272727; Cu51Hf14: Hf 0.215385; liquid: Hf 0.34 | experimental | [3] Liang 2006; _cites Subramanian 1988_ [doi](https://doi.org/10.1007/bf02877460) | Table 2, p. 3, row 8; `ORC-OU5XXROYDO` |  |
 | 1261 | Liquid = Cu51Hf14 + Cu10Hf7 | Liquid: Hf 0.355; Cu51Hf14: Hf 0.215; Cu10Hf7: Hf 0.412 | model | [1] Zhong 2013 | Table 4, p. 9, row 19; `ORC-FXKFFM6CWY` |  |
-| 1261 | L -> (Cu) + Cu5Hf | L: Hf 0.0775; Cu5Hf: Hf 0.1667 | experimental | [2] Turchanin 2008; _cites ref. 9_ | Table 1, p. 3, row 3; `ORC-JVIC7UWMSZ` |  |
-| 1261 | Liquid -> fcc + Cu5Hf | L: Hf 0.078; Cu5Hf: Hf 0.166667 | experimental | [1] Zhong 2013; _cites Perry 1974_ [doi](https://doi.org/10.1016/0025-5416%2874%2990021-4) | Table 4, p. 9, row 21; `ORC-W5EKEQ5FVK` |  |
-| 1256 | L \<=> Cu10Hf7 | L: Hf 0.4118; Cu10Hf7: Hf 0.4118 | model | [2] Turchanin 2008 | Table 1, p. 4, row 2; `ORC-227FJ7IAPN` |  |
+| 1261 | eutectic: L -> (Cu) + Cu5Hf | L: Hf 0.0775; Cu5Hf: Hf 0.1667 | experimental | [2] Turchanin 2008; _cites ref. 9_ | Table 1, p. 3, row 3; `ORC-JVIC7UWMSZ` |  |
+| 1261 | eutectic: Liquid -> fcc + Cu5Hf | L: Hf 0.078; Cu5Hf: Hf 0.166667 | experimental | [1] Zhong 2013; _cites Perry 1974_ [doi](https://doi.org/10.1016/0025-5416%2874%2990021-4) | Table 4, p. 9, row 21; `ORC-W5EKEQ5FVK` |  |
+| 1256 | congruent melting: L \<=> Cu10Hf7 | L: Hf 0.4118; Cu10Hf7: Hf 0.4118 | model | [2] Turchanin 2008 | Table 1, p. 4, row 2; `ORC-227FJ7IAPN` |  |
 | 1256 | Liquid = fcc + Cu5Hf | Liquid: Hf 0.071; fcc: Hf 0.004; Cu5Hf: Hf 0.167 | model | [1] Zhong 2013 | Table 4, p. 9, row 1; `ORC-H27UO5FMLO` |  |
 | 1255 | L \<=> Cu10Hf7 + CuHf2 | L: Hf 0.421; Cu10Hf7: Hf 0.4118; CuHf2: Hf 0.6667 | model | [2] Turchanin 2008 | Table 1, p. 4, row 4; `ORC-EOCKAFJTOQ` |  |
-| 1254 | L -> Cu8Hf3 + Cu10Hf7 | L: Hf 0.392; Cu8Hf3: Hf 0.2727; Cu10Hf7: Hf 0.4118 | model | [2] Turchanin 2008 | Table 1, p. 3, row 14; `ORC-F6VZ65TEXX` |  |
+| 1254 | eutectic: L -> Cu8Hf3 + Cu10Hf7 | L: Hf 0.392; Cu8Hf3: Hf 0.2727; Cu10Hf7: Hf 0.4118 | model | [2] Turchanin 2008 | Table 1, p. 3, row 14; `ORC-F6VZ65TEXX` |  |
 | 1253.15 | eutectic |  | experimental | [3] Liang 2006; _cites Perry 1974_ [doi](https://doi.org/10.1016/0025-5416%2874%2990021-4) | p. 2; `ORC-RMWY5A6JMO` | “Perry et al. \[18\] established the Cu-rich end of the Cu-Hf system by DTA, metallography and electron microprobe analysis. A terminal eutectic between fcc solid solution and Cu5 Hf at 7.75 at.% Hf and 980 ◦ C was observed, which is in disagreement with the data of Markiv et al. \[15\].” |
 | 1253 | L \<=> Cu10Hf7 + CuHf2 | L: Hf 0.436; Cu10Hf7: Hf 0.4; CuHf2: Hf 0.6667 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 4, row 3; `ORC-3GYMD4KJTQ` |  |
-| 1253 | Liquid -> Cu10Hf7 + CuHf2 | Liquid: Hf 0.436; Cu10Hf7: Hf 0.411765; CuHf2: Hf 0.666667 | experimental | [3] Liang 2006; _cites Subramanian 1988_ [doi](https://doi.org/10.1007/bf02877460) | Table 2, p. 3, row 14; `ORC-3ORZP4VGO7` |  |
-| 1253 | Liquid -> Cu10Hf7 + CuHf2 | Liquid: Hf 0.436; Cu10Hf7: Hf 0.411765; CuHf2: Hf 0.666667 | model | [3] Liang 2006 | Table 2, p. 3, row 13; `ORC-UX3TUZEEWW` |  |
-| 1250 | Liquid -> fcc + Cu5Hf | fcc: Hf 0.003; Cu5Hf: Hf 0.166667 | experimental | [1] Zhong 2013; _cites Watanabe 1967_ | Table 4, p. 9, row 20; `ORC-DA4PGALPBA` |  |
-| 1243 | L -> Cu8Hf3 + Cu10Hf7 | L: Hf 0.366; Cu8Hf3: Hf 0.2857; Cu10Hf7: Hf 0.4 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 3, row 13; `ORC-G6REIZZ2BE` |  |
-| 1243 | Liquid -> fcc + Cu5Hf | fcc: Hf 0.003; Cu5Hf: Hf 0.166667 | experimental | [1] Zhong 2013; _cites Saarivirta 1963_ | Table 4, p. 9, row 23; `ORC-JRDVKLRKPF` |  |
+| 1253 | eutectic: Liquid -> Cu10Hf7 + CuHf2 | Liquid: Hf 0.436; Cu10Hf7: Hf 0.411765; CuHf2: Hf 0.666667 | experimental | [3] Liang 2006; _cites Subramanian 1988_ [doi](https://doi.org/10.1007/bf02877460) | Table 2, p. 3, row 14; `ORC-3ORZP4VGO7` |  |
+| 1253 | eutectic: Liquid -> Cu10Hf7 + CuHf2 | Liquid: Hf 0.436; Cu10Hf7: Hf 0.411765; CuHf2: Hf 0.666667 | model | [3] Liang 2006 | Table 2, p. 3, row 13; `ORC-UX3TUZEEWW` |  |
+| 1250 | eutectic: Liquid -> fcc + Cu5Hf | fcc: Hf 0.003; Cu5Hf: Hf 0.166667 | experimental | [1] Zhong 2013; _cites Watanabe 1967_ | Table 4, p. 9, row 20; `ORC-DA4PGALPBA` |  |
+| 1243 | eutectic: L -> Cu8Hf3 + Cu10Hf7 | L: Hf 0.366; Cu8Hf3: Hf 0.2857; Cu10Hf7: Hf 0.4 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 3, row 13; `ORC-G6REIZZ2BE` |  |
+| 1243 | eutectic: Liquid -> fcc + Cu5Hf | fcc: Hf 0.003; Cu5Hf: Hf 0.166667 | experimental | [1] Zhong 2013; _cites Saarivirta 1963_ | Table 4, p. 9, row 23; `ORC-JRDVKLRKPF` |  |
 | 1243 | Liquid = Cu8Hf3 + Cu10Hf7 | Liquid: Hf 0.386; Cu8Hf3: Hf 0.272727; Cu10Hf7: Hf 0.411765 | experimental | [1] Zhong 2013; _cites Markiv 1974_ | Table 4, p. 9, row 10; `ORC-T426QSDSEY` |  |
-| 1243 | L -> (Cu) + Cu5Hf | (Cu): Hf 0.0034; Cu5Hf: Cu 0.833333, Hf 0.166667 | experimental | [2] Turchanin 2008; _cites ref. 8_ | Table 1, p. 3, row 2; `ORC-UBDOONWDUO` |  |
-| 1243 | Liquid -> Cu8Hf3 + Cu10Hf7 | Liquid: Hf 0.386; Cu8Hf3: Hf 0.272727; Cu10Hf7: Hf 0.411765 | experimental | [3] Liang 2006; _cites Subramanian 1988_ [doi](https://doi.org/10.1007/bf02877460) | Table 2, p. 3, row 10; `ORC-WF7Q3SE2BS` |  |
-| 1238.15 | eutectic |  | experimental | [3] Liang 2006; _cites Saarivirta 1963_ | p. 2; `ORC-BIVW363K3O` | “Saarivirta et al. \[19\] measured the solid solubility of Hf in Cu by metallography and observed a maximum solid solubility of 0.31 at.% Hf at the eutectic temperature of 965 ◦ C.” |
-| 1238 | L -> (Cu) + Cu5Hf | (Cu): Hf 0.0031; Cu5Hf: Cu 0.833333, Hf 0.166667 | experimental | [2] Turchanin 2008; _cites ref. 7_ | Table 1, p. 3, row 1; `ORC-QDFYKKZJ6S` |  |
-| 1235.9 | Liquid -> fcc + Cu5Hf | Liquid: Hf 0.075; fcc: Hf 0.003; Cu5Hf: Hf 0.166667 | model | [3] Liang 2006 | Table 2, p. 3, row 1; `ORC-6TCDSTYUS2` |  |
-| 1233.9 | Liquid -> Cu8Hf3 + Cu10Hf7 | Liquid: Hf 0.357; Cu8Hf3: Hf 0.272727; Cu10Hf7: Hf 0.411765 | model | [3] Liang 2006 | Table 2, p. 3, row 9; `ORC-KRLAN4J7IR` |  |
-| 1223 | Liquid -> fcc + Cu5Hf | Liquid: Hf 0.078; fcc: Hf 0; Cu5Hf: Hf 0.166667 | experimental | [3] Liang 2006; _cites Markiv 1974_ | Table 2, p. 3, row 2; `ORC-RFDSLQN5UX` |  |
-| 1223 | Liquid -> fcc + Cu5Hf | L: Hf 0.078; Cu5Hf: Hf 0.166667 | experimental | [1] Zhong 2013; _cites Markiv 1974_ | Table 4, p. 9, row 22; `ORC-SDDGUTQRBO` |  |
-| 1223 | L -> (Cu) + Cu5Hf | L: Hf 0.06; Cu5Hf: Cu 0.833333, Hf 0.166667 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 3, row 4; `ORC-WZJBQK2WSR` |  |
+| 1243 | eutectic: L -> (Cu) + Cu5Hf | (Cu): Hf 0.0034; Cu5Hf: Cu 0.833333, Hf 0.166667 | experimental | [2] Turchanin 2008; _cites ref. 8_ | Table 1, p. 3, row 2; `ORC-UBDOONWDUO` |  |
+| 1243 | eutectic: Liquid -> Cu8Hf3 + Cu10Hf7 | Liquid: Hf 0.386; Cu8Hf3: Hf 0.272727; Cu10Hf7: Hf 0.411765 | experimental | [3] Liang 2006; _cites Subramanian 1988_ [doi](https://doi.org/10.1007/bf02877460) | Table 2, p. 3, row 10; `ORC-WF7Q3SE2BS` |  |
+| 1238 | eutectic: L -> (Cu) + Cu5Hf | (Cu): Hf 0.0031; Cu5Hf: Cu 0.833333, Hf 0.166667 | experimental | [2] Turchanin 2008; _cites ref. 7_ | Table 1, p. 3, row 1; `ORC-QDFYKKZJ6S` |  |
+| 1235.9 | eutectic: Liquid -> fcc + Cu5Hf | Liquid: Hf 0.075; fcc: Hf 0.003; Cu5Hf: Hf 0.166667 | model | [3] Liang 2006 | Table 2, p. 3, row 1; `ORC-6TCDSTYUS2` |  |
+| 1233.9 | eutectic: Liquid -> Cu8Hf3 + Cu10Hf7 | Liquid: Hf 0.357; Cu8Hf3: Hf 0.272727; Cu10Hf7: Hf 0.411765 | model | [3] Liang 2006 | Table 2, p. 3, row 9; `ORC-KRLAN4J7IR` |  |
+| 1223 | eutectic: Liquid -> fcc + Cu5Hf | Liquid: Hf 0.078; fcc: Hf 0; Cu5Hf: Hf 0.166667 | experimental | [3] Liang 2006; _cites Markiv 1974_ | Table 2, p. 3, row 2; `ORC-RFDSLQN5UX` |  |
+| 1223 | eutectic: Liquid -> fcc + Cu5Hf | L: Hf 0.078; Cu5Hf: Hf 0.166667 | experimental | [1] Zhong 2013; _cites Markiv 1974_ | Table 4, p. 9, row 22; `ORC-SDDGUTQRBO` |  |
+| 1223 | eutectic: L -> (Cu) + Cu5Hf | L: Hf 0.06; Cu5Hf: Cu 0.833333, Hf 0.166667 | experimental | [2] Turchanin 2008; _cites ref. 10_ | Table 1, p. 3, row 4; `ORC-WZJBQK2WSR` |  |
 
 ## Formation enthalpies
 
@@ -213,17 +211,14 @@ Table: Enthalpies of formation, Cu–Hf system (49)
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (11)
 
 Table: Phase transition, Cu–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1256 K | 1256 |  | model | [2] Turchanin 2008 | p. 8; `ORC-EZGYS2PYVO` | “The phase diagram that we plotted is peculiar in that Cu10Hf7 melting is practically degenerate. The calculated melting temperature for this compound is 1256 K, which is only several Kelvin degrees higher than that of the adjacent eutectics.” |
 | Phase transition | 1257.8 K | 1257.8 | Cu10Hf7 -> liquid; _Cu10Hf7: Hf 0.411765; liquid: Hf 0.411765_ | model | [3] Liang 2006 | Table 2, p. 3, row 11; `ORC-I5ZOH3S4JT` |  |
-| Phase transition | 1278 K | 1278 | L ⇔ (Cu) + Cu5Hf | model | [2] Turchanin 2008 | p. 8; `ORC-SZTR7KNGJH` | “The calculated temperature of nonvariant equilibrium L ⇔ (Cu) + Cu5Hf is 1278 K.” |
 | Phase transition | 1298 K | 1298 | Cu10Hf7 -> liquid; _Cu10Hf7: Hf 0.411765; liquid: Hf 0.411765_ | experimental | [3] Liang 2006; _cites Subramanian 1988_ [doi](https://doi.org/10.1007/bf02877460) | Table 2, p. 3, row 12; `ORC-JHHS2RIT2O` |  |
-| Phase transition | 1330 K | 1330 |  | experimental | [1] Zhong 2013 | p. 3; `ORC-DMKQYJWII6` | “The DTA trace for the Cu-33.26 Hf alloy plotted in Fig. 2c shows similar first and second peaks as the Cu-30 Hf alloy with a less significant second peak and with a third peak ending at 1330 ± 3 K.” |
 | Phase transition | 1383 K | 1383 | Cu51Hf14 = liquid; _Cu51Hf14: Hf 0.215385; liquid: Hf 0.215385_ | experimental | [1] Zhong 2013; _cites Markiv 1974_ | Table 4, p. 9, row 6; `ORC-XXZN75GZHA` |  |
 | Phase transition | 1385 K | 1385 | Cu51Hf14 = liquid; _Cu51Hf14: Hf 0.215; liquid: Hf 0.215_ | model | [1] Zhong 2013 | Table 4, p. 9, row 5; `ORC-AKB6E6F63N` |  |
 | Phase transition | 1388 K | 1388 | Cu51Hf14 -> liquid; _Cu51Hf14: Hf 0.215385; liquid: Hf 0.215385_ | experimental | [3] Liang 2006; _cites Subramanian 1988_ [doi](https://doi.org/10.1007/bf02877460) | Table 2, p. 3, row 6; `ORC-SFPVPZQ4RI` |  |
@@ -232,7 +227,6 @@ Table: Phase transition, Cu–Hf system
 | Phase transition | 1583 K | 1583 | CuHf2 = liquid; _CuHf2: Hf 0.666667; liquid: Hf 0.666667_ | experimental | [1] Zhong 2013; _cites Markiv 1974_ | Table 4, p. 9, row 14; `ORC-Q4EXSVQI2V` |  |
 | Phase transition | 1583.7 K | 1583.7 | CuHf2 -> liquid; _CuHf2: Hf 0.666667; liquid: Hf 0.666667_ | model | [3] Liang 2006 | Table 2, p. 3, row 15; `ORC-EA6AFJSOQE` |  |
 | Phase transition | 1589 K | 1589 | CuHf2 = liquid; _CuHf2: Hf 0.667; liquid: Hf 0.667_ | model | [1] Zhong 2013 | Table 4, p. 9, row 13; `ORC-77HKTZL35Q` |  |
-| Phase transition | 1813 K | 1813 | other | experimental | [2] Turchanin 2008; _cites ref. 11_ | p. 1; `ORC-E6FNNHW3HM` | “Metatectic transformation occurs between (βHf) and (αHf) at 1813 K.” |
 | Phase transition | 1813.15 K | 1813.15 | other: bcc -> hcp + liquid | experimental | [3] Liang 2006; _cites Pieraggi 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990184-6) | p. 2; `ORC-4BUTTSOGNH` | “Also, the metatectic decomposition temperature of bcc into hcp and liquid was determined to be 1540 ◦ C.” |
 
 ### Formation (5)

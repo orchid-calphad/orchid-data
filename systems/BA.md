@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/BA.html · Markdown: https://data.orchid-project.org/systems/BA.md
 
-22 accepted literature values from 6 paper(s) (experimental 8, model 3, DFT 9, unspecified 2); 0 calculated phase diagram(s).
+22 accepted literature values from 6 paper(s) (experimental 7, DFT 13, unspecified 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA.json) · [CSV](https://data.orchid-project.org/systems/BA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA.html) · [Markdown](https://data.orchid-project.org/systems/BA.md)
 
@@ -12,9 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 3 |
-| DFT | 9 |
+| experimental | 7 |
+| DFT | 13 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -50,17 +49,17 @@ Table: Crystal structure, Ba system
 | Lattice a | 5.013 Å | 298.15 | (Ba); _(Ba): Ba 1_ | experimental | [2] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 1, p. 2, row 11; `ORC-PYJOZCXBIV.dea7be` |  |
 | Lattice a | 0.5023 not_printed | 298.15 | (βCa, Ba); _(βCa, Ba): Ba 1_ | unspecified | [4] Alcock 1986; _cites ref. 1_ | Table 1, p. 2, row 4; `ORC-XA64SQ3LNS` |  |
 | Lattice a | 4.35 Å | 298.15 | Bcc-Ba | experimental | [5] Liu 2019; _cites Evers 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990586-x) | Table 1, p. 4, row 1; `ORC-2FWUWERKCR.848d52` |  |
-| Lattice a | 4.36 Å | 298.15 | Bcc-Ba | model | [5] Liu 2019 | Table 1, p. 4, row 2; `ORC-ZD7LB4IZLP.57c668` |  |
+| Lattice a | 4.36 Å | 298.15 | Bcc-Ba | DFT | [5] Liu 2019 | Table 1, p. 4, row 2; `ORC-ZD7LB4IZLP.57c668` |  |
 | Lattice a | 5.021 Å | 298.15 | UNKNOWN; _alloy: Ba 1_ | experimental | [3] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 12; `ORC-RYTLPCURVF` |  |
 | Lattice a | 5.023 Å | 298.15 | bcc (Ba); _bcc (Ba): _ | unspecified | [6] Smith 1988; _cites ref. 1_ | Table I, p. 2, row 5; `ORC-XFX2YY7U4O` |  |
 | Lattice b | 4.991 Å | 0 | (Ba); _(Ba): Ba 1_ | DFT | [2] Benhafid 2019 | Table 1, p. 2, row 12; `ORC-PXR653NUKJ.7b5439` |  |
 | Lattice b | 5.013 Å | 298.15 | (Ba); _(Ba): Ba 1_ | experimental | [2] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 1, p. 2, row 11; `ORC-PYJOZCXBIV.df6926` |  |
 | Lattice b | 4.35 Å | 298.15 | Bcc-Ba | experimental | [5] Liu 2019; _cites Evers 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990586-x) | Table 1, p. 4, row 1; `ORC-2FWUWERKCR.60dc9f` |  |
-| Lattice b | 4.36 Å | 298.15 | Bcc-Ba | model | [5] Liu 2019 | Table 1, p. 4, row 2; `ORC-ZD7LB4IZLP.ea07ce` |  |
+| Lattice b | 4.36 Å | 298.15 | Bcc-Ba | DFT | [5] Liu 2019 | Table 1, p. 4, row 2; `ORC-ZD7LB4IZLP.ea07ce` |  |
 | Lattice c | 4.35 Å | 298.15 | Bcc-Ba | experimental | [5] Liu 2019; _cites Evers 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990586-x) | Table 1, p. 4, row 1; `ORC-2FWUWERKCR.9674a5` |  |
-| Lattice c | 4.36 Å | 298.15 | Bcc-Ba | model | [5] Liu 2019 | Table 1, p. 4, row 2; `ORC-ZD7LB4IZLP.c21c10` |  |
+| Lattice c | 4.36 Å | 298.15 | Bcc-Ba | DFT | [5] Liu 2019 | Table 1, p. 4, row 2; `ORC-ZD7LB4IZLP.c21c10` |  |
 | Molar volume; _printed: V0_ | 62.875 Å3/atom |  | Ba | experimental | [5] Liu 2019; _cites Evers 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990586-x) | Table 2, p. 4, row 2; `ORC-F2TI5GPVK3.008acf` |  |
-| Molar volume; _printed: V0_ | 62.522 Å3/atom |  | Ba | experimental | [5] Liu 2019 | Table 2, p. 4, row 1; `ORC-RJNENUUHTK.7e994d` |  |
+| Molar volume; _printed: V0_ | 62.522 Å3/atom | 0 | Ba | DFT | [5] Liu 2019 | Table 2, p. 4, row 1; `ORC-RJNENUUHTK.7e994d` |  |
 
 ## Sources
 

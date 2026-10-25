@@ -1,10 +1,10 @@
 # Fe–Mg system
 
-> Fe–Mg system: 6 accepted literature values (invariant reaction 4, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Mg system: 4 accepted literature values (invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-MG.html · Markdown: https://data.orchid-project.org/systems/FE-MG.md
 
-6 accepted literature values from 2 paper(s) (experimental 2, model 4); 1 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (model 4); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MG.json) · [CSV](https://data.orchid-project.org/systems/FE-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-MG/FeMg-98Tib-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/FE-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-MG.html) · [Markdown](https://data.orchid-project.org/systems/FE-MG.md)
 
@@ -12,7 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
 | model | 4 |
 
 Table: Accepted values by property group
@@ -20,7 +19,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 4 |
-| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -50,28 +48,16 @@ Table: Invariant reactions reported in the literature for the Fe–Mg system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1791.4 | monotectic: Liquid' -> bcc-A2 + Liquid" | Liquid': Mg 0.018; bcc-A2: Mg 0.008; Liquid": Mg 0.987 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 1; `ORC-52P5DK6O3T` |  |
-| 1661.6 | other: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.992; bcc-A2: Mg 0.005; fcc-A1: Mg 0.005 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 2; `ORC-EGOFOXIDUR` |  |
-| 1183.4 | other: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.999; bcc-A2: Mg 0.001; fcc-A1: Mg 0.001 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 3; `ORC-754AJQSESZ` |  |
-| 922.9 | other: Liquid" +bcc-A2 -> hcp-A3 | Liquid": Mg 1; bcc-A2: Mg 0; hcp-A3: Mg 1 | model | [1] Hämäläinen 1998 | Table I, p. 212, row 4; `ORC-PRMKGLNXKL` |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Fe–Mg system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 650 K | 650 | magnetic | experimental | [2] Dilner 2016; _cites Reznitskii 1969_ | p. 3; `ORC-4EGPRG2J2H` | “The magnetic transition of MgFe2O4 is observed at around 650 K according to Reznitskii et al.\[34\]” |
-| Phase transition | 690 K | 690 | magnetic | experimental | [2] Dilner 2016 | p. 3; `ORC-CCYHYUD746` | “The magnetic transition temperature was fixed to the experimental value 690 K, and the Bohr magneton number was used as an optimizing parameter to fit the shape of the lambda transition.” |
+| 1791.4 | monotectic: Liquid' -> bcc-A2 + Liquid" | Liquid': Mg 0.018; bcc-A2: Mg 0.008; Liquid": Mg 0.987 | model | [1] (ed.) 1998 | Table I, p. 212, row 1; `ORC-52P5DK6O3T` |  |
+| 1661.6 | other: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.992; bcc-A2: Mg 0.005; fcc-A1: Mg 0.005 | model | [1] (ed.) 1998 | Table I, p. 212, row 2; `ORC-EGOFOXIDUR` |  |
+| 1183.4 | other: Liquid" + bcc-A2 -> fcc-A1 | Liquid": Mg 0.999; bcc-A2: Mg 0.001; fcc-A1: Mg 0.001 | model | [1] (ed.) 1998 | Table I, p. 212, row 3; `ORC-754AJQSESZ` |  |
+| 922.9 | other: Liquid" +bcc-A2 -> hcp-A3 | Liquid": Mg 1; bcc-A2: Mg 0; hcp-A3: Mg 1 | model | [1] (ed.) 1998 | Table I, p. 212, row 4; `ORC-PRMKGLNXKL` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-2. David Dilner, Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Ca-S, Fe-Mg-O and Fe-Mg-S Systems, J. Phase Equilib. Diffus. 37, 277-292 (2016). [doi:10.1007/s11669-016-0454-2](https://doi.org/10.1007/s11669-016-0454-2)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 
 ## Please cite
 

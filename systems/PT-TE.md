@@ -60,18 +60,18 @@ Table: Invariant reactions reported in the literature for the Pt–Te system (12
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1423 | liquid -> PtTe2 | liquid: Te 0.6667; PtTe2: Pt 0.333333, Te 0.666667 | model | [1] Guo 2015 | Table III, p. 6, row 7; `ORC-3Q6JS64W5E` |  |
-| 1423 | liquid -> PtTe2 | liquid: Te 0.667; PtTe2: Pt 0.333333, Te 0.666667 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 8; `ORC-UOVUUI7B2U` |  |
+| 1423 | congruent melting: liquid -> PtTe2 | liquid: Te 0.6667; PtTe2: Pt 0.333333, Te 0.666667 | model | [1] Guo 2015 | Table III, p. 6, row 7; `ORC-3Q6JS64W5E` |  |
+| 1423 | congruent melting: liquid -> PtTe2 | liquid: Te 0.667; PtTe2: Pt 0.333333, Te 0.666667 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 8; `ORC-UOVUUI7B2U` |  |
 | 1290 | liquid + PtTe2 -> Pt3Te4 | liquid: Te 0.5208; PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429 | model | [1] Guo 2015 | Table III, p. 6, row 5; `ORC-XHSDHATOE2` |  |
 | 1273 | liquid + PtTe2 -> Pt3Te4 | liquid: Te 0.164; PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 6; `ORC-I5EY4YOWES` |  |
 | 1208 | liquid + Pt3Te4 -> PtTe | liquid: Te 0.4342; Pt3Te4: Pt 0.428571, Te 0.571429; PtTe: Pt 0.5, Te 0.5 | model | [1] Guo 2015 | Table III, p. 6, row 3; `ORC-UJJCJ2AK4M` |  |
 | 1208 | liquid + Pt3Te4 -> PtTe | Pt3Te4: Pt 0.428571, Te 0.571429; PtTe: Pt 0.5, Te 0.5 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 4; `ORC-WICAADE4PO` |  |
-| 1146 | liquid -> fcc(Pt) + PtTe | liquid: Te 0.363; PtTe: Pt 0.5, Te 0.5 | model | [1] Guo 2015 | Table III, p. 6, row 1; `ORC-5DOMZATYP7` |  |
-| 1143 | liquid -> fcc(Pt) + PtTe | liquid: Te 0.4; PtTe: Pt 0.5, Te 0.5 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 2; `ORC-AFL2HVIQSX` |  |
+| 1146 | eutectic: liquid -> fcc(Pt) + PtTe | liquid: Te 0.363; PtTe: Pt 0.5, Te 0.5 | model | [1] Guo 2015 | Table III, p. 6, row 1; `ORC-5DOMZATYP7` |  |
+| 1143 | eutectic: liquid -> fcc(Pt) + PtTe | liquid: Te 0.4; PtTe: Pt 0.5, Te 0.5 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 2; `ORC-AFL2HVIQSX` |  |
 | 954 | PtTe2 + Pt3Te4 -> Pt2Te3 | PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429; Pt2Te3: Pt 0.4, Te 0.6 | model | [1] Guo 2015 | Table III, p. 6, row 9; `ORC-XWDN7LK6SE` |  |
 | 923 | PtTe2 + Pt3Te4 -> Pt2Te3 | PtTe2: Pt 0.333333, Te 0.666667; Pt3Te4: Pt 0.428571, Te 0.571429; Pt2Te3: Pt 0.4, Te 0.6 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 10; `ORC-F77WYCHRYQ` |  |
-| 722 | liquid -> PtTe2 + hex(Te) | liquid: Te 1; PtTe2: Pt 0.333333, Te 0.666667 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 12; `ORC-TB2KDDZEOU` |  |
-| 720 | liquid -> PtTe2 + hex(Te) | liquid: Te 0.9957; PtTe2: Pt 0.333333, Te 0.666667 | model | [1] Guo 2015 | Table III, p. 6, row 11; `ORC-N556VEO4BU` |  |
+| 722 | eutectic: liquid -> PtTe2 + hex(Te) | liquid: Te 1; PtTe2: Pt 0.333333, Te 0.666667 | experimental | [1] Guo 2015; _cites Kim 1996_ [doi](https://doi.org/10.1007/bf03025941) | Table III, p. 6, row 12; `ORC-TB2KDDZEOU` |  |
+| 720 | eutectic: liquid -> PtTe2 + hex(Te) | liquid: Te 0.9957; PtTe2: Pt 0.333333, Te 0.666667 | model | [1] Guo 2015 | Table III, p. 6, row 11; `ORC-N556VEO4BU` |  |
 
 ## Other properties
 

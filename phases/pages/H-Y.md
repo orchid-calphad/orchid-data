@@ -13,10 +13,10 @@ Table: Phases of the H–Y system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-h-y-bcc-a2); _phase:h-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 397.65–1795.28 K, x(H) 0–6e-05 | 0 | 2 |
-| [FCC_A1](#phase-h-y-fcc-a1); _phase:h-y:fcc-a1_ | CaF2 · C1 · cF12 · Fm-3m (225) | assigned | stable in 2 of 2 calculated diagram(s): 300–1721.6 K, x(H) 0.47001–0.67677 | 21 | 2 |
+| [FCC_A1](#phase-h-y-fcc-a1); _phase:h-y:fcc-a1_ | CaF2 · C1 · cF12 · Fm-3m (225) | assigned | stable in 2 of 2 calculated diagram(s): 300–1721.6 K, x(H) 0.47001–0.67677 | 10 | 2 |
 | [GAS](#phase-h-y-gas); _phase:h-y:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 300.62–2500 K, x(H) 0.99795–1 | 8 | 2 |
 | [H2GAS](#phase-h-y-h2gas); _phase:h-y:h2gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 300–1092.08 K, x(H) 1–1 | 2 | 2 |
-| [HCP_A3](#phase-h-y-hcp-a3); _phase:h-y:hcp-a3_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2303.37 K, x(H) 0–0.74997 | 20 | 2 |
+| [HCP_A3](#phase-h-y-hcp-a3); _phase:h-y:hcp-a3_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2303.37 K, x(H) 0–0.74997 | 12 | 2 |
 | [LIQUID](#phase-h-y-liquid); _phase:h-y:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 397.65–2500 K, x(H) 0–0 | 0 | 2 |
 
 ## BCC_A2 (H–Y)
@@ -59,11 +59,11 @@ _assessment that models this phase_
 - Id: `phase:h-y:fcc-a1`; status `assigned`
 - Structure: CaF2 · C1 · cF12 · Fm-3m (225); type `st:c1-caf2-cf12`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1721.6 K, x(H) 0.47001–0.67677
-- Literature: 21 values (21 accepted) from 2 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:h-y:fcc-a1)
 
-Names (6): _corpus: _corpus:phase:h-y:fcc-a1  
-_paper: _paper:10.1016/j.jnucmat.2020.152035:fcc, paper:10.1016/j.jnucmat.2020.152035:δ-YH2, paper:10.1016/j.pnsc.2018.04.001:β-YH2  
+Names (4): _corpus: _corpus:phase:h-y:fcc-a1  
+_paper: _paper:10.1016/j.jnucmat.2020.152035:fcc  
 _tdb: _tdb:YH-18Fu.tdb:FCC_A1, tdb:YH-20Pen.tdb:FCC_A1  
 
 
@@ -83,16 +83,12 @@ _tdb: _tdb:YH-18Fu.tdb:FCC_A1, tdb:YH-20Pen.tdb:FCC_A1
 34: CONST FCC_A1 : Y : H VA% : H% VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2020.152035](https://doi.org/10.1016/j.jnucmat.2020.152035) Jiaqing Peng, Ming Wu, Fu Du, Fengli Yang, Jianyun Shen, Lijun Wang et al., Thermodynamic modelling of Y–H and Y–Zr–H system aided by first-principles and its application in bulk hydride moderator fabrication, Journal of Nuclear Materials 531, 152035 (2020).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.pnsc.2018.04.001](https://doi.org/10.1016/j.pnsc.2018.04.001) Kai Fu, Xiaojing Jiang, Yanru Guo, Shuan Li, Jie Zheng, Wenhuai Tian et al., Experimental investigation and thermodynamic assessment of the yttrium-hydrogen binary system, Progress in Natural Science: Materials International 28, 332-336 (2018).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1021/j100892a004](https://doi.org/10.1021/j100892a004) L. N. Yannopoulos, R. K. Edwards, P. G. Wahlbeck, The Thermodynamics of the Yttrium-Hydrogen System\<sup>1\</sup>, J. Phys. Chem. 69, 2510-2515 (1965).  
-_cited as the source of values for this phase_
-- [doi:10.1149/1.2425565](https://doi.org/10.1149/1.2425565) C. E. Lundin, J. P. Blackledge, Pressure-Temperature-Composition Relationships of the Yttrium-Hydrogen System, J. Electrochem. Soc. 109, 838 (1962).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## GAS (H–Y)
 
@@ -178,11 +174,11 @@ _assessment that models this phase_
 - Candidate (name_token): Mg · A3 · hP2 · P6_3/mmc (194) — Strukturbericht/word 'A3' in the TDB name
 - Candidate (sgte_mmc2): HoH3 · hP24 · P-3c1 (165) — Hallstedt 2025 mmc2 row for HCP_A3: DyH3, ErH3, GdH3, YH3
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2303.37 K, x(H) 0–0.74997
-- Literature: 20 values (20 accepted) from 2 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:h-y:hcp-a3)
 
-Names (8): _corpus: _corpus:phase:h-y:hcp-a3  
-_paper: _paper:10.1016/j.jnucmat.2020.152035:HCP(Y), paper:10.1016/j.jnucmat.2020.152035:hcp, paper:10.1016/j.jnucmat.2020.152035:ε-YH3, paper:10.1016/j.pnsc.2018.04.001:α-Y, paper:10.1016/j.pnsc.2018.04.001:γ-YH3  
+Names (6): _corpus: _corpus:phase:h-y:hcp-a3  
+_paper: _paper:10.1016/j.jnucmat.2020.152035:HCP(Y), paper:10.1016/j.jnucmat.2020.152035:hcp, paper:10.1016/j.pnsc.2018.04.001:α-Y  
 _tdb: _tdb:YH-18Fu.tdb:HCP_A3, tdb:YH-20Pen.tdb:HCP_A3  
 
 
@@ -202,14 +198,12 @@ _tdb: _tdb:YH-18Fu.tdb:HCP_A3, tdb:YH-20Pen.tdb:HCP_A3
 44: CONST HCP_A3 : Y : H VA% : H VA% : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2020.152035](https://doi.org/10.1016/j.jnucmat.2020.152035) Jiaqing Peng, Ming Wu, Fu Du, Fengli Yang, Jianyun Shen, Lijun Wang et al., Thermodynamic modelling of Y–H and Y–Zr–H system aided by first-principles and its application in bulk hydride moderator fabrication, Journal of Nuclear Materials 531, 152035 (2020).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.pnsc.2018.04.001](https://doi.org/10.1016/j.pnsc.2018.04.001) Kai Fu, Xiaojing Jiang, Yanru Guo, Shuan Li, Jie Zheng, Wenhuai Tian et al., Experimental investigation and thermodynamic assessment of the yttrium-hydrogen binary system, Progress in Natural Science: Materials International 28, 332-336 (2018).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1021/j100892a004](https://doi.org/10.1021/j100892a004) L. N. Yannopoulos, R. K. Edwards, P. G. Wahlbeck, The Thermodynamics of the Yttrium-Hydrogen System\<sup>1\</sup>, J. Phys. Chem. 69, 2510-2515 (1965).  
-_cited as the source of values for this phase_
 - [doi:10.1149/1.2425565](https://doi.org/10.1149/1.2425565) C. E. Lundin, J. P. Blackledge, Pressure-Temperature-Composition Relationships of the Yttrium-Hydrogen System, J. Electrochem. Soc. 109, 838 (1962).  
 _cited as the source of values for this phase_
 

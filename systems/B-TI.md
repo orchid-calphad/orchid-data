@@ -1,10 +1,10 @@
 # B–Ti system
 
-> B–Ti system: 215 accepted literature values (crystal structure 95, invariant reaction 62, formation 31, phase transition 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Ti system: 207 accepted literature values (crystal structure 95, invariant reaction 59, formation 33, phase equilibrium 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-TI.html · Markdown: https://data.orchid-project.org/systems/B-TI.md
 
-215 accepted literature values from 7 paper(s) (experimental 72, model 49, DFT 17, unspecified 77); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+207 accepted literature values from 7 paper(s) (experimental 64, model 53, DFT 19, unspecified 71); 0 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-TI.json) · [CSV](https://data.orchid-project.org/systems/B-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-TI) · [phases (10)](https://data.orchid-project.org/phases/pages/B-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-TI.html) · [Markdown](https://data.orchid-project.org/systems/B-TI.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 72 |
-| model | 49 |
-| DFT | 17 |
-| unspecified | 77 |
+| experimental | 64 |
+| model | 53 |
+| DFT | 19 |
+| unspecified | 71 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 62 |
-| phase transition | 13 |
+| invariant reaction | 59 |
+| phase transition | 6 |
 | phase equilibrium | 10 |
-| formation | 31 |
+| formation | 33 |
 | heat capacity / entropy / enthalpy | 4 |
 | crystal structure | 95 |
 
@@ -32,7 +32,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Ti system (62)
+Table: Invariant reactions reported in the literature for the B–Ti system (59)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -40,7 +40,7 @@ Table: Invariant reactions reported in the literature for the B–Ti system (62)
 | 3498 | congruent melting: L \<-> TiB2 | L: B 0.667; TiB2: B 0.667 | model | [1] Witusiewicz 2008; _cites Murray 1987_ | Table 6, p. 6, row 26; `ORC-PDIKFFQLVZ` |  |
 | 3498 | congruent melting: L \<-> TiB2 | TiB2: B 0.663 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 6, p. 6, row 20; `ORC-PKBZVKPSRU` |  |
 | 3498 | congruent melting: L \<-> TiB2 | L: B 0.666667, Ti 0.333333; TiB2: B 0.666667, Ti 0.333333 | experimental | [1] Witusiewicz 2008; _cites Holleck 1986_ | Table 6, p. 6, row 25; `ORC-W57SBZCRYQ` |  |
-| 3490 | congruent melting: B2Ti -> Liquid | B2Ti: Ti 0.333; Liquid: Ti 0.333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 147, row 6; `ORC-N222FSP67S` |  |
+| 3490 | congruent melting: B2Ti -> Liquid | B2Ti: Ti 0.333; Liquid: Ti 0.333 | model | [2] (ed.) 1998 | Table I, p. 147, row 6; `ORC-N222FSP67S` |  |
 | 3476 | congruent melting: L \<-> TiB2 | L: B 0.667; TiB2: B 0.667 | model | [1] Witusiewicz 2008 | Table 6, p. 6, row 28; `ORC-P5GQANJPCI` |  |
 | 3193 | congruent melting: L \<-> TiB2 | L: B 0.666667, Ti 0.333333; TiB2: B 0.666667, Ti 0.333333 | experimental | [1] Witusiewicz 2008; _cites Schwarzkopf 1953_ | Table 6, p. 6, row 24; `ORC-4JGCTSJDML` |  |
 | 3173 | congruent melting: L \<-> TiB2 | L: B 0.666667, Ti 0.333333; TiB2: B 0.666667, Ti 0.333333 | experimental | [1] Witusiewicz 2008; _cites Kieffer 1952_ [doi](https://doi.org/10.1002/zaac.19522680308) | Table 6, p. 6, row 22; `ORC-25QNNHFKQE` |  |
@@ -49,14 +49,14 @@ Table: Invariant reactions reported in the literature for the B–Ti system (62)
 | 3063 | congruent melting: L \<-> TiB2 | L: B 0.666667, Ti 0.333333; TiB2: B 0.666667, Ti 0.333333 | experimental | [1] Witusiewicz 2008; _cites Glaser 1952_ | Table 6, p. 6, row 23; `ORC-LOP4OR6AYB` |  |
 | 2477 | peritectic: L + TiB2 \<-> Ti3B4 | L: B 0.419; TiB2: B 0.65; Ti3B4: B 0.571 | model | [1] Witusiewicz 2008; _cites Ma 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.09.017) | Table 6, p. 6, row 9; `ORC-GFZ3GSGKOL` |  |
 | 2477 | peritectic: Liquid + TiB2 -> Ti3B4 | L: B 0.419; TiB2: B 0.65; Ti3B4: B 0.571 | model | [3] Ma 2004 | Table 5, p. 7, row 2; `ORC-GGM7LL3VIK` |  |
-| 2474 | peritectic: Liquid + B2Ti -> B4Ti3 | Liquid: Ti 0.578; B2Ti: Ti 0.333; B4Ti3: Ti 0.428 | unspecified | [2] Hämäläinen 1998 | Table I, p. 147, row 2; `ORC-C7BJ7WW5LT` |  |
+| 2474 | peritectic: Liquid + B2Ti -> B4Ti3 | Liquid: Ti 0.578; B2Ti: Ti 0.333; B4Ti3: Ti 0.428 | model | [2] (ed.) 1998 | Table I, p. 147, row 2; `ORC-C7BJ7WW5LT` |  |
 | 2473 | peritectic: L + TiB2 \<-> Ti3B4 | L: B 0.42; TiB2: B 0.655; Ti3B4: B 0.581 | model | [1] Witusiewicz 2008; _cites Murray 1987_ | Table 6, p. 6, row 8; `ORC-YAIOQFBTPK` |  |
 | 2472.15 | peritectic: L + TiB2 -> Ti3B4 | L: B 0.377; TiB2: B 0.667; Ti3B4: B 0.571 | model | [4] Cacciamani 2011 | Table 3, p. 6, row 2; `ORC-DZJTLI77IA` |  |
 | 2472 | peritectic: L + TiB2 -> Ti3B4 | L: Ti 0.623; TiB2: Ti 0.334; Ti3B4: Ti 0.429 | model | [5] Bittermann 1997; _cites Baetzner 1994_ | Table 4, p. 5, row 2; `ORC-U7VLRAAOIH` |  |
 | 2463 | peritectic: L + TiB2 \<-> TiB | TiB2: B 0.666667, Ti 0.333333; TiB: B 0.5, Ti 0.5 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 6, p. 6, row 6; `ORC-OYILOTAXQN` |  |
 | 2457.15 | peritectic: L + Ti3B4 -> TiB | L: B 0.373; Ti3B4: B 0.571; TiB: B 0.5 | model | [4] Cacciamani 2011 | Table 3, p. 6, row 3; `ORC-KPNPJJZQ47` |  |
 | 2457 | peritectic: L + Ti3B4 -> TiB | L: Ti 0.626; Ti3B4: Ti 0.429; TiB: Ti 0.5 | model | [5] Bittermann 1997; _cites Baetzner 1994_ | Table 4, p. 5, row 3; `ORC-DOUSGBD4LM` |  |
-| 2456 | peritectic: Liquid + B4Ti3 -> BTi | Liquid: Ti 0.627; B4Ti3: Ti 0.428; BTi: Ti 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 147, row 3; `ORC-4ZRVW336DQ` |  |
+| 2456 | peritectic: Liquid + B4Ti3 -> BTi | Liquid: Ti 0.627; B4Ti3: Ti 0.428; BTi: Ti 0.5 | model | [2] (ed.) 1998 | Table I, p. 147, row 3; `ORC-4ZRVW336DQ` |  |
 | 2453 | peritectic: L + Ti3B4 \<-> TiB | L: B 0.413; Ti3B4: B 0.571; TiB: B 0.5 | model | [1] Witusiewicz 2008; _cites Ma 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.09.017) | Table 6, p. 6, row 17; `ORC-2D7XI3RRKH` |  |
 | 2453 | peritectic: L + Ti3B4 \<-> TiB | L: B 0.39; Ti3B4: B 0.581; TiB: B 0.5 | model | [1] Witusiewicz 2008; _cites Murray 1987_ | Table 6, p. 6, row 16; `ORC-CW2YJRS5E5` |  |
 | 2453 | peritectic: Liquid + Ti3B4 -> TiB | L: B 0.413; Ti3B4: B 0.571; TiB: B 0.5 | model | [3] Ma 2004 | Table 5, p. 7, row 3; `ORC-TAEIUNA2DG` |  |
@@ -70,17 +70,15 @@ Table: Invariant reactions reported in the literature for the B–Ti system (62)
 | 2333.15 | eutectic: L -> B + TiB2 | L: B 0.982; B: B 1; TiB2: B 0.667 | model | [4] Cacciamani 2011 | Table 3, p. 6, row 4; `ORC-KW2EOWYLRS` |  |
 | 2333 | eutectic: L -> TiB2 + βB | L: Ti 0.019; TiB2: Ti 0.334; βB: Ti 0 | model | [5] Bittermann 1997; _cites Baetzner 1994_ | Table 4, p. 5, row 5; `ORC-42WCLELNCJ` |  |
 | 2333 | peritectic: L + Ti3B4 \<-> TiB | Ti3B4: B 0.571429, Ti 0.428571; TiB: B 0.5, Ti 0.5 | experimental | [1] Witusiewicz 2008; _cites Ogden 1951_ | Table 6, p. 6, row 11; `ORC-UKNKPZ5UHR` |  |
-| 2332.5 | eutectic: Liquid -> β-rhombo-B + B2Ti | Liquid: Ti 0.019; β-rhombo-B: Ti 0; B2Ti: Ti 0.333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 147, row 1; `ORC-L5VSYS27K3` |  |
+| 2332.5 | eutectic: Liquid -> β-rhombo-B + B2Ti | Liquid: Ti 0.019; β-rhombo-B: Ti 0; B2Ti: Ti 0.333 | model | [2] (ed.) 1998 | Table I, p. 147, row 1; `ORC-L5VSYS27K3` |  |
 | 2330 | eutectic: Liquid -> TiB2 + (βB) | L: B 0.975; TiB2: B 0.676; (βB): B 1 | model | [3] Ma 2004 | Table 5, p. 7, row 4; `ORC-AFHUTN5U4Z` |  |
 | 2330 | eutectic: L \<-> TiB2 + (β-B) | L: B 0.975; TiB2: B 0.676; (β-B): B 1 | model | [1] Witusiewicz 2008; _cites Ma 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.09.017) | Table 6, p. 6, row 31; `ORC-WBGB3PX4R5` |  |
 | 2293 | peritectic: L + TiB2 \<-> Ti3B4 | TiB2: B 0.666667, Ti 0.333333; Ti3B4: B 0.571429, Ti 0.428571 | experimental | [1] Witusiewicz 2008; _cites Fenish 1964_ | Table 6, p. 6, row 7; `ORC-IS5RPICR7P` |  |
-| 2293 | peritectic: liquid + TiB2 ↔ Ti3 B4 |  | experimental | [3] Ma 2004; _cites Fenish 1964_ | p. 3; `ORC-USMJ4C566Z.98cdc1` | “Fenish \[8\] reported that Ti3 B4 forms by the peritectic reaction, liquid + TiB2 ↔ Ti3 B4 , at 2293K while another peritectic reaction, liquid + Ti3 B4 ↔ TiB, is at 2273 K.” |
 | 2273 | peritectic: L + Ti3B4 \<-> TiB | Ti3B4: B 0.5714; TiB: B 0.5, Ti 0.5 | experimental | [1] Witusiewicz 2008; _cites Fenish 1964_ | Table 6, p. 6, row 14; `ORC-SXQMOMGQWS` |  |
-| 2273 | peritectic: liquid + Ti3 B4 ↔ TiB |  | experimental | [3] Ma 2004; _cites Fenish 1964_ | p. 3; `ORC-USMJ4C566Z.23d321` | “Fenish \[8\] reported that Ti3 B4 forms by the peritectic reaction, liquid + TiB2 ↔ Ti3 B4 , at 2293K while another peritectic reaction, liquid + Ti3 B4 ↔ TiB, is at 2273 K.” |
 | 2174 | peritectic: L + Ti3B4 \<-> TiB | Ti3B4: B 0.571429, Ti 0.428571; TiB: B 0.5, Ti 0.5 | experimental | [1] Witusiewicz 2008; _cites Schwarzkopf 1953_ | Table 6, p. 6, row 12; `ORC-EF5LSAVOAU` |  |
 | 1943 | eutectic: L \<-> bcc + TiB | TiB: B 0.5, Ti 0.5 | experimental | [1] Witusiewicz 2008; _cites Palty 1954_ | Table 6, p. 6, row 35; `ORC-NRCB47PCJI` |  |
 | 1814.15 | eutectic: L -> TiB + bcc-Ti | L: B 0.069; TiB: B 0.5; bcc-Ti: B 0.002 | model | [4] Cacciamani 2011 | Table 3, p. 6, row 5; `ORC-TK5LYJCDZO` |  |
-| 1814.1 | eutectic: Liquid -> BTi + bcc-A2 | Liquid: Ti 0.931; BTi: Ti 0.5; bcc-A2: Ti 0.997 | unspecified | [2] Hämäläinen 1998 | Table I, p. 147, row 4; `ORC-HGXJ5ZDVCY` |  |
+| 1814.1 | eutectic: Liquid -> BTi + bcc-A2 | Liquid: Ti 0.931; BTi: Ti 0.5; bcc-A2: Ti 0.997 | model | [2] (ed.) 1998 | Table I, p. 147, row 4; `ORC-HGXJ5ZDVCY` |  |
 | 1814 | eutectic: L -> βTi + TiB | L: Ti 0.9313; βTi: Ti 0.9978; TiB: Ti 0.5 | model | [5] Bittermann 1997; _cites Baetzner 1994_ | Table 4, p. 5, row 7; `ORC-REKL4KVSH4` |  |
 | 1813 | eutectic: L \<-> bcc + TiB | L: B 0.07; TiB: B 0.5 | model | [1] Witusiewicz 2008; _cites Murray 1987_ | Table 6, p. 6, row 37; `ORC-ALI2YCQAIP` |  |
 | 1813 | eutectic: L \<-> bcc + TiB | L: B 0.07; TiB: B 0.5, Ti 0.5 | experimental | [1] Witusiewicz 2008; _cites Rudy 1969_ | Table 6, p. 6, row 33; `ORC-NJF5ER3KKK` |  |
@@ -89,10 +87,9 @@ Table: Invariant reactions reported in the literature for the B–Ti system (62)
 | 1803 | eutectic: L \<-> bcc + TiB | TiB: B 0.5, Ti 0.5 | experimental | [1] Witusiewicz 2008; _cites Fenish 1964_ | Table 6, p. 6, row 34; `ORC-BANVNWY2EB` |  |
 | 1781 | eutectic: L \<-> bcc + TiB | L: B 0.073; bcc: B 0.005; TiB: B 0.49 | model | [1] Witusiewicz 2008 | Table 6, p. 6, row 39; `ORC-WNG2MAKXHD` |  |
 | 1777 | eutectic: L \<-> bcc + TiB | TiB: B 0.5, Ti 0.5 | experimental | [1] Witusiewicz 2008 | Table 6, p. 6, row 36; `ORC-5UJV4BXONB` |  |
-| 1777 | eutectic |  | experimental | [1] Witusiewicz 2008; _cites Borysov_ | p. 5; `ORC-I6JZMVENHU` | “The results of this experiment as well as those obtained for other Ti-B samples \[32,50\] showed that the composition and the temperature of the eutectic is 7.0-7.5 at.% B and 1777 K, respectively.” |
 | 1159 | peritectoid: bcc + TiB \<-> hcp | TiB: B 0.5, Ti 0.5 | experimental | [1] Witusiewicz 2008; _cites Palty 1954_ | Table 6, p. 6, row 1; `ORC-LIXF5LBSJP` |  |
 | 1158 | peritectoid: bcc + TiB \<-> hcp | TiB: B 0.5, Ti 0.5 | experimental | [1] Witusiewicz 2008 | Table 6, p. 6, row 2; `ORC-3RBCBPC6ZE` |  |
-| 1156.1 | other: bcc-A2 -> BTi + hcp-A3 | bcc-A2: Ti 0.998; BTi: Ti 0.5; hcp-A3: Ti 1 | unspecified | [2] Hämäläinen 1998 | Table I, p. 147, row 5; `ORC-IDWMQK5KLM` |  |
+| 1156.1 | other: bcc-A2 -> BTi + hcp-A3 | bcc-A2: Ti 0.998; BTi: Ti 0.5; hcp-A3: Ti 1 | model | [2] (ed.) 1998 | Table I, p. 147, row 5; `ORC-IDWMQK5KLM` |  |
 | 1156 | peritectoid: bcc + TiB \<-> hcp | bcc: B 5.000e-4; TiB: B 0.483; hcp: B 9.000e-4 | model | [1] Witusiewicz 2008; _cites Ma 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.09.017) | Table 6, p. 6, row 3; `ORC-ABXFLBGJCD` |  |
 | 1156 | peritectoid: βTi + TiB -> αTi | βTi: Ti 0.9987; TiB: Ti 0.5; αTi: Ti 0.9983 | model | [5] Bittermann 1997; _cites Baetzner 1994_ | Table 4, p. 5, row 8; `ORC-EM5ENIXYJV` |  |
 | 1156 | peritectoid: bcc + TiB \<-> hcp | bcc: B 1.000e-4; TiB: B 0.489; hcp: B 3.000e-4 | model | [1] Witusiewicz 2008 | Table 6, p. 6, row 4; `ORC-MZSKJJBUT3` |  |
@@ -103,7 +100,7 @@ Table: Invariant reactions reported in the literature for the B–Ti system (62)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, B–Ti system (31)
+Table: Enthalpies of formation, B–Ti system (33)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -138,28 +135,23 @@ Table: Enthalpies of formation, B–Ti system (31)
 | TiB2 |  | -46.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Nakama 2009 | Table 3, p. 6, row 14; `ORC-JLUPVVRQUU.ecc2a4` |  |
 | TiB2 |  | -32.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Nakama 2009 | Table 3, p. 6, row 6; `ORC-YGN43ZTDKN.e65f5a` |  |
 | TiB2 |  | -21.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Nakama 2009 | Table 3, p. 6, row 15; `ORC-OAP5KRTSD6.2f3b9b` |  |
+| TiB2 |  | 35 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Nakama 2009 | Table 3, p. 6, row 5; `ORC-56Q6CELU3R.5c5328` |  |
+| TiB2 |  | 68.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Nakama 2009 | Table 3, p. 6, row 16; `ORC-MSD3PBGDPM.ac36b6` |  |
 
 ## Other properties
 
-### Phase transition (13)
+### Phase transition (6)
 
 Table: Phase transition, B–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1159 K | 1159 | (␤Ti) ↔ (␣Ti) + TiB | experimental | [3] Ma 2004; _cites Palty 1954_ | p. 1; `ORC-X5LHMKPRAU` | “With the same method, Palty et al. \[13\] found the temperature of the three-phase reaction of (␤Ti), (␣Ti), and TiB is 1159 ± 4 K and the solubility of B in (␣Ti) is less than 0.2 at.% B.” |
 | Phase transition | 1943 K | 1943 | congruent melting: Liquid -> (βTi); _(βTi): B 0_ | model | [3] Ma 2004 | Table 5, p. 7, row 7; `ORC-KL6NQNPBTT` |  |
-| Phase transition | 2273 K | 2273 | liquid + Ti3 B4 ↔ TiB | experimental | [3] Ma 2004; _cites Fenish 1964_ | p. 3; `ORC-YUYV5LOLD6.5009c7` | “But there is a disagreement between Fenish \[8\] and Rudy and Windisch \[9\] on whether the reaction is liquid + Ti3 B4 ↔ TiB at 2273 K \[8\] or liquid + TiB2 ↔ TiB at 2463 ± 25 K \[9\].” |
-| Phase transition | 2283 K | 2283 | low-temperature form ↔ high-temperature form | experimental | [3] Ma 2004; _cites Fenish 1964_ | p. 3; `ORC-COAHSG7U3A` | “Fenish \[8\] also found two different forms of Ti3 B4 , low-temperature form and high-temperature form and the transformation occurs at 2283 K.” |
 | Phase transition | 2348 K | 2348 | congruent melting: L -> βB; _L: Ti 0; βB: Ti 0_ | model | [5] Bittermann 1997; _cites Baetzner 1994_ | Table 4, p. 5, row 4; `ORC-EYHLNJVFNL` |  |
 | Phase transition | 2353 K | 2353 | eutectic: liquid ↔ TiB2 + (βB); _alloy: B 0.98, Ti 0.02_ | experimental | [3] Ma 2004; _cites Rudy 1966_ | Table 1, p. 2, row 24; `ORC-5II4PLRXME` |  |
-| Phase transition | 2393 K | 2393 | L + Ti3 B4 ↔ TiB | experimental | [1] Witusiewicz 2008 | p. 5; `ORC-PKALZ4SONW` | “The DTA shows the initial melting temperature to be 2393 K, while the pyrometric Pirani-Altertum method gave 2428 ± 25 K that is close to the value reported by Rudy \[22\]. The DTA temperature is hereafter treated as relating to the reaction L + Ti3 B4 ↔ TiB, and the pyrometric temperature seems to be rather overestimated owing to small quantity of liquid and to be close to the next reaction L + Ti…” |
-| Phase transition | 2400 K | 2400 | L + TiB2 ↔ TiB | model | [1] Witusiewicz 2008 | p. 8; `ORC-YE6BDSMZXV` | “Finally, the calculation of the metastable invariant reaction L + TiB2 ↔ TiB performed using the present description gave the temperature 2400 K and composition of liquid equal to Ti-31.0 at.% B.” |
-| Phase transition | 2463 K | 2463 | liquid + TiB2 ↔ TiB | experimental | [3] Ma 2004; _cites Rudy 1966_ | p. 3; `ORC-YUYV5LOLD6.1c5085` | “But there is a disagreement between Fenish \[8\] and Rudy and Windisch \[9\] on whether the reaction is liquid + Ti3 B4 ↔ TiB at 2273 K \[8\] or liquid + TiB2 ↔ TiB at 2463 ± 25 K \[9\].” |
 | Phase transition | 3489 K | 3489 | congruent melting: L -> TiB2; _L: Ti 0.334; TiB2: Ti 0.334_ | model | [5] Bittermann 1997; _cites Baetzner 1994_ | Table 4, p. 5, row 1; `ORC-XVZJYKJ2MT` |  |
 | Phase transition | 3489.15 K | 3489.15 | congruent melting: L -> TiB2; _L: B 0.667; TiB2: B 0.667_ | model | [4] Cacciamani 2011 | Table 3, p. 6, row 1; `ORC-VX4QRMO3OB` |  |
 | Phase transition | 3498 K | 3498 | congruent melting: Liquid -> TiB2; _L: B 0.667; TiB2: B 0.667_ | model | [3] Ma 2004 | Table 5, p. 7, row 1; `ORC-3DUUGLJTM6` |  |
-| Phase transition | 3498 K | 3498 | congruent transformation | model | [3] Ma 2004; _cites Murray 1987_ | p. 3; `ORC-T53OA3PG6S` | “According to Murray et al. \[5\], the highest reported congruent temperature, 3498 K, is chosen in the assessed phase diagram.” |
 
 ### Phase equilibrium (10)
 
@@ -296,7 +288,7 @@ Table: Crystal structure, B–Ti system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 448, 185-194 (2008). [doi:10.1016/j.jallcom.2006.10.034](https://doi.org/10.1016/j.jallcom.2006.10.034)
-2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+2. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 3. Xiaoyan Ma, Changrong Li, Zhenmin Du, Weijing Zhang, Thermodynamic assessment of the Ti–B system, Journal of Alloys and Compounds 370, 149-158 (2004). [doi:10.1016/j.jallcom.2003.09.017](https://doi.org/10.1016/j.jallcom.2003.09.017)
 4. G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011). [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003)
 5. H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system boron-hafnium-titanium (B-Hf-Ti), JPE 18, 24-47 (1997). [doi:10.1007/bf02646757](https://doi.org/10.1007/bf02646757)

@@ -31,8 +31,8 @@ Table: Uncertainty budget of the literature values of Fe2Hf
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -39.4 | kJ/mol-atom | 4.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.3 |
-| -12.3 | kJ/mol-atom | 1.1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -39.4 | kJ/mol-atom | 4.3 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.3 |
+| -12.3 | kJ/mol-atom | 1.1 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -40.33 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -39.86 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -39.847 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

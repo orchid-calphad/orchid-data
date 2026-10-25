@@ -30,12 +30,12 @@ Table: Uncertainty budget of the literature values of HfB2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -117.633 | kJ/mol-atom |  | 0.01667 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -117.633 | kJ/mol-atom |  | 0.01667 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -109.633 | kJ/mol-atom | 2.933 | 0.01667 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2.933 |
-| -106.567 | kJ/mol-atom |  | 0.01667 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -106.567 | kJ/mol-atom |  | 0.01667 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -105.033 | kJ/mol-atom |  | 0.01667 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -87.3 | kJ/mol-atom | 1.667 | 0.01667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -83.1333 | kJ/mol-atom | 1.967 | 0.01667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -87.3 | kJ/mol-atom | 1.667 | 0.01667 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -83.1333 | kJ/mol-atom | 1.967 | 0.01667 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -106.567 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies

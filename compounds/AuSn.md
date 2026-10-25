@@ -1,22 +1,23 @@
 # AuSn: enthalpy of formation
 
-> Enthalpy of formation of AuSn: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of AuSn: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AuSn.html · Markdown: https://data.orchid-project.org/compounds/AuSn.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 1).
+5 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 1); Materials Project -17.782 kJ/mol-atom (mp-aaaaacqh); OQMD -22.154 kJ/mol-atom (oqmd-10120).
 
 Systems: [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AuSn reported in the literature (4)
+Table: Enthalpy of formation of AuSn reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -15.69 kJ/mol (basis unstated) | AuSn | 78 | experimental |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Dong 2009 | Table II, p. 4, row 3; `ORC-6ZSMMADQ6T.80400b` |  |
 | -14.88 kJ/mol (basis unstated) | AuSn | 78 | experimental |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Dong 2009; _cites Jena 1979_ [doi](https://doi.org/10.1007/bf02662555) | Table II, p. 4, row 4; `ORC-6LD53PH6EE.1bb395` |  |
 | -15.75 kJ/mol (basis unstated) | AuSn | 10 | model |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Dong 2009 | Table II, p. 4, row 6; `ORC-TW7ETN7RCX.1fad08` |  |
+| -15.69 kJ/mol (basis unstated) | AuSn | 78 | model |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [2] Hu 2022; _cites Dong 2009_ [doi](https://doi.org/10.1007/s11664-009-0874-4) | p. 4; `ORC-ZBM64AUPWR` | “In order to compare the accuracy of two results, Dong et al \[13\] took BCT-type Sn as the reference state and the experimental value of AuSn at 78K was set to -15.69 kJ mol-1 but there was still a certain deviation from the calculated value of -18.77 kJ mol-1.” |
 | -18.77 kJ/mol (basis unstated) | AuSn | 0 | DFT |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Dong 2009 | Table II, p. 4, row 5; `ORC-2IBLN5L776.18fe42` |  |
 
 ### Uncertainty budget
@@ -30,11 +31,26 @@ Table: Uncertainty budget of the literature values of AuSn
 | -15.69 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -14.88 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -15.75 | kJ/mol (basis unstated) |  | 0.005 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -18.77 | kJ/mol (basis unstated) |  | 0.005 | 16.94 (dft, calibrated) |  |  |  | 16.94 |
+| -15.69 | kJ/mol (basis unstated) |  | 0.005 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -18.77 | kJ/mol (basis unstated) |  | 0.005 | 15.92 (dft, calibrated) |  |  |  | 15.92 |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of AuSn
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaacqh | -17.782 | -0.184295 | P6_3/mmc | 0 | 0 | no |
+| OQMD | oqmd-10120 | -22.154 | -0.229613 | P63/mmc | 0 | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 
 ## Sources
 
 1. H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009). [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4)
+2. Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022). [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f)
 
 ## Please cite
 

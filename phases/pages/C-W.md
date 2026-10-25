@@ -17,7 +17,7 @@ Table: Phases of the C–W system (7)
 | [BCC_A2](#phase-c-w-bcc-a2); _phase:c-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.89 K, x(C) 0–0.00917 | 6 | 3 |
 | [FCC_A1](#phase-c-w-fcc-a1); _phase:c-w:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 2 of 2 calculated diagram(s): 2800.4–3024.19 K, x(C) 0.37193–0.39271 | 12 | 3 |
 | [HCP_A3](#phase-c-w-hcp-a3); _phase:c-w:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1519.61–3050 K, x(C) 0.26949–0.33153 | 15 | 3 |
-| [LIQUID](#phase-c-w-liquid); _phase:c-w:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 2980.55–4000 K, x(C) 0–0.58533 | 18 | 3 |
+| [LIQUID](#phase-c-w-liquid); _phase:c-w:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 2980.55–4000 K, x(C) 0–0.58533 | 19 | 3 |
 | [MC_SHP](#phase-c-w-mc-shp); _phase:c-w:mc-shp_ | WC · B_h · hP2 · P-6m2 (187) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–3047.41 K, x(C) 0.5–0.5 | 12 | 3 |
 
 ## DIAMOND_A4 (C–W)
@@ -250,11 +250,11 @@ _cited as the source of values for this phase_
 - Id: `phase:c-w:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 2980.55–4000 K, x(C) 0–0.58533
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 19 values (19 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-w:liquid)
 
-Names (5): _corpus: _corpus:phase:c-w:liquid  
-_paper: _paper:10.1016/j.calphad.2022.102449:L  
+Names (6): _corpus: _corpus:phase:c-w:liquid  
+_paper: _paper:10.1016/j.calphad.2022.102449:L, paper:10.1179/mst.1986.2.7.653:liquid  
 _tdb: _tdb:WC-22He-3g.tdb:LIQUID, tdb:WC-86Gus.tdb:LIQUID, tdb:WC-93Jon-LB.tdb:LIQUID  
 
 
@@ -286,7 +286,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.calphad.2022.102449](https://doi.org/10.1016/j.calphad.2022.102449) Zhangting He, Malin Selleby, A third generation Calphad description of W–C including a revision of liquid C, Calphad 78, 102449 (2022).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1179/mst.1986.2.7.653](https://doi.org/10.1179/mst.1986.2.7.653) P. Gustafson, Thermodynamic evaluation of C–W system, Materials Science and Technology 2, 653-658 (1986).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0008-6223(86)90113-2](https://doi.org/10.1016/0008-6223%2886%2990113-2) P. Gustafson, Thermodynamic evaluation of C-W system, Mater. Sci. Technol. 2 (1986) 653–658, http://dx.doi.org/10.1179/mst.1986.2.7.653.  
 _cited as the source of values for this phase_
 

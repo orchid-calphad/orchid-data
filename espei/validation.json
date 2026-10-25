@@ -2,20 +2,20 @@
  "espei_version": "0.9.1",
  "folders": {
   "assessed": {
-   "files": 642,
-   "loaded": 642
+   "files": 639,
+   "loaded": 639
   },
   "derived/invariant-brackets": {
    "files": 1075,
    "loaded": 1075
   },
   "derived/liquid-stability": {
-   "files": 421,
-   "loaded": 421
+   "files": 422,
+   "loaded": 422
   },
   "dft/literature": {
-   "files": 774,
-   "loaded": 774
+   "files": 796,
+   "loaded": 796
   },
   "dft/mp": {
    "files": 1251,
@@ -26,16 +26,16 @@
    "loaded": 1251
   },
   "experimental": {
-   "files": 963,
-   "loaded": 963
+   "files": 971,
+   "loaded": 971
   },
   "invariants": {
-   "files": 1568,
-   "loaded": 1568
+   "files": 1548,
+   "loaded": 1548
   },
   "model": {
-   "files": 486,
-   "loaded": 486
+   "files": 493,
+   "loaded": 493
   }
  },
  "invalid_final": {},
@@ -123,12 +123,6 @@
    "source": "db-v2.1/invariants/espei/mc_ni_v2.034.pycalphad/zpf-ternary-20.json",
    "reason": "null_in_composition",
    "error": "TypeError: float() argument must be a string or a real number, not 'NoneType'"
-  },
-  {
-   "path": "invariants/C-NI-SI/binary-subsystems-C-Ni-Si.zpf-ternary-29.json",
-   "source": "db-v2.1/invariants/espei/binary-subsystems-C-Ni-Si/zpf-ternary-29.json",
-   "reason": "mole_fractions_sum_above_one",
-   "error": "DatasetError: Mole fractions for tieline ['NI2SI_THETA', ['NI', 'SI'], [0.677, 0.333]] for the ZPF point [['LIQUID', ['NI', 'SI'], [0.655, 0.32]], ['NI2SI_THETA', ['NI', 'SI'], [0.677, 0.333]], ['DIAMOND_A4', ['NI', 'SI'], [0.0, 0.0]]] sum to greater than one."
   },
   {
    "path": "invariants/CR-FE-ZR/binary-subsystems-Cr-Fe-Zr.zpf-ternary-36.json",
@@ -297,12 +291,6 @@
   {
    "path": "derived/invariant-brackets/CD-GD/CdGd-24Azz.zpf-01.json",
    "source": "invariants/CD-GD/CdGd-24Azz.zpf-01.json",
-   "reason": "espei_evaluation_nonfinite",
-   "error": null
-  },
-  {
-   "path": "derived/invariant-brackets/CD-TL/CdTl-09Liu.zpf-00.json",
-   "source": "invariants/CD-TL/CdTl-09Liu.zpf-00.json",
    "reason": "espei_evaluation_nonfinite",
    "error": null
   },
@@ -2687,44 +2675,44 @@
  ],
  "likelihood_evaluation": {
   "rule": "Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).",
-  "datasets_evaluated": 8431,
+  "datasets_evaluated": 8446,
   "all_finite": true,
   "by_folder_kind": {
    "assessed|zpf_driving_force_J": {
-    "datasets": 642,
-    "values": 12050,
-    "median_of_dataset_median_abs": 0.005,
+    "datasets": 639,
+    "values": 12019,
+    "median_of_dataset_median_abs": 0.0045,
     "p90_of_dataset_median_abs": 1.3968
    },
    "derived/invariant-brackets|zpf_driving_force_J": {
     "datasets": 1075,
-    "values": 6894,
-    "median_of_dataset_median_abs": 2.7757,
+    "values": 6905,
+    "median_of_dataset_median_abs": 2.7821,
     "p90_of_dataset_median_abs": 108.7677
    },
    "derived/liquid-stability|zpf_driving_force_J": {
-    "datasets": 421,
-    "values": 3789,
+    "datasets": 422,
+    "values": 3798,
     "median_of_dataset_median_abs": 0.0,
     "p90_of_dataset_median_abs": 0.0
    },
    "dft/literature|nonequilibrium_log_likelihood": {
-    "datasets": 774,
-    "values": 774,
-    "median_of_dataset_median_abs": 19.9873,
-    "p90_of_dataset_median_abs": 43.1803
+    "datasets": 796,
+    "values": 796,
+    "median_of_dataset_median_abs": 19.9778,
+    "p90_of_dataset_median_abs": 42.7718
    },
    "dft/mp|nonequilibrium_log_likelihood": {
     "datasets": 1251,
     "values": 1251,
-    "median_of_dataset_median_abs": 10.1701,
-    "p90_of_dataset_median_abs": 11.5011
+    "median_of_dataset_median_abs": 10.1393,
+    "p90_of_dataset_median_abs": 11.795
    },
    "dft/oqmd|nonequilibrium_log_likelihood": {
     "datasets": 1251,
     "values": 1251,
-    "median_of_dataset_median_abs": 10.108,
-    "p90_of_dataset_median_abs": 11.7115
+    "median_of_dataset_median_abs": 10.0432,
+    "p90_of_dataset_median_abs": 11.8626
    },
    "experimental|activity_residual": {
     "datasets": 71,
@@ -2733,14 +2721,14 @@
     "p90_of_dataset_median_abs": 11930.0598
    },
    "experimental|nonequilibrium_log_likelihood": {
-    "datasets": 446,
-    "values": 446,
-    "median_of_dataset_median_abs": 9.5214,
-    "p90_of_dataset_median_abs": 17.6779
+    "datasets": 456,
+    "values": 456,
+    "median_of_dataset_median_abs": 9.4457,
+    "p90_of_dataset_median_abs": 17.502
    },
    "experimental|residual": {
-    "datasets": 247,
-    "values": 1124,
+    "datasets": 245,
+    "values": 1122,
     "median_of_dataset_median_abs": 181.0765,
     "p90_of_dataset_median_abs": 20027.3067
    },
@@ -2751,10 +2739,10 @@
     "p90_of_dataset_median_abs": 489.0143
    },
    "invariants|zpf_driving_force_J": {
-    "datasets": 1568,
-    "values": 14382,
-    "median_of_dataset_median_abs": 13.435,
-    "p90_of_dataset_median_abs": 461.0282
+    "datasets": 1548,
+    "values": 14246,
+    "median_of_dataset_median_abs": 13.7539,
+    "p90_of_dataset_median_abs": 475.5999
    },
    "model|activity_residual": {
     "datasets": 43,
@@ -2763,10 +2751,10 @@
     "p90_of_dataset_median_abs": 47.6979
    },
    "model|nonequilibrium_log_likelihood": {
-    "datasets": 288,
-    "values": 288,
+    "datasets": 295,
+    "values": 295,
     "median_of_dataset_median_abs": 9.0505,
-    "p90_of_dataset_median_abs": 18.1982
+    "p90_of_dataset_median_abs": 18.1651
    },
    "model|residual": {
     "datasets": 143,
@@ -5146,6 +5134,13 @@
    "values": 2
   },
   {
+   "source": "general/espei/CuPt-06Abe/hmr-00.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
    "source": "general/espei/CuSn-04Liu/zpf-00.json",
    "reason": [
     "model_phase_rejected_by_label_check"
@@ -5968,9 +5963,37 @@
    "values": 1
   },
   {
+   "source": "general/espei/MgB-01Liu-LB/hmr-00.json",
+   "reason": [
+    "value_differs_from_release"
+   ],
+   "values": 2
+  },
+  {
+   "source": "general/espei/MgB-01Liu-LB/hmr-01.json",
+   "reason": [
+    "value_differs_from_release"
+   ],
+   "values": 2
+  },
+  {
    "source": "general/espei/MgB-01Liu-LB/hmr-02.json",
    "reason": [
     "phase_rule:phase_label_not_mapped"
+   ],
+   "values": 1
+  },
+  {
+   "source": "general/espei/MgB-01Liu-LB/hmr-03.json",
+   "reason": [
+    "value_differs_from_release"
+   ],
+   "values": 1
+  },
+  {
+   "source": "general/espei/MgB-01Liu-LB/hmr-04.json",
+   "reason": [
+    "value_differs_from_release"
    ],
    "values": 1
   },
@@ -6882,14 +6905,6 @@
    "values": 4
   },
   {
-   "source": "general/espei/NiSi-03Tok/hmr-00.json",
-   "reason": [
-    "composition_not_at_compound",
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 6
-  },
-  {
    "source": "general/espei/NiTb-24Rah/hmr-00.json",
    "reason": [
     "dft_superseded"
@@ -7601,6 +7616,13 @@
    "values": 1
   },
   {
+   "source": "general/espei/SiC-17Lia/sm-01.json",
+   "reason": [
+    "phase_rule:compound_property_not_fittable"
+   ],
+   "values": 1
+  },
+  {
    "source": "general/espei/SiN-03Ma-LB/hmr-01.json",
    "reason": [
     "phase_rule:phase_label_ambiguous"
@@ -7726,30 +7748,6 @@
     "phase_rule:phase_label_ambiguous"
    ],
    "values": 1
-  },
-  {
-   "source": "general/espei/SnSe-96Feu-LB/hmr-02.json",
-   "reason": [
-    "composition_not_at_compound",
-    "phase_rule:phase_label_ambiguous"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/SnSe-96Feu-LB/hmr-05.json",
-   "reason": [
-    "composition_not_at_compound",
-    "phase_rule:phase_label_ambiguous"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/SnSe-96Feu-LB/hmr-08.json",
-   "reason": [
-    "composition_not_at_compound",
-    "phase_rule:phase_label_ambiguous"
-   ],
-   "values": 2
   },
   {
    "source": "general/espei/SnTi-05Liu/hmr-00.json",
@@ -9335,6 +9333,7 @@
    "source": "general/espei-model/BiEr-22Ben/hmr-model-00.json",
    "reason": [
     "blocked_by_flag:system_mismatch",
+    "evidence_class_mismatch",
     "not_espei_ready:literature_gate"
    ],
    "values": 38
@@ -9659,14 +9658,14 @@
   {
    "source": "general/espei-model/CoPt-11Kim/hmr-model-00.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "evidence_class_mismatch"
    ],
    "values": 1
   },
   {
    "source": "general/espei-model/CoPt-11Kim/hmr-model-01.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "evidence_class_mismatch"
    ],
    "values": 1
   },
@@ -11486,7 +11485,7 @@
   {
    "source": "general/espei-model/PuO-08Gue/hmr-model-03.json",
    "reason": [
-    "blocked_by_flag:magnitude_suspect"
+    "value_differs_from_release"
    ],
    "values": 2
   },
@@ -11500,7 +11499,7 @@
   {
    "source": "general/espei-model/PuO-08Gue/sm-model-04.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "value_differs_from_release"
    ],
    "values": 2
   },
@@ -11731,14 +11730,6 @@
    "values": 8
   },
   {
-   "source": "general/espei-model/SnSe-96Feu-LB/hmr-model-00.json",
-   "reason": [
-    "composition_not_at_compound",
-    "phase_rule:phase_label_ambiguous"
-   ],
-   "values": 2
-  },
-  {
    "source": "general/espei-model/TaB-17OuY/hmr-model-00.json",
    "reason": [
     "evidence_class_mismatch"
@@ -11883,6 +11874,20 @@
     "phase_rule:compound_property_not_fittable"
    ],
    "values": 8
+  },
+  {
+   "source": "invariants/espei/AgCo-09Zhu/zpf-00.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/AgCo-21Den/zpf-00.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
   },
   {
    "source": "invariants/espei/AgDy-10Lon/zpf-01.json",
@@ -12565,9 +12570,103 @@
    "values": 2
   },
   {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-00.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
    "source": "invariants/espei/BiO-95Ris-LB/zpf-01.json",
    "reason": [
     "phase_not_in_target_tdb"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-02.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-03.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-04.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-05.json",
+   "reason": [
+    "not_espei_ready:literature_gate",
+    "phase_not_in_target_tdb"
+   ],
+   "values": 2
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-06.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-07.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-08.json",
+   "reason": [
+    "not_espei_ready:literature_gate",
+    "phase_not_in_target_tdb"
+   ],
+   "values": 2
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-09.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-10.json",
+   "reason": [
+    "not_espei_ready:literature_gate",
+    "phase_not_in_target_tdb"
+   ],
+   "values": 3
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-11.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-12.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-13.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
    ],
    "values": 1
   },
@@ -12682,6 +12781,7 @@
   {
    "source": "invariants/espei/CeB-17Pre/zpf-08.json",
    "reason": [
+    "not_espei_ready:literature_gate",
     "zpf_region_inert"
    ],
    "values": 2
@@ -12960,6 +13060,13 @@
     "composition_differs_from_release"
    ],
    "values": 3
+  },
+  {
+   "source": "invariants/espei/CuZr-06Wan/zpf-00.json",
+   "reason": [
+    "evidence_class_mismatch"
+   ],
+   "values": 5
   },
   {
    "source": "invariants/espei/CuZr-10Zho/zpf-01.json",
@@ -13309,6 +13416,13 @@
     "zpf_region_inert"
    ],
    "values": 1
+  },
+  {
+   "source": "invariants/espei/FeU-03Cha/zpf-04.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 2
   },
   {
    "source": "invariants/espei/FeZr-01Jia/zpf-00.json",
@@ -13864,6 +13978,13 @@
    "values": 2
   },
   {
+   "source": "invariants/espei/LiSi-17Lia/zpf-05.json",
+   "reason": [
+    "model_phase_rejected_by_label_check"
+   ],
+   "values": 1
+  },
+  {
    "source": "invariants/espei/MgH-99Zen/zpf-00.json",
    "reason": [
     "gas_without_printed_pressure"
@@ -13923,6 +14044,13 @@
    "source": "invariants/espei/MgSn-10Men/zpf-06.json",
    "reason": [
     "zpf_region_inert"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/MgZr-05Arr/zpf-00.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
    ],
    "values": 1
   },
@@ -14038,6 +14166,14 @@
     "zpf_region_inert"
    ],
    "values": 1
+  },
+  {
+   "source": "invariants/espei/NaZn-09Liu/zpf-01.json",
+   "reason": [
+    "not_espei_ready:literature_gate",
+    "zpf_region_inert"
+   ],
+   "values": 3
   },
   {
    "source": "invariants/espei/NaZn-09Liu/zpf-02.json",
@@ -14393,6 +14529,7 @@
   {
    "source": "invariants/espei/RuU-11Ber/zpf-00.json",
    "reason": [
+    "not_espei_ready:literature_gate",
     "zpf_region_inert"
    ],
    "values": 2
@@ -14400,6 +14537,7 @@
   {
    "source": "invariants/espei/RuU-11Ber/zpf-02.json",
    "reason": [
+    "not_espei_ready:literature_gate",
     "zpf_region_inert"
    ],
    "values": 2
@@ -14407,6 +14545,7 @@
   {
    "source": "invariants/espei/RuU-11Ber/zpf-05.json",
    "reason": [
+    "not_espei_ready:literature_gate",
     "zpf_region_inert"
    ],
    "values": 2
@@ -14456,7 +14595,7 @@
   {
    "source": "invariants/espei/SbZn-22Zha/zpf-04.json",
    "reason": [
-    "model_phase_rejected_by_label_check"
+    "not_espei_ready:literature_gate"
    ],
    "values": 1
   },
@@ -14713,6 +14852,7 @@
   {
    "source": "invariants/espei/TiO-07Can/zpf-00.json",
    "reason": [
+    "model_phase_rejected_by_label_check",
     "zpf_region_inert"
    ],
    "values": 12
@@ -14756,6 +14896,41 @@
    "source": "invariants/espei/UN-00Che/zpf-04.json",
    "reason": [
     "gas_without_printed_pressure"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/UO-02Che/zpf-00.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/UO-02Che/zpf-01.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/UO-02Che/zpf-02.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/UO-02Che/zpf-03.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/UZr-13Xio/zpf-01.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
    ],
    "values": 1
   },
@@ -14813,14 +14988,14 @@
   {
    "source": "invariants/espei/YH-20Pen/zpf-00.json",
    "reason": [
-    "gas_without_printed_pressure"
+    "model_phase_rejected_by_label_check"
    ],
    "values": 2
   },
   {
    "source": "invariants/espei/YH-20Pen/zpf-01.json",
    "reason": [
-    "gas_without_printed_pressure"
+    "model_phase_rejected_by_label_check"
    ],
    "values": 2
   },
@@ -14828,6 +15003,13 @@
    "source": "invariants/espei/YH-20Pen/zpf-02.json",
    "reason": [
     "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "invariants/espei/YO-07Dju/zpf-01.json",
+   "reason": [
+    "model_phase_rejected_by_label_check"
    ],
    "values": 1
   },
@@ -14866,6 +15048,13 @@
     "model_phase_rejected_by_label_check"
    ],
    "values": 2
+  },
+  {
+   "source": "invariants/espei/binary-subsystems-C-Ni-Si/zpf-ternary-29.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
   },
   {
    "source": "invariants/espei/binary-subsystems-Ca-H-Li/zpf-ternary-31.json",
@@ -15034,13 +15223,6 @@
     "duplicate_identical_zpf"
    ],
    "values": 5
-  },
-  {
-   "source": "db-v2.1/invariants/espei/AgCo-21Den/zpf-00.json",
-   "reason": [
-    "duplicate_identical_zpf"
-   ],
-   "values": 1
   },
   {
    "source": "db-v2.1/invariants/espei/AgGe-88Che-LB/zpf-02.json",
@@ -15225,34 +15407,6 @@
    "values": 2
   },
   {
-   "source": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-06.json",
-   "reason": [
-    "duplicate_identical_zpf"
-   ],
-   "values": 1
-  },
-  {
-   "source": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-07.json",
-   "reason": [
-    "duplicate_identical_zpf"
-   ],
-   "values": 1
-  },
-  {
-   "source": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-08.json",
-   "reason": [
-    "duplicate_identical_zpf"
-   ],
-   "values": 1
-  },
-  {
-   "source": "db-v2.1/invariants/espei/BiO-95Ris-LB/zpf-09.json",
-   "reason": [
-    "duplicate_identical_zpf"
-   ],
-   "values": 1
-  },
-  {
    "source": "db-v2.1/invariants/espei/BiSe-14Che/zpf-02.json",
    "reason": [
     "duplicate_identical_zpf"
@@ -15272,13 +15426,6 @@
     "duplicate_identical_zpf"
    ],
    "values": 1
-  },
-  {
-   "source": "db-v2.1/invariants/espei/CrC-90Kaj/zpf-00.json",
-   "reason": [
-    "duplicate_identical_zpf"
-   ],
-   "values": 3
   },
   {
    "source": "db-v2.1/invariants/espei/NbC-90Hua/zpf-06.json",
@@ -15974,6 +16121,27 @@
    "values": 1
   },
   {
+   "source": "general/espei/NiSi-03Tok/hmr-00.json",
+   "reason": [
+    "duplicate_identical_property_dataset"
+   ],
+   "values": 1
+  },
+  {
+   "source": "general/espei/NiSi-03Tok/hmr-00.json",
+   "reason": [
+    "duplicate_identical_property_dataset"
+   ],
+   "values": 1
+  },
+  {
+   "source": "general/espei/NiSi-03Tok/hmr-00.json",
+   "reason": [
+    "duplicate_identical_property_dataset"
+   ],
+   "values": 1
+  },
+  {
    "source": "general/espei/RuSi-09Lon/hmr-00.json",
    "reason": [
     "duplicate_identical_property_dataset"
@@ -16010,6 +16178,27 @@
   },
   {
    "source": "general/espei/RuSi-09Lon/hmr-04.json",
+   "reason": [
+    "duplicate_identical_property_dataset"
+   ],
+   "values": 1
+  },
+  {
+   "source": "general/espei/SnSe-96Feu-LB/hmr-03.json",
+   "reason": [
+    "duplicate_identical_property_dataset"
+   ],
+   "values": 1
+  },
+  {
+   "source": "general/espei/SnSe-96Feu-LB/hmr-06.json",
+   "reason": [
+    "duplicate_identical_property_dataset"
+   ],
+   "values": 1
+  },
+  {
+   "source": "general/espei/SnSe-96Feu-LB/hmr-09.json",
    "reason": [
     "duplicate_identical_property_dataset"
    ],
@@ -16126,6 +16315,13 @@
     "duplicate_identical_property_dataset"
    ],
    "values": 2
+  },
+  {
+   "source": "general/espei-model/SnSe-96Feu-LB/hmr-model-01.json",
+   "reason": [
+    "duplicate_identical_property_dataset"
+   ],
+   "values": 1
   },
   {
    "source": "general/espei/FeZr-95Ser/hmr-01.json",
@@ -21175,18 +21371,6 @@
    "orchid_id": "ORC-JR73AQEICV.fef2ee"
   },
   {
-   "source": "general/espei/CaSi-03Gro/hmr-00.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-F6T2FC7SLV.a78679"
-  },
-  {
-   "source": "general/espei/CaSi-03Gro/hmr-00.json",
-   "index": 2,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-F6T2FC7SLV.3a2f60"
-  },
-  {
    "source": "general/espei/CaSi-03Gro/hmr-02.json",
    "index": 0,
    "reason": "not_espei_ready:literature_gate",
@@ -21211,12 +21395,6 @@
    "orchid_id": "ORC-5UBITMWKOB.50a5a9"
   },
   {
-   "source": "general/espei/CaSi-03Gro/hmr-04.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-GKI2CB5HSS.528a27"
-  },
-  {
    "source": "general/espei/CaSi-03Gro/hmr-05.json",
    "index": 0,
    "reason": "not_espei_ready:literature_gate",
@@ -21233,36 +21411,6 @@
    "index": 2,
    "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-4M4CL2ZEFR.f95b49"
-  },
-  {
-   "source": "general/espei/CaSi-03Gro/hmr-06.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-6N2AN7HUCW.51fc9a"
-  },
-  {
-   "source": "general/espei/CaSi-03Gro/hmr-06.json",
-   "index": 2,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-6N2AN7HUCW.94409a"
-  },
-  {
-   "source": "general/espei/CaSi-03Gro/hmr-06.json",
-   "index": 3,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-6N2AN7HUCW.3066cd"
-  },
-  {
-   "source": "general/espei/CaSi-03Gro/hmr-06.json",
-   "index": 4,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-6N2AN7HUCW.98b465"
-  },
-  {
-   "source": "general/espei/CaSi-03Gro/hmr-06.json",
-   "index": 5,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-6N2AN7HUCW.19aede"
   },
   {
    "source": "general/espei/CeGa-13Idb/hmr-00.json",
@@ -22476,6 +22624,12 @@
    "index": 1,
    "reason": "value_differs_from_release",
    "orchid_id": "ORC-UQ5FDHCSKH"
+  },
+  {
+   "source": "general/espei/CuPt-06Abe/hmr-00.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-XZY5MJMHQE"
   },
   {
    "source": "general/espei/CuSn-04Liu/zpf-00.json",
@@ -25252,10 +25406,46 @@
    "same_as": "ORC-IF7B4FZA7E"
   },
   {
+   "source": "general/espei/MgB-01Liu-LB/hmr-00.json",
+   "index": 0,
+   "reason": "value_differs_from_release",
+   "orchid_id": "ORC-W2FCXHRFOP"
+  },
+  {
+   "source": "general/espei/MgB-01Liu-LB/hmr-00.json",
+   "index": 1,
+   "reason": "value_differs_from_release",
+   "orchid_id": "ORC-P2QKYSNQY6"
+  },
+  {
+   "source": "general/espei/MgB-01Liu-LB/hmr-01.json",
+   "index": 0,
+   "reason": "value_differs_from_release",
+   "orchid_id": "ORC-X2SXXKZOB3"
+  },
+  {
+   "source": "general/espei/MgB-01Liu-LB/hmr-01.json",
+   "index": 1,
+   "reason": "value_differs_from_release",
+   "orchid_id": "ORC-VCABWHTXUT"
+  },
+  {
    "source": "general/espei/MgB-01Liu-LB/hmr-02.json",
    "index": 0,
    "reason": "phase_rule:phase_label_not_mapped",
    "orchid_id": "ORC-3LPA54QJQD"
+  },
+  {
+   "source": "general/espei/MgB-01Liu-LB/hmr-03.json",
+   "index": 0,
+   "reason": "value_differs_from_release",
+   "orchid_id": "ORC-ITEAB5IK2I"
+  },
+  {
+   "source": "general/espei/MgB-01Liu-LB/hmr-04.json",
+   "index": 0,
+   "reason": "value_differs_from_release",
+   "orchid_id": "ORC-R6NR5W7CED"
   },
   {
    "source": "general/espei/MgB-01Liu-LB/hmr-05.json",
@@ -26614,42 +26804,6 @@
    "orchid_id": "ORC-DYBIVMPQDE.17e4c5"
   },
   {
-   "source": "general/espei/NiSi-03Tok/hmr-00.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-DYBIVMPQDE.adbac0"
-  },
-  {
-   "source": "general/espei/NiSi-03Tok/hmr-00.json",
-   "index": 2,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-DYBIVMPQDE.730676"
-  },
-  {
-   "source": "general/espei/NiSi-03Tok/hmr-00.json",
-   "index": 3,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-DYBIVMPQDE.d24349"
-  },
-  {
-   "source": "general/espei/NiSi-03Tok/hmr-00.json",
-   "index": 4,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-DYBIVMPQDE.50f636"
-  },
-  {
-   "source": "general/espei/NiSi-03Tok/hmr-00.json",
-   "index": 5,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-DYBIVMPQDE.879c78"
-  },
-  {
-   "source": "general/espei/NiSi-03Tok/hmr-02.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-ATSWCPLHI3.ae4c69"
-  },
-  {
    "source": "general/espei/NiSm-16Rah/hmr-00.json",
    "index": 1,
    "reason": "duplicate_read_same_row",
@@ -26672,17 +26826,15 @@
   },
   {
    "source": "general/espei/NiSm-16Rah/hmr-01.json",
-   "index": 1,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-H5OATTV4YI.112d07",
-   "same_as": "ORC-H5OATTV4YI.112d07"
+   "index": 0,
+   "reason": "phase_rule:phase_not_printed",
+   "orchid_id": "ORC-H5OATTV4YI.99a5c9"
   },
   {
    "source": "general/espei/NiSm-16Rah/hmr-01.json",
-   "index": 3,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-EENBV6JOTY.018b44",
-   "same_as": "ORC-EENBV6JOTY.018b44"
+   "index": 2,
+   "reason": "phase_rule:phase_not_printed",
+   "orchid_id": "ORC-EENBV6JOTY.a7d9ec"
   },
   {
    "source": "general/espei/NiSm-16Rah/hmr-02.json",
@@ -28741,24 +28893,6 @@
    "orchid_id": "ORC-O44M4ZW6TJ.25c16b"
   },
   {
-   "source": "general/espei/ScSi-15Qin/hmr-00.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-SB22WLDX3O.1df120"
-  },
-  {
-   "source": "general/espei/ScSi-15Qin/hmr-00.json",
-   "index": 2,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-SB22WLDX3O.c0fe37"
-  },
-  {
-   "source": "general/espei/ScSi-15Qin/hmr-02.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-GZV46W4OLK.6592b0"
-  },
-  {
    "source": "general/espei/SiB-09Che/acr_b-00.json",
    "index": 0,
    "reason": "phase_rule:phase_not_printed",
@@ -28805,6 +28939,12 @@
    "index": 0,
    "reason": "phase_rule:compound_property_not_fittable",
    "orchid_id": "ORC-BOPH4LJCD6"
+  },
+  {
+   "source": "general/espei/SiC-17Lia/sm-01.json",
+   "index": 0,
+   "reason": "phase_rule:compound_property_not_fittable",
+   "orchid_id": "ORC-HHNIMW2TJQ"
   },
   {
    "source": "general/espei/SiN-03Ma-LB/hmr-01.json",
@@ -29306,34 +29446,16 @@
    "orchid_id": "ORC-SXCESCRLPN.a39dda"
   },
   {
-   "source": "general/espei/SnSe-96Feu-LB/hmr-02.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-SXCESCRLPN.cb8c38"
-  },
-  {
    "source": "general/espei/SnSe-96Feu-LB/hmr-05.json",
    "index": 0,
    "reason": "phase_rule:phase_label_ambiguous",
    "orchid_id": "ORC-V7VHHJ5GSB.b91536"
   },
   {
-   "source": "general/espei/SnSe-96Feu-LB/hmr-05.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-V7VHHJ5GSB.6a43c7"
-  },
-  {
    "source": "general/espei/SnSe-96Feu-LB/hmr-08.json",
    "index": 0,
    "reason": "phase_rule:phase_label_ambiguous",
    "orchid_id": "ORC-2CEFS6VVEV.afeb02"
-  },
-  {
-   "source": "general/espei/SnSe-96Feu-LB/hmr-08.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-2CEFS6VVEV.f2095c"
   },
   {
    "source": "general/espei/SnSe-96Feu-LB/zpf-19.json",
@@ -33269,6 +33391,12 @@
   },
   {
    "source": "general/espei-model/BiEr-22Ben/hmr-model-00.json",
+   "index": 31,
+   "reason": "evidence_class_mismatch",
+   "orchid_id": "ORC-RNQLUP2DQ2.750eda"
+  },
+  {
+   "source": "general/espei-model/BiEr-22Ben/hmr-model-00.json",
    "index": 3,
    "reason": "duplicate_read_same_row",
    "orchid_id": "ORC-EKJ27B36M7.ea7c62",
@@ -33364,13 +33492,6 @@
    "reason": "duplicate_read_same_row",
    "orchid_id": "ORC-74E3X52I5V.051343",
    "same_as": "ORC-74E3X52I5V.051343"
-  },
-  {
-   "source": "general/espei-model/BiEr-22Ben/hmr-model-00.json",
-   "index": 31,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-RNQLUP2DQ2.750eda",
-   "same_as": "ORC-RNQLUP2DQ2.750eda"
   },
   {
    "source": "general/espei-model/BiEr-22Ben/hmr-model-00.json",
@@ -33481,7 +33602,7 @@
    "source": "general/espei-model/BiEr-22Ben/hmr-model-00.json",
    "index": 30,
    "reason": "blocked_by_flag:system_mismatch",
-   "orchid_id": "ORC-RNQLUP2DQ2.750eda"
+   "orchid_id": "ORC-RNQLUP2DQ2.bfef1d"
   },
   {
    "source": "general/espei-model/BiEr-22Ben/hmr-model-00.json",
@@ -33907,36 +34028,6 @@
    "index": 1,
    "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-3WPS7C3AWN.fb1392"
-  },
-  {
-   "source": "general/espei-model/CaSi-03Gro/hmr-model-00.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-O66YRHEN77.4524a8"
-  },
-  {
-   "source": "general/espei-model/CaSi-03Gro/hmr-model-00.json",
-   "index": 2,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-O66YRHEN77.0fbdc8"
-  },
-  {
-   "source": "general/espei-model/CaSi-03Gro/hmr-model-00.json",
-   "index": 3,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-O66YRHEN77.aeccce"
-  },
-  {
-   "source": "general/espei-model/CaSi-03Gro/hmr-model-00.json",
-   "index": 4,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-O66YRHEN77.c117fe"
-  },
-  {
-   "source": "general/espei-model/CaSi-03Gro/hmr-model-00.json",
-   "index": 5,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-O66YRHEN77.3cc744"
   },
   {
    "source": "general/espei-model/CaSi-94Ang-LB/hmr-model-00.json",
@@ -34441,13 +34532,13 @@
   {
    "source": "general/espei-model/CoPt-11Kim/hmr-model-00.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-SM7S5KGROG"
   },
   {
    "source": "general/espei-model/CoPt-11Kim/hmr-model-01.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-LBIEX7D7TT"
   },
   {
@@ -40756,13 +40847,13 @@
   {
    "source": "general/espei-model/PuO-08Gue/hmr-model-03.json",
    "index": 0,
-   "reason": "blocked_by_flag:magnitude_suspect",
+   "reason": "value_differs_from_release",
    "orchid_id": "ORC-EBMTXVKTB3.dc77b1"
   },
   {
    "source": "general/espei-model/PuO-08Gue/hmr-model-03.json",
    "index": 1,
-   "reason": "blocked_by_flag:magnitude_suspect",
+   "reason": "value_differs_from_release",
    "orchid_id": "ORC-3UQSOYYDZ5.ba5118"
   },
   {
@@ -40774,13 +40865,13 @@
   {
    "source": "general/espei-model/PuO-08Gue/sm-model-04.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "value_differs_from_release",
    "orchid_id": "ORC-EBMTXVKTB3.2fca80"
   },
   {
    "source": "general/espei-model/PuO-08Gue/sm-model-04.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "value_differs_from_release",
    "orchid_id": "ORC-3UQSOYYDZ5.7953e9"
   },
   {
@@ -41082,18 +41173,6 @@
    "index": 1,
    "reason": "phase_rule:phase_label_ambiguous",
    "orchid_id": "ORC-JVUQCUY4PL.cd2875"
-  },
-  {
-   "source": "general/espei-model/ScSi-15Qin/hmr-model-00.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-A4XBUGH2M5.d499f5"
-  },
-  {
-   "source": "general/espei-model/ScSi-15Qin/hmr-model-00.json",
-   "index": 2,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-A4XBUGH2M5.bd8f2b"
   },
   {
    "source": "general/espei-model/SiB-09Che/acr_b-model-00.json",
@@ -41507,12 +41586,6 @@
    "index": 0,
    "reason": "phase_rule:phase_label_ambiguous",
    "orchid_id": "ORC-FU4YYPX6NM.a7871b"
-  },
-  {
-   "source": "general/espei-model/SnSe-96Feu-LB/hmr-model-00.json",
-   "index": 1,
-   "reason": "composition_not_at_compound",
-   "orchid_id": "ORC-FU4YYPX6NM.31244a"
   },
   {
    "source": "general/espei-model/TaB-17OuY/hmr-model-00.json",
@@ -42209,6 +42282,18 @@
    "orchid_id": "ORC-W4RIR2QASS"
   },
   {
+   "source": "invariants/espei/AgCo-09Zhu/zpf-00.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-NYLHELEDBH"
+  },
+  {
+   "source": "invariants/espei/AgCo-21Den/zpf-00.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-26PV7B4WGF"
+  },
+  {
    "source": "invariants/espei/AgDy-10Lon/zpf-01.json",
    "index": 0,
    "reason": "zpf_region_inert",
@@ -42540,9 +42625,57 @@
   },
   {
    "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
+   "index": 5,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-NTKKPE5VQV.87a764"
+  },
+  {
+   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
+   "index": 15,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-6KSIWA2HES.a8c0fc"
+  },
+  {
+   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
+   "index": 18,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-6KSIWA2HES.4c624a"
+  },
+  {
+   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
+   "index": 22,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-435P4ZZA3N.f0673f"
+  },
+  {
+   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
+   "index": 23,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-435P4ZZA3N.89741b"
+  },
+  {
+   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
+   "index": 27,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-RFG5BAOLGN.69fec2"
+  },
+  {
+   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
+   "index": 32,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-WPBJS6IV2Z.bc1b66"
+  },
+  {
+   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
    "index": 35,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-WPBJS6IV2Z.a47136"
+  },
+  {
+   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
+   "index": 36,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-WPBJS6IV2Z.bda220"
   },
   {
    "source": "invariants/espei/AlHf-02Wan/zpf-00.json",
@@ -42591,6 +42724,30 @@
    "index": 0,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-SN6AKRGVKT"
+  },
+  {
+   "source": "invariants/espei/AlLa-00Yin/zpf-01.json",
+   "index": 2,
+   "reason": "model_phase_rejected_by_label_check",
+   "orchid_id": "ORC-WMFV5B2N4N"
+  },
+  {
+   "source": "invariants/espei/AlLa-00Yin/zpf-01.json",
+   "index": 3,
+   "reason": "model_phase_rejected_by_label_check",
+   "orchid_id": "ORC-PWN5VUOFDY"
+  },
+  {
+   "source": "invariants/espei/AlLa-00Yin/zpf-01.json",
+   "index": 6,
+   "reason": "model_phase_rejected_by_label_check",
+   "orchid_id": "ORC-SBZSBVXVOP"
+  },
+  {
+   "source": "invariants/espei/AlLa-00Yin/zpf-01.json",
+   "index": 7,
+   "reason": "model_phase_rejected_by_label_check",
+   "orchid_id": "ORC-CWOR4G2WHB"
   },
   {
    "source": "invariants/espei/AlLa-06Zho/zpf-01.json",
@@ -43195,7 +43352,7 @@
   {
    "source": "invariants/espei/AuBi-06Ser/zpf-06.json",
    "index": 0,
-   "reason": "zpf_region_inert",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-HT7GSWF3SX"
   },
   {
@@ -43589,6 +43746,24 @@
    "orchid_id": "ORC-OKICX5XRST"
   },
   {
+   "source": "invariants/espei/AuGa-10Liu/zpf-00.json",
+   "index": 6,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-7VJCRO5M7F"
+  },
+  {
+   "source": "invariants/espei/AuGa-10Liu/zpf-00.json",
+   "index": 7,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-TAVVGCFGU2"
+  },
+  {
+   "source": "invariants/espei/AuGa-11Wan/zpf-00.json",
+   "index": 1,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-YI3E4J6PK7"
+  },
+  {
    "source": "invariants/espei/AuGa-17Jen/zpf-00.json",
    "index": 2,
    "reason": "zpf_region_inert",
@@ -43845,6 +44020,12 @@
    "index": 0,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-FHMYTWJX2U"
+  },
+  {
+   "source": "invariants/espei/AuTb-16Otm/zpf-00.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-W3CPAU7PRS"
   },
   {
    "source": "invariants/espei/AuTb-16Otm/zpf-00.json",
@@ -44417,10 +44598,40 @@
    "orchid_id": "ORC-VUYLSKI4OA"
   },
   {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-00.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-FDIQLMVNY2"
+  },
+  {
    "source": "invariants/espei/BiO-95Ris-LB/zpf-01.json",
    "index": 0,
    "reason": "phase_not_in_target_tdb",
    "orchid_id": "ORC-7OYXK6X5FM"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-02.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-4WOXUFKWXY"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-03.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-S6F72H7KE4"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-04.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-O5R7NLDJGM"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-05.json",
+   "index": 1,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-OXXZSCD65D"
   },
   {
    "source": "invariants/espei/BiO-95Ris-LB/zpf-05.json",
@@ -44429,16 +44640,70 @@
    "orchid_id": "ORC-ANZLVWHAYC"
   },
   {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-06.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-AQFEHFCL7K"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-07.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-NP7DG4REST"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-08.json",
+   "index": 1,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-FXMHWXKO3I"
+  },
+  {
    "source": "invariants/espei/BiO-95Ris-LB/zpf-08.json",
    "index": 0,
    "reason": "phase_not_in_target_tdb",
    "orchid_id": "ORC-CI2KUOR57N"
   },
   {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-09.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-JXB7BQPI6N"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-10.json",
+   "index": 1,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-6ZHSX4ICN3"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-10.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-DIOLO6HKL3"
+  },
+  {
    "source": "invariants/espei/BiO-95Ris-LB/zpf-10.json",
    "index": 0,
    "reason": "phase_not_in_target_tdb",
    "orchid_id": "ORC-26UXG4RH2M"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-11.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-2FIBYKG43Y"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-12.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-JRE7NW4VTZ"
+  },
+  {
+   "source": "invariants/espei/BiO-95Ris-LB/zpf-13.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-YYCSHKPZFM"
   },
   {
    "source": "invariants/espei/BiRb-13Liu/zpf-00.json",
@@ -44911,7 +45176,7 @@
   {
    "source": "invariants/espei/CeB-17Pre/zpf-08.json",
    "index": 0,
-   "reason": "zpf_region_inert",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-S6QFNOKFZZ"
   },
   {
@@ -45405,6 +45670,12 @@
    "index": 5,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-BWZIKKIA3X"
+  },
+  {
+   "source": "invariants/espei/CoNd-07Liu/zpf-00.json",
+   "index": 1,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-QGCNFC6UKH"
   },
   {
    "source": "invariants/espei/CoNd-07Liu/zpf-00.json",
@@ -46014,6 +46285,24 @@
   },
   {
    "source": "invariants/espei/CrC-87And-LB/zpf-00.json",
+   "index": 3,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-MMJPD6EKD4.fec645"
+  },
+  {
+   "source": "invariants/espei/CrC-87And-LB/zpf-00.json",
+   "index": 6,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-BAV5ZYS2IW.766ae5"
+  },
+  {
+   "source": "invariants/espei/CrC-87And-LB/zpf-00.json",
+   "index": 7,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-EWA34MXCLM.d61ee8"
+  },
+  {
+   "source": "invariants/espei/CrC-87And-LB/zpf-00.json",
    "index": 1,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-5MLXI4G55R"
@@ -46125,6 +46414,12 @@
    "index": 0,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-FYI4SZOQTY"
+  },
+  {
+   "source": "invariants/espei/CrZr-09Pav/zpf-00.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-Y6F7XBC7HL"
   },
   {
    "source": "invariants/espei/CsTe-15Pha/zpf-00.json",
@@ -46571,6 +46866,36 @@
    "orchid_id": "ORC-MIPI6HYFV4"
   },
   {
+   "source": "invariants/espei/CuZr-06Wan/zpf-00.json",
+   "index": 0,
+   "reason": "evidence_class_mismatch",
+   "orchid_id": "ORC-Q2EUSETYKV"
+  },
+  {
+   "source": "invariants/espei/CuZr-06Wan/zpf-00.json",
+   "index": 1,
+   "reason": "evidence_class_mismatch",
+   "orchid_id": "ORC-WKC6C3YWL4"
+  },
+  {
+   "source": "invariants/espei/CuZr-06Wan/zpf-00.json",
+   "index": 2,
+   "reason": "evidence_class_mismatch",
+   "orchid_id": "ORC-U6JHJPEN5J"
+  },
+  {
+   "source": "invariants/espei/CuZr-06Wan/zpf-00.json",
+   "index": 3,
+   "reason": "evidence_class_mismatch",
+   "orchid_id": "ORC-OKJO5IXGMK"
+  },
+  {
+   "source": "invariants/espei/CuZr-06Wan/zpf-00.json",
+   "index": 4,
+   "reason": "evidence_class_mismatch",
+   "orchid_id": "ORC-T5WGR7XORU"
+  },
+  {
    "source": "invariants/espei/CuZr-06Wan/zpf-02.json",
    "index": 1,
    "reason": "zpf_region_inert",
@@ -46674,6 +46999,12 @@
   },
   {
    "source": "invariants/espei/CuZr-17Liu/zpf-01.json",
+   "index": 6,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-YVEONHASBD"
+  },
+  {
+   "source": "invariants/espei/CuZr-17Liu/zpf-01.json",
    "index": 4,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-O4EO26MAV2"
@@ -46701,6 +47032,12 @@
    "index": 8,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-MYL5HLSOW2"
+  },
+  {
+   "source": "invariants/espei/DySb-10Lon/zpf-00.json",
+   "index": 6,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-RU2WGDVCA6"
   },
   {
    "source": "invariants/espei/DySb-10Lon/zpf-00.json",
@@ -47499,6 +47836,24 @@
    "index": 1,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-SHWVCWZWXY"
+  },
+  {
+   "source": "invariants/espei/FeU-03Cha/zpf-04.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-W2HI7DEUJQ"
+  },
+  {
+   "source": "invariants/espei/FeU-03Cha/zpf-04.json",
+   "index": 1,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-MBJG44CRAQ"
+  },
+  {
+   "source": "invariants/espei/FeU-03Cha/zpf-05.json",
+   "index": 3,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-4KHWWPMSDQ"
   },
   {
    "source": "invariants/espei/FeY-14Kar/zpf-01.json",
@@ -49289,6 +49644,18 @@
    "orchid_id": "ORC-2JLCSDTS4I"
   },
   {
+   "source": "invariants/espei/InLa-02Wei-LB/zpf-00.json",
+   "index": 6,
+   "reason": "model_phase_rejected_by_label_check",
+   "orchid_id": "ORC-S5YAMWR77X"
+  },
+  {
+   "source": "invariants/espei/InLa-02Wei-LB/zpf-00.json",
+   "index": 7,
+   "reason": "model_phase_rejected_by_label_check",
+   "orchid_id": "ORC-XEJDBUGMOO"
+  },
+  {
    "source": "invariants/espei/InLi-22Gie/zpf-02.json",
    "index": 5,
    "reason": "zpf_region_inert",
@@ -49877,6 +50244,12 @@
    "orchid_id": "ORC-EQM7QJXKKW"
   },
   {
+   "source": "invariants/espei/LiSi-17Lia/zpf-05.json",
+   "index": 0,
+   "reason": "model_phase_rejected_by_label_check",
+   "orchid_id": "ORC-VNWKXDIKRM"
+  },
+  {
    "source": "invariants/espei/LiSn-14Li/zpf-00.json",
    "index": 0,
    "reason": "zpf_region_inert",
@@ -50091,6 +50464,12 @@
    "index": 6,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-3AAZIHPBEH"
+  },
+  {
+   "source": "invariants/espei/MgZr-05Arr/zpf-00.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-BIUOJBFDTY"
   },
   {
    "source": "invariants/espei/MnB-10Sun/zpf-00.json",
@@ -50550,6 +50929,12 @@
   },
   {
    "source": "invariants/espei/NaZn-09Liu/zpf-01.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-UHN6FDPFOI"
+  },
+  {
+   "source": "invariants/espei/NaZn-09Liu/zpf-01.json",
    "index": 1,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-N2DY67CZ33"
@@ -50977,7 +51362,7 @@
   {
    "source": "invariants/espei/NiSb-08Zha/zpf-01.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-22HD4ATQNL"
   },
   {
@@ -51870,6 +52255,12 @@
   },
   {
    "source": "invariants/espei/PbZr-98Dix/zpf-00.json",
+   "index": 4,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-3J7KOMGVKZ"
+  },
+  {
+   "source": "invariants/espei/PbZr-98Dix/zpf-00.json",
    "index": 6,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-27GSBGKSAN"
@@ -52404,15 +52795,15 @@
   },
   {
    "source": "invariants/espei/RuU-11Ber/zpf-00.json",
-   "index": 0,
-   "reason": "zpf_region_inert",
-   "orchid_id": "ORC-DFY4QNGA5W"
+   "index": 1,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-F5MTO4K4DW"
   },
   {
    "source": "invariants/espei/RuU-11Ber/zpf-00.json",
-   "index": 1,
+   "index": 0,
    "reason": "zpf_region_inert",
-   "orchid_id": "ORC-F5MTO4K4DW"
+   "orchid_id": "ORC-DFY4QNGA5W"
   },
   {
    "source": "invariants/espei/RuU-11Ber/zpf-01.json",
@@ -52447,7 +52838,7 @@
   {
    "source": "invariants/espei/RuU-11Ber/zpf-02.json",
    "index": 0,
-   "reason": "zpf_region_inert",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-6AXP5HF5Z2"
   },
   {
@@ -52458,27 +52849,27 @@
   },
   {
    "source": "invariants/espei/RuU-11Ber/zpf-03.json",
+   "index": 4,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-VWPRQZSR5E"
+  },
+  {
+   "source": "invariants/espei/RuU-11Ber/zpf-03.json",
+   "index": 8,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-OWDYWRRTPX"
+  },
+  {
+   "source": "invariants/espei/RuU-11Ber/zpf-03.json",
    "index": 0,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-NUWL5KXSGC"
   },
   {
    "source": "invariants/espei/RuU-11Ber/zpf-03.json",
-   "index": 4,
-   "reason": "zpf_region_inert",
-   "orchid_id": "ORC-VWPRQZSR5E"
-  },
-  {
-   "source": "invariants/espei/RuU-11Ber/zpf-03.json",
    "index": 7,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-TALXVGBJNZ"
-  },
-  {
-   "source": "invariants/espei/RuU-11Ber/zpf-03.json",
-   "index": 8,
-   "reason": "zpf_region_inert",
-   "orchid_id": "ORC-OWDYWRRTPX"
   },
   {
    "source": "invariants/espei/RuU-11Ber/zpf-03.json",
@@ -52507,7 +52898,7 @@
   {
    "source": "invariants/espei/RuU-11Ber/zpf-05.json",
    "index": 0,
-   "reason": "zpf_region_inert",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-VIZJ2HDFNG"
   },
   {
@@ -52515,6 +52906,12 @@
    "index": 1,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-ER7MEHSLHY"
+  },
+  {
+   "source": "invariants/espei/SbSm-14Liu/zpf-01.json",
+   "index": 5,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-HPIPOHTI7S"
   },
   {
    "source": "invariants/espei/SbSn-07Kro/zpf-00.json",
@@ -52669,7 +53066,7 @@
   {
    "source": "invariants/espei/SbZn-22Zha/zpf-04.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-YVMYB3LTN2"
   },
   {
@@ -53473,13 +53870,13 @@
   {
    "source": "invariants/espei/TiO-07Can/zpf-00.json",
    "index": 2,
-   "reason": "zpf_region_inert",
+   "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-HUVCIHKRK7"
   },
   {
    "source": "invariants/espei/TiO-07Can/zpf-00.json",
    "index": 3,
-   "reason": "zpf_region_inert",
+   "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-ZXWIO3GUO3"
   },
   {
@@ -53509,7 +53906,7 @@
   {
    "source": "invariants/espei/TiO-07Can/zpf-00.json",
    "index": 8,
-   "reason": "zpf_region_inert",
+   "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-SHW2HSACZ6"
   },
   {
@@ -53521,7 +53918,7 @@
   {
    "source": "invariants/espei/TiO-07Can/zpf-00.json",
    "index": 10,
-   "reason": "zpf_region_inert",
+   "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-U2266QCHUC"
   },
   {
@@ -53633,6 +54030,30 @@
    "orchid_id": "ORC-T4MZJ4DVFE"
   },
   {
+   "source": "invariants/espei/UO-02Che/zpf-00.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-OGLBURUGPQ"
+  },
+  {
+   "source": "invariants/espei/UO-02Che/zpf-01.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-BMZCK2QORS"
+  },
+  {
+   "source": "invariants/espei/UO-02Che/zpf-02.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-RPSNHZ6W2Z"
+  },
+  {
+   "source": "invariants/espei/UO-02Che/zpf-03.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-CIYXEDUZKE"
+  },
+  {
    "source": "invariants/espei/UV-11Ber/zpf-00.json",
    "index": 0,
    "reason": "model_phase_rejected_by_label_check",
@@ -53643,6 +54064,12 @@
    "index": 1,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-QSX7BY2FUU"
+  },
+  {
+   "source": "invariants/espei/UZr-13Xio/zpf-01.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-4UR25X6ZHL"
   },
   {
    "source": "invariants/espei/UZr-13Xio/zpf-02.json",
@@ -53785,25 +54212,25 @@
   {
    "source": "invariants/espei/YH-20Pen/zpf-00.json",
    "index": 0,
-   "reason": "gas_without_printed_pressure",
+   "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-QQVWB4L7LJ"
   },
   {
    "source": "invariants/espei/YH-20Pen/zpf-00.json",
    "index": 1,
-   "reason": "gas_without_printed_pressure",
+   "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-SALLTC7CU5"
   },
   {
    "source": "invariants/espei/YH-20Pen/zpf-01.json",
    "index": 0,
-   "reason": "gas_without_printed_pressure",
+   "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-TBZLN6CL7Y"
   },
   {
    "source": "invariants/espei/YH-20Pen/zpf-01.json",
    "index": 1,
-   "reason": "gas_without_printed_pressure",
+   "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-J4T2F3KO3J"
   },
   {
@@ -53817,6 +54244,12 @@
    "index": 2,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-BX7ZQICMLR"
+  },
+  {
+   "source": "invariants/espei/YO-07Dju/zpf-01.json",
+   "index": 0,
+   "reason": "model_phase_rejected_by_label_check",
+   "orchid_id": "ORC-7MJDZGWJ4C"
   },
   {
    "source": "invariants/espei/YZn-08Liu/zpf-00.json",
@@ -53949,6 +54382,12 @@
    "index": 1,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-R7XUGGTMMS"
+  },
+  {
+   "source": "invariants/espei/binary-subsystems-C-Ni-Si/zpf-ternary-29.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-WZQJ4ZQQ5J"
   },
   {
    "source": "invariants/espei/binary-subsystems-Ca-H-Li/zpf-ternary-31.json",
@@ -54194,26 +54633,6 @@
    "kept_in": {
     "path": "experimental/CU-TL/CuTl-89Che.zpf-00.json",
     "index": 0
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-06Wan/zpf-00.json",
-   "index": 1,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-WKC6C3YWL4",
-   "kept_in": {
-    "path": "experimental/CU-ZR/CuZr-94Zen-LB.zpf-02.json",
-    "index": 0
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-06Wan/zpf-00.json",
-   "index": 4,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-T5WGR7XORU",
-   "kept_in": {
-    "path": "experimental/CU-ZR/CuZr-94Zen-LB.zpf-00.json",
-    "index": 3
    }
   },
   {
@@ -54947,16 +55366,6 @@
    }
   },
   {
-   "source": "invariants/espei/AgCo-21Den/zpf-00.json",
-   "index": 0,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-26PV7B4WGF",
-   "kept_in": {
-    "path": "invariants/AG-CO/AgCo-09Zhu.zpf-00.json",
-    "index": 0
-   }
-  },
-  {
    "source": "invariants/espei/AgEr-10Wan/zpf-01.json",
    "index": 0,
    "reason": "duplicate_identical_zpf",
@@ -55433,7 +55842,7 @@
    "orchid_id": "ORC-ZAUQXI5FOP",
    "kept_in": {
     "path": "invariants/AL-LA/AlLa-00Yin.zpf-01.json",
-    "index": 5
+    "index": 3
    }
   },
   {
@@ -55863,7 +56272,7 @@
    "orchid_id": "ORC-VEOKT2NVJA",
    "kept_in": {
     "path": "invariants/AU-GA/AuGa-11Wan.zpf-00.json",
-    "index": 5
+    "index": 4
    }
   },
   {
@@ -55883,7 +56292,7 @@
    "orchid_id": "ORC-NRTGHHRKUQ",
    "kept_in": {
     "path": "invariants/AU-GA/AuGa-11Wan.zpf-00.json",
-    "index": 7
+    "index": 6
    }
   },
   {
@@ -55893,7 +56302,7 @@
    "orchid_id": "ORC-D5IBQFHSCX",
    "kept_in": {
     "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-    "index": 10
+    "index": 8
    }
   },
   {
@@ -55933,7 +56342,7 @@
    "orchid_id": "ORC-VF6WZVLX52",
    "kept_in": {
     "path": "invariants/AU-GA/AuGa-11Wan.zpf-00.json",
-    "index": 7
+    "index": 6
    }
   },
   {
@@ -55943,27 +56352,27 @@
    "orchid_id": "ORC-GE3TE3S7TL",
    "kept_in": {
     "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-    "index": 10
+    "index": 8
+   }
+  },
+  {
+   "source": "invariants/espei/AuGa-11Wan/zpf-00.json",
+   "index": 7,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-GW7DWZINNC",
+   "kept_in": {
+    "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
+    "index": 7
    }
   },
   {
    "source": "invariants/espei/AuGa-11Wan/zpf-00.json",
    "index": 8,
    "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-GW7DWZINNC",
-   "kept_in": {
-    "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-    "index": 9
-   }
-  },
-  {
-   "source": "invariants/espei/AuGa-11Wan/zpf-00.json",
-   "index": 9,
-   "reason": "duplicate_identical_zpf",
    "orchid_id": "ORC-VPAC5TENXL",
    "kept_in": {
     "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-    "index": 10
+    "index": 8
    }
   },
   {
@@ -55973,7 +56382,7 @@
    "orchid_id": "ORC-EG2SNQUOWT",
    "kept_in": {
     "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-    "index": 10
+    "index": 8
    }
   },
   {
@@ -56247,56 +56656,6 @@
    }
   },
   {
-   "source": "invariants/espei/BiO-95Ris-LB/zpf-06.json",
-   "index": 0,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-AQFEHFCL7K",
-   "kept_in": {
-    "path": "invariants/BI-O/BiO-95Ris-LB.zpf-03.json",
-    "index": 0
-   }
-  },
-  {
-   "source": "invariants/espei/BiO-95Ris-LB/zpf-07.json",
-   "index": 0,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-NP7DG4REST",
-   "kept_in": {
-    "path": "invariants/BI-O/BiO-95Ris-LB.zpf-03.json",
-    "index": 0
-   }
-  },
-  {
-   "source": "invariants/espei/BiO-95Ris-LB/zpf-08.json",
-   "index": 0,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-FXMHWXKO3I",
-   "kept_in": {
-    "path": "invariants/BI-O/BiO-95Ris-LB.zpf-05.json",
-    "index": 0
-   }
-  },
-  {
-   "source": "invariants/espei/BiO-95Ris-LB/zpf-09.json",
-   "index": 0,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-JXB7BQPI6N",
-   "kept_in": {
-    "path": "invariants/BI-O/BiO-95Ris-LB.zpf-05.json",
-    "index": 0
-   }
-  },
-  {
-   "source": "invariants/espei/BiO-95Ris-LB/zpf-10.json",
-   "index": 0,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-6ZHSX4ICN3",
-   "kept_in": {
-    "path": "invariants/BI-O/BiO-95Ris-LB.zpf-05.json",
-    "index": 0
-   }
-  },
-  {
    "source": "invariants/espei/BiRb-13Liu/zpf-01.json",
    "index": 0,
    "reason": "duplicate_identical_zpf",
@@ -56417,36 +56776,6 @@
    }
   },
   {
-   "source": "invariants/espei/CrC-90Kaj/zpf-00.json",
-   "index": 0,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-3IRDQRC6UL",
-   "kept_in": {
-    "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
-    "index": 2
-   }
-  },
-  {
-   "source": "invariants/espei/CrC-90Kaj/zpf-00.json",
-   "index": 1,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-KBLJQOQ7U2",
-   "kept_in": {
-    "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
-    "index": 3
-   }
-  },
-  {
-   "source": "invariants/espei/CrC-90Kaj/zpf-00.json",
-   "index": 2,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-YE4Q6BLKDZ",
-   "kept_in": {
-    "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
-    "index": 5
-   }
-  },
-  {
    "source": "invariants/espei/CrC-90Kaj/zpf-01.json",
    "index": 0,
    "reason": "duplicate_identical_zpf",
@@ -56473,17 +56802,17 @@
    "orchid_id": "ORC-CY27KDBVUN",
    "kept_in": {
     "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
-    "index": 3
+    "index": 2
    }
   },
   {
-   "source": "invariants/espei/CrC-90Kaj/zpf-01.json",
-   "index": 4,
+   "source": "invariants/espei/CrC-90Kaj/zpf-00.json",
+   "index": 1,
    "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-QU5SH7TRWU",
+   "orchid_id": "ORC-KBLJQOQ7U2",
    "kept_in": {
     "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
-    "index": 6
+    "index": 2
    }
   },
   {
@@ -57447,32 +57776,32 @@
    }
   },
   {
-   "source": "invariants/espei/CuZr-11Gie/zpf-04.json",
+   "source": "invariants/espei/CuZr-11Gie/zpf-00.json",
    "index": 0,
    "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-IBYRZLOYKC",
+   "orchid_id": "ORC-D76TDVJ24H",
    "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-01.json",
     "index": 0
    }
   },
   {
-   "source": "invariants/espei/CuZr-11Gie/zpf-04.json",
-   "index": 1,
+   "source": "invariants/espei/CuZr-11Gie/zpf-03.json",
+   "index": 0,
    "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-LZJ2Z6M5XG",
+   "orchid_id": "ORC-CMBI6UMIM7",
    "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
-    "index": 2
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
+    "index": 0
    }
   },
   {
-   "source": "invariants/espei/CuZr-11Gie/zpf-04.json",
-   "index": 2,
+   "source": "invariants/espei/CuZr-11Gie/zpf-03.json",
+   "index": 1,
    "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-3USERDJ4PC",
+   "orchid_id": "ORC-QZR6SSFT6N",
    "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-10Zho.zpf-05.json",
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
     "index": 1
    }
   },
@@ -57527,93 +57856,53 @@
    }
   },
   {
-   "source": "invariants/espei/CuZr-11Gie/zpf-00.json",
-   "index": 0,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-D76TDVJ24H",
-   "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-01.json",
-    "index": 0
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-11Gie/zpf-03.json",
-   "index": 0,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-CMBI6UMIM7",
-   "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
-    "index": 0
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-11Gie/zpf-03.json",
+   "source": "invariants/espei/CuZr-10Zho/zpf-02.json",
    "index": 1,
    "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-QZR6SSFT6N",
+   "orchid_id": "ORC-NJDBGGGIGX",
    "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
-    "index": 1
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-17Liu/zpf-06.json",
-   "index": 1,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-CC4MAVSJOT",
-   "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-08Tur.zpf-06.json",
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-02.json",
     "index": 0
    }
   },
   {
-   "source": "invariants/espei/CuZr-17Liu/zpf-06.json",
+   "source": "invariants/espei/CuZr-10Zho/zpf-03.json",
+   "index": 5,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-EX4QRJQUT5",
+   "kept_in": {
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
+    "index": 10
+   }
+  },
+  {
+   "source": "invariants/espei/CuZr-11Gie/zpf-01.json",
+   "index": 0,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-AYBKQCSJH3",
+   "kept_in": {
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-05.json",
+    "index": 4
+   }
+  },
+  {
+   "source": "invariants/espei/CuZr-11Gie/zpf-01.json",
    "index": 3,
    "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-GKLBEAWXYV",
+   "orchid_id": "ORC-FZW5RD2XMK",
    "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
-    "index": 1
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-02.json",
+    "index": 0
    }
   },
   {
-   "source": "invariants/espei/CuZr-17Liu/zpf-09.json",
-   "index": 3,
+   "source": "invariants/espei/CuZr-11Gie/zpf-01.json",
+   "index": 4,
    "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-64PHAPMX3M",
+   "orchid_id": "ORC-GLXDCLR3Y7",
    "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
-    "index": 1
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-94Zen-LB/zpf-04.json",
-   "index": 0,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-QJ3PLA6MRT",
-   "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-17Liu.zpf-09.json",
-    "index": 1
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-94Zen-LB/zpf-04.json",
-   "index": 1,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-QVHM26QECO",
-   "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-17Liu.zpf-06.json",
+    "path": "invariants/CU-ZR/CuZr-10Zho.zpf-02.json",
     "index": 2
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-94Zen-LB/zpf-04.json",
-   "index": 2,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-4OAJ3KNMAB",
-   "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
-    "index": 1
    }
   },
   {
@@ -57677,53 +57966,93 @@
    }
   },
   {
-   "source": "invariants/espei/CuZr-10Zho/zpf-02.json",
-   "index": 1,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-NJDBGGGIGX",
-   "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-02.json",
-    "index": 0
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-10Zho/zpf-03.json",
-   "index": 5,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-EX4QRJQUT5",
-   "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
-    "index": 10
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-11Gie/zpf-01.json",
+   "source": "invariants/espei/CuZr-11Gie/zpf-04.json",
    "index": 0,
    "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-AYBKQCSJH3",
+   "orchid_id": "ORC-IBYRZLOYKC",
    "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-05.json",
-    "index": 4
-   }
-  },
-  {
-   "source": "invariants/espei/CuZr-11Gie/zpf-01.json",
-   "index": 3,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-FZW5RD2XMK",
-   "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-02.json",
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
     "index": 0
    }
   },
   {
-   "source": "invariants/espei/CuZr-11Gie/zpf-01.json",
-   "index": 4,
+   "source": "invariants/espei/CuZr-11Gie/zpf-04.json",
+   "index": 1,
    "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-GLXDCLR3Y7",
+   "orchid_id": "ORC-LZJ2Z6M5XG",
    "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-10Zho.zpf-02.json",
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
     "index": 2
+   }
+  },
+  {
+   "source": "invariants/espei/CuZr-11Gie/zpf-04.json",
+   "index": 2,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-3USERDJ4PC",
+   "kept_in": {
+    "path": "invariants/CU-ZR/CuZr-10Zho.zpf-05.json",
+    "index": 1
+   }
+  },
+  {
+   "source": "invariants/espei/CuZr-17Liu/zpf-06.json",
+   "index": 1,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-CC4MAVSJOT",
+   "kept_in": {
+    "path": "invariants/CU-ZR/CuZr-08Tur.zpf-06.json",
+    "index": 0
+   }
+  },
+  {
+   "source": "invariants/espei/CuZr-17Liu/zpf-06.json",
+   "index": 3,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-GKLBEAWXYV",
+   "kept_in": {
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
+    "index": 1
+   }
+  },
+  {
+   "source": "invariants/espei/CuZr-17Liu/zpf-09.json",
+   "index": 3,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-64PHAPMX3M",
+   "kept_in": {
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
+    "index": 1
+   }
+  },
+  {
+   "source": "invariants/espei/CuZr-94Zen-LB/zpf-04.json",
+   "index": 0,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-QJ3PLA6MRT",
+   "kept_in": {
+    "path": "invariants/CU-ZR/CuZr-17Liu.zpf-09.json",
+    "index": 1
+   }
+  },
+  {
+   "source": "invariants/espei/CuZr-94Zen-LB/zpf-04.json",
+   "index": 1,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-QVHM26QECO",
+   "kept_in": {
+    "path": "invariants/CU-ZR/CuZr-17Liu.zpf-06.json",
+    "index": 2
+   }
+  },
+  {
+   "source": "invariants/espei/CuZr-94Zen-LB/zpf-04.json",
+   "index": 2,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-4OAJ3KNMAB",
+   "kept_in": {
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
+    "index": 1
    }
   },
   {
@@ -60765,12 +61094,12 @@
   },
   {
    "source": "invariants/espei/AuGa-11Wan/zpf-00.json",
-   "index": 8,
+   "index": 7,
    "reason": "duplicate_identical_zpf",
    "orchid_id": "ORC-BKM47VDDS7",
    "kept_in": {
     "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-    "index": 11
+    "index": 9
    }
   },
   {
@@ -60864,16 +61193,6 @@
    }
   },
   {
-   "source": "invariants/espei/CuZr-08Tur/zpf-02.json",
-   "index": 3,
-   "reason": "duplicate_identical_zpf",
-   "orchid_id": "ORC-X4CRJIT4P4",
-   "kept_in": {
-    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
-    "index": 1
-   }
-  },
-  {
    "source": "invariants/espei/CuZr-08Tur/zpf-05.json",
    "index": 1,
    "reason": "duplicate_identical_zpf",
@@ -60901,6 +61220,16 @@
    "kept_in": {
     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
     "index": 3
+   }
+  },
+  {
+   "source": "invariants/espei/CuZr-08Tur/zpf-02.json",
+   "index": 3,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-X4CRJIT4P4",
+   "kept_in": {
+    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
+    "index": 1
    }
   },
   {
@@ -72161,6 +72490,13 @@
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
   },
   {
+   "source": "literature",
+   "system": "BE-TI",
+   "id": "ORC-UD4PZZEC6C.b7f38b",
+   "compound": "Be12Ti",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
    "source": "mp",
    "system": "BE-V",
    "compound": "Be12V",
@@ -72414,6 +72750,20 @@
   },
   {
    "source": "literature",
+   "system": "BE-TI",
+   "id": "ORC-2J6N3CRD3V.c87c73",
+   "compound": "Be17Ti2",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "BE-TI",
+   "id": "ORC-3ZSN7KM54C.084f65",
+   "compound": "Be17Ti2",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
    "system": "BE-ZR",
    "id": "ORC-QRSNONMQ2Y",
    "compound": "Be17Zr2",
@@ -72602,6 +72952,13 @@
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
   },
   {
+   "source": "literature",
+   "system": "BE-TI",
+   "id": "ORC-ZDMV63AXRI.d1b3d8",
+   "compound": "Be2Ti",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
    "source": "mp",
    "system": "BE-W",
    "compound": "Be2W",
@@ -72761,6 +73118,20 @@
    "compound": "Be3Tc",
    "id": "mp-aaacdqce",
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
+  },
+  {
+   "source": "literature",
+   "system": "BE-TI",
+   "id": "ORC-MRO5QWSMU4.d830da",
+   "compound": "Be3Ti",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "BE-TI",
+   "id": "ORC-XWTF427LW7.54859a",
+   "compound": "Be3Ti",
+   "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "literature",
@@ -73041,6 +73412,29 @@
    "compound": "BeTe",
    "id": "mp-aaaaaajs",
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
+  },
+  {
+   "source": "literature",
+   "system": "BE-TI",
+   "id": "ORC-IYGKUG52RR.b27a73",
+   "compound": "BeTi",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "BE-TI",
+   "compound": "BeTi",
+   "id": "ORC-KY43MB2D5X.26b447",
+   "tdb": "BeTi-06Tok.tdb",
+   "phase": "BCC_B2",
+   "reason": "several_endmembers_at_composition"
+  },
+  {
+   "source": "literature",
+   "system": "BE-TI",
+   "id": "ORC-S3AYA55WXC.5775a5",
+   "compound": "BeTi3",
+   "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "literature",
@@ -73692,6 +74086,13 @@
    "compound": "Bi2 Yb1",
    "id": "oqmd-28781",
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
+  },
+  {
+   "source": "literature",
+   "system": "BI-ER",
+   "id": "ORC-RNQLUP2DQ2.750eda",
+   "compound": "Bi2Er",
+   "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "literature",
@@ -84076,6 +84477,13 @@
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
   },
   {
+   "source": "literature",
+   "system": "CO-PT",
+   "id": "ORC-SM7S5KGROG",
+   "compound": "CoPt",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
    "source": "mp",
    "system": "CO-PT",
    "compound": "CoPt",
@@ -86587,6 +86995,15 @@
    "reason": "several_endmembers_at_composition"
   },
   {
+   "source": "literature",
+   "system": "CU-PT",
+   "compound": "Cu3Pt",
+   "id": "ORC-XOPIEWRTSO.79b506",
+   "tdb": "CuPt-06Abe.tdb",
+   "phase": "FCC_4SL",
+   "reason": "several_endmembers_at_composition"
+  },
+  {
    "source": "mp",
    "system": "CU-PT",
    "compound": "Cu3Pt",
@@ -86948,6 +87365,15 @@
    "reason": "several_endmembers_at_composition"
   },
   {
+   "source": "literature",
+   "system": "CU-PT",
+   "compound": "CuPt",
+   "id": "ORC-XOPIEWRTSO.3f6ebd",
+   "tdb": "CuPt-06Abe.tdb",
+   "phase": "FCC_4SL",
+   "reason": "several_endmembers_at_composition"
+  },
+  {
    "source": "mp",
    "system": "CU-PT",
    "compound": "CuPt",
@@ -86959,6 +87385,15 @@
    "system": "CU-PT",
    "compound": "CuPt3",
    "id": "ORC-K7FCATJG6W.a1c35e",
+   "tdb": "CuPt-06Abe.tdb",
+   "phase": "FCC_4SL",
+   "reason": "several_endmembers_at_composition"
+  },
+  {
+   "source": "literature",
+   "system": "CU-PT",
+   "compound": "CuPt3",
+   "id": "ORC-XOPIEWRTSO.ee7e04",
    "tdb": "CuPt-06Abe.tdb",
    "phase": "FCC_4SL",
    "reason": "several_endmembers_at_composition"
@@ -93379,6 +93814,51 @@
   },
   {
    "source": "literature",
+   "system": "FE-NI",
+   "compound": "Fe3Ni",
+   "id": "ORC-IDNJTWI7MU",
+   "tdb": "FeNi-00Ans-4SL.tdb",
+   "phase": "FCC_4SL",
+   "reason": "several_endmembers_at_composition"
+  },
+  {
+   "source": "literature",
+   "system": "FE-NI",
+   "compound": "Fe3Ni",
+   "id": "ORC-IDNJTWI7MU",
+   "tdb": "FeNi-03Dup-LB.tdb",
+   "phase": "FCC_4SL",
+   "reason": "several_endmembers_at_composition"
+  },
+  {
+   "source": "literature",
+   "system": "FE-NI",
+   "compound": "Fe3Ni",
+   "id": "ORC-IDNJTWI7MU",
+   "tdb": "FeNi-03Dup-mod.tdb",
+   "phase": "FCC_4SL",
+   "reason": "several_endmembers_at_composition"
+  },
+  {
+   "source": "literature",
+   "system": "FE-NI",
+   "compound": "Fe3Ni",
+   "id": "ORC-IDNJTWI7MU",
+   "tdb": "FeNi-10Cac.tdb",
+   "phase": "FCC_4SL",
+   "reason": "several_endmembers_at_composition"
+  },
+  {
+   "source": "literature",
+   "system": "FE-NI",
+   "compound": "Fe3Ni",
+   "id": "ORC-IDNJTWI7MU",
+   "tdb": "FeNi-19Ohn.tdb",
+   "phase": "FCC_4SL",
+   "reason": "several_endmembers_at_composition"
+  },
+  {
+   "source": "literature",
    "system": "FE-PT",
    "id": "ORC-BXGGLN5PDE.020c47",
    "compound": "Fe3Pt",
@@ -96491,6 +96971,13 @@
    "compound": "Gd3Pt",
    "id": "mp-aaackyja",
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
+  },
+  {
+   "source": "literature",
+   "system": "GD-RU",
+   "id": "ORC-P7EA2ELA5Y.2e5b96",
+   "compound": "Gd3Ru",
+   "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "oqmd",
@@ -113158,6 +113645,20 @@
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
   },
   {
+   "source": "literature",
+   "system": "MO-NI",
+   "id": "ORC-EXQUNEL3PS.c8adae",
+   "compound": "Mo3Ni",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "MO-TA",
+   "id": "ORC-KDDQUBQQJS.a6717d",
+   "compound": "Mo3Ta",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
    "source": "oqmd",
    "system": "MO-N",
    "compound": "Mo4 N3",
@@ -113354,6 +113855,13 @@
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
   },
   {
+   "source": "literature",
+   "system": "MO-NI",
+   "id": "ORC-R4AY5X6IM3.70f93a",
+   "compound": "MoNi3",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
    "source": "mp",
    "system": "MO-O",
    "compound": "MoO2",
@@ -113436,6 +113944,13 @@
    "compound": "MoSe2",
    "id": "mp-aaacgmgq",
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
+  },
+  {
+   "source": "literature",
+   "system": "MO-TA",
+   "id": "ORC-GWWEVMKERC.e86cba",
+   "compound": "MoTa3",
+   "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "mp",
@@ -116683,6 +117198,27 @@
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
   },
   {
+   "source": "literature",
+   "system": "ND-RU",
+   "id": "ORC-2KBA7NMGGX.1f473d",
+   "compound": "Nd3Ru",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "ND-RU",
+   "id": "ORC-6KFE7FLSRE.26bf19",
+   "compound": "Nd3Ru",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "ND-RU",
+   "id": "ORC-N2B42IOD2X.1ce4aa",
+   "compound": "Nd3Ru",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
    "source": "mp",
    "system": "ND-RU",
    "compound": "Nd3Ru",
@@ -116947,6 +117483,13 @@
    "compound": "Nd7Rh3",
    "id": "mp-aaacprpy",
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
+  },
+  {
+   "source": "literature",
+   "system": "ND-RU",
+   "id": "ORC-6VRM73R4HH.54c6e6",
+   "compound": "Nd7Ru3",
+   "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "mp",
@@ -118204,6 +118747,13 @@
   {
    "source": "literature",
    "system": "NI-TI",
+   "id": "ORC-4XGNW6UYVR",
+   "compound": "Ni3Ti",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "NI-TI",
    "id": "ORC-7G3N7SITPN",
    "compound": "Ni3Ti",
    "reason": "label_not_mapped_to_registry_phase"
@@ -119192,6 +119742,13 @@
   {
    "source": "literature",
    "system": "NI-TI",
+   "id": "ORC-VFTSMFU73D",
+   "compound": "NiTi",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "NI-TI",
    "id": "ORC-VJDAY63XJC.ebd44e",
    "compound": "NiTi",
    "reason": "label_not_mapped_to_registry_phase"
@@ -119200,6 +119757,13 @@
    "source": "literature",
    "system": "NI-TI",
    "id": "ORC-XXBR7PY5JP.8baacf",
+   "compound": "NiTi",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "NI-TI",
+   "id": "ORC-ZBVIXAGZK4",
    "compound": "NiTi",
    "reason": "label_not_mapped_to_registry_phase"
   },
@@ -130320,6 +130884,20 @@
   {
    "source": "literature",
    "system": "RU-SM",
+   "id": "ORC-K2WL6PVHVP.89ed97",
+   "compound": "Ru2Sm",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "RU-SM",
+   "id": "ORC-RL3E2DA6EM.d63973",
+   "compound": "Ru2Sm",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "RU-SM",
    "id": "ORC-DMLJAIZQH7.323d48",
    "compound": "Ru2Sm5",
    "reason": "label_not_mapped_to_registry_phase"
@@ -130477,6 +131055,20 @@
    "compound": "RuSe2",
    "id": "mp-aaaaacvy",
    "reason": "not_in_phase_registry (no registry phase carries this DFT entry)"
+  },
+  {
+   "source": "literature",
+   "system": "RU-SM",
+   "id": "ORC-CQCXNYUPBR.65e81a",
+   "compound": "RuSm3",
+   "reason": "label_not_mapped_to_registry_phase"
+  },
+  {
+   "source": "literature",
+   "system": "RU-SM",
+   "id": "ORC-CWDYDSSFDH.5b16c6",
+   "compound": "RuSm3",
+   "reason": "label_not_mapped_to_registry_phase"
   },
   {
    "source": "oqmd",
@@ -144835,6 +145427,13 @@
   },
   {
    "source": "literature",
+   "system": "CO-NI",
+   "id": "ORC-3KCYVZHOUW.3336d4",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
    "system": "CO-V",
    "id": "ORC-3KFV6SG6OR",
    "compound": null,
@@ -145012,6 +145611,13 @@
    "source": "literature",
    "system": "MO-O",
    "id": "ORC-6UTLL7YIRT",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
+   "system": "CO-NI",
+   "id": "ORC-74DQWYXZZF.fef30f",
    "compound": null,
    "reason": "composition_not_parsed (no multi-element formula in phase label)"
   },
@@ -145255,8 +145861,29 @@
   },
   {
    "source": "literature",
+   "system": "RU-SM",
+   "id": "ORC-CQCXNYUPBR.2bb118",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
    "system": "MO-O",
    "id": "ORC-CTBB3CMRZ5",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
+   "system": "RU-SM",
+   "id": "ORC-CWDYDSSFDH.4bb3c0",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
+   "system": "CR-NI",
+   "id": "ORC-CYR5RW36IJ.b01bef",
    "compound": null,
    "reason": "composition_not_parsed (no multi-element formula in phase label)"
   },
@@ -145322,13 +145949,6 @@
    "id": "ORC-EXQUNEL3PS.29abcc",
    "compound": null,
    "reason": "composition_not_parsed (no multi-element formula in phase label)"
-  },
-  {
-   "source": "literature",
-   "system": "NI-TA",
-   "id": "ORC-EXQUNEL3PS.c8adae",
-   "compound": null,
-   "reason": "composition_not_parsed (formula elements outside the record's system)"
   },
   {
    "source": "literature",
@@ -145423,13 +146043,6 @@
   },
   {
    "source": "literature",
-   "system": "NI-TA",
-   "id": "ORC-GWWEVMKERC.e86cba",
-   "compound": null,
-   "reason": "composition_not_parsed (formula elements outside the record's system)"
-  },
-  {
-   "source": "literature",
    "system": "AL-SR",
    "id": "ORC-GZWB6RPPIB.9b0285",
    "compound": null,
@@ -145439,6 +146052,13 @@
    "source": "literature",
    "system": "MO-O",
    "id": "ORC-H35IV357YB",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
+   "system": "CO-CR",
+   "id": "ORC-HBJRP77ZUY.723a24",
    "compound": null,
    "reason": "composition_not_parsed (no multi-element formula in phase label)"
   },
@@ -145556,6 +146176,13 @@
   },
   {
    "source": "literature",
+   "system": "CR-NI",
+   "id": "ORC-IZ6H4R6V52.352a19",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
    "system": "C-MN",
    "id": "ORC-J2S6FP3OPD.12abf9",
    "compound": null,
@@ -145565,6 +146192,13 @@
    "source": "literature",
    "system": "MO-O",
    "id": "ORC-J4F556EMDN",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
+   "system": "CR-NI",
+   "id": "ORC-JE3KL3TAG6.6e3c2e",
    "compound": null,
    "reason": "composition_not_parsed (no multi-element formula in phase label)"
   },
@@ -145584,6 +146218,13 @@
   },
   {
    "source": "literature",
+   "system": "RU-SM",
+   "id": "ORC-K2WL6PVHVP.7dcdfb",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
    "system": "CR-NB",
    "id": "ORC-KDA4DDUPS3",
    "compound": null,
@@ -145595,13 +146236,6 @@
    "id": "ORC-KDDQUBQQJS.17dc57",
    "compound": null,
    "reason": "composition_not_parsed (no multi-element formula in phase label)"
-  },
-  {
-   "source": "literature",
-   "system": "NI-TA",
-   "id": "ORC-KDDQUBQQJS.a6717d",
-   "compound": null,
-   "reason": "composition_not_parsed (formula elements outside the record's system)"
   },
   {
    "source": "literature",
@@ -145766,6 +146400,13 @@
   },
   {
    "source": "literature",
+   "system": "CO-CR",
+   "id": "ORC-MG3TNZV7PT.94413f",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
    "system": "MO-O",
    "id": "ORC-MJMDNPDOFI",
    "compound": null,
@@ -145838,6 +146479,13 @@
    "source": "literature",
    "system": "C-MN",
    "id": "ORC-NB2ABT2NJP.e70760",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
+   "system": "CO-NI",
+   "id": "ORC-NPNIYN4TG5.1c973a",
    "compound": null,
    "reason": "composition_not_parsed (no multi-element formula in phase label)"
   },
@@ -145970,13 +146618,6 @@
   {
    "source": "literature",
    "system": "NI-TA",
-   "id": "ORC-R4AY5X6IM3.70f93a",
-   "compound": null,
-   "reason": "composition_not_parsed (formula elements outside the record's system)"
-  },
-  {
-   "source": "literature",
-   "system": "NI-TA",
    "id": "ORC-R4AY5X6IM3.ed7637",
    "compound": null,
    "reason": "composition_not_parsed (no multi-element formula in phase label)"
@@ -146020,6 +146661,13 @@
    "source": "literature",
    "system": "AL-SR",
    "id": "ORC-RCDACG7ZVZ.7913a6",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
+   "system": "RU-SM",
+   "id": "ORC-RL3E2DA6EM.fec170",
    "compound": null,
    "reason": "composition_not_parsed (no multi-element formula in phase label)"
   },
@@ -146424,6 +147072,13 @@
   },
   {
    "source": "literature",
+   "system": "CO-CR",
+   "id": "ORC-Y7PZJXNHY6.b22716",
+   "compound": null,
+   "reason": "composition_not_parsed (no multi-element formula in phase label)"
+  },
+  {
+   "source": "literature",
    "system": "MO-O",
    "id": "ORC-YCXWCFN2ZB",
    "compound": null,
@@ -146537,18 +147192,18 @@
  ],
  "fixes": {
   "summary": {
-   "E1_va_added_datasets": 6608,
+   "E1_va_added_datasets": 6625,
    "E1_basis": {
     "metallic_system": 23,
     "system_tdbs": 1,
-    "target_tdb": 6584
+    "target_tdb": 6601
    },
-   "E2_vertices_nulled": 6061,
-   "E2_datasets": 1190,
-   "E2_hyperplanes_added": 179,
-   "E3_regions_removed": 699,
-   "E3_datasets_emptied_and_dropped": 128,
-   "E4_values_removed": 1173,
+   "E2_vertices_nulled": 6014,
+   "E2_datasets": 1183,
+   "E2_hyperplanes_added": 178,
+   "E3_regions_removed": 688,
+   "E3_datasets_emptied_and_dropped": 122,
+   "E4_values_removed": 1170,
    "E5_activity_datasets_audited": 114,
    "E5_reference_state_changed": 64,
    "E5_basis": {
@@ -146557,15 +147212,15 @@
    },
    "E5_records_disagreeing_with_paper": 84,
    "E6_weights_from_sigma_effective": {
-    "datasets": 1347,
-    "weight_lower_than_before": 1250,
+    "datasets": 1369,
+    "weight_lower_than_before": 1268,
     "weight_higher_than_before": 1,
-    "weight_unchanged": 96,
+    "weight_unchanged": 100,
     "by_class": {
      "higher:experimental": 1,
-     "lower:experimental": 733,
-     "lower:model": 517,
-     "same:experimental": 96
+     "lower:experimental": 743,
+     "lower:model": 525,
+     "same:experimental": 100
     }
    }
   },
@@ -146713,18 +147368,6 @@
     },
     "kept_id": "ORC-SUWHLMUVHH",
     "removed_id": "ORC-VQWTUHLLRP"
-   },
-   {
-    "kept": {
-     "path": "experimental/CU-ZR/CuZr-94Zen-LB.zpf-02.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-00.json",
-     "index": 1
-    },
-    "kept_id": "ORC-2LSLY5HKOP",
-    "removed_id": "ORC-WKC6C3YWL4"
    },
    {
     "kept": {
@@ -146917,18 +147560,6 @@
     },
     "kept_id": "ORC-Y3QUAXETHU",
     "removed_id": "ORC-4E7DVAIJH3"
-   },
-   {
-    "kept": {
-     "path": "experimental/CU-ZR/CuZr-94Zen-LB.zpf-00.json",
-     "index": 3
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-00.json",
-     "index": 4
-    },
-    "kept_id": "ORC-TDHBYASPMD",
-    "removed_id": "ORC-T5WGR7XORU"
    },
    {
     "kept": {
@@ -147469,18 +148100,6 @@
     },
     "kept_id": "ORC-F5ZIDDMWV3",
     "removed_id": "ORC-7LVKI7CJLZ"
-   },
-   {
-    "kept": {
-     "path": "invariants/AG-CO/AgCo-09Zhu.zpf-00.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/AG-CO/AgCo-21Den.zpf-00.json",
-     "index": 0
-    },
-    "kept_id": "ORC-NYLHELEDBH",
-    "removed_id": "ORC-26PV7B4WGF"
    },
    {
     "kept": {
@@ -148049,7 +148668,7 @@
    {
     "kept": {
      "path": "invariants/AL-LA/AlLa-00Yin.zpf-01.json",
-     "index": 5
+     "index": 3
     },
     "removed": {
      "path": "invariants/AL-LA/AlLa-06Zho.zpf-00.json",
@@ -148553,7 +149172,7 @@
    {
     "kept": {
      "path": "invariants/AU-GA/AuGa-11Wan.zpf-00.json",
-     "index": 7
+     "index": 6
     },
     "removed": {
      "path": "invariants/AU-GA/AuGa-17Jen.zpf-01.json",
@@ -148565,7 +149184,7 @@
    {
     "kept": {
      "path": "invariants/AU-GA/AuGa-11Wan.zpf-00.json",
-     "index": 7
+     "index": 6
     },
     "removed": {
      "path": "invariants/AU-GA/AuGa-17Jen.zpf-04.json",
@@ -148577,11 +149196,11 @@
    {
     "kept": {
      "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-     "index": 9
+     "index": 7
     },
     "removed": {
      "path": "invariants/AU-GA/AuGa-11Wan.zpf-00.json",
-     "index": 8
+     "index": 7
     },
     "kept_id": "ORC-DXTGOWBTNL",
     "removed_id": "ORC-GW7DWZINNC"
@@ -148589,11 +149208,11 @@
    {
     "kept": {
      "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-     "index": 10
+     "index": 8
     },
     "removed": {
      "path": "invariants/AU-GA/AuGa-11Wan.zpf-00.json",
-     "index": 9
+     "index": 8
     },
     "kept_id": "ORC-G5MXIQHTNS",
     "removed_id": "ORC-VPAC5TENXL"
@@ -148601,7 +149220,7 @@
    {
     "kept": {
      "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-     "index": 10
+     "index": 8
     },
     "removed": {
      "path": "invariants/AU-GA/AuGa-17Jen.zpf-01.json",
@@ -148613,7 +149232,7 @@
    {
     "kept": {
      "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-     "index": 10
+     "index": 8
     },
     "removed": {
      "path": "invariants/AU-GA/AuGa-17Jen.zpf-03.json",
@@ -148625,7 +149244,7 @@
    {
     "kept": {
      "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-     "index": 10
+     "index": 8
     },
     "removed": {
      "path": "invariants/AU-GA/AuGa-17Jen.zpf-04.json",
@@ -148685,7 +149304,7 @@
    {
     "kept": {
      "path": "invariants/AU-GA/AuGa-11Wan.zpf-00.json",
-     "index": 5
+     "index": 4
     },
     "removed": {
      "path": "invariants/AU-GA/AuGa-17Jen.zpf-01.json",
@@ -149032,66 +149651,6 @@
    },
    {
     "kept": {
-     "path": "invariants/BI-O/BiO-95Ris-LB.zpf-03.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/BI-O/BiO-95Ris-LB.zpf-06.json",
-     "index": 0
-    },
-    "kept_id": "ORC-S6F72H7KE4",
-    "removed_id": "ORC-AQFEHFCL7K"
-   },
-   {
-    "kept": {
-     "path": "invariants/BI-O/BiO-95Ris-LB.zpf-03.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/BI-O/BiO-95Ris-LB.zpf-07.json",
-     "index": 0
-    },
-    "kept_id": "ORC-S6F72H7KE4",
-    "removed_id": "ORC-NP7DG4REST"
-   },
-   {
-    "kept": {
-     "path": "invariants/BI-O/BiO-95Ris-LB.zpf-05.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/BI-O/BiO-95Ris-LB.zpf-08.json",
-     "index": 0
-    },
-    "kept_id": "ORC-OXXZSCD65D",
-    "removed_id": "ORC-FXMHWXKO3I"
-   },
-   {
-    "kept": {
-     "path": "invariants/BI-O/BiO-95Ris-LB.zpf-05.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/BI-O/BiO-95Ris-LB.zpf-09.json",
-     "index": 0
-    },
-    "kept_id": "ORC-OXXZSCD65D",
-    "removed_id": "ORC-JXB7BQPI6N"
-   },
-   {
-    "kept": {
-     "path": "invariants/BI-O/BiO-95Ris-LB.zpf-05.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/BI-O/BiO-95Ris-LB.zpf-10.json",
-     "index": 0
-    },
-    "kept_id": "ORC-OXXZSCD65D",
-    "removed_id": "ORC-6ZHSX4ICN3"
-   },
-   {
-    "kept": {
      "path": "invariants/BI-RB/BiRb-13Liu.zpf-00.json",
      "index": 0
     },
@@ -149237,18 +149796,6 @@
    {
     "kept": {
      "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
-     "index": 2
-    },
-    "removed": {
-     "path": "invariants/C-CR/CrC-90Kaj.zpf-00.json",
-     "index": 0
-    },
-    "kept_id": "ORC-MMJPD6EKD4.fec645",
-    "removed_id": "ORC-3IRDQRC6UL"
-   },
-   {
-    "kept": {
-     "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
      "index": 1
     },
     "removed": {
@@ -149261,7 +149808,7 @@
    {
     "kept": {
      "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
-     "index": 3
+     "index": 2
     },
     "removed": {
      "path": "invariants/C-CR/CrC-90Kaj.zpf-00.json",
@@ -149273,7 +149820,7 @@
    {
     "kept": {
      "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
-     "index": 3
+     "index": 2
     },
     "removed": {
      "path": "invariants/C-CR/CrC-90Kaj.zpf-01.json",
@@ -149281,18 +149828,6 @@
     },
     "kept_id": "ORC-AA3CD4HJC6.5043e4",
     "removed_id": "ORC-CY27KDBVUN"
-   },
-   {
-    "kept": {
-     "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
-     "index": 5
-    },
-    "removed": {
-     "path": "invariants/C-CR/CrC-90Kaj.zpf-00.json",
-     "index": 2
-    },
-    "kept_id": "ORC-BAV5ZYS2IW.766ae5",
-    "removed_id": "ORC-YE4Q6BLKDZ"
    },
    {
     "kept": {
@@ -149305,18 +149840,6 @@
     },
     "kept_id": "ORC-SXBWSANMRQ",
     "removed_id": "ORC-R5JGL5KUT3"
-   },
-   {
-    "kept": {
-     "path": "invariants/C-CR/CrC-87And-LB.zpf-00.json",
-     "index": 6
-    },
-    "removed": {
-     "path": "invariants/C-CR/CrC-90Kaj.zpf-01.json",
-     "index": 4
-    },
-    "kept_id": "ORC-EWA34MXCLM.d61ee8",
-    "removed_id": "ORC-QU5SH7TRWU"
    },
    {
     "kept": {
@@ -150508,30 +151031,6 @@
    },
    {
     "kept": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-11Gie.zpf-04.json",
-     "index": 0
-    },
-    "kept_id": "ORC-VF4LMRMKT7",
-    "removed_id": "ORC-IBYRZLOYKC"
-   },
-   {
-    "kept": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-11Gie.zpf-05.json",
-     "index": 0
-    },
-    "kept_id": "ORC-JVFHSHSGKY",
-    "removed_id": "ORC-ZK3QPWAGX4"
-   },
-   {
-    "kept": {
      "path": "invariants/CU-ZR/CuZr-06Wan.zpf-01.json",
      "index": 0
     },
@@ -150565,6 +151064,114 @@
     },
     "kept_id": "ORC-IYIFHIFX3T",
     "removed_id": "ORC-UD4MKJHPRO"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
+     "index": 10
+    },
+    "removed": {
+     "path": "invariants/CU-ZR/CuZr-08Tur.zpf-07.json",
+     "index": 1
+    },
+    "kept_id": "ORC-RDHRNN4F6A",
+    "removed_id": "ORC-QODSTH2LEO"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-02.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/CU-ZR/CuZr-10Zho.zpf-02.json",
+     "index": 1
+    },
+    "kept_id": "ORC-GXULXAK5AP",
+    "removed_id": "ORC-NJDBGGGIGX"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
+     "index": 10
+    },
+    "removed": {
+     "path": "invariants/CU-ZR/CuZr-10Zho.zpf-03.json",
+     "index": 5
+    },
+    "kept_id": "ORC-RDHRNN4F6A",
+    "removed_id": "ORC-EX4QRJQUT5"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
+     "index": 4
+    },
+    "removed": {
+     "path": "invariants/CU-ZR/CuZr-10Zho.zpf-05.json",
+     "index": 8
+    },
+    "kept_id": "ORC-OL2R62B3S7",
+    "removed_id": "ORC-MLCWHHB63P"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-02.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/CU-ZR/CuZr-11Gie.zpf-01.json",
+     "index": 3
+    },
+    "kept_id": "ORC-GXULXAK5AP",
+    "removed_id": "ORC-FZW5RD2XMK"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
+     "index": 10
+    },
+    "removed": {
+     "path": "invariants/CU-ZR/CuZr-11Gie.zpf-05.json",
+     "index": 7
+    },
+    "kept_id": "ORC-RDHRNN4F6A",
+    "removed_id": "ORC-DEXYFK4J4G"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
+     "index": 4
+    },
+    "removed": {
+     "path": "invariants/CU-ZR/CuZr-94Zen-LB.zpf-10.json",
+     "index": 3
+    },
+    "kept_id": "ORC-OL2R62B3S7",
+    "removed_id": "ORC-SZPP6DN7NT"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/CU-ZR/CuZr-11Gie.zpf-04.json",
+     "index": 0
+    },
+    "kept_id": "ORC-VF4LMRMKT7",
+    "removed_id": "ORC-IBYRZLOYKC"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/CU-ZR/CuZr-11Gie.zpf-05.json",
+     "index": 0
+    },
+    "kept_id": "ORC-JVFHSHSGKY",
+    "removed_id": "ORC-ZK3QPWAGX4"
    },
    {
     "kept": {
@@ -150685,90 +151292,6 @@
     },
     "kept_id": "ORC-GAYXTYX37A",
     "removed_id": "ORC-TPI2WLNNCD"
-   },
-   {
-    "kept": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
-     "index": 10
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-08Tur.zpf-07.json",
-     "index": 1
-    },
-    "kept_id": "ORC-RDHRNN4F6A",
-    "removed_id": "ORC-QODSTH2LEO"
-   },
-   {
-    "kept": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-02.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-10Zho.zpf-02.json",
-     "index": 1
-    },
-    "kept_id": "ORC-GXULXAK5AP",
-    "removed_id": "ORC-NJDBGGGIGX"
-   },
-   {
-    "kept": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
-     "index": 10
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-10Zho.zpf-03.json",
-     "index": 5
-    },
-    "kept_id": "ORC-RDHRNN4F6A",
-    "removed_id": "ORC-EX4QRJQUT5"
-   },
-   {
-    "kept": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
-     "index": 4
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-10Zho.zpf-05.json",
-     "index": 8
-    },
-    "kept_id": "ORC-OL2R62B3S7",
-    "removed_id": "ORC-MLCWHHB63P"
-   },
-   {
-    "kept": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-02.json",
-     "index": 0
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-11Gie.zpf-01.json",
-     "index": 3
-    },
-    "kept_id": "ORC-GXULXAK5AP",
-    "removed_id": "ORC-FZW5RD2XMK"
-   },
-   {
-    "kept": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
-     "index": 10
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-11Gie.zpf-05.json",
-     "index": 7
-    },
-    "kept_id": "ORC-RDHRNN4F6A",
-    "removed_id": "ORC-DEXYFK4J4G"
-   },
-   {
-    "kept": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
-     "index": 4
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-94Zen-LB.zpf-10.json",
-     "index": 3
-    },
-    "kept_id": "ORC-OL2R62B3S7",
-    "removed_id": "ORC-SZPP6DN7NT"
    },
    {
     "kept": {
@@ -154589,11 +155112,11 @@
    {
     "kept": {
      "path": "invariants/AU-GA/AuGa-10Liu.zpf-00.json",
-     "index": 11
+     "index": 9
     },
     "removed": {
      "path": "invariants/AU-GA/AuGa-11Wan.zpf-00.json",
-     "index": 8
+     "index": 7
     },
     "kept_id": "ORC-KBLQBNYNBA",
     "removed_id": "ORC-BKM47VDDS7"
@@ -154708,18 +155231,6 @@
    },
    {
     "kept": {
-     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
-     "index": 1
-    },
-    "removed": {
-     "path": "invariants/CU-ZR/CuZr-08Tur.zpf-02.json",
-     "index": 3
-    },
-    "kept_id": "ORC-3RT7Y7BOTB",
-    "removed_id": "ORC-X4CRJIT4P4"
-   },
-   {
-    "kept": {
      "path": "invariants/CU-ZR/CuZr-06Wan.zpf-02.json",
      "index": 0
     },
@@ -154741,6 +155252,18 @@
     },
     "kept_id": "ORC-OL2R62B3S7",
     "removed_id": "ORC-IBSNZ4DJZN"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
+     "index": 1
+    },
+    "removed": {
+     "path": "invariants/CU-ZR/CuZr-08Tur.zpf-02.json",
+     "index": 3
+    },
+    "kept_id": "ORC-3RT7Y7BOTB",
+    "removed_id": "ORC-X4CRJIT4P4"
    },
    {
     "kept": {
@@ -159087,18 +159610,6 @@
     "dataset": "general/espei/NiSm-16Rah/hmr-00.json"
    },
    {
-    "kept_id": "ORC-H5OATTV4YI.112d07",
-    "duplicate_id": "ORC-H5OATTV4YI.112d07",
-    "pid": "doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r08#equilibrium_property",
-    "dataset": "general/espei/NiSm-16Rah/hmr-01.json"
-   },
-   {
-    "kept_id": "ORC-EENBV6JOTY.018b44",
-    "duplicate_id": "ORC-EENBV6JOTY.018b44",
-    "pid": "doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r23#equilibrium_property",
-    "dataset": "general/espei/NiSm-16Rah/hmr-01.json"
-   },
-   {
     "kept_id": "ORC-UHMYIGYWKU.8cb74d",
     "duplicate_id": "ORC-UHMYIGYWKU.8cb74d",
     "pid": "doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r24#equilibrium_property",
@@ -160164,12 +160675,6 @@
     "kept_id": "ORC-74E3X52I5V.051343",
     "duplicate_id": "ORC-74E3X52I5V.051343",
     "pid": "doi:10.1007/s11669-022-00947-8/p6/tab-3/r15#equilibrium_property",
-    "dataset": "general/espei-model/BiEr-22Ben/hmr-model-00.json"
-   },
-   {
-    "kept_id": "ORC-RNQLUP2DQ2.750eda",
-    "duplicate_id": "ORC-RNQLUP2DQ2.750eda",
-    "pid": "doi:10.1007/s11669-022-00947-8/p6/tab-3/r16#equilibrium_property",
     "dataset": "general/espei-model/BiEr-22Ben/hmr-model-00.json"
    },
    {
@@ -164133,34 +164638,34 @@
  "phase_constraints": {
   "folders": {
    "assessed": {
-    "datasets": 642,
-    "points": 6730,
-    "systems": 476
+    "datasets": 639,
+    "points": 6713,
+    "systems": 473
    },
    "derived/invariant-brackets": {
     "datasets": 1075,
-    "points": 4758,
+    "points": 4765,
     "systems": 391
    },
    "derived/liquid-stability": {
-    "datasets": 421,
-    "points": 3789,
-    "systems": 305
+    "datasets": 422,
+    "points": 3798,
+    "systems": 306
    }
   },
   "brackets": {
    "made": {
-    "above": 2535,
+    "above": 2540,
     "below": 2476
    },
    "skipped": {
-    "another_invariant_within_offset (above)": 761,
-    "another_invariant_within_offset (below)": 820,
-    "composition_not_between_the_two_phases": 156,
-    "invariant_composition_unknown": 395,
-    "phase_unmapped_or_repeated": 46,
-    "reaction_label_not_matched": 660,
-    "reaction_not_parsed": 135,
+    "another_invariant_within_offset (above)": 751,
+    "another_invariant_within_offset (below)": 815,
+    "composition_not_between_the_two_phases": 151,
+    "invariant_composition_unknown": 396,
+    "phase_unmapped_or_repeated": 40,
+    "reaction_label_not_matched": 628,
+    "reaction_not_parsed": 133,
     "reaction_phases_differ_from_dataset": 14,
     "reaction_type_magnetic": 3,
     "reaction_type_order-disorder": 4,
@@ -164175,35 +164680,35 @@
   "liquid_stability_systems": {
    "above_a_boiling_point": 83,
    "element_not_a_condensed_liquid_at_1_atm": 24,
-   "liquid_miscibility_gap_in_sources": 64,
+   "liquid_miscibility_gap_in_sources": 59,
    "no_assessed_diagram": 24,
    "no_single_phase_liquid_field": 9,
-   "written": 305
+   "written": 306
   }
  },
  "summary": {
-  "datasets": 6293,
-  "values": 13183,
+  "datasets": 6310,
+  "values": 13174,
   "by_folder": {
    "experimental": {
-    "datasets": 963,
-    "values": 2902,
-    "systems": 187
+    "datasets": 971,
+    "values": 2908,
+    "systems": 186
    },
    "model": {
-    "datasets": 486,
-    "values": 776,
+    "datasets": 493,
+    "values": 783,
     "systems": 82
    },
    "invariants": {
-    "datasets": 1568,
-    "values": 5144,
-    "systems": 470
+    "datasets": 1548,
+    "values": 5095,
+    "systems": 465
    },
    "dft/literature": {
-    "datasets": 774,
-    "values": 1859,
-    "systems": 90
+    "datasets": 796,
+    "values": 1886,
+    "systems": 92
    },
    "dft/mp": {
     "datasets": 1251,
@@ -164217,7 +164722,7 @@
    }
   },
   "by_folder_output": {
-   "dft/literature/HM_FORM": 774,
+   "dft/literature/HM_FORM": 796,
    "dft/mp/HM_FORM": 1251,
    "dft/oqmd/HM_FORM": 1251,
    "experimental/ACR_CD": 1,
@@ -164233,26 +164738,26 @@
    "experimental/ACR_ZR": 16,
    "experimental/CPM": 77,
    "experimental/GMR": 26,
-   "experimental/HMR": 127,
-   "experimental/HM_FORM": 404,
-   "experimental/SM": 12,
+   "experimental/HMR": 126,
+   "experimental/HM_FORM": 414,
+   "experimental/SM": 11,
    "experimental/SMR": 5,
    "experimental/SM_FORM": 42,
    "experimental/ZPF": 199,
-   "invariants/ZPF": 1568,
+   "invariants/ZPF": 1548,
    "model/ACR_CU": 16,
    "model/ACR_MO": 11,
    "model/ACR_ZR": 16,
    "model/CPM": 6,
    "model/GMR": 12,
    "model/HMR": 96,
-   "model/HM_FORM": 245,
+   "model/HM_FORM": 252,
    "model/SM": 18,
    "model/SMR": 11,
    "model/SM_FORM": 43,
    "model/ZPF": 12
   },
-  "systems_total": 695,
+  "systems_total": 692,
   "source_datasets": {
    "general/espei": 1823,
    "general/espei-model": 774,
@@ -164262,53 +164767,52 @@
    "absolute_entropy_negative": 2,
    "absolute_entropy_negative;phase_rule:phase_label_ambiguous": 1,
    "below_espei_temperature_floor": 2,
-   "blocked_by_flag:magnitude_suspect": 7,
+   "blocked_by_flag:magnitude_suspect": 6,
    "blocked_by_flag:magnitude_suspect;not_espei_ready:literature_gate;phase_rule:phase_label_not_mapped": 1,
-   "blocked_by_flag:system_mismatch;not_espei_ready:literature_gate": 1,
+   "blocked_by_flag:system_mismatch;evidence_class_mismatch;not_espei_ready:literature_gate": 1,
    "composition_differs_from_release": 19,
    "composition_differs_from_release;model_phase_rejected_by_label_check": 5,
    "composition_not_at_compound": 2,
-   "composition_not_at_compound;phase_rule:phase_label_ambiguous": 4,
-   "composition_not_at_compound;phase_rule:phase_label_not_mapped": 1,
    "dft_superseded": 124,
-   "duplicate_identical_property_dataset": 54,
-   "duplicate_identical_zpf": 128,
+   "duplicate_identical_property_dataset": 61,
+   "duplicate_identical_zpf": 122,
    "duplicate_of_other_dataset": 1,
    "espei_evaluation_error": 68,
    "espei_evaluation_nonfinite": 61,
    "espei_evaluation_tdb_error": 13,
    "espei_evaluation_tdb_not_found": 3,
-   "evidence_class_mismatch": 6,
+   "evidence_class_mismatch": 9,
    "formation_magnitude_implausible;phase_rule:phase_label_not_mapped": 1,
-   "gas_without_printed_pressure": 14,
+   "gas_without_printed_pressure": 12,
    "gas_without_printed_pressure;model_phase_rejected_by_label_check": 1,
    "gas_without_printed_pressure;zpf_region_inert": 1,
-   "model_phase_rejected_by_label_check": 66,
+   "model_phase_rejected_by_label_check": 69,
    "model_phase_rejected_by_label_check;not_espei_ready:literature_gate;zpf_region_inert": 2,
-   "model_phase_rejected_by_label_check;zpf_region_inert": 39,
+   "model_phase_rejected_by_label_check;zpf_region_inert": 40,
    "not_accepted": 8,
    "not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 1,
    "not_accepted;temperature_differs_from_release": 1,
    "not_accepted;value_differs_from_release": 2,
-   "not_espei_ready:literature_gate": 83,
+   "not_espei_ready:literature_gate": 105,
+   "not_espei_ready:literature_gate;phase_not_in_target_tdb": 3,
    "not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable": 2,
    "not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable;phase_rule:phase_label_not_mapped": 1,
    "not_espei_ready:literature_gate;phase_rule:phase_label_not_mapped": 1,
    "not_espei_ready:literature_gate;phase_rule:phase_not_printed": 171,
    "not_espei_ready:literature_gate;value_differs_from_release": 6,
-   "not_espei_ready:literature_gate;zpf_region_inert": 5,
+   "not_espei_ready:literature_gate;zpf_region_inert": 10,
    "phase_not_in_target_tdb": 38,
    "phase_not_in_target_tdb;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 1,
    "phase_not_in_target_tdb;phase_rule:phase_label_not_mapped": 4,
    "phase_not_in_target_tdb;phase_rule:phase_label_not_mapped;phase_rule:phase_not_printed": 1,
-   "phase_rule:compound_property_not_fittable": 276,
+   "phase_rule:compound_property_not_fittable": 277,
    "phase_rule:compound_property_not_fittable;phase_rule:phase_label_ambiguous": 1,
    "phase_rule:compound_property_not_fittable;phase_rule:phase_label_not_mapped": 4,
    "phase_rule:liquid_impossible_at_T": 1,
    "phase_rule:phase_label_ambiguous": 65,
    "phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 7,
    "phase_rule:phase_label_ambiguous;reference_state_not_ser": 4,
-   "phase_rule:phase_label_not_mapped": 285,
+   "phase_rule:phase_label_not_mapped": 282,
    "phase_rule:phase_label_not_mapped;phase_several_models_in_target_tdb": 1,
    "phase_rule:phase_label_not_mapped;reference_phase_not_in_target_tdb": 5,
    "phase_rule:phase_not_printed": 13,
@@ -164318,38 +164822,37 @@
    "reference_phase_not_in_target_tdb": 36,
    "reference_state_not_ser": 57,
    "system_alias_vertex_ambiguous": 8,
-   "value_differs_from_release": 47,
-   "zpf_region_inert": 247
+   "value_differs_from_release": 53,
+   "zpf_region_inert": 242
   },
   "datasets_excluded_by_espei": {
-   "mole_fractions_sum_above_one": 1,
    "null_in_composition": 25
   },
   "values_dropped": {
    "absolute_entropy_negative": 12,
    "below_espei_temperature_floor": 2,
-   "blocked_by_flag:magnitude_suspect": 16,
+   "blocked_by_flag:magnitude_suspect": 14,
    "blocked_by_flag:system_mismatch": 18,
    "composition_differs_from_release": 93,
-   "composition_not_at_compound": 43,
-   "duplicate_identical_zpf": 699,
+   "composition_not_at_compound": 15,
+   "duplicate_identical_zpf": 688,
    "duplicate_of_other_dataset": 1,
-   "duplicate_read_same_row": 1173,
+   "duplicate_read_same_row": 1170,
    "duplicate_value_same_dataset": 25,
    "espei_evaluation_nonfinite_region": 52,
-   "evidence_class_mismatch": 13,
+   "evidence_class_mismatch": 21,
    "formation_magnitude_implausible": 2,
-   "gas_without_printed_pressure": 27,
-   "model_phase_rejected_by_label_check": 392,
+   "gas_without_printed_pressure": 23,
+   "model_phase_rejected_by_label_check": 405,
    "not_accepted": 40,
-   "not_espei_ready:literature_gate": 463,
+   "not_espei_ready:literature_gate": 522,
    "phase_not_in_target_tdb": 116,
-   "phase_rule:compound_property_not_fittable": 702,
+   "phase_rule:compound_property_not_fittable": 703,
    "phase_rule:liquid_impossible_at_T": 3,
    "phase_rule:not_espei_ready": 4,
    "phase_rule:phase_label_ambiguous": 148,
-   "phase_rule:phase_label_not_mapped": 689,
-   "phase_rule:phase_not_printed": 269,
+   "phase_rule:phase_label_not_mapped": 685,
+   "phase_rule:phase_not_printed": 271,
    "phase_rule:temperature_implausible": 22,
    "phase_several_models_in_target_tdb": 9,
    "reference_phase_not_in_target_tdb": 60,
@@ -164358,55 +164861,55 @@
    "system_alias_vertex_ambiguous": 18,
    "temperature_differs_from_release": 5,
    "three_phase_region_off_invariant": 9,
-   "value_differs_from_release": 101,
-   "zpf_region_inert": 1385
+   "value_differs_from_release": 111,
+   "zpf_region_inert": 1374
   },
   "reader_agreement": {
-   "experimental/multi_reader": 2839,
-   "experimental/single_reader": 10,
-   "experimental/single_reader_text_layer": 75,
-   "invariants/multi_reader": 5608,
+   "experimental/multi_reader": 2855,
+   "experimental/single_reader": 9,
+   "experimental/single_reader_text_layer": 66,
+   "invariants/multi_reader": 5556,
    "invariants/single_reader_text_layer": 33,
-   "model/multi_reader": 760,
+   "model/multi_reader": 768,
    "model/single_reader": 7,
-   "model/single_reader_text_layer": 9
+   "model/single_reader_text_layer": 8
   },
   "reader_agreement_source": "release",
   "observation_match": {
-   "id": 13996
+   "id": 13916
   },
   "datasets_with_espei_evaluation": 0,
   "dft_candidates": {
-   "literature": 613,
+   "literature": 625,
    "mp": 677,
    "oqmd": 677
   },
   "dft_values_mapped": {
-   "literature": 1859,
+   "literature": 1886,
    "mp": 1251,
    "oqmd": 1251
   },
   "dft_exclusions": {
-   "literature/composition_not_parsed": 254,
-   "literature/label_not_mapped_to_registry_phase": 391,
+   "literature/composition_not_parsed": 263,
+   "literature/label_not_mapped_to_registry_phase": 417,
    "literature/no_endmember_at_composition": 75,
-   "literature/several_endmembers_at_composition": 92,
+   "literature/several_endmembers_at_composition": 101,
    "mp/not_in_phase_registry": 4496,
    "oqmd/not_in_phase_registry": 6805
   },
   "fixes": {
-   "E1_va_added_datasets": 6608,
+   "E1_va_added_datasets": 6625,
    "E1_basis": {
     "metallic_system": 23,
     "system_tdbs": 1,
-    "target_tdb": 6584
+    "target_tdb": 6601
    },
-   "E2_vertices_nulled": 6061,
-   "E2_datasets": 1190,
-   "E2_hyperplanes_added": 179,
-   "E3_regions_removed": 699,
-   "E3_datasets_emptied_and_dropped": 128,
-   "E4_values_removed": 1173,
+   "E2_vertices_nulled": 6014,
+   "E2_datasets": 1183,
+   "E2_hyperplanes_added": 178,
+   "E3_regions_removed": 688,
+   "E3_datasets_emptied_and_dropped": 122,
+   "E4_values_removed": 1170,
    "E5_activity_datasets_audited": 114,
    "E5_reference_state_changed": 64,
    "E5_basis": {
@@ -164415,49 +164918,49 @@
    },
    "E5_records_disagreeing_with_paper": 84,
    "E6_weights_from_sigma_effective": {
-    "datasets": 1347,
-    "weight_lower_than_before": 1250,
+    "datasets": 1369,
+    "weight_lower_than_before": 1268,
     "weight_higher_than_before": 1,
-    "weight_unchanged": 96,
+    "weight_unchanged": 100,
     "by_class": {
      "higher:experimental": 1,
-     "lower:experimental": 733,
-     "lower:model": 517,
-     "same:experimental": 96
+     "lower:experimental": 743,
+     "lower:model": 525,
+     "same:experimental": 100
     }
    }
   },
   "phase_constraints": {
    "folders": {
     "assessed": {
-     "datasets": 642,
-     "points": 6730,
-     "systems": 476
+     "datasets": 639,
+     "points": 6713,
+     "systems": 473
     },
     "derived/invariant-brackets": {
      "datasets": 1075,
-     "points": 4758,
+     "points": 4765,
      "systems": 391
     },
     "derived/liquid-stability": {
-     "datasets": 421,
-     "points": 3789,
-     "systems": 305
+     "datasets": 422,
+     "points": 3798,
+     "systems": 306
     }
    },
    "brackets": {
     "made": {
-     "above": 2535,
+     "above": 2540,
      "below": 2476
     },
     "skipped": {
-     "another_invariant_within_offset (above)": 761,
-     "another_invariant_within_offset (below)": 820,
-     "composition_not_between_the_two_phases": 156,
-     "invariant_composition_unknown": 395,
-     "phase_unmapped_or_repeated": 46,
-     "reaction_label_not_matched": 660,
-     "reaction_not_parsed": 135,
+     "another_invariant_within_offset (above)": 751,
+     "another_invariant_within_offset (below)": 815,
+     "composition_not_between_the_two_phases": 151,
+     "invariant_composition_unknown": 396,
+     "phase_unmapped_or_repeated": 40,
+     "reaction_label_not_matched": 628,
+     "reaction_not_parsed": 133,
      "reaction_phases_differ_from_dataset": 14,
      "reaction_type_magnetic": 3,
      "reaction_type_order-disorder": 4,
@@ -164472,10 +164975,10 @@
    "liquid_stability_systems": {
     "above_a_boiling_point": 83,
     "element_not_a_condensed_liquid_at_1_atm": 24,
-    "liquid_miscibility_gap_in_sources": 64,
+    "liquid_miscibility_gap_in_sources": 59,
     "no_assessed_diagram": 24,
     "no_single_phase_liquid_field": 9,
-    "written": 305
+    "written": 306
    }
   }
  }

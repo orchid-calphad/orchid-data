@@ -1,16 +1,16 @@
 # HfC: enthalpy of formation
 
-> Enthalpy of formation of HfC: 5 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of HfC: 6 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/HfC.html · Markdown: https://data.orchid-project.org/compounds/HfC.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 4, model 1).
+6 accepted literature formation-enthalpy value(s) (experimental 5, model 1).
 
 Systems: [C–Hf](https://data.orchid-project.org/systems/C-HF.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of HfC reported in the literature (5)
+Table: Enthalpy of formation of HfC reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -18,6 +18,7 @@ Table: Enthalpy of formation of HfC reported in the literature (5)
 | -231.1 kJ/mol (basis unstated) ± 2.1 | HfC1.00 | 298.15 | experimental | Combustion calorimetry | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4; `ORC-ETLPIOEYDC.f02cd6` |  |
 | -210.5 kJ/mol (basis unstated) ± 20.9 | HfC | 298.15 | experimental | Langmuir method | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Fesenko 1966_ | Table 3, p. 3, row 5; `ORC-RMCGK62JBP` |  |
 | -209.4 kJ/mol (basis unstated) | HfC1.0 | 298.15 | experimental | Combustion calorimetry of Hf oxycarbides | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6; `ORC-4EMGIZRDJ4.f2aab5` |  |
+| -209.4 kJ/mol (basis unstated) | HfC | 298.15 | experimental |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites ref. 77Kor_ | p. 7; `ORC-RSG35SBR5A` | “Thus, the value Ae/-/(HfC, 298 K) = -209.4 kJ/mol from \[77Kor\] was selected in the present assessment, which was also confirmed by the calculation of the phase relations in the ternary Hf-B-C system \[97Bit\].” |
 | -209.4 kJ/mol (basis unstated) | HfC | 298.15 | model |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997 | Table 3, p. 3, row 9; `ORC-NMJERRALKA` |  |
 
 ### Uncertainty budget
@@ -28,10 +29,11 @@ Table: Uncertainty budget of the literature values of HfC
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -262.7 | kJ/mol (basis unstated) |  | 0.05 | 11.2 (kems_vapour, cleaned_below_threshold) |  |  |  | 11.2 |
+| -262.7 | kJ/mol (basis unstated) |  | 0.05 | 8.4 (kems_vapour, calibrated) |  |  |  | 8.4 |
 | -231.1 | kJ/mol (basis unstated) | 2.1 | 0.05 | 2 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2.1 |
-| -210.5 | kJ/mol (basis unstated) | 20.9 | 0.05 | 11.2 (kems_vapour, cleaned_below_threshold) |  |  |  | 20.9 |
+| -210.5 | kJ/mol (basis unstated) | 20.9 | 0.05 | 8.4 (kems_vapour, calibrated) |  |  |  | 20.9 |
 | -209.4 | kJ/mol (basis unstated) |  | 0.05 | 2 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2 |
+| -209.4 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -209.4 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 
 ## Sources

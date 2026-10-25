@@ -417,8 +417,8 @@ dataset_info:
     dtype: string
   splits:
   - name: full
-    num_examples: 73550
-  download_size: 7509425
+    num_examples: 73542
+  download_size: 7557182
 - config_name: papers
   features:
   - name: id
@@ -453,8 +453,8 @@ dataset_info:
     dtype: int32
   splits:
   - name: full
-    num_examples: 4880
-  download_size: 530544
+    num_examples: 4881
+  download_size: 530861
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -643,8 +643,8 @@ dataset_info:
     list: string
   splits:
   - name: full
-    num_examples: 7546
-  download_size: 283927
+    num_examples: 7592
+  download_size: 290794
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -834,7 +834,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 10430
-  download_size: 451728
+  download_size: 452491
 - config_name: structure_types
   features:
   - name: id
@@ -970,7 +970,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 23129
-  download_size: 1721875
+  download_size: 1721874
 - config_name: bibliography_papers
   features:
   - name: id
@@ -1069,8 +1069,8 @@ dataset_info:
     dtype: string
   splits:
   - name: full
-    num_examples: 9568
-  download_size: 1539396
+    num_examples: 9569
+  download_size: 1539815
 - config_name: bibliography_edges
   features:
   - name: id
@@ -1100,7 +1100,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 60231
-  download_size: 1083575
+  download_size: 1084933
 ---
 
 # ORCHID data: analysis-ready tables
@@ -1142,7 +1142,7 @@ format.
 | `hull_vertices` | 28,143 | binary convex-hull vertices: 12,829 Materials Project (v2026.04.13), 15,314 OQMD (v1.8) |
 | `phases` | 10,496 | phase registry: one row per phase of each of 1,241 binary systems (`phases/registry.parquet`) |
 | `assessed_phase_assemblages` | 23,131 | one (T, x, P) point deep inside each named phase field of the expert-drawn (assessed) binary diagrams compiled in Okamoto's Desk Handbook, with the assemblage, registry ids, basis, confidence and SGTE cross-check (`assessed-phase-assemblages/records.parquet`) |
-| `bibliography_papers` | 9,568 | every paper ORCHID knows: Crossref metadata, roles, value counts, DOI check (`bibliography/papers.parquet`) |
+| `bibliography_papers` | 9,569 | every paper ORCHID knows: Crossref metadata, roles, value counts, DOI check (`bibliography/papers.parquet`) |
 | `bibliography_edges` | 60,231 | typed relations between papers, TDB files and handbook diagrams, with provenance (`bibliography/edges.parquet`) |
 | `structure_types` | 1,563 | structure types used by the registry: prototype, Strukturbericht, Pearson symbol, space group, sources (`phases/structure_types.parquet`) |
 

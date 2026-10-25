@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Al18Cr2Mg3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -246.5 | kJ/mol (basis unstated) |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -238.5 | kJ/mol (basis unstated) |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -238.5 | kJ/mol (basis unstated) |  | 0.05 | 4.166 (dft, calibrated) |  |  |  | 4.166 |
 
 ## Sources
 

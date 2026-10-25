@@ -1,10 +1,10 @@
 # Ru–Si system
 
-> Ru–Si system: 111 accepted literature values (invariant reaction 59, formation 40, phase transition 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ru–Si system: 98 accepted literature values (invariant reaction 57, formation 40, phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RU-SI.html · Markdown: https://data.orchid-project.org/systems/RU-SI.md
 
-111 accepted literature values from 2 paper(s) (experimental 49, model 56, unspecified 6); 4 calculated phase diagram(s).
+98 accepted literature values from 2 paper(s) (experimental 36, model 56, unspecified 6); 4 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RU-SI.json) · [CSV](https://data.orchid-project.org/systems/RU-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-SI/RuSi-01Du-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/RU-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RU-SI.html) · [Markdown](https://data.orchid-project.org/systems/RU-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 49 |
+| experimental | 36 |
 | model | 56 |
 | unspecified | 6 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 59 |
-| phase transition | 12 |
+| invariant reaction | 57 |
+| phase transition | 1 |
 | formation | 40 |
 
 ## Calculated phase diagrams
@@ -111,21 +111,21 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ru–Si system (59)
+Table: Invariant reactions reported in the literature for the Ru–Si system (57)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2143 | liquid = RuSi | liquid: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | experimental | [1] Liu 2001; _cites Savitsky 1978_ | Table 3, p. 6, row 22; `ORC-LPRRJ7ZN7O` |  |
-| 2023 | liquid = RuSi | liquid: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | unspecified | [1] Liu 2001; _cites Mann 1995_ | Table 3, p. 6, row 20; `ORC-KUHQMYUTBK` |  |
-| 2004 | liquid = RuSi | liquid: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | model | [1] Liu 2001 | Table 3, p. 6, row 23; `ORC-YAFBOZM37H` |  |
-| 2003 | liquid = RuSi | liquid: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | experimental | [1] Liu 2001; _cites Weitzer 1988_ | Table 3, p. 6, row 19; `ORC-MUCFCHSSVZ` |  |
-| 2003 | liquid = RuSi | liquid: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | experimental | [1] Liu 2001; _cites Massalski 1990_ | Table 3, p. 6, row 21; `ORC-WHK7SGK7FG` |  |
+| 2143 | congruent melting: liquid = RuSi | liquid: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | experimental | [1] Liu 2001; _cites Savitsky 1978_ | Table 3, p. 6, row 22; `ORC-LPRRJ7ZN7O` |  |
+| 2023 | congruent melting: liquid = RuSi | liquid: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | unspecified | [1] Liu 2001; _cites Mann 1995_ | Table 3, p. 6, row 20; `ORC-KUHQMYUTBK` |  |
+| 2004 | congruent melting: liquid = RuSi | liquid: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | model | [1] Liu 2001 | Table 3, p. 6, row 23; `ORC-YAFBOZM37H` |  |
+| 2003 | congruent melting: liquid = RuSi | liquid: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | experimental | [1] Liu 2001; _cites Weitzer 1988_ | Table 3, p. 6, row 19; `ORC-MUCFCHSSVZ` |  |
+| 2003 | congruent melting: liquid = RuSi | liquid: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | experimental | [1] Liu 2001; _cites Massalski 1990_ | Table 3, p. 6, row 21; `ORC-WHK7SGK7FG` |  |
 | 2003 | congruent melting: L \<=> RuSi | L: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | model | [2] Long 2009; _cites Liu 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900931-8) | Table 6, p. 5, row 26; `ORC-YJ4NJH43TO` |  |
 | 2000 | congruent melting: L \<=> RuSi | L: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | model | [2] Long 2009; _cites Du 2001_ | Table 6, p. 5, row 27; `ORC-O2BWHE7WHC` |  |
-| 1983 | liquid = Ru2Si3 | liquid: Ru 0.4, Si 0.6; Ru2Si3: Ru 0.4, Si 0.6 | unspecified | [1] Liu 2001; _cites Weitzer 1988_ | Table 3, p. 6, row 24; `ORC-Y4QOLANPW3` |  |
+| 1983 | congruent melting: liquid = Ru2Si3 | liquid: Ru 0.4, Si 0.6; Ru2Si3: Ru 0.4, Si 0.6 | unspecified | [1] Liu 2001; _cites Weitzer 1988_ | Table 3, p. 6, row 24; `ORC-Y4QOLANPW3` |  |
 | 1981 | congruent melting: L \<=> RuSi | L: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | model | [2] Long 2009 | Table 6, p. 5, row 28; `ORC-EBIPFUKWMH` |  |
 | 1976 | congruent melting: L \<=> Ru2Si3 | L: Ru 0.4, Si 0.6; Ru2Si3: Ru 0.4, Si 0.6 | model | [2] Long 2009; _cites Liu 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900931-8) | Table 6, p. 5, row 30; `ORC-JOJ7SAV3MY` |  |
-| 1976 | liquid = Ru2Si3 | liquid: Ru 0.4, Si 0.6; Ru2Si3: Ru 0.4, Si 0.6 | model | [1] Liu 2001 | Table 3, p. 6, row 25; `ORC-W3T3CQVWWC` |  |
+| 1976 | congruent melting: liquid = Ru2Si3 | liquid: Ru 0.4, Si 0.6; Ru2Si3: Ru 0.4, Si 0.6 | model | [1] Liu 2001 | Table 3, p. 6, row 25; `ORC-W3T3CQVWWC` |  |
 | 1973 | congruent melting: L \<=> Ru2Si3 | L: Ru 0.4, Si 0.6; Ru2Si3: Ru 0.4, Si 0.6 | experimental | [2] Long 2009; _cites Obrowski 1965_ | Table 6, p. 5, row 29; `ORC-25ZEV55YUA` |  |
 | 1973 | congruent melting: L \<=> RuSi | L: Ru 0.5, Si 0.5; RuSi: Ru 0.5, Si 0.5 | experimental | [2] Long 2009; _cites Obrowski 1965_ | Table 6, p. 5, row 25; `ORC-YVKPQESAOL` |  |
 | 1968 | liquid = RuSi + Ru2Si3 | liquid: Si 0.568; RuSi: Si 0.5; Ru2Si3: Si 0.6 | model | [1] Liu 2001 | Table 3, p. 6, row 3; `ORC-4XBJ5CE5VX` |  |
@@ -158,10 +158,8 @@ Table: Invariant reactions reported in the literature for the Ru–Si system (59
 | 1809 | liquid = (Ru) + Ru2Si | liquid: Si 0.292; (Ru): Si 0.0452; Ru2Si: Si 0.333 | model | [1] Liu 2001 | Table 3, p. 6, row 15; `ORC-PSND3AYBNV` |  |
 | 1778 | liquid = (Ru) + Ru2Si | liquid: Si 0.3; Ru2Si: Ru 0.666667, Si 0.333333 | experimental | [1] Liu 2001; _cites Weitzer 1988_ | Table 3, p. 6, row 13; `ORC-RUWPMH7XKH` |  |
 | 1763 | liquid = (Ru) + Ru2Si | Ru2Si: Ru 0.666667, Si 0.333333 | experimental | [1] Liu 2001; _cites Savitsky 1978_ | Table 3, p. 6, row 14; `ORC-SMMWMY3RZC` |  |
-| 1643 | eutectic: liquid -> Ru2Si3 + (Si) |  | experimental | [1] Liu 2001; _cites Weitzer 1988_ | p. 1; `ORC-BPHTMGFIGK.971a3b` | “Three eutectic and two peritectic transformations were identified, E1: liquid5Ru 2 Si 3 1(Si) at 1573 K, instead of 1643 K in Ref. \[6\].” |
 | 1643 | liquid = Ru2Si3 + Diamond | liquid: Si 0.83; Ru2Si3: Si 0.6; Diamond: Si 0.97 | unspecified | [1] Liu 2001; _cites Weitzer 1988_ | Table 3, p. 6, row 5; `ORC-ROPKGZGL5Y` |  |
 | 1573 | eutectic: L \<=> Ru2Si3 + Diamond (Si) | Ru2Si3: Ru 0.4, Si 0.6 | experimental | [2] Long 2009; _cites Perring 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900911-6) | Table 6, p. 5, row 21; `ORC-7MOYIU5DWL` |  |
-| 1573 | eutectic: liquid -> Ru2Si3 + (Si) |  | experimental | [1] Liu 2001; _cites Perring 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900911-6) | p. 1; `ORC-BPHTMGFIGK.fe6e35` | “Three eutectic and two peritectic transformations were identified, E1: liquid5Ru 2 Si 3 1(Si) at 1573 K, instead of 1643 K in Ref. \[6\].” |
 | 1573 | liquid = Ru2Si3 + Diamond | Ru2Si3: Ru 0.4, Si 0.6; Diamond: Si 1 | experimental | [1] Liu 2001; _cites Perring 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900911-6) | Table 3, p. 6, row 4; `ORC-NWS6KGF2RX` |  |
 | 1572 | eutectic: L \<=> Ru2Si3 + Diamond (Si) | L: Si 0.88; Ru2Si3: Ru 0.4, Si 0.6 | model | [2] Long 2009 | Table 6, p. 5, row 24; `ORC-PCNOOKCNMB` |  |
 | 1571 | eutectic: L \<=> Ru2Si3 + Diamond (Si) | L: Si 0.86; Ru2Si3: Ru 0.4, Si 0.6 | model | [2] Long 2009; _cites Liu 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900931-8) | Table 6, p. 5, row 22; `ORC-G6O35LQ54D` |  |
@@ -226,24 +224,13 @@ Table: Enthalpies of formation, Ru–Si system (40)
 
 ## Other properties
 
-### Phase transition (12)
+### Phase transition (1)
 
 Table: Phase transition, Ru–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1235 K | 1235 | other | experimental | [2] Long 2009; _cites Ivanenko 2002_ [doi](https://doi.org/10.1016/s0022-0248%2801%2902381-8) | p. 1; `ORC-7NTKIJKGZ4` | “Recently, a new phase, RuSi2 , has been observed in the form of inclusions in Ru2 Si3 single crystals and formed peritectoidally at 1235 K \[20\].” |
-| Phase transition | 1578 K | 1578 |  | experimental | [1] Liu 2001; _cites Buschinger 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2903021-6) | p. 2; `ORC-ZOFQNLMZFB` | “Buschinger et al. \[9\] found a phase transition in stoichiometric RuSi from the high temperature CsCl-structure to the low temperature FeSi-type structure at about 1578 K, with the transition temperature decreasing rapidly with increasing Ru-excess.” |
-| Phase transition | 1778 K | 1778 | liquid -> (Ru) + Ru2Si | experimental | [1] Liu 2001; _cites Weitzer 1988_ | p. 1; `ORC-GOKKHKXZRK.5b426b` | “E3: liquid5(Ru)1Ru 2 Si at 1813 K, instead of 1778 K in Ref. \[6\].” |
-| Phase transition | 1813 K | 1813 | liquid -> (Ru) + Ru2Si | experimental | [1] Liu 2001; _cites Perring 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900911-6) | p. 1; `ORC-GOKKHKXZRK.8baa14` | “E3: liquid5(Ru)1Ru 2 Si at 1813 K, instead of 1778 K in Ref. \[6\].” |
-| Phase transition | 1817 K | 1817 | liquid + Ru4Si3 -> Ru2Si | experimental | [1] Liu 2001; _cites Perring 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900911-6) | p. 1; `ORC-CZKVHNPH3Z` | “P1: liquid1Ru 4 Si 3 5Ru 2 Si at 1817 K.” |
-| Phase transition | 1833 K | 1833 | liquid + RuSi -> Ru4Si3 | experimental | [1] Liu 2001 | p. 2; `ORC-AVDJ6AU2GD.d441ce` | “P2: liquid1RuSi5Ru 4 Si 3 at 1833 K instead of 1968 K in Ref. \[6\].” |
-| Phase transition | 1953 K | 1953 | liquid -> Ru2Si3 + RuSi | experimental | [1] Liu 2001 | p. 1; `ORC-KF3PWYN7QQ.fa1617` | “E2: liquid5Ru 2 Si 3 1RuSi at 1953 K, similar to 1963 K in Ref. \[6\].” |
-| Phase transition | 1963 K | 1963 | liquid -> Ru2Si3 + RuSi | experimental | [1] Liu 2001; _cites Weitzer 1988_ | p. 1; `ORC-KF3PWYN7QQ.f5e862` | “E2: liquid5Ru 2 Si 3 1RuSi at 1953 K, similar to 1963 K in Ref. \[6\].” |
-| Phase transition | 1968 K | 1968 | liquid + RuSi -> Ru4Si3 | experimental | [1] Liu 2001; _cites Weitzer 1988_ | p. 2; `ORC-AVDJ6AU2GD.4d6753` | “P2: liquid1RuSi5Ru 4 Si 3 at 1833 K instead of 1968 K in Ref. \[6\].” |
-| Phase transition | 2003 K | 2003 |  | experimental | [1] Liu 2001; _cites Weitzer 1988_ | p. 5; `ORC-UN4Z5ZCWUK.d9587b` | “It should be pointed out that the reported melting points of RuSi differ greatly, from 2143 K \[29\], 2023 K \[22\] to 2003 K \[6,30\].” |
-| Phase transition | 2023 K | 2023 |  | experimental | [1] Liu 2001; _cites Mann 1995_ | p. 5; `ORC-UN4Z5ZCWUK.2d1b0c` | “It should be pointed out that the reported melting points of RuSi differ greatly, from 2143 K \[29\], 2023 K \[22\] to 2003 K \[6,30\].” |
-| Phase transition | 2143 K | 2143 |  | experimental | [1] Liu 2001; _cites Savitsky 1978_ | p. 5; `ORC-UN4Z5ZCWUK.bdc211` | “It should be pointed out that the reported melting points of RuSi differ greatly, from 2143 K \[29\], 2023 K \[22\] to 2003 K \[6,30\].” |
 
 ## Sources
 

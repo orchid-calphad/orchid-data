@@ -49,7 +49,7 @@ Table: Invariant reactions reported in the literature for the Li–Mg system (1)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 865.2 | eutectic: Liquid -> bcc-A2 + hcp-A3 | L: Mg 0.774; bcc-A2: Mg 0.76; hcp-A3: Mg 0.834 | model | [1] Hämäläinen 1998 | Table I, p. 228, row 1; `ORC-IYZ2LDMQP3` |  |
+| 865.2 | eutectic: Liquid -> bcc-A2 + hcp-A3 | L: Mg 0.774; bcc-A2: Mg 0.76; hcp-A3: Mg 0.834 | model | [1] (ed.) 1998 | Table I, p. 228, row 1; `ORC-IYZ2LDMQP3` |  |
 
 ## Other properties
 
@@ -59,13 +59,13 @@ Table: Phase transition, Li–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 867.4 K | 867.4 | other: Liquid -> bcc-A2; _L: Mg 0.727; bcc-A2: Mg 0.727_ | model | [1] Hämäläinen 1998 | Table I, p. 228, row 2; `ORC-FUOQGYJQO2` |  |
+| Phase transition | 867.4 K | 867.4 | other: Liquid -> bcc-A2; _L: Mg 0.727; bcc-A2: Mg 0.727_ | model | [1] (ed.) 1998 | Table I, p. 228, row 2; `ORC-FUOQGYJQO2` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+1. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 
 ## Please cite
 

@@ -66,8 +66,8 @@ Table: Uncertainty budget of the literature values of Mn3O4
 | -201.266 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
 | -201.206 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
 | -201.206 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
-| -198.364 | kJ/mol-atom |  | 7.143e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -198.364 | kJ/mol-atom |  | 7.143e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -198.364 | kJ/mol-atom |  | 7.143e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -198.364 | kJ/mol-atom |  | 7.143e-4 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -196.78 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
 | -196.78 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
 | -196.181 | kJ/mol-atom |  | 7.143e-4 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |

@@ -27,7 +27,7 @@ Table: Phases of the Ti–V system (5)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ti-v:bcc-a2)
 
 Names (9): _corpus: _corpus:phase:ti-v:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:TiV-02Gho-LB.tdb:BCC_A2, tdb:TiV-16Yan.tdb:BCC_A2, tdb:TiV-18Hu.tdb:BCC_A2, tdb:TiV-20Hu-3g.tdb:BCC_A2, tdb:TiV-90Sau.tdb:BCC_A2, tdb:TiV-98Sau.tdb:BCC_A2, tdb:TiV-99Lee.tdb:BCC_A2  
 
 
@@ -82,7 +82,7 @@ _tdb: _tdb:TiV-02Gho-LB.tdb:BCC_A2, tdb:TiV-16Yan.tdb:BCC_A2, tdb:TiV-18Hu.tdb:B
 32: CONST BCC_A2 : TI% V% : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/0364-5916(90)90040-7](https://doi.org/10.1016/0364-5916%2890%2990040-7) N. Saunders, Report to NPL contract No. 022805/10B, 1990. Cited from K.C. Hari Kumar, P. Wollants, L. Delaey, Calphad, 18, 71-79(1994).  
 _assessment that models this phase_
@@ -96,8 +96,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1361/105497102770331569](https://doi.org/10.1361/105497102770331569) G. Ghosh, Thermodynamic and kinetic modeling of the Cr-Ti-V system, JPE 23, 310-328 (2002).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## OMEGA_C32 (Ti–V)
 
@@ -308,7 +306,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ti-v:liquid)
 
 Names (10): _corpus: _corpus:phase:ti-v:liquid  
-_paper: _paper:10.1016/j.intermet.2020.106791:liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+_paper: _paper:10.1016/j.intermet.2020.106791:liquid, paper:sha256-85fd53a1a176b694:Liquid  
 _tdb: _tdb:TiV-02Gho-LB.tdb:LIQUID, tdb:TiV-16Yan.tdb:LIQUID, tdb:TiV-18Hu.tdb:LIQUID, tdb:TiV-20Hu-3g.tdb:LIQUID, tdb:TiV-90Sau.tdb:LIQUID, tdb:TiV-98Sau.tdb:LIQUID, tdb:TiV-99Lee.tdb:LIQUID  
 
 
@@ -363,7 +361,7 @@ _tdb: _tdb:TiV-02Gho-LB.tdb:LIQUID, tdb:TiV-16Yan.tdb:LIQUID, tdb:TiV-18Hu.tdb:L
 22: CONST LIQUID:L : TI V : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.intermet.2020.106791](https://doi.org/10.1016/j.intermet.2020.106791) Biao Hu, Soumya Sridar, Liangyan Hao, Wei Xiong, A new thermodynamic modeling of the Ti–V system including the metastable ω phase, Intermetallics 122, 106791 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -377,8 +375,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1361/105497102770331569](https://doi.org/10.1361/105497102770331569) G. Ghosh, Thermodynamic and kinetic modeling of the Cr-Ti-V system, JPE 23, 310-328 (2002).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

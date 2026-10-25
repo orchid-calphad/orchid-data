@@ -1,10 +1,10 @@
 # O–Y system
 
-> O–Y system: 48 accepted literature values (phase transition 23, invariant reaction 12, heat capacity / entropy / enthalpy 7, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Y system: 40 accepted literature values (phase transition 17, invariant reaction 10, heat capacity / entropy / enthalpy 7, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-Y.html · Markdown: https://data.orchid-project.org/systems/O-Y.md
 
-48 accepted literature values from 3 paper(s) (experimental 30, model 16, unspecified 2); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+40 accepted literature values from 3 paper(s) (experimental 24, model 14, unspecified 2); 0 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-Y.json) · [CSV](https://data.orchid-project.org/systems/O-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-Y) · [phases (10)](https://data.orchid-project.org/phases/pages/O-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-Y.html) · [Markdown](https://data.orchid-project.org/systems/O-Y.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 30 |
-| model | 16 |
+| experimental | 24 |
+| model | 14 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
-| phase transition | 23 |
+| invariant reaction | 10 |
+| phase transition | 17 |
 | formation | 1 |
 | heat capacity / entropy / enthalpy | 7 |
 | crystal structure | 3 |
@@ -31,7 +31,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the O–Y system (12)
+Table: Invariant reactions reported in the literature for the O–Y system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -42,9 +42,7 @@ Table: Invariant reactions reported in the literature for the O–Y system (12)
 | 1943 | congruent melting: L\* -> β-Y\* | L: O 0.226; β-Y: O 0.226 | experimental | [1] Djurovic 2007; _cites Tucker 1964_ | Table 2, p. 6, row 6; `ORC-BX7ZQICMLR` |  |
 | 1943 | congruent melting: L\* -> β-Y\* | L: O 0.23; β-Y: O 0.23 | model | [1] Djurovic 2007 | Table 2, p. 6, row 5; `ORC-TOSKZQ7MDN` |  |
 | 1833 | eutectic: L\* -> β-Y + gα-Y2O3 | L: O 0.373; gα-Y2O3: O 0.6, Y 0.4 | model | [1] Djurovic 2007 | Table 2, p. 6, row 3; `ORC-7ARCVKY5MQ` |  |
-| 1833 | eutectic: liquid -> b-Y + a-Y2O3 |  | model | [2] Swamy 1998 | p. 2; `ORC-CB3WECJNLD.430061` | “A eutectoid reaction b-Y5a-Y1a-Y 2 O 3 at 18.060.5 at.% oxygen and 1453 K, and a eutectic reaction liquid5b-Y1a-Y 2 O 3 at 37.461.0 at.% oxygen and 1833 K have been established \[11,12\].” |
 | 1833 | eutectic: L\* -> β-Y + gα-Y2O3 | L: O 0.373; gα-Y2O3: O 0.6, Y 0.4 | experimental | [1] Djurovic 2007; _cites Tucker 1964_ | Table 2, p. 6, row 4; `ORC-EZMSYUMRIE` |  |
-| 1453 | eutectoid: b-Y -> a-Y + a-Y2O3 |  | model | [2] Swamy 1998 | p. 2; `ORC-CB3WECJNLD.3999d2` | “A eutectoid reaction b-Y5a-Y1a-Y 2 O 3 at 18.060.5 at.% oxygen and 1453 K, and a eutectic reaction liquid5b-Y1a-Y 2 O 3 at 37.461.0 at.% oxygen and 1833 K have been established \[11,12\].” |
 | 1453 | eutectoid: β-Y\* -> α-Y + gα-Y2O3 | β-Y: O 0.18; gα-Y2O3: O 0.6, Y 0.4 | model | [1] Djurovic 2007 | Table 2, p. 6, row 1; `ORC-QBIS6KJNXV` |  |
 | 1453 | eutectoid: β-Y\* -> α-Y + gα-Y2O3 | β-Y: O 0.18; gα-Y2O3: O 0.6, Y 0.4 | experimental | [1] Djurovic 2007; _cites Tucker 1964_ | Table 2, p. 6, row 2; `ORC-TKL4ZIVLII` |  |
 
@@ -56,39 +54,33 @@ Table: Enthalpies of formation, O–Y system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C-Y2O3 | [Y2O3](https://data.orchid-project.org/compounds/Y2O3.html) | -386.56 kJ/mol-atom | 298.15 | model | -383.134 (mp-aaaaadya) | -367.434 (oqmd-3427) | [3] ZINKEVICH 2007 | Table 6.1, p. 24, row 7; `ORC-ZSQUMYSJBZ.0f301d` |  |
+| C-Y2O3 | [Y2O3](https://data.orchid-project.org/compounds/Y2O3.html) | -386.56 kJ/mol-atom | 298.15 | model | -383.134 (mp-aaaaadya) | -367.434 (oqmd-3427) | [2] ZINKEVICH 2007 | Table 6.1, p. 24, row 7; `ORC-ZSQUMYSJBZ.0f301d` |  |
 
 ## Other properties
 
-### Phase transition (23)
+### Phase transition (17)
 
 Table: Phase transition, O–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: O 0.6, Y 0.4_ | unspecified | [3] ZINKEVICH 2007; _cites Ma 2002_ | Table 2.3, p. 10, row 8; `ORC-77D6Y6WR4L` |  |
-| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Husson 1999_ | Table 2.3, p. 10, row 7; `ORC-T7RFWYJ2MV` |  |
-| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Husson 1999_ | Table 2.3, p. 10, row 5; `ORC-3BFLHAF43H` |  |
-| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Atou 1990_ | Table 2.3, p. 10, row 4; `ORC-AGPMNQWHF7` |  |
-| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: O 0.6, Y 0.4_ | unspecified | [3] ZINKEVICH 2007; _cites Ma 2002_ | Table 2.3, p. 10, row 6; `ORC-HGLVJ5ZQO3` |  |
-| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 3; `ORC-NI4FCDDDW6` |  |
-| Phase transition | 1751 K | 1751 |  | experimental | [1] Djurovic 2007 | p. 1; `ORC-IJDI3TZYIW.a33547` | “α-Yttrium (hcp structure) is stable up to 1751 K, where it transforms into β-yttrium (bcc structure).” |
-| Phase transition | 1751 K | 1751 |  | experimental | [2] Swamy 1998 | p. 2; `ORC-TUGYNLLY6K.ce7558` | “a-Yttrium (hcp structure) is stable up to 1751 K, where it transforms into b-yttrium (bcc structure).” |
-| Phase transition | 1795 K | 1795 |  | experimental | [1] Djurovic 2007 | p. 1; `ORC-IJDI3TZYIW.adc1d9` | “β-yttrium melts at 1795 K.” |
-| Phase transition | 1795 K | 1795 |  | experimental | [2] Swamy 1998 | p. 2; `ORC-TUGYNLLY6K.a0ea96` | “b-Yttrium melts at 1795 K.” |
-| Phase transition | 2512 K | 2512 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Swamy 1999_ | Table 2.1, p. 6, row 9; `ORC-5ZYTMGE47H` |  |
-| Phase transition | 2565 K | 2565 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Adylov 1987_ | Table 2.1, p. 6, row 6; `ORC-Q5FXAB2P5X` |  |
-| Phase transition | 2573 K | 2573 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 2; `ORC-77ASUSLLGU` |  |
-| Phase transition | 2573 K | 2573 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Glushkova 1988_ | Table 2.1, p. 6, row 7; `ORC-QAZT3KZOCR` |  |
-| Phase transition | 2581 K | 2581 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Navrotsky 2005_ | Table 2.1, p. 6, row 10; `ORC-44KJOG7SCJ` |  |
-| Phase transition | 2583 K | 2583 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 1; `ORC-WMGNFWXDNV` |  |
-| Phase transition | 2600 K | 2600 |  | experimental | [2] Swamy 1998 | p. 2; `ORC-4PD2LIZC6F` | “a-Y 2 O 3 (C-Y 2 O 3 , space group Ia3 ) is stable from room temperature up to about 2600 K where it transforms into b-Y 2 O 3 .” |
-| Phase transition | 2600 K | 2600 |  | experimental | [1] Djurovic 2007; _cites Hennet 2003_ [doi](https://doi.org/10.1063/1.1621090) | p. 1; `ORC-QOUVV6Q5IA` | “C type transforms at 2600 K to the more closely packed H type P63 /mmc hexagonal phase (β-Y2 O3 ) \[9\].” |
-| Phase transition | 2600 K | 2600 | polymorphic: C \<=> H; _alloy: O 0.6, Y 0.4_ | model | [3] ZINKEVICH 2007 | Table 2.2, p. 8, row 20; `ORC-GLU6TQ3NER` |  |
-| Phase transition | 2600 K | 2600 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Shpilrain 1976_ | Table 2.1, p. 6, row 5; `ORC-HQMKJXHRCI` |  |
-| Phase transition | 2623 K | 2623 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 8; `ORC-EE23IH5G5K` |  |
-| Phase transition | 2623 K | 2623 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 3; `ORC-EOXIXWMGYI` |  |
-| Phase transition | 2663 K | 2663 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 4; `ORC-SAKLIIWPQP` |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: O 0.6, Y 0.4_ | unspecified | [2] ZINKEVICH 2007; _cites Ma 2002_ | Table 2.3, p. 10, row 8; `ORC-77D6Y6WR4L` |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Husson 1999_ | Table 2.3, p. 10, row 7; `ORC-T7RFWYJ2MV` |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Husson 1999_ | Table 2.3, p. 10, row 5; `ORC-3BFLHAF43H` |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Atou 1990_ | Table 2.3, p. 10, row 4; `ORC-AGPMNQWHF7` |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: O 0.6, Y 0.4_ | unspecified | [2] ZINKEVICH 2007; _cites Ma 2002_ | Table 2.3, p. 10, row 6; `ORC-HGLVJ5ZQO3` |  |
+| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 3; `ORC-NI4FCDDDW6` |  |
+| Phase transition | 2512 K | 2512 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Swamy 1999_ | Table 2.1, p. 6, row 9; `ORC-5ZYTMGE47H` |  |
+| Phase transition | 2565 K | 2565 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Adylov 1987_ | Table 2.1, p. 6, row 6; `ORC-Q5FXAB2P5X` |  |
+| Phase transition | 2573 K | 2573 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 2; `ORC-77ASUSLLGU` |  |
+| Phase transition | 2573 K | 2573 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Glushkova 1988_ | Table 2.1, p. 6, row 7; `ORC-QAZT3KZOCR` |  |
+| Phase transition | 2581 K | 2581 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Navrotsky 2005_ | Table 2.1, p. 6, row 10; `ORC-44KJOG7SCJ` |  |
+| Phase transition | 2583 K | 2583 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 1; `ORC-WMGNFWXDNV` |  |
+| Phase transition | 2600 K | 2600 | polymorphic: C \<=> H; _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 2.2, p. 8, row 20; `ORC-GLU6TQ3NER` |  |
+| Phase transition | 2600 K | 2600 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Shpilrain 1976_ | Table 2.1, p. 6, row 5; `ORC-HQMKJXHRCI` |  |
+| Phase transition | 2623 K | 2623 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 8; `ORC-EE23IH5G5K` |  |
+| Phase transition | 2623 K | 2623 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 3; `ORC-EOXIXWMGYI` |  |
+| Phase transition | 2663 K | 2663 | polymorphic: C ⟺ H; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 4; `ORC-SAKLIIWPQP` |  |
 
 ### Heat capacity / entropy / enthalpy (7)
 
@@ -96,13 +88,13 @@ Table: Heat capacity / entropy / enthalpy, O–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔS_ | 4.08 J mol^-1 K^-1 |  | UNKNOWN; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 2; `ORC-MGNLR57VUY.e5876c` |  |
-| Entropy; _printed: ΔS_ | 4.08 J mol−1 K−1 |  | Y2O3; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 2; `ORC-MGNLR57VUY.200bc8` |  |
-| Entropy; _printed: °S_ | 98.96 unknown | 298.15 | C-Y2O3; _alloy: O 0.6, Y 0.4_ | model | [3] ZINKEVICH 2007 | Table 6.1, p. 24, row 7; `ORC-ZSQUMYSJBZ.1e0924` |  |
-| Entropy; _printed: ΔS_ | 18.5 J mol^-1 K^-1 | 2581 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Navrotsky 2005_ | Table 5.1, p. 18, row 4; `ORC-CGSTJXPOW5.ba0a69` |  |
-| Entropy; _printed: ΔS_ | 18.5 J mol−1 K−1 | 2581 | Y2O3; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Navrotsky 2005_ | Table 5.1, p. 18, row 4; `ORC-CGSTJXPOW5.b64de2` |  |
-| Entropy; _printed: ΔS_ | 9.654 J mol^-1 K^-1 | 2600 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Shpilrain 1976_ | Table 5.1, p. 18, row 3; `ORC-HRI6SIPIVS.b1ecf4` |  |
-| Entropy; _printed: ΔS_ | 9.654 J mol−1 K−1 | 2600 | Y2O3; _alloy: O 0.6, Y 0.4_ | experimental | [3] ZINKEVICH 2007; _cites Shpilrain 1976_ | Table 5.1, p. 18, row 3; `ORC-HRI6SIPIVS.a5b718` |  |
+| Entropy; _printed: ΔS_ | 4.08 J mol^-1 K^-1 |  | UNKNOWN; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 2; `ORC-MGNLR57VUY.e5876c` |  |
+| Entropy; _printed: ΔS_ | 4.08 J mol−1 K−1 |  | Y2O3; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 2; `ORC-MGNLR57VUY.200bc8` |  |
+| Entropy; _printed: °S_ | 98.96 unknown | 298.15 | C-Y2O3; _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 6.1, p. 24, row 7; `ORC-ZSQUMYSJBZ.1e0924` |  |
+| Entropy; _printed: ΔS_ | 18.5 J mol^-1 K^-1 | 2581 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Navrotsky 2005_ | Table 5.1, p. 18, row 4; `ORC-CGSTJXPOW5.ba0a69` |  |
+| Entropy; _printed: ΔS_ | 18.5 J mol−1 K−1 | 2581 | Y2O3; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Navrotsky 2005_ | Table 5.1, p. 18, row 4; `ORC-CGSTJXPOW5.b64de2` |  |
+| Entropy; _printed: ΔS_ | 9.654 J mol^-1 K^-1 | 2600 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Shpilrain 1976_ | Table 5.1, p. 18, row 3; `ORC-HRI6SIPIVS.b1ecf4` |  |
+| Entropy; _printed: ΔS_ | 9.654 J mol−1 K−1 | 2600 | Y2O3; _alloy: O 0.6, Y 0.4_ | experimental | [2] ZINKEVICH 2007; _cites Shpilrain 1976_ | Table 5.1, p. 18, row 3; `ORC-HRI6SIPIVS.a5b718` |  |
 
 ### Crystal structure (3)
 
@@ -110,9 +102,9 @@ Table: Crystal structure, O–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 40.385 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | model | [3] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.1b8f79` |  |
-| lattice molar volume | 41.132 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | model | [3] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.cea032` |  |
-| lattice molar volume | 44.804 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | model | [3] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.fae386` |  |
+| lattice molar volume | 40.385 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.1b8f79` |  |
+| lattice molar volume | 41.132 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.cea032` |  |
+| lattice molar volume | 44.804 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.fae386` |  |
 
 ### Other property (2)
 
@@ -120,16 +112,16 @@ Table: Other property, O–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: transition enthalpy_ | 19 kJ mol 21 | 2600 | a-Y2O3 | model | [2] Swamy 1998 | p. 3; `ORC-MEWYU5NTOW` | “This corresponds to a transition enthalpy of 19 kJ mol 21 at → b2600 K, the transition temperature taken here for a ← Y 2 O 3 .” |
-| Other; _printed: enthalpy_ | 68 kJ mol 21 | 2712 |  | model | [2] Swamy 1998 | p. 3; `ORC-PPZ4BO726P` | “For a melting temperature of 2712 K taken here for yttria, the Wu and Pelton entropy would translate to an enthalpy value of about 68 kJ mol 21 .” |
+| Other; _printed: transition enthalpy_ | 19 kJ mol 21 | 2600 | a-Y2O3 | model | [3] Swamy 1998 | p. 3; `ORC-MEWYU5NTOW` | “This corresponds to a transition enthalpy of 19 kJ mol 21 at → b2600 K, the transition temperature taken here for a ← Y 2 O 3 .” |
+| Other; _printed: enthalpy_ | 68 kJ mol 21 | 2712 |  | model | [3] Swamy 1998 | p. 3; `ORC-PPZ4BO726P` | “For a melting temperature of 2712 K taken here for yttria, the Wu and Pelton entropy would translate to an enthalpy value of about 68 kJ mol 21 .” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007). [doi:10.1016/j.calphad.2007.01.010](https://doi.org/10.1016/j.calphad.2007.01.010)
-2. Varghese Swamy, Hans J. Seifert, Fritz Aldinger, Thermodynamic properties of Y2O3 phases and the yttrium–oxygen phase diagram, Journal of Alloys and Compounds 269, 201-207 (1998). [doi:10.1016/s0925-8388(98)00245-x](https://doi.org/10.1016/s0925-8388%2898%2900245-x)
-3. M ZINKEVICH, Thermodynamics of rare earth sesquioxides, Progress in Materials Science 52, 597-647 (2007). [doi:10.1016/j.pmatsci.2006.09.002](https://doi.org/10.1016/j.pmatsci.2006.09.002)
+2. M ZINKEVICH, Thermodynamics of rare earth sesquioxides, Progress in Materials Science 52, 597-647 (2007). [doi:10.1016/j.pmatsci.2006.09.002](https://doi.org/10.1016/j.pmatsci.2006.09.002)
+3. Varghese Swamy, Hans J. Seifert, Fritz Aldinger, Thermodynamic properties of Y2O3 phases and the yttrium–oxygen phase diagram, Journal of Alloys and Compounds 269, 201-207 (1998). [doi:10.1016/s0925-8388(98)00245-x](https://doi.org/10.1016/s0925-8388%2898%2900245-x)
 
 ## Please cite
 

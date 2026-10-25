@@ -36,14 +36,14 @@ Table: Uncertainty budget of the literature values of Pu2C3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -102.09 | kJ/mol (basis unstated) | 11 | 0.005 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 11 |
-| -93.3 | kJ/mol (basis unstated) | 3.3 | 0.05 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
+| -93.3 | kJ/mol (basis unstated) | 3.3 | 0.05 | 21 (kems_vapour, calibrated) |  |  |  | 21 |
 | -88 | kJ/mol (basis unstated) | 8 | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 8 |
-| -82.84 | kJ/mol (basis unstated) | 4 | 0.005 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
-| -73.22 | kJ/mol (basis unstated) |  | 0.005 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
-| -67.53 | kJ/mol (basis unstated) | 4.6 | 0.005 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
-| -66.53 | kJ/mol (basis unstated) | 8 | 0.005 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
-| -55.23 | kJ/mol (basis unstated) | 10.5 | 0.005 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
-| -51.46 | kJ/mol (basis unstated) |  | 0.005 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
+| -82.84 | kJ/mol (basis unstated) | 4 | 0.005 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 16 |
+| -73.22 | kJ/mol (basis unstated) |  | 0.005 | 21 (kems_vapour, calibrated) |  |  |  | 21 |
+| -67.53 | kJ/mol (basis unstated) | 4.6 | 0.005 | 21 (kems_vapour, calibrated) |  |  |  | 21 |
+| -66.53 | kJ/mol (basis unstated) | 8 | 0.005 | 21 (kems_vapour, calibrated) |  |  |  | 21 |
+| -55.23 | kJ/mol (basis unstated) | 10.5 | 0.005 | 21 (kems_vapour, calibrated) |  |  |  | 21 |
+| -51.46 | kJ/mol (basis unstated) |  | 0.005 | 21 (kems_vapour, calibrated) |  |  |  | 21 |
 | -77.06 | kJ/mol (basis unstated) |  | 0.005 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 | -84.73 | kJ/mol (basis unstated) |  | 0.005 | 17.5 (evaluated_compilation, calibrated) |  |  |  | 17.5 |
 | -74.7 | kJ/mol (basis unstated) | 8.35 | 0.05 | 17.5 (evaluated_compilation, calibrated) |  |  |  | 17.5 |

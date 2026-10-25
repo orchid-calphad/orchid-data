@@ -1,25 +1,12 @@
 # Am–U system
 
-> Am–U system: 4 accepted literature values (phase transition 3, invariant reaction 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Am–U system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AM-U.html · Markdown: https://data.orchid-project.org/systems/AM-U.md
 
-4 accepted literature values from 1 paper(s) (model 4); 3 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AM-U.json) · [CSV](https://data.orchid-project.org/systems/AM-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AM-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-U/AmU-10Kur.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AM-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AM-U.html) · [Markdown](https://data.orchid-project.org/systems/AM-U.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 4 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 1 |
-| phase transition | 3 |
 
 ## Calculated phase diagrams
 
@@ -61,32 +48,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | AmU-93Oga.tdb | 902.68 | DHCP (x(U) 0) + FCC_A1 (x(U) 0.01948) + ORTHORHOMBIC_A20 (x(U) 1) |
 
 Convex hulls: [CALPHAD hull AmU-10Kur](https://data.orchid-project.org/hulls/calphad-sgte/AM/AM-U--AmU-10Kur.json) · [CALPHAD hull AmU-93Oga](https://data.orchid-project.org/hulls/calphad-sgte/AM/AM-U--AmU-93Oga.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Am–U system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1380.15 | monotectic |  | model | [1] Perron 2015 | p. 2; `ORC-TQFNPTQ4C2` | “Regarding the Am-U system (Fig. 1a), the model result is characterized by a liquid miscibility gap with a monotectic invariant line at about 1107 °C (1380 K).” |
-
-## Other properties
-
-### Phase transition (3)
-
-Table: Phase transition, Am–U system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1603.15 K | 1603.15 | other | model | [1] Perron 2015 | p. 8; `ORC-DLBEFNYE2F.da6ae3` | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
-| Phase transition | 2405.15 K | 2405.15 | other | model | [1] Perron 2015 | p. 8; `ORC-DLBEFNYE2F.7ad7bd` | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
-| Phase transition | 3007.15 K | 3007.15 | other | model | [1] Perron 2015 | p. 8; `ORC-DLBEFNYE2F.dd2199` | “The top of the liquid miscibility gap, located at 2132 °C, is between the Ogawa's (1330 °C) and Kurata's (2734 °C) predictions.” |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. A. Perron, P.E.A. Turchi, A. Landa, P. Söderlind, B. Ravat, B. Oudot et al., The Pu–U–Am system: An ab initio informed CALPHAD thermodynamic study, Journal of Nuclear Materials 458, 425-441 (2015). [doi:10.1016/j.jnucmat.2014.12.101](https://doi.org/10.1016/j.jnucmat.2014.12.101)
 
 ## Please cite
 

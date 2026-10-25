@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Fe0.638Ta0.362
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -5.4 | kJ/mol (basis unstated) | 1.5 | 0.05 | 28 (solution_reaction_calorimetry, calibrated) |  |  |  | 28 |
+| -5.4 | kJ/mol (basis unstated) | 1.5 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 
 ## Sources
 

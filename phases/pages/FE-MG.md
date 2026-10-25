@@ -26,7 +26,7 @@ Table: Phases of the Fe–Mg system (4)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-mg:bcc-a2)
 
 Names (3): _corpus: _corpus:phase:fe-mg:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_paper: _paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:FeMg-98Tib-LB.tdb:BCC_A2  
 
 
@@ -39,11 +39,6 @@ _tdb: _tdb:FeMg-98Tib-LB.tdb:BCC_A2
 31: CONST BCC_A2 : FE% MG : VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
-
 ## FCC_A1 (Fe–Mg)
 
 - Id: `phase:fe-mg:fcc-a1`; status `assigned`
@@ -53,7 +48,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-mg:fcc-a1)
 
 Names (3): _corpus: _corpus:phase:fe-mg:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+_paper: _paper:sha256-85fd53a1a176b694:fcc-A1  
 _tdb: _tdb:FeMg-98Tib-LB.tdb:FCC_A1  
 
 
@@ -66,11 +61,6 @@ _tdb: _tdb:FeMg-98Tib-LB.tdb:FCC_A1
 26: CONST FCC_A1 : FE% MG : VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
-
 ## HCP_A3 (Fe–Mg)
 
 - Id: `phase:fe-mg:hcp-a3`; status `assigned`
@@ -80,7 +70,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-mg:hcp-a3)
 
 Names (3): _corpus: _corpus:phase:fe-mg:hcp-a3  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+_paper: _paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:FeMg-98Tib-LB.tdb:HCP_A3  
 
 
@@ -93,11 +83,6 @@ _tdb: _tdb:FeMg-98Tib-LB.tdb:HCP_A3
 36: CONST HCP_A3 : FE MG% : VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
-
 ## LIQUID (Fe–Mg)
 
 - Id: `phase:fe-mg:liquid`; status `assigned`
@@ -107,7 +92,7 @@ _reports values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-mg:liquid)
 
 Names (3): _corpus: _corpus:phase:fe-mg:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Liquid"  
+_paper: _paper:sha256-85fd53a1a176b694:Liquid"  
 _tdb: _tdb:FeMg-98Tib-LB.tdb:LIQUID  
 
 
@@ -119,11 +104,6 @@ _tdb: _tdb:FeMg-98Tib-LB.tdb:LIQUID
 20: PHASE LIQUID:L % 1 1 !
 21: CONST LIQUID:L : FE MG : !
 ~~~~
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

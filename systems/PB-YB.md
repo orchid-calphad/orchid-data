@@ -1,10 +1,10 @@
 # Pb–Yb system
 
-> Pb–Yb system: 43 accepted literature values (invariant reaction 21, formation 18, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Yb system: 38 accepted literature values (invariant reaction 20, formation 18) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-YB.html · Markdown: https://data.orchid-project.org/systems/PB-YB.md
 
-43 accepted literature values from 1 paper(s) (experimental 28, model 15); 1 calculated phase diagram(s).
+38 accepted literature values from 1 paper(s) (experimental 23, model 15); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-YB.json) · [CSV](https://data.orchid-project.org/systems/PB-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-YB/PbYb-09Idb.json) · [phases (9)](https://data.orchid-project.org/phases/pages/PB-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-YB.html) · [Markdown](https://data.orchid-project.org/systems/PB-YB.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
+| experimental | 23 |
 | model | 15 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 21 |
-| phase transition | 4 |
+| invariant reaction | 20 |
 | formation | 18 |
 
 ## Calculated phase diagrams
@@ -53,25 +52,24 @@ Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/PB/
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pb–Yb system (21)
+Table: Invariant reactions reported in the literature for the Pb–Yb system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1519 | Liq ↔PbYb2 | Liq: Pb 0.333333, Yb 0.666667; PbYb2: Pb 0.333333, Yb 0.666667 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 15; `ORC-LBY34H2LOI` |  |
-| 1518 | Liq ↔PbYb2 | Liq: Pb 0.333333, Yb 0.666667; PbYb2: Pb 0.333333, Yb 0.666667 | model | [1] Idbenali 2009 | Table 3, p. 5, row 16; `ORC-N7UENZX762` |  |
-| 1423 | peritectic |  | experimental | [1] Idbenali 2009; _cites O 1967_ | p. 1; `ORC-AYUOJ65ZQX.55b421` | “Four intermetallic compounds were described: Pb3 Yb, PbYb and PbYb2 , which melt congruently at 1013 K, 1383 K and 1519 K, respectively; while Pb3 Yb5 is a compound formed by a peritectic reaction at 1423 K (Fig. 1).” |
+| 1519 | congruent melting: Liq ↔PbYb2 | Liq: Pb 0.333333, Yb 0.666667; PbYb2: Pb 0.333333, Yb 0.666667 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 15; `ORC-LBY34H2LOI` |  |
+| 1518 | congruent melting: Liq ↔PbYb2 | Liq: Pb 0.333333, Yb 0.666667; PbYb2: Pb 0.333333, Yb 0.666667 | model | [1] Idbenali 2009 | Table 3, p. 5, row 16; `ORC-N7UENZX762` |  |
 | 1423 | Liq + PbYb2 Pb3Yb5 | PbYb2: Pb 0.333333, Yb 0.666667; Pb3Yb5: Pb 0.375, Yb 0.625 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 13; `ORC-B3JXCERDKH` |  |
 | 1423 | Liq + PbYb2 Pb3Yb5 | PbYb2: Pb 0.333333, Yb 0.666667; Pb3Yb5: Pb 0.375, Yb 0.625 | model | [1] Idbenali 2009 | Table 3, p. 5, row 14; `ORC-QSH5V2AS5R` |  |
-| 1391 | Liq ↔βPbYb | Liq: Pb 0.5, Yb 0.5; βPbYb: Pb 0.5, Yb 0.5 | model | [1] Idbenali 2009 | Table 3, p. 5, row 8; `ORC-OOBSC6CXNE` |  |
-| 1389 | Liq ↔βPbYb | Liq: Pb 0.5, Yb 0.5; βPbYb: Pb 0.5, Yb 0.5 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 7; `ORC-GXZVDSF5UC` |  |
+| 1391 | congruent melting: Liq ↔βPbYb | Liq: Pb 0.5, Yb 0.5; βPbYb: Pb 0.5, Yb 0.5 | model | [1] Idbenali 2009 | Table 3, p. 5, row 8; `ORC-OOBSC6CXNE` |  |
+| 1389 | congruent melting: Liq ↔βPbYb | Liq: Pb 0.5, Yb 0.5; βPbYb: Pb 0.5, Yb 0.5 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 7; `ORC-GXZVDSF5UC` |  |
 | 1360 | Liq ↔Pb3Yb5 + βPbYb | Pb3Yb5: Pb 0.375, Yb 0.625; βPbYb: Pb 0.5, Yb 0.5 | model | [1] Idbenali 2009 | Table 3, p. 5, row 12; `ORC-LQUPZU2XRQ` |  |
 | 1359 | Liq ↔Pb3Yb5 + βPbYb | Pb3Yb5: Pb 0.375, Yb 0.625; βPbYb: Pb 0.5, Yb 0.5 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 11; `ORC-NFPWTFPMIV` |  |
 | 1060 | Liq + (βYb) ↔ (γYb) |  | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 19; `ORC-SPHG5FX447` |  |
 | 1058 | Liq + (βYb) ↔ (γYb) |  | model | [1] Idbenali 2009 | Table 3, p. 5, row 20; `ORC-CTDZEPWAYM` |  |
 | 1044 | Liq ↔ (βYb)+ PbYb2 | PbYb2: Pb 0.333333, Yb 0.666667 | model | [1] Idbenali 2009 | Table 3, p. 5, row 18; `ORC-IDGBBUA6DF` |  |
 | 1042 | Liq ↔ (βYb)+ PbYb2 | PbYb2: Pb 0.333333, Yb 0.666667 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 17; `ORC-ROHAWONEUA` |  |
-| 1015 | Liq ↔Pb3Yb | Liq: Pb 0.75, Yb 0.25; Pb3Yb: Pb 0.75, Yb 0.25 | model | [1] Idbenali 2009 | Table 3, p. 5, row 4; `ORC-FWPPEIXP7G` |  |
-| 1013 | Liq ↔Pb3Yb | Liq: Pb 0.75, Yb 0.25; Pb3Yb: Pb 0.75, Yb 0.25 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 3; `ORC-RKZCPOORST` |  |
+| 1015 | congruent melting: Liq ↔Pb3Yb | Liq: Pb 0.75, Yb 0.25; Pb3Yb: Pb 0.75, Yb 0.25 | model | [1] Idbenali 2009 | Table 3, p. 5, row 4; `ORC-FWPPEIXP7G` |  |
+| 1013 | congruent melting: Liq ↔Pb3Yb | Liq: Pb 0.75, Yb 0.25; Pb3Yb: Pb 0.75, Yb 0.25 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 3; `ORC-RKZCPOORST` |  |
 | 990 | Liq ↔Pb3Yb+ βPbYb | Pb3Yb: Pb 0.75, Yb 0.25; βPbYb: Pb 0.5, Yb 0.5 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 5; `ORC-RH2IZRLRUY` |  |
 | 984.1 | Liq ↔Pb3Yb+ βPbYb | Pb3Yb: Pb 0.75, Yb 0.25; βPbYb: Pb 0.5, Yb 0.5 | model | [1] Idbenali 2009 | Table 3, p. 5, row 6; `ORC-U4LM2OHN7P` |  |
 | 778 | αPbYb βPbYb | αPbYb: Pb 0.5, Yb 0.5; βPbYb: Pb 0.5, Yb 0.5 | experimental | [1] Idbenali 2009; _cites O 1967_ | Table 3, p. 5, row 9; `ORC-5TE7RU7ONE` |  |
@@ -105,19 +103,6 @@ Table: Enthalpies of formation, Pb–Yb system (18)
 | βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -64 kJ/mol-atom ± 2.5 | 298.15 | experimental |  | -54.442 (oqmd-52379) | [1] Idbenali 2009; _cites Sommer 1995_ [doi](https://doi.org/10.1016/0966-9795%2894%29p3682-e) | Table 4, p. 6, row 10; `ORC-KLJ64I4VTI.984716` |  |
 | βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -62.16 kJ/mol-atom |  | model |  | -54.442 (oqmd-52379) | [1] Idbenali 2009 | Table 4, p. 6, row 13; `ORC-VSMPRSU7KL.07f5e9` |  |
 | βPbYb | [PbYb](https://data.orchid-project.org/compounds/PbYb.html) | -57 kJ/mol-atom ± 1 | 298.15 | experimental |  | -54.442 (oqmd-52379) | [1] Idbenali 2009; _cites Schiffman 1982_ [doi](https://doi.org/10.1021/j100216a030) | Table 4, p. 6, row 12; `ORC-5ESVYXLKIK.4d736d` |  |
-
-## Other properties
-
-### Phase transition (4)
-
-Table: Phase transition, Pb–Yb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 773 K | 773 | polymorphic | experimental | [1] Idbenali 2009 | p. 1; `ORC-7WO357PETU` | “In addition, a polymorphic transformation was reported for the PbYb compound around 773 K and the crystal structure of the high temperature modification was determined.” |
-| Phase transition | 1013 K | 1013 | congruent transformation | experimental | [1] Idbenali 2009; _cites O 1967_ | p. 1; `ORC-AYUOJ65ZQX.999dab` | “Four intermetallic compounds were described: Pb3 Yb, PbYb and PbYb2 , which melt congruently at 1013 K, 1383 K and 1519 K, respectively; while Pb3 Yb5 is a compound formed by a peritectic reaction at 1423 K (Fig. 1).” |
-| Phase transition | 1383 K | 1383 | congruent transformation | experimental | [1] Idbenali 2009; _cites O 1967_ | p. 1; `ORC-AYUOJ65ZQX.d5043d` | “Four intermetallic compounds were described: Pb3 Yb, PbYb and PbYb2 , which melt congruently at 1013 K, 1383 K and 1519 K, respectively; while Pb3 Yb5 is a compound formed by a peritectic reaction at 1423 K (Fig. 1).” |
-| Phase transition | 1519 K | 1519 | congruent transformation | experimental | [1] Idbenali 2009; _cites O 1967_ | p. 1; `ORC-AYUOJ65ZQX.2d84a6` | “Four intermetallic compounds were described: Pb3 Yb, PbYb and PbYb2 , which melt congruently at 1013 K, 1383 K and 1519 K, respectively; while Pb3 Yb5 is a compound formed by a peritectic reaction at 1423 K (Fig. 1).” |
 
 ## Sources
 

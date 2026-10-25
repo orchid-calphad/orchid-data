@@ -1,10 +1,10 @@
 # N–U system
 
-> N–U system: 538 accepted literature values (heat capacity / entropy / enthalpy 380, formation 101, invariant reaction 29, phase equilibrium 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> N–U system: 534 accepted literature values (heat capacity / entropy / enthalpy 380, formation 101, invariant reaction 29, phase equilibrium 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/N-U.html · Markdown: https://data.orchid-project.org/systems/N-U.md
 
-538 accepted literature values from 1 paper(s) (experimental 190, model 348); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+534 accepted literature values from 1 paper(s) (experimental 186, model 348); 0 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/N-U.json) · [CSV](https://data.orchid-project.org/systems/N-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-U) · [phases (11)](https://data.orchid-project.org/phases/pages/N-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/N-U.html) · [Markdown](https://data.orchid-project.org/systems/N-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 190 |
+| experimental | 186 |
 | model | 348 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 29 |
-| phase transition | 5 |
+| phase transition | 1 |
 | phase equilibrium | 23 |
 | formation | 101 |
 | heat capacity / entropy / enthalpy | 380 |
@@ -44,9 +44,9 @@ Table: Invariant reactions reported in the literature for the N–U system (29)
 | 1622 | G + (UN)(fcc_B1) \<=> β-U2N3 | β-U2N3: N 0.586777, U 0.413223 | model | [1] Chevalier 2000 | Table 1, p. 2, row 8; `ORC-BHUON5UX34` |  |
 | 1618 | G + (UN)(fcc_B1) \<=> β-U2N3 | β-U2N3: N 0.586777, U 0.413223 | experimental | [1] Chevalier 2000; _cites Shunk 1969_ | Table 1, p. 2, row 7; `ORC-Q7LB2EGABQ` |  |
 | 1523 | G + β-U2N3 \<=> α-U2N3 | β-U2N3: N 0.586777, U 0.413223; α-U2N3: N 0.6, U 0.4 | experimental | [1] Chevalier 2000; _cites Shunk 1969_ | Table 1, p. 2, row 11; `ORC-GAGXGBMAP7` |  |
-| 1408 | L \<=> γ-U(bcc_A2) |  | model | [1] Chevalier 2000 | Table 1, p. 2, row 18; `ORC-CJCYFS2W3M` |  |
+| 1408 | congruent melting: L \<=> γ-U(bcc_A2) |  | model | [1] Chevalier 2000 | Table 1, p. 2, row 18; `ORC-CJCYFS2W3M` |  |
 | 1408 | G + β-U2N3 \<=> α-U2N3 | β-U2N3: N 0.586777, U 0.413223; α-U2N3: N 0.6, U 0.4 | model | [1] Chevalier 2000 | Table 1, p. 2, row 12; `ORC-N4G2DG46HL` |  |
-| 1408 | L \<=> γ-U(bcc_A2) |  | experimental | [1] Chevalier 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 17; `ORC-QC7BCLEQ2K` |  |
+| 1408 | congruent melting: L \<=> γ-U(bcc_A2) |  | experimental | [1] Chevalier 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 17; `ORC-QC7BCLEQ2K` |  |
 | 1408 | L \<=> UN(fcc_B1) + γ-U(bcc_A2) | L: U 0.99994 | model | [1] Chevalier 2000 | Table 1, p. 2, row 20; `ORC-ZW5N4AZVR6` |  |
 | 1405 | L \<=> UN(fcc_B1) + γ-U(bcc_A2) |  | experimental | [1] Chevalier 2000; _cites Okamoto 1997_ [doi](https://doi.org/10.1007/bf02646768) | Table 1, p. 2, row 23; `ORC-HRG5RXUAKS` |  |
 | 1405 | G + β-U2N3 \<=> α-U2N3 | β-U2N3: N 0.586777, U 0.413223; α-U2N3: N 0.6, U 0.4 | experimental | [1] Chevalier 2000; _cites Okamoto 1997_ [doi](https://doi.org/10.1007/bf02646768) | Table 1, p. 2, row 13; `ORC-VASMDLD2ER` |  |
@@ -56,10 +56,10 @@ Table: Invariant reactions reported in the literature for the N–U system (29)
 | 1393 | β-U2N3 \<=> α-U2N3 + (UN)(fcc_B1) | β-U2N3: N 0.586777, U 0.413223; α-U2N3: N 0.6, U 0.4 | experimental | [1] Chevalier 2000; _cites Shunk 1969_ | Table 1, p. 2, row 14; `ORC-IEYGSOG3ZM` |  |
 | 1228 | β-U2N3 \<=> α-U2N3 + (UN)(fcc_B1) | β-U2N3: N 0.586777, U 0.413223; α-U2N3: N 0.6, U 0.4 | model | [1] Chevalier 2000 | Table 1, p. 2, row 15; `ORC-42DVNJERUM` |  |
 | 1213 | β-U2N3 \<=> α-U2N3 + (UN)(fcc_B1) | β-U2N3: N 0.586777, U 0.413223; α-U2N3: N 0.6, U 0.4 | experimental | [1] Chevalier 2000; _cites Okamoto 1997_ [doi](https://doi.org/10.1007/bf02646768) | Table 1, p. 2, row 16; `ORC-JZZKTG6VW3` |  |
-| 1049 | γ-U(bcc_A2) \<=> β-U(tet) |  | experimental | [1] Chevalier 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 24; `ORC-3V3UNPLVAM` |  |
-| 1049 | γ-U(bcc_A2) \<=> β-U(tet) |  | model | [1] Chevalier 2000 | Table 1, p. 2, row 25; `ORC-OEFD4Y2BQC` |  |
-| 942 | β-U(tet) \<=> α-U(ort_A20) | β-U(tet): N 0.6, U 0.4; α-U(ort_A20): N 0.6, U 0.4 | experimental | [1] Chevalier 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 26; `ORC-56MTMSNUJB` |  |
-| 942 | β-U(tet) \<=> α-U(ort_A20) | β-U(tet): N 0.6, U 0.4; α-U(ort_A20): N 0.6, U 0.4 | model | [1] Chevalier 2000 | Table 1, p. 2, row 27; `ORC-OYV6NUHUAR` |  |
+| 1049 | polymorphic: γ-U(bcc_A2) \<=> β-U(tet) |  | experimental | [1] Chevalier 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 24; `ORC-3V3UNPLVAM` |  |
+| 1049 | polymorphic: γ-U(bcc_A2) \<=> β-U(tet) |  | model | [1] Chevalier 2000 | Table 1, p. 2, row 25; `ORC-OEFD4Y2BQC` |  |
+| 942 | polymorphic: β-U(tet) \<=> α-U(ort_A20) | β-U(tet): N 0.6, U 0.4; α-U(ort_A20): N 0.6, U 0.4 | experimental | [1] Chevalier 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 26; `ORC-56MTMSNUJB` |  |
+| 942 | polymorphic: β-U(tet) \<=> α-U(ort_A20) | β-U(tet): N 0.6, U 0.4; α-U(ort_A20): N 0.6, U 0.4 | model | [1] Chevalier 2000 | Table 1, p. 2, row 27; `ORC-OYV6NUHUAR` |  |
 | 938 | β-U(tet) \<=> α-U(ort_A20) + UN(fcc_B1) | α-U(ort_A20): N 0.6, U 0.4 | experimental | [1] Chevalier 2000; _cites Okamoto 1997_ [doi](https://doi.org/10.1007/bf02646768) | Table 1, p. 2, row 29; `ORC-33HGE5NRJN` |  |
 | 938 | β-U(tet) \<=> α-U(ort_A20) + UN(fcc_B1) | α-U(ort_A20): N 0.6, U 0.4 | experimental | [1] Chevalier 2000; _cites Shunk 1969_ | Table 1, p. 2, row 28; `ORC-FNGYABVKO5` |  |
 
@@ -175,16 +175,12 @@ Table: Enthalpies of formation, N–U system (101)
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (1)
 
 Table: Phase transition, N–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1393 K | 1393 |  | experimental | [1] Chevalier 2000 | p. 10; `ORC-N4KKHIZMWB` | “The a-U2 N3 bcc () b-U2 N3 (hexagonal) transition temperature of the sesquinitride was found to be 1393 K (1120°C), but may depend on composition.” |
-| Phase transition | 1618 K | 1618 | other | experimental | [1] Chevalier 2000; _cites Bugl 1964_ | p. 6; `ORC-2EC4YZLSQ4.b06dbc` | “UN decomposed at 3073 K (2800°C) and N3 U2 at 1618 K (1345°C) at P N2   1 atm.” |
-| Phase transition | 1623 K | 1623 | other: sesquinitride = UN + nitrogen | experimental | [1] Chevalier 2000 | p. 10; `ORC-6E5WWRAVN2` | “The sesquinitride decomposes between UN and nitrogen at 1623 K (1350°C) at 1 atm.” |
-| Phase transition | 3073 K | 3073 | other | experimental | [1] Chevalier 2000; _cites Bugl 1964_ | p. 6; `ORC-2EC4YZLSQ4.188f06` | “UN decomposed at 3073 K (2800°C) and N3 U2 at 1618 K (1345°C) at P N2   1 atm.” |
 | Phase transition | 3123 K | 3123 | congruent transformation | experimental | [1] Chevalier 2000; _cites Bugl 1964_ | p. 6; `ORC-SP3R5JC7HW` | “Cast specimens of UN were heated in a controlled nitrogen-pressure apparatus in order to study the decomposition behaviour: at pressures of nitrogen below 2.5 atm, UN decomposed at temperatures below 3123 K (2850°C), while at pressures greater than 2.5 atm, it melted congruently at 3123 K (2850°C).” |
 
 ### Phase equilibrium (23)
@@ -463,7 +459,6 @@ Table: Heat capacity / entropy / enthalpy, N–U system
 | Heat content; _printed: HT - H298_ | 0 J/mol | 298.15 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 1; `ORC-B4HAGYSO5A.3398bb` |  |
 | Heat content; _printed: HT - H298_ | 0 J/mol | 298.15 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 44; `ORC-JFRMZRZXPB.74256c` |  |
 | Heat content; _printed: HT - H298_ | 0 J/mol | 298.15 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 2; `ORC-LZOEUEVOTH.1a180a` |  |
-| Heat content; _printed: HT - H800_ | 0 J/mol | 298.15 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 1; `ORC-Z66JG3653R.ec0726` |  |
 | Heat content; _printed: HT - H298_ | 2540 J/mol | 350 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 46; `ORC-MSEFMBXKEZ.24234c` |  |
 | Heat content; _printed: HT - H298_ | 2205 J/(mol K) | 386.8 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 26; `ORC-EOTZEFDC2K` |  |
 | Heat content; _printed: HT - H298_ | 2450 J/(mol K) | 397.8 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 27; `ORC-NKV6PUREGM` |  |
@@ -471,7 +466,6 @@ Table: Heat capacity / entropy / enthalpy, N–U system
 | Heat content; _printed: HT - H298_ | 5059 J/mol | 400 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 9; `ORC-LS4P3VWHOZ.3a5084` |  |
 | Heat content; _printed: HT - H298_ | 5067 J/mol | 400 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 7; `ORC-VEMKWI7WEQ.836861` |  |
 | Heat content; _printed: HT - H298_ | 5079 J/mol | 400 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 47; `ORC-ZOLHGUATN3.00a4a2` |  |
-| Heat content; _printed: HT - H800_ | 2362 J/mol | 400 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 3; `ORC-EQ4DNTDOS3.b72252` |  |
 | Heat content; _printed: HT - H298_ | 3368 J/(mol K) | 433.2 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 28; `ORC-DA5MTYHYOX` |  |
 | Heat content; _printed: HT - H298_ | 3377 J/(mol K) | 434.1 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 29; `ORC-YMZUN4K473` |  |
 | Heat content; _printed: HT - H298_ | 7686 J/mol | 450 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 48; `ORC-WONH47MVM6.f13c2a` |  |
@@ -481,7 +475,6 @@ Table: Heat capacity / entropy / enthalpy, N–U system
 | Heat content; _printed: HT - H298_ | 10351 J/mol | 500 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 49; `ORC-IPUILVUKVV.c07a7e` |  |
 | Heat content; _printed: HT - H298_ | 10351 J/mol | 500 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 11; `ORC-QVKHULZRGA.789210` |  |
 | Heat content; _printed: HT - H298_ | 10334 J/mol | 500 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 10; `ORC-VS7LTBRIGA.9403b7` |  |
-| Heat content; _printed: HT - H800_ | 4985 J/mol | 500 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 4; `ORC-WQHRN46CHN.9b4db9` |  |
 | Heat content; _printed: HT - H298_ | 5343 J/(mol K) | 508.6 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 32; `ORC-XQJ6RE7H3T` |  |
 | Heat content; _printed: HT - H298_ | 5489 J/(mol K) | 513 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 33; `ORC-F542SFLLJ4` |  |
 | Heat content; _printed: HT - H298_ | 6044 J/(mol K) | 531.1 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 34; `ORC-EGJPU7GKJA` |  |
@@ -492,7 +485,6 @@ Table: Heat capacity / entropy / enthalpy, N–U system
 | Heat content; _printed: HT - H298_ | 15778 J/mol | 600 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 13; `ORC-F6MG3IGXPM.c4b76f` |  |
 | Heat content; _printed: HT - H298_ | 15816 J/mol | 600 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 14; `ORC-GVETO7LHBI.c35391` |  |
 | Heat content; _printed: HT - H298_ | 15566 J/mol | 600 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 15; `ORC-XOGLIQ6DKR.80db6a` |  |
-| Heat content; _printed: HT - H800_ | 7791 J/mol | 600 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 5; `ORC-GCNA22QFBJ.e5264c` |  |
 | Heat content; _printed: HT - H298_ | 8328 J/(mol K) | 617.5 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 37; `ORC-OA2IYHK4LW` |  |
 | Heat content; _printed: HT - H298_ | 8344 J/(mol K) | 618.8 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 38; `ORC-IBBPGKQST3` |  |
 | Heat content; _printed: HT - H298_ | 8943 J/(mol K) | 638.1 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 39; `ORC-R2SWVJSYNA` |  |
@@ -504,87 +496,60 @@ Table: Heat capacity / entropy / enthalpy, N–U system
 | Heat content; _printed: HT - H298_ | 21439 J/mol | 700 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 17; `ORC-ASYWLQGA6P.aae262` |  |
 | Heat content; _printed: HT - H298_ | 21439 J/mol | 700 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 53; `ORC-HMY435ATMA.d17226` |  |
 | Heat content; _printed: HT - H298_ | 21041 J/mol | 700 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 18; `ORC-XDLWXZJGSL.4e7b32` |  |
-| Heat content; _printed: HT - H800_ | 10737 J/mol | 700 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 6; `ORC-535OE5GURG.04ba64` |  |
 | Heat content; _printed: HT - H298_ | 10615 J/(mol K) | 701.3 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Cordfunke 1972_ [doi](https://doi.org/10.1016/0022-3115%2872%2990031-1) | Table 4, p. 4, row 43; `ORC-NVEWPE7JKE` |  |
 | Heat content; _printed: HT - H298_ | 24301 J/mol | 750 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 54; `ORC-A5LAYK2F6H.b17f52` |  |
 | Heat content; _printed: HT - H298_ | 27075 J/mol | 800 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 19; `ORC-2QHU3BXRBD.e4e422` |  |
-| Heat content; _printed: HT - H800_ | 0 J/mol | 800 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 10; `ORC-4NWGMARR47.50a3f8` |  |
 | Heat content; _printed: HT - H298_ | 27196 J/mol | 800 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 20; `ORC-5TACP4ONQJ.3c19cc` |  |
 | Heat content; _printed: HT - H298_ | 26729 J/mol | 800 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 21; `ORC-FAEUYVM4F4.fb676e` |  |
 | Heat content; _printed: HT - H298_ | 27196 J/mol | 800 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 55; `ORC-IL4CRSLZRJ.83e9b4` |  |
-| Heat content; _printed: HT - H800_ | 13799 J/mol | 800 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 7; `ORC-3NVTLKRTEX.faa711` |  |
 | Heat content; _printed: HT - H298_ | 30125 J/mol | 850 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 56; `ORC-PTCKILUPXM.5d6db9` |  |
-| Heat content; _printed: HT - H800_ | 5782 J/mol | 900 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 11; `ORC-GWPP4TJP7B.53f4f9` |  |
 | Heat content; _printed: HT - H298_ | 33083 J/mol | 900 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 57; `ORC-MWC5LEGIAK.51c6ca` |  |
 | Heat content; _printed: HT - H298_ | 32700 J/mol | 900 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 24; `ORC-VK6MWLF6KK.bf19bf` |  |
 | Heat content; _printed: HT - H298_ | 33082 J/mol | 900 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 23; `ORC-XS43WNR4W5.275f1e` |  |
 | Heat content; _printed: HT - H298_ | 32907 J/mol | 900 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 22; `ORC-Y3H2422XMF.02a295` |  |
-| Heat content; _printed: HT - H800_ | 16962 J/mol | 900 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 8; `ORC-YNQ5QCC56O.3c7537` |  |
 | Heat content; _printed: HT - H298_ | 36075 J/mol | 950 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 58; `ORC-WSH4DYLUZW.7054c6` |  |
 | Heat content; _printed: HT - H298_ | 38980 J/mol | 1000 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 27; `ORC-5CZRZFBDI4.bf1493` |  |
 | Heat content; _printed: HT - H298_ | 39091 J/mol | 1000 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Takahashi 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990059-6) | Table 4, p. 4, row 59; `ORC-KC3N3VRANX.425136` |  |
 | Heat content; _printed: HT - H298_ | 38857 J/mol | 1000 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 25; `ORC-MEFIKA7YY3.54dae0` |  |
 | Heat content; _printed: HT - H298_ | 39091 J/mol | 1000 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 26; `ORC-RIMG5W66RM.d6b6a2` |  |
-| Heat content; _printed: HT - H800_ | 11736 J/mol | 1000 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 12; `ORC-UFBLGOEII2.d32cda` |  |
-| Heat content; _printed: HT - H800_ | 20220 J/mol | 1000 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 9; `ORC-NU4AT5EABL.95bbe7` |  |
 | Heat content; _printed: HT - H298_ | 44932 J/mol | 1100 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 28; `ORC-3UKWMJZXFW.d3f1ca` |  |
 | Heat content; _printed: HT - H298_ | 45264 J/mol | 1100 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 30; `ORC-6UWUPSO2C3.75dfb1` |  |
 | Heat content; _printed: HT - H298_ | 45218 J/mol | 1100 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 29; `ORC-IZDJXLAYMR.2a151d` |  |
-| Heat content; _printed: HT - H800_ | 17866 J/mol | 1100 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 13; `ORC-R4QX4VTHV6.c5561b` |  |
-| Heat content; _printed: HT - H800_ | 23567 J/mol | 1100 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 10; `ORC-ZQZUGLQ6XR.ea1f01` |  |
-| Heat content; _printed: HT - H800_ | 24184 J/mol | 1200 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 14; `ORC-2KEUIGL4B4.c46371` |  |
 | Heat content; _printed: HT - H298_ | 51513 J/mol | 1200 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 33; `ORC-357VTNEVSB.c3e8f2` |  |
 | Heat content; _printed: HT - H298_ | 51137 J/mol | 1200 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 31; `ORC-C2YABDUGXD.69b591` |  |
 | Heat content; _printed: HT - H298_ | 51461 J/mol | 1200 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 32; `ORC-YZZY2WHLIA.e664b1` |  |
-| Heat content; _printed: HT - H800_ | 27002 J/mol | 1200 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 11; `ORC-I3BF4QBEU5.0344e4` |  |
 | Heat content; _printed: HT - H298_ | 57759 J/mol | 1300 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 36; `ORC-A2XFROCESM.9dbe07` |  |
 | Heat content; _printed: HT - H298_ | 57821 J/mol | 1300 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 35; `ORC-DB6JLT6ZVA.f0f061` |  |
 | Heat content; _printed: HT - H298_ | 57476 J/mol | 1300 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 34; `ORC-EICPODC7RF.21fe0b` |  |
-| Heat content; _printed: HT - H800_ | 30669 J/mol | 1300 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 15; `ORC-URNS7C4ZTG.8e566b` |  |
-| Heat content; _printed: HT - H800_ | 30519 J/mol | 1300 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 12; `ORC-5JWYSRVLMP.4cba9c` |  |
 | Heat content; _printed: HT - H298_ | 63957 J/mol | 1400 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 37; `ORC-4SD4JPGBH5.7bf8f4` |  |
 | Heat content; _printed: HT - H298_ | 64295 J/mol | 1400 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 38; `ORC-KJHPKL7EOA.1a05ac` |  |
 | Heat content; _printed: HT - H298_ | 64037 J/mol | 1400 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 39; `ORC-VWWDNIMZRQ.ae86e1` |  |
-| Heat content; _printed: HT - H800_ | 37321 J/mol | 1400 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 16; `ORC-YPFLF7WFUG.cacfce` |  |
-| Heat content; _printed: HT - H800_ | 34116 J/mol | 1400 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 13; `ORC-RZ443J6RDW.8bc374` |  |
 | Heat content; _printed: HT - H298_ | 70382 J/mol | 1500 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 42; `ORC-4CPN74GZ6W.ef9a65` |  |
-| Heat content; _printed: HT - H800_ | 44141 J/mol | 1500 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 17; `ORC-4GZ36BIPXW.e79e5f` |  |
 | Heat content; _printed: HT - H298_ | 70592 J/mol | 1500 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 40; `ORC-C4TNOYASPI.c66290` |  |
 | Heat content; _printed: HT - H298_ | 70884 J/mol | 1500 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 41; `ORC-HHTTF276BD.c4d51f` |  |
-| Heat content; _printed: HT - H800_ | 37796 J/mol | 1500 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 14; `ORC-KBEFPSJNFU.a4a5b8` |  |
 | Heat content; _printed: HT - H298_ | 77586 J/mol | 1600 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 44; `ORC-JKPUPF63AL.6fcf58` |  |
-| Heat content; _printed: HT - H800_ | 51170 J/mol | 1600 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 18; `ORC-PMLMRG5WCV.9579c0` |  |
 | Heat content; _printed: HT - H298_ | 76828 J/mol | 1600 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 45; `ORC-QF4WRRLYTV.3b4588` |  |
 | Heat content; _printed: HT - H298_ | 77383 J/mol | 1600 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 43; `ORC-ZAOSU42FX3.622971` |  |
-| Heat content; _printed: HT - H800_ | 41557 J/mol | 1600 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 15; `ORC-CDS2UMO3HF.57810c` |  |
 | Heat content; _printed: HT - H298_ | 83412 J/mol | 1700 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 48; `ORC-JQLQSTZBEF.71c7fd` |  |
-| Heat content; _printed: HT - H800_ | 58367 J/mol | 1700 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 19; `ORC-LV6UBQY4QD.73df4b` |  |
 | Heat content; _printed: HT - H298_ | 84402 J/mol | 1700 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 47; `ORC-NRDXTZQ6JJ.b08509` |  |
 | Heat content; _printed: HT - H298_ | 84337 J/mol | 1700 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 46; `ORC-TBGA7DTJRA.aa9ff0` |  |
-| Heat content; _printed: HT - H800_ | 45395 J/mol | 1700 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 16; `ORC-THXOQCSIBD.7e2549` |  |
 | Heat content; _printed: HT - H298_ | 91471 J/mol | 1800 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 49; `ORC-7A65OXPZLG.874397` |  |
 | Heat content; _printed: HT - H298_ | 90171 J/mol | 1800 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 51; `ORC-AWG3ATBXOP.2c7ecb` |  |
-| Heat content; _printed: HT - H800_ | 65731 J/mol | 1800 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 20; `ORC-DPLZ4T6D7C.68971f` |  |
 | Heat content; _printed: HT - H298_ | 91330 J/mol | 1800 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 50; `ORC-J3NDZMK3J5.035718` |  |
-| Heat content; _printed: HT - H800_ | 73262 J/mol | 1900 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 21; `ORC-IXVROHTIIJ.690cb0` |  |
 | Heat content; _printed: HT - H298_ | 98784 J/mol | 1900 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 52; `ORC-MH53FBV7ZS.642548` |  |
 | Heat content; _printed: HT - H298_ | 98371 J/mol | 1900 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 53; `ORC-RCWXZCDEML.3161f0` |  |
 | Heat content; _printed: HT - H298_ | 97143 J/mol | 1900 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 54; `ORC-ZU4O7PI5AV.5c28de` |  |
 | Heat content; _printed: HT - H298_ | 104365 J/mol | 2000 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 57; `ORC-32WWL24MAA.325b14` |  |
 | Heat content; _printed: HT - H298_ | 106286 J/mol | 2000 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 55; `ORC-DQJTOXUVYA.e88366` |  |
-| Heat content; _printed: HT - H800_ | 80960 J/mol | 2000 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 22; `ORC-EPBVN54SNO.1f51d8` |  |
 | Heat content; _printed: HT - H298_ | 105525 J/mol | 2000 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 56; `ORC-ZXDQG4HNQJ.17cb95` |  |
-| Heat content; _printed: HT - H800_ | 88868 J/mol | 2100 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 23; `ORC-KWASEVIIVT.44084a` |  |
 | Heat content; _printed: HT - H298_ | 113993 J/mol | 2100 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 58; `ORC-LVI4EYLGCW.769110` |  |
 | Heat content; _printed: HT - H298_ | 112791 J/mol | 2100 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 59; `ORC-N2BY2MCTDE.58e221` |  |
 | Heat content; _printed: HT - H298_ | 111876 J/mol | 2100 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 60; `ORC-SHZUVBR5BT.b4f698` |  |
 | Heat content; _printed: HT - H298_ | 121905 J/mol | 2200 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 61; `ORC-AJALOQ5PXP.e47a84` |  |
 | Heat content; _printed: HT - H298_ | 120168 J/mol | 2200 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 62; `ORC-GZU722BYV3.233f36` |  |
 | Heat content; _printed: HT - H298_ | 119713 J/mol | 2200 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 63; `ORC-HLDHMMURAR.1ed88d` |  |
-| Heat content; _printed: HT - H800_ | 96943 J/mol | 2200 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 24; `ORC-M234Y2WIEO.271b05` |  |
 | Heat content; _printed: HT - H298_ | 127914 J/mol | 2300 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 66; `ORC-36VOI4MD5K.5d8fcd` |  |
 | Heat content; _printed: HT - H298_ | 130035 J/mol | 2300 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 64; `ORC-COHYZNAANQ.321863` |  |
-| Heat content; _printed: HT - H800_ | 105186 J/mol | 2300 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 25; `ORC-SYUWTF545X.c02f90` |  |
 | Heat content; _printed: HT - H298_ | 127658 J/mol | 2300 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 65; `ORC-ZM2E3RPCYY.e623f7` |  |
 | Heat content; _printed: HT - H298_ | 138386 J/mol | 2400 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 67; `ORC-CXPXYJO3NH.a0cf41` |  |
 | Heat content; _printed: HT - H298_ | 135260 J/mol | 2400 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 68; `ORC-GZYFQ65SUY.29fd3e` |  |
@@ -603,6 +568,37 @@ Table: Heat capacity / entropy / enthalpy, N–U system
 | Heat content; _printed: HT - H298_ | 193719 J/mol | 3000 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 5, p. 4, row 81; `ORC-5LUVD674W3.afaf3a` |  |
 | Heat content; _printed: HT - H298_ | 198779 J/mol | 3000 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 5, p. 4, row 83; `ORC-U37O6WATU4.ab58ea` |  |
 | Heat content; _printed: HT - H298_ | 183216 J/mol | 3000 | UN; _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 5, p. 4, row 82; `ORC-UPOHGVFRQH.38d7f8` |  |
+| heat content from base t; _printed: HT - H800_ | 0 J/mol | 298.15 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 1; `ORC-Z66JG3653R.ec0726` |  |
+| heat content from base t; _printed: HT - H800_ | 2362 J/mol | 400 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 3; `ORC-EQ4DNTDOS3.b72252` |  |
+| heat content from base t; _printed: HT - H800_ | 4985 J/mol | 500 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 4; `ORC-WQHRN46CHN.9b4db9` |  |
+| heat content from base t; _printed: HT - H800_ | 7791 J/mol | 600 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 5; `ORC-GCNA22QFBJ.e5264c` |  |
+| heat content from base t; _printed: HT - H800_ | 10737 J/mol | 700 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 6; `ORC-535OE5GURG.04ba64` |  |
+| heat content from base t; _printed: HT - H800_ | 0 J/mol | 800 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 10; `ORC-4NWGMARR47.50a3f8` |  |
+| heat content from base t; _printed: HT - H800_ | 13799 J/mol | 800 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 7; `ORC-3NVTLKRTEX.faa711` |  |
+| heat content from base t; _printed: HT - H800_ | 5782 J/mol | 900 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 11; `ORC-GWPP4TJP7B.53f4f9` |  |
+| heat content from base t; _printed: HT - H800_ | 16962 J/mol | 900 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 8; `ORC-YNQ5QCC56O.3c7537` |  |
+| heat content from base t; _printed: HT - H800_ | 11736 J/mol | 1000 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 12; `ORC-UFBLGOEII2.d32cda` |  |
+| heat content from base t; _printed: HT - H800_ | 20220 J/mol | 1000 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 9; `ORC-NU4AT5EABL.95bbe7` |  |
+| heat content from base t; _printed: HT - H800_ | 17866 J/mol | 1100 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 13; `ORC-R4QX4VTHV6.c5561b` |  |
+| heat content from base t; _printed: HT - H800_ | 23567 J/mol | 1100 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 10; `ORC-ZQZUGLQ6XR.ea1f01` |  |
+| heat content from base t; _printed: HT - H800_ | 24184 J/mol | 1200 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 14; `ORC-2KEUIGL4B4.c46371` |  |
+| heat content from base t; _printed: HT - H800_ | 27002 J/mol | 1200 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 11; `ORC-I3BF4QBEU5.0344e4` |  |
+| heat content from base t; _printed: HT - H800_ | 30669 J/mol | 1300 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 15; `ORC-URNS7C4ZTG.8e566b` |  |
+| heat content from base t; _printed: HT - H800_ | 30519 J/mol | 1300 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 12; `ORC-5JWYSRVLMP.4cba9c` |  |
+| heat content from base t; _printed: HT - H800_ | 37321 J/mol | 1400 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 16; `ORC-YPFLF7WFUG.cacfce` |  |
+| heat content from base t; _printed: HT - H800_ | 34116 J/mol | 1400 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 13; `ORC-RZ443J6RDW.8bc374` |  |
+| heat content from base t; _printed: HT - H800_ | 44141 J/mol | 1500 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 17; `ORC-4GZ36BIPXW.e79e5f` |  |
+| heat content from base t; _printed: HT - H800_ | 37796 J/mol | 1500 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 14; `ORC-KBEFPSJNFU.a4a5b8` |  |
+| heat content from base t; _printed: HT - H800_ | 51170 J/mol | 1600 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 18; `ORC-PMLMRG5WCV.9579c0` |  |
+| heat content from base t; _printed: HT - H800_ | 41557 J/mol | 1600 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 15; `ORC-CDS2UMO3HF.57810c` |  |
+| heat content from base t; _printed: HT - H800_ | 58367 J/mol | 1700 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 19; `ORC-LV6UBQY4QD.73df4b` |  |
+| heat content from base t; _printed: HT - H800_ | 45395 J/mol | 1700 | UN1.54; _alloy: U 0.393701_ | experimental | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 6, p. 5, row 16; `ORC-THXOQCSIBD.7e2549` |  |
+| heat content from base t; _printed: HT - H800_ | 65731 J/mol | 1800 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 20; `ORC-DPLZ4T6D7C.68971f` |  |
+| heat content from base t; _printed: HT - H800_ | 73262 J/mol | 1900 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 21; `ORC-IXVROHTIIJ.690cb0` |  |
+| heat content from base t; _printed: HT - H800_ | 80960 J/mol | 2000 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 22; `ORC-EPBVN54SNO.1f51d8` |  |
+| heat content from base t; _printed: HT - H800_ | 88868 J/mol | 2100 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 23; `ORC-KWASEVIIVT.44084a` |  |
+| heat content from base t; _printed: HT - H800_ | 96943 J/mol | 2200 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 24; `ORC-M234Y2WIEO.271b05` |  |
+| heat content from base t; _printed: HT - H800_ | 105186 J/mol | 2300 | UN; _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Aortit 1969_ | Table 4, p. 4, row 25; `ORC-SYUWTF545X.c02f90` |  |
 
 ## Sources
 

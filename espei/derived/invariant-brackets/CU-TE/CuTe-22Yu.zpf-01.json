@@ -536,7 +536,7 @@
     "x0": 0.046,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L2 -> FCC + ζCu2Te",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -555,7 +555,7 @@
     "x0": 0.046,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L2 -> FCC + ζCu2Te",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -612,7 +612,7 @@
     "x0": 0.71,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L1 -> HEX + βCuTe",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],
@@ -631,7 +631,7 @@
     "x0": 0.71,
     "hyperplane_delta": 0.01,
     "reaction_printed": "L1 -> HEX + βCuTe",
-    "reaction_type": null,
+    "reaction_type": "eutectic",
     "phases_above": [
      "LIQUID"
     ],

@@ -1,10 +1,10 @@
 # Al–Zr system
 
-> Al–Zr system: 721 accepted literature values (formation 404, invariant reaction 182, phase transition 98, crystal structure 21) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Zr system: 732 accepted literature values (formation 422, invariant reaction 178, phase transition 95, crystal structure 21) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-ZR.html · Markdown: https://data.orchid-project.org/systems/AL-ZR.md
 
-721 accepted literature values from 10 paper(s) (experimental 251, model 356, DFT 78, unspecified 36); 8 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+732 accepted literature values from 9 paper(s) (experimental 244, model 385, DFT 82, unspecified 21); 8 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON part 1](https://data.orchid-project.org/literature/systems/AL-ZR.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/AL-ZR.part2.json) · [CSV](https://data.orchid-project.org/systems/AL-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-ZR/AlZr-01Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-ZR.html) · [Markdown](https://data.orchid-project.org/systems/AL-ZR.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 251 |
-| model | 356 |
-| DFT | 78 |
-| unspecified | 36 |
+| experimental | 244 |
+| model | 385 |
+| DFT | 82 |
+| unspecified | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 182 |
-| phase transition | 98 |
+| invariant reaction | 178 |
+| phase transition | 95 |
 | phase equilibrium | 7 |
-| formation | 404 |
+| formation | 422 |
 | mixing / partial | 9 |
 | crystal structure | 21 |
 
@@ -264,26 +264,26 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Zr system (182)
+Table: Invariant reactions reported in the literature for the Al–Zr system (178)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1933 | L \<-> ZrAl2 | ZrAl2: Al 0.667 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 27; `ORC-YKCDIVAUMS` |  |
-| 1931 | L \<-> ZrAl2 | ZrAl2: Al 0.667 | model | [1] T 2001 | Table 1, p. 2, row 28; `ORC-IMDZ6IG2PI` |  |
-| 1907 | congruent melting: Al2Zr -> Liquid | Al2Zr: Zr 0.333; Liquid: Zr 0.333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 4; `ORC-QEQ3G6VZUL` |  |
-| 1893 | congruent melting: Al3Zr -> Liquid | Al3Zr: Zr 0.25; Liquid: Zr 0.25 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 2; `ORC-U2T6SSAFFC` |  |
-| 1888 | eutectic: Liquid -> Al3Zr + Al2Zr | Liquid: Zr 0.277; Al3Zr: Zr 0.25; Al2Zr: Zr 0.333 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 3; `ORC-A5DFL5VD4Q` |  |
-| 1869.1 | peritectic: Liquid + Al2Zr -> Al3Zr2 | Liquid: Zr 0.41; Al2Zr: Zr 0.333; Al3Zr2: Zr 0.4 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 5; `ORC-QDZMQGC3BV` |  |
+| 1933 | congruent melting: L \<-> ZrAl2 | ZrAl2: Al 0.667 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 27; `ORC-YKCDIVAUMS` |  |
+| 1931 | congruent melting: L \<-> ZrAl2 | ZrAl2: Al 0.667 | model | [1] T 2001 | Table 1, p. 2, row 28; `ORC-IMDZ6IG2PI` |  |
+| 1907 | congruent melting: Al2Zr -> Liquid | Al2Zr: Zr 0.333; Liquid: Zr 0.333 | model | [2] (ed.) 1998 | Table I, p. 131, row 4; `ORC-QEQ3G6VZUL` |  |
+| 1893 | congruent melting: Al3Zr -> Liquid | Al3Zr: Zr 0.25; Liquid: Zr 0.25 | model | [2] (ed.) 1998 | Table I, p. 131, row 2; `ORC-U2T6SSAFFC` |  |
+| 1888 | eutectic: Liquid -> Al3Zr + Al2Zr | Liquid: Zr 0.277; Al3Zr: Zr 0.25; Al2Zr: Zr 0.333 | model | [2] (ed.) 1998 | Table I, p. 131, row 3; `ORC-A5DFL5VD4Q` |  |
+| 1869.1 | peritectic: Liquid + Al2Zr -> Al3Zr2 | Liquid: Zr 0.41; Al2Zr: Zr 0.333; Al3Zr2: Zr 0.4 | model | [2] (ed.) 1998 | Table I, p. 131, row 5; `ORC-QDZMQGC3BV` |  |
 | 1868 | L + Al2Zr -> Al3Zr2 | L: Zr 0.41; Al2Zr: Zr 0.333; Al3Zr2: Zr 0.4 | experimental | [3] Long 2020; _cites McPherson 1954_ | Table 2, p. 3, row 26; `ORC-UIXHQNGXA6` |  |
 | 1865 | L + ZrAl2 \<-> Zr2Al3 | L: Al 0.597; ZrAl2: Al 0.667; Zr2Al3: Al 0.6 | model | [1] T 2001 | Table 1, p. 2, row 26; `ORC-LMG6UYNXUG` |  |
 | 1863 | Al2Zr1 + L -> Al3Zr2 | Al2Zr1: Zr 0.41; Al3Zr2: Zr 0.4 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 13; `ORC-37JGCFF2CE` |  |
 | 1863 | L + ZrAl2 \<-> Zr2Al3 | L: Al 0.59; ZrAl2: Al 0.667; Zr2Al3: Al 0.6 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 25; `ORC-UQCKMNKIOJ` |  |
 | 1858 | Al2Zr1 + L -> Al3Zr2 | Al2Zr1: Zr 0.407; Al3Zr2: Zr 0.4 | model | [4] Fischer 2015 | Table 4, p. 7, row 12; `ORC-EMNH7RVG5J.540bf0` |  |
-| 1858 | L -> Al3Zr1 + Al2Zr1 | L: Zr 0.255; Al3Zr1: Zr 0.25; Al2Zr1: Zr 0.333333 | model | [4] Fischer 2015 | Table 4, p. 7, row 6; `ORC-EMNH7RVG5J.939560` |  |
+| 1858 | eutectic: L -> Al3Zr1 + Al2Zr1 | L: Zr 0.255; Al3Zr1: Zr 0.25; Al2Zr1: Zr 0.333333 | model | [4] Fischer 2015 | Table 4, p. 7, row 6; `ORC-EMNH7RVG5J.939560` |  |
 | 1856 | L \<-> ZrAl2 + ZrAl3 | L: Al 0.747; ZrAl2: Al 0.667; ZrAl3: Al 0.75 | model | [1] T 2001 | Table 1, p. 2, row 30; `ORC-GSXXDU3JXL` |  |
-| 1856 | L \<-> ZrAl3 | ZrAl3: Al 0.75 | model | [1] T 2001 | Table 1, p. 2, row 32; `ORC-RAU3KGWP5Q` |  |
+| 1856 | congruent melting: L \<-> ZrAl3 | ZrAl3: Al 0.75 | model | [1] T 2001 | Table 1, p. 2, row 32; `ORC-RAU3KGWP5Q` |  |
 | 1855 | L + Al2Zr -> Al3Zr | L: Zr 0.238; Al2Zr: Zr 0.333; Al3Zr: Zr 0.25 | model | [3] Long 2020 | Table 2, p. 3, row 31; `ORC-XTJRZMXXWG` |  |
-| 1853 | L \<-> ZrAl3 | ZrAl3: Al 0.75 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 31; `ORC-JUTPESPJKO` |  |
+| 1853 | congruent melting: L \<-> ZrAl3 | ZrAl3: Al 0.75 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 31; `ORC-JUTPESPJKO` |  |
 | 1852 | peritectic: L + Al2Zr -> Al3Zr | L: Zr 0.24; Al2Zr: Zr 0.333333; Al3Zr: Zr 0.25 | experimental | [5] Tamim 2018; _cites Smallman 2014_ | Table 1, p. 4, row 60; `ORC-42ZYVM6HZY` |  |
 | 1852 | (L + Al2Zr1 -> Al3Zr1) | L: Zr 0.24; Al2Zr1: Zr 0.333333; Al3Zr1: Zr 0.25 | experimental | [4] Fischer 2015; _cites Janghorban 2013_ [doi](https://doi.org/10.1007/s10973-013-3113-4) | Table 4, p. 7, row 8; `ORC-7UVMIWVTOD` |  |
 | 1852 | L + Al2Zr -> Al3Zr | L: Zr 0.24; Al2Zr: Zr 0.333; Al3Zr: Zr 0.25 | experimental | [3] Long 2020; _cites Janghorban 2013_ [doi](https://doi.org/10.1007/s10973-013-3113-4) | Table 2, p. 3, row 30; `ORC-IVFUAE4QAK` |  |
@@ -297,21 +297,21 @@ Table: Invariant reactions reported in the literature for the Al–Zr system (18
 | 1845 | L + Al2Zr -> Al3Zr2 | L: Zr 0.421; Al2Zr: Zr 0.333; Al3Zr2: Zr 0.4 | model | [3] Long 2020 | Table 2, p. 3, row 29; `ORC-UG5DZU4SI5` |  |
 | 1845 | Al2Zr1 + L -> Al3Zr2 | Al2Zr1: Zr 0.416; Al3Zr2: Zr 0.4 | experimental | [4] Fischer 2015; _cites Janghorban 2013_ [doi](https://doi.org/10.1007/s10973-013-3113-4) | Table 4, p. 7, row 14; `ORC-XFPDWKB27S` |  |
 | 1845 | peritectic: L + Al2Zr -> Al3Zr2 | L: Zr 0.42; Al2Zr: Zr 0.333333; Al3Zr2: Zr 0.4 | experimental | [5] Tamim 2018; _cites Smallman 2014_ | Table 1, p. 4, row 54; `ORC-ZRY4MKU2VM` |  |
-| 1831 | L \<-> Zr5Al4 | Zr5Al4: Al 0.444 | model | [1] T 2001 | Table 1, p. 2, row 20; `ORC-3LK6WMW5XQ` |  |
-| 1823 | L \<-> Zr5Al4 | Zr5Al4: Al 0.444 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 19; `ORC-HZYCLZ2NHY` |  |
-| 1773 | L -> Al3Zr1 + Al2Zr1 | L: Zr 0.265; Al3Zr1: Zr 0.25; Al2Zr1: Zr 0.333333 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 7; `ORC-5QWFXU7OI3` |  |
+| 1831 | congruent melting: L \<-> Zr5Al4 | Zr5Al4: Al 0.444 | model | [1] T 2001 | Table 1, p. 2, row 20; `ORC-3LK6WMW5XQ` |  |
+| 1823 | congruent melting: L \<-> Zr5Al4 | Zr5Al4: Al 0.444 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 19; `ORC-HZYCLZ2NHY` |  |
+| 1773 | eutectic: L -> Al3Zr1 + Al2Zr1 | L: Zr 0.265; Al3Zr1: Zr 0.25; Al2Zr1: Zr 0.333333 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 7; `ORC-5QWFXU7OI3` |  |
 | 1773 | L \<-> ZrAl2 + ZrAl3 | L: Al 0.735; ZrAl2: Al 0.667; ZrAl3: Al 0.75 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 29; `ORC-KMIGSI2LDF` |  |
-| 1773 | congruent melting: Al4Zr5 -> Liquid | Al4Zr5: Zr 0.555; Liquid: Zr 0.555 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 7; `ORC-TLVEM4WPJY` |  |
+| 1773 | congruent melting: Al4Zr5 -> Liquid | Al4Zr5: Zr 0.555; Liquid: Zr 0.555 | model | [2] (ed.) 1998 | Table I, p. 131, row 7; `ORC-TLVEM4WPJY` |  |
 | 1772 | eutectic: L -> Al4Zr5 + Al3Zr2 | L: Zr 0.491; Al4Zr5: Zr 0.555556; Al3Zr2: Zr 0.4 | model | [5] Tamim 2018 | Table 1, p. 4, row 45; `ORC-RJ52TTIGL4` |  |
 | 1771 | eutectic: L -> Al4Zr5 + Al3Zr2 | L: Zr 0.494; Al4Zr5: Zr 0.555556; Al3Zr2: Zr 0.4 | model | [5] Tamim 2018 | Table 1, p. 4, row 44; `ORC-C7D2HNSCFG` |  |
-| 1765.3 | eutectic: Liquid -> Al3Zr2 + Al4Zr5 | Liquid: Zr 0.525; Al3Zr2: Zr 0.4; Al4Zr5: Zr 0.556 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 6; `ORC-25KZQ6IXQN` |  |
+| 1765.3 | eutectic: Liquid -> Al3Zr2 + Al4Zr5 | Liquid: Zr 0.525; Al3Zr2: Zr 0.4; Al4Zr5: Zr 0.556 | model | [2] (ed.) 1998 | Table I, p. 131, row 6; `ORC-25KZQ6IXQN` |  |
 | 1758 | eutectic: L -> Al4Zr5 + Al3Zr2 | L: Zr 0.5; Al4Zr5: Zr 0.555556; Al3Zr2: Zr 0.4 | experimental | [5] Tamim 2018; _cites McPherson 1954_ | Table 1, p. 4, row 46; `ORC-I3QXNDYSHR` |  |
 | 1758 | L \<-> Zr5Al4 + Zr2Al3 | L: Al 0.5; Zr5Al4: Al 0.444; Zr2Al3: Al 0.6 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 21; `ORC-QZCVY3XOTY` |  |
-| 1758 | L -> Al4Zr5 + Al3Zr2 | L: Zr 0.5; Al4Zr5: Zr 0.566; Al3Zr2: Zr 0.4 | experimental | [3] Long 2020; _cites McPherson 1954_ | Table 2, p. 3, row 21; `ORC-TKUGRM3F2X` |  |
-| 1758 | L -> Al3Zr2 + Al4Zr5 | L: Zr 0.5; Al3Zr2: Zr 0.4; Al4Zr5: Zr 0.555556 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 16; `ORC-WU2EWE4DHR` |  |
+| 1758 | eutectic: L -> Al4Zr5 + Al3Zr2 | L: Zr 0.5; Al4Zr5: Zr 0.566; Al3Zr2: Zr 0.4 | experimental | [3] Long 2020; _cites McPherson 1954_ | Table 2, p. 3, row 21; `ORC-TKUGRM3F2X` |  |
+| 1758 | eutectic: L -> Al3Zr2 + Al4Zr5 | L: Zr 0.5; Al3Zr2: Zr 0.4; Al4Zr5: Zr 0.555556 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 16; `ORC-WU2EWE4DHR` |  |
 | 1758 | eutectic: L -> Al4Zr5 + Al3Zr2 | L: Zr 0.49; Al4Zr5: Zr 0.555556; Al3Zr2: Zr 0.4 | experimental | [5] Tamim 2018; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 1, p. 4, row 47; `ORC-ZT2I3NGQD5` |  |
 | 1756 | peritectic: L + Al4Zr5 -> Al2Zr3 | L: Zr 0.628; Al4Zr5: Zr 0.555556; Al2Zr3: Zr 0.6 | model | [5] Tamim 2018 | Table 1, p. 4, row 32; `ORC-SJEW2UD7MP` |  |
-| 1756 | L -> Al4Zr5 + Al3Zr2 | L: Zr 0.489; Al4Zr5: Zr 0.566; Al3Zr2: Zr 0.4 | model | [3] Long 2020 | Table 2, p. 3, row 23; `ORC-WILEA63I7R` |  |
+| 1756 | eutectic: L -> Al4Zr5 + Al3Zr2 | L: Zr 0.489; Al4Zr5: Zr 0.566; Al3Zr2: Zr 0.4 | model | [3] Long 2020 | Table 2, p. 3, row 23; `ORC-WILEA63I7R` |  |
 | 1754 | L + Al4Zr5 -> Al2Zr3 | Al4Zr5: Zr 0.566; Al2Zr3: Zr 0.6 | experimental | [3] Long 2020; _cites Samanta 2018_ [doi](https://doi.org/10.1016/j.tca.2018.07.009) | Table 2, p. 3, row 15; `ORC-7QSZ7ZELWG` |  |
 | 1753 | L + Al4Zr5 -> Al2Zr3 | L: Zr 0.61; Al4Zr5: Zr 0.566; Al2Zr3: Zr 0.6 | experimental | [3] Long 2020; _cites McPherson 1954_ | Table 2, p. 3, row 14; `ORC-4ANPPFO5DL` |  |
 | 1753 | peritectic: L + Al4Zr5 -> Al2Zr3 | L: Zr 0.61; Al4Zr5: Zr 0.555556; Al2Zr3: Zr 0.6 | experimental | [5] Tamim 2018; _cites McPherson 1954_ | Table 1, p. 4, row 33; `ORC-AXEHFC4D6Y` |  |
@@ -319,13 +319,13 @@ Table: Invariant reactions reported in the literature for the Al–Zr system (18
 | 1753 | L + Zr5Al4 \<-> Zr3Al2 | L: Al 0.39; Zr5Al4: Al 0.444; Zr3Al2: Al 0.4 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 13; `ORC-RCTD5MEHJM` |  |
 | 1753 | peritectic: L + Al4Zr5 -> Al2Zr3 | L: Zr 0.61; Al4Zr5: Zr 0.555556; Al2Zr3: Zr 0.6 | experimental | [5] Tamim 2018; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 1, p. 4, row 34; `ORC-X3322BTOHO` |  |
 | 1753 | Al4Zr5 + L -> Al2Zr3 | Al4Zr5: Zr 0.61; Al2Zr3: Zr 0.6 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 19; `ORC-XJYLNXZLDV` |  |
-| 1753 | L -> Al4Zr5 + Al3Zr2 | L: Zr 0.5; Al4Zr5: Zr 0.566; Al3Zr2: Zr 0.4 | experimental | [3] Long 2020; _cites Samanta 2018_ [doi](https://doi.org/10.1016/j.tca.2018.07.009) | Table 2, p. 3, row 22; `ORC-ZWQFUDRXOF` |  |
-| 1752 | L -> Al3Zr2 + Al4Zr5 | L: Zr 0.496; Al3Zr2: Zr 0.4; Al4Zr5: Zr 0.555556 | model | [4] Fischer 2015 | Table 4, p. 7, row 15; `ORC-3IZUKKO6TA` |  |
+| 1753 | eutectic: L -> Al4Zr5 + Al3Zr2 | L: Zr 0.5; Al4Zr5: Zr 0.566; Al3Zr2: Zr 0.4 | experimental | [3] Long 2020; _cites Samanta 2018_ [doi](https://doi.org/10.1016/j.tca.2018.07.009) | Table 2, p. 3, row 22; `ORC-ZWQFUDRXOF` |  |
+| 1752 | eutectic: L -> Al3Zr2 + Al4Zr5 | L: Zr 0.496; Al3Zr2: Zr 0.4; Al4Zr5: Zr 0.555556 | model | [4] Fischer 2015 | Table 4, p. 7, row 15; `ORC-3IZUKKO6TA` |  |
 | 1751 | peritectic: L + Al4Zr5 -> Al2Zr3 | L: Zr 0.628; Al4Zr5: Zr 0.555556; Al2Zr3: Zr 0.6 | model | [5] Tamim 2018 | Table 1, p. 4, row 31; `ORC-3SVMCN6XBF` |  |
 | 1750 | L \<-> Zr5Al4 + Zr2Al3 | L: Al 0.51; Zr5Al4: Al 0.444; Zr2Al3: Al 0.6 | model | [1] T 2001 | Table 1, p. 2, row 22; `ORC-JIPIZ43BFM` |  |
 | 1748 | L + Al4Zr5 -> Al2Zr3 | L: Zr 0.627; Al4Zr5: Zr 0.566; Al2Zr3: Zr 0.6 | model | [3] Long 2020 | Table 2, p. 3, row 16; `ORC-LIWUNXQHEV` |  |
 | 1724 | Al4Zr5 + L -> Al2Zr3 | Al4Zr5: Zr 0.629; Al2Zr3: Zr 0.6 | model | [4] Fischer 2015 | Table 4, p. 7, row 18; `ORC-H4ZYFP2TOD` |  |
-| 1701.8 | peritectic: Liquid + Al4Zr5 -> Al2Zr3 | Liquid: Zr 0.653; Al4Zr5: Zr 0.556; Al2Zr3: Zr 0.6 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 8; `ORC-I3FKQCETAZ` |  |
+| 1701.8 | peritectic: Liquid + Al4Zr5 -> Al2Zr3 | Liquid: Zr 0.653; Al4Zr5: Zr 0.556; Al2Zr3: Zr 0.6 | model | [2] (ed.) 1998 | Table I, p. 131, row 8; `ORC-I3FKQCETAZ` |  |
 | 1676 | L + Zr3Al2 \<-> Zr5Al3 | L: Al 0.324; Zr3Al2: Al 0.4; Zr5Al3: Al 0.375 | model | [1] T 2001 | Table 1, p. 2, row 10; `ORC-Y6E2YQEWVK` |  |
 | 1674 | peritectic: L + Al2Zr3 -> Al3Zr5 | L: Zr 0.686; Al2Zr3: Zr 0.6; Al3Zr5: Zr 0.625 | model | [5] Tamim 2018 | Table 1, p. 4, row 19; `ORC-DTM47LULCS` |  |
 | 1673 | L + Al2Zr3 -> Al3Zr5 | L: Zr 0.65; Al2Zr3: Zr 0.6; Al3Zr5: Zr 0.625 | experimental | [3] Long 2020; _cites McPherson 1954_ | Table 2, p. 3, row 9; `ORC-4ECAITXY46` |  |
@@ -335,19 +335,19 @@ Table: Invariant reactions reported in the literature for the Al–Zr system (18
 | 1673 | Al2Zr3 + L -> Al3Zr5 | Al2Zr3: Zr 0.65; Al3Zr5: Zr 0.625 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 21; `ORC-XP56OMEFRU` |  |
 | 1668 | peritectic: L + Al2Zr3 -> Al3Zr5 | L: Zr 0.63; Al2Zr3: Zr 0.6; Al3Zr5: Zr 0.625 | experimental | [5] Tamim 2018; _cites McPherson 1954_ | Table 1, p. 4, row 21; `ORC-WDYQJRXXU3` |  |
 | 1667 | L + Al2Zr3 -> Al3Zr5 | L: Zr 0.684; Al2Zr3: Zr 0.6; Al3Zr5: Zr 0.625 | model | [3] Long 2020 | Table 2, p. 3, row 10; `ORC-XIS6ILUAET` |  |
-| 1655.8 | peritectic: Liquid + Al2Zr3 -> Al3Zr5 | Liquid: Zr 0.696; Al2Zr3: Zr 0.6; Al3Zr5: Zr 0.625 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 9; `ORC-3JYTC3LECQ` |  |
+| 1655.8 | peritectic: Liquid + Al2Zr3 -> Al3Zr5 | Liquid: Zr 0.696; Al2Zr3: Zr 0.6; Al3Zr5: Zr 0.625 | model | [2] (ed.) 1998 | Table I, p. 131, row 9; `ORC-3JYTC3LECQ` |  |
 | 1654 | Al2Zr3 + L -> Al3Zr5 | Al2Zr3: Zr 0.677; Al3Zr5: Zr 0.625 | model | [4] Fischer 2015 | Table 4, p. 7, row 20; `ORC-27YD7W767B` |  |
-| 1648.7 | eutectic: Liquid -> Al3Zr5 + bcc-A2 | Liquid: Zr 0.702; Al3Zr5: Zr 0.625; bcc-A2: Zr 0.768 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 10; `ORC-TQW4SPC6JZ` |  |
-| 1629 | L -> bcc(Zr) + Al3Zr5 | L: Zr 0.708; bcc(Zr): Zr 0.758; Al3Zr5: Zr 0.625 | model | [3] Long 2020 | Table 2, p. 3, row 2; `ORC-JYO42N75SZ` |  |
-| 1623 | L -> bcc(Zr) + Al3Zr5 | L: Zr 0.705; bcc(Zr): Zr 0.741; Al3Zr5: Zr 0.625 | experimental | [3] Long 2020; _cites McPherson 1954_ | Table 2, p. 3, row 1; `ORC-2BCIQQVA4J` |  |
+| 1648.7 | eutectic: Liquid -> Al3Zr5 + bcc-A2 | Liquid: Zr 0.702; Al3Zr5: Zr 0.625; bcc-A2: Zr 0.768 | model | [2] (ed.) 1998 | Table I, p. 131, row 10; `ORC-TQW4SPC6JZ` |  |
+| 1629 | eutectic: L -> bcc(Zr) + Al3Zr5 | L: Zr 0.708; bcc(Zr): Zr 0.758; Al3Zr5: Zr 0.625 | model | [3] Long 2020 | Table 2, p. 3, row 2; `ORC-JYO42N75SZ` |  |
+| 1623 | eutectic: L -> bcc(Zr) + Al3Zr5 | L: Zr 0.705; bcc(Zr): Zr 0.741; Al3Zr5: Zr 0.625 | experimental | [3] Long 2020; _cites McPherson 1954_ | Table 2, p. 3, row 1; `ORC-2BCIQQVA4J` |  |
 | 1623 | L \<-> bcc + Zr5Al3 | L: Al 0.295; bcc: Al 0.259; Zr5Al3: Al 0.375 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 1; `ORC-F777ROHW7M` |  |
 | 1623 | eutectic: L -> bcc + Al3Zr5 | L: Zr 0.705; Al3Zr5: Zr 0.625 | experimental | [5] Tamim 2018; _cites McPherson 1954_ | Table 1, p. 4, row 3; `ORC-HOKKDDHAWV` |  |
 | 1623 | eutectic: L -> bcc + Al3Zr5 | L: Zr 0.715; Al3Zr5: Zr 0.625 | model | [5] Tamim 2018 | Table 1, p. 4, row 2; `ORC-LXLKY3URTB` |  |
-| 1623 | L -> bcc_A2 + Al3Zr5 | L: Zr 0.705; Al3Zr5: Zr 0.625 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 23; `ORC-SAXS5KY4F2` |  |
+| 1623 | eutectic: L -> bcc_A2 + Al3Zr5 | L: Zr 0.705; Al3Zr5: Zr 0.625 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 23; `ORC-SAXS5KY4F2` |  |
 | 1623 | eutectic: L -> bcc + Al3Zr5 | L: Zr 0.69; Al3Zr5: Zr 0.625 | experimental | [5] Tamim 2018; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 1, p. 4, row 4; `ORC-ZXU6LPSRKR` |  |
 | 1621 | L \<-> bcc + Zr5Al3 | L: Al 0.295; bcc: Al 0.249; Zr5Al3: Al 0.375 | model | [1] T 2001 | Table 1, p. 2, row 2; `ORC-YORN46GNNG` |  |
 | 1616 | eutectic: L -> bcc + Al3Zr5 | L: Zr 0.717; Al3Zr5: Zr 0.625 | model | [5] Tamim 2018 | Table 1, p. 4, row 1; `ORC-4VTOLIVDSG` |  |
-| 1613 | L -> bcc_A2 + Al3Zr5 | L: Zr 0.7; bcc_A2: Zr 0.748; Al3Zr5: Zr 0.625 | model | [4] Fischer 2015 | Table 4, p. 7, row 22; `ORC-2USBM3FFPD` |  |
+| 1613 | eutectic: L -> bcc_A2 + Al3Zr5 | L: Zr 0.7; bcc_A2: Zr 0.748; Al3Zr5: Zr 0.625 | model | [4] Fischer 2015 | Table 4, p. 7, row 22; `ORC-2USBM3FFPD` |  |
 | 1573 | peritectoid: bcc + Al3Zr5 -> AlZr2 | Al3Zr5: Zr 0.625; AlZr2: Zr 0.666667 | experimental | [5] Tamim 2018; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 1, p. 4, row 8; `ORC-UWNPV3NAQN` |  |
 | 1551 | peritectoid: Al4Zr5 + Al3Zr2 -> AlZr | Al4Zr5: Zr 0.555556; Al3Zr2: Zr 0.4; AlZr: Zr 0.5 | model | [5] Tamim 2018 | Table 1, p. 4, row 48; `ORC-IKOOOU7KVW` |  |
 | 1549 | peritectoid: Al4Zr5 + Al3Zr2 -> AlZr | Al4Zr5: Zr 0.555556; Al3Zr2: Zr 0.4; AlZr: Zr 0.5 | model | [5] Tamim 2018 | Table 1, p. 4, row 49; `ORC-UFDRMC6VAC` |  |
@@ -357,15 +357,14 @@ Table: Invariant reactions reported in the literature for the Al–Zr system (18
 | 1548 | Zr5Al4 + Zr2Al3 \<-> ZrAl | Zr5Al4: Al 0.444; Zr2Al3: Al 0.6; ZrAl: Al 0.5 | experimental | [1] T 2001; _cites McPherson 1954_ | Table 1, p. 2, row 23; `ORC-RTGG62GMGK` |  |
 | 1548 | peritectoid: Al4Zr5 + Al3Zr2 -> AlZr | Al4Zr5: Zr 0.555556; Al3Zr2: Zr 0.4; AlZr: Zr 0.5 | experimental | [5] Tamim 2018; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 1, p. 4, row 51; `ORC-SKAXOHRCH5` |  |
 | 1543 | Al4Zr5 + Al3Zr2 -> AlZr | Al4Zr5: Zr 0.566; Al3Zr2: Zr 0.4; AlZr: Zr 0.5 | model | [3] Long 2020 | Table 2, p. 3, row 25; `ORC-OIQZYEQ22B` |  |
-| 1529.5 | peritectoid: Al3Zr2 + Al4Zr5 -> AlZr | Al3Zr2: Zr 0.4; Al4Zr5: Zr 0.556; AlZr: Zr 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 15; `ORC-ZKA3LA2BAA` |  |
-| 1524.2 | peritectoid: Al2Zr3 + bcc-A2 -> AlZr2 | Al2Zr3: Zr 0.6; bcc-A2: Zr 0.801; AlZr2: Zr 0.666 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 11; `ORC-H5AFF44TRB` |  |
+| 1529.5 | peritectoid: Al3Zr2 + Al4Zr5 -> AlZr | Al3Zr2: Zr 0.4; Al4Zr5: Zr 0.556; AlZr: Zr 0.5 | model | [2] (ed.) 1998 | Table I, p. 131, row 15; `ORC-ZKA3LA2BAA` |  |
+| 1524.2 | peritectoid: Al2Zr3 + bcc-A2 -> AlZr2 | Al2Zr3: Zr 0.6; bcc-A2: Zr 0.801; AlZr2: Zr 0.666 | model | [2] (ed.) 1998 | Table I, p. 131, row 11; `ORC-H5AFF44TRB` |  |
 | 1523 | peritectoid: bcc + Al3Zr5 -> AlZr2 | Al3Zr5: Zr 0.625; AlZr2: Zr 0.666667 | experimental | [5] Tamim 2018; _cites Peruzzi 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 1, p. 4, row 9; `ORC-3C7ZQX72FM` |  |
 | 1523 | Al3Zr5 + bcc_A2 -> Al1Zr2 | Al3Zr5: Zr 0.78; Al1Zr2: Zr 0.666667 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 27; `ORC-3ZGDVC25KG` |  |
 | 1523 | Al3Zr2 + Al4Zr5 -> Al1Zr1 | Al3Zr2: Zr 0.4; Al4Zr5: Zr 0.555556; Al1Zr1: Zr 0.5 | model | [4] Fischer 2015 | Table 4, p. 7, row 24; `ORC-5UT5AQVB7W` |  |
 | 1523 | peritectoid: Al4Zr5 + Al3Zr2 -> AlZr | Al4Zr5: Zr 0.555556; Al3Zr2: Zr 0.4; AlZr: Zr 0.5 | experimental | [5] Tamim 2018; _cites McPherson 1954_ | Table 1, p. 4, row 50; `ORC-OVL6YL5CVX` |  |
 | 1523 | Al3Zr2 + Al4Zr5 -> Al1Zr1 | Al3Zr2: Zr 0.4; Al4Zr5: Zr 0.555556; Al1Zr1: Zr 0.5 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 25; `ORC-T5J4MS54UM` |  |
 | 1490 | bcc(Zr) + Al3Zr5 -> AlZr2 | bcc(Zr): Zr 0.804; Al3Zr5: Zr 0.625; AlZr2: Zr 0.667 | model | [3] Long 2020 | Table 2, p. 3, row 4; `ORC-45Y64PFWAY` |  |
-| 1488.15 | peritectoid: (19.9)b ?Al3Zr5 $ AlZr2 |  | model | [5] Tamim 2018; _cites Peruzzi 1992_ [doi](https://doi.org/10.1007/bf02667556) | p. 3; `ORC-5J65UCIS2O.3f2f30` | “However, Peruzzi \[35\] suggested modifications in temperatures and compositions for all three peritectoid reactions: (19.9)b ?Al3Zr5 $ AlZr2 at 1215 ± 10 C; (12.0)b ? AlZr2 $ AlZr3 at 1019 ± 2 C; and (6.8)b ?AlZr3 $ (8.3)a at 910 ± 3 C.” |
 | 1488 | peritectoid: bcc + Al3Zr5 -> AlZr2 | Al3Zr5: Zr 0.625; AlZr2: Zr 0.666667 | experimental | [5] Tamim 2018 | Table 1, p. 4, row 10; `ORC-5AB7DM4JEM` |  |
 | 1488 | peritectoid: bcc + Al3Zr5 -> AlZr2 | Al3Zr5: Zr 0.625; AlZr2: Zr 0.666667 | model | [5] Tamim 2018 | Table 1, p. 4, row 6; `ORC-7UMQW4JJLM` |  |
 | 1488 | bcc(Zr) + Al3Zr5 -> AlZr2 | bcc(Zr): Zr 0.801; Al3Zr5: Zr 0.625; AlZr2: Zr 0.667 | experimental | [3] Long 2020; _cites Peruzzi 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 2, p. 3, row 3; `ORC-AVOBQLX5XQ` |  |
@@ -388,7 +387,6 @@ Table: Invariant reactions reported in the literature for the Al–Zr system (18
 | 1301 | Al4Zr5 + Al2Zr3 -> Al3Zr4 | Al4Zr5: Zr 0.555556; Al2Zr3: Zr 0.6; Al3Zr4: Zr 0.571429 | model | [4] Fischer 2015 | Table 4, p. 7, row 29; `ORC-SUM2IVOSDH` |  |
 | 1298 | Al2Zr3 + Al4Zr5 -> Al3Zr4 | Al2Zr3: Zr 0.6; Al4Zr5: Zr 0.566; Al3Zr4: Zr 0.571 | model | [3] Long 2020 | Table 2, p. 3, row 18; `ORC-5UTUCDHQFJ` |  |
 | 1296 | bcc(Zr) + AlZr2 -> AlZr3 | bcc(Zr): Zr 0.881; AlZr2: Zr 0.667; AlZr3: Zr 0.75 | model | [3] Long 2020 | Table 2, p. 3, row 6; `ORC-NNSGLMD3RP` |  |
-| 1292.15 | peritectoid: (12.0)b ? AlZr2 $ AlZr3 |  | model | [5] Tamim 2018; _cites Peruzzi 1992_ [doi](https://doi.org/10.1007/bf02667556) | p. 3; `ORC-5J65UCIS2O.5d3caf` | “However, Peruzzi \[35\] suggested modifications in temperatures and compositions for all three peritectoid reactions: (19.9)b ?Al3Zr5 $ AlZr2 at 1215 ± 10 C; (12.0)b ? AlZr2 $ AlZr3 at 1019 ± 2 C; and (6.8)b ?AlZr3 $ (8.3)a at 910 ± 3 C.” |
 | 1292 | Bcc + Zr2Al \<-> Zr3Al | Bcc: Al 0.12; Zr2Al: Al 0.333; Zr3Al: Al 0.25 | experimental | [1] T 2001; _cites Peruzzi 1992_ | Table 1, p. 2, row 5; `ORC-3WCX7N6GQM` |  |
 | 1292 | peritectoid: bcc + AlZr2 -> AlZr3 | AlZr2: Zr 0.666667; AlZr3: Zr 0.75 | model | [5] Tamim 2018 | Table 1, p. 4, row 12; `ORC-7HGRBQCRWN` |  |
 | 1292 | peritectoid: bcc + AlZr2 -> AlZr3 | AlZr2: Zr 0.666667; AlZr3: Zr 0.75 | experimental | [5] Tamim 2018; _cites Peruzzi 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 1, p. 4, row 13; `ORC-DEFZDBXFWT` |  |
@@ -420,14 +418,13 @@ Table: Invariant reactions reported in the literature for the Al–Zr system (18
 | 1272 | eutectic: Al4Zr5 -> Al2Zr + Al3Zr4 + AlZr |  | model | [6] Guo 2008 | Table 3, p. 7, row 55; `ORC-LGRNER63IE` |  |
 | 1272 | Zr5Al4 \<-> Zr4Al3 + ZrAl | Zr5Al4: Al 0.444; Zr4Al3: Al 0.429; ZrAl: Al 0.5 | model | [1] T 2001 | Table 1, p. 2, row 18; `ORC-TPV777ZB6W` |  |
 | 1261 | peritectoid: bcc + AlZr2 -> AlZr3 | AlZr2: Zr 0.666667; AlZr3: Zr 0.75 | experimental | [5] Tamim 2018; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 1, p. 4, row 14; `ORC-LKXWFXNNHQ` |  |
-| 1252.3 | peritectoid: AlZr2 + bcc-A2 -> AlZr3 | AlZr2: Zr 0.667; bcc-A2: Zr 0.877; AlZr3: Zr 0.75 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 13; `ORC-IRN5LBTYCW` |  |
+| 1252.3 | peritectoid: AlZr2 + bcc-A2 -> AlZr3 | AlZr2: Zr 0.667; bcc-A2: Zr 0.877; AlZr3: Zr 0.75 | model | [2] (ed.) 1998 | Table I, p. 131, row 13; `ORC-IRN5LBTYCW` |  |
 | 1248 | Al1Zr2 + bcc_A2 -> Al1Zr3 | Al1Zr2: Zr 0.88; Al1Zr3: Zr 0.75 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 34; `ORC-67X7IU3YA3` |  |
-| 1241.7 | eutectoid: Al3Zr5 -> Al2Zr3 + AlZr2 | Al3Zr5: Zr 0.625; Al2Zr3: Zr 0.6; AlZr2: Zr 0.666 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 12; `ORC-34PSVT2O5Z` |  |
+| 1241.7 | eutectoid: Al3Zr5 -> Al2Zr3 + AlZr2 | Al3Zr5: Zr 0.625; Al2Zr3: Zr 0.6; AlZr2: Zr 0.666 | model | [2] (ed.) 1998 | Table I, p. 131, row 12; `ORC-34PSVT2O5Z` |  |
 | 1213 | bcc_A2 + Al1Zr3 -> hcp_A3 | bcc_A2: Zr 0.9; Al1Zr3: Zr 0.89 | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 39; `ORC-343PZPFZKM` |  |
 | 1213 | peritectoid: bcc + AlZr3 -> hcp | AlZr3: Zr 0.75 | experimental | [5] Tamim 2018; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 1, p. 4, row 18; `ORC-673P7FF53T` |  |
-| 1212.2 | peritectoid: AlZr3 + bcc-A2 -> hcp-A3 | AlZr3: Zr 0.75; bcc-A2: Zr 0.894; hcp-A3: Zr 0.879 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 14; `ORC-LWK4R7WLFY` |  |
+| 1212.2 | peritectoid: AlZr3 + bcc-A2 -> hcp-A3 | AlZr3: Zr 0.75; bcc-A2: Zr 0.894; hcp-A3: Zr 0.879 | model | [2] (ed.) 1998 | Table I, p. 131, row 14; `ORC-LWK4R7WLFY` |  |
 | 1185 | bcc(Zr) + AlZr3 -> hcp(Zr) | bcc(Zr): Zr 0.93; AlZr3: Zr 0.75; hcp(Zr): Zr 0.912 | model | [3] Long 2020 | Table 2, p. 3, row 8; `ORC-P675ZRTAKX` |  |
-| 1183.15 | peritectoid: (6.8)b ?AlZr3 $ (8.3)a |  | model | [5] Tamim 2018; _cites Peruzzi 1992_ [doi](https://doi.org/10.1007/bf02667556) | p. 3; `ORC-5J65UCIS2O.4037f7` | “However, Peruzzi \[35\] suggested modifications in temperatures and compositions for all three peritectoid reactions: (19.9)b ?Al3Zr5 $ AlZr2 at 1215 ± 10 C; (12.0)b ? AlZr2 $ AlZr3 at 1019 ± 2 C; and (6.8)b ?AlZr3 $ (8.3)a at 910 ± 3 C.” |
 | 1183 | bcc_A2 + Al1Zr3 -> hcp_A3 | bcc_A2: Zr 0.931; Al1Zr3: Zr 0.917 | experimental | [4] Fischer 2015; _cites Peruzzi 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 40; `ORC-3GEBBYJXPB` |  |
 | 1183 | peritectoid: bcc + AlZr3 -> hcp | AlZr3: Zr 0.75 | experimental | [5] Tamim 2018; _cites Peruzzi 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 1, p. 4, row 17; `ORC-EWI7KWEUWX` |  |
 | 1183 | peritectoid: bcc + AlZr3 -> hcp | AlZr3: Zr 0.75 | model | [5] Tamim 2018 | Table 1, p. 4, row 16; `ORC-HDYNPTEN3F` |  |
@@ -438,24 +435,23 @@ Table: Invariant reactions reported in the literature for the Al–Zr system (18
 | 1176 | bcc_A2 + Al1Zr3 -> hcp_A3 | bcc_A2: Zr 0.954; Al1Zr3: Zr 0.922 | model | [4] Fischer 2015 | Table 4, p. 7, row 38; `ORC-ADU77LZ7DZ` |  |
 | 934 | Al3Zr1 + L -> fcc_A1 | Al3Zr1: Zr 3.000e-4; L: Zr 8.000e-4 | experimental | [4] Fischer 2015; _cites Fink 1939_ | Table 4, p. 7, row 2; `ORC-6BKB44JKTS` |  |
 | 934 | Al3Zr1 + L -> fcc_A1 | Al3Zr1: Zr 3.000e-4; L: Zr 8.000e-4 | model | [4] Fischer 2015 | Table 4, p. 7, row 1; `ORC-MIG7CUANBD` |  |
-| 933.95 | peritectic: L + Al3Zr -> (Al) |  | experimental | [5] Tamim 2018; _cites Fink 1939_ | p. 2; `ORC-PTQ6G3ERA2` | “These authors reported a partial phase diagram in which the Al solid solution is formed by the peritectic reaction L ? Al3Zr $ (Al) at 660.8 C.” |
 | 933.9 | ZrAl3 + L \<-> fcc | ZrAl3: Al 0.75; L: Al 0.9997; fcc: Al 0.9992 | experimental | [1] T 2001; _cites Fink 1939_ | Table 1, p. 2, row 33; `ORC-QK3KRK5NUD` |  |
 | 933.8 | ZrAl3 + L \<-> fcc | ZrAl3: Al 0.75; L: Al 0.9997; fcc: Al 0.9992 | model | [1] T 2001 | Table 1, p. 2, row 34; `ORC-YKEBLSSWHY` |  |
-| 933.8 | peritectic: Liquid -> fcc-A1 + Al3Zr | Liquid: Zr 2.000e-4; fcc-A1: Zr 8.000e-4; Al3Zr: Zr 0.25 | unspecified | [2] Hämäläinen 1998 | Table I, p. 131, row 1; `ORC-Z33QAI7ODT` |  |
-| 933 | L -> fcc(Al) + Al3Zr | L: Zr 3.600e-4; fcc(Al): Zr 1.500e-4; Al3Zr: Zr 0.25 | model | [3] Long 2020 | Table 2, p. 3, row 34; `ORC-IFDPTAWP63` |  |
-| 933 | L -> fcc(Al) + Al3Zr | L: Zr 2.900e-4; fcc(Al): Zr 1.500e-4; Al3Zr: Zr 0.25 | experimental | [3] Long 2020; _cites Khvan 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.02.023) | Table 2, p. 3, row 33; `ORC-WKVL2HWAPQ` |  |
+| 933.8 | peritectic: Liquid -> fcc-A1 + Al3Zr | Liquid: Zr 2.000e-4; fcc-A1: Zr 8.000e-4; Al3Zr: Zr 0.25 | model | [2] (ed.) 1998 | Table I, p. 131, row 1; `ORC-Z33QAI7ODT` |  |
+| 933 | eutectic: L -> fcc(Al) + Al3Zr | L: Zr 3.600e-4; fcc(Al): Zr 1.500e-4; Al3Zr: Zr 0.25 | model | [3] Long 2020 | Table 2, p. 3, row 34; `ORC-IFDPTAWP63` |  |
+| 933 | eutectic: L -> fcc(Al) + Al3Zr | L: Zr 2.900e-4; fcc(Al): Zr 1.500e-4; Al3Zr: Zr 0.25 | experimental | [3] Long 2020; _cites Khvan 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.02.023) | Table 2, p. 3, row 33; `ORC-WKVL2HWAPQ` |  |
 | 929.15 | eutectic |  | experimental | [5] Tamim 2018 | p. 3; `ORC-O7XSHETWV6` | “In addition, DTA measurements show that the invariant equilibrium involving Al3Zr and the (Al) solid solution seems to be of eutectic nature at 656 ± 2 C, which is lower than the melting point of pure aluminum.” |
-| 929 | (L -> fcc_A1 + Al3Zr1) | L: Zr 0.0072; Al3Zr1: Zr 0.25 | experimental | [4] Fischer 2015; _cites Janghorban 2013_ [doi](https://doi.org/10.1007/s10973-013-3113-4) | Table 4, p. 7, row 3; `ORC-3HY7C255GD` |  |
+| 929 | eutectic: (L -> fcc_A1 + Al3Zr1) | L: Zr 0.0072; Al3Zr1: Zr 0.25 | experimental | [4] Fischer 2015; _cites Janghorban 2013_ [doi](https://doi.org/10.1007/s10973-013-3113-4) | Table 4, p. 7, row 3; `ORC-3HY7C255GD` |  |
 | 929 | eutectic: L -> FCC + Al3Zr | L: Zr 0.007; Al3Zr: Zr 0.25 | experimental | [5] Tamim 2018; _cites Smallman 2014_ | Table 1, p. 4, row 63; `ORC-DI6DMQCU4P` |  |
 | 929 | eutectic: L -> FCC + Al3Zr | L: Zr 0; Al3Zr: Zr 0.25 | model | [5] Tamim 2018 | Table 1, p. 4, row 61; `ORC-JKC4CPVPSJ` |  |
-| 929 | L -> fcc(Al) + Al3Zr | L: Zr 0.0072; fcc(Al): Zr 8.000e-4; Al3Zr: Zr 0.25 | experimental | [3] Long 2020; _cites Janghorban 2013_ [doi](https://doi.org/10.1007/s10973-013-3113-4) | Table 2, p. 3, row 32; `ORC-U7CG7XIF4E` |  |
+| 929 | eutectic: L -> fcc(Al) + Al3Zr | L: Zr 0.0072; fcc(Al): Zr 8.000e-4; Al3Zr: Zr 0.25 | experimental | [3] Long 2020; _cites Janghorban 2013_ [doi](https://doi.org/10.1007/s10973-013-3113-4) | Table 2, p. 3, row 32; `ORC-U7CG7XIF4E` |  |
 | 929 | eutectic: L -> FCC + Al3Zr | L: Zr 0.006; Al3Zr: Zr 0.25 | model | [5] Tamim 2018 | Table 1, p. 4, row 62; `ORC-W7ICPA4HMK` |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Zr system (404)
+Table: Enthalpies of formation, Al–Zr system (413)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -501,6 +497,7 @@ Table: Enthalpies of formation, Al–Zr system (404)
 | Al2Zr | [Al2Zr](https://data.orchid-project.org/compounds/Al2Zr.html) | -45.81 kJ/mol-atom |  | model | -51.892 (mp-aaaaaecq) | -52.115 (oqmd-9987) | [3] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 25; `ORC-33URECZ6HH.67529d` |  |
 | Al2Zr | [Al2Zr](https://data.orchid-project.org/compounds/Al2Zr.html) | -45.81 kJ/mol-atom | 298.15 | model | -51.892 (mp-aaaaaecq) | -52.115 (oqmd-9987) | [4] Fischer 2015; _cites Saunders 1989_ | Table 2, p. 4, row 20; `ORC-JKJYU73MIG` |  |
 | Al2Zr | [Al2Zr](https://data.orchid-project.org/compounds/Al2Zr.html) | -45.8 kJ/mol-atom |  | model | -51.892 (mp-aaaaaecq) | -52.115 (oqmd-9987) | [3] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 24; `ORC-FGR4IDO453.d73613` |  |
+| Al2Zr | [Al2Zr](https://data.orchid-project.org/compounds/Al2Zr.html) | -45.8 kJ/mol-atom | 1 | model | -51.892 (mp-aaaaaecq) | -52.115 (oqmd-9987) | [8] Saunders 1986 | Table 4, p. 8, row 9; `ORC-JJQXV7GNNK.0753ac` |  |
 | Al2Zr |  | -45.8 unknown |  | model |  |  | [5] Tamim 2018; _cites Saunders 1988_ | Table 3, p. 9, row 77; `ORC-OORIQT5Q2O.4b0cc3` |  |
 | Al2Zr | [Al2Zr](https://data.orchid-project.org/compounds/Al2Zr.html) | -45.54 kJ/mol-atom | 298.15 | model | -51.892 (mp-aaaaaecq) | -52.115 (oqmd-9987) | [4] Fischer 2015; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 2, p. 4, row 19; `ORC-BTWZEFMCBF` |  |
 | Al2Zr | [Al2Zr](https://data.orchid-project.org/compounds/Al2Zr.html) | -45.536 kJ/mol-atom |  | model | -51.892 (mp-aaaaaecq) | -52.115 (oqmd-9987) | [3] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 26; `ORC-2T5RSR2E6B.f79f20` |  |
@@ -516,6 +513,7 @@ Table: Enthalpies of formation, Al–Zr system (404)
 | Al2Zr3 | [Al2Zr3](https://data.orchid-project.org/compounds/Al2Zr3.html) | -49 kJ/mol-atom ± 4 | 298.15 | experimental | -38.78 (mp-aaaaatyc) | -38.797 (oqmd-10621) | [3] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 81; `ORC-K22KOZGAVB.08328a` |  |
 | Al2Zr3 | [Al2Zr3](https://data.orchid-project.org/compounds/Al2Zr3.html) | -49 kJ/mol-atom ± 3.1 | 298.15 | experimental | -38.78 (mp-aaaaatyc) | -38.797 (oqmd-10621) | [3] Long 2020; _cites Macia 2018_ | Table 4, p. 7, row 82; `ORC-KFXNSOJ5Z6.0243dc` |  |
 | Al2Zr3 |  | -44.909 unknown |  | model |  |  | [5] Tamim 2018 | Table 3, p. 9, row 26; `ORC-4SFSAWWO4L.47f09d` |  |
+| Al2Zr3 | [Al2Zr3](https://data.orchid-project.org/compounds/Al2Zr3.html) | -42.67 kJ/mol-atom | 1 | model | -38.78 (mp-aaaaatyc) | -38.797 (oqmd-10621) | [8] Saunders 1986 | Table 4, p. 8, row 13; `ORC-I54ZED46FV.7676c3` |  |
 | Al2Zr3 | [Al2Zr3](https://data.orchid-project.org/compounds/Al2Zr3.html) | -42.67 kJ/mol-atom |  | model | -38.78 (mp-aaaaatyc) | -38.797 (oqmd-10621) | [3] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 83; `ORC-ZE7UUK5VFD.2b0fd9` |  |
 | Al2Zr3 |  | -41.929 unknown |  | model |  |  | [5] Tamim 2018 | Table 3, p. 9, row 27; `ORC-LLC4FQ3ORG.eb333b` |  |
 | Al2Zr3 | [Al2Zr3](https://data.orchid-project.org/compounds/Al2Zr3.html) | -40.84 kJ/mol-atom | 298.15 | experimental | -38.78 (mp-aaaaatyc) | -38.797 (oqmd-10621) | [8] Saunders 1986; _cites ref. 36_ | Table 2, p. 5, row 11; `ORC-6YED4BNHFP.3c6429` |  |
@@ -586,6 +584,7 @@ Table: Enthalpies of formation, Al–Zr system (404)
 | Al3Zr | [Al3Zr](https://data.orchid-project.org/compounds/Al3Zr.html) | -40.75 kJ/mol-atom | 298.15 | experimental | -47.013 (mp-aaaaaapf) | -47.081 (oqmd-18198) | [4] Fischer 2015; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 2, p. 4, row 1; `ORC-MALFDLVR2A` |  |
 | Al3Zr | [Al3Zr](https://data.orchid-project.org/compounds/Al3Zr.html) | -40.63 kJ/mol-atom | 298.15 | model | -47.013 (mp-aaaaaapf) | -47.081 (oqmd-18198) | [4] Fischer 2015; _cites Saunders 1989_ | Table 2, p. 4, row 4; `ORC-A6PBYPD7XK` |  |
 | Al3Zr | [Al3Zr](https://data.orchid-project.org/compounds/Al3Zr.html) | -40.6 kJ/mol-atom |  | model | -47.013 (mp-aaaaaapf) | -47.081 (oqmd-18198) | [3] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 9; `ORC-A3FEXYVVIN.1e56a9` |  |
+| Al3Zr | [Al3Zr](https://data.orchid-project.org/compounds/Al3Zr.html) | -40.6 kJ/mol-atom | 1 | model | -47.013 (mp-aaaaaapf) | -47.081 (oqmd-18198) | [8] Saunders 1986 | Table 4, p. 8, row 8; `ORC-GH7JXE7WXN.bd47b8` |  |
 | Al3Zr | [Al3Zr](https://data.orchid-project.org/compounds/Al3Zr.html) | -40.6 kJ/mol-atom | 298.15 | model | -47.013 (mp-aaaaaapf) | -47.081 (oqmd-18198) | [4] Fischer 2015; _cites Harvey 2012_ [doi](https://doi.org/10.1103/physrevb.86.224202) | Table 2, p. 4, row 6; `ORC-L7TZCWZXVC` |  |
 | Al3Zr |  | -40.5 unknown |  | model |  |  | [5] Tamim 2018; _cites Saunders 1988_ | Table 3, p. 9, row 88; `ORC-W4GTYD5HAW.9c503b` |  |
 | Al3Zr | [Al3Zr](https://data.orchid-project.org/compounds/Al3Zr.html) | -40.5 kJ/mol-atom |  | model | -47.013 (mp-aaaaaapf) | -47.081 (oqmd-18198) | [3] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 10; `ORC-ZVO4OOOWRD.0fd6a0` |  |
@@ -599,11 +598,11 @@ Table: Enthalpies of formation, Al–Zr system (404)
 | Al3Zr |  | -36.2 unknown |  | model |  |  | [5] Tamim 2018; _cites Saunders 1988_ | Table 3, p. 9, row 23; `ORC-OR7FJUJCTO.00d2ba` |  |
 | Al3Zr |  | -36.02 unknown |  | DFT |  |  | [5] Tamim 2018; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 3, p. 9, row 20; `ORC-MBBDH3Q6WV.6f4918` |  |
 | Al3Zr |  | -35.308 unknown |  | DFT |  |  | [5] Tamim 2018; _cites Duan 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.12.079) | Table 3, p. 9, row 19; `ORC-2MGH4MBQQ3.1c898a` |  |
-| Al3Zr- D022 |  | -178.4 eV/kJ mol−1 | 298.15 | experimental |  |  | [7] Khvan 2018 | Table 1, p. 4, row 4; `ORC-7NVGT4NN6B.e80db3` |  |
-| Al3Zr- D022 |  | -1.849 eV/f.u. | 298.15 | experimental |  |  | [7] Khvan 2018 | Table 1, p. 4, row 4; `ORC-7NVGT4NN6B.c47178` |  |
-| Al3Zr- D023 |  | -188.5 eV/kJ mol−1 | 298.15 | experimental |  |  | [7] Khvan 2018 | Table 1, p. 4, row 5; `ORC-S547AP7AF2.78abc3` |  |
+| Al3Zr- D022 |  | -178.4 eV/kJ mol−1 | 0 | DFT |  |  | [7] Khvan 2018 | Table 1, p. 4, row 4; `ORC-7NVGT4NN6B.e80db3` |  |
+| Al3Zr- D022 |  | -1.849 eV/f.u. | 0 | DFT |  |  | [7] Khvan 2018 | Table 1, p. 4, row 4; `ORC-7NVGT4NN6B.c47178` |  |
+| Al3Zr- D023 |  | -188.5 eV/kJ mol−1 | 0 | DFT |  |  | [7] Khvan 2018 | Table 1, p. 4, row 5; `ORC-S547AP7AF2.78abc3` |  |
 | Al3Zr- D023 |  | -187.12 unknown |  | model |  |  | [7] Khvan 2018; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 1, p. 4, row 21; `ORC-2VAGOSHC7X` |  |
-| Al3Zr- D023 |  | -1.954 eV/f.u. | 298.15 | experimental |  |  | [7] Khvan 2018 | Table 1, p. 4, row 5; `ORC-S547AP7AF2.19a2b9` |  |
+| Al3Zr- D023 |  | -1.954 eV/f.u. | 0 | DFT |  |  | [7] Khvan 2018 | Table 1, p. 4, row 5; `ORC-S547AP7AF2.19a2b9` |  |
 | Al3Zr2 | [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | -59.6 kJ/mol-atom ± 2.4 | 298.15 | experimental | -50.307 (mp-aaaaacfa) | -50.271 (oqmd-10622) | [3] Long 2020; _cites Macia 2018_ | Table 4, p. 7, row 36; `ORC-YIN7NNCJGA.322265` |  |
 | Al3Zr2 | [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | -57.664 kJ/mol-atom |  | model | -50.307 (mp-aaaaacfa) | -50.271 (oqmd-10622) | [3] Long 2020 | Table 4, p. 7, row 30; `ORC-GBFQHFAVYV.2667da` |  |
 | Al3Zr2 | [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | -56.613 kJ/mol-atom |  | model | -50.307 (mp-aaaaacfa) | -50.271 (oqmd-10622) | [3] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 40; `ORC-RCMCO7LYXS.2c079d` |  |
@@ -630,6 +629,7 @@ Table: Enthalpies of formation, Al–Zr system (404)
 | Al3Zr2 | [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | -49.005 kJ/mol-atom |  | model | -50.307 (mp-aaaaacfa) | -50.271 (oqmd-10622) | [3] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 42; `ORC-AGL5FS54TO.3158dc` |  |
 | Al3Zr2 |  | -49.005 unknown |  | model |  |  | [5] Tamim 2018 | Table 3, p. 9, row 60; `ORC-LUEEFPVQMJ.4cc57d` |  |
 | Al3Zr2 | [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | -47.3 kJ/mol-atom |  | model | -50.307 (mp-aaaaacfa) | -50.271 (oqmd-10622) | [3] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 37; `ORC-MTDYTQVUXH.b9ece6` |  |
+| Al3Zr2 | [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | -47.3 kJ/mol-atom | 1 | model | -50.307 (mp-aaaaacfa) | -50.271 (oqmd-10622) | [8] Saunders 1986 | Table 4, p. 8, row 10; `ORC-MTN54K26DV.8cf4fb` |  |
 | Al3Zr2 | [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | -46.96 kJ/mol-atom | 298.15 | experimental | -50.307 (mp-aaaaacfa) | -50.271 (oqmd-10622) | [4] Fischer 2015; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 2, p. 4, row 30; `ORC-YCVU7O6JN7` |  |
 | Al3Zr2 | [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | -46.94 kJ/mol-atom |  | model | -50.307 (mp-aaaaacfa) | -50.271 (oqmd-10622) | [3] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 38; `ORC-NKYSAPHX4Y.b7bec8` |  |
 | Al3Zr2 | [Al3Zr2](https://data.orchid-project.org/compounds/Al3Zr2.html) | -46.94 kJ/mol-atom | 298.15 | model | -50.307 (mp-aaaaacfa) | -50.271 (oqmd-10622) | [4] Fischer 2015; _cites Saunders 1989_ | Table 2, p. 4, row 32; `ORC-RFZPKJ55JC` |  |
@@ -670,6 +670,7 @@ Table: Enthalpies of formation, Al–Zr system (404)
 | Al3Zr5 | [Al3Zr5](https://data.orchid-project.org/compounds/Al3Zr5.html) | -48 kJ/mol-atom ± 4 | 298.15 | experimental | -36.102 (mp-aaaaaytg) | -36.236 (oqmd-10625) | [3] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 94; `ORC-DHALTRJIC3.650203` |  |
 | Al3Zr5 | [Al3Zr5](https://data.orchid-project.org/compounds/Al3Zr5.html) | -47.803 kJ/mol-atom |  | model | -36.102 (mp-aaaaaytg) | -36.236 (oqmd-10625) | [3] Long 2020 | Table 4, p. 7, row 89; `ORC-6HFCG2KNLJ.9b9526` |  |
 | Al3Zr5 | [Al3Zr5](https://data.orchid-project.org/compounds/Al3Zr5.html) | -39.973 kJ/mol-atom |  | model | -36.102 (mp-aaaaaytg) | -36.236 (oqmd-10625) | [3] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 100; `ORC-NCTZV472MJ.aff5e9` |  |
+| Al3Zr5 | [Al3Zr5](https://data.orchid-project.org/compounds/Al3Zr5.html) | -39.806 kJ/mol-atom | 1 | model | -36.102 (mp-aaaaaytg) | -36.236 (oqmd-10625) | [8] Saunders 1986 | Table 4, p. 8, row 14; `ORC-UMS7MGYYH3.07828e` |  |
 | Al3Zr5 | [Al3Zr5](https://data.orchid-project.org/compounds/Al3Zr5.html) | -39.806 kJ/mol-atom |  | model | -36.102 (mp-aaaaaytg) | -36.236 (oqmd-10625) | [3] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 95; `ORC-YSFZOUUZN4.7cdd70` |  |
 | Al3Zr5 | [Al3Zr5](https://data.orchid-project.org/compounds/Al3Zr5.html) | -39 kJ/mol-atom |  | model | -36.102 (mp-aaaaaytg) | -36.236 (oqmd-10625) | [3] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 97; `ORC-3GH5CWZQSO.0d09c0` |  |
 | Al3Zr5 | [Al3Zr5](https://data.orchid-project.org/compounds/Al3Zr5.html) | -39 kJ/mol-atom | 298.15 | experimental | -36.102 (mp-aaaaaytg) | -36.236 (oqmd-10625) | [4] Fischer 2015; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 2, p. 4, row 92; `ORC-DRR3DEBB47` |  |
@@ -699,6 +700,7 @@ Table: Enthalpies of formation, Al–Zr system (404)
 | Al4Zr5 | [Al4Zr5](https://data.orchid-project.org/compounds/Al4Zr5.html) | -52 kJ/mol-atom ± 4 | 298.15 | experimental | -40.375 (mp-aaabgmiw) | -40.389 (oqmd-27980) | [3] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 61; `ORC-DQDZRZ4GOQ.95bb34` |  |
 | Al4Zr5 |  | -52 unknown ± 4 | 298.15 | experimental |  |  | [5] Tamim 2018; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 3, p. 9, row 46; `ORC-FVV2CVTZMV.3e34f4` |  |
 | Al4Zr5 | [Al4Zr5](https://data.orchid-project.org/compounds/Al4Zr5.html) | -49.419 kJ/mol-atom |  | model | -40.375 (mp-aaabgmiw) | -40.389 (oqmd-27980) | [3] Long 2020 | Table 4, p. 7, row 56; `ORC-Z6AJBYOYU5.daed4d` |  |
+| Al4Zr5 | [Al4Zr5](https://data.orchid-project.org/compounds/Al4Zr5.html) | -45.597 kJ/mol-atom | 1 | model | -40.375 (mp-aaabgmiw) | -40.389 (oqmd-27980) | [8] Saunders 1986 | Table 4, p. 8, row 12; `ORC-AFGM23IING.249116` |  |
 | Al4Zr5 | [Al4Zr5](https://data.orchid-project.org/compounds/Al4Zr5.html) | -45.597 kJ/mol-atom |  | model | -40.375 (mp-aaabgmiw) | -40.389 (oqmd-27980) | [3] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 62; `ORC-ODX4GDB7R3.6fe02f` |  |
 | Al4Zr5 |  | -43.717 unknown |  | model |  |  | [5] Tamim 2018 | Table 3, p. 9, row 41; `ORC-KNV3N2MOGH.184c82` |  |
 | Al4Zr5 | [Al4Zr5](https://data.orchid-project.org/compounds/Al4Zr5.html) | -43.6 kJ/mol-atom | 298.15 | experimental | -40.375 (mp-aaabgmiw) | -40.389 (oqmd-27980) | [8] Saunders 1986; _cites ref. 36_ | Table 2, p. 5, row 9; `ORC-BU2ZTSUJSD.32445a` |  |
@@ -739,6 +741,7 @@ Table: Enthalpies of formation, Al–Zr system (404)
 | AlZr |  | -53 unknown ± 4 | 298.15 | experimental |  |  | [5] Tamim 2018; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 3, p. 9, row 55; `ORC-LZZ5ZGTCWZ.a8785e` |  |
 | AlZr |  | -47.727 unknown |  | model |  |  | [5] Tamim 2018 | Table 3, p. 9, row 50; `ORC-QLREFXLZKY.928529` |  |
 | AlZr | [AlZr](https://data.orchid-project.org/compounds/AlZr.html) | -46.897 kJ/mol-atom |  | model | -45.406 (mp-aaaaaqqb) | -45.296 (oqmd-10619) | [3] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 50; `ORC-XV63ATYLE4.ad6ebb` |  |
+| AlZr | [AlZr](https://data.orchid-project.org/compounds/AlZr.html) | -46.897 kJ/mol-atom | 1 | model | -45.406 (mp-aaaaaqqb) | -45.296 (oqmd-10619) | [8] Saunders 1986 | Table 4, p. 8, row 11; `ORC-XVEX5SMM5M.6b950d` |  |
 | AlZr |  | -46.163 kJ/mol-atom |  | DFT |  |  | [3] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 46; `ORC-74NTQVWAER.1caf2a` |  |
 | AlZr |  | -46.163 unknown |  | DFT |  |  | [5] Tamim 2018; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 3, p. 9, row 54; `ORC-EVOWEURCDD.201b2b` |  |
 | AlZr | [AlZr](https://data.orchid-project.org/compounds/AlZr.html) | -46.16 kJ/mol-atom | 298.15 | model | -45.406 (mp-aaaaaqqb) | -45.296 (oqmd-10619) | [4] Fischer 2015; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 2, p. 4, row 50; `ORC-7GSMPTP5JB` |  |
@@ -782,6 +785,7 @@ Table: Enthalpies of formation, Al–Zr system (404)
 | AlZr2 |  | -36.753 unknown |  | DFT |  |  | [5] Tamim 2018; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 3, p. 9, row 13; `ORC-YEPURJ57GT.0eff13` |  |
 | AlZr2 | [AlZr2](https://data.orchid-project.org/compounds/AlZr2.html) | -36.75 kJ/mol-atom | 298.15 | model | -34.549 (mp-aaaaaduj) | -34.681 (oqmd-10620) | [4] Fischer 2015; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 2, p. 4, row 108; `ORC-N6OTYVG7GW` |  |
 | AlZr2 | [AlZr2](https://data.orchid-project.org/compounds/AlZr2.html) | -36.25 kJ/mol-atom |  | model | -34.549 (mp-aaaaaduj) | -34.681 (oqmd-10620) | [3] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 107; `ORC-H4GGLQZHNG.f070ff` |  |
+| AlZr2 | [AlZr2](https://data.orchid-project.org/compounds/AlZr2.html) | -36.25 kJ/mol-atom | 1 | model | -34.549 (mp-aaaaaduj) | -34.681 (oqmd-10620) | [8] Saunders 1986 | Table 4, p. 8, row 15; `ORC-HH5WAFKMP7.2d73da` |  |
 | AlZr2 | [AlZr2](https://data.orchid-project.org/compounds/AlZr2.html) | -36 kJ/mol-atom | 298.15 | model | -34.549 (mp-aaaaaduj) | -34.681 (oqmd-10620) | [4] Fischer 2015 | Table 2, p. 4, row 107; `ORC-LMYUJ56MNG` |  |
 | AlZr2 | [AlZr2](https://data.orchid-project.org/compounds/AlZr2.html) | -35.979 kJ/mol-atom |  | model | -34.549 (mp-aaaaaduj) | -34.681 (oqmd-10620) | [3] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 111; `ORC-KNIDHXO5BP.316d3b` |  |
 | AlZr2 | [AlZr2](https://data.orchid-project.org/compounds/AlZr2.html) | -34.94 kJ/mol-atom | 298.15 | model | -34.549 (mp-aaaaaduj) | -34.681 (oqmd-10620) | [4] Fischer 2015; _cites Mihalkovic 2011_ | Table 2, p. 4, row 110; `ORC-76XUHVF3VR` |  |
@@ -826,6 +830,7 @@ Table: Enthalpies of formation, Al–Zr system (404)
 | AlZr3 | [AlZr3](https://data.orchid-project.org/compounds/AlZr3.html) | -28.92 kJ/mol-atom | 298.15 | model | -29.168 (mp-aaaaacep) | -28.879 (oqmd-18197) | [4] Fischer 2015; _cites Colinet 2013_ [doi](https://doi.org/10.1016/j.jssc.2013.07.017) | Table 2, p. 4, row 126; `ORC-37LYJDSC7Z` |  |
 | AlZr3 | [AlZr3](https://data.orchid-project.org/compounds/AlZr3.html) | -28.85 kJ/mol-atom | 298.15 | model | -29.168 (mp-aaaaacep) | -28.879 (oqmd-18197) | [4] Fischer 2015; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 4, row 128; `ORC-C2YXUC2CEV` |  |
 | AlZr3 | [AlZr3](https://data.orchid-project.org/compounds/AlZr3.html) | -28.8 kJ/mol-atom | 298.15 | model | -29.168 (mp-aaaaacep) | -28.879 (oqmd-18197) | [4] Fischer 2015; _cites Harvey 2012_ [doi](https://doi.org/10.1103/physrevb.86.224202) | Table 2, p. 4, row 127; `ORC-E7SCVH6PZZ` |  |
+| AlZr3 | [AlZr3](https://data.orchid-project.org/compounds/AlZr3.html) | -28.7 kJ/mol-atom | 1 | model | -29.168 (mp-aaaaacep) | -28.879 (oqmd-18197) | [8] Saunders 1986 | Table 4, p. 8, row 16; `ORC-CZ2K5QNFSJ.067ea8` |  |
 | AlZr3 | [AlZr3](https://data.orchid-project.org/compounds/AlZr3.html) | -28.7 kJ/mol-atom |  | model | -29.168 (mp-aaaaacep) | -28.879 (oqmd-18197) | [3] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 119; `ORC-KDWUPQXWRF.f7af4f` |  |
 | AlZr3 |  | -27 unknown |  | model |  |  | [5] Tamim 2018; _cites Saunders 1988_ | Table 3, p. 9, row 6; `ORC-2UNEYPQX4T.611bf9` |  |
 | AlZr3 | [AlZr3](https://data.orchid-project.org/compounds/AlZr3.html) | -27 kJ/mol-atom | 298.15 | model | -29.168 (mp-aaaaacep) | -28.879 (oqmd-18197) | [4] Fischer 2015; _cites Saunders 1989_ | Table 2, p. 4, row 118; `ORC-IK4UMXSPGY` |  |
@@ -866,7 +871,7 @@ Table: Enthalpies of formation, Al–Zr system (404)
 
 ## Other properties
 
-### Phase transition (98)
+### Phase transition (95)
 
 Table: Phase transition, Al–Zr system
 
@@ -896,11 +901,8 @@ Table: Phase transition, Al–Zr system
 | Phase transition | 882 K | 882 | UNKNOWN; _alloy: Al 0.331, Zr 0.669_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 23; `ORC-PGIJKPSQMA` |  |
 | Phase transition | 885 K | 885 | UNKNOWN; _alloy: Al 0.378, Zr 0.622_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 24; `ORC-2GAMKYCRH5` |  |
 | Phase transition | 923 K | 923 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Xie 2021_ | Table A.3, p. 11, row 25; `ORC-JGQQBYGO3M` |  |
-| Phase transition | 932.2 K | 932.2 |  | experimental | [7] Khvan 2018 | p. 10; `ORC-BTR4IORLAT` | “A DTA analysis of as-cast samples identified a temperature arrest at 932.2 K (659 C).” |
 | Phase transition | 933 K | 933 | UNKNOWN; _alloy: Al 1, Zr 0_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 26; `ORC-EFO4JIGDRJ` |  |
 | Phase transition | 933 K | 933 | UNKNOWN; _alloy: Al 1, Zr 0_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 27; `ORC-ROQOWMY3LR` |  |
-| Phase transition | 933.1 K | 933.1 |  | experimental | [7] Khvan 2018 | p. 10; `ORC-6NVYDFSAWY` | “More refined DTA analyses on samples annealed for long times showed the thermal arrest to be close to 933.1 K (659.9 C).” |
-| Phase transition | 934.15 K | 934.15 | Liquid + Al3Zr $ s2 + fcc_A1 | model | [10] Bo 2017 | p. 7; `ORC-YG5BAEI5N7` | “According to the calculation result, the sample 3# only experienced one invariant reaction Liquid + Al3Zr $ s2 + fcc_A1 at 661 °C below the temperature of 1300 °C, while the measured temperatures by DSC during heating and cooling are 650 °C and 657 °C, respectively, which agree well with the calculation result.” |
 | Phase transition | 936 K | 936 | UNKNOWN; _alloy: Al 0.9974, Zr 0.0026_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 29; `ORC-FNSKPCFF4P` |  |
 | Phase transition | 936 K | 936 | UNKNOWN; _alloy: Al 0.9974, Zr 0.0026_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 28; `ORC-VNORCXHYMP` |  |
 | Phase transition | 938 K | 938 | UNKNOWN; _alloy: Al 0.975, Zr 0.025_ | experimental | [9] Williams 2025; _cites Zegler 1962_ | Table A.3, p. 11, row 30; `ORC-JLPZEKW32V` |  |
@@ -985,6 +987,22 @@ Table: Phase equilibrium, Al–Zr system
 | Phase composition |  | 933.15 | congruent melting: Al-1wt%Zr Annealed 6 days at 654 °C \[927 K\] (Al-Zr vs Al experiment); _liquid: Al 0.997021, Zr 0.002979_ | experimental | [7] Khvan 2018 | Table 2, p. 11, row 6; `ORC-TJMDJ3PKOI` |  |
 | Phase composition |  | 933.45 | congruent melting: Al-0.15 wt% Zr Annealed 7 days at 654 °C \[927 K\]; _liquid: Al 0.999556, Zr 4.440e-4_ | experimental | [7] Khvan 2018 | Table 2, p. 11, row 4; `ORC-OCMVLJIZOJ` |  |
 
+### Formation (9)
+
+Table: Formation, Al–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔSf_ | 0.246 J/mol-atom/K | 1 | Al2Zr; _alloy: Zr 0.333_ | model | [8] Saunders 1986 | Table 4, p. 8, row 9; `ORC-JJQXV7GNNK.c38ee5` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.684 J/mol-atom/K | 1 | Al2Zr3; _alloy: Zr 0.6_ | model | [8] Saunders 1986 | Table 4, p. 8, row 13; `ORC-I54ZED46FV.563f45` |  |
+| Entropy of formation; _printed: ΔSf_ | 0 J/mol-atom/K | 1 | Al3Zr; _alloy: Zr 0.25_ | model | [8] Saunders 1986 | Table 4, p. 8, row 8; `ORC-GH7JXE7WXN.c99fc1` |  |
+| Entropy of formation; _printed: ΔSf_ | 0 J/mol-atom/K | 1 | Al3Zr2; _alloy: Zr 0.4_ | model | [8] Saunders 1986 | Table 4, p. 8, row 10; `ORC-MTN54K26DV.4b1f70` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.188 J/mol-atom/K | 1 | Al3Zr5; _alloy: Zr 0.625_ | model | [8] Saunders 1986 | Table 4, p. 8, row 14; `ORC-UMS7MGYYH3.25ad94` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.832 J/mol-atom/K | 1 | Al4Zr5; _alloy: Zr 0.556_ | model | [8] Saunders 1986 | Table 4, p. 8, row 12; `ORC-AFGM23IING.5ea220` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.987 J/mol-atom/K | 1 | AlZr; _alloy: Zr 0.5_ | model | [8] Saunders 1986 | Table 4, p. 8, row 11; `ORC-XVEX5SMM5M.33278a` |  |
+| Entropy of formation; _printed: ΔSf_ | -0.421 J/mol-atom/K | 1 | AlZr2; _alloy: Zr 0.667_ | model | [8] Saunders 1986 | Table 4, p. 8, row 15; `ORC-HH5WAFKMP7.13e963` |  |
+| Entropy of formation; _printed: ΔSf_ | -1.276 J/mol-atom/K | 1 | AlZr3; _alloy: Zr 0.75_ | model | [8] Saunders 1986 | Table 4, p. 8, row 16; `ORC-CZ2K5QNFSJ.276acc` |  |
+
 ### Mixing / partial (9)
 
 Table: Mixing / partial, Al–Zr system
@@ -1034,7 +1052,7 @@ Table: Crystal structure, Al–Zr system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. T. Wang, Z. Jin, J.-C. Zhao, J. Phase Equilib., 22, 544-51(2001). [doi:10.1007/s12385-001-0072-4](https://doi.org/10.1007/s12385-001-0072-4)
-2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+2. I. Ansara, A. T. Dinsdale, M. H. Rand (eds.), COST 507: Thermochemical database for light metal alloys, Volume 2, EUR 18499 EN, Office for Official Publications of the European Communities, Luxembourg (1998), ISBN 92-828-3902-8.
 3. Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020). [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z)
 4. Evelyne Fischer, Catherine Colinet, An Updated Thermodynamic Modeling of the Al-Zr System, J. Phase Equilib. Diffus. 36, 404-413 (2015). [doi:10.1007/s11669-015-0398-y](https://doi.org/10.1007/s11669-015-0398-y)
 5. Rkia Tamim, Kamal Mahdouk, Thermodynamic reassessment of the Al–Zr binary system, J Therm Anal Calorim 131, 1187-1200 (2018). [doi:10.1007/s10973-017-6635-3](https://doi.org/10.1007/s10973-017-6635-3)
@@ -1042,7 +1060,6 @@ Reporting papers the values were read from (a value cited from another work name
 7. A.V. Khvan, D.G. Eskin, K.F. Starodub, A.T. Dinsdale, F. Wang, C. Fang et al., New insights into solidification and phase equilibria in the Al-Al3Zr system: Theoretical and experimental investigations, Journal of Alloys and Compounds 743, 626-638 (2018). [doi:10.1016/j.jallcom.2018.02.023](https://doi.org/10.1016/j.jallcom.2018.02.023)
 8. N. Saunders, V. G. Rivlin, Thermodynamic characterization of Al–Cr, Al–Zr, and Al–Cr–Zr alloy systems, Materials Science and Technology 2, 520-527 (1986). [doi:10.1179/mst.1986.2.6.520](https://doi.org/10.1179/mst.1986.2.6.520)
 9. W.J. Williams, J. Lund, R.E. García, M.A. Okuniewski, A modern reappraisal of the U-Zr phase diagram, Journal of Nuclear Materials 603, 155378 (2025). [doi:10.1016/j.jnucmat.2024.155378](https://doi.org/10.1016/j.jnucmat.2024.155378)
-10. H. Bo, L.B. Liu, J.L. Hu, Z.P. Jin, Experimental study and thermodynamic modeling of the Al-Sc-Zr system, Computational Materials Science 133, 82-92 (2017). [doi:10.1016/j.commatsci.2017.02.029](https://doi.org/10.1016/j.commatsci.2017.02.029)
 
 ## Please cite
 

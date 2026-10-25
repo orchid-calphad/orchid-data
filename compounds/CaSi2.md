@@ -40,15 +40,15 @@ Table: Uncertainty budget of the literature values of CaSi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -191.235 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.8 (kems_vapour, cleaned_below_threshold) |  |  |  | 16.8 |
-| -191.23 | kJ/mol-atom |  | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -191.235 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.6 (kems_vapour, calibrated) |  |  |  | 12.6 |
+| -191.23 | kJ/mol-atom |  | 0.005 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -153.42 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
 | -153.42 | kJ/mol-atom |  | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -151 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -109.998 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.8 (kems_vapour, cleaned_below_threshold) |  |  |  | 16.8 |
-| -52.7 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -37.8 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -36.7 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -109.998 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.6 (kems_vapour, calibrated) |  |  |  | 12.6 |
+| -52.7 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
+| -37.8 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -36.7 | kJ/mol-atom |  | 0.05 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
 | -200.34 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -200.34 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 | -150.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

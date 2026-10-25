@@ -12,9 +12,9 @@ deterministic, offline from a Crossref response cache; `--check` verifies these 
 
 | | papers | with DOI |
 |---|---:|---:|
-| all | 9568 | 7812 |
-| `corpus_assessment_read` | 1426 | 1411 |
-| `cited_original_source` | 3576 | 3013 |
+| all | 9569 | 7812 |
+| `corpus_assessment_read` | 1427 | 1411 |
+| `cited_original_source` | 3577 | 3013 |
 | `tdb_source_assessment` | 1886 | 1686 |
 | `tdb_compilation` | 1 | 1 |
 | `handbook_diagram_source` | 2283 | 1290 |
@@ -22,7 +22,7 @@ deterministic, offline from a Crossref response cache; `--check` verifies these 
 | `context_source` | 0 | 0 |
 | `espei_reference` | 1 | 1 |
 
-Papers without a DOI: 1756 (ids derived from first author, year and title, flagged `no_doi`).
+Papers without a DOI: 1757 (ids derived from first author, year and title, flagged `no_doi`).
 Crossref records: 7784 found, 28 DOIs unknown to Crossref (404),
 0 not fetched; retrieved 2026-10-23 to 2026-10-23.
 DOIs matched from a printed reference, checked against Crossref (first author, year +-1, title, journal):

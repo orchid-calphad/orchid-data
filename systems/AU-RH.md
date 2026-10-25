@@ -1,10 +1,10 @@
 # Au–Rh system
 
-> Au–Rh system: 51 accepted literature values (phase equilibrium 27, phase transition 21, crystal structure 2, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Rh system: 49 accepted literature values (phase equilibrium 27, phase transition 20, crystal structure 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-RH.html · Markdown: https://data.orchid-project.org/systems/AU-RH.md
 
-51 accepted literature values from 1 paper(s) (experimental 24, model 25, unspecified 2); 2 calculated phase diagram(s).
+49 accepted literature values from 1 paper(s) (experimental 24, model 23, unspecified 2); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-RH.json) · [CSV](https://data.orchid-project.org/systems/AU-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-RH/AuRh-84Oka.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AU-RH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-RH.html) · [Markdown](https://data.orchid-project.org/systems/AU-RH.md)
 
@@ -13,15 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 24 |
-| model | 25 |
+| model | 23 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
-| phase transition | 21 |
+| phase transition | 20 |
 | phase equilibrium | 27 |
 | crystal structure | 2 |
 
@@ -47,17 +46,9 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AU/AU-RH.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AU/AU-RH.json) · [CALPHAD hull AuRh-84Oka](https://data.orchid-project.org/hulls/calphad-sgte/AU/AU-RH--AuRh-84Oka.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Au–Rh system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1341.15 | peritectic: L + (Rh) -> (Au) |  | model | [1] Okamoto 1984 | p. 1; `ORC-KBGTJKKVXY` | “Therefore, the real peritectic temperature may be lower than 1110 ~ and could be close to 1068 ~ observed later by Raub and Falkenburgh \[64Rau\] from a cooling curve recorded in a 10.5 at.% Rh alloy.” |
-
 ## Other properties
 
-### Phase transition (21)
+### Phase transition (20)
 
 Table: Phase transition, Au–Rh system
 
@@ -76,7 +67,6 @@ Table: Phase transition, Au–Rh system
 | Phase transition | 1403.15 K | 1403.15 | peritectic; _alloy: Au 0.183, Rh 0.817_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 12; `ORC-NY3DALNSNN` |  |
 | Phase transition | 1413.15 K | 1413.15 | peritectic; _alloy: Au 0.258, Rh 0.742_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 10; `ORC-GW6R72FYBQ` |  |
 | Phase transition | 1463.15 K | 1463.15 | peritectic; _alloy: Au 0.676, Rh 0.324_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 6; `ORC-TMIWWJDJ4M` |  |
-| Phase transition | 2158.15 K | 2158.15 | other | model | [1] Okamoto 1984 | p. 1; `ORC-QESZZRZNBX` | “Therefore, the monotectic temperature must be below 1400 ~ although thermal arrests, as given in Table 1, indicated the monotectic temperature at 1885 ~” |
 | Phase transition | 2158.15 K | 2158.15 | peritectic; _alloy: Au 0.183, Rh 0.817_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 14; `ORC-3Y4LEJEPBH` |  |
 | Phase transition | 2158.15 K | 2158.15 | peritectic; _alloy: Au 0.084, Rh 0.916_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 18; `ORC-LN2L4X3AEC` |  |
 | Phase transition | 2158.15 K | 2158.15 | peritectic; _alloy: Au 0.116, Rh 0.884_ | experimental | [1] Okamoto 1984; _cites ref. 59Rud_ | Table 1, p. 2, row 16; `ORC-PH44VQI4LJ` |  |

@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-PU.html · Markdown: https://data.orchid-project.org/systems/AL-PU.md
 
-26 accepted literature values from 1 paper(s) (model 26); 3 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (DFT 26); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PU.json) · [CSV](https://data.orchid-project.org/systems/AL-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PU/AlPu-04Tur.json) · [phases (17)](https://data.orchid-project.org/phases/pages/AL-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-PU.html) · [Markdown](https://data.orchid-project.org/systems/AL-PU.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 26 |
+| DFT | 26 |
 
 Table: Accepted values by property group
 
@@ -119,11 +119,11 @@ Table: Enthalpies of formation, Al–Pu system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| PuAl2 |  | -159.2 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.487c6e` |  |
-| PuAl3-3H |  | -169.1 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.3d97c6` |  |
-| PuAl3-6H |  | -172.4 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 7; `ORC-B5J3INFT6T.2f7e5c` |  |
-| PuAl3-9H |  | -174.3 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 8; `ORC-UWUMCL7YBH.160896` |  |
-| PuAl4 |  | -154.7 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 11; `ORC-Y4LLUDKLZK.5a8190` |  |
+| PuAl2 |  | -159.2 kJ/mol (basis unstated) |  | DFT |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.487c6e` |  |
+| PuAl3-3H |  | -169.1 kJ/mol (basis unstated) |  | DFT |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.3d97c6` |  |
+| PuAl3-6H |  | -172.4 kJ/mol (basis unstated) |  | DFT |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 7; `ORC-B5J3INFT6T.2f7e5c` |  |
+| PuAl3-9H |  | -174.3 kJ/mol (basis unstated) |  | DFT |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 8; `ORC-UWUMCL7YBH.160896` |  |
+| PuAl4 |  | -154.7 kJ/mol (basis unstated) |  | DFT |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 11; `ORC-Y4LLUDKLZK.5a8190` |  |
 
 ## Other properties
 
@@ -133,8 +133,8 @@ Table: Formation, Al–Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS°298_ | -1.4 J/mol (basis unstated)/K | 298.15 | PuAl2; _alloy: Pu 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.eccc4c` |  |
-| Entropy of formation; _printed: ΔfS°298_ | -10.4 J/mol (basis unstated)/K | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.a5c83b` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -1.4 J/mol (basis unstated)/K | 298.15 | PuAl2; _alloy: Pu 0.333333_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.eccc4c` |  |
+| Entropy of formation; _printed: ΔfS°298_ | -10.4 J/mol (basis unstated)/K | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.a5c83b` |  |
 
 ### Heat capacity / entropy / enthalpy (19)
 
@@ -142,25 +142,25 @@ Table: Heat capacity / entropy / enthalpy, Al–Pu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298 (ph.)_ | 105.3 J/mol (basis unstated)/K | 298.15 | PuAl2; _alloy: Pu 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.970dff` |  |
-| Entropy; _printed: S°298 (el.)_ | 4.3 J/mol (basis unstated)/K | 298.15 | PuAl2; _alloy: Pu 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.f347fc` |  |
-| Entropy; _printed: S°298 (el.)_ | 6.5 J/mol (basis unstated)/K | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.64073e` |  |
-| Entropy; _printed: S°298 (ph.)_ | 122.4 J/mol (basis unstated)/K | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.849505` |  |
-| Entropy; _printed: S°298 (el.)_ | 4.8 J/mol (basis unstated)/K | 298.15 | PuAl3-6H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 7; `ORC-B5J3INFT6T.15d19a` |  |
-| Entropy; _printed: S°298 (el.)_ | 5 J/mol (basis unstated)/K | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 8; `ORC-UWUMCL7YBH.0ee38f` |  |
-| Entropy; _printed: S°298 (el.)_ | 6.5 J/mol (basis unstated)/K | 298.15 | PuAl4; _alloy: Pu 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 11; `ORC-Y4LLUDKLZK.02c620` |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 24.1 kJ mol^-1 | 298.15 | PuAl2; _alloy: Pu 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.18d3a0` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.64 kJ mol^-1 | 298.15 | PuAl2; _alloy: Pu 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.527674` |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 0.97 kJ mol−1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.1db402` |  |
-| Heat content; _printed: H°298 - H°0 (ph.)_ | 32 kJ mol^-1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.2b1c76` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.97 kJ mol^-1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.53692c` |  |
-| Heat content; _printed: H°298 − H°0 (ph.)_ | 32 kJ mol−1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.f74027` |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 0.71 kJ mol−1 | 298.15 | PuAl3-6H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 7; `ORC-B5J3INFT6T.a43290` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.71 kJ mol^-1 | 298.15 | PuAl3-6H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 7; `ORC-B5J3INFT6T.f10c93` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.75 kJ mol^-1 | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 8; `ORC-UWUMCL7YBH.79ba08` |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 0.75 kJ mol−1 | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 8; `ORC-UWUMCL7YBH.b4d9dd` |  |
-| Heat content; _printed: H°298 - H°0 (el.)_ | 0.98 kJ mol^-1 | 298.15 | PuAl4; _alloy: Pu 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 11; `ORC-Y4LLUDKLZK.1d82fb` |  |
-| Heat content; _printed: H°298 − H°0 (el.)_ | 0.98 kJ mol−1 | 298.15 | PuAl4; _alloy: Pu 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 11; `ORC-Y4LLUDKLZK.6cc2f4` |  |
+| heat content contribution; _printed: H°298 - H°0 (ph.)_ | 24.1 kJ mol^-1 | 298.15 | PuAl2; _alloy: Pu 0.333333_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.18d3a0` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 0.64 kJ mol^-1 | 298.15 | PuAl2; _alloy: Pu 0.333333_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.527674` |  |
+| heat content contribution; _printed: H°298 − H°0 (el.)_ | 0.97 kJ mol−1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.1db402` |  |
+| heat content contribution; _printed: H°298 - H°0 (ph.)_ | 32 kJ mol^-1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.2b1c76` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 0.97 kJ mol^-1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.53692c` |  |
+| heat content contribution; _printed: H°298 − H°0 (ph.)_ | 32 kJ mol−1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.f74027` |  |
+| heat content contribution; _printed: H°298 − H°0 (el.)_ | 0.71 kJ mol−1 | 298.15 | PuAl3-6H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 7; `ORC-B5J3INFT6T.a43290` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 0.71 kJ mol^-1 | 298.15 | PuAl3-6H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 7; `ORC-B5J3INFT6T.f10c93` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 0.75 kJ mol^-1 | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 8; `ORC-UWUMCL7YBH.79ba08` |  |
+| heat content contribution; _printed: H°298 − H°0 (el.)_ | 0.75 kJ mol−1 | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 8; `ORC-UWUMCL7YBH.b4d9dd` |  |
+| heat content contribution; _printed: H°298 - H°0 (el.)_ | 0.98 kJ mol^-1 | 298.15 | PuAl4; _alloy: Pu 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 11; `ORC-Y4LLUDKLZK.1d82fb` |  |
+| heat content contribution; _printed: H°298 − H°0 (el.)_ | 0.98 kJ mol−1 | 298.15 | PuAl4; _alloy: Pu 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 11; `ORC-Y4LLUDKLZK.6cc2f4` |  |
+| sm contribution; _printed: S°298 (ph.)_ | 105.3 J/mol (basis unstated)/K | 298.15 | PuAl2; _alloy: Pu 0.333333_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.970dff` |  |
+| sm contribution; _printed: S°298 (el.)_ | 4.3 J/mol (basis unstated)/K | 298.15 | PuAl2; _alloy: Pu 0.333333_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 3; `ORC-EXMKTYQAEE.f347fc` |  |
+| sm contribution; _printed: S°298 (el.)_ | 6.5 J/mol (basis unstated)/K | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.64073e` |  |
+| sm contribution; _printed: S°298 (ph.)_ | 122.4 J/mol (basis unstated)/K | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 6; `ORC-TUZYUF2AN2.849505` |  |
+| sm contribution; _printed: S°298 (el.)_ | 4.8 J/mol (basis unstated)/K | 298.15 | PuAl3-6H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 7; `ORC-B5J3INFT6T.15d19a` |  |
+| sm contribution; _printed: S°298 (el.)_ | 5 J/mol (basis unstated)/K | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 8; `ORC-UWUMCL7YBH.0ee38f` |  |
+| sm contribution; _printed: S°298 (el.)_ | 6.5 J/mol (basis unstated)/K | 298.15 | PuAl4; _alloy: Pu 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 11; `ORC-Y4LLUDKLZK.02c620` |  |
 
 ## Sources
 

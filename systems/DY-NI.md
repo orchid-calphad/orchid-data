@@ -1,10 +1,10 @@
 # Dy–Ni system
 
-> Dy–Ni system: 39 accepted literature values (invariant reaction 32, phase transition 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Ni system: 36 accepted literature values (invariant reaction 29, phase transition 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-NI.html · Markdown: https://data.orchid-project.org/systems/DY-NI.md
 
-39 accepted literature values from 1 paper(s) (experimental 25, model 14); 2 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 22, model 14); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-NI.json) · [CSV](https://data.orchid-project.org/systems/DY-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-NI/DyNi-09Li-newDy.json) · [phases (14)](https://data.orchid-project.org/phases/pages/DY-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-NI.html) · [Markdown](https://data.orchid-project.org/systems/DY-NI.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
+| experimental | 22 |
 | model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 32 |
+| invariant reaction | 29 |
 | phase transition | 7 |
 
 ## Calculated phase diagrams
@@ -104,7 +104,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Dy–Ni system (32)
+Table: Invariant reactions reported in the literature for the Dy–Ni system (29)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -123,12 +123,10 @@ Table: Invariant reactions reported in the literature for the Dy–Ni system (32
 | 1565 | eutectic: L -> (Ni) + Dy2Ni17 | (Ni): Ni 1; Dy2Ni17: Ni 0.894737 | model | [1] Li 2009 | Table 1, p. 2, row 27; `ORC-A7OQN3UJ2H` |  |
 | 1556 | peritectic: L + Dy2Ni7 -> DyNi3 | Dy2Ni7: Ni 0.777778; DyNi3: Ni 0.75 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 14; `ORC-NGKCQ3LW2S` |  |
 | 1554 | peritectic: L + Dy2Ni7 -> DyNi3 | Dy2Ni7: Ni 0.777778; DyNi3: Ni 0.75 | model | [1] Li 2009 | Table 1, p. 2, row 15; `ORC-UZLNGGEW6R` |  |
-| 1552 | eutectic |  | experimental | [1] Li 2009; _cites Zheng 1982_ | p. 1; `ORC-RLTY46GTPP.58d6ea` | “Three eutectic reactions occurred: at 31 at.% Ni and 966 K, 56 at.% Ni and 1446 K, 93 at.% Ni and 1552 K.” |
 | 1552 | eutectic: L -> (Ni) + Dy2Ni17 | (Ni): Ni 1; Dy2Ni17: Ni 0.894737 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 26; `ORC-SDGDSZZEJ5` |  |
 | 1540 | eutectic: L -> DyNi3 + DyNi2 | DyNi3: Ni 0.75; DyNi2: Ni 0.666667 | model | [1] Li 2009 | Table 1, p. 2, row 12; `ORC-OJMYQEOG63` |  |
 | 1531 | peritectic: L + DyNi3 -> DyNi2 | DyNi3: Ni 0.75; DyNi2: Ni 0.666667 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 11; `ORC-DEIYDVPRVN` |  |
 | 1531 | peritectic |  | experimental | [1] Li 2009 | p. 1; `ORC-UQHIQS4QPN.ce19ba` | “The intermetallic compounds DyNi and DyNi5 melted congruently at 1521 K and 1660 K, and the intermetallic compounds Dy3 Ni, Dy3 Ni2 , DyNi, DyNi3 , Dy2 Ni7 , DyNi4 , and Dy3 Ni17 were formed by peritectic reactions at 1035 K, 1201 K, 1531 K, 1580 K, 1609 K, 1625 K and 1594 K, respectively.” |
-| 1446 | eutectic |  | experimental | [1] Li 2009; _cites Zheng 1982_ | p. 1; `ORC-RLTY46GTPP.fc4fc4` | “Three eutectic reactions occurred: at 31 at.% Ni and 966 K, 56 at.% Ni and 1446 K, 93 at.% Ni and 1552 K.” |
 | 1446 | eutectic: L -> DyNi + DyNi2 | DyNi: Ni 0.5; DyNi2: Ni 0.666667 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 9; `ORC-ZXAEYCZCF7` |  |
 | 1434 | eutectic: L -> DyNi + DyNi2 | DyNi: Ni 0.5; DyNi2: Ni 0.666667 | model | [1] Li 2009 | Table 1, p. 2, row 10; `ORC-SM2QZ4YCV2` |  |
 | 1201 | peritectic: L + DyNi -> Dy3Ni2 | DyNi: Ni 0.5; Dy3Ni2: Ni 0.4 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 5; `ORC-QG6DPPB5UJ` |  |
@@ -139,7 +137,6 @@ Table: Invariant reactions reported in the literature for the Dy–Ni system (32
 | 1032 | peritectic: L + (αDy) -> Dy3Ni | (αDy): Ni 0; Dy3Ni: Ni 0.25 | model | [1] Li 2009 | Table 1, p. 2, row 2; `ORC-EMQMT5V5BS` |  |
 | 970 | eutectic: L -> Dy3Ni2 + Dy3Ni | Dy3Ni2: Ni 0.4; Dy3Ni: Ni 0.25 | model | [1] Li 2009 | Table 1, p. 2, row 4; `ORC-VIBPGVH5KE` |  |
 | 966 | eutectic: L -> Dy3Ni2 + Dy3Ni | Dy3Ni2: Ni 0.4; Dy3Ni: Ni 0.25 | experimental | [1] Li 2009; _cites Nassau 1959_ | Table 1, p. 2, row 3; `ORC-HFS6KDFFAU` |  |
-| 966 | eutectic |  | experimental | [1] Li 2009; _cites Zheng 1982_ | p. 1; `ORC-RLTY46GTPP.e6b71a` | “Three eutectic reactions occurred: at 31 at.% Ni and 966 K, 56 at.% Ni and 1446 K, 93 at.% Ni and 1552 K.” |
 
 ## Other properties
 

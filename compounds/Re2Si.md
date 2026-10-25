@@ -33,9 +33,9 @@ Table: Uncertainty budget of the literature values of Re2Si
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -20 | kJ/mol-atom |  | 0.5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -20 | kJ/mol-atom |  | 0.5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
-| -12.7 | kJ/mol-atom | 2.5 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -20 | kJ/mol-atom |  | 0.5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -20 | kJ/mol-atom |  | 0.5 | 4.2 (kems_vapour, calibrated) |  |  |  | 4.2 |
+| -12.7 | kJ/mol-atom | 2.5 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -27 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -22.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -22.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |

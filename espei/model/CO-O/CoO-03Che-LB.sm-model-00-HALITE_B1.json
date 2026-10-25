@@ -98,7 +98,7 @@
      "sigma_effective": 1.0,
      "method_class": "model_calculated",
      "method_basis": "prior",
-     "method_n_pairs": 257,
+     "method_n_pairs": 260,
      "method_entry": "model/S_ABS"
     },
     "sigma_effective_used": 1.0,

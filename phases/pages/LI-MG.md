@@ -158,7 +158,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-mg:liquid)
 
 Names (5): _corpus: _corpus:phase:li-mg:liquid  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:L  
+_paper: _paper:sha256-85fd53a1a176b694:L  
 _tdb: _tdb:LiMg-00Bra.tdb:LIQUID, tdb:LiMg-11Wan.tdb:LIQUID, tdb:LiMg-90Sau-LB.tdb:LIQUID  
 
 
@@ -185,7 +185,7 @@ _tdb: _tdb:LiMg-00Bra.tdb:LIQUID, tdb:LiMg-11Wan.tdb:LIQUID, tdb:LiMg-90Sau-LB.t
 31: CONST LIQUID:L : LI MG : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/0364-5916(90)90040-7](https://doi.org/10.1016/0364-5916%2890%2990040-7) N. Saunders, Calphad, 14, 61-70 (1990).  
 _assessment that models this phase_
@@ -193,8 +193,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0040-6031(99)00325-1](https://doi.org/10.1016/S0040-6031%2899%2900325-1) M.H. Braga, L.F. Malheiros, M. Hamalainen, Thermochim. Acta, 344, 47-54(2000).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## Please cite
 

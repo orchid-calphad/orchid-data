@@ -1,10 +1,10 @@
 # Bi–Ce system
 
-> Bi–Ce system: 57 accepted literature values (invariant reaction 32, formation 15, mixing / partial 5, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Ce system: 56 accepted literature values (invariant reaction 26, formation 20, mixing / partial 5, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-CE.html · Markdown: https://data.orchid-project.org/systems/BI-CE.md
 
-57 accepted literature values from 2 paper(s) (experimental 25, model 31, unspecified 1); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+56 accepted literature values from 2 paper(s) (experimental 19, model 36, unspecified 1); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-CE.json) · [CSV](https://data.orchid-project.org/systems/BI-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-CE/BiCe-12Li.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BI-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-CE.html) · [Markdown](https://data.orchid-project.org/systems/BI-CE.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 31 |
+| experimental | 19 |
+| model | 36 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 32 |
+| invariant reaction | 26 |
 | phase transition | 3 |
-| formation | 15 |
+| formation | 20 |
 | mixing / partial | 5 |
 | activity / EMF / Gibbs energy | 2 |
 
@@ -79,34 +79,29 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Ce system (32)
+Table: Invariant reactions reported in the literature for the Bi–Ce system (26)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1903 | peritectic: L + Ce4Bi3 -> CeBi |  | experimental | [1] Wang 2017 | p. 3; `ORC-2SOJTPSC7M.04de1c` | “Except for Ce4Bi3, which melts congruently at 2013 K, all other four stable compounds are formed through peritectic reactions: L þ CeBi 4 CeBi2 at 1183 K, L þ Ce4Bi3 4 CeBi at 1903 K, L þ Ce4Bi3 4 Ce5Bi3 at 1670 K, and L þ Ce5Bi3 4 Ce2Bi at 1518 K.” |
 | 1903 | peritectic: L + Ce4Bi3 -> CeBi | L: Ce 0.465; Ce4Bi3: Bi 0.428571, Ce 0.571429; CeBi: Bi 0.5, Ce 0.5 | experimental | [1] Wang 2017; _cites Rudolf 1913_ | Table 3, p. 5, row 5; `ORC-E43YZZUUSD` |  |
 | 1903 | Liquid + Ce4Bi3 = CeBi | Ce4Bi3: Ce 0.571429; CeBi: Ce 0.5 | experimental | [2] Li 2012; _cites Vogel 1913_ [doi](https://doi.org/10.1002/zaac.19130840125) | Table 3, p. 4, row 6; `ORC-UNPRGPY63A` |  |
 | 1901 | Liquid + Ce4Bi3 = CeBi | Liquid: Ce 0.465; Ce4Bi3: Ce 0.571; CeBi: Ce 0.5 | model | [2] Li 2012 | Table 3, p. 4, row 5; `ORC-HR7D3HFIXA` |  |
 | 1899 | peritectic: L + Ce4Bi3 -> CeBi | L: Ce 0.4721; Ce4Bi3: Bi 0.428571, Ce 0.571429; CeBi: Bi 0.5, Ce 0.5 | model | [1] Wang 2017 | Table 3, p. 5, row 6; `ORC-IBYNQCCIYS` |  |
 | 1674 | peritectic: L + Ce4Bi3 -> Ce5Bi3 | L: Ce 0.7537; Ce4Bi3: Bi 0.428571, Ce 0.571429; Ce5Bi3: Bi 0.375, Ce 0.625 | model | [1] Wang 2017 | Table 3, p. 5, row 8; `ORC-NZCM4BCUON` |  |
-| 1670 | peritectic: L + Ce4Bi3 -> Ce5Bi3 |  | experimental | [1] Wang 2017 | p. 3; `ORC-2SOJTPSC7M.4c290a` | “Except for Ce4Bi3, which melts congruently at 2013 K, all other four stable compounds are formed through peritectic reactions: L þ CeBi 4 CeBi2 at 1183 K, L þ Ce4Bi3 4 CeBi at 1903 K, L þ Ce4Bi3 4 Ce5Bi3 at 1670 K, and L þ Ce5Bi3 4 Ce2Bi at 1518 K.” |
 | 1670 | Liquid + Ce4Bi3 = Ce5Bi3 | Ce4Bi3: Ce 0.571429; Ce5Bi3: Ce 0.625 | experimental | [2] Li 2012; _cites K Yoshihara 1975_ | Table 3, p. 4, row 10; `ORC-66BCKWBEXH` |  |
 | 1670 | peritectic: L + Ce4Bi3 -> Ce5Bi3 | L: Ce 0.78; Ce4Bi3: Bi 0.428571, Ce 0.571429; Ce5Bi3: Bi 0.375, Ce 0.625 | experimental | [1] Wang 2017; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 5, row 7; `ORC-B5GUZRYPDD` |  |
 | 1668 | Liquid + Ce4Bi3 = Ce5Bi3 | Liquid: Ce 0.78; Ce4Bi3: Ce 0.571; Ce5Bi3: Ce 0.625 | model | [2] Li 2012 | Table 3, p. 4, row 9; `ORC-QYH6BOCLAR` |  |
 | 1521 | peritectic: L + Ce5Bi3 -> Ce2Bi | L: Ce 0.8072; Ce5Bi3: Bi 0.375, Ce 0.625; Ce2Bi: Bi 0.333333, Ce 0.666667 | model | [1] Wang 2017 | Table 3, p. 5, row 10; `ORC-IP6S3YCLZD` |  |
-| 1518 | peritectic: L + Ce5Bi3 -> Ce2Bi |  | experimental | [1] Wang 2017 | p. 3; `ORC-2SOJTPSC7M.d4b689` | “Except for Ce4Bi3, which melts congruently at 2013 K, all other four stable compounds are formed through peritectic reactions: L þ CeBi 4 CeBi2 at 1183 K, L þ Ce4Bi3 4 CeBi at 1903 K, L þ Ce4Bi3 4 Ce5Bi3 at 1670 K, and L þ Ce5Bi3 4 Ce2Bi at 1518 K.” |
 | 1518 | Liquid + Ce5Bi3 = Ce2Bi | Ce5Bi3: Ce 0.625; Ce2Bi: Ce 0.666667 | experimental | [2] Li 2012; _cites K Yoshihara 1975_ | Table 3, p. 4, row 12; `ORC-3TRMLZWEK3` |  |
 | 1518 | peritectic: L + Ce5Bi3 -> Ce2Bi | L: Ce 0.818; Ce5Bi3: Bi 0.375, Ce 0.625; Ce2Bi: Bi 0.333333, Ce 0.666667 | experimental | [1] Wang 2017; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 5, row 9; `ORC-XN6HGLVLRP` |  |
 | 1516 | Liquid + Ce5Bi3 = Ce2Bi | Liquid: Ce 0.818; Ce5Bi3: Ce 0.625; Ce2Bi: Ce 0.67 | model | [2] Li 2012 | Table 3, p. 4, row 11; `ORC-YJ4RHTZQDD` |  |
 | 1186 | peritectic: L + CeBi -> CeBi2 | L: Ce 0.1815; CeBi: Bi 0.5, Ce 0.5; CeBi2: Bi 0.666667, Ce 0.333333 | model | [1] Wang 2017 | Table 3, p. 5, row 4; `ORC-GN6G35XUA2` |  |
-| 1183 | peritectic: L + CeBi -> CeBi2 |  | experimental | [1] Wang 2017 | p. 3; `ORC-2SOJTPSC7M.f112ac` | “Except for Ce4Bi3, which melts congruently at 2013 K, all other four stable compounds are formed through peritectic reactions: L þ CeBi 4 CeBi2 at 1183 K, L þ Ce4Bi3 4 CeBi at 1903 K, L þ Ce4Bi3 4 Ce5Bi3 at 1670 K, and L þ Ce5Bi3 4 Ce2Bi at 1518 K.” |
 | 1183 | Liquid + CeBi = CeBi2 | CeBi: Ce 0.5; CeBi2: Ce 0.333333 | experimental | [2] Li 2012; _cites Vogel 1913_ [doi](https://doi.org/10.1002/zaac.19130840125) | Table 3, p. 4, row 4; `ORC-AENRE4JN2R` |  |
 | 1183 | Liquid + CeBi = CeBi2 | Liquid: Ce 0.21; CeBi: Ce 0.5; CeBi2: Ce 0.33 | model | [2] Li 2012 | Table 3, p. 4, row 3; `ORC-EHJS2GJPHB` |  |
 | 1183 | peritectic: L + CeBi -> CeBi2 | L: Ce 0.21; CeBi: Bi 0.5, Ce 0.5; CeBi2: Bi 0.666667, Ce 0.333333 | experimental | [1] Wang 2017; _cites Rudolf 1913_ | Table 3, p. 5, row 3; `ORC-SIDSMVZGOS` |  |
 | 1056 | Liquid = BCC_A2 + Ce2Bi | Liquid: Ce 0.93; BCC_A2: Ce 0.982; Ce2Bi: Ce 0.67 | model | [2] Li 2012 | Table 3, p. 4, row 13; `ORC-XZJD7YCHUZ` |  |
 | 1032 | Liquid = BCC_A2 + Ce2Bi | Ce2Bi: Ce 0.666667 | experimental | [2] Li 2012; _cites Borzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990067-x) | Table 3, p. 4, row 14; `ORC-N3VRNZVWHZ` |  |
 | 1023 | eutectic: L -> Ce2Bi + BCC_A2 (Ce) | L: Ce 0.93; Ce2Bi: Bi 0.333333, Ce 0.666667 | unspecified | [1] Wang 2017; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882364) | Table 3, p. 5, row 11; `ORC-3LMN7JVMSX` |  |
-| 1023 | eutectic: L -> Ce2Bi + BCC_A2 (Ce) |  | experimental | [1] Wang 2017 | p. 3; `ORC-T4SRKGJNCL.085f76` | “There are also two eutectic reactions: L 4 rhombohedral (Bi) þ CeBi2 and L 4 Ce2Bi þ BCC_A2 (Ce) reported at the temperature of 544 K and 1023 K, respectively.” |
 | 1019 | eutectic: L -> Ce2Bi + BCC_A2 (Ce) | L: Ce 0.9659; Ce2Bi: Bi 0.333333, Ce 0.666667 | model | [1] Wang 2017 | Table 3, p. 5, row 12; `ORC-QZX5TWAEQA` |  |
 | 999 | BCC_A2 = FCC_A1 + Bi2Ce | Bi2Ce: Ce 0.333333 | experimental | [2] Li 2012; _cites Borzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990067-x) | Table 3, p. 4, row 16; `ORC-STA7DOTGSF` |  |
 | 976.4 | BCC_A2 = FCC_A1 + Bi2Ce | BCC_A2: Ce 0.99; FCC_A1: Ce 0.995; Bi2Ce: Ce 0.67 | model | [2] Li 2012 | Table 3, p. 4, row 15; `ORC-M2FYFMN3JK` |  |
@@ -114,7 +109,6 @@ Table: Invariant reactions reported in the literature for the Bi–Ce system (32
 | 544.5 | eutectic: L -> rhombohedral (Bi) + CeBi2 | L: Ce 7.500e-5; CeBi2: Bi 0.666667, Ce 0.333333 | model | [1] Wang 2017 | Table 3, p. 5, row 2; `ORC-NTOX3T3SXD` |  |
 | 544 | Liquid = CeBi2 + Rhombo_A7 | CeBi2: Ce 0.333333; Rhombo_A7: Ce 0 | experimental | [2] Li 2012; _cites Pleasance 1959_ | Table 3, p. 4, row 2; `ORC-OQPU4H6FVQ` |  |
 | 544 | eutectic: L -> rhombohedral (Bi) + CeBi2 | L: Ce 0; CeBi2: Bi 0.666667, Ce 0.333333 | experimental | [1] Wang 2017; _cites Pleasance 1959_ | Table 3, p. 5, row 1; `ORC-RZ6KLONSMB` |  |
-| 544 | eutectic: L -> rhombohedral (Bi) + CeBi2 |  | experimental | [1] Wang 2017 | p. 3; `ORC-T4SRKGJNCL.8917b8` | “There are also two eutectic reactions: L 4 rhombohedral (Bi) þ CeBi2 and L 4 Ce2Bi þ BCC_A2 (Ce) reported at the temperature of 544 K and 1023 K, respectively.” |
 
 ## Formation enthalpies
 
@@ -151,6 +145,18 @@ Table: Phase transition, Bi–Ce system
 | Phase transition | 2013 K | 2013 | Liquid = Ce4Bi3; _Liquid: Ce 0.571429; Ce4Bi3: Ce 0.571429_ | experimental | [2] Li 2012; _cites Vogel 1913_ [doi](https://doi.org/10.1002/zaac.19130840125) | Table 3, p. 4, row 8; `ORC-5YCDJ3CGAU` |  |
 | Phase transition | 2013 K | 2013 | Liquid = Ce4Bi3; _Liquid: Ce 0.571; Ce4Bi3: Ce 0.571_ | model | [2] Li 2012 | Table 3, p. 4, row 7; `ORC-76PA7LUS26` |  |
 | Phase transition | 2013 K | 2013 | congruent transformation | experimental | [1] Wang 2017 | p. 3; `ORC-2SOJTPSC7M.331159` | “Except for Ce4Bi3, which melts congruently at 2013 K, all other four stable compounds are formed through peritectic reactions: L þ CeBi 4 CeBi2 at 1183 K, L þ Ce4Bi3 4 CeBi at 1903 K, L þ Ce4Bi3 4 Ce5Bi3 at 1670 K, and L þ Ce5Bi3 4 Ce2Bi at 1518 K.” |
+
+### Formation (5)
+
+Table: Formation, Bi–Ce system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔSf_ | -6.36 J/mol (basis unstated)/K |  | Ce2Bi; _alloy: Ce 0.667_ | model | [1] Wang 2017 | Table 10, p. 7, row 10; `ORC-NXYZLYGHWX` |  |
+| Entropy of formation; _printed: ΔSf_ | -8.88 J/mol (basis unstated)/K |  | Ce4Bi3; _alloy: Ce 0.571_ | model | [1] Wang 2017 | Table 10, p. 7, row 8; `ORC-ST6GWJWJAV` |  |
+| Entropy of formation; _printed: ΔSf_ | -8.17 J/mol (basis unstated)/K |  | Ce5Bi3; _alloy: Ce 0.625_ | model | [1] Wang 2017 | Table 10, p. 7, row 9; `ORC-EWVJHQL7XY` |  |
+| Entropy of formation; _printed: ΔSf_ | -15.5 J/mol (basis unstated)/K |  | CeBi; _alloy: Ce 0.5_ | model | [1] Wang 2017 | Table 10, p. 7, row 7; `ORC-QWFVNK6G3P` |  |
+| Entropy of formation; _printed: ΔSf_ | -6.2 J/mol (basis unstated)/K |  | CeBi2; _alloy: Ce 0.333_ | model | [1] Wang 2017 | Table 10, p. 7, row 6; `ORC-2PFCKSPRBL` |  |
 
 ### Mixing / partial (5)
 

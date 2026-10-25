@@ -25,7 +25,7 @@ Table: Phases of the Al–Co system (14)
 | [FCC_A1](#phase-al-co-fcc-a1); _phase:al-co:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–2499.24 K, x(Co) 0–1 | 10 | 15 |
 | [L12_FCC](#phase-al-co-fcc-l12); _phase:al-co:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 590–1767.14 K, x(Co) 0.82878–0.99857 | 0 | 1 |
 | [HCP_A3](#phase-al-co-hcp-a3); _phase:al-co:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–1766.08 K, x(Co) 0.99929–1 | 2 | 13 |
-| [LIQUID](#phase-al-co-liquid); _phase:al-co:liquid_ | liquid | liquid | stable in 13 of 13 calculated diagram(s): 929.67–2500 K, x(Co) 0–1 | 54 | 13 |
+| [LIQUID](#phase-al-co-liquid); _phase:al-co:liquid_ | liquid | liquid | stable in 13 of 13 calculated diagram(s): 929.67–2500 K, x(Co) 0–1 | 55 | 13 |
 
 ## AL13CO4 (Al–Co)
 
@@ -1362,7 +1362,7 @@ _cited as the source of values for this phase_
 - Id: `phase:al-co:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 13 of 13 calculated diagram(s): 929.67–2500 K, x(Co) 0–1
-- Literature: 54 values (54 accepted) from 2 papers
+- Literature: 55 values (55 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-co:liquid)
 
 Names (17): _corpus: _corpus:phase:al-co:liquid  

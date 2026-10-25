@@ -1,10 +1,10 @@
 # Ag–Yb system
 
-> Ag–Yb system: 23 accepted literature values (invariant reaction 16, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Yb system: 22 accepted literature values (invariant reaction 15, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-YB.html · Markdown: https://data.orchid-project.org/systems/AG-YB.md
 
-23 accepted literature values from 1 paper(s) (experimental 13, model 10); 1 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (experimental 12, model 10); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-YB.json) · [CSV](https://data.orchid-project.org/systems/AG-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-YB/AgYb-08Zha.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AG-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-YB.html) · [Markdown](https://data.orchid-project.org/systems/AG-YB.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
+| experimental | 12 |
 | model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 15 |
 | phase transition | 7 |
 
 ## Calculated phase diagrams
@@ -62,7 +62,7 @@ Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AG/
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Yb system (16)
+Table: Invariant reactions reported in the literature for the Ag–Yb system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -70,7 +70,6 @@ Table: Invariant reactions reported in the literature for the Ag–Yb system (16
 | 997 | peritectic: L + Ag7Yb2 -> Ag9Yb2 | L: Yb 0.172; Ag7Yb2: Yb 0.222222; Ag9Yb2: Yb 0.181818 | model | [1] Zhang 2008 | Table 2, p. 3, row 4; `ORC-DQDFH6Z2UR` |  |
 | 977 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.135; Ag9Yb2: Yb 0.181818 | model | [1] Zhang 2008 | Table 2, p. 3, row 1; `ORC-MCQDC237Y7` |  |
 | 968 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.13; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Gschneidner 1970_ [doi](https://doi.org/10.1007/bf02642796) | Table 2, p. 3, row 2; `ORC-V6I3H7HLKG` |  |
-| 958.15 | eutectic |  | experimental | [1] Zhang 2008 | p. 1; `ORC-LZ24WTIBD4` | “The temperature of eutectic between Ag and Ag5 Yb was 685 ◦ C.” |
 | 958 | eutectic: L -> fcc + Ag9Yb2 | L: Yb 0.13; Ag9Yb2: Yb 0.181818 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 3; `ORC-WORVIKIHQA` |  |
 | 919 | eutectic: L -> Ag7Yb2 + Ag2Yb | L: Yb 0.325; Ag7Yb2: Yb 0.222222; Ag2Yb: Yb 0.333333 | experimental | [1] Zhang 2008; _cites Palenzona 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990049-4) | Table 2, p. 3, row 9; `ORC-SEUZMW6CNL` |  |
 | 916 | eutectic: L -> Ag7Yb2 + Ag2Yb | L: Yb 0.331; Ag7Yb2: Yb 0.222222; Ag2Yb: Yb 0.333333 | model | [1] Zhang 2008 | Table 2, p. 3, row 8; `ORC-ZG5MW5M3JH` |  |
