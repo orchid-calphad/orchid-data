@@ -1,6 +1,6 @@
 {
  "record": "literature",
- "title": "ORCHID literature values",
+ "title": "ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature",
  "version": "2026.10",
  "bundle": "orchid-literature-v2026.10.zip",
  "include": [
@@ -22,7 +22,7 @@
   "literature/kim2017_crosscheck.*"
  ],
  "n_files": 1506,
- "total_bytes": 272976095,
+ "total_bytes": 272976603,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -31,8 +31,8 @@
   },
   {
    "path": "DATASET_CARD.md",
-   "bytes": 61916,
-   "sha256": "69f073190419f8ab7c9becbdd78da3ac9852d1eb6194e3370e470c86db7cf8b6"
+   "bytes": 61915,
+   "sha256": "4be413a2bfa97d02aadecd0ebca6b6ec179c54cc5653b55c8f9654db120afe36"
   },
   {
    "path": "LICENSE",
@@ -7551,8 +7551,8 @@
   },
   {
    "path": "zenodo/literature.metadata.json",
-   "bytes": 8259,
-   "sha256": "de55dfc080011c7aafd99e3db1280ab2208597d54e6f802a80ab6c5851b2a53a"
+   "bytes": 8768,
+   "sha256": "0cd69746d6ff2d8cf137a99c103eceec861935deacad65b39d28d5e886d922d6"
   }
  ]
 }

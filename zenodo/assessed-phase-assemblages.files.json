@@ -1,6 +1,6 @@
 {
  "record": "assessed-phase-assemblages",
- "title": "ORCHID assessed phase assemblages (binary systems)",
+ "title": "ORCHID-Assemblages: assessed phase assemblages of binary systems",
  "version": "2026.10",
  "bundle": "orchid-assessed-phase-assemblages-v2026.10.zip",
  "include": [
@@ -14,7 +14,7 @@
  ],
  "exclude": [],
  "n_files": 2159,
- "total_bytes": 41136491,
+ "total_bytes": 41136512,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -10808,8 +10808,8 @@
   },
   {
    "path": "zenodo/assessed-phase-assemblages.metadata.json",
-   "bytes": 4073,
-   "sha256": "357fdf843cbee8579363b37725c5e15dc3838fdf22c451b346f1ef45d27b7a2a"
+   "bytes": 4094,
+   "sha256": "db9d96ea96400b3f9ed0aa4b3311a80b87cb2da3da3b80ba287d25a0ec884c9a"
   }
  ]
 }

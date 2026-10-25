@@ -1,0 +1,393 @@
+{
+ "_comment": "Every number in the descriptions of zenodo/*.metadata.json (except ORCHID-Assemblages, written by tools/build_assessed_assemblages.py) with the release file it was read from. Written by tools/build_zenodo_metadata.py.",
+ "numbers": {
+  "accepted": {
+   "value": 68290,
+   "source": "parquet/literature_values.parquet"
+  },
+  "asm_diagrams": {
+   "value": 2178,
+   "source": "assessed-phase-assemblages/summary.json"
+  },
+  "asm_points": {
+   "value": 23129,
+   "source": "assessed-phase-assemblages/summary.json"
+  },
+  "basis_inferred": {
+   "value": 2117,
+   "source": "parquet/literature_values.parquet"
+  },
+  "basis_unstated": {
+   "value": 2297,
+   "source": "parquet/literature_values.parquet"
+  },
+  "bib_cited": {
+   "value": 3577,
+   "source": "bibliography/index.json"
+  },
+  "bib_crossref": {
+   "value": "2026-10-23",
+   "source": "bibliography/index.json (crossref_retrieved)"
+  },
+  "bib_doi": {
+   "value": 7812,
+   "source": "bibliography/index.json"
+  },
+  "bib_dropped": {
+   "value": 19,
+   "source": "bibliography/index.json"
+  },
+  "bib_e_cited_by_crossref": {
+   "value": 44888,
+   "source": "bibliography/index.json"
+  },
+  "bib_e_cites": {
+   "value": 3792,
+   "source": "bibliography/index.json"
+  },
+  "bib_e_handbook_reproduces": {
+   "value": 2466,
+   "source": "bibliography/index.json"
+  },
+  "bib_e_models_system_in_tdb": {
+   "value": 3757,
+   "source": "bibliography/index.json"
+  },
+  "bib_e_reassesses": {
+   "value": 1536,
+   "source": "bibliography/index.json"
+  },
+  "bib_edges": {
+   "value": 60231,
+   "source": "bibliography/index.json"
+  },
+  "bib_handbook": {
+   "value": 2283,
+   "source": "bibliography/index.json"
+  },
+  "bib_leads": {
+   "value": 2806,
+   "source": "bibliography/index.json"
+  },
+  "bib_nodoi": {
+   "value": 1757,
+   "source": "bibliography/index.json"
+  },
+  "bib_papers": {
+   "value": 9569,
+   "source": "bibliography/index.json"
+  },
+  "bib_read": {
+   "value": 1427,
+   "source": "bibliography/index.json"
+  },
+  "bib_tdb": {
+   "value": 1886,
+   "source": "bibliography/index.json"
+  },
+  "bib_unverifiable": {
+   "value": 23,
+   "source": "bibliography/index.json"
+  },
+  "bib_verified": {
+   "value": 5384,
+   "source": "bibliography/index.json"
+  },
+  "bib_weak": {
+   "value": 103,
+   "source": "bibliography/index.json"
+  },
+  "es_assessed": {
+   "value": 645,
+   "source": "espei/index.json"
+  },
+  "es_datasets": {
+   "value": 6310,
+   "source": "espei/index.json"
+  },
+  "es_derived": {
+   "value": 1497,
+   "source": "espei/index.json"
+  },
+  "es_dft": {
+   "value": 3298,
+   "source": "espei/index.json (datasets by folder)"
+  },
+  "es_experimental": {
+   "value": 971,
+   "source": "espei/index.json (datasets by folder)"
+  },
+  "es_invariants": {
+   "value": 1548,
+   "source": "espei/index.json (datasets by folder)"
+  },
+  "es_model": {
+   "value": 493,
+   "source": "espei/index.json (datasets by folder)"
+  },
+  "es_systems": {
+   "value": 692,
+   "source": "espei/index.json"
+  },
+  "es_values": {
+   "value": 13174,
+   "source": "espei/index.json"
+  },
+  "es_version": {
+   "value": "0.9.1",
+   "source": "espei/validation.json"
+  },
+  "ev_dft": {
+   "value": 6149,
+   "source": "parquet/literature_values.parquet"
+  },
+  "ev_experimental": {
+   "value": 36247,
+   "source": "parquet/literature_values.parquet"
+  },
+  "ev_model": {
+   "value": 26192,
+   "source": "parquet/literature_values.parquet"
+  },
+  "ev_unspecified": {
+   "value": 4954,
+   "source": "parquet/literature_values.parquet"
+  },
+  "ex_commit": {
+   "value": "16d4eabe65",
+   "source": "zenodo/orchid-examples.files.json"
+  },
+  "ex_files": {
+   "value": 397,
+   "source": "zenodo/orchid-examples.files.json"
+  },
+  "ex_kb": {
+   "value": 11675,
+   "source": "zenodo/orchid-examples.files.json (total_bytes / 1000)"
+  },
+  "h_mp_agree": {
+   "value": 3827,
+   "source": "hulls/dft-mp/catalog.json"
+  },
+  "h_mp_elements": {
+   "value": 88,
+   "source": "hulls/dft-mp/catalog.json"
+  },
+  "h_mp_release": {
+   "value": "2026.04.13",
+   "source": "hulls/dft-mp/catalog.json"
+  },
+  "h_mp_systems": {
+   "value": 3828,
+   "source": "hulls/dft-mp/catalog.json"
+  },
+  "h_mp_vertices": {
+   "value": 12829,
+   "source": "hulls/dft-mp/catalog.json"
+  },
+  "h_oqmd_elements": {
+   "value": 89,
+   "source": "hulls/dft-oqmd/catalog.json"
+  },
+  "h_oqmd_release": {
+   "value": "qmdb_v1_8_022026",
+   "source": "hulls/dft-oqmd/catalog.json"
+  },
+  "h_oqmd_systems": {
+   "value": 3916,
+   "source": "hulls/dft-oqmd/catalog.json"
+  },
+  "h_oqmd_vertices": {
+   "value": 15314,
+   "source": "hulls/dft-oqmd/catalog.json"
+  },
+  "h_sgte_assess": {
+   "value": 2695,
+   "source": "hulls/calphad-sgte/catalog.json"
+  },
+  "h_sgte_systems": {
+   "value": 1223,
+   "source": "hulls/calphad-sgte/catalog.json"
+  },
+  "kim_differ": {
+   "value": 19,
+   "source": "literature/kim2017_crosscheck.json"
+  },
+  "kim_mae": {
+   "value": "3.76",
+   "source": "literature/kim2017_crosscheck.json"
+  },
+  "kim_overlap": {
+   "value": 160,
+   "source": "literature/kim2017_crosscheck.json"
+  },
+  "kim_sign": {
+   "value": "99",
+   "source": "literature/kim2017_crosscheck.json"
+  },
+  "lit_biblio": {
+   "value": 4881,
+   "source": "literature/papers.json"
+  },
+  "lit_context": {
+   "value": 225,
+   "source": "literature/contexts.json"
+  },
+  "lit_dups": {
+   "value": 3550,
+   "source": "literature/quality_fixes.json"
+  },
+  "lit_papers": {
+   "value": 1321,
+   "source": "parquet/literature_values.parquet"
+  },
+  "lit_systems": {
+   "value": 1477,
+   "source": "parquet/literature_values.parquet"
+  },
+  "par_compounds": {
+   "value": 964,
+   "source": "literature/dft_parity.json"
+  },
+  "par_mp": {
+   "value": 3652,
+   "source": "literature/dft_parity.json"
+  },
+  "par_mp_mae": {
+   "value": 9.5,
+   "source": "literature/dft_parity.json"
+  },
+  "par_mp_n": {
+   "value": 1093,
+   "source": "literature/dft_parity.json"
+  },
+  "par_mp_spearman": {
+   "value": "0.86",
+   "source": "literature/dft_parity.json"
+  },
+  "par_oqmd": {
+   "value": 3940,
+   "source": "literature/dft_parity.json"
+  },
+  "par_oqmd_mae": {
+   "value": 8.2,
+   "source": "literature/dft_parity.json"
+  },
+  "par_oqmd_n": {
+   "value": 1130,
+   "source": "literature/dft_parity.json"
+  },
+  "par_oqmd_spearman": {
+   "value": "0.91",
+   "source": "literature/dft_parity.json"
+  },
+  "par_points": {
+   "value": 7592,
+   "source": "literature/dft_parity.json"
+  },
+  "par_records": {
+   "value": 4040,
+   "source": "literature/dft_parity.json"
+  },
+  "pd_engine": {
+   "value": "pycalphad 0.11.2 BinaryStrategy + equilibrium grid",
+   "source": "phase-diagrams/index.json"
+  },
+  "pd_failed": {
+   "value": 54,
+   "source": "parquet/phase_diagram_index.parquet"
+  },
+  "pd_files": {
+   "value": 2774,
+   "source": "parquet/phase_diagram_index.parquet"
+  },
+  "pd_hits": {
+   "value": 24828,
+   "source": "parquet/phase_diagram_invariants.parquet (sum of n_mapper_hits)"
+  },
+  "pd_invariants": {
+   "value": 15322,
+   "source": "parquet/phase_diagram_invariants.parquet"
+  },
+  "pd_ok": {
+   "value": 2720,
+   "source": "parquet/phase_diagram_index.parquet"
+  },
+  "pg_equilibrium": {
+   "value": 5780,
+   "source": "parquet/literature_values.parquet (property_group)"
+  },
+  "pg_formation": {
+   "value": 10833,
+   "source": "parquet/literature_values.parquet (property_group)"
+  },
+  "pg_invariant": {
+   "value": 26417,
+   "source": "parquet/literature_values.parquet (property_group)"
+  },
+  "pg_structure": {
+   "value": 9857,
+   "source": "parquet/literature_values.parquet (property_group)"
+  },
+  "pg_transition": {
+   "value": 10454,
+   "source": "parquet/literature_values.parquet (property_group)"
+  },
+  "reg_gas": {
+   "value": 231,
+   "source": "phases/registry.json"
+  },
+  "reg_liquid": {
+   "value": 1304,
+   "source": "phases/registry.json"
+  },
+  "reg_names": {
+   "value": 43190,
+   "source": "phases/registry.json"
+  },
+  "reg_phases": {
+   "value": 10430,
+   "source": "phases/registry.json"
+  },
+  "reg_review_queue": {
+   "value": 1236,
+   "source": "phases/registry.json"
+  },
+  "reg_structure_types": {
+   "value": 1563,
+   "source": "phases/registry.json"
+  },
+  "reg_systems": {
+   "value": 1241,
+   "source": "phases/registry.json"
+  },
+  "reg_tdb_models": {
+   "value": 22556,
+   "source": "phases/registry.json"
+  },
+  "reg_tdb_names": {
+   "value": 22556,
+   "source": "phases/registry.json"
+  },
+  "reg_tierA": {
+   "value": 6228,
+   "source": "phases/registry.json"
+  },
+  "reg_tierB": {
+   "value": 154,
+   "source": "phases/registry.json"
+  },
+  "reg_tierC": {
+   "value": 1248,
+   "source": "phases/registry.json"
+  },
+  "tdb_linked": {
+   "value": 12833,
+   "source": "parquet/literature_values.parquet"
+  },
+  "values": {
+   "value": 73542,
+   "source": "parquet/literature_values.parquet"
+  }
+ }
+}

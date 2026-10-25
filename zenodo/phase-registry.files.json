@@ -1,6 +1,6 @@
 {
  "record": "phase-registry",
- "title": "ORCHID phase registry (binary systems)",
+ "title": "ORCHID-Registry: phase registry of binary systems",
  "version": "2026.10",
  "bundle": "orchid-phase-registry-v2026.10.zip",
  "include": [
@@ -16,7 +16,7 @@
   "phases/pages/**"
  ],
  "n_files": 1261,
- "total_bytes": 112249684,
+ "total_bytes": 112249893,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -6320,8 +6320,8 @@
   },
   {
    "path": "zenodo/phase-registry.metadata.json",
-   "bytes": 8680,
-   "sha256": "efa2f3e28b84696c45572721ce7523eaaf622f7248bf2ae8ee35f1c4d9e1a7ca"
+   "bytes": 8889,
+   "sha256": "3b9b9b7d721f159a220b18a60506934fc17a8ba25ab36e4e470f6db0d14b367a"
   }
  ]
 }

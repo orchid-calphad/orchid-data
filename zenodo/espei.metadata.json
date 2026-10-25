@@ -1,12 +1,12 @@
 {
- "_comment": "Zenodo deposition metadata (legacy REST format: PUT /api/deposit/depositions/<id> with this object as the body, or enter the fields in the web form). DOI placeholders 10.5281/zenodo.PENDING-<name> are replaced by tools/zenodo_release.py writeback.",
+ "_comment": "Zenodo deposition metadata (legacy REST format: PUT /api/deposit/depositions/<id> with this object as the body, or enter the fields in the web form). Written by tools/build_zenodo_metadata.py (numbers: metadata_numbers.json); do not edit by hand. No `grants` (NSF 2608825 is not in Zenodo's awards database): enter the funding as a custom award, see ZENODO_FUNDING_MANUAL.md. publication_date is set by Zenodo at publication. DOI placeholders 10.5281/zenodo.PENDING-<name> are replaced by tools/zenodo_release.py writeback.",
  "record": "espei",
  "doi": "10.5281/zenodo.PENDING-espei",
  "metadata": {
-  "title": "ORCHID ESPEI datasets from the literature",
+  "title": "ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values",
   "upload_type": "dataset",
   "version": "2026.10",
-  "description": "<p><b>ORCHID ESPEI datasets from the literature</b>: ESPEI 0.9.1 datasets built from the ORCHID literature values and from DFT, one folder per evidence class: <code>experimental/</code> (thermochemical and phase-composition ZPF tables), <code>invariants/</code> (ZPF from invariant-reaction tables), <code>model/</code> (values the papers calculated with a CALPHAD model, TDB SHA-256), <code>dft/literature</code>, <code>dft/mp</code>, <code>dft/oqmd</code> (HM_FORM of TDB phase endmembers, mapped through the ORCHID phase registry). Every literature value carries its ORCHID observation id and source DOI and passes the inclusion rules of the published literature values; every value carries its uncertainty in physical units (printed; ESPEI's experimental default where none was printed; DFT sigma calibrated against experiment, leave-system-out) and the ESPEI weight derived from it. Optional phase constraints, tagged and kept in their own folders (never mixed with measured data): <code>derived/invariant-brackets/</code> (phase sets just above and below each printed invariant temperature), <code>derived/liquid-stability/</code> (single-phase liquid above the highest liquidus where the sources show complete liquid miscibility) and <code>assessed/</code> (assessed handbook phase-field points in each assessment's phase names). Encoding fixes (vacancy components, line-compound vertices, duplicate invariants and rows, audited activity reference states, optional minimum-sigma weights) are counted in VALIDATION.md; literature records to correct are listed in UPSTREAM_CORRECTIONS.md. Validated with ESPEI 0.9.1 check_dataset and load_datasets (VALIDATION.md). Part of the ORCHID data release v2026.10.</p><h3>Limitations</h3><ul><li>Version 1, machine-extracted literature values.</li><li>Model-calculated values carry a method floor calibrated against experimental values of the same state, a lower bound of the model error because many models were fitted to those experiments: choose your own weight.</li><li>0 K DFT energies are used as 298.15 K enthalpies; DFT residuals are heavy-tailed.</li><li>Use one DFT source per fit (different elemental references).</li><li>Derived phase constraints encode the semantics of printed reactions; they are not measurements.</li></ul><h3>Licence</h3><p>ORCHID's data are released under CC BY 4.0, as are the SGTE (B. Hallstedt, Calphad 89 (2025) 102833), Materials Project and OQMD data from which they are derived; attributions and statements of changes are in NOTICE.md, the licence of each folder in LICENSES.md (both in the bundle). The quotations from papers that accompany values are short excerpts kept for verification; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full texts are not redistributed.</p>",
+  "description": "<p><b>ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values</b>: ESPEI 0.9.1 datasets built from the ORCHID literature values (ORCHID-Values) and from DFT, one folder per evidence class. Part of the ORCHID data release v2026.10.</p><p><b>Status.</b> Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</p><h3>What</h3><ul><li>6,310 datasets with 13,174 values in 692 systems, in folders <code>experimental/</code> (thermochemical and phase-composition ZPF tables; 971 datasets), <code>invariants/</code> (ZPF from invariant-reaction tables; 1,548), <code>model/</code> (values the papers calculated with a CALPHAD model, TDB SHA-256; 493) and <code>dft/</code> (<code>literature</code>, <code>mp</code>, <code>oqmd</code>: HM_FORM of TDB phase endmembers mapped through the ORCHID phase registry; 3,298).</li><li>Every value carries its ORCHID observation id and source DOI and passes the inclusion rules of the published literature values; its uncertainty is in physical units (printed; ESPEI's experimental default where none was printed; DFT sigma calibrated against experiment, leave-system-out) with the ESPEI weight derived from it.</li><li>Optional phase constraints, tagged and kept in their own folders (never mixed with measured data): <code>derived/invariant-brackets/</code> and <code>derived/liquid-stability/</code> (1,497 datasets) and <code>assessed/</code> (assessed handbook phase-field points in each assessment's phase names; 645 datasets).</li><li>Validated with ESPEI 0.9.1 <code>check_dataset</code> and <code>load_datasets</code> (<code>VALIDATION.md</code>); encoding fixes are counted there, literature records to correct are listed in <code>UPSTREAM_CORRECTIONS.md</code>.</li></ul><h3>Limitations</h3><ul><li>Version 1, machine-extracted literature values.</li><li>Model-calculated values carry a method floor calibrated against experimental values of the same state, a lower bound of the model error because many models were fitted to those experiments: choose your own weight.</li><li>0 K DFT energies are used as 298.15 K enthalpies; DFT residuals are heavy-tailed.</li><li>Use one DFT source per fit (different elemental references).</li><li>Derived phase constraints encode the semantics of printed reactions; they are not measurements.</li></ul><h3>Licence</h3><p>ORCHID's data are released under CC BY 4.0, as are the SGTE (B. Hallstedt, Calphad 89 (2025) 102833), Materials Project and OQMD data from which they are derived; attributions and statements of changes are in NOTICE.md, the licence of each folder in LICENSES.md (both in the bundle). The quotations from papers that accompany values are short excerpts kept for verification; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full texts are not redistributed.</p><p>Files: one zip (<code>orchid-espei-v2026.10.zip</code>) holding the files at their repository paths, a <code>MANIFEST.sha256</code>, the README, CHANGELOG and licence files. Its file list with sizes and SHA-256 is <code>zenodo/espei.files.json</code> in the data repository.</p><h3>How to cite</h3><p>R. Arróyave, J. Saal, D. Shin, ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-espei</p><p>Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data</p><p>Also cite the original source of every value you use (each dataset's `reference` / `bibtex`, references.bib; index.csv lists the DOIs); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).</p><pre>@misc{orchid_espei_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-espei},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-espei},\n  note      = {Version 1, machine-extracted}\n}\n\n@misc{orchid_data_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}</pre><p>Browse: <a href=\"https://orchid-project.org\">orchid-project.org</a> · data site <a href=\"https://data.orchid-project.org\">data.orchid-project.org</a> · source <a href=\"https://github.com/orchid-calphad/orchid-data\">github.com/orchid-calphad/orchid-data</a>.</p><p>This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge).</p>",
   "creators": [
    {
     "name": "Arróyave, Raymundo",
@@ -38,45 +38,35 @@
   "license": "cc-by-4.0",
   "access_right": "open",
   "language": "eng",
-  "grants": [
-   {
-    "id": "10.13039/100000001::2608825"
-   }
-  ],
   "communities": [
    {
-    "identifier": "orchid"
+    "identifier": "orchid-calphad"
    }
   ],
   "related_identifiers": [
    {
     "identifier": "10.5281/zenodo.PENDING-orchid-data",
     "relation": "isPartOf",
-    "resource_type": "dataset",
-    "scheme": "doi"
+    "scheme": "doi",
+    "resource_type": "dataset"
    },
    {
     "identifier": "10.5281/zenodo.PENDING-literature",
     "relation": "isDerivedFrom",
-    "resource_type": "dataset",
-    "scheme": "doi"
+    "scheme": "doi",
+    "resource_type": "dataset"
    },
    {
     "identifier": "10.5281/zenodo.PENDING-hulls",
     "relation": "isDerivedFrom",
-    "resource_type": "dataset",
-    "scheme": "doi"
+    "scheme": "doi",
+    "resource_type": "dataset"
    },
    {
     "identifier": "10.5281/zenodo.PENDING-phase-registry",
     "relation": "references",
-    "resource_type": "dataset",
-    "scheme": "doi"
-   },
-   {
-    "identifier": "https://orchid-project.org",
-    "relation": "isSupplementTo",
-    "scheme": "url"
+    "scheme": "doi",
+    "resource_type": "dataset"
    },
    {
     "identifier": "10.1063/1.4812323",
@@ -92,8 +82,18 @@
     "identifier": "10.1038/npjcompumats.2015.10",
     "relation": "references",
     "scheme": "doi"
+   },
+   {
+    "identifier": "https://orchid-project.org",
+    "relation": "isDocumentedBy",
+    "scheme": "url"
+   },
+   {
+    "identifier": "https://data.orchid-project.org",
+    "relation": "isDocumentedBy",
+    "scheme": "url"
    }
   ],
-  "notes": "This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge)."
+  "notes": "This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress."
  }
 }

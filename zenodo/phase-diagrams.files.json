@@ -1,6 +1,6 @@
 {
  "record": "phase-diagrams",
- "title": "ORCHID calculated binary phase diagrams",
+ "title": "ORCHID-Diagrams: calculated binary phase diagrams",
  "version": "2026.10",
  "bundle": "orchid-phase-diagrams-v2026.10.zip",
  "include": [
@@ -17,7 +17,7 @@
  ],
  "exclude": [],
  "n_files": 2785,
- "total_bytes": 123365042,
+ "total_bytes": 123365421,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -13941,8 +13941,8 @@
   },
   {
    "path": "zenodo/phase-diagrams.metadata.json",
-   "bytes": 5718,
-   "sha256": "3afbe907ad1f738e1203f352c46dffb896c937c9b2031b6a9bcd28ee58de9a83"
+   "bytes": 6097,
+   "sha256": "9c41fc8ef162661f84cf40dafdf2a9fafb7a7198716d74670ca81ff2a0858c46"
   }
  ]
 }

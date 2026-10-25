@@ -1,12 +1,12 @@
 {
- "_comment": "Zenodo deposition metadata (legacy REST format: PUT /api/deposit/depositions/<id> with this object as the body, or enter the fields in the web form). DOI placeholders 10.5281/zenodo.PENDING-<name> are replaced by tools/zenodo_release.py writeback.",
+ "_comment": "Zenodo deposition metadata (legacy REST format: PUT /api/deposit/depositions/<id> with this object as the body, or enter the fields in the web form). Written by tools/build_zenodo_metadata.py (numbers: metadata_numbers.json); do not edit by hand. No `grants` (NSF 2608825 is not in Zenodo's awards database): enter the funding as a custom award, see ZENODO_FUNDING_MANUAL.md. publication_date is set by Zenodo at publication. DOI placeholders 10.5281/zenodo.PENDING-<name> are replaced by tools/zenodo_release.py writeback.",
  "record": "dft-benchmark",
  "doi": "10.5281/zenodo.PENDING-dft-benchmark",
  "metadata": {
-  "title": "ORCHID DFT-vs-experiment formation-enthalpy benchmark",
+  "title": "ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark",
   "upload_type": "dataset",
   "version": "2026.10",
-  "description": "<p><b>ORCHID DFT-vs-experiment formation-enthalpy benchmark</b>: formation enthalpies of binary compounds read from published papers (ORCHID literature values) paired with the lowest-energy Materials Project and OQMD entries at exactly the same composition, as separate sources that are never averaged. Part of the ORCHID data release v2026.10.</p><p><b>Status.</b> Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</p><h3>What</h3><ul><li>7,826 literature-record x DFT-source points (3,738 Materials Project, 4,088 OQMD) from 4,188 matched records covering 962 compounds; residual = DFT - literature, kJ/mol-atom (1 eV/atom = 96.485 kJ/mol-atom).</li><li>Default subset (experimental, accepted, signed, not magnitude-suspect): MAE 10.9 kJ/mol-atom over 1,231 Materials Project pairs (Spearman 0.83) and 9.6 over 1,294 OQMD pairs (Spearman 0.88); statistics by chemistry, method and evidence class, exclusions counted by reason.</li><li>Cross-check against Kim et al. 2017 experimental formation enthalpies: 162 formulas in common, MAE 3.85 kJ/mol-atom, sign agreement 100%, 19 formulas differing by more than 10 kJ/mol-atom listed with record ids.</li><li>Files: <code>literature/dft_parity.json</code> (rules, statistics, points, records, papers), <code>literature/kim2017_crosscheck.json|.md</code>, Parquet <code>dft_parity</code>.</li></ul><h3>How</h3><p>Formulas are parsed from printed phase labels; reduced compositions (4-decimal mole fractions) are matched to non-deprecated DFT entries; large residuals were classified deterministically (per-formula values labelled per atom converted, unsigned magnitudes flagged and excluded, the rest flagged and kept; <code>literature/QUALITY_FIXES.md</code>).</p><h3>Limitations</h3><ul><li>Literature values are machine-extracted (Version 1); each point keeps its quote and page so it can be checked.</li><li>Binary compounds only; values whose per-atom basis is not stated are excluded.</li><li>MP and OQMD energies use different references and are not comparable with each other.</li></ul><h3>Licence</h3><p>ORCHID's data are released under CC BY 4.0, as are the SGTE (B. Hallstedt, Calphad 89 (2025) 102833), Materials Project and OQMD data from which they are derived; attributions and statements of changes are in NOTICE.md, the licence of each folder in LICENSES.md (both in the bundle). The quotations from papers that accompany values are short excerpts kept for verification; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full texts are not redistributed. The Kim et al. 2017 values used in the cross-check come from the Figshare deposit 10.6084/m9.figshare.7289723 under the MIT licence (notice in NOTICE.md).</p><p>Files: one zip (<code>orchid-dft-benchmark-v2026.10.zip</code>) holding the files at their repository paths, a <code>MANIFEST.sha256</code>, the README, CHANGELOG and licence files. Its file list with sizes and SHA-256 is <code>zenodo/dft-benchmark.files.json</code> in the data repository.</p><h3>How to cite</h3><p>R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark</p><p>Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data</p><p>Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162.</p><pre>@misc{orchid_dft_benchmark_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-dft-benchmark},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-dft-benchmark},\n  note      = {Version 1, machine-extracted}\n}\n\n@misc{orchid_data_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}</pre><p>Browse: <a href=\"https://orchid-project.org\">orchid-project.org</a> · data site <a href=\"https://data.orchid-project.org\">data.orchid-project.org</a> · source <a href=\"https://github.com/orchid-calphad/orchid-data\">github.com/orchid-calphad/orchid-data</a>.</p><p>This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge).</p>",
+  "description": "<p><b>ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark</b>: formation enthalpies of binary compounds read from published papers (ORCHID-Values) paired with the lowest-energy Materials Project and OQMD entries at exactly the same composition, as separate sources that are never averaged. Part of the ORCHID data release v2026.10. Short name in the paper: Parity.</p><p><b>Status.</b> Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.</p><h3>What</h3><ul><li>7,592 literature-record x DFT-source points (3,652 Materials Project, 3,940 OQMD) from 4,040 matched records covering 964 compounds; residual = DFT - literature, kJ/mol-atom (1 eV/atom = 96.485 kJ/mol-atom).</li><li>Default subset (experimental, accepted, signed, not magnitude-suspect): MAE 9.5 kJ/mol-atom over 1,093 Materials Project pairs (Spearman 0.86) and 8.2 over 1,130 OQMD pairs (Spearman 0.91); statistics by chemistry, method and evidence class, exclusions counted by reason.</li><li>Cross-check against Kim et al. 2017 experimental formation enthalpies: 160 formulas in common, MAE 3.76 kJ/mol-atom, sign agreement 99%, 19 formulas differing by more than 10 kJ/mol-atom listed with record ids.</li><li>Files: <code>literature/dft_parity.json</code> (rules, statistics, points, records, papers), <code>literature/kim2017_crosscheck.json|.md</code>, Parquet <code>dft_parity</code>.</li></ul><h3>How</h3><p>Formulas are parsed from printed phase labels; reduced compositions (4-decimal mole fractions) are matched to non-deprecated DFT entries; large residuals were classified deterministically (per-formula values labelled per atom converted, unsigned magnitudes flagged and excluded, the rest flagged and kept; <code>literature/QUALITY_FIXES.md</code>).</p><h3>Limitations</h3><ul><li>Literature values are machine-extracted (Version 1); each point keeps its quote and page so it can be checked.</li><li>Binary compounds only; values whose per-atom basis is not stated are excluded.</li><li>MP and OQMD energies use different references and are not comparable with each other.</li></ul><h3>Licence</h3><p>ORCHID's data are released under CC BY 4.0, as are the SGTE (B. Hallstedt, Calphad 89 (2025) 102833), Materials Project and OQMD data from which they are derived; attributions and statements of changes are in NOTICE.md, the licence of each folder in LICENSES.md (both in the bundle). The quotations from papers that accompany values are short excerpts kept for verification; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full texts are not redistributed. The Kim et al. 2017 values used in the cross-check come from the Figshare deposit 10.6084/m9.figshare.7289723 under the MIT licence (notice in NOTICE.md).</p><p>Files: one zip (<code>orchid-dft-benchmark-v2026.10.zip</code>) holding the files at their repository paths, a <code>MANIFEST.sha256</code>, the README, CHANGELOG and licence files. Its file list with sizes and SHA-256 is <code>zenodo/dft-benchmark.files.json</code> in the data repository.</p><h3>How to cite</h3><p>R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark</p><p>Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data</p><p>Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162.</p><pre>@misc{orchid_dft_benchmark_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-dft-benchmark},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-dft-benchmark},\n  note      = {Version 1, machine-extracted}\n}\n\n@misc{orchid_data_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}</pre><p>Browse: <a href=\"https://orchid-project.org\">orchid-project.org</a> · data site <a href=\"https://data.orchid-project.org\">data.orchid-project.org</a> · source <a href=\"https://github.com/orchid-calphad/orchid-data\">github.com/orchid-calphad/orchid-data</a>.</p><p>This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge).</p>",
   "creators": [
    {
     "name": "Arróyave, Raymundo",
@@ -37,44 +37,29 @@
   "license": "cc-by-4.0",
   "access_right": "open",
   "language": "eng",
-  "grants": [
-   {
-    "id": "10.13039/100000001::2608825"
-   }
-  ],
   "communities": [
    {
-    "identifier": "orchid"
+    "identifier": "orchid-calphad"
    }
   ],
   "related_identifiers": [
    {
     "identifier": "10.5281/zenodo.PENDING-orchid-data",
     "relation": "isPartOf",
-    "resource_type": "dataset",
-    "scheme": "doi"
+    "scheme": "doi",
+    "resource_type": "dataset"
    },
    {
     "identifier": "10.5281/zenodo.PENDING-literature",
     "relation": "isDerivedFrom",
-    "resource_type": "dataset",
-    "scheme": "doi"
+    "scheme": "doi",
+    "resource_type": "dataset"
    },
    {
     "identifier": "10.5281/zenodo.PENDING-hulls",
     "relation": "references",
-    "resource_type": "dataset",
-    "scheme": "doi"
-   },
-   {
-    "identifier": "https://orchid-project.org",
-    "relation": "isSupplementTo",
-    "scheme": "url"
-   },
-   {
-    "identifier": "https://data.orchid-project.org",
-    "relation": "isDocumentedBy",
-    "scheme": "url"
+    "scheme": "doi",
+    "resource_type": "dataset"
    },
    {
     "identifier": "10.1063/1.4812323",
@@ -100,6 +85,16 @@
     "identifier": "10.6084/m9.figshare.7289723",
     "relation": "references",
     "scheme": "doi"
+   },
+   {
+    "identifier": "https://orchid-project.org",
+    "relation": "isDocumentedBy",
+    "scheme": "url"
+   },
+   {
+    "identifier": "https://data.orchid-project.org",
+    "relation": "isDocumentedBy",
+    "scheme": "url"
    }
   ],
   "notes": "This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge). Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress."

@@ -1,6 +1,6 @@
 {
  "record": "espei",
- "title": "ORCHID ESPEI datasets from the literature",
+ "title": "ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values",
  "version": "2026.10",
  "bundle": "orchid-espei-v2026.10.zip",
  "include": [
@@ -14,7 +14,7 @@
  ],
  "exclude": [],
  "n_files": 8472,
- "total_bytes": 73081126,
+ "total_bytes": 73084620,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -42373,8 +42373,8 @@
   },
   {
    "path": "zenodo/espei.metadata.json",
-   "bytes": 5239,
-   "sha256": "6c45642af3d1dfab091a6372a1469951925e9e112a1e35ead16ef324797329f4"
+   "bytes": 8733,
+   "sha256": "cd5951b786ed94fe819c5342627674e719af2cabf3f5519445adae3d3f12d7ff"
   }
  ]
 }

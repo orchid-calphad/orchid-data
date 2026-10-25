@@ -1,6 +1,6 @@
 {
  "record": "hulls",
- "title": "ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)",
+ "title": "ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)",
  "version": "2026.10",
  "bundle": "orchid-hulls-v2026.10.zip",
  "include": [
@@ -16,7 +16,7 @@
  ],
  "exclude": [],
  "n_files": 18199,
- "total_bytes": 115993777,
+ "total_bytes": 115994198,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -91010,8 +91010,8 @@
   },
   {
    "path": "zenodo/hulls.metadata.json",
-   "bytes": 6633,
-   "sha256": "08148f7b38dd3641c10e51e87aab21d0c6490603c7ff150f121542264d2a88c9"
+   "bytes": 7054,
+   "sha256": "00c005074ce0c415770a47b704a38bbdb0377b382dccd319a7f4a27c17b7c2a6"
   }
  ]
 }

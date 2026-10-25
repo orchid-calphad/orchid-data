@@ -1,8 +1,8 @@
 {
  "record": "orchid-data",
- "title": "ORCHID data",
+ "title": "ORCHID data: umbrella record of the ORCHID datasets",
  "version": "2026.10",
- "bundle": "orchid-orchid-data-v2026.10.zip",
+ "bundle": "orchid-data-v2026.10.zip",
  "include": [
   "README.md",
   "CHANGELOG.md",
@@ -14,11 +14,12 @@
   "parquet/MANIFEST.json",
   "zenodo/README.md",
   "zenodo/dois.json",
-  "zenodo/*.metadata.json"
+  "zenodo/*.metadata.json",
+  "zenodo/metadata_numbers.json"
  ],
  "exclude": [],
- "n_files": 19,
- "total_bytes": 218046,
+ "n_files": 21,
+ "total_bytes": 241479,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -32,8 +33,8 @@
   },
   {
    "path": "DATASET_CARD.md",
-   "bytes": 61916,
-   "sha256": "69f073190419f8ab7c9becbdd78da3ac9852d1eb6194e3370e470c86db7cf8b6"
+   "bytes": 61915,
+   "sha256": "4be413a2bfa97d02aadecd0ebca6b6ec179c54cc5653b55c8f9654db120afe36"
   },
   {
    "path": "LICENSE",
@@ -62,58 +63,68 @@
   },
   {
    "path": "zenodo/README.md",
-   "bytes": 6609,
-   "sha256": "4b19e5a59b8904036897760501df233af930c923fcf6f04c3dff981f1620ca16"
+   "bytes": 6312,
+   "sha256": "300bf6e9609e9310a0120b87d7504547630bdbf64fc6e3417bc0bb8756734d4a"
   },
   {
    "path": "zenodo/assessed-phase-assemblages.metadata.json",
-   "bytes": 4073,
-   "sha256": "357fdf843cbee8579363b37725c5e15dc3838fdf22c451b346f1ef45d27b7a2a"
+   "bytes": 4094,
+   "sha256": "db9d96ea96400b3f9ed0aa4b3311a80b87cb2da3da3b80ba287d25a0ec884c9a"
   },
   {
    "path": "zenodo/bibliography.metadata.json",
-   "bytes": 5342,
-   "sha256": "1bf7b82e875ce5d33f53a0110ac94c7cf468dabe47963e978b97137fef64bc0f"
+   "bytes": 8036,
+   "sha256": "c923f3ca38673b5992b58ccc359b9a5ce953dafe256878c0113c8e6f0e6abc11"
   },
   {
    "path": "zenodo/dft-benchmark.metadata.json",
-   "bytes": 8571,
-   "sha256": "34de8da809e78d9308e72ce94a6cc8970246e7bf2b1c2f9f1eb973b7722aca7d"
+   "bytes": 8918,
+   "sha256": "e65a0b3d34f9fee967db6bba8f9a2216af9596a1f83247f0b716e0117095f9ec"
   },
   {
    "path": "zenodo/dois.json",
-   "bytes": 880,
-   "sha256": "6d5e169e62edc45a43f34b4c7d10b879a1d716a5c15fca4144f590f435d329ba"
+   "bytes": 986,
+   "sha256": "c7c2b693ecbc37efc4c95d57315cafd5f3860f609cb3dccab9df95435e748374"
   },
   {
    "path": "zenodo/espei.metadata.json",
-   "bytes": 5239,
-   "sha256": "6c45642af3d1dfab091a6372a1469951925e9e112a1e35ead16ef324797329f4"
+   "bytes": 8733,
+   "sha256": "cd5951b786ed94fe819c5342627674e719af2cabf3f5519445adae3d3f12d7ff"
   },
   {
    "path": "zenodo/hulls.metadata.json",
-   "bytes": 6633,
-   "sha256": "08148f7b38dd3641c10e51e87aab21d0c6490603c7ff150f121542264d2a88c9"
+   "bytes": 7054,
+   "sha256": "00c005074ce0c415770a47b704a38bbdb0377b382dccd319a7f4a27c17b7c2a6"
   },
   {
    "path": "zenodo/literature.metadata.json",
-   "bytes": 8259,
-   "sha256": "de55dfc080011c7aafd99e3db1280ab2208597d54e6f802a80ab6c5851b2a53a"
+   "bytes": 8768,
+   "sha256": "0cd69746d6ff2d8cf137a99c103eceec861935deacad65b39d28d5e886d922d6"
+  },
+  {
+   "path": "zenodo/metadata_numbers.json",
+   "bytes": 8770,
+   "sha256": "51177eebd66ccdee2962e5cc6e5a6d7e2913a9c0bd7d99b90ae50500d086f38f"
   },
   {
    "path": "zenodo/orchid-data.metadata.json",
-   "bytes": 8518,
-   "sha256": "8cc5eaea983b7d27dd8ef4327c92dada5cf886431ff903b1ba0bf3cee7eeb153"
+   "bytes": 10014,
+   "sha256": "12c709b0fcaa80d2e58b6faffa0f4e7f25247a4b1f84dd2c71aa9468b3668fc6"
+  },
+  {
+   "path": "zenodo/orchid-examples.metadata.json",
+   "bytes": 5285,
+   "sha256": "c90e980cf19e9bc2cd3eefd1e4dfe587394e6376651a91fdfe61f906a49e8ad3"
   },
   {
    "path": "zenodo/phase-diagrams.metadata.json",
-   "bytes": 5718,
-   "sha256": "3afbe907ad1f738e1203f352c46dffb896c937c9b2031b6a9bcd28ee58de9a83"
+   "bytes": 6097,
+   "sha256": "9c41fc8ef162661f84cf40dafdf2a9fafb7a7198716d74670ca81ff2a0858c46"
   },
   {
    "path": "zenodo/phase-registry.metadata.json",
-   "bytes": 8680,
-   "sha256": "efa2f3e28b84696c45572721ce7523eaaf622f7248bf2ae8ee35f1c4d9e1a7ca"
+   "bytes": 8889,
+   "sha256": "3b9b9b7d721f159a220b18a60506934fc17a8ba25ab36e4e470f6db0d14b367a"
   }
  ]
 }

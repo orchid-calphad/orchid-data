@@ -1,6 +1,6 @@
 {
  "record": "bibliography",
- "title": "ORCHID bibliography",
+ "title": "ORCHID-Bibliography: papers and typed citation relations",
  "version": "2026.10",
  "bundle": "orchid-bibliography-v2026.10.zip",
  "include": [
@@ -16,7 +16,7 @@
   "bibliography/pages/**"
  ],
  "n_files": 13752,
- "total_bytes": 216728024,
+ "total_bytes": 216730718,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -91,7 +91,7 @@
   {
    "path": "bibliography/index.json",
    "bytes": 2881047,
-   "sha256": "eeb4da595d5b5bf040def5985df3e718d40333c826dc3906c8b6b0478452ec1a"
+   "sha256": "524805698b97c9db37417435444634a02aa0a9a749de99c5f9787cdcda8ba872"
   },
   {
    "path": "bibliography/orchid-bibliography.bib",
@@ -68775,8 +68775,8 @@
   },
   {
    "path": "zenodo/bibliography.metadata.json",
-   "bytes": 5342,
-   "sha256": "1bf7b82e875ce5d33f53a0110ac94c7cf468dabe47963e978b97137fef64bc0f"
+   "bytes": 8036,
+   "sha256": "c923f3ca38673b5992b58ccc359b9a5ce953dafe256878c0113c8e6f0e6abc11"
   }
  ]
 }

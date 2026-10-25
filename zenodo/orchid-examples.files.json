@@ -1,0 +1,1997 @@
+{
+ "record": "orchid-examples",
+ "title": "ORCHID examples: runnable workflows on the ORCHID data (PhaseForge+, ESPEI, one-shot MLIP phase diagrams, MLIP formation enthalpies, quickstart)",
+ "version": "2026.10",
+ "bundle": "orchid-examples-v2026.10.zip",
+ "source": "git archive of github.com/orchid-calphad/orchid-examples",
+ "commit": "16d4eabe6587d722ab2b0a5140b83a8e4b01404b",
+ "n_files": 397,
+ "total_bytes": 11675170,
+ "files": [
+  {
+   "path": ".github/workflows/examples.yml",
+   "bytes": 1364,
+   "sha256": "0f46b5fbf4acb025f5946d600aa56a04cb0bee824eabf86edcab7f65eac41150"
+  },
+  {
+   "path": ".gitignore",
+   "bytes": 174,
+   "sha256": "4b7d931996bb8f7f9625825c93999586496fd3a864e41c9d90e28c95caa2c691"
+  },
+  {
+   "path": ".zenodo.json",
+   "bytes": 3018,
+   "sha256": "ffcda774bc61467293351ba6be5022f24ba4430d2b688d44ccb9921d5272508f"
+  },
+  {
+   "path": "CITATION.cff",
+   "bytes": 4006,
+   "sha256": "c84b95917aa8e5f216da6645fe04ef794f767d4005a5a724e2984c338253caab"
+  },
+  {
+   "path": "CONTRIBUTING.md",
+   "bytes": 1205,
+   "sha256": "a6ad670b6e8b6f17d05837c74e0e2d10d5385b696ce09bca2224ffab7a736d13"
+  },
+  {
+   "path": "LICENSE",
+   "bytes": 1290,
+   "sha256": "0d87d63d32919ceb213f9e019a13db45c1523ff856e9f79cb261b20b66d3384a"
+  },
+  {
+   "path": "LICENSE-DATA.md",
+   "bytes": 2317,
+   "sha256": "326c85bf41c878a775f299e2953e6a74722224b7cc7e8f434722191a245c2956"
+  },
+  {
+   "path": "README.md",
+   "bytes": 6189,
+   "sha256": "9662d1e8160fa174d6480a78d20ad618243f1a3b6214db43e0643e6d74f1ef7e"
+  },
+  {
+   "path": "ZENODO_LARGE_FILES.md",
+   "bytes": 2260,
+   "sha256": "cdbf99164c5f343e16024fee2fd473e3e717950ccef4aab850c9391c30843ef1"
+  },
+  {
+   "path": "common/figstyle.py",
+   "bytes": 2800,
+   "sha256": "77b106cd68da28649303aff7e8cd37e39c7ac62f2530d47226954771c591a08d"
+  },
+  {
+   "path": "common/orchid_data.py",
+   "bytes": 3533,
+   "sha256": "44247260deb95b717cf14c58f6031768e77150b02df2e11dae12bc0db6cca793"
+  },
+  {
+   "path": "cuzr-espei-mcmc/README.md",
+   "bytes": 6471,
+   "sha256": "39ae7b7321c5e0d68fda1abd61202cb4efa98992a0654fc8eb4ebb1111c961fe"
+  },
+  {
+   "path": "cuzr-espei-mcmc/cached/espei_demo_summary.json",
+   "bytes": 6248,
+   "sha256": "a207f10f0a01db2ccf7284ae5a0384825651b6f8ac3c2011b1fd2c3b9a78d57e"
+  },
+  {
+   "path": "cuzr-espei-mcmc/cached/v4_m7/summary_v4_m7.json",
+   "bytes": 9593,
+   "sha256": "1fcb062cbe1a11bd9591399cee1f60b40bc71ad02c2a0ce8d083eb2a28ce37ef"
+  },
+  {
+   "path": "cuzr-espei-mcmc/cached/v4_m7/summary_v4_m7.md",
+   "bytes": 943,
+   "sha256": "08170463f6ea4c891d69e9b56e9e15328bfa67c6e7f74a144dc4778c2edf2eb1"
+  },
+  {
+   "path": "cuzr-espei-mcmc/figures/SHA256SUMS",
+   "bytes": 265,
+   "sha256": "134bd9cd393f03718a21e2cc5ee4792c689b5c6188eeaf229137b1e07fe30caa"
+  },
+  {
+   "path": "cuzr-espei-mcmc/figures/fig_espei_negative.pdf",
+   "bytes": 24093,
+   "sha256": "6e243d754f57069b0fc7c8837505d9448b0fd9147f85cd09cada2513be1fc638"
+  },
+  {
+   "path": "cuzr-espei-mcmc/figures/fig_espei_negative.png",
+   "bytes": 180099,
+   "sha256": "1f6086827483b24c9e193009385f4d944d97eaa9aea1ba2ed412e68837d444d5"
+  },
+  {
+   "path": "cuzr-espei-mcmc/figures/gate_sgte_start.json",
+   "bytes": 2283,
+   "sha256": "c8f91edac29e0cae852b63508e47cc2e957750e3ef652e3486af8db95bd63b59"
+  },
+  {
+   "path": "cuzr-espei-mcmc/inputs/phases.json",
+   "bytes": 1528,
+   "sha256": "4689e0ad2eb3351fea9d717b9f9b15d882edb91e9b6f7560e99fbfb7fb9eb67b"
+  },
+  {
+   "path": "cuzr-espei-mcmc/inputs/printed_invariants.json",
+   "bytes": 24292,
+   "sha256": "6e202ac7d87ab38698af29779535b35354119fd2bf1d0ca851f63e814ab581f2"
+  },
+  {
+   "path": "cuzr-espei-mcmc/inputs/unary_tables.npz",
+   "bytes": 153528,
+   "sha256": "ea6544f50cc8c3eae39410a1b0b98a171510bf82a3bfc601e5a11a10208d34cd"
+  },
+  {
+   "path": "cuzr-espei-mcmc/requirements-full.txt",
+   "bytes": 1352,
+   "sha256": "e922636bd076dd74856243c4f1fd3b3ebccef61bd7ecd072906222a0816fa61e"
+  },
+  {
+   "path": "cuzr-espei-mcmc/requirements.txt",
+   "bytes": 117,
+   "sha256": "6a7cb9bbee20aef34cf9d8aafed089a5d5cf80afc8b17d4d9550f0fc6cb54a5a"
+  },
+  {
+   "path": "cuzr-espei-mcmc/run_quick.sh",
+   "bytes": 349,
+   "sha256": "dd5887dd0b0e2e2c780150272f791a6be833d4452e45836d00f6d0afc3f86697"
+  },
+  {
+   "path": "cuzr-espei-mcmc/scripts/figure.py",
+   "bytes": 5012,
+   "sha256": "d3879a464339a85c8511af150b15c4634678c7b336417924f23f82978505d72a"
+  },
+  {
+   "path": "cuzr-espei-mcmc/scripts/gate.py",
+   "bytes": 3701,
+   "sha256": "901c7b4b6eed2440b3ac86af153b5782d9059d941ed9c0542c9868f97102c180"
+  },
+  {
+   "path": "cuzr-espei-mcmc/scripts/make_param_tdb.py",
+   "bytes": 2245,
+   "sha256": "6973c984ba0e60c84830e65b745f5a62844a662db70a96394ac4af9bcac7a33d"
+  },
+  {
+   "path": "cuzr-espei-mcmc/scripts/model.py",
+   "bytes": 8551,
+   "sha256": "db4fdcf349e36bdb1c4a16c75f90e76016927a8d52317f903c1eb0b90b100ece"
+  },
+  {
+   "path": "cuzr-espei-mcmc/scripts/select_datasets.py",
+   "bytes": 6845,
+   "sha256": "33a132a04ef794768b4a09fb97130fbce9e8d76c6665bc7622b43e792b7f6ffb"
+  },
+  {
+   "path": "cuzr-espei-mcmc/scripts/source_v4_m7/README.md",
+   "bytes": 609,
+   "sha256": "e2dbe0fb7747ddad38fd4f8d9db586f2cd2ed7feefb9864e1cdf60a1ede21620"
+  },
+  {
+   "path": "cuzr-espei-mcmc/scripts/source_v4_m7/invariants_v4.py",
+   "bytes": 490,
+   "sha256": "7310631d5fa03a09258730dc1942518ed27446d810700c8b32514e8b3b566a3e"
+  },
+  {
+   "path": "cuzr-espei-mcmc/scripts/source_v4_m7/model_v4.py",
+   "bytes": 2066,
+   "sha256": "027f60253deaa4954c75a308996ad8b4ecda441549bf899b11ea31450c2cce60"
+  },
+  {
+   "path": "cuzr-espei-mcmc/scripts/source_v4_m7/summarize_v4_m7.py",
+   "bytes": 6764,
+   "sha256": "23fb86d3abf8c773e6d01768a6831532cdfaacde035780fda300cb01ceb11886"
+  },
+  {
+   "path": "cuzr-espei-mcmc/tdb/CuZr-94Zen-LB.tdb",
+   "bytes": 6772,
+   "sha256": "4cce85fd056a6fced1c8270faca7a1d811d2f8227b305f70e0a221925bd07f69"
+  },
+  {
+   "path": "cuzr-espei-mcmc/tdb/CuZr-94Zen-LB_param.tdb",
+   "bytes": 7713,
+   "sha256": "29e1b0c3e9f80ad336c23e07d23df2ffd97d9d9e451f8671bb012f3baf58d4a8"
+  },
+  {
+   "path": "cuzr-espei-mcmc/tdb/params.json",
+   "bytes": 747,
+   "sha256": "961e5821f9515f01c09e1437905f67a9ceebcb61e8c6d1006ddc61d7ddfc6bc7"
+  },
+  {
+   "path": "cuzr-espei-mcmc/tdb/review_only/CuZr-94Zen-LB_ORCHID-v4_m7_REVIEW-ONLY.tdb",
+   "bytes": 7729,
+   "sha256": "e21d16a1211627c6f67e58e266e94f7f368ad9714c6a6a603cf288ed0dcac8d3"
+  },
+  {
+   "path": "cuzr-espei-mcmc/tdb/review_only/CuZr-94Zen-LB_param_v4_m7.tdb",
+   "bytes": 7663,
+   "sha256": "09badca3918607ecaa328e230a8c5457841037880a9c2122092f01b479d18a04"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/README.md",
+   "bytes": 10998,
+   "sha256": "cedb66ce65703567365073a7d697578b56afc619ec58dc86dc54166399d2357c"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/cached/demo_results.json",
+   "bytes": 40537,
+   "sha256": "1391655b12b3eec9fe92299ee72ac54d7c8889f7f1709541113bdcf6c82d647c"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/cached/final_fit/all_starts.json",
+   "bytes": 16632,
+   "sha256": "5c2a3be669d661c0f6b3952d39917eabed55a6ad64d2ed37edfa607cd0c6948c"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/cached/final_fit/result.json",
+   "bytes": 2146,
+   "sha256": "da87dc7f36855497aa412ad1d0f7ece59d4a24edb2db65177eb5915ee104e506"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/cached/final_fit/trace.jsonl",
+   "bytes": 310433,
+   "sha256": "df0df94dfc564707014f754c93095b1f3edc1f9914ac8a39be4c53d6ab1b4b3c"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/cached/gate.json",
+   "bytes": 4224,
+   "sha256": "6e52b0c1c9bc0eb95aaf3f30b2de3ebb0595b396b74059fca6c88a97ba6c2e7c"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/cached/hmc/RESULTS_HMC.md",
+   "bytes": 10459,
+   "sha256": "decc5dd12e828e05db6e05738318b8687e1ac0e570cc68b0be4167888df2ac74"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/cached/hmc/hmc_results.json",
+   "bytes": 69101,
+   "sha256": "85ada1c3bdb0f92180b33e0304b080d883ff5614659130238b0b6f04450e4659"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/cached/sigma_mlip.json",
+   "bytes": 3053,
+   "sha256": "deb9e596c03bc640163cf06e9d7b4b333bf0327fe2461d7f183a9303e0018375"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/figures/SHA256SUMS",
+   "bytes": 422,
+   "sha256": "94a3da2dc80e5bb61096401d6b830771e75b9e322ba1ef8c95a5aaf45edc1433"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/figures/fig_cuzr_overlay.pdf",
+   "bytes": 153841,
+   "sha256": "f2a66cda8e3069bba4d3e5101a9610d5b3d14fac86b8091a75d741fa8332b471"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/figures/fig_cuzr_overlay.png",
+   "bytes": 253548,
+   "sha256": "dd4df8e81590f6134f65b2b4656301368b28b2a6164406e934dc0284732efd4d"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/figures/fig_cuzr_panels.pdf",
+   "bytes": 283517,
+   "sha256": "cbd20055cf4870ad864f87d69d0cc82239c1ef4135939c6b3c967f8834222586"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/figures/fig_cuzr_panels.png",
+   "bytes": 227138,
+   "sha256": "eb5a788b70d1c711df519f183e09295234b655a0f42992fd203acab15654cebd"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/figures/gate.json",
+   "bytes": 4224,
+   "sha256": "6e52b0c1c9bc0eb95aaf3f30b2de3ebb0595b396b74059fca6c88a97ba6c2e7c"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/inputs/printed_invariants.json",
+   "bytes": 24292,
+   "sha256": "6e202ac7d87ab38698af29779535b35354119fd2bf1d0ca851f63e814ab581f2"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/inputs/sigma_mlip.json",
+   "bytes": 3053,
+   "sha256": "deb9e596c03bc640163cf06e9d7b4b333bf0327fe2461d7f183a9303e0018375"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/inputs/unary_tables.npz",
+   "bytes": 153528,
+   "sha256": "ea6544f50cc8c3eae39410a1b0b98a171510bf82a3bfc601e5a11a10208d34cd"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/inputs/zpf_points.json",
+   "bytes": 8979,
+   "sha256": "56de1d161ca02430da35204c87f87681fba4ef5d389f7580d37747ea3ce7ce4a"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/requirements-fit.txt",
+   "bytes": 2067,
+   "sha256": "54e73ea2f2bdca43536b7f44d3f8fedb14d2627b001d93db9163bbc7bf825fdf"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/requirements-mlip.txt",
+   "bytes": 3083,
+   "sha256": "e5ab4c1b42ebc9f7d1f231ff452cb3707b79db954c7759acbf367f468b29c2be"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/requirements.txt",
+   "bytes": 110,
+   "sha256": "375fef1d0a3664ad4cf7d9cd204f5c48c4c16d0135beac6f79f66677e098bbd3"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/run_quick.sh",
+   "bytes": 352,
+   "sha256": "d21f994af4d551a47098ac1d8b875d776cc2d1ef365e7af1a910e33737efcf26"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/extract_zpf_points.py",
+   "bytes": 2359,
+   "sha256": "f8b4c960d6de9f546cb41e8889b5aa10f9dfd7cf5c9e10f0e2f7efac36c76ca9"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/fig_overlay.py",
+   "bytes": 12431,
+   "sha256": "b76a46de94d4d83556886129ce02bc0faad8d41d240282e4f09475305b9f8476"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/_paths.py",
+   "bytes": 3683,
+   "sha256": "8204c676a6ef03c4a60a648cb9438da47b4a8b0217d816b35e96954ed624b396"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/build_a4.py",
+   "bytes": 3236,
+   "sha256": "13ae49a8b7ad6f20f19f0268ad2f6c4c5bc861ae6649ebe10680402e473b00f5"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/build_data.py",
+   "bytes": 8767,
+   "sha256": "571beb682a9eb982a8ea9b85a5ab1f1263becc865771a68c5c9e4b6d15c3b7fc"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/build_mlip_tdb.py",
+   "bytes": 7919,
+   "sha256": "834ac3241bb0ae8a4f0f439e108e7f8a8cf122c9890571d31bcf1bcf78559671"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/compounds.py",
+   "bytes": 5165,
+   "sha256": "f9d64d1a6c62902c5904e1b9566a50ef0a7747111f36ff26039a43f6f7d1bcfc"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/evaluate.py",
+   "bytes": 4369,
+   "sha256": "21c036e60ad15a2237790f83c2dfae851f74dc1295df7b17b07d61e755a22c42"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/fit_pr268.py",
+   "bytes": 5382,
+   "sha256": "bfd61bbd84ce3006c3d3415030c4c65429fc8cac6ca866208ec4953ff98b46e7"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/hmc_hessian.py",
+   "bytes": 2445,
+   "sha256": "3527524a24c1a5ac7aca6eb7f86cb884c2b390ff9b567c67f86d63bf8ddb581e"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/hmc_nuts.py",
+   "bytes": 10193,
+   "sha256": "3d1e71cd271496c3227ee72480647840e252fbd8ceb82f333f0c6dbae5ac70b4"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/hmc_refine.py",
+   "bytes": 2258,
+   "sha256": "20e09b411ed65ccd4454d39114fd9dccda868010313b969367fd6fdc8c5a8a54"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/liquid_md.py",
+   "bytes": 3504,
+   "sha256": "a5e511d897b2fd3c625ef7a5d471e3c3914a2018880548c99761a8ca40b964a9"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/make_anchor.py",
+   "bytes": 3007,
+   "sha256": "a1ecefda90000dfefd4f1a52901d2bb3479fdfc13422c9dc6f00057596308966"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/mlip_relax.py",
+   "bytes": 3348,
+   "sha256": "17c59885ccd81821ce08b1dd917deeba9cbade87f70d0723eca81d8441d4cdd9"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/printed_invariants.py",
+   "bytes": 2458,
+   "sha256": "daa9e24a8d370fc73e07623a94c153fc2fe3ec3845b344df9c86c00d889cd565"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/sigma_mlip.py",
+   "bytes": 3016,
+   "sha256": "aa4390cdcbc2dbfa4a0d83dad3874b846b0a81469ed4631e08c11da7ef6b8a2b"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/sqs_mscraps.py",
+   "bytes": 6576,
+   "sha256": "a66c02804a281fec222573222fc6db69719890a041859e728b43d0f317d6fa8a"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/validate_sqs.py",
+   "bytes": 4715,
+   "sha256": "3347d3989f973317d1d578140d17bc316551fd27a033d279f8d72945b78c621c"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/full/validity.py",
+   "bytes": 1163,
+   "sha256": "2ec8059fe96d2dcae79a0d86a87ae526495c4e12ef8d14d54d5b94468ebec32f"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/gate.py",
+   "bytes": 3443,
+   "sha256": "8b85d938078195a3252e2fc7914de8928e833379de6877ee67ea47848f68addf"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/model.py",
+   "bytes": 8551,
+   "sha256": "db4fdcf349e36bdb1c4a16c75f90e76016927a8d52317f903c1eb0b90b100ece"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/pd_map.py",
+   "bytes": 2846,
+   "sha256": "bcefcd80e684268d6004d50349d71e750796084526da84d96bdb4306995c473c"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/tdb/CuZr-94Zen-LB.tdb",
+   "bytes": 6772,
+   "sha256": "4cce85fd056a6fced1c8270faca7a1d811d2f8227b305f70e0a221925bd07f69"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/tdb/CuZr-PhaseForge-MLIP-B2b.tdb",
+   "bytes": 7467,
+   "sha256": "ce880a9dbefdcf5ff97781b03c9cf5712f848488e192026084fbbee563226ad4"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/tdb/CuZr-PhaseForge-MLIP.tdb",
+   "bytes": 7332,
+   "sha256": "9a24be5b28949901d3297377745b65a88f545685dc24718676017b5d8602c2de"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/tdb/CuZr-PhaseForge-final.tdb",
+   "bytes": 7739,
+   "sha256": "b50b5f95cafe6dcfcb84dfcc9de7ec4b069929bbba940a403615040b325d6ad5"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/tdb/mlip_fit.json",
+   "bytes": 10201,
+   "sha256": "bb3368cfd42f318525c4f95c266c978341b1dc99fe45dc292b654923b40a4c0f"
+  },
+  {
+   "path": "mlip-formation-enthalpy/README.md",
+   "bytes": 6032,
+   "sha256": "facd6cc4d07c89ac7529847134860aa1873b771d1d3397be7e0f827a678b664f"
+  },
+  {
+   "path": "mlip-formation-enthalpy/cached/CALIBRATION_MLIP_reference.json",
+   "bytes": 222345,
+   "sha256": "7e67b3102bc8a39c0c25ca84ae2cc911d2826090ebb652b8cd4c5780dcbe2b6b"
+  },
+  {
+   "path": "mlip-formation-enthalpy/env/constraints-grace.txt",
+   "bytes": 1946,
+   "sha256": "8278deed81b781ae34f70a55765037b3d8c5bf26eac15fa715e2bc9016172cd2"
+  },
+  {
+   "path": "mlip-formation-enthalpy/env/constraints-mace.txt",
+   "bytes": 1057,
+   "sha256": "84b1cbc71f2dc3ee2b96dbd9a9c03b214f02514a938d3581bc55f3657235bf27"
+  },
+  {
+   "path": "mlip-formation-enthalpy/env/constraints-torch.txt",
+   "bytes": 3828,
+   "sha256": "583f76a2002db9cdc14367b76d5098632ad8ad27b2ee27e078972d9c3027d6ca"
+  },
+  {
+   "path": "mlip-formation-enthalpy/env/requirements-grace-cpu.txt",
+   "bytes": 166,
+   "sha256": "40a2ee6b2a2d75b0e5075e0373e77d93dc622e8ab35919b8ea65ad773eabce3c"
+  },
+  {
+   "path": "mlip-formation-enthalpy/env/requirements-mace.txt",
+   "bytes": 66,
+   "sha256": "93f4145e62bce17ec5cfc79116a1c8957379ed116675b8d75a26c22cc4afb068"
+  },
+  {
+   "path": "mlip-formation-enthalpy/env/requirements-torch.txt",
+   "bytes": 351,
+   "sha256": "fe57f478b7b035a886a96a4e18eeacf8fe5eba74de65c294be9f93ac3692bc40"
+  },
+  {
+   "path": "mlip-formation-enthalpy/env/requirements-uma.txt",
+   "bytes": 136,
+   "sha256": "e21106724551ba099b0b17452fc55d898c3d5ab0c019d772c05f98daefb740c2"
+  },
+  {
+   "path": "mlip-formation-enthalpy/figures/SHA256SUMS",
+   "bytes": 170,
+   "sha256": "cd48e13e1476286268468ed46ad476484dcdeb991e5723e272df383e83cb552a"
+  },
+  {
+   "path": "mlip-formation-enthalpy/figures/mlip_benchmark.pdf",
+   "bytes": 84601,
+   "sha256": "f06f8f0ad6c72c6ed9e48638e2f81a75c61b59c9e826331c9a13e72740d6f7b1"
+  },
+  {
+   "path": "mlip-formation-enthalpy/figures/mlip_benchmark.png",
+   "bytes": 517254,
+   "sha256": "0b4e79e280ec6f3619fdeafeead2970076cd16f24b1defb0173e4d2824d38956"
+  },
+  {
+   "path": "mlip-formation-enthalpy/inputs/pairs_identical_set.csv",
+   "bytes": 570662,
+   "sha256": "c5576f7a54d263503f5762f35378b2ed654e96dda23f382c27e2250cfc83638f"
+  },
+  {
+   "path": "mlip-formation-enthalpy/inputs/structures.json.gz",
+   "bytes": 462027,
+   "sha256": "5dc9289b35518ef5cb8b049bc4702f75d555a22341969d6c24426ea557b8ae9c"
+  },
+  {
+   "path": "mlip-formation-enthalpy/inputs/structures_addendum_r2.json",
+   "bytes": 9205,
+   "sha256": "58086d695e9c706753f8b84dddfe1c8b60b05d79bf63d8f84abe3f484c35692d"
+  },
+  {
+   "path": "mlip-formation-enthalpy/requirements.txt",
+   "bytes": 103,
+   "sha256": "c30e7cb7cb281701fd058f9d2f6f8f3b6875a28b57c9b51c7e8741d88705235d"
+  },
+  {
+   "path": "mlip-formation-enthalpy/results/summary.json",
+   "bytes": 47148,
+   "sha256": "93ed5f0602e125d4b85609b6f244d549cc5267ac71e5b7b3aaf496e70b904533"
+  },
+  {
+   "path": "mlip-formation-enthalpy/run_quick.sh",
+   "bytes": 410,
+   "sha256": "f8392a44ed9f7bb3cb62a577ff58093c53bebd6e724558a502e612beff77585c"
+  },
+  {
+   "path": "mlip-formation-enthalpy/scripts/analyze.py",
+   "bytes": 7484,
+   "sha256": "a4d02ce42426f329fff600a46889e7f95dcace7f57bfd0b29a8c529f030b92d6"
+  },
+  {
+   "path": "mlip-formation-enthalpy/scripts/estimators.py",
+   "bytes": 2279,
+   "sha256": "17d43f77fd64457c01d8f166763e1fac5f91738c17b8a9a24a9bfd3015359402"
+  },
+  {
+   "path": "mlip-formation-enthalpy/scripts/full/analyze_raw.py",
+   "bytes": 22902,
+   "sha256": "3524b23f42492fe4fa52b20d84128c16e2f5f52ef8d75696b2d26c3749adb49a"
+  },
+  {
+   "path": "mlip-formation-enthalpy/scripts/full/models.json",
+   "bytes": 4009,
+   "sha256": "6b69657e90c58b4fa4fd2ce305cf269db846d786bf1cd6d0341faeb8ffb4d08f"
+  },
+  {
+   "path": "mlip-formation-enthalpy/scripts/full/run_mlip.py",
+   "bytes": 7028,
+   "sha256": "0083745f420f8b7c095db6ba20a66c3c7abe2e4624b350a08b066b08885de2bf"
+  },
+  {
+   "path": "mlip-formation-enthalpy/scripts/make_figure.py",
+   "bytes": 6279,
+   "sha256": "926453f24a4518ff6f98afeca9db71b6fdfe15c4ca880da2a1e1b6833aecf8fc"
+  },
+  {
+   "path": "oneshot-benchmark/README.md",
+   "bytes": 6087,
+   "sha256": "e64865e351e9530dce44aae2398c53c4495df04ecdff1c1d6344f0f6e6e7a95b"
+  },
+  {
+   "path": "oneshot-benchmark/figures/SHA256SUMS",
+   "bytes": 262,
+   "sha256": "bfc79a2133b58285fe52ae27f52b78c7f8be37330b68e94370c01276de897c06"
+  },
+  {
+   "path": "oneshot-benchmark/figures/fig_cuzr_oneshot.pdf",
+   "bytes": 911889,
+   "sha256": "45c0b2ca9c113359d69e2bdfe716245e1c8579055c6e042cf7068d1550bb3b82"
+  },
+  {
+   "path": "oneshot-benchmark/figures/fig_cuzr_oneshot.png",
+   "bytes": 231127,
+   "sha256": "07696e3578754033de5d9ee21e793daa56cea5b3c6ecff602859403f9889f82a"
+  },
+  {
+   "path": "oneshot-benchmark/figures/grace_grid_score.json",
+   "bytes": 103378,
+   "sha256": "d8938e4694192c4a787d18ceb491bd22b7cbe12f7ea6b32e19586552b72c53a2"
+  },
+  {
+   "path": "oneshot-benchmark/inputs/evidence.json",
+   "bytes": 478245,
+   "sha256": "778629d1ec5a4b9ef21f5236510b26536508b6fd302d937670f5992ccc37bb1c"
+  },
+  {
+   "path": "oneshot-benchmark/inputs/phaseforge_fit_split.json",
+   "bytes": 3756,
+   "sha256": "8a66a60a79109785ec45ea9bd7ae5bf0dd28e6466bf0c78cf9b468cc56a4f635"
+  },
+  {
+   "path": "oneshot-benchmark/requirements-full.txt",
+   "bytes": 680,
+   "sha256": "eecb2c695acd45b33208f5c11a37defc3dffc0380cec38e6d86af6cf19335c48"
+  },
+  {
+   "path": "oneshot-benchmark/requirements.txt",
+   "bytes": 134,
+   "sha256": "dd6f7dbd1a45c561d9c1b2a8a6074ed92dfef9ee12cd7472086790a0ed8a0abf"
+  },
+  {
+   "path": "oneshot-benchmark/results/comparison.json",
+   "bytes": 1143,
+   "sha256": "66ec1134a85d604d1e28aca81c19df666979d1b223d5816591d75ca0b8277aaa"
+  },
+  {
+   "path": "oneshot-benchmark/results/cuzr_grace.json",
+   "bytes": 270215,
+   "sha256": "5ccf4ae884e06f269daab0d691bba4a6b08da1e399efad5dc307a4d48366308f"
+  },
+  {
+   "path": "oneshot-benchmark/results/cuzr_phaseforgeplus_final.json",
+   "bytes": 270690,
+   "sha256": "bb8070034e90e198a0c4f33b0c4f11c1a1846ab5909cd56e0517dc17a1e4041c"
+  },
+  {
+   "path": "oneshot-benchmark/results/cuzr_sgte_94Zen.json",
+   "bytes": 273120,
+   "sha256": "a28c576895f95239f8e0afeae9c5fbdd0771ca942258c541fe35f688a2b83699"
+  },
+  {
+   "path": "oneshot-benchmark/results/map_cuzr_grace.npz",
+   "bytes": 28737,
+   "sha256": "977892bb1a84602783e073faeff071a2d924afe716aca3d9371c9ef70f426d76"
+  },
+  {
+   "path": "oneshot-benchmark/results/reference_panel/CuZr-06Abe.json",
+   "bytes": 276140,
+   "sha256": "c019729c4b93a3d822479765b898cc1a5226ee30412f83362d303451c6ab143f"
+  },
+  {
+   "path": "oneshot-benchmark/results/reference_panel/CuZr-06He.json",
+   "bytes": 272778,
+   "sha256": "a1c1bde9682eb12da451dba7af027619754e9bbd8504e3ca6550b612954dd300"
+  },
+  {
+   "path": "oneshot-benchmark/results/reference_panel/CuZr-06Wan.json",
+   "bytes": 285095,
+   "sha256": "74b2b15cb1ccb4cedd3b447daf7dbfdb3fc6643749af62cd55d98e5ccc982c87"
+  },
+  {
+   "path": "oneshot-benchmark/results/reference_panel/CuZr-08Tur.json",
+   "bytes": 270663,
+   "sha256": "bf0e9b89f30e4997f1f02b7858120f9001c5504fd0330f169ef5d16dba35667a"
+  },
+  {
+   "path": "oneshot-benchmark/results/reference_panel/CuZr-10Zho.json",
+   "bytes": 278299,
+   "sha256": "68c2852dd7f84bbd103bf5674c8db9cc28cee951d37ebfd1d1edcec3da9db472"
+  },
+  {
+   "path": "oneshot-benchmark/results/reference_panel/CuZr-11Gie.json",
+   "bytes": 280524,
+   "sha256": "6e94ec3b5833ef3e2b608b75a2ca32869dccfb41c0635e94ea0d17ca3271f1f8"
+  },
+  {
+   "path": "oneshot-benchmark/results/reference_panel/CuZr-16Hsi.json",
+   "bytes": 273227,
+   "sha256": "c260d616fa628b747ac908ae836defee560b84fa85bdb741b2263ebfc75fc269"
+  },
+  {
+   "path": "oneshot-benchmark/results/reference_panel/CuZr-17Liu.json",
+   "bytes": 274317,
+   "sha256": "b947cdae30ba795c70920d89843f0ad43be640607bdbea80499e6b12781d8aed"
+  },
+  {
+   "path": "oneshot-benchmark/results/reference_panel/CuZr-22Zho.json",
+   "bytes": 276388,
+   "sha256": "bb7807e32c2911e5330aa90a85291becd38e75c819c5f6489108814520b9815d"
+  },
+  {
+   "path": "oneshot-benchmark/results/reference_panel/CuZr-85Sau.json",
+   "bytes": 269414,
+   "sha256": "98ab4894450ab9f95d86fb27a83100eaf6de7687b740201078594933a337f539"
+  },
+  {
+   "path": "oneshot-benchmark/run_quick.sh",
+   "bytes": 532,
+   "sha256": "24311602d3eced3fa30f3dd87167c049783da6e59ce656a967aaa800aa5bec71"
+  },
+  {
+   "path": "oneshot-benchmark/scripts/build_evidence.py",
+   "bytes": 10676,
+   "sha256": "28fe37d9b88a28a6eac4081e8562147c178158aeee9696f73395187866daac97"
+  },
+  {
+   "path": "oneshot-benchmark/scripts/compare.py",
+   "bytes": 3542,
+   "sha256": "e408e69cc56036090cb4c3cc4e70fbf5ee9b7cb1ebcdb335f456c7557e08da24"
+  },
+  {
+   "path": "oneshot-benchmark/scripts/figure.py",
+   "bytes": 8739,
+   "sha256": "187eb63c3485cc6c77b4e175f280db4621613af8e2d5a71e0d34b9b816a28881"
+  },
+  {
+   "path": "oneshot-benchmark/scripts/npz_to_grid.py",
+   "bytes": 629,
+   "sha256": "2740636eedb6fbdefe8419ccadd625af12a97e27d39cdd842426e45a6b2c0fca"
+  },
+  {
+   "path": "oneshot-benchmark/scripts/phase_identity.py",
+   "bytes": 6133,
+   "sha256": "64ef0b72746fae06c17b75e5d7a2d779a55f3d5abfd7b43492c77234e2c6b30d"
+  },
+  {
+   "path": "oneshot-benchmark/scripts/phase_metrics.py",
+   "bytes": 2637,
+   "sha256": "ed202e108e4952014cf26289c67ac37f0ec005decbc18eb1642a6351006b1ae1"
+  },
+  {
+   "path": "oneshot-benchmark/scripts/release.py",
+   "bytes": 571,
+   "sha256": "9b7f97a2f90250fd0b58d95e654b852672d91e770c936baf2f22ca01031c50a1"
+  },
+  {
+   "path": "oneshot-benchmark/scripts/score.py",
+   "bytes": 17929,
+   "sha256": "3002b2e1146ca45b35d7a8e9ccaf7995e2988c1793e35a6d40aa50d062d872c8"
+  },
+  {
+   "path": "oneshot-benchmark/scripts/score_all.sh",
+   "bytes": 1021,
+   "sha256": "99a713e483a9acc77450d83cce3f81c99235bb9fcee48d3993268dabafff35d2"
+  },
+  {
+   "path": "oneshot-benchmark/scripts/score_grid.py",
+   "bytes": 5776,
+   "sha256": "b706cdc1e5da686edf92c1975cbb3f48c82b04425f0613ff45657c8aeb9d30ff"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-94Zen-LB.tdb",
+   "bytes": 6772,
+   "sha256": "4cce85fd056a6fced1c8270faca7a1d811d2f8227b305f70e0a221925bd07f69"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-MLIP.tdb",
+   "bytes": 7332,
+   "sha256": "9a24be5b28949901d3297377745b65a88f545685dc24718676017b5d8602c2de"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-final.tdb",
+   "bytes": 7739,
+   "sha256": "b50b5f95cafe6dcfcb84dfcc9de7ec4b069929bbba940a403615040b325d6ad5"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/reference_panel/CuZr-06Abe.tdb",
+   "bytes": 8827,
+   "sha256": "e2697dff02826d36559d03f5f1bc5364842978de3a6488e81a92963853d2c547"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/reference_panel/CuZr-06He.tdb",
+   "bytes": 6902,
+   "sha256": "bd6094ea31a9fc31490ac05fac5ceaacf9313a3c2a3d5c3409a9f0a4e6f0be30"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/reference_panel/CuZr-06Wan.tdb",
+   "bytes": 8484,
+   "sha256": "0b76f1913f8d39fa69f11add8eae6284fd94558fd75693cfa7835c75204896d4"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/reference_panel/CuZr-08Tur.tdb",
+   "bytes": 8167,
+   "sha256": "799997b40952ad1681f7d16b2caa00b3527482981d9d5f934b73468107a1b9c3"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/reference_panel/CuZr-10Zho.tdb",
+   "bytes": 9732,
+   "sha256": "7409ad2b74dca4d8bbaae79fb1bb34ccd7b157eef6c337c8e70602c1d9b5b878"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/reference_panel/CuZr-11Gie.tdb",
+   "bytes": 8637,
+   "sha256": "01a7f13067505d6c4f48f9aab2d996c2a08ec4ecb82f1ecf2f807333a43a3cb4"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/reference_panel/CuZr-16Hsi.tdb",
+   "bytes": 7424,
+   "sha256": "51c8fe3ff316bda5554f4cbcb907a37cfbc63d6c11cde120685673720f5f419d"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/reference_panel/CuZr-17Liu.tdb",
+   "bytes": 7193,
+   "sha256": "a20ea8e5cf71f4585391417f83fd390890bdd9d9967f4c33645976e0b8571f8d"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/reference_panel/CuZr-22Zho.tdb",
+   "bytes": 7685,
+   "sha256": "7239bcd57a75ba472018f47d3a9166fc4997234325d38eee333d01c2143d7331"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/reference_panel/CuZr-85Sau.tdb",
+   "bytes": 6426,
+   "sha256": "0777f6451f7bea94535c0ad513c8fb43cf1670b372be48f60782b8c18b598440"
+  },
+  {
+   "path": "phaseforge-structures/README.md",
+   "bytes": 2954,
+   "sha256": "c2db2bb4d9149221bc606c3c204f80550d9e2ab13a5c490b54ad2b0d415ede1d"
+  },
+  {
+   "path": "phaseforge-structures/cached/manifest_CuZr_auto.json",
+   "bytes": 4684,
+   "sha256": "2abff776f59fd80b4f5ee39202d3095fcc9c3de4fa2437fb28c0b04c36027fc9"
+  },
+  {
+   "path": "phaseforge-structures/cached/manifest_CuZr_curated.json",
+   "bytes": 4472,
+   "sha256": "3d958bc34024945f6df39b245556efabc4e42043402b4c033c523b7cc235a9cc"
+  },
+  {
+   "path": "phaseforge-structures/cached/manifest_NiTi.json",
+   "bytes": 4390,
+   "sha256": "8590cfee52139abe54f1947b072580b70e4bd000016fea59d459204cfc4c8c33"
+  },
+  {
+   "path": "phaseforge-structures/requirements.txt",
+   "bytes": 350,
+   "sha256": "987fc2173ff9b73a59612fcfd86dfe202f120800f83882317f6eda5b0453edd3"
+  },
+  {
+   "path": "phaseforge-structures/scripts/make_structures.py",
+   "bytes": 20949,
+   "sha256": "e22f8c8e70f8e45a56afce7b37ed3edc36dcc7103c053d5f9bcf048fbf800ee9"
+  },
+  {
+   "path": "quickstart/README.md",
+   "bytes": 1845,
+   "sha256": "bb902a96888ab2db113a3e1bf1b8efcb4a666ed1d8209ef50da769c74037bb9e"
+  },
+  {
+   "path": "quickstart/figures/SHA256SUMS",
+   "bytes": 172,
+   "sha256": "5d38391ddcf6b2e709f286313916505fa96a7ac27eba69e8d94d4f89c3cfb756"
+  },
+  {
+   "path": "quickstart/figures/cuzr_exp_vs_dft.pdf",
+   "bytes": 16255,
+   "sha256": "1cc7160560631dc4e4ffa06950d34f922136910a1aacce3f55b965ba281dd6c4"
+  },
+  {
+   "path": "quickstart/figures/cuzr_exp_vs_dft.png",
+   "bytes": 85976,
+   "sha256": "cfe20d2f2fff0a9ea59ebd26e82cefefc19d2b51494394a545f84697061fef5c"
+  },
+  {
+   "path": "quickstart/mcp_exchange.json",
+   "bytes": 95402,
+   "sha256": "2da3dd6bd87b1a2e2af1b04e6ff8fe47befbab07a1315abf0d5bf53939954d97"
+  },
+  {
+   "path": "quickstart/quickstart.ipynb",
+   "bytes": 139793,
+   "sha256": "a6431689421a377b8abdd81f68a80fa021367be50672475c3a9d42b1e5264835"
+  },
+  {
+   "path": "quickstart/requirements.txt",
+   "bytes": 2061,
+   "sha256": "ab2a1fd642c6ab76a69be8f80335aa2eab4a910938b3c30c2ba0dcbe4178a1f9"
+  },
+  {
+   "path": "quickstart/run_quick.sh",
+   "bytes": 478,
+   "sha256": "ed584cca086dbb390ef5a9d2fe4fbb6ba850a7a8c23c12ea18a1bf735f17fd6c"
+  },
+  {
+   "path": "quickstart/sample-release/LICENSE",
+   "bytes": 730,
+   "sha256": "fb9ea6cd6978cd34bd8005ffa66cdcf6f370b72c463ad89dd9f319a3a6ac3577"
+  },
+  {
+   "path": "quickstart/sample-release/espei/assessed/CU-ZR/CuZr-06Wan.CU-ZR-p371.json",
+   "bytes": 13646,
+   "sha256": "b312182339a93395efaf2693b403dff47446283b6495b3bdf78a4c4156b70ec7"
+  },
+  {
+   "path": "quickstart/sample-release/espei/assessed/CU-ZR/CuZr-08Tur.CU-ZR-p371.json",
+   "bytes": 6318,
+   "sha256": "e737978ead8d42887e977104e1f0ff9fe1360798aa9093994dcd26ab2d18e832"
+  },
+  {
+   "path": "quickstart/sample-release/espei/assessed/CU-ZR/CuZr-10Zho.CU-ZR-p371.json",
+   "bytes": 9241,
+   "sha256": "08c5527e9b089c5dc5c4d079013b54874e2b984828061130e965732d4337bb18"
+  },
+  {
+   "path": "quickstart/sample-release/espei/assessed/CU-ZR/CuZr-11Gie.CU-ZR-p371.json",
+   "bytes": 9252,
+   "sha256": "d6cffbf5d883a2cc16a9384986b3a379865eb67bc940eb599dca6cc743f82bc2"
+  },
+  {
+   "path": "quickstart/sample-release/espei/assessed/CU-ZR/CuZr-17Liu.CU-ZR-p371.json",
+   "bytes": 6318,
+   "sha256": "5bac55cf0150286bee2893e5179dbef27464fbc2ed0ce7e75566b04678e1d9a3"
+  },
+  {
+   "path": "quickstart/sample-release/espei/assessed/CU-ZR/CuZr-94Zen-LB.CU-ZR-p371.json",
+   "bytes": 6324,
+   "sha256": "1abc12b5ea1150c6809740cc6bb535553a8dcc77cade193a22fb040fba642e16"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-06Wan.zpf-00.json",
+   "bytes": 4219,
+   "sha256": "1e65cd22fd599a4814750bc098781f0c9aca0f658db367a70423365bf6e76d65"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-06Wan.zpf-02.json",
+   "bytes": 5967,
+   "sha256": "995a3b49eb1ca184d72936356a1a90ab76b74a65deff31c000dddb122d3bb5e7"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-06Wan.zpf-03.json",
+   "bytes": 10092,
+   "sha256": "fa7b2d8d3f70007f63b8a17204d66b45a846c9fb05fefa097b4986fd96316280"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-06Wan.zpf-04.json",
+   "bytes": 4467,
+   "sha256": "c4a70d47278988802b64cb8ce2f48d275b6506e8b7dba9f1e5a9051a1850a2ce"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-06Wan.zpf-05.json",
+   "bytes": 7284,
+   "sha256": "dc3353cf17efc5f02e12dada489ba2ffefc29343ab7e708253ea68d8b5dc2f3b"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-06Wan.zpf-06.json",
+   "bytes": 11258,
+   "sha256": "f57c7b4e7697b9c161a22037c67aaba014e8fbc0f463bf7883b9c9931d449f47"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-08Tur.zpf-01.json",
+   "bytes": 10755,
+   "sha256": "b2c2920a6c5456e827bcc0d4f509c63ec02617d80b9c2d2f271456b2fe297d5a"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-08Tur.zpf-02.json",
+   "bytes": 6826,
+   "sha256": "14d05ff4254ec6c463564e4a95210791650520c58a61e11dc8219de97be256ec"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-08Tur.zpf-04.json",
+   "bytes": 5508,
+   "sha256": "882966213e2e8eb46e184fb516315abc107873b3a9b25eed136e9e259266f042"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-08Tur.zpf-06.json",
+   "bytes": 5457,
+   "sha256": "23c687cd1f0538064ab535ce0ef2473cf6f6dee89ff8fc1d126714bc690f1415"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-08Tur.zpf-07.json",
+   "bytes": 7017,
+   "sha256": "647998235b17cf34a296b994a4ad8693215946861ddabcbeb2126f21d7cac021"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-08Tur.zpf-09.json",
+   "bytes": 14778,
+   "sha256": "c6b9572e00603d9eca9e8771e527f283c28ed18a4b3fc13161637910641aebe4"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-08Tur.zpf-10.json",
+   "bytes": 5511,
+   "sha256": "a62d2011afe6fbbf454971e9eea9c2de83687892a35c3bd904bb06fd54d6fc40"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-08Tur.zpf-11.json",
+   "bytes": 6788,
+   "sha256": "0d53c7449fe1335b63fc29acb220823b467f1ecbbea41eae6281ac2fe9c0c760"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-10Zho.zpf-02.json",
+   "bytes": 5708,
+   "sha256": "f9fc956a252573afb99d6fbfb8af73f4a7787d0dd8696213109386c1f05e519f"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-10Zho.zpf-05.json",
+   "bytes": 5712,
+   "sha256": "1eae7dbc618889dc0f37895ed7553f5eb73fd5ded67722bdf86b6d104e971603"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-11Gie.zpf-01.json",
+   "bytes": 5702,
+   "sha256": "a2da8f894e728d396d0a118a48608ef3cdff76a81e3d2f6db67275f1f171ba6a"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-11Gie.zpf-05.json",
+   "bytes": 7022,
+   "sha256": "6c038bb768b9cdf2e69f580c3df63763bd936e890b6db125d3ad68365eaeff97"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-94Zen-LB.zpf-06.json",
+   "bytes": 4206,
+   "sha256": "74a6d5c4ed843e1e8c838db1b9fb01c0d2fd7800b144bf97599bca75dbb65300"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/invariant-brackets/CU-ZR/CuZr-94Zen-LB.zpf-07.json",
+   "bytes": 4217,
+   "sha256": "0779826e47671c3d513d1aa873ae03ac56406400c2942b439c42c0ccdde2f297"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/liquid-stability/CU-ZR/CuZr-06Wan.liquid-stability.json",
+   "bytes": 5796,
+   "sha256": "052d1f1adb1362b49e71ee11a44c4a028552e3cd1b1ac5f1a0794d4e7b41ab6c"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/liquid-stability/CU-ZR/CuZr-08Tur.liquid-stability.json",
+   "bytes": 5796,
+   "sha256": "762985282a8bc2fd38ce0ae403463ee5fae5db4d5c6a93ffe48e156b4d3e45ba"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/liquid-stability/CU-ZR/CuZr-10Zho.liquid-stability.json",
+   "bytes": 5796,
+   "sha256": "c7fd4f64d51cacc26aea1a5f4c394092cb1415b9771b95a093b29d8db4fca9fc"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/liquid-stability/CU-ZR/CuZr-11Gie.liquid-stability.json",
+   "bytes": 5796,
+   "sha256": "11fb784e4b7a258f8bb066fbabaf460013a09feabd878c9ac4905380da820fa4"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/liquid-stability/CU-ZR/CuZr-17Liu.liquid-stability.json",
+   "bytes": 5796,
+   "sha256": "1d613e8dcf1d17b7bf58771c23ab99c77edd9ea8f656df74abc12481d190bd2a"
+  },
+  {
+   "path": "quickstart/sample-release/espei/derived/liquid-stability/CU-ZR/CuZr-94Zen-LB.liquid-stability.json",
+   "bytes": 5799,
+   "sha256": "50df3aafa3ed3a27e48752399f6d161a1352ecb5d72edb56664aed73ff090676"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-06Abe.CU10ZR7.json",
+   "bytes": 5090,
+   "sha256": "baa4483f1da23f8d2ce992be0f8a463f4a13aa62f1431c5e8e701ee9b633e56f"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-06Abe.CU8ZR3.json",
+   "bytes": 3529,
+   "sha256": "a2deec4b03504a11645ef6fd498bd6a509a2429732bec8999b37f7bb2910c3d7"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-06Abe.CUZR_B2.json",
+   "bytes": 6625,
+   "sha256": "9226f0d9a87437072c86a2daa14d4f4cf770cee129d06dc587ef77c0a0f310d5"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-06He.CU10ZR7.json",
+   "bytes": 5087,
+   "sha256": "48e16e80eae286b89ed7e23cc8210d74985326beaba43e46f5c4bbfb59eb57ce"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-06He.CU5ZR_C15B.json",
+   "bytes": 6640,
+   "sha256": "090338a0ace4148d759752deb7253100d32e547e734aad40833d1328325d5ceb"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-06He.CU8ZR3.json",
+   "bytes": 3526,
+   "sha256": "41337e5aeafbfa25d0b89a867e1c446680154d994928a7eccc90704b2bc42903"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-06He.CUZR_B2.json",
+   "bytes": 6622,
+   "sha256": "85c3c7be015cb4932c7050a4704c8d6ceea8e03068bd6cc0d9cfc8a9a093bddf"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-06Wan.CU10ZR7.json",
+   "bytes": 5090,
+   "sha256": "37e81bd00ba19d190d930b55ad1d8da7f5abbe503bc2ce1a4f7004ce04855767"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-06Wan.CU8ZR3.json",
+   "bytes": 3529,
+   "sha256": "70e8580fcb0e5ca589b8e9bccee75f6644eabe126bda493c8323d80b725928f6"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-06Wan.CUZR_B2.json",
+   "bytes": 6625,
+   "sha256": "c63fc692c69243630ac79c02274626fd13c29082eb429abd99b967518de49602"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-08Tur.CU10ZR7.json",
+   "bytes": 5090,
+   "sha256": "d9da34c2183477865dbd0395c3c0e25854c363cf4865af11f9942189145ecb5d"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-08Tur.CU5ZR_C15B.json",
+   "bytes": 6643,
+   "sha256": "4687448e48f98d8cb979656dbfd0e283c734f2f6262164f1dafd4abf071bba24"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-08Tur.CU8ZR3.json",
+   "bytes": 3529,
+   "sha256": "b05b53fc8457a72af778b9d9db0aee184d7d2b975d8a7dcd8dca97b0b6cf08cc"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-08Tur.CUZR_B2.json",
+   "bytes": 6625,
+   "sha256": "b8114c1df692154063fd21104737eaf3d6924a5b397ddf7afb631d8a0de4328f"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-10Zho.CU10ZR7.json",
+   "bytes": 5090,
+   "sha256": "f5568fe033326413cbd03a6ce7fdd76530ae0d3cfed881c9c485dbb2ccd7590e"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-10Zho.CU5ZR_C15B.json",
+   "bytes": 6643,
+   "sha256": "3b686b67176ff4270c8c8e329995f675e089ee4d6ec708207942d66be7aeeb22"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-10Zho.CU8ZR3.json",
+   "bytes": 3529,
+   "sha256": "9502161d143e821cf19502fa8f928d21a9e00200854643b82ff98e042ceec5a5"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-10Zho.CUZR_B19.json",
+   "bytes": 3533,
+   "sha256": "a30aaf39073410cfccd2168316a244a6211b1cd5f8adf5b7da27bdcfc00ed0ba"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-10Zho.CUZR_B2.json",
+   "bytes": 6625,
+   "sha256": "2f7b4945d60dff3478ff49d084d610fdd6f50a869bf2d1cf969ac44dbb8f9c65"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-10Zho.CUZR_B33.json",
+   "bytes": 3533,
+   "sha256": "7bd04aa50d534ccacd85bc8809a3b1158c09a10b199e0ac4c47d5989797666a4"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-11Gie.CU10ZR7.json",
+   "bytes": 5090,
+   "sha256": "45a219dd84f43d5285218afe1fc0f19f99c9262a08d3c331864b4623ac8dbe1d"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-11Gie.CU8ZR3.json",
+   "bytes": 3529,
+   "sha256": "d10f9d84451f62ed355a47166b5b5cfacc2cfa34ac0b367d345b8f93bb797dd2"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-11Gie.CUZR_B2.json",
+   "bytes": 6625,
+   "sha256": "fb6905fd1175ac1a50e92b0bd185093a0de9d63991eecf541eaaf8d1be3dc019"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-16Hsi.CU10ZR7.json",
+   "bytes": 5090,
+   "sha256": "171e238b7556d477ff0acbc917c0120c3e054b3421f0898f139d6b71cea5d87b"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-16Hsi.CU8ZR3.json",
+   "bytes": 3529,
+   "sha256": "330c23a53bf91ac1d2e6b3e1aa2831564627b770f6aa5fbbc4c999140ea8c061"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-16Hsi.CUZR_B2.json",
+   "bytes": 6625,
+   "sha256": "831b092fe9f77a5324ff860ed894ac556d36bf196f0ea0aeee20beb8c49673ad"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-17Liu.CU10ZR7.json",
+   "bytes": 5090,
+   "sha256": "ad19f79fc104f749aec5b55d2c685f7a42a14c63625a0e139e8b16cb528d8316"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-17Liu.CU5ZR_C15B.json",
+   "bytes": 6643,
+   "sha256": "a5bec55dcc8ec123662828b3ac50d349401ce050e9399b871d38280295b98950"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-17Liu.CU8ZR3.json",
+   "bytes": 3529,
+   "sha256": "1780bd2ca658631eb6f8cd9a9f32044c55090be5c6f27ee61dabd0e1a6eb3c26"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-17Liu.CUZR_B2.json",
+   "bytes": 6625,
+   "sha256": "99ba32dc0e6975d154b22db8fa3df77f0f7761e1ff22fb6dda0aa5d8dda9a7b0"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-22Zho.CU10ZR7.json",
+   "bytes": 5090,
+   "sha256": "f79efcf274b0533102478586086c60059b88606367921e12523dfa406306faa5"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-22Zho.CU5ZR_C15B.json",
+   "bytes": 6643,
+   "sha256": "584b1dd3c57a8cbe99ba4eadad4b3431bbaf1b937e06884e0a771b0d21cc15f8"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-22Zho.CU8ZR3.json",
+   "bytes": 3529,
+   "sha256": "2e71f4e0e782377ced293ad0f294119746271a0e430fd425f525f2e8cf13b039"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-85Sau.CU10ZR7.json",
+   "bytes": 5090,
+   "sha256": "d7b803bf4338f9aa7c69cf115064d970a3f2af0311fd4b6c22a0afa03c7e9ffe"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-85Sau.CUZR_B2.json",
+   "bytes": 6625,
+   "sha256": "fea67c509645076626d825db0112ef991a5686dfd075627381517dc8e94459ba"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-94Zen-LB.CU10ZR7.json",
+   "bytes": 5099,
+   "sha256": "018902d0398da90b0d9fc43f5d5ff1fe7d654b5c809620eac07eeec1dc490e74"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-94Zen-LB.CU5ZR_C15B.json",
+   "bytes": 6652,
+   "sha256": "b02f8aaf26bbe403ca224c1cc66f31d3cca5e31b0892341439a0e81353f54c6b"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-94Zen-LB.CU8ZR3.json",
+   "bytes": 3538,
+   "sha256": "0b84072d6f6159b5af27ff0f98983e7ef44a49f7af8d7ec2bdeeee73e11d4f56"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/literature/CU-ZR/CuZr-94Zen-LB.CUZR_B2.json",
+   "bytes": 6634,
+   "sha256": "f64f1020ab836365acb258090f0b7940cdc10b6ac737e68b9705eb1c8f5b54bd"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/mp/CU-ZR/CuZr-06Abe.CU8ZR3.json",
+   "bytes": 3412,
+   "sha256": "b7f7e58d571899f459f3ac05337f623541369dc49393e9246f5534f5b8443249"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/mp/CU-ZR/CuZr-06He.CU8ZR3.json",
+   "bytes": 3409,
+   "sha256": "41eb521b2c53da98f6ecff87924622f08dcb2db0c263c1b32cdc51b7fa1dd0ec"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/mp/CU-ZR/CuZr-06Wan.CU8ZR3.json",
+   "bytes": 3412,
+   "sha256": "e5ac50c40ba31b4285ab0a405827de33c6fd5799b6cc722aad3694c1d4b92c77"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/mp/CU-ZR/CuZr-08Tur.CU8ZR3.json",
+   "bytes": 3412,
+   "sha256": "aa7c5ed8ee155057dbf7449b3b6d3579951544827d40581e03dcd13727ef894c"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/mp/CU-ZR/CuZr-10Zho.CU8ZR3.json",
+   "bytes": 3412,
+   "sha256": "276a553e810ce59feb15d3535a6c46cedbcbcb7137cb458417528a0d5fbde11f"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/mp/CU-ZR/CuZr-11Gie.CU8ZR3.json",
+   "bytes": 3412,
+   "sha256": "3422b62b5be10b6b8b6a094af53524c47fb4300223964536b0a6b7cff979ca48"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/mp/CU-ZR/CuZr-16Hsi.CU8ZR3.json",
+   "bytes": 3412,
+   "sha256": "f9b53305851bf7d6f77512cdbd533bfbf88507eb1613b50f00d5f879d7985536"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/mp/CU-ZR/CuZr-17Liu.CU8ZR3.json",
+   "bytes": 3412,
+   "sha256": "a83dfa051aec93af4efe3c6c6bfd1a37ca59c1aec7bb709ec5a98c76bf8e8480"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/mp/CU-ZR/CuZr-22Zho.CU8ZR3.json",
+   "bytes": 3412,
+   "sha256": "6d08e98e672437ee20f0f45f986e2f5e9b09bff355e869412cb9994b6d9fd69e"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/mp/CU-ZR/CuZr-94Zen-LB.CU8ZR3.json",
+   "bytes": 3421,
+   "sha256": "d20abfe072980dcb69bdb7a96fdb0e7f9223cc03699374418416f55781787177"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/oqmd/CU-ZR/CuZr-06Abe.CU8ZR3.json",
+   "bytes": 3514,
+   "sha256": "1ad5b4b233c6b9a1d4a826f513a36d847bb8ab2b49c412972ec530d9bfd2a3bb"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/oqmd/CU-ZR/CuZr-06He.CU8ZR3.json",
+   "bytes": 3511,
+   "sha256": "8f3c2e9e3f1a313480868899996f0632fad326ec5b99de70fda7f49e9868b633"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/oqmd/CU-ZR/CuZr-06Wan.CU8ZR3.json",
+   "bytes": 3514,
+   "sha256": "d5fb04a167efb79e31c8ac7ff60888718ac6c45df7d1ee312266c3c5922bd639"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/oqmd/CU-ZR/CuZr-08Tur.CU8ZR3.json",
+   "bytes": 3514,
+   "sha256": "2ad4194c445df7fdde977d362a400f12fe1acf7d44efcaff57172075712dc992"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/oqmd/CU-ZR/CuZr-10Zho.CU8ZR3.json",
+   "bytes": 3514,
+   "sha256": "e3df6816eddccf92f1674f198e5b8cd4e63ffb8a58b89c9b195f12ff50ecb59a"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/oqmd/CU-ZR/CuZr-11Gie.CU8ZR3.json",
+   "bytes": 3514,
+   "sha256": "68d861e90bfa427afdb75844a0087f7e3df88a423432f411ac8d27bca96c66ea"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/oqmd/CU-ZR/CuZr-16Hsi.CU8ZR3.json",
+   "bytes": 3514,
+   "sha256": "8a3244ea0bec990b68d6e92a12bc1814421f2ddaa0a30aa1939d0b96472cd7af"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/oqmd/CU-ZR/CuZr-17Liu.CU8ZR3.json",
+   "bytes": 3514,
+   "sha256": "fc0d6fda9ad5dc5b163618eb4b00b9a2d93c42eec96434f8f31cbc6edfdde2c3"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/oqmd/CU-ZR/CuZr-22Zho.CU8ZR3.json",
+   "bytes": 3514,
+   "sha256": "f968566b196eb78feec88fcca16bd89d41b3b562a2b1328c5a328d1c0d83d326"
+  },
+  {
+   "path": "quickstart/sample-release/espei/dft/oqmd/CU-ZR/CuZr-94Zen-LB.CU8ZR3.json",
+   "bytes": 3523,
+   "sha256": "f8879175b744b407f04dd4e03260b1e8dd87b0487ece3c89b6339660d677dfd6"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-00.json",
+   "bytes": 5886,
+   "sha256": "95c8bce0e4738a231358e2c71debc5874cd582298a1fa71f6571ab20246ae0a7"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-02.json",
+   "bytes": 6993,
+   "sha256": "7ea7cb89e96dcae7047ae0bfa2bd0968c66463a85bf6706bd76961f87b95ea24"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-04.json",
+   "bytes": 4771,
+   "sha256": "08d9f66976c44f439802e019d96018c49c3527b28ff69161661b916b7b1fee87"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-06.json",
+   "bytes": 4774,
+   "sha256": "0e2b60394eba1b9fcf051889d4a0896824e7a6a2ac61a9338d355dc3e50e112b"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-08.json",
+   "bytes": 5886,
+   "sha256": "fb57a96d2c34e38b593df168ea56da99382ab18ba09d802725c33293968a5c93"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-10.json",
+   "bytes": 5886,
+   "sha256": "915b82c7dae1e11512ec7e9acb900c8587d5f1f66b08c21a7c79fbe0dc1a271c"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-12.json",
+   "bytes": 4774,
+   "sha256": "68a3804702e2dd475e343ea56ef40649e2bcece9258ed871580808d47534b5d9"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-14.json",
+   "bytes": 4773,
+   "sha256": "0c7ff8c471f0a743d6232f7ed1268854b5badf6e26f18b9da87780ab9cc7734b"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-16.json",
+   "bytes": 4774,
+   "sha256": "aff83bf5e2d34e178bede36b31ebb58e35c8765bde9df1eab014c26ab7759a55"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-18.json",
+   "bytes": 4777,
+   "sha256": "849d293f12ad35f55891855ff1692a40b97ce81a354d8c085ec91ebbd9e8e5da"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-20.json",
+   "bytes": 4774,
+   "sha256": "046013dcf6f37a682a57b62525067ca99665bc0086fc0773b42f0e6da8a47548"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-22.json",
+   "bytes": 4777,
+   "sha256": "216553433fc707c860b66f5e63ce2c1b416fd71dce9e6f408be7b4f7fdc3f253"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-24.json",
+   "bytes": 4777,
+   "sha256": "96b564bd8d0ec592cd9e693d06222ee70a0139ed170f7f04ee4aa1634a5f40d3"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-26.json",
+   "bytes": 4775,
+   "sha256": "1d6e02002cd842438c501360969979ffaa0ad7d34add5dd2e83c860ffbc647e8"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-28.json",
+   "bytes": 4779,
+   "sha256": "bbd1097fa4fad29f3f792146c3ffbf3e564832553e3a80d70855356e578d38d7"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_cu-30.json",
+   "bytes": 4778,
+   "sha256": "24f0b9918754d6c6bbdaf8c4c806e28245396b8e52714af9faf5a3d7e3194ca8"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-01.json",
+   "bytes": 5891,
+   "sha256": "3d25d4feb235fa53e9e93e6f3b21b73adc2c6b36da7a8c8704f5d1bc5c8efd1f"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-03.json",
+   "bytes": 7009,
+   "sha256": "d13e64228e6342437188d10b18899eb095a80024f8c683a9ead27886702a9213"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-05.json",
+   "bytes": 4778,
+   "sha256": "ec902e54027288594578921818ea9440ee906e6f6daddf9b3e8dbcb1646d7dec"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-07.json",
+   "bytes": 4779,
+   "sha256": "654750d858ddf374b08dd0d471589d66876cbd44c437cc4e16cfbf2e9962a672"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-09.json",
+   "bytes": 5884,
+   "sha256": "d0f6cc0f73f6434265dc15fe5af823f4b58cd5fb8916eeaacee0b107aef25cf1"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-11.json",
+   "bytes": 5883,
+   "sha256": "ee98f488fa46ecda89c4d8c701ea95177e74552a8085fe9a934fca9621c1ddb8"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-13.json",
+   "bytes": 4776,
+   "sha256": "d508bc13d540c2abfbec3141d854406b47f97d5d3e0b8377f2be5961f4f50f2a"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-15.json",
+   "bytes": 4776,
+   "sha256": "8f6e32452f10f058453ed8bd883bfc80d54598143b78a99d6ec0d2941d9e6d62"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-17.json",
+   "bytes": 4773,
+   "sha256": "fa86231446c40f1afb5fd015f23e99c1c1e3342bee74b254c14b855fc17dc229"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-19.json",
+   "bytes": 4776,
+   "sha256": "7aad0ce4c955636baa01b45860599bbf2edb16347c3bb786c72eb35cba180cc9"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-21.json",
+   "bytes": 4775,
+   "sha256": "c969dee2b43afb4e203c60586a569ed63340b21ca527c2193da19b050143d140"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-23.json",
+   "bytes": 4777,
+   "sha256": "66a8e3f28a2774f04db3307122c4d0b315302b6a38693183974de7d66789c110"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-25.json",
+   "bytes": 4776,
+   "sha256": "0c29173826f3c225cc5043db8ed583703459034c9f48b38ae17d66ced6ba9d7a"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-27.json",
+   "bytes": 4774,
+   "sha256": "b50e9b3513ecfc703c7a08b725d154135f26970ce38c680eeabdaabb366ee71d"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-29.json",
+   "bytes": 4772,
+   "sha256": "21cde4f72bad7fb7df56132d2efa284a353012a14115b10e5b378da5eae9b83c"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-06Wan.acr_zr-31.json",
+   "bytes": 4773,
+   "sha256": "f906c25bd2e18dced52c542c57e98db41a822acceb65bbfa1285e0a894d50ece"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-00-CU5ZR_C15B.json",
+   "bytes": 5275,
+   "sha256": "6a8cd1b7d1499b9496cea06890b51e2f5f74122f93ffe4c7e8c47da8143da726"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-01-CU5ZR_C15B.json",
+   "bytes": 5369,
+   "sha256": "195e9ea2d3aa8e0418727b9636286cfb7e53fa645a258f724751c228d5db7e38"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-03-CU51ZR14.json",
+   "bytes": 5262,
+   "sha256": "1c4e42cd56cba4dc50c1b2ae05888415ab9454f847f6fb0d1dbae69b020b69b8"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-04-CU51ZR14.json",
+   "bytes": 4912,
+   "sha256": "ab9f986feac3bd2bb2f9f4da160656d3cd0baf04caf98793086a81ddeb00fcc8"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-06-CU8ZR3.json",
+   "bytes": 4904,
+   "sha256": "53b1c6cbba33f23ebd0e26296a133feebc82c05fc5a9ba98636e23a5ef83eea8"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-08-CU10ZR7.json",
+   "bytes": 4942,
+   "sha256": "a0f836c2134e543ba271826ff2f905a643d600eab891c255cd890a84a496fc71"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-09-CU10ZR7.json",
+   "bytes": 5050,
+   "sha256": "6dd30a6bfb224f0fe3195e93f6780122bc1f77b09981771be28a3cb3e81039ca"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-11-CUZR_B2.json",
+   "bytes": 4893,
+   "sha256": "d0826cd8f1f73e3242f394f565ee84f1dc63b04fff3549656fc338b69c9f5974"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-12-CUZR_B2.json",
+   "bytes": 4947,
+   "sha256": "d0cddf43e3d24ebcb7379b95ca936224ba9f88cf22f68a9c12de61f08666bf1f"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-13-CUZR_B2.json",
+   "bytes": 5056,
+   "sha256": "ba96052a9606624efa0e19aaabdf3b996148c886c989b4f009a0ebcdbb0156c1"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-15-CUZR2.json",
+   "bytes": 4887,
+   "sha256": "faf414f1904745f6aa0235cb7c4e4fd254f33076756ebe06390c95da812af3d2"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-16-CUZR2.json",
+   "bytes": 4941,
+   "sha256": "21010481afd6595ed7fa32fe9508182a998c3a2d891ca98711d7ba04173f2d73"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-08Tur.hmr-17-CUZR2.json",
+   "bytes": 5046,
+   "sha256": "9929c30d9d3dfccf57c99032b599f8709f7ff975ba6fc738801d5c524b00078a"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-17Liu.zpf-00.json",
+   "bytes": 4985,
+   "sha256": "061e1845620b1ac769fb2582445390078f8a2f69d8048f2299347acd95e51703"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-94Zen-LB.zpf-00.json",
+   "bytes": 9439,
+   "sha256": "d6c964bd27c6371bdf1b67b2f7a3d6beac7029231b50b9af94ad33f1963def2e"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-94Zen-LB.zpf-01.json",
+   "bytes": 3048,
+   "sha256": "9762d97bb671fb0a308e169564681788e55e94f93bf02a4443ac99f1cda4e73d"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-94Zen-LB.zpf-02.json",
+   "bytes": 4073,
+   "sha256": "df67e62296fabf0bbc78dd833e90ffa439a8e5eba9caa269b11df4d9e9ce92c8"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-94Zen-LB.zpf-03.json",
+   "bytes": 3048,
+   "sha256": "be1f509ac7b0056525aaf03d067c5d88ffbfde659b808db307f8560ac70526b7"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-94Zen-LB.zpf-04.json",
+   "bytes": 3048,
+   "sha256": "b0c5d8529055a3c5cae9f6e95409e687d4b56f4fe26f83920f701b8bc502906e"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-94Zen-LB.zpf-05.json",
+   "bytes": 3048,
+   "sha256": "ed182c98844b7893ff24edeef7d2a477adfee2a053c7e546dd82a025bc5e6aea"
+  },
+  {
+   "path": "quickstart/sample-release/espei/experimental/CU-ZR/CuZr-94Zen-LB.zpf-06.json",
+   "bytes": 3042,
+   "sha256": "fd5f28c77a4bb411c967eface07bfefc7eaec85d3bdfdbdd4110a602250ca215"
+  },
+  {
+   "path": "quickstart/sample-release/espei/index.csv",
+   "bytes": 124467,
+   "sha256": "d54de3ea5a13401adb30eb407fb37b3e46eee157803558fcc6c3ecb8193b5424"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-06Wan.zpf-00.json",
+   "bytes": 6310,
+   "sha256": "ffe55f48b4957352e11b21bece03f6562d270a552748b1e9a86ba0cb4d7add13"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-06Wan.zpf-01.json",
+   "bytes": 3700,
+   "sha256": "389a8543916e2a309fd29681de4c1e621b9ab1ff1b760658ba4b44105226bffe"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-06Wan.zpf-02.json",
+   "bytes": 9006,
+   "sha256": "38c096cccfaf9d7fc059236b912fde2f2a7e4613e60749a85ffe63f2657a290f"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-06Wan.zpf-03.json",
+   "bytes": 14062,
+   "sha256": "b4dc6baed7a3dfca6e6d1780c3f2ecb34fe6b9b64269267e49d264ed0b163afd"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-06Wan.zpf-04.json",
+   "bytes": 6087,
+   "sha256": "d18609f1c17e6cbcb2858ab6080ad6af096cb524eab07710e83bd26205e50e7d"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-06Wan.zpf-05.json",
+   "bytes": 10412,
+   "sha256": "6edc369a7a4b7c4648e201c5fd277670f0ed38fddfd1899c93b9d63a5615551f"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-06Wan.zpf-06.json",
+   "bytes": 29365,
+   "sha256": "235d3db88c730229eb1a03a471c58ccd8191abc8c43288a85577966523e79c7c"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-00.json",
+   "bytes": 5623,
+   "sha256": "c40864a37a4746c6d36d6120cb4b18921cee6a5171d9b7d6a239538fdea6e841"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-01.json",
+   "bytes": 16445,
+   "sha256": "904adf57efb86a7e476af3245e1a4ad23195bab51318497ccaf656f3e264fbf8"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-02.json",
+   "bytes": 6725,
+   "sha256": "d06e75ae622af374e793032a984ebcd123a605bc7ef3ed32ad6a0718f0250227"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-03.json",
+   "bytes": 3859,
+   "sha256": "c4f85e9079cb61e0dc7de7636d3d013e25cd3822f75ae0896d2a54f08f6f50de"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-04.json",
+   "bytes": 5193,
+   "sha256": "1200e43ad0ab47b0ac2a2e281369bcb6cc7ed89e70c8ddcbb420b1fc6ee49b72"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-05.json",
+   "bytes": 3150,
+   "sha256": "9f38418711410171067b45a7a7d244780224c6ffc207ea5ce3eca960048e0a6e"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-06.json",
+   "bytes": 4811,
+   "sha256": "203c03e699d7880a2b9133136250c352963b1f19681a831e4dd3aa4f2eb1ebf7"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-07.json",
+   "bytes": 6635,
+   "sha256": "4ddfa6287dedabb53ce65ab2e74aa1829f200b44ba7d838999e5505de5a414df"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-08.json",
+   "bytes": 3458,
+   "sha256": "8c54e9376ffe895363a1fd6c385cdd6d2a736125b4165d3b2da7b464d3c2fef4"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-09.json",
+   "bytes": 16634,
+   "sha256": "879dc1cc65ad745571641b59743fd4114d92a4bb2acf3f57e1bd89489008f49d"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-10.json",
+   "bytes": 6533,
+   "sha256": "9c95580c1e948cf3b6ca5d73dfa4f0d5bfb8a45fe2defeb8fdf93dd491180298"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-08Tur.zpf-11.json",
+   "bytes": 6531,
+   "sha256": "9d45e6d2c7dc0ddd1d9574e7361e5daf853a5ac947647bd2b87122c6dc9f82ca"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-10Zho.zpf-02.json",
+   "bytes": 5353,
+   "sha256": "7879629a7b742fdcc83cc73a618cbbd9c52a428e14fc7858b4ce5fc7eed11c99"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-10Zho.zpf-03.json",
+   "bytes": 11359,
+   "sha256": "d2401be1e8f59b75f58808663c66960f7446d90870129cb8742bd1a94f6294d1"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-10Zho.zpf-05.json",
+   "bytes": 11634,
+   "sha256": "79faf54255ec12e28688a5280b846b3f025f20569b57135145ac623617e905d4"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-11Gie.zpf-01.json",
+   "bytes": 8124,
+   "sha256": "c9d71e22930f8039b5f19e5f1ffb45310e2032f5654f1e9c0ee050a4ed235136"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-11Gie.zpf-04.json",
+   "bytes": 3290,
+   "sha256": "a3ce06cb358c5bc3ee3f8aa94045ca48ec1a691ba4327e6c7a29a90bee974344"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-11Gie.zpf-05.json",
+   "bytes": 9629,
+   "sha256": "bda7cab5e949635b5afad0d059a9699b798dffa31b8684412f08161f32bb1478"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-17Liu.zpf-01.json",
+   "bytes": 4817,
+   "sha256": "bd39ef7a48f46be6097a911d60532cf8ce3e9667c36be66c7d489459003edc8e"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-17Liu.zpf-02.json",
+   "bytes": 3511,
+   "sha256": "46abf83bc9e59b48f5ade6e0cae4a3d114cc4fa67b5cbf24b352cbe69f86e95d"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-17Liu.zpf-06.json",
+   "bytes": 4793,
+   "sha256": "8c45a6d6ffd4599d304f63a206db5283d28112c4cf507580c195ef0144f86139"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-17Liu.zpf-08.json",
+   "bytes": 3396,
+   "sha256": "65138869f6a442008ec060aa127f6b43bef3725e84c91e29058f06c8bb87647d"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-17Liu.zpf-10.json",
+   "bytes": 3129,
+   "sha256": "da372e90989c9c5f9bdd067ddc5b9fd15aab5ae010e3205bf017c19ed98c5566"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-94Zen-LB.zpf-00.json",
+   "bytes": 3279,
+   "sha256": "79179b77170457cfdd01901507125eebacda6544f8a3657b1aba48ab97378427"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-94Zen-LB.zpf-07.json",
+   "bytes": 3098,
+   "sha256": "86849f11b6ee97719ee557d047dc69dca4c92c435f00c77e9eabcf23b981db3e"
+  },
+  {
+   "path": "quickstart/sample-release/espei/invariants/CU-ZR/CuZr-94Zen-LB.zpf-10.json",
+   "bytes": 3113,
+   "sha256": "07e2e92b15b3fb5c35ec25279245de021a78521451199b20049797f659b885ca"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-00.json",
+   "bytes": 6759,
+   "sha256": "bb5ecd7a9119c2b393e6e8f91045968bdef164cf29110896c352f092aebd62c5"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-02.json",
+   "bytes": 7858,
+   "sha256": "2a722204ceb6a8e14c37eb4cd3b944139fbbc3ed50b49cf91205dce6f9f8a207"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-04.json",
+   "bytes": 5668,
+   "sha256": "40cb990df21e8efa2c4a331c7c8a3e3c2767f83afe52ad6028ef985844e90efb"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-06.json",
+   "bytes": 5666,
+   "sha256": "99f745ce8bd1ecda356d046b278e79a50bd721563a4b2fe7440cd37a60394a53"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-08.json",
+   "bytes": 6758,
+   "sha256": "246c64da594ce4d879e7d0e571c3dfb260a53f2284858bd812a470cc64ec50e0"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-10.json",
+   "bytes": 6765,
+   "sha256": "18fd75f2dcc07643797514dc134691ffd93398243205db3a4f4a0359adbd3b33"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-12.json",
+   "bytes": 5663,
+   "sha256": "75505422aeedf5c4b798fa535bcee6940f877aa26e88b82752da8ad98e4009fb"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-14.json",
+   "bytes": 5666,
+   "sha256": "6f630cb4f03284d76d2dcfca87968f6b4e75badc1f6ae77212e5fc02f5d53fe1"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-16.json",
+   "bytes": 5669,
+   "sha256": "dcc1466c53dfd02b17f246adc7ddf13ec83b7648027d9aed973d6f6133ab9577"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-18.json",
+   "bytes": 5667,
+   "sha256": "a68091c77a32741b82478a7d38d88da1a4e973c24ce18783867abbddca596df4"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-20.json",
+   "bytes": 5669,
+   "sha256": "13b07be5fbf42f4395138d08c5b76df610cd9de68b540f5c0d3799d8cd44a08c"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-22.json",
+   "bytes": 5668,
+   "sha256": "f081c47a99b444d660ee3fcc110a21810619aa47c65347b5cfea15df1ff68e4e"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-24.json",
+   "bytes": 5668,
+   "sha256": "cd2ed3e608ac4bf6a643e710cb4f0f589f753e02566ce480dff645e4fec72969"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-26.json",
+   "bytes": 5671,
+   "sha256": "d98d7e6c0480c6c6193b8defff591177a3531b5922fe4c386a850fa71d5945d5"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-28.json",
+   "bytes": 5672,
+   "sha256": "ecd1037a57722d0a4e4becef35d81ebc6dce301e45e2fa174152668ba08d64b6"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_cu-model-30.json",
+   "bytes": 5670,
+   "sha256": "cc8681c641d51d8298efae9e3346a8029359e1c4e4f5cbffb270cb619a59b9f8"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-01.json",
+   "bytes": 6761,
+   "sha256": "886dbf1adb701887f41896c5d242beb2eca55c66296fe0928c022265f92b9d1a"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-03.json",
+   "bytes": 7868,
+   "sha256": "f5a34104d329ba0e57d8f8beabc8325de95c2c7ea44cc43395b0c432fdf448bd"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-05.json",
+   "bytes": 5671,
+   "sha256": "0f55f4816e36733f62fcca5710b5a98c7f497e4cddef109951936246ff052808"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-07.json",
+   "bytes": 5669,
+   "sha256": "d93c423c6435f9edcd8876444d096b10cea7458797142643b225074fbc1339ee"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-09.json",
+   "bytes": 6763,
+   "sha256": "1e195622956861c9b51cbc987eafb6aa1ccbf045801adea86e1090bf36bf1a08"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-11.json",
+   "bytes": 6763,
+   "sha256": "90f891646c73fca922e902e304b48ac261a5e90f9a1e77d5a3ff7be8bb4db773"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-13.json",
+   "bytes": 5669,
+   "sha256": "8390104001980d48b0816c3dfc51c05b907ae09a50cdd32b9a25e21f1886c9f9"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-15.json",
+   "bytes": 5670,
+   "sha256": "d63fc948906c77cdb0b3e9280922f74de0cda1e011d8f65dcf00fe39caa37e35"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-17.json",
+   "bytes": 5664,
+   "sha256": "d80e695c80266979d4bc834042654cd3b606ca2ced4831928d31ed261193bae1"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-19.json",
+   "bytes": 5668,
+   "sha256": "75cf478c083ccb7a3f5067894e0a0d0829de8932e38eeb542d38e6a96996db83"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-21.json",
+   "bytes": 5668,
+   "sha256": "3cdedd3679c374f6c57029eaadac9323184ca119fcb56f729563b08f48ab2fca"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-23.json",
+   "bytes": 5669,
+   "sha256": "64fe7a445f29bd5167e508c33a83c3b4eb2aea171d2d97a826dc477a75f10bb4"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-25.json",
+   "bytes": 5664,
+   "sha256": "87ddaa70e2c1bfcd07f98a5d3910ecf99c13c83277bf3aa4f2690a0c272d4dff"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-27.json",
+   "bytes": 5665,
+   "sha256": "b55174534fb0984e0433fa9b388a7d94dc0484c79b3b3e7a59e1599bb14720dc"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-29.json",
+   "bytes": 5669,
+   "sha256": "dce69a7c170527666964592ac1ef3ee44a054491b2fb95a5fc9a7991d65db8ad"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-06Wan.acr_zr-model-31.json",
+   "bytes": 5667,
+   "sha256": "c096ec6dd3f3876d0a9b10765004f500395d70199aad1ecfd9130b830440314d"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-85Sau.zpf-model-00.json",
+   "bytes": 5309,
+   "sha256": "6055660bcd11fa68807cdd100c546dcbc116c53fc1c6df4042f102354ccbaba6"
+  },
+  {
+   "path": "quickstart/sample-release/espei/model/CU-ZR/CuZr-94Zen-LB.zpf-model-00.json",
+   "bytes": 8027,
+   "sha256": "8b633350332571c16c51914fdb24103bb8ebf72928cf78fc32cb79ceeeb266cc"
+  },
+  {
+   "path": "quickstart/sample-release/parquet/dft_parity.parquet",
+   "bytes": 34072,
+   "sha256": "f98aa21399ea2943a2518653b71ec2ea4ed2470d536b290d20156de36b8d203a"
+  },
+  {
+   "path": "quickstart/sample-release/parquet/literature_values.parquet",
+   "bytes": 194234,
+   "sha256": "3d6e0610f1a769fd957f33f19f454b2702fad604afe810f3037bb2ed705a6e88"
+  },
+  {
+   "path": "quickstart/scripts/build_notebook.py",
+   "bytes": 6625,
+   "sha256": "7bed41c36258d12f305d48323e9cfcfe18c723652151847946554cc4e71c726e"
+  },
+  {
+   "path": "quickstart/scripts/make_sample_release.py",
+   "bytes": 1676,
+   "sha256": "b280fb86a0f63c0f7a0e04f9c4a12157b271897958e400e6b6962f9776b50109"
+  },
+  {
+   "path": "quickstart/scripts/run_notebook.py",
+   "bytes": 894,
+   "sha256": "0e61359d5eaa30c9d9afb6168b91cbbed595f282f1e660f17b62bb97f0868109"
+  },
+  {
+   "path": "tests/check_hygiene.py",
+   "bytes": 2133,
+   "sha256": "caabe02d8800748305f3ebfc8098fe13f02a41bc800841d3bd889272ebee0aec"
+  },
+  {
+   "path": "tests/check_quick_paths.py",
+   "bytes": 3486,
+   "sha256": "d8845c0734c64a3ecdac211a1bcef11f5d771de7504f6e7b4c6b0045a60fad04"
+  },
+  {
+   "path": "tests/examples.json",
+   "bytes": 1477,
+   "sha256": "cc9d6148f5fa98afa4db6925b35ed5acde17a0540bbabc2e831ae829f825acb3"
+  }
+ ]
+}

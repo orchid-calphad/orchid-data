@@ -1114,12 +1114,7 @@ format.
 
 - Release: **v2026.10** (version 2026.10; literature record store `orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v2.1.19r, text+context fixup-20261022)`)
 - Status: **Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.**
-- Zenodo: eight citable datasets plus the umbrella record *ORCHID data* (doi:10.5281/zenodo.PENDING-orchid-data): literature values (doi:10.5281/zenodo.PENDING-literature),
-  calculated binary phase diagrams (doi:10.5281/zenodo.PENDING-phase-diagrams), binary convex hulls (doi:10.5281/zenodo.PENDING-hulls), DFT-vs-experiment formation-enthalpy
-  benchmark (doi:10.5281/zenodo.PENDING-dft-benchmark), phase registry (binary systems)
-  (doi:10.5281/zenodo.PENDING-phase-registry), assessed phase assemblages (binary systems)
-  (doi:10.5281/zenodo.PENDING-assessed-phase-assemblages), ESPEI datasets from the literature
-  (doi:10.5281/zenodo.PENDING-espei), bibliography (doi:10.5281/zenodo.PENDING-bibliography)
+- Zenodo: eight citable datasets plus the umbrella record *ORCHID data* (doi:10.5281/zenodo.PENDING-orchid-data), and a software record for the runnable examples (doi:10.5281/zenodo.PENDING-orchid-examples). Datasets: ORCHID-Values (doi:10.5281/zenodo.PENDING-literature), ORCHID-Values ESPEI datasets (doi:10.5281/zenodo.PENDING-espei), ORCHID-Diagrams (doi:10.5281/zenodo.PENDING-phase-diagrams), ORCHID-Hulls (doi:10.5281/zenodo.PENDING-hulls), ORCHID-Parity (doi:10.5281/zenodo.PENDING-dft-benchmark), ORCHID-Registry (doi:10.5281/zenodo.PENDING-phase-registry), ORCHID-Assemblages (doi:10.5281/zenodo.PENDING-assessed-phase-assemblages), ORCHID-Bibliography (doi:10.5281/zenodo.PENDING-bibliography)
 - Homepage: <https://orchid-project.org> · data: <https://data.orchid-project.org>
 - Field reference: `literature/SCHEMA.md`, hull format: `hulls/` (interval schema v1)
 - Builder: `tools/build_parquet.py` in the `orchid-project.org` repository (deterministic, `--check`); the
@@ -1133,15 +1128,15 @@ format.
 
 | config | rows | content |
 |---|---:|---|
-| `literature_values` | 73,538 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, uncertainty budget (`sigma_*` columns), ML split |
-| `papers` | 4,880 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
+| `literature_values` | 73,542 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, uncertainty budget (`sigma_*` columns), ML split |
+| `papers` | 4,881 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
 | `experimental_context` | 1,504 | samples, heat treatments and measurements of 225 papers, each with its quote and page |
-| `dft_parity` | 7,696 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
+| `dft_parity` | 7,592 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
 | `phase_diagram_invariants` | 15,322 | distinct invariant equilibria of 2,720 calculated SGTE binary phase diagrams: T, phases, phase compositions; `n_mapper_hits` = how often the mapper found it (the JSON files list all 24,828 hits) |
 | `phase_diagram_index` | 2,774 | one row per calculated diagram (2,720 `ok`, 54 `failed`), TDB file, SHA-256, citation |
 | `hull_vertices` | 28,143 | binary convex-hull vertices: 12,829 Materials Project (v2026.04.13), 15,314 OQMD (v1.8) |
-| `phases` | 10,496 | phase registry: one row per phase of each of 1,241 binary systems (`phases/registry.parquet`) |
-| `assessed_phase_assemblages` | 23,131 | one (T, x, P) point deep inside each named phase field of the expert-drawn (assessed) binary diagrams compiled in Okamoto's Desk Handbook, with the assemblage, registry ids, basis, confidence and SGTE cross-check (`assessed-phase-assemblages/records.parquet`) |
+| `phases` | 10,430 | phase registry: one row per phase of each of 1,241 binary systems (`phases/registry.parquet`) |
+| `assessed_phase_assemblages` | 23,129 | one (T, x, P) point deep inside each named phase field of the expert-drawn (assessed) binary diagrams compiled in Okamoto's Desk Handbook, with the assemblage, registry ids, basis, confidence and SGTE cross-check (`assessed-phase-assemblages/records.parquet`) |
 | `bibliography_papers` | 9,569 | every paper ORCHID knows: Crossref metadata, roles, value counts, DOI check (`bibliography/papers.parquet`) |
 | `bibliography_edges` | 60,231 | typed relations between papers, TDB files and handbook diagrams, with provenance (`bibliography/edges.parquet`) |
 | `structure_types` | 1,563 | structure types used by the registry: prototype, Strukturbericht, Pearson symbol, space group, sources (`phases/structure_types.parquet`) |
@@ -1400,8 +1395,8 @@ is a review verdict.
 ## Distribution
 
 Served at <https://data.orchid-project.org> from the `orchid-data` repository. Release v2026.10 is archived on
-Zenodo as four datasets, each its own record and DOI, linked by the umbrella record *ORCHID data* (DataCite
-`isPartOf` / `hasPart`); the deposition metadata and file manifests are in `zenodo/`, changes in `CHANGELOG.md`.
+Zenodo as eight datasets, each its own record and DOI, linked by the umbrella record *ORCHID data* (DataCite
+`isPartOf` / `hasPart`), and a software record (orchid-examples) for the runnable workflows; the deposition metadata and file manifests are in `zenodo/`, changes in `CHANGELOG.md`.
 A Hugging Face mirror is planned (`hf/README.md` is this card in mirror form).
 
 ## Maintenance
@@ -1493,20 +1488,20 @@ Parquet file; `literature/CITATION.txt` beside the CSV; `CITATION.cff` at the to
 
 | dataset | Parquet tables | DOI |
 |---|---|---|
-| ORCHID literature values | `literature_values`, `papers`, `experimental_context` | 10.5281/zenodo.PENDING-literature |
-| ORCHID calculated binary phase diagrams | `phase_diagram_index`, `phase_diagram_invariants` | 10.5281/zenodo.PENDING-phase-diagrams |
-| ORCHID binary convex hulls (MP, OQMD, assessed CALPHAD) | `hull_vertices` | 10.5281/zenodo.PENDING-hulls |
-| ORCHID DFT-vs-experiment formation-enthalpy benchmark | `dft_parity` | 10.5281/zenodo.PENDING-dft-benchmark |
-| ORCHID phase registry (binary systems) | `phases`, `structure_types` | 10.5281/zenodo.PENDING-phase-registry |
-| ORCHID assessed phase assemblages (binary systems) | `assessed_phase_assemblages` | 10.5281/zenodo.PENDING-assessed-phase-assemblages |
-| ORCHID ESPEI datasets from the literature | (ESPEI JSON in `espei/`; no Parquet table) | 10.5281/zenodo.PENDING-espei |
-| ORCHID bibliography | `bibliography_papers`, `bibliography_edges` | 10.5281/zenodo.PENDING-bibliography |
+| ORCHID-Values | `literature_values`, `papers`, `experimental_context` | 10.5281/zenodo.PENDING-literature |
+| ORCHID-Diagrams | `phase_diagram_index`, `phase_diagram_invariants` | 10.5281/zenodo.PENDING-phase-diagrams |
+| ORCHID-Hulls | `hull_vertices` | 10.5281/zenodo.PENDING-hulls |
+| ORCHID-Parity | `dft_parity` | 10.5281/zenodo.PENDING-dft-benchmark |
+| ORCHID-Registry | `phases`, `structure_types` | 10.5281/zenodo.PENDING-phase-registry |
+| ORCHID-Assemblages | `assessed_phase_assemblages` | 10.5281/zenodo.PENDING-assessed-phase-assemblages |
+| ORCHID-Values ESPEI datasets | (ESPEI JSON in `espei/`; no Parquet table) | 10.5281/zenodo.PENDING-espei |
+| ORCHID-Bibliography | `bibliography_papers`, `bibliography_edges` | 10.5281/zenodo.PENDING-bibliography |
 | ORCHID data (umbrella) | all | 10.5281/zenodo.PENDING-orchid-data |
 
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1517,7 +1512,7 @@ Parquet file; `literature/CITATION.txt` beside the CSV; `CITATION.cff` at the to
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1527,7 +1522,7 @@ Parquet file; `literature/CITATION.txt` beside the CSV; `CITATION.cff` at the to
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1537,7 +1532,7 @@ Parquet file; `literature/CITATION.txt` beside the CSV; `CITATION.cff` at the to
 
 @misc{orchid_dft_benchmark_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1548,7 +1543,7 @@ Parquet file; `literature/CITATION.txt` beside the CSV; `CITATION.cff` at the to
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

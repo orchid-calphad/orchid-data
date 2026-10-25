@@ -1,6 +1,6 @@
 {
  "record": "dft-benchmark",
- "title": "ORCHID DFT-vs-experiment formation-enthalpy benchmark",
+ "title": "ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark",
  "version": "2026.10",
  "bundle": "orchid-dft-benchmark-v2026.10.zip",
  "include": [
@@ -19,7 +19,7 @@
  ],
  "exclude": [],
  "n_files": 12,
- "total_bytes": 6686078,
+ "total_bytes": 6686425,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -78,8 +78,8 @@
   },
   {
    "path": "zenodo/dft-benchmark.metadata.json",
-   "bytes": 8571,
-   "sha256": "34de8da809e78d9308e72ce94a6cc8970246e7bf2b1c2f9f1eb973b7722aca7d"
+   "bytes": 8918,
+   "sha256": "e65a0b3d34f9fee967db6bba8f9a2216af9596a1f83247f0b716e0117095f9ec"
   }
  ]
 }

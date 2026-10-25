@@ -1,12 +1,12 @@
 {
- "_comment": "Zenodo deposition metadata (legacy REST format: PUT /api/deposit/depositions/<id> with this object as the body, or enter the fields in the web form). DOI placeholders 10.5281/zenodo.PENDING-<name> are replaced by tools/zenodo_release.py writeback.",
+ "_comment": "Zenodo deposition metadata (legacy REST format: PUT /api/deposit/depositions/<id> with this object as the body, or enter the fields in the web form). Written by tools/build_zenodo_metadata.py (numbers: metadata_numbers.json); do not edit by hand. No `grants` (NSF 2608825 is not in Zenodo's awards database): enter the funding as a custom award, see ZENODO_FUNDING_MANUAL.md. publication_date is set by Zenodo at publication. DOI placeholders 10.5281/zenodo.PENDING-<name> are replaced by tools/zenodo_release.py writeback.",
  "record": "hulls",
  "doi": "10.5281/zenodo.PENDING-hulls",
  "metadata": {
-  "title": "ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)",
+  "title": "ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)",
   "upload_type": "dataset",
   "version": "2026.10",
-  "description": "<p><b>ORCHID binary convex hulls</b>: binary formation-energy convex hulls from two DFT databases and isotherms of assessed CALPHAD descriptions, stored as ordered composition intervals (interval schema v1) so energy and the equilibrium phase set at any composition are a lookup. Part of the ORCHID data release v2026.10.</p><h3>What</h3><ul><li><code>hulls/dft-mp/</code>: Materials Project release 2026.04.13 (GGA/GGA+U with the MP2020 compatibility corrections applied by the Materials Project; no further correction added), 3,828 binary systems of 88 elements, 12,829 hull vertices; above-hull entries within 0.05 eV/atom.</li><li><code>hulls/dft-oqmd/</code>: OQMD v1.8 (fitted elemental references), 3,916 systems, 15,314 vertices.</li><li><code>hulls/calphad-sgte/</code>: 2,695 assessed SGTE binary descriptions (1,223 systems) at 298.15 K, same interval schema, solution phases included.</li><li>Per layer: <code>catalog.json</code> (provenance, summary, per-system SHA-256), <code>elements.json</code>, entries; Parquet table <code>hull_vertices</code>.</li></ul><h3>How</h3><p>Deterministic lower-hull builder (standard library, open-tdb) over pinned snapshots; collinear and degenerate structures are retained, upstream stability disagreement is enumerated rather than reconciled; 3,827 of 3,828 MP systems reproduce the upstream stability flag exactly.</p><h3>Limitations</h3><ul><li>DFT hulls are at 0 K and carry formation enthalpy only.</li><li>Materials Project and OQMD use different reference states and corrections; their energies are not comparable and must not be averaged.</li><li>OQMD stability is derived by the builder (no upstream cross-check).</li></ul><h3>Licence</h3><p>ORCHID's data are released under CC BY 4.0, as are the SGTE (B. Hallstedt, Calphad 89 (2025) 102833), Materials Project and OQMD data from which they are derived; attributions and statements of changes are in NOTICE.md, the licence of each folder in LICENSES.md (both in the bundle).</p><p>Files: one zip (<code>orchid-hulls-v2026.10.zip</code>) holding the files at their repository paths, a <code>MANIFEST.sha256</code>, the README, CHANGELOG and licence files. Its file list with sizes and SHA-256 is <code>zenodo/hulls.files.json</code> in the data repository.</p><h3>How to cite</h3><p>R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls</p><p>Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data</p><p>Also cite A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.</p><pre>@misc{orchid_hulls_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-hulls},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-hulls}\n}\n\n@misc{orchid_data_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}</pre><p>Browse: <a href=\"https://orchid-project.org\">orchid-project.org</a> · data site <a href=\"https://data.orchid-project.org\">data.orchid-project.org</a> · source <a href=\"https://github.com/orchid-calphad/orchid-data\">github.com/orchid-calphad/orchid-data</a>.</p><p>This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge).</p>",
+  "description": "<p><b>ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)</b>: binary formation-energy convex hulls from two DFT databases and isotherms of assessed CALPHAD descriptions, stored as ordered composition intervals (interval schema v1) so energy and the equilibrium phase set at any composition are a lookup. Part of the ORCHID data release v2026.10. Short name in the paper: Hulls.</p><h3>What</h3><ul><li><code>hulls/dft-mp/</code>: Materials Project release 2026.04.13 (GGA/GGA+U with the MP2020 compatibility corrections applied by the Materials Project; no further correction added), 3,828 binary systems of 88 elements, 12,829 hull vertices; above-hull entries within 0.05 eV/atom.</li><li><code>hulls/dft-oqmd/</code>: OQMD qmdb_v1_8_022026 (fit-partial elemental references applied by OQMD), 3,916 systems, 15,314 vertices.</li><li><code>hulls/calphad-sgte/</code>: 2,695 assessed SGTE binary descriptions (1,223 systems) at 298.15 K, same interval schema, solution phases included.</li><li>Per layer: <code>catalog.json</code> (provenance, summary, per-system SHA-256), <code>elements.json</code>, entries; Parquet table <code>hull_vertices</code>.</li></ul><h3>How</h3><p>Deterministic lower-hull builder (standard library, open-tdb) over pinned snapshots; collinear and degenerate structures are retained, upstream stability disagreement is enumerated rather than reconciled; 3,827 of 3,828 MP systems reproduce the upstream stability flag exactly.</p><h3>Limitations</h3><ul><li>DFT hulls are at 0 K and carry formation enthalpy only.</li><li>Materials Project and OQMD use different reference states and corrections; their energies are not comparable and must not be averaged.</li><li>OQMD stability is derived by the builder (no upstream cross-check).</li></ul><h3>Licence</h3><p>ORCHID's data are released under CC BY 4.0, as are the SGTE (B. Hallstedt, Calphad 89 (2025) 102833), Materials Project and OQMD data from which they are derived; attributions and statements of changes are in NOTICE.md, the licence of each folder in LICENSES.md (both in the bundle).</p><p>Files: one zip (<code>orchid-hulls-v2026.10.zip</code>) holding the files at their repository paths, a <code>MANIFEST.sha256</code>, the README, CHANGELOG and licence files. Its file list with sizes and SHA-256 is <code>zenodo/hulls.files.json</code> in the data repository.</p><h3>How to cite</h3><p>R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls</p><p>Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data</p><p>Also cite A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.</p><pre>@misc{orchid_hulls_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-hulls},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-hulls}\n}\n\n@misc{orchid_data_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}</pre><p>Browse: <a href=\"https://orchid-project.org\">orchid-project.org</a> · data site <a href=\"https://data.orchid-project.org\">data.orchid-project.org</a> · source <a href=\"https://github.com/orchid-calphad/orchid-data\">github.com/orchid-calphad/orchid-data</a>.</p><p>This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge).</p>",
   "creators": [
    {
     "name": "Arróyave, Raymundo",
@@ -37,32 +37,17 @@
   "license": "cc-by-4.0",
   "access_right": "open",
   "language": "eng",
-  "grants": [
-   {
-    "id": "10.13039/100000001::2608825"
-   }
-  ],
   "communities": [
    {
-    "identifier": "orchid"
+    "identifier": "orchid-calphad"
    }
   ],
   "related_identifiers": [
    {
     "identifier": "10.5281/zenodo.PENDING-orchid-data",
     "relation": "isPartOf",
-    "resource_type": "dataset",
-    "scheme": "doi"
-   },
-   {
-    "identifier": "https://orchid-project.org",
-    "relation": "isSupplementTo",
-    "scheme": "url"
-   },
-   {
-    "identifier": "https://data.orchid-project.org",
-    "relation": "isDocumentedBy",
-    "scheme": "url"
+    "scheme": "doi",
+    "resource_type": "dataset"
    },
    {
     "identifier": "10.1063/1.4812323",
@@ -83,8 +68,18 @@
     "identifier": "10.1016/j.calphad.2025.102833",
     "relation": "references",
     "scheme": "doi"
+   },
+   {
+    "identifier": "https://orchid-project.org",
+    "relation": "isDocumentedBy",
+    "scheme": "url"
+   },
+   {
+    "identifier": "https://data.orchid-project.org",
+    "relation": "isDocumentedBy",
+    "scheme": "url"
    }
   ],
-  "notes": "This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge). Version 1."
+  "notes": "This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge)."
  }
 }
