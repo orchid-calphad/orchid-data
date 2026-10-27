@@ -1,10 +1,10 @@
 # As–Fe system
 
-> As–Fe system: 31 accepted literature values (crystal structure 30, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> As–Fe system: 27 accepted literature values (crystal structure 26, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AS-FE.html · Markdown: https://data.orchid-project.org/systems/AS-FE.md
 
-31 accepted literature values from 1 paper(s) (experimental 11, DFT 20); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 1 paper(s) (experimental 9, DFT 18); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AS-FE.json) · [CSV](https://data.orchid-project.org/systems/AS-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-FE) · [phases (10)](https://data.orchid-project.org/phases/pages/AS-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-FE.html) · [Markdown](https://data.orchid-project.org/systems/AS-FE.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| DFT | 20 |
+| experimental | 9 |
+| DFT | 18 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| crystal structure | 30 |
+| crystal structure | 26 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AS/AS-FE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AS/AS-FE.json) · [CALPHAD hull FeAs-94Pei-LB](https://data.orchid-project.org/hulls/calphad-sgte/AS/AS-FE--FeAs-94Pei-LB.json)
 
@@ -34,42 +34,38 @@ Table: Phase transition, As–Fe system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 77 K | 77 | magnetic | experimental | [1] Ohno 2008 | p. 5; `ORC-2ZZWCVAWIJ` | “It is to be noticed that because the Néel temperature for AsFe is 77 K, the Calphad modeling requires the thermodynamic state for nm AsFe.” |
 
-### Crystal structure (30)
+### Crystal structure (26)
 
 Table: Crystal structure, As–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.625 Å |  | UNKNOWN; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 28; `ORC-3PDJXFLREA` |  |
-| Lattice a | 5.391 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 13; `ORC-4TDRA4YGAB` |  |
-| Lattice a | 5.309 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 12; `ORC-6R64U5C2SB` |  |
-| Lattice a | 5.448 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 14; `ORC-G3N4BJ3JSS` |  |
-| Lattice a | 3.579 Å |  | UNKNOWN; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 27; `ORC-KXDQ7LPZKR` |  |
-| Lattice a | 3.617 Å |  | UNKNOWN; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 29; `ORC-LGFX6RAPTW` |  |
-| Lattice a | 5.311 Å |  | UNKNOWN; _alloy: Fe 0.333333_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 6; `ORC-OJQLIITPVI` |  |
-| Lattice a | 4.188 Å |  | UNKNOWN; _alloy: Fe 0_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 2; `ORC-SF3KV26ZGJ` |  |
-| Lattice a | 3.634 Å | 298.15 | UNKNOWN; _alloy: Fe 0.666667_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 26; `ORC-F3YJUMO2LU` |  |
-| Lattice a | 5.454 Å | 298.15 | UNKNOWN; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 11; `ORC-JS7FUGNMPB` |  |
-| Lattice a | 5.3 Å | 298.15 | UNKNOWN; _alloy: Fe 0.333333_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 5; `ORC-LMOF44UBQZ` |  |
-| Lattice a | 4.132 Å | 298.15 | UNKNOWN; _alloy: Fe 0_ | experimental | [1] Ohno 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 1; `ORC-TF4MPGKHFN` |  |
-| Lattice b | 5.985 Å |  | UNKNOWN; _alloy: Fe 0.333333_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 8; `ORC-7Z3VMPFDSD` |  |
-| Lattice b | 3.287 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 18; `ORC-FG2XN5LVYB` |  |
-| Lattice b | 3.314 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 17; `ORC-SGH6CYDYOV` |  |
-| Lattice b | 3.375 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 16; `ORC-VL7AJBQOKO` |  |
-| Lattice b | 3.325 Å | 298.15 | UNKNOWN; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 15; `ORC-CU33BMVNUZ` |  |
-| Lattice b | 5.985 Å | 298.15 | UNKNOWN; _alloy: Fe 0.333333_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 7; `ORC-OGW6L7AI5J` |  |
-| Lattice c | 2.887 Å |  | UNKNOWN; _alloy: Fe 0.333333_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 10; `ORC-2GLIUTTOY7` |  |
-| Lattice c | 5.883 Å |  | UNKNOWN; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 33; `ORC-4IC3DG6TNZ` |  |
-| Lattice c | 5.741 Å |  | UNKNOWN; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 31; `ORC-6YMUDWPXG5` |  |
-| Lattice c | 5.83 Å |  | UNKNOWN; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 32; `ORC-H5O3N5VTDF` |  |
-| Lattice c | 5.963 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 20; `ORC-PZO7N26VP6` |  |
-| Lattice c | 6.048 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 22; `ORC-TFSDIUPFW3` |  |
-| Lattice c | 5.991 Å |  | UNKNOWN; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 21; `ORC-ZOLBIR3VDD` |  |
-| Lattice c | 5.985 Å | 298.15 | UNKNOWN; _alloy: Fe 0.666667_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 30; `ORC-C37LER37NZ` |  |
-| Lattice c | 2.882 Å | 298.15 | UNKNOWN; _alloy: Fe 0.333333_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 9; `ORC-I6GOGY7KD4` |  |
-| Lattice c | 6.029 Å | 298.15 | UNKNOWN; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 19; `ORC-SIO36NM4KW` |  |
-| lattice unspecified angle | 54.26 ° |  | UNKNOWN; _alloy: Fe 0_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 4; `ORC-JX6V3SPNTX` |  |
-| lattice unspecified angle | 54.12 ° | 298.15 | UNKNOWN; _alloy: Fe 0_ | experimental | [1] Ohno 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 3; `ORC-AHSSB4RTTO` |  |
+| Lattice a | 5.311 Å |  | As2Fe; _alloy: Fe 0.333333_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 6; `ORC-OJQLIITPVI` |  |
+| Lattice a | 5.391 Å |  | AsFe; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 13; `ORC-4TDRA4YGAB` |  |
+| Lattice a | 5.309 Å |  | AsFe; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 12; `ORC-6R64U5C2SB` |  |
+| Lattice a | 5.448 Å |  | AsFe; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 14; `ORC-G3N4BJ3JSS` |  |
+| Lattice a | 3.625 Å |  | AsFe2; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 28; `ORC-3PDJXFLREA` |  |
+| Lattice a | 3.579 Å |  | AsFe2; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 27; `ORC-KXDQ7LPZKR` |  |
+| Lattice a | 3.617 Å |  | AsFe2; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 29; `ORC-LGFX6RAPTW` |  |
+| Lattice a | 5.3 Å | 298.15 | As2Fe; _alloy: Fe 0.333333_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 5; `ORC-LMOF44UBQZ` |  |
+| Lattice a | 5.454 Å | 298.15 | AsFe; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 11; `ORC-JS7FUGNMPB` |  |
+| Lattice a | 3.634 Å | 298.15 | AsFe2; _alloy: Fe 0.666667_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 26; `ORC-F3YJUMO2LU` |  |
+| Lattice b | 5.985 Å |  | As2Fe; _alloy: Fe 0.333333_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 8; `ORC-7Z3VMPFDSD` |  |
+| Lattice b | 3.287 Å |  | AsFe; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 18; `ORC-FG2XN5LVYB` |  |
+| Lattice b | 3.314 Å |  | AsFe; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 17; `ORC-SGH6CYDYOV` |  |
+| Lattice b | 3.375 Å |  | AsFe; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 16; `ORC-VL7AJBQOKO` |  |
+| Lattice b | 5.985 Å | 298.15 | As2Fe; _alloy: Fe 0.333333_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 7; `ORC-OGW6L7AI5J` |  |
+| Lattice b | 3.325 Å | 298.15 | AsFe; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 15; `ORC-CU33BMVNUZ` |  |
+| Lattice c | 2.887 Å |  | As2Fe; _alloy: Fe 0.333333_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 10; `ORC-2GLIUTTOY7` |  |
+| Lattice c | 5.963 Å |  | AsFe; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 20; `ORC-PZO7N26VP6` |  |
+| Lattice c | 6.048 Å |  | AsFe; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 22; `ORC-TFSDIUPFW3` |  |
+| Lattice c | 5.991 Å |  | AsFe; _alloy: Fe 0.5_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 21; `ORC-ZOLBIR3VDD` |  |
+| Lattice c | 5.883 Å |  | AsFe2; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 33; `ORC-4IC3DG6TNZ` |  |
+| Lattice c | 5.741 Å |  | AsFe2; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 31; `ORC-6YMUDWPXG5` |  |
+| Lattice c | 5.83 Å |  | AsFe2; _alloy: Fe 0.666667_ | DFT | [1] Ohno 2008 | Table 2, p. 3, row 32; `ORC-H5O3N5VTDF` |  |
+| Lattice c | 2.882 Å | 298.15 | As2Fe; _alloy: Fe 0.333333_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 9; `ORC-I6GOGY7KD4` |  |
+| Lattice c | 6.029 Å | 298.15 | AsFe; _alloy: Fe 0.5_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 19; `ORC-SIO36NM4KW` |  |
+| Lattice c | 5.985 Å | 298.15 | AsFe2; _alloy: Fe 0.666667_ | experimental | [1] Ohno 2008; _cites A 1986_ | Table 2, p. 3, row 30; `ORC-C37LER37NZ` |  |
 
 ## Sources
 

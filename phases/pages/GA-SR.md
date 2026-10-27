@@ -17,7 +17,7 @@ Table: Phases of the Ga–Sr system (8)
 | [FCC_A1](#phase-ga-sr-fcc-a1); _phase:ga-sr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–820 K, x(Sr) 0.99999–1 | 0 | 1 |
 | [GA2SR_C32](#phase-ga-sr-ga2sr-c32); _phase:ga-sr:ga2sr-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1321.45 K, x(Sr) 0.33333–0.33333 | 0 | 1 |
 | [GA4SR_D13](#phase-ga-sr-ga4sr-d13); _phase:ga-sr:ga4sr-d13_ | Al4Ba · D1_3 · tI10 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1046.07 K, x(Sr) 0.2–0.2 | 0 | 1 |
-| [GA7SR8](#phase-ga-sr-ga7sr8); _phase:ga-sr:ga7sr8_ | Ba8Ga7 · cP60 · P2_13 (198) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–987.95 K, x(Sr) 0.53333–0.53333 | 1 | 1 |
+| [GA7SR8](#phase-ga-sr-ga7sr8); _phase:ga-sr:ga7sr8_ | Ba8Ga7 · cP60 · P2_13 (198) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–987.95 K, x(Sr) 0.53333–0.53333 | 3 | 1 |
 | [HCP_A3](#phase-ga-sr-hcp-a3); _phase:ga-sr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ga-sr-liquid); _phase:ga-sr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 302.91–2500 K, x(Sr) 0–1 | 0 | 1 |
 
@@ -166,7 +166,7 @@ _assessment that models this phase_
 - Structure: Ba8Ga7 · cP60 · P2_13 (198); type `st:ba8ga7-cp60`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ga 0.4667, Sr 0.5333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–987.95 K, x(Sr) 0.53333–0.53333
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-sr:ga7sr8)
 
 Names (5): _corpus: _corpus:phase:ga-sr:ga7sr8  

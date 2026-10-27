@@ -96,33 +96,33 @@ Table: Crystal structure, Hf system
 | Lattice a | 3.2 Å |  | Hf (hcp) | model | [8] Lieser 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 4, row 6; `ORC-HI5ZUOSSRW.b59d80` |  |
 | Lattice a | 3.2 Å |  | Hf (hcp) | DFT | [8] Lieser 2012 | Table 1, p. 4, row 4; `ORC-I76XBELOMP.4d46dd` |  |
 | Lattice a | 5.6953 Å | 0 | Hf2Hf (C14); _alloy: Hf 1_ | DFT | [9] Pavlů 2010 | Table 2, p. 3, row 38; `ORC-J5H7UN4VH3.725708` |  |
+| Lattice a | 5.6953 Å |  | Hf2Hf (C14); _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 2, p. 3, row 7; `ORC-RXHDNYUTKM.1cfa1a` |  |
 | Lattice a | 8.1572 Å | 0 | Hf2Hf (C15); _alloy: Hf 1_ | DFT | [9] Pavlů 2010 | Table 2, p. 3, row 39; `ORC-BVT7HWJL7W.829104` |  |
+| Lattice a | 5.6926 Å |  | Hf2Hf (C36); _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 2, p. 3, row 14; `ORC-QFDI6WYEZA.7aaa80` |  |
 | Lattice a | 5.6926 Å | 0 | Hf2Hf (C36); _alloy: Hf 1_ | DFT | [9] Pavlů 2010 | Table 2, p. 3, row 45; `ORC-W6S6N67OCQ.17f3ac` |  |
 | Lattice a | 3.1948 Å |  | NM HCP Hf; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 1, p. 3, row 4; `ORC-76Q3M2UO3R.7168d7` |  |
-| Lattice a | 3.1948 Å |  | UNKNOWN; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 1, p. 3, row 9; `ORC-NQW6I3PRQL.47eaec` |  |
-| Lattice a | 5.6926 Å |  | UNKNOWN; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 2, p. 3, row 14; `ORC-QFDI6WYEZA.7aaa80` |  |
-| Lattice a | 5.6953 Å |  | UNKNOWN; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 2, p. 3, row 7; `ORC-RXHDNYUTKM.1cfa1a` |  |
+| Lattice a | 3.1948 Å |  | NM HCP Hf; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 1, p. 3, row 9; `ORC-NQW6I3PRQL.47eaec` |  |
 | Lattice a | 3.197 Å | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [7] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1; `ORC-Z3HH7N36FZ.534465` |  |
 | Lattice a | 3.5 Å | 298.15 | (βHf); _alloy: Hf 1_ | experimental | [7] Tang 2014; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 4, p. 5, row 4; `ORC-P2EMNU7QKJ.406735` |  |
+| Lattice a | 3.61 Å | 298.15 | (βHf); _alloy: Hf 1_ | unspecified | [2] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 2; `ORC-SF5SKVM2FU` |  |
 | Lattice a | 3.5 Å | 298.15 | Hf (bcc) | experimental | [8] Lieser 2012; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 1, p. 4, row 2; `ORC-ESWMWWRANN` |  |
 | Lattice a | 3.1952 Å | 298.15 | Hf (hcp) | experimental | [8] Lieser 2012; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 1, p. 4, row 5; `ORC-BYWEHPF52Z.661006` |  |
 | Lattice a | 3.23 Å | 298.15 | NM HCP Hf; _alloy: Hf 1_ | experimental | [9] Pavlů 2010; _cites Villars 1991_ | Table 1, p. 3, row 3; `ORC-MTN7L5MJMI.7039c5` |  |
-| Lattice a | 3.61 Å | 298.15 | UNKNOWN; _alloy: Hf 1_ | unspecified | [2] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 2; `ORC-SF5SKVM2FU` |  |
 | Lattice a | 3.195 Å | 298.15 | α(HfxZr1-x); _α(HfxZr1-x): Hf 1_ | experimental | [10] Bittermann 2002; _cites Russell 1953_ [doi](https://doi.org/10.1063/1.1721254) | Table 1, p. 4, row 13; `ORC-6EECFQUAAU.098d6e` |  |
 | Lattice a | 3.19 Å | 298.15 | α(HfxZr1-x); _α(HfxZr1-x): Hf 1_ | experimental | [10] Bittermann 2002; _cites Ming 1981_ [doi](https://doi.org/10.1063/1.329760) | Table 1, p. 4, row 8; `ORC-XYHCK3YSIT.4eab5d` |  |
 | Lattice a | 0.31946 not_printed | 298.15 | αHf; _alloy: Hf 1_ | model | [1] Bittermann 1997; _cites Massalski 1990_ | Table 2, p. 3, row 2; `ORC-56XB6UO245.809860` |  |
 | Lattice a | 0.361 not_printed | 298.15 | βHf; _alloy: Hf 1_ | model | [1] Bittermann 1997; _cites Massalski 1990_ | Table 2, p. 3, row 3; `ORC-KIDG6QWURJ` |  |
 | Lattice a | 3.206 Å | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [7] Tang 2014 | Table 4, p. 5, row 2; `ORC-YCTR5ZNSZW.6c3f94` |  |
 | Lattice a | 3.1946 Å | 1743 (\<) | α(HfxZr1-x); _α(HfxZr1-x): Hf 1_ | model | [10] Bittermann 2002; _cites Massalski 1990_ | Table 1, p. 4, row 2; `ORC-CWO6VQU3TT.6209c6` |  |
-| Lattice a | 3.61 Å | 1987 | UNKNOWN; _alloy: Hf 1_ | model | [10] Bittermann 2002; _cites Massalski 1990_ | Table 1, p. 4, row 15; `ORC-ZBU7PUPHJU` |  |
+| Lattice a | 3.61 Å | 1987 | (βHf); _alloy: Hf 1_ | model | [10] Bittermann 2002; _cites Massalski 1990_ | Table 1, p. 4, row 15; `ORC-ZBU7PUPHJU` |  |
 | Lattice c | 5.046 Å |  | (αHf); _alloy: Hf 1_ | unspecified | [7] Tang 2014 | Table 4, p. 5, row 3; `ORC-G6BOWG6HHB.4ad0dd` |  |
 | Lattice c; _printed: c_ | 5.064 Å | 0 | A3-Hf | DFT | [4] Berche 2016 | Table 2, p. 4, row 2; `ORC-P2WKLNVONK.2840bc` |  |
 | Lattice c | 9.505 Å | 0 | Hf2Hf (C14); _alloy: Hf 1_ | DFT | [9] Pavlů 2010 | Table 2, p. 3, row 38; `ORC-J5H7UN4VH3.6d751f` |  |
+| Lattice c | 9.505 Å |  | Hf2Hf (C14); _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 2, p. 3, row 7; `ORC-RXHDNYUTKM.6e5ba0` |  |
+| Lattice c | 19.1581 Å |  | Hf2Hf (C36); _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 2, p. 3, row 14; `ORC-QFDI6WYEZA.e9b1b7` |  |
 | Lattice c | 19.1581 Å | 0 | Hf2Hf (C36); _alloy: Hf 1_ | DFT | [9] Pavlů 2010 | Table 2, p. 3, row 45; `ORC-W6S6N67OCQ.511b84` |  |
 | Lattice c | 5.0434 Å |  | NM HCP Hf; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 1, p. 3, row 4; `ORC-76Q3M2UO3R.39004c` |  |
-| Lattice c | 5.0434 Å |  | UNKNOWN; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 1, p. 3, row 9; `ORC-NQW6I3PRQL.3287f3` |  |
-| Lattice c | 19.1581 Å |  | UNKNOWN; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 2, p. 3, row 14; `ORC-QFDI6WYEZA.e9b1b7` |  |
-| Lattice c | 9.505 Å |  | UNKNOWN; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 2, p. 3, row 7; `ORC-RXHDNYUTKM.6e5ba0` |  |
+| Lattice c | 5.0434 Å |  | NM HCP Hf; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 1, p. 3, row 9; `ORC-NQW6I3PRQL.3287f3` |  |
 | Lattice c | 5.058 Å | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [7] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1; `ORC-Z3HH7N36FZ.3d1455` |  |
 | Lattice c | 5.12 Å | 298.15 | NM HCP Hf; _alloy: Hf 1_ | experimental | [9] Pavlů 2010; _cites Villars 1991_ | Table 1, p. 3, row 3; `ORC-MTN7L5MJMI.2389b3` |  |
 | Lattice c | 5.051 Å | 298.15 | α(HfxZr1-x); _α(HfxZr1-x): Hf 1_ | experimental | [10] Bittermann 2002; _cites Russell 1953_ [doi](https://doi.org/10.1063/1.1721254) | Table 1, p. 4, row 13; `ORC-6EECFQUAAU.5adc1f` |  |
@@ -140,12 +140,12 @@ Table: Crystal structure, Hf system
 | lattice 6h y | 0.3177 not_printed | 0 | Hf2Hf (C36); _alloy: Hf 1_ | DFT | [9] Pavlů 2010 | Table 2, p. 3, row 45; `ORC-W6S6N67OCQ.51d718` |  |
 | lattice c a | 1.58 not_printed |  | Hf (hcp) | model | [8] Lieser 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 4, row 6; `ORC-HI5ZUOSSRW.594350` |  |
 | lattice c a | 1.58 not_printed |  | Hf (hcp) | DFT | [8] Lieser 2012 | Table 1, p. 4, row 4; `ORC-I76XBELOMP.ec13e0` |  |
-| lattice c a | 1.5787 not_printed |  | UNKNOWN; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 1, p. 3, row 9; `ORC-NQW6I3PRQL.79e5ae` |  |
+| lattice c a | 1.5787 not_printed |  | NM HCP Hf; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 1, p. 3, row 9; `ORC-NQW6I3PRQL.79e5ae` |  |
 | lattice c a | 1.5827 not_printed | 298.15 | Hf (hcp) | experimental | [8] Lieser 2012; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 1, p. 4, row 5; `ORC-BYWEHPF52Z.74fa10` |  |
 | lattice v atom | 2.225 10^7 pm^3 | 0 | Hf2Hf (C14); _alloy: Hf 1_ | DFT | [9] Pavlů 2010 | Table 2, p. 3, row 38; `ORC-J5H7UN4VH3.642365` |  |
 | lattice v atom | 2.26154 10^7 pm^3 | 0 | Hf2Hf (C15); _alloy: Hf 1_ | DFT | [9] Pavlů 2010 | Table 2, p. 3, row 39; `ORC-BVT7HWJL7W.0ee2e8` |  |
 | lattice v atom | 2.24022 10^7 pm^3 | 0 | Hf2Hf (C36); _alloy: Hf 1_ | DFT | [9] Pavlů 2010 | Table 2, p. 3, row 45; `ORC-W6S6N67OCQ.14304b` |  |
-| lattice v atom | 2.22896 10^7 pm^3 |  | UNKNOWN; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 1, p. 3, row 9; `ORC-NQW6I3PRQL.4ca020` |  |
+| lattice v atom | 2.22896 10^7 pm^3 |  | NM HCP Hf; _alloy: Hf 1_ | unspecified | [9] Pavlů 2010 | Table 1, p. 3, row 9; `ORC-NQW6I3PRQL.4ca020` |  |
 
 ## Sources
 

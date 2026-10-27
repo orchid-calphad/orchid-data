@@ -1,10 +1,10 @@
 # O–Ru system
 
-> O–Ru system: 10 accepted literature values (formation 7, invariant reaction 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Ru system: 14 accepted literature values (formation 7, crystal structure 4, invariant reaction 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-RU.html · Markdown: https://data.orchid-project.org/systems/O-RU.md
 
-10 accepted literature values from 1 paper(s) (experimental 7, model 2, DFT 1); 0 calculated phase diagram(s).
+14 accepted literature values from 1 paper(s) (experimental 7, model 2, DFT 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-RU.json) · [CSV](https://data.orchid-project.org/systems/O-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-RU) · [phases (7)](https://data.orchid-project.org/phases/pages/O-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-RU.html) · [Markdown](https://data.orchid-project.org/systems/O-RU.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 7 |
 | model | 2 |
-| DFT | 1 |
+| DFT | 5 |
 
 Table: Accepted values by property group
 
@@ -22,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 3 |
 | formation | 7 |
+| crystal structure | 4 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-RU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-RU.json)
 
@@ -50,6 +51,19 @@ Table: Enthalpies of formation, O–Ru system (7)
 | RuO2 |  | -306.27 kJ/mol (basis unstated) ± 6.3 | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Tagirov 1975_ | Table 2, p. 5, row 4; `ORC-Z5XW7XS55Q` |  |
 | RuO2 |  | -302.08 kJ/mol (basis unstated) ± 8.37 | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Bell 1963_ [doi](https://doi.org/10.1021/j100805a042) | Table 2, p. 5, row 8; `ORC-EJIQT32NVK` |  |
 | RuO2 |  | -297.08 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Sch 1963_ | Table 2, p. 5, row 9; `ORC-MRKP62DNWU` |  |
+
+## Other properties
+
+### Crystal structure (4)
+
+Table: Crystal structure, O–Ru system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.293 Å |  | Ru2O3 | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.d7ae7d` |  |
+| Lattice a | 4.4968 not_printed ± 2.000e-4 |  | RuO2 | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.a81fe4` |  |
+| Lattice c | 12.984 Å |  | Ru2O3 | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.05d7ba` |  |
+| Lattice c | 3.1049 not_printed ± 1.000e-4 |  | RuO2 | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.8f465f` |  |
 
 ## Sources
 

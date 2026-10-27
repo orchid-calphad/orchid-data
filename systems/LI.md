@@ -31,22 +31,22 @@ Table: Crystal structure, Li system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.508 Å | 298.15 | Li | experimental | [1] Zhou 2016; _cites Perlitz 1940_ [doi](https://doi.org/10.1080/14786444008520697) | Table 1, p. 2, row 1; `ORC-JQPM4XSG5U` |  |
-| Lattice a | 3.5093 Å | 298.15 | UNKNOWN; _alloy: Li 1_ | model | [2] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 12; `ORC-ZJTMCEEC5U` |  |
+| Lattice a | 3.5093 Å | 298.15 | (Li); _alloy: Li 1_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 12; `ORC-ZJTMCEEC5U` |  |
+| Lattice a | 3.508 Å | 298.15 | Li | experimental | [2] Zhou 2016; _cites Perlitz 1940_ [doi](https://doi.org/10.1080/14786444008520697) | Table 1, p. 2, row 1; `ORC-JQPM4XSG5U` |  |
 | Lattice a | 3.5093 Å | 298.15 | bcc(Li); _alloy: Li 1_ | unspecified | [3] Long 2020 | Table 1, p. 2, row 2; `ORC-QG7N3LYXFX` |  |
 | Lattice a | 3.4785 Å | 298.15 | βLi | unspecified | [4] Li 2014; _cites Berliner 1989_ [doi](https://doi.org/10.1103/physrevb.40.12086) | Table 5, p. 4, row 1; `ORC-BD7VXWVTFC.cb9689` |  |
-| Lattice a | 3.5093 Å | 453.7 (\<) | UNKNOWN; _alloy: Li 1_ | model | [2] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 2; `ORC-RQ3EX2HQCB` |  |
+| Lattice a | 3.5093 Å | 453.7 (\<) | (Li); _alloy: Li 1_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 2; `ORC-RQ3EX2HQCB` |  |
 | Lattice a | 3.51 Å | 453.75 (\<) | (Li); _alloy: Li 1_ | model | [5] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 2; `ORC-3X2TPT5OZW` |  |
-| Molar volume; _printed: V0_ | 21.59 Å3/atom |  | Li | experimental | [1] Zhou 2016; _cites Perlitz 1940_ [doi](https://doi.org/10.1080/14786444008520697) | Table 4, p. 4, row 2; `ORC-72ZBDGE32Q` |  |
-| Molar volume; _printed: V0_ | 20.32 Å3/atom | 0 | Li | DFT | [1] Zhou 2016 | Table 4, p. 4, row 1; `ORC-YYZTFD5SFA` |  |
+| Molar volume; _printed: V0_ | 21.59 Å3/atom |  | Li | experimental | [2] Zhou 2016; _cites Perlitz 1940_ [doi](https://doi.org/10.1080/14786444008520697) | Table 4, p. 4, row 2; `ORC-72ZBDGE32Q` |  |
+| Molar volume; _printed: V0_ | 20.32 Å3/atom | 0 | Li | DFT | [2] Zhou 2016 | Table 4, p. 4, row 1; `ORC-YYZTFD5SFA` |  |
 | lattice beta | 90 ° | 298.15 | βLi | unspecified | [4] Li 2014; _cites Berliner 1989_ [doi](https://doi.org/10.1103/physrevb.40.12086) | Table 5, p. 4, row 1; `ORC-BD7VXWVTFC.ebb1d3` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Chenyang Zhou, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Li–Pb system aided by first-principles calculations, Journal of Nuclear Materials 477, 95-101 (2016). [doi:10.1016/j.jnucmat.2016.04.061](https://doi.org/10.1016/j.jnucmat.2016.04.061)
-2. Chong Chen, Man Wang, Yong Du, Qiannan Gao, Biao Hu, Shuhong Liu, Thermodynamic modeling of the Sr–X (X=H, Li, Na, Sc) systems, Calphad 38, 17-22 (2012). [doi:10.1016/j.calphad.2012.03.001](https://doi.org/10.1016/j.calphad.2012.03.001)
+1. Chong Chen, Man Wang, Yong Du, Qiannan Gao, Biao Hu, Shuhong Liu, Thermodynamic modeling of the Sr–X (X=H, Li, Na, Sc) systems, Calphad 38, 17-22 (2012). [doi:10.1016/j.calphad.2012.03.001](https://doi.org/10.1016/j.calphad.2012.03.001)
+2. Chenyang Zhou, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Li–Pb system aided by first-principles calculations, Journal of Nuclear Materials 477, 95-101 (2016). [doi:10.1016/j.jnucmat.2016.04.061](https://doi.org/10.1016/j.jnucmat.2016.04.061)
 3. Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020). [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z)
 4. D. Li, S. Fürtauer, H. Flandorfer, D.M. Cupid, Thermodynamic assessment and experimental investigation of the Li–Sn system, Calphad 47, 181-195 (2014). [doi:10.1016/j.calphad.2014.09.002](https://doi.org/10.1016/j.calphad.2014.09.002)
 5. Peisheng Wang, Yong Du, Shuhong Liu, Thermodynamic optimization of the Li–Mg and Al–Li–Mg systems, Calphad 35, 523-532 (2011). [doi:10.1016/j.calphad.2011.09.003](https://doi.org/10.1016/j.calphad.2011.09.003)

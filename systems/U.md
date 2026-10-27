@@ -84,8 +84,8 @@ Table: Heat capacity / entropy / enthalpy, U system
 | Entropy; _printed: S0(298.15)_ | 53.385 J/mol-atom/K | 298.15 | β-U; _alloy: U 1_ | model | [4] Beneš 2014 | Table 1, p. 2, row 7; `ORC-LYLLEBPACM.67b3f3` |  |
 | Entropy; _printed: S0(298.15)_ | 59.774 J/mol-atom/K | 298.15 | γ-U; _alloy: U 1_ | model | [4] Beneš 2014 | Table 1, p. 2, row 9; `ORC-7KBNK5YS3T.5b2d55` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 23.69 J/mol-atom/K | 298.15 | U (g); _alloy: U 1_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 9; `ORC-IY4HBZTVGD.24eed0` |  |
+| Heat capacity; _printed: Cp0 (298 K)_ | 23.69 per mol-atom ± 0.04 | 298.15 | U (g); _alloy: U 1_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 10; `ORC-S2656RJZMQ.041b44` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 23.69 J/mol-atom/K ± 0.04 | 298.15 | U (g); _alloy: U 1_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 10; `ORC-S2656RJZMQ.8e04e9` |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 23.69 per mol-atom ± 0.04 | 298.15 | UNKNOWN; _alloy: U 1_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 10; `ORC-S2656RJZMQ.041b44` |  |
 
 ### Crystal structure (18)
 

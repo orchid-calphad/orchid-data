@@ -106,9 +106,9 @@ Table: Crystal structure, Mn system
 | Lattice a | 3.86624 Å | 298.15 | γMn; _γMn: Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 11; `ORC-IFYUQ5H5GR.a163f5` |  |
 | Lattice a | 3.0806 Å | 298.15 | δMn; _δMn: Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 12; `ORC-NPDXVCVPMB.93ccdf` |  |
 | Lattice a | 8.913 Å | 727 (\<) | (αMn); _alloy: Mn 1_ | unspecified | [14] Brož 2024 | Table 1, p. 3, row 12; `ORC-MNLB3O2CFS` |  |
-| Lattice a | 6.315 Å | 913.5 | UNKNOWN; _alloy: Mn 1_ | unspecified | [14] Brož 2024 | Table 1, p. 3, row 13; `ORC-5WVPYBWXZ4` |  |
+| Lattice a | 6.315 Å | 913.5 | (βMn); _alloy: Mn 1_ | unspecified | [14] Brož 2024 | Table 1, p. 3, row 13; `ORC-5WVPYBWXZ4` |  |
 | Lattice a | 3.86 Å | 1119 | UNKNOWN; _alloy: Mn 1_ | unspecified | [14] Brož 2024 | Table 1, p. 3, row 14; `ORC-RFUQ2NN5FM` |  |
-| Lattice a | 3.08 Å | 1192 | UNKNOWN; _alloy: Mn 1_ | unspecified | [14] Brož 2024 | Table 1, p. 3, row 15; `ORC-PGOCEXJD5E` |  |
+| Lattice a | 3.08 Å | 1192 | (δMn); _alloy: Mn 1_ | unspecified | [14] Brož 2024 | Table 1, p. 3, row 15; `ORC-PGOCEXJD5E` |  |
 | Lattice c | 7.358 Å | 0 | C14; _alloy: Mn 1_ | DFT | [10] Liu 2012 | Table 4, p. 8, row 7; `ORC-5GPIGU4FR3.8f5c52` |  |
 | Lattice c | 7.357 Å | 0 | C14; _alloy: Mn 1_ | DFT | [10] Liu 2012 | Table 4, p. 8, row 9; `ORC-ET65D5MLIQ.98d3ea` |  |
 | lattice unspecified axis | 8.9219 Å | 298.15 | αMn; _αMn: Mn 1_ | unspecified | [1] Karakaya 1990 | Table 3, p. 5, row 9; `ORC-BAKXP75JFB.73394a` |  |

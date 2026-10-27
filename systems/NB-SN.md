@@ -215,9 +215,9 @@ Table: Heat capacity / entropy / enthalpy, Nb–Sn system
 | Entropy; _printed: ΔS optimization_ | -3.76 unknown | 298.15 | NbSn2; _alloy: Sn 0.666667_ | model | [1] Toffolon 2002 | Table 4, p. 3, row 5; `ORC-AH2TKUTPIK.0b6acd` |  |
 | Entropy; _printed: ΔS optimization_ | -10.23 unknown | 298.15 | NbSn2; _alloy: Sn 0.666667_ | model | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 4; `ORC-QKHPA7LXXH.013177` |  |
 | Entropy; _printed: ΔS optimization_ | -5.95 J/mol/at | 860 | Nb3Sn; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 11; `ORC-5US3YVSIRP.3081ca` |  |
+| Entropy; _printed: ΔS_experimental_ | -13.58 unknown ± 2.45 | 860 | Nb3Sn; _alloy: Sn 0.25_ | experimental | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 2; `ORC-YEQL2PUFBH.00ecc6` |  |
 | Entropy; _printed: ΔS optimization_ | -13 unknown | 860 | NbSn2; _alloy: Sn 0.666667_ | model | [1] Toffolon 2002 | Table 4, p. 3, row 6; `ORC-DA4UJZRUD6.9583ef` |  |
 | Entropy; _printed: ΔS optimization_ | -10.23 unknown | 860 | NbSn2; _alloy: Sn 0.666667_ | model | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 3; `ORC-IC3QIP7RFN.0212ec` |  |
-| Entropy; _printed: ΔS_experimental_ | -13.58 unknown ± 2.45 | 860 | UNKNOWN; _alloy: Sn 0.25_ | experimental | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 2; `ORC-YEQL2PUFBH.00ecc6` |  |
 | Entropy; _printed: ΔSoptimization_ | -8.12 J/mol/at | 1173 | Nb0.545Sn0.455; _alloy: Sn 0.455_ | model | [1] Toffolon 2002 | Table 3, p. 3, row 4; `ORC-ON3EU26GF3.59d7b7` |  |
 | Entropy; _printed: ΔS optimization_ | -5.89 J/mol/at | 1273 | Nb3Sn; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 12; `ORC-HQWMWGGOBN.4d02be` |  |
 | Entropy; _printed: ΔS optimization_ | 5.18 J/mol/at | 1273 | Nb3Sn; _alloy: Sn 0.25_ | model | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 1, p. 1, row 9; `ORC-JEEDJI65BL.ea4aa0` |  |

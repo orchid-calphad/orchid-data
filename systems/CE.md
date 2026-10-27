@@ -1,10 +1,10 @@
 # Ce system
 
-> Ce system: 24 accepted literature values (crystal structure 20, mixing / partial 2, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce system: 27 accepted literature values (crystal structure 23, mixing / partial 2, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE.html · Markdown: https://data.orchid-project.org/systems/CE.md
 
-24 accepted literature values from 7 paper(s) (experimental 6, model 5, DFT 4, unspecified 9); 0 calculated phase diagram(s).
+27 accepted literature values from 7 paper(s) (experimental 9, model 5, DFT 4, unspecified 9); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE.json) · [CSV](https://data.orchid-project.org/systems/CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE.html) · [Markdown](https://data.orchid-project.org/systems/CE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
+| experimental | 9 |
 | model | 5 |
 | DFT | 4 |
 | unspecified | 9 |
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 2 |
 | mixing / partial | 2 |
-| crystal structure | 20 |
+| crystal structure | 23 |
 
 ## Other properties
 
@@ -45,7 +45,7 @@ Table: Mixing / partial, Ce system
 | Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 1_ | model | [2] Gröbner 2004 | Table VIII, p. 11, row 2; `ORC-2ONBIZ5QZD.9e6ce3` |  |
 | Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 1_ | experimental | [2] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 1; `ORC-EB4LAZM5M4.ca03f6` |  |
 
-### Crystal structure (20)
+### Crystal structure (23)
 
 Table: Crystal structure, Ce system
 
@@ -57,12 +57,15 @@ Table: Crystal structure, Ce system
 | Lattice a | 4.85 Å | 298.15 | αCe; _αCe: Ce 1_ | unspecified | [5] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 2; `ORC-WEOLFLOTZT` |  |
 | Lattice a | 3.681 Å | 298.15 | βCe; _βCe: Ce 1_ | unspecified | [5] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3; `ORC-DODROVBFP3.c22c47` |  |
 | Lattice a | 3.681 Å | 298.15 | βCe; _alloy: Ce 1_ | unspecified | [4] Dong 2013 | Table 1, p. 2, row 3; `ORC-W5DFKBFDXF.04246d` |  |
+| Lattice a | 5.161 not_printed | 298.15 | γ(Ce) | experimental | [6] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3; `ORC-QMCW45QR34.2cdf34` |  |
 | Lattice a | 5.161 Å | 298.15 | γCe; _alloy: Ce 1_ | unspecified | [4] Dong 2013 | Table 1, p. 2, row 4; `ORC-CHQYBOM66I` |  |
 | Lattice a | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1_ | model | [6] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2; `ORC-QUTJ6UQCOU.ffce9d` |  |
 | Lattice a | 4.12 Å | 298.15 | δCe; _alloy: Ce 1_ | unspecified | [4] Dong 2013 | Table 1, p. 2, row 5; `ORC-UH7VDHG3X7` |  |
+| Lattice b | 5.161 not_printed | 298.15 | γ(Ce) | experimental | [6] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3; `ORC-QMCW45QR34.8fea21` |  |
 | Lattice b | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1_ | model | [6] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2; `ORC-QUTJ6UQCOU.8826de` |  |
 | Lattice c | 11.857 Å | 298.15 | βCe; _βCe: Ce 1_ | unspecified | [5] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3; `ORC-DODROVBFP3.525776` |  |
 | Lattice c | 11.857 Å | 298.15 | βCe; _alloy: Ce 1_ | unspecified | [4] Dong 2013 | Table 1, p. 2, row 3; `ORC-W5DFKBFDXF.ad2050` |  |
+| Lattice c | 5.161 not_printed | 298.15 | γ(Ce) | experimental | [6] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3; `ORC-QMCW45QR34.f5f379` |  |
 | Lattice c | 4.12 not_printed | 298.15 | δ(Ce); _alloy: Ce 1_ | model | [6] Premović 2017; _cites Massalski 1990_ | Table 1, p. 2, row 2; `ORC-QUTJ6UQCOU.d1e30f` |  |
 | lattice unspecified axis; _printed: Lattice parameter_ | 3.756 Å | 1041 | Ce; _alloy: Ce 1_ | DFT | [7] Zhang 2008 | Table 1, p. 2, row 3; `ORC-35EQDN7AUN.cfaa06` |  |
 | lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | Ce; _alloy: Ce 1_ | experimental | [7] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 4; `ORC-SXSOTOHSCL.1a860d` |  |

@@ -69,8 +69,8 @@ Table: Crystal structure, Ta system
 | Lattice a | 7.65 Å | 0 | C15; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 12; `ORC-5I6LGBCPA4.0beb7e` |  |
 | Lattice a | 5.44 Å | 0 | C36; _alloy: Ta 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 21; `ORC-BVGRL3EJF7.e7eac8` |  |
 | Lattice a | 3.31 Å |  | Nonmagnetic BCC Ta; _alloy: Ta 1_ | unspecified | [2] Pavlů 2009 | Table 1, p. 3, row 5; `ORC-R2GMWHBQ3Y` |  |
+| Lattice a | 3.303 Å | 298.15 | (Ta); _alloy: Ta 1_ | model | [6] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 1; `ORC-OISNK5Y7LE` |  |
 | Lattice a | 3.3 Å | 298.15 | Nonmagnetic BCC Ta; _alloy: Ta 1_ | experimental | [2] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 3, row 6; `ORC-NLDV3GEDW2` |  |
-| Lattice a | 3.303 Å | 298.15 | UNKNOWN; _alloy: Ta 1_ | model | [6] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 1; `ORC-OISNK5Y7LE` |  |
 | Lattice a | 3.328 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [7] Marker 2017 | Table 1, p. 12, row 2; `ORC-AHB4G73OHM` |  |
 | Lattice a | 3.316 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [7] Marker 2017 | Table 1, p. 12, row 1; `ORC-HAZGHBKNKW` |  |
 | Lattice a | 3.32 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [7] Marker 2017; _cites ref. 36_ | Table 1, p. 12, row 5; `ORC-JE4Z4B6NLA` |  |

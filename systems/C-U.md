@@ -1363,30 +1363,30 @@ Table: Crystal structure, C–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.089 not_printed ± 4.000e-4 | 298.15 | U2C3; _alloy: U 0.4_ | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 19; `ORC-5DCHXYVLL7` |  |
+| Lattice a | 8.088 Å | 298.15 | U2C3; _alloy: U 0.4_ | experimental | [1] Chevalier 2001; _cites Mallet 1951_ [doi](https://doi.org/10.1149/1.2778032) | Table 1, p. 3, row 18; `ORC-W4VN4MNKSQ` |  |
 | Lattice a | 4.9597 not_printed ± 4.000e-4 | 298.15 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Magnier 1964_ | Table 1, p. 3, row 8; `ORC-7HTQCUSPMH` |  |
 | Lattice a | 4.9591 not_printed | 298.15 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Higashi 1961_ | Table 1, p. 3, row 3; `ORC-DAZB2YQVPR` |  |
 | Lattice a | 4.965 Å | 298.15 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Litz 1948_ [doi](https://doi.org/10.1021/ja01185a015) | Table 1, p. 3, row 2; `ORC-G32GJFPBHS` |  |
 | Lattice a | 4.9563 not_printed | 298.15 | UC; _alloy: C 0.48, U 0.52_ | experimental | [1] Chevalier 2001; _cites Magnier 1964_ | Table 1, p. 3, row 5; `ORC-QWRSSVALIU` |  |
 | Lattice a | 4.9598 not_printed | 298.15 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Austin 1959_ [doi](https://doi.org/10.1107/s0365110x59000445) | Table 1, p. 3, row 4; `ORC-VSQKRUNZGZ` |  |
 | Lattice a | 4.961 Å | 298.15 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Rundle 1948_ [doi](https://doi.org/10.1021/ja01181a029) | Table 1, p. 3, row 1; `ORC-X6M7VGSG6Q` |  |
-| Lattice a | 5.45 Å | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Kikido 1960_ | Table 1, p. 3, row 10; `ORC-36AYM4WZIT` |  |
-| Lattice a | 8.089 not_printed ± 4.000e-4 | 298.15 | UNKNOWN; _alloy: U 0.4_ | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 19; `ORC-5DCHXYVLL7` |  |
-| Lattice a | 3.509 not_printed ± 0.003 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | unspecified | [1] Chevalier 2001 | Table 1, p. 3, row 15; `ORC-HN2DTPFUID.d9648a` |  |
-| Lattice a | 3.5241 not_printed ± 5.000e-4 | 298.15 | UNKNOWN | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 17; `ORC-K5NCJNBIMB.060814` |  |
-| Lattice a | 3.519 not_printed ± 0.0011 | 298.15 | UNKNOWN | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 16; `ORC-M4M3ZRV5XR.1b9af4` |  |
-| Lattice a | 5.45 not_printed ± 0.01 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Bredig 1960_ | Table 1, p. 3, row 11; `ORC-MUHSSTBD4Y` |  |
-| Lattice a | 5.41 Å | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Chang 1961_ [doi](https://doi.org/10.1107/s0365110x61003223) | Table 1, p. 3, row 9; `ORC-TQH33BLNLP` |  |
-| Lattice a | 3.517 not_printed ± 0.002 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Atoji 1959_ [doi](https://doi.org/10.1063/1.1730352) | Table 1, p. 3, row 14; `ORC-VVAFH55OUJ.3e2b95` |  |
-| Lattice a | 8.088 Å | 298.15 | UNKNOWN; _alloy: U 0.4_ | experimental | [1] Chevalier 2001; _cites Mallet 1951_ [doi](https://doi.org/10.1149/1.2778032) | Table 1, p. 3, row 18; `ORC-W4VN4MNKSQ` |  |
-| Lattice a | 5.475 Å | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Wilson 1960_ | Table 1, p. 3, row 12; `ORC-WYTXI6QR2A` |  |
+| Lattice a | 5.45 Å | 298.15 | UC2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Kikido 1960_ | Table 1, p. 3, row 10; `ORC-36AYM4WZIT` |  |
+| Lattice a | 5.45 not_printed ± 0.01 | 298.15 | UC2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Bredig 1960_ | Table 1, p. 3, row 11; `ORC-MUHSSTBD4Y` |  |
+| Lattice a | 5.41 Å | 298.15 | UC2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Chang 1961_ [doi](https://doi.org/10.1107/s0365110x61003223) | Table 1, p. 3, row 9; `ORC-TQH33BLNLP` |  |
+| Lattice a | 5.475 Å | 298.15 | UC2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Wilson 1960_ | Table 1, p. 3, row 12; `ORC-WYTXI6QR2A` |  |
+| Lattice a | 3.509 not_printed ± 0.003 | 298.15 | η-UC2; _alloy: U 0.333333_ | unspecified | [1] Chevalier 2001 | Table 1, p. 3, row 15; `ORC-HN2DTPFUID.d9648a` |  |
+| Lattice a | 3.5241 not_printed ± 5.000e-4 | 298.15 | η-UC2 | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 17; `ORC-K5NCJNBIMB.060814` |  |
+| Lattice a | 3.519 not_printed ± 0.0011 | 298.15 | η-UC2 | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 16; `ORC-M4M3ZRV5XR.1b9af4` |  |
 | Lattice a | 3.524 Å | 298.15 | η-UC2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Rundle 1948_ [doi](https://doi.org/10.1021/ja01181a029) | Table 1, p. 3, row 13; `ORC-QO3HMYGDTH.380eef` |  |
+| Lattice a | 3.517 not_printed ± 0.002 | 298.15 | η-UC2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Atoji 1959_ [doi](https://doi.org/10.1063/1.1730352) | Table 1, p. 3, row 14; `ORC-VVAFH55OUJ.3e2b95` |  |
 | Lattice a | 4.9577 not_printed | 1673 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Carniglia 1964_ | Table 1, p. 3, row 7; `ORC-EH7QFEKJRS` |  |
 | Lattice a | 4.956 Å | 1673 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Anselin 1964_ | Table 1, p. 3, row 6; `ORC-YS43XRTTL6` |  |
-| Lattice c | 5.98 not_printed ± 0.005 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | unspecified | [1] Chevalier 2001 | Table 1, p. 3, row 15; `ORC-HN2DTPFUID.1e438b` |  |
-| Lattice c | 5.9962 not_printed ± 8.000e-4 | 298.15 | UNKNOWN | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 17; `ORC-K5NCJNBIMB.1e7b14` |  |
-| Lattice c | 5.9787 not_printed ± 0.0017 | 298.15 | UNKNOWN | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 16; `ORC-M4M3ZRV5XR.0c6bce` |  |
-| Lattice c | 5.999 Å | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Rundle 1948_ [doi](https://doi.org/10.1021/ja01181a029) | Table 1, p. 3, row 13; `ORC-QO3HMYGDTH.24230e` |  |
-| Lattice c | 5.987 not_printed ± 0.002 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Atoji 1959_ [doi](https://doi.org/10.1063/1.1730352) | Table 1, p. 3, row 14; `ORC-VVAFH55OUJ.258813` |  |
+| Lattice c | 5.98 not_printed ± 0.005 | 298.15 | η-UC2; _alloy: U 0.333333_ | unspecified | [1] Chevalier 2001 | Table 1, p. 3, row 15; `ORC-HN2DTPFUID.1e438b` |  |
+| Lattice c | 5.9962 not_printed ± 8.000e-4 | 298.15 | η-UC2 | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 17; `ORC-K5NCJNBIMB.1e7b14` |  |
+| Lattice c | 5.9787 not_printed ± 0.0017 | 298.15 | η-UC2 | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 16; `ORC-M4M3ZRV5XR.0c6bce` |  |
+| Lattice c | 5.999 Å | 298.15 | η-UC2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Rundle 1948_ [doi](https://doi.org/10.1021/ja01181a029) | Table 1, p. 3, row 13; `ORC-QO3HMYGDTH.24230e` |  |
+| Lattice c | 5.987 not_printed ± 0.002 | 298.15 | η-UC2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Atoji 1959_ [doi](https://doi.org/10.1063/1.1730352) | Table 1, p. 3, row 14; `ORC-VVAFH55OUJ.258813` |  |
 
 ## Sources
 

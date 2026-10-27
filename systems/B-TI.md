@@ -189,20 +189,20 @@ Table: Crystal structure, B–Ti system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 10.9251 Å | 298.15 | (βB); _alloy: Ti 0_ | experimental | [3] Ma 2004; _cites Callmer 1977_ | Table 2, p. 2, row 10; `ORC-A7AJWSOFTE.7bb072` |  |
 | Lattice a | 3.259 Å | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 14; `ORC-AG75E2QCYW.4b8e4f` |  |
+| Lattice a | 3.26 Å | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9; `ORC-LAJXZ7EO7F.88250d` |  |
+| Lattice a | 3.259 Å | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8; `ORC-WYFHQWJVP7.0d9f0d` |  |
 | Lattice a | 0.3259 not_printed | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [5] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 9; `ORC-XVTORUATDT.a61cc6` |  |
 | Lattice a | 6.105 Å | 298.15 | TiB; _alloy: Ti 0.5_ | unspecified | [6] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 9; `ORC-42CFWDLZDC.4c76ff` |  |
 | Lattice a | 6.12 Å | 298.15 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Decker 1954_ [doi](https://doi.org/10.1107/s0365110x5400014x) | Table 2, p. 2, row 3; `ORC-DIARI2BAP3.2d0993` |  |
 | Lattice a | 0.6105 not_printed | 298.15 | TiB; _alloy: Ti 0.5_ | unspecified | [5] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 8; `ORC-IKIJRBBLQV.d63409` |  |
 | Lattice a | 6.105 Å | 298.15 | TiB; _alloy: Ti 0.5_ | model | [3] Ma 2004; _cites Wittmann 1960_ [doi](https://doi.org/10.1007/bf00899796) | Table 2, p. 2, row 4; `ORC-ZXIJR2NDZ5.77de6d` |  |
 | Lattice a | 3.031 Å | 298.15 | TiB2; _alloy: Ti 0.333333_ | unspecified | [6] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 19; `ORC-EUCBHHIEDY.0f9d61` |  |
+| Lattice a | 3.028 Å | 298.15 | TiB2; _alloy: Ti 0.333333_ | model | [3] Ma 2004; _cites Brewer 2004_ | Table 2, p. 2, row 6; `ORC-EYBLPWDOAV.f2f331` |  |
+| Lattice a | 3.028 Å | 298.15 | TiB2; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Gebhardt 1965_ | Table 2, p. 2, row 5; `ORC-IAFWJDHVOH.f47d58` |  |
+| Lattice a | 3.03 Å | 298.15 | TiB2; _alloy: Ti 0.333333_ | unspecified | [3] Ma 2004; _cites Kaufman 1965_ | Table 2, p. 2, row 7; `ORC-O7D3T222UG.1fbeff` |  |
 | Lattice a | 0.3031 not_printed | 298.15 | TiB2; _alloy: Ti 0.333333_ | unspecified | [5] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 10; `ORC-UVDIUZ3WIE.c17fb1` |  |
 | Lattice a | 8.83 Å | 298.15 | TiB25; _alloy: Ti 0.038462_ | experimental | [6] Duschanek 1995; _cites Amberger 1975_ [doi](https://doi.org/10.1107/s0567740875004268) | Table 3, p. 5, row 38; `ORC-GEABM2B4VT.4137a8` |  |
 | Lattice a | 8.83 Å | 298.15 | TiB25; _alloy: Ti 0.038462_ | experimental | [6] Duschanek 1995; _cites Amberger 1975_ [doi](https://doi.org/10.1107/s0567740875004268) | Table 3, p. 4, row 66; `ORC-O63L56C4P2.91c2d1` |  |
-| Lattice a | 3.028 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | model | [3] Ma 2004; _cites Brewer 2004_ | Table 2, p. 2, row 6; `ORC-EYBLPWDOAV.f2f331` |  |
-| Lattice a | 3.028 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Gebhardt 1965_ | Table 2, p. 2, row 5; `ORC-IAFWJDHVOH.f47d58` |  |
-| Lattice a | 3.26 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9; `ORC-LAJXZ7EO7F.88250d` |  |
-| Lattice a | 3.03 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | unspecified | [3] Ma 2004; _cites Kaufman 1965_ | Table 2, p. 2, row 7; `ORC-O7D3T222UG.1fbeff` |  |
-| Lattice a | 3.259 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8; `ORC-WYFHQWJVP7.0d9f0d` |  |
 | Lattice a | 4.3136 Å | 1823.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites Du 1993_ | Table 3, p. 4, row 40; `ORC-3WT5XY4K7U` |  |
 | Lattice a | 3.2631 Å | 1823.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites Du 1993_ | Table 3, p. 4, row 15; `ORC-5Z4GMXCCJE.11a5db` |  |
 | Lattice a | 3.2611 Å | 1823.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites Du 1993_ | Table 3, p. 4, row 16; `ORC-76DLNN4BDV.236c30` |  |
@@ -234,13 +234,13 @@ Table: Crystal structure, B–Ti system
 | Lattice a | 3.026 Å | 3253.15 | TiB2; _alloy: Ti 0.333333_ | unspecified | [6] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 26; `ORC-GJBHKHBXHV.3f82ef` |  |
 | Lattice a | 3.024 Å | 3275.15 | TiB2; _alloy: Ti 0.333333_ | unspecified | [6] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 22; `ORC-3N7VB4NVGS.da1b01` |  |
 | Lattice b | 13.73 Å | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 14; `ORC-AG75E2QCYW.423703` |  |
+| Lattice b | 13.72 Å | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9; `ORC-LAJXZ7EO7F.1bd402` |  |
+| Lattice b | 13.73 Å | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8; `ORC-WYFHQWJVP7.b27b0f` |  |
 | Lattice b | 1.373 not_printed | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [5] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 9; `ORC-XVTORUATDT.667e74` |  |
 | Lattice b | 3.048 Å | 298.15 | TiB; _alloy: Ti 0.5_ | unspecified | [6] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 9; `ORC-42CFWDLZDC.d4100b` |  |
 | Lattice b | 3.06 Å | 298.15 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Decker 1954_ [doi](https://doi.org/10.1107/s0365110x5400014x) | Table 2, p. 2, row 3; `ORC-DIARI2BAP3.fa35e3` |  |
 | Lattice b | 0.3048 not_printed | 298.15 | TiB; _alloy: Ti 0.5_ | unspecified | [5] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 8; `ORC-IKIJRBBLQV.31c7a9` |  |
 | Lattice b | 3.048 Å | 298.15 | TiB; _alloy: Ti 0.5_ | model | [3] Ma 2004; _cites Wittmann 1960_ [doi](https://doi.org/10.1007/bf00899796) | Table 2, p. 2, row 4; `ORC-ZXIJR2NDZ5.afb941` |  |
-| Lattice b | 13.72 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9; `ORC-LAJXZ7EO7F.1bd402` |  |
-| Lattice b | 13.73 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8; `ORC-WYFHQWJVP7.b27b0f` |  |
 | Lattice b | 13.7336 Å | 1823.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites Du 1993_ | Table 3, p. 4, row 15; `ORC-5Z4GMXCCJE.864208` |  |
 | Lattice b | 13.7239 Å | 1823.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites Du 1993_ | Table 3, p. 4, row 16; `ORC-76DLNN4BDV.d80d93` |  |
 | Lattice b | 13.7326 Å | 1823.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites Du 1993_ | Table 3, p. 4, row 17; `ORC-FBM75JH5R6.c40e1f` |  |
@@ -251,20 +251,20 @@ Table: Crystal structure, B–Ti system
 | Lattice b | 3.07 Å | 1873.15 | TiB; _alloy: Ti 0.5_ | unspecified | [6] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 11; `ORC-X54WEV3MAE.f096ab` |  |
 | Lattice c | 23.814 Å | 298.15 | (βB); _alloy: Ti 0_ | experimental | [3] Ma 2004; _cites Callmer 1977_ | Table 2, p. 2, row 10; `ORC-A7AJWSOFTE.33408d` |  |
 | Lattice c | 3.042 Å | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 14; `ORC-AG75E2QCYW.5b5d09` |  |
+| Lattice c | 3.041 Å | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9; `ORC-LAJXZ7EO7F.21e617` |  |
+| Lattice c | 3.042 Å | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8; `ORC-WYFHQWJVP7.152a62` |  |
 | Lattice c | 0.3042 not_printed | 298.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [5] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 9; `ORC-XVTORUATDT.78d9ad` |  |
 | Lattice c | 4.551 Å | 298.15 | TiB; _alloy: Ti 0.5_ | unspecified | [6] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 9; `ORC-42CFWDLZDC.5b1292` |  |
 | Lattice c | 4.56 Å | 298.15 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Decker 1954_ [doi](https://doi.org/10.1107/s0365110x5400014x) | Table 2, p. 2, row 3; `ORC-DIARI2BAP3.8e6200` |  |
 | Lattice c | 0.4551 not_printed | 298.15 | TiB; _alloy: Ti 0.5_ | unspecified | [5] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 8; `ORC-IKIJRBBLQV.d6bd89` |  |
 | Lattice c | 4.542 Å | 298.15 | TiB; _alloy: Ti 0.5_ | model | [3] Ma 2004; _cites Wittmann 1960_ [doi](https://doi.org/10.1007/bf00899796) | Table 2, p. 2, row 4; `ORC-ZXIJR2NDZ5.01aa12` |  |
 | Lattice c | 3.229 Å | 298.15 | TiB2; _alloy: Ti 0.333333_ | unspecified | [6] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 19; `ORC-EUCBHHIEDY.2f5e19` |  |
+| Lattice c | 3.23 Å | 298.15 | TiB2; _alloy: Ti 0.333333_ | model | [3] Ma 2004; _cites Brewer 2004_ | Table 2, p. 2, row 6; `ORC-EYBLPWDOAV.391abf` |  |
+| Lattice c | 3.228 Å | 298.15 | TiB2; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Gebhardt 1965_ | Table 2, p. 2, row 5; `ORC-IAFWJDHVOH.26d56e` |  |
+| Lattice c | 3.228 Å | 298.15 | TiB2; _alloy: Ti 0.333333_ | unspecified | [3] Ma 2004; _cites Kaufman 1965_ | Table 2, p. 2, row 7; `ORC-O7D3T222UG.600e28` |  |
 | Lattice c | 0.3229 not_printed | 298.15 | TiB2; _alloy: Ti 0.333333_ | unspecified | [5] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 10; `ORC-UVDIUZ3WIE.48b786` |  |
 | Lattice c | 5.072 Å | 298.15 | TiB25; _alloy: Ti 0.038462_ | experimental | [6] Duschanek 1995; _cites Amberger 1975_ [doi](https://doi.org/10.1107/s0567740875004268) | Table 3, p. 5, row 38; `ORC-GEABM2B4VT.282d79` |  |
 | Lattice c | 5.072 Å | 298.15 | TiB25; _alloy: Ti 0.038462_ | experimental | [6] Duschanek 1995; _cites Amberger 1975_ [doi](https://doi.org/10.1107/s0567740875004268) | Table 3, p. 4, row 66; `ORC-O63L56C4P2.7f04f8` |  |
-| Lattice c | 3.23 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | model | [3] Ma 2004; _cites Brewer 2004_ | Table 2, p. 2, row 6; `ORC-EYBLPWDOAV.391abf` |  |
-| Lattice c | 3.228 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Gebhardt 1965_ | Table 2, p. 2, row 5; `ORC-IAFWJDHVOH.26d56e` |  |
-| Lattice c | 3.041 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Spear 1986_ [doi](https://doi.org/10.1111/j.1151-2916.1986.tb04701.x) | Table 2, p. 2, row 9; `ORC-LAJXZ7EO7F.21e617` |  |
-| Lattice c | 3.228 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | unspecified | [3] Ma 2004; _cites Kaufman 1965_ | Table 2, p. 2, row 7; `ORC-O7D3T222UG.600e28` |  |
-| Lattice c | 3.042 Å | 298.15 | UNKNOWN; _alloy: Ti 0.428571_ | experimental | [3] Ma 2004; _cites Fenish 1966_ | Table 2, p. 2, row 8; `ORC-WYFHQWJVP7.152a62` |  |
 | Lattice c | 3.0356 Å | 1823.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites Du 1993_ | Table 3, p. 4, row 15; `ORC-5Z4GMXCCJE.54c6b3` |  |
 | Lattice c | 3.0374 Å | 1823.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites Du 1993_ | Table 3, p. 4, row 16; `ORC-76DLNN4BDV.6c4d3d` |  |
 | Lattice c | 3.0361 Å | 1823.15 | Ti3B4; _alloy: Ti 0.428571_ | unspecified | [6] Duschanek 1995; _cites Du 1993_ | Table 3, p. 4, row 17; `ORC-FBM75JH5R6.c8a198` |  |

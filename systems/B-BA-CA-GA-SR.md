@@ -28,8 +28,8 @@ Table: Crystal structure, B–Ba–Ca–Ga–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 10.925 Å | 298.15 | UNKNOWN; _alloy: Ba 0, Ca 0, Ga 0, Sr 0_ | experimental | [1] Li 2013; _cites Callmer 1977_ | Table 1, p. 2, row 3; `ORC-XRC73I4IHE.517c13` |  |
-| Lattice c | 23.814 Å | 298.15 | UNKNOWN; _alloy: Ba 0, Ca 0, Ga 0, Sr 0_ | experimental | [1] Li 2013; _cites Callmer 1977_ | Table 1, p. 2, row 3; `ORC-XRC73I4IHE.47bdf9` |  |
+| Lattice a | 10.925 Å | 298.15 | (B); _alloy: Ba 0, Ca 0, Ga 0, Sr 0_ | experimental | [1] Li 2013; _cites Callmer 1977_ | Table 1, p. 2, row 3; `ORC-XRC73I4IHE.517c13` |  |
+| Lattice c | 23.814 Å | 298.15 | (B); _alloy: Ba 0, Ca 0, Ga 0, Sr 0_ | experimental | [1] Li 2013; _cites Callmer 1977_ | Table 1, p. 2, row 3; `ORC-XRC73I4IHE.47bdf9` |  |
 
 ## Sources
 

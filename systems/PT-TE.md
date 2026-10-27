@@ -1,10 +1,10 @@
 # Pt–Te system
 
-> Pt–Te system: 21 accepted literature values (invariant reaction 12, crystal structure 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pt–Te system: 20 accepted literature values (invariant reaction 12, crystal structure 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PT-TE.html · Markdown: https://data.orchid-project.org/systems/PT-TE.md
 
-21 accepted literature values from 1 paper(s) (experimental 11, model 6, DFT 4); 1 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 10, model 6, DFT 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PT-TE.json) · [CSV](https://data.orchid-project.org/systems/PT-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PT-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-TE/PtTe-15Guo.json) · [phases (9)](https://data.orchid-project.org/phases/pages/PT-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PT-TE.html) · [Markdown](https://data.orchid-project.org/systems/PT-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
+| experimental | 10 |
 | model | 6 |
 | DFT | 4 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 12 |
-| crystal structure | 9 |
+| crystal structure | 8 |
 
 ## Calculated phase diagrams
 
@@ -75,21 +75,20 @@ Table: Invariant reactions reported in the literature for the Pt–Te system (12
 
 ## Other properties
 
-### Crystal structure (9)
+### Crystal structure (8)
 
 Table: Crystal structure, Pt–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice v | 23.345 Å3/atom |  | UNKNOWN; _alloy: Te 0.6_ | experimental | [1] Guo 2015; _cites Kim 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900948-7) | Table I, p. 3, row 10; `ORC-74ZZKBNZMJ` |  |
-| lattice v | 25.8098 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Guo 2015 | Table I, p. 3, row 11; `ORC-GZMSLOMMCS` |  |
-| lattice v | 23.8074 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Guo 2015 | Table I, p. 3, row 5; `ORC-PQ4S4D4IOI` |  |
-| lattice v | 23.6667 Å3/atom |  | UNKNOWN; _alloy: Te 0.666667_ | experimental | [1] Guo 2015; _cites Soulard 2005_ [doi](https://doi.org/10.1016/j.jssc.2005.04.008) | Table I, p. 3, row 12; `ORC-QL65BKQX3O` |  |
-| lattice v | 22.3875 Å3/atom |  | UNKNOWN; _alloy: Te 0.5_ | experimental | [1] Guo 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table I, p. 3, row 6; `ORC-R2N6L3HJAJ` |  |
-| lattice v | 25.0268 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.6_ | DFT | [1] Guo 2015 | Table I, p. 3, row 9; `ORC-RABUBOAJCQ` |  |
-| lattice v | 23.2929 Å3/atom |  | UNKNOWN; _alloy: Te 0.571429_ | experimental | [1] Guo 2015; _cites Kim 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900948-7) | Table I, p. 3, row 8; `ORC-RGNKWYMLLV` |  |
-| lattice v | 24.5621 Å3/atom | 0 | UNKNOWN; _alloy: Te 0.571429_ | DFT | [1] Guo 2015 | Table I, p. 3, row 7; `ORC-RNO2PDHAPX` |  |
-| lattice v | 15.09 Å3/atom |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Guo 2015; _cites Perdew 1996_ [doi](https://doi.org/10.1103/physrevlett.77.3865) | Table I, p. 3, row 2; `ORC-Y6RLDJSXKM` |  |
+| lattice v | 23.345 Å3/atom |  | Pt2Te3; _alloy: Te 0.6_ | experimental | [1] Guo 2015; _cites Kim 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900948-7) | Table I, p. 3, row 10; `ORC-74ZZKBNZMJ` |  |
+| lattice v | 25.0268 Å3/atom | 0 | Pt2Te3; _alloy: Te 0.6_ | DFT | [1] Guo 2015 | Table I, p. 3, row 9; `ORC-RABUBOAJCQ` |  |
+| lattice v | 23.2929 Å3/atom |  | Pt3Te4; _alloy: Te 0.571429_ | experimental | [1] Guo 2015; _cites Kim 1999_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900948-7) | Table I, p. 3, row 8; `ORC-RGNKWYMLLV` |  |
+| lattice v | 24.5621 Å3/atom | 0 | Pt3Te4; _alloy: Te 0.571429_ | DFT | [1] Guo 2015 | Table I, p. 3, row 7; `ORC-RNO2PDHAPX` |  |
+| lattice v | 23.8074 Å3/atom | 0 | PtTe; _alloy: Te 0.5_ | DFT | [1] Guo 2015 | Table I, p. 3, row 5; `ORC-PQ4S4D4IOI` |  |
+| lattice v | 22.3875 Å3/atom |  | PtTe; _alloy: Te 0.5_ | experimental | [1] Guo 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table I, p. 3, row 6; `ORC-R2N6L3HJAJ` |  |
+| lattice v | 25.8098 Å3/atom | 0 | PtTe2; _alloy: Te 0.666667_ | DFT | [1] Guo 2015 | Table I, p. 3, row 11; `ORC-GZMSLOMMCS` |  |
+| lattice v | 23.6667 Å3/atom |  | PtTe2; _alloy: Te 0.666667_ | experimental | [1] Guo 2015; _cites Soulard 2005_ [doi](https://doi.org/10.1016/j.jssc.2005.04.008) | Table I, p. 3, row 12; `ORC-QL65BKQX3O` |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Fe–Ti system
 
-> Fe–Ti system: 501 accepted literature values (invariant reaction 188, formation 126, mixing / partial 96, activity / EMF / Gibbs energy 72) and 15 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ti system: 505 accepted literature values (invariant reaction 188, formation 126, mixing / partial 96, activity / EMF / Gibbs energy 72) and 15 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TI.html · Markdown: https://data.orchid-project.org/systems/FE-TI.md
 
-501 accepted literature values from 9 paper(s) (experimental 107, model 304, DFT 40, unspecified 50); 15 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+505 accepted literature values from 10 paper(s) (experimental 107, model 308, DFT 40, unspecified 50); 15 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TI.json) · [CSV](https://data.orchid-project.org/systems/FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-09Key.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TI.html) · [Markdown](https://data.orchid-project.org/systems/FE-TI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 107 |
-| model | 304 |
+| model | 308 |
 | DFT | 40 |
 | unspecified | 50 |
 
@@ -26,6 +26,7 @@ Table: Accepted values by property group
 | formation | 126 |
 | mixing / partial | 96 |
 | activity / EMF / Gibbs energy | 72 |
+| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -735,6 +736,17 @@ Table: Activity / EMF / Gibbs energy, Fe–Ti system
 | Activity Ti; _printed: aTi x 10^3_ | 0.00419 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 9; `ORC-XVUGY4UWY5` |  |
 | Activity Ti; _printed: a_Ti·10^3_ | 0.00184 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [4] Jonsson 1998 | Table III, p. 2, row 2; `ORC-YRJRLIIKUB.7c6e02` |  |
 
+### Crystal structure (4)
+
+Table: Crystal structure, Fe–Ti system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.956 Å | 1700.15 (\<) | Fe2Ti; _alloy: Ti 0.333333_ | model | [10] Keyzer 2009 | Table 1, p. 3, row 8; `ORC-EB2TNZHVGR.973c1d` |  |
+| Lattice a | 4.785 Å | 1700.15 (\<) | Fe2Ti; _alloy: Ti 0.333333_ | model | [10] Keyzer 2009 | Table 1, p. 3, row 8; `ORC-EB2TNZHVGR.aada15` |  |
+| Lattice c | 8.032 Å | 1700.15 (\<) | Fe2Ti; _alloy: Ti 0.333333_ | model | [10] Keyzer 2009 | Table 1, p. 3, row 8; `ORC-EB2TNZHVGR.5e82d8` |  |
+| Lattice c | 7.799 Å | 1700.15 (\<) | Fe2Ti; _alloy: Ti 0.333333_ | model | [10] Keyzer 2009 | Table 1, p. 3, row 8; `ORC-EB2TNZHVGR.67d191` |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -748,6 +760,7 @@ Reporting papers the values were read from (a value cited from another work name
 7. C.P. Wang, J.P. Zheng, Y. Yu, H.F. Hu, X.J. Liu, Experimental investigation and thermodynamic calculation of the phase equilibria in the Fe–Nb–Ti ternary system, Materials Chemistry and Physics 130, 806-814 (2011). [doi:10.1016/j.matchemphys.2011.07.071](https://doi.org/10.1016/j.matchemphys.2011.07.071)
 8. K. Santhy, K.C. Hari Kumar, Thermodynamic modelling of magnetic laves phase in Fe–Ti system using first principle method, Intermetallics 128, 106978 (2021). [doi:10.1016/j.intermet.2020.106978](https://doi.org/10.1016/j.intermet.2020.106978)
 9. Zhi Liang, Ursula Kattner, Kamal Choudharry, Francesca Tavazza, Carelyn Campbell, Thermodynamic Assessments of Ti-Al, Ti-Fe, and Ti-Al-Fe Systems with Four-Sublattice Description of Ordered Body-Centered Cubic Phase and Density Functional Theory Data, J. Phase Equilib. Diffus. 45, 732-756 (2024). [doi:10.1007/s11669-024-01124-9](https://doi.org/10.1007/s11669-024-01124-9)
+10. Jozefien De Keyzer, Gabriele Cacciamani, Nathalie Dupin, Patrick Wollants, Thermodynamic modeling and optimization of the Fe–Ni–Ti system, Calphad 33, 109-123 (2009). [doi:10.1016/j.calphad.2008.10.003](https://doi.org/10.1016/j.calphad.2008.10.003)
 
 ## Please cite
 

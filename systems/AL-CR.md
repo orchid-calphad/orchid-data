@@ -493,8 +493,8 @@ Table: Mixing / partial, Al–Cr system
 | Enthalpy of mixing; _printed: ΔHmix_ | -19.04 kJ/mol-atom | 0 | γ’; _alloy: Al 0.75, Cr 0.25_ | DFT | [8] Liu 2016 | Table 9, p. 43, row 7; `ORC-DDS6WWAX23` |  |
 | Enthalpy of mixing; _printed: ΔHmix_ | -12.94 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Cr 0.75_ | DFT | [8] Liu 2016 | Table 9, p. 43, row 3; `ORC-UWBYNJLERZ` |  |
 | Gibbs energy of mixing; _printed: ΔG^exp at 1000°C_ | -16.28 kJ/mol-atom | 1273.15 | Al4Cr; _alloy: Al 0.8, Cr 0.2_ | experimental | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 5; `ORC-LSLZ6CGKOQ.d77024` |  |
+| Gibbs energy of mixing; _printed: ΔGexp_ | -23.79 kJ/mol-atom | 1273.15 | Al8Cr5; _alloy: Al 0.6, Cr 0.4_ | experimental | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 9; `ORC-4OC5YD5B5T.19f05b` |  |
 | Gibbs energy of mixing; _printed: ΔG^exp at 1000°C_ | -21.51 kJ/mol-atom | 1273.15 | Al9Cr4 (l); _alloy: Al 0.69, Cr 0.31_ | experimental | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 7; `ORC-PDPECKEWAL.45b004` |  |
-| Gibbs energy of mixing; _printed: ΔGexp_ | -23.79 kJ/mol-atom | 1273.15 | UNKNOWN; _alloy: Al 0.6, Cr 0.4_ | experimental | [6] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 9; `ORC-4OC5YD5B5T.19f05b` |  |
 
 ### Activity / EMF / Gibbs energy (5)
 
@@ -503,10 +503,10 @@ Table: Activity / EMF / Gibbs energy, Al–Cr system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy; _printed: ΔG^calc at 1000°C_ | -17.55 kJ mol−1 of atoms | 1273.15 | Al4Cr; _alloy: Al 0.8, Cr 0.2_ | model | [6] Saunders 1986 | Table 1, p. 4, row 6; `ORC-SUPC2RDQAU.517df5` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -17.55 kJ mol^-1 of atoms | 1273.15 | Al4Cr; _alloy: Al 0.8, Cr 0.2_ | model | [6] Saunders 1986 | Table 1, p. 4, row 6; `ORC-SUPC2RDQAU.72f137` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -24.19 kJ mol^-1 of atoms | 1273.15 | Al8Cr5; _alloy: Al 0.6, Cr 0.4_ | model | [6] Saunders 1986 | Table 1, p. 4, row 10; `ORC-MCYZV6PQAD.d4a7b1` |  |
+| Gibbs energy; _printed: ΔGcalc_ | -21.96 kJ mol^-1 of atoms | 1273.15 | Al9Cr4 (l); _alloy: Al 0.69, Cr 0.31_ | model | [6] Saunders 1986 | Table 1, p. 4, row 8; `ORC-VXJZM6BOO7.712320` |  |
 | Gibbs energy; _printed: ΔG^calc at 1000°C_ | -21.96 kJ mol−1 of atoms | 1273.15 | Al9Cr4 (l); _alloy: Al 0.69, Cr 0.31_ | model | [6] Saunders 1986 | Table 1, p. 4, row 8; `ORC-VXJZM6BOO7.a7b327` |  |
-| Gibbs energy; _printed: ΔGcalc_ | -24.19 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.6, Cr 0.4_ | model | [6] Saunders 1986 | Table 1, p. 4, row 10; `ORC-MCYZV6PQAD.d4a7b1` |  |
-| Gibbs energy; _printed: ΔGcalc_ | -17.55 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.8, Cr 0.2_ | model | [6] Saunders 1986 | Table 1, p. 4, row 6; `ORC-SUPC2RDQAU.72f137` |  |
-| Gibbs energy; _printed: ΔGcalc_ | -21.96 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.69, Cr 0.31_ | model | [6] Saunders 1986 | Table 1, p. 4, row 8; `ORC-VXJZM6BOO7.712320` |  |
 
 ### Crystal structure (46)
 

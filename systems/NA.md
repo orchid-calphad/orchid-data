@@ -43,13 +43,13 @@ Table: Crystal structure, Na system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 4.23 Å |  | (Na); _alloy: Na 1_ | unspecified | [2] Wang 2012 | Table 1, p. 3, row 10; `ORC-SGAVFCHZHN` |  |
-| Lattice a | 4.203 Å |  | UNKNOWN; _alloy: Na 1_ | DFT | [3] Hao 2012 | Table 1, p. 5, row 2; `ORC-J57M47N6KP` |  |
+| Lattice a | 4.203 Å |  | Na; _alloy: Na 1_ | DFT | [3] Hao 2012 | Table 1, p. 5, row 2; `ORC-J57M47N6KP` |  |
 | Lattice a; _printed: Lattice constant a_ | 4.282 Å ± 5.000e-4 | 293 | Na; _alloy: Na 1_ | experimental | [1] Zhang 2006; _cites Aruja 1939_ | Table 2, p. 3, row 25; `ORC-EDF5JHF7EI` |  |
 | Lattice a; _printed: Lattice constant a_ | 4.197 Å | 293 | Na; _alloy: Na 1_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 24; `ORC-J47T5NCK7A` |  |
 | Lattice a | 4.28865 Å ± 2.600e-4 | 295 | β-Na (bcc) | unspecified | [4] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 1; `ORC-YQTVPOBIJK` |  |
 | Lattice a | 4.21 Å | 298.15 | (Na); _alloy: Na 1_ | model | [2] Wang 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 3, row 9; `ORC-EW772AKOJP` |  |
-| Lattice a | 4.235 Å | 298.15 | UNKNOWN; _alloy: Na 1_ | experimental | [3] Hao 2012; _cites Barrett 1956_ | Table 1, p. 5, row 1; `ORC-QYZBMMSRQU` |  |
-| Lattice a | 4.2096 Å | 370.1 (\<) | UNKNOWN; _alloy: Na 1_ | model | [5] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 3; `ORC-AO5YJDOC37` |  |
+| Lattice a | 4.235 Å | 298.15 | Na; _alloy: Na 1_ | experimental | [3] Hao 2012; _cites Barrett 1956_ | Table 1, p. 5, row 1; `ORC-QYZBMMSRQU` |  |
+| Lattice a | 4.2096 Å | 370.1 (\<) | (Na); _alloy: Na 1_ | model | [5] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 3; `ORC-AO5YJDOC37` |  |
 
 ## Sources
 

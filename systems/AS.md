@@ -1,10 +1,10 @@
 # As system
 
-> As system: 2 accepted literature values (crystal structure 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> As system: 6 accepted literature values (crystal structure 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AS.html · Markdown: https://data.orchid-project.org/systems/AS.md
 
-2 accepted literature values from 1 paper(s) (unspecified 2); 0 calculated phase diagram(s).
+6 accepted literature values from 2 paper(s) (experimental 2, DFT 2, unspecified 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AS.json) · [CSV](https://data.orchid-project.org/systems/AS.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS.html) · [Markdown](https://data.orchid-project.org/systems/AS.md)
 
@@ -12,30 +12,37 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
+| experimental | 2 |
+| DFT | 2 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 2 |
+| crystal structure | 6 |
 
 ## Other properties
 
-### Crystal structure (2)
+### Crystal structure (6)
 
 Table: Crystal structure, As system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.132 Å | 298.15 | (αAs); _(αAs): As 1_ | unspecified | [1] Alcock 1986; _cites ref. 2_ | Table 1, p. 3, row 4; `ORC-GVE2VERH6H.a3c7a4` |  |
-| lattice alpha | 54.12 ° | 298.15 | (αAs); _(αAs): As 1_ | unspecified | [1] Alcock 1986; _cites ref. 2_ | Table 1, p. 3, row 4; `ORC-GVE2VERH6H.0d4397` |  |
+| Lattice a | 4.188 Å |  | αAs | DFT | [1] Ohno 2008 | Table 2, p. 3, row 2; `ORC-SF3KV26ZGJ` |  |
+| Lattice a | 4.132 Å | 298.15 | (αAs); _(αAs): As 1_ | unspecified | [2] Alcock 1986; _cites ref. 2_ | Table 1, p. 3, row 4; `ORC-GVE2VERH6H.a3c7a4` |  |
+| Lattice a | 4.132 Å | 298.15 | αAs | experimental | [1] Ohno 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 1; `ORC-TF4MPGKHFN` |  |
+| lattice alpha | 54.12 ° | 298.15 | (αAs); _(αAs): As 1_ | unspecified | [2] Alcock 1986; _cites ref. 2_ | Table 1, p. 3, row 4; `ORC-GVE2VERH6H.0d4397` |  |
+| lattice unspecified angle | 54.26 ° |  | αAs | DFT | [1] Ohno 2008 | Table 2, p. 3, row 4; `ORC-JX6V3SPNTX` |  |
+| lattice unspecified angle | 54.12 ° | 298.15 | αAs | experimental | [1] Ohno 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 3; `ORC-AHSSB4RTTO` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. C. B. Alcock, V. P. Itkin, The Ba−Ca (Barium-Calcium) system, Bulletin of Alloy Phase Diagrams 7, 338-340 (1986). [doi:10.1007/bf02873004](https://doi.org/10.1007/bf02873004)
+1. Munekazu Ohno, Kanji Yoh, Thermodynamic modeling of the system As–Fe combined with first-principles total energy calculations, Journal of Crystal Growth 310, 2751-2759 (2008). [doi:10.1016/j.jcrysgro.2008.02.017](https://doi.org/10.1016/j.jcrysgro.2008.02.017)
+2. C. B. Alcock, V. P. Itkin, The Ba−Ca (Barium-Calcium) system, Bulletin of Alloy Phase Diagrams 7, 338-340 (1986). [doi:10.1007/bf02873004](https://doi.org/10.1007/bf02873004)
 
 ## Please cite
 

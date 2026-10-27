@@ -115,20 +115,20 @@ Table: Crystal structure, Na–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.335 Å | 4 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7; `ORC-OSFZOOMNFY.3142fb` |  |
-| Lattice a | 4.26 Å | 173 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8; `ORC-MMBTJQNKMU.2a93ca` |  |
-| Lattice a | 5.46 Å ± 0.01 | 203 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 9; `ORC-FT3C5U5NYJ` |  |
-| Lattice a | 3.507 Å ± 2.000e-4 | 213 | UNKNOWN; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11; `ORC-335I2P2XRC.a3b1aa` |  |
-| Lattice a | 5.512 Å ± 0.02 | 293 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 10; `ORC-BGHIE5CEDE` |  |
-| Lattice a | 5.55 Å | 295 | UNKNOWN; _alloy: O 0.333333_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 2; `ORC-FYEDATGJ4P` |  |
-| Lattice a | 6.207 Å ± 0.004 | 295 | UNKNOWN; _alloy: O 0.5_ | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 5; `ORC-RJG6HFIFUP.370f0d` |  |
-| Lattice b | 5.537 Å | 4 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7; `ORC-OSFZOOMNFY.821c4c` |  |
-| Lattice b | 5.54 Å | 173 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8; `ORC-MMBTJQNKMU.4a7237` |  |
-| Lattice b | 5.7703 Å ± 3.000e-4 | 213 | UNKNOWN; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11; `ORC-335I2P2XRC.50ec36` |  |
-| Lattice c | 3.363 Å | 4 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7; `ORC-OSFZOOMNFY.ec77d4` |  |
-| Lattice c | 3.44 Å | 173 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8; `ORC-MMBTJQNKMU.c65a11` |  |
-| Lattice c | 5.2708 Å ± 3.000e-4 | 213 | UNKNOWN; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11; `ORC-335I2P2XRC.9d2572` |  |
-| Lattice c | 4.471 Å ± 0.003 | 295 | UNKNOWN; _alloy: O 0.5_ | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 5; `ORC-RJG6HFIFUP.7f3e72` |  |
+| Lattice a | 4.335 Å | 4 | NaO2-IV; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7; `ORC-OSFZOOMNFY.3142fb` |  |
+| Lattice a | 4.26 Å | 173 | NaO2-III; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8; `ORC-MMBTJQNKMU.2a93ca` |  |
+| Lattice a | 5.46 Å ± 0.01 | 203 | NaO2-II; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 9; `ORC-FT3C5U5NYJ` |  |
+| Lattice a | 3.507 Å ± 2.000e-4 | 213 | NaO3; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11; `ORC-335I2P2XRC.a3b1aa` |  |
+| Lattice a | 5.512 Å ± 0.02 | 293 | NaO2-I; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 10; `ORC-BGHIE5CEDE` |  |
+| Lattice a | 5.55 Å | 295 | Na2O-I; _alloy: O 0.333333_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 2; `ORC-FYEDATGJ4P` |  |
+| Lattice a | 6.207 Å ± 0.004 | 295 | Na2O2-I; _alloy: O 0.5_ | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 5; `ORC-RJG6HFIFUP.370f0d` |  |
+| Lattice b | 5.537 Å | 4 | NaO2-IV; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7; `ORC-OSFZOOMNFY.821c4c` |  |
+| Lattice b | 5.54 Å | 173 | NaO2-III; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8; `ORC-MMBTJQNKMU.4a7237` |  |
+| Lattice b | 5.7703 Å ± 3.000e-4 | 213 | NaO3; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11; `ORC-335I2P2XRC.50ec36` |  |
+| Lattice c | 3.363 Å | 4 | NaO2-IV; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7; `ORC-OSFZOOMNFY.ec77d4` |  |
+| Lattice c | 3.44 Å | 173 | NaO2-III; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8; `ORC-MMBTJQNKMU.c65a11` |  |
+| Lattice c | 5.2708 Å ± 3.000e-4 | 213 | NaO3; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11; `ORC-335I2P2XRC.9d2572` |  |
+| Lattice c | 4.471 Å ± 0.003 | 295 | Na2O2-I; _alloy: O 0.5_ | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 5; `ORC-RJG6HFIFUP.7f3e72` |  |
 
 ### Other property (1)
 

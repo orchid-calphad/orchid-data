@@ -140,45 +140,45 @@ Table: Crystal structure, Cr–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.641 Å |  | C14; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3; `ORC-4EYZXUDXPN.d17fbd` |  |
+| Lattice a | 6.178 Å |  | C14; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6; `ORC-FAK2QGJR4D.8f8754` |  |
+| Lattice a | 6.479 Å |  | C14; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5; `ORC-LYB66QMP4V.9fab1c` |  |
+| Lattice a | 6.363 Å |  | C14; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4; `ORC-MGUB7TMRMU.4deecc` |  |
+| Lattice a | 5.087 Å |  | C14; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2; `ORC-OTDANKRDPH.c9cc21` |  |
 | Lattice a | 6.58 Å |  | C15; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 17; `ORC-6232SQANE4.a47c73` |  |
 | Lattice a | 7.81 Å |  | C15; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 18; `ORC-FWC6275AY4.44f66a` |  |
 | Lattice a | 7.124 Å |  | C15; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 16; `ORC-YMXLOL4HPR.0569f8` |  |
+| Lattice a | 6.348 Å |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11; `ORC-AJZF7DUBOJ.392ebf` |  |
 | Lattice a | 5.056 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.e8c44f` |  |
+| Lattice a | 4.651 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10; `ORC-GOJFOYLSDQ.c889aa` |  |
 | Lattice a | 6.178 Å |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.4b1151` |  |
 | Lattice a | 6.348 Å |  | C36; _alloy: Zr 0.5_ | DFT | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.5ad240` |  |
+| Lattice a | 5.056 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9; `ORC-OHTOH5BFYA.4b7010` |  |
 | Lattice a | 6.465 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.b4acd4` |  |
 | Lattice a | 4.651 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.65e8b5` |  |
-| Lattice a | 4.641 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3; `ORC-4EYZXUDXPN.d17fbd` |  |
-| Lattice a | 6.348 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11; `ORC-AJZF7DUBOJ.392ebf` |  |
-| Lattice a | 6.178 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6; `ORC-FAK2QGJR4D.8f8754` |  |
-| Lattice a | 4.651 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10; `ORC-GOJFOYLSDQ.c889aa` |  |
-| Lattice a | 6.479 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5; `ORC-LYB66QMP4V.9fab1c` |  |
-| Lattice a | 6.363 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4; `ORC-MGUB7TMRMU.4deecc` |  |
-| Lattice a | 5.056 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9; `ORC-OHTOH5BFYA.4b7010` |  |
-| Lattice a | 5.087 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2; `ORC-OTDANKRDPH.c9cc21` |  |
-| Lattice a | 6.465 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12; `ORC-Z4EFR7U2WU.4d37c4` |  |
+| Lattice a | 6.465 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12; `ORC-Z4EFR7U2WU.4d37c4` |  |
+| Lattice a | 5.102 Å | 298.15 | C14; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1; `ORC-WOEGAYC3CK.411e47` |  |
 | Lattice a | 7.2 Å | 298.15 | C15; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 15; `ORC-LRD4M5RNAQ.779e56` |  |
+| Lattice a | 5.1 Å | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8; `ORC-4VAFR7Q4UV.7ff1b3` |  |
 | Lattice a | 5.1 Å | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.217a29` |  |
-| Lattice a | 5.1 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8; `ORC-4VAFR7Q4UV.7ff1b3` |  |
-| Lattice a | 5.102 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1; `ORC-WOEGAYC3CK.411e47` |  |
+| Lattice c | 7.663 Å |  | C14; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3; `ORC-4EYZXUDXPN.0f2c63` |  |
+| Lattice c | 7.739 Å |  | C14; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6; `ORC-FAK2QGJR4D.a35173` |  |
+| Lattice c | 6.743 Å |  | C14; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5; `ORC-LYB66QMP4V.45c934` |  |
+| Lattice c | 6.367 Å |  | C14; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4; `ORC-MGUB7TMRMU.a602b7` |  |
+| Lattice c | 8.074 Å |  | C14; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2; `ORC-OTDANKRDPH.f2565e` |  |
+| Lattice c | 12.814 Å |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11; `ORC-AJZF7DUBOJ.757619` |  |
 | Lattice c | 16.339 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.99a9b7` |  |
+| Lattice c | 15.231 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10; `ORC-GOJFOYLSDQ.a83408` |  |
 | Lattice c | 15.445 Å |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.9b83ae` |  |
 | Lattice c | 12.814 Å |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.452b30` |  |
+| Lattice c | 15.445 Å |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 13; `ORC-LJ5PNDBTG2.8d32e0` |  |
+| Lattice c | 16.339 Å |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9; `ORC-OHTOH5BFYA.e17f11` |  |
 | Lattice c | 13.632 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.45486e` |  |
 | Lattice c | 15.231 Å |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.a396ec` |  |
-| Lattice c | 7.663 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3; `ORC-4EYZXUDXPN.0f2c63` |  |
-| Lattice c | 12.814 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11; `ORC-AJZF7DUBOJ.757619` |  |
-| Lattice c | 7.739 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6; `ORC-FAK2QGJR4D.a35173` |  |
-| Lattice c | 15.231 Å |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10; `ORC-GOJFOYLSDQ.a83408` |  |
-| Lattice c | 15.445 Å |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 13; `ORC-LJ5PNDBTG2.8d32e0` |  |
-| Lattice c | 6.743 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5; `ORC-LYB66QMP4V.45c934` |  |
-| Lattice c | 6.367 Å |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4; `ORC-MGUB7TMRMU.a602b7` |  |
-| Lattice c | 16.339 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9; `ORC-OHTOH5BFYA.e17f11` |  |
-| Lattice c | 8.074 Å |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2; `ORC-OTDANKRDPH.f2565e` |  |
-| Lattice c | 13.632 Å |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12; `ORC-Z4EFR7U2WU.ea7392` |  |
+| Lattice c | 13.632 Å |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12; `ORC-Z4EFR7U2WU.ea7392` |  |
+| Lattice c | 8.273 Å | 298.15 | C14; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1; `ORC-WOEGAYC3CK.176076` |  |
+| Lattice c | 16.611 Å | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8; `ORC-4VAFR7Q4UV.b36713` |  |
 | Lattice c | 16.611 Å | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.23a001` |  |
-| Lattice c | 16.611 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8; `ORC-4VAFR7Q4UV.b36713` |  |
-| Lattice c | 8.273 Å | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1; `ORC-WOEGAYC3CK.176076` |  |
 | lattice 4e z | 0.095 not_printed |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 21; `ORC-FV3UHFE4IH.c51585` |  |
 | lattice 4e z | 0.089 not_printed |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 25; `ORC-HIHQYF5YZV.3a01a1` |  |
 | lattice 4e z | 0.062 not_printed |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 23; `ORC-KJT4XXNOHL.25ab33` |  |
@@ -209,18 +209,18 @@ Table: Crystal structure, Cr–Zr system
 | lattice 6h y | 0.288 not_printed |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 24; `ORC-UY43O34OAG.e5cf13` |  |
 | lattice 6h y | 0.325 not_printed |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 22; `ORC-XNDRKJG7AQ.7fd109` |  |
 | lattice 6h y | 0.334 not_printed | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 20; `ORC-GOYXGC63KA.c9caab` |  |
-| lattice v | 1.1912 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3; `ORC-4EYZXUDXPN.ccb527` |  |
-| lattice v | 1.8633 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11; `ORC-AJZF7DUBOJ.adb542` |  |
-| lattice v | 2.1319 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6; `ORC-FAK2QGJR4D.bdef1b` |  |
-| lattice v | 1.1889 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10; `ORC-GOJFOYLSDQ.1dd48f` |  |
-| lattice v | 2.127 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 13; `ORC-LJ5PNDBTG2.76a3de` |  |
-| lattice v | 2.0426 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5; `ORC-LYB66QMP4V.a567fa` |  |
-| lattice v | 1.8601 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4; `ORC-MGUB7TMRMU.174175` |  |
-| lattice v | 1.5071 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9; `ORC-OHTOH5BFYA.24e84f` |  |
-| lattice v | 1.5076 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2; `ORC-OTDANKRDPH.e1f6fd` |  |
-| lattice v | 2.0557 10^7 pm^3 |  | UNKNOWN; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12; `ORC-Z4EFR7U2WU.4c1915` |  |
-| lattice v | 1.5592 10^7 pm^3 | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8; `ORC-4VAFR7Q4UV.50be25` |  |
-| lattice v | 1.5542 10^7 pm^3 | 298.15 | UNKNOWN; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1; `ORC-WOEGAYC3CK.23f828` |  |
+| lattice v | 1.1912 10^7 pm^3 |  | C14; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 3; `ORC-4EYZXUDXPN.ccb527` |  |
+| lattice v | 2.1319 10^7 pm^3 |  | C14; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 6; `ORC-FAK2QGJR4D.bdef1b` |  |
+| lattice v | 2.0426 10^7 pm^3 |  | C14; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 5; `ORC-LYB66QMP4V.a567fa` |  |
+| lattice v | 1.8601 10^7 pm^3 |  | C14; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 4; `ORC-MGUB7TMRMU.174175` |  |
+| lattice v | 1.5076 10^7 pm^3 |  | C14; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 2; `ORC-OTDANKRDPH.e1f6fd` |  |
+| lattice v | 1.8633 10^7 pm^3 |  | C36; _alloy: Zr 0.5_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 11; `ORC-AJZF7DUBOJ.adb542` |  |
+| lattice v | 1.1889 10^7 pm^3 |  | C36; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 10; `ORC-GOJFOYLSDQ.1dd48f` |  |
+| lattice v | 2.127 10^7 pm^3 |  | C36; _alloy: Zr 0.833333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 13; `ORC-LJ5PNDBTG2.76a3de` |  |
+| lattice v | 1.5071 10^7 pm^3 |  | C36; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 9; `ORC-OHTOH5BFYA.24e84f` |  |
+| lattice v | 2.0557 10^7 pm^3 |  | C36; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 12; `ORC-Z4EFR7U2WU.4c1915` |  |
+| lattice v | 1.5542 10^7 pm^3 | 298.15 | C14; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 1; `ORC-WOEGAYC3CK.23f828` |  |
+| lattice v | 1.5592 10^7 pm^3 | 298.15 | C36; _alloy: Zr 0.333333_ | experimental | [1] Pavlů 2009; _cites Villars 1991_ | Table 2, p. 2, row 8; `ORC-4VAFR7Q4UV.50be25` |  |
 | lattice v atom | 1.1873 10^7 pm^3 |  | C15; _alloy: Zr 0_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 17; `ORC-6232SQANE4.0b0e41` |  |
 | lattice v atom | 1.9847 10^7 pm^3 |  | C15; _alloy: Zr 0.666667_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 18; `ORC-FWC6275AY4.f78494` |  |
 | lattice v atom | 1.5062 10^7 pm^3 |  | C15; _alloy: Zr 0.333333_ | model | [1] Pavlů 2009 | Table 2, p. 2, row 16; `ORC-YMXLOL4HPR.5a07a0` |  |

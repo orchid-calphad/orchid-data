@@ -216,45 +216,45 @@ Table: Crystal structure, Ca–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.173 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43; `ORC-236FMJJ33C.e2cd59` |  |
-| Lattice a | 4.45 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37; `ORC-3VUFTVNMO4.5d8555` |  |
-| Lattice a | 7.92 Å | 0 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | DFT | [1] Li 2013 | Table 1, p. 2, row 33; `ORC-FORCWB7K2E.7ca18b` |  |
-| Lattice a | 4.187 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35; `ORC-MQG6GQPQ7J.9c9379` |  |
-| Lattice a | 16.072 Å | 0 | UNKNOWN; _alloy: Ca 0.611111, Ga 0.388889_ | DFT | [1] Li 2013 | Table 1, p. 2, row 31; `ORC-MW43XBXCSW` |  |
-| Lattice a | 4.301 Å | 0 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | DFT | [1] Li 2013 | Table 1, p. 2, row 41; `ORC-S7LIGMX7OH.3c5160` |  |
-| Lattice a | 4.451 Å | 0 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 39; `ORC-VAMWJSPZ6A.17dfe2` |  |
-| Lattice a | 5.551 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29; `ORC-WDCXO2IOHK.9c1a2f` |  |
-| Lattice a | 6.184 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42; `ORC-2CBGHBDZNQ.f6c6e9` |  |
-| Lattice a | 4.463 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36; `ORC-6TILKVVYSC.d0b043` |  |
-| Lattice a | 16.109 Å | 298.15 | UNKNOWN; _alloy: Ca 0.611111, Ga 0.388889_ | experimental | [1] Li 2013; _cites Fornasini 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.111) | Table 1, p. 2, row 30; `ORC-KOK6RY6YJT` |  |
-| Lattice a | 5.324 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28; `ORC-NFEWP6LSMU.a325f0` |  |
-| Lattice a | 7.954 Å | 298.15 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | experimental | [1] Li 2013; _cites Bruzzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990089-9) | Table 1, p. 2, row 32; `ORC-NTYQ5HO3DG.6dd1a2` |  |
-| Lattice a | 4.323 Å | 298.15 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | unspecified | [1] Li 2013; _cites Bruzzone 1988_ | Table 1, p. 2, row 40; `ORC-NXE2QPGVVI.2aa201` |  |
-| Lattice a | 4.467 Å | 298.15 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 38; `ORC-UPZ6Z5R5E7.c3f38a` |  |
-| Lattice a | 4.191 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34; `ORC-WCU2NWVZ2V.1d5877` |  |
-| Lattice a | 4.315 Å | 298.15 | UNKNOWN; _alloy: Ca 0.297619, Ga 0.702381_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 44; `ORC-YHT7A77NIK` |  |
-| Lattice b | 6.131 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43; `ORC-236FMJJ33C.6abfe6` |  |
-| Lattice b | 10.821 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37; `ORC-3VUFTVNMO4.414a1c` |  |
-| Lattice b | 11.48 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35; `ORC-MQG6GQPQ7J.503a07` |  |
-| Lattice b | 7.5 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29; `ORC-WDCXO2IOHK.cd1d01` |  |
-| Lattice b | 6.132 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42; `ORC-2CBGHBDZNQ.e27072` |  |
-| Lattice b | 10.799 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36; `ORC-6TILKVVYSC.1d3f6c` |  |
-| Lattice b | 7.488 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28; `ORC-NFEWP6LSMU.1e5a09` |  |
-| Lattice b | 11.457 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34; `ORC-WCU2NWVZ2V.9df06f` |  |
-| Lattice c | 6.104 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43; `ORC-236FMJJ33C.0a5175` |  |
-| Lattice c | 15.003 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37; `ORC-3VUFTVNMO4.5e2be8` |  |
-| Lattice c | 15.072 Å | 0 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | DFT | [1] Li 2013 | Table 1, p. 2, row 33; `ORC-FORCWB7K2E.c986aa` |  |
-| Lattice c | 4.362 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35; `ORC-MQG6GQPQ7J.2195a9` |  |
-| Lattice c | 25.86 Å | 0 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | DFT | [1] Li 2013 | Table 1, p. 2, row 41; `ORC-S7LIGMX7OH.320f7b` |  |
-| Lattice c | 7.411 Å | 0 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 39; `ORC-VAMWJSPZ6A.6745d6` |  |
-| Lattice c | 31.237 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29; `ORC-WDCXO2IOHK.9177dd` |  |
-| Lattice c | 6.12 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42; `ORC-2CBGHBDZNQ.726990` |  |
-| Lattice c | 15.025 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36; `ORC-6TILKVVYSC.368f3e` |  |
-| Lattice c | 31.064 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28; `ORC-NFEWP6LSMU.d5ac60` |  |
-| Lattice c | 15.084 Å | 298.15 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | experimental | [1] Li 2013; _cites Bruzzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990089-9) | Table 1, p. 2, row 32; `ORC-NTYQ5HO3DG.051086` |  |
-| Lattice c | 25.843 Å | 298.15 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | unspecified | [1] Li 2013; _cites Bruzzone 1988_ | Table 1, p. 2, row 40; `ORC-NXE2QPGVVI.4c4aab` |  |
-| Lattice c | 7.393 Å | 298.15 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 38; `ORC-UPZ6Z5R5E7.169783` |  |
-| Lattice c | 4.387 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34; `ORC-WCU2NWVZ2V.d5d171` |  |
+| Lattice a | 16.072 Å | 0 | Ca11Ga7; _alloy: Ca 0.611111, Ga 0.388889_ | DFT | [1] Li 2013 | Table 1, p. 2, row 31; `ORC-MW43XBXCSW` |  |
+| Lattice a | 5.551 Å | 0 | Ca28Ga11; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29; `ORC-WDCXO2IOHK.9c1a2f` |  |
+| Lattice a | 4.45 Å | 0 | Ca3Ga5; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37; `ORC-3VUFTVNMO4.5d8555` |  |
+| Lattice a | 4.301 Å | 0 | Ca3Ga8; _alloy: Ca 0.272727, Ga 0.727273_ | DFT | [1] Li 2013 | Table 1, p. 2, row 41; `ORC-S7LIGMX7OH.3c5160` |  |
+| Lattice a | 7.92 Å | 0 | Ca5Ga3; _alloy: Ca 0.625, Ga 0.375_ | DFT | [1] Li 2013 | Table 1, p. 2, row 33; `ORC-FORCWB7K2E.7ca18b` |  |
+| Lattice a | 4.187 Å | 0 | CaGa; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35; `ORC-MQG6GQPQ7J.9c9379` |  |
+| Lattice a | 4.451 Å | 0 | CaGa2; _alloy: Ca 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 39; `ORC-VAMWJSPZ6A.17dfe2` |  |
+| Lattice a | 6.173 Å | 0 | CaGa4; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43; `ORC-236FMJJ33C.e2cd59` |  |
+| Lattice a | 16.109 Å | 298.15 | Ca11Ga7; _alloy: Ca 0.611111, Ga 0.388889_ | experimental | [1] Li 2013; _cites Fornasini 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.111) | Table 1, p. 2, row 30; `ORC-KOK6RY6YJT` |  |
+| Lattice a | 4.315 Å | 298.15 | Ca25Ga59; _alloy: Ca 0.297619, Ga 0.702381_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 44; `ORC-YHT7A77NIK` |  |
+| Lattice a | 5.324 Å | 298.15 | Ca28Ga11; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28; `ORC-NFEWP6LSMU.a325f0` |  |
+| Lattice a | 4.463 Å | 298.15 | Ca3Ga5; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36; `ORC-6TILKVVYSC.d0b043` |  |
+| Lattice a | 4.323 Å | 298.15 | Ca3Ga8; _alloy: Ca 0.272727, Ga 0.727273_ | unspecified | [1] Li 2013; _cites Bruzzone 1988_ | Table 1, p. 2, row 40; `ORC-NXE2QPGVVI.2aa201` |  |
+| Lattice a | 7.954 Å | 298.15 | Ca5Ga3; _alloy: Ca 0.625, Ga 0.375_ | experimental | [1] Li 2013; _cites Bruzzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990089-9) | Table 1, p. 2, row 32; `ORC-NTYQ5HO3DG.6dd1a2` |  |
+| Lattice a | 4.191 Å | 298.15 | CaGa; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34; `ORC-WCU2NWVZ2V.1d5877` |  |
+| Lattice a | 4.467 Å | 298.15 | CaGa2; _alloy: Ca 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 38; `ORC-UPZ6Z5R5E7.c3f38a` |  |
+| Lattice a | 6.184 Å | 298.15 | CaGa4; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42; `ORC-2CBGHBDZNQ.f6c6e9` |  |
+| Lattice b | 7.5 Å | 0 | Ca28Ga11; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29; `ORC-WDCXO2IOHK.cd1d01` |  |
+| Lattice b | 10.821 Å | 0 | Ca3Ga5; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37; `ORC-3VUFTVNMO4.414a1c` |  |
+| Lattice b | 11.48 Å | 0 | CaGa; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35; `ORC-MQG6GQPQ7J.503a07` |  |
+| Lattice b | 6.131 Å | 0 | CaGa4; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43; `ORC-236FMJJ33C.6abfe6` |  |
+| Lattice b | 7.488 Å | 298.15 | Ca28Ga11; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28; `ORC-NFEWP6LSMU.1e5a09` |  |
+| Lattice b | 10.799 Å | 298.15 | Ca3Ga5; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36; `ORC-6TILKVVYSC.1d3f6c` |  |
+| Lattice b | 11.457 Å | 298.15 | CaGa; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34; `ORC-WCU2NWVZ2V.9df06f` |  |
+| Lattice b | 6.132 Å | 298.15 | CaGa4; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42; `ORC-2CBGHBDZNQ.e27072` |  |
+| Lattice c | 31.237 Å | 0 | Ca28Ga11; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29; `ORC-WDCXO2IOHK.9177dd` |  |
+| Lattice c | 15.003 Å | 0 | Ca3Ga5; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37; `ORC-3VUFTVNMO4.5e2be8` |  |
+| Lattice c | 25.86 Å | 0 | Ca3Ga8; _alloy: Ca 0.272727, Ga 0.727273_ | DFT | [1] Li 2013 | Table 1, p. 2, row 41; `ORC-S7LIGMX7OH.320f7b` |  |
+| Lattice c | 15.072 Å | 0 | Ca5Ga3; _alloy: Ca 0.625, Ga 0.375_ | DFT | [1] Li 2013 | Table 1, p. 2, row 33; `ORC-FORCWB7K2E.c986aa` |  |
+| Lattice c | 4.362 Å | 0 | CaGa; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35; `ORC-MQG6GQPQ7J.2195a9` |  |
+| Lattice c | 7.411 Å | 0 | CaGa2; _alloy: Ca 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 39; `ORC-VAMWJSPZ6A.6745d6` |  |
+| Lattice c | 6.104 Å | 0 | CaGa4; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43; `ORC-236FMJJ33C.0a5175` |  |
+| Lattice c | 31.064 Å | 298.15 | Ca28Ga11; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28; `ORC-NFEWP6LSMU.d5ac60` |  |
+| Lattice c | 15.025 Å | 298.15 | Ca3Ga5; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36; `ORC-6TILKVVYSC.368f3e` |  |
+| Lattice c | 25.843 Å | 298.15 | Ca3Ga8; _alloy: Ca 0.272727, Ga 0.727273_ | unspecified | [1] Li 2013; _cites Bruzzone 1988_ | Table 1, p. 2, row 40; `ORC-NXE2QPGVVI.4c4aab` |  |
+| Lattice c | 15.084 Å | 298.15 | Ca5Ga3; _alloy: Ca 0.625, Ga 0.375_ | experimental | [1] Li 2013; _cites Bruzzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990089-9) | Table 1, p. 2, row 32; `ORC-NTYQ5HO3DG.051086` |  |
+| Lattice c | 4.387 Å | 298.15 | CaGa; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34; `ORC-WCU2NWVZ2V.d5d171` |  |
+| Lattice c | 7.393 Å | 298.15 | CaGa2; _alloy: Ca 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 38; `ORC-UPZ6Z5R5E7.169783` |  |
+| Lattice c | 6.12 Å | 298.15 | CaGa4; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42; `ORC-2CBGHBDZNQ.726990` |  |
 
 ## Sources
 

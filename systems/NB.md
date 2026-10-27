@@ -80,36 +80,36 @@ Table: Crystal structure, Nb system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.322 Å |  | (Nb); _alloy: Nb 1_ | model | [7] Liu 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 5, p. 9, row 8; `ORC-AJA5CODC2X.4198f5` |  |
 | Lattice a | 3.32 Å |  | (Nb); _alloy: Nb 1_ | model | [7] Liu 2012 | Table 5, p. 9, row 7; `ORC-OI4SYKUVUN.99a902` |  |
+| Lattice a | 3.2929 Å | 0 | BCC; _alloy: Nb 1_ | DFT | [8] Ghosh 2002 | Table 1, p. 6, row 7; `ORC-UJNER7X26S` |  |
 | Lattice a | 5.467 Å | 0 | C14; _alloy: Nb 1_ | DFT | [7] Liu 2012 | Table 4, p. 8, row 10; `ORC-DZHKMVKZ5P.a3e307` |  |
 | Lattice a | 5.5 Å | 0 | C14; _alloy: Nb 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 2; `ORC-H44DNK52J2.7a6a97` |  |
 | Lattice a | 7.69 Å | 0 | C15; _alloy: Nb 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 11; `ORC-DPTRJGP2ZM.670a49` |  |
 | Lattice a; _printed: a_ | 7.67 Å | 0 | C15; _alloy: Nb 1_ | DFT | [3] Lu 2017 | Table 2, p. 3, row 11; `ORC-I7XQX62O3B` |  |
 | Lattice a | 5.48 Å | 0 | C36; _alloy: Nb 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 20; `ORC-LZI7235JYJ.583aa6` |  |
 | Lattice a; _printed: a_ | 5.46 Å | 0 | C36; _alloy: Nb 1_ | DFT | [3] Lu 2017 | Table 2, p. 3, row 36; `ORC-W5IQTFOFIL.4982b8` |  |
-| Lattice a | 3.317 Å | 0 | Nb (bcc) | DFT | [8] Liu 2013 | Table 1, p. 4, row 4; `ORC-M6YDKDLVX3` |  |
-| Lattice a | 3.3 Å |  | Nb (bcc) | experimental | [8] Liu 2013; _cites Kittel 1995_ | Table 1, p. 4, row 6; `ORC-SDHTHO4HJX` |  |
-| Lattice a | 3.322 Å | 0 | Nb (bcc) | DFT | [8] Liu 2013; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 5; `ORC-XUK5EQBGQO` |  |
+| Lattice a | 4.1999 Å | 0 | FCC; _alloy: Nb 1_ | DFT | [8] Ghosh 2002 | Table 1, p. 6, row 9; `ORC-EMJ7BGJRNV` |  |
+| Lattice a | 2.8453 Å | 0 | HCP; _alloy: Nb 1_ | DFT | [8] Ghosh 2002 | Table 1, p. 6, row 10; `ORC-YPKUFFKRWL.b8d7ea` |  |
+| Lattice a | 3.317 Å | 0 | Nb (bcc) | DFT | [9] Liu 2013 | Table 1, p. 4, row 4; `ORC-M6YDKDLVX3` |  |
+| Lattice a | 3.3 Å |  | Nb (bcc) | experimental | [9] Liu 2013; _cites Kittel 1995_ | Table 1, p. 4, row 6; `ORC-SDHTHO4HJX` |  |
+| Lattice a | 3.322 Å | 0 | Nb (bcc) | DFT | [9] Liu 2013; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 5; `ORC-XUK5EQBGQO` |  |
 | Lattice a | 3.32 Å |  | Nonmagnetic BCC Nb; _alloy: Nb 1_ | unspecified | [2] Pavlů 2009 | Table 1, p. 3, row 3; `ORC-ECH7WVIK42` |  |
-| Lattice a; _printed: a_ | 7.69 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [9] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 17; `ORC-6CKPDM6X7F` |  |
-| Lattice a | 4.1999 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [10] Ghosh 2002 | Table 1, p. 6, row 9; `ORC-EMJ7BGJRNV` |  |
-| Lattice a | 3.2929 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [10] Ghosh 2002 | Table 1, p. 6, row 7; `ORC-UJNER7X26S` |  |
-| Lattice a; _printed: a_ | 7.74 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [9] Schmetterer 2014 | Table 6, p. 7, row 16; `ORC-W4FWIMABUF` |  |
-| Lattice a | 2.8453 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [10] Ghosh 2002 | Table 1, p. 6, row 10; `ORC-YPKUFFKRWL.b8d7ea` |  |
+| Lattice a; _printed: a_ | 7.69 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [10] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 17; `ORC-6CKPDM6X7F` |  |
+| Lattice a; _printed: a_ | 7.74 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [10] Schmetterer 2014 | Table 6, p. 7, row 16; `ORC-W4FWIMABUF` |  |
 | Lattice a | 5.456 Å | 0 | μ; _alloy: Nb 1_ | DFT | [7] Liu 2012 | Table 4, p. 8, row 34; `ORC-THLWLDVIFI.989d9e` |  |
 | Lattice a; _printed: a_ | 12.21 Å | 0 | τ1; _alloy: Nb 1_ | DFT | [3] Lu 2017 | Table 2, p. 3, row 56; `ORC-A25PIUEQ52` |  |
 | Lattice a; _printed: a_ | 5.48 Å | 0 | τ2; _alloy: Nb 1_ | DFT | [3] Lu 2017 | Table 2, p. 3, row 23; `ORC-DKKEJZUUWC.6a77ff` |  |
 | Lattice a; _printed: a_ | 5.47 Å | 0 | τ2; _alloy: Nb 1_ | model | [3] Lu 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 2, p. 3, row 24; `ORC-HP7LKAIO36.e203fc` |  |
-| Lattice a | 3.3024 Å | 4.2 | UNKNOWN; _alloy: Nb 1_ | experimental | [10] Ghosh 2002 | Table 1, p. 6, row 12; `ORC-RDQFC6NKXO` |  |
-| Lattice a | 3.3024 Å | 4.2 | UNKNOWN; _alloy: Nb 1_ | experimental | [10] Ghosh 2002; _cites ref. 1964Val_ | Table 1, p. 6, row 8; `ORC-SWHBONND3X` |  |
+| Lattice a | 3.3024 Å | 4.2 | BCC; _alloy: Nb 1_ | experimental | [8] Ghosh 2002 | Table 1, p. 6, row 12; `ORC-RDQFC6NKXO` |  |
+| Lattice a | 3.3024 Å | 4.2 | BCC; _alloy: Nb 1_ | experimental | [8] Ghosh 2002; _cites ref. 1964Val_ | Table 1, p. 6, row 8; `ORC-SWHBONND3X` |  |
+| Lattice a | 3.3024 Å | 298.15 | BCC; _alloy: Nb 1_ | experimental | [8] Ghosh 2002; _cites ref. 1964Val_ | Table 1, p. 6, row 13; `ORC-UNIJCMOWJX` |  |
 | Lattice a | 3.3 Å | 298.15 | Nb | model | [11] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 1; `ORC-5WCAHYLZPW` |  |
 | Lattice a | 3.3067 Å | 298.15 | Nb; _alloy: Nb 1_ | model | [12] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 2; `ORC-JUPAVL22EC` |  |
 | Lattice a | 3.3 Å | 298.15 | Nonmagnetic BCC Nb; _alloy: Nb 1_ | experimental | [2] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 3, row 4; `ORC-VGM6XLA57K` |  |
-| Lattice a | 3.3024 Å | 298.15 | UNKNOWN; _alloy: Nb 1_ | experimental | [10] Ghosh 2002; _cites ref. 1964Val_ | Table 1, p. 6, row 13; `ORC-UNIJCMOWJX` |  |
 | Lattice c | 8.869 Å | 0 | C14; _alloy: Nb 1_ | DFT | [7] Liu 2012 | Table 4, p. 8, row 10; `ORC-DZHKMVKZ5P.43df50` |  |
 | Lattice c | 8.68 Å | 0 | C14; _alloy: Nb 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 2; `ORC-H44DNK52J2.e486d8` |  |
 | Lattice c | 17.52 Å | 0 | C36; _alloy: Nb 1_ | DFT | [2] Pavlů 2009 | Table 2, p. 3, row 20; `ORC-LZI7235JYJ.e0174c` |  |
 | Lattice c; _printed: c_ | 17.47 Å | 0 | C36; _alloy: Nb 1_ | DFT | [3] Lu 2017 | Table 2, p. 3, row 36; `ORC-W5IQTFOFIL.0ed993` |  |
-| Lattice c | 5.2551 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [10] Ghosh 2002 | Table 1, p. 6, row 10; `ORC-YPKUFFKRWL.56d115` |  |
+| Lattice c | 5.2551 Å | 0 | HCP; _alloy: Nb 1_ | DFT | [8] Ghosh 2002 | Table 1, p. 6, row 10; `ORC-YPKUFFKRWL.56d115` |  |
 | Lattice c | 28.825 Å | 0 | μ; _alloy: Nb 1_ | DFT | [7] Liu 2012 | Table 4, p. 8, row 34; `ORC-THLWLDVIFI.d486d6` |  |
 | Lattice c; _printed: c_ | 8.66 Å | 0 | τ2; _alloy: Nb 1_ | DFT | [3] Lu 2017 | Table 2, p. 3, row 23; `ORC-DKKEJZUUWC.e5f9a9` |  |
 | Lattice c; _printed: c_ | 8.87 Å | 0 | τ2; _alloy: Nb 1_ | model | [3] Lu 2017; _cites Liu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.004) | Table 2, p. 3, row 24; `ORC-HP7LKAIO36.722977` |  |
@@ -136,9 +136,9 @@ Reporting papers the values were read from (a value cited from another work name
 5. Joaquim G. Costa Neto, Suzana G. Fries, Hans Leo Lukas, Sérgio Gama, Günter Effenberg, Thermodynamic optimisation of the Nb-Cr system, Calphad 17, 219-228 (1993). [doi:10.1016/0364-5916(93)90001-r](https://doi.org/10.1016/0364-5916%2893%2990001-r)
 6. Jia-Yi Yan, G.B. Olson, Computational thermodynamics and kinetics of displacive transformations in titanium-based alloys, Journal of Alloys and Compounds 673, 441-454 (2016). [doi:10.1016/j.jallcom.2016.02.251](https://doi.org/10.1016/j.jallcom.2016.02.251)
 7. Shuhong Liu, Bengt Hallstedt, Denis Music, Yong Du, Ab initio calculations and thermodynamic modeling for the Fe–Mn–Nb system, Calphad 38, 43-58 (2012). [doi:10.1016/j.calphad.2012.03.004](https://doi.org/10.1016/j.calphad.2012.03.004)
-8. Xuan L. Liu, Chelsey Z. Hargather, Zi-Kui Liu, First-principles aided thermodynamic modeling of the Nb–Re system, Calphad 41, 119-127 (2013). [doi:10.1016/j.calphad.2013.02.006](https://doi.org/10.1016/j.calphad.2013.02.006)
-9. Clemens Schmetterer, Alexandra Khvan, Aurélie Jacob, Bengt Hallstedt, Torsten Markus, A New Theoretical Study of the Cr-Nb System, J. Phase Equilib. Diffus. 35, 434-444 (2014). [doi:10.1007/s11669-014-0313-y](https://doi.org/10.1007/s11669-014-0313-y)
-10. G. Ghosh, A. van de Walle, M. Asta, G.B. Olson, Phase stability of the Hf-Nb system: From first-principles to CALPHAD, Calphad 26, 491-511 (2002). [doi:10.1016/s0364-5916(02)80003-7](https://doi.org/10.1016/s0364-5916%2802%2980003-7)
+8. G. Ghosh, A. van de Walle, M. Asta, G.B. Olson, Phase stability of the Hf-Nb system: From first-principles to CALPHAD, Calphad 26, 491-511 (2002). [doi:10.1016/s0364-5916(02)80003-7](https://doi.org/10.1016/s0364-5916%2802%2980003-7)
+9. Xuan L. Liu, Chelsey Z. Hargather, Zi-Kui Liu, First-principles aided thermodynamic modeling of the Nb–Re system, Calphad 41, 119-127 (2013). [doi:10.1016/j.calphad.2013.02.006](https://doi.org/10.1016/j.calphad.2013.02.006)
+10. Clemens Schmetterer, Alexandra Khvan, Aurélie Jacob, Bengt Hallstedt, Torsten Markus, A New Theoretical Study of the Cr-Nb System, J. Phase Equilib. Diffus. 35, 434-444 (2014). [doi:10.1007/s11669-014-0313-y](https://doi.org/10.1007/s11669-014-0313-y)
 11. Yan Li, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic optimization of the Nb–Si–W ternary system, Calphad 43, 112-123 (2013). [doi:10.1016/j.calphad.2013.04.004](https://doi.org/10.1016/j.calphad.2013.04.004)
 12. G. Shao, Thermodynamic assessment of the Nb–Si–Al system, Intermetallics 12, 655-664 (2004). [doi:10.1016/j.intermet.2004.03.011](https://doi.org/10.1016/j.intermet.2004.03.011)
 

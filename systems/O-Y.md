@@ -102,9 +102,9 @@ Table: Crystal structure, O–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 40.385 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.1b8f79` |  |
-| lattice molar volume | 41.132 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.cea032` |  |
-| lattice molar volume | 44.804 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.fae386` |  |
+| lattice molar volume | 40.385 cm3 mol-1 | 298.15 | Y2O3 (A-type); _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.1b8f79` |  |
+| lattice molar volume | 41.132 cm3 mol-1 | 298.15 | Y2O3 (B-type); _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.cea032` |  |
+| lattice molar volume | 44.804 cm3 mol-1 | 298.15 | Y2O3 (C-type); _alloy: O 0.6, Y 0.4_ | model | [2] ZINKEVICH 2007 | Table 3.1, p. 12, row 2; `ORC-Y7SEHDV3F3.fae386` |  |
 
 ### Other property (2)
 

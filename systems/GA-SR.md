@@ -71,16 +71,16 @@ Table: Crystal structure, Ga–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.366 Å | 0 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 17; `ORC-2V5JEY3VYG.a0ad3a` |  |
-| Lattice a | 4.5 Å | 0 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | DFT | [1] Li 2013 | Table 1, p. 2, row 15; `ORC-G56JV2FXUI.b1d2a8` |  |
-| Lattice a | 12.481 Å | 0 | UNKNOWN; _alloy: Ga 0.466667, Sr 0.533333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 19; `ORC-WVXZ2DUF2D` |  |
-| Lattice a | 4.345 Å | 298.15 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | experimental | [1] Li 2013; _cites Iandelli 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990480-2) | Table 1, p. 2, row 16; `ORC-6FD5LO2MFZ.bf3412` |  |
-| Lattice a | 12.484 Å | 298.15 | UNKNOWN; _alloy: Ga 0.466667, Sr 0.533333_ | unspecified | [1] Li 2013; _cites Fornasini 1983_ | Table 1, p. 2, row 18; `ORC-7LJZE6IHQJ` |  |
-| Lattice a | 4.437 Å | 298.15 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 14; `ORC-FXPBGGHULE.0128f8` |  |
-| Lattice c | 4.762 Å | 0 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 17; `ORC-2V5JEY3VYG.20c014` |  |
-| Lattice c | 10.766 Å | 0 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | DFT | [1] Li 2013 | Table 1, p. 2, row 15; `ORC-G56JV2FXUI.9fd68c` |  |
-| Lattice c | 4.737 Å | 298.15 | UNKNOWN; _alloy: Ga 0.666667, Sr 0.333333_ | experimental | [1] Li 2013; _cites Iandelli 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990480-2) | Table 1, p. 2, row 16; `ORC-6FD5LO2MFZ.1c564a` |  |
-| Lattice c | 10.7 Å | 298.15 | UNKNOWN; _alloy: Ga 0.8, Sr 0.2_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 14; `ORC-FXPBGGHULE.779cb3` |  |
+| Lattice a | 4.366 Å | 0 | Ga2Sr; _alloy: Ga 0.666667, Sr 0.333333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 17; `ORC-2V5JEY3VYG.a0ad3a` |  |
+| Lattice a | 4.5 Å | 0 | Ga4Sr; _alloy: Ga 0.8, Sr 0.2_ | DFT | [1] Li 2013 | Table 1, p. 2, row 15; `ORC-G56JV2FXUI.b1d2a8` |  |
+| Lattice a | 12.481 Å | 0 | Ga7Sr8; _alloy: Ga 0.466667, Sr 0.533333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 19; `ORC-WVXZ2DUF2D` |  |
+| Lattice a | 4.345 Å | 298.15 | Ga2Sr; _alloy: Ga 0.666667, Sr 0.333333_ | experimental | [1] Li 2013; _cites Iandelli 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990480-2) | Table 1, p. 2, row 16; `ORC-6FD5LO2MFZ.bf3412` |  |
+| Lattice a | 4.437 Å | 298.15 | Ga4Sr; _alloy: Ga 0.8, Sr 0.2_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 14; `ORC-FXPBGGHULE.0128f8` |  |
+| Lattice a | 12.484 Å | 298.15 | Ga7Sr8; _alloy: Ga 0.466667, Sr 0.533333_ | unspecified | [1] Li 2013; _cites Fornasini 1983_ | Table 1, p. 2, row 18; `ORC-7LJZE6IHQJ` |  |
+| Lattice c | 4.762 Å | 0 | Ga2Sr; _alloy: Ga 0.666667, Sr 0.333333_ | DFT | [1] Li 2013 | Table 1, p. 2, row 17; `ORC-2V5JEY3VYG.20c014` |  |
+| Lattice c | 10.766 Å | 0 | Ga4Sr; _alloy: Ga 0.8, Sr 0.2_ | DFT | [1] Li 2013 | Table 1, p. 2, row 15; `ORC-G56JV2FXUI.9fd68c` |  |
+| Lattice c | 4.737 Å | 298.15 | Ga2Sr; _alloy: Ga 0.666667, Sr 0.333333_ | experimental | [1] Li 2013; _cites Iandelli 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990480-2) | Table 1, p. 2, row 16; `ORC-6FD5LO2MFZ.1c564a` |  |
+| Lattice c | 10.7 Å | 298.15 | Ga4Sr; _alloy: Ga 0.8, Sr 0.2_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 14; `ORC-FXPBGGHULE.779cb3` |  |
 
 ## Sources
 

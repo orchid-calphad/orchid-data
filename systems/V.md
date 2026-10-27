@@ -130,24 +130,24 @@ Table: Crystal structure, V system
 | Lattice a | 6.8817 Å | 0 | C15; _alloy: V 1_ | DFT | [6] Pavlů 2011 | Table 2, p. 3, row 4; `ORC-MPERB7A4L5.0856dd` |  |
 | Lattice a | 4.933 Å | 0 | C36; _alloy: V 1_ | DFT | [6] Pavlů 2011 | Table 2, p. 3, row 13; `ORC-7R4TJLNGHK.4c5288` |  |
 | Lattice a | 2.9783 Å | 0 | NM BCC V; _alloy: V 1_ | DFT | [6] Pavlů 2011 | Table 1, p. 3, row 2; `ORC-4YD7HUIPP4.5509eb` |  |
-| Lattice a | 2.742 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 7; `ORC-7CXJE3QRUN.2e2816` |  |
-| Lattice a | 4.256 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 6; `ORC-M5MG5AHRRJ.a26b25` |  |
-| Lattice a | 3 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 5; `ORC-R2VXQDRNKI.852eff` |  |
-| Lattice a | 2.993 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 5; `ORC-R2VXQDRNKI.ddcf19` |  |
-| Lattice a | 3.817 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 8; `ORC-V4PWRPTZ65.1c8046` |  |
-| Lattice a | 3.819 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 8; `ORC-V4PWRPTZ65.aeed9c` |  |
 | Lattice a | 0.303 Å |  | V | unspecified | [7] Chang 2010 | Table 1, p. 2, row 2; `ORC-KTHSVDAAPN` |  |
+| Lattice a | 3 Å |  | bcc; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 5; `ORC-R2VXQDRNKI.852eff` |  |
+| Lattice a | 2.993 Å |  | bcc; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 5; `ORC-R2VXQDRNKI.ddcf19` |  |
+| Lattice a | 3.817 Å |  | fcc; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 8; `ORC-V4PWRPTZ65.1c8046` |  |
+| Lattice a | 3.819 Å |  | fcc; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 8; `ORC-V4PWRPTZ65.aeed9c` |  |
+| Lattice a | 2.742 Å |  | hcp; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 7; `ORC-7CXJE3QRUN.2e2816` |  |
+| Lattice a | 4.256 Å |  | ω; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 6; `ORC-M5MG5AHRRJ.a26b25` |  |
+| Lattice a | 3.024 Å | 298.15 | (V); _alloy: V 1_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 2; `ORC-LCL72QBNBW` |  |
 | Lattice a | 3.0238 Å | 298.15 | (V); _(V): V 1_ | unspecified | [3] Smith 1985; _cites ref. 1_ | Table 1, p. 3, row 2; `ORC-LP3MGVAD2N` |  |
 | Lattice a | 3.0309 Å | 298.15 | NM BCC V; _alloy: V 1_ | experimental | [6] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 1; `ORC-N2FVXIN2HD.ffcacd` |  |
-| Lattice a | 3.024 Å | 298.15 | UNKNOWN; _alloy: V 1_ | model | [1] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 2; `ORC-LCL72QBNBW` |  |
 | Lattice a | 0.30271 Å | 298.15 | V | model | [7] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 1; `ORC-BEQI2ECTXJ` |  |
 | Lattice a | 3.0238 Å | 298.15 | bcc (V); _bcc (V): V 1_ | unspecified | [8] Smith 1988; _cites ref. 1_ | Table I, p. 2, row 6; `ORC-NHXQ76DFDL` |  |
 | Lattice a | 3.0278 Å | 298.15 | bcc-V | unspecified | [9] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 1; `ORC-5BM5SYDXC3` |  |
 | Lattice a | 3.025 Å | 2182.95 (\<) | (V); _alloy: V 1_ | unspecified | [10] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 5; `ORC-A7GF6DMFM2` |  |
 | Lattice c | 7.7199 Å | 0 | C14; _alloy: V 1_ | DFT | [6] Pavlů 2011 | Table 2, p. 3, row 3; `ORC-3LA2WUIIOQ.832897` |  |
 | Lattice c | 15.4522 Å | 0 | C36; _alloy: V 1_ | DFT | [6] Pavlů 2011 | Table 2, p. 3, row 13; `ORC-7R4TJLNGHK.fdde5d` |  |
-| Lattice c | 4.325 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 7; `ORC-7CXJE3QRUN.a3ae14` |  |
-| Lattice c | 2.631 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 6; `ORC-M5MG5AHRRJ.aff22a` |  |
+| Lattice c | 4.325 Å |  | hcp; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 7; `ORC-7CXJE3QRUN.a3ae14` |  |
+| Lattice c | 2.631 Å |  | ω; _alloy: V 1_ | DFT | [4] Hu 2020 | Table 9, p. 9, row 6; `ORC-M5MG5AHRRJ.aff22a` |  |
 | lattice c a | 1 not_printed | 0 | NM BCC V; _alloy: V 1_ | DFT | [6] Pavlů 2011 | Table 1, p. 3, row 2; `ORC-4YD7HUIPP4.f4338b` |  |
 | lattice c a | 1 not_printed | 298.15 | NM BCC V; _alloy: V 1_ | experimental | [6] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 1; `ORC-N2FVXIN2HD.e8472e` |  |
 | lattice v atom | 1.355 10^7 pm^3 | 0 | C14; _alloy: V 1_ | DFT | [6] Pavlů 2011 | Table 2, p. 3, row 3; `ORC-3LA2WUIIOQ.725f86` |  |

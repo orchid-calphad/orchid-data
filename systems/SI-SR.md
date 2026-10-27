@@ -256,46 +256,46 @@ Table: Crystal structure, Si–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.141 Å | 0 | Sr2Si; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 2; `ORC-4KLEV3AFCF.f2d81a` |  |
+| Lattice a | 7.843 Å | 0 | Sr2Si; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 3; `ORC-76CRQGBCLC.9e32a4` |  |
+| Lattice a | 8.111 Å |  | Sr2Si; _alloy: Sr 0.666667_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 1; `ORC-MGGNTVBUBQ.3c93ad` |  |
+| Lattice a | 7.869 Å | 0 | Sr5Si3; _alloy: Sr 0.625_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 6; `ORC-275A4FDSQH.bec09b` |  |
+| Lattice a | 8.056 Å | 0 | Sr5Si3; _alloy: Sr 0.625_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 5; `ORC-AM4I22BMXS.aa513d` |  |
+| Lattice a | 8.1 Å |  | Sr5Si3; _alloy: Sr 0.625_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 4; `ORC-M7KVGBO2I5.66d9cb` |  |
 | Lattice a | 4.814 Å |  | SrSi; _alloy: Sr 0.5_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 7; `ORC-FUTUTVW5TA.bc2325` |  |
 | Lattice a | 4.699 Å | 0 | SrSi; _alloy: Sr 0.5_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 9; `ORC-QHZLPLI4TB.6dfb5e` |  |
 | Lattice a | 4.816 Å | 0 | SrSi; _alloy: Sr 0.5_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 8; `ORC-RDHKOFGO2T.55afaf` |  |
-| Lattice a | 7.869 Å | 0 | UNKNOWN; _alloy: Sr 0.625_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 6; `ORC-275A4FDSQH.bec09b` |  |
-| Lattice a | 8.141 Å | 0 | UNKNOWN; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 2; `ORC-4KLEV3AFCF.f2d81a` |  |
-| Lattice a | 6.536 Å | 0 | UNKNOWN; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 14; `ORC-4MXTHFZ6N5` |  |
-| Lattice a | 7.843 Å | 0 | UNKNOWN; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 3; `ORC-76CRQGBCLC.9e32a4` |  |
-| Lattice a | 8.056 Å | 0 | UNKNOWN; _alloy: Sr 0.625_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 5; `ORC-AM4I22BMXS.aa513d` |  |
-| Lattice a | 4.467 Å | 0 | UNKNOWN; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 11; `ORC-C3TV4PRNRG.d6a242` |  |
-| Lattice a | 6.536 Å |  | UNKNOWN; _alloy: Sr 0.333333_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 13; `ORC-DEG2KID4QH` |  |
-| Lattice a | 6.436 Å | 0 | UNKNOWN; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 15; `ORC-GCUDF2D7F2` |  |
-| Lattice a | 8.1 Å |  | UNKNOWN; _alloy: Sr 0.625_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 4; `ORC-M7KVGBO2I5.66d9cb` |  |
-| Lattice a | 8.111 Å |  | UNKNOWN; _alloy: Sr 0.666667_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 1; `ORC-MGGNTVBUBQ.3c93ad` |  |
-| Lattice a | 4.429 Å |  | UNKNOWN; _alloy: Sr 0.333333_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 10; `ORC-NIPX2JPWJK.c9c890` |  |
-| Lattice a | 4.346 Å | 0 | UNKNOWN; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 12; `ORC-YESXDLYMKO.964e89` |  |
 | Lattice a; _printed: a_ | 6.536 unknown ± 0.002 |  | α-Si2Sr; _alloy: Sr 0.333333_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 13; `ORC-D5ELA6MAOK.96e969` |  |
+| Lattice a | 6.536 Å | 0 | α-SrSi2; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 14; `ORC-4MXTHFZ6N5` |  |
+| Lattice a | 6.536 Å |  | α-SrSi2; _alloy: Sr 0.333333_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 13; `ORC-DEG2KID4QH` |  |
+| Lattice a | 6.436 Å | 0 | α-SrSi2; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 15; `ORC-GCUDF2D7F2` |  |
+| Lattice a | 4.467 Å | 0 | β-SrSi2; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 11; `ORC-C3TV4PRNRG.d6a242` |  |
+| Lattice a | 4.429 Å |  | β-SrSi2; _alloy: Sr 0.333333_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 10; `ORC-NIPX2JPWJK.c9c890` |  |
+| Lattice a | 4.346 Å | 0 | β-SrSi2; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 12; `ORC-YESXDLYMKO.964e89` |  |
 | Lattice a; _printed: lattice parameter a (printed 8.100(1))_ | 8.1 unknown ± 0.001 | 298.15 | Si3Sr5; _alloy: Sr 0.625_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4; `ORC-TXQUH5DMXJ.1a0fcd` |  |
 | Lattice a; _printed: lattice parameter a (printed 4.814(1))_ | 4.814 unknown ± 0.001 | 298.15 | SiSr; _alloy: Sr 0.5_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7; `ORC-UZCWRDD4IF.5e57bc` |  |
 | Lattice a; _printed: a_ | 8.111 unknown ± 0.002 | 298.15 | SiSr2; _alloy: Sr 0.666667_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1; `ORC-CP2IQC4MAQ.028e5f` |  |
 | Lattice a; _printed: lattice parameter a (printed 4.439(1))_ | 4.439 unknown ± 0.001 | 298.15 | β-Si2Sr; _alloy: Sr 0.333333_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 10; `ORC-43LWHB6WYW.0c9b4a` |  |
+| Lattice b | 5.134 Å | 0 | Sr2Si; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 2; `ORC-4KLEV3AFCF.ae1a2d` |  |
+| Lattice b | 5.027 Å | 0 | Sr2Si; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 3; `ORC-76CRQGBCLC.7c835a` |  |
+| Lattice b | 5.132 Å |  | Sr2Si; _alloy: Sr 0.666667_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 1; `ORC-MGGNTVBUBQ.db54a7` |  |
+| Lattice b | 15.454 Å | 0 | Sr5Si3; _alloy: Sr 0.625_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 6; `ORC-275A4FDSQH.5b40c5` |  |
+| Lattice b | 15.89 Å | 0 | Sr5Si3; _alloy: Sr 0.625_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 5; `ORC-AM4I22BMXS.c4c014` |  |
+| Lattice b | 15.728 Å |  | Sr5Si3; _alloy: Sr 0.625_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 4; `ORC-M7KVGBO2I5.53c0f5` |  |
 | Lattice b | 11.288 Å |  | SrSi; _alloy: Sr 0.5_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 7; `ORC-FUTUTVW5TA.5d4bb9` |  |
 | Lattice b | 11.154 Å | 0 | SrSi; _alloy: Sr 0.5_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 9; `ORC-QHZLPLI4TB.a90bf4` |  |
 | Lattice b | 11.39 Å | 0 | SrSi; _alloy: Sr 0.5_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 8; `ORC-RDHKOFGO2T.0951cb` |  |
-| Lattice b | 15.454 Å | 0 | UNKNOWN; _alloy: Sr 0.625_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 6; `ORC-275A4FDSQH.5b40c5` |  |
-| Lattice b | 5.134 Å | 0 | UNKNOWN; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 2; `ORC-4KLEV3AFCF.ae1a2d` |  |
-| Lattice b | 5.027 Å | 0 | UNKNOWN; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 3; `ORC-76CRQGBCLC.7c835a` |  |
-| Lattice b | 15.89 Å | 0 | UNKNOWN; _alloy: Sr 0.625_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 5; `ORC-AM4I22BMXS.c4c014` |  |
-| Lattice b | 13.826 Å | 0 | UNKNOWN; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 11; `ORC-C3TV4PRNRG.cfe55e` |  |
-| Lattice b | 15.728 Å |  | UNKNOWN; _alloy: Sr 0.625_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 4; `ORC-M7KVGBO2I5.53c0f5` |  |
-| Lattice b | 5.132 Å |  | UNKNOWN; _alloy: Sr 0.666667_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 1; `ORC-MGGNTVBUBQ.db54a7` |  |
-| Lattice b | 13.842 Å |  | UNKNOWN; _alloy: Sr 0.333333_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 10; `ORC-NIPX2JPWJK.1242db` |  |
-| Lattice b | 13.62 Å | 0 | UNKNOWN; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 12; `ORC-YESXDLYMKO.491600` |  |
+| Lattice b | 13.826 Å | 0 | β-SrSi2; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 11; `ORC-C3TV4PRNRG.cfe55e` |  |
+| Lattice b | 13.842 Å |  | β-SrSi2; _alloy: Sr 0.333333_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 10; `ORC-NIPX2JPWJK.1242db` |  |
+| Lattice b | 13.62 Å | 0 | β-SrSi2; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 12; `ORC-YESXDLYMKO.491600` |  |
 | Lattice b; _printed: lattice parameter b (printed 11.288(1))_ | 11.288 unknown ± 0.001 | 298.15 | SiSr; _alloy: Sr 0.5_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7; `ORC-UZCWRDD4IF.5b6771` |  |
 | Lattice b; _printed: lattice parameter b (printed 5.132(2))_ | 5.132 unknown ± 0.002 | 298.15 | SiSr2; _alloy: Sr 0.666667_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1; `ORC-CP2IQC4MAQ.55c3a7` |  |
+| Lattice c | 9.611 Å | 0 | Sr2Si; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 2; `ORC-4KLEV3AFCF.512136` |  |
+| Lattice c | 9.379 Å | 0 | Sr2Si; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 3; `ORC-76CRQGBCLC.815713` |  |
+| Lattice c | 9.545 Å |  | Sr2Si; _alloy: Sr 0.666667_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 1; `ORC-MGGNTVBUBQ.432302` |  |
 | Lattice c | 4.04 Å |  | SrSi; _alloy: Sr 0.5_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 7; `ORC-FUTUTVW5TA.733f5c` |  |
 | Lattice c | 3.962 Å | 0 | SrSi; _alloy: Sr 0.5_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 9; `ORC-QHZLPLI4TB.588282` |  |
 | Lattice c | 4.049 Å | 0 | SrSi; _alloy: Sr 0.5_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 8; `ORC-RDHKOFGO2T.e225ae` |  |
-| Lattice c | 9.611 Å | 0 | UNKNOWN; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 2; `ORC-4KLEV3AFCF.512136` |  |
-| Lattice c | 9.379 Å | 0 | UNKNOWN; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 3; `ORC-76CRQGBCLC.815713` |  |
-| Lattice c | 9.545 Å |  | UNKNOWN; _alloy: Sr 0.666667_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 1; `ORC-MGGNTVBUBQ.432302` |  |
 | Lattice c; _printed: lattice parameter c (printed 15.728(2))_ | 15.728 unknown ± 0.002 | 298.15 | Si3Sr5; _alloy: Sr 0.625_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4; `ORC-TXQUH5DMXJ.85ada4` |  |
 | Lattice c; _printed: c_ | 4.04 unknown ± 0.001 | 298.15 | SiSr; _alloy: Sr 0.5_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7; `ORC-UZCWRDD4IF.36eb10` |  |
 | Lattice c; _printed: lattice parameter c (printed 9.545(2))_ | 9.545 unknown ± 0.002 | 298.15 | SiSr2; _alloy: Sr 0.666667_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1; `ORC-CP2IQC4MAQ.8379dc` |  |

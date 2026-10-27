@@ -1,14 +1,43 @@
 # As–In system
 
-> As–In system: 0 accepted literature values (none) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> As–In system: 2 accepted literature values (heat capacity / entropy / enthalpy 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AS-IN.html · Markdown: https://data.orchid-project.org/systems/AS-IN.md
 
-0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+2 accepted literature values from 1 paper(s) (model 2); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AS-IN.json) · [CSV](https://data.orchid-project.org/systems/AS-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-IN) · [phases (8)](https://data.orchid-project.org/phases/pages/AS-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-IN.html) · [Markdown](https://data.orchid-project.org/systems/AS-IN.md)
 
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 2 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| heat capacity / entropy / enthalpy | 2 |
+
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AS/AS-IN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AS/AS-IN.json)
+
+## Other properties
+
+### Heat capacity / entropy / enthalpy (2)
+
+Table: Heat capacity / entropy / enthalpy, As–In system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S°298_ | 77.08 J/mol-formula K | 298.15 | InAs | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 2; `ORC-KZT3A5QKQ6.fd850d` |  |
+| Heat capacity; _printed: Cp,298_ | 48.16 J/mol (basis unstated)/K | 298.15 | InAs | model | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 2; `ORC-KZT3A5QKQ6.e6d4c4` |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
 
 ## Please cite
 

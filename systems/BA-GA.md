@@ -79,19 +79,19 @@ Table: Crystal structure, Ba–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.475 Å | 0 | UNKNOWN; _alloy: Ba 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 24; `ORC-CO5IYTXYQM.50d0ac` |  |
-| Lattice a | 4.641 Å | 0 | UNKNOWN; _alloy: Ba 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 26; `ORC-KT2UYWSJYY.b7bbde` |  |
-| Lattice a | 13.081 Å | 0 | UNKNOWN; _alloy: Ba 0.533333, Ga 0.466667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 22; `ORC-POEIAHOQRB` |  |
-| Lattice a | 4.429 Å | 298.15 | UNKNOWN; _alloy: Ba 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 23; `ORC-3CVOJPZRGY.c6af7d` |  |
-| Lattice a | 7.771 Å | 298.15 | UNKNOWN; _alloy: Ba 0.454545, Ga 0.545455_ | experimental | [1] Li 2013; _cites Fornasini 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990786-2) | Table 1, p. 2, row 27; `ORC-4MH4PKPQB2.fc3f3f` |  |
-| Lattice a | 12.99 Å | 298.15 | UNKNOWN; _alloy: Ba 0.533333, Ga 0.466667_ | unspecified | [1] Li 2013; _cites Fornasini 1983_ | Table 1, p. 2, row 21; `ORC-AZLWUWVVQM` |  |
-| Lattice a | 4.566 Å | 298.15 | UNKNOWN; _alloy: Ba 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 25; `ORC-P5XPDVBZVV.ba2a93` |  |
-| Lattice a | 20.521 Å | 298.15 | UNKNOWN; _alloy: Ba 0.909091, Ga 0.090909_ | experimental | [1] Li 2013; _cites Fornasini 1979_ | Table 1, p. 2, row 20; `ORC-XIOCIOP7XP` |  |
-| Lattice c | 5.145 Å | 0 | UNKNOWN; _alloy: Ba 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 24; `ORC-CO5IYTXYQM.0ce2c9` |  |
-| Lattice c | 10.833 Å | 0 | UNKNOWN; _alloy: Ba 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 26; `ORC-KT2UYWSJYY.e83470` |  |
-| Lattice c | 5.076 Å | 298.15 | UNKNOWN; _alloy: Ba 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 23; `ORC-3CVOJPZRGY.3ee524` |  |
-| Lattice c | 14.376 Å | 298.15 | UNKNOWN; _alloy: Ba 0.454545, Ga 0.545455_ | experimental | [1] Li 2013; _cites Fornasini 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990786-2) | Table 1, p. 2, row 27; `ORC-4MH4PKPQB2.11f4b4` |  |
-| Lattice c | 10.778 Å | 298.15 | UNKNOWN; _alloy: Ba 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 25; `ORC-P5XPDVBZVV.bcb165` |  |
+| Lattice a | 13.081 Å | 0 | Ba8Ga7; _alloy: Ba 0.533333, Ga 0.466667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 22; `ORC-POEIAHOQRB` |  |
+| Lattice a | 4.475 Å | 0 | BaGa2; _alloy: Ba 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 24; `ORC-CO5IYTXYQM.50d0ac` |  |
+| Lattice a | 4.641 Å | 0 | BaGa4; _alloy: Ba 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 26; `ORC-KT2UYWSJYY.b7bbde` |  |
+| Lattice a | 20.521 Å | 298.15 | Ba10Ga; _alloy: Ba 0.909091, Ga 0.090909_ | experimental | [1] Li 2013; _cites Fornasini 1979_ | Table 1, p. 2, row 20; `ORC-XIOCIOP7XP` |  |
+| Lattice a | 7.771 Å | 298.15 | Ba5Ga6; _alloy: Ba 0.454545, Ga 0.545455_ | experimental | [1] Li 2013; _cites Fornasini 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990786-2) | Table 1, p. 2, row 27; `ORC-4MH4PKPQB2.fc3f3f` |  |
+| Lattice a | 12.99 Å | 298.15 | Ba8Ga7; _alloy: Ba 0.533333, Ga 0.466667_ | unspecified | [1] Li 2013; _cites Fornasini 1983_ | Table 1, p. 2, row 21; `ORC-AZLWUWVVQM` |  |
+| Lattice a | 4.429 Å | 298.15 | BaGa2; _alloy: Ba 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 23; `ORC-3CVOJPZRGY.c6af7d` |  |
+| Lattice a | 4.566 Å | 298.15 | BaGa4; _alloy: Ba 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 25; `ORC-P5XPDVBZVV.ba2a93` |  |
+| Lattice c | 5.145 Å | 0 | BaGa2; _alloy: Ba 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 24; `ORC-CO5IYTXYQM.0ce2c9` |  |
+| Lattice c | 10.833 Å | 0 | BaGa4; _alloy: Ba 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 26; `ORC-KT2UYWSJYY.e83470` |  |
+| Lattice c | 14.376 Å | 298.15 | Ba5Ga6; _alloy: Ba 0.454545, Ga 0.545455_ | experimental | [1] Li 2013; _cites Fornasini 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990786-2) | Table 1, p. 2, row 27; `ORC-4MH4PKPQB2.11f4b4` |  |
+| Lattice c | 5.076 Å | 298.15 | BaGa2; _alloy: Ba 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 23; `ORC-3CVOJPZRGY.3ee524` |  |
+| Lattice c | 10.778 Å | 298.15 | BaGa4; _alloy: Ba 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 25; `ORC-P5XPDVBZVV.bcb165` |  |
 
 ## Sources
 

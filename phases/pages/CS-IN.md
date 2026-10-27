@@ -14,8 +14,8 @@ Table: Phases of the Cs–In system (7)
 |---|---|---|---|---:|---:|
 | [TETRAGONAL_A6](#phase-cs-in-a6-tetragonal); _phase:cs-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.37 K, x(In) 1–1 | 0 | 1 |
 | [BCC_A2](#phase-cs-in-bcc-a2); _phase:cs-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–301.59 K, x(In) 0–1e-05 | 0 | 1 |
-| [CS2IN3](#phase-cs-in-cs2in3); _phase:cs-in:cs2in3_ | Cs2In3 · tI20 · I-4m2 (119) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–837.17 K, x(In) 0.6–0.6 | 4 | 1 |
-| [CSIN3](#phase-cs-in-csin3); _phase:cs-in:csin3_ | Ga3Rb · tI24 · I-4m2 (119) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–757.07 K, x(In) 0.75–0.75 | 4 | 1 |
+| [CS2IN3](#phase-cs-in-cs2in3); _phase:cs-in:cs2in3_ | Cs2In3 · tI20 · I-4m2 (119) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–837.17 K, x(In) 0.6–0.6 | 6 | 1 |
+| [CSIN3](#phase-cs-in-csin3); _phase:cs-in:csin3_ | Ga3Rb · tI24 · I-4m2 (119) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–757.07 K, x(In) 0.75–0.75 | 6 | 1 |
 | [FCC_A1](#phase-cs-in-fcc-a1); _phase:cs-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-cs-in-hcp-a3); _phase:cs-in:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-cs-in-liquid); _phase:cs-in:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 301.59–2500 K, x(In) 0–1 | 0 | 1 |
@@ -81,7 +81,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cs 0.4000, In 0.6000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–837.17 K, x(In) 0.6–0.6
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-in:cs2in3)
 
 Names (3): _corpus: _corpus:phase:cs-in:cs2in3  
@@ -111,7 +111,7 @@ _cited as the source of values for this phase_
 - Structure: Ga3Rb · tI24 · I-4m2 (119); type `st:ga3rb-ti24`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Cs 0.2500, In 0.7500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–757.07 K, x(In) 0.75–0.75
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-in:csin3)
 
 Names (5): _corpus: _corpus:phase:cs-in:csin3  

@@ -17,9 +17,9 @@ Table: Phases of the Pt–Te system (9)
 | [FCC_A1](#phase-pt-te-fcc-a1); _phase:pt-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2088.87 K, x(Te) 0–0 | 2 | 1 |
 | [HCP_A3](#phase-pt-te-hcp-a3); _phase:pt-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-pt-te-liquid); _phase:pt-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 719.89–2500 K, x(Te) 0–1 | 10 | 1 |
-| [PT2TE3](#phase-pt-te-pt2te3); _phase:pt-te:pt2te3_ | Pt2Te3 · hR10 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–934.55 K, x(Te) 0.6–0.6 | 2 | 1 |
-| [PT3TE4](#phase-pt-te-pt3te4); _phase:pt-te:pt3te4_ | Pt3Te4 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1292.61 K, x(Te) 0.57143–0.57143 | 6 | 1 |
-| [PTTE](#phase-pt-te-ptte); _phase:pt-te:ptte_ | ZrCl · hR4 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1208.04 K, x(Te) 0.5–0.5 | 4 | 1 |
+| [PT2TE3](#phase-pt-te-pt2te3); _phase:pt-te:pt2te3_ | Pt2Te3 · hR10 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–934.55 K, x(Te) 0.6–0.6 | 4 | 1 |
+| [PT3TE4](#phase-pt-te-pt3te4); _phase:pt-te:pt3te4_ | Pt3Te4 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1292.61 K, x(Te) 0.57143–0.57143 | 8 | 1 |
+| [PTTE](#phase-pt-te-ptte); _phase:pt-te:ptte_ | ZrCl · hR4 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1208.04 K, x(Te) 0.5–0.5 | 6 | 1 |
 | [PTTE2_C6](#phase-pt-te-ptte2-c6); _phase:pt-te:ptte2-c6_ | CdI2 · C6 · hP3 · P-3m1 (164) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1423.73 K, x(Te) 0.66667–0.66667 | 8 | 1 |
 
 ## HEXAGONAL_A8 (Pt–Te)
@@ -172,7 +172,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Pt 0.4000, Te 0.6000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–934.55 K, x(Te) 0.6–0.6
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-te:pt2te3)
 
 Names (3): _corpus: _corpus:phase:pt-te:pt2te3  
@@ -189,11 +189,13 @@ _tdb: _tdb:PtTe-15Guo.tdb:PT2TE3
 65: CONST PT2TE3 : PT : TE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11664-015-3676-x](https://doi.org/10.1007/s11664-015-3676-x) Cuiping Guo, Liang Huang, Changrong Li, Shunli Shang, Zhenmin Du, Thermodynamic Modeling of the Pt-Te and Pt-Sb-Te Systems, Journal of Elec Materi 44, 2638-2650 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf03025941](https://doi.org/10.1007/bf03025941) Won-Sa Kim, Re-investigation of the phase constitution of the system Pt-Te, Metals and Materials 2, 9-14 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1016/s0925-8388(98)00948-7](https://doi.org/10.1016/s0925-8388%2898%2900948-7) Won-Sa Kim, Isothermal section of the Pt–Sb–Te system at 800°C, Journal of Alloys and Compounds 284, 218-221 (1999).  
 _cited as the source of values for this phase_
 
 ## PT3TE4 (Pt–Te)
@@ -204,7 +206,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_166_matches_6_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Pt 0.4286, Te 0.5714
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1292.61 K, x(Te) 0.57143–0.57143
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-te:pt3te4)
 
 Names (3): _corpus: _corpus:phase:pt-te:pt3te4  
@@ -221,11 +223,13 @@ _tdb: _tdb:PtTe-15Guo.tdb:PT3TE4
 60: CONST PT3TE4 : PT : TE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11664-015-3676-x](https://doi.org/10.1007/s11664-015-3676-x) Cuiping Guo, Liang Huang, Changrong Li, Shunli Shang, Zhenmin Du, Thermodynamic Modeling of the Pt-Te and Pt-Sb-Te Systems, Journal of Elec Materi 44, 2638-2650 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf03025941](https://doi.org/10.1007/bf03025941) Won-Sa Kim, Re-investigation of the phase constitution of the system Pt-Te, Metals and Materials 2, 9-14 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1016/s0925-8388(98)00948-7](https://doi.org/10.1016/s0925-8388%2898%2900948-7) Won-Sa Kim, Isothermal section of the Pt–Sb–Te system at 800°C, Journal of Alloys and Compounds 284, 218-221 (1999).  
 _cited as the source of values for this phase_
 
 ## PTTE (Pt–Te)
@@ -236,7 +240,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Pt 0.5000, Te 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1208.04 K, x(Te) 0.5–0.5
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-te:ptte)
 
 Names (3): _corpus: _corpus:phase:pt-te:ptte  
@@ -253,11 +257,13 @@ _tdb: _tdb:PtTe-15Guo.tdb:PTTE
 55: CONST PTTE : PT : TE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11664-015-3676-x](https://doi.org/10.1007/s11664-015-3676-x) Cuiping Guo, Liang Huang, Changrong Li, Shunli Shang, Zhenmin Du, Thermodynamic Modeling of the Pt-Te and Pt-Sb-Te Systems, Journal of Elec Materi 44, 2638-2650 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf03025941](https://doi.org/10.1007/bf03025941) Won-Sa Kim, Re-investigation of the phase constitution of the system Pt-Te, Metals and Materials 2, 9-14 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1016/s0925-8388(96)02709-0](https://doi.org/10.1016/s0925-8388%2896%2902709-0) Won-Sa Kim, Solid state phase equilibria in the Pt–Sb–Te system, Journal of Alloys and Compounds 252, 166-171 (1997).  
 _cited as the source of values for this phase_
 
 ## PTTE2_C6 (Pt–Te)

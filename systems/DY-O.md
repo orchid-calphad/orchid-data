@@ -82,9 +82,9 @@ Table: Crystal structure, Dy–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 41.237 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 12; `ORC-4R5KMP5ICP.7ae3a8` |  |
-| lattice molar volume | 42.004 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 12; `ORC-4R5KMP5ICP.851648` |  |
-| lattice molar volume | 45.654 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 12; `ORC-4R5KMP5ICP.e71492` |  |
+| lattice molar volume | 41.237 cm3 mol-1 | 298.15 | Dy2O3 (A-type); _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 12; `ORC-4R5KMP5ICP.7ae3a8` |  |
+| lattice molar volume | 42.004 cm3 mol-1 | 298.15 | Dy2O3 (B-type); _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 12; `ORC-4R5KMP5ICP.851648` |  |
+| lattice molar volume | 45.654 cm3 mol-1 | 298.15 | Dy2O3 (C-type); _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 12; `ORC-4R5KMP5ICP.e71492` |  |
 
 ### Other property (5)
 

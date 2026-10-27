@@ -116,45 +116,45 @@ Table: Crystal structure, Fe–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.829 Å |  | UNKNOWN; _alloy: Te 0.473934_ | experimental | [1] Arvhult 2018; _cites Leciejewicz 1963_ [doi](https://doi.org/10.3891/acta.chem.scand.17-2593) | Table 4, p. 5, row 3; `ORC-2ZNYC7OPXP.0a5475` |  |
-| Lattice a | 4.03 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 1; `ORC-373ALEIGH2.2ccee3` |  |
-| Lattice a | 6.677 Å | 0 | UNKNOWN; _alloy: Te 0.571429_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 7; `ORC-66SOWVUJXQ.52382a` |  |
-| Lattice a | 3.813 Å |  | UNKNOWN; _alloy: Te 0.6_ | experimental | [1] Arvhult 2018; _cites Ward 1979_ [doi](https://doi.org/10.1088/0022-3719/12/5/016) | Table 4, p. 5, row 13; `ORC-B7LY2UOK4V.7958ae` |  |
-| Lattice a | 4.108 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 10; `ORC-FJWD3MRCPS.a86dc8` |  |
-| Lattice a | 5.266 Å |  | UNKNOWN; _alloy: Te 0.666667_ | experimental | [1] Arvhult 2018; _cites Brostigen 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1925) | Table 4, p. 5, row 16; `ORC-FXIKLOX3OB.e0ab6e` |  |
-| Lattice a | 3.635 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 2; `ORC-LZ4675GIPA.afdff0` |  |
-| Lattice a | 4.105 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 6; `ORC-MK5M6OGP27.ff3205` |  |
-| Lattice a | 5.247 Å | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 14; `ORC-NCJWGSJBWB.782af4` |  |
-| Lattice a | 4.101 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 5; `ORC-ORLIEPCZH2.d72998` |  |
-| Lattice a | 3.846 Å |  | UNKNOWN; _alloy: Te 0.571429_ | experimental | [1] Arvhult 2018; _cites Grnvold 1954_ [doi](https://doi.org/10.3891/acta.chem.scand.08-1927) | Table 4, p. 5, row 9; `ORC-PAQLTFZ3EC.5e4349` |  |
-| Lattice a | 3.984 Å | 0 | UNKNOWN; _alloy: Te 0.4_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 4; `ORC-QUCGIPGXSU.df5c0b` |  |
-| Lattice a | 3.733 Å | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 8; `ORC-Y42QMQG25Q.a3c797` |  |
-| Lattice a | 3.736 Å | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 11; `ORC-YVGHZWWTIS.105980` |  |
-| Lattice a | 4.22 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 12; `ORC-ZCWNWQAJZE.4f8084` |  |
-| Lattice b | 3.85 Å | 0 | UNKNOWN; _alloy: Te 0.571429_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 7; `ORC-66SOWVUJXQ.d5ae31` |  |
-| Lattice b | 6.268 Å |  | UNKNOWN; _alloy: Te 0.666667_ | experimental | [1] Arvhult 2018; _cites Brostigen 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1925) | Table 4, p. 5, row 16; `ORC-FXIKLOX3OB.6aee21` |  |
-| Lattice b | 7.11 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 6; `ORC-MK5M6OGP27.f4e675` |  |
-| Lattice b | 6.242 Å | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 14; `ORC-NCJWGSJBWB.b8cbb0` |  |
-| Lattice c | 6.288 Å |  | UNKNOWN; _alloy: Te 0.473934_ | experimental | [1] Arvhult 2018; _cites Leciejewicz 1963_ [doi](https://doi.org/10.3891/acta.chem.scand.17-2593) | Table 4, p. 5, row 3; `ORC-2ZNYC7OPXP.cb3b2e` |  |
-| Lattice c | 6.042 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 1; `ORC-373ALEIGH2.6940bb` |  |
-| Lattice c | 10.89 Å | 0 | UNKNOWN; _alloy: Te 0.571429_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 7; `ORC-66SOWVUJXQ.c0a692` |  |
-| Lattice c | 5.63 Å |  | UNKNOWN; _alloy: Te 0.6_ | experimental | [1] Arvhult 2018; _cites Ward 1979_ [doi](https://doi.org/10.1088/0022-3719/12/5/016) | Table 4, p. 5, row 13; `ORC-B7LY2UOK4V.263aed` |  |
-| Lattice c | 5.068 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 10; `ORC-FJWD3MRCPS.e127d8` |  |
-| Lattice c | 3.874 Å |  | UNKNOWN; _alloy: Te 0.666667_ | experimental | [1] Arvhult 2018; _cites Brostigen 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1925) | Table 4, p. 5, row 16; `ORC-FXIKLOX3OB.f16f0a` |  |
-| Lattice c | 6.712 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 2; `ORC-LZ4675GIPA.9ce69b` |  |
-| Lattice c | 5.06 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 6; `ORC-MK5M6OGP27.a5d687` |  |
-| Lattice c | 3.886 Å | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 14; `ORC-NCJWGSJBWB.a4608b` |  |
-| Lattice c | 5.07 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 5; `ORC-ORLIEPCZH2.8a8e2c` |  |
-| Lattice c | 5.641 Å |  | UNKNOWN; _alloy: Te 0.571429_ | experimental | [1] Arvhult 2018; _cites Grnvold 1954_ [doi](https://doi.org/10.3891/acta.chem.scand.08-1927) | Table 4, p. 5, row 9; `ORC-PAQLTFZ3EC.e50f9d` |  |
-| Lattice c | 20.938 Å | 0 | UNKNOWN; _alloy: Te 0.4_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 4; `ORC-QUCGIPGXSU.67c1ba` |  |
-| Lattice c | 5.845 Å | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 8; `ORC-Y42QMQG25Q.a9c94e` |  |
-| Lattice c | 5.854 Å | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 11; `ORC-YVGHZWWTIS.98e1ab` |  |
-| Lattice c | 5.312 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 12; `ORC-ZCWNWQAJZE.63c0eb` |  |
-| lattice beta | 90.65 ° | 0 | UNKNOWN; _alloy: Te 0.571429_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 7; `ORC-66SOWVUJXQ.706a7c` |  |
-| lattice beta | 90.05 ° | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 6; `ORC-MK5M6OGP27.00a3d3` |  |
-| lattice beta | 90.02 ° | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 5; `ORC-ORLIEPCZH2.8c5905` |  |
-| lattice beta | 90.1 ° |  | UNKNOWN; _alloy: Te 0.571429_ | experimental | [1] Arvhult 2018; _cites Grnvold 1954_ [doi](https://doi.org/10.3891/acta.chem.scand.08-1927) | Table 4, p. 5, row 9; `ORC-PAQLTFZ3EC.509d9f` |  |
-| lattice beta | 90.01 ° | 0 | UNKNOWN; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 8; `ORC-Y42QMQG25Q.eda7f6` |  |
+| Lattice a | 3.829 Å |  | β - Fe1.11Te; _alloy: Te 0.473934_ | experimental | [1] Arvhult 2018; _cites Leciejewicz 1963_ [doi](https://doi.org/10.3891/acta.chem.scand.17-2593) | Table 4, p. 5, row 3; `ORC-2ZNYC7OPXP.0a5475` |  |
+| Lattice a | 4.03 Å | 0 | β - Fe2Te; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 1; `ORC-373ALEIGH2.2ccee3` |  |
+| Lattice a | 3.635 Å | 0 | β - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 2; `ORC-LZ4675GIPA.afdff0` |  |
+| Lattice a | 3.984 Å | 0 | β' - Fe3Te2; _alloy: Te 0.4_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 4; `ORC-QUCGIPGXSU.df5c0b` |  |
+| Lattice a | 3.846 Å |  | δ - Fe0.75Te; _alloy: Te 0.571429_ | experimental | [1] Arvhult 2018; _cites Grnvold 1954_ [doi](https://doi.org/10.3891/acta.chem.scand.08-1927) | Table 4, p. 5, row 9; `ORC-PAQLTFZ3EC.5e4349` |  |
+| Lattice a | 6.677 Å | 0 | δ - Fe3Te4; _alloy: Te 0.571429_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 7; `ORC-66SOWVUJXQ.52382a` |  |
+| Lattice a | 4.105 Å | 0 | δ - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 6; `ORC-MK5M6OGP27.ff3205` |  |
+| Lattice a | 4.101 Å | 0 | δ - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 5; `ORC-ORLIEPCZH2.d72998` |  |
+| Lattice a | 3.733 Å | 0 | δ - FeTe2; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 8; `ORC-Y42QMQG25Q.a3c797` |  |
+| Lattice a | 4.22 Å | 0 | δ' - Fe2Te; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 12; `ORC-ZCWNWQAJZE.4f8084` |  |
+| Lattice a | 3.813 Å |  | δ' - Fe2Te3; _alloy: Te 0.6_ | experimental | [1] Arvhult 2018; _cites Ward 1979_ [doi](https://doi.org/10.1088/0022-3719/12/5/016) | Table 4, p. 5, row 13; `ORC-B7LY2UOK4V.7958ae` |  |
+| Lattice a | 4.108 Å | 0 | δ' - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 10; `ORC-FJWD3MRCPS.a86dc8` |  |
+| Lattice a | 3.736 Å | 0 | δ' - FeTe2; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 11; `ORC-YVGHZWWTIS.105980` |  |
+| Lattice a | 5.266 Å |  | ε - FeTe2; _alloy: Te 0.666667_ | experimental | [1] Arvhult 2018; _cites Brostigen 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1925) | Table 4, p. 5, row 16; `ORC-FXIKLOX3OB.e0ab6e` |  |
+| Lattice a | 5.247 Å | 0 | ε - FeTe2; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 14; `ORC-NCJWGSJBWB.782af4` |  |
+| Lattice b | 3.85 Å | 0 | δ - Fe3Te4; _alloy: Te 0.571429_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 7; `ORC-66SOWVUJXQ.d5ae31` |  |
+| Lattice b | 7.11 Å | 0 | δ - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 6; `ORC-MK5M6OGP27.f4e675` |  |
+| Lattice b | 6.268 Å |  | ε - FeTe2; _alloy: Te 0.666667_ | experimental | [1] Arvhult 2018; _cites Brostigen 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1925) | Table 4, p. 5, row 16; `ORC-FXIKLOX3OB.6aee21` |  |
+| Lattice b | 6.242 Å | 0 | ε - FeTe2; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 14; `ORC-NCJWGSJBWB.b8cbb0` |  |
+| Lattice c | 6.288 Å |  | β - Fe1.11Te; _alloy: Te 0.473934_ | experimental | [1] Arvhult 2018; _cites Leciejewicz 1963_ [doi](https://doi.org/10.3891/acta.chem.scand.17-2593) | Table 4, p. 5, row 3; `ORC-2ZNYC7OPXP.cb3b2e` |  |
+| Lattice c | 6.042 Å | 0 | β - Fe2Te; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 1; `ORC-373ALEIGH2.6940bb` |  |
+| Lattice c | 6.712 Å | 0 | β - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 2; `ORC-LZ4675GIPA.9ce69b` |  |
+| Lattice c | 20.938 Å | 0 | β' - Fe3Te2; _alloy: Te 0.4_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 4; `ORC-QUCGIPGXSU.67c1ba` |  |
+| Lattice c | 5.641 Å |  | δ - Fe0.75Te; _alloy: Te 0.571429_ | experimental | [1] Arvhult 2018; _cites Grnvold 1954_ [doi](https://doi.org/10.3891/acta.chem.scand.08-1927) | Table 4, p. 5, row 9; `ORC-PAQLTFZ3EC.e50f9d` |  |
+| Lattice c | 10.89 Å | 0 | δ - Fe3Te4; _alloy: Te 0.571429_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 7; `ORC-66SOWVUJXQ.c0a692` |  |
+| Lattice c | 5.06 Å | 0 | δ - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 6; `ORC-MK5M6OGP27.a5d687` |  |
+| Lattice c | 5.07 Å | 0 | δ - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 5; `ORC-ORLIEPCZH2.8a8e2c` |  |
+| Lattice c | 5.845 Å | 0 | δ - FeTe2; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 8; `ORC-Y42QMQG25Q.a9c94e` |  |
+| Lattice c | 5.312 Å | 0 | δ' - Fe2Te; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 12; `ORC-ZCWNWQAJZE.63c0eb` |  |
+| Lattice c | 5.63 Å |  | δ' - Fe2Te3; _alloy: Te 0.6_ | experimental | [1] Arvhult 2018; _cites Ward 1979_ [doi](https://doi.org/10.1088/0022-3719/12/5/016) | Table 4, p. 5, row 13; `ORC-B7LY2UOK4V.263aed` |  |
+| Lattice c | 5.068 Å | 0 | δ' - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 10; `ORC-FJWD3MRCPS.e127d8` |  |
+| Lattice c | 5.854 Å | 0 | δ' - FeTe2; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 11; `ORC-YVGHZWWTIS.98e1ab` |  |
+| Lattice c | 3.874 Å |  | ε - FeTe2; _alloy: Te 0.666667_ | experimental | [1] Arvhult 2018; _cites Brostigen 1970_ [doi](https://doi.org/10.3891/acta.chem.scand.24-1925) | Table 4, p. 5, row 16; `ORC-FXIKLOX3OB.f16f0a` |  |
+| Lattice c | 3.886 Å | 0 | ε - FeTe2; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 14; `ORC-NCJWGSJBWB.a4608b` |  |
+| lattice beta | 90.1 ° |  | δ - Fe0.75Te; _alloy: Te 0.571429_ | experimental | [1] Arvhult 2018; _cites Grnvold 1954_ [doi](https://doi.org/10.3891/acta.chem.scand.08-1927) | Table 4, p. 5, row 9; `ORC-PAQLTFZ3EC.509d9f` |  |
+| lattice beta | 90.65 ° | 0 | δ - Fe3Te4; _alloy: Te 0.571429_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 7; `ORC-66SOWVUJXQ.706a7c` |  |
+| lattice beta | 90.05 ° | 0 | δ - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 6; `ORC-MK5M6OGP27.00a3d3` |  |
+| lattice beta | 90.02 ° | 0 | δ - FeTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 5; `ORC-ORLIEPCZH2.8c5905` |  |
+| lattice beta | 90.01 ° | 0 | δ - FeTe2; _alloy: Te 0.666667_ | DFT | [1] Arvhult 2018 | Table 4, p. 5, row 8; `ORC-Y42QMQG25Q.eda7f6` |  |
 
 ## Sources
 

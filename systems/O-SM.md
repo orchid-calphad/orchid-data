@@ -81,9 +81,9 @@ Table: Crystal structure, O–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 44.263 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 8; `ORC-3MJ3IKGUEF.8e1490` |  |
-| lattice molar volume | 49.2 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 8; `ORC-3MJ3IKGUEF.95a782` |  |
-| lattice molar volume | 45.082 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 8; `ORC-3MJ3IKGUEF.c3ad24` |  |
+| lattice molar volume | 44.263 cm3 mol-1 | 298.15 | Sm2O3 (A-type); _alloy: O 0.6, Sm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 8; `ORC-3MJ3IKGUEF.8e1490` |  |
+| lattice molar volume | 45.082 cm3 mol-1 | 298.15 | Sm2O3 (B-type); _alloy: O 0.6, Sm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 8; `ORC-3MJ3IKGUEF.c3ad24` |  |
+| lattice molar volume | 49.2 cm3 mol-1 | 298.15 | Sm2O3 (C-type); _alloy: O 0.6, Sm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 8; `ORC-3MJ3IKGUEF.95a782` |  |
 
 ## Sources
 

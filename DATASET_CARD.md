@@ -420,7 +420,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 73542
-  download_size: 7706424
+  download_size: 7821331
 - config_name: papers
   features:
   - name: id
@@ -456,7 +456,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 4882
-  download_size: 532340
+  download_size: 532346
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -838,7 +838,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 10430
-  download_size: 451938
+  download_size: 452202
 - config_name: structure_types
   features:
   - name: id
@@ -1074,7 +1074,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 9570
-  download_size: 1539772
+  download_size: 1539781
 - config_name: bibliography_edges
   features:
   - name: id
@@ -1104,7 +1104,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 60235
-  download_size: 1085161
+  download_size: 1085143
 ---
 
 # ORCHID data: analysis-ready tables

@@ -228,44 +228,44 @@ Table: Activity / EMF / Gibbs energy, Cu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG0_ | -76200 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Diaz 1967_ | Table 3, p. 9, row 10; `ORC-4UXMCVB6KX.086889` |  |
-| Gibbs energy; _printed: ΔG0_ | -75820 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Diaz 1967_ | Table 3, p. 9, row 10; `ORC-4UXMCVB6KX.bb8f7e` |  |
-| Gibbs energy; _printed: ΔG0_ | -79080 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Tankins 1965_ | Table 3, p. 9, row 6; `ORC-74F5ZZCFJB.196655` |  |
-| Gibbs energy; _printed: ΔG0_ | -78150 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Tankins 1965_ | Table 3, p. 9, row 6; `ORC-74F5ZZCFJB.5845f3` |  |
-| Gibbs energy; _printed: ΔG0_ | -75400 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fitzner 1979_ [doi](https://doi.org/10.1179/030716979803276255) | Table 3, p. 9, row 37; `ORC-7U23KLOAO4.153a7e` |  |
-| Gibbs energy; _printed: ΔG0_ | -73550 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fitzner 1979_ [doi](https://doi.org/10.1179/030716979803276255) | Table 3, p. 9, row 37; `ORC-7U23KLOAO4.707e20` |  |
-| Gibbs energy; _printed: ΔG0_ | -76620 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Hendry 1974_ | Table 3, p. 9, row 30; `ORC-BQUFL322DG.a469dd` |  |
-| Gibbs energy; _printed: ΔG0_ | -80940 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Hendry 1974_ | Table 3, p. 9, row 30; `ORC-BQUFL322DG.e5f110` |  |
-| Gibbs energy; _printed: ΔG0_ | -77920 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 9, row 39; `ORC-DPSOLMSOUE.ee4134` |  |
-| Gibbs energy; _printed: ΔG0_ | -78380 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 9, row 39; `ORC-DPSOLMSOUE.ee612f` |  |
-| Gibbs energy; _printed: ΔG0_ | -85530 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites M 1967_ | Table 3, p. 9, row 11; `ORC-HLI7SHVJ2U.8c4270` |  |
-| Gibbs energy; _printed: ΔG0_ | -85690 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites M 1967_ | Table 3, p. 9, row 11; `ORC-HLI7SHVJ2U.ef0933` |  |
-| Gibbs energy; _printed: ΔG0_ | -76130 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 71Jac_ | Table 3, p. 9, row 23; `ORC-NMBWFWIITG.23ef9a` |  |
-| Gibbs energy; _printed: ΔG0_ | -75000 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 71Jac_ | Table 3, p. 9, row 23; `ORC-NMBWFWIITG.7a1eaa` |  |
-| Gibbs energy; _printed: ΔG0_ | -75960 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Wilder 1966_ | Table 3, p. 9, row 9; `ORC-S3NQ2UDDAZ.073cbf` |  |
-| Gibbs energy; _printed: ΔG0_ | -76900 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Wilder 1966_ | Table 3, p. 9, row 9; `ORC-S3NQ2UDDAZ.d763d8` |  |
 | Gibbs energy; _printed: ΔG0_ | -78380 J/mol |  | liquid | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 10, row 1; `ORC-QQLVQW76AV.a2e7bf` |  |
 | Gibbs energy; _printed: ΔG0_ | -77920 J/mol |  | liquid | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 10, row 1; `ORC-QQLVQW76AV.ed7e5e` |  |
+| Gibbs energy; _printed: ΔG0_ | -76200 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Diaz 1967_ | Table 3, p. 9, row 10; `ORC-4UXMCVB6KX.086889` |  |
+| Gibbs energy; _printed: ΔG0_ | -75820 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Diaz 1967_ | Table 3, p. 9, row 10; `ORC-4UXMCVB6KX.bb8f7e` |  |
+| Gibbs energy; _printed: ΔG0_ | -79080 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Tankins 1965_ | Table 3, p. 9, row 6; `ORC-74F5ZZCFJB.196655` |  |
+| Gibbs energy; _printed: ΔG0_ | -78150 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Tankins 1965_ | Table 3, p. 9, row 6; `ORC-74F5ZZCFJB.5845f3` |  |
+| Gibbs energy; _printed: ΔG0_ | -75400 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Fitzner 1979_ [doi](https://doi.org/10.1179/030716979803276255) | Table 3, p. 9, row 37; `ORC-7U23KLOAO4.153a7e` |  |
+| Gibbs energy; _printed: ΔG0_ | -73550 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Fitzner 1979_ [doi](https://doi.org/10.1179/030716979803276255) | Table 3, p. 9, row 37; `ORC-7U23KLOAO4.707e20` |  |
+| Gibbs energy; _printed: ΔG0_ | -76620 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Hendry 1974_ | Table 3, p. 9, row 30; `ORC-BQUFL322DG.a469dd` |  |
+| Gibbs energy; _printed: ΔG0_ | -80940 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Hendry 1974_ | Table 3, p. 9, row 30; `ORC-BQUFL322DG.e5f110` |  |
+| Gibbs energy; _printed: ΔG0_ | -77920 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 9, row 39; `ORC-DPSOLMSOUE.ee4134` |  |
+| Gibbs energy; _printed: ΔG0_ | -78380 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 9, row 39; `ORC-DPSOLMSOUE.ee612f` |  |
+| Gibbs energy; _printed: ΔG0_ | -85530 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites M 1967_ | Table 3, p. 9, row 11; `ORC-HLI7SHVJ2U.8c4270` |  |
+| Gibbs energy; _printed: ΔG0_ | -85690 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites M 1967_ | Table 3, p. 9, row 11; `ORC-HLI7SHVJ2U.ef0933` |  |
+| Gibbs energy; _printed: ΔG0_ | -76130 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites ref. 71Jac_ | Table 3, p. 9, row 23; `ORC-NMBWFWIITG.23ef9a` |  |
+| Gibbs energy; _printed: ΔG0_ | -75000 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites ref. 71Jac_ | Table 3, p. 9, row 23; `ORC-NMBWFWIITG.7a1eaa` |  |
+| Gibbs energy; _printed: ΔG0_ | -75960 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Wilder 1966_ | Table 3, p. 9, row 9; `ORC-S3NQ2UDDAZ.073cbf` |  |
+| Gibbs energy; _printed: ΔG0_ | -76900 J/mol |  | liquid Cu | experimental | [1] Hallstedt 1994; _cites Wilder 1966_ | Table 3, p. 9, row 9; `ORC-S3NQ2UDDAZ.d763d8` |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -112.67 kJ/mol | 298.15 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Maier 1929_ [doi](https://doi.org/10.1021/ja01376a024) | Table 11, p. 13, row 4; `ORC-GNTGZPTRWU.544bc1` |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -107.6 kJ/mol | 298.15 | UNKNOWN | model | [1] Hallstedt 1994 | Table 11, p. 13, row 10; `ORC-JFNBHZ6QIT.c5018b` |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -110.21 kJ/mol | 298.15 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 10All_ | Table 11, p. 13, row 2; `ORC-OF7WFZ4FIS` |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -108.7 kJ/mol | 298.15 | UNKNOWN | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 11, p. 13, row 9; `ORC-PYTD2C6HQG.620249` |  |
-| Gibbs energy; _printed: ΔG0_ | -76590 J/mol | 1373 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fitzner 1978_ | Table 3, p. 9, row 35; `ORC-3EFJSN4QOF.75bda9` |  |
-| Gibbs energy; _printed: ΔG0_ | -76650 J/mol | 1408 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Nanda 1970_ [doi](https://doi.org/10.1007/bf02900236) | Table 3, p. 9, row 20; `ORC-XZ62TAIPXP.a0c217` |  |
-| Gibbs energy; _printed: ΔG0_ | -76660 J/mol | 1418 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Rickert 1966_ [doi](https://doi.org/10.1016/0013-4686%2866%2985009-0) | Table 3, p. 9, row 8; `ORC-7BFVWN7U2H.749df8` |  |
-| Gibbs energy; _printed: ΔG0_ | -79570 J/mol | 1423 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Moser 1975_ | Table 3, p. 9, row 33; `ORC-56337Y7FXN.b04159` |  |
-| Gibbs energy; _printed: ΔG0_ | -75460 J/mol | 1423 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197003613) | Table 3, p. 9, row 19; `ORC-L5X7GLZTTJ.bc881e` |  |
-| Gibbs energy; _printed: ΔG0_ | -73640 J/mol | 1423 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Janke 1975_ | Table 3, p. 9, row 32; `ORC-XAKXVF5BJV.52042c` |  |
-| Gibbs energy; _printed: ΔG0_ | -77920 J/mol | 1423 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Pluschkell 1965_ | Table 3, p. 9, row 5; `ORC-XB4JYCNZTJ.7c6880` |  |
-| Gibbs energy; _printed: ΔG0_ | -75940 J/mol | 1473 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 69Blo_ | Table 3, p. 9, row 16; `ORC-F4TKBFITLY.603a92` |  |
-| Gibbs energy; _printed: ΔG0_ | -76360 J/mol | 1473 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Staffansson 1974_ | Table 3, p. 9, row 31; `ORC-JBEB4TYVMC.7b4c4d` |  |
-| Gibbs energy; _printed: ΔG0_ | -75400 J/mol | 1473 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 83Aru_ | Table 3, p. 9, row 46; `ORC-MZOM5VWVM2.e793ec` |  |
-| Gibbs energy; _printed: ΔG0_ | -74600 J/mol | 1473 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Sudavtsova 1979_ | Table 3, p. 9, row 40; `ORC-Y2SS7PSHJF.0bd5c5` |  |
+| Gibbs energy; _printed: ΔG0_ | -76590 J/mol | 1373 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Fitzner 1978_ | Table 3, p. 9, row 35; `ORC-3EFJSN4QOF.75bda9` |  |
+| Gibbs energy; _printed: ΔG0_ | -76650 J/mol | 1408 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Nanda 1970_ [doi](https://doi.org/10.1007/bf02900236) | Table 3, p. 9, row 20; `ORC-XZ62TAIPXP.a0c217` |  |
+| Gibbs energy; _printed: ΔG0_ | -76660 J/mol | 1418 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Rickert 1966_ [doi](https://doi.org/10.1016/0013-4686%2866%2985009-0) | Table 3, p. 9, row 8; `ORC-7BFVWN7U2H.749df8` |  |
+| Gibbs energy; _printed: ΔG0_ | -79570 J/mol | 1423 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Moser 1975_ | Table 3, p. 9, row 33; `ORC-56337Y7FXN.b04159` |  |
+| Gibbs energy; _printed: ΔG0_ | -75460 J/mol | 1423 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197003613) | Table 3, p. 9, row 19; `ORC-L5X7GLZTTJ.bc881e` |  |
+| Gibbs energy; _printed: ΔG0_ | -73640 J/mol | 1423 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Janke 1975_ | Table 3, p. 9, row 32; `ORC-XAKXVF5BJV.52042c` |  |
+| Gibbs energy; _printed: ΔG0_ | -77920 J/mol | 1423 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Pluschkell 1965_ | Table 3, p. 9, row 5; `ORC-XB4JYCNZTJ.7c6880` |  |
 | Gibbs energy; _printed: ΔG0_ | -74600 J/mol | 1473 | liquid | experimental | [1] Hallstedt 1994; _cites Sudavtsova 1979_ | Table 3, p. 10, row 2; `ORC-2ZXJFN7YTS.4c043c` |  |
 | Gibbs energy; _printed: ΔG0_ | -75400 J/mol | 1473 | liquid | experimental | [1] Hallstedt 1994; _cites ref. 83Aru_ | Table 3, p. 10, row 8; `ORC-O76BQIVPLG.fd30ff` |  |
-| Gibbs energy; _printed: ΔG0_ | -75240 J/mol | 1573 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Kemori 1980_ [doi](https://doi.org/10.2320/matertrans1960.21.275) | Table 3, p. 9, row 42; `ORC-2PC2ERV2SY.2c322a` |  |
+| Gibbs energy; _printed: ΔG0_ | -75940 J/mol | 1473 | liquid Cu | experimental | [1] Hallstedt 1994; _cites ref. 69Blo_ | Table 3, p. 9, row 16; `ORC-F4TKBFITLY.603a92` |  |
+| Gibbs energy; _printed: ΔG0_ | -76360 J/mol | 1473 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Staffansson 1974_ | Table 3, p. 9, row 31; `ORC-JBEB4TYVMC.7b4c4d` |  |
+| Gibbs energy; _printed: ΔG0_ | -75400 J/mol | 1473 | liquid Cu | experimental | [1] Hallstedt 1994; _cites ref. 83Aru_ | Table 3, p. 9, row 46; `ORC-MZOM5VWVM2.e793ec` |  |
+| Gibbs energy; _printed: ΔG0_ | -74600 J/mol | 1473 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Sudavtsova 1979_ | Table 3, p. 9, row 40; `ORC-Y2SS7PSHJF.0bd5c5` |  |
 | Gibbs energy; _printed: ΔG0_ | -75240 J/mol | 1573 | liquid | experimental | [1] Hallstedt 1994; _cites Kemori 1980_ [doi](https://doi.org/10.2320/matertrans1960.21.275) | Table 3, p. 10, row 4; `ORC-XM4GY2U7ZY.31e7e4` |  |
-| Gibbs energy; _printed: ΔG0_ | -75160 J/mol | 1873 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fischer 1971_ | Table 3, p. 9, row 22; `ORC-2GMNJXTTAO.d63f22` |  |
+| Gibbs energy; _printed: ΔG0_ | -75240 J/mol | 1573 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Kemori 1980_ [doi](https://doi.org/10.2320/matertrans1960.21.275) | Table 3, p. 9, row 42; `ORC-2PC2ERV2SY.2c322a` |  |
+| Gibbs energy; _printed: ΔG0_ | -75160 J/mol | 1873 | liquid Cu | experimental | [1] Hallstedt 1994; _cites Fischer 1971_ | Table 3, p. 9, row 22; `ORC-2GMNJXTTAO.d63f22` |  |
 
 ### Model expression (174)
 

@@ -120,35 +120,35 @@ Table: Crystal structure, Sc–Si system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.3088 Å | 298.15 | (αSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 2; `ORC-W2XQWDOBRJ.b75228` |  |
 | Lattice a | 3.73 Å | 298.15 | (βSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites Massalski 1986_ | Table 1, p. 2, row 3; `ORC-CKSI2G6J3J` |  |
+| Lattice a | 7.845 Å | 298.15 | Sc5Si3; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Sychev 1980_ | Table 1, p. 2, row 7; `ORC-C5AWJIH4E3.0f3914` |  |
+| Lattice a | 7.861 Å | 298.15 | Sc5Si3; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites McColm 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990517-0) | Table 1, p. 2, row 8; `ORC-GJ5VRCK3ZF.a1e609` |  |
+| Lattice a | 7.86 Å | 298.15 | Sc5Si3; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 6; `ORC-KYNARDNMFZ.279093` |  |
+| Lattice a | 7.85 Å | 298.15 | Sc5Si3; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 4; `ORC-QCCFEUJQAI.543458` |  |
+| Lattice a | 7.861 Å | 298.15 | Sc5Si3; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Arbuckle 1962_ [doi](https://doi.org/10.1107/s0365110x62003217) | Table 1, p. 2, row 5; `ORC-ZJ3EMB6AIP.52f7a2` |  |
 | Lattice a | 3.99 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 9; `ORC-64HIZQWHKB.2ea162` |  |
 | Lattice a | 3.99 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Dvorina 1965_ | Table 1, p. 2, row 10; `ORC-E5NIVP3YBJ.64d7ac` |  |
 | Lattice a | 3.99 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 12; `ORC-EVRNH7D5OY.7c493e` |  |
 | Lattice a | 0.3988 not_printed | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Schob 1965_ [doi](https://doi.org/10.1107/s0365110x65003134) | Table 1, p. 2, row 11; `ORC-SKUDVBH6RX.64a1e3` |  |
-| Lattice a | 7.845 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Sychev 1980_ | Table 1, p. 2, row 7; `ORC-C5AWJIH4E3.0f3914` |  |
-| Lattice a | 3.664 Å | 298.15 | UNKNOWN; _alloy: Si 0.6_ | experimental | [1] Qin 2015; _cites Schob 1964_ [doi](https://doi.org/10.1007/bf00901700) | Table 1, p. 2, row 13; `ORC-COKFFI7PUI.e7d646` |  |
-| Lattice a | 7.861 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites McColm 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990517-0) | Table 1, p. 2, row 8; `ORC-GJ5VRCK3ZF.a1e609` |  |
-| Lattice a | 7.86 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 6; `ORC-KYNARDNMFZ.279093` |  |
-| Lattice a | 3.66 Å | 298.15 | UNKNOWN; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 15; `ORC-NCCVUC3ZVJ.bf5f6b` |  |
-| Lattice a | 7.85 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 4; `ORC-QCCFEUJQAI.543458` |  |
-| Lattice a | 0.366 not_printed ± 0.001 | 298.15 | UNKNOWN; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Gladyshevskii 1963_ | Table 1, p. 2, row 14; `ORC-SQR4YSJ64Y.a0fa06` |  |
-| Lattice a | 7.861 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Arbuckle 1962_ [doi](https://doi.org/10.1107/s0365110x62003217) | Table 1, p. 2, row 5; `ORC-ZJ3EMB6AIP.52f7a2` |  |
+| Lattice a | 3.664 Å | 298.15 | αSc2Si3; _alloy: Si 0.6_ | experimental | [1] Qin 2015; _cites Schob 1964_ [doi](https://doi.org/10.1007/bf00901700) | Table 1, p. 2, row 13; `ORC-COKFFI7PUI.e7d646` |  |
+| Lattice a | 3.66 Å | 298.15 | αSc3Si5; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 15; `ORC-NCCVUC3ZVJ.bf5f6b` |  |
+| Lattice a | 0.366 not_printed ± 0.001 | 298.15 | αSc3Si5; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Gladyshevskii 1963_ | Table 1, p. 2, row 14; `ORC-SQR4YSJ64Y.a0fa06` |  |
 | Lattice b | 9.87 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 9; `ORC-64HIZQWHKB.37ead6` |  |
 | Lattice b | 9.86 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Dvorina 1965_ | Table 1, p. 2, row 10; `ORC-E5NIVP3YBJ.ab5d8f` |  |
 | Lattice b | 9.86 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 12; `ORC-EVRNH7D5OY.6a50fd` |  |
 | Lattice b | 0.9882 not_printed ± 5.000e-4 | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Schob 1965_ [doi](https://doi.org/10.1107/s0365110x65003134) | Table 1, p. 2, row 11; `ORC-SKUDVBH6RX.b20e55` |  |
 | Lattice c | 5.268 Å | 298.15 | (αSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 2; `ORC-W2XQWDOBRJ.ce3d5e` |  |
+| Lattice c | 5.786 Å | 298.15 | Sc5Si3; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Sychev 1980_ | Table 1, p. 2, row 7; `ORC-C5AWJIH4E3.efdb74` |  |
+| Lattice c | 5.814 Å | 298.15 | Sc5Si3; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites McColm 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990517-0) | Table 1, p. 2, row 8; `ORC-GJ5VRCK3ZF.06d246` |  |
+| Lattice c | 58.1 Å | 298.15 | Sc5Si3; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 6; `ORC-KYNARDNMFZ.a0e807` |  |
+| Lattice c | 5.76 Å | 298.15 | Sc5Si3; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 4; `ORC-QCCFEUJQAI.b92983` |  |
+| Lattice c | 5.812 Å | 298.15 | Sc5Si3; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Arbuckle 1962_ [doi](https://doi.org/10.1107/s0365110x62003217) | Table 1, p. 2, row 5; `ORC-ZJ3EMB6AIP.dd9d8d` |  |
 | Lattice c | 3.657 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 9; `ORC-64HIZQWHKB.ee9b32` |  |
 | Lattice c | 3.65 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Dvorina 1965_ | Table 1, p. 2, row 10; `ORC-E5NIVP3YBJ.a3bf8d` |  |
 | Lattice c | 3.65 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 12; `ORC-EVRNH7D5OY.91b1a0` |  |
 | Lattice c | 0.3659 not_printed ± 2.000e-4 | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Schob 1965_ [doi](https://doi.org/10.1107/s0365110x65003134) | Table 1, p. 2, row 11; `ORC-SKUDVBH6RX.43f6ae` |  |
-| Lattice c | 5.786 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Sychev 1980_ | Table 1, p. 2, row 7; `ORC-C5AWJIH4E3.efdb74` |  |
-| Lattice c | 3.877 Å | 298.15 | UNKNOWN; _alloy: Si 0.6_ | experimental | [1] Qin 2015; _cites Schob 1964_ [doi](https://doi.org/10.1007/bf00901700) | Table 1, p. 2, row 13; `ORC-COKFFI7PUI.1edc26` |  |
-| Lattice c | 5.814 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites McColm 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990517-0) | Table 1, p. 2, row 8; `ORC-GJ5VRCK3ZF.06d246` |  |
-| Lattice c | 58.1 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 6; `ORC-KYNARDNMFZ.a0e807` |  |
-| Lattice c | 3.87 Å | 298.15 | UNKNOWN; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 15; `ORC-NCCVUC3ZVJ.f0b832` |  |
-| Lattice c | 5.76 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 4; `ORC-QCCFEUJQAI.b92983` |  |
-| Lattice c | 0.387 not_printed ± 0.001 | 298.15 | UNKNOWN; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Gladyshevskii 1963_ | Table 1, p. 2, row 14; `ORC-SQR4YSJ64Y.7d06c5` |  |
-| Lattice c | 5.812 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Arbuckle 1962_ [doi](https://doi.org/10.1107/s0365110x62003217) | Table 1, p. 2, row 5; `ORC-ZJ3EMB6AIP.dd9d8d` |  |
+| Lattice c | 3.877 Å | 298.15 | αSc2Si3; _alloy: Si 0.6_ | experimental | [1] Qin 2015; _cites Schob 1964_ [doi](https://doi.org/10.1007/bf00901700) | Table 1, p. 2, row 13; `ORC-COKFFI7PUI.1edc26` |  |
+| Lattice c | 3.87 Å | 298.15 | αSc3Si5; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 15; `ORC-NCCVUC3ZVJ.f0b832` |  |
+| Lattice c | 0.387 not_printed ± 0.001 | 298.15 | αSc3Si5; _alloy: Si 0.625_ | experimental | [1] Qin 2015; _cites Gladyshevskii 1963_ | Table 1, p. 2, row 14; `ORC-SQR4YSJ64Y.7d06c5` |  |
 
 ## Sources
 

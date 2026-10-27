@@ -16,7 +16,7 @@ Table: Phases of the Ge–Si system (5)
 | [BCC_A2](#phase-ge-si-bcc-a2); _phase:ge-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ge-si-fcc-a1); _phase:ge-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-ge-si-hcp-a3); _phase:ge-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ge-si-liquid); _phase:ge-si:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1211.4–2500 K, x(Si) 0–1 | 30 | 2 |
+| [LIQUID](#phase-ge-si-liquid); _phase:ge-si:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1211.4–2500 K, x(Si) 0–1 | 31 | 2 |
 
 ## DIAMOND_A4 (Ge–Si)
 
@@ -163,7 +163,7 @@ _assessment that models this phase_
 - Id: `phase:ge-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1211.4–2500 K, x(Si) 0–1
-- Literature: 30 values (30 accepted) from 1 papers
+- Literature: 31 values (31 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-si:liquid)
 
 Names (4): _corpus: _corpus:phase:ge-si:liquid  

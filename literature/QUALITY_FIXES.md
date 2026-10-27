@@ -537,8 +537,8 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 
 | count | n |
 |---|---:|
-| blocked_by_flag | 282 |
-| blocked_by_flag_phase_identity_missing | 267 |
+| blocked_by_flag | 281 |
+| blocked_by_flag_phase_identity_missing | 266 |
 | blocked_by_flag_terminal_phase_mapping_unresolved | 15 |
 | espei_certified | 1892 |
 | espei_ready | 11189 |
@@ -759,7 +759,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-MFUTBPJ73V.a91205 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-NKAWVPI72A.406946 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-NKAWVPI72A.a2b053 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
-| ORC-K43YLA7BZC.068413 | GE-SI | ACR_GE | 1723.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-27ENRZHFIH.bb8a88 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-2QGHJJNDFX.677f28 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-2XJVL52ZZS.8a49ec | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |

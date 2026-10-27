@@ -15,7 +15,7 @@ Table: Phases of the Co–Ga system (7)
 | [ORTHORHOMBIC_A11](#phase-co-ga-a11-orthorhombic); _phase:co-ga:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–302.91 K, x(Ga) 1–1 | 2 | 3 |
 | [BCC_A2](#phase-co-ga-bcc-a2); _phase:co-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [COGA_B2](#phase-co-ga-coga-b2); _phase:co-ga:coga-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Ga) 0.22551–0.71442 | 22 | 3 |
-| [COGA3](#phase-co-ga-coga3); _phase:co-ga:coga3_ | In3Ir · tP16 · P4_2/mnm (136) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–1132.33 K, x(Ga) 0.75–0.75 | 16 | 3 |
+| [COGA3](#phase-co-ga-coga3); _phase:co-ga:coga3_ | In3Ir · tP16 · P4_2/mnm (136) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–1132.33 K, x(Ga) 0.75–0.75 | 19 | 3 |
 | [FCC_A1](#phase-co-ga-fcc-a1); _phase:co-ga:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1768.99 K, x(Ga) 0–0.19684 | 12 | 3 |
 | [HCP_A3](#phase-co-ga-hcp-a3); _phase:co-ga:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–701.98 K, x(Ga) 0–0.10938 | 0 | 3 |
 | [LIQUID](#phase-co-ga-liquid); _phase:co-ga:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 302.91–2500 K, x(Ga) 0–1 | 20 | 3 |
@@ -164,7 +164,7 @@ _cited as the source of values for this phase_
 - Structure: In3Ir · tP16 · P4_2/mnm (136); type `st:in3ir-tp16`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Co 0.2500, Ga 0.7500
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1132.33 K, x(Ga) 0.75–0.75
-- Literature: 16 values (16 accepted) from 3 papers
+- Literature: 19 values (19 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ga:coga3)
 
 Names (9): _corpus: _corpus:phase:co-ga:coga3  
@@ -205,9 +205,9 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1361/105497199770340608](https://doi.org/10.1361/105497199770340608) J. Gröbner, R. Wenzel, G. G. Fischer, R. Schmid-Fetzer, Thermodynamic calculation of the binary systems M-Ga and investigation of ternary M-Ga-N phase equilibria (M=Ni, Co, Pd, Cr), JPE 20, 615-625 (1999).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0040-6031(75)85065-9](https://doi.org/10.1016/0040-6031%2875%2985065-9) Bruno Predel, Wolfgang Vogelbein, Udo Schallner, Thermodynamische untersuchung des systems nickel-gallium, Thermochimica Acta 12, 367-375 (1975).  
-_cited as the source of values for this phase_
 - [doi:10.1016/s0925-8388(97)00223-5](https://doi.org/10.1016/s0925-8388%2897%2900223-5) H. Meyer, M. Ellner, On the solubility of aluminium in the intermetallic compound CoGa3, Journal of Alloys and Compounds 261, 250-253 (1997).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0040-6031(75)85065-9](https://doi.org/10.1016/0040-6031%2875%2985065-9) Bruno Predel, Wolfgang Vogelbein, Udo Schallner, Thermodynamische untersuchung des systems nickel-gallium, Thermochimica Acta 12, 367-375 (1975).  
 _cited as the source of values for this phase_
 
 ## FCC_A1 (Co–Ga)

@@ -53,10 +53,10 @@ Table: Crystal structure, Li–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 15.05 Å | 425.15 (\<) | UNKNOWN; _alloy: Li 0.793103, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Kripyakevich 1963_ | Table 2, p. 2, row 10; `ORC-7SYDCANYB5` |  |
-| Lattice a | 14.88 Å | 425.15 (\<) | UNKNOWN; _alloy: Li 0.793103, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 9; `ORC-QTZSB7XS6D` |  |
-| Lattice a | 9.628 Å | 471.15 (\<) | UNKNOWN; _alloy: Li 0.4, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11; `ORC-5MDK6TQCK4.4f8db4` |  |
-| Lattice c | 8.55 Å | 471.15 (\<) | UNKNOWN; _alloy: Li 0.4, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11; `ORC-5MDK6TQCK4.77a7ae` |  |
+| Lattice a | 15.05 Å | 425.15 (\<) | Sr6Li23; _alloy: Li 0.793103, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Kripyakevich 1963_ | Table 2, p. 2, row 10; `ORC-7SYDCANYB5` |  |
+| Lattice a | 14.88 Å | 425.15 (\<) | Sr6Li23; _alloy: Li 0.793103, Sr 0.206897_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 9; `ORC-QTZSB7XS6D` |  |
+| Lattice a | 9.628 Å | 471.15 (\<) | Sr3Li2; _alloy: Li 0.4, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11; `ORC-5MDK6TQCK4.4f8db4` |  |
+| Lattice c | 8.55 Å | 471.15 (\<) | Sr3Li2; _alloy: Li 0.4, Sr 0.6_ | experimental | [1] Chen 2012; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 2, p. 2, row 11; `ORC-5MDK6TQCK4.77a7ae` |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Si–V system
 
-> Si–V system: 128 accepted literature values (formation 66, crystal structure 41, invariant reaction 12, phase transition 7) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–V system: 129 accepted literature values (formation 66, crystal structure 42, invariant reaction 12, phase transition 7) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-V.html · Markdown: https://data.orchid-project.org/systems/SI-V.md
 
-128 accepted literature values from 3 paper(s) (experimental 43, model 45, DFT 21, unspecified 19); 4 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+129 accepted literature values from 3 paper(s) (experimental 43, model 45, DFT 21, unspecified 20); 4 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-V.json) · [CSV](https://data.orchid-project.org/systems/SI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-V/SiV-08Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/SI-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-V.html) · [Markdown](https://data.orchid-project.org/systems/SI-V.md)
 
@@ -15,7 +15,7 @@ Table: Accepted values by evidence class
 | experimental | 43 |
 | model | 45 |
 | DFT | 21 |
-| unspecified | 19 |
+| unspecified | 20 |
 
 Table: Accepted values by property group
 
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase transition | 7 |
 | phase equilibrium | 2 |
 | formation | 66 |
-| crystal structure | 41 |
+| crystal structure | 42 |
 
 ## Calculated phase diagrams
 
@@ -210,7 +210,7 @@ Table: Phase equilibrium, Si–V system
 | Phase composition |  | 1681.15 | other: V7Si93; _liquid: Si 0.93, V 0.07_ | experimental | [1] Zhang 2008 | Table 1, p. 2, row 2; `ORC-Y6VNBZ5YVJ` |  |
 | Phase composition |  | 1683.15 | other: V3Si97; _liquid: Si 0.97, V 0.03_ | experimental | [1] Zhang 2008 | Table 1, p. 2, row 4; `ORC-QBD7WXU7XC` |  |
 
-### Crystal structure (41)
+### Crystal structure (42)
 
 Table: Crystal structure, Si–V system
 
@@ -229,6 +229,7 @@ Table: Crystal structure, Si–V system
 | Lattice a | 4.882 Å | 0 | V6Si5; _alloy: V 0.545455_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 43; `ORC-4QCPKRA2EI.d3d33b` |  |
 | Lattice a | 7.483 Å | 0 | V6Si5; _alloy: V 0.545455_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 45; `ORC-DEGVX3G5NU.d17044` |  |
 | Lattice a | 4.563 Å | 0 | VSi2; _alloy: V 0.333333_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 36; `ORC-7NEZTN4DBG.153c36` |  |
+| Lattice a | 4.725 Å | 298.15 | V3Si; _alloy: V 0.75_ | unspecified | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 37; `ORC-3DVMS3V7XG` |  |
 | Lattice a | 4.727 Å | 298.15 | V3Si; _alloy: V 0.75_ | model | [3] Broz 2013; _cites Kanematsu 1986_ [doi](https://doi.org/10.2320/matertrans1960.27.225) | Table 1, p. 3, row 38; `ORC-HPUUNUXFBY` |  |
 | Lattice a | 9.383 Å | 298.15 | V5Si3; _alloy: V 0.625_ | unspecified | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 19; `ORC-42G4WDT2LW.0c96a6` |  |
 | Lattice a | 0.94264 not_printed ± 4.000e-5 | 298.15 | V5Si3; _alloy: V 0.625_ | experimental | [3] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 20; `ORC-I7V4JKSTCI.7420d2` |  |

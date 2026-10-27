@@ -46,9 +46,9 @@ Table: Formation, Fe–La–O system
 | hm from compounds; _printed: Δf,oxides °H_ | -12.15 kJ/mol-atom | 298.15 | LaFeO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 4; `ORC-TUO5UDNKGT` |  |
 | hm from compounds; _printed: Δf,oxides °H_ | -12.47 kJ/mol-atom | 975 | LaFeO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 5; `ORC-47UO2JTKH2` |  |
 | hm from compounds; _printed: Δf,oxides °H^LaFeO3_975 K_ | -12.916 kJ/mol-atom ± 0.78 | 975 | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 6; `ORC-OQCLETBQBP.6f5bb8` |  |
+| hm from compounds; _printed: Δf,oxides °H_ | -64.58 kJ/mol (basis unstated) ± 3.9 | 975 | LaFeO3 | experimental | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 6; `ORC-OQCLETBQBP.a862d7` |  |
 | hm from compounds; _printed: Δf,oxides °H^LaFeO3_975 K_ | -12.92 kJ/mol-atom ± 0.78 | 975 | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 7; `ORC-QCJF6PUMS7.40be5a` |  |
-| hm from compounds; _printed: Δf,oxides °H_ | -64.58 kJ/mol (basis unstated) ± 3.9 | 975 | UNKNOWN | experimental | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 6; `ORC-OQCLETBQBP.a862d7` |  |
-| hm from compounds; _printed: Δf,oxides °H_ | -64.6 kJ/mol (basis unstated) ± 3.9 | 975 | UNKNOWN | experimental | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 7; `ORC-QCJF6PUMS7.45699e` |  |
+| hm from compounds; _printed: Δf,oxides °H_ | -64.6 kJ/mol (basis unstated) ± 3.9 | 975 | LaFeO3 | experimental | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 7; `ORC-QCJF6PUMS7.45699e` |  |
 
 ### Heat capacity / entropy / enthalpy (5)
 

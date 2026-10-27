@@ -55,7 +55,7 @@ Table: Activity / EMF / Gibbs energy, Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: G^ex_ | 0 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 1_ | experimental | [4] Bergman 1992 | Table 3, p. 3, row 1; `ORC-MX4X76FL6C.b65724` |  |
+| Gibbs energy; _printed: G^ex_ | 0 kJ/mol | 1723 | liquid; _alloy: Ge 1_ | experimental | [4] Bergman 1992 | Table 3, p. 3, row 1; `ORC-MX4X76FL6C.b65724` |  |
 
 ### Crystal structure (19)
 

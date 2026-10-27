@@ -29,7 +29,7 @@ Table: Crystal structure, B–Hf–Ti system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.09 Å (range 2.995 to 3.185) | 298.15 | (αTi,αHf) | unspecified | [1] Bittermann 1997; _cites Chang 1966_ | Table 2, p. 3, row 16; `ORC-Q5PB53B7HA.01194a` |  |
-| Lattice a | 0.2995 not_printed | 298.15 | UNKNOWN | unspecified | [1] Bittermann 1997; _cites Chang 1966_ | Table 2, p. 3, row 11; `ORC-YAG5WZCKFY` |  |
+| Lattice a | 0.2995 not_printed | 298.15 | (αTi,αHf) | unspecified | [1] Bittermann 1997; _cites Chang 1966_ | Table 2, p. 3, row 11; `ORC-YAG5WZCKFY` |  |
 | Lattice c | 4.8625 Å (range 4.685 to 5.04) | 298.15 | (αTi,αHf) | unspecified | [1] Bittermann 1997; _cites Chang 1966_ | Table 2, p. 3, row 16; `ORC-Q5PB53B7HA.3d6b19` |  |
 
 ## Sources

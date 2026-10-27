@@ -1,10 +1,10 @@
 # Cu–Gd system
 
-> Cu–Gd system: 35 accepted literature values (invariant reaction 32, formation 2, crystal structure 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Gd system: 46 accepted literature values (invariant reaction 32, crystal structure 12, formation 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-GD.html · Markdown: https://data.orchid-project.org/systems/CU-GD.md
 
-35 accepted literature values from 2 paper(s) (experimental 14, model 13, DFT 1, unspecified 7); 1 calculated phase diagram(s).
+46 accepted literature values from 2 paper(s) (experimental 14, model 13, DFT 1, unspecified 18); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-GD.json) · [CSV](https://data.orchid-project.org/systems/CU-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-GD/CuGd-09Zha.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CU-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-GD.html) · [Markdown](https://data.orchid-project.org/systems/CU-GD.md)
 
@@ -15,7 +15,7 @@ Table: Accepted values by evidence class
 | experimental | 14 |
 | model | 13 |
 | DFT | 1 |
-| unspecified | 7 |
+| unspecified | 18 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 32 |
 | formation | 2 |
-| crystal structure | 1 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -119,13 +119,24 @@ Table: Enthalpies of formation, Cu–Gd system (2)
 
 ## Other properties
 
-### Crystal structure (1)
+### Crystal structure (12)
 
 Table: Crystal structure, Cu–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.501 Å | 298.15 | UNKNOWN; _alloy: Cu 0.5, Gd 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 19; `ORC-C4N7CRPKO2` |  |
+| Lattice a | 4.32 Å | 298.15 | Cu2Gd | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 18; `ORC-FXTG6OTLI4.2321e0` |  |
+| Lattice a | 5.02 Å | 298.15 | Cu5Gd_H | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 15; `ORC-2JSWDCIOGV.7c8931` |  |
+| Lattice a | 7.06 Å | 298.15 | Cu5Gd_L | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 14; `ORC-ZLB3T33L5N` |  |
+| Lattice a | 8.03 Å | 298.15 | Cu6Gd | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 13; `ORC-4D44H6Q7KY.c986b7` |  |
+| Lattice a | 5 Å | 298.15 | Cu9Gd2 | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 16; `ORC-QSSUSWHRYA.32b380` |  |
+| Lattice a | 3.501 Å | 298.15 | CuGd; _alloy: Cu 0.5, Gd 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 19; `ORC-C4N7CRPKO2` |  |
+| Lattice b | 6.86 Å | 298.15 | Cu2Gd | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 18; `ORC-FXTG6OTLI4.cfa514` |  |
+| Lattice b | 5.02 Å | 298.15 | Cu6Gd | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 13; `ORC-4D44H6Q7KY.44ff54` |  |
+| Lattice c | 7.33 Å | 298.15 | Cu2Gd | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 18; `ORC-FXTG6OTLI4.0a0126` |  |
+| Lattice c | 4.12 Å | 298.15 | Cu5Gd_H | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 15; `ORC-2JSWDCIOGV.0f0bf5` |  |
+| Lattice c | 9.995 Å | 298.15 | Cu6Gd | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 13; `ORC-4D44H6Q7KY.107521` |  |
+| Lattice c | 13.9 Å | 298.15 | Cu9Gd2 | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 16; `ORC-QSSUSWHRYA.d66671` |  |
 
 ## Sources
 

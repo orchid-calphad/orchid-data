@@ -109,23 +109,23 @@ Table: Crystal structure, Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.827 Å |  | UNKNOWN; _alloy: Fe 1_ | DFT | [13] Ohno 2008 | Table 2, p. 3, row 40; `ORC-KFZ6ZJTYN5` |  |
-| Lattice a | 2.8368 Å |  | bcc; _alloy: Fe 1_ | DFT | [14] Xiong 2011 | Table 1, p. 5, row 1; `ORC-ATSU46XDZK.342ce1` |  |
-| Lattice a | 3.448 Å |  | fcc; _alloy: Fe 1_ | model | [15] Kim 2011 | Table 1, p. 2, row 4; `ORC-HYGY2LT3JK` |  |
-| Lattice a | 3.647 Å |  | fcc; _alloy: Fe 1_ | model | [15] Kim 2011 | Table 1, p. 2, row 6; `ORC-OXF4LMWOQJ` |  |
-| Lattice a | 3.446 Å |  | fcc; _alloy: Fe 1_ | model | [15] Kim 2011 | Table 1, p. 2, row 5; `ORC-QZGSVGUAH2` |  |
-| Lattice a | 2.833 Å | 0 | αFe | DFT | [16] Fan 2021 | Table 1, p. 3, row 1; `ORC-775BLY4ACQ` |  |
-| Lattice a | 2.802 Å |  | αFe | model | [16] Fan 2021; _cites Yu 2009_ | Table 1, p. 3, row 3; `ORC-GHLVVOCORV` |  |
+| Lattice a | 2.8368 Å |  | bcc; _alloy: Fe 1_ | DFT | [13] Xiong 2011 | Table 1, p. 5, row 1; `ORC-ATSU46XDZK.342ce1` |  |
+| Lattice a | 3.448 Å |  | fcc; _alloy: Fe 1_ | model | [14] Kim 2011 | Table 1, p. 2, row 4; `ORC-HYGY2LT3JK` |  |
+| Lattice a | 3.647 Å |  | fcc; _alloy: Fe 1_ | model | [14] Kim 2011 | Table 1, p. 2, row 6; `ORC-OXF4LMWOQJ` |  |
+| Lattice a | 3.446 Å |  | fcc; _alloy: Fe 1_ | model | [14] Kim 2011 | Table 1, p. 2, row 5; `ORC-QZGSVGUAH2` |  |
+| Lattice a | 2.833 Å | 0 | αFe | DFT | [15] Fan 2021 | Table 1, p. 3, row 1; `ORC-775BLY4ACQ` |  |
+| Lattice a | 2.802 Å |  | αFe | model | [15] Fan 2021; _cites Yu 2009_ | Table 1, p. 3, row 3; `ORC-GHLVVOCORV` |  |
+| Lattice a | 2.827 Å |  | αFe; _alloy: Fe 1_ | DFT | [16] Ohno 2008 | Table 2, p. 3, row 40; `ORC-KFZ6ZJTYN5` |  |
 | Lattice a | 2.8665 Å | 298.15 | (αFe); _alloy: Fe 1_ | model | [17] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9; `ORC-H4TYGHAYIY.e3886e` |  |
 | Lattice a | 3.6467 Å | 298.15 | (γFe); _alloy: Fe 1_ | model | [17] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 10; `ORC-XRHL5RRSJZ` |  |
 | Lattice a | 2.9793 Å | 298.15 | (δFe); _alloy: Fe 1_ | model | [17] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11; `ORC-X7WH2WVX5M.de6ea8` |  |
-| Lattice a | 2.867 Å | 298.15 | UNKNOWN; _alloy: Fe 1_ | experimental | [13] Ohno 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 39; `ORC-NUKKUS42UO` |  |
 | Lattice a | 2.8665 Å | 298.15 | αFe | unspecified | [18] Chatain 2003; _cites David_ | Table 2, p. 3, row 1; `ORC-H6HZA2SSUW` |  |
-| Lattice a | 2.842 Å | 298.15 | αFe | experimental | [16] Fan 2021; _cites Wilburn 1978_ | Table 1, p. 3, row 2; `ORC-YOKXOGFGJ4` |  |
+| Lattice a | 2.867 Å | 298.15 | αFe; _alloy: Fe 1_ | experimental | [16] Ohno 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 39; `ORC-NUKKUS42UO` |  |
+| Lattice a | 2.842 Å | 298.15 | αFe | experimental | [15] Fan 2021; _cites Wilburn 1978_ | Table 1, p. 3, row 2; `ORC-YOKXOGFGJ4` |  |
 | Lattice a | 3.6467 Å | 298.15 | γFe | unspecified | [18] Chatain 2003; _cites David_ | Table 2, p. 3, row 2; `ORC-HBAYZZTBUC` |  |
-| Lattice a | 3.66 Å | 298.15 | γFe | experimental | [16] Fan 2021; _cites Braun 1965_ [doi](https://doi.org/10.1002/pssb.19650120142) | Table 1, p. 3, row 4; `ORC-Z6Q7DXNWDK` |  |
+| Lattice a | 3.66 Å | 298.15 | γFe | experimental | [15] Fan 2021; _cites Braun 1965_ [doi](https://doi.org/10.1002/pssb.19650120142) | Table 1, p. 3, row 4; `ORC-Z6Q7DXNWDK` |  |
 | Lattice a | 2.9315 Å | 298.15 | δFe | unspecified | [18] Chatain 2003; _cites David_ | Table 2, p. 3, row 3; `ORC-7LLDCBIBVC` |  |
-| Lattice a | 2.932 Å | 298.15 | δFe | experimental | [16] Fan 2021; _cites Basinski 1955_ [doi](https://doi.org/10.1098/rspa.1955.0102) | Table 1, p. 3, row 5; `ORC-AKUMFQ4VHA` |  |
+| Lattice a | 2.932 Å | 298.15 | δFe | experimental | [15] Fan 2021; _cites Basinski 1955_ [doi](https://doi.org/10.1098/rspa.1955.0102) | Table 1, p. 3, row 5; `ORC-AKUMFQ4VHA` |  |
 | Lattice c | 4.947 Å | 298.15 | (αFe); _alloy: Fe 1_ | model | [17] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9; `ORC-H4TYGHAYIY.90ba93` |  |
 | Lattice c | 5.6196 Å | 298.15 | (δFe); _alloy: Fe 1_ | model | [17] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11; `ORC-X7WH2WVX5M.dfc2d9` |  |
 | lattice unspecified axis; _printed: a0_ | 3.7 Å | 0 | Fe A1; _alloy: Fe 1_ | DFT | [5] Cacciamani 2010 | Table 3, p. 7, row 3; `ORC-3LAIPUIHBU` |  |
@@ -148,10 +148,10 @@ Reporting papers the values were read from (a value cited from another work name
 10. Zhangting He, Qing Chen, Malin Selleby, Third Generation Calphad for Key Elements, J. Phase Equilib. Diffus. 45, 1163-1181 (2024). [doi:10.1007/s11669-024-01166-z](https://doi.org/10.1007/s11669-024-01166-z)
 11. M. A. Turchanin, P. G. Agraval, I. V. Nikolaenko, Thermodynamics of alloys and phase equilibria in the copper-iron system, JPE 24, 307-319 (2003). [doi:10.1361/105497103770330280](https://doi.org/10.1361/105497103770330280)
 12. Jia-Yi Yan, G.B. Olson, Computational thermodynamics and kinetics of displacive transformations in titanium-based alloys, Journal of Alloys and Compounds 673, 441-454 (2016). [doi:10.1016/j.jallcom.2016.02.251](https://doi.org/10.1016/j.jallcom.2016.02.251)
-13. Munekazu Ohno, Kanji Yoh, Thermodynamic modeling of the system As–Fe combined with first-principles total energy calculations, Journal of Crystal Growth 310, 2751-2759 (2008). [doi:10.1016/j.jcrysgro.2008.02.017](https://doi.org/10.1016/j.jcrysgro.2008.02.017)
-14. W. Xiong, H. Zhang, L. Vitos, M. Selleby, Magnetic phase diagram of the Fe–Ni system, Acta Materialia 59, 521-530 (2011). [doi:10.1016/j.actamat.2010.09.055](https://doi.org/10.1016/j.actamat.2010.09.055)
-15. DongEung Kim, James E. Saal, Liangcai Zhou, ShunLi Shang, Yong Du, Zi-Kui Liu, Thermodynamic modeling of fcc order/disorder transformations in the Co–Pt system, Calphad 35, 323-330 (2011). [doi:10.1016/j.calphad.2011.04.005](https://doi.org/10.1016/j.calphad.2011.04.005)
-16. Ling Fan, Chen Shen, Kun Hu, Huashan Liu, Hongbin Zhang, DFT Calculations and Thermodynamic Re-Assessment of the Fe-Y Binary System, J. Phase Equilib. Diffus. 42, 348-362 (2021). [doi:10.1007/s11669-021-00887-9](https://doi.org/10.1007/s11669-021-00887-9)
+13. W. Xiong, H. Zhang, L. Vitos, M. Selleby, Magnetic phase diagram of the Fe–Ni system, Acta Materialia 59, 521-530 (2011). [doi:10.1016/j.actamat.2010.09.055](https://doi.org/10.1016/j.actamat.2010.09.055)
+14. DongEung Kim, James E. Saal, Liangcai Zhou, ShunLi Shang, Yong Du, Zi-Kui Liu, Thermodynamic modeling of fcc order/disorder transformations in the Co–Pt system, Calphad 35, 323-330 (2011). [doi:10.1016/j.calphad.2011.04.005](https://doi.org/10.1016/j.calphad.2011.04.005)
+15. Ling Fan, Chen Shen, Kun Hu, Huashan Liu, Hongbin Zhang, DFT Calculations and Thermodynamic Re-Assessment of the Fe-Y Binary System, J. Phase Equilib. Diffus. 42, 348-362 (2021). [doi:10.1007/s11669-021-00887-9](https://doi.org/10.1007/s11669-021-00887-9)
+16. Munekazu Ohno, Kanji Yoh, Thermodynamic modeling of the system As–Fe combined with first-principles total energy calculations, Journal of Crystal Growth 310, 2751-2759 (2008). [doi:10.1016/j.jcrysgro.2008.02.017](https://doi.org/10.1016/j.jcrysgro.2008.02.017)
 17. Aning Qin, Rong Wang, Yaru Wang, Jiong Wang, Shuhong Liu, Kaiming Cheng et al., Thermodynamic assessment of the Cd–X (X=Sn, Mn, Fe) systems, Calphad 47, 83-91 (2014). [doi:10.1016/j.calphad.2014.06.006](https://doi.org/10.1016/j.calphad.2014.06.006)
 18. S. Chatain, C. Guéneau, D. Labroche, O. Dugne, J. Rogez, Thermodynamic assessment of the Fe-U binary system, JPE 24, 122-131 (2003). [doi:10.1361/105497103770330730](https://doi.org/10.1361/105497103770330730)
 

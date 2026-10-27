@@ -51,18 +51,18 @@ Table: Crystal structure, B–Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.971 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18; `ORC-5LR7SFF4SQ.d310d7` |  |
-| Lattice a | 3.034 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16; `ORC-DESG27IJOG.0ad313` |  |
-| Lattice a | 3.008 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17; `ORC-OZKF7L2WLZ.53e9bc` |  |
-| Lattice a | 2.931 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19; `ORC-PNDH6RAO2V.53f6ee` |  |
-| Lattice b | 20.34 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18; `ORC-5LR7SFF4SQ.86a079` |  |
-| Lattice b | 18.11 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16; `ORC-DESG27IJOG.2890ca` |  |
-| Lattice b | 17.705 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17; `ORC-OZKF7L2WLZ.de32bc` |  |
-| Lattice b | 20.631 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19; `ORC-PNDH6RAO2V.9af95e` |  |
-| Lattice c | 3.011 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18; `ORC-5LR7SFF4SQ.0aabb5` |  |
-| Lattice c | 2.956 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16; `ORC-DESG27IJOG.8fff2c` |  |
-| Lattice c | 2.956 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17; `ORC-OZKF7L2WLZ.ff642b` |  |
-| Lattice c | 2.977 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19; `ORC-PNDH6RAO2V.ea73c1` |  |
+| Lattice a | 2.971 Å | 298.15 | Ni3Cr2B6; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18; `ORC-5LR7SFF4SQ.d310d7` |  |
+| Lattice a | 2.931 Å | 298.15 | Ni3Cr2B6; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19; `ORC-PNDH6RAO2V.53f6ee` |  |
+| Lattice a | 3.034 Å | 298.15 | NiCr3B6; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16; `ORC-DESG27IJOG.0ad313` |  |
+| Lattice a | 3.008 Å | 298.15 | NiCr3B6; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17; `ORC-OZKF7L2WLZ.53e9bc` |  |
+| Lattice b | 20.34 Å | 298.15 | Ni3Cr2B6; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18; `ORC-5LR7SFF4SQ.86a079` |  |
+| Lattice b | 20.631 Å | 298.15 | Ni3Cr2B6; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19; `ORC-PNDH6RAO2V.9af95e` |  |
+| Lattice b | 18.11 Å | 298.15 | NiCr3B6; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16; `ORC-DESG27IJOG.2890ca` |  |
+| Lattice b | 17.705 Å | 298.15 | NiCr3B6; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17; `ORC-OZKF7L2WLZ.de32bc` |  |
+| Lattice c | 3.011 Å | 298.15 | Ni3Cr2B6; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18; `ORC-5LR7SFF4SQ.0aabb5` |  |
+| Lattice c | 2.977 Å | 298.15 | Ni3Cr2B6; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19; `ORC-PNDH6RAO2V.ea73c1` |  |
+| Lattice c | 2.956 Å | 298.15 | NiCr3B6; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16; `ORC-DESG27IJOG.8fff2c` |  |
+| Lattice c | 2.956 Å | 298.15 | NiCr3B6; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17; `ORC-OZKF7L2WLZ.ff642b` |  |
 
 ## Sources
 

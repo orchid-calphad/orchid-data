@@ -117,30 +117,30 @@ Table: Crystal structure, Pd–Te system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 12.678 Å | 298.15 | Pd17Te4; _alloy: Te 0.190476_ | experimental | [1] Gossé 2011; _cites Kim 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990459-w) | Table 1, p. 2, row 1; `ORC-XPP6SGU27K` |  |
 | Lattice a | 11.797 Å | 298.15 | Pd20Te7; _alloy: Te 0.259259_ | experimental | [1] Gossé 2011; _cites Wopersnow 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990171-0) | Table 1, p. 2, row 4; `ORC-6KL7P2YN5F` |  |
+| Lattice a | 11.797 Å | 298.15 | Pd20Te7; _alloy: Te 0.259259_ | experimental | [1] Gossé 2011; _cites Wopersnow 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990171-0) | Table 1, p. 2, row 6; `ORC-S2KTDTGBZL.a3b846` |  |
 | Lattice a | 3.226 Å | 298.15 | Pd3Te; _alloy: Te 0.25_ | experimental | [1] Gossé 2011; _cites Bhan 1978_ | Table 1, p. 2, row 3; `ORC-7QHWRVY5KD` |  |
 | Lattice a | 3.226 Å | 298.15 | Pd3Te; _alloy: Te 0.25_ | experimental | [1] Gossé 2011; _cites Bhan 1978_ | Table 1, p. 2, row 2; `ORC-CEE2PPN337` |  |
+| Lattice a | 3.858 Å | 298.15 | Pd3Te2; _alloy: Te 0.4_ | experimental | [1] Gossé 2011; _cites Matkovic 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990004-2) | Table 1, p. 2, row 10; `ORC-PLZ7T6GWRU.6fc41f` |  |
+| Lattice a | 7.444 Å | 298.15 | Pd7Te3; _alloy: Te 0.3_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 8; `ORC-DT6FZON4HM.feaba1` |  |
 | Lattice a | 12.843 Å | 298.15 | Pd8Te3; _alloy: Te 0.272727_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 5; `ORC-6YVUYBDAHQ` |  |
-| Lattice a | 12.843 Å | 298.15 | UNKNOWN; _alloy: Te 0.272727_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 7; `ORC-AYNZYVUWR2.c98b1a` |  |
-| Lattice a | 7.444 Å | 298.15 | UNKNOWN; _alloy: Te 0.3_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 8; `ORC-DT6FZON4HM.feaba1` |  |
-| Lattice a | 7.458 Å | 298.15 | UNKNOWN; _alloy: Te 0.307692_ | experimental | [1] Gossé 2011; _cites Matkovic 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990205-9) | Table 1, p. 2, row 9; `ORC-IPRY5TDXGT.cb6e63` |  |
-| Lattice a | 4.2 Å | 298.15 | UNKNOWN; _alloy: Te 0.5_ | experimental | [1] Gossé 2011; _cites Kjekshus 1965_ [doi](https://doi.org/10.1139/p65-041) | Table 1, p. 2, row 11; `ORC-PFVLZXACWD.8b2c6e` |  |
-| Lattice a | 3.858 Å | 298.15 | UNKNOWN; _alloy: Te 0.4_ | experimental | [1] Gossé 2011; _cites Matkovic 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990004-2) | Table 1, p. 2, row 10; `ORC-PLZ7T6GWRU.6fc41f` |  |
-| Lattice a | 4.0365 Å | 298.15 | UNKNOWN; _alloy: Te 0.666667_ | experimental | [1] Gossé 2011; _cites Furuseth 1965_ [doi](https://doi.org/10.3891/acta.chem.scand.19-0257) | Table 1, p. 2, row 12; `ORC-RDV5EIZQAN.466c0a` |  |
-| Lattice a | 11.797 Å | 298.15 | UNKNOWN; _alloy: Te 0.259259_ | experimental | [1] Gossé 2011; _cites Wopersnow 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990171-0) | Table 1, p. 2, row 6; `ORC-S2KTDTGBZL.a3b846` |  |
-| Lattice b | 15.126 Å | 298.15 | UNKNOWN; _alloy: Te 0.272727_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 7; `ORC-AYNZYVUWR2.b663d4` |  |
-| Lattice b | 13.918 Å | 298.15 | UNKNOWN; _alloy: Te 0.3_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 8; `ORC-DT6FZON4HM.480340` |  |
-| Lattice b | 13.938 Å | 298.15 | UNKNOWN; _alloy: Te 0.307692_ | experimental | [1] Gossé 2011; _cites Matkovic 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990205-9) | Table 1, p. 2, row 9; `ORC-IPRY5TDXGT.f1ead5` |  |
-| Lattice b | 12.687 Å | 298.15 | UNKNOWN; _alloy: Te 0.4_ | experimental | [1] Gossé 2011; _cites Matkovic 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990004-2) | Table 1, p. 2, row 10; `ORC-PLZ7T6GWRU.0abc29` |  |
-| Lattice c | 11.304 Å | 298.15 | UNKNOWN; _alloy: Te 0.272727_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 7; `ORC-AYNZYVUWR2.6c6923` |  |
-| Lattice c | 8.873 Å | 298.15 | UNKNOWN; _alloy: Te 0.3_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 8; `ORC-DT6FZON4HM.5abdb1` |  |
-| Lattice c | 8.839 Å | 298.15 | UNKNOWN; _alloy: Te 0.307692_ | experimental | [1] Gossé 2011; _cites Matkovic 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990205-9) | Table 1, p. 2, row 9; `ORC-IPRY5TDXGT.e23056` |  |
-| Lattice c | 5.79 Å | 298.15 | UNKNOWN; _alloy: Te 0.5_ | experimental | [1] Gossé 2011; _cites Kjekshus 1965_ [doi](https://doi.org/10.1139/p65-041) | Table 1, p. 2, row 11; `ORC-PFVLZXACWD.4c985d` |  |
-| Lattice c | 7.9 Å | 298.15 | UNKNOWN; _alloy: Te 0.4_ | experimental | [1] Gossé 2011; _cites Matkovic 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990004-2) | Table 1, p. 2, row 10; `ORC-PLZ7T6GWRU.22d74e` |  |
-| Lattice c | 5.1262 Å | 298.15 | UNKNOWN; _alloy: Te 0.666667_ | experimental | [1] Gossé 2011; _cites Furuseth 1965_ [doi](https://doi.org/10.3891/acta.chem.scand.19-0257) | Table 1, p. 2, row 12; `ORC-RDV5EIZQAN.da8c9c` |  |
-| Lattice c | 11.172 Å | 298.15 | UNKNOWN; _alloy: Te 0.259259_ | experimental | [1] Gossé 2011; _cites Wopersnow 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990171-0) | Table 1, p. 2, row 6; `ORC-S2KTDTGBZL.492855` |  |
-| lattice gamma | 120 ° | 298.15 | UNKNOWN; _alloy: Te 0.5_ | experimental | [1] Gossé 2011; _cites Kjekshus 1965_ [doi](https://doi.org/10.1139/p65-041) | Table 1, p. 2, row 11; `ORC-PFVLZXACWD.2b3cc4` |  |
-| lattice gamma | 120 not_printed | 298.15 | UNKNOWN; _alloy: Te 0.666667_ | experimental | [1] Gossé 2011; _cites Furuseth 1965_ [doi](https://doi.org/10.3891/acta.chem.scand.19-0257) | Table 1, p. 2, row 12; `ORC-RDV5EIZQAN.780291` |  |
-| lattice gamma | 120 not_printed | 298.15 | UNKNOWN; _alloy: Te 0.259259_ | experimental | [1] Gossé 2011; _cites Wopersnow 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990171-0) | Table 1, p. 2, row 6; `ORC-S2KTDTGBZL.b6cd37` |  |
+| Lattice a | 12.843 Å | 298.15 | Pd8Te3; _alloy: Te 0.272727_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 7; `ORC-AYNZYVUWR2.c98b1a` |  |
+| Lattice a | 7.458 Å | 298.15 | Pd9Te4; _alloy: Te 0.307692_ | experimental | [1] Gossé 2011; _cites Matkovic 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990205-9) | Table 1, p. 2, row 9; `ORC-IPRY5TDXGT.cb6e63` |  |
+| Lattice a | 4.2 Å | 298.15 | PdTe; _alloy: Te 0.5_ | experimental | [1] Gossé 2011; _cites Kjekshus 1965_ [doi](https://doi.org/10.1139/p65-041) | Table 1, p. 2, row 11; `ORC-PFVLZXACWD.8b2c6e` |  |
+| Lattice a | 4.0365 Å | 298.15 | PdTe2; _alloy: Te 0.666667_ | experimental | [1] Gossé 2011; _cites Furuseth 1965_ [doi](https://doi.org/10.3891/acta.chem.scand.19-0257) | Table 1, p. 2, row 12; `ORC-RDV5EIZQAN.466c0a` |  |
+| Lattice b | 12.687 Å | 298.15 | Pd3Te2; _alloy: Te 0.4_ | experimental | [1] Gossé 2011; _cites Matkovic 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990004-2) | Table 1, p. 2, row 10; `ORC-PLZ7T6GWRU.0abc29` |  |
+| Lattice b | 13.918 Å | 298.15 | Pd7Te3; _alloy: Te 0.3_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 8; `ORC-DT6FZON4HM.480340` |  |
+| Lattice b | 15.126 Å | 298.15 | Pd8Te3; _alloy: Te 0.272727_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 7; `ORC-AYNZYVUWR2.b663d4` |  |
+| Lattice b | 13.938 Å | 298.15 | Pd9Te4; _alloy: Te 0.307692_ | experimental | [1] Gossé 2011; _cites Matkovic 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990205-9) | Table 1, p. 2, row 9; `ORC-IPRY5TDXGT.f1ead5` |  |
+| Lattice c | 11.172 Å | 298.15 | Pd20Te7; _alloy: Te 0.259259_ | experimental | [1] Gossé 2011; _cites Wopersnow 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990171-0) | Table 1, p. 2, row 6; `ORC-S2KTDTGBZL.492855` |  |
+| Lattice c | 7.9 Å | 298.15 | Pd3Te2; _alloy: Te 0.4_ | experimental | [1] Gossé 2011; _cites Matkovic 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990004-2) | Table 1, p. 2, row 10; `ORC-PLZ7T6GWRU.22d74e` |  |
+| Lattice c | 8.873 Å | 298.15 | Pd7Te3; _alloy: Te 0.3_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 8; `ORC-DT6FZON4HM.5abdb1` |  |
+| Lattice c | 11.304 Å | 298.15 | Pd8Te3; _alloy: Te 0.272727_ | experimental | [1] Gossé 2011; _cites Kim 1986_ | Table 1, p. 2, row 7; `ORC-AYNZYVUWR2.6c6923` |  |
+| Lattice c | 8.839 Å | 298.15 | Pd9Te4; _alloy: Te 0.307692_ | experimental | [1] Gossé 2011; _cites Matkovic 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990205-9) | Table 1, p. 2, row 9; `ORC-IPRY5TDXGT.e23056` |  |
+| Lattice c | 5.79 Å | 298.15 | PdTe; _alloy: Te 0.5_ | experimental | [1] Gossé 2011; _cites Kjekshus 1965_ [doi](https://doi.org/10.1139/p65-041) | Table 1, p. 2, row 11; `ORC-PFVLZXACWD.4c985d` |  |
+| Lattice c | 5.1262 Å | 298.15 | PdTe2; _alloy: Te 0.666667_ | experimental | [1] Gossé 2011; _cites Furuseth 1965_ [doi](https://doi.org/10.3891/acta.chem.scand.19-0257) | Table 1, p. 2, row 12; `ORC-RDV5EIZQAN.da8c9c` |  |
+| lattice gamma | 120 not_printed | 298.15 | Pd20Te7; _alloy: Te 0.259259_ | experimental | [1] Gossé 2011; _cites Wopersnow 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990171-0) | Table 1, p. 2, row 6; `ORC-S2KTDTGBZL.b6cd37` |  |
+| lattice gamma | 120 ° | 298.15 | PdTe; _alloy: Te 0.5_ | experimental | [1] Gossé 2011; _cites Kjekshus 1965_ [doi](https://doi.org/10.1139/p65-041) | Table 1, p. 2, row 11; `ORC-PFVLZXACWD.2b3cc4` |  |
+| lattice gamma | 120 not_printed | 298.15 | PdTe2; _alloy: Te 0.666667_ | experimental | [1] Gossé 2011; _cites Furuseth 1965_ [doi](https://doi.org/10.3891/acta.chem.scand.19-0257) | Table 1, p. 2, row 12; `ORC-RDV5EIZQAN.780291` |  |
 
 ## Sources
 

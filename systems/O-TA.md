@@ -59,32 +59,32 @@ Table: Crystal structure, O–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.81 not_printed |  | UNKNOWN | DFT | [2] Meisner 2022; _cites ref. 27_ | Table 1, p. 27, row 10; `ORC-DMJ62PNVMX.2809c3` |  |
 | Lattice a | 3.87 not_printed |  | mp-1539317 | DFT | [2] Meisner 2022; _cites ref. 24_ | Table 1, p. 27, row 7; `ORC-WWLKXUPI44.516336` |  |
 | Lattice a | 6.2 not_printed |  | β | experimental | [2] Meisner 2022; _cites ref. 16_ | Table 1, p. 27, row 4; `ORC-65MIISY2JS.bc761e` |  |
 | Lattice a | 6.22 not_printed |  | β | experimental | [2] Meisner 2022; _cites ref. 21_ | Table 1, p. 27, row 2; `ORC-D2XJ55EB5Z.173d67` |  |
 | Lattice a | 7.13 not_printed |  | β | DFT | [2] Meisner 2022; _cites ref. 25_ | Table 1, p. 27, row 8; `ORC-DUDXXP7TBC.599a32` |  |
 | Lattice a | 14.65 not_printed |  | β | experimental | [2] Meisner 2022; _cites ref. 22_ | Table 1, p. 27, row 3; `ORC-YSN7REEADQ.7c9038` |  |
+| Lattice a | 3.81 not_printed |  | β-Ta2O5 | DFT | [2] Meisner 2022; _cites ref. 27_ | Table 1, p. 27, row 10; `ORC-DMJ62PNVMX.2809c3` |  |
 | Lattice a | 6.25 not_printed |  | λ | DFT | [2] Meisner 2022; _cites ref. 26_ | Table 1, p. 27, row 9; `ORC-ODLNQZJEXX.38a641` |  |
 | Lattice a | 6.2 not_printed | 298.15 | L | experimental | [2] Meisner 2022; _cites ref. 23_ | Table 1, p. 27, row 5; `ORC-73DC5KVU6S.fe07fe` |  |
 | Lattice a | 6.19 not_printed | 298.15 | L | experimental | [2] Meisner 2022; _cites Cardonne_ | Table 1, p. 27, row 6; `ORC-DQO6XZYKKE.461fab` |  |
 | Lattice a | 44 not_printed | 298.15 | T | experimental | [2] Meisner 2022; _cites ref. 20_ | Table 1, p. 27, row 1; `ORC-VKDDWKPRIF.bc49c3` |  |
-| Lattice b | 12.79 not_printed |  | UNKNOWN | DFT | [2] Meisner 2022; _cites ref. 27_ | Table 1, p. 27, row 10; `ORC-DMJ62PNVMX.319a05` |  |
 | Lattice b | 3.9 not_printed |  | mp-1539317 | DFT | [2] Meisner 2022; _cites ref. 24_ | Table 1, p. 27, row 7; `ORC-WWLKXUPI44.a193c8` |  |
 | Lattice b | 3.66 not_printed |  | β | experimental | [2] Meisner 2022; _cites ref. 16_ | Table 1, p. 27, row 4; `ORC-65MIISY2JS.5d76db` |  |
 | Lattice b | 3.68 not_printed |  | β | experimental | [2] Meisner 2022; _cites ref. 21_ | Table 1, p. 27, row 2; `ORC-D2XJ55EB5Z.b0d03a` |  |
 | Lattice b | 6.03 not_printed |  | β | DFT | [2] Meisner 2022; _cites ref. 25_ | Table 1, p. 27, row 8; `ORC-DUDXXP7TBC.b2bbab` |  |
 | Lattice b | 9.4 not_printed |  | β | experimental | [2] Meisner 2022; _cites ref. 22_ | Table 1, p. 27, row 3; `ORC-YSN7REEADQ.863847` |  |
+| Lattice b | 12.79 not_printed |  | β-Ta2O5 | DFT | [2] Meisner 2022; _cites ref. 27_ | Table 1, p. 27, row 10; `ORC-DMJ62PNVMX.319a05` |  |
 | Lattice b | 7.4 not_printed |  | λ | DFT | [2] Meisner 2022; _cites ref. 26_ | Table 1, p. 27, row 9; `ORC-ODLNQZJEXX.5532fc` |  |
 | Lattice b | 40.29 not_printed | 298.15 | L | experimental | [2] Meisner 2022; _cites ref. 23_ | Table 1, p. 27, row 5; `ORC-73DC5KVU6S.266727` |  |
 | Lattice b | 69.55 not_printed | 298.15 | L | experimental | [2] Meisner 2022; _cites Cardonne_ | Table 1, p. 27, row 6; `ORC-DQO6XZYKKE.5e513a` |  |
 | Lattice b | 3.89 not_printed | 298.15 | T | experimental | [2] Meisner 2022; _cites ref. 20_ | Table 1, p. 27, row 1; `ORC-VKDDWKPRIF.964559` |  |
-| Lattice c | 3.79 not_printed |  | UNKNOWN | DFT | [2] Meisner 2022; _cites ref. 27_ | Table 1, p. 27, row 10; `ORC-DMJ62PNVMX.832eb2` |  |
 | Lattice c | 13.13 not_printed |  | mp-1539317 | DFT | [2] Meisner 2022; _cites ref. 24_ | Table 1, p. 27, row 7; `ORC-WWLKXUPI44.9d8721` |  |
 | Lattice c | 3.89 not_printed |  | β | experimental | [2] Meisner 2022; _cites ref. 16_ | Table 1, p. 27, row 4; `ORC-65MIISY2JS.c795b3` |  |
 | Lattice c | 7.79 not_printed |  | β | experimental | [2] Meisner 2022; _cites ref. 21_ | Table 1, p. 27, row 2; `ORC-D2XJ55EB5Z.d9468e` |  |
 | Lattice c | 3.82 not_printed |  | β | DFT | [2] Meisner 2022; _cites ref. 25_ | Table 1, p. 27, row 8; `ORC-DUDXXP7TBC.48f62a` |  |
 | Lattice c | 31.19 not_printed |  | β | experimental | [2] Meisner 2022; _cites ref. 22_ | Table 1, p. 27, row 3; `ORC-YSN7REEADQ.b8c81d` |  |
+| Lattice c | 3.79 not_printed |  | β-Ta2O5 | DFT | [2] Meisner 2022; _cites ref. 27_ | Table 1, p. 27, row 10; `ORC-DMJ62PNVMX.832eb2` |  |
 | Lattice c | 3.83 not_printed |  | λ | DFT | [2] Meisner 2022; _cites ref. 26_ | Table 1, p. 27, row 9; `ORC-ODLNQZJEXX.f61bcb` |  |
 | Lattice c | 3.89 not_printed | 298.15 | L | experimental | [2] Meisner 2022; _cites ref. 23_ | Table 1, p. 27, row 5; `ORC-73DC5KVU6S.805fc0` |  |
 | Lattice c | 3.89 not_printed | 298.15 | L | experimental | [2] Meisner 2022; _cites Cardonne_ | Table 1, p. 27, row 6; `ORC-DQO6XZYKKE.60e88c` |  |

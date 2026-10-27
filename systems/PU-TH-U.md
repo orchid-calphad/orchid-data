@@ -1,10 +1,10 @@
 # Pu–Th–U system
 
-> Pu–Th–U system: 28 accepted literature values (invariant reaction 19, heat capacity / entropy / enthalpy 5, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pu–Th–U system: 27 accepted literature values (invariant reaction 19, heat capacity / entropy / enthalpy 4, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PU-TH-U.html · Markdown: https://data.orchid-project.org/systems/PU-TH-U.md
 
-28 accepted literature values from 1 paper(s) (experimental 7, model 21); 0 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 1 paper(s) (experimental 7, model 20); 0 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PU-TH-U.json) · [CSV](https://data.orchid-project.org/systems/PU-TH-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PU-TH-U) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PU-TH-U.html) · [Markdown](https://data.orchid-project.org/systems/PU-TH-U.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 7 |
-| model | 21 |
+| model | 20 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 19 |
 | formation | 4 |
-| heat capacity / entropy / enthalpy | 5 |
+| heat capacity / entropy / enthalpy | 4 |
 
 ## Invariant reactions (literature)
 
@@ -64,7 +64,7 @@ Table: Enthalpies of formation, Pu–Th–U system (4)
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (5)
+### Heat capacity / entropy / enthalpy (4)
 
 Table: Heat capacity / entropy / enthalpy, Pu–Th–U system
 
@@ -72,7 +72,6 @@ Table: Heat capacity / entropy / enthalpy, Pu–Th–U system
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S0(298.15)_ | 66.974 J/mol (basis unstated)/K | 298.15 | Puliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 34; `ORC-LO3VWSZ6UU.e12108` |  |
 | Entropy; _printed: S0(298.15)_ | 69.86 J/mol (basis unstated)/K | 298.15 | Thliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 3; `ORC-DRVTIG4TJR.7956c2` |  |
-| Entropy; _printed: S0(298.15)_ | 53.6618 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Th 0.3, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 38; `ORC-YG6EXYMDXI` |  |
 | Entropy; _printed: S0(298.15)_ | 60.524 J/mol (basis unstated)/K | 298.15 | Uliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 11; `ORC-WPKTDVNLLB.5c1490` |  |
 | Entropy; _printed: S0(298.15)_ | 66.609 J/mol-atom/K | 298.15 | δ′-Pu; _alloy: Th 0, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 26; `ORC-NH2OQNKMZJ.d09bb6` |  |
 

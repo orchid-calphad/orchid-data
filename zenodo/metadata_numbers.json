@@ -254,7 +254,7 @@
    "source": "parquet/literature_values.parquet"
   },
   "lit_systems": {
-   "value": 1477,
+   "value": 1479,
    "source": "parquet/literature_values.parquet"
   },
   "par_compounds": {
@@ -354,7 +354,7 @@
    "source": "phases/registry.json"
   },
   "reg_names": {
-   "value": 43265,
+   "value": 43269,
    "source": "phases/registry.json"
   },
   "reg_phases": {

@@ -1,10 +1,10 @@
 # Ce–O system
 
-> Ce–O system: 87 accepted literature values (invariant reaction 48, crystal structure 19, phase equilibrium 12, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–O system: 90 accepted literature values (invariant reaction 48, crystal structure 22, phase equilibrium 12, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-O.html · Markdown: https://data.orchid-project.org/systems/CE-O.md
 
-87 accepted literature values from 3 paper(s) (experimental 51, model 26, unspecified 10); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+90 accepted literature values from 3 paper(s) (experimental 51, model 29, unspecified 10); 2 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-O.json) · [CSV](https://data.orchid-project.org/systems/CE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-O/CeO-06Zin.json) · [phases (19)](https://data.orchid-project.org/phases/pages/CE-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-O.html) · [Markdown](https://data.orchid-project.org/systems/CE-O.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 51 |
-| model | 26 |
+| model | 29 |
 | unspecified | 10 |
 
 Table: Accepted values by property group
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase equilibrium | 12 |
 | formation | 1 |
 | heat capacity / entropy / enthalpy | 1 |
-| crystal structure | 19 |
+| crystal structure | 22 |
 
 ## Calculated phase diagrams
 
@@ -182,7 +182,7 @@ Table: Heat capacity / entropy / enthalpy, Ce–O system
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: °S_ | 148.8 unknown | 298.15 | A-Ce2O3; _alloy: O 0.6_ | model | [3] ZINKEVICH 2007 | Table 6.1, p. 24, row 19; `ORC-4HKVPHGJ7S.15a4f6` |  |
 
-### Crystal structure (19)
+### Crystal structure (22)
 
 Table: Crystal structure, Ce–O system
 
@@ -190,16 +190,19 @@ Table: Crystal structure, Ce–O system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.6757 not_printed ± 3.000e-4 | 298.15 | Ce11O20; _alloy: Ce 0.354839, O 0.645161_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 8; `ORC-BVB7LPHSYP.3c1a20` |  |
 | Lattice a | 0.6627 not_printed | 298.15 | Ce19O34; _alloy: Ce 0.358491, O 0.641509_ | experimental | [2] ZINKEVICH 2006; _cites Knappe 1985_ | Table 1, p. 2, row 5; `ORC-MKMKVUWWC4.c340a0` |  |
+| Lattice a | 0.3891 not_printed ± 1.000e-4 | 298.15 | Ce2O3-x (A) | experimental | [2] ZINKEVICH 2006; _cites Barnigshausen 1985_ | Table 1, p. 2, row 1; `ORC-RNBQGINQDQ.f2c0e6` |  |
 | Lattice a | 0.6785 not_printed ± 1.000e-4 | 298.15 | Ce7O12; _alloy: Ce 0.368421, O 0.631579_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 3; `ORC-NT4RADPSWZ.6380aa` |  |
 | Lattice a | 6.785 Å ± 0.001 | 298.15 | Ce7O12; _alloy: Ce 0.368421, O 0.631579_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 11; `ORC-Y2GBJKXBG3.120868` |  |
-| Lattice a | 0.3891 not_printed ± 1.000e-4 | 298.15 | UNKNOWN | experimental | [2] ZINKEVICH 2006; _cites Barnigshausen 1985_ | Table 1, p. 2, row 1; `ORC-RNBQGINQDQ.f2c0e6` |  |
-| Lattice a | 5.4112 not_printed ± 0.001 | 298.15 | UNKNOWN | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 9; `ORC-ZYBFCZ7W4V` |  |
+| Lattice a | 5.4112 not_printed ± 0.001 | 298.15 | CeO2-x (F) | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 9; `ORC-ZYBFCZ7W4V` |  |
 | Lattice b | 1.026 not_printed ± 5.000e-4 | 298.15 | Ce11O20; _alloy: Ce 0.354839, O 0.645161_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 8; `ORC-BVB7LPHSYP.c34d95` |  |
 | Lattice b | 1.1478 not_printed | 298.15 | Ce19O34; _alloy: Ce 0.358491, O 0.641509_ | experimental | [2] ZINKEVICH 2006; _cites Knappe 1985_ | Table 1, p. 2, row 5; `ORC-MKMKVUWWC4.96f0f9` |  |
 | Lattice c | 0.6732 not_printed ± 3.000e-4 | 298.15 | Ce11O20; _alloy: Ce 0.354839, O 0.645161_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 8; `ORC-BVB7LPHSYP.a99cc3` |  |
 | Lattice c | 1.0123 not_printed | 298.15 | Ce19O34; _alloy: Ce 0.358491, O 0.641509_ | experimental | [2] ZINKEVICH 2006; _cites Knappe 1985_ | Table 1, p. 2, row 5; `ORC-MKMKVUWWC4.eeed1a` |  |
-| Lattice c | 0.6059 not_printed ± 1.000e-4 | 298.15 | UNKNOWN | experimental | [2] ZINKEVICH 2006; _cites Barnigshausen 1985_ | Table 1, p. 2, row 1; `ORC-RNBQGINQDQ.d9fe6b` |  |
+| Lattice c | 0.6059 not_printed ± 1.000e-4 | 298.15 | Ce2O3-x (A) | experimental | [2] ZINKEVICH 2006; _cites Barnigshausen 1985_ | Table 1, p. 2, row 1; `ORC-RNBQGINQDQ.d9fe6b` |  |
 | lattice alpha | 99.42 ° ± 0.01 | 298.15 | Ce7O12; _alloy: Ce 0.368421, O 0.631579_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 11; `ORC-Y2GBJKXBG3.6b1f53` |  |
+| lattice molar volume | 47.842 cm3 mol-1 | 298.15 | Ce2O3 (A-type); _alloy: O 0.6_ | model | [3] ZINKEVICH 2007 | Table 3.1, p. 12, row 4; `ORC-IXCB5BHGGE.21f0f2` |  |
+| lattice molar volume | 48.985 cm3 mol-1 | 298.15 | Ce2O3 (B-type); _alloy: O 0.6_ | model | [3] ZINKEVICH 2007 | Table 3.1, p. 12, row 4; `ORC-IXCB5BHGGE.88ef67` |  |
+| lattice molar volume | 53.637 cm3 mol-1 | 298.15 | Ce2O3 (C-type); _alloy: O 0.6_ | model | [3] ZINKEVICH 2007 | Table 3.1, p. 12, row 4; `ORC-IXCB5BHGGE.a3373e` |  |
 | lattice unspecified angle | 96.22 ° ± 0.04 | 298.15 | Ce11O20; _alloy: Ce 0.354839, O 0.645161_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 8; `ORC-BVB7LPHSYP.06f95a` |  |
 | lattice unspecified angle | 99.8 ° ± 0.04 | 298.15 | Ce11O20; _alloy: Ce 0.354839, O 0.645161_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 8; `ORC-BVB7LPHSYP.4f693d` |  |
 | lattice unspecified angle | 90.04 ° ± 0.04 | 298.15 | Ce11O20; _alloy: Ce 0.354839, O 0.645161_ | experimental | [2] ZINKEVICH 2006; _cites Kummerle 1999_ | Table 1, p. 2, row 8; `ORC-BVB7LPHSYP.e8f117` |  |

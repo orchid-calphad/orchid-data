@@ -3892,7 +3892,7 @@
      "detail": "AlCr-98Sau-LB.tdb: 'Prototype Al4Mn-mu (hP574, P6_3/mmc)'"
     }
    ],
-   "literature_values": 63
+   "literature_values": 64
   },
   {
    "id": "phase:al-cr:al7cr",
@@ -4056,7 +4056,7 @@
      "detail": "AlCr-98Mur.tdb: 'Prototype Cu5Zn8 (cI52, I-43m), high T'"
     }
    ],
-   "literature_values": 3
+   "literature_values": 5
   },
   {
    "id": "phase:al-cr:al8cr5-gamma",
@@ -15580,6 +15580,16 @@
      "structure_type": null,
      "prototype": "CrB4",
      "strukturbericht": null,
+     "pearson": null,
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 3
+    },
+    {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "CrB4",
+     "strukturbericht": null,
      "pearson": "oI10",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
@@ -15634,7 +15644,7 @@
      "detail": "CrB-91Pan-LB.tdb: 'Prototype CrB4 (oI10, Immm)'"
     }
    ],
-   "literature_values": 2
+   "literature_values": 5
   },
   {
    "id": "phase:b-cu:b-beta-rhombo",
@@ -20219,6 +20229,16 @@
    ],
    "candidates": [
     {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "VAl10",
+     "strukturbericht": null,
+     "pearson": "cF176",
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 1
+    },
+    {
      "source": "sgte_mmc2",
      "structure_type": "st:al10v-cf176",
      "prototype": "Al10V",
@@ -20243,7 +20263,7 @@
      "detail": "BaGa-13Li.tdb: 'Prototype Al10V (cF176, Fd-3m)'"
     }
    ],
-   "literature_values": 0
+   "literature_values": 1
   },
   {
    "id": "phase:ba-ge:ba3ge4-alpha",
@@ -31691,7 +31711,7 @@
      "detail": "Hallstedt 2025 mmc2 row for CU9GD2: Cu9Gd2"
     }
    ],
-   "literature_values": 12
+   "literature_values": 14
   },
   {
    "id": "phase:cu-ge:cu3ge",
@@ -55753,7 +55773,7 @@
      "detail": "SiN-92Hil.tdb: 'Prototype Si3N4; alpha: (hP28, p31c), beta: (hP14, P6_3)'"
     }
    ],
-   "literature_values": 8
+   "literature_values": 9
   },
   {
    "id": "phase:n-ta:tan-eps",
@@ -67084,7 +67104,7 @@
      "pearson": "tI48",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 8
+     "count": 14
     },
     {
      "source": "sgte_mmc2",
@@ -67135,7 +67155,7 @@
      "detail": "PdSn-99Gho-LB.tdb: 'Prototype PdSn2 (tI48, I4_1/acd)'"
     }
    ],
-   "literature_values": 18
+   "literature_values": 24
   },
   {
    "id": "phase:pd-tb:pd3tb2-alpha",
@@ -67259,7 +67279,7 @@
      "detail": "Hallstedt 2025 mmc2 row for PD7TE3: Pd7Te3"
     }
    ],
-   "literature_values": 4
+   "literature_values": 7
   },
   {
    "id": "phase:pd-te:pd8te3",
@@ -67295,7 +67315,7 @@
      "detail": "Hallstedt 2025 mmc2 row for PD8TE3: Pd8Te3"
     }
    ],
-   "literature_values": 11
+   "literature_values": 14
   },
   {
    "id": "phase:pd-te:pdte-pdte2",

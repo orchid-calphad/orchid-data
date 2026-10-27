@@ -208,11 +208,11 @@ Table: Crystal structure, Mg–Pr system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.2094 Å | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1; `ORC-EAA4RP2SWZ.a7f555` |  |
 | Lattice a | 1.475 Å | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3; `ORC-A3TCJEWBPM.f39085` |  |
+| Lattice a | 3.898 Å | 298.15 | PrMg; _alloy: Pr 0.5_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 6; `ORC-S2KYZBV7AC` |  |
 | Lattice a | 3.898 Å | 298.15 | PrMg; _PrMg: Mg 0.47, Pr 0.53_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 13; `ORC-UTP5R5OXAI` |  |
 | Lattice a | 10.34 Å | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2; `ORC-EH2FSQFM5H.6173bc` |  |
 | Lattice a | 8.689 Å | 298.15 | PrMg2a; _PrMg2a: Mg 0.667, Pr 0.333_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 5; `ORC-NTYVB2W74Y` |  |
 | Lattice a | 7.43 Å | 298.15 | PrMg3; _alloy: Pr 0.25_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 4; `ORC-BMPIP3QKMY.d68ba2` |  |
-| Lattice a | 3.898 Å | 298.15 | UNKNOWN; _alloy: Pr 0.5_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 6; `ORC-S2KYZBV7AC` |  |
 | Lattice c | 5.2107 Å | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1; `ORC-EAA4RP2SWZ.444401` |  |
 | Lattice c | 1.041 Å | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3; `ORC-A3TCJEWBPM.cd8a24` |  |
 | Lattice c | 5.98 Å | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2; `ORC-EH2FSQFM5H.f6f2e1` |  |

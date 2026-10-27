@@ -105,9 +105,9 @@ Table: Crystal structure, Gd–O system
 | Lattice a | 10.805 Å | 0 | Gd2O3; _alloy: O 0.6_ | DFT | [2] McMurray 2014 | Table 1, p. 4, row 1; `ORC-XVTUI7JYSA` |  |
 | Lattice a | 5.496 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [2] McMurray 2014 | Table 1, p. 4, row 3; `ORC-DBGC544X5A` |  |
 | Lattice a | 5.497 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [2] McMurray 2014 | Table 1, p. 4, row 4; `ORC-JC7BWG2HLV` |  |
-| lattice molar volume | 47.574 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 10; `ORC-W5T7YJ4KOA.d12ccf` |  |
-| lattice molar volume | 43.403 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 10; `ORC-W5T7YJ4KOA.e6ad7e` |  |
-| lattice molar volume | 43.265 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 10; `ORC-W5T7YJ4KOA.fd9893` |  |
+| lattice molar volume | 43.265 cm3 mol-1 | 298.15 | Gd2O3 (A-type); _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 10; `ORC-W5T7YJ4KOA.fd9893` |  |
+| lattice molar volume | 43.403 cm3 mol-1 | 298.15 | Gd2O3 (B-type); _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 10; `ORC-W5T7YJ4KOA.e6ad7e` |  |
+| lattice molar volume | 47.574 cm3 mol-1 | 298.15 | Gd2O3 (C-type); _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 10; `ORC-W5T7YJ4KOA.d12ccf` |  |
 
 ### Other property (5)
 

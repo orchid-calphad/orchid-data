@@ -148,12 +148,12 @@ Table: Crystal structure, Ta–V system
 | Lattice a | 7.155 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Wennerstrom 1975_ [doi](https://doi.org/10.1088/0031-8949/11/6/008) | Table 2, p. 3, row 6; `ORC-6P7ECKBSJY` |  |
 | Lattice a | 7.14 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Pushin 1980_ | Table 2, p. 3, row 4; `ORC-BLF3Z6Y6BT` |  |
 | Lattice a | 7.153 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Schippnick 1974_ [doi](https://doi.org/10.1016/0038-1098%2874%2991202-2) | Table 2, p. 3, row 5; `ORC-DGUIEGWOSC` |  |
+| Lattice a | 7.1597 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Lynch 1981_ [doi](https://doi.org/10.1016/0022-3697%2881%2990050-0) | Table 2, p. 3, row 1; `ORC-GF26D473UZ` |  |
+| Lattice a | 7.16 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Somenkov 1966_ | Table 2, p. 3, row 7; `ORC-SIDJCYUVTP` |  |
 | Lattice a | 7.14 Å | 298.15 | C15; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Yu 1965_ | Table 2, p. 3, row 12; `ORC-SYYGCON3I4` |  |
 | Lattice a | 3.3019 Å | 298.15 | NM BCC Ta; _alloy: V 0_ | experimental | [3] Pavlů 2011; _cites Villars 1991_ | Table 1, p. 3, row 3; `ORC-Y7DR2UPMVT.35bd67` |  |
 | Lattice a | 0.5058 not_printed ± 5.000e-4 | 298.15 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | model | [2] Broz 2013; _cites Nefedov 2013_ | Table 1, p. 3, row 25; `ORC-P56DPNMCZ2.adb10f` |  |
-| Lattice a | 7.1597 Å | 298.15 | UNKNOWN; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Lynch 1981_ [doi](https://doi.org/10.1016/0022-3697%2881%2990050-0) | Table 2, p. 3, row 1; `ORC-GF26D473UZ` |  |
-| Lattice a | 7.16 Å | 298.15 | UNKNOWN; _alloy: V 0.666667_ | experimental | [1] Danon 2004; _cites Somenkov 1966_ | Table 2, p. 3, row 7; `ORC-SIDJCYUVTP` |  |
-| Lattice a | 7.157 Å | 298.15 | UNKNOWN; _alloy: Ta 0.333333, V 0.666667_ | unspecified | [2] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 29; `ORC-XZEU46V3ZD` |  |
+| Lattice a | 7.157 Å | 298.15 | TaV2; _alloy: Ta 0.333333, V 0.666667_ | unspecified | [2] Broz 2013; _cites Smith 1983_ [doi](https://doi.org/10.1007/bf02868668) | Table 1, p. 3, row 29; `ORC-XZEU46V3ZD` |  |
 | Lattice c | 8.505 Å | 0 | C14; _alloy: V 0.333333_ | DFT | [3] Pavlů 2011 | Table 2, p. 3, row 8; `ORC-5RVANNAEIU.1e1fc0` |  |
 | Lattice c | 8.0425 Å | 0 | C14; _alloy: V 0.666667_ | DFT | [3] Pavlů 2011 | Table 2, p. 3, row 5; `ORC-JEQXNJPUCL.d4c083` |  |
 | Lattice c | 7.9277 Å | 0 | C14; _alloy: V 0.5_ | DFT | [3] Pavlů 2011 | Table 2, p. 3, row 7; `ORC-QWXB6B2NRT.7edaaf` |  |

@@ -116,9 +116,9 @@ Table: Activity / EMF / Gibbs energy, Ag–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Δ°G_ | -6887 J/mol |  | UNKNOWN | experimental | [1] Assal 1997; _cites Sieverts 1909_ | Table I, p. 2, row 1; `ORC-HE7LQKN7Y4.35385c` |  |
-| Gibbs energy; _printed: Δ°G_ | -7028 J/mol |  | UNKNOWN | experimental | [1] Assal 1997; _cites Sieverts 1909_ | Table I, p. 2, row 1; `ORC-HE7LQKN7Y4.7a70f3` |  |
-| Gibbs energy; _printed: Δ°G_ | -6975 J/mol | 1348 | UNKNOWN | experimental | [1] Assal 1997; _cites Donnan 1910_ | Table I, p. 2, row 2; `ORC-XB4OBER4ZF.b4bd56` |  |
+| Gibbs energy; _printed: Δ°G_ | -6887 J/mol |  | liquid Ag | experimental | [1] Assal 1997; _cites Sieverts 1909_ | Table I, p. 2, row 1; `ORC-HE7LQKN7Y4.35385c` |  |
+| Gibbs energy; _printed: Δ°G_ | -7028 J/mol |  | liquid Ag | experimental | [1] Assal 1997; _cites Sieverts 1909_ | Table I, p. 2, row 1; `ORC-HE7LQKN7Y4.7a70f3` |  |
+| Gibbs energy; _printed: Δ°G_ | -6975 J/mol | 1348 | liquid Ag | experimental | [1] Assal 1997; _cites Donnan 1910_ | Table I, p. 2, row 2; `ORC-XB4OBER4ZF.b4bd56` |  |
 | Vapour pressure; _printed: PO2_ | 5.370e7 Pa | 803 |  | model | [1] Assal 1997; _cites Keyes 1922_ | p. 1; `ORC-7HCJB5YF5G` | “Using the silver-Ag2 O equilibrium measurements from Keyes and Hara,14 they could calculate the eutectic point (i.e., the intersection of these three equilibria) and found T 4 803 K and PO2 4 5.37 × 107 Pa.” |
 | Vapour pressure; _printed: PO2_ | 5.260e7 Pa | 803.6 |  | model | [1] Assal 1997 | p. 6; `ORC-VZ64O2L73O` | “The calculated eutectic point is at T 4 803.6 K, PO2 4 5.26 × 107 Pa, and xO 4 0.2514.” |
 

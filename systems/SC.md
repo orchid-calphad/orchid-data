@@ -68,8 +68,8 @@ Table: Crystal structure, Sc system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.3082 Å | 0 | (αSc); _alloy: Sc 1_ | DFT | [7] Cheng 2012 | Table 3, p. 3, row 3; `ORC-4ESARGW2LB.1f234a` |  |
 | Lattice a | 3.296 Å | 298.15 | (αSc); _(αSc): Sc 1; (ɑSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1; `ORC-A7FZYFGWQH.17db59` |  |
+| Lattice a | 3.308 Å ± 0.008 | 298.15 | (αSc); _alloy: Sc 1_ | unspecified | [8] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2; `ORC-AJVJFCI5MR.74ac64` |  |
 | Lattice a | 4.73 Å | 298.15 | (βSc); _(βSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4; `ORC-JVY4ZTCL6Q.c3e7c4` |  |
-| Lattice a | 3.308 Å ± 0.008 | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [8] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2; `ORC-AJVJFCI5MR.74ac64` |  |
 | Lattice a | 3.3088 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [3] Murray 1998 | Table 3, p. 1, row 7; `ORC-AFECC2C7GF.3319fb` |  |
 | Lattice a | 3.3088 Å | 298.15 | αSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2; `ORC-KLRC7XULPB.2c3963` |  |
 | Lattice a | 3.3088 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [4] Spear 1990 | Table 3, p. 3, row 1; `ORC-ZTKH7BQ7SG.54b515` |  |
@@ -77,13 +77,13 @@ Table: Crystal structure, Sc system
 | Lattice a | 3.73 Å | 298.15 | βSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3; `ORC-2W5NYV34OY.db84e0` |  |
 | Lattice a | 4.541 Å | 298.15 | βSc; _βSc: Sc 1_ | unspecified | [3] Murray 1998 | Table 3, p. 1, row 6; `ORC-ESZOIW7HJY` |  |
 | Lattice a | 3.3088 Å | 1608 (\<) | (αSc); _alloy: Sc 1_ | model | [10] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 4; `ORC-MKQZJVWIY6.0c8560` |  |
-| Lattice a | 3.73 Å | 1814 (\<) | UNKNOWN; _alloy: Sc 1_ | model | [10] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 5; `ORC-NHU2CO6M23` |  |
+| Lattice a | 3.73 Å | 1814 (\<) | (βSc); _alloy: Sc 1_ | model | [10] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 5; `ORC-NHU2CO6M23` |  |
 | Lattice b | 3.3088 Å | 298.15 | αSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2; `ORC-KLRC7XULPB.0f1297` |  |
 | Lattice b | 3.73 Å | 298.15 | βSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3; `ORC-2W5NYV34OY.e2b117` |  |
 | Lattice c | 5.1769 Å | 0 | (αSc); _alloy: Sc 1_ | DFT | [7] Cheng 2012 | Table 3, p. 3, row 3; `ORC-4ESARGW2LB.f67e44` |  |
 | Lattice c | 5.235 Å | 298.15 | (αSc); _(αSc): Sc 1; (ɑSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1; `ORC-A7FZYFGWQH.3172d3` |  |
+| Lattice c | 5.268 Å | 298.15 | (αSc); _alloy: Sc 1_ | unspecified | [8] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2; `ORC-AJVJFCI5MR.6c410c` |  |
 | Lattice c | 3.18 Å | 298.15 | (βSc); _(βSc): Sc 1_ | experimental | [8] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4; `ORC-JVY4ZTCL6Q.ad0567` |  |
-| Lattice c | 5.268 Å | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [8] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2; `ORC-AJVJFCI5MR.6c410c` |  |
 | Lattice c | 5.268 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [3] Murray 1998 | Table 3, p. 1, row 7; `ORC-AFECC2C7GF.0134e3` |  |
 | Lattice c | 5.268 Å | 298.15 | αSc; _alloy: Sc 1_ | model | [9] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2; `ORC-KLRC7XULPB.8c3aab` |  |
 | Lattice c | 5.268 Å | 298.15 | αSc; _αSc: Sc 1_ | unspecified | [4] Spear 1990 | Table 3, p. 3, row 1; `ORC-ZTKH7BQ7SG.894d9d` |  |

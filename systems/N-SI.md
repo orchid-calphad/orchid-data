@@ -72,7 +72,7 @@ Table: Heat capacity / entropy / enthalpy, N–Si system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S298 K_ | 9.17143 J/mol-atom/K | 298.15 | Si3N4; _alloy: Si 0.428571_ | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3; `ORC-YVLSQCAPVO.17f18f` |  |
-| Entropy; _printed: S298 K_ | 64.2 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3; `ORC-YVLSQCAPVO.61ec32` |  |
+| Entropy; _printed: S298 K_ | 64.2 J/mol (basis unstated)/K | 298.15 | Si3N4 | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3; `ORC-YVLSQCAPVO.61ec32` |  |
 | Entropy; _printed: S298 K_ | 112.967 unknown ± 16.7 | 298.15 | α | unspecified | [1] Ma 2003; _cites Chase 1998_ | Table 2, p. 2, row 2; `ORC-5EQMMJRUQZ.31bd50` |  |
 | Entropy; _printed: S298 K_ | 107.008 J/mol (basis unstated)/K | 298.15 | α | experimental | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 1; `ORC-7Y3UKOYUWX.5e224c` |  |
 | Entropy; _printed: S298 K_ | 16.1381 J/mol-atom/K ± 2.38571 | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | unspecified | [1] Ma 2003; _cites Chase 1998_ | Table 2, p. 2, row 2; `ORC-5EQMMJRUQZ.39fae7` |  |
@@ -84,22 +84,22 @@ Table: Crystal structure, N–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.595 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Grun 1979_ [doi](https://doi.org/10.1107/s0567740879004933) | Table 1, p. 2, row 8; `ORC-5OGNIP7D3E.613393` |  |
-| Lattice a | 7.606 Å ± 0.003 |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 7; `ORC-LDDPN2N66Z.eed9ea` |  |
-| Lattice a | 7.608 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 6; `ORC-OSSJA4KMCA.74cc7a` |  |
-| Lattice a | 7.748 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 1; `ORC-7RYBEMLQJA.8704ff` |  |
-| Lattice a | 7.766 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kohatsu 1974_ [doi](https://doi.org/10.1016/0025-5408%2874%2990170-6) | Table 1, p. 2, row 4; `ORC-BBO3WESS6D.743c46` |  |
-| Lattice a | 7.753 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 2; `ORC-VN6ETUYGQ4.a01c0e` |  |
-| Lattice a | 7.818 Å ± 0.003 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kato 1975_ | Table 1, p. 2, row 5; `ORC-YCL7YH4PF2.d2f55c` |  |
-| Lattice a | 7.765 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Marchand 1969_ [doi](https://doi.org/10.1107/s0567740869005292) | Table 1, p. 2, row 3; `ORC-Z6OT6ZIKG4.8f6a22` |  |
-| Lattice c | 2.9023 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Grun 1979_ [doi](https://doi.org/10.1107/s0567740879004933) | Table 1, p. 2, row 8; `ORC-5OGNIP7D3E.95b62d` |  |
-| Lattice c | 2.909 Å ± 0.002 |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 7; `ORC-LDDPN2N66Z.90be32` |  |
-| Lattice c | 2.9107 Å |  | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 6; `ORC-OSSJA4KMCA.e48eda` |  |
-| Lattice c | 5.617 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 1; `ORC-7RYBEMLQJA.de056c` |  |
-| Lattice c | 5.615 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kohatsu 1974_ [doi](https://doi.org/10.1016/0025-5408%2874%2990170-6) | Table 1, p. 2, row 4; `ORC-BBO3WESS6D.780149` |  |
-| Lattice c | 5.618 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 2; `ORC-VN6ETUYGQ4.82133b` |  |
-| Lattice c | 5.591 Å ± 0.004 | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kato 1975_ | Table 1, p. 2, row 5; `ORC-YCL7YH4PF2.d2e796` |  |
-| Lattice c | 5.622 Å | 298.15 | UNKNOWN; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Marchand 1969_ [doi](https://doi.org/10.1107/s0567740869005292) | Table 1, p. 2, row 3; `ORC-Z6OT6ZIKG4.770119` |  |
+| Lattice a | 7.595 Å |  | β-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Grun 1979_ [doi](https://doi.org/10.1107/s0567740879004933) | Table 1, p. 2, row 8; `ORC-5OGNIP7D3E.613393` |  |
+| Lattice a | 7.606 Å ± 0.003 |  | β-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 7; `ORC-LDDPN2N66Z.eed9ea` |  |
+| Lattice a | 7.608 Å |  | β-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 6; `ORC-OSSJA4KMCA.74cc7a` |  |
+| Lattice a | 7.748 Å | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 1; `ORC-7RYBEMLQJA.8704ff` |  |
+| Lattice a | 7.766 Å | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kohatsu 1974_ [doi](https://doi.org/10.1016/0025-5408%2874%2990170-6) | Table 1, p. 2, row 4; `ORC-BBO3WESS6D.743c46` |  |
+| Lattice a | 7.753 Å ± 0.004 | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 2; `ORC-VN6ETUYGQ4.a01c0e` |  |
+| Lattice a | 7.818 Å ± 0.003 | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kato 1975_ | Table 1, p. 2, row 5; `ORC-YCL7YH4PF2.d2f55c` |  |
+| Lattice a | 7.765 Å | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Marchand 1969_ [doi](https://doi.org/10.1107/s0567740869005292) | Table 1, p. 2, row 3; `ORC-Z6OT6ZIKG4.8f6a22` |  |
+| Lattice c | 2.9023 Å |  | β-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Grun 1979_ [doi](https://doi.org/10.1107/s0567740879004933) | Table 1, p. 2, row 8; `ORC-5OGNIP7D3E.95b62d` |  |
+| Lattice c | 2.909 Å ± 0.002 |  | β-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 7; `ORC-LDDPN2N66Z.90be32` |  |
+| Lattice c | 2.9107 Å |  | β-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 6; `ORC-OSSJA4KMCA.e48eda` |  |
+| Lattice c | 5.617 Å | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Arrowsmith 1963_ | Table 1, p. 2, row 1; `ORC-7RYBEMLQJA.de056c` |  |
+| Lattice c | 5.615 Å | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kohatsu 1974_ [doi](https://doi.org/10.1016/0025-5408%2874%2990170-6) | Table 1, p. 2, row 4; `ORC-BBO3WESS6D.780149` |  |
+| Lattice c | 5.618 Å ± 0.004 | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Ruddlesden 1958_ [doi](https://doi.org/10.1107/s0365110x58001304) | Table 1, p. 2, row 2; `ORC-VN6ETUYGQ4.82133b` |  |
+| Lattice c | 5.591 Å ± 0.004 | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Kato 1975_ | Table 1, p. 2, row 5; `ORC-YCL7YH4PF2.d2e796` |  |
+| Lattice c | 5.622 Å | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Marchand 1969_ [doi](https://doi.org/10.1107/s0567740869005292) | Table 1, p. 2, row 3; `ORC-Z6OT6ZIKG4.770119` |  |
 
 ## Sources
 

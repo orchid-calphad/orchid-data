@@ -50,9 +50,9 @@ Table: Crystal structure, O–Pm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 49.96 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7; `ORC-UGLZJECSVX.191357` |  |
-| lattice molar volume | 45.697 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7; `ORC-UGLZJECSVX.53f122` |  |
-| lattice molar volume | 44.886 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7; `ORC-UGLZJECSVX.7f44d9` |  |
+| lattice molar volume | 44.886 cm3 mol-1 | 298.15 | Pm2O3 (A-type); _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7; `ORC-UGLZJECSVX.7f44d9` |  |
+| lattice molar volume | 45.697 cm3 mol-1 | 298.15 | Pm2O3 (B-type); _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7; `ORC-UGLZJECSVX.53f122` |  |
+| lattice molar volume | 49.96 cm3 mol-1 | 298.15 | Pm2O3 (C-type); _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7; `ORC-UGLZJECSVX.191357` |  |
 
 ## Sources
 

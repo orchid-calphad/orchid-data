@@ -96,37 +96,37 @@ Table: Crystal structure, B–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 14.71 Å | 298.15 | Cr2B; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1; `ORC-6L2J6A5HVN.a33d78` |  |
+| Lattice a | 14.692 Å | 298.15 | Cr2B; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2; `ORC-7U6K3FXSGD.d6c2d0` |  |
+| Lattice a | 2.984 Å | 298.15 | Cr3B4; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8; `ORC-EOCK65NO7X.3ef418` |  |
+| Lattice a | 2.946 Å | 298.15 | Cr3B4; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9; `ORC-PAWX3UJ3S3.f23036` |  |
+| Lattice a | 5.468 Å | 298.15 | Cr5B3; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 4; `ORC-7XWJN264J4.c652f9` |  |
+| Lattice a | 5.46 Å | 298.15 | Cr5B3; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 1, p. 2, row 5; `ORC-M27XZ2THFK.b57ed8` |  |
+| Lattice a | 5.46 Å | 298.15 | Cr5B3; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 3; `ORC-X7PPTNKHEP.8eadd5` |  |
 | Lattice a | 2.975 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 7; `ORC-IK5NRFPK6X.434a57` |  |
 | Lattice a | 2.969 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 6; `ORC-K6IYUZSZV3.00c64b` |  |
-| Lattice a | 14.71 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1; `ORC-6L2J6A5HVN.a33d78` |  |
-| Lattice a | 14.692 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2; `ORC-7U6K3FXSGD.d6c2d0` |  |
-| Lattice a | 5.468 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 4; `ORC-7XWJN264J4.c652f9` |  |
-| Lattice a | 2.973 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 11; `ORC-BLRMWCPWML.1f9d0a` |  |
-| Lattice a | 4.74 Å | 298.15 | UNKNOWN; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12; `ORC-DGHU536BLG.b37268` |  |
-| Lattice a | 2.984 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8; `ORC-EOCK65NO7X.3ef418` |  |
-| Lattice a | 5.46 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 1, p. 2, row 5; `ORC-M27XZ2THFK.b57ed8` |  |
-| Lattice a | 2.946 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9; `ORC-PAWX3UJ3S3.f23036` |  |
-| Lattice a | 2.969 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 10; `ORC-TTLCDQ4ELJ.1134e4` |  |
-| Lattice a | 5.46 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 3; `ORC-X7PPTNKHEP.8eadd5` |  |
+| Lattice a | 2.973 Å | 298.15 | CrB2; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 11; `ORC-BLRMWCPWML.1f9d0a` |  |
+| Lattice a | 2.969 Å | 298.15 | CrB2; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 10; `ORC-TTLCDQ4ELJ.1134e4` |  |
+| Lattice a | 4.74 Å | 298.15 | CrB4; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12; `ORC-DGHU536BLG.b37268` |  |
+| Lattice b | 7.41 Å | 298.15 | Cr2B; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1; `ORC-6L2J6A5HVN.92716b` |  |
+| Lattice b | 7.399 Å | 298.15 | Cr2B; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2; `ORC-7U6K3FXSGD.ef8f94` |  |
+| Lattice b | 13.02 Å | 298.15 | Cr3B4; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8; `ORC-EOCK65NO7X.7647d7` |  |
+| Lattice b | 13.018 Å | 298.15 | Cr3B4; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9; `ORC-PAWX3UJ3S3.7a9df8` |  |
 | Lattice b | 7.866 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 7; `ORC-IK5NRFPK6X.0e880a` |  |
 | Lattice b | 7.858 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 6; `ORC-K6IYUZSZV3.34ac45` |  |
-| Lattice b | 7.41 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1; `ORC-6L2J6A5HVN.92716b` |  |
-| Lattice b | 7.399 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2; `ORC-7U6K3FXSGD.ef8f94` |  |
-| Lattice b | 5.477 Å | 298.15 | UNKNOWN; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12; `ORC-DGHU536BLG.859176` |  |
-| Lattice b | 13.02 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8; `ORC-EOCK65NO7X.7647d7` |  |
-| Lattice b | 13.018 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9; `ORC-PAWX3UJ3S3.7a9df8` |  |
+| Lattice b | 5.477 Å | 298.15 | CrB4; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12; `ORC-DGHU536BLG.859176` |  |
+| Lattice c | 4.25 Å | 298.15 | Cr2B; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1; `ORC-6L2J6A5HVN.50a75d` |  |
+| Lattice c | 4.266 Å | 298.15 | Cr2B; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2; `ORC-7U6K3FXSGD.6839d3` |  |
+| Lattice c | 2.953 Å | 298.15 | Cr3B4; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8; `ORC-EOCK65NO7X.d49ec2` |  |
+| Lattice c | 2.964 Å | 298.15 | Cr3B4; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9; `ORC-PAWX3UJ3S3.d0a8e2` |  |
+| Lattice c | 10.089 Å | 298.15 | Cr5B3; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 4; `ORC-7XWJN264J4.b7756d` |  |
+| Lattice c | 10.64 Å | 298.15 | Cr5B3; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 1, p. 2, row 5; `ORC-M27XZ2THFK.489b8f` |  |
+| Lattice c | 10.46 Å | 298.15 | Cr5B3; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 3; `ORC-X7PPTNKHEP.a23ad5` |  |
 | Lattice c | 2.934 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 7; `ORC-IK5NRFPK6X.6ea697` |  |
 | Lattice c | 2.932 Å | 298.15 | CrB; _alloy: B 0.5, Cr 0.5_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 6; `ORC-K6IYUZSZV3.559d7c` |  |
-| Lattice c | 4.25 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 1; `ORC-6L2J6A5HVN.50a75d` |  |
-| Lattice c | 4.266 Å | 298.15 | UNKNOWN; _alloy: B 0.333333, Cr 0.666667_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 2; `ORC-7U6K3FXSGD.6839d3` |  |
-| Lattice c | 10.089 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 4; `ORC-7XWJN264J4.b7756d` |  |
-| Lattice c | 3.07 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 11; `ORC-BLRMWCPWML.afa732` |  |
-| Lattice c | 2.866 Å | 298.15 | UNKNOWN; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12; `ORC-DGHU536BLG.533faf` |  |
-| Lattice c | 2.953 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 8; `ORC-EOCK65NO7X.d49ec2` |  |
-| Lattice c | 10.64 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 19_ | Table 1, p. 2, row 5; `ORC-M27XZ2THFK.489b8f` |  |
-| Lattice c | 2.964 Å | 298.15 | UNKNOWN; _alloy: B 0.571429, Cr 0.428571_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 9; `ORC-PAWX3UJ3S3.d0a8e2` |  |
-| Lattice c | 3.066 Å | 298.15 | UNKNOWN; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 10; `ORC-TTLCDQ4ELJ.346483` |  |
-| Lattice c | 10.46 Å | 298.15 | UNKNOWN; _alloy: B 0.375, Cr 0.625_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 3; `ORC-X7PPTNKHEP.a23ad5` |  |
+| Lattice c | 3.07 Å | 298.15 | CrB2; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 11; `ORC-BLRMWCPWML.afa732` |  |
+| Lattice c | 3.066 Å | 298.15 | CrB2; _alloy: B 0.666667, Cr 0.333333_ | experimental | [1] Campbell 2002; _cites ref. 18_ | Table 1, p. 2, row 10; `ORC-TTLCDQ4ELJ.346483` |  |
+| Lattice c | 2.866 Å | 298.15 | CrB4; _alloy: B 0.8, Cr 0.2_ | experimental | [1] Campbell 2002; _cites ref. 21_ | Table 1, p. 2, row 12; `ORC-DGHU536BLG.533faf` |  |
 
 ## Sources
 

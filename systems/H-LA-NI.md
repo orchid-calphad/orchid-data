@@ -1,10 +1,10 @@
 # H–La–Ni system
 
-> H–La–Ni system: 21 accepted literature values (formation 16, heat capacity / entropy / enthalpy 4, crystal structure 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–La–Ni system: 17 accepted literature values (formation 16, crystal structure 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-LA-NI.html · Markdown: https://data.orchid-project.org/systems/H-LA-NI.md
 
-21 accepted literature values from 2 paper(s) (experimental 14, model 5, DFT 1, unspecified 1); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+17 accepted literature values from 2 paper(s) (experimental 12, model 3, DFT 1, unspecified 1); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/H-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LA-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-LA-NI.html) · [Markdown](https://data.orchid-project.org/systems/H-LA-NI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 5 |
+| experimental | 12 |
+| model | 3 |
 | DFT | 1 |
 | unspecified | 1 |
 
@@ -22,7 +22,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | formation | 16 |
-| heat capacity / entropy / enthalpy | 4 |
 | crystal structure | 1 |
 
 ## Formation enthalpies
@@ -51,17 +50,6 @@ Table: Enthalpies of formation, H–La–Ni system (16)
 | LaNi5Hx |  | -18.8 kJ/mol-atom | 320.5 | experimental |  |  | [1] Palumbo 2009; _cites Anderson 1973_ | Table 1, p. 2, row 12; `ORC-FSIWRNZD3C.8f2f31` |  |
 
 ## Other properties
-
-### Heat capacity / entropy / enthalpy (4)
-
-Table: Heat capacity / entropy / enthalpy, H–La–Ni system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Entropy of formation_ | 45 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.333333, Ni 0_ | experimental | [1] Palumbo 2009; _cites Bieganski 1971_ | Table 1, p. 2, row 4; `ORC-7I5G2TFZFJ.67b5ad` |  |
-| Entropy; _printed: Entropy of formation_ | 44.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.333333, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 3; `ORC-WRJGTS357I.de6aef` |  |
-| Entropy; _printed: Entropy of formation_ | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | experimental | [1] Palumbo 2009; _cites Ito 1983_ [doi](https://doi.org/10.1103/physrevb.27.2830) | Table 1, p. 2, row 6; `ORC-XZPL4NP7EK.48f74c` |  |
-| Entropy; _printed: Entropy of formation_ | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 5; `ORC-Y35WWA7QIC.ff90ca` |  |
 
 ### Crystal structure (1)
 

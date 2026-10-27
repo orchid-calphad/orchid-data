@@ -1,10 +1,10 @@
 # Pu–Th system
 
-> Pu–Th system: 1 accepted literature values (heat capacity / entropy / enthalpy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pu–Th system: 2 accepted literature values (heat capacity / entropy / enthalpy 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PU-TH.html · Markdown: https://data.orchid-project.org/systems/PU-TH.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+2 accepted literature values from 1 paper(s) (model 2); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PU-TH.json) · [CSV](https://data.orchid-project.org/systems/PU-TH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PU-TH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PU-TH/PuTh-14Ben.json) · [phases (9)](https://data.orchid-project.org/phases/pages/PU-TH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PU-TH.html) · [Markdown](https://data.orchid-project.org/systems/PU-TH.md)
 
@@ -12,13 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| heat capacity / entropy / enthalpy | 1 |
+| heat capacity / entropy / enthalpy | 2 |
 
 ## Calculated phase diagrams
 
@@ -50,13 +50,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (1)
+### Heat capacity / entropy / enthalpy (2)
 
 Table: Heat capacity / entropy / enthalpy, Pu–Th system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S0(298.15)_ | 53.6618 J/mol-atom/K | 298.15 | Th3Pu7; _alloy: Th 0.3_ | model | [1] Beneš 2014 | Table 1, p. 2, row 37; `ORC-RGH2U3SM2J.e1026c` |  |
+| Entropy; _printed: S0(298.15)_ | 53.6618 J/mol-atom/K | 298.15 | Th3Pu7; _alloy: Th 0.3_ | model | [1] Beneš 2014 | Table 1, p. 2, row 38; `ORC-YG6EXYMDXI` |  |
 
 ## Sources
 

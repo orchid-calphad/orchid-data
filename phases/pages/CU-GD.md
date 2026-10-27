@@ -13,12 +13,12 @@ Table: Phases of the Cu–Gd system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cu-gd-bcc-a2); _phase:cu-gd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 872.45–2499.87 K, x(Gd) 0.8676–1 | 5 | 1 |
-| [CU2GD](#phase-cu-gd-cu2gd); _phase:cu-gd:cu2gd_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1124.54 K, x(Gd) 0.33333–0.33333 | 8 | 1 |
+| [CU2GD](#phase-cu-gd-cu2gd); _phase:cu-gd:cu2gd_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1124.54 K, x(Gd) 0.33333–0.33333 | 11 | 1 |
 | [CU5GD_C15B](#phase-cu-gd-cu5gd-c15b); _phase:cu-gd:cu5gd-c15b_ | AuBe5 · C15_b · cF24 · F-43m (216) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–933.64 K, x(Gd) 0.16667–0.16667 | 2 | 1 |
 | [CU5GD_D2D](#phase-cu-gd-cu5gd-d2d); _phase:cu-gd:cu5gd-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 933.64–1195.71 K, x(Gd) 0.16667–0.16667 | 7 | 1 |
-| [CU6GD](#phase-cu-gd-cu6gd); _phase:cu-gd:cu6gd_ | CeCu6 · oP28 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1135.5 K, x(Gd) 0.14286–0.14286 | 6 | 1 |
+| [CU6GD](#phase-cu-gd-cu6gd); _phase:cu-gd:cu6gd_ | CeCu6 · oP28 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1135.5 K, x(Gd) 0.14286–0.14286 | 9 | 1 |
 | [CU7GD2](#phase-cu-gd-cu7gd2); _phase:cu-gd:cu7gd2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1104.93–1147.06 K, x(Gd) 0.22222–0.22222 | 4 | 1 |
-| [CU9GD2](#phase-cu-gd-cu9gd2); _phase:cu-gd:cu9gd2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1199.27 K, x(Gd) 0.18182–0.18182 | 12 | 1 |
+| [CU9GD2](#phase-cu-gd-cu9gd2); _phase:cu-gd:cu9gd2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1199.27 K, x(Gd) 0.18182–0.18182 | 14 | 1 |
 | [CUGD_B2](#phase-cu-gd-cugd-b2); _phase:cu-gd:cugd-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1097.08 K, x(Gd) 0.5–0.5 | 10 | 1 |
 | [FCC_A1](#phase-cu-gd-fcc-a1); _phase:cu-gd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1360.77 K, x(Gd) 0–3e-05 | 3 | 1 |
 | [HCP_A3](#phase-cu-gd-hcp-a3); _phase:cu-gd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1569.02 K, x(Gd) 0.94984–1 | 2 | 1 |
@@ -61,7 +61,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_74_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.6667, Gd 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1124.54 K, x(Gd) 0.33333–0.33333
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-gd:cu2gd)
 
 Names (3): _corpus: _corpus:phase:cu-gd:cu2gd  
@@ -153,7 +153,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.8571, Gd 0.1429
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1135.5 K, x(Gd) 0.14286–0.14286
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-gd:cu6gd)
 
 Names (3): _corpus: _corpus:phase:cu-gd:cu6gd  
@@ -217,7 +217,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (Cu9Gd2) — Hallstedt 2025 mmc2 row for CU9GD2: Cu9Gd2
 - Stoichiometry: Cu 0.8182, Gd 0.1818
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1199.27 K, x(Gd) 0.18182–0.18182
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-gd:cu9gd2)
 
 Names (3): _corpus: _corpus:phase:cu-gd:cu9gd2  

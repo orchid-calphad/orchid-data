@@ -165,13 +165,13 @@ Table: Crystal structure, Mg–Y system
 | Lattice a | 11.257 Å | 298.15 | Mg24Y5 (ε); _alloy: Y 0.172414_ | unspecified | [4] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 1; `ORC-CLNULQGL5Y` |  |
 | Lattice a | 6.037 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [4] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.0631ad` |  |
 | Lattice a | 3.796 Å | 298.15 | MgY; _alloy: Y 0.5_ | unspecified | [4] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 3; `ORC-LBTYM2GOGU` |  |
-| Lattice a | 3.81 Å | 298.15 | UNKNOWN | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.4967c8` |  |
 | Lattice a | 3.81 Å | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.9fbf52` |  |
+| Lattice a | 3.81 Å | 298.15 | γMg-Y, MgY | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.4967c8` |  |
 | Lattice c | 9.752 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [4] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.b7aaf8` |  |
-| lattice alpha | 90 ° | 298.15 | UNKNOWN | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.f888a6` |  |
-| lattice beta | 90 ° | 298.15 | UNKNOWN | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.145c69` |  |
+| lattice alpha | 90 ° | 298.15 | γMg-Y, MgY | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.f888a6` |  |
+| lattice beta | 90 ° | 298.15 | γMg-Y, MgY | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.145c69` |  |
 | lattice gamma | 120 ° | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [4] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2; `ORC-W2Q7CBFUTW.98f087` |  |
-| lattice gamma | 120 ° | 298.15 | UNKNOWN | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.0967f3` |  |
+| lattice gamma | 120 ° | 298.15 | γMg-Y, MgY | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2; `ORC-FRF7XN6MXQ.0967f3` |  |
 | lattice unspecified angle | 120 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.065832` |  |
 | lattice unspecified angle | 90 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [5] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1; `ORC-2OAQRR45YC.0744c4` |  |
 

@@ -1,10 +1,10 @@
 # Ca–Sn system
 
-> Ca–Sn system: 52 accepted literature values (formation 34, crystal structure 17, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Sn system: 54 accepted literature values (formation 34, crystal structure 19, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-SN.html · Markdown: https://data.orchid-project.org/systems/CA-SN.md
 
-52 accepted literature values from 2 paper(s) (experimental 7, model 21, DFT 7, unspecified 17); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+54 accepted literature values from 2 paper(s) (experimental 7, model 21, DFT 7, unspecified 19); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SN.json) · [CSV](https://data.orchid-project.org/systems/CA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SN/CaSn-05Car.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SN.html) · [Markdown](https://data.orchid-project.org/systems/CA-SN.md)
 
@@ -15,7 +15,7 @@ Table: Accepted values by evidence class
 | experimental | 7 |
 | model | 21 |
 | DFT | 7 |
-| unspecified | 17 |
+| unspecified | 19 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 1 |
 | formation | 34 |
-| crystal structure | 17 |
+| crystal structure | 19 |
 
 ## Calculated phase diagrams
 
@@ -115,7 +115,7 @@ Table: Phase transition, Ca–Sn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1613 K | 1613 | Ca2Sn + liquid | experimental | [1] OHNO 2006; _cites Palenzona 2000_ | p. 2; `ORC-FG7DID4TFA` | “The Ca2Sn phase melts at the highest temperature, about 1613 K, which is much higher than the melting temperatures of the pure elements.” |
 
-### Crystal structure (17)
+### Crystal structure (19)
 
 Table: Crystal structure, Ca–Sn system
 
@@ -126,6 +126,7 @@ Table: Crystal structure, Ca–Sn system
 | Lattice a | 4.813 not_printed ± 0.002 | 1010 (\<) | CaSn; _alloy: Sn 0.5_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 9; `ORC-7N5RGOPH3T.1648d5` |  |
 | Lattice a | 12.521 not_printed ± 0.002 | 1130 (\<) | Ca31Sn20; _alloy: Sn 0.392157_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 11; `ORC-NWWMIVZSTC.e776cc` |  |
 | Lattice a | 12.499 not_printed ± 0.001 | 1130 (\<) | Ca36Sn23; _alloy: Sn 0.389831_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 12; `ORC-75FBNOAF4N.e580f7` |  |
+| Lattice a | 8.117 not_printed ± 0.002 | 1130 (\<) | Ca5Sn3 | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 13; `ORC-NWSNHEHRLL.b54023` |  |
 | Lattice a | 7.992 not_printed ± 0.003 | 1340 (\<) | Ca2Sn; _alloy: Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 14; `ORC-PAETOLN5VP.2a08d5` |  |
 | Lattice a | 7.981 not_printed ± 0.002 | 1340 (\<) | Ca2Sn; _alloy: Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 14; `ORC-PAETOLN5VP.729d36` |  |
 | Lattice b | 23.818 not_printed ± 0.002 | 1000 (\<) | Ca7Sn6; _alloy: Sn 0.461538_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 10; `ORC-W2N4VEMONN.7b5243` |  |
@@ -136,6 +137,7 @@ Table: Crystal structure, Ca–Sn system
 | Lattice c | 4.351 not_printed ± 0.001 | 1010 (\<) | CaSn; _alloy: Sn 0.5_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 9; `ORC-7N5RGOPH3T.2fd2ca` |  |
 | Lattice c | 39.87 not_printed ± 0.02 | 1130 (\<) | Ca31Sn20; _alloy: Sn 0.392157_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 11; `ORC-NWWMIVZSTC.e6d5ad` |  |
 | Lattice c | 22.883 not_printed ± 0.005 | 1130 (\<) | Ca36Sn23; _alloy: Sn 0.389831_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 12; `ORC-75FBNOAF4N.3881ea` |  |
+| Lattice c | 15.429 not_printed ± 0.007 | 1130 (\<) | Ca5Sn3 | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 13; `ORC-NWSNHEHRLL.0b2740` |  |
 | Lattice c | 9.566 not_printed ± 0.002 | 1340 (\<) | Ca2Sn; _alloy: Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 14; `ORC-PAETOLN5VP.b132bd` |  |
 | Lattice c | 9.554 not_printed ± 0.005 | 1340 (\<) | Ca2Sn; _alloy: Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 14; `ORC-PAETOLN5VP.ea7497` |  |
 

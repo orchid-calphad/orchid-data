@@ -1,10 +1,10 @@
 # B–C–Ti system
 
-> B–C–Ti system: 49 accepted literature values (invariant reaction 28, crystal structure 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–C–Ti system: 32 accepted literature values (invariant reaction 28, crystal structure 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-C-TI.html · Markdown: https://data.orchid-project.org/systems/B-C-TI.md
 
-49 accepted literature values from 1 paper(s) (experimental 18, model 18, unspecified 13); 0 calculated phase diagram(s).
+32 accepted literature values from 1 paper(s) (experimental 12, model 18, unspecified 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-C-TI.json) · [CSV](https://data.orchid-project.org/systems/B-C-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-C-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-C-TI.html) · [Markdown](https://data.orchid-project.org/systems/B-C-TI.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
+| experimental | 12 |
 | model | 18 |
-| unspecified | 13 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 28 |
-| crystal structure | 21 |
+| crystal structure | 4 |
 
 ## Invariant reactions (literature)
 
@@ -60,31 +60,14 @@ Table: Invariant reactions reported in the literature for the B–C–Ti system 
 
 ## Other properties
 
-### Crystal structure (21)
+### Crystal structure (4)
 
 Table: Crystal structure, B–C–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.326 Å | 83 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 30; `ORC-FH2C7MVOX3` |  |
 | Lattice a | 8.876 Å | 298.15 | Ti1.86B48C2; _alloy: C 0.038565, Ti 0.035866_ | unspecified | [1] Duschanek 1995; _cites ref. 80Amb_ | Table 3, p. 4, row 67; `ORC-6YV77FOMH5.979230` |  |
 | Lattice a | 8.876 Å | 298.15 | Ti1.86B48C2; _alloy: C 0.038565, Ti 0.035866_ | experimental | [1] Duschanek 1995; _cites ref. 80Amb_ | Table 3, p. 5, row 39; `ORC-PFYMR3Q666.8aef2a` |  |
-| Lattice a | 4.323 Å | 298.15 | UNKNOWN | experimental | [1] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 35; `ORC-2OIFNYVBWC` |  |
-| Lattice a | 4.332 Å | 298.15 | UNKNOWN | experimental | [1] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 33; `ORC-3TZ6STB7MG` |  |
-| Lattice a | 4.3225 Å | 298.15 | UNKNOWN | experimental | [1] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 56; `ORC-7HON4ER7MV` |  |
-| Lattice a | 4.33 Å | 298.15 | UNKNOWN | experimental | [1] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 57; `ORC-K555UC5XIO` |  |
-| Lattice a | 4.327 Å | 298.15 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 32; `ORC-NH3AWTPFXI` |  |
-| Lattice a | 4.306 Å | 298.15 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 31; `ORC-WJ6QES22OD` |  |
-| Lattice a | 4.3292 Å | 299 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 29; `ORC-FS4HUFOO4N` |  |
-| Lattice a | 4.328 Å | 1773.15 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 4, row 58; `ORC-5AY5GS7VOQ` |  |
-| Lattice a | 4.333 Å | 1773.15 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 4, row 59; `ORC-5IYLEVA7SL` |  |
-| Lattice a | 4.322 Å | 1773.15 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 4, row 60; `ORC-7KZPKVXAZM` |  |
-| Lattice a | 4.324 Å | 1773.15 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 4, row 61; `ORC-WB2LJZNTBZ` |  |
-| Lattice a | 4.319 Å | 3073.15 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 49; `ORC-2JNM73ZWQW` |  |
-| Lattice a | 4.326 Å | 3133.15 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 50; `ORC-V55DKBUNYN` |  |
-| Lattice a | 4.332 Å | 3173.15 | UNKNOWN | experimental | [1] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 55; `ORC-JSXMV274Z3` |  |
-| Lattice a | 4.33 Å | 3203.15 | UNKNOWN | experimental | [1] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 54; `ORC-X6WILGR6JX` |  |
-| Lattice a | 4.33 Å | 3265.15 | UNKNOWN | unspecified | [1] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 51; `ORC-OCW3DQAHQJ` |  |
 | Lattice c | 5.062 Å | 298.15 | Ti1.86B48C2; _alloy: C 0.038565, Ti 0.035866_ | unspecified | [1] Duschanek 1995; _cites ref. 80Amb_ | Table 3, p. 4, row 67; `ORC-6YV77FOMH5.d0004d` |  |
 | Lattice c | 5.062 Å | 298.15 | Ti1.86B48C2; _alloy: C 0.038565, Ti 0.035866_ | experimental | [1] Duschanek 1995; _cites ref. 80Amb_ | Table 3, p. 5, row 39; `ORC-PFYMR3Q666.1209b3` |  |
 

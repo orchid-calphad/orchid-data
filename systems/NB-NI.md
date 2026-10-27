@@ -262,9 +262,9 @@ Table: Crystal structure, Nb–Ni system
 | Molar volume; _printed: V0_ | 13.6 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.384615, Ni 0.615385_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 16; `ORC-3EMJ6CDNOS` |  |
 | Molar volume; _printed: V0_ | 14.51 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.538462, Ni 0.461538_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 18; `ORC-4WYXHUXBKE` |  |
 | Molar volume; _printed: V0_ | 12.92 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.307692, Ni 0.692308_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 15; `ORC-7ONHFWL6ZB` |  |
+| Molar volume; _printed: V0_ | 12.39 Å3/atom | 0 | Ni3Nb; _alloy: Nb 0.25, Ni 0.75_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 10; `ORC-OUQ3UE6244` |  |
 | Molar volume; _printed: V0_ | 12.4 Å3/atom | 0 | Ni3Nb; _alloy: Nb 0.25, Ni 0.75_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 9; `ORC-ZNQ5UXUN3L` |  |
 | Molar volume; _printed: V0_ | 11.53 Å3/atom | 0 | Ni8Nb; _alloy: Nb 0.111111, Ni 0.888889_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 8; `ORC-XD7WZF2NYH` |  |
-| Molar volume; _printed: V0_ | 12.39 Å3/atom | 0 | UNKNOWN; _alloy: Nb 0.25, Ni 0.75_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 10; `ORC-OUQ3UE6244` |  |
 
 ## Sources
 

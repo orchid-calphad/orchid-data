@@ -1,10 +1,10 @@
 # Ga–N system
 
-> Ga–N system: 5 accepted literature values (phase transition 4, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–N system: 16 accepted literature values (heat capacity / entropy / enthalpy 11, phase transition 4, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-N.html · Markdown: https://data.orchid-project.org/systems/GA-N.md
 
-5 accepted literature values from 1 paper(s) (experimental 4, model 1); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+16 accepted literature values from 2 paper(s) (experimental 4, model 2, unspecified 10); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-N.json) · [CSV](https://data.orchid-project.org/systems/GA-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-N/GaN-03Unl.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GA-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-N.html) · [Markdown](https://data.orchid-project.org/systems/GA-N.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 4 |
-| model | 1 |
+| model | 2 |
+| unspecified | 10 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 4 |
 | formation | 1 |
+| heat capacity / entropy / enthalpy | 11 |
 
 ## Calculated phase diagrams
 
@@ -67,11 +69,30 @@ Table: Phase transition, Ga–N system
 | Phase transition | 1110 K | 1110 | other: GaN (+ in situ Ga) Isothermal stepping TGA, samples #1, #2, #3, assessed value; _alloy: N 0.5_ | experimental | [1] Unland 2003 | Table 4, p. 5, row 4; `ORC-QUBP5YRWM6` |  |
 | Phase transition | 2700 K | 2700 | liquid | model | [1] Unland 2003 | p. 15; `ORC-JWKRDOKSBK` | “The experimental solubility data are compared to the calculated phase boundary based on Tm=2700 K in Fig. 8.” |
 
+### Heat capacity / entropy / enthalpy (11)
+
+Table: Heat capacity / entropy / enthalpy, Ga–N system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S°298_ | 26 J/mol-formula K | 298.15 | GaN | unspecified | [2] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17; `ORC-4T7BA2NHWJ.fd391f` |  |
+| Entropy; _printed: S°298_ | 37 J/mol-formula K | 298.15 | GaN | unspecified | [2] Onderka 2002; _cites Davydov 1999_ | Table AI, p. 18, row 29; `ORC-E5BA3LD6XE` |  |
+| Entropy; _printed: S°298_ | 36.5 J/mol-formula K | 298.15 | GaN | unspecified | [2] Onderka 2002; _cites Koshenko 1979_ | Table AI, p. 18, row 28; `ORC-FFB3FKS6MS` |  |
+| Entropy; _printed: ΔmS_ | 67.4 J/mol-formula K | 298.15 | GaN | model | [2] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 19; `ORC-JMWXUEHMPP` |  |
+| Entropy; _printed: ΔmS_ | 67.4 J/mol-formula K | 2700 | GaN | unspecified | [2] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17; `ORC-4T7BA2NHWJ.bd553d` |  |
+| Entropy; _printed: ΔmS_ | 67 J/mol-formula K | 2791 | GaN | unspecified | [2] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 15; `ORC-7S4ILD56YN` |  |
+| Entropy; _printed: ΔmS_ | 31.5 J/mol-formula K | 2792 | GaN | unspecified | [2] Onderka 2002; _cites Davydov 1999_ | Table AI, p. 18, row 18; `ORC-XNAQL7HNT3.431058` |  |
+| Heat capacity; _printed: Cp,298_ | 34.03 J/mol (basis unstated)/K | 298.15 | GaN | unspecified | [2] Onderka 2002; _cites Unland_ | Table AI, p. 18, row 17; `ORC-4T7BA2NHWJ.ff131c` |  |
+| Heat capacity; _printed: Cp,298_ | 33.8 J/mol (basis unstated)/K | 298.15 | GaN | unspecified | [2] Onderka 2002; _cites Strelchenko 1984_ | Table AI, p. 18, row 23; `ORC-HIYYHVEOWV` |  |
+| Heat capacity; _printed: Cp,298_ | 37.86 J/mol (basis unstated)/K | 298.15 | GaN | unspecified | [2] Onderka 2002; _cites Marina 1971_ | Table AI, p. 18, row 21; `ORC-PTDCOM6PXE` |  |
+| Heat capacity; _printed: Cp,298_ | 35.19 J/mol (basis unstated)/K | 298.15 | GaN | unspecified | [2] Onderka 2002; _cites Demidenko 1975_ | Table AI, p. 18, row 22; `ORC-UIEMLZI5V4` |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. J. Unland, B. Onderka, A. Davydov, R. Schmid-Fetzer, Thermodynamics and Phase Stability in the Ga–N System, Journal of Crystal Growth 256, 33-51 (2003). [doi:10.1016/s0022-0248(03)01352-6](https://doi.org/10.1016/s0022-0248%2803%2901352-6)
+2. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
 
 ## Please cite
 

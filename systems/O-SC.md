@@ -62,9 +62,9 @@ Table: Crystal structure, O–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 35.911 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1; `ORC-DI2XNZRC2C.33681f` |  |
-| lattice molar volume | 33.129 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1; `ORC-DI2XNZRC2C.48d7ec` |  |
-| lattice molar volume | 31.781 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1; `ORC-DI2XNZRC2C.8fc252` |  |
+| lattice molar volume | 31.781 cm3 mol-1 | 298.15 | Sc2O3 (A-type); _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1; `ORC-DI2XNZRC2C.8fc252` |  |
+| lattice molar volume | 33.129 cm3 mol-1 | 298.15 | Sc2O3 (B-type); _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1; `ORC-DI2XNZRC2C.48d7ec` |  |
+| lattice molar volume | 35.911 cm3 mol-1 | 298.15 | Sc2O3 (C-type); _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1; `ORC-DI2XNZRC2C.33681f` |  |
 
 ## Sources
 

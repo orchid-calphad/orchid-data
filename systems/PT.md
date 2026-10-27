@@ -1,10 +1,10 @@
 # Pt system
 
-> Pt system: 13 accepted literature values (crystal structure 9, formation 2, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pt system: 14 accepted literature values (crystal structure 10, formation 2, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PT.html · Markdown: https://data.orchid-project.org/systems/PT.md
 
-13 accepted literature values from 6 paper(s) (experimental 3, model 7, DFT 3); 0 calculated phase diagram(s).
+14 accepted literature values from 6 paper(s) (experimental 4, model 7, DFT 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PT.json) · [CSV](https://data.orchid-project.org/systems/PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PT) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PT.html) · [Markdown](https://data.orchid-project.org/systems/PT.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
+| experimental | 4 |
 | model | 7 |
 | DFT | 3 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | formation | 2 |
-| crystal structure | 9 |
+| crystal structure | 10 |
 
 ## Invariant reactions (literature)
 
@@ -46,7 +46,7 @@ Table: Enthalpies of formation, Pt system (2)
 
 ## Other properties
 
-### Crystal structure (9)
+### Crystal structure (10)
 
 Table: Crystal structure, Pt system
 
@@ -61,6 +61,7 @@ Table: Crystal structure, Pt system
 | Lattice a | 3.913 Å | 1403.15 | (Pt); _(Pt): Pt 1_ | experimental | [5] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9; `ORC-JSILAMNBID.c52810` |  |
 | lattice unspecified axis | 3.913 Å | 1403.15 | (Pt); _(Pt): Pt 1_ | experimental | [5] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9; `ORC-JSILAMNBID.d4f47d` |  |
 | lattice v | 15.5927 Å3/atom | 0 | Pt | DFT | [6] Guo 2015 | Table I, p. 3, row 1; `ORC-SFNVBQUBSR` |  |
+| lattice v | 15.09 Å3/atom |  | Pt | experimental | [6] Guo 2015; _cites Perdew 1996_ [doi](https://doi.org/10.1103/physrevlett.77.3865) | Table I, p. 3, row 2; `ORC-Y6RLDJSXKM` |  |
 
 ## Sources
 

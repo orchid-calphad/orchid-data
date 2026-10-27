@@ -1,10 +1,10 @@
 # Ca–Mg–Sn system
 
-> Ca–Mg–Sn system: 67 accepted literature values (invariant reaction 23, crystal structure 16, phase equilibrium 12, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Mg–Sn system: 65 accepted literature values (invariant reaction 23, crystal structure 14, phase equilibrium 12, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-MG-SN.html · Markdown: https://data.orchid-project.org/systems/CA-MG-SN.md
 
-67 accepted literature values from 1 paper(s) (experimental 22, model 21, DFT 4, unspecified 20); 0 calculated phase diagram(s). 32 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+65 accepted literature values from 1 paper(s) (experimental 22, model 21, DFT 4, unspecified 18); 0 calculated phase diagram(s). 32 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG-SN.json) · [CSV](https://data.orchid-project.org/systems/CA-MG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-MG-SN.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG-SN.md)
 
@@ -15,7 +15,7 @@ Table: Accepted values by evidence class
 | experimental | 22 |
 | model | 21 |
 | DFT | 4 |
-| unspecified | 20 |
+| unspecified | 18 |
 
 Table: Accepted values by property group
 
@@ -26,7 +26,7 @@ Table: Accepted values by property group
 | phase equilibrium | 12 |
 | formation | 4 |
 | heat capacity / entropy / enthalpy | 4 |
-| crystal structure | 16 |
+| crystal structure | 14 |
 
 ## Invariant reactions (literature)
 
@@ -118,28 +118,26 @@ Table: Heat capacity / entropy / enthalpy, Ca–Mg–Sn system
 | Entropy; _printed: S298_ | 37.83 J/mol-atom/K | 298.15 | CaMgSn; _alloy: Mg 0.333333, Sn 0.333333_ | DFT | [1] Kozlov 2008; _cites Arroyave 2006_ | Table 2, p. 5, row 12; `ORC-D7JXTQJK7N` |  |
 | Entropy; _printed: S298_ | 37.84 J/mol-atom/K | 298.15 | CaMgSn; _alloy: Mg 0.333333, Sn 0.333333_ | model | [1] Kozlov 2008 | Table 2, p. 5, row 13; `ORC-LB43WYYMSL` |  |
 
-### Crystal structure (16)
+### Crystal structure (14)
 
 Table: Crystal structure, Ca–Mg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.86 not_printed ± 0.02 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.3dd8e1` |  |
-| Lattice a | 7.847 not_printed ± 0.008 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.65fd93` |  |
-| Lattice a | 7.8731 not_printed ± 8.000e-4 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.d01b0f` |  |
+| Lattice a | 7.86 not_printed ± 0.02 | 298.15 | Ca2-xMgxSn | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.3dd8e1` |  |
+| Lattice a | 7.847 not_printed ± 0.008 | 298.15 | Ca2-xMgxSn | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.65fd93` |  |
+| Lattice a | 7.8731 not_printed ± 8.000e-4 | 298.15 | Ca2-xMgxSn | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.d01b0f` |  |
 | Lattice a | 5.5884 Å | 443 (\<) | (αCa); _alloy: Mg 0, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 2; `ORC-MMRURZ3ANV` |  |
 | Lattice a | 4.48 Å | 642.5 | (βCa); _alloy: Mg 0, Sn 0_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 1; `ORC-UWYHT3F5NN` |  |
 | Lattice a | 7.794 not_printed ± 0.001 | 918.9 (\<) | Ca6.2Mg3.8Sn7; _alloy: Mg 0.223529, Sn 0.411765_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 16; `ORC-YM33KJDYIH.633141` |  |
-| Lattice a | 8.117 not_printed ± 0.002 | 1130 (\<) | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 13; `ORC-NWSNHEHRLL.b54023` |  |
-| Lattice b | 4.66 not_printed ± 0.02 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.67ebb0` |  |
-| Lattice b | 4.6941 not_printed ± 3.000e-4 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.6b60a4` |  |
-| Lattice b | 4.678 not_printed ± 0.007 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.6d1978` |  |
+| Lattice b | 4.66 not_printed ± 0.02 | 298.15 | Ca2-xMgxSn | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.67ebb0` |  |
+| Lattice b | 4.6941 not_printed ± 3.000e-4 | 298.15 | Ca2-xMgxSn | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.6b60a4` |  |
+| Lattice b | 4.678 not_printed ± 0.007 | 298.15 | Ca2-xMgxSn | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.6d1978` |  |
 | Lattice b | 25.718 not_printed ± 0.004 | 918.9 (\<) | Ca6.2Mg3.8Sn7; _alloy: Mg 0.223529, Sn 0.411765_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 16; `ORC-YM33KJDYIH.04497e` |  |
-| Lattice c | 8.749 not_printed ± 0.008 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.28e810` |  |
-| Lattice c | 8.74 not_printed ± 0.02 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.6af0ca` |  |
-| Lattice c | 8.7538 not_printed ± 7.000e-4 | 298.15 | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.91468b` |  |
+| Lattice c | 8.749 not_printed ± 0.008 | 298.15 | Ca2-xMgxSn | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.28e810` |  |
+| Lattice c | 8.74 not_printed ± 0.02 | 298.15 | Ca2-xMgxSn | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.6af0ca` |  |
+| Lattice c | 8.7538 not_printed ± 7.000e-4 | 298.15 | Ca2-xMgxSn | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 15; `ORC-AZB47TPD2E.91468b` |  |
 | Lattice c | 4.655 not_printed ± 0.001 | 918.9 (\<) | Ca6.2Mg3.8Sn7; _alloy: Mg 0.223529, Sn 0.411765_ | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 16; `ORC-YM33KJDYIH.26bab1` |  |
-| Lattice c | 15.429 not_printed ± 0.007 | 1130 (\<) | UNKNOWN | unspecified | [1] Kozlov 2008 | Table 1, p. 4, row 13; `ORC-NWSNHEHRLL.0b2740` |  |
 
 ## Sources
 

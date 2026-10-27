@@ -196,20 +196,20 @@ Table: Crystal structure, Hf–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 6.553 Å | 298.15 | Hf2Si; _alloy: Si 0.333333_ | unspecified | [2] Zhao 2000; _cites Havinga 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990028-8) | Table 1, p. 2, row 1; `ORC-QURHNRN32W.971e92` |  |
+| Lattice a | 6.988 Å | 298.15 | Hf3Si2; _alloy: Si 0.4_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 3; `ORC-N7V7YNMRQS.067a6f` |  |
+| Lattice a | 7.844 Å | 298.15 | Hf5Si3; _alloy: Si 0.375_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 2; `ORC-JBIGLWPGTE.851967` |  |
+| Lattice a | 7.039 Å | 298.15 | Hf5Si4; _alloy: Si 0.444444_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 4; `ORC-TDVCQMAIPA.495127` |  |
 | Lattice a | 6.889 Å | 298.15 | HfSi; _alloy: Si 0.5_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 5; `ORC-JW6RU27GDG.e74c81` |  |
-| Lattice a | 7.844 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 2; `ORC-JBIGLWPGTE.851967` |  |
-| Lattice a | 6.988 Å | 298.15 | UNKNOWN; _alloy: Si 0.4_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 3; `ORC-N7V7YNMRQS.067a6f` |  |
-| Lattice a | 3.672 Å | 298.15 | UNKNOWN; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6; `ORC-PLBJO2DIH6.8e0087` |  |
-| Lattice a | 6.553 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333_ | unspecified | [2] Zhao 2000; _cites Havinga 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990028-8) | Table 1, p. 2, row 1; `ORC-QURHNRN32W.971e92` |  |
-| Lattice a | 7.039 Å | 298.15 | UNKNOWN; _alloy: Si 0.444444_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 4; `ORC-TDVCQMAIPA.495127` |  |
+| Lattice a | 3.672 Å | 298.15 | HfSi2; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6; `ORC-PLBJO2DIH6.8e0087` |  |
 | Lattice b | 3.772 Å | 298.15 | HfSi; _alloy: Si 0.5_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 5; `ORC-JW6RU27GDG.e67b3c` |  |
-| Lattice b | 14.57 Å | 298.15 | UNKNOWN; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6; `ORC-PLBJO2DIH6.7a5961` |  |
+| Lattice b | 14.57 Å | 298.15 | HfSi2; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6; `ORC-PLBJO2DIH6.7a5961` |  |
+| Lattice c | 5.186 Å | 298.15 | Hf2Si; _alloy: Si 0.333333_ | unspecified | [2] Zhao 2000; _cites Havinga 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990028-8) | Table 1, p. 2, row 1; `ORC-QURHNRN32W.b85c2e` |  |
+| Lattice c | 3.675 Å | 298.15 | Hf3Si2; _alloy: Si 0.4_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 3; `ORC-N7V7YNMRQS.7ee8eb` |  |
+| Lattice c | 5.492 Å | 298.15 | Hf5Si3; _alloy: Si 0.375_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 2; `ORC-JBIGLWPGTE.479c1a` |  |
+| Lattice c | 12.83 Å | 298.15 | Hf5Si4; _alloy: Si 0.444444_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 4; `ORC-TDVCQMAIPA.74b563` |  |
 | Lattice c | 5.223 Å | 298.15 | HfSi; _alloy: Si 0.5_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 5; `ORC-JW6RU27GDG.d5a4d3` |  |
-| Lattice c | 5.492 Å | 298.15 | UNKNOWN; _alloy: Si 0.375_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 2; `ORC-JBIGLWPGTE.479c1a` |  |
-| Lattice c | 3.675 Å | 298.15 | UNKNOWN; _alloy: Si 0.4_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 3; `ORC-N7V7YNMRQS.7ee8eb` |  |
-| Lattice c | 3.641 Å | 298.15 | UNKNOWN; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6; `ORC-PLBJO2DIH6.09b99c` |  |
-| Lattice c | 5.186 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333_ | unspecified | [2] Zhao 2000; _cites Havinga 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990028-8) | Table 1, p. 2, row 1; `ORC-QURHNRN32W.b85c2e` |  |
-| Lattice c | 12.83 Å | 298.15 | UNKNOWN; _alloy: Si 0.444444_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 4; `ORC-TDVCQMAIPA.74b563` |  |
+| Lattice c | 3.641 Å | 298.15 | HfSi2; _alloy: Si 0.666667_ | unspecified | [2] Zhao 2000; _cites Karpinsky 1969_ | Table 1, p. 2, row 6; `ORC-PLBJO2DIH6.09b99c` |  |
 
 ## Sources
 

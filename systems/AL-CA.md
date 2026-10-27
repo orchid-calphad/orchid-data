@@ -346,22 +346,22 @@ Table: Crystal structure, Al–Ca system
 | Lattice a | 8.892 Å | 0 | C15-Ca2Al; _alloy: Ca 0.666667_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 14; `ORC-5KV2GJVS7B` |  |
 | Lattice a | 9.278 Å | 0 | C15-Ca2Al; _alloy: Ca 0.666667_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 13; `ORC-OLPMF5ZDH4` |  |
 | Lattice a | 9.209 Å | 0 | C15-Ca2Al; _alloy: Ca 0.666667_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 15; `ORC-V55OYS6FGK` |  |
-| Lattice a | 3.216 Å |  | UNKNOWN; _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 11; `ORC-3KR4UP6QPF` |  |
-| Lattice a | 2.808 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 14; `ORC-4S4MPBBAHI.2a7825` |  |
-| Lattice a | 3.239 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 10; `ORC-74UW2KBODK` |  |
-| Lattice a | 3.969 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 3; `ORC-BPFOTKV6RX` |  |
-| Lattice a | 3.186 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 7; `ORC-CXS4VUX33Y` |  |
-| Lattice a | 4.0495 Å |  | UNKNOWN; _alloy: Ca 0_ | experimental | [1] Ozturk 2005; _cites Witt 1967_ [doi](https://doi.org/10.1515/zna-1967-0115) | Table I, p. 3, row 6; `ORC-FZUQMF3J33` |  |
-| Lattice a | 4.04 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 4; `ORC-KHWZMW7M5Y` |  |
-| Lattice a | 3.233 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 8; `ORC-LOYJ6ABXFI` |  |
-| Lattice a | 4.039 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 2; `ORC-ROADYVKMWH` |  |
-| Lattice a | 4.02 Å |  | UNKNOWN; _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 5; `ORC-RZVSDJ7RTQ` |  |
-| Lattice a | 2.852 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 15; `ORC-S4SZBJZPBH.2d23c4` |  |
-| Lattice a | 2.845 Å |  | UNKNOWN; _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 16; `ORC-SF455GJFKS.2a63bb` |  |
-| Lattice a | 3.183 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 9; `ORC-SJZHW3NEFL` |  |
-| Lattice a | 2.856 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 13; `ORC-TJ5WWSL4LL.0b388f` |  |
-| Lattice a | 2.817 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 12; `ORC-XYF6A3RPD5.b5d4ea` |  |
-| Lattice a | 3.981 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 1; `ORC-YI6SA5C6C2` |  |
+| Lattice a | 3.216 Å |  | bcc (A2); _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 11; `ORC-3KR4UP6QPF` |  |
+| Lattice a | 3.239 Å | 0 | bcc (A2); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 10; `ORC-74UW2KBODK` |  |
+| Lattice a | 3.186 Å | 0 | bcc (A2); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 7; `ORC-CXS4VUX33Y` |  |
+| Lattice a | 3.233 Å | 0 | bcc (A2); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 8; `ORC-LOYJ6ABXFI` |  |
+| Lattice a | 3.183 Å | 0 | bcc (A2); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 9; `ORC-SJZHW3NEFL` |  |
+| Lattice a | 3.969 Å | 0 | fcc (A1); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 3; `ORC-BPFOTKV6RX` |  |
+| Lattice a | 4.0495 Å |  | fcc (A1); _alloy: Ca 0_ | experimental | [1] Ozturk 2005; _cites Witt 1967_ [doi](https://doi.org/10.1515/zna-1967-0115) | Table I, p. 3, row 6; `ORC-FZUQMF3J33` |  |
+| Lattice a | 4.04 Å | 0 | fcc (A1); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 4; `ORC-KHWZMW7M5Y` |  |
+| Lattice a | 4.039 Å | 0 | fcc (A1); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 2; `ORC-ROADYVKMWH` |  |
+| Lattice a | 4.02 Å |  | fcc (A1); _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 5; `ORC-RZVSDJ7RTQ` |  |
+| Lattice a | 3.981 Å | 0 | fcc (A1); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 1; `ORC-YI6SA5C6C2` |  |
+| Lattice a | 2.808 Å | 0 | hcp (A3); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 14; `ORC-4S4MPBBAHI.2a7825` |  |
+| Lattice a | 2.852 Å | 0 | hcp (A3); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 15; `ORC-S4SZBJZPBH.2d23c4` |  |
+| Lattice a | 2.845 Å |  | hcp (A3); _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 16; `ORC-SF455GJFKS.2a63bb` |  |
+| Lattice a | 2.856 Å | 0 | hcp (A3); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 13; `ORC-TJ5WWSL4LL.0b388f` |  |
+| Lattice a | 2.817 Å | 0 | hcp (A3); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 12; `ORC-XYF6A3RPD5.b5d4ea` |  |
 | Lattice a | 15.146 Å | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 19; `ORC-FBH56XEPTV.12bcc3` |  |
 | Lattice a | 15.428 Å | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 20; `ORC-I5NQBK3E2P.87107e` |  |
 | Lattice a | 15.551 Å | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | experimental | [1] Ozturk 2005; _cites Huang 1998_ [doi](https://doi.org/10.1021/ic980656h) | Table III, p. 4, row 21; `ORC-OR6CQTNURI.50fc74` |  |
@@ -383,11 +383,11 @@ Table: Crystal structure, Al–Ca system
 | Lattice c | 11.2 Å | 0 | Al4Ca; _alloy: Ca 0.2_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 3; `ORC-EQJV2JSMB4.5cfea1` |  |
 | Lattice c | 11.121 Å | 0 | Al4Ca; _alloy: Ca 0.2_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 1; `ORC-PES6DZI5CN.42e3f4` |  |
 | Lattice c | 11.051 Å | 0 | Al4Ca; _alloy: Ca 0.2_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 2; `ORC-WOCBBEQOEI.338ca5` |  |
-| Lattice c | 4.663 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 14; `ORC-4S4MPBBAHI.047500` |  |
-| Lattice c | 4.752 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 15; `ORC-S4SZBJZPBH.57633c` |  |
-| Lattice c | 4.646 Å |  | UNKNOWN; _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 16; `ORC-SF455GJFKS.e5752a` |  |
-| Lattice c | 4.712 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 13; `ORC-TJ5WWSL4LL.5682f4` |  |
-| Lattice c | 4.647 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 12; `ORC-XYF6A3RPD5.e3d9e5` |  |
+| Lattice c | 4.663 Å | 0 | hcp (A3); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 14; `ORC-4S4MPBBAHI.047500` |  |
+| Lattice c | 4.752 Å | 0 | hcp (A3); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 15; `ORC-S4SZBJZPBH.57633c` |  |
+| Lattice c | 4.646 Å |  | hcp (A3); _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 16; `ORC-SF455GJFKS.e5752a` |  |
+| Lattice c | 4.712 Å | 0 | hcp (A3); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 13; `ORC-TJ5WWSL4LL.5682f4` |  |
+| Lattice c | 4.647 Å | 0 | hcp (A3); _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 12; `ORC-XYF6A3RPD5.e3d9e5` |  |
 | Lattice c | 9.572 Å | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 19; `ORC-FBH56XEPTV.fd4f58` |  |
 | Lattice c | 9.776 Å | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 20; `ORC-I5NQBK3E2P.f47013` |  |
 | Lattice c | 9.726 Å | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | experimental | [1] Ozturk 2005; _cites Huang 1998_ [doi](https://doi.org/10.1021/ic980656h) | Table III, p. 4, row 21; `ORC-OR6CQTNURI.e8455f` |  |

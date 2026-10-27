@@ -49,17 +49,17 @@ Table: Crystal structure, Nd–O–U system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 5.47 not_printed | 298.15 | FCC | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 8; `ORC-TPABATPOZV.3147d4` |  |
 | Lattice a | 5.458 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 13; `ORC-6QE547BW7C.6a9661` |  |
+| Lattice a | 5.458 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 6; `ORC-ANGFSDERBO` |  |
 | Lattice a | 5.465 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 9; `ORC-LPLNRIFGPQ.e99df8` |  |
+| Lattice a | 5.46 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 4; `ORC-Q5MAOD3IRA` |  |
 | Lattice a | 5.46 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 11; `ORC-SMSDULF2VI.8f786b` |  |
+| Lattice a | 5.465 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 2; `ORC-YRDVAYAVHX` |  |
+| Lattice a | 5.468 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 5; `ORC-22QLBTOWZS` |  |
 | Lattice a | 5.471 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 14; `ORC-2JICCZUD5C.8591be` |  |
 | Lattice a | 5.47 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 10; `ORC-KKKTYXICJD.cc73aa` |  |
+| Lattice a | 5.471 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 7; `ORC-OVNKNV4A6U` |  |
 | Lattice a | 5.468 not_printed | 298.15 | FCC 2 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 12; `ORC-Z55NPRZ6G5.4bef2c` |  |
-| Lattice a | 5.468 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 5; `ORC-22QLBTOWZS` |  |
 | Lattice a | 5.47 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 3; `ORC-6LKYG4AZKC` |  |
-| Lattice a | 5.458 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 6; `ORC-ANGFSDERBO` |  |
-| Lattice a | 5.471 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 7; `ORC-OVNKNV4A6U` |  |
-| Lattice a | 5.46 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 4; `ORC-Q5MAOD3IRA` |  |
-| Lattice a | 5.465 not_printed | 298.15 | UNKNOWN | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 2; `ORC-YRDVAYAVHX` |  |
 | lattice unspecified axis | 5.47 not_printed | 298.15 | FCC | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 8; `ORC-TPABATPOZV.f3e8e0` |  |
 | lattice unspecified axis | 5.458 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 13; `ORC-6QE547BW7C.8df3ad` |  |
 | lattice unspecified axis | 5.465 not_printed | 298.15 | FCC 1 | experimental | [1] Dottavio 2015 | Table 2, p. 4, row 9; `ORC-LPLNRIFGPQ.ac8357` |  |

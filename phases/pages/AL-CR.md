@@ -16,10 +16,10 @@ Table: Phases of the Al–Cr system (22)
 | [AL11CR4](#phase-al-cr-al11cr4); _phase:al-cr:al11cr4_ | Al11Mn4 · aP15 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1101.29 K, x(Cr) 0.24526–0.26667 | 5 | 2 |
 | [AL13CR2](#phase-al-cr-al13cr2); _phase:al-cr:al13cr2_ | Al45V7 · mC104 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1100.92 K, x(Cr) 0.13333–0.13333 | 4 | 5 |
 | [AL45CR7](#phase-al-cr-al45cr7); _phase:al-cr:al45cr7_ | Al45V7 · mC104 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1059.49 K, x(Cr) 0.13462–0.13462 | 9 | 1 |
-| [AL4CR](#phase-al-cr-al4cr); _phase:al-cr:al4cr_ |  | needs_review | stable in 11 of 11 calculated diagram(s): 300–1348.96 K, x(Cr) 0.18174–0.21646 | 63 | 12 |
+| [AL4CR](#phase-al-cr-al4cr); _phase:al-cr:al4cr_ |  | needs_review | stable in 11 of 11 calculated diagram(s): 300–1348.96 K, x(Cr) 0.18174–0.21646 | 64 | 12 |
 | [AL5CR](#phase-al-cr-al5cr); _phase:al-cr:al5cr_ | Al5Cr · mC732 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1214.35 K, x(Cr) 0.12656–0.16667 | 22 | 2 |
 | [AL7CR](#phase-al-cr-al7cr); _phase:al-cr:al7cr_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1108 K, x(Cr) 0.11098–0.13333 | 54 | 6 |
-| [AL8CR5](#phase-al-cr-al8cr5); _phase:al-cr:al8cr5_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1700.26 K, x(Cr) 0.29972–0.42506 | 3 | 2 |
+| [AL8CR5](#phase-al-cr-al8cr5); _phase:al-cr:al8cr5_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1700.26 K, x(Cr) 0.29972–0.42506 | 5 | 2 |
 | [AL8CR5_D810](#phase-al-cr-al8cr5-d810); _phase:al-cr:al8cr5-d810_ | Al8Cr5 · D8_10 · hR26 · R3m (160) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–1609.98 K, x(Cr) 0.29367–0.45159 | 49 | 9 |
 | [AL8CR5_D82](#phase-al-cr-al8cr5-d82); _phase:al-cr:al8cr5-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 1326.71–1597.04 K, x(Cr) 0.27868–0.41857 | 32 | 7 |
 | [AL8CR5_GAMMA](#phase-al-cr-al8cr5-gamma); _phase:al-cr:al8cr5-gamma_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1332.7–1510 K, x(Cr) 0.31984–0.40973 | 7 | 1 |
@@ -290,7 +290,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Al4Mn-mu · hP574 · P6_3/mmc — AlCr-13Hu.tdb: 'Prototype Al4Mn-mu (hP574, P6_3/mmc)'
 - Candidate (tdb_comment): Al4Mn-mu · hP574 · P6_3/mmc — AlCr-15Wit.tdb: 'Prototype Al4Mn-mu (hP574, P6_3/mmc)'
 - Stability: stable in 11 of 11 calculated diagram(s): 300–1348.96 K, x(Cr) 0.18174–0.21646
-- Literature: 63 values (62 accepted) from 7 papers
+- Literature: 64 values (63 accepted) from 7 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cr:al4cr)
 
 Names (20): _corpus: _corpus:phase:al-cr:al4cr  
@@ -553,7 +553,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Al8Cr5 · hR26 · R3m — AlCr-98Mur.tdb: 'Prototype Al8Cr5 (hR26, R3m), low T'
 - Candidate (tdb_comment): Cu5Zn8 · cI52 · I-43m — AlCr-98Mur.tdb: 'Prototype Cu5Zn8 (cI52, I-43m), high T'
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1700.26 K, x(Cr) 0.29972–0.42506
-- Literature: 3 values (3 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cr:al8cr5)
 
 Names (5): _corpus: _corpus:phase:al-cr:al8cr5  

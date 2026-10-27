@@ -1,10 +1,10 @@
 # Al–Pu system
 
-> Al–Pu system: 26 accepted literature values (heat capacity / entropy / enthalpy 19, formation 7) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Pu system: 38 accepted literature values (heat capacity / entropy / enthalpy 19, crystal structure 12, formation 7) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-PU.html · Markdown: https://data.orchid-project.org/systems/AL-PU.md
 
-26 accepted literature values from 1 paper(s) (DFT 26); 3 calculated phase diagram(s).
+38 accepted literature values from 1 paper(s) (DFT 38); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PU.json) · [CSV](https://data.orchid-project.org/systems/AL-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PU/AlPu-04Tur.json) · [phases (17)](https://data.orchid-project.org/phases/pages/AL-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-PU.html) · [Markdown](https://data.orchid-project.org/systems/AL-PU.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| DFT | 26 |
+| DFT | 38 |
 
 Table: Accepted values by property group
 
@@ -20,6 +20,7 @@ Table: Accepted values by property group
 |---|---:|
 | formation | 7 |
 | heat capacity / entropy / enthalpy | 19 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -161,6 +162,25 @@ Table: Heat capacity / entropy / enthalpy, Al–Pu system
 | sm contribution; _printed: S°298 (el.)_ | 4.8 J/mol (basis unstated)/K | 298.15 | PuAl3-6H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 7; `ORC-B5J3INFT6T.15d19a` |  |
 | sm contribution; _printed: S°298 (el.)_ | 5 J/mol (basis unstated)/K | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 8; `ORC-UWUMCL7YBH.0ee38f` |  |
 | sm contribution; _printed: S°298 (el.)_ | 6.5 J/mol (basis unstated)/K | 298.15 | PuAl4; _alloy: Pu 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 11; `ORC-Y4LLUDKLZK.02c620` |  |
+
+### Crystal structure (12)
+
+Table: Crystal structure, Al–Pu system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 7.831 Å | 298.15 | PuAl2; _alloy: Pu 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1962_ | Table 1, p. 2, row 3; `ORC-72JSO7NAY7.463dd0` |  |
+| Lattice a | 4.262 Å | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 6; `ORC-V5G2BUQYTS.13f81b` |  |
+| Lattice a | 6.15 Å | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 7; `ORC-TWSXPQI6KC.03d460` |  |
+| Lattice a | 4.42 Å | 298.15 | PuAl4; _alloy: Pu 0.2_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 2010_ | Table 1, p. 2, row 10; `ORC-WHXED7JVJ4.9133ae` |  |
+| Lattice b | 7.831 Å | 298.15 | PuAl2; _alloy: Pu 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1962_ | Table 1, p. 2, row 3; `ORC-72JSO7NAY7.1b0ac9` |  |
+| Lattice b | 4.262 Å | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 6; `ORC-V5G2BUQYTS.4ae8f9` |  |
+| Lattice b | 6.15 Å | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 7; `ORC-TWSXPQI6KC.8b3069` |  |
+| Lattice b | 6.26 Å | 298.15 | PuAl4; _alloy: Pu 0.2_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 2010_ | Table 1, p. 2, row 10; `ORC-WHXED7JVJ4.370463` |  |
+| Lattice c | 7.831 Å | 298.15 | PuAl2; _alloy: Pu 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1962_ | Table 1, p. 2, row 3; `ORC-72JSO7NAY7.f35510` |  |
+| Lattice c | 4.262 Å | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 6; `ORC-V5G2BUQYTS.3c823d` |  |
+| Lattice c | 21.1 Å | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1965_ [doi](https://doi.org/10.1016/0022-3115%2865%2990109-1) | Table 1, p. 2, row 7; `ORC-TWSXPQI6KC.0fa086` |  |
+| Lattice c | 13.66 Å | 298.15 | PuAl4; _alloy: Pu 0.2_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 2010_ | Table 1, p. 2, row 10; `ORC-WHXED7JVJ4.184b14` |  |
 
 ## Sources
 

@@ -125,9 +125,9 @@ Table: Crystal structure, La–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 55.442 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3; `ORC-CZLPQCEH7L.428457` |  |
-| lattice molar volume | 50.748 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3; `ORC-CZLPQCEH7L.5a2e7c` |  |
-| lattice molar volume | 49.627 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3; `ORC-CZLPQCEH7L.b76c59` |  |
+| lattice molar volume | 49.627 cm3 mol-1 | 298.15 | La2O3 (A-type); _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3; `ORC-CZLPQCEH7L.b76c59` |  |
+| lattice molar volume | 50.748 cm3 mol-1 | 298.15 | La2O3 (B-type); _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3; `ORC-CZLPQCEH7L.5a2e7c` |  |
+| lattice molar volume | 55.442 cm3 mol-1 | 298.15 | La2O3 (C-type); _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3; `ORC-CZLPQCEH7L.428457` |  |
 
 ## Sources
 

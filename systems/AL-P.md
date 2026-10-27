@@ -1,10 +1,10 @@
 # Al–P system
 
-> Al–P system: 51 accepted literature values (formation 25, invariant reaction 13, heat capacity / entropy / enthalpy 9, crystal structure 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–P system: 53 accepted literature values (formation 25, invariant reaction 13, heat capacity / entropy / enthalpy 11, crystal structure 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-P.html · Markdown: https://data.orchid-project.org/systems/AL-P.md
 
-51 accepted literature values from 3 paper(s) (experimental 16, model 34, unspecified 1); 5 calculated phase diagram(s).
+53 accepted literature values from 4 paper(s) (experimental 16, model 36, unspecified 1); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-P.json) · [CSV](https://data.orchid-project.org/systems/AL-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-P/AlP-01Luk-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-P.html) · [Markdown](https://data.orchid-project.org/systems/AL-P.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 16 |
-| model | 34 |
+| model | 36 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 13 |
 | formation | 25 |
-| heat capacity / entropy / enthalpy | 9 |
+| heat capacity / entropy / enthalpy | 11 |
 | crystal structure | 4 |
 
 ## Calculated phase diagrams
@@ -122,12 +122,13 @@ Table: Enthalpies of formation, Al–P system (25)
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (9)
+### Heat capacity / entropy / enthalpy (11)
 
 Table: Heat capacity / entropy / enthalpy, Al–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S°298_ | 175.32 J/mol-formula K | 298.15 | AlP | model | [4] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.48382f` |  |
 | Entropy; _printed: S°298(AlP)_ | 22.9 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 3, p. 3, row 5; `ORC-6W2764KCGG.953ef8` |  |
 | Entropy; _printed: S°298(AlP)_ | 25.2 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Terpilowski 1982_ | Table 3, p. 3, row 10; `ORC-6ZQYKQQ4YL` |  |
 | Entropy; _printed: S°298(AlP)_ | 28.7 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8; `ORC-7TTMWV5LU3.9596c3` |  |
@@ -137,6 +138,7 @@ Table: Heat capacity / entropy / enthalpy, Al–P system
 | Entropy; _printed: S°298(AlP)_ | 87.7 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Ansara 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990027-2) | Table 3, p. 3, row 7; `ORC-K2UELGMSEL.866ddb` |  |
 | Entropy; _printed: S°298(AlP)_ | 20.2 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013 | Table 3, p. 3, row 14; `ORC-QPXL563LZK.585996` |  |
 | Entropy; _printed: S°298(AlP)_ | 23.6 per mol-atom | 298.15 | AlP; _alloy: P 0.5_ | model | [1] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 3, p. 3, row 9; `ORC-T4A3VZGQC2.2d049e` |  |
+| Heat capacity; _printed: Cp,298_ | 49.15 J/mol (basis unstated)/K | 298.15 | AlP | model | [4] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.3fce97` |  |
 
 ### Crystal structure (4)
 
@@ -156,6 +158,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. Song-Mao Liang, Rainer Schmid-Fetzer, Thermodynamic assessment of the Al–P system based on original experimental data, Calphad 42, 76-85 (2013). [doi:10.1016/j.calphad.2013.07.001](https://doi.org/10.1016/j.calphad.2013.07.001)
 2. Jyrki Miettinen, Seppo Louhenkilpi, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P Systems. Part 9: Fe-Al-P, J. Phase Equilib. Diffus. 36, 317-326 (2015). [doi:10.1007/s11669-015-0383-5](https://doi.org/10.1007/s11669-015-0383-5)
 3. Hao Tu, Fucheng Yin, Xuping Su, Ya Liu, Xinming Wang, Experimental investigation and thermodynamic modeling of the Al–P–Zn ternary system, Calphad 33, 755-760 (2009). [doi:10.1016/j.calphad.2009.10.003](https://doi.org/10.1016/j.calphad.2009.10.003)
+4. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
 
 ## Please cite
 

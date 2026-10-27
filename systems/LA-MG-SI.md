@@ -1,10 +1,10 @@
 # La–Mg–Si system
 
-> La–Mg–Si system: 49 accepted literature values (crystal structure 25, invariant reaction 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Mg–Si system: 44 accepted literature values (invariant reaction 24, crystal structure 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-MG-SI.html · Markdown: https://data.orchid-project.org/systems/LA-MG-SI.md
 
-49 accepted literature values from 1 paper(s) (experimental 5, model 44); 0 calculated phase diagram(s).
+44 accepted literature values from 1 paper(s) (model 44); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MG-SI.json) · [CSV](https://data.orchid-project.org/systems/LA-MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MG-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/LA-MG-SI.md)
 
@@ -12,7 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
 | model | 44 |
 
 Table: Accepted values by property group
@@ -20,7 +19,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 24 |
-| crystal structure | 25 |
+| crystal structure | 20 |
 
 ## Invariant reactions (literature)
 
@@ -55,37 +54,32 @@ Table: Invariant reactions reported in the literature for the La–Mg–Si syste
 
 ## Other properties
 
-### Crystal structure (25)
+### Crystal structure (20)
 
 Table: Crystal structure, La–Mg–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.78102 not_printed ± 9.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15; `ORC-32RDPAWQR4.34e4f3` |  |
-| Lattice a | 0.7839 not_printed ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15; `ORC-32RDPAWQR4.84bbb3` |  |
-| Lattice a | 7.587 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 23; `ORC-6QXAJQ3DA3.51b9c8` |  |
-| Lattice a | 0.4265 not_printed ± 2.000e-4 | 298.15 | UNKNOWN; _alloy: Mg 0, Si 0.666667_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 6; `ORC-HTVYIAIZ6B.6cfecd` |  |
-| Lattice a | 7.517 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 21; `ORC-NBEA7QYLTJ.4f0090` |  |
-| Lattice a | 7.498 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 20; `ORC-PBUVGKXWKX.464827` |  |
-| Lattice a | 0.80369 not_printed ± 8.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14; `ORC-PRAYX6MRN4.3b1041` |  |
-| Lattice a | 0.8053 not_printed ± 3.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14; `ORC-PRAYX6MRN4.475988` |  |
-| Lattice a | 1.46569 not_printed ± 9.000e-5 | 298.15 | UNKNOWN; _alloy: Mg 0.766667, Si 0.033333_ | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 18; `ORC-RW32VDJXQD` |  |
-| Lattice a | 0.4251 not_printed ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Mg 0, Si 0.666667_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 5; `ORC-S4H37PDLBG.795cf0` |  |
-| Lattice a | 0.88 not_printed ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 19; `ORC-TF7I5EOJAW` |  |
-| Lattice a | 0.43048 not_printed ± 2.000e-5 | 298.15 | UNKNOWN; _alloy: Mg 0.4, Si 0.4_ | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 17; `ORC-TONY4EG2DE.a86d44` |  |
-| Lattice a | 7.561 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 22; `ORC-Z3XFY4DBSK.16c4fa` |  |
-| Lattice b | 0.4155 not_printed ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Mg 0, Si 0.666667_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 5; `ORC-S4H37PDLBG.7ba21a` |  |
-| Lattice c | 0.44433 not_printed ± 6.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15; `ORC-32RDPAWQR4.316352` |  |
-| Lattice c | 0.44396 not_printed ± 4.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15; `ORC-32RDPAWQR4.8ace4e` |  |
-| Lattice c | 4.4543 Å ± 6.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 23; `ORC-6QXAJQ3DA3.e7408c` |  |
-| Lattice c | 1.3922 not_printed ± 6.000e-4 | 298.15 | UNKNOWN; _alloy: Mg 0, Si 0.666667_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 6; `ORC-HTVYIAIZ6B.1bd40b` |  |
-| Lattice c | 4.462 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 21; `ORC-NBEA7QYLTJ.0429bb` |  |
-| Lattice c | 4.465 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 20; `ORC-PBUVGKXWKX.3f50cb` |  |
-| Lattice c | 1.543 not_printed ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14; `ORC-PRAYX6MRN4.361c7f` |  |
-| Lattice c | 1.5372 not_printed ± 3.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14; `ORC-PRAYX6MRN4.92753d` |  |
-| Lattice c | 1.4076 not_printed ± 5.000e-4 | 298.15 | UNKNOWN; _alloy: Mg 0, Si 0.666667_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 5; `ORC-S4H37PDLBG.5cdc91` |  |
-| Lattice c | 0.58188 not_printed ± 5.000e-5 | 298.15 | UNKNOWN; _alloy: Mg 0.4, Si 0.4_ | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 17; `ORC-TONY4EG2DE.7f4968` |  |
-| Lattice c | 4.457 Å ± 0.007 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 22; `ORC-Z3XFY4DBSK.1c4512` |  |
+| Lattice a | 0.78102 not_printed ± 9.000e-5 | 298.15 | (La1-xMgx)3Si2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15; `ORC-32RDPAWQR4.34e4f3` |  |
+| Lattice a | 0.7839 not_printed ± 1.000e-4 | 298.15 | (La1-xMgx)3Si2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15; `ORC-32RDPAWQR4.84bbb3` |  |
+| Lattice a | 0.80369 not_printed ± 8.000e-5 | 298.15 | (La1-xMgx)5Si4 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14; `ORC-PRAYX6MRN4.3b1041` |  |
+| Lattice a | 0.8053 not_printed ± 3.000e-4 | 298.15 | (La1-xMgx)5Si4 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14; `ORC-PRAYX6MRN4.475988` |  |
+| Lattice a | 7.587 Å ± 0.001 | 298.15 | τ1-Mg1-xLa2+xSi2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 23; `ORC-6QXAJQ3DA3.51b9c8` |  |
+| Lattice a | 7.517 Å ± 0.001 | 298.15 | τ1-Mg1-xLa2+xSi2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 21; `ORC-NBEA7QYLTJ.4f0090` |  |
+| Lattice a | 7.498 Å ± 0.001 | 298.15 | τ1-Mg1-xLa2+xSi2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 20; `ORC-PBUVGKXWKX.464827` |  |
+| Lattice a | 7.561 Å ± 0.001 | 298.15 | τ1-Mg1-xLa2+xSi2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 22; `ORC-Z3XFY4DBSK.16c4fa` |  |
+| Lattice a | 0.43048 not_printed ± 2.000e-5 | 298.15 | τ2-Mg2LaSi2; _alloy: Mg 0.4, Si 0.4_ | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 17; `ORC-TONY4EG2DE.a86d44` |  |
+| Lattice a | 1.46569 not_printed ± 9.000e-5 | 298.15 | τ4-Mg23La6Si; _alloy: Mg 0.766667, Si 0.033333_ | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 18; `ORC-RW32VDJXQD` |  |
+| Lattice a | 0.88 not_printed ± 1.000e-4 | 298.15 | τ5-(La,Si)Mg2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 19; `ORC-TF7I5EOJAW` |  |
+| Lattice c | 0.44433 not_printed ± 6.000e-5 | 298.15 | (La1-xMgx)3Si2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15; `ORC-32RDPAWQR4.316352` |  |
+| Lattice c | 0.44396 not_printed ± 4.000e-5 | 298.15 | (La1-xMgx)3Si2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15; `ORC-32RDPAWQR4.8ace4e` |  |
+| Lattice c | 1.543 not_printed ± 0.001 | 298.15 | (La1-xMgx)5Si4 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14; `ORC-PRAYX6MRN4.361c7f` |  |
+| Lattice c | 1.5372 not_printed ± 3.000e-4 | 298.15 | (La1-xMgx)5Si4 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 14; `ORC-PRAYX6MRN4.92753d` |  |
+| Lattice c | 4.4543 Å ± 6.000e-4 | 298.15 | τ1-Mg1-xLa2+xSi2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 23; `ORC-6QXAJQ3DA3.e7408c` |  |
+| Lattice c | 4.462 Å ± 0.001 | 298.15 | τ1-Mg1-xLa2+xSi2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 21; `ORC-NBEA7QYLTJ.0429bb` |  |
+| Lattice c | 4.465 Å ± 0.001 | 298.15 | τ1-Mg1-xLa2+xSi2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 20; `ORC-PBUVGKXWKX.3f50cb` |  |
+| Lattice c | 4.457 Å ± 0.007 | 298.15 | τ1-Mg1-xLa2+xSi2 | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 22; `ORC-Z3XFY4DBSK.1c4512` |  |
+| Lattice c | 0.58188 not_printed ± 5.000e-5 | 298.15 | τ2-Mg2LaSi2; _alloy: Mg 0.4, Si 0.4_ | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 17; `ORC-TONY4EG2DE.7f4968` |  |
 
 ## Sources
 

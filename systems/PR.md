@@ -43,8 +43,8 @@ Table: Crystal structure, Pr system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 4.13 Å |  | (β Pr); _alloy: Pr 1_ | experimental | [2] Peng 2011; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 13; `ORC-23BXM67U66` |  |
 | Lattice a | 3.67 Å | 298.15 | (α Pr); _alloy: Pr 1_ | experimental | [2] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12; `ORC-FS7MOC24IL.95714a` |  |
-| Lattice a | 4.13 Å | 298.15 | UNKNOWN; _alloy: Pr 1_ | unspecified | [3] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 7; `ORC-NX57FOIEHI` |  |
 | Lattice a | 3.6721 Å | 298.15 | αPr; _αPr: Pr 1_ | unspecified | [3] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8; `ORC-2AXYGHCQXN.e4aea4` |  |
+| Lattice a | 4.13 Å | 298.15 | βPr; _alloy: Pr 1_ | unspecified | [3] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 7; `ORC-NX57FOIEHI` |  |
 | Lattice a | 4.13 Å | 298.15 | βPra; _βPra: Pr 1_ | unspecified | [3] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 15; `ORC-HBQCN63HJU` |  |
 | Lattice b | 11.8326 Å | 298.15 | αPr; _αPr: Pr 1_ | unspecified | [3] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8; `ORC-2AXYGHCQXN.9edbc3` |  |
 | Lattice c | 11.83 Å | 298.15 | (α Pr); _alloy: Pr 1_ | experimental | [2] Peng 2011; _cites Smirnov 1974_ | Table 1, p. 2, row 12; `ORC-FS7MOC24IL.e4f35f` |  |

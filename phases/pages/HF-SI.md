@@ -19,7 +19,7 @@ Table: Phases of the Hf–Si system (11)
 | [HF2SI_C16](#phase-hf-si-hf2si-c16); _phase:hf-si:hf2si-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2365.31 K, x(Si) 0.33333–0.33333 | 15 | 3 |
 | [HF3SI2_D5A](#phase-hf-si-hf3si2-d5a); _phase:hf-si:hf3si2-d5a_ | Si2U3 · D5_a · tP10 · P4/mbm (127) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2752.96 K, x(Si) 0.4–0.4 | 16 | 3 |
 | [HF5SI3_D88](#phase-hf-si-hf5si3-d88); _phase:hf-si:hf5si3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1816.93–2740.16 K, x(Si) 0.375–0.375 | 13 | 3 |
-| [HF5SI4](#phase-hf-si-hf5si4); _phase:hf-si:hf5si4_ | Si4Zr5 · tP36 · P4_12_12 (92) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–2595.12 K, x(Si) 0.44444–0.44444 | 8 | 3 |
+| [HF5SI4](#phase-hf-si-hf5si4); _phase:hf-si:hf5si4_ | Si4Zr5 · tP36 · P4_12_12 (92) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–2595.12 K, x(Si) 0.44444–0.44444 | 10 | 3 |
 | [HFSI_B27](#phase-hf-si-hfsi-b27); _phase:hf-si:hfsi-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2416.93 K, x(Si) 0.5–0.5 | 8 | 3 |
 | [HFSI2_C49](#phase-hf-si-hfsi2-c49); _phase:hf-si:hfsi2-c49_ | ZrSi2 · C49 · oC12 · Cmcm (63) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1818.85 K, x(Si) 0.66667–0.66667 | 8 | 3 |
 | [LIQUID](#phase-hf-si-liquid); _phase:hf-si:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1597.92–4000 K, x(Si) 0–1 | 33 | 3 |
@@ -356,7 +356,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Hf 0.5556, Si 0.4444
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2595.12 K, x(Si) 0.44444–0.44444
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-si:hf5si4)
 
 Names (6): _corpus: _corpus:phase:hf-si:hf5si4  
@@ -389,9 +389,9 @@ _tdb: _tdb:HfSi-00Zha-LB.tdb:HF5SI4, tdb:HfSi-03Yan.tdb:HF5SI4, tdb:HfSi-19Hon.t
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/S0966-9795(03)00021-9](https://doi.org/10.1016/S0966-9795%2803%2900021-9) Y. Yang, Y.A. Chang, J.-C. Zhao, B.P. Bewlay, Intermetallics, 11, 407-15(2003).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1361/105497100770340408](https://doi.org/10.1361/105497100770340408) J. -C. Zhao, B. P. Bewlay, M. R. Jackson, Q. Chen, Hf-Si binary phase diagram determination and thermodynamic modeling, JPE 21, 40-45 (2000).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S0966-9795(03)00021-9](https://doi.org/10.1016/S0966-9795%2803%2900021-9) Y. Yang, Y.A. Chang, J.-C. Zhao, B.P. Bewlay, Intermetallics, 11, 407-15(2003).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.actamat.2018.11.007](https://doi.org/10.1016/j.actamat.2018.11.007) P. Honarmandi, T.C. Duong, S.F. Ghoreishi, D. Allaire, R. Arroyave, Acta Mater., 164, 636-47(2019).  
 _assessment that models this phase_

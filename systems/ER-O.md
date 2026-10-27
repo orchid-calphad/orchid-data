@@ -83,9 +83,9 @@ Table: Crystal structure, Er–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 40.677 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14; `ORC-FY5YQWB4ZI.7a3cc4` |  |
-| lattice molar volume | 39.799 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14; `ORC-FY5YQWB4ZI.b8b89f` |  |
-| lattice molar volume | 44.163 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14; `ORC-FY5YQWB4ZI.d69be7` |  |
+| lattice molar volume | 39.799 cm3 mol-1 | 298.15 | Er2O3 (A-type); _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14; `ORC-FY5YQWB4ZI.b8b89f` |  |
+| lattice molar volume | 40.677 cm3 mol-1 | 298.15 | Er2O3 (B-type); _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14; `ORC-FY5YQWB4ZI.7a3cc4` |  |
+| lattice molar volume | 44.163 cm3 mol-1 | 298.15 | Er2O3 (C-type); _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14; `ORC-FY5YQWB4ZI.d69be7` |  |
 
 ### Other property (5)
 

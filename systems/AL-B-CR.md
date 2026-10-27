@@ -1,42 +1,47 @@
-# Ce–Dy–Er–Eu–Gd–Ho–La–Lu–Nd–O–Pm–Pr–Sc–Sm–Tb–Tm–Y–Yb system
+# Al–B–Cr system
 
-> Ce–Dy–Er–Eu–Gd–Ho–La–Lu–Nd–O–Pm–Pr–Sc–Sm–Tb–Tm–Y–Yb system: 3 accepted literature values (crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–B–Cr system: 8 accepted literature values (crystal structure 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
-HTML: https://data.orchid-project.org/systems/CE-DY-ER-EU-GD-HO-LA-LU-ND-O-PM-PR-SC-SM-TB-TM-Y-YB.html · Markdown: https://data.orchid-project.org/systems/CE-DY-ER-EU-GD-HO-LA-LU-ND-O-PM-PR-SC-SM-TB-TM-Y-YB.md
+HTML: https://data.orchid-project.org/systems/AL-B-CR.html · Markdown: https://data.orchid-project.org/systems/AL-B-CR.md
 
-3 accepted literature values from 1 paper(s) (model 3); 0 calculated phase diagram(s).
+8 accepted literature values from 1 paper(s) (experimental 8); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CE-DY-ER-EU-GD-HO-LA-LU-ND-O-PM-PR-SC-SM-TB-TM-Y-YB.json) · [CSV](https://data.orchid-project.org/systems/CE-DY-ER-EU-GD-HO-LA-LU-ND-O-PM-PR-SC-SM-TB-TM-Y-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-DY-ER-EU-GD-HO-LA-LU-ND-O-PM-PR-SC-SM-TB-TM-Y-YB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-DY-ER-EU-GD-HO-LA-LU-ND-O-PM-PR-SC-SM-TB-TM-Y-YB.html) · [Markdown](https://data.orchid-project.org/systems/CE-DY-ER-EU-GD-HO-LA-LU-ND-O-PM-PR-SC-SM-TB-TM-Y-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-B-CR.json) · [CSV](https://data.orchid-project.org/systems/AL-B-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-B-CR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-B-CR.html) · [Markdown](https://data.orchid-project.org/systems/AL-B-CR.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 3 |
+| experimental | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 3 |
+| crystal structure | 8 |
 
 ## Other properties
 
-### Crystal structure (3)
+### Crystal structure (8)
 
-Table: Crystal structure, Ce–Dy–Er–Eu–Gd–Ho–La–Lu–Nd–O–Pm–Pr–Sc–Sm–Tb–Tm–Y–Yb system
+Table: Crystal structure, Al–B–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 47.842 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0, Er 0, Eu 0, Gd 0, Ho 0, La 0, Lu 0, Nd 0, O 0.6, Pm 0, Pr 0, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 4; `ORC-IXCB5BHGGE.21f0f2` |  |
-| lattice molar volume | 48.985 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0, Er 0, Eu 0, Gd 0, Ho 0, La 0, Lu 0, Nd 0, O 0.6, Pm 0, Pr 0, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 4; `ORC-IXCB5BHGGE.88ef67` |  |
-| lattice molar volume | 53.637 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0, Er 0, Eu 0, Gd 0, Ho 0, La 0, Lu 0, Nd 0, O 0.6, Pm 0, Pr 0, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 4; `ORC-IXCB5BHGGE.a3373e` |  |
+| Lattice a | 2.937 Å | 298.15 | Cr2B2Al; _alloy: B 0.4, Cr 0.4_ | experimental | [1] Campbell 2002; _cites ref. 22_ | Table 1, p. 2, row 13; `ORC-4GOZSIZC7M.5ac855` |  |
+| Lattice a | 2.98 Å | 298.15 | Cr3B4Al; _alloy: B 0.5, Cr 0.375_ | experimental | [1] Campbell 2002; _cites ref. 22_ | Table 1, p. 2, row 14; `ORC-TOU3OHPUAS.7f4897` |  |
+| Lattice a | 2.992 Å | 298.15 | Cr3B7Al; _alloy: B 0.636364, Cr 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 22_ | Table 1, p. 2, row 15; `ORC-V33TF5JTXK.8877db` |  |
+| Lattice b | 11.07 Å | 298.15 | Cr2B2Al; _alloy: B 0.4, Cr 0.4_ | experimental | [1] Campbell 2002; _cites ref. 22_ | Table 1, p. 2, row 13; `ORC-4GOZSIZC7M.fc4a6e` |  |
+| Lattice b | 8.01 Å | 298.15 | Cr3B4Al; _alloy: B 0.5, Cr 0.375_ | experimental | [1] Campbell 2002; _cites ref. 22_ | Table 1, p. 2, row 14; `ORC-TOU3OHPUAS.4b48e1` |  |
+| Lattice c | 2.971 Å | 298.15 | Cr2B2Al; _alloy: B 0.4, Cr 0.4_ | experimental | [1] Campbell 2002; _cites ref. 22_ | Table 1, p. 2, row 13; `ORC-4GOZSIZC7M.90a2a6` |  |
+| Lattice c | 2.96 Å | 298.15 | Cr3B4Al; _alloy: B 0.5, Cr 0.375_ | experimental | [1] Campbell 2002; _cites ref. 22_ | Table 1, p. 2, row 14; `ORC-TOU3OHPUAS.9a3a80` |  |
+| Lattice c | 3.106 Å | 298.15 | Cr3B7Al; _alloy: B 0.636364, Cr 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 22_ | Table 1, p. 2, row 15; `ORC-V33TF5JTXK.6aa4e2` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. M ZINKEVICH, Thermodynamics of rare earth sesquioxides, Progress in Materials Science 52, 597-647 (2007). [doi:10.1016/j.pmatsci.2006.09.002](https://doi.org/10.1016/j.pmatsci.2006.09.002)
+1. C.E. Campbell, U.R. Kattner, Assessment of the Cr-B system and extrapolation to the Ni-Al-Cr-B quaternary system, Calphad 26, 477-490 (2002). [doi:10.1016/s0364-5916(02)00058-5](https://doi.org/10.1016/s0364-5916%2802%2900058-5)
 
 ## Please cite
 

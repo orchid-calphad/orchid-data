@@ -1,10 +1,10 @@
 # In–Sb system
 
-> In–Sb system: 5 accepted literature values (formation 4, phase transition 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Sb system: 7 accepted literature values (formation 4, heat capacity / entropy / enthalpy 2, phase transition 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-SB.html · Markdown: https://data.orchid-project.org/systems/IN-SB.md
 
-5 accepted literature values from 2 paper(s) (experimental 3, model 2); 5 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+7 accepted literature values from 3 paper(s) (experimental 3, model 4); 5 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SB.json) · [CSV](https://data.orchid-project.org/systems/IN-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SB/InSb-03Liu.json) · [phases (7)](https://data.orchid-project.org/phases/pages/IN-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-SB.html) · [Markdown](https://data.orchid-project.org/systems/IN-SB.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 3 |
-| model | 2 |
+| model | 4 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 1 |
 | formation | 4 |
+| heat capacity / entropy / enthalpy | 2 |
 
 ## Calculated phase diagrams
 
@@ -87,12 +88,22 @@ Table: Phase transition, In–Sb system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 798.15 K | 798.15 | congruent transformation: InSb -> liquid | experimental | [2] Gierlotka 2019 | p. 3; `ORC-YIEATHEBMQ.d6b161` | “The InSb is involved in reactions: the first invariant reaction is the congruent melting reaction of InSb, at 525 °C.” |
 
+### Heat capacity / entropy / enthalpy (2)
+
+Table: Heat capacity / entropy / enthalpy, In–Sb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S°298_ | 85.26 J/mol-formula K | 298.15 | InSb | model | [3] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.0c5b1e` |  |
+| Heat capacity; _printed: Cp,298_ | 49.54 J/mol (basis unstated)/K | 298.15 | InSb | model | [3] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.17b573` |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Zhanmin Cao, Wei Xie, Kunpeng Wang, Guangwei Du, Zhiyu Qiao, Thermodynamic Assessment of the In-Ni-Sb System and Predictions for Thermally Stable Contacts to InSb, Journal of Elec Materi 42, 2615-2629 (2013). [doi:10.1007/s11664-013-2599-7](https://doi.org/10.1007/s11664-013-2599-7)
 2. Wojciech Gierlotka, Sinn-wen Chen, Ssu-ming Tseng, Po-han Lin, Co-In-Sb Ternary System (II): Isoplethal Section and Thermodynamic Modeling, Metall Mater Trans A 50, 3891-3902 (2019). [doi:10.1007/s11661-019-05288-9](https://doi.org/10.1007/s11661-019-05288-9)
+3. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Al–Np system
 
-> Al–Np system: 18 accepted literature values (heat capacity / entropy / enthalpy 12, formation 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Np system: 27 accepted literature values (heat capacity / entropy / enthalpy 12, crystal structure 9, formation 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NP.html · Markdown: https://data.orchid-project.org/systems/AL-NP.md
 
-18 accepted literature values from 1 paper(s) (DFT 18); 1 calculated phase diagram(s).
+27 accepted literature values from 1 paper(s) (DFT 27); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NP.json) · [CSV](https://data.orchid-project.org/systems/AL-NP.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NP) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-NP/AlNp-10Sed.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-NP.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NP.html) · [Markdown](https://data.orchid-project.org/systems/AL-NP.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| DFT | 18 |
+| DFT | 27 |
 
 Table: Accepted values by property group
 
@@ -20,6 +20,7 @@ Table: Accepted values by property group
 |---|---:|
 | formation | 6 |
 | heat capacity / entropy / enthalpy | 12 |
+| crystal structure | 9 |
 
 ## Calculated phase diagrams
 
@@ -87,6 +88,22 @@ Table: Heat capacity / entropy / enthalpy, Al–Np system
 | sm contribution; _printed: S°298 (el.)_ | 2.6 J/mol (basis unstated)/K | 298.15 | NpAl3; _alloy: Np 0.25_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 5; `ORC-MQPU74X72L.b02fa5` |  |
 | sm contribution; _printed: S°298 (ph.)_ | 152.1 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.a9231d` |  |
 | sm contribution; _printed: S°298 (el.)_ | 3.4 J/mol (basis unstated)/K | 298.15 | NpAl4; _alloy: Np 0.2_ | DFT | [1] Sedmidubský 2010 | Table 2, p. 3, row 10; `ORC-UCH5KWJ6UG.d47891` |  |
+
+### Crystal structure (9)
+
+Table: Crystal structure, Al–Np system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 7.785 Å | 298.15 | NpAl2; _alloy: Np 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 2; `ORC-KKDB6SSKIZ.4e4ec9` |  |
+| Lattice a | 4.26 Å | 298.15 | NpAl3; _alloy: Np 0.25_ | DFT | [1] Sedmidubský 2010; _cites Mitchell 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990035-x) | Table 1, p. 2, row 5; `ORC-Y4IPYOKVTQ.052594` |  |
+| Lattice a | 4.42 Å | 298.15 | NpAl4; _alloy: Np 0.2_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 9; `ORC-HE33UGZGDO.113d8b` |  |
+| Lattice b | 7.785 Å | 298.15 | NpAl2; _alloy: Np 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 2; `ORC-KKDB6SSKIZ.1336a3` |  |
+| Lattice b | 4.26 Å | 298.15 | NpAl3; _alloy: Np 0.25_ | DFT | [1] Sedmidubský 2010; _cites Mitchell 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990035-x) | Table 1, p. 2, row 5; `ORC-Y4IPYOKVTQ.410483` |  |
+| Lattice b | 6.26 Å | 298.15 | NpAl4; _alloy: Np 0.2_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 9; `ORC-HE33UGZGDO.05e853` |  |
+| Lattice c | 7.785 Å | 298.15 | NpAl2; _alloy: Np 0.333333_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 2; `ORC-KKDB6SSKIZ.9eed59` |  |
+| Lattice c | 4.26 Å | 298.15 | NpAl3; _alloy: Np 0.25_ | DFT | [1] Sedmidubský 2010; _cites Mitchell 1974_ [doi](https://doi.org/10.1016/0022-3115%2874%2990035-x) | Table 1, p. 2, row 5; `ORC-Y4IPYOKVTQ.09c83b` |  |
+| Lattice c | 13.71 Å | 298.15 | NpAl4; _alloy: Np 0.2_ | DFT | [1] Sedmidubský 2010; _cites Runnalls 1953_ | Table 1, p. 2, row 9; `ORC-HE33UGZGDO.2ad016` |  |
 
 ## Sources
 

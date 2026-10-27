@@ -17,7 +17,7 @@ Table: Phases of the N–Si system (8)
 | [ION](#phase-n-si-ion); _phase:n-si:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1687–1974.95 K, x(N) 0–0.46 | 0 | 1 |
 | [LIQUID](#phase-n-si-liquid); _phase:n-si:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1686.94–2500 K, x(N) 0–0.00388 | 8 | 3 |
 | [N2GAS](#phase-n-si-n2gas); _phase:n-si:n2gas_ | gas | gas | stable in 3 of 3 calculated diagram(s): 300–1725 K, x(N) 1–1 | 0 | 3 |
-| [SI3N4](#phase-n-si-si3n4); _phase:n-si:si3n4_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2153.21 K, x(N) 0.57143–0.57143 | 8 | 2 |
+| [SI3N4](#phase-n-si-si3n4); _phase:n-si:si3n4_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2153.21 K, x(N) 0.57143–0.57143 | 9 | 2 |
 | [SI3N4_A](#phase-n-si-si3n4-a); _phase:n-si:si3n4-a_ | Si3N4-alpha · hP28 · P31c (159) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [SI3N4_B](#phase-n-si-si3n4-b); _phase:n-si:si3n4-b_ | Si3N4-beta · hP14 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2213.83 K, x(N) 0.57143–0.57143 | 0 | 1 |
 
@@ -254,7 +254,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): Si3N4; alpha: · hP28 · p31c — SiN-92Hil.tdb: 'Prototype Si3N4; alpha: (hP28, p31c), beta: (hP14, P6_3)'
 - Stoichiometry: N 0.5714, Si 0.4286
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2153.21 K, x(N) 0.57143–0.57143
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-si:si3n4)
 
 Names (4): _corpus: _corpus:phase:n-si:si3n4  

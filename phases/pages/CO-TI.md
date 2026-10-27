@@ -16,7 +16,7 @@ Table: Phases of the Co–Ti system (9)
 | [B2_BCC](#phase-co-ti-bcc-b2); _phase:co-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.95 K, x(Ti) 0.41482–1 | 50 | 6 |
 | [C15_LAVES](#phase-co-ti-c15-laves); _phase:co-ti:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1524.39 K, x(Ti) 0.31983–0.34062 | 33 | 6 |
 | [C36_LAVES](#phase-co-ti-c36-laves); _phase:co-ti:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1550 K, x(Ti) 0.28715–0.3333 | 36 | 6 |
-| [COTI2](#phase-co-ti-coti2); _phase:co-ti:coti2_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1340 K, x(Ti) 0.66667–0.66667 | 48 | 6 |
+| [COTI2](#phase-co-ti-coti2); _phase:co-ti:coti2_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1340 K, x(Ti) 0.66667–0.66667 | 49 | 6 |
 | [FCC_A1](#phase-co-ti-fcc-a1); _phase:co-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 593.41–1885.95 K, x(Ti) 0–0.15423 | 37 | 12 |
 | [L12_FCC](#phase-co-ti-fcc-l12); _phase:co-ti:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1885.95 K, x(Ti) 0–0.25 | 55 | 6 |
 | [HCP_A3](#phase-co-ti-hcp-a3); _phase:co-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1163.96 K, x(Ti) 0–1 | 18 | 6 |
@@ -398,7 +398,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Co 0.3333, Ti 0.6667
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1340 K, x(Ti) 0.66667–0.66667
-- Literature: 48 values (48 accepted) from 5 papers
+- Literature: 49 values (49 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:coti2)
 
 Names (13): _corpus: _corpus:phase:co-ti:coti2  

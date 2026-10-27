@@ -417,14 +417,14 @@
   "LATTICE_LENGTH": {
    "basis": "calibrated",
    "ci95": [
-    0.005703,
-    0.012842
+    0.00508,
+    0.012707
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
-   "floor": 0.0082,
-   "n_pairs": 169,
-   "n_states": 85,
-   "sigma_robust": 0.008107
+   "floor": 0.0077,
+   "n_pairs": 173,
+   "n_states": 88,
+   "sigma_robust": 0.007665
   },
   "SM_FORM": {
    "basis": "calibrated",
@@ -1156,33 +1156,33 @@
     "unknown": {
      "basis": "calibrated",
      "ci95": [
-      0.002026,
-      0.002664
+      0.001793,
+      0.002549
      ],
      "class": "unknown",
-     "floor": 0.0023,
+     "floor": 0.0022,
      "floor_at_minimum": false,
-     "median_abs_diff": 0.002192,
-     "n_pairs": 597,
-     "n_states": 196,
-     "sigma_robust": 0.002277,
-     "sigma_robust_unweighted": 0.002298,
+     "median_abs_diff": 0.002106,
+     "n_pairs": 586,
+     "n_states": 192,
+     "sigma_robust": 0.002196,
+     "sigma_robust_unweighted": 0.002208,
      "text": "method not printed"
     },
     "xrd": {
      "basis": "calibrated",
      "ci95": [
-      0.000866,
-      0.0022
+      0.000794,
+      0.001872
      ],
      "class": "xrd",
-     "floor": 0.0013,
+     "floor": 0.0012,
      "floor_at_minimum": false,
-     "median_abs_diff": 0.001151,
-     "n_pairs": 23,
+     "median_abs_diff": 0.001091,
+     "n_pairs": 26,
      "n_states": 21,
-     "sigma_robust": 0.001206,
-     "sigma_robust_unweighted": 0.001206,
+     "sigma_robust": 0.001144,
+     "sigma_robust_unweighted": 0.001144,
      "text": "X-ray / neutron diffraction"
     }
    },
@@ -1190,12 +1190,12 @@
    "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
    "minimum_floor": 0.0002,
    "pooled_all_classes": {
-    "n_pairs": 669,
-    "sigma_robust": 0.002209
+    "n_pairs": 666,
+    "sigma_robust": 0.002151
    },
    "relisted_values_counted_once": 59,
    "rounding_step": 0.0001,
-   "states_with_two_or_more_sources": 234
+   "states_with_two_or_more_sources": 229
   },
   "SM_FORM": {
    "basis_error_pairs_excluded": 0,

@@ -55,18 +55,18 @@ Table: Crystal structure, Ti–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.252 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 3; `ORC-7N2ST4T2MQ.014bd6` |  |
-| Lattice a | 3.259 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 3; `ORC-7N2ST4T2MQ.218c4c` |  |
-| Lattice a | 4.115 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 4; `ORC-QHAVP7W2SP.2c513d` |  |
-| Lattice a | 4.109 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 4; `ORC-QHAVP7W2SP.5e0e21` |  |
-| Lattice a | 2.939 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.0f3a6e` |  |
-| Lattice a | 2.933 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.3de565` |  |
-| Lattice a | 4.577 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.602a6e` |  |
-| Lattice a | 4.572 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.fbaef0` |  |
-| Lattice c | 4.641 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.7dcc0a` |  |
-| Lattice c | 4.657 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.d0303d` |  |
-| Lattice c | 2.828 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.5344b3` |  |
-| Lattice c | 2.829 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.b57911` |  |
+| Lattice a | 3.252 Å |  | bcc; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 3; `ORC-7N2ST4T2MQ.014bd6` |  |
+| Lattice a | 3.259 Å |  | bcc; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 3; `ORC-7N2ST4T2MQ.218c4c` |  |
+| Lattice a | 4.115 Å |  | fcc; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 4; `ORC-QHAVP7W2SP.2c513d` |  |
+| Lattice a | 4.109 Å |  | fcc; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 4; `ORC-QHAVP7W2SP.5e0e21` |  |
+| Lattice a | 2.939 Å |  | hcp; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.0f3a6e` |  |
+| Lattice a | 2.933 Å |  | hcp; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.3de565` |  |
+| Lattice a | 4.577 Å |  | ω; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.602a6e` |  |
+| Lattice a | 4.572 Å |  | ω; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.fbaef0` |  |
+| Lattice c | 4.641 Å |  | hcp; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.7dcc0a` |  |
+| Lattice c | 4.657 Å |  | hcp; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 1; `ORC-SYZ6GS4H6N.d0303d` |  |
+| Lattice c | 2.828 Å |  | ω; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.5344b3` |  |
+| Lattice c | 2.829 Å |  | ω; _alloy: V 0_ | DFT | [2] Hu 2020 | Table 9, p. 9, row 2; `ORC-VHTELAZM4X.b57911` |  |
 
 ## Sources
 

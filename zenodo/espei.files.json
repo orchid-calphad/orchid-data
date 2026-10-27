@@ -16,7 +16,7 @@
  ],
  "exclude": [],
  "n_files": 8622,
- "total_bytes": 73548621,
+ "total_bytes": 73548624,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -105,8 +105,8 @@
   },
   {
    "path": "espei/VALIDATION.md",
-   "bytes": 66874,
-   "sha256": "42028de558d5a28234fb9237636c668f7c28e5f71aeb3cf439d07f0632f3d882"
+   "bytes": 66875,
+   "sha256": "acd83993afef4fac23cc926549af65795268576eeea31094f614322b06f51652"
   },
   {
    "path": "espei/assessed/AG-AL/AgAl-04Wit.AG-AL-p46.json",
@@ -10806,12 +10806,12 @@
   {
    "path": "espei/dft/CALIBRATION.json",
    "bytes": 277162,
-   "sha256": "443acc940c641789c88a9062d683a17688abfd65a138a35c879d545059cf4c21"
+   "sha256": "e3ee7676899b08767e3d921f967c49e179e1855bb32b68668f8592bbcb6fc813"
   },
   {
    "path": "espei/dft/CALIBRATION.md",
    "bytes": 11264,
-   "sha256": "8fa22d93da6810b647e28a0456a62c9ca9d8b4902b9fd976b84bed5d40bbf9e1"
+   "sha256": "5e3c44a448233d0a7f812f4e11626249904e79a854652fa2fdf2a17d92737143"
   },
   {
    "path": "espei/dft/literature/AG-DY/AgDy-10Lon.AG2DY_C11B.json",
@@ -28710,13 +28710,13 @@
   },
   {
    "path": "espei/experimental/CALIBRATION_EXPERIMENT.json",
-   "bytes": 58235,
-   "sha256": "fa6cb356667422a5e275f64519aa2c47933da0f6e01f3b357c1ae14bcaad671a"
+   "bytes": 58236,
+   "sha256": "1822df56c2246d44bcb6be99db3d890b7e875d6496e0d68214c17993bd9bb74d"
   },
   {
    "path": "espei/experimental/CALIBRATION_EXPERIMENT.md",
-   "bytes": 26898,
-   "sha256": "4a29ac3cfed2954b52c20a3501c31a6f5077a9a5852d3a8ea492f9c786c9c323"
+   "bytes": 26899,
+   "sha256": "3a1af6256594a710347907874229a514cd5ac2dea2b1227e7221b42c9efefe60"
   },
   {
    "path": "espei/experimental/CD-GD/CdGd-24Azz.hmr-00.json",

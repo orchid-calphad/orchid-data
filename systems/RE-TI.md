@@ -63,13 +63,13 @@ Table: Crystal structure, Re–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 9.68 Å |  | UNKNOWN | DFT | [1] Zacherl 2012; _cites Wu 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.01.007) | Table 1, p. 4, row 11; `ORC-23XEKJS27U` |  |
-| Lattice a | 3.121 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012; _cites Wu 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.01.007) | Table 1, p. 4, row 14; `ORC-BHXDP5DNHN` |  |
-| Lattice a | 9.632 Å |  | UNKNOWN | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 10; `ORC-F55UYWXLEC` |  |
-| Lattice a | 3.11 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 13; `ORC-TNKGEHKCXY` |  |
-| Lattice a | 5.26 Å |  | UNKNOWN; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 16; `ORC-YB3OSP2O3O` |  |
-| Lattice a | 3.118 Å | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | experimental | [1] Zacherl 2012; _cites Dwight 1969_ | Table 1, p. 4, row 15; `ORC-62TL4GRSSM` |  |
-| Lattice a | 9.609 Å | 298.15 | UNKNOWN | experimental | [1] Zacherl 2012; _cites Trzebiatowski 1955_ | Table 1, p. 4, row 12; `ORC-YKSICXOHQN` |  |
+| Lattice a | 9.68 Å |  | Re24Ti5 | DFT | [1] Zacherl 2012; _cites Wu 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.01.007) | Table 1, p. 4, row 11; `ORC-23XEKJS27U` |  |
+| Lattice a | 9.632 Å |  | Re24Ti5 | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 10; `ORC-F55UYWXLEC` |  |
+| Lattice a | 3.121 Å |  | ReTi-B2; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012; _cites Wu 2007_ [doi](https://doi.org/10.1016/j.intermet.2007.01.007) | Table 1, p. 4, row 14; `ORC-BHXDP5DNHN` |  |
+| Lattice a | 3.11 Å |  | ReTi-B2; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 13; `ORC-TNKGEHKCXY` |  |
+| Lattice a | 5.26 Å |  | ReTi-MoTi; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 1, p. 4, row 16; `ORC-YB3OSP2O3O` |  |
+| Lattice a | 9.609 Å | 298.15 | Re24Ti5 | experimental | [1] Zacherl 2012; _cites Trzebiatowski 1955_ | Table 1, p. 4, row 12; `ORC-YKSICXOHQN` |  |
+| Lattice a | 3.118 Å | 298.15 | ReTi-B2; _alloy: Ti 0.5_ | experimental | [1] Zacherl 2012; _cites Dwight 1969_ | Table 1, p. 4, row 15; `ORC-62TL4GRSSM` |  |
 | Molar volume; _printed: V0_ | 15.04 Å3/atom | 0 | B2–ReTi; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 9; `ORC-R6VVBHCL2C` |  |
 | Molar volume; _printed: V0_ | 15.21 Å3/atom | 0 | MoTi–ReTi; _alloy: Ti 0.5_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 10; `ORC-D5F575SYI5` |  |
 | Molar volume; _printed: V0_ | 15.43 Å3/atom | 0 | χ-Re24Ti5; _alloy: Ti 0.172414_ | DFT | [1] Zacherl 2012 | Table 2, p. 4, row 8; `ORC-2Q2E32HWDT` |  |

@@ -1,10 +1,10 @@
 # H–La system
 
-> H–La system: 4 accepted literature values (heat capacity / entropy / enthalpy 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–La system: 8 accepted literature values (heat capacity / entropy / enthalpy 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-LA.html · Markdown: https://data.orchid-project.org/systems/H-LA.md
 
-4 accepted literature values from 1 paper(s) (experimental 2, model 2); 0 calculated phase diagram(s).
+8 accepted literature values from 1 paper(s) (experimental 4, model 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-LA.json) · [CSV](https://data.orchid-project.org/systems/H-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LA) · [phases (6)](https://data.orchid-project.org/phases/pages/H-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-LA.html) · [Markdown](https://data.orchid-project.org/systems/H-LA.md)
 
@@ -12,29 +12,33 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 2 |
+| experimental | 4 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| heat capacity / entropy / enthalpy | 4 |
+| heat capacity / entropy / enthalpy | 8 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/H/H-LA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/H/H-LA.json)
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (4)
+### Heat capacity / entropy / enthalpy (8)
 
 Table: Heat capacity / entropy / enthalpy, H–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Entropy of formation_ | 45 J/mol-atom/K | 298.15 | LaH2; _alloy: La 0.333333_ | experimental | [1] Palumbo 2009; _cites Bieganski 1971_ | Table 1, p. 2, row 4; `ORC-7I5G2TFZFJ.67b5ad` |  |
 | Entropy; _printed: Entropy of formation_ | 45 unknown | 298.15 | LaH2; _alloy: La 0.333333_ | experimental | [1] Palumbo 2009; _cites Bieganski 1971_ | Table 1, p. 2, row 4; `ORC-7I5G2TFZFJ.903950` |  |
 | Entropy; _printed: Entropy of formation_ | 44.1 unknown | 298.15 | LaH2; _alloy: La 0.333333_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 3; `ORC-WRJGTS357I.1b51a1` |  |
+| Entropy; _printed: Entropy of formation_ | 44.1 J/mol-atom/K | 298.15 | LaH2; _alloy: La 0.333333_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 3; `ORC-WRJGTS357I.de6aef` |  |
 | Entropy; _printed: Entropy of formation_ | 49.3 unknown | 298.15 | LaH3; _alloy: La 0.25_ | experimental | [1] Palumbo 2009; _cites Ito 1983_ [doi](https://doi.org/10.1103/physrevb.27.2830) | Table 1, p. 2, row 6; `ORC-XZPL4NP7EK.37b638` |  |
+| Entropy; _printed: Entropy of formation_ | 49.3 J/mol-atom/K | 298.15 | LaH3; _alloy: La 0.25_ | experimental | [1] Palumbo 2009; _cites Ito 1983_ [doi](https://doi.org/10.1103/physrevb.27.2830) | Table 1, p. 2, row 6; `ORC-XZPL4NP7EK.48f74c` |  |
 | Entropy; _printed: Entropy of formation_ | 49.3 unknown | 298.15 | LaH3; _alloy: La 0.25_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 5; `ORC-Y35WWA7QIC.e7cfb9` |  |
+| Entropy; _printed: Entropy of formation_ | 49.3 J/mol-atom/K | 298.15 | LaH3; _alloy: La 0.25_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 5; `ORC-Y35WWA7QIC.ff90ca` |  |
 
 ## Sources
 

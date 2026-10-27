@@ -1,10 +1,10 @@
 # Al–U system
 
-> Al–U system: 48 accepted literature values (invariant reaction 20, crystal structure 12, heat capacity / entropy / enthalpy 11, formation 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–U system: 57 accepted literature values (crystal structure 21, invariant reaction 20, heat capacity / entropy / enthalpy 11, formation 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-U.html · Markdown: https://data.orchid-project.org/systems/AL-U.md
 
-48 accepted literature values from 3 paper(s) (experimental 15, model 17, DFT 16); 3 calculated phase diagram(s).
+57 accepted literature values from 3 paper(s) (experimental 15, model 17, DFT 25); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-U.json) · [CSV](https://data.orchid-project.org/systems/AL-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-U/AlU-08Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AL-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-U.html) · [Markdown](https://data.orchid-project.org/systems/AL-U.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 15 |
 | model | 17 |
-| DFT | 16 |
+| DFT | 25 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 20 |
 | formation | 5 |
 | heat capacity / entropy / enthalpy | 11 |
-| crystal structure | 12 |
+| crystal structure | 21 |
 
 ## Calculated phase diagrams
 
@@ -143,7 +143,7 @@ Table: Heat capacity / entropy / enthalpy, Al–U system
 | sm contribution; _printed: S°298 (el.)_ | 4.4 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 4; `ORC-OZIZ5AB43L.aa8542` |  |
 | sm contribution; _printed: S°298 (el.)_ | 5.7 J/mol (basis unstated)/K | 298.15 | UAl4; _alloy: U 0.2_ | DFT | [2] Sedmidubský 2010 | Table 2, p. 3, row 9; `ORC-Q4GJG6AOOD.22d1ca` |  |
 
-### Crystal structure (12)
+### Crystal structure (21)
 
 Table: Crystal structure, Al–U system
 
@@ -153,14 +153,23 @@ Table: Crystal structure, Al–U system
 | Lattice a | 4.266 Å |  | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.ff4814` |  |
 | Lattice a | 4.401 Å |  | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.2ad603` |  |
 | Lattice a | 2.854 Å |  | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.f2cd2b` |  |
+| Lattice a | 7.76 Å | 298.15 | UAl2; _alloy: U 0.333333_ | DFT | [2] Sedmidubský 2010; _cites Katz 1962_ [doi](https://doi.org/10.1016/0022-3115%2862%2990074-0) | Table 1, p. 2, row 1; `ORC-XYZXCX57VM.162a5a` |  |
+| Lattice a | 4.253 Å | 298.15 | UAl3; _alloy: U 0.25_ | DFT | [2] Sedmidubský 2010; _cites Petzow 1968_ [doi](https://doi.org/10.1016/0022-3115%2868%2990134-7) | Table 1, p. 2, row 4; `ORC-LVG7M6ZH2C.1c03c2` |  |
+| Lattice a | 4.401 Å | 298.15 | UAl4; _alloy: U 0.2_ | DFT | [2] Sedmidubský 2010; _cites Zenou 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901675-9) | Table 1, p. 2, row 8; `ORC-MM2NNOL3R5.0c933e` |  |
 | Lattice b | 7.776 Å |  | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.1927f6` |  |
 | Lattice b | 4.266 Å |  | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.9313a5` |  |
 | Lattice b | 6.255 Å |  | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.aa2feb` |  |
 | Lattice b | 5.867 Å |  | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.3fa83f` |  |
+| Lattice b | 7.76 Å | 298.15 | UAl2; _alloy: U 0.333333_ | DFT | [2] Sedmidubský 2010; _cites Katz 1962_ [doi](https://doi.org/10.1016/0022-3115%2862%2990074-0) | Table 1, p. 2, row 1; `ORC-XYZXCX57VM.768a5b` |  |
+| Lattice b | 4.253 Å | 298.15 | UAl3; _alloy: U 0.25_ | DFT | [2] Sedmidubský 2010; _cites Petzow 1968_ [doi](https://doi.org/10.1016/0022-3115%2868%2990134-7) | Table 1, p. 2, row 4; `ORC-LVG7M6ZH2C.e9a27d` |  |
+| Lattice b | 6.246 Å | 298.15 | UAl4; _alloy: U 0.2_ | DFT | [2] Sedmidubský 2010; _cites Zenou 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901675-9) | Table 1, p. 2, row 8; `ORC-MM2NNOL3R5.7cd4a2` |  |
 | Lattice c | 7.776 Å |  | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.6f6b74` |  |
 | Lattice c | 4.266 Å |  | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.64ddd4` |  |
 | Lattice c | 13.727 Å |  | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.a626a5` |  |
 | Lattice c | 4.954 Å |  | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.8ee429` |  |
+| Lattice c | 7.76 Å | 298.15 | UAl2; _alloy: U 0.333333_ | DFT | [2] Sedmidubský 2010; _cites Katz 1962_ [doi](https://doi.org/10.1016/0022-3115%2862%2990074-0) | Table 1, p. 2, row 1; `ORC-XYZXCX57VM.fcc328` |  |
+| Lattice c | 4.253 Å | 298.15 | UAl3; _alloy: U 0.25_ | DFT | [2] Sedmidubský 2010; _cites Petzow 1968_ [doi](https://doi.org/10.1016/0022-3115%2868%2990134-7) | Table 1, p. 2, row 4; `ORC-LVG7M6ZH2C.015348` |  |
+| Lattice c | 13.72 Å | 298.15 | UAl4; _alloy: U 0.2_ | DFT | [2] Sedmidubský 2010; _cites Zenou 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901675-9) | Table 1, p. 2, row 8; `ORC-MM2NNOL3R5.0dd0ec` |  |
 
 ## Sources
 

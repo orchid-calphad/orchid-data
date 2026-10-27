@@ -28,10 +28,10 @@ Table: Crystal structure, Cr–Fe–Re–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.7995 Å | 298.15 | UNKNOWN | unspecified | [1] Ostrowska 2020 | Table 1, p. 2, row 4; `ORC-FSU6PRE63N.f8243e` |  |
 | Lattice a | 8.7995 Å | 298.15 | σ | unspecified | [1] Ostrowska 2020; _cites Bergman 1951_ [doi](https://doi.org/10.1063/1.1748278) | Table 1, p. 2, row 10; `ORC-2XKGIPECBF.eaea1b` |  |
-| Lattice c | 4.5442 Å | 298.15 | UNKNOWN | unspecified | [1] Ostrowska 2020 | Table 1, p. 2, row 4; `ORC-FSU6PRE63N.2fefdc` |  |
+| Lattice a | 8.7995 Å | 298.15 | σ | unspecified | [1] Ostrowska 2020 | Table 1, p. 2, row 4; `ORC-FSU6PRE63N.f8243e` |  |
 | Lattice c | 4.5442 Å | 298.15 | σ | unspecified | [1] Ostrowska 2020; _cites Bergman 1951_ [doi](https://doi.org/10.1063/1.1748278) | Table 1, p. 2, row 10; `ORC-2XKGIPECBF.c0ac78` |  |
+| Lattice c | 4.5442 Å | 298.15 | σ | unspecified | [1] Ostrowska 2020 | Table 1, p. 2, row 4; `ORC-FSU6PRE63N.2fefdc` |  |
 
 ## Sources
 

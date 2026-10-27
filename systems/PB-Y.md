@@ -230,12 +230,12 @@ Table: Crystal structure, Pb–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.814 Å | 1013.15 (\<) | UNKNOWN; _alloy: Y 0.25_ | experimental | [1] Vasslliev 1993; _cites Yu 1964_ | Table 1, p. 1, row 7; `ORC-LXRCD7B7ZO` |  |
-| Lattice a | 7.994 Å | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5; `ORC-N7ZWUHZMAY.2e6418` |  |
-| Lattice a | 8.971 Å | 2033.15 (\<) | UNKNOWN; _alloy: Y 0.625_ | experimental | [1] Vasslliev 1993; _cites Jeitschkoand 1965_ | Table 1, p. 1, row 4; `ORC-USSOCM3A56.f57df6` |  |
-| Lattice b | 15.1 Å | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5; `ORC-N7ZWUHZMAY.ea84cf` |  |
-| Lattice c | 8.241 Å | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5; `ORC-N7ZWUHZMAY.05480d` |  |
-| Lattice c | 6.614 Å | 2033.15 (\<) | UNKNOWN; _alloy: Y 0.625_ | experimental | [1] Vasslliev 1993; _cites Jeitschkoand 1965_ | Table 1, p. 1, row 4; `ORC-USSOCM3A56.01074b` |  |
+| Lattice a | 4.814 Å | 1013.15 (\<) | YPb3; _alloy: Y 0.25_ | experimental | [1] Vasslliev 1993; _cites Yu 1964_ | Table 1, p. 1, row 7; `ORC-LXRCD7B7ZO` |  |
+| Lattice a | 7.994 Å | 1923.15 (\<) | Y5Pb4; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5; `ORC-N7ZWUHZMAY.2e6418` |  |
+| Lattice a | 8.971 Å | 2033.15 (\<) | Y5Pb3; _alloy: Y 0.625_ | experimental | [1] Vasslliev 1993; _cites Jeitschkoand 1965_ | Table 1, p. 1, row 4; `ORC-USSOCM3A56.f57df6` |  |
+| Lattice b | 15.1 Å | 1923.15 (\<) | Y5Pb4; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5; `ORC-N7ZWUHZMAY.ea84cf` |  |
+| Lattice c | 8.241 Å | 1923.15 (\<) | Y5Pb4; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5; `ORC-N7ZWUHZMAY.05480d` |  |
+| Lattice c | 6.614 Å | 2033.15 (\<) | Y5Pb3; _alloy: Y 0.625_ | experimental | [1] Vasslliev 1993; _cites Jeitschkoand 1965_ | Table 1, p. 1, row 4; `ORC-USSOCM3A56.01074b` |  |
 
 ## Sources
 

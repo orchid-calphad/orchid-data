@@ -49,15 +49,15 @@ Table: Crystal structure, C–Hf–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.647 Å | 298.15 | UNKNOWN; _alloy: Hf 0.274725, Zr 0.274725_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 4; `ORC-ABGOYDTRDS.949cce` |  |
-| Lattice a | 4.668 Å | 298.15 | UNKNOWN; _alloy: Hf 0.26738, Zr 0.26738_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 5; `ORC-CROCIW6V3J.929ffb` |  |
-| Lattice a | 4.652 Å | 298.15 | UNKNOWN; _alloy: Hf 0.408163, Zr 0.102041_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 3; `ORC-GICM5F7HFK.24646e` |  |
-| Lattice a | 4.684 Å | 298.15 | UNKNOWN; _alloy: Hf 0.10989, Zr 0.43956_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 7; `ORC-LBAHNSUMZO.6b6e8c` |  |
-| Lattice a | 4.651 Å | 298.15 | UNKNOWN; _alloy: Hf 0.427807, Zr 0.106952_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 2; `ORC-LDI6KCCMTS.6bc2bf` |  |
-| Lattice a | 4.67 Å | 298.15 | UNKNOWN; _alloy: Hf 0.255102, Zr 0.255102_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 6; `ORC-S46N4VCYTL.4c64bb` |  |
-| Lattice a | 4.689 Å | 298.15 | UNKNOWN; _alloy: Hf 0.106952, Zr 0.427807_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 8; `ORC-TIG6P6XRTJ.4fb15b` |  |
-| Lattice a | 4.691 Å | 298.15 | UNKNOWN; _alloy: Hf 0.102041, Zr 0.408163_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 9; `ORC-VOPGPN4EBC.9172ef` |  |
-| Lattice a | 4.647 Å | 298.15 | UNKNOWN; _alloy: Hf 0.43956, Zr 0.10989_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 1; `ORC-XI3KUE75OX.0bd1e4` |  |
+| Lattice a | 4.647 Å | 298.15 | (HfyZr1-y)C1-x; _alloy: Hf 0.274725, Zr 0.274725_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 4; `ORC-ABGOYDTRDS.949cce` |  |
+| Lattice a | 4.668 Å | 298.15 | (HfyZr1-y)C1-x; _alloy: Hf 0.26738, Zr 0.26738_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 5; `ORC-CROCIW6V3J.929ffb` |  |
+| Lattice a | 4.652 Å | 298.15 | (HfyZr1-y)C1-x; _alloy: Hf 0.408163, Zr 0.102041_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 3; `ORC-GICM5F7HFK.24646e` |  |
+| Lattice a | 4.684 Å | 298.15 | (HfyZr1-y)C1-x; _alloy: Hf 0.10989, Zr 0.43956_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 7; `ORC-LBAHNSUMZO.6b6e8c` |  |
+| Lattice a | 4.651 Å | 298.15 | (HfyZr1-y)C1-x; _alloy: Hf 0.427807, Zr 0.106952_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 2; `ORC-LDI6KCCMTS.6bc2bf` |  |
+| Lattice a | 4.67 Å | 298.15 | (HfyZr1-y)C1-x; _alloy: Hf 0.255102, Zr 0.255102_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 6; `ORC-S46N4VCYTL.4c64bb` |  |
+| Lattice a | 4.689 Å | 298.15 | (HfyZr1-y)C1-x; _alloy: Hf 0.106952, Zr 0.427807_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 8; `ORC-TIG6P6XRTJ.4fb15b` |  |
+| Lattice a | 4.691 Å | 298.15 | (HfyZr1-y)C1-x; _alloy: Hf 0.102041, Zr 0.408163_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 9; `ORC-VOPGPN4EBC.9172ef` |  |
+| Lattice a | 4.647 Å | 298.15 | (HfyZr1-y)C1-x; _alloy: Hf 0.43956, Zr 0.10989_ | unspecified | [1] Bittermann 2002; _cites Bittermann 2002_ | Table 1, p. 5, row 1; `ORC-XI3KUE75OX.0bd1e4` |  |
 | Lattice a | 3.231 Å | 298.15 | α(HfxZr1-x); _α(HfxZr1-x): Hf 0.052_ | experimental | [1] Bittermann 2002; _cites Ming 1981_ [doi](https://doi.org/10.1063/1.329760) | Table 1, p. 4, row 4; `ORC-3IGNYESDET.201269` |  |
 | Lattice a | 3.209 Å | 298.15 | α(HfxZr1-x); _α(HfxZr1-x): Hf 0.429_ | experimental | [1] Bittermann 2002; _cites Ming 1981_ [doi](https://doi.org/10.1063/1.329760) | Table 1, p. 4, row 6; `ORC-4KHKIMJEFV.bf371f` |  |
 | Lattice a | 3.202 Å | 298.15 | α(HfxZr1-x); _α(HfxZr1-x): Hf 0.713_ | experimental | [1] Bittermann 2002; _cites Ming 1981_ [doi](https://doi.org/10.1063/1.329760) | Table 1, p. 4, row 7; `ORC-DSPZ3CGHO7.87c0bb` |  |

@@ -162,16 +162,16 @@ Table: Crystal structure, Ti system
 | Lattice a; _printed: a_ | 4.083 Å | 0 | Fcc; _alloy: Ti 1_ | DFT | [8] Shang 2007 | Table 2, p. 2, row 25; `ORC-6K5KZGPJIH` |  |
 | Lattice a; _printed: a_ | 2.92 Å | 0 | Hcp; _alloy: Ti 1_ | DFT | [8] Shang 2007 | Table 2, p. 2, row 30; `ORC-6OWGUNL36K` |  |
 | Lattice a | 2.9239 Å |  | NM HCP Ti; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 1, p. 3, row 6; `ORC-KDL5HJYT7P.23be00` |  |
+| Lattice a | 2.9239 Å |  | NM HCP Ti; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 1, p. 3, row 10; `ORC-TSEWEND2CL.97dc60` |  |
 | Lattice a | 3.236 Å |  | Ti; _alloy: Ti 1_ | DFT | [12] Zacherl 2012 | Table 1, p. 4, row 4; `ORC-3O27BKYQLK` |  |
 | Lattice a | 3.241 Å |  | Ti; _alloy: Ti 1_ | DFT | [12] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 6; `ORC-FEIGQKCNJH` |  |
 | Lattice a | 2.921 Å |  | Ti; _alloy: Ti 1_ | DFT | [12] Zacherl 2012 | Table 1, p. 4, row 7; `ORC-LUMOX5IKLW.de8980` |  |
 | Lattice a | 2.929 Å |  | Ti; _alloy: Ti 1_ | DFT | [12] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 9; `ORC-YKVBKSR2LW.fd868a` |  |
+| Lattice a | 5.1722 Å |  | Ti2Ti (C14); _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 21; `ORC-4W7AHVJHIL.8c578d` |  |
 | Lattice a | 5.1722 Å | 0 | Ti2Ti (C14); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 54; `ORC-GJOMUOEL6H.13ef41` |  |
 | Lattice a | 7.4963 Å | 0 | Ti2Ti (C15); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 55; `ORC-4BFO7UK57J.210d3b` |  |
 | Lattice a | 5.069 Å | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.3be9d4` |  |
-| Lattice a | 5.1722 Å |  | UNKNOWN; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 21; `ORC-4W7AHVJHIL.8c578d` |  |
-| Lattice a | 2.9239 Å |  | UNKNOWN; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 1, p. 3, row 10; `ORC-TSEWEND2CL.97dc60` |  |
-| Lattice a | 5.069 Å |  | UNKNOWN; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 28; `ORC-Z3ZSJ75KAY.c1d29f` |  |
+| Lattice a | 5.069 Å |  | Ti2Ti (C36); _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 28; `ORC-Z3ZSJ75KAY.c1d29f` |  |
 | Lattice a | 0.29503 not_printed |  | hcp-Ti; _alloy: Ti 1_ | model | [6] Mattern 2014; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 2, p. 5, row 9; `ORC-OCPZYDWFDZ.9e1174` |  |
 | Lattice a | 2.9504 Å | 298.15 | NM HCP Ti; _alloy: Ti 1_ | experimental | [11] Pavlů 2010; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-XYDM2RAX3B.6495f5` |  |
 | Lattice a | 2.95 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [12] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 8; `ORC-74EL5PRYOJ.b232cd` |  |
@@ -197,13 +197,13 @@ Table: Crystal structure, Ti system
 | Lattice c | 4.551 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [10] Gierlotka 2023 | Table 3, p. 3, row 1; `ORC-J5M7J7QERG.5f2c5f` |  |
 | Lattice c | 4.72 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [10] Gierlotka 2023 | Table 3, p. 3, row 5; `ORC-UWREDJW6XS.d778e7` |  |
 | Lattice c | 4.6249 Å |  | NM HCP Ti; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 1, p. 3, row 6; `ORC-KDL5HJYT7P.f0328f` |  |
+| Lattice c | 4.6249 Å |  | NM HCP Ti; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 1, p. 3, row 10; `ORC-TSEWEND2CL.e3f8e5` |  |
 | Lattice c | 4.632 Å |  | Ti; _alloy: Ti 1_ | DFT | [12] Zacherl 2012 | Table 1, p. 4, row 7; `ORC-LUMOX5IKLW.e5e008` |  |
 | Lattice c | 4.631 Å |  | Ti; _alloy: Ti 1_ | DFT | [12] Zacherl 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 9; `ORC-YKVBKSR2LW.22ddc5` |  |
+| Lattice c | 8.9465 Å |  | Ti2Ti (C14); _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 21; `ORC-4W7AHVJHIL.1d57ea` |  |
 | Lattice c | 8.9465 Å | 0 | Ti2Ti (C14); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 54; `ORC-GJOMUOEL6H.3ea4cf` |  |
 | Lattice c | 18.8228 Å | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.6634d3` |  |
-| Lattice c | 8.9465 Å |  | UNKNOWN; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 21; `ORC-4W7AHVJHIL.1d57ea` |  |
-| Lattice c | 4.6249 Å |  | UNKNOWN; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 1, p. 3, row 10; `ORC-TSEWEND2CL.e3f8e5` |  |
-| Lattice c | 18.8228 Å |  | UNKNOWN; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 28; `ORC-Z3ZSJ75KAY.8f09e3` |  |
+| Lattice c | 18.8228 Å |  | Ti2Ti (C36); _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 2, p. 3, row 28; `ORC-Z3ZSJ75KAY.8f09e3` |  |
 | Lattice c | 0.4681 not_printed |  | hcp-Ti; _alloy: Ti 1_ | model | [6] Mattern 2014; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 2, p. 5, row 9; `ORC-OCPZYDWFDZ.90d6a7` |  |
 | Lattice c | 4.681 Å | 298.15 | NM HCP Ti; _alloy: Ti 1_ | experimental | [11] Pavlů 2010; _cites Villars 1991_ | Table 1, p. 3, row 5; `ORC-XYDM2RAX3B.eb0b53` |  |
 | Lattice c | 4.68 Å | 298.15 | Ti; _alloy: Ti 1_ | experimental | [12] Zacherl 2012; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 4, row 8; `ORC-74EL5PRYOJ.a6e7d4` |  |
@@ -225,11 +225,11 @@ Table: Crystal structure, Ti system
 | lattice 6h x | 0.163 not_printed | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.cf860b` |  |
 | lattice 6h y | 0.6527 not_printed | 0 | Ti2Ti (C14); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 54; `ORC-GJOMUOEL6H.6b2cab` |  |
 | lattice 6h y | 0.3259 not_printed | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.9bee8a` |  |
-| lattice c a | 1.5818 not_printed |  | UNKNOWN; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 1, p. 3, row 10; `ORC-TSEWEND2CL.98cf3f` |  |
+| lattice c a | 1.5818 not_printed |  | NM HCP Ti; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 1, p. 3, row 10; `ORC-TSEWEND2CL.98cf3f` |  |
+| lattice v atom | 1.71204 10^7 pm^3 |  | NM HCP Ti; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 1, p. 3, row 10; `ORC-TSEWEND2CL.e16a07` |  |
 | lattice v atom | 1.72722 10^7 pm^3 | 0 | Ti2Ti (C14); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 54; `ORC-GJOMUOEL6H.005703` |  |
 | lattice v atom | 1.7552 10^7 pm^3 | 0 | Ti2Ti (C15); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 55; `ORC-4BFO7UK57J.17a03c` |  |
 | lattice v atom | 1.74524 10^7 pm^3 | 0 | Ti2Ti (C36); _alloy: Ti 1_ | DFT | [11] Pavlů 2010 | Table 2, p. 3, row 61; `ORC-FFYFDDJWXP.92f2d1` |  |
-| lattice v atom | 1.71204 10^7 pm^3 |  | UNKNOWN; _alloy: Ti 1_ | unspecified | [11] Pavlů 2010 | Table 1, p. 3, row 10; `ORC-TSEWEND2CL.e16a07` |  |
 
 ## Sources
 

@@ -55,21 +55,21 @@ Table: Crystal structure, Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 6.027 Å | 0 | (αSr); _alloy: Sr 1_ | DFT | [3] Li 2013 | Table 1, p. 2, row 9; `ORC-NQIJXF4SO6` |  |
+| Lattice a | 4.745 Å | 0 | (βSr); _alloy: Sr 1_ | DFT | [3] Li 2013 | Table 1, p. 2, row 11; `ORC-L6FGRFDWTW` |  |
 | Lattice a; _printed: a_ | 7.814 Å | 0 | Sr2Sr-C14; _alloy: Sr 1_ | unspecified | [2] Zhong 2006 | Table 2, p. 4, row 21; `ORC-Y36R4BP6LS.769570` |  |
-| Lattice a | 4.745 Å | 0 | UNKNOWN; _alloy: Sr 1_ | DFT | [3] Li 2013 | Table 1, p. 2, row 11; `ORC-L6FGRFDWTW` |  |
-| Lattice a | 6.027 Å | 0 | UNKNOWN; _alloy: Sr 1_ | DFT | [3] Li 2013 | Table 1, p. 2, row 9; `ORC-NQIJXF4SO6` |  |
 | Lattice a; _printed: a (=b=c)_ | 5.996 Å | 0 | fcc-Sr; _alloy: Sr 1_ | unspecified | [2] Zhong 2006 | Table 2, p. 4, row 23; `ORC-KZM2BXSYZE.ab157e` |  |
 | Lattice a | 6.084 Å | 273.5 | fcc (αSr); _fcc (αSr): _ | unspecified | [4] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 3; `ORC-26VKSVNYGV` |  |
 | Lattice a | 6.023 Å | 298.15 | (αSr); _alloy: Sr 1_ | unspecified | [5] Wang 2014 | Table 1, p. 2, row 4; `ORC-2GGDVSH3QM` |  |
 | Lattice a | 6.076 Å | 298.15 | (αSr); _alloy: Sr 1_ | unspecified | [5] Wang 2014 | Table 1, p. 2, row 3; `ORC-7552A6G3HS` |  |
+| Lattice a | 6.082 Å | 298.15 | (αSr); _alloy: Sr 1_ | experimental | [3] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 8; `ORC-75JN34S2BB` |  |
+| Lattice a | 4.84 Å | 298.15 | (βSr); _alloy: Sr 1_ | experimental | [3] Li 2013; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 1, p. 2, row 10; `ORC-DUBGCTFS72` |  |
 | Lattice a | 4.87 Å | 298.15 | (βSr); _alloy: Sr 1_ | unspecified | [5] Wang 2014 | Table 1, p. 2, row 5; `ORC-LUOFKSTRRS` |  |
-| Lattice a | 6.082 Å | 298.15 | UNKNOWN; _alloy: Sr 1_ | experimental | [3] Li 2013; _cites Bruzzone 1966_ | Table 1, p. 2, row 8; `ORC-75JN34S2BB` |  |
-| Lattice a | 4.84 Å | 298.15 | UNKNOWN; _alloy: Sr 1_ | experimental | [3] Li 2013; _cites Wang 1962_ [doi](https://doi.org/10.1021/j100817a015) | Table 1, p. 2, row 10; `ORC-DUBGCTFS72` |  |
 | Lattice a | 6.028 Å | 298.15 | fcc-Sr; _alloy: Sr 1_ | DFT | [6] Zhou 2014 | Table 2, p. 4, row 9; `ORC-2AVZ42W4M3` |  |
 | Lattice a | 6.084 Å | 298.15 | fcc-Sr; _alloy: Sr 1_ | experimental | [6] Zhou 2014; _cites Villars 2004_ [doi](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) | Table 2, p. 4, row 7; `ORC-PMIZ3GUNQP` |  |
 | Lattice a | 4.87 Å | 658 | bcc (βSr); _bcc (βSr): _ | unspecified | [4] Smith 1988; _cites ref. 2_ | Table I, p. 2, row 4; `ORC-Y2WBEPJKEB` |  |
-| Lattice a | 6.084 Å | 820 (\<) | UNKNOWN; _alloy: Sr 1_ | model | [7] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 6; `ORC-UB4M26JPCB` |  |
-| Lattice a | 4.87 Å | 1050 (\<) | UNKNOWN; _alloy: Sr 1_ | model | [7] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 7; `ORC-XPUENI5DLN` |  |
+| Lattice a | 6.084 Å | 820 (\<) | (αSr); _alloy: Sr 1_ | model | [7] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 6; `ORC-UB4M26JPCB` |  |
+| Lattice a | 4.87 Å | 1050 (\<) | (βSr); _alloy: Sr 1_ | model | [7] Chen 2012; _cites Massalski 1986_ | Table 2, p. 2, row 7; `ORC-XPUENI5DLN` |  |
 | Lattice c; _printed: c_ | 12.84 Å | 0 | Sr2Sr-C14; _alloy: Sr 1_ | unspecified | [2] Zhong 2006 | Table 2, p. 4, row 21; `ORC-Y36R4BP6LS.b23930` |  |
 | volume; _printed: V_ | 54.54 Å3/atom | 0 | fcc-Sr; _alloy: Sr 1_ | model | [6] Zhou 2014 | Table 3, p. 4, row 5; `ORC-3AHMXPM4R5.647914` |  |
 | volume; _printed: V_ | 56.3 Å3/atom |  | fcc-Sr; _alloy: Sr 1_ | experimental | [6] Zhou 2014; _cites Anderson 1990_ [doi](https://doi.org/10.1103/physrevb.41.3329) | Table 3, p. 4, row 6; `ORC-LUXDAUMY2C.39bf98` |  |

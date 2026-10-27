@@ -62,12 +62,12 @@ Table: Crystal structure, Na–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 12.083 Å |  | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6; `ORC-X4KAZAK4O4.f873ba` |  |
-| Lattice a | 12.19 Å | 298.15 | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5; `ORC-I7K54ROIMN.18206b` |  |
-| Lattice b | 6.553 Å |  | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6; `ORC-X4KAZAK4O4.1c9277` |  |
-| Lattice b | 6.55 Å | 298.15 | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5; `ORC-I7K54ROIMN.5a987a` |  |
-| Lattice c | 11.03 Å |  | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6; `ORC-X4KAZAK4O4.ee2c4b` |  |
-| Lattice c | 11.18 Å | 298.15 | UNKNOWN; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5; `ORC-I7K54ROIMN.380749` |  |
+| Lattice a | 12.083 Å |  | LT-NaSi; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6; `ORC-X4KAZAK4O4.f873ba` |  |
+| Lattice a | 12.19 Å | 298.15 | LT-NaSi; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5; `ORC-I7K54ROIMN.18206b` |  |
+| Lattice b | 6.553 Å |  | LT-NaSi; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6; `ORC-X4KAZAK4O4.1c9277` |  |
+| Lattice b | 6.55 Å | 298.15 | LT-NaSi; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5; `ORC-I7K54ROIMN.5a987a` |  |
+| Lattice c | 11.03 Å |  | LT-NaSi; _alloy: Na 0.5, Si 0.5_ | DFT | [1] Hao 2012 | Table 1, p. 5, row 6; `ORC-X4KAZAK4O4.ee2c4b` |  |
+| Lattice c | 11.18 Å | 298.15 | LT-NaSi; _alloy: Na 0.5, Si 0.5_ | experimental | [1] Hao 2012; _cites Hohmann 1948_ | Table 1, p. 5, row 5; `ORC-I7K54ROIMN.380749` |  |
 
 ## Sources
 

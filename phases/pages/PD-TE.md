@@ -18,12 +18,12 @@ Table: Phases of the Pd–Te system (13)
 | [HCP_A3](#phase-pd-te-hcp-a3); _phase:pd-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-pd-te-liquid); _phase:pd-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 720.94–2500 K, x(Te) 0–1 | 20 | 1 |
 | [PD17TE4](#phase-pd-te-pd17te4); _phase:pd-te:pd17te4_ | Pd17Te4 · cF120 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1044.33 K, x(Te) 0.19048–0.19048 | 5 | 1 |
-| [PD20TE7](#phase-pd-te-pd20te7); _phase:pd-te:pd20te7_ | Pd20Sb7 · hR27 · R-3 (148) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1022.29 K, x(Te) 0.25926–0.25926 | 9 | 1 |
+| [PD20TE7](#phase-pd-te-pd20te7); _phase:pd-te:pd20te7_ | Pd20Sb7 · hR27 · R-3 (148) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1022.29 K, x(Te) 0.25926–0.25926 | 12 | 1 |
 | [PD3TE_A2](#phase-pd-te-pd3te-a2); _phase:pd-te:pd3te-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 999.71–1070 K, x(Te) 0.25–0.25 | 12 | 1 |
-| [PD3TE2](#phase-pd-te-pd3te2); _phase:pd-te:pd3te2_ | Rh3Te2 · oC20 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–781.29 K, x(Te) 0.4–0.4 | 6 | 1 |
-| [PD7TE3](#phase-pd-te-pd7te3); _phase:pd-te:pd7te3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–766.27 K, x(Te) 0.3–0.3 | 4 | 1 |
-| [PD8TE3](#phase-pd-te-pd8te3); _phase:pd-te:pd8te3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 836.73–1254.73 K, x(Te) 0.27364–0.30244 | 11 | 1 |
-| [PD9TE4](#phase-pd-te-pd9te4); _phase:pd-te:pd9te4_ | Pd9Te4 · mP52 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 745.79–882.96 K, x(Te) 0.30769–0.30769 | 10 | 1 |
+| [PD3TE2](#phase-pd-te-pd3te2); _phase:pd-te:pd3te2_ | Rh3Te2 · oC20 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–781.29 K, x(Te) 0.4–0.4 | 9 | 1 |
+| [PD7TE3](#phase-pd-te-pd7te3); _phase:pd-te:pd7te3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–766.27 K, x(Te) 0.3–0.3 | 7 | 1 |
+| [PD8TE3](#phase-pd-te-pd8te3); _phase:pd-te:pd8te3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 836.73–1254.73 K, x(Te) 0.27364–0.30244 | 14 | 1 |
+| [PD9TE4](#phase-pd-te-pd9te4); _phase:pd-te:pd9te4_ | Pd9Te4 · mP52 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 745.79–882.96 K, x(Te) 0.30769–0.30769 | 13 | 1 |
 | [PDTE_PDTE2](#phase-pd-te-pdte-pdte2); _phase:pd-te:pdte-pdte2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1042.88 K, x(Te) 0.5–0.66667 | 10 | 1 |
 
 ## HEXAGONAL_A8 (Pd–Te)
@@ -211,7 +211,7 @@ _cited as the source of values for this phase_
 - Structure: Pd20Sb7 · hR27 · R-3 (148); type `st:pd20sb7-hr27`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Pd 0.7407, Te 0.2593
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1022.29 K, x(Te) 0.25926–0.25926
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-te:pd20te7)
 
 Names (5): _corpus: _corpus:phase:pd-te:pd20te7  
@@ -234,11 +234,11 @@ Example references (5 of 5; assessments first):
 
 - [doi:10.1016/j.intermet.2010.12.014](https://doi.org/10.1016/j.intermet.2010.12.014) S. Gossé, C. Guéneau, Thermodynamic assessment of the palladium–tellurium (Pd–Te) system, Intermetallics 19, 621-629 (2011).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(77)90171-0](https://doi.org/10.1016/0022-5088%2877%2990171-0) W. Wopersnow, K. Schubert, Kristallstruktur von Pd20Sb7 und Pd20Te7, Journal of the Less Common Metals 51, 35-44 (1977).  
+_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(86)90134-7](https://doi.org/10.1016/0022-5088%2886%2990134-7) G. Chattopadhyay, Y.J. Bhatt, S.K. Khera, Phase diagram of the PdTe system, Journal of the Less Common Metals 123, 251-266 (1986).  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02645383](https://doi.org/10.1007/bf02645383) H Okamoto, The pd-te system (palladium-tellurium), JPE 13, 73-78 (1992).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0022-5088(77)90171-0](https://doi.org/10.1016/0022-5088%2877%2990171-0) W. Wopersnow, K. Schubert, Kristallstruktur von Pd20Sb7 und Pd20Te7, Journal of the Less Common Metals 51, 35-44 (1977).  
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1978-690510](https://doi.org/10.1515/ijmr-1978-690510) Bhan S, Kudielka H. Ordered BCC-phases at high temperatures in alloys of transition metals and B-subgroup elements. Z Metallkd 1978;69: 333e6.  
 _cited as the source of values for this phase_
@@ -285,7 +285,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Pd 0.6000, Te 0.4000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–781.29 K, x(Te) 0.4–0.4
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-te:pd3te2)
 
 Names (3): _corpus: _corpus:phase:pd-te:pd3te2  
@@ -302,11 +302,13 @@ _tdb: _tdb:PdTe-11Gos.tdb:PD3TE2
 85: CONST PD3TE2 : PD : TE : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.intermet.2010.12.014](https://doi.org/10.1016/j.intermet.2010.12.014) S. Gossé, C. Guéneau, Thermodynamic assessment of the palladium–tellurium (Pd–Te) system, Intermetallics 19, 621-629 (2011).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02645383](https://doi.org/10.1007/bf02645383) H Okamoto, The pd-te system (palladium-tellurium), JPE 13, 73-78 (1992).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(77)90004-2](https://doi.org/10.1016/0022-5088%2877%2990004-2) P. Matković, K. Schubert, Kristallstruktur von pd3Te2, Journal of the Less Common Metals 52, 217-220 (1977).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(86)90134-7](https://doi.org/10.1016/0022-5088%2886%2990134-7) G. Chattopadhyay, Y.J. Bhatt, S.K. Khera, Phase diagram of the PdTe system, Journal of the Less Common Metals 123, 251-266 (1986).  
 _cited as the source of values for this phase_
@@ -319,7 +321,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (Pd7Te3) — Hallstedt 2025 mmc2 row for PD7TE3: Pd7Te3
 - Stoichiometry: Pd 0.7000, Te 0.3000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–766.27 K, x(Te) 0.3–0.3
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-te:pd7te3)
 
 Names (3): _corpus: _corpus:phase:pd-te:pd7te3  
@@ -352,7 +354,7 @@ _cited as the source of values for this phase_
 - Candidate (literature_printed): (Pd8Te3) · oP\* — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): (Pd8Te3) — Hallstedt 2025 mmc2 row for PD8TE3: Pd8Te3
 - Stability: stable in 1 of 1 calculated diagram(s): 836.73–1254.73 K, x(Te) 0.27364–0.30244
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-te:pd8te3)
 
 Names (3): _corpus: _corpus:phase:pd-te:pd8te3  
@@ -388,7 +390,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Pd 0.6923, Te 0.3077
 - Stability: stable in 1 of 1 calculated diagram(s): 745.79–882.96 K, x(Te) 0.30769–0.30769
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-te:pd9te4)
 
 Names (3): _corpus: _corpus:phase:pd-te:pd9te4  
@@ -405,11 +407,13 @@ _tdb: _tdb:PdTe-11Gos.tdb:PD9TE4
 80: CONST PD9TE4 : PD : TE : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.intermet.2010.12.014](https://doi.org/10.1016/j.intermet.2010.12.014) S. Gossé, C. Guéneau, Thermodynamic assessment of the palladium–tellurium (Pd–Te) system, Intermetallics 19, 621-629 (2011).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02645383](https://doi.org/10.1007/bf02645383) H Okamoto, The pd-te system (palladium-tellurium), JPE 13, 73-78 (1992).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(78)90205-9](https://doi.org/10.1016/0022-5088%2878%2990205-9) P Matković, K Schubert, Kristallstruktur von Pd9Te4, Journal of the Less Common Metals 58, P39-P46 (1978).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(86)90134-7](https://doi.org/10.1016/0022-5088%2886%2990134-7) G. Chattopadhyay, Y.J. Bhatt, S.K. Khera, Phase diagram of the PdTe system, Journal of the Less Common Metals 123, 251-266 (1986).  
 _cited as the source of values for this phase_

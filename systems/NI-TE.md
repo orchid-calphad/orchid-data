@@ -94,12 +94,12 @@ Table: Crystal structure, Ni–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.88 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1; `ORC-726HILDOSB.efd217` |  |
-| Lattice a | 3.75 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2; `ORC-TTOX2SIJ7U.fcaca1` |  |
 | Lattice a | 3.78 Å |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3; `ORC-W7T7AW4XSM.ead475` |  |
 | Lattice a | 3.99 Å |  | β2 (ht) | unspecified | [1] Arvhult 2019; _cites Kok 1965_ [doi](https://doi.org/10.1002/recl.19650841208) | Table 1, p. 3, row 4; `ORC-6YTPR3EHRL.f30975` |  |
-| Lattice a | 11.44 Å | 298.15 | UNKNOWN | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 3; `ORC-MBUWY5KVVY` |  |
+| Lattice a | 3.88 Å | 0 | β2-Ni2Te; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1; `ORC-726HILDOSB.efd217` |  |
+| Lattice a | 3.75 Å | 0 | β2-NiTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2; `ORC-TTOX2SIJ7U.fcaca1` |  |
 | Lattice a | 5.71 Å | 298.15 | β1 | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 2; `ORC-ZHD2RWRYMB` |  |
+| Lattice a | 11.44 Å | 298.15 | β1′ | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 3; `ORC-MBUWY5KVVY` |  |
 | Lattice a | 7.54 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5; `ORC-OAEFRJBBB5.8a97da` |  |
 | Lattice a | 7.54 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6; `ORC-SAIKEUAXJJ.8b492c` |  |
 | Lattice a | 12.38 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9; `ORC-FHLGQ3ARDB.770658` |  |
@@ -108,10 +108,10 @@ Table: Crystal structure, Ni–Te system
 | Lattice b | 3.79 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5; `ORC-OAEFRJBBB5.aa66de` |  |
 | Lattice b | 3.79 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6; `ORC-SAIKEUAXJJ.ddb9b5` |  |
 | Lattice b | 3.92 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9; `ORC-FHLGQ3ARDB.3a7288` |  |
-| Lattice c | 6.02 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1; `ORC-726HILDOSB.e9b768` |  |
-| Lattice c | 6.03 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2; `ORC-TTOX2SIJ7U.4c7528` |  |
 | Lattice c | 6.06 Å |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3; `ORC-W7T7AW4XSM.1ce789` |  |
 | Lattice c | 6.09 Å |  | β2 (ht) | unspecified | [1] Arvhult 2019; _cites Kok 1965_ [doi](https://doi.org/10.1002/recl.19650841208) | Table 1, p. 3, row 4; `ORC-6YTPR3EHRL.c87a56` |  |
+| Lattice c | 6.02 Å | 0 | β2-Ni2Te; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1; `ORC-726HILDOSB.e9b768` |  |
+| Lattice c | 6.03 Å | 0 | β2-NiTe; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2; `ORC-TTOX2SIJ7U.4c7528` |  |
 | Lattice c | 6.09 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5; `ORC-OAEFRJBBB5.daf46f` |  |
 | Lattice c | 6.06 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6; `ORC-SAIKEUAXJJ.9af731` |  |
 | Lattice c | 6.88 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9; `ORC-FHLGQ3ARDB.0352e0` |  |

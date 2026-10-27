@@ -1,10 +1,10 @@
 # Al–Gd system
 
-> Al–Gd system: 32 accepted literature values (invariant reaction 28, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Gd system: 43 accepted literature values (invariant reaction 28, crystal structure 11, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-GD.html · Markdown: https://data.orchid-project.org/systems/AL-GD.md
 
-32 accepted literature values from 1 paper(s) (model 24, unspecified 8); 2 calculated phase diagram(s).
+43 accepted literature values from 2 paper(s) (model 24, unspecified 19); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-GD.json) · [CSV](https://data.orchid-project.org/systems/AL-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-GD/AlGd-03Cac-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AL-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-GD.html) · [Markdown](https://data.orchid-project.org/systems/AL-GD.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | model | 24 |
-| unspecified | 8 |
+| unspecified | 19 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 28 |
 | phase transition | 4 |
+| crystal structure | 11 |
 
 ## Calculated phase diagrams
 
@@ -120,11 +121,30 @@ Table: Phase transition, Al–Gd system
 | Phase transition | 1793 K | 1793 | Liquid -> Al2Gd; _Liquid: Gd 0.333; Al2Gd: Gd 0.333333_ | unspecified | [1] Bo 2014; _cites Gschneidner 1988_ [doi](https://doi.org/10.1007/bf02883166) | Table 2, p. 4, row 9; `ORC-M3BOBM3M3X` |  |
 | Phase transition | 1800 K | 1800 | Liquid -> Al2Gd; _Liquid: Gd 0.333333; Al2Gd: Gd 0.333333_ | model | [1] Bo 2014; _cites Jin 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.08.004) | Table 2, p. 4, row 11; `ORC-VMAJBYFBPV` |  |
 
+### Crystal structure (11)
+
+Table: Crystal structure, Al–Gd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 7.906 Å | 298.15 | Al2Gd | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 9; `ORC-OQSYABXYFD` |  |
+| Lattice a | 8.32 Å | 298.15 | Al2Gd3 | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 11; `ORC-5CWGIIEM6W.eaf00d` |  |
+| Lattice a | 6.331 Å | 298.15 | Al3Gd | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 8; `ORC-4WK7L4ALU7.da891a` |  |
+| Lattice a | 5.893 Å | 298.15 | AlGd; _alloy: Gd 0.5_ | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 10; `ORC-HGE3HGJXUM.ae2d9c` |  |
+| Lattice a | 6.742 Å | 298.15 | AlGd2 | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 12; `ORC-BPU2S4WN2L.8eeee2` |  |
+| Lattice b | 11.59 Å | 298.15 | AlGd; _alloy: Gd 0.5_ | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 10; `ORC-HGE3HGJXUM.d30550` |  |
+| Lattice b | 5.254 Å | 298.15 | AlGd2 | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 12; `ORC-BPU2S4WN2L.b7809f` |  |
+| Lattice c | 7.628 Å | 298.15 | Al2Gd3 | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 11; `ORC-5CWGIIEM6W.4e031b` |  |
+| Lattice c | 4.6 Å | 298.15 | Al3Gd | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 8; `ORC-4WK7L4ALU7.958cfa` |  |
+| Lattice c | 5.695 Å | 298.15 | AlGd; _alloy: Gd 0.5_ | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 10; `ORC-HGE3HGJXUM.2a9dc2` |  |
+| Lattice c | 9.756 Å | 298.15 | AlGd2 | unspecified | [2] Zhang 2009 | Table 1, p. 3, row 12; `ORC-BPU2S4WN2L.5a4b70` |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. H. Bo, L.B. Liu, J.L. Hu, X.D. Zhang, Z.P. Jin, Thermodynamic re-assessment of the Al–Gd and Gd–Zr systems, Thermochimica Acta 591, 51-56 (2014). [doi:10.1016/j.tca.2014.07.014](https://doi.org/10.1016/j.tca.2014.07.014)
+2. L.G. Zhang, H.Q. Dong, G.X. Huang, J. Shan, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the Al–Cu–Gd system, Calphad 33, 664-672 (2009). [doi:10.1016/j.calphad.2009.08.003](https://doi.org/10.1016/j.calphad.2009.08.003)
 
 ## Please cite
 

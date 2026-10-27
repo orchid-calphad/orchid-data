@@ -88,9 +88,9 @@ Table: Crystal structure, Ho–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 41.204 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Ho 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 13; `ORC-KO2UTWVN3E.3628ad` |  |
-| lattice molar volume | 40.491 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Ho 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 13; `ORC-KO2UTWVN3E.79a912` |  |
-| lattice molar volume | 44.91 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Ho 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 13; `ORC-KO2UTWVN3E.f3f474` |  |
+| lattice molar volume | 40.491 cm3 mol-1 | 298.15 | Ho2O3 (A-type); _alloy: Ho 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 13; `ORC-KO2UTWVN3E.79a912` |  |
+| lattice molar volume | 41.204 cm3 mol-1 | 298.15 | Ho2O3 (B-type); _alloy: Ho 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 13; `ORC-KO2UTWVN3E.3628ad` |  |
+| lattice molar volume | 44.91 cm3 mol-1 | 298.15 | Ho2O3 (C-type); _alloy: Ho 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 13; `ORC-KO2UTWVN3E.f3f474` |  |
 
 ### Other property (5)
 

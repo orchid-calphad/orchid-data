@@ -67,9 +67,9 @@ Table: Crystal structure, O–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 46.675 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5; `ORC-7BPDP7IZEV.08a4e5` |  |
-| lattice molar volume | 47.545 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5; `ORC-7BPDP7IZEV.1af1f6` |  |
-| lattice molar volume | 52.202 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5; `ORC-7BPDP7IZEV.e1c894` |  |
+| lattice molar volume | 46.675 cm3 mol-1 | 298.15 | Pr2O3 (A-type); _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5; `ORC-7BPDP7IZEV.08a4e5` |  |
+| lattice molar volume | 47.545 cm3 mol-1 | 298.15 | Pr2O3 (B-type); _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5; `ORC-7BPDP7IZEV.1af1f6` |  |
+| lattice molar volume | 52.202 cm3 mol-1 | 298.15 | Pr2O3 (C-type); _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5; `ORC-7BPDP7IZEV.e1c894` |  |
 
 ## Sources
 

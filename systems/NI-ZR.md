@@ -460,11 +460,11 @@ Table: Crystal structure, Ni–Zr system
 | Lattice a | 6.71 Å |  | Ni5Zr; _alloy: Zr 0.166667_ | model | [1] Jana 2020 | Table 2, p. 2, row 4; `ORC-N3YL3UTR5D.a9e499` |  |
 | Lattice a | 6.71 Å |  | Ni5Zr; _alloy: Zr 0.166667_ | model | [1] Jana 2020 | Table 2, p. 3, row 4; `ORC-OE4NB25O5R` |  |
 | Lattice a | 4.607 Å |  | Ni7Zr2; _alloy: Zr 0.222222_ | model | [1] Jana 2020 | Table 2, p. 2, row 8; `ORC-Q4N3AVPWBQ.77f7fa` |  |
+| Lattice a | 3.31 Å |  | NiZr | model | [1] Jana 2020 | Table 2, p. 3, row 13; `ORC-5PZTV4EGXX` |  |
 | Lattice a | 3.31 Å |  | NiZr; _alloy: Zr 0.5_ | model | [1] Jana 2020 | Table 2, p. 2, row 29; `ORC-VYC6ICJ4S5.b5ebbc` |  |
+| Lattice a | 3.31 Å | 0 | NiZr; _alloy: Zr 0.5_ | DFT | [1] Jana 2020 | Table 2, p. 3, row 19; `ORC-WOE7TIFH73` |  |
 | Lattice a | 6.507 Å |  | NiZr2; _alloy: Zr 0.666667_ | model | [1] Jana 2020 | Table 2, p. 2, row 33; `ORC-A2JRANT3ZP.74efa1` |  |
 | Lattice a | 6.507 Å |  | NiZr2; _alloy: Zr 0.666667_ | model | [1] Jana 2020 | Table 2, p. 3, row 17; `ORC-LBF6OSYZKP.a86ddf` |  |
-| Lattice a | 3.31 Å |  | UNKNOWN | model | [1] Jana 2020 | Table 2, p. 3, row 13; `ORC-5PZTV4EGXX` |  |
-| Lattice a | 3.31 Å | 0 | UNKNOWN; _alloy: Zr 0.5_ | DFT | [1] Jana 2020 | Table 2, p. 3, row 19; `ORC-WOE7TIFH73` |  |
 | Lattice a | 12.386 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | unspecified | [1] Jana 2020; _cites Villars 1997_ | Table 2, p. 2, row 16; `ORC-KFKNFRGGEF.f4b6fa` |  |
 | Lattice a | 12.488 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 2, p. 2, row 20; `ORC-MW5MC3XIOX.691c81` |  |
 | Lattice a | 12.446 Å | 298.15 | Ni10Zr7; _alloy: Zr 0.411765_ | DFT | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 2, p. 2, row 19; `ORC-QRGFPSGHIV.eacb89` |  |

@@ -122,9 +122,9 @@ Table: Heat capacity / entropy / enthalpy, Cs–Te system
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S0_ | 61.7 J/mol-atom/K | 298.15 | Cs2Te; _alloy: Te 0.333333_ | experimental | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 2; `ORC-LEVZKAYSFQ.3928ec` |  |
 | Entropy; _printed: S0_ | 60 J/mol-atom/K ± 0.625 | 298.15 | Cs5Te3; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9; `ORC-QZ3LEPVT3V.0c0c74` |  |
+| Entropy; _printed: S0_ | 480 unknown ± 5 | 298.15 | Cs5Te3; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9; `ORC-QZ3LEPVT3V.4d8895` |  |
 | Entropy; _printed: S0_ | 185.1 J/mol (basis unstated)/K | 298.15 | Cs₂Te; _alloy: Te 0.333333_ | experimental | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 2; `ORC-LEVZKAYSFQ.98da47` |  |
 | Entropy; _printed: S0_ | 480 J/mol (basis unstated)/K ± 5 | 298.15 | Cs₅Te₃; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9; `ORC-QZ3LEPVT3V.9b58c1` |  |
-| Entropy; _printed: S0_ | 480 unknown ± 5 | 298.15 | UNKNOWN; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9; `ORC-QZ3LEPVT3V.4d8895` |  |
 
 ### Activity / EMF / Gibbs energy (2)
 

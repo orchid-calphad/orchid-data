@@ -206,9 +206,9 @@ Table: Crystal structure, Fe–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.055 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 4; `ORC-J34PH26E6Y` |  |
-| Lattice a | 10.2499 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 5; `ORC-YKWUSZVFKL.972c02` |  |
-| Lattice c | 5.25 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 5; `ORC-YKWUSZVFKL.935d93` |  |
+| Lattice a | 7.055 Å | 298.15 | Fe2U | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 4; `ORC-J34PH26E6Y` |  |
+| Lattice a | 10.2499 Å | 298.15 | FeU6 | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 5; `ORC-YKWUSZVFKL.972c02` |  |
+| Lattice c | 5.25 Å | 298.15 | FeU6 | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 5; `ORC-YKWUSZVFKL.935d93` |  |
 
 ## Sources
 

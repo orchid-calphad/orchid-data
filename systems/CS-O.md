@@ -144,6 +144,8 @@ Table: Heat capacity / entropy / enthalpy, Cs–O system
 | Entropy; _printed: S0 298.15 K_ | 78.075 J/mol-atom/K | 298.15 | Cs7O; _alloy: O 0.125_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 2; `ORC-74PDWOUQ6D.6cd4d8` |  |
 | Entropy; _printed: S0 298.15 K_ | 77.1625 J/mol-atom/K | 298.15 | Cs7O; _alloy: O 0.125_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 1; `ORC-NGZLBXOCTJ.89404d` |  |
 | Entropy; _printed: S0 298.15 K_ | 69.0444 J/mol-atom/K | 298.15 | Cs7O2; _alloy: O 0.222222_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 6; `ORC-5JTV2YD5ZE.0a54c3` |  |
+| Entropy; _printed: S0_ | 621.4 J/mol (basis unstated)/K | 298.15 | Cs7O2 | model | [1] Guéneau 2015 | Table 5, p. 7, row 6; `ORC-5JTV2YD5ZE.5baff2` |  |
+| Entropy; _printed: S0_ | 545 J/mol (basis unstated)/K | 298.15 | Cs7O2 | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 5; `ORC-SWEHTSC4LB.4963ce` |  |
 | Entropy; _printed: S0 298.15 K_ | 60.5556 J/mol-atom/K | 298.15 | Cs7O2; _alloy: O 0.222222_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 5; `ORC-SWEHTSC4LB.6455b7` |  |
 | Entropy; _printed: S0 298.15 K_ | 57.0667 J/mol-atom/K | 298.15 | CsO2; _alloy: O 0.666667_ | experimental | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | Table 5, p. 7, row 34; `ORC-636TFSTTTX.fadc13` |  |
 | Entropy; _printed: S0 298.15 K_ | 54.4 J/mol-atom/K | 298.15 | CsO2; _alloy: O 0.666667_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 35; `ORC-7E7CJ5YOFI.262d70` |  |
@@ -153,8 +155,6 @@ Table: Heat capacity / entropy / enthalpy, Cs–O system
 | Entropy; _printed: S0 298.15 K_ | 45.5 J/mol-atom/K | 298.15 | CsO2; _alloy: O 0.666667_ | unspecified | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 31; `ORC-YWJF45XPKP.46c247` |  |
 | Entropy; _printed: S0 298.15 K_ | 36.175 J/mol-atom/K | 298.15 | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 36; `ORC-QEFWZ76HIE.a5828c` |  |
 | Entropy; _printed: S0 298.15 K_ | 42.15 J/mol-atom/K | 298.15 | CsO3; _alloy: O 0.75_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 38; `ORC-WWB3YGRQ7H.c328a5` |  |
-| Entropy; _printed: S0_ | 621.4 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Guéneau 2015 | Table 5, p. 7, row 6; `ORC-5JTV2YD5ZE.5baff2` |  |
-| Entropy; _printed: S0_ | 545 J/mol (basis unstated)/K | 298.15 | UNKNOWN | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 5; `ORC-SWEHTSC4LB.4963ce` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 25.2333 J/mol-atom/K | 298.15 | Cs2O; _alloy: O 0.333333_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 19; `ORC-55RRRCHTNI.9b85fb` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 24.9333 J/mol-atom/K | 298.15 | Cs2O; _alloy: O 0.333333_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 10; `ORC-FTGB7HG7ZE.e76623` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 25.3333 J/mol-atom/K | 298.15 | Cs2O; _alloy: O 0.333333_ | experimental | [1] Guéneau 2015; _cites Flotow 1974_ [doi](https://doi.org/10.1016/0021-9614%2874%2990256-0) | Table 5, p. 7, row 13; `ORC-LF2XK4HKT2.754378` |  |
@@ -168,15 +168,15 @@ Table: Heat capacity / entropy / enthalpy, Cs–O system
 | Heat capacity; _printed: Cp0 298.15 K_ | 25.74 J/mol-atom/K | 298.15 | Cs4O; _alloy: O 0.2_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 4; `ORC-XIB343EK4O.aff151` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 26.3 J/mol-atom/K | 298.15 | Cs7O; _alloy: O 0.125_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 2; `ORC-74PDWOUQ6D.656ab0` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 26.3125 J/mol-atom/K | 298.15 | Cs7O; _alloy: O 0.125_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 1; `ORC-NGZLBXOCTJ.51d7f5` |  |
+| Heat capacity; _printed: Cp0_ | 231.1 J/mol (basis unstated)/K | 298.15 | Cs7O2 | model | [1] Guéneau 2015 | Table 5, p. 7, row 6; `ORC-5JTV2YD5ZE.62559e` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 25.6778 J/mol-atom/K | 298.15 | Cs7O2; _alloy: O 0.222222_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 6; `ORC-5JTV2YD5ZE.92926b` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 25.6889 J/mol-atom/K | 298.15 | Cs7O2; _alloy: O 0.222222_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 5; `ORC-SWEHTSC4LB.f524bc` |  |
+| Heat capacity; _printed: Cp0_ | 231.2 J/mol (basis unstated)/K | 298.15 | Cs7O2 | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 5; `ORC-SWEHTSC4LB.f73a15` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 22.8167 J/mol-atom/K | 298.15 | CsO2; _alloy: O 0.666667_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 35; `ORC-7E7CJ5YOFI.424614` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 26.3 J/mol-atom/K | 298.15 | CsO2; _alloy: O 0.666667_ | model | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 32; `ORC-I3KHTYFGXV.658f42` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 22.7333 J/mol-atom/K | 298.15 | CsO2; _alloy: O 0.666667_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 28; `ORC-SVOB5GY4NR.1b1e5a` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 21.075 J/mol-atom/K | 298.15 | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 36; `ORC-QEFWZ76HIE.1459c2` |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 21.05 J/mol-atom/K | 298.15 | CsO3; _alloy: O 0.75_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 38; `ORC-WWB3YGRQ7H.eb34af` |  |
-| Heat capacity; _printed: Cp0_ | 231.1 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Guéneau 2015 | Table 5, p. 7, row 6; `ORC-5JTV2YD5ZE.62559e` |  |
-| Heat capacity; _printed: Cp0_ | 231.2 J/mol (basis unstated)/K | 298.15 | UNKNOWN | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 5; `ORC-SWEHTSC4LB.f73a15` |  |
 
 ### Crystal structure (68)
 
@@ -188,47 +188,47 @@ Table: Crystal structure, Cs–O system
 | Lattice a | 4.33 Å |  | Cs2O; _alloy: O 0.333333_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 10; `ORC-AVYJPJTBJW.4fa99b` |  |
 | Lattice a | 4.232 Å |  | Cs2O; _alloy: O 0.333333_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 11; `ORC-IVMWQERCQY.964938` |  |
 | Lattice a | 8.899 Å |  | Cs3O; _alloy: O 0.25_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 8; `ORC-LI3V72VRVT.b85fb5` |  |
+| Lattice a | 17.027 Å |  | Cs4O; _alloy: O 0.2_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 4; `ORC-UPX3Q4HYB2.6566cf` |  |
 | Lattice a | 16.414 Å |  | Cs7O; _alloy: O 0.125_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 2; `ORC-NLCV64A6NE.86d5c4` |  |
 | Lattice a | 4.46 Å |  | CsO; _alloy: O 0.5_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 13; `ORC-RU4WU2KPH6.c0865d` |  |
 | Lattice a | 9.031 Å |  | CsO2; _alloy: O 0.666667_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 15; `ORC-K3Y3GW5UX7.60148f` |  |
 | Lattice a | 6.836 Å |  | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 18; `ORC-4NWNQ4Q5Z2.87b48d` |  |
 | Lattice a | 7.008 Å |  | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 17; `ORC-CRXYSV7HNB.1f348b` |  |
-| Lattice a | 17.027 Å |  | UNKNOWN; _alloy: O 0.2_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 4; `ORC-UPX3Q4HYB2.6566cf` |  |
 | Lattice a | 17.61 Å | 298.15 | Cs11O3; _alloy: O 0.214286_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 5; `ORC-PPDRWC6GG6.220d10` |  |
 | Lattice a | 4.269 Å | 298.15 | Cs2O; _alloy: O 0.333333_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 9; `ORC-7CWATBOSWY.eaaae6` |  |
 | Lattice a | 8.78 Å | 298.15 | Cs3O; _alloy: O 0.25_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 7; `ORC-33JCZL4AEZ.76c81e` |  |
+| Lattice a | 16.833 Å | 298.15 | Cs4O; _alloy: O 0.2_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 3; `ORC-G3CIGRWYWI.9d0c3d` |  |
 | Lattice a | 16.393 Å | 298.15 | Cs7O; _alloy: O 0.125_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 1; `ORC-3FOKF5JVGB.97f6b1` |  |
 | Lattice a | 4.322 Å | 298.15 | CsO; _alloy: O 0.5_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 12; `ORC-DNPONZO2B2.ffafd7` |  |
 | Lattice a | 8.924 Å | 298.15 | CsO2; _alloy: O 0.666667_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 14; `ORC-I27WS7JY3N.073974` |  |
 | Lattice a | 6.709 Å | 298.15 | CsO3; _alloy: O 0.75_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 16; `ORC-45ZWEMCXX6.d4f08f` |  |
-| Lattice a | 16.833 Å | 298.15 | UNKNOWN; _alloy: O 0.2_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 3; `ORC-G3CIGRWYWI.9d0c3d` |  |
 | Lattice b | 9.377 Å |  | Cs11O3; _alloy: O 0.214286_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 6; `ORC-SFGE2KD3UF.abe297` |  |
+| Lattice b | 20.882 Å |  | Cs4O; _alloy: O 0.2_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 4; `ORC-UPX3Q4HYB2.e16f4f` |  |
 | Lattice b | 7.644 Å |  | CsO; _alloy: O 0.5_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 13; `ORC-RU4WU2KPH6.95193b` |  |
 | Lattice b | 6.358 Å |  | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 18; `ORC-4NWNQ4Q5Z2.3e7e4a` |  |
 | Lattice b | 6.556 Å |  | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 17; `ORC-CRXYSV7HNB.5d9810` |  |
-| Lattice b | 20.882 Å |  | UNKNOWN; _alloy: O 0.2_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 4; `ORC-UPX3Q4HYB2.e16f4f` |  |
 | Lattice b | 9.218 Å | 298.15 | Cs11O3; _alloy: O 0.214286_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 5; `ORC-PPDRWC6GG6.009374` |  |
+| Lattice b | 20.569 Å | 298.15 | Cs4O; _alloy: O 0.2_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 3; `ORC-G3CIGRWYWI.04bef1` |  |
 | Lattice b | 7.517 Å | 298.15 | CsO; _alloy: O 0.5_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 12; `ORC-DNPONZO2B2.e8b0fc` |  |
 | Lattice b | 6.244 Å | 298.15 | CsO3; _alloy: O 0.75_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 16; `ORC-45ZWEMCXX6.c92e60` |  |
-| Lattice b | 20.569 Å | 298.15 | UNKNOWN; _alloy: O 0.2_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 3; `ORC-G3CIGRWYWI.04bef1` |  |
 | Lattice c | 24.466 Å |  | Cs11O3; _alloy: O 0.214286_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 6; `ORC-SFGE2KD3UF.b4ed44` |  |
 | Lattice c | 22.491 Å |  | Cs2O; _alloy: O 0.333333_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 10; `ORC-AVYJPJTBJW.3d334b` |  |
 | Lattice c | 18.74 Å |  | Cs2O; _alloy: O 0.333333_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 11; `ORC-IVMWQERCQY.49c7a8` |  |
 | Lattice c | 7.627 Å |  | Cs3O; _alloy: O 0.25_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 8; `ORC-LI3V72VRVT.83d8d8` |  |
+| Lattice c | 12.643 Å |  | Cs4O; _alloy: O 0.2_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 4; `ORC-UPX3Q4HYB2.7040b4` |  |
 | Lattice c | 9.357 Å |  | Cs7O; _alloy: O 0.125_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 2; `ORC-NLCV64A6NE.ea7267` |  |
 | Lattice c | 6.495 Å |  | CsO; _alloy: O 0.5_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 13; `ORC-RU4WU2KPH6.545894` |  |
 | Lattice c | 14.906 Å |  | CsO2; _alloy: O 0.666667_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 15; `ORC-K3Y3GW5UX7.da9dca` |  |
 | Lattice c | 9.231 Å |  | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 18; `ORC-4NWNQ4Q5Z2.7e323a` |  |
 | Lattice c | 9.42 Å |  | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 17; `ORC-CRXYSV7HNB.a9c12d` |  |
-| Lattice c | 12.643 Å |  | UNKNOWN; _alloy: O 0.2_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 4; `ORC-UPX3Q4HYB2.7040b4` |  |
 | Lattice c | 24.047 Å | 298.15 | Cs11O3; _alloy: O 0.214286_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 5; `ORC-PPDRWC6GG6.37316b` |  |
 | Lattice c | 18.82 Å | 298.15 | Cs2O; _alloy: O 0.333333_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 9; `ORC-7CWATBOSWY.6a6dca` |  |
 | Lattice c | 7.52 Å | 298.15 | Cs3O; _alloy: O 0.25_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 7; `ORC-33JCZL4AEZ.9bcd57` |  |
+| Lattice c | 12.4 Å | 298.15 | Cs4O; _alloy: O 0.2_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 3; `ORC-G3CIGRWYWI.b910b3` |  |
 | Lattice c | 9.193 Å | 298.15 | Cs7O; _alloy: O 0.125_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 1; `ORC-3FOKF5JVGB.11bfc7` |  |
 | Lattice c | 6.43 Å | 298.15 | CsO; _alloy: O 0.5_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 12; `ORC-DNPONZO2B2.375891` |  |
 | Lattice c | 14.652 Å | 298.15 | CsO2; _alloy: O 0.666667_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 14; `ORC-I27WS7JY3N.f92e9a` |  |
 | Lattice c | 8.997 Å | 298.15 | CsO3; _alloy: O 0.75_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 16; `ORC-45ZWEMCXX6.85884f` |  |
-| Lattice c | 12.4 Å | 298.15 | UNKNOWN; _alloy: O 0.2_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 3; `ORC-G3CIGRWYWI.b910b3` |  |
 | lattice beta | 100.29 not_printed |  | Cs11O3; _alloy: O 0.214286_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 6; `ORC-SFGE2KD3UF.d1b408` |  |
 | lattice beta | 122.41 not_printed |  | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 18; `ORC-4NWNQ4Q5Z2.41b7f3` |  |
 | lattice beta | 123.61 not_printed |  | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 17; `ORC-CRXYSV7HNB.873fb9` |  |
@@ -238,20 +238,20 @@ Table: Crystal structure, Cs–O system
 | lattice v | 365.2 Å³ |  | Cs2O; _alloy: O 0.333333_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 10; `ORC-AVYJPJTBJW.c6b0bc` |  |
 | lattice v | 290.57 Å³ |  | Cs2O; _alloy: O 0.333333_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 11; `ORC-IVMWQERCQY.668c87` |  |
 | lattice v | 523.17 Å³ |  | Cs3O; _alloy: O 0.25_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 8; `ORC-LI3V72VRVT.cca07a` |  |
+| lattice v | 4496.23 Å³ |  | Cs4O; _alloy: O 0.2_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 4; `ORC-UPX3Q4HYB2.31cc47` |  |
 | lattice v | 2183.46 Å³ |  | Cs7O; _alloy: O 0.125_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 2; `ORC-NLCV64A6NE.39b8a7` |  |
 | lattice v | 221.43 Å³ |  | CsO; _alloy: O 0.5_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 13; `ORC-RU4WU2KPH6.4258f8` |  |
 | lattice v | 1215.72 Å³ |  | CsO2; _alloy: O 0.666667_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 15; `ORC-K3Y3GW5UX7.bf2260` |  |
 | lattice v | 338.7 Å³ |  | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 18; `ORC-4NWNQ4Q5Z2.c37984` |  |
 | lattice v | 360.51 Å³ |  | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 17; `ORC-CRXYSV7HNB.7a0690` |  |
-| lattice v | 4496.23 Å³ |  | UNKNOWN; _alloy: O 0.2_ | DFT | [1] Guéneau 2015 | Table 2, p. 4, row 4; `ORC-UPX3Q4HYB2.31cc47` |  |
 | lattice v | 3842.55 Å³ | 298.15 | Cs11O3; _alloy: O 0.214286_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 5; `ORC-PPDRWC6GG6.8146bd` |  |
 | lattice v | 297.03 Å³ | 298.15 | Cs2O; _alloy: O 0.333333_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 9; `ORC-7CWATBOSWY.68550c` |  |
 | lattice v | 502.04 Å³ | 298.15 | Cs3O; _alloy: O 0.25_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 7; `ORC-33JCZL4AEZ.a3f614` |  |
+| lattice v | 4293.35 Å³ | 298.15 | Cs4O; _alloy: O 0.2_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 3; `ORC-G3CIGRWYWI.1713f9` |  |
 | lattice v | 2139.46 Å³ | 298.15 | Cs7O; _alloy: O 0.125_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 1; `ORC-3FOKF5JVGB.e3d4e9` |  |
 | lattice v | 208.9 Å³ | 298.15 | CsO; _alloy: O 0.5_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 12; `ORC-DNPONZO2B2.2477ae` |  |
 | lattice v | 1166.85 Å³ | 298.15 | CsO2; _alloy: O 0.666667_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 14; `ORC-I27WS7JY3N.6d83dc` |  |
 | lattice v | 323.56 Å³ | 298.15 | CsO3; _alloy: O 0.75_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 16; `ORC-45ZWEMCXX6.1f2b39` |  |
-| lattice v | 4293.35 Å³ | 298.15 | UNKNOWN; _alloy: O 0.2_ | experimental | [1] Guéneau 2015; _cites Villars 2014_ | Table 2, p. 4, row 3; `ORC-G3CIGRWYWI.1713f9` |  |
 
 ## Sources
 

@@ -81,7 +81,7 @@ Table: Crystal structure, H–Y system
 | Lattice a; _printed: a_ | 5.16199 Å | 0 | fcc; _alloy: Y 0.25_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 3; `ORC-VQ67QKCFND.1ba9e2` |  |
 | Lattice a; _printed: a_ | 3.64125 Å | 0 | hcp; _alloy: Y 0.5_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 5; `ORC-3XG5F7YJE5.a96195` |  |
 | Lattice a; _printed: a_ | 3.59237 Å | 0 | hcp; _alloy: Y 0.333333_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 6; `ORC-CEYMGAHVRG.992f71` |  |
-| Lattice a | 5.207 not_printed | 298.15 | UNKNOWN; _alloy: Y 0.333333_ | experimental | [1] Peng 2020; _cites Weaver 1980_ | Table 1, p. 3, row 2; `ORC-IIOMZFXG7S` |  |
+| Lattice a | 5.207 not_printed | 298.15 | δ-YH2; _alloy: Y 0.333333_ | experimental | [1] Peng 2020; _cites Weaver 1980_ | Table 1, p. 3, row 2; `ORC-IIOMZFXG7S` |  |
 | Lattice a | 5.207 not_printed | 298.15 | δ-YH2; _alloy: Y 0.333333_ | unspecified | [1] Peng 2020; _cites Weaver 1980_ | Table 1, p. 3, row 4; `ORC-UKKQMY467Y` |  |
 | Lattice a | 6.36 not_printed | 298.15 | ε-YH3; _alloy: Y 0.25_ | experimental | [1] Peng 2020; _cites Mansmann 1964_ | Table 1, p. 3, row 3; `ORC-3NSZ6X7RQJ.f33232` |  |
 | Lattice c; _printed: c_ | 6.659 Å | 0 | Trigonal; _alloy: Y 0.25_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 7; `ORC-6LYCUGIYUT.372021` |  |

@@ -1,10 +1,10 @@
 # Al–Sb system
 
-> Al–Sb system: 42 accepted literature values (invariant reaction 17, phase transition 16, formation 8, crystal structure 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sb system: 44 accepted literature values (invariant reaction 17, phase transition 16, formation 8, heat capacity / entropy / enthalpy 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SB.html · Markdown: https://data.orchid-project.org/systems/AL-SB.md
 
-42 accepted literature values from 3 paper(s) (experimental 1, model 40, unspecified 1); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+44 accepted literature values from 4 paper(s) (experimental 1, model 42, unspecified 1); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SB.json) · [CSV](https://data.orchid-project.org/systems/AL-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SB/AlSb-05Bal.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AL-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SB.html) · [Markdown](https://data.orchid-project.org/systems/AL-SB.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 40 |
+| model | 42 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -23,6 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 17 |
 | phase transition | 16 |
 | formation | 8 |
+| heat capacity / entropy / enthalpy | 2 |
 | crystal structure | 1 |
 
 ## Calculated phase diagrams
@@ -127,13 +128,22 @@ Table: Formation, Al–Sb system
 | Entropy of formation; _printed: ΔSf_ | -51.6 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1; `ORC-ATLFNG2KIE.89eb59` |  |
 | Entropy of formation; _printed: ΔSf_ | -36.13 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2; `ORC-JMW4UGZ6PO.52dd41` |  |
 
+### Heat capacity / entropy / enthalpy (2)
+
+Table: Heat capacity / entropy / enthalpy, Al–Sb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S°298_ | 66.66 J/mol-formula K | 298.15 | AlSb | model | [3] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.417e77` |  |
+| Heat capacity; _printed: Cp,298_ | 47.98 J/mol (basis unstated)/K | 298.15 | AlSb | model | [3] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.20111c` |  |
+
 ### Crystal structure (1)
 
 Table: Crystal structure, Al–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.135 Å | 298.15 | AlSb; _alloy: Sb 0.5_ | unspecified | [3] Zhang 2009 | Table 1, p. 2, row 1; `ORC-NBPN7NDGID` |  |
+| Lattice a | 6.135 Å | 298.15 | AlSb; _alloy: Sb 0.5_ | unspecified | [4] Zhang 2009 | Table 1, p. 2, row 1; `ORC-NBPN7NDGID` |  |
 
 ## Sources
 
@@ -141,7 +151,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. T. Balakumar, M. Medraj, Thermodynamic modeling of the Mg–Al–Sb system, Calphad 29, 24-36 (2005). [doi:10.1016/j.calphad.2005.03.001](https://doi.org/10.1016/j.calphad.2005.03.001)
 2. C.A. Coughanowr, U.R. Kattner, T.J. Anderson, Assessment of the Al-Sb system, Calphad 14, 193-202 (1990). [doi:10.1016/0364-5916(90)90020-z](https://doi.org/10.1016/0364-5916%2890%2990020-z)
-3. L.G. Zhang, H.M. Chen, H.Q. Dong, G.X. Huang, L.B. Liu, Z.P. Jin, Thermodynamic description of the Al–Sb–Y system, Journal of Alloys and Compounds 475, 233-237 (2009). [doi:10.1016/j.jallcom.2008.07.105](https://doi.org/10.1016/j.jallcom.2008.07.105)
+3. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+4. L.G. Zhang, H.M. Chen, H.Q. Dong, G.X. Huang, L.B. Liu, Z.P. Jin, Thermodynamic description of the Al–Sb–Y system, Journal of Alloys and Compounds 475, 233-237 (2009). [doi:10.1016/j.jallcom.2008.07.105](https://doi.org/10.1016/j.jallcom.2008.07.105)
 
 ## Please cite
 

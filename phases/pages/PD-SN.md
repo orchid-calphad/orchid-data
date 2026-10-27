@@ -18,17 +18,17 @@ Table: Phases of the Pd–Sn system (18)
 | [FCC_A1](#phase-pd-sn-fcc-a1); _phase:pd-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1836 K, x(Sn) 0–0.20912 | 5 | 3 |
 | [HCP_A3](#phase-pd-sn-hcp-a3); _phase:pd-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-pd-sn-liquid); _phase:pd-sn:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 503.68–2500 K, x(Sn) 0–1 | 75 | 3 |
-| [PD20SN13](#phase-pd-sn-pd20sn13); _phase:pd-sn:pd20sn13_ | Pd13Sn9 · hP66 · P3_121 (152) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1173.53 K, x(Sn) 0.37568–0.43141 | 37 | 3 |
+| [PD20SN13](#phase-pd-sn-pd20sn13); _phase:pd-sn:pd20sn13_ | Pd13Sn9 · hP66 · P3_121 (152) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1173.53 K, x(Sn) 0.37568–0.43141 | 41 | 3 |
 | [PD2SN_B82](#phase-pd-sn-pd2sn-b82); _phase:pd-sn:pd2sn-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 750.66–1558.9 K, x(Sn) 0.34276–0.37649 | 24 | 3 |
 | [PD2SN_C37](#phase-pd-sn-pd2sn-c37); _phase:pd-sn:pd2sn-c37_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1094.09 K, x(Sn) 0.333–0.33333 | 8 | 3 |
 | [PD3SN_L12](#phase-pd-sn-pd3sn-l12); _phase:pd-sn:pd3sn-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1600.79 K, x(Sn) 0.22909–0.25168 | 19 | 3 |
 | [PD3SN2_ALPHA](#phase-pd-sn-pd3sn2-alpha); _phase:pd-sn:pd3sn2-alpha_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–823.1 K, x(Sn) 0.4–0.4 | 3 | 3 |
 | [PD3SN2_BETA](#phase-pd-sn-pd3sn2-beta); _phase:pd-sn:pd3sn2-beta_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 822.86–1090 K, x(Sn) 0.4–0.4 | 7 | 3 |
 | [PD3SN2_DELTA](#phase-pd-sn-pd3sn2-delta); _phase:pd-sn:pd3sn2-delta_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–800 K, x(Sn) 0.41–0.41 | 8 | 3 |
-| [PD5SN7](#phase-pd-sn-pd5sn7); _phase:pd-sn:pd5sn7_ | Pd5Sn7 · mC26 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–890.01 K, x(Sn) 0.58333–0.58333 | 6 | 1 |
+| [PD5SN7](#phase-pd-sn-pd5sn7); _phase:pd-sn:pd5sn7_ | Pd5Sn7 · mC26 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–890.01 K, x(Sn) 0.58333–0.58333 | 9 | 1 |
 | [PDSN_B31](#phase-pd-sn-pdsn-b31); _phase:pd-sn:pdsn-b31_ | MnP · B31 · oP8 · Pnma (62) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1083.22 K, x(Sn) 0.5–0.50828 | 13 | 3 |
-| [PDSN2](#phase-pd-sn-pdsn2); _phase:pd-sn:pdsn2_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–873.21 K, x(Sn) 0.66667–0.68052 | 18 | 3 |
-| [PDSN3](#phase-pd-sn-pdsn3); _phase:pd-sn:pdsn3_ | PdSn3 · oC32 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–618.61 K, x(Sn) 0.73658–0.74955 | 19 | 3 |
+| [PDSN2](#phase-pd-sn-pdsn2); _phase:pd-sn:pdsn2_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–873.21 K, x(Sn) 0.66667–0.68052 | 24 | 3 |
+| [PDSN3](#phase-pd-sn-pdsn3); _phase:pd-sn:pdsn3_ | PdSn3 · oC32 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–618.61 K, x(Sn) 0.73658–0.74955 | 25 | 3 |
 | [PDSN4_D1C](#phase-pd-sn-pdsn4-d1c); _phase:pd-sn:pdsn4-d1c_ | PtSn4 · D1_c · oC20 · Ccce (68) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–567.97 K, x(Sn) 0.7956–0.8 | 10 | 3 |
 
 ## DIAMOND_A4 (Pd–Sn)
@@ -306,7 +306,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1173.53 K, x(Sn) 0.37568–0.43141
-- Literature: 37 values (37 accepted) from 2 papers
+- Literature: 41 values (41 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-sn:pd20sn13)
 
 Names (6): _corpus: _corpus:phase:pd-sn:pd20sn13  
@@ -337,7 +337,7 @@ _tdb: _tdb:PdSn-06Viz.tdb:PD20SN13, tdb:PdSn-20Cui.tdb:PD20SN13, tdb:PdSn-99Gho-
 73: CONST PD20SN13 : PD% SN : PD SN% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.intermet.2020.106945](https://doi.org/10.1016/j.intermet.2020.106945) Senlin Cui, Jian Wang, Zhimin You, Ralph E. Napolitano, Critical evaluation and thermodynamic modeling of the Pd–Sn system, Intermetallics 126, 106945 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -348,6 +348,8 @@ _cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(59)90005-0](https://doi.org/10.1016/0022-5088%2859%2990005-0) J.R. Knight, D.W. Rhys, The systems palladium - indium and palladium - tin, Journal of the Less Common Metals 1, 292-303 (1959).  
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1959-500907](https://doi.org/10.1515/ijmr-1959-500907) Konrad Schubert, Hans Lukas, Hans Meißner, Suraj Bhan, Zum Aufbau der Systeme Kobalt-Gallium, Palladium-Gallium, Palladium-Zinn und verwandter Legierungen, International Journal of Materials Research 50, 534-540 (1959).  
+_cited as the source of values for this phase_
+- [doi:10.1107/s2056989015011366](https://doi.org/10.1107/s2056989015011366) Wilhelm Klein, Hanpeng Jin, Viktor Hlukhyy, Thomas F. Fässler, \`Pd\<sub>20\</sub>Sn\<sub>13\</sub>' revisited: crystal structure of Pd\<sub>6.69\</sub>Sn\<sub>4.31\</sub>, Acta Crystallogr E Cryst Commun 71, 807-809 (2015).  
 _cited as the source of values for this phase_
 
 ## PD2SN_B82 (Pd–Sn)
@@ -648,7 +650,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 1 of 1 calculated diagram(s): 300–890.01 K, x(Sn) 0.58333–0.58333
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-sn:pd5sn7)
 
 Names (3): _corpus: _corpus:phase:pd-sn:pd5sn7  
@@ -665,10 +667,12 @@ _tdb: _tdb:PdSn-20Cui.tdb:PD5SN7
 98: CONST PD5SN7 : PD% SN : SN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.intermet.2020.106945](https://doi.org/10.1016/j.intermet.2020.106945) Senlin Cui, Jian Wang, Zhimin You, Ralph E. Napolitano, Critical evaluation and thermodynamic modeling of the Pd–Sn system, Intermetallics 126, 106945 (2020).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2010.01.153](https://doi.org/10.1016/j.jallcom.2010.01.153) V.V. Romaka, A. Tkachuk, V.A. Romaka, Pd5Sn7—A novel binary stannide in Pd–Sn system, Journal of Alloys and Compounds 496, L7-L9 (2010).  
+_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(59)90005-0](https://doi.org/10.1016/0022-5088%2859%2990005-0) J.R. Knight, D.W. Rhys, The systems palladium - indium and palladium - tin, Journal of the Less Common Metals 1, 292-303 (1959).  
 _cited as the source of values for this phase_
 
@@ -729,7 +733,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): PdSn2 · tI48 · I4_1/acd — PdSn-20Cui.tdb: 'Prototype PdSn2 (tI48, I4_1/acd)'
 - Candidate (tdb_comment): PdSn2 · tI48 · I4_1/acd — PdSn-99Gho-LB.tdb: 'Prototype PdSn2 (tI48, I4_1/acd)'
 - Stability: stable in 3 of 3 calculated diagram(s): 300–873.21 K, x(Sn) 0.66667–0.68052
-- Literature: 18 values (18 accepted) from 2 papers
+- Literature: 24 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-sn:pdsn2)
 
 Names (6): _corpus: _corpus:phase:pd-sn:pdsn2  
@@ -760,7 +764,7 @@ _tdb: _tdb:PdSn-06Viz.tdb:PDSN2, tdb:PdSn-20Cui.tdb:PDSN2, tdb:PdSn-99Gho-LB.tdb
 98: CONST PDSN2 : PD% SN : SN : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.intermet.2020.106945](https://doi.org/10.1016/j.intermet.2020.106945) Senlin Cui, Jian Wang, Zhimin You, Ralph E. Napolitano, Critical evaluation and thermodynamic modeling of the Pd–Sn system, Intermetallics 126, 106945 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -770,7 +774,13 @@ _assessment that models this phase_
 _cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(59)90005-0](https://doi.org/10.1016/0022-5088%2859%2990005-0) J.R. Knight, D.W. Rhys, The systems palladium - indium and palladium - tin, Journal of the Less Common Metals 1, 292-303 (1959).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.solidstatesciences.2003.09.011](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) J. Nylén, F.J. Garcı̀a Garcı̀a, B.D. Mosel, R. Pöttgen, U. Häussermann, Structural relationships, phase stability and bonding of compounds PdSnn (n=2, 3, 4), Solid State Sciences 6, 147-155 (2004).  
+_cited as the source of values for this phase_
+- [doi:10.1016/s0925-8388(00)01042-2](https://doi.org/10.1016/s0925-8388%2800%2901042-2) Bernd Künnen, Dirk Niepmann, Wolfgang Jeitschko, Structure refinements and some properties of the transition metal stannides Os3Sn7, Ir5Sn7, Ni0.402(4)Pd0.598Sn4, α-PdSn2 and PtSn4, Journal of Alloys and Compounds 309, 1-9 (2000).  
+_cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1959-500907](https://doi.org/10.1515/ijmr-1959-500907) Konrad Schubert, Hans Lukas, Hans Meißner, Suraj Bhan, Zum Aufbau der Systeme Kobalt-Gallium, Palladium-Gallium, Palladium-Zinn und verwandter Legierungen, International Journal of Materials Research 50, 534-540 (1959).  
+_cited as the source of values for this phase_
+- [doi:10.1524/zkri.1956.107.1-2.99](https://doi.org/10.1524/zkri.1956.107.1-2.99) Erwin Hellner, Flußspat-Misch-Typen\<sup>1\</sup>, Zeitschrift für Kristallographie 107, 99-123 (1956).  
 _cited as the source of values for this phase_
 
 ## PDSN3 (Pd–Sn)
@@ -780,7 +790,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 3 of 3 calculated diagram(s): 300–618.61 K, x(Sn) 0.73658–0.74955
-- Literature: 19 values (19 accepted) from 2 papers
+- Literature: 25 values (25 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-sn:pdsn3)
 
 Names (6): _corpus: _corpus:phase:pd-sn:pdsn3  
@@ -811,7 +821,7 @@ _tdb: _tdb:PdSn-06Viz.tdb:PDSN3, tdb:PdSn-20Cui.tdb:PDSN3, tdb:PdSn-99Gho-LB.tdb
 103: CONST PDSN3 : PD : PD SN% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.intermet.2020.106945](https://doi.org/10.1016/j.intermet.2020.106945) Senlin Cui, Jian Wang, Zhimin You, Ralph E. Napolitano, Critical evaluation and thermodynamic modeling of the Pd–Sn system, Intermetallics 126, 106945 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -819,6 +829,10 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1007/s11661-999-0191-9](https://doi.org/10.1007/s11661-999-0191-9) G. Ghosh, Thermodynamic modeling of the palladium-lead-tin system, Metall Mater Trans A 30, 5-18 (1999).  
 _cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1007/bf00600681](https://doi.org/10.1007/bf00600681) K. Schubert, H. Breimer, R. Gohle, H. L. Lukas, H. G. Meissner, E. Stolz, Einige strukturelle Ergebnisse an metallischen Phasen III, Naturwissenschaften 45, 360-361 (1958).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.solidstatesciences.2003.09.011](https://doi.org/10.1016/j.solidstatesciences.2003.09.011) J. Nylén, F.J. Garcı̀a Garcı̀a, B.D. Mosel, R. Pöttgen, U. Häussermann, Structural relationships, phase stability and bonding of compounds PdSnn (n=2, 3, 4), Solid State Sciences 6, 147-155 (2004).  
+_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(59)90005-0](https://doi.org/10.1016/0022-5088%2859%2990005-0) J.R. Knight, D.W. Rhys, The systems palladium - indium and palladium - tin, Journal of the Less Common Metals 1, 292-303 (1959).  
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1959-500907](https://doi.org/10.1515/ijmr-1959-500907) Konrad Schubert, Hans Lukas, Hans Meißner, Suraj Bhan, Zum Aufbau der Systeme Kobalt-Gallium, Palladium-Gallium, Palladium-Zinn und verwandter Legierungen, International Journal of Materials Research 50, 534-540 (1959).  

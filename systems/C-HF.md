@@ -93,13 +93,13 @@ Table: Crystal structure, C–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 2.4612 Å | 298.15 | (C); _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3; `ORC-RO2ZGX2BFQ.1d583b` |  |
 | Lattice a | 3.1946 Å | 298.15 | (αHf); _(αHf): C 0.15, Hf 0.85_ | unspecified | [1] Bittermann 1997 | Table 2, p. 2, row 1; `ORC-2TRBOQCDKH.519ffb` |  |
 | Lattice a | 4.62225 Å (range 4.606 to 4.6385) | 298.15 | HfC1−x | experimental | [1] Bittermann 1997; _cites Rudy 1969_ | Table 2, p. 2, row 4; `ORC-TIA5MI3IL7` |  |
-| Lattice a | 2.4612 Å | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3; `ORC-RO2ZGX2BFQ.1d583b` |  |
 | Lattice a | 4.6385 Å | 3942 (\<) | HfC1-x; _HfC1-x: C 0.495_ | unspecified | [2] Bittermann 2002; _cites ref. 1969Rud_ | Table 1, p. 4, row 21; `ORC-JDF4VPRIP4` |  |
+| Lattice c | 6.709 Å | 298.15 | (C); _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3; `ORC-RO2ZGX2BFQ.03b113` |  |
 | Lattice c | 5.051 Å | 298.15 | (αHf); _(αHf): C 0.15, Hf 0.85_ | unspecified | [1] Bittermann 1997 | Table 2, p. 2, row 1; `ORC-2TRBOQCDKH.cab331` |  |
-| Lattice c | 6.709 Å | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3; `ORC-RO2ZGX2BFQ.03b113` |  |
-| lattice c a | 2.7258 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3; `ORC-RO2ZGX2BFQ.b24e3d` |  |
+| lattice c a | 2.7258 not_printed | 298.15 | (C); _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3; `ORC-RO2ZGX2BFQ.b24e3d` |  |
 
 ## Sources
 

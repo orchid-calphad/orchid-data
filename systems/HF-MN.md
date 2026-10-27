@@ -117,17 +117,17 @@ Table: Crystal structure, Hf–Mn system
 | Lattice a | 4.96 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7; `ORC-BEF5EZPIVV.2fbafc` |  |
 | Lattice a | 4.9464 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9; `ORC-KRGOBA7JPX.ec4f75` |  |
 | Lattice a | 5.016 Å | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11; `ORC-ZCCHNB7Q37.ba3518` |  |
-| Lattice a | 0.49849 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1; `ORC-EY55RW5MJB.5b2ec5` |  |
+| Lattice a | 0.49849 not_printed ± 2.000e-5 | 300 | HfMn2; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1; `ORC-EY55RW5MJB.5b2ec5` |  |
 | Lattice a | 5.007 Å | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6; `ORC-7D3LKG2P63.a03134` |  |
 | Lattice a | 3.1949 Å | 1743 (\<) | (αHf); _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 1; `ORC-GEOY6RH5TL` |  |
-| Lattice a | 3.615 Å | 1987 | UNKNOWN; _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 2; `ORC-SA47A4S3NM` |  |
-| Lattice b | 0.49849 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1; `ORC-EY55RW5MJB.05b428` |  |
+| Lattice a | 3.615 Å | 1987 | (βHf); _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 2; `ORC-SA47A4S3NM` |  |
+| Lattice b | 0.49849 not_printed ± 2.000e-5 | 300 | HfMn2; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1; `ORC-EY55RW5MJB.05b428` |  |
 | Lattice c | 8.23508 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10; `ORC-24CLTWBNZR.308f7f` |  |
 | Lattice c | 8.122 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8; `ORC-7PZWQQAQ35.d126a3` |  |
 | Lattice c | 8.147 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7; `ORC-BEF5EZPIVV.a33a5b` |  |
 | Lattice c | 8.0964 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9; `ORC-KRGOBA7JPX.8decd6` |  |
 | Lattice c | 16.367 Å | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11; `ORC-ZCCHNB7Q37.0dc36b` |  |
-| Lattice c | 0.81987 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1; `ORC-EY55RW5MJB.7fbfcd` |  |
+| Lattice c | 0.81987 not_printed ± 2.000e-5 | 300 | HfMn2; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1; `ORC-EY55RW5MJB.7fbfcd` |  |
 | Lattice c | 8.236 Å | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6; `ORC-7D3LKG2P63.a3af44` |  |
 
 ## Sources

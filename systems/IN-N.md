@@ -1,10 +1,10 @@
 # In–N system
 
-> In–N system: 23 accepted literature values (phase transition 13, formation 9, heat capacity / entropy / enthalpy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–N system: 33 accepted literature values (phase transition 13, heat capacity / entropy / enthalpy 11, formation 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-N.html · Markdown: https://data.orchid-project.org/systems/IN-N.md
 
-23 accepted literature values from 1 paper(s) (experimental 22, model 1); 1 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+33 accepted literature values from 1 paper(s) (experimental 22, model 7, unspecified 4); 1 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-N.json) · [CSV](https://data.orchid-project.org/systems/IN-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-N/InN-02Ond.json) · [phases (8)](https://data.orchid-project.org/phases/pages/IN-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-N.html) · [Markdown](https://data.orchid-project.org/systems/IN-N.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 22 |
-| model | 1 |
+| model | 7 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
@@ -21,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 13 |
 | formation | 9 |
-| heat capacity / entropy / enthalpy | 1 |
+| heat capacity / entropy / enthalpy | 11 |
 
 ## Calculated phase diagrams
 
@@ -81,13 +82,23 @@ Table: Phase transition, In–N system
 | Phase transition | 973 K | 973 (>) | Decomposition of pure InN powder under high N2 pressure, XRD; _alloy: N 0_ | experimental | [1] Onderka 2002; _cites Grzegory 1994_ | Table V, p. 14, row 8; `ORC-Z2BBG7YMGF` |  |
 | Phase transition | 983 K | 983 | Decomposition of InN crystallites (10–50 μm) under high pressure, XRD; _alloy: N 0.5_ | experimental | [1] Onderka 2002; _cites Krukowski 1998_ | Table V, p. 14, row 11; `ORC-JSPC72FTUB` |  |
 
-### Heat capacity / entropy / enthalpy (1)
+### Heat capacity / entropy / enthalpy (11)
 
 Table: Heat capacity / entropy / enthalpy, In–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S°298_ | 43.5 J/mol-formula K | 298.15 | InN | unspecified | [1] Onderka 2002; _cites Kubaschewski 1993_ | Table AI, p. 18, row 45; `ORC-BJLFPJ6KS7` |  |
+| Entropy; _printed: ΔmS_ | 60.2 J/mol-formula K | 298.15 | InN | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 36; `ORC-I6XTVMEJDL` |  |
+| Entropy; _printed: ΔmS_ | 59 J/mol-formula K | 298.15 | InN | model | [1] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 35; `ORC-M5IMCTZMIJ` |  |
+| Entropy; _printed: S°298_ | 31.6 J/mol-formula K | 298.15 | InN | model | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.159449` |  |
+| Entropy; _printed: ΔmS_ | 42.6 J/mol-formula K | 831 | InN | unspecified | [1] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 31; `ORC-XWQKUVQLKS` |  |
+| Entropy; _printed: ΔmS_ | 65 J/mol-formula K | 1714 | InN | model | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.4ba778` |  |
 | Heat capacity; _printed: Cp_ | 38.65 J/mol-formula K | 293 | InN | experimental | [1] Onderka 2002; _cites Krukowski 1999_ | p. 8; `ORC-AXP6OUA6CQ` | “calorimetry (DSC) on crystallites 10-50 ␮m in size in the temperature range 153-293 K as given in Fig. 9 from the tabulated data of Ref. 25, where Cp (293 K) ⳱ 38.65 J/ mol-formula K is reported.” |
+| Heat capacity; _printed: Cp,298_ | 45.14 J/mol (basis unstated)/K | 298.15 | InN | unspecified | [1] Onderka 2002; _cites Marina 1971_ | Table AI, p. 18, row 37; `ORC-ISOLZ6MPY4` |  |
+| Heat capacity; _printed: Cp,298_ | 41.52 J/mol (basis unstated)/K | 298.15 | InN | model | [1] Onderka 2002; _cites Landolt-Boernstein 1982_ | Table AI, p. 18, row 38; `ORC-TF3YPZYSUB` |  |
+| Heat capacity; _printed: Cp,298_ | 39.8 J/mol (basis unstated)/K | 298.15 | InN | unspecified | [1] Onderka 2002; _cites Krukowski 1998_ | Table AI, p. 18, row 39; `ORC-WHOQPRO5B4` |  |
+| Heat capacity; _printed: Cp,298_ | 39.1 J/mol (basis unstated)/K | 298.15 | InN | model | [1] Onderka 2002 | Table AI, p. 18, row 34; `ORC-XNU2NBVYIG.d8da6f` |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # O–Rh system
 
-> O–Rh system: 12 accepted literature values (formation 7, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Rh system: 16 accepted literature values (formation 7, invariant reaction 5, crystal structure 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-RH.html · Markdown: https://data.orchid-project.org/systems/O-RH.md
 
-12 accepted literature values from 1 paper(s) (experimental 9, model 3); 0 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+16 accepted literature values from 1 paper(s) (experimental 9, model 3, DFT 4); 0 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-RH.json) · [CSV](https://data.orchid-project.org/systems/O-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-RH) · [phases (8)](https://data.orchid-project.org/phases/pages/O-RH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-RH.html) · [Markdown](https://data.orchid-project.org/systems/O-RH.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 9 |
 | model | 3 |
+| DFT | 4 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | formation | 7 |
+| crystal structure | 4 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-RH.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-RH.json)
 
@@ -51,6 +53,19 @@ Table: Enthalpies of formation, O–Rh system (7)
 | Rh2O3 |  | -360 kJ/mol (basis unstated) ± 3 | 1016 | experimental |  |  | [1] Gossé 2018; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 1, p. 3, row 3; `ORC-4ZBNK6ET3L.40da5e` |  |
 | Rh2O3 |  | -340.72 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Schmahl 1964_ [doi](https://doi.org/10.1524/zpch.1964.41.1_2.078) | Table 1, p. 3, row 5; `ORC-2SFDDBKJJV` |  |
 | Rh2O3 |  | -338.21 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Tagirov 1975_ | Table 1, p. 3, row 4; `ORC-ILHSIAGOM5` |  |
+
+## Other properties
+
+### Crystal structure (4)
+
+Table: Crystal structure, O–Rh system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.208 Å |  | Rh2O3 | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.d627ca` |  |
+| Lattice a | 4.489 Å |  | RhO2 | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.f82231` |  |
+| Lattice c | 14.155 Å |  | Rh2O3 | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.3d55fd` |  |
+| Lattice c | 3.09 Å |  | RhO2 | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.b6a5a1` |  |
 
 ## Sources
 

@@ -59,9 +59,9 @@ Table: Crystal structure, Hf–Mn–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.17935 not_printed ± 3.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.516, Mn 0.429, O 0.055_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 2; `ORC-PIOTGJ5IZD.94220d` |  |
-| Lattice b | 1.17935 not_printed ± 3.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.516, Mn 0.429, O 0.055_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 2; `ORC-PIOTGJ5IZD.ad7a83` |  |
-| Lattice c | 1.17935 not_printed ± 3.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.516, Mn 0.429, O 0.055_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 2; `ORC-PIOTGJ5IZD.f98889` |  |
+| Lattice a | 1.17935 not_printed ± 3.000e-5 | 300 | Hf3+xMn3-xOy; _alloy: Hf 0.516, Mn 0.429, O 0.055_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 2; `ORC-PIOTGJ5IZD.94220d` |  |
+| Lattice b | 1.17935 not_printed ± 3.000e-5 | 300 | Hf3+xMn3-xOy; _alloy: Hf 0.516, Mn 0.429, O 0.055_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 2; `ORC-PIOTGJ5IZD.ad7a83` |  |
+| Lattice c | 1.17935 not_printed ± 3.000e-5 | 300 | Hf3+xMn3-xOy; _alloy: Hf 0.516, Mn 0.429, O 0.055_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 2; `ORC-PIOTGJ5IZD.f98889` |  |
 
 ## Sources
 

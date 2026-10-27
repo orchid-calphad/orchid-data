@@ -309,19 +309,19 @@ Table: Heat capacity / entropy / enthalpy, Fe–Gd system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: °ST_ | 38.6 per mol-atom ± 0.5 | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 15; `ORC-3CGZJZTPCB.80b343` |  |
 | Entropy; _printed: °ST_ | 38.6 J/mol-atom/K ± 0.5 | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 15; `ORC-3CGZJZTPCB.875a26` |  |
 | Entropy; _printed: S°_ | 38.63 J/mol-atom/K ± 0.5 | 298.15 | Fe2Gd; _alloy: Fe 0.667, Gd 0.333_ | experimental | [3] Zinkevich 2000; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 2, p. 3, row 6; `ORC-7XTBZMJVLP` |  |
+| Entropy; _printed: °ST_ | 38.58 per mol-atom | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 17; `ORC-OGXJFQYTNN.0dd00b` |  |
 | Entropy; _printed: °ST_ | 38.58 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 17; `ORC-OGXJFQYTNN.b80c81` |  |
 | Entropy; _printed: °ST_ | 38.62 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 16; `ORC-YQBNZ6JUFR.e9af3a` |  |
-| Entropy; _printed: °ST_ | 38.6 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 15; `ORC-3CGZJZTPCB.80b343` |  |
-| Entropy; _printed: °ST_ | 38.58 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 17; `ORC-OGXJFQYTNN.0dd00b` |  |
-| Entropy; _printed: °ST_ | 38.62 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 16; `ORC-YQBNZ6JUFR.fe43f0` |  |
+| Entropy; _printed: °ST_ | 38.62 per mol-atom | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 16; `ORC-YQBNZ6JUFR.fe43f0` |  |
 | Heat capacity; _printed: CP_ | 29.18 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 20; `ORC-BPMLEIWQZ5.621102` |  |
+| Heat capacity; _printed: CP_ | 29.18 per mol-atom | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 20; `ORC-BPMLEIWQZ5.d8269d` |  |
+| Heat capacity; _printed: CP_ | 27.8 per mol-atom | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 19; `ORC-NTQCLN4CPW.5e6805` |  |
 | Heat capacity; _printed: CP_ | 27.8 J/mol-atom/K | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 19; `ORC-NTQCLN4CPW.b9ffa9` |  |
 | Heat capacity; _printed: CP_ | 29.2 J/mol-atom/K ± 0.5 | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 18; `ORC-XV3BI7QYUX.1323e3` |  |
-| Heat capacity; _printed: CP_ | 29.18 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002 | Table 12, p. 13, row 20; `ORC-BPMLEIWQZ5.d8269d` |  |
-| Heat capacity; _printed: CP_ | 27.8 per mol-atom | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | model | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 19; `ORC-NTQCLN4CPW.5e6805` |  |
-| Heat capacity; _printed: CP_ | 29.2 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 18; `ORC-XV3BI7QYUX.3c44ad` |  |
+| Heat capacity; _printed: CP_ | 29.2 per mol-atom ± 0.5 | 298.15 | Fe2Gd; _alloy: Gd 0.333333_ | experimental | [2] Zinkevich 2002; _cites Germano 1981_ | Table 12, p. 13, row 18; `ORC-XV3BI7QYUX.3c44ad` |  |
 
 ## Sources
 

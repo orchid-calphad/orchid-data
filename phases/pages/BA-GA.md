@@ -13,9 +13,9 @@ Table: Phases of the Ba–Ga system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-ba-ga-a11-orthorhombic); _phase:ba-ga:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–302.91 K, x(Ga) 1–1 | 0 | 1 |
-| [BA10GA](#phase-ba-ga-ba10ga); _phase:ba-ga:ba10ga_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–730.01 K, x(Ga) 0.09091–0.09091 | 0 | 1 |
-| [BA5GA6](#phase-ba-ga-ba5ga6); _phase:ba-ga:ba5ga6_ | Ba5Ga6 · hP24 · P-6c2 (188) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–859.7 K, x(Ga) 0.54545–0.54545 | 0 | 1 |
-| [BA8GA7](#phase-ba-ga-ba8ga7); _phase:ba-ga:ba8ga7_ | Ba8Ga7 · cP60 · P2_13 (198) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–830.03 K, x(Ga) 0.46667–0.46667 | 1 | 1 |
+| [BA10GA](#phase-ba-ga-ba10ga); _phase:ba-ga:ba10ga_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–730.01 K, x(Ga) 0.09091–0.09091 | 1 | 1 |
+| [BA5GA6](#phase-ba-ga-ba5ga6); _phase:ba-ga:ba5ga6_ | Ba5Ga6 · hP24 · P-6c2 (188) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–859.7 K, x(Ga) 0.54545–0.54545 | 2 | 1 |
+| [BA8GA7](#phase-ba-ga-ba8ga7); _phase:ba-ga:ba8ga7_ | Ba8Ga7 · cP60 · P2_13 (198) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–830.03 K, x(Ga) 0.46667–0.46667 | 3 | 1 |
 | [BAGA2_C32](#phase-ba-ga-baga2-c32); _phase:ba-ga:baga2-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1153.55 K, x(Ga) 0.66667–0.66667 | 0 | 1 |
 | [BAGA4_D13](#phase-ba-ga-baga4-d13); _phase:ba-ga:baga4-d13_ | Al4Ba · D1_3 · tI10 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1297.22 K, x(Ga) 0.8–0.8 | 0 | 1 |
 | [BCC_A2](#phase-ba-ga-bcc-a2); _phase:ba-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1000 K, x(Ga) 0–1e-05 | 0 | 1 |
@@ -54,14 +54,16 @@ _assessment that models this phase_
 
 - Id: `phase:ba-ga:ba10ga`; status `needs_review`
 - No structure assigned. Why: assessment_declared_compound_differs_from_model_composition; no_on_hull_entry_in_both; no_structure_token
+- Candidate (literature_printed): VAl10 · cF176 — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): Al10V · cF176 · Fd-3m (227) — Hallstedt 2025 mmc2 row for BA10GA: Ba19Ga
 - Candidate (tdb_comment): Al10V · cF176 · Fd-3m — BaGa-13Li.tdb: 'Prototype Al10V (cF176, Fd-3m)'
 - Stoichiometry: Ba 0.9091, Ga 0.0909
 - Stability: stable in 1 of 1 calculated diagram(s): 300–730.01 K, x(Ga) 0.09091–0.09091
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ga:ba10ga)
 
-Names (2): _corpus: _corpus:phase:ba-ga:ba10ga  
+Names (3): _corpus: _corpus:phase:ba-ga:ba10ga  
+_paper: _paper:10.1016/j.calphad.2013.09.002:Ba10Ga  
 _tdb: _tdb:BaGa-13Li.tdb:BA10GA  
 
 
@@ -77,7 +79,7 @@ _tdb: _tdb:BaGa-13Li.tdb:BA10GA
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.09.002](https://doi.org/10.1016/j.calphad.2013.09.002) Xi Li, Kaiming Cheng, Xiaoming Yuan, Dongdong Zhao, Jinghua Xin, Weiwei Wang et al., Thermodynamic assessment of the Ga–X (X=B, Ca, Sr, Ba) systems supported by first-principles calculations, Calphad 43, 52-60 (2013).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## BA5GA6 (Ba–Ga)
 
@@ -87,10 +89,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ba 0.4545, Ga 0.5455
 - Stability: stable in 1 of 1 calculated diagram(s): 300–859.7 K, x(Ga) 0.54545–0.54545
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ga:ba5ga6)
 
-Names (2): _corpus: _corpus:phase:ba-ga:ba5ga6  
+Names (3): _corpus: _corpus:phase:ba-ga:ba5ga6  
+_paper: _paper:10.1016/j.calphad.2013.09.002:Ba5Ga6  
 _tdb: _tdb:BaGa-13Li.tdb:BA5GA6  
 
 
@@ -103,10 +106,12 @@ _tdb: _tdb:BaGa-13Li.tdb:BA5GA6
 57: CONST BA5GA6 : BA : GA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.09.002](https://doi.org/10.1016/j.calphad.2013.09.002) Xi Li, Kaiming Cheng, Xiaoming Yuan, Dongdong Zhao, Jinghua Xin, Weiwei Wang et al., Thermodynamic assessment of the Ga–X (X=B, Ca, Sr, Ba) systems supported by first-principles calculations, Calphad 43, 52-60 (2013).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0925-8388(94)90786-2](https://doi.org/10.1016/0925-8388%2894%2990786-2) M.L. Fornasini, M. Pani, Ba5Ga6: a phase with octahedral clusters of gallium, Journal of Alloys and Compounds 205, 179-181 (1994).  
+_cited as the source of values for this phase_
 
 ## BA8GA7 (Ba–Ga)
 
@@ -114,7 +119,7 @@ _assessment that models this phase_
 - Structure: Ba8Ga7 · cP60 · P2_13 (198); type `st:ba8ga7-cp60`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ba 0.5333, Ga 0.4667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–830.03 K, x(Ga) 0.46667–0.46667
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ga:ba8ga7)
 
 Names (5): _corpus: _corpus:phase:ba-ga:ba8ga7  

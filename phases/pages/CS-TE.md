@@ -18,7 +18,7 @@ Table: Phases of the Cs–Te system (15)
 | [CS2TE_LT](#phase-cs-te-cs2te-lt); _phase:cs-te:cs2te-lt_ | Cs2S · oP12 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–895 K, x(Te) 0.33333–0.33333 | 4 | 1 |
 | [CS2TE3](#phase-cs-te-cs2te3); _phase:cs-te:cs2te3_ | K2S3 · oC20 · Cmc2_1 (36) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–665.76 K, x(Te) 0.6–0.6 | 10 | 1 |
 | [CS2TE5](#phase-cs-te-cs2te5); _phase:cs-te:cs2te5_ | Cs2Te5 · oC28 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–508.54 K, x(Te) 0.71429–0.71429 | 7 | 1 |
-| [CS5TE3](#phase-cs-te-cs5te3); _phase:cs-te:cs5te3_ | K5Se3 · mC32 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–934.23 K, x(Te) 0.375–0.375 | 10 | 1 |
+| [CS5TE3](#phase-cs-te-cs5te3); _phase:cs-te:cs5te3_ | K5Se3 · mC32 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–934.23 K, x(Te) 0.375–0.375 | 11 | 1 |
 | [CSTE_LT](#phase-cs-te-cste); _phase:cs-te:cste_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–673.58 K, x(Te) 0.4898–0.4898 | 5 | 1 |
 | [CSTE_B2](#phase-cs-te-cste-b2); _phase:cs-te:cste-b2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 673.58–730 K, x(Te) 0.4898–0.4898 | 3 | 1 |
 | [CSTE4](#phase-cs-te-cste4); _phase:cs-te:cste4_ | CsTe4 · mP20 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–528.55 K, x(Te) 0.8–0.8 | 9 | 1 |
@@ -219,7 +219,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cs 0.6250, Te 0.3750
 - Stability: stable in 1 of 1 calculated diagram(s): 300–934.23 K, x(Te) 0.375–0.375
-- Literature: 10 values (9 accepted) from 1 papers
+- Literature: 11 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-te:cs5te3)
 
 Names (4): _corpus: _corpus:phase:cs-te:cs5te3  

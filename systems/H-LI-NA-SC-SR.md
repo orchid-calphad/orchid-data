@@ -1,10 +1,10 @@
 # H–Li–Na–Sc–Sr system
 
-> H–Li–Na–Sc–Sr system: 5 accepted literature values (crystal structure 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Li–Na–Sc–Sr system: 2 accepted literature values (crystal structure 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-LI-NA-SC-SR.html · Markdown: https://data.orchid-project.org/systems/H-LI-NA-SC-SR.md
 
-5 accepted literature values from 1 paper(s) (experimental 3, model 2); 0 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (model 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-LI-NA-SC-SR.json) · [CSV](https://data.orchid-project.org/systems/H-LI-NA-SC-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LI-NA-SC-SR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-LI-NA-SC-SR.html) · [Markdown](https://data.orchid-project.org/systems/H-LI-NA-SC-SR.md)
 
@@ -12,28 +12,24 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
 | model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 5 |
+| crystal structure | 2 |
 
 ## Other properties
 
-### Crystal structure (5)
+### Crystal structure (2)
 
 Table: Crystal structure, H–Li–Na–Sc–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.771 Å | 298.15 | (H); _alloy: Li 0, Na 0, Sc 0, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 1; `ORC-JSFVLAJQO4.2ecd7b` |  |
-| Lattice a | 6.364 Å | 1128.15 (\<) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8; `ORC-IDFF43CD45.6d82af` |  |
-| Lattice b | 3.875 Å | 1128.15 (\<) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8; `ORC-IDFF43CD45.329fef` |  |
 | Lattice c | 16.31 Å | 298.15 | (H); _alloy: Li 0, Na 0, Sc 0, Sr 0_ | model | [1] Chen 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 2, row 1; `ORC-JSFVLAJQO4.735ad4` |  |
-| Lattice c | 7.343 Å | 1128.15 (\<) | UNKNOWN; _alloy: Li 0, Na 0, Sc 0, Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8; `ORC-IDFF43CD45.3d21c9` |  |
 
 ## Sources
 

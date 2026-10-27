@@ -38,12 +38,12 @@ Table: Crystal structure, Hf–O–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 3.198 Å | 0 | HCP_A3 (Hf); _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1; `ORC-QFMHTQTNMY.cbd710` |  |
 | Lattice a | 6.616 Å | 0 | HfSiO4; _alloy: O 0.666667, Si 0.166667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 8; `ORC-P4GZ6FIB26.ad9114` |  |
-| Lattice a | 3.198 Å | 0 | UNKNOWN; _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1; `ORC-QFMHTQTNMY.cbd710` |  |
+| Lattice b | 3.198 Å | 0 | HCP_A3 (Hf); _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1; `ORC-QFMHTQTNMY.70631f` |  |
 | Lattice b | 6.616 Å | 0 | HfSiO4; _alloy: O 0.666667, Si 0.166667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 8; `ORC-P4GZ6FIB26.94d2d8` |  |
-| Lattice b | 3.198 Å | 0 | UNKNOWN; _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1; `ORC-QFMHTQTNMY.70631f` |  |
+| Lattice c | 5.053 Å | 0 | HCP_A3 (Hf); _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1; `ORC-QFMHTQTNMY.1e3b90` |  |
 | Lattice c | 6.004 Å | 0 | HfSiO4; _alloy: O 0.666667, Si 0.166667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 8; `ORC-P4GZ6FIB26.10b7d4` |  |
-| Lattice c | 5.053 Å | 0 | UNKNOWN; _alloy: O 0, Si 0_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 1; `ORC-QFMHTQTNMY.1e3b90` |  |
 
 ## Sources
 

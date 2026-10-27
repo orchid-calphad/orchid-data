@@ -14,15 +14,15 @@ Table: Phases of the Ca–Ga system (14)
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-ca-ga-a11-orthorhombic); _phase:ca-ga:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–302.91 K, x(Ga) 1–1 | 4 | 3 |
 | [BCC_A2](#phase-ca-ga-bcc-a2); _phase:ca-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 716.03–1128.27 K, x(Ga) 0–1e-05 | 4 | 3 |
-| [CA11GA7](#phase-ca-ga-ca11ga7); _phase:ca-ga:ca11ga7_ | Ca11Ga7 · cF144 · Fm-3m (225) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–927.96 K, x(Ga) 0.38889–0.38889 | 10 | 3 |
-| [CA25GA59](#phase-ca-ga-ca25ga59); _phase:ca-ga:ca25ga59_ | Ca25Ga59 · hP9 · P6/mmm (191) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1245.34 K, x(Ga) 0.70238–0.70238 | 8 | 3 |
-| [CA28GA11](#phase-ca-ga-ca28ga11); _phase:ca-ga:ca28ga11_ | Ca28Ga11 · oI178 · Imm2 (44) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–820.64 K, x(Ga) 0.28205–0.28205 | 9 | 3 |
-| [CA3GA5](#phase-ca-ga-ca3ga5); _phase:ca-ga:ca3ga5_ | Ca3Ga5 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1145.75 K, x(Ga) 0.625–0.625 | 9 | 3 |
-| [CA3GA8](#phase-ca-ga-ca3ga8); _phase:ca-ga:ca3ga8_ | Eu3Ga8 · oI22 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1202.84 K, x(Ga) 0.72727–0.72727 | 10 | 3 |
+| [CA11GA7](#phase-ca-ga-ca11ga7); _phase:ca-ga:ca11ga7_ | Ca11Ga7 · cF144 · Fm-3m (225) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–927.96 K, x(Ga) 0.38889–0.38889 | 12 | 3 |
+| [CA25GA59](#phase-ca-ga-ca25ga59); _phase:ca-ga:ca25ga59_ | Ca25Ga59 · hP9 · P6/mmm (191) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1245.34 K, x(Ga) 0.70238–0.70238 | 9 | 3 |
+| [CA28GA11](#phase-ca-ga-ca28ga11); _phase:ca-ga:ca28ga11_ | Ca28Ga11 · oI178 · Imm2 (44) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–820.64 K, x(Ga) 0.28205–0.28205 | 15 | 3 |
+| [CA3GA5](#phase-ca-ga-ca3ga5); _phase:ca-ga:ca3ga5_ | Ca3Ga5 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1145.75 K, x(Ga) 0.625–0.625 | 15 | 3 |
+| [CA3GA8](#phase-ca-ga-ca3ga8); _phase:ca-ga:ca3ga8_ | Eu3Ga8 · oI22 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1202.84 K, x(Ga) 0.72727–0.72727 | 14 | 3 |
 | [CA5GA3_D8L](#phase-ca-ga-ca5ga3-d8l); _phase:ca-ga:ca5ga3-d8l_ | Cr5B3 · D8_l · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–900.26 K, x(Ga) 0.375–0.375 | 8 | 3 |
 | [CAGA_B33](#phase-ca-ga-caga-b33); _phase:ca-ga:caga-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1086.77 K, x(Ga) 0.5–0.5 | 8 | 3 |
-| [CAGA2](#phase-ca-ga-caga2); _phase:ca-ga:caga2_ | CaIn2 · hP6 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1263.96 K, x(Ga) 0.66667–0.66667 | 16 | 3 |
-| [CAGA4](#phase-ca-ga-caga4); _phase:ca-ga:caga4_ | CaGa4 · mC10 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1027.43 K, x(Ga) 0.8–0.8 | 10 | 3 |
+| [CAGA2](#phase-ca-ga-caga2); _phase:ca-ga:caga2_ | CaIn2 · hP6 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1263.96 K, x(Ga) 0.66667–0.66667 | 20 | 3 |
+| [CAGA4](#phase-ca-ga-caga4); _phase:ca-ga:caga4_ | CaGa4 · mC10 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1027.43 K, x(Ga) 0.8–0.8 | 16 | 3 |
 | [FCC_A1](#phase-ca-ga-fcc-a1); _phase:ca-ga:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–716.03 K, x(Ga) 0–0 | 0 | 3 |
 | [HCP_A3](#phase-ca-ga-hcp-a3); _phase:ca-ga:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-ca-ga-liquid); _phase:ca-ga:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 301.69–2500 K, x(Ga) 0–1 | 46 | 3 |
@@ -122,7 +122,7 @@ _assessment that models this phase; reports values for this phase_
 - Structure: Ca11Ga7 · cF144 · Fm-3m (225); type `st:ca11ga7-cf144`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ca 0.6111, Ga 0.3889
 - Stability: stable in 3 of 3 calculated diagram(s): 300–927.96 K, x(Ga) 0.38889–0.38889
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ga:ca11ga7)
 
 Names (8): _corpus: _corpus:phase:ca-ga:ca11ga7  
@@ -155,12 +155,14 @@ _tdb: _tdb:CaGa-07Wan.tdb:CA11GA7, tdb:CaGa-13Li-1.tdb:CA11GA7, tdb:CaGa-13Li-2.
 61: CONST CA11GA7 : CA : GA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.calphad.2006.09.004](https://doi.org/10.1016/j.calphad.2006.09.004) J.F. Wang, W.X. Yuan, X. Zhao, W.L. Qian, Z.F. Cai, Thermodynamic description of the Ca–Ga system, Calphad 31, 120-124 (2007).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.09.002](https://doi.org/10.1016/j.calphad.2013.09.002) Xi Li, Kaiming Cheng, Xiaoming Yuan, Dongdong Zhao, Jinghua Xin, Weiwei Wang et al., Thermodynamic assessment of the Ga–X (X=B, Ca, Sr, Ba) systems supported by first-principles calculations, Calphad 43, 52-60 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2006.09.004](https://doi.org/10.1016/j.calphad.2006.09.004) J.F. Wang, W.X. Yuan, X. Zhao, W.L. Qian, Z.F. Cai, Thermodynamic description of the Ca–Ga system, Calphad 31, 120-124 (2007).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1524/zkri.1989.187.1-2.111](https://doi.org/10.1524/zkri.1989.187.1-2.111) M. L. Fornasini, F. Merlo, The crystal structure of Ca\<sub>11\</sub>Ga\<sub>7\</sub>, Zeitschrift für Kristallographie 187, 111-115 (1989).  
+_cited as the source of values for this phase_
 
 ## CA25GA59 (Ca–Ga)
 
@@ -170,7 +172,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.2976, Ga 0.7024
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1245.34 K, x(Ga) 0.70238–0.70238
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 9 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ga:ca25ga59)
 
 Names (6): _corpus: _corpus:phase:ca-ga:ca25ga59  
@@ -203,9 +205,9 @@ _tdb: _tdb:CaGa-07Wan.tdb:CA25GA59, tdb:CaGa-13Li-1.tdb:CA25GA59, tdb:CaGa-13Li-
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.calphad.2006.09.004](https://doi.org/10.1016/j.calphad.2006.09.004) J.F. Wang, W.X. Yuan, X. Zhao, W.L. Qian, Z.F. Cai, Thermodynamic description of the Ca–Ga system, Calphad 31, 120-124 (2007).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.09.002](https://doi.org/10.1016/j.calphad.2013.09.002) Xi Li, Kaiming Cheng, Xiaoming Yuan, Dongdong Zhao, Jinghua Xin, Weiwei Wang et al., Thermodynamic assessment of the Ga–X (X=B, Ca, Sr, Ba) systems supported by first-principles calculations, Calphad 43, 52-60 (2013).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2006.09.004](https://doi.org/10.1016/j.calphad.2006.09.004) J.F. Wang, W.X. Yuan, X. Zhao, W.L. Qian, Z.F. Cai, Thermodynamic description of the Ca–Ga system, Calphad 31, 120-124 (2007).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(89)90171-9](https://doi.org/10.1016/0022-5088%2889%2990171-9) G Bruzzone, M.L Fornasini, F Merlo, Re-examination of the Ca-Ga system and crystal structure of CaGa4, a monoclinic distortion of the BaAl4 type, Journal of the Less Common Metals 154, 67-77 (1989).  
 _cited as the source of values for this phase_
@@ -218,7 +220,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.7179, Ga 0.2821
 - Stability: stable in 3 of 3 calculated diagram(s): 300–820.64 K, x(Ga) 0.28205–0.28205
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 15 values (15 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ga:ca28ga11)
 
 Names (7): _corpus: _corpus:phase:ca-ga:ca28ga11  
@@ -264,7 +266,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_63_matches_3_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.3750, Ga 0.6250
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1145.75 K, x(Ga) 0.625–0.625
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 15 values (15 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ga:ca3ga5)
 
 Names (6): _corpus: _corpus:phase:ca-ga:ca3ga5  
@@ -295,12 +297,14 @@ _tdb: _tdb:CaGa-07Wan.tdb:CA3GA5, tdb:CaGa-13Li-1.tdb:CA3GA5, tdb:CaGa-13Li-2.td
 71: CONST CA3GA5 : CA : GA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.09.002](https://doi.org/10.1016/j.calphad.2013.09.002) Xi Li, Kaiming Cheng, Xiaoming Yuan, Dongdong Zhao, Jinghua Xin, Weiwei Wang et al., Thermodynamic assessment of the Ga–X (X=B, Ca, Sr, Ba) systems supported by first-principles calculations, Calphad 43, 52-60 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2006.09.004](https://doi.org/10.1016/j.calphad.2006.09.004) J.F. Wang, W.X. Yuan, X. Zhao, W.L. Qian, Z.F. Cai, Thermodynamic description of the Ca–Ga system, Calphad 31, 120-124 (2007).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1002/zaac.19865390805](https://doi.org/10.1002/zaac.19865390805) Gerhard Cordier, Herbert Schäfer, Michael Stelter, Elektronenmangelverbindungen des Galliums Zur Kenntnis von Ca\<sub>3\</sub>Ga\<sub>5\</sub>, Zeitschrift anorg allge chemie 539, 33-38 (1986).  
+_cited as the source of values for this phase_
 
 ## CA3GA8 (Ca–Ga)
 
@@ -310,7 +314,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.2727, Ga 0.7273
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1202.84 K, x(Ga) 0.72727–0.72727
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 14 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ga:ca3ga8)
 
 Names (6): _corpus: _corpus:phase:ca-ga:ca3ga8  
@@ -451,7 +455,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_194_matches_3_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.3333, Ga 0.6667
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1263.96 K, x(Ga) 0.66667–0.66667
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 20 values (20 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ga:caga2)
 
 Names (6): _corpus: _corpus:phase:ca-ga:caga2  
@@ -484,9 +488,9 @@ _tdb: _tdb:CaGa-07Wan.tdb:CAGA2, tdb:CaGa-13Li-1.tdb:CAGA2, tdb:CaGa-13Li-2.tdb:
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.calphad.2006.09.004](https://doi.org/10.1016/j.calphad.2006.09.004) J.F. Wang, W.X. Yuan, X. Zhao, W.L. Qian, Z.F. Cai, Thermodynamic description of the Ca–Ga system, Calphad 31, 120-124 (2007).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.09.002](https://doi.org/10.1016/j.calphad.2013.09.002) Xi Li, Kaiming Cheng, Xiaoming Yuan, Dongdong Zhao, Jinghua Xin, Weiwei Wang et al., Thermodynamic assessment of the Ga–X (X=B, Ca, Sr, Ba) systems supported by first-principles calculations, Calphad 43, 52-60 (2013).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2006.09.004](https://doi.org/10.1016/j.calphad.2006.09.004) J.F. Wang, W.X. Yuan, X. Zhao, W.L. Qian, Z.F. Cai, Thermodynamic description of the Ca–Ga system, Calphad 31, 120-124 (2007).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(89)90171-9](https://doi.org/10.1016/0022-5088%2889%2990171-9) G Bruzzone, M.L Fornasini, F Merlo, Re-examination of the Ca-Ga system and crystal structure of CaGa4, a monoclinic distortion of the BaAl4 type, Journal of the Less Common Metals 154, 67-77 (1989).  
 _cited as the source of values for this phase_
@@ -499,7 +503,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.2000, Ga 0.8000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1027.43 K, x(Ga) 0.8–0.8
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 16 values (16 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ga:caga4)
 
 Names (6): _corpus: _corpus:phase:ca-ga:caga4  

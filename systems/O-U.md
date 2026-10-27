@@ -916,6 +916,7 @@ Table: Heat capacity / entropy / enthalpy, O–U system
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6864 J/mol-atom/K ± 0.0454545 | 298.15 | U3O8; _alloy: U 0.272727_ | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 21; `ORC-2QTBGDKN7R.be139a` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6746 J/mol-atom/K | 298.15 | U3O8; _alloy: U 0.272727_ | model | [1] Chevalier 2002 | Table 10, p. 8, row 22; `ORC-OF5TA7DHXW.4ea9d9` |  |
+| Entropy; _printed: S0 (298 K)_ | 25.68 per mol-atom ± 0.05 | 298.15 | U3O8 (s); _alloy: U 0.272727_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6; `ORC-2EUAFG7A5P.0acc88` |  |
 | Entropy; _printed: S0 (298 K)_ | 25.68 J/mol-atom/K ± 0.05 | 298.15 | U3O8 (s); _alloy: U 0.272727_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6; `ORC-2EUAFG7A5P.2263d1` |  |
 | Entropy; _printed: S0 (298 K)_ | 25.83 J/mol-atom/K | 298.15 | U3O8 (s); _alloy: U 0.272727_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 5; `ORC-CGXG2LYDLD.3c4990` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.7 J/mol-atom/K ± 0.0538462 | 298.15 | U4O9; _alloy: U 0.307692_ | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 13; `ORC-7IP3Y4UNA3.6d7e2b` |  |
@@ -924,52 +925,51 @@ Table: Heat capacity / entropy / enthalpy, O–U system
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6679 J/mol-atom/K | 298.15 | U4O9; _alloy: U 0.307692_ | experimental | [1] Chevalier 2002; _cites Macleod 1972_ [doi](https://doi.org/10.1016/0021-9614%2872%2990042-0) | Table 10, p. 8, row 11; `ORC-R7K6J2XEJJ` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 26.887 J/mol-atom/K | 298.15 | U4O9; _alloy: U 0.307692_ | experimental | [1] Chevalier 2002; _cites Gronvold 1970_ | Table 10, p. 8, row 9; `ORC-WDLVUYG56E` |  |
 | Entropy; _printed: S0 (298 K)_ | 25.73 J/mol-atom/K | 298.15 | U4O9 (s); _alloy: U 0.307692_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 3; `ORC-ARH6QFMUVX.21b037` |  |
+| Entropy; _printed: S0 (298 K)_ | 25.7 per mol-atom ± 0.5 | 298.15 | U4O9 (s); _alloy: U 0.307692_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4; `ORC-JAS6F66KNN.830490` |  |
 | Entropy; _printed: S0 (298 K)_ | 25.7 J/mol-atom/K ± 0.5 | 298.15 | U4O9 (s); _alloy: U 0.307692_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4; `ORC-JAS6F66KNN.df43e4` |  |
-| Entropy; _printed: S0 (298 K)_ | 25.68 per mol-atom ± 0.05 | 298.15 | UNKNOWN; _alloy: U 0.272727_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6; `ORC-2EUAFG7A5P.0acc88` |  |
-| Entropy; _printed: S0 (298 K)_ | 88.8 per mol-atom ± 1.33 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 14; `ORC-52W2CDZBY4.812723` |  |
-| Entropy; _printed: S0 (298 K)_ | 77.4 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 16; `ORC-B4PR3PU365.40bd5d` |  |
-| Entropy; _printed: S0 (298 K)_ | 25.7 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: U 0.307692_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4; `ORC-JAS6F66KNN.830490` |  |
-| Entropy; _printed: S0 (298 K)_ | 124.4 per mol-atom ± 1 | 298.15 | UNKNOWN; _alloy: U 0.5_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12; `ORC-KFBTWYZAFF.cb4d8f` |  |
-| Entropy; _printed: S0 (298 K)_ | 25.68 per mol-atom ± 0.07 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2; `ORC-KGDWLXXJ7L.d29478` |  |
-| Entropy; _printed: S0 (298 K)_ | 24.92 per mol-atom ± 0.33 | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.9a4e16` |  |
 | Entropy; _printed: S0 (298 K)_ | 124.4 J/mol-atom/K ± 1 | 298.15 | UO (g); _alloy: U 0.5_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12; `ORC-KFBTWYZAFF.3dc430` |  |
+| Entropy; _printed: S0 (298 K)_ | 124.4 per mol-atom ± 1 | 298.15 | UO (g); _alloy: U 0.5_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12; `ORC-KFBTWYZAFF.cb4d8f` |  |
 | Entropy; _printed: S0 (298 K)_ | 126.1 J/mol-atom/K | 298.15 | UO (g); _alloy: U 0.5_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 11; `ORC-SAHSUVBSIT.4bcc25` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6758 J/mol-atom/K | 298.15 | UO2; _alloy: U 0.333333_ | model | [1] Chevalier 2002 | Table 10, p. 8, row 5; `ORC-E4WJ4DM2JX.e0942a` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6758 J/mol-atom/K | 298.15 | UO2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2002; _cites Rand 1978_ | Table 10, p. 8, row 3; `ORC-RWSO6GJ6PB.31c653` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6758 J/mol-atom/K | 298.15 | UO2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 4; `ORC-T4WJT4BQP5.64d6b9` |  |
 | Entropy; _printed: S0 (298 K)_ | 88.8 J/mol-atom/K ± 1.33 | 298.15 | UO2 (g); _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 14; `ORC-52W2CDZBY4.04466b` |  |
+| Entropy; _printed: S0 (298 K)_ | 88.8 per mol-atom ± 1.33 | 298.15 | UO2 (g); _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 14; `ORC-52W2CDZBY4.812723` |  |
 | Entropy; _printed: S0 (298 K)_ | 88.8 J/mol-atom/K | 298.15 | UO2 (g); _alloy: U 0.333333_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 13; `ORC-O4MOZLURZJ.5adaab` |  |
 | Entropy; _printed: S0 (298 K)_ | 25.68 J/mol-atom/K ± 0.07 | 298.15 | UO2 (s); _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2; `ORC-KGDWLXXJ7L.c219cf` |  |
+| Entropy; _printed: S0 (298 K)_ | 25.68 per mol-atom ± 0.07 | 298.15 | UO2 (s); _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2; `ORC-KGDWLXXJ7L.d29478` |  |
 | Entropy; _printed: S0 (298 K)_ | 25.65 J/mol-atom/K | 298.15 | UO2 (s); _alloy: U 0.333333_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 1; `ORC-WJS56OFWF2.2e9cf7` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 24.0275 J/mol-atom/K ± 0.1 | 298.15 | UO3; _alloy: U 0.25_ | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 33; `ORC-22YU3WTHSU.5930f2` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 21.2755 J/mol-atom/K | 298.15 | UO3; _alloy: U 0.25_ | experimental | [1] Chevalier 2002; _cites Cordfunke 1965_ [doi](https://doi.org/10.1039/tf9656100050) | Table 10, p. 8, row 27; `ORC-M3KGYFSANX.55ff17` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 24.0275 J/mol-atom/K | 298.15 | UO3; _alloy: U 0.25_ | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 31; `ORC-M5Z7DPJRG6` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 24.6543 J/mol-atom/K ± 0.0625 | 298.15 | UO3; _alloy: U 0.25_ | experimental | [1] Chevalier 2002; _cites Jones 1952_ [doi](https://doi.org/10.1063/1.1700518) | Table 10, p. 8, row 29; `ORC-WGGAK7S3TN` |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 24.0275 J/mol-atom/K ± 0.1 | 298.15 | UO3; _alloy: U 0.25_ | model | [1] Chevalier 2002 | Table 10, p. 8, row 34; `ORC-ZBNU4LYAXN.309856` |  |
+| Entropy; _printed: S0 (298 K)_ | 77.4 per mol-atom ± 0.5 | 298.15 | UO3 (g); _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 16; `ORC-B4PR3PU365.40bd5d` |  |
 | Entropy; _printed: S0 (298 K)_ | 77.4 J/mol-atom/K ± 0.5 | 298.15 | UO3 (g); _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 16; `ORC-B4PR3PU365.9829e5` |  |
 | Entropy; _printed: S0 (298 K)_ | 77.4 J/mol-atom/K | 298.15 | UO3 (g); _alloy: U 0.25_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 15; `ORC-U6QFEWSDKO.e2e472` |  |
 | Entropy; _printed: S0 (298 K)_ | 24.92 J/mol-atom/K ± 0.33 | 298.15 | UO3 (s); _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.184983` |  |
+| Entropy; _printed: S0 (298 K)_ | 24.92 per mol-atom ± 0.33 | 298.15 | UO3 (s); _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.9a4e16` |  |
 | Entropy; _printed: S0 (298 K)_ | 24.03 J/mol-atom/K | 298.15 | UO3 (s); _alloy: U 0.25_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 7; `ORC-VJKQQEBA2V.8abf86` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 21.63 J/mol-atom/K ± 0.04 | 298.15 | U3O8 (s); _alloy: U 0.272727_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6; `ORC-2EUAFG7A5P.85e26b` |  |
+| Heat capacity; _printed: Cp0 (298 K)_ | 21.63 per mol-atom ± 0.04 | 298.15 | U3O8 (s); _alloy: U 0.272727_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6; `ORC-2EUAFG7A5P.b64195` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 21.73 J/mol-atom/K | 298.15 | U3O8 (s); _alloy: U 0.272727_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 5; `ORC-CGXG2LYDLD.d64f3b` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 22.35 J/mol-atom/K | 298.15 | U4O9 (s); _alloy: U 0.307692_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 3; `ORC-ARH6QFMUVX.0a724d` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 22.57 J/mol-atom/K ± 0.05 | 298.15 | U4O9 (s); _alloy: U 0.307692_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4; `ORC-JAS6F66KNN.685103` |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 21.63 per mol-atom ± 0.04 | 298.15 | UNKNOWN; _alloy: U 0.272727_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6; `ORC-2EUAFG7A5P.b64195` |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 19.83 per mol-atom ± 0.67 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 14; `ORC-52W2CDZBY4.19f198` |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 16.12 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 16; `ORC-B4PR3PU365.a2a082` |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 22.57 per mol-atom ± 0.05 | 298.15 | UNKNOWN; _alloy: U 0.307692_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4; `ORC-JAS6F66KNN.bb30ce` |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 21 per mol-atom ± 1 | 298.15 | UNKNOWN; _alloy: U 0.5_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12; `ORC-KFBTWYZAFF.dad5d3` |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 21.2 per mol-atom ± 0.03 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2; `ORC-KGDWLXXJ7L.b9d7c7` |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 20.46 per mol-atom ± 0.07 | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.919e49` |  |
+| Heat capacity; _printed: Cp0 (298 K)_ | 22.57 per mol-atom ± 0.05 | 298.15 | U4O9 (s); _alloy: U 0.307692_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4; `ORC-JAS6F66KNN.bb30ce` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 21 J/mol-atom/K ± 1 | 298.15 | UO (g); _alloy: U 0.5_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12; `ORC-KFBTWYZAFF.1e4ae6` |  |
+| Heat capacity; _printed: Cp0 (298 K)_ | 21 per mol-atom ± 1 | 298.15 | UO (g); _alloy: U 0.5_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12; `ORC-KFBTWYZAFF.dad5d3` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 19.67 J/mol-atom/K | 298.15 | UO (g); _alloy: U 0.5_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 11; `ORC-SAHSUVBSIT.6eb5d4` |  |
+| Heat capacity; _printed: Cp0 (298 K)_ | 19.83 per mol-atom ± 0.67 | 298.15 | UO2 (g); _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 14; `ORC-52W2CDZBY4.19f198` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 19.83 J/mol-atom/K ± 0.67 | 298.15 | UO2 (g); _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 14; `ORC-52W2CDZBY4.787b74` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 19.84 J/mol-atom/K | 298.15 | UO2 (g); _alloy: U 0.333333_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 13; `ORC-O4MOZLURZJ.86d5e5` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 21.2 J/mol-atom/K ± 0.03 | 298.15 | UO2 (s); _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2; `ORC-KGDWLXXJ7L.b95627` |  |
+| Heat capacity; _printed: Cp0 (298 K)_ | 21.2 per mol-atom ± 0.03 | 298.15 | UO2 (s); _alloy: U 0.333333_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2; `ORC-KGDWLXXJ7L.b9d7c7` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 20.98 J/mol-atom/K | 298.15 | UO2 (s); _alloy: U 0.333333_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 1; `ORC-WJS56OFWF2.ad73b1` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 16.12 J/mol-atom/K ± 0.5 | 298.15 | UO3 (g); _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 16; `ORC-B4PR3PU365.879f1f` |  |
+| Heat capacity; _printed: Cp0 (298 K)_ | 16.12 per mol-atom ± 0.5 | 298.15 | UO3 (g); _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 16; `ORC-B4PR3PU365.a2a082` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 16.12 J/mol-atom/K | 298.15 | UO3 (g); _alloy: U 0.25_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 15; `ORC-U6QFEWSDKO.afae9f` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 20.46 J/mol-atom/K ± 0.07 | 298.15 | UO3 (s); _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.57b247` |  |
+| Heat capacity; _printed: Cp0 (298 K)_ | 20.46 per mol-atom ± 0.07 | 298.15 | UO3 (s); _alloy: U 0.25_ | model | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.919e49` |  |
 | Heat capacity; _printed: C0p (298 K)_ | 20.42 J/mol-atom/K | 298.15 | UO3 (s); _alloy: U 0.25_ | model | [2] Guéneau 2002 | Table 4, p. 9, row 7; `ORC-VJKQQEBA2V.8e168c` |  |
 
 ### Other property (11)

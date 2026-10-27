@@ -1,10 +1,10 @@
 # O–Rh–Ru system
 
-> O–Rh–Ru system: 14 accepted literature values (crystal structure 8, phase equilibrium 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Rh–Ru system: 6 accepted literature values (phase equilibrium 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-RH-RU.html · Markdown: https://data.orchid-project.org/systems/O-RH-RU.md
 
-14 accepted literature values from 1 paper(s) (experimental 6, DFT 8); 0 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (experimental 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-RH-RU.json) · [CSV](https://data.orchid-project.org/systems/O-RH-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-RH-RU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-RH-RU.html) · [Markdown](https://data.orchid-project.org/systems/O-RH-RU.md)
 
@@ -13,14 +13,12 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| DFT | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 6 |
-| crystal structure | 8 |
 
 ## Other properties
 
@@ -36,21 +34,6 @@ Table: Phase equilibrium, O–Rh–Ru system
 | Phase assemblage |  | 1373 | (Ru0.59Rh0.41)O2 + Rh2O3; _alloy: Rh 0.4, Ru 0_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 4; `ORC-HAL6V3KHRW` |  |
 | Phase assemblage |  | 1373 | (Ru0.75Rh0.25)O2 + Rh-FCC; _alloy: Rh 1, Ru 0_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 3; `ORC-TW4ODI5W5L` |  |
 | Phase assemblage |  | 1373 | Rh2O3 + (Ru0.59Rh0.41)O2 + Rh-FCC; _alloy: Rh 0.4, Ru 0_ | experimental | [1] Gossé 2018 | Table 7, p. 10, row 2; `ORC-AV2ZVB6LT6` |  |
-
-### Crystal structure (8)
-
-Table: Crystal structure, O–Rh–Ru system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.4968 not_printed ± 2.000e-4 |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.a81fe4` |  |
-| Lattice a | 5.208 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.d627ca` |  |
-| Lattice a | 5.293 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.d7ae7d` |  |
-| Lattice a | 4.489 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 1; `ORC-X2MSVNS4SO.f82231` |  |
-| Lattice c | 12.984 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.05d7ba` |  |
-| Lattice c | 14.155 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.3d55fd` |  |
-| Lattice c | 3.1049 not_printed ± 1.000e-4 |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.8f465f` |  |
-| Lattice c | 3.09 Å |  | UNKNOWN | DFT | [1] Gossé 2018; _cites Muller 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990070-2) | Table 3, p. 5, row 2; `ORC-DSID7RTDRL.b6a5a1` |  |
 
 ## Sources
 

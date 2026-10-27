@@ -92,9 +92,9 @@ Table: Crystal structure, Eu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 44.246 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9; `ORC-MTQ4AYYXWR.2ab402` |  |
-| lattice molar volume | 43.538 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9; `ORC-MTQ4AYYXWR.966210` |  |
-| lattice molar volume | 48.328 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9; `ORC-MTQ4AYYXWR.f38ebe` |  |
+| lattice molar volume | 43.538 cm3 mol-1 | 298.15 | Eu2O3 (A-type); _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9; `ORC-MTQ4AYYXWR.966210` |  |
+| lattice molar volume | 44.246 cm3 mol-1 | 298.15 | Eu2O3 (B-type); _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9; `ORC-MTQ4AYYXWR.2ab402` |  |
+| lattice molar volume | 48.328 cm3 mol-1 | 298.15 | Eu2O3 (C-type); _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9; `ORC-MTQ4AYYXWR.f38ebe` |  |
 
 ### Other property (5)
 

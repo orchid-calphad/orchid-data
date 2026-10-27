@@ -16,7 +16,7 @@ Table: Phases of the H–La system (6)
 | [DHCP](#phase-h-la-dhcp-a3); _phase:h-la:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1164.99 K, x(H) 0–0 | 0 | 1 |
 | [FCC_A1](#phase-h-la-fcc-a1); _phase:h-la:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 532.94–1164.99 K, x(H) 0–0.20935 | 0 | 1 |
 | [GAS](#phase-h-la-gas); _phase:h-la:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(H) 0.99977–1 | 0 | 1 |
-| [LAH2](#phase-h-la-lah2); _phase:h-la:lah2_ | CeH3 · cF44 · Fm-3m (225) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1363.04 K, x(H) 0.64536–0.74999 | 2 | 1 |
+| [LAH2](#phase-h-la-lah2); _phase:h-la:lah2_ | CeH3 · cF44 · Fm-3m (225) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1363.04 K, x(H) 0.64536–0.74999 | 4 | 1 |
 | [LIQUID](#phase-h-la-liquid); _phase:h-la:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1193.01–2500 K, x(H) 0–0.45272 | 0 | 1 |
 
 ## BCC_A2 (H–La)
@@ -131,7 +131,7 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1363.04 K, x(H) 0.64536–0.74999
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:h-la:lah2)
 
 Names (3): _corpus: _corpus:phase:h-la:lah2  

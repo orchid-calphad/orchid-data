@@ -409,14 +409,14 @@ Table: Crystal structure, Co–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 6.716 Å | 298.15 | Co2Ti (c); _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 4; `ORC-6TUGCJBTTB` |  |
+| Lattice a | 4.732 Å | 298.15 | Co2Ti (h); _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 5; `ORC-AQJICJ25MR.ecddc8` |  |
+| Lattice a | 3.618 Å | 298.15 | Co3Ti; _alloy: Ti 0.25_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 3; `ORC-G2RORCSBLI.30e3cd` |  |
+| Lattice a | 3.603 Å | 298.15 | Co3Ti; _alloy: Ti 0.25_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 3; `ORC-G2RORCSBLI.f00a71` |  |
 | Lattice a | 2.988 Å | 298.15 | CoTi; _alloy: Ti 0.5_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 6; `ORC-RQLHLTKVO4.4e61c4` |  |
 | Lattice a | 2.996 Å | 298.15 | CoTi; _alloy: Ti 0.5_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 6; `ORC-RQLHLTKVO4.ddc563` |  |
-| Lattice a | 11.3 Å | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 7; `ORC-2KHVVOQBSE` |  |
-| Lattice a | 6.716 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 4; `ORC-6TUGCJBTTB` |  |
-| Lattice a | 4.732 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 5; `ORC-AQJICJ25MR.ecddc8` |  |
-| Lattice a | 3.618 Å | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 3; `ORC-G2RORCSBLI.30e3cd` |  |
-| Lattice a | 3.603 Å | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 3; `ORC-G2RORCSBLI.f00a71` |  |
-| Lattice c | 15.427 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 5; `ORC-AQJICJ25MR.2f480a` |  |
+| Lattice a | 11.3 Å | 298.15 | CoTi2; _alloy: Ti 0.666667_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 7; `ORC-2KHVVOQBSE` |  |
+| Lattice c | 15.427 Å | 298.15 | Co2Ti (h); _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 5; `ORC-AQJICJ25MR.2f480a` |  |
 
 ## Sources
 

@@ -71,11 +71,11 @@ Table: Activity / EMF / Gibbs energy, Ge–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity Ge; _printed: a_Ge_ | 0.554 1 | 1723 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | experimental | [1] Bergman 1992 | Table 3, p. 3, row 6; `ORC-K43YLA7BZC.068413` |  |
 | Activity Ge; _printed: aGe_ | 0.26 1 | 1723 | liquid; _alloy: Ge 0.2, Si 0.8_ | experimental | [1] Bergman 1992 | Table 3, p. 3, row 9; `ORC-4K4ENMK6L6.064bce` |  |
 | Activity Ge; _printed: aGe_ | 0.366 1 | 1723 | liquid; _alloy: Ge 0.3, Si 0.7_ | experimental | [1] Bergman 1992 | Table 3, p. 3, row 8; `ORC-4VJOVJYQSA.7735fb` |  |
 | Activity Ge; _printed: aGe_ | 0.14 1 | 1723 | liquid; _alloy: Ge 0.1, Si 0.9_ | experimental | [1] Bergman 1992 | Table 3, p. 3, row 10; `ORC-6YLE4P7WNL.dd51ab` |  |
 | Activity Ge; _printed: aGe_ | 0.9 1 | 1723 | liquid; _alloy: Ge 0.9, Si 0.1_ | experimental | [1] Bergman 1992 | Table 3, p. 3, row 2; `ORC-IS45WK5UKP.262376` |  |
+| Activity Ge; _printed: a_Ge_ | 0.554 1 | 1723 | liquid; _alloy: Ge 0.5, Si 0.5_ | experimental | [1] Bergman 1992 | Table 3, p. 3, row 6; `ORC-K43YLA7BZC.068413` |  |
 | Activity Ge; _printed: aGe_ | 1 1 | 1723 | liquid; _alloy: Ge 1, Si 0_ | experimental | [1] Bergman 1992 | Table 3, p. 3, row 1; `ORC-MX4X76FL6C.510ad6` |  |
 | Activity Ge; _printed: aGe_ | 0.46 1 | 1723 | liquid; _alloy: Ge 0.4, Si 0.6_ | experimental | [1] Bergman 1992 | Table 3, p. 3, row 7; `ORC-PQIJGZZYCW.1366ba` |  |
 | Activity Ge; _printed: aGe_ | 0 1 | 1723 | liquid; _alloy: Ge 0, Si 1_ | experimental | [1] Bergman 1992 | Table 3, p. 3, row 11; `ORC-QAZ74ROOA4.c7172c` |  |

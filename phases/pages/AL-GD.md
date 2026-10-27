@@ -12,9 +12,9 @@ Table: Phases of the Al–Gd system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AL2GD3](#phase-al-gd-al2gd3); _phase:al-gd:al2gd3_ | Al2Gd3 · tP20 · P4_2nm (102) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1268.58 K, x(Gd) 0.6–0.6 | 8 | 2 |
+| [AL2GD3](#phase-al-gd-al2gd3); _phase:al-gd:al2gd3_ | Al2Gd3 · tP20 · P4_2nm (102) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1268.58 K, x(Gd) 0.6–0.6 | 10 | 2 |
 | [AL3GD_D019](#phase-al-gd-al3gd-d019); _phase:al-gd:al3gd-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1403.44 K, x(Gd) 0.25–0.25 | 8 | 2 |
-| [ALGD](#phase-al-gd-algd); _phase:al-gd:algd_ | AlDy · oP16 · Pbcm (57) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1340.98 K, x(Gd) 0.5–0.5 | 8 | 2 |
+| [ALGD](#phase-al-gd-algd); _phase:al-gd:algd_ | AlDy · oP16 · Pbcm (57) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1340.98 K, x(Gd) 0.5–0.5 | 11 | 2 |
 | [ALGD2_C37](#phase-al-gd-algd2-c37); _phase:al-gd:algd2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1214.3 K, x(Gd) 0.66667–0.66667 | 8 | 2 |
 | [BCC_A2](#phase-al-gd-bcc-a2); _phase:al-gd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1470.74–2499.86 K, x(Gd) 0.99264–1 | 4 | 2 |
 | [C15_LAVES](#phase-al-gd-c15-laves); _phase:al-gd:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1793.01 K, x(Gd) 0.32403–0.37116 | 12 | 2 |
@@ -30,11 +30,11 @@ Table: Phases of the Al–Gd system (9)
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.4000, Gd 0.6000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1268.58 K, x(Gd) 0.6–0.6
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-gd:al2gd3)
 
-Names (4): _corpus: _corpus:phase:al-gd:al2gd3  
-_paper: _paper:10.1016/j.tca.2014.07.014:Al2Gd3  
+Names (5): _corpus: _corpus:phase:al-gd:al2gd3  
+_paper: _paper:10.1016/j.calphad.2009.08.003:Al2Gd3, paper:10.1016/j.tca.2014.07.014:Al2Gd3  
 _tdb: _tdb:AlGd-03Cac-LB.tdb:AL2GD3, tdb:AlGd-14Bo.tdb:AL2GD3  
 
 
@@ -54,7 +54,7 @@ _tdb: _tdb:AlGd-03Cac-LB.tdb:AL2GD3, tdb:AlGd-14Bo.tdb:AL2GD3
 60: CONST AL2GD3 : AL : GD : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.tca.2014.07.014](https://doi.org/10.1016/j.tca.2014.07.014) H. Bo, L.B. Liu, J.L. Hu, X.D. Zhang, Z.P. Jin, Thermodynamic re-assessment of the Al–Gd and Gd–Zr systems, Thermochimica Acta 591, 51-56 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -62,6 +62,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/bf02883166](https://doi.org/10.1007/bf02883166) K.A. Gschneidner, F.W. Calderwood, The Al–Gd (aluminum–gadolinium) system, Bull. Alloy Phase Diagr. 9 (1988) 680–683.  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2009.08.003](https://doi.org/10.1016/j.calphad.2009.08.003) L.G. Zhang, H.Q. Dong, G.X. Huang, J. Shan, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the Al–Cu–Gd system, Calphad 33, 664-672 (2009).  
+_reports values for this phase_
 - [doi:10.1016/j.calphad.2010.08.004](https://doi.org/10.1016/j.calphad.2010.08.004) Liling Jin, Youn-Bae Kang, Patrice Chartrand, Carlton D. Fuerst, Thermodynamic evaluation and optimization of Al–Gd, Al–Tb, Al–Dy, Al–Ho and Al–Er systems using a Modified Quasichemical Model for the liquid, Calphad 34, 456-466 (2010).  
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-2000-910108](https://doi.org/10.1515/ijmr-2000-910108) A. Saccone, A.M. Cardinale, S. Delﬁno, R. Ferro, Gd–Al and Dy–Al systems: phase equilibria in the 0 to 66.7 at.% Al composition range, Z. Metallkd. 91 (2000) 17–23.  
@@ -121,11 +123,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.5000, Gd 0.5000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1340.98 K, x(Gd) 0.5–0.5
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-gd:algd)
 
-Names (4): _corpus: _corpus:phase:al-gd:algd  
-_paper: _paper:10.1016/j.tca.2014.07.014:AlGd  
+Names (5): _corpus: _corpus:phase:al-gd:algd  
+_paper: _paper:10.1016/j.calphad.2009.08.003:AlGd, paper:10.1016/j.tca.2014.07.014:AlGd  
 _tdb: _tdb:AlGd-03Cac-LB.tdb:ALGD, tdb:AlGd-14Bo.tdb:ALGD  
 
 
@@ -145,12 +147,14 @@ _tdb: _tdb:AlGd-03Cac-LB.tdb:ALGD, tdb:AlGd-14Bo.tdb:ALGD
 54: CONST ALGD : AL : GD : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.tca.2014.07.014](https://doi.org/10.1016/j.tca.2014.07.014) H. Bo, L.B. Liu, J.L. Hu, X.D. Zhang, Z.P. Jin, Thermodynamic re-assessment of the Al–Gd and Gd–Zr systems, Thermochimica Acta 591, 51-56 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0966-9795(03)00151-1](https://doi.org/10.1016/S0966-9795%2803%2900151-1) G. Cacciamani, S. De Negri, A. Saccone, R. Ferro, Intermetallics, 11, 1135-51(2003).  
 _assessment that models this phase; cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2009.08.003](https://doi.org/10.1016/j.calphad.2009.08.003) L.G. Zhang, H.Q. Dong, G.X. Huang, J. Shan, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the Al–Cu–Gd system, Calphad 33, 664-672 (2009).  
+_reports values for this phase_
 - [doi:10.1007/bf02883166](https://doi.org/10.1007/bf02883166) K.A. Gschneidner, F.W. Calderwood, The Al–Gd (aluminum–gadolinium) system, Bull. Alloy Phase Diagr. 9 (1988) 680–683.  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2010.08.004](https://doi.org/10.1016/j.calphad.2010.08.004) Liling Jin, Youn-Bae Kang, Patrice Chartrand, Carlton D. Fuerst, Thermodynamic evaluation and optimization of Al–Gd, Al–Tb, Al–Dy, Al–Ho and Al–Er systems using a Modified Quasichemical Model for the liquid, Calphad 34, 456-466 (2010).  

@@ -117,9 +117,9 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 | X_PHASE | unknown | 3014 | 1426 | calibrated | 0.01048 | 0.01048-0.01153 | 0.011 | mole fraction |
 | X_PHASE | model_calculated (vs experiment) | 16730 | 8821 | calibrated | 0.004448 | 0.004448-0.004448 | 0.005 | mole fraction |
 | LATTICE_LENGTH | experimental_unspecified | 9 | 9 | cleaned_below_threshold (orchid_assumed) | 0.001249 | 0.000481-0.004794 | 0.0013 | relative (fraction of the value) |
-| LATTICE_LENGTH | unknown | 597 | 196 | calibrated | 0.002277 | 0.002026-0.002664 | 0.0023 | relative (fraction of the value) |
-| LATTICE_LENGTH | xrd | 23 | 21 | calibrated | 0.001206 | 0.000866-0.0022 | 0.0013 | relative (fraction of the value) |
-| LATTICE_LENGTH | model_calculated (vs experiment) | 169 | 85 | calibrated | 0.008107 | 0.005703-0.01284 | 0.0082 | relative (fraction of the value) |
+| LATTICE_LENGTH | unknown | 586 | 192 | calibrated | 0.002196 | 0.001793-0.002549 | 0.0022 | relative (fraction of the value) |
+| LATTICE_LENGTH | xrd | 26 | 21 | calibrated | 0.001144 | 0.000794-0.001872 | 0.0012 | relative (fraction of the value) |
+| LATTICE_LENGTH | model_calculated (vs experiment) | 173 | 88 | calibrated | 0.007665 | 0.00508-0.01271 | 0.0077 | relative (fraction of the value) |
 | LATTICE_ANGLE | experimental_unspecified | 0 | 0 | prior (orchid_assumed) |  |  | 0.05 | degree |
 | LATTICE_ANGLE | unknown | 2 | 2 | prior (orchid_assumed) |  |  | 0.05 | degree |
 | LATTICE_ANGLE | model_calculated (vs experiment) | 1 | 1 | prior |  |  | 0.1 | degree |
@@ -220,8 +220,8 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | LATTICE_ANGLE | unknown | 97 | 17 | 17 | 0 |
 | experimental | LATTICE_ANGLE | xrd | 6 | 0 | 0 | 0 |
 | experimental | LATTICE_LENGTH | experimental_unspecified | 146 | 32 | 32 | 0 |
-| experimental | LATTICE_LENGTH | unknown | 2551 | 439 | 420 | 0 |
-| experimental | LATTICE_LENGTH | xrd | 370 | 121 | 83 | 0 |
+| experimental | LATTICE_LENGTH | unknown | 2551 | 439 | 418 | 0 |
+| experimental | LATTICE_LENGTH | xrd | 370 | 121 | 81 | 0 |
 | experimental | SM_FORM | dsc_dta | 1 | 0 | 0 | 0 |
 | experimental | SM_FORM | emf | 39 | 25 | 6 | 0 |
 | experimental | SM_FORM | equilibration_other | 3 | 0 | 0 | 0 |
@@ -310,7 +310,7 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | unspecified | H_MIX_PARTIAL | unknown | 22 | 0 | 0 | 0 |
 | unspecified | LATTICE_ANGLE | unknown | 61 | 1 | 0 | 0 |
 | unspecified | LATTICE_LENGTH | experimental_unspecified | 9 | 0 | 0 | 0 |
-| unspecified | LATTICE_LENGTH | unknown | 1986 | 192 | 174 | 0 |
+| unspecified | LATTICE_LENGTH | unknown | 1986 | 192 | 173 | 0 |
 | unspecified | SM_FORM | unknown | 10 | 2 | 0 | 0 |
 | unspecified | S_ABS | equilibration_other | 2 | 0 | 0 | 0 |
 | unspecified | S_ABS | evaluated_compilation | 9 | 7 | 3 | 0 |

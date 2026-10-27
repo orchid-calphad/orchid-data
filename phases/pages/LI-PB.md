@@ -16,9 +16,9 @@ Table: Phases of the Li–Pb system (10)
 | [FCC_A1](#phase-li-pb-fcc-a1); _phase:li-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2175.61 K, x(Pb) 0.96783–1 | 7 | 1 |
 | [HCP_A3](#phase-li-pb-hcp-a3); _phase:li-pb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LI3PB_D03](#phase-li-pb-li3pb-d03); _phase:li-pb:li3pb-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–931.06 K, x(Pb) 0.25–0.25 | 6 | 1 |
-| [LI4PB](#phase-li-pb-li4pb); _phase:li-pb:li4pb_ | Li17Pb4 · cF420 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–921.06 K, x(Pb) 0.2–0.2 | 8 | 1 |
+| [LI4PB](#phase-li-pb-li4pb); _phase:li-pb:li4pb_ | Li17Pb4 · cF420 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–921.06 K, x(Pb) 0.2–0.2 | 9 | 1 |
 | [LI5PB2](#phase-li-pb-li5pb2); _phase:li-pb:li5pb2_ | Li8Pb3 · hR11 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–915.02 K, x(Pb) 0.28571–0.28571 | 9 | 1 |
-| [LI7PB2](#phase-li-pb-li7pb2); _phase:li-pb:li7pb2_ | Li7Pb2 · hP9 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–998.56 K, x(Pb) 0.20816–0.22222 | 11 | 1 |
+| [LI7PB2](#phase-li-pb-li7pb2); _phase:li-pb:li7pb2_ | Li7Pb2 · hP9 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–998.56 K, x(Pb) 0.20816–0.22222 | 13 | 1 |
 | [LIPB_ALPHA](#phase-li-pb-lipb-alpha); _phase:li-pb:lipb-alpha_ | alpha-LiPb · hR2 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–487.34 K, x(Pb) 0.47841–0.5114 | 6 | 1 |
 | [LIPB_B2](#phase-li-pb-lipb-b2); _phase:li-pb:lipb-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 459.01–755.28 K, x(Pb) 0.46061–0.50937 | 15 | 1 |
 | [LIQUID](#phase-li-pb-liquid); _phase:li-pb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 449.29–2500 K, x(Pb) 0–1 | 19 | 1 |
@@ -149,7 +149,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Li 0.8000, Pb 0.2000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–921.06 K, x(Pb) 0.2–0.2
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-pb:li4pb)
 
 Names (3): _corpus: _corpus:phase:li-pb:li4pb  
@@ -214,7 +214,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 1 of 1 calculated diagram(s): 300–998.56 K, x(Pb) 0.20816–0.22222
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-pb:li7pb2)
 
 Names (3): _corpus: _corpus:phase:li-pb:li7pb2  

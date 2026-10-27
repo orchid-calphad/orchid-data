@@ -1,10 +1,10 @@
 # B–Ce–Cu system
 
-> B–Ce–Cu system: 12 accepted literature values (invariant reaction 9, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Ce–Cu system: 9 accepted literature values (invariant reaction 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-CE-CU.html · Markdown: https://data.orchid-project.org/systems/B-CE-CU.md
 
-12 accepted literature values from 1 paper(s) (experimental 3, model 9); 0 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (model 9); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-CE-CU.json) · [CSV](https://data.orchid-project.org/systems/B-CE-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-CE-CU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-CE-CU.html) · [Markdown](https://data.orchid-project.org/systems/B-CE-CU.md)
 
@@ -12,7 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
 | model | 9 |
 
 Table: Accepted values by property group
@@ -20,7 +19,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 9 |
-| crystal structure | 3 |
 
 ## Invariant reactions (literature)
 
@@ -37,18 +35,6 @@ Table: Invariant reactions reported in the literature for the B–Ce–Cu system
 | 980.81 | quasi-peritectic: B4Ce + δ(Ce) -> L + γ(Ce) |  | model | [1] Premović 2017 | Table 8, p. 10, row 7; `ORC-LB7Y4MBQQJ` |  |
 | 779.6 | quasi-peritectic: L + B4Ce -> Cu2Ce + CuCe |  | model | [1] Premović 2017 | Table 8, p. 10, row 8; `ORC-C3T3I3WYC5` |  |
 | 699.98 | quasi-peritectic: L + B4Ce -> γ(Ce) + CuCe |  | model | [1] Premović 2017 | Table 8, p. 10, row 9; `ORC-6CQRJC74ZR` |  |
-
-## Other properties
-
-### Crystal structure (3)
-
-Table: Crystal structure, B–Ce–Cu system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3; `ORC-QMCW45QR34.2cdf34` |  |
-| Lattice b | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3; `ORC-QMCW45QR34.8fea21` |  |
-| Lattice c | 5.161 not_printed | 298.15 | UNKNOWN | experimental | [1] Premović 2017; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 1, p. 2, row 3; `ORC-QMCW45QR34.f5f379` |  |
 
 ## Sources
 

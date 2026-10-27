@@ -20,7 +20,7 @@ Table: Phases of the B–Cr system (12)
 | [CR2B_CB](#phase-b-cr-cr2b-cb); _phase:b-cr:cr2b-cb_ | CuMg2 · C_b · oF48 · Fddd (70) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2149.2 K, x(B) 0.33333–0.33333 | 8 | 3 |
 | [CR3B4_D7B](#phase-b-cr-cr3b4-d7b); _phase:b-cr:cr3b4-d7b_ | Ta3B4 · D7_b · oI14 · Immm (71) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2356.29 K, x(B) 0.57143–0.57143 | 8 | 3 |
 | [CR5B3_D8L](#phase-b-cr-cr5b3-d8l); _phase:b-cr:cr5b3-d8l_ | Cr5B3 · D8_l · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2186.75 K, x(B) 0.375–0.375 | 8 | 3 |
-| [CRB4](#phase-b-cr-crb4); _phase:b-cr:crb4_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1818.3 K, x(B) 0.8–0.8 | 2 | 3 |
+| [CRB4](#phase-b-cr-crb4); _phase:b-cr:crb4_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1818.3 K, x(B) 0.8–0.8 | 5 | 3 |
 | [FCC_A1](#phase-b-cr-fcc-a1); _phase:b-cr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-b-cr-hcp-a3); _phase:b-cr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-b-cr-liquid); _phase:b-cr:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1878.38–4000 K, x(B) 0–1 | 20 | 3 |
@@ -403,6 +403,7 @@ _assessment that models this phase_
 - No structure assigned. Why: assessment_declared_blocked_by:sgte_mmc2_row_disagrees_with_dft; dft_space_group_58_matches_0_structure_types; no_structure_token; sgte_mmc2_row_disagrees_with_dft
 - Candidate (dft_mp): Pnnm (58) — on-hull MP CrB4 at x(CR)=0.2000
 - Candidate (dft_oqmd): Pnnm (58) — on-hull OQMD B4 Cr1 at x(CR)=0.2000
+- Candidate (literature_printed): CrB4 — printed with a label mapped to this phase
 - Candidate (literature_printed): CrB4 · oI10 — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): CrB4 · oI10 · Immm (71) — Hallstedt 2025 mmc2 row for CRB4: CrB4
 - Candidate (tdb_comment): CrB4 · oI10 · Immm — CrB-02Cam.tdb: 'Prototype CrB4 (oI10, Immm)'
@@ -410,7 +411,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): CrB4 · oI10 · Immm — CrB-91Pan-LB.tdb: 'Prototype CrB4 (oI10, Immm)'
 - Stoichiometry: B 0.8000, Cr 0.2000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1818.3 K, x(B) 0.8–0.8
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-cr:crb4)
 
 Names (5): _corpus: _corpus:phase:b-cr:crb4  

@@ -224,17 +224,17 @@ Table: Crystal structure, Fe–Mo system
 | Lattice c; _printed: c_ | 25.68 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14; `ORC-QDG32JGG3P.12dd02` |  |
 | Lattice c; _printed: c_ | 4.905 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20; `ORC-I36VPO2LUR.db96d3` |  |
 | Lattice c; _printed: c_ | 4.813 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19; `ORC-YIWIDSQCPD.240d5b` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 14; `ORC-4UIZSWGGOH` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 12; `ORC-5GQROTFCFN` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 20; `ORC-DJQGH43TD5` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 17; `ORC-EHEEFQAVME` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 21; `ORC-FI3MPFEWVD` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 15; `ORC-FXGLCMLZBZ` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 18; `ORC-LSZFDNIUXX` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 22; `ORC-NRT4B3UKW6` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 16; `ORC-O7OEBT2VLU` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 13; `ORC-OM37CM2ACA` |  |
-| site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 19; `ORC-Q6Q47UABK2` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 14; `ORC-4UIZSWGGOH` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 12; `ORC-5GQROTFCFN` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 20; `ORC-DJQGH43TD5` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 17; `ORC-EHEEFQAVME` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 21; `ORC-FI3MPFEWVD` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 15; `ORC-FXGLCMLZBZ` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 18; `ORC-LSZFDNIUXX` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 22; `ORC-NRT4B3UKW6` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 16; `ORC-O7OEBT2VLU` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 13; `ORC-OM37CM2ACA` |  |
+| site fractional coordinates |  |  | R | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 19; `ORC-Q6Q47UABK2` |  |
 
 ## Sources
 

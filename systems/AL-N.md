@@ -1,10 +1,10 @@
 # Al–N system
 
-> Al–N system: 16 accepted literature values (phase equilibrium 14, activity / EMF / Gibbs energy 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–N system: 24 accepted literature values (phase equilibrium 14, heat capacity / entropy / enthalpy 8, activity / EMF / Gibbs energy 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-N.html · Markdown: https://data.orchid-project.org/systems/AL-N.md
 
-16 accepted literature values from 2 paper(s) (experimental 14, model 2); 4 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+24 accepted literature values from 3 paper(s) (experimental 14, model 4, unspecified 6); 4 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-N.json) · [CSV](https://data.orchid-project.org/systems/AL-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-N/AlN-12Pav.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AL-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-N.html) · [Markdown](https://data.orchid-project.org/systems/AL-N.md)
 
@@ -13,13 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 14 |
-| model | 2 |
+| model | 4 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 14 |
+| heat capacity / entropy / enthalpy | 8 |
 | activity / EMF / Gibbs energy | 2 |
 
 ## Calculated phase diagrams
@@ -71,21 +73,37 @@ Table: Phase equilibrium, Al–N system
 | Phase composition |  | 1673.15 | molten Al + liquid Al; _molten Al: Al 0.12, N 0.88; liquid Al: Al 0.12, N 0.88_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 16; `ORC-ZBARUE47EY` |  |
 | Phase composition |  | 1773.15 | molten Al + liquid Al; _molten Al: Al 0.04, N 0.96; liquid Al: Al 0.04, N 0.96_ | experimental | [1] Pavlyuchkov 2012 | Table 4, p. 8, row 4; `ORC-463AUQ3OAS` |  |
 
+### Heat capacity / entropy / enthalpy (8)
+
+Table: Heat capacity / entropy / enthalpy, Al–N system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: ΔmS_ | 63.6 J/mol-formula K | 298.15 | AlN | model | [2] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 6; `ORC-4SUFGCWB5N` |  |
+| Entropy; _printed: ΔmS_ | 66.9 J/mol-formula K | 298.15 | AlN | model | [2] Onderka 2002; _cites Jones 1984_ | Table AI, p. 18, row 5; `ORC-5ZUETBL665` |  |
+| Entropy; _printed: S°298_ | 20.1 J/mol-formula K | 298.15 | AlN | unspecified | [2] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7; `ORC-RV7HORYS2S.c7e276` |  |
+| Entropy; _printed: S°298_ | 19.69 J/mol-formula K | 298.15 | AlN | unspecified | [2] Onderka 2002; _cites Koshchenko 1984_ | Table AI, p. 18, row 8; `ORC-TYSHPITKQL.0c1b29` |  |
+| Entropy; _printed: ΔmS_ | 69.5 J/mol-formula K | 3487 | AlN | unspecified | [2] Onderka 2002; _cites Van 1973_ | Table AI, p. 18, row 3; `ORC-MMEMZ4U37H` |  |
+| Heat capacity; _printed: Cp,298_ | 34.6 J/mol (basis unstated)/K | 298.15 | AlN | unspecified | [2] Onderka 2002; _cites Strelchenko 1984_ | Table AI, p. 18, row 9; `ORC-3J2PIHG6TF` |  |
+| Heat capacity; _printed: Cp,298_ | 30.04 J/mol (basis unstated)/K | 298.15 | AlN | unspecified | [2] Onderka 2002; _cites Mah 1961_ | Table AI, p. 18, row 7; `ORC-RV7HORYS2S.78a9c1` |  |
+| Heat capacity; _printed: Cp,298_ | 30.25 J/mol (basis unstated)/K | 298.15 | AlN | unspecified | [2] Onderka 2002; _cites Koshchenko 1984_ | Table AI, p. 18, row 8; `ORC-TYSHPITKQL.1204bc` |  |
+
 ### Activity / EMF / Gibbs energy (2)
 
 Table: Activity / EMF / Gibbs energy, Al–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Vapour pressure; _printed: p_ | 9.75 bar | 3067.7 |  | model | [2] Hillert 1992 | p. 5; `ORC-KRCDKG5FIO` | “The triple point is found at 9.75 bar and 3067.7 K.” |
-| Vapour pressure; _printed: p_ | 9.75 bar | 3068 |  | model | [2] Hillert 1992 | p. 1; `ORC-T2O46GCLCX` | “The melting point of A1N is taken as 3068 K, and a required gas pressure of 9.75 bar is predicted.” |
+| Vapour pressure; _printed: p_ | 9.75 bar | 3067.7 |  | model | [3] Hillert 1992 | p. 5; `ORC-KRCDKG5FIO` | “The triple point is found at 9.75 bar and 3067.7 K.” |
+| Vapour pressure; _printed: p_ | 9.75 bar | 3068 |  | model | [3] Hillert 1992 | p. 1; `ORC-T2O46GCLCX` | “The melting point of A1N is taken as 3068 K, and a required gas pressure of 9.75 bar is predicted.” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. D. Pavlyuchkov, O. Fabrichnaya, M. Herrmann, H. J. Seifert, Thermodynamic Assessments of the Al2O3-Al4C3-AlN and Al4C3-AlN-SiC Systems, J. Phase Equilib. Diffus. 33, 357-368 (2012). [doi:10.1007/s11669-012-0073-5](https://doi.org/10.1007/s11669-012-0073-5)
-2. Mats Hillert, Stefan Jonsson, An Assessment of the Al- Fe- N System, Metall Trans A 23, 3141-3149 (1992). [doi:10.1007/bf02646133](https://doi.org/10.1007/bf02646133)
+2. B. Onderka, J. Unland, R. Schmid-Fetzer, Thermodynamics and phase stability in the In–N system, J. Mater. Res. 17, 3065-3083 (2002). [doi:10.1557/jmr.2002.0445](https://doi.org/10.1557/jmr.2002.0445)
+3. Mats Hillert, Stefan Jonsson, An Assessment of the Al- Fe- N System, Metall Trans A 23, 3141-3149 (1992). [doi:10.1007/bf02646133](https://doi.org/10.1007/bf02646133)
 
 ## Please cite
 

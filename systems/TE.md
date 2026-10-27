@@ -33,33 +33,33 @@ Table: Crystal structure, Te system
 | Lattice a | 4.499 Å | 0 | (Te); _(Te): Te 1_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 9; `ORC-R27ITJQCML.baae0e` |  |
 | Lattice a | 3.846 Å | 0 | BCC_A2-Te; _alloy: Te 1_ | DFT | [2] Arvhult 2018 | Table 4, p. 5, row 18; `ORC-5MRF774J4M` |  |
 | Lattice a | 4.832 Å | 0 | FCC_A1-Te; _alloy: Te 1_ | DFT | [2] Arvhult 2018 | Table 4, p. 5, row 17; `ORC-KQ3FGI2VDB` |  |
-| Lattice a | 4.513 Å | 0 | Te; _alloy: Te 1_ | DFT | [3] Bennoui 2022 | Table 1, p. 3, row 23; `ORC-2TJ7QLAKLV.07cbb5` |  |
-| Lattice a | 4.06 Å | 0 | UNKNOWN; _alloy: Te 1_ | DFT | [4] Arvhult 2019 | Table 5, p. 7, row 5; `ORC-24NZC5MNYY.67169a` |  |
-| Lattice a | 5.183 Å | 0 | UNKNOWN; _alloy: Te 1_ | DFT | [2] Arvhult 2018 | Table 4, p. 5, row 15; `ORC-MO2QGJK6JJ.a47c64` |  |
+| Lattice a | 4.06 Å | 0 | HCP_A3-Te; _alloy: Te 1_ | DFT | [3] Arvhult 2019 | Table 5, p. 7, row 5; `ORC-24NZC5MNYY.67169a` |  |
+| Lattice a | 4.513 Å | 0 | Te; _alloy: Te 1_ | DFT | [4] Bennoui 2022 | Table 1, p. 3, row 23; `ORC-2TJ7QLAKLV.07cbb5` |  |
+| Lattice a | 5.183 Å | 0 | ε - Te2; _alloy: Te 1_ | DFT | [2] Arvhult 2018 | Table 4, p. 5, row 15; `ORC-MO2QGJK6JJ.a47c64` |  |
 | Lattice a | 4.453 Å | 298.15 | (Te); _alloy: Te 1_ | experimental | [5] Zhou 2024; _cites Bradley 1924_ [doi](https://doi.org/10.1080/14786442408634511) | Table 1, p. 2, row 3; `ORC-B6J3BXLPJP.83b320` |  |
 | Lattice a | 0.445 Å | 298.15 | (Te); _alloy: Te 1_ | experimental | [6] Shi 2019; _cites Prabhu 1990_ [doi](https://doi.org/10.1007/bf02841706) | Table 2, p. 3, row 9; `ORC-KS6MSBQ5NN.39617f` |  |
 | Lattice a | 4.456 Å | 298.15 | (Te); _(Te): Te 1_ | experimental | [1] Ghamri 2013; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 2, row 8; `ORC-TBWNWKDUSP.8fd57b` |  |
-| Lattice a | 4.466 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [4] Arvhult 2019; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 3, row 11; `ORC-7QL7HRWDMW.708097` |  |
+| Lattice a | 4.466 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [3] Arvhult 2019; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 3, row 11; `ORC-7QL7HRWDMW.708097` |  |
 | Lattice a | 4.4566 Å | 298.15 | Te; _Te: Te 1_ | model | [7] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11; `ORC-DIG7XMKEQL.8d6e43` |  |
-| Lattice a | 4.44 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [3] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22; `ORC-WWYRHZJUXS.79757e` |  |
+| Lattice a | 4.44 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [4] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22; `ORC-WWYRHZJUXS.79757e` |  |
 | Lattice a | 4.45 Å | 298.15 | hex(Te); _alloy: Te 1_ | experimental | [8] Cui 2023; _cites Cherin 1967_ [doi](https://doi.org/10.1107/s0365110x6700341x) | Table 1, p. 2, row 6; `ORC-4TRLPVSQ75.661390` |  |
-| Lattice b | 4.513 Å | 0 | Te; _alloy: Te 1_ | DFT | [3] Bennoui 2022 | Table 1, p. 3, row 23; `ORC-2TJ7QLAKLV.df17a1` |  |
-| Lattice b | 7.53 Å | 0 | UNKNOWN; _alloy: Te 1_ | DFT | [2] Arvhult 2018 | Table 4, p. 5, row 15; `ORC-MO2QGJK6JJ.463926` |  |
+| Lattice b | 4.513 Å | 0 | Te; _alloy: Te 1_ | DFT | [4] Bennoui 2022 | Table 1, p. 3, row 23; `ORC-2TJ7QLAKLV.df17a1` |  |
+| Lattice b | 7.53 Å | 0 | ε - Te2; _alloy: Te 1_ | DFT | [2] Arvhult 2018 | Table 4, p. 5, row 15; `ORC-MO2QGJK6JJ.463926` |  |
 | Lattice b | 0.588 Å | 298.15 | (Te); _alloy: Te 1_ | experimental | [6] Shi 2019; _cites Prabhu 1990_ [doi](https://doi.org/10.1007/bf02841706) | Table 2, p. 3, row 9; `ORC-KS6MSBQ5NN.ee4045` |  |
-| Lattice b | 4.44 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [3] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22; `ORC-WWYRHZJUXS.723356` |  |
+| Lattice b | 4.44 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [4] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22; `ORC-WWYRHZJUXS.723356` |  |
 | Lattice c | 5.957 Å | 0 | (Te); _(Te): Te 1_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 9; `ORC-R27ITJQCML.c9e5ff` |  |
-| Lattice c | 5.961 Å | 0 | Te; _alloy: Te 1_ | DFT | [3] Bennoui 2022 | Table 1, p. 3, row 23; `ORC-2TJ7QLAKLV.aef67f` |  |
-| Lattice c | 4.39 Å | 0 | UNKNOWN; _alloy: Te 1_ | DFT | [4] Arvhult 2019 | Table 5, p. 7, row 5; `ORC-24NZC5MNYY.9301a8` |  |
-| Lattice c | 3.115 Å | 0 | UNKNOWN; _alloy: Te 1_ | DFT | [2] Arvhult 2018 | Table 4, p. 5, row 15; `ORC-MO2QGJK6JJ.7a2a67` |  |
+| Lattice c | 4.39 Å | 0 | HCP_A3-Te; _alloy: Te 1_ | DFT | [3] Arvhult 2019 | Table 5, p. 7, row 5; `ORC-24NZC5MNYY.9301a8` |  |
+| Lattice c | 5.961 Å | 0 | Te; _alloy: Te 1_ | DFT | [4] Bennoui 2022 | Table 1, p. 3, row 23; `ORC-2TJ7QLAKLV.aef67f` |  |
+| Lattice c | 3.115 Å | 0 | ε - Te2; _alloy: Te 1_ | DFT | [2] Arvhult 2018 | Table 4, p. 5, row 15; `ORC-MO2QGJK6JJ.7a2a67` |  |
 | Lattice c | 5.905 Å | 298.15 | (Te); _alloy: Te 1_ | experimental | [5] Zhou 2024; _cites Bradley 1924_ [doi](https://doi.org/10.1080/14786442408634511) | Table 1, p. 2, row 3; `ORC-B6J3BXLPJP.b27e59` |  |
 | Lattice c | 5.921 Å | 298.15 | (Te); _(Te): Te 1_ | experimental | [1] Ghamri 2013; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 2, row 8; `ORC-TBWNWKDUSP.5a6fd1` |  |
-| Lattice c | 5.919 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [4] Arvhult 2019; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 3, row 11; `ORC-7QL7HRWDMW.f9bc8b` |  |
+| Lattice c | 5.919 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [3] Arvhult 2019; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 3, row 11; `ORC-7QL7HRWDMW.f9bc8b` |  |
 | Lattice c | 5.9264 Å | 298.15 | Te; _Te: Te 1_ | model | [7] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11; `ORC-DIG7XMKEQL.ecb29d` |  |
-| Lattice c | 5.92 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [3] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22; `ORC-WWYRHZJUXS.226a89` |  |
+| Lattice c | 5.92 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [4] Bennoui 2022; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table 1, p. 3, row 22; `ORC-WWYRHZJUXS.226a89` |  |
 | Lattice c | 5.93 Å | 298.15 | hex(Te); _alloy: Te 1_ | experimental | [8] Cui 2023; _cites Cherin 1967_ [doi](https://doi.org/10.1107/s0365110x6700341x) | Table 1, p. 2, row 6; `ORC-4TRLPVSQ75.6eb2ce` |  |
 | lattice c a | 1.3289 not_printed | 298.15 | Te; _Te: Te 1_ | model | [7] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11; `ORC-DIG7XMKEQL.7ab13f` |  |
-| lattice v | 34.8087 Å3/atom | 0 | UNKNOWN; _alloy: Te 1_ | DFT | [9] Guo 2015 | Table I, p. 3, row 3; `ORC-QOLEFFN237` |  |
-| lattice v | 33.6897 Å3/atom |  | UNKNOWN; _alloy: Te 1_ | experimental | [9] Guo 2015; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table I, p. 3, row 4; `ORC-T7KEYXYTJR` |  |
+| lattice v | 34.8087 Å3/atom | 0 | Te; _alloy: Te 1_ | DFT | [9] Guo 2015 | Table I, p. 3, row 3; `ORC-QOLEFFN237` |  |
+| lattice v | 33.6897 Å3/atom |  | Te; _alloy: Te 1_ | experimental | [9] Guo 2015; _cites Ohmasa 1995_ [doi](https://doi.org/10.1143/jpsj.64.4766) | Table I, p. 3, row 4; `ORC-T7KEYXYTJR` |  |
 
 ## Sources
 
@@ -67,8 +67,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. H. Ghamri, A. Belgacem-Bouzida, Y. Djaballah, A. Hidoussi, Thermodynamic assessment of the Ho–Te system supported by ab initio calculations, Journal of Alloys and Compounds 552, 387-391 (2013). [doi:10.1016/j.jallcom.2012.11.084](https://doi.org/10.1016/j.jallcom.2012.11.084)
 2. C.-M. Arvhult, C. Guéneau, S. Gossé, M. Selleby, Thermodynamic assessment of the Fe-Te system. Part II: Thermodynamic modeling, Journal of Alloys and Compounds 767, 883-893 (2018). [doi:10.1016/j.jallcom.2018.07.051](https://doi.org/10.1016/j.jallcom.2018.07.051)
-3. S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022). [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8)
-4. Carl-Magnus Arvhult, Christine Guéneau, Stéphane Gossé, Malin Selleby, Thermodynamic assessment of the Ni–Te system, J Mater Sci 54, 11304-11319 (2019). [doi:10.1007/s10853-019-03689-0](https://doi.org/10.1007/s10853-019-03689-0)
+3. Carl-Magnus Arvhult, Christine Guéneau, Stéphane Gossé, Malin Selleby, Thermodynamic assessment of the Ni–Te system, J Mater Sci 54, 11304-11319 (2019). [doi:10.1007/s10853-019-03689-0](https://doi.org/10.1007/s10853-019-03689-0)
+4. S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022). [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8)
 5. Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024). [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z)
 6. Chenying Shi, Biaobiao Yang, Biao Hu, Yong Du, Sheng Yao, Thermodynamic Description of the Al–X (X = S, Se, Te) Systems, J. Phase Equilib. Diffus. 40, 392-402 (2019). [doi:10.1007/s11669-019-00733-z](https://doi.org/10.1007/s11669-019-00733-z)
 7. T.-N. Pham Thi, J.-C. Dumas, V. Bouineau, N. Dupin, C. Guéneau, S. Gossé et al., Thermodynamic assessment of the Cs–Te binary system, Calphad 48, 1-12 (2015). [doi:10.1016/j.calphad.2014.10.006](https://doi.org/10.1016/j.calphad.2014.10.006)

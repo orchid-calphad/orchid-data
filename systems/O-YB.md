@@ -74,9 +74,9 @@ Table: Crystal structure, O–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 38.574 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16; `ORC-VPPNC7HU2I.185db8` |  |
-| lattice molar volume | 39.266 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16; `ORC-VPPNC7HU2I.aed9a9` |  |
-| lattice molar volume | 42.757 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16; `ORC-VPPNC7HU2I.c13c06` |  |
+| lattice molar volume | 38.574 cm3 mol-1 | 298.15 | Yb2O3 (A-type); _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16; `ORC-VPPNC7HU2I.185db8` |  |
+| lattice molar volume | 39.266 cm3 mol-1 | 298.15 | Yb2O3 (B-type); _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16; `ORC-VPPNC7HU2I.aed9a9` |  |
+| lattice molar volume | 42.757 cm3 mol-1 | 298.15 | Yb2O3 (C-type); _alloy: O 0.6, Yb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 16; `ORC-VPPNC7HU2I.c13c06` |  |
 
 ### Other property (5)
 

@@ -78,7 +78,7 @@ Table: Activity / EMF / Gibbs energy, Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: G^ex_ | 0 kJ/mol | 1723 | UNKNOWN; _alloy: Si 1_ | experimental | [5] Bergman 1992 | Table 3, p. 3, row 11; `ORC-QAZ74ROOA4.4076aa` |  |
+| Gibbs energy; _printed: G^ex_ | 0 kJ/mol | 1723 | liquid; _alloy: Si 1_ | experimental | [5] Bergman 1992 | Table 3, p. 3, row 11; `ORC-QAZ74ROOA4.4076aa` |  |
 
 ### Crystal structure (19)
 
@@ -87,7 +87,7 @@ Table: Crystal structure, Si system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 5.468 Å | 0 | Diamond_A4 (Si); _alloy: Si 1_ | DFT | [6] Shin 2006 | Table 1, p. 3, row 2; `ORC-H3NBXSM7OX.dc4eb7` |  |
-| Lattice a | 5.467 Å |  | UNKNOWN; _alloy: Si 1_ | DFT | [7] Hao 2012 | Table 1, p. 5, row 4; `ORC-U75BAKDJGL` |  |
+| Lattice a | 5.467 Å |  | Si; _alloy: Si 1_ | DFT | [7] Hao 2012 | Table 1, p. 5, row 4; `ORC-U75BAKDJGL` |  |
 | Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Si 1_ | unspecified | [8] Olesinski 1985 | Table 3, p. 3, row 1; `ORC-33KPDQCY5A` |  |
 | Lattice a | 5.43 Å | 298.15 | (Si); _alloy: Si 1_ | model | [9] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 1; `ORC-4IRZERN3HP` |  |
 | Lattice a | 5.4308 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [8] Olesinski 1985; _cites Bublik 1969_ | Table 3, p. 3, row 3; `ORC-65BM67EK3C` |  |
@@ -98,9 +98,9 @@ Table: Crystal structure, Si system
 | Lattice a | 5.4306 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [13] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 1; `ORC-SNA7IV5XWS` |  |
 | Lattice a | 5.43 Å | 298.15 | Si; _alloy: Si 1_ | model | [14] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 2; `ORC-DFKFZI6PJ6` |  |
 | Lattice a | 5.4309 Å | 298.15 | Si; _alloy: Si 1_ | model | [15] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 3; `ORC-FKQM3EA6UH` |  |
+| Lattice a | 5.431 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [7] Hao 2012; _cites ref. 28_ | Table 1, p. 5, row 3; `ORC-VBNEWR3QAK` |  |
 | Lattice a | 4.686 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 1, p. 3, row 4; `ORC-ZJSOT32DDW.72f3e6` |  |
 | Lattice a | 5.431 Å | 298.15 | UNKNOWN; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 2, p. 3, row 21; `ORC-U2YKY4VD3X.cdaa61` |  |
-| Lattice a | 5.431 Å | 298.15 | UNKNOWN; _alloy: Si 1_ | unspecified | [7] Hao 2012; _cites ref. 28_ | Table 1, p. 5, row 3; `ORC-VBNEWR3QAK` |  |
 | Lattice b | 5.468 Å | 0 | Diamond_A4 (Si); _alloy: Si 1_ | DFT | [6] Shin 2006 | Table 1, p. 3, row 2; `ORC-H3NBXSM7OX.0790a7` |  |
 | Lattice c | 5.468 Å | 0 | Diamond_A4 (Si); _alloy: Si 1_ | DFT | [6] Shin 2006 | Table 1, p. 3, row 2; `ORC-H3NBXSM7OX.ac626f` |  |
 | Lattice c | 2.585 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [16] Olesinski 1984 | Table 1, p. 3, row 4; `ORC-ZJSOT32DDW.02769f` |  |

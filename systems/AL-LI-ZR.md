@@ -44,9 +44,9 @@ Table: Crystal structure, Al–Li–Zr system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a; _printed: a_ | 6.633 Å |  | AlLi2Zr; _alloy: Li 0.5, Zr 0.25_ | model | [1] Long 2020; _cites Zatorska 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901700-5) | Table 6, p. 15, row 2; `ORC-35TXJ35NS6` |  |
 | Lattice a; _printed: a_ | 6.598 Å |  | AlLi2Zr; _alloy: Li 0.5, Zr 0.25_ | model | [1] Long 2020 | Table 6, p. 15, row 1; `ORC-DYDG6BAIUF` |  |
+| Lattice a | 8.1336 Å | 298.15 | Al3Lix+yZr5-x | unspecified | [1] Long 2020 | Table 1, p. 2, row 19; `ORC-7NTRVVT3Z6.4e3caa` |  |
 | Lattice a | 6.633 Å | 298.15 | AlLi2Zr; _alloy: Li 0.5, Zr 0.25_ | unspecified | [1] Long 2020 | Table 1, p. 2, row 18; `ORC-7XFMYO7ZEE` |  |
-| Lattice a | 8.1336 Å | 298.15 | UNKNOWN | unspecified | [1] Long 2020 | Table 1, p. 2, row 19; `ORC-7NTRVVT3Z6.4e3caa` |  |
-| Lattice c | 5.7029 Å | 298.15 | UNKNOWN | unspecified | [1] Long 2020 | Table 1, p. 2, row 19; `ORC-7NTRVVT3Z6.544da4` |  |
+| Lattice c | 5.7029 Å | 298.15 | Al3Lix+yZr5-x | unspecified | [1] Long 2020 | Table 1, p. 2, row 19; `ORC-7NTRVVT3Z6.544da4` |  |
 
 ## Sources
 

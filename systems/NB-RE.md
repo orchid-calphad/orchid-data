@@ -133,12 +133,12 @@ Table: Crystal structure, Nb–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 9.676 Å |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2009_ [doi](https://doi.org/10.1016/j.pmatsci.2009.04.002) | Table 1, p. 4, row 10; `ORC-EHOAWE4CFE` |  |
-| Lattice a | 9.782 Å |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8; `ORC-EXG7IJEDXY.64d753` |  |
-| Lattice a | 9.677 Å | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 9; `ORC-FF32EHOQDS` |  |
-| Lattice a | 9.779 Å | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 7; `ORC-IKPKSWE2LY.74b2f5` |  |
-| lattice c a | 0.521 not_printed |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8; `ORC-EXG7IJEDXY.adb6d8` |  |
-| lattice c a | 0.523 not_printed | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 7; `ORC-IKPKSWE2LY.e61b0c` |  |
+| Lattice a | 9.782 Å |  | σ | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8; `ORC-EXG7IJEDXY.64d753` |  |
+| Lattice a | 9.779 Å | 0 | σ-(Re)10(Nb)4(Nb)16 | DFT | [2] Liu 2013 | Table 1, p. 4, row 7; `ORC-IKPKSWE2LY.74b2f5` |  |
+| Lattice a | 9.676 Å |  | χ | experimental | [2] Liu 2013; _cites Joubert 2009_ [doi](https://doi.org/10.1016/j.pmatsci.2009.04.002) | Table 1, p. 4, row 10; `ORC-EHOAWE4CFE` |  |
+| Lattice a | 9.677 Å | 0 | χ-(Re)24(Nb)10(Re)24 | DFT | [2] Liu 2013 | Table 1, p. 4, row 9; `ORC-FF32EHOQDS` |  |
+| lattice c a | 0.521 not_printed |  | σ | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8; `ORC-EXG7IJEDXY.adb6d8` |  |
+| lattice c a | 0.523 not_printed | 0 | σ-(Re)10(Nb)4(Nb)16 | DFT | [2] Liu 2013 | Table 1, p. 4, row 7; `ORC-IKPKSWE2LY.e61b0c` |  |
 
 ## Sources
 

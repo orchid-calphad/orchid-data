@@ -117,9 +117,9 @@ Table: Crystal structure, Co–Ga system
 | Lattice a | 2.886 Å | 0 | β | DFT | [1] Chari 2010 | Table 3, p. 5, row 2; `ORC-5F2LUYPK5B` |  |
 | Lattice a | 2.813 Å | 0 | β | DFT | [1] Chari 2010 | Table 3, p. 5, row 1; `ORC-X2XLDE56OB` |  |
 | Lattice a | 2.88 Å |  | β | experimental | [1] Chari 2010; _cites Whittle 1980_ [doi](https://doi.org/10.1088/0305-4608/10/10/008) | Table 3, p. 5, row 3; `ORC-YP74RSNZKL` |  |
-| Lattice c | 6.442 Å |  | UNKNOWN; _alloy: Ga 0.75_ | experimental | [1] Chari 2010; _cites Meyer 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900223-5) | Table 3, p. 5, row 9; `ORC-EF5CX2IQPJ` |  |
-| Lattice c | 6.295 Å | 0 | UNKNOWN; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 7; `ORC-M4PZ4DOKL2` |  |
-| Lattice c | 6.471 Å | 0 | UNKNOWN; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 8; `ORC-QRZM4UUIRJ` |  |
+| Lattice c | 6.442 Å |  | CoGa3; _alloy: Ga 0.75_ | experimental | [1] Chari 2010; _cites Meyer 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900223-5) | Table 3, p. 5, row 9; `ORC-EF5CX2IQPJ` |  |
+| Lattice c | 6.295 Å | 0 | CoGa3; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 7; `ORC-M4PZ4DOKL2` |  |
+| Lattice c | 6.471 Å | 0 | CoGa3; _alloy: Ga 0.75_ | DFT | [1] Chari 2010 | Table 3, p. 5, row 8; `ORC-QRZM4UUIRJ` |  |
 
 ## Sources
 

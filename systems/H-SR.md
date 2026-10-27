@@ -1,10 +1,10 @@
 # H–Sr system
 
-> H–Sr system: 5 accepted literature values (formation 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Sr system: 8 accepted literature values (formation 5, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-SR.html · Markdown: https://data.orchid-project.org/systems/H-SR.md
 
-5 accepted literature values from 1 paper(s) (experimental 5); 0 calculated phase diagram(s).
+8 accepted literature values from 1 paper(s) (experimental 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-SR.json) · [CSV](https://data.orchid-project.org/systems/H-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-SR) · [phases (7)](https://data.orchid-project.org/phases/pages/H-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-SR.html) · [Markdown](https://data.orchid-project.org/systems/H-SR.md)
 
@@ -12,13 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 5 |
+| crystal structure | 3 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/H/H-SR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/H/H-SR.json)
 
@@ -35,6 +36,18 @@ Table: Enthalpies of formation, H–Sr system (5)
 | αSrH2 |  | -180 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2012; _cites Ehrlich 1963_ [doi](https://doi.org/10.1002/zaac.19633240302) | Table 1, p. 2, row 2; `ORC-FEBDULZVHP` |  |
 | αSrH2 |  | -176 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2012; _cites Guntz 1923_ | Table 1, p. 2, row 1; `ORC-TWLMF7PKMO` |  |
 | βSrH2 |  | -189 kJ/mol (basis unstated) ± 8 | 298.15 | experimental |  |  | [1] Chen 2012; _cites Peterson 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990144-7) | Table 1, p. 2, row 5; `ORC-5NWDXOAIKQ` |  |
+
+## Other properties
+
+### Crystal structure (3)
+
+Table: Crystal structure, H–Sr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 6.364 Å | 1128.15 (\<) | αSrH2; _alloy: Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8; `ORC-IDFF43CD45.6d82af` |  |
+| Lattice b | 3.875 Å | 1128.15 (\<) | αSrH2; _alloy: Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8; `ORC-IDFF43CD45.329fef` |  |
+| Lattice c | 7.343 Å | 1128.15 (\<) | αSrH2; _alloy: Sr 0.333333_ | experimental | [1] Chen 2012; _cites Zintl 1935_ | Table 2, p. 2, row 8; `ORC-IDFF43CD45.3d21c9` |  |
 
 ## Sources
 

@@ -61,21 +61,21 @@ Table: Crystal structure, Hf–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 3.4342 Å |  | BCC; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 3; `ORC-6ZL6HQPMPE` |  |
+| Lattice a | 3.5121 Å | 0 | BCC; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 1; `ORC-RTK6L5IAV3` |  |
+| Lattice a | 4.4454 Å | 0 | FCC; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 4; `ORC-XWB32OY6YY` |  |
+| Lattice a | 3.193 Å |  | HCP; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6; `ORC-JOGUOUELVJ.5286f0` |  |
+| Lattice a | 3.1866 Å | 0 | HCP; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5; `ORC-OBAXBUPIIY.710a05` |  |
 | Lattice a | 4.3243 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2; `ORC-INLOZMMG5O.161925` |  |
 | Lattice a | 4.3761 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 1; `ORC-JZE7DOL3U6.44778f` |  |
 | Lattice a | 4.8073 Å | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3; `ORC-EFMTTLXD5W.274eef` |  |
 | Lattice a | 3.9047 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4; `ORC-2BYWB2EIGC.808426` |  |
 | Lattice a | 4.2543 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 5; `ORC-QK24NQOZI6.970b14` |  |
-| Lattice a | 3.4342 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 3; `ORC-6ZL6HQPMPE` |  |
-| Lattice a | 3.193 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6; `ORC-JOGUOUELVJ.5286f0` |  |
-| Lattice a | 3.1866 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5; `ORC-OBAXBUPIIY.710a05` |  |
-| Lattice a | 3.5121 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 1; `ORC-RTK6L5IAV3` |  |
-| Lattice a | 4.4454 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 4; `ORC-XWB32OY6YY` |  |
+| Lattice c | 5.0395 Å |  | HCP; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6; `ORC-JOGUOUELVJ.61bafa` |  |
+| Lattice c | 5.0296 Å | 0 | HCP; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5; `ORC-OBAXBUPIIY.1921c5` |  |
 | Lattice c | 8.9507 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2; `ORC-INLOZMMG5O.827aa3` |  |
 | Lattice c | 3.3818 Å | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3; `ORC-EFMTTLXD5W.887dbe` |  |
 | Lattice c | 9.8884 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4; `ORC-2BYWB2EIGC.b23f7a` |  |
-| Lattice c | 5.0395 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6; `ORC-JOGUOUELVJ.61bafa` |  |
-| Lattice c | 5.0296 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5; `ORC-OBAXBUPIIY.1921c5` |  |
 
 ### Model expression (4)
 

@@ -1,8 +1,8 @@
 {
  "table": "registry.parquet",
  "rows": 10430,
- "csv_sha256": "bfa7e7c716c1fe975675cc1e2b9d1ac41be685a452b510075966d16c044e6689",
- "content_sha256": "e865436d92a6bb860e5513aa194875b4431c3dd0da0c06f55e8666a213fb06bb",
+ "csv_sha256": "0660370e1b228f118bb221cb19e165dd7514ad69c189c10a3f80bbeb5002adff",
+ "content_sha256": "841ff340dac30d65f3f2438dbdbeced28264bf855a971e4265b7ceeb0f549b36",
  "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder",
  "structure_types": {
   "table": "structure_types.parquet",

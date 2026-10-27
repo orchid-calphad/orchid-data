@@ -90,9 +90,9 @@ Table: Crystal structure, Nd–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 51.198 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6; `ORC-YFB3GBBEME.80a56b` |  |
-| lattice molar volume | 46.796 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6; `ORC-YFB3GBBEME.962f50` |  |
-| lattice molar volume | 45.893 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6; `ORC-YFB3GBBEME.b7cdf9` |  |
+| lattice molar volume | 45.893 cm3 mol-1 | 298.15 | Nd2O3 (A-type); _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6; `ORC-YFB3GBBEME.b7cdf9` |  |
+| lattice molar volume | 46.796 cm3 mol-1 | 298.15 | Nd2O3 (B-type); _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6; `ORC-YFB3GBBEME.962f50` |  |
+| lattice molar volume | 51.198 cm3 mol-1 | 298.15 | Nd2O3 (C-type); _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6; `ORC-YFB3GBBEME.80a56b` |  |
 
 ## Sources
 

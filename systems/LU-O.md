@@ -79,9 +79,9 @@ Table: Crystal structure, Lu–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 42.225 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17; `ORC-VJZF7ZR5HJ.375a3b` |  |
-| lattice molar volume | 38.878 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17; `ORC-VJZF7ZR5HJ.4c5015` |  |
-| lattice molar volume | 38.041 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17; `ORC-VJZF7ZR5HJ.c510c1` |  |
+| lattice molar volume | 38.041 cm3 mol-1 | 298.15 | Lu2O3 (A-type); _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17; `ORC-VJZF7ZR5HJ.c510c1` |  |
+| lattice molar volume | 38.878 cm3 mol-1 | 298.15 | Lu2O3 (B-type); _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17; `ORC-VJZF7ZR5HJ.4c5015` |  |
+| lattice molar volume | 42.225 cm3 mol-1 | 298.15 | Lu2O3 (C-type); _alloy: Lu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 17; `ORC-VJZF7ZR5HJ.375a3b` |  |
 
 ### Other property (5)
 

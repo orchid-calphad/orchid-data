@@ -252,25 +252,25 @@ Table: Crystal structure, Cu–Hf system
 | Lattice a | 6.873 not_printed |  | Cu5Hf; _alloy: Hf 0.166667_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 1; `ORC-KO5HZVOVZY.4c8672` |  |
 | Lattice a | 7.8444 not_printed |  | Cu8Hf3; _alloy: Hf 0.272727_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 3; `ORC-NV44I4BETM.5ca9ca` |  |
 | Lattice a | 3.1631 not_printed |  | CuHf2; _alloy: Hf 0.666667_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 5; `ORC-GUOPGQ2MFL.7fc47c` |  |
-| Lattice a | 7.8113 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0.272727_ | experimental | [1] Zhong 2013; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 1, p. 6, row 7; `ORC-CKOOEMS4TV.d523ac` |  |
-| Lattice a | 11.18 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0.215385_ | experimental | [1] Zhong 2013; _cites Gabathuler 1975_ [doi](https://doi.org/10.1107/s0567740875003378) | Table 1, p. 6, row 6; `ORC-E25VVGY4YC.adb6d9` |  |
-| Lattice a | 3.1695 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0.666667_ | experimental | [1] Zhong 2013; _cites Nevitt 1962_ | Table 1, p. 6, row 8; `ORC-HONM4L2INM.c7a960` |  |
+| Lattice a | 11.18 not_printed | 298.15 | Cu51Hf14; _alloy: Hf 0.215385_ | experimental | [1] Zhong 2013; _cites Gabathuler 1975_ [doi](https://doi.org/10.1107/s0567740875003378) | Table 1, p. 6, row 6; `ORC-E25VVGY4YC.adb6d9` |  |
+| Lattice a | 7.8113 not_printed | 298.15 | Cu8Hf3; _alloy: Hf 0.272727_ | experimental | [1] Zhong 2013; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 1, p. 6, row 7; `ORC-CKOOEMS4TV.d523ac` |  |
+| Lattice a | 3.1695 not_printed | 298.15 | CuHf2; _alloy: Hf 0.666667_ | experimental | [1] Zhong 2013; _cites Nevitt 1962_ | Table 1, p. 6, row 8; `ORC-HONM4L2INM.c7a960` |  |
 | Lattice b | 12.6294 not_printed |  | Cu10Hf7; _alloy: Hf 0.411765_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 4; `ORC-WRYOOWWIRX.e1dec5` |  |
 | Lattice b | 11.2319 not_printed |  | Cu51Hf14; _alloy: Hf 0.215385_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 2; `ORC-WJAN4CQ7RQ.b302ba` |  |
 | Lattice b | 6.873 not_printed |  | Cu5Hf; _alloy: Hf 0.166667_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 1; `ORC-KO5HZVOVZY.3187c7` |  |
 | Lattice b | 8.1426 not_printed |  | Cu8Hf3; _alloy: Hf 0.272727_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 3; `ORC-NV44I4BETM.704aa6` |  |
 | Lattice b | 3.1631 not_printed |  | CuHf2; _alloy: Hf 0.666667_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 5; `ORC-GUOPGQ2MFL.a083e6` |  |
-| Lattice b | 8.1014 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0.272727_ | experimental | [1] Zhong 2013; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 1, p. 6, row 7; `ORC-CKOOEMS4TV.b5e625` |  |
-| Lattice b | 11.18 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0.215385_ | experimental | [1] Zhong 2013; _cites Gabathuler 1975_ [doi](https://doi.org/10.1107/s0567740875003378) | Table 1, p. 6, row 6; `ORC-E25VVGY4YC.c874b1` |  |
-| Lattice b | 3.1695 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0.666667_ | experimental | [1] Zhong 2013; _cites Nevitt 1962_ | Table 1, p. 6, row 8; `ORC-HONM4L2INM.0233f8` |  |
+| Lattice b | 11.18 not_printed | 298.15 | Cu51Hf14; _alloy: Hf 0.215385_ | experimental | [1] Zhong 2013; _cites Gabathuler 1975_ [doi](https://doi.org/10.1107/s0567740875003378) | Table 1, p. 6, row 6; `ORC-E25VVGY4YC.c874b1` |  |
+| Lattice b | 8.1014 not_printed | 298.15 | Cu8Hf3; _alloy: Hf 0.272727_ | experimental | [1] Zhong 2013; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 1, p. 6, row 7; `ORC-CKOOEMS4TV.b5e625` |  |
+| Lattice b | 3.1695 not_printed | 298.15 | CuHf2; _alloy: Hf 0.666667_ | experimental | [1] Zhong 2013; _cites Nevitt 1962_ | Table 1, p. 6, row 8; `ORC-HONM4L2INM.0233f8` |  |
 | Lattice c | 9.3148 not_printed |  | Cu10Hf7; _alloy: Hf 0.411765_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 4; `ORC-WRYOOWWIRX.133414` |  |
 | Lattice c | 8.2905 not_printed |  | Cu51Hf14; _alloy: Hf 0.215385_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 2; `ORC-WJAN4CQ7RQ.1315b3` |  |
 | Lattice c | 6.873 not_printed |  | Cu5Hf; _alloy: Hf 0.166667_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 1; `ORC-KO5HZVOVZY.1985fb` |  |
 | Lattice c | 9.9788 not_printed |  | Cu8Hf3; _alloy: Hf 0.272727_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 3; `ORC-NV44I4BETM.70e588` |  |
 | Lattice c | 11.134 not_printed |  | CuHf2; _alloy: Hf 0.666667_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 5; `ORC-GUOPGQ2MFL.d90a9b` |  |
-| Lattice c | 9.947 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0.272727_ | experimental | [1] Zhong 2013; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 1, p. 6, row 7; `ORC-CKOOEMS4TV.13be9d` |  |
-| Lattice c | 8.235 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0.215385_ | experimental | [1] Zhong 2013; _cites Gabathuler 1975_ [doi](https://doi.org/10.1107/s0567740875003378) | Table 1, p. 6, row 6; `ORC-E25VVGY4YC.d32c5a` |  |
-| Lattice c | 11.1333 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0.666667_ | experimental | [1] Zhong 2013; _cites Nevitt 1962_ | Table 1, p. 6, row 8; `ORC-HONM4L2INM.260a20` |  |
+| Lattice c | 8.235 not_printed | 298.15 | Cu51Hf14; _alloy: Hf 0.215385_ | experimental | [1] Zhong 2013; _cites Gabathuler 1975_ [doi](https://doi.org/10.1107/s0567740875003378) | Table 1, p. 6, row 6; `ORC-E25VVGY4YC.d32c5a` |  |
+| Lattice c | 9.947 not_printed | 298.15 | Cu8Hf3; _alloy: Hf 0.272727_ | experimental | [1] Zhong 2013; _cites Bsenko 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990085-5) | Table 1, p. 6, row 7; `ORC-CKOOEMS4TV.13be9d` |  |
+| Lattice c | 11.1333 not_printed | 298.15 | CuHf2; _alloy: Hf 0.666667_ | experimental | [1] Zhong 2013; _cites Nevitt 1962_ | Table 1, p. 6, row 8; `ORC-HONM4L2INM.260a20` |  |
 | lattice volume | 16.052 Å3 atom−1 |  | Cu10Hf7; _alloy: Hf 0.411765_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 4; `ORC-WRYOOWWIRX.6a9bac` |  |
 | lattice volume | 13.935 Å3 atom−1 |  | Cu51Hf14; _alloy: Hf 0.215385_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 2; `ORC-WJAN4CQ7RQ.a4cf35` |  |
 | lattice volume | 13.534 Å3 atom−1 |  | Cu5Hf; _alloy: Hf 0.166667_ | unspecified | [1] Zhong 2013 | Table 1, p. 6, row 1; `ORC-KO5HZVOVZY.a56b35` |  |

@@ -81,9 +81,9 @@ Table: Crystal structure, O–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 42.818 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 11; `ORC-4IBQPQCJYM.6e61fa` |  |
-| lattice molar volume | 42.036 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 11; `ORC-4IBQPQCJYM.97f221` |  |
-| lattice molar volume | 46.473 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 11; `ORC-4IBQPQCJYM.dc9791` |  |
+| lattice molar volume | 42.036 cm3 mol-1 | 298.15 | Tb2O3 (A-type); _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 11; `ORC-4IBQPQCJYM.97f221` |  |
+| lattice molar volume | 42.818 cm3 mol-1 | 298.15 | Tb2O3 (B-type); _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 11; `ORC-4IBQPQCJYM.6e61fa` |  |
+| lattice molar volume | 46.473 cm3 mol-1 | 298.15 | Tb2O3 (C-type); _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 11; `ORC-4IBQPQCJYM.dc9791` |  |
 
 ### Other property (5)
 

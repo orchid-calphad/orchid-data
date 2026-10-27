@@ -1,10 +1,10 @@
 # Ni–Si–Ti system
 
-> Ni–Si–Ti system: 23 accepted literature values (crystal structure 19, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Si–Ti system: 20 accepted literature values (crystal structure 16, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SI-TI.html · Markdown: https://data.orchid-project.org/systems/NI-SI-TI.md
 
-23 accepted literature values from 1 paper(s) (DFT 12, unspecified 11); 0 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (DFT 12, unspecified 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SI-TI.json) · [CSV](https://data.orchid-project.org/systems/NI-SI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SI-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SI-TI.html) · [Markdown](https://data.orchid-project.org/systems/NI-SI-TI.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | DFT | 12 |
-| unspecified | 11 |
+| unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 4 |
-| crystal structure | 19 |
+| crystal structure | 16 |
 
 ## Formation enthalpies
 
@@ -37,7 +37,7 @@ Table: Enthalpies of formation, Ni–Si–Ti system (4)
 
 ## Other properties
 
-### Crystal structure (19)
+### Crystal structure (16)
 
 Table: Crystal structure, Ni–Si–Ti system
 
@@ -47,21 +47,18 @@ Table: Crystal structure, Ni–Si–Ti system
 | Lattice a; _printed: a_ | 4.8235 Å | 0 | G'-Ni3SiTi2; _alloy: Si 0.166667, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 16; `ORC-QYYI5BJD5X.bc9c4c` |  |
 | Lattice a; _printed: a_ | 11.3232 Å | 0 | G-Ni16Si7Ti6; _alloy: Si 0.241379, Ti 0.206897_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 15; `ORC-G5LBQJSDZC.314d0b` |  |
 | Lattice a; _printed: a_ | 12.6079 Å | 0 | V-Ni4Si7Ti4; _alloy: Si 0.466667, Ti 0.266667_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 17; `ORC-GJ3G4ZRRAZ.7d8fe1` |  |
-| Lattice a | 11.187 Å | 298.15 | UNKNOWN; _alloy: Si 0.241379, Ti 0.206897_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 13; `ORC-2DVFXJ365B` |  |
-| Lattice a | 12.5229 Å | 298.15 | UNKNOWN; _alloy: Si 0.466667, Ti 0.266667_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 15; `ORC-2TXKRTL5BO.36d899` |  |
-| Lattice a | 6.1484 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16; `ORC-4GORXNXG5Y.fdd93b` |  |
-| Lattice a | 5.101 Å | 298.15 | UNKNOWN; _alloy: Si 0, Ti 0.25_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 10; `ORC-PIJ7AINIE5.da0d14` |  |
-| Lattice a | 3.007 Å | 298.15 | UNKNOWN; _alloy: Si 0, Ti 0.5_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 2; `ORC-SABQIIKH74` |  |
-| Lattice a | 4.79 Å | 298.15 | UNKNOWN; _alloy: Si 0.166667, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 14; `ORC-XMSYFULQZ6.5d0d07` |  |
+| Lattice a | 6.1484 Å | 298.15 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16; `ORC-4GORXNXG5Y.fdd93b` |  |
+| Lattice a | 4.79 Å | 298.15 | G'-Ni3SiTi2; _alloy: Si 0.166667, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 14; `ORC-XMSYFULQZ6.5d0d07` |  |
+| Lattice a | 11.187 Å | 298.15 | G-Ni16Si7Ti6; _alloy: Si 0.241379, Ti 0.206897_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 13; `ORC-2DVFXJ365B` |  |
+| Lattice a | 12.5229 Å | 298.15 | V-Ni4Si7Ti4; _alloy: Si 0.466667, Ti 0.266667_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 15; `ORC-2TXKRTL5BO.36d899` |  |
 | Lattice b; _printed: b_ | 3.6779 Å | 0 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 18; `ORC-2IBXABR2NE.3dc799` |  |
-| Lattice b | 3.6698 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16; `ORC-4GORXNXG5Y.7f311f` |  |
+| Lattice b | 3.6698 Å | 298.15 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16; `ORC-4GORXNXG5Y.7f311f` |  |
 | Lattice c; _printed: c_ | 7.0327 Å | 0 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 18; `ORC-2IBXABR2NE.78eb77` |  |
 | Lattice c; _printed: c_ | 7.6027 Å | 0 | G'-Ni3SiTi2; _alloy: Si 0.166667, Ti 0.333333_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 16; `ORC-QYYI5BJD5X.324835` |  |
 | Lattice c; _printed: c_ | 4.9678 Å | 0 | V-Ni4Si7Ti4; _alloy: Si 0.466667, Ti 0.266667_ | DFT | [1] Tokunaga 2004 | Table 2, p. 3, row 17; `ORC-GJ3G4ZRRAZ.44462d` |  |
-| Lattice c | 4.9343 Å | 298.15 | UNKNOWN; _alloy: Si 0.466667, Ti 0.266667_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 15; `ORC-2TXKRTL5BO.f282fd` |  |
-| Lattice c | 7.0173 Å | 298.15 | UNKNOWN; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16; `ORC-4GORXNXG5Y.a18ab3` |  |
-| Lattice c | 8.3067 Å | 298.15 | UNKNOWN; _alloy: Si 0, Ti 0.25_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 10; `ORC-PIJ7AINIE5.bbe7fc` |  |
-| Lattice c | 7.55 Å | 298.15 | UNKNOWN; _alloy: Si 0.166667, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 14; `ORC-XMSYFULQZ6.6c87bc` |  |
+| Lattice c | 7.0173 Å | 298.15 | E-NiSiTi; _alloy: Si 0.333333, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 16; `ORC-4GORXNXG5Y.a18ab3` |  |
+| Lattice c | 7.55 Å | 298.15 | G'-Ni3SiTi2; _alloy: Si 0.166667, Ti 0.333333_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 14; `ORC-XMSYFULQZ6.6c87bc` |  |
+| Lattice c | 4.9343 Å | 298.15 | V-Ni4Si7Ti4; _alloy: Si 0.466667, Ti 0.266667_ | unspecified | [1] Tokunaga 2004 | Table 1, p. 3, row 15; `ORC-2TXKRTL5BO.f282fd` |  |
 
 ## Sources
 

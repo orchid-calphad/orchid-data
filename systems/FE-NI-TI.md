@@ -1,10 +1,10 @@
 # Fe–Ni–Ti system
 
-> Fe–Ni–Ti system: 26 accepted literature values (crystal structure 26) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ni–Ti system: 22 accepted literature values (crystal structure 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-NI-TI.html · Markdown: https://data.orchid-project.org/systems/FE-NI-TI.md
 
-26 accepted literature values from 1 paper(s) (model 26); 0 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (model 22); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NI-TI.json) · [CSV](https://data.orchid-project.org/systems/FE-NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NI-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-NI-TI.html) · [Markdown](https://data.orchid-project.org/systems/FE-NI-TI.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 26 |
+| model | 22 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 26 |
+| crystal structure | 22 |
 
 ## Other properties
 
-### Crystal structure (26)
+### Crystal structure (22)
 
 Table: Crystal structure, Fe–Ni–Ti system
 
@@ -49,11 +49,7 @@ Table: Crystal structure, Fe–Ni–Ti system
 | Lattice a | 3.5837 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.bb8b00` |  |
 | Lattice a | 3.5939 Å | 298.15 | γ-(Fe, Ni) | model | [1] Keyzer 2009 | Table 1, p. 3, row 1; `ORC-L4SLJ36CHK.f0a1f7` |  |
 | Lattice a | 2.9506 Å | 1155.15 (\<) | α-Ti; _α-Ti: Fe 4.000e-4, Ni 0.002, Ti 0.9976_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 3; `ORC-KUE7R3ZWC3.1dc8ec` |  |
-| Lattice a | 4.956 Å | 1700.15 (\<) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8; `ORC-EB2TNZHVGR.973c1d` |  |
-| Lattice a | 4.785 Å | 1700.15 (\<) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8; `ORC-EB2TNZHVGR.aada15` |  |
 | Lattice c | 4.6825 Å | 1155.15 (\<) | α-Ti; _α-Ti: Fe 4.000e-4, Ni 0.002, Ti 0.9976_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 3; `ORC-KUE7R3ZWC3.2d49d0` |  |
-| Lattice c | 8.032 Å | 1700.15 (\<) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8; `ORC-EB2TNZHVGR.5e82d8` |  |
-| Lattice c | 7.799 Å | 1700.15 (\<) | UNKNOWN; _alloy: Ni 0, Ti 0.333333_ | model | [1] Keyzer 2009 | Table 1, p. 3, row 8; `ORC-EB2TNZHVGR.67d191` |  |
 
 ## Sources
 

@@ -358,16 +358,16 @@ Table: Crystal structure, Cu–Si system
 | Lattice a | 5.4306 Å | 298.15 | Diamond | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 10; `ORC-K3QLNZ3W2P` |  |
 | Lattice a | 3.6149 Å | 298.15 | Fcc | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 1; `ORC-ELRYNKMJSO` |  |
 | Lattice a | 2.5622 Å | 298.15 | Hcp | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 2; `ORC-NLBV4CS7HQ.deb2c0` |  |
-| Lattice a | 4.036 Å | 298.15 | UNKNOWN; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 4; `ORC-5TWUHISCIW.b81a1b` |  |
-| Lattice a | 76.76 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9; `ORC-DHJZCGVYRX.62d0ef` |  |
 | Lattice a | 6.198 Å | 298.15 | γ-Cu33Si7; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 5; `ORC-I7NS57K3BA` |  |
+| Lattice a | 4.036 Å | 298.15 | δ-Cu33Si7; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 4; `ORC-5TWUHISCIW.b81a1b` |  |
 | Lattice a | 9.718 Å | 298.15 | ε-Cu15Si4; _alloy: Si 0.210526_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 6; `ORC-RCAULWVDCK` |  |
 | Lattice a | 2.47 Å | 298.15 | η-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 7; `ORC-WJQCRRRKVW` |  |
 | Lattice a | 4.72 Å | 298.15 | η′-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 8; `ORC-AGMJJDVIZY` |  |
-| Lattice b | 7 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9; `ORC-DHJZCGVYRX.dd5865` |  |
+| Lattice a | 76.76 Å | 298.15 | η″-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9; `ORC-DHJZCGVYRX.62d0ef` |  |
+| Lattice b | 7 Å | 298.15 | η″-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9; `ORC-DHJZCGVYRX.dd5865` |  |
 | Lattice c | 4.1823 Å | 298.15 | Hcp | model | [4] Soldi 2019; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02881559) | Table 1, p. 3, row 2; `ORC-NLBV4CS7HQ.625a83` |  |
-| Lattice c | 4.943 Å | 298.15 | UNKNOWN; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 4; `ORC-5TWUHISCIW.d5f6ec` |  |
-| Lattice c | 21.94 Å | 298.15 | UNKNOWN; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9; `ORC-DHJZCGVYRX.0086a3` |  |
+| Lattice c | 4.943 Å | 298.15 | δ-Cu33Si7; _alloy: Si 0.175_ | model | [4] Soldi 2019; _cites Mattern 2007_ | Table 1, p. 3, row 4; `ORC-5TWUHISCIW.d5f6ec` |  |
+| Lattice c | 21.94 Å | 298.15 | η″-Cu3Si; _alloy: Si 0.25_ | experimental | [4] Soldi 2019; _cites Solberg 1978_ [doi](https://doi.org/10.1107/s0567739478001448) | Table 1, p. 3, row 9; `ORC-DHJZCGVYRX.0086a3` |  |
 
 ## Sources
 

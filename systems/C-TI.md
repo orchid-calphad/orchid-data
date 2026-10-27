@@ -1,10 +1,10 @@
 # C–Ti system
 
-> C–Ti system: 86 accepted literature values (crystal structure 33, formation 32, invariant reaction 13, heat capacity / entropy / enthalpy 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Ti system: 103 accepted literature values (crystal structure 50, formation 32, invariant reaction 13, heat capacity / entropy / enthalpy 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-TI.html · Markdown: https://data.orchid-project.org/systems/C-TI.md
 
-86 accepted literature values from 5 paper(s) (experimental 49, model 37); 0 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+103 accepted literature values from 5 paper(s) (experimental 55, model 37, unspecified 11); 0 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-TI.json) · [CSV](https://data.orchid-project.org/systems/C-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-TI) · [phases (6)](https://data.orchid-project.org/phases/pages/C-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-TI.html) · [Markdown](https://data.orchid-project.org/systems/C-TI.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 49 |
+| experimental | 55 |
 | model | 37 |
+| unspecified | 11 |
 
 Table: Accepted values by property group
 
@@ -23,7 +24,7 @@ Table: Accepted values by property group
 | phase transition | 3 |
 | formation | 32 |
 | heat capacity / entropy / enthalpy | 5 |
-| crystal structure | 33 |
+| crystal structure | 50 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-TI.json) · [CALPHAD hull TiC-95Dus](https://data.orchid-project.org/hulls/calphad-sgte/C/C-TI--TiC-95Dus.json) · [CALPHAD hull TiC-96Jon](https://data.orchid-project.org/hulls/calphad-sgte/C/C-TI--TiC-96Jon.json) · [CALPHAD hull TiC-96Sei](https://data.orchid-project.org/hulls/calphad-sgte/C/C-TI--TiC-96Sei.json) · [CALPHAD hull TiC-99Dum-LB](https://data.orchid-project.org/hulls/calphad-sgte/C/C-TI--TiC-99Dum-LB.json)
 
@@ -112,24 +113,36 @@ Table: Heat capacity / entropy / enthalpy, C–Ti system
 | Entropy; _printed: S298_ | 12 J/mol-atom/K | 298.15 | TiC; _alloy: Ti 0.5_ | model | [4] Frisk 2003; _cites Fernandez 1992_ | Table 1, p. 2, row 5; `ORC-M6IRHQCMO2.e02674` |  |
 | Entropy; _printed: S298_ | 12 J/mol-atom/K | 298.15 | TiC; _alloy: Ti 0.5_ | model | [4] Frisk 2003; _cites Jonsson 1996_ | Table 1, p. 2, row 1; `ORC-TNZG72OOD4.44fb65` |  |
 
-### Crystal structure (33)
+### Crystal structure (50)
 
 Table: Crystal structure, C–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.326 Å | 83 | TiC1-x | unspecified | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 30; `ORC-FH2C7MVOX3` |  |
 | Lattice a | 4.326 Å | 83 | TiC1-x | experimental | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 2; `ORC-YF22H3MIK7` |  |
 | Lattice a; _printed: a_ | 4.33 Å | 277.15 | TiC; _alloy: Ti 0.5_ | model | [5] Saeki 2020 | Table 1, p. 4, row 1; `ORC-WEFTUL3XMU.7af108` |  |
+| Lattice a | 4.323 Å | 298.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 35; `ORC-2OIFNYVBWC` |  |
 | Lattice a | 4.323 Å | 298.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 5, row 7; `ORC-3TOVP4H6HJ` |  |
+| Lattice a | 4.332 Å | 298.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 33; `ORC-3TZ6STB7MG` |  |
 | Lattice a | 4.33 Å | 298.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 5, row 6; `ORC-52MJ3CABBC` |  |
 | Lattice a | 4.306 Å | 298.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 3; `ORC-5AQ2SQEBJB` |  |
+| Lattice a | 4.3225 Å | 298.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 56; `ORC-7HON4ER7MV` |  |
 | Lattice a | 4.332 Å | 298.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 5, row 5; `ORC-CXRFR4YIZG` |  |
 | Lattice a | 4.3225 Å | 298.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 5, row 28; `ORC-JBKAPRKBMQ` |  |
+| Lattice a | 4.33 Å | 298.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 57; `ORC-K555UC5XIO` |  |
+| Lattice a | 4.327 Å | 298.15 | TiC1-x | unspecified | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 32; `ORC-NH3AWTPFXI` |  |
 | Lattice a | 4.327 Å | 298.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 4; `ORC-V33HXPYYTW` |  |
+| Lattice a | 4.306 Å | 298.15 | TiC1-x | unspecified | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 31; `ORC-WJ6QES22OD` |  |
 | Lattice a | 4.3292 Å | 299 | TiC1-x | experimental | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 1; `ORC-ESSVDFB7TU` |  |
+| Lattice a | 4.3292 Å | 299 | TiC1-x | unspecified | [3] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 29; `ORC-FS4HUFOO4N` |  |
+| Lattice a | 4.328 Å | 1773.15 | TiC1-x | unspecified | [3] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 4, row 58; `ORC-5AY5GS7VOQ` |  |
+| Lattice a | 4.333 Å | 1773.15 | TiC1-x | unspecified | [3] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 4, row 59; `ORC-5IYLEVA7SL` |  |
+| Lattice a | 4.322 Å | 1773.15 | TiC1-x | unspecified | [3] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 4, row 60; `ORC-7KZPKVXAZM` |  |
 | Lattice a | 4.333 Å | 1773.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 5, row 31; `ORC-7NSLIJ6VRY` |  |
 | Lattice a | 4.324 Å | 1773.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 5, row 33; `ORC-HLVO7L4PXB` |  |
 | Lattice a | 4.328 Å | 1773.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 5, row 30; `ORC-HXRLH5WJKR` |  |
+| Lattice a | 4.324 Å | 1773.15 | TiC1-x | unspecified | [3] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 4, row 61; `ORC-WB2LJZNTBZ` |  |
 | Lattice a | 4.322 Å | 1773.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Aivazov 1975_ | Table 3, p. 5, row 32; `ORC-WFIUCR6GU6` |  |
 | Lattice a | 4.3166 Å | 1823.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Du 1993_ | Table 3, p. 5, row 9; `ORC-BRSKNGO72K` |  |
 | Lattice a | 4.3136 Å | 1823.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Du 1993_ | Table 3, p. 5, row 12; `ORC-JUVKOA44IL` |  |
@@ -146,11 +159,16 @@ Table: Crystal structure, C–Ti system
 | Lattice a | 4.318 Å | 2903.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 5, row 18; `ORC-PERZDOAG6E` |  |
 | Lattice a | 4.321 Å | 2915.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 5, row 16; `ORC-DSZJXZ2UA7` |  |
 | Lattice a | 4.329 Å | 2934.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 5, row 19; `ORC-NIDX2BBEYY` |  |
+| Lattice a | 4.319 Å | 3073.15 | TiC1-x | unspecified | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 49; `ORC-2JNM73ZWQW` |  |
 | Lattice a | 4.319 Å | 3073.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 5, row 21; `ORC-SOZTZFN243` |  |
 | Lattice a | 4.326 Å | 3133.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 5, row 22; `ORC-GT3GKNBMEL` |  |
+| Lattice a | 4.326 Å | 3133.15 | TiC1-x | unspecified | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 50; `ORC-V55DKBUNYN` |  |
 | Lattice a | 4.332 Å | 3173.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 5, row 27; `ORC-2J6ECUHD6J` |  |
+| Lattice a | 4.332 Å | 3173.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 55; `ORC-JSXMV274Z3` |  |
 | Lattice a | 4.33 Å | 3203.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 5, row 26; `ORC-W3II7ZPGGK` |  |
+| Lattice a | 4.33 Å | 3203.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites Ordan'yan 1975_ | Table 3, p. 4, row 54; `ORC-X6WILGR6JX` |  |
 | Lattice a | 4.33 Å | 3265.15 | TiC1-x | experimental | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 5, row 23; `ORC-HMRPAEMDY2` |  |
+| Lattice a | 4.33 Å | 3265.15 | TiC1-x | unspecified | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 51; `ORC-OCW3DQAHQJ` |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Ni–Ti system
 
-> Ni–Ti system: 225 accepted literature values (formation 97, crystal structure 50, heat capacity / entropy / enthalpy 43, invariant reaction 23) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Ti system: 228 accepted literature values (formation 97, crystal structure 53, heat capacity / entropy / enthalpy 43, invariant reaction 23) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-TI.html · Markdown: https://data.orchid-project.org/systems/NI-TI.md
 
-225 accepted literature values from 7 paper(s) (experimental 35, model 98, DFT 79, unspecified 13); 13 calculated phase diagram(s). 43 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+228 accepted literature values from 7 paper(s) (experimental 35, model 98, DFT 79, unspecified 16); 13 calculated phase diagram(s). 43 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TI.json) · [CSV](https://data.orchid-project.org/systems/NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TI/NiTi-04Tok.json) · [phases (14)](https://data.orchid-project.org/phases/pages/NI-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TI.html) · [Markdown](https://data.orchid-project.org/systems/NI-TI.md)
 
@@ -15,7 +15,7 @@ Table: Accepted values by evidence class
 | experimental | 35 |
 | model | 98 |
 | DFT | 79 |
-| unspecified | 13 |
+| unspecified | 16 |
 
 Table: Accepted values by property group
 
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase transition | 12 |
 | formation | 97 |
 | heat capacity / entropy / enthalpy | 43 |
-| crystal structure | 50 |
+| crystal structure | 53 |
 
 ## Calculated phase diagrams
 
@@ -426,7 +426,7 @@ Table: Heat capacity / entropy / enthalpy, Ni–Ti system
 | Transition enthalpy; _printed: enthalpy of formation_ | -1564.3 unknown | 298.15 | TiNi B19; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 4, p. 5, row 16; `ORC-AWYRP3IPYZ` |  |
 | Transition enthalpy; _printed: enthalpy of formation_ | -3001 unknown | 298.15 | TiNi B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 4, p. 5, row 8; `ORC-3H34JQAVS5` |  |
 
-### Crystal structure (50)
+### Crystal structure (53)
 
 Table: Crystal structure, Ni–Ti system
 
@@ -441,6 +441,8 @@ Table: Crystal structure, Ni–Ti system
 | Lattice a; _printed: a_ | 5.5958 Å | 0 | Ti3Ni(D024); _alloy: Ti 0.75_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 13; `ORC-NE2272HKKI.760edc` |  |
 | Lattice a; _printed: a_ | 3.9458 Å | 0 | Ti3Ni(L12); _alloy: Ti 0.75_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 7; `ORC-EZULD3WQWJ.740753` |  |
 | Lattice a | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18; `ORC-36E6RTOTLS.491212` |  |
+| Lattice a | 5.101 Å | 298.15 | Ni3Ti (D024); _alloy: Ti 0.25_ | unspecified | [3] Tokunaga 2004 | Table 1, p. 3, row 10; `ORC-PIJ7AINIE5.da0d14` |  |
+| Lattice a | 3.007 Å | 298.15 | NiTi (B2); _alloy: Ti 0.5_ | unspecified | [3] Tokunaga 2004 | Table 1, p. 3, row 2; `ORC-SABQIIKH74` |  |
 | Lattice a | 3.0954 Å | 298.15 | Ti2Ni3; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 7; `ORC-C7IGNJNG2Y.fb2abf` |  |
 | Lattice a | 4.3985 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6; `ORC-B6BSMCZNUE.7fe4c0` |  |
 | Lattice a | 6.684 Å | 298.15 | Ti3Ni4; _alloy: Ti 0.428571_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 2; `ORC-4EZO2CVYOX.171988` |  |
@@ -462,6 +464,7 @@ Table: Crystal structure, Ni–Ti system
 | Lattice c | 13.544 Å | 0 | Ti2Ni3_L; _alloy: Ti 0.4_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 44; `ORC-M6EUW6WCOE.868d18` |  |
 | Lattice c; _printed: c_ | 9.0987 Å | 0 | Ti3Ni(D024); _alloy: Ti 0.75_ | DFT | [3] Tokunaga 2004 | Table 2, p. 3, row 13; `ORC-NE2272HKKI.383355` |  |
 | Lattice c | 6.72 Å | 0 | Ti3Ni4; _alloy: Ti 0.428571_ | DFT | [5] Povoden-Karadeniz 2013 | Table A1, p. 11, row 18; `ORC-36E6RTOTLS.31e5fd` |  |
+| Lattice c | 8.3067 Å | 298.15 | Ni3Ti (D024); _alloy: Ti 0.25_ | unspecified | [3] Tokunaga 2004 | Table 1, p. 3, row 10; `ORC-PIJ7AINIE5.bbe7fc` |  |
 | Lattice c | 13.5852 Å | 298.15 | Ti2Ni3; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 7; `ORC-C7IGNJNG2Y.56a86e` |  |
 | Lattice c | 13.5442 Å | 298.15 | Ti2Ni3_L; _alloy: Ti 0.4_ | unspecified | [5] Povoden-Karadeniz 2013 | Table 1, p. 2, row 6; `ORC-B6BSMCZNUE.787584` |  |
 | Lattice c | 8.32 Å | 1653.15 (\<) | Ni3Ti | model | [7] Keyzer 2009 | Table 1, p. 3, row 9; `ORC-6TRQKQZKFF.3d4298` |  |

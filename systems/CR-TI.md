@@ -1,10 +1,10 @@
 # Cr–Ti system
 
-> Cr–Ti system: 190 accepted literature values (invariant reaction 83, crystal structure 76, phase equilibrium 15, phase transition 11) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ti system: 209 accepted literature values (crystal structure 95, invariant reaction 83, phase equilibrium 15, phase transition 11) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-TI.html · Markdown: https://data.orchid-project.org/systems/CR-TI.md
 
-190 accepted literature values from 3 paper(s) (experimental 73, model 50, DFT 60, unspecified 7); 8 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+209 accepted literature values from 3 paper(s) (experimental 76, model 50, DFT 60, unspecified 23); 8 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-TI.json) · [CSV](https://data.orchid-project.org/systems/CR-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-TI/CrTi-00Zhu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CR-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-TI.html) · [Markdown](https://data.orchid-project.org/systems/CR-TI.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 73 |
+| experimental | 76 |
 | model | 50 |
 | DFT | 60 |
-| unspecified | 7 |
+| unspecified | 23 |
 
 Table: Accepted values by property group
 
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase transition | 11 |
 | phase equilibrium | 15 |
 | formation | 5 |
-| crystal structure | 76 |
+| crystal structure | 95 |
 
 ## Calculated phase diagrams
 
@@ -237,35 +237,54 @@ Table: Phase equilibrium, Cr–Ti system
 | Phase composition |  | 1423.15 | Laves (Ti-rich) + bcc (Ti-rich); _Laves (Ti-rich): Cr 0.638, Ti 0.362; bcc (Ti-rich): Cr 0.363, Ti 0.637_ | experimental | [1] Flores 2024 | Table 3, p. 6, row 12; `ORC-CO6VZRQROS` |  |
 | Phase composition |  | 1473.15 | bcc (Cr-rich) + Laves (Cr-rich) + Laves (Ti-rich) + bcc (Ti-rich); _bcc (Cr-rich): Cr 0.885, Ti 0.115; Laves (Cr-rich): Cr 0.673, Ti 0.327; Laves (Ti-rich): Cr 0.636, Ti 0.364; bcc (Ti-rich): Cr 0.392, Ti 0.608_ | experimental | [1] Flores 2024 | Table 3, p. 6, row 4; `ORC-QWWEIJPLWX` |  |
 
-### Crystal structure (76)
+### Crystal structure (95)
 
 Table: Crystal structure, Cr–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.8619 Å |  | Cr2Ti (C14); _alloy: Ti 0.333333_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 17; `ORC-ANLY56OULF.09211a` |  |
 | Lattice a | 4.8619 Å | 0 | Cr2Ti (C14); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 48; `ORC-HP37P5XYIM.6703fa` |  |
 | Lattice a | 6.8286 Å | 0 | Cr2Ti (C15); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 49; `ORC-T7CVUSJI6X.4b1bb6` |  |
 | Lattice a | 4.8427 Å | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57; `ORC-2AS65RLMMQ.c28180` |  |
+| Lattice a | 4.8427 Å |  | Cr2Ti (C36); _alloy: Ti 0.333333_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 24; `ORC-EJGCZLMJPV.859756` |  |
 | Lattice a | 5.6373 Å | 0 | Cr2Ti10 (C14); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 53; `ORC-3VVNL6NGHI.018050` |  |
+| Lattice a | 5.6373 Å |  | Cr2Ti10 (C14); _alloy: Ti 0.833333_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 20; `ORC-6POIUUKCER.895823` |  |
+| Lattice a | 5.6317 Å |  | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 27; `ORC-5CERPA6CXQ.652fba` |  |
 | Lattice a | 5.6317 Å | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60; `ORC-MXDCERQT4A.33e979` |  |
+| Lattice a | 5.6968 Å |  | Cr6Ti6 (C14); _alloy: Ti 0.5_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 18; `ORC-2YMDHD5RR5.8b4f75` |  |
 | Lattice a | 5.6968 Å | 0 | Cr6Ti6 (C14); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 50; `ORC-WWEXXECNZR.5104f1` |  |
+| Lattice a | 5.6273 Å |  | Cr6Ti6 (C36); _alloy: Ti 0.5_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 25; `ORC-IB2A6TX64Q.09ca68` |  |
 | Lattice a | 5.6273 Å | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58; `ORC-J77SBN32T3.6ad991` |  |
+| Lattice a | 5.1321 Å |  | CrTi2 (C14); _alloy: Ti 0.666667_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 19; `ORC-DCP6ZKABXQ.c8bf33` |  |
 | Lattice a | 5.1321 Å | 0 | CrTi2 (C14); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 51; `ORC-WXPPKLTENS.346b16` |  |
 | Lattice a | 7.15 Å | 0 | CrTi2 (C15); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 52; `ORC-2MMJ4OGZHH.17734a` |  |
+| Lattice a | 5.1243 Å |  | CrTi2 (C36); _alloy: Ti 0.666667_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 26; `ORC-IMYKZ6UW26.f9a619` |  |
 | Lattice a | 5.1243 Å | 0 | CrTi2 (C36); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 59; `ORC-LHK6UNQZZL.09f479` |  |
 | Lattice a | 4.9322 Å | 298.15 | Cr2Ti (C14); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 46; `ORC-K2DZKO7645.532f8e` |  |
 | Lattice a | 0.069324 Å | 298.15 | Cr2Ti (C15); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 47; `ORC-DTHWIWYLF6.0cee3b` |  |
 | Lattice a | 4.9322 Å | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 56; `ORC-72P4IZKAED.51d200` |  |
+| Lattice a | 4.9322 Å | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 22; `ORC-GCHCS42JKS.3e925f` |  |
+| Lattice c | 7.7839 Å |  | Cr2Ti (C14); _alloy: Ti 0.333333_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 17; `ORC-ANLY56OULF.732b6d` |  |
 | Lattice c | 7.7839 Å | 0 | Cr2Ti (C14); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 48; `ORC-HP37P5XYIM.11cec4` |  |
 | Lattice c | 15.6836 Å | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57; `ORC-2AS65RLMMQ.391acb` |  |
+| Lattice c | 15.6836 Å |  | Cr2Ti (C36); _alloy: Ti 0.333333_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 24; `ORC-EJGCZLMJPV.1414f9` |  |
 | Lattice c | 7.0672 Å | 0 | Cr2Ti10 (C14); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 53; `ORC-3VVNL6NGHI.732210` |  |
+| Lattice c | 7.0672 Å |  | Cr2Ti10 (C14); _alloy: Ti 0.833333_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 20; `ORC-6POIUUKCER.ba204d` |  |
+| Lattice c | 14.1717 Å |  | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 27; `ORC-5CERPA6CXQ.967210` |  |
 | Lattice c | 14.1717 Å | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60; `ORC-MXDCERQT4A.6c9da5` |  |
+| Lattice c | 6.3196 Å |  | Cr6Ti6 (C14); _alloy: Ti 0.5_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 18; `ORC-2YMDHD5RR5.ae46f3` |  |
 | Lattice c | 6.3196 Å | 0 | Cr6Ti6 (C14); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 50; `ORC-WWEXXECNZR.1e6a24` |  |
+| Lattice c | 12.907 Å |  | Cr6Ti6 (C36); _alloy: Ti 0.5_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 25; `ORC-IB2A6TX64Q.0e43da` |  |
 | Lattice c | 12.907 Å | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58; `ORC-J77SBN32T3.0363c3` |  |
+| Lattice c | 7.8629 Å |  | CrTi2 (C14); _alloy: Ti 0.666667_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 19; `ORC-DCP6ZKABXQ.f288d8` |  |
 | Lattice c | 7.8629 Å | 0 | CrTi2 (C14); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 51; `ORC-WXPPKLTENS.5aaed0` |  |
+| Lattice c | 15.8744 Å |  | CrTi2 (C36); _alloy: Ti 0.666667_ | unspecified | [3] Pavlů 2010 | Table 2, p. 3, row 26; `ORC-IMYKZ6UW26.85facd` |  |
 | Lattice c | 15.8744 Å | 0 | CrTi2 (C36); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 59; `ORC-LHK6UNQZZL.696f54` |  |
 | Lattice c | 8.0053 Å | 298.15 | Cr2Ti (C14); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 46; `ORC-K2DZKO7645.d3ceef` |  |
+| Lattice c | 8.0053 Å | 298.15 | Cr2Ti (C14); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 15; `ORC-PTPN6IV7C6.e86581` |  |
 | Lattice c | 16.011 Å | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 56; `ORC-72P4IZKAED.3588e3` |  |
+| Lattice c | 16.011 Å | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 22; `ORC-GCHCS42JKS.e77bb1` |  |
 | lattice 4e z | 0.0947 not_printed | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57; `ORC-2AS65RLMMQ.55f32f` |  |
 | lattice 4e z | 0.0871 not_printed | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60; `ORC-MXDCERQT4A.87bcbc` |  |
 | lattice 4e z | 0.0729 not_printed | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58; `ORC-J77SBN32T3.1c86a0` |  |

@@ -124,17 +124,17 @@ Table: Crystal structure, Li–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 10.08 Å | 298.15 | UNKNOWN; _alloy: Pb 0.230769_ | experimental | [1] Zhou 2016; _cites Rollier 1939_ | Table 1, p. 2, row 5; `ORC-3BM7MJXBEF` |  |
-| Lattice a | 6.687 Å | 298.15 | UNKNOWN; _alloy: Pb 0.25_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 6; `ORC-6OGGRQT4XV` |  |
-| Lattice a | 3.34 Å | 298.15 | UNKNOWN; _alloy: Pb 0.2_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 1, p. 2, row 3; `ORC-C4E6FVV2NP` |  |
-| Lattice a | 4.751 Å | 298.15 | UNKNOWN; _alloy: Pb 0.222222_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 4; `ORC-JV7MMESE7P.a06435` |  |
-| Lattice a | 20.08 Å | 298.15 | UNKNOWN; _alloy: Pb 0.185185_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 1, p. 2, row 2; `ORC-NB3D7YMX5B` |  |
-| Lattice a | 8.24 Å | 298.15 | UNKNOWN; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7; `ORC-Q3S7FCP23A.3da013` |  |
+| Lattice a | 10.08 Å | 298.15 | Li10Pb3; _alloy: Pb 0.230769_ | experimental | [1] Zhou 2016; _cites Rollier 1939_ | Table 1, p. 2, row 5; `ORC-3BM7MJXBEF` |  |
+| Lattice a | 20.08 Å | 298.15 | Li22Pb5; _alloy: Pb 0.185185_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 1, p. 2, row 2; `ORC-NB3D7YMX5B` |  |
+| Lattice a | 6.687 Å | 298.15 | Li3Pb; _alloy: Pb 0.25_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 6; `ORC-6OGGRQT4XV` |  |
+| Lattice a | 3.34 Å | 298.15 | Li4Pb; _alloy: Pb 0.2_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 1, p. 2, row 3; `ORC-C4E6FVV2NP` |  |
+| Lattice a | 4.751 Å | 298.15 | Li7Pb2; _alloy: Pb 0.222222_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 4; `ORC-JV7MMESE7P.a06435` |  |
+| Lattice a | 8.24 Å | 298.15 | Li8Pb3; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7; `ORC-Q3S7FCP23A.3da013` |  |
 | Lattice a | 3.542 Å | 298.15 | αLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 1, p. 2, row 8; `ORC-AAVBVLHT5T.38b870` |  |
 | Lattice a | 3.563 Å | 298.15 | βLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 1, p. 2, row 9; `ORC-7PIELP6AJH` |  |
-| Lattice b | 4.757 Å | 298.15 | UNKNOWN; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7; `ORC-Q3S7FCP23A.73bc51` |  |
-| Lattice c | 8.589 Å | 298.15 | UNKNOWN; _alloy: Pb 0.222222_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 4; `ORC-JV7MMESE7P.9cb5c2` |  |
-| Lattice c | 11.03 Å | 298.15 | UNKNOWN; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7; `ORC-Q3S7FCP23A.30ad59` |  |
+| Lattice b | 4.757 Å | 298.15 | Li8Pb3; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7; `ORC-Q3S7FCP23A.73bc51` |  |
+| Lattice c | 8.589 Å | 298.15 | Li7Pb2; _alloy: Pb 0.222222_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 4; `ORC-JV7MMESE7P.9cb5c2` |  |
+| Lattice c | 11.03 Å | 298.15 | Li8Pb3; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7; `ORC-Q3S7FCP23A.30ad59` |  |
 | Molar volume; _printed: V0_ | 19.91 Å3/atom | 0 | Li10Pb3; _alloy: Pb 0.230769_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 7; `ORC-BYNZLGO6D6` |  |
 | Molar volume; _printed: V0_ | 19.7 Å3/atom |  | Li10Pb3; _alloy: Pb 0.230769_ | experimental | [1] Zhou 2016; _cites Rollier 1939_ | Table 4, p. 4, row 8; `ORC-GUXKZZQUNK` |  |
 | Molar volume; _printed: V0_ | 18.78 Å3/atom | 0 | Li3Pb; _alloy: Pb 0.25_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 9; `ORC-HPSXIQX3HX` |  |
@@ -150,7 +150,7 @@ Table: Crystal structure, Li–Pb system
 | Molar volume; _printed: V0_ | 22.8 Å3/atom | 0 | αLiPb; _alloy: Pb 0.5_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 14; `ORC-MAG4RGUQKC` |  |
 | Molar volume; _printed: V0_ | 22.62 Å3/atom |  | βLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 4, p. 4, row 17; `ORC-LKFGURDX3X` |  |
 | Molar volume; _printed: V0_ | 24.48 Å3/atom | 0 | βLiPb; _alloy: Pb 0.5_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 16; `ORC-VPHM2T2TNM` |  |
-| lattice unspecified angle | 104.5 deg | 298.15 | UNKNOWN; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7; `ORC-Q3S7FCP23A.105940` |  |
+| lattice unspecified angle | 104.5 deg | 298.15 | Li8Pb3; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7; `ORC-Q3S7FCP23A.105940` |  |
 | lattice unspecified angle | 89.5 deg | 298.15 | αLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 1, p. 2, row 8; `ORC-AAVBVLHT5T.5001c3` |  |
 | volume; _printed: V0_ | 18.6 Å3/atom | 0 | Li4Pb (Li22Pb5); _alloy: Pb 0.2_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 3; `ORC-2NGI5GOST2.0d446a` |  |
 | volume; _printed: V0_ | 18.74 Å3/atom |  | Li4Pb (Li22Pb5); _alloy: Pb 0.2_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 4, p. 4, row 4; `ORC-HO2FND2RFQ.aea497` |  |

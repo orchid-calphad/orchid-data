@@ -79,12 +79,12 @@ not confirmed by mmc2 carry `%TODO verify`. `st:liquid` and `st:gas` are definit
 {
  "systems": 1241,
  "phases": 10430,
- "names": 43265,
+ "names": 43269,
  "names_by_namespace": {
   "corpus": 10916,
   "mp": 677,
   "oqmd": 677,
-  "paper": 8364,
+  "paper": 8368,
   "system_alias": 75,
   "tdb": 22556
  },
@@ -242,12 +242,12 @@ not confirmed by mmc2 carry `%TODO verify`. `st:liquid` and `st:gas` are definit
  "phases_with_models": 10427,
  "corpus_only_phases": 69,
  "corpus_phase_mappings_linked": 3209,
- "phases_with_literature_values": 4973,
- "literature_phase_mentions_linked": 70533,
- "literature_phase_mentions_unlinked": 26320,
+ "phases_with_literature_values": 4975,
+ "literature_phase_mentions_linked": 70667,
+ "literature_phase_mentions_unlinked": 26380,
  "phases_with_references": 9903,
- "references_listed": 25023,
- "distinct_reference_dois": 3061,
+ "references_listed": 25040,
+ "distinct_reference_dois": 3071,
  "phases_with_stability": 8549,
  "tdb_definitions": {
   "models_with_definition": 22556,

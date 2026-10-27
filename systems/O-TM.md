@@ -72,9 +72,9 @@ Table: Crystal structure, O–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice molar volume | 39.16 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 15; `ORC-OCYSOSDZDL.a3be72` |  |
-| lattice molar volume | 43.405 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 15; `ORC-OCYSOSDZDL.d940fb` |  |
-| lattice molar volume | 39.994 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 15; `ORC-OCYSOSDZDL.faabac` |  |
+| lattice molar volume | 39.16 cm3 mol-1 | 298.15 | Tm2O3 (A-type); _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 15; `ORC-OCYSOSDZDL.a3be72` |  |
+| lattice molar volume | 39.994 cm3 mol-1 | 298.15 | Tm2O3 (B-type); _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 15; `ORC-OCYSOSDZDL.faabac` |  |
+| lattice molar volume | 43.405 cm3 mol-1 | 298.15 | Tm2O3 (C-type); _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 15; `ORC-OCYSOSDZDL.d940fb` |  |
 
 ### Other property (5)
 
