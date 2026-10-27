@@ -116,7 +116,7 @@ ORCHID supplies uncertainties to ESPEI 0.9.1 through weights: the sigma it uses 
 | HM_FORM | kems_vapour_third_law | 0 | 0 | prior (drowart2005) |  |  | 2 | kJ/mol-atom |
 | HM_FORM | solution_reaction_calorimetry | 80 | 47 | calibrated | 3.145 | 2.202-4.602 | 3.2 | kJ/mol-atom |
 | HM_FORM | unknown | 290 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
-| HM_FORM | model_calculated (vs experiment) | 2030 | 359 | calibrated | 3.855 | 3.158-4.581 | 3.9 | kJ/mol-atom |
+| HM_FORM | model_calculated (vs experiment) | 2043 | 359 | calibrated | 3.855 | 3.191-4.581 | 3.9 | kJ/mol-atom |
 | H_MIX_PARTIAL | experimental_unspecified | 6 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |
 | H_MIX_PARTIAL | solution_reaction_calorimetry | 0 | 0 | prior (espei) |  |  | 0.5 | kJ/mol |
 | H_MIX_PARTIAL | unknown | 1 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |

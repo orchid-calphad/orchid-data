@@ -185,22 +185,22 @@ Table: Heat capacity / entropy / enthalpy, Ag–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°_ | 51.5333 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 8; `ORC-3HNT2KROYM.990832` |  |
-| Entropy; _printed: S°_ | 49.9967 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1; `ORC-DENBWB3K3C.26b5f5` |  |
-| Entropy; _printed: S°_ | 49.9933 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | model | [1] Li 2018 | Table 1, p. 3, row 9; `ORC-EG4CZFRGL7.099ba1` |  |
-| Entropy; _printed: S°_ | 49.7333 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 4; `ORC-IAHORPYKKP.afc82b` |  |
-| Entropy; _printed: S°_ | 50.0267 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 3; `ORC-IYYBFJIDJR.162e5c` |  |
-| Entropy; _printed: S°_ | 51.8467 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 5; `ORC-N7ZOMZ7UNS.86de55` |  |
-| Entropy; _printed: S°_ | 49.4 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 2; `ORC-NOQDCUENTV.d22ac6` |  |
-| Entropy; _printed: S°_ | 49.9667 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Olin 2005_ | Table 1, p. 3, row 6; `ORC-RMJA7ZD7GC.480378` |  |
-| Entropy; _printed: S°_ | 50.3433 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 7; `ORC-S7IJ2WTKZG.44d77f` |  |
-| Entropy; _printed: S°_ | 56.3367 J/mol-atom/K |  | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 10; `ORC-DYLEZCG4HM.68f3c3` |  |
-| Entropy; _printed: S°_ | 56.48 J/mol-atom/K |  | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 11; `ORC-FCNMFTUR4E.5707ff` |  |
-| Entropy; _printed: S°_ | 49.4 J/mol-atom/K |  | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 15; `ORC-FORFJG353E.ff2936` |  |
-| Entropy; _printed: S°_ | 56.3333 J/mol-atom/K |  | β-Ag2Se; _alloy: Se 0.333333_ | model | [1] Li 2018 | Table 1, p. 3, row 16; `ORC-G2E5AOIVAY.3e13c8` |  |
-| Entropy; _printed: S°_ | 56.3633 J/mol-atom/K |  | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 12; `ORC-IR25DWRF5G.fbd859` |  |
-| Entropy; _printed: S°_ | 56.5233 J/mol-atom/K |  | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 13; `ORC-JFXIVMRCAO.e9240b` |  |
-| Entropy; _printed: S°_ | 56.46 J/mol-atom/K |  | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14; `ORC-PJHC2KGG2M.6ce77e` |  |
+| Entropy; _printed: S°_ | 51.5333 J/mol-atom/K | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 8; `ORC-3HNT2KROYM.990832` |  |
+| Entropy; _printed: S°_ | 49.9967 J/mol-atom/K | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1; `ORC-DENBWB3K3C.26b5f5` |  |
+| Entropy; _printed: S°_ | 49.9933 J/mol-atom/K | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | model | [1] Li 2018 | Table 1, p. 3, row 9; `ORC-EG4CZFRGL7.099ba1` |  |
+| Entropy; _printed: S°_ | 49.7333 J/mol-atom/K | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 4; `ORC-IAHORPYKKP.afc82b` |  |
+| Entropy; _printed: S°_ | 50.0267 J/mol-atom/K | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 3; `ORC-IYYBFJIDJR.162e5c` |  |
+| Entropy; _printed: S°_ | 51.8467 J/mol-atom/K | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 5; `ORC-N7ZOMZ7UNS.86de55` |  |
+| Entropy; _printed: S°_ | 49.4 J/mol-atom/K | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 2; `ORC-NOQDCUENTV.d22ac6` |  |
+| Entropy; _printed: S°_ | 49.9667 J/mol-atom/K | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Olin 2005_ | Table 1, p. 3, row 6; `ORC-RMJA7ZD7GC.480378` |  |
+| Entropy; _printed: S°_ | 50.3433 J/mol-atom/K | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 7; `ORC-S7IJ2WTKZG.44d77f` |  |
+| Entropy; _printed: S°_ | 56.3367 J/mol-atom/K | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 10; `ORC-DYLEZCG4HM.68f3c3` |  |
+| Entropy; _printed: S°_ | 56.48 J/mol-atom/K | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 11; `ORC-FCNMFTUR4E.5707ff` |  |
+| Entropy; _printed: S°_ | 49.4 J/mol-atom/K | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 15; `ORC-FORFJG353E.ff2936` |  |
+| Entropy; _printed: S°_ | 56.3333 J/mol-atom/K | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | model | [1] Li 2018 | Table 1, p. 3, row 16; `ORC-G2E5AOIVAY.3e13c8` |  |
+| Entropy; _printed: S°_ | 56.3633 J/mol-atom/K | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 12; `ORC-IR25DWRF5G.fbd859` |  |
+| Entropy; _printed: S°_ | 56.5233 J/mol-atom/K | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 13; `ORC-JFXIVMRCAO.e9240b` |  |
+| Entropy; _printed: S°_ | 56.46 J/mol-atom/K | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14; `ORC-PJHC2KGG2M.6ce77e` |  |
 
 ### Other property (1)
 

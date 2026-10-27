@@ -629,7 +629,7 @@ Every exclusion is listed in `validation.json` (`dft_excluded`).
 
 ## Uncertainty budget and method floors (2026-10-24)
 
-Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) of the published uncertainty budgets (README.md, 'Uncertainties'); calibration `orchid-uncertainty-calibration 2026-10-24 (audit round 2) sha256 2d0540d5478e` (experimental/CALIBRATION_EXPERIMENT.json, a byte copy of the literature release's UNCERTAINTY_CALIBRATION.json). Calibrated floors (>= 20 pairs from >= 10 states):
+Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) of the published uncertainty budgets (README.md, 'Uncertainties'); calibration `orchid-uncertainty-calibration 2026-10-24 (audit round 2) sha256 fa6cb3566674` (experimental/CALIBRATION_EXPERIMENT.json, a byte copy of the literature release's UNCERTAINTY_CALIBRATION.json). Calibrated floors (>= 20 pairs from >= 10 states):
 
 | value type | method class | pairs | states | basis | robust sigma | 95 % CI | floor | unit |
 |---|---|---:|---:|---|---:|---|---:|---|
@@ -639,7 +639,7 @@ Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + comp
 | HM_FORM | kems_vapour | 20 | 15 | calibrated | 4.193 | 1.153-7.653 | 4.2 | kJ/mol-atom |
 | HM_FORM | solution_reaction_calorimetry | 80 | 47 | calibrated | 3.145 | 2.202-4.602 | 3.2 | kJ/mol-atom |
 | HM_FORM | unknown | 290 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
-| HM_FORM | model_calculated (vs experiment) | 2030 | 359 | calibrated | 3.855 | 3.158-4.581 | 3.9 | kJ/mol-atom |
+| HM_FORM | model_calculated (vs experiment) | 2043 | 359 | calibrated | 3.855 | 3.191-4.581 | 3.9 | kJ/mol-atom |
 | LATTICE_LENGTH | unknown | 597 | 196 | calibrated | 0.002277 | 0.002026-0.002664 | 0.0023 | relative (fraction of the value) |
 | LATTICE_LENGTH | xrd | 23 | 21 | calibrated | 0.001206 | 0.000866-0.0022 | 0.0013 | relative (fraction of the value) |
 | LATTICE_LENGTH | model_calculated (vs experiment) | 169 | 85 | calibrated | 0.008107 | 0.005703-0.01284 | 0.0082 | relative (fraction of the value) |

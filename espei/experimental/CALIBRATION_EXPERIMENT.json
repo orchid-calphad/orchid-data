@@ -389,12 +389,12 @@
   "HM_FORM": {
    "basis": "calibrated",
    "ci95": [
-    3.157938,
+    3.190555,
     4.581234
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
    "floor": 3.9,
-   "n_pairs": 2030,
+   "n_pairs": 2043,
    "n_states": 359,
    "sigma_robust": 3.85476
   },

@@ -420,7 +420,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 73542
-  download_size: 7695840
+  download_size: 7706424
 - config_name: papers
   features:
   - name: id
@@ -648,7 +648,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 7594
-  download_size: 291884
+  download_size: 291925
 - config_name: phase_diagram_invariants
   features:
   - name: system

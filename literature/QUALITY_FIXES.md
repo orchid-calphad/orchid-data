@@ -543,12 +543,12 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 | espei_certified | 1892 |
 | espei_ready | 11189 |
 | espei_ready_calphad_disagrees | 319 |
-| espei_ready_no_prediction | 9378 |
+| espei_ready_no_prediction | 9376 |
 | phase_rule_fail_compound_property_not_fittable | 407 |
 | phase_rule_fail_liquid_impossible_at_T | 3 |
 | phase_rule_fail_phase_label_ambiguous | 79 |
 | phase_rule_fail_phase_label_not_mapped | 545 |
-| phase_rule_pass | 11589 |
+| phase_rule_pass | 11587 |
 
 Values whose `espei_ready` the phase rule turned false:
 
@@ -1880,11 +1880,11 @@ Every value was checked against its table, its paper, the physics of its quantit
 |---|---:|---:|
 | records | 77540 | 73542 |
 | extraction_accepted | 76600 | 65311 |
-| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13059 |
+| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13014 |
 | records with corrections | | 15528 |
-| records with gate failures | | 11588 |
-| page-check ledger entries (tools/literature_visual_checks.json) | | 2569 |
-| page-check keys looked up by the gates (table entries expanded to rows) | | 2610 |
+| records with gate failures | | 11642 |
+| page-check ledger entries (tools/literature_visual_checks.json) | | 2623 |
+| page-check keys looked up by the gates (table entries expanded to rows) | | 2664 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -2029,6 +2029,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `conflicting_printed_end_member_pair` | flagged | 1 |
 | page page checks (visual) | `defect_energy_not_a_formation_property` | flagged | 42 |
 | page page checks (visual) | `derived_at_high_temperature_from_bcc_zr` | flagged | 6 |
+| page page checks (visual) | `duplicate_source_row` | flagged | 38 |
 | page page checks (visual) | `end_member_requires_sublattice_mapping` | flagged | 6 |
 | page page checks (visual) | `energy_basis_not_printed_rows_inconsistent` | flagged | 11 |
 | page page checks (visual) | `expression_coefficient_not_a_value` | flagged | 119 |
@@ -2036,6 +2037,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `heat_treatment_not_equilibrium_observation` | flagged | 24 |
 | page page checks (visual) | `measurement_temperature_not_stated` | flagged | 36 |
 | page page checks (visual) | `measurement_temperature_various` | flagged | 20 |
+| page page checks (visual) | `metastable_state` | flagged | 16 |
 | page page checks (visual) | `misread_on_page` | demoted | 88 |
 | page page checks (visual) | `mutually_inconsistent` | flagged | 10 |
 | page page checks (visual) | `oxygen_stoichiometry_unspecified` | flagged | 30 |
@@ -2097,7 +2099,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | evidence_table | experimental_own | 2 |
 | evidence_table | mixed | 4 |
 | evidence_table | model | 2 |
-| flag | confirmed | 317 |
+| flag | confirmed | 371 |
 | flag_precision_sample | false_positive | 5 |
 | flag_precision_sample | true_positive | 15 |
 | invariant_table | checked | 160 |
