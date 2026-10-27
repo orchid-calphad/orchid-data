@@ -9,7 +9,7 @@ papers; each `quote` is a short excerpt kept to make the value verifiable, which
 copyright and is not relicensed. The source
 papers, page images, crops and full text are **not** redistributed.
 
-**Status.** Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+**Status.** Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes.
 
 ## Files
 

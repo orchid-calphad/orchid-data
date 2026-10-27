@@ -543,12 +543,12 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 | espei_certified | 1892 |
 | espei_ready | 11189 |
 | espei_ready_calphad_disagrees | 319 |
-| espei_ready_no_prediction | 9477 |
+| espei_ready_no_prediction | 9378 |
 | phase_rule_fail_compound_property_not_fittable | 407 |
 | phase_rule_fail_liquid_impossible_at_T | 3 |
 | phase_rule_fail_phase_label_ambiguous | 79 |
 | phase_rule_fail_phase_label_not_mapped | 545 |
-| phase_rule_pass | 11688 |
+| phase_rule_pass | 11589 |
 
 Values whose `espei_ready` the phase rule turned false:
 

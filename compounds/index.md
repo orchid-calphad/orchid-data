@@ -15,7 +15,7 @@ Table: Compounds (1460)
 | [Ag2Dy](https://data.orchid-project.org/compounds/Ag2Dy.html) | 5 | 1 | -31.753 | -31.994 | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html)  |
 | [Ag2Er](https://data.orchid-project.org/compounds/Ag2Er.html) | 5 | 1 | -32.114 | -33.095 | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html)  |
 | [Ag2O](https://data.orchid-project.org/compounds/Ag2O.html) | 9 | 0 |  |  | [Ag–O](https://data.orchid-project.org/systems/AG-O.html)  |
-| [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | 24 | 15 | -21.663 | -7.938 | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html)  |
+| [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | 24 | 14 | -21.663 | -7.938 | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html)  |
 | [Ag2Sm](https://data.orchid-project.org/compounds/Ag2Sm.html) | 4 | 1 |  | -28.101 | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html)  |
 | [Ag2Te](https://data.orchid-project.org/compounds/Ag2Te.html) | 4 | 2 | -19.54 | -6.298 | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html)  |
 | [Ag3Se](https://data.orchid-project.org/compounds/Ag3Se.html) | 4 | 0 |  |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html)  |
@@ -1479,7 +1479,7 @@ Table: Compounds (1460)
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
-Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes.
 
 ```bibtex
 @misc{orchid_literature_2026,

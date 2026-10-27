@@ -420,7 +420,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 73542
-  download_size: 7690697
+  download_size: 7695140
 - config_name: papers
   features:
   - name: id
@@ -456,7 +456,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 4882
-  download_size: 532006
+  download_size: 532340
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -536,7 +536,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 1504
-  download_size: 160309
+  download_size: 160643
 - config_name: dft_parity
   features:
   - name: record_id
@@ -648,7 +648,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 7594
-  download_size: 291553
+  download_size: 291884
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -838,7 +838,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 10430
-  download_size: 451612
+  download_size: 451938
 - config_name: structure_types
   features:
   - name: id
@@ -870,7 +870,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 1563
-  download_size: 53479
+  download_size: 53813
 - config_name: assessed_phase_assemblages
   features:
   - name: id

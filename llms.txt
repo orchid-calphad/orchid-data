@@ -21,7 +21,7 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
 - Full JSON records: https://data.orchid-project.org/literature/systems/<SYS>.json (large systems: also <SYS>.part2.json ...; see literature/index.json)
 - Calculated phase diagrams: https://data.orchid-project.org/phase-diagrams/index.json -> phase-diagrams/sgte/<file>.json
 - Phases (binary systems): https://data.orchid-project.org/phases/pages/<SYS>.md (also .html): every phase with ids, names, structure tier/basis, prototype, Strukturbericht, Pearson, space group, stability, verbatim TDB PHASE/CONSTITUENT statements, example DOIs
-- Phase registry JSON (names, models with tdb_definition, stability, references, structure when certain): https://data.orchid-project.org/phases/systems/<SYS>.json; compact index of all phases https://data.orchid-project.org/phases/registry.json, fields https://data.orchid-project.org/phases/SCHEMA.md
+- Phase registry JSON (names, models with tdb_definition, stability, references, structure when the stored evidence supports an assignment under the stated tier rules): https://data.orchid-project.org/phases/systems/<SYS>.json; compact index of all phases https://data.orchid-project.org/phases/registry.json, fields https://data.orchid-project.org/phases/SCHEMA.md
 
 ## Indexes
 - [Systems](https://data.orchid-project.org/systems/index.md)
@@ -40,7 +40,7 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
 - https://data.orchid-project.org/literature/dft_parity.json (literature formation enthalpies vs DFT)
 
 ## Licence and citation
-- Status: Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+- Status: Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes.
 - Zenodo release v2026.10 (cite the dataset you use and the umbrella record):
   - ORCHID data: umbrella record of the ORCHID datasets: https://doi.org/10.5281/zenodo.PENDING-orchid-data
   - ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature: https://doi.org/10.5281/zenodo.PENDING-literature
@@ -49,7 +49,7 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
   - ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark: https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
   - ORCHID-Registry: phase registry of binary systems: https://doi.org/10.5281/zenodo.PENDING-phase-registry
   - ORCHID-Assemblages: assessed phase assemblages of binary systems: https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
-  - ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values: https://doi.org/10.5281/zenodo.PENDING-espei
+  - ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs: https://doi.org/10.5281/zenodo.PENDING-espei
   - ORCHID-Bibliography: papers and typed citation relations: https://doi.org/10.5281/zenodo.PENDING-bibliography
 - Every JSON file carries a top-level cite_as object (text, BibTeX, DOI); Parquet files carry orchid.cite_as metadata; literature/CITATION.txt sits beside the CSV.
 - Derived data CC BY 4.0. Cite the ORCHID release (https://data.orchid-project.org/CITATION.cff) and each value's source paper (DOI given per value).

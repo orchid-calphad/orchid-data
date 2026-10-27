@@ -21,7 +21,7 @@
  ],
  "exclude": [],
  "n_files": 14,
- "total_bytes": 6697669,
+ "total_bytes": 6698874,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -61,12 +61,12 @@
   {
    "path": "literature/QUALITY_FIXES.md",
    "bytes": 270198,
-   "sha256": "6e93f2c1c8c17209f6146f34a5e2065619974e09796ba3cd90a0db52b9a1c844"
+   "sha256": "14de6c6448893e8da4c6e15d8e0b4f53920f7c1eda407a76b32e160eea9ca14b"
   },
   {
    "path": "literature/dft_parity.json",
-   "bytes": 6018221,
-   "sha256": "08b2cd519359eedd07cb8e8c436131476f291f58c1b2b64b267464653663ffa1"
+   "bytes": 6018385,
+   "sha256": "c173579d9667ba1544462d6efbd3ec27ce31336180bb7ed194f1cc2a14e3b251"
   },
   {
    "path": "literature/kim2017_crosscheck.json",
@@ -80,18 +80,18 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 26140,
-   "sha256": "0d5ed30639532611a846f2f84ce2b96744db3dae1f539f5e8b73ca0dffe289a9"
+   "bytes": 26566,
+   "sha256": "8f0bb0cab88c3d68d42010042a5cde11093cca0142918c467365ea311907aca8"
   },
   {
    "path": "parquet/dft_parity.parquet",
-   "bytes": 291553,
-   "sha256": "fd0ca4269e7191ec7b8af07a73653a139286d16de9fc89d12a71ea00bb420370"
+   "bytes": 291884,
+   "sha256": "b44b060fa6352df29e60e53d899c9ef8701a7347dd458d34470460464c922286"
   },
   {
    "path": "zenodo/dft-benchmark.metadata.json",
-   "bytes": 14504,
-   "sha256": "d3e90d206ec28f2fa79d86dc6b47005f41ebdb5a417cbe43be58e3cb5f8042c2"
+   "bytes": 14788,
+   "sha256": "7e87f8837fa925dc454d27913efc5a5311561762684a45169d271db462d40aee"
   }
  ]
 }

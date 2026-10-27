@@ -4135,15 +4135,14 @@
   {
    "source": "general/espei/AgSe-18Li/gmr-14.json",
    "reason": [
-    "not_espei_ready:literature_gate"
+    "evidence_class_mismatch"
    ],
    "values": 4
   },
   {
    "source": "general/espei/AgSe-18Li/hmr-15.json",
    "reason": [
-    "evidence_class_mismatch",
-    "not_espei_ready:literature_gate"
+    "evidence_class_mismatch"
    ],
    "values": 4
   },
@@ -20041,25 +20040,25 @@
   {
    "source": "general/espei/AgSe-18Li/gmr-14.json",
    "index": 0,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-EG4CZFRGL7.ed96ac"
   },
   {
    "source": "general/espei/AgSe-18Li/gmr-14.json",
    "index": 1,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-EG4CZFRGL7.ed96ac"
   },
   {
    "source": "general/espei/AgSe-18Li/gmr-14.json",
    "index": 2,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-G2E5AOIVAY.76a40b"
   },
   {
    "source": "general/espei/AgSe-18Li/gmr-14.json",
    "index": 3,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-G2E5AOIVAY.76a40b"
   },
   {
@@ -20170,13 +20169,13 @@
   {
    "source": "general/espei/AgSe-18Li/hmr-15.json",
    "index": 0,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-EG4CZFRGL7.4223e1"
   },
   {
    "source": "general/espei/AgSe-18Li/hmr-15.json",
    "index": 1,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-EG4CZFRGL7.4223e1"
   },
   {
@@ -56411,13 +56410,13 @@
   {
    "source": "invariants/espei/RuY-11Ait/zpf-00.json",
    "index": 1,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-VE7RIBTKUQ"
   },
   {
    "source": "invariants/espei/RuY-11Ait/zpf-00.json",
    "index": 2,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-QB7ZNEQH2H"
   },
   {
@@ -56429,25 +56428,25 @@
   {
    "source": "invariants/espei/RuY-11Ait/zpf-00.json",
    "index": 4,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-FKPAEKMBTW"
   },
   {
    "source": "invariants/espei/RuY-11Ait/zpf-00.json",
    "index": 5,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-6AG3ZOTYSE"
   },
   {
    "source": "invariants/espei/RuY-11Ait/zpf-00.json",
    "index": 6,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-EHV6NHESQT"
   },
   {
    "source": "invariants/espei/RuY-11Ait/zpf-00.json",
    "index": 8,
-   "reason": "not_espei_ready:literature_gate",
+   "reason": "evidence_class_mismatch",
    "orchid_id": "ORC-PQ7S6HMX75"
   },
   {
@@ -167691,8 +167690,7 @@
    "espei_evaluation_nonfinite": 59,
    "espei_evaluation_tdb_error": 13,
    "espei_evaluation_tdb_not_found": 3,
-   "evidence_class_mismatch": 9,
-   "evidence_class_mismatch;not_espei_ready:literature_gate": 1,
+   "evidence_class_mismatch": 11,
    "formation_magnitude_implausible;phase_rule:phase_label_not_mapped": 1,
    "gas_without_printed_pressure": 12,
    "gas_without_printed_pressure;model_phase_rejected_by_label_check": 1,
@@ -167705,7 +167703,7 @@
    "not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 1,
    "not_accepted;temperature_differs_from_release": 1,
    "not_accepted;value_differs_from_release": 2,
-   "not_espei_ready:literature_gate": 149,
+   "not_espei_ready:literature_gate": 148,
    "not_espei_ready:literature_gate;phase_not_in_target_tdb": 3,
    "not_espei_ready:literature_gate;phase_not_in_target_tdb;phase_rule:phase_label_not_mapped": 1,
    "not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable": 2,
@@ -167753,12 +167751,12 @@
    "duplicate_read_same_row": 1151,
    "duplicate_value_same_dataset": 22,
    "espei_evaluation_nonfinite_region": 52,
-   "evidence_class_mismatch": 24,
+   "evidence_class_mismatch": 36,
    "formation_magnitude_implausible": 2,
    "gas_without_printed_pressure": 23,
    "model_phase_rejected_by_label_check": 417,
    "not_accepted": 45,
-   "not_espei_ready:literature_gate": 1124,
+   "not_espei_ready:literature_gate": 1112,
    "phase_not_in_target_tdb": 106,
    "phase_rule:compound_property_not_fittable": 703,
    "phase_rule:liquid_impossible_at_T": 3,

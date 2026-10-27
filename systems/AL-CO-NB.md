@@ -73,16 +73,16 @@ Table: Phase transition, Al–Co–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1717.15 K | 1717.15 | other: 2.0-40 | model | [1] He 2015 | Table 6, p. 11, row 5; `ORC-QKG67Z7QH5` |  |
-| Phase transition | 1727.15 K | 1727.15 | other: 2.0-40 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 6; `ORC-B52I6BPK2N` |  |
-| Phase transition | 1748.15 K | 1748.15 | other: 4.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 16; `ORC-APGEMXLH7D` |  |
-| Phase transition | 1748.15 K | 1748.15 | other: 6.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 20; `ORC-O64BRLXY4C` |  |
-| Phase transition | 1750.15 K | 1750.15 | other: 8.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 22; `ORC-PSMEOAB7L4` |  |
-| Phase transition | 1751.15 K | 1751.15 | other: 2.0-33 | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 4; `ORC-NYKBB6LAGE` |  |
-| Phase transition | 1751.15 K | 1751.15 | other: 6.0-33 | model | [1] He 2015 | Table 6, p. 11, row 19; `ORC-P3FU7ZN6MH` |  |
-| Phase transition | 1752.15 K | 1752.15 | other: 4.0-33 | model | [1] He 2015 | Table 6, p. 11, row 15; `ORC-NYI4VZULRW` |  |
-| Phase transition | 1752.15 K | 1752.15 | other: 8.0-33 | model | [1] He 2015 | Table 6, p. 11, row 21; `ORC-6M7HVSMQIR` |  |
-| Phase transition | 1757.15 K | 1757.15 | other: 2.0-33 | model | [1] He 2015 | Table 6, p. 11, row 3; `ORC-O5VSU5VVML` |  |
+| Phase transition | 1717.15 K | 1717.15 | other: 2.0-40; _alloy: Al 0.02, Co 0.58, Nb 0.4_ | model | [1] He 2015 | Table 6, p. 11, row 5; `ORC-QKG67Z7QH5` |  |
+| Phase transition | 1727.15 K | 1727.15 | other: 2.0-40; _alloy: Al 0.02, Co 0.58, Nb 0.4_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 6; `ORC-B52I6BPK2N` |  |
+| Phase transition | 1748.15 K | 1748.15 | other: 4.0-33; _alloy: Al 0.04, Co 0.63, Nb 0.33_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 16; `ORC-APGEMXLH7D` |  |
+| Phase transition | 1748.15 K | 1748.15 | other: 6.0-33; _alloy: Al 0.06, Co 0.61, Nb 0.33_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 20; `ORC-O64BRLXY4C` |  |
+| Phase transition | 1750.15 K | 1750.15 | other: 8.0-33; _alloy: Al 0.08, Co 0.59, Nb 0.33_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 22; `ORC-PSMEOAB7L4` |  |
+| Phase transition | 1751.15 K | 1751.15 | other: 2.0-33; _alloy: Al 0.02, Co 0.65, Nb 0.33_ | experimental | [1] He 2015; _cites Palm 2012_ [doi](https://doi.org/10.1007/s11669-012-0042-z) | Table 6, p. 11, row 4; `ORC-NYKBB6LAGE` |  |
+| Phase transition | 1751.15 K | 1751.15 | other: 6.0-33; _alloy: Al 0.06, Co 0.61, Nb 0.33_ | model | [1] He 2015 | Table 6, p. 11, row 19; `ORC-P3FU7ZN6MH` |  |
+| Phase transition | 1752.15 K | 1752.15 | other: 4.0-33; _alloy: Al 0.04, Co 0.63, Nb 0.33_ | model | [1] He 2015 | Table 6, p. 11, row 15; `ORC-NYI4VZULRW` |  |
+| Phase transition | 1752.15 K | 1752.15 | other: 8.0-33; _alloy: Al 0.08, Co 0.59, Nb 0.33_ | model | [1] He 2015 | Table 6, p. 11, row 21; `ORC-6M7HVSMQIR` |  |
+| Phase transition | 1757.15 K | 1757.15 | other: 2.0-33; _alloy: Al 0.02, Co 0.65, Nb 0.33_ | model | [1] He 2015 | Table 6, p. 11, row 3; `ORC-O5VSU5VVML` |  |
 
 ### Phase equilibrium (66)
 
@@ -170,7 +170,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
-Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes.
 
 ```bibtex
 @misc{orchid_literature_2026,

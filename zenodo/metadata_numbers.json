@@ -142,11 +142,11 @@
    "source": "parquet/literature_values.parquet"
   },
   "ev_experimental": {
-   "value": 36255,
+   "value": 36244,
    "source": "parquet/literature_values.parquet"
   },
   "ev_model": {
-   "value": 26186,
+   "value": 26197,
    "source": "parquet/literature_values.parquet"
   },
   "ev_unspecified": {

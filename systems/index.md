@@ -129,7 +129,7 @@ Table: Chemical systems (1864)
 | [Ag–S](https://data.orchid-project.org/systems/AG-S.html) | 0 |  | 0 | 0 | 1 | [md](https://data.orchid-project.org/systems/AG-S.md) |
 | [Ag–Sb](https://data.orchid-project.org/systems/AG-SB.html) | 9 | experimental 3, model 3, unspecified 3 | 9 | 0 | 3 | [md](https://data.orchid-project.org/systems/AG-SB.md) |
 | [Ag–Sc](https://data.orchid-project.org/systems/AG-SC.html) | 20 | experimental 12, model 8 | 10 | 0 | 2 | [md](https://data.orchid-project.org/systems/AG-SC.md) |
-| [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | 95 | experimental 59, model 10, DFT 24, unspecified 2 | 10 | 40 | 3 | [md](https://data.orchid-project.org/systems/AG-SE.md) |
+| [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | 95 | experimental 54, model 15, DFT 24, unspecified 2 | 10 | 40 | 3 | [md](https://data.orchid-project.org/systems/AG-SE.md) |
 | [Ag–Si](https://data.orchid-project.org/systems/AG-SI.html) | 9 | experimental 6, model 3 | 5 | 0 | 2 | [md](https://data.orchid-project.org/systems/AG-SI.md) |
 | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html) | 39 | experimental 21, model 13, DFT 2, unspecified 3 | 21 | 14 | 1 | [md](https://data.orchid-project.org/systems/AG-SM.md) |
 | [Ag–Sn](https://data.orchid-project.org/systems/AG-SN.html) | 10 | experimental 5, model 5 | 6 | 0 | 10 | [md](https://data.orchid-project.org/systems/AG-SN.md) |
@@ -1280,7 +1280,7 @@ Table: Chemical systems (1864)
 | [Ru–Ti](https://data.orchid-project.org/systems/RU-TI.html) | 12 | experimental 4, model 8 | 6 | 0 | 2 | [md](https://data.orchid-project.org/systems/RU-TI.md) |
 | [Ru–U](https://data.orchid-project.org/systems/RU-U.html) | 64 | experimental 42, model 22 | 64 | 0 | 1 | [md](https://data.orchid-project.org/systems/RU-U.md) |
 | [Ru–W](https://data.orchid-project.org/systems/RU-W.html) | 6 | experimental 3, model 3 | 6 | 0 | 1 | [md](https://data.orchid-project.org/systems/RU-W.md) |
-| [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | 38 | experimental 10, model 28 | 26 | 12 | 1 | [md](https://data.orchid-project.org/systems/RU-Y.md) |
+| [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | 38 | experimental 4, model 34 | 26 | 12 | 1 | [md](https://data.orchid-project.org/systems/RU-Y.md) |
 | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html) | 28 | experimental 11, model 17 | 10 | 14 | 2 | [md](https://data.orchid-project.org/systems/RU-ZR.md) |
 | [S–Se](https://data.orchid-project.org/systems/S-SE.html) | 14 | experimental 1, DFT 13 | 0 | 0 | 1 | [md](https://data.orchid-project.org/systems/S-SE.md) |
 | [S–Sn](https://data.orchid-project.org/systems/S-SN.html) | 23 | experimental 16, model 7 | 23 | 0 | 0 | [md](https://data.orchid-project.org/systems/S-SN.md) |
@@ -1884,7 +1884,7 @@ Table: Chemical systems (1864)
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
-Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes.
 
 ```bibtex
 @misc{orchid_literature_2026,

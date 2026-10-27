@@ -197,7 +197,7 @@ Counts (brackets written and skipped by reason, systems with liquid-stability po
 
 ## Citation
 
-R. Arróyave, J. Saal, D. Shin, ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-espei
+R. Arróyave, J. Saal, D. Shin, ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-espei
 
 Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 

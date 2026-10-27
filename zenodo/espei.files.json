@@ -16,7 +16,7 @@
  ],
  "exclude": [],
  "n_files": 8622,
- "total_bytes": 73548391,
+ "total_bytes": 73548621,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -60,8 +60,8 @@
   },
   {
    "path": "espei/CITATION.cff",
-   "bytes": 2107,
-   "sha256": "6ea17320b68327bc9f4227d4c2037cb14e67c127da09701443e384b210be3566"
+   "bytes": 2248,
+   "sha256": "579b4c15f4fbe23785756f5cc89b9c5b3012612e214aa1085e943ccb7640cd14"
   },
   {
    "path": "espei/DFT_EVIDENCE_IDENTITIES.json",
@@ -80,8 +80,8 @@
   },
   {
    "path": "espei/README.md",
-   "bytes": 31398,
-   "sha256": "fbc2061b1ca51e34c983b05413c7397eb0b9f2b3eae763402bb4d261dd455588"
+   "bytes": 31397,
+   "sha256": "d39cbdec36e272aa18bcd913797a6e9e25619cf9259a597541b23d65a2300fb4"
   },
   {
    "path": "espei/SCHEMA.md",
@@ -105,8 +105,8 @@
   },
   {
    "path": "espei/VALIDATION.md",
-   "bytes": 66936,
-   "sha256": "b11fb66b40ca41fbb8e45bf672dd251a5de8e82c6667eaa5402305b6a664e4c2"
+   "bytes": 66874,
+   "sha256": "d6c0550a30c252d6965969ff2644a1a814f1a4b4fba1d7b447f14863fc37f6ff"
   },
   {
    "path": "espei/assessed/AG-AL/AgAl-04Wit.AG-AL-p46.json",
@@ -10676,7 +10676,7 @@
   {
    "path": "espei/derived/liquid-stability/RU-Y/RuY-11Ait.liquid-stability.json",
    "bytes": 5780,
-   "sha256": "306b09747e6abb0c1f24e42954a0e2498b1749e3628175350377fd2fa7d2cc6a"
+   "sha256": "ed314f755de26e1399bba91694f0edea56b091fc63d9d1a31183c806dfc5f6f9"
   },
   {
    "path": "espei/derived/liquid-stability/RU-ZR/RuZr-07Idb.liquid-stability.json",
@@ -10806,12 +10806,12 @@
   {
    "path": "espei/dft/CALIBRATION.json",
    "bytes": 277162,
-   "sha256": "7896c8b4a3e87945833cd5c560fce78726b62bb4eca9e36b9eacd727b794c5fe"
+   "sha256": "e5efdc1262db1ca15f6aca397392c55b705a9a4b404fef8893f44eb504b7b1e9"
   },
   {
    "path": "espei/dft/CALIBRATION.md",
    "bytes": 11264,
-   "sha256": "559f96614b2e0d3c6806e180ff433857c83d6cd8acd1e5848a699d1397a4fe2a"
+   "sha256": "f9950d898b1cc90ebecb547ce29dd2487fbfaf129d8a7ce13ac7c93ba567f830"
   },
   {
    "path": "espei/dft/literature/AG-DY/AgDy-10Lon.AG2DY_C11B.json",
@@ -28716,7 +28716,7 @@
   {
    "path": "espei/experimental/CALIBRATION_EXPERIMENT.md",
    "bytes": 26898,
-   "sha256": "4415dc0d906558da091f1e3fe030eecdf78e70bc14e572223a0052d5325f7e8d"
+   "sha256": "6dd765c1061a77b9a37ec45a0c08a8582e2d108f71c33cb1435fa2fe3ea435fd"
   },
   {
    "path": "espei/experimental/CD-GD/CdGd-24Azz.hmr-00.json",
@@ -32865,8 +32865,8 @@
   },
   {
    "path": "espei/index.json",
-   "bytes": 11578855,
-   "sha256": "2a423a0bc42bd2487a42679c89ab4ffe6263685559ae91b0c0b9ca93f480d183"
+   "bytes": 11578930,
+   "sha256": "c12e9f73a1a81ef13677ed15ab039a77b6d8815d33972ff64480e77d7ec74c56"
   },
   {
    "path": "espei/invariants/AG-AL/AgAl-04Wit.zpf-00.json",
@@ -43120,13 +43120,13 @@
   },
   {
    "path": "espei/validation.json",
-   "bytes": 4380559,
-   "sha256": "7e79d96ce636cbf16585924af841b54b625d14c3a72c24089919955fa4614cb2"
+   "bytes": 4380352,
+   "sha256": "a7f0051e503f25e1aa507309e01e9ac00603a007c5c46fc2e1983ad5125a12ec"
   },
   {
    "path": "zenodo/espei.metadata.json",
-   "bytes": 14297,
-   "sha256": "0f7c7357d8f3a4ff991eeb19a60eff470381a22a0887016c916efce70730d422"
+   "bytes": 14581,
+   "sha256": "4b2e0d439a0ef9c2a972750d2526b9e4b09e20726d9e9e952b714c8b31815be3"
   }
  ]
 }

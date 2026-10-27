@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/RU-Y.html · Markdown: https://data.orchid-project.org/systems/RU-Y.md
 
-38 accepted literature values from 1 paper(s) (experimental 10, model 28); 1 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+38 accepted literature values from 1 paper(s) (experimental 4, model 34); 1 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RU-Y.json) · [CSV](https://data.orchid-project.org/systems/RU-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-Y/RuY-11Ait.json) · [phases (9)](https://data.orchid-project.org/phases/pages/RU-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RU-Y.html) · [Markdown](https://data.orchid-project.org/systems/RU-Y.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
-| model | 28 |
+| experimental | 4 |
+| model | 34 |
 
 Table: Accepted values by property group
 
@@ -64,14 +64,14 @@ Table: Invariant reactions reported in the literature for the Ru–Y system (26)
 |---:|---|---|---|---|---|---|
 | 2253 | congruent melting: Liq -> Ru2Y | Liq: Y 0.3333; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011 | Table 3, p. 3, row 6; `ORC-A3MFXIGH3D` |  |
 | 2253 | congruent melting: Liq -> Ru2Y | Liq: Y 0.3333; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 5; `ORC-BQWNOHQXI6` |  |
-| 2223 | congruent melting: Liq -> Ru2Y | Liq: Y 0.3333; Ru2Y: Ru 0.666667, Y 0.333333 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 4; `ORC-VE7RIBTKUQ` |  |
+| 2223 | congruent melting: Liq -> Ru2Y | Liq: Y 0.3333; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 4; `ORC-VE7RIBTKUQ` |  |
 | 2113 | eutectic: Liq -> Ru + Ru2Y | Liq: Y 0.2; Ru2Y: Ru 0.666667, Y 0.333333 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 1; `ORC-3LJOFDZGH6` |  |
 | 2111 | eutectic: Liq -> Ru + Ru2Y | Liq: Y 0.2004; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011 | Table 3, p. 3, row 3; `ORC-ZUXL25NPG3` |  |
 | 2081 | eutectic: Liq -> Ru + Ru2Y | Liq: Y 0.207; Ru2Y: Ru 0.666667, Y 0.333333 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 2; `ORC-LPPAKIUKXD` |  |
-| 1751 | βY -> Liq + αY | Liq: Y 0.985 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 25; `ORC-PQ7S6HMX75` |  |
+| 1751 | βY -> Liq + αY | Liq: Y 0.985 | model | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 25; `ORC-PQ7S6HMX75` |  |
 | 1750 | βY -> Liq + αY | Liq: Y 0.985 | model | [1] Amar 2011 | Table 3, p. 3, row 26; `ORC-EQTHQNF5GI` |  |
-| 1623 | Liq + Ru2Y -> Ru2Y3 | Liq: Y 0.619; Ru2Y: Ru 0.666667, Y 0.333333; Ru2Y3: Ru 0.4, Y 0.6 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 7; `ORC-QB7ZNEQH2H` |  |
-| 1593 | congruent melting: Liq -> Ru2Y5 | Liq: Y 0.7142; Ru2Y5: Ru 0.285714, Y 0.714286 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 16; `ORC-6AG3ZOTYSE` |  |
+| 1623 | Liq + Ru2Y -> Ru2Y3 | Liq: Y 0.619; Ru2Y: Ru 0.666667, Y 0.333333; Ru2Y3: Ru 0.4, Y 0.6 | model | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 7; `ORC-QB7ZNEQH2H` |  |
+| 1593 | congruent melting: Liq -> Ru2Y5 | Liq: Y 0.7142; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 16; `ORC-6AG3ZOTYSE` |  |
 | 1585 | Liq + Ru2Y -> Ru2Y3 | Liq: Y 0.62; Ru2Y: Ru 0.666667, Y 0.333333; Ru2Y3: Ru 0.4, Y 0.6 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 8; `ORC-HRMGHRDDF2` |  |
 | 1577 | congruent melting: Liq -> Ru2Y5 | Liq: Y 0.7142; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 17; `ORC-USMROY2WAO` |  |
 | 1570 | Liq + Ru2Y3 -> Ru25Y44 | Liq: Y 0.647; Ru2Y3: Ru 0.4, Y 0.6; Ru25Y44: Ru 0.362319, Y 0.637681 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 11; `ORC-OF6RC6EIIV` |  |
@@ -81,10 +81,10 @@ Table: Invariant reactions reported in the literature for the Ru–Y system (26)
 | 1561 | eutectic: Liq -> Ru25Y44 + Ru2Y5 | Liq: Y 0.671; Ru25Y44: Ru 0.362319, Y 0.637681; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 14; `ORC-YWPM5OF3UB` |  |
 | 1548 | Liq + Ru2Y3 -> Ru25Y44 | Liq: Y 0.6408; Ru2Y3: Ru 0.4, Y 0.6; Ru25Y44: Ru 0.362319, Y 0.637681 | model | [1] Amar 2011 | Table 3, p. 3, row 12; `ORC-NU3POV6CV6` |  |
 | 1539 | eutectic: Liq -> Ru25Y44 + Ru2Y5 | Liq: Y 0.6639; Ru25Y44: Ru 0.362319, Y 0.637681; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011 | Table 3, p. 3, row 15; `ORC-75M77J5LX6` |  |
-| 1523 | Liq + Ru2Y5 -> RuY3 | Liq: Y 0.7895; Ru2Y5: Ru 0.285714, Y 0.714286; RuY3: Ru 0.25, Y 0.75 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 19; `ORC-EHV6NHESQT` |  |
+| 1523 | Liq + Ru2Y5 -> RuY3 | Liq: Y 0.7895; Ru2Y5: Ru 0.285714, Y 0.714286; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 19; `ORC-EHV6NHESQT` |  |
 | 1494 | Liq + Ru2Y5 -> RuY3 | Liq: Y 0.792; Ru2Y5: Ru 0.285714, Y 0.714286; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011 | Table 3, p. 3, row 21; `ORC-4XSJOPAOVE` |  |
 | 1493 | Liq + Ru2Y5 -> RuY3 | Liq: Y 0.804; Ru2Y5: Ru 0.285714, Y 0.714286; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 20; `ORC-DEJLNETLBV` |  |
-| 1473 | eutectic: Liq -> Ru25Y44 + Ru2Y5 | Liq: Y 0.66; Ru25Y44: Ru 0.362319, Y 0.637681; Ru2Y5: Ru 0.285714, Y 0.714286 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 13; `ORC-FKPAEKMBTW` |  |
+| 1473 | eutectic: Liq -> Ru25Y44 + Ru2Y5 | Liq: Y 0.66; Ru25Y44: Ru 0.362319, Y 0.637681; Ru2Y5: Ru 0.285714, Y 0.714286 | model | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 13; `ORC-FKPAEKMBTW` |  |
 | 1364 | eutectic: Liq -> RuY3 + αY | Liq: Y 0.855; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 3, p. 3, row 23; `ORC-7YBWTB2435` |  |
 | 1353 | eutectic: Liq -> RuY3 + αY | Liq: Y 0.8579; RuY3: Ru 0.25, Y 0.75 | model | [1] Amar 2011 | Table 3, p. 3, row 24; `ORC-636YMRPZ7O` |  |
 | 1353 | eutectic: Liq -> RuY3 + αY | Liq: Y 0.85; RuY3: Ru 0.25, Y 0.75 | experimental | [1] Amar 2011; _cites Massalski 1990_ | Table 3, p. 3, row 22; `ORC-IQBD5O2U3I` |  |
@@ -125,7 +125,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
-Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes.
 
 ```bibtex
 @misc{orchid_literature_2026,

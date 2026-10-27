@@ -515,12 +515,12 @@ Liquid-stability systems: above_a_boiling_point 82, element_not_a_condensed_liqu
 | duplicate_read_same_row: E4: the same printed table row read twice (same ORCHID row id `pid`, conditions and value); counted once, the other id kept as `also_read_as` | 1151 |
 | duplicate_value_same_dataset: identical conditions and value under another id in the same dataset (another row or paper quoting the same value): counted once, the other id in `also_read_as` | 22 |
 | espei_evaluation_nonfinite_region: ZPF region with a non-finite driving force against the target TDB (ESPEI 0.9.1 likelihood evaluation); region not written | 52 |
-| evidence_class_mismatch: published evidence class differs from the folder's class (classes are never mixed) | 24 |
+| evidence_class_mismatch: published evidence class differs from the folder's class (classes are never mixed) | 36 |
 | formation_magnitude_implausible: formation enthalpy / Gibbs energy outside [-450, +100] kJ/mol-atom (per-formula value or unit error) | 2 |
 | gas_without_printed_pressure: ZPF region with a gas phase and no printed pressure | 23 |
 | model_phase_rejected_by_label_check: the record's model phase was rejected by the printed-label check (tools/phase_label_check.py; audit round 2, A2 class 1) | 417 |
 | not_accepted: published with extraction_accepted = false | 45 |
-| not_espei_ready:literature_gate: a literature-level gate (tools/literature_gates.py) marks the published value not_espei_ready or not accepted (e.g. G6 reaction phase / liquid count, a temperature range stored as a point); every such value is excluded | 1124 |
+| not_espei_ready:literature_gate: a literature-level gate (tools/literature_gates.py) marks the published value not_espei_ready or not accepted (e.g. G6 reaction phase / liquid count, a temperature range stored as a point); every such value is excluded | 1112 |
 | phase_not_in_target_tdb: the value's phase has no model in the target TDB (the assessment folder) | 106 |
 | phase_rule:compound_property_not_fittable: physical phase rule: a property of a stoichiometric compound that ESPEI 0.9.1 cannot fit (only HM_FORM / SM_FORM of endmembers) | 703 |
 | phase_rule:liquid_impossible_at_T: physical phase rule: liquid printed at a temperature below the lowest possible liquid temperature of the system | 3 |
@@ -558,8 +558,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `espei_evaluation_nonfinite`: 59
 - `espei_evaluation_tdb_error`: 13
 - `espei_evaluation_tdb_not_found`: 3
-- `evidence_class_mismatch`: 9
-- `evidence_class_mismatch;not_espei_ready:literature_gate`: 1
+- `evidence_class_mismatch`: 11
 - `formation_magnitude_implausible;phase_rule:phase_label_not_mapped`: 1
 - `gas_without_printed_pressure`: 12
 - `gas_without_printed_pressure;model_phase_rejected_by_label_check`: 1
@@ -572,7 +571,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped`: 1
 - `not_accepted;temperature_differs_from_release`: 1
 - `not_accepted;value_differs_from_release`: 2
-- `not_espei_ready:literature_gate`: 149
+- `not_espei_ready:literature_gate`: 148
 - `not_espei_ready:literature_gate;phase_not_in_target_tdb`: 3
 - `not_espei_ready:literature_gate;phase_not_in_target_tdb;phase_rule:phase_label_not_mapped`: 1
 - `not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable`: 2

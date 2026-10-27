@@ -6,14 +6,14 @@ HTML: https://data.orchid-project.org/ · Markdown: https://data.orchid-project.
 
 This is the data site of ORCHID (Open Repository for CALPHAD Hypotheses, Intelligence, and Discovery, [orchid-project.org](https://orchid-project.org/)). Every value carries its evidence class (experimental, model, DFT, unspecified; never mixed or averaged), its source paper and DOI, and the table row or short verbatim passage and page it was read from. Release: `orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v2.1.19r, text+context fixup-20261022)`.
 
-Status: Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+Status: Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes.
 
 ## Browse without JavaScript
 
 - [Chemical systems](https://data.orchid-project.org/systems/index.html) — 1864 pages (also [Markdown](https://data.orchid-project.org/systems/index.md)): literature values, invariants, formation enthalpies, calculated phase diagrams.
 - [Compounds](https://data.orchid-project.org/compounds/index.html) — 1460 formation-enthalpy pages with DFT comparison.
 - [Reporting papers](https://data.orchid-project.org/papers/index.html) — citation, DOI, systems, number of values.
-- [Phase registry](https://data.orchid-project.org/phases/pages/index.html) — 1241 binary-system pages, 10,430 phases: names, structure (when certain), stability, TDB PHASE/CONSTITUENT statements, example DOIs.
+- [Phase registry](https://data.orchid-project.org/phases/pages/index.html) — 1241 binary-system pages, 10,430 phases: names, structure (when the stored evidence supports an assignment under the stated tier rules), stability, TDB PHASE/CONSTITUENT statements, example DOIs.
 - [Bibliography](https://data.orchid-project.org/bibliography/pages/index.html) — 9,570 papers ORCHID knows (read, cited as original sources, behind TDB files and assessed diagrams, discovery leads) with roles, evidence counts and typed relations; per paper and per system.
 - Interactive tools: [data explorer](https://orchid-project.org/data-explorer/), [phase diagrams](https://orchid-project.org/phase-diagrams/), [phase registry](https://orchid-project.org/phases/), [DFT vs experiment](https://orchid-project.org/dft-parity/).
 
@@ -40,7 +40,7 @@ Table: Folders of the data site
 
 ## Licence and citation
 
-Release v2026.10 is archived on Zenodo as eight citable datasets, each with its own DOI, linked by an umbrella record: [ORCHID data: umbrella record of the ORCHID datasets](https://doi.org/10.5281/zenodo.PENDING-orchid-data); [ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature](https://doi.org/10.5281/zenodo.PENDING-literature); [ORCHID-Diagrams: calculated binary phase diagrams](https://doi.org/10.5281/zenodo.PENDING-phase-diagrams); [ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)](https://doi.org/10.5281/zenodo.PENDING-hulls); [ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark](https://doi.org/10.5281/zenodo.PENDING-dft-benchmark); [ORCHID-Registry: phase registry of binary systems](https://doi.org/10.5281/zenodo.PENDING-phase-registry); [ORCHID-Assemblages: assessed phase assemblages of binary systems](https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages); [ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values](https://doi.org/10.5281/zenodo.PENDING-espei); [ORCHID-Bibliography: papers and typed citation relations](https://doi.org/10.5281/zenodo.PENDING-bibliography).
+Release v2026.10 is archived on Zenodo as eight citable datasets, each with its own DOI, linked by an umbrella record: [ORCHID data: umbrella record of the ORCHID datasets](https://doi.org/10.5281/zenodo.PENDING-orchid-data); [ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature](https://doi.org/10.5281/zenodo.PENDING-literature); [ORCHID-Diagrams: calculated binary phase diagrams](https://doi.org/10.5281/zenodo.PENDING-phase-diagrams); [ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)](https://doi.org/10.5281/zenodo.PENDING-hulls); [ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark](https://doi.org/10.5281/zenodo.PENDING-dft-benchmark); [ORCHID-Registry: phase registry of binary systems](https://doi.org/10.5281/zenodo.PENDING-phase-registry); [ORCHID-Assemblages: assessed phase assemblages of binary systems](https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages); [ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs](https://doi.org/10.5281/zenodo.PENDING-espei); [ORCHID-Bibliography: papers and typed citation relations](https://doi.org/10.5281/zenodo.PENDING-bibliography).
 
 Derived data: CC BY 4.0. Cite the ORCHID release ([CITATION.cff](https://data.orchid-project.org/CITATION.cff)) and the original source of every value you use (its paper and DOI). Quotes are short excerpts kept so that each value can be checked; they remain under the publishers' copyright and are not relicensed. Source papers, page images and full text are not redistributed. Licences of the DFT and CALPHAD sources: [LICENSES.md](https://data.orchid-project.org/LICENSES.md), [NOTICE.md](https://data.orchid-project.org/NOTICE.md).
 
@@ -52,13 +52,13 @@ Derived data: CC BY 4.0. Cite the ORCHID release ([CITATION.cff](https://data.or
 - R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
 - R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
 - R. Arróyave, J. Saal, D. Shin, ORCHID-Assemblages: assessed phase assemblages of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
-- R. Arróyave, J. Saal, D. Shin, ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-espei
+- R. Arróyave, J. Saal, D. Shin, ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-espei
 - R. Arróyave, J. Saal, D. Shin, ORCHID-Bibliography: papers and typed citation relations (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-bibliography
 - R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; for every diagram used, its original evaluation (citations[role=original_evaluation], DOI where matched) and H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International (2010) as the compilation; the original source of every value you use (each dataset's `reference` / `bibtex`, references.bib; index.csv lists the DOIs); the papers themselves when you use their data (doi / citation of each bibliography record).
 
-Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
+Version 1, machine-extracted: values were read by language-model readers constrained to quote their source and checked automatically, and the release was then audited on the printed pages by adversarial audits, an independent second review of fit-facing records and a preliminary human review of a frozen sample. Flags such as accepted and ESPEI-ready record screening results, not certification; known issues are listed in the release notes.
 
 ```bibtex
 @misc{orchid_literature_2026,
@@ -127,7 +127,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_espei_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values}},
+  title     = {{ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
