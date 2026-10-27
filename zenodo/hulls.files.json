@@ -18,7 +18,7 @@
  ],
  "exclude": [],
  "n_files": 18201,
- "total_bytes": 116008500,
+ "total_bytes": 116008853,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -91022,8 +91022,8 @@
   },
   {
    "path": "zenodo/hulls.metadata.json",
-   "bytes": 12090,
-   "sha256": "ddae5c79ad76a2fa8b7412a97f39435454f988ac7baf3de1df5d925495ef8252"
+   "bytes": 12443,
+   "sha256": "b04a023b4c675494881b4b1bc6c1507388aed63b54584e2051eb810057c4d978"
   }
  ]
 }

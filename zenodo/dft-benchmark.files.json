@@ -21,7 +21,7 @@
  ],
  "exclude": [],
  "n_files": 14,
- "total_bytes": 6697119,
+ "total_bytes": 6697669,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -90,8 +90,8 @@
   },
   {
    "path": "zenodo/dft-benchmark.metadata.json",
-   "bytes": 13954,
-   "sha256": "1a4e0117ff9a8dee4658b1bf6409405180a6e8b13843c098bf139d0990fb4d12"
+   "bytes": 14504,
+   "sha256": "d3e90d206ec28f2fa79d86dc6b47005f41ebdb5a417cbe43be58e3cb5f8042c2"
   }
  ]
 }

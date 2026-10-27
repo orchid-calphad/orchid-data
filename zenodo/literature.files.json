@@ -24,7 +24,7 @@
   "literature/kim2017_crosscheck.*"
  ],
  "n_files": 1513,
- "total_bytes": 277678724,
+ "total_bytes": 277679173,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -7588,8 +7588,8 @@
   },
   {
    "path": "zenodo/literature.metadata.json",
-   "bytes": 14294,
-   "sha256": "233aa50eae35b27fb5626a59795c13cb7c0dbcd56f5825102d4d7ea747b6915d"
+   "bytes": 14743,
+   "sha256": "f54c9ae7977a0e12da73fb4eb1c4fc7165fcacc625b852f55693cd73e32c5b10"
   }
  ]
 }

@@ -154,7 +154,7 @@
    "source": "parquet/literature_values.parquet"
   },
   "ex_commit": {
-   "value": "2c88720c7f",
+   "value": "e695580ab2",
    "source": "zenodo/orchid-examples.files.json"
   },
   "ex_files": {
@@ -162,7 +162,7 @@
    "source": "zenodo/orchid-examples.files.json"
   },
   "ex_kb": {
-   "value": 13931,
+   "value": 13932,
    "source": "zenodo/orchid-examples.files.json (total_bytes / 1000)"
   },
   "h_mp_agree": {
@@ -208,6 +208,18 @@
   "h_sgte_systems": {
    "value": 1223,
    "source": "hulls/calphad-sgte/catalog.json"
+  },
+  "hr_adjudicated": {
+   "value": 81,
+   "source": "orchid-project.org tools/human_review_summary_20261026.json (review summary sha256 4c49428bb7a7849b)"
+  },
+  "hr_reviewed": {
+   "value": 210,
+   "source": "orchid-project.org tools/human_review_summary_20261026.json (review summary sha256 4c49428bb7a7849b)"
+  },
+  "hr_sample": {
+   "value": 300,
+   "source": "orchid-project.org tools/human_review_summary_20261026.json (review summary sha256 4c49428bb7a7849b)"
   },
   "kim_differ": {
    "value": 19,

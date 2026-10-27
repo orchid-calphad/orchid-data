@@ -19,7 +19,7 @@
  ],
  "exclude": [],
  "n_files": 2791,
- "total_bytes": 123661182,
+ "total_bytes": 123661589,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -13973,8 +13973,8 @@
   },
   {
    "path": "zenodo/phase-diagrams.metadata.json",
-   "bytes": 11452,
-   "sha256": "98af416712a2539457fa46c8f63dcb5da853982b227e2318269116db54e10008"
+   "bytes": 11859,
+   "sha256": "b5b7a1cff41114a416a01c5a3df4939dd7436ccc0aa1d82610763d0cff375115"
   }
  ]
 }

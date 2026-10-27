@@ -16,7 +16,7 @@
  ],
  "exclude": [],
  "n_files": 2161,
- "total_bytes": 41133061,
+ "total_bytes": 41133290,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -10820,8 +10820,8 @@
   },
   {
    "path": "zenodo/assessed-phase-assemblages.metadata.json",
-   "bytes": 9551,
-   "sha256": "6867ec3f62f453f823e77cdfd1005b684219bf377aab1e19a90a99a5413e8f84"
+   "bytes": 9780,
+   "sha256": "1ceaeeba214b6057ad03060bd0db7981d9fd451fff86ba6d4724538d1ace0271"
   }
  ]
 }

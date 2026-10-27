@@ -18,7 +18,7 @@
   "bibliography/pages/**"
  ],
  "n_files": 13755,
- "total_bytes": 219947974,
+ "total_bytes": 219948302,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -68792,8 +68792,8 @@
   },
   {
    "path": "zenodo/bibliography.metadata.json",
-   "bytes": 13391,
-   "sha256": "3ec27dc3ea477149847acdc8f487429854db367f36b3ae500d207037197791f9"
+   "bytes": 13719,
+   "sha256": "bf62196151f748c9eb3058add2e52cbd324f7cac6209dfdcec26ee09816883d3"
   }
  ]
 }

@@ -18,7 +18,7 @@
   "phases/pages/**"
  ],
  "n_files": 1266,
- "total_bytes": 112549383,
+ "total_bytes": 112549730,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -6347,8 +6347,8 @@
   },
   {
    "path": "zenodo/phase-registry.metadata.json",
-   "bytes": 13925,
-   "sha256": "088bd0ce827bf1832e22822719b0007bf924b95ec686d86ac904c48690dc12ec"
+   "bytes": 14272,
+   "sha256": "a70f25b44335dc570fbcc03ea8b79302a3b5bbeb486c47fb258e393a362a8083"
   }
  ]
 }

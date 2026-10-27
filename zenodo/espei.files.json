@@ -1,6 +1,6 @@
 {
  "record": "espei",
- "title": "ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values",
+ "title": "ORCHID ESPEI datasets: literature and database-derived thermodynamic fitting inputs",
  "version": "2026.10",
  "bundle": "orchid-espei-v2026.10.zip",
  "include": [
@@ -16,7 +16,7 @@
  ],
  "exclude": [],
  "n_files": 8622,
- "total_bytes": 73547865,
+ "total_bytes": 73548391,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -43125,8 +43125,8 @@
   },
   {
    "path": "zenodo/espei.metadata.json",
-   "bytes": 13771,
-   "sha256": "6f776133495296625d2d0791af3074063a6092af89469454a07c8eebfc87dfb6"
+   "bytes": 14297,
+   "sha256": "0f7c7357d8f3a4ff991eeb19a60eff470381a22a0887016c916efce70730d422"
   }
  ]
 }
