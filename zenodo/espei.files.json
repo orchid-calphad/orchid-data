@@ -10806,12 +10806,12 @@
   {
    "path": "espei/dft/CALIBRATION.json",
    "bytes": 277162,
-   "sha256": "e5efdc1262db1ca15f6aca397392c55b705a9a4b404fef8893f44eb504b7b1e9"
+   "sha256": "cd14bc3511235f20eeb9b41844f220c3b5e98de5b4b6d073046f7ea27e66b3bf"
   },
   {
    "path": "espei/dft/CALIBRATION.md",
    "bytes": 11264,
-   "sha256": "f9950d898b1cc90ebecb547ce29dd2487fbfaf129d8a7ce13ac7c93ba567f830"
+   "sha256": "8f48c2d8bb9750e4a7da63aee4feb156bc65cb13f1f783ea987a3e90ccbc3261"
   },
   {
    "path": "espei/dft/literature/AG-DY/AgDy-10Lon.AG2DY_C11B.json",
