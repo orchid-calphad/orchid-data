@@ -1,10 +1,10 @@
 # Sb–Yb system
 
-> Sb–Yb system: 48 accepted literature values (invariant reaction 34, formation 13, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Yb system: 42 accepted literature values (invariant reaction 34, formation 7, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-YB.html · Markdown: https://data.orchid-project.org/systems/SB-YB.md
 
-48 accepted literature values from 2 paper(s) (experimental 19, model 17, DFT 12); 2 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+42 accepted literature values from 2 paper(s) (experimental 19, model 17, DFT 6); 2 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-YB.json) · [CSV](https://data.orchid-project.org/systems/SB-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-YB/SbYb-12Liu.json) · [phases (12)](https://data.orchid-project.org/phases/pages/SB-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-YB.html) · [Markdown](https://data.orchid-project.org/systems/SB-YB.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 19 |
 | model | 17 |
-| DFT | 12 |
+| DFT | 6 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 34 |
 | phase transition | 1 |
-| formation | 13 |
+| formation | 7 |
 
 ## Calculated phase diagrams
 
@@ -124,16 +124,10 @@ Table: Invariant reactions reported in the literature for the Sb–Yb system (34
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Sb–Yb system (13)
+Table: Enthalpies of formation, Sb–Yb system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -101.94 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 12; `ORC-5VGWYV4G3W.044fcb` |  |
-| UNKNOWN |  | -100.24 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 13; `ORC-LMMVXQFEXL.bb2d53` |  |
-| UNKNOWN |  | -98.48 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 11; `ORC-HWLIUSGHL7.0926ff` |  |
-| UNKNOWN |  | -96.7 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 14; `ORC-APX5ADQVBX.1aa0ed` |  |
-| UNKNOWN |  | -68.29 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 17; `ORC-3PDFQ2IDQQ.d8f4c8` |  |
-| UNKNOWN |  | -64.03 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 16; `ORC-IWLICLBEU2.e3462b` |  |
 | Yb11Sb10 |  | -96.7 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 14; `ORC-APX5ADQVBX.ba1ca9` |  |
 | Yb16Sb11 |  | -101.94 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 12; `ORC-5VGWYV4G3W.bdb86f` |  |
 | Yb4Sb3 |  | -100.24 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 13; `ORC-LMMVXQFEXL.f2edfa` |  |
@@ -161,10 +155,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -173,7 +167,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -184,7 +178,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -194,7 +188,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -204,7 +198,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

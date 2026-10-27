@@ -185,17 +185,15 @@ _tdb: _tdb:BiEr-13Wan.tdb:BI3ER5, tdb:BiEr-17Wan.tdb:BI3ER5, tdb:BiEr-22Ben.tdb:
 68: CONST BI3ER5 : BI : ER : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.tca.2013.05.024](https://doi.org/10.1016/j.tca.2013.05.024) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Bo Wu, Thermodynamic assessment of the Bi–Er and the Bi–Dy systems, Thermochimica Acta 566, 44-49 (2013).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8) S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jnucmat.2017.08.016](https://doi.org/10.1016/j.jnucmat.2017.08.016) Yafei Wang, Wentao Zhou, Shaoqiang Guo, Jinsuo Zhang, Thermodynamic properties of fission products (Pr, Ce, Er) in liquid bismuth by thermodynamic assessment, Journal of Nuclear Materials 495, 181-191 (2017).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/s0925-8388(01)01009-x](https://doi.org/10.1016/s0925-8388%2801%2901009-x) M Drzyzga, J Szade, Structure and magnetism of R5Bi3 (R=Tb, Dy, Ho, Er) and Tb4Bi3, Journal of Alloys and Compounds 321, 27-34 (2001).  
-_cited as the source of values for this phase_
-- [doi:10.1007/s11669-013-0231-4](https://doi.org/10.1007/s11669-013-0231-4) Ying Tang, Biao Hu, Jiong Wang, Qiannan Gao, Yong Du, Xiaoming Yuan et al., Thermodynamic Modeling of the La-B and La-Bi Systems Supported by First-Principles Calculations, J. Phase Equilib. Diffus. 34, 297-306 (2013).  
 _cited as the source of values for this phase_
 - [doi:10.1515/zna-2002-9-1016](https://doi.org/10.1515/zna-2002-9-1016) M. N. Abdusalyamova, O. I. Rachmatov, The Investigation of Phase Diagrams of Erbium Pnictides, Zeitschrift für Naturforschung A 57, 98-100 (2002).  
 _cited as the source of values for this phase_
@@ -360,16 +358,14 @@ _tdb: _tdb:BiEr-13Wan.tdb:HCP_A3, tdb:BiEr-17Wan.tdb:HCP_A3, tdb:BiEr-22Ben.tdb:
 43: CONST HCP_A3 : BI ER% : VA: !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8) S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jnucmat.2017.08.016](https://doi.org/10.1016/j.jnucmat.2017.08.016) Yafei Wang, Wentao Zhou, Shaoqiang Guo, Jinsuo Zhang, Thermodynamic properties of fission products (Pr, Ce, Er) in liquid bismuth by thermodynamic assessment, Journal of Nuclear Materials 495, 181-191 (2017).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.tca.2013.05.024](https://doi.org/10.1016/j.tca.2013.05.024) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Bo Wu, Thermodynamic assessment of the Bi–Er and the Bi–Dy systems, Thermochimica Acta 566, 44-49 (2013).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s11669-013-0231-4](https://doi.org/10.1007/s11669-013-0231-4) Ying Tang, Biao Hu, Jiong Wang, Qiannan Gao, Yong Du, Xiaoming Yuan et al., Thermodynamic Modeling of the La-B and La-Bi Systems Supported by First-Principles Calculations, J. Phase Equilib. Diffus. 34, 297-306 (2013).  
-_cited as the source of values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1515/zna-2002-9-1016](https://doi.org/10.1515/zna-2002-9-1016) M. N. Abdusalyamova, O. I. Rachmatov, The Investigation of Phase Diagrams of Erbium Pnictides, Zeitschrift für Naturforschung A 57, 98-100 (2002).  
 _cited as the source of values for this phase_
 
@@ -409,23 +405,21 @@ _tdb: _tdb:BiEr-13Wan.tdb:LIQUID, tdb:BiEr-17Wan.tdb:LIQUID, tdb:BiEr-22Ben.tdb:
 28: CONST LIQUID:L : BI BIER ER : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8) S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.tca.2013.05.024](https://doi.org/10.1016/j.tca.2013.05.024) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Bo Wu, Thermodynamic assessment of the Bi–Er and the Bi–Dy systems, Thermochimica Acta 566, 44-49 (2013).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jnucmat.2017.08.016](https://doi.org/10.1016/j.jnucmat.2017.08.016) Yafei Wang, Wentao Zhou, Shaoqiang Guo, Jinsuo Zhang, Thermodynamic properties of fission products (Pr, Ce, Er) in liquid bismuth by thermodynamic assessment, Journal of Nuclear Materials 495, 181-191 (2017).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/j.tca.2013.05.024](https://doi.org/10.1016/j.tca.2013.05.024) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Bo Wu, Thermodynamic assessment of the Bi–Er and the Bi–Dy systems, Thermochimica Acta 566, 44-49 (2013).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1515/zna-2002-9-1016](https://doi.org/10.1515/zna-2002-9-1016) M. N. Abdusalyamova, O. I. Rachmatov, The Investigation of Phase Diagrams of Erbium Pnictides, Zeitschrift für Naturforschung A 57, 98-100 (2002).  
-_cited as the source of values for this phase_
-- [doi:10.1007/s11669-013-0231-4](https://doi.org/10.1007/s11669-013-0231-4) Ying Tang, Biao Hu, Jiong Wang, Qiannan Gao, Yong Du, Xiaoming Yuan et al., Thermodynamic Modeling of the La-B and La-Bi Systems Supported by First-Principles Calculations, J. Phase Equilib. Diffus. 34, 297-306 (2013).  
 _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -434,7 +428,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -445,7 +439,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

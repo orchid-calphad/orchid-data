@@ -13,10 +13,10 @@ Table: Phases of the Mn–O system (16)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [B1_OXIDE](#phase-mn-o-b1-oxide); _phase:mn-o:b1-oxide_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2123.45 K, x(O) 0.5–0.53321 | 80 | 2 |
-| [BCC_A2](#phase-mn-o-bcc-a2); _phase:mn-o:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1411.01–1518.46 K, x(O) 0–0 | 0 | 2 |
+| [BCC_A2](#phase-mn-o-bcc-a2); _phase:mn-o:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1411.01–1518.46 K, x(O) 0–0 | 5 | 2 |
 | [CBCC_A12](#phase-mn-o-cbcc-a12); _phase:mn-o:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–980 K, x(O) 0–0 | 7 | 2 |
-| [CUB_A13](#phase-mn-o-cub-a13); _phase:mn-o:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 980–1359.99 K, x(O) 0–0 | 0 | 2 |
-| [FCC_A1](#phase-mn-o-fcc-a1); _phase:mn-o:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1359.99–1503.51 K, x(O) 0–0 | 0 | 2 |
+| [CUB_A13](#phase-mn-o-cub-a13); _phase:mn-o:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 980–1359.99 K, x(O) 0–0 | 9 | 2 |
+| [FCC_A1](#phase-mn-o-fcc-a1); _phase:mn-o:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1359.99–1503.51 K, x(O) 0–0 | 5 | 2 |
 | [GAS](#phase-mn-o-gas); _phase:mn-o:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 1158.26–2500 K, x(O) 0–1 | 0 | 2 |
 | [SPINEL_H11](#phase-mn-o-h11-spinel); _phase:mn-o:h11-spinel_ | Al2MgO4 · H1_1 · cF56 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1408.45–1878.72 K, x(O) 0.57123–0.5716 | 0 | 1 |
 | [HCP_A3](#phase-mn-o-hcp-a3); _phase:mn-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -86,10 +86,11 @@ _cited as the source of values for this phase_
 - Id: `phase:mn-o:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1411.01–1518.46 K, x(O) 0–0
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-o:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:mn-o:bcc-a2  
+Names (4): _corpus: _corpus:phase:mn-o:bcc-a2  
+_paper: _paper:10.1007/s11669-003-0004-6:δ-Mn  
 _tdb: _tdb:MnO-03Gru-LB.tdb:BCC_A2, tdb:MnO-10Kje.tdb:BCC_A2  
 
 
@@ -112,7 +113,7 @@ _tdb: _tdb:MnO-03Gru-LB.tdb:BCC_A2, tdb:MnO-10Kje.tdb:BCC_A2
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-003-0004-6](https://doi.org/10.1007/s11669-003-0004-6) A. Nicholas Grundy, Bengt Hallstedt, Ludwig J. Gauckler, Assessment of the Mn-O system, JPE 24, 21-39 (2003).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-009-9643-6](https://doi.org/10.1007/s11669-009-9643-6) Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Mn-O System, J. Phase Equilib. Diffus. 31, 113-134 (2010).  
 _assessment that models this phase_
 
@@ -161,10 +162,11 @@ _cited as the source of values for this phase_
 - Structure: beta-Mn · A13 · cP20 · P4_132 (213); type `st:a13-beta-mn-cp20`; tier A: standard phase name; confidence high
 - Stoichiometry: Mn 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 980–1359.99 K, x(O) 0–0
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-o:cub-a13)
 
-Names (3): _corpus: _corpus:phase:mn-o:cub-a13  
+Names (5): _corpus: _corpus:phase:mn-o:cub-a13  
+_paper: _paper:10.1007/s11669-003-0004-6:β-, γ-, δ-Mn, paper:10.1007/s11669-003-0004-6:β-Mn  
 _tdb: _tdb:MnO-03Gru-LB.tdb:CUB_A13, tdb:MnO-10Kje.tdb:CUB_A13  
 
 
@@ -184,12 +186,14 @@ _tdb: _tdb:MnO-03Gru-LB.tdb:CUB_A13, tdb:MnO-10Kje.tdb:CUB_A13
 73: CONST CUB_A13 : MN : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-003-0004-6](https://doi.org/10.1007/s11669-003-0004-6) A. Nicholas Grundy, Bengt Hallstedt, Ludwig J. Gauckler, Assessment of the Mn-O system, JPE 24, 21-39 (2003).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-009-9643-6](https://doi.org/10.1007/s11669-009-9643-6) Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Mn-O System, J. Phase Equilib. Diffus. 31, 113-134 (2010).  
 _assessment that models this phase_
+- [doi:10.1016/0013-4686(67)85035-7](https://doi.org/10.1016/0013-4686%2867%2985035-7) C.B. Alcock, S. Zador, Thermodynamic study of the manganese/ manganous-oxide system by the use of solid oxide electrolytes, Electrochimica Acta 12, 673-677 (1967).  
+_cited as the source of values for this phase_
 
 ## FCC_A1 (Mn–O)
 
@@ -197,10 +201,11 @@ _assessment that models this phase_
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stoichiometry: Mn 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 1359.99–1503.51 K, x(O) 0–0
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-o:fcc-a1)
 
-Names (3): _corpus: _corpus:phase:mn-o:fcc-a1  
+Names (4): _corpus: _corpus:phase:mn-o:fcc-a1  
+_paper: _paper:10.1007/s11669-003-0004-6:γ-Mn  
 _tdb: _tdb:MnO-03Gru-LB.tdb:FCC_A1, tdb:MnO-10Kje.tdb:FCC_A1  
 
 
@@ -223,7 +228,7 @@ _tdb: _tdb:MnO-03Gru-LB.tdb:FCC_A1, tdb:MnO-10Kje.tdb:FCC_A1
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-003-0004-6](https://doi.org/10.1007/s11669-003-0004-6) A. Nicholas Grundy, Bengt Hallstedt, Ludwig J. Gauckler, Assessment of the Mn-O system, JPE 24, 21-39 (2003).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-009-9643-6](https://doi.org/10.1007/s11669-009-9643-6) Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Mn-O System, J. Phase Equilib. Diffus. 31, 113-134 (2010).  
 _assessment that models this phase_
 
@@ -676,8 +681,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -686,7 +691,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -697,7 +702,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

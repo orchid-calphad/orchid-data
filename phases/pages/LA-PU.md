@@ -13,8 +13,8 @@ Table: Phases of the La–Pu system (9)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [TETRAGONAL_A6](#phase-la-pu-a6-tetragonal); _phase:la-pu:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 736.13–760.89 K, x(Pu) 0.99815–1 | 6 | 1 |
-| [BCC_A2](#phase-la-pu-bcc-a2); _phase:la-pu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 753.89–1240.14 K, x(Pu) 0–1 | 6 | 1 |
-| [DHCP](#phase-la-pu-dhcp-a3); _phase:la-pu:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1134.99 K, x(Pu) 0–0 | 0 | 1 |
+| [BCC_A2](#phase-la-pu-bcc-a2); _phase:la-pu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 753.89–1240.14 K, x(Pu) 0–1 | 14 | 1 |
+| [DHCP](#phase-la-pu-dhcp-a3); _phase:la-pu:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1134.99 K, x(Pu) 0–0 | 1 | 1 |
 | [FCC_A1](#phase-la-pu-fcc-a1); _phase:la-pu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 472.48–1134.99 K, x(Pu) 0–1 | 19 | 1 |
 | [HCP_A3](#phase-la-pu-hcp-a3); _phase:la-pu:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-la-pu-liquid); _phase:la-pu:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 912.12–4000 K, x(Pu) 0–1 | 11 | 1 |
@@ -54,11 +54,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:la-pu:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 753.89–1240.14 K, x(Pu) 0–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pu:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:la-pu:bcc-a2  
-_paper: _paper:10.1016/j.jnucmat.2014.07.001:(εPu)  
+Names (4): _corpus: _corpus:phase:la-pu:bcc-a2  
+_paper: _paper:10.1016/j.jnucmat.2014.07.001:(γLa), paper:10.1016/j.jnucmat.2014.07.001:(εPu)  
 _tdb: _tdb:LaPu-14Liu.tdb:BCC_A2  
 
 
@@ -82,10 +82,11 @@ _assessment that models this phase; reports values for this phase_
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: La 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1134.99 K, x(Pu) 0–0
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pu:dhcp-a3)
 
-Names (3): _corpus: _corpus:phase:la-pu:dhcp-a3, corpus:phase:la-pu:dhcp  
+Names (4): _corpus: _corpus:phase:la-pu:dhcp-a3, corpus:phase:la-pu:dhcp  
+_paper: _paper:10.1016/j.jnucmat.2014.07.001:(αLa)  
 _tdb: _tdb:LaPu-14Liu.tdb:DHCP  
 
 
@@ -101,7 +102,7 @@ _tdb: _tdb:LaPu-14Liu.tdb:DHCP
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2014.07.001](https://doi.org/10.1016/j.jnucmat.2014.07.001) X.J. Liu, Q. He, D. Wang, Y. Lu, M.H. Chen, J.P. Jia et al., Thermodynamic assessments of the Pu–Zn and La–Pu systems, Journal of Nuclear Materials 453, 169-175 (2014).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## FCC_A1 (La–Pu)
 
@@ -277,8 +278,8 @@ _assessment that models this phase; reports values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -287,7 +288,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -298,7 +299,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

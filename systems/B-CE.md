@@ -122,9 +122,9 @@ Table: Enthalpies of formation, B–Ce system (21)
 | CeB4 |  | -60.385 kJ/mol-atom |  | DFT |  |  | [3] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 4; `ORC-GFLVH44A2I` |  |
 | CeB4 | [CeB4](https://data.orchid-project.org/compounds/CeB4.html) | -56.288 kJ/mol-atom |  | model | -60.568 (mp-aaaaacxy) | -50.107 (oqmd-4683) | [3] Li 2020 | Table 2, p. 25, row 6; `ORC-V4BX7JUTBC` |  |
 | CeB4 | [CeB4](https://data.orchid-project.org/compounds/CeB4.html) | -53.62 kJ/mol-atom |  | model | -60.568 (mp-aaaaacxy) | -50.107 (oqmd-4683) | [3] Li 2020; _cites ref. 21_ | Table 2, p. 25, row 1; `ORC-34KIRCKO2K` |  |
-| CeB4 |  | -53.5 kJ/mol-atom ± 1.5 |  | DFT |  |  | [3] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 3; `ORC-SQH32E73M5` |  |
+| CeB4 | [CeB4](https://data.orchid-project.org/compounds/CeB4.html) | -53.5 kJ/mol-atom ± 1.5 |  | experimental | -60.568 (mp-aaaaacxy) | -50.107 (oqmd-4683) | [3] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 3; `ORC-SQH32E73M5` |  |
 | CeB4 | [CeB4](https://data.orchid-project.org/compounds/CeB4.html) | -51.339 kJ/mol-atom |  | model | -60.568 (mp-aaaaacxy) | -50.107 (oqmd-4683) | [3] Li 2020; _cites ref. 22_ | Table 2, p. 25, row 2; `ORC-3GHGTQWAYY` |  |
-| CeB4 | [CeB4](https://data.orchid-project.org/compounds/CeB4.html) | -49.904 kJ/mol-atom | 298.15 | experimental | -60.568 (mp-aaaaacxy) | -50.107 (oqmd-4683) | [3] Li 2020; _cites ref. 32_ | Table 2, p. 25, row 5; `ORC-XGTVCVN6TQ` |  |
+| CeB4 |  | -49.904 kJ/mol-atom | 298.15 | DFT |  |  | [3] Li 2020; _cites ref. 32_ | Table 2, p. 25, row 5; `ORC-XGTVCVN6TQ` |  |
 | CeB6 | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -50.541 kJ/mol-atom |  | model | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [3] Li 2020; _cites ref. 21_ | Table 2, p. 25, row 7; `ORC-IUGO57O337` |  |
 | CeB6 |  | -49.712 kJ/mol-atom |  | DFT |  |  | [3] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 11; `ORC-UI2EPQXZ4K` |  |
 | CeB6 | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -48.531 kJ/mol-atom |  | model | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [3] Li 2020 | Table 2, p. 25, row 13; `ORC-LKEGXLTLTZ` |  |
@@ -204,9 +204,9 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -215,7 +215,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -226,7 +226,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -236,7 +236,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

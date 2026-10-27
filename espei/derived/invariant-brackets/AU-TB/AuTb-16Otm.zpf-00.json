@@ -20,6 +20,7 @@
  "conditions": {
   "P": 101325,
   "T": [
+   1175.0,
    1131.0,
    1635.0,
    1591.0,
@@ -35,6 +36,35 @@
  },
  "output": "ZPF",
  "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "TB"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.79
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TB"
+    ],
+    [
+     0.81
+    ]
+   ]
+  ],
   [
    [
     "HCP_A3",
@@ -444,6 +474,25 @@
   "points": [
    {
     "source_observation": "ORC-5XML6LOHUZ",
+    "side": "above",
+    "T_invariant_K": 1153,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+    "x0": 0.8,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> (αTb) + Tb2Au",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "HCP_A3",
+     "AUTB2_C37"
+    ]
+   },
+   {
+    "source_observation": "ORC-5XML6LOHUZ",
     "side": "below",
     "T_invariant_K": 1153,
     "offset_K": 22.0,
@@ -664,6 +713,22 @@
  "orchid_uncertainty_budget": {
   "sigma_rule": "derived point: placed offset_K = max(2u, 10 K) beyond the invariant, u = the invariant temperature's sigma_effective; the constraint holds while the invariant's error is below offset_K (no sigma of its own)",
   "points": [
+   {
+    "source_observation": "ORC-5XML6LOHUZ",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 11.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 22.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
    {
     "source_observation": "ORC-5XML6LOHUZ",
     "temperature_K": {

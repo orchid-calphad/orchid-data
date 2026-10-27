@@ -17,10 +17,10 @@ neither raw measurements nor model values, and they are kept separable at fittin
 | points | 23,129 (centroid 21,616, pole of inaccessibility 1,513) |
 | points by number of phases | 1-phase 4,639, 2-phase 18,490 |
 | two-phase points with / without a tie_line block | 11,961 / 6,529 |
-| SGTE cross-check (point x assessment) | 30,769 comparisons: 21,491 comparable (17,874 agree, 3,617 disagree; agreement 0.8317 of comparable), 9,278 not comparable (counted separately, reasons in `sgte_not_comparable.csv`) |
-| SGTE cross-check (points) | 9,436 points with a comparable assessment; 8,331 (0.8829) agree with at least one SGTE assessment; median system agreement 0.8889 (889 systems with >= 5 comparable comparisons) |
+| SGTE cross-check (point x assessment) | 30,769 comparisons: 21,488 comparable (17,876 agree, 3,612 disagree; agreement 0.8319 of comparable), 9,281 not comparable (counted separately, reasons in `sgte_not_comparable.csv`) |
+| SGTE cross-check (points) | 9,425 points with a comparable assessment; 8,333 (0.8841) agree with at least one SGTE assessment; median system agreement 0.8889 (889 systems with >= 5 comparable comparisons) |
 | boundary basis (lines bounding the point's field along its isotherm and isopleth) | printed_solid 20,782, mixed 1,292, dashed_estimated 1,028, none 27 |
-| ESPEI datasets (one per diagram) | 1,068 default, 1,068 with tie-lines; 9,890 points exported, 13,239 excluded (phase without TDB name) |
+| ESPEI datasets (one per diagram) | 1,068 default, 1,068 with tie-lines; 9,877 points exported, 13,252 excluded (phase without TDB name) |
 
 Points by basis:
 
@@ -117,9 +117,9 @@ Traced boundary geometry, reader/adjudicator reasons and review pages are not pa
 Cite this dataset, the umbrella ORCHID data record, and, for every diagram you use, its **original evaluation**
 (`citations[role=original_evaluation]`, DOI where matched) followed by the Okamoto handbook as the compilation.
 
-R. Arróyave, J. Saal, D. Shin, ORCHID assessed phase assemblages (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
+R. Arróyave, J. Saal, D. Shin, ORCHID-Assemblages: assessed phase assemblages of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
 
-Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 
 ## Dense field grid (derived points of the assessed-diagram class)

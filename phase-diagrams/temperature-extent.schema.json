@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ORCHID optional temperature-extent metadata extension",
+  "description": "Requested calculation range in kelvin, not a guarantee that numerical continuation stayed within these bounds. Existing phase_diagram_index T_min_K and T_max_K continue to represent T_range. Actual boundary extrema are provided in JSON temperature_extent.boundary_K.",
+  "type": "object",
+  "properties": {
+    "temperature_extent": {
+      "type": "object",
+      "required": [
+        "requested_K",
+        "boundary_K",
+        "outside_requested_range",
+        "derivation",
+        "interpretation"
+      ],
+      "properties": {
+        "requested_K": {
+          "type": "array",
+          "items": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          },
+          "minItems": 2,
+          "maxItems": 2
+        },
+        "boundary_K": {
+          "type": "array",
+          "items": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          },
+          "minItems": 2,
+          "maxItems": 2
+        },
+        "outside_requested_range": {
+          "type": "boolean"
+        },
+        "derivation": {
+          "type": "string"
+        },
+        "interpretation": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": true
+}

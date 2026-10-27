@@ -1,10 +1,10 @@
 # B–Fe–Pr system
 
-> B–Fe–Pr system: 61 accepted literature values (invariant reaction 31, phase transition 30) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Fe–Pr system: 58 accepted literature values (invariant reaction 31, phase transition 27) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-FE-PR.html · Markdown: https://data.orchid-project.org/systems/B-FE-PR.md
 
-61 accepted literature values from 1 paper(s) (experimental 33, model 18, unspecified 10); 0 calculated phase diagram(s).
+58 accepted literature values from 1 paper(s) (experimental 30, model 18, unspecified 10); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-FE-PR.json) · [CSV](https://data.orchid-project.org/systems/B-FE-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-FE-PR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-FE-PR.html) · [Markdown](https://data.orchid-project.org/systems/B-FE-PR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 33 |
+| experimental | 30 |
 | model | 18 |
 | unspecified | 10 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 31 |
-| phase transition | 30 |
+| phase transition | 27 |
 
 ## Invariant reactions (literature)
 
@@ -63,7 +63,7 @@ Table: Invariant reactions reported in the literature for the B–Fe–Pr system
 
 ## Other properties
 
-### Phase transition (30)
+### Phase transition (27)
 
 Table: Phase transition, B–Fe–Pr system
 
@@ -74,17 +74,14 @@ Table: Phase transition, B–Fe–Pr system
 | Phase transition | 952 K | 952 | liq. + Pr1.1Fe4B4 → Pr2Fe14B + dhcp(Pr); _alloy: B 0.081, Fe 0.766, Pr 0.153_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 29; `ORC-WHM77T77LS` |  |
 | Phase transition | 959 K | 959 | liq. + Pr1.1Fe4B4 → Pr2Fe14B + dhcp(Pr); _alloy: B 0.107, Fe 0.478, Pr 0.415_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 25; `ORC-T2KW6U6NNG` |  |
 | Phase transition | 960 K | 960 | liq. + Pr1.1Fe4B4 → Pr2Fe14B + dhcp(Pr); _alloy: B 0.07, Fe 0.586, Pr 0.344_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 22; `ORC-HVUQO2VDQO` |  |
-| Phase transition | 1290 K | 1290 | liq. → Pr1.1Fe4B4 + Pr2Fe14B; _alloy: B 0.107, Fe 0.478, Pr 0.415_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 24; `ORC-YXGDGQO5VU` |  |
 | Phase transition | 1301 K | 1301 | liq. → Pr2Fe14B + Pr1.1Fe4B4; _alloy: B 0.07, Fe 0.586, Pr 0.344_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 21; `ORC-M7J5RRTB4W` |  |
 | Phase transition | 1338 K | 1338 | liq. → Pr1.1Fe4B4; _alloy: B 0.107, Fe 0.478, Pr 0.415_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 23; `ORC-F5DDAEH27E` |  |
 | Phase transition | 1357 K | 1357 | liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4; _alloy: B 0.2, Fe 0.754, Pr 0.046_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 15; `ORC-VQ24SNQJOR` |  |
 | Phase transition | 1359 K | 1359 | liq. → fcc(Fe) + Pr2Fe14B + Pr1.1Fe4B4; _alloy: B 0.103, Fe 0.8, Pr 0.097_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 5; `ORC-OW375LTREI` |  |
-| Phase transition | 1365 K | 1365 | liq. → Pr2Fe14B; _alloy: B 0.07, Fe 0.586, Pr 0.344_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 20; `ORC-FVZCFLCWTN` |  |
 | Phase transition | 1367 K | 1367 | liq. → Pr2Fe14B + Pr1.1Fe4B4; _alloy: B 0.2, Fe 0.657, Pr 0.143_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 10; `ORC-4BGRY6K5AK` |  |
 | Phase transition | 1367 K | 1367 | liq. → Pr2Fe14B + Pr1.1Fe4B4; _alloy: B 0.121, Fe 0.747, Pr 0.132_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 7; `ORC-HNOD57TCJ3` |  |
 | Phase transition | 1368 K | 1368 | liq. + fcc(Fe) → Pr2Fe14B + Pr2Fe17; _alloy: B 0.03, Fe 0.73, Pr 0.24_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 18; `ORC-L3MP76ULRI` |  |
 | Phase transition | 1368 K | 1368 | liq. → Pr2Fe14B + Pr1.1Fe4B4; _alloy: B 0.081, Fe 0.766, Pr 0.153_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 28; `ORC-FZ3W6X6ZTL` |  |
-| Phase transition | 1369 K | 1369 | liq. + Fe2B → fcc(Fe) + Pr1.1Fe4B4; _alloy: B 0.2, Fe 0.754, Pr 0.046_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 14; `ORC-JXCWNSVK63` |  |
 | Phase transition | 1369 K | 1369 | liq. → Pr2Fe14B + Pr1.1Fe4B4; _alloy: B 0.07, Fe 0.787, Pr 0.143_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 32; `ORC-N7BULWK34L` |  |
 | Phase transition | 1387 K | 1387 | liq. + fcc(Fe) → Pr2Fe14B; _alloy: B 0.03, Fe 0.73, Pr 0.24_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 17; `ORC-5GIDU7SV3W` |  |
 | Phase transition | 1400 K | 1400 | liq. + fcc(Fe) → Pr2Fe14B; _alloy: B 0.103, Fe 0.8, Pr 0.097_ | experimental | [1] Chen 2020 | Table 2, p. 3, row 3; `ORC-B5CT5PMUD3` |  |
@@ -108,8 +105,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -118,7 +115,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -129,7 +126,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -1,10 +1,10 @@
 # Nb–Ni–Ti system
 
-> Nb–Ni–Ti system: 52 accepted literature values (invariant reaction 30, phase transition 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Ni–Ti system: 30 accepted literature values (invariant reaction 30) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-NI-TI.html · Markdown: https://data.orchid-project.org/systems/NB-NI-TI.md
 
-52 accepted literature values from 2 paper(s) (experimental 22, model 30); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+30 accepted literature values from 2 paper(s) (model 30); 0 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-NI-TI.json) · [CSV](https://data.orchid-project.org/systems/NB-NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-NI-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-NI-TI.html) · [Markdown](https://data.orchid-project.org/systems/NB-NI-TI.md)
 
@@ -12,7 +12,6 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
 | model | 30 |
 
 Table: Accepted values by property group
@@ -20,7 +19,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 30 |
-| phase transition | 22 |
 
 ## Invariant reactions (literature)
 
@@ -59,37 +57,6 @@ Table: Invariant reactions reported in the literature for the Nb–Ni–Ti syste
 | 1187.25 | quasi-peritectic: L+Nb8Ni9Ti3 -> α+NiTi | L: Ni 0.3802, Ti 0.4434 | model | [2] Matsumoto 2005 | Table 4, p. 10, row 7; `ORC-N6WCILWFH2` |  |
 | 1174.75 | eutectic: L -> α+NiTi+NiTi2 | L: Ni 0.3425, Ti 0.5505 | model | [2] Matsumoto 2005 | Table 4, p. 10, row 1; `ORC-Y5UPB4QUKL` |  |
 
-## Other properties
-
-### Phase transition (22)
-
-Table: Phase transition, Nb–Ni–Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1230.65 K | 1230.65 | 28Ni series; _alloy: Nb 0.181, Ni 0.277, Ti 0.542_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 17; `ORC-2WPKTQSATM` |  |
-| Phase transition | 1232.35 K | 1232.35 | 28Ni series; _alloy: Nb 0.125, Ni 0.242, Ti 0.633_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 19; `ORC-REBIGUEJR2` |  |
-| Phase transition | 1234.85 K | 1234.85 | 28Ni series; _alloy: Nb 0.072, Ni 0.279, Ti 0.649_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 21; `ORC-KIK7VCJZUH` |  |
-| Phase transition | 1234.95 K | 1234.95 | 28Ni series; _alloy: Nb 0.24, Ni 0.268, Ti 0.492_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 15; `ORC-AMGTKGQI5D` |  |
-| Phase transition | 1338.05 K | 1338.05 | 28Ni series; _alloy: Nb 0.072, Ni 0.279, Ti 0.649_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 22; `ORC-GL7AYKFIKN` |  |
-| Phase transition | 1351.95 K | 1351.95 | 60Ni series; _alloy: Nb 0.22, Ni 0.595, Ti 0.185_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 7; `ORC-C6ERG2ODWF` |  |
-| Phase transition | 1363.25 K | 1363.25 | 60Ni series; _alloy: Nb 0.075, Ni 0.612, Ti 0.313_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 13; `ORC-ARUEKXINFO` |  |
-| Phase transition | 1377.95 K | 1377.95 | 60Ni series; _alloy: Nb 0.258, Ni 0.596, Ti 0.146_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 5; `ORC-LZSQNLAQIM` |  |
-| Phase transition | 1390.85 K | 1390.85 | 60Ni series; _alloy: Nb 0.133, Ni 0.607, Ti 0.26_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 11; `ORC-DROHQZTYSK` |  |
-| Phase transition | 1402.85 K | 1402.85 | 60Ni series; _alloy: Nb 0.314, Ni 0.588, Ti 0.098_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 3; `ORC-YZZRKSWM6W` |  |
-| Phase transition | 1421.15 K | 1421.15 | 28Ni series; _alloy: Nb 0.125, Ni 0.242, Ti 0.633_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 20; `ORC-5ZE4EYSE5J` |  |
-| Phase transition | 1430.35 K | 1430.35 | 60Ni series; _alloy: Nb 0.178, Ni 0.596, Ti 0.226_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 9; `ORC-HTKUZ3QYRO` |  |
-| Phase transition | 1434.35 K | 1434.35 | 60Ni series; _alloy: Nb 0.357, Ni 0.587, Ti 0.056_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 1; `ORC-U26O7NHAF4` |  |
-| Phase transition | 1482.95 K | 1482.95 | 28Ni series; _alloy: Nb 0.181, Ni 0.277, Ti 0.542_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 18; `ORC-HQS6X76R55` |  |
-| Phase transition | 1540.35 K | 1540.35 | 60Ni series; _alloy: Nb 0.075, Ni 0.612, Ti 0.313_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 14; `ORC-HIU7B34UFT` |  |
-| Phase transition | 1547.55 K | 1547.55 | 60Ni series; _alloy: Nb 0.133, Ni 0.607, Ti 0.26_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 12; `ORC-FAD4CF24NR` |  |
-| Phase transition | 1554.15 K | 1554.15 | 28Ni series; _alloy: Nb 0.24, Ni 0.268, Ti 0.492_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 16; `ORC-XDWW6YFZ46` |  |
-| Phase transition | 1588.95 K | 1588.95 | 60Ni series; _alloy: Nb 0.178, Ni 0.596, Ti 0.226_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 10; `ORC-FEHNJUNMFN` |  |
-| Phase transition | 1593.35 K | 1593.35 | 60Ni series; _alloy: Nb 0.357, Ni 0.587, Ti 0.056_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 2; `ORC-AQMJOP6AAS` |  |
-| Phase transition | 1606.55 K | 1606.55 | 60Ni series; _alloy: Nb 0.22, Ni 0.595, Ti 0.185_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 8; `ORC-BX4ZAK6GVR` |  |
-| Phase transition | 1623.85 K | 1623.85 | 60Ni series; _alloy: Nb 0.258, Ni 0.596, Ti 0.146_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 6; `ORC-HTGHMD7PR7` |  |
-| Phase transition | 1638.65 K | 1638.65 | 60Ni series; _alloy: Nb 0.314, Ni 0.588, Ti 0.098_ | experimental | [2] Matsumoto 2005 | Table 1, p. 2, row 4; `ORC-GZQBA7IRAM` |  |
-
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -99,8 +66,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -109,7 +76,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -120,7 +87,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

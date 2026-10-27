@@ -1,10 +1,10 @@
 # Gd–Mn system
 
-> Gd–Mn system: 53 accepted literature values (invariant reaction 27, phase transition 17, phase equilibrium 6, formation 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Mn system: 41 accepted literature values (invariant reaction 27, phase equilibrium 6, phase transition 5, formation 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-MN.html · Markdown: https://data.orchid-project.org/systems/GD-MN.md
 
-53 accepted literature values from 2 paper(s) (experimental 28, model 16, unspecified 9); 2 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+41 accepted literature values from 2 paper(s) (experimental 16, model 16, unspecified 9); 2 calculated phase diagram(s). 31 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MN.json) · [CSV](https://data.orchid-project.org/systems/GD-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-MN/GdMn-01Gro-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GD-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MN.html) · [Markdown](https://data.orchid-project.org/systems/GD-MN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
+| experimental | 16 |
 | model | 16 |
 | unspecified | 9 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 27 |
-| phase transition | 17 |
+| phase transition | 5 |
 | phase equilibrium | 6 |
 | formation | 3 |
 
@@ -118,25 +118,13 @@ Table: Enthalpies of formation, Gd–Mn system (3)
 
 ## Other properties
 
-### Phase transition (17)
+### Phase transition (5)
 
 Table: Phase transition, Gd–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 105 K | 105 | magnetic | experimental | [1] Wang 2017; _cites Marcos 2004_ [doi](https://doi.org/10.1016/j.jmmm.2003.11.225) | p. 2; `ORC-YARBTHY2TQ` | “The magnetic transformation temperature of Mn2Gd was reported to be 105 K \[24\].” |
-| Phase transition | 1089.5 K | 1089.5 | Mn45Gd55; _alloy: Gd 0.55, Mn 0.45_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 6; `ORC-IUJY7P2POI` |  |
-| Phase transition | 1091.41 K | 1091.41 | Mn50Gd50; _alloy: Gd 0.5, Mn 0.5_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 7; `ORC-VMOTJDU5H4` |  |
-| Phase transition | 1092.84 K | 1092.84 | Mn10Gd90; _alloy: Gd 0.9, Mn 0.1_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 1; `ORC-GOUN3YRETX` |  |
-| Phase transition | 1093.33 K | 1093.33 | Mn30Gd70; _alloy: Gd 0.7, Mn 0.3_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 4; `ORC-HNE6SUV7P7` |  |
-| Phase transition | 1093.5 K | 1093.5 | Mn20Gd80; _alloy: Gd 0.8, Mn 0.2_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 3; `ORC-IMUHUSBMSI` |  |
-| Phase transition | 1094.34 K | 1094.34 | Mn15Gd85; _alloy: Gd 0.85, Mn 0.15_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 2; `ORC-RSDUSV3YG2` |  |
-| Phase transition | 1095.62 K | 1095.62 | Mn55Gd45; _alloy: Gd 0.45, Mn 0.55_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 9; `ORC-RSYAH3MQFK` |  |
-| Phase transition | 1096.17 K | 1096.17 | Mn40Gd60; _alloy: Gd 0.6, Mn 0.4_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 5; `ORC-72U6KPEOYA` |  |
-| Phase transition | 1099.27 K | 1099.27 | Mn60Gd40; _alloy: Gd 0.4, Mn 0.6_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 11; `ORC-QIOCALVTFX` |  |
-| Phase transition | 1109.59 K | 1109.59 | Mn65Gd35; _alloy: Gd 0.35, Mn 0.65_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 13; `ORC-WZIJK7IAUI` |  |
-| Phase transition | 1271.41 K | 1271.41 | Mn65Gd35; _alloy: Gd 0.35, Mn 0.65_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 14; `ORC-WR53RXAXCV` |  |
-| Phase transition | 1278.53 K | 1278.53 | Mn75Gd25; _alloy: Gd 0.25, Mn 0.75_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 17; `ORC-K5XJIWMGH5` |  |
 | Phase transition | 1283.95 K | 1283.95 | peritectic: Mn70Gd30 (as-cast); _alloy: Gd 0.3, Mn 0.7_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 15; `ORC-E6WWJEUQBT` |  |
 | Phase transition | 1313.1 K | 1313.1 | eutectic: Mn80Gd20; _alloy: Gd 0.2, Mn 0.8_ | experimental | [1] Wang 2017 | Table 1, p. 3, row 19; `ORC-3ITAORPHQQ` |  |
 | Phase transition | 1329 K | 1329 | congruent melting: L ↔ Mn23Gd6; _L: Mn 0.793103; Mn23Gd6: Mn 0.793103_ | model | [1] Wang 2017; _cites Kim 2013_ [doi](https://doi.org/10.1179/1879139513y.0000000079) | Table 3, p. 6, row 26; `ORC-4UARWSST4X` |  |
@@ -164,10 +152,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -176,7 +164,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -187,7 +175,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -197,7 +185,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -207,7 +195,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

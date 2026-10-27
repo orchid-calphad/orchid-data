@@ -31,6 +31,7 @@ from `values` and the matching `conditions` entries.
 | `orchid.observations[]` | per value, in order: `id` (ORCHID literature id), `reader_agreement` (`multi_reader`, `single_reader`, `single_reader_text_layer`; absent when not classified), `paper`, `measured_in`, `caveats` |
 | `orchid.papers`, `orchid.dois` | paper ids (`literature/papers.json`) and DOIs involved: source, containing paper, printed cited works |
 | `orchid.source_dataset`, `orchid.values_dropped`, `orchid.espei_evaluation` | corpus file; values removed by the gate; invariant ZPF driving forces against the assessment |
+| `orchid.mapping[].also_read_as`, `orchid.mapping[].evidence_identity` | source-verified duplicate IDs retained with the canonical fitting observation; decisions in `DFT_EVIDENCE_IDENTITIES.json` |
 | `orchid.dft_source`, `orchid.tdb`, `orchid.registry_phase`, `orchid.mapping[]` | DFT: source; TDB file (name, path, SHA-256, phase); phase-registry id; per value: id (MP / OQMD entry or ORCHID id), compound, mapping basis, space group, match quality |
 | `orchid_value_bases` | ZPF from ranges / central values: how a temperature was derived, keyed by ORCHID id |
 | `orchid_model_evidence` | model datasets: `tdb` (name, path, SHA-256, catalog entry), `link_basis`, `model_citation`, `model_reproduction` |
@@ -39,13 +40,23 @@ from `values` and the matching `conditions` entries.
 | `orchid_certification` | literature datasets: `basis` (`pycalphad_invariant_agreement`), `all_values_certified`, `n_certified`, `values[]` {id, espei_certified, calphad_check}; tag `calphad_certified` when all values are certified |
 | `orchid_reference_state` | activities (E5): `element`, `phase` written, `basis` (`printed` / `not_printed_implied`), `quote`, `where`, `record_reference_state_agrees`, `written_before_audit` |
 | `orchid_weight_floor` | thermochemical data (E6, **superseded** 2026-10-24): `superseded` (text), `suggested_weight` (the former opt-in suggestion), `weight_before_2026_10_24`, `weight_written` (from sigma_effective), `sigma_floor` (+ unit), `rule` |
+| `orchid_weighting` | split datasets: `rule`, `parent_dataset`, `parent_value_index`, `parent_n_values`, `parent_weight`, `parent_values_dropped`, `source_dataset`, `measured_in`, `correlation_status`, `correlation_note`. Source linkage does not imply independence; covariance is not quantified. `UNCERTAINTY_SPLITS.json` gives the complete parent-to-child mapping. |
 | `orchid_uncertainty_budget` | phase-constraint datasets (assessed/, derived/): per point, the temperature and composition budget (components as in `orchid_uncertainty.values[].budget`) |
 | `orchid_zpf_encoding` | ZPF (E2): number of line-compound vertices written with composition null, hyperplanes added, rule |
 | `orchid.observations[i].also_reported_as` | E3: the same ZPF region from other datasets (`id`, `paper`, `measured_in`, `dataset`) |
 | `orchid.observations[i].also_read_as` | E4: ids of the same printed row read again (not written as separate values) |
+| `orchid.observations[i].evidence_identity` | canonical identity and alternate unit representations of one observation; unresolved experimental conditions remain excluded from fitting. Source decisions: `MGPB_EVIDENCE_REVIEW.json` |
 | `orchid.points` (derived brackets) | per point: `source_observation`, `side` (above/below), `T_invariant_K`, `offset_K`, `T_sigma_K`, `T_sigma_basis`, `x0`, `hyperplane_delta`, `reaction_printed`, `reaction_type`, `phases_above`, `phases_below` |
 | `orchid.basis` (liquid stability) | `T_liq_max_K` and the temperatures it was taken from |
 | `orchid.record_ids`, `orchid.confidence` (assessed) | assessed-phase-assemblages record id and confidence per point; `target_tdb`, `points_left_out` |
+
+## Target TDB provenance
+
+For a downstream fit, record the target TDB SHA-256 and match it to `phases/tdb_provenance.json`.
+`generation_method` and `tags` distinguish `phaseforge` from `phaseforge_plus`; `potential` records the MLIP name
+and checkpoint digests. Preserve these in the fitting run manifest together with the input-data version and
+weight overrides. These model-provenance tags are not ESPEI evidence tags and must not be passed to `apply_tags`
+as weight rules. An unmatched TDB digest has unknown provenance; never infer it from its filename.
 
 ## Uncertainties (`orchid_uncertainty`)
 

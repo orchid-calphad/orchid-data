@@ -209,10 +209,10 @@ Table: Heat capacity / entropy / enthalpy, Ga–Pb system
 | Heat capacity; _printed: Cp (exp)_ | 31.83 J/mol (basis unstated)/K | 600 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 8; `ORC-OJXYVY3B3M` |  |
 | Heat capacity; _printed: Cp (exp)_ | 32.41 J/mol (basis unstated)/K | 600 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 9; `ORC-YFTRSJ5ZF3` |  |
 | Heat capacity; _printed: Cp (exp)_ | 28.24 J/mol (basis unstated)/K | 600 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 1; `ORC-ZXSS74KIGS` |  |
+| Heat capacity; _printed: Cp (exp)_ | 29.23 J/mol (basis unstated)/K | 605 | L1 + L2; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 11; `ORC-BR4GM6PHH2` |  |
 | Heat capacity; _printed: Cp (exp)_ | 29.34 J/mol (basis unstated)/K | 605 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 12; `ORC-2UUUEFPRIR` |  |
 | Heat capacity; _printed: Cp (exp)_ | 30.83 J/mol (basis unstated)/K | 605 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 15; `ORC-5QBRD65DBB` |  |
 | Heat capacity; _printed: Cp (exp)_ | 31.71 J/mol (basis unstated)/K | 605 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 17; `ORC-64HZFAQBX4` |  |
-| Heat capacity; _printed: Cp (exp)_ | 29.23 J/mol (basis unstated)/K | 605 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 11; `ORC-BR4GM6PHH2` |  |
 | Heat capacity; _printed: Cp (exp)_ | 28.49 J/mol (basis unstated)/K | 605 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 10; `ORC-CGJNC4GSFV` |  |
 | Heat capacity; _printed: Cp (exp)_ | 29.63 J/mol (basis unstated)/K | 605 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 13; `ORC-IBTGWAH2FL` |  |
 | Heat capacity; _printed: Cp (exp)_ | 31.53 J/mol (basis unstated)/K | 605 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 16; `ORC-QCUCYFJYTE` |  |
@@ -335,15 +335,16 @@ Table: Heat capacity / entropy / enthalpy, Ga–Pb system
 | Heat capacity; _printed: Cp (exp)_ | 30.91 J/mol (basis unstated)/K | 670 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 132; `ORC-TOONYFX6UM` |  |
 | Heat capacity; _printed: Cp (exp)_ | 33.37 J/mol (basis unstated)/K | 670 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 135; `ORC-XVC6RBPIJD` |  |
 | Heat capacity; _printed: Cp (exp)_ | 29.19 J/mol (basis unstated)/K | 670 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 127; `ORC-ZFPQJBMYFY` |  |
+| Heat capacity; _printed: Cp (exp)_ | 31.81 J/mol (basis unstated)/K | 675 | L1 + L2; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 142; `ORC-INPJXUWX3U` |  |
 | Heat capacity; _printed: Cp (exp)_ | 32.79 J/mol (basis unstated)/K | 675 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 143; `ORC-2ZDDITDTDY` |  |
 | Heat capacity; _printed: Cp (exp)_ | 30.05 J/mol (basis unstated)/K | 675 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 139; `ORC-5FO6JRSRYU` |  |
 | Heat capacity; _printed: Cp (exp)_ | 30.31 J/mol (basis unstated)/K | 675 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 140; `ORC-C73RBPOR4I` |  |
 | Heat capacity; _printed: Cp (exp)_ | 28.97 J/mol (basis unstated)/K | 675 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 136; `ORC-FVPOJK5GHD` |  |
-| Heat capacity; _printed: Cp (exp)_ | 31.81 J/mol (basis unstated)/K | 675 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 142; `ORC-INPJXUWX3U` |  |
 | Heat capacity; _printed: Cp (exp)_ | 29.49 J/mol (basis unstated)/K | 675 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 137; `ORC-T4DGTTA3CW` |  |
 | Heat capacity; _printed: Cp (exp)_ | 29.43 J/mol (basis unstated)/K | 675 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 138; `ORC-TSMKVLLAKW` |  |
 | Heat capacity; _printed: Cp (exp)_ | 30.87 J/mol (basis unstated)/K | 675 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 141; `ORC-V335SVMCGC` |  |
 | Heat capacity; _printed: Cp (exp)_ | 33.01 J/mol (basis unstated)/K | 675 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 144; `ORC-XHBMOA5EN3` |  |
+| Heat capacity; _printed: Cp (exp)_ | 30.11 J/mol (basis unstated)/K | 680 | L1 + L2; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 148; `ORC-ZPQM5C5LBJ` |  |
 | Heat capacity; _printed: Cp (exp)_ | 31.07 J/mol (basis unstated)/K | 680 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 150; `ORC-DKKC5X6XHE` |  |
 | Heat capacity; _printed: Cp (exp)_ | 31.81 J/mol (basis unstated)/K | 680 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 153; `ORC-GE3PZN2HSM` |  |
 | Heat capacity; _printed: Cp (exp)_ | 29.13 J/mol (basis unstated)/K | 680 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 145; `ORC-JPVCVLCVH6` |  |
@@ -352,7 +353,6 @@ Table: Heat capacity / entropy / enthalpy, Ga–Pb system
 | Heat capacity; _printed: Cp (exp)_ | 29.63 J/mol (basis unstated)/K | 680 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 146; `ORC-S5KAOVHPFE` |  |
 | Heat capacity; _printed: Cp (exp)_ | 32.67 J/mol (basis unstated)/K | 680 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 152; `ORC-V27QNCQOHB` |  |
 | Heat capacity; _printed: Cp (exp)_ | 29.77 J/mol (basis unstated)/K | 680 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 147; `ORC-VKTTMXCHDW` |  |
-| Heat capacity; _printed: Cp (exp)_ | 30.11 J/mol (basis unstated)/K | 680 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 148; `ORC-ZPQM5C5LBJ` |  |
 | Heat capacity; _printed: Cp (exp)_ | 30.23 J/mol (basis unstated)/K | 685 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 162; `ORC-3A3U4GNMGG` |  |
 | Heat capacity; _printed: Cp (exp)_ | 31.99 J/mol (basis unstated)/K | 685 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 160; `ORC-67L7L2OEIU` |  |
 | Heat capacity; _printed: Cp (exp)_ | 29.71 J/mol (basis unstated)/K | 685 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 155; `ORC-6DVGXCLLAE` |  |
@@ -452,9 +452,9 @@ Table: Heat capacity / entropy / enthalpy, Ga–Pb system
 | Heat capacity; _printed: Cp (exp)_ | 33.24 J/mol (basis unstated)/K | 735 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 251; `ORC-RORNAKV3X7` |  |
 | Heat capacity; _printed: Cp (exp)_ | 29.77 J/mol (basis unstated)/K | 735 | liquid; _alloy: Ga 0.8, Pb 0.2_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 245; `ORC-U5GC3SGQ73` |  |
 | Heat capacity; _printed: Cp (exp)_ | 30.11 J/mol (basis unstated)/K | 735 | liquid; _alloy: Ga 0.1, Pb 0.9_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 252; `ORC-US4EPG7HRM` |  |
+| Heat capacity; _printed: Cp (exp)_ | 31.17 J/mol (basis unstated)/K | 740 | L1 + L2; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 258; `ORC-CL7J4QU3DC` |  |
 | Heat capacity; _printed: Cp (exp)_ | 27.27 J/mol (basis unstated)/K | 740 | liquid; _alloy: Ga 0.9, Pb 0.1_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 253; `ORC-2AXHGMMYVC` |  |
 | Heat capacity; _printed: Cp (exp)_ | 33.31 J/mol (basis unstated)/K | 740 | liquid; _alloy: Ga 0.2, Pb 0.8_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 260; `ORC-4RF4K7TIDW` |  |
-| Heat capacity; _printed: Cp (exp)_ | 31.17 J/mol (basis unstated)/K | 740 | liquid; _alloy: Ga 0.4, Pb 0.6_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 258; `ORC-CL7J4QU3DC` |  |
 | Heat capacity; _printed: Cp (exp)_ | 30.45 J/mol (basis unstated)/K | 740 | liquid; _alloy: Ga 0.5, Pb 0.5_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 257; `ORC-D5PC5T67BS` |  |
 | Heat capacity; _printed: Cp (exp)_ | 30.17 J/mol (basis unstated)/K | 740 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 256; `ORC-EWKIJGWHHV` |  |
 | Heat capacity; _printed: Cp (exp)_ | 32.29 J/mol (basis unstated)/K | 740 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996 | Table 3, p. 5, row 259; `ORC-FO7ADTQF33` |  |
@@ -970,10 +970,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -982,7 +982,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -993,7 +993,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1003,7 +1003,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1013,7 +1013,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

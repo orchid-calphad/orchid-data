@@ -1,10 +1,10 @@
 # U–Zr system
 
-> U–Zr system: 73 accepted literature values (invariant reaction 30, phase transition 23, activity / EMF / Gibbs energy 20) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> U–Zr system: 66 accepted literature values (invariant reaction 30, activity / EMF / Gibbs energy 20, phase transition 16) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/U-ZR.html · Markdown: https://data.orchid-project.org/systems/U-ZR.md
 
-73 accepted literature values from 3 paper(s) (experimental 53, model 20); 9 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+66 accepted literature values from 2 paper(s) (experimental 46, model 20); 9 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/U-ZR.json) · [CSV](https://data.orchid-project.org/systems/U-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#U-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#U-ZR/UZr-04Che-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/U-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/U-ZR.html) · [Markdown](https://data.orchid-project.org/systems/U-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 53 |
+| experimental | 46 |
 | model | 20 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 30 |
-| phase transition | 23 |
+| phase transition | 16 |
 | activity / EMF / Gibbs energy | 20 |
 
 ## Calculated phase diagrams
@@ -131,35 +131,28 @@ Table: Invariant reactions reported in the literature for the U–Zr system (30)
 
 ## Other properties
 
-### Phase transition (23)
+### Phase transition (16)
 
 Table: Phase transition, U–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 845 K | 845 | UNKNOWN; _alloy: U 0.7752, Zr 0.2248_ | experimental | [2] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 10, row 1; `ORC-MCZNJ4ISYP` |  |
-| Phase transition | 853 K | 853 | UNKNOWN; _alloy: U 0.9494, Zr 0.0506_ | experimental | [2] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 10, row 2; `ORC-33ITI7ZUBG` |  |
-| Phase transition | 855 K | 855 | UNKNOWN; _alloy: U 0.8793, Zr 0.1207_ | experimental | [2] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 10, row 3; `ORC-BQE64WYDAM` |  |
-| Phase transition | 857 K | 857 | UNKNOWN; _alloy: U 0.95, Zr 0.05_ | experimental | [2] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 10, row 4; `ORC-W2ZV2VJCNK` |  |
-| Phase transition | 879.35 K | 879.35 | δ + bcc_A2; _alloy: U 0.219, Zr 0.781_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 8; `ORC-K7PMZM3WBP` |  |
-| Phase transition | 879.4 K | 879.4 | δ + bcc_A2; _alloy: U 0.204, Zr 0.796_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 9; `ORC-L3FYN2NP55` |  |
-| Phase transition | 880.05 K | 880.05 | δ + bcc_A2; _alloy: U 0.246, Zr 0.754_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 7; `ORC-PGPQA3CGKR` |  |
-| Phase transition | 880.65 K | 880.65 | other: wt% Zr 60 (x(Zr) 0.796), T upper; _alloy: U 0.204, Zr 0.796_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 16; `ORC-IGIMRYHGXQ` |  |
-| Phase transition | 881.2 K | 881.2 | δ + bcc_A2; _alloy: U 0.262, Zr 0.738_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 6; `ORC-W3GA426A3F` |  |
-| Phase transition | 881.35 K | 881.35 | δ + bcc_A2; _alloy: U 0.277, Zr 0.723_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 5; `ORC-46ONGLHA2S` |  |
-| Phase transition | 882.45 K | 882.45 | δ + bcc_A2; _alloy: U 0.293, Zr 0.707_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 4; `ORC-VO5XWS4TDQ` |  |
-| Phase transition | 882.55 K | 882.55 | other: wt% Zr 54 (x(Zr) 0.754), T upper; _alloy: U 0.246, Zr 0.754_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 15; `ORC-XSBB6ZPPHX` |  |
-| Phase transition | 884.25 K | 884.25 | other: wt% Zr 52 (x(Zr) 0.738), T upper; _alloy: U 0.262, Zr 0.738_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 14; `ORC-OGR2U4DC3F` |  |
-| Phase transition | 884.45 K | 884.45 | other: wt% Zr 50 (x(Zr) 0.723), T upper; _alloy: U 0.277, Zr 0.723_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 13; `ORC-C5BJ63K5WM` |  |
-| Phase transition | 884.8 K | 884.8 | δ + bcc_A2; _alloy: U 0.31, Zr 0.69_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 3; `ORC-BX7PZFVST3` |  |
-| Phase transition | 885.95 K | 885.95 | other: wt% Zr 48 (x(Zr) 0.707), T upper; _alloy: U 0.293, Zr 0.707_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 12; `ORC-RDQLUJZIH7` |  |
-| Phase transition | 886.9 K | 886.9 | δ + bcc_A2; _alloy: U 0.328, Zr 0.672_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 2; `ORC-7YCKNSTUKO` |  |
-| Phase transition | 887.6 K | 887.6 | δ + bcc_A2; _alloy: U 0.365, Zr 0.635_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 1; `ORC-Q3S2UBZBFV` |  |
-| Phase transition | 889.15 K | 889.15 | other: wt% Zr 40 (x(Zr) 0.635), T upper; _alloy: U 0.365, Zr 0.635_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 10; `ORC-W2EY5CBPOZ` |  |
-| Phase transition | 890.65 K | 890.65 | other: wt% Zr 44 (x(Zr) 0.672), T upper; _alloy: U 0.328, Zr 0.672_ | experimental | [3] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 11; `ORC-LIC3DJ4KPO` |  |
-| Phase transition | 1049 K | 1049 | UNKNOWN; _alloy: U 0.9974, Zr 0.0026_ | experimental | [2] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 12, row 1; `ORC-FYYQHMGGGR` |  |
-| Phase transition | 1057 K | 1057 | UNKNOWN; _alloy: U 0.9974, Zr 0.0026_ | experimental | [2] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 12, row 3; `ORC-QV5CKZPZ7U` |  |
-| Phase transition | 1057 K | 1057 | UNKNOWN; _alloy: U 1, Zr 0_ | experimental | [2] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 12, row 2; `ORC-TBKX7UA7QG` |  |
+| Phase transition | 879.35 K | 879.35 | δ + bcc_A2; _alloy: U 0.219, Zr 0.781_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 8; `ORC-K7PMZM3WBP` |  |
+| Phase transition | 879.4 K | 879.4 | δ + bcc_A2; _alloy: U 0.204, Zr 0.796_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 9; `ORC-L3FYN2NP55` |  |
+| Phase transition | 880.05 K | 880.05 | δ + bcc_A2; _alloy: U 0.246, Zr 0.754_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 7; `ORC-PGPQA3CGKR` |  |
+| Phase transition | 880.65 K | 880.65 | other: wt% Zr 60 (x(Zr) 0.796), T upper; _alloy: U 0.204, Zr 0.796_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 16; `ORC-IGIMRYHGXQ` |  |
+| Phase transition | 881.2 K | 881.2 | δ + bcc_A2; _alloy: U 0.262, Zr 0.738_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 6; `ORC-W3GA426A3F` |  |
+| Phase transition | 881.35 K | 881.35 | δ + bcc_A2; _alloy: U 0.277, Zr 0.723_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 5; `ORC-46ONGLHA2S` |  |
+| Phase transition | 882.45 K | 882.45 | δ + bcc_A2; _alloy: U 0.293, Zr 0.707_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 4; `ORC-VO5XWS4TDQ` |  |
+| Phase transition | 882.55 K | 882.55 | other: wt% Zr 54 (x(Zr) 0.754), T upper; _alloy: U 0.246, Zr 0.754_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 15; `ORC-XSBB6ZPPHX` |  |
+| Phase transition | 884.25 K | 884.25 | other: wt% Zr 52 (x(Zr) 0.738), T upper; _alloy: U 0.262, Zr 0.738_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 14; `ORC-OGR2U4DC3F` |  |
+| Phase transition | 884.45 K | 884.45 | other: wt% Zr 50 (x(Zr) 0.723), T upper; _alloy: U 0.277, Zr 0.723_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 13; `ORC-C5BJ63K5WM` |  |
+| Phase transition | 884.8 K | 884.8 | δ + bcc_A2; _alloy: U 0.31, Zr 0.69_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 3; `ORC-BX7PZFVST3` |  |
+| Phase transition | 885.95 K | 885.95 | other: wt% Zr 48 (x(Zr) 0.707), T upper; _alloy: U 0.293, Zr 0.707_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 12; `ORC-RDQLUJZIH7` |  |
+| Phase transition | 886.9 K | 886.9 | δ + bcc_A2; _alloy: U 0.328, Zr 0.672_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 2; `ORC-7YCKNSTUKO` |  |
+| Phase transition | 887.6 K | 887.6 | δ + bcc_A2; _alloy: U 0.365, Zr 0.635_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 1; `ORC-Q3S2UBZBFV` |  |
+| Phase transition | 889.15 K | 889.15 | other: wt% Zr 40 (x(Zr) 0.635), T upper; _alloy: U 0.365, Zr 0.635_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 10; `ORC-W2EY5CBPOZ` |  |
+| Phase transition | 890.65 K | 890.65 | other: wt% Zr 44 (x(Zr) 0.672), T upper; _alloy: U 0.328, Zr 0.672_ | experimental | [2] Chevalier 1998; _cites Duey 1958_ | Table 18, p. 18, row 11; `ORC-LIC3DJ4KPO` |  |
 
 ### Activity / EMF / Gibbs energy (20)
 
@@ -167,41 +160,40 @@ Table: Activity / EMF / Gibbs energy, U–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity U; _printed: a_U_ | 0.784 1 | 1773 | UNKNOWN; _alloy: U 0.86, Zr 0.14_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 5; `ORC-7VWGEBBUN3.b6eebb` |  |
-| Activity U; _printed: a_U_ | 0.384 1 | 1773 | UNKNOWN; _alloy: U 0.654, Zr 0.346_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 4; `ORC-BYRX5BKQS7.25cbc8` |  |
-| Activity U; _printed: a_U_ | 0.029 1 | 1773 | UNKNOWN; _alloy: U 0.098, Zr 0.902_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 1; `ORC-LARY6NMZU4.2c471a` |  |
-| Activity U; _printed: a_U_ | 0.221 1 | 1773 | UNKNOWN; _alloy: U 0.285, Zr 0.715_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 2; `ORC-T3X7ZLJDYP.ccc39f` |  |
-| Activity U; _printed: a_U_ | 0.231 1 | 1773 | UNKNOWN; _alloy: U 0.478, Zr 0.522_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 3; `ORC-ZW4NBEE3LZ.75239b` |  |
-| Activity Zr; _printed: a_Zr_ | 0.033 1 | 1773 | UNKNOWN; _alloy: U 0.86, Zr 0.14_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 5; `ORC-7VWGEBBUN3.aa7ba1` |  |
-| Activity Zr; _printed: a_Zr_ | 0.24 1 | 1773 | UNKNOWN; _alloy: U 0.654, Zr 0.346_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 4; `ORC-BYRX5BKQS7.9a2105` |  |
-| Activity Zr; _printed: a_Zr_ | 0.861 1 | 1773 | UNKNOWN; _alloy: U 0.098, Zr 0.902_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 1; `ORC-LARY6NMZU4.7d4b8f` |  |
-| Activity Zr; _printed: a_Zr_ | 0.571 1 | 1773 | UNKNOWN; _alloy: U 0.285, Zr 0.715_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 2; `ORC-T3X7ZLJDYP.eaeb5d` |  |
-| Activity Zr; _printed: a_Zr_ | 0.557 1 | 1773 | UNKNOWN; _alloy: U 0.478, Zr 0.522_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 3; `ORC-ZW4NBEE3LZ.76bf27` |  |
-| Chemical potential; _printed: ΔG_Zr_ | -50287 J/mol | 1773 | UNKNOWN; _alloy: U 0.86, Zr 0.14_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 5; `ORC-7VWGEBBUN3.09c806` |  |
-| Chemical potential; _printed: ΔG_U_ | -3587 J/mol | 1773 | UNKNOWN; _alloy: U 0.86, Zr 0.14_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 5; `ORC-7VWGEBBUN3.0ea4f1` |  |
-| Chemical potential; _printed: ΔG_Zr_ | -21038 J/mol | 1773 | UNKNOWN; _alloy: U 0.654, Zr 0.346_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 4; `ORC-BYRX5BKQS7.5e4e8f` |  |
-| Chemical potential; _printed: ΔG_U_ | -14109 J/mol | 1773 | UNKNOWN; _alloy: U 0.654, Zr 0.346_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 4; `ORC-BYRX5BKQS7.e4baad` |  |
-| Chemical potential; _printed: ΔG_U_ | -52191 J/mol | 1773 | UNKNOWN; _alloy: U 0.098, Zr 0.902_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 1; `ORC-LARY6NMZU4.277680` |  |
-| Chemical potential; _printed: ΔG_Zr_ | -2206 J/mol | 1773 | UNKNOWN; _alloy: U 0.098, Zr 0.902_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 1; `ORC-LARY6NMZU4.89fb46` |  |
-| Chemical potential; _printed: ΔG_U_ | -22254 J/mol | 1773 | UNKNOWN; _alloy: U 0.285, Zr 0.715_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 2; `ORC-T3X7ZLJDYP.5f13ea` |  |
-| Chemical potential; _printed: ΔG_Zr_ | -8261 J/mol | 1773 | UNKNOWN; _alloy: U 0.285, Zr 0.715_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 2; `ORC-T3X7ZLJDYP.7ac168` |  |
-| Chemical potential; _printed: ΔG_U_ | -21601 J/mol | 1773 | UNKNOWN; _alloy: U 0.478, Zr 0.522_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 3; `ORC-ZW4NBEE3LZ.1db536` |  |
-| Chemical potential; _printed: ΔG_Zr_ | -8626 J/mol | 1773 | UNKNOWN; _alloy: U 0.478, Zr 0.522_ | experimental | [3] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 3; `ORC-ZW4NBEE3LZ.828d9f` |  |
+| Activity U; _printed: a_U_ | 0.784 1 | 1773 | UNKNOWN; _alloy: U 0.86, Zr 0.14_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 5; `ORC-7VWGEBBUN3.b6eebb` |  |
+| Activity U; _printed: a_U_ | 0.384 1 | 1773 | UNKNOWN; _alloy: U 0.654, Zr 0.346_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 4; `ORC-BYRX5BKQS7.25cbc8` |  |
+| Activity U; _printed: a_U_ | 0.029 1 | 1773 | UNKNOWN; _alloy: U 0.098, Zr 0.902_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 1; `ORC-LARY6NMZU4.2c471a` |  |
+| Activity U; _printed: a_U_ | 0.221 1 | 1773 | UNKNOWN; _alloy: U 0.285, Zr 0.715_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 2; `ORC-T3X7ZLJDYP.ccc39f` |  |
+| Activity U; _printed: a_U_ | 0.231 1 | 1773 | UNKNOWN; _alloy: U 0.478, Zr 0.522_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 3; `ORC-ZW4NBEE3LZ.75239b` |  |
+| Activity Zr; _printed: a_Zr_ | 0.033 1 | 1773 | UNKNOWN; _alloy: U 0.86, Zr 0.14_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 5; `ORC-7VWGEBBUN3.aa7ba1` |  |
+| Activity Zr; _printed: a_Zr_ | 0.24 1 | 1773 | UNKNOWN; _alloy: U 0.654, Zr 0.346_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 4; `ORC-BYRX5BKQS7.9a2105` |  |
+| Activity Zr; _printed: a_Zr_ | 0.861 1 | 1773 | UNKNOWN; _alloy: U 0.098, Zr 0.902_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 1; `ORC-LARY6NMZU4.7d4b8f` |  |
+| Activity Zr; _printed: a_Zr_ | 0.571 1 | 1773 | UNKNOWN; _alloy: U 0.285, Zr 0.715_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 2; `ORC-T3X7ZLJDYP.eaeb5d` |  |
+| Activity Zr; _printed: a_Zr_ | 0.557 1 | 1773 | UNKNOWN; _alloy: U 0.478, Zr 0.522_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 3; `ORC-ZW4NBEE3LZ.76bf27` |  |
+| Chemical potential; _printed: ΔG_Zr_ | -50287 J/mol | 1773 | UNKNOWN; _alloy: U 0.86, Zr 0.14_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 5; `ORC-7VWGEBBUN3.09c806` |  |
+| Chemical potential; _printed: ΔG_U_ | -3587 J/mol | 1773 | UNKNOWN; _alloy: U 0.86, Zr 0.14_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 5; `ORC-7VWGEBBUN3.0ea4f1` |  |
+| Chemical potential; _printed: ΔG_Zr_ | -21038 J/mol | 1773 | UNKNOWN; _alloy: U 0.654, Zr 0.346_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 4; `ORC-BYRX5BKQS7.5e4e8f` |  |
+| Chemical potential; _printed: ΔG_U_ | -14109 J/mol | 1773 | UNKNOWN; _alloy: U 0.654, Zr 0.346_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 4; `ORC-BYRX5BKQS7.e4baad` |  |
+| Chemical potential; _printed: ΔG_U_ | -52191 J/mol | 1773 | UNKNOWN; _alloy: U 0.098, Zr 0.902_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 1; `ORC-LARY6NMZU4.277680` |  |
+| Chemical potential; _printed: ΔG_Zr_ | -2206 J/mol | 1773 | UNKNOWN; _alloy: U 0.098, Zr 0.902_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 1; `ORC-LARY6NMZU4.89fb46` |  |
+| Chemical potential; _printed: ΔG_U_ | -22254 J/mol | 1773 | UNKNOWN; _alloy: U 0.285, Zr 0.715_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 2; `ORC-T3X7ZLJDYP.5f13ea` |  |
+| Chemical potential; _printed: ΔG_Zr_ | -8261 J/mol | 1773 | UNKNOWN; _alloy: U 0.285, Zr 0.715_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 2; `ORC-T3X7ZLJDYP.7ac168` |  |
+| Chemical potential; _printed: ΔG_U_ | -21601 J/mol | 1773 | UNKNOWN; _alloy: U 0.478, Zr 0.522_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 3; `ORC-ZW4NBEE3LZ.1db536` |  |
+| Chemical potential; _printed: ΔG_Zr_ | -8626 J/mol | 1773 | UNKNOWN; _alloy: U 0.478, Zr 0.522_ | experimental | [2] Chevalier 1998; _cites Kanno 1988_ [doi](https://doi.org/10.1016/0022-3115%2888%2990129-8) | Table 19, p. 18, row 3; `ORC-ZW4NBEE3LZ.828d9f` |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Wei Xiong, Wei Xie, Chao Shen, Dane Morgan, Thermodynamic modeling of the U–Zr system – A revisit, Journal of Nuclear Materials 443, 331-341 (2013). [doi:10.1016/j.jnucmat.2013.07.034](https://doi.org/10.1016/j.jnucmat.2013.07.034)
-2. W.J. Williams, J. Lund, R.E. García, M.A. Okuniewski, A modern reappraisal of the U-Zr phase diagram, Journal of Nuclear Materials 603, 155378 (2025). [doi:10.1016/j.jnucmat.2024.155378](https://doi.org/10.1016/j.jnucmat.2024.155378)
-3. P.Y. Chevalier, E. Fischer, Thermodynamic modelling of the O–U–Zr system, Journal of Nuclear Materials 257, 213-255 (1998). [doi:10.1016/s0022-3115(98)00450-4](https://doi.org/10.1016/s0022-3115%2898%2900450-4)
+2. P.Y. Chevalier, E. Fischer, Thermodynamic modelling of the O–U–Zr system, Journal of Nuclear Materials 257, 213-255 (1998). [doi:10.1016/s0022-3115(98)00450-4](https://doi.org/10.1016/s0022-3115%2898%2900450-4)
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -210,7 +202,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -221,7 +213,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -231,7 +223,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -241,7 +233,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

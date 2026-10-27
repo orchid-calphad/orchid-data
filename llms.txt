@@ -1,9 +1,18 @@
 # ORCHID data
 
-> ORCHID data: 73,542 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,321 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
+> ORCHID data: 73,542 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,321 papers, 2,722 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
 
 Evidence classes are never mixed: experimental | model (CALPHAD, linked to the TDB by SHA-256) | dft | unspecified.
 Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temperatures in K; compositions in mole fraction.
+
+## Agent use: fitting, identity, and evaluation
+- Extraction acceptance is not fitting eligibility. Check flags.espei_ready, flags.espei_certified, gate_failures, and flags.specification_gaps before fitting; MCP summaries expose the corresponding fields directly.
+- A human_review_correction_requires_downstream_revalidation specification gap blocks fitting. Preserve corrections with before/after values, source DOI, page, and adjudicator. AI-assisted source adjudication is not independent human re-review, and corrected records do not replace the frozen review sample used for accuracy estimates.
+- Deduplicate observations using duplicate_of and evidence_identity.canonical_id. Treat alternate-unit representations as one observation; merged_ids and merged_pids retain aliases. These identifiers are not evidence of independent measurements.
+- Use fold_lso for leave-system-out and fold_lpo for leave-paper-out evaluation. Keep duplicate and alternate-unit aliases in the same split, including aliases across papers; a paper split alone does not prove absence of leakage.
+- Keep experimental, model, dft, unspecified, and assessed_phase_diagram evidence separate. Materials Project and OQMD use different energy references. Use uncertainty_budget.sigma_effective with its documented basis.
+- Pin the data commit and record model hashes and the software environment. Cite original sources as well as ORCHID; a Zenodo DOI containing PENDING is not a published identifier.
+- The orchid-mcp package provides tools, resources, and citation guidance. Local use requires ORCHID_DATA_DIR and ORCHID_SITE_DATA_DIR; use fields=full for complete provenance. A working local server does not imply a public HTTP endpoint.
 
 ## Per system (SYS = element symbols, uppercase, sorted alphabetically, joined by '-', e.g. AL-NI)
 - Markdown page: https://data.orchid-project.org/systems/<SYS>.md (summary, calculated diagrams, invariants, formation enthalpies with DFT, other properties, sources)
@@ -23,7 +32,7 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
 - [Field reference](https://data.orchid-project.org/literature/SCHEMA.md)
 - [Assessed phase assemblages](https://data.orchid-project.org/assessed-phase-assemblages/README.md): one (T, x, P) point per named field of expert-drawn binary diagrams, evidence class assessed_phase_diagram (not experimental, not CALPHAD); https://data.orchid-project.org/assessed-phase-assemblages/records.jsonl.gz (also .csv, .parquet), ESPEI ZPF datasets espei-zpf/<DIAGRAM>.json, fields https://data.orchid-project.org/assessed-phase-assemblages/SCHEMA.md
 - [ESPEI datasets from the literature](https://data.orchid-project.org/espei/README.md): ESPEI 0.9.1 JSON per evidence class (experimental/, model/, invariants/, dft/literature, dft/mp, dft/oqmd), every value with its ORCHID observation id, source DOI, uncertainty and weight, plus optional tagged phase constraints (derived/invariant-brackets/, derived/liquid-stability/, assessed/); one row per dataset https://data.orchid-project.org/espei/index.csv; validation https://data.orchid-project.org/espei/VALIDATION.md; uncertainties https://data.orchid-project.org/espei/UNCERTAINTY_SUMMARY.md; DFT sigma calibration https://data.orchid-project.org/espei/dft/CALIBRATION.md
-- [ORCHID bibliography](https://data.orchid-project.org/bibliography/README.md): every paper ORCHID knows (9,569; roles, evidence counts, typed relations). One paper: https://data.orchid-project.org/bibliography/papers/<key>.json (key = "p" + sha256("doi:<lowercase doi>")[:16]; lookup table in bibliography/index.json); one system: https://data.orchid-project.org/bibliography/systems/<SYS>.json (assessments and the data papers they used); tables: bibliography/papers.parquet, bibliography/edges.parquet; field reference: bibliography/SCHEMA.md; dropped DOI matches: bibliography/DOI_MISMATCHES.md
+- [ORCHID bibliography](https://data.orchid-project.org/bibliography/README.md): every paper ORCHID knows (9,570; roles, evidence counts, typed relations). One paper: https://data.orchid-project.org/bibliography/papers/<key>.json (key = "p" + sha256("doi:<lowercase doi>")[:16]; lookup table in bibliography/index.json); one system: https://data.orchid-project.org/bibliography/systems/<SYS>.json (assessments and the data papers they used); tables: bibliography/papers.parquet, bibliography/edges.parquet; field reference: bibliography/SCHEMA.md; dropped DOI matches: bibliography/DOI_MISMATCHES.md
 
 ## Bulk files
 - https://data.orchid-project.org/literature/orchid-literature.jsonl.gz (all records, one JSON object per line)
@@ -33,15 +42,15 @@ Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temper
 ## Licence and citation
 - Status: Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
 - Zenodo release v2026.10 (cite the dataset you use and the umbrella record):
-  - ORCHID data: https://doi.org/10.5281/zenodo.PENDING-orchid-data
-  - ORCHID literature values: https://doi.org/10.5281/zenodo.PENDING-literature
-  - ORCHID calculated binary phase diagrams: https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-  - ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD): https://doi.org/10.5281/zenodo.PENDING-hulls
-  - ORCHID DFT-vs-experiment formation-enthalpy benchmark: https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
-  - ORCHID phase registry (binary systems): https://doi.org/10.5281/zenodo.PENDING-phase-registry
-  - ORCHID assessed phase assemblages (binary systems): https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
-  - ORCHID ESPEI datasets from the literature: https://doi.org/10.5281/zenodo.PENDING-espei
-  - ORCHID bibliography: https://doi.org/10.5281/zenodo.PENDING-bibliography
+  - ORCHID data: umbrella record of the ORCHID datasets: https://doi.org/10.5281/zenodo.PENDING-orchid-data
+  - ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature: https://doi.org/10.5281/zenodo.PENDING-literature
+  - ORCHID-Diagrams: calculated binary phase diagrams: https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+  - ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD): https://doi.org/10.5281/zenodo.PENDING-hulls
+  - ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark: https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+  - ORCHID-Registry: phase registry of binary systems: https://doi.org/10.5281/zenodo.PENDING-phase-registry
+  - ORCHID-Assemblages: assessed phase assemblages of binary systems: https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
+  - ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values: https://doi.org/10.5281/zenodo.PENDING-espei
+  - ORCHID-Bibliography: papers and typed citation relations: https://doi.org/10.5281/zenodo.PENDING-bibliography
 - Every JSON file carries a top-level cite_as object (text, BibTeX, DOI); Parquet files carry orchid.cite_as metadata; literature/CITATION.txt sits beside the CSV.
 - Derived data CC BY 4.0. Cite the ORCHID release (https://data.orchid-project.org/CITATION.cff) and each value's source paper (DOI given per value).
 - Quotes: one short verbatim excerpt per value, kept for verification; publishers' copyright, not relicensed (LICENSES.md). Source papers, page images and full text are not redistributed.

@@ -1,10 +1,10 @@
 # Ni–Tb system
 
-> Ni–Tb system: 306 accepted literature values (invariant reaction 95, phase transition 87, crystal structure 38, formation 35) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Tb system: 234 accepted literature values (invariant reaction 95, crystal structure 38, formation 35, model expression 35) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-TB.html · Markdown: https://data.orchid-project.org/systems/NI-TB.md
 
-306 accepted literature values from 3 paper(s) (experimental 190, model 80, DFT 27, unspecified 9); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+234 accepted literature values from 3 paper(s) (experimental 118, model 80, DFT 27, unspecified 9); 3 calculated phase diagram(s). 76 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TB.json) · [CSV](https://data.orchid-project.org/systems/NI-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TB/NiTb-04Ron.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TB.html) · [Markdown](https://data.orchid-project.org/systems/NI-TB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 190 |
+| experimental | 118 |
 | model | 80 |
 | DFT | 27 |
 | unspecified | 9 |
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 95 |
-| phase transition | 87 |
+| phase transition | 15 |
 | formation | 35 |
 | mixing / partial | 8 |
 | activity / EMF / Gibbs energy | 8 |
@@ -270,99 +270,27 @@ Table: Enthalpies of formation, Ni–Tb system (35)
 
 ## Other properties
 
-### Phase transition (87)
+### Phase transition (15)
 
 Table: Phase transition, Ni–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 990.15 K | 990.15 | UNKNOWN; _alloy: Ni 0.2705, Tb 0.7295_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 77; `ORC-YOLFD4NCJ6` |  |
-| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: Ni 0.3215, Tb 0.6785_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 73; `ORC-6Z5GMNBJAR` |  |
-| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: Ni 0.3021, Tb 0.6979_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 75; `ORC-V4RBVUHTDK` |  |
-| Phase transition | 992.15 K | 992.15 | UNKNOWN; _alloy: Ni 0.4347, Tb 0.5653_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 64; `ORC-QWQKS7JQZO` |  |
-| Phase transition | 997.15 K | 997.15 | UNKNOWN; _alloy: Ni 0.3776, Tb 0.6224_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 69; `ORC-CB3V3YOEOR` |  |
-| Phase transition | 1001.15 K | 1001.15 | UNKNOWN; _alloy: Ni 0.3491, Tb 0.6509_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 71; `ORC-QALHDOXKUJ` |  |
-| Phase transition | 1002.15 K | 1002.15 | UNKNOWN; _alloy: Ni 0.4601, Tb 0.5399_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 62; `ORC-T7XHO3R6X5` |  |
-| Phase transition | 1005.15 K | 1005.15 | UNKNOWN; _alloy: Ni 0.4142, Tb 0.5858_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 66; `ORC-IH6FZSDQDV` |  |
-| Phase transition | 1007.15 K | 1007.15 | UNKNOWN; _alloy: Ni 0.3215, Tb 0.6785_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 72; `ORC-ZGDRQNVPM2` |  |
-| Phase transition | 1010.15 K | 1010.15 | UNKNOWN; _alloy: Ni 0.4001, Tb 0.5999_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 67; `ORC-P4ESCKKJCP` |  |
-| Phase transition | 1012.15 K | 1012.15 | UNKNOWN; _alloy: Ni 0.4793, Tb 0.5207_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 60; `ORC-VZPOTOJI22` |  |
-| Phase transition | 1033.15 K | 1033.15 | UNKNOWN; _alloy: Ni 0.3021, Tb 0.6979_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 74; `ORC-6A6MQL77K2` |  |
-| Phase transition | 1052.15 K | 1052.15 | UNKNOWN; _alloy: Ni 0.2503, Tb 0.7497_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 78; `ORC-DJBXLRZ4PG` |  |
-| Phase transition | 1055.15 K | 1055.15 | UNKNOWN; _alloy: Ni 0.2705, Tb 0.7295_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 76; `ORC-RBCMUFB6QI` |  |
-| Phase transition | 1060.15 K | 1060.15 | UNKNOWN; _alloy: Ni 0.048, Tb 0.952_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 84; `ORC-3HXROS2TAT` |  |
-| Phase transition | 1060.15 K | 1060.15 | UNKNOWN; _alloy: Ni 0.2121, Tb 0.7879_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 80; `ORC-3HXY2FSUYW` |  |
-| Phase transition | 1068.15 K | 1068.15 | UNKNOWN; _alloy: Ni 0.3491, Tb 0.6509_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 70; `ORC-ED5Y63CZZV` |  |
-| Phase transition | 1116.15 K | 1116.15 | UNKNOWN; _alloy: Ni 0.3776, Tb 0.6224_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 68; `ORC-WJYHFJS6UH` |  |
-| Phase transition | 1175.15 K | 1175.15 | UNKNOWN; _alloy: Ni 0.4142, Tb 0.5858_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 65; `ORC-HYUHUISBO7` |  |
-| Phase transition | 1190.15 K | 1190.15 | UNKNOWN; _alloy: Ni 0.5124, Tb 0.4876_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 57; `ORC-66NGAO4JW6` |  |
-| Phase transition | 1191.15 K | 1191.15 | UNKNOWN; _alloy: Ni 0.5996, Tb 0.4004_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 51; `ORC-6NNHHDWRCU` |  |
-| Phase transition | 1191.15 K | 1191.15 | UNKNOWN; _alloy: Ni 0.6242, Tb 0.3758_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 49; `ORC-H2C35FGWAK` |  |
-| Phase transition | 1191.15 K | 1191.15 | UNKNOWN; _alloy: Ni 0.5307, Tb 0.4693_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 55; `ORC-NBLJYIQOWU` |  |
-| Phase transition | 1194.15 K | 1194.15 | UNKNOWN; _alloy: Ni 0.5459, Tb 0.4541_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 53; `ORC-VTGPSIX5MJ` |  |
-| Phase transition | 1196.15 K | 1196.15 | UNKNOWN; _alloy: Ni 0.5599, Tb 0.4401_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 52; `ORC-JFRVB6ITNV` |  |
-| Phase transition | 1211.15 K | 1211.15 | UNKNOWN; _alloy: Ni 0.4347, Tb 0.5653_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 63; `ORC-BPTG4PQFQ6` |  |
-| Phase transition | 1223.15 K | 1223.15 | UNKNOWN; _alloy: Ni 0.5307, Tb 0.4693_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 54; `ORC-QFJP7IYVLN` |  |
-| Phase transition | 1235.15 K | 1235.15 | UNKNOWN; _alloy: Ni 0.2121, Tb 0.7879_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 79; `ORC-5MXM65ATNB` |  |
-| Phase transition | 1241.15 K | 1241.15 | UNKNOWN; _alloy: Ni 0.5124, Tb 0.4876_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 56; `ORC-7X535V72TQ` |  |
-| Phase transition | 1243.15 K | 1243.15 | UNKNOWN; _alloy: Ni 0.4601, Tb 0.5399_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 61; `ORC-LHVR3HKAEO` |  |
 | Phase transition | 1248 K | 1248 | congruent melting: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 15; `ORC-ZSRCWSZQR2` |  |
 | Phase transition | 1249 K | 1249 | congruent melting: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [3] Rahou 2024 | Table 3, p. 6, row 13; `ORC-MXDSCSSISS` |  |
 | Phase transition | 1250 K | 1250 | congruent melting: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 17; `ORC-762LAGS3WQ` |  |
 | Phase transition | 1250 K | 1250 | congruent melting: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 15; `ORC-D2TZFRMTUI` |  |
-| Phase transition | 1257.15 K | 1257.15 | UNKNOWN; _alloy: Ni 0.4793, Tb 0.5207_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 59; `ORC-FZRZR7V73D` |  |
 | Phase transition | 1266 K | 1266 | congruent melting: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 16; `ORC-DKM6F4RWZL` |  |
 | Phase transition | 1266 K | 1266 | congruent melting: L -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [2] Ye 2023 | Table 9, p. 20, row 18; `ORC-SQDPXT3KYV` |  |
 | Phase transition | 1266 K | 1266 | congruent melting: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 14; `ORC-ZZLWJHVVCG` |  |
-| Phase transition | 1266.15 K | 1266.15 | UNKNOWN; _alloy: Ni 0.5, Tb 0.5_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 58; `ORC-LJDXKFI3QT` |  |
 | Phase transition | 1267 K | 1267 | congruent melting: Liq -> TbNi; _L: Tb 0.5; TbNi: Tb 0.5_ | model | [3] Rahou 2024; _cites Ye 2024_ | Table 3, p. 6, row 16; `ORC-O65RHC5TU2` |  |
-| Phase transition | 1298.15 K | 1298.15 | UNKNOWN; _alloy: Ni 0.5996, Tb 0.4004_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 50; `ORC-TRYHHKFNTN` |  |
-| Phase transition | 1363.15 K | 1363.15 | UNKNOWN; _alloy: Ni 0.6242, Tb 0.3758_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 48; `ORC-WRUWTTXKFQ` |  |
-| Phase transition | 1397.15 K | 1397.15 | UNKNOWN; _alloy: Ni 0.7365, Tb 0.2635_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 37; `ORC-7N3S7C7IMR` |  |
-| Phase transition | 1404.15 K | 1404.15 | UNKNOWN; _alloy: Ni 0.7267, Tb 0.2733_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 40; `ORC-HHICSZ2LZK` |  |
-| Phase transition | 1407.15 K | 1407.15 | UNKNOWN; _alloy: Ni 0.6484, Tb 0.3516_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 46; `ORC-4QXPO36JDT` |  |
-| Phase transition | 1409.15 K | 1409.15 | UNKNOWN; _alloy: Ni 0.6667, Tb 0.3333_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 45; `ORC-BAPN5COWSR` |  |
-| Phase transition | 1462.15 K | 1462.15 | UNKNOWN; _alloy: Ni 0.1242, Tb 0.8758_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 81; `ORC-VFVJZ45DPA` |  |
-| Phase transition | 1467.15 K | 1467.15 | UNKNOWN; _alloy: Ni 0.6806, Tb 0.3194_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 43; `ORC-QM6U6O5ATB` |  |
-| Phase transition | 1492.15 K | 1492.15 | UNKNOWN; _alloy: Ni 0.7058, Tb 0.2942_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 41; `ORC-E6DIQOSREC` |  |
-| Phase transition | 1495.15 K | 1495.15 | UNKNOWN; _alloy: Ni 0.7683, Tb 0.2317_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 28; `ORC-RP7ZFQTEZF` |  |
-| Phase transition | 1501.15 K | 1501.15 | UNKNOWN; _alloy: Ni 0.7603, Tb 0.2397_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 33; `ORC-7CAR2KUX2R` |  |
-| Phase transition | 1502.15 K | 1502.15 | UNKNOWN; _alloy: Ni 0.7365, Tb 0.2635_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 36; `ORC-A2RCV5KHPJ` |  |
-| Phase transition | 1502.15 K | 1502.15 | UNKNOWN; _alloy: Ni 0.75, Tb 0.25_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 34; `ORC-DLZ52U7PXN` |  |
-| Phase transition | 1527.15 K | 1527.15 | UNKNOWN; _alloy: Ni 0.7267, Tb 0.2733_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 38; `ORC-L73Z3JKROW` |  |
-| Phase transition | 1547.15 K | 1547.15 | UNKNOWN; _alloy: Ni 0.8864, Tb 0.1136_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 9; `ORC-56QROCKMCN` |  |
-| Phase transition | 1547.15 K | 1547.15 | UNKNOWN; _alloy: Ni 0.8427, Tb 0.1573_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 15; `ORC-FFPWGVNEH6` |  |
-| Phase transition | 1547.15 K | 1547.15 | UNKNOWN; _alloy: Ni 0.9486, Tb 0.0514_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 5; `ORC-JAGPZ5VYJS` |  |
-| Phase transition | 1547.15 K | 1547.15 | UNKNOWN; _alloy: Ni 0.9096, Tb 0.0904_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 7; `ORC-RGIY4RJRKD` |  |
-| Phase transition | 1549.15 K | 1549.15 | UNKNOWN; _alloy: Ni 0.9298, Tb 0.0702_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 6; `ORC-JZRTQ6J5SD` |  |
-| Phase transition | 1552.15 K | 1552.15 | UNKNOWN; _alloy: Ni 0.7365, Tb 0.2635_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 35; `ORC-YZCFCCCDUC` |  |
-| Phase transition | 1558.15 K | 1558.15 | UNKNOWN; _alloy: Ni 0.7683, Tb 0.2317_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 27; `ORC-3GJHONBN5I` |  |
-| Phase transition | 1558.15 K | 1558.15 | UNKNOWN; _alloy: Ni 0.8947, Tb 0.1053_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 8; `ORC-RL2YQD3T3E` |  |
-| Phase transition | 1558.15 K | 1558.15 | UNKNOWN; _alloy: Ni 0.7603, Tb 0.2397_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 32; `ORC-RWSL74EVEA` |  |
-| Phase transition | 1559.15 K | 1559.15 | UNKNOWN; _alloy: Ni 0.7635, Tb 0.2365_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 29; `ORC-YU4XRYTF2X` |  |
-| Phase transition | 1562.15 K | 1562.15 | UNKNOWN; _alloy: Ni 0.7778, Tb 0.2222_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 25; `ORC-K5IYWYNT3O` |  |
-| Phase transition | 1597.15 K | 1597.15 | UNKNOWN; _alloy: Ni 0.048, Tb 0.952_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 83; `ORC-Y2ULQHDUNY` |  |
-| Phase transition | 1601.15 K | 1601.15 | UNKNOWN; _alloy: Ni 0.7603, Tb 0.2397_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 31; `ORC-I5KFUWN5CM` |  |
-| Phase transition | 1619.15 K | 1619.15 | UNKNOWN; _alloy: Ni 0.9486, Tb 0.0514_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 4; `ORC-F2GE37QCZW` |  |
-| Phase transition | 1619.15 K | 1619.15 | UNKNOWN; _alloy: Ni 0.8732, Tb 0.1268_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 10; `ORC-VRPTMA7G5E` |  |
-| Phase transition | 1620.15 K | 1620.15 | UNKNOWN; _alloy: Ni 0.7683, Tb 0.2317_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 26; `ORC-VT4UKUFUAS` |  |
-| Phase transition | 1631.15 K | 1631.15 | UNKNOWN; _alloy: Ni 0, Tb 1_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 85; `ORC-CN3WS2HZZM` |  |
-| Phase transition | 1639.15 K | 1639.15 | UNKNOWN; _alloy: Ni 0.789, Tb 0.211_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 23; `ORC-3CIRW7EO6Z` |  |
-| Phase transition | 1643.15 K | 1643.15 | UNKNOWN; _alloy: Ni 0.8547, Tb 0.1453_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 12; `ORC-FDAJABZUBF` |  |
-| Phase transition | 1648.15 K | 1648.15 | UNKNOWN; _alloy: Ni 0.8002, Tb 0.1998_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 21; `ORC-REU26465KO` |  |
-| Phase transition | 1655.15 K | 1655.15 | UNKNOWN; _alloy: Ni 0.8427, Tb 0.1573_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 14; `ORC-FQDGBJWHWM` |  |
-| Phase transition | 1659.15 K | 1659.15 | UNKNOWN; _alloy: Ni 0.8156, Tb 0.1844_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 19; `ORC-IC6X22L4JI` |  |
 | Phase transition | 1660 K | 1660 | congruent melting: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | experimental | [2] Ye 2023; _cites ref. 39_ | Table 9, p. 20, row 36; `ORC-N2HWDEMQIM` |  |
 | Phase transition | 1660 K | 1660 | congruent melting: Liq -> TbNi5; _L: Tb 0.166667; TbNi5: Tb 0.166667_ | unspecified | [3] Rahou 2024; _cites Yao 2004_ | Table 3, p. 6, row 35; `ORC-WLIUP73TYT` |  |
 | Phase transition | 1660.3 K | 1660.3 | congruent melting: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | model | [2] Ye 2023 | Table 9, p. 20, row 37; `ORC-HXBFLYGZUZ` |  |
-| Phase transition | 1662.15 K | 1662.15 | UNKNOWN; _alloy: Ni 0.8227, Tb 0.1773_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 17; `ORC-3AZMIL27NR` |  |
 | Phase transition | 1663 K | 1663 | congruent melting: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | experimental | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 35; `ORC-FFBCUO4DQC` |  |
 | Phase transition | 1663 K | 1663 | congruent melting: Liq -> TbNi5; _L: Tb 0.166667; TbNi5: Tb 0.166667_ | model | [3] Rahou 2024 | Table 3, p. 6, row 33; `ORC-3KK7V32MYG` |  |
 | Phase transition | 1663 K | 1663 | congruent melting: Liq -> TbNi5; _L: Tb 0.166667; TbNi5: Tb 0.166667_ | experimental | [3] Rahou 2024; _cites Rong 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900667-4) | Table 3, p. 6, row 34; `ORC-YWJQN4C5DK` |  |
-| Phase transition | 1663.15 K | 1663.15 | UNKNOWN; _alloy: Ni 0.8333, Tb 0.1667_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 16; `ORC-2KC4WAE7UR` |  |
-| Phase transition | 1665.15 K | 1665.15 | UNKNOWN; _alloy: Ni 0.9663, Tb 0.0337_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 2; `ORC-SE3UIOTBPD` |  |
 | Phase transition | 1672 K | 1672 | congruent melting: L -> TbNi5; _L: Tb 0.167; TbNi5: Tb 0.166667_ | model | [2] Ye 2023; _cites ref. 86_ | Table 9, p. 20, row 34; `ORC-7T32J2HAZY` |  |
-| Phase transition | 1723.15 K | 1723.15 | UNKNOWN; _alloy: Ni 1, Tb 0_ | experimental | [1] Rong 2004 | Table 2, p. 5, row 1; `ORC-4QJJFFZO7T` |  |
 
 ### Mixing / partial (8)
 
@@ -491,10 +419,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -503,7 +431,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -514,7 +442,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -524,7 +452,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -534,7 +462,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

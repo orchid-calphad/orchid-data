@@ -4,10 +4,10 @@ ESPEI-format datasets built from the ORCHID literature values (Version 1, machin
 
 | folder | datasets | values | systems | content |
 |---|---:|---:|---:|---|
-| experimental | 971 | 2908 | 186 | experimental thermochemical tables and phase-composition (ZPF) tables |
-| model | 493 | 783 | 82 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
-| invariants | 1548 | 5095 | 465 | ZPF datasets from experimental invariant-reaction tables |
-| dft/literature | 796 | 1886 | 92 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
+| experimental | 1122 | 2402 | 185 | experimental thermochemical tables and phase-composition (ZPF) tables |
+| model | 503 | 781 | 81 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
+| invariants | 1546 | 5061 | 464 | ZPF datasets from experimental invariant-reaction tables |
+| dft/literature | 783 | 1770 | 91 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
 | dft/mp | 1251 | 1251 | 381 | Materials Project on-hull formation energies, HM_FORM endmember datasets |
 | dft/oqmd | 1251 | 1251 | 381 | OQMD on-hull formation energies, HM_FORM endmember datasets |
 
@@ -15,9 +15,9 @@ Optional phase constraints (separate folders; never mixed with measured data; se
 
 | folder | datasets | ZPF points | systems | content |
 |---|---:|---:|---:|---|
-| assessed | 645 | 8019 | 473 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`); the dense field grid of the validated diagrams (Cu-Zr) is a separate dataset per TDB, suffix `.dense.json`, tag `dense_field_grid` |
-| derived/invariant-brackets | 1075 | 4765 | 391 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
-| derived/liquid-stability | 422 | 3798 | 306 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
+| assessed | 643 | 8007 | 471 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`); the dense field grid of the validated diagrams (Cu-Zr) is a separate dataset per TDB, suffix `.dense.json`, tag `dense_field_grid` |
+| derived/invariant-brackets | 1073 | 4744 | 390 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
+| derived/liquid-stability | 421 | 3789 | 305 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
 
 ## Use with ESPEI
 
@@ -70,8 +70,8 @@ system:
 - One published observation supplies at most one value per folder (`duplicate_of_other_dataset`).
 - Method-based uncertainty floors (PI decision 2026-10-24): every value's weight follows `sigma_effective` of its published uncertainty budget, which is never below the method-class floor calibrated from ORCHID's independent measurements (or a documented prior) and never below ESPEI's experimental default; printed values and printed sigmas are unchanged. This replaces the former resolution floor (a printed sigma below 0.1 x the default used the default) and the opt-in `orchid_weight_floor` suggestion.
 - `experimental/MG-O/MgO-18Lia.zpf-00.json`, `invariants/PD-TI/PdTi-11Guo.zpf-00.json` and `invariants/AL-S/AlS-19Shi.zpf-01.json` are left out: their pycalphad driving-force evaluation is not reproducible (`pycalphad_evaluation_unstable`).
-- A compound whose independent measured formation enthalpies disagree by more than their printed sigmas carries a scatter-aware sigma (`uncertainty.basis = scatter_between_sources`, sample standard deviation of the independent values; page-checked); it is the budget's `sigma_scatter` and replaces sigma_effective when larger.
-- A formation enthalpy that the source measured at the historical formula of a phase (e.g. Cu4Zr or Cu9Zr2 for Cu5Zr, Cu3Zr for Cu51Zr14, Cu3Zr2 for Cu10Zr7, as the source table itself attributes them) is used for the modern phase; the offset |dx| x local hull slope is the budget's `sigma_composition`, added in quadrature (`uncertainty.basis = printed_with_composition_offset`; the flag `stoichiometry_mismatch` stays, flag-only).
+- A compound whose independent measured formation enthalpies disagree by more than their printed sigmas retains its reported sigma in `uncertainty` and a separate scatter estimate (sample standard deviation of the independent values; page-checked); it is the budget's `sigma_scatter` and replaces sigma_effective when larger.
+- A formation enthalpy that the source measured at the historical formula of a phase (e.g. Cu4Zr or Cu9Zr2 for Cu5Zr, Cu3Zr for Cu51Zr14, Cu3Zr2 for Cu10Zr7, as the source table itself attributes them) is used for the modern phase; the offset |dx| x local hull slope is the budget's `sigma_composition`, added in quadrature (the reported sigma stays in `uncertainty`; estimate provenance is in the value budget; the flag `stoichiometry_mismatch` stays, flag-only).
 - A value printed relative to a non-SER reference phase that the page states (e.g. bcc-Zr at 1123 K) is written converted to the TDB's SER phases at the same temperature with the SGTE unary lattice stability (`orchid_value_note`; the record's `corrections` entry gives the conversion and keeps the printed value); the lattice-stability uncertainty is the budget's `sigma_conversion` (prior: 10 %% of the lattice stability times x).
 
 ## Phase assignment
@@ -82,9 +82,13 @@ Every value's phase comes from its published literature record (printed label ->
 
 ## Uncertainties
 
-ESPEI 0.9.1 has no per-value uncertainty field: the sigma it uses is a reference sigma divided by the dataset's `weight` (500 J/mol for HM, 0.2 J/K/mol for SM and CPM, 500 J/mol on the chemical potential for activities; ESPEI: "estimated from NIST TRC uncertainties", i.e. for experiments). Every value carries its **uncertainty budget** in `orchid_uncertainty.values[].budget`, in the dataset's units, with the components kept separate so that you can recombine them: `sigma_printed` (as printed), `sigma_reading` (half of the last printed digit), `sigma_method` (method-class floor, with `method_class`, `method_basis`, `method_n_pairs`, `method_entry` into `experimental/CALIBRATION_EXPERIMENT.json`), `sigma_composition` (value measured at a historical formula), `sigma_scatter` (page-checked mutually inconsistent group), `sigma_conversion` (reference-state conversion) and `sigma_effective`. Printed printed values and sigmas are never altered; the budget comes from the literature release (`uncertainty_budget`).
+ORCHID supplies uncertainties to ESPEI 0.9.1 through weights: the sigma it uses is a reference sigma divided by the dataset's `weight` (500 J/mol for HM, 0.2 J/K/mol for SM and CPM, 500 J/mol on the chemical potential for activities; ESPEI: "estimated from NIST TRC uncertainties", i.e. for experiments). Every value carries its **uncertainty budget** in `orchid_uncertainty.values[].budget`, in the dataset's units, with the components kept separate so that you can recombine them: `sigma_printed` (as printed), `sigma_reading` (half of the last printed digit), `sigma_method` (method-class floor, with `method_class`, `method_basis`, `method_n_pairs`, `method_entry` into `experimental/CALIBRATION_EXPERIMENT.json`), `sigma_composition` (value measured at a historical formula), `sigma_scatter` (page-checked mutually inconsistent group), `sigma_conversion` (reference-state conversion) and `sigma_effective`. Source-reported values and sigmas are never altered; the budget comes from the literature release (`uncertainty_budget`).
 
-**Rule** (`sigma_rule`): sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 + sigma_composition^2 + sigma_conversion^2 ), sigma_scatter ). The method floor is a between-study scatter, so it already contains each study's statistical error: printed sigma and floor are not added in quadrature (that would count the statistical part twice); the larger is used. Composition offset and conversion are independent of the measurement and are added in quadrature; a group scatter replaces the result when larger. **The weight written is ESPEI's reference sigma / median sigma_effective of the dataset, by default** (the former opt-in `orchid_weight_floor.suggested_weight` is kept, marked superseded).
+**Rule** (`sigma_rule`): sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 + sigma_composition^2 + sigma_conversion^2 ), sigma_scatter ). The method floor is a between-study scatter, so it already contains each study's statistical error: printed sigma and floor are not added in quadrature (that would count the statistical part twice); the larger is used. Composition offset and conversion are independent of the measurement and are added in quadrature; a group scatter replaces the result when larger. **The weight written is ESPEI's reference sigma / the observation's effective uncertainty.** Groups with unequal effective uncertainties are split into single-observation files; groups with equal uncertainties retain their common weight. Activities use sigma_mu = R T sigma_a / a. The former opt-in `orchid_weight_floor.suggested_weight` is kept, marked superseded; it is not an active weight.
+
+**Policy history (2026-10-25):** this refines the 2026-10-24 effective-uncertainty weighting policy by replacing the median weight of unequal-sigma groups with individual weights. It does not change any literature value, reported uncertainty, estimated component, calibration, reference-state conversion, or inclusion decision. The reported/estimated separation remains in force. `UNCERTAINTY_SPLITS.json` maps removed parent files to their replacements and records their old weights.
+
+**Downstream fitting:** run `python espei/check_weights.py --bundle espei` before any weight overrides. For an explicit target and input selection, also run `check_fit.py` as described in `FIT_PREFLIGHT.md`. Use a clean copy of the regenerated bundle, with files selected from `index.json`; do not mix the old parent files with their replacements or count both as evidence. Keep the exported `weight` fields. Do not replace them with `suggested_weight` or reapply the default/sigma conversion. Any `apply_tags` or property-level weight setting is an additional user choice and must be recorded alongside the release and ESPEI version. Shared paper, source-dataset, and method/calibration links are preserved, including `orchid_weighting.parent_dataset` and `measured_in`. Splitting does not establish independence: the diagonal likelihood used here does not model covariance between measurements from the same study. No correlation coefficients have been inferred. Use the retained links when assessing sensitivity to shared-source effects.
 
 **Method floors** are calibrated from ORCHID itself, like the DFT sigma: for each value type and method class, independent measurements of the same state from different primary sources (one value per source, re-listings counted once), robust between-study sigma = 1.4826 x state-weighted median|d| / sqrt(2), 95 %% bootstrap CI over states; floor = that sigma rounded up, never below ESPEI's experimental default; classes with fewer than 20 pairs or 10 states use a documented prior (`method_basis` prior). Floors used for the outputs of this bundle (all value types: experimental/CALIBRATION_EXPERIMENT.md):
 
@@ -101,19 +105,18 @@ ESPEI 0.9.1 has no per-value uncertainty field: the sigma it uses is a reference
 | CPM | model_calculated (vs experiment) | 225 | 89 | prior |  |  | 1 | J/K/mol |
 | G_MIX_PARTIAL | emf | 0 | 0 | prior (espei) |  |  | 0.5 | kJ/mol |
 | G_MIX_PARTIAL | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 1 | kJ/mol |
-| G_MIX_PARTIAL | kems_vapour | 3 | 3 | prior (kubaschewski) |  |  | 1 | kJ/mol |
-| G_MIX_PARTIAL | unknown | 14 | 14 | cleaned_below_threshold (kubaschewski) | 1.334 | 1.086-1.71 | 1.4 | kJ/mol |
-| G_MIX_PARTIAL | model_calculated (vs experiment) | 115 | 87 | prior |  |  | 1 | kJ/mol |
+| G_MIX_PARTIAL | unknown | 13 | 13 | cleaned_below_threshold (kubaschewski) | 1.319 | 1.086-1.697 | 1.4 | kJ/mol |
+| G_MIX_PARTIAL | model_calculated (vs experiment) | 94 | 70 | prior |  |  | 1 | kJ/mol |
 | HM_FORM | combustion_calorimetry | 15 | 4 | cleaned_below_threshold (kubaschewski) | 0.8806 | 0.08806-5.33 | 1 | kJ/mol-atom |
 | HM_FORM | dsc_dta | 2 | 2 | prior (kubaschewski) |  |  | 2 | kJ/mol-atom |
 | HM_FORM | emf | 17 | 8 | cleaned_below_threshold (kubaschewski) | 4.566 | 1.887-14.82 | 4.6 | kJ/mol-atom |
-| HM_FORM | experimental_unspecified | 30 | 10 | calibrated | 3.77 | 2.133-6.594 | 3.8 | kJ/mol-atom |
+| HM_FORM | experimental_unspecified | 29 | 9 | cleaned_below_threshold (kubaschewski) | 4.026 | 1.992-9.33 | 4.1 | kJ/mol-atom |
 | HM_FORM | kems_vapour | 20 | 15 | calibrated | 4.193 | 1.153-7.653 | 4.2 | kJ/mol-atom |
 | HM_FORM | kems_vapour_second_law | 1 | 1 | prior (drowart2005) |  |  | 3 | kJ/mol-atom |
 | HM_FORM | kems_vapour_third_law | 0 | 0 | prior (drowart2005) |  |  | 2 | kJ/mol-atom |
 | HM_FORM | solution_reaction_calorimetry | 80 | 47 | calibrated | 3.145 | 2.202-4.602 | 3.2 | kJ/mol-atom |
-| HM_FORM | unknown | 297 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
-| HM_FORM | model_calculated (vs experiment) | 2075 | 371 | calibrated | 3.395 | 2.965-4.16 | 3.4 | kJ/mol-atom |
+| HM_FORM | unknown | 290 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
+| HM_FORM | model_calculated (vs experiment) | 2030 | 359 | calibrated | 3.855 | 3.158-4.581 | 3.9 | kJ/mol-atom |
 | H_MIX_PARTIAL | experimental_unspecified | 6 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |
 | H_MIX_PARTIAL | solution_reaction_calorimetry | 0 | 0 | prior (espei) |  |  | 0.5 | kJ/mol |
 | H_MIX_PARTIAL | unknown | 1 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |
@@ -125,12 +128,12 @@ ESPEI 0.9.1 has no per-value uncertainty field: the sigma it uses is a reference
 | SM_FORM | kems_vapour | 1 | 1 | prior (drowart2005) |  |  | 2 | J/K/mol-atom |
 | SM_FORM | kems_vapour_second_law | 0 | 0 | prior (drowart2005) |  |  | 3 | J/K/mol-atom |
 | SM_FORM | unknown | 4 | 4 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
-| SM_FORM | model_calculated (vs experiment) | 114 | 38 | calibrated | 3.232 | 1.601-4.219 | 3.3 | J/K/mol-atom |
+| SM_FORM | model_calculated (vs experiment) | 118 | 42 | calibrated | 3.232 | 1.938-4.144 | 3.3 | J/K/mol-atom |
 | S_ABS | emf | 45 | 1 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
 | S_ABS | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
 | S_ABS | heat_content_calorimetry | 19 | 9 | cleaned_below_threshold (espei) | 0.9121 | 0.07339-1.929 | 1 | J/K/mol |
 | S_ABS | kems_vapour | 4 | 4 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
-| S_ABS | unknown | 90 | 20 | calibrated | 0.5941 | 0.2851-1.174 | 0.6 | J/K/mol |
+| S_ABS | unknown | 77 | 20 | calibrated | 0.6571 | 0.2851-1.174 | 0.7 | J/K/mol |
 | S_ABS | model_calculated (vs experiment) | 260 | 80 | prior |  |  | 1 | J/K/mol |
 | S_MIX_PARTIAL | emf | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
 | S_MIX_PARTIAL | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 1 | J/K/mol |
@@ -139,22 +142,22 @@ ESPEI 0.9.1 has no per-value uncertainty field: the sigma it uses is a reference
 | T_INVARIANT | emf | 1 | 1 | prior (orchid_assumed) |  |  | 10 | K |
 | T_INVARIANT | experimental_unspecified | 0 | 0 | prior (orchid_assumed) |  |  | 10 | K |
 | T_INVARIANT | thermal_analysis | 0 | 0 | prior (orchid_assumed) |  |  | 5 | K |
-| T_INVARIANT | unknown | 4918 | 1684 | calibrated | 10.48 | 9.33-10.48 | 11 | K |
-| T_INVARIANT | model_calculated (vs experiment) | 14170 | 5382 | calibrated | 3.707 | 3.113-4.411 | 4 | K |
+| T_INVARIANT | unknown | 4912 | 1680 | calibrated | 10.48 | 9.435-10.48 | 11 | K |
+| T_INVARIANT | model_calculated (vs experiment) | 14146 | 5377 | calibrated | 3.707 | 3.113-4.3 | 4 | K |
 | X_PHASE | experimental_unspecified | 6 | 1 | prior (orchid_assumed) |  |  | 0.01 | mole fraction |
 | X_PHASE | metallography_microscopy | 1 | 1 | prior (orchid_assumed) |  |  | 0.01 | mole fraction |
 | X_PHASE | microanalysis | 0 | 0 | prior (orchid_assumed) |  |  | 0.005 | mole fraction |
 | X_PHASE | thermal_analysis | 1 | 1 | prior (orchid_assumed) |  |  | 0.01 | mole fraction |
 | X_PHASE | unknown | 3014 | 1426 | calibrated | 0.01048 | 0.01048-0.01153 | 0.011 | mole fraction |
-| X_PHASE | model_calculated (vs experiment) | 16735 | 8821 | calibrated | 0.004448 | 0.004448-0.004448 | 0.005 | mole fraction |
+| X_PHASE | model_calculated (vs experiment) | 16730 | 8821 | calibrated | 0.004448 | 0.004448-0.004448 | 0.005 | mole fraction |
 
 Which sigma applies to which data:
 
 | data | sigma | ESPEI weight |
 |---|---|---|
-| experimental thermochemical | uncertainty budget: max(printed, reading, method floor) (+ composition / conversion in quadrature; group scatter when larger) | ESPEI default / median sigma_effective of the dataset (one weight per dataset in ESPEI 0.9.1); per-value equivalents recorded |
+| experimental thermochemical | uncertainty budget: max(printed, reading, method floor) (+ composition / conversion in quadrature; group scatter when larger) | ESPEI default / sigma_effective of the observation; unequal-sigma groups split into single-observation files |
 | DFT (literature, MP, OQMD) | calibrated against experiment (dft/CALIBRATION.md): robust sigma of the value's stratum, leave-system-out, as `sigma_method`; bias recorded, not applied | 500 J/mol / sigma_DFT per value (a conversion, not a claim that DFT is accurate to 500 J/mol) |
-| model-calculated (model/) | budget with `sigma_method` = the model class's robust deviation from experiment (formation quantities) or a documented prior; not a measurement uncertainty | ESPEI default / median sigma_effective; exclude with the `model` tag if you prefer |
+| model-calculated (model/) | budget with `sigma_method` = the model class's robust deviation from experiment (formation quantities) or a documented prior; not a measurement uncertainty | ESPEI default / individual sigma_effective; exclude with the `model` tag if you prefer |
 | ZPF (experimental/ ZPF, invariants/) | temperature and composition budgets per region (printed, method floor of the invariant / phase-composition class); ESPEI weighs ZPF by a driving-force tolerance | 1 (not set) |
 | phase constraints (assessed/, derived/) | `orchid_uncertainty_budget` of the points (assessed: digitisation, boundary margin, handbook class; derived: the offset rule) | 1 (not set) |
 
@@ -179,7 +182,7 @@ ESPEI-native content (`components`, `phases`, `conditions`, `output`, `values`, 
 
 ## Former optional minimum-sigma policy (E6, superseded)
 
-Until 2026-10-23 every experimental thermochemical dataset carried `orchid_weight_floor.suggested_weight` (sigma floor = ESPEI's experimental default, 500 J/mol), which users had to opt into. Since 2026-10-24 the written `weight` follows sigma_effective (method floors) by default. The block is kept, with `superseded`, the former suggestion and `weight_before_2026_10_24`, for comparison: 1369 datasets, weight lower than before in 1268, higher in 1, unchanged in 100.
+Until 2026-10-23 every experimental thermochemical dataset carried `orchid_weight_floor.suggested_weight` (sigma floor = ESPEI's experimental default, 500 J/mol), which users had to opt into. Since 2026-10-24 the written `weight` follows sigma_effective (method floors) by default. The block is kept, with `superseded`, the former suggestion and `weight_before_2026_10_24`, for comparison: 1343 datasets, weight lower than before in 1248, higher in 1, unchanged in 94.
 
 ## Phase constraints (optional)
 
@@ -194,9 +197,9 @@ Counts (brackets written and skipped by reason, systems with liquid-stability po
 
 ## Citation
 
-R. Arróyave, J. Saal, D. Shin, ORCHID ESPEI datasets from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-espei
+R. Arróyave, J. Saal, D. Shin, ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-espei
 
-Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (each dataset's `reference` / `bibtex`, references.bib; index.csv lists the DOIs); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 

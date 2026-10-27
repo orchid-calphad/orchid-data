@@ -15,7 +15,7 @@ Table: Phases of the Sb–Sm system (12)
 | [RHOMBOHEDRAL_A7](#phase-sb-sm-a7-rhombohedral); _phase:sb-sm:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–910.18 K, x(Sm) 0–0 | 3 | 2 |
 | [BCC_A2](#phase-sb-sm-bcc-a2); _phase:sb-sm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1150.15–2500 K, x(Sm) 0.98723–1 | 5 | 2 |
 | [FCC_A1](#phase-sb-sm-fcc-a1); _phase:sb-sm:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [HCP_A3](#phase-sb-sm-hcp-a3); _phase:sb-sm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1006.99–1340 K, x(Sm) 1–1 | 0 | 2 |
+| [HCP_A3](#phase-sb-sm-hcp-a3); _phase:sb-sm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1006.99–1340 K, x(Sm) 1–1 | 2 | 2 |
 | [LIQUID](#phase-sb-sm-liquid); _phase:sb-sm:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 875.18–2500 K, x(Sm) 0–1 | 18 | 2 |
 | [RHOMB_C19](#phase-sb-sm-rhomb-c19); _phase:sb-sm:rhomb-c19_ | CdCl2 · C19 · hR3 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1191.99 K, x(Sm) 1–1 | 0 | 2 |
 | [SB2SM](#phase-sb-sm-sb2sm); _phase:sb-sm:sb2sm_ | Sb2Sm · oC24 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1645.56 K, x(Sm) 0.33333–0.33333 | 6 | 2 |
@@ -143,10 +143,11 @@ _assessment that models this phase_
 - Id: `phase:sb-sm:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1006.99–1340 K, x(Sm) 1–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-sm:hcp-a3)
 
-Names (3): _corpus: _corpus:phase:sb-sm:hcp-a3  
+Names (4): _corpus: _corpus:phase:sb-sm:hcp-a3  
+_paper: _paper:10.1016/j.calphad.2014.07.002:(βSm)  
 _tdb: _tdb:SbSm-14Liu.tdb:HCP_A3, tdb:SbSm-96Cac.tdb:HCP_A3  
 
 
@@ -166,12 +167,14 @@ _tdb: _tdb:SbSm-14Liu.tdb:HCP_A3, tdb:SbSm-96Cac.tdb:HCP_A3
 38: CONST HCP_A3 : SB SM : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.07.002](https://doi.org/10.1016/j.calphad.2014.07.002) X.J. Liu, M.H. Chen, Y. Lu, Y.X. Huang, D. Wang, Q. He et al., Thermodynamic assessment of the Sb–Sm and Sm–Sn systems, Calphad 47, 129-135 (2014).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1515/ijmr-1996-870708](https://doi.org/10.1515/ijmr-1996-870708) G. Cacciamani, G. Borzone, N. Parodi, R. Ferro, Z. Metallkd., 87, 562-67(1996).  
 _assessment that models this phase_
+- [doi:10.1016/0022-5088(88)90149-x](https://doi.org/10.1016/0022-5088%2888%2990149-x) F.M. Sadigov, N.S. Shahguliyev, O.M. Aliyev, The samarium-antimony phase diagram, Journal of the Less Common Metals 144, L5-L8 (1988).  
+_cited as the source of values for this phase_
 
 ## LIQUID (Sb–Sm)
 
@@ -470,8 +473,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -480,7 +483,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -491,7 +494,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

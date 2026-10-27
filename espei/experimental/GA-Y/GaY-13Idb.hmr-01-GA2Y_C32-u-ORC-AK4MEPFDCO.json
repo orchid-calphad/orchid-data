@@ -1,0 +1,156 @@
+{
+ "components": [
+  "GA",
+  "VA",
+  "Y"
+ ],
+ "phases": [
+  "GA2Y_C32"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -72100.0
+   ]
+  ]
+ ],
+ "reference": "Idbenali 2013, doi:10.1007/s10973-012-2861-x",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid",
+  "compound_formation_endmember",
+  "orchid_caveat"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AK4MEPFDCO",
+ "weight": 0.108696,
+ "bibtex": "idbenali2013_69be61",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-AK4MEPFDCO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-012-2861-x",
+   "doi:10.1016/s0925-8388(99)00599-x"
+  ],
+  "dois": [
+   "10.1007/s10973-012-2861-x",
+   "10.1016/s0925-8388(99)00599-x"
+  ],
+  "source_dataset": "db-v2.1/general/espei/GaY-13Idb/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight = default_sigma / this observation's sigma_effective_used; unequal-uncertainty groups are split into single-observation datasets, retaining their common source provenance",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
+  "values": [
+   {
+    "sigma": 1300.0,
+    "sigma_basis": "printed",
+    "budget": {
+     "sigma_printed": 1300.0,
+     "sigma_reading": 50.0,
+     "sigma_method": 4600.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 4600.0,
+     "method_class": "emf",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 17,
+     "method_entry": "value_types/HM_FORM/classes/emf"
+    },
+    "printed": {
+     "value": 1.3,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "sigma_effective_used": 4600.0,
+    "weight_per_value_equivalent": 0.108696,
+    "weight_used": 0.108696
+   }
+  ]
+ },
+ "orchid_weight_floor": {
+  "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
+  "suggested_weight": 0.333333,
+  "weight_before_2026_10_24": 0.333333,
+  "weight_written": 0.108696,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)",
+  "comparison_scope": "superseded comparison metadata of parent_dataset"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "GA2Y_C32"
+  ],
+  "basis": {
+   "printed_labels": 3
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "GaY-13Idb.tdb",
+   "path": "databases/sgte-binary/GaY-13Idb.tdb",
+   "sha256": "cbddd22351605c045afe0d705d5ffd6c73c043a0c067ec7e6ee22e023b3785de",
+   "phase": "GA2Y_C32",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GA",
+    "Y"
+   ]
+  ]
+ },
+ "orchid_weighting": {
+  "rule": "individual_effective_uncertainty_v1",
+  "parent_dataset": "experimental/GA-Y/GaY-13Idb.hmr-01-GA2Y_C32.json",
+  "parent_value_index": 1,
+  "parent_n_values": 3,
+  "parent_weight": 0.108696,
+  "parent_values_dropped": 0,
+  "source_dataset": "db-v2.1/general/espei/GaY-13Idb/hmr-01.json",
+  "measured_in": "doi:10.1007/s10973-012-2861-x",
+  "correlation_status": "not quantified",
+  "correlation_note": "Shared source and method/calibration provenance are retained. Splitting does not establish statistical independence. No covariance is invented; the ESPEI likelihood used here does not model cross-observation covariance."
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-AK4MEPFDCO",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

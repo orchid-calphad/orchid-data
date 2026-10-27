@@ -13,11 +13,11 @@ Table: Phases of the U–W system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A20](#phase-u-w-a20-orthorhombic); _phase:u-w:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–947.02 K, x(W) 0–0 | 0 | 2 |
-| [BCC_A2](#phase-u-w-bcc-a2); _phase:u-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.88 K, x(W) 0–1 | 6 | 2 |
+| [BCC_A2](#phase-u-w-bcc-a2); _phase:u-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.88 K, x(W) 0–1 | 7 | 2 |
 | [FCC_A1](#phase-u-w-fcc-a1); _phase:u-w:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-u-w-hcp-a3); _phase:u-w:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-u-w-liquid); _phase:u-w:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1404.22–4000 K, x(W) 0–1 | 19 | 2 |
-| [TETRAGONAL_U](#phase-u-w-u-tetragonal); _phase:u-w:u-tetragonal_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 942.02–1089.95 K, x(W) 0–1e-05 | 1 | 2 |
+| [TETRAGONAL_U](#phase-u-w-u-tetragonal); _phase:u-w:u-tetragonal_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 942.02–1089.95 K, x(W) 0–1e-05 | 2 | 2 |
 
 ## ORTHORHOMBIC_A20 (U–W)
 
@@ -60,7 +60,7 @@ _assessment that models this phase_
 - Id: `phase:u-w:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3999.88 K, x(W) 0–1
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-w:bcc-a2)
 
 Names (6): _corpus: _corpus:phase:u-w:bcc-a2  
@@ -205,7 +205,7 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UW-08Wan.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UW-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Stability: stable in 2 of 2 calculated diagram(s): 942.02–1089.95 K, x(W) 0–1e-05
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-w:u-tetragonal)
 
 Names (5): _corpus: _corpus:phase:u-w:u-tetragonal, corpus:phase:u-w:tetragonal-u  
@@ -238,8 +238,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -248,7 +248,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -259,7 +259,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

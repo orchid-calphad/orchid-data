@@ -9,19 +9,31 @@
   "LICENSE",
   "LICENSES.md",
   "NOTICE.md",
+  "CITATIONS.md",
+  "CITATIONS.json",
   "zenodo/hulls.metadata.json",
   "hulls/**",
   "parquet/hull_vertices.parquet",
   "parquet/MANIFEST.json"
  ],
  "exclude": [],
- "n_files": 18199,
- "total_bytes": 115994198,
+ "n_files": 18201,
+ "total_bytes": 116008500,
  "files": [
   {
    "path": "CHANGELOG.md",
    "bytes": 38061,
    "sha256": "60c9cd9470d8dd4d55dedbf8790b1c6f161b2419386b9585d513e0a1b8615f39"
+  },
+  {
+   "path": "CITATIONS.json",
+   "bytes": 3453,
+   "sha256": "f2f881fda27aacd27051b6ed831dad4fa1fb63b521276d7b09d69c1c79344500"
+  },
+  {
+   "path": "CITATIONS.md",
+   "bytes": 3426,
+   "sha256": "f796bcefb8ed75fc904988509dc75befe59aaa0c9d15d9e1379615d7c0841516"
   },
   {
    "path": "LICENSE",
@@ -40,13 +52,13 @@
   },
   {
    "path": "README.md",
-   "bytes": 8741,
-   "sha256": "0746df14f5ddfed9e0be2ff89ab1d05220a6f80bcdf0042b41f9886ac6e977fa"
+   "bytes": 9300,
+   "sha256": "4055c5f5ee11cee87769a5bbf833b1d750d657a4741b5ae4e1bbb1789c8973bb"
   },
   {
    "path": "hulls/CITATION.cff",
-   "bytes": 1337,
-   "sha256": "6fb7fce93279bf50125ac58fd81a6c20dd895a8ea06f23e1bc9004eacd19eb33"
+   "bytes": 1344,
+   "sha256": "49dac6f5c14cd3e36718fab65588b3a13297d9fcb7dff29098bac3dc58392ff7"
   },
   {
    "path": "hulls/calphad-sgte/AG/AG-AL--AgAl-04Wit.json",
@@ -13525,8 +13537,8 @@
   },
   {
    "path": "hulls/calphad-sgte/catalog.json",
-   "bytes": 2824706,
-   "sha256": "d23f4ff6a5b91296b0dd9515eca6cb312b8068ddd33791d552d01eec456305d7"
+   "bytes": 2824847,
+   "sha256": "c7d35fc9cd1005842467ff8192ace4f078dab8142a738b7bc4af2617a6536fe7"
   },
   {
    "path": "hulls/calphad-sgte/samples/samples.tar.gz",
@@ -32680,8 +32692,8 @@
   },
   {
    "path": "hulls/dft-mp/catalog.json",
-   "bytes": 2600038,
-   "sha256": "ec83969600335f8e9acbbe517619589e06d5de1f7c6ef5cd10df46e11f079469"
+   "bytes": 2600179,
+   "sha256": "c16683496b910c15e2d5e1bc15f5bccbc0f166668d40a58bcf044e8f78946a5c"
   },
   {
    "path": "hulls/dft-mp/elements.json",
@@ -71410,8 +71422,8 @@
   },
   {
    "path": "hulls/dft-oqmd/catalog.json",
-   "bytes": 2981007,
-   "sha256": "ccf3af6775aa98b2fde3e51180bce59be22fc26a18ecfe40a235460b3e1c3d99"
+   "bytes": 2981148,
+   "sha256": "d81ac42972302435e184c2351bf790399027befafb4ef9aad12953e66eb01337"
   },
   {
    "path": "hulls/dft-oqmd/elements.json",
@@ -91000,18 +91012,18 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 25082,
-   "sha256": "1f024113bbc54dfd13f83b9b982d5c0ec22fba78afb1507c4ccfb7c2a07ea44a"
+   "bytes": 26140,
+   "sha256": "0d5ed30639532611a846f2f84ce2b96744db3dae1f539f5e8b73ca0dffe289a9"
   },
   {
    "path": "parquet/hull_vertices.parquet",
-   "bytes": 671299,
-   "sha256": "959d8b877bbaf382866932fa4affbc0abfc6b1739cef475d0f5b339df5a4a6af"
+   "bytes": 671639,
+   "sha256": "992955a22f6b3639deecf3075cbe53d24da05a4c4b5501fdb2635c675f3c17fd"
   },
   {
    "path": "zenodo/hulls.metadata.json",
-   "bytes": 7054,
-   "sha256": "00c005074ce0c415770a47b704a38bbdb0377b382dccd319a7f4a27c17b7c2a6"
+   "bytes": 12090,
+   "sha256": "ddae5c79ad76a2fa8b7412a97f39435454f988ac7baf3de1df5d925495ef8252"
   }
  ]
 }

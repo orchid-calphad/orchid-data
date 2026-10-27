@@ -14,13 +14,13 @@ Table: Phases of the C–Mn system (13)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-c-mn-a4-diamond); _phase:c-mn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [GRAPHITE_A9](#phase-c-mn-a9-graphite); _phase:c-mn:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 5 |
-| [BCC_A2](#phase-c-mn-bcc-a2); _phase:c-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1366.06–2594 K, x(C) 0–0.00201 | 0 | 5 |
+| [BCC_A2](#phase-c-mn-bcc-a2); _phase:c-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1366.06–2594 K, x(C) 0–0.00201 | 4 | 5 |
 | [CBCC_A12](#phase-c-mn-cbcc-a12); _phase:c-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1184.9 K, x(C) 0–0.08007 | 18 | 5 |
 | [CEMENTITE_D011](#phase-c-mn-cementite-d011); _phase:c-mn:cementite-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1240.92–1324.97 K, x(C) 0.25–0.25 | 22 | 5 |
-| [CUB_A13](#phase-c-mn-cub-a13); _phase:c-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 980.01–1359.99 K, x(C) 0–0.02689 | 0 | 5 |
+| [CUB_A13](#phase-c-mn-cub-a13); _phase:c-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 980.01–1359.99 K, x(C) 0–0.02689 | 4 | 5 |
 | [M7C3_D101](#phase-c-mn-d101-m7c3); _phase:c-mn:d101-m7c3_ | Cr7C3 · D10_1 · oP40 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1605.75 K, x(C) 0.3–0.3 | 24 | 5 |
 | [M23C6_D84](#phase-c-mn-d84-m23c6); _phase:c-mn:d84-m23c6_ | Cr23C6 · D8_4 · cF116 · Fm-3m (225) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1307.27 K, x(C) 0.2069–0.2069 | 25 | 5 |
-| [FCC_A1](#phase-c-mn-fcc-a1); _phase:c-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1024.34–1522.7 K, x(C) 0–0.13856 | 0 | 5 |
+| [FCC_A1](#phase-c-mn-fcc-a1); _phase:c-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1024.34–1522.7 K, x(C) 0–0.13856 | 4 | 5 |
 | [HCP_A3](#phase-c-mn-hcp-a3); _phase:c-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1580.74 K, x(C) 0.1288–0.33333 | 4 | 5 |
 | [LIQUID](#phase-c-mn-liquid); _phase:c-mn:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1486.59–4000 K, x(C) 0–0.84637 | 15 | 5 |
 | [M5C2](#phase-c-mn-m5c2); _phase:c-mn:m5c2_ | Mn5C2 · mC28 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1444.17 K, x(C) 0.28571–0.28571 | 25 | 5 |
@@ -149,10 +149,11 @@ _assessment that models this phase_
 - Id: `phase:c-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 1366.06–2594 K, x(C) 0–0.00201
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-mn:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:c-mn:bcc-a2  
+Names (7): _corpus: _corpus:phase:c-mn:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2010.05.002:δ-Mn  
 _tdb: _tdb:MnC-10Dju.tdb:BCC_A2, tdb:MnC-18Tan.tdb:BCC_A2, tdb:MnC-19Mie.tdb:BCC_A2, tdb:MnC-89Lee.tdb:BCC_A2, tdb:MnC-90Hua-LB.tdb:BCC_A2  
 
 
@@ -193,14 +194,16 @@ _tdb: _tdb:MnC-10Dju.tdb:BCC_A2, tdb:MnC-18Tan.tdb:BCC_A2, tdb:MnC-19Mie.tdb:BCC
 37: CONST BCC_A2 : MN : C VA% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/0364-5916(89)90024-2](https://doi.org/10.1016/0364-5916%2889%2990024-2) B.-J. Lee, D.N. Lee, Calphad, 13, 345-54(1989).  
-_assessment that models this phase_
 - [doi:10.1016/j.calphad.2010.05.002](https://doi.org/10.1016/j.calphad.2010.05.002) Dejan Djurovic, Bengt Hallstedt, Jörg von Appen, Richard Dronskowski, Thermodynamic assessment of the Mn–C system, Calphad 34, 279-285 (2010).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0364-5916(89)90024-2](https://doi.org/10.1016/0364-5916%2889%2990024-2) B.-J. Lee, D.N. Lee, Calphad, 13, 345-54(1989).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2018.01.006](https://doi.org/10.1016/j.calphad.2018.01.006) F. Tang, D. Bogdanovski, I. Bajenova, A.V. Khvan, R. Dronskowski, B. Hallstedt, Calphad, 60, 231-39(2018).  
 _assessment that models this phase_
+- [doi:10.3139/146.101563](https://doi.org/10.3139/146.101563) Jo Fenstad, Johan Kr. Tuset, Detailed phase diagram mapping: T–X data for solidi and liquidi of the alloy system manganese–carbon, International Journal of Materials Research 98, 970-975 (2007).  
+_cited as the source of values for this phase_
 
 ## CBCC_A12 (C–Mn)
 
@@ -340,10 +343,11 @@ _cited as the source of values for this phase_
 - Id: `phase:c-mn:cub-a13`; status `assigned`
 - Structure: beta-Mn · A13 · cP20 · P4_132 (213); type `st:a13-beta-mn-cp20`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 980.01–1359.99 K, x(C) 0–0.02689
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-mn:cub-a13)
 
-Names (6): _corpus: _corpus:phase:c-mn:cub-a13  
+Names (7): _corpus: _corpus:phase:c-mn:cub-a13  
+_paper: _paper:10.1016/j.calphad.2010.05.002:β-Mn  
 _tdb: _tdb:MnC-10Dju.tdb:CUB_A13, tdb:MnC-18Tan.tdb:CUB_A13, tdb:MnC-19Mie.tdb:CUB_A13, tdb:MnC-89Lee.tdb:CUB_A13, tdb:MnC-90Hua-LB.tdb:CUB_A13  
 
 
@@ -384,14 +388,16 @@ _tdb: _tdb:MnC-10Dju.tdb:CUB_A13, tdb:MnC-18Tan.tdb:CUB_A13, tdb:MnC-19Mie.tdb:C
 52: CONST CUB_A13 : MN : C VA% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/0364-5916(89)90024-2](https://doi.org/10.1016/0364-5916%2889%2990024-2) B.-J. Lee, D.N. Lee, Calphad, 13, 345-54(1989).  
-_assessment that models this phase_
 - [doi:10.1016/j.calphad.2010.05.002](https://doi.org/10.1016/j.calphad.2010.05.002) Dejan Djurovic, Bengt Hallstedt, Jörg von Appen, Richard Dronskowski, Thermodynamic assessment of the Mn–C system, Calphad 34, 279-285 (2010).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0364-5916(89)90024-2](https://doi.org/10.1016/0364-5916%2889%2990024-2) B.-J. Lee, D.N. Lee, Calphad, 13, 345-54(1989).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2018.01.006](https://doi.org/10.1016/j.calphad.2018.01.006) F. Tang, D. Bogdanovski, I. Bajenova, A.V. Khvan, R. Dronskowski, B. Hallstedt, Calphad, 60, 231-39(2018).  
 _assessment that models this phase_
+- [doi:10.1002/srin.193500743](https://doi.org/10.1002/srin.193500743) Rudolf Vogel, Werner Döring, Das System Eisen-Zementit-Mangankarbid-Mangan, Archiv für das Eisenhüttenwesen 9, 247-252 (1935).  
+_cited as the source of values for this phase_
 
 ## M7C3_D101 (C–Mn)
 
@@ -543,10 +549,11 @@ _cited as the source of values for this phase_
 - Id: `phase:c-mn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 1024.34–1522.7 K, x(C) 0–0.13856
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-mn:fcc-a1)
 
-Names (6): _corpus: _corpus:phase:c-mn:fcc-a1  
+Names (7): _corpus: _corpus:phase:c-mn:fcc-a1  
+_paper: _paper:10.1016/j.calphad.2010.05.002:γ-Mn  
 _tdb: _tdb:MnC-10Dju.tdb:FCC_A1, tdb:MnC-18Tan.tdb:FCC_A1, tdb:MnC-19Mie.tdb:FCC_A1, tdb:MnC-89Lee.tdb:FCC_A1, tdb:MnC-90Hua-LB.tdb:FCC_A1  
 
 
@@ -587,14 +594,18 @@ _tdb: _tdb:MnC-10Dju.tdb:FCC_A1, tdb:MnC-18Tan.tdb:FCC_A1, tdb:MnC-19Mie.tdb:FCC
 32: CONST FCC_A1 : MN : C VA% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1016/0364-5916(89)90024-2](https://doi.org/10.1016/0364-5916%2889%2990024-2) B.-J. Lee, D.N. Lee, Calphad, 13, 345-54(1989).  
-_assessment that models this phase_
 - [doi:10.1016/j.calphad.2010.05.002](https://doi.org/10.1016/j.calphad.2010.05.002) Dejan Djurovic, Bengt Hallstedt, Jörg von Appen, Richard Dronskowski, Thermodynamic assessment of the Mn–C system, Calphad 34, 279-285 (2010).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0364-5916(89)90024-2](https://doi.org/10.1016/0364-5916%2889%2990024-2) B.-J. Lee, D.N. Lee, Calphad, 13, 345-54(1989).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2018.01.006](https://doi.org/10.1016/j.calphad.2018.01.006) F. Tang, D. Bogdanovski, I. Bajenova, A.V. Khvan, R. Dronskowski, B. Hallstedt, Calphad, 60, 231-39(2018).  
 _assessment that models this phase_
+- [doi:10.1007/bf02655933](https://doi.org/10.1007/bf02655933) Du Sichen, S. Seetharaman, L. -I. Staffansson, Some phase-diagram aspects of the manganese-carbon system, Metall Trans B 20, 747-754 (1989).  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02665426](https://doi.org/10.1007/bf02665426) Robert Benz, John F. Elliott, John Chipman, Thermodynamics of the solid phases in the system Fe−Mn−C, Metall Trans 4, 1975-1986 (1973).  
+_cited as the source of values for this phase_
 
 ## HCP_A3 (C–Mn)
 
@@ -818,8 +829,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -828,7 +839,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -839,7 +850,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

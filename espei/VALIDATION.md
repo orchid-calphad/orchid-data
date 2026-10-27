@@ -8,15 +8,15 @@ Every file was checked with `espei.datasets.check_dataset` and `clean_dataset` (
 
 | folder | files | loaded by load_datasets | result |
 |---|---:|---:|---|
-| experimental | 971 | 971 | ok |
-| model | 493 | 493 | ok |
-| invariants | 1548 | 1548 | ok |
-| dft/literature | 796 | 796 | ok |
+| experimental | 1122 | 1122 | ok |
+| model | 503 | 503 | ok |
+| invariants | 1546 | 1546 | ok |
+| dft/literature | 783 | 783 | ok |
 | dft/mp | 1251 | 1251 | ok |
 | dft/oqmd | 1251 | 1251 | ok |
-| assessed | 645 | 645 | ok |
-| derived/invariant-brackets | 1075 | 1075 | ok |
-| derived/liquid-stability | 422 | 422 | ok |
+| assessed | 643 | 643 | ok |
+| derived/invariant-brackets | 1073 | 1073 | ok |
+| derived/liquid-stability | 421 | 421 | ok |
 
 Invalid files in the final bundle: **0**.
 
@@ -27,7 +27,6 @@ Invalid files in the final bundle: **0**.
 
 | reason | path (not written) | source |
 |---|---|---|
-| null_in_composition | experimental/AL-CO-NB/mc_ni_v2.034.pycalphad.zpf-01.json | db-v2.1/general/espei/mc_ni_v2.034.pycalphad/zpf-01.json |
 | null_in_composition | experimental/AL-MO-NI/mc_ni_v2.034.pycalphad.zpf-00.json | db-v2.1/general/espei/mc_ni_v2.034.pycalphad/zpf-00.json |
 | null_in_composition | invariants/AG-AU-SN/binary-subsystems-Ag-Au-Sn.zpf-ternary-00.json | db-v2.1/invariants/espei/binary-subsystems-Ag-Au-Sn/zpf-ternary-00.json |
 | null_in_composition | invariants/AG-AU-SN/binary-subsystems-Ag-Au-Sn.zpf-ternary-01.json | db-v2.1/invariants/espei/binary-subsystems-Ag-Au-Sn/zpf-ternary-01.json |
@@ -57,29 +56,29 @@ Invalid files in the final bundle: **0**.
 
 Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).
 
-Datasets evaluated in the final bundle: **8452**; all finite: **yes**.
+Datasets evaluated in the final bundle: **8593**; all finite: **yes**.
 
 | folder | quantity | datasets | values | median of dataset median abs | p90 of dataset median abs |
 |---|---|---:|---:|---:|---:|
-| assessed | zpf_driving_force_J | 645 | 14205 | 0.004 | 1.3915 |
-| derived/invariant-brackets | zpf_driving_force_J | 1075 | 6905 | 2.7821 | 108.7677 |
-| derived/liquid-stability | zpf_driving_force_J | 422 | 3798 | 0.0 | 0.0 |
-| dft/literature | nonequilibrium_log_likelihood | 796 | 796 | 19.9778 | 42.7718 |
-| dft/mp | nonequilibrium_log_likelihood | 1251 | 1251 | 10.1393 | 11.795 |
-| dft/oqmd | nonequilibrium_log_likelihood | 1251 | 1251 | 10.0432 | 11.8626 |
-| experimental | activity_residual | 71 | 181 | 1389.0925 | 11930.0598 |
-| experimental | nonequilibrium_log_likelihood | 456 | 456 | 9.4457 | 17.502 |
-| experimental | residual | 245 | 1122 | 181.0765 | 20027.3067 |
-| experimental | zpf_driving_force_J | 199 | 1418 | 0.417 | 489.0143 |
-| invariants | zpf_driving_force_J | 1548 | 14246 | 13.7539 | 475.5999 |
-| model | activity_residual | 43 | 53 | 10.3512 | 47.6979 |
-| model | nonequilibrium_log_likelihood | 295 | 295 | 9.0505 | 18.1651 |
-| model | residual | 143 | 206 | 29.5758 | 35804.6151 |
+| assessed | zpf_driving_force_J | 643 | 14185 | 0.0038 | 1.3915 |
+| derived/invariant-brackets | zpf_driving_force_J | 1073 | 6875 | 2.7757 | 108.7677 |
+| derived/liquid-stability | zpf_driving_force_J | 421 | 3789 | 0.0 | 0.0 |
+| dft/literature | nonequilibrium_log_likelihood | 783 | 783 | 19.7782 | 40.2065 |
+| dft/mp | nonequilibrium_log_likelihood | 1251 | 1251 | 10.14 | 11.8093 |
+| dft/oqmd | nonequilibrium_log_likelihood | 1251 | 1251 | 10.0422 | 11.7164 |
+| experimental | activity_residual | 180 | 180 | 702.974 | 10643.2517 |
+| experimental | nonequilibrium_log_likelihood | 467 | 467 | 9.4496 | 15.6294 |
+| experimental | residual | 283 | 709 | 304.0 | 11251.128 |
+| experimental | zpf_driving_force_J | 192 | 1330 | 0.3729 | 462.2874 |
+| invariants | zpf_driving_force_J | 1546 | 14147 | 13.4763 | 456.9472 |
+| model | activity_residual | 53 | 53 | 9.3681 | 47.6979 |
+| model | nonequilibrium_log_likelihood | 295 | 295 | 9.1877 | 18.383 |
+| model | residual | 143 | 204 | 27.6945 | 35656.7976 |
 | model | zpf_driving_force_J | 12 | 189 | 0.9473 | 11.8035 |
 
 (Residuals: J/mol-atom, J/K/mol-atom or activity; driving forces J/mol; non-equilibrium: log likelihood. Against the TDB's own parameters, i.e. how far the published values lie from the assessment the folder is named after.)
 
-Not written after the evaluation: 391 datasets (derived_from_excluded_dataset 3, espei_evaluation_error 271, espei_evaluation_nonfinite 91, espei_evaluation_tdb_error 23, espei_evaluation_tdb_not_found 3); ZPF regions cut: 52 in 33 datasets.
+Not written after the evaluation: 389 datasets (derived_from_excluded_dataset 3, espei_evaluation_error 271, espei_evaluation_nonfinite 89, espei_evaluation_tdb_error 23, espei_evaluation_tdb_not_found 3); ZPF regions cut: 52 in 33 datasets.
 
 | reason | path (not written) | error |
 |---|---|---|
@@ -354,7 +353,6 @@ Not written after the evaluation: 391 datasets (derived_from_excluded_dataset 3,
 | espei_evaluation_nonfinite | experimental/CE-O/CeO-06Zin.zpf-10.json |  |
 | espei_evaluation_nonfinite | experimental/CO-O/CoO-03Che-LB.sm-00-SPINEL_H11.json |  |
 | espei_evaluation_nonfinite | experimental/CO-O/CoO-03Che-LB.sm-01.json |  |
-| espei_evaluation_nonfinite | experimental/CO-V/CoV-03Bra-LB.hmr-01.json |  |
 | espei_evaluation_tdb_not_found | experimental/CR-NB/no-model-.zpf-00.json |  |
 | espei_evaluation_nonfinite | experimental/ER-GE/ErGe-17Ach.gmr-02.json |  |
 | espei_evaluation_nonfinite | experimental/ER-GE/ErGe-17Ach.hmr-00.json |  |
@@ -451,7 +449,6 @@ Not written after the evaluation: 391 datasets (derived_from_excluded_dataset 3,
 | espei_evaluation_error | model/CE-GA/CeGa-13Idb.hmr-model-04-CE3GA2.json | KeyError: 'ORTHORHOMBIC_GA' |
 | espei_evaluation_error | model/CE-GA/CeGa-13Idb.hmr-model-05-CE3GA_L12.json | KeyError: 'ORTHORHOMBIC_GA' |
 | espei_evaluation_nonfinite | model/CO-O/CoO-03Che-LB.sm-model-00-SPINEL_H11.json |  |
-| espei_evaluation_nonfinite | model/CO-V/CoV-03Bra-LB.hmr-model-01.json |  |
 | espei_evaluation_error | model/CS-O/CsO-15Gue.hmr-model-00-CS3O.json | KeyError: '1/2_MOLE_O2(G)' |
 | espei_evaluation_error | model/CS-O/CsO-15Gue.hmr-model-00-CS4O.json | KeyError: '1/2_MOLE_O2(G)' |
 | espei_evaluation_error | model/CS-O/CsO-15Gue.hmr-model-00-CS7O.json | KeyError: '1/2_MOLE_O2(G)' |
@@ -482,12 +479,12 @@ Not written after the evaluation: 391 datasets (derived_from_excluded_dataset 3,
 
 | fix | what | count |
 |---|---|---:|
-| E1 | VA added to `components` (target TDB has a vacancy sublattice; else system TDBs; else metallic system) | 6625 |
-| E2 | line-compound ZPF vertices written with composition null (datasets) | 6014 vertices (1183 datasets; 178 hyperplanes added) |
-| E3 | identical ZPF regions written once (regions removed; datasets left empty and dropped) | 688 (122) |
-| E4 | values read twice from the same printed row, counted once | 1170 |
+| E1 | VA added to `components` (target TDB has a vacancy sublattice; else system TDBs; else metallic system) | 6578 |
+| E2 | line-compound ZPF vertices written with composition null (datasets) | 5973 vertices (1181 datasets; 177 hyperplanes added) |
+| E3 | identical ZPF regions written once (regions removed; datasets left empty and dropped) | 680 (122) |
+| E4 | values read twice from the same printed row, counted once | 1151 |
 | E5 | activity datasets audited / reference state changed to the stated one / literature records listed for correction | 114 / 64 / 84 |
-| E6 | thermochemical datasets whose weight follows sigma_effective (method floors, 2026-10-24): weight lower / higher / unchanged vs 2026-10-23 | 1369: 1268 / 1 / 100 |
+| E6 | thermochemical datasets whose weight follows sigma_effective (method floors, 2026-10-24): weight lower / higher / unchanged vs 2026-10-23 | 1343: 1248 / 1 / 94 |
 
 Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
 
@@ -495,13 +492,13 @@ Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
 
 | folder | datasets | ZPF points | systems |
 |---|---:|---:|---:|
-| assessed | 645 | 8019 | 473 |
-| derived/invariant-brackets | 1075 | 4765 | 391 |
-| derived/liquid-stability | 422 | 3798 | 306 |
+| assessed | 643 | 8007 | 471 |
+| derived/invariant-brackets | 1073 | 4744 | 390 |
+| derived/liquid-stability | 421 | 3789 | 305 |
 
-Invariant brackets written: above 2540, below 2476; skipped: another_invariant_within_offset (above) 751, another_invariant_within_offset (below) 815, composition_not_between_the_two_phases 151, invariant_composition_unknown 396, phase_unmapped_or_repeated 40, reaction_label_not_matched 628, reaction_not_parsed 133, reaction_phases_differ_from_dataset 14, reaction_type_magnetic 3, reaction_type_order-disorder 4, unary_reaction 50.
-Assessed points left out (phase not in the TDB, or ambiguous): phase_ambiguous_in_tdb 137, phase_not_in_tdb 1078, region_inert_no_composition 91.
-Liquid-stability systems: above_a_boiling_point 83, element_not_a_condensed_liquid_at_1_atm 24, liquid_miscibility_gap_in_sources 59, no_assessed_diagram 24, no_single_phase_liquid_field 9, written 306.
+Invariant brackets written: above 2529, below 2464; skipped: another_invariant_within_offset (above) 747, another_invariant_within_offset (below) 812, composition_not_between_the_two_phases 141, invariant_composition_unknown 393, phase_unmapped_or_repeated 40, reaction_label_not_matched 626, reaction_not_parsed 133, reaction_phases_differ_from_dataset 11, reaction_type_magnetic 3, reaction_type_order-disorder 4, unary_reaction 49.
+Assessed points left out (phase not in the TDB, or ambiguous): phase_ambiguous_in_tdb 133, phase_not_in_tdb 1089, region_inert_no_composition 91.
+Liquid-stability systems: above_a_boiling_point 82, element_not_a_condensed_liquid_at_1_atm 24, liquid_miscibility_gap_in_sources 59, no_assessed_diagram 24, no_single_phase_liquid_field 9, written 305.
 
 ## Inclusion gate (same rules as the published literature values)
 
@@ -513,34 +510,34 @@ Liquid-stability systems: above_a_boiling_point 83, element_not_a_condensed_liqu
 | blocked_by_flag:system_mismatch: the published value is flagged system_mismatch | 18 |
 | composition_differs_from_release: a ZPF vertex composition is not among the published phase compositions | 93 |
 | composition_not_at_compound: compound formation value whose printed composition differs from the compound's formula composition in the target TDB by more than 0.01 | 15 |
-| duplicate_identical_zpf: E3: identical ZPF region (same phases, temperature and compositions) already written from another dataset (another assessment folder or another paper quoting the same invariant); kept once with every source in `also_reported_as` | 688 |
+| duplicate_identical_zpf: E3: identical ZPF region (same phases, temperature and compositions) already written from another dataset (another assessment folder or another paper quoting the same invariant); kept once with every source in `also_reported_as` | 680 |
 | duplicate_of_other_dataset: the same published observation (ORCHID id) already supplies this value in another dataset of the folder | 1 |
-| duplicate_read_same_row: E4: the same printed table row read twice (same ORCHID row id `pid`, conditions and value); counted once, the other id kept as `also_read_as` | 1170 |
-| duplicate_value_same_dataset: identical conditions and value under another id in the same dataset (another row or paper quoting the same value): counted once, the other id in `also_read_as` | 25 |
+| duplicate_read_same_row: E4: the same printed table row read twice (same ORCHID row id `pid`, conditions and value); counted once, the other id kept as `also_read_as` | 1151 |
+| duplicate_value_same_dataset: identical conditions and value under another id in the same dataset (another row or paper quoting the same value): counted once, the other id in `also_read_as` | 22 |
 | espei_evaluation_nonfinite_region: ZPF region with a non-finite driving force against the target TDB (ESPEI 0.9.1 likelihood evaluation); region not written | 52 |
-| evidence_class_mismatch: published evidence class differs from the folder's class (classes are never mixed) | 21 |
+| evidence_class_mismatch: published evidence class differs from the folder's class (classes are never mixed) | 24 |
 | formation_magnitude_implausible: formation enthalpy / Gibbs energy outside [-450, +100] kJ/mol-atom (per-formula value or unit error) | 2 |
 | gas_without_printed_pressure: ZPF region with a gas phase and no printed pressure | 23 |
-| model_phase_rejected_by_label_check: the record's model phase was rejected by the printed-label check (tools/phase_label_check.py; audit round 2, A2 class 1) | 405 |
-| not_accepted: published with extraction_accepted = false | 40 |
-| not_espei_ready:literature_gate: a literature-level gate (tools/literature_gates.py) marks the published value not_espei_ready or not accepted (e.g. G6 reaction phase / liquid count, a temperature range stored as a point); every such value is excluded | 522 |
-| phase_not_in_target_tdb: the value's phase has no model in the target TDB (the assessment folder) | 116 |
+| model_phase_rejected_by_label_check: the record's model phase was rejected by the printed-label check (tools/phase_label_check.py; audit round 2, A2 class 1) | 417 |
+| not_accepted: published with extraction_accepted = false | 45 |
+| not_espei_ready:literature_gate: a literature-level gate (tools/literature_gates.py) marks the published value not_espei_ready or not accepted (e.g. G6 reaction phase / liquid count, a temperature range stored as a point); every such value is excluded | 1124 |
+| phase_not_in_target_tdb: the value's phase has no model in the target TDB (the assessment folder) | 106 |
 | phase_rule:compound_property_not_fittable: physical phase rule: a property of a stoichiometric compound that ESPEI 0.9.1 cannot fit (only HM_FORM / SM_FORM of endmembers) | 703 |
 | phase_rule:liquid_impossible_at_T: physical phase rule: liquid printed at a temperature below the lowest possible liquid temperature of the system | 3 |
-| phase_rule:not_espei_ready: the published value is not espei_ready | 4 |
+| phase_rule:not_espei_ready: the published value is not espei_ready | 300 |
 | phase_rule:phase_label_ambiguous: physical phase rule: the printed label maps to several registry phases | 148 |
 | phase_rule:phase_label_not_mapped: physical phase rule: the printed phase label is not mapped to a model phase by the phase registry | 685 |
-| phase_rule:phase_not_printed: physical phase rule: no phase printed for the value and the caption does not name the liquid (no default phase is assigned) | 271 |
+| phase_rule:phase_not_printed: physical phase rule: no phase printed for the value and the caption does not name the liquid (no default phase is assigned) | 7 |
 | phase_rule:temperature_implausible: physical phase rule: the temperature is zero, a composition, or (phase equilibria) below 0.25 x the lowest element melting point | 22 |
-| phase_several_models_in_target_tdb: the value's registry phase has several models in the target TDB | 9 |
-| reference_phase_not_in_target_tdb: a reference-state phase is not a phase of the target TDB (e.g. the SER name 1/2_MOLE_O2(G), truncated to '1' by the record builder); ESPEI 0.9.1 stops with a KeyError | 60 |
+| phase_several_models_in_target_tdb: the value's registry phase has several models in the target TDB | 1 |
+| reference_phase_not_in_target_tdb: a reference-state phase is not a phase of the target TDB (e.g. the SER name 1/2_MOLE_O2(G), truncated to '1' by the record builder); ESPEI 0.9.1 stops with a KeyError | 44 |
 | reference_state_not_ser: compound formation value relative to a reference phase other than the TDB's SER phase (ESPEI _FORM is relative to SER) | 74 |
 | system_alias_phase_not_in_target_tdb: the record's phase was re-mapped by the per-system alias table (tools/phase_aliases.json) and the target TDB does not model that phase | 6 |
 | system_alias_vertex_ambiguous: a ZPF vertex name of the corpus dataset is the old mapping of an aliased phase and also the model phase of another printed phase of the row | 18 |
 | temperature_differs_from_release: dataset temperature differs from the published temperature | 5 |
 | three_phase_region_off_invariant: binary three-phase ZPF region more than 50 K from every calculated invariant of the system (a binary three-phase equilibrium is invariant) | 9 |
 | value_differs_from_release: dataset value differs from the published value (e.g. a quality fix applied in the release: per-formula -> per-atom basis); the dataset value is not used | 111 |
-| zpf_region_inert: ZPF region without any composition and without a hyperplane after E2: ESPEI 0.9.1 gives it zero driving force, so it constrains nothing (not written, not counted) | 1374 |
+| zpf_region_inert: ZPF region without any composition and without a hyperplane after E2: ESPEI 0.9.1 gives it zero driving force, so it constrains nothing (not written, not counted) | 1339 |
 
 Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 
@@ -554,69 +551,74 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `composition_differs_from_release;model_phase_rejected_by_label_check`: 5
 - `composition_not_at_compound`: 2
 - `dft_superseded`: 124 (the corpus's DFT datasets are replaced by the endmember HM_FORM datasets in `dft/literature/`, written only where a TDB endmember is unambiguous)
-- `duplicate_identical_property_dataset`: 61
+- `duplicate_identical_property_dataset`: 58
 - `duplicate_identical_zpf`: 122
 - `duplicate_of_other_dataset`: 1
 - `espei_evaluation_error`: 68
-- `espei_evaluation_nonfinite`: 61
+- `espei_evaluation_nonfinite`: 59
 - `espei_evaluation_tdb_error`: 13
 - `espei_evaluation_tdb_not_found`: 3
 - `evidence_class_mismatch`: 9
+- `evidence_class_mismatch;not_espei_ready:literature_gate`: 1
 - `formation_magnitude_implausible;phase_rule:phase_label_not_mapped`: 1
 - `gas_without_printed_pressure`: 12
 - `gas_without_printed_pressure;model_phase_rejected_by_label_check`: 1
 - `gas_without_printed_pressure;zpf_region_inert`: 1
-- `model_phase_rejected_by_label_check`: 69
+- `model_phase_rejected_by_label_check`: 66
 - `model_phase_rejected_by_label_check;not_espei_ready:literature_gate;zpf_region_inert`: 2
-- `model_phase_rejected_by_label_check;zpf_region_inert`: 40
+- `model_phase_rejected_by_label_check;zpf_region_inert`: 41
 - `not_accepted`: 8
+- `not_accepted;phase_rule:not_espei_ready`: 1
 - `not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped`: 1
 - `not_accepted;temperature_differs_from_release`: 1
 - `not_accepted;value_differs_from_release`: 2
-- `not_espei_ready:literature_gate`: 105
+- `not_espei_ready:literature_gate`: 149
 - `not_espei_ready:literature_gate;phase_not_in_target_tdb`: 3
+- `not_espei_ready:literature_gate;phase_not_in_target_tdb;phase_rule:phase_label_not_mapped`: 1
 - `not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable`: 2
 - `not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable;phase_rule:phase_label_not_mapped`: 1
+- `not_espei_ready:literature_gate;phase_rule:not_espei_ready`: 171
 - `not_espei_ready:literature_gate;phase_rule:phase_label_not_mapped`: 1
-- `not_espei_ready:literature_gate;phase_rule:phase_not_printed`: 171
 - `not_espei_ready:literature_gate;value_differs_from_release`: 6
-- `not_espei_ready:literature_gate;zpf_region_inert`: 10
-- `phase_not_in_target_tdb`: 38
+- `not_espei_ready:literature_gate;zpf_region_inert`: 11
+- `phase_not_in_target_tdb`: 36
 - `phase_not_in_target_tdb;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped`: 1
 - `phase_not_in_target_tdb;phase_rule:phase_label_not_mapped`: 4
-- `phase_not_in_target_tdb;phase_rule:phase_label_not_mapped;phase_rule:phase_not_printed`: 1
 - `phase_rule:compound_property_not_fittable`: 277
 - `phase_rule:compound_property_not_fittable;phase_rule:phase_label_ambiguous`: 1
 - `phase_rule:compound_property_not_fittable;phase_rule:phase_label_not_mapped`: 4
 - `phase_rule:liquid_impossible_at_T`: 1
+- `phase_rule:not_espei_ready`: 14
+- `phase_rule:not_espei_ready;zpf_region_inert`: 2
 - `phase_rule:phase_label_ambiguous`: 65
 - `phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped`: 7
 - `phase_rule:phase_label_ambiguous;reference_state_not_ser`: 4
 - `phase_rule:phase_label_not_mapped`: 282
 - `phase_rule:phase_label_not_mapped;phase_several_models_in_target_tdb`: 1
 - `phase_rule:phase_label_not_mapped;reference_phase_not_in_target_tdb`: 5
-- `phase_rule:phase_not_printed`: 13
+- `phase_rule:phase_not_printed`: 1
 - `phase_rule:temperature_implausible`: 6
-- `phase_several_models_in_target_tdb`: 2
 - `pycalphad_evaluation_unstable`: 3
-- `reference_phase_not_in_target_tdb`: 36
+- `reference_phase_not_in_target_tdb`: 32
 - `reference_state_not_ser`: 57
 - `system_alias_vertex_ambiguous`: 8
 - `value_differs_from_release`: 53
-- `zpf_region_inert`: 242
+- `zpf_region_inert`: 237
 
-Datasets kept with some values removed: **1225** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 13916 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
+Datasets kept with some values removed: **1231** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 13273 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
 
 ## DFT endmember datasets
 
-Candidates (on-hull binary compounds of the published hull layers; accepted literature DFT HM_FORM values in kJ/mol-atom): literature 625, mp 677, oqmd 677. Values written (one per TDB model that has exactly one endmember at the compound's composition): literature 1886, mp 1251, oqmd 1251. Exclusions (compound or compound x TDB model) by reason:
+Candidates (on-hull binary compounds of the published hull layers; accepted literature DFT HM_FORM values in kJ/mol-atom): literature 595, mp 677, oqmd 677. Values written (one per TDB model that has exactly one endmember at the compound's composition): literature 1770, mp 1251, oqmd 1251. Exclusions (compound or compound x TDB model) by reason:
 
 | source | reason | count |
 |---|---|---:|
-| literature | composition_not_parsed | 263 |
-| literature | label_not_mapped_to_registry_phase | 417 |
+| literature | boride_primary_source_state_review_pending | 2 |
+| literature | boride_source_identity_unresolved | 2 |
+| literature | composition_not_parsed | 243 |
+| literature | label_not_mapped_to_registry_phase | 416 |
 | literature | no_endmember_at_composition | 75 |
-| literature | several_endmembers_at_composition | 101 |
+| literature | several_endmembers_at_composition | 74 |
 | mp | not_in_phase_registry | 4496 |
 | oqmd | not_in_phase_registry | 6805 |
 
@@ -628,63 +630,62 @@ Every exclusion is listed in `validation.json` (`dft_excluded`).
 
 ## Uncertainty budget and method floors (2026-10-24)
 
-Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) of the published uncertainty budgets (README.md, 'Uncertainties'); calibration `orchid-uncertainty-calibration 2026-10-24 (audit round 2) sha256 b29f39e1cb42` (experimental/CALIBRATION_EXPERIMENT.json, a byte copy of the literature release's UNCERTAINTY_CALIBRATION.json). Calibrated floors (>= 20 pairs from >= 10 states):
+Weights follow sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) of the published uncertainty budgets (README.md, 'Uncertainties'); calibration `orchid-uncertainty-calibration 2026-10-24 (audit round 2) sha256 2d0540d5478e` (experimental/CALIBRATION_EXPERIMENT.json, a byte copy of the literature release's UNCERTAINTY_CALIBRATION.json). Calibrated floors (>= 20 pairs from >= 10 states):
 
 | value type | method class | pairs | states | basis | robust sigma | 95 % CI | floor | unit |
 |---|---|---:|---:|---|---:|---|---:|---|
 | GM_FORM | unknown | 37 | 17 | calibrated | 1.122 | 0.6605-2.097 | 1.2 | kJ/mol-atom |
-| GM_FORM | model_calculated (vs experiment) | 203 | 149 | calibrated | 0.6375 | 0.5634-0.8747 | 0.7 | kJ/mol-atom |
+| GM_FORM | model_calculated (vs experiment) | 211 | 153 | calibrated | 0.682 | 0.593-0.8896 | 0.7 | kJ/mol-atom |
 | HEAT_CONTENT | unknown | 161 | 76 | calibrated | 0.07967 | 0.04822-0.1326 | 0.5 | kJ/mol |
-| HM_FORM | experimental_unspecified | 30 | 10 | calibrated | 3.77 | 2.133-6.594 | 3.8 | kJ/mol-atom |
 | HM_FORM | kems_vapour | 20 | 15 | calibrated | 4.193 | 1.153-7.653 | 4.2 | kJ/mol-atom |
 | HM_FORM | solution_reaction_calorimetry | 80 | 47 | calibrated | 3.145 | 2.202-4.602 | 3.2 | kJ/mol-atom |
-| HM_FORM | unknown | 297 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
-| HM_FORM | model_calculated (vs experiment) | 2075 | 371 | calibrated | 3.395 | 2.965-4.16 | 3.4 | kJ/mol-atom |
-| LATTICE_LENGTH | unknown | 601 | 196 | calibrated | 0.002277 | 0.002011-0.002664 | 0.0023 | relative (fraction of the value) |
+| HM_FORM | unknown | 290 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
+| HM_FORM | model_calculated (vs experiment) | 2030 | 359 | calibrated | 3.855 | 3.158-4.581 | 3.9 | kJ/mol-atom |
+| LATTICE_LENGTH | unknown | 597 | 196 | calibrated | 0.002277 | 0.002026-0.002664 | 0.0023 | relative (fraction of the value) |
 | LATTICE_LENGTH | xrd | 23 | 21 | calibrated | 0.001206 | 0.000866-0.0022 | 0.0013 | relative (fraction of the value) |
 | LATTICE_LENGTH | model_calculated (vs experiment) | 169 | 85 | calibrated | 0.008107 | 0.005703-0.01284 | 0.0082 | relative (fraction of the value) |
-| SM_FORM | model_calculated (vs experiment) | 114 | 38 | calibrated | 3.232 | 1.601-4.219 | 3.3 | J/K/mol-atom |
-| S_ABS | unknown | 90 | 20 | calibrated | 0.5941 | 0.2851-1.174 | 0.6 | J/K/mol |
-| T_INVARIANT | unknown | 4918 | 1684 | calibrated | 10.48 | 9.33-10.48 | 11 | K |
-| T_INVARIANT | model_calculated (vs experiment) | 14170 | 5382 | calibrated | 3.707 | 3.113-4.411 | 4 | K |
+| SM_FORM | model_calculated (vs experiment) | 118 | 42 | calibrated | 3.232 | 1.938-4.144 | 3.3 | J/K/mol-atom |
+| S_ABS | unknown | 77 | 20 | calibrated | 0.6571 | 0.2851-1.174 | 0.7 | J/K/mol |
+| T_INVARIANT | unknown | 4912 | 1680 | calibrated | 10.48 | 9.435-10.48 | 11 | K |
+| T_INVARIANT | model_calculated (vs experiment) | 14146 | 5377 | calibrated | 3.707 | 3.113-4.3 | 4 | K |
 | T_TRANSITION | unknown | 274 | 53 | calibrated | 15.73 | 10.48-26.21 | 16 | K |
 | X_PHASE | unknown | 3014 | 1426 | calibrated | 0.01048 | 0.01048-0.01153 | 0.011 | mole fraction |
-| X_PHASE | model_calculated (vs experiment) | 16735 | 8821 | calibrated | 0.004448 | 0.004448-0.004448 | 0.005 | mole fraction |
+| X_PHASE | model_calculated (vs experiment) | 16730 | 8821 | calibrated | 0.004448 | 0.004448-0.004448 | 0.005 | mole fraction |
 
 Values per folder and output (sigma_effective in ESPEI units):
 
 | folder | output | values | printed sigma | not printed (method floor) | model (budget) | dft calibrated | ZPF | floor calibrated | floor prior | sigma_eff > printed | sigma raised vs 2026-10-23 | sigma unit | min | q25 | median | q75 | max |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---:|---:|---:|
-| dft/literature | HM_FORM | 1886 | 0 | 0 | 0 | 1886 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 2901.0 | 4442.0 | 7726.0 | 8346.0 | 12165.0 |
-| dft/mp | HM_FORM | 1251 | 0 | 0 | 0 | 1251 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4397.0 | 6183.0 | 9154.0 | 9154.0 | 11468.0 |
-| dft/oqmd | HM_FORM | 1251 | 0 | 0 | 0 | 1251 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4386.0 | 7042.0 | 7379.0 | 8067.0 | 9524.0 |
+| dft/literature | HM_FORM | 1770 | 0 | 0 | 0 | 1770 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 3947.0 | 4221.0 | 7929.0 | 8500.0 | 12165.0 |
+| dft/mp | HM_FORM | 1251 | 0 | 0 | 0 | 1251 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4664.0 | 6183.0 | 9157.0 | 9157.0 | 11815.0 |
+| dft/oqmd | HM_FORM | 1251 | 0 | 0 | 0 | 1251 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4627.0 | 7013.0 | 7444.0 | 8067.0 | 9524.0 |
 | experimental | ACR_CD | 7 | 0 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | 1 (activity) | 2899.2272 | 2899.4808 | 2899.9191 | 2900.48 | 2900.6931 |
 | experimental | ACR_CO | 10 | 0 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 1 (activity) | 2899.0572 | 2899.3424 | 2899.7339 | 2900.1703 | 2900.8997 |
 | experimental | ACR_CR | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 1 (activity) | 2900.0197 | 2900.0232 | 2900.0268 | 2900.0303 | 2900.0339 |
 | experimental | ACR_CU | 40 | 0 | 40 | 0 | 0 | 0 | 0 | 0 | 0 | 40 | 1 (activity) | 2898.9489 | 2899.5199 | 2899.8817 | 2900.0733 | 2901.1674 |
-| experimental | ACR_GE | 10 | 0 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 1 (activity) | 2898.7804 | 2899.8961 | 2900.0219 | 2900.4478 | 2900.9784 |
+| experimental | ACR_GE | 9 | 0 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 9 | 1 (activity) | 2899.5458 | 2899.9551 | 2900.0441 | 2900.5362 | 2900.9784 |
 | experimental | ACR_MO | 11 | 0 | 11 | 0 | 0 | 0 | 0 | 0 | 0 | 11 | 1 (activity) | 2899.8742 | 2899.9325 | 2899.9794 | 2900.0796 | 2901.2376 |
 | experimental | ACR_PB | 36 | 0 | 36 | 0 | 0 | 0 | 0 | 0 | 0 | 36 | 1 (activity) | 2899.1479 | 2899.6688 | 2899.9744 | 2900.3949 | 2900.6493 |
 | experimental | ACR_SI | 10 | 0 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 1 (activity) | 2898.7804 | 2899.8961 | 2900.0219 | 2900.4478 | 2900.9784 |
 | experimental | ACR_TL | 21 | 0 | 21 | 0 | 0 | 0 | 0 | 0 | 0 | 21 | 1 (activity) | 2898.9618 | 2899.4317 | 2900.0484 | 2900.3829 | 2900.8749 |
 | experimental | ACR_YB | 13 | 0 | 13 | 0 | 0 | 0 | 0 | 0 | 0 | 13 | 1 (activity) | 2899.6401 | 2899.7278 | 2900.058 | 2900.2218 | 2900.7497 |
 | experimental | ACR_ZR | 21 | 0 | 21 | 0 | 0 | 0 | 0 | 0 | 0 | 21 | 1 (activity) | 2899.1879 | 2899.9849 | 2900.1625 | 2900.3215 | 2900.9534 |
-| experimental | CPM | 565 | 0 | 565 | 0 | 0 | 0 | 0 | 0 | 0 | 565 | J/mol-atom/K | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 |
+| experimental | CPM | 180 | 0 | 180 | 0 | 0 | 0 | 0 | 0 | 0 | 180 | J/mol-atom/K | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 |
 | experimental | GMR | 40 | 8 | 32 | 0 | 0 | 0 | 14 | 9 | 8 | 8 | J/mol-atom | 1000.0 | 1200.0 | 1200.0 | 1400.0 | 2000.0 |
-| experimental | HMR | 491 | 233 | 258 | 0 | 0 | 0 | 101 | 369 | 174 | 346 | J/mol-atom | 500.0 | 500.0 | 1000.0 | 1676.5 | 10000.0 |
-| experimental | HM_FORM | 440 | 245 | 195 | 0 | 0 | 0 | 357 | 13 | 181 | 376 | J/mol-atom | 1000.0 | 3200.0 | 3500.0 | 4200.0 | 13200.0 |
-| experimental | SM | 11 | 0 | 11 | 0 | 0 | 0 | 9 | 0 | 0 | 11 | J/mol-atom/K | 0.6 | 0.6 | 0.6 | 0.6 | 1.0 |
+| experimental | HMR | 463 | 208 | 255 | 0 | 0 | 0 | 94 | 344 | 161 | 331 | J/mol-atom | 500.0 | 500.0 | 1000.0 | 3200.0 | 10000.0 |
+| experimental | HM_FORM | 436 | 241 | 195 | 0 | 0 | 0 | 324 | 13 | 183 | 378 | J/mol-atom | 1000.0 | 3200.0 | 3500.0 | 4200.0 | 13200.0 |
+| experimental | SM | 11 | 0 | 11 | 0 | 0 | 0 | 9 | 0 | 0 | 11 | J/mol-atom/K | 0.7 | 0.7 | 0.7 | 0.7 | 1.0 |
 | experimental | SMR | 15 | 1 | 14 | 0 | 0 | 0 | 0 | 15 | 0 | 14 | J/mol-atom/K | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 |
 | experimental | SM_FORM | 42 | 19 | 23 | 0 | 0 | 0 | 0 | 42 | 7 | 30 | J/mol-atom/K | 0.5 | 1.0 | 1.0 | 1.55 | 5.4 |
-| experimental | ZPF | 1145 | 0 | 0 | 0 | 0 | 1145 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |
-| invariants | ZPF | 5589 | 0 | 0 | 0 | 0 | 5589 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |
+| experimental | ZPF | 1054 | 0 | 0 | 0 | 0 | 1054 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |
+| invariants | ZPF | 5549 | 0 | 0 | 0 | 0 | 5549 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |
 | model | ACR_CU | 21 | 0 | 0 | 21 | 0 | 0 | 0 | 21 | 0 | 21 | 1 (activity) | 999.9072 | 999.9634 | 1000.0181 | 1000.0375 | 1000.2979 |
 | model | ACR_MO | 11 | 0 | 0 | 11 | 0 | 0 | 0 | 11 | 0 | 11 | 1 (activity) | 999.8504 | 999.9157 | 1000.019 | 1000.082 | 1000.1402 |
 | model | ACR_ZR | 21 | 0 | 0 | 21 | 0 | 0 | 0 | 21 | 0 | 21 | 1 (activity) | 999.724 | 999.9108 | 999.9586 | 1000.0229 | 1000.2174 |
 | model | CPM | 6 | 0 | 0 | 6 | 0 | 0 | 0 | 6 | 0 | 6 | J/mol-atom/K | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 |
 | model | GMR | 17 | 0 | 0 | 17 | 0 | 0 | 11 | 6 | 0 | 0 | J/mol-atom | 700.0 | 700.0 | 700.0 | 1000.0 | 1000.0 |
-| model | HMR | 151 | 0 | 0 | 151 | 0 | 0 | 113 | 38 | 1 | 151 | J/mol-atom | 1000.0 | 2200.0 | 3400.0 | 3400.0 | 3400.0 |
-| model | HM_FORM | 301 | 0 | 0 | 301 | 0 | 0 | 301 | 0 | 0 | 301 | J/mol-atom | 3400.0 | 3400.0 | 3400.0 | 3400.0 | 3400.0 |
+| model | HMR | 149 | 0 | 0 | 149 | 0 | 0 | 111 | 38 | 1 | 149 | J/mol-atom | 1000.0 | 1000.0 | 3900.0 | 3900.0 | 3900.0 |
+| model | HM_FORM | 301 | 0 | 0 | 301 | 0 | 0 | 301 | 0 | 0 | 301 | J/mol-atom | 3900.0 | 3900.0 | 3900.0 | 3900.0 | 3900.0 |
 | model | SM | 18 | 0 | 0 | 18 | 0 | 0 | 0 | 18 | 0 | 18 | J/mol-atom/K | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 |
 | model | SMR | 14 | 0 | 0 | 14 | 0 | 0 | 10 | 4 | 0 | 14 | J/mol-atom/K | 1.0 | 1.575 | 3.3 | 3.3 | 3.3 |
 | model | SM_FORM | 62 | 0 | 0 | 62 | 0 | 0 | 62 | 0 | 0 | 62 | J/mol-atom/K | 3.3 | 3.3 | 3.3 | 3.3 | 3.3 |

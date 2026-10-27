@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these data, please cite this Zenodo record and the original sources of the data and, for each diagram, its original evaluation and the Okamoto handbook as the compilation."
-title: "ORCHID assessed phase assemblages (binary systems)"
+title: "ORCHID-Assemblages: assessed phase assemblages of binary systems"
 type: dataset
 authors:
   - family-names: "Arróyave"

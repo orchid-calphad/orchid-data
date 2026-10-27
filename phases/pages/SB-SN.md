@@ -12,9 +12,9 @@ Table: Phases of the Sb–Sn system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-sb-sn-a4-diamond); _phase:sb-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 5 | 7 |
+| [DIAMOND_A4](#phase-sb-sn-a4-diamond); _phase:sb-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [BCT_A5](#phase-sb-sn-a5-bct); _phase:sb-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–532.43 K, x(Sn) 0.88303–1 | 17 | 7 |
-| [RHOMBOHEDRAL_A7](#phase-sb-sn-a7-rhombohedral); _phase:sb-sn:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–903.78 K, x(Sn) 0–0.15923 | 15 | 7 |
+| [RHOMBOHEDRAL_A7](#phase-sb-sn-a7-rhombohedral); _phase:sb-sn:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–903.78 K, x(Sn) 0–0.15923 | 20 | 7 |
 | [BCC_A2](#phase-sb-sn-bcc-a2); _phase:sb-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [FCC_A1](#phase-sb-sn-fcc-a1); _phase:sb-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [HCP_A3](#phase-sb-sn-hcp-a3); _phase:sb-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
@@ -29,11 +29,10 @@ Table: Phases of the Sb–Sn system (10)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: not stable in 7 calculated diagram(s)
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-sn:a4-diamond)
 
-Names (9): _corpus: _corpus:phase:sb-sn:a4-diamond  
-_paper: _paper:10.1016/j.jallcom.2016.11.003:(αSb)  
+Names (8): _corpus: _corpus:phase:sb-sn:a4-diamond  
 _tdb: _tdb:SbSn-07Kro.tdb:DIAMOND_A4, tdb:SbSn-08Che.tdb:DIAMOND_A4, tdb:SbSn-19Lys.tdb:DIAMOND_A4, tdb:SbSn-20Gie.tdb:DIAMOND_A4, tdb:SbSn-21Zha.tdb:DIAMOND_A4, tdb:SbSn-86Jon.tdb:DIAMOND_A4, tdb:SbSn-96Oh-LB.tdb:DIAMOND_A4  
 
 
@@ -88,11 +87,11 @@ _tdb: _tdb:SbSn-07Kro.tdb:DIAMOND_A4, tdb:SbSn-08Che.tdb:DIAMOND_A4, tdb:SbSn-19
 55: CONST DIAMOND_A4 : SN : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
-- [doi:10.1007/s11664-008-0464-x](https://doi.org/10.1007/s11664-008-0464-x) Sinn-Wen Chen, Chih-Chi Chen, Wojcieh Gierlotka, An-Ren Zi, Po-Yin Chen, Hsin-Jay Wu, Phase Equilibria of the Sn-Sb Binary System, Journal of Elec Materi 37, 992-1002 (2008).  
-_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/s10853-019-03934-6](https://doi.org/10.1007/s10853-019-03934-6) Wojciech Gierlotka, On the binary Sb–Sn system: ab initio calculation and thermodynamic remodeling, J Mater Sci 55, 347-357 (2020).  
+_assessment that models this phase_
+- [doi:10.1007/s11664-008-0464-x](https://doi.org/10.1007/s11664-008-0464-x) Sinn-Wen Chen, Chih-Chi Chen, Wojcieh Gierlotka, An-Ren Zi, Po-Yin Chen, Hsin-Jay Wu, Phase Equilibria of the Sn-Sb Binary System, Journal of Elec Materi 37, 992-1002 (2008).  
 _assessment that models this phase_
 - [doi:10.1016/0925-8388(95)02191-4](https://doi.org/10.1016/0925-8388%2895%2902191-4) Chang-Seok Oh, Jae-Hyeok Shim, Byeong-Joo Lee, Dong Nyung Lee, A thermodynamic study on the AgSbSn system, Journal of Alloys and Compounds 238, 155-166 (1996).  
 _assessment that models this phase_
@@ -102,8 +101,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1179/mst.1986.2.9.913](https://doi.org/10.1179/mst.1986.2.9.913) B. Jönsson, J. Ågren, Thermodynamic assessment of Sb–Sn system, Materials Science and Technology 2, 913-916 (1986).  
 _assessment that models this phase_
-- [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003) Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017).  
-_reports values for this phase_
 
 ## BCT_A5 (Sb–Sn)
 
@@ -197,11 +194,11 @@ _cited as the source of values for this phase_
 - Id: `phase:sb-sn:a7-rhombohedral`; status `assigned`
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–903.78 K, x(Sn) 0–0.15923
-- Literature: 15 values (15 accepted) from 2 papers
+- Literature: 20 values (20 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-sn:a7-rhombohedral)
 
-Names (11): _corpus: _corpus:phase:sb-sn:a7-rhombohedral, corpus:phase:sb-sn:rhombohedral-a7  
-_paper: _paper:10.1007/s10853-019-03934-6:Rhombohedral_A7, paper:10.1007/s11664-008-0464-x:Sb  
+Names (12): _corpus: _corpus:phase:sb-sn:a7-rhombohedral, corpus:phase:sb-sn:rhombohedral-a7  
+_paper: _paper:10.1007/s10853-019-03934-6:Rhombohedral_A7, paper:10.1007/s11664-008-0464-x:Sb, paper:10.1016/j.jallcom.2016.11.003:(αSb)  
 _tdb: _tdb:SbSn-07Kro.tdb:RHOMBOHEDRAL_A7, tdb:SbSn-08Che.tdb:RHOMBOHEDRAL_A7, tdb:SbSn-19Lys.tdb:RHOMBOHEDRAL_A7, tdb:SbSn-20Gie.tdb:RHOMBOHEDRAL_A7, tdb:SbSn-21Zha.tdb:RHOMBOHEDRAL_A7, tdb:SbSn-86Jon.tdb:RHOMBOHEDRAL_A7, tdb:SbSn-96Oh-LB.tdb:RHOMBOHEDRAL_A7  
 
 
@@ -256,10 +253,10 @@ _tdb: _tdb:SbSn-07Kro.tdb:RHOMBOHEDRAL_A7, tdb:SbSn-08Che.tdb:RHOMBOHEDRAL_A7, t
 65: CONST RHOMBOHEDRAL_A7 : SB% SN : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1007/s11664-008-0464-x](https://doi.org/10.1007/s11664-008-0464-x) Sinn-Wen Chen, Chih-Chi Chen, Wojcieh Gierlotka, An-Ren Zi, Po-Yin Chen, Hsin-Jay Wu, Phase Equilibria of the Sn-Sb Binary System, Journal of Elec Materi 37, 992-1002 (2008).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s10853-019-03934-6](https://doi.org/10.1007/s10853-019-03934-6) Wojciech Gierlotka, On the binary Sb–Sn system: ab initio calculation and thermodynamic remodeling, J Mater Sci 55, 347-357 (2020).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0925-8388(95)02191-4](https://doi.org/10.1016/0925-8388%2895%2902191-4) Chang-Seok Oh, Jae-Hyeok Shim, Byeong-Joo Lee, Dong Nyung Lee, A thermodynamic study on the AgSbSn system, Journal of Alloys and Compounds 238, 155-166 (1996).  
@@ -270,6 +267,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1179/mst.1986.2.9.913](https://doi.org/10.1179/mst.1986.2.9.913) B. Jönsson, J. Ågren, Thermodynamic assessment of Sb–Sn system, Materials Science and Technology 2, 913-916 (1986).  
 _assessment that models this phase_
+- [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003) Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017).  
+_reports values for this phase_
 - [doi:10.1016/s0925-8388(00)01243-3](https://doi.org/10.1016/s0925-8388%2800%2901243-3) V. Vassiliev, Y. Feutelais, M. Sghaier, B. Legendre, Thermodynamic investigation in In–Sb, Sb–Sn and In–Sb–Sn liquid systems, Journal of Alloys and Compounds 314, 198-205 (2001).  
 _cited as the source of values for this phase_
 
@@ -813,8 +812,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -823,7 +822,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -834,7 +833,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

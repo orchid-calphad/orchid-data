@@ -19,11 +19,11 @@ Table: Phases of the Au–Tb system (13)
 | [AU51TB14](#phase-au-tb-au51tb14); _phase:au-tb:au51tb14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1445.8 K, x(Tb) 0.21538–0.21538 | 10 | 2 |
 | [AU6TB](#phase-au-tb-au6tb); _phase:au-tb:au6tb_ | Au6Sm · tP56 · P4_2/ncm (138) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1130.73 K, x(Tb) 0.14286–0.14286 | 11 | 2 |
 | [AUTB_B2](#phase-au-tb-autb-b2); _phase:au-tb:autb-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1723.29–1863.91 K, x(Tb) 0.5–0.5 | 8 | 2 |
-| [AUTB_B33](#phase-au-tb-autb-b33); _phase:au-tb:autb-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1731.41 K, x(Tb) 0.5–0.5 | 14 | 2 |
+| [AUTB_B33](#phase-au-tb-autb-b33); _phase:au-tb:autb-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1731.41 K, x(Tb) 0.5–0.5 | 12 | 2 |
 | [AUTB2_C37](#phase-au-tb-autb2-c37); _phase:au-tb:autb2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1272.88 K, x(Tb) 0.66667–0.66667 | 10 | 2 |
 | [BCC_A2](#phase-au-tb-bcc-a2); _phase:au-tb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1483.16–2499.49 K, x(Tb) 0.98741–1 | 4 | 2 |
 | [FCC_A1](#phase-au-tb-fcc-a1); _phase:au-tb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1484.51 K, x(Tb) 0–0.02096 | 8 | 2 |
-| [HCP_A3](#phase-au-tb-hcp-a3); _phase:au-tb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1626.9 K, x(Tb) 0.98399–1 | 5 | 2 |
+| [HCP_A3](#phase-au-tb-hcp-a3); _phase:au-tb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1626.9 K, x(Tb) 0.98399–1 | 9 | 2 |
 | [LIQUID](#phase-au-tb-liquid); _phase:au-tb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1072.01–2500 K, x(Tb) 0–1 | 68 | 2 |
 
 ## AU10TB7 (Au–Tb)
@@ -316,11 +316,11 @@ _cited as the source of values for this phase_
 - Structure: CrB · B33 · oC8 · Cmcm (63); type `st:b33-crb-oc8`; tier A: standard phase name; confidence high
 - Stoichiometry: Au 0.5000, Tb 0.5000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1731.41 K, x(Tb) 0.5–0.5
-- Literature: 14 values (14 accepted) from 2 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-tb:autb-b33)
 
-Names (7): _corpus: _corpus:phase:au-tb:autb-b33  
-_paper: _paper:10.1007/s11669-016-0460-4:(αTb), paper:10.1007/s11669-016-0460-4:αAuTb, paper:10.1016/j.jallcom.2016.01.260:TbAu, paper:10.1016/j.jallcom.2016.01.260:αTbAu  
+Names (6): _corpus: _corpus:phase:au-tb:autb-b33  
+_paper: _paper:10.1007/s11669-016-0460-4:αAuTb, paper:10.1016/j.jallcom.2016.01.260:TbAu, paper:10.1016/j.jallcom.2016.01.260:αTbAu  
 _tdb: _tdb:AuTb-16Otm.tdb:AUTB_B33, tdb:AuTb-16Wan.tdb:AUTB_B33  
 
 
@@ -469,11 +469,11 @@ _cited as the source of values for this phase_
 - Id: `phase:au-tb:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1626.9 K, x(Tb) 0.98399–1
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-tb:hcp-a3)
 
-Names (4): _corpus: _corpus:phase:au-tb:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2016.01.260:(αTb)  
+Names (5): _corpus: _corpus:phase:au-tb:hcp-a3  
+_paper: _paper:10.1007/s11669-016-0460-4:(αTb), paper:10.1016/j.jallcom.2016.01.260:(αTb)  
 _tdb: _tdb:AuTb-16Otm.tdb:HCP_A3, tdb:AuTb-16Wan.tdb:HCP_A3  
 
 
@@ -498,7 +498,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.jallcom.2016.01.260](https://doi.org/10.1016/j.jallcom.2016.01.260) Samira Otmani, Kamal Mahdouk, Thermodynamic assessment of the terbium–gold binary system, Journal of Alloys and Compounds 670, 369-373 (2016).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-016-0460-4](https://doi.org/10.1007/s11669-016-0460-4) S. L. Wang, J. L. Li, L. L. Qiu, L. J. Zhou, Y. H. Li, C. Q. Ren et al., Thermodynamic Assessments of the Au-Tb and Au-Lu Systems, J. Phase Equilib. Diffus. 37, 319-326 (2016).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/s0966-9795(99)00099-0](https://doi.org/10.1016/s0966-9795%2899%2900099-0) A Saccone, D Macciò, S Delfino, R Ferro, The phase diagram of the terbium–gold alloy system, Intermetallics 8, 229-237 (2000).  
 _cited as the source of values for this phase_
 
@@ -542,8 +542,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -552,7 +552,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -563,7 +563,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

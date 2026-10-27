@@ -113,7 +113,7 @@
    "value": 1.0,
    "name": "ESPEI fallback sigma = 1 (no default for GM)"
   },
-  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset; model-calculated values: sigma_method is the model class's deviation from experiment (or its prior), not a measurement uncertainty; exclude them with the `model` tag if you prefer",
+  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); this export uses a scalar weight for equilibrium/activity data; unequal-sigma groups are split before release; model-calculated values: sigma_method is the model class's deviation from experiment (or its prior), not a measurement uncertainty; exclude them with the `model` tag if you prefer",
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
@@ -129,7 +129,7 @@
      "sigma_effective": 700.0,
      "method_class": "model_calculated",
      "method_basis": "calibrated",
-     "method_n_pairs": 203,
+     "method_n_pairs": 211,
      "method_entry": "model/GM_FORM"
     },
     "sigma_effective_used": 700.0,
@@ -149,7 +149,7 @@
      "sigma_effective": 700.0,
      "method_class": "model_calculated",
      "method_basis": "calibrated",
-     "method_n_pairs": 203,
+     "method_n_pairs": 211,
      "method_entry": "model/GM_FORM"
     },
     "sigma_effective_used": 700.0,

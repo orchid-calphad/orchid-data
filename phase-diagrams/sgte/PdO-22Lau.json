@@ -1,1 +1,1 @@
-{"tdb":"PdO-22Lau.tdb","elements":["Pd","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"PdO-22Lau.tdb","elements":["Pd","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"2a4381b59d9a925410e847965fc5b6ca7082a3c8553eeea67114cd35f8fbaeed","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

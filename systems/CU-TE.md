@@ -199,11 +199,7 @@ Table: Phase transition, Cu–Te system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 148.15 K | 148.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 9; `ORC-C6PZLOBSJG` |  |
-| Phase transition | 186.7 K | 186.7 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 67; `ORC-UBM4TKFRAQ` |  |
 | Phase transition | 248.15 K | 248.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 10; `ORC-ZSWVEIQMAK` |  |
-| Phase transition | 308.5 K | 308.5 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 68; `ORC-CBS47HMSJF` |  |
-| Phase transition | 312.5 K | 312.5 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 17; `ORC-TYVH6H7LYX` |  |
-| Phase transition | 352.8 K | 352.8 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 69; `ORC-XZH5YW7QRF` |  |
 | Phase transition | 433.15 K | 433.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 62; `ORC-EQALPSJPGU` |  |
 | Phase transition | 433.15 K | 433.15 | 5; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Kubaschewski 1973_ [doi](https://doi.org/10.1002/bbpc.19730770203) | Table 1, p. 2, row 20; `ORC-YFXMGODT44` |  |
 | Phase transition | 440.15 K | 440.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 25; `ORC-X2KCJJU3CH` |  |
@@ -214,11 +210,9 @@ Table: Phase transition, Cu–Te system
 | Phase transition | 453.15 K | 453.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 48; `ORC-MNFKO2SL7P` |  |
 | Phase transition | 454.15 K | 454.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 53; `ORC-6CDSLI63OJ` |  |
 | Phase transition | 457.15 K | 457.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 57; `ORC-PWZNLC7PO2` |  |
+| Phase transition | 459.85 K | 459.85 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 67; `ORC-UBM4TKFRAQ` |  |
 | Phase transition | 463.15 K | 463.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 30; `ORC-2XFHH4VRH5` |  |
 | Phase transition | 468.15 K | 468.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 5; `ORC-MB4X2A3WVO` |  |
-| Phase transition | 475 K | 475 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 61; `ORC-3W4MKHGPKW` |  |
-| Phase transition | 477.5 K | 477.5 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 15; `ORC-ZWJGRXZK2X` |  |
-| Phase transition | 492.5 K | 492.5 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 19; `ORC-CJSGF6BGNH` |  |
 | Phase transition | 497.15 K | 497.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 44; `ORC-NWMXYWKH6T` |  |
 | Phase transition | 517.15 K | 517.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 58; `ORC-BKOZRMSCZJ` |  |
 | Phase transition | 526.15 K | 526.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 26; `ORC-VCOA7QBBOY` |  |
@@ -231,8 +225,10 @@ Table: Phase transition, Cu–Te system
 | Phase transition | 548.15 K | 548.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 34; `ORC-2K45C5QJE7` |  |
 | Phase transition | 548.15 K | 548.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 39; `ORC-3GXUATP5UA` |  |
 | Phase transition | 578.15 K | 578.15 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 13; `ORC-67P3GAHW7A` |  |
+| Phase transition | 581.65 K | 581.65 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 68; `ORC-CBS47HMSJF` |  |
 | Phase transition | 583.15 K | 583.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 50; `ORC-FTQBVMU2TL` |  |
 | Phase transition | 583.15 K | 583.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 31; `ORC-5G2ERTFVW6` |  |
+| Phase transition | 585.65 K | 585.65 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 17; `ORC-TYVH6H7LYX` |  |
 | Phase transition | 586.15 K | 586.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 35; `ORC-L2GKMSBAML` |  |
 | Phase transition | 589.15 K | 589.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 2; `ORC-Z2AOPERHCR` |  |
 | Phase transition | 590.15 K | 590.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 64; `ORC-42TQYQERKX` |  |
@@ -243,10 +239,10 @@ Table: Phase transition, Cu–Te system
 | Phase transition | 596.15 K | 596.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 59; `ORC-DMF2HGBA5Q` |  |
 | Phase transition | 597.15 K | 597.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 54; `ORC-PP4P2V2N7J` |  |
 | Phase transition | 600.15 K | 600.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 27; `ORC-SHVHROIKRV` |  |
-| Phase transition | 601.4 K | 601.4 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 70; `ORC-HBBSTEW4AP` |  |
 | Phase transition | 613.15 K | 613.15 | other | experimental | [1] Huang 2021; _cites Koneshova 2001_ | p. 2; `ORC-MPCMA3VPDF` | “CuTe exhibits an orthorhombic structure from room temperature up to the decomposition temperature in Ref. \[14\], whilst ref. \[15\] Shows that it undergoes a crystallographic transformation at 340 C.” |
 | Phase transition | 620.45 K | 620.45 | CuTe | experimental | [1] Huang 2021 | p. 6; `ORC-2MYVVPUFMF.d9b49d` | “The first and second exothermic peaks at 347.3 and 350.7  C in the 1  C∙min1 curve are probably corresponding to the highe and lowetemperature modifications of CuTe and the eutectic reaction of L 4 HeCuTe þ (Te) respectively.” |
 | Phase transition | 625.15 K | 625.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 28; `ORC-KSAKHGYSWF` |  |
+| Phase transition | 625.95 K | 625.95 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 69; `ORC-XZH5YW7QRF` |  |
 | Phase transition | 627.15 K | 627.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 55; `ORC-6ZZP75LEGL` |  |
 | Phase transition | 628.15 K | 628.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 46; `ORC-BV5TOM2MRH` |  |
 | Phase transition | 629.15 K | 629.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 60; `ORC-5SI54EU2CU` |  |
@@ -261,8 +257,11 @@ Table: Phase transition, Cu–Te system
 | Phase transition | 638.15 K | 638.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 41; `ORC-43IMPMRWLB` |  |
 | Phase transition | 713.15 K | 713.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 8; `ORC-VNV5CTOGQX` |  |
 | Phase transition | 725.15 K | 725.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 47; `ORC-SAD2KQVTMZ` |  |
+| Phase transition | 748.15 K | 748.15 | 13; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mukherjee 2019_ [doi](https://doi.org/10.1039/c8dt04351e) | Table 1, p. 2, row 61; `ORC-3W4MKHGPKW` |  |
 | Phase transition | 750.15 K | 750.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 29; `ORC-V3QDA4EYLE` |  |
+| Phase transition | 750.65 K | 750.65 | 3; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Bougnot 1970_ [doi](https://doi.org/10.1016/0025-5408%2870%2990025-5) | Table 1, p. 2, row 15; `ORC-ZWJGRXZK2X` |  |
 | Phase transition | 756.15 K | 756.15 | 12; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Qiu 2017_ [doi](https://doi.org/10.1039/c7ra02145c) | Table 1, p. 2, row 56; `ORC-QL2GXBZHPR` |  |
+| Phase transition | 765.65 K | 765.65 | 4; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Guastavino 1973_ [doi](https://doi.org/10.1016/0025-5408%2873%2990078-0) | Table 1, p. 2, row 19; `ORC-CJSGF6BGNH` |  |
 | Phase transition | 813.15 K | 813.15 | 11; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 1, p. 2, row 52; `ORC-AW7U5KGB4Q` |  |
 | Phase transition | 823.15 K | 823.15 | 7; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Tsypin 1974_ | Table 1, p. 2, row 33; `ORC-FXK2VOOVVD` |  |
 | Phase transition | 833.15 K | 833.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 4; `ORC-S7SRPIAEY3` |  |
@@ -270,7 +269,8 @@ Table: Phase transition, Cu–Te system
 | Phase transition | 841.15 K | 841.15 | 14; _alloy: Te 0.333333_ | model | [1] Huang 2021; _cites Ssub6 2017_ | Table 1, p. 2, row 66; `ORC-Y3HWRARRHW` |  |
 | Phase transition | 848.15 K | 848.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 42; `ORC-K3VV3ZBJLG` |  |
 | Phase transition | 864.15 K | 864.15 | 8; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | Table 1, p. 2, row 37; `ORC-QBTPZ2AUNY` |  |
-| Phase transition | 877.7 K | 877.7 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 71; `ORC-OJO2JDC4LD` |  |
+| Phase transition | 874.55 K | 874.55 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 70; `ORC-HBBSTEW4AP` |  |
+| Phase transition | 1150.85 K | 1150.85 | 15; _alloy: Te 0.333333_ | experimental | [1] Huang 2021 | Table 1, p. 2, row 71; `ORC-OJO2JDC4LD` |  |
 
 ### Phase equilibrium (25)
 
@@ -366,10 +366,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -378,7 +378,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -389,7 +389,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -399,7 +399,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -409,7 +409,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

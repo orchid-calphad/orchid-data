@@ -31,7 +31,7 @@
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AET63ATDZX.bb7fb2",
  "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
- "weight": 0.333333,
+ "weight": 0.285714,
  "bibtex": "gokhalend_c01258",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -64,7 +64,7 @@
    "value": 0.2,
    "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
   },
-  "weight_rule": "dataset weight = ESPEI experimental default sigma_SM = 0.2 J/mol/K / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset",
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_SM = 0.2 J/mol/K / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); this export uses a scalar weight for equilibrium/activity data; unequal-sigma groups are split before release",
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
@@ -73,19 +73,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": 0.05,
-     "sigma_method": 0.6,
+     "sigma_method": 0.7,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 0.6,
+     "sigma_effective": 0.7,
      "method_class": "evaluated_compilation",
      "method_basis": "calibrated",
-     "method_n_pairs": 90,
+     "method_n_pairs": 77,
      "method_entry": "value_types/S_ABS/classes/unknown"
     },
-    "sigma_effective_used": 0.6,
-    "weight_per_value_equivalent": 0.333333,
-    "weight_used": 0.333333
+    "sigma_effective_used": 0.7,
+    "weight_per_value_equivalent": 0.285714,
+    "weight_used": 0.285714
    }
   ]
  },
@@ -93,7 +93,7 @@
   "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
   "suggested_weight": 1.0,
   "weight_before_2026_10_24": 1.0,
-  "weight_written": 0.333333,
+  "weight_written": 0.285714,
   "sigma_floor": 0.2,
   "sigma_floor_unit": "J/mol/K",
   "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"

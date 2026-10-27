@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AG-SE.html · Markdown: https://data.orchid-project.org/systems/AG-SE.md
 
-95 accepted literature values from 2 paper(s) (experimental 60, model 9, DFT 24, unspecified 2); 3 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+95 accepted literature values from 2 paper(s) (experimental 59, model 10, DFT 24, unspecified 2); 3 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SE.json) · [CSV](https://data.orchid-project.org/systems/AG-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SE/AgSe-18Li.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AG-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-SE.html) · [Markdown](https://data.orchid-project.org/systems/AG-SE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 60 |
-| model | 9 |
+| experimental | 59 |
+| model | 10 |
 | DFT | 24 |
 | unspecified | 2 |
 
@@ -118,7 +118,7 @@ Table: Enthalpies of formation, Ag–Se system (40)
 | β-Ag2Se | [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | -11.6833 kJ/mol-atom | 298.15 | experimental | -21.663 (mp-aaabgjqe) | -7.938 (oqmd-1374449) | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 12; `ORC-IR25DWRF5G.7f35b1` |  |
 | β-Ag2Se | [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | -11.68 kJ/mol-atom | 298.15 | experimental | -21.663 (mp-aaabgjqe) | -7.938 (oqmd-1374449) | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 11; `ORC-FCNMFTUR4E.f22bb3` |  |
 | β-Ag2Se | [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | -11.6733 kJ/mol-atom | 298.15 | experimental | -21.663 (mp-aaabgjqe) | -7.938 (oqmd-1374449) | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 10; `ORC-DYLEZCG4HM.87c197` |  |
-| β-Ag2Se | [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | -11.67 kJ/mol-atom | 298.15 | experimental | -21.663 (mp-aaabgjqe) | -7.938 (oqmd-1374449) | [1] Li 2018 | Table 1, p. 3, row 16; `ORC-G2E5AOIVAY.1d15e8` |  |
+| β-Ag2Se | [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | -11.67 kJ/mol-atom | 298.15 | model | -21.663 (mp-aaabgjqe) | -7.938 (oqmd-1374449) | [1] Li 2018 | Table 1, p. 3, row 16; `ORC-G2E5AOIVAY.1d15e8` |  |
 | β-Ag2Se | [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | -11.6667 kJ/mol-atom | 298.15 | experimental | -21.663 (mp-aaabgjqe) | -7.938 (oqmd-1374449) | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14; `ORC-PJHC2KGG2M.da54bd` |  |
 | β-Ag2Se |  | -4.127 kJ/mol-atom |  | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 7; `ORC-QDB2TFAHB5.03d7af` |  |
 | β-Ag2Se |  | -3.196 kJ/mol-atom |  | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 8; `ORC-5Y5PRUZMB2.3ca8e9` |  |
@@ -219,10 +219,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -231,7 +231,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -242,7 +242,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -252,7 +252,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -262,7 +262,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

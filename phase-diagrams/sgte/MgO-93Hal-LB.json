@@ -1,1 +1,1 @@
-{"tdb":"MgO-93Hal-LB.tdb","elements":["Mg","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"MgO-93Hal-LB.tdb","elements":["Mg","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"b656673952720e1978f377782b2500ed00805cc6b1a46e735e07c2357038e7c8","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

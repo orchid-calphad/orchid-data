@@ -151,7 +151,7 @@
       "sigma_effective": 0.05,
       "method_class": "model_calculated",
       "method_basis": "calibrated",
-      "method_n_pairs": 16735,
+      "method_n_pairs": 16730,
       "method_entry": "model/X_PHASE"
      }
     }
@@ -183,7 +183,7 @@
       "sigma_effective": 0.005,
       "method_class": "model_calculated",
       "method_basis": "calibrated",
-      "method_n_pairs": 16735,
+      "method_n_pairs": 16730,
       "method_entry": "model/X_PHASE"
      }
     }

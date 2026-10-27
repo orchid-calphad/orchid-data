@@ -1,10 +1,10 @@
 # Al–As–Ga–In–P–Sb system
 
-> Al–As–Ga–In–P–Sb system: 55 accepted literature values (heat capacity / entropy / enthalpy 30, formation 25) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–As–Ga–In–P–Sb system: 30 accepted literature values (heat capacity / entropy / enthalpy 30) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-AS-GA-IN-P-SB.html · Markdown: https://data.orchid-project.org/systems/AL-AS-GA-IN-P-SB.md
 
-55 accepted literature values from 1 paper(s) (model 45, unspecified 10); 0 calculated phase diagram(s).
+30 accepted literature values from 1 paper(s) (model 28, unspecified 2); 0 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-AS-GA-IN-P-SB.json) · [CSV](https://data.orchid-project.org/systems/AL-AS-GA-IN-P-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-AS-GA-IN-P-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-AS-GA-IN-P-SB.html) · [Markdown](https://data.orchid-project.org/systems/AL-AS-GA-IN-P-SB.md)
 
@@ -12,49 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 45 |
-| unspecified | 10 |
+| model | 28 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 25 |
 | heat capacity / entropy / enthalpy | 30 |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Al–As–Ga–In–P–Sb system (25)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| unspecified |  | -166.5 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 7; `ORC-3P2UCAWWEI` |  |
-| unspecified |  | -164.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 8; `ORC-RWG4CSVSSQ` |  |
-| unspecified |  | -148.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 6; `ORC-5256XVKBSM.cd4a24` |  |
-| unspecified |  | -129.9 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 9; `ORC-5VH676PKIY.0bde3c` |  |
-| unspecified |  | -114.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 10; `ORC-6ZJOA6T6ZU.589a05` |  |
-| unspecified |  | -102.1 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 11; `ORC-BP6XGPQUYR` |  |
-| unspecified |  | -99.6 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Ilegems 1974_ | Table AI, p. 19, row 12; `ORC-3RPMGJ5MHT.50ee15` |  |
-| unspecified |  | -99.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Yamaguchi 1996_ | Table AI, p. 19, row 16; `ORC-K4ZU5Z44A6` |  |
-| unspecified |  | -96.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Yamaguchi 1996_ | Table AI, p. 19, row 20; `ORC-SESVXEBSLE` |  |
-| unspecified |  | -88.7 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 17; `ORC-UVAXZRHCUW` |  |
-| unspecified |  | -84.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 14; `ORC-LSSUFHMGNU.42e414` |  |
-| unspecified |  | -78.6 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 4; `ORC-KC3ZSPMCWD` |  |
-| unspecified |  | -74.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 15; `ORC-XWAKEBZHFO.7877f7` |  |
-| unspecified |  | -61.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 1; `ORC-BNDRK7LA5U.d971dd` |  |
-| unspecified |  | -58.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Yamaguchi 1996_ | Table AI, p. 19, row 3; `ORC-7ZZJ2UWM3D` |  |
-| unspecified |  | -58.44 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 2; `ORC-KZT3A5QKQ6.ce49fd` |  |
-| unspecified |  | -51 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 18; `ORC-WWDIHZM6SW.126248` |  |
-| unspecified |  | -48.95 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 19; `ORC-TMOP6UW2LX.58ceaf` |  |
-| unspecified |  | -44.84 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 22; `ORC-JR6EHAD7OF.083dad` |  |
-| unspecified |  | -42.8 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Hultgren 1973_ | Table AI, p. 19, row 24; `ORC-WRLF6MZNU2` |  |
-| unspecified |  | -41.8 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 23; `ORC-PJY4ZQYYI4` |  |
-| unspecified |  | -41.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 21; `ORC-PKBXETSVCR.75bc22` |  |
-| unspecified |  | -32.47 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Ansara 1994_ | Table AI, p. 19, row 26; `ORC-B3BBKENM2D.ce5911` |  |
-| unspecified |  | -30.5 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Onderka 2002; _cites Wagman 1968_ | Table AI, p. 19, row 27; `ORC-LIMGRBQSRY` |  |
-| unspecified |  | -30 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Onderka 2002; _cites Kaufman 1981_ | Table AI, p. 19, row 25; `ORC-5RT26BWS36.06bccb` |  |
 
 ## Other properties
 
@@ -103,8 +68,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -113,7 +78,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -124,7 +89,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

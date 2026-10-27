@@ -51,18 +51,18 @@ Table: Uncertainty budget of the literature values of TiB2
 | -298.2 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (equilibration_other, calibrated) |  |  |  | 10.5 |
 | -292.6 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (equilibration_other, calibrated) |  |  |  | 10.5 |
 | -217.32 | kJ/mol (basis unstated) |  | 5.000e-4 | 12.6 (kems_vapour, calibrated) |  |  |  | 12.6 |
-| -109.7 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
-| -105.2 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
-| -83.1 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
-| -78.9 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
-| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
-| -68.2 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
-| -56.6 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
-| -46.4 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
-| -32.1 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
-| -21.7 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
-| 35 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
-| 68.1 | kJ/mol (basis unstated) |  | 0.05 | 30.03 (dft, calibrated) |  |  |  | 30.03 |
+| -109.7 | kJ/mol (basis unstated) |  | 0.05 | 11.7 (model_calculated, calibrated) |  |  |  | 11.7 |
+| -105.2 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -83.1 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -78.9 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -68.2 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -56.6 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -46.4 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -32.1 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| -21.7 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| 35 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
+| 68.1 | kJ/mol (basis unstated) |  | 0.05 | 30.15 (dft, calibrated) |  |  |  | 30.15 |
 
 ## Sources
 
@@ -71,9 +71,9 @@ Table: Uncertainty budget of the literature values of TiB2
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -82,7 +82,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -93,7 +93,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_dft_benchmark_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -104,7 +104,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

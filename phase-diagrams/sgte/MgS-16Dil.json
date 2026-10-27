@@ -1,1 +1,1 @@
-{"tdb":"MgS-16Dil.tdb","elements":["Mg","S"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"MgS-16Dil.tdb","elements":["Mg","S"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"d52b8ac82d16b6a6cba168469ee472e8ed63283781163970c94e9025fe99139a","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

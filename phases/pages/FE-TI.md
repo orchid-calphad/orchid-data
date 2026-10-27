@@ -13,15 +13,15 @@ Table: Phases of the Fe–Ti system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_4SL](#phase-fe-ti-bcc-4sl); _phase:fe-ti:bcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1780 K, x(Ti) 0.04–0.96 | 12 | 1 |
-| [BCC_A2](#phase-fe-ti-bcc-a2); _phase:fe-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 15 of 16 calculated diagram(s): 300–2499.94 K, x(Ti) 0–1 | 182 | 25 |
-| [B2_BCC](#phase-fe-ti-bcc-b2); _phase:fe-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 7 of 8 calculated diagram(s): 300–2499.76 K, x(Ti) 0–1 | 63 | 8 |
-| [C14_LAVES](#phase-fe-ti-c14-laves); _phase:fe-ti:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 14 of 15 calculated diagram(s): 300–1735.31 K, x(Ti) 0.2589–0.4128 | 106 | 15 |
+| [BCC_A2](#phase-fe-ti-bcc-a2); _phase:fe-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 15 of 15 calculated diagram(s): 300–2499.94 K, x(Ti) 0–1 | 182 | 25 |
+| [B2_BCC](#phase-fe-ti-bcc-b2); _phase:fe-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2499.76 K, x(Ti) 0–1 | 63 | 8 |
+| [C14_LAVES](#phase-fe-ti-c14-laves); _phase:fe-ti:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 14 of 14 calculated diagram(s): 300–1735.31 K, x(Ti) 0.2589–0.4128 | 106 | 15 |
 | [FCC_4SL](#phase-fe-ti-fcc-4sl); _phase:fe-ti:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1172.46–1686.08 K, x(Ti) 0–0.00879 | 0 | 1 |
-| [FCC_A1](#phase-fe-ti-fcc-a1); _phase:fe-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 15 of 16 calculated diagram(s): 939.83–1804.83 K, x(Ti) 0–0.01013 | 0 | 17 |
+| [FCC_A1](#phase-fe-ti-fcc-a1); _phase:fe-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 15 of 15 calculated diagram(s): 939.83–1804.83 K, x(Ti) 0–0.01013 | 0 | 17 |
 | [FE2TI_C14](#phase-fe-ti-fe2ti-c14); _phase:fe-ti:fe2ti-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1699.74 K, x(Ti) 0.26027–0.49993 | 41 | 3 |
 | [FETI_B2](#phase-fe-ti-feti-b2); _phase:fe-ti:feti-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1608.99 K, x(Ti) 0.49594–0.52103 | 99 | 7 |
-| [HCP_A3](#phase-fe-ti-hcp-a3); _phase:fe-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 15 of 16 calculated diagram(s): 300–1939.99 K, x(Ti) 0.99925–1 | 28 | 16 |
-| [LIQUID](#phase-fe-ti-liquid); _phase:fe-ti:liquid_ | liquid | liquid | stable in 15 of 16 calculated diagram(s): 1335.77–2500 K, x(Ti) 0–1 | 256 | 16 |
+| [HCP_A3](#phase-fe-ti-hcp-a3); _phase:fe-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 15 of 15 calculated diagram(s): 300–1939.99 K, x(Ti) 0.99925–1 | 28 | 16 |
+| [LIQUID](#phase-fe-ti-liquid); _phase:fe-ti:liquid_ | liquid | liquid | stable in 15 of 15 calculated diagram(s): 1335.77–2500 K, x(Ti) 0–1 | 256 | 16 |
 
 ## BCC_4SL (Fe–Ti)
 
@@ -67,7 +67,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:fe-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 15 of 16 calculated diagram(s): 300–2499.94 K, x(Ti) 0–1
+- Stability: stable in 15 of 15 calculated diagram(s): 300–2499.94 K, x(Ti) 0–1
 - Literature: 182 values (182 accepted) from 8 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:bcc-a2)
 
@@ -296,7 +296,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in FeTi-21Zha.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeTi-23Wal-3g.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeTi-98Har-LB.tdb also describes the disordered state
-- Stability: stable in 7 of 8 calculated diagram(s): 300–2499.76 K, x(Ti) 0–1
+- Stability: stable in 7 of 7 calculated diagram(s): 300–2499.76 K, x(Ti) 0–1
 - Literature: 63 values (63 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:bcc-b2)
 
@@ -404,7 +404,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in FeTi-98Har-LB.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeTi-98Jon.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeTi-98Ran.tdb also describes the disordered state
-- Stability: stable in 14 of 15 calculated diagram(s): 300–1735.31 K, x(Ti) 0.2589–0.4128
+- Stability: stable in 14 of 14 calculated diagram(s): 300–1735.31 K, x(Ti) 0.2589–0.4128
 - Literature: 106 values (106 accepted) from 6 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:c14-laves)
 
@@ -570,7 +570,7 @@ _tdb: _tdb:FeTi-09Key.tdb:FCC_4SL
 
 - Id: `phase:fe-ti:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 15 of 16 calculated diagram(s): 939.83–1804.83 K, x(Ti) 0–0.01013
+- Stability: stable in 15 of 15 calculated diagram(s): 939.83–1804.83 K, x(Ti) 0–0.01013
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:fcc-a1)
 
@@ -862,7 +862,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:fe-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
-- Stability: stable in 15 of 16 calculated diagram(s): 300–1939.99 K, x(Ti) 0.99925–1
+- Stability: stable in 15 of 15 calculated diagram(s): 300–1939.99 K, x(Ti) 0.99925–1
 - Literature: 28 values (28 accepted) from 7 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:hcp-a3)
 
@@ -1012,7 +1012,7 @@ _assessment that models this phase_
 
 - Id: `phase:fe-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
-- Stability: stable in 15 of 16 calculated diagram(s): 1335.77–2500 K, x(Ti) 0–1
+- Stability: stable in 15 of 15 calculated diagram(s): 1335.77–2500 K, x(Ti) 0–1
 - Literature: 256 values (256 accepted) from 9 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:liquid)
 
@@ -1160,8 +1160,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -1170,7 +1170,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1181,7 +1181,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

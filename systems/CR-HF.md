@@ -80,7 +80,7 @@ Table: Crystal structure, Cr–Hf system
 | lattice 4e z | 0.0895 not_printed | 0 | Cr2Hf10 (C36); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 44; `ORC-RKDOLLV3MA.12335c` |  |
 | lattice 4e z | 0.0638 not_printed | 0 | Cr6Hf6 (C36); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 42; `ORC-X2ETHLNQZX.a4563a` |  |
 | lattice 4e z | 0.06 not_printed | 0 | CrHf2 (C36); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 43; `ORC-GODBWQPOKC.1ffa71` |  |
-| lattice 4f z | 0.0604 not_printed | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32; `ORC-DAY45LDIMT.d10c8d` |  |
+| lattice 4f z | 0.0604 1 | 0 | Cr2Hf (C14); _alloy: Hf 0.333333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 32; `ORC-DAY45LDIMT.d10c8d` |  |
 | lattice 4f z | 0.0702 not_printed | 0 | Cr2Hf10 (C14); _alloy: Hf 0.833333_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 37; `ORC-OPXTL7QJF2.b1f70e` |  |
 | lattice 4f z | 0.1223 not_printed | 0 | Cr6Hf6 (C14); _alloy: Hf 0.5_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 34; `ORC-GEXHGXSZVR.d1811e` |  |
 | lattice 4f z | 0.0627 not_printed | 0 | CrHf2 (C14); _alloy: Hf 0.666667_ | DFT | [1] Pavlů 2010 | Table 2, p. 3, row 35; `ORC-ANSSCCCMAT.85da9f` |  |
@@ -128,10 +128,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -140,7 +140,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -151,7 +151,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -161,7 +161,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -171,7 +171,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

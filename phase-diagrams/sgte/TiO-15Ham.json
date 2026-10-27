@@ -1,1 +1,1 @@
-{"tdb":"TiO-15Ham.tdb","elements":["Ti","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"TiO-15Ham.tdb","elements":["Ti","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"e95d8422ca5608f30f90b56b0ec2ee23adc31105244ad338c052df37168e807c","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

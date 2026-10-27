@@ -1,10 +1,10 @@
 # Mn–Nd system
 
-> Mn–Nd system: 67 accepted literature values (invariant reaction 31, phase transition 24, phase equilibrium 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Nd system: 43 accepted literature values (invariant reaction 31, phase equilibrium 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-ND.html · Markdown: https://data.orchid-project.org/systems/MN-ND.md
 
-67 accepted literature values from 1 paper(s) (experimental 53, model 9, unspecified 5); 1 calculated phase diagram(s). 33 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+43 accepted literature values from 1 paper(s) (experimental 29, model 9, unspecified 5); 1 calculated phase diagram(s). 57 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-ND.json) · [CSV](https://data.orchid-project.org/systems/MN-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-ND/MnNd-16Ron.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MN-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-ND.html) · [Markdown](https://data.orchid-project.org/systems/MN-ND.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 53 |
+| experimental | 29 |
 | model | 9 |
 | unspecified | 5 |
 
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 31 |
-| phase transition | 24 |
 | phase equilibrium | 12 |
 
 ## Calculated phase diagrams
@@ -104,37 +103,6 @@ Table: Invariant reactions reported in the literature for the Mn–Nd system (31
 
 ## Other properties
 
-### Phase transition (24)
-
-Table: Phase transition, Mn–Nd system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 966.1 K | 966.1 | other: Mn30Nd70; _alloy: Mn 0.3, Nd 0.7_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 11; `ORC-YZGZFRHNSI` |  |
-| Phase transition | 967.3 K | 967.3 | other: Mn20Nd80 (as-cast); _alloy: Mn 0.2, Nd 0.8_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 7; `ORC-UDKT2UHFTC` |  |
-| Phase transition | 967.4 K | 967.4 | other: Mn10Nd90; _alloy: Mn 0.1, Nd 0.9_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 1; `ORC-NAS7ZQ4XNV` |  |
-| Phase transition | 967.7 K | 967.7 | other: Mn25Nd75; _alloy: Mn 0.25, Nd 0.75_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 10; `ORC-ZR2NGG4LVA` |  |
-| Phase transition | 967.9 K | 967.9 | other: Mn45Nd55; _alloy: Mn 0.45, Nd 0.55_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 17; `ORC-Q5JMYYKBUN` |  |
-| Phase transition | 968.2 K | 968.2 | other: Mn55Nd45; _alloy: Mn 0.55, Nd 0.45_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 22; `ORC-A2QFTCI46Z` |  |
-| Phase transition | 968.4 K | 968.4 | other: Mn40Nd60; _alloy: Mn 0.4, Nd 0.6_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 15; `ORC-KLB2TCDWWE` |  |
-| Phase transition | 968.6 K | 968.6 | other: Mn50Nd50; _alloy: Mn 0.5, Nd 0.5_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 19; `ORC-C4CTFQV2VK` |  |
-| Phase transition | 968.7 K | 968.7 | other: Mn15Nd85; _alloy: Mn 0.15, Nd 0.85_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 4; `ORC-V35YXMERZ4` |  |
-| Phase transition | 968.7 K | 968.7 | other: Mn35Nd65; _alloy: Mn 0.35, Nd 0.65_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 13; `ORC-SLU3ZPJBYL` |  |
-| Phase transition | 968.8 K | 968.8 | other: L \<-> Mn2Nd + α-Nd; _alloy: Mn 0.7, Nd 0.3_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 28; `ORC-VE4VZXWJ4L` |  |
-| Phase transition | 969.1 K | 969.1 | other: Mn60Nd40 (as-cast); _alloy: Mn 0.6, Nd 0.4_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 25; `ORC-OSUYK2HCT7` |  |
-| Phase transition | 969.4 K | 969.4 | other: L \<-> Mn2Nd + α-Nd; _alloy: Mn 0.75, Nd 0.25_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 32; `ORC-JBERDL6EIS` |  |
-| Phase transition | 971.1 K | 971.1 | other: L \<-> Mn2Nd + α-Nd; _alloy: Mn 0.8, Nd 0.2_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 35; `ORC-X3QDO6IM3G` |  |
-| Phase transition | 980.1 K | 980.1 | other: Mn20Nd80 (as-cast); _alloy: Mn 0.2, Nd 0.8_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 8; `ORC-CO3SVVQYC7` |  |
-| Phase transition | 981.4 K | 981.4 | other: Mn15Nd85; _alloy: Mn 0.15, Nd 0.85_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 5; `ORC-PQU6BOCKNZ` |  |
-| Phase transition | 981.5 K | 981.5 | other: Mn10Nd90; _alloy: Mn 0.1, Nd 0.9_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 2; `ORC-EQXKXO4JPD` |  |
-| Phase transition | 1113.5 K | 1113.5 | other: Mn50Nd50; _alloy: Mn 0.5, Nd 0.5_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 20; `ORC-TVHPKUNETJ` |  |
-| Phase transition | 1114.1 K | 1114.1 | other: Mn55Nd45; _alloy: Mn 0.55, Nd 0.45_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 23; `ORC-466QYRONQS` |  |
-| Phase transition | 1116.4 K | 1116.4 | other: Mn70Nd30; _alloy: Mn 0.7, Nd 0.3_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 29; `ORC-46XRUXOWRU` |  |
-| Phase transition | 1116.8 K | 1116.8 | other: Mn60Nd40 (as-cast); _alloy: Mn 0.6, Nd 0.4_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 26; `ORC-ZNOYKCPK6I` |  |
-| Phase transition | 1118.1 K | 1118.1 | other: Mn75Nd25 (as-cast); _alloy: Mn 0.75, Nd 0.25_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 33; `ORC-B3MHIAWNZ2` |  |
-| Phase transition | 1210.7 K | 1210.7 | other: Mn70Nd30; _alloy: Mn 0.7, Nd 0.3_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 30; `ORC-EAMQWAIIJO` |  |
-| Phase transition | 1213.8 K | 1213.8 | other: Mn80Nd20; _alloy: Mn 0.8, Nd 0.2_ | experimental | [1] Rong 2016 | Table 1, p. 3, row 36; `ORC-F65Y33BEF5` |  |
-
 ### Phase equilibrium (12)
 
 Table: Phase equilibrium, Mn–Nd system
@@ -162,10 +130,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -174,7 +142,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -185,7 +153,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -195,7 +163,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -205,7 +173,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

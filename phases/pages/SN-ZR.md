@@ -19,7 +19,7 @@ Table: Phases of the Sn–Zr system (13)
 | [C15_LAVES](#phase-sn-zr-c15-laves); _phase:sn-zr:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [C36_LAVES](#phase-sn-zr-c36-laves); _phase:sn-zr:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-sn-zr-fcc-a1); _phase:sn-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
-| [HCP_A3](#phase-sn-zr-hcp-a3); _phase:sn-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1261.07 K, x(Zr) 0.92091–1 | 1 | 7 |
+| [HCP_A3](#phase-sn-zr-hcp-a3); _phase:sn-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1261.07 K, x(Zr) 0.92091–1 | 7 | 7 |
 | [LIQUID](#phase-sn-zr-liquid); _phase:sn-zr:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 502.01–4000 K, x(Zr) 0–1 | 23 | 7 |
 | [SN2ZR_C54](#phase-sn-zr-sn2zr-c54); _phase:sn-zr:sn2zr-c54_ | TiSi2 · C54 · oF24 · Fddd (70) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1433.16 K, x(Zr) 0.33333–0.33333 | 8 | 7 |
 | [SN3ZR5_D88](#phase-sn-zr-sn3zr5-d88); _phase:sn-zr:sn3zr5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2260.1 K, x(Zr) 0.625–0.625 | 8 | 4 |
@@ -420,11 +420,11 @@ _assessment that models this phase_
 - Id: `phase:sn-zr:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–1261.07 K, x(Zr) 0.92091–1
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zr:hcp-a3)
 
-Names (9): _corpus: _corpus:phase:sn-zr:hcp-a3  
-_paper: _paper:sha256-85fd53a1a176b694:hcp-A3  
+Names (11): _corpus: _corpus:phase:sn-zr:hcp-a3  
+_paper: _paper:10.1016/j.calphad.2008.04.001:αZr, paper:10.1016/s0364-5916(98)00021-2:α Zr, paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:SnZr-08Jer.tdb:HCP_A3, tdb:SnZr-19Laf.tdb:HCP_A3, tdb:SnZr-24Pen.tdb:HCP_A3, tdb:SnZr-98Kor.tdb:HCP_A3, tdb:SnZr-98Sub-LB.tdb:HCP_A3, tdb:SnZr-98Sub-orig.tdb:HCP_A3, tdb:SnZr-99Dup.tdb:HCP_A3  
 
 
@@ -482,14 +482,14 @@ _tdb: _tdb:SnZr-08Jer.tdb:HCP_A3, tdb:SnZr-19Laf.tdb:HCP_A3, tdb:SnZr-24Pen.tdb:
 Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.04.001](https://doi.org/10.1016/j.calphad.2008.04.001) R. Jerlerud Pérez, C. Toffolon-Masclet, J.-M. Joubert, B. Sundman, The Zr–Sn binary system: New experimental results and thermodynamic assessment, Calphad 32, 593-601 (2008).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) N. Subasic, Calphad, 22, 157-65(1998).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2018.11.002](https://doi.org/10.1016/j.calphad.2018.11.002) P. Lafaye, C. Toffolon-Masclet, J.-C. Crivello, J.-M. Joubert, Calphad, 64, 43-54(2019).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2024.102672](https://doi.org/10.1016/j.calphad.2024.102672) J. Peng, J. Shen, X. Feng, Z. Cheng, Calphad, 85, 102672(2024).  
 _assessment that models this phase_
 - [doi:10.1016/S0022-3115(99)00125-7](https://doi.org/10.1016/S0022-3115%2899%2900125-7) N. Dupin, I. Ansara, C. Servant, C. Toffolon, C. Lemaignan, J.C. Brachet, J. Nucl. Mater., 275, 287-95(1999).  
-_assessment that models this phase_
-- [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) N. Subasic, Calphad, 22, 157-65(1998).  
 _assessment that models this phase_
 
 ## LIQUID (Sn–Zr)
@@ -848,8 +848,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -858,7 +858,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -869,7 +869,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

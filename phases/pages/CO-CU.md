@@ -13,8 +13,8 @@ Table: Phases of the Co–Cu system (4)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-co-cu-bcc-a2); _phase:co-cu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [FCC_A1](#phase-co-cu-fcc-a1); _phase:co-cu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1877.99 K, x(Cu) 0–1 | 11 | 4 |
-| [HCP_A3](#phase-co-cu-hcp-a3); _phase:co-cu:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1359.98 K, x(Cu) 0–0.00404 | 0 | 4 |
+| [FCC_A1](#phase-co-cu-fcc-a1); _phase:co-cu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1877.99 K, x(Cu) 0–1 | 12 | 4 |
+| [HCP_A3](#phase-co-cu-hcp-a3); _phase:co-cu:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1359.98 K, x(Cu) 0–0.00404 | 5 | 4 |
 | [LIQUID](#phase-co-cu-liquid); _phase:co-cu:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 300.27–2500 K, x(Cu) 0–1 | 59 | 4 |
 
 ## BCC_A2 (Co–Cu)
@@ -75,7 +75,7 @@ _assessment that models this phase_
 - Id: `phase:co-cu:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1877.99 K, x(Cu) 0–1
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-cu:fcc-a1)
 
 Names (8): _corpus: _corpus:phase:co-cu:fcc-a1  
@@ -131,10 +131,11 @@ _reports values for this phase_
 - Id: `phase:co-cu:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1359.98 K, x(Cu) 0–0.00404
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-cu:hcp-a3)
 
-Names (5): _corpus: _corpus:phase:co-cu:hcp-a3  
+Names (6): _corpus: _corpus:phase:co-cu:hcp-a3  
+_paper: _paper:10.1007/s11106-007-0013-9:(εCo)  
 _tdb: _tdb:CoCu-00Kub-LB.tdb:HCP_A3, tdb:CoCu-06Pal.tdb:HCP_A3, tdb:CoCu-80Has.tdb:HCP_A3, tdb:CoCu-97Oht.tdb:HCP_A3  
 
 
@@ -168,7 +169,7 @@ _tdb: _tdb:CoCu-00Kub-LB.tdb:HCP_A3, tdb:CoCu-06Pal.tdb:HCP_A3, tdb:CoCu-80Has.t
 41: CONST HCP_A3 : CO% CU : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/0364-5916(80)90026-7](https://doi.org/10.1016/0364-5916%2880%2990026-7) Mitsuhiro Hasebe, Taiji Nishizawa, Calculation of phase diagrams of the iron-copper and cobalt-copper systems, Calphad 4, 83-100 (1980).  
 _assessment that models this phase_
@@ -178,6 +179,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.37.207](https://doi.org/10.2355/isijinternational.37.207) Hiroshi Ohtani, Hisashi Suda, Kiyohito Ishida, Effects of Cu and Other Tramp Elements on Steel Properties. Solid/Liquid Equilibria in Fe-Cu Based Ternary Systems., ISIJ International 37, 207-216 (1997).  
 _assessment that models this phase_
+- [doi:10.1007/s11106-007-0013-9](https://doi.org/10.1007/s11106-007-0013-9) M. A. Turchanin, P. G. Agraval, Phase equilibria and thermodynamics of binary copper systems with 3d-metals. V. Copper-cobalt system, Powder Metall Met Ceram 46, 77-89 (2007).  
+_reports values for this phase_
 
 ## LIQUID (Co–Cu)
 
@@ -237,8 +240,8 @@ _reports values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -247,7 +250,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -258,7 +261,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

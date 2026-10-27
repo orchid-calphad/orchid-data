@@ -12,7 +12,7 @@ Table: Phases of the Fe–Sc system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-fe-sc-bcc-a2); _phase:fe-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2498.98 K, x(Sc) 0–1 | 5 | 3 |
+| [BCC_A2](#phase-fe-sc-bcc-a2); _phase:fe-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2498.98 K, x(Sc) 0–1 | 6 | 3 |
 | [FCC_A1](#phase-fe-sc-fcc-a1); _phase:fe-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1180.94–1803.47 K, x(Sc) 0–0.02806 | 6 | 3 |
 | [FE2SC_C14](#phase-fe-sc-fe2sc-c14); _phase:fe-sc:fe2sc-c14_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1837.14 K, x(Sc) 0.33–0.33 | 8 | 2 |
 | [FE2SC_C15](#phase-fe-sc-fe2sc-c15); _phase:fe-sc:fe2sc-c15_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1520.72–1808.11 K, x(Sc) 0.36–0.36 | 2 | 2 |
@@ -20,7 +20,7 @@ Table: Phases of the Fe–Sc system (10)
 | [FE2SC_LAVES](#phase-fe-sc-fe2sc-laves); _phase:fe-sc:fe2sc-laves_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1840.15 K, x(Sc) 0.33333–0.33333 | 0 | 1 |
 | [FE6SC29](#phase-fe-sc-fe6sc29); _phase:fe-sc:fe6sc29_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1250 K, x(Sc) 0.82857–0.83 | 2 | 2 |
 | [FESC7](#phase-fe-sc-fesc7); _phase:fe-sc:fesc7_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1170 K, x(Sc) 0.875–0.875 | 0 | 1 |
-| [HCP_A3](#phase-fe-sc-hcp-a3); _phase:fe-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1812.98 K, x(Sc) 0.99466–1 | 0 | 3 |
+| [HCP_A3](#phase-fe-sc-hcp-a3); _phase:fe-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1812.98 K, x(Sc) 0.99466–1 | 3 | 3 |
 | [LIQUID](#phase-fe-sc-liquid); _phase:fe-sc:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1239.52–2500 K, x(Sc) 0–1 | 13 | 3 |
 
 ## BCC_A2 (Fe–Sc)
@@ -28,11 +28,11 @@ Table: Phases of the Fe–Sc system (10)
 - Id: `phase:fe-sc:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2498.98 K, x(Sc) 0–1
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-sc:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:fe-sc:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2007.11.069:βSc, paper:10.1016/j.jallcom.2007.11.069:δFe  
+Names (7): _corpus: _corpus:phase:fe-sc:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2007.11.069:αFe, paper:10.1016/j.jallcom.2007.11.069:βSc, paper:10.1016/j.jallcom.2007.11.069:δFe  
 _tdb: _tdb:FeSc-08GTT.tdb:BCC_A2, tdb:FeSc-08Liu.tdb:BCC_A2, tdb:FeSc-16Xu.tdb:BCC_A2  
 
 
@@ -334,10 +334,11 @@ _tdb: _tdb:FeSc-08GTT.tdb:FESC7
 - Id: `phase:fe-sc:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1812.98 K, x(Sc) 0.99466–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-sc:hcp-a3)
 
-Names (4): _corpus: _corpus:phase:fe-sc:hcp-a3  
+Names (5): _corpus: _corpus:phase:fe-sc:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2007.11.069:αSc  
 _tdb: _tdb:FeSc-08GTT.tdb:HCP_A3, tdb:FeSc-08Liu.tdb:HCP_A3, tdb:FeSc-16Xu.tdb:HCP_A3  
 
 
@@ -366,9 +367,9 @@ _tdb: _tdb:FeSc-08GTT.tdb:HCP_A3, tdb:FeSc-08Liu.tdb:HCP_A3, tdb:FeSc-16Xu.tdb:H
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.calphad.2016.07.002](https://doi.org/10.1016/j.calphad.2016.07.002) K. Xu, S. Liu, F. Zhang, Y. Du, Z. Jin, Calphad, 54, 158-64(2016).  
-_assessment that models this phase_
 - [doi:10.1016/j.jallcom.2007.11.069](https://doi.org/10.1016/j.jallcom.2007.11.069) X.J. Liu, P. Yu, C.P. Wang, K. Ishida, Thermodynamic evaluation of the Co–Sc and Fe–Sc systems, Journal of Alloys and Compounds 466, 169-175 (2008).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2016.07.002](https://doi.org/10.1016/j.calphad.2016.07.002) K. Xu, S. Liu, F. Zhang, Y. Du, Z. Jin, Calphad, 54, 158-64(2016).  
 _assessment that models this phase_
 
 ## LIQUID (Fe–Sc)
@@ -416,8 +417,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -426,7 +427,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -437,7 +438,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

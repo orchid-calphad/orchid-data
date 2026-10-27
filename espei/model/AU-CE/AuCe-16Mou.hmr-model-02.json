@@ -72,7 +72,7 @@
   },
   "model_reproduction": null
  },
- "weight": 0.147059,
+ "weight": 0.128205,
  "bibtex": "moustaine2016_b20dda",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -111,7 +111,7 @@
    "value": 500.0,
    "name": "ESPEI experimental default sigma_HM = 500 J/mol"
   },
-  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset; model-calculated values: sigma_method is the model class's deviation from experiment (or its prior), not a measurement uncertainty; exclude them with the `model` tag if you prefer",
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); this export uses a scalar weight for equilibrium/activity data; unequal-sigma groups are split before release; model-calculated values: sigma_method is the model class's deviation from experiment (or its prior), not a measurement uncertainty; exclude them with the `model` tag if you prefer",
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
@@ -120,19 +120,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": 50.0,
-     "sigma_method": 3400.0,
+     "sigma_method": 3900.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 3400.0,
+     "sigma_effective": 3900.0,
      "method_class": "model_calculated",
      "method_basis": "calibrated",
-     "method_n_pairs": 2075,
+     "method_n_pairs": 2030,
      "method_entry": "model/HM_FORM"
     },
-    "sigma_effective_used": 3400.0,
-    "weight_per_value_equivalent": 0.147059,
-    "weight_used": 0.147059
+    "sigma_effective_used": 3900.0,
+    "weight_per_value_equivalent": 0.128205,
+    "weight_used": 0.128205
    },
    {
     "sigma": null,
@@ -140,19 +140,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": 5.0,
-     "sigma_method": 3400.0,
+     "sigma_method": 3900.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 3400.0,
+     "sigma_effective": 3900.0,
      "method_class": "model_calculated",
      "method_basis": "calibrated",
-     "method_n_pairs": 2075,
+     "method_n_pairs": 2030,
      "method_entry": "model/HM_FORM"
     },
-    "sigma_effective_used": 3400.0,
-    "weight_per_value_equivalent": 0.147059,
-    "weight_used": 0.147059
+    "sigma_effective_used": 3900.0,
+    "weight_per_value_equivalent": 0.128205,
+    "weight_used": 0.128205
    }
   ]
  },
@@ -160,7 +160,7 @@
   "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
   "suggested_weight": 1.0,
   "weight_before_2026_10_24": 1.0,
-  "weight_written": 0.147059,
+  "weight_written": 0.128205,
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",
   "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"

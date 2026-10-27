@@ -53,46 +53,6 @@
    [
     "MG",
     "PB"
-   ],
-   [
-    "MG",
-    "PB"
-   ],
-   [
-    "MG",
-    "PB"
-   ],
-   [
-    "MG",
-    "PB"
-   ],
-   [
-    "MG",
-    "PB"
-   ],
-   [
-    "MG",
-    "PB"
-   ],
-   [
-    "MG",
-    "PB"
-   ],
-   [
-    "MG",
-    "PB"
-   ],
-   [
-    "MG",
-    "PB"
-   ],
-   [
-    "MG",
-    "PB"
-   ],
-   [
-    "MG",
-    "PB"
    ]
   ]
  },
@@ -108,20 +68,10 @@
     -6078.58,
     -4245.0,
     -4245.35,
-    -5855.0,
-    -5847.01,
-    -5855.0,
-    -5847.01,
     -11674.73,
     -11674.0,
     -5978.0,
     -5972.44,
-    -5528.61,
-    -5533.0,
-    -5499.66,
-    -5500.0,
-    -5900.0,
-    -5895.25,
     -6136.47,
     -6136.0
    ]
@@ -130,32 +80,22 @@
  "reference": "Dębski 2021, doi:10.1016/j.jallcom.2020.158396",
  "bibtex": "debski2021_ece690",
  "weight": [
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798,
-  0.062798
+  0.060658,
+  0.060658,
+  0.060658,
+  0.060658,
+  0.060658,
+  0.060658,
+  0.060658,
+  0.060658,
+  0.060658,
+  0.060658
  ],
  "tags": [
   "dft_literature",
   "orchid"
  ],
- "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB MgPb-14Zha-sub.tdb (sha256 715ddff6aaa4430b25aa0f8cdf6aaf3cedba16a959a325ee2296dd0115216f95), phase MG2PB_C1. Ids, in value order: ORC-3UZCHZNEXO.73fa6b ORC-3UZCHZNEXO.d73652 ORC-52NEUIMXXM.67b2a3 ORC-52NEUIMXXM.75397e ORC-6NMZMDWEIZ.6c25ee ORC-6NMZMDWEIZ.e16ce5 ORC-BRBEV2CMMI.7deb20 ORC-BRBEV2CMMI.f3b1dd ORC-BWSJBFCMPP.02d7e8 ORC-BWSJBFCMPP.a54de9 ORC-MEFBATBWAD.aa99c6 ORC-MEFBATBWAD.d41c01 ORC-UN5ZR3DH4R.9ee812 ORC-UN5ZR3DH4R.a5aded ORC-VASZEU4BTD.11e7a0 ORC-VASZEU4BTD.47e16d ORC-XSC6EPABZQ.4d8b85 ORC-XSC6EPABZQ.56a13f ORC-ZUMCL4UJPS.5bc953 ORC-ZUMCL4UJPS.990fb4. eV/atom x 96485.33212 = J/mol-atom.",
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB MgPb-14Zha-sub.tdb (sha256 715ddff6aaa4430b25aa0f8cdf6aaf3cedba16a959a325ee2296dd0115216f95), phase MG2PB_C1. Ids, in value order: ORC-3UZCHZNEXO.73fa6b ORC-3UZCHZNEXO.d73652 ORC-52NEUIMXXM.67b2a3 ORC-52NEUIMXXM.75397e ORC-BWSJBFCMPP.02d7e8 ORC-BWSJBFCMPP.a54de9 ORC-MEFBATBWAD.aa99c6 ORC-MEFBATBWAD.d41c01 ORC-ZUMCL4UJPS.5bc953 ORC-ZUMCL4UJPS.990fb4. eV/atom x 96485.33212 = J/mol-atom.",
  "orchid": {
   "evidence_class": "dft",
   "dft_source": "literature",
@@ -196,34 +136,6 @@
     "match_quality": null
    },
    {
-    "id": "ORC-6NMZMDWEIZ.6c25ee",
-    "compound": "Mg2Pb",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-6NMZMDWEIZ.e16ce5",
-    "compound": "Mg2Pb",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-BRBEV2CMMI.7deb20",
-    "compound": "Mg2Pb",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-BRBEV2CMMI.f3b1dd",
-    "compound": "Mg2Pb",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
-   },
-   {
     "id": "ORC-BWSJBFCMPP.02d7e8",
     "compound": "Mg2Pb",
     "basis": "registry paper_label",
@@ -246,48 +158,6 @@
    },
    {
     "id": "ORC-MEFBATBWAD.d41c01",
-    "compound": "Mg2Pb",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-UN5ZR3DH4R.9ee812",
-    "compound": "Mg2Pb",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-UN5ZR3DH4R.a5aded",
-    "compound": "Mg2Pb",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-VASZEU4BTD.11e7a0",
-    "compound": "Mg2Pb",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-VASZEU4BTD.47e16d",
-    "compound": "Mg2Pb",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-XSC6EPABZQ.4d8b85",
-    "compound": "Mg2Pb",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-XSC6EPABZQ.56a13f",
     "compound": "Mg2Pb",
     "basis": "registry paper_label",
     "space_group": null,
@@ -327,7 +197,7 @@
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
-    "sigma": 7962.0,
+    "sigma": 8243.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -335,16 +205,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
+     "n": 231,
+     "sigma_robust_kJ": 8.243,
+     "bias_median_kJ_not_applied": 1.86,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.062798,
+    "weight_used": 0.060658,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -6.078,
@@ -355,19 +225,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7962.0,
+     "sigma_method": 8243.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7962.0,
+     "sigma_effective": 8243.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
+     "method_n_pairs": 231,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
     }
    },
    {
-    "sigma": 7962.0,
+    "sigma": 8243.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -375,16 +245,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
+     "n": 231,
+     "sigma_robust_kJ": 8.243,
+     "bias_median_kJ_not_applied": 1.86,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.062798,
+    "weight_used": 0.060658,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -6.078575924,
@@ -395,19 +265,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7962.0,
+     "sigma_method": 8243.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7962.0,
+     "sigma_effective": 8243.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
+     "method_n_pairs": 231,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
     }
    },
    {
-    "sigma": 7962.0,
+    "sigma": 8243.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -415,16 +285,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
+     "n": 231,
+     "sigma_robust_kJ": 8.243,
+     "bias_median_kJ_not_applied": 1.86,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.062798,
+    "weight_used": 0.060658,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -4.245,
@@ -435,19 +305,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7962.0,
+     "sigma_method": 8243.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7962.0,
+     "sigma_effective": 8243.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
+     "method_n_pairs": 231,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
     }
    },
    {
-    "sigma": 7962.0,
+    "sigma": 8243.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -455,16 +325,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
+     "n": 231,
+     "sigma_robust_kJ": 8.243,
+     "bias_median_kJ_not_applied": 1.86,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.062798,
+    "weight_used": 0.060658,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -4.245354613,
@@ -475,19 +345,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7962.0,
+     "sigma_method": 8243.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7962.0,
+     "sigma_effective": 8243.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
+     "method_n_pairs": 231,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
     }
    },
    {
-    "sigma": 7962.0,
+    "sigma": 8243.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -495,176 +365,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
+     "n": 231,
+     "sigma_robust_kJ": 8.243,
+     "bias_median_kJ_not_applied": 1.86,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.062798,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -5.855,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-6NMZMDWEIZ.6c25ee",
-    "compound": "Mg2Pb",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 7962.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 7962.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
-    }
-   },
-   {
-    "sigma": 7962.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.062798,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -5.847011126,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-6NMZMDWEIZ.e16ce5",
-    "compound": "Mg2Pb",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 7962.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 7962.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
-    }
-   },
-   {
-    "sigma": 7962.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.062798,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -5.855,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-BRBEV2CMMI.7deb20",
-    "compound": "Mg2Pb",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 7962.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 7962.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
-    }
-   },
-   {
-    "sigma": 7962.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.062798,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -5.847011126,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-BRBEV2CMMI.f3b1dd",
-    "compound": "Mg2Pb",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 7962.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 7962.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
-    }
-   },
-   {
-    "sigma": 7962.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.062798,
+    "weight_used": 0.060658,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -11.67472519,
@@ -675,19 +385,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7962.0,
+     "sigma_method": 8243.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7962.0,
+     "sigma_effective": 8243.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
+     "method_n_pairs": 231,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
     }
    },
    {
-    "sigma": 7962.0,
+    "sigma": 8243.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -695,16 +405,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
+     "n": 231,
+     "sigma_robust_kJ": 8.243,
+     "bias_median_kJ_not_applied": 1.86,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.062798,
+    "weight_used": 0.060658,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -11.674,
@@ -715,19 +425,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7962.0,
+     "sigma_method": 8243.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7962.0,
+     "sigma_effective": 8243.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
+     "method_n_pairs": 231,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
     }
    },
    {
-    "sigma": 7962.0,
+    "sigma": 8243.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -735,16 +445,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
+     "n": 231,
+     "sigma_robust_kJ": 8.243,
+     "bias_median_kJ_not_applied": 1.86,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.062798,
+    "weight_used": 0.060658,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -5.978,
@@ -755,19 +465,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7962.0,
+     "sigma_method": 8243.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7962.0,
+     "sigma_effective": 8243.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
+     "method_n_pairs": 231,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
     }
    },
    {
-    "sigma": 7962.0,
+    "sigma": 8243.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -775,16 +485,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
+     "n": 231,
+     "sigma_robust_kJ": 8.243,
+     "bias_median_kJ_not_applied": 1.86,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.062798,
+    "weight_used": 0.060658,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -5.972442058,
@@ -795,19 +505,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7962.0,
+     "sigma_method": 8243.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7962.0,
+     "sigma_effective": 8243.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
+     "method_n_pairs": 231,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
     }
    },
    {
-    "sigma": 7962.0,
+    "sigma": 8243.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -815,256 +525,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
+     "n": 231,
+     "sigma_robust_kJ": 8.243,
+     "bias_median_kJ_not_applied": 1.86,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.062798,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -5.52860953,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-UN5ZR3DH4R.9ee812",
-    "compound": "Mg2Pb",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 7962.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 7962.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
-    }
-   },
-   {
-    "sigma": 7962.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.062798,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -5.533,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-UN5ZR3DH4R.a5aded",
-    "compound": "Mg2Pb",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 7962.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 7962.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
-    }
-   },
-   {
-    "sigma": 7962.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.062798,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -5.499663931,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-VASZEU4BTD.11e7a0",
-    "compound": "Mg2Pb",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 7962.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 7962.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
-    }
-   },
-   {
-    "sigma": 7962.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.062798,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -5.5,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-VASZEU4BTD.47e16d",
-    "compound": "Mg2Pb",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 7962.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 7962.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
-    }
-   },
-   {
-    "sigma": 7962.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.062798,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -5.9,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-XSC6EPABZQ.4d8b85",
-    "compound": "Mg2Pb",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 7962.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 7962.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
-    }
-   },
-   {
-    "sigma": 7962.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.062798,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -5.895253793,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-XSC6EPABZQ.56a13f",
-    "compound": "Mg2Pb",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 7962.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 7962.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
-    }
-   },
-   {
-    "sigma": 7962.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.062798,
+    "weight_used": 0.060658,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -6.136467123,
@@ -1075,19 +545,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7962.0,
+     "sigma_method": 8243.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7962.0,
+     "sigma_effective": 8243.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
+     "method_n_pairs": 231,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
     }
    },
    {
-    "sigma": 7962.0,
+    "sigma": 8243.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -1095,16 +565,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-PB",
-     "n": 239,
-     "sigma_robust_kJ": 7.962,
-     "bias_median_kJ_not_applied": 1.63,
+     "n": 231,
+     "sigma_robust_kJ": 8.243,
+     "bias_median_kJ_not_applied": 1.86,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.062798,
+    "weight_used": 0.060658,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -6.136,
@@ -1115,14 +585,14 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7962.0,
+     "sigma_method": 8243.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7962.0,
+     "sigma_effective": 8243.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 239,
+     "method_n_pairs": 231,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|MG-PB"
     }
    }

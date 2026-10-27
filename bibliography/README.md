@@ -12,9 +12,9 @@ deterministic, offline from a Crossref response cache; `--check` verifies these 
 
 | | papers | with DOI |
 |---|---:|---:|
-| all | 9569 | 7812 |
+| all | 9570 | 7813 |
 | `corpus_assessment_read` | 1427 | 1411 |
-| `cited_original_source` | 3577 | 3013 |
+| `cited_original_source` | 3578 | 3014 |
 | `tdb_source_assessment` | 1886 | 1686 |
 | `tdb_compilation` | 1 | 1 |
 | `handbook_diagram_source` | 2283 | 1290 |
@@ -24,10 +24,10 @@ deterministic, offline from a Crossref response cache; `--check` verifies these 
 
 Papers without a DOI: 1757 (ids derived from first author, year and title, flagged `no_doi`).
 Crossref records: 7784 found, 28 DOIs unknown to Crossref (404),
-0 not fetched; retrieved 2026-10-23 to 2026-10-23.
+1 not fetched; retrieved 2026-10-23 to 2026-10-23.
 DOIs matched from a printed reference, checked against Crossref (first author, year +-1, title, journal):
 5384 verified, 103 weak (kept, flagged),
-23 unverifiable (no Crossref record); 19 mismatched
+24 unverifiable (no Crossref record); 19 mismatched
 DOIs (22 matches) were dropped: those works are kept as no-DOI records with the
 printed reference (`DOI_MISMATCHES.md`). The same scoped corrections are applied by every ORCHID exporter that emits
 DOIs, from one versioned table (`doi_corrections.json`, v1.0.0).
@@ -35,12 +35,12 @@ Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4159.
 
 | edge type | edges |
 |---|---:|
-| `cites` | 3792 |
-| `used_in_assessment` | 3792 |
+| `cites` | 3793 |
+| `used_in_assessment` | 3793 |
 | `models_system_in_tdb` | 3757 |
 | `reassesses` | 1536 |
 | `handbook_reproduces` | 2466 |
-| `cited_by_crossref` | 44888 |
+| `cited_by_crossref` | 44890 |
 
 ## Files
 
@@ -99,4 +99,4 @@ One record: `https://data.orchid-project.org/bibliography/papers/<key>.json` wit
 ## Licence
 
 Crossref bibliographic metadata: CC0 (as distributed by Crossref). ORCHID-derived fields (roles, evidence counts,
-relations, systems, checks): CC BY 4.0 — cite this bibliography: R. Arróyave, J. Saal, D. Shin, ORCHID bibliography (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-bibliography.
+relations, systems, checks): CC BY 4.0 — cite this bibliography: R. Arróyave, J. Saal, D. Shin, ORCHID-Bibliography: papers and typed citation relations (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-bibliography.

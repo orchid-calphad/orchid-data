@@ -17,10 +17,6 @@
    [
     "AU",
     "CE"
-   ],
-   [
-    "AU",
-    "CE"
    ]
   ]
  },
@@ -32,23 +28,21 @@
  "values": [
   [
    [
-    -75360.0,
     -75360.0
    ]
   ]
  ],
- "reference": "Dong 2013, doi:10.1016/j.calphad.2013.07.013; Moustaine 2016, doi:10.1016/j.jallcom.2016.05.116",
- "bibtex": "dong2013_fbf477 moustaine2016_b20dda",
+ "reference": "Dong 2013, doi:10.1016/j.calphad.2013.07.013",
+ "bibtex": "dong2013_fbf477",
  "weight": [
-  0.057065,
-  0.057065
+  0.057844
  ],
  "tags": [
   "dft_literature",
   "orchid",
   "orchid_caveat"
  ],
- "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AuCe-13Don.tdb (sha256 1a117620cb88dd03720965d293a818bb3585706d6b53c7eb793555d83dfa80fc), phase AUCE_B27. Ids, in value order: ORC-JTTISQ65F3.427862 ORC-KI6DB4ZQSO. eV/atom x 96485.33212 = J/mol-atom.",
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AuCe-13Don.tdb (sha256 1a117620cb88dd03720965d293a818bb3585706d6b53c7eb793555d83dfa80fc), phase AUCE_B27. Ids, in value order: ORC-JTTISQ65F3.427862. eV/atom x 96485.33212 = J/mol-atom.",
  "orchid": {
   "evidence_class": "dft",
   "dft_source": "literature",
@@ -68,26 +62,40 @@
     "match_quality": null,
     "caveats": [
      "basis_inferred_from_magnitude"
-    ]
-   },
-   {
-    "id": "ORC-KI6DB4ZQSO",
-    "compound": "AuCe",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null,
-    "caveats": [
-     "basis_inferred_from_magnitude"
-    ]
+    ],
+    "also_read_as": [
+     "ORC-KI6DB4ZQSO"
+    ],
+    "evidence_identity": {
+     "canonical_id": "ORC-JTTISQ65F3.427862",
+     "alias_ids": [
+      "ORC-KI6DB4ZQSO"
+     ],
+     "role": "canonical",
+     "basis": "Dong et al. 2013 Table 4 reports five ab initio Au-Ce formation enthalpies. Moustaine and Mahdouk 2016 Table 2 repeats them; the text above that table attributes the ab initio calculations to Dong et al. [43]. The numerical values and corresponding polymorphs agree.",
+     "source_doi": "10.1016/j.calphad.2013.07.013",
+     "printed_page": 41,
+     "table": 4,
+     "reporting_source": {
+      "doi": "10.1016/j.jallcom.2016.05.116",
+      "pdf_page": 3,
+      "table": 2,
+      "reference_label": "43 (attribution in text); 46-49 (methods cited in table)"
+     },
+     "source_context_discrepancy": {
+      "original_temperature_K": 0,
+      "later_report_temperature_K": 298.15,
+      "basis": "The original Table 4 caption identifies ab initio results at 0 K. The later Table 2 prints 298.15 K for these repeated results. Both reported conditions and reference-state metadata remain in their records; the original calculation is canonical. Methods references 46-49 are preserved as printed, while reference 43 in the surrounding text establishes the calculation source.",
+      "status": "documented; original source used for fitting"
+     }
+    }
    }
   ],
   "papers": [
-   "doi:10.1016/j.calphad.2013.07.013",
-   "doi:10.1016/j.jallcom.2016.05.116"
+   "doi:10.1016/j.calphad.2013.07.013"
   ],
   "dois": [
-   "10.1016/j.calphad.2013.07.013",
-   "10.1016/j.jallcom.2016.05.116"
+   "10.1016/j.calphad.2013.07.013"
   ],
   "status": "Version 1, machine-extracted",
   "temperature_note": "0 K DFT used as 298.15 K enthalpy"
@@ -102,7 +110,7 @@
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
-    "sigma": 8762.0,
+    "sigma": 8644.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -110,16 +118,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "AU-CE",
-     "n": 231,
-     "sigma_robust_kJ": 8.762,
+     "n": 227,
+     "sigma_robust_kJ": 8.644,
      "bias_median_kJ_not_applied": 2.13,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
+      6.532,
+      9.785
      ],
-     "n_full_stratum": 239
+     "n_full_stratum": 231
     },
-    "weight_used": 0.057065,
+    "weight_used": 0.057844,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -75.36,
@@ -130,54 +138,14 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 8762.0,
+     "sigma_method": 8644.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 8762.0,
+     "sigma_effective": 8644.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 231,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AU-CE"
-    }
-   },
-   {
-    "sigma": 8762.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "metal",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "AU-CE",
-     "n": 231,
-     "sigma_robust_kJ": 8.762,
-     "bias_median_kJ_not_applied": 2.13,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      6.671,
-      9.913
-     ],
-     "n_full_stratum": 239
-    },
-    "weight_used": 0.057065,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -75.36,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-KI6DB4ZQSO",
-    "compound": "AuCe",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 8762.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 8762.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 231,
+     "method_n_pairs": 227,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AU-CE"
     }
    }

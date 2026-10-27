@@ -28,6 +28,15 @@ a review candidate. Paper labels come from the machine-extracted literature valu
 Every file stays below 45 MB: the full records are split by system, and `registry.json` is the index over them.
 To get all full records, read `registry.json` and then each distinct `detail` file (1 file per system).
 
+## TDB provenance
+
+`tdb_provenance.json`, `tdb_provenance.schema.json`, and `TDB_PROVENANCE.md` describe the generation method and
+potential of registered TDB artifacts (initially the four Cu-Zr example models). Join `models[].sha256` to
+`tdb_provenance.json` records by `sha256`. The `phaseforge` and `phaseforge_plus` tags distinguish the MLIP-only
+and fitted workflows; `potential` identifies the model and checkpoint. Missing matches mean unknown provenance.
+These metadata do not add review-only models to the phase registry or change thermodynamic values.
+They are generated separately by `tools/build_tdb_provenance.py` from reviewed example sidecars.
+
 ## Compact entry (`registry.json`)
 
 `{id, system, elements, preferred_name, status, structure, names[], tdb_names[], stoichiometry, counts, detail}`.
@@ -70,12 +79,12 @@ not confirmed by mmc2 carry `%TODO verify`. `st:liquid` and `st:gas` are definit
 {
  "systems": 1241,
  "phases": 10430,
- "names": 43190,
+ "names": 43265,
  "names_by_namespace": {
   "corpus": 10916,
   "mp": 677,
   "oqmd": 677,
-  "paper": 8289,
+  "paper": 8364,
   "system_alias": 75,
   "tdb": 22556
  },
@@ -232,14 +241,14 @@ not confirmed by mmc2 carry `%TODO verify`. `st:liquid` and `st:gas` are definit
  "tdb_models": 22556,
  "phases_with_models": 10427,
  "corpus_only_phases": 69,
- "corpus_phase_mappings_linked": 3212,
- "phases_with_literature_values": 4931,
- "literature_phase_mentions_linked": 70198,
- "literature_phase_mentions_unlinked": 26463,
+ "corpus_phase_mappings_linked": 3209,
+ "phases_with_literature_values": 4973,
+ "literature_phase_mentions_linked": 70533,
+ "literature_phase_mentions_unlinked": 26320,
  "phases_with_references": 9903,
- "references_listed": 24979,
+ "references_listed": 25023,
  "distinct_reference_dois": 3061,
- "phases_with_stability": 8544,
+ "phases_with_stability": 8549,
  "tdb_definitions": {
   "models_with_definition": 22556,
   "phases_with_definitions": 10427,

@@ -1,0 +1,168 @@
+{
+ "components": [
+  "NB",
+  "RE",
+  "VA"
+ ],
+ "phases": [
+  "CHI_A12"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15,
+  "X_RE": [
+   1.0
+  ]
+ },
+ "output": "SMR",
+ "values": [
+  [
+   [
+    0.439
+   ]
+  ]
+ ],
+ "reference": "Liu 2013, doi:10.1016/j.calphad.2013.02.006",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DME4MEHYIB.72a7be",
+ "reference_states": {
+  "NB": {
+   "phase": "BCC_A2",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "RE": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "NbRe-13Liu.tdb",
+   "path": "databases/sgte-binary/NbRe-13Liu.tdb",
+   "sha256": "9127581a18abfbf796e89ef8697ff3e913d6ac69087a786efa45855308b83b12",
+   "catalog_entry": {
+    "name": "NbRe-13Liu.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2013-02-006",
+   "doi": "10.1016/j.calphad.2013.02.006",
+   "citation": {
+    "authors": "see doi",
+    "title": "X.L. Liu, C.Z. Hargather, Z.-K. Liu, Calphad, 41, 119-27(2013).",
+    "year": "2013"
+   }
+  },
+  "model_reproduction": null
+ },
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
+ "weight": 0.060606,
+ "bibtex": "liu2013_cb8618",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-DME4MEHYIB.72a7be",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2013.02.006",
+    "measured_in": "doi:10.1016/j.calphad.2013.02.006"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2013.02.006"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.02.006"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/NbRe-13Liu/smr-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight = default_sigma / this observation's sigma_effective_used; unequal-uncertainty groups are split into single-observation datasets, retaining their common source provenance",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.0005,
+     "sigma_method": 3.3,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3.3,
+     "method_class": "model_calculated",
+     "method_basis": "calibrated",
+     "method_n_pairs": 118,
+     "method_entry": "model/SM_FORM"
+    },
+    "sigma_effective_used": 3.3,
+    "weight_per_value_equivalent": 0.060606,
+    "weight_used": 0.060606
+   }
+  ]
+ },
+ "orchid_weight_floor": {
+  "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
+  "suggested_weight": 1.0,
+  "weight_before_2026_10_24": 1.0,
+  "weight_written": 0.060606,
+  "sigma_floor": 0.2,
+  "sigma_floor_unit": "J/mol/K",
+  "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)",
+  "comparison_scope": "superseded comparison metadata of parent_dataset"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "CHI_A12"
+  ],
+  "basis": {
+   "printed_labels": 2
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_weighting": {
+  "rule": "individual_effective_uncertainty_v1",
+  "parent_dataset": "model/NB-RE/NbRe-13Liu.smr-model-01.json",
+  "parent_value_index": 1,
+  "parent_n_values": 2,
+  "parent_weight": 0.093023,
+  "parent_values_dropped": 0,
+  "source_dataset": "db-v2.1/general/espei-model/NbRe-13Liu/smr-model-01.json",
+  "measured_in": "doi:10.1016/j.calphad.2013.02.006",
+  "correlation_status": "not quantified",
+  "correlation_note": "Shared source and method/calibration provenance are retained. Splitting does not establish statistical independence. No covariance is invented; the ESPEI likelihood used here does not model cross-observation covariance."
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-DME4MEHYIB.72a7be",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

@@ -20,7 +20,7 @@ Table: Phases of the Co–V system (11)
 | [FCC_4SL](#phase-co-v-fcc-4sl); _phase:co-v:fcc-4sl_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 666.36–1767.99 K, x(V) 0–0.36312 | 0 | 3 |
 | [FCC_A1](#phase-co-v-fcc-a1); _phase:co-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1773.19 K, x(V) 0–0.36305 | 25 | 9 |
 | [HCP_4SL](#phase-co-v-hcp-4sl); _phase:co-v:hcp-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1382.79 K, x(V) 0–0.26268 | 3 | 1 |
-| [HCP_A3](#phase-co-v-hcp-a3); _phase:co-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–735.7 K, x(V) 0–0.03153 | 0 | 7 |
+| [HCP_A3](#phase-co-v-hcp-a3); _phase:co-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–735.7 K, x(V) 0–0.03153 | 2 | 7 |
 | [LIQUID](#phase-co-v-liquid); _phase:co-v:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1510–4000 K, x(V) 0–1 | 12 | 6 |
 | [SIGMA_OLD](#phase-co-v-old-sigma); _phase:co-v:old-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1694.72 K, x(V) 0.41422–0.70731 | 18 | 2 |
 
@@ -497,10 +497,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:co-v:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–735.7 K, x(V) 0–0.03153
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-v:hcp-a3)
 
-Names (8): _corpus: _corpus:phase:co-v:hcp-a3  
+Names (10): _corpus: _corpus:phase:co-v:hcp-a3  
+_paper: _paper:10.1016/j.matchemphys.2015.06.028:(εCo), paper:10.1361/105497103772084534:(εCo)  
 _tdb: _tdb:CoV-03Bra-LB.tdb:A3_HCP, tdb:CoV-03Bra-LB.tdb:HCP_A3, tdb:CoV-04Hua.tdb:HCP_A3, tdb:CoV-15Wan.tdb:HCP_A3, tdb:CoV-20Wan-mod.tdb:HCP_A3, tdb:CoV-20Wan.tdb:HCP_A3, tdb:CoV-24Sun.tdb:HCP_A3  
 
 
@@ -557,15 +558,15 @@ _tdb: _tdb:CoV-03Bra-LB.tdb:A3_HCP, tdb:CoV-03Bra-LB.tdb:HCP_A3, tdb:CoV-04Hua.t
 
 Example references (5 of 5; assessments first): 
 
+- [doi:10.1016/j.matchemphys.2015.06.028](https://doi.org/10.1016/j.matchemphys.2015.06.028) Cuiping Wang, Cancan Zhao, Yong Lu, Tian Li, Dongliang Peng, Ji Shi et al., Experimental observation of magnetically induced phase separation and thermodynamic assessment in the Co–V binary system, Materials Chemistry and Physics 162, 555-560 (2015).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1361/105497103772084534](https://doi.org/10.1361/105497103772084534) Johan Bratberg, Bo Sundman, A thermodynamic assessment of the Co-V system, JPE 24, 495-503 (2003).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2019.101729](https://doi.org/10.1016/j.calphad.2019.101729) Peisheng Wang, Thomas Hammerschmidt, Ursula R. Kattner, Gregory B. Olson, Structural stability of Co–V intermetallic phases and thermodynamic description of the Co–V system, Calphad 68, 101729 (2020).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2024.102762](https://doi.org/10.1016/j.calphad.2024.102762) J. Sun, C. Guo, C. Li, Z. Du, Calphad, 87, 102762(2024).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2004.04.131](https://doi.org/10.1016/j.jallcom.2004.04.131) Shuigen Huang, Lin Li, Omer Van der Biest, Jef Vleugels, Thermodynamic assessment of the Co–V and Co–V–C system, Journal of Alloys and Compounds 385, 114-118 (2004).  
-_assessment that models this phase_
-- [doi:10.1016/j.matchemphys.2015.06.028](https://doi.org/10.1016/j.matchemphys.2015.06.028) Cuiping Wang, Cancan Zhao, Yong Lu, Tian Li, Dongliang Peng, Ji Shi et al., Experimental observation of magnetically induced phase separation and thermodynamic assessment in the Co–V binary system, Materials Chemistry and Physics 162, 555-560 (2015).  
-_assessment that models this phase_
-- [doi:10.1361/105497103772084534](https://doi.org/10.1361/105497103772084534) Johan Bratberg, Bo Sundman, A thermodynamic assessment of the Co-V system, JPE 24, 495-503 (2003).  
 _assessment that models this phase_
 
 ## LIQUID (Co–V)
@@ -680,8 +681,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -690,7 +691,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -701,7 +702,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

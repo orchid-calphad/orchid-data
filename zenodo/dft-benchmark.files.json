@@ -9,6 +9,8 @@
   "LICENSE",
   "LICENSES.md",
   "NOTICE.md",
+  "CITATIONS.md",
+  "CITATIONS.json",
   "zenodo/dft-benchmark.metadata.json",
   "literature/dft_parity.json",
   "literature/kim2017_crosscheck.json",
@@ -18,13 +20,23 @@
   "parquet/MANIFEST.json"
  ],
  "exclude": [],
- "n_files": 12,
- "total_bytes": 6686425,
+ "n_files": 14,
+ "total_bytes": 6697119,
  "files": [
   {
    "path": "CHANGELOG.md",
    "bytes": 38061,
    "sha256": "60c9cd9470d8dd4d55dedbf8790b1c6f161b2419386b9585d513e0a1b8615f39"
+  },
+  {
+   "path": "CITATIONS.json",
+   "bytes": 3453,
+   "sha256": "f2f881fda27aacd27051b6ed831dad4fa1fb63b521276d7b09d69c1c79344500"
+  },
+  {
+   "path": "CITATIONS.md",
+   "bytes": 3426,
+   "sha256": "f796bcefb8ed75fc904988509dc75befe59aaa0c9d15d9e1379615d7c0841516"
   },
   {
    "path": "LICENSE",
@@ -43,18 +55,18 @@
   },
   {
    "path": "README.md",
-   "bytes": 8741,
-   "sha256": "0746df14f5ddfed9e0be2ff89ab1d05220a6f80bcdf0042b41f9886ac6e977fa"
+   "bytes": 9300,
+   "sha256": "4055c5f5ee11cee87769a5bbf833b1d750d657a4741b5ae4e1bbb1789c8973bb"
   },
   {
    "path": "literature/QUALITY_FIXES.md",
-   "bytes": 277469,
-   "sha256": "3ea7336326b4e5f89e84e1f6b6e18a6029a2ee1d92043248d17f78fb37e211fc"
+   "bytes": 270198,
+   "sha256": "6e93f2c1c8c17209f6146f34a5e2065619974e09796ba3cd90a0db52b9a1c844"
   },
   {
    "path": "literature/dft_parity.json",
-   "bytes": 6014547,
-   "sha256": "a3a69c925eef72bd47be7d25f0b414584ec6ca49f29c53703f4e3a42dfe89945"
+   "bytes": 6018221,
+   "sha256": "08b2cd519359eedd07cb8e8c436131476f291f58c1b2b64b267464653663ffa1"
   },
   {
    "path": "literature/kim2017_crosscheck.json",
@@ -68,18 +80,18 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 25082,
-   "sha256": "1f024113bbc54dfd13f83b9b982d5c0ec22fba78afb1507c4ccfb7c2a07ea44a"
+   "bytes": 26140,
+   "sha256": "0d5ed30639532611a846f2f84ce2b96744db3dae1f539f5e8b73ca0dffe289a9"
   },
   {
    "path": "parquet/dft_parity.parquet",
-   "bytes": 290794,
-   "sha256": "6d39904c59b93d4e60235786f6a8b3453f0dec2ef66e831c5faff56a72858102"
+   "bytes": 291553,
+   "sha256": "fd0ca4269e7191ec7b8af07a73653a139286d16de9fc89d12a71ea00bb420370"
   },
   {
    "path": "zenodo/dft-benchmark.metadata.json",
-   "bytes": 8918,
-   "sha256": "e65a0b3d34f9fee967db6bba8f9a2216af9596a1f83247f0b716e0117095f9ec"
+   "bytes": 13954,
+   "sha256": "1a4e0117ff9a8dee4658b1bf6409405180a6e8b13843c098bf139d0990fb4d12"
   }
  ]
 }

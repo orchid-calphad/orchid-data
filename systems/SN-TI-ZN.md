@@ -1,10 +1,10 @@
 # Sn–Ti–Zn system
 
-> Sn–Ti–Zn system: 65 accepted literature values (phase transition 48, phase equilibrium 8, invariant reaction 7, crystal structure 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Ti–Zn system: 17 accepted literature values (phase equilibrium 8, invariant reaction 7, crystal structure 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-TI-ZN.html · Markdown: https://data.orchid-project.org/systems/SN-TI-ZN.md
 
-65 accepted literature values from 1 paper(s) (experimental 56, model 7, unspecified 2); 0 calculated phase diagram(s).
+17 accepted literature values from 1 paper(s) (experimental 8, model 7, unspecified 2); 0 calculated phase diagram(s). 48 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-TI-ZN.json) · [CSV](https://data.orchid-project.org/systems/SN-TI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-TI-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-TI-ZN.html) · [Markdown](https://data.orchid-project.org/systems/SN-TI-ZN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 56 |
+| experimental | 8 |
 | model | 7 |
 | unspecified | 2 |
 
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 7 |
-| phase transition | 48 |
 | phase equilibrium | 8 |
 | crystal structure | 2 |
 
@@ -40,61 +39,6 @@ Table: Invariant reactions reported in the literature for the Sn–Ti–Zn syste
 | 465.55 | eutectic: L -> (βSn) + (Zn) + TiZn15 | L: Sn 0.852697, Ti 2.100e-5, Zn 0.147282 | model | [1] Doi 2006 | Table 6, p. 10, row 7; `ORC-HLHQN7BSLM` |  |
 
 ## Other properties
-
-### Phase transition (48)
-
-Table: Phase transition, Sn–Ti–Zn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 470.85 K | 470.85 | 3 mass% Ti series; _alloy: Sn 0.415951, Ti 0.0542924, Zn 0.529757_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 21; `ORC-BE6NDCFOQP` |  |
-| Phase transition | 470.85 K | 470.85 | 3 mass% Ti series; _alloy: Sn 0.100218, Ti 0.0438598, Zn 0.855923_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 29; `ORC-JBNQ5OV74L` |  |
-| Phase transition | 470.95 K | 470.95 | 10 mass% Ti series; _alloy: Sn 0.339223, Ti 0.168255, Zn 0.492522_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 37; `ORC-EEUQ6KDJLR` |  |
-| Phase transition | 470.95 K | 470.95 | 10 mass% Ti series; _alloy: Sn 0.533953, Ti 0.189172, Zn 0.276876_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 34; `ORC-QBFQYOQ2XI` |  |
-| Phase transition | 471.05 K | 471.05 | 10 mass% Ti series; _alloy: Sn 0.18327, Ti 0.151503, Zn 0.665228_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 42; `ORC-ZNDYIXBQKC` |  |
-| Phase transition | 471.05 K | 471.05 | 10 mass% Zn series; _alloy: Sn 0.683397, Ti 0.165348, Zn 0.151255_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 14; `ORC-WNXYOL2FM5` |  |
-| Phase transition | 471.05 K | 471.05 | 3 mass% Ti series; _alloy: Sn 0.637746, Ti 0.0616211, Zn 0.300633_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 17; `ORC-2YXXBW6XVP` |  |
-| Phase transition | 471.05 K | 471.05 | 3 mass% Ti series; _alloy: Sn 0.241304, Ti 0.0485217, Zn 0.710174_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 25; `ORC-4UNIMJUGJA` |  |
-| Phase transition | 471.35 K | 471.35 | 10 mass% Zn series; _alloy: Sn 0.717772, Ti 0.127148, Zn 0.15508_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 10; `ORC-WELJFAY3TM` |  |
-| Phase transition | 471.55 K | 471.55 | 10 mass% Zn series; _alloy: Sn 0.753931, Ti 0.0869649, Zn 0.159105_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 7; `ORC-VNJN22J37I` |  |
-| Phase transition | 471.55 K | 471.55 | 10 mass% Zn series; _alloy: Sn 0.792016, Ti 0.0446408, Zn 0.163343_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 4; `ORC-WTUZ7IRNKA` |  |
-| Phase transition | 495.75 K | 495.75 | 10 mass% Zn series; _alloy: Sn 0.792016, Ti 0.0446408, Zn 0.163343_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 5; `ORC-GBWYN5WLZ2` |  |
-| Phase transition | 498.55 K | 498.55 | 10 mass% Zn series; _alloy: Sn 0.753931, Ti 0.0869649, Zn 0.159105_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 8; `ORC-FT4LN7X4GP` |  |
-| Phase transition | 504.65 K | 504.65 | 10 mass% Zn series; _alloy: Sn 0.717772, Ti 0.127148, Zn 0.15508_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 11; `ORC-NIBF6WUAB7` |  |
-| Phase transition | 509.05 K | 509.05 | 10 mass% Zn series; _alloy: Sn 0.683397, Ti 0.165348, Zn 0.151255_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 15; `ORC-EWZNW2LGEE` |  |
-| Phase transition | 553.15 K | 553.15 | 3 mass% Ti series; _alloy: Sn 0.637746, Ti 0.0616211, Zn 0.300633_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 18; `ORC-EBIGRR4V5A` |  |
-| Phase transition | 610.85 K | 610.85 | 10 mass% Ti series; _alloy: Sn 0.339223, Ti 0.168255, Zn 0.492522_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 38; `ORC-4QNGKT67O2` |  |
-| Phase transition | 616.95 K | 616.95 | 3 mass% Ti series; _alloy: Sn 0.415951, Ti 0.0542924, Zn 0.529757_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 22; `ORC-VXY74EDMVA` |  |
-| Phase transition | 639.15 K | 639.15 | 3 mass% Ti series; _alloy: Sn 0.241304, Ti 0.0485217, Zn 0.710174_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 26; `ORC-3HCHGU7PHZ` |  |
-| Phase transition | 642.25 K | 642.25 | 10 mass% Ti series; _alloy: Sn 0.18327, Ti 0.151503, Zn 0.665228_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 43; `ORC-MXFKHQEWVX` |  |
-| Phase transition | 642.85 K | 642.85 | 3 mass% Ti series; _alloy: Sn 0.100218, Ti 0.0438598, Zn 0.855923_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 30; `ORC-SO6VH5BILE` |  |
-| Phase transition | 684.35 K | 684.35 | Ti-Zn; _alloy: Sn 0, Ti 0.0405484, Zn 0.959452_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 1; `ORC-LAEGSJQ264` |  |
-| Phase transition | 687.15 K | 687.15 | 10 mass% Ti series; _alloy: Sn 0.0555583, Ti 0.137784, Zn 0.806657_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 45; `ORC-UK2X3TTTZC` |  |
-| Phase transition | 731.85 K | 731.85 | Ti-Zn; _alloy: Sn 0, Ti 0.0405484, Zn 0.959452_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 2; `ORC-MUAG5AZNWF` |  |
-| Phase transition | 766.75 K | 766.75 | 3 mass% Ti series; _alloy: Sn 0.637746, Ti 0.0616211, Zn 0.300633_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 19; `ORC-KNLGOM5ZQH` |  |
-| Phase transition | 783.05 K | 783.05 | 10 mass% Ti series; _alloy: Sn 0.0555583, Ti 0.137784, Zn 0.806657_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 46; `ORC-N6APFGHNIE` |  |
-| Phase transition | 817.85 K | 817.85 | 3 mass% Ti series; _alloy: Sn 0.100218, Ti 0.0438598, Zn 0.855923_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 31; `ORC-JEODCTG6Z2` |  |
-| Phase transition | 834.55 K | 834.55 | 10 mass% Ti series; _alloy: Sn 0.533953, Ti 0.189172, Zn 0.276876_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 35; `ORC-V5ITVYQL7K` |  |
-| Phase transition | 869.95 K | 869.95 | 3 mass% Ti series; _alloy: Sn 0.637746, Ti 0.0616211, Zn 0.300633_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 20; `ORC-HTEX6ZRWOD` |  |
-| Phase transition | 882.15 K | 882.15 | 3 mass% Ti series; _alloy: Sn 0.241304, Ti 0.0485217, Zn 0.710174_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 27; `ORC-ORH5VSRJZY` |  |
-| Phase transition | 894.05 K | 894.05 | 3 mass% Ti series; _alloy: Sn 0.415951, Ti 0.0542924, Zn 0.529757_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 23; `ORC-JG47W65CJA` |  |
-| Phase transition | 894.35 K | 894.35 | Ti-Zn; _alloy: Sn 0, Ti 0.0405484, Zn 0.959452_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 3; `ORC-4MJ5BI5YXP` |  |
-| Phase transition | 906.85 K | 906.85 | 10 mass% Zn series; _alloy: Sn 0.792016, Ti 0.0446408, Zn 0.163343_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 6; `ORC-X5COBF7K4D` |  |
-| Phase transition | 911.95 K | 911.95 | 3 mass% Ti series; _alloy: Sn 0.100218, Ti 0.0438598, Zn 0.855923_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 32; `ORC-ARVLHFAIWX` |  |
-| Phase transition | 925.05 K | 925.05 | 10 mass% Zn series; _alloy: Sn 0.717772, Ti 0.127148, Zn 0.15508_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 12; `ORC-KTBII57FLD` |  |
-| Phase transition | 925.85 K | 925.85 | 10 mass% Ti series; _alloy: Sn 0.339223, Ti 0.168255, Zn 0.492522_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 39; `ORC-SPUTYNGHNG` |  |
-| Phase transition | 925.95 K | 925.95 | 3 mass% Ti series; _alloy: Sn 0.241304, Ti 0.0485217, Zn 0.710174_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 28; `ORC-MDZIUYOH24` |  |
-| Phase transition | 938.35 K | 938.35 | 10 mass% Ti series; _alloy: Sn 0.0555583, Ti 0.137784, Zn 0.806657_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 47; `ORC-PWK4NB6I2F` |  |
-| Phase transition | 938.35 K | 938.35 | 10 mass% Zn series; _alloy: Sn 0.753931, Ti 0.0869649, Zn 0.159105_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 9; `ORC-GUIMH5YZ43` |  |
-| Phase transition | 947.25 K | 947.25 | 3 mass% Ti series; _alloy: Sn 0.100218, Ti 0.0438598, Zn 0.855923_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 33; `ORC-VBGNU3VH5O` |  |
-| Phase transition | 962.65 K | 962.65 | 10 mass% Ti series; _alloy: Sn 0.0555583, Ti 0.137784, Zn 0.806657_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 48; `ORC-D4RTZ6C72E` |  |
-| Phase transition | 965.05 K | 965.05 | 10 mass% Ti series; _alloy: Sn 0.533953, Ti 0.189172, Zn 0.276876_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 36; `ORC-44YXCVA4FX` |  |
-| Phase transition | 973.75 K | 973.75 | 3 mass% Ti series; _alloy: Sn 0.415951, Ti 0.0542924, Zn 0.529757_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 24; `ORC-P4JCAX6R4E` |  |
-| Phase transition | 997.75 K | 997.75 | 10 mass% Ti series; _alloy: Sn 0.339223, Ti 0.168255, Zn 0.492522_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 40; `ORC-G6SCPLZDQH` |  |
-| Phase transition | 1003.65 K | 1003.65 | 10 mass% Zn series; _alloy: Sn 0.717772, Ti 0.127148, Zn 0.15508_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 13; `ORC-FM2EGZCFSG` |  |
-| Phase transition | 1031.35 K | 1031.35 | 10 mass% Ti series; _alloy: Sn 0.339223, Ti 0.168255, Zn 0.492522_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 41; `ORC-B4JOFYF7SV` |  |
-| Phase transition | 1044.35 K | 1044.35 | 10 mass% Zn series; _alloy: Sn 0.683397, Ti 0.165348, Zn 0.151255_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 16; `ORC-C6MUVKHEJX` |  |
-| Phase transition | 1051.35 K | 1051.35 | 10 mass% Ti series; _alloy: Sn 0.18327, Ti 0.151503, Zn 0.665228_ | experimental | [1] Doi 2006 | Table 1, p. 3, row 44; `ORC-NMO27ZSCVP` |  |
 
 ### Phase equilibrium (8)
 
@@ -128,8 +72,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -138,7 +82,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -149,7 +93,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

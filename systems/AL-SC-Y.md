@@ -1,10 +1,10 @@
 # Al–Sc–Y system
 
-> Al–Sc–Y system: 111 accepted literature values (invariant reaction 83, phase equilibrium 20, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sc–Y system: 103 accepted literature values (invariant reaction 83, phase equilibrium 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SC-Y.html · Markdown: https://data.orchid-project.org/systems/AL-SC-Y.md
 
-111 accepted literature values from 1 paper(s) (experimental 48, model 58, unspecified 5); 0 calculated phase diagram(s).
+103 accepted literature values from 1 paper(s) (experimental 45, model 58); 0 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SC-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-SC-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SC-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SC-Y.html) · [Markdown](https://data.orchid-project.org/systems/AL-SC-Y.md)
 
@@ -12,16 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 48 |
+| experimental | 45 |
 | model | 58 |
-| unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 83 |
-| phase transition | 8 |
 | phase equilibrium | 20 |
 
 ## Invariant reactions (literature)
@@ -116,21 +114,6 @@ Table: Invariant reactions reported in the literature for the Al–Sc–Y system
 
 ## Other properties
 
-### Phase transition (8)
-
-Table: Phase transition, Al–Sc–Y system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1127 K | 1127 | Al3Y5 + AlY2 + hcp_A3/AlY2 + hcp_A3 | unspecified | [1] Hu 2018 | Table 5, p. 7, row 8; `ORC-VHS54ADYJK` |  |
-| Phase transition | 1150 K | 1150 | Al3Y5 + hcp_A3/Al3Y5 + AlY2 + hcp_A3 | experimental | [1] Hu 2018 | Table 5, p. 7, row 6; `ORC-3XDGANSK55` |  |
-| Phase transition | 1158 K | 1158 | Al3Y5 + hcp_A3/Al3Y5 + AlY2 + hcp_A3 | unspecified | [1] Hu 2018 | Table 5, p. 7, row 7; `ORC-V7XIIA3ZOA` |  |
-| Phase transition | 1183 K | 1183 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 | experimental | [1] Hu 2018 | Table 5, p. 7, row 3; `ORC-ZFTADFFHZC` |  |
-| Phase transition | 1197 K | 1197 | Liquid/Liquid + Al3Y5 | experimental | [1] Hu 2018 | Table 5, p. 7, row 1; `ORC-UNWNZ7MHNL` |  |
-| Phase transition | 1242 K | 1242 | Liquid + Al3Y5 + hcp_A3/Al3Y5 + hcp_A3 | unspecified | [1] Hu 2018 | Table 5, p. 7, row 5; `ORC-MG3RR7RTSF` |  |
-| Phase transition | 1242 K | 1242 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 | unspecified | [1] Hu 2018 | Table 5, p. 7, row 4; `ORC-RRL6BO62FQ` |  |
-| Phase transition | 1255 K | 1255 | Liquid/Liquid + Al3Y5 | unspecified | [1] Hu 2018 | Table 5, p. 7, row 2; `ORC-XY6VG3UT6X` |  |
-
 ### Phase equilibrium (20)
 
 Table: Phase equilibrium, Al–Sc–Y system
@@ -166,8 +149,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -176,7 +159,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -187,7 +170,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

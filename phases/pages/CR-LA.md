@@ -12,9 +12,9 @@ Table: Phases of the Cr–La system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cr-la-bcc-a2); _phase:cr-la:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.16 K, x(La) 0–1 | 10 | 2 |
+| [BCC_A2](#phase-cr-la-bcc-a2); _phase:cr-la:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.16 K, x(La) 0–1 | 11 | 2 |
 | [DHCP](#phase-cr-la-dhcp-a3); _phase:cr-la:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1125 K, x(La) 1–1 | 1 | 2 |
-| [FCC_A1](#phase-cr-la-fcc-a1); _phase:cr-la:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 549.93–1189 K, x(La) 0.99553–1 | 0 | 2 |
+| [FCC_A1](#phase-cr-la-fcc-a1); _phase:cr-la:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 549.93–1189 K, x(La) 0.99553–1 | 4 | 2 |
 | [HCP_A3](#phase-cr-la-hcp-a3); _phase:cr-la:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-cr-la-liquid); _phase:cr-la:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1126.03–4000 K, x(La) 0–1 | 12 | 2 |
 
@@ -23,11 +23,11 @@ Table: Phases of the Cr–La system (5)
 - Id: `phase:cr-la:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3999.16 K, x(La) 0–1
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-la:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:cr-la:bcc-a2  
-_paper: _paper:10.1007/s11669-009-9581-3:Cr  
+Names (5): _corpus: _corpus:phase:cr-la:bcc-a2  
+_paper: _paper:10.1007/s11669-009-9581-3:Cr, paper:10.1007/s11669-009-9581-3:γLa  
 _tdb: _tdb:CrLa-09Cha.tdb:BCC_A2, tdb:CrLa-09Pov.tdb:BCC_A2  
 
 
@@ -96,10 +96,11 @@ _assessment that models this phase_
 - Id: `phase:cr-la:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 549.93–1189 K, x(La) 0.99553–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-la:fcc-a1)
 
-Names (3): _corpus: _corpus:phase:cr-la:fcc-a1  
+Names (4): _corpus: _corpus:phase:cr-la:fcc-a1  
+_paper: _paper:10.1007/s11669-009-9581-3:βLa  
 _tdb: _tdb:CrLa-09Cha.tdb:FCC_A1, tdb:CrLa-09Pov.tdb:FCC_A1  
 
 
@@ -121,9 +122,9 @@ _tdb: _tdb:CrLa-09Cha.tdb:FCC_A1, tdb:CrLa-09Pov.tdb:FCC_A1
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1007/s11669-008-9463-0](https://doi.org/10.1007/s11669-008-9463-0) E. Povoden, M. Chen, A.N. Grundy, T. Ivas, L.J. Gauckler, Thermodynamic Assessment of the La-Cr-O System, J. Phase Equilib. Diffus. 30, 12-27 (2009).  
-_assessment that models this phase_
 - [doi:10.1007/s11669-009-9581-3](https://doi.org/10.1007/s11669-009-9581-3) Wren Chan, Michael C. Gao, Ömer N. Doğan, Paul King, Anthony D. Rollett, Thermodynamic Assessment of Cr-Rare Earth Systems, J. Phase Equilib. Diffus. 30, 578-586 (2009).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-008-9463-0](https://doi.org/10.1007/s11669-008-9463-0) E. Povoden, M. Chen, A.N. Grundy, T. Ivas, L.J. Gauckler, Thermodynamic Assessment of the La-Cr-O System, J. Phase Equilib. Diffus. 30, 12-27 (2009).  
 _assessment that models this phase_
 
 ## HCP_A3 (Cr–La)
@@ -202,8 +203,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -212,7 +213,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -223,7 +224,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

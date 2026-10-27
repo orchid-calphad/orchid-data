@@ -1,10 +1,10 @@
 # Bi–Mg–Sb system
 
-> Bi–Mg–Sb system: 51 accepted literature values (phase transition 38, phase equilibrium 8, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Mg–Sb system: 13 accepted literature values (phase equilibrium 8, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-MG-SB.html · Markdown: https://data.orchid-project.org/systems/BI-MG-SB.md
 
-51 accepted literature values from 1 paper(s) (experimental 47, unspecified 4); 0 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 9, unspecified 4); 0 calculated phase diagram(s). 38 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-MG-SB.json) · [CSV](https://data.orchid-project.org/systems/BI-MG-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-MG-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-MG-SB.html) · [Markdown](https://data.orchid-project.org/systems/BI-MG-SB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 47 |
+| experimental | 9 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase transition | 38 |
 | phase equilibrium | 8 |
 
 ## Invariant reactions (literature)
@@ -36,51 +35,6 @@ Table: Invariant reactions reported in the literature for the Bi–Mg–Sb syste
 | 536.38 | eutectic: L -> Rho(Bi) + α-Mg3Bi2 + α-Mg3Sb2 | L: Bi 0.9666, Mg 0.0333 | unspecified | [1] Zhang 2022 | Table 6, p. 10, row 5; `ORC-GQASUTUMLF` |  |
 
 ## Other properties
-
-### Phase transition (38)
-
-Table: Phase transition, Bi–Mg–Sb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 823.65 K | 823.65 | A4 Signal 1b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 18; `ORC-6TY26SQH5N` |  |
-| Phase transition | 828.15 K | 828.15 | A4 Signal 1a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 16; `ORC-AIOKGRQOU7` |  |
-| Phase transition | 845.55 K | 845.55 | A4 Signal 3b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 19; `ORC-QPONHLJHW4` |  |
-| Phase transition | 849.65 K | 849.65 | A4 Signal 4a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 17; `ORC-UIPSQD6O6J` |  |
-| Phase transition | 862.45 K | 862.45 | A8 Signal 1a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 33; `ORC-ZKMONS5OYZ` |  |
-| Phase transition | 868.25 K | 868.25 | A5 Signal 1a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 20; `ORC-ZGVMCQOS2E` |  |
-| Phase transition | 872.95 K | 872.95 | A8 Signal 2a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 34; `ORC-UG7EBQIZZF` |  |
-| Phase transition | 875.75 K | 875.75 | A2 Signal 1a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 6; `ORC-NTPWJ2E4DZ` |  |
-| Phase transition | 876.55 K | 876.55 | A6 Signal 1a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 25; `ORC-YP4HUQTBNX` |  |
-| Phase transition | 879.95 K | 879.95 | A8 Signal 1b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 37; `ORC-6EXFWFGYMW` |  |
-| Phase transition | 881.55 K | 881.55 | A5 Signal 1b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 23; `ORC-PSUKC7UV6P` |  |
-| Phase transition | 883.65 K | 883.65 | A7 Signal 1a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 30; `ORC-FXZBVCVVSN` |  |
-| Phase transition | 885.75 K | 885.75 | A2 Signal 1b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 9; `ORC-HS2W6XMND4` |  |
-| Phase transition | 886.65 K | 886.65 | A6 Signal 1b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 28; `ORC-CL3JYQPUUP` |  |
-| Phase transition | 888.45 K | 888.45 | A3 Signal 1a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 11; `ORC-7YVK74X2IM` |  |
-| Phase transition | 888.85 K | 888.85 | A1 Signal 1a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 1; `ORC-ZPFJV75H2Y` |  |
-| Phase transition | 888.85 K | 888.85 | A7 Signal 3b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 32; `ORC-64X4GXKZBD` |  |
-| Phase transition | 888.95 K | 888.95 | A8 Signal 3a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 35; `ORC-NQXQ6WPOOE` |  |
-| Phase transition | 889.65 K | 889.65 | A5 Signal 2a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 21; `ORC-S6OZBT3WIJ` |  |
-| Phase transition | 890.45 K | 890.45 | A3 Signal 1b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 14; `ORC-PGVYNZ6MSC` |  |
-| Phase transition | 891.85 K | 891.85 | A1 Signal 1b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 4; `ORC-YOHTSP4XJQ` |  |
-| Phase transition | 893.55 K | 893.55 | A8 Signal 3b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 38; `ORC-D4CMUFK4HF` |  |
-| Phase transition | 894.65 K | 894.65 | A7 Signal 4a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 31; `ORC-RXF6MKKZA2` |  |
-| Phase transition | 895.65 K | 895.65 | A6 Signal 2a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 26; `ORC-RW7F6AYWCX` |  |
-| Phase transition | 896.15 K | 896.15 | A2 Signal 2a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 7; `ORC-S62QIXQ6DS` |  |
-| Phase transition | 897.65 K | 897.65 | A2 Signal 3b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 10; `ORC-AYDZP63HWZ` |  |
-| Phase transition | 897.65 K | 897.65 | A6 Signal 3b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 29; `ORC-C7ZRMCTNGQ` |  |
-| Phase transition | 897.75 K | 897.75 | A8 Signal 4a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 36; `ORC-T5PVG5SAM4` |  |
-| Phase transition | 900.65 K | 900.65 | A1 Signal 2a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 2; `ORC-MRQ5AYB3F3` |  |
-| Phase transition | 901.35 K | 901.35 | A3 Signal 2a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 12; `ORC-5LY2UAQR4A` |  |
-| Phase transition | 901.45 K | 901.45 | A1 Signal 3b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 5; `ORC-CHOM6VY57E` |  |
-| Phase transition | 901.95 K | 901.95 | A3 Signal 3b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 15; `ORC-PM5MGG4QAO` |  |
-| Phase transition | 902.65 K | 902.65 | A2 Signal 4a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 8; `ORC-YNU7OGUA3E` |  |
-| Phase transition | 902.95 K | 902.95 | A6 Signal 4a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 27; `ORC-BKBB5KOGXJ` |  |
-| Phase transition | 903.95 K | 903.95 | A5 Signal 3b (cooling) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 24; `ORC-N7LISQ4GHY` |  |
-| Phase transition | 905.65 K | 905.65 | A1 Signal 4a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 3; `ORC-XVPU26BSBU` |  |
-| Phase transition | 906.35 K | 906.35 | A3 Signal 4a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 13; `ORC-PILUAILKY6` |  |
-| Phase transition | 907.45 K | 907.45 | A5 Signal 4a (heating) | experimental | [1] Zhang 2022 | Table 3, p. 4, row 22; `ORC-62W43EB5NT` |  |
 
 ### Phase equilibrium (8)
 
@@ -105,8 +59,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -115,7 +69,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -126,7 +80,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

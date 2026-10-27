@@ -1,10 +1,10 @@
 # Mg–Mn system
 
-> Mg–Mn system: 28 accepted literature values (phase transition 23, invariant reaction 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Mn system: 23 accepted literature values (phase transition 18, invariant reaction 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-MN.html · Markdown: https://data.orchid-project.org/systems/MG-MN.md
 
-28 accepted literature values from 2 paper(s) (experimental 23, model 5); 2 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+23 accepted literature values from 2 paper(s) (experimental 18, model 5); 2 calculated phase diagram(s). 23 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-MN.json) · [CSV](https://data.orchid-project.org/systems/MG-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-MN/MgMn-05Gro.json) · [phases (6)](https://data.orchid-project.org/phases/pages/MG-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-MN.html) · [Markdown](https://data.orchid-project.org/systems/MG-MN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 23 |
+| experimental | 18 |
 | model | 5 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase transition | 23 |
+| phase transition | 18 |
 
 ## Calculated phase diagrams
 
@@ -66,7 +66,7 @@ Table: Invariant reactions reported in the literature for the Mg–Mn system (5)
 
 ## Other properties
 
-### Phase transition (23)
+### Phase transition (18)
 
 Table: Phase transition, Mg–Mn system
 
@@ -75,11 +75,8 @@ Table: Phase transition, Mg–Mn system
 | Phase transition | 917.15 K | 917.15 | eutectic: L' + αMn = (Mg); _alloy: Mg 0.1, Mn 0.9_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 13; `ORC-UFXI2ZXJW4` |  |
 | Phase transition | 919.15 K | 919.15 | eutectic: L' + αMn = (Mg); _alloy: Mg 0.2, Mn 0.8_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 6; `ORC-TOYMWF4XHW` |  |
 | Phase transition | 922.15 K | 922.15 | eutectic: L' + αMn = (Mg); _alloy: Mg 0.5, Mn 0.5_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 2; `ORC-7DBFWV3ZYL` |  |
-| Phase transition | 923.15 K | 923.15 | Liquid = (Mg); _alloy: Mg 1, Mn 0_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 1; `ORC-5DLF6CQ4MS` |  |
 | Phase transition | 1004.15 K | 1004.15 | eutectic: αMn = βMn, (L'); _alloy: Mg 0.1, Mn 0.9_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 14; `ORC-HXB3X3UIFA` |  |
 | Phase transition | 1004.15 K | 1004.15 | eutectic: αMn = βMn, (L'); _alloy: Mg 0.2, Mn 0.8_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 7; `ORC-KUXNQP7I3K` |  |
-| Phase transition | 1007.15 K | 1007.15 | αMn = βMn; _alloy: Mg 0, Mn 1_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 21; `ORC-TSENU6UA2P` |  |
-| Phase transition | 1351.15 K | 1351.15 | βMn = γMn; _alloy: Mg 0, Mn 1_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 22; `ORC-JK4QFNS2PJ` |  |
 | Phase transition | 1356.15 K | 1356.15 | eutectic: βMn = γMn, (L'); _alloy: Mg 0.1, Mn 0.9_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 15; `ORC-Q4IQKQE3ED` |  |
 | Phase transition | 1368.15 K | 1368.15 | eutectic: βMn = γMn, (L'); _alloy: Mg 0.2, Mn 0.8_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 8; `ORC-EW3QE5OY4K` |  |
 | Phase transition | 1373.15 K | 1373.15 | eutectic: (f); _alloy: Mg 0.1, Mn 0.9_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 16; `ORC-G5JACN4JQJ` |  |
@@ -87,14 +84,12 @@ Table: Phase transition, Mg–Mn system
 | Phase transition | 1393.15 K | 1393.15 | eutectic: (f); _alloy: Mg 0.5, Mn 0.5_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 3; `ORC-VKPEVBZOGQ` |  |
 | Phase transition | 1408.15 K | 1408.15 | eutectic: γMn = δMn, (L'); _alloy: Mg 0.2, Mn 0.8_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 10; `ORC-KKI72KGQFL` |  |
 | Phase transition | 1410.15 K | 1410.15 | eutectic: γMn = δMn, (L'); _alloy: Mg 0.1, Mn 0.9_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 18; `ORC-23UUVZDK37` |  |
-| Phase transition | 1411.15 K | 1411.15 | γMn = δMn; _alloy: Mg 0, Mn 1_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 23; `ORC-YSBLW6LCGZ` |  |
 | Phase transition | 1470.15 K | 1470.15 | eutectic: L'' = L' + δMn; _alloy: Mg 0.1, Mn 0.9_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 19; `ORC-ETWU6HCX5I` |  |
 | Phase transition | 1470.15 K | 1470.15 | eutectic: L'' = L' + δMn; _alloy: Mg 0.5, Mn 0.5_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 4; `ORC-NQUANJZS52` |  |
 | Phase transition | 1471.15 K | 1471.15 | eutectic: L'' = L' + δMn; _alloy: Mg 0.2, Mn 0.8_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 11; `ORC-R6FPR2KTW4` |  |
 | Phase transition | 1473.15 K | 1473.15 | eutectic: (f); _alloy: Mg 0.1, Mn 0.9_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 20; `ORC-2FP55EVVDL` |  |
 | Phase transition | 1474.15 K | 1474.15 | eutectic: (f); _alloy: Mg 0.2, Mn 0.8_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 12; `ORC-ZGQPEENUOD` |  |
 | Phase transition | 1476.15 K | 1476.15 | eutectic: (f); _alloy: Mg 0.5, Mn 0.5_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 5; `ORC-QDLIEUFTH3` |  |
-| Phase transition | 1514.15 K | 1514.15 | δMn = Liquid; _alloy: Mg 0, Mn 1_ | experimental | [2] Gröbner 2005 | Table 1, p. 2, row 24; `ORC-M5BMZN3JQZ` |  |
 
 ## Sources
 
@@ -105,10 +100,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -117,7 +112,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -128,7 +123,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -138,7 +133,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -148,7 +143,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

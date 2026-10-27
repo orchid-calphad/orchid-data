@@ -59,7 +59,7 @@
    "value": 500.0,
    "name": "ESPEI experimental default sigma_HM = 500 J/mol"
   },
-  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset",
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); this export uses a scalar weight for equilibrium/activity data; unequal-sigma groups are split before release",
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
@@ -68,14 +68,14 @@
     "budget": {
      "sigma_printed": 6110.0,
      "sigma_reading": 0.05,
-     "sigma_method": 3800.0,
+     "sigma_method": 4100.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": 6110.0,
      "method_class": "experimental_unspecified",
-     "method_basis": "calibrated",
-     "method_n_pairs": 30,
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 29,
      "method_entry": "value_types/HM_FORM/classes/experimental_unspecified"
     },
     "printed": {

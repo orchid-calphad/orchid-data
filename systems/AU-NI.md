@@ -1,10 +1,10 @@
 # Au–Ni system
 
-> Au–Ni system: 12 accepted literature values (phase transition 6, mixing / partial 6) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ni system: 9 accepted literature values (mixing / partial 6, phase transition 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-NI.html · Markdown: https://data.orchid-project.org/systems/AU-NI.md
 
-12 accepted literature values from 2 paper(s) (experimental 4, model 8); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+9 accepted literature values from 2 paper(s) (experimental 2, model 7); 3 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-NI.json) · [CSV](https://data.orchid-project.org/systems/AU-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-NI/AuNi-05Fra.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AU-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-NI.html) · [Markdown](https://data.orchid-project.org/systems/AU-NI.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
-| model | 8 |
+| experimental | 2 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 6 |
+| phase transition | 3 |
 | mixing / partial | 6 |
 
 ## Calculated phase diagrams
@@ -38,15 +38,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (3)
 
 Table: Phase transition, Au–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1083 K | 1083 | other: Critical point; _alloy: Au 0.276, Ni 0.724_ | experimental | [1] Wang 2005; _cites Esdaile 1971_ | Table 2, p. 3, row 5; `ORC-3WZD5A2FIH` |  |
-| Phase transition | 1083.5 K | 1083.5 | other: Critical point; _alloy: Au 0.275, Ni 0.725_ | experimental | [1] Wang 2005; _cites Hansen 1958_ | Table 2, p. 3, row 6; `ORC-FWTDNMUVKC` |  |
-| Phase transition | 1089.5 K | 1089.5 | other: Critical point; _alloy: Au 0.27, Ni 0.73_ | model | [1] Wang 2005 | Table 2, p. 3, row 4; `ORC-4N5SAWCRUM` |  |
 | Phase transition | 1214.3 K | 1214.3 | congruent transformation: Congruent point; _alloy: Au 0.574, Ni 0.426_ | model | [1] Wang 2005 | Table 2, p. 3, row 1; `ORC-45CZ4P7TXR` |  |
 | Phase transition | 1224 K | 1224 | congruent transformation: Congruent point | experimental | [1] Wang 2005; _cites Esdaile 1971_ | Table 2, p. 3, row 2; `ORC-V6QIPUPBRV` |  |
 | Phase transition | 1228 K | 1228 | congruent transformation: Congruent point; _alloy: Au 0.575, Ni 0.425_ | experimental | [1] Wang 2005; _cites Hansen 1958_ | Table 2, p. 3, row 3; `ORC-EAVFQ66C6J` |  |
@@ -73,10 +70,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -85,7 +82,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -96,7 +93,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -106,7 +103,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -116,7 +113,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

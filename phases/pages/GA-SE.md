@@ -12,22 +12,22 @@ Table: Phases of the Ga–Se system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [ORTHORHOMBIC_A11](#phase-ga-se-a11-orthorhombic); _phase:ga-se:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 5 | 1 |
-| [HEXAGONAL_A8](#phase-ga-se-a8-hexagonal); _phase:ga-se:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 6 | 1 |
-| [BCC_A2](#phase-ga-se-bcc-a2); _phase:ga-se:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [FCC_A1](#phase-ga-se-fcc-a1); _phase:ga-se:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [GA2SE3_B3](#phase-ga-se-ga2se3-b3); _phase:ga-se:ga2se3-b3_ | ZnS (sphalerite) · B3 · cF8 · F-43m (216) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 29 | 1 |
-| [GA2SE3_BETA](#phase-ga-se-ga2se3-beta); _phase:ga-se:ga2se3-beta_ | beta-Ga2Se3 · mC20 · Cc (9) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 21 | 1 |
-| [GASE](#phase-ga-se-gase); _phase:ga-se:gase_ | GaSe · hP8 · P-6m2 (187) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 52 | 1 |
-| [HCP_A3](#phase-ga-se-hcp-a3); _phase:ga-se:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [ION](#phase-ga-se-ion); _phase:ga-se:ion_ | liquid | liquid | not stable in 1 calculated diagram(s) | 0 | 1 |
+| [ORTHORHOMBIC_A11](#phase-ga-se-a11-orthorhombic); _phase:ga-se:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | no calculated diagram | 5 | 1 |
+| [HEXAGONAL_A8](#phase-ga-se-a8-hexagonal); _phase:ga-se:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | no calculated diagram | 6 | 1 |
+| [BCC_A2](#phase-ga-se-bcc-a2); _phase:ga-se:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | no calculated diagram | 0 | 1 |
+| [FCC_A1](#phase-ga-se-fcc-a1); _phase:ga-se:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | no calculated diagram | 0 | 1 |
+| [GA2SE3_B3](#phase-ga-se-ga2se3-b3); _phase:ga-se:ga2se3-b3_ | ZnS (sphalerite) · B3 · cF8 · F-43m (216) | tier A: standard phase name | no calculated diagram | 29 | 1 |
+| [GA2SE3_BETA](#phase-ga-se-ga2se3-beta); _phase:ga-se:ga2se3-beta_ | beta-Ga2Se3 · mC20 · Cc (9) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | no calculated diagram | 21 | 1 |
+| [GASE](#phase-ga-se-gase); _phase:ga-se:gase_ | GaSe · hP8 · P-6m2 (187) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | no calculated diagram | 52 | 1 |
+| [HCP_A3](#phase-ga-se-hcp-a3); _phase:ga-se:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 1 |
+| [ION](#phase-ga-se-ion); _phase:ga-se:ion_ | liquid | liquid | no calculated diagram | 0 | 1 |
 
 ## ORTHORHOMBIC_A11 (Ga–Se)
 
 - Id: `phase:ga-se:a11-orthorhombic`; status `assigned`
 - Structure: alpha-Ga · A11 · oC8 · Cmce (64); type `st:a11-alpha-ga-oc8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ga 1.0000
-- Stability: not stable in 1 calculated diagram(s)
+- Stability: no calculated diagram
 - Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:a11-orthorhombic)
 
@@ -57,7 +57,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ga-se:a8-hexagonal`; status `assigned`
 - Structure: gamma-Se · A8 · hP3 · P3_121 (152); type `st:a8-gamma-se-hp3`; tier A: standard phase name; confidence high
 - Stoichiometry: Se 1.0000
-- Stability: not stable in 1 calculated diagram(s)
+- Stability: no calculated diagram
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:a8-hexagonal)
 
@@ -87,7 +87,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ga-se:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stoichiometry: Ga 1.0000
-- Stability: not stable in 1 calculated diagram(s)
+- Stability: no calculated diagram
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:bcc-a2)
 
@@ -114,7 +114,7 @@ _assessment that models this phase_
 - Id: `phase:ga-se:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stoichiometry: Ga 1.0000
-- Stability: not stable in 1 calculated diagram(s)
+- Stability: no calculated diagram
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:fcc-a1)
 
@@ -140,7 +140,7 @@ _assessment that models this phase_
 
 - Id: `phase:ga-se:ga2se3-b3`; status `assigned`
 - Structure: ZnS (sphalerite) · B3 · cF8 · F-43m (216); type `st:b3-zns-sphalerite-cf8`; tier A: standard phase name; confidence high
-- Stability: not stable in 1 calculated diagram(s)
+- Stability: no calculated diagram
 - Literature: 29 values (29 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:ga2se3-b3)
 
@@ -178,7 +178,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.4000, Se 0.6000
-- Stability: not stable in 1 calculated diagram(s)
+- Stability: no calculated diagram
 - Literature: 21 values (21 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:ga2se3-beta)
 
@@ -216,7 +216,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.5000, Se 0.5000
-- Stability: not stable in 1 calculated diagram(s)
+- Stability: no calculated diagram
 - Literature: 52 values (52 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:gase)
 
@@ -256,7 +256,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ga-se:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stoichiometry: Ga 1.0000
-- Stability: not stable in 1 calculated diagram(s)
+- Stability: no calculated diagram
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:hcp-a3)
 
@@ -282,7 +282,7 @@ _assessment that models this phase_
 
 - Id: `phase:ga-se:ion`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
-- Stability: not stable in 1 calculated diagram(s)
+- Stability: no calculated diagram
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:ion)
 
@@ -306,8 +306,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -316,7 +316,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -327,7 +327,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

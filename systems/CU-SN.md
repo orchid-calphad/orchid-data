@@ -1,10 +1,10 @@
 # Cu–Sn system
 
-> Cu–Sn system: 107 accepted literature values (invariant reaction 68, phase transition 21, formation 14, phase equilibrium 4) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sn system: 92 accepted literature values (invariant reaction 68, formation 14, phase transition 6, phase equilibrium 4) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SN.html · Markdown: https://data.orchid-project.org/systems/CU-SN.md
 
-107 accepted literature values from 4 paper(s) (experimental 50, model 57); 9 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+92 accepted literature values from 4 paper(s) (experimental 35, model 57); 9 calculated phase diagram(s). 22 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SN.json) · [CSV](https://data.orchid-project.org/systems/CU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SN/CuSn-02Mie.json) · [phases (16)](https://data.orchid-project.org/phases/pages/CU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SN.html) · [Markdown](https://data.orchid-project.org/systems/CU-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 50 |
+| experimental | 35 |
 | model | 57 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 68 |
-| phase transition | 21 |
+| phase transition | 6 |
 | phase equilibrium | 4 |
 | formation | 14 |
 
@@ -336,33 +336,18 @@ Table: Enthalpies of formation, Cu–Sn system (14)
 
 ## Other properties
 
-### Phase transition (21)
+### Phase transition (6)
 
 Table: Phase transition, Cu–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 624.15 K | 624.15 | other | model | [3] Dong 2014; _cites Li 2013_ [doi](https://doi.org/10.1016/j.intermet.2012.10.010) | p. 2; `ORC-PKIB65PYVH` | “Furthermore, the parameter of Cu41Sn11 was modified on the basis of the work of \[12\], since the decomposition temperature of Cu41Sn11 was estimated to be at 351 °C in \[12\] while this phase was found to be unstable lower than 380 °C in Au-Cu-Sn ternary system \[16\].” |
-| Phase transition | 787.15 K | 787.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [4] Liu 2004 | Table II, p. 5, row 12; `ORC-ETABS6WJCZ` |  |
-| Phase transition | 787.15 K | 787.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [4] Liu 2004 | Table II, p. 5, row 8; `ORC-YGEEW5K2OF` |  |
-| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.847, Sn 0.153_ | experimental | [4] Liu 2004 | Table II, p. 5, row 4; `ORC-2MK25M24I3` |  |
-| Phase transition | 788.15 K | 788.15 | other: First-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [4] Liu 2004 | Table II, p. 5, row 2; `ORC-E6O74B5MZL` |  |
-| Phase transition | 847.15 K | 847.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.88, Sn 0.12_ | experimental | [4] Liu 2004 | Table II, p. 5, row 1; `ORC-4NY6XLHCKU` |  |
-| Phase transition | 848.15 K | 848.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [4] Liu 2004 | Table II, p. 5, row 9; `ORC-JIADXPNRX2` |  |
-| Phase transition | 893.15 K | 893.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [4] Liu 2004 | Table II, p. 5, row 13; `ORC-2Y3EUV7LCL` |  |
-| Phase transition | 922.15 K | 922.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [4] Liu 2004 | Table II, p. 5, row 7; `ORC-ARQWIEGYRH` |  |
-| Phase transition | 923.15 K | 923.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [4] Liu 2004 | Table II, p. 5, row 16; `ORC-ZC6QBGYZF7` |  |
 | Phase transition | 941.15 K | 941.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002 | Table IV, p. 6, row 9; `ORC-2UBJRQHYNG` |  |
 | Phase transition | 945 K | 945 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013 | Table 2, p. 6, row 8; `ORC-BJSD6SA7UJ` |  |
 | Phase transition | 949 K | 949 | congruent transformation: γ \<-> ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [2] Li 2013; _cites Saunders 1994_ | Table 2, p. 6, row 7; `ORC-LIM2JQJRB4` |  |
 | Phase transition | 949.15 K | 949.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | experimental | [1] Miettinen 2002; _cites Raynor 1994_ | Table IV, p. 6, row 7; `ORC-7OPMC4CQIO` |  |
 | Phase transition | 950.15 K | 950.15 | γ-ε; _γ: Sn 0.25; ε: Sn 0.25_ | model | [1] Miettinen 2002; _cites Shim 1996_ [doi](https://doi.org/10.1515/ijmr-1996-870310) | Table IV, p. 6, row 8; `ORC-A5ZG6UYITF` |  |
-| Phase transition | 972.15 K | 972.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [4] Liu 2004 | Table II, p. 5, row 11; `ORC-F3XXSQAASS` |  |
-| Phase transition | 984.15 K | 984.15 | other: B2/D0_3 Second-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [4] Liu 2004 | Table II, p. 5, row 15; `ORC-3O5TJGGWGH` |  |
-| Phase transition | 1013.15 K | 1013.15 | other: First-Order Transition; _alloy: Cu 0.777, Sn 0.223_ | experimental | [4] Liu 2004 | Table II, p. 5, row 17; `ORC-WC2BWTVRJV` |  |
-| Phase transition | 1038.15 K | 1038.15 | other: First-Order Transition; _alloy: Cu 0.801, Sn 0.199_ | experimental | [4] Liu 2004 | Table II, p. 5, row 14; `ORC-M433MHINUY` |  |
-| Phase transition | 1063.15 K | 1063.15 | other: First-Order Transition; _alloy: Cu 0.831, Sn 0.169_ | experimental | [4] Liu 2004 | Table II, p. 5, row 10; `ORC-BG3MZPOCHI` |  |
-| Phase transition | 1072.15 K | 1072.15 | other: First-Order Transition; _alloy: Cu 0.847, Sn 0.153_ | experimental | [4] Liu 2004 | Table II, p. 5, row 5; `ORC-LQR2XTEO26` |  |
 
 ### Phase equilibrium (4)
 
@@ -386,10 +371,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -398,7 +383,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -409,7 +394,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -419,7 +404,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -429,7 +414,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

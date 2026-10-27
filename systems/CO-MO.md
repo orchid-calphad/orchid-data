@@ -133,7 +133,7 @@ Table: Formation, Co–Mo system
 | Entropy of formation; _printed: ΔfS298_ | 1.8 unknown ± 0.8 | 298.15 | μ; _alloy: Co 0.52, Mo 0.48_ | model | [1] Davydov 2003; _cites Brewer 1980_ [doi](https://doi.org/10.1007/bf02881194) | Table 2, p. 3, row 4; `ORC-BF4EP3LAC2.7d544f` |  |
 | Entropy of formation; _printed: ΔfS298_ | 1.8 J/mol-atom/K ± 0.8 | 298.15 | μ; _alloy: Mo 0.48_ | model | [2] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 4; `ORC-DHLIKGMBMD.d243a8` |  |
 | Entropy of formation; _printed: ΔfS^298_ | 2.4 J/mol-atom/K | 298.15 | μ; _alloy: Mo 0.48_ | model | [2] Davydov 1999 | Table 5, p. 10, row 3; `ORC-Z3OW525ZME.446ec0` |  |
-| Entropy of formation; _printed: ΔfS298_ | 2.1 unknown | 298.15 | σ; _alloy: Co 0.37, Mo 0.63_ | model | [1] Davydov 2003 | Table 2, p. 3, row 5; `ORC-GCTW4OD7V3.e03ed5` |  |
+| Entropy of formation; _printed: ΔfS298_ | 2.1 J/mol-atom/K | 298.15 | σ; _alloy: Co 0.37, Mo 0.63_ | model | [1] Davydov 2003 | Table 2, p. 3, row 5; `ORC-GCTW4OD7V3.e03ed5` |  |
 | Entropy of formation; _printed: ΔfS298_ | 3.3 unknown ± 1.2 | 298.15 | σ; _alloy: Co 0.37, Mo 0.63_ | model | [1] Davydov 2003; _cites Brewer 1980_ [doi](https://doi.org/10.1007/bf02881194) | Table 2, p. 3, row 6; `ORC-KOCE3OJSCW.c51c25` |  |
 | Entropy of formation; _printed: ΔfS^298_ | 3.3 J/mol-atom/K ± 1.2 | 298.15 | σ; _alloy: Mo 0.63_ | model | [2] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 6; `ORC-MOED6WKCD5.91b49f` |  |
 | Entropy of formation; _printed: ΔfS298_ | 3 J/mol-atom/K | 298.15 | σ; _alloy: Mo 0.63_ | model | [2] Davydov 1999 | Table 5, p. 10, row 5; `ORC-ZX22253LET.86fa54` |  |
@@ -166,10 +166,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -178,7 +178,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -189,7 +189,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -199,7 +199,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -209,7 +209,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

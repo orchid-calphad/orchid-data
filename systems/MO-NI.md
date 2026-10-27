@@ -1,10 +1,10 @@
 # Mo–Ni system
 
-> Mo–Ni system: 59 accepted literature values (formation 42, invariant reaction 16, phase transition 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ni system: 38 accepted literature values (formation 21, invariant reaction 16, phase transition 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NI.html · Markdown: https://data.orchid-project.org/systems/MO-NI.md
 
-59 accepted literature values from 3 paper(s) (experimental 7, model 10, DFT 42); 5 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+38 accepted literature values from 3 paper(s) (experimental 7, model 10, DFT 21); 5 calculated phase diagram(s). 30 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI.json) · [CSV](https://data.orchid-project.org/systems/MO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-NI/MoNi-01Mor.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MO-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NI.html) · [Markdown](https://data.orchid-project.org/systems/MO-NI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 7 |
 | model | 10 |
-| DFT | 42 |
+| DFT | 21 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 16 |
 | phase transition | 1 |
-| formation | 42 |
+| formation | 21 |
 
 ## Calculated phase diagrams
 
@@ -113,7 +113,7 @@ Table: Invariant reactions reported in the literature for the Mo–Ni system (16
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–Ni system (42)
+Table: Enthalpies of formation, Mo–Ni system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -132,27 +132,6 @@ Table: Enthalpies of formation, Mo–Ni system (42)
 | Ni₃Mo |  | 42.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 41; `ORC-EESI7CPK4A.b47cb5` |  |
 | Ni₄Mo |  | -7.55 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 45; `ORC-6UJLVI53GL.b3b7f9` |  |
 | Ni₈Mo |  | -4.44 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 46; `ORC-JXG2SLOUIY.216e02` |  |
-| UNKNOWN |  | -8.54 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 42; `ORC-IUGTOAH2WK.d16e7a` |  |
-| UNKNOWN |  | -8.34 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 40; `ORC-XBXAS7ODAS.432a17` |  |
-| UNKNOWN |  | -7.55 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 45; `ORC-6UJLVI53GL.a2fd88` |  |
-| UNKNOWN |  | -6.405 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 32; `ORC-BE5RUGJH4N.feed25` |  |
-| UNKNOWN |  | -4.663 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 33; `ORC-27CKX4VFJC.9e8911` |  |
-| UNKNOWN |  | -4.49 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 35; `ORC-RDISTNJK7T.1a81ea` |  |
-| UNKNOWN |  | -4.44 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 46; `ORC-JXG2SLOUIY.29e526` |  |
-| UNKNOWN |  | -4.063 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 31; `ORC-A2Y4PR2MEY.e9d22f` |  |
-| UNKNOWN |  | -2.8 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 36; `ORC-53SXQSON2H.28b793` |  |
-| UNKNOWN |  | -2.24 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 34; `ORC-EPSGJXOM64.68a7d0` |  |
-| UNKNOWN |  | -0.89 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 37; `ORC-BNPBVC42CD.1f2ca1` |  |
-| UNKNOWN |  | -0.1 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 38; `ORC-MT2XVTSPC4.72c37f` |  |
-| UNKNOWN |  | 0 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 26; `ORC-4SS32G7DVA.4979e1` |  |
-| UNKNOWN |  | 1.98 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 39; `ORC-XMIVKB2HUB.ec7c05` |  |
-| UNKNOWN |  | 2.84 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 44; `ORC-WMXOYFTBYL.0735a0` |  |
-| UNKNOWN |  | 5.083 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 30; `ORC-2LAKYBCOYE.9e85b5` |  |
-| UNKNOWN |  | 9.145 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 28; `ORC-24P4ZIWOWV.f41011` |  |
-| UNKNOWN |  | 10.45 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 29; `ORC-MZU67UQKLF.523a78` |  |
-| UNKNOWN |  | 17.06 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 43; `ORC-RXNDKRKMZ6.866930` |  |
-| UNKNOWN |  | 39.51 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 27; `ORC-232EEQ5WRP.f8f6d8` |  |
-| UNKNOWN |  | 42.65 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 41; `ORC-EESI7CPK4A.e9e1f6` |  |
 | δ-NiMo |  | -4.49 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 35; `ORC-RDISTNJK7T.4d9a5f` |  |
 | δ-NiMo |  | -2.8 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 36; `ORC-53SXQSON2H.37a71e` |  |
 | δ-NiMo |  | -2.24 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 34; `ORC-EPSGJXOM64.a84a0b` |  |
@@ -180,10 +159,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -192,7 +171,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -203,7 +182,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -213,7 +192,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -223,7 +202,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

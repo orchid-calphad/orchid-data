@@ -1,10 +1,10 @@
 # La–Sn system
 
-> La–Sn system: 224 accepted literature values (invariant reaction 107, crystal structure 68, phase transition 41, phase equilibrium 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Sn system: 208 accepted literature values (invariant reaction 107, crystal structure 68, phase transition 25, phase equilibrium 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-SN.html · Markdown: https://data.orchid-project.org/systems/LA-SN.md
 
-224 accepted literature values from 3 paper(s) (experimental 122, model 78, unspecified 24); 4 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+208 accepted literature values from 3 paper(s) (experimental 106, model 78, unspecified 24); 4 calculated phase diagram(s). 26 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SN.json) · [CSV](https://data.orchid-project.org/systems/LA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SN/LaSn-00Hua.json) · [phases (15)](https://data.orchid-project.org/phases/pages/LA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SN.html) · [Markdown](https://data.orchid-project.org/systems/LA-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 122 |
+| experimental | 106 |
 | model | 78 |
 | unspecified | 24 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 107 |
-| phase transition | 41 |
+| phase transition | 25 |
 | phase equilibrium | 8 |
 | crystal structure | 68 |
 
@@ -220,28 +220,14 @@ Table: Invariant reactions reported in the literature for the La–Sn system (10
 
 ## Other properties
 
-### Phase transition (41)
+### Phase transition (25)
 
 Table: Phase transition, La–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 21.1 K | 21.1 | Heat capacity of La2Sn3; _alloy: Sn 0.6_ | experimental | [3] Li 2019; _cites Fornasini 2003_ [doi](https://doi.org/10.1515/znb-2003-0606) | Table 2, p. 6, row 28; `ORC-NQMSTQHN25` |  |
-| Phase transition | 150.15 K | 150.15 | Heat capacity of LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Lethuillier 1976_ [doi](https://doi.org/10.1103/physrevb.13.3132) | Table 2, p. 6, row 25; `ORC-UMGDYO2DXA` |  |
-| Phase transition | 152.65 K | 152.65 | Heat capacity of LaSn3; _alloy: Sn 0.75_ | experimental | [3] Li 2019; _cites Costa 1981_ [doi](https://doi.org/10.1016/0038-1098%2881%2990160-5) | Table 2, p. 6, row 26; `ORC-TTBS3RY4JO` |  |
-| Phase transition | 298.15 K | 298.15 | Enthalpies of formation for compounds | experimental | [3] Li 2019; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | Table 2, p. 6, row 40; `ORC-2TML6CUPJL` |  |
-| Phase transition | 300.15 K | 300.15 | Enthalpies of formation for compounds | experimental | [3] Li 2019; _cites Borsese 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990230-1) | Table 2, p. 6, row 41; `ORC-22E67OEEG3` |  |
 | Phase transition | 508.15 K | 508.15 | peritectic: L+LaSn3=(βSn) | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 12; `ORC-6D7YAR6VNZ` |  |
-| Phase transition | 686.65 K | 686.65 | Partial enthalpies of mixing | experimental | [3] Li 2019; _cites Pratt 1965_ | Table 2, p. 6, row 29; `ORC-NQ5STP3FZY` |  |
-| Phase transition | 773.15 K | 773.15 | Gibbs energies of formation | experimental | [3] Li 2019; _cites Kober 1982_ | Table 2, p. 6, row 44; `ORC-7QAEF67WRT` |  |
-| Phase transition | 775.15 K | 775.15 | Partial enthalpies of mixing | experimental | [3] Li 2019; _cites Guadagno 1968_ | Table 2, p. 6, row 32; `ORC-2KIUKMDYMZ` |  |
-| Phase transition | 800.15 K | 800.15 | Heat capacity of La2Sn3; _alloy: Sn 0.6_ | experimental | [3] Li 2019; _cites Cirafici 1982_ [doi](https://doi.org/10.1016/0038-1098%2882%2990466-5) | Table 2, p. 6, row 27; `ORC-KMDAZS3DUD` |  |
-| Phase transition | 823.15 K | 823.15 | Activities | experimental | [3] Li 2019; _cites Matigorova 1971_ | Table 2, p. 6, row 36; `ORC-LK4Z4CWOBY` |  |
-| Phase transition | 950.15 K | 950.15 | Integral enthalpies of mixing | experimental | [3] Li 2019; _cites Sommer 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990348-7) | Table 2, p. 6, row 24; `ORC-XNDU2CZZDD` |  |
-| Phase transition | 1000.15 K | 1000.15 | Enthalpies of formation for compounds | experimental | [3] Li 2019; _cites Kober 1982_ | Table 2, p. 6, row 42; `ORC-SQYT7UMD5N` |  |
 | Phase transition | 1020.15 K | 1020.15 | eutectic: L=(βLa) +La5Sn3 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 11; `ORC-76YX4KBNXE` |  |
-| Phase transition | 1174.15 K | 1174.15 | Integral enthalpies of mixing | experimental | [3] Li 2019; _cites Sommer 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990348-7) | Table 2, p. 6, row 23; `ORC-PL5UGLMFQM` |  |
-| Phase transition | 1285.15 K | 1285.15 | Partial enthalpies of mixing | experimental | [3] Li 2019; _cites Sommer 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990348-7) | Table 2, p. 6, row 35; `ORC-SKIKHOFTUH` |  |
 | Phase transition | 1386.15 K | 1386.15 | eutectic: L=La3Sn5+LaSn3 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 9; `ORC-QXDQ4L3S3I` |  |
 | Phase transition | 1407 K | 1407 | congruent transformation | model | [1] Idbenali 2009 | p. 4; `ORC-SXTKGDRFU6.50e860` | “Our results (temperatures and x(Sn) compositions) are in good agreement with the ones of \[4\], except both the temperature of the invariant reaction: Liq ⇔ La3 Sn5 + LaSn3 (calculated 1403 K, measured 1386 K) and the calculated congruent melting of LaSn3 (T = 1407 K), close to the experimental one (T = 1409 K) in Kulagina et al. \[7\] but somewhat lower than the assessed one (T = 1420 K) in \[4\].” |
 | Phase transition | 1409 K | 1409 | LaSn3 + liquid | experimental | [1] Idbenali 2009; _cites Kulagina 1985_ | p. 1; `ORC-WX27UHWCTS.627973` | “The melting point of LaSn3 was determined by many authors \[6,7,3,4\] at 1411 K, 1409 K, 1428 K and 1420 K, respectively.” |
@@ -254,7 +240,6 @@ Table: Phase transition, La–Sn system
 | Phase transition | 1428 K | 1428 | congruent melting | model | [1] Idbenali 2009; _cites Massalski 1990_ | p. 1; `ORC-64LDT45QRZ.f6ee6c` | “Three of them La5 Sn4 , La3 Sn5 and LaSn3 melted congruently at 1848 K, 1513 K and 1420 K \[4\] (reported at 1428 K in \[5\]) respectively.” |
 | Phase transition | 1428.15 K | 1428.15 | congruent transformation | experimental | [3] Li 2019; _cites Eremenko 1989_ | p. 4; `ORC-H67OPCKTUJ` | “The congruent melting point of LaSn3 was investigated to be 1135, 1138, 1132±4, and 1155 °C by Vogel and Heumannl,\[22\] Palenzona,\[24\] Kulagina et al.\[25\] and Eremenko et al.\[15\] using TA, dynamic differential calorimetry (DDC) and DTA, respectively.” |
 | Phase transition | 1452 K | 1452 | LaSn + La2Sn3 | experimental | [1] Idbenali 2009; _cites Eremenko 1988_ | p. 1; `ORC-RO75OMXTYT` | “The seventh compound, La2 Sn3 , was identified only on the basis of thermal effects at 1452 K in the 50 to 62.5 at.% Sn range.” |
-| Phase transition | 1452.15 K | 1452.15 | other: LaSn+La3Sn5=La2Sn3 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 16; `ORC-IVSWPTOEOQ` |  |
 | Phase transition | 1458.15 K | 1458.15 | congruent transformation | experimental | [3] Li 2019; _cites Vogel 1943_ | p. 4; `ORC-RF7DIKQTF5.9deb78` | “Using TA, the La2Sn3 phase was reported to be a congruent melting compound by two groups\[21,22\] and its melting point was determined to be 1187 and 1185 °C, respectively.” |
 | Phase transition | 1460.15 K | 1460.15 | congruent transformation | experimental | [3] Li 2019; _cites Canneri 1931_ | p. 4; `ORC-RF7DIKQTF5.5a0286` | “Using TA, the La2Sn3 phase was reported to be a congruent melting compound by two groups\[21,22\] and its melting point was determined to be 1187 and 1185 °C, respectively.” |
 | Phase transition | 1473.15 K | 1473.15 | eutectic: L=LaSn+La3Sn5 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 10; `ORC-YY22DQLLEG` |  |
@@ -266,7 +251,6 @@ Table: Phase transition, La–Sn system
 | Phase transition | 1773.15 K | 1773.15 | peritectic: L+La5Sn4=La5Sn3 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 2, p. 6, row 15; `ORC-NPC6VS7Z33` |  |
 | Phase transition | 1848 K | 1848 | congruent melting | experimental | [1] Idbenali 2009; _cites Eremenko 1988_ | p. 1; `ORC-64LDT45QRZ.764c48` | “Three of them La5 Sn4 , La3 Sn5 and LaSn3 melted congruently at 1848 K, 1513 K and 1420 K \[4\] (reported at 1428 K in \[5\]) respectively.” |
 | Phase transition | 1848.15 K | 1848.15 | congruent transformation | experimental | [3] Li 2019; _cites Eremenko 1989_ | p. 4; `ORC-336SJREJ4C.613143` | “Gambino et al.\[23\] reported that the La5Sn4 phase was congruent melting compound, and then Eremenko et al.\[15\] determined the melting point of La5Sn4 to be 1575 °C by DTA.” |
-| Phase transition | 1890.15 K | 1890.15 | Integral enthalpies of mixing | experimental | [3] Li 2019; _cites Esin 1981_ | Table 2, p. 6, row 22; `ORC-YCZ3O2KOVP` |  |
 
 ### Phase equilibrium (8)
 
@@ -368,10 +352,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -380,7 +364,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -391,7 +375,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -401,7 +385,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -411,7 +395,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

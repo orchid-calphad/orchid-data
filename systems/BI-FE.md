@@ -1,10 +1,10 @@
 # Bi–Fe system
 
-> Bi–Fe system: 12 accepted literature values (invariant reaction 7, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Fe system: 7 accepted literature values (invariant reaction 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-FE.html · Markdown: https://data.orchid-project.org/systems/BI-FE.md
 
-12 accepted literature values from 1 paper(s) (experimental 8, model 4); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+7 accepted literature values from 1 paper(s) (experimental 3, model 4); 1 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-FE.json) · [CSV](https://data.orchid-project.org/systems/BI-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-FE/BiFe-08Boa.json) · [phases (5)](https://data.orchid-project.org/phases/pages/BI-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-FE.html) · [Markdown](https://data.orchid-project.org/systems/BI-FE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
+| experimental | 3 |
 | model | 4 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 7 |
-| phase transition | 5 |
 
 ## Calculated phase diagrams
 
@@ -58,20 +57,6 @@ Table: Invariant reactions reported in the literature for the Bi–Fe system (7)
 | 544.63 | peritectic: L + αFe = (Bi) |  | experimental | [1] Boa 2008 | p. 2; `ORC-TUM4FFBNEQ` | “The invariant transformation that occurs at low temperature in the binary Bi-Fe system can be associated to the degenerated peritectic reaction: L + αFe = (Bi) at 544.63 K.” |
 | 544.6 | peritectic: L + αFe = (Bi) |  | experimental | [1] Boa 2008 | p. 12; `ORC-ONHX62JLFY` | “The invariant transformation that occurs at low temperature in the binary Bi-Fe system is associated to the peritectic reaction: L + αFe = (Bi) at 544.6 ± 0.5 K.” |
 
-## Other properties
-
-### Phase transition (5)
-
-Table: Phase transition, Bi–Fe system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 544.54 K | 544.54 | UNKNOWN; _alloy: Bi 1, Fe 0_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 1; `ORC-TBE6TMH5DI` |  |
-| Phase transition | 544.62 K | 544.62 | UNKNOWN; _alloy: Bi 0.4, Fe 0.6_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 4; `ORC-ZQI3WSO3CE` |  |
-| Phase transition | 544.63 K | 544.63 | UNKNOWN; _alloy: Bi 0.8, Fe 0.2_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 2; `ORC-4S2GCDLFTA` |  |
-| Phase transition | 544.64 K | 544.64 | UNKNOWN; _alloy: Bi 0.6, Fe 0.4_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 3; `ORC-5SVRYR42CX` |  |
-| Phase transition | 544.64 K | 544.64 | UNKNOWN; _alloy: Bi 0.2, Fe 0.8_ | experimental | [1] Boa 2008 | Table 1, p. 2, row 5; `ORC-ZZKVRWRQC4` |  |
-
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -80,10 +65,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -92,7 +77,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -103,7 +88,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -113,7 +98,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -123,7 +108,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

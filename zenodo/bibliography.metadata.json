@@ -1,12 +1,12 @@
 {
- "_comment": "Zenodo deposition metadata (legacy REST format: PUT /api/deposit/depositions/<id> with this object as the body, or enter the fields in the web form). Written by tools/build_zenodo_metadata.py (numbers: metadata_numbers.json); do not edit by hand. No `grants` (NSF 2608825 is not in Zenodo's awards database): enter the funding as a custom award, see ZENODO_FUNDING_MANUAL.md. publication_date is set by Zenodo at publication. DOI placeholders 10.5281/zenodo.PENDING-<name> are replaced by tools/zenodo_release.py writeback.",
+ "_comment": "Zenodo deposition metadata (legacy REST format: PUT /api/deposit/depositions/<id> with this object as the body, or enter the fields in the web form). Written by tools/build_zenodo_metadata.py (numbers: metadata_numbers.json); do not edit by hand. No `grants` payload: enter both NSF awards in the Funding form; use a custom award if no matching indexed award exists, see ZENODO_FUNDING_MANUAL.md. publication_date is set by Zenodo at publication. DOI placeholders 10.5281/zenodo.PENDING-<name> are replaced by tools/zenodo_release.py writeback.",
  "record": "bibliography",
  "doi": "10.5281/zenodo.PENDING-bibliography",
  "metadata": {
   "title": "ORCHID-Bibliography: papers and typed citation relations",
   "upload_type": "dataset",
   "version": "2026.10",
-  "description": "<p><b>ORCHID-Bibliography: papers and typed citation relations</b>, version 2026.10: every paper the ORCHID CALPHAD data project knows about, with Crossref bibliographic metadata, the role each paper plays in ORCHID, counts of the evidence ORCHID released from it, and typed relations. Part of the ORCHID data release v2026.10. Short name in the paper: Bibliography.</p><p><b>Status.</b> Version 1, machine-extracted: roles and evidence counts derive from machine-extracted literature values and link tables; bibliographic fields are Crossref metadata as deposited (DOIs matched from printed references checked against Crossref: doi_match; mismatches dropped).</p><h3>What</h3><ul><li>9,569 works (7,812 with DOI; 1,757 without, with stable ids from first author, year and title): 1,427 read by ORCHID, 3,577 cited as the original source of extracted values, 1,886 assessments behind TDB files, 2,283 original evaluations behind assessed (handbook) diagrams, 2,806 discovery leads (Crossref higher-order assessment discovery, not read); a paper can have several roles.</li><li>60,231 typed edges with provenance: cites / used_in_assessment (3,792 each; from the citation printed for each extracted value), models_system_in_tdb (3,757), reassesses (1,536; citation + same exact system, never from dates), handbook_reproduces (2,466), cited_by_crossref (44,888; publisher-deposited reference lists, kept separate).</li><li>DOIs matched from printed references (handbook source lines, cited sources of values, TDB header citations) are checked against Crossref (first author, year, title, journal): 5,384 verified, 103 weak (kept, flagged), 23 without a Crossref record; 19 mismatched DOIs were dropped (works kept without DOI; listed in DOI_MISMATCHES.md).</li><li>Files: papers.jsonl/.csv/.parquet, edges.jsonl/.csv/.parquet, papers/&lt;key&gt;.json (one record per paper), systems/&lt;SYS&gt;.json and systems_index.json, BibTeX and CSL-JSON (Crossref metadata), papers.jsonld (schema.org ScholarlyArticle), SCHEMA.md, DOI_MISMATCHES.md, CITATION.cff.</li></ul><h3>How</h3><p>Deterministic builder (<code>tools/build_bibliography.py</code>) over the ORCHID release files (literature values, ESPEI bundle, phase registry, assessed phase assemblages), the SGTE-corpus link tables and handbook source lines, and a cache of Crossref REST API responses (retrieved 2026-10-23). No model calls; no abstracts, full text or PDFs.</p><h3>Limitations</h3><ul><li>Crossref metadata as deposited; doi_match grades DOIs matched from printed references (weak matches are kept and flagged; mismatches were dropped).</li><li>Open-access status only from the Crossref license field.</li><li>Discovery leads were not read; their inferred candidate systems are hypotheses.</li><li>Version 1, machine-extracted: evidence counts derive from machine-extracted values.</li></ul><h3>Licence</h3><p>ORCHID's data are released under CC BY 4.0, as are the SGTE (B. Hallstedt, Calphad 89 (2025) 102833), Materials Project and OQMD data from which they are derived; attributions and statements of changes are in NOTICE.md, the licence of each folder in LICENSES.md (both in the bundle). Crossref bibliographic metadata: CC0. ORCHID-derived fields (roles, evidence counts, relations, checks): CC BY 4.0.</p><p>Files: one zip (<code>orchid-bibliography-v2026.10.zip</code>) holding the files at their repository paths, a <code>MANIFEST.sha256</code>, the README, CHANGELOG and licence files. Its file list with sizes and SHA-256 is <code>zenodo/bibliography.files.json</code> in the data repository.</p><h3>How to cite</h3><p>R. Arróyave, J. Saal, D. Shin, ORCHID-Bibliography: papers and typed citation relations (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-bibliography</p><p>Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data</p><p>Also cite the papers themselves when you use their data (doi / citation of each bibliography record).</p><pre>@misc{orchid_bibliography_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Bibliography: papers and typed citation relations}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-bibliography},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-bibliography},\n  note      = {Version 1, machine-extracted}\n}\n\n@misc{orchid_data_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}</pre><p>Browse: <a href=\"https://orchid-project.org\">orchid-project.org</a> · data site <a href=\"https://data.orchid-project.org\">data.orchid-project.org</a> · source <a href=\"https://github.com/orchid-calphad/orchid-data\">github.com/orchid-calphad/orchid-data</a>.</p><p>This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge).</p>",
+  "description": "<p><b>ORCHID-Bibliography: papers and typed citation relations</b>, version 2026.10: every paper the ORCHID CALPHAD data project knows about, with Crossref bibliographic metadata, the role each paper plays in ORCHID, counts of the evidence ORCHID released from it, and typed relations. Part of the ORCHID data release v2026.10. Short name in the paper: Bibliography.</p><p><b>Status.</b> Version 1, machine-extracted: roles and evidence counts derive from machine-extracted literature values and link tables; bibliographic fields are Crossref metadata as deposited (DOIs matched from printed references checked against Crossref: doi_match; mismatches dropped).</p><h3>What</h3><ul><li>9,570 works (7,813 with DOI; 1,757 without, with stable ids from first author, year and title): 1,427 read by ORCHID, 3,578 cited as the original source of extracted values, 1,886 assessments behind TDB files, 2,283 original evaluations behind assessed (handbook) diagrams, 2,806 discovery leads (Crossref higher-order assessment discovery, not read); a paper can have several roles.</li><li>60,235 typed edges with provenance: cites / used_in_assessment (3,793 each; from the citation printed for each extracted value), models_system_in_tdb (3,757), reassesses (1,536; citation + same exact system, never from dates), handbook_reproduces (2,466), cited_by_crossref (44,890; publisher-deposited reference lists, kept separate).</li><li>DOIs matched from printed references (handbook source lines, cited sources of values, TDB header citations) are checked against Crossref (first author, year, title, journal): 5,384 verified, 103 weak (kept, flagged), 24 without a Crossref record; 19 mismatched DOIs were dropped (works kept without DOI; listed in DOI_MISMATCHES.md).</li><li>Files: papers.jsonl/.csv/.parquet, edges.jsonl/.csv/.parquet, papers/&lt;key&gt;.json (one record per paper), systems/&lt;SYS&gt;.json and systems_index.json, BibTeX and CSL-JSON (Crossref metadata), papers.jsonld (schema.org ScholarlyArticle), SCHEMA.md, DOI_MISMATCHES.md, CITATION.cff.</li></ul><h3>How</h3><p>Deterministic builder (<code>tools/build_bibliography.py</code>) over the ORCHID release files (literature values, ESPEI bundle, phase registry, assessed phase assemblages), the SGTE-corpus link tables and handbook source lines, and a cache of Crossref REST API responses (retrieved 2026-10-23). No model calls; no abstracts, full text or PDFs.</p><h3>Limitations</h3><ul><li>Crossref metadata as deposited; doi_match grades DOIs matched from printed references (weak matches are kept and flagged; mismatches were dropped).</li><li>Open-access status only from the Crossref license field.</li><li>Discovery leads were not read; their inferred candidate systems are hypotheses.</li><li>Version 1, machine-extracted: evidence counts derive from machine-extracted values.</li></ul><h3>Licence</h3><p>ORCHID's data are released under CC BY 4.0, as are the SGTE (B. Hallstedt, Calphad 89 (2025) 102833), Materials Project and OQMD data from which they are derived; attributions and statements of changes are in NOTICE.md, the licence of each folder in LICENSES.md (both in the bundle). Crossref bibliographic metadata: CC0. ORCHID-derived fields (roles, evidence counts, relations, checks): CC BY 4.0.</p><p>Files: one zip (<code>orchid-bibliography-v2026.10.zip</code>) holding the files at their repository paths, a <code>MANIFEST.sha256</code>, the README, CHANGELOG and licence files. Its file list with sizes and SHA-256 is <code>zenodo/bibliography.files.json</code> in the data repository.</p><h3>How to cite</h3><p>R. Arróyave, J. Saal, D. Shin, ORCHID-Bibliography: papers and typed citation relations (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-bibliography</p><p>Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data</p><p>Also cite the papers themselves when you use their data (doi / citation of each bibliography record).</p><pre>@misc{orchid_bibliography_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Bibliography: papers and typed citation relations}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-bibliography},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-bibliography},\n  note      = {Version 1, machine-extracted}\n}\n\n@misc{orchid_data_2026,\n  author    = {Arr{\\&#x27;o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}</pre><section id=\"software-data-credits\"><h2>Software and data citations</h2><p>These credits describe the ORCHID project and its examples. Cite the papers and software used in your analysis, together with the ORCHID release and original source of each observation. The list does not imply that every dataset was generated with every package. Preserve the versions and commit hashes recorded by each example; a repository link is not a reproducibility pin. Materials Project and OQMD energies retain separate references.</p><ul><li><b>pycalphad</b>: Thermodynamic calculations and phase equilibria. R. Otis and Z.-K. Liu (2017), pycalphad: CALPHAD-based Computational Thermodynamics in Python (<a href=\"https://doi.org/10.5334/jors.140\">10.5334/jors.140</a>). <a href=\"https://github.com/pycalphad/pycalphad\">Repository</a>.</li><li><b>ESPEI</b>: Thermodynamic parameter fitting and uncertainty quantification. B. Bocklund et al. (2019), ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu–Mg (<a href=\"https://doi.org/10.1557/mrc.2019.59\">10.1557/mrc.2019.59</a>). <a href=\"https://github.com/PhasesResearchLab/ESPEI\">Repository</a>.</li><li><b>PhaseForge</b>: MLIP-informed CALPHAD construction in the examples. S. Zhu, D. Sarıtürk, and R. Arróyave (2025), Machine learning potentials for alloys: a detailed workflow to predict phase diagrams and benchmark accuracy (<a href=\"https://doi.org/10.1038/s41524-025-01814-z\">10.1038/s41524-025-01814-z</a>). <a href=\"https://github.com/dogusariturk/PhaseForge\">Repository</a>; <a href=\"https://doi.org/10.5281/zenodo.15730912\">archived software</a>.</li><li><b>PhaseForge+</b>: Construction and experimental tuning of CALPHAD models in the examples; repository name PhaseForgePlus. C. Kunselman, S. Zhu, D. Sarıtürk, and R. Arróyave (2025), Construction and Tuning of CALPHAD Models Using Machine-Learned Interatomic Potentials and Experimental Data: A Case Study of the Pt–W System (<a href=\"https://doi.org/10.1007/s11669-025-01222-2\">10.1007/s11669-025-01222-2</a>). <a href=\"https://github.com/dogusariturk/PhaseForgePlus\">Repository</a>; <a href=\"https://doi.org/10.5281/zenodo.17519087\">archived software</a>.</li><li><b>Materials Project</b>: DFT structures and energies; repository link is the API client, not the database itself. A. Jain et al. (2013), Commentary: The Materials Project: A materials genome approach to accelerating materials innovation (<a href=\"https://doi.org/10.1063/1.4812323\">10.1063/1.4812323</a>). <a href=\"https://github.com/materialsproject/api\">Repository</a>; <a href=\"https://materialsproject.org\">data resource</a>.</li><li><b>OQMD</b>: DFT structures and energies; qmpy is the supporting software. J. E. Saal et al. (2013), Materials Design and Discovery with High-Throughput Density Functional Theory: The Open Quantum Materials Database (OQMD) (<a href=\"https://doi.org/10.1007/s11837-013-0755-4\">10.1007/s11837-013-0755-4</a>); S. Kirklin et al. (2015), The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies (<a href=\"https://doi.org/10.1038/npjcompumats.2015.10\">10.1038/npjcompumats.2015.10</a>). <a href=\"https://github.com/wolverton-research-group/qmpy\">Repository</a>; <a href=\"https://oqmd.org\">data resource</a>.</li></ul></section><p>Browse: <a href=\"https://orchid-project.org\">orchid-project.org</a> · data site <a href=\"https://data.orchid-project.org\">data.orchid-project.org</a> · source <a href=\"https://github.com/orchid-calphad/orchid-data\">github.com/orchid-calphad/orchid-data</a>.</p><p>This work was supported by the U.S. National Science Foundation under awards OAC-2608825 (CSSI Elements: PhaseForge) and 2534344 (Autonomous Robotic Metallurgist: An NSF Materials Innovation Platform, ARM-MIP).</p>",
   "creators": [
    {
     "name": "Arróyave, Raymundo",
@@ -71,8 +71,85 @@
     "relation": "isIdenticalTo",
     "scheme": "url",
     "resource_type": "dataset"
+   },
+   {
+    "identifier": "10.5334/jors.140",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "https://github.com/pycalphad/pycalphad",
+    "relation": "references",
+    "scheme": "url"
+   },
+   {
+    "identifier": "10.1557/mrc.2019.59",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "https://github.com/PhasesResearchLab/ESPEI",
+    "relation": "references",
+    "scheme": "url"
+   },
+   {
+    "identifier": "10.1038/s41524-025-01814-z",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "https://github.com/dogusariturk/PhaseForge",
+    "relation": "references",
+    "scheme": "url"
+   },
+   {
+    "identifier": "10.5281/zenodo.15730912",
+    "relation": "references",
+    "scheme": "doi",
+    "resource_type": "software"
+   },
+   {
+    "identifier": "10.1007/s11669-025-01222-2",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "https://github.com/dogusariturk/PhaseForgePlus",
+    "relation": "references",
+    "scheme": "url"
+   },
+   {
+    "identifier": "10.5281/zenodo.17519087",
+    "relation": "references",
+    "scheme": "doi",
+    "resource_type": "software"
+   },
+   {
+    "identifier": "10.1063/1.4812323",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "https://github.com/materialsproject/api",
+    "relation": "references",
+    "scheme": "url"
+   },
+   {
+    "identifier": "10.1007/s11837-013-0755-4",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "10.1038/npjcompumats.2015.10",
+    "relation": "references",
+    "scheme": "doi"
+   },
+   {
+    "identifier": "https://github.com/wolverton-research-group/qmpy",
+    "relation": "references",
+    "scheme": "url"
    }
   ],
-  "notes": "This work was supported by the U.S. National Science Foundation under award OAC-2608825 (CSSI Elements: PhaseForge). Version 1, machine-extracted: roles and evidence counts derive from machine-extracted literature values and link tables; bibliographic fields are Crossref metadata as deposited (DOIs matched from printed references checked against Crossref: doi_match; mismatches dropped)."
+  "notes": "This work was supported by the U.S. National Science Foundation under awards OAC-2608825 (CSSI Elements: PhaseForge) and 2534344 (Autonomous Robotic Metallurgist: An NSF Materials Innovation Platform, ARM-MIP). Version 1, machine-extracted: roles and evidence counts derive from machine-extracted literature values and link tables; bibliographic fields are Crossref metadata as deposited (DOIs matched from printed references checked against Crossref: doi_match; mismatches dropped)."
  }
 }

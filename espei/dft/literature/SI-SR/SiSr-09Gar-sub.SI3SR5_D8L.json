@@ -77,14 +77,82 @@
     "compound": "Si3Sr5",
     "basis": "registry paper_label",
     "space_group": null,
-    "match_quality": null
+    "match_quality": null,
+    "also_read_as": [
+     "ORC-4IQIRR4G6L.18917c"
+    ],
+    "evidence_identity": {
+     "canonical_id": "ORC-VELCVCLWDK.7808b8",
+     "alias_ids": [
+      "ORC-4IQIRR4G6L.18917c"
+     ],
+     "role": "canonical",
+     "basis": "Li et al. 2011 Table 2 repeats the same compound-specific GGA/LDA values reported in Garay et al. CALPHAD 2009 Table 2; the method and phase match. Preserve both reports and count the earlier available reporting record once.",
+     "source_doi": "10.1016/j.jallcom.2009.05.083",
+     "printed_page": 827,
+     "table": 4,
+     "reporting_source": {
+      "doi": "10.1016/j.calphad.2011.09.007",
+      "pdf_page": 2,
+      "table": 2,
+      "reference_label": "17"
+     },
+     "source_link_discrepancy": {
+      "existing_resolved_doi": "10.1016/j.calphad.2009.07.001",
+      "verified_original_doi": "10.1016/j.jallcom.2009.05.083",
+      "basis": "Reference 17 in Li et al. names the J. Alloys Compd. calculation paper, but the current resolver links to the related CALPHAD assessment. Identity was verified against both source PDFs.",
+      "status": "corrected",
+      "correction": "srsi-table2-20261026"
+     },
+     "canonical_reporting_source": {
+      "doi": "10.1016/j.calphad.2009.07.001",
+      "pdf_page": 4,
+      "printed_page": 553,
+      "table": 2,
+      "reference_label": "29 (related first-principles paper)"
+     }
+    }
    },
    {
     "id": "ORC-YNLI4WOAVZ.3803d2",
     "compound": "Si3Sr5",
     "basis": "registry paper_label",
     "space_group": null,
-    "match_quality": null
+    "match_quality": null,
+    "also_read_as": [
+     "ORC-4NZW6V5CB7.2c7067"
+    ],
+    "evidence_identity": {
+     "canonical_id": "ORC-YNLI4WOAVZ.3803d2",
+     "alias_ids": [
+      "ORC-4NZW6V5CB7.2c7067"
+     ],
+     "role": "canonical",
+     "basis": "Li et al. 2011 Table 2 repeats the same compound-specific GGA/LDA values reported in Garay et al. CALPHAD 2009 Table 2; the method and phase match. Preserve both reports and count the earlier available reporting record once.",
+     "source_doi": "10.1016/j.jallcom.2009.05.083",
+     "printed_page": 827,
+     "table": 4,
+     "reporting_source": {
+      "doi": "10.1016/j.calphad.2011.09.007",
+      "pdf_page": 2,
+      "table": 2,
+      "reference_label": "17"
+     },
+     "source_link_discrepancy": {
+      "existing_resolved_doi": "10.1016/j.calphad.2009.07.001",
+      "verified_original_doi": "10.1016/j.jallcom.2009.05.083",
+      "basis": "Reference 17 in Li et al. names the J. Alloys Compd. calculation paper, but the current resolver links to the related CALPHAD assessment. Identity was verified against both source PDFs.",
+      "status": "corrected",
+      "correction": "srsi-table2-20261026"
+     },
+     "canonical_reporting_source": {
+      "doi": "10.1016/j.calphad.2009.07.001",
+      "pdf_page": 4,
+      "printed_page": 553,
+      "table": 2,
+      "reference_label": "29 (related first-principles paper)"
+     }
+    }
    }
   ],
   "papers": [
@@ -114,14 +182,14 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "SI-SR",
-     "n": 110,
+     "n": 108,
      "sigma_robust_kJ": 12.165,
      "bias_median_kJ_not_applied": 0.75,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
+      7.205,
+      13.326
      ],
-     "n_full_stratum": 126
+     "n_full_stratum": 123
     },
     "weight_used": 0.041102,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -141,7 +209,7 @@
      "sigma_effective": 12165.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 110,
+     "method_n_pairs": 108,
      "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SI-SR"
     }
    },
@@ -154,14 +222,14 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "SI-SR",
-     "n": 110,
+     "n": 108,
      "sigma_robust_kJ": 12.165,
      "bias_median_kJ_not_applied": 0.75,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
+      7.205,
+      13.326
      ],
-     "n_full_stratum": 126
+     "n_full_stratum": 123
     },
     "weight_used": 0.041102,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -181,7 +249,7 @@
      "sigma_effective": 12165.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 110,
+     "method_n_pairs": 108,
      "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SI-SR"
     }
    },
@@ -194,14 +262,14 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "SI-SR",
-     "n": 110,
+     "n": 108,
      "sigma_robust_kJ": 12.165,
      "bias_median_kJ_not_applied": 0.75,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
+      7.205,
+      13.326
      ],
-     "n_full_stratum": 126
+     "n_full_stratum": 123
     },
     "weight_used": 0.041102,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -221,7 +289,7 @@
      "sigma_effective": 12165.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 110,
+     "method_n_pairs": 108,
      "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SI-SR"
     }
    }

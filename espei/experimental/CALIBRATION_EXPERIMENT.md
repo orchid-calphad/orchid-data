@@ -43,19 +43,19 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 | HM_FORM | combustion_calorimetry | 15 | 4 | cleaned_below_threshold (kubaschewski) | 0.8806 | 0.08806-5.33 | 1 | kJ/mol-atom |
 | HM_FORM | dsc_dta | 2 | 2 | prior (kubaschewski) |  |  | 2 | kJ/mol-atom |
 | HM_FORM | emf | 17 | 8 | cleaned_below_threshold (kubaschewski) | 4.566 | 1.887-14.82 | 4.6 | kJ/mol-atom |
-| HM_FORM | experimental_unspecified | 30 | 10 | calibrated | 3.77 | 2.133-6.594 | 3.8 | kJ/mol-atom |
+| HM_FORM | experimental_unspecified | 29 | 9 | cleaned_below_threshold (kubaschewski) | 4.026 | 1.992-9.33 | 4.1 | kJ/mol-atom |
 | HM_FORM | kems_vapour | 20 | 15 | calibrated | 4.193 | 1.153-7.653 | 4.2 | kJ/mol-atom |
 | HM_FORM | kems_vapour_second_law | 1 | 1 | prior (drowart2005) |  |  | 3 | kJ/mol-atom |
 | HM_FORM | kems_vapour_third_law | 0 | 0 | prior (drowart2005) |  |  | 2 | kJ/mol-atom |
 | HM_FORM | solution_reaction_calorimetry | 80 | 47 | calibrated | 3.145 | 2.202-4.602 | 3.2 | kJ/mol-atom |
-| HM_FORM | unknown | 297 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
-| HM_FORM | model_calculated (vs experiment) | 2075 | 371 | calibrated | 3.395 | 2.965-4.16 | 3.4 | kJ/mol-atom |
+| HM_FORM | unknown | 290 | 98 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
+| HM_FORM | model_calculated (vs experiment) | 2030 | 359 | calibrated | 3.855 | 3.158-4.581 | 3.9 | kJ/mol-atom |
 | GM_FORM | emf | 0 | 0 | prior (kubaschewski) |  |  | 1 | kJ/mol-atom |
 | GM_FORM | experimental_unspecified | 2 | 2 | prior (kubaschewski) |  |  | 2 | kJ/mol-atom |
 | GM_FORM | kems_vapour | 2 | 2 | prior (drowart2005) |  |  | 2 | kJ/mol-atom |
 | GM_FORM | kems_vapour_third_law | 0 | 0 | prior (drowart2005) |  |  | 2 | kJ/mol-atom |
 | GM_FORM | unknown | 37 | 17 | calibrated | 1.122 | 0.6605-2.097 | 1.2 | kJ/mol-atom |
-| GM_FORM | model_calculated (vs experiment) | 203 | 149 | calibrated | 0.6375 | 0.5634-0.8747 | 0.7 | kJ/mol-atom |
+| GM_FORM | model_calculated (vs experiment) | 211 | 153 | calibrated | 0.682 | 0.593-0.8896 | 0.7 | kJ/mol-atom |
 | SM_FORM | emf | 3 | 1 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
 | SM_FORM | equilibration_other | 1 | 1 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
 | SM_FORM | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
@@ -63,16 +63,15 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 | SM_FORM | kems_vapour | 1 | 1 | prior (drowart2005) |  |  | 2 | J/K/mol-atom |
 | SM_FORM | kems_vapour_second_law | 0 | 0 | prior (drowart2005) |  |  | 3 | J/K/mol-atom |
 | SM_FORM | unknown | 4 | 4 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
-| SM_FORM | model_calculated (vs experiment) | 114 | 38 | calibrated | 3.232 | 1.601-4.219 | 3.3 | J/K/mol-atom |
+| SM_FORM | model_calculated (vs experiment) | 118 | 42 | calibrated | 3.232 | 1.938-4.144 | 3.3 | J/K/mol-atom |
 | H_MIX_PARTIAL | experimental_unspecified | 6 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |
 | H_MIX_PARTIAL | solution_reaction_calorimetry | 0 | 0 | prior (espei) |  |  | 0.5 | kJ/mol |
 | H_MIX_PARTIAL | unknown | 1 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |
 | H_MIX_PARTIAL | model_calculated (vs experiment) | 133 | 57 | prior |  |  | 1 | kJ/mol |
 | G_MIX_PARTIAL | emf | 0 | 0 | prior (espei) |  |  | 0.5 | kJ/mol |
 | G_MIX_PARTIAL | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 1 | kJ/mol |
-| G_MIX_PARTIAL | kems_vapour | 3 | 3 | prior (kubaschewski) |  |  | 1 | kJ/mol |
-| G_MIX_PARTIAL | unknown | 14 | 14 | cleaned_below_threshold (kubaschewski) | 1.334 | 1.086-1.71 | 1.4 | kJ/mol |
-| G_MIX_PARTIAL | model_calculated (vs experiment) | 115 | 87 | prior |  |  | 1 | kJ/mol |
+| G_MIX_PARTIAL | unknown | 13 | 13 | cleaned_below_threshold (kubaschewski) | 1.319 | 1.086-1.697 | 1.4 | kJ/mol |
+| G_MIX_PARTIAL | model_calculated (vs experiment) | 94 | 70 | prior |  |  | 1 | kJ/mol |
 | S_MIX_PARTIAL | emf | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
 | S_MIX_PARTIAL | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 1 | J/K/mol |
 | S_MIX_PARTIAL | unknown | 0 | 0 | prior (kubaschewski) |  |  | 1 | J/K/mol |
@@ -81,7 +80,7 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 | S_ABS | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
 | S_ABS | heat_content_calorimetry | 19 | 9 | cleaned_below_threshold (espei) | 0.9121 | 0.07339-1.929 | 1 | J/K/mol |
 | S_ABS | kems_vapour | 4 | 4 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
-| S_ABS | unknown | 90 | 20 | calibrated | 0.5941 | 0.2851-1.174 | 0.6 | J/K/mol |
+| S_ABS | unknown | 77 | 20 | calibrated | 0.6571 | 0.2851-1.174 | 0.7 | J/K/mol |
 | S_ABS | model_calculated (vs experiment) | 260 | 80 | prior |  |  | 1 | J/K/mol |
 | CPM | dsc_dta | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
 | CPM | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
@@ -102,8 +101,8 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 | T_INVARIANT | emf | 1 | 1 | prior (orchid_assumed) |  |  | 10 | K |
 | T_INVARIANT | experimental_unspecified | 0 | 0 | prior (orchid_assumed) |  |  | 10 | K |
 | T_INVARIANT | thermal_analysis | 0 | 0 | prior (orchid_assumed) |  |  | 5 | K |
-| T_INVARIANT | unknown | 4918 | 1684 | calibrated | 10.48 | 9.33-10.48 | 11 | K |
-| T_INVARIANT | model_calculated (vs experiment) | 14170 | 5382 | calibrated | 3.707 | 3.113-4.411 | 4 | K |
+| T_INVARIANT | unknown | 4912 | 1680 | calibrated | 10.48 | 9.435-10.48 | 11 | K |
+| T_INVARIANT | model_calculated (vs experiment) | 14146 | 5377 | calibrated | 3.707 | 3.113-4.3 | 4 | K |
 | T_TRANSITION | experimental_unspecified | 0 | 0 | prior (orchid_assumed) |  |  | 10 | K |
 | T_TRANSITION | thermal_analysis | 9 | 4 | cleaned_below_threshold (orchid_assumed) | 3.145 | 2.097-58.18 | 5 | K |
 | T_TRANSITION | unknown | 274 | 53 | calibrated | 15.73 | 10.48-26.21 | 16 | K |
@@ -116,9 +115,9 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 | X_PHASE | microanalysis | 0 | 0 | prior (orchid_assumed) |  |  | 0.005 | mole fraction |
 | X_PHASE | thermal_analysis | 1 | 1 | prior (orchid_assumed) |  |  | 0.01 | mole fraction |
 | X_PHASE | unknown | 3014 | 1426 | calibrated | 0.01048 | 0.01048-0.01153 | 0.011 | mole fraction |
-| X_PHASE | model_calculated (vs experiment) | 16735 | 8821 | calibrated | 0.004448 | 0.004448-0.004448 | 0.005 | mole fraction |
+| X_PHASE | model_calculated (vs experiment) | 16730 | 8821 | calibrated | 0.004448 | 0.004448-0.004448 | 0.005 | mole fraction |
 | LATTICE_LENGTH | experimental_unspecified | 9 | 9 | cleaned_below_threshold (orchid_assumed) | 0.001249 | 0.000481-0.004794 | 0.0013 | relative (fraction of the value) |
-| LATTICE_LENGTH | unknown | 601 | 196 | calibrated | 0.002277 | 0.002011-0.002664 | 0.0023 | relative (fraction of the value) |
+| LATTICE_LENGTH | unknown | 597 | 196 | calibrated | 0.002277 | 0.002026-0.002664 | 0.0023 | relative (fraction of the value) |
 | LATTICE_LENGTH | xrd | 23 | 21 | calibrated | 0.001206 | 0.000866-0.0022 | 0.0013 | relative (fraction of the value) |
 | LATTICE_LENGTH | model_calculated (vs experiment) | 169 | 85 | calibrated | 0.008107 | 0.005703-0.01284 | 0.0082 | relative (fraction of the value) |
 | LATTICE_ANGLE | experimental_unspecified | 0 | 0 | prior (orchid_assumed) |  |  | 0.05 | degree |
@@ -130,7 +129,7 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 
 ## DFT
 
-Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 477, robust sigma 7.162 kJ/mol-atom; strata: magnetic_3d n 112 sigma 4.166, metal n 239 sigma 7.962, pblock_anion n 126 sigma 10.01.
+Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 459, robust sigma 7.14 kJ/mol-atom; strata: magnetic_3d n 105 sigma 4.003, metal n 231 sigma 8.243, pblock_anion n 123 sigma 10.05.
 
 | value type | prior floor | basis |
 |---|---:|---|
@@ -166,17 +165,17 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | dft | CPM | dft | 21 | 0 | 0 | 0 |
 | dft | GM_FORM | dft | 35 | 0 | 0 | 0 |
 | dft | G_MIX_PARTIAL | dft | 135 | 0 | 0 | 0 |
-| dft | HM_FORM | dft | 2299 | 12 | 12 | 42 |
+| dft | HM_FORM | dft | 2293 | 11 | 11 | 42 |
 | dft | H_MIX_PARTIAL | dft | 333 | 13 | 13 | 15 |
 | dft | LATTICE_ANGLE | dft | 131 | 0 | 0 | 0 |
-| dft | LATTICE_LENGTH | dft | 2517 | 2 | 2 | 0 |
+| dft | LATTICE_LENGTH | dft | 2518 | 2 | 2 | 0 |
 | dft | SM_FORM | dft | 42 | 0 | 0 | 11 |
 | dft | S_ABS | dft | 29 | 0 | 0 | 0 |
-| dft | T_INVARIANT | dft | 28 | 0 | 0 | 0 |
+| dft | T_INVARIANT | dft | 27 | 0 | 0 | 0 |
 | dft | T_TRANSITION | dft | 6 | 0 | 0 | 0 |
 | dft | VOLUME | dft | 292 | 0 | 0 | 0 |
 | dft | X_PHASE | dft | 171 | 0 | 0 | 0 |
-| dft | none | none | 245 | 0 | 0 | 245 |
+| dft | none | none | 252 | 0 | 0 | 252 |
 | experimental | ACTIVITY | emf | 35 | 0 | 0 | 3 |
 | experimental | ACTIVITY | kems_vapour | 9 | 0 | 0 | 0 |
 | experimental | ACTIVITY | unknown | 229 | 0 | 0 | 4 |
@@ -191,11 +190,11 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | GM_FORM | kems_vapour | 11 | 0 | 0 | 0 |
 | experimental | GM_FORM | solution_reaction_calorimetry | 5 | 5 | 4 | 0 |
 | experimental | GM_FORM | unknown | 220 | 58 | 33 | 21 |
-| experimental | G_MIX_PARTIAL | emf | 123 | 6 | 0 | 0 |
+| experimental | G_MIX_PARTIAL | emf | 107 | 6 | 0 | 0 |
 | experimental | G_MIX_PARTIAL | equilibration_other | 9 | 2 | 1 | 0 |
 | experimental | G_MIX_PARTIAL | experimental_unspecified | 11 | 0 | 0 | 0 |
-| experimental | G_MIX_PARTIAL | kems_vapour | 33 | 1 | 0 | 0 |
-| experimental | G_MIX_PARTIAL | unknown | 299 | 23 | 14 | 18 |
+| experimental | G_MIX_PARTIAL | kems_vapour | 4 | 1 | 0 | 0 |
+| experimental | G_MIX_PARTIAL | unknown | 246 | 23 | 14 | 18 |
 | experimental | HEAT_CONTENT | dsc_dta | 10 | 0 | 0 | 0 |
 | experimental | HEAT_CONTENT | heat_content_calorimetry | 37 | 0 | 0 | 0 |
 | experimental | HEAT_CONTENT | unknown | 485 | 50 | 4 | 6 |
@@ -204,13 +203,13 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | HM_FORM | emf | 217 | 87 | 72 | 0 |
 | experimental | HM_FORM | equilibration_other | 17 | 4 | 2 | 1 |
 | experimental | HM_FORM | evaluated_compilation | 10 | 3 | 2 | 1 |
-| experimental | HM_FORM | experimental_unspecified | 117 | 70 | 52 | 0 |
+| experimental | HM_FORM | experimental_unspecified | 125 | 70 | 56 | 0 |
 | experimental | HM_FORM | heat_content_calorimetry | 11 | 1 | 0 | 0 |
 | experimental | HM_FORM | kems_vapour | 196 | 95 | 52 | 1 |
 | experimental | HM_FORM | kems_vapour_second_law | 11 | 6 | 2 | 2 |
 | experimental | HM_FORM | kems_vapour_third_law | 8 | 5 | 1 | 0 |
-| experimental | HM_FORM | solution_reaction_calorimetry | 536 | 295 | 210 | 5 |
-| experimental | HM_FORM | unknown | 1201 | 439 | 286 | 49 |
+| experimental | HM_FORM | solution_reaction_calorimetry | 537 | 296 | 211 | 5 |
+| experimental | HM_FORM | unknown | 1200 | 439 | 286 | 49 |
 | experimental | H_MIX_PARTIAL | dsc_dta | 2 | 2 | 1 | 0 |
 | experimental | H_MIX_PARTIAL | emf | 4 | 0 | 0 | 0 |
 | experimental | H_MIX_PARTIAL | equilibration_other | 5 | 0 | 0 | 0 |
@@ -221,7 +220,7 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | LATTICE_ANGLE | unknown | 97 | 17 | 17 | 0 |
 | experimental | LATTICE_ANGLE | xrd | 6 | 0 | 0 | 0 |
 | experimental | LATTICE_LENGTH | experimental_unspecified | 146 | 32 | 32 | 0 |
-| experimental | LATTICE_LENGTH | unknown | 2550 | 438 | 419 | 0 |
+| experimental | LATTICE_LENGTH | unknown | 2551 | 439 | 420 | 0 |
 | experimental | LATTICE_LENGTH | xrd | 370 | 121 | 83 | 0 |
 | experimental | SM_FORM | dsc_dta | 1 | 0 | 0 | 0 |
 | experimental | SM_FORM | emf | 39 | 25 | 6 | 0 |
@@ -242,7 +241,7 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | S_ABS | kems_vapour_third_law | 1 | 1 | 0 | 0 |
 | experimental | S_ABS | unknown | 197 | 20 | 11 | 6 |
 | experimental | S_MIX_PARTIAL | emf | 4 | 2 | 0 | 0 |
-| experimental | S_MIX_PARTIAL | unknown | 40 | 2 | 0 | 0 |
+| experimental | S_MIX_PARTIAL | unknown | 19 | 2 | 0 | 0 |
 | experimental | T_CONDITION | diffusion_couple | 75 | 0 | 0 | 0 |
 | experimental | T_CONDITION | dilatometry_resistivity | 16 | 3 | 0 | 0 |
 | experimental | T_CONDITION | experimental_unspecified | 114 | 9 | 2 | 0 |
@@ -257,7 +256,7 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | T_INVARIANT | metallography_microscopy | 20 | 0 | 0 | 0 |
 | experimental | T_INVARIANT | microanalysis | 1 | 0 | 0 | 0 |
 | experimental | T_INVARIANT | thermal_analysis | 245 | 0 | 0 | 0 |
-| experimental | T_INVARIANT | unknown | 11790 | 1680 | 1274 | 0 |
+| experimental | T_INVARIANT | unknown | 11786 | 1678 | 1274 | 0 |
 | experimental | T_INVARIANT | xrd | 5 | 0 | 0 | 0 |
 | experimental | T_TRANSITION | diffusion_couple | 3 | 1 | 0 | 0 |
 | experimental | T_TRANSITION | dilatometry_resistivity | 10 | 1 | 1 | 0 |
@@ -267,7 +266,7 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | T_TRANSITION | microanalysis | 3 | 0 | 0 | 0 |
 | experimental | T_TRANSITION | thermal_analysis | 3038 | 266 | 137 | 0 |
 | experimental | T_TRANSITION | unknown | 3942 | 324 | 140 | 0 |
-| experimental | T_TRANSITION | xrd | 79 | 11 | 11 | 0 |
+| experimental | T_TRANSITION | xrd | 55 | 11 | 11 | 0 |
 | experimental | VOLUME | experimental_unspecified | 4 | 0 | 0 | 0 |
 | experimental | VOLUME | unknown | 105 | 13 | 13 | 0 |
 | experimental | X_PHASE | diffusion_couple | 64 | 0 | 0 | 0 |
@@ -276,28 +275,28 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | X_PHASE | metallography_microscopy | 38 | 0 | 0 | 0 |
 | experimental | X_PHASE | microanalysis | 909 | 0 | 0 | 0 |
 | experimental | X_PHASE | thermal_analysis | 548 | 0 | 0 | 0 |
-| experimental | X_PHASE | unknown | 12921 | 0 | 0 | 0 |
+| experimental | X_PHASE | unknown | 12920 | 0 | 0 | 0 |
 | experimental | X_PHASE | xrd | 17 | 0 | 0 | 0 |
-| experimental | none | none | 699 | 24 | 0 | 675 |
+| experimental | none | none | 844 | 26 | 0 | 818 |
 | model | ACTIVITY | model_calculated | 222 | 0 | 0 | 0 |
 | model | CPM | model_calculated | 637 | 23 | 12 | 23 |
 | model | EMF | model_calculated | 2 | 0 | 0 | 0 |
 | model | GM_FORM | model_calculated | 438 | 0 | 0 | 35 |
-| model | G_MIX_PARTIAL | model_calculated | 419 | 0 | 0 | 18 |
+| model | G_MIX_PARTIAL | model_calculated | 387 | 0 | 0 | 18 |
 | model | HEAT_CONTENT | model_calculated | 354 | 3 | 1 | 12 |
-| model | HM_FORM | model_calculated | 3981 | 108 | 61 | 199 |
+| model | HM_FORM | model_calculated | 3973 | 108 | 64 | 198 |
 | model | H_MIX_PARTIAL | model_calculated | 416 | 0 | 0 | 39 |
 | model | LATTICE_ANGLE | model_calculated | 28 | 1 | 1 | 0 |
 | model | LATTICE_LENGTH | model_calculated | 1093 | 40 | 40 | 0 |
-| model | SM_FORM | model_calculated | 587 | 18 | 10 | 25 |
+| model | SM_FORM | model_calculated | 587 | 18 | 10 | 24 |
 | model | S_ABS | model_calculated | 988 | 65 | 25 | 100 |
 | model | S_MIX_PARTIAL | model_calculated | 63 | 0 | 0 | 12 |
 | model | T_CONDITION | model_calculated | 691 | 5 | 0 | 0 |
-| model | T_INVARIANT | model_calculated | 12818 | 69 | 11 | 0 |
+| model | T_INVARIANT | model_calculated | 12816 | 69 | 11 | 0 |
 | model | T_TRANSITION | model_calculated | 2844 | 42 | 0 | 0 |
 | model | VOLUME | model_calculated | 116 | 0 | 0 | 0 |
-| model | X_PHASE | model_calculated | 12434 | 0 | 0 | 0 |
-| model | none | none | 412 | 4 | 0 | 408 |
+| model | X_PHASE | model_calculated | 12435 | 0 | 0 | 0 |
+| model | none | none | 448 | 4 | 0 | 444 |
 | unspecified | CPM | evaluated_compilation | 4 | 2 | 1 | 0 |
 | unspecified | CPM | unknown | 55 | 6 | 1 | 4 |
 | unspecified | GM_FORM | experimental_unspecified | 2 | 0 | 0 | 0 |
@@ -307,11 +306,11 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | unspecified | HM_FORM | equilibration_other | 2 | 0 | 0 | 0 |
 | unspecified | HM_FORM | evaluated_compilation | 5 | 2 | 2 | 0 |
 | unspecified | HM_FORM | experimental_unspecified | 19 | 0 | 0 | 0 |
-| unspecified | HM_FORM | unknown | 397 | 26 | 16 | 0 |
+| unspecified | HM_FORM | unknown | 396 | 26 | 16 | 0 |
 | unspecified | H_MIX_PARTIAL | unknown | 22 | 0 | 0 | 0 |
 | unspecified | LATTICE_ANGLE | unknown | 61 | 1 | 0 | 0 |
 | unspecified | LATTICE_LENGTH | experimental_unspecified | 9 | 0 | 0 | 0 |
-| unspecified | LATTICE_LENGTH | unknown | 1988 | 193 | 175 | 0 |
+| unspecified | LATTICE_LENGTH | unknown | 1986 | 192 | 174 | 0 |
 | unspecified | SM_FORM | unknown | 10 | 2 | 0 | 0 |
 | unspecified | S_ABS | equilibration_other | 2 | 0 | 0 | 0 |
 | unspecified | S_ABS | evaluated_compilation | 9 | 7 | 3 | 0 |

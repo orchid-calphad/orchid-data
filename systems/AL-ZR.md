@@ -1,10 +1,10 @@
 # Al–Zr system
 
-> Al–Zr system: 732 accepted literature values (formation 422, invariant reaction 178, phase transition 95, crystal structure 21) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Zr system: 658 accepted literature values (formation 422, invariant reaction 178, crystal structure 21, phase transition 21) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-ZR.html · Markdown: https://data.orchid-project.org/systems/AL-ZR.md
 
-732 accepted literature values from 9 paper(s) (experimental 244, model 385, DFT 82, unspecified 21); 8 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+658 accepted literature values from 8 paper(s) (experimental 170, model 385, DFT 82, unspecified 21); 8 calculated phase diagram(s). 85 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON part 1](https://data.orchid-project.org/literature/systems/AL-ZR.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/AL-ZR.part2.json) · [CSV](https://data.orchid-project.org/systems/AL-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-ZR/AlZr-01Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-ZR.html) · [Markdown](https://data.orchid-project.org/systems/AL-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 244 |
+| experimental | 170 |
 | model | 385 |
 | DFT | 82 |
 | unspecified | 21 |
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 178 |
-| phase transition | 95 |
+| phase transition | 21 |
 | phase equilibrium | 7 |
 | formation | 422 |
 | mixing / partial | 9 |
@@ -871,86 +871,12 @@ Table: Enthalpies of formation, Al–Zr system (413)
 
 ## Other properties
 
-### Phase transition (95)
+### Phase transition (21)
 
 Table: Phase transition, Al–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 857 K | 857 | UNKNOWN; _alloy: Al 0.193, Zr 0.807_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 1; `ORC-HZ4BY23RLX` |  |
-| Phase transition | 858 K | 858 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 3; `ORC-7KQFDNBE2O` |  |
-| Phase transition | 858 K | 858 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 2; `ORC-NNI73RGHZZ` |  |
-| Phase transition | 860 K | 860 | UNKNOWN; _alloy: Al 0.8572, Zr 0.1428_ | experimental | [9] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 5; `ORC-FRWLO7K3DV` |  |
-| Phase transition | 867 K | 867 | UNKNOWN; _alloy: Al 0.15, Zr 0.85_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 6; `ORC-2722BE2C6G` |  |
-| Phase transition | 869 K | 869 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 8; `ORC-HAYMYEDPLM` |  |
-| Phase transition | 869 K | 869 | UNKNOWN; _alloy: Al 0.8192, Zr 0.1808_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 7; `ORC-O4CKEJEXY6` |  |
-| Phase transition | 870 K | 870 | UNKNOWN; _alloy: Al 0.049, Zr 0.951_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 9; `ORC-2INQ2RCVW7` |  |
-| Phase transition | 871 K | 871 | UNKNOWN; _alloy: Al 0.103, Zr 0.897_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 10; `ORC-LKPW4P2LZX` |  |
-| Phase transition | 874 K | 874 | UNKNOWN; _alloy: Al 0.701, Zr 0.299_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 11; `ORC-JDPC2MP2EX` |  |
-| Phase transition | 875 K | 875 | UNKNOWN; _alloy: Al 0.878, Zr 0.122_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 12; `ORC-R34LTDXRZD` |  |
-| Phase transition | 876 K | 876 | UNKNOWN; _alloy: Al 0.4721, Zr 0.5279_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 13; `ORC-WIR3ZYEY4T` |  |
-| Phase transition | 877 K | 877 | UNKNOWN; _alloy: Al 0.2771, Zr 0.7229_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 14; `ORC-TR2IWBFM4Q` |  |
-| Phase transition | 878 K | 878 | UNKNOWN; _alloy: Al 0.628, Zr 0.372_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 15; `ORC-OX7WC2OFJP` |  |
-| Phase transition | 879 K | 879 | UNKNOWN; _alloy: Al 0.7999, Zr 0.2001_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 18; `ORC-6YFSZGKI3Z` |  |
-| Phase transition | 879 K | 879 | UNKNOWN; _alloy: Al 0.494, Zr 0.506_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 16; `ORC-QNA32VA7WJ` |  |
-| Phase transition | 879 K | 879 | UNKNOWN; _alloy: Al 0.295, Zr 0.705_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 17; `ORC-T6BLVTKTGQ` |  |
-| Phase transition | 880 K | 880 | UNKNOWN; _alloy: Al 0.628, Zr 0.372_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 19; `ORC-43GKQ6DGZD` |  |
-| Phase transition | 880 K | 880 | UNKNOWN; _alloy: Al 0.365, Zr 0.635_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 20; `ORC-JRTE2VQ72G` |  |
-| Phase transition | 881 K | 881 | UNKNOWN; _alloy: Al 0.5455, Zr 0.4545_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 21; `ORC-S7MRB5NBVT` |  |
-| Phase transition | 882 K | 882 | UNKNOWN; _alloy: Al 0.2771, Zr 0.7229_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 22; `ORC-KLAW4ZFRDO` |  |
-| Phase transition | 882 K | 882 | UNKNOWN; _alloy: Al 0.331, Zr 0.669_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 23; `ORC-PGIJKPSQMA` |  |
-| Phase transition | 885 K | 885 | UNKNOWN; _alloy: Al 0.378, Zr 0.622_ | experimental | [9] Williams 2025; _cites Akabori 1995_ [doi](https://doi.org/10.1088/0953-8984/7/43/005) | Table A.3, p. 11, row 24; `ORC-2GAMKYCRH5` |  |
-| Phase transition | 923 K | 923 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Xie 2021_ | Table A.3, p. 11, row 25; `ORC-JGQQBYGO3M` |  |
-| Phase transition | 933 K | 933 | UNKNOWN; _alloy: Al 1, Zr 0_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 26; `ORC-EFO4JIGDRJ` |  |
-| Phase transition | 933 K | 933 | UNKNOWN; _alloy: Al 1, Zr 0_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 27; `ORC-ROQOWMY3LR` |  |
-| Phase transition | 936 K | 936 | UNKNOWN; _alloy: Al 0.9974, Zr 0.0026_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 29; `ORC-FNSKPCFF4P` |  |
-| Phase transition | 936 K | 936 | UNKNOWN; _alloy: Al 0.9974, Zr 0.0026_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 28; `ORC-VNORCXHYMP` |  |
-| Phase transition | 938 K | 938 | UNKNOWN; _alloy: Al 0.975, Zr 0.025_ | experimental | [9] Williams 2025; _cites Zegler 1962_ | Table A.3, p. 11, row 30; `ORC-JLPZEKW32V` |  |
-| Phase transition | 941 K | 941 | UNKNOWN; _alloy: Al 0.95, Zr 0.05_ | experimental | [9] Williams 2025; _cites Basak 2009_ | Table A.3, p. 11, row 32; `ORC-4Q4XNGFODQ` |  |
-| Phase transition | 941 K | 941 | UNKNOWN; _alloy: Al 1, Zr 0_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 31; `ORC-KGOUDDU7U3` |  |
-| Phase transition | 943 K | 943 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Xie 2021_ | Table A.3, p. 11, row 33; `ORC-IGZXWIN6AS` |  |
-| Phase transition | 944 K | 944 | UNKNOWN; _alloy: Al 0.9494, Zr 0.0506_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 34; `ORC-VDWIO3FJ4O` |  |
-| Phase transition | 946 K | 946 | UNKNOWN; _alloy: Al 0.8572, Zr 0.1428_ | experimental | [9] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 35; `ORC-H3GEZPI4DJ` |  |
-| Phase transition | 947 K | 947 | UNKNOWN; _alloy: Al 0.9373, Zr 0.0627_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 36; `ORC-O25PPKESKF` |  |
-| Phase transition | 947 K | 947 | UNKNOWN; _alloy: Al 0.8572, Zr 0.1428_ | experimental | [9] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 37; `ORC-R7SGMFAXHQ` |  |
-| Phase transition | 948 K | 948 | UNKNOWN; _alloy: Al 0.9349, Zr 0.0651_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 38; `ORC-CS5WC467YT` |  |
-| Phase transition | 948 K | 948 | UNKNOWN; _alloy: Al 0.866, Zr 0.134_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 39; `ORC-QUQ7VJYSUB` |  |
-| Phase transition | 949 K | 949 | UNKNOWN; _alloy: Al 0.8726, Zr 0.1274_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 40; `ORC-PMJU6NKZ2D` |  |
-| Phase transition | 954 K | 954 | UNKNOWN; _alloy: Al 0.8793, Zr 0.1207_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 41; `ORC-XPSX55HVBX` |  |
-| Phase transition | 955 K | 955 | UNKNOWN; _alloy: Al 0.628, Zr 0.372_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 42; `ORC-IH53QESSN3` |  |
-| Phase transition | 955 K | 955 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 43; `ORC-J6B6JV5URY` |  |
-| Phase transition | 956 K | 956 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 44; `ORC-IXGKKVGJ4P` |  |
-| Phase transition | 956 K | 956 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 45; `ORC-QQOCG7633F` |  |
-| Phase transition | 957 K | 957 | UNKNOWN; _alloy: Al 0.7999, Zr 0.2001_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 46; `ORC-CC6YE7XWYL` |  |
-| Phase transition | 958 K | 958 | UNKNOWN; _alloy: Al 0.628, Zr 0.372_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 48; `ORC-GRS6FK5YG7` |  |
-| Phase transition | 958 K | 958 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 50; `ORC-Q4QU2IG5BM` |  |
-| Phase transition | 958 K | 958 | UNKNOWN; _alloy: Al 0.8192, Zr 0.1808_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 47; `ORC-T7LWHW4CKC` |  |
-| Phase transition | 958 K | 958 | UNKNOWN; _alloy: Al 0.8572, Zr 0.1428_ | experimental | [9] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 49; `ORC-ZQEEVANWTG` |  |
-| Phase transition | 959 K | 959 | UNKNOWN; _alloy: Al 0.7695, Zr 0.2305_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 51; `ORC-TPGAGH3XRO` |  |
-| Phase transition | 960 K | 960 | UNKNOWN; _alloy: Al 0.8572, Zr 0.1428_ | experimental | [9] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 52; `ORC-KSZPMNY5TW` |  |
-| Phase transition | 961 K | 961 | UNKNOWN; _alloy: Al 0.5455, Zr 0.4545_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 53; `ORC-VUNHFSEZ3A` |  |
-| Phase transition | 967 K | 967 | UNKNOWN; _alloy: Al 0.95, Zr 0.05_ | experimental | [9] Williams 2025; _cites Basak 2009_ | Table A.3, p. 11, row 55; `ORC-LGSDUXGINI` |  |
-| Phase transition | 967 K | 967 | UNKNOWN; _alloy: Al 0.975, Zr 0.025_ | experimental | [9] Williams 2025; _cites Zegler 1962_ | Table A.3, p. 11, row 54; `ORC-YO4CZURNWG` |  |
-| Phase transition | 968 K | 968 | UNKNOWN; _alloy: Al 0.8793, Zr 0.1207_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 56; `ORC-C23MUPDITZ` |  |
-| Phase transition | 969 K | 969 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 58; `ORC-7W64HBJ5XS` |  |
-| Phase transition | 969 K | 969 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 59; `ORC-KYYYWROVFJ` |  |
-| Phase transition | 969 K | 969 | UNKNOWN; _alloy: Al 0.9494, Zr 0.0506_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 57; `ORC-U3R4WWTRBH` |  |
-| Phase transition | 971 K | 971 | UNKNOWN; _alloy: Al 0.7999, Zr 0.2001_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 60; `ORC-DXWYLWZ52B` |  |
-| Phase transition | 975 K | 975 | UNKNOWN; _alloy: Al 0.8572, Zr 0.1428_ | experimental | [9] Williams 2025; _cites Kaity 2018_ [doi](https://doi.org/10.1016/j.jnucmat.2018.03.044) | Table A.3, p. 11, row 63; `ORC-3KO2RBK6BN` |  |
-| Phase transition | 975 K | 975 | UNKNOWN; _alloy: Al 0.866, Zr 0.134_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 61; `ORC-FXKJYU2KYA` |  |
-| Phase transition | 975 K | 975 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 65; `ORC-OIOCWQXBF6` |  |
-| Phase transition | 975 K | 975 | UNKNOWN; _alloy: Al 0.8192, Zr 0.1808_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 62; `ORC-PEIDKJC74F` |  |
-| Phase transition | 977 K | 977 | UNKNOWN; _alloy: Al 0.9349, Zr 0.0651_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 66; `ORC-EAZOL7DJX2` |  |
-| Phase transition | 977 K | 977 | UNKNOWN; _alloy: Al 0.8726, Zr 0.1274_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 68; `ORC-LKNXWLMLGL` |  |
-| Phase transition | 977 K | 977 | UNKNOWN; _alloy: Al 0.9373, Zr 0.0627_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 67; `ORC-TBDQJFRRMA` |  |
-| Phase transition | 988 K | 988 | UNKNOWN; _alloy: Al 0.9494, Zr 0.0506_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 69; `ORC-7VK4KSK43N` |  |
-| Phase transition | 995 K | 995 | UNKNOWN; _alloy: Al 0.8793, Zr 0.1207_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 70; `ORC-3H6J2WV2KS` |  |
-| Phase transition | 996 K | 996 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 72; `ORC-4CAJ27CIVF` |  |
-| Phase transition | 996 K | 996 | UNKNOWN; _alloy: Al 0.7752, Zr 0.2248_ | experimental | [9] Williams 2025; _cites Rai 2015_ [doi](https://doi.org/10.1007/s11661-015-3102-2) | Table A.3, p. 11, row 71; `ORC-M6HFETDJQK` |  |
-| Phase transition | 1011 K | 1011 | UNKNOWN; _alloy: Al 0.7999, Zr 0.2001_ | experimental | [9] Williams 2025; _cites Janney 2018_ [doi](https://doi.org/10.1080/00295450.2018.1435137) | Table A.3, p. 11, row 73; `ORC-NEVGX34YQW` |  |
-| Phase transition | 1025 K | 1025 | UNKNOWN; _alloy: Al 0.975, Zr 0.025_ | experimental | [9] Williams 2025; _cites Zegler 1962_ | Table A.3, p. 11, row 74; `ORC-3HJTRMPLF6` |  |
-| Phase transition | 1042 K | 1042 | UNKNOWN; _alloy: Al 0.9974, Zr 0.0026_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 76; `ORC-3RCNC7FYV7` |  |
-| Phase transition | 1042 K | 1042 | UNKNOWN; _alloy: Al 0.9974, Zr 0.0026_ | experimental | [9] Williams 2025; _cites Ahn 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.05.126) | Table A.3, p. 11, row 75; `ORC-TWC4OES2ZN` |  |
 | Phase transition | 1803 K | 1803 | (Al3Zr4 -> L); _Al3Zr4: Zr 0.571429; L: Zr 0.571429_ | experimental | [4] Fischer 2015; _cites McPherson 1954_ | Table 4, p. 7, row 41; `ORC-JG24KR55T7` |  |
 | Phase transition | 1818 K | 1818 | Al4Zr5 -> L; _Al4Zr5: Zr 0.555556; L: Zr 0.555556_ | model | [4] Fischer 2015 | Table 4, p. 7, row 17; `ORC-D2XCIOQRFO` |  |
 | Phase transition | 1819 K | 1819 | congruent melting: L -> Al4Zr5; _L: Zr 0.554; Al4Zr5: Zr 0.555556_ | model | [5] Tamim 2018 | Table 1, p. 4, row 27; `ORC-JQEKQGLFZ3` |  |
@@ -1059,14 +985,13 @@ Reporting papers the values were read from (a value cited from another work name
 6. Cuiping Guo, Zhenmin Du, Changrong Li, Baoliang Zhang, Mei Tao, Thermodynamic description of the Al–Fe–Zr system, Calphad 32, 637-649 (2008). [doi:10.1016/j.calphad.2008.08.007](https://doi.org/10.1016/j.calphad.2008.08.007)
 7. A.V. Khvan, D.G. Eskin, K.F. Starodub, A.T. Dinsdale, F. Wang, C. Fang et al., New insights into solidification and phase equilibria in the Al-Al3Zr system: Theoretical and experimental investigations, Journal of Alloys and Compounds 743, 626-638 (2018). [doi:10.1016/j.jallcom.2018.02.023](https://doi.org/10.1016/j.jallcom.2018.02.023)
 8. N. Saunders, V. G. Rivlin, Thermodynamic characterization of Al–Cr, Al–Zr, and Al–Cr–Zr alloy systems, Materials Science and Technology 2, 520-527 (1986). [doi:10.1179/mst.1986.2.6.520](https://doi.org/10.1179/mst.1986.2.6.520)
-9. W.J. Williams, J. Lund, R.E. García, M.A. Okuniewski, A modern reappraisal of the U-Zr phase diagram, Journal of Nuclear Materials 603, 155378 (2025). [doi:10.1016/j.jnucmat.2024.155378](https://doi.org/10.1016/j.jnucmat.2024.155378)
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -1075,7 +1000,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1086,7 +1011,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1096,7 +1021,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1106,7 +1031,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

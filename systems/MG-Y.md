@@ -1,10 +1,10 @@
 # Mg–Y system
 
-> Mg–Y system: 53 accepted literature values (invariant reaction 25, crystal structure 12, formation 10, activity / EMF / Gibbs energy 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Y system: 53 accepted literature values (invariant reaction 25, crystal structure 12, formation 10, activity / EMF / Gibbs energy 6) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-Y.html · Markdown: https://data.orchid-project.org/systems/MG-Y.md
 
-53 accepted literature values from 5 paper(s) (experimental 20, model 28, unspecified 5); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+53 accepted literature values from 5 paper(s) (experimental 20, model 28, unspecified 5); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-Y.json) · [CSV](https://data.orchid-project.org/systems/MG-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-Y/MgY-03Fab-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MG-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-Y.html) · [Markdown](https://data.orchid-project.org/systems/MG-Y.md)
 
@@ -37,6 +37,7 @@ Table: Assessments with a calculated phase diagram
 | MgY-07Guo.tdb | C. Guo, Z. Du, C. Li, Calphad, 31, 75-88 (2007). [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004) | `088dfa98084813228daca365dc475a7be7f37104e29f30e55a46ac88f23eb246` | [viewer](https://orchid-project.org/phase-diagrams/#MG-Y/MgY-07Guo.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgY-07Guo.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgY-07Guo.json) |
 | MgY-07Men.tdb | F. Meng, H. Liu, L. Liu, Z. Jin, Trans. Nonferrous Met. Soc. China, 17, 77-81(2007). | `c1079ef1bb67c5741bc31dace5d6fa929af1c01bee9605047d352afc982b91d1` | [viewer](https://orchid-project.org/phase-diagrams/#MG-Y/MgY-07Men.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgY-07Men.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgY-07Men.json) |
 | MgY-20Wu.tdb | X. Wu, C. Li, C. Guo, Z. Du, Calphad, 71, 102010(2020). [doi:10.1016/j.calphad.2020.102010](https://doi.org/10.1016/j.calphad.2020.102010) | `a3ac87fad28934c61b0aba0fe2caf3ecd5eef20e883f3dc18c1a06ccd91c2434` | [viewer](https://orchid-project.org/phase-diagrams/#MG-Y/MgY-20Wu.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgY-20Wu.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgY-20Wu.json) |
+| MgY-98Luk.tdb | H.L. Lukas, COST 507, Final report round 2, 1998. | `68740131a132fee3651ec3eb1fd044d3a56428ed2828054a4818d2079e1115cc` | [viewer](https://orchid-project.org/phase-diagrams/#MG-Y/MgY-98Luk.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MgY-98Luk.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MgY-98Luk.json) |
 
 Table: Calculated three-phase invariants (model, mole fraction of the second component)
 
@@ -79,6 +80,13 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | MgY-20Wu.tdb | 888.28 | LIQUID (x(Y) 0.14452) + MG24Y5_A12 (x(Y) 0.16329) + C14_LAVES (x(Y) 0.26254) |
 | MgY-20Wu.tdb | 844.06 | HCP_A3 (x(Y) 0.03667) + LIQUID (x(Y) 0.08241) + MG24Y5_A12 (x(Y) 0.14036) |
 | MgY-20Wu.tdb | 844.06 | MG7Y (x(Y) 0.03667) + LIQUID (x(Y) 0.08241) + MG24Y5_A12 (x(Y) 0.14036) |
+| MgY-98Luk.tdb | 1215.82 | LIQUID (x(Y) 0.47401) + MGY_B2 (x(Y) 0.49428) + BCC_A2 (x(Y) 0.59642) |
+| MgY-98Luk.tdb | 1096.08 | MGY_B2 (x(Y) 0.49856) + BCC_A2 (x(Y) 0.6979) + HCP_A3 (x(Y) 0.81559) |
+| MgY-98Luk.tdb | 1060.63 | LIQUID (x(Y) 0.27527) + MG2Y_C14 (x(Y) 0.33333) + MGY_B2 (x(Y) 0.47349) |
+| MgY-98Luk.tdb | 1060.63 | LIQUID (x(Y) 0.27546) + MG2Y_C14 (x(Y) 0.33333) + MGY_B2 (x(Y) 0.47353) |
+| MgY-98Luk.tdb | 891.96 | LIQUID (x(Y) 0.14539) + MG24Y5_A12 (x(Y) 0.163) + MG2Y_C14 (x(Y) 0.33333) |
+| MgY-98Luk.tdb | 891.96 | LIQUID (x(Y) 0.14512) + MG24Y5_A12 (x(Y) 0.16294) + MG2Y_C14 (x(Y) 0.33333) |
+| MgY-98Luk.tdb | 849.59 | HCP_A3 (x(Y) 0.04262) + LIQUID (x(Y) 0.08121) + MG24Y5_A12 (x(Y) 0.13623) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MG/MG-Y.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MG/MG-Y.json) · [CALPHAD hull MgY-03Fab-LB](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-Y--MgY-03Fab-LB.json) · [CALPHAD hull MgY-07Guo](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-Y--MgY-07Guo.json) · [CALPHAD hull MgY-07Men](https://data.orchid-project.org/hulls/calphad-sgte/MG/MG-Y--MgY-07Men.json)
 
@@ -179,10 +187,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -191,7 +199,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -202,7 +210,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -212,7 +220,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -222,7 +230,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

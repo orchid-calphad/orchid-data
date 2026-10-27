@@ -1,1 +1,1 @@
-{"tdb":"YO-96Gro.tdb","elements":["Y","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"YO-96Gro.tdb","elements":["Y","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"5a6e383e878345174b75724e97c6c604eac1e52658c2889de059720c5b40d6e2","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

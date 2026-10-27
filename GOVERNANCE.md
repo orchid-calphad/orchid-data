@@ -28,4 +28,4 @@ release. Individual values carry their contributors.
 **Conduct.** Everyone in ORCHID spaces follows the [Code of Conduct](CODE_OF_CONDUCT.md); reports go to
 conduct@orchid-project.org and are handled by the maintainers in confidence.
 
-**Funding.** U.S. National Science Foundation award OAC-2608825 (CSSI Elements: PhaseForge).
+**Funding.** This work was supported by the U.S. National Science Foundation under awards OAC-2608825 (CSSI Elements: PhaseForge) and 2534344 (Autonomous Robotic Metallurgist: An NSF Materials Innovation Platform, ARM-MIP).

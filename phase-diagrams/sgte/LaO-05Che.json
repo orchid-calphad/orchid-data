@@ -1,1 +1,1 @@
-{"tdb":"LaO-05Che.tdb","elements":["La","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"LaO-05Che.tdb","elements":["La","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"1155c814b96cef9ef04de933dc6d26e99180b4070297aa44ec74fcc8757b94b6","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

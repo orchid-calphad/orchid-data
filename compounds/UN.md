@@ -125,92 +125,92 @@ Table: Uncertainty budget of the literature values of UN
 | -145.603 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -145.368 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -143.302 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -306.95 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -306.863 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -306.677 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -306.562 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -306.311 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -306.211 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -306.166 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -306.092 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -306 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -305.997 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -305.892 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -305.771 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -305.507 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -305.348 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -305.208 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -304.91 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -304.734 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -304.595 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -304.366 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -304.211 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -303.675 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -303.405 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -303.205 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -302.587 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -302.491 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -301.686 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -301.474 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -301.248 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -300.83 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -300.579 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -300.383 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -300.244 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -299.771 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -299.742 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -299.742 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -299.644 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -298.882 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -298.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -298.135 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -298.026 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -297.881 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -297.418 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -297.414 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -296.682 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -296.395 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -296.06 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -296.05 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -295.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -295.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -295.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -295.798 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -295.136 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -295.056 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -294.775 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -294.705 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -294.591 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -294.414 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -294.354 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -294.353 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -294.353 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -294.261 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.842 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.773 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.697 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.675 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.382 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.382 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.305 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.298 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.18 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.089 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -293.061 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -292.566 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -292.247 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -292.108 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -292.101 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -291.374 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -291.249 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -288.696 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -287.353 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -286.669 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -285.725 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -282.864 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -282.462 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -277.743 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -147.176 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -306.95 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -306.863 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -306.677 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -306.562 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -306.311 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -306.211 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -306.166 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -306.092 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -306 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -305.997 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -305.892 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -305.771 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -305.507 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -305.348 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -305.208 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -304.91 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -304.734 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -304.595 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -304.366 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -304.211 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -303.675 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -303.405 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -303.205 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -302.587 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -302.491 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -301.686 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -301.474 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -301.248 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -300.83 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -300.579 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -300.383 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -300.244 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -299.771 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -299.742 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -299.742 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -299.644 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -298.882 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -298.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -298.135 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -298.026 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -297.881 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -297.418 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -297.414 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -296.682 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -296.395 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -296.06 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -296.05 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -295.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -295.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -295.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -295.798 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -295.136 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -295.056 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -294.775 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -294.705 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -294.591 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -294.414 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -294.354 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -294.353 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -294.353 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -294.261 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.842 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.773 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.697 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.675 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.382 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.382 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.305 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.298 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.18 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.089 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -293.061 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -292.566 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -292.247 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -292.108 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -292.101 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -291.374 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -291.249 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -288.696 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -287.353 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -286.669 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -285.725 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -282.864 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -282.462 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -277.743 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -147.176 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 
 ## DFT formation energies
 
@@ -231,9 +231,9 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -242,7 +242,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -253,7 +253,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_dft_benchmark_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -264,7 +264,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -1,0 +1,427 @@
+{
+  "date": "2026-10-26",
+  "decision": "reclassified_failed",
+  "records": [
+    {
+      "file": "GaSe-08Zhe.json",
+      "original_status": "ok",
+      "recommended_status": "failed",
+      "reason": "No mapped boundaries or grid; baseline and interior-seed retries did not recover a usable diagram.",
+      "attempts": [
+        {
+          "protocol": "baseline",
+          "status": "failed",
+          "error": "ValueError: No mapped phase boundaries; success cannot be established"
+        },
+        {
+          "protocol": "interior",
+          "status": "failed",
+          "error": "ValueError: No mapped phase boundaries; success cannot be established"
+        }
+      ],
+      "equilibrium_probes": 25,
+      "finite_energy_probes": 1,
+      "multiphase_probes": 0,
+      "source_sha256": "a1c458a9361989a9059922b6a547c42c65f199bf34cbcb2ca18444a190e38c36",
+      "original_diagram_sha256": "03f7a5842db2cfa2776346b7eae5ee8471046621637a4b1b545b6d34229d5139"
+    },
+    {
+      "file": "FeTi-23Wal-3g.json",
+      "original_status": "ok",
+      "recommended_status": "failed",
+      "reason": "No mapped boundaries or grid; baseline and interior-seed retries did not recover a usable diagram.",
+      "attempts": [
+        {
+          "protocol": "baseline",
+          "status": "failed",
+          "error": "ValueError: No mapped phase boundaries; success cannot be established"
+        },
+        {
+          "protocol": "interior",
+          "status": "failed",
+          "error": "ZeroDivisionError: float division"
+        }
+      ],
+      "equilibrium_probes": 25,
+      "finite_energy_probes": 22,
+      "multiphase_probes": 8,
+      "source_sha256": "eb27ebd8890d3aeadec02c42b1ea50be21ed2c0f5e1d3099c985300aca5bf324",
+      "original_diagram_sha256": "80a7c5d39913dfcc176ff65bfccbe819454f6c33f15b6dbea775f11c897cf959"
+    }
+  ],
+  "equilibrium_probes": [
+    {
+      "file": "GaSe-08Zhe.json",
+      "source_sha256": "a1c458a9361989a9059922b6a547c42c65f199bf34cbcb2ca18444a190e38c36",
+      "checks": [
+        {
+          "T_K": 400,
+          "x": 0.05,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 400,
+          "x": 0.25,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 400,
+          "x": 0.5,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 400,
+          "x": 0.75,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 400,
+          "x": 0.95,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 800,
+          "x": 0.05,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 800,
+          "x": 0.25,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 800,
+          "x": 0.5,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 800,
+          "x": 0.75,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 800,
+          "x": 0.95,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 1200,
+          "x": 0.05,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 1200,
+          "x": 0.25,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 1200,
+          "x": 0.5,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 1200,
+          "x": 0.75,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 1200,
+          "x": 0.95,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 1800,
+          "x": 0.05,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 1800,
+          "x": 0.25,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 1800,
+          "x": 0.5,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 1800,
+          "x": 0.75,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 1800,
+          "x": 0.95,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 2400,
+          "x": 0.05,
+          "finite_GM": true,
+          "phases": [
+            "ION"
+          ]
+        },
+        {
+          "T_K": 2400,
+          "x": 0.25,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 2400,
+          "x": 0.5,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 2400,
+          "x": 0.75,
+          "finite_GM": false,
+          "phases": []
+        },
+        {
+          "T_K": 2400,
+          "x": 0.95,
+          "finite_GM": false,
+          "phases": []
+        }
+      ],
+      "pdens": 1000,
+      "P_Pa": 101325,
+      "source_modified": false
+    },
+    {
+      "file": "FeTi-23Wal-3g.json",
+      "source_sha256": "eb27ebd8890d3aeadec02c42b1ea50be21ed2c0f5e1d3099c985300aca5bf324",
+      "checks": [
+        {
+          "T_K": 400,
+          "x": 0.05,
+          "finite_GM": true,
+          "phases": [
+            "B2_BCC",
+            "C14_LAVES"
+          ]
+        },
+        {
+          "T_K": 400,
+          "x": 0.25,
+          "finite_GM": true,
+          "phases": [
+            "B2_BCC",
+            "C14_LAVES"
+          ]
+        },
+        {
+          "T_K": 400,
+          "x": 0.5,
+          "finite_GM": true,
+          "phases": [
+            "C14_LAVES"
+          ]
+        },
+        {
+          "T_K": 400,
+          "x": 0.75,
+          "finite_GM": false,
+          "phases": [
+            "C14_LAVES",
+            "HCP_A3"
+          ]
+        },
+        {
+          "T_K": 400,
+          "x": 0.95,
+          "error": "ZeroDivisionError('float division')"
+        },
+        {
+          "T_K": 800,
+          "x": 0.05,
+          "finite_GM": true,
+          "phases": [
+            "BCC_A2",
+            "C14_LAVES"
+          ]
+        },
+        {
+          "T_K": 800,
+          "x": 0.25,
+          "finite_GM": true,
+          "phases": [
+            "BCC_A2",
+            "C14_LAVES"
+          ]
+        },
+        {
+          "T_K": 800,
+          "x": 0.5,
+          "finite_GM": true,
+          "phases": [
+            "C14_LAVES"
+          ]
+        },
+        {
+          "T_K": 800,
+          "x": 0.75,
+          "finite_GM": true,
+          "phases": [
+            "B2_BCC"
+          ]
+        },
+        {
+          "T_K": 800,
+          "x": 0.95,
+          "error": "ZeroDivisionError('float division')"
+        },
+        {
+          "T_K": 1200,
+          "x": 0.05,
+          "finite_GM": true,
+          "phases": [
+            "BCC_A2",
+            "C14_LAVES"
+          ]
+        },
+        {
+          "T_K": 1200,
+          "x": 0.25,
+          "finite_GM": true,
+          "phases": [
+            "BCC_A2",
+            "C14_LAVES"
+          ]
+        },
+        {
+          "T_K": 1200,
+          "x": 0.5,
+          "finite_GM": true,
+          "phases": [
+            "C14_LAVES"
+          ]
+        },
+        {
+          "T_K": 1200,
+          "x": 0.75,
+          "finite_GM": true,
+          "phases": [
+            "BCC_A2"
+          ]
+        },
+        {
+          "T_K": 1200,
+          "x": 0.95,
+          "finite_GM": true,
+          "phases": [
+            "B2_BCC"
+          ]
+        },
+        {
+          "T_K": 1800,
+          "x": 0.05,
+          "finite_GM": true,
+          "phases": [
+            "LIQUID"
+          ]
+        },
+        {
+          "T_K": 1800,
+          "x": 0.25,
+          "finite_GM": true,
+          "phases": [
+            "LIQUID"
+          ]
+        },
+        {
+          "T_K": 1800,
+          "x": 0.5,
+          "finite_GM": true,
+          "phases": [
+            "LIQUID"
+          ]
+        },
+        {
+          "T_K": 1800,
+          "x": 0.75,
+          "finite_GM": true,
+          "phases": [
+            "LIQUID"
+          ]
+        },
+        {
+          "T_K": 1800,
+          "x": 0.95,
+          "finite_GM": true,
+          "phases": [
+            "LIQUID",
+            "B2_BCC"
+          ]
+        },
+        {
+          "T_K": 2400,
+          "x": 0.05,
+          "finite_GM": true,
+          "phases": [
+            "LIQUID"
+          ]
+        },
+        {
+          "T_K": 2400,
+          "x": 0.25,
+          "finite_GM": true,
+          "phases": [
+            "LIQUID"
+          ]
+        },
+        {
+          "T_K": 2400,
+          "x": 0.5,
+          "finite_GM": true,
+          "phases": [
+            "LIQUID"
+          ]
+        },
+        {
+          "T_K": 2400,
+          "x": 0.75,
+          "finite_GM": true,
+          "phases": [
+            "LIQUID"
+          ]
+        },
+        {
+          "T_K": 2400,
+          "x": 0.95,
+          "finite_GM": true,
+          "phases": [
+            "LIQUID"
+          ]
+        }
+      ],
+      "pdens": 1000,
+      "P_Pa": 101325,
+      "source_modified": false
+    }
+  ],
+  "source_files_modified": false
+}

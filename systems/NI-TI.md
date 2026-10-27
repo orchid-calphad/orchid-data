@@ -1,10 +1,10 @@
 # Ni–Ti system
 
-> Ni–Ti system: 258 accepted literature values (formation 100, crystal structure 50, heat capacity / entropy / enthalpy 43, phase transition 42) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Ti system: 225 accepted literature values (formation 97, crystal structure 50, heat capacity / entropy / enthalpy 43, invariant reaction 23) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-TI.html · Markdown: https://data.orchid-project.org/systems/NI-TI.md
 
-258 accepted literature values from 7 paper(s) (experimental 35, model 128, DFT 82, unspecified 13); 13 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+225 accepted literature values from 7 paper(s) (experimental 35, model 98, DFT 79, unspecified 13); 13 calculated phase diagram(s). 43 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TI.json) · [CSV](https://data.orchid-project.org/systems/NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TI/NiTi-04Tok.json) · [phases (14)](https://data.orchid-project.org/phases/pages/NI-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TI.html) · [Markdown](https://data.orchid-project.org/systems/NI-TI.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 35 |
-| model | 128 |
-| DFT | 82 |
+| model | 98 |
+| DFT | 79 |
 | unspecified | 13 |
 
 Table: Accepted values by property group
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 23 |
-| phase transition | 42 |
-| formation | 100 |
+| phase transition | 12 |
+| formation | 97 |
 | heat capacity / entropy / enthalpy | 43 |
 | crystal structure | 50 |
 
@@ -246,11 +246,10 @@ Table: Invariant reactions reported in the literature for the Ni–Ti system (23
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Ti system (95)
+Table: Enthalpies of formation, Ni–Ti system (88)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni3Ti |  | -48.73 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 8; `ORC-O2SV5STX32` |  |
 | Ni3Ti |  | -48.73 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 11; `ORC-PXQSABPIMU` |  |
 | Ni3Ti |  | -47.6 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 10; `ORC-HJ3XLPEXJD` |  |
 | Ni3Ti |  | -47.1 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 9; `ORC-D7DNHPNF6K` |  |
@@ -261,9 +260,6 @@ Table: Enthalpies of formation, Ni–Ti system (95)
 | Ni3Ti |  | -34.852 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 1; `ORC-C7DOZ3P3EZ` |  |
 | Ni3Ti |  | -33.369 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 2; `ORC-6GH34YTD7A` |  |
 | Ni3Ti |  | -32.5 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 12; `ORC-FFOAFW4XLR` |  |
-| Ni3Ti |  | -8.72 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 9; `ORC-H7SQPVQY5Z` |  |
-| Ni3Ti |  | 4.77 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 11; `ORC-VWQAJJFQRF` |  |
-| Ni3Ti |  | 7.08 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 10; `ORC-LXX4NRREAG` |  |
 | Ni3Ti(D024) |  | -45.99 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 11; `ORC-SCR5BXKZPF.531ef5` |  |
 | Ni3Ti(D024) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -42.2 kJ/mol-atom ± 1.2 | 298.15 | experimental | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [3] Tokunaga 2004; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 2, p. 3, row 12; `ORC-3VGEQTV6FF` |  |
 | Ni3Ti(D03) |  | -46.8 kJ/mol-atom |  | DFT |  |  | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 13; `ORC-4XGNW6UYVR` |  |
@@ -276,7 +272,6 @@ Table: Enthalpies of formation, Ni–Ti system (95)
 | NiTi |  | -38.286 per mol-atom | 1460.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 16; `ORC-5PKCCWZZCU` |  |
 | NiTi |  | -38.1 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 25; `ORC-5K2VMN54GI` |  |
 | NiTi |  | -37.212 per mol-atom | 1173.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 20; `ORC-3CUO6Q7KIJ` |  |
-| NiTi |  | -36.1 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 12; `ORC-5U3HR2W7ID` |  |
 | NiTi |  | -36.1 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 27; `ORC-YUYMZPONBL` |  |
 | NiTi |  | -36 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 26; `ORC-VRXRBLVP3F` |  |
 | NiTi |  | -34.2 per mol-atom ± 2000 | 999.15 | experimental |  |  | [1] Santhy 2015; _cites Gomozov 1986_ | Table 9, p. 6, row 17; `ORC-A2VKLEYF66` |  |
@@ -286,8 +281,6 @@ Table: Enthalpies of formation, Ni–Ti system (95)
 | NiTi |  | -33.1 per mol-atom ± 1100 | 1477.15 | experimental |  |  | [1] Santhy 2015; _cites ref. 1998Guo_ | Table 9, p. 6, row 21; `ORC-OK2TYX3B7R` |  |
 | NiTi |  | -32.51 per mol-atom | 1173.15 | experimental |  |  | [1] Santhy 2015; _cites Yi 1989_ [doi](https://doi.org/10.1007/bf02385723) | Table 9, p. 6, row 19; `ORC-6MAYECTT2N` |  |
 | NiTi |  | -31.159 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 14; `ORC-5THPFCF46R` |  |
-| NiTi |  | 58.14 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 13; `ORC-5EZOM72ZDW` |  |
-| NiTi |  | 74.45 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 14; `ORC-PHLLH6PKZ7` |  |
 | NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -46 kJ/mol-atom |  | model | -33.515 (mp-aaaaaavz) | -36.473 (oqmd-116608) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 1; `ORC-GJLJE4AMAL` |  |
 | NiTi(B2) |  | -40.9 kJ/mol-atom |  | DFT |  |  | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 2; `ORC-ZBVIXAGZK4` |  |
 | NiTi(B2) |  | -34.59 kJ/mol-atom | 0 | DFT |  |  | [3] Tokunaga 2004 | Table 2, p. 3, row 2; `ORC-CEJYONOTZK.28f7a6` |  |
@@ -348,56 +341,26 @@ Table: Enthalpies of formation, Ni–Ti system (95)
 
 ## Other properties
 
-### Phase transition (42)
+### Phase transition (12)
 
 Table: Phase transition, Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 353 K | 353 | other: TiNi-B2 \<--> B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 29; `ORC-RXSARTPGFP` |  |
-| Phase transition | 366 K | 366 | other: TiNi-B2 \<--> B19'; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 30; `ORC-NGL6WLHLXD` |  |
 | Phase transition | 930 K | 930 | other | experimental | [5] Povoden-Karadeniz 2013; _cites Nishida 1986_ [doi](https://doi.org/10.1007/bf02650086) | p. 2; `ORC-MJEKOBUSVA.2fd871` | “Nishida et al. \[19\] presented important experimental solvus data in terms of a time-temperature-transformation diagram of a Ti-52 at% Ni alloy. Concluding from his work, the kinetic solvi of Ti3Ni4 and Ti2Ni3 are situated at approximately 1023 K and 930 K, respectively.” |
 | Phase transition | 1023 K | 1023 | other | experimental | [5] Povoden-Karadeniz 2013; _cites Nishida 1986_ [doi](https://doi.org/10.1007/bf02650086) | p. 2; `ORC-MJEKOBUSVA.b57542` | “Nishida et al. \[19\] presented important experimental solvus data in terms of a time-temperature-transformation diagram of a Ti-52 at% Ni alloy. Concluding from his work, the kinetic solvi of Ti3Ni4 and Ti2Ni3 are situated at approximately 1023 K and 930 K, respectively.” |
-| Phase transition | 1040 K | 1040 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 8; `ORC-44YE47YPA3` |  |
-| Phase transition | 1040 K | 1040 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 7; `ORC-BVZLB4446H` |  |
-| Phase transition | 1040 K | 1040 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 6; `ORC-QFVZXL2YFS` |  |
-| Phase transition | 1045 K | 1045 | other: bcc \<--> hcp+Ti2Ni | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 5; `ORC-HZRPTUZWRQ` |  |
-| Phase transition | 1205 K | 1205 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 4; `ORC-CZT4QPYZY5` |  |
-| Phase transition | 1215 K | 1215 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 3; `ORC-UJBGTAJRRE` |  |
-| Phase transition | 1215 K | 1215 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 2; `ORC-XNBRK6MZGO` |  |
-| Phase transition | 1221 K | 1221 | other: liq \<--> bcc+Ti2Ni | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 1; `ORC-SZAVZQ6QQN` |  |
-| Phase transition | 1250 K | 1250 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 9; `ORC-RHVU6P3344` |  |
-| Phase transition | 1258 K | 1258 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 10; `ORC-2CJE6AJ66W` |  |
-| Phase transition | 1258 K | 1258 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 11; `ORC-YV35OFO3L7` |  |
-| Phase transition | 1275 K | 1275 | other: liq+TiNi-B2 \<--> Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 12; `ORC-E6JS7FMVNV` |  |
-| Phase transition | 1393 K | 1393 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 19; `ORC-7PV7NK3CV6` |  |
-| Phase transition | 1393 K | 1393 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 18; `ORC-HWCELQRI2V` |  |
-| Phase transition | 1419 K | 1419 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 17; `ORC-BCRVD72DG5` |  |
-| Phase transition | 1450 K | 1450 | other: liq \<--> TiNi-B2+TiNi3; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 20; `ORC-BRHTCVL55I` |  |
-| Phase transition | 1559 K | 1559 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 25; `ORC-YP52VIULKV` |  |
-| Phase transition | 1560 K | 1560 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 28; `ORC-OXTYSIVSRL` |  |
-| Phase transition | 1573 K | 1573 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 26; `ORC-O4RHPTV76D` |  |
-| Phase transition | 1576 K | 1576 | other: liq \<--> TiNi3+fcc | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 27; `ORC-5HFVFXXK2A` |  |
-| Phase transition | 1580 K | 1580 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 16; `ORC-PVUOIWKBEH` |  |
 | Phase transition | 1582.15 K | 1582.15 | congruent melting: L -> TiNi; _L: Ti 0.5; TiNi: Ti 0.5_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 2; `ORC-CKC5YLPAPY` |  |
-| Phase transition | 1583 K | 1583 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 13; `ORC-OGYZ24TXFC` |  |
 | Phase transition | 1583.15 K | 1583.15 | L -> NiTi; _NiTi: Ti 0.5_ | experimental | [1] Santhy 2015; _cites Murray 1991_ | Table 4, p. 4, row 4; `ORC-5QMYRHF44L` |  |
 | Phase transition | 1583.15 K | 1583.15 | L -> NiTi; _NiTi: Ti 0.499_ | model | [1] Santhy 2015 | Table 4, p. 4, row 3; `ORC-MGO2LG7363` |  |
 | Phase transition | 1583.15 K | 1583.15 | L \<=> NiTi; _NiTi: Ti 0.499_ | model | [1] Santhy 2015 | Table 8, p. 4, row 7; `ORC-6LPVVLDLS7` |  |
 | Phase transition | 1583.15 K | 1583.15 | L \<=> NiTi; _NiTi: Ti 0.5_ | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 8; `ORC-YRJP4EZEQR` |  |
-| Phase transition | 1584 K | 1584 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 14; `ORC-25QC66ZPRM` |  |
 | Phase transition | 1585 K | 1585 | B2 + liquid | model | [6] Tang 1999 | p. 11; `ORC-H45YQVEETZ` | “The calculated melting point of B2 (1585 K) also agrees better with experimental data (1513±1583 K).” |
-| Phase transition | 1585 K | 1585 | other: liq \<--> TiNi-B2; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 15; `ORC-UQL7NL5ZHK` |  |
 | Phase transition | 1605 K | 1605 | congruent transformation | model | [6] Tang 1999 | p. 5; `ORC-DZUYTF7L4R` | “In addition, the previous evaluation for the congruent melting temperature of B2 is 1605 K; that is higher than the experimental data which range from 1513 to 1583 K \[22\].” |
-| Phase transition | 1648 K | 1648 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 2, p. 4, row 21; `ORC-WDWAB2P56C` |  |
-| Phase transition | 1650 K | 1650 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 2, p. 4, row 23; `ORC-Y5RHGH6ZTQ` |  |
-| Phase transition | 1653 K | 1653 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 2, p. 4, row 22; `ORC-54C5M6S4GO` |  |
 | Phase transition | 1653.15 K | 1653.15 | L \<=> Ni3Ti; _L: Ti 0.231; Ni3Ti: Ti 0.25_ | model | [1] Santhy 2015 | Table 8, p. 4, row 3; `ORC-APIRESGC3A` |  |
 | Phase transition | 1653.15 K | 1653.15 | L \<=> Ni3Ti; _Ni3Ti: Ti 0.25_ | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 4; `ORC-EE4UYNSVCM` |  |
 | Phase transition | 1657.15 K | 1657.15 | congruent melting: L -> TiNi3; _L: Ti 0.25; TiNi3: Ti 0.25_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 1; `ORC-2SPA6B42YX` |  |
-| Phase transition | 1660 K | 1660 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 24; `ORC-AWUHOYMGDR` |  |
 
-### Formation (5)
+### Formation (9)
 
 Table: Formation, Ni–Ti system
 
@@ -408,6 +371,10 @@ Table: Formation, Ni–Ti system
 | Gibbs energy of formation; _printed: ΔGf_ | -29.607 per mol-atom | 1300.15 | Ni3Ti; _alloy: Ti 0.25_ | model | [1] Santhy 2015 | Table 9, p. 6, row 8; `ORC-MYMJGMA2C3` |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -31.943 per mol-atom | 1300.15 | NiTi; _alloy: Ti 0.5_ | model | [1] Santhy 2015 | Table 9, p. 6, row 24; `ORC-KP2CK3KXXC` |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -31.6 per mol-atom | 1300.15 | NiTi; _alloy: Ti 0.5_ | experimental | [1] Santhy 2015; _cites Levshin 1979_ | Table 9, p. 6, row 23; `ORC-OVNEQTKGLU` |  |
+| end member formation energy; _printed: ΔEf_ | -36.1 kJ/mol-atom | 0 | (Ni)0.5(Ti)0.5(Va)3 / (Ti)0.5(Ni)0.5(Va)3; _alloy: Ni 0.5, Ti 0.5_ | DFT | [1] Santhy 2015 | Table 5, p. 4, row 12; `ORC-5U3HR2W7ID` |  |
+| end member formation energy; _printed: ΔEf_ | 58.14 kJ/mol-atom | 0 | (Ni)0.5(Va)0.5(Va)3 / (Va)0.5(Ti)0.5(Va)3 | DFT | [1] Santhy 2015 | Table 5, p. 4, row 13; `ORC-5EZOM72ZDW` |  |
+| end member formation energy; _printed: ΔEf_ | -48.73 kJ/mol-atom | 0 | (Ni)3(Ti)1; _alloy: Ni 0.75, Ti 0.25_ | DFT | [1] Santhy 2015 | Table 5, p. 4, row 8; `ORC-O2SV5STX32` |  |
+| end member formation energy; _printed: ΔEf_ | -8.72 kJ/mol-atom | 0 | (Ti)3(Ni)1; _alloy: Ni 0.25, Ti 0.75_ | DFT | [1] Santhy 2015 | Table 5, p. 4, row 9; `ORC-H7SQPVQY5Z` |  |
 
 ### Heat capacity / entropy / enthalpy (43)
 
@@ -530,10 +497,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -542,7 +509,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -553,7 +520,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -563,7 +530,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -573,7 +540,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

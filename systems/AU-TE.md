@@ -1,10 +1,10 @@
 # Au–Te system
 
-> Au–Te system: 42 accepted literature values (phase transition 21, invariant reaction 10, crystal structure 6, formation 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Te system: 28 accepted literature values (invariant reaction 10, phase transition 7, crystal structure 6, formation 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-TE.html · Markdown: https://data.orchid-project.org/systems/AU-TE.md
 
-42 accepted literature values from 2 paper(s) (experimental 39, model 3); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+28 accepted literature values from 2 paper(s) (experimental 25, model 3); 2 calculated phase diagram(s). 15 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-TE.json) · [CSV](https://data.orchid-project.org/systems/AU-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-TE/AuTe-06Wan.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AU-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-TE.html) · [Markdown](https://data.orchid-project.org/systems/AU-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 39 |
+| experimental | 25 |
 | model | 3 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
-| phase transition | 21 |
+| phase transition | 7 |
 | formation | 4 |
 | crystal structure | 6 |
 | other property | 1 |
@@ -84,28 +84,14 @@ Table: Enthalpies of formation, Au–Te system (4)
 
 ## Other properties
 
-### Phase transition (21)
+### Phase transition (7)
 
 Table: Phase transition, Au–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 690.25 K | 690.25 | other: 97 at.% Te; _alloy: Au 0.03, Te 0.97_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 32; `ORC-JAUXGBS6LJ` |  |
-| Phase transition | 690.35 K | 690.35 | other: 70 at.% Te; _alloy: Au 0.3, Te 0.7_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 28; `ORC-M7FQA2LJAJ` |  |
-| Phase transition | 690.45 K | 690.45 | other: 88 at.% Te; _alloy: Au 0.12, Te 0.88_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 30; `ORC-V2R7GBQDDZ` |  |
-| Phase transition | 690.45 K | 690.45 | other: 93 at.% Te; _alloy: Au 0.07, Te 0.93_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 31; `ORC-KWUHYHTMRU` |  |
-| Phase transition | 690.65 K | 690.65 | other: 80 at.% Te; _alloy: Au 0.2, Te 0.8_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 29; `ORC-ODJXUHHWTV` |  |
 | Phase transition | 708.15 K | 708.15 | AuTe2 | experimental | [2] Feutelais 1994; _cites Winkler 1964_ | p. 2; `ORC-2FBBYYQHEM` | “Later, \[64Win\] pointed out a crystalline transformation of the AuTe 2 compound at 435 ~” |
 | Phase transition | 717.15 K | 717.15 | AuTe2 | experimental | [2] Feutelais 1994; _cites ref. 65Cab_ | p. 2; `ORC-AY36ELOJYJ` | “On the same compound, using high temperature X-ray powder diffraction, \[65Cab\] found at 444 ~ on only one occasion a diffraction pattern different from this one obtained at room temperature.” |
-| Phase transition | 720.85 K | 720.85 | other: 38 at.% Te; _alloy: Au 0.62, Te 0.38_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 18; `ORC-MHYL44BV3W` |  |
-| Phase transition | 720.95 K | 720.95 | other: 43 at.% Te; _alloy: Au 0.57, Te 0.43_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 19; `ORC-GV5ETW2UAT` |  |
-| Phase transition | 720.95 K | 720.95 | other: 54 at.% Te; _alloy: Au 0.46, Te 0.54_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 22; `ORC-FFSK4BLDXK` |  |
-| Phase transition | 721.05 K | 721.05 | other: 50 at.% Te; _alloy: Au 0.5, Te 0.5_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 20; `ORC-KZXUY4GDW3` |  |
-| Phase transition | 721.05 K | 721.05 | other: 53 at.% Te; _alloy: Au 0.47, Te 0.53_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 21; `ORC-V7RUGUCIXZ` |  |
-| Phase transition | 721.15 K | 721.15 | other: 55 at.% Te; _alloy: Au 0.45, Te 0.55_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 23; `ORC-Q2H77WD3ZX` |  |
-| Phase transition | 721.15 K | 721.15 | other: 60 at.% Te; _alloy: Au 0.4, Te 0.6_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 25; `ORC-BZF7QDX5OD` |  |
-| Phase transition | 721.15 K | 721.15 | other: 63 at.% Te; _alloy: Au 0.37, Te 0.63_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 26; `ORC-GIKBNR552B` |  |
-| Phase transition | 721.25 K | 721.25 | other: 57 at.% Te; _alloy: Au 0.43, Te 0.57_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 24; `ORC-PHOYCTGPIY` |  |
 | Phase transition | 725 K | 725 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Rose 1908_ | Table 2, p. 3, row 12; `ORC-EE6MIHNNIY` |  |
 | Phase transition | 736 K | 736 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Bergman 1977_ [doi](https://doi.org/10.1002/bbpc.19770811024) | Table 2, p. 3, row 13; `ORC-QYBTXIEXAE` |  |
 | Phase transition | 736.75 K | 736.75 | congruent transformation: 66.67 at.% Te; _alloy: Au 0.3333, Te 0.6667_ | experimental | [2] Feutelais 1994 | Table I, p. 1, row 27; `ORC-ENLKL7A667` |  |
@@ -142,10 +128,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -154,7 +140,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -165,7 +151,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -175,7 +161,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -185,7 +171,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

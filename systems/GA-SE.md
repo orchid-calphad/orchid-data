@@ -1,12 +1,12 @@
 # Ga–Se system
 
-> Ga–Se system: 100 accepted literature values (invariant reaction 58, heat capacity / entropy / enthalpy 26, formation 16) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Se system: 100 accepted literature values (invariant reaction 58, heat capacity / entropy / enthalpy 26, formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-SE.html · Markdown: https://data.orchid-project.org/systems/GA-SE.md
 
-100 accepted literature values from 1 paper(s) (experimental 73, model 27); 1 calculated phase diagram(s).
+100 accepted literature values from 1 paper(s) (experimental 73, model 27); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GA-SE.json) · [CSV](https://data.orchid-project.org/systems/GA-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SE/GaSe-08Zhe.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GA-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-SE.html) · [Markdown](https://data.orchid-project.org/systems/GA-SE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-SE.json) · [CSV](https://data.orchid-project.org/systems/GA-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-SE) · [phases (9)](https://data.orchid-project.org/phases/pages/GA-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-SE.html) · [Markdown](https://data.orchid-project.org/systems/GA-SE.md)
 
 Table: Accepted values by evidence class
 
@@ -22,16 +22,6 @@ Table: Accepted values by property group
 | invariant reaction | 58 |
 | formation | 16 |
 | heat capacity / entropy / enthalpy | 26 |
-
-## Calculated phase diagrams
-
-Binary phase diagrams calculated with pycalphad 0.11.2 from the SGTE binary collection (Hallstedt 2025, CC BY 4.0). Evidence class: model.
-
-Table: Assessments with a calculated phase diagram
-
-| TDB file | Assessment | SHA-256 | Links |
-|---|---|---|---|
-| GaSe-08Zhe.tdb | F. Zheng, J.Y. Shen, Y.Q. Liu, W.K. Kim, M.Y. Chu, M. Ider, X.H. Bao, T.J. Anderson, Calphad, 32, 432-38(2008). [doi:10.1016/j.calphad.2008.03.004](https://doi.org/10.1016/j.calphad.2008.03.004) | `a1c458a9361989a9059922b6a547c42c65f199bf34cbcb2ca18444a190e38c36` | [viewer](https://orchid-project.org/phase-diagrams/#GA-SE/GaSe-08Zhe.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/GaSe-08Zhe.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/GaSe-08Zhe.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GA/GA-SE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GA/GA-SE.json)
 
@@ -168,19 +158,18 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
-Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
+Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
 Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
 
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -189,19 +178,9 @@ Version 1, machine-extracted: values were read from papers by language-model rea
   note      = {Version 1, machine-extracted}
 }
 
-@misc{orchid_phase_diagrams_2026,
-  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
-  version   = {2026.10},
-  publisher = {Zenodo},
-  year      = {2026},
-  doi       = {10.5281/zenodo.PENDING-phase-diagrams},
-  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-diagrams}
-}
-
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -211,7 +190,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

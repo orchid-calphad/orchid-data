@@ -452,6 +452,7 @@ Table: Enthalpies of formation, Fe–Zr system (71)
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -28.233 kJ/mol-atom | 1023.15 | model | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 17; `ORC-H63XNL5AX2.5c0cc0` |  |
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -25.317 kJ/mol-atom | 298.15 | model | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [3] Jiang 2001 | Table 2, p. 5, row 23; `ORC-2M3KDJJRA5.283feb` |  |
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -24.7 kJ/mol-atom ± 3.5 | 1023.15 | experimental | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [3] Jiang 2001; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 5, row 16; `ORC-JP3VP34BEY.468507` |  |
+| Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -24.7 kJ/mol-atom ± 3.5 | 1023 | experimental | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [1] Servant 1995; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 3, row 9; `ORC-RRX24TAHOT.d2d1bc` |  |
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -24.667 kJ/mol-atom | 298.15 | model | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 22; `ORC-BVDXJTMVTC.0c5691` |  |
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -24.6667 kJ/mol-atom | 298.15 | model | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [1] Servant 1995 | Table 2, p. 3, row 14; `ORC-TZFGPGG2K6` |  |
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -23 kJ/mol-atom |  | model | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [1] Servant 1995; _cites Colinet 1982_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 3, row 12; `ORC-H2KEOQZZCH.7f4f8d` |  |
@@ -481,7 +482,6 @@ Table: Enthalpies of formation, Fe–Zr system (71)
 | FeZr3 |  | 11.61 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Lu 2017 | Table 2, p. 3, row 48; `ORC-NBPYPJKFJE` |  |
 | FeZr3 |  | 13158 not printed | 298.15 | model |  |  | [5] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 8; `ORC-4MUCIW75MD` |  |
 | FeZr3 |  | 13158 not printed | 298.15 | model |  |  | [5] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 24; `ORC-SUYJ6IDQMR` |  |
-| UNKNOWN | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -24.7 kJ/mol-atom ± 3.5 | 1023 | experimental | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [1] Servant 1995; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 3, row 9; `ORC-RRX24TAHOT.400de0` |  |
 
 ## Other properties
 
@@ -612,10 +612,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -624,7 +624,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -635,7 +635,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -645,7 +645,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -655,7 +655,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

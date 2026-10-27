@@ -6,14 +6,11 @@
  ],
  "phases": [
   "BCC_A2",
-  "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325.0,
   "T": [
-   148.7843691,
-   150.2843691,
    218.7843691,
    344.7843691,
    276.2843691,
@@ -22,64 +19,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "BCC_A2",
-    [
-     "K"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "K"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "K"
-    ],
-    [
-     0.3641100023
-    ]
-   ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "K"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "K"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "K"
-    ],
-    [
-     0.8226034424
-    ]
-   ]
-  ],
   [
    [
     "BCC_A2",
@@ -171,16 +110,12 @@
   "evidence_class": "assessed_phase_diagram",
   "diagram": "CS-K-p344",
   "record_ids": [
-   "aspa-50e0e3c71ed33f08",
-   "aspa-539bcc7ee7dccded",
    "aspa-9c4917d477971576",
    "aspa-eb7bc793e3992cda",
    "aspa-44e188e99e98423c",
    "aspa-cbd4eec9b147d074"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -191,42 +126,6 @@
   "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
   "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
   "points": [
-   {
-    "record_id": "aspa-50e0e3c71ed33f08",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.377,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 25.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.26929,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-539bcc7ee7dccded",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.377,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 27.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.156168,
-     "sigma_effective": 0.02
-    }
-   },
    {
     "record_id": "aspa-9c4917d477971576",
     "boundary_basis": "printed_solid",

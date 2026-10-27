@@ -1,65 +1,17 @@
 # Mo–Nb–Ta–W system
 
-> Mo–Nb–Ta–W system: 21 accepted literature values (phase transition 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Nb–Ta–W system: 0 accepted literature values (none) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NB-TA-W.html · Markdown: https://data.orchid-project.org/systems/MO-NB-TA-W.md
 
-21 accepted literature values from 1 paper(s) (model 21); 0 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 0 calculated phase diagram(s). 21 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NB-TA-W.json) · [CSV](https://data.orchid-project.org/systems/MO-NB-TA-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NB-TA-W) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NB-TA-W.html) · [Markdown](https://data.orchid-project.org/systems/MO-NB-TA-W.md)
 
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| model | 21 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| phase transition | 21 |
-
-## Other properties
-
-### Phase transition (21)
-
-Table: Phase transition, Mo–Nb–Ta–W system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 135 K | 135 | other: MoW; _alloy: Nb 0, Ta 0, W 0.5_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 20; `ORC-MLLG55LAEG` |  |
-| Phase transition | 152 K | 152 | other: MoW; _alloy: Nb 0, Ta 0, W 0.5_ | model | [1] Zhang 2022 | Table 3, p. 10, row 19; `ORC-TRU27DKWTS` |  |
-| Phase transition | 465 K | 465 | other: MoNbW; _alloy: Nb 0.333333, Ta 0, W 0.333333_ | model | [1] Zhang 2022 | Table 3, p. 10, row 25; `ORC-FHH42NMMX3` |  |
-| Phase transition | 508 K | 508 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Kormann 2016_ [doi](https://doi.org/10.3390/e18080403) | Table 3, p. 10, row 32; `ORC-G3FI4PU7VY` |  |
-| Phase transition | 526 K | 526 | other: MoNbTa; _alloy: Nb 0.333333, Ta 0.333333, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 22; `ORC-RBU3ALV6KD` |  |
-| Phase transition | 540 K | 540 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 8; `ORC-BHGPZQG4PD` |  |
-| Phase transition | 568 K | 568 | other: MoNbTa; _alloy: Nb 0.333333, Ta 0.333333, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 21; `ORC-MMBTTYKNGU` |  |
-| Phase transition | 572 K | 572 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022 | Table 3, p. 10, row 27; `ORC-WCSFID524D` |  |
-| Phase transition | 594 K | 594 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 30; `ORC-V4TGXVSOJX` |  |
-| Phase transition | 682 K | 682 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 7; `ORC-ISPAEIIMRT` |  |
-| Phase transition | 682 K | 682 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 6; `ORC-VSXXOBWN34` |  |
-| Phase transition | 750 K | 750 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Kormann 2017_ | Table 3, p. 10, row 31; `ORC-TI7DSQZ7HX` |  |
-| Phase transition | 800 K | 800 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 9; `ORC-G2S5HVL4QO` |  |
-| Phase transition | 800 K | 800 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 3; `ORC-YHBS6WMSJ2` |  |
-| Phase transition | 859 K | 859 | other: MoTaW; _alloy: Nb 0, Ta 0.333333, W 0.333333_ | model | [1] Zhang 2022 | Table 3, p. 10, row 26; `ORC-QGYCX7BM3F` |  |
-| Phase transition | 900 K | 900 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Widom 2014_ | Table 3, p. 10, row 28; `ORC-GU3E7VT5GV` |  |
-| Phase transition | 1040 K | 1040 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 5; `ORC-XWOLJ4C7RG` |  |
-| Phase transition | 1239 K | 1239 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 2; `ORC-M5JKIMVSUL` |  |
-| Phase transition | 1239 K | 1239 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 1; `ORC-SDNVUE3Y5Z` |  |
-| Phase transition | 1654 K | 1654 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Huhn 2013_ [doi](https://doi.org/10.1007/s11837-013-0772-3) | Table 3, p. 10, row 29; `ORC-DUDF7H5VVK` |  |
-| Phase transition | 1770 K | 1770 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Turchi 2005_ [doi](https://doi.org/10.1103/physrevb.71.094206) | Table 3, p. 10, row 4; `ORC-NFZQGUIOUL` |  |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Enkuan Zhang, Ying Tang, Mingwen Wen, Abdulmonem Obaied, Irina Roslyakova, Lijun Zhang, On phase stability of Mo-Nb-Ta-W refractory high entropy alloys, International Journal of Refractory Metals and Hard Materials 103, 105780 (2022). [doi:10.1016/j.ijrmhm.2022.105780](https://doi.org/10.1016/j.ijrmhm.2022.105780)
-
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -68,7 +20,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -79,7 +31,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

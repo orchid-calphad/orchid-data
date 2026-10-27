@@ -43,18 +43,18 @@ Table: Uncertainty budget of the literature values of Mg3Sb2
 | -285 | kJ/mol (basis unstated) |  | 0.5 | 16 (solution_reaction_calorimetry, calibrated) |  |  |  | 16 |
 | -235 | kJ/mol (basis unstated) | 6 | 0.5 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
 | -47 | kJ/mol-atom | 1.2 | 0.01 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -490 | kJ/mol (basis unstated) |  | 0.5 | 17 (model_calculated, calibrated) |  |  |  | 17 |
-| -320 | kJ/mol (basis unstated) | 40 | 0.5 | 17 (model_calculated, calibrated) |  |  |  | 40 |
-| -300 | kJ/mol (basis unstated) |  | 0.5 | 17 (model_calculated, calibrated) |  |  |  | 17 |
-| -64 | kJ/mol-atom | 8 | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 8 |
-| -60 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -59.8 | kJ/mol-atom | 0.6 | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -57 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -55.2 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -53.2 | kJ/mol-atom |  | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -53.2 | kJ/mol-atom |  | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -52.6 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -52.4 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -490 | kJ/mol (basis unstated) |  | 0.5 | 19.5 (model_calculated, calibrated) |  |  |  | 19.5 |
+| -320 | kJ/mol (basis unstated) | 40 | 0.5 | 19.5 (model_calculated, calibrated) |  |  |  | 40 |
+| -300 | kJ/mol (basis unstated) |  | 0.5 | 19.5 (model_calculated, calibrated) |  |  |  | 19.5 |
+| -64 | kJ/mol-atom | 8 | 0.1 | 3.9 (model_calculated, calibrated) |  |  |  | 8 |
+| -60 | kJ/mol-atom |  | 0.01 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -59.8 | kJ/mol-atom | 0.6 | 0.1 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -57 | kJ/mol-atom |  | 0.01 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -55.2 | kJ/mol-atom |  | 0.01 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -53.2 | kJ/mol-atom |  | 0.1 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -53.2 | kJ/mol-atom |  | 0.1 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -52.6 | kJ/mol-atom |  | 0.01 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -52.4 | kJ/mol-atom |  | 0.01 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 
 ## DFT formation energies
 
@@ -76,9 +76,9 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -87,7 +87,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -98,7 +98,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_dft_benchmark_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -109,7 +109,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

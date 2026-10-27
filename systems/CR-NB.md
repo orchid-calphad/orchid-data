@@ -1,10 +1,10 @@
 # Cr–Nb system
 
-> Cr–Nb system: 223 accepted literature values (phase transition 93, phase equilibrium 77, formation 25, crystal structure 15) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Nb system: 189 accepted literature values (phase equilibrium 77, phase transition 74, crystal structure 15, formation 10) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NB.html · Markdown: https://data.orchid-project.org/systems/CR-NB.md
 
-223 accepted literature values from 3 paper(s) (experimental 174, model 14, DFT 31, unspecified 4); 7 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+189 accepted literature values from 3 paper(s) (experimental 155, model 13, DFT 17, unspecified 4); 7 calculated phase diagram(s). 53 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NB.json) · [CSV](https://data.orchid-project.org/systems/CR-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NB/CrNb-09Pav.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NB.html) · [Markdown](https://data.orchid-project.org/systems/CR-NB.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 174 |
-| model | 14 |
-| DFT | 31 |
+| experimental | 155 |
+| model | 13 |
+| DFT | 17 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -22,9 +22,9 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
-| phase transition | 93 |
+| phase transition | 74 |
 | phase equilibrium | 77 |
-| formation | 25 |
+| formation | 10 |
 | heat capacity / entropy / enthalpy | 1 |
 | activity / EMF / Gibbs energy | 2 |
 | crystal structure | 15 |
@@ -91,7 +91,7 @@ Table: Invariant reactions reported in the literature for the Cr–Nb system (10
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Nb system (24)
+Table: Enthalpies of formation, Cr–Nb system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -104,57 +104,24 @@ Table: Enthalpies of formation, Cr–Nb system (24)
 | CrNb2 (C14) |  | 76.52 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 1; `ORC-XLSY5U4PRY.969957` |  |
 | CrNb2 (C15) |  | 75.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 3; `ORC-MPJWFHXJ3F.28353c` |  |
 | CrNb2 (C36) |  | 76.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 5; `ORC-3OUP3LQ6BO.505957` |  |
-| UNKNOWN |  | -3.31 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 3; `ORC-KXIDPCR7GV` |  |
-| UNKNOWN |  | -2.48 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Hong 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900005-3) | Table 6, p. 7, row 5; `ORC-266DEJRAUQ` |  |
-| UNKNOWN |  | -2.34 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Ormeci 1996_ [doi](https://doi.org/10.1103/physrevb.54.12753) | Table 6, p. 7, row 8; `ORC-YXVPKEIW5Q` |  |
-| UNKNOWN |  | -2.31 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Yao 2006_ | Table 6, p. 7, row 6; `ORC-HKL3LLIZCU` |  |
-| UNKNOWN |  | -2.1 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Kellou 2005_ | Table 6, p. 7, row 7; `ORC-AAUZWQFL7N` |  |
-| UNKNOWN |  | -2.05 kJ/mol-atom | 0 | model |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 4; `ORC-HVNJODFNW2` |  |
-| UNKNOWN |  | -1.83 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 1; `ORC-QPQBIQZ6MD` |  |
-| UNKNOWN |  | -1.72 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 2; `ORC-SIRFFSAVZR` |  |
-| UNKNOWN |  | 26.4 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 6, p. 7, row 15; `ORC-UMDA26N3XS` |  |
-| UNKNOWN |  | 27.29 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 14; `ORC-BKJI2BHPNQ` |  |
-| UNKNOWN |  | 30.56 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 12; `ORC-QSJGIAPGCT` |  |
-| UNKNOWN |  | 33.55 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 13; `ORC-KDA4DDUPS3` |  |
-| UNKNOWN |  | 75.33 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 11; `ORC-VSZ5OK5H4W` |  |
-| UNKNOWN |  | 75.38 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 9; `ORC-UD3OC5EVC7` |  |
-| UNKNOWN |  | 75.39 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 10; `ORC-O7W3UAOLTR` |  |
 
 ## Other properties
 
-### Phase transition (93)
+### Phase transition (74)
 
 Table: Phase transition, Cr–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 180 K | 180 | ∫(Cp/T)dT; _alloy: Cr 0.667, Nb 0.333_ | experimental | [3] Neto 1993; _cites ref. 70Mar_ | Table 1, p. 3, row 54; `ORC-4QUXMYV3D7` |  |
-| Phase transition | 1273 K | 1273 | other: Cr-solvus; _alloy: Cr 0.9915, Nb 0.0085_ | experimental | [3] Neto 1993; _cites ref. 75Pro_ | Table 1, p. 3, row 7; `ORC-MXXODU3J4C` |  |
-| Phase transition | 1273 K | 1273 | other: Cr-solvus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 21; `ORC-Z3GLOEK64U` |  |
-| Phase transition | 1273 K | 1273 | other: Nb-solvus; _alloy: Cr 0.21, Nb 0.79_ | experimental | [3] Neto 1993; _cites ref. 75Pro_ | Table 1, p. 3, row 5; `ORC-Z537QDKXOT` |  |
-| Phase transition | 1273 K | 1273 | other: NbCr₂ range | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 22; `ORC-QBGXFJUZ3V` |  |
-| Phase transition | 1373 K | 1373 | other: Cr-solvus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 91Tak_ | Table 1, p. 3, row 3; `ORC-R2O5TTO2HP` |  |
-| Phase transition | 1373 K | 1373 | other: NbCr₂ range | experimental | [3] Neto 1993; _cites ref. 91Tak_ | Table 1, p. 3, row 4; `ORC-JUABC5ZG44` |  |
-| Phase transition | 1472 K | 1472 | μCr; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 70Mar_ | Table 1, p. 3, row 53; `ORC-X6WJA4N4XW` |  |
-| Phase transition | 1473 K | 1473 | other: Cr-solvus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Zak_ | Table 1, p. 3, row 16; `ORC-4QMMS5GEMD` |  |
-| Phase transition | 1473 K | 1473 | other: NbCr₂ range; _alloy: Cr 0.62, Nb 0.38_ | experimental | [3] Neto 1993; _cites ref. 61Zak_ | Table 1, p. 3, row 17; `ORC-EYX2AT4N2X` |  |
-| Phase transition | 1673 K | 1673 | other: Cr-solvus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 48; `ORC-F7TXNG2OMS` |  |
-| Phase transition | 1773 K | 1773 | other: Nb-solvus; _alloy: Cr 0.185, Nb 0.815_ | experimental | [3] Neto 1993; _cites ref. 91Cos_ | Table 1, p. 3, row 1; `ORC-52PSHN2HBF` |  |
-| Phase transition | 1773 K | 1773 | other: NbCr₂ range; _alloy: Cr 0.65, Nb 0.35_ | experimental | [3] Neto 1993; _cites ref. 91Cos_ | Table 1, p. 3, row 2; `ORC-GAVBJOP6XD` |  |
 | Phase transition | 1853 K | 1853 | polymorphic: NbCr₂ transf.; _alloy: Cr 0.66, Nb 0.34_ | experimental | [3] Neto 1993; _cites ref. 63Kor_ | Table 1, p. 3, row 14; `ORC-QKR5QEU3ZA` |  |
-| Phase transition | 1858 K | 1858 | other: Cr-solvus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 29; `ORC-4NPDO4KTOO` |  |
-| Phase transition | 1858 K | 1858 | other: solid invar. eq. | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 33; `ORC-IVCP536VIS` |  |
 | Phase transition | 1863 K | 1863 | other; _alloy: Cr 0.7, Nb 0.3_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 12; `ORC-DLR3FQOUQ6` |  |
 | Phase transition | 1873 K | 1873 | other; _alloy: Cr 0.75, Nb 0.25_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 11; `ORC-CFAQ3QXJTY` |  |
 | Phase transition | 1873 K | 1873 | other; _alloy: Cr 0.85, Nb 0.15_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 7; `ORC-QRLTXZHQT7` |  |
 | Phase transition | 1873 K | 1873 | other; _alloy: Cr 0.8, Nb 0.2_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 9; `ORC-ZONGOUTUKE` |  |
-| Phase transition | 1873 K | 1873 | other: Cr-solvus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 49; `ORC-4RPD7ECVVN` |  |
-| Phase transition | 1873 K | 1873 | other: Nb-solvus; _alloy: Cr 0.21, Nb 0.79_ | experimental | [3] Neto 1993; _cites ref. 75Pro_ | Table 1, p. 3, row 6; `ORC-KNLDA2FXWF` |  |
 | Phase transition | 1875 K | 1875 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 23; `ORC-BJEBWROAHT` |  |
 | Phase transition | 1875 K | 1875 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 51; `ORC-SIJRPRJVWY` |  |
 | Phase transition | 1883 K | 1883 | other; _alloy: Cr 0.9, Nb 0.1_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 5; `ORC-YSFV3QPMQT` |  |
 | Phase transition | 1893 K | 1893 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 61Gol_ | Table 1, p. 3, row 24; `ORC-3QIYTZJB5K` |  |
-| Phase transition | 1898 K | 1898 | other: solid invar. eq. | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 32; `ORC-TOQND7HDBA` |  |
 | Phase transition | 1913 K | 1913 | other: Cr-solidus; _alloy: Nb 0_ | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 27; `ORC-FEWRZ7IN3G` |  |
 | Phase transition | 1915 K | 1915 | eutectic: eutectic temp. | experimental | [3] Neto 1993; _cites ref. 61Pan_ | Table 1, p. 3, row 31; `ORC-7EP3CKFV5Y` |  |
 | Phase transition | 1923 K | 1923 | other; _alloy: Cr 0.667, Nb 0.333_ | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 4, p. 5, row 31; `ORC-7BIBG6WX7Z` |  |
@@ -191,7 +158,6 @@ Table: Phase transition, Cr–Nb system
 | Phase transition | 1954 K | 1954 | other; _alloy: Cr 0.9, Nb 0.1_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 47; `ORC-Q63HMCL4AY` |  |
 | Phase transition | 1956 K | 1956 | congruent transformation: NbCr₂ Melting | experimental | [3] Neto 1993; _cites ref. 56Ely_ | Table 1, p. 3, row 52; `ORC-HAZIK7JC5P` |  |
 | Phase transition | 1958 K | 1958 | other; _alloy: Cr 0.7, Nb 0.3_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 58; `ORC-IS6QBA5M3S` |  |
-| Phase transition | 1958 K | 1958 | other: NbCr₂ range | experimental | [3] Neto 1993; _cites ref. 69Rud_ | Table 1, p. 3, row 9; `ORC-EPSZPOW2E7` |  |
 | Phase transition | 1963 K | 1963 | other; _alloy: Cr 0.973, Nb 0.027_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 69; `ORC-34QL6RIMHA` |  |
 | Phase transition | 1963 K | 1963 | other; _alloy: Cr 0.666, Nb 0.334_ | experimental | [1] Schmetterer 2014; _cites Eremenko 1958_ | Table 4, p. 5, row 84; `ORC-XCOPKV4NUU` |  |
 | Phase transition | 1972 K | 1972 | other; _alloy: Cr 0.4, Nb 0.6_ | experimental | [1] Schmetterer 2014; _cites Rudy 1969_ | Table 4, p. 5, row 50; `ORC-3DIIJAL3J2` |  |
@@ -363,10 +329,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -375,7 +341,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -386,7 +352,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -396,7 +362,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -406,7 +372,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

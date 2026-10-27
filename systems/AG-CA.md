@@ -1,10 +1,10 @@
 # Ag–Ca system
 
-> Ag–Ca system: 93 accepted literature values (invariant reaction 46, phase transition 36, formation 7, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ca system: 59 accepted literature values (invariant reaction 46, formation 7, activity / EMF / Gibbs energy 4, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CA.html · Markdown: https://data.orchid-project.org/systems/AG-CA.md
 
-93 accepted literature values from 2 paper(s) (experimental 65, model 20, unspecified 8); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+59 accepted literature values from 2 paper(s) (experimental 31, model 20, unspecified 8); 3 calculated phase diagram(s). 40 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CA.json) · [CSV](https://data.orchid-project.org/systems/AG-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CA/AgCa-08Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AG-CA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CA.html) · [Markdown](https://data.orchid-project.org/systems/AG-CA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 65 |
+| experimental | 31 |
 | model | 20 |
 | unspecified | 8 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 46 |
-| phase transition | 36 |
+| phase transition | 2 |
 | formation | 7 |
 | activity / EMF / Gibbs energy | 4 |
 
@@ -172,48 +172,14 @@ Table: Enthalpies of formation, Ag–Ca system (7)
 
 ## Other properties
 
-### Phase transition (36)
+### Phase transition (2)
 
 Table: Phase transition, Ag–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 730 K | 730 | Cooling; _alloy: Ag 0.2, Ca 0.8_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 30; `ORC-UVITXPPYED` |  |
-| Phase transition | 731 K | 731 | Heating; _alloy: Ag 0.2, Ca 0.8_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 29; `ORC-OS6FOPOR7U` |  |
-| Phase transition | 735 K | 735 | Cooling; _alloy: Ag 0.1, Ca 0.9_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 33; `ORC-6VW7AHHBJQ` |  |
-| Phase transition | 735 K | 735 | Heating; _alloy: Ag 0.1, Ca 0.9_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 32; `ORC-EQ4MZ4JA43` |  |
-| Phase transition | 736 K | 736 | Cooling; _alloy: Ag 0.25, Ca 0.75_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 28; `ORC-D4RRO53KA6` |  |
-| Phase transition | 756 K | 756 | Heating; _alloy: Ag 0.25, Ca 0.75_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 27; `ORC-HHJ7BN32Z4` |  |
-| Phase transition | 790 K | 790 | Heating; _alloy: Ag 0.2, Ca 0.8_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 31; `ORC-F2CRBF2JJ7` |  |
-| Phase transition | 806 K | 806 | Cooling; _alloy: Ag 0.4, Ca 0.6_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 23; `ORC-PDFPV5OD2G` |  |
-| Phase transition | 807 K | 807 | Heating; _alloy: Ag 0.6, Ca 0.4_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 14; `ORC-TE2PLEWYHB` |  |
-| Phase transition | 810 K | 810 | Cooling; _alloy: Ag 0.6, Ca 0.4_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 15; `ORC-46BMRNV5Z4` |  |
-| Phase transition | 810 K | 810 | Cooling; _alloy: Ag 0.45, Ca 0.55_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 19; `ORC-6YMNAEPHPI` |  |
-| Phase transition | 818 K | 818 | Cooling; _alloy: Ag 0.375, Ca 0.625_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 26; `ORC-J6A4LMTWKN` |  |
-| Phase transition | 818 K | 818 | Heating; _alloy: Ag 0.45, Ca 0.55_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 18; `ORC-RXXC4WZS5Y` |  |
-| Phase transition | 821 K | 821 | Heating; _alloy: Ag 0.4, Ca 0.6_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 22; `ORC-NT7UBUFXZY` |  |
-| Phase transition | 831 K | 831 | Heating; _alloy: Ag 0.375, Ca 0.625_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 25; `ORC-KMGAX3524Y` |  |
-| Phase transition | 867 K | 867 | Cooling; _alloy: Ag 0.4, Ca 0.6_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 24; `ORC-XPDCAU7OAC` |  |
-| Phase transition | 870 K | 870 | Cooling; _alloy: Ag 0.667, Ca 0.333_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 13; `ORC-IRGEIFABLX` |  |
-| Phase transition | 871 K | 871 | Heating; _alloy: Ag 0.667, Ca 0.333_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 12; `ORC-NCW23374ZO` |  |
-| Phase transition | 902 K | 902 | Cooling; _alloy: Ag 0.45, Ca 0.55_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 21; `ORC-4FYCGYDYEO` |  |
-| Phase transition | 912 K | 912 | Heating; _alloy: Ag 0.45, Ca 0.55_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 20; `ORC-6XV22JPU5J` |  |
-| Phase transition | 915 K | 915 | Cooling; _alloy: Ag 0.9, Ca 0.1_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 2; `ORC-FTVCEREM5F` |  |
-| Phase transition | 915 K | 915 | Heating; _alloy: Ag 0.9, Ca 0.1_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 1; `ORC-KFENFUH2LT` |  |
-| Phase transition | 918 K | 918 | Cooling; _alloy: Ag 0.5, Ca 0.5_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 17; `ORC-65BZRYUF54` |  |
-| Phase transition | 918 K | 918 | Cooling; _alloy: Ag 0.818, Ca 0.182_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 5; `ORC-TL6LSXMFB2` |  |
-| Phase transition | 918 K | 918 | Heating; _alloy: Ag 0.818, Ca 0.182_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 4; `ORC-VCEIZZVDUL` |  |
-| Phase transition | 938 K | 938 | Heating; _alloy: Ag 0.5, Ca 0.5_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 16; `ORC-SZDRSSKSXX` |  |
 | Phase transition | 938 K | 938 | congruent melting: L -> CaAg; _L: Ca 0.5; CaAg: Ca 0.5_ | model | [2] Huang 2008 | Table 3, p. 3, row 11; `ORC-2TWQVDKUUV` |  |
 | Phase transition | 939 K | 939 | congruent melting: L -> CaAg; _L: Ca 0.5; CaAg: Ca 0.5_ | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 12; `ORC-DHEUXOALRE` |  |
-| Phase transition | 947 K | 947 | Heating; _alloy: Ag 0.1, Ca 0.9_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 34; `ORC-PTGCAUVPSR` |  |
-| Phase transition | 949 K | 949 | Cooling; _alloy: Ag 0.818, Ca 0.182_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 7; `ORC-6S5OPPNVIM` |  |
-| Phase transition | 950 K | 950 | Cooling; _alloy: Ag 0.778, Ca 0.222_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 9; `ORC-Z7JT5UKQFH` |  |
-| Phase transition | 957 K | 957 | Heating; _alloy: Ag 0.778, Ca 0.222_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 8; `ORC-W66WTTQGMX` |  |
-| Phase transition | 961 K | 961 | Heating; _alloy: Ag 0.818, Ca 0.182_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 6; `ORC-4EDEZLZU7J` |  |
-| Phase transition | 987 K | 987 | Cooling; _alloy: Ag 0.778, Ca 0.222_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 11; `ORC-XPTR63VHMA` |  |
-| Phase transition | 997 K | 997 | Heating; _alloy: Ag 0.778, Ca 0.222_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 10; `ORC-JIU5WLWBNE` |  |
-| Phase transition | 1040 K | 1040 | Cooling; _alloy: Ag 0.9, Ca 0.1_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 3; `ORC-4ON6ZVVJCC` |  |
 
 ### Activity / EMF / Gibbs energy (4)
 
@@ -235,10 +201,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -247,7 +213,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -258,7 +224,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -268,7 +234,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -278,7 +244,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

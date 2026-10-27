@@ -1,10 +1,10 @@
 # Ni–Sb–Sn system
 
-> Ni–Sb–Sn system: 167 accepted literature values (phase transition 110, phase equilibrium 50, invariant reaction 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sb–Sn system: 92 accepted literature values (phase equilibrium 50, phase transition 35, invariant reaction 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SB-SN.html · Markdown: https://data.orchid-project.org/systems/NI-SB-SN.md
 
-167 accepted literature values from 1 paper(s) (experimental 160, unspecified 7); 0 calculated phase diagram(s).
+92 accepted literature values from 1 paper(s) (experimental 85, unspecified 7); 0 calculated phase diagram(s). 75 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SB-SN.json) · [CSV](https://data.orchid-project.org/systems/NI-SB-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SB-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SB-SN.html) · [Markdown](https://data.orchid-project.org/systems/NI-SB-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 160 |
+| experimental | 85 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 7 |
-| phase transition | 110 |
+| phase transition | 35 |
 | phase equilibrium | 50 |
 
 ## Invariant reactions (literature)
@@ -39,87 +39,12 @@ Table: Invariant reactions reported in the literature for the Ni–Sb–Sn syste
 
 ## Other properties
 
-### Phase transition (110)
+### Phase transition (35)
 
 Table: Phase transition, Ni–Sb–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 508.15 K | 508.15 | other: Section Ni3Sn4–Sb, 40.0 (Heating, Invariant); _alloy: Sb 0.4_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 71; `ORC-7JN5I5FOYF` |  |
-| Phase transition | 510.15 K | 510.15 | other: Section Ni3Sn4–Sb, 48.0 (Heating, Invariant); _alloy: Sb 0.48_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 79; `ORC-J5DCUGTJN2` |  |
-| Phase transition | 512.15 K | 512.15 | other: Section Ni3Sn2–Sb, 35.0 (Heating, Others); _alloy: Sb 0.35_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 39; `ORC-4B2V27DJTQ` |  |
-| Phase transition | 538.15 K | 538.15 | other: Section Ni3Sn4–Sb, 40.0 (Heating, Invariant); _alloy: Sb 0.4_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 72; `ORC-JV7L6I2OMH` |  |
-| Phase transition | 539.15 K | 539.15 | other: Section Ni3Sn4–Sb, 56.0 (Heating, Others); _alloy: Sb 0.56_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 88; `ORC-ARQ47XJQ2Y` |  |
-| Phase transition | 546.65 K | 546.65 | other: Section Ni3Sn2–Sb, 35.0 (Heating, Others); _alloy: Sb 0.35_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 40; `ORC-575VRHFXC4` |  |
-| Phase transition | 586.15 K | 586.15 | other: Section Ni3Sn4–Sb, 40.0 (Heating, Others); _alloy: Sb 0.4_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 73; `ORC-BYP3ANJ6MA` |  |
-| Phase transition | 600.15 K | 600.15 | other: Section Ni3Sn4–Sb, 48.0 (Heating, Others); _alloy: Sb 0.48_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 80; `ORC-RQRLHYSO5C` |  |
-| Phase transition | 621.15 K | 621.15 | other: Section Ni3Sn2–Sb, 35.0 (Heating, Others); _alloy: Sb 0.35_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 41; `ORC-AZ7G6I3GXX` |  |
-| Phase transition | 633.15 K | 633.15 | other: Section Ni3Sn4–Sb, 64.2 (Heating, Others); _alloy: Sb 0.642_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 95; `ORC-FKN3ERLBD3` |  |
-| Phase transition | 638.65 K | 638.65 | other: Section Ni3Sn4–Sb, 40.0 (Heating, Others); _alloy: Sb 0.4_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 74; `ORC-DUXH5SKOX7` |  |
-| Phase transition | 641.15 K | 641.15 | other: Section Ni3Sn4–Sb, 48.0 (Heating, Others); _alloy: Sb 0.48_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 81; `ORC-VTSGO47EYW` |  |
-| Phase transition | 687.15 K | 687.15 | other: Section Ni3Sn2–Sb, 73.0 (Heating, Invariant); _alloy: Sb 0.73_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 61; `ORC-G7XQS6S2M2` |  |
-| Phase transition | 688.15 K | 688.15 | other: Section Ni3Sn–Sb, 60.0 (Heating, Invariant); _alloy: Sb 0.6_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 6; `ORC-TDR33X4AVW` |  |
-| Phase transition | 689.15 K | 689.15 | other: Section Ni3Sn–Sb, 77.8 (Heating, Invariant); _alloy: Sb 0.778_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 24; `ORC-OQALDZJSGZ` |  |
-| Phase transition | 690.15 K | 690.15 | other: Section Ni3Sn–Sb, 72.8 (Heating, Invariant); _alloy: Sb 0.728_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 18; `ORC-IXOARSVHKQ` |  |
-| Phase transition | 691.15 K | 691.15 | other: Section Ni3Sn2–Sb, 53.0 (Heating, Invariant); _alloy: Sb 0.53_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 45; `ORC-GYQ7D6USHP` |  |
-| Phase transition | 691.15 K | 691.15 | other: Section Ni3Sn4–Sb, 64.2 (Heating, Invariant); _alloy: Sb 0.642_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 93; `ORC-3H5LZQKM6F` |  |
-| Phase transition | 692.15 K | 692.15 | other: Section Ni3Sn2–Sb, 62.0 (Heating, Invariant); _alloy: Sb 0.62_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 56; `ORC-HYLG7DOEJ5` |  |
-| Phase transition | 692.15 K | 692.15 | other: Section Ni3Sn4–Sb, 72.4 (Heating, Invariant); _alloy: Sb 0.724_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 100; `ORC-7AA445OS2B` |  |
-| Phase transition | 692.15 K | 692.15 | other: Section Ni3Sn–Sb, 69.0 (Heating, Invariant); _alloy: Sb 0.69_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 12; `ORC-Z7K3WVAHXW` |  |
-| Phase transition | 693.15 K | 693.15 | other: Section Ni3Sn4–Sb, 56.0 (Heating, Invariant); _alloy: Sb 0.56_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 86; `ORC-52GJKDI4ZC` |  |
-| Phase transition | 693.15 K | 693.15 | other: Section Ni3Sn–Sb, 43.0 (Heating, Invariant); _alloy: Sb 0.43_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 1; `ORC-JF6FYWJAK2` |  |
-| Phase transition | 693.15 K | 693.15 | other: Section Ni3Sn–Sb, 82.0 (Heating, Invariant); _alloy: Sb 0.82_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 29; `ORC-4X45TDN2R2` |  |
-| Phase transition | 693.15 K | 693.15 | other: Section Ni3Sn–Sb, 90.0 (Heating, Invariant); _alloy: Sb 0.9_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 34; `ORC-Z5MVSS4X34` |  |
-| Phase transition | 694.15 K | 694.15 | other: Section Ni3Sn2–Sb, 58.0 (Heating, Invariant); _alloy: Sb 0.58_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 51; `ORC-O62ZB7JLFE` |  |
-| Phase transition | 694.65 K | 694.65 | other: Section Ni3Sn2–Sb, 35.0 (Heating, Others); _alloy: Sb 0.35_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 42; `ORC-4QH3OC63JL` |  |
-| Phase transition | 696.15 K | 696.15 | other: Section Ni3Sn4–Sb, 40.0 (Heating, Others); _alloy: Sb 0.4_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 75; `ORC-72YIFKOF32` |  |
-| Phase transition | 699.65 K | 699.65 | other: Section Ni3Sn4–Sb, 48.0 (Heating, Others); _alloy: Sb 0.48_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 82; `ORC-ABQNPRRCE3` |  |
-| Phase transition | 724.65 K | 724.65 | other: Section Ni3Sn4–Sb, 40.0 (Heating, Others); _alloy: Sb 0.4_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 76; `ORC-4QQXVZ52TK` |  |
-| Phase transition | 740.15 K | 740.15 | other: Section Ni3Sn2–Sb, 58.0 (Heating, Others); _alloy: Sb 0.58_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 53; `ORC-ZDTFC3SYSD` |  |
-| Phase transition | 752.15 K | 752.15 | other: Section Ni3Sn2–Sb, 73.0 (Heating, Invariant); _alloy: Sb 0.73_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 62; `ORC-QJAGUYT5EK` |  |
-| Phase transition | 752.15 K | 752.15 | other: Section Ni3Sn4–Sb, 48.0 (Heating, Others); _alloy: Sb 0.48_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 83; `ORC-GUMVJ7O4FV` |  |
-| Phase transition | 756.15 K | 756.15 | other: Section Ni3Sn–Sb, 69.0 (Heating, Invariant); _alloy: Sb 0.69_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 13; `ORC-OAQACWJG7H` |  |
-| Phase transition | 757.15 K | 757.15 | other: Section Ni3Sn4–Sb, 72.4 (Heating, Invariant); _alloy: Sb 0.724_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 101; `ORC-4JZ5G3MD2C` |  |
-| Phase transition | 757.15 K | 757.15 | other: Section Ni3Sn–Sb, 60.0 (Heating, Invariant); _alloy: Sb 0.6_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 7; `ORC-AFAUGWUCVZ` |  |
-| Phase transition | 757.15 K | 757.15 | other: Section Ni3Sn–Sb, 72.8 (Heating, Invariant); _alloy: Sb 0.728_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 19; `ORC-GNJV3435QI` |  |
-| Phase transition | 759.15 K | 759.15 | other: Section Ni3Sn2–Sb, 62.0 (Heating, Invariant); _alloy: Sb 0.62_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 57; `ORC-NSUGEKBIZU` |  |
-| Phase transition | 759.15 K | 759.15 | other: Section Ni3Sn4–Sb, 79.4 (Heating, Invariant); _alloy: Sb 0.794_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 106; `ORC-ERACQBOSZ5` |  |
-| Phase transition | 761.15 K | 761.15 | other: Section Ni3Sn2–Sb, 58.0 (Heating, Invariant); _alloy: Sb 0.58_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 52; `ORC-4NM2STR3VV` |  |
-| Phase transition | 762.15 K | 762.15 | other: Section Ni3Sn2–Sb, 53.0 (Heating, Invariant); _alloy: Sb 0.53_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 46; `ORC-THWPGW6MQS` |  |
-| Phase transition | 764.15 K | 764.15 | other: Section Ni3Sn4–Sb, 64.2 (Heating, Invariant); _alloy: Sb 0.642_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 94; `ORC-XHSDBAJ3LP` |  |
-| Phase transition | 770.15 K | 770.15 | other: Section Ni3Sn4–Sb, 56.0 (Heating, Invariant); _alloy: Sb 0.56_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 87; `ORC-ZDUPW35V2O` |  |
-| Phase transition | 770.65 K | 770.65 | other: Section Ni3Sn–Sb, 43.0 (Heating, Others); _alloy: Sb 0.43_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 2; `ORC-OAFEOPVNHO` |  |
-| Phase transition | 773.15 K | 773.15 | other: Section Ni3Sn2–Sb, 58.0 (Heating, Others); _alloy: Sb 0.58_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 54; `ORC-T63Q2AGXMX` |  |
-| Phase transition | 778.15 K | 778.15 | other: Section Ni3Sn4–Sb, 64.2 (Heating, Others); _alloy: Sb 0.642_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 96; `ORC-RQQNCPCROH` |  |
-| Phase transition | 780.15 K | 780.15 | other: Section Ni3Sn2–Sb, 53.0 (Heating, Others); _alloy: Sb 0.53_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 47; `ORC-YYRNPZTC74` |  |
-| Phase transition | 781.15 K | 781.15 | other: Section Ni3Sn2–Sb, 62.0 (Heating, Others); _alloy: Sb 0.62_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 58; `ORC-IYVJGXAXXA` |  |
-| Phase transition | 782.15 K | 782.15 | other: Section Ni3Sn4–Sb, 56.0 (Heating, Others); _alloy: Sb 0.56_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 89; `ORC-DU4ULKCEBR` |  |
-| Phase transition | 796.15 K | 796.15 | other: Section Ni3Sn2–Sb, 53.0 (Heating, Others); _alloy: Sb 0.53_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 48; `ORC-VSOJV3WJXB` |  |
-| Phase transition | 808.65 K | 808.65 | other: Section Ni3Sn4–Sb, 56.0 (Heating, Others); _alloy: Sb 0.56_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 90; `ORC-JEBWU6MFYI` |  |
-| Phase transition | 815.15 K | 815.15 | other: Section Ni3Sn4–Sb, 64.2 (Heating, Others); _alloy: Sb 0.642_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 97; `ORC-MVW3BR2R2K` |  |
-| Phase transition | 815.15 K | 815.15 | other: Section Ni3Sn–Sb, 43.0 (Heating, Others); _alloy: Sb 0.43_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 3; `ORC-XYXACVBPZJ` |  |
-| Phase transition | 821.15 K | 821.15 | other: Section Ni3Sn2–Sb, 58.0 (Heating, Others); _alloy: Sb 0.58_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 55; `ORC-KEBYHJK2XW` |  |
-| Phase transition | 822.15 K | 822.15 | other: Section Ni3Sn–Sb, 60.0 (Heating, Others); _alloy: Sb 0.6_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 8; `ORC-LPNFGDSA6A` |  |
-| Phase transition | 826.65 K | 826.65 | other: Section Ni3Sn2–Sb, 62.0 (Heating, Others); _alloy: Sb 0.62_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 59; `ORC-F3YLAIPSGU` |  |
-| Phase transition | 826.65 K | 826.65 | other: Section Ni3Sn–Sb, 77.8 (Heating, Others); _alloy: Sb 0.778_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 25; `ORC-KS5ZWUOGWI` |  |
-| Phase transition | 842.15 K | 842.15 | other: Section Ni3Sn2–Sb, 85.0 (Heating, Others); _alloy: Sb 0.85_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 67; `ORC-Y4TFZHDKJI` |  |
-| Phase transition | 843.15 K | 843.15 | other: Section Ni3Sn–Sb, 69.0 (Heating, Others); _alloy: Sb 0.69_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 14; `ORC-KG3AXCEOE5` |  |
-| Phase transition | 852.15 K | 852.15 | other: Section Ni3Sn2–Sb, 73.0 (Heating, Others); _alloy: Sb 0.73_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 63; `ORC-WEP3Z4SZ26` |  |
-| Phase transition | 856.15 K | 856.15 | other: Section Ni3Sn4–Sb, 72.4 (Heating, Others); _alloy: Sb 0.724_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 102; `ORC-BOOHTO6Y6R` |  |
-| Phase transition | 857.15 K | 857.15 | other: Section Ni3Sn–Sb, 60.0 (Heating, Others); _alloy: Sb 0.6_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 9; `ORC-5TZIYVM6X3` |  |
-| Phase transition | 857.15 K | 857.15 | other: Section Ni3Sn–Sb, 72.8 (Heating, Others); _alloy: Sb 0.728_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 20; `ORC-AKOJNZKCZI` |  |
-| Phase transition | 861.15 K | 861.15 | other: Section Ni3Sn–Sb, 69.0 (Heating, Others); _alloy: Sb 0.69_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 15; `ORC-IDSBCLI375` |  |
-| Phase transition | 862.65 K | 862.65 | other: Section Ni3Sn2–Sb, 73.0 (Heating, Others); _alloy: Sb 0.73_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 64; `ORC-IHYO4H3LAK` |  |
-| Phase transition | 864.65 K | 864.65 | other: Section Ni3Sn4–Sb, 72.4 (Heating, Others); _alloy: Sb 0.724_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 103; `ORC-CKELKVF7ES` |  |
-| Phase transition | 865.15 K | 865.15 | other: Section Ni3Sn–Sb, 82.0 (Heating, Others); _alloy: Sb 0.82_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 30; `ORC-GLODBSGMUK` |  |
-| Phase transition | 868.65 K | 868.65 | other: Section Ni3Sn–Sb, 72.8 (Heating, Others); _alloy: Sb 0.728_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 21; `ORC-RMU4DGIK77` |  |
-| Phase transition | 868.65 K | 868.65 | other: Section Ni3Sn–Sb, 90.0 (Heating, Others); _alloy: Sb 0.9_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 35; `ORC-6TYM2ABZQC` |  |
-| Phase transition | 875.15 K | 875.15 | other: Section Ni3Sn4–Sb, 79.4 (Heating, Others); _alloy: Sb 0.794_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 107; `ORC-M7GO7HE645` |  |
-| Phase transition | 880.15 K | 880.15 | other: Section Ni3Sn4–Sb, 79.4 (Heating, Others); _alloy: Sb 0.794_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 108; `ORC-5FVYNMACZX` |  |
-| Phase transition | 880.65 K | 880.65 | other: Section Ni3Sn–Sb, 77.8 (Heating, Others); _alloy: Sb 0.778_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 26; `ORC-RY5NZ6JXUO` |  |
-| Phase transition | 888.65 K | 888.65 | other: Section Ni3Sn2–Sb, 85.0 (Heating, Others); _alloy: Sb 0.85_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 68; `ORC-QHSERB3IJZ` |  |
-| Phase transition | 896.15 K | 896.15 | other: Section Ni3Sn–Sb, 82.0 (Heating, Others); _alloy: Sb 0.82_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 31; `ORC-P5OSHZIEQ2` |  |
-| Phase transition | 898.65 K | 898.65 | other: Section Ni3Sn–Sb, 90.0 (Heating, Others); _alloy: Sb 0.9_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 36; `ORC-G6UAPYCPX7` |  |
 | Phase transition | 960.15 K | 960.15 | other: Section Ni3Sn4–Sb, 79.4 (Liquidus, Cooling); _alloy: Sb 0.794_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 110; `ORC-LPW72LE47S` |  |
 | Phase transition | 984.15 K | 984.15 | other: Section Ni3Sn2–Sb, 85.0 (Liquidus, Cooling); _alloy: Sb 0.85_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 70; `ORC-5VXTYNKX5E` |  |
 | Phase transition | 992.15 K | 992.15 | other: Section Ni3Sn4–Sb, 72.4 (Liquidus, Cooling); _alloy: Sb 0.724_ | experimental | [1] Kroupa 2014 | Table 3, p. 9, row 105; `ORC-DOKN375OU7` |  |
@@ -221,8 +146,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -231,7 +156,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -242,7 +167,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -1,0 +1,716 @@
+{
+  "date": "2026-10-26",
+  "records": [
+    {
+      "file": "AlGa-00Mat.json",
+      "before_sha256": "59a6491f8a193389c922b281ea6260f2cbfc67c10ce48ad73ccc12aa10d92425",
+      "after_sha256": "62381628a1cffc5bd93ba5fc12bd08341ad08312ac7a68cf342c1dbf17b9c644",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          298.77,
+          938.47
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "AlGa-92Wat-LB.json",
+      "before_sha256": "735f2f10c47b42072da6db636504ce036eb14f763a458a27e528b11d86e7fdd4",
+      "after_sha256": "237fd6f96ea23e3a428df79a374ff99d4e7632a48c7ac130ea1d08e913f50cd7",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.78,
+          935.0
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "AmPu-93Oga.json",
+      "before_sha256": "412a1928da2f661035e0b9b7b3caf25c989f7799f071c3a2340d553c9c322e67",
+      "after_sha256": "3402db3f805c4123b6d970a00548535ce78fa8bcc8fd76889252629a1ab0361d",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          4000
+        ],
+        "boundary_K": [
+          299.57,
+          1448.92
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "BaYb-91Oka.json",
+      "before_sha256": "107c9a7eb7c57493168eb2f827997d6008a180d1338d02c6f23fcd74a6fd43df",
+      "after_sha256": "cf99a36c41778e0b7a4457dcd370cc45af123a427b82d464923b6fb1d297f9b5",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.18,
+          1088.0
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CaSr-03Zho.json",
+      "before_sha256": "2ac7ba9e44a831e43b43d11047d6cf627e9c5839aadb905d81fb1e9b130a60ad",
+      "after_sha256": "daa89b404dfc49c7ef4c84102199a3d4c469e9f598aecab3ca934c71b22abc2d",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.78,
+          1115.0
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CdHg-95Yan-LB.json",
+      "before_sha256": "e10c3703296eb537318c56210bfeaa8075ba1d6ee9d917f61cd3994c4541b16b",
+      "after_sha256": "88052653744eed851d9e698d637e4232961e864895bc3a9ed207122ce672cef9",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.09,
+          649.22
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CoRe-14Liu.json",
+      "before_sha256": "7071099177c7b357c1a6a0246e13e80a23af182376fd4f274dfd7ad9089fef25",
+      "after_sha256": "d5ac15bb95fea9830f03c9657362688f75ed9a9da40ddc8d463d6ade9d19633d",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          4000
+        ],
+        "boundary_K": [
+          299.59,
+          3999.0
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CrV-02Gho.json",
+      "before_sha256": "8229f75dea4818f01b263eeb7fe07551d2468b4f1df834674ad5c64ed409f7f5",
+      "after_sha256": "e6bae49e6707c801146dccbd50e4e2ee8915d02590cbcb4e8b637ff91a9d55b3",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          4000
+        ],
+        "boundary_K": [
+          297.43,
+          2183.0
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CsK-11Ren.json",
+      "before_sha256": "64d8a284a004ab809b9f06bebccb684e2610dea78ee42b67c93353c632b18691",
+      "after_sha256": "54c8463b98b1d4d7932c114024604fe8631e977cacca4ce06cce011444f7a593",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          297.83,
+          1591.53
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CsK-85Pot-LB.json",
+      "before_sha256": "547142465728b75743b401fd432415f6ab87222936e5352a0ae04abbe04216f1",
+      "after_sha256": "5e11296e017936035d78ad3145abc4d8920b5d36291da671ae680a449b4afd54",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          292.4,
+          794.83
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CsNa-11Ren.json",
+      "before_sha256": "14c66af472b1705d8ac23acd06f17870b9a4c71120abe11236274e9b1b995ba1",
+      "after_sha256": "605daa1d5f20931df23dc37082cc80aaef49400a0729461f80e9bf3f23bc3090",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          297.22,
+          370.87
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CsNa-85Pot-LB.json",
+      "before_sha256": "4e36a9ef354968fb6010fcf1809f745a3f9901807632cff79b6156c50d627ffc",
+      "after_sha256": "fbf38268a3eba9aa657198fad2192b10a8e317dc3d079ab5ad9ea5be9832eeac",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          296.28,
+          370.87
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CsO-15Gue.json",
+      "before_sha256": "92da2a8622c2c2282df45c0cc89b82843d9374e6e2668ddc0436d33359cb7f9f",
+      "after_sha256": "19081056aa60f4a5203740cbb994de999b377de464a30af683601b040dc77f86",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.47,
+          1433.53
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CsRb-11Ren.json",
+      "before_sha256": "450c1d5e389b3ca7d0c43559120eb80c327458c89c757d51a9e7fab82362ba6e",
+      "after_sha256": "9d20a792f8c51caed26007aa34faca69312df6fcfa8cec0e4efbdfd0d78598ad",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.03,
+          312.46
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "CsRb-85Pot-LB.json",
+      "before_sha256": "8a4c363a61a1fff3c6b0ff15946144e625078ecd41b55af626b85f6468e8ea32",
+      "after_sha256": "8c19b31a0c410f6af3d4c73e1a64e412e193650806cecee2f78a495960900d86",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          298.51,
+          312.46
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "GaHg-09Fen.json",
+      "before_sha256": "9080c4a2af312d26f288030251e1454d778e0e29196c99e5f5266493c520d91e",
+      "after_sha256": "b45797f679ccbb14dd2b6486054cd3d83628cb677b865918f82c52f115bfd167",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.8,
+          474.35
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "GaHg-91Ans-LB.json",
+      "before_sha256": "c4fcd0d711ca62276fa917fb6ee878e1448ef795257f60e424295aff717f8f52",
+      "after_sha256": "308d9d992a3f7e05871732492f0338179157ee8769673f303b79e3f4135a3f6e",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.44,
+          476.89
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "GaIn-78Ans.json",
+      "before_sha256": "78e2050f4d93bbc66588ecb649d80ac98df2e9e6ac437f83fbe2321620b4bf7e",
+      "after_sha256": "9bad5f987cfc33395bf58741252675c0e3ddc8ec2f366b59c33771e5e9ad6e2f",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          298.32,
+          429.75
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "GaIn-90Rug-LB.json",
+      "before_sha256": "fd1f88aaffa58d96e00e369fd443307457b7229964ac58cf538662bfeb91d5f9",
+      "after_sha256": "2cc974206ea7e6f78eb651d1afc8e56aec0b4b6be57875b4b57bc5515bf97357",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          297.96,
+          429.75
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "GaIn-91And.json",
+      "before_sha256": "631c714a56987057481ed69797d2401cbdd14ce133332bb0aa7f7fcac8df1439",
+      "after_sha256": "2ef01548df84112e438462d24414336cabbd109870340499a65df5cefa6b9df4",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          297.85,
+          429.75
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "GaPd-99Gro.json",
+      "before_sha256": "d6192ab9e8445db884c782fadc41867f1fa06672c93ce194b896e9d519192fc5",
+      "after_sha256": "e7b8bfbfadca67255f62f0ca5a3b0476fc24c0b16be2fa35e7e7bad538af4440",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          297.43,
+          2499.24
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "GaSn-79Ans.json",
+      "before_sha256": "45fd2e27b9814e71a72e39160fa4645bc8dfd7bfb30c9fc17c525d4451478afe",
+      "after_sha256": "fdc0bc53f8c2137ebd71222a957bdb900d2337eec2af326591aaeb0906ab1eab",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          292.91,
+          505.08
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "GaSn-92And-LB.json",
+      "before_sha256": "e3af35036ae5fcd2eefecdf5d71fb49d28ee0d01eb68fefc2cf4aeac658a9a33",
+      "after_sha256": "81d88f841ca37a72cc44a31edc318e654dcc903369e116857211ec66566925e9",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.04,
+          505.08
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "GaZn-00Mat.json",
+      "before_sha256": "e9c20995dbafe3fe906f36c3c44e9310063f87478f12a03a5dba77d5b0931755",
+      "after_sha256": "c1cf306adf7aa4f1584b5f524291cadd7191f0c9c3aa8e9091eb07692cab64a0",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          298.92,
+          692.68
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "GaZn-90Dut-LB.json",
+      "before_sha256": "0241ac9b8576e7b1e7d985538459075878d1f11dd5abbea38dd29ad4ab147b98",
+      "after_sha256": "839920dcb855ecd8e6bad036a6ea2383936ab19227176068420aca97d1dcd9ff",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          298.97,
+          692.68
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "InPb-04Dav.json",
+      "before_sha256": "b741cb98eebd7dbd54df8a3ea7a247dc6a7805bbe9562bc34657fe0359bc9979",
+      "after_sha256": "191d4d4d9bf0b6ac6b3f0ee66d9f1231d5de21ca880cf563f5b0d07345f6d44e",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.48,
+          600.61
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "InPb-86Nab.json",
+      "before_sha256": "2816b97195b6c10cdbed53b8a479bb1390a7731c0490f527366f3fcf726b7e67",
+      "after_sha256": "ce81efd6683cef797c8ce11ae9672c0117c1dbce03075d753f3e240dc8786b71",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.22,
+          600.61
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "InPb-98Boa-LB.json",
+      "before_sha256": "be0e5f2e56a1bd58ce96994f74cc38197eba2d5effef2b187c43020a81fb1407",
+      "after_sha256": "2800aaf7a86195905014e3f227d97cb3fb2a65226d83cbf31fe4df8df2cd61e3",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.34,
+          600.61
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "InSn-04Dav.json",
+      "before_sha256": "0c935411b15de60c24272acabc7702127a90319ecb04195d99acbd70058b988b",
+      "after_sha256": "fe068bc7aec95acd0ac981fb78331c5caf6f36b5fc4c3bfbd9cda383116ef0b0",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.64,
+          2500.0
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "KNa-06Zha.json",
+      "before_sha256": "a31dcabfb4e7327ac3a313b137d996888ddecaa1dbe61050fd9d9cabe18de744",
+      "after_sha256": "85db176cfc1cbee0f096da8460d013e7fa4c7ddb745c452cf8a27b9844cad429",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          299.31,
+          370.87
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "KNa-11Ren.json",
+      "before_sha256": "60577773190ac4ce045e1661e8ed2bea4444c0e12b64ef2a87b3fc704acc46f2",
+      "after_sha256": "cdf1ef590fdd27894e222887c7ff2352bee885db1cc9541fbe305912414a2fbb",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          298.34,
+          370.87
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "LaPt-06Rei.json",
+      "before_sha256": "6b22a453defc03493d068884033dd85c5861ec28d21c61bc7271a9e576d430e1",
+      "after_sha256": "db9cc12e23f47693961c67b0be7d84dcdf2bde0e7abf66632189458bfe27c25f",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          300.0,
+          2514.78
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "NaRb-11Ren.json",
+      "before_sha256": "e6b21e0e6fdf4ba35859dc72f12c8d0419c534ff1ab6bc43b2967ac33ccbf6ba",
+      "after_sha256": "88380f9fc0577140090f1268f249190e7c8f57b02a65a77deb0dae2f63601273",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          296.09,
+          370.87
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "NaRb-85Pot-LB.json",
+      "before_sha256": "7b53eff4bb77e8312992556799e2e254d5feee69a10390eb3e3f1fa0537ac015",
+      "after_sha256": "59dcd4ab4a2a4edd48d35b55c1efdd673f93c2936f3c92fd027a3b7509c950da",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          2500
+        ],
+        "boundary_K": [
+          297.09,
+          370.87
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "PtRu-98Spe-LB.json",
+      "before_sha256": "9261a8e056728c257156d774787b348fa63e3b43b5a00605574d4939b842c7e9",
+      "after_sha256": "11b67ac64986aa305a5bd7b28b2f50b77f74b26d0264176486bca39e8ea09e34",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          4000
+        ],
+        "boundary_K": [
+          299.29,
+          3522.0
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "RhO-18Gos.json",
+      "before_sha256": "d444b3c2cb0416d959a7d11622e324256a6847ebf3abc0d95114c6b0b02e592d",
+      "after_sha256": "5ba0020f47ac7f603d79f5d78367d05155c519a74702eff65aee3f68538ada2b",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          4000
+        ],
+        "boundary_K": [
+          300.0,
+          4000.75
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "RhO-22Lau.json",
+      "before_sha256": "c0d35fc6ff9bdbff73b2fae3108408f500a7493bc0d115affaad6a5463358e6a",
+      "after_sha256": "693b155932c18713beff8d4ab899c307949561b255d36b7cf10c6d914506b792",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          4000
+        ],
+        "boundary_K": [
+          300.0,
+          4002.08
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "TiZr-94Har-LB.json",
+      "before_sha256": "e54835faebdc1b13ca714de6aadf2b4300ad1e802e5f36807bfcf6365cde2153",
+      "after_sha256": "365c69aff85a6c816a51eaeb75fb8329046191b22221e11e4ce7422c40eae457",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          4000
+        ],
+        "boundary_K": [
+          299.64,
+          3999.1
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    },
+    {
+      "file": "UO-02Gue.json",
+      "before_sha256": "ee2e3095923da9e9618815bf6324484f69d2ff07760562a5e9111098bd2fc322",
+      "after_sha256": "892faeb17144d56f451eae6c62d8ffcf46d14517be0b2faaf319a61b4f6b216b",
+      "temperature_extent": {
+        "requested_K": [
+          300,
+          4000
+        ],
+        "boundary_K": [
+          300.0,
+          4001.27
+        ],
+        "outside_requested_range": true,
+        "derivation": "min/max of stored regions[*][*].T; no interpolation or clipping",
+        "interpretation": "Stored output extent, not a validated temperature domain or proof of equilibrium accuracy"
+      }
+    }
+  ],
+  "affected_diagrams": 39,
+  "change": "Added derived temperature_extent metadata; T_range and all coordinates remain unchanged.",
+  "T_range_semantics": "Requested calculation range in kelvin, not a guarantee that numerical continuation stayed within these bounds.",
+  "parquet_semantics": "Existing phase_diagram_index T_min_K and T_max_K continue to represent T_range. Actual boundary extrema are provided in JSON temperature_extent.boundary_K.",
+  "validation": "Metadata is recomputed from stored boundaries; out-of-range extent remains an explicit warning and is not evidence of physical validity.",
+  "counts_unchanged": {
+    "ok": 2722,
+    "failed": 52
+  }
+}

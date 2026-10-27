@@ -1,10 +1,10 @@
 # Co–Cu system
 
-> Co–Cu system: 74 accepted literature values (mixing / partial 29, activity / EMF / Gibbs energy 23, invariant reaction 11, phase equilibrium 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Cu system: 75 accepted literature values (mixing / partial 29, activity / EMF / Gibbs energy 23, invariant reaction 12, phase equilibrium 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-CU.html · Markdown: https://data.orchid-project.org/systems/CO-CU.md
 
-74 accepted literature values from 2 paper(s) (experimental 62, model 12); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+75 accepted literature values from 2 paper(s) (experimental 63, model 12); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CU.json) · [CSV](https://data.orchid-project.org/systems/CO-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-CU/CoCu-00Kub-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-CU.html) · [Markdown](https://data.orchid-project.org/systems/CO-CU.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 62 |
+| experimental | 63 |
 | model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 11 |
+| invariant reaction | 12 |
 | phase equilibrium | 10 |
 | mixing / partial | 29 |
 | heat capacity / entropy / enthalpy | 1 |
@@ -55,7 +55,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Cu system (11)
+Table: Invariant reactions reported in the literature for the Co–Cu system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -70,6 +70,7 @@ Table: Invariant reactions reported in the literature for the Co–Cu system (11
 | 698 | (Cu) + (αCo) \<=> (εCo) | (Cu): Co 4.000e-4; (αCo): Co 0.9981; (εCo): Co 0.9977 | model | [1] Turchanin 2007 | Table 1, p. 6, row 20; `ORC-GJU3JVEGEF` |  |
 | 695 | (αCo) \<=> (Cu) + (εCo) | (αCo): Co 0.999; (Cu): Co 4.000e-4; (εCo): Co 0.9996 | model | [1] Turchanin 2007; _cites ref. 13_ | Table 1, p. 6, row 19; `ORC-UIIUAPKTUF` |  |
 | 693 | (αCo) \<=> (Cu) + (εCo) | (αCo): Co 0.9992; (Cu): Co 8.000e-4; (εCo): Co 0.9995 | model | [1] Turchanin 2007; _cites ref. 6_ | Table 1, p. 6, row 17; `ORC-MGH7PJH42T` |  |
+| 615 | (αCo) \<=> (Cu) + (εCo) | (αCo): Co 0.905 | experimental | [1] Turchanin 2007; _cites ref. 27_ | Table 1, p. 6, row 13; `ORC-HJMSGHXM27` |  |
 
 ## Other properties
 
@@ -173,10 +174,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -185,7 +186,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -196,7 +197,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -206,7 +207,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -216,7 +217,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

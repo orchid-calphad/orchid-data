@@ -12,14 +12,14 @@ Table: Phases of the Re–U system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [ORTHORHOMBIC_A20](#phase-re-u-a20-orthorhombic); _phase:re-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1047.02 K, x(U) 1–1 | 0 | 1 |
-| [BCC_A2](#phase-re-u-bcc-a2); _phase:re-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 962.7–1411.51 K, x(U) 0.88657–1 | 0 | 1 |
+| [ORTHORHOMBIC_A20](#phase-re-u-a20-orthorhombic); _phase:re-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1047.02 K, x(U) 1–1 | 2 | 1 |
+| [BCC_A2](#phase-re-u-bcc-a2); _phase:re-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 962.7–1411.51 K, x(U) 0.88657–1 | 8 | 1 |
 | [FCC_A1](#phase-re-u-fcc-a1); _phase:re-u:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-re-u-hcp-a3); _phase:re-u:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3494.94 K, x(U) 0–0.00502 | 5 | 1 |
 | [LIQUID](#phase-re-u-liquid); _phase:re-u:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1379.79–4000 K, x(U) 0–1 | 12 | 1 |
 | [RE2U](#phase-re-u-re2u); _phase:re-u:re2u_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2498.84 K, x(U) 0.33333–0.33333 | 14 | 1 |
 | [REU2](#phase-re-u-reu2); _phase:re-u:reu2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1019.9 K, x(U) 0.66667–0.66667 | 6 | 1 |
-| [TETRAGONAL_U](#phase-re-u-u-tetragonal); _phase:re-u:u-tetragonal_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 907.59–1048.99 K, x(U) 0.97931–1 | 10 | 1 |
+| [TETRAGONAL_U](#phase-re-u-u-tetragonal); _phase:re-u:u-tetragonal_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 907.59–1048.99 K, x(U) 0.97931–1 | 4 | 1 |
 
 ## ORTHORHOMBIC_A20 (Re–U)
 
@@ -27,10 +27,11 @@ Table: Phases of the Re–U system (8)
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
 - Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1047.02 K, x(U) 1–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-u:a20-orthorhombic)
 
-Names (3): _corpus: _corpus:phase:re-u:a20-orthorhombic, corpus:phase:re-u:orthorhombic-a20  
+Names (4): _corpus: _corpus:phase:re-u:a20-orthorhombic, corpus:phase:re-u:orthorhombic-a20  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:α-U  
 _tdb: _tdb:ReU-11Ber.tdb:ORTHORHOMBIC_A20  
 
 
@@ -43,20 +44,23 @@ _tdb: _tdb:ReU-11Ber.tdb:ORTHORHOMBIC_A20
 43: CONST ORTHORHOMBIC_A20 : U : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(63)90059-6](https://doi.org/10.1016/0022-5088%2863%2990059-6) R.J. Jackson, D.E. Williams, W.L. Larsen, The uraniumrhenium alloy system, Journal of the Less Common Metals 5, 443-461 (1963).  
+_cited as the source of values for this phase_
 
 ## BCC_A2 (Re–U)
 
 - Id: `phase:re-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 962.7–1411.51 K, x(U) 0.88657–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-u:bcc-a2)
 
-Names (2): _corpus: _corpus:phase:re-u:bcc-a2  
+Names (3): _corpus: _corpus:phase:re-u:bcc-a2  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:γ-U  
 _tdb: _tdb:ReU-11Ber.tdb:BCC_A2  
 
 
@@ -69,10 +73,14 @@ _tdb: _tdb:ReU-11Ber.tdb:BCC_A2
 33: CONST BCC_A2 : RE U : VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(63)90059-6](https://doi.org/10.1016/0022-5088%2863%2990059-6) R.J. Jackson, D.E. Williams, W.L. Larsen, The uraniumrhenium alloy system, Journal of the Less Common Metals 5, 443-461 (1963).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-3115(77)90078-2](https://doi.org/10.1016/0022-3115%2877%2990078-2) S.P. Garg, R.J. Ackermann, The high temperature phase diagrams for Th-Mo, Th-Re, U-Mo, and U-Re; derived thermodynamic properties of refractory metal solutes in liquid thorium and uranium, Journal of Nuclear Materials 64, 265-274 (1977).  
+_cited as the source of values for this phase_
 
 ## FCC_A1 (Re–U)
 
@@ -247,11 +255,11 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): beta-U · A_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for TETRAGONAL_U: beta-U
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — ReU-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Stability: stable in 1 of 1 calculated diagram(s): 907.59–1048.99 K, x(U) 0.97931–1
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-u:u-tetragonal)
 
-Names (6): _corpus: _corpus:phase:re-u:u-tetragonal, corpus:phase:re-u:tetragonal-u  
-_paper: _paper:10.1016/j.jnucmat.2011.01.043:α-U, paper:10.1016/j.jnucmat.2011.01.043:β-U, paper:10.1016/j.jnucmat.2011.01.043:γ-U  
+Names (4): _corpus: _corpus:phase:re-u:u-tetragonal, corpus:phase:re-u:tetragonal-u  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:β-U  
 _tdb: _tdb:ReU-11Ber.tdb:TETRAGONAL_U  
 
 
@@ -264,19 +272,17 @@ _tdb: _tdb:ReU-11Ber.tdb:TETRAGONAL_U
 48: CONST TETRAGONAL_U : RE U% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(63)90059-6](https://doi.org/10.1016/0022-5088%2863%2990059-6) R.J. Jackson, D.E. Williams, W.L. Larsen, The uraniumrhenium alloy system, Journal of the Less Common Metals 5, 443-461 (1963).  
 _cited as the source of values for this phase_
-- [doi:10.1016/0022-3115(77)90078-2](https://doi.org/10.1016/0022-3115%2877%2990078-2) S.P. Garg, R.J. Ackermann, The high temperature phase diagrams for Th-Mo, Th-Re, U-Mo, and U-Re; derived thermodynamic properties of refractory metal solutes in liquid thorium and uranium, Journal of Nuclear Materials 64, 265-274 (1977).  
-_cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -285,7 +291,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -296,7 +302,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -1,1 +1,1 @@
-{"tdb":"TiO-17Ila.tdb","elements":["Ti","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"TiO-17Ila.tdb","elements":["Ti","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"8e488837402ac5c9f8b5348816b1416042b96e212f9c9aeb408c934ab52417a0","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

@@ -12,13 +12,6 @@
   "T": 755.0,
   "X_PB": [
    0.1,
-   0.2,
-   0.3,
-   0.4,
-   0.5,
-   0.6,
-   0.7,
-   0.8,
    0.9
   ]
  },
@@ -27,13 +20,6 @@
   [
    [
     27.25,
-    29.87,
-    29.89,
-    29.81,
-    30.55,
-    31.27,
-    32.51,
-    33.49,
     30.15
    ]
   ]
@@ -46,7 +32,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-X3YOZCVMFL ORC-BCBFTR66RL ORC-6EUXAM6HIH ORC-376KHM3INZ ORC-U7YBZ6L6BL ORC-6UBBYNGT3D ORC-JNGB7HVLIM ORC-YFBNBJDBD4 ORC-F5TGWCNKIW",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-X3YOZCVMFL ORC-F5TGWCNKIW",
  "weight": 0.333333,
  "bibtex": "mathon1996_155a25",
  "orchid": {
@@ -55,69 +41,6 @@
   "observations": [
    {
     "id": "ORC-X3YOZCVMFL",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7",
-    "measured_in": "doi:10.1016/0925-8388(95)02178-7",
-    "caveats": [
-     "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-BCBFTR66RL",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7",
-    "measured_in": "doi:10.1016/0925-8388(95)02178-7",
-    "caveats": [
-     "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-6EUXAM6HIH",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7",
-    "measured_in": "doi:10.1016/0925-8388(95)02178-7",
-    "caveats": [
-     "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-376KHM3INZ",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7",
-    "measured_in": "doi:10.1016/0925-8388(95)02178-7",
-    "caveats": [
-     "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-U7YBZ6L6BL",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7",
-    "measured_in": "doi:10.1016/0925-8388(95)02178-7",
-    "caveats": [
-     "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-6UBBYNGT3D",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7",
-    "measured_in": "doi:10.1016/0925-8388(95)02178-7",
-    "caveats": [
-     "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-JNGB7HVLIM",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0925-8388(95)02178-7",
-    "measured_in": "doi:10.1016/0925-8388(95)02178-7",
-    "caveats": [
-     "energy_basis_unstated"
-    ]
-   },
-   {
-    "id": "ORC-YFBNBJDBD4",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0925-8388(95)02178-7",
     "measured_in": "doi:10.1016/0925-8388(95)02178-7",
@@ -141,7 +64,8 @@
   "dois": [
    "10.1016/0925-8388(95)02178-7"
   ],
-  "source_dataset": "db-v2.1/general/espei/GaPb-96Mat/cpm-33.json"
+  "source_dataset": "db-v2.1/general/espei/GaPb-96Mat/cpm-33.json",
+  "values_dropped": 7
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom/K",
@@ -149,149 +73,9 @@
    "value": 0.2,
    "name": "ESPEI experimental default sigma_CPM = 0.2 J/mol/K"
   },
-  "weight_rule": "dataset weight = ESPEI experimental default sigma_CPM = 0.2 J/mol/K / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset",
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_CPM = 0.2 J/mol/K / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); this export uses a scalar weight for equilibrium/activity data; unequal-sigma groups are split before release",
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.005,
-     "sigma_method": 0.6,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 0.6,
-     "method_class": "unknown",
-     "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 6,
-     "method_entry": "value_types/CPM/classes/unknown"
-    },
-    "sigma_effective_used": 0.6,
-    "weight_per_value_equivalent": 0.333333,
-    "weight_used": 0.333333
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.005,
-     "sigma_method": 0.6,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 0.6,
-     "method_class": "unknown",
-     "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 6,
-     "method_entry": "value_types/CPM/classes/unknown"
-    },
-    "sigma_effective_used": 0.6,
-    "weight_per_value_equivalent": 0.333333,
-    "weight_used": 0.333333
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.005,
-     "sigma_method": 0.6,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 0.6,
-     "method_class": "unknown",
-     "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 6,
-     "method_entry": "value_types/CPM/classes/unknown"
-    },
-    "sigma_effective_used": 0.6,
-    "weight_per_value_equivalent": 0.333333,
-    "weight_used": 0.333333
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.005,
-     "sigma_method": 0.6,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 0.6,
-     "method_class": "unknown",
-     "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 6,
-     "method_entry": "value_types/CPM/classes/unknown"
-    },
-    "sigma_effective_used": 0.6,
-    "weight_per_value_equivalent": 0.333333,
-    "weight_used": 0.333333
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.005,
-     "sigma_method": 0.6,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 0.6,
-     "method_class": "unknown",
-     "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 6,
-     "method_entry": "value_types/CPM/classes/unknown"
-    },
-    "sigma_effective_used": 0.6,
-    "weight_per_value_equivalent": 0.333333,
-    "weight_used": 0.333333
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.005,
-     "sigma_method": 0.6,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 0.6,
-     "method_class": "unknown",
-     "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 6,
-     "method_entry": "value_types/CPM/classes/unknown"
-    },
-    "sigma_effective_used": 0.6,
-    "weight_per_value_equivalent": 0.333333,
-    "weight_used": 0.333333
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.005,
-     "sigma_method": 0.6,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 0.6,
-     "method_class": "unknown",
-     "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 6,
-     "method_entry": "value_types/CPM/classes/unknown"
-    },
-    "sigma_effective_used": 0.6,
-    "weight_per_value_equivalent": 0.333333,
-    "weight_used": 0.333333
-   },
    {
     "sigma": null,
     "sigma_basis": "not printed",
@@ -348,7 +132,7 @@
    "LIQUID"
   ],
   "basis": {
-   "printed_labels": 9
+   "printed_labels": 2
   },
   "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
  },
@@ -359,41 +143,6 @@
   "values": [
    {
     "id": "ORC-X3YOZCVMFL",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-BCBFTR66RL",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-6EUXAM6HIH",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-376KHM3INZ",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-U7YBZ6L6BL",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-6UBBYNGT3D",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-JNGB7HVLIM",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-YFBNBJDBD4",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

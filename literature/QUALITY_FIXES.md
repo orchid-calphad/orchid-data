@@ -537,21 +537,305 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 
 | count | n |
 |---|---:|
-| espei_certified | 1897 |
-| espei_ready | 11817 |
-| espei_ready_calphad_disagrees | 320 |
-| espei_ready_no_prediction | 9600 |
+| blocked_by_flag | 282 |
+| blocked_by_flag_phase_identity_missing | 267 |
+| blocked_by_flag_terminal_phase_mapping_unresolved | 15 |
+| espei_certified | 1892 |
+| espei_ready | 11189 |
+| espei_ready_calphad_disagrees | 319 |
+| espei_ready_no_prediction | 9477 |
 | phase_rule_fail_compound_property_not_fittable | 407 |
 | phase_rule_fail_liquid_impossible_at_T | 3 |
 | phase_rule_fail_phase_label_ambiguous | 79 |
 | phase_rule_fail_phase_label_not_mapped | 545 |
-| phase_rule_fail_phase_not_printed | 267 |
-| phase_rule_pass | 11817 |
+| phase_rule_pass | 11688 |
 
 Values whose `espei_ready` the phase rule turned false:
 
 | id | system | property | T (K) | printed labels | reason | detail |
 |---|---|---|---:|---|---|---|
+| ORC-2ARHPO6ULI.9c5c44 | AG-PB | CPM | 680.646 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-2HZ4HO7VKQ.eca7c0 | AG-PB | CPM | 917.968 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-3DTAFVIJ57.14fb4f | AG-PB | CPM | 674.664 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-3DTHACXC4T.d9eb4c | AG-PB | CPM | 642.769 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-3LN4ERBOIM.6a4804 | AG-PB | CPM | 728.523 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-44RRBDE2J3.127e38 | AG-PB | CPM | 686.632 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-4DHTNZ4RGV.74ef13 | AG-PB | CPM | 882.066 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-4PVRTK5W6F.11db0b | AG-PB | CPM | 951.866 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-4QJKHOGSFE.8b7647 | AG-PB | CPM | 798.296 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-4QN3QJYDQA.78bec4 | AG-PB | CPM | 929.937 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-4THI2UYU76.f00a6e | AG-PB | CPM | 770.407 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-4ZMIAUXC6R.1fb3e3 | AG-PB | CPM | 900.015 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-5G35LAPOWB.8d495e | AG-PB | CPM | 684.636 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-5IQH544QDY.cd6539 | AG-PB | CPM | 874.089 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-6SVBLFA6BT.a72bb3 | AG-PB | CPM | 872.094 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-6WLYXL2FQA.20d5f6 | AG-PB | CPM | 808.271 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-73IVDAIKMQ.e48566 | AG-PB | CPM | 712.563 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-76ZT2FWALX.d61cf5 | AG-PB | CPM | 953.859 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-7BB4CKBGHU.edf08e | AG-PB | CPM | 898.023 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-7G2K4CJPY5.576e46 | AG-PB | CPM | 774.375 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-7K6DEW2CLD.65a739 | AG-PB | CPM | 886.057 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-7KPULGBBA4.5ee390 | AG-PB | CPM | 778.359 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-7MCNUQTPUQ.890fa0 | AG-PB | CPM | 935.923 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-7OIUJD4DZG.24a84c | AG-PB | CPM | 664.696 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-7XP3AX7IK2.32cb0d | AG-PB | CPM | 909.988 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-AB5MDPD4FL.4ae0da | AG-PB | CPM | 748.467 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ANPS4KLMKO.6ff3bc | AG-PB | CPM | 692.614 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ANUGQC7BJO.f599de | AG-PB | CPM | 820.231 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-AWW23FBCHH.06e20e | AG-PB | CPM | 660.709 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-B7PCQBKCNB.7144e0 | AG-PB | CPM | 702.59 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-BIIJFGEOB5.ae8679 | AG-PB | CPM | 840.175 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-BNTYA7EMG3.9cff4c | AG-PB | CPM | 698.596 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-BUHNMWLZCZ.1fd5d7 | AG-PB | CPM | 856.135 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-BWHINBDKJR.914d42 | AG-PB | CPM | 704.583 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-BX5FPVVQIV.480dfe | AG-PB | CPM | 961.838 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-C2X4WAPT5Q.6b3efa | AG-PB | CPM | 700.593 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-CFDTEF4RTJ.d8a47b | AG-PB | CPM | 720.543 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-CMHLS3QI77.d5fc45 | AG-PB | CPM | 750.461 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-CP5N3NWNTK.c581fc | AG-PB | CPM | 925.946 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-CPTWEBCT4N.aa8394 | AG-PB | CPM | 848.155 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-CX2B7EYOFW.318d1c | AG-PB | CPM | 902.011 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-D7G7L6WRQE.dd6287 | AG-PB | CPM | 830.199 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DBSAYIEL4U.643b6c | AG-PB | CPM | 832.193 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DEK6AYBJHT.43efd5 | AG-PB | CPM | 931.931 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DG2PEM2S2X.6e6130 | AG-PB | CPM | 941.902 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DPGBPT3V25.90b818 | AG-PB | CPM | 816.244 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DR3BILJDS2.49b7af | AG-PB | CPM | 690.62 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DT3W5U462R.1a4b8c | AG-PB | CPM | 894.037 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DTG2NLHDOA.425856 | AG-PB | CPM | 955.852 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DVMRXMFPWW.341a8c | AG-PB | CPM | 740.495 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DW3WA5UZ2E.223222 | AG-PB | CPM | 746.473 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-E7J5DCWKP6.01269b | AG-PB | CPM | 868.103 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-EOKHJKO32F.3e36bd | AG-PB | CPM | 760.435 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ES52JMIQRA.5a9a84 | AG-PB | CPM | 826.214 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-EVWFSM6URM.f2783d | AG-PB | CPM | 818.237 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-F25SXBIYWD.29e35c | AG-PB | CPM | 734.507 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-F43ZTPAGRR.c7551c | AG-PB | CPM | 864.117 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-FD6ERMCM5M.8f7ef1 | AG-PB | CPM | 919.962 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-FEGVM5GGM4.abb3f6 | AG-PB | CPM | 764.423 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-FIMHIPPOLZ.f3cf8a | AG-PB | CPM | 892.04 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-FJCKTDLWSS.8c0d76 | AG-PB | CPM | 634.791 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-FMO26DINAI.075ace | AG-PB | CPM | 696.603 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-FWY2SEEVQ2.c0e634 | AG-PB | CPM | 678.651 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-FX5JGS2X4Z.a9c91d | AG-PB | CPM | 650.744 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-FXYTFJCBFB.443bd6 | AG-PB | CPM | 806.275 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-G26IFHJTTF.041b5d | AG-PB | CPM | 947.882 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-G47SYJZMSP.3ad3f8 | AG-PB | CPM | 772.403 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-GACCIRXF2N.a60fcd | AG-PB | CPM | 963.83 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-GCSXGCEUZY.26413d | AG-PB | CPM | 854.14 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-GO6SQI7PIT.da36f5 | AG-PB | CPM | 732.512 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-GYPW6QVUJV.3de26d | AG-PB | CPM | 822.225 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-H5HXDBZOED.578fff | AG-PB | CPM | 718.549 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-HICGZP6YMM.af8370 | AG-PB | CPM | 738.496 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-HLLVOCEUYM.a6cbeb | AG-PB | CPM | 644.761 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-HORFYHR2KI.8c026c | AG-PB | CPM | 708.572 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-HQWLBCQIBY.a4cf3f | AG-PB | CPM | 654.732 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-INNY76UX7G.d6246b | AG-PB | CPM | 943.897 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-IZ45Z5LUWX.8bf049 | AG-PB | CPM | 858.13 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-J5GO7LZIPM.491b25 | AG-PB | CPM | 862.122 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-J6H4EQXXAS.01826f | AG-PB | CPM | 812.26 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-J7GW2ZTWE2.d1f409 | AG-PB | CPM | 896.032 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-JBTX3RU756.5b1313 | AG-PB | CPM | 814.253 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-JMF7UEXZGW.e70d3a | AG-PB | CPM | 834.189 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-JOJC77ELUW.4a1f57 | AG-PB | CPM | 752.457 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-JQDOBITKUH.d6c083 | AG-PB | CPM | 937.917 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-JTIG6SA6N7.cbc285 | AG-PB | CPM | 730.516 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-KDDUX3YVXS.d433ed | AG-PB | CPM | 754.452 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-KT473ORKEL.c08409 | AG-PB | CPM | 762.429 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-KZ236DSTN3.bde1ff | AG-PB | CPM | 688.627 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-L7W2FWUUAG.daaf97 | AG-PB | CPM | 880.071 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-LTM345PTHJ.09528e | AG-PB | CPM | 866.112 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-LUV7WT4PIM.ed894f | AG-PB | CPM | 878.076 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-LW4YQECFOW.067678 | AG-PB | CPM | 888.052 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-M3EMMXWKI5.5f07f4 | AG-PB | CPM | 776.366 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-M3NHBGRPD3.496db3 | AG-PB | CPM | 768.411 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-MCRPXOH7QK.e9edec | AG-PB | CPM | 927.942 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-MITYBTEMHY.fcc4f4 | AG-PB | CPM | 676.658 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-MJ4OKSE2PO.d25102 | AG-PB | CPM | 915.974 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-MKTYSCGYUI.5125b7 | AG-PB | CPM | 846.161 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-MP5JWNP5WT.d1e4ff | AG-PB | CPM | 766.417 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-MRURU6UP3U.d84dd6 | AG-PB | CPM | 939.909 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-MTVLG7PHWW.aac8c7 | AG-PB | CPM | 876.081 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-N3Y4FECV2I.ae0ffd | AG-PB | CPM | 758.439 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-N5CR2YJPFK.67c26b | AG-PB | CPM | 824.22 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-NLWT6JLS3U.3092c3 | AG-PB | CPM | 672.669 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-NPKLDCXGQX.01716c | AG-PB | CPM | 670.673 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-NPOEMECNIQ.059c2c | AG-PB | CPM | 726.53 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-NXN562PQJK.4d5010 | AG-PB | CPM | 710.567 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-O5GRRVAREL.a2d65d | AG-PB | CPM | 744.482 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-OCVZNJN45Q.7cec6b | AG-PB | CPM | 724.534 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-OIXPZTKC6J.47f1bf | AG-PB | CPM | 965.825 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-OOJTOZE6NG.bc679a | AG-PB | CPM | 714.558 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-OPELXV3XPC.72670e | AG-PB | CPM | 790.318 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-PHJBV4QMWD.deda7e | AG-PB | CPM | 836.186 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-PJD6DGUC2G.38984c | AG-PB | CPM | 636.787 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-POUB35V4H2.df5da9 | AG-PB | CPM | 666.69 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-PQORXAAKDA.a44883 | AG-PB | CPM | 933.927 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-PRQP2MPCBB.9a7973 | AG-PB | CPM | 800.291 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-PU7P3TBJPC.a0419c | AG-PB | CPM | 736.499 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-PUOQS2ITTA.77ec8d | AG-PB | CPM | 949.874 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-Q3OG23H5JP.aa4378 | AG-PB | CPM | 780.354 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-Q3SAPDQ4BY.c98efb | AG-PB | CPM | 782.349 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-QLI5ATQBRP.ffe8e9 | AG-PB | CPM | 716.553 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-R2SGFHFUJ4.8cad09 | AG-PB | CPM | 646.753 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-RBS5T6XIB7.66bcd9 | AG-PB | CPM | 722.537 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-RGGOFP6WR6.b81676 | AG-PB | CPM | 794.308 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-RHTRM4DYHC.ec7d45 | AG-PB | CPM | 796.301 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-RVEZT323R6.d0dd7f | AG-PB | CPM | 921.957 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-RZBPECWZJL.0e07b2 | AG-PB | CPM | 852.144 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-SABGQAJGD7.434714 | AG-PB | CPM | 786.334 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-SKRKBZPI3V.242a51 | AG-PB | CPM | 802.285 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-SOM3EGJ5MP.daa54c | AG-PB | CPM | 844.17 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-SONTENM4OP.34e071 | AG-PB | CPM | 884.062 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-SYX7Q55QKO.0d0b8c | AG-PB | CPM | 788.326 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-SYZRQBCMDO.d3ae3e | AG-PB | CPM | 923.952 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-TTCXNTB3JN.1e072f | AG-PB | CPM | 860.127 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-TWVU6UDAHE.9ffbb1 | AG-PB | CPM | 890.044 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-U2SB3OMRQC.f8541c | AG-PB | CPM | 658.716 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-U34WNUTREE.43f53d | AG-PB | CPM | 967.821 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-U3AQJEJZZ2.fb77fd | AG-PB | CPM | 694.609 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-UMQDJURRN5.f8ac24 | AG-PB | CPM | 632.8 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-UOGOZHS3CR.2ff711 | AG-PB | CPM | 911.983 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-US4CZCJ2G3.89221a | AG-PB | CPM | 662.703 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-UVLNHUJXLJ.3839d3 | AG-PB | CPM | 969.817 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-UZOADQR4I6.9ed416 | AG-PB | CPM | 656.725 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-VDJVY6CKDP.88195a | AG-PB | CPM | 957.846 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-VGYUCPDBMW.220f83 | AG-PB | CPM | 850.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-VIQFNOP7TZ.c209ad | AG-PB | CPM | 804.28 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-VL2GH3SFHO.64ccb4 | AG-PB | CPM | 652.737 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-W7STQPEGAT.294a52 | AG-PB | CPM | 628.812 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-WAKQG5WET6.8bc51b | AG-PB | CPM | 906.003 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-WII6TFN3VG.84e2c7 | AG-PB | CPM | 682.641 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-WM5GU4Y32R.5e7dea | AG-PB | CPM | 648.75 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-WWOZG4LQIC.191017 | AG-PB | CPM | 959.843 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-XJN35IPW72.a6073f | AG-PB | CPM | 810.264 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-XQPB7D5SLT.b431df | AG-PB | CPM | 945.89 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-Y5KKYQB457.97de3b | AG-PB | CPM | 870.097 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-YAZBBKJRDL.a5b45c | AG-PB | CPM | 842.173 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-YBWUQOYJZN.6b52fc | AG-PB | CPM | 913.979 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-YC2BJ4UHYF.c2fcd8 | AG-PB | CPM | 638.78 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-YCJ7TM6BXO.f0d47a | AG-PB | CPM | 838.179 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-YPAEL6HQ5X.bf7f84 | AG-PB | CPM | 742.489 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-Z32GWFJIPN.e3dde6 | AG-PB | CPM | 756.444 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-Z5NEOOITTB.e8b692 | AG-PB | CPM | 772.392 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ZDH3TQUW5V.d304d9 | AG-PB | CPM | 828.205 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ZDINBQ4UML.700954 | AG-PB | CPM | 784.341 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ZKF2XKEQJC.b18eed | AG-PB | CPM | 792.314 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ZLFZRAVKRJ.95c9d2 | AG-PB | CPM | 630.807 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ZNNIRNC3Z6.b814c4 | AG-PB | CPM | 706.577 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ZREY6M73OS.606903 | AG-PB | CPM | 668.68 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ZWUKVJQNMI.dc9c88 | AG-PB | CPM | 640.774 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-3MBBKU43D2 | AG-SM | INVARIANT_TEMPERATURE | 963.15 | Liquid, AgSm, (αSm) | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-RUR57CXJV6 | AG-SM | INVARIANT_TEMPERATURE | 948.15 | Liquid, AgSm, (αSm) | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-PQA2DGMCJG | AL-CO-MN | INVARIANT_TEMPERATURE | 1425.15 | L, fcc, bcc, β-Mn | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-P3EJ5KLZSF | B | INVARIANT_TEMPERATURE | 2347.15 | L, β(B) | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-JZSC7PZKIF | B-CE | INVARIANT_TEMPERATURE | 2273.15 | L, B6Ce, β(B) | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-LHIFK47D7S | B-CE | INVARIANT_TEMPERATURE | 2263.15 | L, B6Ce, β(B) | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-OC4AQMOVYO | B-CE | INVARIANT_TEMPERATURE | 2273.15 | L, B6Ce, β(B) | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-PRHT46B2YE | B-CE | INVARIANT_TEMPERATURE | 2263.15 | L, B6Ce, β(B) | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-QRQSEPE5PI | B-CE | INVARIANT_TEMPERATURE | 2298.15 | L, B6Ce, β(B) | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-W6AUHMUZZZ | B-CE | INVARIANT_TEMPERATURE | 2473.15 | L, B6Ce, β(B) | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-262GCABU7L | B-SI | ACR_B | 1850.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DMD7RF3IBZ | B-SI | ACR_B | 1850.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-EL4VDF662N | B-SI | ACR_B | 1850.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-NBCIEUTCHZ | B-SI | ACR_B | 1850.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-OZWB7UDBBD | B-SI | ACR_B | 1850.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-R4DSGDB3W4 | B-SI | ACR_B | 1850.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-UY6NZBD3L7 | B-SI | ACR_B | 1850.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-R4NR3HT7Q5 | CO-GE | INVARIANT_TEMPERATURE | 1396.0 | L, α(Co), ε(Co) | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-GIKWBNVYZD | CO-TH | INVARIANT_TEMPERATURE | 1683.15 | L, Co17Th2, αCo | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-HPQQANFDLP | CO-TH | INVARIANT_TEMPERATURE | 1768.15 | L, αCo | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-QQXFHXO7DI | CO-TH | INVARIANT_TEMPERATURE | 1660.15 | L, Co17Th2, αCo | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-YYDEE5TVLQ | CO-TH | INVARIANT_TEMPERATURE | 1768.15 | L, αCo | blocked_by_flag | terminal_phase_mapping_unresolved |
+| ORC-CVGPP2EES2.280500 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-CVGPP2EES2.902166 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-EPYUWME3S2.4b91f9 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-EPYUWME3S2.d891c2 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-HLSQ32LD7W.813e3a | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-HLSQ32LD7W.9589eb | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-HRCXWJ5ASY.680328 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-HRCXWJ5ASY.fb9198 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-MFUTBPJ73V.867731 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-MFUTBPJ73V.a91205 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-NKAWVPI72A.406946 | CR-V | SM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-NKAWVPI72A.a2b053 | CR-V | CPM | 298.15 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-K43YLA7BZC.068413 | GE-SI | ACR_GE | 1723.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-27ENRZHFIH.bb8a88 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-2QGHJJNDFX.677f28 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-2XJVL52ZZS.8a49ec | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-324KCUAJTB.3c7513 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-3BWGXP6SDT.52e3e9 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-3UMK4HZRHK.4928c5 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-3YALOHDNR3.0de3fc | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-5BEUS7NSSP.657f69 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-5EULFO2SNI.7ff09c | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-72TKN3UOG6.8e6d92 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-7CQZM6YFNQ.9b6728 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-7DDF6Q6O6J.a13d6d | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-7IZSXRGLA5.1e62f8 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-A23FUSO6HP.701cb7 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-AD34SRG5AB.4e4eb1 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-AGU7ATIYGJ.57d46e | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ARISD7LQXQ.8f30cc | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-AUKWBMGA5C.ddb196 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-B3Q76Q3ZNH.3e8bee | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-B4MUY4LNTZ.6b353a | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-C64TM3NLHR.d751c9 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-CJLV4LOPNF.f82c71 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-CXYDLQ5DZE.5e0076 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DGXTGV74FJ.6ab7ef | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DQJUDST43Z.23b999 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-DSM7RNGM22.155939 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-EGWMVFTMZP.464734 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-EOL5JCK3PY.e00397 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-F4A2JMFGJH.47c2b7 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-FIQ7BNHLFU.2b0752 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-FLDGSBRCAK.4cf0d5 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-HP5KPJAVEK.9ecfe3 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-J3XQAQG2DV | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-JNPKE2TTDJ.4011b2 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-JPQRPXNF4U.9e674a | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-JSGTH7ITUZ.a20ce5 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-JWQOTXG67W.d3263a | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-KCYHXEXQUE.c6b756 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-KLVT4YVNCO.525ff5 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-KQZDNZX2AN.7d9243 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-KSRPGL5RCD.08c1f4 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-KUECU2UA5L.6cda4d | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-LXN3IADT6Q.c6f1fe | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-MMQ6QORTQE.0773c8 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-NLSMYGH5C7.fc2d47 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-O57HKFBW6L.5a177a | LI-SB | HM_MIX | 1080.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-OFFT32GZKH.eb17b8 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-OGB5BHFJ44.96025e | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-PCZK7MQCTV.e272ce | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-PJ7QENEB33.439622 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-PQYY3PUVQT.6a1839 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-PT3AK5E5VQ.f07da2 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-QWK44342WG | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-REX4O7CVVS.a62422 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-RJVTZB7JFG.662ace | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-RLTCUJXUAN.d9082c | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-RODXZPLBGU.d0b4d5 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-SCT4AX4CNS.161b8b | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-TSSLBQG7IF.0941a5 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-TWOHK3267T.acff3c | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-U46GIDWBAC.033dbe | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-U4AXTSYQAU.da0512 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-U6YCP2D4CE.814b84 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-U76E3N3IBK.26f8f0 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-UBFXLGUDF3.b80801 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-VCFZCCR356.9b7115 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-VF4OBQG2UZ.338fcb | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-W7NAOHTXW5.edde5a | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-W7XE3PEZ6P.21c0d6 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-WLL5KIGXCE.bec4ac | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-WNJNP47VAM.3fac9e | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-YF5XFHR4R5.8a2c7a | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-YFEPYD4OTH.790ebb | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-YGRYUHWU3K.44ba39 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ZGOVESY4GA.9f76f9 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
+| ORC-ZOINEUQ6R5.fbd9e8 | LI-SB | HM_MIX | 979.0 | UNKNOWN | blocked_by_flag | phase_identity_missing |
 | ORC-XCFMJUUOJ7.a0179c | AL-CA | GM_FORM | 800.0 | Al4Ca | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-V7YJ5MPN3I | AL-NI | SM | 298.15 | Al3Ni | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-IHDYFUIRSU | B-NB | SM | 298.15 | Nb3B4 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -1586,273 +1870,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-VPO6TJUC6Z | TA | HM_FORM | 0.0 | Ta13 | phase_label_not_mapped | label 'Ta13' |
 | ORC-BLE5GGHL7A | TI | HM_FORM | 0.0 | Laves C14 | phase_label_not_mapped | label 'Laves C14' |
 | ORC-RGTIP2LC4R.8f3744 | ZR | HM_FORM | 0.0 | hcp-Zr | phase_label_not_mapped | label 'hcp-Zr' |
-| ORC-2ARHPO6ULI.9c5c44 | AG-PB | CPM | 680.646 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2HZ4HO7VKQ.eca7c0 | AG-PB | CPM | 917.968 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3DTAFVIJ57.14fb4f | AG-PB | CPM | 674.664 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3DTHACXC4T.d9eb4c | AG-PB | CPM | 642.769 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3LN4ERBOIM.6a4804 | AG-PB | CPM | 728.523 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-44RRBDE2J3.127e38 | AG-PB | CPM | 686.632 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4DHTNZ4RGV.74ef13 | AG-PB | CPM | 882.066 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4PVRTK5W6F.11db0b | AG-PB | CPM | 951.866 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4QJKHOGSFE.8b7647 | AG-PB | CPM | 798.296 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4QN3QJYDQA.78bec4 | AG-PB | CPM | 929.937 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4THI2UYU76.f00a6e | AG-PB | CPM | 770.407 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4ZMIAUXC6R.1fb3e3 | AG-PB | CPM | 900.015 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5G35LAPOWB.8d495e | AG-PB | CPM | 684.636 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5IQH544QDY.cd6539 | AG-PB | CPM | 874.089 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-6SVBLFA6BT.a72bb3 | AG-PB | CPM | 872.094 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-6WLYXL2FQA.20d5f6 | AG-PB | CPM | 808.271 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-73IVDAIKMQ.e48566 | AG-PB | CPM | 712.563 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-76ZT2FWALX.d61cf5 | AG-PB | CPM | 953.859 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7BB4CKBGHU.edf08e | AG-PB | CPM | 898.023 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7G2K4CJPY5.576e46 | AG-PB | CPM | 774.375 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7K6DEW2CLD.65a739 | AG-PB | CPM | 886.057 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7KPULGBBA4.5ee390 | AG-PB | CPM | 778.359 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7MCNUQTPUQ.890fa0 | AG-PB | CPM | 935.923 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7OIUJD4DZG.24a84c | AG-PB | CPM | 664.696 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7XP3AX7IK2.32cb0d | AG-PB | CPM | 909.988 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AB5MDPD4FL.4ae0da | AG-PB | CPM | 748.467 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ANPS4KLMKO.6ff3bc | AG-PB | CPM | 692.614 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ANUGQC7BJO.f599de | AG-PB | CPM | 820.231 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AWW23FBCHH.06e20e | AG-PB | CPM | 660.709 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-B7PCQBKCNB.7144e0 | AG-PB | CPM | 702.59 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BIIJFGEOB5.ae8679 | AG-PB | CPM | 840.175 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BNTYA7EMG3.9cff4c | AG-PB | CPM | 698.596 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BUHNMWLZCZ.1fd5d7 | AG-PB | CPM | 856.135 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BWHINBDKJR.914d42 | AG-PB | CPM | 704.583 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BX5FPVVQIV.480dfe | AG-PB | CPM | 961.838 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-C2X4WAPT5Q.6b3efa | AG-PB | CPM | 700.593 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CFDTEF4RTJ.d8a47b | AG-PB | CPM | 720.543 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CMHLS3QI77.d5fc45 | AG-PB | CPM | 750.461 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CP5N3NWNTK.c581fc | AG-PB | CPM | 925.946 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CPTWEBCT4N.aa8394 | AG-PB | CPM | 848.155 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CX2B7EYOFW.318d1c | AG-PB | CPM | 902.011 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-D7G7L6WRQE.dd6287 | AG-PB | CPM | 830.199 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DBSAYIEL4U.643b6c | AG-PB | CPM | 832.193 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DEK6AYBJHT.43efd5 | AG-PB | CPM | 931.931 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DG2PEM2S2X.6e6130 | AG-PB | CPM | 941.902 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DPGBPT3V25.90b818 | AG-PB | CPM | 816.244 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DR3BILJDS2.49b7af | AG-PB | CPM | 690.62 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DT3W5U462R.1a4b8c | AG-PB | CPM | 894.037 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DTG2NLHDOA.425856 | AG-PB | CPM | 955.852 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DVMRXMFPWW.341a8c | AG-PB | CPM | 740.495 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DW3WA5UZ2E.223222 | AG-PB | CPM | 746.473 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-E7J5DCWKP6.01269b | AG-PB | CPM | 868.103 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EOKHJKO32F.3e36bd | AG-PB | CPM | 760.435 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ES52JMIQRA.5a9a84 | AG-PB | CPM | 826.214 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EVWFSM6URM.f2783d | AG-PB | CPM | 818.237 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-F25SXBIYWD.29e35c | AG-PB | CPM | 734.507 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-F43ZTPAGRR.c7551c | AG-PB | CPM | 864.117 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FD6ERMCM5M.8f7ef1 | AG-PB | CPM | 919.962 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FEGVM5GGM4.abb3f6 | AG-PB | CPM | 764.423 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FIMHIPPOLZ.f3cf8a | AG-PB | CPM | 892.04 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FJCKTDLWSS.8c0d76 | AG-PB | CPM | 634.791 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FMO26DINAI.075ace | AG-PB | CPM | 696.603 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FWY2SEEVQ2.c0e634 | AG-PB | CPM | 678.651 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FX5JGS2X4Z.a9c91d | AG-PB | CPM | 650.744 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FXYTFJCBFB.443bd6 | AG-PB | CPM | 806.275 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-G26IFHJTTF.041b5d | AG-PB | CPM | 947.882 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-G47SYJZMSP.3ad3f8 | AG-PB | CPM | 772.403 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GACCIRXF2N.a60fcd | AG-PB | CPM | 963.83 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GCSXGCEUZY.26413d | AG-PB | CPM | 854.14 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GO6SQI7PIT.da36f5 | AG-PB | CPM | 732.512 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GYPW6QVUJV.3de26d | AG-PB | CPM | 822.225 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-H5HXDBZOED.578fff | AG-PB | CPM | 718.549 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HICGZP6YMM.af8370 | AG-PB | CPM | 738.496 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HLLVOCEUYM.a6cbeb | AG-PB | CPM | 644.761 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HORFYHR2KI.8c026c | AG-PB | CPM | 708.572 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HQWLBCQIBY.a4cf3f | AG-PB | CPM | 654.732 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-INNY76UX7G.d6246b | AG-PB | CPM | 943.897 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IZ45Z5LUWX.8bf049 | AG-PB | CPM | 858.13 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-J5GO7LZIPM.491b25 | AG-PB | CPM | 862.122 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-J6H4EQXXAS.01826f | AG-PB | CPM | 812.26 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-J7GW2ZTWE2.d1f409 | AG-PB | CPM | 896.032 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JBTX3RU756.5b1313 | AG-PB | CPM | 814.253 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JMF7UEXZGW.e70d3a | AG-PB | CPM | 834.189 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JOJC77ELUW.4a1f57 | AG-PB | CPM | 752.457 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JQDOBITKUH.d6c083 | AG-PB | CPM | 937.917 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JTIG6SA6N7.cbc285 | AG-PB | CPM | 730.516 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KDDUX3YVXS.d433ed | AG-PB | CPM | 754.452 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KT473ORKEL.c08409 | AG-PB | CPM | 762.429 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KZ236DSTN3.bde1ff | AG-PB | CPM | 688.627 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-L7W2FWUUAG.daaf97 | AG-PB | CPM | 880.071 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LTM345PTHJ.09528e | AG-PB | CPM | 866.112 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LUV7WT4PIM.ed894f | AG-PB | CPM | 878.076 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LW4YQECFOW.067678 | AG-PB | CPM | 888.052 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-M3EMMXWKI5.5f07f4 | AG-PB | CPM | 776.366 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-M3NHBGRPD3.496db3 | AG-PB | CPM | 768.411 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MCRPXOH7QK.e9edec | AG-PB | CPM | 927.942 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MITYBTEMHY.fcc4f4 | AG-PB | CPM | 676.658 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MJ4OKSE2PO.d25102 | AG-PB | CPM | 915.974 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MKTYSCGYUI.5125b7 | AG-PB | CPM | 846.161 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MP5JWNP5WT.d1e4ff | AG-PB | CPM | 766.417 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MRURU6UP3U.d84dd6 | AG-PB | CPM | 939.909 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MTVLG7PHWW.aac8c7 | AG-PB | CPM | 876.081 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-N3Y4FECV2I.ae0ffd | AG-PB | CPM | 758.439 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-N5CR2YJPFK.67c26b | AG-PB | CPM | 824.22 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NLWT6JLS3U.3092c3 | AG-PB | CPM | 672.669 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NPKLDCXGQX.01716c | AG-PB | CPM | 670.673 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NPOEMECNIQ.059c2c | AG-PB | CPM | 726.53 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NXN562PQJK.4d5010 | AG-PB | CPM | 710.567 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-O5GRRVAREL.a2d65d | AG-PB | CPM | 744.482 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OCVZNJN45Q.7cec6b | AG-PB | CPM | 724.534 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OIXPZTKC6J.47f1bf | AG-PB | CPM | 965.825 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OOJTOZE6NG.bc679a | AG-PB | CPM | 714.558 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OPELXV3XPC.72670e | AG-PB | CPM | 790.318 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PHJBV4QMWD.deda7e | AG-PB | CPM | 836.186 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PJD6DGUC2G.38984c | AG-PB | CPM | 636.787 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-POUB35V4H2.df5da9 | AG-PB | CPM | 666.69 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PQORXAAKDA.a44883 | AG-PB | CPM | 933.927 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PRQP2MPCBB.9a7973 | AG-PB | CPM | 800.291 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PU7P3TBJPC.a0419c | AG-PB | CPM | 736.499 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PUOQS2ITTA.77ec8d | AG-PB | CPM | 949.874 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Q3OG23H5JP.aa4378 | AG-PB | CPM | 780.354 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Q3SAPDQ4BY.c98efb | AG-PB | CPM | 782.349 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QLI5ATQBRP.ffe8e9 | AG-PB | CPM | 716.553 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-R2SGFHFUJ4.8cad09 | AG-PB | CPM | 646.753 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RBS5T6XIB7.66bcd9 | AG-PB | CPM | 722.537 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RGGOFP6WR6.b81676 | AG-PB | CPM | 794.308 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RHTRM4DYHC.ec7d45 | AG-PB | CPM | 796.301 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RVEZT323R6.d0dd7f | AG-PB | CPM | 921.957 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RZBPECWZJL.0e07b2 | AG-PB | CPM | 852.144 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SABGQAJGD7.434714 | AG-PB | CPM | 786.334 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SKRKBZPI3V.242a51 | AG-PB | CPM | 802.285 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SOM3EGJ5MP.daa54c | AG-PB | CPM | 844.17 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SONTENM4OP.34e071 | AG-PB | CPM | 884.062 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SYX7Q55QKO.0d0b8c | AG-PB | CPM | 788.326 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SYZRQBCMDO.d3ae3e | AG-PB | CPM | 923.952 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TTCXNTB3JN.1e072f | AG-PB | CPM | 860.127 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TWVU6UDAHE.9ffbb1 | AG-PB | CPM | 890.044 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-U2SB3OMRQC.f8541c | AG-PB | CPM | 658.716 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-U34WNUTREE.43f53d | AG-PB | CPM | 967.821 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-U3AQJEJZZ2.fb77fd | AG-PB | CPM | 694.609 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UMQDJURRN5.f8ac24 | AG-PB | CPM | 632.8 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UOGOZHS3CR.2ff711 | AG-PB | CPM | 911.983 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-US4CZCJ2G3.89221a | AG-PB | CPM | 662.703 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UVLNHUJXLJ.3839d3 | AG-PB | CPM | 969.817 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UZOADQR4I6.9ed416 | AG-PB | CPM | 656.725 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VDJVY6CKDP.88195a | AG-PB | CPM | 957.846 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VGYUCPDBMW.220f83 | AG-PB | CPM | 850.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VIQFNOP7TZ.c209ad | AG-PB | CPM | 804.28 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VL2GH3SFHO.64ccb4 | AG-PB | CPM | 652.737 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-W7STQPEGAT.294a52 | AG-PB | CPM | 628.812 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WAKQG5WET6.8bc51b | AG-PB | CPM | 906.003 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WII6TFN3VG.84e2c7 | AG-PB | CPM | 682.641 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WM5GU4Y32R.5e7dea | AG-PB | CPM | 648.75 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WWOZG4LQIC.191017 | AG-PB | CPM | 959.843 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-XJN35IPW72.a6073f | AG-PB | CPM | 810.264 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-XQPB7D5SLT.b431df | AG-PB | CPM | 945.89 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Y5KKYQB457.97de3b | AG-PB | CPM | 870.097 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YAZBBKJRDL.a5b45c | AG-PB | CPM | 842.173 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YBWUQOYJZN.6b52fc | AG-PB | CPM | 913.979 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YC2BJ4UHYF.c2fcd8 | AG-PB | CPM | 638.78 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YCJ7TM6BXO.f0d47a | AG-PB | CPM | 838.179 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YPAEL6HQ5X.bf7f84 | AG-PB | CPM | 742.489 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Z32GWFJIPN.e3dde6 | AG-PB | CPM | 756.444 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Z5NEOOITTB.e8b692 | AG-PB | CPM | 772.392 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZDH3TQUW5V.d304d9 | AG-PB | CPM | 828.205 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZDINBQ4UML.700954 | AG-PB | CPM | 784.341 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZKF2XKEQJC.b18eed | AG-PB | CPM | 792.314 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZLFZRAVKRJ.95c9d2 | AG-PB | CPM | 630.807 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZNNIRNC3Z6.b814c4 | AG-PB | CPM | 706.577 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZREY6M73OS.606903 | AG-PB | CPM | 668.68 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZWUKVJQNMI.dc9c88 | AG-PB | CPM | 640.774 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4OC5YD5B5T.6e4510 | AL-CR | HM_FORM | 1273.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-262GCABU7L | B-SI | ACR_B | 1850.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DMD7RF3IBZ | B-SI | ACR_B | 1850.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EL4VDF662N | B-SI | ACR_B | 1850.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NBCIEUTCHZ | B-SI | ACR_B | 1850.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OZWB7UDBBD | B-SI | ACR_B | 1850.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-R4DSGDB3W4 | B-SI | ACR_B | 1850.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UY6NZBD3L7 | B-SI | ACR_B | 1850.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5MBL67NU55.5620c6 | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5VLZZSK2FU.079ecd | BI-K | SM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5VLZZSK2FU.399489 | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5VLZZSK2FU.a87d23 | BI-K | HM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-65FTHM43WD.d661d3 | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AP6PJYWU2A.14b173 | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AP6PJYWU2A.b4b400 | BI-K | HM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AP6PJYWU2A.f4e1b3 | BI-K | SM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GPYTLM7TMH.23591c | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JHECAZUR7A.527387 | BI-K | HM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JHECAZUR7A.751186 | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JHECAZUR7A.ac9bb7 | BI-K | SM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MVMC4LLIGK.deb7c0 | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OAM7DL5O44.0f9db3 | BI-K | HM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OAM7DL5O44.a1313c | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OAM7DL5O44.db5826 | BI-K | SM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RBLTNNPVR3.1458d7 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BKJI2BHPNQ | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KDA4DDUPS3 | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QSJGIAPGCT | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CVGPP2EES2.280500 | CR-V | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CVGPP2EES2.902166 | CR-V | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EPYUWME3S2.4b91f9 | CR-V | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EPYUWME3S2.d891c2 | CR-V | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HLSQ32LD7W.813e3a | CR-V | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HLSQ32LD7W.9589eb | CR-V | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HRCXWJ5ASY.680328 | CR-V | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HRCXWJ5ASY.fb9198 | CR-V | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MFUTBPJ73V.867731 | CR-V | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MFUTBPJ73V.a91205 | CR-V | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NKAWVPI72A.406946 | CR-V | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NKAWVPI72A.a2b053 | CR-V | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RRX24TAHOT.400de0 | FE-ZR | HM_FORM | 1023.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2XJVL52ZZS.8a49ec | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-324KCUAJTB.3c7513 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3UMK4HZRHK.4928c5 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5BEUS7NSSP.657f69 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-72TKN3UOG6.8e6d92 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7DDF6Q6O6J.a13d6d | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-A23FUSO6HP.701cb7 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AD34SRG5AB.4e4eb1 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AUKWBMGA5C.ddb196 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-B3Q76Q3ZNH.3e8bee | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-B4MUY4LNTZ.6b353a | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CXYDLQ5DZE.5e0076 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DQJUDST43Z.23b999 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-F4A2JMFGJH.47c2b7 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FIQ7BNHLFU.2b0752 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FLDGSBRCAK.4cf0d5 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HP5KPJAVEK.9ecfe3 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-J3XQAQG2DV | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JPQRPXNF4U.9e674a | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JSGTH7ITUZ.a20ce5 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JWQOTXG67W.d3263a | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KCYHXEXQUE.c6b756 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KLVT4YVNCO.525ff5 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KQZDNZX2AN.7d9243 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KSRPGL5RCD.08c1f4 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KUECU2UA5L.6cda4d | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LXN3IADT6Q.c6f1fe | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MMQ6QORTQE.0773c8 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NLSMYGH5C7.fc2d47 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-O57HKFBW6L.5a177a | LI-SB | HM_MIX | 1080.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OFFT32GZKH.eb17b8 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OGB5BHFJ44.96025e | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PCZK7MQCTV.e272ce | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PQYY3PUVQT.6a1839 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QWK44342WG | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RLTCUJXUAN.d9082c | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RODXZPLBGU.d0b4d5 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SCT4AX4CNS.161b8b | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TWOHK3267T.acff3c | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-U46GIDWBAC.033dbe | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-U4AXTSYQAU.da0512 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UBFXLGUDF3.b80801 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VF4OBQG2UZ.338fcb | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-W7NAOHTXW5.edde5a | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-W7XE3PEZ6P.21c0d6 | LI-SB | HM_MIX | 1181.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WLL5KIGXCE.bec4ac | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WNJNP47VAM.3fac9e | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YF5XFHR4R5.8a2c7a | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YFEPYD4OTH.790ebb | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZGOVESY4GA.9f76f9 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZOINEUQ6R5.fbd9e8 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7SDDUNMFWD | NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-XFMFG5NJ7G | NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EENBV6JOTY.a7d9ec | NI-SM | HM_FORM | 1473.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-H5OATTV4YI.99a5c9 | NI-SM | HM_FORM | 1473.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 
 
 ## 7. Literature-level consistency gates (literature-gates 2026-10-24 (cleanup))
@@ -1862,12 +1879,12 @@ Every value was checked against its table, its paper, the physics of its quantit
 | | before | after |
 |---|---:|---:|
 | records | 77540 | 73542 |
-| extraction_accepted | 76600 | 68290 |
-| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13118 |
-| records with corrections | | 15124 |
-| records with gate failures | | 8387 |
-| page-check ledger entries (tools/literature_visual_checks.json) | | 1750 |
-| page-check keys looked up by the gates (table entries expanded to rows) | | 1791 |
+| extraction_accepted | 76600 | 65311 |
+| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13059 |
+| records with corrections | | 15528 |
+| records with gate failures | | 11588 |
+| page-check ledger entries (tools/literature_visual_checks.json) | | 2569 |
+| page-check keys looked up by the gates (table entries expanded to rows) | | 2610 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -1878,7 +1895,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | A1 elements, chemical systems, compositions (audit round 2) | `c2_axis_flipped_table` | corrected | 60 |
 | A1 elements, chemical systems, compositions (audit round 2) | `c3_composition_phase_permutation` | corrected | 28 |
 | A1 elements, chemical systems, compositions (audit round 2) | `c3_composition_read_from_page` | corrected | 65 |
-| A1 elements, chemical systems, compositions (audit round 2) | `c4_system_of_the_state` | corrected | 7792 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c4_system_of_the_state` | corrected | 7779 |
 | A1 elements, chemical systems, compositions (audit round 2) | `c6_page_fix` | corrected | 6 |
 | A1 elements, chemical systems, compositions (audit round 2) | `c6_stale_zero_dropped` | corrected | 52 |
 | A1 elements, chemical systems, compositions (audit round 2) | `c7_basis_resolved_on_page` | corrected | 15 |
@@ -1888,7 +1905,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | A1 elements, chemical systems, compositions (audit round 2) | `label_conflicts_composition` | flagged | 238 |
 | A1 elements, chemical systems, compositions (audit round 2) | `r3_overall_composition_conflicts_label` | flagged | 74 |
 | A1 elements, chemical systems, compositions (audit round 2) | `r3_overall_composition_from_formula` | corrected | 419 |
-| A1 elements, chemical systems, compositions (audit round 2) | `r3_reference_state_outside_system_dropped` | corrected | 3027 |
+| A1 elements, chemical systems, compositions (audit round 2) | `r3_reference_state_outside_system_dropped` | corrected | 3031 |
 | G1 temperatures | `liquid_below_physical_minimum` | demoted | 10 |
 | G1 temperatures | `liquid_below_physical_minimum` | flagged | 24 |
 | G1 temperatures | `liquid_temperature_corrected_from_page` | corrected | 2 |
@@ -1915,7 +1932,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G2 energies, entropies, heat capacities, activities | `value_corrected_from_page` | corrected | 3 |
 | G2 energies, entropies, heat capacities, activities | `value_out_of_physical_range` | demoted | 34 |
 | G2 energies, entropies, heat capacities, activities | `value_out_of_physical_range` | flagged | 1 |
-| G2 energies, entropies, heat capacities, activities | `value_outside_typical_range_as_printed` | flagged | 72 |
+| G2 energies, entropies, heat capacities, activities | `value_outside_typical_range_as_printed` | flagged | 71 |
 | G3 signs | `formation_positive_check_sign` | flagged | 1 |
 | G3 signs | `positive_formation_confirmed_on_page` | checked | 50 |
 | G3 signs | `sign_corrected_from_page` | corrected | 10 |
@@ -1985,7 +2002,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | R3  | `assessed_database_values` | corrected | 262 |
 | R3  | `comma_decimal_formula_atoms` | corrected | 12 |
 | R3  | `contribution_stored_as_total` | corrected | 116 |
-| R3  | `defect_energy_stored_as_formation` | corrected | 54 |
+| R3  | `defect_energy_stored_as_formation` | corrected | 12 |
 | R3  | `emf_intercept_stored_as_emf` | corrected | 84 |
 | R3  | `emf_slope_stored_as_emf` | corrected | 2 |
 | R3  | `first_principles_value_coded_model` | corrected | 197 |
@@ -1994,34 +2011,57 @@ Every value was checked against its table, its paper, the physics of its quantit
 | R3  | `heat_content_base_temperature` | corrected | 142 |
 | R3  | `printed_range_read_from_page` | corrected | 7 |
 | R3  | `state_phases_from_quote` | corrected | 264 |
-| R3  | `state_phases_missing` | demoted | 4282 |
+| R3  | `state_phases_missing` | demoted | 8944 |
 | R3  | `state_phases_read_from_page` | corrected | 16 |
 | R3  | `temperature_printed_not_stored` | corrected | 14 |
 | R3  | `temperature_range_printed_not_stored` | corrected | 21 |
 | R3  | `three_term_expression_coefficient` | corrected | 10 |
 | R3  | `unit_prefix_lost_k` | corrected | 11 |
 | R3I  | `duplicate_invariant_same_page` | flagged | 179 |
-| R3I  | `invariant_temperature_needs_page_check` | flagged | 8 |
-| R3I  | `phase_rule_count_mismatch` | flagged | 302 |
-| R3I  | `phases_from_printed_reaction` | corrected | 220 |
+| R3I  | `invariant_temperature_needs_page_check` | flagged | 5 |
+| R3I  | `phase_rule_count_mismatch` | flagged | 303 |
+| R3I  | `phases_from_printed_reaction` | corrected | 219 |
 | R3I  | `reaction_class_conflicts_printed_reaction` | flagged | 67 |
-| R3I  | `reaction_class_from_printed_reaction` | corrected | 3021 |
+| R3I  | `reaction_class_from_printed_reaction` | corrected | 3022 |
+| R3I  | `system_includes_printed_reaction_partners` | corrected | 18 |
+| page page checks (visual) | `bounded_temperature_not_exact_observation` | flagged | 1 |
 | page page checks (visual) | `composition_misread_on_page` | flagged | 2 |
+| page page checks (visual) | `conflicting_printed_end_member_pair` | flagged | 1 |
+| page page checks (visual) | `defect_energy_not_a_formation_property` | flagged | 42 |
 | page page checks (visual) | `derived_at_high_temperature_from_bcc_zr` | flagged | 6 |
+| page page checks (visual) | `end_member_requires_sublattice_mapping` | flagged | 6 |
 | page page checks (visual) | `energy_basis_not_printed_rows_inconsistent` | flagged | 11 |
+| page page checks (visual) | `expression_coefficient_not_a_value` | flagged | 119 |
 | page page checks (visual) | `glass_transition_not_an_equilibrium_state` | flagged | 2 |
+| page page checks (visual) | `heat_treatment_not_equilibrium_observation` | flagged | 24 |
+| page page checks (visual) | `measurement_temperature_not_stated` | flagged | 36 |
+| page page checks (visual) | `measurement_temperature_various` | flagged | 20 |
 | page page checks (visual) | `misread_on_page` | demoted | 88 |
 | page page checks (visual) | `mutually_inconsistent` | flagged | 10 |
+| page page checks (visual) | `oxygen_stoichiometry_unspecified` | flagged | 30 |
 | page page checks (visual) | `page_fix_cited_sources` | corrected | 30 |
+| page page checks (visual) | `page_fix_elements` | corrected | 178 |
 | page page checks (visual) | `page_fix_evidence_class` | corrected | 180 |
-| page page checks (visual) | `page_fix_property` | corrected | 8 |
+| page page checks (visual) | `page_fix_overall_composition` | corrected | 254 |
+| page page checks (visual) | `page_fix_overall_composition_basis` | corrected | 254 |
+| page page checks (visual) | `page_fix_phases` | corrected | 8 |
+| page page checks (visual) | `page_fix_property` | corrected | 238 |
+| page page checks (visual) | `page_fix_property_expression` | corrected | 119 |
+| page page checks (visual) | `page_fix_property_group` | corrected | 125 |
 | page page checks (visual) | `page_fix_quote_page` | corrected | 2 |
-| page page checks (visual) | `page_fix_reference_state` | corrected | 12 |
-| page page checks (visual) | `page_fix_temperature_K` | corrected | 31 |
-| page page checks (visual) | `page_fix_temperature_basis` | corrected | 12 |
-| page page checks (visual) | `page_fix_uncertainty` | corrected | 13 |
-| page page checks (visual) | `page_fix_unit` | corrected | 113 |
-| page page checks (visual) | `page_fix_value` | corrected | 107 |
+| page page checks (visual) | `page_fix_reference_state` | corrected | 44 |
+| page page checks (visual) | `page_fix_source_system` | corrected | 175 |
+| page page checks (visual) | `page_fix_system` | corrected | 178 |
+| page page checks (visual) | `page_fix_temperature_K` | corrected | 219 |
+| page page checks (visual) | `page_fix_temperature_basis` | corrected | 218 |
+| page page checks (visual) | `page_fix_temperature_bound` | corrected | 10 |
+| page page checks (visual) | `page_fix_temperature_range_K` | corrected | 10 |
+| page page checks (visual) | `page_fix_temperature_uncertainty` | corrected | 12 |
+| page page checks (visual) | `page_fix_uncertainty` | corrected | 15 |
+| page page checks (visual) | `page_fix_unit` | corrected | 211 |
+| page page checks (visual) | `page_fix_unit_basis` | corrected | 42 |
+| page page checks (visual) | `page_fix_value` | corrected | 108 |
+| page page checks (visual) | `partial_property_requires_explicit_fitting_support` | flagged | 32 |
 | page page checks (visual) | `phase_label_not_the_value_phase` | flagged | 36 |
 | page page checks (visual) | `phase_list_misread_corrected` | corrected | 28 |
 | page page checks (visual) | `pressure_1_atm_withdrawn` | corrected | 5 |
@@ -2032,6 +2072,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `source_marks_value_unreliable` | flagged | 1 |
 | page page checks (visual) | `stoichiometry_mismatch` | flagged | 7 |
 | page page checks (visual) | `temperature_not_printed` | flagged | 12 |
+| page page checks (visual) | `transformation_enthalpy_requires_reaction_basis` | flagged | 6 |
 | page page checks (visual) | `unit_inconsistent_with_figure_on_page` | flagged | 9 |
 | page page checks (visual) | `unsigned_magnitude_in_print` | flagged | 15 |
 
@@ -2056,10 +2097,11 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | evidence_table | experimental_own | 2 |
 | evidence_table | mixed | 4 |
 | evidence_table | model | 2 |
+| flag | confirmed | 317 |
 | flag_precision_sample | false_positive | 5 |
 | flag_precision_sample | true_positive | 15 |
 | invariant_table | checked | 160 |
-| page_fix | corrected | 347 |
+| page_fix | corrected | 849 |
 | page_flag | confirmed | 93 |
 | page_flag | flagged | 2 |
 | per_formula | corrected | 1 |
@@ -2137,18 +2179,20 @@ Rules: (a rejected mapping is removed; the model phase, its structure and the re
 | alias_not_applied:printed_formula_differs_from_alias | 2 |
 | alias_not_applied:same_model_as_another_phase_of_the_row | 36 |
 | alias_not_applied:temperature_outside_alias_range | 5 |
-| kept | 75254 |
+| kept | 75176 |
 | kept_by_system_alias | 1280 |
-| rejected | 2319 |
-| rejected:composition_outside_model_phase_range | 278 |
-| rejected:element_polymorph_contradicts_model | 412 |
+| rejected | 2397 |
+| rejected:composition_outside_model_phase_range | 244 |
+| rejected:element_polymorph_contradicts_model | 379 |
 | rejected:greek_label_not_an_element_polymorph_of_this_structure | 327 |
-| rejected:greek_or_compound_label_mapped_to_element_structure | 953 |
+| rejected:greek_or_compound_label_mapped_to_element_structure | 954 |
 | rejected:label_not_a_solution_or_structure_name | 205 |
 | rejected:liquid_label_mapped_to_non_liquid_model | 52 |
-| rejected:same_model_as_another_phase_of_the_row | 20 |
+| rejected:same_model_as_another_phase_of_the_row | 19 |
 | rejected:structure_word_contradicts_model | 45 |
+| rejected:terminal_element_absent_from_model_endmembers | 145 |
 | rejected:variable_formula_label_not_a_fixed_compound | 27 |
+| terminal_mapping_corrected | 369 |
 
 Per-system aliases (`tools/phase_aliases.json`, 64 aliases in 32 systems) applied before the rules: a conventional phase name of the record's binary system is mapped to that system's TDB phase when the printed composition / temperature agree (`model_phase_basis: system_alias:<id>`).
 
@@ -2229,12 +2273,12 @@ Most frequent rejected mappings:
 | FE-SB | β(FeSb) | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 18 |
 | AU-CE | βCe14Au51 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 17 |
 | AL-CU | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 16 |
-| CO-GE | α(Co) | DIAMOND_A4 | element_polymorph_contradicts_model | 16 |
+| CO-GE | α(Co) | DIAMOND_A4 | terminal_element_absent_from_model_endmembers | 16 |
 | AL-NI-W | α | DIAMOND_A4 | greek_label_not_an_element_polymorph_of_this_structure | 16 |
 | PT-TI | βTiPt | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 15 |
 | C-U | L(φ2) | GRAPHITE_A9 | liquid_label_mapped_to_non_liquid_model | 15 |
 | AU-IN | α1 | DHCP | greek_or_compound_label_mapped_to_element_structure | 14 |
-| GE-SC | (αSc) | DIAMOND_A4 | element_polymorph_contradicts_model | 14 |
+| GE-SC | (αSc) | DIAMOND_A4 | terminal_element_absent_from_model_endmembers | 14 |
 | NI-SB | (βNi3Sb) | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 14 |
 | AL-CR | βCr5Al8 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 13 |
 | AU-CE | αCe14Au51 | AUCE_B27 | composition_outside_model_phase_range | 13 |

@@ -1,10 +1,10 @@
 # Ni–Si system
 
-> Ni–Si system: 230 accepted literature values (invariant reaction 142, formation 53, phase transition 25, activity / EMF / Gibbs energy 6) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Si system: 225 accepted literature values (invariant reaction 137, formation 53, phase transition 25, activity / EMF / Gibbs energy 6) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SI.html · Markdown: https://data.orchid-project.org/systems/NI-SI.md
 
-230 accepted literature values from 6 paper(s) (experimental 115, model 77, DFT 8, unspecified 30); 10 calculated phase diagram(s).
+225 accepted literature values from 6 paper(s) (experimental 115, model 72, DFT 8, unspecified 30); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SI.json) · [CSV](https://data.orchid-project.org/systems/NI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SI/NiSi-01Tok.json) · [phases (19)](https://data.orchid-project.org/phases/pages/NI-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SI.html) · [Markdown](https://data.orchid-project.org/systems/NI-SI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 115 |
-| model | 77 |
+| model | 72 |
 | DFT | 8 |
 | unspecified | 30 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 142 |
+| invariant reaction | 137 |
 | phase transition | 25 |
 | formation | 53 |
 | activity / EMF / Gibbs energy | 6 |
@@ -266,14 +266,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–Si system (142)
+Table: Invariant reactions reported in the literature for the Ni–Si system (137)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1558.15 | congruent melting: Liquid -> θ | Liquid: Si 0.333; θ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 33; `ORC-SKAXD7EFFQ` |  |
 | 1556.15 | congruent melting: Liquid -> θ | Liquid: Ni 0.666667, Si 0.333333; θ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 34; `ORC-VOGF5KRC72` |  |
 | 1554.15 | congruent melting: Liquid -> θ | Liquid: Si 0.337; θ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 32; `ORC-PMHGTMAKJ6` |  |
-| 1545.15 | eutectic: L -> θ + C | L: Ni 0.6606, Si 0.3303; θ: Ni 0.6632, Si 0.3308; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 35; `ORC-ZPJ7AR22LM` |  |
 | 1540.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 47; `ORC-JL2E7JDX3H` |  |
 | 1529.15 | congruent melting: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 23; `ORC-64FIX5P6HC` |  |
 | 1528.15 | peritectic: Liquid + θ -> δ | Liquid: Si 0.308; θ: Si 0.334; δ: Si 0.333 | experimental | [1] Tokunaga 2003; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02868885) | Table 3, p. 6, row 30; `ORC-ILSFIQJ6YH` |  |
@@ -282,7 +281,6 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (14
 | 1524.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | unspecified | [2] Du 1999 | Table IV, p. 4, row 46; `ORC-ACXQCSEGGP` |  |
 | 1524.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | experimental | [2] Du 1999 | Table IV, p. 4, row 45; `ORC-QIDGPKHSGE` |  |
 | 1524.15 | peritectic: Liquid + θ -> δ | θ: Ni 0.666667, Si 0.333333; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 31; `ORC-X2FKXN3525` |  |
-| 1519.15 | L + θ -> δ + C | L: Ni 0.6886, Si 0.3024; θ: Ni 0.6645, Si 0.3355; δ: Ni 0.6667, Si 0.3333; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 5; `ORC-AKMADE5UWQ` |  |
 | 1517.15 | L–γ–δ | L: Si 0.296; γ: Si 0.289; δ: Si 0.333 | model | [3] Miettinen 2005; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 6, row 14; `ORC-2AOEI3LCAF` |  |
 | 1517.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 39; `ORC-FRPASAERIH` |  |
 | 1517.15 | congruent melting: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 21; `ORC-QFFJSG4RY4` |  |
@@ -292,10 +290,8 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (14
 | 1515.15 | eutectic: Liquid -> γ + δ | Liquid: Si 0.295; γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 25; `ORC-ZHGGEUH2QI` |  |
 | 1513.15 | L–γ–δ | L: Si 0.297; γ: Si 0.289; δ: Si 0.333 | model | [3] Miettinen 2005 | Table 4, p. 6, row 15; `ORC-FKCKIYS65F` |  |
 | 1513.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | unspecified | [2] Du 1999 | Table IV, p. 4, row 38; `ORC-XQAFZ7IB2J` |  |
-| 1506.15 | eutectic: L -> γ + C | L: Ni 0.7075, Si 0.283; γ: Ni 0.7143, Si 0.2857; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 38; `ORC-OAJ7WUFCYA` |  |
 | 1505.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | experimental | [2] Du 1999 | Table IV, p. 4, row 37; `ORC-UZX5GE53IB` |  |
 | 1505.15 | eutectic: Liquid -> γ + δ | γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 28; `ORC-WJGVHME2S3` |  |
-| 1504.15 | L -> γ + δ + C | L: Ni 0.6976, Si 0.2935; γ: Ni 0.7143, Si 0.2857; δ: Ni 0.6667, Si 0.3333; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 7; `ORC-2SB2NKTS52` |  |
 | 1504.15 | L–γ–δ | L: Si 0.314; γ: Si 0.289; δ: Si 0.333333 | experimental | [3] Miettinen 2005; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table 4, p. 6, row 13; `ORC-LF2V4PNYCU` |  |
 | 1504.15 | eutectic: Liquid -> γ + δ | γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 27; `ORC-MHLHVADIHU` |  |
 | 1504.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | experimental | [2] Du 1999; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table IV, p. 4, row 36; `ORC-VSCELSWS6U` |  |
@@ -347,7 +343,6 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (14
 | 1320.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | experimental | [2] Du 1999 | Table IV, p. 4, row 10; `ORC-KTY24Q3G6G` |  |
 | 1320.15 | peritectoid: (Ni) + β2 -> β1 | β2: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 12; `ORC-QCAB4WHTDG` |  |
 | 1315.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | unspecified | [2] Du 1999 | Table IV, p. 4, row 11; `ORC-E3U4TD6JRU` |  |
-| 1314.15 | (Ni) + β2 -> β1 + C | (Ni): Ni 0.831, Si 0.168; β2: Ni 0.75, Si 0.25; β1: Ni 0.7706, Si 0.2294; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 19; `ORC-TYWHJKW3LB` |  |
 | 1313.15 | fcc–β1–β2 | β1: Si 0.24; β2: Si 0.25 | experimental | [3] Miettinen 2005; _cites Iwase 1936_ | Table 4, p. 6, row 28; `ORC-A5N2NKTANC` |  |
 | 1313.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 7; `ORC-CPQDTDU2AP` |  |
 | 1309.15 | fcc–β1–β2 | fcc: Si 0.16; β1: Si 0.232; β2: Si 0.25 | model | [3] Miettinen 2005; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 6, row 31; `ORC-K4UQU7IFJ2` |  |
@@ -546,10 +541,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -558,7 +553,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -569,7 +564,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -579,7 +574,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -589,7 +584,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

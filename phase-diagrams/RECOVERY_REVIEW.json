@@ -1,0 +1,4026 @@
+{
+  "date": "2026-10-26",
+  "original_failed_entries": 54,
+  "recovered": [
+    "AlTi-92Kat.json",
+    "CuNb-90Ham-LB.json",
+    "CuO-92Bou.json",
+    "MgY-98Luk.json"
+  ],
+  "recovered_count": 4,
+  "retained_failed_count": 50,
+  "release_counts": {
+    "ok": 2722,
+    "failed": 52,
+    "total": 2774
+  },
+  "original_tdbs_modified": 0,
+  "literature_values_modified": 0,
+  "scope": "Previously failed calculations only; failing source files retained as dataset entries. Prior recovery runs and final expanded checks are distinct rounds.",
+  "records": [
+    {
+      "tdb": "CuO-03Hal-LB.tdb",
+      "source_sha256": "5836249ea01796391386fb449e9dd2373076cca4044c316e6297903b8b41a3c0",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "seeded-retry/results/CuO-03Hal-LB.json",
+          "sample_checks_passed": false,
+          "checks": 11,
+          "error": null
+        },
+        {
+          "candidate": "source-defaults-retry/results/CuO-03Hal-LB.json",
+          "sample_checks_passed": false,
+          "checks": 13,
+          "error": null
+        },
+        {
+          "candidate": "source-seeded-retry/results/CuO-03Hal-LB.json",
+          "sample_checks_passed": false,
+          "checks": 11,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "FeO-96Sel.tdb",
+      "source_sha256": "35ab77bc661f3ab6272f06b97a38e643cbe88e16823dff4fa12c758011b1e791",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-seeded-retry/results/FeO-96Sel.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "source-defaults-retry/results/FeO-96Sel.json",
+          "sample_checks_passed": false,
+          "checks": 17,
+          "error": null
+        },
+        {
+          "candidate": "numerical-retry/results/FeO-96Sel.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/FeO-96Sel.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "FeO-93Tay.tdb",
+      "source_sha256": "b5fe5c3fdd6ae4b496ed05ddba758c8a07cca10f0bdf2fecfff832c1605f5558",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [
+        {
+          "T_K": 300.0,
+          "x": 0.285715,
+          "expected": [
+            "BCC_A2",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "BCC_A2",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1803.92,
+          "x": 0.00203,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1801.62,
+          "x": 0.0027099999999999997,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 980.16,
+          "x": 0.25619,
+          "expected": [
+            "BCC_A2",
+            "HALITE_B1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HALITE_B1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1120.16,
+          "x": 0.25603499999999996,
+          "expected": [
+            "BCC_A2",
+            "HALITE_B1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HALITE_B1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 928.16,
+          "x": 0.256345,
+          "expected": [
+            "BCC_A2",
+            "HALITE_B1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HALITE_B1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 860.16,
+          "x": 0.25669,
+          "expected": [
+            "BCC_A2",
+            "HALITE_B1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HALITE_B1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 415.0,
+          "x": 0.285715,
+          "expected": [
+            "BCC_A2",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "BCC_A2",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 695.0,
+          "x": 0.285705,
+          "expected": [
+            "BCC_A2",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "BCC_A2",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2355.0,
+          "x": 0.777475,
+          "expected": [
+            "GAS",
+            "ION"
+          ],
+          "actual": [
+            "GAS",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2015.0,
+          "x": 0.7866299999999999,
+          "expected": [
+            "GAS",
+            "ION"
+          ],
+          "actual": [
+            "GAS",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2345.0,
+          "x": 0.26870499999999997,
+          "expected": [
+            "ION",
+            "ION#2"
+          ],
+          "actual": [
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 1975.0,
+          "x": 0.257185,
+          "expected": [
+            "ION",
+            "ION#2"
+          ],
+          "actual": [
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 1663.39,
+          "x": 0.25418999999999997,
+          "expected": [
+            "FCC_A1",
+            "ION"
+          ],
+          "actual": [
+            "FCC_A1",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1649.39,
+          "x": 0.25432499999999997,
+          "expected": [
+            "FCC_A1",
+            "ION"
+          ],
+          "actual": [
+            "FCC_A1",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1679.39,
+          "x": 0.2541,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1769.39,
+          "x": 0.253305,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1279.92,
+          "x": 0.25604,
+          "expected": [
+            "FCC_A1",
+            "HALITE_B1"
+          ],
+          "actual": [
+            "FCC_A1",
+            "HALITE_B1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1529.92,
+          "x": 0.25612999999999997,
+          "expected": [
+            "FCC_A1",
+            "HALITE_B1"
+          ],
+          "actual": [
+            "FCC_A1",
+            "HALITE_B1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1027.32,
+          "x": 0.548705,
+          "expected": [
+            "HALITE_B1",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "HALITE_B1",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1477.32,
+          "x": 0.5553250000000001,
+          "expected": [
+            "HALITE_B1",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "HALITE_B1",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1838.57,
+          "x": 0.788405,
+          "expected": [
+            "GAS",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "O2GAS",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 1758.57,
+          "x": 0.78946,
+          "expected": [
+            "GAS",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "GAS",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1854.57,
+          "x": 0.578515,
+          "expected": [
+            "ION",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "ION",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1860.57,
+          "x": 0.5770299999999999,
+          "expected": [
+            "ION",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "ION",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1647.53,
+          "x": 0.51237,
+          "expected": [
+            "HALITE_B1",
+            "ION"
+          ],
+          "actual": [
+            "HALITE_B1",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1679.53,
+          "x": 0.53325,
+          "expected": [
+            "HALITE_B1",
+            "ION"
+          ],
+          "actual": [
+            "HALITE_B1",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1720.41,
+          "x": 0.55775,
+          "expected": [
+            "ION",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "ION",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1840.41,
+          "x": 0.566325,
+          "expected": [
+            "ION",
+            "SPINEL_H11"
+          ],
+          "actual": [
+            "ION",
+            "SPINEL_H11"
+          ],
+          "finite_GM": true,
+          "pass": true
+        }
+      ],
+      "prior_variant_reviews": [],
+      "reason": "Final expanded equilibrium validation failed"
+    },
+    {
+      "tdb": "VO-15Yan-ver2.tdb",
+      "source_sha256": "a7dd3bc52b4ee65022d13879d8801027ecaf3c2b5881cf558c7bb09583e08d80",
+      "decision": "retained_failed",
+      "original_error": "AssertionError: ",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "seeded-retry/results/VO-15Yan-ver2.json",
+          "sample_checks_passed": false,
+          "checks": 0,
+          "error": "ValueError('No mapped phase boundaries; success cannot be established')"
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "MgY-98Luk.tdb",
+      "source_sha256": "68740131a132fee3651ec3eb1fd044d3a56428ed2828054a4818d2079e1115cc",
+      "decision": "recovered",
+      "original_error": "IndexError: tuple index out of range",
+      "validation_checks": [
+        {
+          "T_K": 301.08,
+          "x": 0.749915,
+          "expected": [
+            "HCP_A3",
+            "MGY_B2"
+          ],
+          "actual": [
+            "HCP_A3",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 908.0,
+          "x": 0.012445000000000001,
+          "expected": [
+            "HCP_A3",
+            "LIQUID"
+          ],
+          "actual": [
+            "HCP_A3",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 868.0,
+          "x": 0.04496,
+          "expected": [
+            "HCP_A3",
+            "LIQUID"
+          ],
+          "actual": [
+            "HCP_A3",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1586.15,
+          "x": 0.903725,
+          "expected": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1246.15,
+          "x": 0.792025,
+          "expected": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1650.15,
+          "x": 0.8822000000000001,
+          "expected": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "actual": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1350.15,
+          "x": 0.64134,
+          "expected": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "actual": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 724.59,
+          "x": 0.08238500000000001,
+          "expected": [
+            "HCP_A3",
+            "MG24Y5_A12"
+          ],
+          "actual": [
+            "HCP_A3",
+            "MG24Y5_A12"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 424.59,
+          "x": 0.080635,
+          "expected": [
+            "HCP_A3",
+            "MG24Y5_A12"
+          ],
+          "actual": [
+            "HCP_A3",
+            "MG24Y5_A12"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 852.59,
+          "x": 0.11121,
+          "expected": [
+            "LIQUID",
+            "MG24Y5_A12"
+          ],
+          "actual": [
+            "LIQUID",
+            "MG24Y5_A12"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 884.59,
+          "x": 0.14185999999999999,
+          "expected": [
+            "LIQUID",
+            "MG24Y5_A12"
+          ],
+          "actual": [
+            "LIQUID",
+            "MG24Y5_A12"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 921.08,
+          "x": 0.699785,
+          "expected": [
+            "HCP_A3",
+            "MGY_B2"
+          ],
+          "actual": [
+            "HCP_A3",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 501.08,
+          "x": 0.746705,
+          "expected": [
+            "HCP_A3",
+            "MGY_B2"
+          ],
+          "actual": [
+            "HCP_A3",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1111.08,
+          "x": 0.59295,
+          "expected": [
+            "BCC_A2",
+            "MGY_B2"
+          ],
+          "actual": [
+            "BCC_A2",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1191.08,
+          "x": 0.55918,
+          "expected": [
+            "BCC_A2",
+            "MGY_B2"
+          ],
+          "actual": [
+            "BCC_A2",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1190.82,
+          "x": 0.44371,
+          "expected": [
+            "LIQUID",
+            "MGY_B2"
+          ],
+          "actual": [
+            "LIQUID",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1090.82,
+          "x": 0.38626499999999997,
+          "expected": [
+            "LIQUID",
+            "MGY_B2"
+          ],
+          "actual": [
+            "LIQUID",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 756.96,
+          "x": 0.24996000000000002,
+          "expected": [
+            "MG24Y5_A12",
+            "MG2Y_C14"
+          ],
+          "actual": [
+            "MG24Y5_A12",
+            "MG2Y_C14"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 436.96,
+          "x": 0.252635,
+          "expected": [
+            "MG24Y5_A12",
+            "MG2Y_C14"
+          ],
+          "actual": [
+            "MG24Y5_A12",
+            "MG2Y_C14"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 916.96,
+          "x": 0.24510500000000002,
+          "expected": [
+            "LIQUID",
+            "MG2Y_C14"
+          ],
+          "actual": [
+            "LIQUID",
+            "MG2Y_C14"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1016.96,
+          "x": 0.277295,
+          "expected": [
+            "LIQUID",
+            "MG2Y_C14"
+          ],
+          "actual": [
+            "LIQUID",
+            "MG2Y_C14"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1035.63,
+          "x": 0.286575,
+          "expected": [
+            "LIQUID",
+            "MG2Y_C14"
+          ],
+          "actual": [
+            "LIQUID",
+            "MG2Y_C14"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 935.63,
+          "x": 0.24988,
+          "expected": [
+            "LIQUID",
+            "MG2Y_C14"
+          ],
+          "actual": [
+            "LIQUID",
+            "MG2Y_C14"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 885.63,
+          "x": 0.40925500000000004,
+          "expected": [
+            "MG2Y_C14",
+            "MGY_B2"
+          ],
+          "actual": [
+            "MG2Y_C14",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 485.63,
+          "x": 0.41617000000000004,
+          "expected": [
+            "MG2Y_C14",
+            "MGY_B2"
+          ],
+          "actual": [
+            "MG2Y_C14",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1085.63,
+          "x": 0.384155,
+          "expected": [
+            "LIQUID",
+            "MGY_B2"
+          ],
+          "actual": [
+            "LIQUID",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1185.63,
+          "x": 0.439055,
+          "expected": [
+            "LIQUID",
+            "MGY_B2"
+          ],
+          "actual": [
+            "LIQUID",
+            "MGY_B2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 890.22,
+          "x": 0.15039999999999998,
+          "expected": [
+            "LIQUID",
+            "MG24Y5_A12"
+          ],
+          "actual": [
+            "LIQUID",
+            "MG24Y5_A12"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 858.67,
+          "x": 0.11630499999999999,
+          "expected": [
+            "LIQUID",
+            "MG24Y5_A12"
+          ],
+          "actual": [
+            "LIQUID",
+            "MG24Y5_A12"
+          ],
+          "finite_GM": true,
+          "pass": true
+        }
+      ]
+    },
+    {
+      "tdb": "TiO-15Ham.tdb",
+      "source_sha256": "e95d8422ca5608f30f90b56b0ec2ee23adc31105244ad338c052df37168e807c",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-seeded-retry/results/TiO-15Ham.json",
+          "sample_checks_passed": true,
+          "checks": 2,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/TiO-15Ham.json",
+          "sample_checks_passed": false,
+          "checks": 10,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "WC-22He-3g.tdb",
+      "source_sha256": "c5248688e6b030edb338d5e1a573501edcaf687f4501cea1594bb28130cc51bd",
+      "decision": "retained_failed",
+      "original_error": "ParseException: Invalid TDB syntax.\n  PAR  LNTHETA1(GRAPHITE_A9,C),,         +LN(1953.2502);,,             N 18BIG \n               ^, found '('  (at char 1213), (line:74, col:15)",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "BaO-05Zho.tdb",
+      "source_sha256": "c272fdb1966d275bf330e2ba74be8003d23a3ac101032400fe8b4084c18c2599",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-defaults-retry/results/BaO-05Zho.json",
+          "sample_checks_passed": false,
+          "checks": 13,
+          "error": null
+        },
+        {
+          "candidate": "source-seeded-retry/results/BaO-05Zho.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/BaO-05Zho.json",
+          "sample_checks_passed": false,
+          "checks": 8,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "TiV-20Hu-3g.tdb",
+      "source_sha256": "293508406ba966643cf64883a95d5b576e11f66497f4c1ffdaff0936f37bea4d",
+      "decision": "retained_failed",
+      "original_error": "ParseException: Invalid TDB syntax.\n  PAR  LNTHETA1(HCP_A3,TI:VA),,          +LN(269.66);,,                N 20HU \n               ^, found '('  (at char 1106), (line:63, col:15)",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "PdO-22Lau.tdb",
+      "source_sha256": "2a4381b59d9a925410e847965fc5b6ca7082a3c8553eeea67114cd35f8fbaeed",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-seeded-retry/results/PdO-22Lau.json",
+          "sample_checks_passed": false,
+          "checks": 17,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/PdO-22Lau.json",
+          "sample_checks_passed": false,
+          "checks": 17,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "MgS-16Dil.tdb",
+      "source_sha256": "d52b8ac82d16b6a6cba168469ee472e8ed63283781163970c94e9025fe99139a",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-seeded-retry/results/MgS-16Dil.json",
+          "sample_checks_passed": false,
+          "checks": 14,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/MgS-16Dil.json",
+          "sample_checks_passed": false,
+          "checks": 14,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "SiZn-24Zob-3g.tdb",
+      "source_sha256": "cb2045515769b6f8aad2645cc4f8f7077bfc307c93bd36769769b90695d7d215",
+      "decision": "retained_failed",
+      "original_error": "ParseException: Invalid TDB syntax.\n  PAR  LNTHETA1(DIAMOND_A4,SI),,         +LN(615.45);,,                N 23BAJ \n               ^, found '('  (at char 1058), (line:66, col:15)",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "ReW-02Fri.tdb",
+      "source_sha256": "e4eb2c9648c73235a3c11662fd788b80decfe3cfc78e53c6a2cfa594fdacb00f",
+      "decision": "retained_failed",
+      "original_error": "ValueError: NEVER_DIS_PAR does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER']",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "BN-96Kas-LB.tdb",
+      "source_sha256": "096fb32cd247bf91152741bf5534c6c8c4dee4f19c42684e335be4c1ab602f41",
+      "decision": "retained_failed",
+      "original_error": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0xfc in position 285: invalid start byte",
+      "validation_checks": [
+        {
+          "T_K": 2675.0,
+          "x": 0.499965,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2408.46,
+          "x": 0.75,
+          "expected": [
+            "BN_BK",
+            "GAS"
+          ],
+          "actual": [
+            "BN_BK",
+            "GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2588.46,
+          "x": 0.7499750000000001,
+          "expected": [
+            "BN_BK",
+            "GAS"
+          ],
+          "actual": [
+            "BN_BK",
+            "GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1848.46,
+          "x": 0.75,
+          "expected": [
+            "BN_BK",
+            "GAS"
+          ],
+          "actual": [
+            "BN_BK",
+            "GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 808.46,
+          "x": 0.75,
+          "expected": [
+            "BN_BK",
+            "GAS"
+          ],
+          "actual": [
+            "BN_BK",
+            "N2GAS"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 725.0,
+          "x": 0.75,
+          "expected": [
+            "BN_BK",
+            "N2GAS"
+          ],
+          "actual": [
+            "BN_BK",
+            "N2GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1625.0,
+          "x": 0.75,
+          "expected": [
+            "BN_BK",
+            "N2GAS"
+          ],
+          "actual": [
+            "BN_BK",
+            "GAS"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 795.0,
+          "x": 0.25,
+          "expected": [
+            "BETA_RHOMBO_B",
+            "BN_BK"
+          ],
+          "actual": [
+            "BETA_RHOMBO_B",
+            "BN_BK"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1835.0,
+          "x": 0.25,
+          "expected": [
+            "BETA_RHOMBO_B",
+            "BN_BK"
+          ],
+          "actual": [
+            "BETA_RHOMBO_B",
+            "BN_BK"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 3685.0,
+          "x": 0.459565,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 3005.0,
+          "x": 0.49909,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2606.08,
+          "x": 0.25003,
+          "expected": [
+            "BN_BK",
+            "LIQUID"
+          ],
+          "actual": [
+            "BN_BK",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2426.08,
+          "x": 0.25001,
+          "expected": [
+            "BN_BK",
+            "LIQUID"
+          ],
+          "actual": [
+            "BN_BK",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        }
+      ],
+      "prior_variant_reviews": [],
+      "reason": "Final expanded equilibrium validation failed"
+    },
+    {
+      "tdb": "unary50_bengt.tdb",
+      "source_sha256": "ecbb7f4edbfb75f0017f40a9e596720ddec4b14c7a92bf781fc289df1e9d47cc",
+      "decision": "retained_failed",
+      "original_error": "ParseException: Invalid TDB syntax.\n  ELEMENT I    ORTHORHOMBIC_?            126.90      6598.0    116.14   \n                            ^, found '?'  (at char 2501), (line:148, col:28)",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "FeSi-12Ohn.tdb",
+      "source_sha256": "e67d734746ab4b1cf86877a37e46153c8bfb38f8d3b7e0e08dd59538463fead3",
+      "decision": "retained_failed",
+      "original_error": "ValueError: Order (BCC_4SL) and disordered (A2_BCC) model must have the same interstitial to sublattice ratios. 1.0 != 3.0",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "ZrO-06Wan.tdb",
+      "source_sha256": "942aa0afdfa355d9657dd2d254c6cc8c33db4bec08a2b96d17229e610d4a8247",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [
+        {
+          "T_K": 300.0,
+          "x": 0.47117,
+          "expected": [
+            "HCP_A3",
+            "ZRO2_MONO"
+          ],
+          "actual": [
+            "HCP_A3",
+            "ZRO2_MONO"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2152.86,
+          "x": 0.01391,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2212.86,
+          "x": 0.05751,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1414.01,
+          "x": 0.060305,
+          "expected": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1974.01,
+          "x": 0.13145,
+          "expected": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2703.43,
+          "x": 0.8333200000000001,
+          "expected": [
+            "FLUORITE_C1",
+            "GAS"
+          ],
+          "actual": [
+            "FLUORITE_C1",
+            "GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2903.43,
+          "x": 0.833295,
+          "expected": [
+            "FLUORITE_C1",
+            "GAS"
+          ],
+          "actual": [
+            "FLUORITE_C1",
+            "GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2625.43,
+          "x": 0.833325,
+          "expected": [
+            "FLUORITE_C1",
+            "GAS"
+          ],
+          "actual": [
+            "FLUORITE_C1",
+            "GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2593.43,
+          "x": 0.833325,
+          "expected": [
+            "FLUORITE_C1",
+            "GAS"
+          ],
+          "actual": [
+            "FLUORITE_C1",
+            "GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 301.0,
+          "x": 0.47118499999999996,
+          "expected": [
+            "HCP_A3",
+            "ZRO2_MONO"
+          ],
+          "actual": [
+            "HCP_A3",
+            "ZRO2_MONO"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 307.0,
+          "x": 0.5,
+          "expected": [
+            "HCP_A3",
+            "ZRO2_MONO"
+          ],
+          "actual": [],
+          "finite_GM": false,
+          "pass": false
+        },
+        {
+          "T_K": 301.0,
+          "x": 0.8333349999999999,
+          "expected": [
+            "O2GAS",
+            "ZRO2_MONO"
+          ],
+          "actual": [
+            "O2GAS",
+            "ZRO2_MONO"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 307.0,
+          "x": 0.8333349999999999,
+          "expected": [
+            "O2GAS",
+            "ZRO2_MONO"
+          ],
+          "actual": [
+            "O2GAS",
+            "ZRO2_MONO"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 3765.0,
+          "x": 0.82809,
+          "expected": [
+            "GAS",
+            "ION"
+          ],
+          "actual": [
+            "GAS",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 3235.0,
+          "x": 0.83316,
+          "expected": [
+            "GAS",
+            "ION"
+          ],
+          "actual": [
+            "GAS",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2267.11,
+          "x": 0.16103,
+          "expected": [
+            "HCP_A3",
+            "ION"
+          ],
+          "actual": [
+            "HCP_A3",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2367.11,
+          "x": 0.23054,
+          "expected": [
+            "HCP_A3",
+            "ION"
+          ],
+          "actual": [
+            "HCP_A3",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 3009.19,
+          "x": 0.6657599999999999,
+          "expected": [
+            "FLUORITE_C1",
+            "ION"
+          ],
+          "actual": [
+            "FLUORITE_C1",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 3049.19,
+          "x": 0.663285,
+          "expected": [
+            "FLUORITE_C1",
+            "ION"
+          ],
+          "actual": [
+            "FLUORITE_C1",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        }
+      ],
+      "prior_variant_reviews": [],
+      "reason": "Final expanded equilibrium validation failed"
+    },
+    {
+      "tdb": "CuO-92Bou.tdb",
+      "source_sha256": "01c48e87b93fb30f817411232690b694a306f3b90f586840e3ef2d4366420673",
+      "decision": "recovered",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [
+        {
+          "T_K": 2474.72,
+          "x": 0.593195,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1354.77,
+          "x": 0.0013700000000000001,
+          "expected": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "actual": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1342.77,
+          "x": 0.007195,
+          "expected": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "actual": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1764.72,
+          "x": 0.68277,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2264.72,
+          "x": 0.6590699999999999,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1524.72,
+          "x": 0.690715,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1424.72,
+          "x": 0.6943,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 307.0,
+          "x": 0.75,
+          "expected": [
+            "CUO",
+            "FCC_A1"
+          ],
+          "actual": [
+            "CUO",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 365.0,
+          "x": 0.75,
+          "expected": [
+            "CUO",
+            "FCC_A1"
+          ],
+          "actual": [
+            "CUO",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 300.0,
+          "x": 0.416665,
+          "expected": [
+            "CUO",
+            "CUPRITE_C3"
+          ],
+          "actual": [
+            "CUO",
+            "CUPRITE_C3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 303.0,
+          "x": 0.416665,
+          "expected": [
+            "CUO",
+            "CUPRITE_C3"
+          ],
+          "actual": [
+            "CUO",
+            "CUPRITE_C3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 315.0,
+          "x": 0.166665,
+          "expected": [
+            "CUPRITE_C3",
+            "FCC_A1"
+          ],
+          "actual": [
+            "CUPRITE_C3",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 415.0,
+          "x": 0.166665,
+          "expected": [
+            "CUPRITE_C3",
+            "FCC_A1"
+          ],
+          "actual": [
+            "CUPRITE_C3",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2245.0,
+          "x": 0.661255,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1665.0,
+          "x": 0.68598,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        }
+      ]
+    },
+    {
+      "tdb": "AlMn-18Zhe-mod.tdb",
+      "source_sha256": "383980a3e00505bb1bea7325a5b78cf50664df19adce679e7fa7139775d78dbf",
+      "decision": "retained_failed",
+      "original_error": "ValueError: Order (BCC_4SL) and disordered (A2_BCC) model must have the same interstitial to sublattice ratios. 1.0 != 3.0",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "FeMn-23Wal-3g.tdb",
+      "source_sha256": "0a45fb50f8000f27709bb507e430bf608c79cc6965e209cca94ae1fcdfb0c945",
+      "decision": "retained_failed",
+      "original_error": "ValueError: STATUS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER']",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "FeO-95Kow.tdb",
+      "source_sha256": "4b25481824b6c6779b0d82a9bdb7bd5262ff1e4bcaaf8c983a83b5c2eb0a3520",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-seeded-retry/results/FeO-95Kow.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "source-defaults-retry/results/FeO-95Kow.json",
+          "sample_checks_passed": false,
+          "checks": 17,
+          "error": null
+        },
+        {
+          "candidate": "numerical-retry/results/FeO-95Kow.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/FeO-95Kow.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "SiO-20Baj-3g.tdb",
+      "source_sha256": "ad6c07bdbf4999c89504998debcfa96acedcbd303c8364b7c321693a0b91978c",
+      "decision": "retained_failed",
+      "original_error": "ParseException: Invalid TDB syntax.\n  PAR  LNTHETA1(SIO2_L,SIO2),,           +LN(105.58);,,                N 20BAJ \n               ^, found '('  (at char 6225), (line:237, col:15)",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "TiO-17Ila.tdb",
+      "source_sha256": "8e488837402ac5c9f8b5348816b1416042b96e212f9c9aeb408c934ab52417a0",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-seeded-retry/results/TiO-17Ila.json",
+          "sample_checks_passed": true,
+          "checks": 7,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/TiO-17Ila.json",
+          "sample_checks_passed": false,
+          "checks": 9,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "ZnS-17Gua.tdb",
+      "source_sha256": "d2ec903c3b000caed8935d4e5a47985ad62ff2bd70028c98097ffba3aa9560c9",
+      "decision": "retained_failed",
+      "original_error": "AssertionError: ",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "seeded-retry/results/ZnS-17Gua.json",
+          "sample_checks_passed": false,
+          "checks": 0,
+          "error": "ValueError('No mapped phase boundaries; success cannot be established')"
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "MnTi-23Wal-3g.tdb",
+      "source_sha256": "d277a6ab26486e941621177a2d5ea6f35b5fb84acd67fe744f0ff750f67f8b4c",
+      "decision": "retained_failed",
+      "original_error": "ValueError: STATUS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER']",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "TiO-17Yan.tdb",
+      "source_sha256": "f79af7f26633b1d664d2a44a87efea098b4ae288e3ac3eb1676c1a996cd08647",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [
+        {
+          "T_K": 2500.0,
+          "x": 0.8316950000000001,
+          "expected": [
+            "GAS",
+            "ION"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 1956.0,
+          "x": 0.00762,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2006.0,
+          "x": 0.046885,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 1369.99,
+          "x": 0.05612,
+          "expected": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1809.99,
+          "x": 0.098275,
+          "expected": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 300.0,
+          "x": 0.55,
+          "expected": [
+            "CORUNDUM_D51",
+            "TIO_ALPHA"
+          ],
+          "actual": [
+            "CORUNDUM_D51",
+            "TIO_ALPHA"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 303.0,
+          "x": 0.55,
+          "expected": [
+            "CORUNDUM_D51",
+            "TIO_ALPHA"
+          ],
+          "actual": [
+            "CORUNDUM_D51",
+            "TIO_ALPHA"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 495.0,
+          "x": 0.36665000000000003,
+          "expected": [
+            "HCP_A3",
+            "TI3O2"
+          ],
+          "actual": [
+            "HCP_A3",
+            "TI3O2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 965.0,
+          "x": 0.36664,
+          "expected": [
+            "HCP_A3",
+            "TI3O2"
+          ],
+          "actual": [
+            "HCP_A3",
+            "TI3O2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 301.0,
+          "x": 0.8333349999999999,
+          "expected": [
+            "O2GAS",
+            "RUTILE_C4"
+          ],
+          "actual": [
+            "O2GAS",
+            "RUTILE_C4"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 307.0,
+          "x": 0.8333349999999999,
+          "expected": [
+            "O2GAS",
+            "RUTILE_C4"
+          ],
+          "actual": [
+            "O2GAS",
+            "RUTILE_C4"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 302.0,
+          "x": 0.366655,
+          "expected": [
+            "HCP_A3",
+            "TI3O2"
+          ],
+          "actual": [
+            "HCP_A3",
+            "TI3O2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 326.0,
+          "x": 0.366655,
+          "expected": [
+            "HCP_A3",
+            "TI3O2"
+          ],
+          "actual": [
+            "HCP_A3",
+            "TI3O2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2497.0,
+          "x": 0.83172,
+          "expected": [
+            "GAS",
+            "ION"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 2445.0,
+          "x": 0.832145,
+          "expected": [
+            "GAS",
+            "ION"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 2499.0,
+          "x": 0.831705,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2475.0,
+          "x": 0.8319,
+          "expected": [
+            "GAS",
+            "LIQUID"
+          ],
+          "actual": [
+            "GAS",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2041.59,
+          "x": 0.11760999999999999,
+          "expected": [
+            "HCP_A3",
+            "ION"
+          ],
+          "actual": [
+            "HCP_A3",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2141.59,
+          "x": 0.22222999999999998,
+          "expected": [
+            "HCP_A3",
+            "ION"
+          ],
+          "actual": [
+            "HCP_A3",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        }
+      ],
+      "prior_variant_reviews": [],
+      "reason": "Final expanded equilibrium validation failed"
+    },
+    {
+      "tdb": "AlSi-24Zob-3g.tdb",
+      "source_sha256": "b0c946d2832b32671d74ccdb9d457394aaabcd8902d519bb037aba7f14a1beee",
+      "decision": "retained_failed",
+      "original_error": "ParseException: Invalid TDB syntax.\n       PAR  LNTHETA1(FCC_A1,AL:VA),,          +LN(294.414);,,               N 20DIN \n                    ^, found '('  (at char 972), (line:59, col:15)",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "ScO-07Zin.tdb",
+      "source_sha256": "a132779ee2320a7d3df07744812cfed53f1b095097c12caf4c952beac6c9f026",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [
+        {
+          "T_K": 1759.0,
+          "x": 0.01413,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1649.0,
+          "x": 0.04213,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 300.0,
+          "x": 0.3,
+          "expected": [
+            "C_R2O3_D53",
+            "HCP_A3"
+          ],
+          "actual": [
+            "C_R2O3_D53",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 301.0,
+          "x": 0.3,
+          "expected": [
+            "C_R2O3_D53",
+            "HCP_A3"
+          ],
+          "actual": [
+            "C_R2O3_D53",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 300.0,
+          "x": 0.8,
+          "expected": [
+            "C_R2O3_D53",
+            "O2GAS"
+          ],
+          "actual": [
+            "C_R2O3_D53",
+            "O2GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 303.0,
+          "x": 0.8,
+          "expected": [
+            "C_R2O3_D53",
+            "O2GAS"
+          ],
+          "actual": [],
+          "finite_GM": false,
+          "pass": false
+        },
+        {
+          "T_K": 2485.0,
+          "x": 0.8,
+          "expected": [
+            "C_R2O3_D53",
+            "O2GAS"
+          ],
+          "actual": [
+            "C_R2O3_D53",
+            "O2GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2405.0,
+          "x": 0.8,
+          "expected": [
+            "C_R2O3_D53",
+            "O2GAS"
+          ],
+          "actual": [
+            "C_R2O3_D53",
+            "O2GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1582.99,
+          "x": 0.060475,
+          "expected": [
+            "HCP_A3",
+            "ION"
+          ],
+          "actual": [
+            "HCP_A3",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1472.99,
+          "x": 0.093855,
+          "expected": [
+            "HCP_A3",
+            "ION"
+          ],
+          "actual": [
+            "HCP_A3",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        }
+      ],
+      "prior_variant_reviews": [],
+      "reason": "Final expanded equilibrium validation failed"
+    },
+    {
+      "tdb": "AlMn-12Dju.tdb",
+      "source_sha256": "2ec7184c9b84351908598a880e4d0176e30f74e4a256b777356e1701f23ce40a",
+      "decision": "retained_failed",
+      "original_error": "ValueError: Order (BCC_4SL) and disordered (A2_BCC) model must have the same interstitial to sublattice ratios. 1.0 != 3.0",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "LaO-05Che.tdb",
+      "source_sha256": "1155c814b96cef9ef04de933dc6d26e99180b4070297aa44ec74fcc8757b94b6",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-seeded-retry/results/LaO-05Che.json",
+          "sample_checks_passed": true,
+          "checks": 17,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/LaO-05Che.json",
+          "sample_checks_passed": true,
+          "checks": 33,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "EuMg-08Tao.tdb",
+      "source_sha256": "8aec385f6e458adc234d76fdd9a087fc5b47e355e428ec94cfaf629eb74c2893",
+      "decision": "retained_failed",
+      "original_error": "ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2_BCC DIS_PART BCC_A2 `",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-defaults-retry/results/EuMg-08Tao.json",
+          "sample_checks_passed": false,
+          "checks": 57,
+          "error": null
+        },
+        {
+          "candidate": "numerical-retry/results/EuMg-08Tao.json",
+          "sample_checks_passed": false,
+          "checks": 58,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/EuMg-08Tao.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "source-seeded-retry/results/EuMg-08Tao.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "FeO-09Pov.tdb",
+      "source_sha256": "e44f811ba37703b5c787a6e1ea9c4aaf200733e9486ac3342f52f6e56a21d3a0",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "numerical-retry/results/FeO-09Pov.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/FeO-09Pov.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "source-seeded-retry/results/FeO-09Pov.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "source-defaults-retry/results/FeO-09Pov.json",
+          "sample_checks_passed": false,
+          "checks": 17,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "YO-96Gro.tdb",
+      "source_sha256": "5a6e383e878345174b75724e97c6c604eac1e52658c2889de059720c5b40d6e2",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "seeded-retry/results/YO-96Gro.json",
+          "sample_checks_passed": true,
+          "checks": 15,
+          "error": null
+        },
+        {
+          "candidate": "source-seeded-retry/results/YO-96Gro.json",
+          "sample_checks_passed": true,
+          "checks": 15,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "FeSi-17Cui.tdb",
+      "source_sha256": "93d3ce80d5ece2c2aaba3e0410cf53d17fb26458c97d884abc9a681326a5eb78",
+      "decision": "retained_failed",
+      "original_error": "ValueError: Order (BCC_4SL) and disordered (A2_BCC) model must have the same interstitial to sublattice ratios. 1.0 != 3.0",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "MoRe-13Mat-edited.tdb",
+      "source_sha256": "3b1f735389437e5b429f455014a9901780c2c19d883d558da94b0971a2fd74a2",
+      "decision": "retained_failed",
+      "original_error": "ValueError: NEVER_DIS_PAR does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER']",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "FeO-91Sun-LB.tdb",
+      "source_sha256": "0670fd1794f0d2b7a955c6e5ecbbbdbd9a62e8c33912ce376c5ef47191527406",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-seeded-retry/results/FeO-91Sun-LB.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "numerical-retry/results/FeO-91Sun-LB.json",
+          "sample_checks_passed": false,
+          "checks": 17,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/FeO-91Sun-LB.json",
+          "sample_checks_passed": false,
+          "checks": 36,
+          "error": null
+        },
+        {
+          "candidate": "source-defaults-retry/results/FeO-91Sun-LB.json",
+          "sample_checks_passed": false,
+          "checks": 17,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "FeO-23Jia.tdb",
+      "source_sha256": "16bc7d5f6d3971dfa4f628d243a7d4a90c5ef0b19a8d7d1254a386a40ae31aaa",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "seeded-retry/results/FeO-23Jia.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "numerical-retry/results/FeO-23Jia.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "source-seeded-retry/results/FeO-23Jia.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "source-defaults-retry/results/FeO-23Jia.json",
+          "sample_checks_passed": false,
+          "checks": 17,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "CrRe-10Pal.tdb",
+      "source_sha256": "314bff08cc3956356cd2f99f59483eba22429ca9d489b5c4164b59937c70a17a",
+      "decision": "retained_failed",
+      "original_error": "ValueError: STATUS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER']",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "YO-98Swa-orig.tdb",
+      "source_sha256": "008445aaef3a7ed9e208bbed5b2b1ecde5a551aefffda72480f1eadfee4dc1df",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "seeded-retry/results/YO-98Swa-orig.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "source-seeded-retry/results/YO-98Swa-orig.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "LaO-23Nak.tdb",
+      "source_sha256": "adfa607e0c6b94f2e9ed8e741eb2dd16d2db5c0f9c6d13db843e5c896e6ff2f7",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [
+        {
+          "T_K": 300.0,
+          "x": 0.299995,
+          "expected": [
+            "A_LA2O3_D52",
+            "DHCP"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "DHCP"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 345.0,
+          "x": 0.299985,
+          "expected": [
+            "A_LA2O3_D52",
+            "DHCP"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "DHCP"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 485.0,
+          "x": 0.29988,
+          "expected": [
+            "A_LA2O3_D52",
+            "DHCP"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "DHCP"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 505.0,
+          "x": 0.8,
+          "expected": [
+            "A_LA2O3_D52",
+            "O2GAS"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "O2GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 965.0,
+          "x": 0.8,
+          "expected": [
+            "A_LA2O3_D52",
+            "O2GAS"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "O2GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2485.0,
+          "x": 0.5655399999999999,
+          "expected": [
+            "ION",
+            "X_LA2O3"
+          ],
+          "actual": [
+            "ION",
+            "X_LA2O3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2405.0,
+          "x": 0.558925,
+          "expected": [
+            "ION",
+            "X_LA2O3"
+          ],
+          "actual": [
+            "ION",
+            "X_LA2O3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2485.0,
+          "x": 0.799975,
+          "expected": [
+            "GAS",
+            "X_LA2O3"
+          ],
+          "actual": [
+            "GAS",
+            "X_LA2O3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2405.0,
+          "x": 0.799985,
+          "expected": [
+            "GAS",
+            "X_LA2O3"
+          ],
+          "actual": [
+            "GAS",
+            "X_LA2O3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2379.84,
+          "x": 0.5567,
+          "expected": [
+            "H_LA2O3",
+            "ION"
+          ],
+          "actual": [
+            "H_LA2O3",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2327.84,
+          "x": 0.549295,
+          "expected": [
+            "H_LA2O3",
+            "ION"
+          ],
+          "actual": [
+            "H_LA2O3",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2379.84,
+          "x": 0.799985,
+          "expected": [
+            "GAS",
+            "H_LA2O3"
+          ],
+          "actual": [
+            "GAS",
+            "H_LA2O3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2327.84,
+          "x": 0.79999,
+          "expected": [
+            "GAS",
+            "H_LA2O3"
+          ],
+          "actual": [
+            "GAS",
+            "H_LA2O3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2047.72,
+          "x": 0.48736999999999997,
+          "expected": [
+            "A_LA2O3_D52",
+            "ION"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1467.59,
+          "x": 0.30636,
+          "expected": [
+            "A_LA2O3_D52",
+            "ION"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1827.72,
+          "x": 0.8,
+          "expected": [
+            "A_LA2O3_D52",
+            "GAS"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "GAS"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 797.72,
+          "x": 0.8,
+          "expected": [
+            "A_LA2O3_D52",
+            "GAS"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "O2GAS"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 1180.3,
+          "x": 0.296975,
+          "expected": [
+            "A_LA2O3_D52",
+            "BCC_A2"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "BCC_A2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1148.3,
+          "x": 0.29715,
+          "expected": [
+            "A_LA2O3_D52",
+            "BCC_A2"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "BCC_A2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1183.3,
+          "x": 0.002635,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "A_LA2O3_D52",
+            "BCC_A2"
+          ],
+          "finite_GM": true,
+          "pass": false
+        },
+        {
+          "T_K": 1186.3,
+          "x": 0.0018,
+          "expected": [
+            "BCC_A2",
+            "ION"
+          ],
+          "actual": [
+            "BCC_A2",
+            "ION"
+          ],
+          "finite_GM": true,
+          "pass": true
+        }
+      ],
+      "prior_variant_reviews": [],
+      "reason": "Final expanded equilibrium validation failed"
+    },
+    {
+      "tdb": "MgO-93Hal-LB.tdb",
+      "source_sha256": "b656673952720e1978f377782b2500ed00805cc6b1a46e735e07c2357038e7c8",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-seeded-retry/results/MgO-93Hal-LB.json",
+          "sample_checks_passed": false,
+          "checks": 12,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/MgO-93Hal-LB.json",
+          "sample_checks_passed": false,
+          "checks": 12,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "CoCr-16Li.tdb",
+      "source_sha256": "07e93d5b48a2de778eaab4b78e2ae06bfd6d8d81aa9677b9c01509bdf5984f27",
+      "decision": "retained_failed",
+      "original_error": "ValueError: STATUS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER']",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "NiV-19Noo-full.tdb",
+      "source_sha256": "e44cbfbdf39108b10504bac7758f85e03601304848fce9440748200abee83591",
+      "decision": "retained_failed",
+      "original_error": "ValueError: NEVER_DIS_PAR does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER']",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "YO-98Swa-LB.tdb",
+      "source_sha256": "dbfb3a4c9a84545054a983f3ee51231ad425c1f589a5a93164e738f54a2586a3",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "seeded-retry/results/YO-98Swa-LB.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "source-seeded-retry/results/YO-98Swa-LB.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "AlMn-18Zhe.tdb",
+      "source_sha256": "466b13922fa4597eea042a33263acb3d0f2deced3abbae5759225035a4d60023",
+      "decision": "retained_failed",
+      "original_error": "ValueError: Order (BCC_4SL) and disordered (A2_BCC) model must have the same interstitial to sublattice ratios. 1.0 != 3.0",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "AlLi-07Hal.tdb",
+      "source_sha256": "78495fabf676b01cb89717fc1c719ef20e3900f2af17c75fd6bacdbe0aab80e8",
+      "decision": "retained_failed",
+      "original_error": "ValueError: COMP_SETS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER']",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "VO-15Yan-ver1.tdb",
+      "source_sha256": "e26d540d6bb84d67a47af517388cb7d2b301bbf637483979e90da2e46a3b3c13",
+      "decision": "retained_failed",
+      "original_error": "AssertionError: ",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "seeded-retry/results/VO-15Yan-ver1.json",
+          "sample_checks_passed": false,
+          "checks": 0,
+          "error": "ValueError('No mapped phase boundaries; success cannot be established')"
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "CeLa-10Guo.tdb",
+      "source_sha256": "cc9bfba02dce858a2e89cf246d87d3279a623aad5ca4675cbf94c37d343e86b0",
+      "decision": "retained_failed",
+      "original_error": "ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2_BCC DIS_PART BCC_A2 `",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "seeded-retry/results/CeLa-10Guo.json",
+          "sample_checks_passed": false,
+          "checks": 0,
+          "error": "ValueError('No mapped phase boundaries; success cannot be established')"
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "AlCr-00Sub.tdb",
+      "source_sha256": "3a5a2304b21ed40fc5dbaf2284b09a8ea5f2e402d5c9cceac2ddf29666e5faa0",
+      "decision": "retained_failed",
+      "original_error": "ValueError: C_S does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER']",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "BaO-05Zho-mod.tdb",
+      "source_sha256": "1166f495f723a4136e8186061f7570665d0c56a197d979d5dad7b7e3ac799d2d",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "source-defaults-retry/results/BaO-05Zho-mod.json",
+          "sample_checks_passed": false,
+          "checks": 16,
+          "error": null
+        },
+        {
+          "candidate": "source-seeded-retry/results/BaO-05Zho-mod.json",
+          "sample_checks_passed": false,
+          "checks": 14,
+          "error": null
+        },
+        {
+          "candidate": "seeded-retry/results/BaO-05Zho-mod.json",
+          "sample_checks_passed": false,
+          "checks": 11,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "AlTi-92Kat.tdb",
+      "source_sha256": "e8aff28ebffc8f27ef9710237576b5d75b7ca50781cc95f178f89866f193222e",
+      "decision": "recovered",
+      "original_error": "ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2_BCC DIS_PART A2_BCC `",
+      "validation_checks": [
+        {
+          "T_K": 330.23,
+          "x": 0.125,
+          "expected": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 936.48,
+          "x": 0.0026950000000000003,
+          "expected": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "actual": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 937.1,
+          "x": 0.0032300000000000002,
+          "expected": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "actual": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 465.23,
+          "x": 0.125025,
+          "expected": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 785.23,
+          "x": 0.126135,
+          "expected": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 329.23,
+          "x": 0.125,
+          "expected": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 305.23,
+          "x": 0.125,
+          "expected": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1927.92,
+          "x": 0.8887050000000001,
+          "expected": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "actual": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1883.46,
+          "x": 0.68141,
+          "expected": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "actual": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1319.99,
+          "x": 0.86998,
+          "expected": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1679.99,
+          "x": 0.657125,
+          "expected": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "actual": [
+            "BCC_A2",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 555.0,
+          "x": 0.57603,
+          "expected": [
+            "ALTI3_D019",
+            "ALTI_L10"
+          ],
+          "actual": [
+            "ALTI3_D019",
+            "ALTI_L10"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1115.0,
+          "x": 0.56438,
+          "expected": [
+            "ALTI3_D019",
+            "ALTI_L10"
+          ],
+          "actual": [
+            "ALTI3_D019",
+            "ALTI_L10"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 585.0,
+          "x": 0.84298,
+          "expected": [
+            "ALTI3_D019",
+            "HCP_A3"
+          ],
+          "actual": [
+            "ALTI3_D019",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1205.0,
+          "x": 0.80072,
+          "expected": [
+            "ALTI3_D019",
+            "HCP_A3"
+          ],
+          "actual": [
+            "ALTI3_D019",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 300.0,
+          "x": 0.363815,
+          "expected": [
+            "AL2TI",
+            "ALTI_L10"
+          ],
+          "actual": [
+            "AL2TI",
+            "ALTI_L10"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 301.0,
+          "x": 0.365605,
+          "expected": [
+            "AL2TI",
+            "ALTI_L10"
+          ],
+          "actual": [
+            "AL2TI",
+            "ALTI_L10"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 525.0,
+          "x": 0.292315,
+          "expected": [
+            "AL2TI",
+            "AL3TI_D022"
+          ],
+          "actual": [
+            "AL2TI",
+            "AL3TI_D022"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1025.0,
+          "x": 0.294685,
+          "expected": [
+            "AL2TI",
+            "AL3TI_D022"
+          ],
+          "actual": [
+            "AL2TI",
+            "AL3TI_D022"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 445.0,
+          "x": 0.125015,
+          "expected": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 785.0,
+          "x": 0.12613,
+          "expected": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1102.1,
+          "x": 0.12701500000000002,
+          "expected": [
+            "AL3TI_D022",
+            "LIQUID"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1492.1,
+          "x": 0.15710000000000002,
+          "expected": [
+            "AL3TI_D022",
+            "LIQUID"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1466.53,
+          "x": 0.5547,
+          "expected": [
+            "ALTI_L10",
+            "HCP_A3"
+          ],
+          "actual": [
+            "ALTI_L10",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1666.53,
+          "x": 0.5005850000000001,
+          "expected": [
+            "ALTI_L10",
+            "HCP_A3"
+          ],
+          "actual": [
+            "ALTI_L10",
+            "HCP_A3"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1298.07,
+          "x": 0.30952,
+          "expected": [
+            "AL2TI",
+            "AL5TI2"
+          ],
+          "actual": [
+            "AL2TI",
+            "AL5TI2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1418.07,
+          "x": 0.30952,
+          "expected": [
+            "AL2TI",
+            "AL5TI2"
+          ],
+          "actual": [
+            "AL2TI",
+            "AL5TI2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1348.07,
+          "x": 0.271435,
+          "expected": [
+            "AL3TI_D022",
+            "AL5TI2"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "AL5TI2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1568.07,
+          "x": 0.270365,
+          "expected": [
+            "AL3TI_D022",
+            "AL5TI2"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "AL5TI2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1590.57,
+          "x": 0.270285,
+          "expected": [
+            "AL3TI_D022",
+            "AL5TI2"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "AL5TI2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1370.57,
+          "x": 0.27129000000000003,
+          "expected": [
+            "AL3TI_D022",
+            "AL5TI2"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "AL5TI2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1676.57,
+          "x": 0.24611,
+          "expected": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "actual": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1700.57,
+          "x": 0.27210500000000004,
+          "expected": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "actual": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1764.75,
+          "x": 0.42013500000000004,
+          "expected": [
+            "ALTI_L10",
+            "LIQUID"
+          ],
+          "actual": [
+            "ALTI_L10",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1712.87,
+          "x": 0.31278,
+          "expected": [
+            "ALTI_L10",
+            "LIQUID"
+          ],
+          "actual": [
+            "ALTI_L10",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1773.34,
+          "x": 0.44967999999999997,
+          "expected": [
+            "HCP_A3",
+            "LIQUID"
+          ],
+          "actual": [
+            "HCP_A3",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1838.71,
+          "x": 0.540095,
+          "expected": [
+            "HCP_A3",
+            "LIQUID"
+          ],
+          "actual": [
+            "HCP_A3",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1507.96,
+          "x": 0.31947000000000003,
+          "expected": [
+            "AL5TI2",
+            "ALTI_L10"
+          ],
+          "actual": [
+            "AL5TI2",
+            "ALTI_L10"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1647.96,
+          "x": 0.31335,
+          "expected": [
+            "AL5TI2",
+            "ALTI_L10"
+          ],
+          "actual": [
+            "AL5TI2",
+            "ALTI_L10"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1197.96,
+          "x": 0.37085999999999997,
+          "expected": [
+            "AL2TI",
+            "ALTI_L10"
+          ],
+          "actual": [
+            "AL2TI",
+            "ALTI_L10"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 587.96,
+          "x": 0.376375,
+          "expected": [
+            "AL2TI",
+            "ALTI_L10"
+          ],
+          "actual": [
+            "AL2TI",
+            "ALTI_L10"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1676.56,
+          "x": 0.24611,
+          "expected": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "actual": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1700.56,
+          "x": 0.272095,
+          "expected": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "actual": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1509.24,
+          "x": 0.16030499999999998,
+          "expected": [
+            "AL3TI_D022",
+            "LIQUID"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1119.24,
+          "x": 0.12739,
+          "expected": [
+            "AL3TI_D022",
+            "LIQUID"
+          ],
+          "actual": [
+            "AL3TI_D022",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1038.07,
+          "x": 0.29475,
+          "expected": [
+            "AL2TI",
+            "AL3TI_D022"
+          ],
+          "actual": [
+            "AL2TI",
+            "AL3TI_D022"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 538.07,
+          "x": 0.292365,
+          "expected": [
+            "AL2TI",
+            "AL3TI_D022"
+          ],
+          "actual": [
+            "AL2TI",
+            "AL3TI_D022"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1709.1,
+          "x": 0.30809,
+          "expected": [
+            "ALTI_L10",
+            "LIQUID"
+          ],
+          "actual": [
+            "ALTI_L10",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1758.97,
+          "x": 0.39947,
+          "expected": [
+            "ALTI_L10",
+            "LIQUID"
+          ],
+          "actual": [
+            "ALTI_L10",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1701.69,
+          "x": 0.27484,
+          "expected": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "actual": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1682.83,
+          "x": 0.25084,
+          "expected": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "actual": [
+            "AL5TI2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1667.1,
+          "x": 0.31214,
+          "expected": [
+            "AL5TI2",
+            "ALTI_L10"
+          ],
+          "actual": [
+            "AL5TI2",
+            "ALTI_L10"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1527.1,
+          "x": 0.31886000000000003,
+          "expected": [
+            "AL5TI2",
+            "ALTI_L10"
+          ],
+          "actual": [
+            "AL5TI2",
+            "ALTI_L10"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1437.96,
+          "x": 0.30952,
+          "expected": [
+            "AL2TI",
+            "AL5TI2"
+          ],
+          "actual": [
+            "AL2TI",
+            "AL5TI2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1317.96,
+          "x": 0.30952,
+          "expected": [
+            "AL2TI",
+            "AL5TI2"
+          ],
+          "actual": [
+            "AL2TI",
+            "AL5TI2"
+          ],
+          "finite_GM": true,
+          "pass": true
+        }
+      ]
+    },
+    {
+      "tdb": "CuNb-90Ham-LB.tdb",
+      "source_sha256": "d0302e51fd13f6200680cf9676bf79c604871ff1238d1f81fee5c161fb157da1",
+      "decision": "recovered",
+      "original_error": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe4 in position 29: invalid continuation byte",
+      "validation_checks": [
+        {
+          "T_K": 500.01,
+          "x": 0.5,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1360.77,
+          "x": 0.002115,
+          "expected": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "actual": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1365.3,
+          "x": 0.005365,
+          "expected": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "actual": [
+            "FCC_A1",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 695.01,
+          "x": 0.49996999999999997,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1155.01,
+          "x": 0.49933,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 465.01,
+          "x": 0.5,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 345.01,
+          "x": 0.5,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 2362.69,
+          "x": 0.9329000000000001,
+          "expected": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "actual": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1739.53,
+          "x": 0.50002,
+          "expected": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "actual": [
+            "BCC_A2",
+            "LIQUID"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 665.69,
+          "x": 0.49998,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1135.69,
+          "x": 0.499375,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 435.69,
+          "x": 0.5,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 335.69,
+          "x": 0.5,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 545.0,
+          "x": 0.499995,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        },
+        {
+          "T_K": 1105.0,
+          "x": 0.49945500000000004,
+          "expected": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "actual": [
+            "BCC_A2",
+            "FCC_A1"
+          ],
+          "finite_GM": true,
+          "pass": true
+        }
+      ]
+    },
+    {
+      "tdb": "CuO-05Sch.tdb",
+      "source_sha256": "a3dbcda00b2b888ef882e8c3f792e7bd8550ad089639b25eeb4b7109f96c1a9a",
+      "decision": "retained_failed",
+      "original_error": "ZeroDivisionError: float division",
+      "validation_checks": [],
+      "prior_variant_reviews": [
+        {
+          "candidate": "seeded-retry/results/CuO-05Sch.json",
+          "sample_checks_passed": false,
+          "checks": 12,
+          "error": null
+        },
+        {
+          "candidate": "source-seeded-retry/results/CuO-05Sch.json",
+          "sample_checks_passed": false,
+          "checks": 12,
+          "error": null
+        }
+      ],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    },
+    {
+      "tdb": "MoRe-13Mat-orig.tdb",
+      "source_sha256": "8f43073fb6804dab938e6ca77f5afecbf2bc890dbc69084caa5c6f0e6e3bf2f2",
+      "decision": "retained_failed",
+      "original_error": "ValueError: NEVER_DIS_PAR does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER']",
+      "validation_checks": [],
+      "prior_variant_reviews": [],
+      "reason": "No source-supported and sufficiently validated replacement available"
+    }
+  ],
+  "subsequent_empty_output_review": {
+    "reclassified_failed": [
+      "GaSe-08Zhe.json",
+      "FeTi-23Wal-3g.json"
+    ],
+    "evidence": "phase-diagrams/EMPTY_OUTPUT_REVIEW.json",
+    "previously_failed_retained": 50,
+    "total_failed_after_review": 52
+  }
+}

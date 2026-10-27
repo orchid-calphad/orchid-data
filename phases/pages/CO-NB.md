@@ -21,7 +21,7 @@ Table: Phases of the Co–Nb system (11)
 | [CO7NB2](#phase-co-nb-co7nb2); _phase:co-nb:co7nb2_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1359.48 K, x(Nb) 0.22222–0.22222 | 23 | 4 |
 | [MU_D85](#phase-co-nb-d85-mu); _phase:co-nb:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1708.54 K, x(Nb) 0.45992–0.56446 | 48 | 4 |
 | [FCC_A1](#phase-co-nb-fcc-a1); _phase:co-nb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 688.19–1768.99 K, x(Nb) 0–0.05372 | 27 | 4 |
-| [HCP_A3](#phase-co-nb-hcp-a3); _phase:co-nb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–819.19 K, x(Nb) 0–7e-05 | 1 | 4 |
+| [HCP_A3](#phase-co-nb-hcp-a3); _phase:co-nb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–819.19 K, x(Nb) 0–7e-05 | 3 | 4 |
 | [LIQUID](#phase-co-nb-liquid); _phase:co-nb:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1503.83–4000 K, x(Nb) 0–1 | 90 | 4 |
 
 ## BCC_A2 (Co–Nb)
@@ -511,11 +511,11 @@ _cited as the source of values for this phase_
 - Id: `phase:co-nb:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–819.19 K, x(Nb) 0–7e-05
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-nb:hcp-a3)
 
-Names (6): _corpus: _corpus:phase:co-nb:hcp-a3  
-_paper: _paper:10.1016/s0925-8388(97)00465-9:hcp  
+Names (7): _corpus: _corpus:phase:co-nb:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2015.02.182:(εCo), paper:10.1016/s0925-8388(97)00465-9:hcp  
 _tdb: _tdb:CoNb-15He.tdb:HCP_A3, tdb:CoNb-20Zho.tdb:HCP_A3, tdb:CoNb-22Wei.tdb:HCP_A3, tdb:CoNb-98Har-LB.tdb:HCP_A3  
 
 
@@ -551,11 +551,11 @@ _tdb: _tdb:CoNb-15He.tdb:HCP_A3, tdb:CoNb-20Zho.tdb:HCP_A3, tdb:CoNb-22Wei.tdb:H
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/S0925-8388(97)00465-9](https://doi.org/10.1016/S0925-8388%2897%2900465-9) K.C. Hari Kumar, I. Ansara, P. Wollants, L. Delaye, J. Alloys Compd., 267, 105-12(1998).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s11661-020-05963-2](https://doi.org/10.1007/s11661-020-05963-2) Chenyang Zhou, Cuiping Guo, Jingbo Li, Changrong Li, Zhenmin Du, Key Experiments and Thermodynamic Description of the Co-Nb-Ni System, Metall Mater Trans A 51, 5892-5911 (2020).  
-_assessment that models this phase_
 - [doi:10.1016/j.jallcom.2015.02.182](https://doi.org/10.1016/j.jallcom.2015.02.182) Cuiyun He, Frank Stein, Martin Palm, Thermodynamic description of the systems Co–Nb, Al–Nb and Co–Al–Nb, Journal of Alloys and Compounds 637, 361-375 (2015).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S0925-8388(97)00465-9](https://doi.org/10.1016/S0925-8388%2897%2900465-9) K.C. Hari Kumar, I. Ansara, P. Wollants, L. Delaye, J. Alloys Compd., 267, 105-12(1998).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1007/s11661-020-05963-2](https://doi.org/10.1007/s11661-020-05963-2) Chenyang Zhou, Cuiping Guo, Jingbo Li, Changrong Li, Zhenmin Du, Key Experiments and Thermodynamic Description of the Co-Nb-Ni System, Metall Mater Trans A 51, 5892-5911 (2020).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2022.166516](https://doi.org/10.1016/j.jallcom.2022.166516) Dawei Wei, Xiaofeng Bai, Cuiping Guo, Changrong Li, Zhenmin Du, Experimental investigation and thermodynamic description of the Co–Nb–Ti system, Journal of Alloys and Compounds 924, 166516 (2022).  
 _assessment that models this phase_
@@ -624,8 +624,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -634,7 +634,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -645,7 +645,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

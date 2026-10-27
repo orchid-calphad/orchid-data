@@ -1,10 +1,10 @@
 # Mg–Y phases
 
-> Mg–Y system: 10 phases (tier A 8, liquid 1, needs_review 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Mg–Y system: 10 phases (tier A 8, liquid 1, needs_review 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/MG-Y.html · Markdown: https://data.orchid-project.org/phases/pages/MG-Y.md
 
-10 phases (tier A 8, liquid 1, needs_review 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 8, liquid 1, needs_review 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=MG-Y) · [full JSON](https://data.orchid-project.org/phases/systems/MG-Y.json) · [Mg–Y system page](https://data.orchid-project.org/systems/MG-Y.html) · [Markdown](https://data.orchid-project.org/phases/pages/MG-Y.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -12,22 +12,22 @@ Table: Phases of the Mg–Y system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-mg-y-bcc-a2); _phase:mg-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1047.17–2499.12 K, x(Y) 0.57956–1 | 10 | 9 |
+| [BCC_A2](#phase-mg-y-bcc-a2); _phase:mg-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1047.17–2499.12 K, x(Y) 0.57956–1 | 10 | 9 |
 | [B2_BCC](#phase-mg-y-bcc-b2); _phase:mg-y:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2499.79 K, x(Y) 0.46304–1 | 15 | 4 |
 | [C14_LAVES](#phase-mg-y-c14-laves); _phase:mg-y:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1058.98 K, x(Y) 0.26254–0.33333 | 10 | 4 |
-| [FCC_A1](#phase-mg-y-fcc-a1); _phase:mg-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 5 |
-| [HCP_A3](#phase-mg-y-hcp-a3); _phase:mg-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1792.99 K, x(Y) 0–1 | 10 | 6 |
-| [LIQUID](#phase-mg-y-liquid); _phase:mg-y:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 841.43–2500 K, x(Y) 0–1 | 20 | 5 |
-| [MG24Y5_A12](#phase-mg-y-mg24y5-a12); _phase:mg-y:mg24y5-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–889.17 K, x(Y) 0.13507–0.17241 | 10 | 5 |
-| [MG2Y_C14](#phase-mg-y-mg2y-c14); _phase:mg-y:mg2y-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 1 |
+| [FCC_A1](#phase-mg-y-fcc-a1); _phase:mg-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
+| [HCP_A3](#phase-mg-y-hcp-a3); _phase:mg-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1792.99 K, x(Y) 0–1 | 10 | 6 |
+| [LIQUID](#phase-mg-y-liquid); _phase:mg-y:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 841.43–2500 K, x(Y) 0–1 | 20 | 5 |
+| [MG24Y5_A12](#phase-mg-y-mg24y5-a12); _phase:mg-y:mg24y5-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–891.96 K, x(Y) 0.13507–0.17241 | 10 | 5 |
+| [MG2Y_C14](#phase-mg-y-mg2y-c14); _phase:mg-y:mg2y-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300.63–1060.63 K, x(Y) 0.33333–0.33333 | 0 | 1 |
 | [MG7Y](#phase-mg-y-mg7y); _phase:mg-y:mg7y_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1786.15 K, x(Y) 0–1 | 0 | 1 |
-| [MGY_B2](#phase-mg-y-mgy-b2); _phase:mg-y:mgy-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | no calculated diagram | 0 | 1 |
+| [MGY_B2](#phase-mg-y-mgy-b2); _phase:mg-y:mgy-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300.63–1215.82 K, x(Y) 0.47349–0.5 | 0 | 1 |
 
 ## BCC_A2 (Mg–Y)
 
 - Id: `phase:mg-y:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 4 calculated diagram(s): 1047.17–2499.12 K, x(Y) 0.57956–1
+- Stability: stable in 5 of 5 calculated diagram(s): 1047.17–2499.12 K, x(Y) 0.57956–1
 - Literature: 10 values (10 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:bcc-a2)
 
@@ -236,7 +236,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:mg-y:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: not stable in 4 calculated diagram(s)
+- Stability: not stable in 5 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:fcc-a1)
 
@@ -294,7 +294,7 @@ _assessment that models this phase_
 
 - Id: `phase:mg-y:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 4 calculated diagram(s): 300–1792.99 K, x(Y) 0–1
+- Stability: stable in 5 of 5 calculated diagram(s): 300–1792.99 K, x(Y) 0–1
 - Literature: 10 values (10 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:hcp-a3)
 
@@ -362,7 +362,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:mg-y:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
-- Stability: stable in 4 of 4 calculated diagram(s): 841.43–2500 K, x(Y) 0–1
+- Stability: stable in 5 of 5 calculated diagram(s): 841.43–2500 K, x(Y) 0–1
 - Literature: 20 values (20 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:liquid)
 
@@ -423,7 +423,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:mg-y:mg24y5-a12`; status `assigned`
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 4 calculated diagram(s): 300–889.17 K, x(Y) 0.13507–0.17241
+- Stability: stable in 5 of 5 calculated diagram(s): 300–891.96 K, x(Y) 0.13507–0.17241
 - Literature: 10 values (10 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:mg24y5-a12)
 
@@ -485,7 +485,7 @@ _cited as the source of values for this phase_
 - Id: `phase:mg-y:mg2y-c14`; status `assigned`
 - Structure: MgZn2 · C14 · hP12 · P6_3/mmc (194); type `st:c14-mgzn2-hp12`; tier A: standard phase name; confidence high
 - Stoichiometry: Mg 0.6667, Y 0.3333
-- Stability: no calculated diagram
+- Stability: stable in 1 of 1 calculated diagram(s): 300.63–1060.63 K, x(Y) 0.33333–0.33333
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:mg2y-c14)
 
@@ -538,7 +538,7 @@ _assessment that models this phase_
 
 - Id: `phase:mg-y:mgy-b2`; status `assigned`
 - Structure: CsCl · B2 · cP2 · Pm-3m (221); type `st:b2-cscl-cp2`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
+- Stability: stable in 1 of 1 calculated diagram(s): 300.63–1215.82 K, x(Y) 0.47349–0.5
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:mgy-b2)
 
@@ -557,8 +557,8 @@ _tdb: _tdb:MgY-98Luk.tdb:MGY_B2
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -567,7 +567,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -578,7 +578,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -1,1 +1,1 @@
-{"tdb":"ZnS-17Gua.tdb","elements":["Zn","S"],"status":"failed","error":"AssertionError: "}
+{"tdb":"ZnS-17Gua.tdb","elements":["Zn","S"],"status":"failed","error":"AssertionError: ","sha256":"d2ec903c3b000caed8935d4e5a47985ad62ff2bd70028c98097ffba3aa9560c9","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

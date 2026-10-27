@@ -15,7 +15,7 @@ Table: Phases of the Sn–Sr system (12)
 | [DIAMOND_A4](#phase-sn-sr-a4-diamond); _phase:sn-sr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 1 | 2 |
 | [BCT_A5](#phase-sn-sr-a5-bct); _phase:sn-sr:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–505.08 K, x(Sr) 0–0 | 8 | 2 |
 | [BCC_A2](#phase-sn-sr-bcc-a2); _phase:sn-sr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 820–1050 K, x(Sr) 1–1 | 8 | 2 |
-| [FCC_A1](#phase-sn-sr-fcc-a1); _phase:sn-sr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–820.03 K, x(Sr) 1–1 | 2 | 2 |
+| [FCC_A1](#phase-sn-sr-fcc-a1); _phase:sn-sr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–820.03 K, x(Sr) 1–1 | 3 | 2 |
 | [HCP_A3](#phase-sn-sr-hcp-a3); _phase:sn-sr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-sn-sr-liquid); _phase:sn-sr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 502.83–2500 K, x(Sr) 0–1 | 52 | 2 |
 | [SN3SR](#phase-sn-sr-sn3sr); _phase:sn-sr:sn3sr_ | InMg3 · hR16 · R-3m (166) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–834.3 K, x(Sr) 0.25–0.25 | 19 | 2 |
@@ -149,11 +149,11 @@ _cited as the source of values for this phase_
 - Id: `phase:sn-sr:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–820.03 K, x(Sr) 1–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-sr:fcc-a1)
 
-Names (4): _corpus: _corpus:phase:sn-sr:fcc-a1  
-_paper: _paper:10.1016/j.calphad.2014.04.003:α-Sr (fcc)  
+Names (5): _corpus: _corpus:phase:sn-sr:fcc-a1  
+_paper: _paper:10.1016/j.calphad.2014.04.003:α-Sr (fcc), paper:10.1016/j.tca.2011.11.026:α-Sr  
 _tdb: _tdb:SnSr-12Zha.tdb:FCC_A1, tdb:SnSr-14Zho.tdb:FCC_A1  
 
 
@@ -178,7 +178,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.calphad.2014.04.003](https://doi.org/10.1016/j.calphad.2014.04.003) Bi-Cheng Zhou, Shun-Li Shang, Zi-Kui Liu, First-principles calculations and thermodynamic modeling of the Sn−Sr and Mg−Sn−Sr systems, Calphad 46, 237-248 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.tca.2011.11.026](https://doi.org/10.1016/j.tca.2011.11.026) Jingrui Zhao, Yong Du, Lijun Zhang, Aijun Wang, Liangcai Zhou, Dongdong Zhao et al., Thermodynamic assessment of the Sn–Sr system supported by first-principles calculations, Thermochimica Acta 529, 74-79 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2004.04.097](https://doi.org/10.1016/j.jallcom.2004.04.097) A. Palenzona, M. Pani, The phase diagram of the Sr–Sn system, Journal of Alloys and Compounds 384, 227-230 (2004).  
 _cited as the source of values for this phase_
 
@@ -537,8 +537,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -547,7 +547,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -558,7 +558,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

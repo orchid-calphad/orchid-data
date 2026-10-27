@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these data, please cite this Zenodo record and the original sources of the data."
-title: "ORCHID phase registry (binary systems)"
+title: "ORCHID-Registry: phase registry of binary systems"
 type: dataset
 authors:
   - family-names: "Arróyave"

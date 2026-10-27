@@ -16,7 +16,7 @@ Table: Phases of the Sn–Ti system (13)
 | [BCT_A5](#phase-sn-ti-a5-bct); _phase:sn-ti:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 4 of 5 calculated diagram(s): 300–505.08 K, x(Ti) 0–0 | 4 | 5 |
 | [BCC_A2](#phase-sn-ti-bcc-a2); _phase:sn-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 504.51–1954.88 K, x(Ti) 0.152–1 | 2 | 5 |
 | [FCC_A1](#phase-sn-ti-fcc-a1); _phase:sn-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
-| [HCP_A3](#phase-sn-ti-hcp-a3); _phase:sn-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1339.99 K, x(Ti) 0.88438–1 | 1 | 5 |
+| [HCP_A3](#phase-sn-ti-hcp-a3); _phase:sn-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1339.99 K, x(Ti) 0.88438–1 | 11 | 5 |
 | [LIQUID](#phase-sn-ti-liquid); _phase:sn-ti:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 504.81–2500 K, x(Ti) 0–1 | 30 | 5 |
 | [SN3TI2](#phase-sn-ti-sn3ti2); _phase:sn-ti:sn3ti2_ | Sn3Ti2 · oC40 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1028.43 K, x(Ti) 0.4–0.4 | 6 | 4 |
 | [SN3TI5_D88](#phase-sn-ti-sn3ti5-d88); _phase:sn-ti:sn3ti5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1790 K, x(Ti) 0.62458–0.625 | 6 | 5 |
@@ -274,11 +274,11 @@ _assessment that models this phase_
 - Id: `phase:sn-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1339.99 K, x(Ti) 0.88438–1
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-ti:hcp-a3)
 
-Names (7): _corpus: _corpus:phase:sn-ti:hcp-a3  
-_paper: _paper:sha256-85fd53a1a176b694:hcp-A3  
+Names (8): _corpus: _corpus:phase:sn-ti:hcp-a3  
+_paper: _paper:10.1016/j.calphad.2007.01.003:(αTi), paper:sha256-85fd53a1a176b694:hcp-A3  
 _tdb: _tdb:SnTi-05Liu.tdb:HCP_A3, tdb:SnTi-07Yin.tdb:HCP_A3, tdb:SnTi-11Wan.tdb:HCP_A3, tdb:SnTi-19Tan.tdb:HCP_A3, tdb:SnTi-98Hay-LB.tdb:HCP_A3  
 
 
@@ -319,16 +319,18 @@ _tdb: _tdb:SnTi-05Liu.tdb:HCP_A3, tdb:SnTi-07Yin.tdb:HCP_A3, tdb:SnTi-11Wan.tdb:
 38: CONST HCP_A3 : SN TI% : VA: !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1007/s00706-005-0392-x](https://doi.org/10.1007/s00706-005-0392-x) Chunlei Liu, Ulrich E. Klotz, Peter J. Uggowitzer, Jörg F. Löffler, Thermodynamic Assessment of the Sn–Ti System, Monatsh. Chem. 136, 1921-1930 (2005).  
-_assessment that models this phase_
 - [doi:10.1016/j.calphad.2007.01.003](https://doi.org/10.1016/j.calphad.2007.01.003) Fucheng Yin, Jean-Claude Tedenac, Franck Gascoin, Thermodynamic modelling of the Ti–Sn system and calculation of the Co–Ti–Sn system, Calphad 31, 370-379 (2007).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s00706-005-0392-x](https://doi.org/10.1007/s00706-005-0392-x) Chunlei Liu, Ulrich E. Klotz, Peter J. Uggowitzer, Jörg F. Löffler, Thermodynamic Assessment of the Sn–Ti System, Monatsh. Chem. 136, 1921-1930 (2005).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2010.12.006](https://doi.org/10.1016/j.calphad.2010.12.006) Jiang Wang, Chunlei Liu, Christian Leinenbach, Ulrich E. Klotz, Peter J. Uggowitzer, Jörg F. Löffler, Experimental investigation and thermodynamic assessment of the Cu–Sn–Ti ternary system, Calphad 35, 82-94 (2011).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101686](https://doi.org/10.1016/j.calphad.2019.101686) J. Tan, G. Xu, X. Tao, F. Chen, Y. Cui, L. Zhou, Calphad, 67, 101686(2019).  
 _assessment that models this phase_
+- [doi:10.1016/j.jallcom.2005.04.010](https://doi.org/10.1016/j.jallcom.2005.04.010) A.A. Bondar, T.Ya. Velikanova, D.B. Borysov, L.V. Artyukh, O.O. Bilous, M.P. Burka et al., Titanium-boride eutectic materials: Phase equilibria and properties of alloys in the Ti-rich portion of the Ti–Sn–B system, Journal of Alloys and Compounds 400, 202-208 (2005).  
+_cited as the source of values for this phase_
 
 ## LIQUID (Sn–Ti)
 
@@ -755,8 +757,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -765,7 +767,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -776,7 +778,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

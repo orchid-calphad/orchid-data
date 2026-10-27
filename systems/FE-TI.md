@@ -1,10 +1,10 @@
 # Fe–Ti system
 
-> Fe–Ti system: 501 accepted literature values (invariant reaction 188, formation 126, mixing / partial 96, activity / EMF / Gibbs energy 72) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ti system: 501 accepted literature values (invariant reaction 188, formation 126, mixing / partial 96, activity / EMF / Gibbs energy 72) and 15 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TI.html · Markdown: https://data.orchid-project.org/systems/FE-TI.md
 
-501 accepted literature values from 9 paper(s) (experimental 107, model 304, DFT 40, unspecified 50); 16 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+501 accepted literature values from 9 paper(s) (experimental 107, model 304, DFT 40, unspecified 50); 15 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TI.json) · [CSV](https://data.orchid-project.org/systems/FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-09Key.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TI.html) · [Markdown](https://data.orchid-project.org/systems/FE-TI.md)
 
@@ -43,7 +43,6 @@ Table: Assessments with a calculated phase diagram
 | FeTi-21San.tdb | K. Santhy, K.C. Hari Kumar, Intermetallics, 128, 106978(2021). [doi:10.1016/j.intermet.2020.106978](https://doi.org/10.1016/j.intermet.2020.106978) | `34a1c0676e8eed2a1bffe5586aa61e5ee7d8057553d49b6486bbd670d2113056` | [viewer](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-21San.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeTi-21San.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeTi-21San.json) |
 | FeTi-21Zha.tdb | G. Zhang, W. Zheng, Z. Zhao, Y. He, Z. Zheng, D. Tang, J. Phase Equilib. Diffus., 42, 363-72(2021). [doi:10.1007/s11669-021-00889-7](https://doi.org/10.1007/s11669-021-00889-7) | `de527885390e9a9d0de02a8ae9d9df0dd2604c8ca7ad0a6c980e240ad34864e7` | [viewer](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-21Zha.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeTi-21Zha.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeTi-21Zha.json) |
 | FeTi-22Kri.tdb | M.J. Kriegel, M.H. Wetzel, O. Fabrichnaya, D. Rafaja, Calphad, 76, 102383(2022). [doi:10.1016/j.calphad.2021.102383](https://doi.org/10.1016/j.calphad.2021.102383) | `7d978f1075f96b7faaf3b5c2076e6f57e9115cf369cc489eef6e1ddab648ed49` | [viewer](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-22Kri.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeTi-22Kri.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeTi-22Kri.json) |
-| FeTi-23Wal-3g.tdb | A. Walnsch, A. Leineweber, M.J. Kriegel, Calphad, 81, 102555(2023). [doi:10.1016/j.calphad.2023.102555](https://doi.org/10.1016/j.calphad.2023.102555) | `eb27ebd8890d3aeadec02c42b1ea50be21ed2c0f5e1d3099c985300aca5bf324` | [viewer](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-23Wal-3g.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeTi-23Wal-3g.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeTi-23Wal-3g.json) |
 | FeTi-24Lia.tdb | Z. Liang, U. Kattner, K. Choudharry, F. Tavazza, C. Campbell, J. Phase Equilib. Diffus., 45, 732-56(2024). [doi:10.1007/s11669-024-01124-9](https://doi.org/10.1007/s11669-024-01124-9) | `0a498e0d238a414e0a15d505bd317dc0289ca7132b2b93b178ad416991462d95` | [viewer](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-24Lia.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeTi-24Lia.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeTi-24Lia.json) |
 | FeTi-89Bal.tdb | K. Balasubramanian, unpublished work, KTH, Stockholm, 1989. | `960a05a577d637ea7f60486e68aa7b8a55d865e09d889b710579c55daefa15ce` | [viewer](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-89Bal.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeTi-89Bal.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeTi-89Bal.json) |
 | FeTi-94Har.tdb | K.C. Hari Kumar, P. Wollants, L. Delaey, Calphad, 18, 223-34(1994). [doi:10.1016/0364-5916(94)90028-0](https://doi.org/10.1016/0364-5916%2894%2990028-0) | `89d365c4c3215e59dd9c737f1d7f7c288f25f30a88ad8dadc828d910cb7464de` | [viewer](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-94Har.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/FeTi-94Har.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/FeTi-94Har.json) |
@@ -752,10 +751,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -764,7 +763,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -775,7 +774,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -785,7 +784,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -795,7 +794,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "AG2HO_C11B",
   "AG51HO14",
   "FCC_A1",
   "LIQUID"
@@ -13,42 +12,12 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1163.15,
    1193.15,
    1048.15
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "HO"
-    ],
-    [
-     0.265
-    ]
-   ],
-   [
-    "AG51HO14",
-    [
-     "HO"
-    ],
-    [
-     0.222
-    ]
-   ],
-   [
-    "AG2HO_C11B",
-    [
-     "HO"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -106,18 +75,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IX7X3RM4RP ORC-WTIH26P2PA ORC-6CZFUDQWGV",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WTIH26P2PA ORC-6CZFUDQWGV",
  "bibtex": "gebhardt1966_833a5a",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-IX7X3RM4RP",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2009.04.037",
-    "measured_in": "doi:10.1016/0022-5088(66)90079-8"
-   },
    {
     "id": "ORC-WTIH26P2PA",
     "reader_agreement": "multi_reader",
@@ -140,43 +103,11 @@
    "10.1016/j.jallcom.2009.04.037"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AgHo-09Wan/zpf-01.json",
-  "values_dropped": 4
+  "values_dropped": 5
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "budget": {
-     "temperature_K": {
-      "sigma_printed": null,
-      "sigma_reading": 0.005,
-      "sigma_method": 11.0,
-      "sigma_composition": null,
-      "sigma_scatter": null,
-      "sigma_conversion": null,
-      "sigma_effective": 11.0,
-      "method_class": "unknown",
-      "method_basis": "calibrated",
-      "method_n_pairs": 4918,
-      "method_entry": "value_types/T_INVARIANT/classes/unknown"
-     },
-     "composition_mole_fraction": {
-      "sigma_printed": null,
-      "sigma_reading": 0.0005,
-      "sigma_method": 0.011,
-      "sigma_composition": null,
-      "sigma_scatter": null,
-      "sigma_conversion": null,
-      "sigma_effective": 0.011,
-      "method_class": "unknown",
-      "method_basis": "calibrated",
-      "method_n_pairs": 3014,
-      "method_entry": "value_types/X_PHASE/classes/unknown"
-     }
-    }
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
@@ -223,7 +154,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4918,
+      "method_n_pairs": 4912,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -244,21 +175,11 @@
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
  },
- "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 1,
-  "hyperplanes_added": 0,
-  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
- },
  "orchid_certification": {
   "basis": "pycalphad_invariant_agreement",
   "all_values_certified": false,
-  "n_certified": 2,
+  "n_certified": 1,
   "values": [
-   {
-    "id": "ORC-IX7X3RM4RP",
-    "espei_certified": true,
-    "calphad_check": "agrees"
-   },
    {
     "id": "ORC-WTIH26P2PA",
     "espei_certified": false,

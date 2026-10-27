@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these data, please cite this Zenodo record and the original sources of the data (references.bib)."
-title: "ORCHID ESPEI datasets from the literature"
+title: "ORCHID-Values ESPEI datasets: ESPEI-format datasets built from the literature values"
 type: dataset
 authors:
   - family-names: "Arróyave"

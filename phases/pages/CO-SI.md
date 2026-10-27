@@ -20,7 +20,7 @@ Table: Phases of the Co–Si system (10)
 | [COSI_B20](#phase-co-si-cosi-b20); _phase:co-si:cosi-b20_ | FeSi · B20 · cP8 · P2_13 (198) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1729.38 K, x(Si) 0.49115–0.51491 | 26 | 2 |
 | [COSI2_C1](#phase-co-si-cosi2-c1); _phase:co-si:cosi2-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1596.91 K, x(Si) 0.66667–0.66667 | 23 | 2 |
 | [FCC_A1](#phase-co-si-fcc-a1); _phase:co-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 687.99–2500 K, x(Si) 0–0.74075 | 5 | 2 |
-| [HCP_A3](#phase-co-si-hcp-a3); _phase:co-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1963.38 K, x(Si) 0–0.69033 | 6 | 2 |
+| [HCP_A3](#phase-co-si-hcp-a3); _phase:co-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1963.38 K, x(Si) 0–0.69033 | 15 | 2 |
 | [LIQUID](#phase-co-si-liquid); _phase:co-si:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1475.55–2500 K, x(Si) 0–1 | 51 | 2 |
 
 ## DIAMOND_A4 (Co–Si)
@@ -343,11 +343,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:co-si:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1963.38 K, x(Si) 0–0.69033
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 15 values (15 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-si:hcp-a3)
 
-Names (4): _corpus: _corpus:phase:co-si:hcp-a3  
-_paper: _paper:10.1016/0364-5916(92)90003-g:ε-Co  
+Names (5): _corpus: _corpus:phase:co-si:hcp-a3  
+_paper: _paper:10.1016/0364-5916(92)90003-g:ε-Co, paper:10.1016/j.calphad.2006.06.001:(εCo)  
 _tdb: _tdb:CoSi-06Zha.tdb:HCP_A3, tdb:CoSi-92Cho-LB.tdb:HCP_A3  
 
 
@@ -369,10 +369,10 @@ _tdb: _tdb:CoSi-06Zha.tdb:HCP_A3, tdb:CoSi-92Cho-LB.tdb:HCP_A3
 
 Example references (2 of 2; assessments first): 
 
+- [doi:10.1016/j.calphad.2006.06.001](https://doi.org/10.1016/j.calphad.2006.06.001) Lijun Zhang, Yong Du, Honghui Xu, Zhu Pan, Experimental investigation and thermodynamic description of the Co–Si system, Calphad 30, 470-481 (2006).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(92)90003-G](https://doi.org/10.1016/0364-5916%2892%2990003-G) S.-D. Choi, Calphad, 16, 151-59(1992).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2006.06.001](https://doi.org/10.1016/j.calphad.2006.06.001) Lijun Zhang, Yong Du, Honghui Xu, Zhu Pan, Experimental investigation and thermodynamic description of the Co–Si system, Calphad 30, 470-481 (2006).  
-_assessment that models this phase_
 
 ## LIQUID (Co–Si)
 
@@ -420,8 +420,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -430,7 +430,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -441,7 +441,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -13,12 +13,12 @@ Table: Phases of the Bi–Mn system (9)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-bi-mn-a7-rhombohedral); _phase:bi-mn:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–544.55 K, x(Mn) 0–0 | 3 | 2 |
-| [BCC_A2](#phase-bi-mn-bcc-a2); _phase:bi-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1396.03–2499.18 K, x(Mn) 0.99942–1 | 0 | 2 |
+| [BCC_A2](#phase-bi-mn-bcc-a2); _phase:bi-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1396.03–2499.18 K, x(Mn) 0.99942–1 | 4 | 2 |
 | [BIMN_B81](#phase-bi-mn-bimn-b81); _phase:bi-mn:bimn-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–631.48 K, x(Mn) 0.5–0.5 | 7 | 2 |
 | [BIMN_B82](#phase-bi-mn-bimn-b82); _phase:bi-mn:bimn-b82_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 609.45–719.06 K, x(Mn) 0.5–0.51923 | 6 | 2 |
 | [CBCC_A12](#phase-bi-mn-cbcc-a12); _phase:bi-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–980 K, x(Mn) 1–1 | 6 | 2 |
-| [CUB_A13](#phase-bi-mn-cub-a13); _phase:bi-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 980–1404.99 K, x(Mn) 1–1 | 0 | 2 |
-| [FCC_A1](#phase-bi-mn-fcc-a1); _phase:bi-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1250–1411.03 K, x(Mn) 0.49–1 | 0 | 2 |
+| [CUB_A13](#phase-bi-mn-cub-a13); _phase:bi-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 980–1404.99 K, x(Mn) 1–1 | 4 | 2 |
+| [FCC_A1](#phase-bi-mn-fcc-a1); _phase:bi-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1250–1411.03 K, x(Mn) 0.49–1 | 2 | 2 |
 | [HCP_A3](#phase-bi-mn-hcp-a3); _phase:bi-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-bi-mn-liquid); _phase:bi-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 538.03–2500 K, x(Mn) 0–1 | 16 | 2 |
 
@@ -66,10 +66,11 @@ _cited as the source of values for this phase_
 - Id: `phase:bi-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1396.03–2499.18 K, x(Mn) 0.99942–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-mn:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:bi-mn:bcc-a2  
+Names (4): _corpus: _corpus:phase:bi-mn:bcc-a2  
+_paper: _paper:10.1016/j.jnucmat.2011.02.021:δMn  
 _tdb: _tdb:BiMn-11Oik.tdb:BCC_A2, tdb:BiMn-11Wan.tdb:BCC_A2  
 
 
@@ -92,7 +93,7 @@ _tdb: _tdb:BiMn-11Oik.tdb:BCC_A2, tdb:BiMn-11Wan.tdb:BCC_A2
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2011.02.021](https://doi.org/10.1016/j.jnucmat.2011.02.021) C.P. Wang, W.J. Yu, Z.S. Li, X.J. Liu, A.T. Tang, F.S. Pan, Thermodynamic assessments of the Bi–U and Bi–Mn systems, Journal of Nuclear Materials 412, 66-71 (2011).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.2320/matertrans.M2011229](https://doi.org/10.2320/matertrans.M2011229) K. Oikawa, Y. Mitsui, K. Koyama, K. Anzai, Mater. Trans. (JIM), 52, 2032-39(2011).  
 _assessment that models this phase_
 
@@ -219,10 +220,11 @@ _assessment that models this phase_
 - Structure: beta-Mn · A13 · cP20 · P4_132 (213); type `st:a13-beta-mn-cp20`; tier A: standard phase name; confidence high
 - Stoichiometry: Mn 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 980–1404.99 K, x(Mn) 1–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-mn:cub-a13)
 
-Names (3): _corpus: _corpus:phase:bi-mn:cub-a13  
+Names (4): _corpus: _corpus:phase:bi-mn:cub-a13  
+_paper: _paper:10.1016/j.jnucmat.2011.02.021:βMn  
 _tdb: _tdb:BiMn-11Oik.tdb:CUB_A13, tdb:BiMn-11Wan.tdb:CUB_A13  
 
 
@@ -245,7 +247,7 @@ _tdb: _tdb:BiMn-11Oik.tdb:CUB_A13, tdb:BiMn-11Wan.tdb:CUB_A13
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2011.02.021](https://doi.org/10.1016/j.jnucmat.2011.02.021) C.P. Wang, W.J. Yu, Z.S. Li, X.J. Liu, A.T. Tang, F.S. Pan, Thermodynamic assessments of the Bi–U and Bi–Mn systems, Journal of Nuclear Materials 412, 66-71 (2011).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.2320/matertrans.M2011229](https://doi.org/10.2320/matertrans.M2011229) K. Oikawa, Y. Mitsui, K. Koyama, K. Anzai, Mater. Trans. (JIM), 52, 2032-39(2011).  
 _assessment that models this phase_
 
@@ -254,10 +256,11 @@ _assessment that models this phase_
 - Id: `phase:bi-mn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1250–1411.03 K, x(Mn) 0.49–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-mn:fcc-a1)
 
-Names (3): _corpus: _corpus:phase:bi-mn:fcc-a1  
+Names (4): _corpus: _corpus:phase:bi-mn:fcc-a1  
+_paper: _paper:10.1016/j.jnucmat.2011.02.021:γMn  
 _tdb: _tdb:BiMn-11Oik.tdb:FCC_A1, tdb:BiMn-11Wan.tdb:FCC_A1  
 
 
@@ -280,7 +283,7 @@ _tdb: _tdb:BiMn-11Oik.tdb:FCC_A1, tdb:BiMn-11Wan.tdb:FCC_A1
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2011.02.021](https://doi.org/10.1016/j.jnucmat.2011.02.021) C.P. Wang, W.J. Yu, Z.S. Li, X.J. Liu, A.T. Tang, F.S. Pan, Thermodynamic assessments of the Bi–U and Bi–Mn systems, Journal of Nuclear Materials 412, 66-71 (2011).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.2320/matertrans.M2011229](https://doi.org/10.2320/matertrans.M2011229) K. Oikawa, Y. Mitsui, K. Koyama, K. Anzai, Mater. Trans. (JIM), 52, 2032-39(2011).  
 _assessment that models this phase_
 
@@ -359,8 +362,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -369,7 +372,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -380,7 +383,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

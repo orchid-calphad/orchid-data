@@ -1,10 +1,10 @@
 # Li–Mg–Si system
 
-> Li–Mg–Si system: 132 accepted literature values (phase transition 95, invariant reaction 19, phase equilibrium 10, crystal structure 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Mg–Si system: 37 accepted literature values (invariant reaction 19, phase equilibrium 10, crystal structure 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-MG-SI.html · Markdown: https://data.orchid-project.org/systems/LI-MG-SI.md
 
-132 accepted literature values from 1 paper(s) (experimental 90, model 38, unspecified 4); 0 calculated phase diagram(s).
+37 accepted literature values from 1 paper(s) (experimental 12, model 21, unspecified 4); 0 calculated phase diagram(s). 95 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-MG-SI.json) · [CSV](https://data.orchid-project.org/systems/LI-MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-MG-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/LI-MG-SI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 90 |
-| model | 38 |
+| experimental | 12 |
+| model | 21 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 19 |
-| phase transition | 95 |
 | phase equilibrium | 10 |
 | crystal structure | 8 |
 
@@ -52,108 +51,6 @@ Table: Invariant reactions reported in the literature for the Li–Mg–Si syste
 | 591.15 | quasi-peritectic: L + τ2 -> Li22Si5 + (Li) | L: Li 0.8027, Mg 0.1921, Si 0.0051 | model | [1] Kevorkov 2004 | Table 4, p. 9, row 20; `ORC-P7JNMXIUYM` |  |
 
 ## Other properties
-
-### Phase transition (95)
-
-Table: Phase transition, Li–Mg–Si system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 716.15 K | 716.15 | U9: L + τ3 = τ2 + (Li) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 27; `ORC-WJL3XT7UIO` |  |
-| Phase transition | 719.15 K | 719.15 | Sample b | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 31; `ORC-ERDRTVGPFF` |  |
-| Phase transition | 722.15 K | 722.15 | Sample b | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 32; `ORC-KXHVKFJ7NQ` |  |
-| Phase transition | 723.15 K | 723.15 | Sample b | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 30; `ORC-D2LRUDNWAT` |  |
-| Phase transition | 723.15 K | 723.15 | U9: L + τ3 = τ2 + (Li) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 28; `ORC-RZWN5MWJ3L` |  |
-| Phase transition | 725.15 K | 725.15 | U9: L + τ3 = τ2 + (Li) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 26; `ORC-Z2AIDLPACT` |  |
-| Phase transition | 728.15 K | 728.15 | U9: L + τ3 = τ2 + (Li) | model | [1] Kevorkov 2004 | Table 3, p. 7, row 29; `ORC-BZOUADNXUI` |  |
-| Phase transition | 823.15 K | 823.15 | ? U7: L + LixMg2Si = τ3 + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 43; `ORC-ZRQA5SEWGJ` |  |
-| Phase transition | 823.15 K | 823.15 | Sample c | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 49; `ORC-UJMWTRJG4F` |  |
-| Phase transition | 824.15 K | 824.15 | ? U7: L + LixMg2Si = τ3 + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 44; `ORC-JWBN3D2Z4A` |  |
-| Phase transition | 824.15 K | 824.15 | Sample c | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 47; `ORC-7ZZWPHXVG2` |  |
-| Phase transition | 825.15 K | 825.15 | ? U7: L + LixMg2Si = τ3 + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 42; `ORC-ZE7VNXMNJ6` |  |
-| Phase transition | 826.15 K | 826.15 | Sample c | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 48; `ORC-KDSFTNACRH` |  |
-| Phase transition | 829.15 K | 829.15 | Sample c | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 46; `ORC-QYEGO4YZFK` |  |
-| Phase transition | 870.15 K | 870.15 | ? U7: L + LixMg2Si = τ3 + (Mg) | model | [1] Kevorkov 2004 | Table 3, p. 7, row 45; `ORC-2AIYF6GSLX` |  |
-| Phase transition | 870.15 K | 870.15 | U7: L + LixMg2Si = τ3 + (Mg) | model | [1] Kevorkov 2004 | Table 3, p. 7, row 60; `ORC-FQRB4S2SEI` |  |
-| Phase transition | 871.15 K | 871.15 | Sample f | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 89; `ORC-ZSLRP7FITW` |  |
-| Phase transition | 874.15 K | 874.15 | Sample f | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 85; `ORC-6D5MVDF2BQ` |  |
-| Phase transition | 875.15 K | 875.15 | Sample f | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 83; `ORC-C3SRCPBDBG` |  |
-| Phase transition | 876.15 K | 876.15 | Sample f | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 84; `ORC-4LWHAWMIA2` |  |
-| Phase transition | 877.15 K | 877.15 | Sample f | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 86; `ORC-E555LWHCPA` |  |
-| Phase transition | 878.15 K | 878.15 | Sample f | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 90; `ORC-CAMJWZZNI2` |  |
-| Phase transition | 878.15 K | 878.15 | U7: L + LixMg2Si = τ3 + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 81; `ORC-7N6DMANFX6` |  |
-| Phase transition | 880.15 K | 880.15 | Sample d | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 63; `ORC-EULEAEH6AF` |  |
-| Phase transition | 880.15 K | 880.15 | U7: L + LixMg2Si = τ3 + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 57; `ORC-7E6WRXVUGC` |  |
-| Phase transition | 881.15 K | 881.15 | Sample d | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 64; `ORC-IED527TBMW` |  |
-| Phase transition | 881.15 K | 881.15 | U7: L + LixMg2Si = τ3 + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 59; `ORC-Y2OU5JAI4J` |  |
-| Phase transition | 882.15 K | 882.15 | Sample d | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 66; `ORC-ICCOZOZXKO` |  |
-| Phase transition | 882.15 K | 882.15 | U7: L + LixMg2Si = τ3 + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 58; `ORC-HVDFUXYZFG` |  |
-| Phase transition | 886.15 K | 886.15 | Sample h | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 118; `ORC-5NKRM6XPXW` |  |
-| Phase transition | 890.15 K | 890.15 | L + (Mg) + LixMg2Si/(Mg) + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 114; `ORC-7OQLHVRAOR` |  |
-| Phase transition | 890.15 K | 890.15 | Sample h | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 119; `ORC-BSL2PYAUJQ` |  |
-| Phase transition | 891.15 K | 891.15 | L + (Mg) + LixMg2Si/(Mg) + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 113; `ORC-7GFYFI7R5Z` |  |
-| Phase transition | 892.15 K | 892.15 | L + LixMg2Si + (Mg)/LixMg2Si + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 100; `ORC-J5AHEJS6LV` |  |
-| Phase transition | 892.15 K | 892.15 | Sample g | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 103; `ORC-PSGK6DSIAJ` |  |
-| Phase transition | 893.15 K | 893.15 | L + (Mg) + LixMg2Si/(Mg) + LixMg2Si | model | [1] Kevorkov 2004 | Table 3, p. 7, row 115; `ORC-7USFWD2MK5` |  |
-| Phase transition | 893.15 K | 893.15 | Sample g | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 105; `ORC-BS5F5U2IOY` |  |
-| Phase transition | 894.15 K | 894.15 | L + LixMg2Si + (Mg)/LixMg2Si + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 101; `ORC-LGS55U3C57` |  |
-| Phase transition | 894.15 K | 894.15 | Sample g | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 104; `ORC-CP26IWQC5Q` |  |
-| Phase transition | 895.15 K | 895.15 | L + LixMg2Si + (Mg)/LixMg2Si + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 99; `ORC-HU53RAHWXA` |  |
-| Phase transition | 896.15 K | 896.15 | L + LixMg2Si + (Mg)/LixMg2Si + (Mg) | model | [1] Kevorkov 2004 | Table 3, p. 7, row 102; `ORC-EY7CS3VZON` |  |
-| Phase transition | 901.15 K | 901.15 | L + LixMg2Si/L + LixMg2Si + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 72; `ORC-IJD5E5N5DR` |  |
-| Phase transition | 902.15 K | 902.15 | L + LixMg2Si/L + LixMg2Si + (Mg) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 73; `ORC-P2IAQT4MHD` |  |
-| Phase transition | 902.15 K | 902.15 | L + LixMg2Si/L + LixMg2Si + (Mg) | model | [1] Kevorkov 2004 | Table 3, p. 7, row 74; `ORC-TG4M5DQSYH` |  |
-| Phase transition | 903.15 K | 903.15 | ? L + τ3/L + τ3 + τ2 | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 19; `ORC-BDYNRLSGTO` |  |
-| Phase transition | 913.15 K | 913.15 | Sample b | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 25; `ORC-3KU2L3EBKD` |  |
-| Phase transition | 917.15 K | 917.15 | ? L + τ3/L + τ3 + τ2 | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 20; `ORC-QOMC4A6LPY` |  |
-| Phase transition | 917.15 K | 917.15 | Sample b | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 23; `ORC-OLHE5EQHOD` |  |
-| Phase transition | 922.15 K | 922.15 | Sample b | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 22; `ORC-V627QKLJUM` |  |
-| Phase transition | 927.15 K | 927.15 | ? L + τ3/L + τ3 + τ2 | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 18; `ORC-ZJVDU5VWD6` |  |
-| Phase transition | 934.15 K | 934.15 | U2: L + τ3 = τ1 + (Si) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 11; `ORC-LKOU4F5UQU` |  |
-| Phase transition | 937.15 K | 937.15 | Sample a | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 17; `ORC-HGD6MFS6SF` |  |
-| Phase transition | 945.15 K | 945.15 | Sample h | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 111; `ORC-OOE455K5SI` |  |
-| Phase transition | 947.15 K | 947.15 | ? L + τ3/L + τ3 + τ2 | model | [1] Kevorkov 2004 | Table 3, p. 7, row 21; `ORC-VE6TBZABKY` |  |
-| Phase transition | 947.15 K | 947.15 | L/L = LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 108; `ORC-63JFIBABJJ` |  |
-| Phase transition | 947.15 K | 947.15 | Sample h | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 110; `ORC-RIXU475HEV` |  |
-| Phase transition | 949.15 K | 949.15 | L/L = LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 107; `ORC-V2LQIIPSEU` |  |
-| Phase transition | 951.15 K | 951.15 | Sample a | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 16; `ORC-YQZCHSDRRX` |  |
-| Phase transition | 952.15 K | 952.15 | Sample a | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 14; `ORC-3UJQDHNKR4` |  |
-| Phase transition | 952.15 K | 952.15 | U2: L + τ3 = τ1 + (Si) | model | [1] Kevorkov 2004 | Table 3, p. 7, row 13; `ORC-EEFX4ELW6V` |  |
-| Phase transition | 952.15 K | 952.15 | U2: L + τ3 = τ1 + (Si) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 12; `ORC-Z4A5MOKCTB` |  |
-| Phase transition | 956.15 K | 956.15 | p1: L + τ3 = τ1 | model | [1] Kevorkov 2004 | Table 3, p. 7, row 7; `ORC-C5JPJRTTI6` |  |
-| Phase transition | 957.15 K | 957.15 | U2: L + τ3 = τ1 + (Si) | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 10; `ORC-AJDJB4ZC2N` |  |
-| Phase transition | 960.15 K | 960.15 | p1: L + τ3 = τ1 | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 5; `ORC-NN4N3M5DCA` |  |
-| Phase transition | 961.15 K | 961.15 | Sample a | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 9; `ORC-KMJHFOEQ6P` |  |
-| Phase transition | 961.15 K | 961.15 | p1: L + τ3 = τ1 | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 6; `ORC-SYXGBLLG7E` |  |
-| Phase transition | 962.15 K | 962.15 | Sample a | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 8; `ORC-4FSRTHID3F` |  |
-| Phase transition | 965.15 K | 965.15 | L/L = LixMg2Si | model | [1] Kevorkov 2004 | Table 3, p. 7, row 109; `ORC-AI3WROARSA` |  |
-| Phase transition | 1084.15 K | 1084.15 | L/L + τ3 | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 3; `ORC-FWYXTZ766L` |  |
-| Phase transition | 1110.15 K | 1110.15 | L/L + τ3 | model | [1] Kevorkov 2004 | Table 3, p. 7, row 4; `ORC-5SAHN4RCR3` |  |
-| Phase transition | 1150.15 K | 1150.15 | L/L + LixMg2Si | model | [1] Kevorkov 2004 | Table 3, p. 7, row 78; `ORC-2EWPPGVB6T` |  |
-| Phase transition | 1165.15 K | 1165.15 | L/L + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 77; `ORC-BHS7UFYQXS` |  |
-| Phase transition | 1169.15 K | 1169.15 | L/L + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 92; `ORC-VYC2XYSADM` |  |
-| Phase transition | 1171.15 K | 1171.15 | Sample g | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 96; `ORC-QDTHMIZXIU` |  |
-| Phase transition | 1172.15 K | 1172.15 | L/L + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 93; `ORC-TYZ3FI43LM` |  |
-| Phase transition | 1172.15 K | 1172.15 | Sample g | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 97; `ORC-RLME6RVYUW` |  |
-| Phase transition | 1173.15 K | 1173.15 | L/L + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 91; `ORC-IE46HUBGMJ` |  |
-| Phase transition | 1173.15 K | 1173.15 | Sample g | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 95; `ORC-65S2STZDKV` |  |
-| Phase transition | 1175.15 K | 1175.15 | L/L + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 75; `ORC-7DYBF4D3ZY` |  |
-| Phase transition | 1176.15 K | 1176.15 | L/L + LixMg2Si | model | [1] Kevorkov 2004 | Table 3, p. 7, row 94; `ORC-H5GLNLZPES` |  |
-| Phase transition | 1220.15 K | 1220.15 | L + τ3/L + LixMg2Si + τ3 | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 39; `ORC-UEFWGBQ434` |  |
-| Phase transition | 1221.15 K | 1221.15 | L + τ3/L + LixMg2Si + τ3 | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 38; `ORC-CSE7LQTITP` |  |
-| Phase transition | 1237.15 K | 1237.15 | L + τ3/L + LixMg2Si + τ3 | model | [1] Kevorkov 2004 | Table 3, p. 7, row 41; `ORC-KRKMIP4BC5` |  |
-| Phase transition | 1263.15 K | 1263.15 | L/L + τ3 | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 35; `ORC-ZFT3SWGMIP` |  |
-| Phase transition | 1268.15 K | 1268.15 | L/L + τ3 | model | [1] Kevorkov 2004 | Table 3, p. 7, row 37; `ORC-A4BSSVRUSY` |  |
-| Phase transition | 1269.15 K | 1269.15 | L/L + τ3 | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 34; `ORC-5ZEAL762E6` |  |
-| Phase transition | 1296.15 K | 1296.15 | L/L + LixMg2Si | model | [1] Kevorkov 2004 | Table 3, p. 7, row 53; `ORC-NQNGGZ7GGB` |  |
-| Phase transition | 1333.15 K | 1333.15 | L/L + LixMg2Si | model | [1] Kevorkov 2004 | Table 3, p. 7, row 70; `ORC-6UKAULJTBT` |  |
-| Phase transition | 1335.15 K | 1335.15 | L/L + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 51; `ORC-C4OE2E4MI3` |  |
-| Phase transition | 1337.15 K | 1337.15 | Sample d | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 55; `ORC-FKJXS5TDKY` |  |
-| Phase transition | 1340.15 K | 1340.15 | L/L + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 52; `ORC-MC4AZLBMNU` |  |
-| Phase transition | 1340.15 K | 1340.15 | Sample d | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 54; `ORC-PEE2ZK2UYA` |  |
-| Phase transition | 1343.15 K | 1343.15 | Sample d | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 56; `ORC-AYDHFZUZWE` |  |
-| Phase transition | 1346.15 K | 1346.15 | L/L + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 50; `ORC-MVGT4EYNO6` |  |
-| Phase transition | 1349.15 K | 1349.15 | L/L + LixMg2Si | experimental | [1] Kevorkov 2004 | Table 3, p. 7, row 68; `ORC-KVUEFFJL7L` |  |
 
 ### Phase equilibrium (10)
 
@@ -195,8 +92,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -205,7 +102,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -216,7 +113,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

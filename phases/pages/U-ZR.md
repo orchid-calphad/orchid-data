@@ -15,7 +15,7 @@ Table: Phases of the U–Zr system (8)
 | [ORTHORHOMBIC_A20](#phase-u-zr-a20-orthorhombic); _phase:u-zr:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–964.93 K, x(Zr) 0–0.01709 | 9 | 9 |
 | [BCC_A2](#phase-u-zr-bcc-a2); _phase:u-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 872.18–3999.6 K, x(Zr) 0–1 | 46 | 9 |
 | [FCC_A1](#phase-u-zr-fcc-a1); _phase:u-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 9 calculated diagram(s) | 0 | 9 |
-| [HCP_A3](#phase-u-zr-hcp-a3); _phase:u-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2123.99 K, x(Zr) 0.98173–1 | 0 | 9 |
+| [HCP_A3](#phase-u-zr-hcp-a3); _phase:u-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2123.99 K, x(Zr) 0.98173–1 | 8 | 9 |
 | [LIQUID](#phase-u-zr-liquid); _phase:u-zr:liquid_ | liquid | liquid | stable in 9 of 9 calculated diagram(s): 1320.49–4000 K, x(Zr) 0–1 | 0 | 9 |
 | [TETRAGONAL_U](#phase-u-zr-u-tetragonal); _phase:u-zr:u-tetragonal_ |  | needs_review | stable in 9 of 9 calculated diagram(s): 933–1131.44 K, x(Zr) 0–0.01971 | 13 | 9 |
 | [U3ZR7](#phase-u-zr-u3zr7); _phase:u-zr:u3zr7_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–880.85 K, x(Zr) 0.7–0.7 | 0 | 1 |
@@ -322,10 +322,11 @@ _assessment that models this phase_
 - Id: `phase:u-zr:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 9 of 9 calculated diagram(s): 300–2123.99 K, x(Zr) 0.98173–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-zr:hcp-a3)
 
-Names (10): _corpus: _corpus:phase:u-zr:hcp-a3  
+Names (11): _corpus: _corpus:phase:u-zr:hcp-a3  
+_paper: _paper:10.1016/j.jnucmat.2013.07.034:α(Zr)  
 _tdb: _tdb:UZr-04Che-LB.tdb:HCP_A3, tdb:UZr-10Kur.tdb:HCP_A3, tdb:UZr-13Xio.tdb:HCP_A3, tdb:UZr-18Qua.tdb:HCP_A3, tdb:UZr-18Xie.tdb:HCP_A3, tdb:UZr-25Wil.tdb:HCP_A3, tdb:UZr-98AEA.tdb:HCP_A3, tdb:UZr-98Che.tdb:HCP_A3, tdb:UZr-98Kur.tdb:HCP_A3  
 
 
@@ -394,13 +395,13 @@ _tdb: _tdb:UZr-04Che-LB.tdb:HCP_A3, tdb:UZr-10Kur.tdb:HCP_A3, tdb:UZr-13Xio.tdb:
 40: CONST HCP_A3 : U ZR% : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (9 of 9; assessments first): 
 
-- [doi:10.1016/j.calphad.2004.03.005](https://doi.org/10.1016/j.calphad.2004.03.005) Pierre-Yves Chevalier, Evelyne Fischer, Bertrand Cheynet, Progress in the thermodynamic modelling of the O–U–Zr ternary system, Calphad 28, 15-40 (2004).  
-_assessment that models this phase_
-- [doi:10.1016/j.commatsci.2017.11.042](https://doi.org/10.1016/j.commatsci.2017.11.042) Wei Xie, Dane Morgan, CALPHAD modeling and ab initio calculations of the Np-U-Zr system, Computational Materials Science 143, 505-514 (2018).  
-_assessment that models this phase_
 - [doi:10.1016/j.jnucmat.2013.07.034](https://doi.org/10.1016/j.jnucmat.2013.07.034) Wei Xiong, Wei Xie, Chao Shen, Dane Morgan, Thermodynamic modeling of the U–Zr system – A revisit, Journal of Nuclear Materials 443, 331-341 (2013).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2004.03.005](https://doi.org/10.1016/j.calphad.2004.03.005) Pierre-Yves Chevalier, Evelyne Fischer, Bertrand Cheynet, Progress in the thermodynamic modelling of the O–U–Zr ternary system, Calphad 28, 15-40 (2004).  
+_assessment that models this phase; cited as the source of values for this phase_
+- [doi:10.1016/j.commatsci.2017.11.042](https://doi.org/10.1016/j.commatsci.2017.11.042) Wei Xie, Dane Morgan, CALPHAD modeling and ab initio calculations of the Np-U-Zr system, Computational Materials Science 143, 505-514 (2018).  
 _assessment that models this phase_
 - [doi:10.1016/j.jnucmat.2018.01.023](https://doi.org/10.1016/j.jnucmat.2018.01.023) A. Quaini, C. Guéneau, S. Gossé, N. Dupin, B. Sundman, E. Brackx et al., Contribution to the thermodynamic description of the corium – The U-Zr-O system, Journal of Nuclear Materials 501, 104-131 (2018).  
 _assessment that models this phase_
@@ -410,6 +411,10 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0925-8388(98)00176-5](https://doi.org/10.1016/S0925-8388%2898%2900176-5) M. Kurata, T. Ogata, K. Nakamura, T. Ogawa, J. Alloys Compd., 271-273, 636-40(1998).  
 _assessment that models this phase_
+- [doi:10.1007/bf02881432](https://doi.org/10.1007/bf02881432) R. I. Sheldon, D. E. Peterson, The U-Zr (Uranium-Zirconium) system, Bulletin of Alloy Phase Diagrams 10, 165-171 (1989).  
+_cited as the source of values for this phase_
+- [doi:10.2172/4351828](https://doi.org/10.2172/4351828) F.A. Rough, A.E. Austin, A.A. Bauer, J.R. Doig, THE STABILITY AND EXISTENCE RANGE OF THE ZIRCONIUM-URANIUM EPSILON PHASE, (1956).  
+_cited as the source of values for this phase_
 
 ## LIQUID (U–Zr)
 
@@ -734,8 +739,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -744,7 +749,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -755,7 +760,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

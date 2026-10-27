@@ -1,10 +1,10 @@
 # Au–Ni–Sn system
 
-> Au–Ni–Sn system: 137 accepted literature values (phase equilibrium 83, phase transition 28, invariant reaction 26) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ni–Sn system: 118 accepted literature values (phase equilibrium 83, invariant reaction 26, phase transition 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-NI-SN.html · Markdown: https://data.orchid-project.org/systems/AU-NI-SN.md
 
-137 accepted literature values from 2 paper(s) (experimental 78, model 59); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+118 accepted literature values from 2 paper(s) (experimental 59, model 59); 0 calculated phase diagram(s). 21 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-NI-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-NI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-NI-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-NI-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-NI-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 78 |
+| experimental | 59 |
 | model | 59 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 26 |
-| phase transition | 28 |
+| phase transition | 9 |
 | phase equilibrium | 83 |
 
 ## Invariant reactions (literature)
@@ -58,32 +58,13 @@ Table: Invariant reactions reported in the literature for the Au–Ni–Sn syste
 
 ## Other properties
 
-### Phase transition (28)
+### Phase transition (9)
 
 Table: Phase transition, Au–Ni–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 484.15 K | 484.15 | other: Ni12.5 Au12.5 (at.%); _alloy: Au 0.125, Ni 0.125, Sn 0.75_ | experimental | [2] Liu 2005 | Table III, p. 7, row 14; `ORC-OY3U6HIOGF` |  |
-| Phase transition | 489.15 K | 489.15 | other: Ni5 Au5 (at.%) | experimental | [2] Liu 2005 | Table III, p. 7, row 18; `ORC-NUUIHYGI74` |  |
-| Phase transition | 513.15 K | 513.15 | other: Ni12.5 Au12.5 (at.%); _alloy: Au 0.125, Ni 0.125, Sn 0.75_ | experimental | [2] Liu 2005 | Table III, p. 7, row 15; `ORC-C3E4BSJ7DN` |  |
-| Phase transition | 514.15 K | 514.15 | other: Ni5 Au5 (at.%) | experimental | [2] Liu 2005 | Table III, p. 7, row 19; `ORC-AZA4EMY7JR` |  |
-| Phase transition | 533.15 K | 533.15 | other: Ni17.5 Au17.5 (at.%); _alloy: Au 0.175, Ni 0.175, Sn 0.65_ | experimental | [2] Liu 2005 | Table III, p. 7, row 12; `ORC-3OLC6EZATI` |  |
-| Phase transition | 553.15 K | 553.15 | other: Ni15 Au45 (at.%); _alloy: Au 0.45, Ni 0.15, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 27; `ORC-AJOCX676KY` |  |
-| Phase transition | 557.15 K | 557.15 | other: Ni30 Au30 (at.%); _alloy: Au 0.3, Ni 0.3, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 25; `ORC-XHX2PRJJ76` |  |
-| Phase transition | 577.15 K | 577.15 | other: Ni30 Au30 (at.%); _alloy: Au 0.3, Ni 0.3, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 26; `ORC-FVLZB2B3QK` |  |
-| Phase transition | 584.15 K | 584.15 | other: Ni25 Au25 (at.%); _alloy: Au 0.25, Ni 0.25, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 10; `ORC-AAG4O3B7X4` |  |
-| Phase transition | 588.15 K | 588.15 | other: Ni10 Au40 (at.%); _alloy: Au 0.4, Ni 0.1, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 22; `ORC-NQ5HZQ3CT4` |  |
-| Phase transition | 589.15 K | 589.15 | other: Ni12.5 Au12.5 (at.%); _alloy: Au 0.125, Ni 0.125, Sn 0.75_ | experimental | [2] Liu 2005 | Table III, p. 7, row 16; `ORC-MZ674I3CQN` |  |
-| Phase transition | 608.15 K | 608.15 | other: Ni15 Au45 (at.%); _alloy: Au 0.45, Ni 0.15, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 28; `ORC-O6MCCFYHJQ` |  |
-| Phase transition | 675.15 K | 675.15 | other: Ni45 Au15 (at.%); _alloy: Au 0.15, Ni 0.45, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 24; `ORC-G3VX7UQO7K` |  |
-| Phase transition | 681.15 K | 681.15 | other: Ni17.5 Au17.5 (at.%); _alloy: Au 0.175, Ni 0.175, Sn 0.65_ | experimental | [2] Liu 2005 | Table III, p. 7, row 13; `ORC-E4KIZLWU6P` |  |
-| Phase transition | 718.15 K | 718.15 | other: Ni10 Au40 (at.%); _alloy: Au 0.4, Ni 0.1, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 23; `ORC-SA5VQLHCQ6` |  |
-| Phase transition | 757.15 K | 757.15 | other: Ni40 Au10 (at.%); _alloy: Au 0.1, Ni 0.4, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 21; `ORC-DWBSC3QB32` |  |
-| Phase transition | 786.15 K | 786.15 | other: Ni40 Au10 (at.%); _alloy: Au 0.1, Ni 0.4, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 20; `ORC-JLCNFMT3TP` |  |
-| Phase transition | 791.15 K | 791.15 | other: Ni25 Au25 (at.%); _alloy: Au 0.25, Ni 0.25, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 11; `ORC-25OVYB32AO` |  |
 | Phase transition | 878.15 K | 878.15 | other | experimental | [2] Liu 2005 | Table III, p. 7, row 4; `ORC-NBLI2LP7O5` |  |
-| Phase transition | 984.15 K | 984.15 | other: Ni12.5 Au12.5 (at.%); _alloy: Au 0.125, Ni 0.125, Sn 0.75_ | experimental | [2] Liu 2005 | Table III, p. 7, row 17; `ORC-IFWA3SLFHV` |  |
 | Phase transition | 1048.15 K | 1048.15 | other; _alloy: Au 0.125, Ni 0.125, Sn 0.75_ | experimental | [2] Liu 2005 | Table III, p. 7, row 3; `ORC-SUFXDNSBPX` |  |
 | Phase transition | 1138.15 K | 1138.15 | other; _alloy: Au 0.4, Ni 0.1, Sn 0.5_ | experimental | [2] Liu 2005 | Table III, p. 7, row 6; `ORC-VDPVUF2IRM` |  |
 | Phase transition | 1148.15 K | 1148.15 | other; _alloy: Au 0.45, Ni 0.15, Sn 0.4_ | experimental | [2] Liu 2005 | Table III, p. 7, row 9; `ORC-KF64AGP5SU` |  |
@@ -192,8 +173,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -202,7 +183,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -213,7 +194,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

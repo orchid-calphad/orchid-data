@@ -1,10 +1,10 @@
 # Ag–Au–Sn system
 
-> Ag–Au–Sn system: 85 accepted literature values (phase transition 40, invariant reaction 27, phase equilibrium 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Au–Sn system: 45 accepted literature values (invariant reaction 27, phase equilibrium 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-AU-SN.html · Markdown: https://data.orchid-project.org/systems/AG-AU-SN.md
 
-85 accepted literature values from 2 paper(s) (experimental 73, model 12); 0 calculated phase diagram(s).
+45 accepted literature values from 2 paper(s) (experimental 33, model 12); 0 calculated phase diagram(s). 40 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-AU-SN.json) · [CSV](https://data.orchid-project.org/systems/AG-AU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-AU-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-AU-SN.html) · [Markdown](https://data.orchid-project.org/systems/AG-AU-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 73 |
+| experimental | 33 |
 | model | 12 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 27 |
-| phase transition | 40 |
 | phase equilibrium | 18 |
 
 ## Invariant reactions (literature)
@@ -59,53 +58,6 @@ Table: Invariant reactions reported in the literature for the Ag–Au–Sn syste
 
 ## Other properties
 
-### Phase transition (40)
-
-Table: Phase transition, Ag–Au–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 470.15 K | 470.15 | Ag30Au10Sn60; _alloy: Ag 0.3, Au 0.1, Sn 0.6_ | experimental | [1] Gao 2009 | Table II, p. 5, row 7; `ORC-DAHSAEMOEN` |  |
-| Phase transition | 480.15 K | 480.15 | Ag30Au10Sn60; _alloy: Ag 0.3, Au 0.1, Sn 0.6_ | experimental | [1] Gao 2009 | Table II, p. 5, row 5; `ORC-YGUKU23O2C` |  |
-| Phase transition | 480.15 K | 480.15 | Ag53Au12Sn35; _alloy: Ag 0.53, Au 0.12, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 36; `ORC-W6E72IGRDZ` |  |
-| Phase transition | 501.15 K | 501.15 | Ag10Au45Sn45; _alloy: Ag 0.1, Au 0.45, Sn 0.45_ | experimental | [1] Gao 2009 | Table II, p. 5, row 17; `ORC-ODTKFMEMGM` |  |
-| Phase transition | 504.15 K | 504.15 | Ag30Au10Sn60; _alloy: Ag 0.3, Au 0.1, Sn 0.6_ | experimental | [1] Gao 2009 | Table II, p. 5, row 8; `ORC-732TX2X5BC` |  |
-| Phase transition | 509.15 K | 509.15 | Ag53Au12Sn35; _alloy: Ag 0.53, Au 0.12, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 37; `ORC-72ZOB77K7T` |  |
-| Phase transition | 512.15 K | 512.15 | Ag30Au10Sn60; _alloy: Ag 0.3, Au 0.1, Sn 0.6_ | experimental | [1] Gao 2009 | Table II, p. 5, row 6; `ORC-BHVYFZRN5R` |  |
-| Phase transition | 512.15 K | 512.15 | Ag53Au12Sn35; _alloy: Ag 0.53, Au 0.12, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 31; `ORC-MVMDONBIOL` |  |
-| Phase transition | 518.15 K | 518.15 | Ag10Au45Sn45; _alloy: Ag 0.1, Au 0.45, Sn 0.45_ | experimental | [1] Gao 2009 | Table II, p. 5, row 18; `ORC-MYL42GMB5E` |  |
-| Phase transition | 566.15 K | 566.15 | Ag10Au45Sn45; _alloy: Ag 0.1, Au 0.45, Sn 0.45_ | experimental | [1] Gao 2009 | Table II, p. 5, row 14; `ORC-4SNCDPAEZ6` |  |
-| Phase transition | 566.15 K | 566.15 | Ag53Au12Sn35; _alloy: Ag 0.53, Au 0.12, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 32; `ORC-UEWGCXCSJB` |  |
-| Phase transition | 575.15 K | 575.15 | Ag10Au45Sn45; _alloy: Ag 0.1, Au 0.45, Sn 0.45_ | experimental | [1] Gao 2009 | Table II, p. 5, row 19; `ORC-OXC5L4TD7D` |  |
-| Phase transition | 590.15 K | 590.15 | Ag53Au12Sn35; _alloy: Ag 0.53, Au 0.12, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 38; `ORC-2RTPMV3RXA` |  |
-| Phase transition | 597.15 K | 597.15 | Ag53Au12Sn35; _alloy: Ag 0.53, Au 0.12, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 33; `ORC-6XBDFCWSNQ` |  |
-| Phase transition | 614.15 K | 614.15 | Ag10Au45Sn45; _alloy: Ag 0.1, Au 0.45, Sn 0.45_ | experimental | [1] Gao 2009 | Table II, p. 5, row 15; `ORC-FGRQ4EZGDC` |  |
-| Phase transition | 614.15 K | 614.15 | Ag18Au52Sn30; _alloy: Ag 0.18, Au 0.52, Sn 0.3_ | experimental | [1] Gao 2009 | Table II, p. 5, row 21; `ORC-N6QJN6E2FN` |  |
-| Phase transition | 621.15 K | 621.15 | Ag35Au35Sn30; _alloy: Ag 0.35, Au 0.35, Sn 0.3_ | experimental | [1] Gao 2009 | Table II, p. 5, row 25; `ORC-CNFZ2OI5K3` |  |
-| Phase transition | 622.15 K | 622.15 | Ag18Au52Sn30; _alloy: Ag 0.18, Au 0.52, Sn 0.3_ | experimental | [1] Gao 2009 | Table II, p. 5, row 20; `ORC-DKI54DQYLA` |  |
-| Phase transition | 623.15 K | 623.15 | Ag35Au35Sn30; _alloy: Ag 0.35, Au 0.35, Sn 0.3_ | experimental | [1] Gao 2009 | Table II, p. 5, row 23; `ORC-MH2767ITBW` |  |
-| Phase transition | 630.15 K | 630.15 | Ag20Au45Sn35; _alloy: Ag 0.2, Au 0.45, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 12; `ORC-IA2ELSXHFC` |  |
-| Phase transition | 632.15 K | 632.15 | Ag45Au43Sn12; _alloy: Ag 0.45, Au 0.43, Sn 0.12_ | experimental | [1] Gao 2009 | Table II, p. 5, row 29; `ORC-FRWHH4EPKB` |  |
-| Phase transition | 633.15 K | 633.15 | Ag30Au45Sn25; _alloy: Ag 0.3, Au 0.45, Sn 0.25_ | experimental | [1] Gao 2009 | Table II, p. 5, row 3; `ORC-Y3PWVHKME2` |  |
-| Phase transition | 634.15 K | 634.15 | Ag10Au45Sn45; _alloy: Ag 0.1, Au 0.45, Sn 0.45_ | experimental | [1] Gao 2009 | Table II, p. 5, row 16; `ORC-6PDCI5AMJG` |  |
-| Phase transition | 636.15 K | 636.15 | Ag45Au43Sn12; _alloy: Ag 0.45, Au 0.43, Sn 0.12_ | experimental | [1] Gao 2009 | Table II, p. 5, row 27; `ORC-E2FFJFMAXN` |  |
-| Phase transition | 639.15 K | 639.15 | Ag18Au52Sn30; _alloy: Ag 0.18, Au 0.52, Sn 0.3_ | experimental | [1] Gao 2009 | Table II, p. 5, row 22; `ORC-4ORZYRC46H` |  |
-| Phase transition | 639.15 K | 639.15 | Ag30Au45Sn25; _alloy: Ag 0.3, Au 0.45, Sn 0.25_ | experimental | [1] Gao 2009 | Table II, p. 5, row 1; `ORC-NIOCJVY452` |  |
-| Phase transition | 641.15 K | 641.15 | Ag20Au45Sn35; _alloy: Ag 0.2, Au 0.45, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 10; `ORC-RJGKBB3NSQ` |  |
-| Phase transition | 671.15 K | 671.15 | Ag53Au12Sn35; _alloy: Ag 0.53, Au 0.12, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 39; `ORC-3FXRP6OO2G` |  |
-| Phase transition | 675.15 K | 675.15 | Ag53Au12Sn35; _alloy: Ag 0.53, Au 0.12, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 34; `ORC-4ACHNF2ZWS` |  |
-| Phase transition | 678.15 K | 678.15 | Ag20Au45Sn35; _alloy: Ag 0.2, Au 0.45, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 13; `ORC-OQKN3DPVDX` |  |
-| Phase transition | 683.15 K | 683.15 | Ag30Au10Sn60; _alloy: Ag 0.3, Au 0.1, Sn 0.6_ | experimental | [1] Gao 2009 | Table II, p. 5, row 9; `ORC-HUA4HU4FWU` |  |
-| Phase transition | 703.15 K | 703.15 | Ag20Au45Sn35; _alloy: Ag 0.2, Au 0.45, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 11; `ORC-6OXENF2O6C` |  |
-| Phase transition | 788.15 K | 788.15 | Ag35Au35Sn30; _alloy: Ag 0.35, Au 0.35, Sn 0.3_ | experimental | [1] Gao 2009 | Table II, p. 5, row 26; `ORC-DRO745X4P4` |  |
-| Phase transition | 802.15 K | 802.15 | Ag35Au35Sn30; _alloy: Ag 0.35, Au 0.35, Sn 0.3_ | experimental | [1] Gao 2009 | Table II, p. 5, row 24; `ORC-SV6LIDUVOV` |  |
-| Phase transition | 821.15 K | 821.15 | Ag53Au12Sn35; _alloy: Ag 0.53, Au 0.12, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 40; `ORC-O45SDUID5D` |  |
-| Phase transition | 830.15 K | 830.15 | Ag30Au45Sn25; _alloy: Ag 0.3, Au 0.45, Sn 0.25_ | experimental | [1] Gao 2009 | Table II, p. 5, row 4; `ORC-IDTMMN5TAS` |  |
-| Phase transition | 837.15 K | 837.15 | Ag53Au12Sn35; _alloy: Ag 0.53, Au 0.12, Sn 0.35_ | experimental | [1] Gao 2009 | Table II, p. 5, row 35; `ORC-7OYQ2U2WNE` |  |
-| Phase transition | 840.15 K | 840.15 | Ag30Au45Sn25; _alloy: Ag 0.3, Au 0.45, Sn 0.25_ | experimental | [1] Gao 2009 | Table II, p. 5, row 2; `ORC-7JOCBNB2D7` |  |
-| Phase transition | 866.15 K | 866.15 | Ag45Au43Sn12; _alloy: Ag 0.45, Au 0.43, Sn 0.12_ | experimental | [1] Gao 2009 | Table II, p. 5, row 30; `ORC-H2VBA3XSDT` |  |
-| Phase transition | 875.15 K | 875.15 | Ag45Au43Sn12; _alloy: Ag 0.45, Au 0.43, Sn 0.12_ | experimental | [1] Gao 2009 | Table II, p. 5, row 28; `ORC-ZJPYDXA6T6` |  |
-
 ### Phase equilibrium (18)
 
 Table: Phase equilibrium, Ag–Au–Sn system
@@ -140,8 +92,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -150,7 +102,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -161,7 +113,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

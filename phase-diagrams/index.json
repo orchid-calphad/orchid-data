@@ -5,20 +5,20 @@
   "release_tag": "v2026.10",
   "license": "CC-BY-4.0",
   "status": "Version 1 (calculated / third-party derived data)",
-  "title": "ORCHID calculated binary phase diagrams",
+  "title": "ORCHID-Diagrams: calculated binary phase diagrams",
   "doi": "10.5281/zenodo.PENDING-phase-diagrams",
   "url": "https://doi.org/10.5281/zenodo.PENDING-phase-diagrams",
-  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams",
-  "bibtex": "@misc{orchid_phase_diagrams_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID calculated binary phase diagrams}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-phase-diagrams},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-diagrams}\n}",
+  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams",
+  "bibtex": "@misc{orchid_phase_diagrams_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-phase-diagrams},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-diagrams}\n}",
   "also_cite": [
    "B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file"
   ],
   "part_of": {
-   "title": "ORCHID data",
+   "title": "ORCHID data: umbrella record of the ORCHID datasets",
    "doi": "10.5281/zenodo.PENDING-orchid-data",
    "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
+   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
   }
  },
  "source": "SGTE binary collection (Hallstedt 2025), CC BY 4.0",
@@ -3166,6 +3166,14 @@
     "grid": true,
     "citation": "Z. Liang, U. Kattner, K. Choudharry, F. Tavazza, C. Campbell, J. Phase Equilib. Diffus., 45, 732-56(2024).",
     "doi": "10.1007/s11669-024-01124-9"
+   },
+   {
+    "file": "AlTi-92Kat.json",
+    "tdb": "AlTi-92Kat.tdb",
+    "sha256": "e8aff28ebffc8f27ef9710237576b5d75b7ca50781cc95f178f89866f193222e",
+    "grid": false,
+    "citation": "U.R. Kattner, J.-C. Lin, Y.A. Chang, Metall. Trans. A, 23A, 2081-90(1992).",
+    "doi": "10.1007/BF02646001"
    },
    {
     "file": "AlTi-98Sau-LB.json",
@@ -9474,6 +9482,16 @@
     "doi": "10.2298/JMMB120113024H"
    }
   ],
+  "CU-NB": [
+   {
+    "file": "CuNb-90Ham-LB.json",
+    "tdb": "CuNb-90Ham-LB.tdb",
+    "sha256": "d0302e51fd13f6200680cf9676bf79c604871ff1238d1f81fee5c161fb157da1",
+    "grid": false,
+    "citation": "M. Hamalainen, K. Jaaskelainen, R. Luoma, M. Nuotio, P. Taskinen, O. Teppo, Calphad, 14, 125-37(1990).",
+    "doi": "10.1016/0364-5916(90)90014-Q"
+   }
+  ],
   "CU-ND": [
    {
     "file": "CuNd-11Wan.json",
@@ -9542,6 +9560,14 @@
     "grid": false,
     "citation": "H. Magnusson, K. Frisk, Calphad, 47, 148-60(2014).",
     "doi": "10.1016/j.calphad.2014.09.004"
+   },
+   {
+    "file": "CuO-92Bou.json",
+    "tdb": "CuO-92Bou.tdb",
+    "sha256": "01c48e87b93fb30f817411232690b694a306f3b90f586840e3ef2d4366420673",
+    "grid": false,
+    "citation": "A. Boudene, K. Hack, A. Mohammad, D. Neuschuetz, E. Zimmermann, Z. Metallkd., 83, 663-68(1992).",
+    "doi": "10.1515/ijmr-1992-830905"
    },
    {
     "file": "CuO-94Hal.json",
@@ -12086,14 +12112,6 @@
     "doi": "10.1016/j.calphad.2021.102383"
    },
    {
-    "file": "FeTi-23Wal-3g.json",
-    "tdb": "FeTi-23Wal-3g.tdb",
-    "sha256": "eb27ebd8890d3aeadec02c42b1ea50be21ed2c0f5e1d3099c985300aca5bf324",
-    "grid": false,
-    "citation": "A. Walnsch, A. Leineweber, M.J. Kriegel, Calphad, 81, 102555(2023).",
-    "doi": "10.1016/j.calphad.2023.102555"
-   },
-   {
     "file": "FeTi-24Lia.json",
     "tdb": "FeTi-24Lia.tdb",
     "sha256": "0a498e0d238a414e0a15d505bd317dc0289ca7132b2b93b178ad416991462d95",
@@ -12810,16 +12828,6 @@
     "grid": true,
     "citation": "Z.K. Jun, L.B. Liu, H.S. Liu, X.M. Huang, Z.P. Jin, J. Alloys Compd., 463, 511-15(2008).",
     "doi": "10.1016/j.jallcom.2007.09.067"
-   }
-  ],
-  "GA-SE": [
-   {
-    "file": "GaSe-08Zhe.json",
-    "tdb": "GaSe-08Zhe.tdb",
-    "sha256": "a1c458a9361989a9059922b6a547c42c65f199bf34cbcb2ca18444a190e38c36",
-    "grid": false,
-    "citation": "F. Zheng, J.Y. Shen, Y.Q. Liu, W.K. Kim, M.Y. Chu, M. Ider, X.H. Bao, T.J. Anderson, Calphad, 32, 432-38(2008).",
-    "doi": "10.1016/j.calphad.2008.03.004"
    }
   ],
   "GA-SI": [
@@ -16398,6 +16406,14 @@
     "grid": true,
     "citation": "X. Wu, C. Li, C. Guo, Z. Du, Calphad, 71, 102010(2020).",
     "doi": "10.1016/j.calphad.2020.102010"
+   },
+   {
+    "file": "MgY-98Luk.json",
+    "tdb": "MgY-98Luk.tdb",
+    "sha256": "68740131a132fee3651ec3eb1fd044d3a56428ed2828054a4818d2079e1115cc",
+    "grid": false,
+    "citation": "H.L. Lukas, COST 507, Final report round 2, 1998.",
+    "doi": null
    }
   ],
   "MG-YB": [

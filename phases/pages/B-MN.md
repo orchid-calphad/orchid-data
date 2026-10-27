@@ -13,10 +13,10 @@ Table: Phases of the B–Mn system (13)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BETA_RHOMBO_B](#phase-b-mn-b-beta-rhombo); _phase:b-mn:b-beta-rhombo_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2361.93 K, x(B) 0.95882–1 | 7 | 1 |
-| [BCC_A2](#phase-b-mn-bcc-a2); _phase:b-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1410.94–1519 K, x(B) 0–2e-05 | 0 | 1 |
+| [BCC_A2](#phase-b-mn-bcc-a2); _phase:b-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1410.94–1519 K, x(B) 0–2e-05 | 4 | 1 |
 | [CBCC_A12](#phase-b-mn-cbcc-a12); _phase:b-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–980 K, x(B) 0–0 | 0 | 1 |
 | [CUB_A13](#phase-b-mn-cub-a13); _phase:b-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 980–1360.15 K, x(B) 0–2e-05 | 0 | 1 |
-| [FCC_A1](#phase-b-mn-fcc-a1); _phase:b-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1360–1496 K, x(B) 0–0 | 0 | 1 |
+| [FCC_A1](#phase-b-mn-fcc-a1); _phase:b-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1360–1496 K, x(B) 0–0 | 3 | 1 |
 | [HCP_A3](#phase-b-mn-hcp-a3); _phase:b-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-b-mn-liquid); _phase:b-mn:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1477.28–4000 K, x(B) 0–1 | 28 | 1 |
 | [MN2B_C16](#phase-b-mn-mn2b-c16); _phase:b-mn:mn2b-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1818.84 K, x(B) 0.33333–0.33333 | 15 | 1 |
@@ -66,10 +66,11 @@ _cited as the source of values for this phase_
 - Id: `phase:b-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1410.94–1519 K, x(B) 0–2e-05
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-mn:bcc-a2)
 
-Names (2): _corpus: _corpus:phase:b-mn:bcc-a2  
+Names (3): _corpus: _corpus:phase:b-mn:bcc-a2  
+_paper: _paper:10.1007/s11669-010-9740-6:δMn  
 _tdb: _tdb:MnB-10Sun.tdb:BCC_A2  
 
 
@@ -82,10 +83,14 @@ _tdb: _tdb:MnB-10Sun.tdb:BCC_A2
 32: CONST BCC_A2 : MN : B VA% : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-010-9740-6](https://doi.org/10.1007/s11669-010-9740-6) Weihua Sun, Yong Du, Shuhong Liu, Baiyun Huang, Chao Jiang, Thermodynamic Assessment of the Mn-B System, J. Phase Equilib. Diffus. 31, 357-364 (2010).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/bf02652172](https://doi.org/10.1007/bf02652172) H. Okamoto, B-Mn (Boron-Manganese), J. Phase Equilib., 1993, 14(1), p 121-122  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02869863](https://doi.org/10.1007/bf02869863) P.K. Liao and K.E. Spear, The B-Mn (Boron-Manganese) System, Bull. Alloy Phase Diag., 1986, 7(6), p 543-549, p 585-586  
+_cited as the source of values for this phase_
 
 ## CBCC_A12 (B–Mn)
 
@@ -144,10 +149,11 @@ _assessment that models this phase_
 - Id: `phase:b-mn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1360–1496 K, x(B) 0–0
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-mn:fcc-a1)
 
-Names (2): _corpus: _corpus:phase:b-mn:fcc-a1  
+Names (3): _corpus: _corpus:phase:b-mn:fcc-a1  
+_paper: _paper:10.1007/s11669-010-9740-6:γMn  
 _tdb: _tdb:MnB-10Sun.tdb:FCC_A1  
 
 
@@ -160,10 +166,12 @@ _tdb: _tdb:MnB-10Sun.tdb:FCC_A1
 27: CONST FCC_A1 : MN : B VA% : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-010-9740-6](https://doi.org/10.1007/s11669-010-9740-6) Weihua Sun, Yong Du, Shuhong Liu, Baiyun Huang, Chao Jiang, Thermodynamic Assessment of the Mn-B System, J. Phase Equilib. Diffus. 31, 357-364 (2010).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/bf02869863](https://doi.org/10.1007/bf02869863) P.K. Liao and K.E. Spear, The B-Mn (Boron-Manganese) System, Bull. Alloy Phase Diag., 1986, 7(6), p 543-549, p 585-586  
+_cited as the source of values for this phase_
 
 ## HCP_A3 (B–Mn)
 
@@ -433,8 +441,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -443,7 +451,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -454,7 +462,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -14,9 +14,9 @@ Table: Phases of the La–Sn system (15)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-la-sn-a4-diamond); _phase:la-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [BCT_A5](#phase-la-sn-a5-bct); _phase:la-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 10 | 4 |
-| [BCC_A2](#phase-la-sn-bcc-a2); _phase:la-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1134–1199 K, x(Sn) 0–0 | 0 | 4 |
+| [BCC_A2](#phase-la-sn-bcc-a2); _phase:la-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1134–1199 K, x(Sn) 0–0 | 5 | 4 |
 | [DHCP](#phase-la-sn-dhcp-a3); _phase:la-sn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–550 K, x(Sn) 0–0 | 0 | 4 |
-| [FCC_A1](#phase-la-sn-fcc-a1); _phase:la-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 550–1134 K, x(Sn) 0–0 | 0 | 4 |
+| [FCC_A1](#phase-la-sn-fcc-a1); _phase:la-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 550–1134 K, x(Sn) 0–0 | 10 | 4 |
 | [HCP_A3](#phase-la-sn-hcp-a3); _phase:la-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LA11SN10](#phase-la-sn-la11sn10); _phase:la-sn:la11sn10_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1718.8 K, x(Sn) 0.476–0.47619 | 19 | 4 |
 | [LA2SN3](#phase-la-sn-la2sn3); _phase:la-sn:la2sn3_ | Nd2Sn3 · aP20 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1480 K, x(Sn) 0.6–0.6 | 17 | 4 |
@@ -142,10 +142,11 @@ _cited as the source of values for this phase_
 - Id: `phase:la-sn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 1134–1199 K, x(Sn) 0–0
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sn:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:la-sn:bcc-a2  
+Names (7): _corpus: _corpus:phase:la-sn:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2008.12.003:γLa, paper:10.1016/s0925-8388(00)01077-x:γLa  
 _tdb: _tdb:LaSn-00Hua.tdb:BCC_A2, tdb:LaSn-09Idb.tdb:BCC_A2, tdb:LaSn-19Li-ass.tdb:BCC_A2, tdb:LaSn-19Li-sub.tdb:BCC_A2  
 
 
@@ -179,14 +180,16 @@ _tdb: _tdb:LaSn-00Hua.tdb:BCC_A2, tdb:LaSn-09Idb.tdb:BCC_A2, tdb:LaSn-19Li-ass.t
 37: CONST BCC_A2 : LA% SN : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
+- [doi:10.1016/j.calphad.2008.12.003](https://doi.org/10.1016/j.calphad.2008.12.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S0925-8388(00)01077-X](https://doi.org/10.1016/S0925-8388%2800%2901077-X) M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-019-00751-x](https://doi.org/10.1007/s11669-019-00751-x) Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).  
 _assessment that models this phase_
-- [doi:10.1016/j.calphad.2008.12.003](https://doi.org/10.1016/j.calphad.2008.12.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).  
-_assessment that models this phase_
-- [doi:10.1016/S0925-8388(00)01077-X](https://doi.org/10.1016/S0925-8388%2800%2901077-X) M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).  
-_assessment that models this phase_
+- [doi:10.1007/bf02645375](https://doi.org/10.1007/bf02645375) A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).  
+_cited as the source of values for this phase_
 
 ## DHCP (La–Sn)
 
@@ -244,10 +247,11 @@ _assessment that models this phase_
 - Id: `phase:la-sn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 550–1134 K, x(Sn) 0–0
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sn:fcc-a1)
 
-Names (5): _corpus: _corpus:phase:la-sn:fcc-a1  
+Names (7): _corpus: _corpus:phase:la-sn:fcc-a1  
+_paper: _paper:10.1016/j.calphad.2008.12.003:βLa, paper:10.1016/s0925-8388(00)01077-x:βLa  
 _tdb: _tdb:LaSn-00Hua.tdb:FCC_A1, tdb:LaSn-09Idb.tdb:FCC_A1, tdb:LaSn-19Li-ass.tdb:FCC_A1, tdb:LaSn-19Li-sub.tdb:FCC_A1  
 
 
@@ -281,14 +285,16 @@ _tdb: _tdb:LaSn-00Hua.tdb:FCC_A1, tdb:LaSn-09Idb.tdb:FCC_A1, tdb:LaSn-19Li-ass.t
 32: CONST FCC_A1 : LA% SN : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
+- [doi:10.1016/j.calphad.2008.12.003](https://doi.org/10.1016/j.calphad.2008.12.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S0925-8388(00)01077-X](https://doi.org/10.1016/S0925-8388%2800%2901077-X) M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-019-00751-x](https://doi.org/10.1007/s11669-019-00751-x) Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).  
 _assessment that models this phase_
-- [doi:10.1016/j.calphad.2008.12.003](https://doi.org/10.1016/j.calphad.2008.12.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).  
-_assessment that models this phase_
-- [doi:10.1016/S0925-8388(00)01077-X](https://doi.org/10.1016/S0925-8388%2800%2901077-X) M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).  
-_assessment that models this phase_
+- [doi:10.1007/bf02645375](https://doi.org/10.1007/bf02645375) A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).  
+_cited as the source of values for this phase_
 
 ## HCP_A3 (La–Sn)
 
@@ -861,8 +867,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -871,7 +877,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -882,7 +888,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

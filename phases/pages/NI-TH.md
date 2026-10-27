@@ -13,7 +13,7 @@ Table: Phases of the Ni–Th system (12)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ni-th-bcc-a2); _phase:ni-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 301.12–3999.87 K, x(Th) 0.99969–1 | 0 | 1 |
-| [FCC_A1](#phase-ni-th-fcc-a1); _phase:ni-th:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1739.57 K, x(Th) 0–1 | 3 | 1 |
+| [FCC_A1](#phase-ni-th-fcc-a1); _phase:ni-th:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1739.57 K, x(Th) 0–1 | 6 | 1 |
 | [HCP_A3](#phase-ni-th-hcp-a3); _phase:ni-th:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ni-th-liquid); _phase:ni-th:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1280.93–4000 K, x(Th) 0–1 | 30 | 1 |
 | [NI17TH2](#phase-ni-th-ni17th2); _phase:ni-th:ni17th2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1620.62 K, x(Th) 0.09524–0.09524 | 0 | 1 |
@@ -56,11 +56,11 @@ _assessment that models this phase_
 - Id: `phase:ni-th:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1739.57 K, x(Th) 0–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-th:fcc-a1)
 
-Names (3): _corpus: _corpus:phase:ni-th:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2009.07.168:(Ni)  
+Names (4): _corpus: _corpus:phase:ni-th:fcc-a1  
+_paper: _paper:10.1016/j.jallcom.2009.07.168:(Ni), paper:10.1016/j.jallcom.2009.07.168:(αTh)  
 _tdb: _tdb:NiTh-09Wan.tdb:FCC_A1  
 
 
@@ -409,8 +409,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -419,7 +419,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -430,7 +430,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

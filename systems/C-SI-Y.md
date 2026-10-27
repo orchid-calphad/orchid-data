@@ -1,10 +1,10 @@
 # C–Si–Y system
 
-> C–Si–Y system: 23 accepted literature values (crystal structure 18, formation 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Si–Y system: 22 accepted literature values (crystal structure 18, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-SI-Y.html · Markdown: https://data.orchid-project.org/systems/C-SI-Y.md
 
-23 accepted literature values from 1 paper(s) (experimental 16, model 1, DFT 3, unspecified 3); 0 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (experimental 15, model 1, DFT 3, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-SI-Y.json) · [CSV](https://data.orchid-project.org/systems/C-SI-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-SI-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-SI-Y.html) · [Markdown](https://data.orchid-project.org/systems/C-SI-Y.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
+| experimental | 15 |
 | model | 1 |
 | DFT | 3 |
 | unspecified | 3 |
@@ -21,18 +21,17 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 5 |
+| formation | 4 |
 | crystal structure | 18 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, C–Si–Y system (5)
+Table: Enthalpies of formation, C–Si–Y system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN | [Y2C](https://data.orchid-project.org/compounds/Y2C.html) | 31.8 kJ/mol-atom ± 1.3 | 298.15 | experimental | -28.155 (mp-aaaaabzi) | -28.729 (oqmd-4155) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 31; `ORC-RBLTNNPVR3.1458d7` |  |
 | Y1.8Si0.2C2.7 |  | -26.6 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 25; `ORC-IGXZ3PKXEP` |  |
 | Y15Si9C |  | -70.8 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 24; `ORC-FFDZZDXLP6` |  |
 | Y3Si2C2 |  | -67.14 kJ/mol-atom |  | model |  |  | [1] Xu 2019 | Table 3, p. 3, row 23; `ORC-GOM4CJCEZO` |  |
@@ -73,8 +72,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -83,7 +82,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -94,7 +93,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -13,23 +13,23 @@ Table: Phases of the Al–Ti system (18)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [AL11TI5_D023](#phase-al-ti-al11ti5-d023); _phase:al-ti:al11ti5-d023_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1269.09–1688.63 K, x(Ti) 0.29767–0.35085 | 9 | 2 |
-| [AL2TI](#phase-al-ti-al2ti); _phase:al-ti:al2ti_ | Ga2Hf · tI24 · I4_1/amd (141) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1501.27 K, x(Ti) 0.32596–0.34842 | 39 | 5 |
+| [AL2TI](#phase-al-ti-al2ti); _phase:al-ti:al2ti_ | Ga2Hf · tI24 · I4_1/amd (141) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1501.27 K, x(Ti) 0.32596–0.34842 | 39 | 5 |
 | [AL3M_D022](#phase-al-ti-al3m-d022); _phase:al-ti:al3m-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1646.24 K, x(Ti) 0.25–0.27629 | 3 | 1 |
 | [AL3TI_LT](#phase-al-ti-al3ti); _phase:al-ti:al3ti_ | Al3Ti-LT · tI32 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1230 K, x(Ti) 0.24339–0.25435 | 0 | 1 |
-| [AL3TI_D022](#phase-al-ti-al3ti-d022); _phase:al-ti:al3ti-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1669.15 K, x(Ti) 0.23513–0.2581 | 14 | 4 |
-| [AL5TI2](#phase-al-ti-al5ti2); _phase:al-ti:al5ti2_ | Al5Ti2 · tP28 · P4/mmm (123) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 1230–1705.3 K, x(Ti) 0.28571–0.36342 | 42 | 3 |
+| [AL3TI_D022](#phase-al-ti-al3ti-d022); _phase:al-ti:al3ti-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1675.57 K, x(Ti) 0.23513–0.25848 | 14 | 4 |
+| [AL5TI2](#phase-al-ti-al5ti2); _phase:al-ti:al5ti2_ | Al5Ti2 · tP28 · P4/mmm (123) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 1230–1705.3 K, x(Ti) 0.28571–0.36342 | 42 | 3 |
 | [AL5TI3](#phase-al-ti-al5ti3); _phase:al-ti:al5ti3_ | Al5Ti3 · tP32 · P4/mbm (127) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1083.25 K, x(Ti) 0.375–0.375 | 3 | 2 |
 | [ALM3_D019](#phase-al-ti-alm3-d019); _phase:al-ti:alm3-d019_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1462.48 K, x(Ti) 0.6028–0.78954 | 2 | 1 |
-| [ALTI_L10](#phase-al-ti-alti-l10); _phase:al-ti:alti-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1730.85 K, x(Ti) 0.37568–0.53237 | 57 | 4 |
-| [ALTI3_D019](#phase-al-ti-alti3-d019); _phase:al-ti:alti3-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1465.93 K, x(Ti) 0.61497–0.84713 | 36 | 3 |
+| [ALTI_L10](#phase-al-ti-alti-l10); _phase:al-ti:alti-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1766.34 K, x(Ti) 0.33323–0.53261 | 57 | 4 |
+| [ALTI3_D019](#phase-al-ti-alti3-d019); _phase:al-ti:alti3-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1465.93 K, x(Ti) 0.61497–0.84713 | 36 | 3 |
 | [BCC_4SL](#phase-al-ti-bcc-4sl); _phase:al-ti:bcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1170–1940 K, x(Ti) 0.52–0.96 | 0 | 1 |
-| [BCC_A2](#phase-al-ti-bcc-a2); _phase:al-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 301.24–1988.48 K, x(Ti) 0.50866–1 | 45 | 8 |
+| [BCC_A2](#phase-al-ti-bcc-a2); _phase:al-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 301.24–1988.48 K, x(Ti) 0.50866–1 | 45 | 8 |
 | [B2_BCC](#phase-al-ti-bcc-b2); _phase:al-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300.72–1963.4 K, x(Ti) 0.55414–1 | 0 | 2 |
 | [FCC_4SL](#phase-al-ti-fcc-4sl); _phase:al-ti:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1744.39 K, x(Ti) 0–0.5284 | 0 | 1 |
-| [FCC_A1](#phase-al-ti-fcc-a1); _phase:al-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–938.69 K, x(Ti) 0–0.00784 | 10 | 6 |
+| [FCC_A1](#phase-al-ti-fcc-a1); _phase:al-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–938.69 K, x(Ti) 0–0.00784 | 10 | 6 |
 | [HCP_4SL](#phase-al-ti-hcp-4sl); _phase:al-ti:hcp-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1775.76 K, x(Ti) 0.48866–1 | 0 | 1 |
-| [HCP_A3](#phase-al-ti-hcp-a3); _phase:al-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1775.9 K, x(Ti) 0.4689–1 | 67 | 6 |
-| [LIQUID](#phase-al-ti-liquid); _phase:al-ti:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 929.48–2500 K, x(Ti) 0–1 | 78 | 5 |
+| [HCP_A3](#phase-al-ti-hcp-a3); _phase:al-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1849.38 K, x(Ti) 0.46777–1 | 67 | 6 |
+| [LIQUID](#phase-al-ti-liquid); _phase:al-ti:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 929.48–2500 K, x(Ti) 0–1 | 78 | 5 |
 
 ## AL11TI5_D023 (Al–Ti)
 
@@ -79,7 +79,7 @@ _assessment that models this phase; reports values for this phase_
 - Structure: Ga2Hf · tI24 · I4_1/amd (141); type `st:ga2hf-ti24`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
-- Stability: stable in 4 of 4 calculated diagram(s): 300–1501.27 K, x(Ti) 0.32596–0.34842
+- Stability: stable in 5 of 5 calculated diagram(s): 300–1501.27 K, x(Ti) 0.32596–0.34842
 - Literature: 39 values (39 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:al2ti)
 
@@ -207,7 +207,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in AlTi-08Wit.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in AlTi-24Lia.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in AlTi-92Kat.tdb also describes the disordered state
-- Stability: stable in 3 of 3 calculated diagram(s): 300–1669.15 K, x(Ti) 0.23513–0.2581
+- Stability: stable in 4 of 4 calculated diagram(s): 300–1675.57 K, x(Ti) 0.23513–0.25848
 - Literature: 14 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:al3ti-d022)
 
@@ -265,7 +265,7 @@ _cited as the source of values for this phase_
 - Structure: Al5Ti2 · tP28 · P4/mmm (123); type `st:al5ti2-tp28`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
-- Stability: stable in 2 of 2 calculated diagram(s): 1230–1705.3 K, x(Ti) 0.28571–0.36342
+- Stability: stable in 3 of 3 calculated diagram(s): 1230–1705.3 K, x(Ti) 0.28571–0.36342
 - Literature: 42 values (42 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:al5ti2)
 
@@ -395,7 +395,7 @@ _tdb: _tdb:AlTi-98Sau-LB.tdb:ALM3_D019
 - Caveat: partitioned order/disorder model in AlTi-24Lia.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in AlTi-92Kat.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in AlTi-98Sau-LB.tdb also describes the disordered state
-- Stability: stable in 3 of 3 calculated diagram(s): 300–1730.85 K, x(Ti) 0.37568–0.53237
+- Stability: stable in 4 of 4 calculated diagram(s): 300–1766.34 K, x(Ti) 0.33323–0.53261
 - Literature: 57 values (57 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:alti-l10)
 
@@ -464,7 +464,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in AlTi-08Wit.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in AlTi-24Lia.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in AlTi-92Kat.tdb also describes the disordered state
-- Stability: stable in 2 of 2 calculated diagram(s): 300–1465.93 K, x(Ti) 0.61497–0.84713
+- Stability: stable in 3 of 3 calculated diagram(s): 300–1465.93 K, x(Ti) 0.61497–0.84713
 - Literature: 36 values (36 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:alti3-d019)
 
@@ -553,7 +553,7 @@ _assessment that models this phase_
 
 - Id: `phase:al-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 4 calculated diagram(s): 301.24–1988.48 K, x(Ti) 0.50866–1
+- Stability: stable in 5 of 5 calculated diagram(s): 301.24–1988.48 K, x(Ti) 0.50866–1
 - Literature: 45 values (45 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:bcc-a2)
 
@@ -720,7 +720,7 @@ _assessment that models this phase_
 
 - Id: `phase:al-ti:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 4 calculated diagram(s): 300–938.69 K, x(Ti) 0–0.00784
+- Stability: stable in 5 of 5 calculated diagram(s): 300–938.69 K, x(Ti) 0–0.00784
 - Literature: 10 values (10 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:fcc-a1)
 
@@ -830,7 +830,7 @@ _assessment that models this phase_
 
 - Id: `phase:al-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 4 calculated diagram(s): 300–1775.9 K, x(Ti) 0.4689–1
+- Stability: stable in 5 of 5 calculated diagram(s): 300–1849.38 K, x(Ti) 0.46777–1
 - Literature: 67 values (67 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:hcp-a3)
 
@@ -910,7 +910,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:al-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
-- Stability: stable in 4 of 4 calculated diagram(s): 929.48–2500 K, x(Ti) 0–1
+- Stability: stable in 5 of 5 calculated diagram(s): 929.48–2500 K, x(Ti) 0–1
 - Literature: 78 values (77 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ti:liquid)
 
@@ -981,8 +981,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -991,7 +991,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1002,7 +1002,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

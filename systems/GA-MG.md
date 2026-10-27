@@ -1,10 +1,10 @@
 # Ga–Mg system
 
-> Ga–Mg system: 168 accepted literature values (invariant reaction 94, formation 25, activity / EMF / Gibbs energy 16, mixing / partial 16) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Mg system: 163 accepted literature values (invariant reaction 94, formation 25, activity / EMF / Gibbs energy 16, mixing / partial 16) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-MG.html · Markdown: https://data.orchid-project.org/systems/GA-MG.md
 
-168 accepted literature values from 3 paper(s) (experimental 89, model 70, unspecified 9); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+163 accepted literature values from 3 paper(s) (experimental 84, model 70, unspecified 9); 4 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-MG.json) · [CSV](https://data.orchid-project.org/systems/GA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-MG/GaMg-05Fra-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-MG.html) · [Markdown](https://data.orchid-project.org/systems/GA-MG.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 89 |
+| experimental | 84 |
 | model | 70 |
 | unspecified | 9 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 94 |
-| phase transition | 12 |
+| phase transition | 7 |
 | formation | 25 |
 | mixing / partial | 16 |
 | heat capacity / entropy / enthalpy | 5 |
@@ -233,24 +233,19 @@ Table: Enthalpies of formation, Ga–Mg system (10)
 
 ## Other properties
 
-### Phase transition (12)
+### Phase transition (7)
 
 Table: Phase transition, Ga–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 476.15 K | 476.15 | other: xGa=0.715 solidus; _alloy: Ga 0.715, Mg 0.285_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 20; `ORC-3O64A24G3H` |  |
-| Phase transition | 520 K | 520 | other: xGa=0.715 melting functions; _alloy: Ga 0.715, Mg 0.285_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 21; `ORC-4F6TQTLOBF` |  |
 | Phase transition | 556.15 K | 556.15 | other: xGa=0.66 solidus; _alloy: Ga 0.66, Mg 0.34_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 18; `ORC-UMH45B5AXA` |  |
-| Phase transition | 560 K | 560 | other: xGa=0.66 melting functions; _alloy: Ga 0.66, Mg 0.34_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 19; `ORC-IMBYQ5T3BB` |  |
 | Phase transition | 638.15 K | 638.15 | other: xGa=0.36 solidus; _alloy: Ga 0.36, Mg 0.64_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 14; `ORC-P2PZHFG4XJ` |  |
 | Phase transition | 639.15 K | 639.15 | other: xGa=0.34 solidus; _alloy: Ga 0.34, Mg 0.66_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 12; `ORC-QP2TU5QUDX` |  |
 | Phase transition | 640.15 K | 640.15 | other: xGa=0.50 solidus; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 16; `ORC-MXARH4VONS` |  |
-| Phase transition | 642 K | 642 | other: xGa=0.50 melting functions; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 17; `ORC-LCYPEJ5GDN` |  |
 | Phase transition | 693.15 K | 693.15 | other: xGa=0.28 solidus; _alloy: Ga 0.28, Mg 0.72_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 8; `ORC-4R2DGEKVXM` |  |
 | Phase transition | 718.15 K | 718.15 | other: xGa=0.32 solidus; _alloy: Ga 0.32, Mg 0.68_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 10; `ORC-SVZ5UWPGJD` |  |
-| Phase transition | 723 K | 723 | other: xGa=0.34 melting functions; _alloy: Ga 0.34, Mg 0.66_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 13; `ORC-V5USYGHHAR` |  |
-| Phase transition | 734 K | 734 | other: xGa=0.28 melting functions; _alloy: Ga 0.28, Mg 0.72_ | experimental | [3] Notin 1991 | Table 1, p. 3, row 9; `ORC-NGFUL6ZP6P` |  |
 
 ### Formation (15)
 
@@ -280,22 +275,22 @@ Table: Mixing / partial, Ga–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: ΔGMg_ | -26.5 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.7, Mg 0.3_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 5; `ORC-2S6AOA6HUI.35cbf8` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -26.3 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.7, Mg 0.3_ | model | [3] Notin 1991 | Table 5, p. 11, row 6; `ORC-5R5NRUVK3Z.94d989` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -14.3 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.5, Mg 0.5_ | model | [3] Notin 1991 | Table 5, p. 11, row 4; `ORC-BQY3CIXGGS.aa9def` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -14.7 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 3; `ORC-BXF5BCKDHM.53d97f` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -41 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.9, Mg 0.1_ | model | [3] Notin 1991 | Table 5, p. 11, row 8; `ORC-GZM3PDQVT6.46ff18` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -5.6 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.3, Mg 0.7_ | model | [3] Notin 1991 | Table 5, p. 11, row 2; `ORC-JPN5PO7THS.d533c5` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -41.2 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.9, Mg 0.1_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 7; `ORC-ONPJK5PLM6.34a37a` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -5 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.3, Mg 0.7_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 1; `ORC-SXIIVRQCAG.d0bbb2` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -5.7 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.3, Mg 0.7_ | model | [3] Notin 1991 | Table 5, p. 11, row 10; `ORC-34K3EFJJUE.00a69f` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -42.6 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.9, Mg 0.1_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 15; `ORC-EERCLQV6BB.83c3ff` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -26.5 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.7, Mg 0.3_ | model | [3] Notin 1991 | Table 5, p. 11, row 14; `ORC-IFU4ZDISUJ.40ff07` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -42.7 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.9, Mg 0.1_ | model | [3] Notin 1991 | Table 5, p. 11, row 16; `ORC-JPBMC5ZZYX.15b8fd` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -5.6 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.3, Mg 0.7_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 9; `ORC-Q733YS5UPG.48691c` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -14.4 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.5, Mg 0.5_ | model | [3] Notin 1991 | Table 5, p. 11, row 12; `ORC-W3ZHBAP7EW.33c5fd` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -14.7 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 11; `ORC-YTZBXDRVWY.210ded` |  |
-| Gibbs energy of mixing; _printed: ΔGMg_ | -26.6 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.7, Mg 0.3_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 13; `ORC-YXQGLCGJZ3.cff1a3` |  |
+| g mix partial; _printed: ΔGMg_ | -26.5 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.7, Mg 0.3_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 5; `ORC-2S6AOA6HUI.35cbf8` |  |
+| g mix partial; _printed: ΔGMg_ | -26.3 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.7, Mg 0.3_ | model | [3] Notin 1991 | Table 5, p. 11, row 6; `ORC-5R5NRUVK3Z.94d989` |  |
+| g mix partial; _printed: ΔGMg_ | -14.3 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.5, Mg 0.5_ | model | [3] Notin 1991 | Table 5, p. 11, row 4; `ORC-BQY3CIXGGS.aa9def` |  |
+| g mix partial; _printed: ΔGMg_ | -14.7 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 3; `ORC-BXF5BCKDHM.53d97f` |  |
+| g mix partial; _printed: ΔGMg_ | -41 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.9, Mg 0.1_ | model | [3] Notin 1991 | Table 5, p. 11, row 8; `ORC-GZM3PDQVT6.46ff18` |  |
+| g mix partial; _printed: ΔGMg_ | -5.6 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.3, Mg 0.7_ | model | [3] Notin 1991 | Table 5, p. 11, row 2; `ORC-JPN5PO7THS.d533c5` |  |
+| g mix partial; _printed: ΔGMg_ | -41.2 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.9, Mg 0.1_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 7; `ORC-ONPJK5PLM6.34a37a` |  |
+| g mix partial; _printed: ΔGMg_ | -5 kJ/mol-atom | 770 | liquid; _alloy: Ga 0.3, Mg 0.7_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 1; `ORC-SXIIVRQCAG.d0bbb2` |  |
+| g mix partial; _printed: ΔGMg_ | -5.7 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.3, Mg 0.7_ | model | [3] Notin 1991 | Table 5, p. 11, row 10; `ORC-34K3EFJJUE.00a69f` |  |
+| g mix partial; _printed: ΔGMg_ | -42.6 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.9, Mg 0.1_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 15; `ORC-EERCLQV6BB.83c3ff` |  |
+| g mix partial; _printed: ΔGMg_ | -26.5 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.7, Mg 0.3_ | model | [3] Notin 1991 | Table 5, p. 11, row 14; `ORC-IFU4ZDISUJ.40ff07` |  |
+| g mix partial; _printed: ΔGMg_ | -42.7 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.9, Mg 0.1_ | model | [3] Notin 1991 | Table 5, p. 11, row 16; `ORC-JPBMC5ZZYX.15b8fd` |  |
+| g mix partial; _printed: ΔGMg_ | -5.6 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.3, Mg 0.7_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 9; `ORC-Q733YS5UPG.48691c` |  |
+| g mix partial; _printed: ΔGMg_ | -14.4 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.5, Mg 0.5_ | model | [3] Notin 1991 | Table 5, p. 11, row 12; `ORC-W3ZHBAP7EW.33c5fd` |  |
+| g mix partial; _printed: ΔGMg_ | -14.7 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 11; `ORC-YTZBXDRVWY.210ded` |  |
+| g mix partial; _printed: ΔGMg_ | -26.6 kJ/mol-atom | 900 | liquid; _alloy: Ga 0.7, Mg 0.3_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 13; `ORC-YXQGLCGJZ3.cff1a3` |  |
 
 ### Heat capacity / entropy / enthalpy (5)
 
@@ -315,22 +310,22 @@ Table: Activity / EMF / Gibbs energy, Ga–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Chemical potential; _printed: ΔG_Mg_ | -26.5 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.7, Mg 0.3_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 5; `ORC-2S6AOA6HUI.cb8fcf` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -26.3 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.7, Mg 0.3_ | model | [3] Notin 1991 | Table 5, p. 11, row 6; `ORC-5R5NRUVK3Z.2b3873` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -14.3 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.5, Mg 0.5_ | model | [3] Notin 1991 | Table 5, p. 11, row 4; `ORC-BQY3CIXGGS.9fe769` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -14.7 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 3; `ORC-BXF5BCKDHM.d98592` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -41 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.9, Mg 0.1_ | model | [3] Notin 1991 | Table 5, p. 11, row 8; `ORC-GZM3PDQVT6.40768e` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -5.6 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.3, Mg 0.7_ | model | [3] Notin 1991 | Table 5, p. 11, row 2; `ORC-JPN5PO7THS.f1c624` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -41.2 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.9, Mg 0.1_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 7; `ORC-ONPJK5PLM6.573553` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -5 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.3, Mg 0.7_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 1; `ORC-SXIIVRQCAG.5c8f42` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -5.7 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.3, Mg 0.7_ | model | [3] Notin 1991 | Table 5, p. 11, row 10; `ORC-34K3EFJJUE.498f48` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -42.6 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.9, Mg 0.1_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 15; `ORC-EERCLQV6BB.b22dc8` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -26.5 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.7, Mg 0.3_ | model | [3] Notin 1991 | Table 5, p. 11, row 14; `ORC-IFU4ZDISUJ.b10321` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -42.7 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.9, Mg 0.1_ | model | [3] Notin 1991 | Table 5, p. 11, row 16; `ORC-JPBMC5ZZYX.e22447` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -5.6 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.3, Mg 0.7_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 9; `ORC-Q733YS5UPG.f9138e` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -14.4 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.5, Mg 0.5_ | model | [3] Notin 1991 | Table 5, p. 11, row 12; `ORC-W3ZHBAP7EW.d547e9` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -14.7 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 11; `ORC-YTZBXDRVWY.51200e` |  |
-| Chemical potential; _printed: ΔG_Mg_ | -26.6 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.7, Mg 0.3_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 13; `ORC-YXQGLCGJZ3.8aa79e` |  |
+| g mix partial; _printed: ΔG_Mg_ | -26.5 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.7, Mg 0.3_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 5; `ORC-2S6AOA6HUI.cb8fcf` |  |
+| g mix partial; _printed: ΔG_Mg_ | -26.3 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.7, Mg 0.3_ | model | [3] Notin 1991 | Table 5, p. 11, row 6; `ORC-5R5NRUVK3Z.2b3873` |  |
+| g mix partial; _printed: ΔG_Mg_ | -14.3 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.5, Mg 0.5_ | model | [3] Notin 1991 | Table 5, p. 11, row 4; `ORC-BQY3CIXGGS.9fe769` |  |
+| g mix partial; _printed: ΔG_Mg_ | -14.7 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 3; `ORC-BXF5BCKDHM.d98592` |  |
+| g mix partial; _printed: ΔG_Mg_ | -41 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.9, Mg 0.1_ | model | [3] Notin 1991 | Table 5, p. 11, row 8; `ORC-GZM3PDQVT6.40768e` |  |
+| g mix partial; _printed: ΔG_Mg_ | -5.6 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.3, Mg 0.7_ | model | [3] Notin 1991 | Table 5, p. 11, row 2; `ORC-JPN5PO7THS.f1c624` |  |
+| g mix partial; _printed: ΔG_Mg_ | -41.2 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.9, Mg 0.1_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 7; `ORC-ONPJK5PLM6.573553` |  |
+| g mix partial; _printed: ΔG_Mg_ | -5 kJ (mol at)−1 | 770 | Liquid; _alloy: Ga 0.3, Mg 0.7_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 1; `ORC-SXIIVRQCAG.5c8f42` |  |
+| g mix partial; _printed: ΔG_Mg_ | -5.7 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.3, Mg 0.7_ | model | [3] Notin 1991 | Table 5, p. 11, row 10; `ORC-34K3EFJJUE.498f48` |  |
+| g mix partial; _printed: ΔG_Mg_ | -42.6 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.9, Mg 0.1_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 15; `ORC-EERCLQV6BB.b22dc8` |  |
+| g mix partial; _printed: ΔG_Mg_ | -26.5 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.7, Mg 0.3_ | model | [3] Notin 1991 | Table 5, p. 11, row 14; `ORC-IFU4ZDISUJ.b10321` |  |
+| g mix partial; _printed: ΔG_Mg_ | -42.7 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.9, Mg 0.1_ | model | [3] Notin 1991 | Table 5, p. 11, row 16; `ORC-JPBMC5ZZYX.e22447` |  |
+| g mix partial; _printed: ΔG_Mg_ | -5.6 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.3, Mg 0.7_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 9; `ORC-Q733YS5UPG.f9138e` |  |
+| g mix partial; _printed: ΔG_Mg_ | -14.4 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.5, Mg 0.5_ | model | [3] Notin 1991 | Table 5, p. 11, row 12; `ORC-W3ZHBAP7EW.d547e9` |  |
+| g mix partial; _printed: ΔG_Mg_ | -14.7 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.5, Mg 0.5_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 11; `ORC-YTZBXDRVWY.51200e` |  |
+| g mix partial; _printed: ΔG_Mg_ | -26.6 kJ (mol at)−1 | 900 | Liquid; _alloy: Ga 0.7, Mg 0.3_ | experimental | [3] Notin 1991; _cites Moser 1982_ [doi](https://doi.org/10.1007/bf02666957) | Table 5, p. 11, row 13; `ORC-YXQGLCGJZ3.8aa79e` |  |
 
 ## Sources
 
@@ -342,10 +337,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -354,7 +349,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -365,7 +360,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -375,7 +370,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -385,7 +380,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

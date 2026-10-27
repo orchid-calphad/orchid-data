@@ -15,7 +15,7 @@ Table: Enthalpy of formation of AlNi3 reported in the literature (29)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -49.6 kJ/mol (basis unstated) ± 1.3 | γ′ (Ni3Al) | 980 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4; `ORC-25MIGDXTKP.53b742` |  |
-| -47 kJ/mol-atom | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.0759bb` |  |
+| -47 kJ/mol-atom | γ'-L12 |  | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.0759bb` |  |
 | -45.6 kJ/mol-atom ± 1.1 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24; `ORC-M2X72TAQEQ.c95868` |  |
 | -42.3 per mol-atom ± 1.6 | Ni3Al | 1123 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 9; `ORC-SVR4ZVLLBD.bfffec` |  |
 | -42.2 per mol-atom ± 1.2 | Ni3Al | 947 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 7; `ORC-NLAZMM7VLP.76e32f` |  |
@@ -26,10 +26,10 @@ Table: Enthalpy of formation of AlNi3 reported in the literature (29)
 | -41.3 per mol-atom ± 1.3 | Ni3Al | 300 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 1; `ORC-SCDP4SROQJ.ceee19` |  |
 | -40.6 kJ/mol-atom ± 1 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 25_ | Table 4, p. 38, row 21; `ORC-COMWLLIR2L.4ebb85` |  |
 | -40.6 kJ/mol (basis unstated) ± 1 | γ′ (Ni3Al) | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Kek 1990_ | Table 5, p. 9, row 6; `ORC-OENQKUFWLN` |  |
-| -40.6 kJ/mol-atom ± 1 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.690228` |  |
+| -40.6 kJ/mol-atom ± 1 | γ'-L12 |  | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.690228` |  |
 | -40.1 kJ/mol (basis unstated) | γ′ (Ni3Al) | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites \\V 1937_ | Table 5, p. 9, row 8; `ORC-5NEBCHHGXU` |  |
-| -38.2 kJ/mol-atom ± 5 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.6dd106` |  |
-| -37.6 kJ/mol-atom ± 4.2 | γ'-L12 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.d37d98` |  |
+| -38.2 kJ/mol-atom ± 5 | γ'-L12 |  | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.6dd106` |  |
+| -37.6 kJ/mol-atom ± 4.2 | γ'-L12 |  | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.d37d98` |  |
 | -29.2 kJ/mol (basis unstated) ± 7 | γ′ (Ni3Al) | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997; _cites Santandrea 1987_ | Table 5, p. 9, row 7; `ORC-JT5LSOZER2` |  |
 | -46.39 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 84_ | Table 4, p. 38, row 25; `ORC-G47W2O6YVC.c159cd` |  |
 | -44.8 kJ/mol (basis unstated) | γ′ (Ni3Al) | 980 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Ansara 1997 | Table 5, p. 9, row 3; `ORC-OXEFQ45EKY.556491` |  |
@@ -69,18 +69,18 @@ Table: Uncertainty budget of the literature values of AlNi3
 | -38.2 | kJ/mol-atom | 5 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 5 |
 | -37.6 | kJ/mol-atom | 4.2 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 4.2 |
 | -29.2 | kJ/mol (basis unstated) | 7 | 0.05 | 14 (unknown, calibrated) |  |  |  | 14 |
-| -46.39 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -44.8 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
-| -43.338 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -46.39 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -44.8 | kJ/mol (basis unstated) |  | 0.05 | 15.6 (model_calculated, calibrated) |  |  |  | 15.6 |
+| -43.338 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.6 (model_calculated, calibrated) |  |  |  | 15.6 |
 | -43.2 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -43.2 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -42.9 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -42.38 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -42.38 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -42.3 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -42 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -41.7 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
-| -40.6 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
-| -43.45 | kJ/mol (basis unstated) |  | 0.005 | 16.66 (dft, calibrated) |  |  |  | 16.66 |
+| -41.7 | kJ/mol (basis unstated) |  | 0.05 | 15.6 (model_calculated, calibrated) |  |  |  | 15.6 |
+| -40.6 | kJ/mol (basis unstated) |  | 0.05 | 15.6 (model_calculated, calibrated) |  |  |  | 15.6 |
+| -43.45 | kJ/mol (basis unstated) |  | 0.005 | 16.01 (dft, calibrated) |  |  |  | 16.01 |
 
 ## DFT formation energies
 
@@ -104,9 +104,9 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -115,7 +115,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -126,7 +126,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_dft_benchmark_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -137,7 +137,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

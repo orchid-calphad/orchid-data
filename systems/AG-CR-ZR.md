@@ -1,10 +1,10 @@
 # Ag–Cr–Zr system
 
-> Ag–Cr–Zr system: 93 accepted literature values (phase transition 65, phase equilibrium 16, invariant reaction 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Cr–Zr system: 52 accepted literature values (phase transition 24, phase equilibrium 16, invariant reaction 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CR-ZR.html · Markdown: https://data.orchid-project.org/systems/AG-CR-ZR.md
 
-93 accepted literature values from 1 paper(s) (experimental 49, model 44); 0 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+52 accepted literature values from 1 paper(s) (experimental 30, model 22); 0 calculated phase diagram(s). 49 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CR-ZR.json) · [CSV](https://data.orchid-project.org/systems/AG-CR-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CR-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CR-ZR.html) · [Markdown](https://data.orchid-project.org/systems/AG-CR-ZR.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 49 |
-| model | 44 |
+| experimental | 30 |
+| model | 22 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 12 |
-| phase transition | 65 |
+| phase transition | 24 |
 | phase equilibrium | 16 |
 
 ## Invariant reactions (literature)
@@ -44,60 +44,21 @@ Table: Invariant reactions reported in the literature for the Ag–Cr–Zr syste
 
 ## Other properties
 
-### Phase transition (65)
+### Phase transition (24)
 
 Table: Phase transition, Ag–Cr–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1212.25 K | 1212.25 | B11 | experimental | [1] Shi 2021 | Table 3, p. 4, row 46; `ORC-WQY5IPX6WJ` |  |
-| Phase transition | 1227.45 K | 1227.45 | B11 | model | [1] Shi 2021 | Table 3, p. 4, row 47; `ORC-FYCRI6HDFD` |  |
-| Phase transition | 1227.45 K | 1227.45 | B12 | model | [1] Shi 2021 | Table 3, p. 4, row 50; `ORC-4ZB24Q4UU3` |  |
-| Phase transition | 1227.45 K | 1227.45 | B13 | model | [1] Shi 2021 | Table 3, p. 4, row 56; `ORC-52ADT4C3FU` |  |
-| Phase transition | 1227.45 K | 1227.45 | B6 | model | [1] Shi 2021 | Table 3, p. 4, row 22; `ORC-UEWG7AWMML` |  |
-| Phase transition | 1227.45 K | 1227.45 | B7 | model | [1] Shi 2021 | Table 3, p. 4, row 28; `ORC-GO3QTJK4SE` |  |
-| Phase transition | 1227.45 K | 1227.45 | B8 | model | [1] Shi 2021 | Table 3, p. 4, row 34; `ORC-2MPD7YI7X7` |  |
 | Phase transition | 1228.35 K | 1228.35 | other: B11 | model | [1] Shi 2021 | Table 3, p. 4, row 45; `ORC-DVMIUM44UV` |  |
-| Phase transition | 1229.45 K | 1229.45 | B7 | experimental | [1] Shi 2021 | Table 3, p. 4, row 26; `ORC-UU6GSZCLJ2` |  |
-| Phase transition | 1229.45 K | 1229.45 | B8 | experimental | [1] Shi 2021 | Table 3, p. 4, row 32; `ORC-ZMZ3FZWJK3` |  |
-| Phase transition | 1229.85 K | 1229.85 | B6 | experimental | [1] Shi 2021 | Table 3, p. 4, row 20; `ORC-BPBC6AWI4Q` |  |
-| Phase transition | 1230.15 K | 1230.15 | B13 | experimental | [1] Shi 2021 | Table 3, p. 4, row 54; `ORC-J722Z74RCC` |  |
-| Phase transition | 1230.35 K | 1230.35 | B9 | experimental | [1] Shi 2021 | Table 3, p. 4, row 37; `ORC-A27RPJ7SHG` |  |
-| Phase transition | 1230.45 K | 1230.45 | B10 | experimental | [1] Shi 2021 | Table 3, p. 4, row 41; `ORC-JH53DL3QJO` |  |
-| Phase transition | 1232.35 K | 1232.35 | B12 | experimental | [1] Shi 2021 | Table 3, p. 4, row 49; `ORC-G5XNYBH7OH` |  |
-| Phase transition | 1234.05 K | 1234.05 | B10 | model | [1] Shi 2021 | Table 3, p. 4, row 42; `ORC-MKVXFLCZEE` |  |
-| Phase transition | 1234.05 K | 1234.05 | B9 | model | [1] Shi 2021 | Table 3, p. 4, row 38; `ORC-XMWSV2LLO5` |  |
 | Phase transition | 1237.15 K | 1237.15 | other: B11 | experimental | [1] Shi 2021 | Table 3, p. 4, row 44; `ORC-WUWKSMVB7G` |  |
-| Phase transition | 1370.35 K | 1370.35 | B4 | experimental | [1] Shi 2021 | Table 3, p. 4, row 12; `ORC-J6UCH6WVFC` |  |
-| Phase transition | 1371.15 K | 1371.15 | B8 | experimental | [1] Shi 2021 | Table 3, p. 4, row 33; `ORC-L4VH3I3NCW` |  |
-| Phase transition | 1371.55 K | 1371.55 | B6 | experimental | [1] Shi 2021 | Table 3, p. 4, row 21; `ORC-CRM2HHOMYS` |  |
-| Phase transition | 1372.85 K | 1372.85 | B5 | experimental | [1] Shi 2021 | Table 3, p. 4, row 16; `ORC-PELH736JVF` |  |
-| Phase transition | 1373.95 K | 1373.95 | B7 | experimental | [1] Shi 2021 | Table 3, p. 4, row 27; `ORC-6QBW2GOPHM` |  |
-| Phase transition | 1379.85 K | 1379.85 | B14 | model | [1] Shi 2021 | Table 3, p. 4, row 61; `ORC-PTO6QTWQ3F` |  |
-| Phase transition | 1379.85 K | 1379.85 | B15 | model | [1] Shi 2021 | Table 3, p. 4, row 65; `ORC-YCSXVKTYYC` |  |
-| Phase transition | 1381.35 K | 1381.35 | B4 | model | [1] Shi 2021 | Table 3, p. 4, row 13; `ORC-SSUK7Y6KAZ` |  |
-| Phase transition | 1381.35 K | 1381.35 | B5 | model | [1] Shi 2021 | Table 3, p. 4, row 17; `ORC-GTRQEG4ULM` |  |
 | Phase transition | 1385.85 K | 1385.85 | other: B5 | model | [1] Shi 2021 | Table 3, p. 4, row 15; `ORC-5F2JATZLNW` |  |
-| Phase transition | 1386.45 K | 1386.45 | B13 | experimental | [1] Shi 2021 | Table 3, p. 4, row 55; `ORC-EGTHRPSP26` |  |
 | Phase transition | 1389.35 K | 1389.35 | other: B8 | experimental | [1] Shi 2021 | Table 3, p. 4, row 30; `ORC-HB4CIVXCBA` |  |
 | Phase transition | 1397.25 K | 1397.25 | other: B15 | model | [1] Shi 2021 | Table 3, p. 4, row 63; `ORC-CCCSY7NRV6` |  |
 | Phase transition | 1397.35 K | 1397.35 | other: B6 | experimental | [1] Shi 2021 | Table 3, p. 4, row 18; `ORC-ZDYBTLT65I` |  |
 | Phase transition | 1397.45 K | 1397.45 | other: B7 | experimental | [1] Shi 2021 | Table 3, p. 4, row 24; `ORC-6GKMBQYEUT` |  |
 | Phase transition | 1398.15 K | 1398.15 | other: B5 | experimental | [1] Shi 2021 | Table 3, p. 4, row 14; `ORC-HXQNUU5P2B` |  |
-| Phase transition | 1398.35 K | 1398.35 | B1 | model | [1] Shi 2021 | Table 3, p. 4, row 3; `ORC-HPMWL3PY3B` |  |
-| Phase transition | 1398.35 K | 1398.35 | B2 | model | [1] Shi 2021 | Table 3, p. 4, row 6; `ORC-LGCS6RUGHN` |  |
-| Phase transition | 1398.35 K | 1398.35 | B3 | model | [1] Shi 2021 | Table 3, p. 4, row 9; `ORC-GKMV5TK7KS` |  |
-| Phase transition | 1398.45 K | 1398.45 | B3 | experimental | [1] Shi 2021 | Table 3, p. 4, row 8; `ORC-FI4UKXQJ4Z` |  |
-| Phase transition | 1398.65 K | 1398.65 | B12 | model | [1] Shi 2021 | Table 3, p. 4, row 51; `ORC-N67HH2CT7D` |  |
-| Phase transition | 1398.65 K | 1398.65 | B13 | model | [1] Shi 2021 | Table 3, p. 4, row 57; `ORC-TM4NVYOUGP` |  |
-| Phase transition | 1398.65 K | 1398.65 | B6 | model | [1] Shi 2021 | Table 3, p. 4, row 23; `ORC-PEHOWUOQDE` |  |
-| Phase transition | 1398.65 K | 1398.65 | B7 | model | [1] Shi 2021 | Table 3, p. 4, row 29; `ORC-ROJQ57IFZW` |  |
-| Phase transition | 1398.65 K | 1398.65 | B8 | model | [1] Shi 2021 | Table 3, p. 4, row 35; `ORC-LOZDZ73SAC` |  |
 | Phase transition | 1398.65 K | 1398.65 | other: B8 | model | [1] Shi 2021 | Table 3, p. 4, row 31; `ORC-2P4CXDOPAH` |  |
-| Phase transition | 1399.25 K | 1399.25 | B1 | experimental | [1] Shi 2021 | Table 3, p. 4, row 2; `ORC-P6JTKJ3QJQ` |  |
-| Phase transition | 1400.45 K | 1400.45 | B15 | experimental | [1] Shi 2021 | Table 3, p. 4, row 64; `ORC-ZCESXNZK4K` |  |
-| Phase transition | 1400.65 K | 1400.65 | B14 | experimental | [1] Shi 2021 | Table 3, p. 4, row 60; `ORC-XTHP6BF633` |  |
-| Phase transition | 1401.45 K | 1401.45 | B2 | experimental | [1] Shi 2021 | Table 3, p. 4, row 5; `ORC-TOABYH5OXN` |  |
 | Phase transition | 1406.25 K | 1406.25 | other: B14 | model | [1] Shi 2021 | Table 3, p. 4, row 59; `ORC-FJKKU4MEDT` |  |
 | Phase transition | 1408.05 K | 1408.05 | other: B4 | model | [1] Shi 2021 | Table 3, p. 4, row 11; `ORC-XIVDOVQZ3E` |  |
 | Phase transition | 1409.65 K | 1409.65 | other: B7 | model | [1] Shi 2021 | Table 3, p. 4, row 25; `ORC-SZFYMAANCJ` |  |
@@ -110,8 +71,6 @@ Table: Phase transition, Ag–Cr–Zr system
 | Phase transition | 1425.75 K | 1425.75 | other: B1 | model | [1] Shi 2021 | Table 3, p. 4, row 1; `ORC-65Z4JWA5U7` |  |
 | Phase transition | 1426.35 K | 1426.35 | other: B13 | model | [1] Shi 2021 | Table 3, p. 4, row 53; `ORC-ZRRM2Y3JML` |  |
 | Phase transition | 1436.55 K | 1436.55 | other: B4 | experimental | [1] Shi 2021 | Table 3, p. 4, row 10; `ORC-TWI2XOTGCA` |  |
-| Phase transition | 1619.25 K | 1619.25 | B10 | model | [1] Shi 2021 | Table 3, p. 4, row 43; `ORC-N5UUXAFOGV` |  |
-| Phase transition | 1619.25 K | 1619.25 | B9 | model | [1] Shi 2021 | Table 3, p. 4, row 39; `ORC-K2KZIOFEFU` |  |
 | Phase transition | 1625.05 K | 1625.05 | other: B10 | model | [1] Shi 2021 | Table 3, p. 4, row 40; `ORC-VCFJ4T5FFN` |  |
 | Phase transition | 1673.65 K | 1673.65 | other: B12 | model | [1] Shi 2021 | Table 3, p. 4, row 48; `ORC-G4MKNQDUJC` |  |
 | Phase transition | 1692.85 K | 1692.85 | other: B9 | model | [1] Shi 2021 | Table 3, p. 4, row 36; `ORC-NUFGKK6B5D` |  |
@@ -147,8 +106,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -157,7 +116,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -168,7 +127,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

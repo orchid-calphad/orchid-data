@@ -1,1 +1,1 @@
-{"tdb":"LaO-23Nak.tdb","elements":["La","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"LaO-23Nak.tdb","elements":["La","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"adfa607e0c6b94f2e9ed8e741eb2dd16d2db5c0f9c6d13db843e5c896e6ff2f7","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

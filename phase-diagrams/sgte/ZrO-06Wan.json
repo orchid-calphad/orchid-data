@@ -1,1 +1,1 @@
-{"tdb":"ZrO-06Wan.tdb","elements":["Zr","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"ZrO-06Wan.tdb","elements":["Zr","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"942aa0afdfa355d9657dd2d254c6cc8c33db4bec08a2b96d17229e610d4a8247","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

@@ -15,7 +15,7 @@ Table: Compounds (1460)
 | [Ag2Dy](https://data.orchid-project.org/compounds/Ag2Dy.html) | 5 | 1 | -31.753 | -31.994 | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html)  |
 | [Ag2Er](https://data.orchid-project.org/compounds/Ag2Er.html) | 5 | 1 | -32.114 | -33.095 | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html)  |
 | [Ag2O](https://data.orchid-project.org/compounds/Ag2O.html) | 9 | 0 |  |  | [Ag–O](https://data.orchid-project.org/systems/AG-O.html)  |
-| [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | 24 | 16 | -21.663 | -7.938 | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html)  |
+| [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | 24 | 15 | -21.663 | -7.938 | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html)  |
 | [Ag2Sm](https://data.orchid-project.org/compounds/Ag2Sm.html) | 4 | 1 |  | -28.101 | [Ag–Sm](https://data.orchid-project.org/systems/AG-SM.html)  |
 | [Ag2Te](https://data.orchid-project.org/compounds/Ag2Te.html) | 4 | 2 | -19.54 | -6.298 | [Ag–Te](https://data.orchid-project.org/systems/AG-TE.html)  |
 | [Ag3Se](https://data.orchid-project.org/compounds/Ag3Se.html) | 4 | 0 |  |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html)  |
@@ -579,7 +579,7 @@ Table: Compounds (1460)
 | [Dy5Sn3](https://data.orchid-project.org/compounds/Dy5Sn3.html) | 3 | 1 | -69.483 | -73.059 | [Dy–Sn](https://data.orchid-project.org/systems/DY-SN.html)  |
 | [Dy5Sn4](https://data.orchid-project.org/compounds/Dy5Sn4.html) | 2 | 0 | -70.92 | -75.664 | [Dy–Sn](https://data.orchid-project.org/systems/DY-SN.html)  |
 | [DyB12](https://data.orchid-project.org/compounds/DyB12.html) | 2 | 0 | -24.129 | -24.171 | [B–Dy](https://data.orchid-project.org/systems/B-DY.html)  |
-| [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | 5 | 2 | -54.16 | -54.212 | [B–Dy](https://data.orchid-project.org/systems/B-DY.html)  |
+| [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | 5 | 1 | -54.16 | -54.212 | [B–Dy](https://data.orchid-project.org/systems/B-DY.html)  |
 | [DyB4](https://data.orchid-project.org/compounds/DyB4.html) | 3 | 0 | -57.547 | -57.764 | [B–Dy](https://data.orchid-project.org/systems/B-DY.html)  |
 | [DyB6](https://data.orchid-project.org/compounds/DyB6.html) | 2 | 0 | -38.604 | -38.617 | [B–Dy](https://data.orchid-project.org/systems/B-DY.html)  |
 | [DyB66](https://data.orchid-project.org/compounds/DyB66.html) | 1 | 0 |  |  | [B–Dy](https://data.orchid-project.org/systems/B-DY.html)  |
@@ -956,7 +956,7 @@ Table: Compounds (1460)
 | [Mg24Y5](https://data.orchid-project.org/compounds/Mg24Y5.html) | 3 | 2 | -5.219 | -5.806 | [Mg–Y](https://data.orchid-project.org/systems/MG-Y.html)  |
 | [Mg2B](https://data.orchid-project.org/compounds/Mg2B.html) | 1 | 1 |  | 24.127 | [B–Mg](https://data.orchid-project.org/systems/B-MG.html)  |
 | [Mg2Ni](https://data.orchid-project.org/compounds/Mg2Ni.html) | 13 | 5 | -16.707 | -18.281 | [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.html)  |
-| [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | 20 | 0 |  |  | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html)  |
+| [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | 20 | 10 | -5.451 | -6.083 | [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.html)  |
 | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | 32 | 18 | -12.42 | -15.603 | [Mg–Si](https://data.orchid-project.org/systems/MG-SI.html)  |
 | [Mg2Sm](https://data.orchid-project.org/compounds/Mg2Sm.html) | 2 | 2 | -8.453 | -9.092 | [Mg–Sm](https://data.orchid-project.org/systems/MG-SM.html)  |
 | [Mg2Sr](https://data.orchid-project.org/compounds/Mg2Sr.html) | 2 | 1 | -7.73 | -10.194 | [Mg–Sr](https://data.orchid-project.org/systems/MG-SR.html)  |
@@ -1092,7 +1092,7 @@ Table: Compounds (1460)
 | [Ni3Sn4](https://data.orchid-project.org/compounds/Ni3Sn4.html) | 10 | 0 |  |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html)  |
 | [Ni3Ta](https://data.orchid-project.org/compounds/Ni3Ta.html) | 3 | 0 |  |  | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html)  |
 | [Ni3Tb](https://data.orchid-project.org/compounds/Ni3Tb.html) | 4 | 0 | -38.902 | -23.453 | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html)  |
-| [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | 32 | 2 | -46.582 | -47.751 | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)  |
+| [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | 28 | 2 | -46.582 | -47.751 | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)  |
 | [Ni3Yb](https://data.orchid-project.org/compounds/Ni3Yb.html) | 8 | 4 |  | -31.135 | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html)  |
 | [Ni3Zr](https://data.orchid-project.org/compounds/Ni3Zr.html) | 7 | 0 | -44.234 | -44.887 | [Ni–Zr](https://data.orchid-project.org/systems/NI-ZR.html)  |
 | [Ni4Si7Ti4](https://data.orchid-project.org/compounds/Ni4Si7Ti4.html) | 1 | 0 |  |  | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html)  |
@@ -1133,7 +1133,7 @@ Table: Compounds (1460)
 | [NiTa3](https://data.orchid-project.org/compounds/NiTa3.html) | 2 | 0 |  |  | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html)  |
 | [NiTb](https://data.orchid-project.org/compounds/NiTb.html) | 5 | 1 | -42.212 | -11.216 | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html)  |
 | [NiTb3](https://data.orchid-project.org/compounds/NiTb3.html) | 4 | 0 | -22.882 | 24.353 | [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.html)  |
-| [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | 46 | 5 | -38.194 | -40.284 | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)  |
+| [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | 43 | 5 | -38.194 | -40.284 | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)  |
 | [NiTi2](https://data.orchid-project.org/compounds/NiTi2.html) | 13 | 1 | -26.758 | -33.202 | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)  |
 | [NiTi3](https://data.orchid-project.org/compounds/NiTi3.html) | 4 | 0 | -7.619 | -10.781 | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)  |
 | [NiYb](https://data.orchid-project.org/compounds/NiYb.html) | 7 | 2 |  | -27.289 | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html)  |
@@ -1428,7 +1428,7 @@ Table: Compounds (1460)
 | [WC](https://data.orchid-project.org/compounds/WC.html) | 3 | 0 | -11.742 | -12.124 | [C–W](https://data.orchid-project.org/systems/C-W.html)  |
 | [Y13Zn58](https://data.orchid-project.org/compounds/Y13Zn58.html) | 3 | 1 |  |  | [Y–Zn](https://data.orchid-project.org/systems/Y-ZN.html)  |
 | [Y15C19](https://data.orchid-project.org/compounds/Y15C19.html) | 2 | 0 | -29.637 |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html)  |
-| [Y2C](https://data.orchid-project.org/compounds/Y2C.html) | 5 | 1 | -28.155 | -28.729 | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) [C–Y](https://data.orchid-project.org/systems/C-Y.html)  |
+| [Y2C](https://data.orchid-project.org/compounds/Y2C.html) | 5 | 1 | -28.155 | -28.729 | [C–Y](https://data.orchid-project.org/systems/C-Y.html)  |
 | [Y2C3](https://data.orchid-project.org/compounds/Y2C3.html) | 3 | 0 | -24.654 | -25.199 | [C–Y](https://data.orchid-project.org/systems/C-Y.html)  |
 | [Y2O3](https://data.orchid-project.org/compounds/Y2O3.html) | 1 | 0 | -383.134 | -367.434 | [O–Y](https://data.orchid-project.org/systems/O-Y.html)  |
 | [Y2Zn17](https://data.orchid-project.org/compounds/Y2Zn17.html) | 3 | 1 | -24.053 | -23.192 | [Y–Zn](https://data.orchid-project.org/systems/Y-ZN.html)  |
@@ -1473,9 +1473,9 @@ Table: Compounds (1460)
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -1484,7 +1484,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1495,7 +1495,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_dft_benchmark_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1506,7 +1506,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

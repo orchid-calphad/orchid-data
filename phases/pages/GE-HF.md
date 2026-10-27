@@ -21,7 +21,7 @@ Table: Phases of the Ge–Hf system (11)
 | [GE4HF5](#phase-ge-hf-ge4hf5); _phase:ge-hf:ge4hf5_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2415.3 K, x(Hf) 0.55556–0.55556 | 6 | 1 |
 | [GEHF2_C16](#phase-ge-hf-gehf2-c16); _phase:ge-hf:gehf2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2294.83 K, x(Hf) 0.66667–0.66667 | 4 | 1 |
 | [GEHF3](#phase-ge-hf-gehf3); _phase:ge-hf:gehf3_ | Ti3P · tP32 · P4_2/n (86) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2257.18 K, x(Hf) 0.75–0.75 | 6 | 1 |
-| [HCP_A3](#phase-ge-hf-hcp-a3); _phase:ge-hf:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2015.94 K, x(Hf) 0.99996–1 | 0 | 1 |
+| [HCP_A3](#phase-ge-hf-hcp-a3); _phase:ge-hf:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2015.94 K, x(Hf) 0.99996–1 | 2 | 1 |
 | [LIQUID](#phase-ge-hf-liquid); _phase:ge-hf:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1206.82–4000 K, x(Hf) 0–1 | 18 | 1 |
 
 ## DIAMOND_A4 (Ge–Hf)
@@ -299,10 +299,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ge-hf:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2015.94 K, x(Hf) 0.99996–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-hf:hcp-a3)
 
-Names (2): _corpus: _corpus:phase:ge-hf:hcp-a3  
+Names (3): _corpus: _corpus:phase:ge-hf:hcp-a3  
+_paper: _paper:10.1007/s10853-013-7814-7:(αHf)  
 _tdb: _tdb:GeHf-14Tan.tdb:HCP_A3  
 
 
@@ -318,7 +319,7 @@ _tdb: _tdb:GeHf-14Tan.tdb:HCP_A3
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s10853-013-7814-7](https://doi.org/10.1007/s10853-013-7814-7) Ying Tang, Biao Hu, Jiong Wang, Yong Du, Kaiming Cheng, Dandan Liu et al., Experimental investigation and thermodynamic assessment of the Hf–Ge system, J Mater Sci 49, 1306-1316 (2014).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## LIQUID (Ge–Hf)
 
@@ -351,8 +352,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -361,7 +362,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -372,7 +373,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

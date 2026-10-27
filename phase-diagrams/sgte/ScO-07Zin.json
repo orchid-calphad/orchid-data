@@ -1,1 +1,1 @@
-{"tdb":"ScO-07Zin.tdb","elements":["Sc","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"ScO-07Zin.tdb","elements":["Sc","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"a132779ee2320a7d3df07744812cfed53f1b095097c12caf4c952beac6c9f026","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

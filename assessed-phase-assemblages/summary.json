@@ -60,8 +60,8 @@
   "schematic_field_unbounded_below": 2
  },
  "phase_labels_mapped_to_registry": {
-  "mapped": 19838,
-  "unmapped": 21781
+  "mapped": 19823,
+  "unmapped": 21796
  },
  "two_phase_tie_lines": {
   "with_tie_line": 11961,
@@ -78,22 +78,22 @@
  },
  "sgte_crosscheck": {
   "comparisons": 30769,
-  "agrees": 17874,
-  "disagrees": 3617,
-  "not_comparable": 9278,
-  "agreement_rate_of_comparable": 0.8317,
+  "agrees": 17876,
+  "disagrees": 3612,
+  "not_comparable": 9281,
+  "agreement_rate_of_comparable": 0.8319,
   "not_comparable_by_reason": {
-   "assemblage phase without registry mapping": 8010,
+   "assemblage phase without registry mapping": 8005,
    "no calculated equilibrium at this cell": 25,
-   "order-disorder model: the grid label does not tell the ordered from the disordered state": 270,
+   "order-disorder model: the grid label does not tell the ordered from the disordered state": 278,
    "outside the calculated T-x range": 405,
    "the same registry phase twice (the grid collapses composition sets)": 568
   },
   "points": {
    "no SGTE assessment": 10194,
-   "agrees with >=1": 8331,
-   "not comparable": 3499,
-   "disagrees with all comparable": 1105
+   "agrees with >=1": 8333,
+   "not comparable": 3510,
+   "disagrees with all comparable": 1092
   },
   "metric_definitions": {
    "comparison": "one point x one calculated SGTE diagram of its system (nearest grid cell)",
@@ -103,15 +103,15 @@
    "median_system_rate": "median over systems with >= 5 comparable comparisons of the system's agreement rate",
    "not_comparable": "counted separately, never in a rate; reasons in not_comparable_by_reason and, per comparison, in sgte_not_comparable.csv"
   },
-  "comparable": 21491,
-  "points_with_comparable_assessment": 9436,
-  "points_agreeing_with_at_least_one": 8331,
-  "points_agreeing_with_at_least_one_rate": 0.8829,
+  "comparable": 21488,
+  "points_with_comparable_assessment": 9425,
+  "points_agreeing_with_at_least_one": 8333,
+  "points_agreeing_with_at_least_one_rate": 0.8841,
   "points_agreeing_with_all_comparable": 7508,
-  "points_disagreeing_with_all_comparable": 1105,
+  "points_disagreeing_with_all_comparable": 1092,
   "systems_with_5_comparable": 889,
   "median_system_rate": 0.8889,
-  "mean_system_rate": 0.8471
+  "mean_system_rate": 0.848
  },
  "points_by_boundary_basis": {
   "printed_solid": 20782,
@@ -140,8 +140,8 @@
  "espei": {
   "datasets_default": 1068,
   "datasets_with_tie_lines": 1068,
-  "points_in_espei": 9890,
-  "points_excluded_from_espei": 13239,
+  "points_in_espei": 9877,
+  "points_excluded_from_espei": 13252,
   "validation": {
    "espei-zpf": {
     "files": 1068,
@@ -215,45 +215,45 @@
   "release_tag": "v2026.10",
   "license": "CC-BY-4.0",
   "status": "Version 1, machine-extracted: phase fields of expert-drawn (assessed) diagrams named by deterministic rules, model readers, an adjudicator and partial expert review (basis and review state per record); one point deep inside each field; boundary and tie-line positions are drawing-based and of low credence.",
-  "title": "ORCHID assessed phase assemblages (binary systems)",
+  "title": "ORCHID-Assemblages: assessed phase assemblages of binary systems",
   "doi": "10.5281/zenodo.PENDING-assessed-phase-assemblages",
   "url": "https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages",
-  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID assessed phase assemblages (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages",
-  "bibtex": "@misc{orchid_assessed_assemblages_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID assessed phase assemblages (binary systems)}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-assessed-phase-assemblages},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages},\n  note      = {Version 1, machine-extracted}\n}",
+  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Assemblages: assessed phase assemblages of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages",
+  "bibtex": "@misc{orchid_assessed_assemblages_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Assemblages: assessed phase assemblages of binary systems}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-assessed-phase-assemblages},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages},\n  note      = {Version 1, machine-extracted}\n}",
   "also_cite": [
    "for every diagram used, its original evaluation (citations[role=original_evaluation], DOI where matched) and H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International (2010) as the compilation",
    "B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file"
   ],
   "part_of": {
-   "title": "ORCHID data",
+   "title": "ORCHID data: umbrella record of the ORCHID datasets",
    "doi": "10.5281/zenodo.PENDING-orchid-data",
    "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
+   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
   }
  },
  "files": {
   "bytes_by_file_or_dir": {
-   "CITATION.cff": 1891,
-   "dense-field-grid": 381210,
-   "espei-zpf": 8691165,
+   "CITATION.cff": 1905,
+   "dense-field-grid": 381618,
+   "espei-zpf": 8681278,
    "espei-zpf-dense": 270307,
-   "espei-zpf-with-tie-lines": 8669225,
-   "espei_exclusions.jsonl": 1812056,
+   "espei-zpf-with-tie-lines": 8659636,
+   "espei_exclusions.jsonl": 1813833,
    "exclusions.csv": 322766,
    "exclusions.jsonl": 542755,
-   "records.csv": 12639934,
-   "records.jsonl.gz": 4772050,
-   "records.parquet": 1721874,
-   "sgte_not_comparable.csv": 1214988,
+   "records.csv": 12639690,
+   "records.jsonl.gz": 4771823,
+   "records.parquet": 1722192,
+   "sgte_not_comparable.csv": 1215857,
    "summary.json": 0
   }
  },
  "parquet": {
   "table": "records.parquet",
   "rows": 23129,
-  "csv_sha256": "806686457c0b65e5ec31882a09bbb387c61af6148410b27812f08d10e232c761",
-  "content_sha256": "5f5c87b97a4236b331eeeea2f596bb68a11be0c1f33f13e7d3f7df52708e7347",
+  "csv_sha256": "aa214b354d21442458ebed481f4c06802932d47445bb25c403ea48b7187d7626",
+  "content_sha256": "1fe84de89f1ee0d682f7da37975d02e9c8891276e005a7ef78c4cf5cb10e890f",
   "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder"
  }
 }

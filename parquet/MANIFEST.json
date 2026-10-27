@@ -8,21 +8,21 @@
      "J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0)",
      "G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162"
     ],
-    "bibtex": "@misc{orchid_dft_benchmark_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-dft-benchmark},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-dft-benchmark},\n  note      = {Version 1, machine-extracted}\n}",
+    "bibtex": "@misc{orchid_dft_benchmark_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-dft-benchmark},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-dft-benchmark},\n  note      = {Version 1, machine-extracted}\n}",
     "dataset": "dft-benchmark",
     "doi": "10.5281/zenodo.PENDING-dft-benchmark",
     "license": "CC-BY-4.0",
     "part_of": {
-     "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
+     "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
      "doi": "10.5281/zenodo.PENDING-orchid-data",
-     "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-     "title": "ORCHID data",
+     "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+     "title": "ORCHID data: umbrella record of the ORCHID datasets",
      "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data"
     },
     "release_tag": "v2026.10",
     "status": "Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.",
-    "text": "R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark",
-    "title": "ORCHID DFT-vs-experiment formation-enthalpy benchmark",
+    "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark",
+    "title": "ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark",
     "url": "https://doi.org/10.5281/zenodo.PENDING-dft-benchmark",
     "version": "2026.10"
    },
@@ -32,21 +32,21 @@
      "J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0)",
      "B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file"
     ],
-    "bibtex": "@misc{orchid_hulls_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-hulls},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-hulls}\n}",
+    "bibtex": "@misc{orchid_hulls_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-hulls},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-hulls}\n}",
     "dataset": "hulls",
     "doi": "10.5281/zenodo.PENDING-hulls",
     "license": "CC-BY-4.0",
     "part_of": {
-     "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
+     "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
      "doi": "10.5281/zenodo.PENDING-orchid-data",
-     "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-     "title": "ORCHID data",
+     "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+     "title": "ORCHID data: umbrella record of the ORCHID datasets",
      "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data"
     },
     "release_tag": "v2026.10",
     "status": "Version 1 (calculated / third-party derived data)",
-    "text": "R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls",
-    "title": "ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)",
+    "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls",
+    "title": "ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)",
     "url": "https://doi.org/10.5281/zenodo.PENDING-hulls",
     "version": "2026.10"
    },
@@ -54,21 +54,21 @@
     "also_cite": [
      "the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work)"
     ],
-    "bibtex": "@misc{orchid_literature_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID literature values}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-literature},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-literature},\n  note      = {Version 1, machine-extracted}\n}",
+    "bibtex": "@misc{orchid_literature_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-literature},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-literature},\n  note      = {Version 1, machine-extracted}\n}",
     "dataset": "literature",
     "doi": "10.5281/zenodo.PENDING-literature",
     "license": "CC-BY-4.0",
     "part_of": {
-     "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
+     "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
      "doi": "10.5281/zenodo.PENDING-orchid-data",
-     "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-     "title": "ORCHID data",
+     "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+     "title": "ORCHID data: umbrella record of the ORCHID datasets",
      "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data"
     },
     "release_tag": "v2026.10",
     "status": "Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.",
-    "text": "R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature",
-    "title": "ORCHID literature values",
+    "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature",
+    "title": "ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature",
     "url": "https://doi.org/10.5281/zenodo.PENDING-literature",
     "version": "2026.10"
    },
@@ -76,21 +76,21 @@
     "also_cite": [
      "B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file"
     ],
-    "bibtex": "@misc{orchid_phase_diagrams_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID calculated binary phase diagrams}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-phase-diagrams},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-diagrams}\n}",
+    "bibtex": "@misc{orchid_phase_diagrams_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-phase-diagrams},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-diagrams}\n}",
     "dataset": "phase-diagrams",
     "doi": "10.5281/zenodo.PENDING-phase-diagrams",
     "license": "CC-BY-4.0",
     "part_of": {
-     "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
+     "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
      "doi": "10.5281/zenodo.PENDING-orchid-data",
-     "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-     "title": "ORCHID data",
+     "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+     "title": "ORCHID data: umbrella record of the ORCHID datasets",
      "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data"
     },
     "release_tag": "v2026.10",
     "status": "Version 1 (calculated / third-party derived data)",
-    "text": "R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams",
-    "title": "ORCHID calculated binary phase diagrams",
+    "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams",
+    "title": "ORCHID-Diagrams: calculated binary phase diagrams",
     "url": "https://doi.org/10.5281/zenodo.PENDING-phase-diagrams",
     "version": "2026.10"
    }
@@ -102,14 +102,14 @@
     "A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0)",
     "J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0)"
    ],
-   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
+   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}",
    "dataset": "orchid-data",
    "doi": "10.5281/zenodo.PENDING-orchid-data",
    "license": "CC-BY-4.0",
    "release_tag": "v2026.10",
    "status": "Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.",
-   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "title": "ORCHID data",
+   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+   "title": "ORCHID data: umbrella record of the ORCHID datasets",
    "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data",
    "version": "2026.10"
   }
@@ -118,81 +118,81 @@
  "description": "ORCHID analysis-ready Parquet tables; content_sha256 = SHA-256 of the canonical JSON rows (sorted keys), independent of the Parquet encoder.",
  "fold_rule": "`chemical_system` (sorted elements, = `system`), `paper_id` (stable source id), `fold_lso` = leave-chemical-system-out fold int(sha256(chemical_system), 16) mod 5, `fold_lpo` = leave-paper-out fold int(sha256(paper_id), 16) mod 5 (tools/ml_folds.py). Subsystems are their own systems (a held-out ternary may have its binaries in training); drop subsystems of held-out systems for strict chemistry extrapolation",
  "inputs": {
-  "hulls/dft-mp/catalog.json": "ec83969600335f8e9acbbe517619589e06d5de1f7c6ef5cd10df46e11f079469",
-  "hulls/dft-oqmd/catalog.json": "ccf3af6775aa98b2fde3e51180bce59be22fc26a18ecfe40a235460b3e1c3d99",
-  "literature/contexts.json": "1024a04f0c72088c6edcc8ab3b628ae5a6a729c5f55a34a5a89255253e296c3f",
-  "literature/dft_parity.json": "a3a69c925eef72bd47be7d25f0b414584ec6ca49f29c53703f4e3a42dfe89945",
-  "literature/index.json": "ee8f478a67ff3d631dfdcf225469b66e3d1568d58bb688ce05b2feac10208172",
-  "literature/orchid-literature.jsonl.gz": "d41485314acb8b51cd828035082a3a839b56f4b88d8f9b8a0376635b35b4e606",
-  "literature/papers.json": "b5ce5ce98cec7f2c47c9ea79fd7ee5a50bf72ba464c05c177d63f74fbc2d997d",
-  "phase-diagrams/index.json": "aa86a608b94b800f099b32fa3cc8566654e58459801f38b9c27221049850b2fc",
-  "phase-diagrams/sgte/*.json (sha256 of 'sha256  name' lines)": "d64eb667e24b3ac46f51c996d28492c1a812c44cd7257621f309b03b6b191ca2"
+  "hulls/dft-mp/catalog.json": "c16683496b910c15e2d5e1bc15f5bccbc0f166668d40a58bcf044e8f78946a5c",
+  "hulls/dft-oqmd/catalog.json": "d81ac42972302435e184c2351bf790399027befafb4ef9aad12953e66eb01337",
+  "literature/contexts.json": "346925ee7d50e3eb477167fb70aba2e531bf7483fa9e5e3122f0fd01d45bebbf",
+  "literature/dft_parity.json": "08b2cd519359eedd07cb8e8c436131476f291f58c1b2b64b267464653663ffa1",
+  "literature/index.json": "68b5f9cdd58ba9a685b1f097388159a188df62e3c1a990f985379e54d9008eea",
+  "literature/orchid-literature.jsonl.gz": "cb371f48919c3badb884b817c91162314db0a15d9a8d6fa2ade0fc26106bda93",
+  "literature/papers.json": "149f646457f1d090efcfecaac11f2e40c7a8ccf4471a47b51c33af14dc024c93",
+  "phase-diagrams/index.json": "3a08f5d48dd8b48fcb75a07284cb194cd6c6359d449b954e29cb57c87e6903d8",
+  "phase-diagrams/sgte/*.json (sha256 of 'sha256  name' lines)": "498e3bae997846e9d749e8e7ea481c7bdffc2ba2b6dd812c4da8a958898450d1"
  },
  "kJ_per_mol_per_eV": 96.485,
  "release": "orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v2.1.19r, text+context fixup-20261022)",
  "split_rule": "sha256('orchid-split-v1:' + paper_id)[:8] mod 100: <80 train, <90 validation, else test",
  "tables": {
   "dft_parity": {
-   "bytes": 290794,
-   "content_sha256": "5a686527ace97b9feff42cb18c1ca1b928eb035eec6ebdb68de26a6a03498c02",
+   "bytes": 291553,
+   "content_sha256": "723f0acd251f73ab2fbba59f24ac6193b713454d3d64bf717e94f7678459ef55",
    "dataset": "dft-benchmark",
    "file": "dft_parity.parquet",
-   "file_sha256": "6d39904c59b93d4e60235786f6a8b3453f0dec2ef66e831c5faff56a72858102",
-   "rows": 7592,
+   "file_sha256": "fd0ca4269e7191ec7b8af07a73653a139286d16de9fc89d12a71ea00bb420370",
+   "rows": 7594,
    "schema": "record_id: string\ndft_source: string\nsystem: string\nelements: list<element: string>\n  child 0, element: string\nformula: string\nphase_label: string\ncomposition: list<element: struct<element: string, x: double>>\n  child 0, element: struct<element: string, x: double>\n      child 0, element: string\n      child 1, x: double\nformula_match: string\nmatch_note: string\nlit_kJ_per_mol_atom: double\ndft_kJ_per_mol_atom: double\ndft_eV_per_atom: double\nresidual_kJ_per_mol_atom: double\nehull_kJ_per_mol_atom: double\ndft_material_id: string\ndft_spacegroup: string\ndft_theoretical: bool\ndft_n_polymorphs: int32\nevidence_class: string\naccepted: bool\nown_work_of_paper: bool\nunsigned: bool\nsign_lost: bool\nsign_verified: bool\nsign_check: string\nsuspect: list<element: string>\n  child 0, element: string\nchem_class: string\nmethod_class: string\nmethod: string\ntemperature_K: double\nrecord_kind: string\npaper_id: string\npage: int32\ntable: string\nquote: string\ncited_dois: list<element: string>\n  child 0, element: string\ndefault_subset: bool\ndft_release: string\nquality_fix: string\nunit_basis: string\nbasis_inferred_from_magnitude: bool\nchemical_system: string\nfold_lso: int32\nfold_lpo: int32\nehull_upstream_kJ_per_mol_atom: double\ndft_structure_match: string\nstructure_designators: list<element: string>\n  child 0, element: string\ndft_ground_state_id: string\nx_offset_measured: double\nsigma_composition_kJ_per_mol_atom: double\nexcluded_from_default_by: list<element: string>\n  child 0, element: string\noutlier_class: string\nreference_state_mismatch: string\ngate_failures: list<element: string>\n  child 0, element: string"
   },
   "experimental_context": {
-   "bytes": 161785,
-   "content_sha256": "e328126c6f2f75303a89d7c8aa7f7dd92c95921c049593ccd0ad8073e5f0df5f",
+   "bytes": 160309,
+   "content_sha256": "ce4650023d6691e9c92f6199f7363a838f284226791499a4353ddc1ca05696be",
    "dataset": "literature",
    "file": "experimental_context.parquet",
-   "file_sha256": "f047b86b9636fd85d7c8cbbf9266ad8b02f35c99a02ccd9886baa6830ece027c",
+   "file_sha256": "0e0673c0ba49a685c005f6f3411f816a734508fe59c3cb47987427de070731b9",
    "rows": 1504,
-   "schema": "paper_id: string\ncontext_id: string\nsection_basis: string\ncontext_reader_tier: string\ncontext_readers: list<element: string>\n  child 0, element: string\nitem_id: string\ntype: string\nlabel: string\npurity: string\nstarting_materials: string\nsynthesis: string\nnominal_composition: string\ncomposition_basis: string\nmeasured_composition: string\ntemperature_printed: string\ntemperature_status: string\nduration: string\natmosphere_or_container: string\ncooling: string\npurpose: string\nmethod: string\ninstrument: string\nheating_or_cooling_rate: string\natmosphere: string\ncrucible: string\ncalibration: string\nstated_uncertainty: string\napplies_to: string\ntemperature_K: double\nduration_hours: double\nquote: string\npage: int32\nextraction_accepted: bool\nsecond_reader_agrees: bool\nhas_dropped_fields: bool\nreview_flags: list<element: string>\n  child 0, element: string"
+   "schema": "paper_id: string\ncontext_id: string\nsection_basis: string\ncontext_reader_tier: string\ncontext_readers: list<element: string>\n  child 0, element: string\nitem_id: string\ntype: string\nlabel: string\npurity: string\nstarting_materials: string\nsynthesis: string\nnominal_composition: string\ncomposition_basis: string\nmeasured_composition: string\ntemperature_printed: string\ntemperature_status: string\nduration: string\natmosphere_or_container: string\ncooling: string\npurpose: string\nmethod: string\ninstrument: string\nheating_or_cooling_rate: string\natmosphere: string\ncrucible: string\ncalibration: string\nstated_uncertainty: string\napplies_to: string\ntemperature_K: double\nduration_hours: double\nquote: string\nquote_clipped: bool\npage: int32\nextraction_accepted: bool\nsecond_reader_agrees: bool\nhas_dropped_fields: bool\nreview_flags: list<element: string>\n  child 0, element: string"
   },
   "hull_vertices": {
-   "bytes": 671299,
+   "bytes": 671639,
    "content_sha256": "e417c80d3adf81ec2fa5d95d76f7ff8d97cc6746bb1495d96476e258509b2d53",
    "dataset": "hulls",
    "file": "hull_vertices.parquet",
-   "file_sha256": "959d8b877bbaf382866932fa4affbc0abfc6b1739cef475d0f5b339df5a4a6af",
+   "file_sha256": "992955a22f6b3639deecf3075cbe53d24da05a4c4b5501fdb2635c675f3c17fd",
    "rows": 28143,
    "schema": "system: string\nsource: string\na_element: string\nx_element: string\nformula: string\nx: double\nformation_energy_eV_per_atom: double\nformation_energy_kJ_per_mol_atom: double\nenergy_per_atom_eV: double\nmaterial_id: string\nspacegroup_symbol: string\nspacegroup_number: int32\ntheoretical: bool\ncollinear: bool\ndegenerate_ids: list<element: string>\n  child 0, element: string\nis_endpoint: bool\nreference_kind: string\nrelease: string\nthermo_type: string\nentry_pool: string\nsnapshot_sha256: string"
   },
   "literature_values": {
-   "bytes": 7557182,
-   "content_sha256": "c48f81907b19aa7e546de5e4763124d3a40492570d9a48a872562c74d825b84f",
+   "bytes": 7690697,
+   "content_sha256": "be0bd5ed082e7a8eef9af8beace1d8e26bf6600a1a82382a85bba3b1861f9148",
    "dataset": "literature",
    "file": "literature_values.parquet",
-   "file_sha256": "4911e2f8b775d3e0c6c439f94b983305f9818fc78885ad16353683fc67792ba0",
+   "file_sha256": "6725fb2079e4ffd6690a309c54ca5ce6d6097af516194cf8ce614a9539f0bc2b",
    "rows": 73542,
-   "schema": "id: string\npid: string\nsystem: string\nelements: list<element: string>\n  child 0, element: string\nn_elements: int32\nrecord_kind: string\nobservation_type: string\nproperty: string\nproperty_group: string\nproperty_printed: string\nvalue: double\nvalue_min: double\nvalue_max: double\nvalue_expression: string\nunit: string\nvalue_stored: double\nunit_stored: string\nvalue_printed: double\nunit_printed: string\nuncertainty_value: double\nuncertainty_basis: string\nuncertainty_note: string\nsigma_printed: double\nsigma_printed_kind: string\nsigma_reading: double\nsigma_method: double\nsigma_method_class: string\nsigma_method_basis: string\nsigma_method_n_pairs: int32\nsigma_method_floor: double\nsigma_method_floor_unit: string\nsigma_composition: double\nsigma_scatter: double\nsigma_conversion: double\nsigma_effective: double\nsigma_unit: string\nsigma_rule: string\nuncertainty_calibration: string\nsigma_x_effective: double\nsigma_x_method: double\nsigma_x_method_class: string\nsigma_T_condition_effective: double\nuncertainty_budget: string\nbound: string\ntemperature_bound_K: double\ntemperature_K: double\ntemperature_min_K: double\ntemperature_max_K: double\ntemperature_printed: string\ntemperature_basis: string\ntemperature_approximate: bool\ntemperature_uncertainty_value: double\ntemperature_uncertainty_basis: string\npressure_Pa: double\npressure_basis: string\nphases: list<element: string>\n  child 0, element: string\nmodel_phases: list<element: string>\n  child 0, element: string\nphase_details: list<element: struct<label: string, model_phase: string, mapping_confidence: string, pearson_symbol: (... 28 chars omitted)\n  child 0, element: struct<label: string, model_phase: string, mapping_confidence: string, pearson_symbol: string, proto (... 13 chars omitted)\n      child 0, label: string\n      child 1, model_phase: string\n      child 2, mapping_confidence: string\n      child 3, pearson_symbol: string\n      child 4, prototype: string\nreaction: string\nreaction_type: string\ntransition_kind: string\ntransition_kind_printed: string\nproperty_code_raw: string\nunit_basis: string\nper_formula_unit_divisor: double\nvalue_before_quality_fix: double\nmerged_ids: list<element: string>\n  child 0, element: string\ncompositions: list<element: struct<phase: string, element: string, value: double, basis: string, source: string>>\n  child 0, element: struct<phase: string, element: string, value: double, basis: string, source: string>\n      child 0, phase: string\n      child 1, element: string\n      child 2, value: double\n      child 3, basis: string\n      child 4, source: string\noverall_composition: list<element: struct<element: string, value: double>>\n  child 0, element: struct<element: string, value: double>\n      child 0, element: string\n      child 1, value: double\noverall_composition_basis: string\nreference_state_json: string\ncomponent: string\nstructure_pearson_symbol: string\nstructure_prototype: string\nstructure_strukturbericht: string\nstructure_space_group: string\nstructure_space_group_number: int32\nevidence_class: string\norigin: string\norigin_class: string\norigin_measured_in: string\norigin_own_work_of_paper: bool\naccepted: bool\nflag_espei_ready: bool\nflag_judge_adjudicated: bool\nflag_magnitude_suspect: bool\nflag_source_disputed: bool\nflag_system_mismatch: bool\nflag_unsigned_in_print: bool\nflag_sign_pdf_page_verified: bool\nflag_has_dropped_fields: bool\nflag_composition_conflict_between_readers: bool\nflag_unit_conflict_between_readers: bool\nflag_page_unreadable: bool\nflag_basis_inferred_from_magnitude: bool\nflag_basis_corrected_from_formula: bool\nflag_sign_from_heading: bool\nflag_dft_outlier_unexplained: bool\nflag_reference_state_dropped_not_in_quote: bool\nflag_espei_certified: bool\nflag_espei_ready_upstream: bool\nflag_state_fully_specified: bool\nflag_value_in_quote: bool\ndropped_field_count: int32\nreview_state: string\nrow_state: string\nreview_flags: list<element: string>\n  child 0, element: string\nspecification_gaps: list<element: string>\n  child 0, element: string\nplausibility_result: string\nplausibility_dT_K: double\nplausibility_model: string\ncalphad_check: string\nespei_certified_basis: string\nespei_phase_rule_result: string\nespei_phase_rule_reason: string\nespei_blocked_by: list<element: string>\n  child 0, element: string\nplausibility_dx_json: string\ngate_failures: list<element: string>\n  child 0, element: string\ncorrections_json: string\ntemperature_K_stored: double\nsystem_stored: string\nevidence_class_before_gates: string\nproperty_code_before_gates: string\nreader_agreement_basis: string\nmethod: string\nmethod_basis: string\nconditions_kind: string\nconditions_paper: string\npaper_id: string\npaper_doi: string\npaper_citation: string\npaper_year: int32\ncited_dois: list<element: string>\n  child 0, element: string\ncited_labels: list<element: string>\n  child 0, element: string\nquote: string\nquote_page: int32\nlink_rule: string\nartifact: string\nartifact_label: string\nartifact_caption: string\npage: int32\ntable_row: int32\nmodel_tdb: string\nmodel_tdb_path: string\nmodel_tdb_sha256: string\nmodel_doi: string\nmodel_reproduced_by_calculation: bool\nmodel_unlinked_reason: string\nreaders: list<element: string>\n  child 0, element: string\nreader_tier: string\nreader_agreement: string\nreader_agreement_label: string\ntool_release: string\nrelease: string\nsplit: string\nchemical_system: string\nfold_lso: int32\nfold_lpo: int32\nsource_system: string"
+   "schema": "id: string\npid: string\nsystem: string\nelements: list<element: string>\n  child 0, element: string\nn_elements: int32\nrecord_kind: string\nobservation_type: string\nproperty: string\nproperty_group: string\nproperty_printed: string\nvalue: double\nvalue_min: double\nvalue_max: double\nvalue_expression: string\nunit: string\nvalue_stored: double\nunit_stored: string\nvalue_printed: double\nunit_printed: string\nuncertainty_value: double\nuncertainty_basis: string\nuncertainty_note: string\nsigma_printed: double\nsigma_printed_kind: string\nsigma_reading: double\nsigma_method: double\nsigma_method_class: string\nsigma_method_basis: string\nsigma_method_n_pairs: int32\nsigma_method_floor: double\nsigma_method_floor_unit: string\nsigma_composition: double\nsigma_scatter: double\nsigma_conversion: double\nsigma_effective: double\nsigma_unit: string\nsigma_rule: string\nuncertainty_calibration: string\nsigma_x_effective: double\nsigma_x_method: double\nsigma_x_method_class: string\nsigma_T_condition_effective: double\nuncertainty_budget: string\nevidence_identity: string\nsource_evidence_review: string\nbound: string\ntemperature_bound_K: double\ntemperature_bound_json: string\nproperty_expression_json: string\ntemperature_K: double\ntemperature_min_K: double\ntemperature_max_K: double\ntemperature_printed: string\ntemperature_basis: string\ntemperature_approximate: bool\ntemperature_uncertainty_value: double\ntemperature_uncertainty_basis: string\npressure_Pa: double\npressure_basis: string\nphases: list<element: string>\n  child 0, element: string\nmodel_phases: list<element: string>\n  child 0, element: string\nphase_details: list<element: struct<label: string, model_phase: string, mapping_confidence: string, pearson_symbol: (... 50 chars omitted)\n  child 0, element: struct<label: string, model_phase: string, mapping_confidence: string, pearson_symbol: string, proto (... 35 chars omitted)\n      child 0, label: string\n      child 1, model_phase: string\n      child 2, mapping_confidence: string\n      child 3, pearson_symbol: string\n      child 4, prototype: string\n      child 5, parent_phase: string\nreaction: string\nreaction_type: string\ntransition_kind: string\ntransition_kind_printed: string\nproperty_code_raw: string\nunit_basis: string\nper_formula_unit_divisor: double\nvalue_before_quality_fix: double\nmerged_ids: list<element: string>\n  child 0, element: string\ncompositions: list<element: struct<phase: string, element: string, value: double, basis: string, source: string>>\n  child 0, element: struct<phase: string, element: string, value: double, basis: string, source: string>\n      child 0, phase: string\n      child 1, element: string\n      child 2, value: double\n      child 3, basis: string\n      child 4, source: string\noverall_composition: list<element: struct<element: string, value: double>>\n  child 0, element: struct<element: string, value: double>\n      child 0, element: string\n      child 1, value: double\noverall_composition_basis: string\nreference_state_json: string\ncomponent: string\nstructure_pearson_symbol: string\nstructure_prototype: string\nstructure_strukturbericht: string\nstructure_space_group: string\nstructure_space_group_number: int32\nevidence_class: string\norigin: string\norigin_class: string\norigin_measured_in: string\norigin_own_work_of_paper: bool\naccepted: bool\nflag_espei_ready: bool\nflag_judge_adjudicated: bool\nflag_magnitude_suspect: bool\nflag_source_disputed: bool\nflag_system_mismatch: bool\nflag_unsigned_in_print: bool\nflag_sign_pdf_page_verified: bool\nflag_has_dropped_fields: bool\nflag_composition_conflict_between_readers: bool\nflag_unit_conflict_between_readers: bool\nflag_page_unreadable: bool\nflag_basis_inferred_from_magnitude: bool\nflag_basis_corrected_from_formula: bool\nflag_sign_from_heading: bool\nflag_dft_outlier_unexplained: bool\nflag_reference_state_dropped_not_in_quote: bool\nflag_espei_certified: bool\nflag_espei_ready_upstream: bool\nflag_quote_clipped: bool\nflag_state_fully_specified: bool\nflag_value_in_quote: bool\ndropped_field_count: int32\nreview_state: string\nrow_state: string\nreview_flags: list<element: string>\n  child 0, element: string\nspecification_gaps: list<element: string>\n  child 0, element: string\nplausibility_result: string\nplausibility_dT_K: double\nplausibility_model: string\ncalphad_check: string\nespei_certified_basis: string\nespei_phase_rule_result: string\nespei_phase_rule_reason: string\nespei_blocked_by: list<element: string>\n  child 0, element: string\nplausibility_dx_json: string\ngate_failures: list<element: string>\n  child 0, element: string\ncorrections_json: string\ntemperature_K_stored: double\nsystem_stored: string\nevidence_class_before_gates: string\nproperty_code_before_gates: string\nreader_agreement_basis: string\nmethod: string\nmethod_basis: string\nconditions_kind: string\nconditions_paper: string\npaper_id: string\npaper_doi: string\npaper_citation: string\npaper_year: int32\ncited_dois: list<element: string>\n  child 0, element: string\ncited_labels: list<element: string>\n  child 0, element: string\nquote: string\nquote_page: int32\nlink_rule: string\nartifact: string\nartifact_label: string\nartifact_caption: string\npage: int32\ntable_row: int32\nmodel_tdb: string\nmodel_tdb_path: string\nmodel_tdb_sha256: string\nmodel_doi: string\nmodel_reproduced_by_calculation: bool\nmodel_unlinked_reason: string\nreaders: list<element: string>\n  child 0, element: string\nreader_tier: string\nreader_agreement: string\nreader_agreement_label: string\ntool_release: string\nrelease: string\nsplit: string\nchemical_system: string\nfold_lso: int32\nfold_lpo: int32\nsource_system: string"
   },
   "papers": {
-   "bytes": 530861,
-   "content_sha256": "5d073cee71cc0387a2dc8d5e33e3eac42ade530062d97843f906f6ac504bd35b",
+   "bytes": 532006,
+   "content_sha256": "d95d512758f13e3f4ab5b93b331ff8afac79d688a2983927a4e07dd060004225",
    "dataset": "literature",
    "file": "papers.parquet",
-   "file_sha256": "cea49c45a826b28e98461a42b4dc6eea89879ccbcbd1615076698dbae484f341",
-   "rows": 4881,
+   "file_sha256": "ca7b33de03e261a8389b3071e37aabfb63b98b3a3ea8c938d4b81c802fe57371",
+   "rows": 4882,
    "schema": "id: string\ndoi: string\ndoi_url: string\ncitation: string\ntitle: string\nauthors: list<element: string>\n  child 0, element: string\nyear: int32\ncontainer: string\nkind: string\nroles: list<element: string>\n  child 0, element: string\nsource_kinds: list<element: string>\n  child 0, element: string\nsystems: list<element: string>\n  child 0, element: string\nmetadata_source: string\npdf_sha256_prefix: string\nn_values: int32"
   },
   "phase_diagram_index": {
-   "bytes": 263049,
-   "content_sha256": "316d8eab354b7ca05f1523abc0870be436823c6a5cf25e01e2eedaf053e66de8",
+   "bytes": 265380,
+   "content_sha256": "f60cc40e7b04100b1863064171df9dddeaa92ca6433a670c8790d2200a18baf8",
    "dataset": "phase-diagrams",
    "file": "phase_diagram_index.parquet",
-   "file_sha256": "6a80bca1da3ff253a07e548c448b4a18e926b19be237c9e8e101cc5737beb559",
+   "file_sha256": "b7b7c4d01a0008604bcb34d468165f615d9d5a781c52e69b826b5f3977e0db80",
    "rows": 2774,
    "schema": "system: string\nelements: list<element: string>\n  child 0, element: string\nfile: string\ntdb: string\ntdb_sha256: string\nstatus: string\nlisted_in_index: bool\nhas_grid: bool\nx_component: string\nT_min_K: double\nT_max_K: double\nphases: list<element: string>\n  child 0, element: string\nn_invariants: int32\nengine: string\ncitation: string\ndoi: string"
   },
   "phase_diagram_invariants": {
-   "bytes": 690948,
-   "content_sha256": "1084915d2f80449c38f3fe326981d401835532e00822e36a374c56f6f473d752",
+   "bytes": 691861,
+   "content_sha256": "d2341eb9c1811b514c53bc126c9ef95f290564a918b9fb65214c040e8685dab9",
    "dataset": "phase-diagrams",
    "file": "phase_diagram_invariants.parquet",
-   "file_sha256": "6747de2806155aeeb371fe0eb574a5f6cf6a6e496d8b986c9379555597fdb5df",
-   "rows": 15322,
+   "file_sha256": "f75d19a9d5ff73ad74b4517e8746124704a785e6d587dba46f0ef166136d7996",
+   "rows": 15336,
    "schema": "system: string\nfile: string\ntdb: string\ntdb_sha256: string\nx_component: string\ninvariant_index: int32\nT_K: double\nn_phases: int32\nphases: list<element: string>\n  child 0, element: string\ncompositions: list<element: struct<phase: string, x: double>>\n  child 0, element: struct<phase: string, x: double>\n      child 0, phase: string\n      child 1, x: double\nx_min: double\nx_max: double\nengine: string\ncitation: string\ndoi: string\nn_mapper_hits: int32"
   }
  }

@@ -12,7 +12,7 @@ Table: Phases of the Ce–Fe system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ce-fe-bcc-a2); _phase:ce-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2499.67 K, x(Fe) 0–1 | 5 | 3 |
+| [BCC_A2](#phase-ce-fe-bcc-a2); _phase:ce-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2499.67 K, x(Fe) 0–1 | 7 | 3 |
 | [CE2FE17](#phase-ce-fe-ce2fe17); _phase:ce-fe:ce2fe17_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1344.81 K, x(Fe) 0.89474–0.89474 | 12 | 3 |
 | [CEFE2_C15](#phase-ce-fe-cefe2-c15); _phase:ce-fe:cefe2-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1205.9 K, x(Fe) 0.66667–0.66667 | 3 | 3 |
 | [FCC_A1](#phase-ce-fe-fcc-a1); _phase:ce-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1690 K, x(Fe) 0–1 | 14 | 3 |
@@ -24,11 +24,11 @@ Table: Phases of the Ce–Fe system (6)
 - Id: `phase:ce-fe:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2499.67 K, x(Fe) 0–1
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-fe:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:ce-fe:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2006.06.003:(δCe), paper:10.1016/j.calphad.2006.06.003:(δFe)  
+Names (7): _corpus: _corpus:phase:ce-fe:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2006.06.003:(αFe), paper:10.1016/j.calphad.2006.06.003:(δCe), paper:10.1016/j.calphad.2006.06.003:(δFe)  
 _tdb: _tdb:CeFe-06Su.tdb:BCC_A2, tdb:CeFe-19Zhu.tdb:BCC_A2, tdb:CeFe-23Su.tdb:BCC_A2  
 
 
@@ -300,8 +300,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -310,7 +310,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -321,7 +321,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

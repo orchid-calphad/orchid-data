@@ -1,10 +1,10 @@
 # La–Pt system
 
-> La–Pt system: 131 accepted literature values (model expression 40, phase transition 29, activity / EMF / Gibbs energy 24, formation 23) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Pt system: 102 accepted literature values (model expression 40, activity / EMF / Gibbs energy 24, formation 23, invariant reaction 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-PT.html · Markdown: https://data.orchid-project.org/systems/LA-PT.md
 
-131 accepted literature values from 1 paper(s) (experimental 101, model 30); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+102 accepted literature values from 1 paper(s) (experimental 72, model 30); 1 calculated phase diagram(s). 30 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-PT.json) · [CSV](https://data.orchid-project.org/systems/LA-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-PT/LaPt-06Rei.json) · [phases (12)](https://data.orchid-project.org/phases/pages/LA-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-PT.html) · [Markdown](https://data.orchid-project.org/systems/LA-PT.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 101 |
+| experimental | 72 |
 | model | 30 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 15 |
-| phase transition | 29 |
 | formation | 23 |
 | activity / EMF / Gibbs energy | 24 |
 | model expression | 40 |
@@ -122,42 +121,6 @@ Table: Enthalpies of formation, La–Pt system (23)
 
 ## Other properties
 
-### Phase transition (29)
-
-Table: Phase transition, La–Pt system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1010 K | 1010 | UNKNOWN; _alloy: La 0.72, Pt 0.28_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 23; `ORC-VRS4CCP2AE` |  |
-| Phase transition | 1012 K | 1012 | UNKNOWN; _alloy: La 0.8, Pt 0.2_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 25; `ORC-D2NRLHCFHX` |  |
-| Phase transition | 1019 K | 1019 | UNKNOWN; _alloy: La 0.85, Pt 0.15_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 26; `ORC-L2EPYUNVRN` |  |
-| Phase transition | 1020 K | 1020 | UNKNOWN; _alloy: La 0.751, Pt 0.249_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 24; `ORC-FF2JXQZ2EI` |  |
-| Phase transition | 1057 K | 1057 | UNKNOWN; _alloy: La 0.95, Pt 0.05_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 27; `ORC-Q6WZP6HP5H` |  |
-| Phase transition | 1110 K | 1110 | UNKNOWN; _alloy: La 1, Pt 0_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 28; `ORC-WH6BHCKYOI` |  |
-| Phase transition | 1175 K | 1175 | UNKNOWN; _alloy: La 0.62, Pt 0.38_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 19; `ORC-LE4AEOXOU3` |  |
-| Phase transition | 1177 K | 1177 | UNKNOWN; _alloy: La 0.65, Pt 0.35_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 21; `ORC-VHPTCXECBS` |  |
-| Phase transition | 1180 K | 1180 | UNKNOWN; _alloy: La 0.46, Pt 0.54_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 6; `ORC-3GK33CEOQC` |  |
-| Phase transition | 1183 K | 1183 | UNKNOWN; _alloy: La 0.68, Pt 0.32_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 22; `ORC-M5AOLN4F6C` |  |
-| Phase transition | 1184 K | 1184 | UNKNOWN; _alloy: La 0.47, Pt 0.53_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 7; `ORC-5ZP4SRPRIM` |  |
-| Phase transition | 1185 K | 1185 | UNKNOWN; _alloy: La 0.39, Pt 0.61_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 3; `ORC-4DL2R5ZPTG` |  |
-| Phase transition | 1185 K | 1185 | UNKNOWN; _alloy: La 0.63, Pt 0.37_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 20; `ORC-NCIGBD7DJU` |  |
-| Phase transition | 1192 K | 1192 | UNKNOWN; _alloy: La 0.49, Pt 0.51_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 8; `ORC-C4RNRGENEL` |  |
-| Phase transition | 1197 K | 1197 | UNKNOWN; _alloy: La 0.45, Pt 0.55_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 5; `ORC-MLGPNGLZPX` |  |
-| Phase transition | 1200 K | 1200 | UNKNOWN; _alloy: La 0.41, Pt 0.59_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 4; `ORC-66WSHX2DOY` |  |
-| Phase transition | 1303 K | 1303 | UNKNOWN; _alloy: La 0.58, Pt 0.42_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 18; `ORC-RGMZ2MABD6` |  |
-| Phase transition | 1307 K | 1307 | UNKNOWN; _alloy: La 0.57, Pt 0.43_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 16; `ORC-ICOH2NLLAE` |  |
-| Phase transition | 1310 K | 1310 | UNKNOWN; _alloy: La 0.54, Pt 0.46_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 12; `ORC-F2JRK6IP4B` |  |
-| Phase transition | 1310 K | 1310 | UNKNOWN; _alloy: La 0.55, Pt 0.45_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 14; `ORC-YZFYQ4POPT` |  |
-| Phase transition | 1324 K | 1324 | UNKNOWN; _alloy: La 0.53, Pt 0.47_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 11; `ORC-PGHPP5M6EX` |  |
-| Phase transition | 1325 K | 1325 | UNKNOWN; _alloy: La 0.57, Pt 0.43_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 17; `ORC-GGVDPJZ7MX` |  |
-| Phase transition | 1325 K | 1325 | UNKNOWN; _alloy: La 0.54, Pt 0.46_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 13; `ORC-KC7MBUCOPU` |  |
-| Phase transition | 1550 K | 1550 | UNKNOWN; _alloy: La 0.36, Pt 0.64_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 2; `ORC-W3EH245UV3` |  |
-| Phase transition | 1553 K | 1553 | UNKNOWN; _alloy: La 0.55, Pt 0.45_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 15; `ORC-HKEHZ7XXCC` |  |
-| Phase transition | 1555 K | 1555 | UNKNOWN; _alloy: La 0.51, Pt 0.49_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 10; `ORC-BSFFLJRHKW` |  |
-| Phase transition | 1555 K | 1555 | UNKNOWN; _alloy: La 0.34, Pt 0.66_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 1; `ORC-JGRGK4JMIJ` |  |
-| Phase transition | 1587 K | 1587 | UNKNOWN; _alloy: La 0.51, Pt 0.49_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 9; `ORC-3JROF7A4HO` |  |
-| Phase transition | 1590 K | 1590 | 45.0; _alloy: La 0.45, Pt 0.55_ | experimental | [1] Reimann 2006 | Table 3, p. 4, row 31; `ORC-2553LGCJRU` |  |
-
 ### Activity / EMF / Gibbs energy (24)
 
 Table: Activity / EMF / Gibbs energy, La–Pt system
@@ -244,10 +207,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -256,7 +219,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -267,7 +230,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -277,7 +240,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -287,7 +250,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

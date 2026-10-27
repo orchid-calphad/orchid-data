@@ -31,29 +31,29 @@ Table: Enthalpies of formation, Al–Co–Cr–Ni system (45)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -67.4 kJ/mol-atom ± 2.55 | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.e80675` |  |
+| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -67.4 kJ/mol-atom ± 2.55 |  | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.e80675` |  |
 | B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -67.18 kJ/mol-atom | 298.15 | model | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 84_ | Table 4, p. 38, row 8; `ORC-3ECLXDV23B.c8ed20` |  |
-| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -67 kJ/mol-atom | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.0e91fe` |  |
-| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -66.4 kJ/mol-atom ± 2 | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.8d90bb` |  |
+| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -67 kJ/mol-atom |  | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.0e91fe` |  |
+| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -66.4 kJ/mol-atom ± 2 |  | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.8d90bb` |  |
 | B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -66.1 kJ/mol-atom ± 1.3 | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 6; `ORC-GEAL46TYRL.c8a88f` |  |
-| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -66 kJ/mol-atom ± 0.13 | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.b07d0a` |  |
+| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -66 kJ/mol-atom ± 0.13 |  | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.b07d0a` |  |
 | B2 |  | -64.211 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 5; `ORC-AGMM4WVXYR.b8e1fa` |  |
-| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -62 kJ/mol-atom | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.bce74c` |  |
+| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -62 kJ/mol-atom |  | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.bce74c` |  |
 | B2 | [AlCo](https://data.orchid-project.org/compounds/AlCo.html) | -60.7 kJ/mol-atom ± 0.5 | 298.15 | experimental | -58.998 (mp-aaaaaaky) | -58.889 (oqmd-10411) | [1] Liu 2016; _cites ref. 82_ | Table 4, p. 38, row 3; `ORC-WVZQPXXYGJ.0d3cd4` |  |
 | B2 | [AlCo](https://data.orchid-project.org/compounds/AlCo.html) | -59.5 kJ/mol-atom | 298.15 | experimental | -58.998 (mp-aaaaaaky) | -58.889 (oqmd-10411) | [1] Liu 2016; _cites ref. 81_ | Table 4, p. 38, row 2; `ORC-IAB2LXFNOY.55268e` |  |
-| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -58.3 kJ/mol-atom ± 1.1 | 298.15 | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.47e6a8` |  |
+| B2 | [AlNi](https://data.orchid-project.org/compounds/AlNi.html) | -58.3 kJ/mol-atom ± 1.1 |  | experimental | -63.568 (mp-aaaaacff) | -64.592 (oqmd-94913) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.47e6a8` |  |
 | B2 |  | -57.673 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 1; `ORC-KVJ737FTEB.64d8f9` |  |
 | B2 |  | -2.776 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 4; `ORC-DHM3L6FQNW.d10fd6` |  |
-| γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -47 kJ/mol-atom | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.0759bb` |  |
+| γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -47 kJ/mol-atom |  | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.0759bb` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -46.39 kJ/mol-atom | 298.15 | model | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 84_ | Table 4, p. 38, row 25; `ORC-G47W2O6YVC.c159cd` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -45.6 kJ/mol-atom ± 1.1 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 87_ | Table 4, p. 38, row 24; `ORC-M2X72TAQEQ.c95868` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -42.38 kJ/mol-atom | 298.15 | model | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 26; `ORC-W2ORY4WT4W.8fc6c4` |  |
 | γ'-L12 |  | -42.126 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 20; `ORC-NQD4Z3IV5Z.14c693` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -41.3 kJ/mol-atom ± 1.3 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 22; `ORC-RBFFWS6ZQH.8da9a7` |  |
 | γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -40.6 kJ/mol-atom ± 1 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 25_ | Table 4, p. 38, row 21; `ORC-COMWLLIR2L.4ebb85` |  |
-| γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -40.6 kJ/mol-atom ± 1 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.690228` |  |
-| γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -38.2 kJ/mol-atom ± 5 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.6dd106` |  |
-| γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -37.6 kJ/mol-atom ± 4.2 | 298.15 | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.d37d98` |  |
+| γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -40.6 kJ/mol-atom ± 1 |  | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.690228` |  |
+| γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -38.2 kJ/mol-atom ± 5 |  | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.6dd106` |  |
+| γ'-L12 | [AlNi3](https://data.orchid-project.org/compounds/AlNi3.html) | -37.6 kJ/mol-atom ± 4.2 |  | experimental | -41.884 (mp-aaaaadvt) | -42.323 (oqmd-17890) | [1] Liu 2016; _cites ref. 85_ | Table 4, p. 38, row 23; `ORC-VTB72Y5OXM.d37d98` |  |
 | γ'-L12 | [Al3Ni](https://data.orchid-project.org/compounds/Al3Ni.html) | -22.9 kJ/mol-atom | 298.15 | model | -39.068 (mp-aaabjkld) | -21.441 (oqmd-344444) | [1] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 19; `ORC-UAJQ6SM4CJ.891017` |  |
 | γ'-L12 | [Al3Co](https://data.orchid-project.org/compounds/Al3Co.html) | -22.6 kJ/mol-atom | 298.15 | model | -39.153 (mp-aaacrxmd) | -20.871 (oqmd-349288) | [1] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 13; `ORC-XLXYXK24GA.6151be` |  |
 | γ'-L12 |  | -21.175 kJ/mol-atom | 298.15 | DFT |  |  | [1] Liu 2016 | Table 4, p. 38, row 18; `ORC-BHYSNHAPXI.0f07b4` |  |
@@ -150,8 +150,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -160,7 +160,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -171,7 +171,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

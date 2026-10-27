@@ -18,9 +18,9 @@ Table: Phases of the Ni–Si system (19)
 | [FCC_A1](#phase-ni-si-fcc-a1); _phase:ni-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–1739.46 K, x(Si) 0–0.17029 | 36 | 16 |
 | [L12_FCC](#phase-ni-si-fcc-l12); _phase:ni-si:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1735.13 K, x(Si) 0–0.25273 | 19 | 4 |
 | [HCP_A3](#phase-ni-si-hcp-a3); _phase:ni-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 10 calculated diagram(s) | 0 | 10 |
-| [LIQUID](#phase-ni-si-liquid); _phase:ni-si:liquid_ | liquid | liquid | stable in 10 of 10 calculated diagram(s): 1216.37–2500 K, x(Si) 0–1 | 108 | 10 |
-| [NI2SI_C37](#phase-ni-si-ni2si-c37); _phase:ni-si:ni2si-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–1540.21 K, x(Si) 0.33333–0.33333 | 37 | 10 |
-| [NI2SI_THETA](#phase-ni-si-ni2si-theta); _phase:ni-si:ni2si-theta_ | Ni2Si · hP6 · P6_322 (182) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 10 of 10 calculated diagram(s): 1086.66–1565.12 K, x(Si) 0.33515–0.39793 | 42 | 10 |
+| [LIQUID](#phase-ni-si-liquid); _phase:ni-si:liquid_ | liquid | liquid | stable in 10 of 10 calculated diagram(s): 1216.37–2500 K, x(Si) 0–1 | 104 | 10 |
+| [NI2SI_C37](#phase-ni-si-ni2si-c37); _phase:ni-si:ni2si-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–1540.21 K, x(Si) 0.33333–0.33333 | 35 | 10 |
+| [NI2SI_THETA](#phase-ni-si-ni2si-theta); _phase:ni-si:ni2si-theta_ | Ni2Si · hP6 · P6_322 (182) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 10 of 10 calculated diagram(s): 1086.66–1565.12 K, x(Si) 0.33515–0.39793 | 40 | 10 |
 | [NI3SI_H](#phase-ni-si-ni3si-h); _phase:ni-si:ni3si-h_ |  | needs_review | stable in 10 of 10 calculated diagram(s): 1387.74–1472.58 K, x(Si) 0.2412–0.25 | 44 | 10 |
 | [NI3SI_L12](#phase-ni-si-ni3si-l12); _phase:ni-si:ni3si-l12_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1440 K, x(Si) 0.22478–0.71 | 9 | 4 |
 | [NI3SI_M](#phase-ni-si-ni3si-m); _phase:ni-si:ni3si-m_ | Ge9Pd25 · hP34 · P-3 (147) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 10 of 10 calculated diagram(s): 1260–1401.56 K, x(Si) 0.23926–0.25 | 42 | 10 |
@@ -609,7 +609,7 @@ _assessment that models this phase_
 - Id: `phase:ni-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 10 of 10 calculated diagram(s): 1216.37–2500 K, x(Si) 0–1
-- Literature: 108 values (108 accepted) from 3 papers
+- Literature: 104 values (104 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-si:liquid)
 
 Names (14): _corpus: _corpus:phase:ni-si:liquid  
@@ -719,7 +719,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaabra and oqmd-4675, space group 62
 - Stoichiometry: Ni 0.6667, Si 0.3333
 - Stability: stable in 10 of 10 calculated diagram(s): 300–1540.21 K, x(Si) 0.33333–0.33333
-- Literature: 37 values (37 accepted) from 4 papers
+- Literature: 35 values (35 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-si:ni2si-c37)
 
 Names (18): _corpus: _corpus:phase:ni-si:ni2si-c37  
@@ -831,7 +831,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 10 of 10 calculated diagram(s): 1086.66–1565.12 K, x(Si) 0.33515–0.39793
-- Literature: 42 values (42 accepted) from 4 papers
+- Literature: 40 values (40 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-si:ni2si-theta)
 
 Names (15): _corpus: _corpus:phase:ni-si:ni2si-theta  
@@ -1742,8 +1742,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -1752,7 +1752,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1763,7 +1763,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

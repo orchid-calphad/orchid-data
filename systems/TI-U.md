@@ -1,10 +1,10 @@
 # Ti–U system
 
-> Ti–U system: 197 accepted literature values (crystal structure 150, phase transition 21, invariant reaction 16, phase equilibrium 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti–U system: 184 accepted literature values (crystal structure 150, invariant reaction 16, phase transition 8, phase equilibrium 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI-U.html · Markdown: https://data.orchid-project.org/systems/TI-U.md
 
-197 accepted literature values from 2 paper(s) (experimental 184, model 13); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+184 accepted literature values from 2 paper(s) (experimental 171, model 13); 3 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TI-U.json) · [CSV](https://data.orchid-project.org/systems/TI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-U/TiU-11Ber.json) · [phases (7)](https://data.orchid-project.org/phases/pages/TI-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI-U.html) · [Markdown](https://data.orchid-project.org/systems/TI-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 184 |
+| experimental | 171 |
 | model | 13 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
-| phase transition | 21 |
+| phase transition | 8 |
 | phase equilibrium | 8 |
 | crystal structure | 150 |
 | other property | 2 |
@@ -84,32 +84,19 @@ Table: Invariant reactions reported in the literature for the Ti–U system (16)
 
 ## Other properties
 
-### Phase transition (21)
+### Phase transition (8)
 
 Table: Phase transition, Ti–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 933.85 K | 933.85 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 31; `ORC-PVVBVU6W4O` |  |
-| Phase transition | 934.4 K | 934.4 | β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 21; `ORC-XYFJYMI2GX` |  |
-| Phase transition | 934.75 K | 934.75 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 32; `ORC-Q6EMN6H2QB` |  |
-| Phase transition | 935.15 K | 935.15 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 33; `ORC-GSAQG4WTXH` |  |
-| Phase transition | 935.85 K | 935.85 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 34; `ORC-7HQ6PT275C` |  |
-| Phase transition | 937.65 K | 937.65 | α→β | experimental | [1] Mo 2021 | Table 2, p. 6, row 27; `ORC-QNNKNZMOE4` |  |
 | Phase transition | 938.55 K | 938.55 | eutectoid: β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 17; `ORC-P4PVDLBHDV` |  |
-| Phase transition | 938.6 K | 938.6 | β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 20; `ORC-F4QYGUSYZZ` |  |
 | Phase transition | 938.65 K | 938.65 | eutectoid: β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 19; `ORC-2U6YMNDJ3Z` |  |
 | Phase transition | 938.75 K | 938.75 | eutectoid: β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 18; `ORC-ZYONDTJUKP` |  |
-| Phase transition | 939.15 K | 939.15 | α→β | experimental | [1] Mo 2021 | Table 2, p. 6, row 28; `ORC-6RRD3NIWIW` |  |
-| Phase transition | 939.85 K | 939.85 | α→β | experimental | [1] Mo 2021 | Table 2, p. 6, row 29; `ORC-EXNLF6Z7QZ` |  |
-| Phase transition | 991.65 K | 991.65 | γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 16; `ORC-7UHS636P7I` |  |
 | Phase transition | 995.15 K | 995.15 | eutectoid: γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 14; `ORC-WK3RLWLZR5` |  |
-| Phase transition | 995.85 K | 995.85 | γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 15; `ORC-XE4ZPZFMNM` |  |
 | Phase transition | 995.95 K | 995.95 | eutectoid: γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 12; `ORC-GMOHMYSAXK` |  |
-| Phase transition | 1168.15 K | 1168.15 | γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 26; `ORC-2YK2UIOLZH` |  |
 | Phase transition | 1172 K | 1172 | Liquid -> U2Ti; _L: U 0.667; U2Ti: U 0.667_ | model | [2] Berche 2011 | Table 1, p. 4, row 1; `ORC-KUZQL7BHVG` |  |
 | Phase transition | 1172.35 K | 1172.35 | congruent transformation: γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 22; `ORC-X4JS2EBTDF` |  |
-| Phase transition | 1172.35 K | 1172.35 | γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 25; `ORC-RSI3QV3DVK` |  |
 | Phase transition | 1172.55 K | 1172.55 | congruent transformation: γ→U2Ti; _alloy: Ti 0.333, U 0.667_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 24; `ORC-QBAGZDQFGX` |  |
 
 ### Phase equilibrium (8)
@@ -226,6 +213,7 @@ Table: Crystal structure, Ti–U system
 | Lattice b | 5.86436 Å | 1003.15 | γ(U,Ti); _alloy: Ti 0.0611, U 0.9389_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 48; `ORC-T4NFSINRNT.24421e` |  |
 | Lattice b | 5.83822 Å | 1003.15 | γ(U,Ti); _alloy: Ti 0.1493, U 0.8507_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 53; `ORC-UPFQJZAA6H.37dae0` |  |
 | Lattice b | 5.79894 Å | 1003.15 | γ(U,Ti); _alloy: Ti 0.0515, U 0.9485_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 47; `ORC-VW5ACZEN5R.2c715b` |  |
+| Lattice c | 2.848 Å |  | δ-U2Ti; _alloy: Ti 0.0611, U 0.9389_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 30; `ORC-TD6MNCC3JC.bcedd6` |  |
 | Lattice c | 4.95895 Å | 913.15 | αU; _alloy: Ti 0.0202, U 0.9798_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 2; `ORC-4M7N2EIAC5.9522d8` |  |
 | Lattice c | 4.9666 Å | 913.15 | αU; _alloy: Ti 0.081, U 0.919_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 14; `ORC-5DJ4LY2SOA.2bd09f` |  |
 | Lattice c | 4.96356 Å | 913.15 | αU; _alloy: Ti 0.0392, U 0.9608_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 6; `ORC-7ORXS3DKRV.fbdf54` |  |
@@ -262,7 +250,6 @@ Table: Crystal structure, Ti–U system
 | Lattice c | 2.848 Å | 993.15 | δ-U2Ti; _alloy: Ti 0.081, U 0.919_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 34; `ORC-4NKR7KEBMD.e87fc2` |  |
 | Lattice c | 2.84687 Å | 993.15 | δ-U2Ti; _alloy: Ti 0.238, U 0.762_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 38; `ORC-7D4BP7BY7B.cd5c29` |  |
 | Lattice c | 2.84585 Å | 993.15 | δ-U2Ti; _alloy: Ti 0.3316, U 0.6684_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 39; `ORC-PBBBDSX46T.7707b9` |  |
-| Lattice c | 2.848 Å | 993.15 | δ-U2Ti; _alloy: Ti 0.0611, U 0.9389_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 30; `ORC-TD6MNCC3JC.bcedd6` |  |
 | Lattice c | 2.85474 Å | 993.15 | δ-U2Ti; _alloy: Ti 0.0708, U 0.9292_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 32; `ORC-UEHDOM3EKI.b26adb` |  |
 | Lattice c | 2.86953 Å | 993.15 | δ-U2Ti; _alloy: Ti 0.1493, U 0.8507_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 36; `ORC-XTHQN3FFYJ.2463df` |  |
 | Lattice c | 4.96399 Å | 1003.15 | βU; _alloy: Ti 0.0202, U 0.9798_ | experimental | [1] Mo 2021 | Table 1, p. 4, row 41; `ORC-AL6WGE7R4U.5f2902` |  |
@@ -302,10 +289,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -314,7 +301,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -325,7 +312,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -335,7 +322,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -345,7 +332,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

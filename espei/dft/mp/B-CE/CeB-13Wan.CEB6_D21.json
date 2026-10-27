@@ -85,14 +85,14 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "B-CE",
-     "n": 114,
+     "n": 112,
      "sigma_robust_kJ": 6.499,
-     "bias_median_kJ_not_applied": 1.836,
+     "bias_median_kJ_not_applied": 1.847,
      "ci95_sigma_robust_kJ_full_stratum": [
-      4.721,
-      10.879
+      4.581,
+      10.84
      ],
-     "n_full_stratum": 119
+     "n_full_stratum": 116
     },
     "weight_used": 0.076935,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -112,7 +112,7 @@
      "sigma_effective": 6499.0,
      "method_class": "dft_mp",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 114,
+     "method_n_pairs": 112,
      "method_entry": "dft/CALIBRATION.json#lso/mp|on_hull_single|pblock_anion|B-CE"
     }
    }

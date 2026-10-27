@@ -1,10 +1,10 @@
 # Mo–N system
 
-> Mo–N system: 43 accepted literature values (formation 42, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–N system: 23 accepted literature values (formation 22, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-N.html · Markdown: https://data.orchid-project.org/systems/MO-N.md
 
-43 accepted literature values from 2 paper(s) (experimental 1, model 30, unspecified 12); 2 calculated phase diagram(s).
+23 accepted literature values from 2 paper(s) (experimental 1, model 16, unspecified 6); 2 calculated phase diagram(s). 20 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-N.json) · [CSV](https://data.orchid-project.org/systems/MO-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-N/MoN-23Dac.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MO-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-N.html) · [Markdown](https://data.orchid-project.org/systems/MO-N.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 30 |
-| unspecified | 12 |
+| model | 16 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| formation | 42 |
+| formation | 22 |
 
 ## Calculated phase diagrams
 
@@ -53,7 +53,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–N system (41)
+Table: Enthalpies of formation, Mo–N system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -78,26 +78,6 @@ Table: Enthalpies of formation, Mo–N system (41)
 | MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -39.251 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7; `ORC-5R77KSWT2C.9b16d7` |  |
 | MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -37.7537 kJ/mol-atom | 0 | unspecified | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023 | Table 2, p. 6, row 6; `ORC-KL4UEBDQZA.c0656f` |  |
 | MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -37.753 kJ/mol-atom | 0 | unspecified | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023 | Table 2, p. 6, row 6; `ORC-KL4UEBDQZA.18934a` |  |
-| UNKNOWN |  | -53.7423 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10; `ORC-X7WLHNSPJC.7723a2` |  |
-| UNKNOWN |  | -53.742 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10; `ORC-X7WLHNSPJC.ff279c` |  |
-| UNKNOWN |  | -51.8126 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8; `ORC-7SZTQCGGDZ.8e4721` |  |
-| UNKNOWN |  | -51.812 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8; `ORC-7SZTQCGGDZ.ae9955` |  |
-| UNKNOWN |  | -44.2868 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9; `ORC-7WLDD4OSHZ.2fbf4a` |  |
-| UNKNOWN |  | -44.286 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9; `ORC-7WLDD4OSHZ.b14827` |  |
-| UNKNOWN |  | -39.2512 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7; `ORC-5R77KSWT2C.6c898b` |  |
-| UNKNOWN |  | -39.251 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7; `ORC-5R77KSWT2C.6d413b` |  |
-| UNKNOWN |  | -37.7537 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 6; `ORC-KL4UEBDQZA.cf89c6` |  |
-| UNKNOWN |  | -37.753 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 6; `ORC-KL4UEBDQZA.907ce3` |  |
-| UNKNOWN |  | -35.989 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 3; `ORC-BFS3GXRQ6M.982f1c` |  |
-| UNKNOWN |  | -35.989 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 3; `ORC-BFS3GXRQ6M.141bb7` |  |
-| UNKNOWN |  | -26.0974 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 1; `ORC-K2B2TGUKRH.cf7a90` |  |
-| UNKNOWN |  | -26.097 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 1; `ORC-K2B2TGUKRH.c3d6ae` |  |
-| UNKNOWN |  | -25.953 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 2; `ORC-AXSSHG4VVU.fe6b62` |  |
-| UNKNOWN |  | -25.9526 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 2; `ORC-AXSSHG4VVU.912a94` |  |
-| UNKNOWN |  | -22.0797 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5; `ORC-VGJUJBVTO3.e68d75` |  |
-| UNKNOWN |  | -22.079 kJ/mol-atom |  | model |  |  | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5; `ORC-VGJUJBVTO3.229e49` |  |
-| UNKNOWN |  | -21.1081 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 4; `ORC-ASD2KE3EJB.40655f` |  |
-| UNKNOWN |  | -21.108 kJ/mol-atom |  | unspecified |  |  | [1] Daclan 2023 | Table 2, p. 6, row 4; `ORC-ASD2KE3EJB.c79ed7` |  |
 
 ## Other properties
 
@@ -126,10 +106,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -138,7 +118,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -149,7 +129,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -159,7 +139,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -169,7 +149,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

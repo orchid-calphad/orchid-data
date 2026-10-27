@@ -29,10 +29,6 @@
    [
     "MG",
     "SI"
-   ],
-   [
-    "MG",
-    "SI"
    ]
   ]
  },
@@ -47,7 +43,6 @@
     -16700.0,
     -18200.0,
     -17700.0,
-    -17700.0,
     -15400.0
    ]
   ]
@@ -55,17 +50,16 @@
  "reference": "Schick 2012, doi:10.1016/j.calphad.2012.02.001; Yuan 2009, doi:10.1016/j.calphad.2009.08.004",
  "bibtex": "schick2012_730b66 yuan2009_4ae599",
  "weight": [
-  0.05113,
-  0.05113,
-  0.05113,
-  0.05113,
-  0.05113
+  0.049203,
+  0.049203,
+  0.049203,
+  0.049203
  ],
  "tags": [
   "dft_literature",
   "orchid"
  ],
- "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB MgSi-12Sch.tdb (sha256 fb5bcd7ddaaab551834ae583f3ba434991b4d8f8b5a09af0099cd9b7003ca827), phase MG2SI_C1. Ids, in value order: ORC-3EP2RAVNHP.c91b91 ORC-5VIZ44FGIK ORC-AP4XHDIAMA ORC-FYZFTH4VM6 ORC-TKZQ4AI54G.9dc254. eV/atom x 96485.33212 = J/mol-atom.",
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB MgSi-12Sch.tdb (sha256 fb5bcd7ddaaab551834ae583f3ba434991b4d8f8b5a09af0099cd9b7003ca827), phase MG2SI_C1. Ids, in value order: ORC-3EP2RAVNHP.c91b91 ORC-5VIZ44FGIK ORC-AP4XHDIAMA ORC-TKZQ4AI54G.9dc254. eV/atom x 96485.33212 = J/mol-atom.",
  "orchid": {
   "evidence_class": "dft",
   "dft_source": "literature",
@@ -96,14 +90,41 @@
     "compound": "Mg2Si",
     "basis": "registry paper_label",
     "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-FYZFTH4VM6",
-    "compound": "Mg2Si",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
+    "match_quality": null,
+    "also_read_as": [
+     "ORC-FYZFTH4VM6"
+    ],
+    "evidence_identity": {
+     "canonical_id": "ORC-AP4XHDIAMA",
+     "alias_ids": [
+      "ORC-FYZFTH4VM6"
+     ],
+     "role": "canonical",
+     "basis": "Yuan et al. 2009 Table 3 and Schick et al. 2012 Table 3 both report -17.7 kJ/mol-atom for Mg2Si and cite Zhang et al. 2009. The original Zhang Table 5 confirms -17.70 kJ/mol-atom in the calculated column. The earlier reporting record is canonical among the two retained records; it is not a newly extracted original-source record.",
+     "source_doi": "10.1016/j.intermet.2009.03.017",
+     "printed_page": 881,
+     "table": 5,
+     "reporting_source": {
+      "doi": "10.1016/j.calphad.2012.02.001",
+      "pdf_page": 7,
+      "table": 3,
+      "reference_label": "55"
+     },
+     "source_context_discrepancy": {
+      "original_computation_temperature_K": 0,
+      "canonical_report_temperature_K": null,
+      "later_report_temperature_K": 298.15,
+      "basis": "The original methods state that energies are calculated at 0 K. The 2009 reporting record has no numerical temperature; the 2012 table labels its column Hf,298 (stored as 298.15 K under the existing documented convention). Preserve all reported temperatures and reference-state metadata, without adding a temperature to the earlier record.",
+      "status": "documented; one underlying calculation counted"
+     },
+     "canonical_reporting_source": {
+      "doi": "10.1016/j.calphad.2009.08.004",
+      "pdf_page": 3,
+      "printed_page": 675,
+      "table": 3,
+      "reference_label": "54"
+     }
+    }
    },
    {
     "id": "ORC-TKZQ4AI54G.9dc254",
@@ -134,7 +155,7 @@
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
-    "sigma": 9779.0,
+    "sigma": 10162.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -142,16 +163,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-SI",
-     "n": 121,
-     "sigma_robust_kJ": 9.779,
+     "n": 119,
+     "sigma_robust_kJ": 10.162,
      "bias_median_kJ_not_applied": 0.9,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
+      7.205,
+      13.326
      ],
-     "n_full_stratum": 126
+     "n_full_stratum": 123
     },
-    "weight_used": 0.05113,
+    "weight_used": 0.049203,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -16.7,
@@ -162,19 +183,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 9779.0,
+     "sigma_method": 10162.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 9779.0,
+     "sigma_effective": 10162.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 121,
+     "method_n_pairs": 119,
      "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|MG-SI"
     }
    },
    {
-    "sigma": 9779.0,
+    "sigma": 10162.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -182,16 +203,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-SI",
-     "n": 121,
-     "sigma_robust_kJ": 9.779,
+     "n": 119,
+     "sigma_robust_kJ": 10.162,
      "bias_median_kJ_not_applied": 0.9,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
+      7.205,
+      13.326
      ],
-     "n_full_stratum": 126
+     "n_full_stratum": 123
     },
-    "weight_used": 0.05113,
+    "weight_used": 0.049203,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -18.2,
@@ -202,19 +223,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 9779.0,
+     "sigma_method": 10162.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 9779.0,
+     "sigma_effective": 10162.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 121,
+     "method_n_pairs": 119,
      "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|MG-SI"
     }
    },
    {
-    "sigma": 9779.0,
+    "sigma": 10162.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -222,16 +243,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-SI",
-     "n": 121,
-     "sigma_robust_kJ": 9.779,
+     "n": 119,
+     "sigma_robust_kJ": 10.162,
      "bias_median_kJ_not_applied": 0.9,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
+      7.205,
+      13.326
      ],
-     "n_full_stratum": 126
+     "n_full_stratum": 123
     },
-    "weight_used": 0.05113,
+    "weight_used": 0.049203,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -17.7,
@@ -242,19 +263,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 9779.0,
+     "sigma_method": 10162.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 9779.0,
+     "sigma_effective": 10162.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 121,
+     "method_n_pairs": 119,
      "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|MG-SI"
     }
    },
    {
-    "sigma": 9779.0,
+    "sigma": 10162.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -262,56 +283,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "MG-SI",
-     "n": 121,
-     "sigma_robust_kJ": 9.779,
+     "n": 119,
+     "sigma_robust_kJ": 10.162,
      "bias_median_kJ_not_applied": 0.9,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
+      7.205,
+      13.326
      ],
-     "n_full_stratum": 126
+     "n_full_stratum": 123
     },
-    "weight_used": 0.05113,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -17.7,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-FYZFTH4VM6",
-    "compound": "Mg2Si",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 9779.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 9779.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 121,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|MG-SI"
-    }
-   },
-   {
-    "sigma": 9779.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "pblock_anion",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "MG-SI",
-     "n": 121,
-     "sigma_robust_kJ": 9.779,
-     "bias_median_kJ_not_applied": 0.9,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
-     ],
-     "n_full_stratum": 126
-    },
-    "weight_used": 0.05113,
+    "weight_used": 0.049203,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -15.4,
@@ -322,14 +303,14 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 9779.0,
+     "sigma_method": 10162.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 9779.0,
+     "sigma_effective": 10162.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 121,
+     "method_n_pairs": 119,
      "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|MG-SI"
     }
    }

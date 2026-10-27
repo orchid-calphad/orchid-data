@@ -1375,11 +1375,11 @@ Table: Crystal structure, C–U system
 | Lattice a | 3.5241 not_printed ± 5.000e-4 | 298.15 | UNKNOWN | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 17; `ORC-K5NCJNBIMB.060814` |  |
 | Lattice a | 3.519 not_printed ± 0.0011 | 298.15 | UNKNOWN | experimental | [1] Chevalier 2001; _cites Witteman 1963_ | Table 1, p. 3, row 16; `ORC-M4M3ZRV5XR.1b9af4` |  |
 | Lattice a | 5.45 not_printed ± 0.01 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Bredig 1960_ | Table 1, p. 3, row 11; `ORC-MUHSSTBD4Y` |  |
-| Lattice a | 3.524 Å | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Rundle 1948_ [doi](https://doi.org/10.1021/ja01181a029) | Table 1, p. 3, row 13; `ORC-QO3HMYGDTH.380eef` |  |
 | Lattice a | 5.41 Å | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Chang 1961_ [doi](https://doi.org/10.1107/s0365110x61003223) | Table 1, p. 3, row 9; `ORC-TQH33BLNLP` |  |
 | Lattice a | 3.517 not_printed ± 0.002 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Atoji 1959_ [doi](https://doi.org/10.1063/1.1730352) | Table 1, p. 3, row 14; `ORC-VVAFH55OUJ.3e2b95` |  |
 | Lattice a | 8.088 Å | 298.15 | UNKNOWN; _alloy: U 0.4_ | experimental | [1] Chevalier 2001; _cites Mallet 1951_ [doi](https://doi.org/10.1149/1.2778032) | Table 1, p. 3, row 18; `ORC-W4VN4MNKSQ` |  |
 | Lattice a | 5.475 Å | 298.15 | UNKNOWN; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Wilson 1960_ | Table 1, p. 3, row 12; `ORC-WYTXI6QR2A` |  |
+| Lattice a | 3.524 Å | 298.15 | η-UC2; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Rundle 1948_ [doi](https://doi.org/10.1021/ja01181a029) | Table 1, p. 3, row 13; `ORC-QO3HMYGDTH.380eef` |  |
 | Lattice a | 4.9577 not_printed | 1673 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Carniglia 1964_ | Table 1, p. 3, row 7; `ORC-EH7QFEKJRS` |  |
 | Lattice a | 4.956 Å | 1673 | UC; _alloy: U 0.5_ | experimental | [1] Chevalier 2001; _cites Anselin 1964_ | Table 1, p. 3, row 6; `ORC-YS43XRTTL6` |  |
 | Lattice c | 5.98 not_printed ± 0.005 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | unspecified | [1] Chevalier 2001 | Table 1, p. 3, row 15; `ORC-HN2DTPFUID.1e438b` |  |
@@ -1396,9 +1396,9 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -1407,7 +1407,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1418,7 +1418,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1428,7 +1428,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

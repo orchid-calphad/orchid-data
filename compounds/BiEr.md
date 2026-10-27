@@ -24,14 +24,14 @@ Table: Enthalpy of formation of BiEr reported in the literature (22)
 | -90 kJ/mol-atom | α-ErBi | 298.15 | experimental | Calorimetry | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 2, p. 5, row 13; `ORC-IGNPH6MP2Y` |  |
 | -90 kJ/mol-atom | BiEr | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 4, p. 4, row 5; `ORC-OR35V2GB75` |  |
 | -90 kJ/mol-atom | ErBi | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 9, p. 7, row 3; `ORC-WKRHFIUBRH` |  |
-| -83.62 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 9; `ORC-2TNNH45GCL` |  |
+| -83.62 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.tca.2013.05.024) | Table 2, p. 5, row 9; `ORC-2TNNH45GCL` |  |
 | -80.35 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 2, p. 5, row 10; `ORC-DANVKKXKVT` |  |
 | -80.35 kJ/mol-atom | ErBi |  | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017 | Table 9, p. 7, row 5; `ORC-YRUKERP3MD` |  |
 | -79.131 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022 | Table 2, p. 5, row 5; `ORC-F6ESKCLDLJ` |  |
 | -75 kJ/mol-atom | BiEr | 0 | model | Miedima model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 4, row 9; `ORC-33LM5FGD4E` |  |
 | -75 kJ/mol-atom | ErBi |  | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 9, p. 7, row 1; `ORC-5ZVDHF66MC` |  |
 | -75 kJ/mol-atom | α-ErBi |  | model | Miedema model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 15; `ORC-A4NVSZTRLB` |  |
-| -82.069 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 8; `ORC-6Y27WU6GQL` |  |
+| -82.069 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.tca.2013.05.024) | Table 2, p. 5, row 8; `ORC-6Y27WU6GQL` |  |
 | -82.069 kJ/mol-atom | BiEr | 0 | DFT | first-principles | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013 | Table 4, p. 4, row 8; `ORC-CWNSNQEM3C` |  |
 | -80.274 kJ/mol-atom | α-ErBi |  | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 6; `ORC-VLAU4J4473` |  |
 | -80.005 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022 | Table 2, p. 5, row 4; `ORC-KM5XSP6HBL` |  |
@@ -55,18 +55,18 @@ Table: Uncertainty budget of the literature values of BiEr
 | -90 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -90 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -90 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -83.62 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -80.35 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -80.35 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -79.131 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -75 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -75 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -75 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -82.069 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
-| -82.069 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
-| -80.274 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
-| -80.005 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
-| -77.576 | kJ/mol-atom |  | 5.000e-4 | 7.962 (dft, calibrated) |  |  |  | 7.962 |
+| -83.62 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -80.35 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -80.35 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -79.131 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -75 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -75 | kJ/mol-atom |  | 0.5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -75 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -82.069 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -82.069 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -80.274 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -80.005 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -77.576 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
 
 ## DFT formation energies
 
@@ -89,9 +89,9 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -100,7 +100,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -111,7 +111,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_dft_benchmark_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -122,7 +122,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

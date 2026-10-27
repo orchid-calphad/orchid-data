@@ -1,10 +1,10 @@
 # Li–Sn system
 
-> Li–Sn system: 193 accepted literature values (invariant reaction 71, formation 36, phase transition 33, phase equilibrium 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Sn system: 181 accepted literature values (invariant reaction 71, formation 36, phase equilibrium 28, crystal structure 23) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-SN.html · Markdown: https://data.orchid-project.org/systems/LI-SN.md
 
-193 accepted literature values from 2 paper(s) (experimental 139, model 52, unspecified 2); 3 calculated phase diagram(s). 22 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+181 accepted literature values from 2 paper(s) (experimental 127, model 52, unspecified 2); 3 calculated phase diagram(s). 34 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-SN.json) · [CSV](https://data.orchid-project.org/systems/LI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-SN/LiSn-05Yin-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/LI-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-SN.html) · [Markdown](https://data.orchid-project.org/systems/LI-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 139 |
+| experimental | 127 |
 | model | 52 |
 | unspecified | 2 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 71 |
-| phase transition | 33 |
+| phase transition | 21 |
 | phase equilibrium | 28 |
 | formation | 36 |
 | activity / EMF / Gibbs energy | 2 |
@@ -217,7 +217,7 @@ Table: Enthalpies of formation, Li–Sn system (36)
 
 ## Other properties
 
-### Phase transition (33)
+### Phase transition (21)
 
 Table: Phase transition, Li–Sn system
 
@@ -225,25 +225,13 @@ Table: Phase transition, Li–Sn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 453.6 K | 453.6 | congruent melting: L \<-> (βLi) | experimental | [2] Li 2014 | Table 8, p. 6, row 2; `ORC-RRSHXNMQXD` |  |
 | Phase transition | 453.8 K | 453.8 | congruent melting: L \<-> (βLi) | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 1; `ORC-IGUYSRC3X3` |  |
-| Phase transition | 454.8 K | 454.8 | other: Li₉₆Sn₀₄; _alloy: Li 0.96, Sn 0.04_ | experimental | [2] Li 2014 | Table 7, p. 5, row 15; `ORC-LOWORYU6XL` |  |
-| Phase transition | 455.1 K | 455.1 | other: Li₈₄Sn₁₆; _alloy: Li 0.84, Sn 0.16_ | experimental | [2] Li 2014 | Table 7, p. 5, row 20; `ORC-JD3F6OF3T6` |  |
-| Phase transition | 456.1 K | 456.1 | other: Li₈₈Sn₁₂; _alloy: Li 0.88, Sn 0.12_ | experimental | [2] Li 2014 | Table 7, p. 5, row 19; `ORC-7IB2BIQ3YN` |  |
-| Phase transition | 456.5 K | 456.5 | other: Li₉₂Sn₀₈; _alloy: Li 0.92, Sn 0.08_ | experimental | [2] Li 2014 | Table 7, p. 5, row 17; `ORC-HACVGKULRB` |  |
 | Phase transition | 505.05 K | 505.05 | congruent melting: L \<-> (βSn); _(βSn): Sn 1_ | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 24; `ORC-HZS6GTRT3W` |  |
-| Phase transition | 598.4 K | 598.4 | other: Li₅₀Sn₅₀; _alloy: Li 0.5, Sn 0.5_ | experimental | [2] Li 2014 | Table 7, p. 5, row 28; `ORC-LVCLK7A6AJ` |  |
-| Phase transition | 746.4 K | 746.4 | other: Li₆₀Sn₄₀; _alloy: Li 0.6, Sn 0.4_ | experimental | [2] Li 2014 | Table 7, p. 5, row 27; `ORC-ARZJTALBB5` |  |
 | Phase transition | 759 K | 759 | L -> LiSn; _L: Sn 0.5; LiSn: Sn 0.5_ | experimental | [2] Li 2014 | Table 10, p. 9, row 26; `ORC-33HWD7L4Q2` |  |
 | Phase transition | 759 K | 759 | congruent melting: L \<-> LiSn; _L: Sn 0.5; LiSn: Sn 0.5_ | experimental | [2] Li 2014 | Table 8, p. 6, row 20; `ORC-O2PSZ2O6HV` |  |
 | Phase transition | 759 K | 759 | congruent transformation | experimental | [2] Li 2014 | p. 6; `ORC-QGZ6FUOXTX` | “The sample Li50 Sn50 shows a melting peak at 759 K, which corresponds to the congruent melting of LiSn.” |
 | Phase transition | 760 K | 760 | L -> LiSn; _L: Sn 0.5; LiSn: Sn 0.5_ | model | [2] Li 2014 | Table 10, p. 9, row 27; `ORC-4NQAWW3KT6` |  |
 | Phase transition | 760 K | 760 | L -> LiSn; _L: Sn 0.5; LiSn: Sn 0.5_ | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 25; `ORC-J6IJ2LIVPF` |  |
 | Phase transition | 760 K | 760 | congruent melting: L \<-> LiSn; _L: Sn 0.5; LiSn: Sn 0.5_ | experimental | [2] Li 2014; _cites Sangster 1998_ [doi](https://doi.org/10.1007/s12385-006-5008-6) | Table 8, p. 6, row 19; `ORC-IWEEAJ7LIR` |  |
-| Phase transition | 833.2 K | 833.2 | other: Li₇₉Sn₂₁; _alloy: Li 0.79, Sn 0.21_ | experimental | [2] Li 2014 | Table 7, p. 5, row 23; `ORC-SAL7Y5FFOH` |  |
-| Phase transition | 972.1 K | 972.1 | other: Li₇₁Sn₂₉; _alloy: Li 0.71, Sn 0.29_ | experimental | [2] Li 2014 | Table 7, p. 5, row 26; `ORC-3PRLBBB2OY` |  |
-| Phase transition | 996.7 K | 996.7 | other: Li₇₂.₂Sn₂₇.₈; _alloy: Li 0.722, Sn 0.278_ | experimental | [2] Li 2014 | Table 7, p. 5, row 25; `ORC-FZ4CFBU3CO` |  |
-| Phase transition | 996.9 K | 996.9 | other: Li₇₄Sn₂₆; _alloy: Li 0.74, Sn 0.26_ | experimental | [2] Li 2014 | Table 7, p. 5, row 24; `ORC-DGE6PVA4CS` |  |
-| Phase transition | 1024.6 K | 1024.6 | other: Li₈₁.₅Sn₁₈.₅; _alloy: Li 0.815, Sn 0.185_ | experimental | [2] Li 2014 | Table 7, p. 5, row 21; `ORC-D2EMQVCGDC` |  |
-| Phase transition | 1029.8 K | 1029.8 | other: Li₈₀Sn₂₀; _alloy: Li 0.8, Sn 0.2_ | experimental | [2] Li 2014 | Table 7, p. 5, row 22; `ORC-WHUEZXEO34` |  |
 | Phase transition | 1031 K | 1031 | L -> Li17Sn4; _L: Sn 0.185; Li17Sn4: Sn 0.185_ | model | [2] Li 2014; _cites Sangster 1998_ | Table 10, p. 9, row 4; `ORC-LMLR7WYLZA` |  |
 | Phase transition | 1031 K | 1031 | L -> Li17Sn4; _L: Sn 0.19; Li17Sn4: Sn 0.19_ | model | [2] Li 2014 | Table 10, p. 9, row 6; `ORC-VZZJZ5RKOT.610206` |  |
 | Phase transition | 1031 K | 1031 | L -> Li17Sn4; _L: Sn 0.190476; Li17Sn4: Sn 0.190476_ | experimental | [2] Li 2014 | Table 10, p. 9, row 5; `ORC-VZZJZ5RKOT.9965fc` |  |
@@ -340,10 +328,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -352,7 +340,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -363,7 +351,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -373,7 +361,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -383,7 +371,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

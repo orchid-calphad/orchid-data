@@ -4,14 +4,14 @@
  "version": "2026.10",
  "bundle": "orchid-examples-v2026.10.zip",
  "source": "git archive of github.com/orchid-calphad/orchid-examples",
- "commit": "16d4eabe6587d722ab2b0a5140b83a8e4b01404b",
- "n_files": 397,
- "total_bytes": 11675170,
+ "commit": "e695580ab2590a6dfedee01a3dae7364eee164bb",
+ "n_files": 426,
+ "total_bytes": 13931528,
  "files": [
   {
    "path": ".github/workflows/examples.yml",
-   "bytes": 1364,
-   "sha256": "0f46b5fbf4acb025f5946d600aa56a04cb0bee824eabf86edcab7f65eac41150"
+   "bytes": 1534,
+   "sha256": "a12d62f2f0220070caaf582e83446d9a1f0d9924b7ae28f7a8039c8270536a90"
   },
   {
    "path": ".gitignore",
@@ -20,13 +20,28 @@
   },
   {
    "path": ".zenodo.json",
-   "bytes": 3018,
-   "sha256": "ffcda774bc61467293351ba6be5022f24ba4430d2b688d44ccb9921d5272508f"
+   "bytes": 3112,
+   "sha256": "1536efe61b27faea3eb07123536e51c1c18c8eea591fe6a62f9f81e516e7cb1d"
+  },
+  {
+   "path": "AGENTS.md",
+   "bytes": 2530,
+   "sha256": "51084895ce6b70fda487f2af7a5db085dd39f210fc02f985877b8244eb22bc84"
   },
   {
    "path": "CITATION.cff",
    "bytes": 4006,
    "sha256": "c84b95917aa8e5f216da6645fe04ef794f767d4005a5a724e2984c338253caab"
+  },
+  {
+   "path": "CITATIONS.json",
+   "bytes": 3453,
+   "sha256": "f2f881fda27aacd27051b6ed831dad4fa1fb63b521276d7b09d69c1c79344500"
+  },
+  {
+   "path": "CITATIONS.md",
+   "bytes": 3426,
+   "sha256": "f796bcefb8ed75fc904988509dc75befe59aaa0c9d15d9e1379615d7c0841516"
   },
   {
    "path": "CONTRIBUTING.md",
@@ -45,8 +60,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 6189,
-   "sha256": "9662d1e8160fa174d6480a78d20ad618243f1a3b6214db43e0643e6d74f1ef7e"
+   "bytes": 6748,
+   "sha256": "faa92da6ea3f6846db892828e46afdf27f54e614a0a6cfacac81785564a33e4e"
   },
   {
    "path": "ZENODO_LARGE_FILES.md",
@@ -65,8 +80,8 @@
   },
   {
    "path": "cuzr-espei-mcmc/README.md",
-   "bytes": 6471,
-   "sha256": "39ae7b7321c5e0d68fda1abd61202cb4efa98992a0654fc8eb4ebb1111c961fe"
+   "bytes": 8255,
+   "sha256": "b428455bc78cb0ca6202dbfdc0a8cf822934ee5d3bfa1a4ac75d5659b5d88ac3"
   },
   {
    "path": "cuzr-espei-mcmc/cached/espei_demo_summary.json",
@@ -205,8 +220,8 @@
   },
   {
    "path": "cuzr-phaseforgeplus/README.md",
-   "bytes": 10998,
-   "sha256": "cedb66ce65703567365073a7d697578b56afc619ec58dc86dc54166399d2357c"
+   "bytes": 11513,
+   "sha256": "a988a214ec4818b537334ccf01585ff638319521e7de1ba0817c4ac094e75d72"
   },
   {
    "path": "cuzr-phaseforgeplus/cached/demo_results.json",
@@ -330,8 +345,8 @@
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/_paths.py",
-   "bytes": 3683,
-   "sha256": "8204c676a6ef03c4a60a648cb9438da47b4a8b0217d816b35e96954ed624b396"
+   "bytes": 3854,
+   "sha256": "b6373d541d51760b1eccfba0a42200e2d3ce76abaaf3363cb64aa98478fc520c"
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/build_a4.py",
@@ -345,23 +360,23 @@
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/build_mlip_tdb.py",
-   "bytes": 7919,
-   "sha256": "834ac3241bb0ae8a4f0f439e108e7f8a8cf122c9890571d31bcf1bcf78559671"
+   "bytes": 7907,
+   "sha256": "dc1d3e0cd60493163aa98c1f259fa3562b607b6ca420453e0d07355c7fad7f0b"
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/compounds.py",
-   "bytes": 5165,
-   "sha256": "f9d64d1a6c62902c5904e1b9566a50ef0a7747111f36ff26039a43f6f7d1bcfc"
+   "bytes": 5153,
+   "sha256": "102291c99359a64163bf01c69a28b94bf161b0850bbef015e1bf723ea40aed07"
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/evaluate.py",
-   "bytes": 4369,
-   "sha256": "21c036e60ad15a2237790f83c2dfae851f74dc1295df7b17b07d61e755a22c42"
+   "bytes": 4357,
+   "sha256": "643ec710045439931e07cc55ac3a48decf393cc081abe13536a3fad9d4946577"
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/fit_pr268.py",
-   "bytes": 5382,
-   "sha256": "bfd61bbd84ce3006c3d3415030c4c65429fc8cac6ca866208ec4953ff98b46e7"
+   "bytes": 5370,
+   "sha256": "a52c6f92ad73ec896c293eb16c30807545cd42002360463bf424bfcf112ee0a5"
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/hmc_hessian.py",
@@ -370,8 +385,8 @@
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/hmc_nuts.py",
-   "bytes": 10193,
-   "sha256": "3d1e71cd271496c3227ee72480647840e252fbd8ceb82f333f0c6dbae5ac70b4"
+   "bytes": 10181,
+   "sha256": "0ea48f32c5ed976c76815d88088ac2e3161142759a9a7597197fe114dfb9dba4"
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/hmc_refine.py",
@@ -380,13 +395,13 @@
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/liquid_md.py",
-   "bytes": 3504,
-   "sha256": "a5e511d897b2fd3c625ef7a5d471e3c3914a2018880548c99761a8ca40b964a9"
+   "bytes": 3848,
+   "sha256": "227f907defcde35693dc8a53ba825a5ec68c587c5ae25394573aff0e685b71eb"
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/make_anchor.py",
-   "bytes": 3007,
-   "sha256": "a1ecefda90000dfefd4f1a52901d2bb3479fdfc13422c9dc6f00057596308966"
+   "bytes": 2995,
+   "sha256": "7b3d157e77f0938b0087edb6d581156a8e6901f62e014f045a92ab236cbc22da"
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/mlip_relax.py",
@@ -400,8 +415,8 @@
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/sigma_mlip.py",
-   "bytes": 3016,
-   "sha256": "aa4390cdcbc2dbfa4a0d83dad3874b846b0a81469ed4631e08c11da7ef6b8a2b"
+   "bytes": 3004,
+   "sha256": "2d563c5bb48123345a073eb10f640d987a9ca1b3925e52ca93885c7f0a05859e"
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/sqs_mscraps.py",
@@ -410,8 +425,8 @@
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/validate_sqs.py",
-   "bytes": 4715,
-   "sha256": "3347d3989f973317d1d578140d17bc316551fd27a033d279f8d72945b78c621c"
+   "bytes": 4703,
+   "sha256": "ac0f0837c5dcc7d4dc661fe0a998bd5c4ea34c456ccadde15a5c0f8d448f7334"
   },
   {
    "path": "cuzr-phaseforgeplus/scripts/full/validity.py",
@@ -432,6 +447,16 @@
    "path": "cuzr-phaseforgeplus/scripts/pd_map.py",
    "bytes": 2846,
    "sha256": "bcefcd80e684268d6004d50349d71e750796084526da84d96bdb4306995c473c"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/workflow.py",
+   "bytes": 13482,
+   "sha256": "c4dce39a9389b134c059524b88695fe0844d492ecce6750454dc8ccc0138e516"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/scripts/workflow_helpers.py",
+   "bytes": 2013,
+   "sha256": "5d64a44ce5a4df7a0c90a2168fada75b273d9eb99a13a899475bf76dccbbfec9"
   },
   {
    "path": "cuzr-phaseforgeplus/tdb/CuZr-94Zen-LB.tdb",
@@ -457,6 +482,36 @@
    "path": "cuzr-phaseforgeplus/tdb/mlip_fit.json",
    "bytes": 10201,
    "sha256": "bb3368cfd42f318525c4f95c266c978341b1dc99fe45dc292b654923b40a4c0f"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/tdb/model-provenance.json",
+   "bytes": 8827,
+   "sha256": "bb91526a3c8f6d7025fb1d860ac65be2b8d08873227eff052b8a6d1032afaf20"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/tdb/model-provenance.schema.json",
+   "bytes": 6483,
+   "sha256": "b6ea1398250ccb4bd0344f086f7da9a55b84e0427707f2bdb00e88f5ca032e0e"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/tests/test_workflow.py",
+   "bytes": 4628,
+   "sha256": "57cda526e8f8fa1d8e2fceb9c2b50762673dadabd647b7a6b250615f2a5ded4d"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/workflow/README.md",
+   "bytes": 5214,
+   "sha256": "1158ceb5059f19c6c792e4ad9bd6052aea1b5dd4722c2933009b79718f00ef2b"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/workflow/cuzr.json",
+   "bytes": 20847,
+   "sha256": "07901ae6131bb7088ac0e8359e3477419a3356d06c261b450510cae5da753a81"
+  },
+  {
+   "path": "cuzr-phaseforgeplus/workflow/grace_2L_OMAT_files.sha256",
+   "bytes": 609,
+   "sha256": "8b47bd5b126b41e2e0900f984fa53ab3cd8a49e714429a1405a44d9ce2bc3f15"
   },
   {
    "path": "mlip-formation-enthalpy/README.md",
@@ -580,8 +635,8 @@
   },
   {
    "path": "oneshot-benchmark/README.md",
-   "bytes": 6087,
-   "sha256": "e64865e351e9530dce44aae2398c53c4495df04ecdff1c1d6344f0f6e6e7a95b"
+   "bytes": 7886,
+   "sha256": "72319f0fbdfbf68fbeb7621de73d3e28868b3b74763a05f2c97a58effccd46f3"
   },
   {
    "path": "oneshot-benchmark/figures/SHA256SUMS",
@@ -647,6 +702,51 @@
    "path": "oneshot-benchmark/results/map_cuzr_grace.npz",
    "bytes": 28737,
    "sha256": "977892bb1a84602783e073faeff071a2d924afe716aca3d9371c9ef70f426d76"
+  },
+  {
+   "path": "oneshot-benchmark/results/mlips/cuzr_chgnet-0.3.0.json",
+   "bytes": 262931,
+   "sha256": "8c931c3ea16cd4961e430c4beeb372c56562777fb69eb61f87c6f12a4f37cc85"
+  },
+  {
+   "path": "oneshot-benchmark/results/mlips/cuzr_grace-2l-omat.json",
+   "bytes": 270826,
+   "sha256": "87592d6465718393f34530623e144d4bd120ee0fe791a938c46e7e105bb09ce7"
+  },
+  {
+   "path": "oneshot-benchmark/results/mlips/cuzr_mace-mpa-0.json",
+   "bytes": 267856,
+   "sha256": "bd18023a73cc77159a446c8af8268c63a4a734ad32d88f8ffa87d0ebccb0a3c8"
+  },
+  {
+   "path": "oneshot-benchmark/results/mlips/cuzr_mace-omat-0.json",
+   "bytes": 261717,
+   "sha256": "2deb1a87ee6bc56ebc92d11105e9076b346146af946c4ceb148c0556b154a15d"
+  },
+  {
+   "path": "oneshot-benchmark/results/mlips/cuzr_mattersim-5m.json",
+   "bytes": 259016,
+   "sha256": "1b71feb46b50c03ad9ae143d6cda888bd4523f22ff9d9b208c30de56fbb195c9"
+  },
+  {
+   "path": "oneshot-benchmark/results/mlips/cuzr_orb-v3-mpa.json",
+   "bytes": 270089,
+   "sha256": "6a408ac783a57d16fa4c538008452acc7798341da57e47d0d33822e500a30fd8"
+  },
+  {
+   "path": "oneshot-benchmark/results/mlips/cuzr_orb-v3-omat.json",
+   "bytes": 269140,
+   "sha256": "c3b03520c54e084367b9d012657cca546d97cda82ff3f86670dbc27792463724"
+  },
+  {
+   "path": "oneshot-benchmark/results/mlips/cuzr_sevennet-omni.json",
+   "bytes": 256935,
+   "sha256": "8fa4a923002772e17de312e1f947b1eb9a75a6edb5d602dc069a4d3b8c87d787"
+  },
+  {
+   "path": "oneshot-benchmark/results/mlips_summary.md",
+   "bytes": 996,
+   "sha256": "81068452dbbcf25c21b8448860242aa1aeed2815d5cd36645127e6bbfcdd9a6f"
   },
   {
    "path": "oneshot-benchmark/results/reference_panel/CuZr-06Abe.json",
@@ -745,8 +845,8 @@
   },
   {
    "path": "oneshot-benchmark/scripts/score_all.sh",
-   "bytes": 1021,
-   "sha256": "99a713e483a9acc77450d83cce3f81c99235bb9fcee48d3993268dabafff35d2"
+   "bytes": 1264,
+   "sha256": "2e6947cfa674fe45b967df7446020264bf24a39e83e8818750660c2cc3c27e9e"
   },
   {
    "path": "oneshot-benchmark/scripts/score_grid.py",
@@ -754,9 +854,54 @@
    "sha256": "b706cdc1e5da686edf92c1975cbb3f48c82b04425f0613ff45657c8aeb9d30ff"
   },
   {
+   "path": "oneshot-benchmark/scripts/summarize_mlips.py",
+   "bytes": 1583,
+   "sha256": "1b26dd5a362a98a43f37e5c1e55b3c7ca4ed30309cc10d7cee14ae1f41a302b3"
+  },
+  {
    "path": "oneshot-benchmark/tdb/CuZr-94Zen-LB.tdb",
    "bytes": 6772,
    "sha256": "4cce85fd056a6fced1c8270faca7a1d811d2f8227b305f70e0a221925bd07f69"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-MLIP-chgnet-0.3.0.tdb",
+   "bytes": 7341,
+   "sha256": "2e6645988c0bd4e40f7efdc2285765f5b2669c3dc3bd9402ee0dc892bbdc079f"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-MLIP-grace-2l-omat.tdb",
+   "bytes": 7340,
+   "sha256": "a19e9736657e04ee89616ad7f5abbfcb1b4ad7cf5b6ea5cc10a98d31bfc2de32"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-MLIP-mace-mpa-0.tdb",
+   "bytes": 7334,
+   "sha256": "3e844d47a70b9c1f8d175d48c690f767ba3adeb586fb43e6f0fa24fb4dd23cba"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-MLIP-mace-omat-0.tdb",
+   "bytes": 7338,
+   "sha256": "9905c4b0e83555b118c94c15e47c75ea35b28f8c18b9b7e5f8dd44c264854b32"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-MLIP-mattersim-5m.tdb",
+   "bytes": 7335,
+   "sha256": "d38a8a14443ad0baaa5b93cce7a798281286c5c728eb56eec7f6ef1f85c056fc"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-MLIP-orb-v3-mpa.tdb",
+   "bytes": 7335,
+   "sha256": "c9a0809ddc21ba3c695e840ebfe1081fa00b76347ece83f875f3aded8ceb66ef"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-MLIP-orb-v3-omat.tdb",
+   "bytes": 7337,
+   "sha256": "26aa31550586fcf17ab642ccbcb3a5bb0d78c7a9a3daaf09b44d37836ec5e9e8"
+  },
+  {
+   "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-MLIP-sevennet-omni.tdb",
+   "bytes": 7341,
+   "sha256": "930a76b3dce9a8c9cff6741808546004d91b09adff67cad36a11570f667e5964"
   },
   {
    "path": "oneshot-benchmark/tdb/CuZr-PhaseForge-MLIP.tdb",
@@ -820,23 +965,23 @@
   },
   {
    "path": "phaseforge-structures/README.md",
-   "bytes": 2954,
-   "sha256": "c2db2bb4d9149221bc606c3c204f80550d9e2ab13a5c490b54ad2b0d415ede1d"
+   "bytes": 2964,
+   "sha256": "35414be18f3adee6edf5937ebc944533b3ed8f143e64398d438d3e3cf58a3c44"
   },
   {
    "path": "phaseforge-structures/cached/manifest_CuZr_auto.json",
-   "bytes": 4684,
-   "sha256": "2abff776f59fd80b4f5ee39202d3095fcc9c3de4fa2437fb28c0b04c36027fc9"
+   "bytes": 4657,
+   "sha256": "0e5361ff3c701a11ce7ba0d28444307f9f690139e8d2daaf98c13938bfb86e17"
   },
   {
    "path": "phaseforge-structures/cached/manifest_CuZr_curated.json",
-   "bytes": 4472,
-   "sha256": "3d958bc34024945f6df39b245556efabc4e42043402b4c033c523b7cc235a9cc"
+   "bytes": 4169,
+   "sha256": "e4a3441907de448875032dcedb72f78c9444ce9647fa1075ea9314bc9cc44782"
   },
   {
    "path": "phaseforge-structures/cached/manifest_NiTi.json",
-   "bytes": 4390,
-   "sha256": "8590cfee52139abe54f1947b072580b70e4bd000016fea59d459204cfc4c8c33"
+   "bytes": 4363,
+   "sha256": "8807d3ac2b885726d6684a7ed69b4fa38368aa35c56ba68c4197fb3d64012e04"
   },
   {
    "path": "phaseforge-structures/requirements.txt",
@@ -845,8 +990,8 @@
   },
   {
    "path": "phaseforge-structures/scripts/make_structures.py",
-   "bytes": 20949,
-   "sha256": "e22f8c8e70f8e45a56afce7b37ed3edc36dcc7103c053d5f9bcf048fbf800ee9"
+   "bytes": 20939,
+   "sha256": "851d89672b1e19f81aa2fc3f2799618b599835db8633e6deda217698481f28e7"
   },
   {
    "path": "quickstart/README.md",
@@ -870,8 +1015,8 @@
   },
   {
    "path": "quickstart/mcp_exchange.json",
-   "bytes": 95402,
-   "sha256": "2da3dd6bd87b1a2e2af1b04e6ff8fe47befbab07a1315abf0d5bf53939954d97"
+   "bytes": 95232,
+   "sha256": "9ef09dc5e1e3f4f4df65f67cd3cfb139faa68c2600c1bf32041ec2699284db9a"
   },
   {
    "path": "quickstart/quickstart.ipynb",

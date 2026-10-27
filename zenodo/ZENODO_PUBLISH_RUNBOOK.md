@@ -37,8 +37,12 @@ Restricted material, secrets, licences (run on the final tree after `writeback`;
 3. `$Z metadata --check` and `$Z manifest --check` pass (the text and the file lists match the data).
 4. `$Z card --check`, and `--check` of the builders (writeback runs them all).
 5. **Verbatim quotes** (your decision of 2026-10-24: short quotes may be published with citation and page, never whole
-   paragraphs): the Parquet table holds 5,743 quotes, median 172 characters, maximum 985, **81 longer than 500
-   characters**. Decide: accept, or cap/review those 81 before publishing (a published file cannot be changed).
+   paragraphs): **resolved at export.** No released quote is longer than 500 characters (Parquet `literature_values`:
+   5,743 quotes, median 172, maximum 500; `experimental_context`: 1,504, maximum 500). The 81 literature quotes (maximum
+   985 characters before) and 55 context quotes (maximum 1,743) that were longer are clipped to a contiguous part of the
+   original that keeps the printed value (word boundaries, no ellipsis added); `flags.quote_clipped` /
+   `flag_quote_clipped` / `quote_clipped` mark them, `quote_page` is unchanged, the record store keeps the full quote.
+   Permanent test: `tools/tests/test_release_integrity.py` (section 11) and `tools/tests/test_quote_clip.py`.
 6. Licences: records are CC BY 4.0 (`orchid-examples`: MIT for code, `LICENSE-DATA.md` for data); third-party data
    (SGTE, Materials Project, OQMD CC BY 4.0; Kim et al. 2017 values MIT; Crossref metadata CC0) are stated in
    `NOTICE.md` and `LICENSES.md`, which are in every zip. Quotes stay under the publishers' copyright and are said so in
@@ -68,6 +72,9 @@ description with <https://orchid-project.org>, optional logo (`assets/logo/` in 
 community's Settings: if you, as owner, can publish into your community without review, records go straight to
 published when you press Publish; otherwise the button reads **Submit for review**, the record stays unpublished until
 you **accept** it under the community's Requests (Step 6).
+
+For every draft, enter both NSF awards 2608825 and 2534344 in the Funding section;
+see `ZENODO_FUNDING_MANUAL.md` for indexed/custom award selection and the verified ARM-MIP title.
 
 ## Step 2. Reserve ten DOIs (Zenodo web, no files yet)
 

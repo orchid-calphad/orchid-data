@@ -25,7 +25,7 @@ Table: Phases of the Co–Ge system (15)
 | [COGE2](#phase-co-ge-coge2); _phase:co-ge:coge2_ | CoGe2 · oC24 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1122.01 K, x(Ge) 0.66667–0.66667 | 44 | 4 |
 | [FCC_A1](#phase-co-ge-fcc-a1); _phase:co-ge:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 687.99–1818.74 K, x(Ge) 0–0.17235 | 3 | 6 |
 | [L12_FCC](#phase-co-ge-fcc-l12); _phase:co-ge:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 750–1730 K, x(Ge) 0.01–0.25008 | 7 | 2 |
-| [HCP_A3](#phase-co-ge-hcp-a3); _phase:co-ge:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1425.86 K, x(Ge) 0–0.20219 | 15 | 4 |
+| [HCP_A3](#phase-co-ge-hcp-a3); _phase:co-ge:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1425.86 K, x(Ge) 0–0.20219 | 34 | 4 |
 | [LIQUID](#phase-co-ge-liquid); _phase:co-ge:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1087.69–2500 K, x(Ge) 0–1 | 53 | 4 |
 
 ## DIAMOND_A4 (Co–Ge)
@@ -681,11 +681,11 @@ _cited as the source of values for this phase_
 - Id: `phase:co-ge:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1425.86 K, x(Ge) 0–0.20219
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 34 values (34 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ge:hcp-a3)
 
-Names (6): _corpus: _corpus:phase:co-ge:hcp-a3  
-_paper: _paper:10.1016/j.tca.2013.08.026:ε(Co)  
+Names (8): _corpus: _corpus:phase:co-ge:hcp-a3  
+_paper: _paper:10.1007/bf02663678:(εCo), paper:10.1016/j.jallcom.2018.12.205:ε(Co), paper:10.1016/j.tca.2013.08.026:ε(Co)  
 _tdb: _tdb:CoGe-04Kor-LB.tdb:HCP_A3, tdb:CoGe-13Don.tdb:HCP_A3, tdb:CoGe-19Zen-ass.tdb:HCP_A3, tdb:CoGe-19Zen-sub.tdb:HCP_A3  
 
 
@@ -719,15 +719,21 @@ _tdb: _tdb:CoGe-04Kor-LB.tdb:HCP_A3, tdb:CoGe-13Don.tdb:HCP_A3, tdb:CoGe-19Zen-a
 55: CONST HCP_A3 : CO% GE : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.tca.2013.08.026](https://doi.org/10.1016/j.tca.2013.08.026) S.S. Dong, S.G. Liu, X.M. Tao, F.H. Xiao, L.H. Huang, F. Yang et al., Thermodynamic optimization of Co–Ge binary system, Thermochimica Acta 572, 94-100 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2018.12.205](https://doi.org/10.1016/j.jallcom.2018.12.205) Yinping Zeng, Yong Du, Han Li, Peng Zhou, Shuhong Liu, Kaiming Cheng et al., Thermodynamic description and solidified microstructure of the Co-Ge system, Journal of Alloys and Compounds 793, 480-491 (2019).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/bf02663678](https://doi.org/10.1007/bf02663678) I Ansara, F Ajersch, The Ga-Pb (Gallium-Lead) System, JPE 12, 73-77 (1991).  
+_reports values for this phase_
 - [doi:10.1007/bf02663679](https://doi.org/10.1007/bf02663679) K Ishida, T Nishizawa, The Co-Ge (Cobalt-Germanium) System, JPE 12, 77-83 (1991).  
 _cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(80)90252-0](https://doi.org/10.1016/0022-5088%2880%2990252-0) André Dayer, Pierre Feschotte, Les systèmes binaires cobalt-germanium et nickel-germanium: Étude comparée, Journal of the Less Common Metals 72, 51-70 (1980).  
+_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(90)90117-3](https://doi.org/10.1016/0022-5088%2890%2990117-3) H. Enoki, K. Ishida, T. Nishizawa, Phase equilibria in cobalt-rich portions of the Co-Si and Co-Ge systems, Journal of the Less Common Metals 160, 153-160 (1990).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11669-017-0592-1](https://doi.org/10.1007/s11669-017-0592-1) Yinping Zeng, Han Li, Yong Du, Yafei Pan, Yingbiao Peng, Peng Zhou et al., Experimental Investigation of the Co-Ge Phase Diagram, J. Phase Equilib. Diffus. 38, 843-852 (2017).  
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1949-401006](https://doi.org/10.1515/ijmr-1949-401006) H. Pﬁsterer, K. Schubert, Z. Metallkd. 40 (1949) 378–383.  
 _cited as the source of values for this phase_
@@ -796,8 +802,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -806,7 +812,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -817,7 +823,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

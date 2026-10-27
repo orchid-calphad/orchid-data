@@ -1,10 +1,10 @@
 # Co–Si system
 
-> Co–Si system: 87 accepted literature values (invariant reaction 54, phase transition 27, formation 5, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Si system: 74 accepted literature values (invariant reaction 54, phase transition 14, formation 5, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-SI.html · Markdown: https://data.orchid-project.org/systems/CO-SI.md
 
-87 accepted literature values from 2 paper(s) (experimental 62, model 13, unspecified 12); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+74 accepted literature values from 2 paper(s) (experimental 49, model 13, unspecified 12); 2 calculated phase diagram(s). 21 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-SI.json) · [CSV](https://data.orchid-project.org/systems/CO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SI/CoSi-06Zha.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CO-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-SI.html) · [Markdown](https://data.orchid-project.org/systems/CO-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 62 |
+| experimental | 49 |
 | model | 13 |
 | unspecified | 12 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 54 |
-| phase transition | 27 |
+| phase transition | 14 |
 | formation | 5 |
 | other property | 1 |
 
@@ -133,7 +133,7 @@ Table: Invariant reactions reported in the literature for the Co–Si system (54
 
 ## Other properties
 
-### Phase transition (27)
+### Phase transition (14)
 
 Table: Phase transition, Co–Si system
 
@@ -147,23 +147,10 @@ Table: Phase transition, Co–Si system
 | Phase transition | 1373.15 K | 1373.15 | 6; _alloy: Co 0.3333, Si 0.6667_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 6; `ORC-JYDDINLMJO` |  |
 | Phase transition | 1373.15 K | 1373.15 | 7; _alloy: Co 0.28, Si 0.72_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 7; `ORC-64V2L2PRLE` |  |
 | Phase transition | 1373.15 K | 1373.15 | 8; _alloy: Co 0.14, Si 0.86_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 8; `ORC-OJ33HGOLCL` |  |
-| Phase transition | 1459 K | 1459 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 11; `ORC-YCW4T4SSJ4` |  |
-| Phase transition | 1478 K | 1478 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 12; `ORC-HAWOTZPVBC` |  |
-| Phase transition | 1514 K | 1514 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 13; `ORC-CCSMOLMPTV` |  |
-| Phase transition | 1517 K | 1517 | other: 4 DTA signal; _alloy: Co 0.6, Si 0.4_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 15; `ORC-MFBZQHVZZP` |  |
-| Phase transition | 1530 K | 1530 | other: 8 DTA signal; _alloy: Co 0.14, Si 0.86_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 21; `ORC-WKHI6E4XRD` |  |
-| Phase transition | 1535 K | 1535 | other: 7 DTA signal; _alloy: Co 0.28, Si 0.72_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 19; `ORC-SXWH6WDC6C` |  |
-| Phase transition | 1570 K | 1570 | other: 7 DTA signal; _alloy: Co 0.28, Si 0.72_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 20; `ORC-2BGYOIQ4IB` |  |
-| Phase transition | 1572 K | 1572 | other: 4 DTA signal; _alloy: Co 0.6, Si 0.4_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 16; `ORC-WKT2Z2VQMT` |  |
-| Phase transition | 1584 K | 1584 | other: 2 DTA signal; _alloy: Co 0.8, Si 0.2_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 14; `ORC-QLRLT7AP2K` |  |
-| Phase transition | 1585 K | 1585 | other: 5 DTA signal; _alloy: Co 0.4, Si 0.6_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 17; `ORC-RNZCCXHRSQ` |  |
-| Phase transition | 1597 K | 1597 | other: 1 DTA signal; _alloy: Co 0.88, Si 0.12_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 9; `ORC-N5EVK45PPI` |  |
 | Phase transition | 1597.15 K | 1597.15 | L=CoSi2.; _CoSi2: Si 0.667_ | model | [2] Soon-Don 1992 | Table 3, p. 7, row 16; `ORC-VV7C6BP2KK` |  |
 | Phase transition | 1599.15 K | 1599.15 | L=CoSi2.; _CoSi2: Si 0.667_ | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 15; `ORC-JUVNJTAOKI` |  |
 | Phase transition | 1603.85 K | 1603.85 | L=Co2Si; _Co2Si: Si 0.333_ | model | [2] Soon-Don 1992 | Table 3, p. 7, row 20; `ORC-75CS3YBODK` |  |
 | Phase transition | 1607.15 K | 1607.15 | L=Co2Si; _Co2Si: Si 0.333_ | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 19; `ORC-QBCFXDRBLJ` |  |
-| Phase transition | 1623 K | 1623 | other: 5 DTA signal; _alloy: Co 0.4, Si 0.6_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 18; `ORC-OBSLHIVC5D` |  |
-| Phase transition | 1670 K | 1670 | other: 1 DTA signal; _alloy: Co 0.88, Si 0.12_ | experimental | [1] Zhang 2006 | Table 2, p. 4, row 10; `ORC-Y3N3MEIGZ5` |  |
 | Phase transition | 1728.25 K | 1728.25 | L=CoSi; _CoSi: Si 0.5_ | model | [2] Soon-Don 1992 | Table 3, p. 7, row 18; `ORC-2D4ZRDO5IM` |  |
 | Phase transition | 1733.15 K | 1733.15 | L=CoSi; _CoSi: Si 0.5_ | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 17; `ORC-3ZJT7NNECE` |  |
 
@@ -196,10 +183,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -208,7 +195,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -219,7 +206,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -229,7 +216,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -239,7 +226,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

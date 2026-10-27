@@ -1,10 +1,10 @@
 # Bi–Te system
 
-> Bi–Te system: 209 accepted literature values (phase transition 117, invariant reaction 54, phase equilibrium 14, crystal structure 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Te system: 92 accepted literature values (invariant reaction 54, phase equilibrium 14, crystal structure 12, formation 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-TE.html · Markdown: https://data.orchid-project.org/systems/BI-TE.md
 
-209 accepted literature values from 2 paper(s) (experimental 185, model 16, unspecified 8); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+92 accepted literature values from 2 paper(s) (experimental 68, model 16, unspecified 8); 4 calculated phase diagram(s). 120 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-TE.json) · [CSV](https://data.orchid-project.org/systems/BI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-TE/BiTe-18Gie.json) · [phases (13)](https://data.orchid-project.org/phases/pages/BI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-TE.html) · [Markdown](https://data.orchid-project.org/systems/BI-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 185 |
+| experimental | 68 |
 | model | 16 |
 | unspecified | 8 |
 
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 54 |
-| phase transition | 117 |
 | phase equilibrium | 14 |
 | formation | 12 |
 | crystal structure | 12 |
@@ -165,130 +164,6 @@ Table: Enthalpies of formation, Bi–Te system (12)
 
 ## Other properties
 
-### Phase transition (117)
-
-Table: Phase transition, Bi–Te system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 524.05 K | 524.05 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 106; `ORC-WGHSTAQBIS` |  |
-| Phase transition | 527.55 K | 527.55 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 113; `ORC-RRCKDNZ3C2` |  |
-| Phase transition | 527.85 K | 527.85 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 93; `ORC-KAX5AFISQ6` |  |
-| Phase transition | 528.25 K | 528.25 | 7; _alloy: Bi 0.667, Te 0.333_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 120; `ORC-G4TTOJBJE6` |  |
-| Phase transition | 528.75 K | 528.75 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 67; `ORC-JPLTMMFT5J` |  |
-| Phase transition | 533.35 K | 533.35 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 59; `ORC-3PDSYPH4SG` |  |
-| Phase transition | 533.45 K | 533.45 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 85; `ORC-4QNWQG3AQG` |  |
-| Phase transition | 535.65 K | 535.65 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 60; `ORC-MYBQJ6S3AS` |  |
-| Phase transition | 536.05 K | 536.05 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 50; `ORC-EFWKBFY22F` |  |
-| Phase transition | 536.05 K | 536.05 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 100; `ORC-NXQGRM7GCO` |  |
-| Phase transition | 536.25 K | 536.25 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 76; `ORC-4KY25GYX3N` |  |
-| Phase transition | 536.95 K | 536.95 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 63; `ORC-EHR37SUM7V` |  |
-| Phase transition | 537.35 K | 537.35 | 7; _alloy: Bi 0.667, Te 0.333_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 114; `ORC-M4SYCMEJ3H` |  |
-| Phase transition | 537.65 K | 537.65 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 89; `ORC-KVTEE3EXIJ` |  |
-| Phase transition | 537.95 K | 537.95 | 7; _alloy: Bi 0.667, Te 0.333_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 117; `ORC-WPHS6DON7S` |  |
-| Phase transition | 538.55 K | 538.55 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 42; `ORC-IYILGRNZWU` |  |
-| Phase transition | 538.55 K | 538.55 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 68; `ORC-JK2PR4I55P` |  |
-| Phase transition | 538.75 K | 538.75 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 110; `ORC-V7PWWAV3WF` |  |
-| Phase transition | 539.05 K | 539.05 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 54; `ORC-QDKQFKKOU3` |  |
-| Phase transition | 539.15 K | 539.15 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 51; `ORC-4X7GFMOWU2` |  |
-| Phase transition | 539.25 K | 539.25 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 81; `ORC-GGHNPTEW3T` |  |
-| Phase transition | 539.35 K | 539.35 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 45; `ORC-UCYN43TN5T` |  |
-| Phase transition | 539.35 K | 539.35 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 72; `ORC-O5BNLDREOG` |  |
-| Phase transition | 539.35 K | 539.35 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 103; `ORC-Z2WYJL5WQP` |  |
-| Phase transition | 539.45 K | 539.45 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 94; `ORC-3U2JQNGXGG` |  |
-| Phase transition | 539.55 K | 539.55 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 77; `ORC-32COL6RBGN` |  |
-| Phase transition | 539.55 K | 539.55 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 97; `ORC-A4VDH7RQXC` |  |
-| Phase transition | 540.05 K | 540.05 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 107; `ORC-GVORGTL6ST` |  |
-| Phase transition | 581.05 K | 581.05 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 69; `ORC-Z6D6FMR4SQ` |  |
-| Phase transition | 582.15 K | 582.15 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 95; `ORC-6WWNZ4EVQG` |  |
-| Phase transition | 582.75 K | 582.75 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 78; `ORC-FQEWZRTS3Z` |  |
-| Phase transition | 587.25 K | 587.25 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 86; `ORC-H4PUHMRN6N` |  |
-| Phase transition | 592.25 K | 592.25 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 108; `ORC-UHPLBQ7XKX` |  |
-| Phase transition | 650.45 K | 650.45 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 35; `ORC-ZJGNIXGG6C` |  |
-| Phase transition | 669.15 K | 669.15 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 12; `ORC-TT5ERB3752` |  |
-| Phase transition | 671.65 K | 671.65 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 58; `ORC-ZMBBZ7TRBF` |  |
-| Phase transition | 673.85 K | 673.85 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 6; `ORC-QYS67EVS7B` |  |
-| Phase transition | 684.95 K | 684.95 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 112; `ORC-5XIDMAVKLR` |  |
-| Phase transition | 687.45 K | 687.45 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 109; `ORC-UUZV3QCLT7` |  |
-| Phase transition | 688.65 K | 688.65 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 49; `ORC-G3AQ62RIPE` |  |
-| Phase transition | 688.85 K | 688.85 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 105; `ORC-V3ICVTPS7Y` |  |
-| Phase transition | 688.95 K | 688.95 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 9; `ORC-YRVFBYLELE` |  |
-| Phase transition | 689.65 K | 689.65 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 3; `ORC-SDIPOOEJI3` |  |
-| Phase transition | 689.95 K | 689.95 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 7; `ORC-RBPY3EM6DW` |  |
-| Phase transition | 690.15 K | 690.15 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 1; `ORC-VN3E2BWWNB` |  |
-| Phase transition | 691.45 K | 691.45 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 111; `ORC-C4BO3MA6ZO` |  |
-| Phase transition | 691.65 K | 691.65 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 99; `ORC-5IZZWUH7QM` |  |
-| Phase transition | 692.85 K | 692.85 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 98; `ORC-OGILCY2TSP` |  |
-| Phase transition | 695.85 K | 695.85 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 104; `ORC-AFVFD3LWCL` |  |
-| Phase transition | 696.85 K | 696.85 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 90; `ORC-KOLN3HRVVB` |  |
-| Phase transition | 696.95 K | 696.95 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 64; `ORC-NCVLZMUFLS` |  |
-| Phase transition | 697.05 K | 697.05 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 102; `ORC-W642TD5N5F` |  |
-| Phase transition | 697.65 K | 697.65 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 61; `ORC-RCLZARPQYF` |  |
-| Phase transition | 698.15 K | 698.15 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 82; `ORC-XEPLZFDCJO` |  |
-| Phase transition | 698.45 K | 698.45 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 79; `ORC-3RUPJGMU5C` |  |
-| Phase transition | 698.55 K | 698.55 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 73; `ORC-E3FDDQ5TNQ` |  |
-| Phase transition | 699.65 K | 699.65 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 46; `ORC-JMQW6D256Z` |  |
-| Phase transition | 699.95 K | 699.95 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 55; `ORC-NAQRUYCHQR` |  |
-| Phase transition | 700.05 K | 700.05 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 70; `ORC-XCPOQ37LNV` |  |
-| Phase transition | 700.15 K | 700.15 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 43; `ORC-J234NIIJGE` |  |
-| Phase transition | 700.15 K | 700.15 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 87; `ORC-NWTJOIPBBE` |  |
-| Phase transition | 700.15 K | 700.15 | 6; _alloy: Bi 0.8, Te 0.2_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 96; `ORC-R5GIJYZ62Z` |  |
-| Phase transition | 701.65 K | 701.65 | 7; _alloy: Bi 0.667, Te 0.333_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 115; `ORC-BCEVMN7VMI` |  |
-| Phase transition | 737.75 K | 737.75 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 92; `ORC-5PSGNQLZDM` |  |
-| Phase transition | 745.75 K | 745.75 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 84; `ORC-OLKCIK7NZV` |  |
-| Phase transition | 747.55 K | 747.55 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 88; `ORC-76SMBCEL2V` |  |
-| Phase transition | 748.05 K | 748.05 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 75; `ORC-33KL5GOOV6` |  |
-| Phase transition | 750.05 K | 750.05 | 7; _alloy: Bi 0.667, Te 0.333_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 119; `ORC-NKISNGDAAZ` |  |
-| Phase transition | 751.15 K | 751.15 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 91; `ORC-FS6L4RPZWZ` |  |
-| Phase transition | 756.35 K | 756.35 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 74; `ORC-4BSH2MBYHE` |  |
-| Phase transition | 758.05 K | 758.05 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 71; `ORC-MUSSXHCHU6` |  |
-| Phase transition | 758.15 K | 758.15 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 83; `ORC-EPEEJJYMUV` |  |
-| Phase transition | 758.55 K | 758.55 | 5; _alloy: Bi 0.68, Te 0.32_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 80; `ORC-JKMEB4HLDY` |  |
-| Phase transition | 759.15 K | 759.15 | 7; _alloy: Bi 0.667, Te 0.333_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 118; `ORC-6FJQSVDD7R` |  |
-| Phase transition | 760.15 K | 760.15 | 7; _alloy: Bi 0.667, Te 0.333_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 116; `ORC-TUA5KX42MU` |  |
-| Phase transition | 780.45 K | 780.45 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 66; `ORC-T5ZU3LUY2S` |  |
-| Phase transition | 780.55 K | 780.55 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 57; `ORC-HYCVAPXI7E` |  |
-| Phase transition | 786.55 K | 786.55 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 48; `ORC-P2OB2SFV4C` |  |
-| Phase transition | 793.45 K | 793.45 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 56; `ORC-5VFYUGO3C2` |  |
-| Phase transition | 793.55 K | 793.55 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 53; `ORC-QNNRB5RHY7` |  |
-| Phase transition | 794.85 K | 794.85 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 44; `ORC-K2OIC5BG6K` |  |
-| Phase transition | 796.25 K | 796.25 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 65; `ORC-L2PFHOPTS2` |  |
-| Phase transition | 797.15 K | 797.15 | 4; _alloy: Bi 0.6, Te 0.4_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 62; `ORC-I2FN6UT7T5` |  |
-| Phase transition | 809.45 K | 809.45 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 11; `ORC-XXA7ILCFXK` |  |
-| Phase transition | 810.35 K | 810.35 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 19; `ORC-6YF2TJVWXY` |  |
-| Phase transition | 812.05 K | 812.05 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 5; `ORC-4GZAW3HQOM` |  |
-| Phase transition | 816.55 K | 816.55 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 41; `ORC-ZH2BO74IHO` |  |
-| Phase transition | 821.35 K | 821.35 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 34; `ORC-H26FBTONNN` |  |
-| Phase transition | 821.65 K | 821.65 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 38; `ORC-SCB7IX26QA` |  |
-| Phase transition | 826.05 K | 826.05 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 27; `ORC-PHHDBQDJOT` |  |
-| Phase transition | 828.05 K | 828.05 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 36; `ORC-W53ZY3WJBZ` |  |
-| Phase transition | 829.45 K | 829.45 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 20; `ORC-4EUEBTR5TE` |  |
-| Phase transition | 829.85 K | 829.85 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 23; `ORC-A5YJN4Z6JF` |  |
-| Phase transition | 830.05 K | 830.05 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 28; `ORC-JZFXJUJR2L` |  |
-| Phase transition | 830.75 K | 830.75 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 30; `ORC-CDQZ7FBQG3` |  |
-| Phase transition | 835.05 K | 835.05 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 21; `ORC-T4L6G64VPM` |  |
-| Phase transition | 835.65 K | 835.65 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 24; `ORC-WJ36AVP5CA` |  |
-| Phase transition | 836.65 K | 836.65 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 31; `ORC-7RTEZGL5MM` |  |
-| Phase transition | 836.85 K | 836.85 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 33; `ORC-3YMPH2YBJZ` |  |
-| Phase transition | 837.65 K | 837.65 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 2; `ORC-IJG4RP6VUH` |  |
-| Phase transition | 837.85 K | 837.85 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 4; `ORC-SBZQXUVA2C` |  |
-| Phase transition | 842.05 K | 842.05 | 2; _alloy: Bi 0.4, Te 0.6_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 15; `ORC-NJD7BUXSHI` |  |
-| Phase transition | 844.45 K | 844.45 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 26; `ORC-4T4EUJ5GWS` |  |
-| Phase transition | 844.95 K | 844.95 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 8; `ORC-KLV6SBBY2W` |  |
-| Phase transition | 846.95 K | 846.95 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 40; `ORC-F6PXYRR5B3` |  |
-| Phase transition | 850.45 K | 850.45 | 1; _alloy: Bi 0.3, Te 0.7_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 10; `ORC-HG75QXVHS2` |  |
-| Phase transition | 851.15 K | 851.15 | 2; _alloy: Bi 0.4, Te 0.6_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 18; `ORC-Y2ZGFVTRUM` |  |
-| Phase transition | 856.75 K | 856.75 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 22; `ORC-F37QIY2LLT` |  |
-| Phase transition | 857.25 K | 857.25 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 25; `ORC-PN6PX6PSMT` |  |
-| Phase transition | 858.45 K | 858.45 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 39; `ORC-MATAVH5AL2` |  |
-| Phase transition | 858.65 K | 858.65 | 2; _alloy: Bi 0.4, Te 0.6_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 16; `ORC-B7Z6ZR2F5F` |  |
-| Phase transition | 859.25 K | 859.25 | 2; _alloy: Bi 0.4, Te 0.6_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 17; `ORC-OAZMBUXIZJ` |  |
-| Phase transition | 859.25 K | 859.25 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 29; `ORC-GVEMDA6VBS` |  |
-| Phase transition | 859.35 K | 859.35 | 2; _alloy: Bi 0.4, Te 0.6_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 13; `ORC-N274SF4S4O` |  |
-| Phase transition | 859.35 K | 859.35 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 32; `ORC-AN5ON6BXH2` |  |
-| Phase transition | 859.95 K | 859.95 | 2; _alloy: Bi 0.4, Te 0.6_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 14; `ORC-7BMLC7GN3K` |  |
-| Phase transition | 861.95 K | 861.95 | 3; _alloy: Bi 0.45, Te 0.55_ | experimental | [1] Drzewowska 2023 | Table 4, p. 6, row 37; `ORC-4HPRURH25C` |  |
-
 ### Phase equilibrium (14)
 
 Table: Phase equilibrium, Bi–Te system
@@ -338,10 +213,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -350,7 +225,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -361,7 +236,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -371,7 +246,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -381,7 +256,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

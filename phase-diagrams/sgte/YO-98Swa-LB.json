@@ -1,1 +1,1 @@
-{"tdb":"YO-98Swa-LB.tdb","elements":["Y","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"YO-98Swa-LB.tdb","elements":["Y","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"dbfb3a4c9a84545054a983f3ee51231ad425c1f589a5a93164e738f54a2586a3","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

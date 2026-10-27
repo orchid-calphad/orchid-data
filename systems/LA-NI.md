@@ -1,10 +1,10 @@
 # La–Ni system
 
-> La–Ni system: 320 accepted literature values (phase transition 141, invariant reaction 115, crystal structure 46, mixing / partial 9) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Ni system: 223 accepted literature values (invariant reaction 115, crystal structure 46, phase transition 44, mixing / partial 9) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-NI.html · Markdown: https://data.orchid-project.org/systems/LA-NI.md
 
-320 accepted literature values from 5 paper(s) (experimental 197, model 68, unspecified 55); 5 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+223 accepted literature values from 5 paper(s) (experimental 100, model 68, unspecified 55); 5 calculated phase diagram(s). 104 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-NI.json) · [CSV](https://data.orchid-project.org/systems/LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-NI/LaNi-00Dis.json) · [phases (17)](https://data.orchid-project.org/phases/pages/LA-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-NI.html) · [Markdown](https://data.orchid-project.org/systems/LA-NI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 197 |
+| experimental | 100 |
 | model | 68 |
 | unspecified | 55 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 115 |
-| phase transition | 141 |
+| phase transition | 44 |
 | mixing / partial | 9 |
 | activity / EMF / Gibbs energy | 9 |
 | crystal structure | 46 |
@@ -312,7 +312,7 @@ Table: Invariant reactions reported in the literature for the La–Ni system (11
 
 ## Other properties
 
-### Phase transition (141)
+### Phase transition (44)
 
 Table: Phase transition, La–Ni system
 
@@ -330,135 +330,38 @@ Table: Phase transition, La–Ni system
 | Phase transition | 379 K | 379 | other: Peak B, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 7; `ORC-56DKBJ63BL` |  |
 | Phase transition | 379 K | 379 | other: Peak C, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 12; `ORC-SV52LNZF7Z` |  |
 | Phase transition | 382 K | 382 | other: Peak B, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 8; `ORC-NTSDQVE72H` |  |
-| Phase transition | 613.15 K | 613.15 | UNKNOWN; _alloy: La 0.8796, Ni 0.1204_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 94; `ORC-4WO7XQ4M2P` |  |
-| Phase transition | 623.15 K | 623.15 | UNKNOWN; _alloy: La 0.8056, Ni 0.1944_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 91; `ORC-6TY33VVEXR` |  |
-| Phase transition | 778.15 K | 778.15 | UNKNOWN; _alloy: La 0.7074, Ni 0.2926_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 88; `ORC-7TBJEUIPI4` |  |
-| Phase transition | 782.15 K | 782.15 | UNKNOWN; _alloy: La 0.9429, Ni 0.0571_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 97; `ORC-JZO22RYF7A` |  |
-| Phase transition | 797.15 K | 797.15 | UNKNOWN; _alloy: La 0.8796, Ni 0.1204_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 93; `ORC-33LYLNWVZI` |  |
-| Phase transition | 800.15 K | 800.15 | UNKNOWN; _alloy: La 0.595, Ni 0.405_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 85; `ORC-PAY227C4HD` |  |
-| Phase transition | 800.15 K | 800.15 | UNKNOWN; _alloy: La 0.5293, Ni 0.4707_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 83; `ORC-PHGMNJEAE4` |  |
-| Phase transition | 800.15 K | 800.15 | UNKNOWN; _alloy: La 0.6533, Ni 0.3467_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 86; `ORC-QZ77KSUF7C` |  |
 | Phase transition | 801 K | 801 | congruent melting: Liq -> Ni3La7; _Liq: Ni 0.3; Ni3La7: Ni 0.3_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 35; `ORC-UUWR6NH5KM` |  |
 | Phase transition | 803 K | 803 | liq.->La7Ni3; _L: Ni 0.3; La7Ni3: Ni 0.3_ | model | [4] Du 1998 | Table 2, p. 4, row 6; `ORC-AW4UHM3CNK` |  |
 | Phase transition | 805 K | 805 | congruent melting: Liq -> NiLa3; _Liq: Ni 0.25; NiLa3: Ni 0.25_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 41; `ORC-DOHPXIDMUC` |  |
 | Phase transition | 805 K | 805 | liq.->La3Ni; _L: Ni 0.25; La3Ni: Ni 0.25_ | experimental | [4] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 4; `ORC-33PNYFHP7D` |  |
 | Phase transition | 805 K | 805 | liq.->La3Ni; _L: Ni 0.25; La3Ni: Ni 0.25_ | model | [4] Du 1998 | Table 2, p. 4, row 3; `ORC-J5KJRX74BV` |  |
-| Phase transition | 814.15 K | 814.15 | UNKNOWN; _alloy: La 0.7509, Ni 0.2491_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 89; `ORC-NP5ATD4LG7` |  |
-| Phase transition | 830.15 K | 830.15 | UNKNOWN; _alloy: La 0.7074, Ni 0.2926_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 87; `ORC-ZDK4EUG45O` |  |
 | Phase transition | 837 K | 837 | congruent melting: Liq -> Ni3La7; _Liq: Ni 0.3; Ni3La7: Ni 0.3_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 33; `ORC-BJQJFU5GXE` |  |
 | Phase transition | 843 K | 843 | congruent melting: Liq -> NiLa3; _Liq: Ni 0.25; NiLa3: Ni 0.25_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 40; `ORC-EZM4NGZOR6` |  |
 | Phase transition | 846 K | 846 | congruent melting: Liq -> NiLa3; _Liq: Ni 0.25; NiLa3: Ni 0.25_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 39; `ORC-T5DJX7WRGU` |  |
 | Phase transition | 848 K | 848 | congruent melting: Liq -> Ni3La7; _Liq: Ni 0.3; Ni3La7: Ni 0.3_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 34; `ORC-DD3DNZLBII` |  |
-| Phase transition | 903.15 K | 903.15 | UNKNOWN; _alloy: La 0.8056, Ni 0.1944_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 90; `ORC-GZXKLB53ZE` |  |
-| Phase transition | 935.15 K | 935.15 | UNKNOWN; _alloy: La 0.595, Ni 0.405_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 84; `ORC-AISYFYU5ZO` |  |
-| Phase transition | 944.15 K | 944.15 | UNKNOWN; _alloy: La 0.5016, Ni 0.4984_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 81; `ORC-KP4JWPDAKF` |  |
-| Phase transition | 956.15 K | 956.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 63; `ORC-BSCSJU6XIX` |  |
 | Phase transition | 965 K | 965 | congruent melting: Liq -> NiLa; _Liq: Ni 0.5; NiLa: Ni 0.5_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 27; `ORC-OKGZHR3MRT` |  |
-| Phase transition | 965.15 K | 965.15 | UNKNOWN; _alloy: La 0.4458, Ni 0.5542_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 76; `ORC-JOWGJT2J36` |  |
-| Phase transition | 968.15 K | 968.15 | UNKNOWN; _alloy: La 0.3925, Ni 0.6075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 73; `ORC-ACHTK43BJ5` |  |
-| Phase transition | 971.15 K | 971.15 | UNKNOWN; _alloy: La 0.4184, Ni 0.5816_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 75; `ORC-CUGEBK2JIJ` |  |
-| Phase transition | 971.15 K | 971.15 | UNKNOWN; _alloy: La 0.4908, Ni 0.5092_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 79; `ORC-JBW3GC45IQ` |  |
-| Phase transition | 976.15 K | 976.15 | UNKNOWN; _alloy: La 0.4594, Ni 0.5406_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 77; `ORC-POCQIBMVXP` |  |
-| Phase transition | 980.15 K | 980.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 67; `ORC-QMO5VXUXAL` |  |
-| Phase transition | 985.15 K | 985.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 42; `ORC-KVRFEJN3KG` |  |
 | Phase transition | 988 K | 988 | congruent melting: Liq -> NiLa; _Liq: Ni 0.5; NiLa: Ni 0.5_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 29; `ORC-ABHDSR44M7` |  |
 | Phase transition | 988 K | 988 | liq.->LaNi; _L: Ni 0.5; LaNi: Ni 0.5_ | experimental | [4] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 10; `ORC-3P24LYXMBR` |  |
 | Phase transition | 988 K | 988 | liq.->LaNi; _L: Ni 0.5; LaNi: Ni 0.5_ | model | [4] Du 1998 | Table 2, p. 4, row 9; `ORC-U36EUB7F5W` |  |
-| Phase transition | 988.15 K | 988.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 62; `ORC-WPB2B44FP5` |  |
-| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.3699, Ni 0.6301_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 70; `ORC-BJODOQHYAP` |  |
-| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 58; `ORC-EY7AZ77WX5` |  |
-| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.4184, Ni 0.5816_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 74; `ORC-GMO5OEVGEP` |  |
-| Phase transition | 991.15 K | 991.15 | UNKNOWN; _alloy: La 0.5293, Ni 0.4707_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 82; `ORC-J4MNHRUCX6` |  |
 | Phase transition | 992 K | 992 | congruent melting: Liq -> NiLa; _Liq: Ni 0.5; NiLa: Ni 0.5_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 28; `ORC-JLX2KAV6OQ` |  |
-| Phase transition | 992.15 K | 992.15 | UNKNOWN; _alloy: La 0.5016, Ni 0.4984_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 80; `ORC-J6XPYXHQ3A` |  |
-| Phase transition | 993.15 K | 993.15 | UNKNOWN; _alloy: La 0.3925, Ni 0.6075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 72; `ORC-2G6FDTJ7MN` |  |
-| Phase transition | 1000.15 K | 1000.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 66; `ORC-CRVCKNME5T` |  |
-| Phase transition | 1004.15 K | 1004.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 47; `ORC-6E3HDX5MO2` |  |
-| Phase transition | 1006.15 K | 1006.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 52; `ORC-XN4JBUIQ6K` |  |
-| Phase transition | 1006.15 K | 1006.15 | UNKNOWN; _alloy: La 0.4908, Ni 0.5092_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 78; `ORC-ZIU7I3PRF6` |  |
-| Phase transition | 1014.15 K | 1014.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 57; `ORC-HDE5LTANQU` |  |
-| Phase transition | 1023.15 K | 1023.15 | UNKNOWN; _alloy: La 0.8796, Ni 0.1204_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 92; `ORC-YRJIOX5URQ` |  |
-| Phase transition | 1076.15 K | 1076.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 37; `ORC-A4LK5FPWSD` |  |
-| Phase transition | 1078.15 K | 1078.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 61; `ORC-ALGRCIFH34` |  |
-| Phase transition | 1079.15 K | 1079.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 65; `ORC-QAQWSTJ4TD` |  |
-| Phase transition | 1081.15 K | 1081.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 41; `ORC-T3FOMA7OWV` |  |
-| Phase transition | 1083.15 K | 1083.15 | UNKNOWN; _alloy: La 0.3925, Ni 0.6075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 71; `ORC-A53SIPBDGU` |  |
-| Phase transition | 1083.15 K | 1083.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 26; `ORC-SO4CU6PYEE` |  |
-| Phase transition | 1086.15 K | 1086.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 33; `ORC-PLUC7UIW2Z` |  |
-| Phase transition | 1086.15 K | 1086.15 | UNKNOWN; _alloy: La 0.2331, Ni 0.7669_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 29; `ORC-XKFAAVVVP3` |  |
-| Phase transition | 1091.15 K | 1091.15 | UNKNOWN; _alloy: La 0.3699, Ni 0.6301_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 69; `ORC-NR7HB2S62S` |  |
-| Phase transition | 1094.15 K | 1094.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 46; `ORC-EDNZM5IZ2D` |  |
-| Phase transition | 1096.15 K | 1096.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 56; `ORC-4IQPQPWKH2` |  |
-| Phase transition | 1096.15 K | 1096.15 | UNKNOWN; _alloy: La 0.9429, Ni 0.0571_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 96; `ORC-SYAJAFUVIH` |  |
-| Phase transition | 1096.15 K | 1096.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 51; `ORC-TBWHHXCAST` |  |
-| Phase transition | 1133.15 K | 1133.15 | UNKNOWN; _alloy: La 0.9429, Ni 0.0571_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 95; `ORC-UI2RS3S4LL` |  |
-| Phase transition | 1231.15 K | 1231.15 | UNKNOWN; _alloy: La 0.3699, Ni 0.6301_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 68; `ORC-7HQNPPZ4I7` |  |
-| Phase transition | 1233.15 K | 1233.15 | UNKNOWN; _alloy: La 0.3578, Ni 0.6422_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 64; `ORC-XDCPDURYPZ` |  |
-| Phase transition | 1247.15 K | 1247.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 22; `ORC-HT3YFA4M7U` |  |
 | Phase transition | 1249 K | 1249 | other: α-Ni7La2 -> β-Ni7La2; _α-Ni7La2: Ni 0.777778; β-Ni7La2: Ni 0.777778_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 14; `ORC-FOOMICHURD` |  |
 | Phase transition | 1249 K | 1249 | αLa2Ni7->βLa2Ni7; _αLa2Ni7: Ni 0.777778; βLa2Ni7: Ni 0.777778_ | experimental | [4] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 20; `ORC-NSRRRIXJ36` |  |
 | Phase transition | 1249 K | 1249 | αLa2Ni7->βLa2Ni7; _αLa2Ni7: Ni 0.777778; βLa2Ni7: Ni 0.777778_ | model | [4] Du 1998 | Table 2, p. 4, row 19; `ORC-VVOMYAPOLT` |  |
-| Phase transition | 1249.15 K | 1249.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 60; `ORC-AUVNFLJNWU` |  |
-| Phase transition | 1249.15 K | 1249.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 25; `ORC-BRGOVX3QYU` |  |
-| Phase transition | 1249.15 K | 1249.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 40; `ORC-PQ63EAQMRP` |  |
-| Phase transition | 1251.15 K | 1251.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 32; `ORC-GBVWXHWT5J` |  |
-| Phase transition | 1251.15 K | 1251.15 | UNKNOWN; _alloy: La 0.2331, Ni 0.7669_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 28; `ORC-RQSO4FCCZO` |  |
 | Phase transition | 1252 K | 1252 | other: α-Ni7La2 -> β-Ni7La2; _α-Ni7La2: Ni 0.777778; β-Ni7La2: Ni 0.777778_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 12; `ORC-PF7C27PRVI.089d82` |  |
 | Phase transition | 1252 K | 1252 | other: α-Ni7La2 -> β-Ni7La2; _α-Ni7La2: Ni 0.777778; β-Ni7La2: Ni 0.777778_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 13; `ORC-PF7C27PRVI.cc87f2` |  |
-| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 55; `ORC-JKTGIUZRZP` |  |
-| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 50; `ORC-OFXQBDH4UY` |  |
-| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 45; `ORC-SCTMQ6HI6M` |  |
-| Phase transition | 1256.15 K | 1256.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 36; `ORC-YFS7DV4VHA` |  |
-| Phase transition | 1287.15 K | 1287.15 | UNKNOWN; _alloy: La 0.3192, Ni 0.6808_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 59; `ORC-HYPOLROWUY` |  |
-| Phase transition | 1290.15 K | 1290.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 39; `ORC-MRFJVOZCXM` |  |
-| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 49; `ORC-26C6GFKZX6` |  |
-| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 44; `ORC-3IRRAXFQRD` |  |
-| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2331, Ni 0.7669_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 27; `ORC-6Q32NMLZE5` |  |
-| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 31; `ORC-CFWCO5FD7T` |  |
-| Phase transition | 1291.15 K | 1291.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 54; `ORC-PNZRTEXGHU` |  |
-| Phase transition | 1295.15 K | 1295.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 24; `ORC-MPIM4R3FYP` |  |
-| Phase transition | 1295.15 K | 1295.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 21; `ORC-X6GDPUUUPC` |  |
-| Phase transition | 1296.15 K | 1296.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 35; `ORC-Z46XL75N3I` |  |
-| Phase transition | 1421.15 K | 1421.15 | UNKNOWN; _alloy: La 0.3005, Ni 0.6995_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 53; `ORC-OQERHA6GW4` |  |
-| Phase transition | 1496.15 K | 1496.15 | UNKNOWN; _alloy: La 0.2905, Ni 0.7095_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 48; `ORC-HSEFQEO4IS` |  |
-| Phase transition | 1538.15 K | 1538.15 | UNKNOWN; _alloy: La 0.0298, Ni 0.9702_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 3; `ORC-D7JIS57H7E` |  |
-| Phase transition | 1543.15 K | 1543.15 | UNKNOWN; _alloy: La 0.1707, Ni 0.8293_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 12; `ORC-3BUXKMS57M` |  |
-| Phase transition | 1546.15 K | 1546.15 | UNKNOWN; _alloy: La 0.1799, Ni 0.8201_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 14; `ORC-BSDYK3G5U2` |  |
-| Phase transition | 1546.15 K | 1546.15 | UNKNOWN; _alloy: La 0.1681, Ni 0.8319_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 10; `ORC-VVHYGWWS5B` |  |
-| Phase transition | 1549.15 K | 1549.15 | UNKNOWN; _alloy: La 0.1849, Ni 0.8151_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 16; `ORC-33XHXK7QZ3` |  |
-| Phase transition | 1549.15 K | 1549.15 | UNKNOWN; _alloy: La 0.149, Ni 0.851_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 8; `ORC-6ESPPDKBQ6` |  |
-| Phase transition | 1550.15 K | 1550.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 20; `ORC-LTPFO4YH2F` |  |
-| Phase transition | 1551.15 K | 1551.15 | UNKNOWN; _alloy: La 0.2752, Ni 0.7248_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 43; `ORC-3RHO6EJ4FM` |  |
-| Phase transition | 1551.15 K | 1551.15 | UNKNOWN; _alloy: La 0.1925, Ni 0.8075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 18; `ORC-BUX3AFB6FI` |  |
-| Phase transition | 1553.15 K | 1553.15 | UNKNOWN; _alloy: La 0.2669, Ni 0.7331_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 38; `ORC-6C3P436KPD` |  |
-| Phase transition | 1553.15 K | 1553.15 | UNKNOWN; _alloy: La 0.1167, Ni 0.8833_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 6; `ORC-PWMNMOTEHA` |  |
-| Phase transition | 1556.15 K | 1556.15 | UNKNOWN; _alloy: La 0.2556, Ni 0.7444_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 34; `ORC-44AEF2PJKZ` |  |
-| Phase transition | 1566.15 K | 1566.15 | UNKNOWN; _alloy: La 0.0779, Ni 0.9221_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 4; `ORC-R55HSZJHON` |  |
-| Phase transition | 1596.15 K | 1596.15 | UNKNOWN; _alloy: La 0.2415, Ni 0.7585_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 30; `ORC-AWIDWT4CSJ` |  |
-| Phase transition | 1597.15 K | 1597.15 | UNKNOWN; _alloy: La 0.1167, Ni 0.8833_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 5; `ORC-WSFE3DQ4E4` |  |
-| Phase transition | 1620.15 K | 1620.15 | UNKNOWN; _alloy: La 0.149, Ni 0.851_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 7; `ORC-VTVJTCUXRP` |  |
 | Phase transition | 1621 K | 1621 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 32_ | Table 6, p. 8, row 15; `ORC-7JYCF5SURG` |  |
 | Phase transition | 1622 K | 1622 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 30_ | Table 6, p. 8, row 10; `ORC-ZUZFNGN5QI` |  |
 | Phase transition | 1622 K | 1622 | liq.->LaNi5; _L: Ni 0.8333; LaNi5: Ni 0.833333_ | model | [4] Du 1998 | Table 2, p. 4, row 23; `ORC-N55OJY4QVF` |  |
 | Phase transition | 1623 K | 1623 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | experimental | [1] Ye 2023; _cites ref. 53_ | Table 6, p. 8, row 9; `ORC-3PGEBRVLRK` |  |
 | Phase transition | 1623 K | 1623 | congruent melting: Liq -> Ni5La; _Liq: Ni 0.833333; Ni5La: Ni 0.833333_ | experimental | [2] Dischinger 2000; _cites Okamoto 1991_ [doi](https://doi.org/10.1007/bf02645085) | Table 6, p. 8, row 6; `ORC-GJILY3R566` |  |
 | Phase transition | 1623 K | 1623 | liq.->LaNi5; _L: Ni 0.833333; LaNi5: Ni 0.833333_ | experimental | [4] Du 1998; _cites Okamoto 1998_ | Table 2, p. 4, row 24; `ORC-JIX6P25YQY` |  |
-| Phase transition | 1623.15 K | 1623.15 | UNKNOWN; _alloy: La 0.2301, Ni 0.7699_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 23; `ORC-XFB6K2CHEC` |  |
 | Phase transition | 1627 K | 1627 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 29_ | Table 6, p. 8, row 12; `ORC-LK225OTQSG` |  |
 | Phase transition | 1634 K | 1634 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | experimental | [1] Ye 2023; _cites ref. 28_ | Table 6, p. 8, row 14; `ORC-XAVDBY243Y` |  |
-| Phase transition | 1635.15 K | 1635.15 | UNKNOWN; _alloy: La 0.2136, Ni 0.7864_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 19; `ORC-JOAWURUG5T` |  |
 | Phase transition | 1635.9 K | 1635.9 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023 | Table 6, p. 8, row 16; `ORC-EAYVUYBVYG` |  |
-| Phase transition | 1647.15 K | 1647.15 | UNKNOWN; _alloy: La 0.1707, Ni 0.8293_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 11; `ORC-PJAGZKLJAA` |  |
-| Phase transition | 1651.15 K | 1651.15 | UNKNOWN; _alloy: La 0.1799, Ni 0.8201_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 13; `ORC-5DTD7PGRQC` |  |
-| Phase transition | 1651.15 K | 1651.15 | UNKNOWN; _alloy: La 0.1925, Ni 0.8075_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 17; `ORC-H7XV6SUIIQ` |  |
-| Phase transition | 1656.15 K | 1656.15 | UNKNOWN; _alloy: La 0.1849, Ni 0.8151_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 15; `ORC-UKPYN6V2XU` |  |
 | Phase transition | 1663 K | 1663 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | experimental | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 13; `ORC-7KBJ6SEM46` |  |
 | Phase transition | 1663 K | 1663 | congruent melting: Liq -> Ni5La; _Liq: Ni 0.833333; Ni5La: Ni 0.833333_ | experimental | [2] Dischinger 2000 | Table 6, p. 8, row 5; `ORC-62HP5CPDVB` |  |
-| Phase transition | 1665.15 K | 1665.15 | UNKNOWN; _alloy: La 0.1681, Ni 0.8319_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 9; `ORC-NI7FCUP2DL` |  |
 | Phase transition | 1666 K | 1666 | congruent melting: L -> LaNi5; _L: Ni 0.833; LaNi5: Ni 0.833333_ | model | [1] Ye 2023; _cites ref. 31_ | Table 6, p. 8, row 11; `ORC-4BLNR4EN4B` |  |
 | Phase transition | 1666 K | 1666 | congruent melting: Liq -> Ni5La; _Liq: Ni 0.833333; Ni5La: Ni 0.833333_ | model | [2] Dischinger 2000 | Table 6, p. 8, row 4; `ORC-PDGZW4LOAH` |  |
-| Phase transition | 1687.15 K | 1687.15 | UNKNOWN; _alloy: La 0.0298, Ni 0.9702_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 2; `ORC-C6W3IQPQGQ` |  |
-| Phase transition | 1713.15 K | 1713.15 | UNKNOWN; _alloy: La 0.0051, Ni 0.9949_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 1; `ORC-3TJWEYVXQN` |  |
 
 ### Mixing / partial (9)
 
@@ -557,10 +460,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -569,7 +472,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -580,7 +483,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -590,7 +493,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -600,7 +503,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

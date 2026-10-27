@@ -14,7 +14,7 @@ Table: Phases of the Mg–Pu system (11)
 |---|---|---|---|---:|---:|
 | [TETRAGONAL_A6](#phase-mg-pu-a6-tetragonal); _phase:mg-pu:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 730.29–756.52 K, x(Pu) 0.99959–1 | 0 | 1 |
 | [BCC_A2](#phase-mg-pu-bcc-a2); _phase:mg-pu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 755.26–913 K, x(Pu) 0.99965–1 | 4 | 1 |
-| [FCC_A1](#phase-mg-pu-fcc-a1); _phase:mg-pu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 593.02–755.26 K, x(Pu) 0.99981–1 | 0 | 1 |
+| [FCC_A1](#phase-mg-pu-fcc-a1); _phase:mg-pu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 593.02–755.26 K, x(Pu) 0.99981–1 | 4 | 1 |
 | [HCP_A3](#phase-mg-pu-hcp-a3); _phase:mg-pu:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–926 K, x(Pu) 0–0.03635 | 4 | 1 |
 | [LIQUID](#phase-mg-pu-liquid); _phase:mg-pu:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 833.35–4000 K, x(Pu) 0–1 | 5 | 1 |
 | [MG2PU_C1](#phase-mg-pu-mg2pu-c1); _phase:mg-pu:mg2pu-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–503.66 K, x(Pu) 0.33333–0.33333 | 2 | 1 |
@@ -84,10 +84,11 @@ _cited as the source of values for this phase_
 - Id: `phase:mg-pu:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 593.02–755.26 K, x(Pu) 0.99981–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-pu:fcc-a1)
 
-Names (2): _corpus: _corpus:phase:mg-pu:fcc-a1  
+Names (3): _corpus: _corpus:phase:mg-pu:fcc-a1  
+_paper: _paper:10.1016/j.jnucmat.2009.04.017:δPu  
 _tdb: _tdb:MgPu-09Wan.tdb:FCC_A1  
 
 
@@ -100,10 +101,12 @@ _tdb: _tdb:MgPu-09Wan.tdb:FCC_A1
 30: CONST FCC_A1 : MG PU% : VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2009.04.017](https://doi.org/10.1016/j.jnucmat.2009.04.017) C.P. Wang, W. Fang, Z.S. Li, X.J. Liu, Thermodynamic modeling of the Mg–Pu and Cu–Pu systems, Journal of Nuclear Materials 392, 525-530 (2009).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-3115(89)90474-1](https://doi.org/10.1016/0022-3115%2889%2990474-1) K.M. Axler, E.M. Foltyn, D.E. Peterson, R.I. Sheldon, W.B. Hutchinson, The plutonium-magnesium system, Journal of Nuclear Materials 161, 132-139 (1989).  
+_cited as the source of values for this phase_
 
 ## HCP_A3 (Mg–Pu)
 
@@ -347,8 +350,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -357,7 +360,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -368,7 +371,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

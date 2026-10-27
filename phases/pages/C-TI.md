@@ -14,7 +14,7 @@ Table: Phases of the C–Ti system (6)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-c-ti-a4-diamond); _phase:c-ti:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [GRAPHITE_A9](#phase-c-ti-a9-graphite); _phase:c-ti:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 5 |
-| [BCC_A2](#phase-c-ti-bcc-a2); _phase:c-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1129.99–1955.98 K, x(C) 0–0.03018 | 8 | 5 |
+| [BCC_A2](#phase-c-ti-bcc-a2); _phase:c-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1129.99–1955.98 K, x(C) 0–0.03018 | 9 | 5 |
 | [FCC_A1](#phase-c-ti-fcc-a1); _phase:c-ti:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 5 of 5 calculated diagram(s): 300–3368.23 K, x(C) 0.31029–0.5 | 31 | 5 |
 | [HCP_A3](#phase-c-ti-hcp-a3); _phase:c-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1220 K, x(C) 0–0.02091 | 4 | 5 |
 | [LIQUID](#phase-c-ti-liquid); _phase:c-ti:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1910–4000 K, x(C) 0–0.80493 | 11 | 5 |
@@ -150,11 +150,11 @@ _assessment that models this phase_
 - Id: `phase:c-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 1129.99–1955.98 K, x(C) 0–0.03018
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 9 values (9 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ti:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:c-ti:bcc-a2  
-_paper: _paper:10.1007/bf02648366:βTi, paper:sha256-85fd53a1a176b694:bcc-A2  
+Names (9): _corpus: _corpus:phase:c-ti:bcc-a2  
+_paper: _paper:10.1007/bf02646248:βTi, paper:10.1007/bf02648366:βTi, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:TiC-03Fri.tdb:BCC_A2, tdb:TiC-95Dus.tdb:BCC_A2, tdb:TiC-96Jon.tdb:BCC_A2, tdb:TiC-96Sei.tdb:BCC_A2, tdb:TiC-99Dum-LB.tdb:BCC_A2  
 
 
@@ -200,7 +200,7 @@ Example references (6 of 6; assessments first):
 - [doi:10.1007/BF02648366](https://doi.org/10.1007/BF02648366) H.J. Seifert, H.L. Lukas, G. Petzow, J. Phase Equilib., 17, 24-35(1996).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02646248](https://doi.org/10.1007/BF02646248) H. Duschanek, P. Rogl, H.L. Lukas, J. Phase Equilib., 16, 46-60(1995).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2004.01.004](https://doi.org/10.1016/j.calphad.2004.01.004) Karin Frisk, A revised thermodynamic description of the Ti–C system, Calphad 27, 367-373 (2003).  
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1996-870904](https://doi.org/10.1515/ijmr-1996-870904) S. Jonsson, Z. Metallkd., 87, 703-12(1996).  
@@ -407,8 +407,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -417,7 +417,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -428,7 +428,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

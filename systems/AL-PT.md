@@ -1,10 +1,10 @@
 # Al–Pt system
 
-> Al–Pt system: 75 accepted literature values (formation 31, crystal structure 23, invariant reaction 15, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Pt system: 44 accepted literature values (crystal structure 23, invariant reaction 15, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-PT.html · Markdown: https://data.orchid-project.org/systems/AL-PT.md
 
-75 accepted literature values from 1 paper(s) (experimental 26, model 49); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+44 accepted literature values from 1 paper(s) (experimental 10, model 34); 2 calculated phase diagram(s). 33 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PT.json) · [CSV](https://data.orchid-project.org/systems/AL-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PT/AlPt-00Wu.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-PT.html) · [Markdown](https://data.orchid-project.org/systems/AL-PT.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 26 |
-| model | 49 |
+| experimental | 10 |
+| model | 34 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 15 |
 | phase transition | 6 |
-| formation | 31 |
 | crystal structure | 23 |
 
 ## Calculated phase diagrams
@@ -105,46 +104,6 @@ Table: Invariant reactions reported in the literature for the Al–Pt system (15
 | 930 | eutectic: L -> (Al) + Al21Pt5 | L: Pt 0.004; (Al): Pt 0; Al21Pt5: Pt 0.192 | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 14; `ORC-ZJJZ7SNQQL` |  |
 | 928 | L—(Al) + Al21Pt5 | L: Pt 0.007; (Al): Pt 0; Al21Pt5: Pt 0.192 | model | [1] Wu 2000 | Table 3, p. 3, row 15; `ORC-7I47DELRK4` |  |
 
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Al–Pt system (31)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -101.7 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 17; `ORC-MONEO4BVMM` |  |
-| UNKNOWN |  | -100.416 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 7; `ORC-OZ2GS6SWMP` |  |
-| UNKNOWN |  | -100.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 19; `ORC-DI5ZOXHEQX` |  |
-| UNKNOWN |  | -95 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 11; `ORC-4J4YHO77MJ` |  |
-| UNKNOWN |  | -94.886 kJ/mol (basis unstated) ± 1.25 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 9; `ORC-DWJ66XILTG` |  |
-| UNKNOWN |  | -92.931 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 18; `ORC-HT5ZXSNX6A` |  |
-| UNKNOWN |  | -92.9 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 21; `ORC-5RNM2R3IRY` |  |
-| UNKNOWN |  | -92.827 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 20; `ORC-2DXBUPEMEH` |  |
-| UNKNOWN |  | -92 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 15; `ORC-F4AFUKARE6` |  |
-| UNKNOWN |  | -91.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 16; `ORC-SH2SKTENYM` |  |
-| UNKNOWN |  | -90.072 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 22; `ORC-AITGC6DVD2` |  |
-| UNKNOWN |  | -88.3 kJ/mol (basis unstated) ± 3 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 25; `ORC-RXOQ2WBFHD` |  |
-| UNKNOWN |  | -88 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 13; `ORC-KPSFX3XWHP` |  |
-| UNKNOWN |  | -87.8 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 23; `ORC-A5CA45X5QW` |  |
-| UNKNOWN |  | -87.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 24; `ORC-KSRQYHMQB7` |  |
-| UNKNOWN |  | -85.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 14; `ORC-KZ5OG3TRV4` |  |
-| UNKNOWN |  | -84.94 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 10; `ORC-XAJEW66QQJ` |  |
-| UNKNOWN |  | -83.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 26; `ORC-K7YSNVOFQY` |  |
-| UNKNOWN |  | -81.791 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 8; `ORC-OE54AAVD3G` |  |
-| UNKNOWN |  | -77.197 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 28; `ORC-4BVNMWG4JV` |  |
-| UNKNOWN |  | -76.618 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 30; `ORC-BYKZOTQYKK` |  |
-| UNKNOWN |  | -71.368 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 6; `ORC-4NGXP73A7O` |  |
-| UNKNOWN |  | -71.128 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 5; `ORC-DARKKAXY6E` |  |
-| UNKNOWN |  | -71.1 kJ/mol (basis unstated) ± 2.5 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 27; `ORC-C5VKHDV5SM` |  |
-| UNKNOWN |  | -69.9 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 29; `ORC-IMHHMUGVGI` |  |
-| UNKNOWN |  | -57.3 kJ/mol (basis unstated) ± 1.7 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 3; `ORC-6VI7IZ2ZUB` |  |
-| UNKNOWN |  | -55.854 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 4; `ORC-VHGIK3JKN2` |  |
-| UNKNOWN |  | -50.2 kJ/mol (basis unstated) ± 1.25 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 1; `ORC-YMD3SRLFK5` |  |
-| UNKNOWN |  | -50.195 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 2; `ORC-52JKWNELHD` |  |
-| UNKNOWN |  | -19.3 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 32; `ORC-5K77WGUOCZ` |  |
-| UNKNOWN |  | -18.4 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 31; `ORC-7PABMTBUIQ` |  |
-
 ## Other properties
 
 ### Phase transition (6)
@@ -198,10 +157,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -210,7 +169,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -221,7 +180,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -231,7 +190,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -241,7 +200,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

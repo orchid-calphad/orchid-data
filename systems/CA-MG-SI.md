@@ -1,10 +1,10 @@
 # Ca–Mg–Si system
 
-> Ca–Mg–Si system: 120 accepted literature values (phase transition 66, invariant reaction 22, phase equilibrium 18, crystal structure 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Mg–Si system: 54 accepted literature values (invariant reaction 22, phase equilibrium 18, crystal structure 13, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-MG-SI.html · Markdown: https://data.orchid-project.org/systems/CA-MG-SI.md
 
-120 accepted literature values from 1 paper(s) (experimental 95, model 25); 0 calculated phase diagram(s).
+54 accepted literature values from 1 paper(s) (experimental 29, model 25); 0 calculated phase diagram(s). 66 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 95 |
+| experimental | 29 |
 | model | 25 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 22 |
-| phase transition | 66 |
 | phase equilibrium | 18 |
 | crystal structure | 13 |
 | other property | 1 |
@@ -55,79 +54,6 @@ Table: Invariant reactions reported in the literature for the Ca–Mg–Si syste
 | 719.15 | quasi-peritectic: Liquid + Ca2Si -> CaMg2 + β(Ca) | L: Ca 0.7078, Mg 0.2921 | model | [1] Gröbner 2003 | Table 6, p. 8, row 22; `ORC-FYLLTXHOUF` |  |
 
 ## Other properties
-
-### Phase transition (66)
-
-Table: Phase transition, Ca–Mg–Si system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 785.15 K | 785.15 | ?; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 64; `ORC-4A3I74NAWY` |  |
-| Phase transition | 793.25 K | 793.25 | ?; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 67; `ORC-7JNJ4ZCWXX` |  |
-| Phase transition | 794.15 K | 794.15 | ?; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 66; `ORC-CVW5VKKF5C` |  |
-| Phase transition | 794.35 K | 794.35 | ?; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 65; `ORC-YXNOWPTEGJ` |  |
-| Phase transition | 794.65 K | 794.65 | ?; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 68; `ORC-IFIBM474UC` |  |
-| Phase transition | 961.65 K | 961.65 | U6; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 63; `ORC-LWR3X2BKTQ` |  |
-| Phase transition | 975.95 K | 975.95 | U6; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 59; `ORC-S7ZSKZ3UTF` |  |
-| Phase transition | 982.15 K | 982.15 | U6; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 61; `ORC-LVPTTJVJJD` |  |
-| Phase transition | 987.95 K | 987.95 | U6; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 62; `ORC-TG7NU6HMER` |  |
-| Phase transition | 1183.45 K | 1183.45 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 28; `ORC-2BG33NGY3J` |  |
-| Phase transition | 1187.65 K | 1187.65 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 51; `ORC-M4VM3S6WAH` |  |
-| Phase transition | 1187.95 K | 1187.95 | E3; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 24; `ORC-WQVZIVTCCC` |  |
-| Phase transition | 1192.55 K | 1192.55 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 54; `ORC-AFGJAXGOLA` |  |
-| Phase transition | 1193.15 K | 1193.15 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 52; `ORC-F5FI6GSTWT` |  |
-| Phase transition | 1194.55 K | 1194.55 | E3; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 46; `ORC-36N7UEN5UQ` |  |
-| Phase transition | 1199.65 K | 1199.65 | E3; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 49; `ORC-7DZSZUCE6B` |  |
-| Phase transition | 1200.15 K | 1200.15 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 29; `ORC-ENQAAMZOT4` |  |
-| Phase transition | 1200.25 K | 1200.25 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 30; `ORC-FKEZ4ET25Q` |  |
-| Phase transition | 1204.65 K | 1204.65 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 53; `ORC-FZ2ZQH7NT7` |  |
-| Phase transition | 1206.75 K | 1206.75 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 50; `ORC-KEFE7TXGK5` |  |
-| Phase transition | 1208.25 K | 1208.25 | E3; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 48; `ORC-522IDV3LLS` |  |
-| Phase transition | 1221.15 K | 1221.15 | E3; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 47; `ORC-CASVALDWOU` |  |
-| Phase transition | 1221.15 K | 1221.15 | E3; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 25; `ORC-E5ALHQRUY4` |  |
-| Phase transition | 1221.25 K | 1221.25 | E3; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 23; `ORC-G6RCFI2UWW` |  |
-| Phase transition | 1222.45 K | 1222.45 | E3; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 26; `ORC-3VC2J6KOY5` |  |
-| Phase transition | 1228.45 K | 1228.45 | E3; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 45; `ORC-MMK2HSHSYH` |  |
-| Phase transition | 1365.25 K | 1365.25 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 20; `ORC-T3AFNUT3FS` |  |
-| Phase transition | 1372.15 K | 1372.15 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 22; `ORC-XWGUBXY6BI` |  |
-| Phase transition | 1372.35 K | 1372.35 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 21; `ORC-M6JQQNDF6R` |  |
-| Phase transition | 1378.95 K | 1378.95 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 44; `ORC-AWAAN3S57N` |  |
-| Phase transition | 1379.15 K | 1379.15 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 43; `ORC-Q3OAJZQEAM` |  |
-| Phase transition | 1379.45 K | 1379.45 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 42; `ORC-ZNU7MVZ4UV` |  |
-| Phase transition | 1382.35 K | 1382.35 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 41; `ORC-EWAGH2LG7C` |  |
-| Phase transition | 1393.15 K | 1393.15 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 38; `ORC-HQUHKBQ6H2` |  |
-| Phase transition | 1393.55 K | 1393.55 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 19; `ORC-2QZXI2YPJ6` |  |
-| Phase transition | 1393.65 K | 1393.65 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 37; `ORC-Y2ICF6EUGZ` |  |
-| Phase transition | 1396.95 K | 1396.95 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 40; `ORC-OIOPM3DCS5` |  |
-| Phase transition | 1397.95 K | 1397.95 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 16; `ORC-775UIO6XTW` |  |
-| Phase transition | 1398.15 K | 1398.15 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 17; `ORC-7K7EIBJZ3L` |  |
-| Phase transition | 1402.55 K | 1402.55 | ?; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 18; `ORC-SVTMWVY6YN` |  |
-| Phase transition | 1412.85 K | 1412.85 | U2; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 12; `ORC-P5CXNAJXES` |  |
-| Phase transition | 1413.15 K | 1413.15 | L/L + CaSi; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 7; `ORC-A7T7JBGD7Q` |  |
-| Phase transition | 1413.75 K | 1413.75 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 39; `ORC-Z6M57KCEWA` |  |
-| Phase transition | 1417.45 K | 1417.45 | U2; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 11; `ORC-62JLKZUFJN` |  |
-| Phase transition | 1419.25 K | 1419.25 | ?; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 36; `ORC-574XLBWVC3` |  |
-| Phase transition | 1423.05 K | 1423.05 | U2; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 15; `ORC-FUUE5DJL7A` |  |
-| Phase transition | 1423.15 K | 1423.15 | U2; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 33; `ORC-3C4662YJ6K` |  |
-| Phase transition | 1423.15 K | 1423.15 | U2; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 13; `ORC-ORTE6B4XDB` |  |
-| Phase transition | 1423.45 K | 1423.45 | U2; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 32; `ORC-KN7ILA3EJH` |  |
-| Phase transition | 1424.15 K | 1424.15 | L/L + CaSi; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 10; `ORC-2I4ZPTA7GB` |  |
-| Phase transition | 1425.05 K | 1425.05 | U2; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 14; `ORC-C5MHFLDFKL` |  |
-| Phase transition | 1426.35 K | 1426.35 | U2; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 35; `ORC-RB7ND2FZHL` |  |
-| Phase transition | 1430.25 K | 1430.25 | U2; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 34; `ORC-FAGLMMVJC3` |  |
-| Phase transition | 1434.05 K | 1434.05 | U2; _alloy: Ca 0.25, Mg 0.21, Si 0.54_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 31; `ORC-KULQZWTSXR` |  |
-| Phase transition | 1446.15 K | 1446.15 | L/L + CaSi; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 6; `ORC-M4OUDFXTSX` |  |
-| Phase transition | 1447.15 K | 1447.15 | L/L + Ca2Si; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 57; `ORC-PK77FH52V7` |  |
-| Phase transition | 1447.45 K | 1447.45 | L/L + Ca2Si; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 56; `ORC-POIZWP4NQN` |  |
-| Phase transition | 1448.15 K | 1448.15 | L/L + CaSi; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 8; `ORC-UKWPR4RQON` |  |
-| Phase transition | 1451.15 K | 1451.15 | L/L + CaSi; _alloy: Ca 0.34, Mg 0.16, Si 0.5_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 9; `ORC-HIVBG7HVWC` |  |
-| Phase transition | 1454.75 K | 1454.75 | L/L + Ca2Si; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 55; `ORC-UGBRMARGAY` |  |
-| Phase transition | 1467.45 K | 1467.45 | L/L + Ca2Si; _alloy: Ca 0.34, Mg 0.5, Si 0.16_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 58; `ORC-5C4EGUZSD2` |  |
-| Phase transition | 1495.05 K | 1495.05 | Melting temp. CaMgSi; _alloy: Ca 0.33, Mg 0.33, Si 0.33_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 1; `ORC-HDCTL3GM2Z` |  |
-| Phase transition | 1501.05 K | 1501.05 | Melting temp. CaMgSi; _alloy: Ca 0.33, Mg 0.33, Si 0.33_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 2; `ORC-LTA2S6U4H6` |  |
-| Phase transition | 1506.85 K | 1506.85 | Melting temp. CaMgSi; _alloy: Ca 0.33, Mg 0.33, Si 0.33_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 4; `ORC-JDOXFMMH3P` |  |
-| Phase transition | 1507.15 K | 1507.15 | Melting temp. CaMgSi; _alloy: Ca 0.33, Mg 0.33, Si 0.33_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 3; `ORC-3ANAHGMXDE` |  |
-| Phase transition | 1507.45 K | 1507.45 | Melting temp. CaMgSi; _alloy: Ca 0.33, Mg 0.33, Si 0.33_ | experimental | [1] Gröbner 2003 | Table 5, p. 6, row 5; `ORC-DRDC6AUWCQ` |  |
 
 ### Phase equilibrium (18)
 
@@ -190,8 +116,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -200,7 +126,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -211,7 +137,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

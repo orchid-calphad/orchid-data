@@ -193,19 +193,19 @@ Table: Crystal structure, Ce–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 7.242 Å |  | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.c4d416` |  |
 | Lattice a | 9.864 Å | 298.15 | Ce7Ru3; _alloy: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 7; `ORC-63CXKEIBGP.0fd7f6` |  |
 | Lattice a | 7.779 Å | 298.15 | CeRu2; _alloy: Ru 0.666667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 12; `ORC-A3R64AMM2H` |  |
 | Lattice a | 7.57 Å | 298.15 | CeRu2; _alloy: Ru 0.666667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 11; `ORC-MTZJV5OAQK` |  |
 | Lattice a | 7.535 Å | 298.15 | CeRu2; _alloy: Ru 0.666667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 13; `ORC-YW4ONYRY6B` |  |
-| Lattice a | 7.242 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.c4d416` |  |
 | Lattice a | 9.802 Å | 685 (\<) | Ce7Ru3; _Ce7Ru3: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 6; `ORC-F7A5JNCWME.6fc348` |  |
 | Lattice a | 13.645 Å | 720 (\<) | Ce16Ru9; _Ce16Ru9: Ru 0.36_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 8; `ORC-TZH7ANLFQR.faa8d5` |  |
 | Lattice a | 8.4 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9; `ORC-MEQCALTNMX.c7f7ad` |  |
 | Lattice a | 7.545 Å | 1570 (\<) | CeRu2; _CeRu2: Ru 0.667_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 10; `ORC-EXUYP6LQVU` |  |
-| Lattice b | 9.863 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.f38445` |  |
+| Lattice b | 9.863 Å |  | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.f38445` |  |
 | Lattice b | 13.837 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9; `ORC-MEQCALTNMX.35708e` |  |
+| Lattice c | 6.419 Å |  | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.add7a8` |  |
 | Lattice c | 6.305 Å | 298.15 | Ce7Ru3; _alloy: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 7; `ORC-63CXKEIBGP.0ae48f` |  |
-| Lattice c | 6.419 Å | 595 (\<) | Ce3Ru; _Ce3Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 5; `ORC-VIZZCOPLHK.add7a8` |  |
 | Lattice c | 6.261 Å | 685 (\<) | Ce7Ru3; _Ce7Ru3: Ru 0.3_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 6; `ORC-F7A5JNCWME.2cdf0c` |  |
 | Lattice c | 22.742 Å | 720 (\<) | Ce16Ru9; _Ce16Ru9: Ru 0.36_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 8; `ORC-TZH7ANLFQR.2cbf16` |  |
 | Lattice c | 5.985 Å | 750 (\<) | Ce4Ru3; _Ce4Ru3: Ru 0.429_ | unspecified | [1] Kardellass 2023 | Table 2, p. 6, row 9; `ORC-MEQCALTNMX.6a736f` |  |
@@ -218,10 +218,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -230,7 +230,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -241,7 +241,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -251,7 +251,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -261,7 +261,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -2050,7 +2050,7 @@
      "detail": "Hallstedt 2025 mmc2 row for AG2SM_ALPHA: Ag2Sm-alpha"
     }
    ],
-   "literature_values": 8
+   "literature_values": 6
   },
   {
    "id": "phase:ag-sm:ag2sm-beta",
@@ -30927,7 +30927,7 @@
      "detail": "CrU-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'"
     }
    ],
-   "literature_values": 2
+   "literature_values": 4
   },
   {
    "id": "phase:cr-zn:crzn13",
@@ -36905,7 +36905,7 @@
      "detail": "Hallstedt 2025 mmc2 row for CU24ZR13: Cu24Zr13"
     }
    ],
-   "literature_values": 11
+   "literature_values": 14
   },
   {
    "id": "phase:cu-zr:cu2zr",
@@ -69852,7 +69852,7 @@
      "detail": "ReU-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'"
     }
    ],
-   "literature_values": 10
+   "literature_values": 4
   },
   {
    "id": "phase:re-w:dis-sigma",
@@ -74573,7 +74573,7 @@
      "detail": "Hallstedt 2025 mmc2 row for THZN2: ThZn2"
     }
    ],
-   "literature_values": 9
+   "literature_values": 10
   },
   {
    "id": "phase:ti-u:u-tetragonal",
@@ -74758,7 +74758,7 @@
      "detail": "UW-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'"
     }
    ],
-   "literature_values": 1
+   "literature_values": 2
   },
   {
    "id": "phase:u-zr:u-tetragonal",
@@ -75248,11 +75248,11 @@
   "release_tag": "v2026.10",
   "license": "CC-BY-4.0",
   "status": "Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.",
-  "title": "ORCHID phase registry (binary systems)",
+  "title": "ORCHID-Registry: phase registry of binary systems",
   "doi": "10.5281/zenodo.PENDING-phase-registry",
   "url": "https://doi.org/10.5281/zenodo.PENDING-phase-registry",
-  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry",
-  "bibtex": "@misc{orchid_phase_registry_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID phase registry (binary systems)}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-phase-registry},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},\n  note      = {Version 1, machine-extracted}\n}",
+  "text": "R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry",
+  "bibtex": "@misc{orchid_phase_registry_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID-Registry: phase registry of binary systems}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-phase-registry},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-phase-registry},\n  note      = {Version 1, machine-extracted}\n}",
   "also_cite": [
    "B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file",
    "A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0)",
@@ -75260,11 +75260,11 @@
    "the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work)"
   ],
   "part_of": {
-   "title": "ORCHID data",
+   "title": "ORCHID data: umbrella record of the ORCHID datasets",
    "doi": "10.5281/zenodo.PENDING-orchid-data",
    "url": "https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
-   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
+   "text": "R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data",
+   "bibtex": "@misc{orchid_data_2026,\n  author    = {Arr{\\'o}yave, Raymundo and Saal, James and Shin, Dongwon},\n  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},\n  version   = {2026.10},\n  publisher = {Zenodo},\n  year      = {2026},\n  doi       = {10.5281/zenodo.PENDING-orchid-data},\n  url       = {https://doi.org/10.5281/zenodo.PENDING-orchid-data},\n  note      = {Version 1, machine-extracted}\n}"
   }
  }
 }

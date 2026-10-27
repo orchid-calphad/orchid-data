@@ -9,6 +9,8 @@
   "LICENSE",
   "LICENSES.md",
   "NOTICE.md",
+  "CITATIONS.md",
+  "CITATIONS.json",
   "zenodo/phase-diagrams.metadata.json",
   "phase-diagrams/**",
   "parquet/phase_diagram_index.parquet",
@@ -16,13 +18,23 @@
   "parquet/MANIFEST.json"
  ],
  "exclude": [],
- "n_files": 2785,
- "total_bytes": 123365421,
+ "n_files": 2791,
+ "total_bytes": 123661182,
  "files": [
   {
    "path": "CHANGELOG.md",
    "bytes": 38061,
    "sha256": "60c9cd9470d8dd4d55dedbf8790b1c6f161b2419386b9585d513e0a1b8615f39"
+  },
+  {
+   "path": "CITATIONS.json",
+   "bytes": 3453,
+   "sha256": "f2f881fda27aacd27051b6ed831dad4fa1fb63b521276d7b09d69c1c79344500"
+  },
+  {
+   "path": "CITATIONS.md",
+   "bytes": 3426,
+   "sha256": "f796bcefb8ed75fc904988509dc75befe59aaa0c9d15d9e1379615d7c0841516"
   },
   {
    "path": "LICENSE",
@@ -41,33 +53,48 @@
   },
   {
    "path": "README.md",
-   "bytes": 8741,
-   "sha256": "0746df14f5ddfed9e0be2ff89ab1d05220a6f80bcdf0042b41f9886ac6e977fa"
+   "bytes": 9300,
+   "sha256": "4055c5f5ee11cee87769a5bbf833b1d750d657a4741b5ae4e1bbb1789c8973bb"
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 25082,
-   "sha256": "1f024113bbc54dfd13f83b9b982d5c0ec22fba78afb1507c4ccfb7c2a07ea44a"
+   "bytes": 26140,
+   "sha256": "0d5ed30639532611a846f2f84ce2b96744db3dae1f539f5e8b73ca0dffe289a9"
   },
   {
    "path": "parquet/phase_diagram_index.parquet",
-   "bytes": 263049,
-   "sha256": "6a80bca1da3ff253a07e548c448b4a18e926b19be237c9e8e101cc5737beb559"
+   "bytes": 265380,
+   "sha256": "b7b7c4d01a0008604bcb34d468165f615d9d5a781c52e69b826b5f3977e0db80"
   },
   {
    "path": "parquet/phase_diagram_invariants.parquet",
-   "bytes": 690948,
-   "sha256": "6747de2806155aeeb371fe0eb574a5f6cf6a6e496d8b986c9379555597fdb5df"
+   "bytes": 691861,
+   "sha256": "f75d19a9d5ff73ad74b4517e8746124704a785e6d587dba46f0ef166136d7996"
   },
   {
    "path": "phase-diagrams/CITATION.cff",
-   "bytes": 1329,
-   "sha256": "db412cd3a87a613d9fdbd84a94c3ca87a437c93bd1667f0b1003aad7b2ac74a4"
+   "bytes": 1339,
+   "sha256": "e1f1467d48bd5f0cd26f1b4232e250fcc6e9c3d5a80670d6d485e61ffca5632c"
+  },
+  {
+   "path": "phase-diagrams/EMPTY_OUTPUT_REVIEW.json",
+   "bytes": 9216,
+   "sha256": "244fdc2ad3ff4bf09177fd75f6116133f46b9d6af3e3c6d71db9bf77f13b342c"
+  },
+  {
+   "path": "phase-diagrams/RECOVERY_REVIEW.json",
+   "bytes": 97694,
+   "sha256": "9db88a5954607618b4c3af0955e92dd0f9a3ff891d74ca1a890897c188c6f303"
+  },
+  {
+   "path": "phase-diagrams/TEMPERATURE_EXTENT_REVIEW.json",
+   "bytes": 26055,
+   "sha256": "b09996516104e2ce8509517b7752729d8f9b8c2db1eb7b742c5d646b04e94429"
   },
   {
    "path": "phase-diagrams/index.json",
-   "bytes": 850667,
-   "sha256": "aa86a608b94b800f099b32fa3cc8566654e58459801f38b9c27221049850b2fc"
+   "bytes": 851381,
+   "sha256": "3a08f5d48dd8b48fcb75a07284cb194cd6c6359d449b954e29cb57c87e6903d8"
   },
   {
    "path": "phase-diagrams/sgte/AgAl-04Wit.json",
@@ -996,8 +1023,8 @@
   },
   {
    "path": "phase-diagrams/sgte/AlCr-00Sub.json",
-   "bytes": 156,
-   "sha256": "c1f250e2886bdbdff0ee7db39df9926d6f54e6c61c62e92ad67140353d833e70"
+   "bytes": 484,
+   "sha256": "46f8b43d9ca5bffa633a3ab94d292a7add7e92fadf1018c04088d43d6eee1af0"
   },
   {
    "path": "phase-diagrams/sgte/AlCr-07Tok.json",
@@ -1161,8 +1188,8 @@
   },
   {
    "path": "phase-diagrams/sgte/AlGa-00Mat.json",
-   "bytes": 10440,
-   "sha256": "59a6491f8a193389c922b281ea6260f2cbfc67c10ce48ad73ccc12aa10d92425"
+   "bytes": 10736,
+   "sha256": "62381628a1cffc5bd93ba5fc12bd08341ad08312ac7a68cf342c1dbf17b9c644"
   },
   {
    "path": "phase-diagrams/sgte/AlGa-78Ans.json",
@@ -1171,8 +1198,8 @@
   },
   {
    "path": "phase-diagrams/sgte/AlGa-92Wat-LB.json",
-   "bytes": 10249,
-   "sha256": "735f2f10c47b42072da6db636504ce036eb14f763a458a27e528b11d86e7fdd4"
+   "bytes": 10544,
+   "sha256": "237fd6f96ea23e3a428df79a374ff99d4e7632a48c7ac130ea1d08e913f50cd7"
   },
   {
    "path": "phase-diagrams/sgte/AlGd-03Cac-LB.json",
@@ -1291,8 +1318,8 @@
   },
   {
    "path": "phase-diagrams/sgte/AlLi-07Hal.json",
-   "bytes": 162,
-   "sha256": "ac8afdc25fe5f85c2b4d879f12cfa80d67c1281ea8b2e1e81e329c366d5f8d07"
+   "bytes": 490,
+   "sha256": "2c69b9198d8359e92395425fe86f0048e4a45eb58b11f4abf8e92d504d2d7c19"
   },
   {
    "path": "phase-diagrams/sgte/AlLi-11Guo.json",
@@ -1381,8 +1408,8 @@
   },
   {
    "path": "phase-diagrams/sgte/AlMn-12Dju.json",
-   "bytes": 198,
-   "sha256": "dadaef005d95a4e0a6c52c225cfc40900d0d751f3b4ab4befa4b850261701e9c"
+   "bytes": 526,
+   "sha256": "f1213a7f2cdd850dc31280e8c40a595cceef9ad2f72a59c6570d48c1f07f7b61"
   },
   {
    "path": "phase-diagrams/sgte/AlMn-17Cui.json",
@@ -1391,13 +1418,13 @@
   },
   {
    "path": "phase-diagrams/sgte/AlMn-18Zhe-mod.json",
-   "bytes": 202,
-   "sha256": "0f9461ddab47ec4de8501fa6b7ff4219b11917cfabce34080df1af8461227457"
+   "bytes": 530,
+   "sha256": "82fd7d8a29e3e9e153900c2e09efd6be492b17f9fa7e618abe16e76bfa81f42a"
   },
   {
    "path": "phase-diagrams/sgte/AlMn-18Zhe.json",
-   "bytes": 198,
-   "sha256": "896f38da7fb1b8519ecd0a16c3aa9e35c9df79297d259eeed34cc6112c9fe4d2"
+   "bytes": 526,
+   "sha256": "6c4e4c8eb33d690b46511041fb98fd669f338e9a837bb1ba2306203c88825eb9"
   },
   {
    "path": "phase-diagrams/sgte/AlMn-19Mie.json",
@@ -1796,8 +1823,8 @@
   },
   {
    "path": "phase-diagrams/sgte/AlSi-24Zob-3g.json",
-   "bytes": 268,
-   "sha256": "608c0997aa7d1e338e50393f3eebe83e7d12c5ae7f34592a78d90e86b87dc92b"
+   "bytes": 596,
+   "sha256": "466383f72848343d00687d6265965788013fbee4165661765882d3485d68aa52"
   },
   {
    "path": "phase-diagrams/sgte/AlSi-86Mey.json",
@@ -1916,8 +1943,8 @@
   },
   {
    "path": "phase-diagrams/sgte/AlTi-92Kat.json",
-   "bytes": 218,
-   "sha256": "df5970816ffa7f7f5c0819fd505559dbac76420f7efbe3de2a9fece15b4a3532"
+   "bytes": 54725,
+   "sha256": "b0c2f77d2ebad264dec2f162f7def8128526e9144c4ef3847e61c2393c1aa2e3"
   },
   {
    "path": "phase-diagrams/sgte/AlTi-98Sau-LB.json",
@@ -2141,8 +2168,8 @@
   },
   {
    "path": "phase-diagrams/sgte/AmPu-93Oga.json",
-   "bytes": 22744,
-   "sha256": "412a1928da2f661035e0b9b7b3caf25c989f7799f071c3a2340d553c9c322e67"
+   "bytes": 23041,
+   "sha256": "3402db3f805c4123b6d970a00548535ce78fa8bcc8fd76889252629a1ab0361d"
   },
   {
    "path": "phase-diagrams/sgte/AmU-10Kur.json",
@@ -2586,8 +2613,8 @@
   },
   {
    "path": "phase-diagrams/sgte/BN-96Kas-LB.json",
-   "bytes": 167,
-   "sha256": "3417f8d128ebbc186afccbdbfb0829f9570779787b3e1fa7a2b37e23036675e0"
+   "bytes": 495,
+   "sha256": "265b0a01d012242ee9d7f9796d0f74d5f5a36fee117a6ef7fe76d4222463cff6"
   },
   {
    "path": "phase-diagrams/sgte/BO-23Pha.json",
@@ -2656,13 +2683,13 @@
   },
   {
    "path": "phase-diagrams/sgte/BaO-05Zho-mod.json",
-   "bytes": 111,
-   "sha256": "41527e531c5c528f528f7b63cec2d47b2a00a289e3f8a1278ca47529d06f7a70"
+   "bytes": 439,
+   "sha256": "b7e5be3eb45a23dd652e878cb2f4f53022998a02c21e393a5298431d1ac9e056"
   },
   {
    "path": "phase-diagrams/sgte/BaO-05Zho.json",
-   "bytes": 107,
-   "sha256": "5949fc92c47cd4679185f414c229924874f1f48732fb31b83dfbd72988509416"
+   "bytes": 435,
+   "sha256": "299e8658bb6677f8d7f275c2295b8d109a7131f20d20aaa1608014f6ade77a0d"
   },
   {
    "path": "phase-diagrams/sgte/BaO-95Zim.json",
@@ -2706,8 +2733,8 @@
   },
   {
    "path": "phase-diagrams/sgte/BaYb-91Oka.json",
-   "bytes": 12831,
-   "sha256": "107c9a7eb7c57493168eb2f827997d6008a180d1338d02c6f23fcd74a6fd43df"
+   "bytes": 13127,
+   "sha256": "cf99a36c41778e0b7a4457dcd370cc45af123a427b82d464923b6fb1d297f9b5"
   },
   {
    "path": "phase-diagrams/sgte/BeC-21Liu.json",
@@ -3466,8 +3493,8 @@
   },
   {
    "path": "phase-diagrams/sgte/CaSr-03Zho.json",
-   "bytes": 10108,
-   "sha256": "2ac7ba9e44a831e43b43d11047d6cf627e9c5839aadb905d81fb1e9b130a60ad"
+   "bytes": 10404,
+   "sha256": "daa89b404dfc49c7ef4c84102199a3d4c469e9f598aecab3ca934c71b22abc2d"
   },
   {
    "path": "phase-diagrams/sgte/CaSr-07Shi.json",
@@ -3546,8 +3573,8 @@
   },
   {
    "path": "phase-diagrams/sgte/CdHg-95Yan-LB.json",
-   "bytes": 6379,
-   "sha256": "e10c3703296eb537318c56210bfeaa8075ba1d6ee9d917f61cd3994c4541b16b"
+   "bytes": 6675,
+   "sha256": "88052653744eed851d9e698d637e4232961e864895bc3a9ed207122ce672cef9"
   },
   {
    "path": "phase-diagrams/sgte/CdIn-19Fis.json",
@@ -3771,8 +3798,8 @@
   },
   {
    "path": "phase-diagrams/sgte/CeLa-10Guo.json",
-   "bytes": 218,
-   "sha256": "eadd94b093c3a1d630bb38b4581aec3d3d6c6b97723552229cf8b0c8df2372ce"
+   "bytes": 546,
+   "sha256": "33bfa164c603b76f2c0238a2ae8c7a31d73f9297a4e3a68f3e80bc577420d2ff"
   },
   {
    "path": "phase-diagrams/sgte/CeLa-19Yan.json",
@@ -3976,8 +4003,8 @@
   },
   {
    "path": "phase-diagrams/sgte/CoCr-16Li.json",
-   "bytes": 158,
-   "sha256": "2c7087b9069ec449a0b93b892431a1f4596182f40fd4080ecc042121a96ac559"
+   "bytes": 486,
+   "sha256": "699865138b21f3e7a0fe67a75b9a60cda898a67e7c76f51e91e76dfef0ae6f74"
   },
   {
    "path": "phase-diagrams/sgte/CoCr-18Cac.json",
@@ -4266,8 +4293,8 @@
   },
   {
    "path": "phase-diagrams/sgte/CoRe-14Liu.json",
-   "bytes": 19690,
-   "sha256": "7071099177c7b357c1a6a0246e13e80a23af182376fd4f274dfd7ad9089fef25"
+   "bytes": 19986,
+   "sha256": "d5ac15bb95fea9830f03c9657362688f75ed9a9da40ddc8d463d6ade9d19633d"
   },
   {
    "path": "phase-diagrams/sgte/CoRe-18Guo.json",
@@ -4901,8 +4928,8 @@
   },
   {
    "path": "phase-diagrams/sgte/CrRe-10Pal.json",
-   "bytes": 159,
-   "sha256": "591cf484d8d43b10dfc847b792ed929d9640c51dd54ebd81cb82160edcd6f7a7"
+   "bytes": 487,
+   "sha256": "67ac00a0214a224091f3ac79aea253b279df16389cdb9342df4dff421ee06e2a"
   },
   {
    "path": "phase-diagrams/sgte/CrRe-18Guo.json",
@@ -5061,8 +5088,8 @@
   },
   {
    "path": "phase-diagrams/sgte/CrV-02Gho.json",
-   "bytes": 9483,
-   "sha256": "8229f75dea4818f01b263eeb7fe07551d2468b4f1df834674ad5c64ed409f7f5"
+   "bytes": 9779,
+   "sha256": "e6bae49e6707c801146dccbd50e4e2ee8915d02590cbcb4e8b637ff91a9d55b3"
   },
   {
    "path": "phase-diagrams/sgte/CrV-24Ton.json",
@@ -5156,13 +5183,13 @@
   },
   {
    "path": "phase-diagrams/sgte/CsK-11Ren.json",
-   "bytes": 9083,
-   "sha256": "64d8a284a004ab809b9f06bebccb684e2610dea78ee42b67c93353c632b18691"
+   "bytes": 9380,
+   "sha256": "54c8463b98b1d4d7932c114024604fe8631e977cacca4ce06cce011444f7a593"
   },
   {
    "path": "phase-diagrams/sgte/CsK-85Pot-LB.json",
-   "bytes": 5962,
-   "sha256": "547142465728b75743b401fd432415f6ab87222936e5352a0ae04abbe04216f1"
+   "bytes": 6257,
+   "sha256": "5e11296e017936035d78ad3145abc4d8920b5d36291da671ae680a449b4afd54"
   },
   {
    "path": "phase-diagrams/sgte/CsMo-21Smi.json",
@@ -5171,28 +5198,28 @@
   },
   {
    "path": "phase-diagrams/sgte/CsNa-11Ren.json",
-   "bytes": 6435,
-   "sha256": "14c66af472b1705d8ac23acd06f17870b9a4c71120abe11236274e9b1b995ba1"
+   "bytes": 6731,
+   "sha256": "605daa1d5f20931df23dc37082cc80aaef49400a0729461f80e9bf3f23bc3090"
   },
   {
    "path": "phase-diagrams/sgte/CsNa-85Pot-LB.json",
-   "bytes": 6577,
-   "sha256": "4e36a9ef354968fb6010fcf1809f745a3f9901807632cff79b6156c50d627ffc"
+   "bytes": 6873,
+   "sha256": "fbf38268a3eba9aa657198fad2192b10a8e317dc3d079ab5ad9ea5be9832eeac"
   },
   {
    "path": "phase-diagrams/sgte/CsO-15Gue.json",
-   "bytes": 7208,
-   "sha256": "92da2a8622c2c2282df45c0cc89b82843d9374e6e2668ddc0436d33359cb7f9f"
+   "bytes": 7505,
+   "sha256": "19081056aa60f4a5203740cbb994de999b377de464a30af683601b040dc77f86"
   },
   {
    "path": "phase-diagrams/sgte/CsRb-11Ren.json",
-   "bytes": 3948,
-   "sha256": "450c1d5e389b3ca7d0c43559120eb80c327458c89c757d51a9e7fab82362ba6e"
+   "bytes": 4244,
+   "sha256": "9d20a792f8c51caed26007aa34faca69312df6fcfa8cec0e4efbdfd0d78598ad"
   },
   {
    "path": "phase-diagrams/sgte/CsRb-85Pot-LB.json",
-   "bytes": 3936,
-   "sha256": "8a4c363a61a1fff3c6b0ff15946144e625078ecd41b55af626b85f6468e8ea32"
+   "bytes": 4232,
+   "sha256": "8c19b31a0c410f6af3d4c73e1a64e412e193650806cecee2f78a495960900d86"
   },
   {
    "path": "phase-diagrams/sgte/CsTe-15Pha.json",
@@ -5471,8 +5498,8 @@
   },
   {
    "path": "phase-diagrams/sgte/CuNb-90Ham-LB.json",
-   "bytes": 177,
-   "sha256": "cccd47977442950ca4bf843d0075aee033b5c73fbd5c3a3b46b79e6f58ce24e1"
+   "bytes": 22047,
+   "sha256": "34922d90bedc0e9cef4eba558412f9a94b1294f80fc8ae44ae80c7df70e37425"
   },
   {
    "path": "phase-diagrams/sgte/CuNd-11Wan.json",
@@ -5511,13 +5538,13 @@
   },
   {
    "path": "phase-diagrams/sgte/CuO-03Hal-LB.json",
-   "bytes": 110,
-   "sha256": "06e4b244fe05a3812d85dd3ca2a5fe7b38da3440de6bb040b2739852a3b92348"
+   "bytes": 438,
+   "sha256": "2794e95e3d171ef4ae1cc3bbc689c595035ab7d27117bde15db886fa16405dec"
   },
   {
    "path": "phase-diagrams/sgte/CuO-05Sch.json",
-   "bytes": 107,
-   "sha256": "6257534cb07097d6bf69591d64d8fe75ab363be40ca91cb62d05f6ef4f021016"
+   "bytes": 435,
+   "sha256": "dd1110260c3b63e74d1b6e9dd963d3ce25afb634b780d2a37ca3515e513cfb0a"
   },
   {
    "path": "phase-diagrams/sgte/CuO-14Mag.json",
@@ -5526,8 +5553,8 @@
   },
   {
    "path": "phase-diagrams/sgte/CuO-92Bou.json",
-   "bytes": 107,
-   "sha256": "b5ee44be95f175babf73dfca7ba73afab03395f2efe3d01cedfc8f2cbad96718"
+   "bytes": 12614,
+   "sha256": "727e842f08db69161d48f67a72f7bb6b2a7310ef11438e15379b6ec7853697ef"
   },
   {
    "path": "phase-diagrams/sgte/CuO-94Hal.json",
@@ -6231,8 +6258,8 @@
   },
   {
    "path": "phase-diagrams/sgte/EuMg-08Tao.json",
-   "bytes": 218,
-   "sha256": "e6e02cab8bba9c792e89b82fbb1b2ad963b30bdf0e1117632b1359bf7a741b71"
+   "bytes": 546,
+   "sha256": "b88624b0bd9f1e3f21c9f0d064363bb4fcc1ab6d02568ece4b49801d6205a5ac"
   },
   {
    "path": "phase-diagrams/sgte/EuNi-16Kar.json",
@@ -6471,8 +6498,8 @@
   },
   {
    "path": "phase-diagrams/sgte/FeMn-23Wal-3g.json",
-   "bytes": 162,
-   "sha256": "46665efba0e19409944427cf95797779f96cc2a1c9b0fa909a5272253e07508a"
+   "bytes": 490,
+   "sha256": "1d63f14442d818d0a1380f78a30a5a4323a61b2882516ca15aa3d18176828880"
   },
   {
    "path": "phase-diagrams/sgte/FeMn-87Hua.json",
@@ -6711,18 +6738,18 @@
   },
   {
    "path": "phase-diagrams/sgte/FeO-09Pov.json",
-   "bytes": 107,
-   "sha256": "12e7efb53f5005c23de1004ff4afa4a03aeffaa4639fe555f8a394ed16d7a8ab"
+   "bytes": 435,
+   "sha256": "d43040fa0995e6d374c270b26d303fb8c1dee72e62591d1be3dab1534b7ca843"
   },
   {
    "path": "phase-diagrams/sgte/FeO-23Jia.json",
-   "bytes": 107,
-   "sha256": "045b1f15e5056fdd301ea1a1091a891f111dfdb2b5856417daeb23b725d745b1"
+   "bytes": 435,
+   "sha256": "d6d5723776752ce41e48ccec9f913d041b0198acc6b36d186ee6aedb4321c2c3"
   },
   {
    "path": "phase-diagrams/sgte/FeO-91Sun-LB.json",
-   "bytes": 110,
-   "sha256": "1ab87c520f7756c56c7f7ed7a9958e865df02a8c4ab4939a3180f22c1a9ac8e6"
+   "bytes": 438,
+   "sha256": "b7cc3518eaa193c8e1919c1a503161505520414f2785968915e827dd49e62129"
   },
   {
    "path": "phase-diagrams/sgte/FeO-91Sun-orig.json",
@@ -6731,18 +6758,18 @@
   },
   {
    "path": "phase-diagrams/sgte/FeO-93Tay.json",
-   "bytes": 107,
-   "sha256": "3549ebe4baf5251ff008958d66ef2458dec298e3d0d1bef85ff0748a07d9eb37"
+   "bytes": 435,
+   "sha256": "bb4bcc60546bee0917f4b13cb569e78649e286d7d53f3ebf0826f29efb51d92b"
   },
   {
    "path": "phase-diagrams/sgte/FeO-95Kow.json",
-   "bytes": 107,
-   "sha256": "43868336c38d486c78d443b1144d57bf888f864c673790a5fe3699b1c5be688b"
+   "bytes": 435,
+   "sha256": "08982255234a9e43aafaaf3e05d70c4dc29aed6638ea623aeda0b59613fa77cf"
   },
   {
    "path": "phase-diagrams/sgte/FeO-96Sel.json",
-   "bytes": 107,
-   "sha256": "5ec2821a7a182cc0c81ed9b53d2905524fe6f8ad55aa2782fbc4a4897528710e"
+   "bytes": 435,
+   "sha256": "5469a676de43157c5631398d574e0d0e268d7922c74a90ad8b95d1b45e061376"
   },
   {
    "path": "phase-diagrams/sgte/FeOs-83Swa.json",
@@ -6876,8 +6903,8 @@
   },
   {
    "path": "phase-diagrams/sgte/FeSi-12Ohn.json",
-   "bytes": 198,
-   "sha256": "a9bf34961a96366951b53511f6ce9749ce09988e1015461e2b6faaf172f12771"
+   "bytes": 526,
+   "sha256": "8d0184939bee615eb4cdcabc487bd5bde28c3381e8d21cf8cd3645fd091e94ce"
   },
   {
    "path": "phase-diagrams/sgte/FeSi-14Yua.json",
@@ -6886,8 +6913,8 @@
   },
   {
    "path": "phase-diagrams/sgte/FeSi-17Cui.json",
-   "bytes": 198,
-   "sha256": "5758493f9590438c9358cd4473eadaede483b4d28f0b4988f681bcd1f792ffe7"
+   "bytes": 526,
+   "sha256": "d81210d7db7bc201d4591c756038e34d1ff121e6b3d5397ff986bf3645776ebf"
   },
   {
    "path": "phase-diagrams/sgte/FeSi-23Wit.json",
@@ -7016,8 +7043,8 @@
   },
   {
    "path": "phase-diagrams/sgte/FeTi-23Wal-3g.json",
-   "bytes": 546,
-   "sha256": "80a7c5d39913dfcc176ff65bfccbe819454f6c33f15b6dbea775f11c897cf959"
+   "bytes": 971,
+   "sha256": "335e7fdafef738694a70f9622fcb3cf6355b8c0017512a38d8aeb5821ea7acca"
   },
   {
    "path": "phase-diagrams/sgte/FeTi-24Lia.json",
@@ -7266,13 +7293,13 @@
   },
   {
    "path": "phase-diagrams/sgte/GaHg-09Fen.json",
-   "bytes": 7305,
-   "sha256": "9080c4a2af312d26f288030251e1454d778e0e29196c99e5f5266493c520d91e"
+   "bytes": 7600,
+   "sha256": "b45797f679ccbb14dd2b6486054cd3d83628cb677b865918f82c52f115bfd167"
   },
   {
    "path": "phase-diagrams/sgte/GaHg-91Ans-LB.json",
-   "bytes": 7185,
-   "sha256": "c4fcd0d711ca62276fa917fb6ee878e1448ef795257f60e424295aff717f8f52"
+   "bytes": 7481,
+   "sha256": "308d9d992a3f7e05871732492f0338179157ee8769673f303b79e3f4135a3f6e"
   },
   {
    "path": "phase-diagrams/sgte/GaHo-20Ait.json",
@@ -7281,18 +7308,18 @@
   },
   {
    "path": "phase-diagrams/sgte/GaIn-78Ans.json",
-   "bytes": 8184,
-   "sha256": "78e2050f4d93bbc66588ecb649d80ac98df2e9e6ac437f83fbe2321620b4bf7e"
+   "bytes": 8480,
+   "sha256": "9bad5f987cfc33395bf58741252675c0e3ddc8ec2f366b59c33771e5e9ad6e2f"
   },
   {
    "path": "phase-diagrams/sgte/GaIn-90Rug-LB.json",
-   "bytes": 8095,
-   "sha256": "fd1f88aaffa58d96e00e369fd443307457b7229964ac58cf538662bfeb91d5f9"
+   "bytes": 8391,
+   "sha256": "2cc974206ea7e6f78eb651d1afc8e56aec0b4b6be57875b4b57bc5515bf97357"
   },
   {
    "path": "phase-diagrams/sgte/GaIn-91And.json",
-   "bytes": 8096,
-   "sha256": "631c714a56987057481ed69797d2401cbdd14ce133332bb0aa7f7fcac8df1439"
+   "bytes": 8392,
+   "sha256": "2ef01548df84112e438462d24414336cabbd109870340499a65df5cefa6b9df4"
   },
   {
    "path": "phase-diagrams/sgte/GaLa-11Idb.json",
@@ -7391,8 +7418,8 @@
   },
   {
    "path": "phase-diagrams/sgte/GaPd-99Gro.json",
-   "bytes": 34269,
-   "sha256": "d6192ab9e8445db884c782fadc41867f1fa06672c93ce194b896e9d519192fc5"
+   "bytes": 34566,
+   "sha256": "e7b8bfbfadca67255f62f0ca5a3b0476fc24c0b16be2fa35e7e7bad538af4440"
   },
   {
    "path": "phase-diagrams/sgte/GaPr-22Bou.json",
@@ -7431,8 +7458,8 @@
   },
   {
    "path": "phase-diagrams/sgte/GaSe-08Zhe.json",
-   "bytes": 621,
-   "sha256": "03f7a5842db2cfa2776346b7eae5ee8471046621637a4b1b545b6d34229d5139"
+   "bytes": 1046,
+   "sha256": "dcd2a8e0b02dd1fb3d3c645bfd9359ab02b76631e91d58ea9c1a02404081c7fe"
   },
   {
    "path": "phase-diagrams/sgte/GaSi-05Fra-LB.json",
@@ -7446,13 +7473,13 @@
   },
   {
    "path": "phase-diagrams/sgte/GaSn-79Ans.json",
-   "bytes": 8234,
-   "sha256": "45fd2e27b9814e71a72e39160fa4645bc8dfd7bfb30c9fc17c525d4451478afe"
+   "bytes": 8530,
+   "sha256": "fdc0bc53f8c2137ebd71222a957bdb900d2337eec2af326591aaeb0906ab1eab"
   },
   {
    "path": "phase-diagrams/sgte/GaSn-92And-LB.json",
-   "bytes": 8247,
-   "sha256": "e3af35036ae5fcd2eefecdf5d71fb49d28ee0d01eb68fefc2cf4aeac658a9a33"
+   "bytes": 8543,
+   "sha256": "81d88f841ca37a72cc44a31edc318e654dcc903369e116857211ec66566925e9"
   },
   {
    "path": "phase-diagrams/sgte/GaSr-13Li.json",
@@ -7521,13 +7548,13 @@
   },
   {
    "path": "phase-diagrams/sgte/GaZn-00Mat.json",
-   "bytes": 8979,
-   "sha256": "e9c20995dbafe3fe906f36c3c44e9310063f87478f12a03a5dba77d5b0931755"
+   "bytes": 9275,
+   "sha256": "c1cf306adf7aa4f1584b5f524291cadd7191f0c9c3aa8e9091eb07692cab64a0"
   },
   {
    "path": "phase-diagrams/sgte/GaZn-90Dut-LB.json",
-   "bytes": 9035,
-   "sha256": "0241ac9b8576e7b1e7d985538459075878d1f11dd5abbea38dd29ad4ab147b98"
+   "bytes": 9331,
+   "sha256": "839920dcb855ecd8e6bad036a6ea2383936ab19227176068420aca97d1dcd9ff"
   },
   {
    "path": "phase-diagrams/sgte/GaZr-14Luo.json",
@@ -8401,18 +8428,18 @@
   },
   {
    "path": "phase-diagrams/sgte/InPb-04Dav.json",
-   "bytes": 7329,
-   "sha256": "b741cb98eebd7dbd54df8a3ea7a247dc6a7805bbe9562bc34657fe0359bc9979"
+   "bytes": 7625,
+   "sha256": "191d4d4d9bf0b6ac6b3f0ee66d9f1231d5de21ca880cf563f5b0d07345f6d44e"
   },
   {
    "path": "phase-diagrams/sgte/InPb-86Nab.json",
-   "bytes": 7640,
-   "sha256": "2816b97195b6c10cdbed53b8a479bb1390a7731c0490f527366f3fcf726b7e67"
+   "bytes": 7936,
+   "sha256": "ce81efd6683cef797c8ce11ae9672c0117c1dbce03075d753f3e240dc8786b71"
   },
   {
    "path": "phase-diagrams/sgte/InPb-98Boa-LB.json",
-   "bytes": 7201,
-   "sha256": "be0e5f2e56a1bd58ce96994f74cc38197eba2d5effef2b187c43020a81fb1407"
+   "bytes": 7497,
+   "sha256": "2800aaf7a86195905014e3f227d97cb3fb2a65226d83cbf31fe4df8df2cd61e3"
   },
   {
    "path": "phase-diagrams/sgte/InPd-02Jia-LB.json",
@@ -8476,8 +8503,8 @@
   },
   {
    "path": "phase-diagrams/sgte/InSn-04Dav.json",
-   "bytes": 27255,
-   "sha256": "0c935411b15de60c24272acabc7702127a90319ecb04195d99acbd70058b988b"
+   "bytes": 27551,
+   "sha256": "fe068bc7aec95acd0ac981fb78331c5caf6f36b5fc4c3bfbd9cda383116ef0b0"
   },
   {
    "path": "phase-diagrams/sgte/InSn-96Lee.json",
@@ -8591,13 +8618,13 @@
   },
   {
    "path": "phase-diagrams/sgte/KNa-06Zha.json",
-   "bytes": 5337,
-   "sha256": "a31dcabfb4e7327ac3a313b137d996888ddecaa1dbe61050fd9d9cabe18de744"
+   "bytes": 5633,
+   "sha256": "85db176cfc1cbee0f096da8460d013e7fa4c7ddb745c452cf8a27b9844cad429"
   },
   {
    "path": "phase-diagrams/sgte/KNa-11Ren.json",
-   "bytes": 5135,
-   "sha256": "60577773190ac4ce045e1661e8ed2bea4444c0e12b64ef2a87b3fc704acc46f2"
+   "bytes": 5431,
+   "sha256": "cdf1ef590fdd27894e222887c7ff2352bee885db1cc9541fbe305912414a2fbb"
   },
   {
    "path": "phase-diagrams/sgte/KRb-11Ren.json",
@@ -8736,8 +8763,8 @@
   },
   {
    "path": "phase-diagrams/sgte/LaO-05Che.json",
-   "bytes": 107,
-   "sha256": "4d2839d972daef3852ef227386c7f7fff526ec7324cfe70e0eea274d15d8f5cd"
+   "bytes": 435,
+   "sha256": "321d109d9358f4d56184d519eea295aaa7633d3dee0711e2efe47132b92a7617"
   },
   {
    "path": "phase-diagrams/sgte/LaO-07Zin.json",
@@ -8746,8 +8773,8 @@
   },
   {
    "path": "phase-diagrams/sgte/LaO-23Nak.json",
-   "bytes": 107,
-   "sha256": "2422904a845fd21bb75891f10d1146fb0cfed50b22430ae551b0c87e14ba27db"
+   "bytes": 435,
+   "sha256": "b3bca89bdcefba5991b20f545a2b683522f1647e38151efedfdf7bc68447e075"
   },
   {
    "path": "phase-diagrams/sgte/LaPb-09Idb.json",
@@ -8761,8 +8788,8 @@
   },
   {
    "path": "phase-diagrams/sgte/LaPt-06Rei.json",
-   "bytes": 111417,
-   "sha256": "6b22a453defc03493d068884033dd85c5861ec28d21c61bc7271a9e576d430e1"
+   "bytes": 111713,
+   "sha256": "db9cc12e23f47693961c67b0be7d84dcdf2bde0e7abf66632189458bfe27c25f"
   },
   {
    "path": "phase-diagrams/sgte/LaPu-14Liu.json",
@@ -9186,8 +9213,8 @@
   },
   {
    "path": "phase-diagrams/sgte/MgO-93Hal-LB.json",
-   "bytes": 110,
-   "sha256": "075a82e0e4ce714205e1368bf983fbfee8763b0db7857bcd8beb735312bac701"
+   "bytes": 438,
+   "sha256": "0f4a06d1efb7f1f4b31ce01879b8cdd01829eefc5978a50cf308389ca2f8931a"
   },
   {
    "path": "phase-diagrams/sgte/MgPb-14Zha-ass.json",
@@ -9236,8 +9263,8 @@
   },
   {
    "path": "phase-diagrams/sgte/MgS-16Dil.json",
-   "bytes": 107,
-   "sha256": "40e5f2d9b8dbec8444bc5295fbab8986e648c43f22a42ec24d809f0366cab140"
+   "bytes": 435,
+   "sha256": "4b0c601ad3fc10c19d23ab20132eada9eef82a3873f4de33c7e258937dba8ccf"
   },
   {
    "path": "phase-diagrams/sgte/MgSb-05Bal.json",
@@ -9401,8 +9428,8 @@
   },
   {
    "path": "phase-diagrams/sgte/MgY-98Luk.json",
-   "bytes": 110,
-   "sha256": "92e5cc21330088fbfb9f9b8fb670151f2a546c431baf6662b7c8e9943d4490f6"
+   "bytes": 26011,
+   "sha256": "e66b05f467f83fba430a25ad7cd305a3d342b0f35da6ac6704c89443d86687f0"
   },
   {
    "path": "phase-diagrams/sgte/MgYb-06Guo-LB.json",
@@ -9731,8 +9758,8 @@
   },
   {
    "path": "phase-diagrams/sgte/MnTi-23Wal-3g.json",
-   "bytes": 162,
-   "sha256": "e7a6f3c0d007616229ce12744c0c944c61de5be2810e9b59ab97bb0f8ac8f2b6"
+   "bytes": 490,
+   "sha256": "31f1b3e6a5179777d597189f942a2572528bf1b2bff7a2e2d7c06314af677f09"
   },
   {
    "path": "phase-diagrams/sgte/MnTi-98Sau-LB.json",
@@ -9946,13 +9973,13 @@
   },
   {
    "path": "phase-diagrams/sgte/MoRe-13Mat-edited.json",
-   "bytes": 173,
-   "sha256": "347d56b9dde95c9fae1581529910d8acdd41f184bc9178f8ece139be5d5c73ba"
+   "bytes": 501,
+   "sha256": "bf5c2570e08afcbb9ba02a67a0be930ec9e43d4b2fe89dd4cd56f78c51fbdfe6"
   },
   {
    "path": "phase-diagrams/sgte/MoRe-13Mat-orig.json",
-   "bytes": 171,
-   "sha256": "f90671fe7ce0068934d285c4b225787878a2f1dcb3eb7c87d83b2308f475718d"
+   "bytes": 499,
+   "sha256": "84bcb8e18c4edb4f1b3949b2ad242df6d22a8b0e42049a9f6f60d9cadf85fd60"
   },
   {
    "path": "phase-diagrams/sgte/MoRe-20Yen.json",
@@ -10186,13 +10213,13 @@
   },
   {
    "path": "phase-diagrams/sgte/NaRb-11Ren.json",
-   "bytes": 7105,
-   "sha256": "e6b21e0e6fdf4ba35859dc72f12c8d0419c534ff1ab6bc43b2967ac33ccbf6ba"
+   "bytes": 7401,
+   "sha256": "88380f9fc0577140090f1268f249190e7c8f57b02a65a77deb0dae2f63601273"
   },
   {
    "path": "phase-diagrams/sgte/NaRb-85Pot-LB.json",
-   "bytes": 7433,
-   "sha256": "7b53eff4bb77e8312992556799e2e254d5feee69a10390eb3e3f1fa0537ac015"
+   "bytes": 7729,
+   "sha256": "59dcd4ab4a2a4edd48d35b55c1efdd673f93c2936f3c92fd027a3b7509c950da"
   },
   {
    "path": "phase-diagrams/sgte/NaSb-13Liu.json",
@@ -11176,8 +11203,8 @@
   },
   {
    "path": "phase-diagrams/sgte/NiV-19Noo-full.json",
-   "bytes": 169,
-   "sha256": "e22b6fbd25b58571345113fcffeeda2f2f651b223bbf8f07d8e13751aaa6524b"
+   "bytes": 497,
+   "sha256": "ac045180eb260220d9535e9722672b50b372d6b489f6b18da046a8a29fe80d3e"
   },
   {
    "path": "phase-diagrams/sgte/NiV-19Noo-simple.json",
@@ -11546,8 +11573,8 @@
   },
   {
    "path": "phase-diagrams/sgte/PdO-22Lau.json",
-   "bytes": 107,
-   "sha256": "a9d3186595b076aa1af42da89ec0d5aa632c55bc52e71922a219f4d7c6e76f5f"
+   "bytes": 435,
+   "sha256": "d605709c5ffc5f4e1692e4d34980e328c4231746f97c6a8d6947a81da6bdf6f7"
   },
   {
    "path": "phase-diagrams/sgte/PdPt-91Oka.json",
@@ -11771,8 +11798,8 @@
   },
   {
    "path": "phase-diagrams/sgte/PtRu-98Spe-LB.json",
-   "bytes": 26375,
-   "sha256": "9261a8e056728c257156d774787b348fa63e3b43b5a00605574d4939b842c7e9"
+   "bytes": 26671,
+   "sha256": "11b67ac64986aa305a5bd7b28b2f50b77f74b26d0264176486bca39e8ea09e34"
   },
   {
    "path": "phase-diagrams/sgte/PtSb-14Guo.json",
@@ -11951,8 +11978,8 @@
   },
   {
    "path": "phase-diagrams/sgte/ReW-02Fri.json",
-   "bytes": 164,
-   "sha256": "d7e7f604b536a9fb1d033992a070a8b16141cacc9ffb7d7b46188293252ec4c8"
+   "bytes": 492,
+   "sha256": "344182e313e433799a833544f8dc07776a6dd06cb22497d59634c1684962840f"
   },
   {
    "path": "phase-diagrams/sgte/ReY-10Zac.json",
@@ -11981,13 +12008,13 @@
   },
   {
    "path": "phase-diagrams/sgte/RhO-18Gos.json",
-   "bytes": 12866,
-   "sha256": "d444b3c2cb0416d959a7d11622e324256a6847ebf3abc0d95114c6b0b02e592d"
+   "bytes": 13162,
+   "sha256": "5ba0020f47ac7f603d79f5d78367d05155c519a74702eff65aee3f68538ada2b"
   },
   {
    "path": "phase-diagrams/sgte/RhO-22Lau.json",
-   "bytes": 18993,
-   "sha256": "c0d35fc6ff9bdbff73b2fae3108408f500a7493bc0d115affaad6a5463358e6a"
+   "bytes": 19289,
+   "sha256": "693b155932c18713beff8d4ab899c307949561b255d36b7cf10c6d914506b792"
   },
   {
    "path": "phase-diagrams/sgte/RhRu-16Gos.json",
@@ -12271,8 +12298,8 @@
   },
   {
    "path": "phase-diagrams/sgte/ScO-07Zin.json",
-   "bytes": 107,
-   "sha256": "1a348d9211cf5ee578390336412c69b404d5f7f61be4269a9048a4190905fdc0"
+   "bytes": 435,
+   "sha256": "b41b349bc5b2df0c6fb8c6066085067de20d8ad93d70f07762e77e3e2c8e5e22"
   },
   {
    "path": "phase-diagrams/sgte/ScSi-08GTT.json",
@@ -12436,8 +12463,8 @@
   },
   {
    "path": "phase-diagrams/sgte/SiO-20Baj-3g.json",
-   "bytes": 258,
-   "sha256": "1732aea763353f5637d723c2185a771d3233174a6a75c5c9c08068995464dfea"
+   "bytes": 586,
+   "sha256": "1ec36f018c6978af921d30a5a017bb56871d15d2ce307bcdf8fed70e72bb3d8b"
   },
   {
    "path": "phase-diagrams/sgte/SiO-92Hal.json",
@@ -12656,8 +12683,8 @@
   },
   {
    "path": "phase-diagrams/sgte/SiZn-24Zob-3g.json",
-   "bytes": 259,
-   "sha256": "9e473de1edc6606b4dc53cc8763a4c9cf087cc9ebc076798a085010e255ede50"
+   "bytes": 587,
+   "sha256": "9b26d8626760a08382b82bf921b2b61a7ff7f9796a2e7456573e1defed66e13f"
   },
   {
    "path": "phase-diagrams/sgte/SiZn-86Mey.json",
@@ -13216,18 +13243,18 @@
   },
   {
    "path": "phase-diagrams/sgte/TiO-15Ham.json",
-   "bytes": 107,
-   "sha256": "71f8cb32a0cc5ffada657a8e2ac96fa7c0210c1042bb40f1ac066a404a599710"
+   "bytes": 435,
+   "sha256": "1e3909d910f0673c49065ecb9c96a5eccf7f3fb65afa912c5a49b2e8fe28fe61"
   },
   {
    "path": "phase-diagrams/sgte/TiO-17Ila.json",
-   "bytes": 107,
-   "sha256": "b2202b934d0ca7b5c24174177227f267170551a827b1a7c105164b979e60d3c5"
+   "bytes": 435,
+   "sha256": "001bfb85b712857e45b95be6b8ba10bc5c216a4646c79dfd94591e363aa3c907"
   },
   {
    "path": "phase-diagrams/sgte/TiO-17Yan.json",
-   "bytes": 107,
-   "sha256": "0eeef3bb1f00494556e647123787ee3a6ff0f77c5b923c626d4819c1a31e1704"
+   "bytes": 435,
+   "sha256": "231319d07aa79974c06756f53395fc1378117943e1c8b42d2409d729b523e1f6"
   },
   {
    "path": "phase-diagrams/sgte/TiO-94Lee.json",
@@ -13281,8 +13308,8 @@
   },
   {
    "path": "phase-diagrams/sgte/TiV-20Hu-3g.json",
-   "bytes": 255,
-   "sha256": "88f602a73afac604e91184d6ce3ef043975e4313c1d95fd37759dbe5c96384b8"
+   "bytes": 583,
+   "sha256": "492a27e3c9da6f3c2bc81b68e2e47955af2a8be21ca8c74ecf6caf3be5e1ced5"
   },
   {
    "path": "phase-diagrams/sgte/TiV-90Sau.json",
@@ -13366,8 +13393,8 @@
   },
   {
    "path": "phase-diagrams/sgte/TiZr-94Har-LB.json",
-   "bytes": 21602,
-   "sha256": "e54835faebdc1b13ca714de6aadf2b4300ad1e802e5f36807bfcf6365cde2153"
+   "bytes": 21898,
+   "sha256": "365c69aff85a6c816a51eaeb75fb8329046191b22221e11e4ce7422c40eae457"
   },
   {
    "path": "phase-diagrams/sgte/TlSe-00Roe-LB.json",
@@ -13436,8 +13463,8 @@
   },
   {
    "path": "phase-diagrams/sgte/UO-02Gue.json",
-   "bytes": 39559,
-   "sha256": "ee2e3095923da9e9618815bf6324484f69d2ff07760562a5e9111098bd2fc322"
+   "bytes": 39855,
+   "sha256": "892faeb17144d56f451eae6c62d8ffcf46d14517be0b2faaf319a61b4f6b216b"
   },
   {
    "path": "phase-diagrams/sgte/UO-04Che.json",
@@ -13571,13 +13598,13 @@
   },
   {
    "path": "phase-diagrams/sgte/VO-15Yan-ver1.json",
-   "bytes": 93,
-   "sha256": "8a7384c4ee3865b7364a57eabbc8fc07c444129f0c6783d59ac62d1999ef0fc8"
+   "bytes": 421,
+   "sha256": "49023329450c0919bd64d26adfa6b0713947b0d56e1ffa4e85c9baca77b8c6e3"
   },
   {
    "path": "phase-diagrams/sgte/VO-15Yan-ver2.json",
-   "bytes": 93,
-   "sha256": "1566731dff35b025a32b2ee0bc96b7d1f467e48c7732ad109e7e01f51aaa4fbe"
+   "bytes": 421,
+   "sha256": "dd649c991ec9311c8f56c4e01e39147f4f045c7d3cabd4ed2f39043927d0d07d"
   },
   {
    "path": "phase-diagrams/sgte/VW-05Bra-LB.json",
@@ -13636,8 +13663,8 @@
   },
   {
    "path": "phase-diagrams/sgte/WC-22He-3g.json",
-   "bytes": 254,
-   "sha256": "39bf083835e48406c2266d0b1b32ceff014cbd8e87323d5615e2d3170c8a7d0f"
+   "bytes": 582,
+   "sha256": "77bb254e704d69661406d0896b24b180d8b06fbfc9bcd06885056b80be2c5fa6"
   },
   {
    "path": "phase-diagrams/sgte/WC-86Gus.json",
@@ -13721,18 +13748,18 @@
   },
   {
    "path": "phase-diagrams/sgte/YO-96Gro.json",
-   "bytes": 105,
-   "sha256": "efabdb6a185d32d86f0f919f498d975862f6b36bb84a4fb984ef4326f0013454"
+   "bytes": 433,
+   "sha256": "d3cfb0f6b38a7867e3a259713997bf517399db3643c11798aae4bedf02be659c"
   },
   {
    "path": "phase-diagrams/sgte/YO-98Swa-LB.json",
-   "bytes": 108,
-   "sha256": "217a137241bb2d1728337cac70d0ab1c13e8f32f7c878de5e3964df8ab253edc"
+   "bytes": 436,
+   "sha256": "ff23305c9fa71130080b0eb47a8ce5b067afab9ff3b6da9780db4494ee450e6f"
   },
   {
    "path": "phase-diagrams/sgte/YO-98Swa-orig.json",
-   "bytes": 110,
-   "sha256": "9fd0a8391bf0dbda1e7acd9a7af82d38683f4c97b8d7e04b55c1863a40eda5b9"
+   "bytes": 438,
+   "sha256": "19144f6ea89aee154ccf0db84212b80066dc3267b559e1710ebe8eca9ca67dea"
   },
   {
    "path": "phase-diagrams/sgte/YZn-06Sha.json",
@@ -13806,8 +13833,8 @@
   },
   {
    "path": "phase-diagrams/sgte/ZnS-17Gua.json",
-   "bytes": 90,
-   "sha256": "237042d07688db88584ffed9d1390f969dedd9911199ae53b5f8701d58d8f126"
+   "bytes": 418,
+   "sha256": "6b43f9540f2b14f7f6a5fae84179d43a1822aa6db34be908c6af996096dd1249"
   },
   {
    "path": "phase-diagrams/sgte/ZnSe-14Che.json",
@@ -13916,8 +13943,8 @@
   },
   {
    "path": "phase-diagrams/sgte/ZrO-06Wan.json",
-   "bytes": 107,
-   "sha256": "c67fedc95a2aae76810f7477f7d35edd2a399878d445a8aaf57d27b1ebf2c266"
+   "bytes": 435,
+   "sha256": "dd3604984309522693955fe320a6bc777c73fd745e7fb79566b93369fbb5ed39"
   },
   {
    "path": "phase-diagrams/sgte/ZrO-23Jia.json",
@@ -13936,13 +13963,18 @@
   },
   {
    "path": "phase-diagrams/sgte/unary50_bengt.json",
-   "bytes": 257,
-   "sha256": "f1bb23aaf3fe33b3d86e16d6f37aea8adaa3283205ffbc09c75f8341a15087d7"
+   "bytes": 585,
+   "sha256": "221387d259cee9c5abab76454de624e05ea50112edaf8dba691326ea38132f6e"
+  },
+  {
+   "path": "phase-diagrams/temperature-extent.schema.json",
+   "bytes": 1397,
+   "sha256": "b9af4f3ae4ce2d0b0d992e6a134d04a4a533c3c7798d6cac06f258b1640a3983"
   },
   {
    "path": "zenodo/phase-diagrams.metadata.json",
-   "bytes": 6097,
-   "sha256": "9c41fc8ef162661f84cf40dafdf2a9fafb7a7198716d74670ca81ff2a0858c46"
+   "bytes": 11452,
+   "sha256": "98af416712a2539457fa46c8f63dcb5da853982b227e2318269116db54e10008"
   }
  ]
 }

@@ -385,7 +385,7 @@ Table: Enthalpies of formation, Fe–Y system (118)
 | Fe17Y2 |  | -1.04 kJ/mol-atom | 0 | DFT |  |  | [3] Fan 2021 | Table 3, p. 5, row 1; `ORC-IQGX5X6JBF.8b325b` |  |
 | Fe23Y6 | [Fe23Y6](https://data.orchid-project.org/compounds/Fe23Y6.html) | -12.97 kJ/mol-atom | 298.15 | model | -4.013 (mp-aaaabtin) | -4.022 (oqmd-30269) | [3] Fan 2021; _cites Conclusions_ | Table 3, p. 5, row 18; `ORC-NBTSZMENSE.4b3ddc` |  |
 | Fe23Y6 | [Fe23Y6](https://data.orchid-project.org/compounds/Fe23Y6.html) | -12.97 kJ/mol-atom | 298.15 | model | -4.013 (mp-aaaabtin) | -4.022 (oqmd-30269) | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 17; `ORC-U4RZPZU4UN.0b1ed0` |  |
-| Fe23Y6 |  | -12.97 per mol-atom | 298.15 | model |  |  | [1] Kardellass 2014 | Table 4, p. 4, row 10; `ORC-WSVTPMHGHH` |  |
+| Fe23Y6 | [Fe23Y6](https://data.orchid-project.org/compounds/Fe23Y6.html) | -12.97 kJ/mol-atom | 298.15 | model | -4.013 (mp-aaaabtin) | -4.022 (oqmd-30269) | [1] Kardellass 2014 | Table 4, p. 4, row 10; `ORC-WSVTPMHGHH` |  |
 | Fe23Y6 |  | -12.65 per mol-atom | 973 | model |  |  | [1] Kardellass 2014 | Table 4, p. 4, row 8; `ORC-2UHDR37CG6` |  |
 | Fe23Y6 | [Fe23Y6](https://data.orchid-project.org/compounds/Fe23Y6.html) | -12.65 kJ/mol-atom |  | model | -4.013 (mp-aaaabtin) | -4.022 (oqmd-30269) | [3] Fan 2021; _cites Conclusions_ | Table 3, p. 5, row 18; `ORC-NBTSZMENSE.51651c` |  |
 | Fe23Y6 | [Fe23Y6](https://data.orchid-project.org/compounds/Fe23Y6.html) | -12.65 kJ/mol-atom | 973 | model | -4.013 (mp-aaaabtin) | -4.022 (oqmd-30269) | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 21; `ORC-R7FXTYB7WY.dac8b5` |  |
@@ -446,7 +446,7 @@ Table: Enthalpies of formation, Fe–Y system (118)
 | Fe3Y |  | -12.49 per mol-atom | 973 | model |  |  | [1] Kardellass 2014 | Table 4, p. 4, row 12; `ORC-CWA5H2AU7R` |  |
 | Fe3Y |  | -8.97 per mol-atom ± 0.54 | 973 | experimental |  |  | [1] Kardellass 2014; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 4, p. 4, row 11; `ORC-IUTVR3JHDP` |  |
 | Fe3Y | [Fe3Y](https://data.orchid-project.org/compounds/Fe3Y.html) | -8.97 kJ/mol-atom ± 0.54 | 973 | experimental | -5.882 (mp-aaacksts) | -6.168 (oqmd-30268) | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 27; `ORC-KU7WUHD2V2.95a003` |  |
-| Fe3Y | [Fe3Y](https://data.orchid-project.org/compounds/Fe3Y.html) | -8.97 kJ/mol-atom ± 0.54 | 298.15 | experimental | -5.882 (mp-aaacksts) | -6.168 (oqmd-30268) | [3] Fan 2021; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 3, p. 5, row 22; `ORC-LWPFTJDOIO.051628` |  |
+| Fe3Y | [Fe3Y](https://data.orchid-project.org/compounds/Fe3Y.html) | -8.97 kJ/mol-atom ± 0.54 | 973 | experimental | -5.882 (mp-aaacksts) | -6.168 (oqmd-30268) | [3] Fan 2021; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 3, p. 5, row 22; `ORC-LWPFTJDOIO.051628` |  |
 | Fe3Y | [Fe3Y](https://data.orchid-project.org/compounds/Fe3Y.html) | -8.94 kJ/mol-atom | 973 | model | -5.882 (mp-aaacksts) | -6.168 (oqmd-30268) | [2] Saenko 2017 | Table 5, p. 12, row 28; `ORC-6QGDDSNWBF.5f09e3` |  |
 | Fe3Y | [Fe3Y](https://data.orchid-project.org/compounds/Fe3Y.html) | -8.94 kJ/mol-atom |  | model | -5.882 (mp-aaacksts) | -6.168 (oqmd-30268) | [3] Fan 2021; _cites Saenko 2017_ [doi](https://doi.org/10.1007/s11669-017-0574-3) | Table 3, p. 5, row 24; `ORC-N5BIUSXTPY.4d6736` |  |
 | Fe3Y |  | -7.6 kJ/mol-atom | 0 | DFT |  |  | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 22; `ORC-OYETQZQQ2U.3578f6` |  |
@@ -665,10 +665,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -677,7 +677,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -688,7 +688,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -698,7 +698,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -708,7 +708,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

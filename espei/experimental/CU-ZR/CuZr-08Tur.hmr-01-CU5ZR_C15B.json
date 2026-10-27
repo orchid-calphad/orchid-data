@@ -58,11 +58,11 @@
    "value": 500.0,
    "name": "ESPEI experimental default sigma_HM = 500 J/mol"
   },
-  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset",
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); this export uses a scalar weight for equilibrium/activity data; unequal-sigma groups are split before release",
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
-    "sigma": 788.0,
+    "sigma": 77.0,
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 77.0,
@@ -74,15 +74,14 @@
      "sigma_effective": 3588.0,
      "method_class": "unknown",
      "method_basis": "calibrated",
-     "method_n_pairs": 297,
+     "method_n_pairs": 290,
      "method_entry": "value_types/HM_FORM/classes/unknown"
     },
     "printed": {
-     "value": 0.788,
+     "value": 0.077,
      "unit": "kJ/mol-atom",
-     "interval": "printed sigma combined in quadrature with |dx| x local hull slope: the source measured the historical formula of this phase (page-checked; printed sigma in the record's uncertainty_stored)",
-     "coverage": "printed_with_composition_offset",
-     "note": "sqrt(0.077^2 + (|dx| 0.0152 x slope 51.76 kJ/mol per unit x)^2): printed sigma and the offset between Cu9Zr2 (measured, x_Zr 0.1818) and Cu5Zr (x_Zr 0.1667); slope = median |slope| of the 298.15 K lower hull segment in nine Cu-Zr assessments (open-tdb sgte-binary CuZr-*.tdb)"
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
     },
     "sigma_effective_used": 3588.0,
     "weight_per_value_equivalent": 0.139353,
@@ -92,8 +91,8 @@
  },
  "orchid_weight_floor": {
   "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
-  "suggested_weight": 0.634518,
-  "weight_before_2026_10_24": 0.634518,
+  "suggested_weight": 1.0,
+  "weight_before_2026_10_24": 6.493506,
   "weight_written": 0.139353,
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",

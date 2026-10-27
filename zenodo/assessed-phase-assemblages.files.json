@@ -9,17 +9,29 @@
   "LICENSE",
   "LICENSES.md",
   "NOTICE.md",
+  "CITATIONS.md",
+  "CITATIONS.json",
   "zenodo/assessed-phase-assemblages.metadata.json",
   "assessed-phase-assemblages/**"
  ],
  "exclude": [],
- "n_files": 2159,
- "total_bytes": 41136512,
+ "n_files": 2161,
+ "total_bytes": 41133061,
  "files": [
   {
    "path": "CHANGELOG.md",
    "bytes": 38061,
    "sha256": "60c9cd9470d8dd4d55dedbf8790b1c6f161b2419386b9585d513e0a1b8615f39"
+  },
+  {
+   "path": "CITATIONS.json",
+   "bytes": 3453,
+   "sha256": "f2f881fda27aacd27051b6ed831dad4fa1fb63b521276d7b09d69c1c79344500"
+  },
+  {
+   "path": "CITATIONS.md",
+   "bytes": 3426,
+   "sha256": "f796bcefb8ed75fc904988509dc75befe59aaa0c9d15d9e1379615d7c0841516"
   },
   {
    "path": "LICENSE",
@@ -38,18 +50,18 @@
   },
   {
    "path": "README.md",
-   "bytes": 8741,
-   "sha256": "0746df14f5ddfed9e0be2ff89ab1d05220a6f80bcdf0042b41f9886ac6e977fa"
+   "bytes": 9300,
+   "sha256": "4055c5f5ee11cee87769a5bbf833b1d750d657a4741b5ae4e1bbb1789c8973bb"
   },
   {
    "path": "assessed-phase-assemblages/CITATION.cff",
-   "bytes": 1891,
-   "sha256": "5477b2e803de425a4c7029e25599267168bca5215b912f3d401825c99cb95d28"
+   "bytes": 1905,
+   "sha256": "f18a7c81dc0700fb029a0005273b4f39244b0a7f279778b23d12e3923aa8ac79"
   },
   {
    "path": "assessed-phase-assemblages/README.md",
-   "bytes": 10171,
-   "sha256": "86560a0919c364179112b8811b78526466928072c35cfc81c89f188c4f04a855"
+   "bytes": 10225,
+   "sha256": "7c9e98e239ee7a04429a299bb552a4e81127cf990ca6bf624845976439e226d8"
   },
   {
    "path": "assessed-phase-assemblages/SCHEMA.md",
@@ -73,8 +85,8 @@
   },
   {
    "path": "assessed-phase-assemblages/dense-field-grid/records.parquet",
-   "bytes": 35733,
-   "sha256": "fb12bbf59d34edcdec6c35606473b3eac57f906c72a03273287a1d411e087609"
+   "bytes": 36141,
+   "sha256": "03f9ff32191b4dde31910606dce4de8ba3e6b78addd6a0d26b642f61396e5a41"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-dense/CU-ZR-p371.json",
@@ -498,8 +510,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/AL-MO-p81.json",
-   "bytes": 17866,
-   "sha256": "d7def92674dccad660c1e0a38dfe7f1454986bd8c8c55f7ff771503c246612dd"
+   "bytes": 20597,
+   "sha256": "5456beaf86472395bc3b584beaf546d524535643868841099f819bb419505f83"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/AL-NA-p81.json",
@@ -1403,8 +1415,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/BI-TL-p207.json",
-   "bytes": 12104,
-   "sha256": "3b08909f2f8e1feb87ce1ebae2ae221141c5dad54dea8b711551576569a68770"
+   "bytes": 10562,
+   "sha256": "7043ce55bec788b7aba8793a2f86683b608d4a4fc0be36814908494cd2388c2a"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/BI-TM-p207.json",
@@ -1733,8 +1745,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/CD-IN-p253.json",
-   "bytes": 8570,
-   "sha256": "d38ed00d6ece4518ced05f203425881fab6323f6c7caea36fe18a3182da13871"
+   "bytes": 7774,
+   "sha256": "c87b3a0a5cd24ab6c53a67ce5f6633e6de8e18cc2769ce3bcef9fc1152d77ca7"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/CD-MG-p254.json",
@@ -1963,8 +1975,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/CO-GD-p303.json",
-   "bytes": 15991,
-   "sha256": "d504cce712666e92c36908d5e9539859e3a70ca94b005c6cf9545e793d56cd00"
+   "bytes": 13750,
+   "sha256": "8f63a138022b4237f13518e866f575fe46b754765fa32dac598da59668c1b9f6"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/CO-GE-p304.json",
@@ -2278,8 +2290,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/CS-K-p344.json",
-   "bytes": 5758,
-   "sha256": "a67198c03c31837401b1ea3be9093ea673631b3cdd0991e73b5206a1a2e0fa31"
+   "bytes": 4215,
+   "sha256": "aafe03833f3d8e883d79af156f59bfafc99fccc4f1c2447800383214e34683cc"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/CS-MO-p345.json",
@@ -4798,8 +4810,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/PD-ZR-p736.json",
-   "bytes": 12060,
-   "sha256": "aee52e5b7acdcb51e9519b301283c10e0121b5ac6c9ec0a68596217100765de1"
+   "bytes": 9272,
+   "sha256": "3255dd1dc12fe3ef185871480b1fa615ade560f424149766ac3f3efae0dded4a"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/PR-SB-p742.json",
@@ -5008,8 +5020,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/S-TI-p789.json",
-   "bytes": 11399,
-   "sha256": "4b4f139dea27468a8510ad19dd80d47a1c4d18da332378843498380306dc90c6"
+   "bytes": 7989,
+   "sha256": "99594664b6bb6a01ab8016da7b78d3c61794652379d39b2d34950a7cff18bbc7"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/SB-SE-p792.json",
@@ -5838,8 +5850,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/AL-MO-p81.json",
-   "bytes": 18661,
-   "sha256": "83e45acc81fd84c88288d372ab8b440f720871cbf5b5223eb902225a473a236b"
+   "bytes": 21610,
+   "sha256": "57e143e7f3bc12ebed6b45d2663dae89567632ed1e020c9847c0030e7e1539e5"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/AL-NA-p81.json",
@@ -6743,8 +6755,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/BI-TL-p207.json",
-   "bytes": 12243,
-   "sha256": "f5a9d5a6fd8cc82ad05be8ca9fdbc3f15e6ebbf113ef615b14c0e671dd213f9f"
+   "bytes": 10701,
+   "sha256": "7faced44aeab6a2c6276cf05f249c35b8f29ee1e98975d4f01bd411f27d5acb1"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/BI-TM-p207.json",
@@ -7073,8 +7085,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/CD-IN-p253.json",
-   "bytes": 8618,
-   "sha256": "23ac5e8095833c039928c7dd7c941fad1d7cdcef3a3ccd6d5847a5bdb6558317"
+   "bytes": 7822,
+   "sha256": "ad2a4ac7d0d31df693f63aedb6ad2f2747a2f3e8985ea7102b0e8b7fbe2c0f0b"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/CD-MG-p254.json",
@@ -7303,8 +7315,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/CO-GD-p303.json",
-   "bytes": 16658,
-   "sha256": "bbbd2bf55a6c2fb7b229035fadcaa800fdbf20a7a86c947ae4ed55547c9156a6"
+   "bytes": 14339,
+   "sha256": "53564feed545d36e4170435639bd2fe86ce79dcb34cf92bd7b758bf0868cbeb3"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/CO-GE-p304.json",
@@ -7618,8 +7630,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/CS-K-p344.json",
-   "bytes": 5596,
-   "sha256": "ccd30b20d4b07442c9ccb5d57ce0648a7c08bdea5ab4eb37d1cfe8a9fc24b028"
+   "bytes": 4053,
+   "sha256": "ad91aca9bb7637304696ae29dc5b93462623241cebaab42a5cb831fa48bcd586"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/CS-MO-p345.json",
@@ -10138,8 +10150,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/PD-ZR-p736.json",
-   "bytes": 12188,
-   "sha256": "f30111ca00c604d81c71f4954e8d4278fe52128e77f01ad0617982723c24d584"
+   "bytes": 9253,
+   "sha256": "13b802d8c6abac61d0c4dcc4dadd354b9e9b2897bedf18c5deea276a2c91acad"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/PR-SB-p742.json",
@@ -10348,8 +10360,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/S-TI-p789.json",
-   "bytes": 11614,
-   "sha256": "05435ca1269920eb7164e916ada4e6a934bf5df073aadc0243e7693a6b9d80a9"
+   "bytes": 7913,
+   "sha256": "0c14fb7ad9de04db389bcf5b924180d99aebffc7b30546a4b6550ea4f9ff64f0"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf/SB-SE-p792.json",
@@ -10763,8 +10775,8 @@
   },
   {
    "path": "assessed-phase-assemblages/espei_exclusions.jsonl",
-   "bytes": 1812056,
-   "sha256": "e42e8cbcb5c4e27e53978f31707cc0c537a72f648b5fb3c2a54b8204b0ae2002"
+   "bytes": 1813833,
+   "sha256": "c029a8ea528a8fa51c6625a3373df8c1797c960d3be2f078333e560813d729fd"
   },
   {
    "path": "assessed-phase-assemblages/exclusions.csv",
@@ -10779,37 +10791,37 @@
   {
    "path": "assessed-phase-assemblages/parquet.json",
    "bytes": 332,
-   "sha256": "15cfcb75e67d053867e9bbb28f066fe97f4bf8a2e1fbe1a1f435c0283fc4d6bf"
+   "sha256": "2e5221166d8adedde1f31db052de72637db4f870712eb1c4606e21eb5427ca01"
   },
   {
    "path": "assessed-phase-assemblages/records.csv",
-   "bytes": 12639934,
-   "sha256": "806686457c0b65e5ec31882a09bbb387c61af6148410b27812f08d10e232c761"
+   "bytes": 12639690,
+   "sha256": "aa214b354d21442458ebed481f4c06802932d47445bb25c403ea48b7187d7626"
   },
   {
    "path": "assessed-phase-assemblages/records.jsonl.gz",
-   "bytes": 4772050,
-   "sha256": "b16dc815488f2fbd2925398c6cca1b9c0e44609360ead3f752b9f4e238e3ec77"
+   "bytes": 4771823,
+   "sha256": "4dfe227248911c3442f05b10694896926b8dbfe3cdabb8a5de575d70a4c006bc"
   },
   {
    "path": "assessed-phase-assemblages/records.parquet",
-   "bytes": 1721874,
-   "sha256": "9e97c50430d51bf35f5f27797cae1ba7694218381cdf0b4672365cebe9e127a4"
+   "bytes": 1722192,
+   "sha256": "7d21206f474f7a6c907b2708eb30b3879d65afd1a3cab0bfdb12ed9940c8d0cc"
   },
   {
    "path": "assessed-phase-assemblages/sgte_not_comparable.csv",
-   "bytes": 1214988,
-   "sha256": "88b0da344f834bc695de370f3f3b998dffee4514fdc4245f567dc19bf3f2bab5"
+   "bytes": 1215857,
+   "sha256": "766e900ef254dfaa797ff61e90e3502479f711f8553a4f61b6bece7b29801094"
   },
   {
    "path": "assessed-phase-assemblages/summary.json",
-   "bytes": 9547,
-   "sha256": "e4733dec49ffa2d9df373b3dd9259a38608606e133345e6fd72fa05253afde42"
+   "bytes": 9708,
+   "sha256": "2cb03320ffc863a6996071f91df165112c8516dcf755f9a8d1167086865757f7"
   },
   {
    "path": "zenodo/assessed-phase-assemblages.metadata.json",
-   "bytes": 4094,
-   "sha256": "db9d96ea96400b3f9ed0aa4b3311a80b87cb2da3da3b80ba287d25a0ec884c9a"
+   "bytes": 9551,
+   "sha256": "6867ec3f62f453f823e77cdfd1005b684219bf377aab1e19a90a99a5413e8f84"
   }
  ]
 }

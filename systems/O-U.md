@@ -1,10 +1,10 @@
 # O–U system
 
-> O–U system: 916 accepted literature values (phase equilibrium 601, phase transition 185, heat capacity / entropy / enthalpy 57, formation 44) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–U system: 915 accepted literature values (phase equilibrium 601, phase transition 185, heat capacity / entropy / enthalpy 57, formation 43) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-U.html · Markdown: https://data.orchid-project.org/systems/O-U.md
 
-916 accepted literature values from 4 paper(s) (experimental 570, model 337, unspecified 9); 0 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+915 accepted literature values from 4 paper(s) (experimental 570, model 336, unspecified 9); 0 calculated phase diagram(s). 26 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON part 1](https://data.orchid-project.org/literature/systems/O-U.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/O-U.part2.json) · [CSV](https://data.orchid-project.org/systems/O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-U) · [phases (21)](https://data.orchid-project.org/phases/pages/O-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-U.html) · [Markdown](https://data.orchid-project.org/systems/O-U.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 570 |
-| model | 337 |
+| model | 336 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 18 |
 | phase transition | 185 |
 | phase equilibrium | 601 |
-| formation | 44 |
+| formation | 43 |
 | heat capacity / entropy / enthalpy | 57 |
 | other property | 11 |
 
@@ -58,7 +58,7 @@ Table: Invariant reactions reported in the literature for the O–U system (18)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, O–U system (44)
+Table: Enthalpies of formation, O–U system (43)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -80,7 +80,6 @@ Table: Enthalpies of formation, O–U system (44)
 | U4O9 |  | -345.437 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2002; _cites Duquesnoy 1964_ | Table 10, p. 8, row 10; `ORC-YYPLL34JZZ` |  |
 | U4O9 (s) |  | -347.077 kJ/mol-atom ± 0.523 | 298.15 | model |  |  | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4; `ORC-JAS6F66KNN.682a48` |  |
 | U4O9 (s) |  | -346.864 kJ/mol-atom | 298.15 | model |  |  | [2] Guéneau 2002 | Table 4, p. 9, row 3; `ORC-ARH6QFMUVX.c56014` |  |
-| UNKNOWN |  | -304375 per mol-atom ± 750 | 298.15 | model |  |  | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8; `ORC-NBHL4NNFQR.30e385` |  |
 | UO (g) |  | 7.954 kJ/mol-atom | 298.15 | model |  |  | [2] Guéneau 2002 | Table 4, p. 9, row 11; `ORC-SAHSUVBSIT.0df3aa` |  |
 | UO (g) |  | 15.25 kJ/mol-atom ± 8.5 | 298.15 | model |  |  | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12; `ORC-KFBTWYZAFF.209a9b` |  |
 | UO2 | [UO2](https://data.orchid-project.org/compounds/UO2.html) | -361.637 kJ/mol-atom | 298.15 | model | -361.862 (mp-aaaaacjl) | -368.505 (oqmd-20358) | [1] Chevalier 2002 | Table 10, p. 8, row 5; `ORC-E4WJ4DM2JX.eeaeb6` |  |
@@ -979,16 +978,16 @@ Table: Other property, O–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: enthalpy of transition_ | 2845 J mol 1 | 330 | U4O9 | experimental | [1] Chevalier 2002; _cites Gotoo 1965_ [doi](https://doi.org/10.1016/0022-3697%2865%2990061-2) | p. 11; `ORC-U4DXCOIE7P.aa387f` | “The heat capacity of U4 O9 has been experimentally determined by calorimetry by Osborne et al. \[50\] from 5 to 310 K, by Gotoo and Naito \[51\] from 300 to 520 K, by quasi-adiabatic technique by Westrum and Takahashi \[52\] from 190 to 400 K, by adiabatic calorimetry by Gronvold et al. \[53\] from 300 to 1000 K, by adiabatic vacuum drop calorimetry by MacLeod \[54\] from 800 to 1600 K, by adiabatic calori…” |
-| Other; _printed: enthalpy of transition_ | 2527 unspecified ± 50 | 342 | U4O9 | experimental | [1] Chevalier 2002; _cites Inaba 1973_ | p. 11; `ORC-U4DXCOIE7P.b9167a` | “The heat capacity of U4 O9 has been experimentally determined by calorimetry by Osborne et al. \[50\] from 5 to 310 K, by Gotoo and Naito \[51\] from 300 to 520 K, by quasi-adiabatic technique by Westrum and Takahashi \[52\] from 190 to 400 K, by adiabatic calorimetry by Gronvold et al. \[53\] from 300 to 1000 K, by adiabatic vacuum drop calorimetry by MacLeod \[54\] from 800 to 1600 K, by adiabatic calori…” |
-| Other; _printed: enthalpy of transition_ | 2510 unspecified ± 33 | 348 | U4O9 | experimental | [1] Chevalier 2002; _cites Westrum 1965_ [doi](https://doi.org/10.1021/j100893a515) | p. 11; `ORC-U4DXCOIE7P.0f21d4` | “The heat capacity of U4 O9 has been experimentally determined by calorimetry by Osborne et al. \[50\] from 5 to 310 K, by Gotoo and Naito \[51\] from 300 to 520 K, by quasi-adiabatic technique by Westrum and Takahashi \[52\] from 190 to 400 K, by adiabatic calorimetry by Gronvold et al. \[53\] from 300 to 1000 K, by adiabatic vacuum drop calorimetry by MacLeod \[54\] from 800 to 1600 K, by adiabatic calori…” |
-| Other; _printed: enthalpy of transition_ | 2760 unspecified ± 280 | 348 | U4O9 | experimental | [1] Chevalier 2002; _cites Gronvold 1970_ | p. 11; `ORC-U4DXCOIE7P.1aae82` | “The heat capacity of U4 O9 has been experimentally determined by calorimetry by Osborne et al. \[50\] from 5 to 310 K, by Gotoo and Naito \[51\] from 300 to 520 K, by quasi-adiabatic technique by Westrum and Takahashi \[52\] from 190 to 400 K, by adiabatic calorimetry by Gronvold et al. \[53\] from 300 to 1000 K, by adiabatic vacuum drop calorimetry by MacLeod \[54\] from 800 to 1600 K, by adiabatic calori…” |
-| Other; _printed: enthalpy of transition_ | 2594 unspecified | 348 | U4O9 | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | p. 11; `ORC-U4DXCOIE7P.f99467` | “The heat capacity of U4 O9 has been experimentally determined by calorimetry by Osborne et al. \[50\] from 5 to 310 K, by Gotoo and Naito \[51\] from 300 to 520 K, by quasi-adiabatic technique by Westrum and Takahashi \[52\] from 190 to 400 K, by adiabatic calorimetry by Gronvold et al. \[53\] from 300 to 1000 K, by adiabatic vacuum drop calorimetry by MacLeod \[54\] from 800 to 1600 K, by adiabatic calori…” |
-| Other; _printed: enthalpy of transition_ | 172 J mol 1 ± 4 | 482.7 | U3O8 | experimental | [1] Chevalier 2002; _cites Popov 1958_ | p. 11; `ORC-GSD7BMN2PE.fbb2ec` | “The heat capacity of U3 O8 has been experimentally determined by calorimetry by Popov et al. \[56\] from 380 to 707 K, Girdhar and Westrum \[57\] from 300 to 555 K, Maglic and Herak \[58\] from 273 to 1000 K, by adiabatic scanning calorimetry by Inaba et al. \[59\] from 310 to 970 K. A reversible k-type anomaly was observed at 482.7 K with an enthalpy of transition of 172  4 J mol1 \[56\], 481 K \[57\]. Th…” |
-| Other; _printed: enthalpy of transition_ | 405 J mol 1 ± 21 | 483 | U3O8 | experimental | [1] Chevalier 2002; _cites Maglic 2002_ | p. 11; `ORC-GSD7BMN2PE.f97b36` | “The heat capacity of U3 O8 has been experimentally determined by calorimetry by Popov et al. \[56\] from 380 to 707 K, Girdhar and Westrum \[57\] from 300 to 555 K, Maglic and Herak \[58\] from 273 to 1000 K, by adiabatic scanning calorimetry by Inaba et al. \[59\] from 310 to 970 K. A reversible k-type anomaly was observed at 482.7 K with an enthalpy of transition of 172  4 J mol1 \[56\], 481 K \[57\]. Th…” |
-| Other; _printed: enthalpy of transition_ | 444 J mol 1 ± 21 | 568 | U3O8 | experimental | [1] Chevalier 2002; _cites Maglic 2002_ | p. 11; `ORC-GSD7BMN2PE.e978df` | “The heat capacity of U3 O8 has been experimentally determined by calorimetry by Popov et al. \[56\] from 380 to 707 K, Girdhar and Westrum \[57\] from 300 to 555 K, Maglic and Herak \[58\] from 273 to 1000 K, by adiabatic scanning calorimetry by Inaba et al. \[59\] from 310 to 970 K. A reversible k-type anomaly was observed at 482.7 K with an enthalpy of transition of 172  4 J mol1 \[56\], 481 K \[57\]. Th…” |
-| Other; _printed: enthalpy of transition_ | 942 J mol 1 ± 81 | 850 | U3O8 | experimental | [1] Chevalier 2002; _cites Maglic 2002_ | p. 11; `ORC-GSD7BMN2PE.5f3045` | “The heat capacity of U3 O8 has been experimentally determined by calorimetry by Popov et al. \[56\] from 380 to 707 K, Girdhar and Westrum \[57\] from 300 to 555 K, Maglic and Herak \[58\] from 273 to 1000 K, by adiabatic scanning calorimetry by Inaba et al. \[59\] from 310 to 970 K. A reversible k-type anomaly was observed at 482.7 K with an enthalpy of transition of 172  4 J mol1 \[56\], 481 K \[57\]. Th…” |
-| Other; _printed: enthalpy increment_ | 11900 J mol 1 | 1400 |  | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | p. 11; `ORC-U4DXCOIE7P.004f2e` | “The heat capacity of U4 O9 has been experimentally determined by calorimetry by Osborne et al. \[50\] from 5 to 310 K, by Gotoo and Naito \[51\] from 300 to 520 K, by quasi-adiabatic technique by Westrum and Takahashi \[52\] from 190 to 400 K, by adiabatic calorimetry by Gronvold et al. \[53\] from 300 to 1000 K, by adiabatic vacuum drop calorimetry by MacLeod \[54\] from 800 to 1600 K, by adiabatic calori…” |
+| Other; _printed: enthalpy of transition_ | 2845 J mol 1 | 330 | U4O9 | experimental | [1] Chevalier 2002; _cites Gotoo 1965_ [doi](https://doi.org/10.1016/0022-3697%2865%2990061-2) | p. 11; `ORC-U4DXCOIE7P.aa387f` | “A k-type anomaly was observed with a maximum at 330 K, and an associated enthalpy of transition equal to 2845 J mol1 \[51\], 348 K, 2510  33 J mol1 \[52\], 348 K, 2760  280 J mol1 \[53\], 2427 J mol1 \[54\], 342 K, 2527  50 J mol1 \[55\], 348 K, 2594 J mol1 \[37\]. A small irregularity in the heat capacity was observed in the region 900-950 K with an entropy increment of 0.15 J mol1 K1 . An order-…” |
+| Other; _printed: enthalpy of transition_ | 2527 unspecified ± 50 | 342 | U4O9 | experimental | [1] Chevalier 2002; _cites Inaba 1973_ | p. 11; `ORC-U4DXCOIE7P.b9167a` | “A k-type anomaly was observed with a maximum at 330 K, and an associated enthalpy of transition equal to 2845 J mol1 \[51\], 348 K, 2510  33 J mol1 \[52\], 348 K, 2760  280 J mol1 \[53\], 2427 J mol1 \[54\], 342 K, 2527  50 J mol1 \[55\], 348 K, 2594 J mol1 \[37\]. A small irregularity in the heat capacity was observed in the region 900-950 K with an entropy increment of 0.15 J mol1 K1 . An order-…” |
+| Other; _printed: enthalpy of transition_ | 2510 unspecified ± 33 | 348 | U4O9 | experimental | [1] Chevalier 2002; _cites Westrum 1965_ [doi](https://doi.org/10.1021/j100893a515) | p. 11; `ORC-U4DXCOIE7P.0f21d4` | “A k-type anomaly was observed with a maximum at 330 K, and an associated enthalpy of transition equal to 2845 J mol1 \[51\], 348 K, 2510  33 J mol1 \[52\], 348 K, 2760  280 J mol1 \[53\], 2427 J mol1 \[54\], 342 K, 2527  50 J mol1 \[55\], 348 K, 2594 J mol1 \[37\]. A small irregularity in the heat capacity was observed in the region 900-950 K with an entropy increment of 0.15 J mol1 K1 . An order-…” |
+| Other; _printed: enthalpy of transition_ | 2760 unspecified ± 280 | 348 | U4O9 | experimental | [1] Chevalier 2002; _cites Gronvold 1970_ | p. 11; `ORC-U4DXCOIE7P.1aae82` | “A k-type anomaly was observed with a maximum at 330 K, and an associated enthalpy of transition equal to 2845 J mol1 \[51\], 348 K, 2510  33 J mol1 \[52\], 348 K, 2760  280 J mol1 \[53\], 2427 J mol1 \[54\], 342 K, 2527  50 J mol1 \[55\], 348 K, 2594 J mol1 \[37\]. A small irregularity in the heat capacity was observed in the region 900-950 K with an entropy increment of 0.15 J mol1 K1 . An order-…” |
+| Other; _printed: enthalpy of transition_ | 2594 unspecified | 348 | U4O9 | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | p. 11; `ORC-U4DXCOIE7P.f99467` | “A k-type anomaly was observed with a maximum at 330 K, and an associated enthalpy of transition equal to 2845 J mol1 \[51\], 348 K, 2510  33 J mol1 \[52\], 348 K, 2760  280 J mol1 \[53\], 2427 J mol1 \[54\], 342 K, 2527  50 J mol1 \[55\], 348 K, 2594 J mol1 \[37\]. A small irregularity in the heat capacity was observed in the region 900-950 K with an entropy increment of 0.15 J mol1 K1 . An order-…” |
+| Other; _printed: enthalpy of transition_ | 172 J mol 1 ± 4 | 482.7 | U3O8 | experimental | [1] Chevalier 2002; _cites Popov 1958_ | p. 11; `ORC-GSD7BMN2PE.fbb2ec` | “\[59\] from 310 to 970 K. A reversible k-type anomaly was observed at 482.7 K with an enthalpy of transition of 172  4 J mol1 \[56\], 481 K \[57\]. Three k-type anomalies were observed at 483, 568 and 850 K, indicating second-order phase transitions, with associated enthalpies of transition of 405  21, 444  21, 942  81 J mol1 \[58\] assessed by Cordfunke et al. \[37\].” |
+| Other; _printed: enthalpy of transition_ | 405 J mol 1 ± 21 | 483 | U3O8 | experimental | [1] Chevalier 2002; _cites Maglic 2002_ | p. 11; `ORC-GSD7BMN2PE.f97b36` | “\[59\] from 310 to 970 K. A reversible k-type anomaly was observed at 482.7 K with an enthalpy of transition of 172  4 J mol1 \[56\], 481 K \[57\]. Three k-type anomalies were observed at 483, 568 and 850 K, indicating second-order phase transitions, with associated enthalpies of transition of 405  21, 444  21, 942  81 J mol1 \[58\] assessed by Cordfunke et al. \[37\].” |
+| Other; _printed: enthalpy of transition_ | 444 J mol 1 ± 21 | 568 | U3O8 | experimental | [1] Chevalier 2002; _cites Maglic 2002_ | p. 11; `ORC-GSD7BMN2PE.e978df` | “\[59\] from 310 to 970 K. A reversible k-type anomaly was observed at 482.7 K with an enthalpy of transition of 172  4 J mol1 \[56\], 481 K \[57\]. Three k-type anomalies were observed at 483, 568 and 850 K, indicating second-order phase transitions, with associated enthalpies of transition of 405  21, 444  21, 942  81 J mol1 \[58\] assessed by Cordfunke et al. \[37\].” |
+| Other; _printed: enthalpy of transition_ | 942 J mol 1 ± 81 | 850 | U3O8 | experimental | [1] Chevalier 2002; _cites Maglic 2002_ | p. 11; `ORC-GSD7BMN2PE.5f3045` | “\[59\] from 310 to 970 K. A reversible k-type anomaly was observed at 482.7 K with an enthalpy of transition of 172  4 J mol1 \[56\], 481 K \[57\]. Three k-type anomalies were observed at 483, 568 and 850 K, indicating second-order phase transitions, with associated enthalpies of transition of 405  21, 444  21, 942  81 J mol1 \[58\] assessed by Cordfunke et al. \[37\].” |
+| Other; _printed: enthalpy increment_ | 11900 J mol 1 | 1400 |  | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | p. 11; `ORC-U4DXCOIE7P.004f2e` | “A small irregularity in the heat capacity was observed in the region 900-950 K with an entropy increment of 0.15 J mol1 K1 . An order-disorder transition occurs at 1398  8 K with an associated enthalpy increment of 9372  418 J mol1 \[54\], 1400 K and 11900 J mol1 \[37\].” |
 | Other; _printed: enthalpy of transition_ | 1824.22 J | 2670 | UO2 | experimental | [1] Chevalier 2002 | p. 11; `ORC-NETZJ3OHSU` | “The second-order transition is approximated by a first-order one with an enthalpy of transition equal to 1824.224 J at 2670 K.” |
 
 ## Sources
@@ -1002,9 +1001,9 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -1013,7 +1012,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1024,7 +1023,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1034,7 +1033,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

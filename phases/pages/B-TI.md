@@ -14,7 +14,7 @@ Table: Phases of the B–Ti system (10)
 |---|---|---|---|---:|---:|
 | [BETA_RHOMBO_B](#phase-b-ti-b-beta-rhombo); _phase:b-ti:b-beta-rhombo_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–2549.98 K, x(B) 1–1 | 7 | 7 |
 | [MB_B27](#phase-b-ti-b27-mb); _phase:b-ti:b27-mb_ | FeB · B27 · oP8 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2456.06 K, x(B) 0.5–0.5 | 2 | 2 |
-| [BCC_A2](#phase-b-ti-bcc-a2); _phase:b-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300.18–3999.73 K, x(B) 0–0.0108 | 17 | 7 |
+| [BCC_A2](#phase-b-ti-bcc-a2); _phase:b-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300.18–3999.73 K, x(B) 0–0.0108 | 18 | 7 |
 | [MB2_C32](#phase-b-ti-c32-mb2); _phase:b-ti:c32-mb2_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–3488.99 K, x(B) 0.66667–0.66667 | 0 | 1 |
 | [FCC_A1](#phase-b-ti-fcc-a1); _phase:b-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [HCP_A3](#phase-b-ti-hcp-a3); _phase:b-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1157.68 K, x(B) 0–0.00164 | 6 | 7 |
@@ -152,11 +152,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:b-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300.18–3999.73 K, x(B) 0–0.0108
-- Literature: 17 values (17 accepted) from 4 papers
+- Literature: 18 values (18 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ti:bcc-a2)
 
-Names (12): _corpus: _corpus:phase:b-ti:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2011.10.003:bcc-Ti, paper:10.1016/j.jallcom.2003.09.017:(βTi), paper:10.1016/j.jallcom.2006.10.034:bcc, paper:sha256-85fd53a1a176b694:bcc-A2  
+Names (13): _corpus: _corpus:phase:b-ti:bcc-a2  
+_paper: _paper:10.1007/bf02646248:βTi, paper:10.1016/j.calphad.2011.10.003:bcc-Ti, paper:10.1016/j.jallcom.2003.09.017:(βTi), paper:10.1016/j.jallcom.2006.10.034:bcc, paper:sha256-85fd53a1a176b694:bcc-A2  
 _tdb: _tdb:TiB-04Ma.tdb:BCC_A2, tdb:TiB-08Wit.tdb:BCC_A2, tdb:TiB-09Nak.tdb:BCC_A2, tdb:TiB-11Cac.tdb:BCC_A2, tdb:TiB-16Wit.tdb:BCC_A2, tdb:TiB-19Wit.tdb:BCC_A2, tdb:TiB-94Bat-LB.tdb:BCC_A2  
 
 
@@ -211,7 +211,7 @@ _tdb: _tdb:TiB-04Ma.tdb:BCC_A2, tdb:TiB-08Wit.tdb:BCC_A2, tdb:TiB-09Nak.tdb:BCC_
 33: CONST BCC_A2 : TI% : B VA% : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.10.034](https://doi.org/10.1016/j.jallcom.2006.10.034) V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 448, 185-194 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -225,6 +225,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/matertrans.MC200820](https://doi.org/10.2320/matertrans.MC200820) Y. Nakama, H. Ohtani, M. Hasebe, Mater. Trans. (JIM), 50, 984-93(2009).  
 _assessment that models this phase_
+- [doi:10.1007/bf02646248](https://doi.org/10.1007/bf02646248) H. Duschanek, P. Rogl, H. L. Lukas, A critical assessment and thermodynamic calculation of the boron-carbon-titanium (B-C-Ti) ternary system, JPE 16, 46-60 (1995).  
+_reports values for this phase_
 
 ## MB2_C32 (B–Ti)
 
@@ -737,8 +739,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -747,7 +749,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -758,7 +760,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

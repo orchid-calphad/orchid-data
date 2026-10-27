@@ -1,0 +1,114 @@
+{
+ "source_doi": "10.1016/j.jallcom.2020.158396",
+ "source_pdf_sha256": "af6653177295b67e24a9852206942313bd0219e89430bd6396fb4444619473c5",
+ "pages": [
+  3,
+  4
+ ],
+ "table": 3,
+ "decision": "Five rows described as experimental on page 3; both unit columns of each row represent one observation. Preserve all values; exclude from fitting and calibration until original conditions are verified.",
+ "canonical_selection": "Use the J/mol atom column as the identity anchor because it has finer printed resolution; do not overwrite the eV/atom representation.",
+ "discrepancies": [
+  {
+   "row": 7,
+   "field": "value",
+   "table_J_mol_atom": -5855,
+   "text_J_mol_atom": -5866,
+   "action": "retain table value; flag disagreement without substitution"
+  },
+  {
+   "row": 10,
+   "field": "reference",
+   "table_reference": "24",
+   "text_reference": "25",
+   "action": "retain printed citation; flag disagreement without substitution"
+  }
+ ],
+ "pairs": [
+  {
+   "row": 7,
+   "canonical_id": "ORC-BRBEV2CMMI.7deb20",
+   "alias_id": "ORC-BRBEV2CMMI.f3b1dd",
+   "records": {
+    "ORC-BRBEV2CMMI.7deb20": {
+     "value": -5.855,
+     "value_printed": -5855.0,
+     "unit_printed": "J/mol atom"
+    },
+    "ORC-BRBEV2CMMI.f3b1dd": {
+     "value": -5.847011126,
+     "value_printed": -0.0606,
+     "unit_printed": "eV/atom"
+    }
+   }
+  },
+  {
+   "row": 8,
+   "canonical_id": "ORC-VASZEU4BTD.47e16d",
+   "alias_id": "ORC-VASZEU4BTD.11e7a0",
+   "records": {
+    "ORC-VASZEU4BTD.11e7a0": {
+     "value": -5.499663931,
+     "value_printed": -0.057,
+     "unit_printed": "eV/atom"
+    },
+    "ORC-VASZEU4BTD.47e16d": {
+     "value": -5.5,
+     "value_printed": -5500.0,
+     "unit_printed": "J/mol atom"
+    }
+   }
+  },
+  {
+   "row": 9,
+   "canonical_id": "ORC-6NMZMDWEIZ.6c25ee",
+   "alias_id": "ORC-6NMZMDWEIZ.e16ce5",
+   "records": {
+    "ORC-6NMZMDWEIZ.6c25ee": {
+     "value": -5.855,
+     "value_printed": -5855.0,
+     "unit_printed": "J/mol atom"
+    },
+    "ORC-6NMZMDWEIZ.e16ce5": {
+     "value": -5.847011126,
+     "value_printed": -0.0606,
+     "unit_printed": "eV/atom"
+    }
+   }
+  },
+  {
+   "row": 10,
+   "canonical_id": "ORC-UN5ZR3DH4R.a5aded",
+   "alias_id": "ORC-UN5ZR3DH4R.9ee812",
+   "records": {
+    "ORC-UN5ZR3DH4R.9ee812": {
+     "value": -5.52860953,
+     "value_printed": -0.0573,
+     "unit_printed": "eV/atom"
+    },
+    "ORC-UN5ZR3DH4R.a5aded": {
+     "value": -5.533,
+     "value_printed": -5533.0,
+     "unit_printed": "J/mol atom"
+    }
+   }
+  },
+  {
+   "row": 11,
+   "canonical_id": "ORC-XSC6EPABZQ.4d8b85",
+   "alias_id": "ORC-XSC6EPABZQ.56a13f",
+   "records": {
+    "ORC-XSC6EPABZQ.4d8b85": {
+     "value": -5.9,
+     "value_printed": -5900.0,
+     "unit_printed": "J/mol atom"
+    },
+    "ORC-XSC6EPABZQ.56a13f": {
+     "value": -5.895253793,
+     "value_printed": -0.0611,
+     "unit_printed": "eV/atom"
+    }
+   }
+  }
+ ]
+}

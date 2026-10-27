@@ -1,1 +1,1 @@
-{"tdb":"BaO-05Zho-mod.tdb","elements":["Ba","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"BaO-05Zho-mod.tdb","elements":["Ba","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"1166f495f723a4136e8186061f7570665d0c56a197d979d5dad7b7e3ac799d2d","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

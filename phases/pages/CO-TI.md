@@ -12,26 +12,26 @@ Table: Phases of the Co–Ti system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-ti-bcc-a2); _phase:co-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 1050–1920 K, x(Ti) 0.89–0.96 | 18 | 12 |
+| [BCC_A2](#phase-co-ti-bcc-a2); _phase:co-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 1050–1920 K, x(Ti) 0.89–0.96 | 31 | 12 |
 | [B2_BCC](#phase-co-ti-bcc-b2); _phase:co-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.95 K, x(Ti) 0.41482–1 | 50 | 6 |
 | [C15_LAVES](#phase-co-ti-c15-laves); _phase:co-ti:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1524.39 K, x(Ti) 0.31983–0.34062 | 33 | 6 |
 | [C36_LAVES](#phase-co-ti-c36-laves); _phase:co-ti:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1550 K, x(Ti) 0.28715–0.3333 | 36 | 6 |
-| [COTI2](#phase-co-ti-coti2); _phase:co-ti:coti2_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1340 K, x(Ti) 0.66667–0.66667 | 47 | 6 |
+| [COTI2](#phase-co-ti-coti2); _phase:co-ti:coti2_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1340 K, x(Ti) 0.66667–0.66667 | 48 | 6 |
 | [FCC_A1](#phase-co-ti-fcc-a1); _phase:co-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 593.41–1885.95 K, x(Ti) 0–0.15423 | 37 | 12 |
 | [L12_FCC](#phase-co-ti-fcc-l12); _phase:co-ti:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1885.95 K, x(Ti) 0–0.25 | 55 | 6 |
-| [HCP_A3](#phase-co-ti-hcp-a3); _phase:co-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1163.96 K, x(Ti) 0–1 | 17 | 6 |
-| [LIQUID](#phase-co-ti-liquid); _phase:co-ti:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1282.88–2500 K, x(Ti) 0–1 | 120 | 6 |
+| [HCP_A3](#phase-co-ti-hcp-a3); _phase:co-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1163.96 K, x(Ti) 0–1 | 18 | 6 |
+| [LIQUID](#phase-co-ti-liquid); _phase:co-ti:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1282.88–2500 K, x(Ti) 0–1 | 121 | 6 |
 
 ## BCC_A2 (Co–Ti)
 
 - Id: `phase:co-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 1050–1920 K, x(Ti) 0.89–0.96
-- Literature: 18 values (18 accepted) from 3 papers
+- Literature: 31 values (31 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:bcc-a2)
 
-Names (17): _corpus: _corpus:phase:co-ti:bcc-a2  
-_paper: _paper:10.1007/s11661-001-0193-8:A2, paper:10.1016/j.jct.2019.105995:A2, paper:10.1016/j.jct.2019.105995:A2(βTi), paper:10.1016/s0966-9795(99)00098-9:A2  
+Names (18): _corpus: _corpus:phase:co-ti:bcc-a2  
+_paper: _paper:10.1007/s11661-001-0193-8:A2, paper:10.1007/s42243-021-00736-6:β-Ti, paper:10.1016/j.jct.2019.105995:A2, paper:10.1016/j.jct.2019.105995:A2(βTi), paper:10.1016/s0966-9795(99)00098-9:A2  
 _tdb: _tdb:CoTi-00Cac.tdb:A2_BCC, tdb:CoTi-00Cac.tdb:BCC_A2, tdb:CoTi-01Dav-LB.tdb:A2_BCC, tdb:CoTi-01Dav-LB.tdb:BCC_A2, tdb:CoTi-18Zho.tdb:A2_BCC, tdb:CoTi-18Zho.tdb:BCC_A2, tdb:CoTi-20Wu.tdb:A2_BCC, tdb:CoTi-20Wu.tdb:BCC_A2, tdb:CoTi-22Yan.tdb:A2_BCC, tdb:CoTi-22Yan.tdb:BCC_A2, tdb:CoTi-24Tur.tdb:A2_BCC, tdb:CoTi-24Tur.tdb:BCC_A2  
 
 
@@ -123,15 +123,15 @@ _tdb: _tdb:CoTi-00Cac.tdb:A2_BCC, tdb:CoTi-00Cac.tdb:BCC_A2, tdb:CoTi-01Dav-LB.t
 
 Example references (7 of 7; assessments first): 
 
-- [doi:10.1016/j.jct.2019.105995](https://doi.org/10.1016/j.jct.2019.105995) Liying Wu, Yinping Zeng, Yafei Pan, Yong Du, Yingbiao Peng, Han Li et al., Thermodynamic description and simulation of solidification microstructure in the Co-Ti system, The Journal of Chemical Thermodynamics 142, 105995 (2020).  
+- [doi:10.1007/s42243-021-00736-6](https://doi.org/10.1007/s42243-021-00736-6) Hua-kou Yang, Chen-yang Zhou, Hang Wang, Bin Yang, Phase equilibria in Ti-rich portion and thermodynamic re-optimization of Co–Ti system, J. Iron Steel Res. Int. 29, 914-924 (2022).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jct.2019.105995](https://doi.org/10.1016/j.jct.2019.105995) Liying Wu, Yinping Zeng, Yafei Pan, Yong Du, Yingbiao Peng, Han Li et al., Thermodynamic description and simulation of solidification microstructure in the Co-Ti system, The Journal of Chemical Thermodynamics 142, 105995 (2020).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11661-001-0193-8](https://doi.org/10.1007/s11661-001-0193-8) A. V. Davydov, U. R. Kattner, D. Josell, R. M. Waterstrat, W. J. Boettinger, J. E. Blendell et al., Determination of the CoTi congruent melting point and thermodynamic reassessment of the Co-Ti system, Metall Mater Trans A 32, 2175-2186 (2001).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0966-9795(99)00098-9](https://doi.org/10.1016/S0966-9795%2899%2900098-9) G. Cacciamani, R. Ferro, I. Ansara, N. Dupin, Intermetallics, 8, 213-22(2000).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-024-01094-y](https://doi.org/10.1007/s11669-024-01094-y) Mykhailo Turchanin, Pavlo Agraval, Anna Vodopyanova, Liya Dreval, Thermodynamic Assessment of the Co-Ti System, J. Phase Equilib. Diffus. 45, 434-446 (2024).  
-_assessment that models this phase_
-- [doi:10.1007/s42243-021-00736-6](https://doi.org/10.1007/s42243-021-00736-6) Hua-kou Yang, Chen-yang Zhou, Hang Wang, Bin Yang, Phase equilibria in Ti-rich portion and thermodynamic re-optimization of Co–Ti system, J. Iron Steel Res. Int. 29, 914-924 (2022).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2018.08.011](https://doi.org/10.1016/j.calphad.2018.08.011) C. Zhou, C. Guo, C. Li, Z. Du, Calphad, 63, 61-76(2018).  
 _assessment that models this phase_
@@ -398,7 +398,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Co 0.3333, Ti 0.6667
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1340 K, x(Ti) 0.66667–0.66667
-- Literature: 47 values (47 accepted) from 5 papers
+- Literature: 48 values (48 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:coti2)
 
 Names (13): _corpus: _corpus:phase:co-ti:coti2  
@@ -678,11 +678,11 @@ _cited as the source of values for this phase_
 - Id: `phase:co-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1163.96 K, x(Ti) 0–1
-- Literature: 17 values (17 accepted) from 5 papers
+- Literature: 18 values (18 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:hcp-a3)
 
-Names (13): _corpus: _corpus:phase:co-ti:hcp-a3  
-_paper: _paper:10.1007/s11661-001-0193-8:A3, paper:10.1007/s11669-024-01094-y:(εCo), paper:10.1007/s42243-021-00736-6:α-Ti, paper:10.1016/j.jct.2019.105995:A3, paper:10.1016/j.jct.2019.105995:A3(αTi), paper:10.1016/s0966-9795(99)00098-9:A3  
+Names (14): _corpus: _corpus:phase:co-ti:hcp-a3  
+_paper: _paper:10.1007/s11661-001-0193-8:A3, paper:10.1007/s11669-024-01094-y:(εCo), paper:10.1007/s42243-021-00736-6:α-Ti, paper:10.1007/s42243-021-00736-6:ε-Co, paper:10.1016/j.jct.2019.105995:A3, paper:10.1016/j.jct.2019.105995:A3(αTi), paper:10.1016/s0966-9795(99)00098-9:A3  
 _tdb: _tdb:CoTi-00Cac.tdb:HCP_A3, tdb:CoTi-01Dav-LB.tdb:HCP_A3, tdb:CoTi-18Zho.tdb:HCP_A3, tdb:CoTi-20Wu.tdb:HCP_A3, tdb:CoTi-22Yan.tdb:HCP_A3, tdb:CoTi-24Tur.tdb:HCP_A3  
 
 
@@ -752,11 +752,11 @@ _cited as the source of values for this phase_
 - Id: `phase:co-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 1282.88–2500 K, x(Ti) 0–1
-- Literature: 120 values (120 accepted) from 5 papers
+- Literature: 121 values (121 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:liquid)
 
-Names (14): _corpus: _corpus:phase:co-ti:liquid  
-_paper: _paper:10.1007/s11661-001-0193-8:L, paper:10.1007/s11661-001-0193-8:liquid, paper:10.1007/s11669-024-01094-y:L, paper:10.1007/s42243-021-00736-6:liquid, paper:10.1016/j.jct.2019.105995:L, paper:10.1016/j.jct.2019.105995:liquid, paper:10.1016/s0966-9795(99)00098-9:Liquid  
+Names (15): _corpus: _corpus:phase:co-ti:liquid  
+_paper: _paper:10.1007/s11661-001-0193-8:L, paper:10.1007/s11661-001-0193-8:liquid, paper:10.1007/s11669-024-01094-y:L, paper:10.1007/s42243-021-00736-6:Liquid, paper:10.1007/s42243-021-00736-6:liquid, paper:10.1016/j.jct.2019.105995:L, paper:10.1016/j.jct.2019.105995:liquid, paper:10.1016/s0966-9795(99)00098-9:Liquid  
 _tdb: _tdb:CoTi-00Cac.tdb:LIQUID, tdb:CoTi-01Dav-LB.tdb:LIQUID, tdb:CoTi-18Zho.tdb:LIQUID, tdb:CoTi-20Wu.tdb:LIQUID, tdb:CoTi-22Yan.tdb:LIQUID, tdb:CoTi-24Tur.tdb:LIQUID  
 
 
@@ -825,8 +825,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -835,7 +835,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -846,7 +846,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -1,0 +1,155 @@
+{
+ "components": [
+  "GE",
+  "SI",
+  "VA"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1723.0,
+  "X_SI": [
+   1.0
+  ]
+ },
+ "output": "ACR_SI",
+ "values": [
+  [
+   [
+    1.0
+   ]
+  ]
+ ],
+ "reference": "Bergman 1992, doi:10.1007/bf02667471",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid",
+  "no_printed_uncertainty"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QAZ74ROOA4.b1f97d",
+ "reference_state": {
+  "phases": [
+   "LIQUID"
+  ],
+  "conditions": {
+   "P": 101325,
+   "T": 1723.0,
+   "X_SI": 1.0
+  }
+ },
+ "weight": 0.172441,
+ "bibtex": "bergman1992_b9f493",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QAZ74ROOA4.b1f97d",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/bf02667471",
+    "measured_in": "doi:10.1007/bf02667471",
+    "also_read_as": [
+     "ORC-QAZ74ROOA4.b1f97d"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/bf02667471"
+  ],
+  "dois": [
+   "10.1007/bf02667471"
+  ],
+  "source_dataset": "db-v2.1/general/espei/GeSi-92Ber-LB/acr_si-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "1 (activity)",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_ACR = 500 J/mol"
+  },
+  "weight_rule": "weight = default_sigma / this observation's sigma_effective_used; unequal-uncertainty groups are split into single-observation datasets, retaining their common source provenance",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.0,
+     "sigma_reading_mu_J_per_mol": 0.0,
+     "sigma_method": 0.2024,
+     "sigma_method_mu_J_per_mol": 2899.545784,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 0.2024,
+     "sigma_effective_mu_J_per_mol": 2899.545784,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 9,
+     "method_entry": "value_types/ACTIVITY/classes/unknown"
+    },
+    "sigma_effective_used": 2899.545784,
+    "weight_per_value_equivalent": 0.172441,
+    "weight_used": 0.172441
+   }
+  ]
+ },
+ "orchid_reference_state": {
+  "element": "SI",
+  "phase": "LIQUID",
+  "basis": "printed",
+  "quote": "Fig. 4 Activities of Si and Ge at 1723 K in Si-Ge liquid alloys referred to both liquid components.",
+  "where": "caption of Fig. 4 (the same activities as table 3)",
+  "record_reference_state_agrees": true,
+  "written_before_audit": [
+   "LIQUID"
+  ]
+ },
+ "orchid_weight_floor": {
+  "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
+  "suggested_weight": 1.0,
+  "weight_before_2026_10_24": 1.0,
+  "weight_written": 0.172441,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)",
+  "comparison_scope": "superseded comparison metadata of parent_dataset"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "LIQUID"
+  ],
+  "basis": {
+   "printed_labels": 10
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_weighting": {
+  "rule": "individual_effective_uncertainty_v1",
+  "parent_dataset": "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00.json",
+  "parent_value_index": 9,
+  "parent_n_values": 10,
+  "parent_weight": 0.172412,
+  "parent_values_dropped": 12,
+  "source_dataset": "db-v2.1/general/espei/GeSi-92Ber-LB/acr_si-00.json",
+  "measured_in": "doi:10.1007/bf02667471",
+  "correlation_status": "not quantified",
+  "correlation_note": "Shared source and method/calibration provenance are retained. Splitting does not establish statistical independence. No covariance is invented; the ESPEI likelihood used here does not model cross-observation covariance."
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-QAZ74ROOA4.b1f97d",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

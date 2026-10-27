@@ -20,7 +20,7 @@ Table: Phases of the Ge–Sc system (10)
 | [GE3SC5_D88](#phase-ge-sc-ge3sc5-d88); _phase:ge-sc:ge3sc5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2339.98 K, x(Sc) 0.625–0.65317 | 7 | 1 |
 | [GE4SC5](#phase-ge-sc-ge4sc5); _phase:ge-sc:ge4sc5_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2142.83 K, x(Sc) 0.55556–0.55556 | 4 | 1 |
 | [GESC_B33](#phase-ge-sc-gesc-b33); _phase:ge-sc:gesc-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1464.72 K, x(Sc) 0.5–0.5 | 6 | 1 |
-| [HCP_A3](#phase-ge-sc-hcp-a3); _phase:ge-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1607.4 K, x(Sc) 0.97555–1 | 0 | 1 |
+| [HCP_A3](#phase-ge-sc-hcp-a3); _phase:ge-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1607.4 K, x(Sc) 0.97555–1 | 14 | 1 |
 | [LIQUID](#phase-ge-sc-liquid); _phase:ge-sc:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1165.55–2500 K, x(Sc) 0–1 | 22 | 1 |
 
 ## DIAMOND_A4 (Ge–Sc)
@@ -273,10 +273,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ge-sc:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1607.4 K, x(Sc) 0.97555–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-sc:hcp-a3)
 
-Names (2): _corpus: _corpus:phase:ge-sc:hcp-a3  
+Names (3): _corpus: _corpus:phase:ge-sc:hcp-a3  
+_paper: _paper:10.1016/j.calphad.2011.12.010:(αSc)  
 _tdb: _tdb:GeSc-12Che.tdb:HCP_A3  
 
 
@@ -289,10 +290,14 @@ _tdb: _tdb:GeSc-12Che.tdb:HCP_A3
 36: CONST HCP_A3 : GE SC% : VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.12.010](https://doi.org/10.1016/j.calphad.2011.12.010) Kaiming Cheng, Biao Hu, Yong Du, Honghui Xu, Qiannan Gao, Thermodynamic modeling of the Ge–Sc system supported by key experiments and first-principles calculation, Calphad 37, 18-24 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/bf02868307](https://doi.org/10.1007/bf02868307) H. W. King, Crystal structures of the elements at 25°C, Bulletin of Alloy Phase Diagrams 2, 401-402 (1981).  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02869862](https://doi.org/10.1007/bf02869862) A.B. Gokhale, G.J. Abbschian, Bull. Alloy Phase Diagrams 7 (1986) 540–543.  
+_cited as the source of values for this phase_
 
 ## LIQUID (Ge–Sc)
 
@@ -325,8 +330,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -335,7 +340,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -346,7 +351,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

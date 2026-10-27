@@ -17,8 +17,8 @@ Table: Phases of the Th–Zn system (8)
 | [HCP_A3](#phase-th-zn-hcp-a3); _phase:th-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3998.92 K, x(Zn) 1–1 | 2 | 1 |
 | [LIQUID](#phase-th-zn-liquid); _phase:th-zn:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 692.67–4000 K, x(Zn) 0–1 | 20 | 1 |
 | [TH2ZN_C16](#phase-th-zn-th2zn-c16); _phase:th-zn:th2zn-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1323.21 K, x(Zn) 0.33333–0.33333 | 6 | 1 |
-| [TH2ZN17](#phase-th-zn-th2zn17); _phase:th-zn:th2zn17_ | Th2Zn17 · hR19 · R-3m (166) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1286.03 K, x(Zn) 0.89474–0.89474 | 9 | 1 |
-| [THZN2](#phase-th-zn-thzn2); _phase:th-zn:thzn2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1375.5 K, x(Zn) 0.66667–0.66667 | 9 | 1 |
+| [TH2ZN17](#phase-th-zn-th2zn17); _phase:th-zn:th2zn17_ | Th2Zn17 · hR19 · R-3m (166) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1286.03 K, x(Zn) 0.89474–0.89474 | 8 | 1 |
+| [THZN2](#phase-th-zn-thzn2); _phase:th-zn:thzn2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1375.5 K, x(Zn) 0.66667–0.66667 | 10 | 1 |
 | [THZN4_D13](#phase-th-zn-thzn4-d13); _phase:th-zn:thzn4-d13_ | Al4Ba · D1_3 · tI10 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1372.11 K, x(Zn) 0.8–0.8 | 6 | 1 |
 
 ## BCC_A2 (Th–Zn)
@@ -167,7 +167,7 @@ _assessment that models this phase; reports values for this phase_
 - Structure: Th2Zn17 · hR19 · R-3m (166); type `st:th2zn17-hr19`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Th 0.1053, Zn 0.8947
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1286.03 K, x(Zn) 0.89474–0.89474
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:th-zn:th2zn17)
 
 Names (5): _corpus: _corpus:phase:th-zn:th2zn17  
@@ -201,7 +201,7 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (sgte_mmc2): (ThZn2) — Hallstedt 2025 mmc2 row for THZN2: ThZn2
 - Stoichiometry: Th 0.3333, Zn 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1375.5 K, x(Zn) 0.66667–0.66667
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:th-zn:thzn2)
 
 Names (3): _corpus: _corpus:phase:th-zn:thzn2  
@@ -256,8 +256,8 @@ _assessment that models this phase; reports values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -266,7 +266,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -277,7 +277,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

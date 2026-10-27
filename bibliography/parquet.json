@@ -1,17 +1,17 @@
 {
  "papers": {
   "table": "papers.parquet",
-  "rows": 9569,
+  "rows": 9570,
   "id_column": "id",
-  "csv_sha256": "2bd8ff4214307305e29c2200f3f796d76ccfbb280210fd5c975ef8f3ba0f533d",
-  "content_sha256": "1629913f01ae1913dfc643e282ab24dfb347108f843229223361217d10a13916"
+  "csv_sha256": "033b40cee3ee706b41cbf2acd3d0635d1777e48df97fde85dfbc853102ebbd5f",
+  "content_sha256": "0e179e7771f8e0c69fa61890c24b3fa8adc6f9277e43b0369f98a8ccca0c850e"
  },
  "edges": {
   "table": "edges.parquet",
-  "rows": 60231,
+  "rows": 60235,
   "id_column": "id",
-  "csv_sha256": "37690c3278b21851364f0efc151efd16a7f79817d5a9934dfa24fbb8b06c3561",
-  "content_sha256": "de046c8a95ee2303b8c3fef6651bae244f4a82f707fb05b406977adedd05a555"
+  "csv_sha256": "46810fcd403e53c7eace02220818e8d99e0ce5429effb79ad8a36d5e683fe6f9",
+  "content_sha256": "ec58b79bbc67239c714868ad53648652aaad723e23caa1f212c8b40050c367a4"
  },
  "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder",
  "fields": {

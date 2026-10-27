@@ -270,11 +270,9 @@
    "doi:10.1515/ijmr-1986-770109",
    "doi:10.1016/j.calphad.2006.06.002",
    "doi:10.1016/j.jallcom.2011.04.141",
-   "doi:10.1016/j.actamat.2009.12.004",
-   "doi:10.1007/s11669-017-0522-2"
+   "doi:10.1016/j.actamat.2009.12.004"
   ],
   "dois": [
-   "10.1007/s11669-017-0522-2",
    "10.1016/j.actamat.2009.12.004",
    "10.1016/j.calphad.2006.06.002",
    "10.1016/j.jallcom.2011.04.141",
@@ -300,7 +298,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4918,
+      "method_n_pairs": 4912,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -332,7 +330,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4918,
+      "method_n_pairs": 4912,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -364,7 +362,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4918,
+      "method_n_pairs": 4912,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -396,7 +394,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4918,
+      "method_n_pairs": 4912,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -428,7 +426,7 @@
       "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4918,
+      "method_n_pairs": 4912,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {

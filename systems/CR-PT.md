@@ -1,10 +1,10 @@
 # Cr–Pt system
 
-> Cr–Pt system: 27 accepted literature values (phase transition 13, invariant reaction 13, phase equilibrium 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Pt system: 25 accepted literature values (invariant reaction 13, phase transition 11, phase equilibrium 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-PT.html · Markdown: https://data.orchid-project.org/systems/CR-PT.md
 
-27 accepted literature values from 2 paper(s) (experimental 19, model 7, unspecified 1); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+25 accepted literature values from 2 paper(s) (experimental 17, model 7, unspecified 1); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-PT.json) · [CSV](https://data.orchid-project.org/systems/CR-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-PT/CrPt-01Oik.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-PT.html) · [Markdown](https://data.orchid-project.org/systems/CR-PT.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
+| experimental | 17 |
 | model | 7 |
 | unspecified | 1 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 13 |
-| phase transition | 13 |
+| phase transition | 11 |
 | phase equilibrium | 1 |
 
 ## Calculated phase diagrams
@@ -74,7 +74,7 @@ Table: Invariant reactions reported in the literature for the Cr–Pt system (13
 
 ## Other properties
 
-### Phase transition (13)
+### Phase transition (11)
 
 Table: Phase transition, Cr–Pt system
 
@@ -85,13 +85,11 @@ Table: Phase transition, Cr–Pt system
 | Phase transition | 516.15 K | 516.15 | magnetic: Tcurie; _alloy: Cr 0.25, Pt 0.75_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 2; `ORC-SM75DJV3Z7` |  |
 | Phase transition | 1358.15 K | 1358.15 | polymorphic: fcc-L1₂; _alloy: Cr 0.25, Pt 0.75_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 7; `ORC-PD5UFPVJTN` |  |
 | Phase transition | 1370.15 K | 1370.15 | polymorphic: fcc-L12; _alloy: Cr 0.25, Pt 0.75_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 1; `ORC-243WQF2W6R` |  |
-| Phase transition | 1390.15 K | 1390.15 | other: fcc-L1₀?; _alloy: Cr 0.5, Pt 0.5_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 9; `ORC-4WIZSTLXSS` |  |
 | Phase transition | 1395.15 K | 1395.15 | polymorphic: fcc-L10?; _alloy: Cr 0.5, Pt 0.5_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 3; `ORC-6XMZWFOFWG` |  |
 | Phase transition | 1506.15 K | 1506.15 | polymorphic: fcc-L1₂; _alloy: Cr 0.57, Pt 0.43_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 11; `ORC-QLNH4XPAP4` |  |
 | Phase transition | 1509.15 K | 1509.15 | polymorphic: fcc-L1₂; _alloy: Cr 0.63, Pt 0.37_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 12; `ORC-7HWRMQE6WA` |  |
 | Phase transition | 1511.15 K | 1511.15 | polymorphic: fcc-L12; _alloy: Cr 0.63, Pt 0.37_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 6; `ORC-Q3SNHBRZA7` |  |
 | Phase transition | 1521.15 K | 1521.15 | polymorphic: fcc-L12; _alloy: Cr 0.57, Pt 0.43_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 5; `ORC-UHTFQX7OC5` |  |
-| Phase transition | 1546.15 K | 1546.15 | other: fcc-L1₀?; _alloy: Cr 0.5, Pt 0.5_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 10; `ORC-EBGF5QVNGZ` |  |
 | Phase transition | 1572.15 K | 1572.15 | polymorphic: fcc-L10?; _alloy: Cr 0.5, Pt 0.5_ | experimental | [1] Preußner 2009 | Table 2, p. 4, row 4; `ORC-EDVGU6H74D` |  |
 
 ### Phase equilibrium (1)
@@ -111,10 +109,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -123,7 +121,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -134,7 +132,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -144,7 +142,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -154,7 +152,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

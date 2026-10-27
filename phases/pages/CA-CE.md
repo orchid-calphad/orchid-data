@@ -12,22 +12,22 @@ Table: Phases of the Ca–Ce system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ca-ce-bcc-a2); _phase:ca-ce:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 715.65–2499.5 K, x(Ce) 0–1 | 15 | 2 |
+| [BCC_A2](#phase-ca-ce-bcc-a2); _phase:ca-ce:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 715.65–2499.5 K, x(Ce) 0–1 | 16 | 2 |
 | [DHCP](#phase-ca-ce-dhcp-a3); _phase:ca-ce:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ca-ce-fcc-a1); _phase:ca-ce:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1000 K, x(Ce) 0–1 | 2 | 2 |
 | [HCP_A3](#phase-ca-ce-hcp-a3); _phase:ca-ce:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ca-ce-liquid); _phase:ca-ce:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1057–2500 K, x(Ce) 0–1 | 5 | 2 |
+| [LIQUID](#phase-ca-ce-liquid); _phase:ca-ce:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1057–2500 K, x(Ce) 0–1 | 6 | 2 |
 
 ## BCC_A2 (Ca–Ce)
 
 - Id: `phase:ca-ce:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 715.65–2499.5 K, x(Ce) 0–1
-- Literature: 15 values (15 accepted) from 2 papers
+- Literature: 16 values (16 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ce:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:ca-ce:bcc-a2  
-_paper: _paper:10.1007/s10853-007-2002-2:βCa, paper:10.1016/j.jallcom.2007.09.020:bcc, paper:10.1016/j.jallcom.2007.09.020:bcc(Ca)  
+Names (7): _corpus: _corpus:phase:ca-ce:bcc-a2  
+_paper: _paper:10.1007/s10853-007-2002-2:βCa, paper:10.1016/j.jallcom.2007.09.020:bcc, paper:10.1016/j.jallcom.2007.09.020:bcc(Ca), paper:10.1016/j.jallcom.2007.09.020:bcc(Ce)  
 _tdb: _tdb:CaCe-07Ham.tdb:BCC_A2, tdb:CaCe-08Zha.tdb:BCC_A2  
 
 
@@ -166,7 +166,7 @@ _assessment that models this phase_
 - Id: `phase:ca-ce:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1057–2500 K, x(Ce) 0–1
-- Literature: 5 values (5 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ce:liquid)
 
 Names (6): _corpus: _corpus:phase:ca-ce:liquid  
@@ -199,8 +199,8 @@ _assessment that models this phase; reports values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -209,7 +209,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -220,7 +220,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

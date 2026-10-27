@@ -15,7 +15,7 @@ Table: Phases of the La–Sb system (10)
 | [RHOMBOHEDRAL_A7](#phase-la-sb-a7-rhombohedral); _phase:la-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–903.78 K, x(Sb) 1–1 | 4 | 2 |
 | [BCC_A2](#phase-la-sb-bcc-a2); _phase:la-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1134–1199 K, x(Sb) 0–0 | 0 | 2 |
 | [DHCP](#phase-la-sb-dhcp-a3); _phase:la-sb:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–550 K, x(Sb) 0–0 | 0 | 2 |
-| [FCC_A1](#phase-la-sb-fcc-a1); _phase:la-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 550–1134 K, x(Sb) 0–0 | 2 | 2 |
+| [FCC_A1](#phase-la-sb-fcc-a1); _phase:la-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 550–1134 K, x(Sb) 0–0 | 4 | 2 |
 | [HCP_A3](#phase-la-sb-hcp-a3); _phase:la-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LA2SB](#phase-la-sb-la2sb); _phase:la-sb:la2sb_ | La2Sb · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1894.39 K, x(Sb) 0.33333–0.33333 | 12 | 2 |
 | [LA3SB2](#phase-la-sb-la3sb2); _phase:la-sb:la3sb2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2054.39 K, x(Sb) 0.4–0.4 | 10 | 2 |
@@ -136,11 +136,11 @@ _assessment that models this phase_
 - Id: `phase:la-sb:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 550–1134 K, x(Sb) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sb:fcc-a1)
 
-Names (4): _corpus: _corpus:phase:la-sb:fcc-a1  
-_paper: _paper:10.1016/j.tca.2012.10.026:Fcc.A1 (La)  
+Names (5): _corpus: _corpus:phase:la-sb:fcc-a1  
+_paper: _paper:10.1016/j.calphad.2012.01.002:(β-La), paper:10.1016/j.tca.2012.10.026:Fcc.A1 (La)  
 _tdb: _tdb:LaSb-12Gao.tdb:FCC_A1, tdb:LaSb-13Wan.tdb:FCC_A1  
 
 
@@ -162,10 +162,10 @@ _tdb: _tdb:LaSb-12Gao.tdb:FCC_A1, tdb:LaSb-13Wan.tdb:FCC_A1
 
 Example references (2 of 2; assessments first): 
 
+- [doi:10.1016/j.calphad.2012.01.002](https://doi.org/10.1016/j.calphad.2012.01.002) F. Gao, S.L. Wang, C.P. Wang, X.J. Liu, Thermodynamic assessments of the Sb–La and Sb–Tb systems, Calphad 37, 158-162 (2012).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.tca.2012.10.026](https://doi.org/10.1016/j.tca.2012.10.026) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Xushan Zhao, Jianyun Shen, Thermodynamic assessment of the La–Sb and the Ho–Sb systems using the associate model, Thermochimica Acta 551, 104-109 (2013).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2012.01.002](https://doi.org/10.1016/j.calphad.2012.01.002) F. Gao, S.L. Wang, C.P. Wang, X.J. Liu, Thermodynamic assessments of the Sb–La and Sb–Tb systems, Calphad 37, 158-162 (2012).  
-_assessment that models this phase_
 
 ## HCP_A3 (La–Sb)
 
@@ -402,8 +402,8 @@ _assessment that models this phase; reports values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -412,7 +412,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -423,7 +423,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

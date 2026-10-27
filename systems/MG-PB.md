@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/MG-PB.html · Markdown: https://data.orchid-project.org/systems/MG-PB.md
 
-108 accepted literature values from 2 paper(s) (experimental 65, model 8, DFT 35); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+108 accepted literature values from 2 paper(s) (experimental 75, model 8, DFT 25); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-PB.json) · [CSV](https://data.orchid-project.org/systems/MG-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PB/MgPb-14Zha-ass.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MG-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-PB.html) · [Markdown](https://data.orchid-project.org/systems/MG-PB.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 65 |
+| experimental | 75 |
 | model | 8 |
-| DFT | 35 |
+| DFT | 25 |
 
 Table: Accepted values by property group
 
@@ -115,16 +115,16 @@ Table: Enthalpies of formation, Mg–Pb system (20)
 | Mg2Pb |  | -6.078 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites The_ | Table 3, p. 4, row 14; `ORC-3UZCHZNEXO.73fa6b` |  |
 | Mg2Pb |  | -5.978 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021 | Table 3, p. 4, row 6; `ORC-MEFBATBWAD.aa99c6` |  |
 | Mg2Pb |  | -5.97244 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021 | Table 3, p. 4, row 6; `ORC-MEFBATBWAD.d41c01` |  |
-| Mg2Pb |  | -5.9 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11; `ORC-XSC6EPABZQ.4d8b85` |  |
-| Mg2Pb |  | -5.89525 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11; `ORC-XSC6EPABZQ.56a13f` |  |
-| Mg2Pb |  | -5.855 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9; `ORC-6NMZMDWEIZ.6c25ee` |  |
-| Mg2Pb |  | -5.855 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7; `ORC-BRBEV2CMMI.7deb20` |  |
-| Mg2Pb |  | -5.84701 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9; `ORC-6NMZMDWEIZ.e16ce5` |  |
-| Mg2Pb |  | -5.84701 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7; `ORC-BRBEV2CMMI.f3b1dd` |  |
-| Mg2Pb |  | -5.533 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10; `ORC-UN5ZR3DH4R.a5aded` |  |
-| Mg2Pb |  | -5.52861 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10; `ORC-UN5ZR3DH4R.9ee812` |  |
-| Mg2Pb |  | -5.5 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8; `ORC-VASZEU4BTD.47e16d` |  |
-| Mg2Pb |  | -5.49966 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8; `ORC-VASZEU4BTD.11e7a0` |  |
+| Mg2Pb | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | -5.9 kJ/mol-atom |  | experimental | -5.451 (mp-aaaaberc) | -6.083 (oqmd-17637) | [2] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11; `ORC-XSC6EPABZQ.4d8b85` |  |
+| Mg2Pb | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | -5.89525 kJ/mol-atom |  | experimental | -5.451 (mp-aaaaberc) | -6.083 (oqmd-17637) | [2] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11; `ORC-XSC6EPABZQ.56a13f` |  |
+| Mg2Pb | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | -5.855 kJ/mol-atom |  | experimental | -5.451 (mp-aaaaberc) | -6.083 (oqmd-17637) | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9; `ORC-6NMZMDWEIZ.6c25ee` |  |
+| Mg2Pb | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | -5.855 kJ/mol-atom |  | experimental | -5.451 (mp-aaaaberc) | -6.083 (oqmd-17637) | [2] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7; `ORC-BRBEV2CMMI.7deb20` |  |
+| Mg2Pb | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | -5.84701 kJ/mol-atom |  | experimental | -5.451 (mp-aaaaberc) | -6.083 (oqmd-17637) | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9; `ORC-6NMZMDWEIZ.e16ce5` |  |
+| Mg2Pb | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | -5.84701 kJ/mol-atom |  | experimental | -5.451 (mp-aaaaberc) | -6.083 (oqmd-17637) | [2] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7; `ORC-BRBEV2CMMI.f3b1dd` |  |
+| Mg2Pb | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | -5.533 kJ/mol-atom |  | experimental | -5.451 (mp-aaaaberc) | -6.083 (oqmd-17637) | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10; `ORC-UN5ZR3DH4R.a5aded` |  |
+| Mg2Pb | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | -5.52861 kJ/mol-atom |  | experimental | -5.451 (mp-aaaaberc) | -6.083 (oqmd-17637) | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10; `ORC-UN5ZR3DH4R.9ee812` |  |
+| Mg2Pb | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | -5.5 kJ/mol-atom |  | experimental | -5.451 (mp-aaaaberc) | -6.083 (oqmd-17637) | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8; `ORC-VASZEU4BTD.47e16d` |  |
+| Mg2Pb | [Mg2Pb](https://data.orchid-project.org/compounds/Mg2Pb.html) | -5.49966 kJ/mol-atom |  | experimental | -5.451 (mp-aaaaberc) | -6.083 (oqmd-17637) | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8; `ORC-VASZEU4BTD.11e7a0` |  |
 | Mg2Pb |  | -4.24535 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12; `ORC-52NEUIMXXM.75397e` |  |
 | Mg2Pb |  | -4.245 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12; `ORC-52NEUIMXXM.67b2a3` |  |
 
@@ -202,10 +202,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -214,7 +214,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -225,7 +225,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -235,7 +235,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -245,7 +245,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

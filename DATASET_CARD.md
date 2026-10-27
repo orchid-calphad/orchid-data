@@ -299,6 +299,8 @@ dataset_info:
     dtype: bool
   - name: flag_espei_ready_upstream
     dtype: bool
+  - name: flag_quote_clipped
+    dtype: bool
   - name: flag_state_fully_specified
     dtype: bool
   - name: flag_value_in_quote
@@ -418,7 +420,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 73542
-  download_size: 7557182
+  download_size: 7690697
 - config_name: papers
   features:
   - name: id
@@ -453,8 +455,8 @@ dataset_info:
     dtype: int32
   splits:
   - name: full
-    num_examples: 4881
-  download_size: 530861
+    num_examples: 4882
+  download_size: 532006
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -519,6 +521,8 @@ dataset_info:
     dtype: float64
   - name: quote
     dtype: string
+  - name: quote_clipped
+    dtype: bool
   - name: page
     dtype: int32
   - name: extraction_accepted
@@ -532,7 +536,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 1504
-  download_size: 161785
+  download_size: 160309
 - config_name: dft_parity
   features:
   - name: record_id
@@ -643,8 +647,8 @@ dataset_info:
     list: string
   splits:
   - name: full
-    num_examples: 7592
-  download_size: 290794
+    num_examples: 7594
+  download_size: 291553
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -685,8 +689,8 @@ dataset_info:
     dtype: int32
   splits:
   - name: full
-    num_examples: 15322
-  download_size: 690948
+    num_examples: 15336
+  download_size: 691861
 - config_name: phase_diagram_index
   features:
   - name: system
@@ -724,7 +728,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 2774
-  download_size: 263049
+  download_size: 265380
 - config_name: hull_vertices
   features:
   - name: system
@@ -772,7 +776,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 28143
-  download_size: 671299
+  download_size: 671639
 - config_name: phases
   features:
   - name: id
@@ -834,7 +838,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 10430
-  download_size: 452491
+  download_size: 451612
 - config_name: structure_types
   features:
   - name: id
@@ -866,7 +870,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 1563
-  download_size: 53103
+  download_size: 53479
 - config_name: assessed_phase_assemblages
   features:
   - name: id
@@ -970,7 +974,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 23129
-  download_size: 1721874
+  download_size: 1722192
 - config_name: bibliography_papers
   features:
   - name: id
@@ -1069,8 +1073,8 @@ dataset_info:
     dtype: string
   splits:
   - name: full
-    num_examples: 9569
-  download_size: 1539815
+    num_examples: 9570
+  download_size: 1539772
 - config_name: bibliography_edges
   features:
   - name: id
@@ -1099,8 +1103,8 @@ dataset_info:
     dtype: string
   splits:
   - name: full
-    num_examples: 60231
-  download_size: 1084933
+    num_examples: 60235
+  download_size: 1085161
 ---
 
 # ORCHID data: analysis-ready tables
@@ -1129,16 +1133,16 @@ format.
 | config | rows | content |
 |---|---:|---|
 | `literature_values` | 73,542 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, uncertainty budget (`sigma_*` columns), ML split |
-| `papers` | 4,881 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
+| `papers` | 4,882 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
 | `experimental_context` | 1,504 | samples, heat treatments and measurements of 225 papers, each with its quote and page |
-| `dft_parity` | 7,592 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
-| `phase_diagram_invariants` | 15,322 | distinct invariant equilibria of 2,720 calculated SGTE binary phase diagrams: T, phases, phase compositions; `n_mapper_hits` = how often the mapper found it (the JSON files list all 24,828 hits) |
+| `dft_parity` | 7,594 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
+| `phase_diagram_invariants` | 15,336 | distinct invariant equilibria of 2,720 calculated SGTE binary phase diagrams: T, phases, phase compositions; `n_mapper_hits` = how often the mapper found it (the JSON files list all 24,828 hits) |
 | `phase_diagram_index` | 2,774 | one row per calculated diagram (2,720 `ok`, 54 `failed`), TDB file, SHA-256, citation |
 | `hull_vertices` | 28,143 | binary convex-hull vertices: 12,829 Materials Project (v2026.04.13), 15,314 OQMD (v1.8) |
 | `phases` | 10,430 | phase registry: one row per phase of each of 1,241 binary systems (`phases/registry.parquet`) |
 | `assessed_phase_assemblages` | 23,129 | one (T, x, P) point deep inside each named phase field of the expert-drawn (assessed) binary diagrams compiled in Okamoto's Desk Handbook, with the assemblage, registry ids, basis, confidence and SGTE cross-check (`assessed-phase-assemblages/records.parquet`) |
-| `bibliography_papers` | 9,569 | every paper ORCHID knows: Crossref metadata, roles, value counts, DOI check (`bibliography/papers.parquet`) |
-| `bibliography_edges` | 60,231 | typed relations between papers, TDB files and handbook diagrams, with provenance (`bibliography/edges.parquet`) |
+| `bibliography_papers` | 9,570 | every paper ORCHID knows: Crossref metadata, roles, value counts, DOI check (`bibliography/papers.parquet`) |
+| `bibliography_edges` | 60,235 | typed relations between papers, TDB files and handbook diagrams, with provenance (`bibliography/edges.parquet`) |
 | `structure_types` | 1,563 | structure types used by the registry: prototype, Strukturbericht, Pearson symbol, space group, sources (`phases/structure_types.parquet`) |
 
 ### Uncertainty budget (`literature_values.sigma_*`, `uncertainty_budget`)

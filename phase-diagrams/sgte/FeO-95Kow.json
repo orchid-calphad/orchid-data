@@ -1,1 +1,1 @@
-{"tdb":"FeO-95Kow.tdb","elements":["Fe","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"FeO-95Kow.tdb","elements":["Fe","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"4b25481824b6c6779b0d82a9bdb7bd5262ff1e4bcaaf8c983a83b5c2eb0a3520","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

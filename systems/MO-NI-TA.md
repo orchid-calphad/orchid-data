@@ -1,10 +1,10 @@
 # Mo–Ni–Ta system
 
-> Mo–Ni–Ta system: 58 accepted literature values (phase equilibrium 42, formation 10, mixing / partial 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ni–Ta system: 56 accepted literature values (phase equilibrium 42, formation 8, mixing / partial 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NI-TA.html · Markdown: https://data.orchid-project.org/systems/MO-NI-TA.md
 
-58 accepted literature values from 2 paper(s) (experimental 42, DFT 16); 0 calculated phase diagram(s).
+56 accepted literature values from 2 paper(s) (experimental 42, DFT 14); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI-TA.json) · [CSV](https://data.orchid-project.org/systems/MO-NI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI-TA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NI-TA.html) · [Markdown](https://data.orchid-project.org/systems/MO-NI-TA.md)
 
@@ -13,21 +13,21 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 42 |
-| DFT | 16 |
+| DFT | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 42 |
-| formation | 10 |
+| formation | 8 |
 | mixing / partial | 6 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–Ni–Ta system (10)
+Table: Enthalpies of formation, Mo–Ni–Ta system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -35,8 +35,6 @@ Table: Enthalpies of formation, Mo–Ni–Ta system (10)
 | Ni24Ni20Ta12 |  | -16.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 29; `ORC-ME5DDD4PKZ.f7fd65` |  |
 | Ni24Ta20Mo12 |  | -16.79 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 27; `ORC-BXVMCWKNHW.c08870` |  |
 | Ni24Ta20Ta12 |  | 0.62 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 30; `ORC-IPHSL3V4WR.fbef8f` |  |
-| UNKNOWN |  | 0 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 3; `ORC-DWZUJCX5W5` |  |
-| UNKNOWN |  | 39.51 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 4; `ORC-6PN52EDCND` |  |
 | δ |  | -16.79 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 27; `ORC-BXVMCWKNHW.0190e5` |  |
 | δ |  | -16.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 29; `ORC-ME5DDD4PKZ.06e479` |  |
 | δ |  | -10.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 28; `ORC-5M4IIWUOLU.45ae4a` |  |
@@ -115,8 +113,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -125,7 +123,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -136,7 +134,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

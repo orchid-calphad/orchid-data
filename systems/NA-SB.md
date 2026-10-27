@@ -1,10 +1,10 @@
 # Na–Sb system
 
-> Na–Sb system: 64 accepted literature values (formation 34, phase transition 13, heat capacity / entropy / enthalpy 12, invariant reaction 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–Sb system: 49 accepted literature values (formation 19, phase transition 13, heat capacity / entropy / enthalpy 12, invariant reaction 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-SB.html · Markdown: https://data.orchid-project.org/systems/NA-SB.md
 
-64 accepted literature values from 2 paper(s) (experimental 32, model 28, DFT 4); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+49 accepted literature values from 2 paper(s) (experimental 21, model 24, DFT 4); 2 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-SB.json) · [CSV](https://data.orchid-project.org/systems/NA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-SB/NaSb-13Liu.json) · [phases (7)](https://data.orchid-project.org/phases/pages/NA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-SB.html) · [Markdown](https://data.orchid-project.org/systems/NA-SB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 32 |
-| model | 28 |
+| experimental | 21 |
+| model | 24 |
 | DFT | 4 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | phase transition | 13 |
-| formation | 34 |
+| formation | 19 |
 | heat capacity / entropy / enthalpy | 12 |
 
 ## Calculated phase diagrams
@@ -65,7 +65,7 @@ Table: Invariant reactions reported in the literature for the Na–Sb system (5)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Na–Sb system (22)
+Table: Enthalpies of formation, Na–Sb system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -82,15 +82,6 @@ Table: Enthalpies of formation, Na–Sb system (22)
 | NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -36 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.8a3797` |  |
 | NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -35 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.969e7f` |  |
 | NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -33 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 9; `ORC-2PS7PBSDCO.3dc764` |  |
-| UNKNOWN |  | -234 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2; `ORC-223PF5O6OY.1c077d` |  |
-| UNKNOWN |  | -227 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3; `ORC-FV5NVFPNHC.56e9c9` |  |
-| UNKNOWN |  | -226 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2013 | Table 2, p. 4, row 1; `ORC-XHQKMYGYLV.50cfbf` |  |
-| UNKNOWN |  | -213 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Morozova 1959_ | Table 2, p. 4, row 4; `ORC-C4RJJYSSQ6.56bfa4` |  |
-| UNKNOWN |  | -197 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 5; `ORC-TJNKYZVPIG.c35d52` |  |
-| UNKNOWN |  | -75 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2013 | Table 2, p. 4, row 6; `ORC-6YTEU4I4S2.167c5a` |  |
-| UNKNOWN |  | -72 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.268fff` |  |
-| UNKNOWN |  | -70 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.8b0e5f` |  |
-| UNKNOWN |  | -66 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 9; `ORC-2PS7PBSDCO.2aa15a` |  |
 
 ## Other properties
 
@@ -114,7 +105,7 @@ Table: Phase transition, Na–Sb system
 | Phase transition | 1132 K | 1132 | congruent transformation | experimental | [1] Liu 2013; _cites Ugai 1961_ | p. 2; `ORC-MVQCBSQ6MP.3aed2f` | “The congruent melting temperatures of Na3 Sb and NaSb were measured by Ugai \[9\] with thermal analysis, the results of which are 1132 and 738 K, respectively.” |
 | Phase transition | 1132 K | 1132 | liq -> Na3Sb; _liq: Sb 0.25; Na3Sb: Sb 0.25_ | experimental | [1] Liu 2013; _cites Ugai 1961_ | Table 3, p. 5, row 5; `ORC-RBB2SVM4UM` |  |
 
-### Formation (12)
+### Formation (6)
 
 Table: Formation, Na–Sb system
 
@@ -122,16 +113,10 @@ Table: Formation, Na–Sb system
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: Entropies of formation_ | -9.775 J/mol-atom/K |  | Na3Sb(s); _alloy: Sb 0.25_ | model | [1] Liu 2013 | Table 2, p. 4, row 1; `ORC-XHQKMYGYLV.22e266` |  |
 | Entropy of formation; _printed: Entropies of formation_ | -2.315 J/mol-atom/K |  | NaSb(s); _alloy: Sb 0.5_ | model | [1] Liu 2013 | Table 2, p. 4, row 6; `ORC-6YTEU4I4S2.0522e8` |  |
-| Entropy of formation; _printed: Entropies of formation_ | -4.63 J/mol (basis unstated)/K |  | UNKNOWN | model | [1] Liu 2013 | Table 2, p. 4, row 6; `ORC-6YTEU4I4S2.353392` |  |
-| Entropy of formation; _printed: Entropies of formation_ | -39.1 J/mol (basis unstated)/K |  | UNKNOWN | model | [1] Liu 2013 | Table 2, p. 4, row 1; `ORC-XHQKMYGYLV.a291bc` |  |
 | Entropy of formation; _printed: Entropies of formation_ | -23 J/mol-atom/K | 298.15 | Na3Sb(s); _alloy: Sb 0.25_ | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2; `ORC-223PF5O6OY.2b063d` |  |
 | Entropy of formation; _printed: Entropies of formation_ | -15 J/mol-atom/K | 298.15 | Na3Sb(s); _alloy: Sb 0.25_ | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3; `ORC-FV5NVFPNHC.faa6bc` |  |
 | Entropy of formation; _printed: Entropies of formation_ | -8.5 J/mol-atom/K | 298.15 | NaSb(s); _alloy: Sb 0.5_ | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.c78448` |  |
 | Entropy of formation; _printed: Entropies of formation_ | -3.5 J/mol-atom/K | 298.15 | NaSb(s); _alloy: Sb 0.5_ | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.6745a7` |  |
-| Entropy of formation; _printed: Entropies of formation_ | -92 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2; `ORC-223PF5O6OY.1aa2e4` |  |
-| Entropy of formation; _printed: Entropies of formation_ | -60 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3; `ORC-FV5NVFPNHC.265823` |  |
-| Entropy of formation; _printed: Entropies of formation_ | -17 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8; `ORC-KVO7ORMPOA.eb8198` |  |
-| Entropy of formation; _printed: Entropies of formation_ | -7 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7; `ORC-XJW3GTXV3N.5665f6` |  |
 
 ### Heat capacity / entropy / enthalpy (12)
 
@@ -161,10 +146,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -173,7 +158,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -184,7 +169,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -194,7 +179,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -204,7 +189,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

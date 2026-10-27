@@ -18,7 +18,7 @@ Table: Phases of the La–Mg system (17)
 | [MG3M_D03](#phase-la-mg-d03-mg3m); _phase:la-mg:d03-mg3m_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1071.43 K, x(Mg) 0.75–0.80818 | 11 | 4 |
 | [MG12R_D2B](#phase-la-mg-d2b-mg12r); _phase:la-mg:d2b-mg12r_ | Mn12Th · D2_b · tI26 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–913.18 K, x(Mg) 0.92308–0.92308 | 0 | 1 |
 | [DHCP](#phase-la-mg-dhcp-a3); _phase:la-mg:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–602.74 K, x(Mg) 0–0.02108 | 2 | 6 |
-| [FCC_A1](#phase-la-mg-fcc-a1); _phase:la-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 518.04–1173.33 K, x(Mg) 0–0.09364 | 4 | 6 |
+| [FCC_A1](#phase-la-mg-fcc-a1); _phase:la-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 518.04–1173.33 K, x(Mg) 0–0.09364 | 6 | 6 |
 | [HCP_A3](#phase-la-mg-hcp-a3); _phase:la-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.25 K, x(Mg) 0.99844–1 | 9 | 6 |
 | [LA2MG17](#phase-la-mg-la2mg17); _phase:la-mg:la2mg17_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–945.51 K, x(Mg) 0.89474–0.89474 | 24 | 2 |
 | [LA5MG41](#phase-la-mg-la5mg41); _phase:la-mg:la5mg41_ | Ce5Mg41 · tI92 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 550–945 K, x(Mg) 0.8913–0.8913 | 18 | 2 |
@@ -361,11 +361,11 @@ _cited as the source of values for this phase_
 - Id: `phase:la-mg:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 518.04–1173.33 K, x(Mg) 0–0.09364
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mg:fcc-a1)
 
-Names (8): _corpus: _corpus:phase:la-mg:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2004.04.105:fcc(La)  
+Names (9): _corpus: _corpus:phase:la-mg:fcc-a1  
+_paper: _paper:10.1016/j.jallcom.2004.04.105:fcc(La), paper:10.1016/j.jallcom.2015.12.105:(βLa)  
 _tdb: _tdb:LaMg-04Guo-LB.tdb:FCC_A1, tdb:LaMg-10Guo.tdb:FCC_A1, tdb:LaMg-11Ber.tdb:FCC_A1, tdb:LaMg-12Gro.tdb:FCC_A1, tdb:LaMg-16Zha.tdb:FCC_A1, tdb:LaMg-18Zhu.tdb:FCC_A1  
 
 
@@ -413,21 +413,23 @@ _tdb: _tdb:LaMg-04Guo-LB.tdb:FCC_A1, tdb:LaMg-10Guo.tdb:FCC_A1, tdb:LaMg-11Ber.t
 29: CONST FCC_A1 : LA% MG : VA% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.jallcom.2004.04.105](https://doi.org/10.1016/j.jallcom.2004.04.105) Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2015.12.105](https://doi.org/10.1016/j.jallcom.2015.12.105) Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2011.10.001](https://doi.org/10.1016/j.calphad.2011.10.001) A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).  
 _assessment that models this phase_
 - [doi:10.1016/j.intermet.2012.04.012](https://doi.org/10.1016/j.intermet.2012.04.012) Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).  
-_assessment that models this phase_
-- [doi:10.1016/j.jallcom.2015.12.105](https://doi.org/10.1016/j.jallcom.2015.12.105) Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2017.10.013](https://doi.org/10.1016/j.jallcom.2017.10.013) Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018).  
 _assessment that models this phase_
 - [doi:10.3139/146.110380](https://doi.org/10.3139/146.110380) C. Guo, Z. Du, C. Li, Int. J. Mater. Res., 101, 1424-31(2010).  
 _assessment that models this phase_
 - [doi:10.1007/bf02890558](https://doi.org/10.1007/bf02890558) A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02663191](https://doi.org/10.1007/bf02663191) J. W. Herchenroeder, P. Manfrinetti, K. A. Gschneidner, Physical metallurgy of metastable bcc lanthanide-magnesium alloys for R = La, Gd, and Dy, Metall Trans A 20, 1575-1583 (1989).  
 _cited as the source of values for this phase_
 
 ## HCP_A3 (La–Mg)
@@ -980,8 +982,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -990,7 +992,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -1001,7 +1003,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -1,10 +1,10 @@
 # B–Fe–Ti system
 
-> B–Fe–Ti system: 146 accepted literature values (phase equilibrium 122, invariant reaction 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Fe–Ti system: 144 accepted literature values (phase equilibrium 120, invariant reaction 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-FE-TI.html · Markdown: https://data.orchid-project.org/systems/B-FE-TI.md
 
-146 accepted literature values from 1 paper(s) (experimental 111, model 16, unspecified 19); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+144 accepted literature values from 1 paper(s) (experimental 109, model 16, unspecified 19); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-FE-TI.json) · [CSV](https://data.orchid-project.org/systems/B-FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-FE-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-FE-TI.html) · [Markdown](https://data.orchid-project.org/systems/B-FE-TI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 111 |
+| experimental | 109 |
 | model | 16 |
 | unspecified | 19 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 24 |
-| phase equilibrium | 122 |
+| phase equilibrium | 120 |
 
 ## Invariant reactions (literature)
 
@@ -56,7 +56,7 @@ Table: Invariant reactions reported in the literature for the B–Fe–Ti system
 
 ## Other properties
 
-### Phase equilibrium (122)
+### Phase equilibrium (120)
 
 Table: Phase equilibrium, B–Fe–Ti system
 
@@ -132,7 +132,6 @@ Table: Phase equilibrium, B–Fe–Ti system
 | Phase composition |  |  | TiB2; _TiB2: B 0.67, Fe 0.049, Ti 0.281_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 45; `ORC-TCFK5ETSYA` |  |
 | Phase composition |  |  | TiB2; _TiB2: B 0.67, Fe 0.047, Ti 0.283_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 64; `ORC-YMNS7MRU46` |  |
 | Phase composition |  |  | TiB2; _TiB2: B 0.68, Fe 0.011, Ti 0.309_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 36; `ORC-Z2XEKN5K7Z` |  |
-| Phase composition |  |  | UNKNOWN; _UNKNOWN: B 0.65, Fe 0.049, Ti 0.301_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 58; `ORC-J6PHN3FGNE` |  |
 | Phase composition |  | 1273 | A2; _A2: B 0, Fe 0.2, Ti 0.8_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 8; `ORC-4FUZCAHBD6` |  |
 | Phase composition |  | 1273 | A2 (Fe); _A2 (Fe): B 0, Fe 0.936, Ti 0.064_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 42; `ORC-KHB5DXOJYX` |  |
 | Phase composition |  | 1273 | A2(Fe) + C14; _A2(Fe): B 0, Fe 0.947, Ti 0.053; C14: B 0, Fe 0.733, Ti 0.267_ | unspecified | [1] Witusiewicz 2019 | Table 1, p. 3, row 18; `ORC-WHKCGSNT6J` |  |
@@ -159,7 +158,6 @@ Table: Phase equilibrium, B–Fe–Ti system
 | Phase composition |  | 1373 | Fe2B; _Fe2B: B 0.33, Fe 0.667, Ti 0.003_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 54; `ORC-OAXLH3TMCB` |  |
 | Phase composition |  | 1373 | Fe2B TiB2; _Fe2B TiB2: B 0.33, Fe 0.662, Ti 0.008_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 60; `ORC-6NAMRCLSZM` |  |
 | Phase composition |  | 1373 | TiB2; _TiB2: B 0.67, Fe 0, Ti 0.33_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 55; `ORC-URRJMCHOXP` |  |
-| Phase composition |  | 1373 | UNKNOWN; _UNKNOWN: B 0.67, Fe 0.026, Ti 0.304_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 61; `ORC-5CUX2BTGYE` |  |
 | Phase composition |  | 1423 | A2 (Fe); _A2 (Fe): B 0, Fe 0.927, Ti 0.073_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 39; `ORC-LCV5KWQPAY` |  |
 | Phase composition |  | 1423 | TiB2; _TiB2: B 0.67, Fe 0.006, Ti 0.324_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 40; `ORC-VHE644D4ER` |  |
 | Phase composition |  | 1523 | A2; _A2: B 0, Fe 0.987, Ti 0.013_ | experimental | [1] Witusiewicz 2019 | Table 1, p. 2, row 47; `ORC-NCRASKW2YT` |  |
@@ -193,8 +191,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -203,7 +201,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -214,7 +212,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -64,27 +64,27 @@ Table: Formation, Hf–Ni–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 211.7 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.b3dd86` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 18.1 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.65b247` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 270 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0.5, Sn 0.25_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.56e35a` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 201.3 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.51e9bb` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | -3.4 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.a56264` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 152.2 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0.5, Sn 0.25_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.e7e82a` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 226.4 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.890082` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 77.4 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 0.5, Sn 0.25_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.565251` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 183.5 kJ/mol (basis unstated) | 0 | HfNi2Sn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.867eee` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 416.7 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.3e358d` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 260.4 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.015b7a` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 438.4 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0.333333, Sn 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.20e621` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 606.9 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.8b6550` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 435.4 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 12; `ORC-IEUVTOLMNL.1a6c9d` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 159.4 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.74d161` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 352 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0.333333, Sn 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.d41ae7` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 362.1 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0.333333, Sn 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 10; `ORC-LBCEJBDSO4.8cd541` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 219.6 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.4c169b` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 110.2 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 11; `ORC-LLPCIIVZFK.6337c7` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 292.1 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 0.333333, Sn 0.333333_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.ab8d0d` |  |
-| defect formation energy; _printed: Enthalpy of formation of the defects_ | 361.3 kJ/mol (basis unstated) | 0 | HfNiSn; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.4631a4` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 211.7 kJ/mol-defect | 0 | HfNi2Sn | DFT | [1] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.b3dd86` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 18.1 kJ/mol-defect | 0 | HfNi2Sn | DFT | [1] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.65b247` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 270 kJ/mol-defect | 0 | HfNi2Sn | DFT | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.56e35a` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 201.3 kJ/mol-defect | 0 | HfNi2Sn | DFT | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.51e9bb` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | -3.4 kJ/mol-defect | 0 | HfNi2Sn | DFT | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.a56264` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 152.2 kJ/mol-defect | 0 | HfNi2Sn | DFT | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.e7e82a` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 226.4 kJ/mol-defect | 0 | HfNi2Sn | DFT | [1] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.890082` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 77.4 kJ/mol-defect | 0 | HfNi2Sn | DFT | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.565251` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 183.5 kJ/mol-defect | 0 | HfNi2Sn | DFT | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.867eee` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 416.7 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 1; `ORC-3J4HV2RD6E.3e358d` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 260.4 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 2; `ORC-AVP4BLDVG5.015b7a` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 438.4 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 9; `ORC-D7CNPHBOMT.20e621` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 606.9 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 8; `ORC-EYH2TUTHTZ.8b6550` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 435.4 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 12; `ORC-IEUVTOLMNL.1a6c9d` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 159.4 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 7; `ORC-J6FFOCJ36C.74d161` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 352 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 4; `ORC-KKAFA5BPXA.d41ae7` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 362.1 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 10; `ORC-LBCEJBDSO4.8cd541` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 219.6 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 5; `ORC-LDAYZNGOPU.4c169b` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 110.2 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 11; `ORC-LLPCIIVZFK.6337c7` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 292.1 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 3; `ORC-OQGVR2JUYV.ab8d0d` |  |
+| defect formation energy; _printed: Enthalpy of formation of the defects_ | 361.3 kJ/mol-defect | 0 | HfNiSn | DFT | [1] Berche 2016 | Table 3, p. 5, row 6; `ORC-TH5BPDLPA2.4631a4` |  |
 
 ## Sources
 
@@ -94,8 +94,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -104,7 +104,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -115,7 +115,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -2,7 +2,7 @@
  "_comment": "Every number in the descriptions of zenodo/*.metadata.json (except ORCHID-Assemblages, written by tools/build_assessed_assemblages.py) with the release file it was read from. Written by tools/build_zenodo_metadata.py.",
  "numbers": {
   "accepted": {
-   "value": 68290,
+   "value": 65311,
    "source": "parquet/literature_values.parquet"
   },
   "asm_diagrams": {
@@ -18,11 +18,11 @@
    "source": "parquet/literature_values.parquet"
   },
   "basis_unstated": {
-   "value": 2297,
+   "value": 2255,
    "source": "parquet/literature_values.parquet"
   },
   "bib_cited": {
-   "value": 3577,
+   "value": 3578,
    "source": "bibliography/index.json"
   },
   "bib_crossref": {
@@ -30,7 +30,7 @@
    "source": "bibliography/index.json (crossref_retrieved)"
   },
   "bib_doi": {
-   "value": 7812,
+   "value": 7813,
    "source": "bibliography/index.json"
   },
   "bib_dropped": {
@@ -38,11 +38,11 @@
    "source": "bibliography/index.json"
   },
   "bib_e_cited_by_crossref": {
-   "value": 44888,
+   "value": 44890,
    "source": "bibliography/index.json"
   },
   "bib_e_cites": {
-   "value": 3792,
+   "value": 3793,
    "source": "bibliography/index.json"
   },
   "bib_e_handbook_reproduces": {
@@ -58,7 +58,7 @@
    "source": "bibliography/index.json"
   },
   "bib_edges": {
-   "value": 60231,
+   "value": 60235,
    "source": "bibliography/index.json"
   },
   "bib_handbook": {
@@ -74,7 +74,7 @@
    "source": "bibliography/index.json"
   },
   "bib_papers": {
-   "value": 9569,
+   "value": 9570,
    "source": "bibliography/index.json"
   },
   "bib_read": {
@@ -86,7 +86,7 @@
    "source": "bibliography/index.json"
   },
   "bib_unverifiable": {
-   "value": 23,
+   "value": 24,
    "source": "bibliography/index.json"
   },
   "bib_verified": {
@@ -98,39 +98,39 @@
    "source": "bibliography/index.json"
   },
   "es_assessed": {
-   "value": 645,
+   "value": 643,
    "source": "espei/index.json"
   },
   "es_datasets": {
-   "value": 6310,
+   "value": 6456,
    "source": "espei/index.json"
   },
   "es_derived": {
-   "value": 1497,
+   "value": 1494,
    "source": "espei/index.json"
   },
   "es_dft": {
-   "value": 3298,
+   "value": 3285,
    "source": "espei/index.json (datasets by folder)"
   },
   "es_experimental": {
-   "value": 971,
+   "value": 1122,
    "source": "espei/index.json (datasets by folder)"
   },
   "es_invariants": {
-   "value": 1548,
+   "value": 1546,
    "source": "espei/index.json (datasets by folder)"
   },
   "es_model": {
-   "value": 493,
+   "value": 503,
    "source": "espei/index.json (datasets by folder)"
   },
   "es_systems": {
-   "value": 692,
+   "value": 690,
    "source": "espei/index.json"
   },
   "es_values": {
-   "value": 13174,
+   "value": 12516,
    "source": "espei/index.json"
   },
   "es_version": {
@@ -138,31 +138,31 @@
    "source": "espei/validation.json"
   },
   "ev_dft": {
-   "value": 6149,
+   "value": 6150,
    "source": "parquet/literature_values.parquet"
   },
   "ev_experimental": {
-   "value": 36247,
+   "value": 36255,
    "source": "parquet/literature_values.parquet"
   },
   "ev_model": {
-   "value": 26192,
+   "value": 26186,
    "source": "parquet/literature_values.parquet"
   },
   "ev_unspecified": {
-   "value": 4954,
+   "value": 4951,
    "source": "parquet/literature_values.parquet"
   },
   "ex_commit": {
-   "value": "16d4eabe65",
+   "value": "2c88720c7f",
    "source": "zenodo/orchid-examples.files.json"
   },
   "ex_files": {
-   "value": 397,
+   "value": 426,
    "source": "zenodo/orchid-examples.files.json"
   },
   "ex_kb": {
-   "value": 11675,
+   "value": 13931,
    "source": "zenodo/orchid-examples.files.json (total_bytes / 1000)"
   },
   "h_mp_agree": {
@@ -226,7 +226,7 @@
    "source": "literature/kim2017_crosscheck.json"
   },
   "lit_biblio": {
-   "value": 4881,
+   "value": 4882,
    "source": "literature/papers.json"
   },
   "lit_context": {
@@ -246,19 +246,19 @@
    "source": "parquet/literature_values.parquet"
   },
   "par_compounds": {
-   "value": 964,
+   "value": 965,
    "source": "literature/dft_parity.json"
   },
   "par_mp": {
-   "value": 3652,
+   "value": 3653,
    "source": "literature/dft_parity.json"
   },
   "par_mp_mae": {
-   "value": 9.5,
+   "value": 9.6,
    "source": "literature/dft_parity.json"
   },
   "par_mp_n": {
-   "value": 1093,
+   "value": 1077,
    "source": "literature/dft_parity.json"
   },
   "par_mp_spearman": {
@@ -266,7 +266,7 @@
    "source": "literature/dft_parity.json"
   },
   "par_oqmd": {
-   "value": 3940,
+   "value": 3941,
    "source": "literature/dft_parity.json"
   },
   "par_oqmd_mae": {
@@ -274,7 +274,7 @@
    "source": "literature/dft_parity.json"
   },
   "par_oqmd_n": {
-   "value": 1130,
+   "value": 1114,
    "source": "literature/dft_parity.json"
   },
   "par_oqmd_spearman": {
@@ -282,11 +282,11 @@
    "source": "literature/dft_parity.json"
   },
   "par_points": {
-   "value": 7592,
+   "value": 7594,
    "source": "literature/dft_parity.json"
   },
   "par_records": {
-   "value": 4040,
+   "value": 4041,
    "source": "literature/dft_parity.json"
   },
   "pd_engine": {
@@ -294,7 +294,7 @@
    "source": "phase-diagrams/index.json"
   },
   "pd_failed": {
-   "value": 54,
+   "value": 52,
    "source": "parquet/phase_diagram_index.parquet"
   },
   "pd_files": {
@@ -302,15 +302,15 @@
    "source": "parquet/phase_diagram_index.parquet"
   },
   "pd_hits": {
-   "value": 24828,
+   "value": 24849,
    "source": "parquet/phase_diagram_invariants.parquet (sum of n_mapper_hits)"
   },
   "pd_invariants": {
-   "value": 15322,
+   "value": 15336,
    "source": "parquet/phase_diagram_invariants.parquet"
   },
   "pd_ok": {
-   "value": 2720,
+   "value": 2722,
    "source": "parquet/phase_diagram_index.parquet"
   },
   "pg_equilibrium": {
@@ -322,7 +322,7 @@
    "source": "parquet/literature_values.parquet (property_group)"
   },
   "pg_invariant": {
-   "value": 26417,
+   "value": 26411,
    "source": "parquet/literature_values.parquet (property_group)"
   },
   "pg_structure": {
@@ -342,7 +342,7 @@
    "source": "phases/registry.json"
   },
   "reg_names": {
-   "value": 43190,
+   "value": 43265,
    "source": "phases/registry.json"
   },
   "reg_phases": {

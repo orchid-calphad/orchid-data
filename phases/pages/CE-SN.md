@@ -14,7 +14,7 @@ Table: Phases of the Ce–Sn system (15)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-ce-sn-a4-diamond); _phase:ce-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [BCT_A5](#phase-ce-sn-a5-bct); _phase:ce-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–505.41 K, x(Sn) 1–1 | 4 | 2 |
-| [BCC_A2](#phase-ce-sn-bcc-a2); _phase:ce-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 957.16–1079.72 K, x(Sn) 0–0.01602 | 4 | 2 |
+| [BCC_A2](#phase-ce-sn-bcc-a2); _phase:ce-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 957.16–1079.72 K, x(Sn) 0–0.01602 | 10 | 2 |
 | [CE11SN10](#phase-ce-sn-ce11sn10); _phase:ce-sn:ce11sn10_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1651.52 K, x(Sn) 0.47611–0.5144 | 28 | 2 |
 | [CE2SN5](#phase-ce-sn-ce2sn5); _phase:ce-sn:ce2sn5_ | Ce2Sn5 · oC28 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1419.94 K, x(Sn) 0.71429–0.71429 | 29 | 2 |
 | [CE3SN_L12](#phase-ce-sn-ce3sn-l12); _phase:ce-sn:ce3sn-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1233.1 K, x(Sn) 0.25–0.25 | 14 | 2 |
@@ -110,11 +110,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ce-sn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 957.16–1079.72 K, x(Sn) 0–0.01602
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-sn:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:ce-sn:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2013.04.003:Bcc_A2  
+Names (5): _corpus: _corpus:phase:ce-sn:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2013.04.003:Bcc_A2, paper:10.1016/j.calphad.2013.07.013:δCe  
 _tdb: _tdb:CeSn-13Don.tdb:BCC_A2, tdb:CeSn-13Li.tdb:BCC_A2  
 
 
@@ -134,13 +134,15 @@ _tdb: _tdb:CeSn-13Don.tdb:BCC_A2, tdb:CeSn-13Li.tdb:BCC_A2
 41: CONST BCC_A2 : CE% SN : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
+- [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.04.003](https://doi.org/10.1016/j.calphad.2013.04.003) Juan Li, Xiaoma Tao, Sisi Dong, Feng Yang, Huashan Liu, Zhanpeng Jin et al., Thermodynamic assessment of Sn–Cu–Ce system, Calphad 43, 124-132 (2013).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
-_assessment that models this phase_
 - [doi:10.1007/bf01913184](https://doi.org/10.1007/bf01913184) E. A. Franceschi, G. A. Costa, The phase diagram of the Ce-Sn System up to 50 AT.% Sn, Journal of Thermal Analysis 34, 451-456 (1988).  
+_cited as the source of values for this phase_
+- [doi:10.1361/105497198770342256](https://doi.org/10.1361/105497198770342256) P. Riani, D. Mazzone, G. Zanicchi, R. Marazza, R. Ferro, F. Faudot et al., On the Ce-Cu-Sn system, JPE 19, 239-251 (1998).  
 _cited as the source of values for this phase_
 
 ## CE11SN10 (Ce–Sn)
@@ -655,8 +657,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -665,7 +667,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -676,7 +678,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

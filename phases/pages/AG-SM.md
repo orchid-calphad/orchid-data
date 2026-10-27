@@ -12,7 +12,7 @@ Table: Phases of the Ag–Sm system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AG2SM_ALPHA](#phase-ag-sm-ag2sm-alpha); _phase:ag-sm:ag2sm-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–966.92 K, x(Sm) 0.33333–0.33333 | 8 | 1 |
+| [AG2SM_ALPHA](#phase-ag-sm-ag2sm-alpha); _phase:ag-sm:ag2sm-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–966.92 K, x(Sm) 0.33333–0.33333 | 6 | 1 |
 | [AG2SM_BETA](#phase-ag-sm-ag2sm-beta); _phase:ag-sm:ag2sm-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 966.92–1061.99 K, x(Sm) 0.33333–0.33333 | 6 | 1 |
 | [AG51SM14](#phase-ag-sm-ag51sm14); _phase:ag-sm:ag51sm14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1214.39 K, x(Sm) 0.21538–0.21538 | 14 | 1 |
 | [AGSM_B2](#phase-ag-sm-agsm-b2); _phase:ag-sm:agsm-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1226.63 K, x(Sm) 0.5–0.5 | 13 | 1 |
@@ -30,11 +30,11 @@ Table: Phases of the Ag–Sm system (9)
 - Candidate (sgte_mmc2): (Ag2Sm-alpha) — Hallstedt 2025 mmc2 row for AG2SM_ALPHA: Ag2Sm-alpha
 - Stoichiometry: Ag 0.6667, Sm 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–966.92 K, x(Sm) 0.33333–0.33333
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-sm:ag2sm-alpha)
 
-Names (4): _corpus: _corpus:phase:ag-sm:ag2sm-alpha  
-_paper: _paper:10.1007/s11669-020-00813-5:(αSm), paper:10.1007/s11669-020-00813-5:αAg2Sm  
+Names (3): _corpus: _corpus:phase:ag-sm:ag2sm-alpha  
+_paper: _paper:10.1007/s11669-020-00813-5:αAg2Sm  
 _tdb: _tdb:AgSm-20Zho.tdb:AG2SM_ALPHA  
 
 
@@ -309,8 +309,8 @@ _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -319,7 +319,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -330,7 +330,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

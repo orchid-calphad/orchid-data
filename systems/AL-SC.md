@@ -1,10 +1,10 @@
 # Al–Sc system
 
-> Al–Sc system: 112 accepted literature values (invariant reaction 70, crystal structure 33, formation 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sc system: 103 accepted literature values (invariant reaction 70, crystal structure 33) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SC.html · Markdown: https://data.orchid-project.org/systems/AL-SC.md
 
-112 accepted literature values from 4 paper(s) (experimental 44, model 40, unspecified 28); 3 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+103 accepted literature values from 4 paper(s) (experimental 35, model 40, unspecified 28); 3 calculated phase diagram(s). 20 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SC.json) · [CSV](https://data.orchid-project.org/systems/AL-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SC/AlSc-10Bo.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SC.html) · [Markdown](https://data.orchid-project.org/systems/AL-SC.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 44 |
+| experimental | 35 |
 | model | 40 |
 | unspecified | 28 |
 
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 70 |
-| formation | 9 |
 | crystal structure | 33 |
 
 ## Calculated phase diagrams
@@ -156,24 +155,6 @@ Table: Invariant reactions reported in the literature for the Al–Sc system (70
 | 929.5 | eutectic: Liquid -> Fcc_Al + Al3Sc | L: Sc 0.00566; Fcc_Al: Sc 0.00415; Al3Sc: Sc 0.25 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 2; `ORC-F4HFXB6Q5U` |  |
 | 928.15 | eutectic: L->(Al)+ScAl3 | L: Sc 0.0033; (Al): Sc 0.0021; ScAl3: Sc 0.25 | experimental | [3] Cacciamani 1999; _cites Drits 1973_ | Table 4, p. 7, row 2; `ORC-PICPAQL36I` |  |
 
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Al–Sc system (9)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -47.9 kJ/mol-atom ± 2 | 300 | experimental |  |  | [3] Cacciamani 1999; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990039-x) | Table 2, p. 3, row 5; `ORC-CN7HMEPRDL` |  |
-| UNKNOWN |  | -47.3 kJ/mol-atom ± 2 | 300 | experimental |  |  | [3] Cacciamani 1999 | Table 2, p. 3, row 6; `ORC-QSCPSONPZB` |  |
-| UNKNOWN |  | -47.2 kJ/mol-atom ± 2 | 300 | experimental |  |  | [3] Cacciamani 1999 | Table 2, p. 3, row 4; `ORC-4TZGUSMYBC` |  |
-| UNKNOWN |  | -47.2 kJ/mol-atom ± 2 | 300 | experimental |  |  | [3] Cacciamani 1999 | Table 2, p. 3, row 3; `ORC-WKB6OJFSLO` |  |
-| UNKNOWN |  | -45.9 kJ/mol-atom ± 2 | 300 | experimental |  |  | [3] Cacciamani 1999 | Table 2, p. 3, row 8; `ORC-ZPMMURBMQN` |  |
-| UNKNOWN |  | -43.5 kJ/mol-atom ± 2 | 300 | experimental |  |  | [3] Cacciamani 1999 | Table 2, p. 3, row 2; `ORC-3VKSCOF63L` |  |
-| UNKNOWN |  | -41.1 kJ/mol-atom ± 2 | 300 | experimental |  |  | [3] Cacciamani 1999; _cites Meschel 1994_ [doi](https://doi.org/10.1007/978-94-011-1092-1_12) | Table 2, p. 3, row 7; `ORC-JKDBXO2CJF` |  |
-| UNKNOWN |  | -40.2 kJ/mol-atom ± 2 | 300 | experimental |  |  | [3] Cacciamani 1999 | Table 2, p. 3, row 1; `ORC-HCWESQBSCX` |  |
-| UNKNOWN |  | -36.8 kJ/mol-atom ± 2 | 300 | experimental |  |  | [3] Cacciamani 1999 | Table 2, p. 3, row 9; `ORC-V55IIAN6LW` |  |
-
 ## Other properties
 
 ### Crystal structure (33)
@@ -227,10 +208,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -239,7 +220,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -250,7 +231,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -260,7 +241,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -270,7 +251,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

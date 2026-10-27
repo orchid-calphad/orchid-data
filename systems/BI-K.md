@@ -1,10 +1,10 @@
 # Bi–K system
 
-> Bi–K system: 83 accepted literature values (formation 50, invariant reaction 32, phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–K system: 82 accepted literature values (formation 49, invariant reaction 32, phase transition 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-K.html · Markdown: https://data.orchid-project.org/systems/BI-K.md
 
-83 accepted literature values from 1 paper(s) (experimental 38, model 39, unspecified 6); 3 calculated phase diagram(s).
+82 accepted literature values from 1 paper(s) (experimental 37, model 39, unspecified 6); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-K.json) · [CSV](https://data.orchid-project.org/systems/BI-K.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-K) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-K/BiK-12Niu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-K.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-K.html) · [Markdown](https://data.orchid-project.org/systems/BI-K.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
+| experimental | 37 |
 | model | 39 |
 | unspecified | 6 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 32 |
 | phase transition | 1 |
-| formation | 50 |
+| formation | 49 |
 
 ## Calculated phase diagrams
 
@@ -114,7 +114,7 @@ Table: Invariant reactions reported in the literature for the Bi–K system (32)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Bi–K system (16)
+Table: Enthalpies of formation, Bi–K system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -122,18 +122,17 @@ Table: Enthalpies of formation, Bi–K system (16)
 | Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -41 kJ/mol-atom ± 4.2 | 838 | unspecified | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 4; `ORC-4ABBGGQFFI.4ac59d` |  |
 | Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -40.8 kJ/mol-atom | 838 | experimental | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 5; `ORC-KEI2TY2L4J.d9b859` |  |
 | Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -34.2 kJ/mol-atom | 523 | model | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012 | Table 3, p. 4, row 3; `ORC-L3UASAPG7V.77de70` |  |
+| Bi2K | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -28.7 kJ/mol-atom ± 2.2 | 523 | experimental | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1; `ORC-OAM7DL5O44.d94368` |  |
 | Bi2K3 | [Bi2K3](https://data.orchid-project.org/compounds/Bi2K3.html) | -43.2 kJ/mol-atom | 523 | model | -31.875 (mp-aaacqqwr) | -33.986 (oqmd-1435539) | [1] Niu 2012 | Table 3, p. 4, row 14; `ORC-HMQVDKAC42.7fa48f` |  |
+| Bi2K3 | [Bi2K3](https://data.orchid-project.org/compounds/Bi2K3.html) | -39.5 kJ/mol-atom ± 2.2 | 523 | experimental | -31.875 (mp-aaacqqwr) | -33.986 (oqmd-1435539) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12; `ORC-5VLZZSK2FU.d897be` |  |
 | Bi4K5 | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -50.2 kJ/mol-atom ± 12.6 | 627 | unspecified | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10; `ORC-3L3YEMNECR.64f811` |  |
 | Bi4K5 | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -48.4 kJ/mol-atom | 627 | model | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012 | Table 3, p. 4, row 11; `ORC-GCE5VEZUQX.c71912` |  |
 | Bi4K5 | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -42.1 kJ/mol-atom | 523 | model | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012 | Table 3, p. 4, row 9; `ORC-YXG4J56R7H.cd78ca` |  |
+| Bi4K5 | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -38.1 kJ/mol-atom ± 2.2 | 523 | experimental | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7; `ORC-JHECAZUR7A.c83958` |  |
 | BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -51.3 kJ/mol-atom | 848 | model | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012 | Table 3, p. 4, row 19; `ORC-ABC2SN45RE.77a958` |  |
 | BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -49.2 kJ/mol-atom | 848 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18; `ORC-K4G26RVS4P.72381c` |  |
 | BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -46.7 kJ/mol-atom | 523 | model | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012 | Table 3, p. 4, row 17; `ORC-JX6VRWVKQ6.417946` |  |
 | BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -45.1 kJ/mol-atom ± 2.1 | 523 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.68996d` |  |
-| UNKNOWN | [Bi2K3](https://data.orchid-project.org/compounds/Bi2K3.html) | -39.5 kJ/mol-atom ± 2.2 | 523 | experimental | -31.875 (mp-aaacqqwr) | -33.986 (oqmd-1435539) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12; `ORC-5VLZZSK2FU.a87d23` |  |
-| UNKNOWN | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -38.1 kJ/mol-atom ± 2.2 | 523 | experimental | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7; `ORC-JHECAZUR7A.527387` |  |
-| UNKNOWN | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -28.7 kJ/mol-atom ± 2.2 | 523 | experimental | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1; `ORC-OAM7DL5O44.0f9db3` |  |
-| UNKNOWN |  | 45.1 kJ/mol-atom ± 2.1 | 523 | experimental |  |  | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.b4b400` |  |
 
 ## Other properties
 
@@ -152,13 +151,13 @@ Table: Formation, Bi–K system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔfS_ | -2.9 J/mol-atom/K | 523 | Bi2K; _alloy: K 0.333333_ | model | [1] Niu 2012 | Table 3, p. 4, row 3; `ORC-L3UASAPG7V.5ab8f3` |  |
+| Entropy of formation; _printed: ΔfS_ | -3.4 J/mol-atom/K ± 6.3 | 523 | Bi2K; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1; `ORC-OAM7DL5O44.ba4057` |  |
+| Entropy of formation; _printed: ΔfS_ | -8.4 J/mol-atom/K ± 4.6 | 523 | Bi2K3; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12; `ORC-5VLZZSK2FU.d33407` |  |
 | Entropy of formation; _printed: ΔfS_ | -6.52 J/mol-atom/K | 523 | Bi2K3; _alloy: K 0.6_ | model | [1] Niu 2012 | Table 3, p. 4, row 14; `ORC-HMQVDKAC42.fb09f1` |  |
+| Entropy of formation; _printed: ΔfS_ | -8.4 J/mol-atom/K ± 5 | 523 | Bi4K5; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7; `ORC-JHECAZUR7A.b9ac78` |  |
 | Entropy of formation; _printed: ΔfS_ | -6.1 J/mol-atom/K | 523 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 9; `ORC-YXG4J56R7H.c49697` |  |
+| Entropy of formation; _printed: ΔfS_ | -19.7 J/mol-atom/K ± 3.8 | 523 | BiK3; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.7b2fd9` |  |
 | Entropy of formation; _printed: ΔfS_ | -12 J/mol-atom/K | 523 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 17; `ORC-JX6VRWVKQ6.189ebf` |  |
-| Entropy of formation; _printed: ΔfS_ | -8.4 J/mol-atom/K ± 4.6 | 523 | UNKNOWN; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12; `ORC-5VLZZSK2FU.079ecd` |  |
-| Entropy of formation; _printed: ΔfS_ | -19.7 J/mol-atom/K ± 3.8 | 523 | UNKNOWN; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.f4e1b3` |  |
-| Entropy of formation; _printed: ΔfS_ | -8.4 J/mol-atom/K ± 5 | 523 | UNKNOWN; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7; `ORC-JHECAZUR7A.ac9bb7` |  |
-| Entropy of formation; _printed: ΔfS_ | -3.4 J/mol-atom/K ± 6.3 | 523 | UNKNOWN; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1; `ORC-OAM7DL5O44.db5826` |  |
 | Entropy of formation; _printed: ΔfS_ | -23.4 J/mol-atom/K ± 6.3 | 627 | Bi4K5; _alloy: K 0.555556_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10; `ORC-3L3YEMNECR.043849` |  |
 | Entropy of formation; _printed: ΔfS_ | -19.2 J/mol-atom/K | 627 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 11; `ORC-GCE5VEZUQX.0722d2` |  |
 | Entropy of formation; _printed: ΔfS_ | -17.2 J/mol-atom/K ± 4.2 | 838 | Bi2K; _alloy: K 0.333333_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 4; `ORC-4ABBGGQFFI.0e7eb4` |  |
@@ -167,17 +166,17 @@ Table: Formation, Bi–K system
 | Entropy of formation; _printed: ΔfS_ | -22.4 J/mol-atom/K | 848 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 19; `ORC-ABC2SN45RE.bd5f5f` |  |
 | Entropy of formation; _printed: ΔfS_ | -19.9 J/mol-atom/K | 848 | BiK3; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18; `ORC-K4G26RVS4P.ff46e0` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -32.7 kJ/mol-atom | 523 | Bi2K; _alloy: K 0.333333_ | model | [1] Niu 2012 | Table 3, p. 4, row 3; `ORC-L3UASAPG7V.fd357e` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -26.5 kJ/mol-atom ± 1.3 | 523 | Bi2K; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 2; `ORC-MVMC4LLIGK.4b419f` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -27 kJ/mol-atom ± 5.5 | 523 | Bi2K; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1; `ORC-OAM7DL5O44.eae81e` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -34 kJ/mol-atom ± 1.3 | 523 | Bi2K3; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 13; `ORC-5MBL67NU55.878bc8` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -35.2 kJ/mol-atom ± 4.6 | 523 | Bi2K3; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12; `ORC-5VLZZSK2FU.913e31` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -39.8 kJ/mol-atom | 523 | Bi2K3; _alloy: K 0.6_ | model | [1] Niu 2012 | Table 3, p. 4, row 14; `ORC-HMQVDKAC42.422641` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -33.1 kJ/mol-atom ± 1.3 | 523 | Bi4K5; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 8; `ORC-GPYTLM7TMH.7ab976` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -33.7 kJ/mol-atom ± 4.8 | 523 | Bi4K5; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7; `ORC-JHECAZUR7A.791202` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -38.9 kJ/mol-atom | 523 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 9; `ORC-YXG4J56R7H.21672e` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -33.9 kJ/mol-atom ± 1.3 | 523 | BiK3; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 16; `ORC-65FTHM43WD.50bd46` |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -34.8 kJ/mol-atom ± 4.1 | 523 | BiK3; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.b9ea98` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -40.4 kJ/mol-atom | 523 | BiK3; _alloy: K 0.75_ | model | [1] Niu 2012 | Table 3, p. 4, row 17; `ORC-JX6VRWVKQ6.9d3809` |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -34 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 13; `ORC-5MBL67NU55.5620c6` |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -35.2 kJ/mol-atom ± 4.6 | 523 | UNKNOWN; _alloy: K 0.6_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12; `ORC-5VLZZSK2FU.399489` |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -33.9 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 16; `ORC-65FTHM43WD.d661d3` |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -34.8 kJ/mol-atom ± 4.1 | 523 | UNKNOWN; _alloy: K 0.75_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15; `ORC-AP6PJYWU2A.14b173` |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -33.1 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 8; `ORC-GPYTLM7TMH.23591c` |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -33.7 kJ/mol-atom ± 4.8 | 523 | UNKNOWN; _alloy: K 0.555556_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7; `ORC-JHECAZUR7A.751186` |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -26.5 kJ/mol-atom ± 1.3 | 523 | UNKNOWN; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Hultgren 1973_ | Table 3, p. 4, row 2; `ORC-MVMC4LLIGK.deb7c0` |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -27 kJ/mol-atom ± 5.5 | 523 | UNKNOWN; _alloy: K 0.333333_ | experimental | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1; `ORC-OAM7DL5O44.a1313c` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -35.5 kJ/mol-atom ± 16.5 | 627 | Bi4K5; _alloy: K 0.555556_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10; `ORC-3L3YEMNECR.e584f7` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -36.4 kJ/mol-atom | 627 | Bi4K5; _alloy: K 0.555556_ | model | [1] Niu 2012 | Table 3, p. 4, row 11; `ORC-GCE5VEZUQX.f53510` |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -26.6 kJ/mol-atom ± 7.7 | 838 | Bi2K; _alloy: K 0.333333_ | unspecified | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 4; `ORC-4ABBGGQFFI.4742eb` |  |
@@ -194,10 +193,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -206,7 +205,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -217,7 +216,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -227,7 +226,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -237,7 +236,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

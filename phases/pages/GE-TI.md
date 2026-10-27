@@ -19,7 +19,7 @@ Table: Phases of the Ge–Ti system (9)
 | [GE3TI5_D88](#phase-ge-ti-ge3ti5-d88); _phase:ge-ti:ge3ti5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2254.36 K, x(Ti) 0.60753–0.625 | 35 | 2 |
 | [GE4TI5](#phase-ge-ti-ge4ti5); _phase:ge-ti:ge4ti5_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1878.4 K, x(Ti) 0.55556–0.55556 | 2 | 1 |
 | [GE5TI6](#phase-ge-ti-ge5ti6); _phase:ge-ti:ge5ti6_ | Si5V6 · oI44 · Ibam (72) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1939.17 K, x(Ti) 0.54545–0.54545 | 15 | 2 |
-| [HCP_A3](#phase-ge-ti-hcp-a3); _phase:ge-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1167.08 K, x(Ti) 0.9579–1 | 8 | 2 |
+| [HCP_A3](#phase-ge-ti-hcp-a3); _phase:ge-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1167.08 K, x(Ti) 0.9579–1 | 14 | 2 |
 | [LIQUID](#phase-ge-ti-liquid); _phase:ge-ti:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1196.78–2500 K, x(Ti) 0–1 | 38 | 2 |
 
 ## DIAMOND_A4 (Ge–Ti)
@@ -305,11 +305,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ge-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1167.08 K, x(Ti) 0.9579–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 14 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-ti:hcp-a3)
 
-Names (4): _corpus: _corpus:phase:ge-ti:hcp-a3  
-_paper: _paper:10.1007/s11669-023-01028-0:(α-Ti)  
+Names (5): _corpus: _corpus:phase:ge-ti:hcp-a3  
+_paper: _paper:10.1007/s11669-023-01028-0:(α-Ti), paper:10.1016/j.tca.2011.04.017:(αTi)  
 _tdb: _tdb:GeTi-11Liu.tdb:HCP_A3, tdb:GeTi-23Zob.tdb:HCP_A3  
 
 
@@ -334,7 +334,7 @@ Example references (4 of 4; assessments first):
 - [doi:10.1007/s11669-023-01028-0](https://doi.org/10.1007/s11669-023-01028-0) Ondřej Zobač, Aleš Kroupa, CALPHAD-Based Thermodynamic Description of the Binary Phase Diagram Ge-Ti, J. Phase Equilib. Diffus. (2023).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.tca.2011.04.017](https://doi.org/10.1016/j.tca.2011.04.017) Dandan Liu, Huanli Yan, Xiaoming Yuan, Yoonsung Chung, Yong Du, Honghui Xu et al., Thermodynamic modeling of the Ge–Ti system supported by key experiment, Thermochimica Acta 521, 148-154 (2011).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(89)90197-5](https://doi.org/10.1016/0022-5088%2889%2990197-5) M.V. Rudometkina, Yu.D. Seropegin, A.V. Gribanov, L.S. Gusei, Phase equilibria in the TiNbGe system at 1170 K, Journal of the Less Common Metals 147, 239-247 (1989).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2013.04.114](https://doi.org/10.1016/j.jallcom.2013.04.114) Roland W. Bittner, Catherine Colinet, Jean-Claude Tedenac, Klaus W. Richter, Revision of the Ge–Ti phase diagram and structural stability of the new phase Ge4Ti5, Journal of Alloys and Compounds 577, 211-216 (2013).  
@@ -384,8 +384,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -394,7 +394,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -405,7 +405,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

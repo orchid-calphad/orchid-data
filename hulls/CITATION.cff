@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these data, please cite this Zenodo record and the original sources of the data (Materials Project, OQMD and the SGTE binary collection)."
-title: "ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)"
+title: "ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)"
 type: dataset
 authors:
   - family-names: "Arróyave"

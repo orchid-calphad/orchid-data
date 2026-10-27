@@ -20,7 +20,7 @@ Table: Phases of the Gd–Sb system (10)
 | [GD5SB3_D88](#phase-gd-sb-gd5sb3-d88); _phase:gd-sb:gd5sb3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1917.33 K, x(Sb) 0.375–0.375 | 4 | 1 |
 | [GDSB_B1](#phase-gd-sb-gdsb-b1); _phase:gd-sb:gdsb-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2113.15 K, x(Sb) 0.5–0.5 | 6 | 1 |
 | [GDSB_BETA](#phase-gd-sb-gdsb-beta); _phase:gd-sb:gdsb-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 2113.15–2400.73 K, x(Sb) 0.5–0.5 | 4 | 1 |
-| [HCP_A3](#phase-gd-sb-hcp-a3); _phase:gd-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1508.15 K, x(Sb) 0–0.04024 | 0 | 1 |
+| [HCP_A3](#phase-gd-sb-hcp-a3); _phase:gd-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1508.15 K, x(Sb) 0–0.04024 | 4 | 1 |
 | [LIQUID](#phase-gd-sb-liquid); _phase:gd-sb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 902.91–2500 K, x(Sb) 0–1 | 18 | 1 |
 
 ## RHOMBOHEDRAL_A7 (Gd–Sb)
@@ -269,10 +269,11 @@ _cited as the source of values for this phase_
 - Id: `phase:gd-sb:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1508.15 K, x(Sb) 0–0.04024
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-sb:hcp-a3)
 
-Names (2): _corpus: _corpus:phase:gd-sb:hcp-a3  
+Names (3): _corpus: _corpus:phase:gd-sb:hcp-a3  
+_paper: _paper:10.1016/j.intermet.2007.04.003:αGd  
 _tdb: _tdb:GdSb-07Li.tdb:HCP_A3  
 
 
@@ -285,10 +286,12 @@ _tdb: _tdb:GdSb-07Li.tdb:HCP_A3
 41: CONST HCP_A3 : GD% SB : VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.intermet.2007.04.003](https://doi.org/10.1016/j.intermet.2007.04.003) J.Q. Li, Y.X. Jian, H.L. Chen, Y.Q. Liu, Thermodynamic assessment of the Gd–Sb system, Intermetallics 15, 1332-1336 (2007).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(86)90075-5](https://doi.org/10.1016/0022-5088%2886%2990075-5) M.N. Abdusalyamova, O.R. Burnashev, K.Y. Mironov, The alloy systems Ln-Sb, Journal of the Less Common Metals 125, 1-6 (1986).  
+_cited as the source of values for this phase_
 
 ## LIQUID (Gd–Sb)
 
@@ -321,8 +324,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -331,7 +334,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -342,7 +345,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

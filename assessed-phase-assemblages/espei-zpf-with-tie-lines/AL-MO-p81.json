@@ -14,6 +14,7 @@
   "AL63MO37",
   "AL8MO3",
   "ALMO3_A15",
+  "ALMO_A2",
   "BCC_A2",
   "FCC_A1",
   "LIQUID"
@@ -40,8 +41,12 @@
    1342.98771,
    1458.98771,
    1626.48771,
+   1864.98771,
+   1857.48771,
    1785.98771,
+   1803.48771,
    1826.98771,
+   1915.98771,
    2176.48771,
    2596.48771
   ]
@@ -439,6 +444,37 @@
   ],
   [
    [
+    "ALMO_A2",
+    [
+     "MO"
+    ],
+    [
+     0.5207275153
+    ]
+   ],
+   [
+    "ALMO3_A15",
+    [
+     "MO"
+    ],
+    [
+     0.7419170069
+    ]
+   ]
+  ],
+  [
+   [
+    "ALMO_A2",
+    [
+     "MO"
+    ],
+    [
+     0.5072159401
+    ]
+   ]
+  ],
+  [
+   [
     "AL63MO37",
     [
      "MO"
@@ -468,6 +504,26 @@
   ],
   [
    [
+    "AL63MO37",
+    [
+     "MO"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "ALMO_A2",
+    [
+     "MO"
+    ],
+    [
+     0.4876992202
+    ]
+   ]
+  ],
+  [
+   [
     "LIQUID",
     [
      "MO"
@@ -483,6 +539,26 @@
     ],
     [
      null
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MO"
+    ],
+    [
+     0.3858619769
+    ]
+   ],
+   [
+    "ALMO_A2",
+    [
+     "MO"
+    ],
+    [
+     0.509968298
     ]
    ]
   ],
@@ -557,12 +633,20 @@
    "aspa-4acfe28aaf3a7a6a",
    "aspa-1f039637e9d6d0ea",
    "aspa-ef7a8aeb11e7d086",
+   "aspa-4af141eaf14f0901",
+   "aspa-4fba545bad7447e0",
    "aspa-830601bbe4ab32b4",
+   "aspa-d032fe22be069b55",
    "aspa-1251a566895d6d24",
+   "aspa-123649ce9365c8cf",
    "aspa-a2f91e674666b8b0",
    "aspa-4210e620eee2c15c"
   ],
   "boundary_basis": [
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -935,6 +1019,42 @@
     }
    },
    {
+    "record_id": "aspa-4af141eaf14f0901",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.664,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 120.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000642214,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.110094,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-4fba545bad7447e0",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.664,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 49.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000642214,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0115099,
+     "sigma_effective": 0.02
+    }
+   },
+   {
     "record_id": "aspa-830601bbe4ab32b4",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -953,6 +1073,24 @@
     }
    },
    {
+    "record_id": "aspa-d032fe22be069b55",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.664,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 39.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000642214,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0580497,
+     "sigma_effective": 0.02
+    }
+   },
+   {
     "record_id": "aspa-1251a566895d6d24",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -967,6 +1105,24 @@
      "sigma_reading": 0.000642214,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0125107,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-123649ce9365c8cf",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.664,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 70.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000642214,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0605519,
      "sigma_effective": 0.02
     }
    },

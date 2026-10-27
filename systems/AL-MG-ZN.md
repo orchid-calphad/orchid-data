@@ -1,10 +1,10 @@
 # Al–Mg–Zn system
 
-> Al–Mg–Zn system: 175 accepted literature values (phase equilibrium 78, invariant reaction 76, phase transition 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg–Zn system: 154 accepted literature values (phase equilibrium 78, invariant reaction 76) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG-ZN.html · Markdown: https://data.orchid-project.org/systems/AL-MG-ZN.md
 
-175 accepted literature values from 3 paper(s) (experimental 108, model 46, unspecified 21); 0 calculated phase diagram(s). 15 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+154 accepted literature values from 3 paper(s) (experimental 87, model 46, unspecified 21); 0 calculated phase diagram(s). 36 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/AL-MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AL-MG-ZN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 108 |
+| experimental | 87 |
 | model | 46 |
 | unspecified | 21 |
 
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 76 |
-| phase transition | 21 |
 | phase equilibrium | 78 |
 
 ## Invariant reactions (literature)
@@ -108,34 +107,6 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Zn syste
 | 496.36 | other: MgZn + τ \<-> Mg2Zn3 + Φ | MgZn: Zn 0.0648; τ: Zn 0.1632; Mg2Zn3: Zn 0.48; Φ: Zn 0.4552 | model | [1] Liang 1998 | Table 8, p. 19, row 12; `ORC-S4KPEFVYBM` |  |
 
 ## Other properties
-
-### Phase transition (21)
-
-Table: Phase transition, Al–Mg–Zn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 630 K | 630 | UNKNOWN; _alloy: Al 0.2, Mg 0.44, Zn 0.36_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 16; `ORC-BLCT5I6PAO` |  |
-| Phase transition | 632 K | 632 | UNKNOWN; _alloy: Al 0.2, Mg 0.6, Zn 0.2_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 13; `ORC-NPZMTX7REQ` |  |
-| Phase transition | 633 K | 633 | UNKNOWN; _alloy: Al 0.25, Mg 0.55, Zn 0.2_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 12; `ORC-UZ35QLJQOA` |  |
-| Phase transition | 634 K | 634 | UNKNOWN; _alloy: Al 0.2, Mg 0.48, Zn 0.32_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 15; `ORC-BGGP4OWJ4Z` |  |
-| Phase transition | 649 K | 649 | UNKNOWN; _alloy: Al 0.2, Mg 0.54, Zn 0.26_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 14; `ORC-ANUW53AA3I` |  |
-| Phase transition | 663 K | 663 | UNKNOWN; _alloy: Al 0.28, Mg 0.54, Zn 0.18_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 10; `ORC-M7KEIFUAW5` |  |
-| Phase transition | 663 K | 663 | UNKNOWN; _alloy: Al 0.28, Mg 0.52, Zn 0.2_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 11; `ORC-T3UNHHQNQS` |  |
-| Phase transition | 665 K | 665 | UNKNOWN; _alloy: Al 0.3, Mg 0.48, Zn 0.22_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 6; `ORC-RSBWX6IWOK` |  |
-| Phase transition | 719 K | 719 | UNKNOWN; _alloy: Al 0.43, Mg 0.44, Zn 0.13_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 2; `ORC-FXFF76XLP4` |  |
-| Phase transition | 721 K | 721 | UNKNOWN; _alloy: Al 0.5, Mg 0.4, Zn 0.1_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 1; `ORC-5JVMJYIF6U` |  |
-| Phase transition | 736 K | 736 | UNKNOWN; _alloy: Al 0.43, Mg 0.36, Zn 0.21_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 4; `ORC-CIDZ6YWYQ6` |  |
-| Phase transition | 737 K | 737 | UNKNOWN; _alloy: Al 0.43, Mg 0.4, Zn 0.17_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 3; `ORC-FNJGEXOCIZ` |  |
-| Phase transition | 741 K | 741 | UNKNOWN; _alloy: Al 0.3, Mg 0.44, Zn 0.26_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 7; `ORC-EAQ377TDZB` |  |
-| Phase transition | 742 K | 742 | UNKNOWN; _alloy: Al 0.3, Mg 0.4, Zn 0.3_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 8; `ORC-ISLYZJV6IH` |  |
-| Phase transition | 746 K | 746 | UNKNOWN; _alloy: Al 0.43, Mg 0.32, Zn 0.25_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 5; `ORC-TDGJAZ6TGJ` |  |
-| Phase transition | 748 K | 748 | UNKNOWN; _alloy: Al 0.18, Mg 0.4, Zn 0.42_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 20; `ORC-3DZTXQYD7P` |  |
-| Phase transition | 748 K | 748 | UNKNOWN; _alloy: Al 0.2, Mg 0.4, Zn 0.4_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 17; `ORC-UXCJR4O5QA` |  |
-| Phase transition | 752 K | 752 | UNKNOWN; _alloy: Al 0.2, Mg 0.32, Zn 0.48_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 19; `ORC-OUVLFC364W` |  |
-| Phase transition | 756 K | 756 | UNKNOWN; _alloy: Al 0.3, Mg 0.32, Zn 0.38_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 9; `ORC-RV3PRLD2WD` |  |
-| Phase transition | 799 K | 799 | UNKNOWN; _alloy: Al 0.2, Mg 0.36, Zn 0.44_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 18; `ORC-HKN7ZBOXGB` |  |
-| Phase transition | 800 K | 800 | UNKNOWN; _alloy: Al 0.18, Mg 0.36, Zn 0.46_ | experimental | [1] Liang 1998 | Table 3, p. 6, row 21; `ORC-YPECYAAWPS` |  |
 
 ### Phase equilibrium (78)
 
@@ -232,8 +203,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -242,7 +213,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -253,7 +224,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

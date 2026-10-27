@@ -183,7 +183,7 @@
    "value": 1.0,
    "name": "ESPEI fallback sigma = 1 (no default for GM)"
   },
-  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset",
+  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); this export uses a scalar weight for equilibrium/activity data; unequal-sigma groups are split before release",
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
@@ -199,7 +199,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,
@@ -219,7 +219,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,
@@ -239,7 +239,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,
@@ -259,7 +259,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,
@@ -279,7 +279,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,
@@ -299,7 +299,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,
@@ -319,7 +319,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,
@@ -339,7 +339,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,
@@ -359,7 +359,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,
@@ -379,7 +379,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,
@@ -399,7 +399,7 @@
      "sigma_effective": 1400.0,
      "method_class": "unknown",
      "method_basis": "cleaned_below_threshold",
-     "method_n_pairs": 14,
+     "method_n_pairs": 13,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
     "sigma_effective_used": 1400.0,

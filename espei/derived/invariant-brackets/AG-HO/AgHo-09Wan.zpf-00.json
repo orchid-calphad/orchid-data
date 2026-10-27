@@ -19,8 +19,6 @@
    1131.15,
    1265.15,
    1221.15,
-   1185.15,
-   1141.15,
    1090.15,
    1046.15
   ]
@@ -168,73 +166,6 @@
      "HO"
     ],
     [
-     0.265
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.255
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.275
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51HO14",
-    [
-     "HO"
-    ],
-    [
-     0.244
-    ]
-   ],
-   [
-    "AG2HO_C11B",
-    [
-     "HO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.255
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.275
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "HO"
-    ],
-    [
      0.115
     ]
    ],
@@ -304,7 +235,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-HO/AgHo-09Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-JV6RWDQ22O ORC-PDCLRSTLBY ORC-R5BEK5ICDC ORC-ZUVTAJ4PYO",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-HO/AgHo-09Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-JV6RWDQ22O ORC-PDCLRSTLBY ORC-ZUVTAJ4PYO",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AG-HO/AgHo-09Wan.zpf-00.json",
@@ -384,44 +315,6 @@
     ],
     "phases_below": [
      "AGHO_B2",
-     "AG2HO_C11B"
-    ]
-   },
-   {
-    "source_observation": "ORC-R5BEK5ICDC",
-    "side": "above",
-    "T_invariant_K": 1163.15,
-    "offset_K": 22.0,
-    "T_sigma_K": 11.0,
-    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.265,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L -> Ag51Ho14 + Ag2Ho",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "AG51HO14",
-     "AG2HO_C11B"
-    ]
-   },
-   {
-    "source_observation": "ORC-R5BEK5ICDC",
-    "side": "below",
-    "T_invariant_K": 1163.15,
-    "offset_K": 22.0,
-    "T_sigma_K": 11.0,
-    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.265,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L -> Ag51Ho14 + Ag2Ho",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "AG51HO14",
      "AG2HO_C11B"
     ]
    },
@@ -528,38 +421,6 @@
    },
    {
     "source_observation": "ORC-ZUVTAJ4PYO",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": null,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": null,
-     "source_invariant_sigma_effective": 11.0,
-     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 22.0,
-     "sigma_effective_reason": "derived constraint, not a measurement"
-    }
-   },
-   {
-    "source_observation": "ORC-R5BEK5ICDC",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": null,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": null,
-     "source_invariant_sigma_effective": 11.0,
-     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 22.0,
-     "sigma_effective_reason": "derived constraint, not a measurement"
-    }
-   },
-   {
-    "source_observation": "ORC-R5BEK5ICDC",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": null,

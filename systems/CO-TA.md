@@ -1,10 +1,10 @@
 # Co–Ta system
 
-> Co–Ta system: 151 accepted literature values (invariant reaction 70, formation 33, phase equilibrium 24, phase transition 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ta system: 150 accepted literature values (invariant reaction 70, formation 33, phase equilibrium 24, phase transition 23) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-TA.html · Markdown: https://data.orchid-project.org/systems/CO-TA.md
 
-151 accepted literature values from 4 paper(s) (experimental 76, model 34, DFT 33, unspecified 8); 6 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+150 accepted literature values from 4 paper(s) (experimental 75, model 34, DFT 33, unspecified 8); 6 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-TA.json) · [CSV](https://data.orchid-project.org/systems/CO-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-TA/CoTa-02Har.json) · [phases (19)](https://data.orchid-project.org/phases/pages/CO-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-TA.html) · [Markdown](https://data.orchid-project.org/systems/CO-TA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 76 |
+| experimental | 75 |
 | model | 34 |
 | DFT | 33 |
 | unspecified | 8 |
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 70 |
-| phase transition | 24 |
+| phase transition | 23 |
 | phase equilibrium | 24 |
 | formation | 33 |
 
@@ -261,7 +261,7 @@ Table: Enthalpies of formation, Co–Ta system (33)
 
 ## Other properties
 
-### Phase transition (24)
+### Phase transition (23)
 
 Table: Phase transition, Co–Ta system
 
@@ -272,7 +272,6 @@ Table: Phase transition, Co–Ta system
 | Phase transition | 1251.15 K | 1251.15 | magnetic | experimental | [3] Shinagawa 2014 | p. 8; `ORC-PAQ3XUMG6C` | “In addition, a small endothermic knickpoint appeared at 978 C in 3.5at.%Ta alloy, which caused by the g magnetic transition (Curie temperature, TC ).” |
 | Phase transition | 1286.15 K | 1286.15 | other | experimental | [3] Shinagawa 2014 | p. 1; `ORC-JCFAL2IPMA.1b8b91` | “The solvus temperature of the g0 Co3Ta (L12) phase precipitated in the 5.8 at.%Ta g(Co) and the peritectoid temperature of the Co7Ta2 phase in an 8.5 at.%Ta alloy were determined to be 1013 C and 1033 C, respectively, by differential scanning calorimeter (DSC).” |
 | Phase transition | 1286.15 K | 1286.15 | γ + γ' Co3Ta ⇒ γ; _alloy: Co 0.915, Ta 0.085_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 11; `ORC-U6WOCAJJ4I` |  |
-| Phase transition | 1306.15 K | 1306.15 | γ + λ3 ⇒ χ Co7Ta2; _alloy: Co 0.915, Ta 0.085_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 10; `ORC-G5U4DKVCB2` |  |
 | Phase transition | 1310.85 K | 1310.85 | magnetic: Co–2Ta; _alloy: Ta 0_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 3; `ORC-QIDGQRFRDX` |  |
 | Phase transition | 1578.15 K | 1578.15 | eutectic: L ⇒ γ(Co) + λ3; _alloy: Co 0.88, Ta 0.12_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 13; `ORC-FSXMC3HGRV` |  |
 | Phase transition | 1578.75 K | 1578.75 | eutectic: Co–8.5Ta; _alloy: Co 0.942, Ta 0.058_ | experimental | [3] Shinagawa 2014 | Table 2, p. 5, row 9; `ORC-C4GY7PWCFU` |  |
@@ -334,10 +333,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -346,7 +345,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -357,7 +356,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -367,7 +366,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -377,7 +376,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -1,0 +1,668 @@
+{
+ "rule": "individual_effective_uncertainty_v1",
+ "parent_datasets": 47,
+ "observations": 238,
+ "splits": [
+  {
+   "parent_dataset": "experimental/AG-MG/AgMg-21Deb.hmr-00.json",
+   "parent_weight": 0.78125,
+   "n_values": 9,
+   "sigma_min": 500.0,
+   "sigma_max": 1149.0,
+   "children": [
+    "experimental/AG-MG/AgMg-21Deb.hmr-00-u-ORC-UPOYVTUV5Y_60edbe.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-00-u-ORC-DH2IGAU4R4_fbfffc.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-00-u-ORC-XZQIWMFZYL_71a627.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-00-u-ORC-5FROBP7ARD_953f77.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-00-u-ORC-KYWYSQIVUH_08e242.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-00-u-ORC-LRHV5MAEZO_4e313a.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-00-u-ORC-BAO6SHD72G_5440b2.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-00-u-ORC-CKTKVWFYZH_c24db5.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-00-u-ORC-DC7O5HN2WM_627c1a.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/AG-MG/AgMg-21Deb.hmr-01.json",
+   "parent_weight": 1.0,
+   "n_values": 14,
+   "sigma_min": 500.0,
+   "sigma_max": 568.0,
+   "children": [
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-LYUSMKZDEB_deec2c.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-4W6T3ICZIG_9d1ab9.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-5BZY5GRORQ_219132.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-U2PCO2SDRR_31e67a.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-6HHKAQX3T5_21bf41.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-TUCLD4GVW5_40025e.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-GB5GW42HLU_1b3248.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-YDXV67V7T2_2b0fc9.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-TN3WLU6ZLT_65a42b.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-CEU7U6V4GF_c3820b.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-4DGGWXUTZP_5e6ffb.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-OIYJ2ORV6Q_bac776.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-RNGVKEETAU_1423dd.json",
+    "experimental/AG-MG/AgMg-21Deb.hmr-01-u-ORC-YC6IQIAXZC_6a1582.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/AL-CD/AlCd-82McA.acr_cd-04.json",
+   "parent_weight": 0.172419,
+   "n_values": 7,
+   "sigma_min": 2899.227164,
+   "sigma_max": 2900.693138,
+   "children": [
+    "experimental/AL-CD/AlCd-82McA.acr_cd-04-u-ORC-Q4NI4GZU6W_7ce7e2.json",
+    "experimental/AL-CD/AlCd-82McA.acr_cd-04-u-ORC-66HH64XBPD_bd5181.json",
+    "experimental/AL-CD/AlCd-82McA.acr_cd-04-u-ORC-6SBGKUBE4X_83edf4.json",
+    "experimental/AL-CD/AlCd-82McA.acr_cd-04-u-ORC-ADMC7DY64T_f74903.json",
+    "experimental/AL-CD/AlCd-82McA.acr_cd-04-u-ORC-CD43ZFW4L3_12e449.json",
+    "experimental/AL-CD/AlCd-82McA.acr_cd-04-u-ORC-VMZRO26SIB_e4e29b.json",
+    "experimental/AL-CD/AlCd-82McA.acr_cd-04-u-ORC-R4V5B5GJNZ_d34aa5.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/AU-CE/AuCe-16Mou.hmr-04.json",
+   "parent_weight": 0.135135,
+   "n_values": 2,
+   "sigma_min": 3200.0,
+   "sigma_max": 4200.0,
+   "children": [
+    "experimental/AU-CE/AuCe-16Mou.hmr-04-u-ORC-C37C5PYFBB.json",
+    "experimental/AU-CE/AuCe-16Mou.hmr-04-u-ORC-YWV2PVBMJG.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/B-MG/MgB-05Bal.hmr-03-MB2_C32.json",
+   "parent_weight": 0.135135,
+   "n_values": 4,
+   "sigma_min": 3200.0,
+   "sigma_max": 10000.0,
+   "children": [
+    "experimental/B-MG/MgB-05Bal.hmr-03-MB2_C32-u-ORC-ICOXV56CAA_e54032.json",
+    "experimental/B-MG/MgB-05Bal.hmr-03-MB2_C32-u-ORC-YXEY33NPZK_6db522.json",
+    "experimental/B-MG/MgB-05Bal.hmr-03-MB2_C32-u-ORC-ERT3NO6RZ2_960926.json",
+    "experimental/B-MG/MgB-05Bal.hmr-03-MB2_C32-u-ORC-WKL7IRXHLB_101474.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/B-MG/MgB-05Bal.hmr-04-MGB4.json",
+   "parent_weight": 0.135135,
+   "n_values": 4,
+   "sigma_min": 3200.0,
+   "sigma_max": 4200.0,
+   "children": [
+    "experimental/B-MG/MgB-05Bal.hmr-04-MGB4-u-ORC-BBS5QJWESM_c4284a.json",
+    "experimental/B-MG/MgB-05Bal.hmr-04-MGB4-u-ORC-YXGP7HACWX_bd63e9.json",
+    "experimental/B-MG/MgB-05Bal.hmr-04-MGB4-u-ORC-GVFN7QIKSZ_96de4b.json",
+    "experimental/B-MG/MgB-05Bal.hmr-04-MGB4-u-ORC-UI3WEXKPCB_ac1885.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/B-MG/MgB-05Bal.hmr-06-MGB20.json",
+   "parent_weight": 0.135135,
+   "n_values": 2,
+   "sigma_min": 3200.0,
+   "sigma_max": 4200.0,
+   "children": [
+    "experimental/B-MG/MgB-05Bal.hmr-06-MGB20-u-ORC-U4PKO6VDC3_44736a.json",
+    "experimental/B-MG/MgB-05Bal.hmr-06-MGB20-u-ORC-KSZLEEN43W_55841f.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/B-MG/MgB-05Bal.hmr-06-MGB7.json",
+   "parent_weight": 0.135135,
+   "n_values": 2,
+   "sigma_min": 3200.0,
+   "sigma_max": 4200.0,
+   "children": [
+    "experimental/B-MG/MgB-05Bal.hmr-06-MGB7-u-ORC-G5XQAHUA2A_b69905.json",
+    "experimental/B-MG/MgB-05Bal.hmr-06-MGB7-u-ORC-NNE6I23M5C_137242.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CA-GE/CaGe-10Dja.hmr-01-CAGE_B33.json",
+   "parent_weight": 0.068493,
+   "n_values": 2,
+   "sigma_min": 4600.0,
+   "sigma_max": 10000.0,
+   "children": [
+    "experimental/CA-GE/CaGe-10Dja.hmr-01-CAGE_B33-u-ORC-4AWU77RDY6_8a28e1.json",
+    "experimental/CA-GE/CaGe-10Dja.hmr-01-CAGE_B33-u-ORC-JANYTACZLZ_6ff909.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03.json",
+   "parent_weight": 0.17243,
+   "n_values": 10,
+   "sigma_min": 2899.05718,
+   "sigma_max": 2900.899745,
+   "children": [
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03-u-ORC-TR6KLBVTSD_4dbe74.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03-u-ORC-7Q6GTFL6KA_8134fe.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03-u-ORC-3RZGRHX4QP_853002.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03-u-ORC-ROR6FAZ425_6961aa.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03-u-ORC-VBBQTFHUJL_5d4d1c.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03-u-ORC-PTBBESK7CF_eca613.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03-u-ORC-3X4RSXHHJB_5ad3c2.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03-u-ORC-66G22ACQWU_923eda.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03-u-ORC-S3GQ53FH2A_b85ce4.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_co-03-u-ORC-KO7WAXW372_b551bf.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04.json",
+   "parent_weight": 0.172414,
+   "n_values": 10,
+   "sigma_min": 2899.074678,
+   "sigma_max": 2901.167356,
+   "children": [
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04-u-ORC-7Q6GTFL6KA_086175.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04-u-ORC-3RZGRHX4QP_34b1f4.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04-u-ORC-ROR6FAZ425_62ae41.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04-u-ORC-VBBQTFHUJL_091f08.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04-u-ORC-PTBBESK7CF_6e41b8.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04-u-ORC-3X4RSXHHJB_883689.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04-u-ORC-66G22ACQWU_c521c6.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04-u-ORC-S3GQ53FH2A_f54536.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04-u-ORC-KO7WAXW372_c7f577.json",
+    "experimental/CO-CU/CoCu-00Kub-LB.acr_cu-04-u-ORC-XFCMBPD5UQ_c49e11.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CR-NB/CrNb-14Sch.acr_cr-05.json",
+   "parent_weight": 0.172412,
+   "n_values": 2,
+   "sigma_min": 2900.019668,
+   "sigma_max": 2900.033883,
+   "children": [
+    "experimental/CR-NB/CrNb-14Sch.acr_cr-05-u-ORC-ZKE56KTRWC_f9b1d8.json",
+    "experimental/CR-NB/CrNb-14Sch.acr_cr-05-u-ORC-GQNFWJEWL3_30af1a.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-FE/CuFe-03Tur.hmr-01.json",
+   "parent_weight": 1.0,
+   "n_values": 11,
+   "sigma_min": 500.0,
+   "sigma_max": 900.0,
+   "children": [
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-BVC43B4VRA_69b1a3.json",
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-F4MVLTQQNN_6dc261.json",
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-JXLEWG6E2Q_0d62a4.json",
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-TVVS53NP2A_5ea75b.json",
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-5VI6D5YC6U_f5d907.json",
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-PT55LLN2A6_199949.json",
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-TF54ICYWXC_df52c2.json",
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-EG55AZHIDW_3544e6.json",
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-D2BIIK5NMB_8de995.json",
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-44KA5Y6RME_9c8f8f.json",
+    "experimental/CU-FE/CuFe-03Tur.hmr-01-u-ORC-UAPYVGKOWO_f8ffe3.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-TL/CuTl-89Che.acr_cu-02.json",
+   "parent_weight": 0.172419,
+   "n_values": 9,
+   "sigma_min": 2899.431668,
+   "sigma_max": 2900.247933,
+   "children": [
+    "experimental/CU-TL/CuTl-89Che.acr_cu-02-u-ORC-PZXIZHHAIP_347b73.json",
+    "experimental/CU-TL/CuTl-89Che.acr_cu-02-u-ORC-ILMCJPVOPV_4ee1b4.json",
+    "experimental/CU-TL/CuTl-89Che.acr_cu-02-u-ORC-HUZOQZP35I_3492f0.json",
+    "experimental/CU-TL/CuTl-89Che.acr_cu-02-u-ORC-L7TUNTS4KT_7e6217.json",
+    "experimental/CU-TL/CuTl-89Che.acr_cu-02-u-ORC-UIE5XKBFQ6_412bc7.json",
+    "experimental/CU-TL/CuTl-89Che.acr_cu-02-u-ORC-E5ZJYXRIYZ_89cb1f.json",
+    "experimental/CU-TL/CuTl-89Che.acr_cu-02-u-ORC-X5KUH5UEST_38eb99.json",
+    "experimental/CU-TL/CuTl-89Che.acr_cu-02-u-ORC-KCBJNMJPT2_2cbac6.json",
+    "experimental/CU-TL/CuTl-89Che.acr_cu-02-u-ORC-UOZTPI3A4H_ab6135.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-TL/CuTl-89Che.acr_tl-03.json",
+   "parent_weight": 0.172411,
+   "n_values": 9,
+   "sigma_min": 2898.961844,
+   "sigma_max": 2900.874919,
+   "children": [
+    "experimental/CU-TL/CuTl-89Che.acr_tl-03-u-ORC-PZXIZHHAIP_06e42d.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-03-u-ORC-ILMCJPVOPV_364757.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-03-u-ORC-HUZOQZP35I_c403f8.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-03-u-ORC-L7TUNTS4KT_9f542d.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-03-u-ORC-UIE5XKBFQ6_977cf7.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-03-u-ORC-E5ZJYXRIYZ_58eb59.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-03-u-ORC-X5KUH5UEST_91e290.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-03-u-ORC-KCBJNMJPT2_287e4b.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-03-u-ORC-UOZTPI3A4H_4688f4.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-TL/CuTl-89Che.acr_tl-04.json",
+   "parent_weight": 0.172409,
+   "n_values": 5,
+   "sigma_min": 2899.342873,
+   "sigma_max": 2900.43795,
+   "children": [
+    "experimental/CU-TL/CuTl-89Che.acr_tl-04-u-ORC-XKPON5ZN3O.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-04-u-ORC-OUKZHFWRTW.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-04-u-ORC-IRLQBCYCJD.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-04-u-ORC-QCB4LZPHXB.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-04-u-ORC-CNSUNQD3TB.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-TL/CuTl-89Che.acr_tl-05.json",
+   "parent_weight": 0.17241,
+   "n_values": 4,
+   "sigma_min": 2899.551583,
+   "sigma_max": 2900.435679,
+   "children": [
+    "experimental/CU-TL/CuTl-89Che.acr_tl-05-u-ORC-X3REM7VHEZ.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-05-u-ORC-UZDDXPXXL2.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-05-u-ORC-3A5LTSJNVQ.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-05-u-ORC-QLCXJRTFVJ.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-TL/CuTl-89Che.acr_tl-06.json",
+   "parent_weight": 0.172421,
+   "n_values": 3,
+   "sigma_min": 2899.431735,
+   "sigma_max": 2900.267872,
+   "children": [
+    "experimental/CU-TL/CuTl-89Che.acr_tl-06-u-ORC-GFNPLFT6SU.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-06-u-ORC-G4F6PNKUE3.json",
+    "experimental/CU-TL/CuTl-89Che.acr_tl-06-u-ORC-T2K2OOYM4Q.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-ZR/CuZr-06Wan.acr_cu-00.json",
+   "parent_weight": 0.172438,
+   "n_values": 2,
+   "sigma_min": 2899.280275,
+   "sigma_max": 2899.901361,
+   "children": [
+    "experimental/CU-ZR/CuZr-06Wan.acr_cu-00-u-ORC-5MP57ADSXW_538c92.json",
+    "experimental/CU-ZR/CuZr-06Wan.acr_cu-00-u-ORC-FU36JJPD4E_072b4c.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-ZR/CuZr-06Wan.acr_cu-02.json",
+   "parent_weight": 0.17243,
+   "n_values": 3,
+   "sigma_min": 2899.660276,
+   "sigma_max": 2900.167365,
+   "children": [
+    "experimental/CU-ZR/CuZr-06Wan.acr_cu-02-u-ORC-KO7RM2QBTG_0610cc.json",
+    "experimental/CU-ZR/CuZr-06Wan.acr_cu-02-u-ORC-NCKZ3PREPK_55e8b5.json",
+    "experimental/CU-ZR/CuZr-06Wan.acr_cu-02-u-ORC-LC3RLTZB2A_0411d0.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-ZR/CuZr-06Wan.acr_cu-08.json",
+   "parent_weight": 0.172431,
+   "n_values": 2,
+   "sigma_min": 2899.427798,
+   "sigma_max": 2899.982673,
+   "children": [
+    "experimental/CU-ZR/CuZr-06Wan.acr_cu-08-u-ORC-5OZGTSNZVA_3a2b7e.json",
+    "experimental/CU-ZR/CuZr-06Wan.acr_cu-08-u-ORC-S3UQLI7BPF_05e5cd.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-ZR/CuZr-06Wan.acr_cu-10.json",
+   "parent_weight": 0.172473,
+   "n_values": 2,
+   "sigma_min": 2898.948863,
+   "sigma_max": 2899.052871,
+   "children": [
+    "experimental/CU-ZR/CuZr-06Wan.acr_cu-10-u-ORC-ZROKVQJL2B_9a73df.json",
+    "experimental/CU-ZR/CuZr-06Wan.acr_cu-10-u-ORC-TY3NGMQR4C_03f1ba.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-ZR/CuZr-06Wan.acr_zr-01.json",
+   "parent_weight": 0.172389,
+   "n_values": 2,
+   "sigma_min": 2900.293575,
+   "sigma_max": 2900.526993,
+   "children": [
+    "experimental/CU-ZR/CuZr-06Wan.acr_zr-01-u-ORC-5MP57ADSXW_93bc01.json",
+    "experimental/CU-ZR/CuZr-06Wan.acr_zr-01-u-ORC-FU36JJPD4E_bbfc1c.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-ZR/CuZr-06Wan.acr_zr-03.json",
+   "parent_weight": 0.172415,
+   "n_values": 3,
+   "sigma_min": 2899.953739,
+   "sigma_max": 2900.214132,
+   "children": [
+    "experimental/CU-ZR/CuZr-06Wan.acr_zr-03-u-ORC-KO7RM2QBTG_0341a1.json",
+    "experimental/CU-ZR/CuZr-06Wan.acr_zr-03-u-ORC-NCKZ3PREPK_a50b1d.json",
+    "experimental/CU-ZR/CuZr-06Wan.acr_zr-03-u-ORC-LC3RLTZB2A_cc350b.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-ZR/CuZr-06Wan.acr_zr-09.json",
+   "parent_weight": 0.17241,
+   "n_values": 2,
+   "sigma_min": 2899.972593,
+   "sigma_max": 2900.162465,
+   "children": [
+    "experimental/CU-ZR/CuZr-06Wan.acr_zr-09-u-ORC-5OZGTSNZVA_32d0af.json",
+    "experimental/CU-ZR/CuZr-06Wan.acr_zr-09-u-ORC-S3UQLI7BPF_3499ee.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/CU-ZR/CuZr-06Wan.acr_zr-11.json",
+   "parent_weight": 0.172375,
+   "n_values": 2,
+   "sigma_min": 2900.345762,
+   "sigma_max": 2900.95336,
+   "children": [
+    "experimental/CU-ZR/CuZr-06Wan.acr_zr-11-u-ORC-ZROKVQJL2B_7ed026.json",
+    "experimental/CU-ZR/CuZr-06Wan.acr_zr-11-u-ORC-TY3NGMQR4C_3c0536.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/GA-PB/GaPb-96Mat.acr_pb-63.json",
+   "parent_weight": 0.172414,
+   "n_values": 9,
+   "sigma_min": 2899.147944,
+   "sigma_max": 2900.530345,
+   "children": [
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-63-u-ORC-7ETPQ4MBKX_0a40ca.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-63-u-ORC-ZGNAFNTX2H_5e9855.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-63-u-ORC-7G4J3DVKFH_4c3dd1.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-63-u-ORC-7I45ALU6KN_148367.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-63-u-ORC-MONU7THU37_51a297.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-63-u-ORC-63QYRBVRYF_54531d.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-63-u-ORC-LJTN6HCDSM_141d8a.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-63-u-ORC-3Z5S7VXILD_09f25f.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-63-u-ORC-CRRFPLQB7C_8b23eb.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/GA-PB/GaPb-96Mat.acr_pb-64.json",
+   "parent_weight": 0.172418,
+   "n_values": 9,
+   "sigma_min": 2899.402349,
+   "sigma_max": 2900.649317,
+   "children": [
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-64-u-ORC-L7ZABRV5H7_16e0ce.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-64-u-ORC-WSBJJ2R4IB_c8d013.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-64-u-ORC-NCRGVLCD6P_056a9e.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-64-u-ORC-OCJX2Y6DYH_845e7b.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-64-u-ORC-YK6HEGEZUA_1009f7.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-64-u-ORC-BC2N4FHDLQ_8186f9.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-64-u-ORC-AMA3YPXTQA_a4fb42.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-64-u-ORC-KHXM4SENVO_06be0e.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-64-u-ORC-4IDKX2N35D_0aee90.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/GA-PB/GaPb-96Mat.acr_pb-65.json",
+   "parent_weight": 0.17241,
+   "n_values": 9,
+   "sigma_min": 2899.253115,
+   "sigma_max": 2900.559673,
+   "children": [
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-65-u-ORC-7IG4VNLC2P_03931b.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-65-u-ORC-7TTFKZHIPV_985980.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-65-u-ORC-YDWPXBI466_5b2aa0.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-65-u-ORC-WKES4ICTQ4_a7134f.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-65-u-ORC-SOFJS32FMR_24e219.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-65-u-ORC-O5LVXC64ZY_0ab523.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-65-u-ORC-CTODGIWVL3_b87fbe.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-65-u-ORC-NG55AIS4TJ_80a9fc.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-65-u-ORC-YQQ3XDLS4L_3c6ada.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/GA-PB/GaPb-96Mat.acr_pb-66.json",
+   "parent_weight": 0.172419,
+   "n_values": 9,
+   "sigma_min": 2899.478094,
+   "sigma_max": 2900.499145,
+   "children": [
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-66-u-ORC-76ERFUZKRD_45bee4.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-66-u-ORC-LNWB2KWTAF_297a66.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-66-u-ORC-S5TOUNJSYJ_9e8dbd.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-66-u-ORC-RPTXZATS7B_4ed133.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-66-u-ORC-QLGO7RDCW4_5261c7.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-66-u-ORC-HTDXV6BWSA_487af2.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-66-u-ORC-TQL4DWRG4B_1b3611.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-66-u-ORC-7EJZDTGN6G_722fc9.json",
+    "experimental/GA-PB/GaPb-96Mat.acr_pb-66-u-ORC-7JROAITAUC_8abb2e.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/GA-Y/GaY-13Idb.hmr-01-GA2Y_C32.json",
+   "parent_weight": 0.108696,
+   "n_values": 3,
+   "sigma_min": 3200.0,
+   "sigma_max": 4600.0,
+   "children": [
+    "experimental/GA-Y/GaY-13Idb.hmr-01-GA2Y_C32-u-ORC-5K3AIJTOR3.json",
+    "experimental/GA-Y/GaY-13Idb.hmr-01-GA2Y_C32-u-ORC-AK4MEPFDCO.json",
+    "experimental/GA-Y/GaY-13Idb.hmr-01-GA2Y_C32-u-ORC-D62AZ3EOOF.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/GE-SI/GeSi-92Ber-LB.acr_ge-01.json",
+   "parent_weight": 0.172411,
+   "n_values": 9,
+   "sigma_min": 2899.545784,
+   "sigma_max": 2900.978366,
+   "children": [
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_ge-01-u-ORC-MX4X76FL6C_510ad6.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_ge-01-u-ORC-IS45WK5UKP_262376.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_ge-01-u-ORC-UZLQY2LXGE_b7f095.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_ge-01-u-ORC-TEUX77SVIF_94ebfe.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_ge-01-u-ORC-VEMIQI2QKH_72ac2a.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_ge-01-u-ORC-PQIJGZZYCW_1366ba.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_ge-01-u-ORC-4VJOVJYQSA_7735fb.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_ge-01-u-ORC-4K4ENMK6L6_064bce.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_ge-01-u-ORC-6YLE4P7WNL_dd51ab.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00.json",
+   "parent_weight": 0.172412,
+   "n_values": 10,
+   "sigma_min": 2898.780361,
+   "sigma_max": 2900.978366,
+   "children": [
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00-u-ORC-IS45WK5UKP_91a912.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00-u-ORC-UZLQY2LXGE_f9126f.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00-u-ORC-TEUX77SVIF_e3e014.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00-u-ORC-VEMIQI2QKH_6141b4.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00-u-ORC-K43YLA7BZC_443dd6.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00-u-ORC-PQIJGZZYCW_29b003.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00-u-ORC-4VJOVJYQSA_b3216e.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00-u-ORC-4K4ENMK6L6_173f2e.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00-u-ORC-6YLE4P7WNL_2db3df.json",
+    "experimental/GE-SI/GeSi-92Ber-LB.acr_si-00-u-ORC-QAZ74ROOA4_b1f97d.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/LI-SB/LiSb-17Li.hmr-03.json",
+   "parent_weight": 0.491159,
+   "n_values": 25,
+   "sigma_min": 500.0,
+   "sigma_max": 1898.0,
+   "children": [
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-YXN56HZPNM_5dbe46.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-NGIDTXSSGC_70deab.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-HNMU5NSLAR_3a9200.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-W6ZAYH4AC4_04a014.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-N6ZLIFXSFF_99d6ec.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-5BPQVDHI4K_19a0a2.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-ORCXUYWCRT_43b3a3.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-RK3S6OHT26_7ca9c9.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-C67CG5YGGA_18cb8e.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-NYQWQ3YHDC_af8166.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-QX6HDKLOPI_3b44f8.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-2XDURIRRQO_365a2d.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-3FN4FC4ZLX_bf69c4.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-GV6USGVCSH_8663fc.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-SIGVDMMRFD_2d0f64.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-VLOVDRLDXP_222dfd.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-KV65HOC7S2_575b6c.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-IQH7SQMS7C_2e314b.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-GGZEKQU7S4_1ddce8.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-2CKRUYB3DW_6cdbc4.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-3IRQ6IJTIA_6becea.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-AEQLRV4BGJ_8f8128.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-LNA2VB3CTL_6ec5e3.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-7CK67MT5ZO_32b5fd.json",
+    "experimental/LI-SB/LiSb-17Li.hmr-03-u-ORC-5MMGHF6J5J_6f26fc.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/NI-YB/NiYb-16Kar.hmr-00-NI2YB_C15.json",
+   "parent_weight": 0.128205,
+   "n_values": 2,
+   "sigma_min": 3200.0,
+   "sigma_max": 4600.0,
+   "children": [
+    "experimental/NI-YB/NiYb-16Kar.hmr-00-NI2YB_C15-u-ORC-5DLLBJSKHU_19c63a.json",
+    "experimental/NI-YB/NiYb-16Kar.hmr-00-NI2YB_C15-u-ORC-2VYYLCJG6B_35b188.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/PB-YB/PbYb-09Idb.hmr-00-PBYB2_C37.json",
+   "parent_weight": 0.121951,
+   "n_values": 2,
+   "sigma_min": 3200.0,
+   "sigma_max": 5000.0,
+   "children": [
+    "experimental/PB-YB/PbYb-09Idb.hmr-00-PBYB2_C37-u-ORC-JDT6JQDCRF_43e8e0.json",
+    "experimental/PB-YB/PbYb-09Idb.hmr-00-PBYB2_C37-u-ORC-FCVDGDDLPW_a18db6.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/SI-TE/SiTe-99Feu-LB.hmr-00-SI2TE3_LT.json",
+   "parent_weight": 0.147059,
+   "n_values": 2,
+   "sigma_min": 3000.0,
+   "sigma_max": 3800.0,
+   "children": [
+    "experimental/SI-TE/SiTe-99Feu-LB.hmr-00-SI2TE3_LT-u-ORC-4WEMGUOLGR.json",
+    "experimental/SI-TE/SiTe-99Feu-LB.hmr-00-SI2TE3_LT-u-ORC-CWG2DBYN6M.json"
+   ]
+  },
+  {
+   "parent_dataset": "experimental/SI-TE/SiTe-99Feu-LB.hmr-01-SI2TE3_LT.json",
+   "parent_weight": 0.2,
+   "n_values": 2,
+   "sigma_min": 2000.0,
+   "sigma_max": 3000.0,
+   "children": [
+    "experimental/SI-TE/SiTe-99Feu-LB.hmr-01-SI2TE3_LT-u-ORC-Q77N3JJJ37.json",
+    "experimental/SI-TE/SiTe-99Feu-LB.hmr-01-SI2TE3_LT-u-ORC-T5IN5YOYEN.json"
+   ]
+  },
+  {
+   "parent_dataset": "model/CU-ZR/CuZr-06Wan.acr_cu-model-00.json",
+   "parent_weight": 0.500035,
+   "n_values": 2,
+   "sigma_min": 999.90724,
+   "sigma_max": 999.952181,
+   "children": [
+    "model/CU-ZR/CuZr-06Wan.acr_cu-model-00-u-ORC-3SOWKONKY4_a8425d.json",
+    "model/CU-ZR/CuZr-06Wan.acr_cu-model-00-u-ORC-GEL6SZZHLI_83f50a.json"
+   ]
+  },
+  {
+   "parent_dataset": "model/CU-ZR/CuZr-06Wan.acr_cu-model-02.json",
+   "parent_weight": 0.499981,
+   "n_values": 3,
+   "sigma_min": 1000.035542,
+   "sigma_max": 1000.29788,
+   "children": [
+    "model/CU-ZR/CuZr-06Wan.acr_cu-model-02-u-ORC-DIDX6VFZX5_9ae6db.json",
+    "model/CU-ZR/CuZr-06Wan.acr_cu-model-02-u-ORC-VGZITPKLA5_9db2f8.json",
+    "model/CU-ZR/CuZr-06Wan.acr_cu-model-02-u-ORC-AMDFCACSBH_7d4893.json"
+   ]
+  },
+  {
+   "parent_dataset": "model/CU-ZR/CuZr-06Wan.acr_cu-model-08.json",
+   "parent_weight": 0.500006,
+   "n_values": 2,
+   "sigma_min": 999.96813,
+   "sigma_max": 1000.008283,
+   "children": [
+    "model/CU-ZR/CuZr-06Wan.acr_cu-model-08-u-ORC-X6Y4FTGPAN_3fbf8a.json",
+    "model/CU-ZR/CuZr-06Wan.acr_cu-model-08-u-ORC-XEDXRMDT4P_8cd2ff.json"
+   ]
+  },
+  {
+   "parent_dataset": "model/CU-ZR/CuZr-06Wan.acr_cu-model-10.json",
+   "parent_weight": 0.500005,
+   "n_values": 2,
+   "sigma_min": 999.948189,
+   "sigma_max": 1000.033222,
+   "children": [
+    "model/CU-ZR/CuZr-06Wan.acr_cu-model-10-u-ORC-H2OOKTUZCC_3bcfb3.json",
+    "model/CU-ZR/CuZr-06Wan.acr_cu-model-10-u-ORC-IEVSXBE66O_62a9bd.json"
+   ]
+  },
+  {
+   "parent_dataset": "model/CU-ZR/CuZr-06Wan.acr_zr-model-01.json",
+   "parent_weight": 0.50006,
+   "n_values": 2,
+   "sigma_min": 999.819533,
+   "sigma_max": 999.938559,
+   "children": [
+    "model/CU-ZR/CuZr-06Wan.acr_zr-model-01-u-ORC-3SOWKONKY4_3002f1.json",
+    "model/CU-ZR/CuZr-06Wan.acr_zr-model-01-u-ORC-GEL6SZZHLI_22cb54.json"
+   ]
+  },
+  {
+   "parent_dataset": "model/CU-ZR/CuZr-06Wan.acr_zr-model-03.json",
+   "parent_weight": 0.499989,
+   "n_values": 3,
+   "sigma_min": 999.893524,
+   "sigma_max": 1000.094939,
+   "children": [
+    "model/CU-ZR/CuZr-06Wan.acr_zr-model-03-u-ORC-DIDX6VFZX5_798c63.json",
+    "model/CU-ZR/CuZr-06Wan.acr_zr-model-03-u-ORC-VGZITPKLA5_6329f8.json",
+    "model/CU-ZR/CuZr-06Wan.acr_zr-model-03-u-ORC-AMDFCACSBH_654289.json"
+   ]
+  },
+  {
+   "parent_dataset": "model/CU-ZR/CuZr-06Wan.acr_zr-model-09.json",
+   "parent_weight": 0.500026,
+   "n_values": 2,
+   "sigma_min": 999.910822,
+   "sigma_max": 999.986486,
+   "children": [
+    "model/CU-ZR/CuZr-06Wan.acr_zr-model-09-u-ORC-X6Y4FTGPAN_1fb007.json",
+    "model/CU-ZR/CuZr-06Wan.acr_zr-model-09-u-ORC-XEDXRMDT4P_549211.json"
+   ]
+  },
+  {
+   "parent_dataset": "model/CU-ZR/CuZr-06Wan.acr_zr-model-11.json",
+   "parent_weight": 0.500062,
+   "n_values": 2,
+   "sigma_min": 999.723959,
+   "sigma_max": 1000.029415,
+   "children": [
+    "model/CU-ZR/CuZr-06Wan.acr_zr-model-11-u-ORC-H2OOKTUZCC_b55997.json",
+    "model/CU-ZR/CuZr-06Wan.acr_zr-model-11-u-ORC-IEVSXBE66O_1a01ab.json"
+   ]
+  },
+  {
+   "parent_dataset": "model/NB-RE/NbRe-13Liu.smr-model-01.json",
+   "parent_weight": 0.093023,
+   "n_values": 2,
+   "sigma_min": 1.0,
+   "sigma_max": 3.3,
+   "children": [
+    "model/NB-RE/NbRe-13Liu.smr-model-01-u-ORC-DME4MEHYIB_96f08d.json",
+    "model/NB-RE/NbRe-13Liu.smr-model-01-u-ORC-DME4MEHYIB_72a7be.json"
+   ]
+  }
+ ]
+}

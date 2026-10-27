@@ -1,10 +1,10 @@
 # Ni system
 
-> Ni system: 58 accepted literature values (crystal structure 19, formation 19, phase transition 12, activity / EMF / Gibbs energy 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni system: 55 accepted literature values (crystal structure 19, formation 16, phase transition 12, activity / EMF / Gibbs energy 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI.html · Markdown: https://data.orchid-project.org/systems/NI.md
 
-58 accepted literature values from 18 paper(s) (experimental 12, model 15, DFT 21, unspecified 10); 0 calculated phase diagram(s).
+55 accepted literature values from 18 paper(s) (experimental 12, model 15, DFT 18, unspecified 10); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI.json) · [CSV](https://data.orchid-project.org/systems/NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI.html) · [Markdown](https://data.orchid-project.org/systems/NI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 12 |
 | model | 15 |
-| DFT | 21 |
+| DFT | 18 |
 | unspecified | 10 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 12 |
-| formation | 19 |
+| formation | 16 |
 | activity / EMF / Gibbs energy | 8 |
 | crystal structure | 19 |
 
@@ -30,7 +30,7 @@ Table: Accepted values by property group
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni system (19)
+Table: Enthalpies of formation, Ni system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -48,11 +48,7 @@ Table: Enthalpies of formation, Ni system (19)
 | Ni A1 |  | 9.2 kJ/mol-atom | 0 | DFT |  |  | [4] Cacciamani 2010 | Table 3, p. 7, row 13; `ORC-RATDL7RTN4` |  |
 | Ni A2 |  | 0 kJ/mol-atom | 0 | DFT |  |  | [4] Cacciamani 2010 | Table 3, p. 7, row 14; `ORC-M6ZH5C4SG6` |  |
 | Ni(fcc-A1) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [5] Ross 2018 | Table 1, p. 4, row 1; `ORC-NXB4QUUXWI.faa632` |  |
-| UNKNOWN |  | 0 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 24; `ORC-5EBBIE7IWM.d0ecfd` |  |
-| UNKNOWN |  | 0 kJ/mol-atom |  | DFT |  |  | [6] Zhou 2009 | Table 6, p. 7, row 1; `ORC-Z5BP2ECH5W` |  |
-| UNKNOWN |  | 9.33 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2005 | Table 2, p. 4, row 25; `ORC-IL45GRAGXF.753057` |  |
-| UNKNOWN |  | 9.33 kJ/mol-atom |  | DFT |  |  | [6] Zhou 2009 | Table 6, p. 7, row 2; `ORC-TW47OPDAEX` |  |
-| sigma |  | 9.843 kJ/mol-atom | 0 | DFT |  |  | [7] Tonyali 2024 | Table 4, p. 5, row 14; `ORC-D4Y3NAPN56` |  |
+| sigma |  | 9.843 kJ/mol-atom | 0 | DFT |  |  | [6] Tonyali 2024 | Table 4, p. 5, row 14; `ORC-D4Y3NAPN56` |  |
 
 ## Other properties
 
@@ -62,18 +58,26 @@ Table: Phase transition, Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 625.25 K | 625.25 | magnetic: TC, K | experimental | [8] Hao 2021; _cites Maszkiewicz 1978_ [doi](https://doi.org/10.1002/pssa.2210470160) | Table 4, p. 42, row 6; `ORC-TJVP3VVYDX` |  |
-| Phase transition | 626 K | 626 | magnetic: TC, K | experimental | [8] Hao 2021; _cites Foster 1934_ [doi](https://doi.org/10.1080/14786443409462519) | Table 4, p. 42, row 7; `ORC-5IKQDMMZNK` |  |
-| Phase transition | 627.2 K | 627.2 | magnetic: TC, K | experimental | [8] Hao 2021; _cites Kouvel 1964_ [doi](https://doi.org/10.1103/physrev.136.a1626) | Table 4, p. 42, row 3; `ORC-MVFAEERPRS` |  |
-| Phase transition | 628.5 K | 628.5 | magnetic: TC, K | experimental | [8] Hao 2021; _cites Kollie 1977_ [doi](https://doi.org/10.1103/physrevb.16.4872) | Table 4, p. 42, row 8; `ORC-3FN54UUSRZ` |  |
-| Phase transition | 628.5 K | 628.5 | magnetic: TC, K | experimental | [8] Hao 2021; _cites Schmidt 1962_ | Table 4, p. 42, row 5; `ORC-W6GSGJ4LKW` |  |
-| Phase transition | 631 K | 631 | magnetic: TC, K | experimental | [8] Hao 2021; _cites Tange 1981_ [doi](https://doi.org/10.1143/jpsj.50.454) | Table 4, p. 42, row 4; `ORC-XWI6IEROMF` |  |
-| Phase transition | 632 K | 632 | magnetic: TC, K | experimental | [8] Hao 2021; _cites Shiga 1969_ | Table 4, p. 42, row 9; `ORC-LHHDTIDNQH` |  |
-| Phase transition | 633 K | 633 | magnetic: TC, K | experimental | [8] Hao 2021; _cites Crangle 1963_ [doi](https://doi.org/10.1098/rspa.1963.0045) | Table 4, p. 42, row 2; `ORC-2R4A5ZQIO2` |  |
-| Phase transition | 633 K | 633 | magnetic: TC, K | experimental | [8] Hao 2021; _cites Meschter 1981_ [doi](https://doi.org/10.1016/0022-3697%2881%2990174-8) | Table 4, p. 42, row 1; `ORC-57DYGTGRGN` |  |
-| Phase transition | 686 K | 686 | magnetic: TC, K | model | [8] Hao 2021; _cites Yu 2008_ [doi](https://doi.org/10.1103/physrevb.77.054431) | Table 4, p. 42, row 10; `ORC-VRS6KWRF73` |  |
-| Phase transition | 1728.15 K | 1728.15 | L -> (fcc_A1); _L: Ni 1; (fcc_A1): Ni 1_ | experimental | [9] Kardellass 2015 | Table 6, p. 7, row 29; `ORC-H2BOKWP7XA` |  |
-| Phase transition | 1728.15 K | 1728.15 | L -> (fcc_A1); _L: Ni 1; (fcc_A1): Ni 1_ | model | [9] Kardellass 2015 | Table 6, p. 7, row 30; `ORC-QGVIKVSSCY` |  |
+| Phase transition | 625.25 K | 625.25 | magnetic: TC, K | experimental | [7] Hao 2021; _cites Maszkiewicz 1978_ [doi](https://doi.org/10.1002/pssa.2210470160) | Table 4, p. 42, row 6; `ORC-TJVP3VVYDX` |  |
+| Phase transition | 626 K | 626 | magnetic: TC, K | experimental | [7] Hao 2021; _cites Foster 1934_ [doi](https://doi.org/10.1080/14786443409462519) | Table 4, p. 42, row 7; `ORC-5IKQDMMZNK` |  |
+| Phase transition | 627.2 K | 627.2 | magnetic: TC, K | experimental | [7] Hao 2021; _cites Kouvel 1964_ [doi](https://doi.org/10.1103/physrev.136.a1626) | Table 4, p. 42, row 3; `ORC-MVFAEERPRS` |  |
+| Phase transition | 628.5 K | 628.5 | magnetic: TC, K | experimental | [7] Hao 2021; _cites Kollie 1977_ [doi](https://doi.org/10.1103/physrevb.16.4872) | Table 4, p. 42, row 8; `ORC-3FN54UUSRZ` |  |
+| Phase transition | 628.5 K | 628.5 | magnetic: TC, K | experimental | [7] Hao 2021; _cites Schmidt 1962_ | Table 4, p. 42, row 5; `ORC-W6GSGJ4LKW` |  |
+| Phase transition | 631 K | 631 | magnetic: TC, K | experimental | [7] Hao 2021; _cites Tange 1981_ [doi](https://doi.org/10.1143/jpsj.50.454) | Table 4, p. 42, row 4; `ORC-XWI6IEROMF` |  |
+| Phase transition | 632 K | 632 | magnetic: TC, K | experimental | [7] Hao 2021; _cites Shiga 1969_ | Table 4, p. 42, row 9; `ORC-LHHDTIDNQH` |  |
+| Phase transition | 633 K | 633 | magnetic: TC, K | experimental | [7] Hao 2021; _cites Crangle 1963_ [doi](https://doi.org/10.1098/rspa.1963.0045) | Table 4, p. 42, row 2; `ORC-2R4A5ZQIO2` |  |
+| Phase transition | 633 K | 633 | magnetic: TC, K | experimental | [7] Hao 2021; _cites Meschter 1981_ [doi](https://doi.org/10.1016/0022-3697%2881%2990174-8) | Table 4, p. 42, row 1; `ORC-57DYGTGRGN` |  |
+| Phase transition | 686 K | 686 | magnetic: TC, K | model | [7] Hao 2021; _cites Yu 2008_ [doi](https://doi.org/10.1103/physrevb.77.054431) | Table 4, p. 42, row 10; `ORC-VRS6KWRF73` |  |
+| Phase transition | 1728.15 K | 1728.15 | L -> (fcc_A1); _L: Ni 1; (fcc_A1): Ni 1_ | experimental | [8] Kardellass 2015 | Table 6, p. 7, row 29; `ORC-H2BOKWP7XA` |  |
+| Phase transition | 1728.15 K | 1728.15 | L -> (fcc_A1); _L: Ni 1; (fcc_A1): Ni 1_ | model | [8] Kardellass 2015 | Table 6, p. 7, row 30; `ORC-QGVIKVSSCY` |  |
+
+### Formation (1)
+
+Table: Formation, Ni system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| end member formation energy; _printed: ΔEf_ | 7.08 kJ/mol-atom | 0 | (Ni)3(Ni)1; _alloy: Ni 1_ | DFT | [9] Santhy 2015 | Table 5, p. 4, row 10; `ORC-LXX4NRREAG` |  |
 
 ### Activity / EMF / Gibbs energy (8)
 
@@ -125,10 +129,10 @@ Reporting papers the values were read from (a value cited from another work name
 3. S.H. Zhou, Y. Wang, C. Jiang, J.Z. Zhu, L.-Q. Chen, Z.-K. Liu, First-principles calculations and thermodynamic modeling of the Ni–Mo system, Materials Science and Engineering: A 397, 288-296 (2005). [doi:10.1016/j.msea.2005.02.037](https://doi.org/10.1016/j.msea.2005.02.037)
 4. G. Cacciamani, A. Dinsdale, M. Palumbo, A. Pasturel, The Fe–Ni system: Thermodynamic modelling assisted by atomistic calculations, Intermetallics 18, 1148-1162 (2010). [doi:10.1016/j.intermet.2010.02.026](https://doi.org/10.1016/j.intermet.2010.02.026)
 5. A.J. Ross, T. Gheno, P.K. Ray, M.J. Kramer, X.L. Liu, G. Lindwall et al., A first-principles based description of the Hf-Ni system supported by high-temperature synchrotron experiments, Thermochimica Acta 668, 142-151 (2018). [doi:10.1016/j.tca.2018.08.011](https://doi.org/10.1016/j.tca.2018.08.011)
-6. S.H. Zhou, Y. Wang, L.-Q. Chen, Z.-K. Liu, R.E. Napolitano, Solution-based thermodynamic modeling of the Ni–Ta and Ni–Mo–Ta systems using first-principle calculations, Calphad 33, 631-641 (2009). [doi:10.1016/j.calphad.2009.06.006](https://doi.org/10.1016/j.calphad.2009.06.006)
-7. Beril Tonyali, Hui Sun, Brandon Bocklund, John Paul Borgonia, Richard A. Otis, Shun-Li Shang et al., Additively manufactured Ni-20Cr to V functionally graded material: Computational predictions and experimental verification of phase formations, Journal of Alloys and Compounds 985, 174011 (2024). [doi:10.1016/j.jallcom.2024.174011](https://doi.org/10.1016/j.jallcom.2024.174011)
-8. Liangyan Hao, Andrei Ruban, Wei Xiong, CALPHAD modeling based on Gibbs energy functions from zero kevin and improved magnetic model: A case study on the Cr–Ni system, Calphad 73, 102268 (2021). [doi:10.1016/j.calphad.2021.102268](https://doi.org/10.1016/j.calphad.2021.102268)
-9. S. Kardellass, C. Servant, N. Selhaoui, Thermodynamic description of the holmium–nickel system, J Therm Anal Calorim 119, 1225-1234 (2015). [doi:10.1007/s10973-014-4189-1](https://doi.org/10.1007/s10973-014-4189-1)
+6. Beril Tonyali, Hui Sun, Brandon Bocklund, John Paul Borgonia, Richard A. Otis, Shun-Li Shang et al., Additively manufactured Ni-20Cr to V functionally graded material: Computational predictions and experimental verification of phase formations, Journal of Alloys and Compounds 985, 174011 (2024). [doi:10.1016/j.jallcom.2024.174011](https://doi.org/10.1016/j.jallcom.2024.174011)
+7. Liangyan Hao, Andrei Ruban, Wei Xiong, CALPHAD modeling based on Gibbs energy functions from zero kevin and improved magnetic model: A case study on the Cr–Ni system, Calphad 73, 102268 (2021). [doi:10.1016/j.calphad.2021.102268](https://doi.org/10.1016/j.calphad.2021.102268)
+8. S. Kardellass, C. Servant, N. Selhaoui, Thermodynamic description of the holmium–nickel system, J Therm Anal Calorim 119, 1225-1234 (2015). [doi:10.1007/s10973-014-4189-1](https://doi.org/10.1007/s10973-014-4189-1)
+9. K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015). [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200)
 10. Júlio César Pereira dos Santos, Sean Griesemer, Nathalie Dupin, Ursula R. Kattner, Chuan Liu, Daniela Ivanova et al., Applying the Effective Bond Energy Formalism (EBEF) to Describe the Sigma (σ) Phase in the Co-Cr-Ni-Re System, J. Phase Equilib. Diffus. 45, 330-357 (2024). [doi:10.1007/s11669-023-01079-3](https://doi.org/10.1007/s11669-023-01079-3)
 11. Shunli Shang, Zhi-Jie Liu, Zi-Kui Liu, Thermodynamic modeling of the Ba–Ni–Ti system, Journal of Alloys and Compounds 430, 188-193 (2007). [doi:10.1016/j.jallcom.2006.03.096](https://doi.org/10.1016/j.jallcom.2006.03.096)
 12. W. Xiong, H. Zhang, L. Vitos, M. Selleby, Magnetic phase diagram of the Fe–Ni system, Acta Materialia 59, 521-530 (2011). [doi:10.1016/j.actamat.2010.09.055](https://doi.org/10.1016/j.actamat.2010.09.055)
@@ -141,8 +145,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -151,7 +155,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -162,7 +166,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

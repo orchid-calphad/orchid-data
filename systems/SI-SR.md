@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/SI-SR.html · Markdown: https://data.orchid-project.org/systems/SI-SR.md
 
-166 accepted literature values from 2 paper(s) (experimental 59, model 66, DFT 38, unspecified 3); 5 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+166 accepted literature values from 2 paper(s) (experimental 59, model 57, DFT 47, unspecified 3); 5 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-SR.json) · [CSV](https://data.orchid-project.org/systems/SI-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-SR/SiSr-09Gar-ass.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SI-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-SR.html) · [Markdown](https://data.orchid-project.org/systems/SI-SR.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 59 |
-| model | 66 |
-| DFT | 38 |
+| model | 57 |
+| DFT | 47 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
@@ -185,15 +185,15 @@ Table: Enthalpies of formation, Si–Sr system (41)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Si3Sr5 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -44.3 kJ/mol-atom | 298.15 | model | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 6; `ORC-4NZW6V5CB7.2c7067` |  |
+| Si3Sr5 |  | -44.3 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.05.083) | Table 2, p. 2, row 6; `ORC-4NZW6V5CB7.2c7067` |  |
 | Si3Sr5 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -43.8 kJ/mol-atom ± 3.6 | 298.15 | experimental | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4; `ORC-UHRCVRDEJE.6499cc` |  |
-| Si3Sr5 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -40.3 kJ/mol-atom | 298.15 | model | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 5; `ORC-4IQIRR4G6L.18917c` |  |
-| SiSr | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -53.1 kJ/mol-atom | 298.15 | model | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 9; `ORC-VDSFOJ7ZWT.428991` |  |
+| Si3Sr5 |  | -40.3 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.05.083) | Table 2, p. 2, row 5; `ORC-4IQIRR4G6L.18917c` |  |
+| SiSr |  | -53.1 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.05.083) | Table 2, p. 2, row 9; `ORC-VDSFOJ7ZWT.428991` |  |
 | SiSr | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -51.7 kJ/mol-atom ± 4.1 | 298.15 | experimental | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7; `ORC-EEVBEWVICW.3cdbfe` |  |
-| SiSr |  | -46.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 8; `ORC-ZFGCMVYTPX.bdc602` |  |
-| SiSr2 | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -41.3 kJ/mol-atom | 298.15 | model | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 3; `ORC-R7MCVZ3TXI.30dace` |  |
+| SiSr |  | -46.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.05.083) | Table 2, p. 2, row 8; `ORC-ZFGCMVYTPX.bdc602` |  |
+| SiSr2 |  | -41.3 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.05.083) | Table 2, p. 2, row 3; `ORC-R7MCVZ3TXI.30dace` |  |
 | SiSr2 | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -39.7 kJ/mol-atom ± 3.2 | 298.15 | experimental | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1; `ORC-2FNA3V3ITS.180d8b` |  |
-| SiSr2 | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -37.9 kJ/mol-atom | 298.15 | model | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 2; `ORC-XJH7MKZWNI.5dc3eb` |  |
+| SiSr2 |  | -37.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.05.083) | Table 2, p. 2, row 2; `ORC-XJH7MKZWNI.5dc3eb` |  |
 | Sr2Si | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -66.3 kJ/mol-atom | 298.15 | model | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 1; `ORC-LEQ3XPRIOJ.05ffff` |  |
 | Sr2Si |  | -41.3 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 3; `ORC-C4KDRUOFUL.8881a7` |  |
 | Sr2Si | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 6; `ORC-MF7LDLWXCM.9acaf2` |  |
@@ -211,17 +211,17 @@ Table: Enthalpies of formation, Si–Sr system (41)
 | SrSi |  | -46.7 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 15; `ORC-NKXN5K3V73.1dcd40` |  |
 | SrSi | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -43.5 kJ/mol-atom | 298.15 | unspecified | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 12; `ORC-GOP7ZK75B7.bdcec9` |  |
 | α-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -42.7 kJ/mol-atom ± 4.3 | 298.15 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 13; `ORC-MNLYH6ZXTW.6fcbcb` |  |
-| α-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -42 kJ/mol-atom |  | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 15; `ORC-GM7U7E26UE.427288` |  |
-| α-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -35.7 kJ/mol-atom |  | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 14; `ORC-PPFJUUN6ZW.607caf` |  |
+| α-Si2Sr |  | -42 kJ/mol-atom |  | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.05.083) | Table 2, p. 2, row 15; `ORC-GM7U7E26UE.427288` |  |
+| α-Si2Sr |  | -35.7 kJ/mol-atom |  | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.05.083) | Table 2, p. 2, row 14; `ORC-PPFJUUN6ZW.607caf` |  |
 | α-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -67.3 kJ/mol-atom | 298.15 | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 17; `ORC-E7O5G4FDT6.3154b4` |  |
 | α-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -42.7 kJ/mol-atom | 298.15 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 22; `ORC-GBX5IRSDAR.72bc1a` |  |
 | α-SrSi2 |  | -42 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 19; `ORC-NIY3C4KGUT.f632d2` |  |
 | α-SrSi2 |  | -35.8 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 21; `ORC-4IMCOBFY5W.915b71` |  |
 | α-SrSi2 |  | -35.7 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 20; `ORC-VFQ3MRKMJK.bca241` |  |
 | α-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -34.6 kJ/mol-atom | 298.15 | unspecified | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 18; `ORC-AQJY7ADXBD.b51260` |  |
-| β-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -44.7 kJ/mol-atom | 298.15 | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 12; `ORC-D5KD6WENLG.84dafb` |  |
+| β-Si2Sr |  | -44.7 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.05.083) | Table 2, p. 2, row 12; `ORC-D5KD6WENLG.84dafb` |  |
 | β-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -40.3 kJ/mol-atom ± 3.7 | 298.15 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 10; `ORC-43L5PTAVQT.7b5c82` |  |
-| β-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -35.9 kJ/mol-atom | 298.15 | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 11; `ORC-UDVK5MDZST.136b26` |  |
+| β-Si2Sr |  | -35.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.05.083) | Table 2, p. 2, row 11; `ORC-UDVK5MDZST.136b26` |  |
 | β-SrSi2 |  | -44.7 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 23; `ORC-CDZ7HLXDBU.ca7693` |  |
 | β-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -40.3 kJ/mol-atom | 298.15 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 26; `ORC-GNQ4UPZMQ2.923e00` |  |
 | β-SrSi2 |  | -35.9 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 24; `ORC-GOJ3G4HACO.c6ed69` |  |
@@ -310,10 +310,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -322,7 +322,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -333,7 +333,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -343,7 +343,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -353,7 +353,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

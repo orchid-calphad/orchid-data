@@ -1,10 +1,10 @@
 # F–Nb system
 
-> F–Nb system: 30 accepted literature values (heat capacity / entropy / enthalpy 11, formation 11, phase transition 7, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> F–Nb system: 23 accepted literature values (heat capacity / entropy / enthalpy 11, formation 11, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/F-NB.html · Markdown: https://data.orchid-project.org/systems/F-NB.md
 
-30 accepted literature values from 1 paper(s) (experimental 4, model 18, unspecified 8); 0 calculated phase diagram(s). 23 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+23 accepted literature values from 1 paper(s) (experimental 1, model 14, unspecified 8); 0 calculated phase diagram(s). 30 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/F-NB.json) · [CSV](https://data.orchid-project.org/systems/F-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-NB) · [phases (9)](https://data.orchid-project.org/phases/pages/F-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/F-NB.html) · [Markdown](https://data.orchid-project.org/systems/F-NB.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
-| model | 18 |
+| experimental | 1 |
+| model | 14 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 7 |
 | formation | 11 |
 | heat capacity / entropy / enthalpy | 11 |
 | other property | 1 |
@@ -48,20 +47,6 @@ Table: Enthalpies of formation, F–Nb system (11)
 | NbF5(g) |  | -286.708 kJ/mol-atom | 298.15 | model |  |  | [1] Capelli 2018 | Table 7, p. 6, row 5; `ORC-EN4I7UQFNU.9d25c8` |  |
 
 ## Other properties
-
-### Phase transition (7)
-
-Table: Phase transition, F–Nb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 506.5 K | 506.5 | other: NbF5 boiling point; _alloy: Nb 0.166667_ | experimental | [1] Capelli 2018; _cites Junkins 1952_ [doi](https://doi.org/10.1021/ja01134a002) | Table 8, p. 6, row 6; `ORC-6C4MBNWIY7` |  |
-| Phase transition | 506.5 K | 506.5 | other: NbF5 boiling point; _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 8, p. 6, row 7; `ORC-6S36YO4GXA` |  |
-| Phase transition | 508 K | 508 | other: NbF5 boiling point; _alloy: Nb 0.166667_ | experimental | [1] Capelli 2018; _cites Fairbrother 1951_ [doi](https://doi.org/10.1039/jr9510003051) | Table 8, p. 6, row 5; `ORC-2GUASAPJ5R` |  |
-| Phase transition | 573 K | 573 | other: NbF4 disproportionation (P ≃ 6.6 · 10^-4 bar); _alloy: Nb 0.2_ | model | [1] Capelli 2018 | Table 8, p. 6, row 4; `ORC-2ZH2VKNNS7` |  |
-| Phase transition | 573 K | 573 | other: NbF4 disproportionation (P ≃ 6.6 · 10^-4 bar); _alloy: Nb 0.2_ | model | [1] Capelli 2018; _cites Gortsema 1965_ [doi](https://doi.org/10.1021/ic50024a012) | Table 8, p. 6, row 3; `ORC-4THHDAUPLM` |  |
-| Phase transition | 843 K | 843 | other: NbF3 sublimation (P ≃ 1.3 · 10^-6 bar); _alloy: Nb 0.25_ | experimental | [1] Capelli 2018; _cites Ehrlich 1955_ [doi](https://doi.org/10.1002/zaac.19552820105) | Table 8, p. 6, row 1; `ORC-RXIHFSCXQX` |  |
-| Phase transition | 843 K | 843 | other: NbF3 sublimation (P ≃ 1.3 · 10^-6 bar); _alloy: Nb 0.25_ | model | [1] Capelli 2018 | Table 8, p. 6, row 2; `ORC-ZYDOGL6LRU` |  |
 
 ### Heat capacity / entropy / enthalpy (11)
 
@@ -97,9 +82,9 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -108,7 +93,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -119,7 +104,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -129,7 +114,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

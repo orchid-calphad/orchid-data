@@ -25,10 +25,6 @@
    [
     "SI",
     "SR"
-   ],
-   [
-    "SI",
-    "SR"
    ]
   ]
  },
@@ -42,8 +38,7 @@
    [
     -46900.0,
     -46700.0,
-    -53100.0,
-    -46900.0
+    -53100.0
    ]
   ]
  ],
@@ -52,14 +47,13 @@
  "weight": [
   0.041102,
   0.041102,
-  0.041102,
   0.041102
  ],
  "tags": [
   "dft_literature",
   "orchid"
  ],
- "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB SiSr-09Gar-ass.tdb (sha256 e825df829ea13daaf0b110b1cdbb5503f65162e6ce0ae3fc49351f2adc834c3d), phase SISR_B33. Ids, in value order: ORC-5VW6EUBSRK.174c2f ORC-NKXN5K3V73.1dcd40 ORC-R5R6OJDLAW.254b80 ORC-ZFGCMVYTPX.bdc602. eV/atom x 96485.33212 = J/mol-atom.",
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB SiSr-09Gar-ass.tdb (sha256 e825df829ea13daaf0b110b1cdbb5503f65162e6ce0ae3fc49351f2adc834c3d), phase SISR_B33. Ids, in value order: ORC-5VW6EUBSRK.174c2f ORC-NKXN5K3V73.1dcd40 ORC-R5R6OJDLAW.254b80. eV/atom x 96485.33212 = J/mol-atom.",
  "orchid": {
   "evidence_class": "dft",
   "dft_source": "literature",
@@ -76,7 +70,46 @@
     "compound": "SiSr",
     "basis": "registry paper_label",
     "space_group": null,
-    "match_quality": null
+    "match_quality": null,
+    "also_read_as": [
+     "ORC-ZFGCMVYTPX.bdc602"
+    ],
+    "evidence_identity": {
+     "canonical_id": "ORC-5VW6EUBSRK.174c2f",
+     "alias_ids": [
+      "ORC-ZFGCMVYTPX.bdc602"
+     ],
+     "role": "canonical",
+     "basis": "Garay et al. CALPHAD 2009 Table 2 reports -46.9 kJ/mol-atom for SrSi in the first-principles GGA column. Li et al. 2011 Table 2 repeats -46.9 as GGA and cites Garay et al. J. Alloys Compd. 484 (2009) 822-831. That original Table 4 reports -46.89 in the GGA column, rounding to -46.9; the CALPHAD paper also cites that calculation paper as reference 29. The two retained reports refer to the same SrSi GGA result.",
+     "source_doi": "10.1016/j.jallcom.2009.05.083",
+     "printed_page": 827,
+     "table": 4,
+     "reporting_source": {
+      "doi": "10.1016/j.calphad.2011.09.007",
+      "pdf_page": 2,
+      "table": 2,
+      "reference_label": "17"
+     },
+     "source_link_discrepancy": {
+      "existing_resolved_doi": "10.1016/j.calphad.2009.07.001",
+      "verified_original_doi": "10.1016/j.jallcom.2009.05.083",
+      "basis": "Reference 17 in Li et al. names the J. Alloys Compd. calculation paper, but the current resolver links to the related CALPHAD assessment. Identity was verified against both source PDFs.",
+      "status": "corrected",
+      "correction": "srsi-table2-20261026"
+     },
+     "canonical_reporting_source": {
+      "doi": "10.1016/j.calphad.2009.07.001",
+      "pdf_page": 4,
+      "printed_page": 553,
+      "table": 2,
+      "reference_label": "29 (related first-principles paper)"
+     },
+     "source_rounding": {
+      "original_source_value_kJ_mol_atom": -46.89,
+      "retained_reporting_value_kJ_mol_atom": -46.9,
+      "basis": "Original Table 4 GGA column versus one-decimal reports in the two CALPHAD tables. The retained values are not replaced by the more precise primary-source value."
+     }
+    }
    },
    {
     "id": "ORC-NKXN5K3V73.1dcd40",
@@ -90,23 +123,48 @@
     "compound": "SiSr",
     "basis": "registry paper_label",
     "space_group": null,
-    "match_quality": null
-   },
-   {
-    "id": "ORC-ZFGCMVYTPX.bdc602",
-    "compound": "SiSr",
-    "basis": "registry paper_label",
-    "space_group": null,
-    "match_quality": null
+    "match_quality": null,
+    "also_read_as": [
+     "ORC-VDSFOJ7ZWT.428991"
+    ],
+    "evidence_identity": {
+     "canonical_id": "ORC-R5R6OJDLAW.254b80",
+     "alias_ids": [
+      "ORC-VDSFOJ7ZWT.428991"
+     ],
+     "role": "canonical",
+     "basis": "Li et al. 2011 Table 2 repeats the same compound-specific GGA/LDA values reported in Garay et al. CALPHAD 2009 Table 2; the method and phase match. Preserve both reports and count the earlier available reporting record once.",
+     "source_doi": "10.1016/j.jallcom.2009.05.083",
+     "printed_page": 827,
+     "table": 4,
+     "reporting_source": {
+      "doi": "10.1016/j.calphad.2011.09.007",
+      "pdf_page": 2,
+      "table": 2,
+      "reference_label": "17"
+     },
+     "source_link_discrepancy": {
+      "existing_resolved_doi": "10.1016/j.calphad.2009.07.001",
+      "verified_original_doi": "10.1016/j.jallcom.2009.05.083",
+      "basis": "Reference 17 in Li et al. names the J. Alloys Compd. calculation paper, but the current resolver links to the related CALPHAD assessment. Identity was verified against both source PDFs.",
+      "status": "corrected",
+      "correction": "srsi-table2-20261026"
+     },
+     "canonical_reporting_source": {
+      "doi": "10.1016/j.calphad.2009.07.001",
+      "pdf_page": 4,
+      "printed_page": 553,
+      "table": 2,
+      "reference_label": "29 (related first-principles paper)"
+     }
+    }
    }
   ],
   "papers": [
-   "doi:10.1016/j.calphad.2009.07.001",
-   "doi:10.1016/j.calphad.2011.09.007"
+   "doi:10.1016/j.calphad.2009.07.001"
   ],
   "dois": [
-   "10.1016/j.calphad.2009.07.001",
-   "10.1016/j.calphad.2011.09.007"
+   "10.1016/j.calphad.2009.07.001"
   ],
   "status": "Version 1, machine-extracted",
   "temperature_note": "0 K DFT used as 298.15 K enthalpy"
@@ -129,14 +187,14 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "SI-SR",
-     "n": 110,
+     "n": 108,
      "sigma_robust_kJ": 12.165,
      "bias_median_kJ_not_applied": 0.75,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
+      7.205,
+      13.326
      ],
-     "n_full_stratum": 126
+     "n_full_stratum": 123
     },
     "weight_used": 0.041102,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -156,7 +214,7 @@
      "sigma_effective": 12165.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 110,
+     "method_n_pairs": 108,
      "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SI-SR"
     }
    },
@@ -169,14 +227,14 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "SI-SR",
-     "n": 110,
+     "n": 108,
      "sigma_robust_kJ": 12.165,
      "bias_median_kJ_not_applied": 0.75,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
+      7.205,
+      13.326
      ],
-     "n_full_stratum": 126
+     "n_full_stratum": 123
     },
     "weight_used": 0.041102,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -196,7 +254,7 @@
      "sigma_effective": 12165.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 110,
+     "method_n_pairs": 108,
      "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SI-SR"
     }
    },
@@ -209,14 +267,14 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "SI-SR",
-     "n": 110,
+     "n": 108,
      "sigma_robust_kJ": 12.165,
      "bias_median_kJ_not_applied": 0.75,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
+      7.205,
+      13.326
      ],
-     "n_full_stratum": 126
+     "n_full_stratum": 123
     },
     "weight_used": 0.041102,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -236,47 +294,7 @@
      "sigma_effective": 12165.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 110,
-     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SI-SR"
-    }
-   },
-   {
-    "sigma": 12165.0,
-    "sigma_basis": "dft_calibrated",
-    "calibration": {
-     "source": "literature",
-     "stratum": "pblock_anion",
-     "used": "stratum",
-     "leave_system_out": true,
-     "system_left_out": "SI-SR",
-     "n": 110,
-     "sigma_robust_kJ": 12.165,
-     "bias_median_kJ_not_applied": 0.75,
-     "ci95_sigma_robust_kJ_full_stratum": [
-      7.132,
-      12.643
-     ],
-     "n_full_stratum": 126
-    },
-    "weight_used": 0.041102,
-    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
-    "dft_value_printed": {
-     "value": -46.9,
-     "unit": "kJ/mol-atom"
-    },
-    "id": "ORC-ZFGCMVYTPX.bdc602",
-    "compound": "SiSr",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": 12165.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 12165.0,
-     "method_class": "dft_literature",
-     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 110,
+     "method_n_pairs": 108,
      "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SI-SR"
     }
    }

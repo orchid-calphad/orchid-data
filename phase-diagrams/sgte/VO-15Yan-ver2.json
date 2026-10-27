@@ -1,1 +1,1 @@
-{"tdb":"VO-15Yan-ver2.tdb","elements":["V","O"],"status":"failed","error":"AssertionError: "}
+{"tdb":"VO-15Yan-ver2.tdb","elements":["V","O"],"status":"failed","error":"AssertionError: ","sha256":"a7dd3bc52b4ee65022d13879d8801027ecaf3c2b5881cf558c7bb09583e08d80","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

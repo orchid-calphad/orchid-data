@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Ag2Se.html · Markdown: https://data.orchid-project.org/compounds/Ag2Se.md
 
-24 accepted literature formation-enthalpy value(s) (experimental 16, DFT 8); experimental median -13.623 kJ/mol-atom (n = 16); Materials Project -21.663 kJ/mol-atom (mp-aaabgjqe); OQMD -7.938 kJ/mol-atom (oqmd-1374449).
+24 accepted literature formation-enthalpy value(s) (experimental 15, model 1, DFT 8); experimental median -13.707 kJ/mol-atom (n = 15); Materials Project -21.663 kJ/mol-atom (mp-aaabgjqe); OQMD -7.938 kJ/mol-atom (oqmd-1374449).
 
 Systems: [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html)
 
@@ -28,8 +28,8 @@ Table: Enthalpy of formation of Ag2Se reported in the literature (24)
 | -11.6833 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 12; `ORC-IR25DWRF5G.7f35b1` |  |
 | -11.68 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 11; `ORC-FCNMFTUR4E.f22bb3` |  |
 | -11.6733 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 10; `ORC-DYLEZCG4HM.87c197` |  |
-| -11.67 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 1, p. 3, row 16; `ORC-G2E5AOIVAY.1d15e8` |  |
 | -11.6667 kJ/mol-atom | β-Ag2Se | 298.15 | experimental |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14; `ORC-PJHC2KGG2M.da54bd` |  |
+| -11.67 kJ/mol-atom | β-Ag2Se | 298.15 | model |  | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 1, p. 3, row 16; `ORC-G2E5AOIVAY.1d15e8` |  |
 | -9.936 kJ/mol-atom | α-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 1; `ORC-BC2LZ73AND.5a2061` |  |
 | -9.936 kJ/mol-atom | α-Ag₂Se | 0 | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 1; `ORC-BC2LZ73AND.e8e3fd` |  |
 | -5.869 kJ/mol-atom | α-Ag2Se |  | DFT | DFT | [Ag–Se](https://data.orchid-project.org/systems/AG-SE.html) | [1] Li 2018 | Table 4, p. 6, row 2; `ORC-UZUVCSCTEU.6ee1ba` |  |
@@ -61,16 +61,16 @@ Table: Uncertainty budget of the literature values of Ag2Se
 | -11.6833 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -11.68 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -11.6733 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -11.67 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -11.6667 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -9.936 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
-| -9.936 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
-| -5.869 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
-| -5.869 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
-| -4.127 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
-| -4.127 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
-| -3.196 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
-| -3.196 | kJ/mol-atom |  | 5.000e-4 | 10.01 (dft, calibrated) |  |  |  | 10.01 |
+| -11.67 | kJ/mol-atom |  | 0.001667 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -9.936 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -9.936 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -5.869 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -5.869 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -4.127 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -4.127 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -3.196 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
+| -3.196 | kJ/mol-atom |  | 5.000e-4 | 10.05 (dft, calibrated) |  |  |  | 10.05 |
 
 ## DFT formation energies
 
@@ -91,9 +91,9 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -102,7 +102,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -113,7 +113,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_dft_benchmark_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -124,7 +124,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

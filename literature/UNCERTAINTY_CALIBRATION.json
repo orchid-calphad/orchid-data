@@ -25,237 +25,237 @@
   "file": "espei/dft/CALIBRATION.json",
   "literature": {
    "all": {
-    "bias_mean": 3.992,
-    "bias_median": 1.131,
+    "bias_mean": 3.36,
+    "bias_median": 1.116,
     "ci95": {
      "bias_median": [
-      0.549,
-      1.92
+      0.515,
+      1.86
      ],
      "q68_abs": [
-      7.425,
-      10.193
+      7.0,
+      9.634
      ],
      "q95_abs": [
-      26.868,
-      37.172
+      25.448,
+      33.46
      ],
      "rmse": [
-      13.495,
-      19.314
+      12.201,
+      17.723
      ],
      "sigma_robust": [
-      6.195,
-      8.328
+      6.255,
+      8.2
      ]
     },
     "ci95_cluster_system": {
      "bias_median": [
-      -0.072,
-      3.2
+      -0.092,
+      3.202
      ],
      "q68_abs": [
-      6.175,
-      11.742
+      6.1,
+      11.65
      ],
      "q95_abs": [
-      24.412,
-      43.293
+      23.666,
+      37.119
      ],
      "rmse": [
-      11.241,
-      20.769
+      10.496,
+      19.88
      ],
      "sigma_robust": [
-      5.435,
-      9.474
+      5.545,
+      9.145
      ]
     },
-    "n": 477,
+    "n": 459,
     "n_systems": 82,
-    "n_with_printed_exp_sigma": 291,
-    "q68_abs": 8.697,
-    "q95_abs": 31.297,
-    "rmse": 16.312,
-    "rmse_over_sigma_robust": 2.28,
-    "sigma_deconvolved": 6.81,
+    "n_with_printed_exp_sigma": 276,
+    "q68_abs": 8.348,
+    "q95_abs": 29.711,
+    "rmse": 14.818,
+    "rmse_over_sigma_robust": 2.08,
+    "sigma_deconvolved": 6.787,
     "sigma_exp_median": 2.218,
-    "sigma_robust": 7.162
+    "sigma_robust": 7.14
    },
    "strata": {
     "magnetic_3d": {
-     "bias_mean": 5.655,
-     "bias_median": 0.636,
+     "bias_mean": 3.008,
+     "bias_median": 0.6,
      "ci95": {
       "bias_median": [
-       0.084,
-       1.63
+       -0.158,
+       1.37
       ],
       "q68_abs": [
-       3.674,
-       4.763
+       3.4,
+       4.694
       ],
       "q95_abs": [
-       12.648,
-       102.255
+       6.743,
+       60.417
       ],
       "rmse": [
-       13.53,
-       31.634
+       6.527,
+       26.472
       ],
       "sigma_robust": [
-       3.15,
-       5.166
+       2.944,
+       4.979
       ]
      },
      "ci95_cluster_system": {
       "bias_median": [
-       -1.4,
+       -1.734,
        2.206
       ],
       "q68_abs": [
        2.717,
-       5.448
+       4.86
       ],
       "q95_abs": [
-       5.339,
+       5.549,
        102.255
       ],
       "rmse": [
-       3.066,
-       34.727
+       3.122,
+       33.268
       ],
       "sigma_robust": [
-       2.097,
-       5.782
+       2.098,
+       5.242
       ]
      },
-     "n": 112,
+     "n": 105,
      "n_systems": 14,
-     "n_with_printed_exp_sigma": 93,
-     "q68_abs": 4.304,
-     "q95_abs": 50.653,
-     "rmse": 23.181,
-     "rmse_over_sigma_robust": 5.56,
-     "sigma_deconvolved": 3.958,
+     "n_with_printed_exp_sigma": 86,
+     "q68_abs": 4.089,
+     "q95_abs": 15.96,
+     "rmse": 18.05,
+     "rmse_over_sigma_robust": 4.51,
+     "sigma_deconvolved": 3.786,
      "sigma_exp_median": 1.3,
-     "sigma_robust": 4.166
+     "sigma_robust": 4.003
     },
     "metal": {
-     "bias_mean": 4.394,
-     "bias_median": 1.63,
+     "bias_mean": 4.483,
+     "bias_median": 1.86,
      "ci95": {
       "bias_median": [
-       0.4,
-       3.864
+       0.466,
+       4.015
       ],
       "q68_abs": [
-       7.722,
-       11.147
+       7.55,
+       11.74
       ],
       "q95_abs": [
-       22.753,
-       30.94
+       22.788,
+       31.5
       ],
       "rmse": [
-       10.832,
-       13.907
+       10.753,
+       14.002
       ],
       "sigma_robust": [
-       6.671,
-       9.913
+       6.532,
+       9.785
       ]
      },
      "ci95_cluster_system": {
       "bias_median": [
-       -0.354,
-       5.528
+       -0.245,
+       5.55
       ],
       "q68_abs": [
-       6.277,
-       13.56
+       6.233,
+       13.831
       ],
       "q95_abs": [
-       21.443,
+       21.481,
        33.46
       ],
       "rmse": [
-       9.738,
-       14.901
+       9.824,
+       15.013
       ],
       "sigma_robust": [
-       5.74,
-       11.489
+       5.856,
+       11.387
       ]
      },
-     "n": 239,
+     "n": 231,
      "n_systems": 42,
-     "n_with_printed_exp_sigma": 142,
-     "q68_abs": 9.573,
-     "q95_abs": 25.709,
-     "rmse": 12.344,
-     "rmse_over_sigma_robust": 1.55,
-     "sigma_deconvolved": 7.623,
+     "n_with_printed_exp_sigma": 136,
+     "q68_abs": 9.054,
+     "q95_abs": 25.883,
+     "rmse": 12.411,
+     "rmse_over_sigma_robust": 1.51,
+     "sigma_deconvolved": 7.916,
      "sigma_exp_median": 2.3,
-     "sigma_robust": 7.962
+     "sigma_robust": 8.243
     },
     "pblock_anion": {
-     "bias_mean": 1.753,
-     "bias_median": 1.212,
+     "bias_mean": 1.551,
+     "bias_median": 1.08,
      "ci95": {
       "bias_median": [
-       -0.45,
+       -0.5,
        3.687
       ],
       "q68_abs": [
-       9.496,
-       14.65
+       9.488,
+       17.11
       ],
       "q95_abs": [
-       27.579,
-       46.139
+       27.776,
+       47.751
       ],
       "rmse": [
-       12.722,
-       18.004
+       13.06,
+       18.511
       ],
       "sigma_robust": [
-       7.132,
-       12.643
+       7.205,
+       13.326
       ]
      },
      "ci95_cluster_system": {
       "bias_median": [
-       -1.634,
+       -1.667,
        8.3
       ],
       "q68_abs": [
-       7.787,
-       17.854
+       7.754,
+       18.1
       ],
       "q95_abs": [
-       22.2,
+       23.906,
        48.826
       ],
       "rmse": [
-       10.426,
-       19.822
+       10.954,
+       20.121
       ],
       "sigma_robust": [
-       5.952,
-       15.11
+       6.123,
+       15.309
       ]
      },
-     "n": 126,
+     "n": 123,
      "n_systems": 26,
-     "n_with_printed_exp_sigma": 56,
-     "q68_abs": 11.75,
-     "q95_abs": 32.254,
-     "rmse": 15.515,
-     "rmse_over_sigma_robust": 1.55,
-     "sigma_deconvolved": 9.335,
+     "n_with_printed_exp_sigma": 54,
+     "q68_abs": 12.458,
+     "q95_abs": 32.357,
+     "rmse": 15.873,
+     "rmse_over_sigma_robust": 1.58,
+     "sigma_deconvolved": 9.379,
      "sigma_exp_median": 3.6,
-     "sigma_robust": 10.005
+     "sigma_robust": 10.046
     }
    }
   },
@@ -361,20 +361,20 @@
   "GM_FORM": {
    "basis": "calibrated",
    "ci95": [
-    0.563388,
-    0.874734
+    0.59304,
+    0.88956
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
    "floor": 0.7,
-   "n_pairs": 203,
-   "n_states": 149,
-   "sigma_robust": 0.637518
+   "n_pairs": 211,
+   "n_states": 153,
+   "sigma_robust": 0.681996
   },
   "G_MIX_PARTIAL": {
    "basis": "prior",
    "floor": 1.0,
-   "n_pairs": 115,
-   "n_states": 87,
+   "n_pairs": 94,
+   "n_states": 70,
    "prior_source": "orchid_assumed",
    "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
   },
@@ -389,14 +389,14 @@
   "HM_FORM": {
    "basis": "calibrated",
    "ci95": [
-    2.9652,
-    4.160176
+    3.157938,
+    4.581234
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
-   "floor": 3.4,
-   "n_pairs": 2075,
-   "n_states": 371,
-   "sigma_robust": 3.395154
+   "floor": 3.9,
+   "n_pairs": 2030,
+   "n_states": 359,
+   "sigma_robust": 3.85476
   },
   "H_MIX_PARTIAL": {
    "basis": "prior",
@@ -429,13 +429,13 @@
   "SM_FORM": {
    "basis": "calibrated",
    "ci95": [
-    1.601208,
-    4.21948
+    1.937758,
+    4.143867
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
    "floor": 3.3,
-   "n_pairs": 114,
-   "n_states": 38,
+   "n_pairs": 118,
+   "n_states": 42,
    "sigma_robust": 3.232068
   },
   "S_ABS": {
@@ -466,12 +466,12 @@
    "basis": "calibrated",
    "ci95": [
     3.11346,
-    4.410735
+    4.29954
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
    "floor": 4.0,
-   "n_pairs": 14170,
-   "n_states": 5382,
+   "n_pairs": 14146,
+   "n_states": 5377,
    "sigma_robust": 3.7065
   },
   "T_TRANSITION": {
@@ -498,7 +498,7 @@
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
    "floor": 0.005,
-   "n_pairs": 16735,
+   "n_pairs": 16730,
    "n_states": 8821,
    "sigma_robust": 0.004448
   }
@@ -766,7 +766,7 @@
     "n_pairs": 45,
     "sigma_robust": 0.538156
    },
-   "relisted_values_counted_once": 2,
+   "relisted_values_counted_once": 1,
    "rounding_step": 0.1,
    "states_with_two_or_more_sources": 21
   },
@@ -799,46 +799,34 @@
      "text": "experimental, method not named ('Exp.', 'measured')",
      "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     },
-    "kems_vapour": {
-     "basis": "prior",
-     "class": "kems_vapour",
-     "floor": 1.0,
-     "floor_at_minimum": false,
-     "n_pairs": 3,
-     "n_states": 3,
-     "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 10.968954,
-     "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
-     "why_prior": "3 pairs from 3 states (calibration needs >= 20 pairs and >= 10 states)"
-    },
     "unknown": {
      "basis": "cleaned_below_threshold",
      "ci95": [
       1.086097,
-      1.709869
+      1.697289
      ],
      "class": "unknown",
      "floor": 1.4,
      "floor_at_minimum": false,
-     "n_pairs": 14,
-     "n_states": 14,
+     "n_pairs": 13,
+     "n_states": 13,
      "prior": 1.0,
      "prior_source": "kubaschewski",
-     "sigma_robust": 1.333509,
+     "sigma_robust": 1.318832,
      "text": "method not printed",
-     "why": "14 pairs from 14 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
+     "why": "13 pairs from 13 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     }
    },
    "label": "mixing / partial Gibbs energy, chemical potential",
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.5,
    "pooled_all_classes": {
-    "n_pairs": 17,
-    "sigma_robust": 1.362863
+    "n_pairs": 13,
+    "sigma_robust": 1.318832
    },
    "relisted_values_counted_once": 0,
    "rounding_step": 0.1,
-   "states_with_two_or_more_sources": 17
+   "states_with_two_or_more_sources": 13
   },
   "HEAT_CONTENT": {
    "basis_error_pairs_excluded": 0,
@@ -949,20 +937,21 @@
      "why": "17 pairs from 8 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     },
     "experimental_unspecified": {
-     "basis": "calibrated",
+     "basis": "cleaned_below_threshold",
      "ci95": [
-      2.133406,
-      6.594162
+      1.991877,
+      9.330373
      ],
      "class": "experimental_unspecified",
-     "floor": 3.8,
+     "floor": 4.1,
      "floor_at_minimum": false,
-     "median_abs_diff": 3.38,
-     "n_pairs": 30,
-     "n_states": 10,
-     "sigma_robust": 3.76989,
-     "sigma_robust_unweighted": 3.543445,
-     "text": "experimental, method not named ('Exp.', 'measured')"
+     "n_pairs": 29,
+     "n_states": 9,
+     "prior": 2.0,
+     "prior_source": "kubaschewski",
+     "sigma_robust": 4.025689,
+     "text": "experimental, method not named ('Exp.', 'measured')",
+     "why": "29 pairs from 9 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     },
     "kems_vapour": {
      "basis": "calibrated",
@@ -1029,11 +1018,11 @@
      "class": "unknown",
      "floor": 3.5,
      "floor_at_minimum": false,
-     "median_abs_diff": 3.347,
-     "n_pairs": 297,
+     "median_abs_diff": 3.45,
+     "n_pairs": 290,
      "n_states": 98,
      "sigma_robust": 3.459576,
-     "sigma_robust_unweighted": 3.508849,
+     "sigma_robust_unweighted": 3.61683,
      "text": "method not printed"
     }
    },
@@ -1041,12 +1030,12 @@
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.5,
    "pooled_all_classes": {
-    "n_pairs": 779,
-    "sigma_robust": 3.511994
+    "n_pairs": 771,
+    "sigma_robust": 3.564412
    },
    "relisted_values_counted_once": 52,
    "rounding_step": 0.1,
-   "states_with_two_or_more_sources": 207
+   "states_with_two_or_more_sources": 206
   },
   "H_MIX_PARTIAL": {
    "basis_error_pairs_excluded": 0,
@@ -1167,17 +1156,17 @@
     "unknown": {
      "basis": "calibrated",
      "ci95": [
-      0.002011,
+      0.002026,
       0.002664
      ],
      "class": "unknown",
      "floor": 0.0023,
      "floor_at_minimum": false,
-     "median_abs_diff": 0.002194,
-     "n_pairs": 601,
+     "median_abs_diff": 0.002192,
+     "n_pairs": 597,
      "n_states": 196,
      "sigma_robust": 0.002277,
-     "sigma_robust_unweighted": 0.0023,
+     "sigma_robust_unweighted": 0.002298,
      "text": "method not printed"
     },
     "xrd": {
@@ -1201,8 +1190,8 @@
    "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
    "minimum_floor": 0.0002,
    "pooled_all_classes": {
-    "n_pairs": 673,
-    "sigma_robust": 0.00221
+    "n_pairs": 669,
+    "sigma_robust": 0.002209
    },
    "relisted_values_counted_once": 59,
    "rounding_step": 0.0001,
@@ -1374,13 +1363,13 @@
       1.174159
      ],
      "class": "unknown",
-     "floor": 0.6,
+     "floor": 0.7,
      "floor_at_minimum": false,
-     "median_abs_diff": 0.53003,
-     "n_pairs": 90,
+     "median_abs_diff": 0.596667,
+     "n_pairs": 77,
      "n_states": 20,
-     "sigma_robust": 0.594069,
-     "sigma_robust_unweighted": 0.55566,
+     "sigma_robust": 0.657057,
+     "sigma_robust_unweighted": 0.625519,
      "text": "method not printed"
     }
    },
@@ -1388,8 +1377,8 @@
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.2,
    "pooled_all_classes": {
-    "n_pairs": 190,
-    "sigma_robust": 1.003677
+    "n_pairs": 177,
+    "sigma_robust": 1.153192
    },
    "relisted_values_counted_once": 5,
    "rounding_step": 0.1,
@@ -1533,15 +1522,15 @@
     "unknown": {
      "basis": "calibrated",
      "ci95": [
-      9.330373,
+      9.435209,
       10.483565
      ],
      "class": "unknown",
      "floor": 11.0,
      "floor_at_minimum": false,
      "median_abs_diff": 10.0,
-     "n_pairs": 4918,
-     "n_states": 1684,
+     "n_pairs": 4912,
+     "n_states": 1680,
      "sigma_robust": 10.483565,
      "sigma_robust_unweighted": 10.483565,
      "text": "method not printed"
@@ -1551,12 +1540,12 @@
    "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
    "minimum_floor": 1.0,
    "pooled_all_classes": {
-    "n_pairs": 4923,
+    "n_pairs": 4917,
     "sigma_robust": 10.483565
    },
-   "relisted_values_counted_once": 875,
+   "relisted_values_counted_once": 874,
    "rounding_step": 1.0,
-   "states_with_two_or_more_sources": 1687
+   "states_with_two_or_more_sources": 1683
   },
   "T_TRANSITION": {
    "basis_error_pairs_excluded": 0,

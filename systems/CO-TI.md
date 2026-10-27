@@ -1,10 +1,10 @@
 # Co–Ti system
 
-> Co–Ti system: 246 accepted literature values (invariant reaction 121, phase transition 62, phase equilibrium 29, formation 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ti system: 228 accepted literature values (invariant reaction 121, phase transition 44, phase equilibrium 29, formation 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-TI.html · Markdown: https://data.orchid-project.org/systems/CO-TI.md
 
-246 accepted literature values from 5 paper(s) (experimental 130, model 96, unspecified 20); 6 calculated phase diagram(s). 29 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+228 accepted literature values from 5 paper(s) (experimental 112, model 96, unspecified 20); 6 calculated phase diagram(s). 47 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-TI.json) · [CSV](https://data.orchid-project.org/systems/CO-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-TI/CoTi-00Cac.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CO-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-TI.html) · [Markdown](https://data.orchid-project.org/systems/CO-TI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 130 |
+| experimental | 112 |
 | model | 96 |
 | unspecified | 20 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 121 |
-| phase transition | 62 |
+| phase transition | 44 |
 | phase equilibrium | 29 |
 | formation | 24 |
 | mixing / partial | 2 |
@@ -295,7 +295,7 @@ Table: Enthalpies of formation, Co–Ti system (19)
 
 ## Other properties
 
-### Phase transition (62)
+### Phase transition (44)
 
 Table: Phase transition, Co–Ti system
 
@@ -331,34 +331,16 @@ Table: Phase transition, Co–Ti system
 | Phase transition | 1454 K | 1454 | Liquid = L12; _L: Ti 0.203; L12: Ti 0.203_ | model | [4] Davydov 2001 | Table VI, p. 11, row 18; `ORC-G4K7BOB7QA` |  |
 | Phase transition | 1524 K | 1524 | liquid ? CoTi ? b-Co2Ti | experimental | [2] Yang 2022 | p. 2; `ORC-ULBUF5DOY2` | “The temperatures of four invariant reactions of liquid ? a-Co ? Co3Ti, liquid ? c-Co2Ti ? Co3Ti, liquid ? b-Co2Ti ? c-Co2Ti and liquid ? CoTi ? b-Co2Ti were confirmed to be 1428 ± 2, 1431 ± 2, 1496 ± 3 and 1524 ± 2 K.” |
 | Phase transition | 1598 K | 1598 | Liquid = B2; _L: Ti 0.5; B2: Ti 0.5_ | model | [4] Davydov 2001; _cites Murray 1987_ [doi](https://doi.org/10.1007/bf02873414) | Table VI, p. 11, row 10; `ORC-23FO37O5MF` |  |
-| Phase transition | 1731 K | 1731 | other: I DTA Cooling Tpeak; _alloy: Co 0.519, Ti 0.481_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 4; `ORC-RLDA6GSU4C` |  |
 | Phase transition | 1732 K | 1732 | other: I Summary TS; _alloy: Co 0.519, Ti 0.481_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 7; `ORC-ZMXCARRAF3` |  |
-| Phase transition | 1733 K | 1733 | other: I DTA Heating Tonset; _alloy: Co 0.519, Ti 0.481_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 1; `ORC-DJDWNWETAL` |  |
-| Phase transition | 1733 K | 1733 | other: I VOM Tfirst melt; _alloy: Co 0.519, Ti 0.481_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 8; `ORC-NELZ4W2GRQ` |  |
-| Phase transition | 1733 K | 1733 | other: II VOM Tfirst melt; _alloy: Co 0.506, Ti 0.494_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 17; `ORC-V2HW6VLBDI` |  |
-| Phase transition | 1733 K | 1733 | other: III VOM Tfirst melt; _alloy: Co 0.496, Ti 0.504_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 26; `ORC-KPJKBETXT3` |  |
-| Phase transition | 1739 K | 1739 | other: II DTA Cooling Tpeak; _alloy: Co 0.506, Ti 0.494_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 13; `ORC-RB4GYP7BXF` |  |
-| Phase transition | 1739 K | 1739 | other: II DTA Heating Tonset; _alloy: Co 0.506, Ti 0.494_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 10; `ORC-PCJVXDKJDI` |  |
 | Phase transition | 1739 K | 1739 | other: II Summary TS; _alloy: Co 0.506, Ti 0.494_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 16; `ORC-COQPAIWUGC` |  |
-| Phase transition | 1739 K | 1739 | other: III DTA Cooling Tpeak; _alloy: Co 0.496, Ti 0.504_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 22; `ORC-G3H3A6NFU7` |  |
 | Phase transition | 1740 K | 1740 | other: III Summary TS; _alloy: Co 0.496, Ti 0.504_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 25; `ORC-J5QOXPCNKM` |  |
-| Phase transition | 1741 K | 1741 | other: III DTA Heating Tonset; _alloy: Co 0.496, Ti 0.504_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 19; `ORC-TKKR2YGXOY` |  |
-| Phase transition | 1753 K | 1753 | other: I VOM Tcollapse; _alloy: Co 0.519, Ti 0.481_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 9; `ORC-W6OUP2KPBV` |  |
-| Phase transition | 1753 K | 1753 | other: II VOM Tcollapse; _alloy: Co 0.506, Ti 0.494_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 18; `ORC-7PUALCSDQU` |  |
-| Phase transition | 1753 K | 1753 | other: III VOM Tcollapse; _alloy: Co 0.496, Ti 0.504_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 27; `ORC-UXA2LDHHZD` |  |
-| Phase transition | 1758 K | 1758 | other: I DTA Cooling Tonset; _alloy: Co 0.519, Ti 0.481_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 3; `ORC-R5E6VL4TXF` |  |
-| Phase transition | 1761 K | 1761 | other: II DTA Cooling Tonset; _alloy: Co 0.506, Ti 0.494_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 12; `ORC-4HCSCI6UGC` |  |
-| Phase transition | 1763 K | 1763 | other: III DTA Cooling Tonset; _alloy: Co 0.496, Ti 0.504_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 21; `ORC-IUDK5SFHYL` |  |
 | Phase transition | 1768 K | 1768 | L ⇄ CoTi; _L: Ti 0.497; CoTi: Ti 0.497_ | model | [3] Turchanin 2024; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | Table 3, p. 9, row 48; `ORC-GMVO2MOUE3` |  |
 | Phase transition | 1773 K | 1773 | L ⇄ CoTi; _L: Ti 0.498; CoTi: Ti 0.498_ | model | [3] Turchanin 2024; _cites Davydov 2001_ [doi](https://doi.org/10.1007/s11661-001-0193-8) | Table 3, p. 9, row 47; `ORC-L5G2A7JYTS` |  |
 | Phase transition | 1773 K | 1773 | Liquid = B2; _L: Ti 0.498; B2: Ti 0.498_ | model | [4] Davydov 2001 | Table VI, p. 11, row 8; `ORC-JQXFD7BGAO` |  |
 | Phase transition | 1773 K | 1773 | other | model | [3] Turchanin 2024 | p. 8; `ORC-EZBJ6CYSPX` | “According to the results of our calculations, the melting temperature of the CoTi phase is 1773 K, which is very consistent with the data\[6,18\] given the significant scatter of experimental points for the liquidus of this phase.” |
 | Phase transition | 1774 K | 1774 | Liquid = B2; _L: Ti 0.502; B2: Ti 0.502_ | model | [4] Davydov 2001 | Table VI, p. 11, row 9; `ORC-G4YGCXYYAU` |  |
-| Phase transition | 1774 K | 1774 | other: I DTA Heating Tpeak; _alloy: Co 0.519, Ti 0.481_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 2; `ORC-S4G2TWKPQB` |  |
-| Phase transition | 1775 K | 1775 | other: II DTA Heating Tpeak; _alloy: Co 0.506, Ti 0.494_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 11; `ORC-VVNGBHOZEC` |  |
 | Phase transition | 1776 K | 1776 | L ⇄ CoTi; _L: Ti 0.504; CoTi: Ti 0.504_ | experimental | [3] Turchanin 2024; _cites Davydov 2001_ [doi](https://doi.org/10.1007/s11661-001-0193-8) | Table 3, p. 9, row 45; `ORC-RY5H7KYYFX` |  |
 | Phase transition | 1776 K | 1776 | congruent melting | experimental | [2] Yang 2022; _cites Davydov 2001_ [doi](https://doi.org/10.1007/s11661-001-0193-8) | p. 2; `ORC-YYMODAENBT` | “After that, Davydov et al. \[23\] measured the congruent melting temperature of CoTi as 1776 K with an accuracy of ± 5 K by combination of visual observation of melting (VOM) and differential thermal analysis (DTA).” |
-| Phase transition | 1776 K | 1776 | other: III DTA Heating Tpeak; _alloy: Co 0.496, Ti 0.504_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 20; `ORC-N56BQJDCYT` |  |
 | Phase transition | 1778 K | 1778 | L ⇄ CoTi; _L: Ti 0.5; CoTi: Ti 0.5_ | experimental | [3] Turchanin 2024; _cites Stein 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101681) | Table 3, p. 9, row 46; `ORC-R5HNWXTZNB` |  |
 | Phase transition | 1778 K | 1778 | congruent melting | experimental | [2] Yang 2022 | p. 2; `ORC-UKBXMTSCAK` | “The congruent melting temperature of CoTi was determined as 1778 ± 5 K, which was consistent with the previous value \[23\].” |
 | Phase transition | 1778 K | 1778 | congruent transformation | experimental | [3] Turchanin 2024 | p. 2; `ORC-W6JELWO32C` | “The congruent melting temperature of the CoTi was determined as 1778 ± 5 K, which is in very good agreement with the value presented by Davydov et al.\[18\]” |
@@ -448,10 +430,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -460,7 +442,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -471,7 +453,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -481,7 +463,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -491,7 +473,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

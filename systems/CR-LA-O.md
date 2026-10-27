@@ -1,10 +1,10 @@
 # Cr–La–O system
 
-> Cr–La–O system: 53 accepted literature values (phase transition 26, heat capacity / entropy / enthalpy 11, formation 9, activity / EMF / Gibbs energy 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–La–O system: 46 accepted literature values (phase transition 19, heat capacity / entropy / enthalpy 11, formation 9, activity / EMF / Gibbs energy 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-LA-O.html · Markdown: https://data.orchid-project.org/systems/CR-LA-O.md
 
-53 accepted literature values from 1 paper(s) (experimental 34, model 19); 0 calculated phase diagram(s).
+46 accepted literature values from 1 paper(s) (experimental 27, model 19); 0 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-LA-O.json) · [CSV](https://data.orchid-project.org/systems/CR-LA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-LA-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-LA-O.html) · [Markdown](https://data.orchid-project.org/systems/CR-LA-O.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 34 |
+| experimental | 27 |
 | model | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 26 |
+| phase transition | 19 |
 | formation | 9 |
 | heat capacity / entropy / enthalpy | 11 |
 | activity / EMF / Gibbs energy | 7 |
@@ -39,35 +39,28 @@ Table: Enthalpies of formation, Cr–La–O system (4)
 
 ## Other properties
 
-### Phase transition (26)
+### Phase transition (19)
 
 Table: Phase transition, Cr–La–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 509 K | 509 | Enthalpy change of transition, J mol-1 | experimental | [1] Povoden 2009; _cites Hashimoto 1998_ [doi](https://doi.org/10.1016/s0038-1098%2898%2900446-3) | Table 2, p. 3, row 26; `ORC-OSFCJPQI6V` |  |
 | Phase transition | 509 K | 509 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Hashimoto 1998_ [doi](https://doi.org/10.1016/s0038-1098%2898%2900446-3) | Table 2, p. 3, row 19; `ORC-JLN3YSSBCW` |  |
 | Phase transition | 523 K | 523 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Hashimoto 2000_ [doi](https://doi.org/10.1016/s0167-2738%2800%2900657-3) | Table 2, p. 3, row 16; `ORC-3MRKW4T7AE` |  |
 | Phase transition | 530.5 K | 530.5 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Geller 1970_ [doi](https://doi.org/10.1103/physrevb.2.1167) | Table 2, p. 3, row 7; `ORC-MZJ4WRU2L2` |  |
-| Phase transition | 533 K | 533 | Enthalpy change of transition, J mol-1 | experimental | [1] Povoden 2009; _cites Tolochko 1985_ | Table 2, p. 3, row 24; `ORC-NRBKOBGGJD` |  |
 | Phase transition | 533 K | 533 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Sakai 2000_ | Table 2, p. 3, row 18; `ORC-CLIN4SWGAJ` |  |
 | Phase transition | 533 K | 533 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Tolochko 1985_ | Table 2, p. 3, row 12; `ORC-GWVDTUPAU6` |  |
 | Phase transition | 533 K | 533 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Geller 1970_ [doi](https://doi.org/10.1103/physrevb.2.1167) | Table 2, p. 3, row 8; `ORC-IOE5CZLABT` |  |
 | Phase transition | 533 K | 533 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Coutures 1980_ | Table 2, p. 3, row 10; `ORC-T43TD77ZQO` |  |
 | Phase transition | 535 K | 535 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Momin 1991_ [doi](https://doi.org/10.1007/bf00720935) | Table 2, p. 3, row 14; `ORC-FNKJDPJI6I` |  |
-| Phase transition | 536 K | 536 | Enthalpy change of transition, J mol-1 | experimental | [1] Povoden 2009; _cites Sakai 1995_ [doi](https://doi.org/10.1006/jcht.1995.0051) | Table 2, p. 3, row 23; `ORC-FDJ2ETOJVF` |  |
 | Phase transition | 536 K | 536 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Sakai 1995_ [doi](https://doi.org/10.1006/jcht.1995.0051) | Table 2, p. 3, row 4; `ORC-DXWSAOUG2R` |  |
 | Phase transition | 540 K | 540 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Tolochko 1985_ | Table 2, p. 3, row 11; `ORC-2ABMZYNDVJ` |  |
 | Phase transition | 540 K | 540 | polymorphic: Transition temperature, K | model | [1] Povoden 2009 | Table 2, p. 3, row 1; `ORC-L2WHBPF7EY` |  |
 | Phase transition | 541 K | 541 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Hashimoto 2000_ [doi](https://doi.org/10.1016/s0167-2738%2800%2900657-3) | Table 2, p. 3, row 17; `ORC-5CN2NUQOZC` |  |
-| Phase transition | 543 K | 543 | Enthalpy change of transition, J mol-1 | experimental | [1] Povoden 2009; _cites Korobeinikova 1976_ | Table 2, p. 3, row 21; `ORC-AV5NOJP6R2` |  |
-| Phase transition | 543 K | 543 | Enthalpy change of transition, J mol-1 K-1 | experimental | [1] Povoden 2009; _cites Korobeinikova 1976_ | Table 2, p. 3, row 28; `ORC-JZF4EZ64MA` |  |
 | Phase transition | 543 K | 543 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Korobeinikova 1976_ | Table 2, p. 3, row 2; `ORC-5O2T6Y7LEE` |  |
 | Phase transition | 543 K | 543 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Terao 1973_ | Table 2, p. 3, row 9; `ORC-NVLPR356SE` |  |
-| Phase transition | 544 K | 544 | Enthalpy change of transition, J mol-1 | experimental | [1] Povoden 2009; _cites Hofer 1993_ [doi](https://doi.org/10.1149/1.2220928) | Table 2, p. 3, row 22; `ORC-TTZHMCV6BL` |  |
 | Phase transition | 544 K | 544 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Hofer 1993_ [doi](https://doi.org/10.1149/1.2220928) | Table 2, p. 3, row 3; `ORC-MBD5MSXRBY` |  |
 | Phase transition | 545 K | 545 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Momin 1991_ [doi](https://doi.org/10.1007/bf00720935) | Table 2, p. 3, row 13; `ORC-4AZ5XFZHCV` |  |
-| Phase transition | 550 K | 550 | Enthalpy change of transition, J mol-1 | experimental | [1] Povoden 2009; _cites Momin 1991_ [doi](https://doi.org/10.1007/bf00720935) | Table 2, p. 3, row 25; `ORC-57KBF7KHZN` |  |
 | Phase transition | 550 K | 550 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Ruiz 1967_ | Table 2, p. 3, row 6; `ORC-FJJRY6RL6Q` |  |
 | Phase transition | 550 K | 550 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Momin 1991_ [doi](https://doi.org/10.1007/bf00720935) | Table 2, p. 3, row 15; `ORC-JEQMZBCQ4T` |  |
 | Phase transition | 563 K | 563 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Pavlikov 1966_ | Table 2, p. 3, row 5; `ORC-4WZI2K25E2` |  |
@@ -124,8 +117,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -134,7 +127,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -145,7 +138,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

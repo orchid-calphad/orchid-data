@@ -1,10 +1,10 @@
 # In–Mn system
 
-> In–Mn system: 60 accepted literature values (phase transition 28, invariant reaction 17, phase equilibrium 14, formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Mn system: 32 accepted literature values (invariant reaction 17, phase equilibrium 14, formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-MN.html · Markdown: https://data.orchid-project.org/systems/IN-MN.md
 
-60 accepted literature values from 1 paper(s) (experimental 54, model 6); 1 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+32 accepted literature values from 1 paper(s) (experimental 26, model 6); 1 calculated phase diagram(s). 44 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-MN.json) · [CSV](https://data.orchid-project.org/systems/IN-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-MN/InMn-15Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/IN-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-MN.html) · [Markdown](https://data.orchid-project.org/systems/IN-MN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 54 |
+| experimental | 26 |
 | model | 6 |
 
 Table: Accepted values by property group
@@ -20,7 +20,6 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 17 |
-| phase transition | 28 |
 | phase equilibrium | 14 |
 | formation | 1 |
 
@@ -85,41 +84,6 @@ Table: Enthalpies of formation, In–Mn system (1)
 
 ## Other properties
 
-### Phase transition (28)
-
-Table: Phase transition, In–Mn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 428.1 K | 428.1 | Mn7In93; _alloy: In 0.93, Mn 0.07_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 1; `ORC-H5VSOZHHFC` |  |
-| Phase transition | 428.5 K | 428.5 | Mn50In50; _alloy: In 0.5, Mn 0.5_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 11; `ORC-EOD63JAWY2` |  |
-| Phase transition | 428.6 K | 428.6 | Mn35In65; _alloy: In 0.65, Mn 0.35_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 7; `ORC-KGUZUEXLGT` |  |
-| Phase transition | 428.7 K | 428.7 | Mn55In45; _alloy: In 0.45, Mn 0.55_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 13; `ORC-4CVR7UAEE7` |  |
-| Phase transition | 428.8 K | 428.8 | Mn70In30; _alloy: In 0.3, Mn 0.7_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 22; `ORC-PDTR7KQEIQ` |  |
-| Phase transition | 428.9 K | 428.9 | Mn60In40; _alloy: In 0.4, Mn 0.6_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 16; `ORC-L76L6CWPBY` |  |
-| Phase transition | 428.9 K | 428.9 | Mn73In27; _alloy: In 0.27, Mn 0.73_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 25; `ORC-7B5NU5QE3K` |  |
-| Phase transition | 429.2 K | 429.2 | Mn45In55; _alloy: In 0.55, Mn 0.45_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 9; `ORC-DR4BKB5TS6` |  |
-| Phase transition | 429.3 K | 429.3 | Mn15In85; _alloy: In 0.85, Mn 0.15_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 3; `ORC-KC4ZCOWOVS` |  |
-| Phase transition | 429.3 K | 429.3 | Mn25In75; _alloy: In 0.75, Mn 0.25_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 5; `ORC-CNCA7WCCSK` |  |
-| Phase transition | 429.6 K | 429.6 | Mn75In25; _alloy: In 0.25, Mn 0.75_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 28; `ORC-Y72GT5C2WP` |  |
-| Phase transition | 429.7 K | 429.7 | Mn77In23; _alloy: In 0.23, Mn 0.77_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 31; `ORC-RLCXSESBSN` |  |
-| Phase transition | 429.8 K | 429.8 | Mn65In35; _alloy: In 0.35, Mn 0.65_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 19; `ORC-W5VUGND57J` |  |
-| Phase transition | 1179.7 K | 1179.7 | Mn55In45; _alloy: In 0.45, Mn 0.55_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 14; `ORC-ZVFY3ARHIB` |  |
-| Phase transition | 1180.5 K | 1180.5 | Mn60In40; _alloy: In 0.4, Mn 0.6_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 17; `ORC-X2YHMINQ2A` |  |
-| Phase transition | 1180.6 K | 1180.6 | Mn85In15 (1123 K, 360 h); _alloy: In 0.15, Mn 0.85_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 38; `ORC-U3WBBT6RLH` |  |
-| Phase transition | 1180.9 K | 1180.9 | Mn70In30; _alloy: In 0.3, Mn 0.7_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 23; `ORC-IWCBYONCZJ` |  |
-| Phase transition | 1181 K | 1181 | Mn80In20 (873 K,720 h); _alloy: In 0.2, Mn 0.8_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 35; `ORC-2VNJGITS3I` |  |
-| Phase transition | 1181.6 K | 1181.6 | Mn77In23; _alloy: In 0.23, Mn 0.77_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 32; `ORC-BBQS6LGIRF` |  |
-| Phase transition | 1182.1 K | 1182.1 | Mn75In25; _alloy: In 0.25, Mn 0.75_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 29; `ORC-5X5CGDDD4Q` |  |
-| Phase transition | 1183 K | 1183 | Mn65In35; _alloy: In 0.35, Mn 0.65_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 20; `ORC-CNNISUM476` |  |
-| Phase transition | 1183.6 K | 1183.6 | Mn73In27; _alloy: In 0.27, Mn 0.73_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 26; `ORC-JSRF7CMSA6` |  |
-| Phase transition | 1289.2 K | 1289.2 | Mn73In27; _alloy: In 0.27, Mn 0.73_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 27; `ORC-BNOYK75NKX` |  |
-| Phase transition | 1291.5 K | 1291.5 | Mn85In15 (1123 K, 360 h); _alloy: In 0.15, Mn 0.85_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 39; `ORC-VHOBJYCOAC` |  |
-| Phase transition | 1293.2 K | 1293.2 | Mn90In10 (1123 K, 360 h); _alloy: In 0.1, Mn 0.9_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 41; `ORC-LCR45MT7NZ` |  |
-| Phase transition | 1293.4 K | 1293.4 | Mn80In20 (873 K,720 h); _alloy: In 0.2, Mn 0.8_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 36; `ORC-QZWFCMTQU4` |  |
-| Phase transition | 1294.2 K | 1294.2 | Mn75In25; _alloy: In 0.25, Mn 0.75_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 30; `ORC-X3KSYBWIUZ` |  |
-| Phase transition | 1294.4 K | 1294.4 | Mn77In23; _alloy: In 0.23, Mn 0.77_ | experimental | [1] Wang 2015 | Table 1, p. 3, row 33; `ORC-UEKPLRHF6Q` |  |
-
 ### Phase equilibrium (14)
 
 Table: Phase equilibrium, In–Mn system
@@ -149,10 +113,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -161,7 +125,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -172,7 +136,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -182,7 +146,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -192,7 +156,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

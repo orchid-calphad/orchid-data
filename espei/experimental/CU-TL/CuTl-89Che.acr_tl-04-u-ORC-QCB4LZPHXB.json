@@ -1,0 +1,151 @@
+{
+ "components": [
+  "CU",
+  "TL",
+  "VA"
+ ],
+ "phases": [
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1373.0,
+  "X_TL": [
+   0.8
+  ]
+ },
+ "output": "ACR_TL",
+ "values": [
+  [
+   [
+    0.875
+   ]
+  ]
+ ],
+ "reference": "Chevalier 1989, doi:10.1016/0040-6031(89)87205-3",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid",
+  "no_printed_uncertainty"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QCB4LZPHXB",
+ "reference_state": {
+  "phases": [
+   "LIQUID"
+  ],
+  "conditions": {
+   "P": 101325,
+   "T": 1373.0,
+   "X_TL": 1.0
+  }
+ },
+ "weight": 0.172399,
+ "bibtex": "chevalier1989_b588ee",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-QCB4LZPHXB",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0040-6031(89)87205-3"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0040-6031(89)87205-3"
+  ],
+  "dois": [
+   "10.1016/0040-6031(89)87205-3"
+  ],
+  "source_dataset": "db-v2.1/general/espei/CuTl-89Che/acr_tl-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "1 (activity)",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_ACR = 500 J/mol"
+  },
+  "weight_rule": "weight = default_sigma / this observation's sigma_effective_used; unequal-uncertainty groups are split into single-observation datasets, retaining their common source provenance",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.0005,
+     "sigma_reading_mu_J_per_mol": 6.52329,
+     "sigma_method": 0.2223,
+     "sigma_method_mu_J_per_mol": 2900.254651,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 0.2223,
+     "sigma_effective_mu_J_per_mol": 2900.254651,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 9,
+     "method_entry": "value_types/ACTIVITY/classes/unknown"
+    },
+    "sigma_effective_used": 2900.254651,
+    "weight_per_value_equivalent": 0.172399,
+    "weight_used": 0.172399
+   }
+  ]
+ },
+ "orchid_reference_state": {
+  "element": "TL",
+  "phase": "LIQUID",
+  "basis": "not_printed_implied",
+  "quote": "Activity of thallium in liquid Cu-Tl alloys in the temperature range 1273-1473 K",
+  "where": "table 3 caption; reference state not printed; Tl is liquid at these temperatures",
+  "record_reference_state_agrees": true,
+  "written_before_audit": [
+   "LIQUID"
+  ]
+ },
+ "orchid_weight_floor": {
+  "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
+  "suggested_weight": 1.0,
+  "weight_before_2026_10_24": 1.0,
+  "weight_written": 0.172399,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)",
+  "comparison_scope": "superseded comparison metadata of parent_dataset"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "LIQUID"
+  ],
+  "basis": {
+   "printed_labels": 5
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_weighting": {
+  "rule": "individual_effective_uncertainty_v1",
+  "parent_dataset": "experimental/CU-TL/CuTl-89Che.acr_tl-04.json",
+  "parent_value_index": 3,
+  "parent_n_values": 5,
+  "parent_weight": 0.172409,
+  "parent_values_dropped": 0,
+  "source_dataset": "db-v2.1/general/espei/CuTl-89Che/acr_tl-04.json",
+  "measured_in": "doi:10.1016/0040-6031(89)87205-3",
+  "correlation_status": "not quantified",
+  "correlation_note": "Shared source and method/calibration provenance are retained. Splitting does not establish statistical independence. No covariance is invented; the ESPEI likelihood used here does not model cross-observation covariance."
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-QCB4LZPHXB",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

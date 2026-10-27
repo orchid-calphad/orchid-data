@@ -149,18 +149,18 @@ Table: Crystal structure, Al–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.854 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.f2cd2b` |  |
-| Lattice a | 4.401 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.2ad603` |  |
-| Lattice a | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.ff4814` |  |
-| Lattice a | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.86f1ea` |  |
-| Lattice b | 5.867 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.3fa83f` |  |
-| Lattice b | 6.255 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.aa2feb` |  |
-| Lattice b | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.9313a5` |  |
-| Lattice b | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.1927f6` |  |
-| Lattice c | 4.954 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.8ee429` |  |
-| Lattice c | 13.727 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.a626a5` |  |
-| Lattice c | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.64ddd4` |  |
-| Lattice c | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.6f6b74` |  |
+| Lattice a | 7.776 Å |  | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.86f1ea` |  |
+| Lattice a | 4.266 Å |  | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.ff4814` |  |
+| Lattice a | 4.401 Å |  | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.2ad603` |  |
+| Lattice a | 2.854 Å |  | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.f2cd2b` |  |
+| Lattice b | 7.776 Å |  | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.1927f6` |  |
+| Lattice b | 4.266 Å |  | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.9313a5` |  |
+| Lattice b | 6.255 Å |  | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.aa2feb` |  |
+| Lattice b | 5.867 Å |  | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.3fa83f` |  |
+| Lattice c | 7.776 Å |  | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6; `ORC-7DYQUXIIPT.6f6b74` |  |
+| Lattice c | 4.266 Å |  | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7; `ORC-6G2LISOKMO.64ddd4` |  |
+| Lattice c | 13.727 Å |  | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8; `ORC-VIIVCLH6Y4.a626a5` |  |
+| Lattice c | 4.954 Å |  | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1; `ORC-JFQL3FBXEF.8ee429` |  |
 
 ## Sources
 
@@ -172,10 +172,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -184,7 +184,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -195,7 +195,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -205,7 +205,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -215,7 +215,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -73,3 +73,11 @@ by-paper `split` column for ML), `papers`, `experimental_context`, `dft_parity`,
 `phase_diagram_invariants` and `hull_vertices`. `parquet/MANIFEST.json` gives row counts, schemas and content hashes.
 `DATASET_CARD.md` is the datasheet (Hugging Face dataset-card format) with loading examples for `datasets`, pandas and
 DuckDB; `hf/README.md` is the same card for a future Hugging Face mirror.
+
+## Funding
+
+This work was supported by the U.S. National Science Foundation under awards [OAC-2608825](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2608825) (CSSI Elements: PhaseForge) and [2534344](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2534344) (Autonomous Robotic Metallurgist: An NSF Materials Innovation Platform, ARM-MIP).
+
+## Software and data credits
+
+See [papers and repositories](CITATIONS.md) for pycalphad, ESPEI, PhaseForge, PhaseForge+, Materials Project, and OQMD. [Machine-readable citations](CITATIONS.json) are also provided.

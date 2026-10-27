@@ -14,7 +14,7 @@ Table: Phases of the Ni–Sm system (15)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ni-sm-bcc-a2); _phase:ni-sm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1195.01–2500 K, x(Sm) 0.99992–1 | 0 | 2 |
 | [FCC_A1](#phase-ni-sm-fcc-a1); _phase:ni-sm:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1747.12 K, x(Sm) 0–0 | 5 | 2 |
-| [HCP_A3](#phase-ni-sm-hcp-a3); _phase:ni-sm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 995.14–1195.06 K, x(Sm) 0.99988–1 | 0 | 2 |
+| [HCP_A3](#phase-ni-sm-hcp-a3); _phase:ni-sm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 995.14–1195.06 K, x(Sm) 0.99988–1 | 4 | 2 |
 | [LIQUID](#phase-ni-sm-liquid); _phase:ni-sm:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 844.79–2500 K, x(Sm) 0–1 | 62 | 2 |
 | [NI17SM2](#phase-ni-sm-ni17sm2); _phase:ni-sm:ni17sm2_ | Ni17Th2 · hP38 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1564.56 K, x(Sm) 0.10526–0.10526 | 10 | 2 |
 | [NI19SM5](#phase-ni-sm-ni19sm5); _phase:ni-sm:ni19sm5_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1555.91 K, x(Sm) 0.20833–0.20833 | 10 | 2 |
@@ -26,7 +26,7 @@ Table: Phases of the Ni–Sm system (15)
 | [NI7SM2](#phase-ni-sm-ni7sm2); _phase:ni-sm:ni7sm2_ |  | needs_review | stable in 1 of 2 calculated diagram(s): 300–1493.3 K, x(Sm) 0.22222–0.22222 | 10 | 2 |
 | [NISM_B33](#phase-ni-sm-nism-b33); _phase:ni-sm:nism-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1349.44 K, x(Sm) 0.5–0.5 | 16 | 2 |
 | [NISM3_D011](#phase-ni-sm-nism3-d011); _phase:ni-sm:nism3-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–953.73 K, x(Sm) 0.75–0.75 | 16 | 2 |
-| [RHOMB_C19](#phase-ni-sm-rhomb-c19); _phase:ni-sm:rhomb-c19_ | CdCl2 · C19 · hR3 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1191.87 K, x(Sm) 1–1 | 6 | 2 |
+| [RHOMB_C19](#phase-ni-sm-rhomb-c19); _phase:ni-sm:rhomb-c19_ | CdCl2 · C19 · hR3 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1191.87 K, x(Sm) 1–1 | 2 | 2 |
 
 ## BCC_A2 (Ni–Sm)
 
@@ -105,10 +105,11 @@ _assessment that models this phase; cited as the source of values for this phase
 - Id: `phase:ni-sm:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 995.14–1195.06 K, x(Sm) 0.99988–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sm:hcp-a3)
 
-Names (3): _corpus: _corpus:phase:ni-sm:hcp-a3  
+Names (4): _corpus: _corpus:phase:ni-sm:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2015.12.215:β-Sm  
 _tdb: _tdb:NiSm-16Rah.tdb:HCP_A3, tdb:NiSm-98Su.tdb:HCP_A3  
 
 
@@ -128,12 +129,14 @@ _tdb: _tdb:NiSm-16Rah.tdb:HCP_A3, tdb:NiSm-98Su.tdb:HCP_A3
 43: CONST HCP_A3 : NI SM% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jallcom.2015.12.215](https://doi.org/10.1016/j.jallcom.2015.12.215) Z. Rahou, K. Mahdouk, Thermodynamic reassessment of the Sm–Ni binary system, Journal of Alloys and Compounds 664, 469-475 (2016).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0925-8388(98)00560-X](https://doi.org/10.1016/S0925-8388%2898%2900560-X) X. Su, W. Zhang, Z. Du, J. Alloys Compd., 278, 182-84(1998).  
-_assessment that models this phase_
+_assessment that models this phase; cited as the source of values for this phase_
+- [doi:10.1007/s00706-012-0794-5](https://doi.org/10.1007/s00706-012-0794-5) Gabriella Borzone, Yuan Yuan, Simona Delsante, Nadia Parodi, The Sm–Ni system: new phases in the Sm-rich region, Monatsh Chem 143, 1299-1307 (2012).  
+_cited as the source of values for this phase_
 
 ## LIQUID (Ni–Sm)
 
@@ -567,11 +570,11 @@ _cited as the source of values for this phase_
 - Structure: CdCl2 · C19 · hR3 · R-3m (166); type `st:c19-cdcl2-hr3`; tier A: standard phase name; confidence high
 - Stoichiometry: Sm 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1191.87 K, x(Sm) 1–1
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sm:rhomb-c19)
 
-Names (5): _corpus: _corpus:phase:ni-sm:rhomb-c19  
-_paper: _paper:10.1016/j.jallcom.2015.12.215:β-Sm, paper:10.1016/s0925-8388(98)00560-x:α-Sm(rhom)  
+Names (4): _corpus: _corpus:phase:ni-sm:rhomb-c19  
+_paper: _paper:10.1016/s0925-8388(98)00560-x:α-Sm(rhom)  
 _tdb: _tdb:NiSm-16Rah.tdb:RHOMB_C19, tdb:NiSm-98Su.tdb:RHOMB_C19  
 
 
@@ -591,19 +594,17 @@ _tdb: _tdb:NiSm-16Rah.tdb:RHOMB_C19, tdb:NiSm-98Su.tdb:RHOMB_C19
 48: CONST RHOMB_C19 : SM : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.jallcom.2015.12.215](https://doi.org/10.1016/j.jallcom.2015.12.215) Z. Rahou, K. Mahdouk, Thermodynamic reassessment of the Sm–Ni binary system, Journal of Alloys and Compounds 664, 469-475 (2016).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0925-8388(98)00560-X](https://doi.org/10.1016/S0925-8388%2898%2900560-X) X. Su, W. Zhang, Z. Du, J. Alloys Compd., 278, 182-84(1998).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1007/s00706-012-0794-5](https://doi.org/10.1007/s00706-012-0794-5) Gabriella Borzone, Yuan Yuan, Simona Delsante, Nadia Parodi, The Sm–Ni system: new phases in the Sm-rich region, Monatsh Chem 143, 1299-1307 (2012).  
-_cited as the source of values for this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2015.12.215](https://doi.org/10.1016/j.jallcom.2015.12.215) Z. Rahou, K. Mahdouk, Thermodynamic reassessment of the Sm–Ni binary system, Journal of Alloys and Compounds 664, 469-475 (2016).  
+_assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -612,7 +613,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -623,7 +624,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

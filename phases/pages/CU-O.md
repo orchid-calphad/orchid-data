@@ -12,23 +12,23 @@ Table: Phases of the Cu–O system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cu-o-bcc-a2); _phase:cu-o:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 5 |
-| [CUPRITE_C3](#phase-cu-o-c3-cuprite); _phase:cu-o:c3-cuprite_ | Cu2O · C3 · cP6 · Pn-3m (224) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1094.79 K, x(O) 0.33333–0.33333 | 84 | 5 |
+| [BCC_A2](#phase-cu-o-bcc-a2); _phase:cu-o:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 5 |
+| [CUPRITE_C3](#phase-cu-o-c3-cuprite); _phase:cu-o:c3-cuprite_ | Cu2O · C3 · cP6 · Pn-3m (224) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1094.79 K, x(O) 0.33333–0.33333 | 84 | 5 |
 | [CU4O3](#phase-cu-o-cu4o3); _phase:cu-o:cu4o3_ | Cu4O3 · tI28 · I4_1/amd (141) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 2 calculated diagram(s) | 0 | 3 |
-| [CUO](#phase-cu-o-cuo); _phase:cu-o:cuo_ | CuO · B26 · mC8 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–416 K, x(O) 0.5–0.5 | 76 | 5 |
-| [FCC_A1](#phase-cu-o-fcc-a1); _phase:cu-o:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1357.77 K, x(O) 0–0.00019 | 0 | 5 |
-| [GAS](#phase-cu-o-gas); _phase:cu-o:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 1382.32–2500 K, x(O) 0.92505–1 | 0 | 5 |
-| [HCP_A3](#phase-cu-o-hcp-a3); _phase:cu-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 5 |
+| [CUO](#phase-cu-o-cuo); _phase:cu-o:cuo_ | CuO · B26 · mC8 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–416 K, x(O) 0.5–0.5 | 76 | 5 |
+| [FCC_A1](#phase-cu-o-fcc-a1); _phase:cu-o:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1357.77 K, x(O) 0–1 | 0 | 5 |
+| [GAS](#phase-cu-o-gas); _phase:cu-o:gas_ | gas | gas | stable in 3 of 3 calculated diagram(s): 1382.32–2500 K, x(O) 0.92505–1 | 0 | 5 |
+| [HCP_A3](#phase-cu-o-hcp-a3); _phase:cu-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 5 |
 | [ION](#phase-cu-o-ion); _phase:cu-o:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1342.77–2500 K, x(O) 0–0.39143 | 0 | 3 |
-| [LIQUID](#phase-cu-o-liquid); _phase:cu-o:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1342.77–2500 K, x(O) 0–0.33882 | 18 | 2 |
-| [O2GAS](#phase-cu-o-o2gas); _phase:cu-o:o2gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 300–416 K, x(O) 1–1 | 0 | 5 |
+| [LIQUID](#phase-cu-o-liquid); _phase:cu-o:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1342.77–2500 K, x(O) 0–0.39158 | 18 | 2 |
+| [O2GAS](#phase-cu-o-o2gas); _phase:cu-o:o2gas_ | gas | gas | stable in 2 of 3 calculated diagram(s): 300–416 K, x(O) 1–1 | 0 | 5 |
 
 ## BCC_A2 (Cu–O)
 
 - Id: `phase:cu-o:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stoichiometry: Cu 1.0000
-- Stability: not stable in 2 calculated diagram(s)
+- Stability: not stable in 3 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-o:bcc-a2)
 
@@ -83,7 +83,7 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1361/154770305X74421](https://doi.org/10.1361/154770305X74421) J. Phase Equilib. Diffus., 26, 605-12(2005).  
 _assessment that models this phase_
-- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) Z. Metallkd., 83, 663-68(1992).  
+- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) A. Boudene, K. Hack, A. Mohammad, D. Neuschuetz, E. Zimmermann, Z. Metallkd., 83, 663-68(1992).  
 _assessment that models this phase_
 
 ## CUPRITE_C3 (Cu–O)
@@ -92,7 +92,7 @@ _assessment that models this phase_
 - Structure: Cu2O · C3 · cP6 · Pn-3m (224); type `st:c3-cu2o-cp6`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:CUPRITE); structure as stated in the SGTE crystallographic table for this phase name and system
-- Stability: stable in 2 of 2 calculated diagram(s): 300–1094.79 K, x(O) 0.33333–0.33333
+- Stability: stable in 3 of 3 calculated diagram(s): 300–1094.79 K, x(O) 0.33333–0.33333
 - Literature: 84 values (84 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-o:c3-cuprite)
 
@@ -148,7 +148,7 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1361/154770305X74421](https://doi.org/10.1361/154770305X74421) J. Phase Equilib. Diffus., 26, 605-12(2005).  
 _assessment that models this phase_
-- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) Z. Metallkd., 83, 663-68(1992).  
+- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) A. Boudene, K. Hack, A. Mohammad, D. Neuschuetz, E. Zimmermann, Z. Metallkd., 83, 663-68(1992).  
 _assessment that models this phase_
 - [doi:10.1002/srin.197003613](https://doi.org/10.1002/srin.197003613) Wilhelm Anton Fischer, Gerd Pateisky, Die Eignung fester Metall-Metalloxid-Gemische als Bezugspotentiale in Sauerstoffmeßzellen, Archiv für das Eisenhüttenwesen 41, 661-673 (1970).  
 _cited as the source of values for this phase_
@@ -213,7 +213,7 @@ _assessment that models this phase_
 - Structure: CuO · B26 · mC8 · C2/c (15); type `st:b26-cuo-mc8`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
-- Stability: stable in 2 of 2 calculated diagram(s): 300–416 K, x(O) 0.5–0.5
+- Stability: stable in 3 of 3 calculated diagram(s): 300–416 K, x(O) 0.5–0.5
 - Literature: 76 values (70 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-o:cuo)
 
@@ -269,7 +269,7 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(03)00050-6](https://doi.org/10.1016/S0364-5916%2803%2900050-6) B. Hallstedt, L.J. Gauckler, Calphad, 27, 177-91(2003).  
 _assessment that models this phase_
-- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) Z. Metallkd., 83, 663-68(1992).  
+- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) A. Boudene, K. Hack, A. Mohammad, D. Neuschuetz, E. Zimmermann, Z. Metallkd., 83, 663-68(1992).  
 _assessment that models this phase_
 - [doi:10.1021/ja01438a009](https://doi.org/10.1021/ja01438a009) H. S. Roberts, F. Hastings Smyth, THE SYSTEM COPPER: CUPRIC OXIDE: OXYGEN., J. Am. Chem. Soc. 43, 1061-1079 (1921).  
 _cited as the source of values for this phase_
@@ -286,7 +286,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:cu-o:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 2 of 2 calculated diagram(s): 300–1357.77 K, x(O) 0–0.00019
+- Stability: stable in 3 of 3 calculated diagram(s): 300–1357.77 K, x(O) 0–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-o:fcc-a1)
 
@@ -341,14 +341,14 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1361/154770305X74421](https://doi.org/10.1361/154770305X74421) J. Phase Equilib. Diffus., 26, 605-12(2005).  
 _assessment that models this phase_
-- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) Z. Metallkd., 83, 663-68(1992).  
+- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) A. Boudene, K. Hack, A. Mohammad, D. Neuschuetz, E. Zimmermann, Z. Metallkd., 83, 663-68(1992).  
 _assessment that models this phase_
 
 ## GAS (Cu–O)
 
 - Id: `phase:cu-o:gas`; status `assigned`
 - Structure: gas; type `st:gas`; gas; confidence high
-- Stability: stable in 2 of 2 calculated diagram(s): 1382.32–2500 K, x(O) 0.92505–1
+- Stability: stable in 3 of 3 calculated diagram(s): 1382.32–2500 K, x(O) 0.92505–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-o:gas)
 
@@ -403,7 +403,7 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1361/154770305X74421](https://doi.org/10.1361/154770305X74421) J. Phase Equilib. Diffus., 26, 605-12(2005).  
 _assessment that models this phase_
-- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) Z. Metallkd., 83, 663-68(1992).  
+- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) A. Boudene, K. Hack, A. Mohammad, D. Neuschuetz, E. Zimmermann, Z. Metallkd., 83, 663-68(1992).  
 _assessment that models this phase_
 
 ## HCP_A3 (Cu–O)
@@ -411,7 +411,7 @@ _assessment that models this phase_
 - Id: `phase:cu-o:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stoichiometry: Cu 1.0000
-- Stability: not stable in 2 calculated diagram(s)
+- Stability: not stable in 3 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-o:hcp-a3)
 
@@ -466,7 +466,7 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1361/154770305X74421](https://doi.org/10.1361/154770305X74421) J. Phase Equilib. Diffus., 26, 605-12(2005).  
 _assessment that models this phase_
-- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) Z. Metallkd., 83, 663-68(1992).  
+- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) A. Boudene, K. Hack, A. Mohammad, D. Neuschuetz, E. Zimmermann, Z. Metallkd., 83, 663-68(1992).  
 _assessment that models this phase_
 
 ## ION (Cu–O)
@@ -517,7 +517,7 @@ _assessment that models this phase_
 
 - Id: `phase:cu-o:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
-- Stability: stable in 1 of 1 calculated diagram(s): 1342.77–2500 K, x(O) 0–0.33882
+- Stability: stable in 2 of 2 calculated diagram(s): 1342.77–2500 K, x(O) 0–0.39158
 - Literature: 18 values (16 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-o:liquid)
 
@@ -546,7 +546,7 @@ Example references (10 of 10; assessments first):
 
 - [doi:10.1016/j.calphad.2014.09.004](https://doi.org/10.1016/j.calphad.2014.09.004) Hans Magnusson, Karin Frisk, Thermodynamic evaluation of the copper-rich part of the CuHOSP system at low temperatures, Calphad 47, 148-160 (2014).  
 _assessment that models this phase_
-- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) Z. Metallkd., 83, 663-68(1992).  
+- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) A. Boudene, K. Hack, A. Mohammad, D. Neuschuetz, E. Zimmermann, Z. Metallkd., 83, 663-68(1992).  
 _assessment that models this phase_
 - [doi:10.1007/bf02649399](https://doi.org/10.1007/bf02649399) B. Hallstedt, D. Risold, L. J. Gauckler, Thermodynamic assessment of the copper-oxygen system, JPE 15, 483-499 (1994).  
 _reports values for this phase_
@@ -569,7 +569,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:cu-o:o2gas`; status `assigned`
 - Structure: gas; type `st:gas`; gas; confidence high
-- Stability: stable in 2 of 2 calculated diagram(s): 300–416 K, x(O) 1–1
+- Stability: stable in 2 of 3 calculated diagram(s): 300–416 K, x(O) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-o:o2gas)
 
@@ -624,13 +624,13 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1361/154770305X74421](https://doi.org/10.1361/154770305X74421) J. Phase Equilib. Diffus., 26, 605-12(2005).  
 _assessment that models this phase_
-- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) Z. Metallkd., 83, 663-68(1992).  
+- [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) A. Boudene, K. Hack, A. Mohammad, D. Neuschuetz, E. Zimmermann, Z. Metallkd., 83, 663-68(1992).  
 _assessment that models this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -639,7 +639,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -650,7 +650,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

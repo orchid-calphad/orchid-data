@@ -1,10 +1,10 @@
 # Al–Ta system
 
-> Al–Ta system: 225 accepted literature values (phase transition 67, crystal structure 52, invariant reaction 50, phase equilibrium 24) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ta system: 163 accepted literature values (crystal structure 52, invariant reaction 50, phase equilibrium 24, heat capacity / entropy / enthalpy 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-TA.html · Markdown: https://data.orchid-project.org/systems/AL-TA.md
 
-225 accepted literature values from 4 paper(s) (experimental 141, model 55, DFT 1, unspecified 28); 4 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+163 accepted literature values from 4 paper(s) (experimental 103, model 55, DFT 1, unspecified 4); 4 calculated phase diagram(s). 75 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TA.json) · [CSV](https://data.orchid-project.org/systems/AL-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TA/AlTa-10Wit.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-TA.html) · [Markdown](https://data.orchid-project.org/systems/AL-TA.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 141 |
+| experimental | 103 |
 | model | 55 |
 | DFT | 1 |
-| unspecified | 28 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 50 |
-| phase transition | 67 |
+| phase transition | 5 |
 | phase equilibrium | 24 |
 | formation | 10 |
 | heat capacity / entropy / enthalpy | 12 |
@@ -166,79 +166,17 @@ Table: Enthalpies of formation, Al–Ta system (10)
 
 ## Other properties
 
-### Phase transition (67)
+### Phase transition (5)
 
 Table: Phase transition, Al–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 924 K | 924 | (αAl) + ε ↔ L + ε; _alloy: Al 0.795, Ta 0.205_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 3; `ORC-ZKCERRNWHU` |  |
-| Phase transition | 933 K | 933 | (αAl) + ε ↔ L + ε; _alloy: Al 0.795, Ta 0.205_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 1; `ORC-5EYAKA66IV` |  |
-| Phase transition | 933.7 K | 933.7 | (αAl) + ε ↔ L + ε; _alloy: Al 0.795, Ta 0.205_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 4; `ORC-GNC77QFZKQ` |  |
-| Phase transition | 933.8 K | 933.8 | (αAl) + ε ↔ L + ε; _alloy: Al 0.795, Ta 0.205_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 2; `ORC-HKP62NSHIC` |  |
-| Phase transition | 1353 K | 1353 | ε + φ ↔ Ta39Al69 + φ; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 30; `ORC-XKMXB7E24K` |  |
-| Phase transition | 1355 K | 1355 | ε + φ ↔ Ta39Al69 + φ; _alloy: Al 0.543, Ta 0.457_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 41; `ORC-3I3EP7QA77` |  |
-| Phase transition | 1371 K | 1371 | ε + φ ↔ Ta39Al69 + ε; _alloy: Al 0.692, Ta 0.308_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 9; `ORC-KJRD7V42LS` |  |
-| Phase transition | 1371 K | 1371 | ε + φ ↔ Ta39Al69 + φ; _alloy: Al 0.624, Ta 0.376_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 17; `ORC-L6WWGR2V5W` |  |
-| Phase transition | 1371 K | 1371 | ε + φ ↔ Ta39Al69 + φ; _alloy: Al 0.559, Ta 0.441_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 31; `ORC-S7A64HLLN3` |  |
-| Phase transition | 1371 K | 1371 | ε + φ ↔ Ta39Al69 + φ; _alloy: Al 0.543, Ta 0.457_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 42; `ORC-WZAQKGQLXE` |  |
-| Phase transition | 1372 K | 1372 | ε + φ ↔ Ta39Al69 + ε; _alloy: Al 0.692, Ta 0.308_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 8; `ORC-ZRTE3AUTX7` |  |
-| Phase transition | 1387 K | 1387 | ε + φ ↔ Ta39Al69 + φ; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 16; `ORC-VYRZ5XQYJT` |  |
 | Phase transition | 1498 K | 1498 | polymorphic | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | p. 3; `ORC-3LGTTH2XNB` | “Besides, Schuster \[20\] reported a polymorphism for the Ta39Al69-phase and a corresponding DTA arrest at 1498 K upon heating, which is not in sharp disagreement with the decomposition temperature in the interval 1273-1423 K.” |
-| Phase transition | 1662 K | 1662 | Ta39Al69 + φ ↔ Ta39Al69 + σ; _alloy: Al 0.543, Ta 0.457_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 44; `ORC-OWJGSS5L6D` |  |
-| Phase transition | 1716 K | 1716 | φ + σ ↔ σ; _alloy: Al 0.416, Ta 0.584_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 53; `ORC-PG5MJSGHYY` |  |
-| Phase transition | 1725 K | 1725 | φ + σ ↔ σ; _alloy: Al 0.416, Ta 0.584_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 52; `ORC-SHDXFPM7JC` |  |
-| Phase transition | 1727 K | 1727 | Ta39Al69 + φ ↔ Ta39Al69 + σ; _alloy: Al 0.543, Ta 0.457_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 43; `ORC-ERG33WIDMC` |  |
-| Phase transition | 1737 K | 1737 | Ta39Al69 + φ ↔ Ta39Al69 + σ; _alloy: Al 0.624, Ta 0.376_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 18; `ORC-7ACB7ZXFMX` |  |
-| Phase transition | 1737 K | 1737 | Ta39Al69 + φ ↔ Ta39Al69 + σ; _alloy: Al 0.543, Ta 0.457_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 45; `ORC-PSK5VCUE5G` |  |
-| Phase transition | 1737 K | 1737 | Ta39Al69 + φ ↔ Ta39Al69 + σ; _alloy: Al 0.559, Ta 0.441_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 33; `ORC-VUB5A7PONS` |  |
-| Phase transition | 1740 K | 1740 | Ta39Al69 + φ ↔ Ta39Al69 + σ; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 32; `ORC-O3C72JESR5` |  |
-| Phase transition | 1759 K | 1759 | Ta39Al69 + σ ↔ Ta39Al69; _alloy: Al 0.624, Ta 0.376_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 20; `ORC-GOPMWV7EOE` |  |
-| Phase transition | 1804 K | 1804 | L + ε ↔ L; _alloy: Al 0.795, Ta 0.205_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 6; `ORC-KJ7K55JQYU` |  |
-| Phase transition | 1806 K | 1806 | Ta39Al69 + ε ↔ L + Ta39Al69; _alloy: Al 0.692, Ta 0.308_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 11; `ORC-NFCEC3J3EM` |  |
-| Phase transition | 1810 K | 1810 | L + ε ↔ L; _alloy: Al 0.795, Ta 0.205_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 7; `ORC-ZDFPADFIRT` |  |
-| Phase transition | 1814 K | 1814 | Ta39Al69 + ε ↔ L + Ta39Al69; _alloy: Al 0.692, Ta 0.308_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 12; `ORC-VWO4CWIMXX` |  |
-| Phase transition | 1820 K | 1820 | Ta39Al69 + σ ↔ Ta39Al69; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 19; `ORC-PA5VZ6IGTS` |  |
-| Phase transition | 1822 K | 1822 | Ta39Al69 + ε ↔ L + Ta39Al69; _alloy: Al 0.692, Ta 0.308_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 10; `ORC-R6W3ELNAPF` |  |
 | Phase transition | 1840 K | 1840 | peritectic: Al3Ta2; _alloy: Ta 0.4_ | unspecified | [2] Du 1996; _cites ref. 85Sch_ | Table I, p. 2, row 38; `ORC-SYGVH2SXYY` |  |
-| Phase transition | 1848 K | 1848 (\<) | L + ε ↔ L; _alloy: Al 0.795, Ta 0.205_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 5; `ORC-SXSWYTTEEI` |  |
-| Phase transition | 1855 K | 1855 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.543, Ta 0.457_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 47; `ORC-PKZDHKSIG4` |  |
-| Phase transition | 1855 K | 1855 | Ta39Al69 ↔ L + Ta39Al69; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 23; `ORC-ZJPKAPBWZ2` |  |
-| Phase transition | 1862 K | 1862 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 36; `ORC-4UNIKNFV5Q` |  |
-| Phase transition | 1874 K | 1874 | L + Ta39Al69 ↔ L; _alloy: Al 0.692, Ta 0.308_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 15; `ORC-A576ZAB6R2` |  |
-| Phase transition | 1876 K | 1876 | L + Ta39Al69 ↔ L; _alloy: Al 0.692, Ta 0.308_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 13; `ORC-UP25JUITPO` |  |
-| Phase transition | 1876 K | 1876 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.543, Ta 0.457_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 46; `ORC-4UJSZRO6WX` |  |
-| Phase transition | 1877 K | 1877 | Ta39Al69 ↔ L + Ta39Al69; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 21; `ORC-QQ7V4BQ6TU` |  |
-| Phase transition | 1879 K | 1879 | L + Ta39Al69 ↔ L; _alloy: Al 0.692, Ta 0.308_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 14; `ORC-7W7BJ3EDQ5` |  |
-| Phase transition | 1881 K | 1881 | Ta39Al69 ↔ L + Ta39Al69; _alloy: Al 0.624, Ta 0.376_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 24; `ORC-2O5CPT66IM` |  |
-| Phase transition | 1881 K | 1881 | Ta39Al69 ↔ L + Ta39Al69; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 22; `ORC-7EKAZ534JP` |  |
-| Phase transition | 1884 K | 1884 | L + Ta39Al69 ↔ L + σ; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 25; `ORC-7IDVQS5ST3` |  |
-| Phase transition | 1885 K | 1885 | L + Ta39Al69 ↔ L + σ; _alloy: Al 0.624, Ta 0.376_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 26; `ORC-DSM3BCE4EQ` |  |
-| Phase transition | 1885 K | 1885 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.543, Ta 0.457_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 48; `ORC-K25CCDOQH4` |  |
-| Phase transition | 1885 K | 1885 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 34; `ORC-LNHSZALV37` |  |
-| Phase transition | 1885 K | 1885 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.559, Ta 0.441_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 37; `ORC-OQLN6MAZSQ` |  |
-| Phase transition | 1895 K | 1895 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 35; `ORC-EY53JSJD5Z` |  |
 | Phase transition | 1900 K | 1900 | congruent transformation | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | p. 3; `ORC-VTHW4HJFNV.08d38b` | “In the literature there are both variants of melting for the 3-phase, congruent at 1823 \[23\] or 1900 K \[20\] and peritectic at 1773 \[44\] or 1824 K \[14\].” |
-| Phase transition | 1972 K | 1972 | L + σ ↔ L; _alloy: Al 0.624, Ta 0.376_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 29; `ORC-WZHUF7HI2O` |  |
 | Phase transition | 1973 K | 1973 (>) | Al3Ta; _alloy: Ta 0.25_ | unspecified | [2] Du 1996; _cites ref. 65Bea_ | Table I, p. 2, row 36; `ORC-JW7NZ6WVLH` |  |
-| Phase transition | 1978 K | 1978 | L + σ ↔ L; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 27; `ORC-EASV6BYTC2` |  |
-| Phase transition | 2002 K | 2002 | L + σ ↔ L; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 28; `ORC-QNHQBT6QRP` |  |
-| Phase transition | 2063 K | 2063 | L + σ ↔ L; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 39; `ORC-YPBHDCAOCS` |  |
-| Phase transition | 2063 K | 2063 | σ ↔ L + σ; _alloy: Al 0.416, Ta 0.584_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 55; `ORC-J67256JI7E` |  |
-| Phase transition | 2064 K | 2064 | L + σ ↔ L; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 38; `ORC-AGFLYRMTI6` |  |
-| Phase transition | 2074 K | 2074 | L + σ ↔ L; _alloy: Al 0.559, Ta 0.441_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 40; `ORC-R7FDSN2TFG` |  |
-| Phase transition | 2097 K | 2097 | L + σ ↔ L; _alloy: Al 0.543, Ta 0.457_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 51; `ORC-M3Q2LMY5UK` |  |
-| Phase transition | 2099 K | 2099 | σ ↔ L + σ; _alloy: Al 0.416, Ta 0.584_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 56; `ORC-2O7H53Q4OF` |  |
-| Phase transition | 2111 K | 2111 | σ ↔ L + σ; _alloy: Al 0.416, Ta 0.584_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 54; `ORC-P5YWSGYYQA` |  |
-| Phase transition | 2139 K | 2139 | L + σ ↔ L; _alloy: Al 0.543, Ta 0.457_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 49; `ORC-X2RKBAZYIE` |  |
-| Phase transition | 2159 K | 2159 | L + σ ↔ L; _alloy: Al 0.543, Ta 0.457_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 50; `ORC-MITCPMD3B2` |  |
-| Phase transition | 2164 K | 2164 | L + σ ↔ L; _alloy: Al 0.416, Ta 0.584_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 58; `ORC-EZZBQAOWQT` |  |
-| Phase transition | 2251 K | 2251 | L + σ ↔ L; _alloy: Al 0.416, Ta 0.584_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 59; `ORC-TYGVT2BJFN` |  |
-| Phase transition | 2257 K | 2257 | L + σ ↔ L; _alloy: Al 0.416, Ta 0.584_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 57; `ORC-3CQG4KHFVF` |  |
-| Phase transition | 2347 K | 2347 | β + σ ↔ L + β; _alloy: Al 0.12, Ta 0.88_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 61; `ORC-EWYZHNYPLB` |  |
 | Phase transition | 2353 K | 2353 | peritectic: AlTa2; _alloy: Ta 0.666667_ | unspecified | [2] Du 1996; _cites ref. 95Mah_ | Table I, p. 2, row 43; `ORC-RBP5EKJW36` |  |
-| Phase transition | 2353 K | 2353 | β + σ ↔ L + β; _alloy: Al 0.12, Ta 0.88_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 60; `ORC-IKAS4TSK3N` |  |
-| Phase transition | 2980 K | 2980 | L + β ↔ L; _alloy: Al 0.12, Ta 0.88_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 62; `ORC-WBP5E4TDCP` |  |
 
 ### Phase equilibrium (24)
 
@@ -377,10 +315,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -389,7 +327,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -400,7 +338,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -410,7 +348,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -420,7 +358,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

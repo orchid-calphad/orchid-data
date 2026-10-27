@@ -14,13 +14,13 @@ Table: Enthalpy of formation of AlNi reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -67.4 kJ/mol-atom ± 2.55 | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.e80675` |  |
-| -67 kJ/mol-atom | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.0e91fe` |  |
-| -66.4 kJ/mol-atom ± 2 | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.8d90bb` |  |
+| -67.4 kJ/mol-atom ± 2.55 | B2 |  | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.e80675` |  |
+| -67 kJ/mol-atom | B2 |  | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.0e91fe` |  |
+| -66.4 kJ/mol-atom ± 2 | B2 |  | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.8d90bb` |  |
 | -66.1 kJ/mol-atom ± 1.3 | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 6; `ORC-GEAL46TYRL.c8a88f` |  |
-| -66 kJ/mol-atom ± 0.13 | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.b07d0a` |  |
-| -62 kJ/mol-atom | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.bce74c` |  |
-| -58.3 kJ/mol-atom ± 1.1 | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.47e6a8` |  |
+| -66 kJ/mol-atom ± 0.13 | B2 |  | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.b07d0a` |  |
+| -62 kJ/mol-atom | B2 |  | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.bce74c` |  |
+| -58.3 kJ/mol-atom ± 1.1 | B2 |  | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 83_ | Table 4, p. 38, row 7; `ORC-ZOPMVSLEXO.47e6a8` |  |
 | -67.18 kJ/mol-atom | B2 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 84_ | Table 4, p. 38, row 8; `ORC-3ECLXDV23B.c8ed20` |  |
 | -66.8444 kJ/mol (basis unstated) | Al0.50Ni0.50 | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [2] Ansara 1988 | Table 1, p. 5, row 13; `ORC-2XDET2VQZH.247e0f` |  |
 | -62.999 kJ/mol (basis unstated) | L10-Al2Ni2 |  | model | CALPHAD | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Yang 2022 | Table 3, p. 5, row 3; `ORC-KUWZ36QSUL` |  |
@@ -41,10 +41,10 @@ Table: Uncertainty budget of the literature values of AlNi
 | -66 | kJ/mol-atom | 0.13 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -62 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -58.3 | kJ/mol-atom | 1.1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -67.18 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -66.8444 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
-| -62.999 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
-| -62.264 | kJ/mol (basis unstated) |  | 5.000e-4 | 8.332 (dft, calibrated) |  |  |  | 8.332 |
+| -67.18 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -66.8444 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
+| -62.999 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
+| -62.264 | kJ/mol (basis unstated) |  | 5.000e-4 | 8.006 (dft, calibrated) |  |  |  | 8.006 |
 
 ## DFT formation energies
 
@@ -67,9 +67,9 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-dft-benchmark
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162, https://doi.org/10.1038/sdata.2017.162; B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file.
 
@@ -78,7 +78,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -89,7 +89,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_dft_benchmark_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID DFT-vs-experiment formation-enthalpy benchmark}},
+  title     = {{ORCHID-Parity: DFT-vs-experiment formation-enthalpy benchmark}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -100,7 +100,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

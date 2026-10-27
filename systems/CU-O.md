@@ -1,10 +1,10 @@
 # Cu–O system
 
-> Cu–O system: 362 accepted literature values (model expression 174, invariant reaction 54, activity / EMF / Gibbs energy 45, formation 39) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–O system: 355 accepted literature values (model expression 174, invariant reaction 54, formation 39, activity / EMF / Gibbs energy 38) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-O.html · Markdown: https://data.orchid-project.org/systems/CU-O.md
 
-362 accepted literature values from 3 paper(s) (experimental 287, model 75); 2 calculated phase diagram(s). 22 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+355 accepted literature values from 2 paper(s) (experimental 280, model 75); 3 calculated phase diagram(s). 22 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-O.json) · [CSV](https://data.orchid-project.org/systems/CU-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-O/CuO-14Mag.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-O.html) · [Markdown](https://data.orchid-project.org/systems/CU-O.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 287 |
+| experimental | 280 |
 | model | 75 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | phase transition | 13 |
 | formation | 39 |
 | heat capacity / entropy / enthalpy | 37 |
-| activity / EMF / Gibbs energy | 45 |
+| activity / EMF / Gibbs energy | 38 |
 | model expression | 174 |
 
 ## Calculated phase diagrams
@@ -35,6 +35,7 @@ Table: Assessments with a calculated phase diagram
 | TDB file | Assessment | SHA-256 | Links |
 |---|---|---|---|
 | CuO-14Mag.tdb | H. Magnusson, K. Frisk, Calphad, 47, 148-60(2014). [doi:10.1016/j.calphad.2014.09.004](https://doi.org/10.1016/j.calphad.2014.09.004) | `c359243f819163487dee47e2c28697d846db9d0456d9ede289d84dd7b0ed5f3a` | [viewer](https://orchid-project.org/phase-diagrams/#CU-O/CuO-14Mag.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CuO-14Mag.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CuO-14Mag.json) |
+| CuO-92Bou.tdb | A. Boudene, K. Hack, A. Mohammad, D. Neuschuetz, E. Zimmermann, Z. Metallkd., 83, 663-68(1992). [doi:10.1515/ijmr-1992-830905](https://doi.org/10.1515/ijmr-1992-830905) | `01c48e87b93fb30f817411232690b694a306f3b90f586840e3ef2d4366420673` | [viewer](https://orchid-project.org/phase-diagrams/#CU-O/CuO-92Bou.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CuO-92Bou.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CuO-92Bou.json) |
 | CuO-94Hal.tdb | B. Hallstedt, D. Risold and L.J. Gauckler, J. Phase Equilib., 15, 483-99(1994). [doi:10.1007/BF02649399](https://doi.org/10.1007/BF02649399) | `59102ffec95449e3ff1a60226d9369eb93d38b3ce8ef47fbd7332ab32b087b2a` | [viewer](https://orchid-project.org/phase-diagrams/#CU-O/CuO-94Hal.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/CuO-94Hal.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/CuO-94Hal.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CU/CU-O.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CU/CU-O.json)
@@ -221,7 +222,7 @@ Table: Heat capacity / entropy / enthalpy, Cu–O system
 | Heat capacity; _printed: Cp(CuO)_ | 42.25 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.5_ | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 10, p. 13, row 10; `ORC-RXH5DCZFWK.c7b301` |  |
 | Heat capacity; _printed: Cp(CuO)_ | 42.29 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.5_ | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 10, p. 13, row 11; `ORC-XDRQ5IH6ZL.47d4e4` |  |
 
-### Activity / EMF / Gibbs energy (45)
+### Activity / EMF / Gibbs energy (38)
 
 Table: Activity / EMF / Gibbs energy, Cu–O system
 
@@ -249,13 +250,6 @@ Table: Activity / EMF / Gibbs energy, Cu–O system
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -107.6 kJ/mol | 298.15 | UNKNOWN | model | [1] Hallstedt 1994 | Table 11, p. 13, row 10; `ORC-JFNBHZ6QIT.c5018b` |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -110.21 kJ/mol | 298.15 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 10All_ | Table 11, p. 13, row 2; `ORC-OF7WFZ4FIS` |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -108.7 kJ/mol | 298.15 | UNKNOWN | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 11, p. 13, row 9; `ORC-PYTD2C6HQG.620249` |  |
-| Gibbs energy; _printed: ΔG° b (T)_ | 95.804 J/mol/K | 980 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 22; `ORC-VE6DKOWOUG.2a414d` |  |
-| Gibbs energy; _printed: ΔG° a_ | -132520 J/mol | 980 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 22; `ORC-VE6DKOWOUG.9f271f` |  |
-| Gibbs energy; _printed: ΔG° b (T)_ | 125.535 J/mol/K | 1020 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 21; `ORC-Q6ZFRIU56V.2246ab` |  |
-| Gibbs energy; _printed: ΔG° a_ | -174010 J/mol | 1020 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 21; `ORC-Q6ZFRIU56V.873240` |  |
-| Gibbs energy; _printed: ΔG° c (T ln T)_ | -6.79 J/mol/K | 1020 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 21; `ORC-Q6ZFRIU56V.92dbbf` |  |
-| Gibbs energy; _printed: ΔG° a_ | -167024 J/mol | 1050 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 20; `ORC-HUV2JQELU5.40c821` |  |
-| Gibbs energy; _printed: ΔG° b (T)_ | 71.65 J/mol/K | 1050 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 20; `ORC-HUV2JQELU5.f162f4` |  |
 | Gibbs energy; _printed: ΔG0_ | -76590 J/mol | 1373 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fitzner 1978_ | Table 3, p. 9, row 35; `ORC-3EFJSN4QOF.75bda9` |  |
 | Gibbs energy; _printed: ΔG0_ | -76650 J/mol | 1408 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Nanda 1970_ [doi](https://doi.org/10.1007/bf02900236) | Table 3, p. 9, row 20; `ORC-XZ62TAIPXP.a0c217` |  |
 | Gibbs energy; _printed: ΔG0_ | -76660 J/mol | 1418 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Rickert 1966_ [doi](https://doi.org/10.1016/0013-4686%2866%2985009-0) | Table 3, p. 9, row 8; `ORC-7BFVWN7U2H.749df8` |  |
@@ -460,14 +454,13 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. B. Hallstedt, D. Risold, L. J. Gauckler, Thermodynamic assessment of the copper-oxygen system, JPE 15, 483-499 (1994). [doi:10.1007/bf02649399](https://doi.org/10.1007/bf02649399)
 2. L. Schramm, G. Behr, W. Löser, K. Wetzig, Thermodynamic Reassessment of the Cu-O Phase Diagram, Journal of Phase Equilibria &amp; Diffusion 26, 605-612 (2005). [doi:10.1361/154770305x74421](https://doi.org/10.1361/154770305x74421)
-3. Ming Chen, Bengt Hallstedt, Ludwig J. Gauckler, Thermodynamic assessment of the Co-O system, JPE 24, 212-227 (2003). [doi:10.1361/105497103770330514](https://doi.org/10.1361/105497103770330514)
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -476,7 +469,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -487,7 +480,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -497,7 +490,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -507,7 +500,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

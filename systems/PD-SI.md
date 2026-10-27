@@ -1,10 +1,10 @@
 # Pd–Si system
 
-> Pd–Si system: 96 accepted literature values (invariant reaction 40, formation 36, phase equilibrium 18, phase transition 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Si system: 77 accepted literature values (invariant reaction 40, formation 19, phase equilibrium 18) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-SI.html · Markdown: https://data.orchid-project.org/systems/PD-SI.md
 
-96 accepted literature values from 2 paper(s) (experimental 40, model 22, DFT 34); 5 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+77 accepted literature values from 2 paper(s) (experimental 38, model 22, DFT 17); 5 calculated phase diagram(s). 31 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-SI.json) · [CSV](https://data.orchid-project.org/systems/PD-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-SI/PdSi-05The.json) · [phases (16)](https://data.orchid-project.org/phases/pages/PD-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-SI.html) · [Markdown](https://data.orchid-project.org/systems/PD-SI.md)
 
@@ -12,18 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 40 |
+| experimental | 38 |
 | model | 22 |
-| DFT | 34 |
+| DFT | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 40 |
-| phase transition | 2 |
 | phase equilibrium | 18 |
-| formation | 36 |
+| formation | 19 |
 
 ## Calculated phase diagrams
 
@@ -160,7 +159,7 @@ Table: Invariant reactions reported in the literature for the Pd–Si system (40
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pd–Si system (36)
+Table: Enthalpies of formation, Pd–Si system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -183,34 +182,8 @@ Table: Enthalpies of formation, Pd–Si system (36)
 | Si9Pd2-α |  | 36.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 10; `ORC-M3EZSRVR73.77fd20` |  |
 | SiPd-δ |  | 43.17 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 27; `ORC-WGCW3MWLH2.0d7cf6` |  |
 | SiSi-δ |  | 66.39 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 28; `ORC-H5SSXXWRSD.5942dc` |  |
-| UNKNOWN |  | -65.1 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 19; `ORC-2RLQY4V5DI.db54c7` |  |
-| UNKNOWN |  | -57.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 13; `ORC-DZZEZSNOQ4.8078a5` |  |
-| UNKNOWN |  | -50.18 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 25; `ORC-DE4VEOBS56.e815bd` |  |
-| UNKNOWN |  | -42.7 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 8; `ORC-7ODOD3647J.9388b8` |  |
-| UNKNOWN |  | -40.5 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 3; `ORC-DOWXWJJ7EG.ce7838` |  |
-| UNKNOWN |  | 10.6 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 16; `ORC-36RHXJX5OE.1cdaee` |  |
-| UNKNOWN |  | 24.5 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 7; `ORC-6BC3MSZH62.faddc8` |  |
-| UNKNOWN |  | 34.7 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 24; `ORC-NGDNRRB32E.71d4cf` |  |
-| UNKNOWN |  | 36.6 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 10; `ORC-M3EZSRVR73.0c0e91` |  |
-| UNKNOWN |  | 43.17 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 27; `ORC-WGCW3MWLH2.2b25c1` |  |
-| UNKNOWN |  | 43.2 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 5; `ORC-ACVP7XIWC6.ed7bc4` |  |
-| UNKNOWN |  | 44.5 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 12; `ORC-ZXEWLHRFJE.049d47` |  |
-| UNKNOWN |  | 48.7 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 2; `ORC-2JE3KT5AVL.d2d24d` |  |
-| UNKNOWN |  | 66.39 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 28; `ORC-H5SSXXWRSD.401b12` |  |
-| UNKNOWN |  | 109.6 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 1; `ORC-ECXGBCPIZB.3b4b1b` |  |
-| UNKNOWN |  | 169.4 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 22; `ORC-FWYYWUDL3T.24e9a0` |  |
-| UNKNOWN |  | 186.7 kJ/mol (basis unstated) |  | DFT |  |  | [2] Zhou 2016 | Table I, p. 3, row 18; `ORC-MK5LVEJWFB.b3d751` |  |
 
 ## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Pd–Si system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1091 K | 1091 | other: D3 reaction; _alloy: Pd 0.823, Si 0.177_ | experimental | [2] Zhou 2016 | Table III, p. 4, row 5; `ORC-N6RBOV2LP5` |  |
-| Phase transition | 1092 K | 1092 | other: D4 reaction; _alloy: Pd 0.8, Si 0.2_ | experimental | [2] Zhou 2016 | Table III, p. 4, row 6; `ORC-J2NEQ2O6LA` |  |
 
 ### Phase equilibrium (18)
 
@@ -246,10 +219,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -258,7 +231,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -269,7 +242,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -279,7 +252,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -289,7 +262,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -14,7 +14,7 @@ Table: Phases of the Ce–Mn system (6)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ce-mn-bcc-a2); _phase:ce-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 911.37–2498.99 K, x(Mn) 0–1 | 5 | 2 |
 | [CBCC_A12](#phase-ce-mn-cbcc-a12); _phase:ce-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1355 K, x(Mn) 1–1 | 5 | 2 |
-| [CUB_A13](#phase-ce-mn-cub-a13); _phase:ce-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 898.39–1404.99 K, x(Mn) 0.97167–1 | 0 | 2 |
+| [CUB_A13](#phase-ce-mn-cub-a13); _phase:ce-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 898.39–1404.99 K, x(Mn) 0.97167–1 | 4 | 2 |
 | [FCC_A1](#phase-ce-mn-fcc-a1); _phase:ce-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1418 K, x(Mn) 0–1 | 10 | 2 |
 | [HCP_A3](#phase-ce-mn-hcp-a3); _phase:ce-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-ce-mn-liquid); _phase:ce-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 894–2500 K, x(Mn) 0–1 | 15 | 2 |
@@ -101,10 +101,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ce-mn:cub-a13`; status `assigned`
 - Structure: beta-Mn · A13 · cP20 · P4_132 (213); type `st:a13-beta-mn-cp20`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 898.39–1404.99 K, x(Mn) 0.97167–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mn:cub-a13)
 
-Names (3): _corpus: _corpus:phase:ce-mn:cub-a13  
+Names (4): _corpus: _corpus:phase:ce-mn:cub-a13  
+_paper: _paper:10.1016/j.jallcom.2006.07.071:(βMn)  
 _tdb: _tdb:CeMn-07Tan.tdb:CUB_A13, tdb:CeMn-24Ye.tdb:CUB_A13  
 
 
@@ -124,12 +125,14 @@ _tdb: _tdb:CeMn-07Tan.tdb:CUB_A13, tdb:CeMn-24Ye.tdb:CUB_A13
 50: CONST CUB_A13 : CE MN% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
+- [doi:10.1016/j.jallcom.2006.07.071](https://doi.org/10.1016/j.jallcom.2006.07.071) Chengying Tang, Yong Du, Lijun Zhang, Honghui Xu, Zhijun Zhu, Thermodynamic assessment of the Ce–Mn system, Journal of Alloys and Compounds 437, 102-106 (2007).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1002/mgea.39](https://doi.org/10.1002/mgea.39) Hongjian Ye, Jiang Wang, Qing Chen, Guanghui Rao, Huaiying Zhou, Development of thermodynamic database of the Mn‐RE (RE = rare earth metals) binary systems, Materials Genome Engineering Advances 2 (2024).  
 _assessment that models this phase_
-- [doi:10.1016/j.jallcom.2006.07.071](https://doi.org/10.1016/j.jallcom.2006.07.071) Chengying Tang, Yong Du, Lijun Zhang, Honghui Xu, Zhijun Zhu, Thermodynamic assessment of the Ce–Mn system, Journal of Alloys and Compounds 437, 102-106 (2007).  
-_assessment that models this phase_
+- [doi:10.1016/0022-5088(64)90078-5](https://doi.org/10.1016/0022-5088%2864%2990078-5) B.J Thamer, The system cerium-manganese in the range of 0–20 atomic per cent manganese, Journal of the Less Common Metals 7, 341-346 (1964).  
+_cited as the source of values for this phase_
 
 ## FCC_A1 (Ce–Mn)
 
@@ -244,8 +247,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -254,7 +257,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -265,7 +268,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these data, please cite this Zenodo record and the original sources of the data (the SGTE binary collection, Hallstedt 2025, and the original assessment named in each TDB file)."
-title: "ORCHID calculated binary phase diagrams"
+title: "ORCHID-Diagrams: calculated binary phase diagrams"
 type: dataset
 authors:
   - family-names: "Arróyave"

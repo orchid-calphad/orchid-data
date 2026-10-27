@@ -12,13 +12,13 @@ Table: Phases of the Fe–Th system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-fe-th-bcc-a2); _phase:fe-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.49 K, x(Th) 0–1 | 6 | 1 |
-| [FCC_A1](#phase-fe-th-fcc-a1); _phase:fe-th:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1667.5 K, x(Th) 0–1 | 4 | 1 |
+| [BCC_A2](#phase-fe-th-bcc-a2); _phase:fe-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.49 K, x(Th) 0–1 | 10 | 1 |
+| [FCC_A1](#phase-fe-th-fcc-a1); _phase:fe-th:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1667.5 K, x(Th) 0–1 | 8 | 1 |
 | [FE17TH2](#phase-fe-th-fe17th2); _phase:fe-th:fe17th2_ | Th2Zn17 · hR19 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 479.4–1735.38 K, x(Th) 0.10526–0.10526 | 12 | 1 |
 | [FE3TH](#phase-fe-th-fe3th); _phase:fe-th:fe3th_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 461.04–1374.59 K, x(Th) 0.25–0.25 | 10 | 1 |
 | [FE3TH7_D102](#phase-fe-th-fe3th7-d102); _phase:fe-th:fe3th7-d102_ | Fe3Th7 · D10_2 · hP20 · P6_3mc (186) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1212.83 K, x(Th) 0.7–0.7 | 4 | 1 |
 | [FE5TH_D2D](#phase-fe-th-fe5th-d2d); _phase:fe-th:fe5th-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1642.51 K, x(Th) 0.16667–0.16667 | 4 | 1 |
-| [FE7TH2_ALPHA](#phase-fe-th-fe7th2-alpha); _phase:fe-th:fe7th2-alpha_ | Ce2Ni7 · hP36 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1455.45 K, x(Th) 0.22222–0.22222 | 12 | 1 |
+| [FE7TH2_ALPHA](#phase-fe-th-fe7th2-alpha); _phase:fe-th:fe7th2-alpha_ | Ce2Ni7 · hP36 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1455.45 K, x(Th) 0.22222–0.22222 | 4 | 1 |
 | [FE7TH2_BETA](#phase-fe-th-fe7th2-beta); _phase:fe-th:fe7th2-beta_ | Co7Gd2 · hR18 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1455.45–1495.62 K, x(Th) 0.22222–0.22222 | 4 | 1 |
 | [HCP_A3](#phase-fe-th-hcp-a3); _phase:fe-th:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-fe-th-liquid); _phase:fe-th:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1128.23–4000 K, x(Th) 0–1 | 22 | 1 |
@@ -28,11 +28,11 @@ Table: Phases of the Fe–Th system (10)
 - Id: `phase:fe-th:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3999.49 K, x(Th) 0–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-th:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:fe-th:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2007.03.003:βTh, paper:10.1016/j.jallcom.2007.03.003:δFe  
+Names (6): _corpus: _corpus:phase:fe-th:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2007.03.003:(αFe), paper:10.1016/j.jallcom.2007.03.003:αFe, paper:10.1016/j.jallcom.2007.03.003:βTh, paper:10.1016/j.jallcom.2007.03.003:δFe  
 _tdb: _tdb:FeTh-08Wan.tdb:BCC_A2  
 
 
@@ -57,11 +57,11 @@ _cited as the source of values for this phase_
 - Id: `phase:fe-th:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1667.5 K, x(Th) 0–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-th:fcc-a1)
 
-Names (3): _corpus: _corpus:phase:fe-th:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2007.03.003:γFe  
+Names (5): _corpus: _corpus:phase:fe-th:fcc-a1  
+_paper: _paper:10.1016/j.jallcom.2007.03.003:(αTh), paper:10.1016/j.jallcom.2007.03.003:αTh, paper:10.1016/j.jallcom.2007.03.003:γFe  
 _tdb: _tdb:FeTh-08Wan.tdb:FCC_A1  
 
 
@@ -223,11 +223,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Fe 0.7778, Th 0.2222
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1455.45 K, x(Th) 0.22222–0.22222
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-th:fe7th2-alpha)
 
-Names (8): _corpus: _corpus:phase:fe-th:fe7th2-alpha  
-_paper: _paper:10.1016/j.jallcom.2007.03.003:(αFe), paper:10.1016/j.jallcom.2007.03.003:(αTh), paper:10.1016/j.jallcom.2007.03.003:aFe7Th2, paper:10.1016/j.jallcom.2007.03.003:αFe, paper:10.1016/j.jallcom.2007.03.003:αFe7Th2, paper:10.1016/j.jallcom.2007.03.003:αTh  
+Names (4): _corpus: _corpus:phase:fe-th:fe7th2-alpha  
+_paper: _paper:10.1016/j.jallcom.2007.03.003:aFe7Th2, paper:10.1016/j.jallcom.2007.03.003:αFe7Th2  
 _tdb: _tdb:FeTh-08Wan.tdb:FE7TH2_ALPHA  
 
 
@@ -337,8 +337,8 @@ _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -347,7 +347,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -358,7 +358,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

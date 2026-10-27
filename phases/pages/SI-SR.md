@@ -393,7 +393,7 @@ _tdb: _tdb:SiSr-09Gar-ass.tdb:SI2SR_ALPHA, tdb:SiSr-09Gar-sub.tdb:SI2SR_ALPHA, t
 49: CONST SI2SR_ALPHA : SI : SR : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.09.007](https://doi.org/10.1016/j.calphad.2011.09.007) Kai Li, Shuhong Liu, Chunsheng Sha, Yong Du, A thermodynamic reassessment of the Si–Sr system, Calphad 35, 594-600 (2011).  
 _assessment that models this phase; reports values for this phase_
@@ -406,6 +406,8 @@ _cited as the source of values for this phase_
 - [doi:10.1016/j.intermet.2005.10.008](https://doi.org/10.1016/j.intermet.2005.10.008) G. Balducci, S. Brutti, A. Ciccioli, G. Gigli, G. Trionfetti, A. Palenzona et al., Vapor pressures and thermodynamic properties of strontium silicides, Intermetallics 14, 578-583 (2006).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2003.11.003](https://doi.org/10.1016/j.jallcom.2003.11.003) A Palenzona, M Pani, The phase diagram of the Sr–Si system, Journal of Alloys and Compounds 373, 214-219 (2004).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2009.05.083](https://doi.org/10.1016/j.jallcom.2009.05.083) A. Garay, M.E. Williams, G. Trápaga, R. Arróyave, Thermodynamics, lattice stability and defect structure of strontium silicides via first-principles calculations, Journal of Alloys and Compounds 484, 822–831 (2009).  
 _cited as the source of values for this phase_
 
 ## SI2SR_CC (Si–Sr)
@@ -458,7 +460,7 @@ _tdb: _tdb:SiSr-09Gar-ass.tdb:SI2SR_CC, tdb:SiSr-09Gar-sub.tdb:SI2SR_CC, tdb:SiS
 54: CONST SI2SR_CC : SI% VA : SR : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.09.007](https://doi.org/10.1016/j.calphad.2011.09.007) Kai Li, Shuhong Liu, Chunsheng Sha, Yong Du, A thermodynamic reassessment of the Si–Sr system, Calphad 35, 594-600 (2011).  
 _assessment that models this phase; reports values for this phase_
@@ -473,6 +475,8 @@ _cited as the source of values for this phase_
 - [doi:10.1007/bf02877630](https://doi.org/10.1007/bf02877630) V.P. Itkin, C.B. Alcock, J. Phase Equilib. 10 (1989) 630.  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-4596(78)90010-5](https://doi.org/10.1016/0022-4596%2878%2990010-5) Jürgen Evers, Transformation of three-dimensional three-connected silicon nets in SrSi2, Journal of Solid State Chemistry 24, 199-207 (1978).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2009.05.083](https://doi.org/10.1016/j.jallcom.2009.05.083) A. Garay, M.E. Williams, G. Trápaga, R. Arróyave, Thermodynamics, lattice stability and defect structure of strontium silicides via first-principles calculations, Journal of Alloys and Compounds 484, 822–831 (2009).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2010.02.005](https://doi.org/10.1016/j.calphad.2010.02.005) B. Rygalin, V. Prokofieva, L. Pavlova, Y.E. Sokolov, The Si–Sr and Si–Ba phase diagrams over the Si-rich composition range, CALPHAD 34 (2010) 196–199.  
 _cited as the source of values for this phase_
@@ -531,7 +535,7 @@ _tdb: _tdb:SiSr-09Gar-ass.tdb:SI3SR5_D8L, tdb:SiSr-09Gar-sub.tdb:SI3SR5_D8L, tdb
 64: CONST SI3SR5_D8L : SI : SR : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.09.007](https://doi.org/10.1016/j.calphad.2011.09.007) Kai Li, Shuhong Liu, Chunsheng Sha, Yong Du, A thermodynamic reassessment of the Si–Sr system, Calphad 35, 594-600 (2011).  
 _assessment that models this phase; reports values for this phase_
@@ -542,6 +546,8 @@ _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2003.11.003](https://doi.org/10.1016/j.jallcom.2003.11.003) A Palenzona, M Pani, The phase diagram of the Sr–Si system, Journal of Alloys and Compounds 373, 214-219 (2004).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.intermet.2005.10.008](https://doi.org/10.1016/j.intermet.2005.10.008) G. Balducci, S. Brutti, A. Ciccioli, G. Gigli, G. Trionfetti, A. Palenzona et al., Vapor pressures and thermodynamic properties of strontium silicides, Intermetallics 14, 578-583 (2006).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2009.05.083](https://doi.org/10.1016/j.jallcom.2009.05.083) A. Garay, M.E. Williams, G. Trápaga, R. Arróyave, Thermodynamics, lattice stability and defect structure of strontium silicides via first-principles calculations, Journal of Alloys and Compounds 484, 822–831 (2009).  
 _cited as the source of values for this phase_
 
 ## SISR_B33 (Si–Sr)
@@ -598,7 +604,7 @@ _tdb: _tdb:SiSr-09Gar-ass.tdb:SISR_B33, tdb:SiSr-09Gar-sub.tdb:SISR_B33, tdb:SiS
 59: CONST SISR_B33 : SI : SR : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.09.007](https://doi.org/10.1016/j.calphad.2011.09.007) Kai Li, Shuhong Liu, Chunsheng Sha, Yong Du, A thermodynamic reassessment of the Si–Sr system, Calphad 35, 594-600 (2011).  
 _assessment that models this phase; reports values for this phase_
@@ -611,6 +617,8 @@ _cited as the source of values for this phase_
 - [doi:10.1016/j.intermet.2005.10.008](https://doi.org/10.1016/j.intermet.2005.10.008) G. Balducci, S. Brutti, A. Ciccioli, G. Gigli, G. Trionfetti, A. Palenzona et al., Vapor pressures and thermodynamic properties of strontium silicides, Intermetallics 14, 578-583 (2006).  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02877630](https://doi.org/10.1007/bf02877630) V.P. Itkin, C.B. Alcock, J. Phase Equilib. 10 (1989) 630.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2009.05.083](https://doi.org/10.1016/j.jallcom.2009.05.083) A. Garay, M.E. Williams, G. Trápaga, R. Arróyave, Thermodynamics, lattice stability and defect structure of strontium silicides via first-principles calculations, Journal of Alloys and Compounds 484, 822–831 (2009).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-4596(78)90010-5](https://doi.org/10.1016/0022-4596%2878%2990010-5) Jürgen Evers, Transformation of three-dimensional three-connected silicon nets in SrSi2, Journal of Solid State Chemistry 24, 199-207 (1978).  
 _cited as the source of values for this phase_
@@ -669,7 +677,7 @@ _tdb: _tdb:SiSr-09Gar-ass.tdb:SISR2_C37, tdb:SiSr-09Gar-sub.tdb:SISR2_C37, tdb:S
 69: CONST SISR2_C37 : SI : SR : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.09.007](https://doi.org/10.1016/j.calphad.2011.09.007) Kai Li, Shuhong Liu, Chunsheng Sha, Yong Du, A thermodynamic reassessment of the Si–Sr system, Calphad 35, 594-600 (2011).  
 _assessment that models this phase; reports values for this phase_
@@ -681,13 +689,15 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/j.intermet.2005.10.008](https://doi.org/10.1016/j.intermet.2005.10.008) G. Balducci, S. Brutti, A. Ciccioli, G. Gigli, G. Trionfetti, A. Palenzona et al., Vapor pressures and thermodynamic properties of strontium silicides, Intermetallics 14, 578-583 (2006).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2009.05.083](https://doi.org/10.1016/j.jallcom.2009.05.083) A. Garay, M.E. Williams, G. Trápaga, R. Arróyave, Thermodynamics, lattice stability and defect structure of strontium silicides via first-principles calculations, Journal of Alloys and Compounds 484, 822–831 (2009).  
+_cited as the source of values for this phase_
 - [doi:10.1007/bf02877630](https://doi.org/10.1007/bf02877630) V.P. Itkin, C.B. Alcock, J. Phase Equilib. 10 (1989) 630.  
 _cited as the source of values for this phase_
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID phase registry (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Registry: phase registry of binary systems (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-registry
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
 
@@ -696,7 +706,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_phase_registry_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID phase registry (binary systems)}},
+  title     = {{ORCHID-Registry: phase registry of binary systems}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -707,7 +717,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

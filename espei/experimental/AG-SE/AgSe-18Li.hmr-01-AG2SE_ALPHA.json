@@ -73,15 +73,7 @@
    "10.2138/am.2007.2209"
   ],
   "source_dataset": "db-v2.1/general/espei/AgSe-18Li/hmr-01.json",
-  "values_dropped": 2,
-  "also_reported_as": [
-   {
-    "dataset": "experimental/AG-SE/AgSe-18Li.hmr-15-AG2SE_ALPHA.json",
-    "ids": [
-     "ORC-EG4CZFRGL7.4223e1"
-    ]
-   }
-  ]
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -89,7 +81,7 @@
    "value": 500.0,
    "name": "ESPEI experimental default sigma_HM = 500 J/mol"
   },
-  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset",
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); this export uses a scalar weight for equilibrium/activity data; unequal-sigma groups are split before release",
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
@@ -105,7 +97,7 @@
      "sigma_effective": 3500.0,
      "method_class": "unknown",
      "method_basis": "calibrated",
-     "method_n_pairs": 297,
+     "method_n_pairs": 290,
      "method_entry": "value_types/HM_FORM/classes/unknown"
     },
     "sigma_effective_used": 3500.0,

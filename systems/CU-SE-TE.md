@@ -48,7 +48,7 @@ Table: Phase equilibrium, Cu–Se–Te system
 | Phase assemblage |  | 773.15 | Cu + Cu2(Se,Te); _alloy: Se 0.15, Te 0.15_ | experimental | [1] Hutabalian 2023 | p. 5; `ORC-6ALO2GMPQR.b41a58` | “Following a similar analytical determination, the equilibrium phases at 500 C in the Cu-Se-Te system were established. Figure 5(a), (b), (c), (d), (e), (f), (g), (h), (i) and (j) are the BEI micrographs of alloys #1, 2, 6, 7, 8, 13, 14, 22, 23, and 25, respectively. As shown in Fig. 5(a) and (b), alloys #1 (Cu10at.%Se-10at.%Te) and #2 (Cu-15at.%Se-15at.%Te) were both determined to be in a two-pha…” |
 | Phase assemblage |  | 773.15 | Cu + Cu2(Se,Te); _alloy: Se 0.1, Te 0.1_ | experimental | [1] Hutabalian 2023 | p. 5; `ORC-6ALO2GMPQR.c51f87` | “Following a similar analytical determination, the equilibrium phases at 500 C in the Cu-Se-Te system were established. Figure 5(a), (b), (c), (d), (e), (f), (g), (h), (i) and (j) are the BEI micrographs of alloys #1, 2, 6, 7, 8, 13, 14, 22, 23, and 25, respectively. As shown in Fig. 5(a) and (b), alloys #1 (Cu10at.%Se-10at.%Te) and #2 (Cu-15at.%Se-15at.%Te) were both determined to be in a two-pha…” |
 | Phase assemblage |  | 773.15 | Cu2(Se,Te); _alloy: Se 0.15, Te 0.15_ | experimental | [1] Hutabalian 2023 | p. 5; `ORC-6ALO2GMPQR.e3da23` | “Following a similar analytical determination, the equilibrium phases at 500 C in the Cu-Se-Te system were established. Figure 5(a), (b), (c), (d), (e), (f), (g), (h), (i) and (j) are the BEI micrographs of alloys #1, 2, 6, 7, 8, 13, 14, 22, 23, and 25, respectively. As shown in Fig. 5(a) and (b), alloys #1 (Cu10at.%Se-10at.%Te) and #2 (Cu-15at.%Se-15at.%Te) were both determined to be in a two-ph…” |
-| Phase assemblage |  | 773.15 | Cu2Se + s1 + liquid; _alloy: Se 0.315, Te 0.325_ | experimental | [1] Hutabalian 2023 | p. 2; `ORC-T7YR6RMP2M` | “Figure 2(a) and (b) are the backscattering electron image (BEI) and x-ray diffraction (XRD) patterns of equilibrated alloy #12 (Cu-31.5at.%Se-32.5at.%Te), respectively. Three phases were observed. The chemical composition of the dark phase is Cu-35.18at.%Se1.28at.%Te, which is the Cu2Se phase, and the composition of the gray phase is Cu-42.68at.%Se-23.27at.%Te, which is a ternary phase. Hereafter…” |
+| Phase assemblage |  | 773.15 | Cu2Se + s1 + liquid; _alloy: Se 0.315, Te 0.325_ | experimental | [1] Hutabalian 2023 | p. 2; `ORC-T7YR6RMP2M` | “The chemical composition of the dark phase is Cu-35.18at.%Se1.28at.%Te, which is the Cu2Se phase, and the composition of the gray phase is Cu-42.68at.%Se-23.27at.%Te, which is a ternary phase. Hereafter, this phase is denoted as the s1 phase. The dendritic microstructure contains a white matrix and some gray precipitate phases. Its average composition is Cu-32.12at.%Se-40.39at.%Te which was a liq…” |
 | Phase composition |  |  | (Se,Te); _(Se,Te): Cu 0.0087, Se 0.1313, Te 0.86_ | experimental | [1] Hutabalian 2023 | Table 2, p. 8, row 21; `ORC-2IF7QHZWX4` |  |
 | Phase composition |  |  | (Se,Te); _(Se,Te): Cu 0.07, Se 0.049, Te 0.881_ | experimental | [1] Hutabalian 2023 | Table 2, p. 8, row 25; `ORC-4CFKNSTQ3E` |  |
 | Phase composition |  |  | (Se,Te); _(Se,Te): Cu 0.143, Se 0.128, Te 0.709_ | experimental | [1] Hutabalian 2023 | Table 2, p. 8, row 22; `ORC-4ZTGYMVOMB` |  |
@@ -109,8 +109,8 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -119,7 +119,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -130,7 +130,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},

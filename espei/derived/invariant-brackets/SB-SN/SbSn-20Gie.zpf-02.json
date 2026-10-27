@@ -5,16 +5,57 @@
   "VA"
  ],
  "phases": [
+  "LIQUID",
+  "RHOMBOHEDRAL_A7",
   "SBSN"
  ],
  "conditions": {
   "P": 101325,
   "T": [
+   717.0,
    673.0
   ]
  },
  "output": "ZPF",
  "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "RHOMBOHEDRAL_A7",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.49
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.51
+    ]
+   ]
+  ],
   [
    [
     "SBSN",
@@ -62,6 +103,25 @@
   "points": [
    {
     "source_observation": "ORC-2ASTBEGQDG",
+    "side": "above",
+    "T_invariant_K": 695.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+    "x0": 0.5,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Rhombohedral_A7 = SbSn",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RHOMBOHEDRAL_A7"
+    ],
+    "phases_below": [
+     "SBSN"
+    ]
+   },
+   {
+    "source_observation": "ORC-2ASTBEGQDG",
     "side": "below",
     "T_invariant_K": 695.0,
     "offset_K": 22.0,
@@ -90,6 +150,22 @@
  "orchid_uncertainty_budget": {
   "sigma_rule": "derived point: placed offset_K = max(2u, 10 K) beyond the invariant, u = the invariant temperature's sigma_effective; the constraint holds while the invariant's error is below offset_K (no sigma of its own)",
   "points": [
+   {
+    "source_observation": "ORC-2ASTBEGQDG",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 11.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 22.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
    {
     "source_observation": "ORC-2ASTBEGQDG",
     "temperature_K": {

@@ -1,1 +1,1 @@
-{"tdb":"CuO-03Hal-LB.tdb","elements":["Cu","O"],"status":"failed","error":"ZeroDivisionError: float division"}
+{"tdb":"CuO-03Hal-LB.tdb","elements":["Cu","O"],"status":"failed","error":"ZeroDivisionError: float division","sha256":"5836249ea01796391386fb449e9dd2373076cca4044c316e6297903b8b41a3c0","recovery_review":{"review":"phase-diagrams/RECOVERY_REVIEW.json","decision":"retained_failed","reason":"No complete replacement passed the recovery review; source or engine limitations, failed equilibrium validation, or unverified diagram coverage."}}

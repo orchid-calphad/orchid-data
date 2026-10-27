@@ -1,10 +1,10 @@
 # Fe–Gd system
 
-> Fe–Gd system: 144 accepted literature values (invariant reaction 68, formation 32, phase transition 31, heat capacity / entropy / enthalpy 13) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Gd system: 130 accepted literature values (invariant reaction 68, phase transition 31, formation 18, heat capacity / entropy / enthalpy 13) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-GD.html · Markdown: https://data.orchid-project.org/systems/FE-GD.md
 
-144 accepted literature values from 3 paper(s) (experimental 91, model 53); 6 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+130 accepted literature values from 3 paper(s) (experimental 87, model 43); 6 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-GD.json) · [CSV](https://data.orchid-project.org/systems/FE-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-GD/FeGd-00Zin.json) · [phases (11)](https://data.orchid-project.org/phases/pages/FE-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-GD.html) · [Markdown](https://data.orchid-project.org/systems/FE-GD.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 91 |
-| model | 53 |
+| experimental | 87 |
+| model | 43 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 68 |
 | phase transition | 31 |
-| formation | 32 |
+| formation | 18 |
 | heat capacity / entropy / enthalpy | 13 |
 
 ## Calculated phase diagrams
@@ -240,7 +240,7 @@ Table: Invariant reactions reported in the literature for the Fe–Gd system (68
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Gd system (32)
+Table: Enthalpies of formation, Fe–Gd system (18)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -262,20 +262,6 @@ Table: Enthalpies of formation, Fe–Gd system (32)
 | Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -9.3 kJ/mol-atom ± 1.9 | 298.15 | experimental |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 6; `ORC-WP5O6SRVVR.5cb599` |  |
 | Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -7.78 kJ/mol-atom | 298.15 | model |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002 | Table 12, p. 13, row 8; `ORC-U66H6KLTTF.65806e` |  |
 | Fe3Gd | [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.html) | -4.93 kJ/mol-atom | 298.15 | model |  | -3.613 (oqmd-30182) | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 7; `ORC-JJOX6EABNX.62c265` |  |
-| UNKNOWN |  | -11.6 per mol-atom ± 2 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 9; `ORC-FGKIBVFKMX.ce0b6f` |  |
-| UNKNOWN |  | -9.3 per mol-atom ± 1.9 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 6; `ORC-WP5O6SRVVR.306964` |  |
-| UNKNOWN |  | -7.78 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 8; `ORC-U66H6KLTTF.51c215` |  |
-| UNKNOWN |  | -6.81 per mol-atom | 1078 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 14; `ORC-HXPBIXMIXD.8deb2a` |  |
-| UNKNOWN |  | -6.44 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 5; `ORC-GFLCDMFT2S.afccbd` |  |
-| UNKNOWN |  | -5.94 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 11; `ORC-GXB5PU32U5.707e28` |  |
-| UNKNOWN |  | -4.93 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 7; `ORC-JJOX6EABNX.663286` |  |
-| UNKNOWN |  | -4.74 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 4; `ORC-QHUFQDX7VW.43496f` |  |
-| UNKNOWN |  | -4.59 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 10; `ORC-DWSOOBGST7.2e5ba1` |  |
-| UNKNOWN |  | -4.38 per mol-atom | 1078 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 13; `ORC-HN34UL6CGG.cc7c65` |  |
-| UNKNOWN |  | -4.34 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002 | Table 12, p. 13, row 3; `ORC-ST7FDFMX44.193b7b` |  |
-| UNKNOWN |  | -3.65 per mol-atom | 298.15 | model |  |  | [2] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2; `ORC-BWDWD4QDIT.1e01c7` |  |
-| UNKNOWN |  | -3.5 per mol-atom ± 1.5 | 1078 | experimental |  |  | [2] Zinkevich 2002; _cites Deodhar 1975_ | Table 12, p. 13, row 12; `ORC-HMWXYNWIGB.dda405` |  |
-| UNKNOWN |  | -2.3 per mol-atom ± 1.6 | 298.15 | experimental |  |  | [2] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1; `ORC-GULMEPWYY2.12959b` |  |
 
 ## Other properties
 
@@ -347,10 +333,10 @@ Reporting papers the values were read from (a value cited from another work name
 
 ## Please cite
 
-- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
-- R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
-- R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
-- R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Diagrams: calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
+- R. Arróyave, J. Saal, D. Shin, ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
+- R. Arróyave, J. Saal, D. Shin, ORCHID data: umbrella record of the ORCHID datasets (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
 Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
@@ -359,7 +345,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 ```bibtex
 @misc{orchid_literature_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID literature values}},
+  title     = {{ORCHID-Values: thermodynamic and phase-equilibrium values read from the literature}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -370,7 +356,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID calculated binary phase diagrams}},
+  title     = {{ORCHID-Diagrams: calculated binary phase diagrams}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -380,7 +366,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_hulls_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
+  title     = {{ORCHID-Hulls: binary convex hulls (Materials Project, OQMD, assessed CALPHAD)}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
@@ -390,7 +376,7 @@ Version 1, machine-extracted: values were read from papers by language-model rea
 
 @misc{orchid_data_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
-  title     = {{ORCHID data}},
+  title     = {{ORCHID data: umbrella record of the ORCHID datasets}},
   version   = {2026.10},
   publisher = {Zenodo},
   year      = {2026},
