@@ -14,8 +14,8 @@ Table: Phases of the Cr–Ga system (10)
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-cr-ga-a11-orthorhombic); _phase:cr-ga:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–302.91 K, x(Ga) 1–1 | 0 | 2 |
 | [BCC_A2](#phase-cr-ga-bcc-a2); _phase:cr-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2192.58 K, x(Ga) 0–0.15749 | 4 | 2 |
-| [CR3GA_A15](#phase-cr-ga-cr3ga-a15); _phase:cr-ga:cr3ga-a15_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1870.49 K, x(Ga) 0.23–0.25 | 18 | 2 |
-| [CR3GA_BETA](#phase-cr-ga-cr3ga-beta); _phase:cr-ga:cr3ga-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1373.64–1920.44 K, x(Ga) 0.23–0.23 | 5 | 1 |
+| [CR3GA_A15](#phase-cr-ga-cr3ga-a15); _phase:cr-ga:cr3ga-a15_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1870.49 K, x(Ga) 0.23–0.25 | 20 | 2 |
+| [CR3GA_BETA](#phase-cr-ga-cr3ga-beta); _phase:cr-ga:cr3ga-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1373.64–1920.44 K, x(Ga) 0.23–0.23 | 6 | 1 |
 | [CR5GA6](#phase-cr-ga-cr5ga6); _phase:cr-ga:cr5ga6_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1048.12 K, x(Ga) 0.54545–0.567 | 16 | 2 |
 | [CRGA_D810](#phase-cr-ga-crga-d810); _phase:cr-ga:crga-d810_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1009–1179.89 K, x(Ga) 0.5–0.5 | 10 | 2 |
 | [CRGA4](#phase-cr-ga-crga4); _phase:cr-ga:crga4_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–973.43 K, x(Ga) 0.77–0.8 | 13 | 2 |
@@ -108,7 +108,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Cr3Si · cP8 · Pm-3n — CrGa-05Bel.tdb: 'Prototype Cr3Si (cP8, Pm-3n)'
 - Candidate (tdb_comment): Cr3Si · cP8 · Pm-3n — CrGa-99Gro.tdb: 'Prototype Cr3Si (cP8, Pm-3n)'
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1870.49 K, x(Ga) 0.23–0.25
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 20 values (20 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ga:cr3ga-a15)
 
 Names (5): _corpus: _corpus:phase:cr-ga:cr3ga-a15  
@@ -148,7 +148,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (Cr3Ga) — Hallstedt 2025 mmc2 row for CR3GA_BETA: Cr3Ga-beta
 - Stoichiometry: Cr 0.7700, Ga 0.2300
 - Stability: stable in 1 of 1 calculated diagram(s): 1373.64–1920.44 K, x(Ga) 0.23–0.23
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ga:cr3ga-beta)
 
 Names (4): _corpus: _corpus:phase:cr-ga:cr3ga-beta  

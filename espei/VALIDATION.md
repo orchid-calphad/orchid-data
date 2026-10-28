@@ -480,7 +480,7 @@ Not written after the evaluation: 387 datasets (derived_from_excluded_dataset 3,
 | E1 | VA added to `components` (target TDB has a vacancy sublattice; else system TDBs; else metallic system) | 6572 |
 | E2 | line-compound ZPF vertices written with composition null (datasets) | 5973 vertices (1181 datasets; 177 hyperplanes added) |
 | E3 | identical ZPF regions written once (regions removed; datasets left empty and dropped) | 680 (122) |
-| E4 | values read twice from the same printed row, counted once | 1148 |
+| E4 | values read twice from the same printed row, counted once | 1113 |
 | E5 | activity datasets audited / reference state changed to the stated one / literature records listed for correction | 114 / 64 / 84 |
 | E6 | thermochemical datasets whose weight follows sigma_effective (method floors, 2026-10-24): weight lower / higher / unchanged vs 2026-10-23 | 1336: 1244 / 1 / 91 |
 
@@ -510,7 +510,7 @@ Liquid-stability systems: above_a_boiling_point 82, element_not_a_condensed_liqu
 | composition_not_at_compound: compound formation value whose printed composition differs from the compound's formula composition in the target TDB by more than 0.01 | 15 |
 | duplicate_identical_zpf: E3: identical ZPF region (same phases, temperature and compositions) already written from another dataset (another assessment folder or another paper quoting the same invariant); kept once with every source in `also_reported_as` | 680 |
 | duplicate_of_other_dataset: the same published observation (ORCHID id) already supplies this value in another dataset of the folder | 1 |
-| duplicate_read_same_row: E4: the same printed table row read twice (same ORCHID row id `pid`, conditions and value); counted once, the other id kept as `also_read_as` | 1148 |
+| duplicate_read_same_row: E4: the same printed table row read twice (same ORCHID row id `pid`, conditions and value); counted once, the other id kept as `also_read_as` | 1113 |
 | duplicate_value_same_dataset: identical conditions and value under another id in the same dataset (another row or paper quoting the same value): counted once, the other id in `also_read_as` | 22 |
 | espei_evaluation_nonfinite_region: ZPF region with a non-finite driving force against the target TDB (ESPEI 0.9.1 likelihood evaluation); region not written | 52 |
 | evidence_class_mismatch: published evidence class differs from the folder's class (classes are never mixed) | 36 |
@@ -518,13 +518,13 @@ Liquid-stability systems: above_a_boiling_point 82, element_not_a_condensed_liqu
 | gas_without_printed_pressure: ZPF region with a gas phase and no printed pressure | 23 |
 | model_phase_rejected_by_label_check: the record's model phase was rejected by the printed-label check (tools/phase_label_check.py; audit round 2, A2 class 1) | 417 |
 | not_accepted: published with extraction_accepted = false | 46 |
-| not_espei_ready:literature_gate: a literature-level gate (tools/literature_gates.py) marks the published value not_espei_ready or not accepted (e.g. G6 reaction phase / liquid count, a temperature range stored as a point); every such value is excluded | 1141 |
+| not_espei_ready:literature_gate: a literature-level gate (tools/literature_gates.py) marks the published value not_espei_ready or not accepted (e.g. G6 reaction phase / liquid count, a temperature range stored as a point); every such value is excluded | 1246 |
 | phase_not_in_target_tdb: the value's phase has no model in the target TDB (the assessment folder) | 104 |
-| phase_rule:compound_property_not_fittable: physical phase rule: a property of a stoichiometric compound that ESPEI 0.9.1 cannot fit (only HM_FORM / SM_FORM of endmembers) | 703 |
+| phase_rule:compound_property_not_fittable: physical phase rule: a property of a stoichiometric compound that ESPEI 0.9.1 cannot fit (only HM_FORM / SM_FORM of endmembers) | 701 |
 | phase_rule:liquid_impossible_at_T: physical phase rule: liquid printed at a temperature below the lowest possible liquid temperature of the system | 3 |
 | phase_rule:not_espei_ready: the published value is not espei_ready | 294 |
 | phase_rule:phase_label_ambiguous: physical phase rule: the printed label maps to several registry phases | 147 |
-| phase_rule:phase_label_not_mapped: physical phase rule: the printed phase label is not mapped to a model phase by the phase registry | 685 |
+| phase_rule:phase_label_not_mapped: physical phase rule: the printed phase label is not mapped to a model phase by the phase registry | 617 |
 | phase_rule:phase_not_printed: physical phase rule: no phase printed for the value and the caption does not name the liquid (no default phase is assigned) | 7 |
 | phase_rule:temperature_implausible: physical phase rule: the temperature is zero, a composition, or (phase equilibria) below 0.25 x the lowest element melting point | 22 |
 | phase_several_models_in_target_tdb: the value's registry phase has several models in the target TDB | 1 |
@@ -569,7 +569,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped`: 1
 - `not_accepted;temperature_differs_from_release`: 1
 - `not_accepted;value_differs_from_release`: 2
-- `not_espei_ready:literature_gate`: 155
+- `not_espei_ready:literature_gate`: 192
 - `not_espei_ready:literature_gate;phase_not_in_target_tdb`: 4
 - `not_espei_ready:literature_gate;phase_not_in_target_tdb;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped`: 1
 - `not_espei_ready:literature_gate;phase_not_in_target_tdb;phase_rule:phase_label_not_mapped`: 1
@@ -581,7 +581,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `not_espei_ready:literature_gate;zpf_region_inert`: 11
 - `phase_not_in_target_tdb`: 35
 - `phase_not_in_target_tdb;phase_rule:phase_label_not_mapped`: 4
-- `phase_rule:compound_property_not_fittable`: 277
+- `phase_rule:compound_property_not_fittable`: 275
 - `phase_rule:compound_property_not_fittable;phase_rule:phase_label_ambiguous`: 1
 - `phase_rule:compound_property_not_fittable;phase_rule:phase_label_not_mapped`: 4
 - `phase_rule:liquid_impossible_at_T`: 1
@@ -590,7 +590,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `phase_rule:phase_label_ambiguous`: 64
 - `phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped`: 7
 - `phase_rule:phase_label_ambiguous;reference_state_not_ser`: 4
-- `phase_rule:phase_label_not_mapped`: 282
+- `phase_rule:phase_label_not_mapped`: 247
 - `phase_rule:phase_label_not_mapped;phase_several_models_in_target_tdb`: 1
 - `phase_rule:phase_label_not_mapped;reference_phase_not_in_target_tdb`: 5
 - `phase_rule:phase_not_printed`: 1
@@ -602,7 +602,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `value_differs_from_release`: 53
 - `zpf_region_inert`: 237
 
-Datasets kept with some values removed: **1232** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 13250 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
+Datasets kept with some values removed: **1232** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 13145 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
 
 ## DFT endmember datasets
 

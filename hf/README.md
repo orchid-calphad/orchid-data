@@ -420,7 +420,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 73542
-  download_size: 7972902
+  download_size: 7973466
 - config_name: papers
   features:
   - name: id

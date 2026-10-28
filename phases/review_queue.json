@@ -29877,7 +29877,7 @@
      "detail": "CrGa-99Gro.tdb: 'Prototype Cr3Si (cP8, Pm-3n)'"
     }
    ],
-   "literature_values": 18
+   "literature_values": 20
   },
   {
    "id": "phase:cr-ga:cr3ga-beta",
@@ -29905,7 +29905,7 @@
      "detail": "Hallstedt 2025 mmc2 row for CR3GA_BETA: Cr3Ga-beta"
     }
    ],
-   "literature_values": 5
+   "literature_values": 6
   },
   {
    "id": "phase:cr-ga:cr5ga6",

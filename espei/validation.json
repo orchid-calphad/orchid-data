@@ -10003,7 +10003,7 @@
   {
    "source": "general/espei-model/CoZn-04Vas-LB/cpm-model-19.json",
    "reason": [
-    "phase_rule:compound_property_not_fittable"
+    "not_espei_ready:literature_gate"
    ],
    "values": 2
   },
@@ -10073,7 +10073,7 @@
   {
    "source": "general/espei-model/CoZn-04Vas-LB/cpm-model-39.json",
    "reason": [
-    "phase_rule:compound_property_not_fittable"
+    "not_espei_ready:literature_gate"
    ],
    "values": 1
   },
@@ -10423,245 +10423,245 @@
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-00.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-02.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-04.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-06.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-08.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-10.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-12.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-14.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-16.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-18.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-20.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-22.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-24.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-26.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-28.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 1
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-30.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-32.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-34.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-36.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-38.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-40.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-42.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-44.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-46.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-48.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-50.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-52.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-54.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-56.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-58.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-60.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-62.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-64.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-66.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 3
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-69.json",
    "reason": [
-    "phase_rule:phase_label_not_mapped"
+    "not_espei_ready:literature_gate"
    ],
    "values": 2
   },
@@ -38182,15 +38182,14 @@
   },
   {
    "source": "general/espei-model/CoZn-04Vas-LB/cpm-model-19.json",
-   "index": 1,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-53QNG5X44B.b23ddb",
-   "same_as": "ORC-53QNG5X44B.b23ddb"
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-53QNG5X44B.b23ddb"
   },
   {
    "source": "general/espei-model/CoZn-04Vas-LB/cpm-model-19.json",
-   "index": 0,
-   "reason": "phase_rule:compound_property_not_fittable",
+   "index": 1,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-53QNG5X44B.b23ddb"
   },
   {
@@ -38250,7 +38249,7 @@
   {
    "source": "general/espei-model/CoZn-04Vas-LB/cpm-model-39.json",
    "index": 0,
-   "reason": "phase_rule:compound_property_not_fittable",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-K7MWY2UOKW.0836f5"
   },
   {
@@ -39490,648 +39489,614 @@
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-00.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-WSSF4NN6NZ.14d3fd",
-   "same_as": "ORC-WSSF4NN6NZ.14d3fd"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-00.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-DXUMFYIL4B.3cbb1b"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-00.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-WSSF4NN6NZ.14d3fd"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-00.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-WSSF4NN6NZ.14d3fd"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-02.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-TKEXGOLJ4I.8c337e",
-   "same_as": "ORC-TKEXGOLJ4I.8c337e"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-02.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-GAGYBNWQIZ.d2ca24"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-02.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-TKEXGOLJ4I.8c337e"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-02.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-TKEXGOLJ4I.8c337e"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-04.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-DVHHHG6QVP.29df31",
-   "same_as": "ORC-DVHHHG6QVP.29df31"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-04.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-F2AOB5ICTT.e7e86b"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-04.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-DVHHHG6QVP.29df31"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-04.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-DVHHHG6QVP.29df31"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-06.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-GDV23SHMP3.d2c430",
-   "same_as": "ORC-GDV23SHMP3.d2c430"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-06.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-5WK4JUOZ63.0ad2a4"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-06.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-GDV23SHMP3.d2c430"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-06.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-GDV23SHMP3.d2c430"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-08.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-R2YON25D4Z.032e0d",
-   "same_as": "ORC-R2YON25D4Z.032e0d"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-08.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-PXRLTJVWNZ.02987a"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-08.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-R2YON25D4Z.032e0d"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-08.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-R2YON25D4Z.032e0d"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-10.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-ZEMKVUJYKH.63315c",
-   "same_as": "ORC-ZEMKVUJYKH.63315c"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-10.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-PRKQB6RJW5.a89dc4"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-10.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-ZEMKVUJYKH.63315c"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-10.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-ZEMKVUJYKH.63315c"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-12.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-44I2LQBPEM.b8ed0b",
-   "same_as": "ORC-44I2LQBPEM.b8ed0b"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-12.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-23UPYO277F.5d558c"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-12.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-44I2LQBPEM.b8ed0b"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-12.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-44I2LQBPEM.b8ed0b"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-14.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-N3Z7LUQP4X.fbe1cb",
-   "same_as": "ORC-N3Z7LUQP4X.fbe1cb"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-14.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-5JY5ODZYFS.bafe69"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-14.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-N3Z7LUQP4X.fbe1cb"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-14.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-N3Z7LUQP4X.fbe1cb"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-16.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-RB6L7JTWML.3dd974",
-   "same_as": "ORC-RB6L7JTWML.3dd974"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-16.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-FW6B24RNYV.d60d9c"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-16.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-RB6L7JTWML.3dd974"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-16.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-RB6L7JTWML.3dd974"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-18.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-BFTRH6NCEV.2483ef",
-   "same_as": "ORC-BFTRH6NCEV.2483ef"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-18.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-N5SYCOIDLA.bffd1e"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-18.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-BFTRH6NCEV.2483ef"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-18.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-BFTRH6NCEV.2483ef"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-20.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-6WINAJFBA4.b84e2c",
-   "same_as": "ORC-6WINAJFBA4.b84e2c"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-20.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-VGMIY77WM6.bbd450"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-20.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-6WINAJFBA4.b84e2c"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-20.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-6WINAJFBA4.b84e2c"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-22.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-E3NDWEIGTF.97c000",
-   "same_as": "ORC-E3NDWEIGTF.97c000"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-22.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-LFFLJIKTEY.b2a207"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-22.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-E3NDWEIGTF.97c000"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-22.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-E3NDWEIGTF.97c000"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-24.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-3OZ5J2G74S.1fc778",
-   "same_as": "ORC-3OZ5J2G74S.1fc778"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-24.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-GN2UPTFFIZ.2a69a7"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-24.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-3OZ5J2G74S.1fc778"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-24.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-3OZ5J2G74S.1fc778"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-26.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-FNZ4DJJABX.a6d7fa",
-   "same_as": "ORC-FNZ4DJJABX.a6d7fa"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-26.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-FGUYGU7ZQR.4c3793"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-26.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-FNZ4DJJABX.a6d7fa"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-26.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-FNZ4DJJABX.a6d7fa"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-28.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-FGA677SMEP.1d8a8f"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-30.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-4SNGVZBIJR.26590e",
-   "same_as": "ORC-4SNGVZBIJR.26590e"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-30.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-DVA27VY7ZS.14b0a3"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-30.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-4SNGVZBIJR.26590e"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-30.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-4SNGVZBIJR.26590e"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-32.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-GLP3WJJQL6.26da1a",
-   "same_as": "ORC-GLP3WJJQL6.26da1a"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-32.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-J5QFYPYIUP.404333"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-32.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-GLP3WJJQL6.26da1a"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-32.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-GLP3WJJQL6.26da1a"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-34.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-HJKM4D66BC.10888f",
-   "same_as": "ORC-HJKM4D66BC.10888f"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-34.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-TOQCHKTD7O.e3da38"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-34.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-HJKM4D66BC.10888f"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-34.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-HJKM4D66BC.10888f"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-36.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-46XTUJVEVH.b5fa86",
-   "same_as": "ORC-46XTUJVEVH.b5fa86"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-36.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-CRVVQKGW6A.511bf7"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-36.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-46XTUJVEVH.b5fa86"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-36.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-46XTUJVEVH.b5fa86"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-38.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-XUQJHX6LBW.df65b3",
-   "same_as": "ORC-XUQJHX6LBW.df65b3"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-38.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-VOSWRFAYPZ.062e1c"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-38.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-XUQJHX6LBW.df65b3"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-38.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-XUQJHX6LBW.df65b3"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-40.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-NECXTTXU4O.f9cf36",
-   "same_as": "ORC-NECXTTXU4O.f9cf36"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-40.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-6SFAYU2VIO.c9900c"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-40.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-NECXTTXU4O.f9cf36"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-40.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-NECXTTXU4O.f9cf36"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-42.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-FZ5GZXGJ2Z.d43c09",
-   "same_as": "ORC-FZ5GZXGJ2Z.d43c09"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-42.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-PW5HEQL2XT.fd9d04"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-42.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-FZ5GZXGJ2Z.d43c09"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-42.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-FZ5GZXGJ2Z.d43c09"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-44.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-IKVT4DWICY.3b6d6c",
-   "same_as": "ORC-IKVT4DWICY.3b6d6c"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-44.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-F5PDSDC43S.b9a864"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-44.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-IKVT4DWICY.3b6d6c"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-44.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-IKVT4DWICY.3b6d6c"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-46.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-64PAQO243D.9eb6ef",
-   "same_as": "ORC-64PAQO243D.9eb6ef"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-46.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-L4HOWXXXPY.0cd4d1"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-46.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-64PAQO243D.9eb6ef"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-46.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-64PAQO243D.9eb6ef"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-48.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-XB2AWHAQXQ.c6400d",
-   "same_as": "ORC-XB2AWHAQXQ.c6400d"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-48.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-WHJM7EAVNH.8ea395"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-48.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-XB2AWHAQXQ.c6400d"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-48.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-XB2AWHAQXQ.c6400d"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-50.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-2ZQOVYHIZN.0914a7",
-   "same_as": "ORC-2ZQOVYHIZN.0914a7"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-50.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-VXXK6LJJZV.131798"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-50.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-2ZQOVYHIZN.0914a7"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-50.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-2ZQOVYHIZN.0914a7"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-52.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-AM65INQKVT.f2819f",
-   "same_as": "ORC-AM65INQKVT.f2819f"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-52.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-6IMBDWNHC7.9e84b2"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-52.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-AM65INQKVT.f2819f"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-52.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-AM65INQKVT.f2819f"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-54.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-QCFGY6WBNJ.13c648",
-   "same_as": "ORC-QCFGY6WBNJ.13c648"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-54.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-OSHFV4KQTC.c5c76a"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-54.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-QCFGY6WBNJ.13c648"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-54.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-QCFGY6WBNJ.13c648"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-56.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-LBXNTOMJFT.fe9c2b",
-   "same_as": "ORC-LBXNTOMJFT.fe9c2b"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-56.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-N6AFKNI5UU.f8ebea"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-56.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-LBXNTOMJFT.fe9c2b"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-56.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-LBXNTOMJFT.fe9c2b"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-58.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-AXFJ64KD2C.65a25e",
-   "same_as": "ORC-AXFJ64KD2C.65a25e"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-58.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-67USMY7AYL.9dd19b"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-58.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-AXFJ64KD2C.65a25e"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-58.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-AXFJ64KD2C.65a25e"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-60.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-WDFTYZILZ6.257cfc",
-   "same_as": "ORC-WDFTYZILZ6.257cfc"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-60.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-VJ6LCS6IXI.bbb86f"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-60.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-WDFTYZILZ6.257cfc"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-60.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-WDFTYZILZ6.257cfc"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-62.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-76UXK2A4VN.ed8c20",
-   "same_as": "ORC-76UXK2A4VN.ed8c20"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-62.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-BLVT7QUBEQ.3873ff"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-62.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-76UXK2A4VN.ed8c20"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-62.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-76UXK2A4VN.ed8c20"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-64.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-BSGJPO5DYV.28a485",
-   "same_as": "ORC-BSGJPO5DYV.28a485"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-64.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-HYI32PTQYW.47905b"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-64.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-BSGJPO5DYV.28a485"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-64.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-BSGJPO5DYV.28a485"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-66.json",
-   "index": 2,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-CSKRGNO5G6.b7b330",
-   "same_as": "ORC-CSKRGNO5G6.b7b330"
-  },
-  {
-   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-66.json",
    "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-Q44ZAZSBUX.62b865"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-66.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-CSKRGNO5G6.b7b330"
+  },
+  {
+   "source": "general/espei-model/FeO-91Sun-LB/cpm-model-66.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-CSKRGNO5G6.b7b330"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-69.json",
-   "index": 1,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-IQSKWRPCUO.13621b",
-   "same_as": "ORC-IQSKWRPCUO.13621b"
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-IQSKWRPCUO.13621b"
   },
   {
    "source": "general/espei-model/FeO-91Sun-LB/cpm-model-69.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
+   "index": 1,
+   "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-IQSKWRPCUO.13621b"
   },
   {
@@ -150537,7 +150502,7 @@
    "E2_hyperplanes_added": 177,
    "E3_regions_removed": 680,
    "E3_datasets_emptied_and_dropped": 122,
-   "E4_values_removed": 1148,
+   "E4_values_removed": 1113,
    "E5_activity_datasets_audited": 114,
    "E5_reference_state_changed": 64,
    "E5_basis": {
@@ -164156,12 +164121,6 @@
     "dataset": "general/espei-model/CoZn-04Vas-LB/cpm-model-17.json"
    },
    {
-    "kept_id": "ORC-53QNG5X44B.b23ddb",
-    "duplicate_id": "ORC-53QNG5X44B.b23ddb",
-    "pid": "doi:10.1361/15477030419522/p9/tab-6/r20#equilibrium_property",
-    "dataset": "general/espei-model/CoZn-04Vas-LB/cpm-model-19.json"
-   },
-   {
     "kept_id": "ORC-A7G2RD45AU.217d01",
     "duplicate_id": "ORC-A7G2RD45AU.217d01",
     "pid": "doi:10.1361/15477030419522/p9/tab-6/r11#equilibrium_property",
@@ -164724,210 +164683,6 @@
     "duplicate_id": "ORC-5HJJYFZRTZ.983636",
     "pid": "doi:10.1016/j.jallcom.2017.07.129/p7/tab-5/r26#equilibrium_property",
     "dataset": "general/espei-model/ErGe-17Ach/smr-model-16.json"
-   },
-   {
-    "kept_id": "ORC-WSSF4NN6NZ.14d3fd",
-    "duplicate_id": "ORC-WSSF4NN6NZ.14d3fd",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r01#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-00.json"
-   },
-   {
-    "kept_id": "ORC-TKEXGOLJ4I.8c337e",
-    "duplicate_id": "ORC-TKEXGOLJ4I.8c337e",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r02#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-02.json"
-   },
-   {
-    "kept_id": "ORC-DVHHHG6QVP.29df31",
-    "duplicate_id": "ORC-DVHHHG6QVP.29df31",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r03#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-04.json"
-   },
-   {
-    "kept_id": "ORC-GDV23SHMP3.d2c430",
-    "duplicate_id": "ORC-GDV23SHMP3.d2c430",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r04#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-06.json"
-   },
-   {
-    "kept_id": "ORC-R2YON25D4Z.032e0d",
-    "duplicate_id": "ORC-R2YON25D4Z.032e0d",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r05#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-08.json"
-   },
-   {
-    "kept_id": "ORC-ZEMKVUJYKH.63315c",
-    "duplicate_id": "ORC-ZEMKVUJYKH.63315c",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r06#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-10.json"
-   },
-   {
-    "kept_id": "ORC-44I2LQBPEM.b8ed0b",
-    "duplicate_id": "ORC-44I2LQBPEM.b8ed0b",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r07#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-12.json"
-   },
-   {
-    "kept_id": "ORC-N3Z7LUQP4X.fbe1cb",
-    "duplicate_id": "ORC-N3Z7LUQP4X.fbe1cb",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r08#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-14.json"
-   },
-   {
-    "kept_id": "ORC-RB6L7JTWML.3dd974",
-    "duplicate_id": "ORC-RB6L7JTWML.3dd974",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r09#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-16.json"
-   },
-   {
-    "kept_id": "ORC-BFTRH6NCEV.2483ef",
-    "duplicate_id": "ORC-BFTRH6NCEV.2483ef",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r10#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-18.json"
-   },
-   {
-    "kept_id": "ORC-6WINAJFBA4.b84e2c",
-    "duplicate_id": "ORC-6WINAJFBA4.b84e2c",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r11#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-20.json"
-   },
-   {
-    "kept_id": "ORC-E3NDWEIGTF.97c000",
-    "duplicate_id": "ORC-E3NDWEIGTF.97c000",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r13#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-22.json"
-   },
-   {
-    "kept_id": "ORC-3OZ5J2G74S.1fc778",
-    "duplicate_id": "ORC-3OZ5J2G74S.1fc778",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r14#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-24.json"
-   },
-   {
-    "kept_id": "ORC-FNZ4DJJABX.a6d7fa",
-    "duplicate_id": "ORC-FNZ4DJJABX.a6d7fa",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r15#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-26.json"
-   },
-   {
-    "kept_id": "ORC-4SNGVZBIJR.26590e",
-    "duplicate_id": "ORC-4SNGVZBIJR.26590e",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r16#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-30.json"
-   },
-   {
-    "kept_id": "ORC-GLP3WJJQL6.26da1a",
-    "duplicate_id": "ORC-GLP3WJJQL6.26da1a",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r17#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-32.json"
-   },
-   {
-    "kept_id": "ORC-HJKM4D66BC.10888f",
-    "duplicate_id": "ORC-HJKM4D66BC.10888f",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r18#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-34.json"
-   },
-   {
-    "kept_id": "ORC-46XTUJVEVH.b5fa86",
-    "duplicate_id": "ORC-46XTUJVEVH.b5fa86",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r19#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-36.json"
-   },
-   {
-    "kept_id": "ORC-XUQJHX6LBW.df65b3",
-    "duplicate_id": "ORC-XUQJHX6LBW.df65b3",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r20#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-38.json"
-   },
-   {
-    "kept_id": "ORC-NECXTTXU4O.f9cf36",
-    "duplicate_id": "ORC-NECXTTXU4O.f9cf36",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r21#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-40.json"
-   },
-   {
-    "kept_id": "ORC-FZ5GZXGJ2Z.d43c09",
-    "duplicate_id": "ORC-FZ5GZXGJ2Z.d43c09",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r22#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-42.json"
-   },
-   {
-    "kept_id": "ORC-IKVT4DWICY.3b6d6c",
-    "duplicate_id": "ORC-IKVT4DWICY.3b6d6c",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r23#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-44.json"
-   },
-   {
-    "kept_id": "ORC-64PAQO243D.9eb6ef",
-    "duplicate_id": "ORC-64PAQO243D.9eb6ef",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r24#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-46.json"
-   },
-   {
-    "kept_id": "ORC-XB2AWHAQXQ.c6400d",
-    "duplicate_id": "ORC-XB2AWHAQXQ.c6400d",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r25#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-48.json"
-   },
-   {
-    "kept_id": "ORC-2ZQOVYHIZN.0914a7",
-    "duplicate_id": "ORC-2ZQOVYHIZN.0914a7",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r26#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-50.json"
-   },
-   {
-    "kept_id": "ORC-AM65INQKVT.f2819f",
-    "duplicate_id": "ORC-AM65INQKVT.f2819f",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r27#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-52.json"
-   },
-   {
-    "kept_id": "ORC-QCFGY6WBNJ.13c648",
-    "duplicate_id": "ORC-QCFGY6WBNJ.13c648",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r28#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-54.json"
-   },
-   {
-    "kept_id": "ORC-LBXNTOMJFT.fe9c2b",
-    "duplicate_id": "ORC-LBXNTOMJFT.fe9c2b",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r29#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-56.json"
-   },
-   {
-    "kept_id": "ORC-AXFJ64KD2C.65a25e",
-    "duplicate_id": "ORC-AXFJ64KD2C.65a25e",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r30#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-58.json"
-   },
-   {
-    "kept_id": "ORC-WDFTYZILZ6.257cfc",
-    "duplicate_id": "ORC-WDFTYZILZ6.257cfc",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r31#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-60.json"
-   },
-   {
-    "kept_id": "ORC-76UXK2A4VN.ed8c20",
-    "duplicate_id": "ORC-76UXK2A4VN.ed8c20",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r32#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-62.json"
-   },
-   {
-    "kept_id": "ORC-BSGJPO5DYV.28a485",
-    "duplicate_id": "ORC-BSGJPO5DYV.28a485",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r33#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-64.json"
-   },
-   {
-    "kept_id": "ORC-CSKRGNO5G6.b7b330",
-    "duplicate_id": "ORC-CSKRGNO5G6.b7b330",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r34#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-66.json"
-   },
-   {
-    "kept_id": "ORC-IQSKWRPCUO.13621b",
-    "duplicate_id": "ORC-IQSKWRPCUO.13621b",
-    "pid": "doi:10.1007/bf02645709/p9/tab-3/r12#equilibrium_property",
-    "dataset": "general/espei-model/FeO-91Sun-LB/cpm-model-69.json"
    },
    {
     "kept_id": "ORC-WSSF4NN6NZ.8d3ef1",
@@ -167900,7 +167655,7 @@
    "not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 1,
    "not_accepted;temperature_differs_from_release": 1,
    "not_accepted;value_differs_from_release": 2,
-   "not_espei_ready:literature_gate": 155,
+   "not_espei_ready:literature_gate": 192,
    "not_espei_ready:literature_gate;phase_not_in_target_tdb": 4,
    "not_espei_ready:literature_gate;phase_not_in_target_tdb;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 1,
    "not_espei_ready:literature_gate;phase_not_in_target_tdb;phase_rule:phase_label_not_mapped": 1,
@@ -167912,7 +167667,7 @@
    "not_espei_ready:literature_gate;zpf_region_inert": 11,
    "phase_not_in_target_tdb": 35,
    "phase_not_in_target_tdb;phase_rule:phase_label_not_mapped": 4,
-   "phase_rule:compound_property_not_fittable": 277,
+   "phase_rule:compound_property_not_fittable": 275,
    "phase_rule:compound_property_not_fittable;phase_rule:phase_label_ambiguous": 1,
    "phase_rule:compound_property_not_fittable;phase_rule:phase_label_not_mapped": 4,
    "phase_rule:liquid_impossible_at_T": 1,
@@ -167921,7 +167676,7 @@
    "phase_rule:phase_label_ambiguous": 64,
    "phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 7,
    "phase_rule:phase_label_ambiguous;reference_state_not_ser": 4,
-   "phase_rule:phase_label_not_mapped": 282,
+   "phase_rule:phase_label_not_mapped": 247,
    "phase_rule:phase_label_not_mapped;phase_several_models_in_target_tdb": 1,
    "phase_rule:phase_label_not_mapped;reference_phase_not_in_target_tdb": 5,
    "phase_rule:phase_not_printed": 1,
@@ -167945,7 +167700,7 @@
    "composition_not_at_compound": 15,
    "duplicate_identical_zpf": 680,
    "duplicate_of_other_dataset": 1,
-   "duplicate_read_same_row": 1148,
+   "duplicate_read_same_row": 1113,
    "duplicate_value_same_dataset": 22,
    "espei_evaluation_nonfinite_region": 52,
    "evidence_class_mismatch": 36,
@@ -167953,13 +167708,13 @@
    "gas_without_printed_pressure": 23,
    "model_phase_rejected_by_label_check": 417,
    "not_accepted": 46,
-   "not_espei_ready:literature_gate": 1141,
+   "not_espei_ready:literature_gate": 1246,
    "phase_not_in_target_tdb": 104,
-   "phase_rule:compound_property_not_fittable": 703,
+   "phase_rule:compound_property_not_fittable": 701,
    "phase_rule:liquid_impossible_at_T": 3,
    "phase_rule:not_espei_ready": 294,
    "phase_rule:phase_label_ambiguous": 147,
-   "phase_rule:phase_label_not_mapped": 685,
+   "phase_rule:phase_label_not_mapped": 617,
    "phase_rule:phase_not_printed": 7,
    "phase_rule:temperature_implausible": 22,
    "phase_several_models_in_target_tdb": 1,
@@ -167984,7 +167739,7 @@
   },
   "reader_agreement_source": "release",
   "observation_match": {
-   "id": 13250
+   "id": 13145
   },
   "datasets_with_espei_evaluation": 0,
   "dft_candidates": {
@@ -168019,7 +167774,7 @@
    "E2_hyperplanes_added": 177,
    "E3_regions_removed": 680,
    "E3_datasets_emptied_and_dropped": 122,
-   "E4_values_removed": 1148,
+   "E4_values_removed": 1113,
    "E5_activity_datasets_audited": 114,
    "E5_reference_state_changed": 64,
    "E5_basis": {

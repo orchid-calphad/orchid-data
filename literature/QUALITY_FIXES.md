@@ -1874,9 +1874,9 @@ Every value was checked against its table, its paper, the physics of its quantit
 | extraction_accepted | 76600 | 65284 |
 | espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 12980 |
 | records with corrections | | 15528 |
-| records with gate failures | | 12067 |
-| page-check ledger entries (tools/literature_visual_checks.json) | | 3152 |
-| page-check keys looked up by the gates (table entries expanded to rows) | | 3193 |
+| records with gate failures | | 12177 |
+| page-check ledger entries (tools/literature_visual_checks.json) | | 3262 |
+| page-check keys looked up by the gates (table entries expanded to rows) | | 3303 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -2040,6 +2040,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `measurement_temperature_various` | flagged | 20 |
 | page page checks (visual) | `metastable_state` | flagged | 16 |
 | page page checks (visual) | `misread_on_page` | demoted | 88 |
+| page page checks (visual) | `model_property_outside_stable_phase_range` | flagged | 6 |
 | page page checks (visual) | `molar_basis_unverified` | flagged | 9 |
 | page page checks (visual) | `mutually_inconsistent` | flagged | 10 |
 | page page checks (visual) | `oxygen_stoichiometry_unspecified` | flagged | 30 |
@@ -2074,6 +2075,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `phase_list_misread_corrected` | corrected | 28 |
 | page page checks (visual) | `pressure_1_atm_withdrawn` | corrected | 5 |
 | page page checks (visual) | `pressure_not_1_atm_on_page` | flagged | 5 |
+| page page checks (visual) | `printed_temperature_mismatch` | flagged | 2 |
 | page page checks (visual) | `record_not_on_page` | flagged | 2 |
 | page page checks (visual) | `reference_state_converted_to_ser` | flagged | 6 |
 | page page checks (visual) | `row_basis_contradicts_column_header` | flagged | 15 |
@@ -2085,6 +2087,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `temperature_not_printed` | flagged | 20 |
 | page page checks (visual) | `temperature_range_midpoint_stored_as_kelvin` | flagged | 18 |
 | page page checks (visual) | `transformation_enthalpy_requires_reaction_basis` | flagged | 6 |
+| page page checks (visual) | `transition_spanning_series_requires_segmentation` | flagged | 102 |
 | page page checks (visual) | `unit_inconsistent_with_figure_on_page` | flagged | 9 |
 | page page checks (visual) | `unit_scale_inconsistent_on_page` | flagged | 5 |
 | page page checks (visual) | `unsigned_magnitude_in_print` | flagged | 15 |
@@ -2113,7 +2116,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | evidence_table | experimental_own | 2 |
 | evidence_table | mixed | 4 |
 | evidence_table | model | 2 |
-| flag | confirmed | 900 |
+| flag | confirmed | 1010 |
 | flag_precision_sample | false_positive | 5 |
 | flag_precision_sample | true_positive | 15 |
 | invariant_table | checked | 160 |

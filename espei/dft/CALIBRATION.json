@@ -24,7 +24,7 @@
    "above_hull": "lowest DFT entry at the composition lies more than 1 meV/atom (0.0965 kJ/mol-atom, the numerical precision of the DFT energies) above the hull"
   }
  },
- "pairs_release": "dft_parity.json inputs literature sha256 06ad9a91e0aabb50d71685b26d60d3709b25cebbb9956c4da14d4ef3c4f4f8db",
+ "pairs_release": "dft_parity.json inputs literature sha256 705c6095d809da7b2e10fa024ed94005fd86b77159bb8ff7c93eab1a8f7b91b9",
  "sources": {
   "literature": {
    "all": {

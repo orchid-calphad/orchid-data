@@ -21,7 +21,7 @@
  ],
  "exclude": [],
  "n_files": 14,
- "total_bytes": 6741987,
+ "total_bytes": 6742254,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -60,13 +60,13 @@
   },
   {
    "path": "literature/QUALITY_FIXES.md",
-   "bytes": 271288,
-   "sha256": "5b41d1a30b7a244756902c8c6a9155a693a915d81b699674e0e6d4373cdf3b81"
+   "bytes": 271555,
+   "sha256": "312f670f361b268fb7142bf3fe7cbcc55aaad3fd8115a8637b6ae987e6bac108"
   },
   {
    "path": "literature/dft_parity.json",
    "bytes": 6060836,
-   "sha256": "2e50cc1023ce24d0a3834b99d72407b90ef64ac0268773407fee0741f474f415"
+   "sha256": "350a39cba2c7ee6735d219e72edd3665936072a87ebc1c835b97b0ef19a5087f"
   },
   {
    "path": "literature/kim2017_crosscheck.json",
@@ -81,7 +81,7 @@
   {
    "path": "parquet/MANIFEST.json",
    "bytes": 26103,
-   "sha256": "d2cf9bff42195114693718682033f59b4d3a20794efee1514f8e10dda326747c"
+   "sha256": "d62b35215d399feec1dcab3ad1b12691672a6ce15c03db796ee17b3cce19c1ea"
   },
   {
    "path": "parquet/dft_parity.parquet",

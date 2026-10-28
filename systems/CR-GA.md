@@ -158,9 +158,9 @@ Table: Heat capacity / entropy / enthalpy, Cr–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat content; _printed: Enthalpy of heating_ | 31390 J/mol | 810.65 | Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 5; `ORC-V35LLF2C3L` |  |
-| Heat content; _printed: Enthalpy of heating_ | 34900 J/mol | 860.65 | Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 2, p. 3, row 4; `ORC-Q2Y4GNQN2Z` |  |
-| Heat content; _printed: Enthalpy of heating_ | 31390 J/mol | 1323.15 | Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 1; `ORC-IQR7EIJLTI` |  |
+| Heat content; _printed: Enthalpy of heating_ | 31390 J/mol | 810.65 | α-Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 5; `ORC-V35LLF2C3L` |  |
+| Heat content; _printed: Enthalpy of heating_ | 34900 J/mol | 860.65 | β-Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 2, p. 3, row 4; `ORC-Q2Y4GNQN2Z` |  |
+| Heat content; _printed: Enthalpy of heating_ | 31390 J/mol | 1323.15 | α-Cr3Ga; _alloy: Ga 0.25_ | experimental | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 1; `ORC-IQR7EIJLTI` |  |
 
 ## Sources
 

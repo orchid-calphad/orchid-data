@@ -16,7 +16,7 @@
  ],
  "exclude": [],
  "n_files": 8618,
- "total_bytes": 73529976,
+ "total_bytes": 73516596,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -100,13 +100,13 @@
   },
   {
    "path": "espei/UPSTREAM_CORRECTIONS.md",
-   "bytes": 146625,
-   "sha256": "9e4de6b37b799d1f6cced729a04ee8c9ce349f45838ee24cebd469eecf666f6f"
+   "bytes": 142806,
+   "sha256": "9bb88b699f663b2410214a6652cd9bea8af3dcf26a361f7fc24d915207f4f331"
   },
   {
    "path": "espei/VALIDATION.md",
    "bytes": 66791,
-   "sha256": "dde0e8b2ac18f6fc9b0213b7809c2de0201e489ac2a9b2f2ac7258fba33271e7"
+   "sha256": "d1c5c88ddb9c06c8f865aac8c9377cb4e14690a6050fd0c91c7248a379fefb69"
   },
   {
    "path": "espei/assessed/AG-AL/AgAl-04Wit.AG-AL-p46.json",
@@ -10801,12 +10801,12 @@
   {
    "path": "espei/dft/CALIBRATION.json",
    "bytes": 277172,
-   "sha256": "aa107caac8256f550b9bf6f05e765329d41dd87d425a1e2a0ac3518a72d7686e"
+   "sha256": "dcdf3409655ed996bc8cc5a62c9c6b161295df4dfe10915276ccb79cefb7e5a5"
   },
   {
    "path": "espei/dft/CALIBRATION.md",
    "bytes": 11255,
-   "sha256": "c84ca55b40779771002a551e673411440990ac1777b3370e1c064a25ca41712d"
+   "sha256": "0bb2f2b5734947e1e78e7ddff5f4ffd5d93650784dd864bcc2a1cc3aa63f734a"
   },
   {
    "path": "espei/dft/literature/AG-DY/AgDy-10Lon.AG2DY_C11B.json",
@@ -32841,7 +32841,7 @@
   {
    "path": "espei/index.json",
    "bytes": 11572993,
-   "sha256": "79605c32d0d19c7316b5bfd1568ce138db6b0aa7f6188d5a51d104950cb44a19"
+   "sha256": "d310201748fcd2e42e2c6d137420986b643e8acfe7fba40b8d970a6501d24900"
   },
   {
    "path": "espei/invariants/AG-AL/AgAl-04Wit.zpf-00.json",
@@ -43100,8 +43100,8 @@
   },
   {
    "path": "espei/validation.json",
-   "bytes": 4385344,
-   "sha256": "cebce3566d8571ccd9f620596893ddd3b797675ce7a639311b4a0ef0df2d8c79"
+   "bytes": 4375783,
+   "sha256": "c49fc2301ce7cf145a3fd404ab742c73a2993d5804b67f8d66bf425abf89becd"
   },
   {
    "path": "zenodo/espei.metadata.json",
