@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Co2Y
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -22.76 | kJ/mol-atom | 1.33 | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
-| -19.29 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -19.29 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## DFT formation energies
 

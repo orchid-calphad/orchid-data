@@ -34,7 +34,7 @@ Table: Uncertainty budget of the literature values of Ge12Li7
 | -21.9 | kJ/mol-atom | 1.3 | 5.000e-5 | 4.1 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 4.1 |
 | -26.664 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -20.819 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -20.006 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -20.006 | kJ/mol-atom |  | 5.000e-4 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

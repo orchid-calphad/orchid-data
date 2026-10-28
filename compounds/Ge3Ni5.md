@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Ge3Ni5
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -37 | kJ/mol-atom |  | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
-| -33.8 | kJ/mol-atom |  | 0.05 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -33.8 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## DFT formation energies
 

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of AuLa2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -56.6 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -56.6 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

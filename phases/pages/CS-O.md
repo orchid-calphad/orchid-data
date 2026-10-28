@@ -18,7 +18,7 @@ Table: Phases of the Cs–O system (15)
 | [CS3O](#phase-cs-o-cs3o); _phase:cs-o:cs3o_ | Cs3O · hP8 · P6_3/mcm (193) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–430.17 K, x(O) 0.25–0.25 | 16 | 1 |
 | [CS4O](#phase-cs-o-cs4o); _phase:cs-o:cs4o_ | Cs4O · oP60 · Pna2_1 (33) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–325.17 K, x(O) 0.2–0.2 | 15 | 1 |
 | [CS7O](#phase-cs-o-cs7o); _phase:cs-o:cs7o_ | Cs7O · hP24 · P-6m2 (187) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 14 | 1 |
-| [CS7O2](#phase-cs-o-cs7o2); _phase:cs-o:cs7o2_ | Cs11O3 · mP56 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 11 | 1 |
+| [CS7O2](#phase-cs-o-cs7o2); _phase:cs-o:cs7o2_ | Cs11O3 · mP56 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 13 | 1 |
 | [CSO2_C11A](#phase-cs-o-cso2-c11a); _phase:cs-o:cso2-c11a_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [CSO3](#phase-cs-o-cso3); _phase:cs-o:cso3_ |  | needs_review | not stable in 1 calculated diagram(s) | 23 | 1 |
 | [FCC_A1](#phase-cs-o-fcc-a1); _phase:cs-o:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -228,7 +228,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cs 0.7778, O 0.2222
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 13 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-o:cs7o2)
 
 Names (3): _corpus: _corpus:phase:cs-o:cs7o2  

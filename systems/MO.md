@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/MO.html · Markdown: https://data.orchid-project.org/systems/MO.md
 
-42 accepted literature values from 7 paper(s) (experimental 23, model 11, DFT 7, unspecified 1); 0 calculated phase diagram(s).
+42 accepted literature values from 7 paper(s) (experimental 23, model 11, DFT 7, unspecified 1); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO.json) · [CSV](https://data.orchid-project.org/systems/MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO.html) · [Markdown](https://data.orchid-project.org/systems/MO.md)
 

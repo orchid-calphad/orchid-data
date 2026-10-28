@@ -41,8 +41,8 @@ Table: Uncertainty budget of the literature values of Au2Ce
 | -70 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -70 | kJ/mol-atom |  | 0.5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -66 | kJ/mol-atom |  | 0.5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -71.46 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -71.46 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -71.46 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -71.46 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of Ge3Pt2
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -42.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -41.47 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -40.54 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -40.54 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

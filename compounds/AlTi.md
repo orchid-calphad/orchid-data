@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of AlTi
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -39.712 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -37.5039 | kJ/mol-atom |  | 5.000e-7 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -39.712 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -39.712 | kJ/mol-atom |  | 5.000e-4 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

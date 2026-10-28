@@ -32,15 +32,15 @@ Table: Uncertainty budget of the literature values of HfSn
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -28.18 | kJ/mol (basis unstated) |  | 0.005 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| -28 | kJ/mol (basis unstated) |  | 0.05 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| -26.64 | kJ/mol (basis unstated) |  | 0.005 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| -25.51 | kJ/mol (basis unstated) |  | 0.005 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| -22.76 | kJ/mol (basis unstated) |  | 0.005 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| -21.96 | kJ/mol (basis unstated) |  | 0.005 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| -20.38 | kJ/mol (basis unstated) |  | 0.005 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| -20.07 | kJ/mol (basis unstated) |  | 0.005 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| 1.62 | kJ/mol (basis unstated) |  | 0.005 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
+| -28.18 | kJ/mol (basis unstated) |  | 0.005 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| -28 | kJ/mol (basis unstated) |  | 0.05 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| -26.64 | kJ/mol (basis unstated) |  | 0.005 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| -25.51 | kJ/mol (basis unstated) |  | 0.005 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| -22.76 | kJ/mol (basis unstated) |  | 0.005 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| -21.96 | kJ/mol (basis unstated) |  | 0.005 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| -20.38 | kJ/mol (basis unstated) |  | 0.005 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| -20.07 | kJ/mol (basis unstated) |  | 0.005 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| 1.62 | kJ/mol (basis unstated) |  | 0.005 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
 
 ## Sources
 

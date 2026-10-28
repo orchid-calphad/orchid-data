@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Ge2Ni5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -30.3 | kJ/mol-atom |  | 0.05 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -30.3 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## Sources
 

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Al2W
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -3.09 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -3.09 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

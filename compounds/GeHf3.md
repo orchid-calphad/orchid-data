@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of GeHf3
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -28.4 | kJ/mol-atom | 8.2 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 8.2 |
 | -56.392 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -45.435 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -45.435 | kJ/mol-atom |  | 5.000e-4 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

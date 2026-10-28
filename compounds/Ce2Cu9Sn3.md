@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Ce2Cu9Sn3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -26.662 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -26.662 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

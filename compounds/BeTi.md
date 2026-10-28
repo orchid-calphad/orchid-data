@@ -33,8 +33,8 @@ Table: Uncertainty budget of the literature values of BeTi
 | -23.6 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -19.1 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | 28.3 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -23.6 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| 28.3 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -23.6 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| 28.3 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

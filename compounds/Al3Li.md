@@ -36,11 +36,11 @@ Table: Uncertainty budget of the literature values of Al3Li
 | -8.1 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -5 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -5 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -11.1 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -10.1 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -7.5 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -3.9 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| 1.9 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -11.1 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -10.1 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -7.5 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -3.9 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| 1.9 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

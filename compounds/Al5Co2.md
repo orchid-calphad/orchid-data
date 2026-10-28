@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of Al5Co2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -48.65 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -44.98 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -44.59 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -44.57 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -44.38 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -44.28 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -44.21 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -48.65 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -44.98 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -44.59 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -44.57 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -44.38 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -44.28 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -44.21 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## Sources
 

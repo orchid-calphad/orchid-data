@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/GA-P.html · Markdown: https://data.orchid-project.org/systems/GA-P.md
 
-4 accepted literature values from 1 paper(s) (model 2, unspecified 2); 1 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (model 2, unspecified 2); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-P.json) · [CSV](https://data.orchid-project.org/systems/GA-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-P/GaP-94Ans-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GA-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-P.html) · [Markdown](https://data.orchid-project.org/systems/GA-P.md)
 

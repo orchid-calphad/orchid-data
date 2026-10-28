@@ -70,11 +70,11 @@ Table: Uncertainty budget of the literature values of Fe3Y
 | -6.374 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -1 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -1 | per mol-atom |  | 0.5 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -7.6 | kJ/mol-atom |  | 0.05 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -7.519 | kJ/mol-atom |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -6.144 | kJ/mol-atom |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -6.144 | kJ/mol-atom |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -6.06 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -7.6 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -7.519 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -6.144 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -6.144 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -6.06 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## DFT formation energies
 

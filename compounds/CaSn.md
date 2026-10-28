@@ -34,7 +34,7 @@ Table: Uncertainty budget of the literature values of CaSn
 | -72 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -70.2455 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -63.6393 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -66.3191 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -66.3191 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/CA-CE-MG.html · Markdown: https://data.orchid-project.org/systems/CA-CE-MG.md
 
-45 accepted literature values from 2 paper(s) (experimental 23, model 22); 0 calculated phase diagram(s). 29 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+45 accepted literature values from 2 paper(s) (experimental 23, model 22); 0 calculated phase diagram(s). 28 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-CE-MG.json) · [CSV](https://data.orchid-project.org/systems/CA-CE-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-CE-MG) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-CE-MG.html) · [Markdown](https://data.orchid-project.org/systems/CA-CE-MG.md)
 

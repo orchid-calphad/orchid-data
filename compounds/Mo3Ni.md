@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Mo3Ni
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -4.063 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| 9.145 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| 18.85 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -4.063 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| 9.145 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| 18.85 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## Sources
 

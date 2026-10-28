@@ -35,8 +35,8 @@ Table: Uncertainty budget of the literature values of Be17Ti2
 | -24.3 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -22 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -21.4 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -22 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -21.4 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -22 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -21.4 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of Al2Fe
 | -27.8 | kJ/mol-atom | 1.9 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.2 |
 | -23.8 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -23.72 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -124.42 | kJ/mol (basis unstated) |  | 0.005 | 12.01 (dft, calibrated) |  |  |  | 12.01 |
+| -124.42 | kJ/mol (basis unstated) |  | 0.005 | 11.57 (dft, calibrated) |  |  |  | 11.57 |
 
 ## DFT formation energies
 

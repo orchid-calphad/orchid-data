@@ -20,7 +20,7 @@ Table: Phases of the Co–Ti system (9)
 | [FCC_A1](#phase-co-ti-fcc-a1); _phase:co-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 593.41–1885.95 K, x(Ti) 0–0.15423 | 37 | 12 |
 | [L12_FCC](#phase-co-ti-fcc-l12); _phase:co-ti:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1885.95 K, x(Ti) 0–0.25 | 55 | 6 |
 | [HCP_A3](#phase-co-ti-hcp-a3); _phase:co-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1163.96 K, x(Ti) 0–1 | 18 | 6 |
-| [LIQUID](#phase-co-ti-liquid); _phase:co-ti:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1282.88–2500 K, x(Ti) 0–1 | 121 | 6 |
+| [LIQUID](#phase-co-ti-liquid); _phase:co-ti:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1282.88–2500 K, x(Ti) 0–1 | 139 | 6 |
 
 ## BCC_A2 (Co–Ti)
 
@@ -752,7 +752,7 @@ _cited as the source of values for this phase_
 - Id: `phase:co-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 1282.88–2500 K, x(Ti) 0–1
-- Literature: 121 values (121 accepted) from 5 papers
+- Literature: 139 values (121 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:liquid)
 
 Names (15): _corpus: _corpus:phase:co-ti:liquid  
@@ -806,11 +806,11 @@ _tdb: _tdb:CoTi-00Cac.tdb:LIQUID, tdb:CoTi-01Dav-LB.tdb:LIQUID, tdb:CoTi-18Zho.t
 
 Example references (8 of 8; assessments first): 
 
+- [doi:10.1007/s11661-001-0193-8](https://doi.org/10.1007/s11661-001-0193-8) A. V. Davydov, U. R. Kattner, D. Josell, R. M. Waterstrat, W. J. Boettinger, J. E. Blendell et al., Determination of the CoTi congruent melting point and thermodynamic reassessment of the Co-Ti system, Metall Mater Trans A 32, 2175-2186 (2001).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-024-01094-y](https://doi.org/10.1007/s11669-024-01094-y) Mykhailo Turchanin, Pavlo Agraval, Anna Vodopyanova, Liya Dreval, Thermodynamic Assessment of the Co-Ti System, J. Phase Equilib. Diffus. 45, 434-446 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s42243-021-00736-6](https://doi.org/10.1007/s42243-021-00736-6) Hua-kou Yang, Chen-yang Zhou, Hang Wang, Bin Yang, Phase equilibria in Ti-rich portion and thermodynamic re-optimization of Co–Ti system, J. Iron Steel Res. Int. 29, 914-924 (2022).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1007/s11661-001-0193-8](https://doi.org/10.1007/s11661-001-0193-8) A. V. Davydov, U. R. Kattner, D. Josell, R. M. Waterstrat, W. J. Boettinger, J. E. Blendell et al., Determination of the CoTi congruent melting point and thermodynamic reassessment of the Co-Ti system, Metall Mater Trans A 32, 2175-2186 (2001).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jct.2019.105995](https://doi.org/10.1016/j.jct.2019.105995) Liying Wu, Yinping Zeng, Yafei Pan, Yong Du, Yingbiao Peng, Han Li et al., Thermodynamic description and simulation of solidification microstructure in the Co-Ti system, The Journal of Chemical Thermodynamics 142, 105995 (2020).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_

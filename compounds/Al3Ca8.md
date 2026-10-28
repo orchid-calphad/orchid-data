@@ -38,9 +38,9 @@ Table: Uncertainty budget of the literature values of Al3Ca8
 | -14 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -14 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -12.83 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -18.705 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -18.301 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -17.679 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -18.705 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -18.301 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -17.679 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

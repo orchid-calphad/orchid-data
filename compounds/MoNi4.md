@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of MoNi4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -7.55 | kJ/mol (basis unstated) |  | 0.005 | 20.02 (dft, calibrated) |  |  |  | 20.02 |
+| -7.55 | kJ/mol (basis unstated) |  | 0.005 | 19.28 (dft, calibrated) |  |  |  | 19.28 |
 
 ## Sources
 

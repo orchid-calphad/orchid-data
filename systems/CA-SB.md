@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/CA-SB.html · Markdown: https://data.orchid-project.org/systems/CA-SB.md
 
-36 accepted literature values from 1 paper(s) (experimental 16, model 14, DFT 4, unspecified 2); 1 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 16, model 14, DFT 4, unspecified 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SB.json) · [CSV](https://data.orchid-project.org/systems/CA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SB/CaSb-15Qin.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SB.html) · [Markdown](https://data.orchid-project.org/systems/CA-SB.md)
 

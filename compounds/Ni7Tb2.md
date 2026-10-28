@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of Ni7Tb2
 | -45.3 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -38.3 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -35.1 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -37.3 | kJ/mol-atom |  | 0.05 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -37.3 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## DFT formation energies
 

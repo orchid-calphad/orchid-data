@@ -40,9 +40,9 @@ Table: Uncertainty budget of the literature values of Ge5Yb3
 | -60.952 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -59.3 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -56.426 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -56.1 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -55.9 | kJ/mol-atom | 6.2 | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -55.9 | kJ/mol-atom | 6.2 | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -56.1 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -55.9 | kJ/mol-atom | 6.2 | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -55.9 | kJ/mol-atom | 6.2 | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

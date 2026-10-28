@@ -10,7 +10,7 @@ Status: Version 1, machine-extracted: values were read by language-model readers
 
 ## Browse without JavaScript
 
-- [Chemical systems](https://data.orchid-project.org/systems/index.html) — 1862 pages (also [Markdown](https://data.orchid-project.org/systems/index.md)): literature values, invariants, formation enthalpies, calculated phase diagrams.
+- [Chemical systems](https://data.orchid-project.org/systems/index.html) — 1861 pages (also [Markdown](https://data.orchid-project.org/systems/index.md)): literature values, invariants, formation enthalpies, calculated phase diagrams.
 - [Compounds](https://data.orchid-project.org/compounds/index.html) — 1460 formation-enthalpy pages with DFT comparison.
 - [Reporting papers](https://data.orchid-project.org/papers/index.html) — citation, DOI, systems, number of values.
 - [Phase registry](https://data.orchid-project.org/phases/pages/index.html) — 1241 binary-system pages, 10,430 phases: names, structure (when the stored evidence supports an assignment under the stated tier rules), stability, TDB PHASE/CONSTITUENT statements, example DOIs.

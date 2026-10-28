@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Fe8Ta5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -8.73 | kJ/mol-atom |  | 3.846e-5 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -8.73 | kJ/mol-atom |  | 3.846e-5 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## Sources
 

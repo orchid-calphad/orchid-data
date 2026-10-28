@@ -20,8 +20,8 @@ Table: Phases of the La–Mg system (17)
 | [DHCP](#phase-la-mg-dhcp-a3); _phase:la-mg:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–602.74 K, x(Mg) 0–0.02108 | 2 | 6 |
 | [FCC_A1](#phase-la-mg-fcc-a1); _phase:la-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 518.04–1173.33 K, x(Mg) 0–0.09364 | 6 | 6 |
 | [HCP_A3](#phase-la-mg-hcp-a3); _phase:la-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.25 K, x(Mg) 0.99844–1 | 9 | 6 |
-| [LA2MG17](#phase-la-mg-la2mg17); _phase:la-mg:la2mg17_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–945.51 K, x(Mg) 0.89474–0.89474 | 24 | 2 |
-| [LA5MG41](#phase-la-mg-la5mg41); _phase:la-mg:la5mg41_ | Ce5Mg41 · tI92 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 550–945 K, x(Mg) 0.8913–0.8913 | 18 | 2 |
+| [LA2MG17](#phase-la-mg-la2mg17); _phase:la-mg:la2mg17_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–945.51 K, x(Mg) 0.89474–0.89474 | 25 | 2 |
+| [LA5MG41](#phase-la-mg-la5mg41); _phase:la-mg:la5mg41_ | Ce5Mg41 · tI92 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 550–945 K, x(Mg) 0.8913–0.8913 | 19 | 2 |
 | [LAMG_B2](#phase-la-mg-lamg-b2); _phase:la-mg:lamg-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1027.91 K, x(Mg) 0.5–0.5 | 45 | 5 |
 | [LAMG12_D2B](#phase-la-mg-lamg12-d2b); _phase:la-mg:lamg12-d2b_ | Mn12Th · D2_b · tI26 · I4/mmm (139) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–924.77 K, x(Mg) 0.92308–0.92817 | 18 | 5 |
 | [LAMG2_C15](#phase-la-mg-lamg2-c15); _phase:la-mg:lamg2-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 660–1057.59 K, x(Mg) 0.66667–0.66667 | 26 | 2 |
@@ -517,7 +517,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): CeMg10 · hP44 · P6_3/mmc — LaMg-16Zha.tdb: 'Prototype CeMg10 (hP44, P6_3/mmc)'
 - Stoichiometry: La 0.1053, Mg 0.8947
 - Stability: stable in 2 of 2 calculated diagram(s): 300–945.51 K, x(Mg) 0.89474–0.89474
-- Literature: 24 values (24 accepted) from 3 papers
+- Literature: 25 values (24 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mg:la2mg17)
 
 Names (6): _corpus: _corpus:phase:la-mg:la2mg17  
@@ -560,7 +560,7 @@ _reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: La 0.1087, Mg 0.8913
 - Stability: stable in 2 of 2 calculated diagram(s): 550–945 K, x(Mg) 0.8913–0.8913
-- Literature: 18 values (18 accepted) from 3 papers
+- Literature: 19 values (18 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mg:la5mg41)
 
 Names (6): _corpus: _corpus:phase:la-mg:la5mg41  

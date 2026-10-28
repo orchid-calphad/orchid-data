@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of HfSn2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -27.99 | kJ/mol (basis unstated) |  | 0.005 | 24.73 (dft, calibrated) |  |  |  | 24.73 |
+| -27.99 | kJ/mol (basis unstated) |  | 0.005 | 25.18 (dft, calibrated) |  |  |  | 25.18 |
 
 ## Sources
 

@@ -4,7 +4,7 @@ ESPEI-format datasets built from the ORCHID literature values (Version 1, machin
 
 | folder | datasets | values | systems | content |
 |---|---:|---:|---:|---|
-| experimental | 1122 | 2402 | 185 | experimental thermochemical tables and phase-composition (ZPF) tables |
+| experimental | 1120 | 2390 | 185 | experimental thermochemical tables and phase-composition (ZPF) tables |
 | model | 503 | 781 | 81 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
 | invariants | 1546 | 5061 | 464 | ZPF datasets from experimental invariant-reaction tables |
 | dft/literature | 783 | 1770 | 91 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
@@ -182,7 +182,7 @@ ESPEI-native content (`components`, `phases`, `conditions`, `output`, `values`, 
 
 ## Former optional minimum-sigma policy (E6, superseded)
 
-Until 2026-10-23 every experimental thermochemical dataset carried `orchid_weight_floor.suggested_weight` (sigma floor = ESPEI's experimental default, 500 J/mol), which users had to opt into. Since 2026-10-24 the written `weight` follows sigma_effective (method floors) by default. The block is kept, with `superseded`, the former suggestion and `weight_before_2026_10_24`, for comparison: 1343 datasets, weight lower than before in 1248, higher in 1, unchanged in 94.
+Until 2026-10-23 every experimental thermochemical dataset carried `orchid_weight_floor.suggested_weight` (sigma floor = ESPEI's experimental default, 500 J/mol), which users had to opt into. Since 2026-10-24 the written `weight` follows sigma_effective (method floors) by default. The block is kept, with `superseded`, the former suggestion and `weight_before_2026_10_24`, for comparison: 1339 datasets, weight lower than before in 1247, higher in 1, unchanged in 91.
 
 ## Phase constraints (optional)
 

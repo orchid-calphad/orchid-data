@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/CA-IN-SB.html · Markdown: https://data.orchid-project.org/systems/CA-IN-SB.md
 
-21 accepted literature values from 1 paper(s) (experimental 11, model 10); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+21 accepted literature values from 1 paper(s) (experimental 11, model 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-IN-SB.json) · [CSV](https://data.orchid-project.org/systems/CA-IN-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-IN-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-IN-SB.html) · [Markdown](https://data.orchid-project.org/systems/CA-IN-SB.md)
 

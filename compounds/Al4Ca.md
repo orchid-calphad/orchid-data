@@ -63,10 +63,10 @@ Table: Uncertainty budget of the literature values of Al4Ca
 | -21 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -19.248 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -17.27 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -21.615 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -20.034 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -19.56 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -19.208 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -21.615 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -20.034 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -19.56 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -19.208 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

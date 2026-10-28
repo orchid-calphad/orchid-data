@@ -31,8 +31,8 @@ Table: Uncertainty budget of the literature values of Ce3Sn5
 | -75.31 | kJ/mol-atom | 4.2 | 0.005 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
 | -80 | kJ/mol-atom |  | 0.5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -65.38 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -79.746 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -66.98 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -79.746 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -66.98 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of NiRu
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 14.6 | kJ/mol-atom |  | 5.000e-5 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| 25.35 | kJ/mol-atom |  | 5.000e-5 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| 14.6 | kJ/mol-atom |  | 5.000e-5 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| 25.35 | kJ/mol-atom |  | 5.000e-5 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## Sources
 

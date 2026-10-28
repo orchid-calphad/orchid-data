@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-P.html · Markdown: https://data.orchid-project.org/systems/AL-P.md
 
-53 accepted literature values from 4 paper(s) (experimental 16, model 36, unspecified 1); 5 calculated phase diagram(s).
+53 accepted literature values from 4 paper(s) (experimental 16, model 36, unspecified 1); 5 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-P.json) · [CSV](https://data.orchid-project.org/systems/AL-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-P/AlP-01Luk-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-P.html) · [Markdown](https://data.orchid-project.org/systems/AL-P.md)
 

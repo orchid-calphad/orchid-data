@@ -50,10 +50,10 @@
  "reference": "Santhy 2015, doi:10.1016/j.jallcom.2014.08.200; Sun 2023, doi:10.1016/j.calphad.2023.102563",
  "bibtex": "santhy2015_17688d sun2023_9c4283",
  "weight": [
-  0.113173,
-  0.113173,
-  0.113173,
-  0.113173
+  0.11919,
+  0.11919,
+  0.11919,
+  0.11919
  ],
  "tags": [
   "dft_literature",
@@ -121,7 +121,7 @@
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
-    "sigma": 4418.0,
+    "sigma": 4195.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -130,15 +130,15 @@
      "leave_system_out": true,
      "system_left_out": "NB-NI",
      "n": 96,
-     "sigma_robust_kJ": 4.418,
-     "bias_median_kJ_not_applied": 0.535,
+     "sigma_robust_kJ": 4.195,
+     "bias_median_kJ_not_applied": 0.606,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.944,
-      4.979
+      2.757,
+      4.871
      ],
      "n_full_stratum": 105
     },
-    "weight_used": 0.113173,
+    "weight_used": 0.11919,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -33.41,
@@ -149,11 +149,11 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 4418.0,
+     "sigma_method": 4195.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 4418.0,
+     "sigma_effective": 4195.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
      "method_n_pairs": 96,
@@ -161,7 +161,7 @@
     }
    },
    {
-    "sigma": 4418.0,
+    "sigma": 4195.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -170,15 +170,15 @@
      "leave_system_out": true,
      "system_left_out": "NB-NI",
      "n": 96,
-     "sigma_robust_kJ": 4.418,
-     "bias_median_kJ_not_applied": 0.535,
+     "sigma_robust_kJ": 4.195,
+     "bias_median_kJ_not_applied": 0.606,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.944,
-      4.979
+      2.757,
+      4.871
      ],
      "n_full_stratum": 105
     },
-    "weight_used": 0.113173,
+    "weight_used": 0.11919,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -28.38,
@@ -189,11 +189,11 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 4418.0,
+     "sigma_method": 4195.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 4418.0,
+     "sigma_effective": 4195.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
      "method_n_pairs": 96,
@@ -201,7 +201,7 @@
     }
    },
    {
-    "sigma": 4418.0,
+    "sigma": 4195.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -210,15 +210,15 @@
      "leave_system_out": true,
      "system_left_out": "NB-NI",
      "n": 96,
-     "sigma_robust_kJ": 4.418,
-     "bias_median_kJ_not_applied": 0.535,
+     "sigma_robust_kJ": 4.195,
+     "bias_median_kJ_not_applied": 0.606,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.944,
-      4.979
+      2.757,
+      4.871
      ],
      "n_full_stratum": 105
     },
-    "weight_used": 0.113173,
+    "weight_used": 0.11919,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -28.51,
@@ -229,11 +229,11 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 4418.0,
+     "sigma_method": 4195.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 4418.0,
+     "sigma_effective": 4195.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
      "method_n_pairs": 96,
@@ -241,7 +241,7 @@
     }
    },
    {
-    "sigma": 4418.0,
+    "sigma": 4195.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -250,15 +250,15 @@
      "leave_system_out": true,
      "system_left_out": "NB-NI",
      "n": 96,
-     "sigma_robust_kJ": 4.418,
-     "bias_median_kJ_not_applied": 0.535,
+     "sigma_robust_kJ": 4.195,
+     "bias_median_kJ_not_applied": 0.606,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.944,
-      4.979
+      2.757,
+      4.871
      ],
      "n_full_stratum": 105
     },
-    "weight_used": 0.113173,
+    "weight_used": 0.11919,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -31.2,
@@ -269,11 +269,11 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 4418.0,
+     "sigma_method": 4195.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 4418.0,
+     "sigma_effective": 4195.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
      "method_n_pairs": 96,

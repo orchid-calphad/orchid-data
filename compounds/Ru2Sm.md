@@ -37,8 +37,8 @@ Table: Uncertainty budget of the literature values of Ru2Sm
 | -36.702 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -36.0316 | kJ/mol-atom |  | 5.000e-6 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -34.0161 | kJ/mol-atom |  | 5.000e-6 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -19.177 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -17.828 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -19.177 | kJ/mol-atom |  | 5.000e-4 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -17.828 | kJ/mol-atom |  | 5.000e-4 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 | -21.297 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -20.044 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 

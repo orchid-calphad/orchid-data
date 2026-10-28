@@ -17,10 +17,10 @@ Table: Phases of the Fe–Gd system (11)
 | [FE17GD2](#phase-fe-gd-fe17gd2); _phase:fe-gd:fe17gd2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1603.94 K, x(Gd) 0.10526–0.10526 | 10 | 2 |
 | [FE17GD2_HT](#phase-fe-gd-fe17gd2-ht); _phase:fe-gd:fe17gd2-ht_ | Ni17Th2 · hP38 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1482.48–1608.6 K, x(Gd) 0.10526–0.10526 | 18 | 4 |
 | [FE17GD2_LT](#phase-fe-gd-fe17gd2-lt); _phase:fe-gd:fe17gd2-lt_ | Th2Zn17 · hR19 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1488.35 K, x(Gd) 0.10526–0.10526 | 6 | 4 |
-| [FE23GD6](#phase-fe-gd-fe23gd6); _phase:fe-gd:fe23gd6_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1551.48 K, x(Gd) 0.2069–0.2069 | 9 | 1 |
+| [FE23GD6](#phase-fe-gd-fe23gd6); _phase:fe-gd:fe23gd6_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1551.48 K, x(Gd) 0.2069–0.2069 | 11 | 1 |
 | [FE23GD6_D8A](#phase-fe-gd-fe23gd6-d8a); _phase:fe-gd:fe23gd6-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1556.2 K, x(Gd) 0.2069–0.2069 | 9 | 5 |
 | [FE2GD_C15](#phase-fe-gd-fe2gd-c15); _phase:fe-gd:fe2gd-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1470.3 K, x(Gd) 0.33333–0.33333 | 27 | 6 |
-| [FE3GD](#phase-fe-gd-fe3gd); _phase:fe-gd:fe3gd_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1433.33 K, x(Gd) 0.25–0.25 | 27 | 6 |
+| [FE3GD](#phase-fe-gd-fe3gd); _phase:fe-gd:fe3gd_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1433.33 K, x(Gd) 0.25–0.25 | 30 | 6 |
 | [HCP_A3](#phase-fe-gd-hcp-a3); _phase:fe-gd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1583 K, x(Gd) 0.99025–1 | 17 | 6 |
 | [LIQUID](#phase-fe-gd-liquid); _phase:fe-gd:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1087.34–2500 K, x(Gd) 0–1 | 79 | 6 |
 
@@ -334,7 +334,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Mn23Th6 · cF116 · Fm-3m — FeGd-02Zin-newGd.tdb: 'Prototype Mn23Th6 (cF116, Fm-3m)'
 - Stoichiometry: Fe 0.7931, Gd 0.2069
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1551.48 K, x(Gd) 0.2069–0.2069
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 11 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-gd:fe23gd6)
 
 Names (3): _corpus: _corpus:phase:fe-gd:fe23gd6  
@@ -505,7 +505,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Fe 0.7500, Gd 0.2500
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1433.33 K, x(Gd) 0.25–0.25
-- Literature: 27 values (27 accepted) from 3 papers
+- Literature: 30 values (27 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-gd:fe3gd)
 
 Names (10): _corpus: _corpus:phase:fe-gd:fe3gd  

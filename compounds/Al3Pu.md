@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Al3Pu
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -174.3 | kJ/mol (basis unstated) |  | 0.05 | 32.97 (dft, calibrated) |  |  |  | 32.97 |
-| -172.4 | kJ/mol (basis unstated) |  | 0.05 | 32.97 (dft, calibrated) |  |  |  | 32.97 |
-| -169.1 | kJ/mol (basis unstated) |  | 0.05 | 32.97 (dft, calibrated) |  |  |  | 32.97 |
+| -174.3 | kJ/mol (basis unstated) |  | 0.05 | 33.58 (dft, calibrated) |  |  |  | 33.58 |
+| -172.4 | kJ/mol (basis unstated) |  | 0.05 | 33.58 (dft, calibrated) |  |  |  | 33.58 |
+| -169.1 | kJ/mol (basis unstated) |  | 0.05 | 33.58 (dft, calibrated) |  |  |  | 33.58 |
 
 ## Sources
 

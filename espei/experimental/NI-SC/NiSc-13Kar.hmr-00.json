@@ -58,15 +58,7 @@
    "10.1016/j.calphad.2013.07.003"
   ],
   "source_dataset": "db-v2.1/general/espei/NiSc-13Kar/hmr-00.json",
-  "values_dropped": 1,
-  "also_reported_as": [
-   {
-    "dataset": "experimental/NI-SC/NiSc-15Zhu.hmr-00.json",
-    "ids": [
-     "ORC-5CWK34HTUC.8ed34b"
-    ]
-   }
-  ]
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",

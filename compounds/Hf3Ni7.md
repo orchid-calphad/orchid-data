@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of Hf3Ni7
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -48.88 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -48.71 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -48.71 | kJ/mol (basis unstated) |  | 0.005 | 28.02 (dft, calibrated) |  |  |  | 28.02 |
+| -48.71 | kJ/mol (basis unstated) |  | 0.005 | 26.99 (dft, calibrated) |  |  |  | 26.99 |
 
 ## DFT formation energies
 

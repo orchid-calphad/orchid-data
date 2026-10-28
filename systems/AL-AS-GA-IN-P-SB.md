@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-AS-GA-IN-P-SB.html · Markdown: https://data.orchid-project.org/systems/AL-AS-GA-IN-P-SB.md
 
-14 accepted literature values from 1 paper(s) (model 14); 0 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+14 accepted literature values from 1 paper(s) (model 14); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-AS-GA-IN-P-SB.json) · [CSV](https://data.orchid-project.org/systems/AL-AS-GA-IN-P-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-AS-GA-IN-P-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-AS-GA-IN-P-SB.html) · [Markdown](https://data.orchid-project.org/systems/AL-AS-GA-IN-P-SB.md)
 

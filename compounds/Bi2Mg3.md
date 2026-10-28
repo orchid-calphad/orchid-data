@@ -44,9 +44,9 @@ Table: Uncertainty budget of the literature values of Bi2Mg3
 | -33.884 | kJ/mol (basis unstated) |  | 5.000e-4 | 19.5 (model_calculated, calibrated) |  |  |  | 19.5 |
 | -33.255 | kJ/mol (basis unstated) |  | 5.000e-4 | 19.5 (model_calculated, calibrated) |  |  |  | 19.5 |
 | -25.355 | kJ/mol (basis unstated) |  | 5.000e-4 | 19.5 (model_calculated, calibrated) |  |  |  | 19.5 |
-| -71.276 | kJ/mol (basis unstated) |  | 5.000e-4 | 41.22 (dft, calibrated) |  |  |  | 41.22 |
-| -31.454 | kJ/mol (basis unstated) |  | 5.000e-4 | 41.22 (dft, calibrated) |  |  |  | 41.22 |
-| -24.369 | kJ/mol (basis unstated) |  | 5.000e-4 | 41.22 (dft, calibrated) |  |  |  | 41.22 |
+| -71.276 | kJ/mol (basis unstated) |  | 5.000e-4 | 41.97 (dft, calibrated) |  |  |  | 41.97 |
+| -31.454 | kJ/mol (basis unstated) |  | 5.000e-4 | 41.97 (dft, calibrated) |  |  |  | 41.97 |
+| -24.369 | kJ/mol (basis unstated) |  | 5.000e-4 | 41.97 (dft, calibrated) |  |  |  | 41.97 |
 
 ## Sources
 

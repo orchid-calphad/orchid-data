@@ -30,7 +30,7 @@ Table: Uncertainty budget of the literature values of Ca5Ge3
 | -65.3 | kJ/mol-atom | 5.7 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 5.7 |
 | -62.59 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -59.8 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -60.4 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -60.4 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

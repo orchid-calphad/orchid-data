@@ -4056,7 +4056,7 @@
      "detail": "AlCr-98Mur.tdb: 'Prototype Cu5Zn8 (cI52, I-43m), high T'"
     }
    ],
-   "literature_values": 5
+   "literature_values": 7
   },
   {
    "id": "phase:al-cr:al8cr5-gamma",
@@ -39828,7 +39828,7 @@
      "detail": "FeGd-02Zin-newGd.tdb: 'Prototype Mn23Th6 (cF116, Fm-3m)'"
     }
    ],
-   "literature_values": 9
+   "literature_values": 11
   },
   {
    "id": "phase:fe-lu:fe17lu2",
@@ -49811,7 +49811,7 @@
      "detail": "LaMg-16Zha.tdb: 'Prototype CeMg10 (hP44, P6_3/mmc)'"
     }
    ],
-   "literature_values": 24
+   "literature_values": 25
   },
   {
    "id": "phase:la-ni:la2ni7",

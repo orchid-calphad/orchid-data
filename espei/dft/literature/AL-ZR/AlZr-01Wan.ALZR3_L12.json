@@ -50,10 +50,10 @@
  "reference": "Long 2020, doi:10.1007/s11669-020-00827-z",
  "bibtex": "long2020_2df2a2",
  "weight": [
-  0.06605,
-  0.06605,
-  0.06605,
-  0.06605
+  0.065651,
+  0.065651,
+  0.065651,
+  0.065651
  ],
  "tags": [
   "dft_literature",
@@ -119,7 +119,7 @@
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
-    "sigma": 7570.0,
+    "sigma": 7616.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -127,16 +127,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "AL-ZR",
-     "n": 195,
-     "sigma_robust_kJ": 7.57,
-     "bias_median_kJ_not_applied": 0.67,
+     "n": 194,
+     "sigma_robust_kJ": 7.616,
+     "bias_median_kJ_not_applied": 0.651,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.532,
-      9.785
+      6.672,
+      9.877
      ],
-     "n_full_stratum": 231
+     "n_full_stratum": 230
     },
-    "weight_used": 0.06605,
+    "weight_used": 0.065651,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -23.117,
@@ -147,19 +147,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7570.0,
+     "sigma_method": 7616.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7570.0,
+     "sigma_effective": 7616.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 195,
+     "method_n_pairs": 194,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-ZR"
     }
    },
    {
-    "sigma": 7570.0,
+    "sigma": 7616.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -167,16 +167,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "AL-ZR",
-     "n": 195,
-     "sigma_robust_kJ": 7.57,
-     "bias_median_kJ_not_applied": 0.67,
+     "n": 194,
+     "sigma_robust_kJ": 7.616,
+     "bias_median_kJ_not_applied": 0.651,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.532,
-      9.785
+      6.672,
+      9.877
      ],
-     "n_full_stratum": 231
+     "n_full_stratum": 230
     },
-    "weight_used": 0.06605,
+    "weight_used": 0.065651,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -29.15,
@@ -187,19 +187,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7570.0,
+     "sigma_method": 7616.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7570.0,
+     "sigma_effective": 7616.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 195,
+     "method_n_pairs": 194,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-ZR"
     }
    },
    {
-    "sigma": 7570.0,
+    "sigma": 7616.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -207,16 +207,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "AL-ZR",
-     "n": 195,
-     "sigma_robust_kJ": 7.57,
-     "bias_median_kJ_not_applied": 0.67,
+     "n": 194,
+     "sigma_robust_kJ": 7.616,
+     "bias_median_kJ_not_applied": 0.651,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.532,
-      9.785
+      6.672,
+      9.877
      ],
-     "n_full_stratum": 231
+     "n_full_stratum": 230
     },
-    "weight_used": 0.06605,
+    "weight_used": 0.065651,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -28.994,
@@ -227,19 +227,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7570.0,
+     "sigma_method": 7616.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7570.0,
+     "sigma_effective": 7616.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 195,
+     "method_n_pairs": 194,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-ZR"
     }
    },
    {
-    "sigma": 7570.0,
+    "sigma": 7616.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -247,16 +247,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "AL-ZR",
-     "n": 195,
-     "sigma_robust_kJ": 7.57,
-     "bias_median_kJ_not_applied": 0.67,
+     "n": 194,
+     "sigma_robust_kJ": 7.616,
+     "bias_median_kJ_not_applied": 0.651,
      "ci95_sigma_robust_kJ_full_stratum": [
-      6.532,
-      9.785
+      6.672,
+      9.877
      ],
-     "n_full_stratum": 231
+     "n_full_stratum": 230
     },
-    "weight_used": 0.06605,
+    "weight_used": 0.065651,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -31.088,
@@ -267,14 +267,14 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 7570.0,
+     "sigma_method": 7616.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 7570.0,
+     "sigma_effective": 7616.0,
      "method_class": "dft_literature",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 195,
+     "method_n_pairs": 194,
      "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-ZR"
     }
    }

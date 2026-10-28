@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AS-GA.html · Markdown: https://data.orchid-project.org/systems/AS-GA.md
 
-54 accepted literature values from 4 paper(s) (experimental 47, model 6, unspecified 1); 0 calculated phase diagram(s). 13 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+54 accepted literature values from 4 paper(s) (experimental 47, model 6, unspecified 1); 0 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AS-GA.json) · [CSV](https://data.orchid-project.org/systems/AS-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-GA) · [phases (8)](https://data.orchid-project.org/phases/pages/AS-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-GA.html) · [Markdown](https://data.orchid-project.org/systems/AS-GA.md)
 

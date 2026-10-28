@@ -17,7 +17,7 @@ Table: Phases of the Mg–Mn system (6)
 | [CUB_A13](#phase-mg-mn-cub-a13); _phase:mg-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 980–1360.36 K, x(Mn) 0.1–1 | 2 | 2 |
 | [FCC_A1](#phase-mg-mn-fcc-a1); _phase:mg-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1360–1411.01 K, x(Mn) 0.09–1 | 2 | 2 |
 | [HCP_A3](#phase-mg-mn-hcp-a3); _phase:mg-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1360 K, x(Mn) 0–0.77 | 1 | 2 |
-| [LIQUID](#phase-mg-mn-liquid); _phase:mg-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 923–2500 K, x(Mn) 0–1 | 4 | 2 |
+| [LIQUID](#phase-mg-mn-liquid); _phase:mg-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 923–2500 K, x(Mn) 0–1 | 6 | 2 |
 
 ## BCC_A2 (Mg–Mn)
 
@@ -194,11 +194,11 @@ _assessment that models this phase_
 - Id: `phase:mg-mn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 923–2500 K, x(Mn) 0–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-mn:liquid)
 
-Names (4): _corpus: _corpus:phase:mg-mn:liquid  
-_paper: _paper:sha256-85fd53a1a176b694:Liquid'  
+Names (5): _corpus: _corpus:phase:mg-mn:liquid  
+_paper: _paper:10.1361/15477030523544:Liquid, paper:sha256-85fd53a1a176b694:Liquid'  
 _tdb: _tdb:MgMn-05Gro.tdb:LIQUID, tdb:MgMn-98Tib-LB.tdb:LIQUID  
 
 
@@ -221,7 +221,7 @@ _tdb: _tdb:MgMn-05Gro.tdb:LIQUID, tdb:MgMn-98Tib-LB.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1361/15477030523544](https://doi.org/10.1361/15477030523544) J. Gröbner, D. Mirkovic, M. Ohno, R. Schmid-Fetzer, Experimental Investigation and Thermodynamic Calculation of Binary Mg-Mn Phase Equilibria, Journal of Phase Equilibria &amp; Diffusion 26, 234-239 (2005).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

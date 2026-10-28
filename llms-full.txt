@@ -1851,7 +1851,6 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Mo–Nb–Ta–W](https://data.orchid-project.org/systems/MO-NB-TA-W.md): 0 values
 - [Nb–O–Ta–V](https://data.orchid-project.org/systems/NB-O-TA-V.md): 6 values (unspecified 6); heat capacity / entropy / enthalpy 3, mixing / partial 3
 - [O–U–W–Zr](https://data.orchid-project.org/systems/O-U-W-ZR.md): 4 values (experimental 4); phase equilibrium 4
-- [Al–As–Ga–In–N](https://data.orchid-project.org/systems/AL-AS-GA-IN-N.md): 0 values
 - [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.md): 32 values (experimental 21, model 11); invariant reaction 31, crystal structure 1
 - [B–Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/B-BA-CA-GA-SR.md): 2 values (experimental 2); crystal structure 2
 - [B–Cd–Sr–Ti–V](https://data.orchid-project.org/systems/B-CD-SR-TI-V.md): 17 values (experimental 8, model 9); invariant reaction 17
@@ -4620,7 +4619,7 @@ DOIs matched from a printed reference, checked against Crossref (first author, y
 DOIs (22 matches) were dropped: those works are kept as no-DOI records with the
 printed reference (`DOI_MISMATCHES.md`). The same scoped corrections are applied by every ORCHID exporter that emits
 DOIs, from one versioned table (`doi_corrections.json`, v1.0.0).
-Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4158.
+Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4157.
 
 | edge type | edges |
 |---|---:|

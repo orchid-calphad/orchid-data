@@ -420,7 +420,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 73542
-  download_size: 7874893
+  download_size: 7924240
 - config_name: papers
   features:
   - name: id
@@ -456,7 +456,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 4882
-  download_size: 532346
+  download_size: 532342
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -647,8 +647,8 @@ dataset_info:
     list: string
   splits:
   - name: full
-    num_examples: 7594
-  download_size: 292021
+    num_examples: 7646
+  download_size: 292766
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -838,7 +838,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 10430
-  download_size: 452194
+  download_size: 452193
 - config_name: structure_types
   features:
   - name: id
@@ -1074,7 +1074,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 9570
-  download_size: 1539794
+  download_size: 1539792
 - config_name: bibliography_edges
   features:
   - name: id
@@ -1135,7 +1135,7 @@ format.
 | `literature_values` | 73,542 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, uncertainty budget (`sigma_*` columns), ML split |
 | `papers` | 4,882 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
 | `experimental_context` | 1,504 | samples, heat treatments and measurements of 225 papers, each with its quote and page |
-| `dft_parity` | 7,594 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
+| `dft_parity` | 7,646 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
 | `phase_diagram_invariants` | 15,336 | distinct invariant equilibria of 2,720 calculated SGTE binary phase diagrams: T, phases, phase compositions; `n_mapper_hits` = how often the mapper found it (the JSON files list all 24,828 hits) |
 | `phase_diagram_index` | 2,774 | one row per calculated diagram (2,720 `ok`, 54 `failed`), TDB file, SHA-256, citation |
 | `hull_vertices` | 28,143 | binary convex-hull vertices: 12,829 Materials Project (v2026.04.13), 15,314 OQMD (v1.8) |

@@ -36,7 +36,7 @@ Table: Uncertainty budget of the literature values of Sn3Yb
 | -41.797 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -41.6 | kJ/mol-atom | 8.5 | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 8.5 |
 | -37 | kJ/mol-atom | 3.8 | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -42.219 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -42.219 | kJ/mol-atom |  | 5.000e-4 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

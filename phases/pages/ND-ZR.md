@@ -16,7 +16,7 @@ Table: Phases of the Nd–Zr system (5)
 | [DHCP](#phase-nd-zr-dhcp-a3); _phase:nd-zr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1267.2 K, x(Zr) 0–0.05141 | 2 | 2 |
 | [FCC_A1](#phase-nd-zr-fcc-a1); _phase:nd-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 820–1090 K | 0 | 2 |
 | [HCP_A3](#phase-nd-zr-hcp-a3); _phase:nd-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1283.99 K, x(Zr) 0.96568–1 | 2 | 2 |
-| [LIQUID](#phase-nd-zr-liquid); _phase:nd-zr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1258.1–4000 K, x(Zr) 0–1 | 2 | 2 |
+| [LIQUID](#phase-nd-zr-liquid); _phase:nd-zr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1258.1–4000 K, x(Zr) 0–1 | 14 | 2 |
 
 ## BCC_A2 (Nd–Zr)
 
@@ -166,11 +166,11 @@ _assessment that models this phase_
 - Id: `phase:nd-zr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1258.1–4000 K, x(Zr) 0–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 14 values (2 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zr:liquid)
 
-Names (4): _corpus: _corpus:phase:nd-zr:liquid  
-_paper: _paper:10.1016/j.calphad.2014.02.008:L  
+Names (5): _corpus: _corpus:phase:nd-zr:liquid  
+_paper: _paper:10.1007/s11661-014-2209-1:Liquid, paper:10.1016/j.calphad.2014.02.008:L  
 _tdb: _tdb:NdZr-14Che.tdb:LIQUID, tdb:NdZr-14Mat.tdb:LIQUID  
 
 
@@ -192,10 +192,10 @@ _tdb: _tdb:NdZr-14Che.tdb:LIQUID, tdb:NdZr-14Mat.tdb:LIQUID
 
 Example references (2 of 2; assessments first): 
 
+- [doi:10.1007/s11661-014-2209-1](https://doi.org/10.1007/s11661-014-2209-1) Kaiming Cheng, Hua Zhou, Biao Hu, Yong Du, Lijun Zhang, Shuhong Liu et al., Experimental Investigation and Thermodynamic Modeling of the Nd-Zr and the Mg-Nd-Zr Systems, Metall Mater Trans A 45, 2708-2718 (2014).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2014.02.008](https://doi.org/10.1016/j.calphad.2014.02.008) N. Mattern, Y. Yokoyama, A. Mizuno, J.H. Han, O. Fabrichnaya, T. Harada et al., Experimental and thermodynamic assessment of the Nd–Zr system, Calphad 46, 103-107 (2014).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s11661-014-2209-1](https://doi.org/10.1007/s11661-014-2209-1) Kaiming Cheng, Hua Zhou, Biao Hu, Yong Du, Lijun Zhang, Shuhong Liu et al., Experimental Investigation and Thermodynamic Modeling of the Nd-Zr and the Mg-Nd-Zr Systems, Metall Mater Trans A 45, 2708-2718 (2014).  
-_assessment that models this phase_
 
 ## Please cite
 

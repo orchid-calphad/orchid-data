@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Al4Np
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -105.6 | kJ/mol (basis unstated) |  | 0.05 | 41.22 (dft, calibrated) |  |  |  | 41.22 |
+| -105.6 | kJ/mol (basis unstated) |  | 0.05 | 41.97 (dft, calibrated) |  |  |  | 41.97 |
 
 ## Sources
 

@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/CA-CE.html · Markdown: https://data.orchid-project.org/systems/CA-CE.md
 
-26 accepted literature values from 2 paper(s) (experimental 7, model 6, DFT 13); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+26 accepted literature values from 2 paper(s) (experimental 7, model 6, DFT 13); 2 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-CE.json) · [CSV](https://data.orchid-project.org/systems/CA-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-CE/CaCe-07Ham.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CA-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-CE.html) · [Markdown](https://data.orchid-project.org/systems/CA-CE.md)
 

@@ -25,71 +25,71 @@
   "file": "espei/dft/CALIBRATION.json",
   "literature": {
    "all": {
-    "bias_mean": 3.36,
-    "bias_median": 1.116,
+    "bias_mean": 3.383,
+    "bias_median": 1.136,
     "ci95": {
      "bias_median": [
-      0.515,
-      1.86
+      0.574,
+      1.92
      ],
      "q68_abs": [
       7.0,
-      9.634
+      9.653
      ],
      "q95_abs": [
-      25.448,
-      33.46
+      25.234,
+      33.601
      ],
      "rmse": [
-      12.201,
-      17.723
+      12.122,
+      17.941
      ],
      "sigma_robust": [
-      6.255,
-      8.2
+      6.175,
+      8.285
      ]
     },
     "ci95_cluster_system": {
      "bias_median": [
-      -0.092,
-      3.202
+      -0.025,
+      3.203
      ],
      "q68_abs": [
       6.1,
-      11.65
+      11.716
      ],
      "q95_abs": [
-      23.666,
+      23.749,
       37.119
      ],
      "rmse": [
-      10.496,
-      19.88
+      10.508,
+      19.886
      ],
      "sigma_robust": [
-      5.545,
-      9.145
+      5.526,
+      9.251
      ]
     },
-    "n": 459,
+    "n": 458,
     "n_systems": 82,
-    "n_with_printed_exp_sigma": 276,
-    "q68_abs": 8.348,
+    "n_with_printed_exp_sigma": 275,
+    "q68_abs": 8.36,
     "q95_abs": 29.711,
-    "rmse": 14.818,
-    "rmse_over_sigma_robust": 2.08,
-    "sigma_deconvolved": 6.787,
-    "sigma_exp_median": 2.218,
-    "sigma_robust": 7.14
+    "rmse": 14.834,
+    "rmse_over_sigma_robust": 2.06,
+    "sigma_deconvolved": 6.812,
+    "sigma_exp_median": 2.3,
+    "sigma_robust": 7.19
    },
    "strata": {
     "magnetic_3d": {
-     "bias_mean": 3.008,
-     "bias_median": 0.6,
+     "bias_mean": 3.088,
+     "bias_median": 0.66,
      "ci95": {
       "bias_median": [
-       -0.158,
-       1.37
+       0.13,
+       1.455
       ],
       "q68_abs": [
        3.4,
@@ -100,21 +100,21 @@
        60.417
       ],
       "rmse": [
-       6.527,
-       26.472
+       6.546,
+       26.469
       ],
       "sigma_robust": [
-       2.944,
-       4.979
+       2.757,
+       4.871
       ]
      },
      "ci95_cluster_system": {
       "bias_median": [
-       -1.734,
-       2.206
+       -1.715,
+       2.235
       ],
       "q68_abs": [
-       2.717,
+       2.812,
        4.86
       ],
       "q95_abs": [
@@ -122,12 +122,12 @@
        102.255
       ],
       "rmse": [
-       3.122,
+       3.143,
        33.268
       ],
       "sigma_robust": [
-       2.098,
-       5.242
+       1.99,
+       5.23
       ]
      },
      "n": 105,
@@ -135,69 +135,69 @@
      "n_with_printed_exp_sigma": 86,
      "q68_abs": 4.089,
      "q95_abs": 15.96,
-     "rmse": 18.05,
-     "rmse_over_sigma_robust": 4.51,
-     "sigma_deconvolved": 3.786,
+     "rmse": 18.052,
+     "rmse_over_sigma_robust": 4.68,
+     "sigma_deconvolved": 3.63,
      "sigma_exp_median": 1.3,
-     "sigma_robust": 4.003
+     "sigma_robust": 3.856
     },
     "metal": {
-     "bias_mean": 4.483,
-     "bias_median": 1.86,
+     "bias_mean": 4.497,
+     "bias_median": 1.995,
      "ci95": {
       "bias_median": [
-       0.466,
-       4.015
+       0.465,
+       3.955
       ],
       "q68_abs": [
-       7.55,
-       11.74
+       7.59,
+       11.553
       ],
       "q95_abs": [
-       22.788,
-       31.5
+       22.873,
+       31.57
       ],
       "rmse": [
-       10.753,
-       14.002
+       10.813,
+       14.107
       ],
       "sigma_robust": [
-       6.532,
-       9.785
+       6.672,
+       9.877
       ]
      },
      "ci95_cluster_system": {
       "bias_median": [
-       -0.245,
-       5.55
+       -0.257,
+       5.624
       ],
       "q68_abs": [
-       6.233,
-       13.831
+       6.238,
+       14.016
       ],
       "q95_abs": [
-       21.481,
+       21.487,
        33.46
       ],
       "rmse": [
-       9.824,
-       15.013
+       9.847,
+       15.027
       ],
       "sigma_robust": [
-       5.856,
-       11.387
+       5.889,
+       11.431
       ]
      },
-     "n": 231,
+     "n": 230,
      "n_systems": 42,
-     "n_with_printed_exp_sigma": 136,
-     "q68_abs": 9.054,
-     "q95_abs": 25.883,
-     "rmse": 12.411,
-     "rmse_over_sigma_robust": 1.51,
-     "sigma_deconvolved": 7.916,
+     "n_with_printed_exp_sigma": 135,
+     "q68_abs": 9.161,
+     "q95_abs": 25.905,
+     "rmse": 12.438,
+     "rmse_over_sigma_robust": 1.48,
+     "sigma_deconvolved": 8.074,
      "sigma_exp_median": 2.3,
-     "sigma_robust": 8.243
+     "sigma_robust": 8.395
     },
     "pblock_anion": {
      "bias_mean": 1.551,

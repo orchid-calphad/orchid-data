@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Li4Pb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -34.06 | kJ/mol-atom | 2.04 | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -26.81 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -34.06 | kJ/mol-atom | 2.04 | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -26.81 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

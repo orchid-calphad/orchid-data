@@ -59,7 +59,7 @@
   {
    "path": "parquet/MANIFEST.json",
    "bytes": 26588,
-   "sha256": "83ac8ad53e64dd5dac4693a3f4e54104523e6864698aaab3a1d9b583d23a0298"
+   "sha256": "24db26011b3ab365719e7d88cc8c7d58b490b3a83c4389ce2e37cc9e3b6a5176"
   },
   {
    "path": "parquet/phase_diagram_index.parquet",

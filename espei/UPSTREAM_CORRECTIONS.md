@@ -528,7 +528,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-H2QQ35B76K.0b3ce5 | ORC-H2QQ35B76K.0b3ce5 | doi:10.1016/j.intermet.2004.03.011/p6/tab-3/r09#equilibrium_property |
 | ORC-D2GEUAFSA3.17618f | ORC-D2GEUAFSA3.17618f | doi:10.1016/j.intermet.2004.03.011/p6/tab-3/r15#equilibrium_property |
 | ORC-IWJLELXHAM.752c54 | ORC-IWJLELXHAM.752c54 | doi:10.1016/j.intermet.2008.11.011/p4/tab-3/r02#equilibrium_property |
-| ORC-5CWK34HTUC.8ed34b | ORC-5CWK34HTUC.8ed34b | doi:10.1016/j.calphad.2014.11.005/p3/tab-2/r10#equilibrium_property |
 | ORC-CFKKFJWLEZ.044e9f | ORC-CFKKFJWLEZ.044e9f | doi:10.1016/j.calphad.2014.11.005/p3/tab-2/r15#equilibrium_property |
 | ORC-BNYYHWWIJ2.6526c5 | ORC-BNYYHWWIJ2.6526c5 | sha256:7dba98ff5b6d400f/p2/tab-i/r05#equilibrium_property |
 | ORC-XJLRGU3HQQ.9dfc81 | ORC-XJLRGU3HQQ.9dfc81 | sha256:7dba98ff5b6d400f/p2/tab-i/r07#equilibrium_property |
@@ -625,7 +624,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-7JD6XCXRB7.668c2f | ORC-7JD6XCXRB7.668c2f | sha256:d721a3a5fe63848f/p2/tab-1/r22#equilibrium_property |
 | ORC-34KYBMAMNH.bce292 | ORC-34KYBMAMNH.bce292 | sha256:d721a3a5fe63848f/p2/tab-1/r41#equilibrium_property |
 | ORC-VGPFFM6HKY.31582e | ORC-VGPFFM6HKY.31582e | sha256:d721a3a5fe63848f/p2/tab-1/r50#equilibrium_property |
-| ORC-XNBGYI6FKA.1661c8 | ORC-XNBGYI6FKA.1661c8 | sha256:d721a3a5fe63848f/p2/tab-1/r54#equilibrium_property |
 | ORC-AYWJZHYTRS.aeb0ce | ORC-AYWJZHYTRS.aeb0ce | sha256:8df6e975c3b6dbea/p3/tab-2/r10#equilibrium_property |
 | ORC-3KKWBH2XDZ.b64d86 | ORC-3KKWBH2XDZ.b64d86 | sha256:8df6e975c3b6dbea/p3/tab-2/r15#equilibrium_property |
 | ORC-M5W5YRWCXR.cc9321 | ORC-M5W5YRWCXR.cc9321 | sha256:8df6e975c3b6dbea/p3/tab-2/r11#equilibrium_property |

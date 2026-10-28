@@ -1,12 +1,12 @@
 # Chemical systems
 
-> 1862 chemical systems with literature thermodynamic data and/or calculated phase diagrams (ORCHID).
+> 1861 chemical systems with literature thermodynamic data and/or calculated phase diagrams (ORCHID).
 
 HTML: https://data.orchid-project.org/systems/index.html · Markdown: https://data.orchid-project.org/systems/index.md
 
 One page per chemical system (elements sorted alphabetically, joined by '-'), each with a Markdown twin at systems/\<SYS>.md and a CSV at systems/\<SYS>.csv. Binary systems first.
 
-Table: Chemical systems (1862)
+Table: Chemical systems (1861)
 
 | System | Accepted values | By evidence class | Invariants | Formation enthalpies | Calculated diagrams | Markdown |
 |---|---:|---|---:|---:|---:|---|
@@ -1846,7 +1846,6 @@ Table: Chemical systems (1862)
 | [Mo–Nb–Ta–W](https://data.orchid-project.org/systems/MO-NB-TA-W.html) | 0 |  | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/MO-NB-TA-W.md) |
 | [Nb–O–Ta–V](https://data.orchid-project.org/systems/NB-O-TA-V.html) | 6 | unspecified 6 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/NB-O-TA-V.md) |
 | [O–U–W–Zr](https://data.orchid-project.org/systems/O-U-W-ZR.html) | 4 | experimental 4 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/O-U-W-ZR.md) |
-| [Al–As–Ga–In–N](https://data.orchid-project.org/systems/AL-AS-GA-IN-N.html) | 0 |  | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/AL-AS-GA-IN-N.md) |
 | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | 32 | experimental 21, model 11 | 31 | 0 | 0 | [md](https://data.orchid-project.org/systems/AS-GE-P-S-SE.md) |
 | [B–Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/B-BA-CA-GA-SR.html) | 2 | experimental 2 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/B-BA-CA-GA-SR.md) |
 | [B–Cd–Sr–Ti–V](https://data.orchid-project.org/systems/B-CD-SR-TI-V.html) | 17 | experimental 8, model 9 | 17 | 0 | 0 | [md](https://data.orchid-project.org/systems/B-CD-SR-TI-V.md) |

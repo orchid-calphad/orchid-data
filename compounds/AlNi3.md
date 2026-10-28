@@ -80,7 +80,7 @@ Table: Uncertainty budget of the literature values of AlNi3
 | -42 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -41.7 | kJ/mol (basis unstated) |  | 0.05 | 15.6 (model_calculated, calibrated) |  |  |  | 15.6 |
 | -40.6 | kJ/mol (basis unstated) |  | 0.05 | 15.6 (model_calculated, calibrated) |  |  |  | 15.6 |
-| -43.45 | kJ/mol (basis unstated) |  | 0.005 | 16.01 (dft, calibrated) |  |  |  | 16.01 |
+| -43.45 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
 
 ## DFT formation energies
 

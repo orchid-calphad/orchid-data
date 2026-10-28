@@ -35,9 +35,9 @@ Table: Uncertainty budget of the literature values of Cu5Hf
 | -9.91 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -9.909 | kJ/mol (basis unstated) |  | 5.000e-4 | 23.4 (model_calculated, calibrated) |  |  |  | 23.4 |
 | -9.62 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -12.31 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -11.99 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -11.69 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -12.31 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -11.99 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -11.69 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 | -17.75 | kJ/mol (basis unstated) |  | 5.000e-4 | 21 (unknown, calibrated) |  |  |  | 21 |
 
 ## DFT formation energies

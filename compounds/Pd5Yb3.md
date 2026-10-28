@@ -36,7 +36,7 @@ Table: Uncertainty budget of the literature values of Pd5Yb3
 | -72.6797 | kJ/mol-atom |  | 5.000e-7 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -68.6462 | kJ/mol-atom |  | 5.000e-7 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -68.2429 | kJ/mol-atom |  | 5.000e-7 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -81.703 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -81.703 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of MoNi3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -8.54 | kJ/mol (basis unstated) |  | 0.005 | 16.01 (dft, calibrated) |  |  |  | 16.01 |
-| -4.663 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -1.86 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| 2.84 | kJ/mol (basis unstated) |  | 0.005 | 16.01 (dft, calibrated) |  |  |  | 16.01 |
-| 5.083 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| 17.06 | kJ/mol (basis unstated) |  | 0.005 | 16.01 (dft, calibrated) |  |  |  | 16.01 |
-| 42.65 | kJ/mol (basis unstated) |  | 0.005 | 16.01 (dft, calibrated) |  |  |  | 16.01 |
+| -8.54 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
+| -4.663 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -1.86 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| 2.84 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
+| 5.083 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| 17.06 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
+| 42.65 | kJ/mol (basis unstated) |  | 0.005 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
 
 ## Sources
 

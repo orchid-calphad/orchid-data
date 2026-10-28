@@ -26,8 +26,8 @@
    "loaded": 1251
   },
   "experimental": {
-   "files": 1122,
-   "loaded": 1122
+   "files": 1120,
+   "loaded": 1120
   },
   "invariants": {
    "files": 1546,
@@ -1927,12 +1927,6 @@
    "error": null
   },
   {
-   "path": "experimental/NI-ZR/NiZr-20Jan.hmr-01.json",
-   "source": "db-v2.1/general/espei/NiZr-20Jan/hmr-01.json",
-   "reason": "espei_evaluation_nonfinite",
-   "error": null
-  },
-  {
    "path": "experimental/NI-ZR/NiZr-20Jan.hmr-02.json",
    "source": "db-v2.1/general/espei/NiZr-20Jan/hmr-02.json",
    "reason": "espei_evaluation_nonfinite",
@@ -2657,7 +2651,7 @@
  ],
  "likelihood_evaluation": {
   "rule": "Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).",
-  "datasets_evaluated": 8593,
+  "datasets_evaluated": 8591,
   "all_finite": true,
   "by_folder_kind": {
    "assessed|zpf_driving_force_J": {
@@ -2681,20 +2675,20 @@
    "dft/literature|nonequilibrium_log_likelihood": {
     "datasets": 783,
     "values": 783,
-    "median_of_dataset_median_abs": 19.7782,
-    "p90_of_dataset_median_abs": 40.2065
+    "median_of_dataset_median_abs": 19.8146,
+    "p90_of_dataset_median_abs": 40.2211
    },
    "dft/mp|nonequilibrium_log_likelihood": {
     "datasets": 1251,
     "values": 1251,
-    "median_of_dataset_median_abs": 10.14,
-    "p90_of_dataset_median_abs": 11.8093
+    "median_of_dataset_median_abs": 10.1461,
+    "p90_of_dataset_median_abs": 11.7837
    },
    "dft/oqmd|nonequilibrium_log_likelihood": {
     "datasets": 1251,
     "values": 1251,
-    "median_of_dataset_median_abs": 10.0417,
-    "p90_of_dataset_median_abs": 11.7164
+    "median_of_dataset_median_abs": 10.0424,
+    "p90_of_dataset_median_abs": 11.8289
    },
    "experimental|activity_residual": {
     "datasets": 180,
@@ -2703,14 +2697,14 @@
     "p90_of_dataset_median_abs": 10643.2517
    },
    "experimental|nonequilibrium_log_likelihood": {
-    "datasets": 467,
-    "values": 467,
-    "median_of_dataset_median_abs": 9.4496,
+    "datasets": 466,
+    "values": 466,
+    "median_of_dataset_median_abs": 9.4528,
     "p90_of_dataset_median_abs": 15.6294
    },
    "experimental|residual": {
-    "datasets": 283,
-    "values": 709,
+    "datasets": 282,
+    "values": 698,
     "median_of_dataset_median_abs": 304.0,
     "p90_of_dataset_median_abs": 11251.128
    },
@@ -6598,6 +6592,13 @@
    "values": 1
   },
   {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 11
+  },
+  {
    "source": "general/espei/MgY-03Fab-LB/hmr-00.json",
    "reason": [
     "phase_not_in_target_tdb",
@@ -7091,6 +7092,14 @@
    "values": 1
   },
   {
+   "source": "general/espei/NiSc-15Zhu/hmr-00.json",
+   "reason": [
+    "composition_not_at_compound",
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 4
+  },
+  {
    "source": "general/espei/NiSc-15Zhu/hmr-01.json",
    "reason": [
     "composition_not_at_compound"
@@ -7168,6 +7177,13 @@
    "values": null
   },
   {
+   "source": "general/espei/NiZr-20Jan/hmr-01.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
    "source": "general/espei/NiZr-20Jan/hmr-07.json",
    "reason": [
     "not_espei_ready:literature_gate"
@@ -7183,6 +7199,13 @@
   },
   {
    "source": "general/espei/NiZr-20Jan/hmr-09.json",
+   "reason": [
+    "not_espei_ready:literature_gate"
+   ],
+   "values": 1
+  },
+  {
+   "source": "general/espei/NiZr-20Jan/hmr-14.json",
    "reason": [
     "not_espei_ready:literature_gate"
    ],
@@ -9061,6 +9084,7 @@
   {
    "source": "general/espei/no-model-AU-HO-TM/hmr-01.json",
    "reason": [
+    "not_espei_ready:literature_gate",
     "phase_not_in_target_tdb"
    ],
    "values": 10
@@ -16325,13 +16349,6 @@
    "values": 1
   },
   {
-   "source": "general/espei/NiSc-15Zhu/hmr-00.json",
-   "reason": [
-    "duplicate_identical_property_dataset"
-   ],
-   "values": 1
-  },
-  {
    "source": "general/espei/NiSi-03Tok/hmr-00.json",
    "reason": [
     "duplicate_identical_property_dataset"
@@ -16935,13 +16952,6 @@
   },
   {
    "source": "general/espei/NiZr-20Jan/hmr-00.json",
-   "reason": [
-    "espei_evaluation_nonfinite"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/NiZr-20Jan/hmr-01.json",
    "reason": [
     "espei_evaluation_nonfinite"
    ],
@@ -29261,6 +29271,72 @@
    "orchid_id": "ORC-IBSFAEN5EH"
   },
   {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-H7ENJQDUJ6.99b80a"
+  },
+  {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 1,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-EZOJ54UTJL.13bace"
+  },
+  {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 2,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-EZXA3AOMX6.d5c4df"
+  },
+  {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 3,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-FEWFJ26CW3.5dd48d"
+  },
+  {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 4,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-KZ4NUZIU52.c1915b"
+  },
+  {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 5,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-FKLR6ZOIAM.12852c"
+  },
+  {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 6,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-TUGV4SW2TT.547377"
+  },
+  {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 7,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-GUQUGAGYIH.ce5c2e"
+  },
+  {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 8,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-DD5UK6AI2N.5ee5f2"
+  },
+  {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 9,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-N7L5QACI4E.857ed3"
+  },
+  {
+   "source": "general/espei/MgSi-97Feu/hmr-23.json",
+   "index": 10,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-X4SKYZSGBZ.13a479"
+  },
+  {
    "source": "general/espei/MgY-03Fab-LB/hmr-00.json",
    "index": 0,
    "reason": "phase_rule:phase_label_not_mapped",
@@ -29996,10 +30072,15 @@
   },
   {
    "source": "general/espei/NiSc-15Zhu/hmr-00.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-5CWK34HTUC.8ed34b"
+  },
+  {
+   "source": "general/espei/NiSc-15Zhu/hmr-00.json",
    "index": 1,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-5CWK34HTUC.8ed34b",
-   "same_as": "ORC-5CWK34HTUC.8ed34b"
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-5CWK34HTUC.8ed34b"
   },
   {
    "source": "general/espei/NiSc-15Zhu/hmr-00.json",
@@ -30293,6 +30374,12 @@
    "same_as": "ORC-3NOZAMJ6QA.aa656c"
   },
   {
+   "source": "general/espei/NiZr-20Jan/hmr-01.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-NBII3YNUOQ"
+  },
+  {
    "source": "general/espei/NiZr-20Jan/hmr-07.json",
    "index": 0,
    "reason": "not_espei_ready:literature_gate",
@@ -30309,6 +30396,12 @@
    "index": 0,
    "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-YD4ZMVK7XT.3bcb4a"
+  },
+  {
+   "source": "general/espei/NiZr-20Jan/hmr-14.json",
+   "index": 0,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-2E4AGFCJE5"
   },
   {
    "source": "general/espei/PbO-98Ris-LB/gmr-00.json",
@@ -35112,6 +35205,18 @@
   },
   {
    "source": "general/espei/no-model-AU-HO-TM/hmr-01.json",
+   "index": 8,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-XNBGYI6FKA.1661c8"
+  },
+  {
+   "source": "general/espei/no-model-AU-HO-TM/hmr-01.json",
+   "index": 9,
+   "reason": "not_espei_ready:literature_gate",
+   "orchid_id": "ORC-XNBGYI6FKA.1661c8"
+  },
+  {
+   "source": "general/espei/no-model-AU-HO-TM/hmr-01.json",
    "index": 1,
    "reason": "duplicate_read_same_row",
    "orchid_id": "ORC-XILELDB44S.2bbebd",
@@ -35140,13 +35245,6 @@
   },
   {
    "source": "general/espei/no-model-AU-HO-TM/hmr-01.json",
-   "index": 9,
-   "reason": "duplicate_read_same_row",
-   "orchid_id": "ORC-XNBGYI6FKA.1661c8",
-   "same_as": "ORC-XNBGYI6FKA.1661c8"
-  },
-  {
-   "source": "general/espei/no-model-AU-HO-TM/hmr-01.json",
    "index": 0,
    "reason": "phase_not_in_target_tdb",
    "orchid_id": "ORC-XILELDB44S.2bbebd"
@@ -35168,12 +35266,6 @@
    "index": 6,
    "reason": "phase_not_in_target_tdb",
    "orchid_id": "ORC-VGPFFM6HKY.31582e"
-  },
-  {
-   "source": "general/espei/no-model-AU-HO-TM/hmr-01.json",
-   "index": 8,
-   "reason": "phase_not_in_target_tdb",
-   "orchid_id": "ORC-XNBGYI6FKA.1661c8"
   },
   {
    "source": "general/espei/no-model-BI-ER-TE/hmr-02.json",
@@ -38455,12 +38547,6 @@
   },
   {
    "source": "general/espei-model/CsO-15Gue/cpm-model-02.json",
-   "index": 4,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-5JTV2YD5ZE.92926b"
-  },
-  {
-   "source": "general/espei-model/CsO-15Gue/cpm-model-02.json",
    "index": 1,
    "reason": "duplicate_read_same_row",
    "orchid_id": "ORC-74PDWOUQ6D.656ab0",
@@ -38519,6 +38605,12 @@
    "index": 2,
    "reason": "phase_rule:compound_property_not_fittable",
    "orchid_id": "ORC-XIB343EK4O.aff151"
+  },
+  {
+   "source": "general/espei-model/CsO-15Gue/cpm-model-02.json",
+   "index": 4,
+   "reason": "phase_rule:compound_property_not_fittable",
+   "orchid_id": "ORC-5JTV2YD5ZE.92926b"
   },
   {
    "source": "general/espei-model/CsO-15Gue/cpm-model-02.json",
@@ -38613,12 +38705,6 @@
   },
   {
    "source": "general/espei-model/CsO-15Gue/sm-model-01.json",
-   "index": 4,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-5JTV2YD5ZE.0a54c3"
-  },
-  {
-   "source": "general/espei-model/CsO-15Gue/sm-model-01.json",
    "index": 1,
    "reason": "duplicate_read_same_row",
    "orchid_id": "ORC-74PDWOUQ6D.6cd4d8",
@@ -38677,6 +38763,12 @@
    "index": 2,
    "reason": "phase_rule:compound_property_not_fittable",
    "orchid_id": "ORC-XIB343EK4O.441b7e"
+  },
+  {
+   "source": "general/espei-model/CsO-15Gue/sm-model-01.json",
+   "index": 4,
+   "reason": "phase_rule:compound_property_not_fittable",
+   "orchid_id": "ORC-5JTV2YD5ZE.0a54c3"
   },
   {
    "source": "general/espei-model/CsO-15Gue/sm-model-01.json",
@@ -150311,18 +150403,18 @@
  ],
  "fixes": {
   "summary": {
-   "E1_va_added_datasets": 6578,
+   "E1_va_added_datasets": 6575,
    "E1_basis": {
     "metallic_system": 22,
     "system_tdbs": 1,
-    "target_tdb": 6555
+    "target_tdb": 6552
    },
    "E2_vertices_nulled": 5973,
    "E2_datasets": 1181,
    "E2_hyperplanes_added": 177,
    "E3_regions_removed": 680,
    "E3_datasets_emptied_and_dropped": 122,
-   "E4_values_removed": 1151,
+   "E4_values_removed": 1149,
    "E5_activity_datasets_audited": 114,
    "E5_reference_state_changed": 64,
    "E5_basis": {
@@ -150331,15 +150423,15 @@
    },
    "E5_records_disagreeing_with_paper": 84,
    "E6_weights_from_sigma_effective": {
-    "datasets": 1343,
-    "weight_lower_than_before": 1248,
+    "datasets": 1339,
+    "weight_lower_than_before": 1247,
     "weight_higher_than_before": 1,
-    "weight_unchanged": 94,
+    "weight_unchanged": 91,
     "by_class": {
      "higher:experimental": 1,
-     "lower:experimental": 725,
+     "lower:experimental": 724,
      "lower:model": 523,
-     "same:experimental": 94
+     "same:experimental": 91
     }
    }
   },
@@ -162465,12 +162557,6 @@
     "dataset": "general/espei/NbSi-09Gen/hmr-00.json"
    },
    {
-    "kept_id": "ORC-5CWK34HTUC.8ed34b",
-    "duplicate_id": "ORC-5CWK34HTUC.8ed34b",
-    "pid": "doi:10.1016/j.calphad.2014.11.005/p3/tab-2/r10#equilibrium_property",
-    "dataset": "general/espei/NiSc-15Zhu/hmr-00.json"
-   },
-   {
     "kept_id": "ORC-CFKKFJWLEZ.044e9f",
     "duplicate_id": "ORC-CFKKFJWLEZ.044e9f",
     "pid": "doi:10.1016/j.calphad.2014.11.005/p3/tab-2/r15#equilibrium_property",
@@ -163044,12 +163130,6 @@
     "kept_id": "ORC-VGPFFM6HKY.31582e",
     "duplicate_id": "ORC-VGPFFM6HKY.31582e",
     "pid": "sha256:d721a3a5fe63848f/p2/tab-1/r50#equilibrium_property",
-    "dataset": "general/espei/no-model-AU-HO-TM/hmr-01.json"
-   },
-   {
-    "kept_id": "ORC-XNBGYI6FKA.1661c8",
-    "duplicate_id": "ORC-XNBGYI6FKA.1661c8",
-    "pid": "sha256:d721a3a5fe63848f/p2/tab-1/r54#equilibrium_property",
     "dataset": "general/espei/no-model-AU-HO-TM/hmr-01.json"
    },
    {
@@ -167596,12 +167676,12 @@
   }
  },
  "summary": {
-  "datasets": 6456,
-  "values": 12516,
+  "datasets": 6454,
+  "values": 12504,
   "by_folder": {
    "experimental": {
-    "datasets": 1122,
-    "values": 2402,
+    "datasets": 1120,
+    "values": 2390,
     "systems": 185
    },
    "model": {
@@ -167647,8 +167727,8 @@
    "experimental/ACR_ZR": 21,
    "experimental/CPM": 61,
    "experimental/GMR": 26,
-   "experimental/HMR": 180,
-   "experimental/HM_FORM": 425,
+   "experimental/HMR": 179,
+   "experimental/HM_FORM": 424,
    "experimental/SM": 11,
    "experimental/SMR": 5,
    "experimental/SM_FORM": 42,
@@ -167682,12 +167762,13 @@
    "composition_differs_from_release": 19,
    "composition_differs_from_release;model_phase_rejected_by_label_check": 5,
    "composition_not_at_compound": 2,
+   "composition_not_at_compound;not_espei_ready:literature_gate": 1,
    "dft_superseded": 124,
-   "duplicate_identical_property_dataset": 58,
+   "duplicate_identical_property_dataset": 57,
    "duplicate_identical_zpf": 122,
    "duplicate_of_other_dataset": 1,
    "espei_evaluation_error": 68,
-   "espei_evaluation_nonfinite": 59,
+   "espei_evaluation_nonfinite": 58,
    "espei_evaluation_tdb_error": 13,
    "espei_evaluation_tdb_not_found": 3,
    "evidence_class_mismatch": 11,
@@ -167703,8 +167784,8 @@
    "not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 1,
    "not_accepted;temperature_differs_from_release": 1,
    "not_accepted;value_differs_from_release": 2,
-   "not_espei_ready:literature_gate": 149,
-   "not_espei_ready:literature_gate;phase_not_in_target_tdb": 3,
+   "not_espei_ready:literature_gate": 152,
+   "not_espei_ready:literature_gate;phase_not_in_target_tdb": 4,
    "not_espei_ready:literature_gate;phase_not_in_target_tdb;phase_rule:phase_label_not_mapped": 1,
    "not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable": 2,
    "not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable;phase_rule:phase_label_not_mapped": 1,
@@ -167712,7 +167793,7 @@
    "not_espei_ready:literature_gate;phase_rule:phase_label_not_mapped": 1,
    "not_espei_ready:literature_gate;value_differs_from_release": 6,
    "not_espei_ready:literature_gate;zpf_region_inert": 11,
-   "phase_not_in_target_tdb": 36,
+   "phase_not_in_target_tdb": 35,
    "phase_not_in_target_tdb;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 1,
    "phase_not_in_target_tdb;phase_rule:phase_label_not_mapped": 4,
    "phase_rule:compound_property_not_fittable": 277,
@@ -167748,7 +167829,7 @@
    "composition_not_at_compound": 15,
    "duplicate_identical_zpf": 680,
    "duplicate_of_other_dataset": 1,
-   "duplicate_read_same_row": 1151,
+   "duplicate_read_same_row": 1149,
    "duplicate_value_same_dataset": 22,
    "espei_evaluation_nonfinite_region": 52,
    "evidence_class_mismatch": 36,
@@ -167756,9 +167837,9 @@
    "gas_without_printed_pressure": 23,
    "model_phase_rejected_by_label_check": 417,
    "not_accepted": 51,
-   "not_espei_ready:literature_gate": 1115,
-   "phase_not_in_target_tdb": 106,
-   "phase_rule:compound_property_not_fittable": 701,
+   "not_espei_ready:literature_gate": 1130,
+   "phase_not_in_target_tdb": 105,
+   "phase_rule:compound_property_not_fittable": 703,
    "phase_rule:liquid_impossible_at_T": 3,
    "phase_rule:not_espei_ready": 294,
    "phase_rule:phase_label_ambiguous": 147,
@@ -167776,7 +167857,7 @@
    "zpf_region_inert": 1339
   },
   "reader_agreement": {
-   "experimental/multi_reader": 2346,
+   "experimental/multi_reader": 2334,
    "experimental/single_reader": 9,
    "experimental/single_reader_text_layer": 66,
    "invariants/multi_reader": 5517,
@@ -167787,7 +167868,7 @@
   },
   "reader_agreement_source": "release",
   "observation_match": {
-   "id": 13271
+   "id": 13256
   },
   "datasets_with_espei_evaluation": 0,
   "dft_candidates": {
@@ -167811,18 +167892,18 @@
    "oqmd/not_in_phase_registry": 6805
   },
   "fixes": {
-   "E1_va_added_datasets": 6578,
+   "E1_va_added_datasets": 6575,
    "E1_basis": {
     "metallic_system": 22,
     "system_tdbs": 1,
-    "target_tdb": 6555
+    "target_tdb": 6552
    },
    "E2_vertices_nulled": 5973,
    "E2_datasets": 1181,
    "E2_hyperplanes_added": 177,
    "E3_regions_removed": 680,
    "E3_datasets_emptied_and_dropped": 122,
-   "E4_values_removed": 1151,
+   "E4_values_removed": 1149,
    "E5_activity_datasets_audited": 114,
    "E5_reference_state_changed": 64,
    "E5_basis": {
@@ -167831,15 +167912,15 @@
    },
    "E5_records_disagreeing_with_paper": 84,
    "E6_weights_from_sigma_effective": {
-    "datasets": 1343,
-    "weight_lower_than_before": 1248,
+    "datasets": 1339,
+    "weight_lower_than_before": 1247,
     "weight_higher_than_before": 1,
-    "weight_unchanged": 94,
+    "weight_unchanged": 91,
     "by_class": {
      "higher:experimental": 1,
-     "lower:experimental": 725,
+     "lower:experimental": 724,
      "lower:model": 523,
-     "same:experimental": 94
+     "same:experimental": 91
     }
    }
   },

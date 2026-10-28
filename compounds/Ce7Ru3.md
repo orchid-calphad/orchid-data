@@ -42,11 +42,11 @@ Table: Uncertainty budget of the literature values of Ce7Ru3
 | -22.882 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -21.3837 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -17.8141 | kJ/mol-atom |  | 5.000e-5 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -26.4186 | kJ/mol-atom |  | 5.000e-6 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -26.3241 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -26.2954 | kJ/mol-atom |  | 5.000e-6 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -26.22 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -12.4356 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -26.4186 | kJ/mol-atom |  | 5.000e-6 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -26.3241 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -26.2954 | kJ/mol-atom |  | 5.000e-6 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -26.22 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -12.4356 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

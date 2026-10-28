@@ -46,11 +46,11 @@ Table: Uncertainty budget of the literature values of NbNi3
 | -33.925 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -32 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -30.645 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.6 (model_calculated, calibrated) |  |  |  | 15.6 |
-| -33.41 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -33.409 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.01 (dft, calibrated) |  |  |  | 16.01 |
-| -31.2 | kJ/mol-atom |  | 0.05 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -28.51 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -28.38 | kJ/mol-atom |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -33.41 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -33.409 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.42 (dft, calibrated) |  |  |  | 15.42 |
+| -31.2 | kJ/mol-atom |  | 0.05 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -28.51 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -28.38 | kJ/mol-atom |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## DFT formation energies
 

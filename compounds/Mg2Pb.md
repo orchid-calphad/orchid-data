@@ -53,16 +53,16 @@ Table: Uncertainty budget of the literature values of Mg2Pb
 | -5.52861 | kJ/mol-atom |  | 0.004824 | 4.1 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 4.1 |
 | -5.5 | kJ/mol-atom |  | 5.000e-5 | 4.1 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 4.1 |
 | -5.49966 | kJ/mol-atom |  | 0.04824 | 4.1 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 4.1 |
-| -11.6747 | kJ/mol-atom |  | 0.04824 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -11.674 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -6.13647 | kJ/mol-atom |  | 0.004824 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -6.136 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -6.07858 | kJ/mol-atom |  | 0.04824 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -6.078 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -5.978 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -5.97244 | kJ/mol-atom |  | 0.004824 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -4.24535 | kJ/mol-atom |  | 0.04824 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -4.245 | kJ/mol-atom |  | 5.000e-5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -11.6747 | kJ/mol-atom |  | 0.04824 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -11.674 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -6.13647 | kJ/mol-atom |  | 0.004824 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -6.136 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -6.07858 | kJ/mol-atom |  | 0.04824 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -6.078 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -5.978 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -5.97244 | kJ/mol-atom |  | 0.004824 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -4.24535 | kJ/mol-atom |  | 0.04824 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -4.245 | kJ/mol-atom |  | 5.000e-5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

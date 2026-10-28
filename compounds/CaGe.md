@@ -32,7 +32,7 @@ Table: Uncertainty budget of the literature values of CaGe
 | -57.5 | kJ/mol-atom | 10 | 0.05 | 3.2 (solution_reaction_calorimetry, calibrated) |  |  |  | 10 |
 | -76.3627 | kJ/mol-atom |  | 5.000e-6 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -63.9 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -64.3 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -64.3 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

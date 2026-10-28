@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AS-IN.html · Markdown: https://data.orchid-project.org/systems/AS-IN.md
 
-2 accepted literature values from 1 paper(s) (model 2); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+2 accepted literature values from 1 paper(s) (model 2); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AS-IN.json) · [CSV](https://data.orchid-project.org/systems/AS-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-IN) · [phases (8)](https://data.orchid-project.org/phases/pages/AS-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-IN.html) · [Markdown](https://data.orchid-project.org/systems/AS-IN.md)
 

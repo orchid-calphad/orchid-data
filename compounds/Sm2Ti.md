@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Sm2Ti
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 26.3791 | kJ/mol-atom |  | 0.004824 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| 70.9843 | kJ/mol-atom |  | 0.004824 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| 26.3791 | kJ/mol-atom |  | 0.004824 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| 70.9843 | kJ/mol-atom |  | 0.004824 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

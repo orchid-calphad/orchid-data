@@ -35,7 +35,7 @@
  "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
  "bibtex": "jain2013_mp",
  "weight": [
-  0.056948
+  0.055785
  ],
  "tags": [
   "dft_mp",
@@ -77,7 +77,7 @@
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
   "values": [
    {
-    "sigma": 8780.0,
+    "sigma": 8963.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "mp",
@@ -85,16 +85,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "GE-Y",
-     "n": 213,
-     "sigma_robust_kJ": 8.78,
-     "bias_median_kJ_not_applied": 4.709,
+     "n": 212,
+     "sigma_robust_kJ": 8.963,
+     "bias_median_kJ_not_applied": 4.832,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.628,
-      10.399
+      7.636,
+      10.405
      ],
-     "n_full_stratum": 217
+     "n_full_stratum": 216
     },
-    "weight_used": 0.056948,
+    "weight_used": 0.055785,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -0.8945239958333326,
@@ -105,14 +105,14 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": null,
-     "sigma_method": 8780.0,
+     "sigma_method": 8963.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 8780.0,
+     "sigma_effective": 8963.0,
      "method_class": "dft_mp",
      "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
-     "method_n_pairs": 213,
+     "method_n_pairs": 212,
      "method_entry": "dft/CALIBRATION.json#lso/mp|on_hull_single|metal|GE-Y"
     }
    }

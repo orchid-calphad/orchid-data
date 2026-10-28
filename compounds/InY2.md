@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of InY2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -39 | kJ/mol-atom |  | 0.5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -39 | kJ/mol-atom |  | 0.5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Li10Pb3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -22 | kJ/mol-atom |  | 0.5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -22 | kJ/mol-atom |  | 0.5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

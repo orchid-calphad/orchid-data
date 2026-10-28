@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Li5Pb2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -33.34 | kJ/mol-atom | 2 | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -31 | kJ/mol-atom |  | 0.5 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -33.34 | kJ/mol-atom | 2 | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -31 | kJ/mol-atom |  | 0.5 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

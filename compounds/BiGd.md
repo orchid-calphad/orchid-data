@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of BiGd
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -96.7 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -83 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -90.4625 | kJ/mol-atom |  | 5.000e-6 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -90.4625 | kJ/mol-atom |  | 5.000e-6 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

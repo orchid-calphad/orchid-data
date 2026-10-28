@@ -541,14 +541,14 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 | blocked_by_flag_phase_identity_missing | 260 |
 | blocked_by_flag_terminal_phase_mapping_unresolved | 15 |
 | espei_certified | 1892 |
-| espei_ready | 11188 |
+| espei_ready | 11172 |
 | espei_ready_calphad_disagrees | 319 |
-| espei_ready_no_prediction | 9375 |
-| phase_rule_fail_compound_property_not_fittable | 405 |
+| espei_ready_no_prediction | 9359 |
+| phase_rule_fail_compound_property_not_fittable | 407 |
 | phase_rule_fail_liquid_impossible_at_T | 3 |
 | phase_rule_fail_phase_label_ambiguous | 78 |
 | phase_rule_fail_phase_label_not_mapped | 545 |
-| phase_rule_pass | 11586 |
+| phase_rule_pass | 11570 |
 
 Values whose `espei_ready` the phase rule turned false:
 
@@ -882,6 +882,8 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-IDEY4NU7GH.6d36ca | CS-O | SM | 298.15 | Cs4O | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-NGZLBXOCTJ.51d7f5 | CS-O | CPM | 298.15 | Cs7O | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-NGZLBXOCTJ.89404d | CS-O | SM | 298.15 | Cs7O | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-SWEHTSC4LB.6455b7 | CS-O | SM | 298.15 | Cs7O2 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-SWEHTSC4LB.f524bc | CS-O | CPM | 298.15 | Cs7O2 | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-TSATJTWL4X.de9739 | CS-O | SM | 298.15 | Cs3O | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-TSATJTWL4X.f55708 | CS-O | CPM | 298.15 | Cs3O | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-2T3W5BF2L4.4e597c | ER-GE | GM_FORM | 950.0 | LT_ErGe2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -1870,11 +1872,11 @@ Every value was checked against its table, its paper, the physics of its quantit
 |---|---:|---:|
 | records | 77540 | 73542 |
 | extraction_accepted | 76600 | 65284 |
-| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13004 |
+| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 12990 |
 | records with corrections | | 15528 |
-| records with gate failures | | 12041 |
-| page-check ledger entries (tools/literature_visual_checks.json) | | 3126 |
-| page-check keys looked up by the gates (table entries expanded to rows) | | 3167 |
+| records with gate failures | | 12057 |
+| page-check ledger entries (tools/literature_visual_checks.json) | | 3142 |
+| page-check keys looked up by the gates (table entries expanded to rows) | | 3183 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -2039,6 +2041,8 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `misread_on_page` | demoted | 88 |
 | page page checks (visual) | `mutually_inconsistent` | flagged | 10 |
 | page page checks (visual) | `oxygen_stoichiometry_unspecified` | flagged | 30 |
+| page page checks (visual) | `pa_molar_basis_requires_confirmation` | flagged | 5 |
+| page page checks (visual) | `pa_solution_drop_heat_not_integral_mixing` | flagged | 11 |
 | page page checks (visual) | `page_fix_cited_sources` | corrected | 30 |
 | page page checks (visual) | `page_fix_elements` | corrected | 178 |
 | page page checks (visual) | `page_fix_evidence_class` | corrected | 180 |
@@ -2106,7 +2110,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | evidence_table | experimental_own | 2 |
 | evidence_table | mixed | 4 |
 | evidence_table | model | 2 |
-| flag | confirmed | 874 |
+| flag | confirmed | 890 |
 | flag_precision_sample | false_positive | 5 |
 | flag_precision_sample | true_positive | 15 |
 | invariant_table | checked | 160 |

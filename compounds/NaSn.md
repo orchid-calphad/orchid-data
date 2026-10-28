@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of NaSn
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -0.452 | eV |  | 5.000e-4 | 0.1709 (dft, calibrated) |  |  |  | 0.1709 |
-| -0.445 | eV |  | 5.000e-4 | 0.1709 (dft, calibrated) |  |  |  | 0.1709 |
+| -0.452 | eV |  | 5.000e-4 | 0.174 (dft, calibrated) |  |  |  | 0.174 |
+| -0.445 | eV |  | 5.000e-4 | 0.174 (dft, calibrated) |  |  |  | 0.174 |
 
 ## Sources
 

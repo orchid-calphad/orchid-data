@@ -129,7 +129,7 @@ sigma_effective = max( sqrt( max(sigma_printed, sigma_reading, sigma_method)^2 +
 
 ## DFT
 
-Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 459, robust sigma 7.14 kJ/mol-atom; strata: magnetic_3d n 105 sigma 4.003, metal n 231 sigma 8.243, pblock_anion n 123 sigma 10.05.
+Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 458, robust sigma 7.19 kJ/mol-atom; strata: magnetic_3d n 105 sigma 3.856, metal n 230 sigma 8.395, pblock_anion n 123 sigma 10.05.
 
 | value type | prior floor | basis |
 |---|---:|---|
@@ -209,7 +209,7 @@ Literature DFT formation enthalpies (from `espei/dft/CALIBRATION.json`): all n 4
 | experimental | HM_FORM | kems_vapour_second_law | 11 | 6 | 2 | 2 |
 | experimental | HM_FORM | kems_vapour_third_law | 8 | 5 | 1 | 0 |
 | experimental | HM_FORM | solution_reaction_calorimetry | 537 | 296 | 211 | 5 |
-| experimental | HM_FORM | unknown | 1199 | 439 | 286 | 49 |
+| experimental | HM_FORM | unknown | 1199 | 439 | 288 | 49 |
 | experimental | H_MIX_PARTIAL | dsc_dta | 2 | 2 | 1 | 0 |
 | experimental | H_MIX_PARTIAL | emf | 4 | 0 | 0 | 0 |
 | experimental | H_MIX_PARTIAL | equilibration_other | 5 | 0 | 0 | 0 |

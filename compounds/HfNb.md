@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of HfNb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -6.162 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| 5.746 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| 8.757 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
-| 20.666 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
+| -6.162 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| 5.746 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| 8.757 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
+| 20.666 | kJ/mol (basis unstated) |  | 5.000e-4 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
 
 ## Sources
 

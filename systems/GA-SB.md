@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/GA-SB.html · Markdown: https://data.orchid-project.org/systems/GA-SB.md
 
-2 accepted literature values from 1 paper(s) (model 2); 2 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (model 2); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-SB.json) · [CSV](https://data.orchid-project.org/systems/GA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SB/GaSb-94Ans-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-SB.html) · [Markdown](https://data.orchid-project.org/systems/GA-SB.md)
 

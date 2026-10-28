@@ -28,7 +28,7 @@ Table: Uncertainty budget of the literature values of Bi3Sr
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -89.87 | kJ/mol-atom | 5.64 | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 5.64 |
 | -42.56 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -43.22 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -43.22 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 

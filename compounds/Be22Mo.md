@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Be22Mo
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -5.6 | kJ/mol (basis unstated) |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -3.94 | kJ/mol (basis unstated) |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -3.94 | kJ/mol (basis unstated) |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

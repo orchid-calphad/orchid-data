@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of NbZn2
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -15.233 | kJ/mol (basis unstated) |  | 5.000e-4 | 11.7 (model_calculated, calibrated) |  |  |  | 11.7 |
-| -15.236 | kJ/mol (basis unstated) |  | 5.000e-4 | 24.73 (dft, calibrated) |  |  |  | 24.73 |
+| -15.236 | kJ/mol (basis unstated) |  | 5.000e-4 | 25.18 (dft, calibrated) |  |  |  | 25.18 |
 
 ## Sources
 

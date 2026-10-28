@@ -32,7 +32,7 @@ Table: Uncertainty budget of the literature values of Al2.7Ir
 | -68.8 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -68.3 | kJ/mol-atom | 0.5 | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -67.8 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -68.3 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -68.3 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## Sources
 

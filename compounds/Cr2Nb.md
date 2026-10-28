@@ -31,8 +31,8 @@ Table: Uncertainty budget of the literature values of Cr2Nb
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -7 | kJ/mol (basis unstated) |  | 0.5 | 12.3 (experimental_unspecified, cleaned_below_threshold) |  |  |  | 12.3 |
 | -9.93 | kJ/mol (basis unstated) |  | 0.005 | 11.7 (model_calculated, calibrated) |  |  |  | 11.7 |
-| -7.44 | kJ/mol (basis unstated) |  | 0.005 | 12.01 (dft, calibrated) |  |  |  | 12.01 |
-| -6.93 | kJ/mol (basis unstated) |  | 0.005 | 12.01 (dft, calibrated) |  |  |  | 12.01 |
+| -7.44 | kJ/mol (basis unstated) |  | 0.005 | 11.57 (dft, calibrated) |  |  |  | 11.57 |
+| -6.93 | kJ/mol (basis unstated) |  | 0.005 | 11.57 (dft, calibrated) |  |  |  | 11.57 |
 | -7.02 | kJ/mol (basis unstated) |  | 0.005 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 | -6.3 | kJ/mol (basis unstated) |  | 0.05 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 

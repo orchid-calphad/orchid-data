@@ -32,7 +32,7 @@ Table: Uncertainty budget of the literature values of AuSn
 | -14.88 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -15.75 | kJ/mol (basis unstated) |  | 0.005 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
 | -15.69 | kJ/mol (basis unstated) |  | 0.005 | 7.8 (model_calculated, calibrated) |  |  |  | 7.8 |
-| -18.77 | kJ/mol (basis unstated) |  | 0.005 | 16.49 (dft, calibrated) |  |  |  | 16.49 |
+| -18.77 | kJ/mol (basis unstated) |  | 0.005 | 16.79 (dft, calibrated) |  |  |  | 16.79 |
 
 ## DFT formation energies
 

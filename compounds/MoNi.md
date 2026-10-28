@@ -31,14 +31,14 @@ Table: Uncertainty budget of the literature values of MoNi
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -6.405 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| -4.49 | kJ/mol (basis unstated) |  | 0.005 | 8.006 (dft, calibrated) |  |  |  | 8.006 |
-| -2.8 | kJ/mol (basis unstated) |  | 0.05 | 8.006 (dft, calibrated) |  |  |  | 8.006 |
-| -2.24 | kJ/mol (basis unstated) |  | 0.005 | 8.006 (dft, calibrated) |  |  |  | 8.006 |
-| -0.89 | kJ/mol (basis unstated) |  | 0.005 | 8.006 (dft, calibrated) |  |  |  | 8.006 |
-| -0.1 | kJ/mol (basis unstated) |  | 0.05 | 8.006 (dft, calibrated) |  |  |  | 8.006 |
-| 1.98 | kJ/mol (basis unstated) |  | 0.005 | 8.006 (dft, calibrated) |  |  |  | 8.006 |
-| 10.45 | kJ/mol (basis unstated) |  | 0.005 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -6.405 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| -4.49 | kJ/mol (basis unstated) |  | 0.005 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
+| -2.8 | kJ/mol (basis unstated) |  | 0.05 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
+| -2.24 | kJ/mol (basis unstated) |  | 0.005 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
+| -0.89 | kJ/mol (basis unstated) |  | 0.005 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
+| -0.1 | kJ/mol (basis unstated) |  | 0.05 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
+| 1.98 | kJ/mol (basis unstated) |  | 0.005 | 7.712 (dft, calibrated) |  |  |  | 7.712 |
+| 10.45 | kJ/mol (basis unstated) |  | 0.005 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## Sources
 

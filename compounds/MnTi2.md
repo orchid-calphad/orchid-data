@@ -29,8 +29,8 @@ Table: Uncertainty budget of the literature values of MnTi2
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -6.584 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -4.744 | kJ/mol-atom |  | 5.000e-4 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| 36.577 | kJ/mol-atom |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
-| 43.732 | kJ/mol-atom |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| 36.577 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
+| 43.732 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## DFT formation energies
 

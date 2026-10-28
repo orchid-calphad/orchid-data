@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of CoPt
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -13.6 | per mol-atom | 0.7 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 0.7 |
-| -12.265 | kJ/mol-atom |  | 5.000e-4 | 4.003 (dft, calibrated) |  |  |  | 4.003 |
+| -12.265 | kJ/mol-atom |  | 5.000e-4 | 3.856 (dft, calibrated) |  |  |  | 3.856 |
 
 ## Sources
 

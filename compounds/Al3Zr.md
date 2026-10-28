@@ -135,22 +135,22 @@ Table: Uncertainty budget of the literature values of Al3Zr
 | -39 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
 | -37.8 | kJ/mol-atom |  | 0.05 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
 | -36.2 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -188.5 | eV/kJ mol−1 |  | 0.05 | 0.3417 (dft, calibrated) |  |  |  | 0.3417 |
-| -178.5 | eV/kJ mol−1 |  | 0.05 | 0.3417 (dft, calibrated) |  |  |  | 0.3417 |
-| -178.4 | eV/kJ mol−1 |  | 0.05 | 0.3417 (dft, calibrated) |  |  |  | 0.3417 |
+| -188.5 | eV/kJ mol−1 |  | 0.05 | 0.348 (dft, calibrated) |  |  |  | 0.348 |
+| -178.5 | eV/kJ mol−1 |  | 0.05 | 0.348 (dft, calibrated) |  |  |  | 0.348 |
+| -178.4 | eV/kJ mol−1 |  | 0.05 | 0.348 (dft, calibrated) |  |  |  | 0.348 |
 | -49.106 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -49.106 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
-| -46.78 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -49.106 | kJ/mol-atom |  | 5.000e-4 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
+| -46.78 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 | -46.78 | unknown |  | 0.005 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -46.77 | kJ/mol-atom |  | 0.005 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -46.77 | kJ/mol-atom |  | 0.005 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 | -46.77 | unknown |  | 0.005 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -39.593 | kJ/mol-atom |  | 5.000e-4 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -39.593 | kJ/mol-atom |  | 5.000e-4 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 | -37.599 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
 | -36.02 | unknown |  | 0.005 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
 | -35.308 | unknown |  | 5.000e-4 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -1.954 | eV/f.u. |  | 5.000e-4 | 0.3417 (dft, calibrated) |  |  |  | 0.3417 |
-| -1.85 | eV/f.u. |  | 0.005 | 0.3417 (dft, calibrated) |  |  |  | 0.3417 |
-| -1.849 | eV/f.u. |  | 5.000e-4 | 0.3417 (dft, calibrated) |  |  |  | 0.3417 |
+| -1.954 | eV/f.u. |  | 5.000e-4 | 0.348 (dft, calibrated) |  |  |  | 0.348 |
+| -1.85 | eV/f.u. |  | 0.005 | 0.348 (dft, calibrated) |  |  |  | 0.348 |
+| -1.849 | eV/f.u. |  | 5.000e-4 | 0.348 (dft, calibrated) |  |  |  | 0.348 |
 
 ## DFT formation energies
 

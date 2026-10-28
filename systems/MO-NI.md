@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/MO-NI.html · Markdown: https://data.orchid-project.org/systems/MO-NI.md
 
-38 accepted literature values from 3 paper(s) (experimental 7, model 10, DFT 21); 5 calculated phase diagram(s). 30 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+38 accepted literature values from 3 paper(s) (experimental 7, model 10, DFT 21); 5 calculated phase diagram(s). 28 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI.json) · [CSV](https://data.orchid-project.org/systems/MO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-NI/MoNi-01Mor.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MO-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NI.html) · [Markdown](https://data.orchid-project.org/systems/MO-NI.md)
 

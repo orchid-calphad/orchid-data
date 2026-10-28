@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Al3U
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -87 | kJ/mol (basis unstated) |  | 0.05 | 32.97 (dft, calibrated) |  |  |  | 32.97 |
+| -87 | kJ/mol (basis unstated) |  | 0.05 | 33.58 (dft, calibrated) |  |  |  | 33.58 |
 
 ## Sources
 

@@ -29,8 +29,8 @@ Table: Uncertainty budget of the literature values of AuSn2
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -13.38 | kJ/mol (basis unstated) |  | 0.005 | 11.7 (model_calculated, calibrated) |  |  |  | 11.7 |
 | -13.38 | kJ/mol-atom |  | 0.005 | 3.9 (model_calculated, calibrated) |  |  |  | 3.9 |
-| -13.1 | kJ/mol (basis unstated) |  | 0.05 | 24.73 (dft, calibrated) |  |  |  | 24.73 |
-| -13.1 | kJ/mol-atom |  | 0.05 | 8.243 (dft, calibrated) |  |  |  | 8.243 |
+| -13.1 | kJ/mol (basis unstated) |  | 0.05 | 25.18 (dft, calibrated) |  |  |  | 25.18 |
+| -13.1 | kJ/mol-atom |  | 0.05 | 8.395 (dft, calibrated) |  |  |  | 8.395 |
 
 ## DFT formation energies
 
