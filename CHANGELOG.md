@@ -1,6 +1,72 @@
 # Changelog
 
-## Unreleased — ESPEI datasets, bibliography, literature re-export (2026-10-23)
+## v2026.10 — Version 1, first public release (29 October 2026)
+
+ORCHID's first public release. It gathers openly available CALPHAD thermodynamic databases and the evidence behind them, with every value stored as an observation of an equilibrium state: the phases, temperature, pressure, compositions and reference state, together with the source, the page, the quoted sentence or table row, and an evidence class (experimental, model, DFT, assessed phase diagram, unspecified) that is never mixed.
+
+**Version 1 is machine-extracted.** Values were read from papers by language-model readers that had to quote their source, checked automatically, and then audited against the printed pages by independent AI reviewers; people have reviewed samples only. The flags `accepted`, `espei_ready` and `espei_certified` record the outcome of screening rules. They do not certify that a value is correct.
+
+### What is released
+
+| Dataset | DOI | Content |
+|---|---|---|
+| ORCHID-Values | 10.5281/zenodo.23735569 | 73,542 literature values from 1,321 papers; 66,551 accepted; 11,161 ESPEI-ready; 1,892 certified |
+| ORCHID ESPEI datasets | 10.5281/zenodo.23735788 | 8,589 datasets: 6,452 from literature values and DFT (12,512 values) and 2,137 optional phase constraints |
+| ORCHID-Diagrams | 10.5281/zenodo.23735859 | binary phase diagrams calculated from open TDB files, each tied to its file by SHA-256 |
+| ORCHID-Hulls | 10.5281/zenodo.23735891 | binary DFT convex hulls (Materials Project, OQMD) and assessed CALPHAD hulls |
+| ORCHID-Parity | 10.5281/zenodo.23735943 | literature formation enthalpies against DFT, structure-matched, with error statistics |
+| ORCHID-Registry | 10.5281/zenodo.23735970 | 10,430 binary phases with their names, TDB models and structures |
+| ORCHID-Assemblages | 10.5281/zenodo.23735996 | 23,129 points inside the named fields of 2,178 assessed (handbook) binary diagrams |
+| ORCHID-Bibliography | 10.5281/zenodo.23736021 | 9,570 papers with their roles and typed citation relations |
+| ORCHID examples | 10.5281/zenodo.23736043 | runnable workflows (Cu–Zr with PhaseForge+ and ESPEI, one-shot MLIP phase diagrams, MLIP formation enthalpies, quickstart) |
+| ORCHID data (umbrella) | 10.5281/zenodo.23736065 | links all of the above |
+
+All datasets are released under CC BY 4.0 and the code under MIT. Upstream data keep their own terms, listed in `LICENSES.md`.
+
+### How the release was checked
+
+- **Automatic gates** on every value: the quote must be found on the page, fields must sit where the table prints them, signs are checked against the printed page, the Gibbs phase rule and the law of adjacent phase regions are enforced, and formation enthalpies are compared with DFT and with Kim et al. (2017).
+- **Adversarial audits** of random samples against the printed pages, repeated after each round of fixes.
+- **An independent second review** of the records that feed CALPHAD fits.
+- **A preliminary human review** of a frozen sample of 300 records, of which 210 were assessed: the numerical value was right in 95.6 % of the assessable responses, and all reviewed fields together in 81.5 %. It was followed by an AI-assisted adjudication of the 81 records the reviewers questioned.
+- **A measured precision of the fit-facing data:** in a blind random sample of 200 ESPEI-ready records, 189 were safe to fit (94.5 %, 95 % interval 90.4–96.9 %). Value, composition, phases, property and evidence class were right in all 200. The 11 problems found (9 molar bases, 2 temperatures) are fixed or flagged in this release.
+
+### Changes made before release (27–28 October)
+
+- **A state needs real phases.** Invariant, transition and phase-composition values are accepted only when the record names at least one real phase; placeholder labels such as "unknown", "other" or "?" do not count. Where the page prints the phase for the row or for its table group, it was recovered (1,267 records), and those records are accepted again; they stay out of ESPEI until revalidated.
+- **Page-checked corrections, all guarded:**
+  - 301 from an independent second review;
+  - 2,971 records from 287 table pages, where continuation rows had lost the phase or structure printed for their group;
+  - 688 corrections and 503 flags for defects seen on those pages (wrong phase labels, entropies of melting stored as entropies, Cp coefficients stored as Cp, annealing temperatures stored as measurement temperatures, nm/Å mix-ups, duplicate readings);
+  - 287 more from a final round (records moved to the chemical system of their state, page mismatches, duplicate readings, temperatures).
+  - 15 more for property series that cross a phase transition (see Known issues).
+
+  Each correction keeps the value before, the value after and the page evidence. Records named by a correction are filed under the chemical system of their own state.
+- **Duplicates:** readings of the same printed row are linked with `duplicate_of`, which is also a Parquet column; exclude them before fitting. Where a table prints a value both per formula unit and per atom, the per-atom record is kept.
+- **Exclusions from fitting:** 692 records named by the independent review (for example Ga–Pb compositions inside the miscibility gap) are kept, flagged and excluded from ESPEI and from the DFT calibration. Records whose molar basis or attribution could not be confirmed on the page are also out of ESPEI.
+- **Uncertainty calibration** was recomputed without the excluded records. The ESPEI weights of about 1,000 datasets moved, by a median of about 2 %.
+
+### Known issues
+
+- **Values printed only in figures are not included.** A pilot for reading points from figures is under way.
+- **Placeholder phases:** 1,687 records still lack a real phase. A blind check found a phase printed on the page for only about 5 % of them (95 % interval 1.7–13.7 %), so most cannot be recovered from the page.
+- **Table rows that continue a group:** the accepted records were checked table by table. Candidates among the non-accepted records are not yet checked.
+- **Two Ni–Te records** (Table 5 of one paper) are filed under the wrong system. The correction was held back because the page does not support the proposed move.
+- **Properties across a phase transition:** heat-capacity, heat-content and lattice-parameter series that span a recorded transition were audited on the page; 15 records were assigned to the phase on their side of the transition and 110 records whose side could not be resolved are flagged and excluded from fitting.
+- **Higher-order systems:** the phase registry covers binary phases only, so ternary phase names are not yet mapped to one identity.
+- **A few individual records:**
+  - some Ga–Sn records lack the measurement method, which is printed only on the previous page;
+  - two Ga–Sn values are misprinted in the source;
+  - three Fe–Y values printed in the paper have no record;
+  - Ga–Pb mixture compositions inside the gap are excluded but not relabelled.
+
+Report problems through `CONTRIBUTING.md` or the issue tracker. Each report is checked on the page before a correction is made.
+
+### Coming next (2026.10.1)
+
+The remaining fixes listed above, and the first results of the figure-reading pilot. Further ahead are a state registry and evidence graph linking every observation to the state it describes, and assembled ternary databases tested against ORCHID's ternary data.
+
+## Pre-release development — ESPEI datasets, bibliography, literature re-export (2026-10-23)
 
 **Audit round 2 fixes A1-A4 (2026-10-24, PI "fix all").** Ledger: `~/projects/ORCHID_AUDIT_2026-10-24/FIXES_R2.md`
 (finding, fix, evidence, test). Page checks 1,251 -> 1,534 in `tools/literature_visual_checks.json` (rendered pages
@@ -267,7 +333,7 @@ DOI; `bibliography/DOI_MISMATCHES.md`). Hugging Face configs `bibliography_paper
 Release metadata: nine Zenodo records (eight datasets plus the umbrella); `zenodo/espei.metadata.json`,
 `zenodo/bibliography.metadata.json`, umbrella `hasPart`, `zenodo/dois.json` placeholders.
 
-## Unreleased — assessed phase assemblages v1 (2026-10-23)
+## Pre-release development — assessed phase assemblages v1 (2026-10-23)
 
 New dataset **ORCHID assessed phase assemblages (binary systems)** (`assessed-phase-assemblages/`, Zenodo record
 `assessed-phase-assemblages`, 10.5281/zenodo.23735996, `hasPart` of the umbrella; Version 1,
@@ -281,7 +347,7 @@ block (low credence). ESPEI ZPF datasets, one per diagram (1,070; default with n
 variant), validated with ESPEI 0.9.1. Data only: no page images, crops or handbook text (build-time guard). Built by
 `tools/build_assessed_assemblages.py` (orchid-project.org).
 
-## Unreleased — phase registry v0 (2026-10-23)
+## Pre-release development — phase registry v0 (2026-10-23)
 
 New dataset **ORCHID phase registry (binary systems)** (`phases/`, Zenodo record `phase-registry`,
 10.5281/zenodo.23735970, `hasPart` of the umbrella): 10,496 phases in 1,241 binary systems, 43,251 names
@@ -310,7 +376,7 @@ CONSTITUENT statements, example DOIs; schema.org Dataset / DefinedTerm JSON-LD) 
 linked from the system pages and listed in `sitemap.xml`, `llms.txt`, `llms-full.txt` and `index.md`. The static pages
 are web views and not part of the Zenodo record.
 
-## v2026.10 — Version 1, machine-extracted (2026-10-22)
+## Pre-release snapshot — Version 1, machine-extracted (2026-10-22)
 
 First citable release of the ORCHID data, archived on Zenodo as four datasets, each its own record and DOI, plus
 the umbrella record *ORCHID data* that links them (DataCite `isPartOf` / `hasPart`).

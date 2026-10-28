@@ -19,12 +19,12 @@
  ],
  "exclude": [],
  "n_files": 2791,
- "total_bytes": 123660238,
+ "total_bytes": 123667694,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 37951,
-   "sha256": "ca6f2d7b39d7724ab8939d8f94ac72806b96f94ea0622fbc7b64e72b379657fe"
+   "bytes": 45407,
+   "sha256": "ae5cfeb8ab70a3ff78911f4e4bb9af170ed711ed55b0b31d601b0f741530ec61"
   },
   {
    "path": "CITATIONS.json",
